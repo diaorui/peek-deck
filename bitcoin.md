@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T22:28:40.352495+00:00'
+updated: '2026-03-02T22:55:48.007141+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 22:28 UTC  
+**Last Updated:** March 02, 2026 at 22:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -119,7 +119,7 @@ Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour
 
 Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As of 3/1/2026, we hodl 720,737 BTC acquired for ~$54.77 billion at ~$75,985 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 7h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 8h ago
 
 ---
 
@@ -133,13 +133,13 @@ Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As 
 
 So I’m curious what people here think. When conflicts or wars happen, does Bitcoin actually benefit in the long run, or does it usually just get dragged down with the rest of the markets first? Kind of alarming but i know btc survived stuff already
 
-6h ago
+7h ago
 
 ---
 
 **[the world continues to wage war 17 years after bitcoin launched. Thankfully freedom money is proliferating. A global truth open and available to all.](https://www.reddit.com/r/Bitcoin/comments/1riwfjq/the_world_continues_to_wage_war_17_years_after/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -189,13 +189,13 @@ The Motley Fool • 1h ago
 
 Strategy Inc. (NASDAQ:MSTR) co-founder Michael Saylor has been one of artificial intelligence’s biggest proponents, and not long ago stressed the importance of mastering the technology to generate wealth in the modern era. AI: Pathway To Wealth? In his keynote address...
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -237,7 +237,7 @@ Dallas News • 5h ago
 
 **[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
 
-⬆️ 9 • 💬 3 • 4d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+⬆️ 9 • 💬 3 • 5d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
 
 ---
 
@@ -269,7 +269,7 @@ Links to major crypto world figures are just the start.
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 3 • 💬 2 • 23h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 3 • 💬 2 • 1d ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -281,7 +281,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 1d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 2d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -293,7 +293,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 **[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
 
-⬆️ 2 • 💬 0 • 36m ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
+⬆️ 2 • 💬 0 • 1h ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin usually gets a rally into early March, then forms a lower high and goes 
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 3K • 💬 176 • ⏱️ 21:27 • 5h ago
+👁️ 39K • 👍 3K • 💬 176 • ⏱️ 21:27 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 9K • 👍 638 • 💬 130 • ⏱️ 9:51 • 5h ago
+👁️ 9K • 👍 638 • 💬 130 • ⏱️ 9:51 • 6h ago
 
 ---
 
@@ -365,7 +365,7 @@ Everyone from mainstream media to the "permabears" has been screaming about a ma
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 433 • 💬 3 • ⏱️ 1:57:53 • 4h ago
+👁️ 10K • 👍 433 • 💬 3 • ⏱️ 1:57:53 • 5h ago
 
 ---
 
@@ -385,7 +385,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 545 • 💬 72 • ⏱️ 17:48 • 6h ago
+👁️ 10K • 👍 545 • 💬 72 • ⏱️ 17:48 • 7h ago
 
 ---
 

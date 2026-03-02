@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T22:28:40.361662+00:00'
+updated: '2026-03-02T22:55:48.015137+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 22:28 UTC  
+**Last Updated:** March 02, 2026 at 22:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
 
-11h ago
+12h ago
 
 ---
 
 **[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-35m ago
+1h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.co
 
 Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Hey , i want to study my Msc in robotics ( my background is in electrical engineering especially power). Im thinking of making a transition in my path from power sector into robotics (possibly defense sector) what is the market currently for robotics graduates? And what is the future? Im also entrepreneur so im into opening a startup in this sector once i acquire the right knowledge
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hey , i want to study my Msc in robotics ( my background is in electrical engine
 
 There’s a long history in robotics of pushing, pulling, and otherwise “torturing” robots during demos. The purpose is to demonstrate robustness. Engineers introduce disturbances to show how well the control system responds, whether that’s balance recovery or reacting to changes in the environment. In many cases, these tests are meant to highlight stability control and real-time response, not spectacle. The robot is being forced to recover without relying on a scripted sequence. At the same time, there’s an acknowledgment that the practice may have outlived its usefulness.
 
-3h ago
+4h ago
 
 ---
 
@@ -136,7 +136,7 @@ The Robot Report • 3h ago
 
 BMW launched an initial test deployment of Hexagon's AEON humanoid at its Group Plant Leipzig in December 2025
 
-The Robot Report • 4h ago
+The Robot Report • 5h ago
 
 ---
 
@@ -176,7 +176,7 @@ Los Angeles Times • 2d ago
 
 The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
 
-Pittsburgh Post-Gazette • 23h ago
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -264,7 +264,7 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 35K • 👍 641 • 💬 45 • ⏱️ 1:29:27 • 1d ago
+👁️ 35K • 👍 641 • 💬 45 • ⏱️ 1:29:27 • 2d ago
 
 ---
 

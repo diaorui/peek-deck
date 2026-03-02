@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-02T22:28:40.344065+00:00'
+updated: '2026-03-02T22:55:47.999746+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 02, 2026 at 22:28 UTC  
+**Last Updated:** March 02, 2026 at 22:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I had some time and decided to write a short essay about some aspects that I do 
 
 World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
 
-🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 10h ago
+🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ World models are advancing rapidly inside AI labs, but enterprise adoption is la
 
 Dashboard for near real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Dashboard for near real-time GPU and LLM pricing across cloud and inference prov
 
 I’m a professor of creative pedagogies and I build small games that teach AI literacy through play rather than lectures. Two are live and free: Bot or Not — ten rounds where students try to distinguish human writing from AI-generated text. Most score worse than they expect, which is the starting point for a real conversation about what AI text actually looks like. Takes 5 minutes. Works well as a class starter. https://samillingworth.itch.io/bot-or-not Dead Reference — students are shown academic citations and have to identify which are real and which were fabricated by an AI. It teaches citation verification as a practical skill rather than a rule to follow. Every fabricated reference looks plausible. That’s the lesson. https://samillingworth.itch.io/dead-reference Both are browser-based, no accounts, no data collection. Built them for my own students and curriculum but they work in any context where you want students to think critically about AI output rather than just be told to. Happy to answer questions about how I use them in sessions.
 
-39m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ I’m a professor of creative pedagogies and I build small games that teach AI l
 
 An interactive cinematic experience. Seven scenes. Generative music. One story. Turn your sound on.
 
-🔗 [claude-a-story-in-light.vercel.app](https://claude-a-story-in-light.vercel.app) • 1h ago
+🔗 [claude-a-story-in-light.vercel.app](https://claude-a-story-in-light.vercel.app) • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 17h ago
 
 There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it?
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 14h ago
 
 Claude climbs to top of app store charts in US and UK after being blacklisted by the Pentagon over ethics concerns
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 1h ago
 
 Bloomberg Originals explores the hottest new destination for Silicon Valley giants and how the world’s most populous nation is looking to build an industry all its own.
 
-Bloomberg.com • 13m ago
+Bloomberg.com • 40m ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 134,356 • ❤️ 373 • 18h ago
+⬇️ 134,356 • ❤️ 373 • 19h ago
 
 ---
 
@@ -645,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 22.2k • 🔱 2.8k • 2h ago
+⭐ 22.2k • 🔱 2.8k • 3h ago
 
 ---
 
@@ -655,7 +655,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Python`
 
-⭐ 6.1k • 🔱 741 • 3h ago
+⭐ 6.1k • 🔱 741 • 4h ago
 
 ---
 
@@ -675,7 +675,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.5k • 🔱 494 • 7m ago
+⭐ 4.5k • 🔱 494 • 35m ago
 
 ---
 
@@ -685,7 +685,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 368 • 4h ago
+⭐ 3.8k • 🔱 368 • 5h ago
 
 ---
 
@@ -725,7 +725,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 225 • 16m ago
+⭐ 3.1k • 🔱 225 • 43m ago
 
 ---
 
