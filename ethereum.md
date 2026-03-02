@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-02T19:11:53.952514+00:00'
+updated: '2026-03-02T19:57:22.524372+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 19:11 UTC  
+**Last Updated:** March 02, 2026 at 19:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.70B
+**Market Cap:** $246.47B
 Rank #2
 
 **Circulating Supply:** 120,692,218 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.4%
+-58.7%
 
 **All-Time Low:** $0.43
-+474622.8%
++471892.9%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a free permissionless market of block builders. This ensures that block builder centralization does not creep into staking centralization, but it leaves the question: what do we do about block builder centralization? And what are the other problems in the block building pipeline that need to be addressed, and how? This has both in-protocol and extra-protocol components. FOCIL FOCIL is the first step into in-protocol multi-participant block building. FOCIL lets 16 randomly-selected attesters each choose a few transactions, which must be included somewhere in the block (the block gets rejected otherwise). This means that even if 100% of block building is taken over by one hostile actor, they cannot prevent transactions from being included, because the FOCILers will push them in. "Big FOCIL" This is more speculative, but has been discussed as a possible next step. The idea is to make the FOCILs bigger, so they can include all of the transactions in the block. We avoid duplication by having the i'th FOCIL'er by default only include (i) txs whose sender address's first hex char is i, and (ii) txs that were around but not included in the previous slot. So at the cost of one slot delay, only censored txs risk duplication. Taking this to its logical conclusion, the builder's role could become reduced to ONLY including "MEV-relevant" transactions (eg. DEX arbitrage), and computing the state transition. Encrypted mempools Encrypted mempools are one solution being explored to solve "toxic MEV": attacks such as sandwiching and frontrunning, which are exploitative against users. If a transaction is encrypted until it's included, no one gets the opportunity to "wrap" it in a hostile way. The technical challenge is: how to guarantee validity in a mempool-friendly and inclusion-friendly way that is efficient, and what technique to use to guarantee that the transaction will actually get decrypted once the block is made (and not before). The transaction ingress layer One thing often ignored in discussions of MEV, privacy, and other issues is the network layer: what happens in between a user sending out a transaction, and that transaction making it into a block? There are many risks if a hostile actor sees a tx "in the clear" inflight: If it's a defi trade or otherwise MEV-relevant, they can sandwich it In many applications, they can prepend some other action which invalidates it, not stealing money, but "griefing" you, causing you to waste time and gas fees If you are sending a sensitive tx through a privacy protocol, even if it's all private onchain, if you send it through an RPC, the RPC can see what you did, if you send it through the public mempool, any analytics agency that runs many nodes will see what you did There has recently been increasing work on network-layer anonymization for transactions: exploring using Tor for routing transactions, ideas around building a custom ethereum-focused mixnet, non-mixnet designs that are more latency-minimized (but bandwidth-heavier, which is ok for transactions as they are tiny) like Flashnet, etc. This is an open design space, I expect the kohaku initiative @ncsgy will be interested in integrating pluggable support for such protocols, like it is for onchain privacy protocols. There is also room for doing (benign, pro-user) things to transactions before including them onchain; this is very relevant for defi. Basically, we want ideal order-matching, as a passive feature of the network layer without dependence on servers. Of course enabling good uses of this without enabling sandwiching involves cryptography or other security, some important challenges there. Long-term distributed block building There is a dream, that we can make Ethereum truly like BitTorrent: able to process far more transactions than any single server needs to ever coalesce locally. The challenge with this vision is that Ethereum has (and indeed a core value proposition is) synchronous shared state, so any tx could in principle depend on any other tx. This centralizes block building. "Big FOCIL" handles this partially, and it could be done extra-protocol too, but you still need one central actor to put everything in order and execute it. We could come up with designs that address this. One idea is to do the same thing that we want to do for state: acknowledge that >95% of Ethereum's activity doesn't really need full globalness, though the 5% that does is often high-value, and create new categories of txs that are less global, and so friendly to fully distributed building, and make them much cheaper, while leaving the current tx types in place but (relatively) more expensive. This is also an open and exciting long-term future design space.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 I've been a crypto developer for about 10 years, so I don't think I can answer this question to myself anymore. and most of my social circle is developers as well so it's kind of the same thing. I'm trying to figure out if (or what anecdotal percentage of) non-developers have any desire to create smart contracts. Or rather, just the desire to create non-template crypto projects. (Full transparency: this is related to something I'm building, but I don't want to promote it here because I'm really just looking to have a discussion) Have you ever wanted to create a crypto project but felt like you couldn't because of the skill gap?
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ Now, execution layer changes. I've already talked about account abstraction, mul
 
 Hi ethereumers (if that's the way we call the ethereum community eheh), firstly i'm sorry if this is an frequent question but i couldn't find the answer anywhere so i wanna ask about it. I'm holding Bitcoins in trustwallet which i'm willing to convert to eth to pay gas for my usdt, is there a simple/fast way to do it? Advices appreciated
 
-22h ago
+23h ago
 
 ---
 
@@ -156,7 +156,7 @@ https://firefly.social/post/x/2026252944639934778 This is quite an impressive ex
 
 The binary tree proposal is a concrete, in-progress effort, while the VM transition remains more speculative and lacks broad consensus among developers.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ Nasdaq • 2d ago
 
 Publicly traded Ethereum treasury BitMine Immersion Technologies added to its ETH stack last week despite its recent decline.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 3h ago
 
 Another focus of his post is so-called “toxic MEV,” where traders exploit visibility into pending transactions to front-run or “sandwich” users’ trades.
 
-CoinDesk • 26m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 26m ago
 
 Dubai, UAE, March  02, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto just announced another milestone with $7.42 million raised in presale funding, ...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -196,7 +196,7 @@ markets.businessinsider.com • 3h ago
 
 Bitcoin and other crypto funds rebounded with $1 billion worth of inflows last week, ending a five-week, $4 billion losing streak.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -210,7 +210,7 @@ Barron's • 3d ago
 
 The need for blockchains to enable transactions among themselves has become a necessity. In 2026, the cross-chain interoperability protocol (CCIP) is making
 
-FinanceFeeds • 21h ago
+FinanceFeeds • 22h ago
 
 ---
 
@@ -240,17 +240,7 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 41 • ⏱️ 8:18 • 8h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=nmKkhZ2fYlE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 942 • 👍 95 • 💬 1 • ⏱️ 5:20 • 5h ago
+👁️ 21K • 👍 3K • 💬 61 • ⏱️ 8:18 • 8h ago
 
 ---
 
@@ -260,7 +250,17 @@ Did Vitalik Buterin just dump Ethereum at the worst possible time? After announc
 
 📺 Coin Bureau
 
-👁️ 68K • 👍 2K • 💬 262 • ⏱️ 18:01 • 1d ago
+👁️ 70K • 👍 2K • 💬 264 • ⏱️ 18:01 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=nmKkhZ2fYlE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 112 • 💬 1 • ⏱️ 5:20 • 6h ago
 
 ---
 
@@ -270,7 +270,17 @@ Well, it looks like someone finally realized that something had to be done or th
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 639 • 💬 112 • ⏱️ 27:48 • 8h ago
+👁️ 6K • 👍 680 • 💬 81 • ⏱️ 27:48 • 9h ago
+
+---
+
+**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 74 • 👍 4 • 💬 2 • ⏱️ 5:09 • 26m ago
 
 ---
 
@@ -280,17 +290,7 @@ I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 186 • 💬 43 • ⏱️ 36:59 • 8h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: This Could Change EVERYTHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tCR2YKL1_0o)**
-
-BITCOIN & CRYPTO: This Could Change EVERYTHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 265 • 💬 57 • ⏱️ 15:02 • 19h ago
+👁️ 5K • 👍 191 • 💬 44 • ⏱️ 36:59 • 9h ago
 
 ---
 
@@ -300,7 +300,17 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 127 • 💬 47 • ⏱️ 8:43 • 2d ago
+👁️ 4K • 👍 128 • 💬 48 • ⏱️ 8:43 • 2d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: This Could Change EVERYTHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tCR2YKL1_0o)**
+
+BITCOIN & CRYPTO: This Could Change EVERYTHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 272 • 💬 75 • ⏱️ 15:02 • 20h ago
 
 ---
 
@@ -310,27 +320,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 161 • 👍 13 • 💬 1 • ⏱️ 5:25 • 9h ago
+👁️ 190 • 👍 15 • 💬 1 • ⏱️ 5:25 • 9h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=3LGeKJcLvIU)**
+**[The Planets Align | Crypto Will Explode | Ignore Fake News | XRP BTC ETH SOL FLR VET HBAR  🚀🚀🚀🚀](https://www.youtube.com/watch?v=x4Qah4Dh37w)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Premium Custody Accounts + Cryptocurrency and Precious Metal IRA's ZERO Monthly Fees! Request a free call Open An ...
 
-📺 More Crypto Online
+📺 The James Rule Crypto Show
 
-👁️ 2K • 👍 109 • 💬 3 • ⏱️ 5:32 • 18h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=QJMdVvCYwpc)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 463 • 👍 62 • ⏱️ 6:59 • 5h ago
+👁️ 316 • 👍 54 • 💬 7 • ⏱️ 10:34 • 4h ago
 
 ---
 

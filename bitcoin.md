@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T19:11:53.946419+00:00'
+updated: '2026-03-02T19:57:22.517957+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 19:11 UTC  
+**Last Updated:** March 02, 2026 at 19:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1388.10B
+**Market Cap:** $1378.81B
 Rank #1
 
-**Circulating Supply:** 19,996,881 BTC
+**Circulating Supply:** 19,996,981 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.0%
+-45.3%
 
 **All-Time Low:** $67.81
-+102162.2%
++101587.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
 
-5h ago
+6h ago
 
 ---
 
@@ -113,13 +113,13 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour! 🧡 https://x.com/SteaknShake/status/2028322342275871122
 
-4h ago
+5h ago
 
 ---
 
 **[They will stay forever angry](https://www.reddit.com/r/Bitcoin/comments/1riadhx/they_will_stay_forever_angry/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -127,7 +127,7 @@ Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour
 
 Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As of 3/1/2026, we hodl 720,737 BTC acquired for ~$54.77 billion at ~$75,985 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 4h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 5h ago
 
 ---
 
@@ -135,7 +135,7 @@ Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As 
 
 So I’m curious what people here think. When conflicts or wars happen, does Bitcoin actually benefit in the long run, or does it usually just get dragged down with the rest of the markets first? Kind of alarming but i know btc survived stuff already
 
-3h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ So I’m curious what people here think. When conflicts or wars happen, does Bit
 
 With everything going on around the Iran conflict, I was expecting a sharp sell-off across risk assets, especially crypto. But Bitcoin hasn’t really dipped in any meaningful way. Is this a sign of strength?
 
-8h ago
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ With everything going on around the Iran conflict, I was expecting a sharp sell-
 
 Strategy disclosed its third-largest Bitcoin purchase of the year, scooping up the asset using proceeds that partially came from STRC.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -169,13 +169,13 @@ Decrypt • 3h ago
 
 Bitcoin rebounds to $66,500 after weekend strikes triggered $300 million in liquidations, as oil jumps, equities slide and select DeFi tokens outperform.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
 **[Crypto’s 24-Hour Promise Gets a Geopolitical Reality Check](https://www.bloomberg.com/news/articles/2026-03-02/crypto-s-24-hour-promise-gets-a-geopolitical-reality-check)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 1h ago
 
 The first Bitcoin block signaling for BIP-110 has been mined, marking a flashpoint in a heated debate over restricting non-financial data onchain.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 5h ago
 
 It's worth holding highly resilient assets, but some are better than others.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -207,13 +207,13 @@ The Motley Fool • 12h ago
 
 As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
 
-Dallas News • 1h ago
+Dallas News • 2h ago
 
 ---
 
 **[Strategy Stock Rises. The World’s Largest Bitcoin Holder Doubles Down on Its Crypto Bet.](https://www.barrons.com/articles/strategy-doubles-down-on-crypto-bet-d2d51560?gaa_at=eafs&gaa_n=AWEtsqcsEeBtrzsiHf6O0JEkrQtyMcZG9voSFU7_giQD1HH-qJWXCpwJmFw_&gaa_ts=69a5e460&gaa_sig=rmUYJbWDQXHM_vHHYTdoOlYSk4esNyWJhj1tnyPA9f6PlxJaHRCTeialTjmVAPVGx1N3wUXoTsXzxvv7I66eGQ%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -221,7 +221,7 @@ Barron's • 1h ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 5h ago
+KITCO • 6h ago
 
 ---
 
@@ -229,7 +229,7 @@ KITCO • 5h ago
 
 Dubai, UAE, March  02, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto just announced another milestone with $7.42 million raised in presale funding, ...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -271,7 +271,7 @@ Links to major crypto world figures are just the start.
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 3 • 💬 2 • 20h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 3 • 💬 2 • 21h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -319,7 +319,7 @@ War headlines are crushing markets and Bitcoin just dropped fast. But while ever
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 206 • ⏱️ 18:43 • 19h ago
+👁️ 38K • 👍 2K • 💬 216 • ⏱️ 18:43 • 19h ago
 
 ---
 
@@ -329,17 +329,17 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 173 • ⏱️ 19:16 • 1d ago
+👁️ 26K • 👍 2K • 💬 175 • ⏱️ 19:16 • 1d ago
 
 ---
 
-**[Bitcoin Holders, This Is Happening Right Now](https://www.youtube.com/watch?v=BT9XBzIVexA)**
+**[Bitcoin: The Early March Rally](https://www.youtube.com/watch?v=R9yYJXpYYzg)**
 
-Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+Bitcoin usually gets a rally into early March, then forms a lower high and goes lower into April/May. Let's discuss! Into The ...
 
-📺 Aaron Bennett
+📺 Benjamin Cowen
 
-👁️ 8K • 👍 470 • 💬 52 • ⏱️ 6:46 • 9h ago
+👁️ 20K • 👍 2K • 💬 135 • ⏱️ 21:27 • 3h ago
 
 ---
 
@@ -349,27 +349,47 @@ Bitcoin #Crypto #Finance While retail investors panic over volatility, instituti
 
 📺 The Wolf Of All Streets
 
-👁️ 33K • 👍 1K • 💬 413 • ⏱️ 29:04 • 1d ago
+👁️ 34K • 👍 1K • 💬 403 • ⏱️ 29:04 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: THE END!!!!!!!!!!!](https://www.youtube.com/watch?v=ESyJ5lBpO3Q)**
+**[Bitcoin Holders, This Is Happening Right Now](https://www.youtube.com/watch?v=BT9XBzIVexA)**
 
-Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 narrative isnt the best for crypto people right now.
+Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
 
-📺 Thomas Kralow
+📺 Aaron Bennett
 
-👁️ 17K • 👍 2K • 💬 41 • ⏱️ 8:18 • 8h ago
+👁️ 10K • 👍 514 • 💬 58 • ⏱️ 6:46 • 10h ago
+
+---
+
+**[The Bitcoin Crash They Promised Isn’t Coming](https://www.youtube.com/watch?v=9dirAQ2AP4w)**
+
+Everyone from mainstream media to the "permabears" has been screaming about a massive Bitcoin correction. They pointed to ...
+
+📺 Discover Crypto
+
+👁️ 8K • 👍 396 • ⏱️ 1:57:53 • 2h ago
+
+---
+
+**[World Chaos Ahead…But Bitcoin Just Flashed a Bottom Signal](https://www.youtube.com/watch?v=SkfnWQvmYTs)**
+
+Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 939 • 💬 30 • ⏱️ 51:28 • 3h ago
 
 ---
 
 **[&quot;GET READY! Bitcoin&#39;s About to Pull the Surprise of the Year&quot; - Tom Lee](https://www.youtube.com/watch?v=VvVxD4aXBqY)**
 
-Bitcoin didn't top because of “manipulation.” But that doesn't mean manipulation isn't part of the story. In this video, we break ...
+Explore BRON here: https://go.bron.org/savvyfinance BRON is a premium MPC-based wallet designed to eliminate seed phrases ...
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 212 • 💬 20 • ⏱️ 21:22 • 1d ago
+👁️ 7K • 👍 216 • 💬 16 • ⏱️ 21:22 • 1d ago
 
 ---
 
@@ -379,37 +399,17 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 983 • 💬 107 • ⏱️ 9:16 • 16h ago
+👁️ 18K • 👍 987 • 💬 100 • ⏱️ 9:16 • 17h ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=chHugNY2o4c)**
+**[Bitcoin Going to $35k - TA Expert Says Crash Is Just Getting Started | Jason Pizzino](https://www.youtube.com/watch?v=_r0SlQwQ9wk)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
 
-📺 KALYANA CHANDRASEKERA
+📺 Altcoin Daily
 
-👁️ 3K • 👍 1K • 3h ago
-
----
-
-**[BITCOIN IS PUMPING ON THIS NEWS!](https://www.youtube.com/watch?v=sMJK526vse8)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 2K • 👍 265 • 💬 109 • ⏱️ 17:48 • 3h ago
-
----
-
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=no5cMtAvml4)**
-
-My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
-
-📺 Road To $1 Million USD
-
-👁️ 5K • 👍 247 • 💬 27 • ⏱️ 6:30 • 20h ago
+👁️ 38K • 👍 2K • 💬 253 • ⏱️ 36:35 • 1d ago
 
 ---
 
