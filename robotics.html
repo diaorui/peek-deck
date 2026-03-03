@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-03T13:00:29.712708+00:00"
+          "dateModified": "2026-03-03T14:03:41.968761+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,41 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjoii6/a_selfdriving_bike_by_agibot_founder_peng_zhihui/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/NG9uMnp2NGh0dG1nMUibVZe7MxoCTmgJ4WTgBMF1w8kMWtMH1dYqxOCptVzD.png?width=640&crop=smart&auto=webp&s=e4311b95ea00e6bd3eb5ccd62b46e2ab18b6ad48" alt="A self-driving bike by Agibot founder Peng Zhihui. The design is open sourced & available on Github" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rjoii6/a_selfdriving_bike_by_agibot_founder_peng_zhihui/" target="_blank" onclick="event.stopPropagation();">A self-driving bike by Agibot founder Peng Zhihui. The design is open sourced & available on Github</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772542293.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -746,6 +781,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjpfaf/singularity_avoidance_hack_instead_of_damping/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rjpfaf/singularity_avoidance_hack_instead_of_damping/" target="_blank" onclick="event.stopPropagation();">Singularity avoidance hack: Instead of damping, temporarily lock a joint in wrist singularity for palletizing/pick&place? Anyone tried this?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I've been messing with singularity handling in 6 DoF industrial arms, especially for fast palletizing and long-reach pick-and-place. Damped Least Squares (DLS/SDLS) is the go-to, but near wrist singularities it often gets too "mushy" tracking slows down unpredictably, velocities scale weirdly, and in high-speed cycles that can mess up cycle time or stack accuracy. My idea is that instead of damping the whole Jacobian, when det(J) drops below a threshold (say ~0.01–0.05, tunable), hard-lock the problematic joint (usually J5 in typical roll-pitch-roll wrists). Treat the arm as 5 DoF temporarily: Update DH params on the fly (locked joint becomes fixed link). Recompute IK with reduced 6×5 Jacobian. Prioritize task-space: keep XYZ + pitch/yaw solid, sacrifice roll if needed (most palletizing doesn't care about full orientation anyway). Then, when manipulability improves, blend the joint back in smoothly to avoid jerk. Why bother over SDLS? Predictable: you know exactly what you're losing (e.g., "loses roll near vertical stacks"). No infinite velocity risk since you just remove the DoF instead of damping it softly. Cheaper compute: lower-order IK is faster than SVD every cycle. But i have some questions that demand some practical experience with this kind of problem/ideia: Has anyone done on-the-fly kinematic chain changes / joint locking like this? How do you smooth the lock/unlock transition to kill jerk? Exponential blend? Low-pass on velocities? Industrial controllers (KUKA, FANUC, ABB) are super locked down, so is this only feasible in open setups like ROS or custom controls? Any tricks to fake it on proprietary ones? In real production, is the mushiness of DLS actually a big pain (e.g., path deviation stacking boxes wrong), or does damping usually do the job fine and I'm overcomplicating? Feels like a pragmatic dirty hack for certain apps, but could also be a mechanical nightmare if the blend sucks or you lock at the wrong time. Thoughts? "Don't do this" reasons? Would love to hear before I sim/prototype it. Thanks!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772544740.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ripizk/aeon_with_a_selfservice_battery_swapping_system/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -781,23 +849,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjoii6/a_selfdriving_bike_by_agibot_founder_peng_zhihui/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjpy3q/what_would_you_say_about_a_17yr_old_building_a/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/NG9uMnp2NGh0dG1nMUibVZe7MxoCTmgJ4WTgBMF1w8kMWtMH1dYqxOCptVzD.png?width=640&crop=smart&auto=webp&s=e4311b95ea00e6bd3eb5ccd62b46e2ab18b6ad48" alt="A self-driving bike by Agibot founder Peng Zhihui. The design is open sourced & available on Github" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rjoii6/a_selfdriving_bike_by_agibot_founder_peng_zhihui/" target="_blank" onclick="event.stopPropagation();">A self-driving bike by Agibot founder Peng Zhihui. The design is open sourced & available on Github</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1rjpy3q/what_would_you_say_about_a_17yr_old_building_a/" target="_blank" onclick="event.stopPropagation();">What would you say about a 17yr old building a humanoid robot?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
+                            I’m currently building a 1,68m tall humanoid robot from scratch as a solo project. I designed and assembled the mechanical structure myself, including the arms and torso, and I’m now working on the legs. It’s going to be battery powered and uses actuators and modules (no custom PCBs). I’m also developing the AI architecture myself. I won’t go into too much detail on that yet, since I’d rather see if I can fully implement it before making big claims. This is my first project at this scale. My goal isn’t maximum strength or industrial-level performance, but creating a functional humanoid platform with its own evolving AI system. I’m turning 17 this year, and I’m building this independently.
                         </div>
                         
 
@@ -806,7 +872,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1772542293.0"></span>
+                                    <span data-timestamp="1772546125.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -882,90 +948,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rji5or/orp_testmechv2_tutorial_video_finally_finished/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/6Hdv1En6SOkPL5rPgQNjpk3ESR9F4U5wRACwYBzeN5s.jpeg?width=320&crop=smart&auto=webp&s=5dc37bd428aeb0e4683109eb8ba92c79b760a7e2" alt="orp testmechv2 tutorial video finally finished" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rji5or/orp_testmechv2_tutorial_video_finally_finished/" target="_blank" onclick="event.stopPropagation();">orp testmechv2 tutorial video finally finished</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            It took a while to make this video and project it was really exhausting but after a few checks and documentation I finally finished it hope it is documented well
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772519797.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://youtu.be/U4IHY_EhnXQ?si=BHmJAGa6hdiPeDtT" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>youtu.be</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rinkii/update_on_my_humanoid_robot_project/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/nt5vcc2gglmg1.jpeg?width=640&crop=smart&auto=webp&s=3038e1402e99d0a64ba76a5edcd6606ff6fb02e7" alt="Update on my humanoid robot project" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rinkii/update_on_my_humanoid_robot_project/" target="_blank" onclick="event.stopPropagation();">Update on my humanoid robot project</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772440801.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -989,7 +971,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-03T13:00:07.874451+00:00">Updated 2026-03-03T13:00:07.874451+00:00</small>
+        <small data-timestamp="2026-03-03T14:03:19.553662+00:00">Updated 2026-03-03T14:03:19.553662+00:00</small>
     </div>
 </div>
 
@@ -1175,6 +1157,88 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://clarksvillenow.com/local/stem-meets-sports-tourism-as-robotics-championship-plans-return-to-clarksville/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://clarksvillenow.com/wp-content/blogs.dir/43/files/2026/03/Robotics_2111-Cultivated.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://clarksvillenow.com/local/stem-meets-sports-tourism-as-robotics-championship-plans-return-to-clarksville/" target="_blank" onclick="event.stopPropagation();">STEM meets sports tourism as Robotics Championship plans return to Clarksville</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The Vex Robotics competition will take place at F&M Bank Arena, hosting 42 schools fielding 96 teams representing more than 500 middle and high school students.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://clarksvillenow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Clarksville Now" class="news-favicon">
+                                    <a href="https://clarksvillenow.com" target="_blank" onclick="event.stopPropagation();">Clarksville Now</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1772546400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108217424-17615920782025-05-19t074654z_735119456_rc2vkea7nsnk_rtrmadp_0_taiwan-computex-qualcomm.jpeg?v=1770308599&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html" target="_blank" onclick="event.stopPropagation();">Qualcomm CEO sees robotics as a 'larger opportunity' within 2 years</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            It comes shortly after Qualcomm launched a processor under the Dragonwing brand name designed for robots.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1772518402.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://static.scientificamerican.com/dam/m/1432d3f9a02bdfbe/original/R1_frame_0025.jpg?m=1772215722.516&w=1200');"></div>
@@ -1257,20 +1321,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/6-lessons-learned-watching-a-robotics-startup-die-from-the-inside/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108270813-1772180150382-Robot_Phone_photo-1.jpg?v=1772180313&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/03/k-scale-labs-shuts-down.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html" target="_blank" onclick="event.stopPropagation();">China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot</a>
+                            <a href="https://www.therobotreport.com/6-lessons-learned-watching-a-robotics-startup-die-from-the-inside/" target="_blank" onclick="event.stopPropagation();">6 lessons I learned watching a robotics startup die from the inside</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
+                            After a year as COO of K-Scale Labs, Rui Xu reflects on the hard lessons behind the collapse of its low-cost humanoid robot ambitions.
                         </div>
                         
 
@@ -1280,9 +1344,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Robot Report" class="news-favicon">
+                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
                                     
                                 </div>
                                 
@@ -1290,7 +1354,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772374541.0"></span>
+                                    <span data-timestamp="1772479317.0"></span>
                                 </div>
                                 
                             </div>
@@ -1298,21 +1362,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108217424-17615920782025-05-19t074654z_735119456_rc2vkea7nsnk_rtrmadp_0_taiwan-computex-qualcomm.jpeg?v=1770308599&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html" target="_blank" onclick="event.stopPropagation();">Qualcomm CEO sees robotics as a 'larger opportunity' within 2 years</a>
+                            <a href="https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/" target="_blank" onclick="event.stopPropagation();">Vacant Mountain View Kohl’s turned into temporary robotics hub</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            It comes shortly after Qualcomm launched a processor under the Dragonwing brand name designed for robots.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1321,9 +1381,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mv-voice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Mountain View Voice" class="news-favicon">
+                                    <a href="https://www.mv-voice.com" target="_blank" onclick="event.stopPropagation();">Mountain View Voice</a>
                                     
                                 </div>
                                 
@@ -1331,7 +1391,44 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772518402.0"></span>
+                                    <span data-timestamp="1772489694.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/" target="_blank" onclick="event.stopPropagation();">Vex robotics state championship</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fox5sandiego.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="fox5sandiego.com" class="news-favicon">
+                                    <a href="https://fox5sandiego.com" target="_blank" onclick="event.stopPropagation();">fox5sandiego.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1772430555.0"></span>
                                 </div>
                                 
                             </div>
@@ -1421,47 +1518,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202603010098/1140x_a10-7_cTC/20260227glcmuroboticsinnovationcenter-03_1772392341.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098" target="_blank" onclick="event.stopPropagation();">Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.post-gazette.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Pittsburgh Post-Gazette" class="news-favicon">
-                                    <a href="https://www.post-gazette.com" target="_blank" onclick="event.stopPropagation();">Pittsburgh Post-Gazette</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1772405467.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://blog.adafruit.com/2026/03/02/llm-claude-given-robotic-hand-immediately-starts-making-peace-signs/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1499,80 +1555,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/" target="_blank" onclick="event.stopPropagation();">Vex robotics state championship</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fox5sandiego.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="fox5sandiego.com" class="news-favicon">
-                                    <a href="https://fox5sandiego.com" target="_blank" onclick="event.stopPropagation();">fox5sandiego.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1772430555.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.marketbeat.com/stock-ideas/5-stocks-racing-ahead-as-ai-supercharges-robotics/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.marketbeat.com/stock-ideas/5-stocks-racing-ahead-as-ai-supercharges-robotics/" target="_blank" onclick="event.stopPropagation();">5 Stocks Racing Ahead as AI Supercharges Robotics</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketbeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="MarketBeat" class="news-favicon">
-                                    <a href="https://www.marketbeat.com" target="_blank" onclick="event.stopPropagation();">MarketBeat</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1772503989.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1593,7 +1575,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-03T13:00:25.625873+00:00">Updated 2026-03-03T13:00:25.625873+00:00</small>
+        <small data-timestamp="2026-03-03T14:03:33.862919+00:00">Updated 2026-03-03T14:03:33.862919+00:00</small>
     </div>
 </div>
 

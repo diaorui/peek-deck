@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-03T13:00:30.091010+00:00'
+updated: '2026-03-03T14:03:42.386871+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 03, 2026 at 13:00 UTC  
+**Last Updated:** March 03, 2026 at 14:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,23 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[A self-driving bike by Agibot founder Peng Zhihui. The design is open sourced & available on Github](https://www.reddit.com/r/robotics/comments/1rjoii6/a_selfdriving_bike_by_agibot_founder_peng_zhihui/)**
+
+GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
+
+1h ago
+
+---
+
 **[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -48,7 +56,7 @@ Robotics research and industry news
 
 I’ve just finished the soldering for the controller for my 6-axis robot. You may notice that there are only 5 drivers and that is because two went bad and I’m waiting on replacements. I also installed the I2C MUX that will interface with the magnetic encoders. Please leave any questions, comments, or advice in the comments, I really appreciate it! More updates on the way.
 
-11h ago
+13h ago
 
 ---
 
@@ -56,7 +64,15 @@ I’ve just finished the soldering for the controller for my 6-axis robot. You m
 
 Competition toolkit is available here. With additional context on Open Robotics Discourse. Competition details can be found here. Two competition sessions will be held tomorrow, March 3rd (they will be recorded). Session 1: March 3rd: 9-10am PT / 5-6pm UTC (US/Europe friendly) Session 2: March 3rd: 5-6pm PT / March 4th 1-2 am UTC (US/APAC friendly)
 
-12h ago
+13h ago
+
+---
+
+**[Singularity avoidance hack: Instead of damping, temporarily lock a joint in wrist singularity for palletizing/pick&place? Anyone tried this?](https://www.reddit.com/r/robotics/comments/1rjpfaf/singularity_avoidance_hack_instead_of_damping/)**
+
+I've been messing with singularity handling in 6 DoF industrial arms, especially for fast palletizing and long-reach pick-and-place. Damped Least Squares (DLS/SDLS) is the go-to, but near wrist singularities it often gets too "mushy" tracking slows down unpredictably, velocities scale weirdly, and in high-speed cycles that can mess up cycle time or stack accuracy. My idea is that instead of damping the whole Jacobian, when det(J) drops below a threshold (say ~0.01–0.05, tunable), hard-lock the problematic joint (usually J5 in typical roll-pitch-roll wrists). Treat the arm as 5 DoF temporarily: Update DH params on the fly (locked joint becomes fixed link). Recompute IK with reduced 6×5 Jacobian. Prioritize task-space: keep XYZ + pitch/yaw solid, sacrifice roll if needed (most palletizing doesn't care about full orientation anyway). Then, when manipulability improves, blend the joint back in smoothly to avoid jerk. Why bother over SDLS? Predictable: you know exactly what you're losing (e.g., "loses roll near vertical stacks"). No infinite velocity risk since you just remove the DoF instead of damping it softly. Cheaper compute: lower-order IK is faster than SVD every cycle. But i have some questions that demand some practical experience with this kind of problem/ideia: Has anyone done on-the-fly kinematic chain changes / joint locking like this? How do you smooth the lock/unlock transition to kill jerk? Exponential blend? Low-pass on velocities? Industrial controllers (KUKA, FANUC, ABB) are super locked down, so is this only feasible in open setups like ROS or custom controls? Any tricks to fake it on proprietary ones? In real production, is the mushiness of DLS actually a big pain (e.g., path deviation stacking boxes wrong), or does damping usually do the job fine and I'm overcomplicating? Feels like a pragmatic dirty hack for certain apps, but could also be a mechanical nightmare if the blend sucks or you lock at the wrong time. Thoughts? "Don't do this" reasons? Would love to hear before I sim/prototype it. Thanks!
+
+31m ago
 
 ---
 
@@ -68,9 +84,9 @@ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.co
 
 ---
 
-**[A self-driving bike by Agibot founder Peng Zhihui. The design is open sourced & available on Github](https://www.reddit.com/r/robotics/comments/1rjoii6/a_selfdriving_bike_by_agibot_founder_peng_zhihui/)**
+**[What would you say about a 17yr old building a humanoid robot?](https://www.reddit.com/r/robotics/comments/1rjpy3q/what_would_you_say_about_a_17yr_old_building_a/)**
 
-GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
+I’m currently building a 1,68m tall humanoid robot from scratch as a solo project. I designed and assembled the mechanical structure myself, including the arms and torso, and I’m now working on the legs. It’s going to be battery powered and uses actuators and modules (no custom PCBs). I’m also developing the AI architecture myself. I won’t go into too much detail on that yet, since I’d rather see if I can fully implement it before making big claims. This is my first project at this scale. My goal isn’t maximum strength or industrial-level performance, but creating a functional humanoid platform with its own evolving AI system. I’m turning 17 this year, and I’m building this independently.
 
 8m ago
 
@@ -80,7 +96,7 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 I've always been thinking about a way to add compliance to cheap hobby servos, maybe by putting on some attachments(without opening the case or anything). I'm working on it, but what I'm curious about is, would there be any demand? Im planning for a module that uses an additional small geared motor, springs, and a small mcu to make the output shaft act like some kind of a VSA(variable stiffness unit). Please tell me if you would use this as a fellow hobby roboticist( if there was one as an open source project.) Sorry for not posting any blueprints or schemes or that kimd of stuff, I can't use my phone camera nor computer right now(I'm stuck with just my notepad and my pen here) :(
 
-1h ago
+2h ago
 
 ---
 
@@ -88,29 +104,29 @@ I've always been thinking about a way to add compliance to cheap hobby servos, m
 
 So been seeing recently a lot of improvements with regards to latency and teleoperation when it comes to robotics, and makes me wonder if there might be a point where the idea of hosting the heavy processing in the cloud for robotics becomes the standard, over the current idea that everything needs to be edge computing, done locally. I know for security purposes and privacy maybe some applications may demand local processing, but overall as robotics will become more and more mainstream, there are many applications where Cloud Robotics might be very suitable. Idk what do you all think?
 
-2h ago
-
----
-
-**[orp testmechv2 tutorial video finally finished](https://www.reddit.com/r/robotics/comments/1rji5or/orp_testmechv2_tutorial_video_finally_finished/)**
-
-It took a while to make this video and project it was really exhausting but after a few checks and documentation I finally finished it hope it is documented well
-
-🔗 [youtu.be](https://youtu.be/U4IHY_EhnXQ?si=BHmJAGa6hdiPeDtT) • 6h ago
-
----
-
-**[Update on my humanoid robot project](https://www.reddit.com/r/robotics/comments/1rinkii/update_on_my_humanoid_robot_project/)**
-
-Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
-
-1d ago
+3h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[STEM meets sports tourism as Robotics Championship plans return to Clarksville](https://clarksvillenow.com/local/stem-meets-sports-tourism-as-robotics-championship-plans-return-to-clarksville/)**
+
+The Vex Robotics competition will take place at F&M Bank Arena, hosting 42 schools fielding 96 teams representing more than 500 middle and high school students.
+
+Clarksville Now • 3m ago
+
+---
+
+**[Qualcomm CEO sees robotics as a 'larger opportunity' within 2 years](https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html)**
+
+It comes shortly after Qualcomm launched a processor under the Dragonwing brand name designed for robots.
+
+CNBC • 7h ago
+
+---
 
 **[Why humanoid robots are learning everyday tasks faster than expected](https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/)**
 
@@ -124,23 +140,27 @@ Scientific American • 1d ago
 
 Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
 
-Time Magazine • 1h ago
+Time Magazine • 2h ago
 
 ---
 
-**[China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot](https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html)**
+**[6 lessons I learned watching a robotics startup die from the inside](https://www.therobotreport.com/6-lessons-learned-watching-a-robotics-startup-die-from-the-inside/)**
 
-Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
+After a year as COO of K-Scale Labs, Rui Xu reflects on the hard lessons behind the collapse of its low-cost humanoid robot ambitions.
 
-CNBC • 1d ago
+The Robot Report • 18h ago
 
 ---
 
-**[Qualcomm CEO sees robotics as a 'larger opportunity' within 2 years](https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html)**
+**[Vacant Mountain View Kohl’s turned into temporary robotics hub](https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/)**
 
-It comes shortly after Qualcomm launched a processor under the Dragonwing brand name designed for robots.
+Mountain View Voice • 15h ago
 
-CNBC • 6h ago
+---
+
+**[Vex robotics state championship](https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/)**
+
+fox5sandiego.com • 1d ago
 
 ---
 
@@ -156,33 +176,13 @@ The MoCo Show - • 1d ago
 
 NEO Battery Materials Ltd. ("NEO" or the "Company") (TSXV: NBM) (OTC: NBMFF), a low-cost, silicon-enhanced battery developer that enables longer-running, rapid-charging batteries for drones, robotics, and physical AI, is pleased to announce the closing of the 3.2-acre expansion site for commercial-scale drone and robotics battery cell manufacturing and the scale-up of silicon anode production (the "Expansion Facility") previously announced (see news release dated on October 9, 2025).
 
-Yahoo Finance • 1h ago
-
----
-
-**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
-
-The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
-
-Pittsburgh Post-Gazette • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[LLM (Claude) Given Robotic Hand Immediately Starts Making Peace Signs](https://blog.adafruit.com/2026/03/02/llm-claude-given-robotic-hand-immediately-starts-making-peace-signs/)**
 
-Adafruit • 19h ago
-
----
-
-**[Vex robotics state championship](https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/)**
-
-fox5sandiego.com • 1d ago
-
----
-
-**[5 Stocks Racing Ahead as AI Supercharges Robotics](https://www.marketbeat.com/stock-ideas/5-stocks-racing-ahead-as-ai-supercharges-robotics/)**
-
-MarketBeat • 10h ago
+Adafruit • 20h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Most Advanced Pink Robot! #humanoid ​#BlueRobot #Humanoid #FutureTech #AI 
 
 📺 MSU Channel
 
-👁️ 454 • 👍 2 • ⏱️ 0:19 • 34m ago
+👁️ 454 • 👍 2 • ⏱️ 0:19 • 1h ago
 
 ---
 
@@ -206,7 +206,7 @@ Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation r
 
 📺 APT
 
-👁️ 438 • 👍 10 • 💬 1 • ⏱️ 5:34 • 4h ago
+👁️ 438 • 👍 10 • 💬 1 • ⏱️ 5:34 • 5h ago
 
 ---
 
@@ -226,7 +226,7 @@ War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the u
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 414 • 💬 101 • ⏱️ 17:41 • 21h ago
+👁️ 8K • 👍 414 • 💬 101 • ⏱️ 17:41 • 23h ago
 
 ---
 
@@ -256,7 +256,7 @@ Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown 63600E Eaglebots showc
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 54 • 💬 9 • ⏱️ 1:09 • 12h ago
+👁️ 3K • 👍 54 • 💬 9 • ⏱️ 1:09 • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ In Russia, the Perm Polytenic University is using an Ameca-like humanoid to help
 
 📺 Kalil 4.0
 
-👁️ 772 • 👍 22 • ⏱️ 0:39 • 9h ago
+👁️ 772 • 👍 22 • ⏱️ 0:39 • 10h ago
 
 ---
 
