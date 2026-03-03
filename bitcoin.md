@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T23:53:08.060828+00:00'
+updated: '2026-03-03T02:13:22.398211+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 23:53 UTC  
+**Last Updated:** March 03, 2026 at 02:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,567.30
+### $68,543.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.9%  
-**7d:** +7.9%  
-**30d:** -10.2%  
-**90d:** -26.3%  
-**1y:** -20.0%  
+**24h:** +2.7%  
+**7d:** +1.0%  
+**30d:** -12.9%  
+**90d:** -25.5%  
+**1y:** -21.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1385.55B
+**Market Cap:** $1372.05B
 Rank #1
 
-**Circulating Supply:** 19,997,021 BTC
+**Circulating Supply:** 19,997,081 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.0%
+-45.6%
 
 **All-Time Low:** $67.81
-+102095.8%
++101127.0%
 
 ---
 
@@ -81,21 +81,13 @@ Rank #1
 
 Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
 
-10h ago
+12h ago
 
 ---
 
 **[Bitcoin demonetizes violence and it monetizes peace and love](https://www.reddit.com/r/Bitcoin/comments/1rj3tub/bitcoin_demonetizes_violence_and_it_monetizes/)**
 
-3h ago
-
----
-
-**[Finally obtained a full BTC](https://www.reddit.com/r/Bitcoin/comments/1rif1gr/finally_obtained_a_full_btc/)**
-
-It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 thanks to my lineman job! I wanna keep stacking the sats but maybe it’s time to diversify the portfolio a little lol. About 80% of my net worth is in BTC. Don’t really wanna brag about my accomplishment to anyone I know personally so I figured I’d post it on here. Only downside is it’s been - gains as of right now. Don’t really know what future goals to set financially now.
-
-22h ago
+5h ago
 
 ---
 
@@ -103,7 +95,15 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept trading. Here's why that matters more than any price chart right now.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 12h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 15h ago
+
+---
+
+**[Finally obtained a full BTC](https://www.reddit.com/r/Bitcoin/comments/1rif1gr/finally_obtained_a_full_btc/)**
+
+It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 thanks to my lineman job! I wanna keep stacking the sats but maybe it’s time to diversify the portfolio a little lol. About 80% of my net worth is in BTC. Don’t really wanna brag about my accomplishment to anyone I know personally so I figured I’d post it on here. Only downside is it’s been - gains as of right now. Don’t really know what future goals to set financially now.
+
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept tradi
 
 Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour! 🧡 https://x.com/SteaknShake/status/2028322342275871122
 
-9h ago
+11h ago
 
 ---
 
@@ -119,7 +119,21 @@ Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour
 
 Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As of 3/1/2026, we hodl 720,737 BTC acquired for ~$54.77 billion at ~$75,985 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 9h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 11h ago
+
+---
+
+**[Barclays UK bank blocking companies buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjbrdt/barclays_uk_bank_blocking_companies_buying_bitcoin/)**
+
+Bitcoin debanking is still alive and well in the UK
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=CdDzcsGZpJg) • 47m ago
+
+---
+
+**[the world continues to wage war 17 years after bitcoin launched. Thankfully freedom money is proliferating. A global truth open and available to all.](https://www.reddit.com/r/Bitcoin/comments/1riwfjq/the_world_continues_to_wage_war_17_years_after/)**
+
+10h ago
 
 ---
 
@@ -129,25 +143,11 @@ Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As 
 
 ---
 
-**[the world continues to wage war 17 years after bitcoin launched. Thankfully freedom money is proliferating. A global truth open and available to all.](https://www.reddit.com/r/Bitcoin/comments/1riwfjq/the_world_continues_to_wage_war_17_years_after/)**
-
-8h ago
-
----
-
 **[man they are really going at it, Does war actually make Bitcoin stronger… or weaker?](https://www.reddit.com/r/Bitcoin/comments/1riw09c/man_they_are_really_going_at_it_does_war_actually/)**
 
 So I’m curious what people here think. When conflicts or wars happen, does Bitcoin actually benefit in the long run, or does it usually just get dragged down with the rest of the markets first? Kind of alarming but i know btc survived stuff already
 
-8h ago
-
----
-
-**[BTC: Inspiration & Discipline](https://www.reddit.com/r/Bitcoin/comments/1rj24d0/btc_inspiration_discipline/)**
-
-I'm thankful that Bitcoin inspired me to save. Before BTC, I never felt much enthusiasm for saving money and buying investments. It was more like the responsible, adult, thing to do. Since discovering BTC, I'm always considering how to better allocate funds and manage expenses because I could be stacking more sats. Bitcoin inspired me to learn about economics and global monetary systems. All fiat currencies experience hyperinflation over longer periods of time. Bitcoin has also taught me to not chase FOMO and, instead, buy into FUD. I've gotten really good at denying myself the urge to quickly buy green pumps. I save my dollars and then on the worst red days/week, scale into buying more sats. Bitcoin doesn't have to reach $500k to change my life. It already has in many other ways. For people starting right now, you're so lucky to have a $60-70k BTC range to accumulate. The bear markets are brutal but they allow you to capture the gains on the upside. Stay humble, stack sats.
-
-4h ago
+10h ago
 
 ---
 
@@ -155,77 +155,79 @@ I'm thankful that Bitcoin inspired me to save. Before BTC, I never felt much ent
 
 ## Google News: "bitcoin"
 
-**[Strategy Stock Rises. The World’s Largest Bitcoin Holder Doubles Down on Its Crypto Bet.](https://www.barrons.com/articles/strategy-doubles-down-on-crypto-bet-d2d51560?gaa_at=eafs&gaa_n=AWEtsqeS9kGgX5nNAX4cg5luT4fST-yTousclgY9xTEoNnCqG53Gj0gl2dyN&gaa_ts=69a6208b&gaa_sig=kBmRUY2PIAozZawViuWQrg8acFYqF_8cUpBx6qTMT7bSuLAJBX8XzUGHW0JFR6wQS_8y2JHLkmGLAu5VFXAXBA%3D%3D)**
-
-Barron's • 3h ago
-
----
-
-**[Bitcoin BIP-110 battles begin: Onchain image inscription challenges data-limit proposal](https://www.coindesk.com/tech/2026/03/02/battle-for-bitcoin-s-soul-opens-as-first-block-supporting-clean-up-proposal-is-mined)**
-
-The first Bitcoin block signaling for BIP-110 has been mined, marking a flashpoint in a heated debate over restricting non-financial data onchain.
-
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin rebounds toward $70,000 as risk appetite returns](https://www.cnbc.com/video/2026/03/02/bitcoin-rebounds-toward-70000-as-risk-appetite-returns.html)**
-
-CNBC’s MacKenzie Sigalos reports bitcoin is rallying alongside equities, with a stronger-than-expected PMI helping revive risk appetite and forcing bearish traders to cover shorts.
-
-CNBC • 2h ago
-
----
-
-**[Better Buy in 2026: Bitcoin or Silver? The Answer Couldn't Be Clearer for Long-Term Investors.](https://www.fool.com/investing/2026/03/02/better-buy-in-2026-bitcoin-or-silver-the-answer-co/)**
-
-Production and supply dynamics tell the whole story here.
-
-The Motley Fool • 2h ago
-
----
-
-**[Michael Saylor Once Said You Should Master This Technology To Get Wealthy: Bitcoin Billionaire Wants People To Set Their Egos Aside To Achieve Success](https://finance.yahoo.com/news/michael-saylor-once-said-master-213015903.html)**
-
-Strategy Inc. (NASDAQ:MSTR) co-founder Michael Saylor has been one of artificial intelligence’s biggest proponents, and not long ago stressed the importance of mastering the technology to generate wealth in the modern era. AI: Pathway To Wealth? In his keynote address...
-
-Yahoo Finance • 2h ago
-
----
-
 **[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
 
-Bloomberg • 8h ago
+Bloomberg • 10h ago
 
 ---
 
-**[Bitcoin's price is rising again in a sharp market reversal. Why the Middle East crisis has investors turning to crypto](https://www.fastcompany.com/91500981/bitcoin-price-today-why-up-iran-war-impact-crypto)**
+**[Strategy Stock Rises. The World’s Largest Bitcoin Holder Doubles Down on Its Crypto Bet.](https://www.barrons.com/articles/strategy-doubles-down-on-crypto-bet-d2d51560?gaa_at=eafs&gaa_n=AWEtsqcQ8nnzL17OM6fIMEkwpOQXg9FAnJcHt-R6D8nIbfPnnxHVKjXqFvga&gaa_ts=69a64720&gaa_sig=XTlMAG7oQ4-vcavLhLXcuT0LYsYYAReTPFL7uvSS1Gigjx3UMYXPOO13EMP5YKFZdmxaVvVIKsuNOvnYo64hJA%3D%3D)**
 
-After tumbling in the wake of Saturday's attack on Iran, major cryptocurrencies and related stocks are on the upswing again. Here's what could be happening.
-
-Fast Company • 2h ago
+Barron's • 5h ago
 
 ---
 
-**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
+**[MicroStrategy Boosts STRC Dividend to 11.50% as Bitcoin Drawdown Pressures MSTR](https://finance.yahoo.com/news/microstrategy-boosts-strc-dividend-11-050852867.html)**
 
-Bloomberg • 1d ago
+Strategy lifts STRC preferred dividend to 11.50% for March 2026, its 7th hike, as MSTR falls 14.77% YTD on BTC drawdown.
 
----
-
-**[Tired Of Choosing Between Bitcoin Speed And Privacy? Cake Wallet's New Lightning Update Fixes That For Good](https://bitcoinmagazine.com/business/cake-wallet-launches-bitcoin-lightning-network-support-with-full-self-custody-and-privacy-defaults)**
-
-Cake Wallet users are buzzing about the new Lightning feature: self-custody, custom privacy tweaks via Spark, and a refreshed UI that makes everyday Bitcoin spending feel effortless.
-
-Bitcoin Magazine • 6h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772458500)**
+**[Bitcoin, U.S. stock futures give up early gains as Iran conflict intensifies](https://www.coindesk.com/markets/2026/03/02/bitcoin-u-s-stock-futures-give-up-early-gains-as-iran-conflict-intensifies)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+Iran has reportedly stepped up attacks against U.S. assets in the middle east.
 
-Polymarket • 1d ago
+CoinDesk • 14h ago
+
+---
+
+**[Steak 'n Shake sparks online debate with 21-cent Bitcoin bonus for workers: 'This is the way'](https://www.foxnews.com/food-drink/steak-n-shake-sparks-online-debate-21-cent-bitcoin-bonus-workers-this-way)**
+
+Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
+
+Fox News • 1h ago
+
+---
+
+**[Jim Cramer on the latest price action in bitcoin](https://www.cnbc.com/video/2026/03/02/jim-cramer-on-the-latest-price-action-in-bitcoin.html)**
+
+'Mad Money' host Jim Cramer digs into cryptos recent moves.
+
+CNBC • 1h ago
+
+---
+
+**[Bitcoin market bottom may be nearing, at least if measured against gold, analyst says](https://www.coindesk.com/markets/2026/03/01/bitcoin-market-bottom-may-be-nearing-at-least-if-measured-against-gold-analyst-says)**
+
+Historically, bitcoin bear markets have lasted 12-13 months, suggesting a potential downturn until late 2026 if priced in USD.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin futures demand falls to 2024 lows: Are institutions exiting the market?](https://www.tradingview.com/news/cointelegraph:e92175d96094b:0-bitcoin-futures-demand-falls-to-2024-lows-are-institutions-exiting-the-market/)**
+
+Key takeaways:Bitcoin (BTC) price has gained 10% since retesting $63,000 on Saturday, providing a glimpse of hope for bulls as stock markets moved in a different direction amid escalating tensions in the Middle East. However, demand for Bitcoin futures has been declining, with open interest reachin…
+
+TradingView • 4h ago
+
+---
+
+**[Texas’ $10M bitcoin investment slips into the red amid crypto price dive](https://www.dallasnews.com/business/2026/03/02/texas-10m-bitcoin-investment-slips-into-the-red-amid-crypto-price-dive/)**
+
+As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
+
+Dallas News • 8h ago
+
+---
+
+**[Why is BTC up today: Bitcoin's jump to $69,000 likely the result of short-covering](https://www.coindesk.com/markets/2026/03/02/bitcoin-s-5-spike-higher-monday-driven-by-short-covering-not-fresh-buying-says-analyst)**
+
+Market data show rising open interest and large liquidation clusters around $65,000 and above $70,000, underscoring that the rally may be fragile without stronger spot demand
+
+CoinDesk • 6h ago
 
 ---
 
@@ -277,6 +279,12 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 ---
 
+**[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
+
+⬆️ 2 • 💬 1 • 4h ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
+
+---
+
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
 ⬆️ 2 • 💬 1 • 2d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
@@ -289,17 +297,11 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 ---
 
-**[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
-
-⬆️ 2 • 💬 0 • 2h ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
-
----
-
 **[No 10 Am BTC Dump? Bitcoin Price Rallies as Jane Street Trading Draws Attention](https://news.ycombinator.com/item?id=47160617)**
 
 Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Street halted a suspected 10 a.m. selling strategy.
 
-⬆️ 2 • 💬 0 • 4d ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
+⬆️ 2 • 💬 0 • 5d ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
 
 ---
 
@@ -307,73 +309,43 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: The Early March Rally](https://www.youtube.com/watch?v=R9yYJXpYYzg)**
-
-Bitcoin usually gets a rally into early March, then forms a lower high and goes lower into April/May. Let's discuss! Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 39K • 👍 3K • 💬 176 • ⏱️ 21:27 • 7h ago
-
----
-
 **[Why The Iran War is Distracting You From Bitcoin&#39;s RUN to $500K!](https://www.youtube.com/watch?v=Noxp6LNHTDI)**
 
 War headlines are crushing markets and Bitcoin just dropped fast. But while everyone stares at red candles in dollars, Bitcoin ...
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 2K • 💬 222 • ⏱️ 18:43 • 23h ago
+👁️ 42K • 👍 3K • 💬 225 • ⏱️ 18:43 • 1d ago
 
 ---
 
-**[bitcoin is telling us something massive . . .](https://www.youtube.com/watch?v=l_-9CWawFyM)**
+**[The Crypto Market Is Getting Absurd (Tom Lee, Michael Saylor, Raoul Pal)](https://www.youtube.com/watch?v=9U0ctEDMJw8)**
 
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
 
-📺 Tyler S
+📺 Altcoin Daily
 
-👁️ 9K • 👍 638 • 💬 130 • ⏱️ 9:51 • 7h ago
-
----
-
-**[World Chaos Ahead…But Bitcoin Just Flashed a Bottom Signal](https://www.youtube.com/watch?v=SkfnWQvmYTs)**
-
-Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
-
-📺 CryptosRUs
-
-👁️ 18K • 👍 1K • 💬 45 • ⏱️ 51:28 • 7h ago
+👁️ 8K • 👍 776 • 💬 37 • ⏱️ 10:14 • 2h ago
 
 ---
 
-**[&quot;GET READY! Bitcoin&#39;s About to Pull the Surprise of the Year&quot; - Tom Lee](https://www.youtube.com/watch?v=VvVxD4aXBqY)**
+**[Bitcoin: The Early March Rally](https://www.youtube.com/watch?v=R9yYJXpYYzg)**
 
-Explore BRON here: https://go.bron.org/savvyfinance BRON is a premium MPC-based wallet designed to eliminate seed phrases ...
+Bitcoin usually gets a rally into early March, then forms a lower high and goes lower into April/May. Let's discuss! Into The ...
 
-📺 Savvy Finance
+📺 Benjamin Cowen
 
-👁️ 7K • 👍 218 • 💬 16 • ⏱️ 21:22 • 1d ago
-
----
-
-**[The Bitcoin Crash They Promised Isn’t Coming](https://www.youtube.com/watch?v=9dirAQ2AP4w)**
-
-Everyone from mainstream media to the "permabears" has been screaming about a massive Bitcoin correction. They pointed to ...
-
-📺 Discover Crypto
-
-👁️ 10K • 👍 433 • 💬 3 • ⏱️ 1:57:53 • 6h ago
+👁️ 57K • 👍 4K • 💬 206 • ⏱️ 21:27 • 9h ago
 
 ---
 
-**[Bitcoin vs Iran Tensions - What Happens Next?](https://www.youtube.com/watch?v=kA7vZ_0JJ4o)**
+**[WAR Panic! vs Crypto🔥Market Update🚨](https://www.youtube.com/watch?v=XQllD80a1_Y)**
 
-Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+Bitcoin (BTC) experienced a strong jump during the weekend as the U.S. and Israel killed the Supreme Leader of Iran and ...
 
-📺 CryptosRUs
+📺 Paul Barron Network
 
-👁️ 18K • 👍 989 • 💬 100 • ⏱️ 9:16 • 21h ago
+👁️ 30K • 👍 2K • 💬 166 • ⏱️ 17:42 • 6h ago
 
 ---
 
@@ -383,17 +355,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 545 • 💬 72 • ⏱️ 17:48 • 8h ago
+👁️ 12K • 👍 579 • 💬 76 • ⏱️ 17:48 • 10h ago
 
 ---
 
-**[Bitcoin Holders, This Is Happening Right Now](https://www.youtube.com/watch?v=BT9XBzIVexA)**
+**[bitcoin is telling us something massive . . .](https://www.youtube.com/watch?v=l_-9CWawFyM)**
 
-Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
-📺 Aaron Bennett
+📺 Tyler S
 
-👁️ 11K • 👍 546 • 💬 65 • ⏱️ 6:46 • 14h ago
+👁️ 13K • 👍 732 • 💬 174 • ⏱️ 9:51 • 9h ago
+
+---
+
+**[WWIII JUST STARTED! (Is Bitcoin Crashing to $20K?)](https://www.youtube.com/watch?v=gtLNCJjl5EA)**
+
+War in the Middle East just triggered a potential global energy crisis, and markets are not ready. With the Strait of Hormuz shut ...
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 946 • 💬 151 • ⏱️ 16:46 • 3h ago
 
 ---
 
@@ -403,7 +385,27 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 84 • ⏱️ 8:18 • 12h ago
+👁️ 25K • 👍 3K • 💬 69 • ⏱️ 8:18 • 15h ago
+
+---
+
+**[Bitcoin Holders, This Is Happening Right Now](https://www.youtube.com/watch?v=BT9XBzIVexA)**
+
+Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+
+📺 Aaron Bennett
+
+👁️ 12K • 👍 574 • 💬 86 • ⏱️ 6:46 • 16h ago
+
+---
+
+**[World Chaos Ahead…But Bitcoin Just Flashed a Bottom Signal](https://www.youtube.com/watch?v=SkfnWQvmYTs)**
+
+Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 1K • 💬 68 • ⏱️ 51:28 • 10h ago
 
 ---
 
