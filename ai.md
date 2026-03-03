@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-03T02:13:22.389853+00:00'
+updated: '2026-03-03T04:26:33.677992+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 03, 2026 at 02:13 UTC  
+**Last Updated:** March 03, 2026 at 04:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,39 +41,7 @@ AI news, discussions, and developments
 
 The law doesn’t say what Sam Altman claims it does.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 2h ago
-
----
-
-**[Scientists made AI agents ruder — and they performed better at complex reasoning tasks](https://www.reddit.com/r/artificial/comments/1rij131/scientists_made_ai_agents_ruder_and_they/)**
-
-Are we better off with ai with or without the pleasantries?
-
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 21h ago
-
----
-
-**[Compare GPU and LLM pricing across all major providers](https://www.reddit.com/r/artificial/comments/1rj1ax6/compare_gpu_and_llm_pricing_across_all_major/)**
-
-Dashboard for near real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
-
-7h ago
-
----
-
-**[AI - Reverse Robin Hood](https://www.reddit.com/r/artificial/comments/1rj0d13/ai_reverse_robin_hood/)**
-
-I had some time and decided to write a short essay about some aspects that I do not see frequently. I would like to get your opinion on it: Modern artificial intelligence (AI) systems are gaining traction in companies. They are used as simple chatbots and for specific, well-defined tasks, but increasingly also as agents enriched with skills that allow them to act autonomously. However, unchecked AI in companies could become the largest intellectual property theft in history. This risk arises from uninformed employees, an overreliance on contracts instead of technical limitations, and the growing autonomy of AI systems. When AI is introduced in companies, employees often upload intellectual property without considering the consequences. This can be as simple as a spreadsheet containing a business plan or as critical as a patent application or sensitive private data. The extraordinary capabilities of AI, combined with pressure to increase efficiency, make it very tempting to use even highly confidential information. Companies are usually aware of these risks and often rely on contracts rather than technical safeguards to mitigate them. This blind trust in contracts can be dangerous. In the past, many companies have failed to respect contractual obligations and used collected data for their own gain. The Facebook–Cambridge Analytica data scandal is one well-known example. Additionally, data breaches are increasing every year, and AI companies have a strong incentive to acquire new training data. As the technology evolves, AI systems will become even more autonomous. Many AI agents already have access to entire codebases or complete knowledge repositories in order to provide better answers. The next step is that these agents will not only analyze information but also act independently. Tools such as OpenClaw demonstrate how powerful such systems can be, but when used incorrectly and without technical limitations, they can expose a company’s crown jewels to third parties. In conclusion, while the advantages of AI are significant and can deliver major efficiency gains, companies must use these systems carefully. Since employees are likely to upload sensitive information, organizations should prioritize strong technical limitations rather than relying solely on contractual agreements. This is especially important as more advanced agent-based systems are introduced. Companies must ensure that “reverse Robin Hood” does not steal their most valuable secrets.
-
-8h ago
-
----
-
-**[Why World Models Are Advancing Faster Than Enterprise AI Adoption](https://www.reddit.com/r/artificial/comments/1riqs79/why_world_models_are_advancing_faster_than/)**
-
-World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
-
-🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 14h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 5h ago
 
 ---
 
@@ -81,7 +49,55 @@ World models are advancing rapidly inside AI labs, but enterprise adoption is la
 
 A middle-to-upper-income career path in the age of white collar AI anxiety.
 
-🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 2h ago
+🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 4h ago
+
+---
+
+**[Scientists made AI agents ruder — and they performed better at complex reasoning tasks](https://www.reddit.com/r/artificial/comments/1rij131/scientists_made_ai_agents_ruder_and_they/)**
+
+Are we better off with ai with or without the pleasantries?
+
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 1d ago
+
+---
+
+**[ChatGPT Uninstalls Surge 295% After OpenAI’s DoD Deal Sparks Backlash](https://www.reddit.com/r/artificial/comments/1rjfh7f/chatgpt_uninstalls_surge_295_after_openais_dod/)**
+
+ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Department of Defense, triggering user backlash and boosting rival AI downloads.
+
+🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 11m ago
+
+---
+
+**[AI - Reverse Robin Hood](https://www.reddit.com/r/artificial/comments/1rj0d13/ai_reverse_robin_hood/)**
+
+I had some time and decided to write a short essay about some aspects that I do not see frequently. I would like to get your opinion on it: Modern artificial intelligence (AI) systems are gaining traction in companies. They are used as simple chatbots and for specific, well-defined tasks, but increasingly also as agents enriched with skills that allow them to act autonomously. However, unchecked AI in companies could become the largest intellectual property theft in history. This risk arises from uninformed employees, an overreliance on contracts instead of technical limitations, and the growing autonomy of AI systems. When AI is introduced in companies, employees often upload intellectual property without considering the consequences. This can be as simple as a spreadsheet containing a business plan or as critical as a patent application or sensitive private data. The extraordinary capabilities of AI, combined with pressure to increase efficiency, make it very tempting to use even highly confidential information. Companies are usually aware of these risks and often rely on contracts rather than technical safeguards to mitigate them. This blind trust in contracts can be dangerous. In the past, many companies have failed to respect contractual obligations and used collected data for their own gain. The Facebook–Cambridge Analytica data scandal is one well-known example. Additionally, data breaches are increasing every year, and AI companies have a strong incentive to acquire new training data. As the technology evolves, AI systems will become even more autonomous. Many AI agents already have access to entire codebases or complete knowledge repositories in order to provide better answers. The next step is that these agents will not only analyze information but also act independently. Tools such as OpenClaw demonstrate how powerful such systems can be, but when used incorrectly and without technical limitations, they can expose a company’s crown jewels to third parties. In conclusion, while the advantages of AI are significant and can deliver major efficiency gains, companies must use these systems carefully. Since employees are likely to upload sensitive information, organizations should prioritize strong technical limitations rather than relying solely on contractual agreements. This is especially important as more advanced agent-based systems are introduced. Companies must ensure that “reverse Robin Hood” does not steal their most valuable secrets.
+
+10h ago
+
+---
+
+**[Warning: Trae IDE's New Token Pricing Destroyed My Workflow Overnight – Don't Get Caught Off Guard](https://www.reddit.com/r/artificial/comments/1rjd7dy/warning_trae_ides_new_token_pricing_destroyed_my/)**
+
+Hey everyone, I've been a Trae IDE user for over a year now, relying on it for custom agents, coding (PHP, Python, JS, etc.), and even casual sanity-keeping chats. The old Pro plan ($10/mo) gave me 600 fast requests + unlimited slow ones, which easily lasted me 3+ weeks of moderate use. It felt like good value for an AI-powered IDE. But after their February 2026 switch to token-based pricing, it's a nightmare. Yesterday, I spent the day trying (and failing) to hook up a local LLM (via LM Studio) to bypass cloud costs – something that used to be easier with providers like Ollama, but that's disappeared from the list. Ended up burning through $38 in one day on just 127 requests. That's twice my monthly $20 Basic allowance on a fraction of my old usage... For context: Many of those requests were debug/experimental (long contexts, persistent memory, GPT-5-medium/auto mode), but under the old system, they'd be "slow" and free. Now, every token counts, and my setup (persistent agent chats) compounds costs fast. I wasn't even productive – just frustrated troubleshooting integration that feels deliberately blocked to push cloud models. I'm out – canceling my sub and going full local (LM Studio + VS Code) or alternatives like Cursor/Antigravity. If you're on Trae, optimize hard: Use cheap models like Gemini-Flash, reset contexts often, and avoid agents/SOLO for casual stuff. Demand better local support in their GitHub issues (#597, etc.) to avoid this shafting. Don't let them turn a solid tool into a money pit. What are your experiences with the new pricing? Any good local IDE alternatives?
+
+1h ago
+
+---
+
+**[Why World Models Are Advancing Faster Than Enterprise AI Adoption](https://www.reddit.com/r/artificial/comments/1riqs79/why_world_models_are_advancing_faster_than/)**
+
+World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
+
+🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 16h ago
+
+---
+
+**[Compare GPU and LLM pricing across all major providers](https://www.reddit.com/r/artificial/comments/1rj1ax6/compare_gpu_and_llm_pricing_across_all_major/)**
+
+Dashboard for near real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
+
+9h ago
 
 ---
 
@@ -89,15 +105,7 @@ A middle-to-upper-income career path in the age of white collar AI anxiety.
 
 .
 
-🔗 [phoronix.com](https://www.phoronix.com/review/amd-epyc-9745-9755/3) • 3h ago
-
----
-
-**[Learning how to steer agentic AI in the right direction is a useless skill #changemymind](https://www.reddit.com/r/artificial/comments/1risnre/learning_how_to_steer_agentic_ai_in_the_right/)**
-
-So, you wanna build an app. You have a design/architecture document that you want your agents to follow. That's great, that should be ALL you need and that WILL be all you need, but we're not there yet. No, you have to learn the best prompts, you have to specify proper coding conventions, you have to write SKILL.md files to make up for some deficiency the model has or some outdated info that, for some reason, the model is incapable of googling and storing on it's own. But that's all bullshit. In a year or two all this elaborate engineering will be worthless because the models will be much better and none of that will be needed, so you are essentially wasting your time learning all this crap. In the future a design and architecture document will be enough.
-
-12h ago
+🔗 [phoronix.com](https://www.phoronix.com/review/amd-epyc-9745-9755/3) • 5h ago
 
 ---
 
@@ -109,61 +117,41 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 ---
 
-**[Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance](https://www.reddit.com/r/artificial/comments/1rhu99c/claude_hits_no_1_on_app_store_as_chatgpt_users/)**
-
-OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
-
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war/)**
+
+Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
+
+OpenAI • 2d ago
+
+---
 
 **[Anthropic's Claude sees 'elevated errors' as it tops Apple's free apps after Pentagon clash](https://www.cnbc.com/2026/03/02/anthropic-claude-ai-outage-apple-pentagon.html)**
 
 The app surged to the top free app on Apple's App Store after Anthropic clashed with the Department of Defense over limits for the technology.
 
-CNBC • 10h ago
+CNBC • 13h ago
 
 ---
 
-**[Anthropic’s AI model Claude gets popularity boost after US military feud](https://www.theguardian.com/technology/2026/mar/02/claude-anthropic-ai-pentagon)**
+**[OpenAI Amends A.I. Deal With the Pentagon](https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html)**
 
-Claude climbs to top of app store charts in US and UK after being blacklisted by the Pentagon over ethics concerns
-
-The Guardian • 5h ago
+The New York Times • 1h ago
 
 ---
 
-**[Scoop: OpenAI, Pentagon add more surveillance protections to AI deal](https://www.axios.com/2026/03/03/openai-pentagon-ai-surveillance)**
+**[US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)**
 
-Axios • 51m ago
-
----
-
-**[China’s Parents Are Outsourcing the Homework Grind to A.I.](https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html)**
-
-The New York Times • 21h ago
+Reuters • 13h ago
 
 ---
 
-**[Meta Tests AI Shopping Research Tool to Rival ChatGPT, Gemini](https://www.bloomberg.com/news/articles/2026-03-03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini)**
+**[Singapore’s AI Mission Includes Training Lawyers, Prison Inmates](https://www.bloomberg.com/news/articles/2026-03-03/singapore-s-ai-mission-includes-training-lawyers-prison-inmates)**
 
-Bloomberg • 15m ago
-
----
-
-**[Exclusive | Startup Making AI Chips More Power-Efficient Raises $500 Million](https://www.wsj.com/tech/startup-making-ai-chips-more-power-efficient-raises-500-million-35edbfd1?gaa_at=eafs&gaa_n=AWEtsqclE8s1gPvMiOY5iYRiDNfKnaOS4VxXcGLM0OMnWrzcQ595fjfe5HkI&gaa_ts=69a6471f&gaa_sig=UcRzCvJ6bjxvF9VBKnGTIx7E57-Rd0ldQeYu5M_l2OTW_qhusj741d7ieIV5_bdHtYN8NwiUMV1_AwC9F2zVHw%3D%3D)**
-
-WSJ • 13m ago
-
----
-
-**[Jack Dorsey’s Latest Far-Out Bet: An AI Future With Fewer Employees](https://www.wsj.com/business/jack-dorseys-latest-far-out-bet-an-ai-future-with-fewer-employees-25655cda?gaa_at=eafs&gaa_n=AWEtsqeAuSudb_dGmW_Y_YwDuKDmrJ98iJ49FQ358k4GoQRQCOwIHEVu-w5f&gaa_ts=69a6471f&gaa_sig=dB_VhAxKGZAMtUsT__OmhIgG4Ser6VstOWYVODLqObm01z7VDMrPTK7X0iIfub1W1s-d42jYoi1vZyQIl50emg%3D%3D)**
-
-WSJ • 13m ago
+Bloomberg • 43m ago
 
 ---
 
@@ -171,23 +159,33 @@ WSJ • 13m ago
 
 Career-focused programs mistakenly assume that what seems useful today will be useful tomorrow.
 
-The Washington Post • 6h ago
+The Washington Post • 9h ago
 
 ---
 
-**[What can players and clubs do about 'AI slop'?](https://www.bbc.com/sport/football/articles/cy8pdr55219o)**
+**[China’s Parents Are Outsourcing the Homework Grind to A.I.](https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html)**
 
-There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it?
-
-BBC • 18h ago
+The New York Times • 23h ago
 
 ---
 
-**[Can A.I. Be Pro-Worker?](https://www.newyorker.com/news/the-financial-page/can-ai-be-pro-worker)**
+**[HALO, AGI, vibe coding: The words to help you understand AI](https://www.axios.com/2026/03/03/ai-words-terms-claude-openai-chatgpt)**
 
-As fears of mass unemployment grow, three leading economists advocate some policies to shift the focus from job displacement to job enhancement.
+Axios • 2h ago
 
-The New Yorker • 15h ago
+---
+
+**[Exclusive | Startup Making AI Chips More Power-Efficient Raises $500 Million](https://www.wsj.com/tech/startup-making-ai-chips-more-power-efficient-raises-500-million-35edbfd1?gaa_at=eafs&gaa_n=AWEtsqcjRUMimPHl_LbbJS0-iLhLKXjwfP1EQ63bbFgEZ9PZtibMO148gMb1&gaa_ts=69a6665b&gaa_sig=y51__uZoGl0K9AgNbkOs582NHTU_CjICtdB49M8g9lELrHIGYhqt2O6jzW89ofhP5O-ynK14PnPMI25pPky56g%3D%3D)**
+
+WSJ • 2h ago
+
+---
+
+**[I’m on the Meta Oversight Board. We need AI protections now | Suzanne Nossel](https://www.theguardian.com/commentisfree/2026/mar/02/meta-oversight-board-ai)**
+
+AI is transforming our world. Accepting independent oversight is the least companies can do to protect our rights
+
+The Guardian • 11h ago
 
 ---
 
@@ -199,7 +197,7 @@ The New Yorker • 15h ago
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 578 • 💬 307 • 1d ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 580 • 💬 307 • 1d ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -207,7 +205,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.
 
-⬆️ 462 • 💬 375 • 1d ago • [GitHub](https://github.com/mandel-macaque/memento)
+⬆️ 465 • 💬 376 • 1d ago • [GitHub](https://github.com/mandel-macaque/memento)
 
 ---
 
@@ -215,7 +213,15 @@ Keep track of you codex sessions per commit. Contribute to mandel-macaque/mement
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 392 • 💬 307 • 1d ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 394 • 💬 307 • 1d ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+
+---
+
+**[New iPad Air, powered by M4](https://news.ycombinator.com/item?id=47218175)**
+
+Apple announced the new iPad Air featuring M4 and more memory, giving users a big jump in performance and making it more versatile than ever.
+
+⬆️ 343 • 💬 551 • 14h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 
 ---
 
@@ -235,14 +241,6 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 ---
 
-**[New iPad Air, powered by M4](https://news.ycombinator.com/item?id=47218175)**
-
-Apple announced the new iPad Air featuring M4 and more memory, giving users a big jump in performance and making it more versatile than ever.
-
-⬆️ 326 • 💬 523 • 12h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
-
----
-
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
 ⬆️ 254 • 💬 60 • 1d ago • [modernaicourse.org](https://modernaicourse.org)
@@ -251,7 +249,7 @@ Apple announced the new iPad Air featuring M4 and more memory, giving users a bi
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 209 • 💬 361 • 1d ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 209 • 💬 366 • 1d ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
@@ -259,7 +257,7 @@ Apple announced the new iPad Air featuring M4 and more memory, giving users a bi
 
 Pull up your agents folks, I'll convince you why Go is the best language for them.
 
-⬆️ 153 • 💬 222 • 7h ago • [Bruin](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
+⬆️ 160 • 💬 228 • 9h ago • [Bruin](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
 
 ---
 
@@ -279,17 +277,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 7K • 👍 957 • 💬 64 • ⏱️ 13:36 • 5h ago
-
----
-
-**[The Thing About AI No One is Talking About](https://www.youtube.com/watch?v=L2eJSTKWCCI)**
-
-Main Channel @JackMorgan_RLP Buy a Caddy Daddy T-Shirt: https://jackmorganrlp.sellfy.store/ Exclusive Content on ...
-
-📺 Jack Morgan RLP 2.0
-
-👁️ 26K • 👍 1K • 💬 422 • ⏱️ 27:35 • 1d ago
+👁️ 10K • 👍 1K • 💬 74 • ⏱️ 13:36 • 7h ago
 
 ---
 
@@ -299,7 +287,27 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 📺 Farzad
 
-👁️ 26K • 👍 1K • 💬 249 • ⏱️ 20:52 • 1d ago
+👁️ 26K • 👍 1K • 💬 250 • ⏱️ 20:52 • 1d ago
+
+---
+
+**[The Month AI Woke Up](https://www.youtube.com/watch?v=-FJ7HiPBkCM)**
+
+February 2026 crystallized a shift to agentic AI as developer workflows moved from hand-coding to orchestrating autonomous ...
+
+📺 The AI Daily Brief: Artificial Intelligence News
+
+👁️ 1K • 👍 78 • 💬 2 • ⏱️ 13:29 • 3h ago
+
+---
+
+**[How China Caught Up on AI—and May Now Win the Future](https://www.youtube.com/watch?v=xvSEw8AqPtA)**
+
+Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTube channel ▻▻ http://ti.me/subscribe-time ...
+
+📺 TIME
+
+👁️ 4K • 👍 174 • 💬 67 • ⏱️ 6:10 • 9h ago
 
 ---
 
@@ -309,7 +317,7 @@ Artificial intelligence is now part of the battlefield. During the strike on Ira
 
 📺 Firstpost
 
-👁️ 503K • 👍 5K • 💬 509 • ⏱️ 6:11 • 1d ago
+👁️ 517K • 👍 5K • 💬 527 • ⏱️ 6:11 • 1d ago
 
 ---
 
@@ -319,7 +327,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 657K • 👍 18K • 💬 3K • ⏱️ 1:33:33 • 2d ago
+👁️ 674K • 👍 19K • 💬 3K • ⏱️ 1:33:33 • 2d ago
 
 ---
 
@@ -329,7 +337,7 @@ An honest take about AI. Join the community https://www.youtube.com/channel/UCXz
 
 📺 Awesome
 
-👁️ 140K • 👍 7K • 💬 592 • ⏱️ 8:07 • 16h ago
+👁️ 144K • 👍 7K • 💬 600 • ⏱️ 8:07 • 18h ago
 
 ---
 
@@ -339,7 +347,17 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 235K • 👍 13K • 💬 2K • ⏱️ 14:41 • 2d ago
+👁️ 237K • 👍 13K • 💬 2K • ⏱️ 14:41 • 2d ago
+
+---
+
+**[Grok AI Analyzed Data Voyager 1 Found at the Edge of the Solar System - It&#39;s Disturbing](https://www.youtube.com/watch?v=ZMuMCXJH5Ig)**
+
+In May 2022, at a distance of more than 23 billion kilometers, Voyager 1 suddenly transmitted streams of orientation data that ...
+
+📺 Aline Rogerio
+
+👁️ 1K • 👍 2K • 💬 2 • ⏱️ 19:43 • 12h ago
 
 ---
 
@@ -349,27 +367,7 @@ OpenAI's next model may already be in the works, DeepSeek could be dropping V4 s
 
 📺 Universe of AI
 
-👁️ 6K • 👍 180 • 💬 22 • ⏱️ 8:46 • 1d ago
-
----
-
-**[How AI Is Making Everything More Expensive (Including Housing)](https://www.youtube.com/watch?v=qNcxYvlzKmE)**
-
-Rent is soaring, electricity bills are spiking, and even your laptop RAM costs more than it did a year ago. In this episode, we break ...
-
-📺 The Infographics Show
-
-👁️ 36K • 👍 1K • 💬 302 • ⏱️ 12:34 • 5h ago
-
----
-
-**[AI Just Leveled Up And There Are No Guardrails Anymore](https://www.youtube.com/watch?v=Ecmlh607KeA)**
-
-AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
-
-📺 CNBC
-
-👁️ 89K • 👍 2K • 💬 300 • ⏱️ 39:40 • 2d ago
+👁️ 6K • 👍 185 • 💬 22 • ⏱️ 8:46 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 587,006 • ❤️ 826 • 3d ago
+⬇️ 587,006 • ❤️ 834 • 3d ago
 
 ---
 
@@ -397,7 +395,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 260,326 • ❤️ 523 • 5d ago
+⬇️ 260,326 • ❤️ 527 • 6d ago
 
 ---
 
@@ -409,7 +407,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 503,127 • ❤️ 459 • 3d ago
+⬇️ 503,127 • ❤️ 462 • 3d ago
 
 ---
 
@@ -421,31 +419,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 134,356 • ❤️ 378 • 22h ago
-
----
-
-**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
-
-*Qwen*
-
-Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delta Network and MoE architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a 397B total parameter count with 17B activated, supporting a native context length of 262,144 tokens, making it suitable for complex multimodal understanding and generation tasks.
-
-`image-text-to-text` `403.4B`
-
-⬇️ 1,144,830 • ❤️ 1,177 • 7d ago
-
----
-
-**[LocoOperator-4B](https://huggingface.co/LocoreMind/LocoOperator-4B)**
-
-*LocoreMind*
-
-LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn codebase exploration. It excels at reading files, searching code, and navigating project structures with 100% JSON validity for tool calls, enabling local, zero-API-cost agent deployment via llama.cpp.
-
-`text-generation` `4.0B`
-
-⬇️ 2,743 • ❤️ 256 • 6d ago
+⬇️ 134,356 • ❤️ 380 • 1d ago
 
 ---
 
@@ -457,7 +431,43 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 10,797 • ❤️ 236 • 2d ago
+⬇️ 10,797 • ❤️ 238 • 2d ago
+
+---
+
+**[LocoOperator-4B](https://huggingface.co/LocoreMind/LocoOperator-4B)**
+
+*LocoreMind*
+
+LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn codebase exploration. It excels at reading files, searching code, and navigating project structures with 100% JSON validity for tool calls, enabling local, zero-API-cost agent deployment via llama.cpp.
+
+`text-generation` `4.0B`
+
+⬇️ 2,743 • ❤️ 257 • 6d ago
+
+---
+
+**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
+
+*Qwen*
+
+Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delta Network and MoE architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a 397B total parameter count with 17B activated, supporting a native context length of 262,144 tokens, making it suitable for complex multimodal understanding and generation tasks.
+
+`image-text-to-text` `403.4B`
+
+⬇️ 1,144,830 • ❤️ 1,178 • 7d ago
+
+---
+
+**[Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)**
+
+*Qwen*
+
+Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient hybrid architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a unified vision-language foundation and a long context window (262k tokens natively), making it suitable for complex multimodal applications.
+
+`image-text-to-text` `9.7B`
+
+⬇️ 10 • ❤️ 206 • 1d ago
 
 ---
 
@@ -473,27 +483,15 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 ---
 
-**[Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)**
+**[Qwen3.5-27B-GGUF](https://huggingface.co/unsloth/Qwen3.5-27B-GGUF)**
 
-*Qwen*
+*Unsloth AI*
 
-Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient hybrid architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a unified vision-language foundation and a long context window (262k tokens natively), making it suitable for complex multimodal applications.
+Qwen3.5-27B-GGUF is a 27B parameter multimodal causal language model optimized for local inference via Unsloth Dynamic 2.0. It excels at unified vision-language tasks, supports 201 languages, and features a long context window up to 1M tokens, making it suitable for advanced multimodal reasoning and generation.
 
-`image-text-to-text` `9.7B`
+`image-text-to-text` `26.9B`
 
-⬇️ 10 • ❤️ 198 • 1d ago
-
----
-
-**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
-
-*MiniMax*
-
-MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 323,865 • ❤️ 1,064 • 14d ago
+⬇️ 218,342 • ❤️ 192 • 12h ago
 
 ---
 
@@ -507,7 +505,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 8 • 💬 0 • ⭐ 6,690 • 16mo ago
+▲ 9 • 💬 0 • ⭐ 6,690 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
@@ -531,7 +529,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 9 • 💬 1 • ⭐ 8,902 • 23mo ago
+▲ 9 • 💬 1 • ⭐ 8,902 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -557,7 +555,7 @@ GUI-Owl and Mobile-Agent-v3 are open-source GUI agent models and frameworks that
 
 A unified open-source framework is presented that standardizes core components of diffusion language modeling for reproduction, customization, and accessible development of both large and small models.
 
-▲ 70 • 💬 4 • ⭐ 1,924 • 5d ago
+▲ 81 • 💬 4 • ⭐ 1,924 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.22661) • [💻 code](https://github.com/ZHZisZZ/dllm) • [🔗 project](https://github.com/ZHZisZZ/dllm)
 
@@ -613,7 +611,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 205 • 💬 13 • ⭐ 4,539 • 1mo ago
+▲ 206 • 💬 13 • ⭐ 4,539 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -641,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 22.3k • 🔱 2.8k • 53s ago
+⭐ 22.3k • 🔱 2.8k • 1h ago
 
 ---
 
@@ -651,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Python`
 
-⭐ 6.2k • 🔱 746 • 7h ago
+⭐ 6.2k • 🔱 753 • 9h ago
 
 ---
 
@@ -661,7 +659,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 5.5k • 🔱 535 • 9h ago
+⭐ 5.8k • 🔱 558 • 30m ago
 
 ---
 
@@ -671,17 +669,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.5k • 🔱 501 • 2h ago
-
----
-
-**[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)**
-
-The agent-native LLM router empowering OpenClaw — by BlockRunAI
-
-`TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
-
-⭐ 3.8k • 🔱 368 • 8h ago
+⭐ 4.6k • 🔱 511 • 4h ago
 
 ---
 
@@ -691,7 +679,17 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.8k • 🔱 303 • 11h ago
+⭐ 3.8k • 🔱 305 • 13h ago
+
+---
+
+**[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)**
+
+The agent-native LLM router empowering OpenClaw — by BlockRunAI
+
+`TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
+
+⭐ 3.8k • 🔱 369 • 10h ago
 
 ---
 
@@ -701,7 +699,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.7k • 🔱 491 • 1d ago
+⭐ 3.7k • 🔱 492 • 1d ago
 
 ---
 
@@ -711,7 +709,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 345 • 11h ago
+⭐ 3.2k • 🔱 348 • 24m ago
 
 ---
 
@@ -721,7 +719,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 225 • 4h ago
+⭐ 3.1k • 🔱 225 • 6h ago
 
 ---
 
@@ -731,7 +729,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 597 • 2d ago
+⭐ 3.1k • 🔱 599 • 2d ago
 
 ---
 

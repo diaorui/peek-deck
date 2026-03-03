@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-03T02:13:22.407436+00:00'
+updated: '2026-03-03T04:26:33.695832+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 03, 2026 at 02:13 UTC  
+**Last Updated:** March 03, 2026 at 04:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,29 +34,13 @@ Robotics research and industry news
 
 **[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-9h ago
+11h ago
 
 ---
 
 **[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-4h ago
-
----
-
-**[AEON with a self-service battery swapping system located on the chest (with a key-like clip on the wrist)](https://www.reddit.com/r/robotics/comments/1ripizk/aeon_with_a_selfservice_battery_swapping_system/)**
-
-Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
-
-15h ago
-
----
-
-**[Intrinsic AI for Industry Challenge Toolkit has Dropped -- Full cable insertion simulation with hooks for training your own policy.](https://www.reddit.com/r/robotics/comments/1rj9yvn/intrinsic_ai_for_industry_challenge_toolkit_has/)**
-
-Competition toolkit is available here. With additional context on Open Robotics Discourse. Competition details can be found here. Two competition sessions will be held tomorrow, March 3rd (they will be recorded). Session 1: March 3rd: 9-10am PT / 5-6pm UTC (US/Europe friendly) Session 2: March 3rd: 5-6pm PT / March 4th 1-2 am UTC (US/APAC friendly)
-
-2h ago
+6h ago
 
 ---
 
@@ -64,7 +48,31 @@ Competition toolkit is available here. With additional context on Open Robotics 
 
 I’ve just finished the soldering for the controller for my 6-axis robot. You may notice that there are only 5 drivers and that is because two went bad and I’m waiting on replacements. I also installed the I2C MUX that will interface with the magnetic encoders. Please leave any questions, comments, or advice in the comments, I really appreciate it! More updates on the way.
 
-1h ago
+3h ago
+
+---
+
+**[AEON with a self-service battery swapping system located on the chest (with a key-like clip on the wrist)](https://www.reddit.com/r/robotics/comments/1ripizk/aeon_with_a_selfservice_battery_swapping_system/)**
+
+Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
+
+17h ago
+
+---
+
+**[Intrinsic AI for Industry Challenge Toolkit has Dropped -- Full cable insertion simulation with hooks for training your own policy.](https://www.reddit.com/r/robotics/comments/1rj9yvn/intrinsic_ai_for_industry_challenge_toolkit_has/)**
+
+Competition toolkit is available here. With additional context on Open Robotics Discourse. Competition details can be found here. Two competition sessions will be held tomorrow, March 3rd (they will be recorded). Session 1: March 3rd: 9-10am PT / 5-6pm UTC (US/Europe friendly) Session 2: March 3rd: 5-6pm PT / March 4th 1-2 am UTC (US/APAC friendly)
+
+4h ago
+
+---
+
+**[Phased Power & Actuation for a Low-Latency Humanoid Build](https://www.reddit.com/r/robotics/comments/1rjf8p3/phased_power_actuation_for_a_lowlatency_humanoid/)**
+
+(Budget-Conscious) ​The Body: ​"I'm currently blueprinting a medium-scale (approx. 1.2m) bipedal robot project. My goal is to achieve fluid, natural movement without jumping immediately into high-cost industrial servos like HEBI or Dynamixel X-series. ​Actuation: Has anyone had success with 'quasi-direct drive' (QDD) using high-torque brushless motors (like the T-Motor series) for hip/knee joints to keep costs down while maintaining back-drivability? ​Power: I'm considering a 24V vs 48V system. For a home-built rig, is the complexity of 48V worth the efficiency gains, or is 24V the 'sweet spot' for component availability? ​Phasing: If you were building this on a budget, which subsystems would you 'overbuild' first, and where would you suggest using 3D-printed load-bearing parts vs. CNC aluminum? ​Looking for 'scrappy' but reliable engineering paths. Thanks!"
+
+23m ago
 
 ---
 
@@ -72,7 +80,15 @@ I’ve just finished the soldering for the controller for my 6-axis robot. You m
 
 Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
 
-17h ago
+19h ago
+
+---
+
+**[Anyone here working in Robotics in India? Looking to contribute / learn](https://www.reddit.com/r/robotics/comments/1rjd4fx/anyone_here_working_in_robotics_in_india_looking/)**
+
+Hi everyone, I’m a Mechanical Engineering graduate (2022) from India, currently working in manufacturing . I’ve developed a strong interest in robotics and want to transition into this field seriously. I’m especially interested in: Robotics hardware Automation systems. Mechanical design for robots Prototyping & 3D printing Is anyone here working in robotics in India (startups / labs / teams)? If yes, I would genuinely love to connect and explore if I can contribute, learn, or even assist in ongoing projects. I’m open to internships, junior roles, project-based collaboration, or even unpaid learning opportunities initially. I’m ready to learn fast and put in the work. Would really appreciate guidance or a chance to be part of a team. Thank you!
+
+1h ago
 
 ---
 
@@ -86,23 +102,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 **[Improve the Wi-Fi card on the G1 robot.](https://www.reddit.com/r/robotics/comments/1rj9pmd/improve_the_wifi_card_on_the_g1_robot/)**
 
-2h ago
-
----
-
-**[ROSCon Global 2026 Artwork + Diversity Scholarship Application Now Open](https://www.reddit.com/r/robotics/comments/1rj9o4f/roscon_global_2026_artwork_diversity_scholarship/)**
-
-ROSCon Global 2026 will be in Toronto, Canada, September 22nd through 24th. Don't delay, diversity scholarship applications are due March 22nd! Full details on our website.
-
-2h ago
-
----
-
-**[Msc in robotics](https://www.reddit.com/r/robotics/comments/1rj1kvp/msc_in_robotics/)**
-
-Hey , i want to study my Msc in robotics ( my background is in electrical engineering especially power). Im thinking of making a transition in my path from power sector into robotics (possibly defense sector) what is the market currently for robotics graduates? And what is the future? Im also entrepreneur so im into opening a startup in this sector once i acquire the right knowledge
-
-7h ago
+4h ago
 
 ---
 
@@ -134,14 +134,6 @@ CNBC • 1d ago
 
 ---
 
-**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
-
-The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
-
-Pittsburgh Post-Gazette • 1d ago
-
----
-
 **[Clarksburg Robotics Team Advances to National Competition](https://mocoshow.com/2026/03/01/clarksburg-robotics-team-advances-to-national-competition/)**
 
 A group of Montgomery County students is heading to a national robotics competition after an impressive showing at both the regional and state levels. Team MiniTechs, a robotics team based […]
@@ -154,7 +146,27 @@ The MoCo Show - • 1d ago
 
 Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Scientific American • 14h ago
+Scientific American • 16h ago
+
+---
+
+**[LLM (Claude) Given Robotic Hand Immediately Starts Making Peace Signs](https://blog.adafruit.com/2026/03/02/llm-claude-given-robotic-hand-immediately-starts-making-peace-signs/)**
+
+Adafruit • 10h ago
+
+---
+
+**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
+
+The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
+
+Pittsburgh Post-Gazette • 1d ago
+
+---
+
+**[5 Stocks Racing Ahead as AI Supercharges Robotics](https://www.marketbeat.com/stock-ideas/5-stocks-racing-ahead-as-ai-supercharges-robotics/)**
+
+MarketBeat • 10h ago
 
 ---
 
@@ -166,23 +178,11 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[Kraken Robotics Stock (KRKNF) Is Up 33% YTD: What’s Next for the Marine Tech Firm?](https://www.tipranks.com/news/kraken-robotics-stock-krknf-is-up-33-ytd-whats-next-for-the-marine-tech-firm)**
+**[6 lessons I learned watching a robotics startup die from the inside](https://www.therobotreport.com/6-lessons-learned-watching-a-robotics-startup-die-from-the-inside/)**
 
-TipRanks • 11h ago
+After a year as COO of K-Scale Labs, Rui Xu reflects on the hard lessons behind the collapse of its low-cost humanoid robot ambitions.
 
----
-
-**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
-
-Tech Xplore • 3d ago
-
----
-
-**[‘It’s not just all the big companies’: Warehouse robotics use expands](https://www.supplychaindive.com/news/warehouse-robotics-adoption-increases-supply-chains/812369/)**
-
-As-a-service models and success stories from peers are pushing SMEs to invest in automation technology within their supply chains alongside giants like Walmart and Amazon.
-
-Supply Chain Dive • 10h ago
+The Robot Report • 9h ago
 
 ---
 
@@ -196,17 +196,17 @@ War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the u
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 342 • 💬 85 • ⏱️ 17:41 • 11h ago
+👁️ 6K • 👍 362 • 💬 87 • ⏱️ 17:41 • 13h ago
 
 ---
 
-**[Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown](https://www.youtube.com/watch?v=XIu4K2ZthmQ)**
+**[China Unveiled Its First Army of Humanoid Police Robots](https://www.youtube.com/watch?v=_liJnDf8a7k)**
 
-Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown 63600E Eaglebots showcases their double lever robot at the ...
+Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These $100 Korean AI Drones Can Make You Fly: ...
 
-📺 FUN Robotics Network
+📺 Carros Show
 
-👁️ 718 • 👍 24 • 💬 7 • ⏱️ 1:09 • 1h ago
+👁️ 59K • 👍 1K • 💬 127 • ⏱️ 9:36 • 5d ago
 
 ---
 
@@ -216,17 +216,7 @@ Are we best friends now? For several years, we've seen an influx of AI come to s
 
 📺 CNET
 
-👁️ 936 • 👍 39 • 💬 5 • ⏱️ 0:47 • 1h ago
-
----
-
-**[Figure AI Just Dropped a FULLY Autonomous AI Robot… It Works 24/7](https://www.youtube.com/watch?v=5sSzuXp3Wsg)**
-
-Figure AI has just dropped a fully autonomous AI robot — and it's now operating 24/7 without human supervision. In this video, we ...
-
-📺 The AI Nexus
-
-👁️ 7K • 👍 211 • 💬 26 • ⏱️ 27:19 • 2d ago
+👁️ 3K • 👍 91 • 💬 7 • ⏱️ 0:47 • 3h ago
 
 ---
 
@@ -246,17 +236,27 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 119K • 👍 2K • 💬 415 • ⏱️ 12:16 • 4d ago
+👁️ 120K • 👍 2K • 💬 419 • ⏱️ 12:16 • 4d ago
 
 ---
 
-**[China Unveiled Its First Army of Humanoid Police Robots](https://www.youtube.com/watch?v=_liJnDf8a7k)**
+**[Figure AI Just Dropped a FULLY Autonomous AI Robot… It Works 24/7](https://www.youtube.com/watch?v=5sSzuXp3Wsg)**
 
-Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These $100 Korean AI Drones Can Make You Fly: ...
+Figure AI has just dropped a fully autonomous AI robot — and it's now operating 24/7 without human supervision. In this video, we ...
 
-📺 Carros Show
+📺 The AI Nexus
 
-👁️ 58K • 👍 1K • 💬 127 • ⏱️ 9:36 • 5d ago
+👁️ 7K • 👍 214 • 💬 26 • ⏱️ 27:19 • 2d ago
+
+---
+
+**[Russia&#39;s Ameca Humanoid Robot #robotics #humanoidrobot #ai #airobot](https://www.youtube.com/watch?v=fhlVu7h6nH8)**
+
+In Russia, the Perm Polytenic University is using an Ameca-like humanoid to help train engineering students in next-gen robotics ...
+
+📺 Kalil 4.0
+
+👁️ 352 • 👍 10 • ⏱️ 0:39 • 1h ago
 
 ---
 
@@ -266,7 +266,15 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 37K • 👍 673 • 💬 46 • ⏱️ 1:29:27 • 2d ago
+👁️ 39K • 👍 691 • 💬 46 • ⏱️ 1:29:27 • 2d ago
+
+---
+
+**[fishtank now has robot contestants 💪 #fishtanklive #funny](https://www.youtube.com/watch?v=vyq0Y8_MT78)**
+
+📺 fishtank
+
+👁️ 6K • 👍 325 • 💬 76 • ⏱️ 1:30 • 9h ago
 
 ---
 
@@ -274,17 +282,7 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 Indiplus News Official
 
-👁️ 778K • 👍 18K • 💬 417 • ⏱️ 0:29 • 4d ago
-
----
-
-**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
-
-Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
-
-📺 SciVion
-
-👁️ 37K • 👍 752 • 💬 17 • ⏱️ 0:35 • 3d ago
+👁️ 782K • 👍 18K • 💬 417 • ⏱️ 0:29 • 4d ago
 
 ---
 

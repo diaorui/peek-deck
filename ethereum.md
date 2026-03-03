@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-03T02:13:22.404229+00:00'
+updated: '2026-03-03T04:26:33.692512+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - news
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 02:13 UTC  
+**Last Updated:** March 03, 2026 at 04:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,031.11
+### $2,009.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -2.2%  
+**24h:** +2.1%  
+**7d:** -2.3%  
 **30d:** -14.3%  
 **90d:** -35.7%  
-**1y:** -7.4%  
+**1y:** -7.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $242.85B
+**Market Cap:** $242.78B
 Rank #2
 
 **Circulating Supply:** 120,692,182 ETH
@@ -62,7 +62,7 @@ No max supply
 -59.3%
 
 **All-Time Low:** $0.43
-+464564.6%
++464275.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a free permissionless market of block builders. This ensures that block builder centralization does not creep into staking centralization, but it leaves the question: what do we do about block builder centralization? And what are the other problems in the block building pipeline that need to be addressed, and how? This has both in-protocol and extra-protocol components. FOCIL FOCIL is the first step into in-protocol multi-participant block building. FOCIL lets 16 randomly-selected attesters each choose a few transactions, which must be included somewhere in the block (the block gets rejected otherwise). This means that even if 100% of block building is taken over by one hostile actor, they cannot prevent transactions from being included, because the FOCILers will push them in. "Big FOCIL" This is more speculative, but has been discussed as a possible next step. The idea is to make the FOCILs bigger, so they can include all of the transactions in the block. We avoid duplication by having the i'th FOCIL'er by default only include (i) txs whose sender address's first hex char is i, and (ii) txs that were around but not included in the previous slot. So at the cost of one slot delay, only censored txs risk duplication. Taking this to its logical conclusion, the builder's role could become reduced to ONLY including "MEV-relevant" transactions (eg. DEX arbitrage), and computing the state transition. Encrypted mempools Encrypted mempools are one solution being explored to solve "toxic MEV": attacks such as sandwiching and frontrunning, which are exploitative against users. If a transaction is encrypted until it's included, no one gets the opportunity to "wrap" it in a hostile way. The technical challenge is: how to guarantee validity in a mempool-friendly and inclusion-friendly way that is efficient, and what technique to use to guarantee that the transaction will actually get decrypted once the block is made (and not before). The transaction ingress layer One thing often ignored in discussions of MEV, privacy, and other issues is the network layer: what happens in between a user sending out a transaction, and that transaction making it into a block? There are many risks if a hostile actor sees a tx "in the clear" inflight: If it's a defi trade or otherwise MEV-relevant, they can sandwich it In many applications, they can prepend some other action which invalidates it, not stealing money, but "griefing" you, causing you to waste time and gas fees If you are sending a sensitive tx through a privacy protocol, even if it's all private onchain, if you send it through an RPC, the RPC can see what you did, if you send it through the public mempool, any analytics agency that runs many nodes will see what you did There has recently been increasing work on network-layer anonymization for transactions: exploring using Tor for routing transactions, ideas around building a custom ethereum-focused mixnet, non-mixnet designs that are more latency-minimized (but bandwidth-heavier, which is ok for transactions as they are tiny) like Flashnet, etc. This is an open design space, I expect the kohaku initiative @ncsgy will be interested in integrating pluggable support for such protocols, like it is for onchain privacy protocols. There is also room for doing (benign, pro-user) things to transactions before including them onchain; this is very relevant for defi. Basically, we want ideal order-matching, as a passive feature of the network layer without dependence on servers. Of course enabling good uses of this without enabling sandwiching involves cryptography or other security, some important challenges there. Long-term distributed block building There is a dream, that we can make Ethereum truly like BitTorrent: able to process far more transactions than any single server needs to ever coalesce locally. The challenge with this vision is that Ethereum has (and indeed a core value proposition is) synchronous shared state, so any tx could in principle depend on any other tx. This centralizes block building. "Big FOCIL" handles this partially, and it could be done extra-protocol too, but you still need one central actor to put everything in order and execute it. We could come up with designs that address this. One idea is to do the same thing that we want to do for state: acknowledge that >95% of Ethereum's activity doesn't really need full globalness, though the 5% that does is often high-value, and create new categories of txs that are less global, and so friendly to fully distributed building, and make them much cheaper, while leaving the current tx types in place but (relatively) more expensive. This is also an open and exciting long-term future design space.
 
-8h ago
+10h ago
 
 ---
 
@@ -80,15 +80,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
-
----
-
-**[Accidentally sent USDT to USDT address](https://www.reddit.com/r/ethereum/comments/1rj7c4p/accidentally_sent_usdt_to_usdt_address/)**
-
-Please help me it’s a large amount, is it lost forever? USDT to a USDC address sorry for typo
-
-3h ago
+22h ago
 
 ---
 
@@ -96,7 +88,15 @@ Please help me it’s a large amount, is it lost forever? USDT to a USDC address
 
 Maybe unpopular take, but I don’t think RWA is a “narrative” anymore. A few cycles ago, yield on Ethereum mostly meant emissions. Liquidity mining. Governance token incentives. Boosted pools. You could almost feel the dilution in real time. It worked. Until it didn’t. The structural issue was obvious in hindsight: yield funded by token inflation isn’t the same as yield funded by external cashflow. One depends on reflexivity. The other depends on actual economic activity somewhere outside the EVM. That’s why RWA keeps resurfacing here. Centrifuge tried collateralized real-world assets. Maple leaned into institutional credit. Ondo pushed tokenized Treasuries into DeFi rails. Goldfinch experimented with undercollateralized lending. Different risk models. Same direction: Ethereum as settlement for off-chain cashflows. I’ve been looking at 8lends recently from a portfolio construction angle. RWA-backed lending, fixed monthly payouts, structured more like credit exposure than a farm. Not exciting. Which is kind of the point. Fixed doesn’t mean safe. It just means the risk moves. From token dilution and volatility to underwriting quality and legal enforceability. But if Ethereum wants to evolve beyond cyclical liquidity games, it probably needs primitives that aren’t purely reflexive. So the real question for this sub: Is RWA a necessary evolution for Ethereum DeFi, or are we just wrapping TradFi risk and calling it innovation? And how much transparency would you need before allocating capital to an RWA protocol?
 
-4h ago
+7h ago
+
+---
+
+**[Accidentally sent USDT to USDT address](https://www.reddit.com/r/ethereum/comments/1rj7c4p/accidentally_sent_usdt_to_usdt_address/)**
+
+Please help me it’s a large amount, is it lost forever? USDT to a USDC address sorry for typo
+
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Maybe unpopular take, but I don’t think RWA is a “narrative” anymore. A fe
 
 I’ve always felt that the biggest hurdle for decentralized identity was the "black box" problem of physical hardware. Most of us here have followed the controversy surrounding the Orb and the inherent trust issues that come with proprietary biometric sensors. It’s a classic security vs. privacy trade-off that usually ends in a stalemate. However, the recent open-sourcing of the Remainder prover marks a pretty significant shift in the technical architecture that’s worth looking at from an Ethereum-centric perspective. We’re essentially seeing the transition from "Trust the Gadget" to "Verify the Math". By moving the heavy ML processing from a physical device directly to a user’s smartphone using a GKR + Hyrax-based proof system, we’re entering the territory of production-grade ZK-ML on consumer hardware. This is a massive engineering leap because running machine learning layers locally and generating a ZK-proof that the model was executed correctly - without the raw data ever leaving the device - is exactly the kind of client-side verifiability we’ve been talking about for years. It turns the phone into a verifiable node of trust, potentially making the physical Orb a one-time gateway rather than a permanent central authority. This is more than just an update to a single project; it’s a high-stakes stress test for ZK-SNARKs on the edge. If we can prove that high-performance provers can handle complex ML inferences on mobile GPUs without compromising privacy or draining the battery, it changes the game for everything from Proof-of-Personhood to private DAO voting. It’s a fascinating pivot from hardware-centric identity to a math-first approach, and I’m curious if this finally bridges the gap for those who were previously put off by the centralized nature of the initial setup.
 
-5h ago
+8h ago
 
 ---
 
@@ -152,19 +152,19 @@ Piper Merriam deployed the IndividualityTokenRoot contract in September 2016 for
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin unveils plan to curb Ethereum block builder centralization](https://www.coindesk.com/tech/2026/03/02/vitalik-buterin-unveils-plan-to-curb-ethereum-block-builder-centralization)**
-
-Another focus of his post is so-called “toxic MEV,” where traders exploit visibility into pending transactions to front-run or “sandwich” users’ trades.
-
-CoinDesk • 7h ago
-
----
-
 **[Vitalik Buterin lays out a two-part plan to overhaul Ethereum's execution layer from the ground up](https://www.theblock.co/post/391681/vitalik-buterin-lays-out-a-two-part-plan-to-overhaul-ethereums-execution-layer-from-the-ground-up)**
 
 The binary tree proposal is a concrete, in-progress effort, while the VM transition remains more speculative and lacks broad consensus among developers.
 
 The Block • 1d ago
+
+---
+
+**[Vitalik Buterin unveils plan to curb Ethereum block builder centralization](https://www.coindesk.com/tech/2026/03/02/vitalik-buterin-unveils-plan-to-curb-ethereum-block-builder-centralization)**
+
+Another focus of his post is so-called “toxic MEV,” where traders exploit visibility into pending transactions to front-run or “sandwich” users’ trades.
+
+CoinDesk • 9h ago
 
 ---
 
@@ -180,7 +180,15 @@ TradingView • 1d ago
 
 Bitcoin and other crypto funds rebounded with $1 billion worth of inflows last week, ending a five-week, $4 billion losing streak.
 
-Decrypt • 9h ago
+Decrypt • 11h ago
+
+---
+
+**[Bitcoin miner turned Ethereum treasury firm stakes over $6B in ETH as BMNR shares slide and ether dips.](https://www.coindesk.com/business/2026/03/02/bitmine-boosts-ether-holdings-to-4-47m-tokens-after-usd98m-eth-purchase)**
+
+Bitmine chair Tom Lee says company keeps accumulating ETH during market pullback while targeting $253M in annual staking rewards.
+
+CoinDesk • 13h ago
 
 ---
 
@@ -188,15 +196,7 @@ Decrypt • 9h ago
 
 Publicly traded Ethereum treasury BitMine Immersion Technologies added to its ETH stack last week despite its recent decline.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Ethereum Price and BitMine Shares Jump 10% After Latest Treasury Buy](https://finance.yahoo.com/news/ethereum-price-bitmine-shares-jump-222825549.html)**
-
-BitMine Immersion Technologies (BMNR) just doubled down on Ethereum, fueling bullish price predictions.The publicly traded treasury added 50,928 ETH last week, spending about $103 million. The move sparked a 9% jump in BMNR shares and lined up with a strong bounce in Ethereum’s spot price.With this buy, BitMine now holds ...
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -204,31 +204,31 @@ Yahoo Finance • 3h ago
 
 Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,976 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.71% of the...
 
-PR Newswire • 12h ago
+PR Newswire • 14h ago
 
 ---
 
-**[Better Cryptocurrency to Buy Now With $1,000 and Hold for 3 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-1000-and-hold-3-years-xrp-vs-ethereum)**
+**[Bitcoin, Ethereum ‘pumping hard’ after Iran strikes, but states brace for financial fallout](https://finance.yahoo.com/news/bitcoin-ethereum-pumping-hard-iran-105754078.html)**
 
-Key PointsXRP will soon have an even more sophisticated regulatory compliance suite.
+Bitcoin rises near $67,000 mark, with Ethereum nearing $2,000. Iran has confirmed the death of supreme leader Ayatollah Ali Khamenei. The real price reveal is coming tomorrow, expert says.
 
-Nasdaq • 20h ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772490300)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Crypto News: New Ethereum Based Crypto Pepeto Announces Presale Passing $7.403M Following Elon Musk Favorite Crypto Dogecoin Success](https://markets.businessinsider.com/news/stocks/crypto-news-new-ethereum-based-crypto-pepeto-announces-presale-passing-7-403m-following-elon-musk-favorite-crypto-dogecoin-success-1035882586)**
+**[Why are Bitcoin, Ethereum and XRP Prices Rallying Today?](https://www.tradingview.com/news/coinpedia:e93c23321094b:0-why-are-bitcoin-ethereum-and-xrp-prices-rallying-today/)**
 
-Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- New Ethereum Based Crypto Pepeto just broke past $7.403 million in presale funding after the late...
+Crypto markets turned green today. Bitcoin surged past $68,000 and briefly traded near $69,500, rising about 5% in just 50 minutes. The move added roughly $60 billion to Bitcoin’s market capitalization.Ethereum followed closely, breaking above $2,000 and climbing nearly 6% within the same window, a…
 
-markets.businessinsider.com • 1d ago
+TradingView • 12h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP under pressure as key supports face breakdown risk](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-under-pressure-as-key-supports-face-breakdown-risk-202603020327)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) prices trade on the back foot at the start of this week on Monday, after extending losses in the previous week. BTC is on the brink of a breakdown, ETH is capped below key resistance, and XRP risks a crack of the trendline.
+
+FXStreet • 1d ago
 
 ---
 
@@ -236,13 +236,13 @@ markets.businessinsider.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
+**[BITCOIN &amp; ALTCOIN WARNING: Time Running Out!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v2z4by2rQ8o)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+BITCOIN & ALTCOIN WARNING: Time Running Out!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Trade Confident
+📺 Crypto World
 
-👁️ 484 • 👍 16 • 💬 3 • ⏱️ 5:09 • 6h ago
+👁️ 2K • 👍 171 • 💬 33 • ⏱️ 15:51 • 3h ago
 
 ---
 
@@ -252,27 +252,7 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 25K • 👍 3K • 💬 69 • ⏱️ 8:18 • 15h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: Time Running Out!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v2z4by2rQ8o)**
-
-BITCOIN & ALTCOIN WARNING: Time Running Out!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 105 • 💬 84 • ⏱️ 15:51 • 1h ago
-
----
-
-**[Vitalik Buterin Is Selling His ETH: What It Means for Ethereum](https://www.youtube.com/watch?v=PuX5B18EZvs)**
-
-Did Vitalik Buterin just dump Ethereum at the worst possible time? After announcing a “few years” funding plan, nearly half the ...
-
-📺 Coin Bureau
-
-👁️ 73K • 👍 2K • 💬 271 • ⏱️ 18:01 • 1d ago
+👁️ 25K • 👍 3K • 💬 60 • ⏱️ 8:18 • 17h ago
 
 ---
 
@@ -282,7 +262,37 @@ Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/Paino
 
 📺 Pain of Crypto
 
-👁️ 545 • 👍 45 • 💬 19 • ⏱️ 6:27 • 4h ago
+👁️ 788 • 👍 55 • 💬 22 • ⏱️ 6:27 • 6h ago
+
+---
+
+**[Vitalik Buterin Is Selling His ETH: What It Means for Ethereum](https://www.youtube.com/watch?v=PuX5B18EZvs)**
+
+Did Vitalik Buterin just dump Ethereum at the worst possible time? After announcing a “few years” funding plan, nearly half the ...
+
+📺 Coin Bureau
+
+👁️ 74K • 👍 2K • 💬 271 • ⏱️ 18:01 • 1d ago
+
+---
+
+**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 536 • 👍 17 • 💬 3 • ⏱️ 5:09 • 8h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=iDEbFROubGk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 439 • 👍 57 • 💬 6 • ⏱️ 5:31 • 2h ago
 
 ---
 
@@ -292,47 +302,35 @@ Well, it looks like someone finally realized that something had to be done or th
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 736 • 💬 80 • ⏱️ 27:48 • 15h ago
+👁️ 7K • 👍 741 • 💬 63 • ⏱️ 27:48 • 17h ago
 
 ---
 
-**[Ethereum &amp; BMNR Are Becoming Wall Street’s Rails — MSTR Is Positioning](https://www.youtube.com/watch?v=SMXtIWnXCoU)**
+**[ETH SELLING FINALLY OVER?](https://www.youtube.com/watch?v=0GOBgrNPVug)**
 
-I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
+📺 Discover Crypto
 
-📺 MONEY GAME
-
-👁️ 6K • 👍 202 • 💬 44 • ⏱️ 36:59 • 15h ago
+👁️ 1K • 👍 26 • 💬 1 • ⏱️ 0:23 • 2h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=nmKkhZ2fYlE)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=LbM1tAAC2kc)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 More Crypto Online
+📺 Profit First
 
-👁️ 2K • 👍 132 • 💬 1 • ⏱️ 5:20 • 12h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=mcCdX7Exbi0)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 Cours de Chant TV
-
-👁️ 2K • 👍 1K • 47m ago
+👁️ 305 • 👍 54 • ⏱️ 7:11 • 1h ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=ttzJm5o2BGk)**
+**[Highest Yielding NEOS ETF! 😱](https://www.youtube.com/watch?v=nFu7k7hnYB8)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+This HIGH YIELD Dividend ETF is Winning when ETH runs back up! What are your thoughts on crypto long term? Not financial ...
 
-📺 FunRoom335
+📺 Spencer Invests
 
-👁️ 2K • 👍 1K • 16m ago
+👁️ 433 • 👍 13 • 💬 2 • ⏱️ 1:01 • 1h ago
 
 ---
 
