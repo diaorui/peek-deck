@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-03T11:33:17.648961+00:00'
+updated: '2026-03-03T13:00:30.091010+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 03, 2026 at 11:33 UTC  
+**Last Updated:** March 03, 2026 at 13:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,21 +34,13 @@ Robotics research and industry news
 
 **[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-13h ago
+15h ago
 
 ---
 
 **[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-18h ago
-
----
-
-**[OmniXtreme: a scalable framework designed to break the “generality barrier” in humanoid robots.](https://www.reddit.com/r/robotics/comments/1rjld0k/omnixtreme_a_scalable_framework_designed_to_break/)**
-
-📄 Paper: https://arxiv.org/abs/2602.23843 🌐 Project: https://extreme-humanoid.github.io 💻 Code: https://github.com/Perkins729/OmniXtreme From Siyuan Huang on 𝕏: https://x.com/siyuanhuang95/status/2028506522633073132 "... we developed OmniXtreme: the first general policy that can execute diverse extreme motions, including consecutive flips, extreme balancing, and even breakdancing with rapid contact switches! This capability is achieved by pre-training a flow-based generative control policy and then post-training with actuation-aware residual RL for complex physical dynamics—a step we found critical for successful real-world transfer. This work is a joint collaboration with Unitree Robotics."
-
-1h ago
+19h ago
 
 ---
 
@@ -56,7 +48,7 @@ Robotics research and industry news
 
 I’ve just finished the soldering for the controller for my 6-axis robot. You may notice that there are only 5 drivers and that is because two went bad and I’m waiting on replacements. I also installed the I2C MUX that will interface with the magnetic encoders. Please leave any questions, comments, or advice in the comments, I really appreciate it! More updates on the way.
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +56,7 @@ I’ve just finished the soldering for the controller for my 6-axis robot. You m
 
 Competition toolkit is available here. With additional context on Open Robotics Discourse. Competition details can be found here. Two competition sessions will be held tomorrow, March 3rd (they will be recorded). Session 1: March 3rd: 9-10am PT / 5-6pm UTC (US/Europe friendly) Session 2: March 3rd: 5-6pm PT / March 4th 1-2 am UTC (US/APAC friendly)
 
-11h ago
+12h ago
 
 ---
 
@@ -76,19 +68,35 @@ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.co
 
 ---
 
+**[A self-driving bike by Agibot founder Peng Zhihui. The design is open sourced & available on Github](https://www.reddit.com/r/robotics/comments/1rjoii6/a_selfdriving_bike_by_agibot_founder_peng_zhihui/)**
+
+GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
+
+8m ago
+
+---
+
+**[About servos motors and VSA's](https://www.reddit.com/r/robotics/comments/1rjng4y/about_servos_motors_and_vsas/)**
+
+I've always been thinking about a way to add compliance to cheap hobby servos, maybe by putting on some attachments(without opening the case or anything). I'm working on it, but what I'm curious about is, would there be any demand? Im planning for a module that uses an additional small geared motor, springs, and a small mcu to make the output shaft act like some kind of a VSA(variable stiffness unit). Please tell me if you would use this as a fellow hobby roboticist( if there was one as an open source project.) Sorry for not posting any blueprints or schemes or that kimd of stuff, I can't use my phone camera nor computer right now(I'm stuck with just my notepad and my pen here) :(
+
+1h ago
+
+---
+
+**[What's your take on Cloud Robotics?](https://www.reddit.com/r/robotics/comments/1rjm88l/whats_your_take_on_cloud_robotics/)**
+
+So been seeing recently a lot of improvements with regards to latency and teleoperation when it comes to robotics, and makes me wonder if there might be a point where the idea of hosting the heavy processing in the cloud for robotics becomes the standard, over the current idea that everything needs to be edge computing, done locally. I know for security purposes and privacy maybe some applications may demand local processing, but overall as robotics will become more and more mainstream, there are many applications where Cloud Robotics might be very suitable. Idk what do you all think?
+
+2h ago
+
+---
+
 **[orp testmechv2 tutorial video finally finished](https://www.reddit.com/r/robotics/comments/1rji5or/orp_testmechv2_tutorial_video_finally_finished/)**
 
 It took a while to make this video and project it was really exhausting but after a few checks and documentation I finally finished it hope it is documented well
 
-🔗 [youtu.be](https://youtu.be/U4IHY_EhnXQ?si=BHmJAGa6hdiPeDtT) • 4h ago
-
----
-
-**[Phased Power & Actuation for a Low-Latency Humanoid Build](https://www.reddit.com/r/robotics/comments/1rjf8p3/phased_power_actuation_for_a_lowlatency_humanoid/)**
-
-(Budget-Conscious) ​The Body: ​"I'm currently blueprinting a medium-scale (approx. 1.2m) bipedal robot project. My goal is to achieve fluid, natural movement without jumping immediately into high-cost industrial servos like HEBI or Dynamixel X-series. ​Actuation: Has anyone had success with 'quasi-direct drive' (QDD) using high-torque brushless motors (like the T-Motor series) for hip/knee joints to keep costs down while maintaining back-drivability? ​Power: I'm considering a 24V vs 48V system. For a home-built rig, is the complexity of 48V worth the efficiency gains, or is 24V the 'sweet spot' for component availability? ​Phasing: If you were building this on a budget, which subsystems would you 'overbuild' first, and where would you suggest using 3D-printed load-bearing parts vs. CNC aluminum? ​Looking for 'scrappy' but reliable engineering paths. Thanks!"
-
-7h ago
+🔗 [youtu.be](https://youtu.be/U4IHY_EhnXQ?si=BHmJAGa6hdiPeDtT) • 6h ago
 
 ---
 
@@ -100,15 +108,25 @@ Arms are officially mounted to the chest 🙌 Upper body is coming together, now
 
 ---
 
-**[Improve the Wi-Fi card on the G1 robot.](https://www.reddit.com/r/robotics/comments/1rj9pmd/improve_the_wifi_card_on_the_g1_robot/)**
-
-11h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Why humanoid robots are learning everyday tasks faster than expected](https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/)**
+
+Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
+
+Scientific American • 1d ago
+
+---
+
+**[China Could Dominate the Physical AI Future](https://time.com/7382151/china-dominates-the-physical-ai-race/)**
+
+Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
+
+Time Magazine • 1h ago
+
+---
 
 **[China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot](https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html)**
 
@@ -118,35 +136,11 @@ CNBC • 1d ago
 
 ---
 
-**[Why humanoid robots are learning everyday tasks faster than expected](https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/)**
+**[Qualcomm CEO sees robotics as a 'larger opportunity' within 2 years](https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html)**
 
-Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
+It comes shortly after Qualcomm launched a processor under the Dragonwing brand name designed for robots.
 
-Scientific American • 23h ago
-
----
-
-**[Atlas vs Optimus: Hyundai and Tesla collide in race for $5T humanoid robot market](https://interestingengineering.com/ai-robotics/atlas-vs-optimus-5t-humanoid-robot-race)**
-
-The humanoid robot market is estimated to hit $5 trillion by 2050. Hyundai and Tesla are positioned as two of the industry leaders.
-
-Interesting Engineering • 14h ago
-
----
-
-**[Schaeffler CEO: Humanoid robots and defence are key growth drivers](https://www.cnbc.com/video/2026/03/03/schaeffler-ceo-humanoid-robots-and-defence-are-key-growth-drivers.html)**
-
-Klaus Rosenfeld, CEO of Schaeffler, tells CNBC he sees humanoid robotics as a major growth driver that will power the company’s next transformation. He says the technology is designed to support workers, not replace them. His comments come after Schaeffler issued a cautious outlook for 2026, with high one‑off expenses weighing on full‑year earnings.
-
-CNBC • 2h ago
-
----
-
-**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
-
-The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
-
-Pittsburgh Post-Gazette • 1d ago
+CNBC • 6h ago
 
 ---
 
@@ -158,23 +152,25 @@ The MoCo Show - • 1d ago
 
 ---
 
+**[NEO Battery Acquires Expansion Site to Scale Korea-Made Drone & Robotics Battery Cell Manufacturing](https://finance.yahoo.com/news/neo-battery-acquires-expansion-scale-120000026.html)**
+
+NEO Battery Materials Ltd. ("NEO" or the "Company") (TSXV: NBM) (OTC: NBMFF), a low-cost, silicon-enhanced battery developer that enables longer-running, rapid-charging batteries for drones, robotics, and physical AI, is pleased to announce the closing of the 3.2-acre expansion site for commercial-scale drone and robotics battery cell manufacturing and the scale-up of silicon anode production (the "Expansion Facility") previously announced (see news release dated on October 9, 2025).
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
+
+The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
+
+Pittsburgh Post-Gazette • 1d ago
+
+---
+
 **[LLM (Claude) Given Robotic Hand Immediately Starts Making Peace Signs](https://blog.adafruit.com/2026/03/02/llm-claude-given-robotic-hand-immediately-starts-making-peace-signs/)**
 
-Adafruit • 17h ago
-
----
-
-**[Opinion | How the US ceded the robotics economy to China](https://www.scmp.com/opinion/china-opinion/article/3344742/how-us-ceded-robotics-economy-china)**
-
-Chinese gains in robotics show that nations wishing to compete must go beyond financial engineering to master their physical realities.
-
-South China Morning Post • 3h ago
-
----
-
-**[Kraken Robotics Stock (KRKNF) Is Up 33% YTD: What’s Next for the Marine Tech Firm?](https://www.tipranks.com/news/kraken-robotics-stock-krknf-is-up-33-ytd-whats-next-for-the-marine-tech-firm)**
-
-TipRanks • 21h ago
+Adafruit • 19h ago
 
 ---
 
@@ -184,9 +180,35 @@ fox5sandiego.com • 1d ago
 
 ---
 
+**[5 Stocks Racing Ahead as AI Supercharges Robotics](https://www.marketbeat.com/stock-ideas/5-stocks-racing-ahead-as-ai-supercharges-robotics/)**
+
+MarketBeat • 10h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[The Most Advanced Pink Robot! #humanoid](https://www.youtube.com/watch?v=Bt_PfCVm9no)**
+
+The Most Advanced Pink Robot! #humanoid ​#BlueRobot #Humanoid #FutureTech #AI #Robotics #Future #SmartMachine.
+
+📺 MSU Channel
+
+👁️ 454 • 👍 2 • ⏱️ 0:19 • 34m ago
+
+---
+
+**[Barcelona MWC 2026 Opens with Humanoid Robots and AI Breakthroughs | APT](https://www.youtube.com/watch?v=fzXFWzHfaz8)**
+
+Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation robotics and AI innovation. China's AgiBot ...
+
+📺 APT
+
+👁️ 438 • 👍 10 • 💬 1 • ⏱️ 5:34 • 4h ago
+
+---
 
 **[China Unveiled Its First Army of Humanoid Police Robots](https://www.youtube.com/watch?v=_liJnDf8a7k)**
 
@@ -204,25 +226,7 @@ War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the u
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 405 • 💬 98 • ⏱️ 17:41 • 20h ago
-
----
-
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=GoRYre93AJ4)**
-
-📺 zhulongfeng 6
-
-👁️ 2K • 👍 11 • ⏱️ 0:23 • 10h ago
-
----
-
-**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
-
-Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
-
-📺 NBC News
-
-👁️ 122K • 👍 2K • 💬 423 • ⏱️ 12:16 • 4d ago
+👁️ 8K • 👍 414 • 💬 101 • ⏱️ 17:41 • 21h ago
 
 ---
 
@@ -232,7 +236,17 @@ China is building robots faster than any country in the world and if you want to
 
 📺 Cyrus Janssen
 
-👁️ 261K • 👍 7K • 💬 1K • ⏱️ 11:41 • 5d ago
+👁️ 261K • 👍 7K • 💬 1K • ⏱️ 11:41 • 6d ago
+
+---
+
+**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
+
+Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
+
+📺 NBC News
+
+👁️ 123K • 👍 2K • 💬 425 • ⏱️ 12:16 • 4d ago
 
 ---
 
@@ -242,35 +256,27 @@ Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown 63600E Eaglebots showc
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 48 • 💬 8 • ⏱️ 1:09 • 11h ago
+👁️ 3K • 👍 54 • 💬 9 • ⏱️ 1:09 • 12h ago
 
 ---
 
-**[Figure AI Just Dropped a FULLY Autonomous AI Robot… It Works 24/7](https://www.youtube.com/watch?v=5sSzuXp3Wsg)**
+**[Russia&#39;s Ameca Humanoid Robot #robotics #humanoidrobot #ai #airobot](https://www.youtube.com/watch?v=fhlVu7h6nH8)**
 
-Figure AI has just dropped a fully autonomous AI robot — and it's now operating 24/7 without human supervision. In this video, we ...
+In Russia, the Perm Polytenic University is using an Ameca-like humanoid to help train engineering students in next-gen robotics ...
+
+📺 Kalil 4.0
+
+👁️ 772 • 👍 22 • ⏱️ 0:39 • 9h ago
+
+---
+
+**[China’s Humanoid Robots Just Learned to FIGHT… The World Isn’t Ready](https://www.youtube.com/watch?v=auoP7Wk_7HA)**
+
+China's humanoid robots have officially learned to fight, and the latest demonstrations show a level of power and precision the ...
 
 📺 The AI Nexus
 
-👁️ 7K • 👍 219 • 💬 26 • ⏱️ 27:19 • 2d ago
-
----
-
-**[AI EXPLODES This Month: Biomimetic Robots, Gemini 3.1, OpenAI–OpenClaw, LYRIA 3 &amp; More](https://www.youtube.com/watch?v=r6umFAnMEEM)**
-
-This month in AI pushed everything to the edge. Biomimetic robots from China are now so human-like they're unsettling, while ...
-
-📺 AI Revolution
-
-👁️ 41K • 👍 717 • 💬 46 • ⏱️ 1:29:27 • 2d ago
-
----
-
-**[German Chancellor Surprised To Watch China Humanoid Robots Kung Fu ???](https://www.youtube.com/watch?v=QMZSv5lmVeY)**
-
-📺 Indiplus News Official
-
-👁️ 792K • 👍 18K • 💬 418 • ⏱️ 0:29 • 4d ago
+👁️ 4K • 👍 117 • 💬 25 • ⏱️ 24:08 • 5d ago
 
 ---
 
@@ -280,7 +286,7 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 📺 Dumb Money Live
 
-👁️ 16K • 👍 422 • 💬 138 • ⏱️ 13:15 • 3d ago
+👁️ 16K • 👍 423 • 💬 138 • ⏱️ 13:15 • 3d ago
 
 ---
 

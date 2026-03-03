@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-03T11:33:17.631383+00:00'
+updated: '2026-03-03T13:00:30.073387+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 03, 2026 at 11:33 UTC  
+**Last Updated:** March 03, 2026 at 13:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Department of Defense, triggering user backlash and boosting rival AI downloads.
 
-🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 7h ago
-
----
-
-**[How OpenAI caved to the Pentagon on AI surveillance](https://www.reddit.com/r/artificial/comments/1rj8u3t/how_openai_caved_to_the_pentagon_on_ai/)**
-
-The law doesn’t say what Sam Altman claims it does.
-
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 12h ago
+🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 8h ago
 
 ---
 
@@ -57,7 +49,15 @@ The law doesn’t say what Sam Altman claims it does.
 
 Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Here’s why that matters.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) • 1h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) • 2h ago
+
+---
+
+**[How OpenAI caved to the Pentagon on AI surveillance](https://www.reddit.com/r/artificial/comments/1rj8u3t/how_openai_caved_to_the_pentagon_on_ai/)**
+
+The law doesn’t say what Sam Altman claims it does.
+
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 13h ago
 
 ---
 
@@ -65,15 +65,15 @@ Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Her
 
 A middle-to-upper-income career path in the age of white collar AI anxiety.
 
-🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 11h ago
+🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 13h ago
 
 ---
 
-**[Warning: Trae IDE's New Token Pricing Destroyed My Workflow Overnight – Don't Get Caught Off Guard](https://www.reddit.com/r/artificial/comments/1rjd7dy/warning_trae_ides_new_token_pricing_destroyed_my/)**
+**[AI isn't the answer (a thought)](https://www.reddit.com/r/artificial/comments/1rjocje/ai_isnt_the_answer_a_thought/)**
 
-Hey everyone, I've been a Trae IDE user for over a year now, relying on it for custom agents, coding (PHP, Python, JS, etc.), and even casual sanity-keeping chats. The old Pro plan ($10/mo) gave me 600 fast requests + unlimited slow ones, which easily lasted me 3+ weeks of moderate use. It felt like good value for an AI-powered IDE. But after their February 2026 switch to token-based pricing, it's a nightmare. Yesterday, I spent the day trying (and failing) to hook up a local LLM (via LM Studio) to bypass cloud costs – something that used to be easier with providers like Ollama, but that's disappeared from the list. Ended up burning through $38 in one day on just 127 requests. That's twice my monthly $20 Basic allowance on a fraction of my old usage... For context: Many of those requests were debug/experimental (long contexts, persistent memory, GPT-5-medium/auto mode), but under the old system, they'd be "slow" and free. Now, every token counts, and my setup (persistent agent chats) compounds costs fast. I wasn't even productive – just frustrated troubleshooting integration that feels deliberately blocked to push cloud models. I'm out – canceling my sub and going full local (LM Studio + VS Code) or alternatives like Cursor/Antigravity. If you're on Trae, optimize hard: Use cheap models like Gemini-Flash, reset contexts often, and avoid agents/SOLO for casual stuff. Demand better local support in their GitHub issues (#597, etc.) to avoid this shafting. Don't let them turn a solid tool into a money pit. What are your experiences with the new pricing? Any good local IDE alternatives?
+I came to the realization that since everyone is using AI for everything, especially writing, why do what everyone else is doing? You're just going to get the same results as everyone else. You won't separate yourself from the crowd, people won't read your copy (because it's generic), and your copy won't convert. I could go on but that's all for now.
 
-9h ago
+16m ago
 
 ---
 
@@ -85,11 +85,11 @@ Are we better off with ai with or without the pleasantries?
 
 ---
 
-**[AI - Reverse Robin Hood](https://www.reddit.com/r/artificial/comments/1rj0d13/ai_reverse_robin_hood/)**
+**[Warning: Trae IDE's New Token Pricing Destroyed My Workflow Overnight – Don't Get Caught Off Guard](https://www.reddit.com/r/artificial/comments/1rjd7dy/warning_trae_ides_new_token_pricing_destroyed_my/)**
 
-I had some time and decided to write a short essay about some aspects that I do not see frequently. I would like to get your opinion on it: Modern artificial intelligence (AI) systems are gaining traction in companies. They are used as simple chatbots and for specific, well-defined tasks, but increasingly also as agents enriched with skills that allow them to act autonomously. However, unchecked AI in companies could become the largest intellectual property theft in history. This risk arises from uninformed employees, an overreliance on contracts instead of technical limitations, and the growing autonomy of AI systems. When AI is introduced in companies, employees often upload intellectual property without considering the consequences. This can be as simple as a spreadsheet containing a business plan or as critical as a patent application or sensitive private data. The extraordinary capabilities of AI, combined with pressure to increase efficiency, make it very tempting to use even highly confidential information. Companies are usually aware of these risks and often rely on contracts rather than technical safeguards to mitigate them. This blind trust in contracts can be dangerous. In the past, many companies have failed to respect contractual obligations and used collected data for their own gain. The Facebook–Cambridge Analytica data scandal is one well-known example. Additionally, data breaches are increasing every year, and AI companies have a strong incentive to acquire new training data. As the technology evolves, AI systems will become even more autonomous. Many AI agents already have access to entire codebases or complete knowledge repositories in order to provide better answers. The next step is that these agents will not only analyze information but also act independently. Tools such as OpenClaw demonstrate how powerful such systems can be, but when used incorrectly and without technical limitations, they can expose a company’s crown jewels to third parties. In conclusion, while the advantages of AI are significant and can deliver major efficiency gains, companies must use these systems carefully. Since employees are likely to upload sensitive information, organizations should prioritize strong technical limitations rather than relying solely on contractual agreements. This is especially important as more advanced agent-based systems are introduced. Companies must ensure that “reverse Robin Hood” does not steal their most valuable secrets.
+Hey everyone, I've been a Trae IDE user for over a year now, relying on it for custom agents, coding (PHP, Python, JS, etc.), and even casual sanity-keeping chats. The old Pro plan ($10/mo) gave me 600 fast requests + unlimited slow ones, which easily lasted me 3+ weeks of moderate use. It felt like good value for an AI-powered IDE. But after their February 2026 switch to token-based pricing, it's a nightmare. Yesterday, I spent the day trying (and failing) to hook up a local LLM (via LM Studio) to bypass cloud costs – something that used to be easier with providers like Ollama, but that's disappeared from the list. Ended up burning through $38 in one day on just 127 requests. That's twice my monthly $20 Basic allowance on a fraction of my old usage... For context: Many of those requests were debug/experimental (long contexts, persistent memory, GPT-5-medium/auto mode), but under the old system, they'd be "slow" and free. Now, every token counts, and my setup (persistent agent chats) compounds costs fast. I wasn't even productive – just frustrated troubleshooting integration that feels deliberately blocked to push cloud models. I'm out – canceling my sub and going full local (LM Studio + VS Code) or alternatives like Cursor/Antigravity. If you're on Trae, optimize hard: Use cheap models like Gemini-Flash, reset contexts often, and avoid agents/SOLO for casual stuff. Demand better local support in their GitHub issues (#597, etc.) to avoid this shafting. Don't let them turn a solid tool into a money pit. What are your experiences with the new pricing? Any good local IDE alternatives?
 
-17h ago
+10h ago
 
 ---
 
@@ -97,7 +97,15 @@ I had some time and decided to write a short essay about some aspects that I do 
 
 Dashboard for near real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
 
-16h ago
+18h ago
+
+---
+
+**[AI - Reverse Robin Hood](https://www.reddit.com/r/artificial/comments/1rj0d13/ai_reverse_robin_hood/)**
+
+I had some time and decided to write a short essay about some aspects that I do not see frequently. I would like to get your opinion on it: Modern artificial intelligence (AI) systems are gaining traction in companies. They are used as simple chatbots and for specific, well-defined tasks, but increasingly also as agents enriched with skills that allow them to act autonomously. However, unchecked AI in companies could become the largest intellectual property theft in history. This risk arises from uninformed employees, an overreliance on contracts instead of technical limitations, and the growing autonomy of AI systems. When AI is introduced in companies, employees often upload intellectual property without considering the consequences. This can be as simple as a spreadsheet containing a business plan or as critical as a patent application or sensitive private data. The extraordinary capabilities of AI, combined with pressure to increase efficiency, make it very tempting to use even highly confidential information. Companies are usually aware of these risks and often rely on contracts rather than technical safeguards to mitigate them. This blind trust in contracts can be dangerous. In the past, many companies have failed to respect contractual obligations and used collected data for their own gain. The Facebook–Cambridge Analytica data scandal is one well-known example. Additionally, data breaches are increasing every year, and AI companies have a strong incentive to acquire new training data. As the technology evolves, AI systems will become even more autonomous. Many AI agents already have access to entire codebases or complete knowledge repositories in order to provide better answers. The next step is that these agents will not only analyze information but also act independently. Tools such as OpenClaw demonstrate how powerful such systems can be, but when used incorrectly and without technical limitations, they can expose a company’s crown jewels to third parties. In conclusion, while the advantages of AI are significant and can deliver major efficiency gains, companies must use these systems carefully. Since employees are likely to upload sensitive information, organizations should prioritize strong technical limitations rather than relying solely on contractual agreements. This is especially important as more advanced agent-based systems are introduced. Companies must ensure that “reverse Robin Hood” does not steal their most valuable secrets.
+
+18h ago
 
 ---
 
@@ -105,15 +113,7 @@ Dashboard for near real-time GPU and LLM pricing across cloud and inference prov
 
 World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
 
-🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 23h ago
-
----
-
-**[Learning how to steer agentic AI in the right direction is a useless skill #changemymind](https://www.reddit.com/r/artificial/comments/1risnre/learning_how_to_steer_agentic_ai_in_the_right/)**
-
-So, you wanna build an app. You have a design/architecture document that you want your agents to follow. That's great, that should be ALL you need and that WILL be all you need, but we're not there yet. No, you have to learn the best prompts, you have to specify proper coding conventions, you have to write SKILL.md files to make up for some deficiency the model has or some outdated info that, for some reason, the model is incapable of googling and storing on it's own. But that's all bullshit. In a year or two all this elaborate engineering will be worthless because the models will be much better and none of that will be needed, so you are essentially wasting your time learning all this crap. In the future a design and architecture document will be enough.
-
-22h ago
+🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 1d ago
 
 ---
 
@@ -125,27 +125,41 @@ So, you wanna build an app. You have a design/architecture document that you wan
 
 Speed and scale of US military’s AI war planning raises fears human decision-making may be sidelined
 
-The Guardian • 5h ago
+The Guardian • 7h ago
 
 ---
 
 **[OpenAI Amends A.I. Deal With the Pentagon](https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html)**
 
-The New York Times • 7h ago
+The New York Times • 9h ago
 
 ---
 
 **[AI labs ease safety rules amid race pressure](https://www.axios.com/2026/03/03/ai-race-safety-guardrail)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
-**[America must power AI with speed and discipline — or China will dominate](https://www.foxnews.com/opinion/america-must-power-ai-speed-discipline-china-dominate)**
+**[What to know before asking an AI chatbot for health advice](https://www.cnn.com/2026/03/03/health/ai-chatbot-health-advice-wellness)**
 
-Artificial intelligence infrastructure faces growing resistance as China commits $125 billion to AI dominance while Trump accelerates leadership.
+With hundreds of millions of people turning to chatbots for advice, it was only a matter of time before tech companies began offering programs specifically designed to answer health questions.
 
-Fox News • 1h ago
+CNN • 29m ago
+
+---
+
+**[GOP state lawmakers urge White House to halt efforts to block state AI laws](https://thehill.com/policy/technology/5764328-gop-state-lawmakers-white-house-ai-laws/)**
+
+The Hill • 43m ago
+
+---
+
+**[Opinion | This is the American heartland’s AI moment](https://www.washingtonpost.com/opinions/2026/03/03/ai-midwest-economy-data-technology/)**
+
+Cities like Columbus and Denver offer something uniquely American that the coasts do not.
+
+The Washington Post • 56m ago
 
 ---
 
@@ -153,39 +167,29 @@ Fox News • 1h ago
 
 More than three years after ChatGPT debuted, AI has become a part of everyday life — and professors and students are still figuring out how or if they should use it.
 
-NPR • 1h ago
-
----
-
-**[Rubber’s History Could Be a Window Into AI’s Future](https://www.bloomberg.com/opinion/articles/2026-03-03/ai-future-more-like-rubber-less-like-indigo)**
-
-Bloomberg • 1h ago
+NPR • 3h ago
 
 ---
 
 **[US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
-**[China’s Parents Are Outsourcing the Homework Grind to A.I.](https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html)**
+**[Ocado job cuts the result of rivals catching up and using AI](https://www.bbc.com/news/articles/c20l1wqw705o)**
 
-The New York Times • 1d ago
+Analysts say AI has boosted the grocer’s competitors – but other factors are also at play.
 
----
-
-**[Exclusive | Startup Making AI Chips More Power-Efficient Raises $500 Million](https://www.wsj.com/tech/startup-making-ai-chips-more-power-efficient-raises-500-million-35edbfd1?gaa_at=eafs&gaa_n=AWEtsqfpXDMl1LEq1J2oCsDT-Cuv_qlidAQ8R3NVBpfiYC6O_rR6p065PuVp&gaa_ts=69a6be1a&gaa_sig=jFsgBoNqGDKnZF7EzqtV2zc10Litaw_DffwoFJ5QhbJE3Au4521KLJfZz0TyCA74E5ZFsRIoRGuRsld6OOe-5w%3D%3D)**
-
-WSJ • 9h ago
+BBC • 6h ago
 
 ---
 
-**[AI hope drives Brighton medic to start rare disease research fund](https://www.bbc.com/news/articles/cn0e52z4e08o)**
+**[America must power AI with speed and discipline — or China will dominate](https://www.foxnews.com/opinion/america-must-power-ai-speed-discipline-china-dominate)**
 
-Prof Rob Galloway hopes his charity will be help to people like his daughter, Frankie.
+Artificial intelligence infrastructure faces growing resistance as China commits $125 billion to AI dominance while Trump accelerates leadership.
 
-BBC • 5h ago
+Fox News • 3h ago
 
 ---
 
@@ -197,7 +201,7 @@ BBC • 5h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1135 • 💬 654 • 13h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1192 • 💬 675 • 14h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -205,7 +209,7 @@ Bank details, sex and naked people who seem unaware they are being recorded. Beh
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 584 • 💬 308 • 1d ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 584 • 💬 308 • 2d ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -213,7 +217,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.
 
-⬆️ 478 • 💬 380 • 1d ago • [GitHub](https://github.com/mandel-macaque/memento)
+⬆️ 479 • 💬 382 • 1d ago • [GitHub](https://github.com/mandel-macaque/memento)
 
 ---
 
@@ -221,7 +225,7 @@ Keep track of you codex sessions per commit. Contribute to mandel-macaque/mement
 
 Apple announced the new iPad Air featuring M4 and more memory, giving users a big jump in performance and making it more versatile than ever.
 
-⬆️ 407 • 💬 631 • 21h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
+⬆️ 416 • 💬 646 • 22h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 
 ---
 
@@ -233,11 +237,11 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 ---
 
-**[Don't trust AI agents](https://news.ycombinator.com/item?id=47194611)**
+**[Ars Technica fires reporter after AI controversy involving fabricated quotes](https://news.ycombinator.com/item?id=47226608)**
 
-AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
+Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 340 • 💬 192 • 2d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 367 • 💬 218 • 11h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -249,14 +253,6 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 ---
 
-**[Ars Technica fires reporter after AI controversy involving fabricated quotes](https://news.ycombinator.com/item?id=47226608)**
-
-Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
-
-⬆️ 324 • 💬 194 • 10h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
-
----
-
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
 ⬆️ 255 • 💬 60 • 2d ago • [modernaicourse.org](https://modernaicourse.org)
@@ -265,7 +261,15 @@ Ars Technica has fired senior AI reporter Benj Edwards following an outrage-spar
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 209 • 💬 369 • 1d ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 210 • 💬 369 • 1d ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+
+---
+
+**[A case for Go as the best language for AI agents](https://news.ycombinator.com/item?id=47222270)**
+
+Pull up your agents folks, I'll convince you why Go is the best language for them.
+
+⬆️ 181 • 💬 256 • 18h ago • [Bruin](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
 
 ---
 
@@ -279,17 +283,17 @@ SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
 
 📺 YongYea
 
-👁️ 63K • 👍 4K • 💬 981 • ⏱️ 28:07 • 10h ago
+👁️ 77K • 👍 4K • 💬 1K • ⏱️ 28:07 • 12h ago
 
 ---
 
-**[The Month AI Woke Up](https://www.youtube.com/watch?v=-FJ7HiPBkCM)**
+**[&quot;The Ground is Shifting Quickly!&quot; - Elon Musk&#39;s New 2026 AI Warning is a Massive Wake-Up Call!](https://www.youtube.com/watch?v=deiZo-tR9to)**
 
-February 2026 crystallized a shift to agentic AI as developer workflows moved from hand-coding to orchestrating autonomous ...
+Elon Musk recently advised people NOT to save for retirement due to AI, robotics, and universal basic income. Is he right?
 
-📺 The AI Daily Brief: Artificial Intelligence News
+📺 BlazeTV
 
-👁️ 3K • 👍 128 • 💬 4 • ⏱️ 13:29 • 11h ago
+👁️ 172K • 👍 4K • 💬 697 • ⏱️ 11:39 • 15h ago
 
 ---
 
@@ -299,17 +303,17 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 13K • 👍 1K • 💬 85 • ⏱️ 13:36 • 14h ago
+👁️ 14K • 👍 1K • 💬 92 • ⏱️ 13:36 • 15h ago
 
 ---
 
-**[How China Caught Up on AI—and May Now Win the Future](https://www.youtube.com/watch?v=xvSEw8AqPtA)**
+**[The Month AI Woke Up](https://www.youtube.com/watch?v=-FJ7HiPBkCM)**
 
-Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTube channel ▻▻ http://ti.me/subscribe-time ...
+February 2026 crystallized a shift to agentic AI as developer workflows moved from hand-coding to orchestrating autonomous ...
 
-📺 TIME
+📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 9K • 👍 268 • 💬 102 • ⏱️ 6:10 • 16h ago
+👁️ 3K • 👍 154 • 💬 4 • ⏱️ 13:29 • 12h ago
 
 ---
 
@@ -319,17 +323,17 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 📺 Farzad
 
-👁️ 27K • 👍 1K • 💬 253 • ⏱️ 20:52 • 1d ago
+👁️ 27K • 👍 1K • 💬 254 • ⏱️ 20:52 • 1d ago
 
 ---
 
-**[AI on the Battlefield: How Claude Helped US Strike Iran | Vantage with Palki Sharma](https://www.youtube.com/watch?v=FX3x-k7vM7Y)**
+**[How China Caught Up on AI—and May Now Win the Future](https://www.youtube.com/watch?v=xvSEw8AqPtA)**
 
-Artificial intelligence is now part of the battlefield. During the strike on Iran, the United States used Anthropic's Claude platform to ...
+Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTube channel ▻▻ http://ti.me/subscribe-time ...
 
-📺 Firstpost
+📺 TIME
 
-👁️ 548K • 👍 6K • 💬 579 • ⏱️ 6:11 • 1d ago
+👁️ 11K • 👍 320 • 💬 112 • ⏱️ 6:10 • 17h ago
 
 ---
 
@@ -339,7 +343,27 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 710K • 👍 19K • 💬 3K • ⏱️ 1:33:33 • 2d ago
+👁️ 733K • 👍 20K • 💬 3K • ⏱️ 1:33:33 • 2d ago
+
+---
+
+**[AI on the Battlefield: How Claude Helped US Strike Iran | Vantage with Palki Sharma](https://www.youtube.com/watch?v=FX3x-k7vM7Y)**
+
+Artificial intelligence is now part of the battlefield. During the strike on Iran, the United States used Anthropic's Claude platform to ...
+
+📺 Firstpost
+
+👁️ 577K • 👍 6K • 💬 604 • ⏱️ 6:11 • 1d ago
+
+---
+
+**[Google Just Achieved Mathematical AGI](https://www.youtube.com/watch?v=N_piE0I34gc)**
+
+This month, AI crossed a line many believed would hold for decades. Google DeepMind revealed an AI system that independently ...
+
+📺 AI Revolution
+
+👁️ 26K • 👍 1K • 💬 128 • ⏱️ 12:11 • 13h ago
 
 ---
 
@@ -349,27 +373,7 @@ An honest take about AI. Join the community https://www.youtube.com/channel/UCXz
 
 📺 Awesome
 
-👁️ 154K • 👍 8K • 💬 625 • ⏱️ 8:07 • 1d ago
-
----
-
-**[The AI Data Center Crisis is Worse Than You Think](https://www.youtube.com/watch?v=9_3u5CBH6Ao)**
-
-Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
-
-📺 MonkeyExplains
-
-👁️ 239K • 👍 13K • 💬 2K • ⏱️ 14:41 • 2d ago
-
----
-
-**[Grok AI Analyzed Data Voyager 1 Found at the Edge of the Solar System - It&#39;s Disturbing](https://www.youtube.com/watch?v=ZMuMCXJH5Ig)**
-
-In May 2022, at a distance of more than 23 billion kilometers, Voyager 1 suddenly transmitted streams of orientation data that ...
-
-📺 Aline Rogerio
-
-👁️ 2K • 👍 2K • 💬 3 • ⏱️ 19:43 • 20h ago
+👁️ 158K • 👍 8K • 💬 636 • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -385,7 +389,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 680,524 • ❤️ 850 • 4d ago
+⬇️ 680,524 • ❤️ 861 • 4d ago
 
 ---
 
@@ -397,7 +401,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 319,191 • ❤️ 540 • 6d ago
+⬇️ 319,191 • ❤️ 543 • 6d ago
 
 ---
 
@@ -409,7 +413,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,904 • ❤️ 470 • 3d ago
+⬇️ 569,904 • ❤️ 471 • 3d ago
 
 ---
 
@@ -421,7 +425,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 150,470 • ❤️ 384 • 1d ago
+⬇️ 150,470 • ❤️ 386 • 1d ago
 
 ---
 
@@ -433,7 +437,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 38,443 • ❤️ 246 • 1d ago
+⬇️ 38,443 • ❤️ 261 • 1d ago
 
 ---
 
@@ -445,7 +449,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 11,897 • ❤️ 239 • 2d ago
+⬇️ 11,897 • ❤️ 240 • 3d ago
 
 ---
 
@@ -457,7 +461,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,245,204 • ❤️ 1,186 • 7d ago
+⬇️ 1,245,204 • ❤️ 1,190 • 7d ago
 
 ---
 
@@ -469,7 +473,7 @@ Qwen3.5-27B-GGUF is a 27B parameter multimodal causal language model optimized f
 
 `image-text-to-text` `26.9B`
 
-⬇️ 275,503 • ❤️ 202 • 19h ago
+⬇️ 275,503 • ❤️ 204 • 20h ago
 
 ---
 
@@ -481,7 +485,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 199,685 • ❤️ 1,683 • 17d ago
+⬇️ 199,685 • ❤️ 1,687 • 17d ago
 
 ---
 
@@ -501,18 +505,6 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 18 • 💬 1 • ⭐ 6,710 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
-
----
-
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
 *Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
@@ -522,6 +514,18 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 ▲ 9 • 💬 0 • ⭐ 6,772 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 18 • 💬 1 • ⭐ 6,793 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -559,7 +563,7 @@ FaraGen creates synthetic datasets for computer use agents, enabling the trainin
 
 A unified open-source framework is presented that standardizes core components of diffusion language modeling for reproduction, customization, and accessible development of both large and small models.
 
-▲ 87 • 💬 4 • ⭐ 1,924 • 5d ago
+▲ 93 • 💬 4 • ⭐ 1,972 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.22661) • [💻 code](https://github.com/ZHZisZZ/dllm) • [🔗 project](https://github.com/ZHZisZZ/dllm)
 
@@ -611,7 +615,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 LMCACHE enables efficient KV cache management for large language models by storing caches outside GPU memory, supporting cache reuse across queries and inference engines while achieving significant throughput improvements.
 
-▲ 2 • 💬 0 • ⭐ 7,247 • 4mo ago
+▲ 2 • 💬 0 • ⭐ 7,275 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.09665) • [💻 code](https://github.com/LMCache/LMCache)
 
@@ -625,7 +629,7 @@ LMCACHE enables efficient KV cache management for large language models by stori
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 206 • 💬 13 • ⭐ 4,565 • 1mo ago
+▲ 207 • 💬 13 • ⭐ 4,565 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -641,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 21.5k • 🔱 10 • 2h ago
+⭐ 21.5k • 🔱 2.8k • 28m ago
 
 ---
 
@@ -651,7 +655,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.4k • 🔱 626 • 2h ago
+⭐ 6.7k • 🔱 659 • 18m ago
 
 ---
 
@@ -661,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.2k • 🔱 757 • 5h ago
+⭐ 6.2k • 🔱 758 • 16m ago
 
 ---
 
@@ -671,7 +675,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.7k • 🔱 523 • 11h ago
+⭐ 4.8k • 🔱 529 • 2h ago
 
 ---
 
@@ -681,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.9k • 🔱 315 • 20h ago
+⭐ 4.1k • 🔱 324 • 21h ago
 
 ---
 
@@ -691,7 +695,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.9k • 🔱 369 • 17h ago
+⭐ 3.9k • 🔱 369 • 19h ago
 
 ---
 
@@ -701,7 +705,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.7k • 🔱 497 • 2d ago
+⭐ 3.7k • 🔱 499 • 2d ago
 
 ---
 
@@ -721,7 +725,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 226 • 13h ago
+⭐ 3.2k • 🔱 227 • 14h ago
 
 ---
 
@@ -731,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 602 • 5h ago
+⭐ 3.1k • 🔱 604 • 6h ago
 
 ---
 
