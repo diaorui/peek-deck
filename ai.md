@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-03T17:12:02.652564+00:00'
+updated: '2026-03-03T18:05:48.675896+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- social
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 03, 2026 at 17:12 UTC  
+**Last Updated:** March 03, 2026 at 18:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Department of Defense, triggering user backlash and boosting rival AI downloads.
 
-🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 12h ago
+🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Depar
 
 The law doesn’t say what Sam Altman claims it does.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 17h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Her
 
 A middle-to-upper-income career path in the age of white collar AI anxiety.
 
-🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 17h ago
+🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 18h ago
 
 ---
 
@@ -81,7 +81,7 @@ A middle-to-upper-income career path in the age of white collar AI anxiety.
 
 Amateur artist Anne Rowlands lost all her commissions in the past year and says the rise of AI-generated "art" is to blame.
 
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 24m ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Amateur artist Anne Rowlands lost all her commissions in the past year and says 
 
 Hey everyone, I've been a Trae IDE user for over a year now, relying on it for custom agents, coding (PHP, Python, JS, etc.), and even casual sanity-keeping chats. The old Pro plan ($10/mo) gave me 600 fast requests + unlimited slow ones, which easily lasted me 3+ weeks of moderate use. It felt like good value for an AI-powered IDE. But after their February 2026 switch to token-based pricing, it's a nightmare. Yesterday, I spent the day trying (and failing) to hook up a local LLM (via LM Studio) to bypass cloud costs – something that used to be easier with providers like Ollama, but that's disappeared from the list. Ended up burning through $38 in one day on just 127 requests. That's twice my monthly $20 Basic allowance on a fraction of my old usage... For context: Many of those requests were debug/experimental (long contexts, persistent memory, GPT-5-medium/auto mode), but under the old system, they'd be "slow" and free. Now, every token counts, and my setup (persistent agent chats) compounds costs fast. I wasn't even productive – just frustrated troubleshooting integration that feels deliberately blocked to push cloud models. I'm out – canceling my sub and going full local (LM Studio + VS Code) or alternatives like Cursor/Antigravity. If you're on Trae, optimize hard: Use cheap models like Gemini-Flash, reset contexts often, and avoid agents/SOLO for casual stuff. Demand better local support in their GitHub issues (#597, etc.) to avoid this shafting. Don't let them turn a solid tool into a money pit. What are your experiences with the new pricing? Any good local IDE alternatives?
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ Are we better off with ai with or without the pleasantries?
 
 Dashboard for near real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
 
-22h ago
+23h ago
 
 ---
 
@@ -123,7 +123,7 @@ I had some time and decided to write a short essay about some aspects that I do 
 
 **[OpenAI Amends A.I. Deal With the Pentagon](https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 13h ago
 
 Speed and scale of US military’s AI war planning raises fears human decision-making may be sidelined
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 11h ago
 
 Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
@@ -147,13 +147,13 @@ BBC • 5h ago
 
 More than three years after ChatGPT debuted, AI has become a part of everyday life — and professors and students are still figuring out how or if they should use it.
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
 **[The Evangelist Teaching a 220-Year-Old Toothpaste Maker to Embrace AI](https://www.wsj.com/tech/ai/the-evangelist-teaching-a-220-year-old-toothpaste-maker-to-embrace-ai-d5c65966?gaa_at=eafs&gaa_n=AWEtsqf6vZImCvABQOo0VVSo11DxdUiA52m-5AuAKaIiEPLU0DfVfrTB9501&gaa_ts=69a719cb&gaa_sig=9i2wAPeC0zjLdzsngV-4WhP3b3z5WTYmqespZZLSlEC1-GoITl5G9D9bK_gNENnhLbuTCkDZJT60ruwFuAyAbQ%3D%3D)**
 
-WSJ • 12m ago
+WSJ • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ WSJ • 12m ago
 
 Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.
 
-blog.google • 32m ago
+blog.google • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ blog.google • 32m ago
 
 More than 4 in 10 people — or 43% — are trying to change their career fields this year, according to a new report by online employment platform FlexJobs.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 2h ago
 
 Cities like Columbus and Denver offer something uniquely American that the coasts do not.
 
-The Washington Post • 40m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -185,13 +185,13 @@ The Washington Post • 40m ago
 
 With hundreds of millions of people turning to chatbots for advice, it was only a matter of time before tech companies began offering programs specifically designed to answer health questions.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
 **[Developers Are Putting AI in Children’s Toys—Despite Chatbot Age Restrictions](https://www.forbes.com/sites/maryroeloffs/2026/03/03/kids-arent-allowed-to-use-ai-chatbots-but-developers-are-still-putting-them-in-toys/)**
 
-Forbes • 54m ago
+Forbes • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Forbes • 54m ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1294 • 💬 731 • 18h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1294 • 💬 731 • 19h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -219,7 +219,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 506 • 💬 307 • 15h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 506 • 💬 307 • 16h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -251,7 +251,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-⬆️ 285 • 💬 136 • 4h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
+⬆️ 285 • 💬 136 • 5h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
@@ -271,7 +271,7 @@ In several recent instances, AI has disrupted court proceedings in India and els
 
 Claude's Status Page - Elevated errors in claude.ai, cowork, platform, claude code.
 
-⬆️ 197 • 💬 154 • 13h ago • [status.claude.com](https://status.claude.com/incidents/yf48hzysrvl5)
+⬆️ 197 • 💬 154 • 14h ago • [status.claude.com](https://status.claude.com/incidents/yf48hzysrvl5)
 
 ---
 
@@ -285,7 +285,7 @@ If your goal is to actually become good at AI, this roadmap shows you how! Try H
 
 📺 Parker Prompts
 
-👁️ 5K • 💬 2 • ⏱️ 9:16 • 3h ago
+👁️ 13K • 💬 2 • ⏱️ 9:16 • 4h ago
 
 ---
 
@@ -295,17 +295,7 @@ Elon Musk recently advised people NOT to save for retirement due to AI, robotics
 
 📺 BlazeTV
 
-👁️ 193K • 👍 4K • 💬 772 • ⏱️ 11:39 • 19h ago
-
----
-
-**[OpenAI Face Mass Boycott After Granting The Government AI-Driven Mass Surveillance...](https://www.youtube.com/watch?v=_lCYKEJVb9U)**
-
-SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
-
-📺 YongYea
-
-👁️ 87K • 👍 5K • 💬 1K • ⏱️ 28:07 • 16h ago
+👁️ 217K • 👍 5K • 💬 884 • ⏱️ 11:39 • 20h ago
 
 ---
 
@@ -315,7 +305,47 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 15K • 👍 1K • 💬 96 • ⏱️ 13:36 • 20h ago
+👁️ 15K • 👍 1K • 💬 98 • ⏱️ 13:36 • 21h ago
+
+---
+
+**[OpenAI Face Mass Boycott After Granting The Government AI-Driven Mass Surveillance...](https://www.youtube.com/watch?v=_lCYKEJVb9U)**
+
+SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
+
+📺 YongYea
+
+👁️ 100K • 👍 5K • 💬 1K • ⏱️ 28:07 • 17h ago
+
+---
+
+**[AI on the Battlefield: How Claude Helped US Strike Iran | Vantage with Palki Sharma](https://www.youtube.com/watch?v=FX3x-k7vM7Y)**
+
+Artificial intelligence is now part of the battlefield. During the strike on Iran, the United States used Anthropic's Claude platform to ...
+
+📺 Firstpost
+
+👁️ 622K • 👍 6K • 💬 640 • ⏱️ 6:11 • 2d ago
+
+---
+
+**[Google Just Achieved Mathematical AGI](https://www.youtube.com/watch?v=N_piE0I34gc)**
+
+This month, AI crossed a line many believed would hold for decades. Google DeepMind revealed an AI system that independently ...
+
+📺 AI Revolution
+
+👁️ 33K • 👍 1K • 💬 142 • ⏱️ 12:11 • 18h ago
+
+---
+
+**[AI Warfare Begins: How Anthropic&#39;s Claude AI Helped US Israel Attack Iran](https://www.youtube.com/watch?v=tWHnkBwwGO0)**
+
+Is Artificial Intelligence now fighting wars? In this explosive deep dive, we break down how the United States allegedly used AI ...
+
+📺 Switch
+
+👁️ 11K • 👍 63 • 💬 3 • ⏱️ 20:23 • 5h ago
 
 ---
 
@@ -325,7 +355,17 @@ Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTub
 
 📺 TIME
 
-👁️ 13K • 👍 350 • 💬 114 • ⏱️ 6:10 • 21h ago
+👁️ 15K • 👍 374 • 💬 129 • ⏱️ 6:10 • 22h ago
+
+---
+
+**[IG Thirst Trap Models Are Losing To AI — The Attention Economy SHATTERED | The Coffee Pod](https://www.youtube.com/watch?v=UyrRBMhpf-0)**
+
+Engaged? Get Your Prenup Guide Here: https://www.fathershaverights.com/ Join Brew Brothers ...
+
+📺 Chisha Zed
+
+👁️ 9K • 👍 529 • 💬 99 • ⏱️ 30:15 • 16h ago
 
 ---
 
@@ -336,46 +376,6 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 📺 Farzad
 
 👁️ 27K • 👍 1K • 💬 256 • ⏱️ 20:52 • 2d ago
-
----
-
-**[The Month AI Woke Up](https://www.youtube.com/watch?v=-FJ7HiPBkCM)**
-
-February 2026 crystallized a shift to agentic AI as developer workflows moved from hand-coding to orchestrating autonomous ...
-
-📺 The AI Daily Brief: Artificial Intelligence News
-
-👁️ 4K • 👍 166 • 💬 4 • ⏱️ 13:29 • 16h ago
-
----
-
-**[Is AI Hiding Its Full Power? With Geoffrey Hinton](https://www.youtube.com/watch?v=l6ZcFa8pybE)**
-
-Go to https://ground.news/startalk to stay fully informed on the latest Space and Science news. Save 40% off through our link for ...
-
-📺 StarTalk
-
-👁️ 746K • 👍 20K • 💬 3K • ⏱️ 1:33:33 • 3d ago
-
----
-
-**[IG Thirst Trap Models Are Losing To AI — The Attention Economy SHATTERED | The Coffee Pod](https://www.youtube.com/watch?v=UyrRBMhpf-0)**
-
-Engaged? Get Your Prenup Guide Here: https://www.fathershaverights.com/ Join Brew Brothers ...
-
-📺 Chisha Zed
-
-👁️ 7K • 👍 468 • 💬 79 • ⏱️ 30:15 • 15h ago
-
----
-
-**[Google Just Achieved Mathematical AGI](https://www.youtube.com/watch?v=N_piE0I34gc)**
-
-This month, AI crossed a line many believed would hold for decades. Google DeepMind revealed an AI system that independently ...
-
-📺 AI Revolution
-
-👁️ 29K • 👍 1K • 💬 134 • ⏱️ 12:11 • 17h ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 680,524 • ❤️ 870 • 4d ago
+⬇️ 680,524 • ❤️ 876 • 4d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 319,191 • ❤️ 547 • 6d ago
+⬇️ 319,191 • ❤️ 551 • 6d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,904 • ❤️ 474 • 3d ago
+⬇️ 569,904 • ❤️ 475 • 3d ago
 
 ---
 
@@ -439,19 +439,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 38,443 • ❤️ 274 • 1d ago
-
----
-
-**[LFM2-24B-A2B](https://huggingface.co/LiquidAI/LFM2-24B-A2B)**
-
-*Liquid AI*
-
-LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device text generation, featuring 2.3B active parameters for fast inference on consumer hardware. It excels at agentic tool use, offline document processing, and privacy-preserving applications.
-
-`text-generation` `23.8B`
-
-⬇️ 11,897 • ❤️ 244 • 3d ago
+⬇️ 38,443 • ❤️ 285 • 1d ago
 
 ---
 
@@ -463,7 +451,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,245,204 • ❤️ 1,193 • 8d ago
+⬇️ 1,245,204 • ❤️ 1,197 • 8d ago
 
 ---
 
@@ -475,7 +463,7 @@ Qwen3.5-27B-GGUF is a 27B parameter multimodal causal language model optimized f
 
 `image-text-to-text` `26.9B`
 
-⬇️ 275,503 • ❤️ 205 • 1d ago
+⬇️ 275,503 • ❤️ 209 • 1d ago
 
 ---
 
@@ -487,7 +475,19 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 199,685 • ❤️ 1,687 • 18d ago
+⬇️ 199,685 • ❤️ 1,689 • 18d ago
+
+---
+
+**[LFM2-24B-A2B](https://huggingface.co/LiquidAI/LFM2-24B-A2B)**
+
+*Liquid AI*
+
+LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device text generation, featuring 2.3B active parameters for fast inference on consumer hardware. It excels at agentic tool use, offline document processing, and privacy-preserving applications.
+
+`text-generation` `23.8B`
+
+⬇️ 11,897 • ❤️ 246 • 3d ago
 
 ---
 
@@ -499,25 +499,13 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 391,069 • ❤️ 938 • 5d ago
+⬇️ 391,069 • ❤️ 939 • 5d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 9 • 💬 0 • ⭐ 6,772 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
-
----
 
 **[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
 
@@ -531,15 +519,41 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 ---
 
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+
+▲ 9 • 💬 0 • ⭐ 6,824 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
+
 **[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
 
 *Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 9 • 💬 1 • ⭐ 8,943 • 24mo ago
+▲ 9 • 💬 1 • ⭐ 8,974 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
+
+---
+
+**[OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://huggingface.co/papers/2603.02138)**
+
+*Yiying Yang, Wei Cheng, Sijin Chen et al. (8 authors)*
+
+🏢 Fudan University
+
+OmniLottie framework generates high-quality vector animations from multi-modal instructions using a specialized Lottie tokenizer and pretrained vision-language models.
+
+▲ 102 • 💬 2 • ⭐ 79 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.02138) • [💻 code](https://github.com/OpenVGLab/OmniLottie) • [🔗 project](https://openvglab.github.io/OmniLottie/)
 
 ---
 
@@ -565,7 +579,7 @@ FaraGen creates synthetic datasets for computer use agents, enabling the trainin
 
 A unified open-source framework is presented that standardizes core components of diffusion language modeling for reproduction, customization, and accessible development of both large and small models.
 
-▲ 98 • 💬 4 • ⭐ 1,972 • 5d ago
+▲ 101 • 💬 4 • ⭐ 1,972 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.22661) • [💻 code](https://github.com/ZHZisZZ/dllm) • [🔗 project](https://github.com/ZHZisZZ/dllm)
 
@@ -596,6 +610,18 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+
+*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+
+Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+
+▲ 35 • 💬 2 • ⭐ 16,918 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -611,30 +637,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 43 • 💬 2 • ⭐ 48,537 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
-**[LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference](https://huggingface.co/papers/2510.09665)**
-
-*Yuhan Liu, Yihua Cheng, Jiayi Yao et al. (11 authors)*
-
-LMCACHE enables efficient KV cache management for large language models by storing caches outside GPU memory, supporting cache reuse across queries and inference engines while achieving significant throughput improvements.
-
-▲ 2 • 💬 0 • ⭐ 7,275 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.09665) • [💻 code](https://github.com/LMCache/LMCache)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -645,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 21.6k • 🔱 2.8k • 2h ago
+⭐ 21.6k • 🔱 2.9k • 50m ago
 
 ---
 
@@ -655,7 +657,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.9k • 🔱 683 • 2h ago
+⭐ 7.0k • 🔱 697 • 2h ago
 
 ---
 
@@ -665,7 +667,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.3k • 🔱 762 • 4h ago
+⭐ 6.3k • 🔱 764 • 2h ago
 
 ---
 
@@ -675,7 +677,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.8k • 🔱 539 • 3h ago
+⭐ 4.9k • 🔱 547 • 16m ago
 
 ---
 
@@ -685,17 +687,17 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 4.2k • 🔱 330 • 1d ago
+⭐ 4.2k • 🔱 337 • 1d ago
 
 ---
 
 **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)**
 
-The agent-native LLM router empowering OpenClaw — by BlockRunAI
+The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402.
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.9k • 🔱 369 • 2h ago
+⭐ 3.9k • 🔱 370 • 1h ago
 
 ---
 
@@ -715,7 +717,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 353 • 6h ago
+⭐ 3.3k • 🔱 354 • 7h ago
 
 ---
 
@@ -725,7 +727,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 227 • 18h ago
+⭐ 3.2k • 🔱 228 • 19h ago
 
 ---
 
@@ -735,7 +737,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 604 • 10h ago
+⭐ 3.1k • 🔱 605 • 11h ago
 
 ---
 
