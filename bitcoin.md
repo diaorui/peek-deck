@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-03T09:42:47.498047+00:00'
+updated: '2026-03-03T10:40:53.446547+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 09:42 UTC  
+**Last Updated:** March 03, 2026 at 10:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** -0.8%  
-**30d:** -14.5%  
-**90d:** -26.8%  
-**1y:** -22.7%  
+**24h:** +0.2%  
+**7d:** -2.1%  
+**30d:** -15.6%  
+**90d:** -27.8%  
+**1y:** -23.8%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A quick google tells me that there are ~60 million millionaires in the world, of which ~24 million live in the states alone. That is a lot more millionaires than bitcoins and I you can guess where I'm going with this. If every (or even every third) millionaire wants to buy a single bitcoin, there will not be enough bitcoins for everyone, the price would squeeze through the roof. Why this doesn't happen? I believe a single bitcoin in fiat price is well within the liquidity of almost every millionaire, or at least with some reallocation. Enough actually rich rich people just don't care for crypto? Or is the defining limit of a millionaire so loose that most of the 60M people actually don't have the cash to buy a single bitcoin. These are the things I think in shower.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,13 +89,13 @@ As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A qui
 
 Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
 
-20h ago
+21h ago
 
 ---
 
 **[Bitcoin demonetizes violence and it monetizes peace and love](https://www.reddit.com/r/Bitcoin/comments/1rj3tub/bitcoin_demonetizes_violence_and_it_monetizes/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -103,7 +103,7 @@ Thailand has officially introduced a 0% capital gains tax policy that applies to
 
 When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept trading. Here's why that matters more than any price chart right now.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 22h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 23h ago
 
 ---
 
@@ -119,7 +119,7 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 Bitcoin debanking is still alive and well in the UK
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=CdDzcsGZpJg) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=CdDzcsGZpJg) • 9h ago
 
 ---
 
@@ -127,7 +127,7 @@ Bitcoin debanking is still alive and well in the UK
 
 Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour! 🧡 https://x.com/SteaknShake/status/2028322342275871122
 
-19h ago
+20h ago
 
 ---
 
@@ -135,7 +135,7 @@ Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour
 
 For a while now, I have been buying bitcoin for once a month and I’ve been doing one dollar a month towards my bitcoin and honestly, I like Cash App because it’s not very complicated to look at your bitcoin to see how much you have and I’ve been doing it for like the whole year now so it’s pretty awesome and I have to say this was a cool investment that I started since last year and damn honestly, this was fantastic. I have no need to sell it all just quite yet, but honestly, when my time comes, I can’t wait to sell it all and see how much I get back not gonna lie. This was a great investment. I did not gonna lie.
 
-5h ago
+6h ago
 
 ---
 
@@ -143,13 +143,13 @@ For a while now, I have been buying bitcoin for once a month and I’ve been doi
 
 Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As of 3/1/2026, we hodl 720,737 BTC acquired for ~$54.77 billion at ~$75,985 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 19h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 20h ago
 
 ---
 
 **[the world continues to wage war 17 years after bitcoin launched. Thankfully freedom money is proliferating. A global truth open and available to all.](https://www.reddit.com/r/Bitcoin/comments/1riwfjq/the_world_continues_to_wage_war_17_years_after/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -157,15 +157,9 @@ Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As 
 
 ## Google News: "bitcoin"
 
-**['Number Goes Up'—Iran Conflict Has Bitcoin Bulls Eyeing $500K](https://www.forbes.com/sites/boazsobrado/2026/03/02/number-goes-up-iran-conflict-has-bitcoin-bulls-eyeing-500k/)**
+**[Bitcoin Slides as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
 
-Forbes • 15h ago
-
----
-
-**[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
-
-Bloomberg • 18h ago
+Bloomberg • 1h ago
 
 ---
 
@@ -173,7 +167,13 @@ Bloomberg • 18h ago
 
 Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $48 billion.
 
-The Block • 20h ago
+The Block • 21h ago
+
+---
+
+**[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
+
+Bloomberg • 19h ago
 
 ---
 
@@ -185,19 +185,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Spot bitcoin ETFs post $458 million in net inflows as institutions buy into global instability: analysts](https://www.theblock.co/post/391943/us-bitcoin-etfs-458-million-net-inflows)**
+**[CORZ sells $175 million in BTC in January as AI pivot accelerates](https://www.coindesk.com/markets/2026/03/03/core-scientific-sells-usd175-million-in-bitcoin-as-ai-pivot-accelerates)**
 
-Analysts told The Block that institutions are increasingly viewing bitcoin as a maturing diversifier asset.
+CORZ still holds under 1,000 BTC but look to "remain opportunistic" moving forward.
 
-The Block • 2h ago
+CoinDesk • 1h ago
 
 ---
 
-**[BTC News: More than 95% of all bitcoin has already been mined, rest will take more than a century](https://www.coindesk.com/markets/2026/01/23/bitcoin-supply-approaching-20-million-the-final-million-will-take-another-114-years-to-mine)**
+**[Is Bitcoin Safe from AI Replacement Threats?](https://www.fool.com/investing/2026/03/03/is-bitcoin-safe-from-ai-replacement-threats/)**
 
-Out of a fixed maximum supply of 21 million coins, more than 95% of all bitcoin that will ever exist is now in circulation
+AI won't replace Bitcoin. In fact, there are synergies between blockchain and AI.
 
-CoinDesk • 1h ago
+The Motley Fool • 10m ago
+
+---
+
+**[Better Buy in 2026: Bitcoin or a Broad-Market ETF? The Answer Couldn't Be Clearer for Long-Term Investors​](https://finance.yahoo.com/news/better-buy-2026-bitcoin-broad-095000571.html)**
+
+Betting on boring is a good investment strategy for 2026.
+
+Yahoo Finance • 50m ago
 
 ---
 
@@ -205,7 +213,7 @@ CoinDesk • 1h ago
 
 Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
 
-Fox News • 9h ago
+Fox News • 10h ago
 
 ---
 
@@ -213,15 +221,7 @@ Fox News • 9h ago
 
 CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
 
-CNBC • 13h ago
-
----
-
-**[Better Buy in 2026: Bitcoin or Silver? The Answer Couldn't Be Clearer for Long-Term Investors.](https://www.fool.com/investing/2026/03/02/better-buy-in-2026-bitcoin-or-silver-the-answer-co/)**
-
-Production and supply dynamics tell the whole story here.
-
-The Motley Fool • 12h ago
+CNBC • 14h ago
 
 ---
 
@@ -229,7 +229,7 @@ The Motley Fool • 12h ago
 
 As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
 
-Dallas News • 16h ago
+Dallas News • 17h ago
 
 ---
 
@@ -283,7 +283,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 **[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
 
-⬆️ 2 • 💬 1 • 11h ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
+⬆️ 2 • 💬 1 • 12h ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
 
 ---
 
@@ -317,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 87 • ⏱️ 10:14 • 9h ago
+👁️ 33K • 👍 2K • 💬 87 • ⏱️ 10:14 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 795 • 💬 98 • ⏱️ 8:26 • 7h ago
+👁️ 11K • 👍 795 • 💬 98 • ⏱️ 8:26 • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ War in the Middle East just triggered a potential global energy crisis, and mark
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 2K • 💬 203 • ⏱️ 16:46 • 11h ago
+👁️ 16K • 👍 2K • 💬 203 • ⏱️ 16:46 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 589 • 💬 58 • ⏱️ 17:48 • 17h ago
+👁️ 13K • 👍 589 • 💬 58 • ⏱️ 17:48 • 18h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin usually gets a rally into early March, then forms a lower high and goes 
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 5K • 💬 227 • ⏱️ 21:27 • 16h ago
+👁️ 74K • 👍 5K • 💬 227 • ⏱️ 21:27 • 17h ago
 
 ---
 
@@ -367,7 +367,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 778 • 💬 154 • ⏱️ 9:51 • 16h ago
+👁️ 15K • 👍 778 • 💬 154 • ⏱️ 9:51 • 17h ago
 
 ---
 
@@ -407,7 +407,7 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 26K • 👍 3K • 💬 62 • ⏱️ 8:18 • 22h ago
+👁️ 26K • 👍 3K • 💬 62 • ⏱️ 8:18 • 23h ago
 
 ---
 

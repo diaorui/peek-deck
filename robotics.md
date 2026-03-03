@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-03T09:42:47.507232+00:00'
+updated: '2026-03-03T10:40:53.455646+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 03, 2026 at 09:42 UTC  
+**Last Updated:** March 03, 2026 at 10:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,21 @@ Robotics research and industry news
 
 **[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-16h ago
+17h ago
+
+---
+
+**[OmniXtreme: a scalable framework designed to break the “generality barrier” in humanoid robots.](https://www.reddit.com/r/robotics/comments/1rjld0k/omnixtreme_a_scalable_framework_designed_to_break/)**
+
+📄 Paper: https://arxiv.org/abs/2602.23843 🌐 Project: https://extreme-humanoid.github.io 💻 Code: https://github.com/Perkins729/OmniXtreme From Siyuan Huang on 𝕏: https://x.com/siyuanhuang95/status/2028506522633073132 "... we developed OmniXtreme: the first general policy that can execute diverse extreme motions, including consecutive flips, extreme balancing, and even breakdancing with rapid contact switches! This capability is achieved by pre-training a flow-based generative control policy and then post-training with actuation-aware residual RL for complex physical dynamics—a step we found critical for successful real-world transfer. This work is a joint collaboration with Unitree Robotics."
+
+43m ago
 
 ---
 
@@ -48,7 +56,7 @@ Robotics research and industry news
 
 I’ve just finished the soldering for the controller for my 6-axis robot. You may notice that there are only 5 drivers and that is because two went bad and I’m waiting on replacements. I also installed the I2C MUX that will interface with the magnetic encoders. Please leave any questions, comments, or advice in the comments, I really appreciate it! More updates on the way.
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +64,7 @@ I’ve just finished the soldering for the controller for my 6-axis robot. You m
 
 Competition toolkit is available here. With additional context on Open Robotics Discourse. Competition details can be found here. Two competition sessions will be held tomorrow, March 3rd (they will be recorded). Session 1: March 3rd: 9-10am PT / 5-6pm UTC (US/Europe friendly) Session 2: March 3rd: 5-6pm PT / March 4th 1-2 am UTC (US/APAC friendly)
 
-9h ago
+10h ago
 
 ---
 
@@ -72,7 +80,7 @@ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.co
 
 It took a while to make this video and project it was really exhausting but after a few checks and documentation I finally finished it hope it is documented well
 
-🔗 [youtu.be](https://youtu.be/U4IHY_EhnXQ?si=BHmJAGa6hdiPeDtT) • 3h ago
+🔗 [youtu.be](https://youtu.be/U4IHY_EhnXQ?si=BHmJAGa6hdiPeDtT) • 4h ago
 
 ---
 
@@ -80,7 +88,7 @@ It took a while to make this video and project it was really exhausting but afte
 
 (Budget-Conscious) ​The Body: ​"I'm currently blueprinting a medium-scale (approx. 1.2m) bipedal robot project. My goal is to achieve fluid, natural movement without jumping immediately into high-cost industrial servos like HEBI or Dynamixel X-series. ​Actuation: Has anyone had success with 'quasi-direct drive' (QDD) using high-torque brushless motors (like the T-Motor series) for hip/knee joints to keep costs down while maintaining back-drivability? ​Power: I'm considering a 24V vs 48V system. For a home-built rig, is the complexity of 48V worth the efficiency gains, or is 24V the 'sweet spot' for component availability? ​Phasing: If you were building this on a budget, which subsystems would you 'overbuild' first, and where would you suggest using 3D-printed load-bearing parts vs. CNC aluminum? ​Looking for 'scrappy' but reliable engineering paths. Thanks!"
 
-5h ago
+6h ago
 
 ---
 
@@ -92,17 +100,9 @@ Arms are officially mounted to the chest 🙌 Upper body is coming together, now
 
 ---
 
-**[A small industrial robot arm, built for sub-micrometer precision by Oleksandr Stepanenko](https://www.reddit.com/r/robotics/comments/1rhuac0/a_small_industrial_robot_arm_built_for/)**
-
-From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
-
-1d ago
-
----
-
 **[Improve the Wi-Fi card on the G1 robot.](https://www.reddit.com/r/robotics/comments/1rj9pmd/improve_the_wifi_card_on_the_g1_robot/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -110,19 +110,11 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 ## Google News: "robotics"
 
-**[Qualcomm CEO sees robotics as a 'larger opportunity' within 2 years](https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html)**
+**[China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot](https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html)**
 
-It comes shortly after Qualcomm launched a processor under the Dragonwing brand name designed for robots.
+Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 3h ago
-
----
-
-**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
-
-In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
-
-CNBC • 2d ago
+CNBC • 1d ago
 
 ---
 
@@ -130,23 +122,23 @@ CNBC • 2d ago
 
 Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Scientific American • 21h ago
+Scientific American • 22h ago
 
 ---
 
-**[Opinion | How the US ceded the robotics economy to China](https://www.scmp.com/opinion/china-opinion/article/3344742/how-us-ceded-robotics-economy-china)**
+**[Atlas vs Optimus: Hyundai and Tesla collide in race for $5T humanoid robot market](https://interestingengineering.com/ai-robotics/atlas-vs-optimus-5t-humanoid-robot-race)**
 
-Chinese gains in robotics show that nations wishing to compete must go beyond financial engineering to master their physical realities.
+The humanoid robot market is estimated to hit $5 trillion by 2050. Hyundai and Tesla are positioned as two of the industry leaders.
 
-South China Morning Post • 1h ago
+Interesting Engineering • 13h ago
 
 ---
 
-**[Clarksburg Robotics Team Advances to National Competition](https://mocoshow.com/2026/03/01/clarksburg-robotics-team-advances-to-national-competition/)**
+**[Schaeffler CEO: Humanoid robots and defence are key growth drivers](https://www.cnbc.com/video/2026/03/03/schaeffler-ceo-humanoid-robots-and-defence-are-key-growth-drivers.html)**
 
-A group of Montgomery County students is heading to a national robotics competition after an impressive showing at both the regional and state levels. Team MiniTechs, a robotics team based […]
+Klaus Rosenfeld, CEO of Schaeffler, tells CNBC he sees humanoid robotics as a major growth driver that will power the company’s next transformation. He says the technology is designed to support workers, not replace them. His comments come after Schaeffler issued a cautious outlook for 2026, with high one‑off expenses weighing on full‑year earnings.
 
-The MoCo Show - • 1d ago
+CNBC • 1h ago
 
 ---
 
@@ -158,27 +150,37 @@ Pittsburgh Post-Gazette • 1d ago
 
 ---
 
+**[Clarksburg Robotics Team Advances to National Competition](https://mocoshow.com/2026/03/01/clarksburg-robotics-team-advances-to-national-competition/)**
+
+A group of Montgomery County students is heading to a national robotics competition after an impressive showing at both the regional and state levels. Team MiniTechs, a robotics team based […]
+
+The MoCo Show - • 1d ago
+
+---
+
 **[LLM (Claude) Given Robotic Hand Immediately Starts Making Peace Signs](https://blog.adafruit.com/2026/03/02/llm-claude-given-robotic-hand-immediately-starts-making-peace-signs/)**
 
-Adafruit • 16h ago
+Adafruit • 17h ago
+
+---
+
+**[Opinion | How the US ceded the robotics economy to China](https://www.scmp.com/opinion/china-opinion/article/3344742/how-us-ceded-robotics-economy-china)**
+
+Chinese gains in robotics show that nations wishing to compete must go beyond financial engineering to master their physical realities.
+
+South China Morning Post • 2h ago
+
+---
+
+**[Kraken Robotics Stock (KRKNF) Is Up 33% YTD: What’s Next for the Marine Tech Firm?](https://www.tipranks.com/news/kraken-robotics-stock-krknf-is-up-33-ytd-whats-next-for-the-marine-tech-firm)**
+
+TipRanks • 20h ago
 
 ---
 
 **[Vex robotics state championship](https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/)**
 
 fox5sandiego.com • 1d ago
-
----
-
-**[Kraken Robotics Stock (KRKNF) Is Up 33% YTD: What’s Next for the Marine Tech Firm?](https://www.tipranks.com/news/kraken-robotics-stock-krknf-is-up-33-ytd-whats-next-for-the-marine-tech-firm)**
-
-TipRanks • 19h ago
-
----
-
-**[Vacant Mountain View Kohl’s turned into temporary robotics hub](https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/)**
-
-Mountain View Voice • 11h ago
 
 ---
 
@@ -202,7 +204,7 @@ War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the u
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 405 • 💬 98 • ⏱️ 17:41 • 18h ago
+👁️ 7K • 👍 405 • 💬 98 • ⏱️ 17:41 • 19h ago
 
 ---
 
@@ -210,7 +212,7 @@ War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the u
 
 📺 zhulongfeng 6
 
-👁️ 2K • 👍 11 • ⏱️ 0:23 • 9h ago
+👁️ 2K • 👍 11 • ⏱️ 0:23 • 10h ago
 
 ---
 
@@ -240,7 +242,7 @@ Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown 63600E Eaglebots showc
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 48 • 💬 8 • ⏱️ 1:09 • 9h ago
+👁️ 2K • 👍 48 • 💬 8 • ⏱️ 1:09 • 10h ago
 
 ---
 

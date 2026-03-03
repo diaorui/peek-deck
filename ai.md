@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-03T09:42:47.489741+00:00'
+updated: '2026-03-03T10:40:53.437948+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 03, 2026 at 09:42 UTC  
+**Last Updated:** March 03, 2026 at 10:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Department of Defense, triggering user backlash and boosting rival AI downloads.
 
-🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 5h ago
+🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Depar
 
 The law doesn’t say what Sam Altman claims it does.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 10h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ The law doesn’t say what Sam Altman claims it does.
 
 A middle-to-upper-income career path in the age of white collar AI anxiety.
 
-🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 10h ago
+🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ Are we better off with ai with or without the pleasantries?
 
 I had some time and decided to write a short essay about some aspects that I do not see frequently. I would like to get your opinion on it: Modern artificial intelligence (AI) systems are gaining traction in companies. They are used as simple chatbots and for specific, well-defined tasks, but increasingly also as agents enriched with skills that allow them to act autonomously. However, unchecked AI in companies could become the largest intellectual property theft in history. This risk arises from uninformed employees, an overreliance on contracts instead of technical limitations, and the growing autonomy of AI systems. When AI is introduced in companies, employees often upload intellectual property without considering the consequences. This can be as simple as a spreadsheet containing a business plan or as critical as a patent application or sensitive private data. The extraordinary capabilities of AI, combined with pressure to increase efficiency, make it very tempting to use even highly confidential information. Companies are usually aware of these risks and often rely on contracts rather than technical safeguards to mitigate them. This blind trust in contracts can be dangerous. In the past, many companies have failed to respect contractual obligations and used collected data for their own gain. The Facebook–Cambridge Analytica data scandal is one well-known example. Additionally, data breaches are increasing every year, and AI companies have a strong incentive to acquire new training data. As the technology evolves, AI systems will become even more autonomous. Many AI agents already have access to entire codebases or complete knowledge repositories in order to provide better answers. The next step is that these agents will not only analyze information but also act independently. Tools such as OpenClaw demonstrate how powerful such systems can be, but when used incorrectly and without technical limitations, they can expose a company’s crown jewels to third parties. In conclusion, while the advantages of AI are significant and can deliver major efficiency gains, companies must use these systems carefully. Since employees are likely to upload sensitive information, organizations should prioritize strong technical limitations rather than relying solely on contractual agreements. This is especially important as more advanced agent-based systems are introduced. Companies must ensure that “reverse Robin Hood” does not steal their most valuable secrets.
 
-15h ago
+16h ago
 
 ---
 
@@ -81,7 +81,7 @@ I had some time and decided to write a short essay about some aspects that I do 
 
 Dashboard for near real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
 
-14h ago
+15h ago
 
 ---
 
@@ -89,7 +89,7 @@ Dashboard for near real-time GPU and LLM pricing across cloud and inference prov
 
 Hey everyone, I've been a Trae IDE user for over a year now, relying on it for custom agents, coding (PHP, Python, JS, etc.), and even casual sanity-keeping chats. The old Pro plan ($10/mo) gave me 600 fast requests + unlimited slow ones, which easily lasted me 3+ weeks of moderate use. It felt like good value for an AI-powered IDE. But after their February 2026 switch to token-based pricing, it's a nightmare. Yesterday, I spent the day trying (and failing) to hook up a local LLM (via LM Studio) to bypass cloud costs – something that used to be easier with providers like Ollama, but that's disappeared from the list. Ended up burning through $38 in one day on just 127 requests. That's twice my monthly $20 Basic allowance on a fraction of my old usage... For context: Many of those requests were debug/experimental (long contexts, persistent memory, GPT-5-medium/auto mode), but under the old system, they'd be "slow" and free. Now, every token counts, and my setup (persistent agent chats) compounds costs fast. I wasn't even productive – just frustrated troubleshooting integration that feels deliberately blocked to push cloud models. I'm out – canceling my sub and going full local (LM Studio + VS Code) or alternatives like Cursor/Antigravity. If you're on Trae, optimize hard: Use cheap models like Gemini-Flash, reset contexts often, and avoid agents/SOLO for casual stuff. Demand better local support in their GitHub issues (#597, etc.) to avoid this shafting. Don't let them turn a solid tool into a money pit. What are your experiences with the new pricing? Any good local IDE alternatives?
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey everyone, I've been a Trae IDE user for over a year now, relying on it for c
 
 World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
 
-🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 21h ago
+🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 22h ago
 
 ---
 
@@ -105,7 +105,7 @@ World models are advancing rapidly inside AI labs, but enterprise adoption is la
 
 .
 
-🔗 [phoronix.com](https://www.phoronix.com/review/amd-epyc-9745-9755/3) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/review/amd-epyc-9745-9755/3) • 11h ago
 
 ---
 
@@ -113,7 +113,7 @@ World models are advancing rapidly inside AI labs, but enterprise adoption is la
 
 So, you wanna build an app. You have a design/architecture document that you want your agents to follow. That's great, that should be ALL you need and that WILL be all you need, but we're not there yet. No, you have to learn the best prompts, you have to specify proper coding conventions, you have to write SKILL.md files to make up for some deficiency the model has or some outdated info that, for some reason, the model is incapable of googling and storing on it's own. But that's all bullshit. In a year or two all this elaborate engineering will be worthless because the models will be much better and none of that will be needed, so you are essentially wasting your time learning all this crap. In the future a design and architecture document will be enough.
 
-20h ago
+21h ago
 
 ---
 
@@ -121,69 +121,71 @@ So, you wanna build an app. You have a design/architecture document that you wan
 
 ## Google News: "ai"
 
+**[Iran war heralds era of AI-powered bombing quicker than ‘speed of thought’](https://www.theguardian.com/technology/2026/mar/03/iran-war-heralds-era-of-ai-powered-bombing-quicker-than-speed-of-thought)**
+
+Speed and scale of US military’s AI war planning raises fears human decision-making may be sidelined
+
+The Guardian • 4h ago
+
+---
+
 **[OpenAI Amends A.I. Deal With the Pentagon](https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
-**[North Carolina House Primary Includes Divisions on Iran War, Israel and A.I.](https://www.nytimes.com/2026/03/02/us/politics/valerie-foushee-nida-allam-north-carolina-ai-israel-aipac.html)**
+**[AI labs ease safety rules amid race pressure](https://www.axios.com/2026/03/03/ai-race-safety-guardrail)**
 
-The New York Times • 7h ago
+Axios • 39m ago
 
 ---
 
-**[Meta Tests AI Shopping Research Tool to Rival ChatGPT, Gemini](https://www.bloomberg.com/news/articles/2026-03-03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini)**
+**[America must power AI with speed and discipline — or China will dominate](https://www.foxnews.com/opinion/america-must-power-ai-speed-discipline-china-dominate)**
 
-Bloomberg • 7h ago
+Artificial intelligence infrastructure faces growing resistance as China commits $125 billion to AI dominance while Trump accelerates leadership.
+
+Fox News • 40m ago
+
+---
+
+**[College students, professors are making their own AI rules. They don't always agree](https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors)**
+
+More than three years after ChatGPT debuted, AI has become a part of everyday life — and professors and students are still figuring out how or if they should use it.
+
+NPR • 40m ago
+
+---
+
+**[Rubber’s History Could Be a Window Into AI’s Future](https://www.bloomberg.com/opinion/articles/2026-03-03/ai-future-more-like-rubber-less-like-indigo)**
+
+Bloomberg • 10m ago
 
 ---
 
 **[US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
-**[AI slop: Can players and football clubs do anything about it?](https://www.bbc.com/sport/football/articles/cy8pdr55219o)**
+**[China’s Parents Are Outsourcing the Homework Grind to A.I.](https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html)**
 
-There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it?
-
-BBC • 1d ago
+The New York Times • 1d ago
 
 ---
 
-**[Tilly Norwood, the fully AI 'actor,' to be part of rapidly expanding 'Tillyverse'](https://www.nbcnews.com/pop-culture/pop-culture-news/tilly-norwood-fully-actor-part-rapidly-expanding-tillyverse-rcna261328)**
+**[Exclusive | Startup Making AI Chips More Power-Efficient Raises $500 Million](https://www.wsj.com/tech/startup-making-ai-chips-more-power-efficient-raises-500-million-35edbfd1?gaa_at=eafs&gaa_n=AWEtsqfpXDMl1LEq1J2oCsDT-Cuv_qlidAQ8R3NVBpfiYC6O_rR6p065PuVp&gaa_ts=69a6be1a&gaa_sig=jFsgBoNqGDKnZF7EzqtV2zc10Litaw_DffwoFJ5QhbJE3Au4521KLJfZz0TyCA74E5ZFsRIoRGuRsld6OOe-5w%3D%3D)**
 
-Amazon's Mark Whelan will join the studio behind Tilly Norwood to help build a "constantly evolving digital universe where Tilly and a new generation of AI characters will live.”
-
-NBC News • 16h ago
+WSJ • 8h ago
 
 ---
 
-**[Exclusive | Startup Making AI Chips More Power-Efficient Raises $500 Million](https://www.wsj.com/tech/startup-making-ai-chips-more-power-efficient-raises-500-million-35edbfd1?gaa_at=eafs&gaa_n=AWEtsqclUXmhaxuP6eUtAnCmIbMdg5PQmXIOiWqkI5R5iuLMWE-PZyefULji&gaa_ts=69a6a278&gaa_sig=91XNVC4isEqdWTSIVs3AgsPzCVK0iRGUInj7AOS3NLIJdprk1pT7z4y__DRJTZxcyjLs33sKugUeCFheIozLCw%3D%3D)**
+**[AI hope drives Brighton medic to start rare disease research fund](https://www.bbc.com/news/articles/cn0e52z4e08o)**
 
-WSJ • 7h ago
+Prof Rob Galloway hopes his charity will be help to people like his daughter, Frankie.
 
----
-
-**[Nvidia-backed ‘open’ AI start-up courts investors at $20bn-plus valuation](https://www.ft.com/content/07073c8f-7176-471c-ac69-ef1458845fb2)**
-
-Reflection AI’s new funding talks come as Trump administration seeks US rivals to China’s DeepSeek
-
-Financial Times • 16h ago
-
----
-
-**[How AI Will Impact the Mutual Fund Industry](https://www.barrons.com/articles/how-ai-impact-mutual-funds-6e06bd98?gaa_at=eafs&gaa_n=AWEtsqd4oBE61oYrcHxKhghqKunuIQN3G5EkU-HYajmLuuCf1N0RRb46xiQA&gaa_ts=69a6a278&gaa_sig=7p7KE1GJ9ygDiwoSpUpow6dFSbPEOVPpkw06d-I1-cftGxQCJKO4M8tnRSlf3SYjFnDhiLCqU2FxR8yGrUKRnA%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**[‘America’s Got Talent’ Fans Fooled By AI-Generated Contestant’s Sob Story](https://www.forbes.com/sites/lesliekatz/2026/03/02/americas-got-talent-fans-fooled-by-ai-generated-contestants-sob-story/)**
-
-Forbes • 9h ago
+BBC • 4h ago
 
 ---
 
@@ -195,7 +197,7 @@ Forbes • 9h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1071 • 💬 606 • 11h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1071 • 💬 606 • 12h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -219,7 +221,7 @@ Keep track of you codex sessions per commit. Contribute to mandel-macaque/mement
 
 Apple announced the new iPad Air featuring M4 and more memory, giving users a big jump in performance and making it more versatile than ever.
 
-⬆️ 395 • 💬 621 • 19h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
+⬆️ 395 • 💬 621 • 20h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 
 ---
 
@@ -251,7 +253,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 277 • 💬 162 • 8h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 277 • 💬 162 • 9h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -277,7 +279,7 @@ SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
 
 📺 YongYea
 
-👁️ 63K • 👍 4K • 💬 981 • ⏱️ 28:07 • 8h ago
+👁️ 63K • 👍 4K • 💬 981 • ⏱️ 28:07 • 9h ago
 
 ---
 
@@ -287,7 +289,7 @@ February 2026 crystallized a shift to agentic AI as developer workflows moved fr
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 3K • 👍 128 • 💬 4 • ⏱️ 13:29 • 9h ago
+👁️ 3K • 👍 128 • 💬 4 • ⏱️ 13:29 • 10h ago
 
 ---
 
@@ -297,7 +299,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 13K • 👍 1K • 💬 85 • ⏱️ 13:36 • 12h ago
+👁️ 13K • 👍 1K • 💬 85 • ⏱️ 13:36 • 13h ago
 
 ---
 
@@ -307,7 +309,7 @@ Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTub
 
 📺 TIME
 
-👁️ 9K • 👍 268 • 💬 102 • ⏱️ 6:10 • 14h ago
+👁️ 9K • 👍 268 • 💬 102 • ⏱️ 6:10 • 15h ago
 
 ---
 
@@ -347,7 +349,7 @@ An honest take about AI. Join the community https://www.youtube.com/channel/UCXz
 
 📺 Awesome
 
-👁️ 154K • 👍 8K • 💬 625 • ⏱️ 8:07 • 23h ago
+👁️ 154K • 👍 8K • 💬 625 • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -367,7 +369,7 @@ In May 2022, at a distance of more than 23 billion kilometers, Voyager 1 suddenl
 
 📺 Aline Rogerio
 
-👁️ 2K • 👍 2K • 💬 3 • ⏱️ 19:43 • 18h ago
+👁️ 2K • 👍 2K • 💬 3 • ⏱️ 19:43 • 19h ago
 
 ---
 
@@ -383,7 +385,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 680,524 • ❤️ 850 • 3d ago
+⬇️ 680,524 • ❤️ 850 • 4d ago
 
 ---
 
@@ -467,7 +469,7 @@ Qwen3.5-27B-GGUF is a 27B parameter multimodal causal language model optimized f
 
 `image-text-to-text` `26.9B`
 
-⬇️ 275,503 • ❤️ 202 • 17h ago
+⬇️ 275,503 • ❤️ 202 • 18h ago
 
 ---
 
@@ -639,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 21.5k • 🔱 10 • 10m ago
+⭐ 21.5k • 🔱 10 • 1h ago
 
 ---
 
@@ -649,7 +651,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.4k • 🔱 626 • 22m ago
+⭐ 6.4k • 🔱 626 • 1h ago
 
 ---
 
@@ -659,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.2k • 🔱 757 • 3h ago
+⭐ 6.2k • 🔱 757 • 4h ago
 
 ---
 
@@ -669,7 +671,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.7k • 🔱 523 • 9h ago
+⭐ 4.7k • 🔱 523 • 10h ago
 
 ---
 
@@ -679,7 +681,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.9k • 🔱 315 • 18h ago
+⭐ 3.9k • 🔱 315 • 19h ago
 
 ---
 
@@ -689,7 +691,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.9k • 🔱 369 • 16h ago
+⭐ 3.9k • 🔱 369 • 17h ago
 
 ---
 
@@ -709,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 354 • 34m ago
+⭐ 3.3k • 🔱 354 • 1h ago
 
 ---
 
@@ -719,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 226 • 11h ago
+⭐ 3.2k • 🔱 226 • 12h ago
 
 ---
 
@@ -729,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 602 • 3h ago
+⭐ 3.1k • 🔱 602 • 4h ago
 
 ---
 
