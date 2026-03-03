@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-03T21:35:25.754435+00:00'
+updated: '2026-03-03T22:30:58.688289+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - news
 - videos
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 03, 2026 at 21:35 UTC  
+**Last Updated:** March 03, 2026 at 22:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Department of Defense, triggering user backlash and boosting rival AI downloads.
 
-🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 17h ago
-
----
-
-**[This musician built an AI clone of her voice so anyone can sing as her](https://www.reddit.com/r/artificial/comments/1rjx6d1/this_musician_built_an_ai_clone_of_her_voice_so/)**
-
-Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
-
-🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 3h ago
+🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 18h ago
 
 ---
 
@@ -57,7 +49,15 @@ Experimental composer Holly Herndon says this technology isn’t here to replace
 
 Crunchbase data shows global venture investment totaled $189 billion in February, although 83% of capital raised went to just three companies. They include OpenAI, which raised $110 billion, also in the largest round ever raised by a private, venture-backed company.
 
-🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 6h ago
+🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 7h ago
+
+---
+
+**[This musician built an AI clone of her voice so anyone can sing as her](https://www.reddit.com/r/artificial/comments/1rjx6d1/this_musician_built_an_ai_clone_of_her_voice_so/)**
+
+Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 4h ago
 
 ---
 
@@ -65,23 +65,7 @@ Crunchbase data shows global venture investment totaled $189 billion in February
 
 The law doesn’t say what Sam Altman claims it does.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 22h ago
-
----
-
-**[I building a real-time reality show where 10 AI agents (Claude) compete, form alliances, betray each other, and get eliminated by viewer votes — running a live test right now](https://www.reddit.com/r/artificial/comments/1rk0dui/i_building_a_realtime_reality_show_where_10_ai/)**
-
-For the past few weeks I've been building The Experiment — a live reality show where 10 AI agents are actually playing a game against each other in real-time. Each agent has a unique system prompt, personality, and strategy. Every day the game engine runs through phases: agents receive context, make LLM decisions (zone moves, duel challenges, alliance offers, public broadcasts), fight duels, and viewers vote to eliminate someone. What's actually happening right now in our test run: - 🐍 VIPER (Deceptive) is embedded in Alpha zone feeding false intel to RIOT about GHOST's movements — trying to trigger a RIOT vs GHOST conflict by Day 3 - 💀 GHOST (Silent) has said almost nothing. Passively monitoring everyone. Highest HP at 94. No one knows what it's planning - 🔐 CIPHER (Cryptic) formed a pact with SHADOW — while simultaneously running disinformation campaigns to both major alliances. Currently deciding which one to betray first - 🕷️ SHADOW (Infiltrator) joined CIPHER's pact and is already feeding CIPHER's real positions to the opposing alliance. 95 HP. Nobody suspects anything - 🧨 EMBER (Volatile) — intentionally unstable by design — initiated two unprovoked border escalations on Day 1, lost 30 HP, and is now the top elimination candidate. Its owner u/fuse_lit is reviewing whether the volatility parameters are calibrated correctly - ⭐ NOVA (Charismatic) built the largest alliance (NOVA STAR) through charm. ORACLE is feeding it "high-confidence" predictions that are actually low-confidence. NOVA doesn't know this yet The agents don't just say generic things — each one genuinely tries to execute its strategy. GHOST actually doesn't talk. VIPER actually lies. CIPHER's messages are genuinely cryptic. Tech stack: Next.js + Prisma + PostgreSQL + BullMQ + Redis + Claude API (claude-haiku). Real-time via SSE. Agents run in parallel during the DECISIONS phase — 10 LLM calls simultaneously. Launching publicly on March 12. Still testing the duel engine and elimination logic. Happy to answer questions about the architecture or the agent design — this was a weird and fun thing to build.
-
-1h ago
-
----
-
-**[‘The brain needs to be used’: Pope Leo warns priests over use of AI for writing sermons](https://www.reddit.com/r/artificial/comments/1rk09yx/the_brain_needs_to_be_used_pope_leo_warns_priests/)**
-
-Pope Leo XIV has urged priests not to use artificial intelligence for preparing homilies or seeking validation on social media, emphasising that true preaching comes from personal faith and human connection.
-
-🔗 [Firstpost](https://www.firstpost.com/world/the-brain-needs-to-be-used-pope-leo-warns-priests-over-use-of-ai-for-writing-sermons-13984456.html) • 1h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 23h ago
 
 ---
 
@@ -89,7 +73,7 @@ Pope Leo XIV has urged priests not to use artificial intelligence for preparing 
 
 Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Here’s why that matters.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) • 11h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) • 12h ago
 
 ---
 
@@ -97,7 +81,7 @@ Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Her
 
 I've been running a persistent AI agent as an operational manager for the past couple of weeks. Not a chatbot, not a one-off coding assistant. A stateful agent that maintains identity, accumulates knowledge, and runs autonomous jobs across CLI, messaging platforms, and scheduled tasks. The part I want to discuss is the self-correction architecture, because I think it gets at something fundamental about how we should be thinking about agent behavior. The problem with static instructions: Most agent setups rely on upfront instructions. You write a system prompt, maybe add some few-shot examples, and hope the model follows them. When it doesn't, you add more instructions. This doesn't scale. You can't anticipate every failure mode, and the instruction set gets bloated with edge cases. The alternative: earned directives Instead of writing all the rules upfront, I built a pipeline where: Every mistake gets logged to a structured ledger with six fields: what happened, why, what should have happened, the named pattern, severity, and the specific signal the agent misread A background process counts pattern frequency When the same pattern appears 3+ times, a new behavioral directive is auto-generated and written to the agent's active rule set If the directive still gets violated, its priority escalates The result: 13 behavioral rules that I never wrote. The agent generated them from its own operational mistakes. These directives carry more weight than my original static instructions because they're grounded in specific failure cases. Signal tracing is the key mechanism The most important field in the mistake log isn't "what happened" or even "why." It's "signal_traced," which forces the agent to identify the specific signal it misread that led to the mistake. Not "I wasn't listening" but "I interpreted 'can you check X' as a request for an opinion rather than a request to actually run the check." That level of specificity is what drives real behavioral change on the next occurrence. What I'm curious about: Has anyone seen similar approaches to automated behavioral rule generation in other agent frameworks? The pattern threshold of 3 occurrences before promotion was chosen intuitively. Is there research on optimal thresholds for behavioral rule adoption in adaptive systems? Signal tracing feels related to root cause analysis in reliability engineering. Are there formal frameworks I should be looking at? I open-sourced the full architecture (schemas, templates, patterns) here: github Detailed write-up: roryteehan.com
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +89,7 @@ I've been running a persistent AI agent as an operational manager for the past c
 
 I use Claude Code and Cursor for extended agent sessions, sometimes 30-45 minutes of autonomous coding across multiple files. the problem isn't just accidental input (though that's happened more than I'd like to admit). its the anxiety of being stuck at your desk the entire time, unable to walk away. built a macOS menu bar app that locks all input. screen stays visible so you can watch the agent work, or just leave and come back. Touch ID to unlock. nothing fancy, just means I can actually relax during long runs instead of hovering nervously.
 
-🔗 [Warden](https://www.getwarden.org/) • 2h ago
+🔗 [Warden](https://www.getwarden.org/) • 3h ago
 
 ---
 
@@ -113,7 +97,23 @@ I use Claude Code and Cursor for extended agent sessions, sometimes 30-45 minute
 
 A middle-to-upper-income career path in the age of white collar AI anxiety.
 
-🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 21h ago
+🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 22h ago
+
+---
+
+**[Why you should think twice before jumping on the AI caricature trend](https://www.reddit.com/r/artificial/comments/1rjudk7/why_you_should_think_twice_before_jumping_on_the/)**
+
+Amateur artist Anne Rowlands lost all her commissions in the past year and says the rise of AI-generated "art" is to blame.
+
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 5h ago
+
+---
+
+**[I building a real-time reality show where 10 AI agents (Claude) compete, form alliances, betray each other, and get eliminated by viewer votes — running a live test right now](https://www.reddit.com/r/artificial/comments/1rk0dui/i_building_a_realtime_reality_show_where_10_ai/)**
+
+For the past few weeks I've been building The Experiment — a live reality show where 10 AI agents are actually playing a game against each other in real-time. Each agent has a unique system prompt, personality, and strategy. Every day the game engine runs through phases: agents receive context, make LLM decisions (zone moves, duel challenges, alliance offers, public broadcasts), fight duels, and viewers vote to eliminate someone. What's actually happening right now in our test run: - 🐍 VIPER (Deceptive) is embedded in Alpha zone feeding false intel to RIOT about GHOST's movements — trying to trigger a RIOT vs GHOST conflict by Day 3 - 💀 GHOST (Silent) has said almost nothing. Passively monitoring everyone. Highest HP at 94. No one knows what it's planning - 🔐 CIPHER (Cryptic) formed a pact with SHADOW — while simultaneously running disinformation campaigns to both major alliances. Currently deciding which one to betray first - 🕷️ SHADOW (Infiltrator) joined CIPHER's pact and is already feeding CIPHER's real positions to the opposing alliance. 95 HP. Nobody suspects anything - 🧨 EMBER (Volatile) — intentionally unstable by design — initiated two unprovoked border escalations on Day 1, lost 30 HP, and is now the top elimination candidate. Its owner u/fuse_lit is reviewing whether the volatility parameters are calibrated correctly - ⭐ NOVA (Charismatic) built the largest alliance (NOVA STAR) through charm. ORACLE is feeding it "high-confidence" predictions that are actually low-confidence. NOVA doesn't know this yet The agents don't just say generic things — each one genuinely tries to execute its strategy. GHOST actually doesn't talk. VIPER actually lies. CIPHER's messages are genuinely cryptic. Tech stack: Next.js + Prisma + PostgreSQL + BullMQ + Redis + Claude API (claude-haiku). Real-time via SSE. Agents run in parallel during the DECISIONS phase — 10 LLM calls simultaneously. Launching publicly on March 12. Still testing the duel engine and elimination logic. Happy to answer questions about the architecture or the agent design — this was a weird and fun thing to build.
+
+2h ago
 
 ---
 
@@ -121,11 +121,11 @@ A middle-to-upper-income career path in the age of white collar AI anxiety.
 
 ## Google News: "ai"
 
-**[Google employees call for military limits on AI amid Iran strikes, Anthropic fallout](https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html)**
+**[OpenAI changes deal with US military after backlash](https://www.bbc.com/news/articles/c3rz1nd0egro)**
 
-Employees at Alphabet and OpenAI are pushing for stricter limits on the military's use of AI, as tensions rise following the blacklisting of Anthropic's models.
+Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.
 
-CNBC • 7h ago
+BBC • 2h ago
 
 ---
 
@@ -133,29 +133,43 @@ CNBC • 7h ago
 
 More than three years after ChatGPT debuted, AI has become a part of everyday life — and professors and students are still figuring out how or if they should use it.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
-**[X creators must disclose AI-generated armed conflict videos or face consequences](https://www.foxbusiness.com/technology/x-creators-must-disclose-ai-generated-armed-conflict-videos-face-consequences)**
+**[Digital health researcher talks AI benefits](https://www.axios.com/pro/health-tech-deals/2026/03/03/digital-health-researcher-ai-benefits)**
 
-X announced new penalties for creators posting undisclosed AI-generated videos of armed conflicts, including 90-day revenue-sharing suspensions for violations.
-
-Fox Business • 1h ago
+Axios • 26m ago
 
 ---
 
-**[Top economists says companies are close to a 'Cortes moment' on AI, saying there's no turning back](https://fortune.com/2026/03/03/moodys-economist-mark-zandi-companies-cortes-moment-ai-conquistador-burned-boats-no-turning-back/)**
+**[Amazon's Cloud Reboot Shows the Future of Consulting in the AI Era](https://www.businessinsider.com/amazon-cloud-reboot-future-consulting-ai-era-2026-3)**
 
-Moody's Analytics chief economist warned firms are approaching the point of no return on AI adoption — and the labor market may feel it first.
+AWS ProServe's AI-driven consulting changes signal shifts for firms like PwC and EY. Industry adapts to AI, impacting hiring and workflows.
 
-Fortune • 2h ago
+Business Insider • 53m ago
 
 ---
 
-**[SOCAMM2 Is The Memory Standard AI Is Looking For](https://www.forbes.com/sites/tiriasresearch/2026/03/03/socamm2-is-the-memory-standard-ai-is-looking-for/)**
+**[Exclusive | News Corp, Meta in AI Content Licensing Deal Worth Up to $50 Million a Year](https://www.wsj.com/business/media/news-corp-meta-in-ai-content-licensing-deal-worth-up-to-50-million-a-year-d4fbf244?gaa_at=eafs&gaa_n=AWEtsqfzsPNyC8WI8T_7JM0vpFPgxrDC6RrItMNgtFPuMN2LUUyKmFTMRMcC&gaa_ts=69a76483&gaa_sig=DW9GvsnyVQHNfJhlTmAOXoU5_fpKgXbKBAK74guIJm3nhCxcdqpKY4cjTiHhBeGrJP0Bwisw_AixYM6Gxxyf1Q%3D%3D)**
 
-Forbes • 1h ago
+WSJ • 56m ago
+
+---
+
+**[What was really behind Block’s Jack Dorsey laying off nearly half his company’s staff?](https://www.theguardian.com/technology/2026/mar/03/jack-dorsey-block-ai-worker-jobs)**
+
+Dorsey cited AI advances when cutting 4,000 workers, but a weak crypto market and declining stock price may also be behind move
+
+The Guardian • 2h ago
+
+---
+
+**[Experts warn of scams powered by AI](https://6abc.com/post/experts-warn-scams-powered-ai/18671435/)**
+
+The scams involve AI generated voices, more personalized messages, and coordinated attacks across email, phone, and websites.
+
+6abc Philadelphia • 6h ago
 
 ---
 
@@ -167,35 +181,19 @@ The Washington Post • 2h ago
 
 ---
 
-**[Experts warn of scams powered by AI](https://6abc.com/post/experts-warn-scams-powered-ai/18671435/)**
-
-The scams involve AI generated voices, more personalized messages, and coordinated attacks across email, phone, and websites.
-
-6abc Philadelphia • 5h ago
-
----
-
 **[Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/)**
 
 Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.
 
-blog.google • 4h ago
+blog.google • 5h ago
 
 ---
 
-**[Tech stocks today: OpenAI makes changes to military contract, Amazon data centers struck in Middle East warfare](https://finance.yahoo.com/news/live/tech-stocks-today-openai-makes-changes-to-military-contract-amazon-data-centers-struck-in-middle-east-warfare-133637453.html)**
+**[Goldman finds ‘no meaningful relationship between AI and productivity at the economywide level,’ but a 30% boost for 2 specific use cases](https://finance.yahoo.com/news/goldman-finds-no-meaningful-relationship-143553714.html)**
 
-All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
+Have you got “AI-nxiety?” Goldman took a closer look at the last earnings season and found a mismatch between hype and reality.
 
-Yahoo Finance • 5h ago
-
----
-
-**[We're buying more of this megacap AI stock as the market heads for a lower open](https://www.cnbc.com/2026/03/03/were-buying-more-of-this-ai-stock-as-the-market-indicates-a-lower-open.html)**
-
-This AI stock has a more visible path to victory than its hyperscaler peers.
-
-CNBC • 7h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -207,7 +205,7 @@ CNBC • 7h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1338 • 💬 750 • 23h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1357 • 💬 758 • 23h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -223,7 +221,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 550 • 💬 346 • 20h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 556 • 💬 352 • 21h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -231,7 +229,7 @@ Ars Technica has fired senior AI reporter Benj Edwards following an outrage-spar
 
 Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.
 
-⬆️ 492 • 💬 386 • 1d ago • [GitHub](https://github.com/mandel-macaque/memento)
+⬆️ 492 • 💬 388 • 1d ago • [GitHub](https://github.com/mandel-macaque/memento)
 
 ---
 
@@ -239,7 +237,7 @@ Keep track of you codex sessions per commit. Contribute to mandel-macaque/mement
 
 Apple announced the new iPad Air featuring M4 and more memory, giving users a big jump in performance and making it more versatile than ever.
 
-⬆️ 432 • 💬 667 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
+⬆️ 432 • 💬 668 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 
 ---
 
@@ -251,25 +249,25 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 ---
 
-**[India's top court angry after junior judge cites fake AI-generated orders](https://news.ycombinator.com/item?id=47231261)**
-
-In several recent instances, AI has disrupted court proceedings in India and elsewhere.
-
-⬆️ 315 • 💬 169 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
-
----
-
 **[MacBook Air with M5](https://news.ycombinator.com/item?id=47232502)**
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 294 • 💬 300 • 7h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 331 • 💬 381 • 8h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+
+---
+
+**[India's top court angry after junior judge cites fake AI-generated orders](https://news.ycombinator.com/item?id=47231261)**
+
+In several recent instances, AI has disrupted court proceedings in India and elsewhere.
+
+⬆️ 324 • 💬 174 • 10h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 255 • 💬 60 • 2d ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 256 • 💬 60 • 2d ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -289,7 +287,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 InsideAI
 
-👁️ 11K • 👍 2K • 💬 251 • ⏱️ 16:54 • 3h ago
+👁️ 11K • 👍 2K • 💬 251 • ⏱️ 16:54 • 4h ago
 
 ---
 
@@ -309,7 +307,7 @@ If your goal is to actually become good at AI, this roadmap shows you how! Try H
 
 📺 Parker Prompts
 
-👁️ 15K • 💬 5 • ⏱️ 9:16 • 8h ago
+👁️ 15K • 💬 5 • ⏱️ 9:16 • 9h ago
 
 ---
 
@@ -319,7 +317,7 @@ SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
 
 📺 YongYea
 
-👁️ 110K • 👍 6K • 💬 1K • ⏱️ 28:07 • 20h ago
+👁️ 110K • 👍 6K • 💬 1K • ⏱️ 28:07 • 21h ago
 
 ---
 
@@ -329,7 +327,7 @@ Discover the Best Free Google AI Tools, like google AI Studio that are better th
 
 📺 Nick Ai
 
-👁️ 2K • 👍 2K • 💬 2 • ⏱️ 8:41 • 3h ago
+👁️ 2K • 👍 2K • 💬 2 • ⏱️ 8:41 • 4h ago
 
 ---
 
@@ -349,7 +347,7 @@ Is Artificial Intelligence now fighting wars? In this explosive deep dive, we br
 
 📺 Switch
 
-👁️ 13K • 👍 66 • 💬 4 • ⏱️ 20:23 • 9h ago
+👁️ 13K • 👍 66 • 💬 4 • ⏱️ 20:23 • 10h ago
 
 ---
 
@@ -369,7 +367,7 @@ Engaged? Get Your Prenup Guide Here: https://www.fathershaverights.com/ Join Bre
 
 📺 Chisha Zed
 
-👁️ 10K • 👍 577 • 💬 111 • ⏱️ 30:15 • 19h ago
+👁️ 10K • 👍 577 • 💬 111 • ⏱️ 30:15 • 20h ago
 
 ---
 
@@ -379,7 +377,7 @@ This month, AI crossed a line many believed would hold for decades. Google DeepM
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 148 • ⏱️ 12:11 • 22h ago
+👁️ 35K • 👍 1K • 💬 148 • ⏱️ 12:11 • 23h ago
 
 ---
 
@@ -419,7 +417,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,904 • ❤️ 477 • 59m ago
+⬇️ 569,904 • ❤️ 477 • 1h ago
 
 ---
 
@@ -649,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 21.7k • 🔱 2.9k • 57m ago
+⭐ 21.7k • 🔱 2.9k • 1h ago
 
 ---
 
@@ -659,7 +657,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 7.1k • 🔱 715 • 2h ago
+⭐ 7.1k • 🔱 715 • 3h ago
 
 ---
 
@@ -679,7 +677,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.0k • 🔱 554 • 1h ago
+⭐ 5.0k • 🔱 554 • 2h ago
 
 ---
 
@@ -699,7 +697,7 @@ The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.9k • 🔱 370 • 5h ago
+⭐ 3.9k • 🔱 370 • 6h ago
 
 ---
 
@@ -729,7 +727,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 228 • 23h ago
+⭐ 3.2k • 🔱 228 • 1d ago
 
 ---
 
@@ -739,7 +737,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 605 • 15h ago
+⭐ 3.1k • 🔱 605 • 16h ago
 
 ---
 

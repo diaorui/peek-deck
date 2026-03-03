@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-03T21:35:25.762802+00:00'
+updated: '2026-03-03T22:30:58.696973+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 21:35 UTC  
+**Last Updated:** March 03, 2026 at 22:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** +0.7%  
-**30d:** -13.2%  
-**90d:** -25.7%  
-**1y:** -21.6%  
+**24h:** -0.8%  
+**7d:** +0.5%  
+**30d:** -13.3%  
+**90d:** -25.9%  
+**1y:** -21.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
 
-🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 9h ago
 
 ---
 
@@ -87,51 +87,19 @@ Rank #1
 
 4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
 
-7h ago
+8h ago
 
 ---
 
 **[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
 
-2h ago
+3h ago
 
 ---
 
 **[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
 
-5h ago
-
----
-
-**[Something I just don't understand about the world and bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjhd7p/something_i_just_dont_understand_about_the_world/)**
-
-As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A quick google tells me that there are ~60 million millionaires in the world, of which ~24 million live in the states alone. That is a lot more millionaires than bitcoins and I bet you can guess where I'm going with this. If every (or even every third) millionaire wants to buy a single bitcoin, there will not be enough bitcoins for everyone, the price would squeeze through the roof. Why this doesn't happen? I believe a single bitcoin in fiat price is well within the liquidity of almost every millionaire, or at least with some reallocation. Enough actually rich rich people just don't care for crypto? Or is the defining limit of a millionaire so loose that most of the 60M people actually don't have the cash to buy a single bitcoin. These are the things I think in shower. Edit: typo fix
-
-15h ago
-
----
-
-**[River: Fidelity, Bank of America, Morgan Stanley Back 1–5% Bitcoin Allocation](https://www.reddit.com/r/Bitcoin/comments/1rjr1r5/river_fidelity_bank_of_america_morgan_stanley/)**
-
-River reports Fidelity, Bank of America and Morgan Stanley recommend a 1–5% Bitcoin allocation as institutional adoption accelerates.
-
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/river-fidelity-bank-of-america-morgan-stanley-back-15-bitcoin-allocation/) • 6h ago
-
----
-
-**[Anyone else counting down till <1million Bitcoin left?](https://www.reddit.com/r/Bitcoin/comments/1rjnjur/anyone_else_counting_down_till_1million_bitcoin/)**
-
-Haven't heard much buzz about an approaching milestone - in 2-3 weeks we will have officially mined the 20 millionth Bitcoin. Looking for a good website to track this? Currently at 19,996,779. https://preview.redd.it/86qf15rnltmg1.png?width=732&format=png&auto=webp&s=1d1d4c1ee5ebbf6f74bf01d0c653d41c55bdd12b
-
-9h ago
-
----
-
-**[watching what's happening between iran and israel and all i can think about is bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjm592/watching_whats_happening_between_iran_and_israel/)**
-
-not trying to make this political. just an observation. every time there's serious geopolitical tension, the same thing happens. local currencies in affected regions get crushed. people scramble to move money. banks slow down or freeze transfers. capital starts looking for exits. we saw it with iran's rial. been one of the worst performing currencies on earth for years. ordinary people there aren't losing money because they made bad investments. they're losing it because they had no alternative to a currency being destroyed by sanctions and inflation simultaneously. bitcoin doesn't care about any of that. no sanctions can stop a transaction on chain. no government can print more of it. if you hold your own keys nobody can freeze it. the thing is most people in stable countries see bitcoin as a speculative asset. people living through currency collapse see it as survival infrastructure. i just keep thinking about that gap in perspective every time i set my weekly dca and it runs automatically regardless of what's happening in the news. the macro case for a fixed supply asset outside government control isn't getting weaker. it's getting more obvious by the week.
-
-10h ago
+6h ago
 
 ---
 
@@ -139,15 +107,47 @@ not trying to make this political. just an observation. every time there's serio
 
 The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $126K ATH from October 2025. Sounds brutal — but the structural signals underneath are shifting fast. A few things worth watching right now: Spot BTC ETF outflows slowed from $1.6B to $206M in February, then flipped to $787M in net inflows in the final week alone SEC Chair Paul Atkins just signaled a push toward a more innovation-friendly regulatory framework as of March 1 The U.S. Strategic Bitcoin Reserve is now acting as a structural price floor 200-day MA still trending up, 50-day SMA providing active daily support The last time we saw fear this extreme with institutional flows quietly reversing direction was... well, you know how that played out. Not financial advice — just tracking the data. Curious what the rest of you are seeing in the on-chain and ETF flow data right now. Source & full analysis: https://www.cryptobull.org/hot-coins/hot-coins-2026
 
-1h ago
+2h ago
 
 ---
 
-**[Thailand implements 0% capital gains tax on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rishsn/thailand_implements_0_capital_gains_tax_on_bitcoin/)**
+**[Something I just don't understand about the world and bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjhd7p/something_i_just_dont_understand_about_the_world/)**
 
-Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
+As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A quick google tells me that there are ~60 million millionaires in the world, of which ~24 million live in the states alone. That is a lot more millionaires than bitcoins and I bet you can guess where I'm going with this. If every (or even every third) millionaire wants to buy a single bitcoin, there will not be enough bitcoins for everyone, the price would squeeze through the roof. Why this doesn't happen? I believe a single bitcoin in fiat price is well within the liquidity of almost every millionaire, or at least with some reallocation. Enough actually rich rich people just don't care for crypto? Or is the defining limit of a millionaire so loose that most of the 60M people actually don't have the cash to buy a single bitcoin. These are the things I think in shower. Edit: typo fix
 
-1d ago
+16h ago
+
+---
+
+**[River: Fidelity, Bank of America, Morgan Stanley Back 1–5% Bitcoin Allocation](https://www.reddit.com/r/Bitcoin/comments/1rjr1r5/river_fidelity_bank_of_america_morgan_stanley/)**
+
+River reports Fidelity, Bank of America and Morgan Stanley recommend a 1–5% Bitcoin allocation as institutional adoption accelerates.
+
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/river-fidelity-bank-of-america-morgan-stanley-back-15-bitcoin-allocation/) • 7h ago
+
+---
+
+**[Anyone else counting down till <1million Bitcoin left?](https://www.reddit.com/r/Bitcoin/comments/1rjnjur/anyone_else_counting_down_till_1million_bitcoin/)**
+
+Haven't heard much buzz about an approaching milestone - in 2-3 weeks we will have officially mined the 20 millionth Bitcoin. Looking for a good website to track this? Currently at 19,996,779. https://preview.redd.it/86qf15rnltmg1.png?width=732&format=png&auto=webp&s=1d1d4c1ee5ebbf6f74bf01d0c653d41c55bdd12b
+
+10h ago
+
+---
+
+**[watching what's happening between iran and israel and all i can think about is bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjm592/watching_whats_happening_between_iran_and_israel/)**
+
+not trying to make this political. just an observation. every time there's serious geopolitical tension, the same thing happens. local currencies in affected regions get crushed. people scramble to move money. banks slow down or freeze transfers. capital starts looking for exits. we saw it with iran's rial. been one of the worst performing currencies on earth for years. ordinary people there aren't losing money because they made bad investments. they're losing it because they had no alternative to a currency being destroyed by sanctions and inflation simultaneously. bitcoin doesn't care about any of that. no sanctions can stop a transaction on chain. no government can print more of it. if you hold your own keys nobody can freeze it. the thing is most people in stable countries see bitcoin as a speculative asset. people living through currency collapse see it as survival infrastructure. i just keep thinking about that gap in perspective every time i set my weekly dca and it runs automatically regardless of what's happening in the news. the macro case for a fixed supply asset outside government control isn't getting weaker. it's getting more obvious by the week.
+
+11h ago
+
+---
+
+**[They are desperately trying to keep you away from Bitcoin… (i can prove it)](https://www.reddit.com/r/Bitcoin/comments/1rk1qrn/they_are_desperately_trying_to_keep_you_away_from/)**
+
+Bitcoin FUD has been pumping nonstop. (New pieces every couple days in FT, NYT, Bloomberg, you name it.) And it’s working on retail, most normal people won't touch bitcoin right now. But while we might be in a "bear market" in Bitcoin’s price, there is *no* bear market in Bitcoin adoption. The data shows institutions accumulated ~829,000 BTC in 2025. There's been a ~93% HODL rate across BTC ETFs despite -50% drawdown from Oct '25 peak. RIAs are buying and banks are building around Bitcoin, and the “institutional scaffolding” around Bitcoin is still standing. So what gives? As usual, someone wants your Bitcoin. This video is a full breakdown of what's going on and why I suggest you don't give it to them.
+
+🔗 [youtu.be](https://youtu.be/9OyvaKM9g7s) • 1h ago
 
 ---
 
@@ -159,37 +159,29 @@ Thailand has officially introduced a 0% capital gains tax policy that applies to
 
 MARA has expanded its policy to allow balance sheet bitcoin sales after reporting a $422.2 million fair-value decline in 2025.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
 **[Bitcoin Slides as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
 
-Bloomberg • 3h ago
+Bloomberg.com • 26m ago
 
 ---
 
-**[Ex-LAPD Officer Found Guilty of $350K ‘Wrench Attack’ Bitcoin Robbery](https://www.yahoo.com/news/articles/ex-lapd-officer-found-guilty-185615200.html)**
+**[Former LAPD Officer Convicted In $350,000 Bitcoin Kidnapping And Home Invasion](https://bitcoinmagazine.com/news/former-lapd-officer-convicted-in-350000-bitcoin-kidnapping-and-home-invasion)**
 
-Eric Halem faces life in prison on kidnapping and robbery charges after stealing $350,000 in crypto from a teenager during a home invasion.
+A jury in Los Angeles convicted former Los Angeles Police Department officer Eric Halem of kidnapping and robbery after he and three alleged accomplices posed as police to steal $350,000 in bitcoin from a 17-year-old during a 2024 home invasion.
 
-Yahoo • 2h ago
-
----
-
-**[Bitcoin Is The Collateral, It Just Needs The Credit Markets](https://bitcoinmagazine.com/technical/bitcoin-is-the-collateral-it-just-needs-the-credit-markets)**
-
-A deep look at the landscape of Bitcoin collateralized loans, and the cutting edge of technology that could rock the boat.
-
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 1h ago
 
 ---
 
-**[Why Bitcoin Is Falling Today](https://www.fool.com/investing/2026/03/03/why-bitcoin-is-falling-today/)**
+**[Strategy Extends Bitcoin Bet With Costly Preferred Capital And Institutional Backing](https://finance.yahoo.com/news/strategy-extends-bitcoin-bet-costly-211536456.html)**
 
-Bitcoin is moving lower again, but there could be a bigger story underneath the ticker tape.
+Strategy Inc. (NasdaqGS:MSTR) has acquired more than 3,000 BTC, one of its largest purchases to date. The company funded the purchase with new common stock and preferred share offerings, with a greater tilt toward preferred equity. Strategy increased the dividend rate on its Stretch Preferred Stock for the seventh time, aiming to support that share class during periods of crypto volatility. Institutional investors, including Amundi SA, have recently expanded holdings, reflecting growing...
 
-The Motley Fool • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,7 +189,15 @@ The Motley Fool • 4h ago
 
 Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
 
-Fox News • 20h ago
+Fox News • 21h ago
+
+---
+
+**[Better Buy in 2026: Bitcoin or Silver? The Answer Couldn't Be Clearer for Long-Term Investors.](https://www.fool.com/investing/2026/03/02/better-buy-in-2026-bitcoin-or-silver-the-answer-co/)**
+
+Production and supply dynamics tell the whole story here.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -209,9 +209,9 @@ CNBC • 1d ago
 
 ---
 
-**[Inside the Harvard's crypto play: Why the endowment is swapping bitcoin for ethereum ETFs](https://www.coindesk.com/business/2026/03/03/here-is-why-harvard-trimmed-bitcoin-and-bought-ether-and-why-the-move-is-bullish-for-crypto)**
+**[Trump Family-backed American Bitcoin (ABTC) expands mining fleet 12% as rivals pivot toward AI](https://www.coindesk.com/business/2026/03/03/eric-trump-s-american-bitcoin-buys-11-298-asic-miners-increasing-capacity-by-12)**
 
-Volatility and private equity cash needs, not a market bet, may explain the endowment’s crypto shift, experts say.
+The firm, in which Eric Trump is a co-founder and CSO, adds 3.05 EH/s in new hardware, positioning itself against miners shifting capital into AI infrastructure.
 
 CoinDesk • 5h ago
 
@@ -221,15 +221,13 @@ CoinDesk • 5h ago
 
 Key PointsBitcoin depends on encryption to secure peoples' wallets.
 
-Nasdaq • 18h ago
+Nasdaq • 19h ago
 
 ---
 
-**[Michael Saylor's Strategy buys 3,015 bitcoin for $204 million as total holdings top 720,000 BTC](https://www.theblock.co/post/391718/michael-saylor-strategy-buys-more-bitcoin-mstr-strc)**
+**[Bitcoin Falls Amid Conflict in Middle East. Why Crypto Is Not a Haven.](https://www.barrons.com/articles/bitcoin-price-today-iran-conflict-haven-crypto-xrp-ethereum-33031e37?gaa_at=eafs&gaa_n=AWEtsqdK1rdTMGhxCtb9dcCALeXncEC2QTjEeg_ZT9lfVmV-z0xXRrxWhN8P&gaa_ts=69a7641c&gaa_sig=eyIN8DNwMgLqwBG7-q-xtJnwdUv_nqIP_MGEDeaY_gigPlHeOObTpIEQbi_OIifExDbCyDgBic35rJYtN1LGTQ%3D%3D)**
 
-Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $48 billion.
-
-The Block • 1d ago
+Barron's • 1d ago
 
 ---
 
@@ -275,7 +273,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 **[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
 
-⬆️ 2 • 💬 2 • 23h ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
+⬆️ 2 • 💬 2 • 1d ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
 
 ---
 
@@ -317,7 +315,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 137 • ⏱️ 10:14 • 21h ago
+👁️ 47K • 👍 2K • 💬 137 • ⏱️ 10:14 • 22h ago
 
 ---
 
@@ -327,7 +325,7 @@ Bitcoin has been in a bear market for several months. Let's talk about the bear 
 
 📺 Benjamin Cowen
 
-👁️ 25K • 👍 2K • 💬 88 • ⏱️ 19:12 • 6h ago
+👁️ 25K • 👍 2K • 💬 88 • ⏱️ 19:12 • 7h ago
 
 ---
 
@@ -337,7 +335,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 923 • 💬 141 • ⏱️ 8:26 • 19h ago
+👁️ 15K • 👍 923 • 💬 141 • ⏱️ 8:26 • 20h ago
 
 ---
 
@@ -347,7 +345,7 @@ War in the Middle East just triggered a potential global energy crisis, and mark
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 246 • ⏱️ 16:46 • 22h ago
+👁️ 21K • 👍 2K • 💬 246 • ⏱️ 16:46 • 23h ago
 
 ---
 
@@ -367,7 +365,7 @@ I published the case for $11 million bitcoin by 2036. Read the full letter here:
 
 📺 Joe Burnett
 
-👁️ 867 • 👍 111 • 💬 13 • ⏱️ 15:22 • 7h ago
+👁️ 867 • 👍 111 • 💬 13 • ⏱️ 15:22 • 8h ago
 
 ---
 
@@ -397,7 +395,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 922 • 💬 64 • ⏱️ 39:18 • 6h ago
+👁️ 14K • 👍 922 • 💬 64 • ⏱️ 39:18 • 7h ago
 
 ---
 
