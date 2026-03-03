@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-03T16:07:02.264499+00:00'
+updated: '2026-03-03T17:12:02.661082+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 16:07 UTC  
+**Last Updated:** March 03, 2026 at 17:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,128.05
+### $68,383.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.9%  
-**7d:** -1.8%  
-**30d:** -15.3%  
-**90d:** -27.5%  
-**1y:** -23.5%  
+**24h:** -1.4%  
+**7d:** -0.1%  
+**30d:** -13.8%  
+**90d:** -26.3%  
+**1y:** -22.1%  
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Something I just don't understand about the world and bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjhd7p/something_i_just_dont_understand_about_the_world/)**
+
+As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A quick google tells me that there are ~60 million millionaires in the world, of which ~24 million live in the states alone. That is a lot more millionaires than bitcoins and I bet you can guess where I'm going with this. If every (or even every third) millionaire wants to buy a single bitcoin, there will not be enough bitcoins for everyone, the price would squeeze through the roof. Why this doesn't happen? I believe a single bitcoin in fiat price is well within the liquidity of almost every millionaire, or at least with some reallocation. Enough actually rich rich people just don't care for crypto? Or is the defining limit of a millionaire so loose that most of the 60M people actually don't have the cash to buy a single bitcoin. These are the things I think in shower. Edit: typo fix
+
+11h ago
+
+---
+
 **[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
 
-🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 3h ago
+🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 4h ago
 
 ---
 
@@ -87,23 +95,13 @@ Rank #1
 
 4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
 
-2h ago
+3h ago
 
 ---
 
-**[Something I just don't understand about the world and bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjhd7p/something_i_just_dont_understand_about_the_world/)**
+**[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
 
-As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A quick google tells me that there are ~60 million millionaires in the world, of which ~24 million live in the states alone. That is a lot more millionaires than bitcoins and I bet you can guess where I'm going with this. If every (or even every third) millionaire wants to buy a single bitcoin, there will not be enough bitcoins for everyone, the price would squeeze through the roof. Why this doesn't happen? I believe a single bitcoin in fiat price is well within the liquidity of almost every millionaire, or at least with some reallocation. Enough actually rich rich people just don't care for crypto? Or is the defining limit of a millionaire so loose that most of the 60M people actually don't have the cash to buy a single bitcoin. These are the things I think in shower. Edit: typo fix
-
-10h ago
-
----
-
-**[watching what's happening between iran and israel and all i can think about is bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjm592/watching_whats_happening_between_iran_and_israel/)**
-
-not trying to make this political. just an observation. every time there's serious geopolitical tension, the same thing happens. local currencies in affected regions get crushed. people scramble to move money. banks slow down or freeze transfers. capital starts looking for exits. we saw it with iran's rial. been one of the worst performing currencies on earth for years. ordinary people there aren't losing money because they made bad investments. they're losing it because they had no alternative to a currency being destroyed by sanctions and inflation simultaneously. bitcoin doesn't care about any of that. no sanctions can stop a transaction on chain. no government can print more of it. if you hold your own keys nobody can freeze it. the thing is most people in stable countries see bitcoin as a speculative asset. people living through currency collapse see it as survival infrastructure. i just keep thinking about that gap in perspective every time i set my weekly dca and it runs automatically regardless of what's happening in the news. the macro case for a fixed supply asset outside government control isn't getting weaker. it's getting more obvious by the week.
-
-5h ago
+1h ago
 
 ---
 
@@ -111,7 +109,23 @@ not trying to make this political. just an observation. every time there's serio
 
 Haven't heard much buzz about an approaching milestone - in 2-3 weeks we will have officially mined the 20 millionth Bitcoin. Looking for a good website to track this? Currently at 19,996,779. https://preview.redd.it/86qf15rnltmg1.png?width=732&format=png&auto=webp&s=1d1d4c1ee5ebbf6f74bf01d0c653d41c55bdd12b
 
-4h ago
+5h ago
+
+---
+
+**[watching what's happening between iran and israel and all i can think about is bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjm592/watching_whats_happening_between_iran_and_israel/)**
+
+not trying to make this political. just an observation. every time there's serious geopolitical tension, the same thing happens. local currencies in affected regions get crushed. people scramble to move money. banks slow down or freeze transfers. capital starts looking for exits. we saw it with iran's rial. been one of the worst performing currencies on earth for years. ordinary people there aren't losing money because they made bad investments. they're losing it because they had no alternative to a currency being destroyed by sanctions and inflation simultaneously. bitcoin doesn't care about any of that. no sanctions can stop a transaction on chain. no government can print more of it. if you hold your own keys nobody can freeze it. the thing is most people in stable countries see bitcoin as a speculative asset. people living through currency collapse see it as survival infrastructure. i just keep thinking about that gap in perspective every time i set my weekly dca and it runs automatically regardless of what's happening in the news. the macro case for a fixed supply asset outside government control isn't getting weaker. it's getting more obvious by the week.
+
+6h ago
+
+---
+
+**[River: Fidelity, Bank of America, Morgan Stanley Back 1–5% Bitcoin Allocation](https://www.reddit.com/r/Bitcoin/comments/1rjr1r5/river_fidelity_bank_of_america_morgan_stanley/)**
+
+River reports Fidelity, Bank of America and Morgan Stanley recommend a 1–5% Bitcoin allocation as institutional adoption accelerates.
+
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/river-fidelity-bank-of-america-morgan-stanley-back-15-bitcoin-allocation/) • 2h ago
 
 ---
 
@@ -125,7 +139,7 @@ Thailand has officially introduced a 0% capital gains tax policy that applies to
 
 **[Bitcoin demonetizes violence and it monetizes peace and love](https://www.reddit.com/r/Bitcoin/comments/1rj3tub/bitcoin_demonetizes_violence_and_it_monetizes/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -133,23 +147,7 @@ Thailand has officially introduced a 0% capital gains tax policy that applies to
 
 I was too young to catch the early Bitcoin wave, and like most people, I didn’t have the capital back then to really dive in. Now that I studied bitcoin and now that I finally understand its value, I feel like I missed the boat, and I'm sure many people feel this way as well, which is exactly why so many people pour money into scrappy altcoins today. We’re all trying to recreate that x100 miracle from a decade ago, trying to find Bitcoin 2.0 or recreate the financial success of early Bitcoiners. But after looking at the history, I think we’re chasing the wrong thing. Bitcoin’s success wasn't the technicals, it was a monetary phenomenon built on omissions. Most projects today are sooo noisy. They have CEOs, marketing teams, and roadmaps, they are always sharing. But Bitcoin had none of these. It had: - Zero road map - No Issuer - No Sales The x100 gains of the past didn't come from a tech breakthrough; they came from the silence and the mutual patience. If we want to find that opportunity again, we have to stop looking for the loudest roadmap or most hyped alt coin and start looking for the project with the courage to stay quiet, and doing their own thing. IDK... Maybe it's too late, we are already too addicted to the noise of modern finance, in bringing ETF's and L2 roadmaps and bringing institutions and Wall Street into Bitcoin. Are we DOOMED?
 
-9h ago
-
----
-
-**[River: Fidelity, Bank of America, Morgan Stanley Back 1–5% Bitcoin Allocation](https://www.reddit.com/r/Bitcoin/comments/1rjr1r5/river_fidelity_bank_of_america_morgan_stanley/)**
-
-River reports Fidelity, Bank of America and Morgan Stanley recommend a 1–5% Bitcoin allocation as institutional adoption accelerates.
-
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/river-fidelity-bank-of-america-morgan-stanley-back-15-bitcoin-allocation/) • 1h ago
-
----
-
-**[Dubai Turned Off Its Stock Market. Nobody Can Turn Off Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1riq1fv/dubai_turned_off_its_stock_market_nobody_can_turn/)**
-
-When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept trading. Here's why that matters more than any price chart right now.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 1d ago
+10h ago
 
 ---
 
@@ -157,33 +155,41 @@ When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept tradi
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Plunges as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
+**[MARA opens door to selling stockpiled bitcoin in new policy shift](https://www.theblock.co/post/391979/mara-opens-door-to-selling-stockpiled-bitcoin-in-new-policy-shift)**
 
-Bloomberg • 5h ago
+MARA has expanded its policy to allow balance sheet bitcoin sales after reporting a $422.2 million fair-value decline in 2025.
 
----
-
-**[Better Buy in 2026: Bitcoin or Silver? The Answer Couldn't Be Clearer for Long-Term Investors.](https://www.fool.com/investing/2026/03/02/better-buy-in-2026-bitcoin-or-silver-the-answer-co/)**
-
-Production and supply dynamics tell the whole story here.
-
-The Motley Fool • 18h ago
+The Block • 4h ago
 
 ---
 
-**[Arthur Hayes Says Bitcoin Price at $750,000 by 2027 Because Of Money Printing](https://finance.yahoo.com/news/arthur-hayes-says-bitcoin-price-142143262.html)**
+**[Bitcoin Slides as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
 
-Arthur Hayes is not backing down on his Bitcoin price predictions.The BitMEX co-founder is sticking to his bold call: $250,000 Bitcoin in 2026, then $750,000 in 2027. In his view, this cycle is not about charts. It is about liquidity.Hayes argues the Trump administration will eventually flood the system with ...
+Bloomberg • 6h ago
+
+---
+
+**[Over 15,000 BTC sold and more coming as public miners pivot to AI](https://www.coindesk.com/markets/2026/03/03/end-of-bitcoin-hodl-public-miners-going-all-in-on-ai-signaling-more-btc-selling)**
+
+Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin treasuries to AI infrastructure.
+
+CoinDesk • 1h ago
+
+---
+
+**[New study finds AI models prefer Bitcoin and digital money over traditional fiat currency](https://finance.yahoo.com/news/study-finds-ai-models-prefer-151900905.html)**
+
+The Bitcoin Policy Institute (BPI), a nonpartisan research organization, released new research today examining how frontier AI models would choose to transact if they were operating as autonomous economic agents. The study tested 36 models from six leading AI providers—Anthropic, DeepSeek, Google, MiniMax, OpenAI, and xAI—across 9,072 open-ended monetary scenarios designed to be neutral, with no suggested currencies or predetermined answers.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Trump-backed American Bitcoin expands owned mining capacity by anticipated 12% to 28.1 EH/s](https://www.theblock.co/post/391996/trump-backed-american-bitcoin-expands-owned-mining-capacity?utm_source=markets.xml&utm_medium=rss)**
+**[Paraguay Eyes Seized Miners For Government Bitcoin Project](https://bitcoinmagazine.com/featured/paraguay-miners-bitcoin-mining)**
 
-The expansion will support American Bitcoin's strategy of accumulating BTC below spot prices after posting a 53% gross margin in Q4.
+Paraguay’s state utility is teaming up with Morphware to turn 30,000 seized miners into the country’s first government-run Bitcoin operation.
 
-The Block • 2h ago
+Bitcoin Magazine • 21m ago
 
 ---
 
@@ -191,15 +197,7 @@ The Block • 2h ago
 
 Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
 
-Fox News • 15h ago
-
----
-
-**[Bitcoin is making a bottom, says VanEck Funds' Jan van Eck](https://www.cnbc.com/video/2026/03/02/bitcoin-is-making-a-bottom-says-vaneck-funds-jan-van-eck.html)**
-
-CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
-
-CNBC • 20h ago
+Fox News • 16h ago
 
 ---
 
@@ -211,6 +209,12 @@ The Block • 1d ago
 
 ---
 
+**[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
+
+Bloomberg • 1d ago
+
+---
+
 **[MicroStrategy Boosts STRC Dividend to 11.50% as Bitcoin Drawdown Pressures MSTR](https://finance.yahoo.com/news/microstrategy-boosts-strc-dividend-11-050852867.html)**
 
 Strategy lifts STRC preferred dividend to 11.50% for March 2026, its 7th hike, as MSTR falls 14.77% YTD on BTC drawdown.
@@ -219,17 +223,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
+**[Bitcoin is making a bottom, says VanEck Funds' Jan van Eck](https://www.cnbc.com/video/2026/03/02/bitcoin-is-making-a-bottom-says-vaneck-funds-jan-van-eck.html)**
 
-Bloomberg • 1d ago
+CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
 
----
-
-**[Texas’ $10M bitcoin investment slips into the red amid crypto price dive](https://www.dallasnews.com/business/2026/03/02/texas-10m-bitcoin-investment-slips-into-the-red-amid-crypto-price-dive/)**
-
-As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
-
-Dallas News • 22h ago
+CNBC • 21h ago
 
 ---
 
@@ -275,7 +273,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 **[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
 
-⬆️ 2 • 💬 2 • 18h ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
+⬆️ 2 • 💬 2 • 19h ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
 
 ---
 
@@ -317,7 +315,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 159 • ⏱️ 10:14 • 16h ago
+👁️ 41K • 👍 2K • 💬 159 • ⏱️ 10:14 • 17h ago
 
 ---
 
@@ -327,7 +325,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 904 • 💬 158 • ⏱️ 8:26 • 14h ago
+👁️ 14K • 👍 904 • 💬 158 • ⏱️ 8:26 • 15h ago
 
 ---
 
@@ -337,7 +335,7 @@ War in the Middle East just triggered a potential global energy crisis, and mark
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 259 • ⏱️ 16:46 • 17h ago
+👁️ 19K • 👍 2K • 💬 259 • ⏱️ 16:46 • 18h ago
 
 ---
 
@@ -347,7 +345,7 @@ Bitcoin usually gets a rally into early March, then forms a lower high and goes 
 
 📺 Benjamin Cowen
 
-👁️ 84K • 👍 5K • 💬 247 • ⏱️ 21:27 • 23h ago
+👁️ 84K • 👍 5K • 💬 247 • ⏱️ 21:27 • 1d ago
 
 ---
 
@@ -357,7 +355,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 789 • 💬 216 • ⏱️ 9:51 • 23h ago
+👁️ 16K • 👍 789 • 💬 216 • ⏱️ 9:51 • 1d ago
 
 ---
 
@@ -367,7 +365,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 15K • 👍 883 • 💬 245 • ⏱️ 22:51 • 11h ago
+👁️ 15K • 👍 883 • 💬 245 • ⏱️ 22:51 • 12h ago
 
 ---
 
@@ -397,7 +395,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 202 • 💬 23 • ⏱️ 4:59 • 17h ago
+👁️ 3K • 👍 202 • 💬 23 • ⏱️ 4:59 • 18h ago
 
 ---
 
@@ -407,7 +405,7 @@ Nick Valdez looks at war's effect on Bitcoin and the results are shocking! When 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 203 • 💬 14 • ⏱️ 5:04 • 16h ago
+👁️ 5K • 👍 203 • 💬 14 • ⏱️ 5:04 • 17h ago
 
 ---
 
