@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-03T10:40:53.455646+00:00'
+updated: '2026-03-03T11:33:17.648961+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 03, 2026 at 10:40 UTC  
+**Last Updated:** March 03, 2026 at 11:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 📄 Paper: https://arxiv.org/abs/2602.23843 🌐 Project: https://extreme-humanoid.github.io 💻 Code: https://github.com/Perkins729/OmniXtreme From Siyuan Huang on 𝕏: https://x.com/siyuanhuang95/status/2028506522633073132 "... we developed OmniXtreme: the first general policy that can execute diverse extreme motions, including consecutive flips, extreme balancing, and even breakdancing with rapid contact switches! This capability is achieved by pre-training a flow-based generative control policy and then post-training with actuation-aware residual RL for complex physical dynamics—a step we found critical for successful real-world transfer. This work is a joint collaboration with Unitree Robotics."
 
-43m ago
+1h ago
 
 ---
 
@@ -56,7 +56,7 @@ Robotics research and industry news
 
 I’ve just finished the soldering for the controller for my 6-axis robot. You may notice that there are only 5 drivers and that is because two went bad and I’m waiting on replacements. I also installed the I2C MUX that will interface with the magnetic encoders. Please leave any questions, comments, or advice in the comments, I really appreciate it! More updates on the way.
 
-9h ago
+10h ago
 
 ---
 
@@ -64,7 +64,7 @@ I’ve just finished the soldering for the controller for my 6-axis robot. You m
 
 Competition toolkit is available here. With additional context on Open Robotics Discourse. Competition details can be found here. Two competition sessions will be held tomorrow, March 3rd (they will be recorded). Session 1: March 3rd: 9-10am PT / 5-6pm UTC (US/Europe friendly) Session 2: March 3rd: 5-6pm PT / March 4th 1-2 am UTC (US/APAC friendly)
 
-10h ago
+11h ago
 
 ---
 
@@ -72,7 +72,7 @@ Competition toolkit is available here. With additional context on Open Robotics 
 
 Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ It took a while to make this video and project it was really exhausting but afte
 
 (Budget-Conscious) ​The Body: ​"I'm currently blueprinting a medium-scale (approx. 1.2m) bipedal robot project. My goal is to achieve fluid, natural movement without jumping immediately into high-cost industrial servos like HEBI or Dynamixel X-series. ​Actuation: Has anyone had success with 'quasi-direct drive' (QDD) using high-torque brushless motors (like the T-Motor series) for hip/knee joints to keep costs down while maintaining back-drivability? ​Power: I'm considering a 24V vs 48V system. For a home-built rig, is the complexity of 48V worth the efficiency gains, or is 24V the 'sweet spot' for component availability? ​Phasing: If you were building this on a budget, which subsystems would you 'overbuild' first, and where would you suggest using 3D-printed load-bearing parts vs. CNC aluminum? ​Looking for 'scrappy' but reliable engineering paths. Thanks!"
 
-6h ago
+7h ago
 
 ---
 
@@ -102,7 +102,7 @@ Arms are officially mounted to the chest 🙌 Upper body is coming together, now
 
 **[Improve the Wi-Fi card on the G1 robot.](https://www.reddit.com/r/robotics/comments/1rj9pmd/improve_the_wifi_card_on_the_g1_robot/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 1d ago
 
 Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Scientific American • 22h ago
+Scientific American • 23h ago
 
 ---
 
@@ -130,7 +130,7 @@ Scientific American • 22h ago
 
 The humanoid robot market is estimated to hit $5 trillion by 2050. Hyundai and Tesla are positioned as two of the industry leaders.
 
-Interesting Engineering • 13h ago
+Interesting Engineering • 14h ago
 
 ---
 
@@ -138,7 +138,7 @@ Interesting Engineering • 13h ago
 
 Klaus Rosenfeld, CEO of Schaeffler, tells CNBC he sees humanoid robotics as a major growth driver that will power the company’s next transformation. He says the technology is designed to support workers, not replace them. His comments come after Schaeffler issued a cautious outlook for 2026, with high one‑off expenses weighing on full‑year earnings.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -168,13 +168,13 @@ Adafruit • 17h ago
 
 Chinese gains in robotics show that nations wishing to compete must go beyond financial engineering to master their physical realities.
 
-South China Morning Post • 2h ago
+South China Morning Post • 3h ago
 
 ---
 
 **[Kraken Robotics Stock (KRKNF) Is Up 33% YTD: What’s Next for the Marine Tech Firm?](https://www.tipranks.com/news/kraken-robotics-stock-krknf-is-up-33-ytd-whats-next-for-the-marine-tech-firm)**
 
-TipRanks • 20h ago
+TipRanks • 21h ago
 
 ---
 
@@ -204,7 +204,7 @@ War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the u
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 405 • 💬 98 • ⏱️ 17:41 • 19h ago
+👁️ 7K • 👍 405 • 💬 98 • ⏱️ 17:41 • 20h ago
 
 ---
 
@@ -242,7 +242,7 @@ Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown 63600E Eaglebots showc
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 48 • 💬 8 • ⏱️ 1:09 • 10h ago
+👁️ 2K • 👍 48 • 💬 8 • ⏱️ 1:09 • 11h ago
 
 ---
 

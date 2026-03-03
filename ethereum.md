@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-03T10:40:53.452441+00:00'
+updated: '2026-03-03T11:33:17.645724+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 10:40 UTC  
+**Last Updated:** March 03, 2026 at 11:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[I built a decentralized file vault where only your crypto wallet can decrypt your data — no centralized providers holds your encryption keys](https://www.reddit.com/r/ethereum/comments/1rjhxgu/i_built_a_decentralized_file_vault_where_only/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Maybe unpopular take, but I don’t think RWA is a “narrative” anymore. A few cycles ago, yield on Ethereum mostly meant emissions. Liquidity mining. Governance token incentives. Boosted pools. You could almost feel the dilution in real time. It worked. Until it didn’t. The structural issue was obvious in hindsight: yield funded by token inflation isn’t the same as yield funded by external cashflow. One depends on reflexivity. The other depends on actual economic activity somewhere outside the EVM. That’s why RWA keeps resurfacing here. Centrifuge tried collateralized real-world assets. Maple leaned into institutional credit. Ondo pushed tokenized Treasuries into DeFi rails. Goldfinch experimented with undercollateralized lending. Different risk models. Same direction: Ethereum as settlement for off-chain cashflows. I’ve been looking at 8lends recently from a portfolio construction angle. RWA-backed lending, fixed monthly payouts, structured more like credit exposure than a farm. Not exciting. Which is kind of the point. Fixed doesn’t mean safe. It just means the risk moves. From token dilution and volatility to underwriting quality and legal enforceability. But if Ethereum wants to evolve beyond cyclical liquidity games, it probably needs primitives that aren’t purely reflexive. So the real question for this sub: Is RWA a necessary evolution for Ethereum DeFi, or are we just wrapping TradFi risk and calling it innovation? And how much transparency would you need before allocating capital to an RWA protocol?
 
-13h ago
+14h ago
 
 ---
 
@@ -110,7 +110,7 @@ Maybe unpopular take, but I don’t think RWA is a “narrative” anymore. A fe
 
 Please help me it’s a large amount, is it lost forever? USDT to a USDC address sorry for typo
 
-12h ago
+13h ago
 
 ---
 
@@ -126,7 +126,7 @@ Manage a DAO with about $8m in treasury. Part of my role is evaluating grant app
 
 I’ve always felt that the biggest hurdle for decentralized identity was the "black box" problem of physical hardware. Most of us here have followed the controversy surrounding the Orb and the inherent trust issues that come with proprietary biometric sensors. It’s a classic security vs. privacy trade-off that usually ends in a stalemate. However, the recent open-sourcing of the Remainder prover marks a pretty significant shift in the technical architecture that’s worth looking at from an Ethereum-centric perspective. We’re essentially seeing the transition from "Trust the Gadget" to "Verify the Math". By moving the heavy ML processing from a physical device directly to a user’s smartphone using a GKR + Hyrax-based proof system, we’re entering the territory of production-grade ZK-ML on consumer hardware. This is a massive engineering leap because running machine learning layers locally and generating a ZK-proof that the model was executed correctly - without the raw data ever leaving the device - is exactly the kind of client-side verifiability we’ve been talking about for years. It turns the phone into a verifiable node of trust, potentially making the physical Orb a one-time gateway rather than a permanent central authority. This is more than just an update to a single project; it’s a high-stakes stress test for ZK-SNARKs on the edge. If we can prove that high-performance provers can handle complex ML inferences on mobile GPUs without compromising privacy or draining the battery, it changes the game for everything from Proof-of-Personhood to private DAO voting. It’s a fascinating pivot from hardware-centric identity to a math-first approach, and I’m curious if this finally bridges the gap for those who were previously put off by the centralized nature of the initial setup.
 
-14h ago
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ Now, execution layer changes. I've already talked about account abstraction, mul
 
 Bitmine chair Tom Lee says company keeps accumulating ETH during market pullback while targeting $253M in annual staking rewards.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 19h ago
 
 Strategy and BitMine continue to aggressively acquire BTC and ETH, undeterred by significant unrealized losses. Combined paper losses for the two firms now top $16 ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 2h ago
 
 Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,976 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.71% of the...
 
-PR Newswire • 21h ago
+PR Newswire • 22h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 1d ago
 
 Once the crypto slump passes, Ethereum is positioned to soar.
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 20m ago
 
 Another focus of his post is so-called “toxic MEV,” where traders exploit visibility into pending transactions to front-run or “sandwich” users’ trades.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -218,7 +218,7 @@ Polymarket • 2d ago
 
 Crypto markets turned green today. Bitcoin surged past $68,000 and briefly traded near $69,500, rising about 5% in just 50 minutes. The move added roughly $60 billion to Bitcoin’s market capitalization.Ethereum followed closely, breaking above $2,000 and climbing nearly 6% within the same window, a…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -226,7 +226,7 @@ TradingView • 18h ago
 
 Once the crypto slump passes, Ethereum is positioned to soar.
 
-The Motley Fool • 40m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -240,7 +240,7 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 26K • 👍 3K • 💬 62 • ⏱️ 8:18 • 23h ago
+👁️ 26K • 👍 3K • 💬 62 • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/Paino
 
 📺 Pain of Crypto
 
-👁️ 1K • 👍 77 • 💬 25 • ⏱️ 6:27 • 12h ago
+👁️ 1K • 👍 77 • 💬 25 • ⏱️ 6:27 • 13h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 122 • 💬 19 • ⏱️ 5:31 • 8h ago
+👁️ 1K • 👍 122 • 💬 19 • ⏱️ 5:31 • 9h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN & ALTCOIN WARNING: Time Running Out!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 240 • 💬 13 • ⏱️ 15:51 • 9h ago
+👁️ 5K • 👍 240 • 💬 13 • ⏱️ 15:51 • 10h ago
 
 ---
 
@@ -290,7 +290,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 642 • 👍 19 • 💬 5 • ⏱️ 5:09 • 15h ago
+👁️ 642 • 👍 19 • 💬 5 • ⏱️ 5:09 • 16h ago
 
 ---
 
@@ -320,7 +320,7 @@ Qual será o futuro do Ethereum nos próximos anos? Neste vídeo, faço uma aná
 
 📺 Orlando on Crypto
 
-👁️ 2K • 👍 475 • 💬 13 • ⏱️ 15:57 • 11h ago
+👁️ 2K • 👍 475 • 💬 13 • ⏱️ 15:57 • 12h ago
 
 ---
 
@@ -330,7 +330,7 @@ This HIGH YIELD Dividend ETF is Winning when ETH runs back up! What are your tho
 
 📺 Spencer Invests
 
-👁️ 1K • 👍 34 • 💬 6 • ⏱️ 1:01 • 7h ago
+👁️ 1K • 👍 34 • 💬 6 • ⏱️ 1:01 • 8h ago
 
 ---
 
