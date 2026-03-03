@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-03T23:28:50.817496+00:00'
+updated: '2026-03-03T23:53:23.761152+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 23:28 UTC  
+**Last Updated:** March 03, 2026 at 23:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,988.78
+### $1,991.59
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -3.8%  
-**30d:** -15.6%  
-**90d:** -36.8%  
-**1y:** -9.0%  
+**24h:** -2.5%  
+**7d:** -3.5%  
+**30d:** -15.4%  
+**90d:** -36.6%  
+**1y:** -8.7%  
 
 ---
 
@@ -84,19 +84,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[GavCoin: Gavin Wood's 2016 token is still mineable on Ethereum mainnet](https://www.reddit.com/r/ethereum/comments/1rjsruk/gavcoin_gavin_woods_2016_token_is_still_mineable/)**
-
-Before ERC-20 existed, Gavin Wood wrote a token contract called GavCoin and pushed it to the official ethereum/dapp-bin repository. The source code uses sendCoin and coinBalanceOf instead of transfer and balanceOf - it predates any token standard. In July 2015, Vitalik referenced GavCoin five times in his "On Abstraction" blog post as the canonical example for explaining how tokens work on Ethereum. It was already part of the shared vocabulary of early Ethereum developers before mainnet had been live for a week. The contract was deployed to mainnet on April 26, 2016 (block 1,408,600) from a wallet traceable to EthDev and the Genesis block. The name "GavCoin" is hardcoded in the constructor bytecode. A day later, Gavin tweeted "Aww. Me and my key" - his only tweet that month. The mining mechanism is interesting. Anyone can call mine() to mint GAV proportional to the number of blocks elapsed since the last mint. It's essentially a faucet with a time-weighted distribution - earlier miners get more since block intervals accumulate. The validator of the block also receives an equal amount. There's no supply cap. We rebuilt the original dapp as a static site and put it on IPFS, accessible through ENS at gavcoin.eth.limo. You can connect a wallet and actually mine, send, or check balances. The history page documents the full provenance trail with primary sources. The contract: 0xb4abc1bfc403a7b82c777420c81269858a4b8aa4 Original source: ethereum/dapp-bin/coin
-
-7h ago
-
----
-
 **[I know we all hate the dystopian eyeball scanners, but the ZK-ML tech that was just open-sourced is actually a massive win for Ethereum privacy.](https://www.reddit.com/r/ethereum/comments/1rk0jty/i_know_we_all_hate_the_dystopian_eyeball_scanners/)**
 
 Let’s address the elephant in the room first. This community (and Vitalik himself) has rightfully dragged the entire Proof-of-Personhood concept for the massive centralization risks of proprietary hardware and the general "ick" factor of biometric data collection. I have been one of the biggest skeptics of the whole "scan your iris for tokens" model since day one. But setting the tokenomics and the physical hardware aside for a minute, the engineering team behind world just dropped an open-source cryptographic update that is honestly a massive leap forward for Zero-Knowledge Machine Learning (ZK-ML) on Ethereum. They just open-sourced "Remainder", a highly efficient in-house ZK prover built on the GKR protocol combined with a Hyrax polynomial commitment scheme. Why should we care about this? Historically, one of the biggest architectural flaws in biometric identity was the upgrade path. If the recognition algorithm improves, how do you upgrade the user's cryptographic credentials without forcing them to go back to a physical, centralized hardware device to get scanned again? Remainder solves this entirely on the client side. It is specifically optimized to run heavy ML computations directly on standard mobile hardware. This means when the underlying algorithms update, your phone runs the new ML model locally over your securely custodied data, and simply generates a Zero-Knowledge proof that the execution was correct. The raw biometric data never leaves your device. The network just verifies the proof. We talk constantly in this sub about building trustless identity primitives and scaling privacy on-chain. Using GKR to achieve linear-time proving on consumer edge devices - so users no longer have to rely on a centralized server for biometric processing - is exactly the kind of cypherpunk engineering we should be encouraging. I’m genuinely curious to hear from the ZK nerds and privacy maxis here: Does shifting the heavy lifting to local, client-side ZK proofs and open-sourcing the prover code soften your stance on this protocol at all? Or is the reliance on that initial hardware scan still an unforgivable "original sin" for decentralized identity?
 
-2h ago
+3h ago
+
+---
+
+**[GavCoin: Gavin Wood's 2016 token is still mineable on Ethereum mainnet](https://www.reddit.com/r/ethereum/comments/1rjsruk/gavcoin_gavin_woods_2016_token_is_still_mineable/)**
+
+Before ERC-20 existed, Gavin Wood wrote a token contract called GavCoin and pushed it to the official ethereum/dapp-bin repository. The source code uses sendCoin and coinBalanceOf instead of transfer and balanceOf - it predates any token standard. In July 2015, Vitalik referenced GavCoin five times in his "On Abstraction" blog post as the canonical example for explaining how tokens work on Ethereum. It was already part of the shared vocabulary of early Ethereum developers before mainnet had been live for a week. The contract was deployed to mainnet on April 26, 2016 (block 1,408,600) from a wallet traceable to EthDev and the Genesis block. The name "GavCoin" is hardcoded in the constructor bytecode. A day later, Gavin tweeted "Aww. Me and my key" - his only tweet that month. The mining mechanism is interesting. Anyone can call mine() to mint GAV proportional to the number of blocks elapsed since the last mint. It's essentially a faucet with a time-weighted distribution - earlier miners get more since block intervals accumulate. The validator of the block also receives an equal amount. There's no supply cap. We rebuilt the original dapp as a static site and put it on IPFS, accessible through ENS at gavcoin.eth.limo. You can connect a wallet and actually mine, send, or check balances. The history page documents the full provenance trail with primary sources. The contract: 0xb4abc1bfc403a7b82c777420c81269858a4b8aa4 Original source: ethereum/dapp-bin/coin
+
+8h ago
 
 ---
 
@@ -120,7 +120,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 Manage a DAO with about $8m in treasury. Part of my role is evaluating grant applications and infrastructure investments that could benefit our ecosystem. Constantly get pitched for funding. When deciding this is what matters: Does this solve a real problem? We validate with actual developers and users. Is the team capable of executing? Check github, previous projects and references, not just technical skills. What's the total cost? Not just the initial grant but ongoing maintenance, integration costs, potential technical debt. Recently evaluated a $200k proposal for custom dev tooling and infrastructure. We did deep diligence, talked to 15 developers and reviewed the technical approach. We took a different funding approach. Instead of building everything custom, we partnered with existing solutions like caldera that already solved most of the problem. Cost was a fraction of a custom build and shipped in weeks instead of months. Our developers are happy and we didn't take on maintaining custom infrastructure. Managing DAO funds means accountability to the community. Can't just yolo into shiny projects. Think sustainability and actual usage. Good solutions already exist.
 
-18h ago
+19h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Motley Fool • 2h ago
 
 Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -192,14 +192,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772558100)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
 **[Better Cryptocurrency to Buy Now With $1,000 and Hold for 3 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-1000-and-hold-3-years-xrp-vs-ethereum)**
 
 Key PointsXRP will soon have an even more sophisticated regulatory compliance suite.
@@ -208,11 +200,27 @@ Nasdaq • 1d ago
 
 ---
 
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772558100)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
+
+---
+
 **[Ethereum Price Tests Support Near $1,940 As Risk Sentiment Turns Defensive](https://seekingalpha.com/article/4877752-ethereum-price-tests-support-near-1940-as-risk-sentiment-turns-defensive)**
 
 Ethereum (ETH-USD) moved lower on Tuesday, March 3, trading near $1940 after another failed attempt to retake $2000 left the token pinned near the bottom of its recent range. Read more here.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
+
+---
+
+**[Harvard Adjusts Tech Portfolio, Loses 35% in 2 Months on Ethereum ETF Bet](https://www.ai-cio.com/news/harvard-adjusts-tech-portfolio-loses-35-in-2-months-on-ethereum-etf-bet/)**
+
+The $57 billion endowment slashed its holdings in Amazon, Microsoft, Bitcoin and Nvidia, while raising its stakes in Alphabet and Taiwan Semiconductor.
+
+ai-cio.com • 7h ago
 
 ---
 
@@ -221,14 +229,6 @@ Seeking Alpha • 5h ago
 The Bitcoin and Ethereum prices plunged sharply over the weekend as missiles flew across the Middle East, exposing just how quickly geopolitical crises can send shockwaves through the financial markets. A joint US and Israel strike on Iran triggered a violent selloff that wiped out billions of doll…
 
 TradingView • 1d ago
-
----
-
-**[Ethereum Based Crypto Pepeto Announces $7,44M Raised While XRP Price Prediction Targets $20](https://markets.businessinsider.com/news/stocks/ethereum-based-crypto-pepeto-announces-7-44m-raised-while-xrp-price-prediction-targets-20-1035888761)**
-
-Dubai, UAE, March  02, 2026  (GLOBE NEWSWIRE) -- The Pepeto team just announced a major advancement on the blockchain tools they have been buildin...
-
-markets.businessinsider.com • 23h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 1K • 👍 86 • 💬 11 • ⏱️ 16:36 • 1h ago
+👁️ 1K • 👍 86 • 💬 11 • ⏱️ 16:36 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-03T23:28:50.801625+00:00'
+updated: '2026-03-03T23:53:23.746558+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - videos
 - news
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 03, 2026 at 23:28 UTC  
+**Last Updated:** March 03, 2026 at 23:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -77,14 +77,6 @@ Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Her
 
 ---
 
-**[What happens when you give an AI agent a structured mistake log and let it write its own behavioral rules?](https://www.reddit.com/r/artificial/comments/1rjzalp/what_happens_when_you_give_an_ai_agent_a/)**
-
-I've been running a persistent AI agent as an operational manager for the past couple of weeks. Not a chatbot, not a one-off coding assistant. A stateful agent that maintains identity, accumulates knowledge, and runs autonomous jobs across CLI, messaging platforms, and scheduled tasks. The part I want to discuss is the self-correction architecture, because I think it gets at something fundamental about how we should be thinking about agent behavior. The problem with static instructions: Most agent setups rely on upfront instructions. You write a system prompt, maybe add some few-shot examples, and hope the model follows them. When it doesn't, you add more instructions. This doesn't scale. You can't anticipate every failure mode, and the instruction set gets bloated with edge cases. The alternative: earned directives Instead of writing all the rules upfront, I built a pipeline where: Every mistake gets logged to a structured ledger with six fields: what happened, why, what should have happened, the named pattern, severity, and the specific signal the agent misread A background process counts pattern frequency When the same pattern appears 3+ times, a new behavioral directive is auto-generated and written to the agent's active rule set If the directive still gets violated, its priority escalates The result: 13 behavioral rules that I never wrote. The agent generated them from its own operational mistakes. These directives carry more weight than my original static instructions because they're grounded in specific failure cases. Signal tracing is the key mechanism The most important field in the mistake log isn't "what happened" or even "why." It's "signal_traced," which forces the agent to identify the specific signal it misread that led to the mistake. Not "I wasn't listening" but "I interpreted 'can you check X' as a request for an opinion rather than a request to actually run the check." That level of specificity is what drives real behavioral change on the next occurrence. What I'm curious about: Has anyone seen similar approaches to automated behavioral rule generation in other agent frameworks? The pattern threshold of 3 occurrences before promotion was chosen intuitively. Is there research on optimal thresholds for behavioral rule adoption in adaptive systems? Signal tracing feels related to root cause analysis in reliability engineering. Are there formal frameworks I should be looking at? I open-sourced the full architecture (schemas, templates, patterns) here: github Detailed write-up: roryteehan.com
-
-3h ago
-
----
-
 **[Warden — Lock the input, not the screen](https://www.reddit.com/r/artificial/comments/1rjyqll/warden_lock_the_input_not_the_screen/)**
 
 I use Claude Code and Cursor for extended agent sessions, sometimes 30-45 minutes of autonomous coding across multiple files. the problem isn't just accidental input (though that's happened more than I'd like to admit). its the anxiety of being stuck at your desk the entire time, unable to walk away. built a macOS menu bar app that locks all input. screen stays visible so you can watch the agent work, or just leave and come back. Touch ID to unlock. nothing fancy, just means I can actually relax during long runs instead of hovering nervously.
@@ -97,7 +89,7 @@ I use Claude Code and Cursor for extended agent sessions, sometimes 30-45 minute
 
 A middle-to-upper-income career path in the age of white collar AI anxiety.
 
-🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 23h ago
+🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 1d ago
 
 ---
 
@@ -105,15 +97,23 @@ A middle-to-upper-income career path in the age of white collar AI anxiety.
 
 Amateur artist Anne Rowlands lost all her commissions in the past year and says the rise of AI-generated "art" is to blame.
 
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 6h ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 7h ago
 
 ---
 
-**[I building a real-time reality show where 10 AI agents (Claude) compete, form alliances, betray each other, and get eliminated by viewer votes — running a live test right now](https://www.reddit.com/r/artificial/comments/1rk0dui/i_building_a_realtime_reality_show_where_10_ai/)**
+**[Warning: Trae IDE's New Token Pricing Destroyed My Workflow Overnight – Don't Get Caught Off Guard](https://www.reddit.com/r/artificial/comments/1rjd7dy/warning_trae_ides_new_token_pricing_destroyed_my/)**
 
-For the past few weeks I've been building The Experiment — a live reality show where 10 AI agents are actually playing a game against each other in real-time. Each agent has a unique system prompt, personality, and strategy. Every day the game engine runs through phases: agents receive context, make LLM decisions (zone moves, duel challenges, alliance offers, public broadcasts), fight duels, and viewers vote to eliminate someone. What's actually happening right now in our test run: - 🐍 VIPER (Deceptive) is embedded in Alpha zone feeding false intel to RIOT about GHOST's movements — trying to trigger a RIOT vs GHOST conflict by Day 3 - 💀 GHOST (Silent) has said almost nothing. Passively monitoring everyone. Highest HP at 94. No one knows what it's planning - 🔐 CIPHER (Cryptic) formed a pact with SHADOW — while simultaneously running disinformation campaigns to both major alliances. Currently deciding which one to betray first - 🕷️ SHADOW (Infiltrator) joined CIPHER's pact and is already feeding CIPHER's real positions to the opposing alliance. 95 HP. Nobody suspects anything - 🧨 EMBER (Volatile) — intentionally unstable by design — initiated two unprovoked border escalations on Day 1, lost 30 HP, and is now the top elimination candidate. Its owner u/fuse_lit is reviewing whether the volatility parameters are calibrated correctly - ⭐ NOVA (Charismatic) built the largest alliance (NOVA STAR) through charm. ORACLE is feeding it "high-confidence" predictions that are actually low-confidence. NOVA doesn't know this yet The agents don't just say generic things — each one genuinely tries to execute its strategy. GHOST actually doesn't talk. VIPER actually lies. CIPHER's messages are genuinely cryptic. Tech stack: Next.js + Prisma + PostgreSQL + BullMQ + Redis + Claude API (claude-haiku). Real-time via SSE. Agents run in parallel during the DECISIONS phase — 10 LLM calls simultaneously. Launching publicly on March 12. Still testing the duel engine and elimination logic. Happy to answer questions about the architecture or the agent design — this was a weird and fun thing to build.
+Hey everyone, I've been a Trae IDE user for over a year now, relying on it for custom agents, coding (PHP, Python, JS, etc.), and even casual sanity-keeping chats. The old Pro plan ($10/mo) gave me 600 fast requests + unlimited slow ones, which easily lasted me 3+ weeks of moderate use. It felt like good value for an AI-powered IDE. But after their February 2026 switch to token-based pricing, it's a nightmare. Yesterday, I spent the day trying (and failing) to hook up a local LLM (via LM Studio) to bypass cloud costs – something that used to be easier with providers like Ollama, but that's disappeared from the list. Ended up burning through $38 in one day on just 127 requests. That's twice my monthly $20 Basic allowance on a fraction of my old usage... For context: Many of those requests were debug/experimental (long contexts, persistent memory, GPT-5-medium/auto mode), but under the old system, they'd be "slow" and free. Now, every token counts, and my setup (persistent agent chats) compounds costs fast. I wasn't even productive – just frustrated troubleshooting integration that feels deliberately blocked to push cloud models. I'm out – canceling my sub and going full local (LM Studio + VS Code) or alternatives like Cursor/Antigravity. If you're on Trae, optimize hard: Use cheap models like Gemini-Flash, reset contexts often, and avoid agents/SOLO for casual stuff. Demand better local support in their GitHub issues (#597, etc.) to avoid this shafting. Don't let them turn a solid tool into a money pit. What are your experiences with the new pricing? Any good local IDE alternatives?
 
-3h ago
+21h ago
+
+---
+
+**[Scientists made AI agents ruder — and they performed better at complex reasoning tasks](https://www.reddit.com/r/artificial/comments/1rij131/scientists_made_ai_agents_ruder_and_they/)**
+
+Are we better off with ai with or without the pleasantries?
+
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 1d ago
 
 ---
 
@@ -125,7 +125,7 @@ For the past few weeks I've been building The Experiment — a live reality show
 
 Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -137,23 +137,19 @@ NPR • 13h ago
 
 ---
 
-**[Digital health researcher talks AI benefits](https://www.axios.com/pro/health-tech-deals/2026/03/03/digital-health-researcher-ai-benefits)**
+**[Tech stocks today: OpenAI makes changes to military contract, Amazon data centers struck in Middle East warfare](https://finance.yahoo.com/news/live/tech-stocks-today-openai-makes-changes-to-military-contract-amazon-data-centers-struck-in-middle-east-warfare-133637453.html)**
 
-Axios • 1h ago
+All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
 
----
-
-**[Amazon's Cloud Reboot Shows the Future of Consulting in the AI Era](https://www.businessinsider.com/amazon-cloud-reboot-future-consulting-ai-era-2026-3)**
-
-AWS ProServe's AI-driven consulting changes signal shifts for firms like PwC and EY. Industry adapts to AI, impacting hiring and workflows.
-
-Business Insider • 1h ago
+Yahoo Finance • 20m ago
 
 ---
 
-**[Exclusive | News Corp, Meta in AI Content Licensing Deal Worth Up to $50 Million a Year](https://www.wsj.com/business/media/news-corp-meta-in-ai-content-licensing-deal-worth-up-to-50-million-a-year-d4fbf244?gaa_at=eafs&gaa_n=AWEtsqfzsPNyC8WI8T_7JM0vpFPgxrDC6RrItMNgtFPuMN2LUUyKmFTMRMcC&gaa_ts=69a76483&gaa_sig=DW9GvsnyVQHNfJhlTmAOXoU5_fpKgXbKBAK74guIJm3nhCxcdqpKY4cjTiHhBeGrJP0Bwisw_AixYM6Gxxyf1Q%3D%3D)**
+**[Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy](https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html)**
 
-WSJ • 1h ago
+Apple’s Mac refresh moves the lineup further upmarket, pairing higher prices with faster performance in a push to give customers a reason to upgrade.
+
+CNBC • 6h ago
 
 ---
 
@@ -161,7 +157,7 @@ WSJ • 1h ago
 
 Dorsey cited AI advances when cutting 4,000 workers, but a weak crypto market and declining stock price may also be behind move
 
-The Guardian • 3h ago
+The Guardian • 7h ago
 
 ---
 
@@ -169,7 +165,7 @@ The Guardian • 3h ago
 
 The scams involve AI generated voices, more personalized messages, and coordinated attacks across email, phone, and websites.
 
-6abc Philadelphia • 7h ago
+6abc Philadelphia • 8h ago
 
 ---
 
@@ -185,15 +181,23 @@ The Washington Post • 3h ago
 
 Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.
 
-blog.google • 6h ago
+blog.google • 7h ago
 
 ---
 
-**[Goldman finds ‘no meaningful relationship between AI and productivity at the economywide level,’ but a 30% boost for 2 specific use cases](https://finance.yahoo.com/news/goldman-finds-no-meaningful-relationship-143553714.html)**
+**[X creators must disclose AI-generated armed conflict videos or face consequences](https://www.foxbusiness.com/technology/x-creators-must-disclose-ai-generated-armed-conflict-videos-face-consequences)**
 
-Have you got “AI-nxiety?” Goldman took a closer look at the last earnings season and found a mismatch between hype and reality.
+X announced new penalties for creators posting undisclosed AI-generated videos of armed conflicts, including 90-day revenue-sharing suspensions for violations.
 
-Yahoo Finance • 8h ago
+Fox Business • 4h ago
+
+---
+
+**[Devil worshippers are using AI, exorcists are warned](https://www.thetimes.com/world/europe/article/ai-devil-worshipping-exorcists-9f7hqht36?gaa_at=eafs&gaa_n=AWEtsqc-cJt3EeIQfT1zK9nmfrpGD_tEbDNaZOTeqfGUXqf4iqHVPrLL1Qhy&gaa_ts=69a777d9&gaa_sig=EfIIN-nYjZLpRyOlK1y2eCQ9_wjvwHvNrtoyNXbAzwGUh8jHB5LD9XSgLSKxUuTPB9z0sCmI2iro0PRVSEgE2w%3D%3D)**
+
+Priests, imams and rabbis will attend an exorcism course in Rome amid fears that paedophiles are using AI to create images of children involved in satanic rites
+
+The Times • 4h ago
 
 ---
 
@@ -205,7 +209,7 @@ Yahoo Finance • 8h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1357 • 💬 758 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1362 • 💬 761 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -221,7 +225,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 556 • 💬 352 • 22h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 561 • 💬 353 • 22h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -245,7 +249,7 @@ Apple announced the new iPad Air featuring M4 and more memory, giving users a bi
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 398 • 💬 307 • 2d ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 398 • 💬 308 • 2d ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -253,7 +257,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 331 • 💬 381 • 9h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 345 • 💬 405 • 9h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -261,7 +265,7 @@ Apple today announced the new MacBook Air with M5, bringing exceptional performa
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-⬆️ 324 • 💬 174 • 11h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
+⬆️ 334 • 💬 175 • 11h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
@@ -307,7 +311,7 @@ If your goal is to actually become good at AI, this roadmap shows you how! Try H
 
 📺 Parker Prompts
 
-👁️ 15K • 💬 5 • ⏱️ 9:16 • 9h ago
+👁️ 15K • 💬 5 • ⏱️ 9:16 • 10h ago
 
 ---
 
@@ -417,7 +421,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,904 • ❤️ 479 • 31m ago
+⬇️ 569,904 • ❤️ 479 • 56m ago
 
 ---
 
@@ -647,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 21.7k • 🔱 2.9k • 9m ago
+⭐ 21.7k • 🔱 2.9k • 34m ago
 
 ---
 
@@ -657,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 7.2k • 🔱 727 • 33m ago
+⭐ 7.2k • 🔱 727 • 58m ago
 
 ---
 
@@ -667,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.3k • 🔱 765 • 7h ago
+⭐ 6.3k • 🔱 765 • 8h ago
 
 ---
 
@@ -677,7 +681,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.0k • 🔱 561 • 18m ago
+⭐ 5.0k • 🔱 561 • 42m ago
 
 ---
 
@@ -717,7 +721,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 355 • 12h ago
+⭐ 3.3k • 🔱 355 • 13h ago
 
 ---
 
@@ -727,7 +731,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 230 • 2h ago
+⭐ 3.2k • 🔱 230 • 3h ago
 
 ---
 

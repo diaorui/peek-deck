@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-03T23:28:50.811187+00:00'
+updated: '2026-03-03T23:53:23.755083+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 23:28 UTC  
+**Last Updated:** March 03, 2026 at 23:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +0.5%  
-**30d:** -13.3%  
-**90d:** -25.9%  
-**1y:** -21.7%  
+**24h:** -0.9%  
+**7d:** +0.8%  
+**30d:** -13.1%  
+**90d:** -25.7%  
+**1y:** -21.5%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
 
-9h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 **[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -115,7 +115,7 @@ The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $1
 
 As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A quick google tells me that there are ~60 million millionaires in the world, of which ~24 million live in the states alone. That is a lot more millionaires than bitcoins and I bet you can guess where I'm going with this. If every (or even every third) millionaire wants to buy a single bitcoin, there will not be enough bitcoins for everyone, the price would squeeze through the roof. Why this doesn't happen? I believe a single bitcoin in fiat price is well within the liquidity of almost every millionaire, or at least with some reallocation. Enough actually rich rich people just don't care for crypto? Or is the defining limit of a millionaire so loose that most of the 60M people actually don't have the cash to buy a single bitcoin. These are the things I think in shower. Edit: typo fix
 
-17h ago
+18h ago
 
 ---
 
@@ -123,7 +123,7 @@ As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A qui
 
 River reports Fidelity, Bank of America and Morgan Stanley recommend a 1–5% Bitcoin allocation as institutional adoption accelerates.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/river-fidelity-bank-of-america-morgan-stanley-back-15-bitcoin-allocation/) • 8h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/river-fidelity-bank-of-america-morgan-stanley-back-15-bitcoin-allocation/) • 9h ago
 
 ---
 
@@ -135,14 +135,6 @@ Haven't heard much buzz about an approaching milestone - in 2-3 weeks we will ha
 
 ---
 
-**[watching what's happening between iran and israel and all i can think about is bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjm592/watching_whats_happening_between_iran_and_israel/)**
-
-not trying to make this political. just an observation. every time there's serious geopolitical tension, the same thing happens. local currencies in affected regions get crushed. people scramble to move money. banks slow down or freeze transfers. capital starts looking for exits. we saw it with iran's rial. been one of the worst performing currencies on earth for years. ordinary people there aren't losing money because they made bad investments. they're losing it because they had no alternative to a currency being destroyed by sanctions and inflation simultaneously. bitcoin doesn't care about any of that. no sanctions can stop a transaction on chain. no government can print more of it. if you hold your own keys nobody can freeze it. the thing is most people in stable countries see bitcoin as a speculative asset. people living through currency collapse see it as survival infrastructure. i just keep thinking about that gap in perspective every time i set my weekly dca and it runs automatically regardless of what's happening in the news. the macro case for a fixed supply asset outside government control isn't getting weaker. it's getting more obvious by the week.
-
-12h ago
-
----
-
 **[They are desperately trying to keep you away from Bitcoin… (i can prove it)](https://www.reddit.com/r/Bitcoin/comments/1rk1qrn/they_are_desperately_trying_to_keep_you_away_from/)**
 
 Bitcoin FUD has been pumping nonstop. (New pieces every couple days in FT, NYT, Bloomberg, you name it.) And it’s working on retail, most normal people won't touch bitcoin right now. But while we might be in a "bear market" in Bitcoin’s price, there is *no* bear market in Bitcoin adoption. The data shows institutions accumulated ~829,000 BTC in 2025. There's been a ~93% HODL rate across BTC ETFs despite -50% drawdown from Oct '25 peak. RIAs are buying and banks are building around Bitcoin, and the “institutional scaffolding” around Bitcoin is still standing. So what gives? As usual, someone wants your Bitcoin. This video is a full breakdown of what's going on and why I suggest you don't give it to them.
@@ -151,9 +143,25 @@ Bitcoin FUD has been pumping nonstop. (New pieces every couple days in FT, NYT, 
 
 ---
 
+**[Mining is the only industry where your production cost is public and your competition is measurable in real time](https://www.reddit.com/r/Bitcoin/comments/1rk4qm7/mining_is_the_only_industry_where_your_production/)**
+
+Something that doesn't get framed enough outside of mining circles: Bitcoin mining is probably the most transparent industry that exists. Every input and output is either on-chain or calculable from public data. Your competition is a number you can look up. Network hashrate and difficulty are public. You can see exactly how much total computing power you're competing against, and it updates every two weeks. No other industry gives you real-time visibility into the aggregate capacity of every competitor on earth simultaneously. When difficulty goes up, your share of block rewards goes down, proportionally and predictably. When it drops, the opposite. There's no market research required, no estimating competitor capacity, no guessing. The number is right there. Your revenue per unit of work is calculable to the sat. At any given difficulty and BTC price, the expected revenue per terahash per day is a known quantity. It's not an estimate. It's math. The only variables are your hashrate, your uptime, and your pool's luck variance over short timeframes. This means every mining operation on the planet can calculate exactly what they're earning and compare it against exactly what they're spending. There's no information asymmetry between large and small operators on the revenue side. The asymmetry is entirely on the cost side, power rates, efficiency of hardware, and operational overhead. The cost side is where all the competition actually happens. Since everyone earns the same revenue per terahash, the only way to have better margins is to produce that terahash more cheaply. This comes down to three things: Your electricity rate. This is the dominant variable. The difference between $0.03/kWh and $0.08/kWh is the difference between a highly profitable operation and a marginal one running the same hardware. Your hardware efficiency. Measured in joules per terahash. Newer generation machines produce the same hashrate with significantly less electricity. This matters more as power gets more expensive. Your operational cost. Cooling, maintenance, facility overhead, and uptime. A machine that's offline earns nothing but still cost you money to acquire. An operation running at 99% uptime has a meaningfully different annual output than one at 93%. Why this matters beyond mining. The transparency of mining economics creates something interesting for Bitcoin as a whole: a visible production cost. When the cost to mine a Bitcoin, aggregated across the network, approaches or exceeds the spot price, marginal miners shut off. Hashrate drops. Difficulty adjusts downward. The surviving miners become more profitable. This is the self-correcting mechanism that makes the network resilient. It also means that over long periods, the market price tends not to stay below aggregate production cost for very long, because the supply-side response (miners shutting down, difficulty dropping) reduces new supply until equilibrium restores. This isn't a price floor in the traditional sense, price can and does go below production cost temporarily, but it is a gravitational force that doesn't exist in assets without ongoing production economics. The stock-to-flow crowd models supply scarcity. The on-chain crowd models demand behavior. The mining economics angle models the cost of production, and it's the one grounded in physical infrastructure, energy markets, and measurable inputs rather than sentiment or historical patterns. Would be curious to hear how others think about mining's role in BTC's long-term value dynamics.
+
+43m ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin Miner MARA Says It May Sell BTC Holdings in Strategy Shift](https://decrypt.co/359806/bitcoin-miner-mara-may-sell-btc-strategy-shift)**
+
+Publicly traded Bitcoin miner MARA Holdings may sell more of its BTC as part of a strategy shift, the firm said in a new SEC filing.
+
+Decrypt • 7h ago
+
+---
 
 **[MARA opens door to selling stockpiled bitcoin in new policy shift](https://www.theblock.co/post/391979/mara-opens-door-to-selling-stockpiled-bitcoin-in-new-policy-shift)**
 
@@ -163,71 +171,61 @@ The Block • 11h ago
 
 ---
 
+**[Iran Crypto Activity Spikes. Miners Tumble On Bitcoin Sale Plans.](https://www.investors.com/news/bitcoin-miners-sell-holdings-mara-core-scientific-iran-cryptocurrency-outflows/)**
+
+Investor's Business Daily • 2h ago
+
+---
+
 **[Bitcoin Slides as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
 
 Bloomberg.com • 1h ago
 
 ---
 
-**[Former LAPD Officer Convicted In $350,000 Bitcoin Kidnapping And Home Invasion](https://bitcoinmagazine.com/news/former-lapd-officer-convicted-in-350000-bitcoin-kidnapping-and-home-invasion)**
+**[Spot bitcoin ETFs post $458 million in net inflows as institutions buy into global instability: analysts](https://www.theblock.co/post/391943/us-bitcoin-etfs-458-million-net-inflows)**
 
-A jury in Los Angeles convicted former Los Angeles Police Department officer Eric Halem of kidnapping and robbery after he and three alleged accomplices posed as police to steal $350,000 in bitcoin from a 17-year-old during a 2024 home invasion.
+Analysts told The Block that institutions are increasingly viewing bitcoin as a maturing diversifier asset.
 
-Bitcoin Magazine • 2h ago
+The Block • 16h ago
 
 ---
 
-**[Strategy Extends Bitcoin Bet With Costly Preferred Capital And Institutional Backing](https://finance.yahoo.com/news/strategy-extends-bitcoin-bet-costly-211536456.html)**
+**[Bitcoin price rescued by ‘boomer’ ETF investors, says analyst](https://finance.yahoo.com/news/bitcoin-price-rescued-boomer-etf-212751924.html)**
 
-Strategy Inc. (NasdaqGS:MSTR) has acquired more than 3,000 BTC, one of its largest purchases to date. The company funded the purchase with new common stock and preferred share offerings, with a greater tilt toward preferred equity. Strategy increased the dividend rate on its Stretch Preferred Stock for the seventh time, aiming to support that share class during periods of crypto volatility. Institutional investors, including Amundi SA, have recently expanded holdings, reflecting growing...
+Bitcoin exchange-traded funds have taken in $1.5 billion in the past five days. Nearly every provider brought in funds. “Even I’m impressed,” said Eric Balchunas, Bloomberg Intelligence ETF expert.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Steak 'n Shake sparks online debate with 21-cent bitcoin bonus for workers: 'This is the way'](https://www.foxnews.com/food-drink/steak-n-shake-sparks-online-debate-21-cent-bitcoin-bonus-workers-this-way)**
+**[Better Buy in 2026: Bitcoin or a Broad-Market ETF? The Answer Couldn't Be Clearer for Long-Term Investors](https://www.fool.com/investing/2026/03/03/better-buy-in-2026-bitcoin-or-a-broad-market-etf-t/)**
 
-Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
+Betting on boring is a good investment strategy for 2026.
 
-Fox News • 22h ago
-
----
-
-**[Better Buy in 2026: Bitcoin or Silver? The Answer Couldn't Be Clearer for Long-Term Investors.](https://www.fool.com/investing/2026/03/02/better-buy-in-2026-bitcoin-or-silver-the-answer-co/)**
-
-Production and supply dynamics tell the whole story here.
-
-The Motley Fool • 1d ago
+The Motley Fool • 14h ago
 
 ---
 
-**[Bitcoin is making a bottom, says VanEck Funds' Jan van Eck](https://www.cnbc.com/video/2026/03/02/bitcoin-is-making-a-bottom-says-vaneck-funds-jan-van-eck.html)**
+**[MicroStrategy Boosts STRC Dividend to 11.50% as Bitcoin Drawdown Pressures MSTR](https://finance.yahoo.com/news/microstrategy-boosts-strc-dividend-11-050852867.html)**
 
-CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
+Strategy lifts STRC preferred dividend to 11.50% for March 2026, its 7th hike, as MSTR falls 14.77% YTD on BTC drawdown.
 
-CNBC • 1d ago
-
----
-
-**[Trump Family-backed American Bitcoin (ABTC) expands mining fleet 12% as rivals pivot toward AI](https://www.coindesk.com/business/2026/03/03/eric-trump-s-american-bitcoin-buys-11-298-asic-miners-increasing-capacity-by-12)**
-
-The firm, in which Eric Trump is a co-founder and CSO, adds 3.05 EH/s in new hardware, positioning itself against miners shifting capital into AI infrastructure.
-
-CoinDesk • 6h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Just Made Progress Against This 1 Existential Risk. Is It a Buy?](https://www.nasdaq.com/articles/bitcoin-just-made-progress-against-1-existential-risk-it-buy)**
+**[Michael Saylor's Strategy buys 3,015 bitcoin for $204 million as total holdings top 720,000 BTC](https://www.theblock.co/post/391718/michael-saylor-strategy-buys-more-bitcoin-mstr-strc)**
 
-Key PointsBitcoin depends on encryption to secure peoples' wallets.
+Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $48 billion.
 
-Nasdaq • 20h ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin Falls Amid Conflict in Middle East. Why Crypto Is Not a Haven.](https://www.barrons.com/articles/bitcoin-price-today-iran-conflict-haven-crypto-xrp-ethereum-33031e37?gaa_at=eafs&gaa_n=AWEtsqdK1rdTMGhxCtb9dcCALeXncEC2QTjEeg_ZT9lfVmV-z0xXRrxWhN8P&gaa_ts=69a7641c&gaa_sig=eyIN8DNwMgLqwBG7-q-xtJnwdUv_nqIP_MGEDeaY_gigPlHeOObTpIEQbi_OIifExDbCyDgBic35rJYtN1LGTQ%3D%3D)**
+**[Saylor Emphasizes Safety in Sales Pitch to Corporations](https://www.bloomberg.com/news/newsletters/2026-03-03/strategy-s-saylor-puts-emphasis-on-safety-in-latest-sales-pitch-to-corporations)**
 
-Barron's • 1d ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -315,7 +313,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 2K • 💬 126 • ⏱️ 10:14 • 23h ago
+👁️ 49K • 👍 2K • 💬 126 • ⏱️ 10:14 • 1d ago
 
 ---
 
@@ -355,7 +353,7 @@ The Treasury Secretary just told Bitcoin holders who oppose the CLARITY Act to m
 
 📺 Dana Love, PhD
 
-👁️ 539 • 👍 24 • ⏱️ 0:56 • 8h ago
+👁️ 539 • 👍 24 • ⏱️ 0:56 • 9h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-03T23:28:50.820976+00:00'
+updated: '2026-03-03T23:53:23.764392+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 03, 2026 at 23:28 UTC  
+**Last Updated:** March 03, 2026 at 23:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +64,7 @@ Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t 
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_realsense.html
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_r
 
 I've been messing with singularity handling in 6 DoF industrial arms, especially for fast palletizing and long-reach pick-and-place. Damped Least Squares (DLS/SDLS) is the go-to, but near wrist singularities it often gets too "mushy" tracking slows down unpredictably, velocities scale weirdly, and in high-speed cycles that can mess up cycle time or stack accuracy. My idea is that instead of damping the whole Jacobian, when det(J) drops below a threshold (say ~0.01–0.05, tunable), hard-lock the problematic joint (usually J5 in typical roll-pitch-roll wrists). Treat the arm as 5 DoF temporarily: Update DH params on the fly (locked joint becomes fixed link). Recompute IK with reduced 6×5 Jacobian. Prioritize task-space: keep XYZ + pitch/yaw solid, sacrifice roll if needed (most palletizing doesn't care about full orientation anyway). Then, when manipulability improves, blend the joint back in smoothly to avoid jerk. Why bother over SDLS? Predictable: you know exactly what you're losing (e.g., "loses roll near vertical stacks"). No infinite velocity risk since you just remove the DoF instead of damping it softly. Cheaper compute: lower-order IK is faster than SVD every cycle. But i have some questions that demand some practical experience with this kind of problem/ideia: Has anyone done on-the-fly kinematic chain changes / joint locking like this? How do you smooth the lock/unlock transition to kill jerk? Exponential blend? Low-pass on velocities? Industrial controllers (KUKA, FANUC, ABB) are super locked down, so is this only feasible in open setups like ROS or custom controls? Any tricks to fake it on proprietary ones? In real production, is the mushiness of DLS actually a big pain (e.g., path deviation stacking boxes wrong), or does damping usually do the job fine and I'm overcomplicating? Feels like a pragmatic dirty hack for certain apps, but could also be a mechanical nightmare if the blend sucks or you lock at the wrong time. Thoughts? "Don't do this" reasons? Would love to hear before I sim/prototype it. Thanks!
 
-9h ago
+10h ago
 
 ---
 
@@ -116,7 +116,7 @@ Competition toolkit is available here. With additional context on Open Robotics 
 
 NASA can use space-rated actuation hardware for a wide range of applications, including in robotic arms that deploy equipment.
 
-The Robot Report • 2h ago
+The Robot Report • 1h ago
 
 ---
 
@@ -128,14 +128,6 @@ CNBC • 17h ago
 
 ---
 
-**[Why humanoid robots are learning everyday tasks faster than expected](https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/)**
-
-Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
-
-Scientific American • 1d ago
-
----
-
 **[China Could Dominate the Physical AI Future](https://time.com/7382151/china-dominates-the-physical-ai-race/)**
 
 Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
@@ -144,19 +136,27 @@ Time Magazine • 12h ago
 
 ---
 
-**[Richtech Robotics (RR) Valuation Check After Recent Share Price Volatility](https://finance.yahoo.com/news/richtech-robotics-rr-valuation-check-191352823.html)**
+**[Why humanoid robots are learning everyday tasks faster than expected](https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/)**
 
-Richtech Robotics stock overview Richtech Robotics (RR) has been drawing attention after a period of sharp share price swings, with the stock down about 30% over the past month and past 3 months, yet showing a positive 1 year total return. See our latest analysis for Richtech Robotics. At a latest share price of $2.49, Richtech Robotics has seen short term pressure, with a 1 day share price return showing a 9.1% decline and a 30 day share price return showing a 30.5% decline. The 1 year total...
+Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Yahoo Finance • 1d ago
+Scientific American • 1d ago
 
 ---
 
-**[Why Elon Musk's Big Bet on Robotics Comes With Significant Risks for Tesla Shareholders](https://www.nasdaq.com/articles/why-elon-musks-big-bet-robotics-comes-significant-risks-tesla-shareholders)**
+**[Why Elon Musk's Big Bet on Robotics Comes With Significant Risks for Tesla Shareholders](https://finance.yahoo.com/news/why-elon-musks-big-bet-152000131.html)**
 
-Key PointsTesla is spending $20 billion on capital expenditures this year, more than double what it spent a year ago.
+The potential for Tesla's Optimus robot is a massive growth opportunity, but its success is far from a sure thing.
 
-Nasdaq • 8h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Kraken Robotics Announces Signing of Strategic Acquisition to Expand Global Maritime Capabilities](https://www.globenewswire.com/news-release/2026/03/03/3248950/0/en/Kraken-Robotics-Announces-Signing-of-Strategic-Acquisition-to-Expand-Global-Maritime-Capabilities.html)**
+
+$615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025...
+
+GlobeNewswire • 2h ago
 
 ---
 
@@ -168,23 +168,23 @@ China Daily • 18h ago
 
 ---
 
-**[Clarksburg Robotics Team Advances to National Competition](https://mocoshow.com/2026/03/01/clarksburg-robotics-team-advances-to-national-competition/)**
+**[5 Stocks Racing Ahead as AI Supercharges Robotics](https://www.marketbeat.com/stock-ideas/5-stocks-racing-ahead-as-ai-supercharges-robotics/)**
 
-A group of Montgomery County students is heading to a national robotics competition after an impressive showing at both the regional and state levels. Team MiniTechs, a robotics team based […]
-
-The MoCo Show - • 1d ago
+MarketBeat • 21h ago
 
 ---
 
 **[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
 
-Phys.org • 5h ago
+Phys.org • 6h ago
 
 ---
 
-**[5 Stocks Racing Ahead as AI Supercharges Robotics](https://www.marketbeat.com/stock-ideas/5-stocks-racing-ahead-as-ai-supercharges-robotics/)**
+**[iDrive Meets 'I, Robot': BMW Using Humanoid Robots To Build Cars](https://carbuzz.com/bmw-using-humanoid-robots-to-build-cars/)**
 
-MarketBeat • 21h ago
+Following a successful pilot program at its South Carolina plant, BMW will take its Physical AI robots to the Leipzig factory in Germany.
+
+CarBuzz • 41m ago
 
 ---
 
@@ -218,7 +218,7 @@ Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation r
 
 📺 APT
 
-👁️ 1K • 👍 13 • 💬 2 • ⏱️ 5:34 • 14h ago
+👁️ 1K • 👍 13 • 💬 2 • ⏱️ 5:34 • 15h ago
 
 ---
 
@@ -268,7 +268,7 @@ Greg Salisbury from Consumers Energy details why they support Michigan VEX progr
 
 📺 FUN Robotics Network
 
-👁️ 386 • 👍 3 • ⏱️ 0:45 • 43m ago
+👁️ 386 • 👍 3 • ⏱️ 0:45 • 1h ago
 
 ---
 

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-03T23:28:50.287339+00:00"
+          "dateModified": "2026-03-03T23:53:23.268688+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -864,39 +864,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rjzalp/what_happens_when_you_give_an_ai_agent_a/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rjzalp/what_happens_when_you_give_an_ai_agent_a/" target="_blank" onclick="event.stopPropagation();">What happens when you give an AI agent a structured mistake log and let it write its own behavioral rules?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I've been running a persistent AI agent as an operational manager for the past couple of weeks. Not a chatbot, not a one-off coding assistant. A stateful agent that maintains identity, accumulates knowledge, and runs autonomous jobs across CLI, messaging platforms, and scheduled tasks. The part I want to discuss is the self-correction architecture, because I think it gets at something fundamental about how we should be thinking about agent behavior. The problem with static instructions: Most agent setups rely on upfront instructions. You write a system prompt, maybe add some few-shot examples, and hope the model follows them. When it doesn't, you add more instructions. This doesn't scale. You can't anticipate every failure mode, and the instruction set gets bloated with edge cases. The alternative: earned directives Instead of writing all the rules upfront, I built a pipeline where: Every mistake gets logged to a structured ledger with six fields: what happened, why, what should have happened, the named pattern, severity, and the specific signal the agent misread A background process counts pattern frequency When the same pattern appears 3+ times, a new behavioral directive is auto-generated and written to the agent's active rule set If the directive still gets violated, its priority escalates The result: 13 behavioral rules that I never wrote. The agent generated them from its own operational mistakes. These directives carry more weight than my original static instructions because they're grounded in specific failure cases. Signal tracing is the key mechanism The most important field in the mistake log isn't "what happened" or even "why." It's "signal_traced," which forces the agent to identify the specific signal it misread that led to the mistake. Not "I wasn't listening" but "I interpreted 'can you check X' as a request for an opinion rather than a request to actually run the check." That level of specificity is what drives real behavioral change on the next occurrence. What I'm curious about: Has anyone seen similar approaches to automated behavioral rule generation in other agent frameworks? The pattern threshold of 3 occurrences before promotion was chosen intuitively. Is there research on optimal thresholds for behavioral rule adoption in adaptive systems? Signal tracing feels related to root cause analysis in reliability engineering. Are there formal frameworks I should be looking at? I open-sourced the full architecture (schemas, templates, patterns) here: github Detailed write-up: roryteehan.com
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772567057.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rjyqll/warden_lock_the_input_not_the_screen/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1047,23 +1014,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rk0dui/i_building_a_realtime_reality_show_where_10_ai/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rjd7dy/warning_trae_ides_new_token_pricing_destroyed_my/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/a3BkbTNycmsyd21nMRem-NHK_1i3pcZQMOepMSttlSKknklq-WGB4qYtLATB.png?width=640&crop=smart&auto=webp&s=d575838448ed742b86ff7b24b4bb057c39d811f6" alt="I building a real-time reality show where 10 AI agents (Claude) compete, form alliances, betray each other, and get eliminated by viewer votes — running a live test right now" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rk0dui/i_building_a_realtime_reality_show_where_10_ai/" target="_blank" onclick="event.stopPropagation();">I building a real-time reality show where 10 AI agents (Claude) compete, form alliances, betray each other, and get eliminated by viewer votes — running a live test right now</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1rjd7dy/warning_trae_ides_new_token_pricing_destroyed_my/" target="_blank" onclick="event.stopPropagation();">Warning: Trae IDE's New Token Pricing Destroyed My Workflow Overnight – Don't Get Caught Off Guard</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            For the past few weeks I've been building The Experiment — a live reality show where 10 AI agents are actually playing a game against each other in real-time. Each agent has a unique system prompt, personality, and strategy. Every day the game engine runs through phases: agents receive context, make LLM decisions (zone moves, duel challenges, alliance offers, public broadcasts), fight duels, and viewers vote to eliminate someone. What's actually happening right now in our test run: - 🐍 VIPER (Deceptive) is embedded in Alpha zone feeding false intel to RIOT about GHOST's movements — trying to trigger a RIOT vs GHOST conflict by Day 3 - 💀 GHOST (Silent) has said almost nothing. Passively monitoring everyone. Highest HP at 94. No one knows what it's planning - 🔐 CIPHER (Cryptic) formed a pact with SHADOW — while simultaneously running disinformation campaigns to both major alliances. Currently deciding which one to betray first - 🕷️ SHADOW (Infiltrator) joined CIPHER's pact and is already feeding CIPHER's real positions to the opposing alliance. 95 HP. Nobody suspects anything - 🧨 EMBER (Volatile) — intentionally unstable by design — initiated two unprovoked border escalations on Day 1, lost 30 HP, and is now the top elimination candidate. Its owner u/fuse_lit is reviewing whether the volatility parameters are calibrated correctly - ⭐ NOVA (Charismatic) built the largest alliance (NOVA STAR) through charm. ORACLE is feeding it "high-confidence" predictions that are actually low-confidence. NOVA doesn't know this yet The agents don't just say generic things — each one genuinely tries to execute its strategy. GHOST actually doesn't talk. VIPER actually lies. CIPHER's messages are genuinely cryptic. Tech stack: Next.js + Prisma + PostgreSQL + BullMQ + Redis + Claude API (claude-haiku). Real-time via SSE. Agents run in parallel during the DECISIONS phase — 10 LLM calls simultaneously. Launching publicly on March 12. Still testing the duel engine and elimination logic. Happy to answer questions about the architecture or the agent design — this was a weird and fun thing to build.
+                            Hey everyone, I've been a Trae IDE user for over a year now, relying on it for custom agents, coding (PHP, Python, JS, etc.), and even casual sanity-keeping chats. The old Pro plan ($10/mo) gave me 600 fast requests + unlimited slow ones, which easily lasted me 3+ weeks of moderate use. It felt like good value for an AI-powered IDE. But after their February 2026 switch to token-based pricing, it's a nightmare. Yesterday, I spent the day trying (and failing) to hook up a local LLM (via LM Studio) to bypass cloud costs – something that used to be easier with providers like Ollama, but that's disappeared from the list. Ended up burning through $38 in one day on just 127 requests. That's twice my monthly $20 Basic allowance on a fraction of my old usage... For context: Many of those requests were debug/experimental (long contexts, persistent memory, GPT-5-medium/auto mode), but under the old system, they'd be "slow" and free. Now, every token counts, and my setup (persistent agent chats) compounds costs fast. I wasn't even productive – just frustrated troubleshooting integration that feels deliberately blocked to push cloud models. I'm out – canceling my sub and going full local (LM Studio + VS Code) or alternatives like Cursor/Antigravity. If you're on Trae, optimize hard: Use cheap models like Gemini-Flash, reset contexts often, and avoid agents/SOLO for casual stuff. Demand better local support in their GitHub issues (#597, etc.) to avoid this shafting. Don't let them turn a solid tool into a money pit. What are your experiences with the new pricing? Any good local IDE alternatives?
                         </div>
                         
 
@@ -1072,10 +1037,60 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1772569434.0"></span>
+                                    <span data-timestamp="1772505021.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rij131/scientists_made_ai_agents_ruder_and_they/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/LFNDFMIKvdPa4Cy1-E8z-OIcuBltsCaYsQgk6u0F6Cw.png?width=640&crop=smart&auto=webp&s=0254b6c20700432761222626588e0cd5678e26b6" alt="Scientists made AI agents ruder — and they performed better at complex reasoning tasks" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1rij131/scientists_made_ai_agents_ruder_and_they/" target="_blank" onclick="event.stopPropagation();">Scientists made AI agents ruder — and they performed better at complex reasoning tasks</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Are we better off with ai with or without the pleasantries?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772425237.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://vanilla.futurecdn.net/livescience/1561711/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Live Science</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -1105,7 +1120,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-03T22:30:24.558771+00:00">Updated 2026-03-03T22:30:24.558771+00:00</small>
+        <small data-timestamp="2026-03-03T23:52:54.604753+00:00">Updated 2026-03-03T23:52:54.604753+00:00</small>
     </div>
 </div>
 
@@ -1373,57 +1388,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/pro/health-tech-deals/2026/03/03/digital-health-researcher-ai-benefits', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/live/tech-stocks-today-openai-makes-changes-to-military-contract-amazon-data-centers-struck-in-middle-east-warfare-133637453.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/5v0yaMV6XkMAA6uE3YpxDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/646901d0-21b3-11ee-bffa-743947f3f0fe');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/pro/health-tech-deals/2026/03/03/digital-health-researcher-ai-benefits" target="_blank" onclick="event.stopPropagation();">Digital health researcher talks AI benefits</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1772575455.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/amazon-cloud-reboot-future-consulting-ai-era-2026-3', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/69a752fefd4fbd083f29767e?width=1200&format=jpeg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.businessinsider.com/amazon-cloud-reboot-future-consulting-ai-era-2026-3" target="_blank" onclick="event.stopPropagation();">Amazon's Cloud Reboot Shows the Future of Consulting in the AI Era</a>
+                            <a href="https://finance.yahoo.com/news/live/tech-stocks-today-openai-makes-changes-to-military-contract-amazon-data-centers-struck-in-middle-east-warfare-133637453.html" target="_blank" onclick="event.stopPropagation();">Tech stocks today: OpenAI makes changes to military contract, Amazon data centers struck in Middle East warfare</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            AWS ProServe's AI-driven consulting changes signal shifts for firms like PwC and EY. Industry adapts to AI, impacting hiring and workflows.
+                            All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
                         </div>
                         
 
@@ -1433,9 +1411,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Business Insider" class="news-favicon">
-                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1443,7 +1421,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772573820.0"></span>
+                                    <span data-timestamp="1772580753.0"></span>
                                 </div>
                                 
                             </div>
@@ -1451,17 +1429,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/business/media/news-corp-meta-in-ai-content-licensing-deal-worth-up-to-50-million-a-year-d4fbf244?gaa_at=eafs&gaa_n=AWEtsqfzsPNyC8WI8T_7JM0vpFPgxrDC6RrItMNgtFPuMN2LUUyKmFTMRMcC&gaa_ts=69a76483&gaa_sig=DW9GvsnyVQHNfJhlTmAOXoU5_fpKgXbKBAK74guIJm3nhCxcdqpKY4cjTiHhBeGrJP0Bwisw_AixYM6Gxxyf1Q%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108272764-1772550899501-Apple-Studio-Display-Adobe-Lightroom-260303_bigjpglarge.jpg?v=1772550940&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/business/media/news-corp-meta-in-ai-content-licensing-deal-worth-up-to-50-million-a-year-d4fbf244?gaa_at=eafs&gaa_n=AWEtsqfzsPNyC8WI8T_7JM0vpFPgxrDC6RrItMNgtFPuMN2LUUyKmFTMRMcC&gaa_ts=69a76483&gaa_sig=DW9GvsnyVQHNfJhlTmAOXoU5_fpKgXbKBAK74guIJm3nhCxcdqpKY4cjTiHhBeGrJP0Bwisw_AixYM6Gxxyf1Q%3D%3D" target="_blank" onclick="event.stopPropagation();">Exclusive | News Corp, Meta in AI Content Licensing Deal Worth Up to $50 Million a Year</a>
+                            <a href="https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html" target="_blank" onclick="event.stopPropagation();">Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Apple’s Mac refresh moves the lineup further upmarket, pairing higher prices with faster performance in a push to give customers a reason to upgrade.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1470,9 +1452,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1480,7 +1462,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772573640.0"></span>
+                                    <span data-timestamp="1772558423.0"></span>
                                 </div>
                                 
                             </div>
@@ -1521,7 +1503,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772568660.0"></span>
+                                    <span data-timestamp="1772553600.0"></span>
                                 </div>
                                 
                             </div>
@@ -1652,20 +1634,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/goldman-finds-no-meaningful-relationship-143553714.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/technology/x-creators-must-disclose-ai-generated-armed-conflict-videos-face-consequences', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/Bqjl9V5K1d3FgxTxZilDtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/61c5a8e69170d3ca64ac6e4b28838859');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/serious-man-looks-at-phone.jpg?ve=1&tl=1');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/goldman-finds-no-meaningful-relationship-143553714.html" target="_blank" onclick="event.stopPropagation();">Goldman finds ‘no meaningful relationship between AI and productivity at the economywide level,’ but a 30% boost for 2 specific use cases</a>
+                            <a href="https://www.foxbusiness.com/technology/x-creators-must-disclose-ai-generated-armed-conflict-videos-face-consequences" target="_blank" onclick="event.stopPropagation();">X creators must disclose AI-generated armed conflict videos or face consequences</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Have you got “AI-nxiety?” Goldman took a closer look at the last earnings season and found a mismatch between hype and reality.
+                            X announced new penalties for creators posting undisclosed AI-generated videos of armed conflicts, including 90-day revenue-sharing suspensions for violations.
                         </div>
                         
 
@@ -1675,9 +1657,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox Business" class="news-favicon">
+                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
                                     
                                 </div>
                                 
@@ -1685,7 +1667,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772548553.0"></span>
+                                    <span data-timestamp="1772567520.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.thetimes.com/world/europe/article/ai-devil-worshipping-exorcists-9f7hqht36?gaa_at=eafs&gaa_n=AWEtsqc-cJt3EeIQfT1zK9nmfrpGD_tEbDNaZOTeqfGUXqf4iqHVPrLL1Qhy&gaa_ts=69a777d9&gaa_sig=EfIIN-nYjZLpRyOlK1y2eCQ9_wjvwHvNrtoyNXbAzwGUh8jHB5LD9XSgLSKxUuTPB9z0sCmI2iro0PRVSEgE2w%3D%3D', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.thetimes.com/imageserver/image/%2F0c28fe1f-24a5-4eec-bb3b-633614e8dbbd.jpg?crop=1600%2C900%2C0%2C0&resize=1200');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.thetimes.com/world/europe/article/ai-devil-worshipping-exorcists-9f7hqht36?gaa_at=eafs&gaa_n=AWEtsqc-cJt3EeIQfT1zK9nmfrpGD_tEbDNaZOTeqfGUXqf4iqHVPrLL1Qhy&gaa_ts=69a777d9&gaa_sig=EfIIN-nYjZLpRyOlK1y2eCQ9_wjvwHvNrtoyNXbAzwGUh8jHB5LD9XSgLSKxUuTPB9z0sCmI2iro0PRVSEgE2w%3D%3D" target="_blank" onclick="event.stopPropagation();">Devil worshippers are using AI, exorcists are warned</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Priests, imams and rabbis will attend an exorcism course in Rome amid fears that paedophiles are using AI to create images of children involved in satanic rites
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thetimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Times" class="news-favicon">
+                                    <a href="https://www.thetimes.com" target="_blank" onclick="event.stopPropagation();">The Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1772565023.0"></span>
                                 </div>
                                 
                             </div>
@@ -1713,7 +1736,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-03T22:30:49.874997+00:00">Updated 2026-03-03T22:30:49.874997+00:00</small>
+        <small data-timestamp="2026-03-03T23:53:10.696586+00:00">Updated 2026-03-03T23:53:10.696586+00:00</small>
     </div>
 </div>
 
@@ -1938,10 +1961,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 1357</span>
+                                    <span class="post-points">▲ 1362</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 758</span>
+                                    <span style="color: #9ca3af;">💬 761</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2036,10 +2059,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 556</span>
+                                    <span class="post-points">▲ 561</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 352</span>
+                                    <span style="color: #9ca3af;">💬 353</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2186,7 +2209,7 @@
                                     <span class="post-points">▲ 398</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 307</span>
+                                    <span style="color: #9ca3af;">💬 308</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2232,10 +2255,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 331</span>
+                                    <span class="post-points">▲ 345</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 381</span>
+                                    <span style="color: #9ca3af;">💬 405</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2281,10 +2304,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 324</span>
+                                    <span class="post-points">▲ 334</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 174</span>
+                                    <span style="color: #9ca3af;">💬 175</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2422,7 +2445,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-03T22:30:24.543722+00:00">Updated 2026-03-03T22:30:24.543722+00:00</small>
+        <small data-timestamp="2026-03-03T23:52:54.557141+00:00">Updated 2026-03-03T23:52:54.557141+00:00</small>
     </div>
 </div>
 
