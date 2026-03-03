@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-03T08:42:56.605627+00:00'
+updated: '2026-03-03T09:42:47.507232+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 03, 2026 at 08:42 UTC  
+**Last Updated:** March 03, 2026 at 09:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 I’ve just finished the soldering for the controller for my 6-axis robot. You may notice that there are only 5 drivers and that is because two went bad and I’m waiting on replacements. I also installed the I2C MUX that will interface with the magnetic encoders. Please leave any questions, comments, or advice in the comments, I really appreciate it! More updates on the way.
 
-7h ago
+8h ago
 
 ---
 
@@ -56,7 +56,7 @@ I’ve just finished the soldering for the controller for my 6-axis robot. You m
 
 Competition toolkit is available here. With additional context on Open Robotics Discourse. Competition details can be found here. Two competition sessions will be held tomorrow, March 3rd (they will be recorded). Session 1: March 3rd: 9-10am PT / 5-6pm UTC (US/Europe friendly) Session 2: March 3rd: 5-6pm PT / March 4th 1-2 am UTC (US/APAC friendly)
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ Competition toolkit is available here. With additional context on Open Robotics 
 
 Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
 
-22h ago
+23h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.co
 
 It took a while to make this video and project it was really exhausting but after a few checks and documentation I finally finished it hope it is documented well
 
-🔗 [youtu.be](https://youtu.be/U4IHY_EhnXQ?si=BHmJAGa6hdiPeDtT) • 2h ago
+🔗 [youtu.be](https://youtu.be/U4IHY_EhnXQ?si=BHmJAGa6hdiPeDtT) • 3h ago
 
 ---
 
@@ -80,7 +80,7 @@ It took a while to make this video and project it was really exhausting but afte
 
 (Budget-Conscious) ​The Body: ​"I'm currently blueprinting a medium-scale (approx. 1.2m) bipedal robot project. My goal is to achieve fluid, natural movement without jumping immediately into high-cost industrial servos like HEBI or Dynamixel X-series. ​Actuation: Has anyone had success with 'quasi-direct drive' (QDD) using high-torque brushless motors (like the T-Motor series) for hip/knee joints to keep costs down while maintaining back-drivability? ​Power: I'm considering a 24V vs 48V system. For a home-built rig, is the complexity of 48V worth the efficiency gains, or is 24V the 'sweet spot' for component availability? ​Phasing: If you were building this on a budget, which subsystems would you 'overbuild' first, and where would you suggest using 3D-printed load-bearing parts vs. CNC aluminum? ​Looking for 'scrappy' but reliable engineering paths. Thanks!"
 
-4h ago
+5h ago
 
 ---
 
@@ -102,7 +102,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 **[Improve the Wi-Fi card on the G1 robot.](https://www.reddit.com/r/robotics/comments/1rj9pmd/improve_the_wifi_card_on_the_g1_robot/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -114,7 +114,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 It comes shortly after Qualcomm launched a processor under the Dragonwing brand name designed for robots.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -130,7 +130,7 @@ CNBC • 2d ago
 
 Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Scientific American • 20h ago
+Scientific American • 21h ago
 
 ---
 
@@ -138,7 +138,7 @@ Scientific American • 20h ago
 
 Chinese gains in robotics show that nations wishing to compete must go beyond financial engineering to master their physical realities.
 
-South China Morning Post • 12m ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -160,7 +160,7 @@ Pittsburgh Post-Gazette • 1d ago
 
 **[LLM (Claude) Given Robotic Hand Immediately Starts Making Peace Signs](https://blog.adafruit.com/2026/03/02/llm-claude-given-robotic-hand-immediately-starts-making-peace-signs/)**
 
-Adafruit • 15h ago
+Adafruit • 16h ago
 
 ---
 
@@ -172,39 +172,19 @@ fox5sandiego.com • 1d ago
 
 **[Kraken Robotics Stock (KRKNF) Is Up 33% YTD: What’s Next for the Marine Tech Firm?](https://www.tipranks.com/news/kraken-robotics-stock-krknf-is-up-33-ytd-whats-next-for-the-marine-tech-firm)**
 
-TipRanks • 18h ago
+TipRanks • 19h ago
 
 ---
 
 **[Vacant Mountain View Kohl’s turned into temporary robotics hub](https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/)**
 
-Mountain View Voice • 10h ago
+Mountain View Voice • 11h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[beautiful blonde robot](https://www.youtube.com/watch?v=2eOfA6PFlNs)**
-
-beautiful blonde robot #ai #Humanoid #FutureTech #Robotics #Technology #Future #SmartAI.
-
-📺 MSU Channel
-
-👁️ 387 • 👍 1 • ⏱️ 0:21 • 2h ago
-
----
-
-**[DON’T INVEST in Ultimate Molots until War Robots buffs them!](https://www.youtube.com/watch?v=SNDZb8IrHIw)**
-
-War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the ultimate weapons so far, I think. Do not invest in ...
-
-📺 Manni-Gaming
-
-👁️ 7K • 👍 392 • 💬 95 • ⏱️ 17:41 • 17h ago
-
----
 
 **[China Unveiled Its First Army of Humanoid Police Robots](https://www.youtube.com/watch?v=_liJnDf8a7k)**
 
@@ -216,13 +196,21 @@ Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These
 
 ---
 
-**[Honor’s First Humanoid Robot Unveils Its Dance Moves at MWC | What the Future](https://www.youtube.com/watch?v=NDph9DHvm60)**
+**[DON’T INVEST in Ultimate Molots until War Robots buffs them!](https://www.youtube.com/watch?v=SNDZb8IrHIw)**
 
-Watch the official reveal of Honor's first humanoid service robot announced at MWC 2026. Read more at CNET.com First Steps?
+War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the ultimate weapons so far, I think. Do not invest in ...
 
-📺 CNET
+📺 Manni-Gaming
 
-👁️ 36K • 👍 260 • 💬 24 • ⏱️ 1:27 • 1d ago
+👁️ 7K • 👍 405 • 💬 98 • ⏱️ 17:41 • 18h ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=GoRYre93AJ4)**
+
+📺 zhulongfeng 6
+
+👁️ 2K • 👍 11 • ⏱️ 0:23 • 9h ago
 
 ---
 
@@ -232,17 +220,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 121K • 👍 2K • 💬 422 • ⏱️ 12:16 • 4d ago
-
----
-
-**[Russia&#39;s Ameca Humanoid Robot #robotics #humanoidrobot #ai #airobot](https://www.youtube.com/watch?v=fhlVu7h6nH8)**
-
-In Russia, the Perm Polytenic University is using an Ameca-like humanoid to help train engineering students in next-gen robotics ...
-
-📺 Kalil 4.0
-
-👁️ 541 • 👍 13 • ⏱️ 0:39 • 5h ago
+👁️ 122K • 👍 2K • 💬 423 • ⏱️ 12:16 • 4d ago
 
 ---
 
@@ -256,33 +234,51 @@ China is building robots faster than any country in the world and if you want to
 
 ---
 
-**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
+**[Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown](https://www.youtube.com/watch?v=XIu4K2ZthmQ)**
 
-German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
+Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown 63600E Eaglebots showcases their double lever robot at the ...
 
-📺 DPCcars
+📺 FUN Robotics Network
 
-👁️ 381K • 👍 2K • 💬 907 • ⏱️ 1:27 • 4d ago
-
----
-
-**[Tesla Rival Xiaomi Deploys Humanoids on EV Assembly Line #xiaomi #robotics #humanoidrobots #robot](https://www.youtube.com/watch?v=jTUrNzUi_zE)**
-
-Xiaomi's Factory Humanoid Robot Hits Production Speed in EV Assembly Trial Xiaomi says it's moved its humanoid robot into its ...
-
-📺 Kalil 4.0
-
-👁️ 913 • 👍 34 • 💬 1 • ⏱️ 1:16 • 10h ago
+👁️ 2K • 👍 48 • 💬 8 • ⏱️ 1:09 • 9h ago
 
 ---
 
-**[Building a Robot so I don&#39;t get kicked out of Uni](https://www.youtube.com/watch?v=QZeO-wh_1HY)**
+**[Figure AI Just Dropped a FULLY Autonomous AI Robot… It Works 24/7](https://www.youtube.com/watch?v=5sSzuXp3Wsg)**
 
-Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
+Figure AI has just dropped a fully autonomous AI robot — and it's now operating 24/7 without human supervision. In this video, we ...
 
-📺 Tazer
+📺 The AI Nexus
 
-👁️ 277K • 👍 12K • 💬 489 • ⏱️ 21:58 • 2d ago
+👁️ 7K • 👍 219 • 💬 26 • ⏱️ 27:19 • 2d ago
+
+---
+
+**[AI EXPLODES This Month: Biomimetic Robots, Gemini 3.1, OpenAI–OpenClaw, LYRIA 3 &amp; More](https://www.youtube.com/watch?v=r6umFAnMEEM)**
+
+This month in AI pushed everything to the edge. Biomimetic robots from China are now so human-like they're unsettling, while ...
+
+📺 AI Revolution
+
+👁️ 41K • 👍 717 • 💬 46 • ⏱️ 1:29:27 • 2d ago
+
+---
+
+**[German Chancellor Surprised To Watch China Humanoid Robots Kung Fu ???](https://www.youtube.com/watch?v=QMZSv5lmVeY)**
+
+📺 Indiplus News Official
+
+👁️ 792K • 👍 18K • 💬 418 • ⏱️ 0:29 • 4d ago
+
+---
+
+**[The Hard Truth About Mass Robot Deployment](https://www.youtube.com/watch?v=VTbd0_n9qQA)**
+
+Tesla just shut down Model S and X lines to pivot toward Optimus production — but is this a real robotics breakthrough or a ...
+
+📺 Dumb Money Live
+
+👁️ 16K • 👍 422 • 💬 138 • ⏱️ 13:15 • 3d ago
 
 ---
 
