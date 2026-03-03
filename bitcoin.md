@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-03T06:54:22.923653+00:00'
+updated: '2026-03-03T07:42:43.939610+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 06:54 UTC  
+**Last Updated:** March 03, 2026 at 07:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
 
-17h ago
+18h ago
 
 ---
 
 **[Bitcoin demonetizes violence and it monetizes peace and love](https://www.reddit.com/r/Bitcoin/comments/1rj3tub/bitcoin_demonetizes_violence_and_it_monetizes/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ Thailand has officially introduced a 0% capital gains tax policy that applies to
 
 When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept trading. Here's why that matters more than any price chart right now.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 19h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 20h ago
 
 ---
 
@@ -111,7 +111,7 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 Bitcoin debanking is still alive and well in the UK
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=CdDzcsGZpJg) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=CdDzcsGZpJg) • 6h ago
 
 ---
 
@@ -119,7 +119,7 @@ Bitcoin debanking is still alive and well in the UK
 
 Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour! 🧡 https://x.com/SteaknShake/status/2028322342275871122
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A qui
 
 Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As of 3/1/2026, we hodl 720,737 BTC acquired for ~$54.77 billion at ~$75,985 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 16h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 17h ago
 
 ---
 
@@ -149,7 +149,7 @@ Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As 
 
 For a while now, I have been buying bitcoin for once a month and I’ve been doing one dollar a month towards my bitcoin and honestly, I like Cash App because it’s not very complicated to look at your bitcoin to see how much you have and I’ve been doing it for like the whole year now so it’s pretty awesome and I have to say this was a cool investment that I started since last year and damn honestly, this was fantastic. I have no need to sell it all just quite yet, but honestly, when my time comes, I can’t wait to sell it all and see how much I get back not gonna lie. This was a great investment. I did not gonna lie.
 
-2h ago
+3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 2d ago
 
 As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
 
-Dallas News • 13h ago
+Dallas News • 14h ago
 
 ---
 
@@ -175,7 +175,7 @@ Dallas News • 13h ago
 
 Key PointsBitcoin depends on encryption to secure peoples' wallets.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -183,19 +183,19 @@ Nasdaq • 3h ago
 
 Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
 
-Fox News • 6h ago
+Fox News • 7h ago
 
 ---
 
 **[Strategy Stock Rises. The World’s Largest Bitcoin Holder Doubles Down on Its Crypto Bet.](https://www.barrons.com/articles/strategy-doubles-down-on-crypto-bet-d2d51560?gaa_at=eafs&gaa_n=AWEtsqdy_NB5EZDBvBZXi-tGc1-jQ4Z1wXdG67RV6wIjtrD3s4Kaw2AixltX&gaa_ts=69a68909&gaa_sig=MaaSWjvaZYkwx4AIdfu3CIepEbPp9nh4IA9bH0KRqdWd4j8SLquF30UJrfCxwMzQAheqLvfYqFRHywwRZTL9Ww%3D%3D)**
 
-Barron's • 10h ago
+Barron's • 11h ago
 
 ---
 
 **[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 1d ago
 
 CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -219,13 +219,13 @@ CNBC • 10h ago
 
 Production and supply dynamics tell the whole story here.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
 **[Bitcoin Falls Amid Conflict in Middle East. Why Crypto Is Not a Haven.](https://www.barrons.com/articles/bitcoin-price-today-iran-conflict-haven-crypto-xrp-ethereum-33031e37?gaa_at=eafs&gaa_n=AWEtsqfFbl39aZRYMz07F5JGBkaA0MHFhu136bog7U2R5kS57OWEXavaUD-m&gaa_ts=69a68909&gaa_sig=V1eYHHeeXKC0CMH_Alws6rnZ0n9m3d3mUG2jctRKM7HXea60Mkt-U95M1DvFL-dUa7fi0wjlKwiWsmCHz12mAA%3D%3D)**
 
-Barron's • 18h ago
+Barron's • 19h ago
 
 ---
 
@@ -323,7 +323,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 711 • 💬 90 • ⏱️ 8:26 • 4h ago
+👁️ 8K • 👍 711 • 💬 90 • ⏱️ 8:26 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ War in the Middle East just triggered a potential global energy crisis, and mark
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 202 • ⏱️ 16:46 • 8h ago
+👁️ 14K • 👍 1K • 💬 202 • ⏱️ 16:46 • 9h ago
 
 ---
 
@@ -373,7 +373,7 @@ Nick Valdez looks at war's effect on Bitcoin and the results are shocking! When 
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 151 • 💬 8 • ⏱️ 5:04 • 6h ago
+👁️ 4K • 👍 151 • 💬 8 • ⏱️ 5:04 • 7h ago
 
 ---
 
@@ -383,7 +383,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 46 • ⏱️ 51:28 • 14h ago
+👁️ 21K • 👍 1K • 💬 46 • ⏱️ 51:28 • 15h ago
 
 ---
 
@@ -403,7 +403,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 1K • 👍 76 • 💬 3 • ⏱️ 30:26 • 9h ago
+👁️ 1K • 👍 76 • 💬 3 • ⏱️ 30:26 • 10h ago
 
 ---
 
