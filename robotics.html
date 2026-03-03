@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-03T14:03:41.968761+00:00"
+          "dateModified": "2026-03-03T15:12:55.157581+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -711,6 +711,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjpfaf/singularity_avoidance_hack_instead_of_damping/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rjpfaf/singularity_avoidance_hack_instead_of_damping/" target="_blank" onclick="event.stopPropagation();">Singularity avoidance hack: Instead of damping, temporarily lock a joint in wrist singularity for palletizing/pick&place? Anyone tried this?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I've been messing with singularity handling in 6 DoF industrial arms, especially for fast palletizing and long-reach pick-and-place. Damped Least Squares (DLS/SDLS) is the go-to, but near wrist singularities it often gets too "mushy" tracking slows down unpredictably, velocities scale weirdly, and in high-speed cycles that can mess up cycle time or stack accuracy. My idea is that instead of damping the whole Jacobian, when det(J) drops below a threshold (say ~0.01–0.05, tunable), hard-lock the problematic joint (usually J5 in typical roll-pitch-roll wrists). Treat the arm as 5 DoF temporarily: Update DH params on the fly (locked joint becomes fixed link). Recompute IK with reduced 6×5 Jacobian. Prioritize task-space: keep XYZ + pitch/yaw solid, sacrifice roll if needed (most palletizing doesn't care about full orientation anyway). Then, when manipulability improves, blend the joint back in smoothly to avoid jerk. Why bother over SDLS? Predictable: you know exactly what you're losing (e.g., "loses roll near vertical stacks"). No infinite velocity risk since you just remove the DoF instead of damping it softly. Cheaper compute: lower-order IK is faster than SVD every cycle. But i have some questions that demand some practical experience with this kind of problem/ideia: Has anyone done on-the-fly kinematic chain changes / joint locking like this? How do you smooth the lock/unlock transition to kill jerk? Exponential blend? Low-pass on velocities? Industrial controllers (KUKA, FANUC, ABB) are super locked down, so is this only feasible in open setups like ROS or custom controls? Any tricks to fake it on proprietary ones? In real production, is the mushiness of DLS actually a big pain (e.g., path deviation stacking boxes wrong), or does damping usually do the job fine and I'm overcomplicating? Feels like a pragmatic dirty hack for certain apps, but could also be a mechanical nightmare if the blend sucks or you lock at the wrong time. Thoughts? "Don't do this" reasons? Would love to hear before I sim/prototype it. Thanks!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772544740.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjb7kt/control_board_for_6axis_robot/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -781,7 +814,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjpfaf/singularity_avoidance_hack_instead_of_damping/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjrigo/looking_for_a_substitute_for_schunk_gripper_wsg/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -789,13 +822,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rjpfaf/singularity_avoidance_hack_instead_of_damping/" target="_blank" onclick="event.stopPropagation();">Singularity avoidance hack: Instead of damping, temporarily lock a joint in wrist singularity for palletizing/pick&place? Anyone tried this?</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1rjrigo/looking_for_a_substitute_for_schunk_gripper_wsg/" target="_blank" onclick="event.stopPropagation();">Looking for a substitute for Schunk Gripper WSG 050-110-B</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I've been messing with singularity handling in 6 DoF industrial arms, especially for fast palletizing and long-reach pick-and-place. Damped Least Squares (DLS/SDLS) is the go-to, but near wrist singularities it often gets too "mushy" tracking slows down unpredictably, velocities scale weirdly, and in high-speed cycles that can mess up cycle time or stack accuracy. My idea is that instead of damping the whole Jacobian, when det(J) drops below a threshold (say ~0.01–0.05, tunable), hard-lock the problematic joint (usually J5 in typical roll-pitch-roll wrists). Treat the arm as 5 DoF temporarily: Update DH params on the fly (locked joint becomes fixed link). Recompute IK with reduced 6×5 Jacobian. Prioritize task-space: keep XYZ + pitch/yaw solid, sacrifice roll if needed (most palletizing doesn't care about full orientation anyway). Then, when manipulability improves, blend the joint back in smoothly to avoid jerk. Why bother over SDLS? Predictable: you know exactly what you're losing (e.g., "loses roll near vertical stacks"). No infinite velocity risk since you just remove the DoF instead of damping it softly. Cheaper compute: lower-order IK is faster than SVD every cycle. But i have some questions that demand some practical experience with this kind of problem/ideia: Has anyone done on-the-fly kinematic chain changes / joint locking like this? How do you smooth the lock/unlock transition to kill jerk? Exponential blend? Low-pass on velocities? Industrial controllers (KUKA, FANUC, ABB) are super locked down, so is this only feasible in open setups like ROS or custom controls? Any tricks to fake it on proprietary ones? In real production, is the mushiness of DLS actually a big pain (e.g., path deviation stacking boxes wrong), or does damping usually do the job fine and I'm overcomplicating? Feels like a pragmatic dirty hack for certain apps, but could also be a mechanical nightmare if the blend sucks or you lock at the wrong time. Thoughts? "Don't do this" reasons? Would love to hear before I sim/prototype it. Thanks!
+                            Hi, guys. I'm looking for a parallel gripper for my research project on teleoperation, specifically to be mounted on UR5 and Franka Emika Panda arms. The Schunk Gripper WSG 050-110-B would have been the perfect fit but it's unfortunately discontinued. Does anyone know of reliable retailers who might still have stock (I live in London)? Alternatively, could you recommend a substitute with similar specs? My key requirements are: 1-20N gripping force, >60mm stroke, and a closing speed exceeding 100mm/s? Thank you very much.
                         </div>
                         
 
@@ -804,7 +837,69 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1772544740.0"></span>
+                                    <span data-timestamp="1772549967.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjrepv/how_will_robots_affect_human_creativity/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rjrepv/how_will_robots_affect_human_creativity/" target="_blank" onclick="event.stopPropagation();">How will robots affect human creativity?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I've recently come across this humanoid-robot called Ai-Da. She seems to have been doing the rounds in recent years because of her ability to paint from her sight alone. What's the algorithm doing here? Is it actually inspiration, or is it taking actual images, which is essentially someone's IP, and just adapting it? Also what happens if that artwork is sold using work that is based off someones data? Ai-Da's creator said reently that she sold a painting of Alan Turing worth over $1million - https://www.youtube.com/shorts/hdMa2Jqasf0
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772549707.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjqjy8/robotics_club_amsterdam_meetup_2_haptic_gloves/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rjqjy8/robotics_club_amsterdam_meetup_2_haptic_gloves/" target="_blank" onclick="event.stopPropagation();">Robotics Club Amsterdam – Meetup #2: Haptic Gloves & XR/Robotics application</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772547631.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -849,105 +944,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjpy3q/what_would_you_say_about_a_17yr_old_building_a/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rjpy3q/what_would_you_say_about_a_17yr_old_building_a/" target="_blank" onclick="event.stopPropagation();">What would you say about a 17yr old building a humanoid robot?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I’m currently building a 1,68m tall humanoid robot from scratch as a solo project. I designed and assembled the mechanical structure myself, including the arms and torso, and I’m now working on the legs. It’s going to be battery powered and uses actuators and modules (no custom PCBs). I’m also developing the AI architecture myself. I won’t go into too much detail on that yet, since I’d rather see if I can fully implement it before making big claims. This is my first project at this scale. My goal isn’t maximum strength or industrial-level performance, but creating a functional humanoid platform with its own evolving AI system. I’m turning 17 this year, and I’m building this independently.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772546125.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjng4y/about_servos_motors_and_vsas/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rjng4y/about_servos_motors_and_vsas/" target="_blank" onclick="event.stopPropagation();">About servos motors and VSA's</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I've always been thinking about a way to add compliance to cheap hobby servos, maybe by putting on some attachments(without opening the case or anything). I'm working on it, but what I'm curious about is, would there be any demand? Im planning for a module that uses an additional small geared motor, springs, and a small mcu to make the output shaft act like some kind of a VSA(variable stiffness unit). Please tell me if you would use this as a fellow hobby roboticist( if there was one as an open source project.) Sorry for not posting any blueprints or schemes or that kimd of stuff, I can't use my phone camera nor computer right now(I'm stuck with just my notepad and my pen here) :(
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772539127.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rjm88l/whats_your_take_on_cloud_robotics/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rjm88l/whats_your_take_on_cloud_robotics/" target="_blank" onclick="event.stopPropagation();">What's your take on Cloud Robotics?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            So been seeing recently a lot of improvements with regards to latency and teleoperation when it comes to robotics, and makes me wonder if there might be a point where the idea of hosting the heavy processing in the cloud for robotics becomes the standard, over the current idea that everything needs to be edge computing, done locally. I know for security purposes and privacy maybe some applications may demand local processing, but overall as robotics will become more and more mainstream, there are many applications where Cloud Robotics might be very suitable. Idk what do you all think?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772535023.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -971,7 +967,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-03T14:03:19.553662+00:00">Updated 2026-03-03T14:03:19.553662+00:00</small>
+        <small data-timestamp="2026-03-03T15:12:36.692407+00:00">Updated 2026-03-03T15:12:36.692407+00:00</small>
     </div>
 </div>
 
@@ -1157,20 +1153,20 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://clarksvillenow.com/local/stem-meets-sports-tourism-as-robotics-championship-plans-return-to-clarksville/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://time.com/7382151/china-dominates-the-physical-ai-race/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://clarksvillenow.com/wp-content/blogs.dir/43/files/2026/03/Robotics_2111-Cultivated.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://api.time.com/wp-content/uploads/2026/03/China-Robots-Lunar-New-Year.jpg?quality=85&w=1024&h=628&crop=1');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://clarksvillenow.com/local/stem-meets-sports-tourism-as-robotics-championship-plans-return-to-clarksville/" target="_blank" onclick="event.stopPropagation();">STEM meets sports tourism as Robotics Championship plans return to Clarksville</a>
+                            <a href="https://time.com/7382151/china-dominates-the-physical-ai-race/" target="_blank" onclick="event.stopPropagation();">China Could Dominate the Physical AI Future</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The Vex Robotics competition will take place at F&M Bank Arena, hosting 42 schools fielding 96 teams representing more than 500 middle and high school students.
+                            Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
                         </div>
                         
 
@@ -1180,9 +1176,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://clarksvillenow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Clarksville Now" class="news-favicon">
-                                    <a href="https://clarksvillenow.com" target="_blank" onclick="event.stopPropagation();">Clarksville Now</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://time.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Time Magazine" class="news-favicon">
+                                    <a href="https://time.com" target="_blank" onclick="event.stopPropagation();">Time Magazine</a>
                                     
                                 </div>
                                 
@@ -1190,7 +1186,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772546400.0"></span>
+                                    <span data-timestamp="1772537078.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://eu.36kr.com/en/p/3707071692435588', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://img.36krcdn.com/hsossms/20260303/v2_b8b0a713ea2b4e1db1e44e746850f496@46958@ai_oswg907361oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://eu.36kr.com/en/p/3707071692435588" target="_blank" onclick="event.stopPropagation();">10 billion yuan is being invested in humanoid robots.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Robot companies reach a crossroads after significant exposure.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://eu.36kr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="36 Kr" class="news-favicon">
+                                    <a href="https://eu.36kr.com" target="_blank" onclick="event.stopPropagation();">36 Kr</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1772539876.0"></span>
                                 </div>
                                 
                             </div>
@@ -1280,20 +1317,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://time.com/7382151/china-dominates-the-physical-ai-race/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://api.time.com/wp-content/uploads/2026/03/China-Robots-Lunar-New-Year.jpg?quality=85&w=1024&h=628&crop=1');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202603010098/1140x_a10-7_cTC/20260227glcmuroboticsinnovationcenter-03_1772392341.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://time.com/7382151/china-dominates-the-physical-ai-race/" target="_blank" onclick="event.stopPropagation();">China Could Dominate the Physical AI Future</a>
+                            <a href="https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098" target="_blank" onclick="event.stopPropagation();">Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
+                            The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
                         </div>
                         
 
@@ -1303,9 +1340,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://time.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Time Magazine" class="news-favicon">
-                                    <a href="https://time.com" target="_blank" onclick="event.stopPropagation();">Time Magazine</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.post-gazette.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Pittsburgh Post-Gazette" class="news-favicon">
+                                    <a href="https://www.post-gazette.com" target="_blank" onclick="event.stopPropagation();">Pittsburgh Post-Gazette</a>
                                     
                                 </div>
                                 
@@ -1313,122 +1350,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772537078.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/6-lessons-learned-watching-a-robotics-startup-die-from-the-inside/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/03/k-scale-labs-shuts-down.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.therobotreport.com/6-lessons-learned-watching-a-robotics-startup-die-from-the-inside/" target="_blank" onclick="event.stopPropagation();">6 lessons I learned watching a robotics startup die from the inside</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            After a year as COO of K-Scale Labs, Rui Xu reflects on the hard lessons behind the collapse of its low-cost humanoid robot ambitions.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Robot Report" class="news-favicon">
-                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1772479317.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/" target="_blank" onclick="event.stopPropagation();">Vacant Mountain View Kohl’s turned into temporary robotics hub</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mv-voice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Mountain View Voice" class="news-favicon">
-                                    <a href="https://www.mv-voice.com" target="_blank" onclick="event.stopPropagation();">Mountain View Voice</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1772489694.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/" target="_blank" onclick="event.stopPropagation();">Vex robotics state championship</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fox5sandiego.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="fox5sandiego.com" class="news-favicon">
-                                    <a href="https://fox5sandiego.com" target="_blank" onclick="event.stopPropagation();">fox5sandiego.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1772430555.0"></span>
+                                    <span data-timestamp="1772405467.0"></span>
                                 </div>
                                 
                             </div>
@@ -1477,20 +1399,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/neo-battery-acquires-expansion-scale-120000026.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.fool.com/investing/2026/03/03/why-elon-musks-big-bet-on-robotics-comes-with-sign/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/cnwgroup.com/655eeb75d8a53cf726e9afb92d72dfe9');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F858355%2Fa-robot-working-with-a-human.jpg&w=1200&op=resize');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/neo-battery-acquires-expansion-scale-120000026.html" target="_blank" onclick="event.stopPropagation();">NEO Battery Acquires Expansion Site to Scale Korea-Made Drone & Robotics Battery Cell Manufacturing</a>
+                            <a href="https://www.fool.com/investing/2026/03/03/why-elon-musks-big-bet-on-robotics-comes-with-sign/" target="_blank" onclick="event.stopPropagation();">Why Elon Musk's Big Bet on Robotics Comes With Significant Risks for Tesla Shareholders</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            NEO Battery Materials Ltd. ("NEO" or the "Company") (TSXV: NBM) (OTC: NBMFF), a low-cost, silicon-enhanced battery developer that enables longer-running, rapid-charging batteries for drones, robotics, and physical AI, is pleased to announce the closing of the 3.2-acre expansion site for commercial-scale drone and robotics battery cell manufacturing and the scale-up of silicon anode production (the "Expansion Facility") previously announced (see news release dated on October 9, 2025).
+                            The potential for Tesla's Optimus robot is a massive growth opportunity, but its success is far from a sure thing.
                         </div>
                         
 
@@ -1500,9 +1422,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Motley Fool" class="news-favicon">
+                                    <a href="https://www.fool.com" target="_blank" onclick="event.stopPropagation();">The Motley Fool</a>
                                     
                                 </div>
                                 
@@ -1510,7 +1432,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772539200.0"></span>
+                                    <span data-timestamp="1772550000.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://clarksvillenow.com/local/stem-meets-sports-tourism-as-robotics-championship-plans-return-to-clarksville/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://clarksvillenow.com/wp-content/blogs.dir/43/files/2026/03/Robotics_2111-Cultivated.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://clarksvillenow.com/local/stem-meets-sports-tourism-as-robotics-championship-plans-return-to-clarksville/" target="_blank" onclick="event.stopPropagation();">STEM meets sports tourism as Robotics Championship plans return to Clarksville</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The Vex Robotics competition will take place at F&M Bank Arena, hosting 42 schools fielding 96 teams representing more than 500 middle and high school students.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://clarksvillenow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Clarksville Now" class="news-favicon">
+                                    <a href="https://clarksvillenow.com" target="_blank" onclick="event.stopPropagation();">Clarksville Now</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1772546400.0"></span>
                                 </div>
                                 
                             </div>
@@ -1555,6 +1518,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/neo-battery-acquires-expansion-scale-120000026.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/cnwgroup.com/655eeb75d8a53cf726e9afb92d72dfe9');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/neo-battery-acquires-expansion-scale-120000026.html" target="_blank" onclick="event.stopPropagation();">NEO Battery Acquires Expansion Site to Scale Korea-Made Drone & Robotics Battery Cell Manufacturing</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            NEO Battery Materials Ltd. ("NEO" or the "Company") (TSXV: NBM) (OTC: NBMFF), a low-cost, silicon-enhanced battery developer that enables longer-running, rapid-charging batteries for drones, robotics, and physical AI, is pleased to announce the closing of the 3.2-acre expansion site for commercial-scale drone and robotics battery cell manufacturing and the scale-up of silicon anode production (the "Expansion Facility") previously announced (see news release dated on October 9, 2025).
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1772539200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1575,7 +1579,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-03T14:03:33.862919+00:00">Updated 2026-03-03T14:03:33.862919+00:00</small>
+        <small data-timestamp="2026-03-03T15:12:53.347434+00:00">Updated 2026-03-03T15:12:53.347434+00:00</small>
     </div>
 </div>
 
@@ -1807,7 +1811,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 454</span>
+                                    <span style="color: #9ca3af;">👁️ 808</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -1823,72 +1827,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1772540785.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=fzXFWzHfaz8', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/fzXFWzHfaz8/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">5:34</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=fzXFWzHfaz8" target="_blank" onclick="event.stopPropagation();">Barcelona MWC 2026 Opens with Humanoid Robots and AI Breakthroughs | APT</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation robotics and AI innovation. China's AgiBot ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/jGrZVILfltTMc_WGdU0LaCgWkdz6lykWsMyP8A265ubDpfk8mvahhFxW6DGTbjMw9oqxTYgTjQ=s88-c-k-c0x00ffffff-no-rj" alt="APT" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCpLEtz3H0jSfEneSdf1YKnw" target="_blank" onclick="event.stopPropagation();">APT</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 438</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 10</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1772527100.0"></span>
                                 </div>
                                 
                             </div>
@@ -1962,6 +1900,138 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=VOBHe21heko', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/VOBHe21heko/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">3:01</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=VOBHe21heko" target="_blank" onclick="event.stopPropagation();">Anaksor🪰 Robot Spotlight — War Robots</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/NK1zg5Vd4VCf0tBXogOF454l0h4IqthKueWxCprWldS_b5_FBIyswmrmyC7Niml-2Was1_eV_t0=s88-c-k-c0x00ffffff-no-rj" alt="War Robots [WR]" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCUONs6Dma0w6iDbKUk5cvBg" target="_blank" onclick="event.stopPropagation();">War Robots [WR]</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 25K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 2K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 151</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1772536419.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=fzXFWzHfaz8', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/fzXFWzHfaz8/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">5:34</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=fzXFWzHfaz8" target="_blank" onclick="event.stopPropagation();">Barcelona MWC 2026 Opens with Humanoid Robots and AI Breakthroughs | APT</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation robotics and AI innovation. China's AgiBot ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/jGrZVILfltTMc_WGdU0LaCgWkdz6lykWsMyP8A265ubDpfk8mvahhFxW6DGTbjMw9oqxTYgTjQ=s88-c-k-c0x00ffffff-no-rj" alt="APT" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCpLEtz3H0jSfEneSdf1YKnw" target="_blank" onclick="event.stopPropagation();">APT</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 672</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 12</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 2</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1772527100.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=SNDZb8IrHIw', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
                     <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/SNDZb8IrHIw/hqdefault.jpg');">
@@ -2005,12 +2075,12 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 414</span>
+                                    <span style="color: #9ca3af;">👍 423</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 101</span>
+                                    <span style="color: #9ca3af;">💬 102</span>
                                 </div>
                                 
                             </div>
@@ -2021,72 +2091,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1772463645.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=krV1I2MCtd4', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/krV1I2MCtd4/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">11:41</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=krV1I2MCtd4" target="_blank" onclick="event.stopPropagation();">Americans Can&#39;t Believe What China Built Now!</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/Gi8_YlVcgJx4G8WtPGIgnqjixs6v_sZpUysQjICuvL3s89AmBpL9RVReWKp0hP12qrjhfMo9xko=s88-c-k-c0x00ffffff-no-rj" alt="Cyrus Janssen" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCxEQsjgRRfGWiJJu_PDygxw" target="_blank" onclick="event.stopPropagation();">Cyrus Janssen</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 261K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 7K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1772020889.0"></span>
                                 </div>
                                 
                             </div>
@@ -2133,7 +2137,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 123K</span>
+                                    <span style="color: #9ca3af;">👁️ 124K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2160,24 +2164,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=XIu4K2ZthmQ', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=krV1I2MCtd4', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/XIu4K2ZthmQ/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/krV1I2MCtd4/hqdefault.jpg');">
                         
-                        <span class="duration-badge">1:09</span>
+                        <span class="duration-badge">11:41</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=XIu4K2ZthmQ" target="_blank" onclick="event.stopPropagation();">Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown</a>
+                            <a href="https://www.youtube.com/watch?v=krV1I2MCtd4" target="_blank" onclick="event.stopPropagation();">Americans Can&#39;t Believe What China Built Now!</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown 63600E Eaglebots showcases their double lever robot at the ...
+                            China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
                         </div>
                         
 
@@ -2188,9 +2192,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/O2QcEHahyyW4ph8SLE0vCUeUc5CLLe3-mCoWAXsZkef54dcYjEb0GHKZObmbeUUGYxuSERZJwg=s88-c-k-c0x00ffffff-no-rj" alt="FUN Robotics Network" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/Gi8_YlVcgJx4G8WtPGIgnqjixs6v_sZpUysQjICuvL3s89AmBpL9RVReWKp0hP12qrjhfMo9xko=s88-c-k-c0x00ffffff-no-rj" alt="Cyrus Janssen" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCuJUknE5JjilAfNnmbvr22Q" target="_blank" onclick="event.stopPropagation();">FUN Robotics Network</a>
+                                    <a href="https://www.youtube.com/channel/UCxEQsjgRRfGWiJJu_PDygxw" target="_blank" onclick="event.stopPropagation();">Cyrus Janssen</a>
                                 </div>
                                 
                             </div>
@@ -2199,16 +2203,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 3K</span>
+                                    <span style="color: #9ca3af;">👁️ 262K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 54</span>
+                                    <span style="color: #9ca3af;">👍 7K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 9</span>
+                                    <span style="color: #9ca3af;">💬 1K</span>
                                 </div>
                                 
                             </div>
@@ -2218,69 +2222,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1772497303.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=fhlVu7h6nH8', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/fhlVu7h6nH8/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:39</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=fhlVu7h6nH8" target="_blank" onclick="event.stopPropagation();">Russia&#39;s Ameca Humanoid Robot #robotics #humanoidrobot #ai #airobot</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            In Russia, the Perm Polytenic University is using an Ameca-like humanoid to help train engineering students in next-gen robotics ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/-9kCWtWeJJGztKeXkyekZhmQYaXSSt7eGi5U-a2fGjFQ7g9lYOErdg1ezyAo-OqScsOw9T2J=s88-c-k-c0x00ffffff-no-rj" alt="Kalil 4.0" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC00LYrodHro2ho2PkmhwLig" target="_blank" onclick="event.stopPropagation();">Kalil 4.0</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 772</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 22</span>
-                                </div>
-                                
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1772508278.0"></span>
+                                    <span data-timestamp="1772020889.0"></span>
                                 </div>
                                 
                             </div>
@@ -2397,7 +2339,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 423</span>
+                                    <span style="color: #9ca3af;">👍 424</span>
                                 </div>
                                 
                                 
@@ -2413,6 +2355,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1772244027.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=XIu4K2ZthmQ', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/XIu4K2ZthmQ/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">1:09</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=XIu4K2ZthmQ" target="_blank" onclick="event.stopPropagation();">Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown 63600E Eaglebots showcases their double lever robot at the ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/O2QcEHahyyW4ph8SLE0vCUeUc5CLLe3-mCoWAXsZkef54dcYjEb0GHKZObmbeUUGYxuSERZJwg=s88-c-k-c0x00ffffff-no-rj" alt="FUN Robotics Network" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCuJUknE5JjilAfNnmbvr22Q" target="_blank" onclick="event.stopPropagation();">FUN Robotics Network</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 3K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 57</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 10</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1772497303.0"></span>
                                 </div>
                                 
                             </div>
@@ -2440,7 +2448,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-03T13:00:13.056236+00:00">Updated 2026-03-03T13:00:13.056236+00:00</small>
+        <small data-timestamp="2026-03-03T15:12:44.898958+00:00">Updated 2026-03-03T15:12:44.898958+00:00</small>
     </div>
 </div>
 
