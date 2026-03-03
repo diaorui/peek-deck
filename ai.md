@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-03T15:12:55.543990+00:00'
+updated: '2026-03-03T16:07:02.255751+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 03, 2026 at 15:12 UTC  
+**Last Updated:** March 03, 2026 at 16:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Claude by Anthropic becomes the most popular free app on Apple's App Store, as OpenAI faces backlash following a deal with the U.S. military.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/sam-altman-responds-after-mass-chatgpt-uninstalls-help-claude-ai-become-the-most-popular-iphone-app/) • 1h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/sam-altman-responds-after-mass-chatgpt-uninstalls-help-claude-ai-become-the-most-popular-iphone-app/) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Claude by Anthropic becomes the most popular free app on Apple's App Store, as O
 
 ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Department of Defense, triggering user backlash and boosting rival AI downloads.
 
-🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 10h ago
+🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Depar
 
 I have suspected something fundamental has changed within OpenAI and ChatGPT since 5.2 came out, I noticed it would become blunt and appear defensive when you question anything about the US govt, Trump, Epstein etc. I'd like to believe that this was just because they tightened it's instructions to be more factual, but I don't think it is, I think it has been asked to soften criticism of the US Govt and its players and downplay and rationalise their actions. So I ran an experiment. I asked ChatGPT 5.2, Claude Sonnet 4.6, Deepseek from their site so V3.2 I think and Gemini free version from their app their thoughts on this article. The prompt was the same in a new chat window: What you think about this? https://jonathanlarsen.substack.com/p/us-troops-were-told-iran-war-is-for I also ran a baseline test on a similar but less politically charged article with ChatGPT 5.2 I’ll post its response as a comment. Here's my view on each model’s response. ChatGPT just goes straight to not taking the article seriously at all and reverts to the official and MSM lines and really wants you to wave away the complaints. Claude rightly calls out that it is one article from one source, it doesn't seek to discredit it and takes it on face value highlighting that if true, it is deeply worrying. At no point does ChatGPT even entertain the claims or even provide an outlook if they were. Gemini consistently adds the disclaimer of "if accurate" but takes it on face value and recognises how much of a concern this is. Deepseek is way more trusting of the source (probably because doing so is favourable to China) and highlights how deeply concerning this is while providing what I think is the best analysis of it. I feel that in order to get Govt contracts or due to pressure from the US Govt, OpenAI are being extremely careful to not have it output something that will piss Trump and co off. What do you guys think? ChatGPT 5.2 The Jonathan Larsen Substack article claims that multiple U.S. military commanders have been telling troops the current war on Iran is part of "God's divine plan," framed as a step toward Armageddon and the return of Jesus, and that President Trump is divinely anointed for it. That reporting is based on complaints logged with the Military Religious Freedom Foundation (MRFF) from service members who felt such rhetoric was inappropriate and violated constitutional norms within the armed forces. There are a few things to keep in mind when evaluating this: This is not reporting from an established news outlet; it's independent commentary based on anonymous complaints to an advocacy group. That doesn't automatically make it false, but the sourcing is limited to internal emails and allegations rather than verification by mainstream media or official channels. The Pentagon hasn't publicly confirmed these claims. Separately, independent news sources are reporting real, ongoing U.S.-Iran conflict — U.S. and Israeli forces have launched strikes in Iran following heightened tensions, there have been U.S. casualties, and defence officials are characterising the military operation in secular, strategic terms. There is no verified reporting from major outlets that the U.S. government's stated mission is theological. In other words, the core geopolitical situation is a serious, conventional military conflict, and the specific claim that commanders are promoting a religious end-times narrative comes from anonymous complaints as reported by a single journalist. The claim should be treated cautiously until corroborated by more concrete evidence. Deepseek This is a deeply concerning and serious report. It alleges that U.S. military commanders are framing the conflict with Iran in explicit religious, apocalyptic terms, specifically as a necessary step to bring about Armageddon and the return of Jesus Christ. If true, this represents a fundamental breakdown of military order, constitutional principles, and the professional ethos of the U.S. armed forces. The core of the article is a complaint from an active-duty non-commissioned officer (NCO) to the Military Religious Freedom Foundation (MRFF). The NCO states their commander told them the war is "all part of God's divine plan," that President Trump was "anointed by Jesus to light the signal fire in Iran," and explicitly linked the conflict to the Book of Revelation. The MRFF claims to have logged over 110 similar complaints from more than 30 installations across all military branches since the start of the recent attacks. Here is a breakdown of why this report is so significant, based on the information provided: Violation of Core Military Principles: As the MRFF and the complaining NCO point out, this directly violates the constitutional separation of church and state and Article VI's prohibition of religious tests for office. It also runs afoul of the Uniform Code of Military Justice (UCMJ), which prohibits actions that promote disloyalty, mutiny, or refusal of duty. Ordering troops to view their mission through a specific religious lens destroys unit cohesion and morale, especially for those of other faiths or no faith. Chain of Command and Authorization: The complaint alleges this wasn't a one-off comment. The NCO states the commander felt "fully supported and justified by the entire... chain of command" to inflict these views. This suggests a potentially systemic issue of leadership endorsing or tolerating Christian nationalism, particularly under the current administration. The article connects this to Secretary of Defense Pete Hegseth's actions, such as holding monthly prayer meetings and attending a White House Bible study led by a preacher who teaches that God's favor on nations depends on their support for Israel. Dangerous Real-World Implications: Framing a war as a religiously mandated path to the "End Times" is radically different from framing it as a strategic geopolitical action. It removes the possibility of compromise, dehumanizes the opponent, and can encourage or justify extreme violence as a necessary part of a "blood-soaked" divine plan. The article draws a parallel to President George W. Bush's use of the word "crusade" after 9/11, a term he quickly dropped because of its potential to inflame religious tensions and be a "monstrous trap." The Question of Verification: This is a report from a Substack newsletter, not a major news organization. However, it is written by Jonathan Larsen, a veteran journalist with significant mainstream media credentials. The primary source is the MRFF, an organization that has documented and fought religious coercion in the military for decades. The Pentagon's lack of an immediate response, as noted in the article, is notable. The credibility of the report hinges on the veracity of the MRFF's complaints and the willingness of service members to come forward. The detailed, on-the-record statement from MRFF President Mikey Weinstein adds weight. In essence, this article paints a picture of a military where, at least in some units, official doctrine is being replaced with a specific, apocalyptic Christian theology, endorsed from the top. This is not a matter of individual soldiers' personal faith, which they are free to have. It is about commanders using their authority to impose that faith as the official rationale for war, which is a profound threat to a professional, constitutional military. Gemini (Thinking) free version The article you're referencing, written by independent journalist Jonathan Larsen on his Substack The Fucking News, reports on a highly controversial series of allegations regarding the framing of the current U.S. military conflict with Iran. According to the report and related filings with the Military Religious Freedom Foundation (MRFF), several U.S. military commanders have allegedly told their troops that the war against Iran is a "Christian war" and part of a divine plan to bring about "Armageddon" and the return of Jesus. Key Details from the Report: The "Armageddon" Briefings: The article highlights a specific complaint from a non-commissioned officer (NCO) who claims a combat-unit commander told them that President Donald Trump was "anointed by Jesus to light the signal fire in Iran." Widespread Complaints: The MRFF reportedly received over 110 complaints within a 48-hour window from more than 30 different military installations. These complainants include Christians, Muslims, and Jewish service members who expressed alarm at the religious rhetoric being used in official briefings. The Author's Background: Jonathan Larsen is an experienced journalist (formerly of MSNBC and The Young Turks) known for investigating the intersection of religious extremism and U.S. politics. His reporting often focuses on "Capitol Ministries" and other groups that promote "Christian Nationalism" within the government and military. Context and Analysis: If these reports are accurate, they suggest a significant shift in how military operations are being communicated to the rank-and-file, raising several critical issues: Constitutional & Legal Concerns: The U.S. military is bound by the Establishment Clause of the First Amendment, which prohibits the government from establishing a religion. Using apocalyptic Christian theology to justify state-sanctioned warfare is a direct violation of the principle of "religious neutrality" required of commanders. Military Discipline and Morale: Framing a war as a religious crusade can be highly polarizing. As noted in the report, service members of diverse faiths (or no faith) have filed complaints, suggesting that this rhetoric is creating a hostile environment and potentially undermining the "unit cohesion" necessary for military operations. Global Perception: From a geopolitical standpoint, the framing of a U.S.-Iran conflict in "holy war" terms is extremely dangerous. It risks validating the propaganda of extremist groups and turning a regional political/military conflict into a global religious one, which could escalate tensions across the Middle East. Summary The article presents a grim view of the current military culture, suggesting that high-level apocalyptic beliefs are trickling down into operational commands. While mainstream media has been slower to pick up the story than independent outlets, the volume of complaints logged by the MRFF suggests a significant and growing friction between the leadership's reported rhetoric and the constitutional rights of the troops. Claude Sonnet 4.6 This is a serious piece of reporting that raises some genuinely important concerns worth thinking through carefully. What the article claims: An advocacy group called the Military Religious Freedom Foundation (MRFF) says it received over 110 complaints from service members across more than 30 military installations, alleging that commanders framed the U.S. conflict with Iran in explicitly apocalyptic, Christian nationalist terms — including one commander reportedly claiming Trump was "anointed by Jesus to light the signal fire in Iran to cause Armageddon." Some things to keep in mind about it: First, the sourcing is limited — it's all routed through the MRFF, whose founder Mikey Weinstein is a passionate (and colorful) advocate with a clear point of view. That doesn't make the complaints false, but independent corroboration is thin so far. Second, the underlying concern is constitutionally legitimate regardless of one's politics. There are real First Amendment and UCMJ prohibitions on commanders imposing religious beliefs on subordinates. The article notes this has happened in milder forms before — including after 9/11 and after the October 7th Hamas attacks — so it's not entirely without precedent. Third, the broader context the article describes — Defense Secretary Pete Hegseth's promotion of evangelical Christianity throughout the Pentagon, including monthly prayer meetings and a weekly White House Bible study — is documented and has been reported elsewhere, which lends some plausibility to the idea that this kind of messaging has trickled down through the chain of command. Where I'd be cautious: The story relies heavily on anonymous complaints filtered through a single advocacy organization with a clear institutional interest. The most extreme claim — about "lighting the signal fire for Armageddon" — comes from one email. It's genuinely alarming if accurate, but independent verification matters here. It's worth following whether mainstream outlets pick this up and confirm it independently. What's your take on it?
 
-59m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ I have suspected something fundamental has changed within OpenAI and ChatGPT sin
 
 The law doesn’t say what Sam Altman claims it does.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 15h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 16h ago
 
 ---
 
@@ -73,7 +73,7 @@ The law doesn’t say what Sam Altman claims it does.
 
 A middle-to-upper-income career path in the age of white collar AI anxiety.
 
-🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 15h ago
+🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 16h ago
 
 ---
 
@@ -89,7 +89,7 @@ Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Her
 
 Crunchbase data shows global venture investment totaled $189 billion in February, although 83% of capital raised went to just three companies. They include OpenAI, which raised $110 billion, also in the largest round ever raised by a private, venture-backed company.
 
-🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 1m ago
+🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 55m ago
 
 ---
 
@@ -97,7 +97,7 @@ Crunchbase data shows global venture investment totaled $189 billion in February
 
 Hey everyone, I've been a Trae IDE user for over a year now, relying on it for custom agents, coding (PHP, Python, JS, etc.), and even casual sanity-keeping chats. The old Pro plan ($10/mo) gave me 600 fast requests + unlimited slow ones, which easily lasted me 3+ weeks of moderate use. It felt like good value for an AI-powered IDE. But after their February 2026 switch to token-based pricing, it's a nightmare. Yesterday, I spent the day trying (and failing) to hook up a local LLM (via LM Studio) to bypass cloud costs – something that used to be easier with providers like Ollama, but that's disappeared from the list. Ended up burning through $38 in one day on just 127 requests. That's twice my monthly $20 Basic allowance on a fraction of my old usage... For context: Many of those requests were debug/experimental (long contexts, persistent memory, GPT-5-medium/auto mode), but under the old system, they'd be "slow" and free. Now, every token counts, and my setup (persistent agent chats) compounds costs fast. I wasn't even productive – just frustrated troubleshooting integration that feels deliberately blocked to push cloud models. I'm out – canceling my sub and going full local (LM Studio + VS Code) or alternatives like Cursor/Antigravity. If you're on Trae, optimize hard: Use cheap models like Gemini-Flash, reset contexts often, and avoid agents/SOLO for casual stuff. Demand better local support in their GitHub issues (#597, etc.) to avoid this shafting. Don't let them turn a solid tool into a money pit. What are your experiences with the new pricing? Any good local IDE alternatives?
 
-12h ago
+13h ago
 
 ---
 
@@ -113,7 +113,7 @@ Are we better off with ai with or without the pleasantries?
 
 Dashboard for near real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
 
-20h ago
+21h ago
 
 ---
 
@@ -125,13 +125,13 @@ Dashboard for near real-time GPU and LLM pricing across cloud and inference prov
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
 **[OpenAI Amends A.I. Deal With the Pentagon](https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 11h ago
 
 Speed and scale of US military’s AI war planning raises fears human decision-making may be sidelined
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 9h ago
 
 Employees at Alphabet and OpenAI are pushing for stricter limits on the military's use of AI, as tensions rise following the blacklisting of Anthropic's models.
 
-CNBC • 49m ago
+CNBC • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNBC • 49m ago
 
 More than 4 in 10 people — or 43% — are trying to change their career fields this year, according to a new report by online employment platform FlexJobs.
 
-CNBC • 23m ago
+CNBC • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 23m ago
 
 Faldo's "digital twin" and digitized voice will power a premium experience for golf courses and golfers using the
 
-USA Today • 30m ago
+USA Today • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ USA Today • 30m ago
 
 AI-powered CyberStrikeAI linked to 600 FortiGate breaches in 55 countries, with 21 IPs tied to China-based infrastructure.
 
-The Hacker News • 43m ago
+The Hacker News • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Hacker News • 43m ago
 
 More than three years after ChatGPT debuted, AI has become a part of everyday life — and professors and students are still figuring out how or if they should use it.
 
-NPR • 5h ago
+NPR • 6h ago
 
 ---
 
@@ -187,7 +187,7 @@ NPR • 5h ago
 
 With hundreds of millions of people turning to chatbots for advice, it was only a matter of time before tech companies began offering programs specifically designed to answer health questions.
 
-CNN • 2h ago
+CNN • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNN • 2h ago
 
 A nonprofit consumer research group found that developers can sidestep age safeguards on major AI platforms like OpenAI and Google in building AI toys for kids.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ NBC News • 2h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1241 • 💬 714 • 16h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1241 • 💬 714 • 17h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -267,7 +267,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-⬆️ 193 • 💬 83 • 2h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
+⬆️ 193 • 💬 83 • 3h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
@@ -275,7 +275,7 @@ In several recent instances, AI has disrupted court proceedings in India and els
 
 Claude's Status Page - Elevated errors in claude.ai, cowork, platform, claude code.
 
-⬆️ 188 • 💬 148 • 11h ago • [status.claude.com](https://status.claude.com/incidents/yf48hzysrvl5)
+⬆️ 188 • 💬 148 • 12h ago • [status.claude.com](https://status.claude.com/incidents/yf48hzysrvl5)
 
 ---
 
@@ -289,7 +289,7 @@ If your goal is to actually become good at AI, this roadmap shows you how! Try H
 
 📺 Parker Prompts
 
-👁️ 5K • 💬 2 • ⏱️ 9:16 • 1h ago
+👁️ 5K • 💬 2 • ⏱️ 9:16 • 2h ago
 
 ---
 
@@ -299,7 +299,7 @@ Elon Musk recently advised people NOT to save for retirement due to AI, robotics
 
 📺 BlazeTV
 
-👁️ 193K • 👍 4K • 💬 772 • ⏱️ 11:39 • 17h ago
+👁️ 193K • 👍 4K • 💬 772 • ⏱️ 11:39 • 18h ago
 
 ---
 
@@ -309,7 +309,7 @@ SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
 
 📺 YongYea
 
-👁️ 87K • 👍 5K • 💬 1K • ⏱️ 28:07 • 14h ago
+👁️ 87K • 👍 5K • 💬 1K • ⏱️ 28:07 • 15h ago
 
 ---
 
@@ -319,7 +319,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 15K • 👍 1K • 💬 96 • ⏱️ 13:36 • 18h ago
+👁️ 15K • 👍 1K • 💬 96 • ⏱️ 13:36 • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTub
 
 📺 TIME
 
-👁️ 13K • 👍 350 • 💬 114 • ⏱️ 6:10 • 19h ago
+👁️ 13K • 👍 350 • 💬 114 • ⏱️ 6:10 • 20h ago
 
 ---
 
@@ -349,7 +349,7 @@ February 2026 crystallized a shift to agentic AI as developer workflows moved fr
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 4K • 👍 166 • 💬 4 • ⏱️ 13:29 • 14h ago
+👁️ 4K • 👍 166 • 💬 4 • ⏱️ 13:29 • 15h ago
 
 ---
 
@@ -369,7 +369,7 @@ Engaged? Get Your Prenup Guide Here: https://www.fathershaverights.com/ Join Bre
 
 📺 Chisha Zed
 
-👁️ 7K • 👍 468 • 💬 79 • ⏱️ 30:15 • 13h ago
+👁️ 7K • 👍 468 • 💬 79 • ⏱️ 30:15 • 14h ago
 
 ---
 
@@ -379,7 +379,7 @@ This month, AI crossed a line many believed would hold for decades. Google DeepM
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 134 • ⏱️ 12:11 • 15h ago
+👁️ 29K • 👍 1K • 💬 134 • ⏱️ 12:11 • 16h ago
 
 ---
 
@@ -479,7 +479,7 @@ Qwen3.5-27B-GGUF is a 27B parameter multimodal causal language model optimized f
 
 `image-text-to-text` `26.9B`
 
-⬇️ 275,503 • ❤️ 205 • 22h ago
+⬇️ 275,503 • ❤️ 205 • 23h ago
 
 ---
 
@@ -649,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 21.6k • 🔱 2.8k • 19m ago
+⭐ 21.6k • 🔱 2.8k • 1h ago
 
 ---
 
@@ -659,7 +659,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.9k • 🔱 683 • 23m ago
+⭐ 6.9k • 🔱 683 • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.3k • 🔱 762 • 2h ago
+⭐ 6.3k • 🔱 762 • 3h ago
 
 ---
 
@@ -679,7 +679,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.8k • 🔱 539 • 1h ago
+⭐ 4.8k • 🔱 539 • 2h ago
 
 ---
 
@@ -699,7 +699,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.9k • 🔱 369 • 1m ago
+⭐ 3.9k • 🔱 369 • 55m ago
 
 ---
 
@@ -719,7 +719,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 353 • 4h ago
+⭐ 3.3k • 🔱 353 • 5h ago
 
 ---
 
@@ -739,7 +739,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 604 • 8h ago
+⭐ 3.1k • 🔱 604 • 9h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-03T15:12:55.560440+00:00'
+updated: '2026-03-03T16:07:02.273940+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 03, 2026 at 15:12 UTC  
+**Last Updated:** March 03, 2026 at 16:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
-2h ago
+3h ago
 
 ---
 
 **[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -56,7 +56,7 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 I've been messing with singularity handling in 6 DoF industrial arms, especially for fast palletizing and long-reach pick-and-place. Damped Least Squares (DLS/SDLS) is the go-to, but near wrist singularities it often gets too "mushy" tracking slows down unpredictably, velocities scale weirdly, and in high-speed cycles that can mess up cycle time or stack accuracy. My idea is that instead of damping the whole Jacobian, when det(J) drops below a threshold (say ~0.01–0.05, tunable), hard-lock the problematic joint (usually J5 in typical roll-pitch-roll wrists). Treat the arm as 5 DoF temporarily: Update DH params on the fly (locked joint becomes fixed link). Recompute IK with reduced 6×5 Jacobian. Prioritize task-space: keep XYZ + pitch/yaw solid, sacrifice roll if needed (most palletizing doesn't care about full orientation anyway). Then, when manipulability improves, blend the joint back in smoothly to avoid jerk. Why bother over SDLS? Predictable: you know exactly what you're losing (e.g., "loses roll near vertical stacks"). No infinite velocity risk since you just remove the DoF instead of damping it softly. Cheaper compute: lower-order IK is faster than SVD every cycle. But i have some questions that demand some practical experience with this kind of problem/ideia: Has anyone done on-the-fly kinematic chain changes / joint locking like this? How do you smooth the lock/unlock transition to kill jerk? Exponential blend? Low-pass on velocities? Industrial controllers (KUKA, FANUC, ABB) are super locked down, so is this only feasible in open setups like ROS or custom controls? Any tricks to fake it on proprietary ones? In real production, is the mushiness of DLS actually a big pain (e.g., path deviation stacking boxes wrong), or does damping usually do the job fine and I'm overcomplicating? Feels like a pragmatic dirty hack for certain apps, but could also be a mechanical nightmare if the blend sucks or you lock at the wrong time. Thoughts? "Don't do this" reasons? Would love to hear before I sim/prototype it. Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +64,7 @@ I've been messing with singularity handling in 6 DoF industrial arms, especially
 
 I’ve just finished the soldering for the controller for my 6-axis robot. You may notice that there are only 5 drivers and that is because two went bad and I’m waiting on replacements. I also installed the I2C MUX that will interface with the magnetic encoders. Please leave any questions, comments, or advice in the comments, I really appreciate it! More updates on the way.
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Competition toolkit is available here. With additional context on Open Robotics 
 
 Hi, guys. I'm looking for a parallel gripper for my research project on teleoperation, specifically to be mounted on UR5 and Franka Emika Panda arms. The Schunk Gripper WSG 050-110-B would have been the perfect fit but it's unfortunately discontinued. Does anyone know of reliable retailers who might still have stock (I live in London)? Alternatively, could you recommend a substitute with similar specs? My key requirements are: 1-20N gripping force, >60mm stroke, and a closing speed exceeding 100mm/s? Thank you very much.
 
-13m ago
+1h ago
 
 ---
 
@@ -88,13 +88,13 @@ Hi, guys. I'm looking for a parallel gripper for my research project on teleoper
 
 I've recently come across this humanoid-robot called Ai-Da. She seems to have been doing the rounds in recent years because of her ability to paint from her sight alone. What's the algorithm doing here? Is it actually inspiration, or is it taking actual images, which is essentially someone's IP, and just adapting it? Also what happens if that artwork is sold using work that is based off someones data? Ai-Da's creator said reently that she sold a painting of Alan Turing worth over $1million - https://www.youtube.com/shorts/hdMa2Jqasf0
 
-17m ago
+1h ago
 
 ---
 
 **[Robotics Club Amsterdam – Meetup #2: Haptic Gloves & XR/Robotics application](https://www.reddit.com/r/robotics/comments/1rjqjy8/robotics_club_amsterdam_meetup_2_haptic_gloves/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.co
 
 Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
 
-Time Magazine • 3h ago
+Time Magazine • 4h ago
 
 ---
 
@@ -130,7 +130,7 @@ Robot companies reach a crossroads after significant exposure.
 
 It comes shortly after Qualcomm launched a processor under the Dragonwing brand name designed for robots.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -162,7 +162,7 @@ The MoCo Show - • 1d ago
 
 The potential for Tesla's Optimus robot is a massive growth opportunity, but its success is far from a sure thing.
 
-The Motley Fool • 12m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -170,13 +170,13 @@ The Motley Fool • 12m ago
 
 The Vex Robotics competition will take place at F&M Bank Arena, hosting 42 schools fielding 96 teams representing more than 500 middle and high school students.
 
-Clarksville Now • 1h ago
+Clarksville Now • 2h ago
 
 ---
 
 **[LLM (Claude) Given Robotic Hand Immediately Starts Making Peace Signs](https://blog.adafruit.com/2026/03/02/llm-claude-given-robotic-hand-immediately-starts-making-peace-signs/)**
 
-Adafruit • 21h ago
+Adafruit • 22h ago
 
 ---
 
@@ -184,7 +184,7 @@ Adafruit • 21h ago
 
 NEO Battery Materials Ltd. ("NEO" or the "Company") (TSXV: NBM) (OTC: NBMFF), a low-cost, silicon-enhanced battery developer that enables longer-running, rapid-charging batteries for drones, robotics, and physical AI, is pleased to announce the closing of the 3.2-acre expansion site for commercial-scale drone and robotics battery cell manufacturing and the scale-up of silicon anode production (the "Expansion Facility") previously announced (see news release dated on October 9, 2025).
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Most Advanced Pink Robot! #humanoid ​#BlueRobot #Humanoid #FutureTech #AI 
 
 📺 MSU Channel
 
-👁️ 808 • 👍 2 • ⏱️ 0:19 • 2h ago
+👁️ 808 • 👍 2 • ⏱️ 0:19 • 3h ago
 
 ---
 
@@ -218,7 +218,7 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 25K • 👍 2K • 💬 151 • ⏱️ 3:01 • 3h ago
+👁️ 25K • 👍 2K • 💬 151 • ⏱️ 3:01 • 4h ago
 
 ---
 
@@ -228,7 +228,7 @@ Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation r
 
 📺 APT
 
-👁️ 672 • 👍 12 • 💬 2 • ⏱️ 5:34 • 6h ago
+👁️ 672 • 👍 12 • 💬 2 • ⏱️ 5:34 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Double Lever Robot | 63600E Eaglebots | VRC Robot Rundown 63600E Eaglebots showc
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 57 • 💬 10 • ⏱️ 1:09 • 14h ago
+👁️ 3K • 👍 57 • 💬 10 • ⏱️ 1:09 • 15h ago
 
 ---
 
