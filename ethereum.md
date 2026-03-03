@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-03T19:23:56.145270+00:00'
+updated: '2026-03-03T19:57:20.299848+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 19:23 UTC  
+**Last Updated:** March 03, 2026 at 19:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Before ERC-20 existed, Gavin Wood wrote a token contract called GavCoin and pushed it to the official ethereum/dapp-bin repository. The source code uses sendCoin and coinBalanceOf instead of transfer and balanceOf - it predates any token standard. In July 2015, Vitalik referenced GavCoin five times in his "On Abstraction" blog post as the canonical example for explaining how tokens work on Ethereum. It was already part of the shared vocabulary of early Ethereum developers before mainnet had been live for a week. The contract was deployed to mainnet on April 26, 2016 (block 1,408,600) from a wallet traceable to EthDev and the Genesis block. The name "GavCoin" is hardcoded in the constructor bytecode. A day later, Gavin tweeted "Aww. Me and my key" - his only tweet that month. The mining mechanism is interesting. Anyone can call mine() to mint GAV proportional to the number of blocks elapsed since the last mint. It's essentially a faucet with a time-weighted distribution - earlier miners get more since block intervals accumulate. The validator of the block also receives an equal amount. There's no supply cap. We rebuilt the original dapp as a static site and put it on IPFS, accessible through ENS at gavcoin.eth.limo. You can connect a wallet and actually mine, send, or check balances. The history page documents the full provenance trail with primary sources. The contract: 0xb4abc1bfc403a7b82c777420c81269858a4b8aa4 Original source: ethereum/dapp-bin/coin
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 Manage a DAO with about $8m in treasury. Part of my role is evaluating grant applications and infrastructure investments that could benefit our ecosystem. Constantly get pitched for funding. When deciding this is what matters: Does this solve a real problem? We validate with actual developers and users. Is the team capable of executing? Check github, previous projects and references, not just technical skills. What's the total cost? Not just the initial grant but ongoing maintenance, integration costs, potential technical debt. Recently evaluated a $200k proposal for custom dev tooling and infrastructure. We did deep diligence, talked to 15 developers and reviewed the technical approach. We took a different funding approach. Instead of building everything custom, we partnered with existing solutions like caldera that already solved most of the problem. Cost was a fraction of a custom build and shipped in weeks instead of months. Our developers are happy and we didn't take on maintaining custom infrastructure. Managing DAO funds means accountability to the community. Can't just yolo into shiny projects. Think sustainability and actual usage. Good solutions already exist.
 
-14h ago
+15h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Please help me it’s a large amount, is it lost forever? USDT to a USDC address sorry for typo
 
-20h ago
+21h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 1d ago
 
 Volatility and private equity cash needs, not a market bet, may explain the endowment’s crypto shift, experts say.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1d ago
 
 Ethereum (ETH-USD) moved lower on Tuesday, March 3, trading near $1940 after another failed attempt to retake $2000 left the token pinned near the bottom of its recent range. Read more here.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -202,13 +202,13 @@ TradingView • 23h ago
 
 Dubai, UAE, March  02, 2026  (GLOBE NEWSWIRE) -- The Pepeto team just announced a major advancement on the blockchain tools they have been buildin...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 19h ago
 
 ---
 
 **[Grayscale’s Mini Ethereum Trust Sees $1.5M Exit as Ether Slump Tests Investor Nerves](https://www.tipranks.com/news/cryptocurrencies/grayscales-mini-ethereum-trust-sees-1-5m-exit-as-ether-slump-tests-investor-nerves)**
 
-TipRanks • 8h ago
+TipRanks • 9h ago
 
 ---
 
@@ -216,7 +216,7 @@ TipRanks • 8h ago
 
 Crypto's path to mainstream hinges on overcoming distribution hurdles and embracing institutional finance.
 
-Crypto Briefing • 10h ago
+Crypto Briefing • 11h ago
 
 ---
 
@@ -224,7 +224,7 @@ Crypto Briefing • 10h ago
 
 Ethereum's prolonged price decline contrasts with the blockchain network's busiest phase, perplexing investors.
 
-CryptoSlate • 21h ago
+CryptoSlate • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 129 • 💬 5 • ⏱️ 6:13 • 6h ago
+👁️ 1K • 👍 129 • 💬 5 • ⏱️ 6:13 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 742 • 👍 21 • 💬 6 • ⏱️ 5:09 • 23h ago
+👁️ 742 • 👍 21 • 💬 6 • ⏱️ 5:09 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOIN WARNING: Time Running Out!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 7K • 👍 256 • 💬 63 • ⏱️ 15:51 • 18h ago
+👁️ 7K • 👍 256 • 💬 63 • ⏱️ 15:51 • 19h ago
 
 ---
 

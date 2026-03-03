@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-03T19:23:56.139975+00:00'
+updated: '2026-03-03T19:57:20.293787+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 19:23 UTC  
+**Last Updated:** March 03, 2026 at 19:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
 
-🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 7h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
 
-5h ago
+6h ago
 
 ---
 
 **[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,13 +101,13 @@ Rank #1
 
 As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A quick google tells me that there are ~60 million millionaires in the world, of which ~24 million live in the states alone. That is a lot more millionaires than bitcoins and I bet you can guess where I'm going with this. If every (or even every third) millionaire wants to buy a single bitcoin, there will not be enough bitcoins for everyone, the price would squeeze through the roof. Why this doesn't happen? I believe a single bitcoin in fiat price is well within the liquidity of almost every millionaire, or at least with some reallocation. Enough actually rich rich people just don't care for crypto? Or is the defining limit of a millionaire so loose that most of the 60M people actually don't have the cash to buy a single bitcoin. These are the things I think in shower. Edit: typo fix
 
-13h ago
+14h ago
 
 ---
 
 **[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
 
-19m ago
+52m ago
 
 ---
 
@@ -115,7 +115,7 @@ As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A qui
 
 River reports Fidelity, Bank of America and Morgan Stanley recommend a 1–5% Bitcoin allocation as institutional adoption accelerates.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/river-fidelity-bank-of-america-morgan-stanley-back-15-bitcoin-allocation/) • 4h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/river-fidelity-bank-of-america-morgan-stanley-back-15-bitcoin-allocation/) • 5h ago
 
 ---
 
@@ -131,7 +131,7 @@ Haven't heard much buzz about an approaching milestone - in 2-3 weeks we will ha
 
 not trying to make this political. just an observation. every time there's serious geopolitical tension, the same thing happens. local currencies in affected regions get crushed. people scramble to move money. banks slow down or freeze transfers. capital starts looking for exits. we saw it with iran's rial. been one of the worst performing currencies on earth for years. ordinary people there aren't losing money because they made bad investments. they're losing it because they had no alternative to a currency being destroyed by sanctions and inflation simultaneously. bitcoin doesn't care about any of that. no sanctions can stop a transaction on chain. no government can print more of it. if you hold your own keys nobody can freeze it. the thing is most people in stable countries see bitcoin as a speculative asset. people living through currency collapse see it as survival infrastructure. i just keep thinking about that gap in perspective every time i set my weekly dca and it runs automatically regardless of what's happening in the news. the macro case for a fixed supply asset outside government control isn't getting weaker. it's getting more obvious by the week.
 
-8h ago
+9h ago
 
 ---
 
@@ -157,13 +157,13 @@ Thailand has officially introduced a 0% capital gains tax policy that applies to
 
 MARA has expanded its policy to allow balance sheet bitcoin sales after reporting a $422.2 million fair-value decline in 2025.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
 **[Bitcoin Pulls Back as Risk of Prolonged War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bloomberg • 1h ago
 
 Eric Halem faces life in prison on kidnapping and robbery charges after stealing $350,000 in crypto from a teenager during a home invasion.
 
-Yahoo • 27m ago
+Yahoo • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 2h ago
 
 Bitcoin is moving lower again, but there could be a bigger story underneath the ticker tape.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Motley Fool • 1h ago
 
 Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
 
-Fox News • 18h ago
+Fox News • 19h ago
 
 ---
 
@@ -271,7 +271,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 **[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
 
-⬆️ 2 • 💬 2 • 21h ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
+⬆️ 2 • 💬 2 • 22h ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
 
 ---
 
@@ -313,7 +313,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 154 • ⏱️ 10:14 • 19h ago
+👁️ 45K • 👍 2K • 💬 154 • ⏱️ 10:14 • 20h ago
 
 ---
 
@@ -343,7 +343,7 @@ War in the Middle East just triggered a potential global energy crisis, and mark
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 259 • ⏱️ 16:46 • 20h ago
+👁️ 20K • 👍 2K • 💬 259 • ⏱️ 16:46 • 21h ago
 
 ---
 
@@ -403,7 +403,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 202 • 💬 23 • ⏱️ 4:59 • 20h ago
+👁️ 3K • 👍 202 • 💬 23 • ⏱️ 4:59 • 21h ago
 
 ---
 

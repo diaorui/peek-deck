@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-03T19:23:56.132473+00:00'
+updated: '2026-03-03T19:57:20.285107+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 03, 2026 at 19:23 UTC  
+**Last Updated:** March 03, 2026 at 19:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Crunchbase data shows global venture investment totaled $189 billion in February
 
 Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 56m ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Her
 
 A middle-to-upper-income career path in the age of white collar AI anxiety.
 
-🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 19h ago
+🔗 [Fortune](https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/) • 20h ago
 
 ---
 
@@ -89,7 +89,7 @@ A middle-to-upper-income career path in the age of white collar AI anxiety.
 
 Amateur artist Anne Rowlands lost all her commissions in the past year and says the rise of AI-generated "art" is to blame.
 
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 2h ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Amateur artist Anne Rowlands lost all her commissions in the past year and says 
 
 Hey everyone, I've been a Trae IDE user for over a year now, relying on it for custom agents, coding (PHP, Python, JS, etc.), and even casual sanity-keeping chats. The old Pro plan ($10/mo) gave me 600 fast requests + unlimited slow ones, which easily lasted me 3+ weeks of moderate use. It felt like good value for an AI-powered IDE. But after their February 2026 switch to token-based pricing, it's a nightmare. Yesterday, I spent the day trying (and failing) to hook up a local LLM (via LM Studio) to bypass cloud costs – something that used to be easier with providers like Ollama, but that's disappeared from the list. Ended up burning through $38 in one day on just 127 requests. That's twice my monthly $20 Basic allowance on a fraction of my old usage... For context: Many of those requests were debug/experimental (long contexts, persistent memory, GPT-5-medium/auto mode), but under the old system, they'd be "slow" and free. Now, every token counts, and my setup (persistent agent chats) compounds costs fast. I wasn't even productive – just frustrated troubleshooting integration that feels deliberately blocked to push cloud models. I'm out – canceling my sub and going full local (LM Studio + VS Code) or alternatives like Cursor/Antigravity. If you're on Trae, optimize hard: Use cheap models like Gemini-Flash, reset contexts often, and avoid agents/SOLO for casual stuff. Demand better local support in their GitHub issues (#597, etc.) to avoid this shafting. Don't let them turn a solid tool into a money pit. What are your experiences with the new pricing? Any good local IDE alternatives?
 
-16h ago
+17h ago
 
 ---
 
@@ -133,13 +133,13 @@ CNBC • 5h ago
 
 Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.
 
-blog.google • 2h ago
+blog.google • 3h ago
 
 ---
 
 **[Goldman Sachs Predicts AI Will Eventually Displace 6% of U.S. Workers](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-03-2026/card/goldman-sachs-predicts-ai-will-eventually-displace-6-of-u-s-workers-ftV09CjkneKQ8HDxBvX6?gaa_at=eafs&gaa_n=AWEtsqcGcZvVeWc4hW14xE2nOVpMc0N6FAT2siIdJqB0pG6SWEMY3Hj_dSbm&gaa_ts=69a738b3&gaa_sig=jXsdJL6Lgt43kN2oha142Ervb6rp7FDTehQKso14k4dDBbX9uNcpZojNLM4SeshoZ9-eBDqkOi3FLJpsqKJkFg%3D%3D)**
 
-WSJ • 35m ago
+WSJ • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ WSJ • 35m ago
 
 A senior Pentagon official said on Tuesday that commercial AI contracts signed under the Biden administration contained sweeping operational restrictions that threatened to paralyze ‌U.S. military mis...
 
-Yahoo • 40m ago
+Yahoo • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo • 40m ago
 
 CNBC's Deirdre Bosa reports on news regarding China's AI progress.
 
-CNBC • 6m ago
+CNBC • 39m ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 5h ago
 
 Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
 
-Time Magazine • 7h ago
+Time Magazine • 8h ago
 
 ---
 
@@ -207,7 +207,7 @@ PR Newswire • 6h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1323 • 💬 743 • 20h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1323 • 💬 743 • 21h ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -289,7 +289,7 @@ If your goal is to actually become good at AI, this roadmap shows you how! Try H
 
 📺 Parker Prompts
 
-👁️ 13K • 💬 2 • ⏱️ 9:16 • 5h ago
+👁️ 13K • 💬 2 • ⏱️ 9:16 • 6h ago
 
 ---
 
@@ -299,7 +299,7 @@ Elon Musk recently advised people NOT to save for retirement due to AI, robotics
 
 📺 BlazeTV
 
-👁️ 217K • 👍 5K • 💬 884 • ⏱️ 11:39 • 21h ago
+👁️ 217K • 👍 5K • 💬 884 • ⏱️ 11:39 • 22h ago
 
 ---
 
@@ -319,7 +319,7 @@ SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
 
 📺 YongYea
 
-👁️ 100K • 👍 5K • 💬 1K • ⏱️ 28:07 • 18h ago
+👁️ 100K • 👍 5K • 💬 1K • ⏱️ 28:07 • 19h ago
 
 ---
 
@@ -359,7 +359,7 @@ Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTub
 
 📺 TIME
 
-👁️ 15K • 👍 374 • 💬 129 • ⏱️ 6:10 • 23h ago
+👁️ 15K • 👍 374 • 💬 129 • ⏱️ 6:10 • 1d ago
 
 ---
 
@@ -369,7 +369,7 @@ Engaged? Get Your Prenup Guide Here: https://www.fathershaverights.com/ Join Bre
 
 📺 Chisha Zed
 
-👁️ 9K • 👍 529 • 💬 99 • ⏱️ 30:15 • 17h ago
+👁️ 9K • 👍 529 • 💬 99 • ⏱️ 30:15 • 18h ago
 
 ---
 
@@ -419,7 +419,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,904 • ❤️ 475 • 3d ago
+⬇️ 569,904 • ❤️ 475 • 4d ago
 
 ---
 
@@ -661,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 7.0k • 🔱 697 • 3h ago
+⭐ 7.0k • 🔱 697 • 4h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.3k • 🔱 764 • 3h ago
+⭐ 6.3k • 🔱 764 • 4h ago
 
 ---
 
@@ -681,7 +681,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.9k • 🔱 547 • 1h ago
+⭐ 4.9k • 🔱 547 • 2h ago
 
 ---
 
@@ -721,7 +721,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 354 • 8h ago
+⭐ 3.3k • 🔱 354 • 9h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-03T19:23:56.148059+00:00'
+updated: '2026-03-03T19:57:20.303270+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 03, 2026 at 19:23 UTC  
+**Last Updated:** March 03, 2026 at 19:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
-6h ago
+7h ago
 
 ---
 
 **[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -56,7 +56,7 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_realsense.html
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +64,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_r
 
 I've been messing with singularity handling in 6 DoF industrial arms, especially for fast palletizing and long-reach pick-and-place. Damped Least Squares (DLS/SDLS) is the go-to, but near wrist singularities it often gets too "mushy" tracking slows down unpredictably, velocities scale weirdly, and in high-speed cycles that can mess up cycle time or stack accuracy. My idea is that instead of damping the whole Jacobian, when det(J) drops below a threshold (say ~0.01–0.05, tunable), hard-lock the problematic joint (usually J5 in typical roll-pitch-roll wrists). Treat the arm as 5 DoF temporarily: Update DH params on the fly (locked joint becomes fixed link). Recompute IK with reduced 6×5 Jacobian. Prioritize task-space: keep XYZ + pitch/yaw solid, sacrifice roll if needed (most palletizing doesn't care about full orientation anyway). Then, when manipulability improves, blend the joint back in smoothly to avoid jerk. Why bother over SDLS? Predictable: you know exactly what you're losing (e.g., "loses roll near vertical stacks"). No infinite velocity risk since you just remove the DoF instead of damping it softly. Cheaper compute: lower-order IK is faster than SVD every cycle. But i have some questions that demand some practical experience with this kind of problem/ideia: Has anyone done on-the-fly kinematic chain changes / joint locking like this? How do you smooth the lock/unlock transition to kill jerk? Exponential blend? Low-pass on velocities? Industrial controllers (KUKA, FANUC, ABB) are super locked down, so is this only feasible in open setups like ROS or custom controls? Any tricks to fake it on proprietary ones? In real production, is the mushiness of DLS actually a big pain (e.g., path deviation stacking boxes wrong), or does damping usually do the job fine and I'm overcomplicating? Feels like a pragmatic dirty hack for certain apps, but could also be a mechanical nightmare if the blend sucks or you lock at the wrong time. Thoughts? "Don't do this" reasons? Would love to hear before I sim/prototype it. Thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’ve just finished the soldering for the controller for my 6-axis robot. You m
 
 I’m currently building a 1,68m tall humanoid robot from scratch as a solo project. I designed and assembled the mechanical structure myself, including the arms and torso, and I’m now working on the legs. It’s going to be battery powered and uses actuators and modules (no custom PCBs). I’m also developing the AI architecture myself. I won’t go into too much detail on that yet, since I’d rather see if I can fully implement it before making big claims. This is my first project at this scale. My goal isn’t maximum strength or industrial-level performance, but creating a functional humanoid platform with its own evolving AI system. I’m turning 17 this year, and I’m building this independently.
 
-5h ago
+6h ago
 
 ---
 
@@ -132,7 +132,7 @@ Scientific American • 1d ago
 
 Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
 
-Time Magazine • 7h ago
+Time Magazine • 8h ago
 
 ---
 
@@ -146,7 +146,7 @@ Yahoo Finance • 1d ago
 
 **[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
 
-Phys.org • 1h ago
+Phys.org • 2h ago
 
 ---
 
@@ -168,7 +168,7 @@ Pittsburgh Post-Gazette • 1d ago
 
 **[Simulated cats and elephants with touch-based memory help usher in new age of robotics](https://techxplore.com/news/2026-03-simulated-cats-elephants-based-memory.html)**
 
-Tech Xplore • 1h ago
+Tech Xplore • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Most Advanced Pink Robot! #humanoid ​#BlueRobot #Humanoid #FutureTech #AI 
 
 📺 MSU Channel
 
-👁️ 833 • 👍 2 • ⏱️ 0:19 • 6h ago
+👁️ 833 • 👍 2 • ⏱️ 0:19 • 7h ago
 
 ---
 
@@ -206,7 +206,7 @@ Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation r
 
 📺 APT
 
-👁️ 988 • 👍 12 • 💬 2 • ⏱️ 5:34 • 10h ago
+👁️ 988 • 👍 12 • 💬 2 • ⏱️ 5:34 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ In Russia, the Perm Polytenic University is using an Ameca-like humanoid to help
 
 📺 Kalil 4.0
 
-👁️ 888 • 👍 25 • ⏱️ 0:39 • 15h ago
+👁️ 888 • 👍 25 • ⏱️ 0:39 • 16h ago
 
 ---
 
