@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-03T19:57:20.299848+00:00'
+updated: '2026-03-03T20:40:13.640550+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 19:57 UTC  
+**Last Updated:** March 03, 2026 at 20:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,59 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,960.63
+### $1,988.78
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** -3.1%  
-**30d:** -15.0%  
-**90d:** -36.3%  
-**1y:** -8.3%  
+**24h:** -2.9%  
+**7d:** -3.6%  
+**30d:** -15.4%  
+**90d:** -36.6%  
+**1y:** -8.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.06B
+**Market Cap:** $239.46B
 Rank #2
 
 **Circulating Supply:** 120,692,182 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.0%
+-59.9%
 
 **All-Time Low:** $0.43
-+457252.4%
++458060.8%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Sanctuary technologies](https://www.reddit.com/r/ethereum/comments/1rjyqnx/sanctuary_technologies/)**
+
+Over the past year, many people I talk to have expressed worry about two topics: Various aspects of the way the world is going: government control and surveillance, wars, corporate power and surveillance, tech enshittification / corposlop, social media becoming a memetic warzone, AI and how it interplays with all of the above... The brute reality that Ethereum seems to be absent from meaningfully improving the lives of people subject to these things, even on the dimensions we deeply care about (eg. freedom, privacy, security of digital life, community self-organization) It is easy to bond over the first, to commiserate over the fact that beauty and good in the world seems to be receding and darkness advancing, and uncaring powerful people in high places are making this happen. But ultimately, it is easy to acknowledge problems, the hard thing is actually shining a light forward, coming up with a concrete plan that makes the situation better. The second has been weighing heavily on my mind, and on the minds of many of our brightest and most idealistic Ethereans. I personally never felt any upset or fear when political memecoins went on Solana, or various zero-sum gambling applications go on whatever 250 millisecond block chain strikes their fancy. But it does weigh on me that, through all of the various low-grade online memetic wars, international overreaches of corporate and government power, and other issues of the last few years, Ethereum has been playing a very limited role in making people's lives better. What are the liberating technologies? Starlink is the most obvious one. Locally-running open-weights LLMs are another. Signal is a third. Community Notes is a fourth, tackling the problem from a different angle. One response is to say "stop dreaming big, we need to hunker down and accept that finance is our lane and laser-focus on that". But this is ultimately hollow. Financial freedom and security is critical. But it seems obvious that, while adding a perfectly free and open and sovereign and debasement-proof financial system would fix some things, but it would leave the bulk of our deep worries about the world unaddressed. It's okay for individuals to laser-focus on finance, but we need to be part of some greater whole that has things to say about the other problems too. At the same time, Ethereum cannot fix the world. Ethereum is the "wrong-shaped tool" for that: beyond a certain point, "fixing the world" implies a form of power projection that is more like a centralized political entity than like a decentralized technology community. So what can we do? I think that we in Ethereum should conceptualize ourselves as being part of an ecosystem building "sanctuary technologies": free open-source technologies that let people live, work, talk to each other, manage risk and build wealth, and collaborate on shared goals, in a way that optimizes for robustness to outside pressures. The goal is not to remake the world in Ethereum's image, where all finance is disintermediated, all governance happens through DAOs, and everyone gets a blockchain-based UBI delivered straight to their social-recovery wallet. The goal is the opposite: it's de-totalization. It's to reduce the stakes of the war in heaven by preventing the winner from having total victory (ie. total control over other human beings), and preventing the loser from suffering total defeat. To create digital islands of stability in a chaotic era. To enable interdependence that cannot be weaponized. Ethereum's role is to create "digital space" where different entities can cooperate and interact. Communications channels enable interaction, but communication channels are not "space": they do not let you create single unique objects that canonically represent some social arrangement that changes over time. Money is one important example. Multisigs that can change their members, showing persistence exceeding that of any one person or one public key, are another. Various market and governance structures are a third. There are more. I think now is the time to double down, with greater clarity. Do not try to be Apple or Google, seeing crypto as a tech sector that enables efficiency or shininess. Instead, build our part of the sanctuary tech ecosystem - the "shared digital space with no owner" that enables both open finance and much more. More actively build toward a full-stack ecosystem: both upward to the wallet and application layer (incl AI as interface) and downward to the OS, hardware, even physical/bio security levels. Ultimately, tech is worthless without users. But look for users, both individual and institutional, for whom sanctuary tech is exactly the thing they need. Optimize payments, defi, decentralized social, and other applications precisely for those users, and those goals, which centralized tech will not serve. We have many allies, including many outside of "crypto". It's time we work together with an open mind and move forward.
+
+1h ago
+
+---
+
 **[Daily General Discussion March 03, 2026](https://www.reddit.com/r/ethereum/comments/1rjhj9n/daily_general_discussion_march_03_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
+
+---
+
+**[ETH is down 60% from ATH and sitting near $2K. Glamsterdam upgrade targeting MEV resistance by May. Is this the 2020 accumulation zone all over again?](https://www.reddit.com/r/ethereum/comments/1rk04pb/eth_is_down_60_from_ath_and_sitting_near_2k/)**
+
+ETH has retraced ~60% from the August 2025 ATH near $5,000. Painful to watch. But the fundamentals haven't changed — if anything, the roadmap is accelerating. What's on deck: Glamsterdam upgrade targeting MEV resistance — expected May 2026 Verkle Trees (Hegota) later in 2026 for scalability improvements Twitter sentiment still running 55% bullish with 40K+ unique users actively discussing ETH Analysts broadly agree a sustained break above $3K opens a path to the $4,500–$6,200 range by year end At ~$2,000, that's a potential 2-3x if the bull cycle resumes. The last time ETH sat in a drawdown this deep relative to its fundamentals was the 2020 accumulation zone before the run to $4,800. For those of you who missed that window — does this feel familiar? Full breakdown with all 5 coins on the watchlist: https://www.cryptobull.org/hot-coins/hot-coins-2026
+
+25m ago
 
 ---
 
@@ -84,11 +100,19 @@ Before ERC-20 existed, Gavin Wood wrote a token contract called GavCoin and push
 
 ---
 
+**[I know we all hate the dystopian eyeball scanners, but the ZK-ML tech that was just open-sourced is actually a massive win for Ethereum privacy.](https://www.reddit.com/r/ethereum/comments/1rk0jty/i_know_we_all_hate_the_dystopian_eyeball_scanners/)**
+
+Let’s address the elephant in the room first. This community (and Vitalik himself) has rightfully dragged the entire Proof-of-Personhood concept for the massive centralization risks of proprietary hardware and the general "ick" factor of biometric data collection. I have been one of the biggest skeptics of the whole "scan your iris for tokens" model since day one. But setting the tokenomics and the physical hardware aside for a minute, the engineering team behind world just dropped an open-source cryptographic update that is honestly a massive leap forward for Zero-Knowledge Machine Learning (ZK-ML) on Ethereum. They just open-sourced "Remainder", a highly efficient in-house ZK prover built on the GKR protocol combined with a Hyrax polynomial commitment scheme. Why should we care about this? Historically, one of the biggest architectural flaws in biometric identity was the upgrade path. If the recognition algorithm improves, how do you upgrade the user's cryptographic credentials without forcing them to go back to a physical, centralized hardware device to get scanned again? Remainder solves this entirely on the client side. It is specifically optimized to run heavy ML computations directly on standard mobile hardware. This means when the underlying algorithms update, your phone runs the new ML model locally over your securely custodied data, and simply generates a Zero-Knowledge proof that the execution was correct. The raw biometric data never leaves your device. The network just verifies the proof. We talk constantly in this sub about building trustless identity primitives and scaling privacy on-chain. Using GKR to achieve linear-time proving on consumer edge devices - so users no longer have to rely on a centralized server for biometric processing - is exactly the kind of cypherpunk engineering we should be encouraging. I’m genuinely curious to hear from the ZK nerds and privacy maxis here: Does shifting the heavy lifting to local, client-side ZK proofs and open-sourcing the prover code soften your stance on this protocol at all? Or is the reliance on that initial hardware scan still an unforgivable "original sin" for decentralized identity?
+
+10m ago
+
+---
+
 **[Best crypto app/wallet](https://www.reddit.com/r/ethereum/comments/1rjrx6h/best_crypto_appwallet/)**
 
 I’m looking for a mobile wallet that’s easy to use but secure, especially since I don’t have a laptop and need a mobile‑first solution. I know this question gets asked a lot, but older recommendations don’t feel as relevant anymore with recent hacks and data leaks. Right now I’m on an exchange, but I want to move to a hot wallet first and maybe in a few months go to a cold wallet once I feel more comfortable. So, what’s the best hot/mobile wallet out there right now for beginners? What do you use?
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +128,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 Manage a DAO with about $8m in treasury. Part of my role is evaluating grant applications and infrastructure investments that could benefit our ecosystem. Constantly get pitched for funding. When deciding this is what matters: Does this solve a real problem? We validate with actual developers and users. Is the team capable of executing? Check github, previous projects and references, not just technical skills. What's the total cost? Not just the initial grant but ongoing maintenance, integration costs, potential technical debt. Recently evaluated a $200k proposal for custom dev tooling and infrastructure. We did deep diligence, talked to 15 developers and reviewed the technical approach. We took a different funding approach. Instead of building everything custom, we partnered with existing solutions like caldera that already solved most of the problem. Cost was a fraction of a custom build and shipped in weeks instead of months. Our developers are happy and we didn't take on maintaining custom infrastructure. Managing DAO funds means accountability to the community. Can't just yolo into shiny projects. Think sustainability and actual usage. Good solutions already exist.
 
-15h ago
+16h ago
 
 ---
 
@@ -120,29 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Please help me it’s a large amount, is it lost forever? USDT to a USDC address sorry for typo
 
-21h ago
-
----
-
-**[RWA on Ethereum feels less like hype and more like a maturity test](https://www.reddit.com/r/ethereum/comments/1rj5ncr/rwa_on_ethereum_feels_less_like_hype_and_more/)**
-
-Maybe unpopular take, but I don’t think RWA is a “narrative” anymore. A few cycles ago, yield on Ethereum mostly meant emissions. Liquidity mining. Governance token incentives. Boosted pools. You could almost feel the dilution in real time. It worked. Until it didn’t. The structural issue was obvious in hindsight: yield funded by token inflation isn’t the same as yield funded by external cashflow. One depends on reflexivity. The other depends on actual economic activity somewhere outside the EVM. That’s why RWA keeps resurfacing here. Centrifuge tried collateralized real-world assets. Maple leaned into institutional credit. Ondo pushed tokenized Treasuries into DeFi rails. Goldfinch experimented with undercollateralized lending. Different risk models. Same direction: Ethereum as settlement for off-chain cashflows. I’ve been looking at 8lends recently from a portfolio construction angle. RWA-backed lending, fixed monthly payouts, structured more like credit exposure than a farm. Not exciting. Which is kind of the point. Fixed doesn’t mean safe. It just means the risk moves. From token dilution and volatility to underwriting quality and legal enforceability. But if Ethereum wants to evolve beyond cyclical liquidity games, it probably needs primitives that aren’t purely reflexive. So the real question for this sub: Is RWA a necessary evolution for Ethereum DeFi, or are we just wrapping TradFi risk and calling it innovation? And how much transparency would you need before allocating capital to an RWA protocol?
-
 22h ago
-
----
-
-**[I built a decentralized file vault where only your crypto wallet can decrypt your data — no centralized providers holds your encryption keys](https://www.reddit.com/r/ethereum/comments/1rjhxgu/i_built_a_decentralized_file_vault_where_only/)**
-
-13h ago
-
----
-
-**[What the shift to mobile ZK-ML means for the ecosystem](https://www.reddit.com/r/ethereum/comments/1rj41je/what_the_shift_to_mobile_zkml_means_for_the/)**
-
-I’ve always felt that the biggest hurdle for decentralized identity was the "black box" problem of physical hardware. Most of us here have followed the controversy surrounding the Orb and the inherent trust issues that come with proprietary biometric sensors. It’s a classic security vs. privacy trade-off that usually ends in a stalemate. However, the recent open-sourcing of the Remainder prover marks a pretty significant shift in the technical architecture that’s worth looking at from an Ethereum-centric perspective. We’re essentially seeing the transition from "Trust the Gadget" to "Verify the Math". By moving the heavy ML processing from a physical device directly to a user’s smartphone using a GKR + Hyrax-based proof system, we’re entering the territory of production-grade ZK-ML on consumer hardware. This is a massive engineering leap because running machine learning layers locally and generating a ZK-proof that the model was executed correctly - without the raw data ever leaving the device - is exactly the kind of client-side verifiability we’ve been talking about for years. It turns the phone into a verifiable node of trust, potentially making the physical Orb a one-time gateway rather than a permanent central authority. This is more than just an update to a single project; it’s a high-stakes stress test for ZK-SNARKs on the edge. If we can prove that high-performance provers can handle complex ML inferences on mobile GPUs without compromising privacy or draining the battery, it changes the game for everything from Proof-of-Personhood to private DAO voting. It’s a fascinating pivot from hardware-centric identity to a math-first approach, and I’m curious if this finally bridges the gap for those who were previously put off by the centralized nature of the initial setup.
-
-23h ago
 
 ---
 
@@ -166,11 +168,11 @@ The Block • 1d ago
 
 ---
 
-**[Inside the Harvard's crypto play: Why the endowment is swapping bitcoin for ethereum ETFs](https://www.coindesk.com/business/2026/03/03/here-is-why-harvard-trimmed-bitcoin-and-bought-ether-and-why-the-move-is-bullish-for-crypto)**
+**[Vitalik Buterin unveils plan to curb Ethereum block builder centralization](https://www.coindesk.com/tech/2026/03/02/vitalik-buterin-unveils-plan-to-curb-ethereum-block-builder-centralization)**
 
-Volatility and private equity cash needs, not a market bet, may explain the endowment’s crypto shift, experts say.
+Another focus of his post is so-called “toxic MEV,” where traders exploit visibility into pending transactions to front-run or “sandwich” users’ trades.
 
-CoinDesk • 4h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -186,7 +188,15 @@ Yahoo Finance • 1d ago
 
 Ethereum (ETH-USD) moved lower on Tuesday, March 3, trading near $1940 after another failed attempt to retake $2000 left the token pinned near the bottom of its recent range. Read more here.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
+
+---
+
+**[Ethereum gains on Bitcoin as capital rotates back into altcoins](https://ambcrypto.com/ethereum-gains-on-bitcoin-as-capital-rotates-back-into-altcoins/)**
+
+Altcoins may be approaching a pivotal moment.
+
+AMBCrypto • 22h ago
 
 ---
 
@@ -194,7 +204,7 @@ Seeking Alpha • 2h ago
 
 The Bitcoin and Ethereum prices plunged sharply over the weekend as missiles flew across the Middle East, exposing just how quickly geopolitical crises can send shockwaves through the financial markets. A joint US and Israel strike on Iran triggered a violent selloff that wiped out billions of doll…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -202,29 +212,21 @@ TradingView • 23h ago
 
 Dubai, UAE, March  02, 2026  (GLOBE NEWSWIRE) -- The Pepeto team just announced a major advancement on the blockchain tools they have been buildin...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
 **[Grayscale’s Mini Ethereum Trust Sees $1.5M Exit as Ether Slump Tests Investor Nerves](https://www.tipranks.com/news/cryptocurrencies/grayscales-mini-ethereum-trust-sees-1-5m-exit-as-ether-slump-tests-investor-nerves)**
 
-TipRanks • 9h ago
+TipRanks • 10h ago
 
 ---
 
-**[John Paller: Traditional finance is outpacing crypto execution, distribution is key for mainstream adoption, and Ethereum's scaling issues drive Layer 2 innovation | Epicenter](https://cryptobriefing.com/john-paller-traditional-finance-is-outpacing-crypto-execution-distribution-is-key-for-mainstream-adoption-and-ethereums-scaling-issues-drive-layer-2-innovation-epicenter/)**
+**[Next Crypto To Explode 2026: DeepSnitch AI’s 100X Projection Steals #1 Spot As Grass And Seeker Compete](https://blockchainreporter.net/next-crypto-to-explode-by-100x-in-2026-deepsnitch-ai-vs-grass-vs-seeker-vitalik-buterin-says-ethereum-smart-accounts-coming-within-a-year/)**
 
-Crypto's path to mainstream hinges on overcoming distribution hurdles and embracing institutional finance.
+DeepSnitch AI is being named the next crypto to explode by 100X in 2026, while Grass and Seeker compete. Vitalik Buterin confirms Ethereum smart accounts will come "within a year.”
 
-Crypto Briefing • 11h ago
-
----
-
-**[Ethereum usage is at record highs yet ETH nears its longest monthly losing streak since 2018](https://cryptoslate.com/ethereum-battles-longest-monthly-loss-streak-since-2018/)**
-
-Ethereum's prolonged price decline contrasts with the blockchain network's busiest phase, perplexing investors.
-
-CryptoSlate • 22h ago
+BlockchainReporter • 6h ago
 
 ---
 
@@ -232,13 +234,53 @@ CryptoSlate • 22h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Bitcoin &amp; Ethereum &quot;Buy&quot; 50% Below Record Highs, ETFs Adding Exposure](https://www.youtube.com/watch?v=zr0xNUhtXcY)**
+
+Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum are both buys amid steep sell-offs in the crypto ...
+
+📺 Schwab Network
+
+👁️ 135 • 👍 7 • 💬 1 • ⏱️ 8:40 • 39m ago
+
+---
+
+**[BUY ETHEREUM!](https://www.youtube.com/watch?v=LfrCGteIJsE)**
+
+Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/PainofCrypt0 Instagram ...
+
+📺 Pain of Crypto
+
+👁️ 3K • 👍 107 • 💬 30 • ⏱️ 6:27 • 22h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=qZ_aRpWh1ZU)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 129 • 💬 5 • ⏱️ 6:13 • 7h ago
+👁️ 2K • 👍 141 • 💬 5 • ⏱️ 6:13 • 8h ago
+
+---
+
+**[Vitalik Buterin Is Selling His ETH: What It Means for Ethereum](https://www.youtube.com/watch?v=PuX5B18EZvs)**
+
+Did Vitalik Buterin just dump Ethereum at the worst possible time? After announcing a “few years” funding plan, nearly half the ...
+
+📺 Coin Bureau
+
+👁️ 77K • 👍 2K • 💬 284 • ⏱️ 18:01 • 2d ago
+
+---
+
+**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 744 • 👍 21 • 💬 6 • ⏱️ 5:09 • 1d ago
 
 ---
 
@@ -252,53 +294,13 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 ---
 
-**[BUY ETHEREUM!](https://www.youtube.com/watch?v=LfrCGteIJsE)**
-
-Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/PainofCrypt0 Instagram ...
-
-📺 Pain of Crypto
-
-👁️ 2K • 👍 97 • 💬 30 • ⏱️ 6:27 • 21h ago
-
----
-
-**[Vitalik Buterin Is Selling His ETH: What It Means for Ethereum](https://www.youtube.com/watch?v=PuX5B18EZvs)**
-
-Did Vitalik Buterin just dump Ethereum at the worst possible time? After announcing a “few years” funding plan, nearly half the ...
-
-📺 Coin Bureau
-
-👁️ 77K • 👍 2K • 💬 283 • ⏱️ 18:01 • 2d ago
-
----
-
-**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 742 • 👍 21 • 💬 6 • ⏱️ 5:09 • 1d ago
-
----
-
 **[WILL ETH BREAKDOWN NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=WlhM55U6kZU)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 202 • 👍 11 • 💬 3 • ⏱️ 5:15 • 9h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=iDEbFROubGk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 135 • 💬 19 • ⏱️ 5:31 • 17h ago
+👁️ 246 • 👍 12 • 💬 3 • ⏱️ 5:15 • 10h ago
 
 ---
 
@@ -308,27 +310,27 @@ Well, it looks like someone finally realized that something had to be done or th
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 768 • 💬 64 • ⏱️ 27:48 • 1d ago
+👁️ 7K • 👍 772 • 💬 64 • ⏱️ 27:48 • 1d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: Time Running Out!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v2z4by2rQ8o)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=iDEbFROubGk)**
 
-BITCOIN & ALTCOIN WARNING: Time Running Out!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 7K • 👍 256 • 💬 63 • ⏱️ 15:51 • 19h ago
+👁️ 2K • 👍 135 • 💬 19 • ⏱️ 5:31 • 18h ago
 
 ---
 
-**[QUAL SERÁ O FUTURO DO ETHEREUM?](https://www.youtube.com/watch?v=HjQBbwxDgbo)**
+**[Ethereum Weekly: Big Green Dot Signals! #shorts #marketcipher #cryptoface #mc #cf #eth](https://www.youtube.com/watch?v=JnZEv7zp3uw)**
 
-Qual será o futuro do Ethereum nos próximos anos? Neste vídeo, faço uma análise estratégica sobre os vetores que realmente ...
+A significant green dot on the Ethereum weekly chart. The last time this appeared, it marked a strong bottom. Is history repeating ...
 
-📺 Orlando on Crypto
+📺 Crypto Face
 
-👁️ 4K • 👍 706 • 💬 20 • ⏱️ 15:57 • 20h ago
+👁️ 200 • 👍 7 • ⏱️ 0:49 • 16m ago
 
 ---
 

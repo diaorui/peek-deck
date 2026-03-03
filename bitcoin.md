@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-03T19:57:20.293787+00:00'
+updated: '2026-03-03T20:40:13.634512+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 03, 2026 at 19:57 UTC  
+**Last Updated:** March 03, 2026 at 20:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,757.67
+### $68,510.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +1.3%  
-**30d:** -12.6%  
-**90d:** -25.3%  
-**1y:** -21.1%  
+**24h:** -1.5%  
+**7d:** +0.7%  
+**30d:** -13.2%  
+**90d:** -25.7%  
+**1y:** -21.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1365.99B
+**Market Cap:** $1367.94B
 Rank #1
 
-**Circulating Supply:** 19,997,362 BTC
+**Circulating Supply:** 19,997,384 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.8%
+-45.7%
 
 **All-Time Low:** $67.81
-+100590.2%
++100817.3%
 
 ---
 
@@ -91,6 +91,12 @@ Rank #1
 
 ---
 
+**[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
+
+1h ago
+
+---
+
 **[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
 
 4h ago
@@ -102,12 +108,6 @@ Rank #1
 As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A quick google tells me that there are ~60 million millionaires in the world, of which ~24 million live in the states alone. That is a lot more millionaires than bitcoins and I bet you can guess where I'm going with this. If every (or even every third) millionaire wants to buy a single bitcoin, there will not be enough bitcoins for everyone, the price would squeeze through the roof. Why this doesn't happen? I believe a single bitcoin in fiat price is well within the liquidity of almost every millionaire, or at least with some reallocation. Enough actually rich rich people just don't care for crypto? Or is the defining limit of a millionaire so loose that most of the 60M people actually don't have the cash to buy a single bitcoin. These are the things I think in shower. Edit: typo fix
 
 14h ago
-
----
-
-**[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
-
-52m ago
 
 ---
 
@@ -123,7 +123,7 @@ River reports Fidelity, Bank of America and Morgan Stanley recommend a 1–5% Bi
 
 Haven't heard much buzz about an approaching milestone - in 2-3 weeks we will have officially mined the 20 millionth Bitcoin. Looking for a good website to track this? Currently at 19,996,779. https://preview.redd.it/86qf15rnltmg1.png?width=732&format=png&auto=webp&s=1d1d4c1ee5ebbf6f74bf01d0c653d41c55bdd12b
 
-7h ago
+8h ago
 
 ---
 
@@ -135,17 +135,19 @@ not trying to make this political. just an observation. every time there's serio
 
 ---
 
+**[BTC ETF outflows just flipped to $787M in inflows in one week. Are we watching the accumulation phase in real time?](https://www.reddit.com/r/Bitcoin/comments/1rk0344/btc_etf_outflows_just_flipped_to_787m_in_inflows/)**
+
+The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $126K ATH from October 2025. Sounds brutal — but the structural signals underneath are shifting fast. A few things worth watching right now: Spot BTC ETF outflows slowed from $1.6B to $206M in February, then flipped to $787M in net inflows in the final week alone SEC Chair Paul Atkins just signaled a push toward a more innovation-friendly regulatory framework as of March 1 The U.S. Strategic Bitcoin Reserve is now acting as a structural price floor 200-day MA still trending up, 50-day SMA providing active daily support The last time we saw fear this extreme with institutional flows quietly reversing direction was... well, you know how that played out. Not financial advice — just tracking the data. Curious what the rest of you are seeing in the on-chain and ETF flow data right now. Source & full analysis: https://www.cryptobull.org/hot-coins/hot-coins-2026
+
+27m ago
+
+---
+
 **[Thailand implements 0% capital gains tax on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rishsn/thailand_implements_0_capital_gains_tax_on_bitcoin/)**
 
 Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
 
 1d ago
-
----
-
-**[Bitcoin demonetizes violence and it monetizes peace and love](https://www.reddit.com/r/Bitcoin/comments/1rj3tub/bitcoin_demonetizes_violence_and_it_monetizes/)**
-
-23h ago
 
 ---
 
@@ -157,11 +159,11 @@ Thailand has officially introduced a 0% capital gains tax policy that applies to
 
 MARA has expanded its policy to allow balance sheet bitcoin sales after reporting a $422.2 million fair-value decline in 2025.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
-**[Bitcoin Pulls Back as Risk of Prolonged War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
+**[Bitcoin Slides as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
 
 Bloomberg • 2h ago
 
@@ -175,11 +177,11 @@ Yahoo • 1h ago
 
 ---
 
-**[Trump Family-backed American Bitcoin (ABTC) expands mining fleet 12% as rivals pivot toward AI](https://www.coindesk.com/business/2026/03/03/eric-trump-s-american-bitcoin-buys-11-298-asic-miners-increasing-capacity-by-12)**
+**[Bitcoin Is The Collateral, It Just Needs The Credit Markets](https://bitcoinmagazine.com/technical/bitcoin-is-the-collateral-it-just-needs-the-credit-markets)**
 
-The firm, in which Eric Trump is a co-founder and CSO, adds 3.05 EH/s in new hardware, positioning itself against miners shifting capital into AI infrastructure.
+A deep look at the landscape of Bitcoin collateralized loans, and the cutting edge of technology that could rock the boat.
 
-CoinDesk • 2h ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -187,7 +189,7 @@ CoinDesk • 2h ago
 
 Bitcoin is moving lower again, but there could be a bigger story underneath the ticker tape.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -195,7 +197,7 @@ The Motley Fool • 2h ago
 
 Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
 
-Fox News • 19h ago
+Fox News • 20h ago
 
 ---
 
@@ -203,7 +205,15 @@ Fox News • 19h ago
 
 CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
 
-CNBC • 23h ago
+CNBC • 1d ago
+
+---
+
+**[Inside the Harvard's crypto play: Why the endowment is swapping bitcoin for ethereum ETFs](https://www.coindesk.com/business/2026/03/03/here-is-why-harvard-trimmed-bitcoin-and-bought-ether-and-why-the-move-is-bullish-for-crypto)**
+
+Volatility and private equity cash needs, not a market bet, may explain the endowment’s crypto shift, experts say.
+
+CoinDesk • 5h ago
 
 ---
 
@@ -211,7 +221,7 @@ CNBC • 23h ago
 
 Key PointsBitcoin depends on encryption to secure peoples' wallets.
 
-Nasdaq • 16h ago
+Nasdaq • 17h ago
 
 ---
 
@@ -220,12 +230,6 @@ Nasdaq • 16h ago
 Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $48 billion.
 
 The Block • 1d ago
-
----
-
-**[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
-
-Bloomberg • 1d ago
 
 ---
 
@@ -313,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 154 • ⏱️ 10:14 • 20h ago
+👁️ 47K • 👍 2K • 💬 137 • ⏱️ 10:14 • 20h ago
 
 ---
 
@@ -323,7 +327,7 @@ Bitcoin has been in a bear market for several months. Let's talk about the bear 
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 1K • 💬 66 • ⏱️ 19:12 • 4h ago
+👁️ 25K • 👍 2K • 💬 88 • ⏱️ 19:12 • 5h ago
 
 ---
 
@@ -333,7 +337,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 914 • 💬 159 • ⏱️ 8:26 • 17h ago
+👁️ 15K • 👍 923 • 💬 141 • ⏱️ 8:26 • 18h ago
 
 ---
 
@@ -343,7 +347,7 @@ War in the Middle East just triggered a potential global energy crisis, and mark
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 259 • ⏱️ 16:46 • 21h ago
+👁️ 21K • 👍 2K • 💬 246 • ⏱️ 16:46 • 22h ago
 
 ---
 
@@ -353,7 +357,17 @@ Bitcoin usually gets a rally into early March, then forms a lower high and goes 
 
 📺 Benjamin Cowen
 
-👁️ 88K • 👍 5K • 💬 247 • ⏱️ 21:27 • 1d ago
+👁️ 89K • 👍 5K • 💬 247 • ⏱️ 21:27 • 1d ago
+
+---
+
+**[The Case for $11M Bitcoin by 2036](https://www.youtube.com/watch?v=LhvGcyoOYWA)**
+
+I published the case for $11 million bitcoin by 2036. Read the full letter here: ...
+
+📺 Joe Burnett
+
+👁️ 867 • 👍 111 • 💬 13 • ⏱️ 15:22 • 6h ago
 
 ---
 
@@ -363,7 +377,27 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 797 • 💬 209 • ⏱️ 9:51 • 1d ago
+👁️ 16K • 👍 809 • 💬 183 • ⏱️ 9:51 • 1d ago
+
+---
+
+**[Why The Iran War is Distracting You From Bitcoin&#39;s RUN to $500K!](https://www.youtube.com/watch?v=Noxp6LNHTDI)**
+
+War headlines are crushing markets and Bitcoin just dropped fast. But while everyone stares at red candles in dollars, Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 46K • 👍 3K • 💬 252 • ⏱️ 18:43 • 1d ago
+
+---
+
+**[More Global Trouble Ahead… What This Means for Bitcoin](https://www.youtube.com/watch?v=mnnAYyGpcjQ)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 922 • 💬 64 • ⏱️ 39:18 • 5h ago
 
 ---
 
@@ -374,36 +408,6 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 📺 CryptosRUs
 
 👁️ 18K • 👍 1K • 💬 107 • ⏱️ 9:16 • 1d ago
-
----
-
-**[Why The Iran War is Distracting You From Bitcoin&#39;s RUN to $500K!](https://www.youtube.com/watch?v=Noxp6LNHTDI)**
-
-War headlines are crushing markets and Bitcoin just dropped fast. But while everyone stares at red candles in dollars, Bitcoin ...
-
-📺 Simply Bitcoin
-
-👁️ 45K • 👍 3K • 💬 249 • ⏱️ 18:43 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: THE END!!!!!!!!!!!](https://www.youtube.com/watch?v=ESyJ5lBpO3Q)**
-
-Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 narrative isnt the best for crypto people right now.
-
-📺 Thomas Kralow
-
-👁️ 27K • 👍 3K • 💬 64 • ⏱️ 8:18 • 1d ago
-
----
-
-**[BITCOIN: SHORT-TERM ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=m6vjpglxQjg)**
-
-My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
-
-📺 Road To $1 Million USD
-
-👁️ 3K • 👍 202 • 💬 23 • ⏱️ 4:59 • 21h ago
 
 ---
 
