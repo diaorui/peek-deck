@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-03T07:42:43.948845+00:00'
+updated: '2026-03-03T08:42:56.605627+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 03, 2026 at 07:42 UTC  
+**Last Updated:** March 03, 2026 at 08:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
+**[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-14h ago
+10h ago
 
 ---
 
-**[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
+**[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-9h ago
+15h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 I’ve just finished the soldering for the controller for my 6-axis robot. You may notice that there are only 5 drivers and that is because two went bad and I’m waiting on replacements. I also installed the I2C MUX that will interface with the magnetic encoders. Please leave any questions, comments, or advice in the comments, I really appreciate it! More updates on the way.
 
-6h ago
+7h ago
 
 ---
 
@@ -56,7 +56,7 @@ I’ve just finished the soldering for the controller for my 6-axis robot. You m
 
 Competition toolkit is available here. With additional context on Open Robotics Discourse. Competition details can be found here. Two competition sessions will be held tomorrow, March 3rd (they will be recorded). Session 1: March 3rd: 9-10am PT / 5-6pm UTC (US/Europe friendly) Session 2: March 3rd: 5-6pm PT / March 4th 1-2 am UTC (US/APAC friendly)
 
-7h ago
+8h ago
 
 ---
 
@@ -64,7 +64,7 @@ Competition toolkit is available here. With additional context on Open Robotics 
 
 Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
 
-21h ago
+22h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.co
 
 It took a while to make this video and project it was really exhausting but after a few checks and documentation I finally finished it hope it is documented well
 
-🔗 [youtu.be](https://youtu.be/U4IHY_EhnXQ?si=BHmJAGa6hdiPeDtT) • 1h ago
+🔗 [youtu.be](https://youtu.be/U4IHY_EhnXQ?si=BHmJAGa6hdiPeDtT) • 2h ago
 
 ---
 
@@ -80,7 +80,7 @@ It took a while to make this video and project it was really exhausting but afte
 
 (Budget-Conscious) ​The Body: ​"I'm currently blueprinting a medium-scale (approx. 1.2m) bipedal robot project. My goal is to achieve fluid, natural movement without jumping immediately into high-cost industrial servos like HEBI or Dynamixel X-series. ​Actuation: Has anyone had success with 'quasi-direct drive' (QDD) using high-torque brushless motors (like the T-Motor series) for hip/knee joints to keep costs down while maintaining back-drivability? ​Power: I'm considering a 24V vs 48V system. For a home-built rig, is the complexity of 48V worth the efficiency gains, or is 24V the 'sweet spot' for component availability? ​Phasing: If you were building this on a budget, which subsystems would you 'overbuild' first, and where would you suggest using 3D-printed load-bearing parts vs. CNC aluminum? ​Looking for 'scrappy' but reliable engineering paths. Thanks!"
 
-3h ago
+4h ago
 
 ---
 
@@ -88,15 +88,7 @@ It took a while to make this video and project it was really exhausting but afte
 
 Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
 
-23h ago
-
----
-
-**[Anyone here working in Robotics in India? Looking to contribute / learn](https://www.reddit.com/r/robotics/comments/1rjd4fx/anyone_here_working_in_robotics_in_india_looking/)**
-
-Hi everyone, I’m a Mechanical Engineering graduate (2022) from India, currently working in manufacturing . I’ve developed a strong interest in robotics and want to transition into this field seriously. I’m especially interested in: Robotics hardware Automation systems. Mechanical design for robots Prototyping & 3D printing Is anyone here working in robotics in India (startups / labs / teams)? If yes, I would genuinely love to connect and explore if I can contribute, learn, or even assist in ongoing projects. I’m open to internships, junior roles, project-based collaboration, or even unpaid learning opportunities initially. I’m ready to learn fast and put in the work. Would really appreciate guidance or a chance to be part of a team. Thank you!
-
-5h ago
+1d ago
 
 ---
 
@@ -108,29 +100,29 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 ---
 
+**[Improve the Wi-Fi card on the G1 robot.](https://www.reddit.com/r/robotics/comments/1rj9pmd/improve_the_wifi_card_on_the_g1_robot/)**
+
+8h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
-
-**[Former Delivery Drivers Are Getting Weird New Jobs as Delivery Robots Take Over](https://futurism.com/robots-and-machines/robot-wranglers)**
-
-Drivers across the US are being upstaged by cutsey delivery robots as companies like Coco and Serve Robotics expand their operations.
-
-Futurism • 1d ago
-
----
 
 **[Qualcomm CEO sees robotics as a 'larger opportunity' within 2 years](https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html)**
 
 It comes shortly after Qualcomm launched a processor under the Dragonwing brand name designed for robots.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Vacant Mountain View Kohl’s turned into temporary robotics hub](https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/)**
+**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
 
-Mountain View Voice • 9h ago
+In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
+
+CNBC • 2d ago
 
 ---
 
@@ -138,13 +130,15 @@ Mountain View Voice • 9h ago
 
 Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Scientific American • 19h ago
+Scientific American • 20h ago
 
 ---
 
-**[Vex robotics state championship](https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/)**
+**[Opinion | How the US ceded the robotics economy to China](https://www.scmp.com/opinion/china-opinion/article/3344742/how-us-ceded-robotics-economy-china)**
 
-fox5sandiego.com • 1d ago
+Chinese gains in robotics show that nations wishing to compete must go beyond financial engineering to master their physical realities.
+
+South China Morning Post • 12m ago
 
 ---
 
@@ -156,31 +150,35 @@ The MoCo Show - • 1d ago
 
 ---
 
-**[6 lessons I learned watching a robotics startup die from the inside](https://www.therobotreport.com/6-lessons-learned-watching-a-robotics-startup-die-from-the-inside/)**
+**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
 
-After a year as COO of K-Scale Labs, Rui Xu reflects on the hard lessons behind the collapse of its low-cost humanoid robot ambitions.
+The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
 
-The Robot Report • 12h ago
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
 **[LLM (Claude) Given Robotic Hand Immediately Starts Making Peace Signs](https://blog.adafruit.com/2026/03/02/llm-claude-given-robotic-hand-immediately-starts-making-peace-signs/)**
 
-Adafruit • 14h ago
+Adafruit • 15h ago
 
 ---
 
-**[From Cultural Icon to Commercial Path: MagicLab Redefines the Future of Robotics at MWC](https://finance.yahoo.com/news/cultural-icon-commercial-path-magiclab-045500362.html)**
+**[Vex robotics state championship](https://fox5sandiego.com/video/vex-robotics-state-championship/11567476/)**
 
-At the 2026 Mobile World Congress (MWC Barcelona), MagicLab made its overseas debut with its Spring Festival robot, showcasing the latest advancements in its robotics technology and accelerating its globalization strategy, further enhancing influence of "Made in China."
-
-Yahoo Finance • 2h ago
+fox5sandiego.com • 1d ago
 
 ---
 
 **[Kraken Robotics Stock (KRKNF) Is Up 33% YTD: What’s Next for the Marine Tech Firm?](https://www.tipranks.com/news/kraken-robotics-stock-krknf-is-up-33-ytd-whats-next-for-the-marine-tech-firm)**
 
-TipRanks • 17h ago
+TipRanks • 18h ago
+
+---
+
+**[Vacant Mountain View Kohl’s turned into temporary robotics hub](https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/)**
+
+Mountain View Voice • 10h ago
 
 ---
 
@@ -194,7 +192,7 @@ beautiful blonde robot #ai #Humanoid #FutureTech #Robotics #Technology #Future #
 
 📺 MSU Channel
 
-👁️ 387 • 👍 1 • ⏱️ 0:21 • 1h ago
+👁️ 387 • 👍 1 • ⏱️ 0:21 • 2h ago
 
 ---
 
@@ -204,7 +202,7 @@ War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the u
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 392 • 💬 95 • ⏱️ 17:41 • 16h ago
+👁️ 7K • 👍 392 • 💬 95 • ⏱️ 17:41 • 17h ago
 
 ---
 
@@ -244,7 +242,7 @@ In Russia, the Perm Polytenic University is using an Ameca-like humanoid to help
 
 📺 Kalil 4.0
 
-👁️ 541 • 👍 13 • ⏱️ 0:39 • 4h ago
+👁️ 541 • 👍 13 • ⏱️ 0:39 • 5h ago
 
 ---
 
@@ -274,7 +272,7 @@ Xiaomi's Factory Humanoid Robot Hits Production Speed in EV Assembly Trial Xiaom
 
 📺 Kalil 4.0
 
-👁️ 913 • 👍 34 • 💬 1 • ⏱️ 1:16 • 9h ago
+👁️ 913 • 👍 34 • 💬 1 • ⏱️ 1:16 • 10h ago
 
 ---
 
