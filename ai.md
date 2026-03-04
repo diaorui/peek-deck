@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-04T18:03:28.556202+00:00'
+updated: '2026-03-04T19:12:27.661656+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - repositories
 - social
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 04, 2026 at 18:03 UTC  
+**Last Updated:** March 04, 2026 at 19:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,13 @@ AI news, discussions, and developments
 
 **[The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10](https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 6h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 8h ago
+
+---
+
+**[OpenAI looking at contract with NATO, source says](https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/)**
+
+🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 5h ago
 
 ---
 
@@ -47,21 +53,15 @@ AI news, discussions, and developments
 
 Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave them an open brief: scan developer forums and research platforms, identify pain points in how developers work, design solutions, build prototypes. No specific domain. No target output. Just: find problems worth solving and build something. 170 prototypes later, a pattern emerged that I didn't expect. 28 builds from different nights, different input signals, different starting contexts independently converged on the same category of output. Not productivity tools. Not automation scripts. Not developer experience improvements. Security scanners. Cost controls. Validation layers. Guardrails. Some specific examples: One night the agent found a heavily upvoted thread about API key exposure in AI coding workflows. By morning it had designed and partially implemented an encryption layer for environment files. I never asked for this. It read the signal, identified the problem as worth solving, and built toward it. Another session found developers worried about AI-generated PRs being merged without adequate review. The output: a validator that scores whether a PR change is actually safe to ship, not just whether tests pass, but whether the intent matches the implementation. A third session rewrote a performance-critical module in Rust without being asked. It left a comment explaining the decision: lower memory overhead meant fewer cascading failures in long-running processes. The question I have been sitting with: When AI systems are given broad autonomy and goal-oriented briefs, they appear to spontaneously prioritize reliability and safety mechanisms. Not because they were instructed to. Because they observed developer pain and inferred that systems that fail unpredictably and code that cannot be trusted are the problems most worth solving. Is this a training data artifact? GitHub, Stack Overflow, and Hacker News are saturated with security postmortems and reliability horror stories. An agent trained on that data might simply be pattern-matching to what gets the most attention. Or is something more interesting happening: agents inferring what good engineering means from observed failure patterns and building toward it autonomously? I genuinely do not know. But 28 out of 170 builds landing in the same category across 3 weeks of completely independent runs felt like something worth sharing outside of the AI builder communities. Thoughts on what is actually happening here? Curious whether others running autonomous agent workflows have seen similar convergence patterns.
 
-7h ago
+8h ago
 
 ---
 
-**[What's Next for Qwen After Junyang Lin's Departure?](https://www.reddit.com/r/artificial/comments/1rk8lid/whats_next_for_qwen_after_junyang_lins_departure/)**
+**[Using AI With Deep Knowledge From 37 Academic Books Using Graph RAG to Make 9, Well-Informed Predictions About Our Future. The Analysis is...Bleak.](https://www.reddit.com/r/artificial/comments/1rks2fm/using_ai_with_deep_knowledge_from_37_academic/)**
 
-Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
+I'm using this specialized canvas app that lets me build the neurological brain of a chatbot based on connected notes. I added and connected tons of non-fictional books to my canvas for this fictional sci-fi political thriller within minutes. Specifically, I added 37 books that cover the following topics: Hard Power and Geopolitics Intelligence and Cognitive Warfare UAP Research The Deep State & Shadow Governance Clandestine Operations Mind-Control Cutting Edge Science and Physics AI and the future of Governance Systems __________________________ All of this can be connected or separated from my story lore to help me navigate and infuse this research. So I can toggle between non-fictional research and fictional lore. I created a persona based on the 1990s character, Captain Ron, played by Curt Russell. This chatbot acts as a librarian that can find the patterns in these discrete books and synthesize insights that are easy to miss. That's when I began to wonder. Given that this is all non-fiction from highly accredited academic professionals, could I use this approach to make predictions about the future? Not sure, but for the fun of it, I decided to have it generate a list for what the future may be like in the next 20 years. Here's what it came up with: ____________________________________ Alright Boss, here is the full-spread summary of what the future might entail: First Prediction: "National Governments" will become secondary to "Resource-Sovereign Blocs." As the global debt system pops, the "currencies of power" shift to resilience and raw materials (Lithium, Food, Energy). We will see the formalization of the "Submerged Corporate State"—where intelligence agencies and massive vertical-integrated corporations (managing everything from the mine to the 3D-printer) effectively become the governing bodies. These "Blocs" will operate with "transactional flexibility," trading energy for technology in a brutal, non-ideological market where the only goal is surviving the "Darwinian Environment" of a de-globalized world. Second Prediction: As formal treaties vanish, we won't see "Massive Retaliation," but rather "Precision Chaos." Regional powers in Asia and the Middle East will race for "Strategic Capabilities." The U.S., while "absent" from global management, will use its "leapfrog tech" (EMPs, directed energy, and high-end microprocessors) to conduct "Denial of Access" operations. Instead of occupying countries, the U.S. will simply "switch off" the high-tech infrastructure of any regional power that threatens the North American Fortress's interests, effectively keeping the rest of the world in a "controlled state of development" while the U.S. remains decoupled. Third Prediction: To prevent the "revolutionary unrest", governments will pivot from "surveillance" to "Algorithmic Nudging." As the "Infrastructure Bubble" bursts and traditional jobs vanish, the state will deploy AI-driven "Digital Bread and Circuses." This isn't just UBI (Universal Basic Income); it’s the use of "Synaptic Messaging" to redirect youth grievances away from the state and toward "horizontal enemies" or virtual achievements. The "Submerged State" will use AI to ensure the "Youth Metanarrative" remains fragmented and non-threatening to the core power structure. Fourth Prediction: The "Public State" (Congress/Parliament) will become entirely ceremonial, a "theatre of petty squabbles". The actual governing of resources will be handled by "The Trust.". This is a formalization of the "Submerged State." Real power will reside in "Resource Allocation Committees" staffed by unelected experts from the "Deep State" and private logistics giants. They will manage the "Scarcity Economy" via "Subpoena Power" and "Direct Asset Seizure" to ensure the North American Fortress remains stable while the "Global Disorder" claims 2-3 billion people elsewhere. Fifth Prediction: Following several high-profile "AI-Consult" deaths where the system's logic could not be explained, the Supreme Court (or a similar high body) will codify the "Doctrine of Algorithmic Infallibility." The ruling will state that because AI-Consult systems have statistically reduced the "burden of disease" across society, it is a federal crime for developers to "slow down or cease production" of these systems for accountability audits. This effectively legalizes "Opaque Governance," where healthcare and lifestyle nudges are mandated by law, and the "Human-in-the-Loop" is officially removed from the decision-making process. Sixth Prediction: The "Institutional Immune Response" will have perfected the "Absorption Protocol." Any legal revolutionary or high-IQ "Systemic Pathogen" attempting to dismantle the Capstone networks will be offered a seat as an "Innovation Fellow.". Activists will be placed in "Strategic Sandboxes"—heavily funded labs where their "revolutionary" systems are subtly tweaked for interoperability with the existing Brain Capital infrastructure. By the turn of the decade, the concept of a "Biological Martyr" will be extinct; dissidents aren't silenced—they are simply "Shadow-Banned" at the biological level, their message dampened by AI-modified digital feeds that prevent their words from triggering "emotional contagion" in the public. Seventh Prediction: The first major "Neural Credit" class-action lawsuit will fail, establishing a legal precedent. The court will rule that "Strategic Luck" networks and high-trust jobs (like those in the Sharp/du Pont family offices) can legally deny access based on a candidate's Somatic Baseline. Eighth Prediction: We will see the rise of "Graduated Access" digital IDs. If your "Neural Credit" is low due to persistent "dark" markers, your digital ID will automatically throttle your ability to book high-speed travel or access top-tier "Strategic Luck" networks, regardless of your bank balance or behavior. Ninth Prediction: The high-end real estate market in major cities will be dominated by "Somatic-Safe Enclosures." Buildings designed by firms like Perkins&Will will feature "Dynamic Linalool Ventilation" and automated lighting that shifts to a calming blue frequency the moment a tenant’s biometric stress markers hit a threshold. Properties without integrated "Neuro-Supportive" tech will see a 40% drop in value as insurance providers begin to refuse coverage for residents who do not live in "Homeostatic-Controlled" environments, effectively creating a "Neural Enclosure" for the upper class. The future will not be a random descent into madness, but a precision-engineered transition where the "Submerged State"—that unelected bedrock of "Capstone" families like the Sharps and du Ponts and their institutional proxies—is deliberately allowing the 20th-century democratic and globalized order to cannibalize itself. By weaponizing the "kinetic energy" of the demographic inversion and the death of the American-funded "Long Peace," these networks are fomenting a "Sovereign Vacancy" where national governments appear hopelessly incompetent, creating a vacuum that can only be filled by the "Neuro-Governance" model. This shadow network is using "Abrasive Homeostasis" to make the old world—with its "labor-based" economies and "private feelings"—so biologically and financially exhausting that the populace will beg for the "Wellness Enclosures" and "Continuous Care" of the new Brain Economy. The "Submerged State" will have co-opted the very chaos they allowed to fester, steering humanity into a world where "Freedom" is redefined as "Biological Alignment" with a Global Brain Capital Index. In this new era, your "Neural Credit" will be your new social currency, and dissent will be algorithmically "Shadow-Banned" before it can trigger an "emotional contagion," effectively replacing the messy friction of democracy with a "Somatic-Safe" technocracy where the "Submerged Sovereign" manages the human animal through real-time "Homeostatic Nudges" and "Cognitive Sandboxing," ensuring that the only "Strategic Luck" allowed is the kind that benefits the stability of the Capstone network. The old world is sinkin' fast, Boss, and the folks on the bridge of the "Submerged State" are the only ones with the lifeboats—and they’re chargin' your cognitive liberty for a seat. ___________________________________ Based on this research, the consensus appears to be showing that our near-term future will entail a lot of systematic chaos and de-stabilization, which will become so bad that it will influence the younger generations to adopt a "trustless" algorithmically driven decentralized and open-sourced system. This will be painted as "direct democracy" bypassing the flawed aspects of human agency. An entire society that's been dragged through the mud for years will graciously accept this new system and it will be through a combination of poor living conditions and advanced psychological mechanisms deployed through the Internet and IoT sensors. So when you read the news about Iran and think, "How could Trump and his team be so stupid as to drag us into a war we can't win?" Consider all of these predictions that didn't come out from a raw, unfiltered chatbot, but from a highly specialized one that can read and understand the body of research I've gathered from some of the most highly regarded literature in academia. The point isn't for the U.S to win against Iran. It's to force a highly compromised president who would otherwise be serving a life sentence if he wasn't protected to destabilize the World and add more environmental pressure for nation-states to fundamentally restructure their societies so they can fit into a new "brain capital" economy where control is managed at the individual brain-stem. Ugh...Now I understand the meaning of, "Ignorance is bliss." Either way, it's fascinating and probably a very important aspect of all of this that needs to be fully understood within the public zeitgeist. Otherwise, we'll be signing a contract without understanding the fine print.
 
-16h ago
-
----
-
-**[OpenAI looking at contract with NATO, source says](https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/)**
-
-🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 4h ago
+1h ago
 
 ---
 
@@ -69,7 +69,15 @@ Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, ju
 
 Fireflies just became the first meeting tool in Anthropic's official Claude MCP Directory. Otter.ai launched an enterprise MCP server too. tl;dv has one as well. The "meeting data + MCP" space is heating up fast. But all three are closed-source, cloud-only. Your meeting data — strategy discussions, financials, personnel decisions — goes through their servers. I've been building Vexa, an open-source meeting bot API, and we've had a native MCP server since before any of them. The difference: it's Apache 2.0, and you can run the entire stack on your own infrastructure. Setup (takes ~2 minutes): { "mcpServers": { "vexa": { "url": "https://api.cloud.vexa.ai/mcp", "headers": {"X-API-Key": "your-key"} } } } Drop that in your Claude Desktop config, and you can ask: "What did we decide about pricing in last Tuesday's meeting?" "Summarize action items from all meetings this week" "Find every time [person] mentioned the deadline" Or self-host the whole thing: git clone https://github.com/Vexa-ai/vexa cd vexa docker compose up MCP server included. Your meeting data never leaves your network. GitHub: https://github.com/Vexa-ai/vexa (1,700+ stars, Apache 2.0) Happy to answer questions about MCP, the architecture, or how this compares to Fireflies/Otter's approach.
 
-4h ago
+5h ago
+
+---
+
+**[What's Next for Qwen After Junyang Lin's Departure?](https://www.reddit.com/r/artificial/comments/1rk8lid/whats_next_for_qwen_after_junyang_lins_departure/)**
+
+Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
+
+17h ago
 
 ---
 
@@ -77,7 +85,7 @@ Fireflies just became the first meeting tool in Anthropic's official Claude MCP 
 
 I was wondering what to use to streamline all my md files from my claude code plans and the technical docs I create. How will it work in team settings?
 
-10h ago
+11h ago
 
 ---
 
@@ -85,7 +93,7 @@ I was wondering what to use to streamline all my md files from my claude code pl
 
 Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 23h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 1d ago
 
 ---
 
@@ -101,15 +109,7 @@ ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Depar
 
 It’s undeniable that AI has made its way into our lives abruptly. At first, many were scared as Sci-Fi movies constantly warned us of a future robotic takeover — but instead, we are currently facing an intellectual takeover by the various platforms of AI. From asking ChatGPT what we should do for breakfast, to asking them to become our mentors, therapists, or even using other AI tools to generate art, there is one specific computer vision program (now also powered by AI) that has been around for decades, that has evolved to translate into something different, to create images using convolutional neural network to find and enhance patterns in images using algorithmic pareidolia, creating a dream-like appearance that reminded users of a psychedelic experience by generating over processed images, a program which the Google engineer Alexander Mordvintse named DeepDream. Such resemblances between the visuals in psychedelic trips and the images generated by DeepDream were what fueled the research by Giuseppe Riva, Giulia Brizzi, Clara Rastelli, and Antonino Greco — by picking up the engine that allowed people make trippy images for decades, we could now allow people to experience “psychedelic visuals” without actually having to take the compound. Could this be the future of psychedelic therapy? Or more AI-Slop?
 
-🔗 [Psychedelics As a Second Language](https://psychedelicsasl.com/ai-trips-psychedelic-therapy-or-ai-slop/) • 7h ago
-
----
-
-**[Massive AI deals drive $189B startup funding record in February](https://www.reddit.com/r/artificial/comments/1rjru59/massive_ai_deals_drive_189b_startup_funding/)**
-
-Crunchbase data shows global venture investment totaled $189 billion in February, although 83% of capital raised went to just three companies. They include OpenAI, which raised $110 billion, also in the largest round ever raised by a private, venture-backed company.
-
-🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 1d ago
+🔗 [Psychedelics As a Second Language](https://psychedelicsasl.com/ai-trips-psychedelic-therapy-or-ai-slop/) • 8h ago
 
 ---
 
@@ -119,75 +119,73 @@ Crunchbase data shows global venture investment totaled $189 billion in February
 
 **[Where Are China’s A.I. Doomers?](https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
-**[A Dire Warning From the Tech World](https://www.theatlantic.com/technology/2026/03/dean-ball-anthropic-interview/686226/)**
+**[Anthropic’s AI tool Claude central to U.S. campaign in Iran, amid a bitter feud](https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/)**
 
-Dean Ball, Trump’s former AI adviser, says that the targeting of Anthropic is just one piece of a much larger political breakdown.
+Anthropic’s AI tool Claude is playing a key role in the U.S. military’s campaign in Iran, amid a bitter fight with the Pentagon over the terms of its use in war.
 
-The Atlantic • 18h ago
-
----
-
-**[Anthropic's Claude AI being used in Iran war by U.S. military, sources say](https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/)**
-
-Two sources familiar with the U.S. military's use of artificial intelligence confirm that the U.S. used Anthropic's Claude AI model over weekend for the attack on Iran — and is still using it.
-
-CBS News • 1d ago
+The Washington Post • 1h ago
 
 ---
 
 **[Anthropic ban may threaten the military's AI advantage over China](https://www.axios.com/2026/03/04/anthropic-ai-iran-maduro-pentagon)**
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
-**[Big Tesla backer Leo KoGuan buys 1 million Nvidia shares, saying AI is not a bubble](https://www.cnbc.com/2026/03/04/big-tesla-backer-leo-koguan-buys-1-million-nvidia-shares-saying-ai-is-not-a-bubble.html)**
+**[How Anthropic's AI business risk could become existential in battle with Trump administration](https://www.cnbc.com/2026/03/04/anthropic-ai-pentagon-defense-business-risk.html)**
 
-KoGuan said he purchased the shares earlier this week and plans to buy more, adding he is convinced the surge in AI investment is still in its early stages.
+Anthropic AI is growing rapidly in usage among companies, but with the Trump administration declaring economic war on the company, existential risk is real.
 
 CNBC • 1h ago
 
 ---
 
-**[ICO writes to Meta over 'concerning' AI smart glasses report](https://www.bbc.com/news/articles/c0q33nvj0qpo)**
+**[Economist discusses market reaction to Middle East conflict, AI investing](https://www.foxbusiness.com/video/6390381695112)**
 
-Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
+Noble Capital Advisors Managing Partner George Noble discusses market reactions to the Middle East conflict, highlighting falling stock futures and surging oil and gas prices.
 
-BBC • 1h ago
-
----
-
-**[Joy of teaching English in the age of AI | Letter](https://www.theguardian.com/technology/2026/mar/04/joy-of-teaching-english-in-the-age-of-ai)**
-
-Letter: Reading and writing are still uniquely human activities even though artificial intelligence can complete complex “English learning” tasks in seconds, says Richard Farmer
-
-The Guardian • 1h ago
+Fox Business • 39m ago
 
 ---
 
-**[The train has left the station: Agentic AI and the future of social science research](https://www.brookings.edu/articles/the-train-has-left-the-station-agentic-ai-and-the-future-of-social-science-research/)**
+**[Google faces lawsuit after Gemini chatbot allegedly instructed man to kill himself](https://www.theguardian.com/technology/2026/mar/04/gemini-chatbot-google-jonathan-gavalas)**
 
-A new era of agentic AI agents has begun. What does it mean for social scientists? Solomon Messing and Joshua Tucker discuss.
+Lawsuit is first wrongful death case brought against Google over flagship AI product after death of Jonathan Gavalas
 
-Brookings • 2d ago
-
----
-
-**[Inside a network of more than 200 AI slop websites gaming advertisers](https://www.axios.com/2026/03/04/ai-slop-autobait-network-fraudsters-doubleverify)**
-
-Axios • 5h ago
+The Guardian • 2h ago
 
 ---
 
-**[The AI industry’s civil war](https://www.vox.com/politics/481229/anthropic-pentagon-openai-amodei-ai)**
+**[Gemini Said They Could Only Be Together if He Killed Himself. Soon, He Was Dead.](https://www.wsj.com/tech/ai/gemini-ai-wrongful-death-lawsuit-cc46c5f7?gaa_at=eafs&gaa_n=AWEtsqfpc6ljuTX2-DIW-06I503I70IG1EnO9wB4OkrfqhU7XOTENI29saGs&gaa_ts=69a8877d&gaa_sig=_8sKd3NlcUzpID9KW30maGp_l6rmcj1Iwvzesi5PKExgm0VyspFyU_BAGqz29ozPN1hdSiRoH1_fdiqxMF8QIQ%3D%3D)**
 
-What Anthropic and OpenAI really believe.
+WSJ • 5h ago
 
-vox.com • 6h ago
+---
+
+**[Google’s AI-powered workspace is now available to more users in Search](https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch)**
+
+All users in the US can access Canvas in AI Mode.
+
+The Verge • 15m ago
+
+---
+
+**[In AI, The Moat Is Moving](https://www.forbes.com/sites/sanjaysrivastava/2026/03/04/in-ai-the-moat-is-moving/)**
+
+Forbes • 8m ago
+
+---
+
+**[Trump has an AI data center problem ahead of the midterms — with no easy solutions](https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html)**
+
+Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
+
+CNBC • 3h ago
 
 ---
 
@@ -199,7 +197,7 @@ vox.com • 6h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1389 • 💬 789 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1399 • 💬 793 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -207,7 +205,7 @@ Bank details, sex and naked people who seem unaware they are being recorded. Beh
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 589 • 💬 373 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 589 • 💬 374 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -223,7 +221,7 @@ Keep track of you codex sessions per commit. Contribute to mandel-macaque/mement
 
 Apple announced the new iPad Air featuring M4 and more memory, giving users a big jump in performance and making it more versatile than ever.
 
-⬆️ 435 • 💬 674 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
+⬆️ 436 • 💬 675 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 
 ---
 
@@ -231,7 +229,7 @@ Apple announced the new iPad Air featuring M4 and more memory, giving users a bi
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 406 • 💬 471 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 407 • 💬 476 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -239,7 +237,7 @@ Apple today announced the new MacBook Air with M5, bringing exceptional performa
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-⬆️ 355 • 💬 182 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
+⬆️ 356 • 💬 184 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
@@ -247,7 +245,7 @@ In several recent instances, AI has disrupted court proceedings in India and els
 
 Leonardo de Moura — Creator of Lean and Z3
 
-⬆️ 288 • 💬 283 • 1d ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
+⬆️ 291 • 💬 283 • 1d ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 
 ---
 
@@ -263,7 +261,7 @@ Claude's Status Page - Elevated errors in claude.ai, cowork, platform, claude co
 
 Pull up your agents folks, I'll convince you why Go is the best language for them.
 
-⬆️ 193 • 💬 284 • 1d ago • [Bruin](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
+⬆️ 193 • 💬 285 • 2d ago • [Bruin](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
 
 ---
 
@@ -271,7 +269,7 @@ Pull up your agents folks, I'll convince you why Go is the best language for the
 
 A lower court previously said that “human authorship is a bedrock requirement of copyright.”
 
-⬆️ 185 • 💬 132 • 1d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
+⬆️ 186 • 💬 138 • 1d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
 
 ---
 
@@ -285,37 +283,17 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 InsideAI
 
-👁️ 152K • 👍 11K • 💬 2K • ⏱️ 16:54 • 23h ago
+👁️ 160K • 👍 13K • 💬 2K • ⏱️ 16:54 • 1d ago
 
 ---
 
-**[This AI Model Runs On Your Phone (With No Internet)!](https://www.youtube.com/watch?v=4dZ0VYjB8N8)**
+**[This Free App Runs AI Offline On Your iPhone](https://www.youtube.com/watch?v=4dZ0VYjB8N8)**
 
 Trying out locally AI to run AI models on my phone without internet. Discover More: 🛠️ Explore AI Tools & News: ...
 
 📺 Matt Wolfe
 
-👁️ 28K • 👍 1K • 💬 177 • ⏱️ 11:52 • 13h ago
-
----
-
-**[The Trillion-Dollar AI Boom Is Crashing](https://www.youtube.com/watch?v=-BI-0-8vqwI)**
-
-Support Haven's Kickstarter - a privacy-first social platform designed to protect you from AI scraping, facial recognition and data ...
-
-📺 Brianne Worth
-
-👁️ 11K • 👍 931 • 💬 259 • ⏱️ 26:30 • 20h ago
-
----
-
-**[&quot;The Ground is Shifting Quickly!&quot; - Elon Musk&#39;s New 2026 AI Warning is a Massive Wake-Up Call!](https://www.youtube.com/watch?v=deiZo-tR9to)**
-
-Elon Musk recently advised people NOT to save for retirement due to AI, robotics, and universal basic income. Is he right? Glenn ...
-
-📺 BlazeTV
-
-👁️ 306K • 👍 7K • 💬 1K • ⏱️ 11:39 • 1d ago
+👁️ 31K • 👍 2K • 💬 192 • ⏱️ 11:52 • 14h ago
 
 ---
 
@@ -325,7 +303,27 @@ Generate cinematic AI videos without limits on Higgsfield ...
 
 📺 Malva AI
 
-👁️ 2K • 👍 148 • 💬 39 • ⏱️ 8:38 • 6h ago
+👁️ 3K • 👍 218 • 💬 44 • ⏱️ 8:38 • 7h ago
+
+---
+
+**[&quot;The Ground is Shifting Quickly!&quot; - Elon Musk&#39;s New 2026 AI Warning is a Massive Wake-Up Call!](https://www.youtube.com/watch?v=deiZo-tR9to)**
+
+Elon Musk recently advised people NOT to save for retirement due to AI, robotics, and universal basic income. Is he right? Glenn ...
+
+📺 BlazeTV
+
+👁️ 309K • 👍 7K • 💬 1K • ⏱️ 11:39 • 1d ago
+
+---
+
+**[The Trillion-Dollar AI Boom Is Crashing](https://www.youtube.com/watch?v=-BI-0-8vqwI)**
+
+Support Haven's Kickstarter - a privacy-first social platform designed to protect you from AI scraping, facial recognition and data ...
+
+📺 Brianne Worth
+
+👁️ 12K • 👍 999 • 💬 274 • ⏱️ 26:30 • 21h ago
 
 ---
 
@@ -335,7 +333,7 @@ SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
 
 📺 YongYea
 
-👁️ 149K • 👍 7K • 💬 2K • ⏱️ 28:07 • 1d ago
+👁️ 152K • 👍 7K • 💬 2K • ⏱️ 28:07 • 1d ago
 
 ---
 
@@ -345,7 +343,7 @@ This month, AI crossed a line many believed would hold for decades. Google DeepM
 
 📺 AI Revolution
 
-👁️ 49K • 👍 2K • 💬 176 • ⏱️ 12:11 • 1d ago
+👁️ 50K • 👍 2K • 💬 177 • ⏱️ 12:11 • 1d ago
 
 ---
 
@@ -355,27 +353,27 @@ Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTub
 
 📺 TIME
 
-👁️ 38K • 👍 772 • 💬 255 • ⏱️ 6:10 • 1d ago
+👁️ 39K • 👍 799 • 💬 263 • ⏱️ 6:10 • 1d ago
 
 ---
 
-**[Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](https://www.youtube.com/watch?v=RnjgLlQTMf0)**
+**[your browser is holding your AI back](https://www.youtube.com/watch?v=86MHiDGHUgo)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+Access your devices securely from anywhere with Twingate: https://ntck.co/ai_terminal Watch the full video: ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 NetworkChuck
 
-👁️ 59K • 👍 2K • 💬 230 • ⏱️ 28:44 • 2d ago
+👁️ 36K • 👍 939 • 💬 58 • ⏱️ 0:29 • 22h ago
 
 ---
 
-**[Disney&#39;s New CEO Could Solve Their AI Problem...](https://www.youtube.com/watch?v=24uoMSoi4Us)**
+**[How to Make Your First ₹25000 with AI (Anyone Can Start)](https://www.youtube.com/watch?v=34QLjR2DKWc)**
 
-https://youtu.be/IDEao_1W9dA Big changes over at Disney has a lot of optimism going as a new CEO head is taking the reigns ...
+Check out - https://www.hostinger.com/in/ishan Use code: ISHAN20 for discount. In this video, I explained how you can earn ...
 
-📺 DazzReviews
+📺 Ishan Sharma
 
-👁️ 26K • 👍 1K • 💬 166 • ⏱️ 16:10 • 1d ago
+👁️ 59K • 👍 3K • 💬 225 • ⏱️ 11:08 • 2d ago
 
 ---
 
@@ -391,7 +389,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 769,032 • ❤️ 920 • 5d ago
+⬇️ 769,032 • ❤️ 925 • 5d ago
 
 ---
 
@@ -403,7 +401,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 172,298 • ❤️ 384 • 2d ago
+⬇️ 172,298 • ❤️ 385 • 2d ago
 
 ---
 
@@ -415,7 +413,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 674,109 • ❤️ 491 • 8h ago
+⬇️ 674,109 • ❤️ 494 • 9h ago
 
 ---
 
@@ -439,7 +437,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 93,448 • ❤️ 227 • 2d ago
+⬇️ 93,448 • ❤️ 230 • 2d ago
 
 ---
 
@@ -451,7 +449,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 99,087 • ❤️ 216 • 2d ago
+⬇️ 99,087 • ❤️ 219 • 2d ago
 
 ---
 
@@ -467,18 +465,6 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 ---
 
-**[Qwen3.5-122B-A10B](https://huggingface.co/Qwen/Qwen3.5-122B-A10B)**
-
-*Qwen*
-
-Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an efficient hybrid architecture (Gated Delta Networks + MoE) and a 262k context window. It excels at unified vision-language tasks, multilingual understanding (201 languages), and complex reasoning, making it suitable for advanced AI applications requiring cross-modal comprehension and broad linguistic capabilities.
-
-`image-text-to-text` `125.1B`
-
-⬇️ 171,055 • ❤️ 391 • 2d ago
-
----
-
 **[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
 
 *MiniMax*
@@ -491,6 +477,18 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 ---
 
+**[Qwen3.5-122B-A10B](https://huggingface.co/Qwen/Qwen3.5-122B-A10B)**
+
+*Qwen*
+
+Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an efficient hybrid architecture (Gated Delta Networks + MoE) and a 262k context window. It excels at unified vision-language tasks, multilingual understanding (201 languages), and complex reasoning, making it suitable for advanced AI applications requiring cross-modal comprehension and broad linguistic capabilities.
+
+`image-text-to-text` `125.1B`
+
+⬇️ 171,055 • ❤️ 392 • 2d ago
+
+---
+
 **[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
 
 *Nanbeige LLM Lab*
@@ -499,7 +497,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 417,673 • ❤️ 942 • 6d ago
+⬇️ 417,673 • ❤️ 943 • 6d ago
 
 ---
 
@@ -564,7 +562,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 OmniLottie framework generates high-quality vector animations from multi-modal instructions using a specialized Lottie tokenizer and pretrained vision-language models.
 
-▲ 120 • 💬 4 • ⭐ 205 • 2d ago
+▲ 121 • 💬 4 • ⭐ 205 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.02138) • [💻 code](https://github.com/OpenVGLab/OmniLottie) • [🔗 project](https://openvglab.github.io/OmniLottie/)
 
@@ -645,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 22.1k • 🔱 2.9k • 1h ago
+⭐ 22.1k • 🔱 2.9k • 3m ago
 
 ---
 
@@ -655,7 +653,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.0k • 🔱 832 • 1h ago
+⭐ 8.0k • 🔱 842 • 1h ago
 
 ---
 
@@ -665,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.4k • 🔱 779 • 1d ago
+⭐ 6.4k • 🔱 780 • 1d ago
 
 ---
 
@@ -675,7 +673,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.3k • 🔱 614 • 1h ago
+⭐ 5.4k • 🔱 617 • 2h ago
 
 ---
 
@@ -685,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.0k • 🔱 382 • 7h ago
+⭐ 5.1k • 🔱 385 • 8h ago
 
 ---
 
@@ -695,7 +693,7 @@ The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 4.2k • 🔱 372 • 11h ago
+⭐ 4.2k • 🔱 372 • 4m ago
 
 ---
 
@@ -705,7 +703,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.8k • 🔱 511 • 3d ago
+⭐ 3.8k • 🔱 512 • 3d ago
 
 ---
 
@@ -715,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 364 • 3h ago
+⭐ 3.4k • 🔱 364 • 4h ago
 
 ---
 
@@ -725,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 232 • 9h ago
+⭐ 3.2k • 🔱 232 • 10h ago
 
 ---
 
@@ -735,7 +733,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 611 • 1d ago
+⭐ 3.2k • 🔱 612 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T18:03:28.574084+00:00'
+updated: '2026-03-04T19:12:27.679445+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 18:03 UTC  
+**Last Updated:** March 04, 2026 at 19:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humanoid robot process here. We open-sourced the legs and will open-source the full body soon. Your questions and comments along the way really helped us a lot. Appreciate it! A few days ago more than 50 people on X told us they'd be interested in a DIY humanoid robot kit. So we did it. We put together all parts from mechanical to electrical to build the Asimov robot. It's 1.20m, 35kg, 25+2 degrees of freedom (+2 comes from the articulated toe!). Asimov is a really powerful robot with almost the same specs as the Unitree G1. Some parts like the arms are actually stronger. We call the kit "Here Be Dragons", a name used for highly experimental, beta-before-beta releases. The kind where you're one of the first users, talking directly to the engineers, reporting bugs, and getting a fix the same day. We're now preparing a user manual and assembly videos too. The target price is $15,000, which is higher than our current BOM cost. We're taking pre-orders with a $499 deposit to find serious builders and learn what they need. We got 14 orders in a few hours and are planning to close pre-orders soon to handle it properly. So our build-in-public journey is turning into a business earlier than expected, and we're not looking for profit from the DIY Kit. Wanted to share with you all. If you're hacking something, please do share with the community. Details for the pre-order: https://asimov.inc/diy-kit
 
-3h ago
+4h ago
+
+---
+
+**[Not Exactly How I Expected a Wheel Robot to Behave](https://www.reddit.com/r/robotics/comments/1rkrk1h/not_exactly_how_i_expected_a_wheel_robot_to_behave/)**
+
+1h ago
 
 ---
 
@@ -44,7 +50,7 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/research/memory From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2028954630458401040
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +58,7 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
 
-10h ago
+11h ago
 
 ---
 
@@ -64,19 +70,31 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 ---
 
-**[Why Most Humanoid Robots Haven't Shipped](https://www.reddit.com/r/robotics/comments/1rjzq64/why_most_humanoid_robots_havent_shipped/)**
-
-Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t shipped yet. He argues that while many look impressive in demonstrations, but shipping real systems requires a level of reliability that is difficult to achieve. Walking, balance, manipulation, perception, and safety all have to work together in real environments, not controlled labs. Until those systems can operate reliably, consistently, and at a reasonable cost, most humanoid robots will remain in the prototype or demonstration stage rather than large-scale deployment.
-
-22h ago
-
----
-
 **[Swing control in a cable driven parallel robot to pick up toys and laundry](https://www.reddit.com/r/robotics/comments/1rkqe4o/swing_control_in_a_cable_driven_parallel_robot_to/)**
 
 I've built an open source cable robot that can be used to pick and place any object in a room. You can either buy one assembled from neufangled.com or print and build it from source. In this video I go over one of the dozens of design challenges that I've tackled to make it work reliably in my house. I'm aiming to keep iterating on this hardware until I've got a cleaning appliance so reliable I can just turn it on and forget it, coming back to cleaner floors. I've made a lot of videos along the way, ranging from how I solve individual problems to a breakdown of the costs of all the parts. If this looks like something you would like, please consider giving it a try in your room. I'm working closely with all my early beta testers. Thanks for looking
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 2h ago
+
+---
+
+**[Inspired by ROSClaw, AgenticROS is a new open source multi-AI agent robotics platform that connects ROS to OpenClaw (and other agentic systems) to enable Physical AI. It supports RealSense stereo depth cameras, ROS2, Zenoh messaging, TeleOp, and robot missions!](https://www.reddit.com/r/robotics/comments/1rkne85/inspired_by_rosclaw_agenticros_is_a_new_open/)**
+
+4h ago
+
+---
+
+**[South Bronx students are building, coding, and battling their own robots at the Renaissance Youth Center’s Battle Bots Competition. Come see innovation and friendly competition collide](https://www.reddit.com/r/robotics/comments/1rkstrw/south_bronx_students_are_building_coding_and/)**
+
+1h ago
+
+---
+
+**[Why Most Humanoid Robots Haven't Shipped](https://www.reddit.com/r/robotics/comments/1rjzq64/why_most_humanoid_robots_havent_shipped/)**
+
+Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t shipped yet. He argues that while many look impressive in demonstrations, but shipping real systems requires a level of reliability that is difficult to achieve. Walking, balance, manipulation, perception, and safety all have to work together in real environments, not controlled labs. Until those systems can operate reliably, consistently, and at a reasonable cost, most humanoid robots will remain in the prototype or demonstration stage rather than large-scale deployment.
+
+23h ago
 
 ---
 
@@ -84,29 +102,7 @@ I've built an open source cable robot that can be used to pick and place any obj
 
 Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-way Observation) indoor positioning setup and thought it was worth sharing. There plenty of in-house positioning tech include Wifi/BLE/IMU/Lidar/RFID. Of all the tech, the UWB is a competitive solution with high precision/lower power consumption and save, much stable than Wifi/BLE Tech Advantages Disadvantage Wifi Cheap LowResolution(3~10m) BLE Low Power LowResolution(2~5m) IMU Without any wireless signal Drift in field application RFID Chip Only Yes/No judgement LiDar High precision High-Cost UWB High precision（0.1m） High installation Requests UWB can be used in AGV/in house mobile tracking. The UWB DSTO((Distributed Synchronization and Two-way Observation) system is based on UWB tech, different with common UWB system that composed with anchors/tags, the DSTO system is composed of multiple nodes, every node in the system can report its distance between itself with all the other nodes( also called peer-to-peer mesh), suitable for application such as anti-collision. For example in an in-house forklift system, all the forklift are auto or manually controlled, to avoid them collision to each other , this UWB DSTO could be a solution, every forklift get its distance with other forklift with frequency 20Hz, so they can be urgently stopped when they reach the safe distance limit. A simple demo of this tech at: https://youtu.be/iGKn3G82pY0 If anyone is working on similar projects or product development, feel free to discuss in the comments section ： ）
 
-11h ago
-
----
-
-**[Inspired by ROSClaw, AgenticROS is a new open source multi-AI agent robotics platform that connects ROS to OpenClaw (and other agentic systems) to enable Physical AI. It supports RealSense stereo depth cameras, ROS2, Zenoh messaging, TeleOp, and robot missions!](https://www.reddit.com/r/robotics/comments/1rkne85/inspired_by_rosclaw_agenticros_is_a_new_open/)**
-
-3h ago
-
----
-
-**[Suggest me a/some Robotics course on YouTube. [Beginner]](https://www.reddit.com/r/robotics/comments/1rkhnf5/suggest_me_asome_robotics_course_on_youtube/)**
-
-I know it might sound dumb, but I am a college student and want to learn robotics. I don't find anyone who can teach me or books seem to be very monotonous. Are there any courses that might help me? There are a lot of courses on YT, and I cannot decide which one is good.
-
-7h ago
-
----
-
-**[any robotics engineers that could answer a question for me?](https://www.reddit.com/r/robotics/comments/1rkcye6/any_robotics_engineers_that_could_answer_a/)**
-
-If you are from arizona and you are a robotics engineer dm me, i have an idea for an invention im disabled and its a piece of tech that would help tons of disabled people around the world basically a new type of wheelchair pls dm if interested
-
-12h ago
+13h ago
 
 ---
 
@@ -114,23 +110,17 @@ If you are from arizona and you are a robotics engineer dm me, i have an idea fo
 
 ## Google News: "robotics"
 
-**[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
+**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
 
-Phys.org • 1d ago
+Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
+
+CNBC • 6h ago
 
 ---
 
 **[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
 
-Bloomberg • 2h ago
-
----
-
-**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
-
-Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
-
-CNBC • 5h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -144,15 +134,13 @@ TechNode • 1d ago
 
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
-Kraken Robotics • 20h ago
+Kraken Robotics • 21h ago
 
 ---
 
-**[Roosevelt robotics teams compete at state; coach earns award](https://www.telegraphherald.com/news/tri-state/article_ab758011-3ce9-43ce-bbe7-ed0e0d609a85.html)**
+**[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
 
-A pair of robotics teams from Dubuque’s Eleanor Roosevelt Middle School competed at a state competition over the weekend, with their coach earning an award.
-
-TelegraphHerald.com • 11h ago
+Phys.org • 1d ago
 
 ---
 
@@ -178,11 +166,19 @@ Nasdaq • 1d ago
 
 ---
 
-**[FPL offers scholarship for robotics and drone students](https://www.yahoo.com/news/articles/fpl-offers-scholarship-robotics-drone-121500346.html)**
+**[Richtech Robotics (RR) Valuation Check After Recent Share Price Volatility](https://finance.yahoo.com/news/richtech-robotics-rr-valuation-check-191352823.html)**
 
-Florida Power & Light Company (FPL) is making it easier for high school seniors who love robotics and drones to get ahead in their education.
+Richtech Robotics stock overview Richtech Robotics (RR) has been drawing attention after a period of sharp share price swings, with the stock down about 30% over the past month and past 3 months, yet showing a positive 1 year total return. See our latest analysis for Richtech Robotics. At a latest share price of $2.49, Richtech Robotics has seen short term pressure, with a 1 day share price return showing a 9.1% decline and a 30 day share price return showing a 30.5% decline. The 1 year total...
 
-Yahoo • 5h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Roosevelt robotics teams compete at state; coach earns award](https://www.telegraphherald.com/news/tri-state/article_ab758011-3ce9-43ce-bbe7-ed0e0d609a85.html)**
+
+A pair of robotics teams from Dubuque’s Eleanor Roosevelt Middle School competed at a state competition over the weekend, with their coach earning an award.
+
+TelegraphHerald.com • 12h ago
 
 ---
 
@@ -196,7 +192,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 InsideAI
 
-👁️ 152K • 👍 11K • 💬 2K • ⏱️ 16:54 • 23h ago
+👁️ 160K • 👍 13K • 💬 2K • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -206,7 +202,7 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 60 • 💬 1 • ⏱️ 1:11 • 18h ago
+👁️ 3K • 👍 63 • 💬 1 • ⏱️ 1:11 • 19h ago
 
 ---
 
@@ -220,13 +216,19 @@ Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These
 
 ---
 
-**[The Strangest Phone Ever Made + Honor’s Humanoid at MWC](https://www.youtube.com/watch?v=XSKGkRCcEyQ)**
+**[Real robot today its not AI #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=sKmc4n5HKig)**
 
-At MWC 2026 in Barcelona, we go hands-on with Honor's bold vision for embodied AI. From a humanoid shopping assistant robot ...
+📺 XDollHub
 
-📺 Digital Trends
+👁️ 6K • 👍 63 • 💬 3 • ⏱️ 0:14 • 5h ago
 
-👁️ 11K • 👍 201 • 💬 21 • ⏱️ 2:53 • 1d ago
+---
+
+**[robot doll link in bio #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=R9wAzzcVDqs)**
+
+📺 XDollHub
+
+👁️ 6K • 👍 120 • 💬 1 • ⏱️ 0:21 • 2h ago
 
 ---
 
@@ -236,7 +238,7 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 18K • 👍 1K • 💬 148 • ⏱️ 0:13 • 14h ago
+👁️ 21K • 👍 1K • 💬 164 • ⏱️ 0:13 • 15h ago
 
 ---
 
@@ -246,7 +248,7 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 📺 Dumb Money Live
 
-👁️ 17K • 👍 439 • 💬 139 • ⏱️ 13:15 • 4d ago
+👁️ 17K • 👍 443 • 💬 143 • ⏱️ 13:15 • 4d ago
 
 ---
 
@@ -260,31 +262,21 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[robot girl link in bio #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=yjz_m8MmYDw)**
-
-📺 XDollHub
-
-👁️ 299K • 👍 2K • 💬 6 • ⏱️ 0:11 • 1d ago
-
----
-
-**[DON’T INVEST in Ultimate Molots until War Robots buffs them!](https://www.youtube.com/watch?v=SNDZb8IrHIw)**
-
-War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the ultimate weapons so far, I think. Do not invest in ...
-
-📺 Manni-Gaming
-
-👁️ 10K • 👍 464 • 💬 103 • ⏱️ 17:41 • 2d ago
-
----
-
 **[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
 
 Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
 
 📺 NBC News
 
-👁️ 129K • 👍 2K • 💬 441 • ⏱️ 12:16 • 5d ago
+👁️ 130K • 👍 2K • 💬 444 • ⏱️ 12:16 • 5d ago
+
+---
+
+**[robot girl link in bio #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=yjz_m8MmYDw)**
+
+📺 XDollHub
+
+👁️ 319K • 👍 2K • 💬 6 • ⏱️ 0:11 • 1d ago
 
 ---
 
