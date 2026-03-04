@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-03T23:53:23.746558+00:00'
+updated: '2026-03-04T02:06:40.928283+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 03, 2026 at 23:53 UTC  
+**Last Updated:** March 04, 2026 at 02:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Department of Defense, triggering user backlash and boosting rival AI downloads.
 
-🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 19h ago
+🔗 [techputs](https://techputs.com/chatgpt-uninstalls-surge-295-percent-dod-deal/) • 21h ago
+
+---
+
+**[What's Next for Qwen After Junyang Lin's Departure?](https://www.reddit.com/r/artificial/comments/1rk8lid/whats_next_for_qwen_after_junyang_lins_departure/)**
+
+Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
+
+11m ago
 
 ---
 
@@ -49,7 +57,7 @@ ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Depar
 
 Crunchbase data shows global venture investment totaled $189 billion in February, although 83% of capital raised went to just three companies. They include OpenAI, which raised $110 billion, also in the largest round ever raised by a private, venture-backed company.
 
-🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 8h ago
+🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 10h ago
 
 ---
 
@@ -57,7 +65,7 @@ Crunchbase data shows global venture investment totaled $189 billion in February
 
 Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 5h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 7h ago
 
 ---
 
@@ -69,22 +77,6 @@ The law doesn’t say what Sam Altman claims it does.
 
 ---
 
-**[What’s next for Chinese open-source AI](https://www.reddit.com/r/artificial/comments/1rjlk3z/whats_next_for_chinese_opensource_ai/)**
-
-Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Here’s why that matters.
-
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) • 13h ago
-
----
-
-**[Warden — Lock the input, not the screen](https://www.reddit.com/r/artificial/comments/1rjyqll/warden_lock_the_input_not_the_screen/)**
-
-I use Claude Code and Cursor for extended agent sessions, sometimes 30-45 minutes of autonomous coding across multiple files. the problem isn't just accidental input (though that's happened more than I'd like to admit). its the anxiety of being stuck at your desk the entire time, unable to walk away. built a macOS menu bar app that locks all input. screen stays visible so you can watch the agent work, or just leave and come back. Touch ID to unlock. nothing fancy, just means I can actually relax during long runs instead of hovering nervously.
-
-🔗 [Warden](https://www.getwarden.org/) • 4h ago
-
----
-
 **[The AI data center boom is creating a dire electrician shortage. That’s an opportunity for Gen Z | Fortune](https://www.reddit.com/r/artificial/comments/1rj96v6/the_ai_data_center_boom_is_creating_a_dire/)**
 
 A middle-to-upper-income career path in the age of white collar AI anxiety.
@@ -93,11 +85,19 @@ A middle-to-upper-income career path in the age of white collar AI anxiety.
 
 ---
 
+**[What’s next for Chinese open-source AI](https://www.reddit.com/r/artificial/comments/1rjlk3z/whats_next_for_chinese_opensource_ai/)**
+
+Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Here’s why that matters.
+
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) • 15h ago
+
+---
+
 **[Why you should think twice before jumping on the AI caricature trend](https://www.reddit.com/r/artificial/comments/1rjudk7/why_you_should_think_twice_before_jumping_on_the/)**
 
 Amateur artist Anne Rowlands lost all her commissions in the past year and says the rise of AI-generated "art" is to blame.
 
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 7h ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 9h ago
 
 ---
 
@@ -105,7 +105,7 @@ Amateur artist Anne Rowlands lost all her commissions in the past year and says 
 
 Hey everyone, I've been a Trae IDE user for over a year now, relying on it for custom agents, coding (PHP, Python, JS, etc.), and even casual sanity-keeping chats. The old Pro plan ($10/mo) gave me 600 fast requests + unlimited slow ones, which easily lasted me 3+ weeks of moderate use. It felt like good value for an AI-powered IDE. But after their February 2026 switch to token-based pricing, it's a nightmare. Yesterday, I spent the day trying (and failing) to hook up a local LLM (via LM Studio) to bypass cloud costs – something that used to be easier with providers like Ollama, but that's disappeared from the list. Ended up burning through $38 in one day on just 127 requests. That's twice my monthly $20 Basic allowance on a fraction of my old usage... For context: Many of those requests were debug/experimental (long contexts, persistent memory, GPT-5-medium/auto mode), but under the old system, they'd be "slow" and free. Now, every token counts, and my setup (persistent agent chats) compounds costs fast. I wasn't even productive – just frustrated troubleshooting integration that feels deliberately blocked to push cloud models. I'm out – canceling my sub and going full local (LM Studio + VS Code) or alternatives like Cursor/Antigravity. If you're on Trae, optimize hard: Use cheap models like Gemini-Flash, reset contexts often, and avoid agents/SOLO for casual stuff. Demand better local support in their GitHub issues (#597, etc.) to avoid this shafting. Don't let them turn a solid tool into a money pit. What are your experiences with the new pricing? Any good local IDE alternatives?
 
-21h ago
+23h ago
 
 ---
 
@@ -121,27 +121,9 @@ Are we better off with ai with or without the pleasantries?
 
 ## Google News: "ai"
 
-**[OpenAI changes deal with US military after backlash](https://www.bbc.com/news/articles/c3rz1nd0egro)**
+**[OpenAI Amends A.I. Deal With the Pentagon](https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html)**
 
-Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.
-
-BBC • 4h ago
-
----
-
-**[College students, professors are making their own AI rules. They don't always agree](https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors)**
-
-More than three years after ChatGPT debuted, AI has become a part of everyday life — and professors and students are still figuring out how or if they should use it.
-
-NPR • 13h ago
-
----
-
-**[Tech stocks today: OpenAI makes changes to military contract, Amazon data centers struck in Middle East warfare](https://finance.yahoo.com/news/live/tech-stocks-today-openai-makes-changes-to-military-contract-amazon-data-centers-struck-in-middle-east-warfare-133637453.html)**
-
-All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
-
-Yahoo Finance • 20m ago
+The New York Times • 22h ago
 
 ---
 
@@ -149,23 +131,7 @@ Yahoo Finance • 20m ago
 
 Apple’s Mac refresh moves the lineup further upmarket, pairing higher prices with faster performance in a push to give customers a reason to upgrade.
 
-CNBC • 6h ago
-
----
-
-**[What was really behind Block’s Jack Dorsey laying off nearly half his company’s staff?](https://www.theguardian.com/technology/2026/mar/03/jack-dorsey-block-ai-worker-jobs)**
-
-Dorsey cited AI advances when cutting 4,000 workers, but a weak crypto market and declining stock price may also be behind move
-
-The Guardian • 7h ago
-
----
-
-**[Experts warn of scams powered by AI](https://6abc.com/post/experts-warn-scams-powered-ai/18671435/)**
-
-The scams involve AI generated voices, more personalized messages, and coordinated attacks across email, phone, and websites.
-
-6abc Philadelphia • 8h ago
+CNBC • 8h ago
 
 ---
 
@@ -173,7 +139,7 @@ The scams involve AI generated voices, more personalized messages, and coordinat
 
 Cities like Columbus and Denver offer something uniquely American that the coasts do not.
 
-The Washington Post • 3h ago
+The Washington Post • 6h ago
 
 ---
 
@@ -181,23 +147,55 @@ The Washington Post • 3h ago
 
 Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.
 
-blog.google • 7h ago
+blog.google • 9h ago
 
 ---
 
-**[X creators must disclose AI-generated armed conflict videos or face consequences](https://www.foxbusiness.com/technology/x-creators-must-disclose-ai-generated-armed-conflict-videos-face-consequences)**
+**[College students, professors are making their own AI rules. They don't always agree](https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors)**
 
-X announced new penalties for creators posting undisclosed AI-generated videos of armed conflicts, including 90-day revenue-sharing suspensions for violations.
+More than three years after ChatGPT debuted, AI has become a part of everyday life — and professors and students are still figuring out how or if they should use it.
 
-Fox Business • 4h ago
+NPR • 16h ago
 
 ---
 
-**[Devil worshippers are using AI, exorcists are warned](https://www.thetimes.com/world/europe/article/ai-devil-worshipping-exorcists-9f7hqht36?gaa_at=eafs&gaa_n=AWEtsqc-cJt3EeIQfT1zK9nmfrpGD_tEbDNaZOTeqfGUXqf4iqHVPrLL1Qhy&gaa_ts=69a777d9&gaa_sig=EfIIN-nYjZLpRyOlK1y2eCQ9_wjvwHvNrtoyNXbAzwGUh8jHB5LD9XSgLSKxUuTPB9z0sCmI2iro0PRVSEgE2w%3D%3D)**
+**[Howard Marks was skeptical about AI. What it said to him about Buffett and Munger left him shaken](https://fortune.com/2026/03/03/billionaire-howard-marks-on-ai-bubble-adoption-buffett-munger-investing-anthropic-claude/)**
 
-Priests, imams and rabbis will attend an exorcism course in Rome amid fears that paedophiles are using AI to create images of children involved in satanic rites
+The Oaktree cofounder asked Anthropic’s Claude to give him a tutorial. “I want to try to communicate [my] level of awe,” he wrote to clients.
 
-The Times • 4h ago
+Fortune • 8h ago
+
+---
+
+**[Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries](https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html)**
+
+AI-powered CyberStrikeAI linked to 600 FortiGate breaches in 55 countries, with 21 IPs tied to China-based infrastructure.
+
+The Hacker News • 11h ago
+
+---
+
+**[Why developers using AI are working longer hours](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)**
+
+Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
+
+Scientific American • 13h ago
+
+---
+
+**[China Could Dominate the Physical AI Future](https://time.com/7382151/china-dominates-the-physical-ai-race/)**
+
+Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
+
+Time Magazine • 14h ago
+
+---
+
+**[Goldman finds ‘no meaningful relationship between AI and productivity at the economy-wide level,’ but a 30% boost for 2 specific use cases](https://finance.yahoo.com/news/goldman-finds-no-meaningful-relationship-143553714.html)**
+
+Have you got “AI-nxiety?” Goldman took a closer look at the last earnings season and found a mismatch between hype and reality.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -209,7 +207,7 @@ The Times • 4h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1362 • 💬 761 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1371 • 💬 772 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -225,7 +223,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 561 • 💬 353 • 22h ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 569 • 💬 356 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -233,7 +231,7 @@ Ars Technica has fired senior AI reporter Benj Edwards following an outrage-spar
 
 Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.
 
-⬆️ 492 • 💬 388 • 1d ago • [GitHub](https://github.com/mandel-macaque/memento)
+⬆️ 493 • 💬 388 • 2d ago • [GitHub](https://github.com/mandel-macaque/memento)
 
 ---
 
@@ -241,7 +239,7 @@ Keep track of you codex sessions per commit. Contribute to mandel-macaque/mement
 
 Apple announced the new iPad Air featuring M4 and more memory, giving users a big jump in performance and making it more versatile than ever.
 
-⬆️ 432 • 💬 668 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
+⬆️ 432 • 💬 670 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 
 ---
 
@@ -257,7 +255,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 345 • 💬 405 • 9h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 373 • 💬 420 • 12h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -265,7 +263,7 @@ Apple today announced the new MacBook Air with M5, bringing exceptional performa
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-⬆️ 334 • 💬 175 • 11h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
+⬆️ 339 • 💬 179 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
@@ -277,7 +275,7 @@ In several recent instances, AI has disrupted court proceedings in India and els
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 213 • 💬 379 • 2d ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 213 • 💬 380 • 2d ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
@@ -291,7 +289,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 InsideAI
 
-👁️ 51K • 👍 6K • 💬 788 • ⏱️ 16:54 • 5h ago
+👁️ 88K • 👍 7K • 💬 1K • ⏱️ 16:54 • 7h ago
 
 ---
 
@@ -301,7 +299,7 @@ Elon Musk recently advised people NOT to save for retirement due to AI, robotics
 
 📺 BlazeTV
 
-👁️ 266K • 👍 5K • 💬 1K • ⏱️ 11:39 • 1d ago
+👁️ 275K • 👍 6K • 💬 1K • ⏱️ 11:39 • 1d ago
 
 ---
 
@@ -311,7 +309,7 @@ If your goal is to actually become good at AI, this roadmap shows you how! Try H
 
 📺 Parker Prompts
 
-👁️ 15K • 💬 5 • ⏱️ 9:16 • 10h ago
+👁️ 16K • 💬 4 • ⏱️ 9:16 • 12h ago
 
 ---
 
@@ -321,7 +319,37 @@ SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
 
 📺 YongYea
 
-👁️ 119K • 👍 6K • 💬 2K • ⏱️ 28:07 • 22h ago
+👁️ 127K • 👍 6K • 💬 2K • ⏱️ 28:07 • 1d ago
+
+---
+
+**[Google Just Achieved Mathematical AGI](https://www.youtube.com/watch?v=N_piE0I34gc)**
+
+This month, AI crossed a line many believed would hold for decades. Google DeepMind revealed an AI system that independently ...
+
+📺 AI Revolution
+
+👁️ 41K • 👍 2K • 💬 159 • ⏱️ 12:11 • 1d ago
+
+---
+
+**[I Let AI React to Iran&#39;s STRIKES. And Here&#39;s What It Said...](https://www.youtube.com/watch?v=dVsczTi83Q0)**
+
+Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
+
+📺 I Ask AI
+
+👁️ 17K • 👍 2K • 💬 121 • ⏱️ 13:36 • 1d ago
+
+---
+
+**[The AI Bubble Is (Finally) Collapsing](https://www.youtube.com/watch?v=-BI-0-8vqwI)**
+
+Support Haven's Kickstarter - a privacy-first social platform designed to protect you from AI scraping, facial recognition and data ...
+
+📺 Brianne Worth
+
+👁️ 2K • 👍 343 • 💬 112 • ⏱️ 26:30 • 4h ago
 
 ---
 
@@ -331,17 +359,7 @@ Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTub
 
 📺 TIME
 
-👁️ 18K • 👍 463 • 💬 159 • ⏱️ 6:10 • 1d ago
-
----
-
-**[AI Warfare Begins: How Anthropic&#39;s Claude AI Helped US Israel Attack Iran](https://www.youtube.com/watch?v=tWHnkBwwGO0)**
-
-Is Artificial Intelligence now fighting wars? In this explosive deep dive, we break down how the United States allegedly used AI ...
-
-📺 Switch
-
-👁️ 14K • 👍 67 • 💬 4 • ⏱️ 20:23 • 11h ago
+👁️ 22K • 👍 522 • 💬 177 • ⏱️ 6:10 • 1d ago
 
 ---
 
@@ -355,33 +373,13 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 ---
 
-**[Google Just Achieved Mathematical AGI](https://www.youtube.com/watch?v=N_piE0I34gc)**
+**[AI Warfare Begins: How Anthropic&#39;s Claude AI Helped US Israel Attack Iran](https://www.youtube.com/watch?v=tWHnkBwwGO0)**
 
-This month, AI crossed a line many believed would hold for decades. Google DeepMind revealed an AI system that independently ...
+Is Artificial Intelligence now fighting wars? In this explosive deep dive, we break down how the United States allegedly used AI ...
 
-📺 AI Revolution
+📺 Switch
 
-👁️ 38K • 👍 1K • 💬 156 • ⏱️ 12:11 • 1d ago
-
----
-
-**[AI Just Started KILLING Russians on the Front Lines for the First Time](https://www.youtube.com/watch?v=DrZOXlXOVc0)**
-
-On the battlefields of Eastern Ukraine, a new kind of soldier is taking the fight to Russian forces: robots. As the war enters its fourth ...
-
-📺 The Military Show
-
-👁️ 367K • 👍 9K • 💬 370 • ⏱️ 22:56 • 2d ago
-
----
-
-**[An AI CEO finally said something honest...](https://www.youtube.com/watch?v=ZM2c33qy16U)**
-
-An honest take about AI. Join the community https://www.youtube.com/channel/UCXzw-OdotBUcNA9yhuYQBwA/join Topics: ...
-
-📺 Awesome
-
-👁️ 179K • 👍 8K • 💬 695 • ⏱️ 8:07 • 1d ago
+👁️ 14K • 👍 69 • 💬 4 • ⏱️ 20:23 • 13h ago
 
 ---
 
@@ -397,7 +395,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 680,524 • ❤️ 887 • 4d ago
+⬇️ 680,524 • ❤️ 889 • 4d ago
 
 ---
 
@@ -409,7 +407,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 319,191 • ❤️ 556 • 6d ago
+⬇️ 319,191 • ❤️ 557 • 6d ago
 
 ---
 
@@ -421,7 +419,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,904 • ❤️ 479 • 56m ago
+⬇️ 569,904 • ❤️ 481 • 3h ago
 
 ---
 
@@ -433,7 +431,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 38,443 • ❤️ 305 • 1d ago
+⬇️ 38,443 • ❤️ 314 • 2d ago
 
 ---
 
@@ -445,7 +443,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 150,470 • ❤️ 387 • 1d ago
+⬇️ 150,470 • ❤️ 388 • 1d ago
 
 ---
 
@@ -457,31 +455,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,245,204 • ❤️ 1,202 • 8d ago
-
----
-
-**[GLM-5](https://huggingface.co/zai-org/GLM-5)**
-
-*Z.ai*
-
-GLM-5 is a large language model optimized for complex systems engineering and long-horizon agentic tasks, featuring a 744B parameter architecture with DeepSeek Sparse Attention for efficient long-context handling. It excels in reasoning, coding, and agentic capabilities, outperforming other open-source models on various benchmarks.
-
-`text-generation` `753.9B`
-
-⬇️ 199,685 • ❤️ 1,694 • 18d ago
-
----
-
-**[Qwen3.5-4B](https://huggingface.co/Qwen/Qwen3.5-4B)**
-
-*Qwen*
-
-Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text-to-text pipeline. It excels in unified vision-language understanding, efficient hybrid architecture, and broad linguistic coverage across 201 languages, making it suitable for diverse multimodal reasoning and generation tasks.
-
-`image-text-to-text` `4.7B`
-
-⬇️ 28,439 • ❤️ 185 • 1d ago
+⬇️ 1,245,204 • ❤️ 1,206 • 8d ago
 
 ---
 
@@ -493,7 +467,31 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 21,743 • ❤️ 182 • 1d ago
+⬇️ 21,743 • ❤️ 191 • 1d ago
+
+---
+
+**[Qwen3.5-4B](https://huggingface.co/Qwen/Qwen3.5-4B)**
+
+*Qwen*
+
+Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text-to-text pipeline. It excels in unified vision-language understanding, efficient hybrid architecture, and broad linguistic coverage across 201 languages, making it suitable for diverse multimodal reasoning and generation tasks.
+
+`image-text-to-text` `4.7B`
+
+⬇️ 28,439 • ❤️ 188 • 2d ago
+
+---
+
+**[GLM-5](https://huggingface.co/zai-org/GLM-5)**
+
+*Z.ai*
+
+GLM-5 is a large language model optimized for complex systems engineering and long-horizon agentic tasks, featuring a 744B parameter architecture with DeepSeek Sparse Attention for efficient long-context handling. It excels in reasoning, coding, and agentic capabilities, outperforming other open-source models on various benchmarks.
+
+`text-generation` `753.9B`
+
+⬇️ 199,685 • ❤️ 1,695 • 18d ago
 
 ---
 
@@ -505,7 +503,7 @@ Qwen3.5-27B-GGUF is a 27B parameter multimodal causal language model optimized f
 
 `image-text-to-text` `26.9B`
 
-⬇️ 275,503 • ❤️ 213 • 1d ago
+⬇️ 275,503 • ❤️ 214 • 1d ago
 
 ---
 
@@ -557,7 +555,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 OmniLottie framework generates high-quality vector animations from multi-modal instructions using a specialized Lottie tokenizer and pretrained vision-language models.
 
-▲ 107 • 💬 2 • ⭐ 79 • 1d ago
+▲ 108 • 💬 3 • ⭐ 118 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.02138) • [💻 code](https://github.com/OpenVGLab/OmniLottie) • [🔗 project](https://openvglab.github.io/OmniLottie/)
 
@@ -585,7 +583,7 @@ FaraGen creates synthetic datasets for computer use agents, enabling the trainin
 
 A unified open-source framework is presented that standardizes core components of diffusion language modeling for reproduction, customization, and accessible development of both large and small models.
 
-▲ 102 • 💬 4 • ⭐ 2,011 • 5d ago
+▲ 102 • 💬 4 • ⭐ 2,011 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.22661) • [💻 code](https://github.com/ZHZisZZ/dllm) • [🔗 project](https://github.com/ZHZisZZ/dllm)
 
@@ -661,7 +659,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 7.2k • 🔱 727 • 58m ago
+⭐ 7.3k • 🔱 746 • 3h ago
 
 ---
 
@@ -671,7 +669,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.3k • 🔱 765 • 8h ago
+⭐ 6.3k • 🔱 769 • 10h ago
 
 ---
 
@@ -681,7 +679,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.0k • 🔱 561 • 42m ago
+⭐ 5.1k • 🔱 569 • 33m ago
 
 ---
 
@@ -691,7 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 4.3k • 🔱 342 • 1d ago
+⭐ 4.4k • 🔱 344 • 1d ago
 
 ---
 
@@ -701,7 +699,7 @@ The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.9k • 🔱 371 • 7h ago
+⭐ 4.0k • 🔱 371 • 58m ago
 
 ---
 
@@ -721,7 +719,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 355 • 13h ago
+⭐ 3.3k • 🔱 357 • 15h ago
 
 ---
 
@@ -731,7 +729,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 230 • 3h ago
+⭐ 3.2k • 🔱 231 • 2h ago
 
 ---
 
@@ -741,7 +739,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 606 • 17h ago
+⭐ 3.1k • 🔱 607 • 19h ago
 
 ---
 
