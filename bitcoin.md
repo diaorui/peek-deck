@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T22:33:33.957237+00:00'
+updated: '2026-03-04T23:31:20.152480+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 22:33 UTC  
+**Last Updated:** March 04, 2026 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[The Bitcoin CEO ordered me to post this here](https://www.reddit.com/r/Bitcoin/comments/1rkqmp7/the_bitcoin_ceo_ordered_me_to_post_this_here/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Watch -- this is a HUGE milestone for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rkpcu1/watch_this_is_a_huge_milestone_for_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 that turned out to be a lie :-(
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ that turned out to be a lie :-(
 
 Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
-6h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
 Genuine question. With all the payment apps and instant bank transfers now, I want to know if people still find BTC faster for moving money around online. Ive noticed some platforms still lean heavily on Bitcoin for deposits and withdrawals because it settles quicker than traditional banking. I even saw a few services like Bracco using BTC payouts instead of waiting days for bank transfers. I want to know what people here think. Is Bitcoin still the best option for fast online payments or have other methods caught up?
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ Genuine question. With all the payment apps and instant bank transfers now, I wa
 
 I stopped trying to time bitcoin and just started DCAing every week. Honestly wish I did this years ago instead of staring at charts like an idiot. Everyone told me to wait for the dip, wait for the cycle bottom, wait for 50k again. Meanwhile bitcoin went from 60k to 100k while I was waiting. The people who were DCAing the whole time are up and the people who were "waiting for the perfect entry" are still waiting. I genuinely think most people lose money in crypto not because they buy the wrong thing but because they try to be smarter than the market. Just buying a fixed amount every week and forgetting about it has outperformed every trade I've ever made. The funniest part is people will call this boring or say DCA is for people who don't know what they're doing. Cool. My boring strategy is outperforming your leveraged long that got liquidated last Tuesday. Am I wrong here or is DCA genuinely the most underrated strategy in crypto?
 
-5h ago
+6h ago
 
 ---
 
@@ -125,19 +125,19 @@ I stopped trying to time bitcoin and just started DCAing every week. Honestly wi
 
 Oh, look who is back from the dead, again.
 
-5h ago
+6h ago
 
 ---
 
 **[WSJ: "Kraken Becomes First Crypto Firm to Win Access to Fed’s Core Payments System".](https://www.reddit.com/r/Bitcoin/comments/1rkug8c/wsj_kraken_becomes_first_crypto_firm_to_win/)**
 
-🔗 [wsj.com](https://www.wsj.com/finance/regulation/kraken-becomes-first-crypto-firm-to-win-access-to-feds-core-payments-system-b5d17031?gaa_at=eafs&gaa_n=AWEtsqfdVnY79XD5mBPAvp1mBiF2DlSLnb1xK97gZ7tyi7GtH1chamQqQaXca7NtHTM%3D&gaa_ts=69a88667&gaa_sig=tFrW3fhMtKBdT4S9yS-gp9-crKSVkzBrpWivmJMpA7PTLVuJqnXVzRFekQ5q1Vavme4-OSNZZ6iivihi1Xg5yQ%3D%3D) • 3h ago
+🔗 [wsj.com](https://www.wsj.com/finance/regulation/kraken-becomes-first-crypto-firm-to-win-access-to-feds-core-payments-system-b5d17031?gaa_at=eafs&gaa_n=AWEtsqfdVnY79XD5mBPAvp1mBiF2DlSLnb1xK97gZ7tyi7GtH1chamQqQaXca7NtHTM%3D&gaa_ts=69a88667&gaa_sig=tFrW3fhMtKBdT4S9yS-gp9-crKSVkzBrpWivmJMpA7PTLVuJqnXVzRFekQ5q1Vavme4-OSNZZ6iivihi1Xg5yQ%3D%3D) • 4h ago
 
 ---
 
 **[Bitcoin’s story is just getting started — a short video on its past, present, and future](https://www.reddit.com/r/Bitcoin/comments/1rkud5i/bitcoins_story_is_just_getting_started_a_short/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -145,7 +145,7 @@ Oh, look who is back from the dead, again.
 
 If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
 
-15h ago
+16h ago
 
 ---
 
@@ -157,13 +157,13 @@ If you're wondering how to find the circulating coins info, you can use your own
 
 Stocks futures were little changed Wednesday, a day after major indexes fell but closed well above early lows, as Middle East fighting entered its fifth day.
 
-Investopedia • 1h ago
+Investopedia • 2h ago
 
 ---
 
 **[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqeB9O8GceeZ1Wkev3AtzMDxGTmfXKaE4CetmWTuLsrfju36a1_z0LdQ&gaa_ts=69a8b6a3&gaa_sig=qY2VUCtH5Tni3_IHFXTU2FG3dWZPEN2lpcNOLWZh8x3mweeV9IHkY3hRdQ_umr8NnBnbQdgT7sUEC32lSPgvww%3D%3D)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
@@ -171,13 +171,13 @@ Barron's • 6h ago
 
 Investors are weighing a NYT report that Iran has indirectly approached the US to discuss terms for ending the conflict.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[AI Boom Spurs Bitcoin-Sales Threat at Miners Holding $8 Billion](https://www.bloomberg.com/news/articles/2026-03-04/ai-boom-spurs-bitcoin-sales-threat-at-miners-holding-8-billion)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg • 1h ago
 
 Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Business Insider • 2h ago
 
 The Bridgewater founder dismissed bitcoin's safe-haven credentials on the same day gold dropped 3% while bitcoin fell less than 1%.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -235,7 +235,7 @@ Bitcoin Magazine • 1d ago
 
 **[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
 
-⬆️ 9 • 💬 3 • 6d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+⬆️ 9 • 💬 3 • 7d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
 
 ---
 
@@ -259,7 +259,7 @@ Links to major crypto world figures are just the start.
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 3 • 💬 2 • 2d ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 3 • 💬 2 • 3d ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -279,13 +279,13 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 Complete operating system for Bitcoiners
 
-⬆️ 2 • 💬 1 • 7h ago • [opacore.com](https://opacore.com)
+⬆️ 2 • 💬 1 • 8h ago • [opacore.com](https://opacore.com)
 
 ---
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 3d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 4d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin #Crypto #Finance Bitcoin is breaking out past $71000 as momentum returns
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 794 • 💬 223 • ⏱️ 35:08 • 7h ago
+👁️ 17K • 👍 794 • 💬 223 • ⏱️ 35:08 • 8h ago
 
 ---
 
@@ -325,7 +325,7 @@ Ran breaks down why this moment could be the ultimate test for Bitcoin as global
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 42 • ⏱️ 22:44 • 7h ago
+👁️ 18K • 👍 1K • 💬 42 • ⏱️ 22:44 • 8h ago
 
 ---
 
@@ -335,7 +335,7 @@ Global markets are in panic mode after a shocking escalation in the Middle East:
 
 📺 Crypto Insider
 
-👁️ 8K • 👍 540 • 💬 28 • ⏱️ 4:36 • 4h ago
+👁️ 8K • 👍 540 • 💬 28 • ⏱️ 4:36 • 5h ago
 
 ---
 
@@ -345,7 +345,7 @@ Protect Your Identity (2-Week Free Trial) Take control of your digital security 
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 558 • 💬 103 • ⏱️ 10:38 • 10h ago
+👁️ 10K • 👍 558 • 💬 103 • ⏱️ 10:38 • 11h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 232 • ⏱️ 15:07 • 23h ago
+👁️ 32K • 👍 2K • 💬 232 • ⏱️ 15:07 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 186 • ⏱️ 52:08 • 6h ago
+👁️ 18K • 👍 1K • 💬 186 • ⏱️ 52:08 • 7h ago
 
 ---
 
@@ -375,7 +375,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 242 • 💬 67 • ⏱️ 50:12 • 6h ago
+👁️ 4K • 👍 242 • 💬 67 • ⏱️ 50:12 • 7h ago
 
 ---
 
@@ -385,7 +385,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 6K • 👍 564 • 💬 201 • ⏱️ 10:25 • 4h ago
+👁️ 6K • 👍 564 • 💬 201 • ⏱️ 10:25 • 5h ago
 
 ---
 
@@ -395,7 +395,7 @@ Bill Maher takes aim at Bitcoin and the massive environmental cost of cryptocurr
 
 📺 The Unfiltered Republic
 
-👁️ 6K • 👍 216 • 💬 9 • ⏱️ 0:48 • 18h ago
+👁️ 6K • 👍 216 • 💬 9 • ⏱️ 0:48 • 19h ago
 
 ---
 

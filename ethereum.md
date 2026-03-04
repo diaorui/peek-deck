@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-04T22:33:33.963276+00:00'
+updated: '2026-03-04T23:31:20.158446+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 22:33 UTC  
+**Last Updated:** March 04, 2026 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2016 - one of the earliest token contracts on Ethereum. The original source used #require directives from the Mix IDE preprocessor, which hasn't existed for years. The code was never verified on Etherscan. I spent a while reconstructing the source from bytecode analysis: Brute-forced all 12 function selectors via keccak256 to recover the exact function names (turns out Gav used changeOwner not setOwner, nameRegAddress not name) Discovered the contract has zero events, no inheritance, and a flat storage layout - unusual for something based on dapp-bin's coin.sol Found that function declaration order matters in solc 0.3.x because it controls where the shared return trampoline gets placed in bytecode The constructor registers itself as "GavCoin" in the old global NameReg contract and mints 1,000,000 tokens to the deployer, plus has a proof-of-work mining function anyone could call End result: exact byte-for-byte match of the 905-byte runtime bytecode across solc v0.1.6 through v0.3.2 with optimizer enabled. Source and one-command verification script: https://github.com/cartoonitunes/gavcoin-verify The problem: Etherscan's verification form only supports solc v0.4.11 and newer. GavCoin was compiled with v0.3.1. So I've emailed them requesting manual verification. I also submitted verification requests for two other historic contracts from the same era - Alex Van de Sande's Unicorn Meat system (the MeatConversionCalculator and MeatGrindersAssociation). The Grinder Association is one of the earliest DAOs on Ethereum, featuring quadratic voting and on-chain proposals. Source for those is in avsa's original gist. These early contracts are fascinating. Pre-ERC-20, pre-EIP, people were just experimenting. Proof-of-work token mining, on-chain name registries, quadratic voting DAOs - all in 2016. If anyone has other unverified historic contracts they'd like help with, happy to share the approach.
 
-20h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Over the past year, many people I talk to have expressed worry about two topics:
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 6h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 7h ago
 
 ---
 
@@ -156,7 +156,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 4h ago
 
 Analysts say large investors are increasingly locking up ETH for yield rather than positioning to sell into market rallies.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 19h ago
 
 Ethereum is rallying hard today, as the crypto sector finally shows some signs of life.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -180,13 +180,13 @@ The Motley Fool • 2h ago
 
 Ethereum is rallying hard today, as the crypto sector finally shows some signs of life.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqevA36Cua6KrHCZa3L_67YG-pTu_pisg3taru-MudAfW_15-BvqNU-z&gaa_ts=69a8b6a4&gaa_sig=fVOXIWAIjftWeaUSLK5XA-vLOQ41TdVZke9LQ-vD9RC1LxhyAMAu98PDklU4rsFedc5wYyFxiEV-7zcJEHu94A%3D%3D)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
@@ -194,7 +194,7 @@ Barron's • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17m ago
+Fortune • 1h ago
 
 ---
 
@@ -226,7 +226,7 @@ dlnews.com • 1d ago
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 12h ago
+Polymarket • 13h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 468 • 👍 20 • ⏱️ 4:40 • 12h ago
+👁️ 468 • 👍 20 • ⏱️ 4:40 • 13h ago
 
 ---
 
@@ -310,7 +310,7 @@ Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet :
 
 📺 Kirtish Vyas (CoinLyte)
 
-👁️ 2K • 👍 122 • 💬 11 • ⏱️ 17:33 • 12h ago
+👁️ 2K • 👍 122 • 💬 11 • ⏱️ 17:33 • 13h ago
 
 ---
 
@@ -320,7 +320,7 @@ Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet :
 
 📺 Егор Попковский
 
-👁️ 2K • 👍 125 • 💬 16 • ⏱️ 7:10 • 8h ago
+👁️ 2K • 👍 125 • 💬 16 • ⏱️ 7:10 • 9h ago
 
 ---
 

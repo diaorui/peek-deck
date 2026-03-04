@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-04T22:33:33.948823+00:00'
+updated: '2026-03-04T23:31:20.143996+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 04, 2026 at 22:33 UTC  
+**Last Updated:** March 04, 2026 at 23:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,19 +39,19 @@ AI news, discussions, and developments
 
 **[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 2h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 3h ago
 
 ---
 
 **[The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10](https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 11h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 12h ago
 
 ---
 
 **[OpenAI looking at contract with NATO, source says](https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 8h ago
+🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 9h ago
 
 ---
 
@@ -59,7 +59,7 @@ AI news, discussions, and developments
 
 One of the things I’ve been thinking about with AI systems is the difference between decision support and decision making. Decision support: meaning the system provides info and a human evaluates it and may or may not take an action. Decision making: meaning the system actually performs the action. For example: • Suggesting eligible clinical trial participants • Flagging abnormal lab results • Recommending a route on a GPS In these cases the system helps a human decide. But there are also systems that automatically: • approve or deny requests • enroll users into workflows • trigger actions based on a rule set or user input That’s a very different level of responsibility. Curious where people think the boundary should be between recommendation and decision.
 
-41m ago
+1h ago
 
 ---
 
@@ -67,7 +67,7 @@ One of the things I’ve been thinking about with AI systems is the difference b
 
 Ollama FX es una interfaz de escritorio Open Source para Ollama con grandes mejoras en gestión de chats, RAG, multimodalidad y organización 🔥 📅 Lanzado hoy en GitHub — https://github.com/fredericksalazar/OllamaFX 🧠 Principales novedades de la v0.5.0 ⭐ 🔍 Soporte RAG y análisis de archivos Carga y análisis de archivos directamente en chats: ahora puedes subir documentos y explorar su contenido con tus modelos LLM locales. Esta funcionalidad abre el camino a usar OllamaFX como herramienta de RAG (Retrieval-Augmented Generation) en workflows locales de IA sin necesidad de servicios externos. 👉 Permite extraer insights, responder preguntas y recuperar contenido relevante de tus propios archivos directamente desde la UI. 📁 Organización real de chats Carpetas para agrupar conversaciones: ordena tus chats por proyectos, temas o modelos. Mover chats entre carpetas con un simple arrastre. Papelera de reciclaje integrada: los chats (y carpetas) eliminados se mantienen hasta 30 días, para que no pierdas nada por accidente. 🖼️ Multimodalidad visual Soporte nativo para cargar imágenes y conversar con modelos que las interpretan. 📄 Exportación & mejor renderizado Exporta chats completos a formatos útiles. Visualizador Markdown mejorado con renderizado más limpio y estable para texto rico. ⚙️ Mejoras internas y experiencia de usuario Refactorizaciones internas para mayor estabilidad y escalabilidad. Optimización en filtros de modelos y selección. Ajustes finos en UI para una experiencia más fluida. Ampliación de localización / soporte multilenguaje. Indicadores visuales mientras el asistente “piensa” y feedback más claro durante la generación. 📚 Otras mejoras Estadísticas de uso y métricas básicas desde la vista “About”. Preparación para futuras integraciones y soporte a nuevos formatos LLM locales. 📦 Dónde descargar Todos los assets de la versión están listos para descargar en la sección de Releases del repo: 👉 https://github.com/fredericksalazar/OllamaFX/releases/tag/v0.5.0 🤝 Cómo ayudar al proyecto Si te gusta OllamaFX, puedes: ⭐ Dejar una estrella en GitHub 💬 Abrir issues con ideas o bugs 📄 Contribuir a la documentación 🧠 Proponer mejoras o nuevas integrations
 
-1h ago
+2h ago
 
 ---
 
@@ -83,7 +83,7 @@ Fireflies just became the first meeting tool in Anthropic's official Claude MCP 
 
 Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave them an open brief: scan developer forums and research platforms, identify pain points in how developers work, design solutions, build prototypes. No specific domain. No target output. Just: find problems worth solving and build something. 170 prototypes later, a pattern emerged that I didn't expect. 28 builds from different nights, different input signals, different starting contexts independently converged on the same category of output. Not productivity tools. Not automation scripts. Not developer experience improvements. Security scanners. Cost controls. Validation layers. Guardrails. Some specific examples: One night the agent found a heavily upvoted thread about API key exposure in AI coding workflows. By morning it had designed and partially implemented an encryption layer for environment files. I never asked for this. It read the signal, identified the problem as worth solving, and built toward it. Another session found developers worried about AI-generated PRs being merged without adequate review. The output: a validator that scores whether a PR change is actually safe to ship, not just whether tests pass, but whether the intent matches the implementation. A third session rewrote a performance-critical module in Rust without being asked. It left a comment explaining the decision: lower memory overhead meant fewer cascading failures in long-running processes. The question I have been sitting with: When AI systems are given broad autonomy and goal-oriented briefs, they appear to spontaneously prioritize reliability and safety mechanisms. Not because they were instructed to. Because they observed developer pain and inferred that systems that fail unpredictably and code that cannot be trusted are the problems most worth solving. Is this a training data artifact? GitHub, Stack Overflow, and Hacker News are saturated with security postmortems and reliability horror stories. An agent trained on that data might simply be pattern-matching to what gets the most attention. Or is something more interesting happening: agents inferring what good engineering means from observed failure patterns and building toward it autonomously? I genuinely do not know. But 28 out of 170 builds landing in the same category across 3 weeks of completely independent runs felt like something worth sharing outside of the AI builder communities. Thoughts on what is actually happening here? Curious whether others running autonomous agent workflows have seen similar convergence patterns.
 
-11h ago
+12h ago
 
 ---
 
@@ -91,7 +91,7 @@ Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave the
 
 Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
 
-20h ago
+21h ago
 
 ---
 
@@ -99,7 +99,7 @@ Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, ju
 
 I was wondering what to use to streamline all my md files from my claude code plans and the technical docs I create. How will it work in team settings?
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +119,7 @@ Experimental composer Holly Herndon says this technology isn’t here to replace
 
 The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -127,7 +127,7 @@ BBC • 3h ago
 
 The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a "mass casualty attack."
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -135,7 +135,7 @@ CNBC • 2h ago
 
 A Florida man's family is suing Google, alleging its Gemini AI chatbot, which he called his 'wife,' drove him to suicide.
 
-USA Today • 12m ago
+USA Today • 1h ago
 
 ---
 
@@ -143,13 +143,13 @@ USA Today • 12m ago
 
 Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Trump Announces A.I. Industry Pledge to Pay for Power](https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html)**
 
-The New York Times • 7m ago
+The New York Times • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Axios • 1h ago
 
 **[Hiring AI Experts Boosts Bonds, Stock Performance, Barclays Says](https://www.bloomberg.com/news/articles/2026-03-04/hiring-ai-experts-boosts-bonds-stock-performance-barclays-says)**
 
-Bloomberg • 43m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg • 43m ago
 
 Anthropic’s AI tool Claude is playing a key role in the U.S. military’s campaign in Iran, amid a bitter fight with the Pentagon over the terms of its use in war.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Washington Post • 4h ago
 
 As part of our series AI for the People, our resident AI skeptic Rhik Samadder agreed to put his life in AI’s hands. This week: therapy
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 8h ago
 
 OpenAI’s next GPT model is coming—and soon, according to a person with knowledge of it.Among the highlights, the new model, GPT-5.4, will have more than double the context window of the current GPT-5.2 model. That means the model can handle queries with many more words or data, up to 1 million ...
 
-The Information • 7h ago
+The Information • 8h ago
 
 ---
 
@@ -283,7 +283,7 @@ Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and
 
 📺 TODAY
 
-👁️ 8K • 👍 347 • 💬 37 • ⏱️ 8:38 • 6h ago
+👁️ 8K • 👍 347 • 💬 37 • ⏱️ 8:38 • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ Hi. In today's episode, we're looking at what A.I. is doing to our brains, how c
 
 📺 Some More News
 
-👁️ 56K • 👍 6K • 💬 977 • ⏱️ 54:32 • 6h ago
+👁️ 56K • 👍 6K • 💬 977 • ⏱️ 54:32 • 7h ago
 
 ---
 
@@ -323,7 +323,7 @@ Trying out locally AI to run AI models on my phone without internet. Discover Mo
 
 📺 Matt Wolfe
 
-👁️ 34K • 👍 2K • 💬 199 • ⏱️ 11:52 • 18h ago
+👁️ 34K • 👍 2K • 💬 199 • ⏱️ 11:52 • 19h ago
 
 ---
 
@@ -333,7 +333,7 @@ Generate cinematic AI videos without limits on Higgsfield ...
 
 📺 Malva AI
 
-👁️ 5K • 👍 262 • 💬 51 • ⏱️ 8:38 • 10h ago
+👁️ 5K • 👍 262 • 💬 51 • ⏱️ 8:38 • 11h ago
 
 ---
 
@@ -363,7 +363,7 @@ Built with and for creatives, Flow is your AI creative studio powered by Google 
 
 📺 Google
 
-👁️ 7K • 👍 739 • 💬 61 • ⏱️ 3:10 • 5h ago
+👁️ 7K • 👍 739 • 💬 61 • ⏱️ 3:10 • 6h ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 674,109 • ❤️ 495 • 12h ago
+⬇️ 674,109 • ❤️ 495 • 13h ago
 
 ---
 
@@ -653,7 +653,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.0k • 🔱 843 • 2h ago
+⭐ 8.0k • 🔱 843 • 3h ago
 
 ---
 
@@ -673,7 +673,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.4k • 🔱 618 • 6h ago
+⭐ 5.4k • 🔱 618 • 7h ago
 
 ---
 
@@ -683,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.1k • 🔱 386 • 11h ago
+⭐ 5.1k • 🔱 386 • 12h ago
 
 ---
 
@@ -693,7 +693,7 @@ The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 4.2k • 🔱 374 • 2h ago
+⭐ 4.2k • 🔱 374 • 3h ago
 
 ---
 
@@ -713,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 364 • 8h ago
+⭐ 3.4k • 🔱 364 • 9h ago
 
 ---
 
@@ -723,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 232 • 13h ago
+⭐ 3.2k • 🔱 232 • 14h ago
 
 ---
 
