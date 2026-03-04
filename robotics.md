@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T05:29:43.010916+00:00'
+updated: '2026-03-04T06:06:28.176630+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 05:29 UTC  
+**Last Updated:** March 04, 2026 at 06:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
-16h ago
+17h ago
 
 ---
 
@@ -44,7 +44,7 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t shipped yet. He argues that while many look impressive in demonstrations, but shipping real systems requires a level of reliability that is difficult to achieve. Walking, balance, manipulation, perception, and safety all have to work together in real environments, not controlled labs. Until those systems can operate reliably, consistently, and at a reasonable cost, most humanoid robots will remain in the prototype or demonstration stage rather than large-scale deployment.
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t 
 
 If you are from arizona and you are a robotics engineer dm me, i have an idea for an invention im disabled and its a piece of tech that would help tons of disabled people around the world basically a new type of wheelchair pls dm if interested
 
-4m ago
+41m ago
 
 ---
 
@@ -72,7 +72,7 @@ If you are from arizona and you are a robotics engineer dm me, i have an idea fo
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_realsense.html
 
-13h ago
+14h ago
 
 ---
 
@@ -94,7 +94,7 @@ Releasing HDDS -- a complete DDS (Data Distribution Service) implementation buil
 
 I've been messing with singularity handling in 6 DoF industrial arms, especially for fast palletizing and long-reach pick-and-place. Damped Least Squares (DLS/SDLS) is the go-to, but near wrist singularities it often gets too "mushy" tracking slows down unpredictably, velocities scale weirdly, and in high-speed cycles that can mess up cycle time or stack accuracy. My idea is that instead of damping the whole Jacobian, when det(J) drops below a threshold (say ~0.01–0.05, tunable), hard-lock the problematic joint (usually J5 in typical roll-pitch-roll wrists). Treat the arm as 5 DoF temporarily: Update DH params on the fly (locked joint becomes fixed link). Recompute IK with reduced 6×5 Jacobian. Prioritize task-space: keep XYZ + pitch/yaw solid, sacrifice roll if needed (most palletizing doesn't care about full orientation anyway). Then, when manipulability improves, blend the joint back in smoothly to avoid jerk. Why bother over SDLS? Predictable: you know exactly what you're losing (e.g., "loses roll near vertical stacks"). No infinite velocity risk since you just remove the DoF instead of damping it softly. Cheaper compute: lower-order IK is faster than SVD every cycle. But i have some questions that demand some practical experience with this kind of problem/ideia: Has anyone done on-the-fly kinematic chain changes / joint locking like this? How do you smooth the lock/unlock transition to kill jerk? Exponential blend? Low-pass on velocities? Industrial controllers (KUKA, FANUC, ABB) are super locked down, so is this only feasible in open setups like ROS or custom controls? Any tricks to fake it on proprietary ones? In real production, is the mushiness of DLS actually a big pain (e.g., path deviation stacking boxes wrong), or does damping usually do the job fine and I'm overcomplicating? Feels like a pragmatic dirty hack for certain apps, but could also be a mechanical nightmare if the blend sucks or you lock at the wrong time. Thoughts? "Don't do this" reasons? Would love to hear before I sim/prototype it. Thanks!
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +112,7 @@ I’ve just finished the soldering for the controller for my 6-axis robot. You m
 
 **[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
 
-Phys.org • 11h ago
+Phys.org • 12h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Robot Report • 1d ago
 
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
-Kraken Robotics • 7h ago
+Kraken Robotics • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 27 • ⏱️ 1:11 • 5h ago
+👁️ 1K • 👍 27 • ⏱️ 1:11 • 6h ago
 
 ---
 
@@ -216,7 +216,7 @@ Reset Sensors & Passive Middle Goal | 39Y Yolt | Robot Rundown Triple Crown winn
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 49 • 💬 2 • ⏱️ 1:26 • 4h ago
+👁️ 1K • 👍 49 • 💬 2 • ⏱️ 1:26 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation r
 
 📺 APT
 
-👁️ 2K • 👍 14 • 💬 2 • ⏱️ 5:34 • 20h ago
+👁️ 2K • 👍 14 • 💬 2 • ⏱️ 5:34 • 21h ago
 
 ---
 
@@ -276,7 +276,7 @@ New Anaksor robot is here! The New Update is here and the biggest thing is the N
 
 📺 PREDATOR WR
 
-👁️ 14K • 👍 638 • 💬 118 • ⏱️ 14:56 • 14h ago
+👁️ 14K • 👍 638 • 💬 118 • ⏱️ 14:56 • 15h ago
 
 ---
 

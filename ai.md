@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-04T05:29:42.992940+00:00'
+updated: '2026-03-04T06:06:28.158830+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 04, 2026 at 05:29 UTC  
+**Last Updated:** March 04, 2026 at 06:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Her
 
 Amateur artist Anne Rowlands lost all her commissions in the past year and says the rise of AI-generated "art" is to blame.
 
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 12h ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 13h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 1d ago
 
 **[Claude AI Helped Bomb Iran. But How Exactly?](https://www.bloomberg.com/opinion/articles/2026-03-04/iran-strikes-anthropic-claude-ai-helped-us-attack-but-how-exactly)**
 
-Bloomberg.com • 29m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg.com • 29m ago
 
 Dorsey cited AI advances when cutting 4,000 workers, but a weak crypto market and declining stock price may also be behind move
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Guardian • 13h ago
 
 Chinese startups rush to launch AI tools for overseas markets.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -163,13 +163,13 @@ CNBC • 1h ago
 
 The tensions inside the wire service reveal a broader conflict playing out across the media over how AI should be applied within journalism.
 
-Semafor • 1h ago
+Semafor • 2h ago
 
 ---
 
 **[Where are China’s A.I. Doomers?](https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html)**
 
-The New York Times • 29m ago
+The New York Times • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ The New York Times • 29m ago
 
 "The people that are most at risk are the ones that are sitting idly in the job and don't really have a why or a purpose for it,” the investor Bill Gurley warns.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ Fortune • 13h ago
 
 Cities like Columbus and Denver offer something uniquely American that the coasts do not.
 
-The Washington Post • 9h ago
+The Washington Post • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Washington Post • 9h ago
 
 A new study suggests AI systems could be a lot more efficient. Researchers were able to shrink an AI vision model to 1/1000th of its original size.
 
-NPR • 18h ago
+NPR • 19h ago
 
 ---
 
@@ -253,7 +253,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 384 • 💬 433 • 15h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 384 • 💬 433 • 16h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -307,7 +307,7 @@ Support Haven's Kickstarter - a privacy-first social platform designed to protec
 
 📺 Brianne Worth
 
-👁️ 4K • 👍 456 • 💬 133 • ⏱️ 26:30 • 7h ago
+👁️ 4K • 👍 456 • 💬 133 • ⏱️ 26:30 • 8h ago
 
 ---
 
@@ -357,7 +357,7 @@ I put ChatGPT, Gemini, Claude, Composer 1.5, and more models to a challenge to m
 
 📺 WeeklyHow
 
-👁️ 16K • 👍 1K • 💬 181 • ⏱️ 10:59 • 14h ago
+👁️ 16K • 👍 1K • 💬 181 • ⏱️ 10:59 • 15h ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,904 • ❤️ 482 • 6h ago
+⬇️ 569,904 • ❤️ 482 • 7h ago
 
 ---
 
@@ -646,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 21.8k • 🔱 2.9k • 1h ago
+⭐ 21.8k • 🔱 2.9k • 2h ago
 
 ---
 
@@ -666,7 +666,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.3k • 🔱 769 • 13h ago
+⭐ 6.3k • 🔱 769 • 14h ago
 
 ---
 
@@ -716,7 +716,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 361 • 1h ago
+⭐ 3.3k • 🔱 361 • 2h ago
 
 ---
 
@@ -726,7 +726,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 231 • 5h ago
+⭐ 3.2k • 🔱 231 • 6h ago
 
 ---
 

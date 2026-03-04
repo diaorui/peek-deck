@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T05:29:43.001483+00:00'
+updated: '2026-03-04T06:06:28.167295+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 05:29 UTC  
+**Last Updated:** March 04, 2026 at 06:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,7 +93,7 @@ Need to pay off some debt first with the cash I have but man…. At .7 btc that 
 
 **[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
 
-🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 16h ago
+🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 17h ago
 
 ---
 
@@ -109,13 +109,13 @@ The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $1
 
 4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
 
-15h ago
+16h ago
 
 ---
 
 **[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $1
 
 My first bitcoin purchase.
 
-9h ago
+10h ago
 
 ---
 
@@ -131,7 +131,7 @@ My first bitcoin purchase.
 
 How do I access (or just check on) my bitcoin using my seed phrase alone? I've downloaded several different wallet apps but had problems with all of them. The Bitcoin.com app gives me options to purchase and receive bitcoin, but I don't see any "import" or "seed phrase" options. Binance wouldn't let me do a thing without going through a very serious verification process involving scanning all kinds of sensitive documents. And Ledger wanted me to choose a completely separate device for... something I didn't understand. I know this is a dumb question and it's probably really obvious but right now I'm at a loss. Is there an app that will just let me put in my seed phrase??? (It's a tiny amount of money, so it won't be a big deal if I can't access it, but still I'd like to be able to if it's possible.) Thanks. UPDATE: Thanks for the replies. It seems it's quite a bit more complicated than I thought. I'm going to get a friend to help me in person. Thanks for the help and for the warnings about scammers. (And to would-be scammers: It's like 200 dollars. Don't waste you time!)
 
-2h ago
+3h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bitcoin FUD has been pumping nonstop. (New pieces every couple days in FT, NYT, 
 
 As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A quick google tells me that there are ~60 million millionaires in the world, of which ~24 million live in the states alone. That is a lot more millionaires than bitcoins and I bet you can guess where I'm going with this. If every (or even every third) millionaire wants to buy a single bitcoin, there will not be enough bitcoins for everyone, the price would squeeze through the roof. Why this doesn't happen? I believe a single bitcoin in fiat price is well within the liquidity of almost every millionaire, or at least with some reallocation. Enough actually rich rich people just don't care for crypto? Or is the defining limit of a millionaire so loose that most of the 60M people actually don't have the cash to buy a single bitcoin. These are the things I think in shower. Edit: typo fix
 
-23h ago
+1d ago
 
 ---
 
@@ -159,7 +159,7 @@ As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A qui
 
 The transfers drained the Villanueva-labeled wallet entirely, with the bitcoin routed across multiple addresses with no prior activity.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 12h ago
 
 Out of a fixed maximum supply of 21 million coins, more than 95% of all bitcoin that will ever exist is now in circulation
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 2h ago
 
 Both of these assets have staying power, but one needs to work a lot harder just to tread water.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1h ago
 
 The largest cryptocurrency briefly reclaimed the top of its range on Tuesday before sellers pushed it back to $67,000, while South Korean stocks posted their worst two-day drop since 2008.
 
-CoinDesk • 11m ago
+CoinDesk • 47m ago
 
 ---
 
@@ -205,13 +205,13 @@ Fox News • 1d ago
 
 **[Bitcoin Slides as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
 **[Iran Crypto Activity Spikes. Miners Tumble On Bitcoin Sale Plans.](https://www.investors.com/news/bitcoin-miners-sell-holdings-mara-core-scientific-iran-cryptocurrency-outflows/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 174 • ⏱️ 15:07 • 6h ago
+👁️ 13K • 👍 1K • 💬 174 • ⏱️ 15:07 • 7h ago
 
 ---
 
@@ -335,7 +335,7 @@ I published the case for $11 million bitcoin by 2036. Read the full letter here:
 
 📺 Joe Burnett
 
-👁️ 2K • 👍 151 • 💬 41 • ⏱️ 15:22 • 15h ago
+👁️ 2K • 👍 151 • 💬 41 • ⏱️ 15:22 • 16h ago
 
 ---
 
@@ -345,7 +345,7 @@ Nick Valdez weighs all the takes from the so-called commodity experts. One thing
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 141 • 💬 22 • ⏱️ 9:10 • 6h ago
+👁️ 3K • 👍 141 • 💬 22 • ⏱️ 9:10 • 7h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin has been in a bear market for several months. Let's talk about the bear 
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 3K • 💬 128 • ⏱️ 19:12 • 14h ago
+👁️ 45K • 👍 3K • 💬 128 • ⏱️ 19:12 • 15h ago
 
 ---
 
@@ -365,7 +365,7 @@ Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum 
 
 📺 Schwab Network
 
-👁️ 2K • 👍 25 • 💬 3 • ⏱️ 8:40 • 9h ago
+👁️ 2K • 👍 25 • 💬 3 • ⏱️ 8:40 • 10h ago
 
 ---
 
@@ -375,7 +375,7 @@ Fidelity and VanEck both just released their outlook and Bitcoin Prediction for 
 
 📺 VirtualBacon
 
-👁️ 12K • 👍 555 • 💬 118 • ⏱️ 48:47 • 8h ago
+👁️ 12K • 👍 555 • 💬 118 • ⏱️ 48:47 • 9h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bombs are falling in the Middle East. Gold just lost over $1 trillion in minutes
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 1K • 💬 79 • ⏱️ 18:46 • 6h ago
+👁️ 15K • 👍 1K • 💬 79 • ⏱️ 18:46 • 7h ago
 
 ---
 
@@ -395,7 +395,7 @@ BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 4K • 👍 204 • 💬 130 • ⏱️ 16:36 • 7h ago
+👁️ 4K • 👍 204 • 💬 130 • ⏱️ 16:36 • 8h ago
 
 ---
 
