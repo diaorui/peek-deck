@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T07:57:56.619780+00:00'
+updated: '2026-03-04T08:52:35.654577+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 07:57 UTC  
+**Last Updated:** March 04, 2026 at 08:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
-19h ago
+20h ago
+
+---
+
+**[Update on Astrix my humanoid robot](https://www.reddit.com/r/robotics/comments/1rkfgqs/update_on_astrix_my_humanoid_robot/)**
+
+I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
+
+1h ago
 
 ---
 
@@ -44,7 +52,15 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t shipped yet. He argues that while many look impressive in demonstrations, but shipping real systems requires a level of reliability that is difficult to achieve. Walking, balance, manipulation, perception, and safety all have to work together in real environments, not controlled labs. Until those systems can operate reliably, consistently, and at a reasonable cost, most humanoid robots will remain in the prototype or demonstration stage rather than large-scale deployment.
 
-11h ago
+12h ago
+
+---
+
+**[Just sharing a UWB DSTO indoor tracking demo (0.1m precision, peer-to-peer mesh)](https://www.reddit.com/r/robotics/comments/1rkdt28/just_sharing_a_uwb_dsto_indoor_tracking_demo_01m/)**
+
+Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-way Observation) indoor positioning setup and thought it was worth sharing. There plenty of in-house positioning tech include Wifi/BLE/IMU/Lidar/RFID. Of all the tech, the UWB is a competitive solution with high precision/lower power consumption and save, much stable than Wifi/BLE Tech Advantages Disadvantage Wifi Cheap LowResolution(3~10m) BLE Low Power LowResolution(2~5m) IMU Without any wireless signal Drift in field application RFID Chip Only Yes/No judgement LiDar High precision High-Cost UWB High precision（0.1m） High installation Requests UWB can be used in AGV/in house mobile tracking. The UWB DSTO((Distributed Synchronization and Two-way Observation) system is based on UWB tech, different with common UWB system that composed with anchors/tags, the DSTO system is composed of multiple nodes, every node in the system can report its distance between itself with all the other nodes( also called peer-to-peer mesh), suitable for application such as anti-collision. For example in an in-house forklift system, all the forklift are auto or manually controlled, to avoid them collision to each other , this UWB DSTO could be a solution, every forklift get its distance with other forklift with frequency 20Hz, so they can be urgently stopped when they reach the safe distance limit. A simple demo of this tech at: https://youtu.be/iGKn3G82pY0 If anyone is working on similar projects or product development, feel free to discuss in the comments section ： ）
+
+2h ago
 
 ---
 
@@ -54,19 +70,11 @@ Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t 
 
 ---
 
-**[Just sharing a UWB DSTO indoor tracking demo (0.1m precision, peer-to-peer mesh)](https://www.reddit.com/r/robotics/comments/1rkdt28/just_sharing_a_uwb_dsto_indoor_tracking_demo_01m/)**
-
-Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-way Observation) indoor positioning setup and thought it was worth sharing. There plenty of in-house positioning tech include Wifi/BLE/IMU/Lidar/RFID. Of all the tech, the UWB is a competitive solution with high precision/lower power consumption and save, much stable than Wifi/BLE Tech Advantages Disadvantage Wifi Cheap LowResolution(3~10m) BLE Low Power LowResolution(2~5m) IMU Without any wireless signal Drift in field application RFID Chip Only Yes/No judgement LiDar High precision High-Cost UWB High precision（0.1m） High installation Requests UWB can be used in AGV/in house mobile tracking. The UWB DSTO((Distributed Synchronization and Two-way Observation) system is based on UWB tech, different with common UWB system that composed with anchors/tags, the DSTO system is composed of multiple nodes, every node in the system can report its distance between itself with all the other nodes( also called peer-to-peer mesh), suitable for application such as anti-collision. For example in an in-house forklift system, all the forklift are auto or manually controlled, to avoid them collision to each other , this UWB DSTO could be a solution, every forklift get its distance with other forklift with frequency 20Hz, so they can be urgently stopped when they reach the safe distance limit. A simple demo of this tech at: https://youtu.be/iGKn3G82pY0 If anyone is working on similar projects or product development, feel free to discuss in the comments section ： ）
-
-1h ago
-
----
-
 **[any robotics engineers that could answer a question for me?](https://www.reddit.com/r/robotics/comments/1rkcye6/any_robotics_engineers_that_could_answer_a/)**
 
 If you are from arizona and you are a robotics engineer dm me, i have an idea for an invention im disabled and its a piece of tech that would help tons of disabled people around the world basically a new type of wheelchair pls dm if interested
 
-2h ago
+3h ago
 
 ---
 
@@ -74,7 +82,7 @@ If you are from arizona and you are a robotics engineer dm me, i have an idea fo
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_realsense.html
 
-16h ago
+17h ago
 
 ---
 
@@ -86,7 +94,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_r
 
 **[Docker pulls more than it needs to](https://www.reddit.com/r/robotics/comments/1rka9xy/docker_pulls_more_than_it_needs_to/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -94,15 +102,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_r
 
 Releasing HDDS -- a complete DDS (Data Distribution Service) implementation built from scratch in Rust. For the robotics crowd, the relevant demos: - **Robot Swarm** -- 12 boids with 6 behavior modes (flocking, formation, patrol...), fully decentralized via DDS pub/sub - **LiDAR SLAM** -- autonomous maze mapping with occupancy grid, frontier exploration, all sensor data over DDS - **Drone Racing** -- 6 AI drones navigating gates independently, 60Hz position updates, zero central controller - **F1Tenth Racing** -- bicycle model physics, AI waypoint following with Menger curvature braking DDS is the standard middleware in military robotics and autonomous systems. HDDS is a fully open-source alternative to RTI Connext. Also includes a ROS2 RMW layer (rmw_hdds) if you want to plug it into your existing ROS2 stack. - Source: github.com/hdds-team - Demos: packs.hdds.io
 
-16h ago
-
----
-
-**[Singularity avoidance hack: Instead of damping, temporarily lock a joint in wrist singularity for palletizing/pick&place? Anyone tried this?](https://www.reddit.com/r/robotics/comments/1rjpfaf/singularity_avoidance_hack_instead_of_damping/)**
-
-I've been messing with singularity handling in 6 DoF industrial arms, especially for fast palletizing and long-reach pick-and-place. Damped Least Squares (DLS/SDLS) is the go-to, but near wrist singularities it often gets too "mushy" tracking slows down unpredictably, velocities scale weirdly, and in high-speed cycles that can mess up cycle time or stack accuracy. My idea is that instead of damping the whole Jacobian, when det(J) drops below a threshold (say ~0.01–0.05, tunable), hard-lock the problematic joint (usually J5 in typical roll-pitch-roll wrists). Treat the arm as 5 DoF temporarily: Update DH params on the fly (locked joint becomes fixed link). Recompute IK with reduced 6×5 Jacobian. Prioritize task-space: keep XYZ + pitch/yaw solid, sacrifice roll if needed (most palletizing doesn't care about full orientation anyway). Then, when manipulability improves, blend the joint back in smoothly to avoid jerk. Why bother over SDLS? Predictable: you know exactly what you're losing (e.g., "loses roll near vertical stacks"). No infinite velocity risk since you just remove the DoF instead of damping it softly. Cheaper compute: lower-order IK is faster than SVD every cycle. But i have some questions that demand some practical experience with this kind of problem/ideia: Has anyone done on-the-fly kinematic chain changes / joint locking like this? How do you smooth the lock/unlock transition to kill jerk? Exponential blend? Low-pass on velocities? Industrial controllers (KUKA, FANUC, ABB) are super locked down, so is this only feasible in open setups like ROS or custom controls? Any tricks to fake it on proprietary ones? In real production, is the mushiness of DLS actually a big pain (e.g., path deviation stacking boxes wrong), or does damping usually do the job fine and I'm overcomplicating? Feels like a pragmatic dirty hack for certain apps, but could also be a mechanical nightmare if the blend sucks or you lock at the wrong time. Thoughts? "Don't do this" reasons? Would love to hear before I sim/prototype it. Thanks!
-
-18h ago
+17h ago
 
 ---
 
@@ -110,11 +110,9 @@ I've been messing with singularity handling in 6 DoF industrial arms, especially
 
 ## Google News: "robotics"
 
-**[China Could Dominate the Physical AI Future](https://time.com/7382151/china-dominates-the-physical-ai-race/)**
+**[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
 
-Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
-
-Time Magazine • 20h ago
+Phys.org • 15h ago
 
 ---
 
@@ -126,9 +124,11 @@ CNBC • 1d ago
 
 ---
 
-**[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
+**[China Could Dominate the Physical AI Future](https://time.com/7382151/china-dominates-the-physical-ai-race/)**
 
-Phys.org • 14h ago
+Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
+
+Time Magazine • 21h ago
 
 ---
 
@@ -136,7 +136,7 @@ Phys.org • 14h ago
 
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
-Kraken Robotics • 9h ago
+Kraken Robotics • 10h ago
 
 ---
 
@@ -152,15 +152,15 @@ Supply Chain Dive • 1d ago
 
 Key PointsTesla is spending $20 billion on capital expenditures this year, more than double what it spent a year ago.
 
-Nasdaq • 16h ago
+Nasdaq • 17h ago
 
 ---
 
-**[Richtech Robotics (RR) Valuation Check After Recent Share Price Volatility](https://finance.yahoo.com/news/richtech-robotics-rr-valuation-check-191352823.html)**
+**[After losing $6 billion, Ginkgo Bioworks pivots to selling lab robots with AI](https://www.bostonglobe.com/2026/03/03/business/ginkgo-bioworks-pivot-ai-robots/)**
 
-Richtech Robotics stock overview Richtech Robotics (RR) has been drawing attention after a period of sharp share price swings, with the stock down about 30% over the past month and past 3 months, yet showing a positive 1 year total return. See our latest analysis for Richtech Robotics. At a latest share price of $2.49, Richtech Robotics has seen short term pressure, with a 1 day share price return showing a 9.1% decline and a 30 day share price return showing a 30.5% decline. The 1 year total...
+The once high-flying Boston company is spinning off its biosecurity unit and closing its non-automated labs.
 
-Yahoo Finance • 1d ago
+The Boston Globe • 15h ago
 
 ---
 
@@ -172,19 +172,19 @@ Scientific American • 1d ago
 
 ---
 
-**[After losing $6 billion, Ginkgo Bioworks pivots to selling lab robots with AI](https://www.bostonglobe.com/2026/03/03/business/ginkgo-bioworks-pivot-ai-robots/)**
-
-The once high-flying Boston company is spinning off its biosecurity unit and closing its non-automated labs.
-
-The Boston Globe • 9h ago
-
----
-
 **[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
 
 The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
 
 Pittsburgh Post-Gazette • 2d ago
+
+---
+
+**[Richtech Robotics (RR) Valuation Check After Recent Share Price Volatility](https://finance.yahoo.com/news/richtech-robotics-rr-valuation-check-191352823.html)**
+
+Richtech Robotics stock overview Richtech Robotics (RR) has been drawing attention after a period of sharp share price swings, with the stock down about 30% over the past month and past 3 months, yet showing a positive 1 year total return. See our latest analysis for Richtech Robotics. At a latest share price of $2.49, Richtech Robotics has seen short term pressure, with a 1 day share price return showing a 9.1% decline and a 30 day share price return showing a 30.5% decline. The 1 year total...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 InsideAI
 
-👁️ 116K • 👍 9K • 💬 1K • ⏱️ 16:54 • 13h ago
+👁️ 116K • 👍 9K • 💬 1K • ⏱️ 16:54 • 14h ago
 
 ---
 
@@ -208,7 +208,7 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 42 • ⏱️ 1:11 • 8h ago
+👁️ 2K • 👍 42 • ⏱️ 1:11 • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ Reset Sensors & Passive Middle Goal | 39Y Yolt | Robot Rundown Triple Crown winn
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 59 • 💬 4 • ⏱️ 1:26 • 7h ago
+👁️ 2K • 👍 59 • 💬 4 • ⏱️ 1:26 • 8h ago
 
 ---
 
@@ -286,7 +286,7 @@ Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation r
 
 📺 APT
 
-👁️ 2K • 👍 15 • 💬 2 • ⏱️ 5:34 • 23h ago
+👁️ 2K • 👍 15 • 💬 2 • ⏱️ 5:34 • 1d ago
 
 ---
 

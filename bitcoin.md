@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T07:57:56.610352+00:00'
+updated: '2026-03-04T08:52:35.645103+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 07:57 UTC  
+**Last Updated:** March 04, 2026 at 08:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,883.02
+### $70,650.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +1.5%  
-**30d:** -9.6%  
-**90d:** -23.1%  
-**1y:** -24.2%  
+**24h:** +5.9%  
+**7d:** +4.6%  
+**30d:** -6.8%  
+**90d:** -20.8%  
+**1y:** -21.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,7 +87,23 @@ Rank #1
 
 Need to pay off some debt first with the cash I have but man…. At .7 btc that wholecoiner status is looking at me like Roger rabbits wife
 
-7h ago
+8h ago
+
+---
+
+**[The Bitcoin network is reaching the 20,000,000 coins milestone within one week. Mining the final million coins will take over 100 years.](https://www.reddit.com/r/Bitcoin/comments/1rkenpi/the_bitcoin_network_is_reaching_the_20000000/)**
+
+If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
+
+1h ago
+
+---
+
+**[Been dca ever since!](https://www.reddit.com/r/Bitcoin/comments/1rjznka/been_dca_ever_since/)**
+
+My first bitcoin purchase.
+
+12h ago
 
 ---
 
@@ -101,37 +117,7 @@ Need to pay off some debt first with the cash I have but man…. At .7 btc that 
 
 The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $126K ATH from October 2025. Sounds brutal — but the structural signals underneath are shifting fast. A few things worth watching right now: Spot BTC ETF outflows slowed from $1.6B to $206M in February, then flipped to $787M in net inflows in the final week alone SEC Chair Paul Atkins just signaled a push toward a more innovation-friendly regulatory framework as of March 1 The U.S. Strategic Bitcoin Reserve is now acting as a structural price floor 200-day MA still trending up, 50-day SMA providing active daily support The last time we saw fear this extreme with institutional flows quietly reversing direction was... well, you know how that played out. Not financial advice — just tracking the data. Curious what the rest of you are seeing in the on-chain and ETF flow data right now. Source & full analysis: https://www.cryptobull.org/hot-coins/hot-coins-2026
 
-11h ago
-
----
-
-**[Been dca ever since!](https://www.reddit.com/r/Bitcoin/comments/1rjznka/been_dca_ever_since/)**
-
-My first bitcoin purchase.
-
 12h ago
-
----
-
-**[Sold my Honda Civic and bought more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjpm3w/sold_my_honda_civic_and_bought_more_bitcoin/)**
-
-4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
-
-18h ago
-
----
-
-**[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
-
-16h ago
-
----
-
-**[How to Use a Seed Phrase (newbie question)](https://www.reddit.com/r/Bitcoin/comments/1rk9shk/how_to_use_a_seed_phrase_newbie_question/)**
-
-How do I access (or just check on) my bitcoin using my seed phrase alone? I've downloaded several different wallet apps but had problems with all of them. The Bitcoin.com app gives me options to purchase and receive bitcoin, but I don't see any "import" or "seed phrase" options. Binance wouldn't let me do a thing without going through a very serious verification process involving scanning all kinds of sensitive documents. And Ledger wanted me to choose a completely separate device for... something I didn't understand. I know this is a dumb question and it's probably really obvious but right now I'm at a loss. Is there an app that will just let me put in my seed phrase??? (It's a tiny amount of money, so it won't be a big deal if I can't access it, but still I'd like to be able to if it's possible.) Thanks. UPDATE: Thanks for the replies. It seems it's quite a bit more complicated than I thought. I'm going to get a friend to help me in person. Thanks for the help and for the warnings about scammers. (And to would-be scammers: It's like 200 dollars. Don't waste you time!)
-
-5h ago
 
 ---
 
@@ -139,7 +125,15 @@ How do I access (or just check on) my bitcoin using my seed phrase alone? I've d
 
 Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
-3h ago
+4h ago
+
+---
+
+**[Sold my Honda Civic and bought more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjpm3w/sold_my_honda_civic_and_bought_more_bitcoin/)**
+
+4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
+
+19h ago
 
 ---
 
@@ -151,55 +145,29 @@ curious what everyone is doing EDIT: I DCA bi weekly, but i have about 10k in ca
 
 ---
 
+**[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
+
+17h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
+
+**[The Core Issue: Why Bitcoin Needed A Remodel With Segwit And Taproot](https://bitcoinmagazine.com/print/the-core-issue-why-bitcoin-needed-a-remodel-with-segwit-and-taproot)**
+
+From The Core Issue: A look back at Segregated Witness and Taproot, Bitcoin's two largest upgrades, and why they were designed the way they were.
+
+Bitcoin Magazine • 14h ago
+
+---
 
 **[BTC News: More than 95% of all bitcoin has already been mined, rest will take more than a century](https://www.coindesk.com/markets/2026/01/23/bitcoin-supply-approaching-20-million-the-final-million-will-take-another-114-years-to-mine)**
 
 Out of a fixed maximum supply of 21 million coins, more than 95% of all bitcoin that will ever exist is now in circulation
 
-CoinDesk • 23h ago
-
----
-
-**[Bitcoin is making a bottom, says VanEck Funds' Jan van Eck](https://www.cnbc.com/video/2026/03/02/bitcoin-is-making-a-bottom-says-vaneck-funds-jan-van-eck.html)**
-
-CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
-
-CNBC • 1d ago
-
----
-
-**[Texas’ $10M bitcoin investment slips into the red amid crypto price dive](https://www.dallasnews.com/business/2026/03/02/texas-10m-bitcoin-investment-slips-into-the-red-amid-crypto-price-dive/)**
-
-As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
-
-Dallas News • 1d ago
-
----
-
-**[Better Cryptocurrency to Buy Today With $3,000 and Hold for 7 Years: XRP vs. Bitcoin](https://finance.yahoo.com/news/better-cryptocurrency-buy-today-3-033500393.html)**
-
-Both of these assets have staying power, but one needs to work a lot harder just to tread water.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Better Buy in 2026: Bitcoin or Silver? The Answer Couldn't Be Clearer for Long-Term Investors.](https://www.fool.com/investing/2026/03/02/better-buy-in-2026-bitcoin-or-silver-the-answer-co/)**
-
-Production and supply dynamics tell the whole story here.
-
-The Motley Fool • 1d ago
-
----
-
-**[BTC, ETH, SOL, XRP price news: Why is bitcoin down today](https://www.coindesk.com/markets/2026/03/04/bitcoin-holds-ether-solana-slide-as-mideast-woes-drag-asian-equities-to-multi-year-lows)**
-
-The largest cryptocurrency briefly reclaimed the top of its range on Tuesday before sellers pushed it back to $67,000, while South Korean stocks posted their worst two-day drop since 2008.
-
-CoinDesk • 2h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -207,7 +175,47 @@ CoinDesk • 2h ago
 
 Bitfinex analyst argue that ETF inflows can be misread as immediate spot demand.
 
+CoinDesk • 2h ago
+
+---
+
+**[BTC, ETH, SOL, XRP price news: Why is bitcoin down today](https://www.coindesk.com/markets/2026/03/04/bitcoin-holds-ether-solana-slide-as-mideast-woes-drag-asian-equities-to-multi-year-lows)**
+
+The largest cryptocurrency briefly reclaimed the top of its range on Tuesday before sellers pushed it back to $67,000, while South Korean stocks posted their worst two-day drop since 2008.
+
+CoinDesk • 3h ago
+
+---
+
+**[Ray Dalio says 'there is only one gold' as bitcoin outperforms gold during worst geopolitical crisis in years](https://www.coindesk.com/markets/2026/03/04/ray-dalio-says-there-is-only-one-gold-as-bitcoin-outperforms-gold-during-the-worst-week-of-geopolitical-crisis-in-years)**
+
+The Bridgewater founder dismissed bitcoin's safe-haven credentials on the same day gold dropped 3% while bitcoin fell less than 1%.
+
 CoinDesk • 1h ago
+
+---
+
+**[Better Cryptocurrency to Buy Today With $3,000 and Hold for 7 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-today-3000-and-hold-7-years-xrp-vs-bitcoin)**
+
+Key PointsBitcoin is a store of value, but it's facing a huge risk in the next 10 years or so.
+
+Nasdaq • 5h ago
+
+---
+
+**[Better Cryptocurrency to Buy Now With $1,000 And Hold For 3 Years: XRP vs. Bitcoin](https://www.fool.com/investing/2026/03/01/better-cryptocurrency-to-buy-now-with-1000-and-hol/)**
+
+The landscape is shifting rapidly, and these two coins are adapting differently.
+
+The Motley Fool • 3d ago
+
+---
+
+**[Better Cryptocurrency to Buy Now With $1,000 And Hold For 3 Years: XRP vs. Bitcoin](https://finance.yahoo.com/news/better-cryptocurrency-buy-now-1-062000584.html)**
+
+The landscape is shifting rapidly, and these two coins are adapting differently.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -219,17 +227,11 @@ Fox News • 1d ago
 
 ---
 
-**[Bitcoin Slides as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
+**[Cathie Wood Lowers Her 2030 Bitcoin Target From $1.5 Million, But Her Belief Remains Steadfast:'Our Conviction Has Gone Up…'](https://finance.yahoo.com/news/cathie-wood-lowers-her-2030-183057314.html)**
 
-Bloomberg • 9h ago
+Ark Invest founder Cathie Wood said on Thursday that the firm’s conviction in Bitcoin’s potential has strengthened despite the ongoing drawdown, but lowered the 2030 target from $1.5 million. Stablecoin Adoption Impacting Wood’s Bull Case During an interview with Morningstar...
 
----
-
-**[Former LAPD Officer Convicted In $350,000 Bitcoin Kidnapping And Home Invasion](https://bitcoinmagazine.com/news/former-lapd-officer-convicted-in-350000-bitcoin-kidnapping-and-home-invasion)**
-
-A jury in Los Angeles convicted former Los Angeles Police Department officer Eric Halem of kidnapping and robbery after he and three alleged accomplices posed as police to steal $350,000 in bitcoin from a 17-year-old during a 2024 home invasion.
-
-Bitcoin Magazine • 10h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -317,7 +319,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 101 • ⏱️ 15:07 • 9h ago
+👁️ 18K • 👍 1K • 💬 101 • ⏱️ 15:07 • 10h ago
 
 ---
 
@@ -327,7 +329,7 @@ I published the case for $11 million bitcoin by 2036. Read the full letter here:
 
 📺 Joe Burnett
 
-👁️ 2K • 👍 151 • 💬 19 • ⏱️ 15:22 • 17h ago
+👁️ 2K • 👍 151 • 💬 19 • ⏱️ 15:22 • 18h ago
 
 ---
 
@@ -347,7 +349,7 @@ Bombs are falling in the Middle East. Gold just lost over $1 trillion in minutes
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 80 • ⏱️ 18:46 • 9h ago
+👁️ 23K • 👍 1K • 💬 80 • ⏱️ 18:46 • 10h ago
 
 ---
 
@@ -357,7 +359,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 208 • 💬 20 • ⏱️ 4:27 • 9h ago
+👁️ 3K • 👍 208 • 💬 20 • ⏱️ 4:27 • 10h ago
 
 ---
 
@@ -367,7 +369,7 @@ Bitcoin has been in a bear market for several months. Let's talk about the bear 
 
 📺 Benjamin Cowen
 
-👁️ 48K • 👍 3K • 💬 136 • ⏱️ 19:12 • 16h ago
+👁️ 48K • 👍 3K • 💬 136 • ⏱️ 19:12 • 17h ago
 
 ---
 
@@ -377,7 +379,7 @@ Nick Valdez weighs all the takes from the so-called commodity experts. One thing
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 172 • 💬 18 • ⏱️ 9:10 • 8h ago
+👁️ 3K • 👍 172 • 💬 18 • ⏱️ 9:10 • 9h ago
 
 ---
 
@@ -397,7 +399,7 @@ Bitunix - 50k Prize Pool + 15% off Trading Fees Register here: https://www.bitun
 
 📺 CryptoCache
 
-👁️ 2K • 👍 150 • 💬 20 • ⏱️ 15:09 • 15h ago
+👁️ 2K • 👍 150 • 💬 20 • ⏱️ 15:09 • 16h ago
 
 ---
 

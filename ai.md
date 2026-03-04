@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-04T07:57:56.601469+00:00'
+updated: '2026-03-04T08:52:35.636396+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 04, 2026 at 07:57 UTC  
+**Last Updated:** March 04, 2026 at 08:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,15 @@ Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, ju
 
 Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 13h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 14h ago
+
+---
+
+**[What is your stack to maintain Knowledge base for your AI workflows?](https://www.reddit.com/r/artificial/comments/1rkewgl/what_is_your_stack_to_maintain_knowledge_base_for/)**
+
+I was wondering what to use to streamline all my md files from my claude code plans and the technical docs I create. How will it work in team settings?
+
+1h ago
 
 ---
 
@@ -65,7 +73,7 @@ ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Depar
 
 Crunchbase data shows global venture investment totaled $189 billion in February, although 83% of capital raised went to just three companies. They include OpenAI, which raised $110 billion, also in the largest round ever raised by a private, venture-backed company.
 
-🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 16h ago
+🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 17h ago
 
 ---
 
@@ -89,15 +97,7 @@ A middle-to-upper-income career path in the age of white collar AI anxiety.
 
 Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Here’s why that matters.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) • 21h ago
-
----
-
-**[Why you should think twice before jumping on the AI caricature trend](https://www.reddit.com/r/artificial/comments/1rjudk7/why_you_should_think_twice_before_jumping_on_the/)**
-
-Amateur artist Anne Rowlands lost all her commissions in the past year and says the rise of AI-generated "art" is to blame.
-
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 15h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) • 22h ago
 
 ---
 
@@ -109,11 +109,11 @@ Hey everyone, I've been a Trae IDE user for over a year now, relying on it for c
 
 ---
 
-**[Scientists made AI agents ruder — and they performed better at complex reasoning tasks](https://www.reddit.com/r/artificial/comments/1rij131/scientists_made_ai_agents_ruder_and_they/)**
+**[Why you should think twice before jumping on the AI caricature trend](https://www.reddit.com/r/artificial/comments/1rjudk7/why_you_should_think_twice_before_jumping_on_the/)**
 
-Are we better off with ai with or without the pleasantries?
+Amateur artist Anne Rowlands lost all her commissions in the past year and says the rise of AI-generated "art" is to blame.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 2d ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 16h ago
 
 ---
 
@@ -123,7 +123,21 @@ Are we better off with ai with or without the pleasantries?
 
 **[Defense contractors, like Lockheed, seen removing Anthropic's AI after Trump ban](https://www.reuters.com/sustainability/society-equity/defense-contractors-like-lockheed-seen-removing-anthropics-ai-after-trump-ban-2026-03-04/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
+
+---
+
+**[Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/)**
+
+Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.
+
+blog.google • 16h ago
+
+---
+
+**[Where are China’s A.I. Doomers?](https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html)**
+
+The New York Times • 3h ago
 
 ---
 
@@ -131,35 +145,45 @@ Reuters • 7h ago
 
 Dorsey cited AI advances when cutting 4,000 workers, but a weak crypto market and declining stock price may also be behind move
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
-**[Broadcom Could Benefit From AI. Nvidia’s Post-Earnings Stock Drop Could Be a Bad Omen.](https://www.barrons.com/articles/broadcom-earnings-stock-price-0e2efe3e?gaa_at=eafs&gaa_n=AWEtsqcMzSkbwqO2px42MyuwSkDa9TpixCQ257zkNlDMu9O4md0A6LkBG2lC&gaa_ts=69a7deae&gaa_sig=3-FrctXO4cAgy72-D7RllV3mvQ1_JnqvkZUmgdVsAFcAkJG3zc7OBL02x-EIV_KYYW5V9ZIVCR8MyG9SrLhL1g%3D%3D)**
+**[CNBC's China Connection newsletter: New AI players think global from day one](https://www.cnbc.com/2026/03/04/cnbc-china-connection-newsletter-ai-startups-global-expansion-nvidia-warning-tripo-isales.html)**
 
-Barron's • 1h ago
+Chinese startups rush to launch AI tools for overseas markets.
 
----
-
-**[The highs and lows of AI in the tattoo industry](https://www.bbc.com/news/articles/cd034dzk4p0o)**
-
-Weymouth tattoo parlour owner says AI can save time but it can also make the job harder.
-
-BBC • 1h ago
+CNBC • 4h ago
 
 ---
 
-**[Guernésiais AI translations 'could be wrong'](https://www.bbc.com/news/articles/cy8ly211pn3o)**
+**[Opinion | An economic transformation is coming to America’s heartland](https://www.washingtonpost.com/opinions/2026/03/03/ai-midwest-economy-data-technology/)**
 
-A Guernsey native language expert shares concerns if artificial intelligence translates reliably.
+Cities like Columbus and Denver offer something uniquely American that the coasts do not.
 
-BBC • 1h ago
+The Washington Post • 12h ago
 
 ---
 
-**[Where are China’s A.I. Doomers?](https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html)**
+**[Global Funds Unwind Hottest AI Trades as Inflation Fears Mount](https://www.bloomberg.com/news/articles/2026-03-04/global-funds-unwind-hottest-ai-trades-as-oil-supply-fears-mount)**
 
-The New York Times • 2h ago
+Bloomberg • 2h ago
+
+---
+
+**[Goldman finds no relationship between AI and productivity but a 30% boost for 2 specific use cases](https://fortune.com/2026/03/03/goldman-earnings-ai-anxiety-no-meaningful-impact-productivity-economy-30-percent-in-2-areas/)**
+
+Have you got “AI-nxiety?” Goldman took a closer look at the last earnings season and found a mismatch between hype and reality.
+
+Fortune • 18h ago
+
+---
+
+**[Scientists make a pocket-sized AI brain with help from monkey neurons](https://www.npr.org/2026/03/03/nx-s1-5729433/ai-brain-monkey-neurons)**
+
+A new study suggests AI systems could be a lot more efficient. Researchers were able to shrink an AI vision model to 1/1000th of its original size.
+
+NPR • 21h ago
 
 ---
 
@@ -167,29 +191,7 @@ The New York Times • 2h ago
 
 Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
 
-Time Magazine • 20h ago
-
----
-
-**[China’s tech leaders urge faster AI, humanoid robot adoption in ‘two sessions’ proposals](https://www.scmp.com/tech/policy/article/3345372/chinas-tech-leaders-urge-faster-ai-humanoid-robot-adoption-two-sessions-proposals)**
-
-Tech leaders advocate for rapid AI and robotics growth, calling for policy support to boost industrial use and computing infrastructure.
-
-South China Morning Post • 1h ago
-
----
-
-**[Global Funds Unwind Hottest AI Trades as Oil Supply Fears Mount](https://www.bloomberg.com/news/articles/2026-03-04/global-funds-unwind-hottest-ai-trades-as-oil-supply-fears-mount)**
-
-Bloomberg • 1h ago
-
----
-
-**[CrowdStrike makes its case on AI with an excellent quarter — here's where we stand](https://www.cnbc.com/2026/03/03/crowdstrike-makes-case-on-ai-with-an-excellent-quarter-where-we-stand.html)**
-
-Founder and CEO George Kurtz made a compelling argument that we agree with, so why can't the rest of the market get behind him?
-
-CNBC • 7h ago
+Time Magazine • 21h ago
 
 ---
 
@@ -201,7 +203,7 @@ CNBC • 7h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1377 • 💬 779 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1380 • 💬 783 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -217,7 +219,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 578 • 💬 360 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 581 • 💬 361 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -249,7 +251,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 389 • 💬 442 • 17h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 392 • 💬 449 • 18h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -257,13 +259,15 @@ Apple today announced the new MacBook Air with M5, bringing exceptional performa
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-⬆️ 347 • 💬 180 • 19h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
+⬆️ 350 • 💬 179 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
-**[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
+**[When AI writes the software, who verifies it?](https://news.ycombinator.com/item?id=47234917)**
 
-⬆️ 257 • 💬 60 • 3d ago • [modernaicourse.org](https://modernaicourse.org)
+Leonardo de Moura — Creator of Lean and Z3
+
+⬆️ 219 • 💬 221 • 16h ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 
 ---
 
@@ -283,7 +287,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 InsideAI
 
-👁️ 116K • 👍 9K • 💬 1K • ⏱️ 16:54 • 13h ago
+👁️ 116K • 👍 9K • 💬 1K • ⏱️ 16:54 • 14h ago
 
 ---
 
@@ -323,7 +327,7 @@ Support Haven's Kickstarter - a privacy-first social platform designed to protec
 
 📺 Brianne Worth
 
-👁️ 5K • 👍 562 • 💬 160 • ⏱️ 26:30 • 10h ago
+👁️ 5K • 👍 562 • 💬 160 • ⏱️ 26:30 • 11h ago
 
 ---
 
@@ -343,7 +347,7 @@ I put ChatGPT, Gemini, Claude, Composer 1.5, and more models to a challenge to m
 
 📺 WeeklyHow
 
-👁️ 18K • 👍 1K • 💬 192 • ⏱️ 10:59 • 16h ago
+👁️ 18K • 👍 1K • 💬 192 • ⏱️ 10:59 • 17h ago
 
 ---
 
@@ -363,7 +367,7 @@ Check out Airia for all your enterprise AI needs ...
 
 📺 Marina Wyss - AI & Machine Learning
 
-👁️ 5K • 👍 267 • 💬 14 • ⏱️ 8:04 • 16h ago
+👁️ 5K • 👍 267 • 💬 14 • ⏱️ 8:04 • 17h ago
 
 ---
 
@@ -642,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 21.9k • 🔱 2.9k • 2h ago
+⭐ 21.9k • 🔱 2.9k • 3h ago
 
 ---
 
@@ -652,7 +656,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 7.6k • 🔱 776 • 52m ago
+⭐ 7.6k • 🔱 776 • 1h ago
 
 ---
 
@@ -662,7 +666,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.3k • 🔱 770 • 16h ago
+⭐ 6.3k • 🔱 770 • 17h ago
 
 ---
 
@@ -672,7 +676,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.2k • 🔱 586 • 5h ago
+⭐ 5.2k • 🔱 586 • 6h ago
 
 ---
 
@@ -682,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 4.6k • 🔱 352 • 1h ago
+⭐ 4.6k • 🔱 352 • 2h ago
 
 ---
 
@@ -692,7 +696,7 @@ The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 4.0k • 🔱 371 • 1h ago
+⭐ 4.0k • 🔱 371 • 2h ago
 
 ---
 
@@ -722,7 +726,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 231 • 8h ago
+⭐ 3.2k • 🔱 231 • 9h ago
 
 ---
 
