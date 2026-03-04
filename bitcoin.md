@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T11:31:30.413045+00:00'
+updated: '2026-03-04T12:59:27.183336+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 11:31 UTC  
+**Last Updated:** March 04, 2026 at 12:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,544.03
+### $71,031.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +6.5%  
-**7d:** +5.8%  
-**30d:** -5.7%  
+**24h:** +6.8%  
+**7d:** +5.7%  
+**30d:** -5.8%  
 **90d:** -19.9%  
-**1y:** -20.9%  
+**1y:** -21.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1434.20B
+**Market Cap:** $1424.23B
 Rank #1
 
-**Circulating Supply:** 19,997,609 BTC
+**Circulating Supply:** 19,997,665 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.1%
+-43.5%
 
 **All-Time Low:** $67.81
-+105663.2%
++104949.4%
 
 ---
 
@@ -77,23 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
-
-16h ago
-
----
-
 **[😮👌](https://www.reddit.com/r/Bitcoin/comments/1rkgbxc/_/)**
 
 🇺🇸 Blackrock ETF has bought $264,520,000 in Bitcoin . Massive inflow is coming 🔥
-
-2h ago
-
----
-
-**[The Bitcoin network is reaching the 20,000,000 coins milestone within one week. Mining the final million coins will take over 100 years.](https://www.reddit.com/r/Bitcoin/comments/1rkenpi/the_bitcoin_network_is_reaching_the_20000000/)**
-
-If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
 
 4h ago
 
@@ -103,6 +89,28 @@ If you're wondering how to find the circulating coins info, you can use your own
 
 When the-back-over-100k-faster-than-projected thesis was presented many people reacted with hostility but.. Look at just what happened to the trend. Some people wanted this to be 2022 but we are not in that position, its a different time and setup. A rush might have just started, looks like.
 
+3h ago
+
+---
+
+**[The Bitcoin network is reaching the 20,000,000 coins milestone within one week. Mining the final million coins will take over 100 years.](https://www.reddit.com/r/Bitcoin/comments/1rkenpi/the_bitcoin_network_is_reaching_the_20000000/)**
+
+If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
+
+5h ago
+
+---
+
+**[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
+
+17h ago
+
+---
+
+**[DCA and holding](https://www.reddit.com/r/Bitcoin/comments/1rkj9ah/dca_and_holding/)**
+
+I’ve been DCA’ing $250 a week into Bitcoin for the past two years and I haven’t missed a week. I’m in it long term, not trying to trade every move. But I’m genuinely unsure what the move is when Bitcoin hits an all-time high. Do you take profits? Trim like 10–20%? Sell your initial capital and let the rest ride? Or just ignore the price and keep buying like nothing’s changed? Last time it was ripping (around $120k) I just kept buying and didn’t even think about a plan. I don’t want to make stupid decisions like that again. Curious what people here actually do in that situation — not theory, but what you personally stick to.
+
 1h ago
 
 ---
@@ -111,15 +119,7 @@ When the-back-over-100k-faster-than-projected thesis was presented many people r
 
 Need to pay off some debt first with the cash I have but man…. At .7 btc that wholecoiner status is looking at me like Roger rabbits wife
 
-11h ago
-
----
-
-**[Bitcoin Demand Surge Explodes as BTC Hits $71K While Humans, AI, and Global Markets Pile In](https://www.reddit.com/r/Bitcoin/comments/1rkhlf1/bitcoin_demand_surge_explodes_as_btc_hits_71k/)**
-
-Bitcoin demand surge driven by safe‑haven demand, AI crypto adoption, Asia market selloff, and a sharp Bitcoin price breakout.
-
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/bitcoin-demand-surge-btc-hits-71k-markets-flee-risk/) • 1h ago
+12h ago
 
 ---
 
@@ -127,7 +127,7 @@ Bitcoin demand surge driven by safe‑haven demand, AI crypto adoption, Asia mar
 
 My first bitcoin purchase.
 
-15h ago
+17h ago
 
 ---
 
@@ -135,13 +135,7 @@ My first bitcoin purchase.
 
 The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $126K ATH from October 2025. Sounds brutal — but the structural signals underneath are shifting fast. A few things worth watching right now: Spot BTC ETF outflows slowed from $1.6B to $206M in February, then flipped to $787M in net inflows in the final week alone SEC Chair Paul Atkins just signaled a push toward a more innovation-friendly regulatory framework as of March 1 The U.S. Strategic Bitcoin Reserve is now acting as a structural price floor 200-day MA still trending up, 50-day SMA providing active daily support The last time we saw fear this extreme with institutional flows quietly reversing direction was... well, you know how that played out. Not financial advice — just tracking the data. Curious what the rest of you are seeing in the on-chain and ETF flow data right now. Source & full analysis: https://www.cryptobull.org/hot-coins/hot-coins-2026
 
-15h ago
-
----
-
-**[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
-
-🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 22h ago
+16h ago
 
 ---
 
@@ -149,7 +143,15 @@ The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $1
 
 Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
-7h ago
+8h ago
+
+---
+
+**[Is anyone buying at these levels or waiting still?](https://www.reddit.com/r/Bitcoin/comments/1rk9xsy/is_anyone_buying_at_these_levels_or_waiting_still/)**
+
+curious what everyone is doing EDIT: I DCA bi weekly, but i have about 10k in cash ready to blow
+
+10h ago
 
 ---
 
@@ -157,55 +159,25 @@ Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
 ## Google News: "bitcoin"
 
-**[Bitcoin jumps above $71,000, building on its resilience to Middle East conflict](https://www.coindesk.com/markets/2026/03/04/bitcoin-jumps-above-usd71-000-building-on-resilience-to-middle-east-conflict)**
+**[Bitcoin Pushes Past $71K, But Can the Rally Last?](https://finance.yahoo.com/news/bitcoin-pushes-past-71k-rally-115553100.html)**
 
-Bitcoin climbed above $71,000, gaining more than 6% in 24 hours and leading broad advances in major cryptocurrencies.
+Positioning resets and liquidity expectations have seen Bitcoin retest $71,000 amid the escalating conflict in the Middle East.
 
-CoinDesk • 2h ago
-
----
-
-**[The Core Issue: Why Bitcoin Needed A Remodel With Segwit And Taproot](https://bitcoinmagazine.com/print/the-core-issue-why-bitcoin-needed-a-remodel-with-segwit-and-taproot)**
-
-From The Core Issue: A look back at Segregated Witness and Taproot, Bitcoin's two largest upgrades, and why they were designed the way they were.
-
-Bitcoin Magazine • 17h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Climbs Above $71,000 in Broad Crypto Advance](https://www.bloomberg.com/news/articles/2026-03-04/bitcoin-climbs-above-71-000-in-broad-crypto-advance)**
+**[Better Buy in 2026: Bitcoin or Silver? The Answer Couldn't Be Clearer for Long-Term Investors.](https://www.fool.com/investing/2026/03/02/better-buy-in-2026-bitcoin-or-silver-the-answer-co/)**
 
-Bloomberg • 1h ago
+Production and supply dynamics tell the whole story here.
 
----
-
-**[Did Market Manipulation Cause Bitcoin to Crash?](https://www.fool.com/investing/2026/03/04/did-market-manipulation-cause-bitcoin-to-crash/)**
-
-There's a story going around that's worth knowing, but not worth believing.
-
-The Motley Fool • 1h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Price Surges Above $70,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-etheruem-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqdsOweCJ4mt7EzIr4PINDi089ynRkfbK47YgIVEDrcV_QtwXX0aFqnr&gaa_ts=69a80ef5&gaa_sig=J04Aum7LDY7nkdukk-U4BzqkmKGwuzPSma0u-sul-XEBh_3DNMyneme1qcKSkaWQCRdaKondg5ZbfRbTVM5SqQ%3D%3D)**
+**[Jiuzi outlines $1B swap for 10,000 Bitcoin in crypto push](https://www.stocktitan.net/news/JZXN/jzxn-announces-groundbreaking-us-1-billion-plan-to-acquire-10-000-2w8t7ngxb5uh.html)**
 
-Barron's • 1h ago
-
----
-
-**[Better Buy During the Crypto Crash: Bitcoin or XRP?](https://www.fool.com/investing/2026/03/04/better-buy-during-the-crypto-crash-bitcoin-or-xrp/)**
-
-The cryptocurrency market is plummeting due to a number of factors driving concerns across the macroeconomy.
-
-The Motley Fool • 1h ago
-
----
-
-**[Better Cryptocurrency to Buy Today With $3,000 and Hold for 7 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-today-3000-and-hold-7-years-xrp-vs-bitcoin)**
-
-Key PointsBitcoin is a store of value, but it's facing a huge risk in the next 10 years or so.
-
-Nasdaq • 7h ago
+Stock Titan • 44m ago
 
 ---
 
@@ -217,11 +189,33 @@ Fox News • 1d ago
 
 ---
 
-**[Cathie Wood Lowers Her 2030 Bitcoin Target From $1.5 Million, But Her Belief Remains Steadfast:'Our Conviction Has Gone Up…'](https://finance.yahoo.com/news/cathie-wood-lowers-her-2030-183057314.html)**
+**[Stock Market Today: Futures Rise After Wild Session; Bitcoin, Crypto-Tied Stocks Surge](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-03042026-11918929)**
 
-Ark Invest founder Cathie Wood said on Thursday that the firm’s conviction in Bitcoin’s potential has strengthened despite the ongoing drawdown, but lowered the 2030 target from $1.5 million. Stablecoin Adoption Impacting Wood’s Bull Case During an interview with Morningstar...
+Stocks futures were little changed Wednesday, a day after major indexes fell but closed well above early lows, as Middle East fighting entered its fifth day.
 
-Yahoo Finance • 17h ago
+Investopedia • 1h ago
+
+---
+
+**[Bitcoin Slump Disrupts Bukele’s Digital Utopia](https://www.bloomberg.com/opinion/articles/2026-03-04/bitcoin-slump-shatters-bukele-s-digital-utopia-in-el-salvador)**
+
+Bloomberg • 1h ago
+
+---
+
+**[Former LAPD Officer Convicted In $350,000 Bitcoin Kidnapping And Home Invasion](https://bitcoinmagazine.com/news/former-lapd-officer-convicted-in-350000-bitcoin-kidnapping-and-home-invasion)**
+
+A jury in Los Angeles convicted former Los Angeles Police Department officer Eric Halem of kidnapping and robbery after he and three alleged accomplices posed as police to steal $350,000 in bitcoin from a 17-year-old during a 2024 home invasion.
+
+Bitcoin Magazine • 15h ago
+
+---
+
+**[AI models favor bitcoin as a store of value, stablecoins for payments, BPI study finds](https://www.theblock.co/post/392172/ai-models-favor-bitcoin-as-a-store-of-value-stablecoins-for-payments-bpi-study-finds)**
+
+AI models chose bitcoin in 79% of long-term scenarios, stablecoins led payments; 91% favored digital assets over fiat.
+
+The Block • 2h ago
 
 ---
 
@@ -230,6 +224,12 @@ Yahoo Finance • 17h ago
 As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
 
 Dallas News • 1d ago
+
+---
+
+**[Bitcoin bounces back, topping $70,000, as safe havens waver](https://www.marketwatch.com/story/bitcoin-bounces-back-topping-70-000-as-safe-havens-waver-8e8f4740?gaa_at=eafs&gaa_n=AWEtsqc9hYwmJBRCk7NncRQc-ex3Gaodbf1lS57L7wwEUypr_uswFyUMK98R&gaa_ts=69a8300f&gaa_sig=PxPCW-119DNutbnQKJ_OrtHRSDYZ_ziBh4D-_GGwkeAa38RsysOAkcI9lrHW0RJUAorE23K9kzU9SaVy8Xbu5Q%3D%3D)**
+
+MarketWatch • 1h ago
 
 ---
 
@@ -247,7 +247,7 @@ Dallas News • 1d ago
 
 One critic replied simply "go away."
 
-⬆️ 4 • 💬 0 • 2d ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 4 • 💬 0 • 3d ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 112 • ⏱️ 15:07 • 12h ago
+👁️ 24K • 👍 1K • 💬 130 • ⏱️ 15:07 • 14h ago
 
 ---
 
@@ -327,7 +327,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 2K • 💬 128 • ⏱️ 10:14 • 1d ago
+👁️ 54K • 👍 2K • 💬 118 • ⏱️ 10:14 • 1d ago
+
+---
+
+**[BITCOIN PUMPING... YOU NEED TO SEE THIS CRITICAL CHART](https://www.youtube.com/watch?v=6vjQl8NfYr4)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 6K • 👍 495 • 💬 52 • ⏱️ 13:18 • 3h ago
 
 ---
 
@@ -337,7 +347,7 @@ Bombs are falling in the Middle East. Gold just lost over $1 trillion in minutes
 
 📺 Swan Bitcoin
 
-👁️ 27K • 👍 1K • 💬 85 • ⏱️ 18:46 • 12h ago
+👁️ 32K • 👍 2K • 💬 99 • ⏱️ 18:46 • 14h ago
 
 ---
 
@@ -347,7 +357,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 4K • 👍 124 • 💬 2 • ⏱️ 0:59 • 9h ago
+👁️ 5K • 👍 158 • 💬 2 • ⏱️ 0:59 • 11h ago
 
 ---
 
@@ -357,17 +367,7 @@ I published the case for $11 million bitcoin by 2036. Read the full letter here:
 
 📺 Joe Burnett
 
-👁️ 2K • 👍 153 • 💬 19 • ⏱️ 15:22 • 21h ago
-
----
-
-**[Bitcoin: The Early March Rally](https://www.youtube.com/watch?v=R9yYJXpYYzg)**
-
-Bitcoin usually gets a rally into early March, then forms a lower high and goes lower into April/May. Let's discuss! Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 94K • 👍 5K • 💬 250 • ⏱️ 21:27 • 1d ago
+👁️ 2K • 👍 157 • 💬 19 • ⏱️ 15:22 • 22h ago
 
 ---
 
@@ -377,17 +377,27 @@ Bitcoin has been in a bear market for several months. Let's talk about the bear 
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 140 • ⏱️ 19:12 • 20h ago
+👁️ 56K • 👍 3K • 💬 143 • ⏱️ 19:12 • 21h ago
 
 ---
 
-**[Bitcoin vs Iran Tensions - What Happens Next?](https://www.youtube.com/watch?v=kA7vZ_0JJ4o)**
+**[THIS IS THE NEXT BITCOIN BREAKOUT...](https://www.youtube.com/watch?v=kazga3srQ4s)**
 
-Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
 
-📺 CryptosRUs
+📺 Crypto Rover
 
-👁️ 18K • 👍 1K • 💬 107 • ⏱️ 9:16 • 2d ago
+👁️ 7K • 👍 478 • 💬 18 • ⏱️ 8:41 • 8h ago
+
+---
+
+**[Bitcoin: The Early March Rally](https://www.youtube.com/watch?v=R9yYJXpYYzg)**
+
+Bitcoin usually gets a rally into early March, then forms a lower high and goes lower into April/May. Let's discuss! Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 96K • 👍 5K • 💬 254 • ⏱️ 21:27 • 1d ago
 
 ---
 
@@ -397,17 +407,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 24K • 👍 344 • 💬 12 • ⏱️ 0:41 • 1d ago
-
----
-
-**[Bitcoin &amp; Altcoins: Big Move Soon (Watch ASAP) 🚨 Crypto News &amp; Analysis Today 📰](https://www.youtube.com/watch?v=GSH0dHCmXDc)**
-
-Bitunix - 50k Prize Pool + 15% off Trading Fees Register here: https://www.bitunix.com/act/partner?landingCode=paxadver ...
-
-📺 CryptoCache
-
-👁️ 2K • 👍 152 • 💬 21 • ⏱️ 15:09 • 18h ago
+👁️ 25K • 👍 350 • 💬 12 • ⏱️ 0:41 • 1d ago
 
 ---
 
