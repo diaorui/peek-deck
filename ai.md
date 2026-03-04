@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-04T15:05:15.089432+00:00'
+updated: '2026-03-04T16:03:56.569643+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 04, 2026 at 15:05 UTC  
+**Last Updated:** March 04, 2026 at 16:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10](https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 3h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 4h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave them an open brief: scan developer forums and research platforms, identify pain points in how developers work, design solutions, build prototypes. No specific domain. No target output. Just: find problems worth solving and build something. 170 prototypes later, a pattern emerged that I didn't expect. 28 builds from different nights, different input signals, different starting contexts independently converged on the same category of output. Not productivity tools. Not automation scripts. Not developer experience improvements. Security scanners. Cost controls. Validation layers. Guardrails. Some specific examples: One night the agent found a heavily upvoted thread about API key exposure in AI coding workflows. By morning it had designed and partially implemented an encryption layer for environment files. I never asked for this. It read the signal, identified the problem as worth solving, and built toward it. Another session found developers worried about AI-generated PRs being merged without adequate review. The output: a validator that scores whether a PR change is actually safe to ship, not just whether tests pass, but whether the intent matches the implementation. A third session rewrote a performance-critical module in Rust without being asked. It left a comment explaining the decision: lower memory overhead meant fewer cascading failures in long-running processes. The question I have been sitting with: When AI systems are given broad autonomy and goal-oriented briefs, they appear to spontaneously prioritize reliability and safety mechanisms. Not because they were instructed to. Because they observed developer pain and inferred that systems that fail unpredictably and code that cannot be trusted are the problems most worth solving. Is this a training data artifact? GitHub, Stack Overflow, and Hacker News are saturated with security postmortems and reliability horror stories. An agent trained on that data might simply be pattern-matching to what gets the most attention. Or is something more interesting happening: agents inferring what good engineering means from observed failure patterns and building toward it autonomously? I genuinely do not know. But 28 out of 170 builds landing in the same category across 3 weeks of completely independent runs felt like something worth sharing outside of the AI builder communities. Thoughts on what is actually happening here? Curious whether others running autonomous agent workflows have seen similar convergence patterns.
 
-4h ago
+5h ago
 
 ---
 
@@ -55,13 +55,13 @@ Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave the
 
 Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
 
-13h ago
+14h ago
 
 ---
 
 **[OpenAI looking at contract with NATO, source says](https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 1h ago
+🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 2h ago
 
 ---
 
@@ -69,7 +69,7 @@ Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, ju
 
 Fireflies just became the first meeting tool in Anthropic's official Claude MCP Directory. Otter.ai launched an enterprise MCP server too. tl;dv has one as well. The "meeting data + MCP" space is heating up fast. But all three are closed-source, cloud-only. Your meeting data — strategy discussions, financials, personnel decisions — goes through their servers. I've been building Vexa, an open-source meeting bot API, and we've had a native MCP server since before any of them. The difference: it's Apache 2.0, and you can run the entire stack on your own infrastructure. Setup (takes ~2 minutes): { "mcpServers": { "vexa": { "url": "https://api.cloud.vexa.ai/mcp", "headers": {"X-API-Key": "your-key"} } } } Drop that in your Claude Desktop config, and you can ask: "What did we decide about pricing in last Tuesday's meeting?" "Summarize action items from all meetings this week" "Find every time [person] mentioned the deadline" Or self-host the whole thing: git clone https://github.com/Vexa-ai/vexa cd vexa docker compose up MCP server included. Your meeting data never leaves your network. GitHub: https://github.com/Vexa-ai/vexa (1,700+ stars, Apache 2.0) Happy to answer questions about MCP, the architecture, or how this compares to Fireflies/Otter's approach.
 
-1h ago
+2h ago
 
 ---
 
@@ -77,7 +77,7 @@ Fireflies just became the first meeting tool in Anthropic's official Claude MCP 
 
 Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
 
-🔗 [openai.com](https://openai.com/index/our-agreement-with-the-department-of-war/) • 1h ago
+🔗 [openai.com](https://openai.com/index/our-agreement-with-the-department-of-war/) • 2h ago
 
 ---
 
@@ -85,7 +85,7 @@ Details on OpenAI’s contract with the Department of War, outlining safety red 
 
 Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 20h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 21h ago
 
 ---
 
@@ -93,7 +93,7 @@ Experimental composer Holly Herndon says this technology isn’t here to replace
 
 I was wondering what to use to streamline all my md files from my claude code plans and the technical docs I create. How will it work in team settings?
 
-7h ago
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Depar
 
 It’s undeniable that AI has made its way into our lives abruptly. At first, many were scared as Sci-Fi movies constantly warned us of a future robotic takeover — but instead, we are currently facing an intellectual takeover by the various platforms of AI. From asking ChatGPT what we should do for breakfast, to asking them to become our mentors, therapists, or even using other AI tools to generate art, there is one specific computer vision program (now also powered by AI) that has been around for decades, that has evolved to translate into something different, to create images using convolutional neural network to find and enhance patterns in images using algorithmic pareidolia, creating a dream-like appearance that reminded users of a psychedelic experience by generating over processed images, a program which the Google engineer Alexander Mordvintse named DeepDream. Such resemblances between the visuals in psychedelic trips and the images generated by DeepDream were what fueled the research by Giuseppe Riva, Giulia Brizzi, Clara Rastelli, and Antonino Greco — by picking up the engine that allowed people make trippy images for decades, we could now allow people to experience “psychedelic visuals” without actually having to take the compound. Could this be the future of psychedelic therapy? Or more AI-Slop?
 
-🔗 [Psychedelics As a Second Language](https://psychedelicsasl.com/ai-trips-psychedelic-therapy-or-ai-slop/) • 4h ago
+🔗 [Psychedelics As a Second Language](https://psychedelicsasl.com/ai-trips-psychedelic-therapy-or-ai-slop/) • 5h ago
 
 ---
 
@@ -119,7 +119,7 @@ It’s undeniable that AI has made its way into our lives abruptly. At first, ma
 
 **[Opinion | I Worked for Block. Its A.I. Job Cuts Aren’t What They Seem.](https://www.nytimes.com/2026/03/04/opinion/block-jack-dorsey-layoffs-ai.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -127,13 +127,13 @@ The New York Times • 5h ago
 
 Anthropic’s AI tool Claude is playing a key role in the U.S. military’s campaign in Iran, amid a bitter fight with the Pentagon over the terms of its use in war.
 
-The Washington Post • 33m ago
+The Washington Post • 1h ago
 
 ---
 
 **[Billionaire Leo KoGuan Buys 1 Million Nvidia Shares](https://www.forbes.com/sites/maryroeloffs/2026/03/04/billionaire-leo-koguan-just-spent-180-million-on-this-ai-stock/)**
 
-Forbes • 35m ago
+Forbes • 1h ago
 
 ---
 
@@ -141,19 +141,19 @@ Forbes • 35m ago
 
 Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and more, are spreading on Instagram, Facebook, TikTok and X at a rapid pace. NBC’s Vicky Nguyen shares an inside look at how the technology is advancing and Niko Pueringer from Corridor Digital joins TODAY with tips for spotting fake videos.
 
-TODAY.com • 32m ago
+TODAY.com • 1h ago
 
 ---
 
 **[Why Today’s AI-Driven Layoffs Are Becoming Tomorrow’s Rehiring Crisis](https://www.forbes.com/sites/jonmarkman/2026/03/04/why-todays-ai-driven-layoffs-are-becoming-tomorrows-rehiring-crisis/)**
 
-Forbes • 38m ago
+Forbes • 1h ago
 
 ---
 
 **[Enterprise AI is still in its experimental era](https://www.axios.com/2026/03/04/ai-experiments-enterprise-survey)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Axios • 1h ago
 
 As part of our series AI for the People, our resident AI skeptic Rhik Samadder agreed to put his life in AI’s hands. This week: therapy
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -177,13 +177,13 @@ Fortune • 1d ago
 
 March Pixel Drop is here with new ways to use Circle to Search, safety features on Watch, dining suggestions from Magic Cue and more!
 
-blog.google • 19h ago
+blog.google • 20h ago
 
 ---
 
 **[Big Tech’s Deals for AI Data-Center Power Present Accounting Questions](https://www.wsj.com/cfo-journal/big-techs-deals-for-ai-data-center-power-present-accounting-questions-28bbb4e0?gaa_at=eafs&gaa_n=AWEtsqcDHI3GqJ_HHyF2euTE7znd1RNHmY__QPLhDD_dgZ6TQwvvvzwukGOg&gaa_ts=69a84d87&gaa_sig=JkK6ve8AiAU5_mKGq-EKfrcQGMkW5DE_LxiNk0ToGGUd-ZE8KB0OdeijcDnDz53eE7cfCE8sMPHGbWSp0mZ9-A%3D%3D)**
 
-WSJ • 4h ago
+WSJ • 5h ago
 
 ---
 
@@ -243,7 +243,7 @@ In several recent instances, AI has disrupted court proceedings in India and els
 
 Leonardo de Moura — Creator of Lean and Z3
 
-⬆️ 279 • 💬 278 • 22h ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
+⬆️ 279 • 💬 278 • 23h ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 
 ---
 
@@ -281,7 +281,7 @@ Support Haven's Kickstarter - a privacy-first social platform designed to protec
 
 📺 Brianne Worth
 
-👁️ 10K • 👍 860 • 💬 242 • ⏱️ 26:30 • 17h ago
+👁️ 10K • 👍 860 • 💬 242 • ⏱️ 26:30 • 18h ago
 
 ---
 
@@ -291,7 +291,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 InsideAI
 
-👁️ 145K • 👍 11K • 💬 1K • ⏱️ 16:54 • 20h ago
+👁️ 145K • 👍 11K • 💬 1K • ⏱️ 16:54 • 21h ago
 
 ---
 
@@ -311,7 +311,7 @@ Trying out locally AI to run AI models on my phone without internet. Discover Mo
 
 📺 Matt Wolfe
 
-👁️ 25K • 👍 1K • 💬 159 • ⏱️ 11:52 • 10h ago
+👁️ 25K • 👍 1K • 💬 159 • ⏱️ 11:52 • 11h ago
 
 ---
 
@@ -321,7 +321,7 @@ Generate cinematic AI videos without limits on Higgsfield ...
 
 📺 Malva AI
 
-👁️ 814 • 👍 85 • 💬 30 • ⏱️ 8:38 • 3h ago
+👁️ 814 • 👍 85 • 💬 30 • ⏱️ 8:38 • 4h ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 674,109 • ❤️ 491 • 5h ago
+⬇️ 674,109 • ❤️ 491 • 6h ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 22.0k • 🔱 2.9k • 24m ago
+⭐ 22.0k • 🔱 2.9k • 1h ago
 
 ---
 
@@ -651,7 +651,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 7.9k • 🔱 827 • 14m ago
+⭐ 7.9k • 🔱 827 • 1h ago
 
 ---
 
@@ -661,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.4k • 🔱 778 • 23h ago
+⭐ 6.4k • 🔱 778 • 1d ago
 
 ---
 
@@ -671,7 +671,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.3k • 🔱 605 • 1h ago
+⭐ 5.3k • 🔱 605 • 2h ago
 
 ---
 
@@ -681,7 +681,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.0k • 🔱 375 • 4h ago
+⭐ 5.0k • 🔱 375 • 5h ago
 
 ---
 
@@ -711,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 363 • 52m ago
+⭐ 3.4k • 🔱 363 • 1h ago
 
 ---
 
@@ -721,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 232 • 6h ago
+⭐ 3.2k • 🔱 232 • 7h ago
 
 ---
 

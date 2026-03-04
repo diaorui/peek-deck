@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T15:05:15.097805+00:00'
+updated: '2026-03-04T16:03:56.577888+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 15:05 UTC  
+**Last Updated:** March 04, 2026 at 16:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 🇺🇸 Blackrock ETF has bought $264,520,000 in Bitcoin . Massive inflow is coming 🔥
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 When the-back-over-100k-faster-than-projected thesis was presented many people reacted with hostility but.. Look at just what happened to the trend. Some people wanted this to be 2022 but we are not in that position, its a different time and setup. A rush might have just started, looks like.
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ When the-back-over-100k-faster-than-projected thesis was presented many people r
 
 If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ If you're wondering how to find the circulating coins info, you can use your own
 
 I’ve been DCA’ing $250 a week into Bitcoin for the past two years and I haven’t missed a week. I’m in it long term, not trying to trade every move. But I’m genuinely unsure what the move is when Bitcoin hits an all-time high. Do you take profits? Trim like 10–20%? Sell your initial capital and let the rest ride? Or just ignore the price and keep buying like nothing’s changed? Last time it was ripping (around $120k) I just kept buying and didn’t even think about a plan. I don’t want to make stupid decisions like that again. Curious what people here actually do in that situation — not theory, but what you personally stick to.
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’ve been DCA’ing $250 a week into Bitcoin for the past two years and I have
 
 Need to pay off some debt first with the cash I have but man…. At .7 btc that wholecoiner status is looking at me like Roger rabbits wife
 
-14h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ Need to pay off some debt first with the cash I have but man…. At .7 btc that 
 
 My first bitcoin purchase.
 
-19h ago
+20h ago
 
 ---
 
@@ -135,7 +135,7 @@ My first bitcoin purchase.
 
 Just another way to dca
 
-2h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ Just another way to dca
 
 Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
-11h ago
+12h ago
 
 ---
 
@@ -151,7 +151,7 @@ Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
 Been down the Bitcoin rabbit hole for a while now and I'm genuinely curious about the mining side of things. I've always just stacked sats by buying, but lately I've been wondering if running miners makes sense or if it's just a hobby at this point for individuals. Some questions for anyone who's actually doing it.. What's your all-in cost per Bitcoin mined? (Power + hardware depreciation) Is it cheaper than just buying spot, or are you doing it for other reasons (supporting the network, betting on price appreciation, etc.)? How do you think about the payback period on hardware when difficulty keeps climbing? For people in high-cost electricity areas, how do you make it work?
 
-1h ago
+2h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg • 17h ago
 
 Data shows an extraordinarily thin supply between $72,000 and $80,000, suggesting there's little resistance in that range.
 
-CoinDesk • 5m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Dallas News • 1d ago
 
 **[Coinbase, Other Bitcoin Stocks Surge. What’s Behind the Crypto Rally.](https://www.barrons.com/articles/coinbase-stock-price-bitcoin-crypto-robinhood-strategy-017a594f?gaa_at=eafs&gaa_n=AWEtsqf9TZIbzQHBUFc961rgi4VZ5uwbxHoOnBbI80Ql3dH_vdsg2EB-st1v&gaa_ts=69a84d88&gaa_sig=W1K_8hsiEcdnalbOlOFEHmSOlAkh9BHrjTpWz7DYU8lR4NUQ0ufGtPkHPVnduP0ePoDgeL1Xz57fm7iinjBqvw%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Fox News • 1d ago
 
 AI models chose bitcoin in 79% of long-term scenarios, stablecoins led payments; 91% favored digital assets over fiat.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Block • 4h ago
 
 A jury in Los Angeles convicted former Los Angeles Police Department officer Eric Halem of kidnapping and robbery after he and three alleged accomplices posed as police to steal $350,000 in bitcoin from a 17-year-old during a 2024 home invasion.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
@@ -229,7 +229,7 @@ Bitcoin Magazine • 17h ago
 
 With tokens sliding in value this year, the president just weighed in on cryptocurrency legislation. It's not the only reason for this week's reversal.
 
-Fast Company • 1h ago
+Fast Company • 2h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 Complete operating system for Bitcoiners
 
-⬆️ 1 • 💬 1 • 29m ago • [opacore.com](https://opacore.com)
+⬆️ 1 • 💬 1 • 1h ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 144 • ⏱️ 15:07 • 16h ago
+👁️ 26K • 👍 2K • 💬 144 • ⏱️ 15:07 • 17h ago
 
 ---
 
@@ -329,7 +329,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 10K • 👍 594 • 💬 70 • ⏱️ 13:18 • 5h ago
+👁️ 10K • 👍 594 • 💬 70 • ⏱️ 13:18 • 6h ago
 
 ---
 
@@ -349,7 +349,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 8K • 👍 616 • 💬 88 • ⏱️ 5:16 • 5h ago
+👁️ 8K • 👍 616 • 💬 88 • ⏱️ 5:16 • 6h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin traders may be running out of time. In this video, Sheldon breaks down t
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 608 • 💬 17 • ⏱️ 19:29 • 4h ago
+👁️ 6K • 👍 608 • 💬 17 • ⏱️ 19:29 • 5h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bombs are falling in the Middle East. Gold just lost over $1 trillion in minutes
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 102 • ⏱️ 18:46 • 16h ago
+👁️ 34K • 👍 2K • 💬 102 • ⏱️ 18:46 • 17h ago
 
 ---
 
@@ -399,7 +399,7 @@ Bill Maher takes aim at Bitcoin and the massive environmental cost of cryptocurr
 
 📺 The Unfiltered Republic
 
-👁️ 3K • 👍 124 • 💬 7 • ⏱️ 0:48 • 10h ago
+👁️ 3K • 👍 124 • 💬 7 • ⏱️ 0:48 • 11h ago
 
 ---
 
@@ -409,7 +409,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 512 • 💬 17 • ⏱️ 8:41 • 10h ago
+👁️ 7K • 👍 512 • 💬 17 • ⏱️ 8:41 • 11h ago
 
 ---
 
