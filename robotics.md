@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T12:59:27.192838+00:00'
+updated: '2026-03-04T14:01:35.019827+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 12:59 UTC  
+**Last Updated:** March 04, 2026 at 14:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/research/memory From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2028954630458401040
 
-2h ago
+3h ago
+
+---
+
+**[Update on Astrix my humanoid robot](https://www.reddit.com/r/robotics/comments/1rkfgqs/update_on_astrix_my_humanoid_robot/)**
+
+I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
+
+6h ago
 
 ---
 
@@ -48,27 +56,11 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 ---
 
-**[Update on Astrix my humanoid robot](https://www.reddit.com/r/robotics/comments/1rkfgqs/update_on_astrix_my_humanoid_robot/)**
-
-I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
-
-5h ago
-
----
-
 **[Why Most Humanoid Robots Haven't Shipped](https://www.reddit.com/r/robotics/comments/1rjzq64/why_most_humanoid_robots_havent_shipped/)**
 
 Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t shipped yet. He argues that while many look impressive in demonstrations, but shipping real systems requires a level of reliability that is difficult to achieve. Walking, balance, manipulation, perception, and safety all have to work together in real environments, not controlled labs. Until those systems can operate reliably, consistently, and at a reasonable cost, most humanoid robots will remain in the prototype or demonstration stage rather than large-scale deployment.
 
-16h ago
-
----
-
-**[Suggest me a/some Robotics course on YouTube. [Beginner]](https://www.reddit.com/r/robotics/comments/1rkhnf5/suggest_me_asome_robotics_course_on_youtube/)**
-
-I know it might sound dumb, but I am a college student and want to learn robotics. I don't find anyone who can teach me or books seem to be very monotonous. Are there any courses that might help me? There are a lot of courses on YT, and I cannot decide which one is good.
-
-2h ago
+18h ago
 
 ---
 
@@ -76,7 +68,15 @@ I know it might sound dumb, but I am a college student and want to learn robotic
 
 Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-way Observation) indoor positioning setup and thought it was worth sharing. There plenty of in-house positioning tech include Wifi/BLE/IMU/Lidar/RFID. Of all the tech, the UWB is a competitive solution with high precision/lower power consumption and save, much stable than Wifi/BLE Tech Advantages Disadvantage Wifi Cheap LowResolution(3~10m) BLE Low Power LowResolution(2~5m) IMU Without any wireless signal Drift in field application RFID Chip Only Yes/No judgement LiDar High precision High-Cost UWB High precision（0.1m） High installation Requests UWB can be used in AGV/in house mobile tracking. The UWB DSTO((Distributed Synchronization and Two-way Observation) system is based on UWB tech, different with common UWB system that composed with anchors/tags, the DSTO system is composed of multiple nodes, every node in the system can report its distance between itself with all the other nodes( also called peer-to-peer mesh), suitable for application such as anti-collision. For example in an in-house forklift system, all the forklift are auto or manually controlled, to avoid them collision to each other , this UWB DSTO could be a solution, every forklift get its distance with other forklift with frequency 20Hz, so they can be urgently stopped when they reach the safe distance limit. A simple demo of this tech at: https://youtu.be/iGKn3G82pY0 If anyone is working on similar projects or product development, feel free to discuss in the comments section ： ）
 
-6h ago
+7h ago
+
+---
+
+**[Suggest me a/some Robotics course on YouTube. [Beginner]](https://www.reddit.com/r/robotics/comments/1rkhnf5/suggest_me_asome_robotics_course_on_youtube/)**
+
+I know it might sound dumb, but I am a college student and want to learn robotics. I don't find anyone who can teach me or books seem to be very monotonous. Are there any courses that might help me? There are a lot of courses on YT, and I cannot decide which one is good.
+
+3h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-wa
 
 If you are from arizona and you are a robotics engineer dm me, i have an idea for an invention im disabled and its a piece of tech that would help tons of disabled people around the world basically a new type of wheelchair pls dm if interested
 
-7h ago
+8h ago
 
 ---
 
@@ -92,7 +92,7 @@ If you are from arizona and you are a robotics engineer dm me, i have an idea fo
 
 Have anyone worked with Orbital 3D Printer with Kuka’s robotic arm attached with it. My lab has one of these but couldn’t find enough materials regarding orbital , if anyone has used it before and could give me a heads up it would be nice. Like , how did you operate it? What materials have you used to print ? What kind of projects have you done so far , which direction I could take my research with it. Have you tried non planar printing with it , if so what parts or products have you printed so far. Any YouTube channels or website that could help me deep dive into this thing.
 
-4h ago
+5h ago
 
 ---
 
@@ -106,7 +106,7 @@ Have anyone worked with Orbital 3D Printer with Kuka’s robotic arm attached wi
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_realsense.html
 
-21h ago
+22h ago
 
 ---
 
@@ -116,23 +116,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_r
 
 **[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
 
-Phys.org • 19h ago
-
----
-
-**[China Could Dominate the Physical AI Future](https://time.com/7382151/china-dominates-the-physical-ai-race/)**
-
-Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
-
-Time Magazine • 1d ago
-
----
-
-**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
-
-Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
-
-CNBC • 7m ago
+Phys.org • 20h ago
 
 ---
 
@@ -144,11 +128,27 @@ Scientific American • 2d ago
 
 ---
 
+**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
+
+Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
+
+CNBC • 1h ago
+
+---
+
+**[Video. Spain: From AI assistants to humanoid robots, 5G dominates MWC Barcelona](https://www.euronews.com/video/2026/03/04/spain-from-ai-assistants-to-humanoid-robots-5g-dominates-mwc-barcelona)**
+
+Video. Spain’s MWC in Barcelona showcases real-world AI and 5G, from humanoid robots to connected ambulances.
+
+Euronews.com • 6h ago
+
+---
+
 **[Kraken Robotics Announces Signing of Strategic Acquisition to Expand Global Maritime Capabilities](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-signing-of-strategic-acquisition-to-expand-global-maritime-capabilities/)**
 
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
-Kraken Robotics • 14h ago
+Kraken Robotics • 16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Kraken Robotics • 14h ago
 
 Florida Power & Light Company (FPL) is making it easier for high school seniors who love robotics and drones to get ahead in their education.
 
-Yahoo • 44m ago
+Yahoo • 1h ago
 
 ---
 
@@ -168,25 +168,27 @@ Supply Chain Dive • 1d ago
 
 ---
 
-**[Why Elon Musk's Big Bet on Robotics Comes With Significant Risks for Tesla Shareholders](https://www.nasdaq.com/articles/why-elon-musks-big-bet-robotics-comes-significant-risks-tesla-shareholders)**
-
-Key PointsTesla is spending $20 billion on capital expenditures this year, more than double what it spent a year ago.
-
-Nasdaq • 21h ago
-
----
-
-**[5 Stocks Racing Ahead as AI Supercharges Robotics](https://www.marketbeat.com/stock-ideas/5-stocks-racing-ahead-as-ai-supercharges-robotics/)**
-
-MarketBeat • 1d ago
-
----
-
 **[After losing $6 billion, Ginkgo Bioworks pivots to selling lab robots with AI](https://www.bostonglobe.com/2026/03/03/business/ginkgo-bioworks-pivot-ai-robots/)**
 
 The once high-flying Boston company is spinning off its biosecurity unit and closing its non-automated labs.
 
-The Boston Globe • 14h ago
+The Boston Globe • 15h ago
+
+---
+
+**[Why Elon Musk's Big Bet on Robotics Comes With Significant Risks for Tesla Shareholders](https://www.nasdaq.com/articles/why-elon-musks-big-bet-robotics-comes-significant-risks-tesla-shareholders)**
+
+Key PointsTesla is spending $20 billion on capital expenditures this year, more than double what it spent a year ago.
+
+Nasdaq • 22h ago
+
+---
+
+**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
+
+The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
+
+Pittsburgh Post-Gazette • 2d ago
 
 ---
 
@@ -200,7 +202,7 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 55 • 💬 1 • ⏱️ 1:11 • 13h ago
+👁️ 3K • 👍 55 • 💬 1 • ⏱️ 1:11 • 14h ago
 
 ---
 
@@ -240,7 +242,7 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 13K • 👍 830 • 💬 112 • ⏱️ 0:13 • 9h ago
+👁️ 13K • 👍 830 • 💬 112 • ⏱️ 0:13 • 10h ago
 
 ---
 
@@ -290,7 +292,7 @@ Reset Sensors & Passive Middle Goal | 39Y Yolt | Robot Rundown Triple Crown winn
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 75 • 💬 4 • ⏱️ 1:26 • 12h ago
+👁️ 2K • 👍 75 • 💬 4 • ⏱️ 1:26 • 13h ago
 
 ---
 
