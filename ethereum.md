@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-04T21:35:55.754584+00:00'
+updated: '2026-03-04T22:33:33.963276+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 21:35 UTC  
+**Last Updated:** March 04, 2026 at 22:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,164.63
+### $2,149.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +10.2%  
-**7d:** +7.1%  
-**30d:** -2.8%  
-**90d:** -28.1%  
-**1y:** -3.0%  
+**24h:** +8.6%  
+**7d:** +6.2%  
+**30d:** -3.6%  
+**90d:** -28.7%  
+**1y:** -3.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2016 - one of the earliest token contracts on Ethereum. The original source used #require directives from the Mix IDE preprocessor, which hasn't existed for years. The code was never verified on Etherscan. I spent a while reconstructing the source from bytecode analysis: Brute-forced all 12 function selectors via keccak256 to recover the exact function names (turns out Gav used changeOwner not setOwner, nameRegAddress not name) Discovered the contract has zero events, no inheritance, and a flat storage layout - unusual for something based on dapp-bin's coin.sol Found that function declaration order matters in solc 0.3.x because it controls where the shared return trampoline gets placed in bytecode The constructor registers itself as "GavCoin" in the old global NameReg contract and mints 1,000,000 tokens to the deployer, plus has a proof-of-work mining function anyone could call End result: exact byte-for-byte match of the 905-byte runtime bytecode across solc v0.1.6 through v0.3.2 with optimizer enabled. Source and one-command verification script: https://github.com/cartoonitunes/gavcoin-verify The problem: Etherscan's verification form only supports solc v0.4.11 and newer. GavCoin was compiled with v0.3.1. So I've emailed them requesting manual verification. I also submitted verification requests for two other historic contracts from the same era - Alex Van de Sande's Unicorn Meat system (the MeatConversionCalculator and MeatGrindersAssociation). The Grinder Association is one of the earliest DAOs on Ethereum, featuring quadratic voting and on-chain proposals. Source for those is in avsa's original gist. These early contracts are fascinating. Pre-ERC-20, pre-EIP, people were just experimenting. Proof-of-work token mining, on-chain name registries, quadratic voting DAOs - all in 2016. If anyone has other unverified historic contracts they'd like help with, happy to share the approach.
 
-19h ago
+20h ago
 
 ---
 
@@ -88,7 +88,7 @@ GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Over the past year, many people I talk to have expressed worry about two topics:
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 5h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 6h ago
 
 ---
 
@@ -152,19 +152,19 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 ## Google News: "ethereum"
 
+**[Ethereum Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
+
+Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
+
+CoinDesk • 4h ago
+
+---
+
 **[Corporates and Exchanges Rush to Stake Ethereum Instead of Selling](https://decrypt.co/359893/corporates-exchanges-stake-ethereum-instead-of-selling)**
 
 Analysts say large investors are increasingly locking up ETH for yield rather than positioning to sell into market rallies.
 
-Decrypt • 18h ago
-
----
-
-**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
-
-Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
-
-The Block • 23h ago
+Decrypt • 19h ago
 
 ---
 
@@ -172,15 +172,7 @@ The Block • 23h ago
 
 Ethereum is rallying hard today, as the crypto sector finally shows some signs of life.
 
-The Motley Fool • 1h ago
-
----
-
-**[Ethereum Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
-
-Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
-
-CoinDesk • 3h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -188,21 +180,29 @@ CoinDesk • 3h ago
 
 Ethereum is rallying hard today, as the crypto sector finally shows some signs of life.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqeLr9oVx-LzIHvRhpq_l_mxZ4DFvzlWxed_017dKy7M2feOr-h87QPg&gaa_ts=69a89baa&gaa_sig=T80M8AaDGJRz0y0b7CTuqOFgwyh5s04gGddxQZYJ5MUWXIW2taISx8Gi-29OE64cNYPhY8E9ynCr5t5pDjfZZQ%3D%3D)**
+**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqevA36Cua6KrHCZa3L_67YG-pTu_pisg3taru-MudAfW_15-BvqNU-z&gaa_ts=69a8b6a4&gaa_sig=fVOXIWAIjftWeaUSLK5XA-vLOQ41TdVZke9LQ-vD9RC1LxhyAMAu98PDklU4rsFedc5wYyFxiEV-7zcJEHu94A%3D%3D)**
 
-Barron's • 5h ago
+Barron's • 6h ago
 
 ---
 
-**[Iran war won’t spoil Ethereum price rally in March, Tom Lee says](https://www.dlnews.com/articles/markets/iran-war-will-not-spoil-ethereum-price-rally-in-march-tom-lee-says/)**
+**[Current price of Ethereum for March 4, 2026](https://fortune.com/article/price-of-ethereum-03-04-2026/)**
 
-Ethereum is set to surge in March, says Tom Lee. War in Iran won’t scupper the rally, Bitmine chair says. Cryptocurrency is up 9% over the past week.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-dlnews.com • 1d ago
+Fortune • 17m ago
+
+---
+
+**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
+
+Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
+
+The Block • 1d ago
 
 ---
 
@@ -214,19 +214,19 @@ Nasdaq • 1d ago
 
 ---
 
+**[Iran war won’t spoil Ethereum price rally in March, Tom Lee says](https://www.dlnews.com/articles/markets/iran-war-will-not-spoil-ethereum-price-rally-in-march-tom-lee-says/)**
+
+Ethereum is set to surge in March, says Tom Lee. War in Iran won’t scupper the rally, Bitmine chair says. Cryptocurrency is up 9% over the past week.
+
+dlnews.com • 1d ago
+
+---
+
 **[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772619300)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 11h ago
-
----
-
-**[Ethereum Price Stuck Under $2,050, Bulls Seek Recovery Catalyst](https://www.tradingview.com/news/newsbtc:23b8506f9094b:0-ethereum-price-stuck-under-2-050-bulls-seek-recovery-catalyst/)**
-
-Ethereum price started a fresh increase but failed near $2,080. ETH is now correcting gains and might decline further below $1,920.Ethereum Price Dips To SupportEthereum price attempted a fresh increase above the $2,000 resistance, like Bitcoin. ETH price rallied above the $2,020 and $2,050 resista…
-
-TradingView • 17h ago
+Polymarket • 12h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 468 • 👍 20 • ⏱️ 4:40 • 11h ago
+👁️ 468 • 👍 20 • ⏱️ 4:40 • 12h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 9K • 👍 285 • 💬 138 • ⏱️ 16:36 • 23h ago
+👁️ 9K • 👍 285 • 💬 138 • ⏱️ 16:36 • 1d ago
 
 ---
 
@@ -280,7 +280,7 @@ Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/Paino
 
 📺 Pain of Crypto
 
-👁️ 4K • 👍 133 • 💬 34 • ⏱️ 6:27 • 1d ago
+👁️ 4K • 👍 133 • 💬 34 • ⏱️ 6:27 • 2d ago
 
 ---
 
@@ -310,7 +310,7 @@ Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet :
 
 📺 Kirtish Vyas (CoinLyte)
 
-👁️ 2K • 👍 122 • 💬 11 • ⏱️ 17:33 • 11h ago
+👁️ 2K • 👍 122 • 💬 11 • ⏱️ 17:33 • 12h ago
 
 ---
 
@@ -320,7 +320,7 @@ Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet :
 
 📺 Егор Попковский
 
-👁️ 2K • 👍 125 • 💬 16 • ⏱️ 7:10 • 7h ago
+👁️ 2K • 👍 125 • 💬 16 • ⏱️ 7:10 • 8h ago
 
 ---
 

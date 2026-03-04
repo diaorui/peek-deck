@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T21:35:55.757797+00:00'
+updated: '2026-03-04T22:33:33.966568+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 21:35 UTC  
+**Last Updated:** March 04, 2026 at 22:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humanoid robot process here. We open-sourced the legs and will open-source the full body soon. Your questions and comments along the way really helped us a lot. Appreciate it! A few days ago more than 50 people on X told us they'd be interested in a DIY humanoid robot kit. So we did it. We put together all parts from mechanical to electrical to build the Asimov robot. It's 1.20m, 35kg, 25+2 degrees of freedom (+2 comes from the articulated toe!). Asimov is a really powerful robot with almost the same specs as the Unitree G1. Some parts like the arms are actually stronger. We call the kit "Here Be Dragons", a name used for highly experimental, beta-before-beta releases. The kind where you're one of the first users, talking directly to the engineers, reporting bugs, and getting a fix the same day. We're now preparing a user manual and assembly videos too. The target price is $15,000, which is higher than our current BOM cost. We're taking pre-orders with a $499 deposit to find serious builders and learn what they need. We got 14 orders in a few hours and are planning to close pre-orders soon to handle it properly. So our build-in-public journey is turning into a business earlier than expected, and we're not looking for profit from the DIY Kit. Wanted to share with you all. If you're hacking something, please do share with the community. Details for the pre-order: https://asimov.inc/diy-kit
 
-7h ago
+8h ago
 
 ---
 
 **[Not Exactly How I Expected a Wheel Robot to Behave](https://www.reddit.com/r/robotics/comments/1rkrk1h/not_exactly_how_i_expected_a_wheel_robot_to_behave/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/research/memory From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2028954630458401040
 
-11h ago
+12h ago
 
 ---
 
@@ -58,7 +58,7 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
 
-13h ago
+14h ago
 
 ---
 
@@ -66,7 +66,7 @@ I printed the front of the head and the back is currently printing, that hole is
 
 I've built an open source cable robot that can be used to pick and place any object in a room. You can either buy one assembled from neufangled.com or print and build it from source. In this video I go over one of the dozens of design challenges that I've tackled to make it work reliably in my house. I'm aiming to keep iterating on this hardware until I've got a cleaning appliance so reliable I can just turn it on and forget it, coming back to cleaner floors. I've made a lot of videos along the way, ranging from how I solve individual problems to a breakdown of the costs of all the parts. If this looks like something you would like, please consider giving it a try in your room. I'm working closely with all my early beta testers. Thanks for looking
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 5h ago
 
 ---
 
@@ -78,31 +78,31 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 ---
 
-**[Inspired by ROSClaw, AgenticROS is a new open source multi-AI agent robotics platform that connects ROS to OpenClaw (and other agentic systems) to enable Physical AI. It supports RealSense stereo depth cameras, ROS2, Zenoh messaging, TeleOp, and robot missions!](https://www.reddit.com/r/robotics/comments/1rkne85/inspired_by_rosclaw_agenticros_is_a_new_open/)**
-
-6h ago
-
----
-
 **[MSG force-feedback gripper beta release](https://www.reddit.com/r/robotics/comments/1rkwdjd/msg_forcefeedback_gripper_beta_release/)**
 
 Our MSG force-feedback gripper is in beta release! Gripper uses closed loop FOC stepper and supports 3 different stepper sizes and 3 different linear rail sizes! It is designed for Embodied AI, teleoperation and compliant applications. Code and design files are open source!
 
-1h ago
+2h ago
+
+---
+
+**[Inspired by ROSClaw, AgenticROS is a new open source multi-AI agent robotics platform that connects ROS to OpenClaw (and other agentic systems) to enable Physical AI. It supports RealSense stereo depth cameras, ROS2, Zenoh messaging, TeleOp, and robot missions!](https://www.reddit.com/r/robotics/comments/1rkne85/inspired_by_rosclaw_agenticros_is_a_new_open/)**
+
+7h ago
 
 ---
 
 **[South Bronx students are building, coding, and battling their own robots at the Renaissance Youth Center’s Battle Bots Competition. Come see innovation and friendly competition collide](https://www.reddit.com/r/robotics/comments/1rkstrw/south_bronx_students_are_building_coding_and/)**
 
-3h ago
+4h ago
 
 ---
 
-**[Why Most Humanoid Robots Haven't Shipped](https://www.reddit.com/r/robotics/comments/1rjzq64/why_most_humanoid_robots_havent_shipped/)**
+**[Just sharing a UWB DSTO indoor tracking demo (0.1m precision, peer-to-peer mesh)](https://www.reddit.com/r/robotics/comments/1rkdt28/just_sharing_a_uwb_dsto_indoor_tracking_demo_01m/)**
 
-Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t shipped yet. He argues that while many look impressive in demonstrations, but shipping real systems requires a level of reliability that is difficult to achieve. Walking, balance, manipulation, perception, and safety all have to work together in real environments, not controlled labs. Until those systems can operate reliably, consistently, and at a reasonable cost, most humanoid robots will remain in the prototype or demonstration stage rather than large-scale deployment.
+Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-way Observation) indoor positioning setup and thought it was worth sharing. There plenty of in-house positioning tech include Wifi/BLE/IMU/Lidar/RFID. Of all the tech, the UWB is a competitive solution with high precision/lower power consumption and save, much stable than Wifi/BLE Tech Advantages Disadvantage Wifi Cheap LowResolution(3~10m) BLE Low Power LowResolution(2~5m) IMU Without any wireless signal Drift in field application RFID Chip Only Yes/No judgement LiDar High precision High-Cost UWB High precision（0.1m） High installation Requests UWB can be used in AGV/in house mobile tracking. The UWB DSTO((Distributed Synchronization and Two-way Observation) system is based on UWB tech, different with common UWB system that composed with anchors/tags, the DSTO system is composed of multiple nodes, every node in the system can report its distance between itself with all the other nodes( also called peer-to-peer mesh), suitable for application such as anti-collision. For example in an in-house forklift system, all the forklift are auto or manually controlled, to avoid them collision to each other , this UWB DSTO could be a solution, every forklift get its distance with other forklift with frequency 20Hz, so they can be urgently stopped when they reach the safe distance limit. A simple demo of this tech at: https://youtu.be/iGKn3G82pY0 If anyone is working on similar projects or product development, feel free to discuss in the comments section ： ）
 
-1d ago
+16h ago
 
 ---
 
@@ -114,7 +114,31 @@ Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t 
 
 Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
+
+---
+
+**[Amazon cuts more jobs; this time in robotics unit](https://www.staradvertiser.com/2026/03/04/breaking-news/amazon-cuts-more-jobs-this-time-in-robotics-unit/)**
+
+SAN FRANCISCO >> Amazon on Tuesday confirmed it laid off staff across its robotics unit, with at least 100 white-collar jobs affected, two people familiar with the matter told Reuters.
+
+Honolulu Star-Advertiser • 55m ago
+
+---
+
+**[Amazon to cuts jobs in robotics division -- report (AMZN:NASDAQ)](https://seekingalpha.com/news/4560927-amazon-to-cuts-jobs-in-robotics-division---report)**
+
+Amazon cuts some robotics jobs as it ramps AI and AWS data center spending.
+
+Seeking Alpha • 1h ago
+
+---
+
+**[MassRobotics resident startups surpass $2B in funding](https://www.therobotreport.com/massrobotics-resident-startups-surpass-2b-in-funding/)**
+
+MassRobotics resident startups have collectively raised $2 billion in venture funding since launching in 2017.
+
+The Robot Report • 54m ago
 
 ---
 
@@ -130,15 +154,7 @@ The Robot Report • 1h ago
 
 Noble Machines said it already shipped AI-driven humanoids robots to a Fortune Global 500 customer within 18 months of launch.
 
-The Robot Report • 1h ago
-
----
-
-**[China Could Dominate the Physical AI Future](https://time.com/7382151/china-dominates-the-physical-ai-race/)**
-
-Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
-
-Time Magazine • 1d ago
+The Robot Report • 2h ago
 
 ---
 
@@ -146,13 +162,7 @@ Time Magazine • 1d ago
 
 Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
 
-CNBC • 8h ago
-
----
-
-**[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
-
-Bloomberg • 5h ago
+CNBC • 9h ago
 
 ---
 
@@ -160,7 +170,7 @@ Bloomberg • 5h ago
 
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
-Kraken Robotics • 23h ago
+Kraken Robotics • 1d ago
 
 ---
 
@@ -170,19 +180,11 @@ Phys.org • 1d ago
 
 ---
 
-**[Roosevelt robotics teams compete at state; coach earns award](https://www.telegraphherald.com/news/tri-state/article_ab758011-3ce9-43ce-bbe7-ed0e0d609a85.html)**
+**[China Could Dominate the Physical AI Future](https://time.com/7382151/china-dominates-the-physical-ai-race/)**
 
-A pair of robotics teams from Dubuque’s Eleanor Roosevelt Middle School competed at a state competition over the weekend, with their coach earning an award.
+Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
 
-TelegraphHerald.com • 14h ago
-
----
-
-**[Honor's Robot Phone Is the First of Its Kind, Integrating Robotics Into a Smartphone - Video](https://www.cnet.com/videos/honors-robot-phone-is-the-first-of-its-kind-integrating-robotics-into-a-smartphone/)**
-
-CNET's Katie Collins takes a first look at Honor's Robot Phone at Mobile World Congress 2026 in Barcelona, Spain.
-
-CNET • 3h ago
+Time Magazine • 1d ago
 
 ---
 
@@ -206,7 +208,7 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 📺 FUN Robotics Network
 
-👁️ 4K • 👍 74 • 💬 1 • ⏱️ 1:11 • 22h ago
+👁️ 4K • 👍 74 • 💬 1 • ⏱️ 1:11 • 23h ago
 
 ---
 
@@ -234,7 +236,7 @@ At MWC 2026 in Barcelona, we go hands-on with Honor's bold vision for embodied A
 
 📺 XDollHub
 
-👁️ 8K • 👍 72 • 💬 3 • ⏱️ 0:14 • 7h ago
+👁️ 8K • 👍 72 • 💬 3 • ⏱️ 0:14 • 8h ago
 
 ---
 
@@ -244,7 +246,7 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 23K • 👍 1K • 💬 171 • ⏱️ 0:13 • 18h ago
+👁️ 23K • 👍 1K • 💬 171 • ⏱️ 0:13 • 19h ago
 
 ---
 

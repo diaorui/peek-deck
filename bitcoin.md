@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T21:35:55.748533+00:00'
+updated: '2026-03-04T22:33:33.957237+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 21:35 UTC  
+**Last Updated:** March 04, 2026 at 22:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,500.00
+### $73,426.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +7.9%  
-**7d:** +8.8%  
-**30d:** -3.1%  
-**90d:** -17.6%  
-**1y:** -18.7%  
+**24h:** +7.3%  
+**7d:** +8.5%  
+**30d:** -3.3%  
+**90d:** -17.8%  
+**1y:** -18.9%  
 
 ---
 
@@ -79,29 +79,13 @@ Rank #1
 
 **[The Bitcoin CEO ordered me to post this here](https://www.reddit.com/r/Bitcoin/comments/1rkqmp7/the_bitcoin_ceo_ordered_me_to_post_this_here/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Watch -- this is a HUGE milestone for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rkpcu1/watch_this_is_a_huge_milestone_for_bitcoin/)**
 
-5h ago
-
----
-
-**[BITCOIN JUST HIT $74,000 🚀](https://www.reddit.com/r/Bitcoin/comments/1rkuva2/bitcoin_just_hit_74000/)**
-
-Where do you think it goes next?
-
-2h ago
-
----
-
-**[Let’s go BTC](https://www.reddit.com/r/Bitcoin/comments/1rkotoy/lets_go_btc/)**
-
-Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
-
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +93,15 @@ Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
 that turned out to be a lie :-(
 
-5h ago
+6h ago
+
+---
+
+**[Let’s go BTC](https://www.reddit.com/r/Bitcoin/comments/1rkotoy/lets_go_btc/)**
+
+Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
+
+6h ago
 
 ---
 
@@ -117,7 +109,7 @@ that turned out to be a lie :-(
 
 Genuine question. With all the payment apps and instant bank transfers now, I want to know if people still find BTC faster for moving money around online. Ive noticed some platforms still lean heavily on Bitcoin for deposits and withdrawals because it settles quicker than traditional banking. I even saw a few services like Bracco using BTC payouts instead of waiting days for bank transfers. I want to know what people here think. Is Bitcoin still the best option for fast online payments or have other methods caught up?
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +117,7 @@ Genuine question. With all the payment apps and instant bank transfers now, I wa
 
 I stopped trying to time bitcoin and just started DCAing every week. Honestly wish I did this years ago instead of staring at charts like an idiot. Everyone told me to wait for the dip, wait for the cycle bottom, wait for 50k again. Meanwhile bitcoin went from 60k to 100k while I was waiting. The people who were DCAing the whole time are up and the people who were "waiting for the perfect entry" are still waiting. I genuinely think most people lose money in crypto not because they buy the wrong thing but because they try to be smarter than the market. Just buying a fixed amount every week and forgetting about it has outperformed every trade I've ever made. The funniest part is people will call this boring or say DCA is for people who don't know what they're doing. Cool. My boring strategy is outperforming your leveraged long that got liquidated last Tuesday. Am I wrong here or is DCA genuinely the most underrated strategy in crypto?
 
-4h ago
+5h ago
 
 ---
 
@@ -133,21 +125,27 @@ I stopped trying to time bitcoin and just started DCAing every week. Honestly wi
 
 Oh, look who is back from the dead, again.
 
-4h ago
+5h ago
 
 ---
 
 **[WSJ: "Kraken Becomes First Crypto Firm to Win Access to Fed’s Core Payments System".](https://www.reddit.com/r/Bitcoin/comments/1rkug8c/wsj_kraken_becomes_first_crypto_firm_to_win/)**
 
-🔗 [wsj.com](https://www.wsj.com/finance/regulation/kraken-becomes-first-crypto-firm-to-win-access-to-feds-core-payments-system-b5d17031?gaa_at=eafs&gaa_n=AWEtsqfdVnY79XD5mBPAvp1mBiF2DlSLnb1xK97gZ7tyi7GtH1chamQqQaXca7NtHTM%3D&gaa_ts=69a88667&gaa_sig=tFrW3fhMtKBdT4S9yS-gp9-crKSVkzBrpWivmJMpA7PTLVuJqnXVzRFekQ5q1Vavme4-OSNZZ6iivihi1Xg5yQ%3D%3D) • 2h ago
+🔗 [wsj.com](https://www.wsj.com/finance/regulation/kraken-becomes-first-crypto-firm-to-win-access-to-feds-core-payments-system-b5d17031?gaa_at=eafs&gaa_n=AWEtsqfdVnY79XD5mBPAvp1mBiF2DlSLnb1xK97gZ7tyi7GtH1chamQqQaXca7NtHTM%3D&gaa_ts=69a88667&gaa_sig=tFrW3fhMtKBdT4S9yS-gp9-crKSVkzBrpWivmJMpA7PTLVuJqnXVzRFekQ5q1Vavme4-OSNZZ6iivihi1Xg5yQ%3D%3D) • 3h ago
 
 ---
 
-**[so what now?](https://www.reddit.com/r/Bitcoin/comments/1rkh4bq/so_what_now/)**
+**[Bitcoin’s story is just getting started — a short video on its past, present, and future](https://www.reddit.com/r/Bitcoin/comments/1rkud5i/bitcoins_story_is_just_getting_started_a_short/)**
 
-When the-back-over-100k-faster-than-projected thesis was presented many people reacted with hostility but.. Look at just what happened to the trend. Some people wanted this to be 2022 but we are not in that position, its a different time and setup. A rush might have just started, looks like.
+3h ago
 
-12h ago
+---
+
+**[The Bitcoin network is reaching the 20,000,000 coins milestone within one week. Mining the final million coins will take over 100 years.](https://www.reddit.com/r/Bitcoin/comments/1rkenpi/the_bitcoin_network_is_reaching_the_20000000/)**
+
+If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
+
+15h ago
 
 ---
 
@@ -155,11 +153,31 @@ When the-back-over-100k-faster-than-projected thesis was presented many people r
 
 ## Google News: "bitcoin"
 
-**[Bitcoin is behaving like a safe-haven. Here’s why that’s weird](https://finance.yahoo.com/news/bitcoin-behaving-safe-haven-why-175154080.html)**
+**[Stock Market Today: Major Indexes Surge After Sell-Off; Bitcoin, Crypto-Tied Stocks Soar](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-03042026-11918929)**
 
-Unlike in the past, Bitcoin has shown surprising resilience amid the Iran conflict. Meanwhile, gold has taken a major hit. Analysts told DL News that the market is pricing in a 'contained conflict.'
+Stocks futures were little changed Wednesday, a day after major indexes fell but closed well above early lows, as Middle East fighting entered its fifth day.
 
-Yahoo Finance • 1d ago
+Investopedia • 1h ago
+
+---
+
+**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqeB9O8GceeZ1Wkev3AtzMDxGTmfXKaE4CetmWTuLsrfju36a1_z0LdQ&gaa_ts=69a8b6a3&gaa_sig=qY2VUCtH5Tni3_IHFXTU2FG3dWZPEN2lpcNOLWZh8x3mweeV9IHkY3hRdQ_umr8NnBnbQdgT7sUEC32lSPgvww%3D%3D)**
+
+Barron's • 6h ago
+
+---
+
+**[Stock market today: Dow, S&P 500, Nasdaq rebound on hopes of Iran deescalation as bitcoin surges](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rebound-on-hopes-of-iran-deescalation-as-bitcoin-surges-210937794.html)**
+
+Investors are weighing a NYT report that Iran has indirectly approached the US to discuss terms for ending the conflict.
+
+Yahoo Finance • 55m ago
+
+---
+
+**[AI Boom Spurs Bitcoin-Sales Threat at Miners Holding $8 Billion](https://www.bloomberg.com/news/articles/2026-03-04/ai-boom-spurs-bitcoin-sales-threat-at-miners-holding-8-billion)**
+
+Bloomberg • 1h ago
 
 ---
 
@@ -167,7 +185,7 @@ Yahoo Finance • 1d ago
 
 Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -179,49 +197,19 @@ CoinDesk • 14h ago
 
 ---
 
-**[Billionaire Ray Dalio sends harsh warning on Bitcoin](https://finance.yahoo.com/news/billionaire-ray-dalio-sends-harsh-223701526.html)**
+**[Are Bitcoin Critics Holding Price Back From $750,000? Ray Dalio’s Warning Is ‘Opportunity,' Says Bitwise Exec](https://finance.yahoo.com/news/bitcoin-critics-holding-price-back-113215129.html)**
 
-Billionaire Ray Dalio is not shy when it comes to commenting about Bitcoin. One thing that he time and again repeats is not to compare Bitcoin with gold. The Bridgewater Associates founder appeared on the recent "All-In Podcast" of Mar. 3 and laid out a detailed critique of Bitcoin, arguing ...
+Ray Dalio has again questioned Bitcoin’s role as money. Matt Hougan sees criticism as bullish for Bitcoin's price. Crypto industry figures defend Bitcoin’s long-term case. ...
 
-Yahoo Finance • 22h ago
-
----
-
-**[Bitcoin Rally Sharpens As U.S.-Iran War Escalates](https://www.forbes.com/sites/antoniopequenoiv/2026/03/04/bitcoin-spikes-nearly-8-as-rally-accelerates-amid-us-iran-war/)**
-
-Forbes • 1h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Better Buy During the Crypto Crash: Bitcoin or XRP?](https://www.nasdaq.com/articles/better-buy-during-crypto-crash-bitcoin-or-xrp)**
+**[Bitcoin is making a bottom, says VanEck Funds' Jan van Eck](https://www.cnbc.com/video/2026/03/02/bitcoin-is-making-a-bottom-says-vaneck-funds-jan-van-eck.html)**
 
-Key PointsBitcoin is widely considered a store of value within the broader cryptocurrency landscape.
+CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
 
-Nasdaq • 10h ago
-
----
-
-**[Bitcoin ETF news: BTC funds see $1.7 billion in recent inflows](https://www.coindesk.com/markets/2026/03/04/institutional-investors-may-be-buying-the-dip-as-traders-pour-usd1-7-billion-into-spot-bitcoin-etfs)**
-
-Fresh allocations to spot bitcoin ETFs suggest investors are growing more comfortable despite the asset still being down 16% this year.
-
-CoinDesk • 4h ago
-
----
-
-**['If you want to be wrong, follow the masses': K33 says bitcoin deeply oversold with no compelling reason to sell](https://www.theblock.co/post/392199/if-you-want-to-be-wrong-follow-the-masses-k33-says-bitcoin-deeply-oversold-with-no-compelling-reason-to-sell)**
-
-K33 said bitcoin is heavily oversold after the prolonged sell-off, arguing there is "no compelling reason" to sell BTC at current levels.
-
-The Block • 8h ago
-
----
-
-**[AI Agents Show Strong Preference for Bitcoin Over Fiat, BPI Study Finds](https://bitcoinmagazine.com/news/ai-agents-show-strong-preference-bitcoin)**
-
-AI agents prefer Bitcoin as a store of value and stablecoins for payments, rejecting traditional fiat in controlled monetary experiments.
-
-Bitcoin Magazine • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -230,6 +218,14 @@ Bitcoin Magazine • 1d ago
 Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
 
 Fox News • 1d ago
+
+---
+
+**[Strategy (MSTR), Coinbase (COIN) Surge as Bitcoin Pumps Near $73,000](https://bitcoinmagazine.com/markets/strategy-mstr-coinbase-bitcoin-jumps)**
+
+Shares of Strategy, Inc. (MSTR) and Coinbase (COIN) jumped on Wednesday, marking a sharp rebound for the Bitcoin proxies after months of losses.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -275,7 +271,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 **[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
 
-⬆️ 2 • 💬 2 • 1d ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
+⬆️ 2 • 💬 2 • 2d ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
 
 ---
 
@@ -319,7 +315,7 @@ Bitcoin #Crypto #Finance Bitcoin is breaking out past $71000 as momentum returns
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 794 • 💬 223 • ⏱️ 35:08 • 6h ago
+👁️ 17K • 👍 794 • 💬 223 • ⏱️ 35:08 • 7h ago
 
 ---
 
@@ -329,7 +325,7 @@ Ran breaks down why this moment could be the ultimate test for Bitcoin as global
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 42 • ⏱️ 22:44 • 6h ago
+👁️ 18K • 👍 1K • 💬 42 • ⏱️ 22:44 • 7h ago
 
 ---
 
@@ -339,7 +335,7 @@ Global markets are in panic mode after a shocking escalation in the Middle East:
 
 📺 Crypto Insider
 
-👁️ 8K • 👍 540 • 💬 28 • ⏱️ 4:36 • 3h ago
+👁️ 8K • 👍 540 • 💬 28 • ⏱️ 4:36 • 4h ago
 
 ---
 
@@ -349,7 +345,7 @@ Protect Your Identity (2-Week Free Trial) Take control of your digital security 
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 558 • 💬 103 • ⏱️ 10:38 • 9h ago
+👁️ 10K • 👍 558 • 💬 103 • ⏱️ 10:38 • 10h ago
 
 ---
 
@@ -359,7 +355,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 232 • ⏱️ 15:07 • 22h ago
+👁️ 32K • 👍 2K • 💬 232 • ⏱️ 15:07 • 23h ago
 
 ---
 
@@ -379,7 +375,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 242 • 💬 67 • ⏱️ 50:12 • 5h ago
+👁️ 4K • 👍 242 • 💬 67 • ⏱️ 50:12 • 6h ago
 
 ---
 
@@ -389,7 +385,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 6K • 👍 564 • 💬 201 • ⏱️ 10:25 • 3h ago
+👁️ 6K • 👍 564 • 💬 201 • ⏱️ 10:25 • 4h ago
 
 ---
 
@@ -399,7 +395,7 @@ Bill Maher takes aim at Bitcoin and the massive environmental cost of cryptocurr
 
 📺 The Unfiltered Republic
 
-👁️ 6K • 👍 216 • 💬 9 • ⏱️ 0:48 • 17h ago
+👁️ 6K • 👍 216 • 💬 9 • ⏱️ 0:48 • 18h ago
 
 ---
 
