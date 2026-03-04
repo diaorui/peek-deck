@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-04T20:38:23.998371+00:00'
+updated: '2026-03-04T21:35:55.754584+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 20:38 UTC  
+**Last Updated:** March 04, 2026 at 21:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $262.33B
+**Market Cap:** $259.48B
 Rank #2
 
 **Circulating Supply:** 120,692,150 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.0%
+-56.5%
 
 **All-Time Low:** $0.43
-+502116.0%
++496258.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2016 - one of the earliest token contracts on Ethereum. The original source used #require directives from the Mix IDE preprocessor, which hasn't existed for years. The code was never verified on Etherscan. I spent a while reconstructing the source from bytecode analysis: Brute-forced all 12 function selectors via keccak256 to recover the exact function names (turns out Gav used changeOwner not setOwner, nameRegAddress not name) Discovered the contract has zero events, no inheritance, and a flat storage layout - unusual for something based on dapp-bin's coin.sol Found that function declaration order matters in solc 0.3.x because it controls where the shared return trampoline gets placed in bytecode The constructor registers itself as "GavCoin" in the old global NameReg contract and mints 1,000,000 tokens to the deployer, plus has a proof-of-work mining function anyone could call End result: exact byte-for-byte match of the 905-byte runtime bytecode across solc v0.1.6 through v0.3.2 with optimizer enabled. Source and one-command verification script: https://github.com/cartoonitunes/gavcoin-verify The problem: Etherscan's verification form only supports solc v0.4.11 and newer. GavCoin was compiled with v0.3.1. So I've emailed them requesting manual verification. I also submitted verification requests for two other historic contracts from the same era - Alex Van de Sande's Unicorn Meat system (the MeatConversionCalculator and MeatGrindersAssociation). The Grinder Association is one of the earliest DAOs on Ethereum, featuring quadratic voting and on-chain proposals. Source for those is in avsa's original gist. These early contracts are fascinating. Pre-ERC-20, pre-EIP, people were just experimenting. Proof-of-work token mining, on-chain name registries, quadratic voting DAOs - all in 2016. If anyone has other unverified historic contracts they'd like help with, happy to share the approach.
 
-18h ago
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ Over the past year, many people I talk to have expressed worry about two topics:
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 4h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 5h ago
 
 ---
 
@@ -156,7 +156,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 Analysts say large investors are increasingly locking up ETH for yield rather than positioning to sell into market rallies.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 17h ago
 
 Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 22h ago
 
 Ethereum is rallying hard today, as the crypto sector finally shows some signs of life.
 
-The Motley Fool • 43m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Motley Fool • 43m ago
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -188,13 +188,13 @@ CoinDesk • 2h ago
 
 Ethereum is rallying hard today, as the crypto sector finally shows some signs of life.
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqeLr9oVx-LzIHvRhpq_l_mxZ4DFvzlWxed_017dKy7M2feOr-h87QPg&gaa_ts=69a89baa&gaa_sig=T80M8AaDGJRz0y0b7CTuqOFgwyh5s04gGddxQZYJ5MUWXIW2taISx8Gi-29OE64cNYPhY8E9ynCr5t5pDjfZZQ%3D%3D)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
@@ -210,7 +210,7 @@ dlnews.com • 1d ago
 
 Key PointsEthereum is a general-purpose smart contract chain.
 
-Nasdaq • 23h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ Nasdaq • 23h ago
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 10h ago
+Polymarket • 11h ago
 
 ---
 
@@ -226,7 +226,7 @@ Polymarket • 10h ago
 
 Ethereum price started a fresh increase but failed near $2,080. ETH is now correcting gains and might decline further below $1,920.Ethereum Price Dips To SupportEthereum price attempted a fresh increase above the $2,000 resistance, like Bitcoin. ETH price rallied above the $2,020 and $2,050 resista…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
@@ -244,53 +244,23 @@ Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum 
 
 ---
 
-**[BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mDgfzkAUcps)**
-
-BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 280 • 💬 88 • ⏱️ 16:36 • 22h ago
-
----
-
 **[ETH ABOUT TO BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xED1ttF9iL4)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 363 • 👍 16 • ⏱️ 4:40 • 10h ago
+👁️ 468 • 👍 20 • ⏱️ 4:40 • 11h ago
 
 ---
 
-**[ETH Price Analysis: Corrective Bounce or New Low Incoming?](https://www.youtube.com/watch?v=WARtt4mjcyc)**
+**[BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mDgfzkAUcps)**
 
-DISCORD MEMBERSHIPS Patreon Membership → https://www.patreon.com/c/KGTrading YouTube Membership ...
+BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
 
-📺 KG TRADING - Crypto Elliott Waves
+📺 Crypto World
 
-👁️ 116 • 👍 5 • 💬 18 • ⏱️ 6:49 • 9h ago
-
----
-
-**[BUY ETHEREUM!](https://www.youtube.com/watch?v=LfrCGteIJsE)**
-
-Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/PainofCrypt0 Instagram ...
-
-📺 Pain of Crypto
-
-👁️ 4K • 👍 131 • 💬 34 • ⏱️ 6:27 • 1d ago
-
----
-
-**[BTC и ETH. ФИКСИРОВАТЬ ПРИБЫЛЬ ИЛИ ЖДАТЬ $72,000?](https://www.youtube.com/watch?v=kqXciWdHTxc)**
-
-Месяц назад я открыл две спекулятивные сделки – по Bitcoin и Ethereum. Средний вход: BTC – $63400 ETH – $1825 ...
-
-📺 Егор Попковский
-
-👁️ 1K • 👍 102 • 💬 15 • ⏱️ 7:10 • 6h ago
+👁️ 9K • 👍 285 • 💬 138 • ⏱️ 16:36 • 23h ago
 
 ---
 
@@ -300,7 +270,27 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 121 • ⏱️ 10:14 • 1d ago
+👁️ 58K • 👍 2K • 💬 124 • ⏱️ 10:14 • 1d ago
+
+---
+
+**[BUY ETHEREUM!](https://www.youtube.com/watch?v=LfrCGteIJsE)**
+
+Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/PainofCrypt0 Instagram ...
+
+📺 Pain of Crypto
+
+👁️ 4K • 👍 133 • 💬 34 • ⏱️ 6:27 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: THE END!!!!!!!!!!!](https://www.youtube.com/watch?v=ESyJ5lBpO3Q)**
+
+Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 narrative isnt the best for crypto people right now.
+
+📺 Thomas Kralow
+
+👁️ 29K • 👍 3K • 💬 63 • ⏱️ 8:18 • 2d ago
 
 ---
 
@@ -310,27 +300,37 @@ Well, it looks like someone finally realized that something had to be done or th
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 782 • 💬 63 • ⏱️ 27:48 • 2d ago
+👁️ 8K • 👍 782 • 💬 63 • ⏱️ 27:48 • 2d ago
 
 ---
 
-**[🚨ОТСКОК ПЕРЕД ПРОПАСТЬЮ? | КИТЫ УЖЕ ПРОДАЮТ (BTC, ETH)](https://www.youtube.com/watch?v=9hRa4LOanxM)**
+**[🥇Ethereum (ETH) : Good For Next 5 Years or Time to Sell?](https://www.youtube.com/watch?v=E0DMvj1jH7k)**
 
-Telegram (аналитика, точки входа, главные мысли): https://t.me/+10iGTM2wT3hkOGVi Бесплатный ТГ ...
+Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ...
 
-📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
+📺 Kirtish Vyas (CoinLyte)
 
-👁️ 21K • 👍 2K • 💬 231 • ⏱️ 20:27 • 1d ago
+👁️ 2K • 👍 122 • 💬 11 • ⏱️ 17:33 • 11h ago
 
 ---
 
-**[QUAL SERÁ O FUTURO DO ETHEREUM?](https://www.youtube.com/watch?v=HjQBbwxDgbo)**
+**[BTC и ETH. ФИКСИРОВАТЬ ПРИБЫЛЬ ИЛИ ЖДАТЬ $72,000?](https://www.youtube.com/watch?v=kqXciWdHTxc)**
 
-Qual será o futuro do Ethereum nos próximos anos? Neste vídeo, faço uma análise estratégica sobre os vetores que realmente ...
+Месяц назад я открыл две спекулятивные сделки – по Bitcoin и Ethereum. Средний вход: BTC – $63400 ETH – $1825 ...
 
-📺 Orlando on Crypto
+📺 Егор Попковский
 
-👁️ 6K • 👍 890 • 💬 27 • ⏱️ 15:57 • 1d ago
+👁️ 2K • 👍 125 • 💬 16 • ⏱️ 7:10 • 7h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=qZ_aRpWh1ZU)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 175 • 💬 7 • ⏱️ 6:13 • 1d ago
 
 ---
 

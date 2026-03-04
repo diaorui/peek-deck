@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T20:38:23.992269+00:00'
+updated: '2026-03-04T21:35:55.748533+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 20:38 UTC  
+**Last Updated:** March 04, 2026 at 21:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1474.51B
+**Market Cap:** $1463.11B
 Rank #1
 
-**Circulating Supply:** 19,997,775 BTC
+**Circulating Supply:** 19,997,812 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--41.5%
+-41.9%
 
 **All-Time Low:** $67.81
-+108583.1%
++107833.9%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[The Bitcoin CEO ordered me to post this here](https://www.reddit.com/r/Bitcoin/comments/1rkqmp7/the_bitcoin_ceo_ordered_me_to_post_this_here/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Watch -- this is a HUGE milestone for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rkpcu1/watch_this_is_a_huge_milestone_for_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Where do you think it goes next?
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ Where do you think it goes next?
 
 Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
 that turned out to be a lie :-(
 
-4h ago
+5h ago
 
 ---
 
@@ -117,7 +117,7 @@ that turned out to be a lie :-(
 
 Genuine question. With all the payment apps and instant bank transfers now, I want to know if people still find BTC faster for moving money around online. Ive noticed some platforms still lean heavily on Bitcoin for deposits and withdrawals because it settles quicker than traditional banking. I even saw a few services like Bracco using BTC payouts instead of waiting days for bank transfers. I want to know what people here think. Is Bitcoin still the best option for fast online payments or have other methods caught up?
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Genuine question. With all the payment apps and instant bank transfers now, I wa
 
 I stopped trying to time bitcoin and just started DCAing every week. Honestly wish I did this years ago instead of staring at charts like an idiot. Everyone told me to wait for the dip, wait for the cycle bottom, wait for 50k again. Meanwhile bitcoin went from 60k to 100k while I was waiting. The people who were DCAing the whole time are up and the people who were "waiting for the perfect entry" are still waiting. I genuinely think most people lose money in crypto not because they buy the wrong thing but because they try to be smarter than the market. Just buying a fixed amount every week and forgetting about it has outperformed every trade I've ever made. The funniest part is people will call this boring or say DCA is for people who don't know what they're doing. Cool. My boring strategy is outperforming your leveraged long that got liquidated last Tuesday. Am I wrong here or is DCA genuinely the most underrated strategy in crypto?
 
-3h ago
+4h ago
 
 ---
 
@@ -133,13 +133,13 @@ I stopped trying to time bitcoin and just started DCAing every week. Honestly wi
 
 Oh, look who is back from the dead, again.
 
-3h ago
+4h ago
 
 ---
 
 **[WSJ: "Kraken Becomes First Crypto Firm to Win Access to Fed’s Core Payments System".](https://www.reddit.com/r/Bitcoin/comments/1rkug8c/wsj_kraken_becomes_first_crypto_firm_to_win/)**
 
-🔗 [wsj.com](https://www.wsj.com/finance/regulation/kraken-becomes-first-crypto-firm-to-win-access-to-feds-core-payments-system-b5d17031?gaa_at=eafs&gaa_n=AWEtsqfdVnY79XD5mBPAvp1mBiF2DlSLnb1xK97gZ7tyi7GtH1chamQqQaXca7NtHTM%3D&gaa_ts=69a88667&gaa_sig=tFrW3fhMtKBdT4S9yS-gp9-crKSVkzBrpWivmJMpA7PTLVuJqnXVzRFekQ5q1Vavme4-OSNZZ6iivihi1Xg5yQ%3D%3D) • 1h ago
+🔗 [wsj.com](https://www.wsj.com/finance/regulation/kraken-becomes-first-crypto-firm-to-win-access-to-feds-core-payments-system-b5d17031?gaa_at=eafs&gaa_n=AWEtsqfdVnY79XD5mBPAvp1mBiF2DlSLnb1xK97gZ7tyi7GtH1chamQqQaXca7NtHTM%3D&gaa_ts=69a88667&gaa_sig=tFrW3fhMtKBdT4S9yS-gp9-crKSVkzBrpWivmJMpA7PTLVuJqnXVzRFekQ5q1Vavme4-OSNZZ6iivihi1Xg5yQ%3D%3D) • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Oh, look who is back from the dead, again.
 
 When the-back-over-100k-faster-than-projected thesis was presented many people reacted with hostility but.. Look at just what happened to the trend. Some people wanted this to be 2022 but we are not in that position, its a different time and setup. A rush might have just started, looks like.
 
-11h ago
+12h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 1d ago
 
 Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
 
-Business Insider • 48m ago
+Business Insider • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Business Insider • 48m ago
 
 The Bridgewater founder dismissed bitcoin's safe-haven credentials on the same day gold dropped 3% while bitcoin fell less than 1%.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 22h ago
 
 **[Bitcoin Rally Sharpens As U.S.-Iran War Escalates](https://www.forbes.com/sites/antoniopequenoiv/2026/03/04/bitcoin-spikes-nearly-8-as-rally-accelerates-amid-us-iran-war/)**
 
-Forbes • 46m ago
+Forbes • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ Forbes • 46m ago
 
 Key PointsBitcoin is widely considered a store of value within the broader cryptocurrency landscape.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -205,7 +205,7 @@ Nasdaq • 9h ago
 
 Fresh allocations to spot bitcoin ETFs suggest investors are growing more comfortable despite the asset still being down 16% this year.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -213,7 +213,7 @@ CoinDesk • 3h ago
 
 K33 said bitcoin is heavily oversold after the prolonged sell-off, arguing there is "no compelling reason" to sell BTC at current levels.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -283,7 +283,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 Complete operating system for Bitcoiners
 
-⬆️ 2 • 💬 1 • 6h ago • [opacore.com](https://opacore.com)
+⬆️ 2 • 💬 1 • 7h ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -319,27 +319,7 @@ Bitcoin #Crypto #Finance Bitcoin is breaking out past $71000 as momentum returns
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 683 • 💬 155 • ⏱️ 35:08 • 5h ago
-
----
-
-**[Why I’m NOT Buying Bitcoin at $70K (Jamie Dimon&#39;s GRAVE Warning)](https://www.youtube.com/watch?v=bOzRI0Teei4)**
-
-Bitcoin just ripped to $70K on rumors of a market structure bill. But speculation is not liquidity and hope is not a catalyst. Banks are ...
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 2K • 💬 164 • ⏱️ 15:07 • 21h ago
-
----
-
-**[Bitcoin Holders, This Is Important (Update)](https://www.youtube.com/watch?v=VTM-yMdj5EU)**
-
-Protect Your Identity (2-Week Free Trial) Take control of your digital security with my sponsor Aura — try it free for 14 days: ...
-
-📺 Aaron Bennett
-
-👁️ 8K • 👍 514 • 💬 100 • ⏱️ 10:38 • 8h ago
+👁️ 17K • 👍 794 • 💬 223 • ⏱️ 35:08 • 6h ago
 
 ---
 
@@ -349,7 +329,37 @@ Ran breaks down why this moment could be the ultimate test for Bitcoin as global
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 35 • ⏱️ 22:44 • 5h ago
+👁️ 18K • 👍 1K • 💬 42 • ⏱️ 22:44 • 6h ago
+
+---
+
+**[Bitcoin Is About To Do Something Crazy!](https://www.youtube.com/watch?v=FBkMqEEG-EE)**
+
+Global markets are in panic mode after a shocking escalation in the Middle East: stocks crashing, oil surging, and investors ...
+
+📺 Crypto Insider
+
+👁️ 8K • 👍 540 • 💬 28 • ⏱️ 4:36 • 3h ago
+
+---
+
+**[Bitcoin Holders, This Is Important (Update)](https://www.youtube.com/watch?v=VTM-yMdj5EU)**
+
+Protect Your Identity (2-Week Free Trial) Take control of your digital security with my sponsor Aura — try it free for 14 days: ...
+
+📺 Aaron Bennett
+
+👁️ 10K • 👍 558 • 💬 103 • ⏱️ 10:38 • 9h ago
+
+---
+
+**[Why I’m NOT Buying Bitcoin at $70K (Jamie Dimon&#39;s GRAVE Warning)](https://www.youtube.com/watch?v=bOzRI0Teei4)**
+
+Bitcoin just ripped to $70K on rumors of a market structure bill. But speculation is not liquidity and hope is not a catalyst. Banks are ...
+
+📺 Simply Bitcoin
+
+👁️ 32K • 👍 2K • 💬 232 • ⏱️ 15:07 • 22h ago
 
 ---
 
@@ -359,7 +369,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 60 • ⏱️ 52:08 • 5h ago
+👁️ 18K • 👍 1K • 💬 186 • ⏱️ 52:08 • 6h ago
 
 ---
 
@@ -369,27 +379,17 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 226 • 💬 15 • ⏱️ 50:12 • 4h ago
+👁️ 4K • 👍 242 • 💬 67 • ⏱️ 50:12 • 5h ago
 
 ---
 
-**[BITCOIN PUMPING... YOU NEED TO SEE THIS CRITICAL CHART](https://www.youtube.com/watch?v=6vjQl8NfYr4)**
+**[WHY EVERYONE IS *WRONG* ABOUT THIS BITCOIN CYCLE](https://www.youtube.com/watch?v=FaNLaGLsPFk)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
-📺 Satoshi Stacker
+📺 Tyler S
 
-👁️ 14K • 👍 659 • 💬 85 • ⏱️ 13:18 • 10h ago
-
----
-
-**[🚨Bitcoin Breaking Out! Key Targets To The Upside!](https://www.youtube.com/watch?v=n9fIbAuntFw)**
-
-Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandles ...
-
-📺 Frankie Candles 
-
-👁️ 2K • 👍 254 • 2h ago
+👁️ 6K • 👍 564 • 💬 201 • ⏱️ 10:25 • 3h ago
 
 ---
 
@@ -399,17 +399,17 @@ Bill Maher takes aim at Bitcoin and the massive environmental cost of cryptocurr
 
 📺 The Unfiltered Republic
 
-👁️ 5K • 👍 184 • 💬 8 • ⏱️ 0:48 • 16h ago
+👁️ 6K • 👍 216 • 💬 9 • ⏱️ 0:48 • 17h ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=nYTWOFx1BrQ)**
+**[Bitcoin: A Bear Market State of Mind](https://www.youtube.com/watch?v=T-Nf7ZfarOs)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+Bitcoin has been in a bear market for several months. Let's talk about the bear market state of mind. Into The Cryptoverse ...
 
-📺 Klaudia Bieszcz
+📺 Benjamin Cowen
 
-👁️ 3K • 👍 1K • 1h ago
+👁️ 65K • 👍 4K • 💬 159 • ⏱️ 19:12 • 1d ago
 
 ---
 

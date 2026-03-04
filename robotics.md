@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T20:38:24.001710+00:00'
+updated: '2026-03-04T21:35:55.757797+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 20:38 UTC  
+**Last Updated:** March 04, 2026 at 21:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humanoid robot process here. We open-sourced the legs and will open-source the full body soon. Your questions and comments along the way really helped us a lot. Appreciate it! A few days ago more than 50 people on X told us they'd be interested in a DIY humanoid robot kit. So we did it. We put together all parts from mechanical to electrical to build the Asimov robot. It's 1.20m, 35kg, 25+2 degrees of freedom (+2 comes from the articulated toe!). Asimov is a really powerful robot with almost the same specs as the Unitree G1. Some parts like the arms are actually stronger. We call the kit "Here Be Dragons", a name used for highly experimental, beta-before-beta releases. The kind where you're one of the first users, talking directly to the engineers, reporting bugs, and getting a fix the same day. We're now preparing a user manual and assembly videos too. The target price is $15,000, which is higher than our current BOM cost. We're taking pre-orders with a $499 deposit to find serious builders and learn what they need. We got 14 orders in a few hours and are planning to close pre-orders soon to handle it properly. So our build-in-public journey is turning into a business earlier than expected, and we're not looking for profit from the DIY Kit. Wanted to share with you all. If you're hacking something, please do share with the community. Details for the pre-order: https://asimov.inc/diy-kit
 
-6h ago
+7h ago
 
 ---
 
 **[Not Exactly How I Expected a Wheel Robot to Behave](https://www.reddit.com/r/robotics/comments/1rkrk1h/not_exactly_how_i_expected_a_wheel_robot_to_behave/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/research/memory From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2028954630458401040
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
 
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ I printed the front of the head and the back is currently printing, that hole is
 
 I've built an open source cable robot that can be used to pick and place any object in a room. You can either buy one assembled from neufangled.com or print and build it from source. In this video I go over one of the dozens of design challenges that I've tackled to make it work reliably in my house. I'm aiming to keep iterating on this hardware until I've got a cleaning appliance so reliable I can just turn it on and forget it, coming back to cleaner floors. I've made a lot of videos along the way, ranging from how I solve individual problems to a breakdown of the costs of all the parts. If this looks like something you would like, please consider giving it a try in your room. I'm working closely with all my early beta testers. Thanks for looking
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 4h ago
 
 ---
 
@@ -80,7 +80,7 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 **[Inspired by ROSClaw, AgenticROS is a new open source multi-AI agent robotics platform that connects ROS to OpenClaw (and other agentic systems) to enable Physical AI. It supports RealSense stereo depth cameras, ROS2, Zenoh messaging, TeleOp, and robot missions!](https://www.reddit.com/r/robotics/comments/1rkne85/inspired_by_rosclaw_agenticros_is_a_new_open/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -88,13 +88,13 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 Our MSG force-feedback gripper is in beta release! Gripper uses closed loop FOC stepper and supports 3 different stepper sizes and 3 different linear rail sizes! It is designed for Embodied AI, teleoperation and compliant applications. Code and design files are open source!
 
-17m ago
+1h ago
 
 ---
 
 **[South Bronx students are building, coding, and battling their own robots at the Renaissance Youth Center’s Battle Bots Competition. Come see innovation and friendly competition collide](https://www.reddit.com/r/robotics/comments/1rkstrw/south_bronx_students_are_building_coding_and/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -114,7 +114,7 @@ Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t 
 
 Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -122,7 +122,7 @@ Business Insider • 1h ago
 
 In addition to humanoid robots from Agibot, Boston Dynamics, Leju, and Unitree, AW 2026 showed opportunities for physical AI in South Korea.
 
-The Robot Report • 4m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -130,7 +130,7 @@ The Robot Report • 4m ago
 
 Noble Machines said it already shipped AI-driven humanoids robots to a Fortune Global 500 customer within 18 months of launch.
 
-The Robot Report • 54m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -146,13 +146,13 @@ Time Magazine • 1d ago
 
 Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
 
-Bloomberg • 4h ago
+Bloomberg • 5h ago
 
 ---
 
@@ -160,7 +160,7 @@ Bloomberg • 4h ago
 
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
-Kraken Robotics • 22h ago
+Kraken Robotics • 23h ago
 
 ---
 
@@ -174,7 +174,7 @@ Phys.org • 1d ago
 
 A pair of robotics teams from Dubuque’s Eleanor Roosevelt Middle School competed at a state competition over the weekend, with their coach earning an award.
 
-TelegraphHerald.com • 13h ago
+TelegraphHerald.com • 14h ago
 
 ---
 
@@ -182,7 +182,7 @@ TelegraphHerald.com • 13h ago
 
 CNET's Katie Collins takes a first look at Honor's Robot Phone at Mobile World Congress 2026 in Barcelona, Spain.
 
-CNET • 2h ago
+CNET • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 InsideAI
 
-👁️ 160K • 👍 13K • 💬 2K • ⏱️ 16:54 • 1d ago
+👁️ 183K • 👍 14K • 💬 2K • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -206,53 +206,7 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 63 • 💬 1 • ⏱️ 1:11 • 21h ago
-
----
-
-**[China Unveiled Its First Army of Humanoid Police Robots](https://www.youtube.com/watch?v=_liJnDf8a7k)**
-
-Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These $100 Korean AI Drones Can Make You Fly: ...
-
-📺 Carros Show
-
-👁️ 60K • 👍 1K • 💬 130 • ⏱️ 9:36 • 6d ago
-
----
-
-**[Real robot today its not AI #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=sKmc4n5HKig)**
-
-📺 XDollHub
-
-👁️ 6K • 👍 63 • 💬 3 • ⏱️ 0:14 • 6h ago
-
----
-
-**[robot doll link in bio #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=R9wAzzcVDqs)**
-
-📺 XDollHub
-
-👁️ 6K • 👍 120 • 💬 1 • ⏱️ 0:21 • 4h ago
-
----
-
-**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
-
-A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
-
-📺 Billionaire Shots
-
-👁️ 21K • 👍 1K • 💬 164 • ⏱️ 0:13 • 17h ago
-
----
-
-**[The Hard Truth About Mass Robot Deployment](https://www.youtube.com/watch?v=VTbd0_n9qQA)**
-
-Tesla just shut down Model S and X lines to pivot toward Optimus production — but is this a real robotics breakthrough or a ...
-
-📺 Dumb Money Live
-
-👁️ 17K • 👍 443 • 💬 143 • ⏱️ 13:15 • 4d ago
+👁️ 4K • 👍 74 • 💬 1 • ⏱️ 1:11 • 22h ago
 
 ---
 
@@ -266,13 +220,41 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
+**[The Strangest Phone Ever Made + Honor’s Humanoid at MWC](https://www.youtube.com/watch?v=XSKGkRCcEyQ)**
 
-Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
+At MWC 2026 in Barcelona, we go hands-on with Honor's bold vision for embodied AI. From a humanoid shopping assistant robot ...
 
-📺 NBC News
+📺 Digital Trends
 
-👁️ 130K • 👍 2K • 💬 444 • ⏱️ 12:16 • 5d ago
+👁️ 12K • 👍 205 • 💬 23 • ⏱️ 2:53 • 1d ago
+
+---
+
+**[Real robot today its not AI #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=sKmc4n5HKig)**
+
+📺 XDollHub
+
+👁️ 8K • 👍 72 • 💬 3 • ⏱️ 0:14 • 7h ago
+
+---
+
+**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
+
+A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
+
+📺 Billionaire Shots
+
+👁️ 23K • 👍 1K • 💬 171 • ⏱️ 0:13 • 18h ago
+
+---
+
+**[The Hard Truth About Mass Robot Deployment](https://www.youtube.com/watch?v=VTbd0_n9qQA)**
+
+Tesla just shut down Model S and X lines to pivot toward Optimus production — but is this a real robotics breakthrough or a ...
+
+📺 Dumb Money Live
+
+👁️ 17K • 👍 446 • 💬 125 • ⏱️ 13:15 • 4d ago
 
 ---
 
@@ -280,7 +262,25 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 XDollHub
 
-👁️ 319K • 👍 2K • 💬 6 • ⏱️ 0:11 • 1d ago
+👁️ 339K • 👍 2K • 💬 6 • ⏱️ 0:11 • 1d ago
+
+---
+
+**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
+
+Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
+
+📺 NBC News
+
+👁️ 130K • 👍 2K • 💬 445 • ⏱️ 12:16 • 5d ago
+
+---
+
+**[German Chancellor Surprised To Watch China Humanoid Robots Kung Fu ???](https://www.youtube.com/watch?v=QMZSv5lmVeY)**
+
+📺 Indiplus News Official
+
+👁️ 850K • 👍 19K • 💬 429 • ⏱️ 0:29 • 6d ago
 
 ---
 

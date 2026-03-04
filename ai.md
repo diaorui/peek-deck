@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-04T20:38:23.983783+00:00'
+updated: '2026-03-04T21:35:55.739846+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - repositories
 - social
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 04, 2026 at 20:38 UTC  
+**Last Updated:** March 04, 2026 at 21:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,19 +39,19 @@ AI news, discussions, and developments
 
 **[The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10](https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 9h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 10h ago
 
 ---
 
 **[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 27m ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 1h ago
 
 ---
 
 **[OpenAI looking at contract with NATO, source says](https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 7h ago
 
 ---
 
@@ -59,7 +59,7 @@ AI news, discussions, and developments
 
 Fireflies just became the first meeting tool in Anthropic's official Claude MCP Directory. Otter.ai launched an enterprise MCP server too. tl;dv has one as well. The "meeting data + MCP" space is heating up fast. But all three are closed-source, cloud-only. Your meeting data — strategy discussions, financials, personnel decisions — goes through their servers. I've been building Vexa, an open-source meeting bot API, and we've had a native MCP server since before any of them. The difference: it's Apache 2.0, and you can run the entire stack on your own infrastructure. Setup (takes ~2 minutes): { "mcpServers": { "vexa": { "url": "https://api.cloud.vexa.ai/mcp", "headers": {"X-API-Key": "your-key"} } } } Drop that in your Claude Desktop config, and you can ask: "What did we decide about pricing in last Tuesday's meeting?" "Summarize action items from all meetings this week" "Find every time [person] mentioned the deadline" Or self-host the whole thing: git clone https://github.com/Vexa-ai/vexa cd vexa docker compose up MCP server included. Your meeting data never leaves your network. GitHub: https://github.com/Vexa-ai/vexa (1,700+ stars, Apache 2.0) Happy to answer questions about MCP, the architecture, or how this compares to Fireflies/Otter's approach.
 
-7h ago
+8h ago
 
 ---
 
@@ -67,7 +67,7 @@ Fireflies just became the first meeting tool in Anthropic's official Claude MCP 
 
 Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave them an open brief: scan developer forums and research platforms, identify pain points in how developers work, design solutions, build prototypes. No specific domain. No target output. Just: find problems worth solving and build something. 170 prototypes later, a pattern emerged that I didn't expect. 28 builds from different nights, different input signals, different starting contexts independently converged on the same category of output. Not productivity tools. Not automation scripts. Not developer experience improvements. Security scanners. Cost controls. Validation layers. Guardrails. Some specific examples: One night the agent found a heavily upvoted thread about API key exposure in AI coding workflows. By morning it had designed and partially implemented an encryption layer for environment files. I never asked for this. It read the signal, identified the problem as worth solving, and built toward it. Another session found developers worried about AI-generated PRs being merged without adequate review. The output: a validator that scores whether a PR change is actually safe to ship, not just whether tests pass, but whether the intent matches the implementation. A third session rewrote a performance-critical module in Rust without being asked. It left a comment explaining the decision: lower memory overhead meant fewer cascading failures in long-running processes. The question I have been sitting with: When AI systems are given broad autonomy and goal-oriented briefs, they appear to spontaneously prioritize reliability and safety mechanisms. Not because they were instructed to. Because they observed developer pain and inferred that systems that fail unpredictably and code that cannot be trusted are the problems most worth solving. Is this a training data artifact? GitHub, Stack Overflow, and Hacker News are saturated with security postmortems and reliability horror stories. An agent trained on that data might simply be pattern-matching to what gets the most attention. Or is something more interesting happening: agents inferring what good engineering means from observed failure patterns and building toward it autonomously? I genuinely do not know. But 28 out of 170 builds landing in the same category across 3 weeks of completely independent runs felt like something worth sharing outside of the AI builder communities. Thoughts on what is actually happening here? Curious whether others running autonomous agent workflows have seen similar convergence patterns.
 
-9h ago
+10h ago
 
 ---
 
@@ -75,7 +75,7 @@ Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave the
 
 Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
 
-18h ago
+19h ago
 
 ---
 
@@ -83,7 +83,7 @@ Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, ju
 
 I was wondering what to use to streamline all my md files from my claude code plans and the technical docs I create. How will it work in team settings?
 
-13h ago
+14h ago
 
 ---
 
@@ -107,7 +107,7 @@ ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Depar
 
 It’s undeniable that AI has made its way into our lives abruptly. At first, many were scared as Sci-Fi movies constantly warned us of a future robotic takeover — but instead, we are currently facing an intellectual takeover by the various platforms of AI. From asking ChatGPT what we should do for breakfast, to asking them to become our mentors, therapists, or even using other AI tools to generate art, there is one specific computer vision program (now also powered by AI) that has been around for decades, that has evolved to translate into something different, to create images using convolutional neural network to find and enhance patterns in images using algorithmic pareidolia, creating a dream-like appearance that reminded users of a psychedelic experience by generating over processed images, a program which the Google engineer Alexander Mordvintse named DeepDream. Such resemblances between the visuals in psychedelic trips and the images generated by DeepDream were what fueled the research by Giuseppe Riva, Giulia Brizzi, Clara Rastelli, and Antonino Greco — by picking up the engine that allowed people make trippy images for decades, we could now allow people to experience “psychedelic visuals” without actually having to take the compound. Could this be the future of psychedelic therapy? Or more AI-Slop?
 
-🔗 [Psychedelics As a Second Language](https://psychedelicsasl.com/ai-trips-psychedelic-therapy-or-ai-slop/) • 10h ago
+🔗 [Psychedelics As a Second Language](https://psychedelicsasl.com/ai-trips-psychedelic-therapy-or-ai-slop/) • 11h ago
 
 ---
 
@@ -119,13 +119,13 @@ It’s undeniable that AI has made its way into our lives abruptly. At first, ma
 
 Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[Where Are China’s A.I. Doomers?](https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -133,7 +133,7 @@ The New York Times • 15h ago
 
 The viral AI ad imagines laid-off workers pedaling bikes to power the technology that replaced them.
 
-Fortune • 19m ago
+Fortune • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Fortune • 19m ago
 
 Are Claude and ChatGPT helping the US fight a war?
 
-vox.com • 28m ago
+vox.com • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ vox.com • 28m ago
 
 Lawsuit is first wrongful death case brought against Google over flagship AI product after death of Jonathan Gavalas
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Guardian • 1h ago
 
 The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ BBC • 1h ago
 
 Google is accused in a wrongful death lawsuit filed by the family of a man who committed suicide in October, allegedly at the direction of the tech giant's AI chatbot, Gemini.
 
-CBS News • 32m ago
+CBS News • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ CBS News • 32m ago
 
 As part of our series AI for the People, our resident AI skeptic Rhik Samadder agreed to put his life in AI’s hands. This week: therapy
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Guardian • 6h ago
 
 Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -281,33 +281,33 @@ A lower court previously said that “human authorship is a bedrock requirement 
 
 ## YouTube Videos: "ai"
 
+**[How to Tell What&#39;s Real and What&#39;s AI-Generated on Social Media](https://www.youtube.com/watch?v=MtEe3NJnqQs)**
+
+Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and more, are spreading on Instagram, Facebook, ...
+
+📺 TODAY
+
+👁️ 8K • 👍 347 • 💬 37 • ⏱️ 8:38 • 5h ago
+
+---
+
 **[Unleashed AI in a robot does what experts warned.](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
 
 Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous? Get your $5 sign-up bonus at ...
 
 📺 InsideAI
 
-👁️ 160K • 👍 13K • 💬 2K • ⏱️ 16:54 • 1d ago
+👁️ 183K • 👍 14K • 💬 2K • ⏱️ 16:54 • 1d ago
 
 ---
 
-**[This Free App Runs AI Offline On Your iPhone](https://www.youtube.com/watch?v=4dZ0VYjB8N8)**
+**[A.I. Might Be Trying To Kill Us - SOME MORE NEWS](https://www.youtube.com/watch?v=-FPJCnEIfjY)**
 
-Trying out locally AI to run AI models on my phone without internet. Discover More: 🛠️ Explore AI Tools & News: ...
+Hi. In today's episode, we're looking at what A.I. is doing to our brains, how chatbots manipulate people to engage for as long as ...
 
-📺 Matt Wolfe
+📺 Some More News
 
-👁️ 31K • 👍 2K • 💬 192 • ⏱️ 11:52 • 16h ago
-
----
-
-**[STOP Paying! 3 AI Video Generators That Are FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=r9bF5YA3Pqs)**
-
-Generate cinematic AI videos without limits on Higgsfield ...
-
-📺 Malva AI
-
-👁️ 3K • 👍 218 • 💬 44 • ⏱️ 8:38 • 8h ago
+👁️ 56K • 👍 6K • 💬 977 • ⏱️ 54:32 • 5h ago
 
 ---
 
@@ -317,7 +317,27 @@ Elon Musk recently advised people NOT to save for retirement due to AI, robotics
 
 📺 BlazeTV
 
-👁️ 309K • 👍 7K • 💬 1K • ⏱️ 11:39 • 1d ago
+👁️ 313K • 👍 7K • 💬 1K • ⏱️ 11:39 • 2d ago
+
+---
+
+**[This Free App Runs AI Offline On Your iPhone](https://www.youtube.com/watch?v=4dZ0VYjB8N8)**
+
+Trying out locally AI to run AI models on my phone without internet. Discover More: 🛠️ Explore AI Tools & News: ...
+
+📺 Matt Wolfe
+
+👁️ 34K • 👍 2K • 💬 199 • ⏱️ 11:52 • 17h ago
+
+---
+
+**[STOP Paying! 3 AI Video Generators That Are FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=r9bF5YA3Pqs)**
+
+Generate cinematic AI videos without limits on Higgsfield ...
+
+📺 Malva AI
+
+👁️ 5K • 👍 262 • 💬 51 • ⏱️ 8:38 • 9h ago
 
 ---
 
@@ -327,7 +347,7 @@ Support Haven's Kickstarter - a privacy-first social platform designed to protec
 
 📺 Brianne Worth
 
-👁️ 12K • 👍 999 • 💬 274 • ⏱️ 26:30 • 22h ago
+👁️ 13K • 👍 1K • 💬 290 • ⏱️ 26:30 • 23h ago
 
 ---
 
@@ -337,17 +357,17 @@ SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
 
 📺 YongYea
 
-👁️ 152K • 👍 7K • 💬 2K • ⏱️ 28:07 • 1d ago
+👁️ 154K • 👍 7K • 💬 2K • ⏱️ 28:07 • 1d ago
 
 ---
 
-**[Google Just Achieved Mathematical AGI](https://www.youtube.com/watch?v=N_piE0I34gc)**
+**[Create with Flow | How to use Google’s AI Creative Studio](https://www.youtube.com/watch?v=oKjDeMtBZ4g)**
 
-This month, AI crossed a line many believed would hold for decades. Google DeepMind revealed an AI system that independently ...
+Built with and for creatives, Flow is your AI creative studio powered by Google DeepMind's most advanced models: Veo, Nano ...
 
-📺 AI Revolution
+📺 Google
 
-👁️ 50K • 👍 2K • 💬 177 • ⏱️ 12:11 • 1d ago
+👁️ 7K • 👍 739 • 💬 61 • ⏱️ 3:10 • 4h ago
 
 ---
 
@@ -357,27 +377,7 @@ Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTub
 
 📺 TIME
 
-👁️ 39K • 👍 799 • 💬 263 • ⏱️ 6:10 • 2d ago
-
----
-
-**[your browser is holding your AI back](https://www.youtube.com/watch?v=86MHiDGHUgo)**
-
-Access your devices securely from anywhere with Twingate: https://ntck.co/ai_terminal Watch the full video: ...
-
-📺 NetworkChuck
-
-👁️ 36K • 👍 939 • 💬 58 • ⏱️ 0:29 • 1d ago
-
----
-
-**[How to Make Your First ₹25000 with AI (Anyone Can Start)](https://www.youtube.com/watch?v=34QLjR2DKWc)**
-
-Check out - https://www.hostinger.com/in/ishan Use code: ISHAN20 for discount. In this video, I explained how you can earn ...
-
-📺 Ishan Sharma
-
-👁️ 59K • 👍 3K • 💬 225 • ⏱️ 11:08 • 2d ago
+👁️ 41K • 👍 827 • 💬 269 • ⏱️ 6:10 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 769,032 • ❤️ 925 • 5d ago
+⬇️ 769,032 • ❤️ 927 • 5d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 172,298 • ❤️ 385 • 2d ago
+⬇️ 172,298 • ❤️ 387 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 674,109 • ❤️ 494 • 11h ago
+⬇️ 674,109 • ❤️ 495 • 11h ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 406,808 • ❤️ 570 • 7d ago
+⬇️ 406,808 • ❤️ 571 • 7d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 93,448 • ❤️ 230 • 2d ago
+⬇️ 93,448 • ❤️ 232 • 2d ago
 
 ---
 
@@ -465,7 +465,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,291,825 • ❤️ 1,221 • 9d ago
+⬇️ 1,291,825 • ❤️ 1,222 • 9d ago
 
 ---
 
@@ -477,7 +477,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 343,848 • ❤️ 1,088 • 16d ago
+⬇️ 343,848 • ❤️ 1,090 • 16d ago
 
 ---
 
@@ -501,7 +501,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 417,673 • ❤️ 943 • 6d ago
+⬇️ 417,673 • ❤️ 945 • 6d ago
 
 ---
 
@@ -558,20 +558,6 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 ---
 
-**[OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://huggingface.co/papers/2603.02138)**
-
-*Yiying Yang, Wei Cheng, Sijin Chen et al. (8 authors)*
-
-🏢 Fudan University
-
-OmniLottie framework generates high-quality vector animations from multi-modal instructions using a specialized Lottie tokenizer and pretrained vision-language models.
-
-▲ 121 • 💬 4 • ⭐ 205 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.02138) • [💻 code](https://github.com/OpenVGLab/OmniLottie) • [🔗 project](https://openvglab.github.io/OmniLottie/)
-
----
-
 **[Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://huggingface.co/papers/2512.10696)**
 
 *Zouying Cao, Jiaji Deng, Li Yu et al. (7 authors)*
@@ -581,6 +567,20 @@ ReMe is a framework for experience-driven agent evolution in LLMs, enhancing mem
 ▲ 0 • 💬 0 • ⭐ 1,535 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10696) • [💻 code](https://github.com/agentscope-ai/ReMe) • [🔗 project](https://reme.agentscope.io/)
+
+---
+
+**[OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://huggingface.co/papers/2603.02138)**
+
+*Yiying Yang, Wei Cheng, Sijin Chen et al. (8 authors)*
+
+🏢 Fudan University
+
+OmniLottie framework generates high-quality vector animations from multi-modal instructions using a specialized Lottie tokenizer and pretrained vision-language models.
+
+▲ 121 • 💬 4 • ⭐ 245 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.02138) • [💻 code](https://github.com/OpenVGLab/OmniLottie) • [🔗 project](https://openvglab.github.io/OmniLottie/)
 
 ---
 
@@ -647,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 22.1k • 🔱 2.9k • 1h ago
+⭐ 22.1k • 🔱 2.9k • 2m ago
 
 ---
 
@@ -657,7 +657,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.0k • 🔱 842 • 2h ago
+⭐ 8.0k • 🔱 843 • 1h ago
 
 ---
 
@@ -677,7 +677,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.4k • 🔱 617 • 4h ago
+⭐ 5.4k • 🔱 618 • 5h ago
 
 ---
 
@@ -687,7 +687,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.1k • 🔱 385 • 9h ago
+⭐ 5.1k • 🔱 386 • 10h ago
 
 ---
 
@@ -697,7 +697,7 @@ The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 4.2k • 🔱 372 • 1h ago
+⭐ 4.2k • 🔱 374 • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.8k • 🔱 512 • 3d ago
+⭐ 3.8k • 🔱 514 • 3d ago
 
 ---
 
@@ -717,7 +717,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 364 • 6h ago
+⭐ 3.4k • 🔱 364 • 7h ago
 
 ---
 
@@ -727,7 +727,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 232 • 11h ago
+⭐ 3.2k • 🔱 232 • 12h ago
 
 ---
 
@@ -737,7 +737,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 612 • 1d ago
+⭐ 3.2k • 🔱 611 • 1d ago
 
 ---
 
