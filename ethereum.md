@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-04T19:57:13.670625+00:00'
+updated: '2026-03-04T20:38:23.998371+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 19:57 UTC  
+**Last Updated:** March 04, 2026 at 20:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,174.85
+### $2,164.63
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +10.3%  
-**7d:** +7.4%  
-**30d:** -2.6%  
-**90d:** -27.9%  
-**1y:** -2.8%  
+**24h:** +10.2%  
+**7d:** +7.1%  
+**30d:** -2.8%  
+**90d:** -28.1%  
+**1y:** -3.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2016 - one of the earliest token contracts on Ethereum. The original source used #require directives from the Mix IDE preprocessor, which hasn't existed for years. The code was never verified on Etherscan. I spent a while reconstructing the source from bytecode analysis: Brute-forced all 12 function selectors via keccak256 to recover the exact function names (turns out Gav used changeOwner not setOwner, nameRegAddress not name) Discovered the contract has zero events, no inheritance, and a flat storage layout - unusual for something based on dapp-bin's coin.sol Found that function declaration order matters in solc 0.3.x because it controls where the shared return trampoline gets placed in bytecode The constructor registers itself as "GavCoin" in the old global NameReg contract and mints 1,000,000 tokens to the deployer, plus has a proof-of-work mining function anyone could call End result: exact byte-for-byte match of the 905-byte runtime bytecode across solc v0.1.6 through v0.3.2 with optimizer enabled. Source and one-command verification script: https://github.com/cartoonitunes/gavcoin-verify The problem: Etherscan's verification form only supports solc v0.4.11 and newer. GavCoin was compiled with v0.3.1. So I've emailed them requesting manual verification. I also submitted verification requests for two other historic contracts from the same era - Alex Van de Sande's Unicorn Meat system (the MeatConversionCalculator and MeatGrindersAssociation). The Grinder Association is one of the earliest DAOs on Ethereum, featuring quadratic voting and on-chain proposals. Source for those is in avsa's original gist. These early contracts are fascinating. Pre-ERC-20, pre-EIP, people were just experimenting. Proof-of-work token mining, on-chain name registries, quadratic voting DAOs - all in 2016. If anyone has other unverified historic contracts they'd like help with, happy to share the approach.
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Over the past year, many people I talk to have expressed worry about two topics:
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 3h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 4h ago
 
 ---
 
@@ -112,7 +112,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 Let’s address the elephant in the room first. This community (and Vitalik himself) has rightfully dragged the entire Proof-of-Personhood concept for the massive centralization risks of proprietary hardware and the general "ick" factor of biometric data collection. I have been one of the biggest skeptics of the whole "scan your iris for tokens" model since day one. But setting the tokenomics and the physical hardware aside for a minute, the engineering team behind world just dropped an open-source cryptographic update that is honestly a massive leap forward for Zero-Knowledge Machine Learning (ZK-ML) on Ethereum. They just open-sourced "Remainder", a highly efficient in-house ZK prover built on the GKR protocol combined with a Hyrax polynomial commitment scheme. Why should we care about this? Historically, one of the biggest architectural flaws in biometric identity was the upgrade path. If the recognition algorithm improves, how do you upgrade the user's cryptographic credentials without forcing them to go back to a physical, centralized hardware device to get scanned again? Remainder solves this entirely on the client side. It is specifically optimized to run heavy ML computations directly on standard mobile hardware. This means when the underlying algorithms update, your phone runs the new ML model locally over your securely custodied data, and simply generates a Zero-Knowledge proof that the execution was correct. The raw biometric data never leaves your device. The network just verifies the proof. We talk constantly in this sub about building trustless identity primitives and scaling privacy on-chain. Using GKR to achieve linear-time proving on consumer edge devices - so users no longer have to rely on a centralized server for biometric processing - is exactly the kind of cypherpunk engineering we should be encouraging. I’m genuinely curious to hear from the ZK nerds and privacy maxis here: Does shifting the heavy lifting to local, client-side ZK proofs and open-sourcing the prover code soften your stance on this protocol at all? Or is the reliance on that initial hardware scan still an unforgivable "original sin" for decentralized identity?
 
-23h ago
+1d ago
 
 ---
 
@@ -156,7 +156,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 Analysts say large investors are increasingly locking up ETH for yield rather than positioning to sell into market rallies.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -168,7 +168,15 @@ The Block • 22h ago
 
 ---
 
-**[Ethereum news (ETH): Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
+**[Is Now the Time to Buy Ethereum, Following Its 10% Rise?](https://www.fool.com/investing/2026/03/04/is-now-the-time-to-buy-ethereum-following-its-10-r/)**
+
+Ethereum is rallying hard today, as the crypto sector finally shows some signs of life.
+
+The Motley Fool • 43m ago
+
+---
+
+**[Ethereum Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
@@ -176,33 +184,17 @@ CoinDesk • 2h ago
 
 ---
 
-**[The Protocol: New Ethereum scaling plans](https://www.coindesk.com/tech/2026/03/04/the-protocol-new-ethereum-scaling-plans)**
+**[Is Now the Time to Buy Ethereum, Following Its 10% Rise?](https://finance.yahoo.com/news/now-time-buy-ethereum-following-201550720.html)**
 
-Also: OKX and AI agents, Future AI users of blockchain and Bitcoin’s latest governance clash
+Ethereum is rallying hard today, as the crypto sector finally shows some signs of life.
 
-CoinDesk • 2h ago
-
----
-
-**[31.6 Million ETH Leaves Exchanges as Vitalik Calls for Ethereum “Sanctuary” Tech](https://finance.yahoo.com/news/31-6-million-eth-leaves-070249895.html)**
-
-ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
-
-Yahoo Finance • 12h ago
+Yahoo Finance • 22m ago
 
 ---
 
-**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqd30Ay14vkqFncPugIqka7fl96HNdTfJ7mtGcaMiRu8C8HOBfRH1ZKi&gaa_ts=69a88780&gaa_sig=KMytj4DMoMUEpUKiiCd4G5JrkIA7qeNB4MGcKP-DAe0WO2a9zlpGxkAE_y5CRFtqwm-kxGrtychIm27VTF7mnw%3D%3D)**
+**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqeLr9oVx-LzIHvRhpq_l_mxZ4DFvzlWxed_017dKy7M2feOr-h87QPg&gaa_ts=69a89baa&gaa_sig=T80M8AaDGJRz0y0b7CTuqOFgwyh5s04gGddxQZYJ5MUWXIW2taISx8Gi-29OE64cNYPhY8E9ynCr5t5pDjfZZQ%3D%3D)**
 
-Barron's • 3h ago
-
----
-
-**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/03/03/better-cryptocurrency-to-buy-right-now-with-2000-a/)**
-
-The biggest factor here is the diversity of sources for future demand.
-
-The Motley Fool • 22h ago
+Barron's • 4h ago
 
 ---
 
@@ -214,19 +206,27 @@ dlnews.com • 1d ago
 
 ---
 
-**[What price will Ethereum hit March 2-8? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-march-2-8)**
+**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-right-now-2000-and-hold-5-years-xrp-vs-ethereum)**
 
-View real-time odds for "What price will Ethereum hit March 2-8?" as of March 4, 2026 and trade on The World's Largest Prediction Market™
+Key PointsEthereum is a general-purpose smart contract chain.
 
-Polymarket • 2d ago
+Nasdaq • 23h ago
 
 ---
 
-**[Crypto News: Pepeto Ethereum Based Crypto Announces $7.45M Raised While Bitcoin Price Prediction Target $250K](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-ethereum-based-crypto-announces-7-45m-raised-while-bitcoin-price-prediction-target-250k-1035892673)**
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772619300)**
 
-Dubai, UAE, March  03, 2026  (GLOBE NEWSWIRE) -- Pepeto is an Ethereum based crypto announcing $7.45 million raised in presale funding after the l...
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-markets.businessinsider.com • 22h ago
+Polymarket • 10h ago
+
+---
+
+**[Ethereum Price Stuck Under $2,050, Bulls Seek Recovery Catalyst](https://www.tradingview.com/news/newsbtc:23b8506f9094b:0-ethereum-price-stuck-under-2-050-bulls-seek-recovery-catalyst/)**
+
+Ethereum price started a fresh increase but failed near $2,080. ETH is now correcting gains and might decline further below $1,920.Ethereum Price Dips To SupportEthereum price attempted a fresh increase above the $2,000 resistance, like Bitcoin. ETH price rallied above the $2,020 and $2,050 resista…
+
+TradingView • 16h ago
 
 ---
 
@@ -240,7 +240,7 @@ Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum 
 
 📺 Schwab Network
 
-👁️ 4K • 👍 52 • 💬 9 • ⏱️ 8:40 • 23h ago
+👁️ 4K • 👍 52 • 💬 9 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ DISCORD MEMBERSHIPS Patreon Membership → https://www.patreon.com/c/KGTrading Y
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 116 • 👍 5 • 💬 18 • ⏱️ 6:49 • 8h ago
+👁️ 116 • 👍 5 • 💬 18 • ⏱️ 6:49 • 9h ago
 
 ---
 
@@ -290,7 +290,7 @@ Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/Paino
 
 📺 Егор Попковский
 
-👁️ 1K • 👍 102 • 💬 15 • ⏱️ 7:10 • 5h ago
+👁️ 1K • 👍 102 • 💬 15 • ⏱️ 7:10 • 6h ago
 
 ---
 

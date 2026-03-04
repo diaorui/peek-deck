@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T19:57:13.664568+00:00'
+updated: '2026-03-04T20:38:23.992269+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 19:57 UTC  
+**Last Updated:** March 04, 2026 at 20:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,752.58
+### $73,500.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +8.1%  
-**7d:** +9.3%  
-**30d:** -2.6%  
-**90d:** -17.2%  
-**1y:** -18.3%  
+**24h:** +7.9%  
+**7d:** +8.8%  
+**30d:** -3.1%  
+**90d:** -17.6%  
+**1y:** -18.7%  
 
 ---
 
@@ -85,7 +85,15 @@ Rank #1
 
 **[Watch -- this is a HUGE milestone for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rkpcu1/watch_this_is_a_huge_milestone_for_bitcoin/)**
 
-3h ago
+4h ago
+
+---
+
+**[BITCOIN JUST HIT $74,000 🚀](https://www.reddit.com/r/Bitcoin/comments/1rkuva2/bitcoin_just_hit_74000/)**
+
+Where do you think it goes next?
+
+1h ago
 
 ---
 
@@ -105,11 +113,19 @@ that turned out to be a lie :-(
 
 ---
 
+**[Is Bitcoin still the fastest way to move money online?](https://www.reddit.com/r/Bitcoin/comments/1rkui2u/is_bitcoin_still_the_fastest_way_to_move_money/)**
+
+Genuine question. With all the payment apps and instant bank transfers now, I want to know if people still find BTC faster for moving money around online. Ive noticed some platforms still lean heavily on Bitcoin for deposits and withdrawals because it settles quicker than traditional banking. I even saw a few services like Bracco using BTC payouts instead of waiting days for bank transfers. I want to know what people here think. Is Bitcoin still the best option for fast online payments or have other methods caught up?
+
+1h ago
+
+---
+
 **[DCA is boring and that's exactly why it works better than anything else you're doing](https://www.reddit.com/r/Bitcoin/comments/1rkqscy/dca_is_boring_and_thats_exactly_why_it_works/)**
 
 I stopped trying to time bitcoin and just started DCAing every week. Honestly wish I did this years ago instead of staring at charts like an idiot. Everyone told me to wait for the dip, wait for the cycle bottom, wait for 50k again. Meanwhile bitcoin went from 60k to 100k while I was waiting. The people who were DCAing the whole time are up and the people who were "waiting for the perfect entry" are still waiting. I genuinely think most people lose money in crypto not because they buy the wrong thing but because they try to be smarter than the market. Just buying a fixed amount every week and forgetting about it has outperformed every trade I've ever made. The funniest part is people will call this boring or say DCA is for people who don't know what they're doing. Cool. My boring strategy is outperforming your leveraged long that got liquidated last Tuesday. Am I wrong here or is DCA genuinely the most underrated strategy in crypto?
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +133,13 @@ I stopped trying to time bitcoin and just started DCAing every week. Honestly wi
 
 Oh, look who is back from the dead, again.
 
-2h ago
+3h ago
+
+---
+
+**[WSJ: "Kraken Becomes First Crypto Firm to Win Access to Fed’s Core Payments System".](https://www.reddit.com/r/Bitcoin/comments/1rkug8c/wsj_kraken_becomes_first_crypto_firm_to_win/)**
+
+🔗 [wsj.com](https://www.wsj.com/finance/regulation/kraken-becomes-first-crypto-firm-to-win-access-to-feds-core-payments-system-b5d17031?gaa_at=eafs&gaa_n=AWEtsqfdVnY79XD5mBPAvp1mBiF2DlSLnb1xK97gZ7tyi7GtH1chamQqQaXca7NtHTM%3D&gaa_ts=69a88667&gaa_sig=tFrW3fhMtKBdT4S9yS-gp9-crKSVkzBrpWivmJMpA7PTLVuJqnXVzRFekQ5q1Vavme4-OSNZZ6iivihi1Xg5yQ%3D%3D) • 1h ago
 
 ---
 
@@ -125,31 +147,7 @@ Oh, look who is back from the dead, again.
 
 When the-back-over-100k-faster-than-projected thesis was presented many people reacted with hostility but.. Look at just what happened to the trend. Some people wanted this to be 2022 but we are not in that position, its a different time and setup. A rush might have just started, looks like.
 
-10h ago
-
----
-
-**[DCA and holding](https://www.reddit.com/r/Bitcoin/comments/1rkj9ah/dca_and_holding/)**
-
-I’ve been DCA’ing $250 a week into Bitcoin for the past two years and I haven’t missed a week. I’m in it long term, not trying to trade every move. But I’m genuinely unsure what the move is when Bitcoin hits an all-time high. Do you take profits? Trim like 10–20%? Sell your initial capital and let the rest ride? Or just ignore the price and keep buying like nothing’s changed? Last time it was ripping (around $120k) I just kept buying and didn’t even think about a plan. I don’t want to make stupid decisions like that again. Curious what people here actually do in that situation — not theory, but what you personally stick to.
-
-8h ago
-
----
-
-**[The Bitcoin network is reaching the 20,000,000 coins milestone within one week. Mining the final million coins will take over 100 years.](https://www.reddit.com/r/Bitcoin/comments/1rkenpi/the_bitcoin_network_is_reaching_the_20000000/)**
-
-If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
-
-12h ago
-
----
-
-**[Put your change to work.](https://www.reddit.com/r/Bitcoin/comments/1rkkual/put_your_change_to_work/)**
-
-Just another way to dca
-
-6h ago
+11h ago
 
 ---
 
@@ -157,23 +155,41 @@ Just another way to dca
 
 ## Google News: "bitcoin"
 
-**[Coinbase, Other Crypto Stocks Surge. What’s Behind the Rally.](https://www.barrons.com/articles/coinbase-stock-price-bitcoin-crypto-robinhood-strategy-017a594f?gaa_at=eafs&gaa_n=AWEtsqckOTuOQ4rNeJexiLH2YSdnhFeOgyXmOS5JHyc3eriPOVhPzuXjbe7F&gaa_ts=69a8877e&gaa_sig=EjgIzzmucXYNkq8XiaU4xvPwkZUGptaRX8tMigSOGIAamUFA1J8z-4Q9pbeUylXzJvV9JF8gsz-acWVbhCgrRA%3D%3D)**
+**[Bitcoin is behaving like a safe-haven. Here’s why that’s weird](https://finance.yahoo.com/news/bitcoin-behaving-safe-haven-why-175154080.html)**
 
-Barron's • 3h ago
+Unlike in the past, Bitcoin has shown surprising resilience amid the Iran conflict. Meanwhile, gold has taken a major hit. Analysts told DL News that the market is pricing in a 'contained conflict.'
 
----
-
-**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqdtn7BWdvo1Gzzlbsu94BzgDelceVaLHYVxGfT9qxOgRFv6-fqZQ7Ko&gaa_ts=69a8877e&gaa_sig=So6zmeK21Rq9L4SdIXBtG7meHAWJv1ZwSuULIZ2V8J-7SBzvocVxzDapuwH4nTjv5zIr8U4SJnk7Z6dJ_ow05g%3D%3D)**
-
-Barron's • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin (BTC) should be trading higher in crypto’s transition year, says Keyrock CEO](https://www.coindesk.com/markets/2026/03/02/ceo-of-crypto-investment-firm-keyrock-says-bitcoin-is-undervalued-entering-transition-year)**
+**[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
 
-Kevin de Patoul argues that 2026 won't be a washout for digital assets, but instead a structural reset as traditional finance quietly moves onchain.
+Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
 
-CoinDesk • 2h ago
+Business Insider • 48m ago
+
+---
+
+**[Ray Dalio says ‘there is only one gold’ even as bitcoin holds up better during Iran crisis](https://www.coindesk.com/markets/2026/03/04/ray-dalio-says-there-is-only-one-gold-as-bitcoin-outperforms-gold-during-the-worst-week-of-geopolitical-crisis-in-years)**
+
+The Bridgewater founder dismissed bitcoin's safe-haven credentials on the same day gold dropped 3% while bitcoin fell less than 1%.
+
+CoinDesk • 13h ago
+
+---
+
+**[Billionaire Ray Dalio sends harsh warning on Bitcoin](https://finance.yahoo.com/news/billionaire-ray-dalio-sends-harsh-223701526.html)**
+
+Billionaire Ray Dalio is not shy when it comes to commenting about Bitcoin. One thing that he time and again repeats is not to compare Bitcoin with gold. The Bridgewater Associates founder appeared on the recent "All-In Podcast" of Mar. 3 and laid out a detailed critique of Bitcoin, arguing ...
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin Rally Sharpens As U.S.-Iran War Escalates](https://www.forbes.com/sites/antoniopequenoiv/2026/03/04/bitcoin-spikes-nearly-8-as-rally-accelerates-amid-us-iran-war/)**
+
+Forbes • 46m ago
 
 ---
 
@@ -185,19 +201,11 @@ Nasdaq • 9h ago
 
 ---
 
-**[Stock Market Today: Major Indexes Jump After Sell-Off; Bitcoin, Crypto-Tied Stocks Soar](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-03042026-11918929)**
+**[Bitcoin ETF news: BTC funds see $1.7 billion in recent inflows](https://www.coindesk.com/markets/2026/03/04/institutional-investors-may-be-buying-the-dip-as-traders-pour-usd1-7-billion-into-spot-bitcoin-etfs)**
 
-Stocks futures were little changed Wednesday, a day after major indexes fell but closed well above early lows, as Middle East fighting entered its fifth day.
+Fresh allocations to spot bitcoin ETFs suggest investors are growing more comfortable despite the asset still being down 16% this year.
 
-Investopedia • 1h ago
-
----
-
-**[Bitcoin is making a bottom, says VanEck Funds' Jan van Eck](https://www.cnbc.com/video/2026/03/02/bitcoin-is-making-a-bottom-says-vaneck-funds-jan-van-eck.html)**
-
-CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
-
-CNBC • 1d ago
+CoinDesk • 3h ago
 
 ---
 
@@ -222,14 +230,6 @@ Bitcoin Magazine • 1d ago
 Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
 
 Fox News • 1d ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772639700)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 4h ago
 
 ---
 
@@ -283,7 +283,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 Complete operating system for Bitcoiners
 
-⬆️ 2 • 💬 1 • 5h ago • [opacore.com](https://opacore.com)
+⬆️ 2 • 💬 1 • 6h ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -339,7 +339,7 @@ Protect Your Identity (2-Week Free Trial) Take control of your digital security 
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 514 • 💬 100 • ⏱️ 10:38 • 7h ago
+👁️ 8K • 👍 514 • 💬 100 • ⏱️ 10:38 • 8h ago
 
 ---
 
@@ -359,7 +359,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 60 • ⏱️ 52:08 • 4h ago
+👁️ 14K • 👍 1K • 💬 60 • ⏱️ 52:08 • 5h ago
 
 ---
 
@@ -399,7 +399,7 @@ Bill Maher takes aim at Bitcoin and the massive environmental cost of cryptocurr
 
 📺 The Unfiltered Republic
 
-👁️ 5K • 👍 184 • 💬 8 • ⏱️ 0:48 • 15h ago
+👁️ 5K • 👍 184 • 💬 8 • ⏱️ 0:48 • 16h ago
 
 ---
 
