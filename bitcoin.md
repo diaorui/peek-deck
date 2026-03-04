@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T19:12:27.670184+00:00'
+updated: '2026-03-04T19:57:13.664568+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 19:12 UTC  
+**Last Updated:** March 04, 2026 at 19:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[The Bitcoin CEO ordered me to post this here](https://www.reddit.com/r/Bitcoin/comments/1rkqmp7/the_bitcoin_ceo_ordered_me_to_post_this_here/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
 that turned out to be a lie :-(
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ I stopped trying to time bitcoin and just started DCAing every week. Honestly wi
 
 Oh, look who is back from the dead, again.
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Oh, look who is back from the dead, again.
 
 When the-back-over-100k-faster-than-projected thesis was presented many people reacted with hostility but.. Look at just what happened to the trend. Some people wanted this to be 2022 but we are not in that position, its a different time and setup. A rush might have just started, looks like.
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ When the-back-over-100k-faster-than-projected thesis was presented many people r
 
 I’ve been DCA’ing $250 a week into Bitcoin for the past two years and I haven’t missed a week. I’m in it long term, not trying to trade every move. But I’m genuinely unsure what the move is when Bitcoin hits an all-time high. Do you take profits? Trim like 10–20%? Sell your initial capital and let the rest ride? Or just ignore the price and keep buying like nothing’s changed? Last time it was ripping (around $120k) I just kept buying and didn’t even think about a plan. I don’t want to make stupid decisions like that again. Curious what people here actually do in that situation — not theory, but what you personally stick to.
 
-7h ago
+8h ago
 
 ---
 
@@ -159,13 +159,13 @@ Just another way to dca
 
 **[Coinbase, Other Crypto Stocks Surge. What’s Behind the Rally.](https://www.barrons.com/articles/coinbase-stock-price-bitcoin-crypto-robinhood-strategy-017a594f?gaa_at=eafs&gaa_n=AWEtsqckOTuOQ4rNeJexiLH2YSdnhFeOgyXmOS5JHyc3eriPOVhPzuXjbe7F&gaa_ts=69a8877e&gaa_sig=EjgIzzmucXYNkq8XiaU4xvPwkZUGptaRX8tMigSOGIAamUFA1J8z-4Q9pbeUylXzJvV9JF8gsz-acWVbhCgrRA%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
 **[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqdtn7BWdvo1Gzzlbsu94BzgDelceVaLHYVxGfT9qxOgRFv6-fqZQ7Ko&gaa_ts=69a8877e&gaa_sig=So6zmeK21Rq9L4SdIXBtG7meHAWJv1ZwSuULIZ2V8J-7SBzvocVxzDapuwH4nTjv5zIr8U4SJnk7Z6dJ_ow05g%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ Barron's • 2h ago
 
 Kevin de Patoul argues that 2026 won't be a washout for digital assets, but instead a structural reset as traditional finance quietly moves onchain.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 1h ago
 
 Key PointsBitcoin is widely considered a store of value within the broader cryptocurrency landscape.
 
-Nasdaq • 8h ago
+Nasdaq • 9h ago
 
 ---
 
@@ -189,7 +189,7 @@ Nasdaq • 8h ago
 
 Stocks futures were little changed Wednesday, a day after major indexes fell but closed well above early lows, as Middle East fighting entered its fifth day.
 
-Investopedia • 28m ago
+Investopedia • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ CNBC • 1d ago
 
 K33 said bitcoin is heavily oversold after the prolonged sell-off, arguing there is "no compelling reason" to sell BTC at current levels.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -283,7 +283,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 Complete operating system for Bitcoiners
 
-⬆️ 2 • 💬 1 • 4h ago • [opacore.com](https://opacore.com)
+⬆️ 2 • 💬 1 • 5h ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin #Crypto #Finance Bitcoin is breaking out past $71000 as momentum returns
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 683 • 💬 155 • ⏱️ 35:08 • 4h ago
+👁️ 12K • 👍 683 • 💬 155 • ⏱️ 35:08 • 5h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 2K • 💬 164 • ⏱️ 15:07 • 20h ago
+👁️ 31K • 👍 2K • 💬 164 • ⏱️ 15:07 • 21h ago
 
 ---
 
@@ -349,7 +349,7 @@ Ran breaks down why this moment could be the ultimate test for Bitcoin as global
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 35 • ⏱️ 22:44 • 4h ago
+👁️ 13K • 👍 1K • 💬 35 • ⏱️ 22:44 • 5h ago
 
 ---
 
@@ -359,7 +359,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 60 • ⏱️ 52:08 • 3h ago
+👁️ 14K • 👍 1K • 💬 60 • ⏱️ 52:08 • 4h ago
 
 ---
 
@@ -369,7 +369,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 226 • 💬 15 • ⏱️ 50:12 • 3h ago
+👁️ 3K • 👍 226 • 💬 15 • ⏱️ 50:12 • 4h ago
 
 ---
 
@@ -379,7 +379,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 14K • 👍 659 • 💬 85 • ⏱️ 13:18 • 9h ago
+👁️ 14K • 👍 659 • 💬 85 • ⏱️ 13:18 • 10h ago
 
 ---
 
@@ -389,7 +389,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandle
 
 📺 Frankie Candles 
 
-👁️ 2K • 👍 254 • 1h ago
+👁️ 2K • 👍 254 • 2h ago
 
 ---
 
@@ -399,7 +399,7 @@ Bill Maher takes aim at Bitcoin and the massive environmental cost of cryptocurr
 
 📺 The Unfiltered Republic
 
-👁️ 5K • 👍 184 • 💬 8 • ⏱️ 0:48 • 14h ago
+👁️ 5K • 👍 184 • 💬 8 • ⏱️ 0:48 • 15h ago
 
 ---
 
@@ -409,7 +409,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Klaudia Bieszcz
 
-👁️ 3K • 👍 1K • 22m ago
+👁️ 3K • 👍 1K • 1h ago
 
 ---
 

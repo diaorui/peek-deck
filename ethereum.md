@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-04T19:12:27.676225+00:00'
+updated: '2026-03-04T19:57:13.670625+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 19:12 UTC  
+**Last Updated:** March 04, 2026 at 19:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2016 - one of the earliest token contracts on Ethereum. The original source used #require directives from the Mix IDE preprocessor, which hasn't existed for years. The code was never verified on Etherscan. I spent a while reconstructing the source from bytecode analysis: Brute-forced all 12 function selectors via keccak256 to recover the exact function names (turns out Gav used changeOwner not setOwner, nameRegAddress not name) Discovered the contract has zero events, no inheritance, and a flat storage layout - unusual for something based on dapp-bin's coin.sol Found that function declaration order matters in solc 0.3.x because it controls where the shared return trampoline gets placed in bytecode The constructor registers itself as "GavCoin" in the old global NameReg contract and mints 1,000,000 tokens to the deployer, plus has a proof-of-work mining function anyone could call End result: exact byte-for-byte match of the 905-byte runtime bytecode across solc v0.1.6 through v0.3.2 with optimizer enabled. Source and one-command verification script: https://github.com/cartoonitunes/gavcoin-verify The problem: Etherscan's verification form only supports solc v0.4.11 and newer. GavCoin was compiled with v0.3.1. So I've emailed them requesting manual verification. I also submitted verification requests for two other historic contracts from the same era - Alex Van de Sande's Unicorn Meat system (the MeatConversionCalculator and MeatGrindersAssociation). The Grinder Association is one of the earliest DAOs on Ethereum, featuring quadratic voting and on-chain proposals. Source for those is in avsa's original gist. These early contracts are fascinating. Pre-ERC-20, pre-EIP, people were just experimenting. Proof-of-work token mining, on-chain name registries, quadratic voting DAOs - all in 2016. If anyone has other unverified historic contracts they'd like help with, happy to share the approach.
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ My question is for devs and teams which are running Defi apps, DApps, Web apps w
 
 Over the past year, many people I talk to have expressed worry about two topics: Various aspects of the way the world is going: government control and surveillance, wars, corporate power and surveillance, tech enshittification / corposlop, social media becoming a memetic warzone, AI and how it interplays with all of the above... The brute reality that Ethereum seems to be absent from meaningfully improving the lives of people subject to these things, even on the dimensions we deeply care about (eg. freedom, privacy, security of digital life, community self-organization) It is easy to bond over the first, to commiserate over the fact that beauty and good in the world seems to be receding and darkness advancing, and uncaring powerful people in high places are making this happen. But ultimately, it is easy to acknowledge problems, the hard thing is actually shining a light forward, coming up with a concrete plan that makes the situation better. The second has been weighing heavily on my mind, and on the minds of many of our brightest and most idealistic Ethereans. I personally never felt any upset or fear when political memecoins went on Solana, or various zero-sum gambling applications go on whatever 250 millisecond block chain strikes their fancy. But it does weigh on me that, through all of the various low-grade online memetic wars, international overreaches of corporate and government power, and other issues of the last few years, Ethereum has been playing a very limited role in making people's lives better. What are the liberating technologies? Starlink is the most obvious one. Locally-running open-weights LLMs are another. Signal is a third. Community Notes is a fourth, tackling the problem from a different angle. One response is to say "stop dreaming big, we need to hunker down and accept that finance is our lane and laser-focus on that". But this is ultimately hollow. Financial freedom and security is critical. But it seems obvious that, while adding a perfectly free and open and sovereign and debasement-proof financial system would fix some things, but it would leave the bulk of our deep worries about the world unaddressed. It's okay for individuals to laser-focus on finance, but we need to be part of some greater whole that has things to say about the other problems too. At the same time, Ethereum cannot fix the world. Ethereum is the "wrong-shaped tool" for that: beyond a certain point, "fixing the world" implies a form of power projection that is more like a centralized political entity than like a decentralized technology community. So what can we do? I think that we in Ethereum should conceptualize ourselves as being part of an ecosystem building "sanctuary technologies": free open-source technologies that let people live, work, talk to each other, manage risk and build wealth, and collaborate on shared goals, in a way that optimizes for robustness to outside pressures. The goal is not to remake the world in Ethereum's image, where all finance is disintermediated, all governance happens through DAOs, and everyone gets a blockchain-based UBI delivered straight to their social-recovery wallet. The goal is the opposite: it's de-totalization. It's to reduce the stakes of the war in heaven by preventing the winner from having total victory (ie. total control over other human beings), and preventing the loser from suffering total defeat. To create digital islands of stability in a chaotic era. To enable interdependence that cannot be weaponized. Ethereum's role is to create "digital space" where different entities can cooperate and interact. Communications channels enable interaction, but communication channels are not "space": they do not let you create single unique objects that canonically represent some social arrangement that changes over time. Money is one important example. Multisigs that can change their members, showing persistence exceeding that of any one person or one public key, are another. Various market and governance structures are a third. There are more. I think now is the time to double down, with greater clarity. Do not try to be Apple or Google, seeing crypto as a tech sector that enables efficiency or shininess. Instead, build our part of the sanctuary tech ecosystem - the "shared digital space with no owner" that enables both open finance and much more. More actively build toward a full-stack ecosystem: both upward to the wallet and application layer (incl AI as interface) and downward to the OS, hardware, even physical/bio security levels. Ultimately, tech is worthless without users. But look for users, both individual and institutional, for whom sanctuary tech is exactly the thing they need. Optimize payments, defi, decentralized social, and other applications precisely for those users, and those goals, which centralized tech will not serve. We have many allies, including many outside of "crypto". It's time we work together with an open mind and move forward.
 
-23h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Over the past year, many people I talk to have expressed worry about two topics:
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 2h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 3h ago
 
 ---
 
@@ -112,7 +112,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 Let’s address the elephant in the room first. This community (and Vitalik himself) has rightfully dragged the entire Proof-of-Personhood concept for the massive centralization risks of proprietary hardware and the general "ick" factor of biometric data collection. I have been one of the biggest skeptics of the whole "scan your iris for tokens" model since day one. But setting the tokenomics and the physical hardware aside for a minute, the engineering team behind world just dropped an open-source cryptographic update that is honestly a massive leap forward for Zero-Knowledge Machine Learning (ZK-ML) on Ethereum. They just open-sourced "Remainder", a highly efficient in-house ZK prover built on the GKR protocol combined with a Hyrax polynomial commitment scheme. Why should we care about this? Historically, one of the biggest architectural flaws in biometric identity was the upgrade path. If the recognition algorithm improves, how do you upgrade the user's cryptographic credentials without forcing them to go back to a physical, centralized hardware device to get scanned again? Remainder solves this entirely on the client side. It is specifically optimized to run heavy ML computations directly on standard mobile hardware. This means when the underlying algorithms update, your phone runs the new ML model locally over your securely custodied data, and simply generates a Zero-Knowledge proof that the execution was correct. The raw biometric data never leaves your device. The network just verifies the proof. We talk constantly in this sub about building trustless identity primitives and scaling privacy on-chain. Using GKR to achieve linear-time proving on consumer edge devices - so users no longer have to rely on a centralized server for biometric processing - is exactly the kind of cypherpunk engineering we should be encouraging. I’m genuinely curious to hear from the ZK nerds and privacy maxis here: Does shifting the heavy lifting to local, client-side ZK proofs and open-sourcing the prover code soften your stance on this protocol at all? Or is the reliance on that initial hardware scan still an unforgivable "original sin" for decentralized identity?
 
-22h ago
+23h ago
 
 ---
 
@@ -156,7 +156,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 Analysts say large investors are increasingly locking up ETH for yield rather than positioning to sell into market rallies.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 15h ago
 
 Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 21h ago
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 12h ago
 
 **[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqd30Ay14vkqFncPugIqka7fl96HNdTfJ7mtGcaMiRu8C8HOBfRH1ZKi&gaa_ts=69a88780&gaa_sig=KMytj4DMoMUEpUKiiCd4G5JrkIA7qeNB4MGcKP-DAe0WO2a9zlpGxkAE_y5CRFtqwm-kxGrtychIm27VTF7mnw%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 9K • 👍 280 • 💬 88 • ⏱️ 16:36 • 21h ago
+👁️ 9K • 👍 280 • 💬 88 • ⏱️ 16:36 • 22h ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 363 • 👍 16 • ⏱️ 4:40 • 9h ago
+👁️ 363 • 👍 16 • ⏱️ 4:40 • 10h ago
 
 ---
 
@@ -270,7 +270,7 @@ DISCORD MEMBERSHIPS Patreon Membership → https://www.patreon.com/c/KGTrading Y
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 116 • 👍 5 • 💬 18 • ⏱️ 6:49 • 7h ago
+👁️ 116 • 👍 5 • 💬 18 • ⏱️ 6:49 • 8h ago
 
 ---
 
@@ -290,7 +290,7 @@ Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/Paino
 
 📺 Егор Попковский
 
-👁️ 1K • 👍 102 • 💬 15 • ⏱️ 7:10 • 4h ago
+👁️ 1K • 👍 102 • 💬 15 • ⏱️ 7:10 • 5h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T19:12:27.679445+00:00'
+updated: '2026-03-04T19:57:13.673849+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 19:12 UTC  
+**Last Updated:** March 04, 2026 at 19:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humanoid robot process here. We open-sourced the legs and will open-source the full body soon. Your questions and comments along the way really helped us a lot. Appreciate it! A few days ago more than 50 people on X told us they'd be interested in a DIY humanoid robot kit. So we did it. We put together all parts from mechanical to electrical to build the Asimov robot. It's 1.20m, 35kg, 25+2 degrees of freedom (+2 comes from the articulated toe!). Asimov is a really powerful robot with almost the same specs as the Unitree G1. Some parts like the arms are actually stronger. We call the kit "Here Be Dragons", a name used for highly experimental, beta-before-beta releases. The kind where you're one of the first users, talking directly to the engineers, reporting bugs, and getting a fix the same day. We're now preparing a user manual and assembly videos too. The target price is $15,000, which is higher than our current BOM cost. We're taking pre-orders with a $499 deposit to find serious builders and learn what they need. We got 14 orders in a few hours and are planning to close pre-orders soon to handle it properly. So our build-in-public journey is turning into a business earlier than expected, and we're not looking for profit from the DIY Kit. Wanted to share with you all. If you're hacking something, please do share with the community. Details for the pre-order: https://asimov.inc/diy-kit
 
-4h ago
+5h ago
 
 ---
 
 **[Not Exactly How I Expected a Wheel Robot to Behave](https://www.reddit.com/r/robotics/comments/1rkrk1h/not_exactly_how_i_expected_a_wheel_robot_to_behave/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/research/memory From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2028954630458401040
 
-8h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
 
-11h ago
+12h ago
 
 ---
 
@@ -74,13 +74,13 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 I've built an open source cable robot that can be used to pick and place any object in a room. You can either buy one assembled from neufangled.com or print and build it from source. In this video I go over one of the dozens of design challenges that I've tackled to make it work reliably in my house. I'm aiming to keep iterating on this hardware until I've got a cleaning appliance so reliable I can just turn it on and forget it, coming back to cleaner floors. I've made a lot of videos along the way, ranging from how I solve individual problems to a breakdown of the costs of all the parts. If this looks like something you would like, please consider giving it a try in your room. I'm working closely with all my early beta testers. Thanks for looking
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 3h ago
 
 ---
 
 **[Inspired by ROSClaw, AgenticROS is a new open source multi-AI agent robotics platform that connects ROS to OpenClaw (and other agentic systems) to enable Physical AI. It supports RealSense stereo depth cameras, ROS2, Zenoh messaging, TeleOp, and robot missions!](https://www.reddit.com/r/robotics/comments/1rkne85/inspired_by_rosclaw_agenticros_is_a_new_open/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -114,13 +114,13 @@ Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-wa
 
 Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ Nasdaq • 1d ago
 
 Richtech Robotics stock overview Richtech Robotics (RR) has been drawing attention after a period of sharp share price swings, with the stock down about 30% over the past month and past 3 months, yet showing a positive 1 year total return. See our latest analysis for Richtech Robotics. At a latest share price of $2.49, Richtech Robotics has seen short term pressure, with a 1 day share price return showing a 9.1% decline and a 30 day share price return showing a 30.5% decline. The 1 year total...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 63 • 💬 1 • ⏱️ 1:11 • 19h ago
+👁️ 3K • 👍 63 • 💬 1 • ⏱️ 1:11 • 20h ago
 
 ---
 
@@ -220,7 +220,7 @@ Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These
 
 📺 XDollHub
 
-👁️ 6K • 👍 63 • 💬 3 • ⏱️ 0:14 • 5h ago
+👁️ 6K • 👍 63 • 💬 3 • ⏱️ 0:14 • 6h ago
 
 ---
 
@@ -228,7 +228,7 @@ Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These
 
 📺 XDollHub
 
-👁️ 6K • 👍 120 • 💬 1 • ⏱️ 0:21 • 2h ago
+👁️ 6K • 👍 120 • 💬 1 • ⏱️ 0:21 • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 21K • 👍 1K • 💬 164 • ⏱️ 0:13 • 15h ago
+👁️ 21K • 👍 1K • 💬 164 • ⏱️ 0:13 • 16h ago
 
 ---
 
