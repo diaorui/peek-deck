@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T07:12:07.831327+00:00'
+updated: '2026-03-04T07:57:56.610352+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 07:12 UTC  
+**Last Updated:** March 04, 2026 at 07:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Rank #1
 
 Need to pay off some debt first with the cash I have but man…. At .7 btc that wholecoiner status is looking at me like Roger rabbits wife
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
 
-🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 18h ago
+🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 19h ago
 
 ---
 
@@ -101,7 +101,7 @@ Need to pay off some debt first with the cash I have but man…. At .7 btc that 
 
 The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $126K ATH from October 2025. Sounds brutal — but the structural signals underneath are shifting fast. A few things worth watching right now: Spot BTC ETF outflows slowed from $1.6B to $206M in February, then flipped to $787M in net inflows in the final week alone SEC Chair Paul Atkins just signaled a push toward a more innovation-friendly regulatory framework as of March 1 The U.S. Strategic Bitcoin Reserve is now acting as a structural price floor 200-day MA still trending up, 50-day SMA providing active daily support The last time we saw fear this extreme with institutional flows quietly reversing direction was... well, you know how that played out. Not financial advice — just tracking the data. Curious what the rest of you are seeing in the on-chain and ETF flow data right now. Source & full analysis: https://www.cryptobull.org/hot-coins/hot-coins-2026
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $1
 
 My first bitcoin purchase.
 
-11h ago
+12h ago
 
 ---
 
@@ -117,13 +117,13 @@ My first bitcoin purchase.
 
 4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
 
-17h ago
+18h ago
 
 ---
 
 **[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ My first bitcoin purchase.
 
 How do I access (or just check on) my bitcoin using my seed phrase alone? I've downloaded several different wallet apps but had problems with all of them. The Bitcoin.com app gives me options to purchase and receive bitcoin, but I don't see any "import" or "seed phrase" options. Binance wouldn't let me do a thing without going through a very serious verification process involving scanning all kinds of sensitive documents. And Ledger wanted me to choose a completely separate device for... something I didn't understand. I know this is a dumb question and it's probably really obvious but right now I'm at a loss. Is there an app that will just let me put in my seed phrase??? (It's a tiny amount of money, so it won't be a big deal if I can't access it, but still I'd like to be able to if it's possible.) Thanks. UPDATE: Thanks for the replies. It seems it's quite a bit more complicated than I thought. I'm going to get a friend to help me in person. Thanks for the help and for the warnings about scammers. (And to would-be scammers: It's like 200 dollars. Don't waste you time!)
 
-4h ago
+5h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
 curious what everyone is doing EDIT: I DCA bi weekly, but i have about 10k in cash ready to blow
 
-4h ago
+5h ago
 
 ---
 
@@ -159,7 +159,7 @@ curious what everyone is doing EDIT: I DCA bi weekly, but i have about 10k in ca
 
 Out of a fixed maximum supply of 21 million coins, more than 95% of all bitcoin that will ever exist is now in circulation
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -183,7 +183,7 @@ Dallas News • 1d ago
 
 Both of these assets have staying power, but one needs to work a lot harder just to tread water.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 1d ago
 
 The largest cryptocurrency briefly reclaimed the top of its range on Tuesday before sellers pushed it back to $67,000, while South Korean stocks posted their worst two-day drop since 2008.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 1h ago
 
 Bitfinex analyst argue that ETF inflows can be misread as immediate spot demand.
 
-CoinDesk • 56m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 101 • ⏱️ 15:07 • 8h ago
+👁️ 18K • 👍 1K • 💬 101 • ⏱️ 15:07 • 9h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bombs are falling in the Middle East. Gold just lost over $1 trillion in minutes
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 80 • ⏱️ 18:46 • 8h ago
+👁️ 23K • 👍 1K • 💬 80 • ⏱️ 18:46 • 9h ago
 
 ---
 
@@ -357,7 +357,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 208 • 💬 20 • ⏱️ 4:27 • 8h ago
+👁️ 3K • 👍 208 • 💬 20 • ⏱️ 4:27 • 9h ago
 
 ---
 
@@ -397,7 +397,7 @@ Bitunix - 50k Prize Pool + 15% off Trading Fees Register here: https://www.bitun
 
 📺 CryptoCache
 
-👁️ 2K • 👍 150 • 💬 20 • ⏱️ 15:09 • 14h ago
+👁️ 2K • 👍 150 • 💬 20 • ⏱️ 15:09 • 15h ago
 
 ---
 

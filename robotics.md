@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T07:12:07.840842+00:00'
+updated: '2026-03-04T07:57:56.619780+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 07:12 UTC  
+**Last Updated:** March 04, 2026 at 07:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
-18h ago
+19h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-wa
 
 If you are from arizona and you are a robotics engineer dm me, i have an idea for an invention im disabled and its a piece of tech that would help tons of disabled people around the world basically a new type of wheelchair pls dm if interested
 
-1h ago
+2h ago
 
 ---
 
@@ -74,7 +74,7 @@ If you are from arizona and you are a robotics engineer dm me, i have an idea fo
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_realsense.html
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_r
 
 Releasing HDDS -- a complete DDS (Data Distribution Service) implementation built from scratch in Rust. For the robotics crowd, the relevant demos: - **Robot Swarm** -- 12 boids with 6 behavior modes (flocking, formation, patrol...), fully decentralized via DDS pub/sub - **LiDAR SLAM** -- autonomous maze mapping with occupancy grid, frontier exploration, all sensor data over DDS - **Drone Racing** -- 6 AI drones navigating gates independently, 60Hz position updates, zero central controller - **F1Tenth Racing** -- bicycle model physics, AI waypoint following with Menger curvature braking DDS is the standard middleware in military robotics and autonomous systems. HDDS is a fully open-source alternative to RTI Connext. Also includes a ROS2 RMW layer (rmw_hdds) if you want to plug it into your existing ROS2 stack. - Source: github.com/hdds-team - Demos: packs.hdds.io
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ Releasing HDDS -- a complete DDS (Data Distribution Service) implementation buil
 
 I've been messing with singularity handling in 6 DoF industrial arms, especially for fast palletizing and long-reach pick-and-place. Damped Least Squares (DLS/SDLS) is the go-to, but near wrist singularities it often gets too "mushy" tracking slows down unpredictably, velocities scale weirdly, and in high-speed cycles that can mess up cycle time or stack accuracy. My idea is that instead of damping the whole Jacobian, when det(J) drops below a threshold (say ~0.01–0.05, tunable), hard-lock the problematic joint (usually J5 in typical roll-pitch-roll wrists). Treat the arm as 5 DoF temporarily: Update DH params on the fly (locked joint becomes fixed link). Recompute IK with reduced 6×5 Jacobian. Prioritize task-space: keep XYZ + pitch/yaw solid, sacrifice roll if needed (most palletizing doesn't care about full orientation anyway). Then, when manipulability improves, blend the joint back in smoothly to avoid jerk. Why bother over SDLS? Predictable: you know exactly what you're losing (e.g., "loses roll near vertical stacks"). No infinite velocity risk since you just remove the DoF instead of damping it softly. Cheaper compute: lower-order IK is faster than SVD every cycle. But i have some questions that demand some practical experience with this kind of problem/ideia: Has anyone done on-the-fly kinematic chain changes / joint locking like this? How do you smooth the lock/unlock transition to kill jerk? Exponential blend? Low-pass on velocities? Industrial controllers (KUKA, FANUC, ABB) are super locked down, so is this only feasible in open setups like ROS or custom controls? Any tricks to fake it on proprietary ones? In real production, is the mushiness of DLS actually a big pain (e.g., path deviation stacking boxes wrong), or does damping usually do the job fine and I'm overcomplicating? Feels like a pragmatic dirty hack for certain apps, but could also be a mechanical nightmare if the blend sucks or you lock at the wrong time. Thoughts? "Don't do this" reasons? Would love to hear before I sim/prototype it. Thanks!
 
-17h ago
+18h ago
 
 ---
 
@@ -114,7 +114,7 @@ I've been messing with singularity handling in 6 DoF industrial arms, especially
 
 Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
 
-Time Magazine • 19h ago
+Time Magazine • 20h ago
 
 ---
 
@@ -128,7 +128,7 @@ CNBC • 1d ago
 
 **[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
 
-Phys.org • 13h ago
+Phys.org • 14h ago
 
 ---
 
@@ -152,7 +152,7 @@ Supply Chain Dive • 1d ago
 
 Key PointsTesla is spending $20 billion on capital expenditures this year, more than double what it spent a year ago.
 
-Nasdaq • 15h ago
+Nasdaq • 16h ago
 
 ---
 
@@ -176,7 +176,7 @@ Scientific American • 1d ago
 
 The once high-flying Boston company is spinning off its biosecurity unit and closing its non-automated labs.
 
-The Boston Globe • 8h ago
+The Boston Globe • 9h ago
 
 ---
 
@@ -208,7 +208,7 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 42 • ⏱️ 1:11 • 7h ago
+👁️ 2K • 👍 42 • ⏱️ 1:11 • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ Reset Sensors & Passive Middle Goal | 39Y Yolt | Robot Rundown Triple Crown winn
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 59 • 💬 4 • ⏱️ 1:26 • 6h ago
+👁️ 2K • 👍 59 • 💬 4 • ⏱️ 1:26 • 7h ago
 
 ---
 
@@ -286,7 +286,7 @@ Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation r
 
 📺 APT
 
-👁️ 2K • 👍 15 • 💬 2 • ⏱️ 5:34 • 22h ago
+👁️ 2K • 👍 15 • 💬 2 • ⏱️ 5:34 • 23h ago
 
 ---
 

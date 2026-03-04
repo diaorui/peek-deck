@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-04T07:12:07.822898+00:00'
+updated: '2026-03-04T07:57:56.601469+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 04, 2026 at 07:12 UTC  
+**Last Updated:** March 04, 2026 at 07:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
 
-5h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, ju
 
 Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 12h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 13h ago
 
 ---
 
@@ -97,7 +97,7 @@ Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Her
 
 Amateur artist Anne Rowlands lost all her commissions in the past year and says the rise of AI-generated "art" is to blame.
 
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 14h ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 15h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 15h ago
 
 **[Broadcom Could Benefit From AI. Nvidia’s Post-Earnings Stock Drop Could Be a Bad Omen.](https://www.barrons.com/articles/broadcom-earnings-stock-price-0e2efe3e?gaa_at=eafs&gaa_n=AWEtsqcMzSkbwqO2px42MyuwSkDa9TpixCQ257zkNlDMu9O4md0A6LkBG2lC&gaa_ts=69a7deae&gaa_sig=3-FrctXO4cAgy72-D7RllV3mvQ1_JnqvkZUmgdVsAFcAkJG3zc7OBL02x-EIV_KYYW5V9ZIVCR8MyG9SrLhL1g%3D%3D)**
 
-Barron's • 42m ago
+Barron's • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Barron's • 42m ago
 
 Weymouth tattoo parlour owner says AI can save time but it can also make the job harder.
 
-BBC • 58m ago
+BBC • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 2h ago
 
 Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
 
-Time Magazine • 19h ago
+Time Magazine • 20h ago
 
 ---
 
@@ -175,7 +175,7 @@ Time Magazine • 19h ago
 
 Tech leaders advocate for rapid AI and robotics growth, calling for policy support to boost industrial use and computing infrastructure.
 
-South China Morning Post • 35m ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg • 1h ago
 
 Founder and CEO George Kurtz made a compelling argument that we agree with, so why can't the rest of the market get behind him?
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -257,13 +257,13 @@ Apple today announced the new MacBook Air with M5, bringing exceptional performa
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-⬆️ 347 • 💬 180 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
+⬆️ 347 • 💬 180 • 19h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 257 • 💬 60 • 2d ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 257 • 💬 60 • 3d ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -323,7 +323,7 @@ Support Haven's Kickstarter - a privacy-first social platform designed to protec
 
 📺 Brianne Worth
 
-👁️ 5K • 👍 562 • 💬 160 • ⏱️ 26:30 • 9h ago
+👁️ 5K • 👍 562 • 💬 160 • ⏱️ 26:30 • 10h ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,904 • ❤️ 486 • 15m ago
+⬇️ 569,904 • ❤️ 486 • 1h ago
 
 ---
 
@@ -642,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 21.9k • 🔱 2.9k • 1h ago
+⭐ 21.9k • 🔱 2.9k • 2h ago
 
 ---
 
@@ -652,7 +652,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 7.6k • 🔱 776 • 6m ago
+⭐ 7.6k • 🔱 776 • 52m ago
 
 ---
 
@@ -662,7 +662,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.3k • 🔱 770 • 15h ago
+⭐ 6.3k • 🔱 770 • 16h ago
 
 ---
 
@@ -672,7 +672,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.2k • 🔱 586 • 4h ago
+⭐ 5.2k • 🔱 586 • 5h ago
 
 ---
 
@@ -682,7 +682,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 4.6k • 🔱 352 • 38m ago
+⭐ 4.6k • 🔱 352 • 1h ago
 
 ---
 
@@ -712,7 +712,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 362 • 15m ago
+⭐ 3.3k • 🔱 362 • 1h ago
 
 ---
 
@@ -722,7 +722,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 231 • 7h ago
+⭐ 3.2k • 🔱 231 • 8h ago
 
 ---
 
