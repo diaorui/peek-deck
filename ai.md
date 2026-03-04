@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-04T04:19:39.619545+00:00'
+updated: '2026-03-04T05:29:42.992940+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - news
 - repositories
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 04, 2026 at 04:19 UTC  
+**Last Updated:** March 04, 2026 at 05:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[What's Next for Qwen After Junyang Lin's Departure?](https://www.reddit.com/r/artificial/comments/1rk8lid/whats_next_for_qwen_after_junyang_lins_departure/)**
+
+Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
+
+3h ago
+
+---
+
 **[ChatGPT Uninstalls Surge 295% After OpenAI’s DoD Deal Sparks Backlash](https://www.reddit.com/r/artificial/comments/1rjfh7f/chatgpt_uninstalls_surge_295_after_openais_dod/)**
 
 ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Department of Defense, triggering user backlash and boosting rival AI downloads.
@@ -45,19 +53,11 @@ ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Depar
 
 ---
 
-**[What's Next for Qwen After Junyang Lin's Departure?](https://www.reddit.com/r/artificial/comments/1rk8lid/whats_next_for_qwen_after_junyang_lins_departure/)**
-
-Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
-
-2h ago
-
----
-
 **[This musician built an AI clone of her voice so anyone can sing as her](https://www.reddit.com/r/artificial/comments/1rjx6d1/this_musician_built_an_ai_clone_of_her_voice_so/)**
 
 Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 9h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Experimental composer Holly Herndon says this technology isn’t here to replace
 
 Crunchbase data shows global venture investment totaled $189 billion in February, although 83% of capital raised went to just three companies. They include OpenAI, which raised $110 billion, also in the largest round ever raised by a private, venture-backed company.
 
-🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 13h ago
+🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 14h ago
 
 ---
 
@@ -89,7 +89,7 @@ A middle-to-upper-income career path in the age of white collar AI anxiety.
 
 Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Here’s why that matters.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) • 18h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) • 19h ago
 
 ---
 
@@ -97,7 +97,7 @@ Chinese open models are spreading fast, from Hugging Face to Silicon Valley. Her
 
 Amateur artist Anne Rowlands lost all her commissions in the past year and says the rise of AI-generated "art" is to blame.
 
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 11h ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-03-03/ai-art-caricature-impact-on-creative-workers/106382724) • 12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey everyone, I've been a Trae IDE user for over a year now, relying on it for c
 
 Are we better off with ai with or without the pleasantries?
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 1d ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 2d ago
 
 ---
 
@@ -121,11 +121,25 @@ Are we better off with ai with or without the pleasantries?
 
 ## Google News: "ai"
 
-**[OpenAI changes deal with US military after backlash](https://www.bbc.com/news/articles/c3rz1nd0egro)**
+**[Anthropic's Claude AI being used in Iran war by U.S. military, sources say](https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/)**
 
-Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.
+Two sources familiar with the U.S. military's use of artificial intelligence confirm that the U.S. used Anthropic's Claude AI model over weekend for the attack on Iran — and is still using it.
 
-BBC • 8h ago
+CBS News • 12h ago
+
+---
+
+**[Anthropic’s AI model Claude gets popularity boost after US military feud](https://www.theguardian.com/technology/2026/mar/02/claude-anthropic-ai-pentagon)**
+
+Claude climbs to top of app store charts in US and UK after being blacklisted by the Pentagon over ethics concerns
+
+The Guardian • 1d ago
+
+---
+
+**[Claude AI Helped Bomb Iran. But How Exactly?](https://www.bloomberg.com/opinion/articles/2026-03-04/iran-strikes-anthropic-claude-ai-helped-us-attack-but-how-exactly)**
+
+Bloomberg.com • 29m ago
 
 ---
 
@@ -133,7 +147,7 @@ BBC • 8h ago
 
 Dorsey cited AI advances when cutting 4,000 workers, but a weak crypto market and declining stock price may also be behind move
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -141,21 +155,29 @@ The Guardian • 12h ago
 
 Chinese startups rush to launch AI tools for overseas markets.
 
-CNBC • 17m ago
+CNBC • 1h ago
 
 ---
 
-**[Global Funds Unwind Hottest AI Trades as Oil Supply Fears Mount](https://www.bloomberg.com/news/articles/2026-03-04/global-funds-unwind-hottest-ai-trades-as-oil-supply-fears-mount)**
+**[Exclusive / It’s bots vs. reporters at the AP](https://www.semafor.com/article/03/03/2026/its-bots-vs-reporters-at-the-ap)**
 
-Bloomberg.com • 29m ago
+The tensions inside the wire service reveal a broader conflict playing out across the media over how AI should be applied within journalism.
+
+Semafor • 1h ago
 
 ---
 
-**[News Corp says media is a valuable ‘input’ for AI as US$50m content deal inked with Meta](https://www.theguardian.com/media/2026/mar/04/news-corp-meta-ai-deal-us50m)**
+**[Where are China’s A.I. Doomers?](https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html)**
 
-Chief executive Robert Thomson says he often speaks to both OpenAI’s Sam Altman and Meta’s Mark Zuckerberg
+The New York Times • 29m ago
 
-The Guardian • 1h ago
+---
+
+**[Tech investor Bill Gurley says workers who went through the ‘college conveyor belt’ and chased safe jobs are at high risk of AI automation](https://fortune.com/2026/03/03/venture-capitalist-bill-gurley-warns-workers-college-conveyor-belt-safe-jobs-ai-disruption-first/)**
+
+"The people that are most at risk are the ones that are sitting idly in the job and don't really have a why or a purpose for it,” the investor Bill Gurley warns.
+
+Fortune • 13h ago
 
 ---
 
@@ -163,7 +185,7 @@ The Guardian • 1h ago
 
 Cities like Columbus and Denver offer something uniquely American that the coasts do not.
 
-The Washington Post • 8h ago
+The Washington Post • 9h ago
 
 ---
 
@@ -171,31 +193,7 @@ The Washington Post • 8h ago
 
 A new study suggests AI systems could be a lot more efficient. Researchers were able to shrink an AI vision model to 1/1000th of its original size.
 
-NPR • 17h ago
-
----
-
-**[Experts warn of scams powered by AI](https://6abc.com/post/experts-warn-scams-powered-ai/18671435/)**
-
-The scams involve AI generated voices, more personalized messages, and coordinated attacks across email, phone, and websites.
-
-6abc Philadelphia • 12h ago
-
----
-
-**[Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/)**
-
-Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.
-
-blog.google • 11h ago
-
----
-
-**[Goldman finds no relationship between AI and productivity but a 30% boost for 2 specific use cases](https://fortune.com/2026/03/03/goldman-earnings-ai-anxiety-no-meaningful-impact-productivity-economy-30-percent-in-2-areas/)**
-
-Have you got “AI-nxiety?” Goldman took a closer look at the last earnings season and found a mismatch between hype and reality.
-
-Fortune • 13h ago
+NPR • 18h ago
 
 ---
 
@@ -207,7 +205,7 @@ Fortune • 13h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1374 • 💬 774 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1375 • 💬 775 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -223,7 +221,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 577 • 💬 358 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 578 • 💬 359 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -247,7 +245,7 @@ Apple announced the new iPad Air featuring M4 and more memory, giving users a bi
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 400 • 💬 308 • 2d ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 400 • 💬 309 • 2d ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -255,7 +253,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 382 • 💬 428 • 14h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 384 • 💬 433 • 15h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -263,7 +261,7 @@ Apple today announced the new MacBook Air with M5, bringing exceptional performa
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-⬆️ 340 • 💬 180 • 16h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
+⬆️ 341 • 💬 180 • 17h ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
@@ -289,7 +287,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 InsideAI
 
-👁️ 103K • 👍 8K • 💬 1K • ⏱️ 16:54 • 10h ago
+👁️ 103K • 👍 8K • 💬 1K • ⏱️ 16:54 • 11h ago
 
 ---
 
@@ -309,7 +307,7 @@ Support Haven's Kickstarter - a privacy-first social platform designed to protec
 
 📺 Brianne Worth
 
-👁️ 4K • 👍 456 • 💬 133 • ⏱️ 26:30 • 6h ago
+👁️ 4K • 👍 456 • 💬 133 • ⏱️ 26:30 • 7h ago
 
 ---
 
@@ -359,7 +357,7 @@ I put ChatGPT, Gemini, Claude, Composer 1.5, and more models to a challenge to m
 
 📺 WeeklyHow
 
-👁️ 16K • 👍 1K • 💬 181 • ⏱️ 10:59 • 13h ago
+👁️ 16K • 👍 1K • 💬 181 • ⏱️ 10:59 • 14h ago
 
 ---
 
@@ -419,7 +417,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,904 • ❤️ 482 • 5h ago
+⬇️ 569,904 • ❤️ 482 • 6h ago
 
 ---
 
@@ -648,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 21.8k • 🔱 2.9k • 15m ago
+⭐ 21.8k • 🔱 2.9k • 1h ago
 
 ---
 
@@ -658,7 +656,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 7.4k • 🔱 761 • 3m ago
+⭐ 7.4k • 🔱 761 • 1h ago
 
 ---
 
@@ -668,7 +666,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.3k • 🔱 769 • 12h ago
+⭐ 6.3k • 🔱 769 • 13h ago
 
 ---
 
@@ -678,7 +676,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.1k • 🔱 577 • 2h ago
+⭐ 5.1k • 🔱 577 • 3h ago
 
 ---
 
@@ -698,7 +696,7 @@ The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 4.0k • 🔱 371 • 3h ago
+⭐ 4.0k • 🔱 371 • 4h ago
 
 ---
 
@@ -718,7 +716,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 361 • 18m ago
+⭐ 3.3k • 🔱 361 • 1h ago
 
 ---
 
@@ -728,7 +726,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 231 • 4h ago
+⭐ 3.2k • 🔱 231 • 5h ago
 
 ---
 
@@ -738,7 +736,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 607 • 22h ago
+⭐ 3.1k • 🔱 607 • 23h ago
 
 ---
 

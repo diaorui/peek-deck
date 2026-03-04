@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T04:19:39.627124+00:00'
+updated: '2026-03-04T05:29:43.001483+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- social
 - news
 - cryptocurrency
-- social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 04:19 UTC  
+**Last Updated:** March 04, 2026 at 05:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,653.93
+### $67,883.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.2%  
-**30d:** -10.7%  
-**90d:** -24.1%  
-**1y:** -25.1%  
+**24h:** -0.6%  
+**7d:** +0.4%  
+**30d:** -10.6%  
+**90d:** -24.0%  
+**1y:** -25.0%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 14
+### 10
 **EXTREME FEAR**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Need to pay off some debt first with the cash I have but man…. At .7 btc that wholecoiner status is looking at me like Roger rabbits wife
 
-4h ago
+5h ago
 
 ---
 
 **[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
 
-🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 15h ago
+🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 16h ago
 
 ---
 
@@ -101,7 +101,7 @@ Need to pay off some debt first with the cash I have but man…. At .7 btc that 
 
 The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $126K ATH from October 2025. Sounds brutal — but the structural signals underneath are shifting fast. A few things worth watching right now: Spot BTC ETF outflows slowed from $1.6B to $206M in February, then flipped to $787M in net inflows in the final week alone SEC Chair Paul Atkins just signaled a push toward a more innovation-friendly regulatory framework as of March 1 The U.S. Strategic Bitcoin Reserve is now acting as a structural price floor 200-day MA still trending up, 50-day SMA providing active daily support The last time we saw fear this extreme with institutional flows quietly reversing direction was... well, you know how that played out. Not financial advice — just tracking the data. Curious what the rest of you are seeing in the on-chain and ETF flow data right now. Source & full analysis: https://www.cryptobull.org/hot-coins/hot-coins-2026
 
-8h ago
+9h ago
 
 ---
 
@@ -109,13 +109,13 @@ The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $1
 
 4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
 
-14h ago
+15h ago
 
 ---
 
 **[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -123,15 +123,7 @@ The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $1
 
 My first bitcoin purchase.
 
-8h ago
-
----
-
-**[They are desperately trying to keep you away from Bitcoin… (i can prove it)](https://www.reddit.com/r/Bitcoin/comments/1rk1qrn/they_are_desperately_trying_to_keep_you_away_from/)**
-
-Bitcoin FUD has been pumping nonstop. (New pieces every couple days in FT, NYT, Bloomberg, you name it.) And it’s working on retail, most normal people won't touch bitcoin right now. But while we might be in a "bear market" in Bitcoin’s price, there is *no* bear market in Bitcoin adoption. The data shows institutions accumulated ~829,000 BTC in 2025. There's been a ~93% HODL rate across BTC ETFs despite -50% drawdown from Oct '25 peak. RIAs are buying and banks are building around Bitcoin, and the “institutional scaffolding” around Bitcoin is still standing. So what gives? As usual, someone wants your Bitcoin. This video is a full breakdown of what's going on and why I suggest you don't give it to them.
-
-🔗 [youtu.be](https://youtu.be/9OyvaKM9g7s) • 7h ago
+9h ago
 
 ---
 
@@ -139,7 +131,15 @@ Bitcoin FUD has been pumping nonstop. (New pieces every couple days in FT, NYT, 
 
 How do I access (or just check on) my bitcoin using my seed phrase alone? I've downloaded several different wallet apps but had problems with all of them. The Bitcoin.com app gives me options to purchase and receive bitcoin, but I don't see any "import" or "seed phrase" options. Binance wouldn't let me do a thing without going through a very serious verification process involving scanning all kinds of sensitive documents. And Ledger wanted me to choose a completely separate device for... something I didn't understand. I know this is a dumb question and it's probably really obvious but right now I'm at a loss. Is there an app that will just let me put in my seed phrase??? (It's a tiny amount of money, so it won't be a big deal if I can't access it, but still I'd like to be able to if it's possible.) Thanks. UPDATE: Thanks for the replies. It seems it's quite a bit more complicated than I thought. I'm going to get a friend to help me in person. Thanks for the help and for the warnings about scammers. (And to would-be scammers: It's like 200 dollars. Don't waste you time!)
 
-1h ago
+2h ago
+
+---
+
+**[They are desperately trying to keep you away from Bitcoin… (i can prove it)](https://www.reddit.com/r/Bitcoin/comments/1rk1qrn/they_are_desperately_trying_to_keep_you_away_from/)**
+
+Bitcoin FUD has been pumping nonstop. (New pieces every couple days in FT, NYT, Bloomberg, you name it.) And it’s working on retail, most normal people won't touch bitcoin right now. But while we might be in a "bear market" in Bitcoin’s price, there is *no* bear market in Bitcoin adoption. The data shows institutions accumulated ~829,000 BTC in 2025. There's been a ~93% HODL rate across BTC ETFs despite -50% drawdown from Oct '25 peak. RIAs are buying and banks are building around Bitcoin, and the “institutional scaffolding” around Bitcoin is still standing. So what gives? As usual, someone wants your Bitcoin. This video is a full breakdown of what's going on and why I suggest you don't give it to them.
+
+🔗 [youtu.be](https://youtu.be/9OyvaKM9g7s) • 8h ago
 
 ---
 
@@ -147,7 +147,7 @@ How do I access (or just check on) my bitcoin using my seed phrase alone? I've d
 
 As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A quick google tells me that there are ~60 million millionaires in the world, of which ~24 million live in the states alone. That is a lot more millionaires than bitcoins and I bet you can guess where I'm going with this. If every (or even every third) millionaire wants to buy a single bitcoin, there will not be enough bitcoins for everyone, the price would squeeze through the roof. Why this doesn't happen? I believe a single bitcoin in fiat price is well within the liquidity of almost every millionaire, or at least with some reallocation. Enough actually rich rich people just don't care for crypto? Or is the defining limit of a millionaire so loose that most of the 60M people actually don't have the cash to buy a single bitcoin. These are the things I think in shower. Edit: typo fix
 
-22h ago
+23h ago
 
 ---
 
@@ -159,13 +159,15 @@ As we all know, the hard limit is 21 000 000 BTC. That's not a lot really. A qui
 
 The transfers drained the Villanueva-labeled wallet entirely, with the bitcoin routed across multiple addresses with no prior activity.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
-**[Bitcoin Slides as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
+**[BTC News: More than 95% of all bitcoin has already been mined, rest will take more than a century](https://www.coindesk.com/markets/2026/01/23/bitcoin-supply-approaching-20-million-the-final-million-will-take-another-114-years-to-mine)**
 
-Bloomberg.com • 6h ago
+Out of a fixed maximum supply of 21 million coins, more than 95% of all bitcoin that will ever exist is now in circulation
+
+CoinDesk • 20h ago
 
 ---
 
@@ -173,39 +175,23 @@ Bloomberg.com • 6h ago
 
 Both of these assets have staying power, but one needs to work a lot harder just to tread water.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Over 15,000 BTC sold and more coming as public miners pivot to AI](https://www.coindesk.com/markets/2026/03/03/end-of-bitcoin-hodl-public-miners-going-all-in-on-ai-signaling-more-btc-selling)**
+**[Better Cryptocurrency to Buy Today With $3,000 and Hold for 7 Years: XRP vs. Bitcoin](https://finance.yahoo.com/news/better-cryptocurrency-buy-today-3-033500393.html)**
 
-Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin treasuries to AI infrastructure.
+Both of these assets have staying power, but one needs to work a lot harder just to tread water.
 
-CoinDesk • 12h ago
-
----
-
-**[Bitcoin To $11 Million By 2036? This AI-Deflation Thesis Is Turning Heads](https://www.tradingview.com/news/newsbtc:b76d6aa64094b:0-bitcoin-to-11-million-by-2036-this-ai-deflation-thesis-is-turning-heads/)**
-
-Joe Burnett, VP of Bitcoin Strategy at Strive (Nasdaq: ASST), is arguing that bitcoin could reach $11 million by the first quarter of 2036, not because it replaces the financial system, but because it becomes the dominant long-duration savings asset in an economy reshaped by AI-led deflation and re…
-
-TradingView • 5h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[AI Models Prefer Bitcoin Over Fiat and Stablecoins, Study Finds](https://finance.yahoo.com/news/ai-models-prefer-bitcoin-over-014845513.html)**
+**[BTC, ETH, SOL, XRP price news: Why is bitcoin down today](https://www.coindesk.com/markets/2026/03/04/bitcoin-holds-ether-solana-slide-as-mideast-woes-drag-asian-equities-to-multi-year-lows)**
 
-Bitcoin Policy Institute study finds AI systems, including Claude, GPT, Grok, and Gemini, favored Bitcoin over fiat and other digital assets.
+The largest cryptocurrency briefly reclaimed the top of its range on Tuesday before sellers pushed it back to $67,000, while South Korean stocks posted their worst two-day drop since 2008.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin rebounds toward $70,000 as ETFs pull in $1.45 billion in five days](https://www.coindesk.com/markets/2026/03/04/bitcoin-rebounds-toward-usd70-000-as-etfs-pull-in-usd1-45-billion-in-five-days)**
-
-Market maker Enflux says traders are not pricing catastrophe or resolution to the conflict in the Middle East, while Glassnode data shows improving spot demand but cautious derivatives positioning.
-
-CoinDesk • 1h ago
+CoinDesk • 11m ago
 
 ---
 
@@ -217,9 +203,23 @@ Fox News • 1d ago
 
 ---
 
+**[Bitcoin Slides as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
+
+Bloomberg.com • 7h ago
+
+---
+
 **[Iran Crypto Activity Spikes. Miners Tumble On Bitcoin Sale Plans.](https://www.investors.com/news/bitcoin-miners-sell-holdings-mara-core-scientific-iran-cryptocurrency-outflows/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
+
+---
+
+**[Bitcoin’s Second-Largest Corporate Holder Just Changed the Rules: Is MicroStrategy Next?](https://finance.yahoo.com/news/bitcoin-second-largest-corporate-holder-161533087.html)**
+
+MARA Holdings pivots to allow Bitcoin sales, raising questions about MicroStrategy’s stance as corporate Bitcoin treasuries evolve.
+
+Yahoo Finance • 13h ago
 
 ---
 
@@ -227,7 +227,7 @@ Investor's Business Daily • 6h ago
 
 MARA has expanded its policy to allow balance sheet bitcoin sales after reporting a $422.2 million fair-value decline in 2025.
 
-The Block • 15h ago
+The Block • 17h ago
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 174 • ⏱️ 15:07 • 5h ago
+👁️ 13K • 👍 1K • 💬 174 • ⏱️ 15:07 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ I published the case for $11 million bitcoin by 2036. Read the full letter here:
 
 📺 Joe Burnett
 
-👁️ 2K • 👍 151 • 💬 41 • ⏱️ 15:22 • 14h ago
+👁️ 2K • 👍 151 • 💬 41 • ⏱️ 15:22 • 15h ago
 
 ---
 
@@ -345,7 +345,7 @@ Nick Valdez weighs all the takes from the so-called commodity experts. One thing
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 141 • 💬 22 • ⏱️ 9:10 • 5h ago
+👁️ 3K • 👍 141 • 💬 22 • ⏱️ 9:10 • 6h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin has been in a bear market for several months. Let's talk about the bear 
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 3K • 💬 128 • ⏱️ 19:12 • 13h ago
+👁️ 45K • 👍 3K • 💬 128 • ⏱️ 19:12 • 14h ago
 
 ---
 
@@ -365,7 +365,7 @@ Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum 
 
 📺 Schwab Network
 
-👁️ 2K • 👍 25 • 💬 3 • ⏱️ 8:40 • 8h ago
+👁️ 2K • 👍 25 • 💬 3 • ⏱️ 8:40 • 9h ago
 
 ---
 
@@ -375,7 +375,7 @@ Fidelity and VanEck both just released their outlook and Bitcoin Prediction for 
 
 📺 VirtualBacon
 
-👁️ 12K • 👍 555 • 💬 118 • ⏱️ 48:47 • 7h ago
+👁️ 12K • 👍 555 • 💬 118 • ⏱️ 48:47 • 8h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bombs are falling in the Middle East. Gold just lost over $1 trillion in minutes
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 1K • 💬 79 • ⏱️ 18:46 • 5h ago
+👁️ 15K • 👍 1K • 💬 79 • ⏱️ 18:46 • 6h ago
 
 ---
 
@@ -395,7 +395,7 @@ BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 4K • 👍 204 • 💬 130 • ⏱️ 16:36 • 6h ago
+👁️ 4K • 👍 204 • 💬 130 • ⏱️ 16:36 • 7h ago
 
 ---
 
