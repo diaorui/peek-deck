@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T08:52:35.654577+00:00'
+updated: '2026-03-04T09:41:35.796065+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 08:52 UTC  
+**Last Updated:** March 04, 2026 at 09:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I printed the front of the head and the back is currently printing, that hole is
 
 Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t shipped yet. He argues that while many look impressive in demonstrations, but shipping real systems requires a level of reliability that is difficult to achieve. Walking, balance, manipulation, perception, and safety all have to work together in real environments, not controlled labs. Until those systems can operate reliably, consistently, and at a reasonable cost, most humanoid robots will remain in the prototype or demonstration stage rather than large-scale deployment.
 
-12h ago
+13h ago
 
 ---
 
@@ -60,7 +60,7 @@ Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t 
 
 Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-way Observation) indoor positioning setup and thought it was worth sharing. There plenty of in-house positioning tech include Wifi/BLE/IMU/Lidar/RFID. Of all the tech, the UWB is a competitive solution with high precision/lower power consumption and save, much stable than Wifi/BLE Tech Advantages Disadvantage Wifi Cheap LowResolution(3~10m) BLE Low Power LowResolution(2~5m) IMU Without any wireless signal Drift in field application RFID Chip Only Yes/No judgement LiDar High precision High-Cost UWB High precision（0.1m） High installation Requests UWB can be used in AGV/in house mobile tracking. The UWB DSTO((Distributed Synchronization and Two-way Observation) system is based on UWB tech, different with common UWB system that composed with anchors/tags, the DSTO system is composed of multiple nodes, every node in the system can report its distance between itself with all the other nodes( also called peer-to-peer mesh), suitable for application such as anti-collision. For example in an in-house forklift system, all the forklift are auto or manually controlled, to avoid them collision to each other , this UWB DSTO could be a solution, every forklift get its distance with other forklift with frequency 20Hz, so they can be urgently stopped when they reach the safe distance limit. A simple demo of this tech at: https://youtu.be/iGKn3G82pY0 If anyone is working on similar projects or product development, feel free to discuss in the comments section ： ）
 
-2h ago
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-wa
 
 If you are from arizona and you are a robotics engineer dm me, i have an idea for an invention im disabled and its a piece of tech that would help tons of disabled people around the world basically a new type of wheelchair pls dm if interested
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ If you are from arizona and you are a robotics engineer dm me, i have an idea fo
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_realsense.html
 
-17h ago
+18h ago
 
 ---
 
@@ -94,7 +94,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_r
 
 **[Docker pulls more than it needs to](https://www.reddit.com/r/robotics/comments/1rka9xy/docker_pulls_more_than_it_needs_to/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -102,7 +102,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_r
 
 Releasing HDDS -- a complete DDS (Data Distribution Service) implementation built from scratch in Rust. For the robotics crowd, the relevant demos: - **Robot Swarm** -- 12 boids with 6 behavior modes (flocking, formation, patrol...), fully decentralized via DDS pub/sub - **LiDAR SLAM** -- autonomous maze mapping with occupancy grid, frontier exploration, all sensor data over DDS - **Drone Racing** -- 6 AI drones navigating gates independently, 60Hz position updates, zero central controller - **F1Tenth Racing** -- bicycle model physics, AI waypoint following with Menger curvature braking DDS is the standard middleware in military robotics and autonomous systems. HDDS is a fully open-source alternative to RTI Connext. Also includes a ROS2 RMW layer (rmw_hdds) if you want to plug it into your existing ROS2 stack. - Source: github.com/hdds-team - Demos: packs.hdds.io
 
-17h ago
+18h ago
 
 ---
 
@@ -128,7 +128,7 @@ CNBC • 1d ago
 
 Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
 
-Time Magazine • 21h ago
+Time Magazine • 22h ago
 
 ---
 
@@ -136,7 +136,7 @@ Time Magazine • 21h ago
 
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
-Kraken Robotics • 10h ago
+Kraken Robotics • 11h ago
 
 ---
 
@@ -152,7 +152,7 @@ Supply Chain Dive • 1d ago
 
 Key PointsTesla is spending $20 billion on capital expenditures this year, more than double what it spent a year ago.
 
-Nasdaq • 17h ago
+Nasdaq • 18h ago
 
 ---
 
@@ -160,7 +160,7 @@ Nasdaq • 17h ago
 
 The once high-flying Boston company is spinning off its biosecurity unit and closing its non-automated labs.
 
-The Boston Globe • 15h ago
+The Boston Globe • 16h ago
 
 ---
 
@@ -192,23 +192,23 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Honest AI in a robot shows we’re close to disaster](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
-
-Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous? Get your $5 sign-up bonus at ...
-
-📺 InsideAI
-
-👁️ 116K • 👍 9K • 💬 1K • ⏱️ 16:54 • 14h ago
-
----
-
 **[Quickest Intake in DECODE? | 3565 Ghost Robotics | FTC Snapshot](https://www.youtube.com/watch?v=ex9anz-_BCs)**
 
 Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fastest compliant intakes in FTC DECODE.
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 42 • ⏱️ 1:11 • 9h ago
+👁️ 3K • 👍 47 • 💬 1 • ⏱️ 1:11 • 10h ago
+
+---
+
+**[The Strangest Phone Ever Made + Honor’s Humanoid at MWC](https://www.youtube.com/watch?v=XSKGkRCcEyQ)**
+
+At MWC 2026 in Barcelona, we go hands-on with Honor's bold vision for embodied AI. From a humanoid shopping assistant robot ...
+
+📺 Digital Trends
+
+👁️ 9K • 👍 182 • 💬 20 • ⏱️ 2:53 • 1d ago
 
 ---
 
@@ -222,13 +222,13 @@ Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These
 
 ---
 
-**[The Strangest Phone Ever Made + Honor’s Humanoid at MWC](https://www.youtube.com/watch?v=XSKGkRCcEyQ)**
+**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
 
-At MWC 2026 in Barcelona, we go hands-on with Honor's bold vision for embodied AI. From a humanoid shopping assistant robot ...
+A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
 
-📺 Digital Trends
+📺 Billionaire Shots
 
-👁️ 9K • 👍 176 • 💬 19 • ⏱️ 2:53 • 1d ago
+👁️ 9K • 👍 641 • 💬 81 • ⏱️ 0:13 • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ Reset Sensors & Passive Middle Goal | 39Y Yolt | Robot Rundown Triple Crown winn
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 59 • 💬 4 • ⏱️ 1:26 • 8h ago
+👁️ 2K • 👍 63 • 💬 4 • ⏱️ 1:26 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 📺 Dumb Money Live
 
-👁️ 16K • 👍 435 • 💬 139 • ⏱️ 13:15 • 4d ago
+👁️ 16K • 👍 436 • 💬 140 • ⏱️ 13:15 • 4d ago
 
 ---
 
@@ -258,7 +258,15 @@ China is building robots faster than any country in the world and if you want to
 
 📺 Cyrus Janssen
 
-👁️ 263K • 👍 7K • 💬 1K • ⏱️ 11:41 • 6d ago
+👁️ 264K • 👍 7K • 💬 1K • ⏱️ 11:41 • 6d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=GoRYre93AJ4)**
+
+📺 zhulongfeng 6
+
+👁️ 30K • 👍 104 • 💬 1 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -268,25 +276,17 @@ War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the u
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 450 • 💬 103 • ⏱️ 17:41 • 1d ago
+👁️ 9K • 👍 453 • 💬 103 • ⏱️ 17:41 • 1d ago
 
 ---
 
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=GoRYre93AJ4)**
+**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
 
-📺 zhulongfeng 6
+Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
 
-👁️ 27K • 👍 102 • 💬 1 • ⏱️ 0:23 • 1d ago
+📺 NBC News
 
----
-
-**[Barcelona MWC 2026 Opens with Humanoid Robots and AI Breakthroughs | APT](https://www.youtube.com/watch?v=fzXFWzHfaz8)**
-
-Day one of Mobile World Congress 2026 in Barcelona spotlighted next-generation robotics and AI innovation. China's AgiBot ...
-
-📺 APT
-
-👁️ 2K • 👍 15 • 💬 2 • ⏱️ 5:34 • 1d ago
+👁️ 128K • 👍 2K • 💬 438 • ⏱️ 12:16 • 5d ago
 
 ---
 

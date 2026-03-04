@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T08:52:35.645103+00:00'
+updated: '2026-03-04T09:41:35.787997+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 08:52 UTC  
+**Last Updated:** March 04, 2026 at 09:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1369.63B
+**Market Cap:** $1434.20B
 Rank #1
 
-**Circulating Supply:** 19,997,587 BTC
+**Circulating Supply:** 19,997,609 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.7%
+-43.1%
 
 **All-Time Low:** $67.81
-+100854.1%
++105663.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Need to pay off some debt first with the cash I have but man…. At .7 btc that wholecoiner status is looking at me like Roger rabbits wife
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ Need to pay off some debt first with the cash I have but man…. At .7 btc that 
 
 If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
 
-1h ago
+2h ago
 
 ---
 
@@ -103,13 +103,13 @@ If you're wondering how to find the circulating coins info, you can use your own
 
 My first bitcoin purchase.
 
-12h ago
+13h ago
 
 ---
 
 **[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
 
-🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 19h ago
+🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 20h ago
 
 ---
 
@@ -117,7 +117,7 @@ My first bitcoin purchase.
 
 The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $126K ATH from October 2025. Sounds brutal — but the structural signals underneath are shifting fast. A few things worth watching right now: Spot BTC ETF outflows slowed from $1.6B to $206M in February, then flipped to $787M in net inflows in the final week alone SEC Chair Paul Atkins just signaled a push toward a more innovation-friendly regulatory framework as of March 1 The U.S. Strategic Bitcoin Reserve is now acting as a structural price floor 200-day MA still trending up, 50-day SMA providing active daily support The last time we saw fear this extreme with institutional flows quietly reversing direction was... well, you know how that played out. Not financial advice — just tracking the data. Curious what the rest of you are seeing in the on-chain and ETF flow data right now. Source & full analysis: https://www.cryptobull.org/hot-coins/hot-coins-2026
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $1
 
 Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
 4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
 
-19h ago
+20h ago
 
 ---
 
@@ -141,13 +141,13 @@ Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
 curious what everyone is doing EDIT: I DCA bi weekly, but i have about 10k in cash ready to blow
 
-5h ago
+6h ago
 
 ---
 
 **[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -159,7 +159,7 @@ curious what everyone is doing EDIT: I DCA bi weekly, but i have about 10k in ca
 
 From The Core Issue: A look back at Segregated Witness and Taproot, Bitcoin's two largest upgrades, and why they were designed the way they were.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 1d ago
 
 Bitfinex analyst argue that ETF inflows can be misread as immediate spot demand.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 2h ago
 
 The largest cryptocurrency briefly reclaimed the top of its range on Tuesday before sellers pushed it back to $67,000, while South Korean stocks posted their worst two-day drop since 2008.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 3h ago
 
 The Bridgewater founder dismissed bitcoin's safe-haven credentials on the same day gold dropped 3% while bitcoin fell less than 1%.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 1h ago
 
 Key PointsBitcoin is a store of value, but it's facing a huge risk in the next 10 years or so.
 
-Nasdaq • 5h ago
+Nasdaq • 6h ago
 
 ---
 
@@ -231,7 +231,7 @@ Fox News • 1d ago
 
 Ark Invest founder Cathie Wood said on Thursday that the firm’s conviction in Bitcoin’s potential has strengthened despite the ongoing drawdown, but lowered the 2030 target from $1.5 million. Stablecoin Adoption Impacting Wood’s Bull Case During an interview with Morningstar...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -319,17 +319,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 101 • ⏱️ 15:07 • 10h ago
-
----
-
-**[The Case for $11M Bitcoin by 2036](https://www.youtube.com/watch?v=LhvGcyoOYWA)**
-
-I published the case for $11 million bitcoin by 2036. Read the full letter here: ...
-
-📺 Joe Burnett
-
-👁️ 2K • 👍 151 • 💬 19 • ⏱️ 15:22 • 18h ago
+👁️ 21K • 👍 1K • 💬 112 • ⏱️ 15:07 • 10h ago
 
 ---
 
@@ -339,7 +329,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 124 • ⏱️ 10:14 • 1d ago
+👁️ 53K • 👍 2K • 💬 128 • ⏱️ 10:14 • 1d ago
 
 ---
 
@@ -349,57 +339,27 @@ Bombs are falling in the Middle East. Gold just lost over $1 trillion in minutes
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 80 • ⏱️ 18:46 • 10h ago
+👁️ 27K • 👍 1K • 💬 85 • ⏱️ 18:46 • 10h ago
 
 ---
 
-**[BITCOIN: CALM BEFORE THE STORM!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=_X4fEJwKxyo)**
-
-My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
-
-📺 Road To $1 Million USD
-
-👁️ 3K • 👍 208 • 💬 20 • ⏱️ 4:27 • 10h ago
-
----
-
-**[Bitcoin: A Bear Market State of Mind](https://www.youtube.com/watch?v=T-Nf7ZfarOs)**
-
-Bitcoin has been in a bear market for several months. Let's talk about the bear market state of mind. Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 48K • 👍 3K • 💬 136 • ⏱️ 19:12 • 17h ago
-
----
-
-**[Bitcoin To Gold Rotation Starting!! Experts Weigh In](https://www.youtube.com/watch?v=JrZerdfSgI4)**
-
-Nick Valdez weighs all the takes from the so-called commodity experts. One thing they all have in common? They think gold ...
-
-📺 Discover Crypto
-
-👁️ 3K • 👍 172 • 💬 18 • ⏱️ 9:10 • 9h ago
-
----
-
-**[Bitcoin&#39;s Pattern  2022 vs Today&#39;s Geopolitical Parallels](https://www.youtube.com/watch?v=FCEhiG5PzBI)**
+**[In The Prior Midterm Years, This Is What Happened To Bitcoin](https://www.youtube.com/watch?v=TKXVraM5P_Y)**
 
 Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
 
 📺 Benjamin Cowen
 
-👁️ 24K • 👍 342 • 💬 12 • ⏱️ 0:41 • 1d ago
+👁️ 4K • 👍 124 • 💬 2 • ⏱️ 0:59 • 7h ago
 
 ---
 
-**[Bitcoin &amp; Altcoins: Big Move Soon (Watch ASAP) 🚨 Crypto News &amp; Analysis Today 📰](https://www.youtube.com/watch?v=GSH0dHCmXDc)**
+**[The Case for $11M Bitcoin by 2036](https://www.youtube.com/watch?v=LhvGcyoOYWA)**
 
-Bitunix - 50k Prize Pool + 15% off Trading Fees Register here: https://www.bitunix.com/act/partner?landingCode=paxadver ...
+I published the case for $11 million bitcoin by 2036. Read the full letter here: ...
 
-📺 CryptoCache
+📺 Joe Burnett
 
-👁️ 2K • 👍 150 • 💬 20 • ⏱️ 15:09 • 16h ago
+👁️ 2K • 👍 153 • 💬 19 • ⏱️ 15:22 • 19h ago
 
 ---
 
@@ -409,7 +369,47 @@ Bitcoin usually gets a rally into early March, then forms a lower high and goes 
 
 📺 Benjamin Cowen
 
-👁️ 93K • 👍 5K • 💬 250 • ⏱️ 21:27 • 1d ago
+👁️ 94K • 👍 5K • 💬 250 • ⏱️ 21:27 • 1d ago
+
+---
+
+**[Bitcoin: A Bear Market State of Mind](https://www.youtube.com/watch?v=T-Nf7ZfarOs)**
+
+Bitcoin has been in a bear market for several months. Let's talk about the bear market state of mind. Into The Cryptoverse ...
+
+📺 Benjamin Cowen
+
+👁️ 52K • 👍 3K • 💬 140 • ⏱️ 19:12 • 18h ago
+
+---
+
+**[Bitcoin vs Iran Tensions - What Happens Next?](https://www.youtube.com/watch?v=kA7vZ_0JJ4o)**
+
+Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+
+📺 CryptosRUs
+
+👁️ 18K • 👍 1K • 💬 107 • ⏱️ 9:16 • 2d ago
+
+---
+
+**[Bitcoin&#39;s Pattern  2022 vs Today&#39;s Geopolitical Parallels](https://www.youtube.com/watch?v=FCEhiG5PzBI)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+
+📺 Benjamin Cowen
+
+👁️ 24K • 👍 344 • 💬 12 • ⏱️ 0:41 • 1d ago
+
+---
+
+**[Bitcoin &amp; Altcoins: Big Move Soon (Watch ASAP) 🚨 Crypto News &amp; Analysis Today 📰](https://www.youtube.com/watch?v=GSH0dHCmXDc)**
+
+Bitunix - 50k Prize Pool + 15% off Trading Fees Register here: https://www.bitunix.com/act/partner?landingCode=paxadver ...
+
+📺 CryptoCache
+
+👁️ 2K • 👍 152 • 💬 21 • ⏱️ 15:09 • 16h ago
 
 ---
 
