@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T17:09:33.872009+00:00'
+updated: '2026-03-04T18:03:28.564794+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 17:09 UTC  
+**Last Updated:** March 04, 2026 at 18:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Rank #1
 
 Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
-1h ago
+2h ago
 
 ---
 
 **[The Bitcoin CEO ordered me to post this here](https://www.reddit.com/r/Bitcoin/comments/1rkqmp7/the_bitcoin_ceo_ordered_me_to_post_this_here/)**
 
-17m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
 I’ve been DCA’ing $250 a week into Bitcoin for the past two years and I haven’t missed a week. I’m in it long term, not trying to trade every move. But I’m genuinely unsure what the move is when Bitcoin hits an all-time high. Do you take profits? Trim like 10–20%? Sell your initial capital and let the rest ride? Or just ignore the price and keep buying like nothing’s changed? Last time it was ripping (around $120k) I just kept buying and didn’t even think about a plan. I don’t want to make stupid decisions like that again. Curious what people here actually do in that situation — not theory, but what you personally stick to.
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ I’ve been DCA’ing $250 a week into Bitcoin for the past two years and I have
 
 When the-back-over-100k-faster-than-projected thesis was presented many people reacted with hostility but.. Look at just what happened to the trend. Some people wanted this to be 2022 but we are not in that position, its a different time and setup. A rush might have just started, looks like.
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ When the-back-over-100k-faster-than-projected thesis was presented many people r
 
 If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
 
-10h ago
+11h ago
 
 ---
 
@@ -125,7 +125,7 @@ If you're wondering how to find the circulating coins info, you can use your own
 
 that turned out to be a lie :-(
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ that turned out to be a lie :-(
 
 Just another way to dca
 
-4h ago
+5h ago
 
 ---
 
@@ -147,7 +147,7 @@ Just another way to dca
 
 Been down the Bitcoin rabbit hole for a while now and I'm genuinely curious about the mining side of things. I've always just stacked sats by buying, but lately I've been wondering if running miners makes sense or if it's just a hobby at this point for individuals. Some questions for anyone who's actually doing it.. What's your all-in cost per Bitcoin mined? (Power + hardware depreciation) Is it cheaper than just buying spot, or are you doing it for other reasons (supporting the network, betting on price appreciation, etc.)? How do you think about the payback period on hardware when difficulty keeps climbing? For people in high-cost electricity areas, how do you make it work?
 
-3h ago
+4h ago
 
 ---
 
@@ -157,13 +157,13 @@ Been down the Bitcoin rabbit hole for a while now and I'm genuinely curious abou
 
 **[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqe1cn_W1AkUvtSbPIfYFmPPbSt1DBs3S5vmYEL6VYEADKVftEH90y_u&gaa_ts=69a86ab1&gaa_sig=sjEq36daJ6DWMafJj5UhgcEV1WqlXCuMRZWBnj_xpPsiskFcUF0psRnOJK582sBY3813EeUvji_raMCLExe0iA%3D%3D)**
 
-Barron's • 48m ago
+Barron's • 1h ago
 
 ---
 
 **[Bitcoin Jumps With ETF Flows, Trump Blames Banks For Clarity Delay](https://www.investors.com/news/bitcoin-price-etf-flows-trump-banks-clarity-act-genius-cathie-wood-ark-coinbase-robinhood-stock/)**
 
-Investor's Business Daily • 35m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Investor's Business Daily • 35m ago
 
 Morgan Stanley's updated S-1 filing named Coinbase and BNY as custodians for its proposed bitcoin exchange-traded product.
 
-The Block • 27m ago
+The Block • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 27m ago
 
 Biglari Holdings-owned fast food chain Steak ‘n Shake said Monday that it will start offering Bitcoin bonuses to all its hourly employees starting in March. Bitcoin Bonuses For Employees In an X post, the popular burger chain said it will...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 Key PointsBitcoin is widely considered a store of value within the broader cryptocurrency landscape.
 
-Nasdaq • 6h ago
+Nasdaq • 7h ago
 
 ---
 
@@ -225,7 +225,7 @@ The Motley Fool • 2d ago
 
 As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
 
-Dallas News • 1d ago
+Dallas News • 2d ago
 
 ---
 
@@ -279,7 +279,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 Complete operating system for Bitcoiners
 
-⬆️ 2 • 💬 1 • 2h ago • [opacore.com](https://opacore.com)
+⬆️ 2 • 💬 1 • 3h ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 157 • ⏱️ 15:07 • 18h ago
+👁️ 29K • 👍 2K • 💬 157 • ⏱️ 15:07 • 19h ago
 
 ---
 
@@ -335,7 +335,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 13K • 👍 640 • 💬 77 • ⏱️ 13:18 • 7h ago
+👁️ 13K • 👍 640 • 💬 77 • ⏱️ 13:18 • 8h ago
 
 ---
 
@@ -345,7 +345,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 182 • 💬 10 • ⏱️ 50:12 • 1h ago
+👁️ 2K • 👍 182 • 💬 10 • ⏱️ 50:12 • 2h ago
 
 ---
 
@@ -355,7 +355,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 861 • 💬 55 • ⏱️ 52:08 • 1h ago
+👁️ 10K • 👍 861 • 💬 55 • ⏱️ 52:08 • 2h ago
 
 ---
 
@@ -365,7 +365,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 10K • 👍 655 • 💬 90 • ⏱️ 5:16 • 7h ago
+👁️ 10K • 👍 655 • 💬 90 • ⏱️ 5:16 • 8h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin traders may be running out of time. In this video, Sheldon breaks down t
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 646 • 💬 22 • ⏱️ 19:29 • 6h ago
+👁️ 8K • 👍 646 • 💬 22 • ⏱️ 19:29 • 7h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bill Maher takes aim at Bitcoin and the massive environmental cost of cryptocurr
 
 📺 The Unfiltered Republic
 
-👁️ 4K • 👍 160 • 💬 7 • ⏱️ 0:48 • 12h ago
+👁️ 4K • 👍 160 • 💬 7 • ⏱️ 0:48 • 13h ago
 
 ---
 
@@ -395,7 +395,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 232 • 💬 24 • ⏱️ 4:27 • 18h ago
+👁️ 5K • 👍 232 • 💬 24 • ⏱️ 4:27 • 19h ago
 
 ---
 
@@ -405,7 +405,7 @@ Nick Valdez weighs all the takes from the so-called commodity experts. One thing
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 209 • 💬 21 • ⏱️ 9:10 • 18h ago
+👁️ 5K • 👍 209 • 💬 21 • ⏱️ 9:10 • 19h ago
 
 ---
 

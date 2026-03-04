@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T17:09:33.881334+00:00'
+updated: '2026-03-04T18:03:28.574084+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 17:09 UTC  
+**Last Updated:** March 04, 2026 at 18:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humanoid robot process here. We open-sourced the legs and will open-source the full body soon. Your questions and comments along the way really helped us a lot. Appreciate it! A few days ago more than 50 people on X told us they'd be interested in a DIY humanoid robot kit. So we did it. We put together all parts from mechanical to electrical to build the Asimov robot. It's 1.20m, 35kg, 25+2 degrees of freedom (+2 comes from the articulated toe!). Asimov is a really powerful robot with almost the same specs as the Unitree G1. Some parts like the arms are actually stronger. We call the kit "Here Be Dragons", a name used for highly experimental, beta-before-beta releases. The kind where you're one of the first users, talking directly to the engineers, reporting bugs, and getting a fix the same day. We're now preparing a user manual and assembly videos too. The target price is $15,000, which is higher than our current BOM cost. We're taking pre-orders with a $499 deposit to find serious builders and learn what they need. We got 14 orders in a few hours and are planning to close pre-orders soon to handle it properly. So our build-in-public journey is turning into a business earlier than expected, and we're not looking for profit from the DIY Kit. Wanted to share with you all. If you're hacking something, please do share with the community. Details for the pre-order: https://asimov.inc/diy-kit
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/research/memory From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2028954630458401040
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
 
-9h ago
+10h ago
 
 ---
 
@@ -68,7 +68,7 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t shipped yet. He argues that while many look impressive in demonstrations, but shipping real systems requires a level of reliability that is difficult to achieve. Walking, balance, manipulation, perception, and safety all have to work together in real environments, not controlled labs. Until those systems can operate reliably, consistently, and at a reasonable cost, most humanoid robots will remain in the prototype or demonstration stage rather than large-scale deployment.
 
-21h ago
+22h ago
 
 ---
 
@@ -76,7 +76,7 @@ Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t 
 
 I've built an open source cable robot that can be used to pick and place any object in a room. You can either buy one assembled from neufangled.com or print and build it from source. In this video I go over one of the dozens of design challenges that I've tackled to make it work reliably in my house. I'm aiming to keep iterating on this hardware until I've got a cleaning appliance so reliable I can just turn it on and forget it, coming back to cleaner floors. I've made a lot of videos along the way, ranging from how I solve individual problems to a breakdown of the costs of all the parts. If this looks like something you would like, please consider giving it a try in your room. I'm working closely with all my early beta testers. Thanks for looking
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 26m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 1h ago
 
 ---
 
@@ -84,13 +84,13 @@ I've built an open source cable robot that can be used to pick and place any obj
 
 Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-way Observation) indoor positioning setup and thought it was worth sharing. There plenty of in-house positioning tech include Wifi/BLE/IMU/Lidar/RFID. Of all the tech, the UWB is a competitive solution with high precision/lower power consumption and save, much stable than Wifi/BLE Tech Advantages Disadvantage Wifi Cheap LowResolution(3~10m) BLE Low Power LowResolution(2~5m) IMU Without any wireless signal Drift in field application RFID Chip Only Yes/No judgement LiDar High precision High-Cost UWB High precision（0.1m） High installation Requests UWB can be used in AGV/in house mobile tracking. The UWB DSTO((Distributed Synchronization and Two-way Observation) system is based on UWB tech, different with common UWB system that composed with anchors/tags, the DSTO system is composed of multiple nodes, every node in the system can report its distance between itself with all the other nodes( also called peer-to-peer mesh), suitable for application such as anti-collision. For example in an in-house forklift system, all the forklift are auto or manually controlled, to avoid them collision to each other , this UWB DSTO could be a solution, every forklift get its distance with other forklift with frequency 20Hz, so they can be urgently stopped when they reach the safe distance limit. A simple demo of this tech at: https://youtu.be/iGKn3G82pY0 If anyone is working on similar projects or product development, feel free to discuss in the comments section ： ）
 
-10h ago
+11h ago
 
 ---
 
 **[Inspired by ROSClaw, AgenticROS is a new open source multi-AI agent robotics platform that connects ROS to OpenClaw (and other agentic systems) to enable Physical AI. It supports RealSense stereo depth cameras, ROS2, Zenoh messaging, TeleOp, and robot missions!](https://www.reddit.com/r/robotics/comments/1rkne85/inspired_by_rosclaw_agenticros_is_a_new_open/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -106,7 +106,7 @@ I know it might sound dumb, but I am a college student and want to learn robotic
 
 If you are from arizona and you are a robotics engineer dm me, i have an idea for an invention im disabled and its a piece of tech that would help tons of disabled people around the world basically a new type of wheelchair pls dm if interested
 
-11h ago
+12h ago
 
 ---
 
@@ -116,13 +116,13 @@ If you are from arizona and you are a robotics engineer dm me, i have an idea fo
 
 **[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
 
-Phys.org • 23h ago
+Phys.org • 1d ago
 
 ---
 
 **[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -130,7 +130,7 @@ Bloomberg • 1h ago
 
 Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -144,7 +144,7 @@ TechNode • 1d ago
 
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
-Kraken Robotics • 19h ago
+Kraken Robotics • 20h ago
 
 ---
 
@@ -152,13 +152,13 @@ Kraken Robotics • 19h ago
 
 A pair of robotics teams from Dubuque’s Eleanor Roosevelt Middle School competed at a state competition over the weekend, with their coach earning an award.
 
-TelegraphHerald.com • 10h ago
+TelegraphHerald.com • 11h ago
 
 ---
 
 **[Simulated cats and elephants with touch-based memory help usher in new age of robotics](https://techxplore.com/news/2026-03-simulated-cats-elephants-based-memory.html)**
 
-Tech Xplore • 23h ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -182,7 +182,7 @@ Nasdaq • 1d ago
 
 Florida Power & Light Company (FPL) is making it easier for high school seniors who love robotics and drones to get ahead in their education.
 
-Yahoo • 4h ago
+Yahoo • 5h ago
 
 ---
 
@@ -206,7 +206,7 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 60 • 💬 1 • ⏱️ 1:11 • 17h ago
+👁️ 3K • 👍 60 • 💬 1 • ⏱️ 1:11 • 18h ago
 
 ---
 
@@ -236,7 +236,7 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 18K • 👍 1K • 💬 148 • ⏱️ 0:13 • 13h ago
+👁️ 18K • 👍 1K • 💬 148 • ⏱️ 0:13 • 14h ago
 
 ---
 
