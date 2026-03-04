@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T09:41:35.787997+00:00'
+updated: '2026-03-04T10:38:04.798145+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 09:41 UTC  
+**Last Updated:** March 04, 2026 at 10:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,650.00
+### $71,544.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.9%  
-**7d:** +4.6%  
-**30d:** -6.8%  
-**90d:** -20.8%  
-**1y:** -21.9%  
+**24h:** +6.5%  
+**7d:** +5.8%  
+**30d:** -5.7%  
+**90d:** -19.9%  
+**1y:** -20.9%  
 
 ---
 
@@ -79,15 +79,15 @@ Rank #1
 
 **[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
 
-14h ago
+15h ago
 
 ---
 
-**[Fighting the urge to buy](https://www.reddit.com/r/Bitcoin/comments/1rk6drl/fighting_the_urge_to_buy/)**
+**[😮👌](https://www.reddit.com/r/Bitcoin/comments/1rkgbxc/_/)**
 
-Need to pay off some debt first with the cash I have but man…. At .7 btc that wholecoiner status is looking at me like Roger rabbits wife
+🇺🇸 Blackrock ETF has bought $264,520,000 in Bitcoin . Massive inflow is coming 🔥
 
-9h ago
+1h ago
 
 ---
 
@@ -95,7 +95,31 @@ Need to pay off some debt first with the cash I have but man…. At .7 btc that 
 
 If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
 
-2h ago
+3h ago
+
+---
+
+**[so what now?](https://www.reddit.com/r/Bitcoin/comments/1rkh4bq/so_what_now/)**
+
+When the-back-over-100k-faster-than-projected thesis was presented many people reacted with hostility but.. Look at just what happened to the trend. Some people wanted this to be 2022 but we are not in that position, its a different time and setup. A rush might have just started, looks like.
+
+1h ago
+
+---
+
+**[Fighting the urge to buy](https://www.reddit.com/r/Bitcoin/comments/1rk6drl/fighting_the_urge_to_buy/)**
+
+Need to pay off some debt first with the cash I have but man…. At .7 btc that wholecoiner status is looking at me like Roger rabbits wife
+
+10h ago
+
+---
+
+**[Bitcoin Demand Surge Explodes as BTC Hits $71K While Humans, AI, and Global Markets Pile In](https://www.reddit.com/r/Bitcoin/comments/1rkhlf1/bitcoin_demand_surge_explodes_as_btc_hits_71k/)**
+
+Bitcoin demand surge driven by safe‑haven demand, AI crypto adoption, Asia market selloff, and a sharp Bitcoin price breakout.
+
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/bitcoin-demand-surge-btc-hits-71k-markets-flee-risk/) • 33m ago
 
 ---
 
@@ -103,13 +127,7 @@ If you're wondering how to find the circulating coins info, you can use your own
 
 My first bitcoin purchase.
 
-13h ago
-
----
-
-**[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
-
-🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 20h ago
+14h ago
 
 ---
 
@@ -117,7 +135,13 @@ My first bitcoin purchase.
 
 The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $126K ATH from October 2025. Sounds brutal — but the structural signals underneath are shifting fast. A few things worth watching right now: Spot BTC ETF outflows slowed from $1.6B to $206M in February, then flipped to $787M in net inflows in the final week alone SEC Chair Paul Atkins just signaled a push toward a more innovation-friendly regulatory framework as of March 1 The U.S. Strategic Bitcoin Reserve is now acting as a structural price floor 200-day MA still trending up, 50-day SMA providing active daily support The last time we saw fear this extreme with institutional flows quietly reversing direction was... well, you know how that played out. Not financial advice — just tracking the data. Curious what the rest of you are seeing in the on-chain and ETF flow data right now. Source & full analysis: https://www.cryptobull.org/hot-coins/hot-coins-2026
 
-13h ago
+14h ago
+
+---
+
+**[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
+
+🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 21h ago
 
 ---
 
@@ -125,29 +149,7 @@ The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $1
 
 Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
-5h ago
-
----
-
-**[Sold my Honda Civic and bought more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rjpm3w/sold_my_honda_civic_and_bought_more_bitcoin/)**
-
-4 day ago i bought 0.01542493 BTC today sold my old Honda Civic for $2750 (0.0411 BTC) Total balance for now: 0.0565 BTC
-
-20h ago
-
----
-
-**[Is anyone buying at these levels or waiting still?](https://www.reddit.com/r/Bitcoin/comments/1rk9xsy/is_anyone_buying_at_these_levels_or_waiting_still/)**
-
-curious what everyone is doing EDIT: I DCA bi weekly, but i have about 10k in cash ready to blow
-
 6h ago
-
----
-
-**[What do governments do in times of war? Print money. How do you protect yourself? By owning scarce assets. Buy bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1rjsl3f/what_do_governments_do_in_times_of_war_print/)**
-
-18h ago
 
 ---
 
@@ -155,43 +157,47 @@ curious what everyone is doing EDIT: I DCA bi weekly, but i have about 10k in ca
 
 ## Google News: "bitcoin"
 
+**[Bitcoin jumps above $71,000, building on its resilience to Middle East conflict](https://www.coindesk.com/markets/2026/03/04/bitcoin-jumps-above-usd71-000-building-on-resilience-to-middle-east-conflict)**
+
+Bitcoin climbed above $71,000, gaining more than 6% in 24 hours and leading broad advances in major cryptocurrencies.
+
+CoinDesk • 1h ago
+
+---
+
 **[The Core Issue: Why Bitcoin Needed A Remodel With Segwit And Taproot](https://bitcoinmagazine.com/print/the-core-issue-why-bitcoin-needed-a-remodel-with-segwit-and-taproot)**
 
 From The Core Issue: A look back at Segregated Witness and Taproot, Bitcoin's two largest upgrades, and why they were designed the way they were.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
-**[BTC News: More than 95% of all bitcoin has already been mined, rest will take more than a century](https://www.coindesk.com/markets/2026/01/23/bitcoin-supply-approaching-20-million-the-final-million-will-take-another-114-years-to-mine)**
+**[Bitcoin Climbs Above $71,000 in Broad Crypto Advance](https://www.bloomberg.com/news/articles/2026-03-04/bitcoin-climbs-above-71-000-in-broad-crypto-advance)**
 
-Out of a fixed maximum supply of 21 million coins, more than 95% of all bitcoin that will ever exist is now in circulation
-
-CoinDesk • 1d ago
+Bloomberg • 55m ago
 
 ---
 
-**[Over a billion flows into bitcoin ETFs, yet the price isn’t rising — an analyst explains why](https://www.coindesk.com/markets/2026/03/04/over-a-billion-flows-into-bitcoin-etfs-yet-the-price-isn-t-rising-an-analyst-explains-why)**
+**[Did Market Manipulation Cause Bitcoin to Crash?](https://www.fool.com/investing/2026/03/04/did-market-manipulation-cause-bitcoin-to-crash/)**
 
-Bitfinex analyst argue that ETF inflows can be misread as immediate spot demand.
+There's a story going around that's worth knowing, but not worth believing.
 
-CoinDesk • 3h ago
-
----
-
-**[BTC, ETH, SOL, XRP price news: Why is bitcoin down today](https://www.coindesk.com/markets/2026/03/04/bitcoin-holds-ether-solana-slide-as-mideast-woes-drag-asian-equities-to-multi-year-lows)**
-
-The largest cryptocurrency briefly reclaimed the top of its range on Tuesday before sellers pushed it back to $67,000, while South Korean stocks posted their worst two-day drop since 2008.
-
-CoinDesk • 4h ago
+The Motley Fool • 23m ago
 
 ---
 
-**[Ray Dalio says 'there is only one gold' as bitcoin outperforms gold during worst geopolitical crisis in years](https://www.coindesk.com/markets/2026/03/04/ray-dalio-says-there-is-only-one-gold-as-bitcoin-outperforms-gold-during-the-worst-week-of-geopolitical-crisis-in-years)**
+**[Bitcoin Price Surges Above $70,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-etheruem-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqdsOweCJ4mt7EzIr4PINDi089ynRkfbK47YgIVEDrcV_QtwXX0aFqnr&gaa_ts=69a80ef5&gaa_sig=J04Aum7LDY7nkdukk-U4BzqkmKGwuzPSma0u-sul-XEBh_3DNMyneme1qcKSkaWQCRdaKondg5ZbfRbTVM5SqQ%3D%3D)**
 
-The Bridgewater founder dismissed bitcoin's safe-haven credentials on the same day gold dropped 3% while bitcoin fell less than 1%.
+Barron's • 50m ago
 
-CoinDesk • 2h ago
+---
+
+**[Better Buy During the Crypto Crash: Bitcoin or XRP?](https://www.fool.com/investing/2026/03/04/better-buy-during-the-crypto-crash-bitcoin-or-xrp/)**
+
+The cryptocurrency market is plummeting due to a number of factors driving concerns across the macroeconomy.
+
+The Motley Fool • 18m ago
 
 ---
 
@@ -199,23 +205,7 @@ CoinDesk • 2h ago
 
 Key PointsBitcoin is a store of value, but it's facing a huge risk in the next 10 years or so.
 
-Nasdaq • 6h ago
-
----
-
-**[Better Cryptocurrency to Buy Now With $1,000 And Hold For 3 Years: XRP vs. Bitcoin](https://www.fool.com/investing/2026/03/01/better-cryptocurrency-to-buy-now-with-1000-and-hol/)**
-
-The landscape is shifting rapidly, and these two coins are adapting differently.
-
-The Motley Fool • 3d ago
-
----
-
-**[Better Cryptocurrency to Buy Now With $1,000 And Hold For 3 Years: XRP vs. Bitcoin](https://finance.yahoo.com/news/better-cryptocurrency-buy-now-1-062000584.html)**
-
-The landscape is shifting rapidly, and these two coins are adapting differently.
-
-Yahoo Finance • 3d ago
+Nasdaq • 7h ago
 
 ---
 
@@ -231,7 +221,15 @@ Fox News • 1d ago
 
 Ark Invest founder Cathie Wood said on Thursday that the firm’s conviction in Bitcoin’s potential has strengthened despite the ongoing drawdown, but lowered the 2030 target from $1.5 million. Stablecoin Adoption Impacting Wood’s Bull Case During an interview with Morningstar...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Texas’ $10M bitcoin investment slips into the red amid crypto price dive](https://www.dallasnews.com/business/2026/03/02/texas-10m-bitcoin-investment-slips-into-the-red-amid-crypto-price-dive/)**
+
+As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
+
+Dallas News • 1d ago
 
 ---
 
@@ -257,7 +255,7 @@ One critic replied simply "go away."
 
 Links to major crypto world figures are just the start.
 
-⬆️ 4 • 💬 0 • 3d ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 4 • 💬 0 • 4d ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -319,7 +317,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 112 • ⏱️ 15:07 • 10h ago
+👁️ 21K • 👍 1K • 💬 112 • ⏱️ 15:07 • 11h ago
 
 ---
 
@@ -339,7 +337,7 @@ Bombs are falling in the Middle East. Gold just lost over $1 trillion in minutes
 
 📺 Swan Bitcoin
 
-👁️ 27K • 👍 1K • 💬 85 • ⏱️ 18:46 • 10h ago
+👁️ 27K • 👍 1K • 💬 85 • ⏱️ 18:46 • 11h ago
 
 ---
 
@@ -349,7 +347,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 4K • 👍 124 • 💬 2 • ⏱️ 0:59 • 7h ago
+👁️ 4K • 👍 124 • 💬 2 • ⏱️ 0:59 • 8h ago
 
 ---
 
@@ -359,7 +357,7 @@ I published the case for $11 million bitcoin by 2036. Read the full letter here:
 
 📺 Joe Burnett
 
-👁️ 2K • 👍 153 • 💬 19 • ⏱️ 15:22 • 19h ago
+👁️ 2K • 👍 153 • 💬 19 • ⏱️ 15:22 • 20h ago
 
 ---
 
@@ -379,7 +377,7 @@ Bitcoin has been in a bear market for several months. Let's talk about the bear 
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 140 • ⏱️ 19:12 • 18h ago
+👁️ 52K • 👍 3K • 💬 140 • ⏱️ 19:12 • 19h ago
 
 ---
 
@@ -409,7 +407,7 @@ Bitunix - 50k Prize Pool + 15% off Trading Fees Register here: https://www.bitun
 
 📺 CryptoCache
 
-👁️ 2K • 👍 152 • 💬 21 • ⏱️ 15:09 • 16h ago
+👁️ 2K • 👍 152 • 💬 21 • ⏱️ 15:09 • 17h ago
 
 ---
 
