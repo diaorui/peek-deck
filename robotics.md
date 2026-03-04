@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-04T10:38:04.809658+00:00'
+updated: '2026-03-04T11:31:30.422277+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 04, 2026 at 10:38 UTC  
+**Last Updated:** March 04, 2026 at 11:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
-21h ago
+22h ago
 
 ---
 
@@ -44,7 +44,7 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ I printed the front of the head and the back is currently printing, that hole is
 
 Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/research/memory From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2028954630458401040
 
-19m ago
+1h ago
 
 ---
 
@@ -60,7 +60,7 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t shipped yet. He argues that while many look impressive in demonstrations, but shipping real systems requires a level of reliability that is difficult to achieve. Walking, balance, manipulation, perception, and safety all have to work together in real environments, not controlled labs. Until those systems can operate reliably, consistently, and at a reasonable cost, most humanoid robots will remain in the prototype or demonstration stage rather than large-scale deployment.
 
-14h ago
+15h ago
 
 ---
 
@@ -68,7 +68,7 @@ Rob Cochran, CEO of Fauna Robotics, explains why most humanoid robots haven’t 
 
 Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-way Observation) indoor positioning setup and thought it was worth sharing. There plenty of in-house positioning tech include Wifi/BLE/IMU/Lidar/RFID. Of all the tech, the UWB is a competitive solution with high precision/lower power consumption and save, much stable than Wifi/BLE Tech Advantages Disadvantage Wifi Cheap LowResolution(3~10m) BLE Low Power LowResolution(2~5m) IMU Without any wireless signal Drift in field application RFID Chip Only Yes/No judgement LiDar High precision High-Cost UWB High precision（0.1m） High installation Requests UWB can be used in AGV/in house mobile tracking. The UWB DSTO((Distributed Synchronization and Two-way Observation) system is based on UWB tech, different with common UWB system that composed with anchors/tags, the DSTO system is composed of multiple nodes, every node in the system can report its distance between itself with all the other nodes( also called peer-to-peer mesh), suitable for application such as anti-collision. For example in an in-house forklift system, all the forklift are auto or manually controlled, to avoid them collision to each other , this UWB DSTO could be a solution, every forklift get its distance with other forklift with frequency 20Hz, so they can be urgently stopped when they reach the safe distance limit. A simple demo of this tech at: https://youtu.be/iGKn3G82pY0 If anyone is working on similar projects or product development, feel free to discuss in the comments section ： ）
 
-4h ago
+5h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hey Guys Came across / built this UWB DSTO (Distributed Synchronization & Two-wa
 
 I know it might sound dumb, but I am a college student and want to learn robotics. I don't find anyone who can teach me or books seem to be very monotonous. Are there any courses that might help me? There are a lot of courses on YT, and I cannot decide which one is good.
 
-30m ago
+1h ago
 
 ---
 
@@ -84,7 +84,7 @@ I know it might sound dumb, but I am a college student and want to learn robotic
 
 Have anyone worked with Orbital 3D Printer with Kuka’s robotic arm attached with it. My lab has one of these but couldn’t find enough materials regarding orbital , if anyone has used it before and could give me a heads up it would be nice. Like , how did you operate it? What materials have you used to print ? What kind of projects have you done so far , which direction I could take my research with it. Have you tried non planar printing with it , if so what parts or products have you printed so far. Any YouTube channels or website that could help me deep dive into this thing.
 
-1h ago
+2h ago
 
 ---
 
@@ -98,7 +98,7 @@ Have anyone worked with Orbital 3D Printer with Kuka’s robotic arm attached wi
 
 If you are from arizona and you are a robotics engineer dm me, i have an idea for an invention im disabled and its a piece of tech that would help tons of disabled people around the world basically a new type of wheelchair pls dm if interested
 
-5h ago
+6h ago
 
 ---
 
@@ -118,7 +118,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_multi_r
 
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
-Kraken Robotics • 12h ago
+Kraken Robotics • 13h ago
 
 ---
 
@@ -134,13 +134,13 @@ CNBC • 1d ago
 
 Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.
 
-Time Magazine • 23h ago
+Time Magazine • 1d ago
 
 ---
 
 **[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
 
-Phys.org • 16h ago
+Phys.org • 17h ago
 
 ---
 
@@ -156,7 +156,7 @@ Supply Chain Dive • 1d ago
 
 The potential for Tesla's Optimus robot is a massive growth opportunity, but its success is far from a sure thing.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -178,7 +178,7 @@ MarketBeat • 1d ago
 
 The once high-flying Boston company is spinning off its biosecurity unit and closing its non-automated labs.
 
-The Boston Globe • 17h ago
+The Boston Globe • 18h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Boston Globe • 17h ago
 
 Hyundai will build a $6 billion complex in South Korea capable of producing 30,000 robots annually. The site includes solar-powered hydrogen production and an AI data center with 50,000 graphics processing units to support physical artificial intelligence in next-generation robots.
 
-Automotive News • 2h ago
+Automotive News • 3h ago
 
 ---
 
@@ -200,7 +200,7 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 47 • 💬 1 • ⏱️ 1:11 • 11h ago
+👁️ 3K • 👍 47 • 💬 1 • ⏱️ 1:11 • 12h ago
 
 ---
 
@@ -230,7 +230,7 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 9K • 👍 641 • 💬 81 • ⏱️ 0:13 • 7h ago
+👁️ 9K • 👍 641 • 💬 81 • ⏱️ 0:13 • 8h ago
 
 ---
 
@@ -240,7 +240,7 @@ Reset Sensors & Passive Middle Goal | 39Y Yolt | Robot Rundown Triple Crown winn
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 63 • 💬 4 • ⏱️ 1:26 • 10h ago
+👁️ 2K • 👍 63 • 💬 4 • ⏱️ 1:26 • 11h ago
 
 ---
 

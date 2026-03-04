@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T10:38:04.798145+00:00'
+updated: '2026-03-04T11:31:30.413045+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 10:38 UTC  
+**Last Updated:** March 04, 2026 at 11:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 🇺🇸 Blackrock ETF has bought $264,520,000 in Bitcoin . Massive inflow is coming 🔥
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ When the-back-over-100k-faster-than-projected thesis was presented many people r
 
 Need to pay off some debt first with the cash I have but man…. At .7 btc that wholecoiner status is looking at me like Roger rabbits wife
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Need to pay off some debt first with the cash I have but man…. At .7 btc that 
 
 Bitcoin demand surge driven by safe‑haven demand, AI crypto adoption, Asia market selloff, and a sharp Bitcoin price breakout.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/bitcoin-demand-surge-btc-hits-71k-markets-flee-risk/) • 33m ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/bitcoin-demand-surge-btc-hits-71k-markets-flee-risk/) • 1h ago
 
 ---
 
@@ -127,7 +127,7 @@ Bitcoin demand surge driven by safe‑haven demand, AI crypto adoption, Asia mar
 
 My first bitcoin purchase.
 
-14h ago
+15h ago
 
 ---
 
@@ -135,13 +135,13 @@ My first bitcoin purchase.
 
 The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $126K ATH from October 2025. Sounds brutal — but the structural signals underneath are shifting fast. A few things worth watching right now: Spot BTC ETF outflows slowed from $1.6B to $206M in February, then flipped to $787M in net inflows in the final week alone SEC Chair Paul Atkins just signaled a push toward a more innovation-friendly regulatory framework as of March 1 The U.S. Strategic Bitcoin Reserve is now acting as a structural price floor 200-day MA still trending up, 50-day SMA providing active daily support The last time we saw fear this extreme with institutional flows quietly reversing direction was... well, you know how that played out. Not financial advice — just tracking the data. Curious what the rest of you are seeing in the on-chain and ETF flow data right now. Source & full analysis: https://www.cryptobull.org/hot-coins/hot-coins-2026
 
-14h ago
+15h ago
 
 ---
 
 **[Bitcoin Nears 20 Million Circulation, Final Mining Phase to Last Over 100 Years](https://www.reddit.com/r/Bitcoin/comments/1rjolol/bitcoin_nears_20_million_circulation_final_mining/)**
 
-🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 21h ago
+🔗 [X (formerly Twitter)](https://x.com/prathikalpa/status/2028814843479036320) • 22h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Fear & Greed Index is deep in Extreme Fear. BTC is sitting ~47% below the $1
 
 Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
-6h ago
+7h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
 Bitcoin climbed above $71,000, gaining more than 6% in 24 hours and leading broad advances in major cryptocurrencies.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -169,13 +169,13 @@ CoinDesk • 1h ago
 
 From The Core Issue: A look back at Segregated Witness and Taproot, Bitcoin's two largest upgrades, and why they were designed the way they were.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
 **[Bitcoin Climbs Above $71,000 in Broad Crypto Advance](https://www.bloomberg.com/news/articles/2026-03-04/bitcoin-climbs-above-71-000-in-broad-crypto-advance)**
 
-Bloomberg • 55m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -183,13 +183,13 @@ Bloomberg • 55m ago
 
 There's a story going around that's worth knowing, but not worth believing.
 
-The Motley Fool • 23m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Bitcoin Price Surges Above $70,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-etheruem-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqdsOweCJ4mt7EzIr4PINDi089ynRkfbK47YgIVEDrcV_QtwXX0aFqnr&gaa_ts=69a80ef5&gaa_sig=J04Aum7LDY7nkdukk-U4BzqkmKGwuzPSma0u-sul-XEBh_3DNMyneme1qcKSkaWQCRdaKondg5ZbfRbTVM5SqQ%3D%3D)**
 
-Barron's • 50m ago
+Barron's • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ Barron's • 50m ago
 
 The cryptocurrency market is plummeting due to a number of factors driving concerns across the macroeconomy.
 
-The Motley Fool • 18m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -221,7 +221,7 @@ Fox News • 1d ago
 
 Ark Invest founder Cathie Wood said on Thursday that the firm’s conviction in Bitcoin’s potential has strengthened despite the ongoing drawdown, but lowered the 2030 target from $1.5 million. Stablecoin Adoption Impacting Wood’s Bull Case During an interview with Morningstar...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 112 • ⏱️ 15:07 • 11h ago
+👁️ 21K • 👍 1K • 💬 112 • ⏱️ 15:07 • 12h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bombs are falling in the Middle East. Gold just lost over $1 trillion in minutes
 
 📺 Swan Bitcoin
 
-👁️ 27K • 👍 1K • 💬 85 • ⏱️ 18:46 • 11h ago
+👁️ 27K • 👍 1K • 💬 85 • ⏱️ 18:46 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 4K • 👍 124 • 💬 2 • ⏱️ 0:59 • 8h ago
+👁️ 4K • 👍 124 • 💬 2 • ⏱️ 0:59 • 9h ago
 
 ---
 
@@ -357,7 +357,7 @@ I published the case for $11 million bitcoin by 2036. Read the full letter here:
 
 📺 Joe Burnett
 
-👁️ 2K • 👍 153 • 💬 19 • ⏱️ 15:22 • 20h ago
+👁️ 2K • 👍 153 • 💬 19 • ⏱️ 15:22 • 21h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin has been in a bear market for several months. Let's talk about the bear 
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 140 • ⏱️ 19:12 • 19h ago
+👁️ 52K • 👍 3K • 💬 140 • ⏱️ 19:12 • 20h ago
 
 ---
 
@@ -407,7 +407,7 @@ Bitunix - 50k Prize Pool + 15% off Trading Fees Register here: https://www.bitun
 
 📺 CryptoCache
 
-👁️ 2K • 👍 152 • 💬 21 • ⏱️ 15:09 • 17h ago
+👁️ 2K • 👍 152 • 💬 21 • ⏱️ 15:09 • 18h ago
 
 ---
 
