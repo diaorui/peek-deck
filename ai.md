@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-04T16:03:56.569643+00:00'
+updated: '2026-03-04T17:09:33.863378+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- news
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 04, 2026 at 16:03 UTC  
+**Last Updated:** March 04, 2026 at 17:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10](https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 4h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 5h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave them an open brief: scan developer forums and research platforms, identify pain points in how developers work, design solutions, build prototypes. No specific domain. No target output. Just: find problems worth solving and build something. 170 prototypes later, a pattern emerged that I didn't expect. 28 builds from different nights, different input signals, different starting contexts independently converged on the same category of output. Not productivity tools. Not automation scripts. Not developer experience improvements. Security scanners. Cost controls. Validation layers. Guardrails. Some specific examples: One night the agent found a heavily upvoted thread about API key exposure in AI coding workflows. By morning it had designed and partially implemented an encryption layer for environment files. I never asked for this. It read the signal, identified the problem as worth solving, and built toward it. Another session found developers worried about AI-generated PRs being merged without adequate review. The output: a validator that scores whether a PR change is actually safe to ship, not just whether tests pass, but whether the intent matches the implementation. A third session rewrote a performance-critical module in Rust without being asked. It left a comment explaining the decision: lower memory overhead meant fewer cascading failures in long-running processes. The question I have been sitting with: When AI systems are given broad autonomy and goal-oriented briefs, they appear to spontaneously prioritize reliability and safety mechanisms. Not because they were instructed to. Because they observed developer pain and inferred that systems that fail unpredictably and code that cannot be trusted are the problems most worth solving. Is this a training data artifact? GitHub, Stack Overflow, and Hacker News are saturated with security postmortems and reliability horror stories. An agent trained on that data might simply be pattern-matching to what gets the most attention. Or is something more interesting happening: agents inferring what good engineering means from observed failure patterns and building toward it autonomously? I genuinely do not know. But 28 out of 170 builds landing in the same category across 3 weeks of completely independent runs felt like something worth sharing outside of the AI builder communities. Thoughts on what is actually happening here? Curious whether others running autonomous agent workflows have seen similar convergence patterns.
 
-5h ago
+6h ago
 
 ---
 
@@ -55,13 +55,13 @@ Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave the
 
 Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, just announced that he's stepping down from the team on X, right after the release of the new Qwen 3.5 small models. Does this signal a shift in Qwen's research direction or openness? Is this just a leadership change or something deeper in Alibaba's AI strategy? What do y'all think the future of Qwen looks like now?
 
-14h ago
+15h ago
 
 ---
 
 **[OpenAI looking at contract with NATO, source says](https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 2h ago
+🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 3h ago
 
 ---
 
@@ -69,23 +69,7 @@ Junyang Lin, the technical lead and public face of Alibaba's Qwen AI project, ju
 
 Fireflies just became the first meeting tool in Anthropic's official Claude MCP Directory. Otter.ai launched an enterprise MCP server too. tl;dv has one as well. The "meeting data + MCP" space is heating up fast. But all three are closed-source, cloud-only. Your meeting data — strategy discussions, financials, personnel decisions — goes through their servers. I've been building Vexa, an open-source meeting bot API, and we've had a native MCP server since before any of them. The difference: it's Apache 2.0, and you can run the entire stack on your own infrastructure. Setup (takes ~2 minutes): { "mcpServers": { "vexa": { "url": "https://api.cloud.vexa.ai/mcp", "headers": {"X-API-Key": "your-key"} } } } Drop that in your Claude Desktop config, and you can ask: "What did we decide about pricing in last Tuesday's meeting?" "Summarize action items from all meetings this week" "Find every time [person] mentioned the deadline" Or self-host the whole thing: git clone https://github.com/Vexa-ai/vexa cd vexa docker compose up MCP server included. Your meeting data never leaves your network. GitHub: https://github.com/Vexa-ai/vexa (1,700+ stars, Apache 2.0) Happy to answer questions about MCP, the architecture, or how this compares to Fireflies/Otter's approach.
 
-2h ago
-
----
-
-**[Our agreement with the Department of War](https://www.reddit.com/r/artificial/comments/1rklvo9/our_agreement_with_the_department_of_war/)**
-
-Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
-
-🔗 [openai.com](https://openai.com/index/our-agreement-with-the-department-of-war/) • 2h ago
-
----
-
-**[This musician built an AI clone of her voice so anyone can sing as her](https://www.reddit.com/r/artificial/comments/1rjx6d1/this_musician_built_an_ai_clone_of_her_voice_so/)**
-
-Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
-
-🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 21h ago
+3h ago
 
 ---
 
@@ -93,7 +77,15 @@ Experimental composer Holly Herndon says this technology isn’t here to replace
 
 I was wondering what to use to streamline all my md files from my claude code plans and the technical docs I create. How will it work in team settings?
 
-8h ago
+9h ago
+
+---
+
+**[This musician built an AI clone of her voice so anyone can sing as her](https://www.reddit.com/r/artificial/comments/1rjx6d1/this_musician_built_an_ai_clone_of_her_voice_so/)**
+
+Experimental composer Holly Herndon says this technology isn’t here to replace artists—and that the future of creativity belongs to collective intelligence
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/experimental-composer-holly-herndon-built-an-ai-voice-clone-that-anyone-can/) • 22h ago
 
 ---
 
@@ -109,7 +101,15 @@ ChatGPT uninstalls jumped 295% after OpenAI announced a deal with the U.S. Depar
 
 It’s undeniable that AI has made its way into our lives abruptly. At first, many were scared as Sci-Fi movies constantly warned us of a future robotic takeover — but instead, we are currently facing an intellectual takeover by the various platforms of AI. From asking ChatGPT what we should do for breakfast, to asking them to become our mentors, therapists, or even using other AI tools to generate art, there is one specific computer vision program (now also powered by AI) that has been around for decades, that has evolved to translate into something different, to create images using convolutional neural network to find and enhance patterns in images using algorithmic pareidolia, creating a dream-like appearance that reminded users of a psychedelic experience by generating over processed images, a program which the Google engineer Alexander Mordvintse named DeepDream. Such resemblances between the visuals in psychedelic trips and the images generated by DeepDream were what fueled the research by Giuseppe Riva, Giulia Brizzi, Clara Rastelli, and Antonino Greco — by picking up the engine that allowed people make trippy images for decades, we could now allow people to experience “psychedelic visuals” without actually having to take the compound. Could this be the future of psychedelic therapy? Or more AI-Slop?
 
-🔗 [Psychedelics As a Second Language](https://psychedelicsasl.com/ai-trips-psychedelic-therapy-or-ai-slop/) • 5h ago
+🔗 [Psychedelics As a Second Language](https://psychedelicsasl.com/ai-trips-psychedelic-therapy-or-ai-slop/) • 6h ago
+
+---
+
+**[Massive AI deals drive $189B startup funding record in February](https://www.reddit.com/r/artificial/comments/1rjru59/massive_ai_deals_drive_189b_startup_funding/)**
+
+Crunchbase data shows global venture investment totaled $189 billion in February, although 83% of capital raised went to just three companies. They include OpenAI, which raised $110 billion, also in the largest round ever raised by a private, venture-backed company.
+
+🔗 [Crunchbase News](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/) • 1d ago
 
 ---
 
@@ -117,73 +117,77 @@ It’s undeniable that AI has made its way into our lives abruptly. At first, ma
 
 ## Google News: "ai"
 
-**[Opinion | I Worked for Block. Its A.I. Job Cuts Aren’t What They Seem.](https://www.nytimes.com/2026/03/04/opinion/block-jack-dorsey-layoffs-ai.html)**
+**[Where Are China’s A.I. Doomers?](https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html)**
 
-The New York Times • 6h ago
-
----
-
-**[Anthropic’s AI tool Claude central to U.S. campaign in Iran, amid a bitter feud](https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/)**
-
-Anthropic’s AI tool Claude is playing a key role in the U.S. military’s campaign in Iran, amid a bitter fight with the Pentagon over the terms of its use in war.
-
-The Washington Post • 1h ago
+The New York Times • 8h ago
 
 ---
 
-**[Billionaire Leo KoGuan Buys 1 Million Nvidia Shares](https://www.forbes.com/sites/maryroeloffs/2026/03/04/billionaire-leo-koguan-just-spent-180-million-on-this-ai-stock/)**
+**[A Dire Warning From the Tech World](https://www.theatlantic.com/technology/2026/03/dean-ball-anthropic-interview/686226/)**
 
-Forbes • 1h ago
+Dean Ball, Trump’s former AI adviser, says that the targeting of Anthropic is just one piece of a much larger political breakdown.
 
----
-
-**[Tips for How You Can Spot AI-Generated Videos on Social Media](https://www.today.com/video/how-to-tell-what-s-real-and-what-s-ai-generated-on-social-media-258677317918)**
-
-Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and more, are spreading on Instagram, Facebook, TikTok and X at a rapid pace. NBC’s Vicky Nguyen shares an inside look at how the technology is advancing and Niko Pueringer from Corridor Digital joins TODAY with tips for spotting fake videos.
-
-TODAY.com • 1h ago
+The Atlantic • 17h ago
 
 ---
 
-**[Why Today’s AI-Driven Layoffs Are Becoming Tomorrow’s Rehiring Crisis](https://www.forbes.com/sites/jonmarkman/2026/03/04/why-todays-ai-driven-layoffs-are-becoming-tomorrows-rehiring-crisis/)**
+**[Anthropic's Claude AI being used in Iran war by U.S. military, sources say](https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/)**
 
-Forbes • 1h ago
+Two sources familiar with the U.S. military's use of artificial intelligence confirm that the U.S. used Anthropic's Claude AI model over weekend for the attack on Iran — and is still using it.
 
----
-
-**[Enterprise AI is still in its experimental era](https://www.axios.com/2026/03/04/ai-experiments-enterprise-survey)**
-
-Axios • 2h ago
+CBS News • 23h ago
 
 ---
 
-**[I’ve turned AI into my therapist. The results were pretty disquieting](https://www.theguardian.com/lifeandstyle/2026/feb/24/ive-turned-ai-into-my-therapist-the-results-were-pretty-disquieting)**
+**[Anthropic ban may threaten the military's AI advantage over China](https://www.axios.com/2026/03/04/anthropic-ai-iran-maduro-pentagon)**
 
-As part of our series AI for the People, our resident AI skeptic Rhik Samadder agreed to put his life in AI’s hands. This week: therapy
-
-The Guardian • 2h ago
+Axios • 7h ago
 
 ---
 
-**[Goldman finds no relationship between AI and productivity but a 30% boost for 2 specific use cases](https://fortune.com/2026/03/03/goldman-earnings-ai-anxiety-no-meaningful-impact-productivity-economy-30-percent-in-2-areas/)**
+**[Big Tesla backer Leo KoGuan buys 1 million Nvidia shares, saying AI is not a bubble](https://www.cnbc.com/2026/03/04/big-tesla-backer-leo-koguan-buys-1-million-nvidia-shares-saying-ai-is-not-a-bubble.html)**
 
-Have you got “AI-nxiety?” Goldman took a closer look at the last earnings season and found a mismatch between hype and reality.
+KoGuan said he purchased the shares earlier this week and plans to buy more, adding he is convinced the surge in AI investment is still in its early stages.
 
-Fortune • 1d ago
-
----
-
-**[March Pixel Drop: New personalization and AI tools](https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/)**
-
-March Pixel Drop is here with new ways to use Circle to Search, safety features on Watch, dining suggestions from Magic Cue and more!
-
-blog.google • 20h ago
+CNBC • 24m ago
 
 ---
 
-**[Big Tech’s Deals for AI Data-Center Power Present Accounting Questions](https://www.wsj.com/cfo-journal/big-techs-deals-for-ai-data-center-power-present-accounting-questions-28bbb4e0?gaa_at=eafs&gaa_n=AWEtsqcDHI3GqJ_HHyF2euTE7znd1RNHmY__QPLhDD_dgZ6TQwvvvzwukGOg&gaa_ts=69a84d87&gaa_sig=JkK6ve8AiAU5_mKGq-EKfrcQGMkW5DE_LxiNk0ToGGUd-ZE8KB0OdeijcDnDz53eE7cfCE8sMPHGbWSp0mZ9-A%3D%3D)**
+**[ICO writes to Meta over 'concerning' AI smart glasses report](https://www.bbc.com/news/articles/c0q33nvj0qpo)**
 
-WSJ • 5h ago
+Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
+
+BBC • 46m ago
+
+---
+
+**[Joy of teaching English in the age of AI | Letter](https://www.theguardian.com/technology/2026/mar/04/joy-of-teaching-english-in-the-age-of-ai)**
+
+Letter: Reading and writing are still uniquely human activities even though artificial intelligence can complete complex “English learning” tasks in seconds, says Richard Farmer
+
+The Guardian • 14m ago
+
+---
+
+**[The train has left the station: Agentic AI and the future of social science research](https://www.brookings.edu/articles/the-train-has-left-the-station-agentic-ai-and-the-future-of-social-science-research/)**
+
+A new era of agentic AI agents has begun. What does it mean for social scientists? Solomon Messing and Joshua Tucker discuss.
+
+Brookings • 2d ago
+
+---
+
+**[Inside a network of more than 200 AI slop websites gaming advertisers](https://www.axios.com/2026/03/04/ai-slop-autobait-network-fraudsters-doubleverify)**
+
+Axios • 4h ago
+
+---
+
+**[The AI industry’s civil war](https://www.vox.com/politics/481229/anthropic-pentagon-openai-amodei-ai)**
+
+What Anthropic and OpenAI really believe.
+
+vox.com • 5h ago
 
 ---
 
@@ -195,7 +199,7 @@ WSJ • 5h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1388 • 💬 787 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1389 • 💬 789 • 1d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -203,7 +207,7 @@ Bank details, sex and naked people who seem unaware they are being recorded. Beh
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 587 • 💬 369 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 589 • 💬 373 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -211,7 +215,7 @@ Ars Technica has fired senior AI reporter Benj Edwards following an outrage-spar
 
 Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.
 
-⬆️ 494 • 💬 388 • 2d ago • [GitHub](https://github.com/mandel-macaque/memento)
+⬆️ 495 • 💬 389 • 2d ago • [GitHub](https://github.com/mandel-macaque/memento)
 
 ---
 
@@ -227,7 +231,7 @@ Apple announced the new iPad Air featuring M4 and more memory, giving users a bi
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 405 • 💬 463 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 406 • 💬 471 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -235,7 +239,7 @@ Apple today announced the new MacBook Air with M5, bringing exceptional performa
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-⬆️ 354 • 💬 182 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
+⬆️ 355 • 💬 182 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
@@ -243,7 +247,7 @@ In several recent instances, AI has disrupted court proceedings in India and els
 
 Leonardo de Moura — Creator of Lean and Z3
 
-⬆️ 279 • 💬 278 • 23h ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
+⬆️ 288 • 💬 283 • 1d ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 
 ---
 
@@ -259,7 +263,7 @@ Claude's Status Page - Elevated errors in claude.ai, cowork, platform, claude co
 
 Pull up your agents folks, I'll convince you why Go is the best language for them.
 
-⬆️ 191 • 💬 284 • 1d ago • [Bruin](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
+⬆️ 193 • 💬 284 • 1d ago • [Bruin](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
 
 ---
 
@@ -267,7 +271,7 @@ Pull up your agents folks, I'll convince you why Go is the best language for the
 
 A lower court previously said that “human authorship is a bedrock requirement of copyright.”
 
-⬆️ 185 • 💬 131 • 1d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
+⬆️ 185 • 💬 132 • 1d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
 
 ---
 
@@ -275,33 +279,13 @@ A lower court previously said that “human authorship is a bedrock requirement 
 
 ## YouTube Videos: "ai"
 
-**[The Trillion-Dollar AI Boom Is Crashing](https://www.youtube.com/watch?v=-BI-0-8vqwI)**
-
-Support Haven's Kickstarter - a privacy-first social platform designed to protect you from AI scraping, facial recognition and data ...
-
-📺 Brianne Worth
-
-👁️ 10K • 👍 860 • 💬 242 • ⏱️ 26:30 • 18h ago
-
----
-
-**[Honest AI in a robot shows we’re close to disaster](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
+**[Unleashed AI in a robot does what experts warned.](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
 
 Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous? Get your $5 sign-up bonus at ...
 
 📺 InsideAI
 
-👁️ 145K • 👍 11K • 💬 1K • ⏱️ 16:54 • 21h ago
-
----
-
-**[&quot;The Ground is Shifting Quickly!&quot; - Elon Musk&#39;s New 2026 AI Warning is a Massive Wake-Up Call!](https://www.youtube.com/watch?v=deiZo-tR9to)**
-
-Elon Musk recently advised people NOT to save for retirement due to AI, robotics, and universal basic income. Is he right? Glenn ...
-
-📺 BlazeTV
-
-👁️ 303K • 👍 7K • 💬 1K • ⏱️ 11:39 • 1d ago
+👁️ 152K • 👍 11K • 💬 2K • ⏱️ 16:54 • 23h ago
 
 ---
 
@@ -311,7 +295,27 @@ Trying out locally AI to run AI models on my phone without internet. Discover Mo
 
 📺 Matt Wolfe
 
-👁️ 25K • 👍 1K • 💬 159 • ⏱️ 11:52 • 11h ago
+👁️ 28K • 👍 1K • 💬 177 • ⏱️ 11:52 • 12h ago
+
+---
+
+**[The Trillion-Dollar AI Boom Is Crashing](https://www.youtube.com/watch?v=-BI-0-8vqwI)**
+
+Support Haven's Kickstarter - a privacy-first social platform designed to protect you from AI scraping, facial recognition and data ...
+
+📺 Brianne Worth
+
+👁️ 11K • 👍 931 • 💬 259 • ⏱️ 26:30 • 19h ago
+
+---
+
+**[&quot;The Ground is Shifting Quickly!&quot; - Elon Musk&#39;s New 2026 AI Warning is a Massive Wake-Up Call!](https://www.youtube.com/watch?v=deiZo-tR9to)**
+
+Elon Musk recently advised people NOT to save for retirement due to AI, robotics, and universal basic income. Is he right? Glenn ...
+
+📺 BlazeTV
+
+👁️ 306K • 👍 7K • 💬 1K • ⏱️ 11:39 • 1d ago
 
 ---
 
@@ -321,17 +325,17 @@ Generate cinematic AI videos without limits on Higgsfield ...
 
 📺 Malva AI
 
-👁️ 814 • 👍 85 • 💬 30 • ⏱️ 8:38 • 4h ago
+👁️ 2K • 👍 148 • 💬 39 • ⏱️ 8:38 • 5h ago
 
 ---
 
-**[How to Effectively Learn AI in 2026 (Backed by Data)](https://www.youtube.com/watch?v=JV3VsR4TcPU)**
+**[OpenAI Face Mass Boycott After Granting The Government AI-Driven Mass Surveillance...](https://www.youtube.com/watch?v=_lCYKEJVb9U)**
 
-If your goal is to actually become good at AI, this roadmap shows you how! Try Higgsfield yourself ...
+SOURCES 1: https://x.com/TheChiefNerd/status/2025184575316471971 2: ...
 
-📺 Parker Prompts
+📺 YongYea
 
-👁️ 18K • 💬 6 • ⏱️ 9:16 • 1d ago
+👁️ 149K • 👍 7K • 💬 2K • ⏱️ 28:07 • 1d ago
 
 ---
 
@@ -341,7 +345,7 @@ This month, AI crossed a line many believed would hold for decades. Google DeepM
 
 📺 AI Revolution
 
-👁️ 48K • 👍 2K • 💬 174 • ⏱️ 12:11 • 1d ago
+👁️ 49K • 👍 2K • 💬 176 • ⏱️ 12:11 • 1d ago
 
 ---
 
@@ -351,7 +355,7 @@ Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTub
 
 📺 TIME
 
-👁️ 36K • 👍 748 • 💬 251 • ⏱️ 6:10 • 1d ago
+👁️ 38K • 👍 772 • 💬 255 • ⏱️ 6:10 • 1d ago
 
 ---
 
@@ -361,7 +365,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 59K • 👍 2K • 💬 226 • ⏱️ 28:44 • 2d ago
+👁️ 59K • 👍 2K • 💬 230 • ⏱️ 28:44 • 2d ago
 
 ---
 
@@ -371,7 +375,7 @@ https://youtu.be/IDEao_1W9dA Big changes over at Disney has a lot of optimism go
 
 📺 DazzReviews
 
-👁️ 25K • 👍 1K • 💬 164 • ⏱️ 16:10 • 1d ago
+👁️ 26K • 👍 1K • 💬 166 • ⏱️ 16:10 • 1d ago
 
 ---
 
@@ -387,7 +391,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 769,032 • ❤️ 919 • 5d ago
+⬇️ 769,032 • ❤️ 920 • 5d ago
 
 ---
 
@@ -399,7 +403,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 172,298 • ❤️ 379 • 2d ago
+⬇️ 172,298 • ❤️ 384 • 2d ago
 
 ---
 
@@ -411,7 +415,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 674,109 • ❤️ 491 • 6h ago
+⬇️ 674,109 • ❤️ 491 • 7h ago
 
 ---
 
@@ -423,7 +427,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 406,808 • ❤️ 569 • 7d ago
+⬇️ 406,808 • ❤️ 570 • 7d ago
 
 ---
 
@@ -435,7 +439,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 93,448 • ❤️ 225 • 2d ago
+⬇️ 93,448 • ❤️ 227 • 2d ago
 
 ---
 
@@ -447,7 +451,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 99,087 • ❤️ 215 • 2d ago
+⬇️ 99,087 • ❤️ 216 • 2d ago
 
 ---
 
@@ -459,7 +463,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,291,825 • ❤️ 1,219 • 9d ago
+⬇️ 1,291,825 • ❤️ 1,221 • 9d ago
 
 ---
 
@@ -483,37 +487,25 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 343,848 • ❤️ 1,084 • 16d ago
+⬇️ 343,848 • ❤️ 1,088 • 16d ago
 
 ---
 
-**[GLM-5](https://huggingface.co/zai-org/GLM-5)**
+**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
 
-*Z.ai*
+*Nanbeige LLM Lab*
 
-GLM-5 is a large language model optimized for complex systems engineering and long-horizon agentic tasks, featuring a 744B parameter architecture with DeepSeek Sparse Attention for efficient long-context handling. It excels in reasoning, coding, and agentic capabilities, outperforming other open-source models on various benchmarks.
+Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It's particularly noted for its native support of deep-search tasks and sustained problem-solving with extensive tool invocations.
 
-`text-generation` `753.9B`
+`text-generation` `3.9B`
 
-⬇️ 205,187 • ❤️ 1,701 • 19d ago
+⬇️ 417,673 • ❤️ 942 • 6d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 18 • 💬 1 • ⭐ 6,889 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
-
----
 
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
@@ -524,6 +516,31 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 ▲ 10 • 💬 0 • ⭐ 6,913 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 18 • 💬 1 • ⭐ 6,929 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
+
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+
+▲ 53 • 💬 4 • ⭐ 17,289 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -539,19 +556,6 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 ---
 
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
-
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
-
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
-
-▲ 53 • 💬 4 • ⭐ 17,127 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
-
----
-
 **[OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://huggingface.co/papers/2603.02138)**
 
 *Yiying Yang, Wei Cheng, Sijin Chen et al. (8 authors)*
@@ -563,6 +567,18 @@ OmniLottie framework generates high-quality vector animations from multi-modal i
 ▲ 120 • 💬 4 • ⭐ 205 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.02138) • [💻 code](https://github.com/OpenVGLab/OmniLottie) • [🔗 project](https://openvglab.github.io/OmniLottie/)
+
+---
+
+**[Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://huggingface.co/papers/2512.10696)**
+
+*Zouying Cao, Jiaji Deng, Li Yu et al. (7 authors)*
+
+ReMe is a framework for experience-driven agent evolution in LLMs, enhancing memory management through distillation, context-adaptive reuse, and refinement, outperforming larger memoryless models.
+
+▲ 0 • 💬 0 • ⭐ 1,535 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.10696) • [💻 code](https://github.com/agentscope-ai/ReMe) • [🔗 project](https://reme.agentscope.io/)
 
 ---
 
@@ -584,7 +600,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 LMCACHE enables efficient KV cache management for large language models by storing caches outside GPU memory, supporting cache reuse across queries and inference engines while achieving significant throughput improvements.
 
-▲ 2 • 💬 0 • ⭐ 7,461 • 4mo ago
+▲ 2 • 💬 0 • ⭐ 7,504 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.09665) • [💻 code](https://github.com/LMCache/LMCache)
 
@@ -598,36 +614,24 @@ LMCACHE enables efficient KV cache management for large language models by stori
 
 FaraGen creates synthetic datasets for computer use agents, enabling the training of efficient and high-performing models like Fara-7B on diverse web tasks, outperforming larger models on benchmarks.
 
-▲ 15 • 💬 2 • ⭐ 4,079 • 3mo ago
+▲ 15 • 💬 2 • ⭐ 4,121 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.19663) • [💻 code](https://github.com/microsoft/fara) • [🔗 project](https://aka.ms/msaif/fara)
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+🏢 IBM Granite
 
-▲ 38 • 💬 1 • ⭐ 71,903 • 30mo ago
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+▲ 149 • 💬 19 • ⭐ 54,823 • 11mo ago
 
----
-
-**[dLLM: Simple Diffusion Language Modeling](https://huggingface.co/papers/2602.22661)**
-
-*Zhanhui Zhou, Lingjie Chen, Hanghang Tong et al. (4 authors)*
-
-🏢 UC Berkeley
-
-A unified open-source framework is presented that standardizes core components of diffusion language modeling for reproduction, customization, and accessible development of both large and small models.
-
-▲ 107 • 💬 4 • ⭐ 2,042 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.22661) • [💻 code](https://github.com/ZHZisZZ/dllm) • [🔗 project](https://github.com/ZHZisZZ/dllm)
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -641,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 22.0k • 🔱 2.9k • 1h ago
+⭐ 22.1k • 🔱 2.9k • 30m ago
 
 ---
 
@@ -651,7 +655,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 7.9k • 🔱 827 • 1h ago
+⭐ 8.0k • 🔱 832 • 42m ago
 
 ---
 
@@ -661,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.4k • 🔱 778 • 1d ago
+⭐ 6.4k • 🔱 779 • 1d ago
 
 ---
 
@@ -671,7 +675,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.3k • 🔱 605 • 2h ago
+⭐ 5.3k • 🔱 614 • 40m ago
 
 ---
 
@@ -681,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.0k • 🔱 375 • 5h ago
+⭐ 5.0k • 🔱 382 • 6h ago
 
 ---
 
@@ -691,7 +695,7 @@ The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payment
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 4.1k • 🔱 372 • 9h ago
+⭐ 4.2k • 🔱 372 • 11h ago
 
 ---
 
@@ -701,7 +705,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.8k • 🔱 510 • 3d ago
+⭐ 3.8k • 🔱 511 • 3d ago
 
 ---
 
@@ -711,7 +715,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 363 • 1h ago
+⭐ 3.4k • 🔱 364 • 2h ago
 
 ---
 
@@ -721,7 +725,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 232 • 7h ago
+⭐ 3.2k • 🔱 232 • 8h ago
 
 ---
 
@@ -731,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 609 • 1d ago
+⭐ 3.2k • 🔱 611 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T16:03:56.577888+00:00'
+updated: '2026-03-04T17:09:33.872009+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 16:03 UTC  
+**Last Updated:** March 04, 2026 at 17:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,907.04
+### $73,214.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.1%  
-**7d:** +6.2%  
-**30d:** -5.4%  
-**90d:** -19.5%  
-**1y:** -20.6%  
+**24h:** +6.9%  
+**7d:** +8.7%  
+**30d:** -3.2%  
+**90d:** -17.7%  
+**1y:** -18.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1437.75B
+**Market Cap:** $1468.54B
 Rank #1
 
-**Circulating Supply:** 19,997,690 BTC
+**Circulating Supply:** 19,997,737 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.0%
+-41.8%
 
 **All-Time Low:** $67.81
-+105930.1%
++108156.9%
 
 ---
 
@@ -77,27 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[😮👌](https://www.reddit.com/r/Bitcoin/comments/1rkgbxc/_/)**
+**[Watch -- this is a HUGE milestone for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rkpcu1/watch_this_is_a_huge_milestone_for_bitcoin/)**
 
-🇺🇸 Blackrock ETF has bought $264,520,000 in Bitcoin . Massive inflow is coming 🔥
-
-7h ago
+1h ago
 
 ---
 
-**[so what now?](https://www.reddit.com/r/Bitcoin/comments/1rkh4bq/so_what_now/)**
+**[Let’s go BTC](https://www.reddit.com/r/Bitcoin/comments/1rkotoy/lets_go_btc/)**
 
-When the-back-over-100k-faster-than-projected thesis was presented many people reacted with hostility but.. Look at just what happened to the trend. Some people wanted this to be 2022 but we are not in that position, its a different time and setup. A rush might have just started, looks like.
+Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
-6h ago
+1h ago
 
 ---
 
-**[The Bitcoin network is reaching the 20,000,000 coins milestone within one week. Mining the final million coins will take over 100 years.](https://www.reddit.com/r/Bitcoin/comments/1rkenpi/the_bitcoin_network_is_reaching_the_20000000/)**
+**[The Bitcoin CEO ordered me to post this here](https://www.reddit.com/r/Bitcoin/comments/1rkqmp7/the_bitcoin_ceo_ordered_me_to_post_this_here/)**
 
-If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
-
-9h ago
+17m ago
 
 ---
 
@@ -105,29 +101,31 @@ If you're wondering how to find the circulating coins info, you can use your own
 
 I’ve been DCA’ing $250 a week into Bitcoin for the past two years and I haven’t missed a week. I’m in it long term, not trying to trade every move. But I’m genuinely unsure what the move is when Bitcoin hits an all-time high. Do you take profits? Trim like 10–20%? Sell your initial capital and let the rest ride? Or just ignore the price and keep buying like nothing’s changed? Last time it was ripping (around $120k) I just kept buying and didn’t even think about a plan. I don’t want to make stupid decisions like that again. Curious what people here actually do in that situation — not theory, but what you personally stick to.
 
-4h ago
+5h ago
 
 ---
 
-**[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
+**[so what now?](https://www.reddit.com/r/Bitcoin/comments/1rkh4bq/so_what_now/)**
 
-20h ago
+When the-back-over-100k-faster-than-projected thesis was presented many people reacted with hostility but.. Look at just what happened to the trend. Some people wanted this to be 2022 but we are not in that position, its a different time and setup. A rush might have just started, looks like.
 
----
-
-**[Fighting the urge to buy](https://www.reddit.com/r/Bitcoin/comments/1rk6drl/fighting_the_urge_to_buy/)**
-
-Need to pay off some debt first with the cash I have but man…. At .7 btc that wholecoiner status is looking at me like Roger rabbits wife
-
-15h ago
+7h ago
 
 ---
 
-**[Been dca ever since!](https://www.reddit.com/r/Bitcoin/comments/1rjznka/been_dca_ever_since/)**
+**[The Bitcoin network is reaching the 20,000,000 coins milestone within one week. Mining the final million coins will take over 100 years.](https://www.reddit.com/r/Bitcoin/comments/1rkenpi/the_bitcoin_network_is_reaching_the_20000000/)**
 
-My first bitcoin purchase.
+If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
 
-20h ago
+10h ago
+
+---
+
+**[i was promised 30k](https://www.reddit.com/r/Bitcoin/comments/1rkouu2/i_was_promised_30k/)**
+
+that turned out to be a lie :-(
+
+1h ago
 
 ---
 
@@ -135,15 +133,13 @@ My first bitcoin purchase.
 
 Just another way to dca
 
-3h ago
+4h ago
 
 ---
 
-**[Bitcoin is an army](https://www.reddit.com/r/Bitcoin/comments/1rkbbrx/bitcoin_is_an_army/)**
+**[Despite the FUD, the highs and lows, and the national bans, Bitcoin has maintained an average of one block every ten minutes for over 17 years. It doesn’t care about what a politician or an influencer wannabe has said. It simply continues to penetrate the financial world one block at a time](https://www.reddit.com/r/Bitcoin/comments/1rjy7r5/despite_the_fud_the_highs_and_lows_and_the/)**
 
-Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
-
-12h ago
+22h ago
 
 ---
 
@@ -151,7 +147,7 @@ Bitcoin rap trax See more: https://www.youtube.com/@bitcoinphilosopher/videos
 
 Been down the Bitcoin rabbit hole for a while now and I'm genuinely curious about the mining side of things. I've always just stacked sats by buying, but lately I've been wondering if running miners makes sense or if it's just a hobby at this point for individuals. Some questions for anyone who's actually doing it.. What's your all-in cost per Bitcoin mined? (Power + hardware depreciation) Is it cheaper than just buying spot, or are you doing it for other reasons (supporting the network, betting on price appreciation, etc.)? How do you think about the payback period on hardware when difficulty keeps climbing? For people in high-cost electricity areas, how do you make it work?
 
-2h ago
+3h ago
 
 ---
 
@@ -159,37 +155,39 @@ Been down the Bitcoin rabbit hole for a while now and I'm genuinely curious abou
 
 ## Google News: "bitcoin"
 
-**['Number Goes Up'—Iran Conflict Has Bitcoin Bulls Eyeing $500K](https://www.forbes.com/sites/boazsobrado/2026/03/02/number-goes-up-iran-conflict-has-bitcoin-bulls-eyeing-500k/)**
+**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqe1cn_W1AkUvtSbPIfYFmPPbSt1DBs3S5vmYEL6VYEADKVftEH90y_u&gaa_ts=69a86ab1&gaa_sig=sjEq36daJ6DWMafJj5UhgcEV1WqlXCuMRZWBnj_xpPsiskFcUF0psRnOJK582sBY3813EeUvji_raMCLExe0iA%3D%3D)**
 
-Forbes • 1d ago
-
----
-
-**[Bitcoin Slides as Risk of Prolonged Iran War Weighs on Crypto](https://www.bloomberg.com/news/articles/2026-03-03/bitcoin-btc-slide-starts-anew-as-iran-uncertainty-drags-on)**
-
-Bloomberg • 17h ago
+Barron's • 48m ago
 
 ---
 
-**[Bitcoin price analysis: BTC sitting just below an 'air pocket' above $72,000](https://www.coindesk.com/markets/2026/03/04/bitcoin-air-pocket-above-usd72-000-could-mean-quick-run-to-usd80-000)**
+**[Bitcoin Jumps With ETF Flows, Trump Blames Banks For Clarity Delay](https://www.investors.com/news/bitcoin-price-etf-flows-trump-banks-clarity-act-genius-cathie-wood-ark-coinbase-robinhood-stock/)**
 
-Data shows an extraordinarily thin supply between $72,000 and $80,000, suggesting there's little resistance in that range.
-
-CoinDesk • 1h ago
+Investor's Business Daily • 35m ago
 
 ---
 
-**[Texas’ $10M bitcoin investment slips into the red amid crypto price dive](https://www.dallasnews.com/business/2026/03/02/texas-10m-bitcoin-investment-slips-into-the-red-amid-crypto-price-dive/)**
+**[Morgan Stanley names Coinbase and BNY as custodians in proposed bitcoin ETF filing update](https://www.theblock.co/post/392251/morgan-stanley-coinbase-bny-custodians-proposed-bitcoin-etf-update?utm_source=markets.xml&utm_medium=rss)**
 
-As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
+Morgan Stanley's updated S-1 filing named Coinbase and BNY as custodians for its proposed bitcoin exchange-traded product.
 
-Dallas News • 1d ago
+The Block • 27m ago
 
 ---
 
-**[Coinbase, Other Bitcoin Stocks Surge. What’s Behind the Crypto Rally.](https://www.barrons.com/articles/coinbase-stock-price-bitcoin-crypto-robinhood-strategy-017a594f?gaa_at=eafs&gaa_n=AWEtsqf9TZIbzQHBUFc961rgi4VZ5uwbxHoOnBbI80Ql3dH_vdsg2EB-st1v&gaa_ts=69a84d88&gaa_sig=W1K_8hsiEcdnalbOlOFEHmSOlAkh9BHrjTpWz7DYU8lR4NUQ0ufGtPkHPVnduP0ePoDgeL1Xz57fm7iinjBqvw%3D%3D)**
+**[Steak 'n Shake Says It's Paying Hourly Employees A Bitcoin Bonus For Every Hour Worked, Pledges Trump Account Contributions](https://finance.yahoo.com/news/steak-n-shake-says-paying-160110417.html)**
 
-Barron's • 2h ago
+Biglari Holdings-owned fast food chain Steak ‘n Shake said Monday that it will start offering Bitcoin bonuses to all its hourly employees starting in March. Bitcoin Bonuses For Employees In an X post, the popular burger chain said it will...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Better Buy During the Crypto Crash: Bitcoin or XRP?](https://www.nasdaq.com/articles/better-buy-during-crypto-crash-bitcoin-or-xrp)**
+
+Key PointsBitcoin is widely considered a store of value within the broader cryptocurrency landscape.
+
+Nasdaq • 6h ago
 
 ---
 
@@ -201,19 +199,9 @@ CNBC • 1d ago
 
 ---
 
-**[Steak 'n Shake sparks online debate with 21-cent bitcoin bonus for workers: 'This is the way'](https://www.foxnews.com/food-drink/steak-n-shake-sparks-online-debate-21-cent-bitcoin-bonus-workers-this-way)**
+**['Number Goes Up'—Iran Conflict Has Bitcoin Bulls Eyeing $500K](https://www.forbes.com/sites/boazsobrado/2026/03/02/number-goes-up-iran-conflict-has-bitcoin-bulls-eyeing-500k/)**
 
-Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
-
-Fox News • 1d ago
-
----
-
-**[AI models favor bitcoin as a store of value, stablecoins for payments, BPI study finds](https://www.theblock.co/post/392172/ai-models-favor-bitcoin-as-a-store-of-value-stablecoins-for-payments-bpi-study-finds)**
-
-AI models chose bitcoin in 79% of long-term scenarios, stablecoins led payments; 91% favored digital assets over fiat.
-
-The Block • 5h ago
+Forbes • 1d ago
 
 ---
 
@@ -221,15 +209,23 @@ The Block • 5h ago
 
 A jury in Los Angeles convicted former Los Angeles Police Department officer Eric Halem of kidnapping and robbery after he and three alleged accomplices posed as police to steal $350,000 in bitcoin from a 17-year-old during a 2024 home invasion.
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
-**[Bitcoin, XRP, and other crypto prices are rising today. What Trump said on Truth Social to boost digital assets](https://www.fastcompany.com/91502477/bitcoin-xrp-price-rising-today-trump-boost-crypto-digital-assets)**
+**[If a Market Crash Hits in 2026, Will Gold, Silver, or Bitcoin Protect Your Wealth Best?](https://www.fool.com/investing/2026/03/02/if-a-market-crash-hits-in-2026-will-gold-silver-or/)**
 
-With tokens sliding in value this year, the president just weighed in on cryptocurrency legislation. It's not the only reason for this week's reversal.
+It's worth holding highly resilient assets, but some are better than others.
 
-Fast Company • 2h ago
+The Motley Fool • 2d ago
+
+---
+
+**[Texas’ $10M bitcoin investment slips into the red amid crypto price dive](https://www.dallasnews.com/business/2026/03/02/texas-10m-bitcoin-investment-slips-into-the-red-amid-crypto-price-dive/)**
+
+As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
+
+Dallas News • 1d ago
 
 ---
 
@@ -279,6 +275,14 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 ---
 
+**[Show HN: Opacore – free Bitcoin tax reports and open-source portfolio OS (MIT)](https://news.ycombinator.com/item?id=47247974)**
+
+Complete operating system for Bitcoiners
+
+⬆️ 2 • 💬 1 • 2h ago • [opacore.com](https://opacore.com)
+
+---
+
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
 ⬆️ 2 • 💬 1 • 3d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
@@ -290,14 +294,6 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Street halted a suspected 10 a.m. selling strategy.
 
 ⬆️ 2 • 💬 0 • 6d ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
-
----
-
-**[Show HN: Opacore – free Bitcoin tax reports and open-source portfolio OS (MIT)](https://news.ycombinator.com/item?id=47247974)**
-
-Complete operating system for Bitcoiners
-
-⬆️ 1 • 💬 1 • 1h ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -319,7 +315,17 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 144 • ⏱️ 15:07 • 17h ago
+👁️ 29K • 👍 2K • 💬 157 • ⏱️ 15:07 • 18h ago
+
+---
+
+**[Bitcoin Holders, This Is Important (Update)](https://www.youtube.com/watch?v=VTM-yMdj5EU)**
+
+Protect Your Identity (2-Week Free Trial) Take control of your digital security with my sponsor Aura — try it free for 14 days: ...
+
+📺 Aaron Bennett
+
+👁️ 6K • 👍 447 • 💬 97 • ⏱️ 10:38 • 5h ago
 
 ---
 
@@ -329,17 +335,27 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 10K • 👍 594 • 💬 70 • ⏱️ 13:18 • 6h ago
+👁️ 13K • 👍 640 • 💬 77 • ⏱️ 13:18 • 7h ago
 
 ---
 
-**[FINALLY REVEALED → Why Crypto Is Going Up Right Now](https://www.youtube.com/watch?v=9U0ctEDMJw8)**
+**[MASSIVE Bitcoin BOUNCE HAPPENING! Is The Iran War RALLYING Bitcoin?!](https://www.youtube.com/watch?v=JsVV9LjX9ec)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
 
-📺 Altcoin Daily
+📺 Crypto Jebb
 
-👁️ 55K • 👍 2K • 💬 117 • ⏱️ 10:14 • 1d ago
+👁️ 2K • 👍 182 • 💬 10 • ⏱️ 50:12 • 1h ago
+
+---
+
+**[Bitcoin Bulls Return Amid Iran War Chaos](https://www.youtube.com/watch?v=4dWuELjghQQ)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 10K • 👍 861 • 💬 55 • ⏱️ 52:08 • 1h ago
 
 ---
 
@@ -349,7 +365,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 8K • 👍 616 • 💬 88 • ⏱️ 5:16 • 6h ago
+👁️ 10K • 👍 655 • 💬 90 • ⏱️ 5:16 • 7h ago
 
 ---
 
@@ -359,37 +375,7 @@ Bitcoin traders may be running out of time. In this video, Sheldon breaks down t
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 608 • 💬 17 • ⏱️ 19:29 • 5h ago
-
----
-
-**[Bitcoin: The Early March Rally](https://www.youtube.com/watch?v=R9yYJXpYYzg)**
-
-Bitcoin usually gets a rally into early March, then forms a lower high and goes lower into April/May. Let's discuss! Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 97K • 👍 6K • 💬 256 • ⏱️ 21:27 • 1d ago
-
----
-
-**[Gold Is Rejected As Iran War Intensifies, Bitcoin Holds](https://www.youtube.com/watch?v=Vap6muiVwaQ)**
-
-Bombs are falling in the Middle East. Gold just lost over $1 trillion in minutes. Bitcoin dropped — then snapped back. Is this the ...
-
-📺 Swan Bitcoin
-
-👁️ 34K • 👍 2K • 💬 102 • ⏱️ 18:46 • 17h ago
-
----
-
-**[Bitcoin: A Bear Market State of Mind](https://www.youtube.com/watch?v=T-Nf7ZfarOs)**
-
-Bitcoin has been in a bear market for several months. Let's talk about the bear market state of mind. Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 58K • 👍 3K • 💬 145 • ⏱️ 19:12 • 1d ago
+👁️ 8K • 👍 646 • 💬 22 • ⏱️ 19:29 • 6h ago
 
 ---
 
@@ -399,17 +385,27 @@ Bill Maher takes aim at Bitcoin and the massive environmental cost of cryptocurr
 
 📺 The Unfiltered Republic
 
-👁️ 3K • 👍 124 • 💬 7 • ⏱️ 0:48 • 11h ago
+👁️ 4K • 👍 160 • 💬 7 • ⏱️ 0:48 • 12h ago
 
 ---
 
-**[THIS IS THE NEXT BITCOIN BREAKOUT...](https://www.youtube.com/watch?v=kazga3srQ4s)**
+**[BITCOIN: CALM BEFORE THE STORM!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=_X4fEJwKxyo)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
-📺 Crypto Rover
+📺 Road To $1 Million USD
 
-👁️ 7K • 👍 512 • 💬 17 • ⏱️ 8:41 • 11h ago
+👁️ 5K • 👍 232 • 💬 24 • ⏱️ 4:27 • 18h ago
+
+---
+
+**[Bitcoin To Gold Rotation Starting!! Experts Weigh In](https://www.youtube.com/watch?v=JrZerdfSgI4)**
+
+Nick Valdez weighs all the takes from the so-called commodity experts. One thing they all have in common? They think gold ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 209 • 💬 21 • ⏱️ 9:10 • 18h ago
 
 ---
 
