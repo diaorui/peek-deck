@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-05T04:23:48.963895+00:00'
+updated: '2026-03-05T05:32:03.029732+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 05, 2026 at 04:23 UTC  
+**Last Updated:** March 05, 2026 at 05:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,9 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[LLMs can unmask pseudonymous users at scale with surprising accuracy](https://www.reddit.com/r/artificial/comments/1rl5wwp/llms_can_unmask_pseudonymous_users_at_scale_with/)**
+
+So ai can uncover your anonymous identity on social media now so creating burner accounts may be pointless.
+
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 2h ago
+
+---
+
 **[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 8h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 9h ago
 
 ---
 
@@ -47,21 +55,13 @@ AI news, discussions, and developments
 
 AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a pure-Python AMD GPU user-space driver
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 5h ago
 
 ---
 
 **[The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10](https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 17h ago
-
----
-
-**[LLMs can unmask pseudonymous users at scale with surprising accuracy](https://www.reddit.com/r/artificial/comments/1rl5wwp/llms_can_unmask_pseudonymous_users_at_scale_with/)**
-
-So ai can uncover your anonymous identity on social media now so creating burner accounts may be pointless.
-
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 1h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 18h ago
 
 ---
 
@@ -69,27 +69,13 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 Apple is deploying new detection tools to identify and label AI-generated tracks across its streaming platform. The move aims to protect artist royalties and ensure transparency as "fake" songs increasingly flood the charts. This infrastructure shift allows Apple to verify human-made content while keeping its library legally compliant. By stripping away deceptive synthetic audio, the company is reinforcing the premium value of human creativity. Apple is drawing a digital line in the sand to stop the AI dilution of the music industry.
 
-1h ago
+2h ago
 
 ---
 
 **[OpenAI looking at contract with NATO, source says](https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 14h ago
-
----
-
-**[New Port Richey City Council considers automatic tag reader cameras](https://www.reddit.com/r/artificial/comments/1rl2xib/new_port_richey_city_council_considers_automatic/)**
-
-🔗 [wfla.com](https://www.wfla.com/news/pasco-county/new-port-richey-city-council-considers-auto-tag-reader-cameras/) • 3h ago
-
----
-
-**[Fireflies and Otter just launched MCP connectors for meeting data — here's the open-source one you can self-host](https://www.reddit.com/r/artificial/comments/1rkli5j/fireflies_and_otter_just_launched_mcp_connectors/)**
-
-Fireflies just became the first meeting tool in Anthropic's official Claude MCP Directory. Otter.ai launched an enterprise MCP server too. tl;dv has one as well. The "meeting data + MCP" space is heating up fast. But all three are closed-source, cloud-only. Your meeting data — strategy discussions, financials, personnel decisions — goes through their servers. I've been building Vexa, an open-source meeting bot API, and we've had a native MCP server since before any of them. The difference: it's Apache 2.0, and you can run the entire stack on your own infrastructure. Setup (takes ~2 minutes): { "mcpServers": { "vexa": { "url": "https://api.cloud.vexa.ai/mcp", "headers": {"X-API-Key": "your-key"} } } } Drop that in your Claude Desktop config, and you can ask: "What did we decide about pricing in last Tuesday's meeting?" "Summarize action items from all meetings this week" "Find every time [person] mentioned the deadline" Or self-host the whole thing: git clone https://github.com/Vexa-ai/vexa cd vexa docker compose up MCP server included. Your meeting data never leaves your network. GitHub: https://github.com/Vexa-ai/vexa (1,700+ stars, Apache 2.0) Happy to answer questions about MCP, the architecture, or how this compares to Fireflies/Otter's approach.
-
-14h ago
+🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 15h ago
 
 ---
 
@@ -97,7 +83,7 @@ Fireflies just became the first meeting tool in Anthropic's official Claude MCP 
 
 One of the things I’ve been thinking about with AI systems is the difference between decision support and decision making. Decision support: meaning the system provides info and a human evaluates it and may or may not take an action. Decision making: meaning the system actually performs the action. For example: • Suggesting eligible clinical trial participants • Flagging abnormal lab results • Recommending a route on a GPS In these cases the system helps a human decide. But there are also systems that automatically: • approve or deny requests • enroll users into workflows • trigger actions based on a rule set or user input That’s a very different level of responsibility. Curious where people think the boundary should be between recommendation and decision.
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +91,21 @@ One of the things I’ve been thinking about with AI systems is the difference b
 
 Ollama FX es una interfaz de escritorio Open Source para Ollama con grandes mejoras en gestión de chats, RAG, multimodalidad y organización 🔥 📅 Lanzado hoy en GitHub — https://github.com/fredericksalazar/OllamaFX 🧠 Principales novedades de la v0.5.0 ⭐ 🔍 Soporte RAG y análisis de archivos Carga y análisis de archivos directamente en chats: ahora puedes subir documentos y explorar su contenido con tus modelos LLM locales. Esta funcionalidad abre el camino a usar OllamaFX como herramienta de RAG (Retrieval-Augmented Generation) en workflows locales de IA sin necesidad de servicios externos. 👉 Permite extraer insights, responder preguntas y recuperar contenido relevante de tus propios archivos directamente desde la UI. 📁 Organización real de chats Carpetas para agrupar conversaciones: ordena tus chats por proyectos, temas o modelos. Mover chats entre carpetas con un simple arrastre. Papelera de reciclaje integrada: los chats (y carpetas) eliminados se mantienen hasta 30 días, para que no pierdas nada por accidente. 🖼️ Multimodalidad visual Soporte nativo para cargar imágenes y conversar con modelos que las interpretan. 📄 Exportación & mejor renderizado Exporta chats completos a formatos útiles. Visualizador Markdown mejorado con renderizado más limpio y estable para texto rico. ⚙️ Mejoras internas y experiencia de usuario Refactorizaciones internas para mayor estabilidad y escalabilidad. Optimización en filtros de modelos y selección. Ajustes finos en UI para una experiencia más fluida. Ampliación de localización / soporte multilenguaje. Indicadores visuales mientras el asistente “piensa” y feedback más claro durante la generación. 📚 Otras mejoras Estadísticas de uso y métricas básicas desde la vista “About”. Preparación para futuras integraciones y soporte a nuevos formatos LLM locales. 📦 Dónde descargar Todos los assets de la versión están listos para descargar en la sección de Releases del repo: 👉 https://github.com/fredericksalazar/OllamaFX/releases/tag/v0.5.0 🤝 Cómo ayudar al proyecto Si te gusta OllamaFX, puedes: ⭐ Dejar una estrella en GitHub 💬 Abrir issues con ideas o bugs 📄 Contribuir a la documentación 🧠 Proponer mejoras o nuevas integrations
 
-7h ago
+8h ago
+
+---
+
+**[New Port Richey City Council considers automatic tag reader cameras](https://www.reddit.com/r/artificial/comments/1rl2xib/new_port_richey_city_council_considers_automatic/)**
+
+🔗 [wfla.com](https://www.wfla.com/news/pasco-county/new-port-richey-city-council-considers-auto-tag-reader-cameras/) • 4h ago
+
+---
+
+**[Fireflies and Otter just launched MCP connectors for meeting data — here's the open-source one you can self-host](https://www.reddit.com/r/artificial/comments/1rkli5j/fireflies_and_otter_just_launched_mcp_connectors/)**
+
+Fireflies just became the first meeting tool in Anthropic's official Claude MCP Directory. Otter.ai launched an enterprise MCP server too. tl;dv has one as well. The "meeting data + MCP" space is heating up fast. But all three are closed-source, cloud-only. Your meeting data — strategy discussions, financials, personnel decisions — goes through their servers. I've been building Vexa, an open-source meeting bot API, and we've had a native MCP server since before any of them. The difference: it's Apache 2.0, and you can run the entire stack on your own infrastructure. Setup (takes ~2 minutes): { "mcpServers": { "vexa": { "url": "https://api.cloud.vexa.ai/mcp", "headers": {"X-API-Key": "your-key"} } } } Drop that in your Claude Desktop config, and you can ask: "What did we decide about pricing in last Tuesday's meeting?" "Summarize action items from all meetings this week" "Find every time [person] mentioned the deadline" Or self-host the whole thing: git clone https://github.com/Vexa-ai/vexa cd vexa docker compose up MCP server included. Your meeting data never leaves your network. GitHub: https://github.com/Vexa-ai/vexa (1,700+ stars, Apache 2.0) Happy to answer questions about MCP, the architecture, or how this compares to Fireflies/Otter's approach.
+
+16h ago
 
 ---
 
@@ -113,67 +113,17 @@ Ollama FX es una interfaz de escritorio Open Source para Ollama con grandes mejo
 
 ## Google News: "ai"
 
-**[ICO writes to Meta over 'concerning' AI smart glasses report](https://www.bbc.com/news/articles/c0q33nvj0qpo)**
+**[Anthropic chief back in talks with Pentagon about AI deal](https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b)**
 
-Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
+Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology
 
-BBC • 12h ago
-
----
-
-**[Anthropic’s AI tool Claude central to U.S. campaign in Iran, amid a bitter feud](https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/)**
-
-Anthropic’s AI tool Claude is playing a key role in the U.S. military’s campaign in Iran, amid a bitter fight with the Pentagon over the terms of its use in war.
-
-The Washington Post • 10h ago
+Financial Times • 3h ago
 
 ---
 
-**[Broadcom beats on earnings and guidance as AI revenue doubles](https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html)**
+**[Trump Announces A.I. Industry Pledge to Pay for Power](https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html)**
 
-Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending.
-
-CNBC • 10h ago
-
----
-
-**[Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year](https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html)**
-
-Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars.
-
-CNBC • 2h ago
-
----
-
-**[Broadcom CEO Sees AI Chip Sales Topping $100 Billion in 2027](https://finance.yahoo.com/news/broadcom-ceo-sees-ai-chip-001047450.html)**
-
-The company projects that AI chip revenue will be $10.7 billion in the current quarter, so reaching an annual pace of $100 billion would be a major jump.  Broadcom reported $20 billion in AI sales in 2025.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Google faces lawsuit after Gemini chatbot allegedly instructed man to kill himself](https://www.theguardian.com/technology/2026/mar/04/gemini-chatbot-google-jonathan-gavalas)**
-
-Lawsuit is first wrongful death case brought against Google over flagship AI product after death of Jonathan Gavalas
-
-The Guardian • 9h ago
-
----
-
-**[Google's AI chatbot allegedly told user to stage 'mass casualty attack,' wrongful death suit claims](https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html)**
-
-The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a "mass casualty attack."
-
-CNBC • 8h ago
-
----
-
-**[Father claims Google's AI product fuelled son's delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)**
-
-The case is the first wrongful death case against Google over alleged harms caused by Gemini.
-
-BBC • 9h ago
+The New York Times • 7h ago
 
 ---
 
@@ -181,13 +131,59 @@ BBC • 9h ago
 
 Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
-**[What to Know About Trump's AI Deal](https://www.politico.com/news/2026/03/04/trump-ai-data-centers-electricity-00811909)**
+**[Trump tells AI companies they need ‘PR help’ over data centre backlash](https://www.ft.com/content/8585a851-f7a3-4409-a852-b385d39157f9)**
 
-Politico • 5h ago
+The president accepts that AI infrastructure building has angered voters as he urges companies to absorb energy costs
+
+Financial Times • 7h ago
+
+---
+
+**[NATO to Shift Focus From Tanks to Drones, AI at July Summit](https://www.bloomberg.com/news/articles/2026-03-05/nato-to-shift-focus-from-tanks-to-drones-ai-at-july-summit)**
+
+Bloomberg • 17m ago
+
+---
+
+**[Sweden’s AI start-ups capture growing US interest](https://www.ft.com/content/cb371b43-d5af-4666-a9f5-28ec3e00ea63)**
+
+Many of Stockholm’s thriving tech businesses consider relocating as they look to scale up
+
+Financial Times • 31m ago
+
+---
+
+**[Nvidia vs. Amazon: Which AI Stock Is a Better Buy Now?](https://www.fool.com/investing/2026/03/04/nvidia-vs-amazon-which-is-the-better-ai-stock-to-b/)**
+
+Nvidia may be growing far faster than Amazon, but that doesn't automatically make it the better AI stock to buy.
+
+The Motley Fool • 1h ago
+
+---
+
+**[ICO writes to Meta over 'concerning' AI smart glasses report](https://www.bbc.com/news/articles/c0q33nvj0qpo)**
+
+Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
+
+BBC • 13h ago
+
+---
+
+**[Alibaba AI Whiz Quits After Warning of US-China Tech Gap](https://finance.yahoo.com/news/alibaba-ai-wizard-warned-us-062724430.html)**
+
+Junyang Lin, who also goes by Justin, announced on X he was stepping down as the tech lead for Qwen, Alibaba’s main AI platform.  Alibaba’s shares slid as much as 5.3% in Hong Kong — their biggest intraday loss since October — in part because investors are unwinding AI-related trades given global uncertainty.  Lin was one of the most influential figures behind Alibaba’s transition to AI, an endeavor intended to drive its next phase of growth beyond online commerce.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Opinion | I Worked for Block. Its A.I. Job Cuts Aren’t What They Seem.](https://www.nytimes.com/2026/03/04/opinion/block-jack-dorsey-layoffs-ai.html)**
+
+The New York Times • 19h ago
 
 ---
 
@@ -199,7 +195,7 @@ Politico • 5h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1408 • 💬 800 • 2d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1409 • 💬 801 • 2d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -207,7 +203,7 @@ Bank details, sex and naked people who seem unaware they are being recorded. Beh
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 596 • 💬 377 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 598 • 💬 377 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -223,7 +219,7 @@ Apple announced the new iPad Air featuring M4 and more memory, giving users a bi
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 414 • 💬 492 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 414 • 💬 495 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -263,7 +259,7 @@ Pull up your agents folks, I'll convince you why Go is the best language for the
 
 A lower court previously said that “human authorship is a bedrock requirement of copyright.”
 
-⬆️ 187 • 💬 144 • 1d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
+⬆️ 188 • 💬 144 • 1d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
 
 ---
 
@@ -271,7 +267,7 @@ A lower court previously said that “human authorship is a bedrock requirement 
 
 The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
-⬆️ 173 • 💬 218 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
+⬆️ 174 • 💬 228 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
 
 ---
 
@@ -305,7 +301,7 @@ Generate cinematic AI videos without limits on Higgsfield ...
 
 📺 Malva AI
 
-👁️ 8K • 👍 383 • 💬 66 • ⏱️ 8:38 • 16h ago
+👁️ 8K • 👍 383 • 💬 66 • ⏱️ 8:38 • 17h ago
 
 ---
 
@@ -325,7 +321,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 31K • 👍 1K • 💬 787 • ⏱️ 39:39 • 20h ago
+👁️ 31K • 👍 1K • 💬 787 • ⏱️ 39:39 • 21h ago
 
 ---
 
@@ -335,7 +331,7 @@ Built with and for creatives, Flow is your AI creative studio powered by Google 
 
 📺 Google
 
-👁️ 17K • 👍 1K • 💬 85 • ⏱️ 3:10 • 11h ago
+👁️ 17K • 👍 1K • 💬 85 • ⏱️ 3:10 • 12h ago
 
 ---
 
@@ -355,7 +351,7 @@ President Donald Trump declared the public would benefit from a commitment by th
 
 📺 Bloomberg News
 
-👁️ 5K • 👍 77 • 💬 10 • ⏱️ 0:36 • 4h ago
+👁️ 5K • 👍 77 • 💬 10 • ⏱️ 0:36 • 5h ago
 
 ---
 
@@ -365,7 +361,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 5K • 👍 306 • 💬 39 • ⏱️ 9:45 • 13h ago
+👁️ 5K • 👍 306 • 💬 39 • ⏱️ 9:45 • 14h ago
 
 ---
 
@@ -415,7 +411,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 674,109 • ❤️ 504 • 18h ago
+⬇️ 674,109 • ❤️ 504 • 19h ago
 
 ---
 
@@ -646,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 22.2k • 🔱 2.9k • 1h ago
+⭐ 22.2k • 🔱 2.9k • 2h ago
 
 ---
 
@@ -656,7 +652,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.2k • 🔱 865 • 12m ago
+⭐ 8.2k • 🔱 865 • 1h ago
 
 ---
 
@@ -676,7 +672,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.5k • 🔱 633 • 3h ago
+⭐ 5.5k • 🔱 633 • 4h ago
 
 ---
 
@@ -686,7 +682,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.3k • 🔱 405 • 1h ago
+⭐ 5.3k • 🔱 405 • 3h ago
 
 ---
 
@@ -696,7 +692,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.8k • 🔱 518 • 1h ago
+⭐ 3.8k • 🔱 518 • 2h ago
 
 ---
 
@@ -706,7 +702,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 370 • 17m ago
+⭐ 3.4k • 🔱 370 • 1h ago
 
 ---
 
@@ -716,7 +712,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 232 • 19h ago
+⭐ 3.2k • 🔱 232 • 20h ago
 
 ---
 
@@ -736,7 +732,7 @@ A desktop GUI for Claude Code — chat, code, and manage projects visually. Buil
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 2.8k • 🔱 292 • 1h ago
+⭐ 2.8k • 🔱 292 • 2h ago
 
 ---
 

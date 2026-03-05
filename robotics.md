@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-05T04:23:48.981534+00:00'
+updated: '2026-03-05T05:32:03.047942+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 05, 2026 at 04:23 UTC  
+**Last Updated:** March 05, 2026 at 05:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humanoid robot process here. We open-sourced the legs and will open-source the full body soon. Your questions and comments along the way really helped us a lot. Appreciate it! A few days ago more than 50 people on X told us they'd be interested in a DIY humanoid robot kit. So we did it. We put together all parts from mechanical to electrical to build the Asimov robot. It's 1.20m, 35kg, 25+2 degrees of freedom (+2 comes from the articulated toe!). Asimov is a really powerful robot with almost the same specs as the Unitree G1. Some parts like the arms are actually stronger. We call the kit "Here Be Dragons", a name used for highly experimental, beta-before-beta releases. The kind where you're one of the first users, talking directly to the engineers, reporting bugs, and getting a fix the same day. We're now preparing a user manual and assembly videos too. The target price is $15,000, which is higher than our current BOM cost. We're taking pre-orders with a $499 deposit to find serious builders and learn what they need. We got 14 orders in a few hours and are planning to close pre-orders soon to handle it properly. So our build-in-public journey is turning into a business earlier than expected, and we're not looking for profit from the DIY Kit. Wanted to share with you all. If you're hacking something, please do share with the community. Details for the pre-order: https://asimov.inc/diy-kit
 
-14h ago
+15h ago
 
 ---
 
 **[Not Exactly How I Expected a Wheel Robot to Behave](https://www.reddit.com/r/robotics/comments/1rkrk1h/not_exactly_how_i_expected_a_wheel_robot_to_behave/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -50,13 +50,21 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/research/memory From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2028954630458401040
 
-18h ago
+19h ago
 
 ---
 
 **[Need endorsement for Arxiv](https://www.reddit.com/r/robotics/comments/1rl6gdm/need_endorsement_for_arxiv/)**
 
-1h ago
+2h ago
+
+---
+
+**[I built an open-source Blender extension that exports robots directly to ROS 2 with a built-in linter — LinkForge v1.3.0](https://www.reddit.com/r/robotics/comments/1rl92s7/i_built_an_opensource_blender_extension_that/)**
+
+Hey everyone! I've been working on LinkForge, an open-source tool that turns Blender into a robotics IDE. Instead of hand-writing URDF/XACRO files, you define links, joints, sensors, and ros2_control interfaces visually in Blender 4.2+. A built-in linter catches physics issues like negative inertias or disconnected chains before export. v1.3.0 just released, with: • NumPy-accelerated inertia calculations • Improved ros2_control support • Better export validation GitHub: https://github.com/arounamounchili/linkforge Happy to answer questions or get feedback!
+
+7m ago
 
 ---
 
@@ -64,7 +72,7 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
 
-20h ago
+21h ago
 
 ---
 
@@ -72,7 +80,7 @@ I printed the front of the head and the back is currently printing, that hole is
 
 My rover is equiped with (2 rtk recivers) (2 tof cameras) (wheel odometry), Can i really depend on rtab slam for localization? The problem is the rtk is not stable most of the time plus the tof camera rate is too slow, I need to use this localization to track a global path defined in utm frame. I know that without a global reference like rtk i will always have drifts, but can rtab slam handel the time between the rtk fixes?
 
-2h ago
+4h ago
 
 ---
 
@@ -80,7 +88,7 @@ My rover is equiped with (2 rtk recivers) (2 tof cameras) (wheel odometry), Can 
 
 My robots took over my channel and are now reviewing tech! JK, well kinda! I’m trying something new and thought this was a unique spin on traditional review videos. What are your thoughts? Would love any honest feedback:)
 
-🔗 [youtu.be](https://youtu.be/MB1BzAr8lXI?si=vy_L8f9ToM8L1-nK) • 3h ago
+🔗 [youtu.be](https://youtu.be/MB1BzAr8lXI?si=vy_L8f9ToM8L1-nK) • 4h ago
 
 ---
 
@@ -88,23 +96,13 @@ My robots took over my channel and are now reviewing tech! JK, well kinda! I’m
 
 Our MSG force-feedback gripper is in beta release! Gripper uses closed loop FOC stepper and supports 3 different stepper sizes and 3 different linear rail sizes! It is designed for Embodied AI, teleoperation and compliant applications. Code and design files are open source!
 
-8h ago
+9h ago
 
 ---
 
-**[Swing control in a cable driven parallel robot to pick up toys and laundry](https://www.reddit.com/r/robotics/comments/1rkqe4o/swing_control_in_a_cable_driven_parallel_robot_to/)**
+**[Inspired by ROSClaw, AgenticROS is a new open source multi-AI agent robotics platform that connects ROS to OpenClaw (and other agentic systems) to enable Physical AI. It supports RealSense stereo depth cameras, ROS2, Zenoh messaging, TeleOp, and robot missions!](https://www.reddit.com/r/robotics/comments/1rkne85/inspired_by_rosclaw_agenticros_is_a_new_open/)**
 
-I've built an open source cable robot that can be used to pick and place any object in a room. You can either buy one assembled from neufangled.com or print and build it from source. In this video I go over one of the dozens of design challenges that I've tackled to make it work reliably in my house. I'm aiming to keep iterating on this hardware until I've got a cleaning appliance so reliable I can just turn it on and forget it, coming back to cleaner floors. I've made a lot of videos along the way, ranging from how I solve individual problems to a breakdown of the costs of all the parts. If this looks like something you would like, please consider giving it a try in your room. I'm working closely with all my early beta testers. Thanks for looking
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=d7SvwrUoPOM) • 11h ago
-
----
-
-**[A self-driving bike by Agibot founder Peng Zhihui. The design is open sourced & available on Github](https://www.reddit.com/r/robotics/comments/1rjoii6/a_selfdriving_bike_by_agibot_founder_peng_zhihui/)**
-
-GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
-
-1d ago
+14h ago
 
 ---
 
@@ -116,13 +114,15 @@ GitHub: https://github.com/peng-zhihui/XUAN/blob/main/enREADME.md
 
 Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
 
-Business Insider • 8h ago
+Business Insider • 10h ago
 
 ---
 
-**[Amazon cuts more jobs; this time in robotics unit](https://www.reuters.com/business/world-at-work/amazon-cuts-more-jobs-this-time-robotics-unit-2026-03-04/)**
+**[Amazon cuts more jobs; this time in robotics unit](https://finance.yahoo.com/news/amazon-cuts-more-jobs-time-212928090.html)**
 
-Reuters • 6h ago
+SAN FRANCISCO, March 4 (Reuters) - Amazon on Tuesday confirmed it laid off staff across its robotics unit, ‌with at least 100 white-collar jobs affected, two people ‌familiar with the matter told Reuters. This comes after a January cut of about ​16,000 jobs with the company at the time hinting layoffs would continue.
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -130,29 +130,19 @@ Reuters • 6h ago
 
 The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
 
-GeekWire • 5h ago
+GeekWire • 7h ago
 
 ---
 
-**[Amazon to cuts jobs in robotics division -- report (AMZN:NASDAQ)](https://seekingalpha.com/news/4560927-amazon-to-cuts-jobs-in-robotics-division---report)**
+**[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
 
-Amazon cuts some robotics jobs as it ramps AI and AWS data center spending.
-
-Seeking Alpha • 7h ago
+Bloomberg • 13h ago
 
 ---
 
-**[Having Fired 57,000 Humans, Amazon (AMZN) Now Sets Its Sights on the Company’s Robots](https://www.tipranks.com/news/having-fired-57000-humans-amazon-amzn-now-sets-its-sights-on-the-companys-robots)**
+**[Step into the Future: The Power of High School Robotics](https://calexicochronicle.com/2026/03/04/step-into-the-future-the-power-of-high-school-robotics/)**
 
-TipRanks • 6h ago
-
----
-
-**[Amazon cuts more jobs; this time in robotics unit](https://www.unionleader.com/news/business/amazon-cuts-more-jobs-this-time-in-robotics-unit/article_2d766cbe-43f0-51ab-9a6b-cad7fd3f5b6d.html)**
-
-Amazon on Tuesday confirmed it laid off staff across its robotics unit, with at least 100 white-collar jobs affected, two people familiar with the matter told Reuters.
-
-UnionLeader.com • 6h ago
+Calexico Chronicle • 1h ago
 
 ---
 
@@ -160,19 +150,7 @@ UnionLeader.com • 6h ago
 
 Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
 
-CNBC • 15h ago
-
----
-
-**[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
-
-Bloomberg.com • 12h ago
-
----
-
-**[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
-
-Phys.org • 1d ago
+CNBC • 16h ago
 
 ---
 
@@ -181,6 +159,26 @@ Phys.org • 1d ago
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
 Kraken Robotics • 1d ago
+
+---
+
+**[Hyundai Motor chases Tesla with $6 billion investment in massive new Korean robot, AI, data hub](https://www.autonews.com/hyundai/an-hyundai-korea-mobed-robotics-hydrogen-ai-data-center-0304/)**
+
+Hyundai will build a $6 billion complex in South Korea capable of producing 30,000 robots annually. The site includes solar-powered hydrogen production and an AI data center with 50,000 graphics processing units to support physical artificial intelligence in next-generation robots.
+
+Automotive News • 21h ago
+
+---
+
+**[Google makes its industrial robotics AI play official–and this time, it means business](https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/)**
+
+AI News • 21h ago
+
+---
+
+**[Studying snakes' ability to stand upright could inform soft robotics and more](https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html)**
+
+Phys.org • 1d ago
 
 ---
 
@@ -194,7 +192,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 5K • 👍 295 • 💬 27 • ⏱️ 14:35 • 4h ago
+👁️ 5K • 👍 295 • 💬 27 • ⏱️ 14:35 • 5h ago
 
 ---
 
@@ -214,7 +212,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 29 • ⏱️ 1:06 • 2h ago
+👁️ 1K • 👍 29 • ⏱️ 1:06 • 4h ago
 
 ---
 
@@ -224,7 +222,7 @@ What if one robot could handle your entire yard? In this video, we take a first 
 
 📺 RCDriver_Online
 
-👁️ 627 • 👍 40 • 💬 8 • ⏱️ 8:04 • 6h ago
+👁️ 627 • 👍 40 • 💬 8 • ⏱️ 8:04 • 7h ago
 
 ---
 
@@ -244,7 +242,7 @@ War Robots Unboxing: All my Ultimate Data Pads opened and the UE-Leo. My War Rob
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 547 • 💬 83 • ⏱️ 14:24 • 13h ago
+👁️ 6K • 👍 547 • 💬 83 • ⏱️ 14:24 • 14h ago
 
 ---
 
@@ -252,7 +250,7 @@ War Robots Unboxing: All my Ultimate Data Pads opened and the UE-Leo. My War Rob
 
 📺 XDollHub
 
-👁️ 10K • 👍 88 • 💬 3 • ⏱️ 0:14 • 14h ago
+👁️ 10K • 👍 88 • 💬 3 • ⏱️ 0:14 • 15h ago
 
 ---
 
