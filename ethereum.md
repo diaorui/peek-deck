@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T18:27:02.907693+00:00'
+updated: '2026-03-05T19:43:37.060632+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 18:27 UTC  
+**Last Updated:** March 05, 2026 at 19:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.1%  
-**7d:** +7.1%  
-**30d:** -3.8%  
-**90d:** -32.0%  
-**1y:** -6.3%  
+**24h:** -3.3%  
+**7d:** +7.8%  
+**30d:** -3.1%  
+**90d:** -31.5%  
+**1y:** -5.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed one of the earliest smart contracts on the network: TerraNullius. What it does: Anyone can "claim" a hex coordinate and attach a message to it — a permanent, uncensorable message board on the blockchain. No tokens, no governance, no economic incentive. Just messages, forever. The numbers: - Deployed at block 49,880 (August 7, 2015) - Compiled with Solidity v0.1.1 - 25 claims in 2015, then it sat mostly dormant - 687 claims during the 2021 NFT boom (people realized these were basically proto-NFTs) - 805 total transactions and counting — still active in 2026 It was referenced by the Guinness World Records and is one of the earliest surviving interactive contracts on Ethereum. The original announcement was a Reddit post right here on r/ethereum, with Semiel sharing a Pastebin script so people could interact with it. What's fascinating is how it predates every pattern we now take for granted — ERC-20, ERC-721, ENS, DAOs. This was someone experimenting with permanence on a chain that was two weeks old. Contract: 0x6e38A457C722C6011B2dfa06d49240e797844d66 Full writeup with sources and verification: EthereumHistory.com If anyone has stories about early Ethereum experiments like this, I'd love to hear them. We're trying to document the pre-2017 era before the context is lost entirely.
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,15 @@ Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed 
 
 I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402. Here's what almost all of them said: "Why would an AI agent pay per usage for a certain app when you can just create a SaaS product, ask for a top-up, and internally use credits?" x402 doesn't replace the per-usage model. It solves one specific problem: no human in the loop. There are 2 use cases: Anonymous autonomous agent. No account. No signup. No pre-loaded balance. Pays mid-task and moves on. Humans with accounts created - that want to automate - a top-up credit model wins with pay per usage with credits. BUT Almost every SaaS would want you to create your account. SO x402 is really only good for automatic top-ups / payments. Change my mind.
 
-1h ago
+2h ago
+
+---
+
+**[The endgame for Ethereum UX? A breakdown of EIP-7702 (SetCode Transactions)](https://www.reddit.com/r/ethereum/comments/1rlpxm9/the_endgame_for_ethereum_ux_a_breakdown_of/)**
+
+Hi everyone, If you've been following the Account Abstraction roadmap, you know the community pivoted hard toward EIP-7702, a proposal driven by Vitalik to allow EOAs (standard wallets) to temporarily act like smart contracts. I write a lot about blockchain architecture, and I noticed that while the hype around "gasless transactions" is loud, the actual mechanics of how EIP-7702 achieves this safely aren't discussed enough. I published an architectural breakdown to clarify how this works under the hood. The core of the design is the SetCode transaction type. Instead of permanently migrating an EOA to a smart contract, EIP-7702 allows a transaction to temporarily attach smart contract code to an EOA for the exact duration of that single transaction. The deep dive covering: How this solves the security debates around previous proposals. The technical flow of batching operations What this means for the current ERC-4337 infrastructure. I'd love to hear from people that building in the space: How quickly do you expect it to be broadly used
+
+56m ago
 
 ---
 
@@ -96,7 +104,7 @@ I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402.
 
 Been doing Ethereum archaeology and found a useful reminder: token-for-token swap behavior existed on-chain in 2016, long before AMMs were mainstream. What was different vs modern DeFi: - no pooled liquidity / routing engines - much heavier coordination + trust assumptions - primitive UX, but clearly permissionless exchange intent It feels like DeFi history is better modeled as a slow primitive stack (2015-2018) rather than a sudden 2020 birth. Question for the OGs here: which pre-2018 contracts do you consider the most important proto-DeFi stepping stones?
 
-3h ago
+4h ago
 
 ---
 
@@ -136,15 +144,7 @@ GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2
 
 Over the past year, many people I talk to have expressed worry about two topics: Various aspects of the way the world is going: government control and surveillance, wars, corporate power and surveillance, tech enshittification / corposlop, social media becoming a memetic warzone, AI and how it interplays with all of the above... The brute reality that Ethereum seems to be absent from meaningfully improving the lives of people subject to these things, even on the dimensions we deeply care about (eg. freedom, privacy, security of digital life, community self-organization) It is easy to bond over the first, to commiserate over the fact that beauty and good in the world seems to be receding and darkness advancing, and uncaring powerful people in high places are making this happen. But ultimately, it is easy to acknowledge problems, the hard thing is actually shining a light forward, coming up with a concrete plan that makes the situation better. The second has been weighing heavily on my mind, and on the minds of many of our brightest and most idealistic Ethereans. I personally never felt any upset or fear when political memecoins went on Solana, or various zero-sum gambling applications go on whatever 250 millisecond block chain strikes their fancy. But it does weigh on me that, through all of the various low-grade online memetic wars, international overreaches of corporate and government power, and other issues of the last few years, Ethereum has been playing a very limited role in making people's lives better. What are the liberating technologies? Starlink is the most obvious one. Locally-running open-weights LLMs are another. Signal is a third. Community Notes is a fourth, tackling the problem from a different angle. One response is to say "stop dreaming big, we need to hunker down and accept that finance is our lane and laser-focus on that". But this is ultimately hollow. Financial freedom and security is critical. But it seems obvious that, while adding a perfectly free and open and sovereign and debasement-proof financial system would fix some things, but it would leave the bulk of our deep worries about the world unaddressed. It's okay for individuals to laser-focus on finance, but we need to be part of some greater whole that has things to say about the other problems too. At the same time, Ethereum cannot fix the world. Ethereum is the "wrong-shaped tool" for that: beyond a certain point, "fixing the world" implies a form of power projection that is more like a centralized political entity than like a decentralized technology community. So what can we do? I think that we in Ethereum should conceptualize ourselves as being part of an ecosystem building "sanctuary technologies": free open-source technologies that let people live, work, talk to each other, manage risk and build wealth, and collaborate on shared goals, in a way that optimizes for robustness to outside pressures. The goal is not to remake the world in Ethereum's image, where all finance is disintermediated, all governance happens through DAOs, and everyone gets a blockchain-based UBI delivered straight to their social-recovery wallet. The goal is the opposite: it's de-totalization. It's to reduce the stakes of the war in heaven by preventing the winner from having total victory (ie. total control over other human beings), and preventing the loser from suffering total defeat. To create digital islands of stability in a chaotic era. To enable interdependence that cannot be weaponized. Ethereum's role is to create "digital space" where different entities can cooperate and interact. Communications channels enable interaction, but communication channels are not "space": they do not let you create single unique objects that canonically represent some social arrangement that changes over time. Money is one important example. Multisigs that can change their members, showing persistence exceeding that of any one person or one public key, are another. Various market and governance structures are a third. There are more. I think now is the time to double down, with greater clarity. Do not try to be Apple or Google, seeing crypto as a tech sector that enables efficiency or shininess. Instead, build our part of the sanctuary tech ecosystem - the "shared digital space with no owner" that enables both open finance and much more. More actively build toward a full-stack ecosystem: both upward to the wallet and application layer (incl AI as interface) and downward to the OS, hardware, even physical/bio security levels. Ultimately, tech is worthless without users. But look for users, both individual and institutional, for whom sanctuary tech is exactly the thing they need. Optimize payments, defi, decentralized social, and other applications precisely for those users, and those goals, which centralized tech will not serve. We have many allies, including many outside of "crypto". It's time we work together with an open mind and move forward.
 
-1d ago
-
----
-
-**[I know we all hate the dystopian eyeball scanners, but the ZK-ML tech that was just open-sourced is actually a massive win for Ethereum privacy.](https://www.reddit.com/r/ethereum/comments/1rk0jty/i_know_we_all_hate_the_dystopian_eyeball_scanners/)**
-
-Let’s address the elephant in the room first. This community (and Vitalik himself) has rightfully dragged the entire Proof-of-Personhood concept for the massive centralization risks of proprietary hardware and the general "ick" factor of biometric data collection. I have been one of the biggest skeptics of the whole "scan your iris for tokens" model since day one. But setting the tokenomics and the physical hardware aside for a minute, the engineering team behind world just dropped an open-source cryptographic update that is honestly a massive leap forward for Zero-Knowledge Machine Learning (ZK-ML) on Ethereum. They just open-sourced "Remainder", a highly efficient in-house ZK prover built on the GKR protocol combined with a Hyrax polynomial commitment scheme. Why should we care about this? Historically, one of the biggest architectural flaws in biometric identity was the upgrade path. If the recognition algorithm improves, how do you upgrade the user's cryptographic credentials without forcing them to go back to a physical, centralized hardware device to get scanned again? Remainder solves this entirely on the client side. It is specifically optimized to run heavy ML computations directly on standard mobile hardware. This means when the underlying algorithms update, your phone runs the new ML model locally over your securely custodied data, and simply generates a Zero-Knowledge proof that the execution was correct. The raw biometric data never leaves your device. The network just verifies the proof. We talk constantly in this sub about building trustless identity primitives and scaling privacy on-chain. Using GKR to achieve linear-time proving on consumer edge devices - so users no longer have to rely on a centralized server for biometric processing - is exactly the kind of cypherpunk engineering we should be encouraging. I’m genuinely curious to hear from the ZK nerds and privacy maxis here: Does shifting the heavy lifting to local, client-side ZK proofs and open-sourcing the prover code soften your stance on this protocol at all? Or is the reliance on that initial hardware scan still an unforgivable "original sin" for decentralized identity?
-
-1d ago
+2d ago
 
 ---
 
@@ -172,15 +172,7 @@ Decrypt • 3d ago
 
 NYSE owner made a deal with crypto exchange OKX. The deal values OKX at $25 billion. OKX’s native OKB token has rocketed upwards as a result.
 
-Yahoo Finance • 2h ago
-
----
-
-**[This Investor Dumped a $3 Million Ethereum ETF, but Added to a Bitcoin Position Last Quarter](https://www.fool.com/coverage/filings/2026/03/05/this-investor-dumped-a-usd3-million-ethereum-etf-but-added-to-a-bitcoin-position-last-quarter/)**
-
-The iShares Ethereum Trust ETF offers regulated ether exposure via a trust structure, trading on NASDAQ with daily liquidity for investors.
-
-The Motley Fool • 36m ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -188,43 +180,51 @@ The Motley Fool • 36m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
-**[Bitcoin Price Surges Above $72,000. Why Cryptos Are Defying Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqeTWBXuA0X3ms1c753UXNKulr9q1yDk44LwESHhqxAvRI2QyVMjcbSV&gaa_ts=69a9ce5f&gaa_sig=ZUr63lX46domBN5xD948BBqjMbyiY1vXaM-rsuuz4NrM5NPpYH99Itn9HJkOjJeL6mllCsa4OMUH3Im9DKUuDA%3D%3D)**
+**[This Investor Dumped a $3 Million Ethereum ETF, but Added to a Bitcoin Position Last Quarter](https://finance.yahoo.com/news/investor-dumped-3-million-ethereum-181155991.html)**
 
-Barron's • 1d ago
+The iShares Ethereum Trust ETF offers regulated ether exposure via a trust structure, trading on NASDAQ with daily liquidity for investors.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Are Having a Great Week Despite Iran War. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqemN-Hifg7JKKdG7lSP2kzEcLPeZdgh1eIc4UKhIvJTcMnh86W0F6A_&gaa_ts=69a9e051&gaa_sig=vkPuecNnfFpXEjG_dIhQYdSdaMdAeEeXxAxIYSovYg0XTHcUKMN0YHwwpU_SApuvZSD1echquX_IaOfMCRMGfQ%3D%3D)**
+
+Barron's • 9h ago
+
+---
+
+**[Crypto Market Crash: Top Analyst Reveals What’s Next For Bitcoin, Ethereum and XRP](https://www.tradingview.com/news/coinpedia:0c8387655094b:0-crypto-market-crash-top-analyst-reveals-what-s-next-for-bitcoin-ethereum-and-xrp/)**
+
+The recent volatility in the crypto market has left investors questioning whether the latest pullback means a deeper crash or just a temporary correction. While prices have struggled to maintain momentum, one market strategist believes the current setup could still lead to a short-term rally before…
+
+TradingView • 3h ago
+
+---
+
+**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-right-now-2000-and-hold-5-years-xrp-vs-ethereum)**
+
+Key PointsEthereum is a general-purpose smart contract chain.
+
+Nasdaq • 1d ago
+
+---
+
+**[Got $1,000? This Cryptocurrency Is a No-Brainer Buy for Long-Term Holding](https://www.fool.com/investing/2026/03/05/got-1000-this-cryptocurrency-is-a-no-brainer-buy-f/)**
+
+The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
+
+The Motley Fool • 10h ago
 
 ---
 
 **[Wallet Maintenance for Ethereum Network (ETH) - 2026-03-04](https://www.binance.com/en/support/announcement/detail/33cffe565e5747639eb1db1abec008a3)**
 
 Binance • 1d ago
-
----
-
-**[31.6 Million ETH Leaves Exchanges as Vitalik Calls for Ethereum “Sanctuary” Tech](https://finance.yahoo.com/news/31-6-million-eth-leaves-070249895.html)**
-
-ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
-
-Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
-
-The Block • 1d ago
-
----
-
-**[Vitalik Buterin Urges Ethereum to Broaden Its Mission Beyond Finance](https://decrypt.co/359895/vitalik-buterin-ethereum-broaden-mission-beyond-finance)**
-
-Ethereum’s co-founder is calling for “sanctuary technologies” spanning privacy tools, social systems, and infrastructure beyond finance.
-
-Decrypt • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 357 • 💬 9 • ⏱️ 1:16 • 5h ago
+👁️ 8K • 👍 357 • 💬 9 • ⏱️ 1:16 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 851 • 👍 105 • 💬 3 • ⏱️ 3:54 • 2h ago
+👁️ 851 • 👍 105 • 💬 3 • ⏱️ 3:54 • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ With all the volatility in the middle-east, crypto prices have been relatively s
 
 📺 Elijah Cheng
 
-👁️ 939 • 👍 97 • 💬 17 • ⏱️ 25:01 • 3h ago
+👁️ 939 • 👍 97 • 💬 17 • ⏱️ 25:01 • 5h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 165 • 💬 7 • ⏱️ 4:00 • 18h ago
+👁️ 3K • 👍 165 • 💬 7 • ⏱️ 4:00 • 19h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 356 • 💬 82 • ⏱️ 17:29 • 18h ago
+👁️ 8K • 👍 356 • 💬 82 • ⏱️ 17:29 • 19h ago
 
 ---
 
@@ -318,7 +318,7 @@ Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw aw
 
 📺 When Shift Happens
 
-👁️ 2K • 👍 160 • 💬 47 • ⏱️ 49:16 • 3h ago
+👁️ 2K • 👍 160 • 💬 47 • ⏱️ 49:16 • 4h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 233 • 👍 11 • 💬 2 • ⏱️ 5:41 • 8h ago
+👁️ 233 • 👍 11 • 💬 2 • ⏱️ 5:41 • 9h ago
 
 ---
 
