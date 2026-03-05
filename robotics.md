@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-05T13:03:11.957273+00:00'
+updated: '2026-03-05T14:12:22.645206+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 05, 2026 at 13:03 UTC  
+**Last Updated:** March 05, 2026 at 14:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi
 
 Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humanoid robot process here. We open-sourced the legs and will open-source the full body soon. Your questions and comments along the way really helped us a lot. Appreciate it! A few days ago more than 50 people on X told us they'd be interested in a DIY humanoid robot kit. So we did it. We put together all parts from mechanical to electrical to build the Asimov robot. It's 1.20m, 35kg, 25+2 degrees of freedom (+2 comes from the articulated toe!). Asimov is a really powerful robot with almost the same specs as the Unitree G1. Some parts like the arms are actually stronger. We call the kit "Here Be Dragons", a name used for highly experimental, beta-before-beta releases. The kind where you're one of the first users, talking directly to the engineers, reporting bugs, and getting a fix the same day. We're now preparing a user manual and assembly videos too. The target price is $15,000, which is higher than our current BOM cost. We're taking pre-orders with a $499 deposit to find serious builders and learn what they need. We got 14 orders in a few hours and are planning to close pre-orders soon to handle it properly. So our build-in-public journey is turning into a business earlier than expected, and we're not looking for profit from the DIY Kit. Wanted to share with you all. If you're hacking something, please do share with the community. Details for the pre-order: https://asimov.inc/diy-kit
 
-22h ago
+23h ago
 
 ---
 
@@ -52,13 +52,13 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Hey everyone! I've been working on LinkForge, an open-source tool that turns Blender into a robotics IDE. Instead of hand-writing URDF/XACRO files, you define links, joints, sensors, and ros2_control interfaces visually in Blender 4.2+. A built-in linter catches physics issues like negative inertias or disconnected chains before export. v1.3.0 just released, with: • NumPy-accelerated inertia calculations • Improved ros2_control support • Better export validation GitHub: https://github.com/arounamounchili/linkforge Happy to answer questions or get feedback!
 
-7h ago
+8h ago
 
 ---
 
 **[Not Exactly How I Expected a Wheel Robot to Behave](https://www.reddit.com/r/robotics/comments/1rkrk1h/not_exactly_how_i_expected_a_wheel_robot_to_behave/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey everyone! I've been working on LinkForge, an open-source tool that turns Ble
 
 I’m a mechatronics engineer starting my first serious 6-axis desktop arm build (HexGrip V1.0). I’ve spent the last week deep-diving into torque specs and power requirements, and I just got all the hardware in hand. Before I start 3D printing the frame, I wanted to see if anyone has run this specific combo or if I’m walking into a trap. The Hardware Stack: The Brain: Arduino Nano. The Muscle: 4x MG996R (Base, Shoulder, Elbow, Wrist Roll) + 3x MG90S (Wrist Pitch/Yaw, Gripper). The Power: PCA9685 PWM Driver + Buck Converter (stepping down to 5-6V). The Control: NRF24L01 for future wireless joystick input. My Logic: I originally looked at SG90s, but the torque math for a 6-DOF arm is brutal—I didn't want the shoulder to stall the moment I added a gripper. I’m hoping the MG996Rs have enough holding torque for a 3D-printed PETG or PLA+ frame. The Query: Buck Converter: For those who’ve used this mix, do you find the MG90S servos get jittery or overheat if I run the whole bus at 6V to maximize the MG996R torque? NRF24L01: I've heard these are notorious for noise. Should I be shielding this from the PWM driver immediately, or is it manageable on a desktop-sized build?
 
-2h ago
+3h ago
 
 ---
 
@@ -82,25 +82,25 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 Xiaomi is actively testing self-developed humanoid robots on its electric vehicle assembly lines, and they are already keeping up with a blistering production pace of one new car every 76 seconds! Powered by a 4.7-billion-parameter Vision-Language-Action AI model, these bots can install parts and move materials, currently acting as factory interns.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html) • 2h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html) • 3h ago
 
 ---
 
 **[I Had an Existential Realization Today](https://www.reddit.com/r/robotics/comments/1rla0mq/i_had_an_existential_realization_today/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Need endorsement for Arxiv](https://www.reddit.com/r/robotics/comments/1rl6gdm/need_endorsement_for_arxiv/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Best CYD to buy](https://www.reddit.com/r/robotics/comments/1rla1qd/best_cyd_to_buy/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -112,7 +112,7 @@ Xiaomi is actively testing self-developed humanoid robots on its electric vehicl
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
-BMW Group • 5d ago
+BMW Group • 6d ago
 
 ---
 
@@ -120,15 +120,7 @@ BMW Group • 5d ago
 
 Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
 
-Business Insider • 17h ago
-
----
-
-**[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
-
-The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
-
-GeekWire • 14h ago
+Business Insider • 18h ago
 
 ---
 
@@ -136,13 +128,21 @@ GeekWire • 14h ago
 
 SAN FRANCISCO, March 4 (Reuters) - Amazon on Tuesday confirmed it laid off staff across its robotics unit, ‌with at least 100 white-collar jobs affected, two people ‌familiar with the matter told Reuters. This comes after a January cut of about ​16,000 jobs with the company at the time hinting layoffs would continue.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
+
+The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
+
+GeekWire • 15h ago
 
 ---
 
 **[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -151,6 +151,12 @@ Bloomberg.com • 21h ago
 Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
 
 CNBC • 1d ago
+
+---
+
+**[Vacant Mountain View Kohl’s turned into temporary robotics hub](https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/)**
+
+Mountain View Voice • 2d ago
 
 ---
 
@@ -174,14 +180,6 @@ Phys.org • 1d ago
 
 ---
 
-**[Hyundai Motor chases Tesla with $6 billion investment in massive new Korean robot, AI, data hub](https://www.autonews.com/hyundai/an-hyundai-korea-mobed-robotics-hydrogen-ai-data-center-0304/)**
-
-Hyundai will build a $6 billion complex in South Korea capable of producing 30,000 robots annually. The site includes solar-powered hydrogen production and an AI data center with 50,000 graphics processing units to support physical artificial intelligence in next-generation robots.
-
-Automotive News • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -202,7 +200,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 54 • ⏱️ 1:06 • 11h ago
+👁️ 2K • 👍 54 • ⏱️ 1:06 • 12h ago
 
 ---
 
@@ -232,7 +230,7 @@ What if one robot could handle your entire yard? In this video, we take a first 
 
 📺 RCDriver_Online
 
-👁️ 989 • 👍 59 • 💬 9 • ⏱️ 8:04 • 15h ago
+👁️ 989 • 👍 59 • 💬 9 • ⏱️ 8:04 • 16h ago
 
 ---
 
@@ -260,7 +258,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 XDollHub
 
-👁️ 12K • 👍 102 • 💬 4 • ⏱️ 0:14 • 23h ago
+👁️ 12K • 👍 102 • 💬 4 • ⏱️ 0:14 • 1d ago
 
 ---
 
@@ -268,7 +266,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 XDollHub
 
-👁️ 427K • 👍 2K • 💬 6 • ⏱️ 0:11 • 1d ago
+👁️ 427K • 👍 2K • 💬 6 • ⏱️ 0:11 • 2d ago
 
 ---
 

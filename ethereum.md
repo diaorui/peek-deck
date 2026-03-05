@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T13:03:11.954359+00:00'
+updated: '2026-03-05T14:12:22.641924+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 13:03 UTC  
+**Last Updated:** March 05, 2026 at 14:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** +10.5%  
-**30d:** -0.7%  
-**90d:** -29.8%  
-**1y:** -3.3%  
+**24h:** -1.3%  
+**7d:** +9.9%  
+**30d:** -1.2%  
+**90d:** -30.1%  
+**1y:** -3.8%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
+
+---
+
+**[TerraNullius: The Ethereum Message Board from Block 49,880 (August 7, 2015) — Still Getting Claims in 2026](https://www.reddit.com/r/ethereum/comments/1rlidmx/terranullius_the_ethereum_message_board_from/)**
+
+Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed one of the earliest smart contracts on the network: TerraNullius. What it does: Anyone can "claim" a hex coordinate and attach a message to it — a permanent, uncensorable message board on the blockchain. No tokens, no governance, no economic incentive. Just messages, forever. The numbers: - Deployed at block 49,880 (August 7, 2015) - Compiled with Solidity v0.1.1 - 25 claims in 2015, then it sat mostly dormant - 687 claims during the 2021 NFT boom (people realized these were basically proto-NFTs) - 805 total transactions and counting — still active in 2026 It was referenced by the Guinness World Records and is one of the earliest surviving interactive contracts on Ethereum. The original announcement was a Reddit post right here on r/ethereum, with Semiel sharing a Pastebin script so people could interact with it. What's fascinating is how it predates every pattern we now take for granted — ERC-20, ERC-721, ENS, DAOs. This was someone experimenting with permanence on a chain that was two weeks old. Contract: 0x6e38A457C722C6011B2dfa06d49240e797844d66 Full writeup with sources and verification: EthereumHistory.com If anyone has stories about early Ethereum experiments like this, I'd love to hear them. We're trying to document the pre-2017 era before the context is lost entirely.
+
+10m ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 20h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 21h ago
 
 ---
 
@@ -96,7 +104,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-22h ago
+23h ago
 
 ---
 
@@ -140,14 +148,6 @@ Before ERC-20 existed, Gavin Wood wrote a token contract called GavCoin and push
 
 ---
 
-**[Best crypto app/wallet](https://www.reddit.com/r/ethereum/comments/1rjrx6h/best_crypto_appwallet/)**
-
-I’m looking for a mobile wallet that’s easy to use but secure, especially since I don’t have a laptop and need a mobile‑first solution. I know this question gets asked a lot, but older recommendations don’t feel as relevant anymore with recent hacks and data leaks. Right now I’m on an exchange, but I want to move to a hot wallet first and maybe in a few months go to a cold wallet once I feel more comfortable. So, what’s the best hot/mobile wallet out there right now for beginners? What do you use?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ I’m looking for a mobile wallet that’s easy to use but secure, especially si
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 3d ago
 
 Ethereum ETFs saw inflows of $169 million Wednesday, as geopolitical tensions and price reset institutions’ crypto appetite.
 
-Yahoo Finance • 18m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 18m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -188,13 +188,13 @@ Fortune • 14h ago
 
 The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
-**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqex_YvixTkBZ0tKnWdA7lj5Q8vrgQou_-lgtxh4Hrg9X3I0PekOc8y4&gaa_ts=69a9827c&gaa_sig=F-Cy3nKwxYZ6hDF2VR2PJd-KCgc-w7YeuL9a1Wl0mWwlYIPRSLi6mp1IDAAeMGeVKmho40kqK6B4jcGVj2Ud4Q%3D%3D)**
+**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqcqzN5w2GV_w8WPrNMD_yNLPkxJ2VIfd6l33DkKy0yGin-pwx995Fa9&gaa_ts=69a992b1&gaa_sig=TPnB7tnqgRzjFN7jE_P9VERly4_0VCms0OeiZVY1fzCru6GPjv4YuX-Ofsz4f8FbavjnoNsjx04qcfifrtQPXg%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 2d ago
 
 **[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
 
-TipRanks • 5h ago
+TipRanks • 6h ago
 
 ---
 
@@ -220,11 +220,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-right-now-2000-and-hold-5-years-xrp-vs-ethereum)**
+**[Key facts: Harvard buys $86.8M in Ethereum shares; U.S. ether ETFs see volatility](https://www.tradingview.com/news/tradingview:331ab23c2055e:0-key-facts-harvard-buys-86-8m-in-ethereum-shares-u-s-ether-etfs-see-volatility/)**
 
-Key PointsEthereum is a general-purpose smart contract chain.
-
-Nasdaq • 1d ago
+TradingView • 14h ago
 
 ---
 
@@ -238,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 157 • 💬 7 • ⏱️ 4:00 • 12h ago
+👁️ 2K • 👍 157 • 💬 7 • ⏱️ 4:00 • 13h ago
 
 ---
 
@@ -248,7 +246,7 @@ BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 333 • 💬 82 • ⏱️ 17:29 • 12h ago
+👁️ 7K • 👍 333 • 💬 82 • ⏱️ 17:29 • 14h ago
 
 ---
 
@@ -268,7 +266,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 4K • 2h ago
+👁️ 5K • 👍 4K • 3h ago
 
 ---
 
@@ -288,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 127 • 👍 11 • 💬 2 • ⏱️ 5:41 • 3h ago
+👁️ 127 • 👍 11 • 💬 2 • ⏱️ 5:41 • 4h ago
 
 ---
 
@@ -328,7 +326,7 @@ Hier kannst du mich unterstützen und die die Börse BYDFI ansehen! OFFIZIELLER 
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 738 • 💬 75 • ⏱️ 16:23 • 7h ago
+👁️ 4K • 👍 738 • 💬 75 • ⏱️ 16:23 • 8h ago
 
 ---
 
