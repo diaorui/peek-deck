@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T11:34:40.593773+00:00'
+updated: '2026-03-05T13:03:11.954359+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 11:34 UTC  
+**Last Updated:** March 05, 2026 at 13:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,137.39
+### $2,133.90
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.4%  
-**7d:** +11.2%  
-**30d:** -0.1%  
-**90d:** -29.4%  
-**1y:** -2.7%  
+**24h:** +2.6%  
+**7d:** +10.5%  
+**30d:** -0.7%  
+**90d:** -29.8%  
+**1y:** -3.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $257.19B
+**Market Cap:** $258.24B
 Rank #2
 
 **Circulating Supply:** 120,692,109 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.0%
+-56.8%
 
 **All-Time Low:** $0.43
-+490949.2%
++493801.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 19h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 20h ago
 
 ---
 
@@ -96,7 +96,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-21h ago
+22h ago
 
 ---
 
@@ -156,23 +156,23 @@ I’m looking for a mobile wallet that’s easy to use but secure, especially si
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 17h ago
+CoinDesk • 19h ago
 
 ---
 
-**[Corporates and Exchanges Rush to Stake Ethereum Instead of Selling](https://decrypt.co/359893/corporates-exchanges-stake-ethereum-instead-of-selling)**
+**[Vitalik Buterin Urges Ethereum to Broaden Its Mission Beyond Finance](https://decrypt.co/359895/vitalik-buterin-ethereum-broaden-mission-beyond-finance)**
 
-Analysts say large investors are increasingly locking up ETH for yield rather than positioning to sell into market rallies.
+Ethereum’s co-founder is calling for “sanctuary technologies” spanning privacy tools, social systems, and infrastructure beyond finance.
 
-Decrypt • 1d ago
+Decrypt • 3d ago
 
 ---
 
-**[Got $1,000? This Cryptocurrency Is a No-Brainer Buy for Long-Term Holding](https://www.fool.com/investing/2026/03/05/got-1000-this-cryptocurrency-is-a-no-brainer-buy-f/)**
+**[Ethereum ETFs Draw In $169M, Highest Level in Two Months](https://finance.yahoo.com/news/ethereum-etfs-draw-169m-highest-124435429.html)**
 
-The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
+Ethereum ETFs saw inflows of $169 million Wednesday, as geopolitical tensions and price reset institutions’ crypto appetite.
 
-The Motley Fool • 2h ago
+Yahoo Finance • 18m ago
 
 ---
 
@@ -180,43 +180,21 @@ The Motley Fool • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
-**[Bitcoin Price Surges Above $72,000. Why Cryptos Are Defying Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqdMAw3gGnOjR_XIIi98pT1eucSKWm9yK6FgZpHzzNp-TWw7hGeSVysI&gaa_ts=69a96111&gaa_sig=_1RQlqt1ZD_MoPrd1fe8mu96UIvAeV1_aCiazrJT6WCvUtishVjl2VIK-U7oJn0Tir3tkYLpa9ERIM80zEliPA%3D%3D)**
+**[Got $1,000? This Cryptocurrency Is a No-Brainer Buy for Long-Term Holding](https://www.fool.com/investing/2026/03/05/got-1000-this-cryptocurrency-is-a-no-brainer-buy-f/)**
 
-Barron's • 19h ago
+The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
 
----
-
-**[Bitcoin and Ethereum Price to Surge in March? Tom Lee Bullish On Rebound Despite WW3 Threat](https://finance.yahoo.com/news/bitcoin-ethereum-price-surge-march-104526423.html)**
-
-Tom Lee expects a March rebound despite geopolitical tensions. Other analysts see signs of a bottom. Price outlook remains uncertain. Bitcoin and Ethereum’s prices could ...
-
-Yahoo Finance • 1d ago
+The Motley Fool • 4h ago
 
 ---
 
-**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-right-now-2000-and-hold-5-years-xrp-vs-ethereum)**
+**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqex_YvixTkBZ0tKnWdA7lj5Q8vrgQou_-lgtxh4Hrg9X3I0PekOc8y4&gaa_ts=69a9827c&gaa_sig=F-Cy3nKwxYZ6hDF2VR2PJd-KCgc-w7YeuL9a1Wl0mWwlYIPRSLi6mp1IDAAeMGeVKmho40kqK6B4jcGVj2Ud4Q%3D%3D)**
 
-Key PointsEthereum is a general-purpose smart contract chain.
-
-Nasdaq • 1d ago
-
----
-
-**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
-
-Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
-
-The Block • 1d ago
-
----
-
-**[Key facts: Harvard buys $86.8M in Ethereum shares; U.S. ether ETFs see volatility](https://www.tradingview.com/news/tradingview:331ab23c2055e:0-key-facts-harvard-buys-86-8m-in-ethereum-shares-u-s-ether-etfs-see-volatility/)**
-
-TradingView • 11h ago
+Barron's • 20h ago
 
 ---
 
@@ -228,9 +206,41 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
+
+TipRanks • 5h ago
+
+---
+
+**[Bitcoin miner turned Ethereum treasury firm stakes over $6B in ETH as BMNR shares slide and ether dips.](https://www.coindesk.com/business/2026/03/02/bitmine-boosts-ether-holdings-to-4-47m-tokens-after-usd98m-eth-purchase)**
+
+Bitmine chair Tom Lee says company keeps accumulating ETH during market pullback while targeting $253M in annual staking rewards.
+
+CoinDesk • 2d ago
+
+---
+
+**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-right-now-2000-and-hold-5-years-xrp-vs-ethereum)**
+
+Key PointsEthereum is a general-purpose smart contract chain.
+
+Nasdaq • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i84p4a-itsY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 157 • 💬 7 • ⏱️ 4:00 • 12h ago
+
+---
 
 **[BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=prGnQUx-jQI)**
 
@@ -238,7 +248,7 @@ BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 301 • 💬 164 • ⏱️ 17:29 • 11h ago
+👁️ 7K • 👍 333 • 💬 82 • ⏱️ 17:29 • 12h ago
 
 ---
 
@@ -248,17 +258,17 @@ Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum 
 
 📺 Schwab Network
 
-👁️ 5K • 👍 60 • 💬 10 • ⏱️ 8:40 • 1d ago
+👁️ 5K • 👍 64 • 💬 11 • ⏱️ 8:40 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i84p4a-itsY)**
+**[CRYPTO LIVE TRADING || 5 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=L7m1WluN2OY)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 More Crypto Online
+📺 Aryan trader Live
 
-👁️ 2K • 👍 143 • 💬 7 • ⏱️ 4:00 • 11h ago
+👁️ 5K • 👍 4K • 2h ago
 
 ---
 
@@ -268,47 +278,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 2K • 💬 122 • ⏱️ 10:14 • 2d ago
+👁️ 60K • 👍 2K • 💬 123 • ⏱️ 10:14 • 2d ago
 
 ---
 
-**[ETH Just Broke Out - Why BMNR &amp; SBET Can Go Parabolic (NAV Expansion)](https://www.youtube.com/watch?v=hs2DgjdYSVg)**
-
-ETH Breakout Confirmed — BMNR & SBET Next? (NAV Expansion + AI Agents with ETH Narrative Explained) Earn $ETH with ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 72 • 💬 14 • ⏱️ 22:38 • 13h ago
-
----
-
-**[US Iran War PUSHES Bitcoin to $73k! Here&#39;s What&#39;s NEXT - Jack Mallers](https://www.youtube.com/watch?v=nPjZ93OnAJs)**
-
-Explore BRON here: https://go.bron.org/savvyfinance BRON is a premium MPC-based wallet designed to eliminate seed phrases ...
-
-📺 Savvy Finance
-
-👁️ 8K • 👍 395 • 💬 60 • ⏱️ 21:56 • 17h ago
-
----
-
-**[Ethereum&#39;s Biggest Moment Is Happening Now](https://www.youtube.com/watch?v=bX8q3PdrpGo)**
-
-Ethereum Just Hit a Historic Milestone (Why ETH Is Finally Ready) thereum just hit a historic milestone with over 50% of all ETH ...
-
-📺 EverythingAltcoin
-
-👁️ 244 • 👍 14 • 💬 7 • ⏱️ 14:13 • 17h ago
-
----
-
-**[ETH ABOUT TO BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xED1ttF9iL4)**
+**[ETH BREAKOUT OR FAKEOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=c-sjutJm_no)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 694 • 👍 16 • 💬 2 • ⏱️ 4:40 • 1d ago
+👁️ 127 • 👍 11 • 💬 2 • ⏱️ 5:41 • 3h ago
 
 ---
 
@@ -318,17 +298,37 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 950 • 👍 23 • 💬 6 • ⏱️ 5:09 • 2d ago
+👁️ 962 • 👍 24 • 💬 6 • ⏱️ 5:09 • 2d ago
 
 ---
 
-**[Crypto Corner: Iran War&#39;s Bitcoin Impact &amp; Ethereum&#39;s 2026 Bull Case](https://www.youtube.com/watch?v=q19z3-Mgv7A)**
+**[BUY ETHEREUM!](https://www.youtube.com/watch?v=LfrCGteIJsE)**
 
-In this week's Crypto Corner, Jenny Horne and @CharlesSchwab's Jim Ferraioli discuss the impact that the war in the Middle East ...
+Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/PainofCrypt0 Instagram ...
 
-📺 Schwab Network
+📺 Pain of Crypto
 
-👁️ 698 • 👍 16 • 💬 4 • ⏱️ 9:38 • 12h ago
+👁️ 4K • 👍 135 • 💬 44 • ⏱️ 6:27 • 2d ago
+
+---
+
+**[Tom Lee: My NEW Warning To All Small Bitcoin &amp; Crypto Investors (Everything Just Changed)](https://www.youtube.com/watch?v=08jvuQfVf4A)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 211 • 💬 16 • ⏱️ 18:15 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Gibts noch ein weiteres Hoch? Ein bisschen meine Perspektive erklären](https://www.youtube.com/watch?v=_kTJb7HfyrA)**
+
+Hier kannst du mich unterstützen und die die Börse BYDFI ansehen! OFFIZIELLER Partner von Newcastle United!
+
+📺 Krypto Trading & Investing
+
+👁️ 4K • 👍 738 • 💬 75 • ⏱️ 16:23 • 7h ago
 
 ---
 
