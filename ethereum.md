@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-04T23:31:20.158446+00:00'
+updated: '2026-03-05T02:10:03.364562+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 23:31 UTC  
+**Last Updated:** March 05, 2026 at 02:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,149.82
+### $2,113.35
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +8.6%  
-**7d:** +6.2%  
-**30d:** -3.6%  
-**90d:** -28.7%  
-**1y:** -3.8%  
+**7d:** +10.2%  
+**30d:** -1.0%  
+**90d:** -30.0%  
+**1y:** -3.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $259.48B
+**Market Cap:** $255.96B
 Rank #2
 
-**Circulating Supply:** 120,692,150 ETH
+**Circulating Supply:** 120,692,109 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.5%
+-57.1%
 
 **All-Time Low:** $0.43
-+496258.9%
++489854.5%
 
 ---
 
@@ -72,15 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+20h ago
 
 ---
 
-**[I reverse-engineered the source code of GavCoin (2016) and got an exact bytecode match - now trying to get Etherscan to verify it](https://www.reddit.com/r/ethereum/comments/1rk91ha/i_reverseengineered_the_source_code_of_gavcoin/)**
+**[Understanding Block-Level Access Lists, a headliner of the Glamsterdam upgrade](https://www.reddit.com/r/ethereum/comments/1rkpno9/understanding_blocklevel_access_lists_a_headliner/)**
 
-GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2016 - one of the earliest token contracts on Ethereum. The original source used #require directives from the Mix IDE preprocessor, which hasn't existed for years. The code was never verified on Etherscan. I spent a while reconstructing the source from bytecode analysis: Brute-forced all 12 function selectors via keccak256 to recover the exact function names (turns out Gav used changeOwner not setOwner, nameRegAddress not name) Discovered the contract has zero events, no inheritance, and a flat storage layout - unusual for something based on dapp-bin's coin.sol Found that function declaration order matters in solc 0.3.x because it controls where the shared return trampoline gets placed in bytecode The constructor registers itself as "GavCoin" in the old global NameReg contract and mints 1,000,000 tokens to the deployer, plus has a proof-of-work mining function anyone could call End result: exact byte-for-byte match of the 905-byte runtime bytecode across solc v0.1.6 through v0.3.2 with optimizer enabled. Source and one-command verification script: https://github.com/cartoonitunes/gavcoin-verify The problem: Etherscan's verification form only supports solc v0.4.11 and newer. GavCoin was compiled with v0.3.1. So I've emailed them requesting manual verification. I also submitted verification requests for two other historic contracts from the same era - Alex Van de Sande's Unicorn Meat system (the MeatConversionCalculator and MeatGrindersAssociation). The Grinder Association is one of the earliest DAOs on Ethereum, featuring quadratic voting and on-chain proposals. Source for those is in avsa's original gist. These early contracts are fascinating. Pre-ERC-20, pre-EIP, people were just experimenting. Proof-of-work token mining, on-chain name registries, quadratic voting DAOs - all in 2016. If anyone has other unverified historic contracts they'd like help with, happy to share the approach.
+EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-21h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 9h ago
 
 ---
 
@@ -88,7 +88,15 @@ GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-9h ago
+11h ago
+
+---
+
+**[I reverse-engineered the source code of GavCoin (2016) and got an exact bytecode match - now trying to get Etherscan to verify it](https://www.reddit.com/r/ethereum/comments/1rk91ha/i_reverseengineered_the_source_code_of_gavcoin/)**
+
+GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2016 - one of the earliest token contracts on Ethereum. The original source used #require directives from the Mix IDE preprocessor, which hasn't existed for years. The code was never verified on Etherscan. I spent a while reconstructing the source from bytecode analysis: Brute-forced all 12 function selectors via keccak256 to recover the exact function names (turns out Gav used changeOwner not setOwner, nameRegAddress not name) Discovered the contract has zero events, no inheritance, and a flat storage layout - unusual for something based on dapp-bin's coin.sol Found that function declaration order matters in solc 0.3.x because it controls where the shared return trampoline gets placed in bytecode The constructor registers itself as "GavCoin" in the old global NameReg contract and mints 1,000,000 tokens to the deployer, plus has a proof-of-work mining function anyone could call End result: exact byte-for-byte match of the 905-byte runtime bytecode across solc v0.1.6 through v0.3.2 with optimizer enabled. Source and one-command verification script: https://github.com/cartoonitunes/gavcoin-verify The problem: Etherscan's verification form only supports solc v0.4.11 and newer. GavCoin was compiled with v0.3.1. So I've emailed them requesting manual verification. I also submitted verification requests for two other historic contracts from the same era - Alex Van de Sande's Unicorn Meat system (the MeatConversionCalculator and MeatGrindersAssociation). The Grinder Association is one of the earliest DAOs on Ethereum, featuring quadratic voting and on-chain proposals. Source for those is in avsa's original gist. These early contracts are fascinating. Pre-ERC-20, pre-EIP, people were just experimenting. Proof-of-work token mining, on-chain name registries, quadratic voting DAOs - all in 2016. If anyone has other unverified historic contracts they'd like help with, happy to share the approach.
+
+23h ago
 
 ---
 
@@ -97,14 +105,6 @@ My question is for devs and teams which are running Defi apps, DApps, Web apps w
 Over the past year, many people I talk to have expressed worry about two topics: Various aspects of the way the world is going: government control and surveillance, wars, corporate power and surveillance, tech enshittification / corposlop, social media becoming a memetic warzone, AI and how it interplays with all of the above... The brute reality that Ethereum seems to be absent from meaningfully improving the lives of people subject to these things, even on the dimensions we deeply care about (eg. freedom, privacy, security of digital life, community self-organization) It is easy to bond over the first, to commiserate over the fact that beauty and good in the world seems to be receding and darkness advancing, and uncaring powerful people in high places are making this happen. But ultimately, it is easy to acknowledge problems, the hard thing is actually shining a light forward, coming up with a concrete plan that makes the situation better. The second has been weighing heavily on my mind, and on the minds of many of our brightest and most idealistic Ethereans. I personally never felt any upset or fear when political memecoins went on Solana, or various zero-sum gambling applications go on whatever 250 millisecond block chain strikes their fancy. But it does weigh on me that, through all of the various low-grade online memetic wars, international overreaches of corporate and government power, and other issues of the last few years, Ethereum has been playing a very limited role in making people's lives better. What are the liberating technologies? Starlink is the most obvious one. Locally-running open-weights LLMs are another. Signal is a third. Community Notes is a fourth, tackling the problem from a different angle. One response is to say "stop dreaming big, we need to hunker down and accept that finance is our lane and laser-focus on that". But this is ultimately hollow. Financial freedom and security is critical. But it seems obvious that, while adding a perfectly free and open and sovereign and debasement-proof financial system would fix some things, but it would leave the bulk of our deep worries about the world unaddressed. It's okay for individuals to laser-focus on finance, but we need to be part of some greater whole that has things to say about the other problems too. At the same time, Ethereum cannot fix the world. Ethereum is the "wrong-shaped tool" for that: beyond a certain point, "fixing the world" implies a form of power projection that is more like a centralized political entity than like a decentralized technology community. So what can we do? I think that we in Ethereum should conceptualize ourselves as being part of an ecosystem building "sanctuary technologies": free open-source technologies that let people live, work, talk to each other, manage risk and build wealth, and collaborate on shared goals, in a way that optimizes for robustness to outside pressures. The goal is not to remake the world in Ethereum's image, where all finance is disintermediated, all governance happens through DAOs, and everyone gets a blockchain-based UBI delivered straight to their social-recovery wallet. The goal is the opposite: it's de-totalization. It's to reduce the stakes of the war in heaven by preventing the winner from having total victory (ie. total control over other human beings), and preventing the loser from suffering total defeat. To create digital islands of stability in a chaotic era. To enable interdependence that cannot be weaponized. Ethereum's role is to create "digital space" where different entities can cooperate and interact. Communications channels enable interaction, but communication channels are not "space": they do not let you create single unique objects that canonically represent some social arrangement that changes over time. Money is one important example. Multisigs that can change their members, showing persistence exceeding that of any one person or one public key, are another. Various market and governance structures are a third. There are more. I think now is the time to double down, with greater clarity. Do not try to be Apple or Google, seeing crypto as a tech sector that enables efficiency or shininess. Instead, build our part of the sanctuary tech ecosystem - the "shared digital space with no owner" that enables both open finance and much more. More actively build toward a full-stack ecosystem: both upward to the wallet and application layer (incl AI as interface) and downward to the OS, hardware, even physical/bio security levels. Ultimately, tech is worthless without users. But look for users, both individual and institutional, for whom sanctuary tech is exactly the thing they need. Optimize payments, defi, decentralized social, and other applications precisely for those users, and those goals, which centralized tech will not serve. We have many allies, including many outside of "crypto". It's time we work together with an open mind and move forward.
 
 1d ago
-
----
-
-**[Understanding Block-Level Access Lists, a headliner of the Glamsterdam upgrade](https://www.reddit.com/r/ethereum/comments/1rkpno9/understanding_blocklevel_access_lists_a_headliner/)**
-
-EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
-
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 7h ago
 
 ---
 
@@ -156,7 +156,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 5h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -164,29 +164,7 @@ CoinDesk • 5h ago
 
 Analysts say large investors are increasingly locking up ETH for yield rather than positioning to sell into market rallies.
 
-Decrypt • 20h ago
-
----
-
-**[Is Now the Time to Buy Ethereum, Following Its 10% Rise?](https://www.fool.com/investing/2026/03/04/is-now-the-time-to-buy-ethereum-following-its-10-r/)**
-
-Ethereum is rallying hard today, as the crypto sector finally shows some signs of life.
-
-The Motley Fool • 3h ago
-
----
-
-**[Is Now the Time to Buy Ethereum, Following Its 10% Rise?](https://finance.yahoo.com/news/now-time-buy-ethereum-following-201550720.html)**
-
-Ethereum is rallying hard today, as the crypto sector finally shows some signs of life.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqevA36Cua6KrHCZa3L_67YG-pTu_pisg3taru-MudAfW_15-BvqNU-z&gaa_ts=69a8b6a4&gaa_sig=fVOXIWAIjftWeaUSLK5XA-vLOQ41TdVZke9LQ-vD9RC1LxhyAMAu98PDklU4rsFedc5wYyFxiEV-7zcJEHu94A%3D%3D)**
-
-Barron's • 7h ago
+Decrypt • 22h ago
 
 ---
 
@@ -194,7 +172,29 @@ Barron's • 7h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 3h ago
+
+---
+
+**[31.6 Million ETH Leaves Exchanges as Vitalik Calls for Ethereum “Sanctuary” Tech](https://finance.yahoo.com/news/31-6-million-eth-leaves-070249895.html)**
+
+ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
+
+Yahoo Finance • 19h ago
+
+---
+
+**[Bitcoin Price Surges Above $72,000. Why Cryptos Are Defying Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqeSvLk3K4TECI_28Cib5Cs5sT7uE3uuuLVBiX4z8_qwUa73KKGFE-KR&gaa_ts=69a8e966&gaa_sig=hJXhJrMvHrRas3gboh4mTeajbrLiEFvW3U0XKmGg0mbPVq5fuHXMwz3W4_fsJQgBe4jtAKY9-sgoHBhSE8F9zA%3D%3D)**
+
+Barron's • 9h ago
+
+---
+
+**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/03/03/better-cryptocurrency-to-buy-right-now-with-2000-a/)**
+
+The biggest factor here is the diversity of sources for future demand.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -206,14 +206,6 @@ The Block • 1d ago
 
 ---
 
-**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-right-now-2000-and-hold-5-years-xrp-vs-ethereum)**
-
-Key PointsEthereum is a general-purpose smart contract chain.
-
-Nasdaq • 1d ago
-
----
-
 **[Iran war won’t spoil Ethereum price rally in March, Tom Lee says](https://www.dlnews.com/articles/markets/iran-war-will-not-spoil-ethereum-price-rally-in-march-tom-lee-says/)**
 
 Ethereum is set to surge in March, says Tom Lee. War in Iran won’t scupper the rally, Bitmine chair says. Cryptocurrency is up 9% over the past week.
@@ -222,11 +214,19 @@ dlnews.com • 1d ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772619300)**
+**[Scaling Ethereum For Mainstream: Robinhood’s Head Of Crypto Lays Out The Vision](https://www.tradingview.com/news/newsbtc:5edc50569094b:0-scaling-ethereum-for-mainstream-robinhood-s-head-of-crypto-lays-out-the-vision/)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+As demand for digital assets continues to accelerate, scaling solutions have become one of the most important challenges facing Ethereum. In a recent discussion, Robinhood’s Head of Crypto outlined the company’s ambitious strategy to tackle this problem by building its own ETH Layer-2 network to se…
 
-Polymarket • 13h ago
+TradingView • 7h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Rally: Why is Crypto Market Going Up Today?](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-rally-why-is-crypto-market-going-up-today/)**
+
+The cryptocurrency market saw a strong rebound today as major digital assets moved sharply higher within a few hours, pushing the total crypto market
+
+Coinpedia Fintech News • 14h ago
 
 ---
 
@@ -234,33 +234,33 @@ Polymarket • 13h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=prGnQUx-jQI)**
+
+BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 161 • 💬 44 • ⏱️ 17:29 • 2h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i84p4a-itsY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 398 • 👍 41 • 💬 3 • ⏱️ 4:00 • 1h ago
+
+---
+
 **[Bitcoin &amp; Ethereum &quot;Buy&quot; 50% Below Record Highs, ETFs Adding Exposure](https://www.youtube.com/watch?v=zr0xNUhtXcY)**
 
 Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum are both buys amid steep sell-offs in the crypto ...
 
 📺 Schwab Network
 
-👁️ 4K • 👍 52 • 💬 9 • ⏱️ 8:40 • 1d ago
-
----
-
-**[ETH ABOUT TO BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xED1ttF9iL4)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 468 • 👍 20 • ⏱️ 4:40 • 13h ago
-
----
-
-**[BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mDgfzkAUcps)**
-
-BITCOIN PRICE TRAP: BlackRock Buying Now!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 285 • 💬 138 • ⏱️ 16:36 • 1d ago
+👁️ 4K • 👍 55 • 💬 10 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -270,27 +270,37 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 2K • 💬 124 • ⏱️ 10:14 • 1d ago
+👁️ 59K • 👍 2K • 💬 123 • ⏱️ 10:14 • 2d ago
 
 ---
 
-**[BUY ETHEREUM!](https://www.youtube.com/watch?v=LfrCGteIJsE)**
+**[Ethereum&#39;s Biggest Moment Is Happening Now](https://www.youtube.com/watch?v=bX8q3PdrpGo)**
 
-Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/PainofCrypt0 Instagram ...
+Ethereum Just Hit a Historic Milestone (Why ETH Is Finally Ready) thereum just hit a historic milestone with over 50% of all ETH ...
 
-📺 Pain of Crypto
+📺 EverythingAltcoin
 
-👁️ 4K • 👍 133 • 💬 34 • ⏱️ 6:27 • 2d ago
+👁️ 180 • 👍 12 • 💬 7 • ⏱️ 14:13 • 8h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: THE END!!!!!!!!!!!](https://www.youtube.com/watch?v=ESyJ5lBpO3Q)**
+**[ETH ABOUT TO BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xED1ttF9iL4)**
 
-Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 narrative isnt the best for crypto people right now.
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Thomas Kralow
+📺 Cilinix Crypto
 
-👁️ 29K • 👍 3K • 💬 63 • ⏱️ 8:18 • 2d ago
+👁️ 600 • 👍 21 • 💬 2 • ⏱️ 4:40 • 16h ago
+
+---
+
+**[Deploy Your Own Ethereum AI Crypto Trading Bot With Solidity Full Setup 2026](https://www.youtube.com/watch?v=Ow9lJ8Ad7us)**
+
+In this video, you'll learn how to deploy your own Ethereum AI Crypto Trading Bot using Solidity with a complete step-by-step ...
+
+📺 Alex ETH Boy
+
+👁️ 998 • 👍 97 • 💬 18 • ⏱️ 8:39 • 5h ago
 
 ---
 
@@ -300,17 +310,7 @@ Well, it looks like someone finally realized that something had to be done or th
 
 📺 The Modern Investor
 
-👁️ 8K • 👍 782 • 💬 63 • ⏱️ 27:48 • 2d ago
-
----
-
-**[🥇Ethereum (ETH) : Good For Next 5 Years or Time to Sell?](https://www.youtube.com/watch?v=E0DMvj1jH7k)**
-
-Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ...
-
-📺 Kirtish Vyas (CoinLyte)
-
-👁️ 2K • 👍 122 • 💬 11 • ⏱️ 17:33 • 13h ago
+👁️ 8K • 👍 784 • 💬 65 • ⏱️ 27:48 • 2d ago
 
 ---
 
@@ -320,17 +320,17 @@ Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet :
 
 📺 Егор Попковский
 
-👁️ 2K • 👍 125 • 💬 16 • ⏱️ 7:10 • 9h ago
+👁️ 2K • 👍 130 • 💬 16 • ⏱️ 7:10 • 11h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=qZ_aRpWh1ZU)**
+**[🥇Ethereum (ETH) : Good For Next 5 Years or Time to Sell?](https://www.youtube.com/watch?v=E0DMvj1jH7k)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ...
 
-📺 More Crypto Online
+📺 Kirtish Vyas (CoinLyte)
 
-👁️ 3K • 👍 175 • 💬 7 • ⏱️ 6:13 • 1d ago
+👁️ 2K • 👍 132 • 💬 11 • ⏱️ 17:33 • 16h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-04T23:31:20.152480+00:00'
+updated: '2026-03-05T02:10:03.359211+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 04, 2026 at 23:31 UTC  
+**Last Updated:** March 05, 2026 at 02:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,426.39
+### $72,538.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +7.3%  
-**7d:** +8.5%  
-**30d:** -3.3%  
-**90d:** -17.8%  
-**1y:** -18.9%  
+**24h:** +7.6%  
+**7d:** +10.4%  
+**30d:** -0.6%  
+**90d:** -18.6%  
+**1y:** -19.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1463.11B
+**Market Cap:** $1453.01B
 Rank #1
 
-**Circulating Supply:** 19,997,812 BTC
+**Circulating Supply:** 19,997,906 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--41.9%
+-42.4%
 
 **All-Time Low:** $67.81
-+107833.9%
++107078.9%
 
 ---
 
 ## Fear & Greed Index
 
-### 10
+### 22
 **EXTREME FEAR**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[The Bitcoin CEO ordered me to post this here](https://www.reddit.com/r/Bitcoin/comments/1rkqmp7/the_bitcoin_ceo_ordered_me_to_post_this_here/)**
 
-6h ago
+9h ago
 
 ---
 
 **[Watch -- this is a HUGE milestone for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rkpcu1/watch_this_is_a_huge_milestone_for_bitcoin/)**
 
-7h ago
+10h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 that turned out to be a lie :-(
 
-7h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ that turned out to be a lie :-(
 
 Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
-7h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ Time to buy is today 3/4/26…LFG🇺🇸🇺🇸🚀💰🍀😜🔥
 
 Genuine question. With all the payment apps and instant bank transfers now, I want to know if people still find BTC faster for moving money around online. Ive noticed some platforms still lean heavily on Bitcoin for deposits and withdrawals because it settles quicker than traditional banking. I even saw a few services like Bracco using BTC payouts instead of waiting days for bank transfers. I want to know what people here think. Is Bitcoin still the best option for fast online payments or have other methods caught up?
 
-4h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ Genuine question. With all the payment apps and instant bank transfers now, I wa
 
 I stopped trying to time bitcoin and just started DCAing every week. Honestly wish I did this years ago instead of staring at charts like an idiot. Everyone told me to wait for the dip, wait for the cycle bottom, wait for 50k again. Meanwhile bitcoin went from 60k to 100k while I was waiting. The people who were DCAing the whole time are up and the people who were "waiting for the perfect entry" are still waiting. I genuinely think most people lose money in crypto not because they buy the wrong thing but because they try to be smarter than the market. Just buying a fixed amount every week and forgetting about it has outperformed every trade I've ever made. The funniest part is people will call this boring or say DCA is for people who don't know what they're doing. Cool. My boring strategy is outperforming your leveraged long that got liquidated last Tuesday. Am I wrong here or is DCA genuinely the most underrated strategy in crypto?
 
-6h ago
+9h ago
 
 ---
 
@@ -125,27 +125,29 @@ I stopped trying to time bitcoin and just started DCAing every week. Honestly wi
 
 Oh, look who is back from the dead, again.
 
-6h ago
+8h ago
 
 ---
 
 **[WSJ: "Kraken Becomes First Crypto Firm to Win Access to Fed’s Core Payments System".](https://www.reddit.com/r/Bitcoin/comments/1rkug8c/wsj_kraken_becomes_first_crypto_firm_to_win/)**
 
-🔗 [wsj.com](https://www.wsj.com/finance/regulation/kraken-becomes-first-crypto-firm-to-win-access-to-feds-core-payments-system-b5d17031?gaa_at=eafs&gaa_n=AWEtsqfdVnY79XD5mBPAvp1mBiF2DlSLnb1xK97gZ7tyi7GtH1chamQqQaXca7NtHTM%3D&gaa_ts=69a88667&gaa_sig=tFrW3fhMtKBdT4S9yS-gp9-crKSVkzBrpWivmJMpA7PTLVuJqnXVzRFekQ5q1Vavme4-OSNZZ6iivihi1Xg5yQ%3D%3D) • 4h ago
+🔗 [wsj.com](https://www.wsj.com/finance/regulation/kraken-becomes-first-crypto-firm-to-win-access-to-feds-core-payments-system-b5d17031?gaa_at=eafs&gaa_n=AWEtsqfdVnY79XD5mBPAvp1mBiF2DlSLnb1xK97gZ7tyi7GtH1chamQqQaXca7NtHTM%3D&gaa_ts=69a88667&gaa_sig=tFrW3fhMtKBdT4S9yS-gp9-crKSVkzBrpWivmJMpA7PTLVuJqnXVzRFekQ5q1Vavme4-OSNZZ6iivihi1Xg5yQ%3D%3D) • 7h ago
 
 ---
 
-**[Bitcoin’s story is just getting started — a short video on its past, present, and future](https://www.reddit.com/r/Bitcoin/comments/1rkud5i/bitcoins_story_is_just_getting_started_a_short/)**
+**[One more time...](https://www.reddit.com/r/Bitcoin/comments/1rl20hv/one_more_time/)**
 
-4h ago
+And as always happens, once again, all those who weren't buying because they thought it would fall further, are left out for another cycle, they'll buy back at 130k.
+
+2h ago
 
 ---
 
-**[The Bitcoin network is reaching the 20,000,000 coins milestone within one week. Mining the final million coins will take over 100 years.](https://www.reddit.com/r/Bitcoin/comments/1rkenpi/the_bitcoin_network_is_reaching_the_20000000/)**
+**[Bought a Trezor 3 - How to ensure my wife/parents can get my Bitcoin if I die](https://www.reddit.com/r/Bitcoin/comments/1rkuz2b/bought_a_trezor_3_how_to_ensure_my_wifeparents/)**
 
-If you're wondering how to find the circulating coins info, you can use your own node with the command: bitcoin-cli gettxoutsetinfo Or https://www.txoutset.info/ Currently at 19,997,379 BTC (block height: 939,234)
+Just bought a Trezor 3 after seeing that these threats from Ledger that they wont be supporting Nano S anymore. I set up my Nano S last time with a seedphase + password and I want to do the same with the Trezor 3. Do you have any strategies for providing the info to your parents/wife securely so they can access it in case something happened to you? My password will be long so I can't expect my parents and my wife to remember it
 
-16h ago
+6h ago
 
 ---
 
@@ -153,31 +155,19 @@ If you're wondering how to find the circulating coins info, you can use your own
 
 ## Google News: "bitcoin"
 
-**[Stock Market Today: Major Indexes Surge After Sell-Off; Bitcoin, Crypto-Tied Stocks Soar](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-03042026-11918929)**
+**[Billionaire Ray Dalio sends harsh warning on Bitcoin](https://finance.yahoo.com/news/billionaire-ray-dalio-sends-harsh-223701526.html)**
 
-Stocks futures were little changed Wednesday, a day after major indexes fell but closed well above early lows, as Middle East fighting entered its fifth day.
+Billionaire Ray Dalio is not shy when it comes to commenting about Bitcoin. One thing that he time and again repeats is not to compare Bitcoin with gold. The Bridgewater Associates founder appeared on the recent "All-In Podcast" of Mar. 3 and laid out a detailed critique of Bitcoin, arguing ...
 
-Investopedia • 2h ago
-
----
-
-**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqeB9O8GceeZ1Wkev3AtzMDxGTmfXKaE4CetmWTuLsrfju36a1_z0LdQ&gaa_ts=69a8b6a3&gaa_sig=qY2VUCtH5Tni3_IHFXTU2FG3dWZPEN2lpcNOLWZh8x3mweeV9IHkY3hRdQ_umr8NnBnbQdgT7sUEC32lSPgvww%3D%3D)**
-
-Barron's • 7h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Stock market today: Dow, S&P 500, Nasdaq rebound on hopes of Iran deescalation as bitcoin surges](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rebound-on-hopes-of-iran-deescalation-as-bitcoin-surges-210937794.html)**
+**[Ray Dalio thinks bitcoin is no gold, and that is exactly why bulls are buying](https://www.coindesk.com/markets/2026/03/04/crypto-bulls-slam-ray-dalio-s-tired-narratives-in-defense-of-bitcoin-s-future)**
 
-Investors are weighing a NYT report that Iran has indirectly approached the US to discuss terms for ending the conflict.
+Experts push back on billionaire hedge fund manager Ray Dalio's warning of bitcoin lacking gold’s qualities and risks from surveillance, quantum computing and lack of central bank buying.
 
-Yahoo Finance • 1h ago
-
----
-
-**[AI Boom Spurs Bitcoin-Sales Threat at Miners Holding $8 Billion](https://www.bloomberg.com/news/articles/2026-03-04/ai-boom-spurs-bitcoin-sales-threat-at-miners-holding-8-billion)**
-
-Bloomberg • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -185,59 +175,67 @@ Bloomberg • 2h ago
 
 Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
 
-Business Insider • 3h ago
+Business Insider • 6h ago
 
 ---
 
-**[Ray Dalio says ‘there is only one gold’ even as bitcoin holds up better during Iran crisis](https://www.coindesk.com/markets/2026/03/04/ray-dalio-says-there-is-only-one-gold-as-bitcoin-outperforms-gold-during-the-worst-week-of-geopolitical-crisis-in-years)**
+**[Crypto stocks news: COIN, MSTR lead gains as bitcoin (BTC) climbs above $70,000](https://www.coindesk.com/markets/2026/03/04/coinbase-strategy-lead-crypto-stocks-higher-as-bitcoin-spikes-above-usd72-000)**
 
-The Bridgewater founder dismissed bitcoin's safe-haven credentials on the same day gold dropped 3% while bitcoin fell less than 1%.
+Crypto-related equities saw large gains at the Wednesday open, rebounding from Tuesday's selloff.
 
-CoinDesk • 15h ago
-
----
-
-**[Are Bitcoin Critics Holding Price Back From $750,000? Ray Dalio’s Warning Is ‘Opportunity,' Says Bitwise Exec](https://finance.yahoo.com/news/bitcoin-critics-holding-price-back-113215129.html)**
-
-Ray Dalio has again questioned Bitcoin’s role as money. Matt Hougan sees criticism as bullish for Bitcoin's price. Crypto industry figures defend Bitcoin’s long-term case. ...
-
-Yahoo Finance • 11h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin is making a bottom, says VanEck Funds' Jan van Eck](https://www.cnbc.com/video/2026/03/02/bitcoin-is-making-a-bottom-says-vaneck-funds-jan-van-eck.html)**
+**[Crypto Bettors Say Sub‑$150,000 Bitcoin Is the Base Case for 2026 -- Here's How Investors Can Still Win](https://www.fool.com/investing/2026/03/04/crypto-bettors-say-sub150000-bitcoin-is-the-base-c/)**
 
-CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
+Even if Bitcoin ends the year in the red, it's still possible to turn a profit in crypto.
 
-CNBC • 2d ago
-
----
-
-**[Steak 'n Shake sparks online debate with 21-cent bitcoin bonus for workers: 'This is the way'](https://www.foxnews.com/food-drink/steak-n-shake-sparks-online-debate-21-cent-bitcoin-bonus-workers-this-way)**
-
-Fast-food employees at Steak 'n Shake will earn bitcoin bonuses of 21 cents per hour starting March 1, plus $1,000 Trump Account contributions for workers.
-
-Fox News • 1d ago
+The Motley Fool • 36m ago
 
 ---
 
-**[Strategy (MSTR), Coinbase (COIN) Surge as Bitcoin Pumps Near $73,000](https://bitcoinmagazine.com/markets/strategy-mstr-coinbase-bitcoin-jumps)**
+**[Clearline Capital Increases Core Scientific Stake as Bitcoin Mining Becomes a Data Center Business](https://finance.yahoo.com/news/clearline-capital-increases-core-scientific-003524268.html)**
 
-Shares of Strategy, Inc. (MSTR) and Coinbase (COIN) jumped on Wednesday, marking a sharp rebound for the Bitcoin proxies after months of losses.
+Clearline Capital added shares of Core Scientific, a major Bitcoin mining operator with large-scale data center facilities. With mining rewards reduced after the latest halving, access to power and infrastructure is becoming the industry’s defining advantage.
 
-Bitcoin Magazine • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[MARA Holdings Sells Bitcoin And Pursues AI Data Center Pivot](https://finance.yahoo.com/news/mara-holdings-sells-bitcoin-pursues-011238548.html)**
+
+MARA Holdings, ticker NasdaqCM:MARA, has started selling Bitcoin from its balance sheet to fund operations and debt obligations. The company has agreed a major data infrastructure partnership with Starwood Digital Ventures to expand into AI and enterprise focused digital assets. These moves mark a change in MARA Holdings' core business model, shifting from a pure Bitcoin miner toward a broader digital infrastructure player. Shares of MARA Holdings last closed at $9.29, with a 7 day return...
+
+Yahoo Finance • 58m ago
+
+---
+
+**[Bitcoin crosses $73,000 as investors look past Iran tensions: CNBC Crypto World](https://www.cnbc.com/video/2026/03/04/bitcoin-crosses-73000-investors-look-past-iran-tensions-crypto-world.html)**
+
+On this week's episode of CNBC Crypto World, major digital currencies rebound even as a joint military operation in Iran raises volatility for traditional markets. Plus, Coinbase shares rise as President Trump backs stablecoin issuers' efforts to rewrite crypto market structure legislation. And, Cosmo Jiang of Pantera Capital breaks down what other factors could drive crypto prices in the short term.
+
+CNBC • 6h ago
+
+---
+
+**[Bitwise To Donate $233,000 To Bitcoin Open-Source Developers](https://bitcoinmagazine.com/news/bitwise-to-donate-233000-to-bitcoin-comm)**
+
+Bitwise said it will be contributing $233,000 to support the programmers who maintain and secure the Bitcoin network.
+
+Bitcoin Magazine • 6h ago
+
+---
+
+**[AI Boom Spurs Bitcoin-Sales Threat at Miners Holding $8 Billion](https://www.bloomberg.com/news/articles/2026-03-04/ai-boom-spurs-bitcoin-sales-threat-at-miners-holding-8-billion)**
+
+Bloomberg.com • 5h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
-
-⬆️ 9 • 💬 3 • 7d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
-
----
 
 **[Mt. Gox CEO Suggests Bitcoin Hard Fork to Recover $5B in Customer Funds](https://news.ycombinator.com/item?id=47205894)**
 
@@ -279,21 +277,13 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 Complete operating system for Bitcoiners
 
-⬆️ 2 • 💬 1 • 8h ago • [opacore.com](https://opacore.com)
+⬆️ 2 • 💬 1 • 11h ago • [opacore.com](https://opacore.com)
 
 ---
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
 ⬆️ 2 • 💬 1 • 4d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
-
----
-
-**[No 10 Am BTC Dump? Bitcoin Price Rallies as Jane Street Trading Draws Attention](https://news.ycombinator.com/item?id=47160617)**
-
-Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Street halted a suspected 10 a.m. selling strategy.
-
-⬆️ 2 • 💬 0 • 6d ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
 
 ---
 
@@ -305,27 +295,33 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 ---
 
+**[Show HN: Deadhand – trustless Bitcoin inheritance in 2 minutes](https://news.ycombinator.com/item?id=47169521)**
+
+Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
+
+⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/pyoneerC/deadhand)
+
+---
+
+**[Show HN: Ductwork – A Go platform for running AI agents on autopilot](https://news.ycombinator.com/item?id=47211499)**
+
+A Go-based platform for running AI agents on schedules with tasks, skills, and persistent memory. Single binary, three operating modes — from single-node to distributed. - dneil5648/ductwork
+
+⬆️ 5 • 💬 8 • 3d ago • [GitHub](https://github.com/dneil5648/ductwork)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Breaks $71K While Stocks Crash! Is The Flippening Upon Us?](https://www.youtube.com/watch?v=p8bxssjCF9I)**
+**[Why Bitcoin Goes Parabolic EVERY TIME It Dies!](https://www.youtube.com/watch?v=GnD7l7Pv_-Y)**
 
-Bitcoin #Crypto #Finance Bitcoin is breaking out past $71000 as momentum returns to the crypto market, while traditional markets ...
+Bitcoin has been declared dead 477 times, yet the network keeps surviving and growing. This breakdown walks through every ...
 
-📺 The Wolf Of All Streets
+📺 Simply Bitcoin
 
-👁️ 17K • 👍 794 • 💬 223 • ⏱️ 35:08 • 8h ago
-
----
-
-**[The Most Hated Bitcoin Rally of 2026 Just Started!](https://www.youtube.com/watch?v=3VVJYz9WKD4)**
-
-Ran breaks down why this moment could be the ultimate test for Bitcoin as global markets face rising geopolitical tension and ...
-
-📺 Crypto Banter
-
-👁️ 18K • 👍 1K • 💬 42 • ⏱️ 22:44 • 8h ago
+👁️ 7K • 👍 758 • 💬 49 • ⏱️ 22:18 • 4h ago
 
 ---
 
@@ -335,17 +331,37 @@ Global markets are in panic mode after a shocking escalation in the Middle East:
 
 📺 Crypto Insider
 
-👁️ 8K • 👍 540 • 💬 28 • ⏱️ 4:36 • 5h ago
+👁️ 15K • 👍 680 • 💬 40 • ⏱️ 4:36 • 8h ago
 
 ---
 
-**[Bitcoin Holders, This Is Important (Update)](https://www.youtube.com/watch?v=VTM-yMdj5EU)**
+**[The Most Hated Bitcoin Rally of 2026 Just Started!](https://www.youtube.com/watch?v=3VVJYz9WKD4)**
 
-Protect Your Identity (2-Week Free Trial) Take control of your digital security with my sponsor Aura — try it free for 14 days: ...
+Ran breaks down why this moment could be the ultimate test for Bitcoin as global markets face rising geopolitical tension and ...
 
-📺 Aaron Bennett
+📺 Crypto Banter
 
-👁️ 10K • 👍 558 • 💬 103 • ⏱️ 10:38 • 11h ago
+👁️ 23K • 👍 1K • 💬 70 • ⏱️ 22:44 • 11h ago
+
+---
+
+**[Bitcoin Breaks $71K While Stocks Crash! Is The Flippening Upon Us?](https://www.youtube.com/watch?v=p8bxssjCF9I)**
+
+Bitcoin #Crypto #Finance Bitcoin is breaking out past $71000 as momentum returns to the crypto market, while traditional markets ...
+
+📺 The Wolf Of All Streets
+
+👁️ 23K • 👍 887 • 💬 285 • ⏱️ 35:08 • 11h ago
+
+---
+
+**[Ray Dalio Is Completely Wrong About Bitcoin (My Response)](https://www.youtube.com/watch?v=kCDArqWMTII)**
+
+Ray Dalio is an all-time great investor. He's been more right than wrong... but he's completely off on his negative view on Bitcoin.
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 5K • 👍 445 • 💬 78 • ⏱️ 12:03 • 4h ago
 
 ---
 
@@ -355,27 +371,37 @@ Bitcoin just ripped to $70K on rumors of a market structure bill. But speculatio
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 232 • ⏱️ 15:07 • 1d ago
+👁️ 34K • 👍 2K • 💬 198 • ⏱️ 15:07 • 1d ago
 
 ---
 
-**[Bitcoin Bulls Return Amid Iran War Chaos](https://www.youtube.com/watch?v=4dWuELjghQQ)**
+**[Bitcoin EXPLODING After Stocks RALLY! $80k Bitcoin Incoming?! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=_yQ0iCQszQM)**
 
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRUs
-
-👁️ 18K • 👍 1K • 💬 186 • ⏱️ 52:08 • 7h ago
-
----
-
-**[MASSIVE Bitcoin BOUNCE HAPPENING! Is The Iran War RALLYING Bitcoin?!](https://www.youtube.com/watch?v=JsVV9LjX9ec)**
-
-Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
+Are you ready? Top-Tier Crypto Trading Starts Here Earn Up to $130 INSTANTLY, $30000 CASHBACK & join ...
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 242 • 💬 67 • ⏱️ 50:12 • 7h ago
+👁️ 4K • 👍 222 • 💬 90 • ⏱️ 15:30 • 7h ago
+
+---
+
+**[BITCOIN BULL TRAP: The Massive BTC Short Squeeze I Warned Could Happen is Happening - URGENT UPDATE](https://www.youtube.com/watch?v=xHDmK4rH1sg)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 6K • 👍 543 • ⏱️ 29:46 • 7h ago
+
+---
+
+**[Bitcoin: We Really Do Live in a Simulation](https://www.youtube.com/watch?v=i3WIoS9Echo)**
+
+It really does feel like we live in a simulation with respect to Bitcoin price action! Into The Cryptoverse Premium: ...
+
+📺 Benjamin Cowen
+
+👁️ 31K • 👍 3K • 💬 215 • ⏱️ 17:58 • 4h ago
 
 ---
 
@@ -385,27 +411,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 6K • 👍 564 • 💬 201 • ⏱️ 10:25 • 5h ago
-
----
-
-**[Bitcoin Is Killing the Planet? Bill Maher’s Brutal Climate Warning!](https://www.youtube.com/watch?v=kNJCk5izigE)**
-
-Bill Maher takes aim at Bitcoin and the massive environmental cost of cryptocurrency mining. He argues that while crypto is often ...
-
-📺 The Unfiltered Republic
-
-👁️ 6K • 👍 216 • 💬 9 • ⏱️ 0:48 • 19h ago
-
----
-
-**[Bitcoin: A Bear Market State of Mind](https://www.youtube.com/watch?v=T-Nf7ZfarOs)**
-
-Bitcoin has been in a bear market for several months. Let's talk about the bear market state of mind. Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 65K • 👍 4K • 💬 159 • ⏱️ 19:12 • 1d ago
+👁️ 11K • 👍 731 • 💬 240 • ⏱️ 10:25 • 8h ago
 
 ---
 
