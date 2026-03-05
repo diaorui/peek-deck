@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T05:32:03.044654+00:00'
+updated: '2026-03-05T06:54:48.930213+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 05:32 UTC  
+**Last Updated:** March 05, 2026 at 06:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,119.48
+### $2,129.63
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +7.1%  
-**7d:** +9.8%  
-**30d:** -1.3%  
-**90d:** -30.2%  
-**1y:** -3.9%  
+**24h:** +6.3%  
+**7d:** +10.4%  
+**30d:** -0.8%  
+**90d:** -29.9%  
+**1y:** -3.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.63B
+**Market Cap:** $256.67B
 Rank #2
 
 **Circulating Supply:** 120,692,109 ETH
@@ -62,17 +62,25 @@ No max supply
 -57.0%
 
 **All-Time Low:** $0.43
-+491166.3%
++491591.3%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion March 05, 2026](https://www.reddit.com/r/ethereum/comments/1rl9qdi/daily_general_discussion_march_05_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+53m ago
+
+---
+
 **[Daily General Discussion March 04, 2026](https://www.reddit.com/r/ethereum/comments/1rkdlum/daily_general_discussion_march_04_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 13h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 14h ago
 
 ---
 
@@ -88,7 +96,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-15h ago
+16h ago
 
 ---
 
@@ -120,7 +128,7 @@ Let’s address the elephant in the room first. This community (and Vitalik hims
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -140,47 +148,15 @@ I’m looking for a mobile wallet that’s easy to use but secure, especially si
 
 ---
 
-**[[Roadmap] The block building pipeline](https://www.reddit.com/r/ethereum/comments/1rizbm7/roadmap_the_block_building_pipeline/)**
-
-In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a free permissionless market of block builders. This ensures that block builder centralization does not creep into staking centralization, but it leaves the question: what do we do about block builder centralization? And what are the other problems in the block building pipeline that need to be addressed, and how? This has both in-protocol and extra-protocol components. FOCIL FOCIL is the first step into in-protocol multi-participant block building. FOCIL lets 16 randomly-selected attesters each choose a few transactions, which must be included somewhere in the block (the block gets rejected otherwise). This means that even if 100% of block building is taken over by one hostile actor, they cannot prevent transactions from being included, because the FOCILers will push them in. "Big FOCIL" This is more speculative, but has been discussed as a possible next step. The idea is to make the FOCILs bigger, so they can include all of the transactions in the block. We avoid duplication by having the i'th FOCIL'er by default only include (i) txs whose sender address's first hex char is i, and (ii) txs that were around but not included in the previous slot. So at the cost of one slot delay, only censored txs risk duplication. Taking this to its logical conclusion, the builder's role could become reduced to ONLY including "MEV-relevant" transactions (eg. DEX arbitrage), and computing the state transition. Encrypted mempools Encrypted mempools are one solution being explored to solve "toxic MEV": attacks such as sandwiching and frontrunning, which are exploitative against users. If a transaction is encrypted until it's included, no one gets the opportunity to "wrap" it in a hostile way. The technical challenge is: how to guarantee validity in a mempool-friendly and inclusion-friendly way that is efficient, and what technique to use to guarantee that the transaction will actually get decrypted once the block is made (and not before). The transaction ingress layer One thing often ignored in discussions of MEV, privacy, and other issues is the network layer: what happens in between a user sending out a transaction, and that transaction making it into a block? There are many risks if a hostile actor sees a tx "in the clear" inflight: If it's a defi trade or otherwise MEV-relevant, they can sandwich it In many applications, they can prepend some other action which invalidates it, not stealing money, but "griefing" you, causing you to waste time and gas fees If you are sending a sensitive tx through a privacy protocol, even if it's all private onchain, if you send it through an RPC, the RPC can see what you did, if you send it through the public mempool, any analytics agency that runs many nodes will see what you did There has recently been increasing work on network-layer anonymization for transactions: exploring using Tor for routing transactions, ideas around building a custom ethereum-focused mixnet, non-mixnet designs that are more latency-minimized (but bandwidth-heavier, which is ok for transactions as they are tiny) like Flashnet, etc. This is an open design space, I expect the kohaku initiative @ncsgy will be interested in integrating pluggable support for such protocols, like it is for onchain privacy protocols. There is also room for doing (benign, pro-user) things to transactions before including them onchain; this is very relevant for defi. Basically, we want ideal order-matching, as a passive feature of the network layer without dependence on servers. Of course enabling good uses of this without enabling sandwiching involves cryptography or other security, some important challenges there. Long-term distributed block building There is a dream, that we can make Ethereum truly like BitTorrent: able to process far more transactions than any single server needs to ever coalesce locally. The challenge with this vision is that Ethereum has (and indeed a core value proposition is) synchronous shared state, so any tx could in principle depend on any other tx. This centralizes block building. "Big FOCIL" handles this partially, and it could be done extra-protocol too, but you still need one central actor to put everything in order and execute it. We could come up with designs that address this. One idea is to do the same thing that we want to do for state: acknowledge that >95% of Ethereum's activity doesn't really need full globalness, though the 5% that does is often high-value, and create new categories of txs that are less global, and so friendly to fully distributed building, and make them much cheaper, while leaving the current tx types in place but (relatively) more expensive. This is also an open and exciting long-term future design space.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
+**[Ethereum news (ETH): Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 11h ago
-
----
-
-**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
-
-Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
-
-The Block • 1d ago
-
----
-
-**[31.6 Million ETH Leaves Exchanges as Vitalik Calls for Ethereum “Sanctuary” Tech](https://finance.yahoo.com/news/31-6-million-eth-leaves-070249895.html)**
-
-ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
-
-Yahoo Finance • 22h ago
-
----
-
-**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/03/03/better-cryptocurrency-to-buy-right-now-with-2000-a/)**
-
-The biggest factor here is the diversity of sources for future demand.
-
-The Motley Fool • 1d ago
+CoinDesk • 13h ago
 
 ---
 
@@ -192,6 +168,30 @@ Decrypt • 1d ago
 
 ---
 
+**[31.6 Million ETH Leaves Exchanges as Vitalik Calls for Ethereum “Sanctuary” Tech](https://finance.yahoo.com/news/31-6-million-eth-leaves-070249895.html)**
+
+ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
+
+Yahoo Finance • 23h ago
+
+---
+
+**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-right-now-2000-and-hold-5-years-xrp-vs-ethereum)**
+
+Key PointsEthereum is a general-purpose smart contract chain.
+
+Nasdaq • 1d ago
+
+---
+
+**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
+
+Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
+
+The Block • 1d ago
+
+---
+
 **[Iran war won’t spoil Ethereum price rally in March, Tom Lee says](https://www.dlnews.com/articles/markets/iran-war-will-not-spoil-ethereum-price-rally-in-march-tom-lee-says/)**
 
 Ethereum is set to surge in March, says Tom Lee. War in Iran won’t scupper the rally, Bitmine chair says. Cryptocurrency is up 9% over the past week.
@@ -200,27 +200,27 @@ dlnews.com • 1d ago
 
 ---
 
-**[Current price of Ethereum for March 4, 2026](https://fortune.com/article/price-of-ethereum-03-04-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 7h ago
-
----
-
 **[Scaling Ethereum For Mainstream: Robinhood’s Head Of Crypto Lays Out The Vision](https://www.tradingview.com/news/newsbtc:5edc50569094b:0-scaling-ethereum-for-mainstream-robinhood-s-head-of-crypto-lays-out-the-vision/)**
 
 As demand for digital assets continues to accelerate, scaling solutions have become one of the most important challenges facing Ethereum. In a recent discussion, Robinhood’s Head of Crypto outlined the company’s ambitious strategy to tackle this problem by building its own ETH Layer-2 network to se…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
-**[Ethereum Price Prediction Targets $8,000 Target as Harvard Rotates $86.8M Into ETH Trust While Pepeto Crosses $7.5M](https://financefeeds.com/ethereum-price-prediction-targets-8000-target-as-harvard-rotates-86-8m-into-eth-trust-while-pepeto-crosses-7-5m/)**
+**[Current price of Ethereum for March 4, 2026](https://fortune.com/article/price-of-ethereum-03-04-2026/)**
 
-The ethereum price prediction just received an institutional stamp of approval after Harvard's $57 billion endowment rotated $86.8 million from Bitcoin ETFs
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-FinanceFeeds • 11h ago
+Fortune • 8h ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772628300)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ FinanceFeeds • 11h ago
 
 The cryptocurrency market saw a strong rebound today as major digital assets moved sharply higher within a few hours, pushing the total crypto market
 
-Coinpedia Fintech News • 18h ago
+Coinpedia Fintech News • 19h ago
 
 ---
 
@@ -236,23 +236,23 @@ Coinpedia Fintech News • 18h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i84p4a-itsY)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 746 • 👍 73 • 💬 4 • ⏱️ 4:00 • 5h ago
-
----
-
 **[BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=prGnQUx-jQI)**
 
 BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 3K • 👍 228 • 💬 85 • ⏱️ 17:29 • 5h ago
+👁️ 4K • 👍 270 • 💬 83 • ⏱️ 17:29 • 6h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i84p4a-itsY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 110 • 💬 6 • ⏱️ 4:00 • 6h ago
 
 ---
 
@@ -266,13 +266,43 @@ Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum 
 
 ---
 
+**[ETH Just Broke Out - Why BMNR &amp; SBET Can Go Parabolic (NAV Expansion)](https://www.youtube.com/watch?v=hs2DgjdYSVg)**
+
+ETH Breakout Confirmed — BMNR & SBET Next? (NAV Expansion + AI Agents with ETH Narrative Explained) Earn $ETH with ...
+
+📺 Big Time Trades
+
+👁️ 1K • 👍 65 • 💬 13 • ⏱️ 22:38 • 8h ago
+
+---
+
 **[FINALLY REVEALED → Why Crypto Is Going Up Right Now](https://www.youtube.com/watch?v=9U0ctEDMJw8)**
 
 BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 2K • 💬 123 • ⏱️ 10:14 • 2d ago
+👁️ 60K • 👍 2K • 💬 122 • ⏱️ 10:14 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dOrcuO02uLY)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 522 • 👍 92 • ⏱️ 7:33 • 2h ago
+
+---
+
+**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 939 • 👍 23 • 💬 6 • ⏱️ 5:09 • 2d ago
 
 ---
 
@@ -282,7 +312,7 @@ In this week's Crypto Corner, Jenny Horne and @CharlesSchwab's Jim Ferraioli dis
 
 📺 Schwab Network
 
-👁️ 519 • 👍 14 • 💬 3 • ⏱️ 9:38 • 6h ago
+👁️ 640 • 👍 15 • 💬 4 • ⏱️ 9:38 • 7h ago
 
 ---
 
@@ -292,47 +322,17 @@ Ethereum Just Hit a Historic Milestone (Why ETH Is Finally Ready) thereum just h
 
 📺 EverythingAltcoin
 
-👁️ 180 • 👍 12 • 💬 7 • ⏱️ 14:13 • 11h ago
+👁️ 235 • 👍 13 • 💬 7 • ⏱️ 14:13 • 13h ago
 
 ---
 
-**[BTC и ETH. ФИКСИРОВАТЬ ПРИБЫЛЬ ИЛИ ЖДАТЬ $72,000?](https://www.youtube.com/watch?v=kqXciWdHTxc)**
+**[Why ICP At These Prices Is The Ethereum At $80 Moment](https://www.youtube.com/watch?v=3HSiREp9ruU)**
 
-Месяц назад я открыл две спекулятивные сделки – по Bitcoin и Ethereum. Средний вход: BTC – $63400 ETH – $1825 ...
+Just got back from Crypto Expo Europe - one of the biggest crypto summits in Romania - and the sentiment on the ground tells me ...
 
-📺 Егор Попковский
+📺 Blockchain Pill
 
-👁️ 3K • 👍 137 • 💬 17 • ⏱️ 7:10 • 15h ago
-
----
-
-**[Tom Lee: My NEW Warning To All Small Bitcoin &amp; Crypto Investors (Everything Just Changed)](https://www.youtube.com/watch?v=08jvuQfVf4A)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 208 • 💬 23 • ⏱️ 18:15 • 1d ago
-
----
-
-**[Hold On Tight BlackRock Is Making MAJOR Bitcoin Moves Ethereum Is FINALLY Doing This After 9 Years](https://www.youtube.com/watch?v=J4gLyFNI4Uc)**
-
-Well, it looks like someone finally realized that something had to be done or they would be left behind in the cryptocurrency market ...
-
-📺 The Modern Investor
-
-👁️ 8K • 👍 784 • 💬 65 • ⏱️ 27:48 • 2d ago
-
----
-
-**[BUY ETHEREUM!](https://www.youtube.com/watch?v=LfrCGteIJsE)**
-
-Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/PainofCrypt0 Instagram ...
-
-📺 Pain of Crypto
-
-👁️ 4K • 👍 134 • 💬 44 • ⏱️ 6:27 • 2d ago
+👁️ 1K • 👍 165 • 💬 46 • ⏱️ 8:01 • 15h ago
 
 ---
 
