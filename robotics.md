@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-05T10:40:35.946861+00:00'
+updated: '2026-03-05T11:34:40.596970+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 05, 2026 at 10:40 UTC  
+**Last Updated:** March 05, 2026 at 11:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humanoid robot process here. We open-sourced the legs and will open-source the full body soon. Your questions and comments along the way really helped us a lot. Appreciate it! A few days ago more than 50 people on X told us they'd be interested in a DIY humanoid robot kit. So we did it. We put together all parts from mechanical to electrical to build the Asimov robot. It's 1.20m, 35kg, 25+2 degrees of freedom (+2 comes from the articulated toe!). Asimov is a really powerful robot with almost the same specs as the Unitree G1. Some parts like the arms are actually stronger. We call the kit "Here Be Dragons", a name used for highly experimental, beta-before-beta releases. The kind where you're one of the first users, talking directly to the engineers, reporting bugs, and getting a fix the same day. We're now preparing a user manual and assembly videos too. The target price is $15,000, which is higher than our current BOM cost. We're taking pre-orders with a $499 deposit to find serious builders and learn what they need. We got 14 orders in a few hours and are planning to close pre-orders soon to handle it properly. So our build-in-public journey is turning into a business earlier than expected, and we're not looking for profit from the DIY Kit. Wanted to share with you all. If you're hacking something, please do share with the community. Details for the pre-order: https://asimov.inc/diy-kit
 
-20h ago
+21h ago
+
+---
+
+**[Robots navigating city streets. They still need a little help. (by OpenMind)](https://www.reddit.com/r/robotics/comments/1rldob6/robots_navigating_city_streets_they_still_need_a/)**
+
+Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
+
+1h ago
 
 ---
 
@@ -44,13 +52,21 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Hey everyone! I've been working on LinkForge, an open-source tool that turns Blender into a robotics IDE. Instead of hand-writing URDF/XACRO files, you define links, joints, sensors, and ros2_control interfaces visually in Blender 4.2+. A built-in linter catches physics issues like negative inertias or disconnected chains before export. v1.3.0 just released, with: • NumPy-accelerated inertia calculations • Improved ros2_control support • Better export validation GitHub: https://github.com/arounamounchili/linkforge Happy to answer questions or get feedback!
 
-5h ago
+6h ago
 
 ---
 
 **[Not Exactly How I Expected a Wheel Robot to Behave](https://www.reddit.com/r/robotics/comments/1rkrk1h/not_exactly_how_i_expected_a_wheel_robot_to_behave/)**
 
-17h ago
+18h ago
+
+---
+
+**[HexGrip V1.0: Just pulled the trigger on the hardware for a 6-DOF DIY arm. Does this stack make sense?](https://www.reddit.com/r/robotics/comments/1rleni3/hexgrip_v10_just_pulled_the_trigger_on_the/)**
+
+I’m a mechatronics engineer starting my first serious 6-axis desktop arm build (HexGrip V1.0). I’ve spent the last week deep-diving into torque specs and power requirements, and I just got all the hardware in hand. Before I start 3D printing the frame, I wanted to see if anyone has run this specific combo or if I’m walking into a trap. The Hardware Stack: The Brain: Arduino Nano. The Muscle: 4x MG996R (Base, Shoulder, Elbow, Wrist Roll) + 3x MG90S (Wrist Pitch/Yaw, Gripper). The Power: PCA9685 PWM Driver + Buck Converter (stepping down to 5-6V). The Control: NRF24L01 for future wireless joystick input. My Logic: I originally looked at SG90s, but the torque math for a 6-DOF arm is brutal—I didn't want the shoulder to stall the moment I added a gripper. I’m hoping the MG996Rs have enough holding torque for a 3D-printed PETG or PLA+ frame. The Query: Buck Converter: For those who’ve used this mix, do you find the MG90S servos get jittery or overheat if I run the whole bus at 6V to maximize the MG996R torque? NRF24L01: I've heard these are notorious for noise. Should I be shielding this from the PWM driver immediately, or is it manageable on a desktop-sized build?
+
+37m ago
 
 ---
 
@@ -62,45 +78,29 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 ---
 
+**[Xiaomi trials humanoid robots in its EV factory - says they’re like interns](https://www.reddit.com/r/robotics/comments/1rlecu0/xiaomi_trials_humanoid_robots_in_its_ev_factory/)**
+
+Xiaomi is actively testing self-developed humanoid robots on its electric vehicle assembly lines, and they are already keeping up with a blistering production pace of one new car every 76 seconds! Powered by a 4.7-billion-parameter Vision-Language-Action AI model, these bots can install parts and move materials, currently acting as factory interns.
+
+🔗 [CNBC](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html) • 54m ago
+
+---
+
 **[I Had an Existential Realization Today](https://www.reddit.com/r/robotics/comments/1rla0mq/i_had_an_existential_realization_today/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Need endorsement for Arxiv](https://www.reddit.com/r/robotics/comments/1rl6gdm/need_endorsement_for_arxiv/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Best CYD to buy](https://www.reddit.com/r/robotics/comments/1rla1qd/best_cyd_to_buy/)**
 
-4h ago
-
----
-
-**[Update on Astrix my humanoid robot](https://www.reddit.com/r/robotics/comments/1rkfgqs/update_on_astrix_my_humanoid_robot/)**
-
-I printed the front of the head and the back is currently printing, that hole is not a mouth its for the camera, the slot where ca camera goes is also tilted 45° so it can have a decent FOV
-
-1d ago
-
----
-
-**[Do you trust rtab slam?](https://www.reddit.com/r/robotics/comments/1rl41m9/do_you_trust_rtab_slam/)**
-
-My rover is equiped with (2 rtk recivers) (2 tof cameras) (wheel odometry), Can i really depend on rtab slam for localization? The problem is the rtk is not stable most of the time plus the tof camera rate is too slow, I need to use this localization to track a global path defined in utm frame. I know that without a global reference like rtk i will always have drifts, but can rtab slam handel the time between the rtk fixes?
-
-9h ago
-
----
-
-**[Robots reviewing Robots?](https://www.reddit.com/r/robotics/comments/1rl2u4n/robots_reviewing_robots/)**
-
-My robots took over my channel and are now reviewing tech! JK, well kinda! I’m trying something new and thought this was a unique spin on traditional review videos. What are your thoughts? Would love any honest feedback:)
-
-🔗 [youtu.be](https://youtu.be/MB1BzAr8lXI?si=vy_L8f9ToM8L1-nK) • 10h ago
+5h ago
 
 ---
 
@@ -120,7 +120,7 @@ BMW Group • 5d ago
 
 Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
 
-Business Insider • 15h ago
+Business Insider • 16h ago
 
 ---
 
@@ -128,7 +128,7 @@ Business Insider • 15h ago
 
 The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
 
-GeekWire • 12h ago
+GeekWire • 13h ago
 
 ---
 
@@ -136,19 +136,19 @@ GeekWire • 12h ago
 
 SAN FRANCISCO, March 4 (Reuters) - Amazon on Tuesday confirmed it laid off staff across its robotics unit, ‌with at least 100 white-collar jobs affected, two people ‌familiar with the matter told Reuters. This comes after a January cut of about ​16,000 jobs with the company at the time hinting layoffs would continue.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
 **[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
 
-Bloomberg • 18h ago
+Bloomberg • 19h ago
 
 ---
 
 **[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda?srnd=phx-technology)**
 
-Bloomberg • 47m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -164,7 +164,7 @@ CNBC • 2d ago
 
 Chinese firms like Unitree and Agibot are dominating the global robotics market.
 
-Euronews.com • 3h ago
+Euronews.com • 4h ago
 
 ---
 
@@ -212,7 +212,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 48 • ⏱️ 1:06 • 9h ago
+👁️ 2K • 👍 48 • ⏱️ 1:06 • 10h ago
 
 ---
 
@@ -222,7 +222,7 @@ What if one robot could handle your entire yard? In this video, we take a first 
 
 📺 RCDriver_Online
 
-👁️ 901 • 👍 50 • 💬 8 • ⏱️ 8:04 • 12h ago
+👁️ 901 • 👍 50 • 💬 8 • ⏱️ 8:04 • 13h ago
 
 ---
 
@@ -262,7 +262,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN Europe
 
-👁️ 20K • 👍 64 • 💬 3 • ⏱️ 29:40 • 21h ago
+👁️ 20K • 👍 64 • 💬 3 • ⏱️ 29:40 • 22h ago
 
 ---
 

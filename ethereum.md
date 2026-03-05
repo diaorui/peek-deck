@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T10:40:35.943649+00:00'
+updated: '2026-03-05T11:34:40.593773+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 10:40 UTC  
+**Last Updated:** March 05, 2026 at 11:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,095.93
+### $2,137.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** +10.2%  
-**30d:** -1.0%  
-**90d:** -30.0%  
-**1y:** -3.6%  
+**24h:** +4.4%  
+**7d:** +11.2%  
+**30d:** -0.1%  
+**90d:** -29.4%  
+**1y:** -2.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 18h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 19h ago
 
 ---
 
@@ -96,7 +96,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-20h ago
+21h ago
 
 ---
 
@@ -156,7 +156,7 @@ I’m looking for a mobile wallet that’s easy to use but secure, especially si
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 1d ago
 
 The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -180,13 +180,13 @@ The Motley Fool • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
 **[Bitcoin Price Surges Above $72,000. Why Cryptos Are Defying Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqdMAw3gGnOjR_XIIi98pT1eucSKWm9yK6FgZpHzzNp-TWw7hGeSVysI&gaa_ts=69a96111&gaa_sig=_1RQlqt1ZD_MoPrd1fe8mu96UIvAeV1_aCiazrJT6WCvUtishVjl2VIK-U7oJn0Tir3tkYLpa9ERIM80zEliPA%3D%3D)**
 
-Barron's • 18h ago
+Barron's • 19h ago
 
 ---
 
@@ -194,7 +194,7 @@ Barron's • 18h ago
 
 Tom Lee expects a March rebound despite geopolitical tensions. Other analysts see signs of a bottom. Price outlook remains uncertain. Bitcoin and Ethereum’s prices could ...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ The Block • 1d ago
 
 **[Key facts: Harvard buys $86.8M in Ethereum shares; U.S. ether ETFs see volatility](https://www.tradingview.com/news/tradingview:331ab23c2055e:0-key-facts-harvard-buys-86-8m-in-ethereum-shares-u-s-ether-etfs-see-volatility/)**
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 301 • 💬 164 • ⏱️ 17:29 • 10h ago
+👁️ 6K • 👍 301 • 💬 164 • ⏱️ 17:29 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 143 • 💬 7 • ⏱️ 4:00 • 10h ago
+👁️ 2K • 👍 143 • 💬 7 • ⏱️ 4:00 • 11h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETH Breakout Confirmed — BMNR & SBET Next? (NAV Expansion + AI Agents with ETH
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 72 • 💬 14 • ⏱️ 22:38 • 12h ago
+👁️ 2K • 👍 72 • 💬 14 • ⏱️ 22:38 • 13h ago
 
 ---
 
@@ -288,7 +288,7 @@ Explore BRON here: https://go.bron.org/savvyfinance BRON is a premium MPC-based 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 395 • 💬 60 • ⏱️ 21:56 • 16h ago
+👁️ 8K • 👍 395 • 💬 60 • ⏱️ 21:56 • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum Just Hit a Historic Milestone (Why ETH Is Finally Ready) thereum just h
 
 📺 EverythingAltcoin
 
-👁️ 244 • 👍 14 • 💬 7 • ⏱️ 14:13 • 16h ago
+👁️ 244 • 👍 14 • 💬 7 • ⏱️ 14:13 • 17h ago
 
 ---
 
@@ -328,7 +328,7 @@ In this week's Crypto Corner, Jenny Horne and @CharlesSchwab's Jim Ferraioli dis
 
 📺 Schwab Network
 
-👁️ 698 • 👍 16 • 💬 4 • ⏱️ 9:38 • 11h ago
+👁️ 698 • 👍 16 • 💬 4 • ⏱️ 9:38 • 12h ago
 
 ---
 
