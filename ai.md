@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-05T09:43:42.358012+00:00'
+updated: '2026-03-05T10:40:35.929239+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - news
 - social
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 05, 2026 at 09:43 UTC  
+**Last Updated:** March 05, 2026 at 10:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 So ai can uncover your anonymous identity on social media now so creating burner accounts may be pointless.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 6h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 7h ago
 
 ---
 
 **[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 13h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 14h ago
 
 ---
 
@@ -55,7 +55,7 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a pure-Python AMD GPU user-space driver
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 9h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 10h ago
 
 ---
 
@@ -63,13 +63,13 @@ AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a p
 
 Apple is deploying new detection tools to identify and label AI-generated tracks across its streaming platform. The move aims to protect artist royalties and ensure transparency as "fake" songs increasingly flood the charts. This infrastructure shift allows Apple to verify human-made content while keeping its library legally compliant. By stripping away deceptive synthetic audio, the company is reinforcing the premium value of human creativity. Apple is drawing a digital line in the sand to stop the AI dilution of the music industry.
 
-6h ago
+7h ago
 
 ---
 
 **[The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10](https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 22h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 23h ago
 
 ---
 
@@ -77,13 +77,13 @@ Apple is deploying new detection tools to identify and label AI-generated tracks
 
 When people talk about the attention economy, they usually mean TikTok or Instagram. But I’ve been wondering: could conversational AI also be part of the attention economy — even without feeds, algorithms, or autoplay? A lot of people spend time chatting with AI without a clear goal. Is that wasted attention, or a new kind of value? Read it here
 
-56m ago
+1h ago
 
 ---
 
 **[OpenAI looking at contract with NATO, source says](https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 19h ago
+🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 20h ago
 
 ---
 
@@ -91,7 +91,7 @@ When people talk about the attention economy, they usually mean TikTok or Instag
 
 One of the things I’ve been thinking about with AI systems is the difference between decision support and decision making. Decision support: meaning the system provides info and a human evaluates it and may or may not take an action. Decision making: meaning the system actually performs the action. For example: • Suggesting eligible clinical trial participants • Flagging abnormal lab results • Recommending a route on a GPS In these cases the system helps a human decide. But there are also systems that automatically: • approve or deny requests • enroll users into workflows • trigger actions based on a rule set or user input That’s a very different level of responsibility. Curious where people think the boundary should be between recommendation and decision.
 
-11h ago
+12h ago
 
 ---
 
@@ -99,13 +99,13 @@ One of the things I’ve been thinking about with AI systems is the difference b
 
 Ollama FX es una interfaz de escritorio Open Source para Ollama con grandes mejoras en gestión de chats, RAG, multimodalidad y organización 🔥 📅 Lanzado hoy en GitHub — https://github.com/fredericksalazar/OllamaFX 🧠 Principales novedades de la v0.5.0 ⭐ 🔍 Soporte RAG y análisis de archivos Carga y análisis de archivos directamente en chats: ahora puedes subir documentos y explorar su contenido con tus modelos LLM locales. Esta funcionalidad abre el camino a usar OllamaFX como herramienta de RAG (Retrieval-Augmented Generation) en workflows locales de IA sin necesidad de servicios externos. 👉 Permite extraer insights, responder preguntas y recuperar contenido relevante de tus propios archivos directamente desde la UI. 📁 Organización real de chats Carpetas para agrupar conversaciones: ordena tus chats por proyectos, temas o modelos. Mover chats entre carpetas con un simple arrastre. Papelera de reciclaje integrada: los chats (y carpetas) eliminados se mantienen hasta 30 días, para que no pierdas nada por accidente. 🖼️ Multimodalidad visual Soporte nativo para cargar imágenes y conversar con modelos que las interpretan. 📄 Exportación & mejor renderizado Exporta chats completos a formatos útiles. Visualizador Markdown mejorado con renderizado más limpio y estable para texto rico. ⚙️ Mejoras internas y experiencia de usuario Refactorizaciones internas para mayor estabilidad y escalabilidad. Optimización en filtros de modelos y selección. Ajustes finos en UI para una experiencia más fluida. Ampliación de localización / soporte multilenguaje. Indicadores visuales mientras el asistente “piensa” y feedback más claro durante la generación. 📚 Otras mejoras Estadísticas de uso y métricas básicas desde la vista “About”. Preparación para futuras integraciones y soporte a nuevos formatos LLM locales. 📦 Dónde descargar Todos los assets de la versión están listos para descargar en la sección de Releases del repo: 👉 https://github.com/fredericksalazar/OllamaFX/releases/tag/v0.5.0 🤝 Cómo ayudar al proyecto Si te gusta OllamaFX, puedes: ⭐ Dejar una estrella en GitHub 💬 Abrir issues con ideas o bugs 📄 Contribuir a la documentación 🧠 Proponer mejoras o nuevas integrations
 
-12h ago
+13h ago
 
 ---
 
 **[New Port Richey City Council considers automatic tag reader cameras](https://www.reddit.com/r/artificial/comments/1rl2xib/new_port_richey_city_council_considers_automatic/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/pasco-county/new-port-richey-city-council-considers-auto-tag-reader-cameras/) • 9h ago
+🔗 [wfla.com](https://www.wfla.com/news/pasco-county/new-port-richey-city-council-considers-auto-tag-reader-cameras/) • 10h ago
 
 ---
 
@@ -113,51 +113,49 @@ Ollama FX es una interfaz de escritorio Open Source para Ollama con grandes mejo
 
 ## Google News: "ai"
 
+**[Anthropic’s AI tool Claude central to U.S. campaign in Iran, amid a bitter feud](https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/)**
+
+Anthropic’s AI tool Claude is playing a key role in the U.S. military’s campaign in Iran, amid a bitter fight with the Pentagon over the terms of its use in war.
+
+The Washington Post • 16h ago
+
+---
+
 **[Anthropic chief back in talks with Pentagon about AI deal](https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b)**
 
 Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology
 
-Financial Times • 8h ago
+Financial Times • 6h ago
 
 ---
 
-**[Anthropic CEO: We're trying to "deescalate" Pentagon AI standoff to reach "some agreement that works for us and works for them"](https://www.cbsnews.com/news/anthropic-pentagon-talks/)**
+**[The Pentagon-Anthropic feud is quietly obscuring the real fight over military AI](https://www.fastcompany.com/91502340/the-pentagon-anthropic-feud-is-quietly-obscuring-the-real-fight-over-military-ai)**
 
-Anthropic CEO Dario Amodei said his company and the Department of Defense "have much more in common than we have differences."
+The fight over how the military can use large language models is narrowing the scope of an urgent debate.
 
-CBS News • 12h ago
-
----
-
-**[Sam Altman admits OpenAI can’t control Pentagon’s use of AI](https://www.theguardian.com/technology/2026/mar/04/sam-altman-openai-pentagon)**
-
-CEO’s claims come amid increased scrutiny of US military’s use of the technology and ethics concerns from AI workers
-
-The Guardian • 10h ago
+Fast Company • 13m ago
 
 ---
 
-**[Why Leopold Aschenbrenner’s AI hedge fund is betting big on power companies and bitcoin miners to fuel the AI boom](https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/)**
+**[Opinion | Your Job May Already Be in Jeopardy](https://www.nytimes.com/2026/03/05/opinion/ai-jobs-white-collar-apocalpyse.html)**
 
-New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
-
-Fortune • 1h ago
+The New York Times • 39m ago
 
 ---
 
-**[HEALWELL AI Announces Multi-Million Dollar U.S. Health Information Exchange Contract and AI-Driven Pipeline Momentum](https://finance.yahoo.com/news/healwell-ai-announces-multi-million-081500728.html)**
+**[AI could revolutionize antibiotics — but the market is standing in the way](https://www.statnews.com/2026/03/05/antibiotic-resistance-why-ai-innovation-not-enough/)**
 
-HEALWELL has signed a multi-million dollar, multi-year U.S.-based Health Information Exchange (HIE) software contract following a competitive procurement process.Strong momentum in all parts of the software pipeline including renewals, extensions, short listing and intent to award have advanced across core markets, reinforcing recurring data infrastructure revenue.Increasing participation in coordinated, enterprise-scale RFP bids leveraging Orion Health's global footprint.Toronto,...
+Economic reality and the persistent absence of funding stand in the way of using AI for antibiotic breakthroughs.
 
-Yahoo Finance • 1h ago
+statnews.com • 8m ago
 
 ---
 
-**[What AI Slowdown?! Nvidia's Biggest Competitor Just Grew Its AI Revenue by 106%](https://www.fool.com/investing/2026/03/05/what-ai-slowdown-nvidias-biggest-competitor-just-g/?.tsrc=rss)**
+**[AI Agents Love to Hodl Bitcoin and Spend Stablecoins, Study Finds](https://gizmodo.com/ai-agents-love-to-hodl-bitcoin-and-spend-stablecoins-study-finds-2000729877)**
 
-The data center and semiconductor specialist just provided the clearest evidence yet that the AI revolution is on track.
+The preference for bitcoin as a long-term store of value was referred to as the most dominant response in the recent Bitcoin Policy Institute report at 79.1%.
 
-The Motley Fool • 1h ago
+Gizmodo • 9m ago
 
 ---
 
@@ -165,27 +163,31 @@ The Motley Fool • 1h ago
 
 Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
-**[What the Extraordinary Market Volatility in Asia Says About Energy and A.I.](https://www.nytimes.com/2026/03/05/business/stocks-asia-iran-energy.html)**
+**[Homebuyers have another thing to worry about. This time, it's 'housefishing.'](https://www.businessinsider.com/home-listing-ai-photos-housefishing-agents-buyers-2026-3)**
 
-The New York Times • 3h ago
+There's a fine line between helping a buyer imagine a home's potential and deceiving them with AI enhanced photos. Welcome to the "housefishing" era.
 
----
-
-**[Trump has an AI data center problem ahead of the midterms — with no easy solutions](https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html)**
-
-Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
-
-CNBC • 17h ago
+Business Insider • 17h ago
 
 ---
 
-**[Trump Announces A.I. Industry Pledge to Pay for Power](https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html)**
+**[Broadcom beats on earnings and guidance as AI revenue doubles](https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html)**
 
-The New York Times • 11h ago
+Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending.
+
+CNBC • 16h ago
+
+---
+
+**[Broadcom Earnings Are the Latest to Try to Climb AI Wall of Fear](https://finance.yahoo.com/news/broadcom-earnings-latest-try-climb-114413855.html)**
+
+The chipmaker’s shares are down about 23% from a December record, well underperforming the S&P 500 Index.  The selloff is part of investors’ broader rotation away from the largest technology companies due to fears about the sustainability of the hundreds of billions of dollars committed to developing artificial intelligence capabilities.  Broadcom, which is the seventh-most valuable company in the S&P 500 at $1.5 trillion, is a chipmaking partner with Alphabet Inc. and other AI giants, making it a beneficiary of that largesse.
+
+Yahoo Finance • 15h ago
 
 ---
 
@@ -269,7 +271,7 @@ A lower court previously said that “human authorship is a bedrock requirement 
 
 The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
-⬆️ 182 • 💬 239 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
+⬆️ 182 • 💬 239 • 14h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
 
 ---
 
@@ -303,7 +305,7 @@ The Supreme Court of the United States of America has officially turned away a k
 
 📺 Vailskibum
 
-👁️ 245K • 👍 19K • 💬 4K • ⏱️ 2:09 • 13h ago
+👁️ 245K • 👍 19K • 💬 4K • ⏱️ 2:09 • 14h ago
 
 ---
 
@@ -313,7 +315,7 @@ World-renowned security expert Gavin de Becker explains why AI is making it near
 
 📺 The Diary Of A CEO Clips
 
-👁️ 20K • 👍 774 • 💬 50 • ⏱️ 21:25 • 14h ago
+👁️ 20K • 👍 774 • 💬 50 • ⏱️ 21:25 • 15h ago
 
 ---
 
@@ -333,7 +335,7 @@ What if AI made your paycheck optional? Vinod Khosla, one of the world's greates
 
 📺 Fortune Magazine
 
-👁️ 5K • 👍 151 • 💬 35 • ⏱️ 37:04 • 18h ago
+👁️ 5K • 👍 151 • 💬 35 • ⏱️ 37:04 • 19h ago
 
 ---
 
@@ -343,7 +345,7 @@ Generate cinematic AI videos without limits on Higgsfield ...
 
 📺 Malva AI
 
-👁️ 11K • 👍 493 • 💬 74 • ⏱️ 8:38 • 21h ago
+👁️ 11K • 👍 493 • 💬 74 • ⏱️ 8:38 • 22h ago
 
 ---
 
@@ -363,7 +365,7 @@ Built with and for creatives, Flow is your AI creative studio powered by Google 
 
 📺 Google
 
-👁️ 24K • 👍 1K • 💬 93 • ⏱️ 3:10 • 16h ago
+👁️ 24K • 👍 1K • 💬 93 • ⏱️ 3:10 • 17h ago
 
 ---
 
@@ -389,7 +391,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 885,293 • ❤️ 949 • 5d ago
+⬇️ 885,293 • ❤️ 949 • 6d ago
 
 ---
 
@@ -473,7 +475,7 @@ An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for r
 
 `image-text-to-text` `36.0B`
 
-⬇️ 20,133 • ❤️ 163 • 2d ago
+⬇️ 20,133 • ❤️ 163 • 3d ago
 
 ---
 
@@ -641,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 22.4k • 🔱 3.0k • 2h ago
+⭐ 22.4k • 🔱 3.0k • 3h ago
 
 ---
 
@@ -651,7 +653,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.4k • 🔱 887 • 6m ago
+⭐ 8.4k • 🔱 887 • 1h ago
 
 ---
 
@@ -671,7 +673,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 6.5k • 🔱 177 • 28m ago
+⭐ 6.5k • 🔱 177 • 1h ago
 
 ---
 
@@ -681,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.6k • 🔱 423 • 24m ago
+⭐ 5.6k • 🔱 423 • 1h ago
 
 ---
 
@@ -691,7 +693,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.5k • 🔱 644 • 9h ago
+⭐ 5.5k • 🔱 644 • 10h ago
 
 ---
 
@@ -701,7 +703,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.8k • 🔱 520 • 6h ago
+⭐ 3.8k • 🔱 520 • 7h ago
 
 ---
 
@@ -711,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 371 • 17m ago
+⭐ 3.5k • 🔱 371 • 1h ago
 
 ---
 

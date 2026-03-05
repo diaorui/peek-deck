@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T09:43:42.372703+00:00'
+updated: '2026-03-05T10:40:35.943649+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 09:43 UTC  
+**Last Updated:** March 05, 2026 at 10:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 17h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 18h ago
 
 ---
 
@@ -96,7 +96,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-19h ago
+20h ago
 
 ---
 
@@ -156,7 +156,7 @@ I’m looking for a mobile wallet that’s easy to use but secure, especially si
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -168,39 +168,33 @@ Decrypt • 1d ago
 
 ---
 
+**[Got $1,000? This Cryptocurrency Is a No-Brainer Buy for Long-Term Holding](https://www.fool.com/investing/2026/03/05/got-1000-this-cryptocurrency-is-a-no-brainer-buy-f/)**
+
+The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Current price of Ethereum for March 4, 2026](https://fortune.com/article/price-of-ethereum-03-04-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 12h ago
+
+---
+
+**[Bitcoin Price Surges Above $72,000. Why Cryptos Are Defying Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqdMAw3gGnOjR_XIIi98pT1eucSKWm9yK6FgZpHzzNp-TWw7hGeSVysI&gaa_ts=69a96111&gaa_sig=_1RQlqt1ZD_MoPrd1fe8mu96UIvAeV1_aCiazrJT6WCvUtishVjl2VIK-U7oJn0Tir3tkYLpa9ERIM80zEliPA%3D%3D)**
+
+Barron's • 18h ago
+
+---
+
 **[Bitcoin and Ethereum Price to Surge in March? Tom Lee Bullish On Rebound Despite WW3 Threat](https://finance.yahoo.com/news/bitcoin-ethereum-price-surge-march-104526423.html)**
 
 Tom Lee expects a March rebound despite geopolitical tensions. Other analysts see signs of a bottom. Price outlook remains uncertain. Bitcoin and Ethereum’s prices could ...
 
-Yahoo Finance • 22h ago
-
----
-
-**[Bitcoin Price Surges Above $72,000. Why Cryptos Are Defying Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqfBdX1nCjS3UUfKI4D3XARVDLWQ4_yiClXpCLJHojY7csFkW9ZUh5tQ&gaa_ts=69a945a7&gaa_sig=VMgEK9T0b5tgirZ3Uieg4vvXgUNlsQb_shxNNS2eJuzW_09J4tcKnu6WgkcThJaAKHBExJe9SKRtupuBp5w5SA%3D%3D)**
-
-Barron's • 17h ago
-
----
-
-**[Ethereum Price, BitMine Shares Jump as Tom Lee's Treasury Reports Latest Buy](https://finance.yahoo.com/news/ethereum-price-bitmine-shares-jump-153447384.html)**
-
-Publicly traded Ethereum treasury BitMine Immersion Technologies added to its ETH stack last week despite its recent decline.
-
-Yahoo Finance • 2d ago
-
----
-
-**[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
-
-TipRanks • 2h ago
-
----
-
-**[Bitcoin miner turned Ethereum treasury firm stakes over $6B in ETH as BMNR shares slide and ether dips.](https://www.coindesk.com/business/2026/03/02/bitmine-boosts-ether-holdings-to-4-47m-tokens-after-usd98m-eth-purchase)**
-
-Bitmine chair Tom Lee says company keeps accumulating ETH during market pullback while targeting $253M in annual staking rewards.
-
-CoinDesk • 2d ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -222,7 +216,15 @@ The Block • 1d ago
 
 **[Key facts: Harvard buys $86.8M in Ethereum shares; U.S. ether ETFs see volatility](https://www.tradingview.com/news/tradingview:331ab23c2055e:0-key-facts-harvard-buys-86-8m-in-ethereum-shares-u-s-ether-etfs-see-volatility/)**
 
-TradingView • 9h ago
+TradingView • 10h ago
+
+---
+
+**[Ethereum Price, BitMine Shares Jump as Tom Lee's Treasury Reports Latest Buy](https://finance.yahoo.com/news/ethereum-price-bitmine-shares-jump-153447384.html)**
+
+Publicly traded Ethereum treasury BitMine Immersion Technologies added to its ETH stack last week despite its recent decline.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -236,7 +238,7 @@ BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 301 • 💬 164 • ⏱️ 17:29 • 9h ago
+👁️ 6K • 👍 301 • 💬 164 • ⏱️ 17:29 • 10h ago
 
 ---
 
@@ -256,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 143 • 💬 7 • ⏱️ 4:00 • 9h ago
+👁️ 2K • 👍 143 • 💬 7 • ⏱️ 4:00 • 10h ago
 
 ---
 
@@ -276,7 +278,7 @@ ETH Breakout Confirmed — BMNR & SBET Next? (NAV Expansion + AI Agents with ETH
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 72 • 💬 14 • ⏱️ 22:38 • 11h ago
+👁️ 2K • 👍 72 • 💬 14 • ⏱️ 22:38 • 12h ago
 
 ---
 
@@ -286,7 +288,7 @@ Explore BRON here: https://go.bron.org/savvyfinance BRON is a premium MPC-based 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 395 • 💬 60 • ⏱️ 21:56 • 15h ago
+👁️ 8K • 👍 395 • 💬 60 • ⏱️ 21:56 • 16h ago
 
 ---
 
@@ -296,7 +298,7 @@ Ethereum Just Hit a Historic Milestone (Why ETH Is Finally Ready) thereum just h
 
 📺 EverythingAltcoin
 
-👁️ 244 • 👍 14 • 💬 7 • ⏱️ 14:13 • 15h ago
+👁️ 244 • 👍 14 • 💬 7 • ⏱️ 14:13 • 16h ago
 
 ---
 
@@ -306,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 694 • 👍 16 • 💬 2 • ⏱️ 4:40 • 23h ago
+👁️ 694 • 👍 16 • 💬 2 • ⏱️ 4:40 • 1d ago
 
 ---
 
@@ -326,7 +328,7 @@ In this week's Crypto Corner, Jenny Horne and @CharlesSchwab's Jim Ferraioli dis
 
 📺 Schwab Network
 
-👁️ 698 • 👍 16 • 💬 4 • ⏱️ 9:38 • 10h ago
+👁️ 698 • 👍 16 • 💬 4 • ⏱️ 9:38 • 11h ago
 
 ---
 
