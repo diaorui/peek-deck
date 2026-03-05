@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T21:37:17.361859+00:00'
+updated: '2026-03-05T22:33:23.898269+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 21:37 UTC  
+**Last Updated:** March 05, 2026 at 22:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed one of the earliest smart contracts on the network: TerraNullius. What it does: Anyone can "claim" a hex coordinate and attach a message to it — a permanent, uncensorable message board on the blockchain. No tokens, no governance, no economic incentive. Just messages, forever. The numbers: - Deployed at block 49,880 (August 7, 2015) - Compiled with Solidity v0.1.1 - 25 claims in 2015, then it sat mostly dormant - 687 claims during the 2021 NFT boom (people realized these were basically proto-NFTs) - 805 total transactions and counting — still active in 2026 It was referenced by the Guinness World Records and is one of the earliest surviving interactive contracts on Ethereum. The original announcement was a Reddit post right here on r/ethereum, with Semiel sharing a Pastebin script so people could interact with it. What's fascinating is how it predates every pattern we now take for granted — ERC-20, ERC-721, ENS, DAOs. This was someone experimenting with permanence on a chain that was two weeks old. Contract: 0x6e38A457C722C6011B2dfa06d49240e797844d66 Full writeup with sources and verification: EthereumHistory.com If anyone has stories about early Ethereum experiments like this, I'd love to hear them. We're trying to document the pre-2017 era before the context is lost entirely.
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed 
 
 I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402. Here's what almost all of them said: "Why would an AI agent pay per usage for a certain app when you can just create a SaaS product, ask for a top-up, and internally use credits?" x402 doesn't replace the per-usage model. It solves one specific problem: no human in the loop. There are 2 use cases: Anonymous autonomous agent. No account. No signup. No pre-loaded balance. Pays mid-task and moves on. Humans with accounts created - that want to automate - a top-up credit model wins with pay per usage with credits. BUT Almost every SaaS would want you to create your account. SO x402 is really only good for automatic top-ups / payments. Change my mind.
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402.
 
 Hi everyone, If you've been following the Account Abstraction roadmap, you know the community pivoted hard toward EIP-7702, a proposal driven by Vitalik to allow EOAs (standard wallets) to temporarily act like smart contracts. I write a lot about blockchain architecture, and I noticed that while the hype around "gasless transactions" is loud, the actual mechanics of how EIP-7702 achieves this safely aren't discussed enough. I published an architectural breakdown to clarify how this works under the hood. The core of the design is the SetCode transaction type. Instead of permanently migrating an EOA to a smart contract, EIP-7702 allows a transaction to temporarily attach smart contract code to an EOA for the exact duration of that single transaction. The deep dive covering: How this solves the security debates around previous proposals. The technical flow of batching operations What this means for the current ERC-4337 infrastructure. I'd love to hear from people that building in the space: How quickly do you expect it to be broadly used
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone, If you've been following the Account Abstraction roadmap, you know 
 
 I built SCPF (Smart Contract Pattern Finder) - an open-source security scanner for Ethereum smart contracts. What it does: - Scans contracts for reentrancy, delegatecall, unchecked calls, and other vulnerabilities - Uses YAML templates (easy to customize) - Integrates with GitHub Actions (SARIF output) - Supports up to 6 Etherscan API keys with automatic failover Quick example: bash scpf scan 0x1234... --chains ethereum Built with Rust for speed. MIT licensed. GitHub: https://github.com/Teycir/smartcontractpatternfinder Would love feedback from the community! 🚀
 
-1h ago
+2h ago
 
 ---
 
@@ -112,7 +112,7 @@ I built SCPF (Smart Contract Pattern Finder) - an open-source security scanner f
 
 Been doing Ethereum archaeology and found a useful reminder: token-for-token swap behavior existed on-chain in 2016, long before AMMs were mainstream. What was different vs modern DeFi: - no pooled liquidity / routing engines - much heavier coordination + trust assumptions - primitive UX, but clearly permissionless exchange intent It feels like DeFi history is better modeled as a slow primitive stack (2015-2018) rather than a sudden 2020 birth. Question for the OGs here: which pre-2018 contracts do you consider the most important proto-DeFi stepping stones?
 
-6h ago
+7h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 3d ago
 
 The iShares Ethereum Trust ETF offers regulated ether exposure via a trust structure, trading on NASDAQ with daily liquidity for investors.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -188,19 +188,19 @@ Yahoo Finance • 1d ago
 
 The short seller firm said that Ethereum's native token is "impaired," leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.
 
-CoinDesk • 21m ago
+CoinDesk • 1h ago
 
 ---
 
 **[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
 
-TipRanks • 14h ago
+TipRanks • 15h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Are Having a Great Week Despite Iran War. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqc7CvX4VoOd8aFwmVpK6demM670VjrKvESw7fA67Ka2R_cPE3rrDU2H&gaa_ts=69a9faf4&gaa_sig=aABj0qlycdQCWa3zEThXXEoroMaPKiyhkJIEXTI30920GDgzV0SuE1ip5vR2RdaSVL2VJZ20PDOVCPw8ZD8FHw%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -208,7 +208,7 @@ Barron's • 11h ago
 
 The recent volatility in the crypto market has left investors questioning whether the latest pullback means a deeper crash or just a temporary correction. While prices have struggled to maintain momentum, one market strategist believes the current setup could still lead to a short-term rally before…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -224,7 +224,7 @@ Nasdaq • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 398 • 💬 14 • ⏱️ 1:16 • 8h ago
+👁️ 11K • 👍 398 • 💬 14 • ⏱️ 1:16 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 127 • 💬 3 • ⏱️ 3:54 • 5h ago
+👁️ 1K • 👍 127 • 💬 3 • ⏱️ 3:54 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ With all the volatility in the middle-east, crypto prices have been relatively s
 
 📺 Elijah Cheng
 
-👁️ 1K • 👍 116 • 💬 18 • ⏱️ 25:01 • 7h ago
+👁️ 1K • 👍 116 • 💬 18 • ⏱️ 25:01 • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 167 • 💬 7 • ⏱️ 4:00 • 21h ago
+👁️ 3K • 👍 167 • 💬 7 • ⏱️ 4:00 • 22h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 360 • 💬 100 • ⏱️ 17:29 • 21h ago
+👁️ 8K • 👍 360 • 💬 100 • ⏱️ 17:29 • 22h ago
 
 ---
 
@@ -308,7 +308,7 @@ Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw aw
 
 📺 When Shift Happens
 
-👁️ 3K • 👍 238 • 💬 74 • ⏱️ 49:16 • 6h ago
+👁️ 3K • 👍 238 • 💬 74 • ⏱️ 49:16 • 7h ago
 
 ---
 
@@ -318,7 +318,7 @@ Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/Paino
 
 📺 Pain of Crypto
 
-👁️ 4K • 👍 136 • 💬 45 • ⏱️ 6:27 • 2d ago
+👁️ 4K • 👍 136 • 💬 45 • ⏱️ 6:27 • 3d ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin y cripto con buenas subidas tras el conflicto de Irán pero... será par
 
 📺 Tu Primer Bitcoin
 
-👁️ 2K • 👍 345 • 💬 90 • ⏱️ 17:21 • 4h ago
+👁️ 2K • 👍 345 • 💬 90 • ⏱️ 17:21 • 5h ago
 
 ---
 

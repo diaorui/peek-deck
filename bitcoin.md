@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-05T21:37:17.355897+00:00'
+updated: '2026-03-05T22:33:23.892248+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 21:37 UTC  
+**Last Updated:** March 05, 2026 at 22:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[One tap, paid.](https://www.reddit.com/r/Bitcoin/comments/1rligdq/one_tap_paid/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets looked cheap or plastic, so I made this — the Obsidian Edition, with a engraved back and a clean display. Curious what the community thinks! We made 5 units for the first batch to see how people like it.
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets look
 
 I was fortunate to become a BTC whole coiner about 1yr ago. I got hungry and went for 2. I have Total 1.925. (I have .125 elsewhere). I wanted to ask: are there many ppl here that have 2? I think once I get 2BTC, I'm done. Will just let it ride.
 
-15h ago
+16h ago
 
 ---
 
@@ -103,13 +103,13 @@ I was fortunate to become a BTC whole coiner about 1yr ago. I got hungry and wen
 
 The above is an animation I created that shows bitcoin's daily returns over the last 8 years measured over time. It shows in which cycle bitcoin is in as phase diagram. The idea is surprisingly simple and yet very insightful, expecially when animated. Was inspired by the original formulas and creation by Sheharyar at MC Finance who I think originally came up with it, I just tweaked it, cleaned the smoothing and added an animation over time. What is most striking is that you can see that large negative returns follow large positive returns over a prolonged period of time. There is no snap towards the middle but instead, even with minimal smoothing the returns follow beautiful orbits and that "momentum" is very real, even if measured in digital asset returns.
 
-5h ago
+6h ago
 
 ---
 
 **[For those always waiting to time the bottom versus DCA…](https://www.reddit.com/r/Bitcoin/comments/1rl1a2b/for_those_always_waiting_to_time_the_bottom/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -123,7 +123,7 @@ The above is an animation I created that shows bitcoin's daily returns over the 
 
 Good Day all! I am extremely new to bitcoin in general. I've heard all sorts of terms thrown around when referencing bitcoin. Things like "miner" "home mining" "nicehash" I think the miner is pretty simple, I've seen ones you just plug to a USB and then to wi-fi and they "Mine"(?) for it in the hopes of getting a "block"(whatever that is). Is it worth it? Can someone explain to me Barney-Style?
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Good Day all! I am extremely new to bitcoin in general. I've heard all sorts of 
 
 I totally agree with DCA strategy, I just feel that I do it completely differently to most. Most seem to have a set amount and whether weekly, fortnightly, monthly whatever they put in the set amount. Is it not a lot more sensible to have a kind of ‘fiat fund’ for DCA, pay the funds into that and each time BTC has a shocker, huge red day, everyone crying, it’s all over, which happens frequently, you put all of your accumulated funds in then, rinse & repeat. You’re still doing exactly the same DCA into BTC but you’re generally maxing your lower average. I don’t seem to hear many people who DCA like this, maybe a lot do it’s just not often mentioned, yes sometimes that decent chunk you buy will immediately go down, but it’s still waiting for optimal times to put your funds in rather than imo stupidly just adding on a time based approach. Maybe it’s due to people not trusting themselves with the fiat amount building up, and know once it’s locked into BTC it’s there and it’s not being used in an emergency I don’t know. Thoughts?
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ I totally agree with DCA strategy, I just feel that I do it completely different
 
 itcoin just pushed past $70k, and at the same time a lot of software / tech stocks are moving up pretty aggressively as well. I’m seeing strong moves across names in the software space and the IGM/IGV ETFs also had a lot of volume. I don’t see any obvious catalyst that suddenly changed sentiment that much.
 
-19h ago
+20h ago
 
 ---
 
@@ -147,7 +147,7 @@ itcoin just pushed past $70k, and at the same time a lot of software / tech stoc
 
 DONT BUY ON LEVERAGE. DON'T GET LOAN! I seen many that says if they know how to time and play leverage, the gain is big and guaranteed. 7/10 traders I know was not able to recover their money back with this method. It's tempting but not worth it. Buy small spot on weekly/monthly basis. Don't buy 1 BTC straight up if you are new. Set a goal of at least 6 months to accumulate and achieve getting 1 BTC. The longer the better. Successful people are discipline people. Once you develop discipline and able to achieve 1 BTC, you are 10 steps ahead of being more successful than most people. You may be one of those that fall sick easily when you started doing trading. Set a goal to look at your phone lesser and lesser per day. Focus on your quality of sleep. I cannot stress this enough. Don't end up not able to sleep because your instinct tells you to look at the price fluctuation. Get a healthy hobby that you can do yourself. Such joining a cooking class. Make new friends that are non-traders. Spend less time with friends that do trading. It will make you last longer in any investment you do. Also, dont be too quick to ask for advices from your trader friends that you respect and deem highly. You may ruin your friendship with them with one bad call from them. Don't risk it. Avoid ego challenge to see who is right or wrong. Not worth it Trust the process. When there is a dip, it will rally. Buy the dip and wait. Diamond hand. Be a hodler. Know that you are preparing yourself better for a new world in the future. Do once a week workout. It is a lot of ask because you might be working overtime or raising a family with kids. but it is important as it will fix your mind to be more positive. Your body will not be quick to fall sick. You will be a better role model too. Be better. Eat healthy. For obvious reasons. You are what you eat. Don't join or pay for any investment guru group. Even those on YouTube. Watching too many of these will cause you more harm than good along the way. Learn this anology. Big whales gets hungry and will move. Know that we are still early, those old big whales in wall street are only comfortable eating in that stock market ocean because it's a space they have open their mouth since the early beginning. They are just waiting for fishes like us to find food in their mouth and ready to gobble us one go when they feel like it. Small people like us won't be able to grow wealth like them. Hence the rich gets richer and the poor gets poorer. Only few fishes will survive and get fat, the rest dies. New generation will move their money to crypto space to grow their wealth because less whales and when that happens, the big whales will soon move to our space because there aren't enough fishes for them to eat in their old space. Time is on your side, so use it well.
 
-18h ago
+19h ago
 
 ---
 
@@ -159,7 +159,7 @@ DONT BUY ON LEVERAGE. DON'T GET LOAN! I seen many that says if they know how to 
 
 Key PointsBitcoin has lost a lot of value since its all-time high in October.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -173,13 +173,13 @@ Barron's • 1d ago
 
 After a strong bounce on Wednesday, Dogecoin is leading the top 100 tokens in losses on Thursday as Bitcoin falls.
 
-Yahoo Finance • 25m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Eyes Further Gains as Technicals Turn Constructive](https://www.barrons.com/articles/bitcoin-eyes-further-gains-technicals-turn-constructive-66a1ef38?gaa_at=eafs&gaa_n=AWEtsqd44ylo6UxQAS83InLdbVdlhfHqbWtBLBDOmriS0TOk2CnhJl2BYHLc&gaa_ts=69a9faf2&gaa_sig=ARlx11bOp-swhq3yWSe26JrSEFqQWg79wZSD5bXV9nyAvD1LjWUQDSzd9qmIDgOknUxiUd1tDikp7B2eldUo0A%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ Barron's • 2h ago
 
 AI may soon be able to identify mysterious Bitcoin creator "Satoshi Nakamoto" by studying their writings, according to Castle Island Ventures Founding Partner Nic Carter. Carter on Feb. 25 on X shared a Cornell University research paper that explored the...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 2h ago
 
 New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -211,7 +211,7 @@ Business Insider • 1d ago
 
 Gold has climbed above $5,000 from $2,900 in 2024. Bitcoin has fallen 25% over the same period. Dalio says that’s because of Bitcoin’s lack of privacy and central bank support.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 1h ago
 
 Experts push back on billionaire hedge fund manager Ray Dalio's warning of bitcoin lacking gold’s qualities and risks from surveillance, quantum computing and lack of central bank buying.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -227,7 +227,7 @@ CoinDesk • 10h ago
 
 Stocks futures were little changed Wednesday, a day after major indexes fell but closed well above early lows, as Middle East fighting entered its fifth day.
 
-Investopedia • 22h ago
+Investopedia • 23h ago
 
 ---
 
@@ -261,7 +261,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 **[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
 
-⬆️ 2 • 💬 2 • 2d ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
+⬆️ 2 • 💬 2 • 3d ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
 
 ---
 
@@ -291,7 +291,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 6h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 7h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin, stocks, market moves, Iran, and breaking news! BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 10K • 👍 601 • 💬 66 • ⏱️ 16:42 • 9h ago
+👁️ 10K • 👍 601 • 💬 66 • ⏱️ 16:42 • 10h ago
 
 ---
 
@@ -331,7 +331,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 225 • 💬 15 • ⏱️ 19:58 • 6h ago
+👁️ 4K • 👍 225 • 💬 15 • ⏱️ 19:58 • 7h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin has been declared dead 477 times, yet the network keeps surviving and gr
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 104 • ⏱️ 22:18 • 23h ago
+👁️ 21K • 👍 1K • 💬 104 • ⏱️ 22:18 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ Bitcoin is pulling back after breaking out of a key range! On todays show I will
 
 📺 Frankie Candles 
 
-👁️ 2K • 👍 225 • 2h ago
+👁️ 2K • 👍 225 • 3h ago
 
 ---
 

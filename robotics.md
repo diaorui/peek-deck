@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-05T21:37:17.365106+00:00'
+updated: '2026-03-05T22:33:23.901465+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 05, 2026 at 21:37 UTC  
+**Last Updated:** March 05, 2026 at 22:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I’ve open-sourced my robots!](https://www.reddit.com/r/robotics/comments/1rll5z2/ive_opensourced_my_robots/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 For those following the project, this is Bimo walking on a regular carpet, something that used to be very unreliable without hand-tuning the environment or the RL model. Over the last months I’ve retrained and tweaked the walking model so it’s much more robust: it now keeps a stable heading instead of drifting or turning, and it tolerates uneven contact and small disturbances much better than before. Next on the roadmap are behaviors such as: turning gaits, better recovery under sustained pushes, and more pre-programmed motions to make Bimo a practical research and tinkering platform rather than just a locomotion demo. As these stabilize, I’ll be adding them to the open-source GitHub repo and documenting them in the Discord so others can build on top of this. If you want to see the full kit and platform details, there’s also a page on the Mekion site with specs and pre-order info.
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ For those following the project, this is Bimo walking on a regular carpet, somet
 
 Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
 
-11h ago
+12h ago
 
 ---
 
@@ -58,7 +58,7 @@ Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi
 
 At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor system that integrates drive, braking, and steering within each wheel unit.
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Hey everyone! I've been working on LinkForge, an open-source tool that turns Blender into a robotics IDE. Instead of hand-writing URDF/XACRO files, you define links, joints, sensors, and ros2_control interfaces visually in Blender 4.2+. A built-in linter catches physics issues like negative inertias or disconnected chains before export. v1.3.0 just released, with: • NumPy-accelerated inertia calculations • Improved ros2_control support • Better export validation GitHub: https://github.com/arounamounchili/linkforge Happy to answer questions or get feedback!
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone! I've been working on LinkForge, an open-source tool that turns Ble
 
 I’m a mechatronics engineer starting my first serious 6-axis desktop arm build (HexGrip V1.0). I’ve spent the last week deep-diving into torque specs and power requirements, and I just got all the hardware in hand. Before I start 3D printing the frame, I wanted to see if anyone has run this specific combo or if I’m walking into a trap. The Hardware Stack: The Brain: Arduino Nano. The Muscle: 4x MG996R (Base, Shoulder, Elbow, Wrist Roll) + 3x MG90S (Wrist Pitch/Yaw, Gripper). The Power: PCA9685 PWM Driver + Buck Converter (stepping down to 5-6V). The Control: NRF24L01 for future wireless joystick input. My Logic: I originally looked at SG90s, but the torque math for a 6-DOF arm is brutal—I didn't want the shoulder to stall the moment I added a gripper. I’m hoping the MG996Rs have enough holding torque for a 3D-printed PETG or PLA+ frame. The Query: Buck Converter: For those who’ve used this mix, do you find the MG90S servos get jittery or overheat if I run the whole bus at 6V to maximize the MG996R torque? NRF24L01: I've heard these are notorious for noise. Should I be shielding this from the PWM driver immediately, or is it manageable on a desktop-sized build?
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m a mechatronics engineer starting my first serious 6-axis desktop arm build
 
 https://preview.redd.it/777n5xb5q8ng1.png?width=741&format=png&auto=webp&s=879fc3ae0b3efaf9fbcd08bbf53cc366aec582be Hi everyone, I'm currently working on a small DIY autonomous surface vehicle (USV) project and I'm trying to figure out if something like this would actually be useful to people. The idea is a low-cost developer platform for experimenting with autonomous boats. Current concept: • ~70 cm trimaran hull • RC control + autonomous navigation • GPS waypoint navigation • Raspberry-Pi5, ESP32 based controller • Sensor expansion (water temperature, water quality, etc.) • Target price around $300–400 Most research USVs cost thousands of dollars, which makes them difficult to access for small labs, schools, or hobby projects. So I'm exploring whether a much cheaper DIY platform could make experimentation easier. I'm curious what people here would actually use something like this for. Possible use cases I had in mind: 1️⃣ Environmental data collection 2️⃣ Autonomous navigation experiments 3️⃣ Robotics / control education 4️⃣ Just a fun robotics project I'd really appreciate your thoughts. Also curious about a few things: • What features would you expect from a platform like this? • What sensors would you want to add? • Would the $300–400 price range feel reasonable? Thanks!
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://preview.redd.it/777n5xb5q8ng1.png?width=741&format=png&auto=webp&s=879fc
 
 We just scheduled a very special edition of our ROS By-the-Bay Meetup, taking place on Wednesday, March 18th, immediately following NVIDIA GTC. Whether you are a local, or just visiting for GTC, we want you to join us at Circuit Launch, the Bay Area’s premier robotics and hardware co-working space, for an evening of socializing, physical AI demos, technical talks, and tours. Our featured guest speakers include Angus Pacala, CEO of Ouster, and Ussama Naal, Senior Staff Software Engineer at Ouster. They will discuss their integrated product roadmap following the acquisition of Stereolabs, as well as their open-source tooling and ongoing support for ROS. We have additional fantastic speakers lined up and will announce them shortly! This event is a collaboration with Dhruv Diddi, CEO of Solo Tech and organizer of the Bay Area Physical AI meetup. Dhruv recently organized a major Physical AI hackathon in San Francisco, and several of the top teams from that event will be present to showcase their work. Please RSVP here
 
-3h ago
+4h ago
 
 ---
 
@@ -132,7 +132,7 @@ Business Insider • 1d ago
 
 Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
-Fox Business • 3h ago
+Fox Business • 4h ago
 
 ---
 
@@ -140,7 +140,7 @@ Fox Business • 3h ago
 
 SAN FRANCISCO, March 4 (Reuters) - Amazon on Tuesday confirmed it laid off staff across its robotics unit, ‌with at least 100 white-collar jobs affected, two people ‌familiar with the matter told Reuters. This comes after a January cut of about ​16,000 jobs with the company at the time hinting layoffs would continue.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Bloomberg.com • 1d ago
 
 Tesollo demonstrated its DG-3F-M articulated gripper with Techman's TM5S cobot arm for tasks such as bin picking and assembly.
 
-The Robot Report • 58m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Robot Report • 58m ago
 
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
-Kraken Robotics • 1d ago
+Kraken Robotics • 2d ago
 
 ---
 
@@ -178,7 +178,7 @@ CNBC • 1d ago
 
 A major online food retailer has started trialling self-driving robots to deliver meals in Sunderland.
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
@@ -186,7 +186,7 @@ BBC • 15h ago
 
 Chinese firms like Unitree and Agibot are dominating the global robotics market.
 
-Euronews.com • 14h ago
+Euronews.com • 15h ago
 
 ---
 
@@ -210,7 +210,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 13K • 👍 576 • 💬 40 • ⏱️ 14:35 • 21h ago
+👁️ 13K • 👍 576 • 💬 40 • ⏱️ 14:35 • 22h ago
 
 ---
 
@@ -220,7 +220,7 @@ War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 212 • 💬 44 • ⏱️ 15:24 • 7h ago
+👁️ 3K • 👍 212 • 💬 44 • ⏱️ 15:24 • 8h ago
 
 ---
 
@@ -230,7 +230,7 @@ War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 70 • ⏱️ 1:06 • 20h ago
+👁️ 3K • 👍 70 • ⏱️ 1:06 • 21h ago
 
 ---
 
