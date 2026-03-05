@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T06:54:48.930213+00:00'
+updated: '2026-03-05T07:42:39.215332+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 06:54 UTC  
+**Last Updated:** March 05, 2026 at 07:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-53m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 14h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-16h ago
+17h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 1d ago
 
 ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ dlnews.com • 1d ago
 
 As demand for digital assets continues to accelerate, scaling solutions have become one of the most important challenges facing Ethereum. In a recent discussion, Robinhood’s Head of Crypto outlined the company’s ambitious strategy to tackle this problem by building its own ETH Layer-2 network to se…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -212,7 +212,7 @@ TradingView • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -228,7 +228,7 @@ Polymarket • 1d ago
 
 The cryptocurrency market saw a strong rebound today as major digital assets moved sharply higher within a few hours, pushing the total crypto market
 
-Coinpedia Fintech News • 19h ago
+Coinpedia Fintech News • 20h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 270 • 💬 83 • ⏱️ 17:29 • 6h ago
+👁️ 4K • 👍 270 • 💬 83 • ⏱️ 17:29 • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 110 • 💬 6 • ⏱️ 4:00 • 6h ago
+👁️ 1K • 👍 110 • 💬 6 • ⏱️ 4:00 • 7h ago
 
 ---
 
@@ -272,7 +272,7 @@ ETH Breakout Confirmed — BMNR & SBET Next? (NAV Expansion + AI Agents with ETH
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 65 • 💬 13 • ⏱️ 22:38 • 8h ago
+👁️ 1K • 👍 65 • 💬 13 • ⏱️ 22:38 • 9h ago
 
 ---
 
@@ -312,7 +312,7 @@ In this week's Crypto Corner, Jenny Horne and @CharlesSchwab's Jim Ferraioli dis
 
 📺 Schwab Network
 
-👁️ 640 • 👍 15 • 💬 4 • ⏱️ 9:38 • 7h ago
+👁️ 640 • 👍 15 • 💬 4 • ⏱️ 9:38 • 8h ago
 
 ---
 
