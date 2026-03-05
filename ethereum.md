@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T07:42:39.215332+00:00'
+updated: '2026-03-05T08:43:39.753266+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 07:42 UTC  
+**Last Updated:** March 05, 2026 at 08:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,129.63
+### $2,095.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +6.3%  
-**7d:** +10.4%  
-**30d:** -0.8%  
-**90d:** -29.9%  
-**1y:** -3.4%  
+**24h:** +1.2%  
+**7d:** +8.9%  
+**30d:** -2.2%  
+**90d:** -30.8%  
+**1y:** -4.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 15h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 16h ago
 
 ---
 
@@ -96,7 +96,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-17h ago
+18h ago
 
 ---
 
@@ -156,7 +156,7 @@ I’m looking for a mobile wallet that’s easy to use but secure, especially si
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -168,11 +168,39 @@ Decrypt • 1d ago
 
 ---
 
-**[31.6 Million ETH Leaves Exchanges as Vitalik Calls for Ethereum “Sanctuary” Tech](https://finance.yahoo.com/news/31-6-million-eth-leaves-070249895.html)**
+**[Bitcoin and Ethereum Price to Surge in March? Tom Lee Bullish On Rebound Despite WW3 Threat](https://finance.yahoo.com/news/bitcoin-ethereum-price-surge-march-104526423.html)**
 
-ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
+Tom Lee expects a March rebound despite geopolitical tensions. Other analysts see signs of a bottom. Price outlook remains uncertain. Bitcoin and Ethereum’s prices could ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 21h ago
+
+---
+
+**[Bitcoin Price Surges Above $72,000. Why Cryptos Are Defying Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqfBdX1nCjS3UUfKI4D3XARVDLWQ4_yiClXpCLJHojY7csFkW9ZUh5tQ&gaa_ts=69a945a7&gaa_sig=VMgEK9T0b5tgirZ3Uieg4vvXgUNlsQb_shxNNS2eJuzW_09J4tcKnu6WgkcThJaAKHBExJe9SKRtupuBp5w5SA%3D%3D)**
+
+Barron's • 16h ago
+
+---
+
+**[Ethereum Price, BitMine Shares Jump as Tom Lee's Treasury Reports Latest Buy](https://finance.yahoo.com/news/ethereum-price-bitmine-shares-jump-153447384.html)**
+
+Publicly traded Ethereum treasury BitMine Immersion Technologies added to its ETH stack last week despite its recent decline.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
+
+TipRanks • 1h ago
+
+---
+
+**[Bitcoin miner turned Ethereum treasury firm stakes over $6B in ETH as BMNR shares slide and ether dips.](https://www.coindesk.com/business/2026/03/02/bitmine-boosts-ether-holdings-to-4-47m-tokens-after-usd98m-eth-purchase)**
+
+Bitmine chair Tom Lee says company keeps accumulating ETH during market pullback while targeting $253M in annual staking rewards.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -192,43 +220,9 @@ The Block • 1d ago
 
 ---
 
-**[Iran war won’t spoil Ethereum price rally in March, Tom Lee says](https://www.dlnews.com/articles/markets/iran-war-will-not-spoil-ethereum-price-rally-in-march-tom-lee-says/)**
+**[Key facts: Harvard buys $86.8M in Ethereum shares; U.S. ether ETFs see volatility](https://www.tradingview.com/news/tradingview:331ab23c2055e:0-key-facts-harvard-buys-86-8m-in-ethereum-shares-u-s-ether-etfs-see-volatility/)**
 
-Ethereum is set to surge in March, says Tom Lee. War in Iran won’t scupper the rally, Bitmine chair says. Cryptocurrency is up 9% over the past week.
-
-dlnews.com • 1d ago
-
----
-
-**[Scaling Ethereum For Mainstream: Robinhood’s Head Of Crypto Lays Out The Vision](https://www.tradingview.com/news/newsbtc:5edc50569094b:0-scaling-ethereum-for-mainstream-robinhood-s-head-of-crypto-lays-out-the-vision/)**
-
-As demand for digital assets continues to accelerate, scaling solutions have become one of the most important challenges facing Ethereum. In a recent discussion, Robinhood’s Head of Crypto outlined the company’s ambitious strategy to tackle this problem by building its own ETH Layer-2 network to se…
-
-TradingView • 12h ago
-
----
-
-**[Current price of Ethereum for March 4, 2026](https://fortune.com/article/price-of-ethereum-03-04-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 9h ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772628300)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
-**[Bitcoin, Ethereum and XRP Rally: Why is Crypto Market Going Up Today?](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-rally-why-is-crypto-market-going-up-today/)**
-
-The cryptocurrency market saw a strong rebound today as major digital assets moved sharply higher within a few hours, pushing the total crypto market
-
-Coinpedia Fintech News • 20h ago
+TradingView • 8h ago
 
 ---
 
@@ -242,7 +236,7 @@ BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 270 • 💬 83 • ⏱️ 17:29 • 7h ago
+👁️ 4K • 👍 270 • 💬 83 • ⏱️ 17:29 • 8h ago
 
 ---
 
@@ -252,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 110 • 💬 6 • ⏱️ 4:00 • 7h ago
+👁️ 1K • 👍 110 • 💬 6 • ⏱️ 4:00 • 8h ago
 
 ---
 
@@ -272,7 +266,7 @@ ETH Breakout Confirmed — BMNR & SBET Next? (NAV Expansion + AI Agents with ETH
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 65 • 💬 13 • ⏱️ 22:38 • 9h ago
+👁️ 1K • 👍 65 • 💬 13 • ⏱️ 22:38 • 10h ago
 
 ---
 
@@ -292,7 +286,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 522 • 👍 92 • ⏱️ 7:33 • 2h ago
+👁️ 522 • 👍 92 • ⏱️ 7:33 • 3h ago
 
 ---
 
@@ -312,7 +306,7 @@ In this week's Crypto Corner, Jenny Horne and @CharlesSchwab's Jim Ferraioli dis
 
 📺 Schwab Network
 
-👁️ 640 • 👍 15 • 💬 4 • ⏱️ 9:38 • 8h ago
+👁️ 640 • 👍 15 • 💬 4 • ⏱️ 9:38 • 9h ago
 
 ---
 
@@ -322,7 +316,7 @@ Ethereum Just Hit a Historic Milestone (Why ETH Is Finally Ready) thereum just h
 
 📺 EverythingAltcoin
 
-👁️ 235 • 👍 13 • 💬 7 • ⏱️ 14:13 • 13h ago
+👁️ 235 • 👍 13 • 💬 7 • ⏱️ 14:13 • 14h ago
 
 ---
 
@@ -332,7 +326,7 @@ Just got back from Crypto Expo Europe - one of the biggest crypto summits in Rom
 
 📺 Blockchain Pill
 
-👁️ 1K • 👍 165 • 💬 46 • ⏱️ 8:01 • 15h ago
+👁️ 1K • 👍 165 • 💬 46 • ⏱️ 8:01 • 16h ago
 
 ---
 
