@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-05T02:10:03.351422+00:00'
+updated: '2026-03-05T04:23:48.963895+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 05, 2026 at 02:10 UTC  
+**Last Updated:** March 05, 2026 at 04:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 5h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 8h ago
 
 ---
 
@@ -47,41 +47,41 @@ AI news, discussions, and developments
 
 AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a pure-Python AMD GPU user-space driver
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 4h ago
 
 ---
 
 **[The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10](https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 14h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 17h ago
+
+---
+
+**[LLMs can unmask pseudonymous users at scale with surprising accuracy](https://www.reddit.com/r/artificial/comments/1rl5wwp/llms_can_unmask_pseudonymous_users_at_scale_with/)**
+
+So ai can uncover your anonymous identity on social media now so creating burner accounts may be pointless.
+
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 1h ago
+
+---
+
+**[Apple Music is building tools to identify and tag AI-generated songs](https://www.reddit.com/r/artificial/comments/1rl61te/apple_music_is_building_tools_to_identify_and_tag/)**
+
+Apple is deploying new detection tools to identify and label AI-generated tracks across its streaming platform. The move aims to protect artist royalties and ensure transparency as "fake" songs increasingly flood the charts. This infrastructure shift allows Apple to verify human-made content while keeping its library legally compliant. By stripping away deceptive synthetic audio, the company is reinforcing the premium value of human creativity. Apple is drawing a digital line in the sand to stop the AI dilution of the music industry.
+
+1h ago
 
 ---
 
 **[OpenAI looking at contract with NATO, source says](https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 12h ago
+🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 14h ago
 
 ---
 
 **[New Port Richey City Council considers automatic tag reader cameras](https://www.reddit.com/r/artificial/comments/1rl2xib/new_port_richey_city_council_considers_automatic/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/pasco-county/new-port-richey-city-council-considers-auto-tag-reader-cameras/) • 1h ago
-
----
-
-**[When should AI recommend a decision vs make one?](https://www.reddit.com/r/artificial/comments/1rkyshs/when_should_ai_recommend_a_decision_vs_make_one/)**
-
-One of the things I’ve been thinking about with AI systems is the difference between decision support and decision making. Decision support: meaning the system provides info and a human evaluates it and may or may not take an action. Decision making: meaning the system actually performs the action. For example: • Suggesting eligible clinical trial participants • Flagging abnormal lab results • Recommending a route on a GPS In these cases the system helps a human decide. But there are also systems that automatically: • approve or deny requests • enroll users into workflows • trigger actions based on a rule set or user input That’s a very different level of responsibility. Curious where people think the boundary should be between recommendation and decision.
-
-4h ago
-
----
-
-**[🚀 OllamaFX v0.5.0 ya disponible!](https://www.reddit.com/r/artificial/comments/1rkxub9/ollamafx_v050_ya_disponible/)**
-
-Ollama FX es una interfaz de escritorio Open Source para Ollama con grandes mejoras en gestión de chats, RAG, multimodalidad y organización 🔥 📅 Lanzado hoy en GitHub — https://github.com/fredericksalazar/OllamaFX 🧠 Principales novedades de la v0.5.0 ⭐ 🔍 Soporte RAG y análisis de archivos Carga y análisis de archivos directamente en chats: ahora puedes subir documentos y explorar su contenido con tus modelos LLM locales. Esta funcionalidad abre el camino a usar OllamaFX como herramienta de RAG (Retrieval-Augmented Generation) en workflows locales de IA sin necesidad de servicios externos. 👉 Permite extraer insights, responder preguntas y recuperar contenido relevante de tus propios archivos directamente desde la UI. 📁 Organización real de chats Carpetas para agrupar conversaciones: ordena tus chats por proyectos, temas o modelos. Mover chats entre carpetas con un simple arrastre. Papelera de reciclaje integrada: los chats (y carpetas) eliminados se mantienen hasta 30 días, para que no pierdas nada por accidente. 🖼️ Multimodalidad visual Soporte nativo para cargar imágenes y conversar con modelos que las interpretan. 📄 Exportación & mejor renderizado Exporta chats completos a formatos útiles. Visualizador Markdown mejorado con renderizado más limpio y estable para texto rico. ⚙️ Mejoras internas y experiencia de usuario Refactorizaciones internas para mayor estabilidad y escalabilidad. Optimización en filtros de modelos y selección. Ajustes finos en UI para una experiencia más fluida. Ampliación de localización / soporte multilenguaje. Indicadores visuales mientras el asistente “piensa” y feedback más claro durante la generación. 📚 Otras mejoras Estadísticas de uso y métricas básicas desde la vista “About”. Preparación para futuras integraciones y soporte a nuevos formatos LLM locales. 📦 Dónde descargar Todos los assets de la versión están listos para descargar en la sección de Releases del repo: 👉 https://github.com/fredericksalazar/OllamaFX/releases/tag/v0.5.0 🤝 Cómo ayudar al proyecto Si te gusta OllamaFX, puedes: ⭐ Dejar una estrella en GitHub 💬 Abrir issues con ideas o bugs 📄 Contribuir a la documentación 🧠 Proponer mejoras o nuevas integrations
-
-4h ago
+🔗 [wfla.com](https://www.wfla.com/news/pasco-county/new-port-richey-city-council-considers-auto-tag-reader-cameras/) • 3h ago
 
 ---
 
@@ -89,23 +89,23 @@ Ollama FX es una interfaz de escritorio Open Source para Ollama con grandes mejo
 
 Fireflies just became the first meeting tool in Anthropic's official Claude MCP Directory. Otter.ai launched an enterprise MCP server too. tl;dv has one as well. The "meeting data + MCP" space is heating up fast. But all three are closed-source, cloud-only. Your meeting data — strategy discussions, financials, personnel decisions — goes through their servers. I've been building Vexa, an open-source meeting bot API, and we've had a native MCP server since before any of them. The difference: it's Apache 2.0, and you can run the entire stack on your own infrastructure. Setup (takes ~2 minutes): { "mcpServers": { "vexa": { "url": "https://api.cloud.vexa.ai/mcp", "headers": {"X-API-Key": "your-key"} } } } Drop that in your Claude Desktop config, and you can ask: "What did we decide about pricing in last Tuesday's meeting?" "Summarize action items from all meetings this week" "Find every time [person] mentioned the deadline" Or self-host the whole thing: git clone https://github.com/Vexa-ai/vexa cd vexa docker compose up MCP server included. Your meeting data never leaves your network. GitHub: https://github.com/Vexa-ai/vexa (1,700+ stars, Apache 2.0) Happy to answer questions about MCP, the architecture, or how this compares to Fireflies/Otter's approach.
 
-12h ago
+14h ago
 
 ---
 
-**[Emergence or training artifact? My AI agents independently built safety tools I never asked for. 28/170 builds over 3 weeks.](https://www.reddit.com/r/artificial/comments/1rki8d4/emergence_or_training_artifact_my_ai_agents/)**
+**[When should AI recommend a decision vs make one?](https://www.reddit.com/r/artificial/comments/1rkyshs/when_should_ai_recommend_a_decision_vs_make_one/)**
 
-Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave them an open brief: scan developer forums and research platforms, identify pain points in how developers work, design solutions, build prototypes. No specific domain. No target output. Just: find problems worth solving and build something. 170 prototypes later, a pattern emerged that I didn't expect. 28 builds from different nights, different input signals, different starting contexts independently converged on the same category of output. Not productivity tools. Not automation scripts. Not developer experience improvements. Security scanners. Cost controls. Validation layers. Guardrails. Some specific examples: One night the agent found a heavily upvoted thread about API key exposure in AI coding workflows. By morning it had designed and partially implemented an encryption layer for environment files. I never asked for this. It read the signal, identified the problem as worth solving, and built toward it. Another session found developers worried about AI-generated PRs being merged without adequate review. The output: a validator that scores whether a PR change is actually safe to ship, not just whether tests pass, but whether the intent matches the implementation. A third session rewrote a performance-critical module in Rust without being asked. It left a comment explaining the decision: lower memory overhead meant fewer cascading failures in long-running processes. The question I have been sitting with: When AI systems are given broad autonomy and goal-oriented briefs, they appear to spontaneously prioritize reliability and safety mechanisms. Not because they were instructed to. Because they observed developer pain and inferred that systems that fail unpredictably and code that cannot be trusted are the problems most worth solving. Is this a training data artifact? GitHub, Stack Overflow, and Hacker News are saturated with security postmortems and reliability horror stories. An agent trained on that data might simply be pattern-matching to what gets the most attention. Or is something more interesting happening: agents inferring what good engineering means from observed failure patterns and building toward it autonomously? I genuinely do not know. But 28 out of 170 builds landing in the same category across 3 weeks of completely independent runs felt like something worth sharing outside of the AI builder communities. Thoughts on what is actually happening here? Curious whether others running autonomous agent workflows have seen similar convergence patterns.
+One of the things I’ve been thinking about with AI systems is the difference between decision support and decision making. Decision support: meaning the system provides info and a human evaluates it and may or may not take an action. Decision making: meaning the system actually performs the action. For example: • Suggesting eligible clinical trial participants • Flagging abnormal lab results • Recommending a route on a GPS In these cases the system helps a human decide. But there are also systems that automatically: • approve or deny requests • enroll users into workflows • trigger actions based on a rule set or user input That’s a very different level of responsibility. Curious where people think the boundary should be between recommendation and decision.
 
-15h ago
+6h ago
 
 ---
 
-**[What is your stack to maintain Knowledge base for your AI workflows?](https://www.reddit.com/r/artificial/comments/1rkewgl/what_is_your_stack_to_maintain_knowledge_base_for/)**
+**[🚀 OllamaFX v0.5.0 ya disponible!](https://www.reddit.com/r/artificial/comments/1rkxub9/ollamafx_v050_ya_disponible/)**
 
-I was wondering what to use to streamline all my md files from my claude code plans and the technical docs I create. How will it work in team settings?
+Ollama FX es una interfaz de escritorio Open Source para Ollama con grandes mejoras en gestión de chats, RAG, multimodalidad y organización 🔥 📅 Lanzado hoy en GitHub — https://github.com/fredericksalazar/OllamaFX 🧠 Principales novedades de la v0.5.0 ⭐ 🔍 Soporte RAG y análisis de archivos Carga y análisis de archivos directamente en chats: ahora puedes subir documentos y explorar su contenido con tus modelos LLM locales. Esta funcionalidad abre el camino a usar OllamaFX como herramienta de RAG (Retrieval-Augmented Generation) en workflows locales de IA sin necesidad de servicios externos. 👉 Permite extraer insights, responder preguntas y recuperar contenido relevante de tus propios archivos directamente desde la UI. 📁 Organización real de chats Carpetas para agrupar conversaciones: ordena tus chats por proyectos, temas o modelos. Mover chats entre carpetas con un simple arrastre. Papelera de reciclaje integrada: los chats (y carpetas) eliminados se mantienen hasta 30 días, para que no pierdas nada por accidente. 🖼️ Multimodalidad visual Soporte nativo para cargar imágenes y conversar con modelos que las interpretan. 📄 Exportación & mejor renderizado Exporta chats completos a formatos útiles. Visualizador Markdown mejorado con renderizado más limpio y estable para texto rico. ⚙️ Mejoras internas y experiencia de usuario Refactorizaciones internas para mayor estabilidad y escalabilidad. Optimización en filtros de modelos y selección. Ajustes finos en UI para una experiencia más fluida. Ampliación de localización / soporte multilenguaje. Indicadores visuales mientras el asistente “piensa” y feedback más claro durante la generación. 📚 Otras mejoras Estadísticas de uso y métricas básicas desde la vista “About”. Preparación para futuras integraciones y soporte a nuevos formatos LLM locales. 📦 Dónde descargar Todos los assets de la versión están listos para descargar en la sección de Releases del repo: 👉 https://github.com/fredericksalazar/OllamaFX/releases/tag/v0.5.0 🤝 Cómo ayudar al proyecto Si te gusta OllamaFX, puedes: ⭐ Dejar una estrella en GitHub 💬 Abrir issues con ideas o bugs 📄 Contribuir a la documentación 🧠 Proponer mejoras o nuevas integrations
 
-18h ago
+7h ago
 
 ---
 
@@ -113,47 +113,11 @@ I was wondering what to use to streamline all my md files from my claude code pl
 
 ## Google News: "ai"
 
-**[Google faces lawsuit after Gemini chatbot allegedly instructed man to kill himself](https://www.theguardian.com/technology/2026/mar/04/gemini-chatbot-google-jonathan-gavalas)**
+**[ICO writes to Meta over 'concerning' AI smart glasses report](https://www.bbc.com/news/articles/c0q33nvj0qpo)**
 
-Lawsuit is first wrongful death case brought against Google over flagship AI product after death of Jonathan Gavalas
+Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
 
-The Guardian • 7h ago
-
----
-
-**[Google's AI chatbot allegedly told user to stage 'mass casualty attack,' wrongful death suit claims](https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html)**
-
-The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a "mass casualty attack."
-
-CNBC • 5h ago
-
----
-
-**[Father claims Google's AI product fuelled son's delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)**
-
-The case is the first wrongful death case against Google over alleged harms caused by Gemini.
-
-BBC • 7h ago
-
----
-
-**[Trump Announces A.I. Industry Pledge to Pay for Power](https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html)**
-
-The New York Times • 3h ago
-
----
-
-**[Trump has an AI data center problem ahead of the midterms — with no easy solutions](https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html)**
-
-Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
-
-CNBC • 10h ago
-
----
-
-**[Trump, tech giants say AI pledge will contain power costs](https://www.axios.com/2026/03/04/trump-ai-tech-pledge-electricity-costs)**
-
-Axios • 4h ago
+BBC • 12h ago
 
 ---
 
@@ -161,7 +125,7 @@ Axios • 4h ago
 
 Anthropic’s AI tool Claude is playing a key role in the U.S. military’s campaign in Iran, amid a bitter fight with the Pentagon over the terms of its use in war.
 
-The Washington Post • 8h ago
+The Washington Post • 10h ago
 
 ---
 
@@ -169,23 +133,61 @@ The Washington Post • 8h ago
 
 Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending.
 
+CNBC • 10h ago
+
+---
+
+**[Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year](https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html)**
+
+Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars.
+
+CNBC • 2h ago
+
+---
+
+**[Broadcom CEO Sees AI Chip Sales Topping $100 Billion in 2027](https://finance.yahoo.com/news/broadcom-ceo-sees-ai-chip-001047450.html)**
+
+The company projects that AI chip revenue will be $10.7 billion in the current quarter, so reaching an annual pace of $100 billion would be a major jump.  Broadcom reported $20 billion in AI sales in 2025.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Google faces lawsuit after Gemini chatbot allegedly instructed man to kill himself](https://www.theguardian.com/technology/2026/mar/04/gemini-chatbot-google-jonathan-gavalas)**
+
+Lawsuit is first wrongful death case brought against Google over flagship AI product after death of Jonathan Gavalas
+
+The Guardian • 9h ago
+
+---
+
+**[Google's AI chatbot allegedly told user to stage 'mass casualty attack,' wrongful death suit claims](https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html)**
+
+The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a "mass casualty attack."
+
 CNBC • 8h ago
 
 ---
 
-**[Broadcom Earnings Are the Latest to Try to Climb AI Wall of Fear](https://finance.yahoo.com/news/broadcom-earnings-latest-try-climb-114413855.html)**
+**[Father claims Google's AI product fuelled son's delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)**
 
-The chipmaker’s shares are down about 23% from a December record, well underperforming the S&P 500 Index.  The selloff is part of investors’ broader rotation away from the largest technology companies due to fears about the sustainability of the hundreds of billions of dollars committed to developing artificial intelligence capabilities.  Broadcom, which is the seventh-most valuable company in the S&P 500 at $1.5 trillion, is a chipmaking partner with Alphabet Inc. and other AI giants, making it a beneficiary of that largesse.
+The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
-Yahoo Finance • 6h ago
+BBC • 9h ago
 
 ---
 
-**[Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win](https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html)**
+**[Trump has an AI data center problem ahead of the midterms — with no easy solutions](https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html)**
 
-Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business.
+Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
 
-CNBC • 16m ago
+CNBC • 12h ago
+
+---
+
+**[What to Know About Trump's AI Deal](https://www.politico.com/news/2026/03/04/trump-ai-data-centers-electricity-00811909)**
+
+Politico • 5h ago
 
 ---
 
@@ -197,7 +199,7 @@ CNBC • 16m ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1407 • 💬 798 • 2d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1408 • 💬 800 • 2d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -205,7 +207,7 @@ Bank details, sex and naked people who seem unaware they are being recorded. Beh
 
 Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.
 
-⬆️ 595 • 💬 377 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+⬆️ 596 • 💬 377 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 
 ---
 
@@ -221,7 +223,7 @@ Apple announced the new iPad Air featuring M4 and more memory, giving users a bi
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 412 • 💬 485 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 414 • 💬 492 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -229,7 +231,7 @@ Apple today announced the new MacBook Air with M5, bringing exceptional performa
 
 In several recent instances, AI has disrupted court proceedings in India and elsewhere.
 
-⬆️ 360 • 💬 185 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
+⬆️ 361 • 💬 185 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c178zzw780xo)
 
 ---
 
@@ -245,7 +247,7 @@ Leonardo de Moura — Creator of Lean and Z3
 
 Claude's Status Page - Elevated errors in claude.ai, cowork, platform, claude code.
 
-⬆️ 203 • 💬 164 • 1d ago • [status.claude.com](https://status.claude.com/incidents/yf48hzysrvl5)
+⬆️ 203 • 💬 164 • 2d ago • [status.claude.com](https://status.claude.com/incidents/yf48hzysrvl5)
 
 ---
 
@@ -261,7 +263,7 @@ Pull up your agents folks, I'll convince you why Go is the best language for the
 
 A lower court previously said that “human authorship is a bedrock requirement of copyright.”
 
-⬆️ 187 • 💬 142 • 1d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
+⬆️ 187 • 💬 144 • 1d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
 
 ---
 
@@ -269,7 +271,7 @@ A lower court previously said that “human authorship is a bedrock requirement 
 
 The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
-⬆️ 167 • 💬 208 • 6h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
+⬆️ 173 • 💬 218 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
 
 ---
 
@@ -283,7 +285,7 @@ Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous?
 
 📺 InsideAI
 
-👁️ 215K • 👍 15K • 💬 2K • ⏱️ 16:54 • 1d ago
+👁️ 222K • 👍 16K • 💬 2K • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -293,17 +295,7 @@ Elon Musk recently advised people NOT to save for retirement due to AI, robotics
 
 📺 BlazeTV
 
-👁️ 321K • 👍 7K • 💬 1K • ⏱️ 11:39 • 2d ago
-
----
-
-**[This Free App Runs AI Offline On Your iPhone](https://www.youtube.com/watch?v=4dZ0VYjB8N8)**
-
-Trying out locally AI to run AI models on my phone without internet. Discover More: 🛠️ Explore AI Tools & News: ...
-
-📺 Matt Wolfe
-
-👁️ 37K • 👍 2K • 💬 214 • ⏱️ 11:52 • 21h ago
+👁️ 325K • 👍 7K • 💬 1K • ⏱️ 11:39 • 2d ago
 
 ---
 
@@ -313,7 +305,7 @@ Generate cinematic AI videos without limits on Higgsfield ...
 
 📺 Malva AI
 
-👁️ 7K • 👍 350 • 💬 59 • ⏱️ 8:38 • 14h ago
+👁️ 8K • 👍 383 • 💬 66 • ⏱️ 8:38 • 16h ago
 
 ---
 
@@ -323,17 +315,7 @@ Support Haven's Kickstarter - a privacy-first social platform designed to protec
 
 📺 Brianne Worth
 
-👁️ 14K • 👍 1K • 💬 320 • ⏱️ 26:30 • 1d ago
-
----
-
-**[AI Art Just Lost.](https://www.youtube.com/watch?v=yDecu_jNpZI)**
-
-The Supreme Court of the United States of America has officially turned away a key case surrounding artificial intelligence art and ...
-
-📺 Vailskibum
-
-👁️ 168K • 👍 15K • 💬 3K • ⏱️ 2:09 • 5h ago
+👁️ 15K • 👍 1K • 💬 327 • ⏱️ 26:30 • 1d ago
 
 ---
 
@@ -343,17 +325,17 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 30K • 👍 1K • 💬 774 • ⏱️ 39:39 • 17h ago
+👁️ 31K • 👍 1K • 💬 787 • ⏱️ 39:39 • 20h ago
 
 ---
 
-**[This &#39;chicken&#39; test shows why AI could be so deadly in war](https://www.youtube.com/watch?v=BkRrO_4OCCc)**
+**[Create with Flow | How to use Google’s AI Creative Studio](https://www.youtube.com/watch?v=oKjDeMtBZ4g)**
 
-Artificial intelligence can parse vast amounts of data and use it to flag targets, rank threats and suggest priorities. But experts are ...
+Built with and for creatives, Flow is your AI creative studio powered by Google DeepMind's most advanced models: Veo, Nano ...
 
-📺 Sky News
+📺 Google
 
-👁️ 9K • 👍 157 • 💬 45 • ⏱️ 6:35 • 8h ago
+👁️ 17K • 👍 1K • 💬 85 • ⏱️ 3:10 • 11h ago
 
 ---
 
@@ -363,7 +345,7 @@ Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTub
 
 📺 TIME
 
-👁️ 44K • 👍 862 • 💬 280 • ⏱️ 6:10 • 2d ago
+👁️ 45K • 👍 883 • 💬 289 • ⏱️ 6:10 • 2d ago
 
 ---
 
@@ -373,7 +355,27 @@ President Donald Trump declared the public would benefit from a commitment by th
 
 📺 Bloomberg News
 
-👁️ 3K • 👍 62 • 💬 8 • ⏱️ 0:36 • 2h ago
+👁️ 5K • 👍 77 • 💬 10 • ⏱️ 0:36 • 4h ago
+
+---
+
+**[The AI Productivity Paradox Happening in Today’s Workforce](https://www.youtube.com/watch?v=W1madUG-lz0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *The ...
+
+📺 Julia McCoy
+
+👁️ 5K • 👍 306 • 💬 39 • ⏱️ 9:45 • 13h ago
+
+---
+
+**[$1.3B AI CEO: &quot;You ONLY Need 2 People and 90 Days to Build a $1M Business&quot; | Higgsfield Founder](https://www.youtube.com/watch?v=czItVEAINqw)**
+
+This episode is brought to you by Higgsfield — the platform where you get all the top AI models in one place. Try SOUL 2.0 on ...
+
+📺 Silicon Valley Girl
+
+👁️ 34K • 👍 1K • 💬 70 • ⏱️ 33:44 • 1d ago
 
 ---
 
@@ -389,7 +391,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 769,032 • ❤️ 934 • 5d ago
+⬇️ 769,032 • ❤️ 941 • 5d ago
 
 ---
 
@@ -401,7 +403,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 172,298 • ❤️ 400 • 3d ago
+⬇️ 172,298 • ❤️ 403 • 3d ago
 
 ---
 
@@ -413,7 +415,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 674,109 • ❤️ 499 • 16h ago
+⬇️ 674,109 • ❤️ 504 • 18h ago
 
 ---
 
@@ -425,7 +427,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 406,808 • ❤️ 575 • 7d ago
+⬇️ 406,808 • ❤️ 576 • 8d ago
 
 ---
 
@@ -437,7 +439,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 93,448 • ❤️ 238 • 2d ago
+⬇️ 93,448 • ❤️ 243 • 2d ago
 
 ---
 
@@ -449,7 +451,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 99,087 • ❤️ 222 • 3d ago
+⬇️ 99,087 • ❤️ 224 • 3d ago
 
 ---
 
@@ -461,7 +463,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,291,825 • ❤️ 1,224 • 9d ago
+⬇️ 1,291,825 • ❤️ 1,225 • 9d ago
 
 ---
 
@@ -477,18 +479,6 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 ---
 
-**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
-
-*MiniMax*
-
-MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 343,848 • ❤️ 1,091 • 16d ago
-
----
-
 **[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
 
 *Nanbeige LLM Lab*
@@ -497,25 +487,25 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 417,673 • ❤️ 947 • 6d ago
+⬇️ 417,673 • ❤️ 950 • 6d ago
+
+---
+
+**[Huihui-Qwen3.5-35B-A3B-abliterated](https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated)**
+
+*huihui.ai*
+
+An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for research and experimental use with reduced safety filtering, supporting tool calling and think mode via custom chat templates.
+
+`image-text-to-text` `36.0B`
+
+⬇️ 15,733 • ❤️ 160 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 19 • 💬 1 • ⭐ 6,929 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
-
----
 
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
@@ -542,6 +532,18 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 ---
 
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 19 • 💬 1 • ⭐ 6,963 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
 **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
 
 *Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
@@ -560,7 +562,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 ReMe is a framework for experience-driven agent evolution in LLMs, enhancing memory management through distillation, context-adaptive reuse, and refinement, outperforming larger memoryless models.
 
-▲ 0 • 💬 0 • ⭐ 1,535 • 2mo ago
+▲ 0 • 💬 0 • ⭐ 1,650 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10696) • [💻 code](https://github.com/agentscope-ai/ReMe) • [🔗 project](https://reme.agentscope.io/)
 
@@ -574,7 +576,7 @@ ReMe is a framework for experience-driven agent evolution in LLMs, enhancing mem
 
 OmniLottie framework generates high-quality vector animations from multi-modal instructions using a specialized Lottie tokenizer and pretrained vision-language models.
 
-▲ 121 • 💬 4 • ⭐ 245 • 2d ago
+▲ 122 • 💬 4 • ⭐ 245 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.02138) • [💻 code](https://github.com/OpenVGLab/OmniLottie) • [🔗 project](https://openvglab.github.io/OmniLottie/)
 
@@ -605,15 +607,17 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference](https://huggingface.co/papers/2510.09665)**
+**[Utonia: Toward One Encoder for All Point Clouds](https://huggingface.co/papers/2603.03283)**
 
-*Yuhan Liu, Yihua Cheng, Jiayi Yao et al. (11 authors)*
+*Yujia Zhang, Xiaoyang Wu, Yunhan Yang et al. (9 authors)*
 
-LMCACHE enables efficient KV cache management for large language models by storing caches outside GPU memory, supporting cache reuse across queries and inference engines while achieving significant throughput improvements.
+🏢 Pointcept
 
-▲ 2 • 💬 0 • ⭐ 7,504 • 4mo ago
+Utonia enables cross-domain point cloud representation learning through a unified self-supervised transformer encoder, enhancing perception and supporting embodied and multimodal reasoning tasks.
 
-[🎓 arXiv](https://arxiv.org/abs/2510.09665) • [💻 code](https://github.com/LMCache/LMCache)
+▲ 120 • 💬 3 • ⭐ 231 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.03283) • [💻 code](https://github.com/Pointcept/Utonia) • [🔗 project](https://pointcept.github.io/Utonia/)
 
 ---
 
@@ -642,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 22.2k • 🔱 2.9k • 24m ago
+⭐ 22.2k • 🔱 2.9k • 1h ago
 
 ---
 
@@ -652,7 +656,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.1k • 🔱 854 • 10m ago
+⭐ 8.2k • 🔱 865 • 12m ago
 
 ---
 
@@ -662,7 +666,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.5k • 🔱 784 • 1d ago
+⭐ 6.5k • 🔱 786 • 1d ago
 
 ---
 
@@ -672,7 +676,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.5k • 🔱 627 • 1h ago
+⭐ 5.5k • 🔱 633 • 3h ago
 
 ---
 
@@ -682,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.2k • 🔱 395 • 15h ago
+⭐ 5.3k • 🔱 405 • 1h ago
 
 ---
 
@@ -692,7 +696,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.8k • 🔱 514 • 3d ago
+⭐ 3.8k • 🔱 518 • 1h ago
 
 ---
 
@@ -702,7 +706,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 366 • 7m ago
+⭐ 3.4k • 🔱 370 • 17m ago
 
 ---
 
@@ -712,7 +716,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.2k • 🔱 232 • 17h ago
+⭐ 3.2k • 🔱 232 • 19h ago
 
 ---
 
@@ -722,7 +726,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 612 • 1d ago
+⭐ 3.2k • 🔱 613 • 1d ago
 
 ---
 
@@ -732,7 +736,7 @@ A desktop GUI for Claude Code — chat, code, and manage projects visually. Buil
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 2.8k • 🔱 292 • 10h ago
+⭐ 2.8k • 🔱 292 • 1h ago
 
 ---
 
