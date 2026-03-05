@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T15:13:14.330657+00:00'
+updated: '2026-03-05T16:09:56.525922+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 15:13 UTC  
+**Last Updated:** March 05, 2026 at 16:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed one of the earliest smart contracts on the network: TerraNullius. What it does: Anyone can "claim" a hex coordinate and attach a message to it — a permanent, uncensorable message board on the blockchain. No tokens, no governance, no economic incentive. Just messages, forever. The numbers: - Deployed at block 49,880 (August 7, 2015) - Compiled with Solidity v0.1.1 - 25 claims in 2015, then it sat mostly dormant - 687 claims during the 2021 NFT boom (people realized these were basically proto-NFTs) - 805 total transactions and counting — still active in 2026 It was referenced by the Guinness World Records and is one of the earliest surviving interactive contracts on Ethereum. The original announcement was a Reddit post right here on r/ethereum, with Semiel sharing a Pastebin script so people could interact with it. What's fascinating is how it predates every pattern we now take for granted — ERC-20, ERC-721, ENS, DAOs. This was someone experimenting with permanence on a chain that was two weeks old. Contract: 0x6e38A457C722C6011B2dfa06d49240e797844d66 Full writeup with sources and verification: EthereumHistory.com If anyone has stories about early Ethereum experiments like this, I'd love to hear them. We're trying to document the pre-2017 era before the context is lost entirely.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed 
 
 Been doing Ethereum archaeology and found a useful reminder: token-for-token swap behavior existed on-chain in 2016, long before AMMs were mainstream. What was different vs modern DeFi: - no pooled liquidity / routing engines - much heavier coordination + trust assumptions - primitive UX, but clearly permissionless exchange intent It feels like DeFi history is better modeled as a slow primitive stack (2015-2018) rather than a sudden 2020 birth. Question for the OGs here: which pre-2018 contracts do you consider the most important proto-DeFi stepping stones?
 
-11m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 22h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 3d ago
 
 Ethereum ETFs saw inflows of $169 million Wednesday, as geopolitical tensions and price reset institutions’ crypto appetite.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -188,13 +188,13 @@ Fortune • 16h ago
 
 The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
 **[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqdKzLNPySJt8MU-QU588xfEZNb5VAjkQhfPjyQmjIO9hjS4NyIJ3Wb1&gaa_ts=69a9a07d&gaa_sig=gZbcDEkIre2ifBX5YAPlb_7Ih6YbXCXlPpOFcQ0pWtU7j9jm-GBKRxbp036dbMGZRCpFKnrIFMVKjeRxp35lxQ%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -202,13 +202,13 @@ Barron's • 22h ago
 
 Publicly traded Ethereum treasury BitMine Immersion Technologies added to its ETH stack last week despite its recent decline.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
 **[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
 
-TipRanks • 7h ago
+TipRanks • 8h ago
 
 ---
 
@@ -216,13 +216,13 @@ TipRanks • 7h ago
 
 Bitmine chair Tom Lee says company keeps accumulating ETH during market pullback while targeting $253M in annual staking rewards.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
 
 ---
 
 **[Key facts: Harvard buys $86.8M in Ethereum shares; U.S. ether ETFs see volatility](https://www.tradingview.com/news/tradingview:331ab23c2055e:0-key-facts-harvard-buys-86-8m-in-ethereum-shares-u-s-ether-etfs-see-volatility/)**
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -236,7 +236,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 206 • 💬 2 • ⏱️ 1:16 • 2h ago
+👁️ 4K • 👍 206 • 💬 2 • ⏱️ 1:16 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 342 • 💬 81 • ⏱️ 17:29 • 15h ago
+👁️ 8K • 👍 342 • 💬 81 • ⏱️ 17:29 • 16h ago
 
 ---
 
@@ -276,7 +276,7 @@ With all the volatility in the middle-east, crypto prices have been relatively s
 
 📺 Elijah Cheng
 
-👁️ 174 • 👍 19 • 💬 2 • ⏱️ 25:01 • 43m ago
+👁️ 174 • 👍 19 • 💬 2 • ⏱️ 25:01 • 1h ago
 
 ---
 
@@ -286,7 +286,7 @@ ALL TRADING PLATFORMS (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code
 
 📺 Vibe With Sahil
 
-👁️ 5K • 👍 463 • 1h ago
+👁️ 5K • 👍 463 • 2h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 164 • 💬 7 • ⏱️ 4:00 • 14h ago
+👁️ 2K • 👍 164 • 💬 7 • ⏱️ 4:00 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 174 • 👍 12 • 💬 2 • ⏱️ 5:41 • 5h ago
+👁️ 174 • 👍 12 • 💬 2 • ⏱️ 5:41 • 6h ago
 
 ---
 

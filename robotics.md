@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-05T15:13:14.333932+00:00'
+updated: '2026-03-05T16:09:56.529138+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 05, 2026 at 15:13 UTC  
+**Last Updated:** March 05, 2026 at 16:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
 
-5h ago
+6h ago
 
 ---
 
@@ -52,13 +52,13 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Hey everyone! I've been working on LinkForge, an open-source tool that turns Blender into a robotics IDE. Instead of hand-writing URDF/XACRO files, you define links, joints, sensors, and ros2_control interfaces visually in Blender 4.2+. A built-in linter catches physics issues like negative inertias or disconnected chains before export. v1.3.0 just released, with: • NumPy-accelerated inertia calculations • Improved ros2_control support • Better export validation GitHub: https://github.com/arounamounchili/linkforge Happy to answer questions or get feedback!
 
-9h ago
+10h ago
 
 ---
 
 **[Not Exactly How I Expected a Wheel Robot to Behave](https://www.reddit.com/r/robotics/comments/1rkrk1h/not_exactly_how_i_expected_a_wheel_robot_to_behave/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey everyone! I've been working on LinkForge, an open-source tool that turns Ble
 
 I’m a mechatronics engineer starting my first serious 6-axis desktop arm build (HexGrip V1.0). I’ve spent the last week deep-diving into torque specs and power requirements, and I just got all the hardware in hand. Before I start 3D printing the frame, I wanted to see if anyone has run this specific combo or if I’m walking into a trap. The Hardware Stack: The Brain: Arduino Nano. The Muscle: 4x MG996R (Base, Shoulder, Elbow, Wrist Roll) + 3x MG90S (Wrist Pitch/Yaw, Gripper). The Power: PCA9685 PWM Driver + Buck Converter (stepping down to 5-6V). The Control: NRF24L01 for future wireless joystick input. My Logic: I originally looked at SG90s, but the torque math for a 6-DOF arm is brutal—I didn't want the shoulder to stall the moment I added a gripper. I’m hoping the MG996Rs have enough holding torque for a 3D-printed PETG or PLA+ frame. The Query: Buck Converter: For those who’ve used this mix, do you find the MG90S servos get jittery or overheat if I run the whole bus at 6V to maximize the MG996R torque? NRF24L01: I've heard these are notorious for noise. Should I be shielding this from the PWM driver immediately, or is it manageable on a desktop-sized build?
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ I’m a mechatronics engineer starting my first serious 6-axis desktop arm build
 
 https://preview.redd.it/777n5xb5q8ng1.png?width=741&format=png&auto=webp&s=879fc3ae0b3efaf9fbcd08bbf53cc366aec582be Hi everyone, I'm currently working on a small DIY autonomous surface vehicle (USV) project and I'm trying to figure out if something like this would actually be useful to people. The idea is a low-cost developer platform for experimenting with autonomous boats. Current concept: • ~70 cm trimaran hull • RC control + autonomous navigation • GPS waypoint navigation • Raspberry-Pi5, ESP32 based controller • Sensor expansion (water temperature, water quality, etc.) • Target price around $300–400 Most research USVs cost thousands of dollars, which makes them difficult to access for small labs, schools, or hobby projects. So I'm exploring whether a much cheaper DIY platform could make experimentation easier. I'm curious what people here would actually use something like this for. Possible use cases I had in mind: 1️⃣ Environmental data collection 2️⃣ Autonomous navigation experiments 3️⃣ Robotics / control education 4️⃣ Just a fun robotics project I'd really appreciate your thoughts. Also curious about a few things: • What features would you expect from a platform like this? • What sensors would you want to add? • Would the $300–400 price range feel reasonable? Thanks!
 
-15m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 ——————————————————————————— Edit: Waitlist at https://ajime.io First 200 users gets 6 months of free Cloud hosting of up to 5 devices and early access to the platform ——————————————————————————— I previously shared with you a problem that I have been tackling, robotics cloud connectivity managements, dependencies handling, software deployment. And basically the whole software stack loop of robotics, a fully CI/CD flow made for robotics. Current CI/CD tools were initially made for web development platforms or none physical software. In robotics we handle: embedded software, simulations,physics , sensors, drivers, control algorithms,perception, neural networks, data gathering, retraining, and the list goes on. I built an open source project that will start getting us there, a fully compatible CI/CD and cloud service platform, made exactly for robotics application. I also created an easy to use UI platform to handle devices connectivity, deployment, easily. First 200 users to submit application on our waitlist, will get 6 months of free cloud hosting of up to 5 devices and early access to our platform, those who are interested please comment below :) Hope you’ll enjoy it!
 
-27m ago
+1h ago
 
 ---
 
@@ -98,13 +98,13 @@ Paper: https://pi.website/download/Mem.pdf Blog post: https://www.pi.website/res
 
 Xiaomi is actively testing self-developed humanoid robots on its electric vehicle assembly lines, and they are already keeping up with a blistering production pace of one new car every 76 seconds! Powered by a 4.7-billion-parameter Vision-Language-Action AI model, these bots can install parts and move materials, currently acting as factory interns.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html) • 4h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html) • 5h ago
 
 ---
 
 **[I Had an Existential Realization Today](https://www.reddit.com/r/robotics/comments/1rla0mq/i_had_an_existential_realization_today/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -124,13 +124,13 @@ BMW Group • 6d ago
 
 Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
 
-Business Insider • 19h ago
+Business Insider • 20h ago
 
 ---
 
 **[Amazon cuts more jobs; this time in robotics unit](https://www.reuters.com/business/world-at-work/amazon-cuts-more-jobs-this-time-robotics-unit-2026-03-04/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -138,13 +138,13 @@ Reuters • 17h ago
 
 The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
 
-GeekWire • 16h ago
+GeekWire • 17h ago
 
 ---
 
 **[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
 
-Bloomberg • 23h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -152,7 +152,7 @@ Bloomberg • 23h ago
 
 Four-year contracts at a top Singapore university give Primech about $33M in work and recurring revenue through 2030, supported by 45 cleaning robots.
 
-Stock Titan • 1h ago
+Stock Titan • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ Kraken Robotics • 1d ago
 
 A major online food retailer has started trialling self-driving robots to deliver meals in Sunderland.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -184,7 +184,7 @@ BBC • 8h ago
 
 The global mining robotics market is growing strongly, expected to be valued at around US$1.7 billion in 2026 and projected to reach US$ 3.3 billion by 2033, with a CAGR of 9.8% during the forecast period. This growth stems from rising demand for autonomous solutions that minimize risky human involvement in drilling, hauling, inspection, and excavation tasks while improving extraction precision and operational continuity. Mining robotics enhances productivity and reduces downtime across both und
 
-Yahoo Finance • 12m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -208,7 +208,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 11K • 👍 508 • 💬 40 • ⏱️ 14:35 • 15h ago
+👁️ 11K • 👍 508 • 💬 40 • ⏱️ 14:35 • 16h ago
 
 ---
 
@@ -218,7 +218,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 58 • ⏱️ 1:06 • 13h ago
+👁️ 3K • 👍 58 • ⏱️ 1:06 • 14h ago
 
 ---
 
@@ -268,7 +268,7 @@ What if one robot could handle your entire yard? In this video, we take a first 
 
 📺 RCDriver_Online
 
-👁️ 1K • 👍 60 • 💬 9 • ⏱️ 8:04 • 17h ago
+👁️ 1K • 👍 60 • 💬 9 • ⏱️ 8:04 • 18h ago
 
 ---
 

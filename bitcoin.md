@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-05T15:13:14.324447+00:00'
+updated: '2026-03-05T16:09:56.519942+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 15:13 UTC  
+**Last Updated:** March 05, 2026 at 16:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,19 +87,19 @@ I was fortunate to become a BTC whole coiner about 1yr ago. I got hungry and wen
 
 **[For those always waiting to time the bottom versus DCA…](https://www.reddit.com/r/Bitcoin/comments/1rl1a2b/for_those_always_waiting_to_time_the_bottom/)**
 
-15h ago
+16h ago
 
 ---
 
 **[One tap, paid.](https://www.reddit.com/r/Bitcoin/comments/1rligdq/one_tap_paid/)**
 
-1h ago
+2h ago
 
 ---
 
 **[The Bitcoin CEO ordered me to post this here](https://www.reddit.com/r/Bitcoin/comments/1rkqmp7/the_bitcoin_ceo_ordered_me_to_post_this_here/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -107,13 +107,13 @@ I was fortunate to become a BTC whole coiner about 1yr ago. I got hungry and wen
 
 itcoin just pushed past $70k, and at the same time a lot of software / tech stocks are moving up pretty aggressively as well. I’m seeing strong moves across names in the software space and the IGM/IGV ETFs also had a lot of volume. I don’t see any obvious catalyst that suddenly changed sentiment that much.
 
-12h ago
+13h ago
 
 ---
 
 **[Watch -- this is a HUGE milestone for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rkpcu1/watch_this_is_a_huge_milestone_for_bitcoin/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ itcoin just pushed past $70k, and at the same time a lot of software / tech stoc
 
 DONT BUY ON LEVERAGE. DON'T GET LOAN! I seen many that says if they know how to time and play leverage, the gain is big and guaranteed. 7/10 traders I know was not able to recover their money back with this method. It's tempting but not worth it. Buy small spot on weekly/monthly basis. Don't buy 1 BTC straight up if you are new. Set a goal of at least 6 months to accumulate and achieve getting 1 BTC. The longer the better. Successful people are discipline people. Once you develop discipline and able to achieve 1 BTC, you are 10 steps ahead of being more successful than most people. You may be one of those that fall sick easily when you started doing trading. Set a goal to look at your phone lesser and lesser per day. Focus on your quality of sleep. I cannot stress this enough. Don't end up not able to sleep because your instinct tells you to look at the price fluctuation. Get a healthy hobby that you can do yourself. Such joining a cooking class. Make new friends that are non-traders. Spend less time with friends that do trading. It will make you last longer in any investment you do. Also, dont be too quick to ask for advices from your trader friends that you respect and deem highly. You may ruin your friendship with them with one bad call from them. Don't risk it. Avoid ego challenge to see who is right or wrong. Not worth it Trust the process. When there is a dip, it will rally. Buy the dip and wait. Diamond hand. Be a hodler. Know that you are preparing yourself better for a new world in the future. Do once a week workout. It is a lot of ask because you might be working overtime or raising a family with kids. but it is important as it will fix your mind to be more positive. Your body will not be quick to fall sick. You will be a better role model too. Be better. Eat healthy. For obvious reasons. You are what you eat. Don't join or pay for any investment guru group. Even those on YouTube. Watching too many of these will cause you more harm than good along the way. Learn this anology. Big whales gets hungry and will move. Know that we are still early, those old big whales in wall street are only comfortable eating in that stock market ocean because it's a space they have open their mouth since the early beginning. They are just waiting for fishes like us to find food in their mouth and ready to gobble us one go when they feel like it. Small people like us won't be able to grow wealth like them. Hence the rich gets richer and the poor gets poorer. Only few fishes will survive and get fat, the rest dies. New generation will move their money to crypto space to grow their wealth because less whales and when that happens, the big whales will soon move to our space because there aren't enough fishes for them to eat in their old space. Time is on your side, so use it well.
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ DONT BUY ON LEVERAGE. DON'T GET LOAN! I seen many that says if they know how to 
 
 that turned out to be a lie :-(
 
-23h ago
+1d ago
 
 ---
 
@@ -145,7 +145,7 @@ Genuine question. With all the payment apps and instant bank transfers now, I wa
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -157,7 +157,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The cryptocurrency traders near key price zone that has marked major turning points over the past two years.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 6h ago
 
 Commodity volatility could pressure Bitcoin, says Bloomberg analyst Mike McGlone. Bitcoin needs low stock-market volatility, he said. Analysts see short-term bullish momentum. Bitcoin’s recent price ...
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 45m ago
 
 The increase follows a mining fleet expansion as the firm focuses on accumulating bitcoin through large-scale self-mining.
 
-The Block • 40m ago
+The Block • 1h ago
 
 ---
 
@@ -181,19 +181,19 @@ The Block • 40m ago
 
 The world's largest cryptocurrency has gained about 8% over the last 24 hours, hitting its highest level in a month.
 
-Investopedia • 18h ago
+Investopedia • 19h ago
 
 ---
 
 **[Crypto bill hits new impasse, raising doubts over its future](https://www.reuters.com/business/finance/crypto-bill-hits-new-impasse-raising-doubts-over-its-future-2026-03-05/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
 **[Coinbase, Galaxy, bitcoin miners surge after Trump urges passage of stalled crypto bill (COIN:NASDAQ)](https://seekingalpha.com/news/4560781-coinbase-galaxy-bitcoin-miners-surge-after-trump-urges-passage-of-stalled-crypto-bill)**
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -201,7 +201,7 @@ Seeking Alpha • 22h ago
 
 New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -209,7 +209,7 @@ Fortune • 7h ago
 
 Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
 
-Business Insider • 19h ago
+Business Insider • 20h ago
 
 ---
 
@@ -217,7 +217,7 @@ Business Insider • 19h ago
 
 Experts push back on billionaire hedge fund manager Ray Dalio's warning of bitcoin lacking gold’s qualities and risks from surveillance, quantum computing and lack of central bank buying.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -289,7 +289,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 14m ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 1h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin has been declared dead 477 times, yet the network keeps surviving and gr
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 68 • ⏱️ 22:18 • 17h ago
+👁️ 19K • 👍 1K • 💬 68 • ⏱️ 22:18 • 18h ago
 
 ---
 
@@ -329,7 +329,7 @@ It really does feel like we live in a simulation with respect to Bitcoin price a
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 5K • 💬 366 • ⏱️ 17:58 • 17h ago
+👁️ 74K • 👍 5K • 💬 366 • ⏱️ 17:58 • 18h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin, stocks, market moves, Iran, and breaking news! BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 4K • 👍 361 • 💬 31 • ⏱️ 16:42 • 2h ago
+👁️ 4K • 👍 361 • 💬 31 • ⏱️ 16:42 • 3h ago
 
 ---
 
@@ -359,7 +359,7 @@ Global markets are in panic mode after a shocking escalation in the Middle East:
 
 📺 Crypto Insider
 
-👁️ 19K • 👍 806 • 💬 49 • ⏱️ 4:36 • 21h ago
+👁️ 19K • 👍 806 • 💬 49 • ⏱️ 4:36 • 22h ago
 
 ---
 
@@ -379,7 +379,7 @@ Are you ready? Top-Tier Crypto Trading Starts Here Earn Up to $130 INSTANTLY, $3
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 251 • 💬 66 • ⏱️ 15:30 • 20h ago
+👁️ 5K • 👍 251 • 💬 66 • ⏱️ 15:30 • 21h ago
 
 ---
 

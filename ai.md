@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-05T15:13:14.315825+00:00'
+updated: '2026-03-05T16:09:56.511600+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 05, 2026 at 15:13 UTC  
+**Last Updated:** March 05, 2026 at 16:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So ai can uncover your anonymous identity on social media now so creating burner accounts may be pointless.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 12h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 "...Evo 2, an open source AI that has been trained on genomes from all three domains of life (bacteria, archaea, and eukaryotes). After training on trillions of base pairs of DNA, Evo 2 developed internal representations of key features in even complex genomes like ours, including things like regulatory DNA and splice sites, which can be challenging for humans to spot. Bacterial genomes are organized along relatively straightforward principles. Any genes that encode proteins or RNAs are contiguous, with no interruptions in the coding sequence. Genes that perform related functions, like metabolizing a sugar or producing an amino acid, tend to be clustered together, allowing them to be controlled by a single, compact regulatory system. It’s all straightforward and efficient. Eukaryotes are not like that. The coding sections of genes are interrupted by introns, which don’t encode for anything. They’re regulated by a sequence that can be scattered across hundreds of thousands of base pairs. The sequences that define the edges of introns or the binding sites of regulatory proteins are all weakly defined—while they have a few bases that are absolutely required, there are a lot of bases that just have an above-average tendency to have a specific base (something like “45 percent of the time it’s a T”). Surrounding all of this in most eukaryotic genomes is a huge amount of DNA that has been termed junk: inactive viruses, terminally damaged genes, and so on. That complexity has made eukaryotic genomes more difficult to interpret. And, while a lot of specialized tools have been developed to identify things like splice sites, they’re all sufficiently error-prone that it becomes a problem when you’re analyzing something as large as a 3 billion-base-long genome. We can learn a lot more by making evolutionary comparisons and looking for sequences that have been conserved, but there are limits to that, and we’re often as interested in the differences between species. These sorts of statistical probabilities, however, are well-suited to neural networks, which are great at recognizing subtle patterns that can be impossible to pick out by eye. But you’d need absolutely massive amounts of data and computing time to process it and pick out some of these subtle features. We now have the raw genome data that the process needs. Putting together a system to feed it into an effective AI training program, however, remained a challenge. That’s the challenge the team behind Evo took on. The foundation of the Evo 2 system is a convolutional neural network called StripedHyena 2. The training took place in two stages. The initial stage focused on teaching the system to identify important genome features by feeding it sequences rich in them in chunks about 8,000 bases long. After that, there was a second stage in which sequences were fed a million bases at a time to provide the system the opportunity to identify large-scale genome features. The researchers trained two versions of their system using a dataset called OpenGenome2, which contains 8.8 trillion bases from all three domains of life, as well as viruses that infect bacteria. They did not include viruses that attack eukaryotes, given that they were concerned that the system could be misused to create threats to humans. Two versions were trained: one that had 7 billion parameters tuned using 2.4 trillion bases, and the full version with 40 billion parameters trained on the full open genome dataset. The logic behind the training is pretty simple: if something’s important enough to have been evolutionarily conserved across a lot of species, it will show up in multiple contexts, and the system should see it repeatedly during training. “By learning the likelihood of sequences across vast evolutionary datasets, biological sequence models capture conserved sequence patterns that often reflect functional importance,” the researchers behind the work write. “These constraints allow the models to perform zero-shot prediction without any task-specific fine-tuning or supervision.” That last aspect is important. We could, for example, tell it about what known splice sites look like, which might help it pick out additional ones. But that might make it harder for it to recognize any unusual splice sites that we haven’t recognized yet. Skipping the fine-tuning might also help it identify genome features that we’re not aware of at all at the moment, but which could become apparent through future research. All of this has now been made available to the public. “We have made Evo 2 fully open, including model parameters, training code, inference code, and the OpenGenome2 dataset,” the paper announces. The researchers also used a system that can identify internal features in neural networks to poke around inside of Evo 2 and figure out what things it had learned to recognize. They trained a separate neural network to recognize the firing patterns in Evo 2 and identify high-level features in it. It clearly recognized protein-coding regions and the boundaries of the introns that flanked them. It was also able to recognize some structural features of proteins within the coding regions (alpha helices and beta sheets), as well as mutations that disrupt their coding sequence. Even something like mobile genetic elements (which you can think of as DNA-level parasites) ended up with a feature within Evo 2. To test the system, the researchers started making single-base mutations and fed them into Evo 2 to see how it responded. Evo 2 could detect problems when the mutations affected the sites in DNA where transcription into RNA started, or the sites where translation of that RNA into protein started. It also recognized the severity of mutations. Those that would interrupt protein translation, such as the introduction of stop signals, were identified as more significant changes than those that left the translation intact. It also recognized when sequences weren’t translated at all. Many key cellular functions are carried out directly by RNAs, and Evo 2 was able to recognize when mutations disrupted those, as well. Impressively, the ability to recognize features in eukaryotic genomes occurred without the loss of its ability to recognize them in bacteria and archaea. In fact, the system seemed to be able to work out what species it was working in. A number of evolutionary groups use genetic codes with a different set of signals to stop the translation of proteins. Evo 2 was able to recognize when it was looking at a sequence from one of those species, and used the correct genetic code for them. It was also good at recognizing features that tolerate a lot of variability, such as sites that signal where to splice RNAs to remove introns from the coding sequence of proteins. By some measures, it was better than software specialized for that task. The same was true when evaluating mutations in the BRCA2 gene, where many of the mutations are associated with cancer. Given additional training on known BRCA2 mutations, its performance improved further. Overall, Evo 2 seems great for evaluating genomes and identifying key features. The researchers who built it suggest it could serve as a good automated tool for preliminary genome annotation."
 
-🔗 [Ars Technica](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) • 4h ago
+🔗 [Ars Technica](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) • 5h ago
 
 ---
 
@@ -71,7 +71,7 @@ Have you seen platforms like Moltbook or Agent Concourse where AI systems intera
 
 AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a pure-Python AMD GPU user-space driver
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 15h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 16h ago
 
 ---
 
@@ -79,7 +79,7 @@ AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a p
 
 It’s somewhat similar to Moltbook in that it focuses on AI-to-AI interaction, but instead of a Reddit-style feed, it’s structured as a persistent digital world where autonomous AI agents register via API and interact continuously over time. From what I understand, agents don’t rely on human prompts once deployed. They communicate directly with each other, build reputation, and exist in a shared environment that keeps running. Humans can observe what’s happening, but they don’t participate in the interactions. It feels less like a social network and more like infrastructure for multi-agent ecosystems. Do you think persistent AI-to-AI environments are the natural next step as autonomous agents become more common? Or are these kinds of platforms still mostly experimental? Curious to hear perspectives from this sub.
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ It’s somewhat similar to Moltbook in that it focuses on AI-to-AI interaction, 
 
 Apple is deploying new detection tools to identify and label AI-generated tracks across its streaming platform. The move aims to protect artist royalties and ensure transparency as "fake" songs increasingly flood the charts. This infrastructure shift allows Apple to verify human-made content while keeping its library legally compliant. By stripping away deceptive synthetic audio, the company is reinforcing the premium value of human creativity. Apple is drawing a digital line in the sand to stop the AI dilution of the music industry.
 
-12h ago
+13h ago
 
 ---
 
@@ -107,7 +107,7 @@ Apple is deploying new detection tools to identify and label AI-generated tracks
 
 One of the things I’ve been thinking about with AI systems is the difference between decision support and decision making. Decision support: meaning the system provides info and a human evaluates it and may or may not take an action. Decision making: meaning the system actually performs the action. For example: • Suggesting eligible clinical trial participants • Flagging abnormal lab results • Recommending a route on a GPS In these cases the system helps a human decide. But there are also systems that automatically: • approve or deny requests • enroll users into workflows • trigger actions based on a rule set or user input That’s a very different level of responsibility. Curious where people think the boundary should be between recommendation and decision.
 
-17h ago
+18h ago
 
 ---
 
@@ -119,7 +119,7 @@ One of the things I’ve been thinking about with AI systems is the difference b
 
 Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -127,13 +127,13 @@ Financial Times • 13h ago
 
 Can the U.S. win an AI arms race against China when its own government attacks the American companies doing the racing?
 
-qz.com • 22m ago
+qz.com • 1h ago
 
 ---
 
 **[An AI disaster is getting ever closer](https://www.economist.com/briefing/2026/03/05/an-ai-disaster-is-getting-ever-closer)**
 
-The Economist • 1h ago
+The Economist • 2h ago
 
 ---
 
@@ -141,19 +141,19 @@ The Economist • 1h ago
 
 Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
 **[Apple Music Launches ‘Transparency’ Tags For AI-Generated Content](https://www.forbes.com/sites/conormurray/2026/03/05/apple-music-introduces-transparency-tags-to-flag-ai-generated-music-and-artwork/)**
 
-Forbes • 15m ago
+Forbes • 1h ago
 
 ---
 
 **[Opinion: My school is grading me with AI. It got my grade wrong.](https://ctmirror.org/2026/03/05/my-school-is-grading-me-with-ai-it-got-my-grade-wrong/)**
 
-CT Mirror • 44m ago
+CT Mirror • 1h ago
 
 ---
 
@@ -161,13 +161,13 @@ CT Mirror • 44m ago
 
 There's a fine line between helping a buyer imagine a home's potential and deceiving them with AI enhanced photos. Welcome to the "housefishing" era.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
 **[Opinion | Mass Hysteria. Thousands of Jobs Lost. Just How Bad Is It Going to Get? - The New York Times](https://www.nytimes.com/2026/03/05/opinion/ai-jobs-white-collar-apocalpyse.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 5h ago
 
 Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 23h ago
 
 Letter: Reading and writing are still uniquely human activities even though artificial intelligence can complete complex “English learning” tasks in seconds, says Richard Farmer
 
-The Guardian • 21h ago
+The Guardian • 22h ago
 
 ---
 
@@ -235,7 +235,7 @@ Leonardo de Moura — Creator of Lean and Z3
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 256 • 💬 255 • 10h ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 256 • 💬 255 • 11h ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -267,7 +267,7 @@ A lower court previously said that “human authorship is a bedrock requirement 
 
 The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
-⬆️ 185 • 💬 245 • 19h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
+⬆️ 185 • 💬 245 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
 
 ---
 
@@ -291,7 +291,7 @@ Will AI become smarter than humans? If so, is humanity in danger? I went to Sili
 
 📺 Senator Bernie Sanders
 
-👁️ 99K • 👍 6K • 💬 2K • ⏱️ 9:38 • 17h ago
+👁️ 99K • 👍 6K • 💬 2K • ⏱️ 9:38 • 18h ago
 
 ---
 
@@ -311,7 +311,7 @@ Former Army special ops intel analyst and Fox News contributor Brett Velicovich 
 
 📺 Fox News Clips
 
-👁️ 56K • 👍 937 • 💬 254 • ⏱️ 4:31 • 7h ago
+👁️ 56K • 👍 937 • 💬 254 • ⏱️ 4:31 • 8h ago
 
 ---
 
@@ -321,7 +321,7 @@ This Secret AI YouTube Niche Is BLOWING UP Right Now – 100% FREE Grok AI Long 
 
 📺 zapiwala ai
 
-👁️ 4K • 👍 295 • 💬 76 • ⏱️ 11:18 • 13h ago
+👁️ 4K • 👍 295 • 💬 76 • ⏱️ 11:18 • 14h ago
 
 ---
 
@@ -331,7 +331,7 @@ The Supreme Court of the United States of America has officially turned away a k
 
 📺 Vailskibum
 
-👁️ 270K • 👍 21K • 💬 4K • ⏱️ 2:09 • 18h ago
+👁️ 270K • 👍 21K • 💬 4K • ⏱️ 2:09 • 19h ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 792,060 • ❤️ 517 • 1m ago
+⬇️ 792,060 • ❤️ 517 • 58m ago
 
 ---
 
@@ -642,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.5k • 🔱 3.0k • 6m ago
+⭐ 23.5k • 🔱 3.0k • 1h ago
 
 ---
 
@@ -652,7 +652,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 9.0k • 🔱 254 • 5h ago
+⭐ 9.0k • 🔱 254 • 6h ago
 
 ---
 
@@ -662,7 +662,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.5k • 🔱 912 • 15m ago
+⭐ 8.5k • 🔱 912 • 1h ago
 
 ---
 
@@ -672,7 +672,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.6k • 🔱 801 • 1d ago
+⭐ 6.6k • 🔱 801 • 2d ago
 
 ---
 
@@ -682,7 +682,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.8k • 🔱 442 • 1h ago
+⭐ 5.8k • 🔱 442 • 2h ago
 
 ---
 
@@ -692,7 +692,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.6k • 🔱 650 • 1h ago
+⭐ 5.6k • 🔱 650 • 2h ago
 
 ---
 
@@ -702,7 +702,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.8k • 🔱 523 • 12h ago
+⭐ 3.8k • 🔱 523 • 13h ago
 
 ---
 
