@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T16:09:56.525922+00:00'
+updated: '2026-03-05T18:27:02.907693+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 16:09 UTC  
+**Last Updated:** March 05, 2026 at 18:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,094.46
+### $2,087.46
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +8.1%  
-**30d:** -2.9%  
-**90d:** -31.3%  
-**1y:** -5.4%  
+**24h:** -5.1%  
+**7d:** +7.1%  
+**30d:** -3.8%  
+**90d:** -32.0%  
+**1y:** -6.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $253.20B
+**Market Cap:** $249.92B
 Rank #2
 
 **Circulating Supply:** 120,692,109 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.8%
+-58.2%
 
 **All-Time Low:** $0.43
-+482403.8%
++477763.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed one of the earliest smart contracts on the network: TerraNullius. What it does: Anyone can "claim" a hex coordinate and attach a message to it — a permanent, uncensorable message board on the blockchain. No tokens, no governance, no economic incentive. Just messages, forever. The numbers: - Deployed at block 49,880 (August 7, 2015) - Compiled with Solidity v0.1.1 - 25 claims in 2015, then it sat mostly dormant - 687 claims during the 2021 NFT boom (people realized these were basically proto-NFTs) - 805 total transactions and counting — still active in 2026 It was referenced by the Guinness World Records and is one of the earliest surviving interactive contracts on Ethereum. The original announcement was a Reddit post right here on r/ethereum, with Semiel sharing a Pastebin script so people could interact with it. What's fascinating is how it predates every pattern we now take for granted — ERC-20, ERC-721, ENS, DAOs. This was someone experimenting with permanence on a chain that was two weeks old. Contract: 0x6e38A457C722C6011B2dfa06d49240e797844d66 Full writeup with sources and verification: EthereumHistory.com If anyone has stories about early Ethereum experiments like this, I'd love to hear them. We're trying to document the pre-2017 era before the context is lost entirely.
 
-2h ago
+4h ago
+
+---
+
+**[X402 Real Use Cases](https://www.reddit.com/r/ethereum/comments/1rlmuqu/x402_real_use_cases/)**
+
+I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402. Here's what almost all of them said: "Why would an AI agent pay per usage for a certain app when you can just create a SaaS product, ask for a top-up, and internally use credits?" x402 doesn't replace the per-usage model. It solves one specific problem: no human in the loop. There are 2 use cases: Anonymous autonomous agent. No account. No signup. No pre-loaded balance. Pays mid-task and moves on. Humans with accounts created - that want to automate - a top-up credit model wins with pay per usage with credits. BUT Almost every SaaS would want you to create your account. SO x402 is really only good for automatic top-ups / payments. Change my mind.
+
+1h ago
 
 ---
 
@@ -88,7 +96,7 @@ Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed 
 
 Been doing Ethereum archaeology and found a useful reminder: token-for-token swap behavior existed on-chain in 2016, long before AMMs were mainstream. What was different vs modern DeFi: - no pooled liquidity / routing engines - much heavier coordination + trust assumptions - primitive UX, but clearly permissionless exchange intent It feels like DeFi history is better modeled as a slow primitive stack (2015-2018) rather than a sudden 2020 birth. Question for the OGs here: which pre-2018 contracts do you consider the most important proto-DeFi stepping stones?
 
-1h ago
+3h ago
 
 ---
 
@@ -104,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 23h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 1d ago
 
 ---
 
@@ -140,14 +148,6 @@ Let’s address the elephant in the room first. This community (and Vitalik hims
 
 ---
 
-**[Daily General Discussion March 03, 2026](https://www.reddit.com/r/ethereum/comments/1rjhj9n/daily_general_discussion_march_03_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,67 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 22h ago
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin, Ethereum ETFs Snap Five-Week Losing Streak as Crypto Funds Add $1 Billion](https://decrypt.co/359587/bitcoin-ethereum-etfs-snap-losing-streak-crypto-funds-1-billion)**
+
+Bitcoin and other crypto funds rebounded with $1 billion worth of inflows last week, ending a five-week, $4 billion losing streak.
+
+Decrypt • 3d ago
+
+---
+
+**[OKX’s native token outperforms Bitcoin and Ethereum as exchange announce NYSE deal](https://finance.yahoo.com/news/okx-native-token-outperforms-bitcoin-152824004.html)**
+
+NYSE owner made a deal with crypto exchange OKX. The deal values OKX at $25 billion. OKX’s native OKB token has rocketed upwards as a result.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[This Investor Dumped a $3 Million Ethereum ETF, but Added to a Bitcoin Position Last Quarter](https://www.fool.com/coverage/filings/2026/03/05/this-investor-dumped-a-usd3-million-ethereum-etf-but-added-to-a-bitcoin-position-last-quarter/)**
+
+The iShares Ethereum Trust ETF offers regulated ether exposure via a trust structure, trading on NASDAQ with daily liquidity for investors.
+
+The Motley Fool • 36m ago
+
+---
+
+**[Current price of Ethereum for March 5, 2026](https://fortune.com/article/price-of-ethereum-03-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
+
+---
+
+**[Bitcoin Price Surges Above $72,000. Why Cryptos Are Defying Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqeTWBXuA0X3ms1c753UXNKulr9q1yDk44LwESHhqxAvRI2QyVMjcbSV&gaa_ts=69a9ce5f&gaa_sig=ZUr63lX46domBN5xD948BBqjMbyiY1vXaM-rsuuz4NrM5NPpYH99Itn9HJkOjJeL6mllCsa4OMUH3Im9DKUuDA%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Wallet Maintenance for Ethereum Network (ETH) - 2026-03-04](https://www.binance.com/en/support/announcement/detail/33cffe565e5747639eb1db1abec008a3)**
+
+Binance • 1d ago
+
+---
+
+**[31.6 Million ETH Leaves Exchanges as Vitalik Calls for Ethereum “Sanctuary” Tech](https://finance.yahoo.com/news/31-6-million-eth-leaves-070249895.html)**
+
+ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
+
+Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
+
+The Block • 1d ago
 
 ---
 
@@ -165,64 +225,6 @@ CoinDesk • 22h ago
 Ethereum’s co-founder is calling for “sanctuary technologies” spanning privacy tools, social systems, and infrastructure beyond finance.
 
 Decrypt • 3d ago
-
----
-
-**[Ethereum ETFs Draw In $169M, Highest Level in Two Months](https://finance.yahoo.com/news/ethereum-etfs-draw-169m-highest-124435429.html)**
-
-Ethereum ETFs saw inflows of $169 million Wednesday, as geopolitical tensions and price reset institutions’ crypto appetite.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Current price of Ethereum for March 4, 2026](https://fortune.com/article/price-of-ethereum-03-04-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 17h ago
-
----
-
-**[Got $1,000? This Cryptocurrency Is a No-Brainer Buy for Long-Term Holding](https://www.fool.com/investing/2026/03/05/got-1000-this-cryptocurrency-is-a-no-brainer-buy-f/)**
-
-The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
-
-The Motley Fool • 7h ago
-
----
-
-**[Bitcoin Price Surges Above $72,000. Ethereum, XRP, Cryptos Defy Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqdKzLNPySJt8MU-QU588xfEZNb5VAjkQhfPjyQmjIO9hjS4NyIJ3Wb1&gaa_ts=69a9a07d&gaa_sig=gZbcDEkIre2ifBX5YAPlb_7Ih6YbXCXlPpOFcQ0pWtU7j9jm-GBKRxbp036dbMGZRCpFKnrIFMVKjeRxp35lxQ%3D%3D)**
-
-Barron's • 23h ago
-
----
-
-**[Ethereum Price, BitMine Shares Jump as Tom Lee's Treasury Reports Latest Buy](https://finance.yahoo.com/news/ethereum-price-bitmine-shares-jump-153447384.html)**
-
-Publicly traded Ethereum treasury BitMine Immersion Technologies added to its ETH stack last week despite its recent decline.
-
-Yahoo Finance • 3d ago
-
----
-
-**[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
-
-TipRanks • 8h ago
-
----
-
-**[Bitcoin miner turned Ethereum treasury firm stakes over $6B in ETH as BMNR shares slide and ether dips.](https://www.coindesk.com/business/2026/03/02/bitmine-boosts-ether-holdings-to-4-47m-tokens-after-usd98m-eth-purchase)**
-
-Bitmine chair Tom Lee says company keeps accumulating ETH during market pullback while targeting $253M in annual staking rewards.
-
-CoinDesk • 3d ago
-
----
-
-**[Key facts: Harvard buys $86.8M in Ethereum shares; U.S. ether ETFs see volatility](https://www.tradingview.com/news/tradingview:331ab23c2055e:0-key-facts-harvard-buys-86-8m-in-ethereum-shares-u-s-ether-etfs-see-volatility/)**
-
-TradingView • 16h ago
 
 ---
 
@@ -236,37 +238,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 206 • 💬 2 • ⏱️ 1:16 • 3h ago
+👁️ 8K • 👍 357 • 💬 9 • ⏱️ 1:16 • 5h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum &quot;Buy&quot; 50% Below Record Highs, ETFs Adding Exposure](https://www.youtube.com/watch?v=zr0xNUhtXcY)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FV9pHXeiaxk)**
 
-Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum are both buys amid steep sell-offs in the crypto ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Schwab Network
+📺 More Crypto Online
 
-👁️ 5K • 👍 65 • 💬 11 • ⏱️ 8:40 • 1d ago
-
----
-
-**[BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=prGnQUx-jQI)**
-
-BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 342 • 💬 81 • ⏱️ 17:29 • 16h ago
-
----
-
-**[FINALLY REVEALED → Why Crypto Is Going Up Right Now](https://www.youtube.com/watch?v=9U0ctEDMJw8)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 61K • 👍 2K • 💬 124 • ⏱️ 10:14 • 2d ago
+👁️ 851 • 👍 105 • 💬 3 • ⏱️ 3:54 • 2h ago
 
 ---
 
@@ -276,17 +258,17 @@ With all the volatility in the middle-east, crypto prices have been relatively s
 
 📺 Elijah Cheng
 
-👁️ 174 • 👍 19 • 💬 2 • ⏱️ 25:01 • 1h ago
+👁️ 939 • 👍 97 • 💬 17 • ⏱️ 25:01 • 3h ago
 
 ---
 
-**[Crypto Live Trading 5 March ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=lLHugllZtCo)**
+**[Bitcoin &amp; Ethereum &quot;Buy&quot; 50% Below Record Highs, ETFs Adding Exposure](https://www.youtube.com/watch?v=zr0xNUhtXcY)**
 
-ALL TRADING PLATFORMS (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google Form For EMA ...
+Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum are both buys amid steep sell-offs in the crypto ...
 
-📺 Vibe With Sahil
+📺 Schwab Network
 
-👁️ 5K • 👍 463 • 2h ago
+👁️ 5K • 👍 68 • 💬 11 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -296,27 +278,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 164 • 💬 7 • ⏱️ 4:00 • 15h ago
+👁️ 3K • 👍 165 • 💬 7 • ⏱️ 4:00 • 18h ago
 
 ---
 
-**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
+**[FINALLY REVEALED → Why Crypto Is Going Up Right Now](https://www.youtube.com/watch?v=9U0ctEDMJw8)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
 
-📺 Trade Confident
+📺 Altcoin Daily
 
-👁️ 962 • 👍 24 • 💬 6 • ⏱️ 5:09 • 2d ago
+👁️ 61K • 👍 2K • 💬 125 • ⏱️ 10:14 • 2d ago
 
 ---
 
-**[ETH BREAKOUT OR FAKEOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=c-sjutJm_no)**
+**[BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=prGnQUx-jQI)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 174 • 👍 12 • 💬 2 • ⏱️ 5:41 • 6h ago
+👁️ 8K • 👍 356 • 💬 82 • ⏱️ 17:29 • 18h ago
 
 ---
 
@@ -327,6 +309,26 @@ Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/Paino
 📺 Pain of Crypto
 
 👁️ 4K • 👍 135 • 💬 44 • ⏱️ 6:27 • 2d ago
+
+---
+
+**[Sui Founder Explains Why Ethereum &amp; Solana Will Be Left Behind | E161](https://www.youtube.com/watch?v=5Tunu3t7kQ4)**
+
+Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw away everything they built because it wasn't good ...
+
+📺 When Shift Happens
+
+👁️ 2K • 👍 160 • 💬 47 • ⏱️ 49:16 • 3h ago
+
+---
+
+**[ETH BREAKOUT OR FAKEOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=c-sjutJm_no)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 233 • 👍 11 • 💬 2 • ⏱️ 5:41 • 8h ago
 
 ---
 
