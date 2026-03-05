@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-05T08:43:39.738967+00:00'
+updated: '2026-03-05T09:43:42.358012+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 05, 2026 at 08:43 UTC  
+**Last Updated:** March 05, 2026 at 09:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 So ai can uncover your anonymous identity on social media now so creating burner accounts may be pointless.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 5h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 6h ago
 
 ---
 
 **[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 12h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 13h ago
 
 ---
 
@@ -55,7 +55,7 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a pure-Python AMD GPU user-space driver
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 8h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 9h ago
 
 ---
 
@@ -63,19 +63,27 @@ AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a p
 
 Apple is deploying new detection tools to identify and label AI-generated tracks across its streaming platform. The move aims to protect artist royalties and ensure transparency as "fake" songs increasingly flood the charts. This infrastructure shift allows Apple to verify human-made content while keeping its library legally compliant. By stripping away deceptive synthetic audio, the company is reinforcing the premium value of human creativity. Apple is drawing a digital line in the sand to stop the AI dilution of the music industry.
 
-5h ago
+6h ago
 
 ---
 
 **[The OpenClaw Meltdown: 9 CVEs, 2,200 Malicious Skills, and the Most Comprehensive Real-World Test of the OWASP Agentic Top 10](https://www.reddit.com/r/artificial/comments/1rkiq9a/the_openclaw_meltdown_9_cves_2200_malicious/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 21h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0087-openclaw-meltdown-owasp-agentic-living-case-study) • 22h ago
+
+---
+
+**[Is conversational AI part of the attention economy?](https://www.reddit.com/r/artificial/comments/1rlcj79/is_conversational_ai_part_of_the_attention_economy/)**
+
+When people talk about the attention economy, they usually mean TikTok or Instagram. But I’ve been wondering: could conversational AI also be part of the attention economy — even without feeds, algorithms, or autoplay? A lot of people spend time chatting with AI without a clear goal. Is that wasted attention, or a new kind of value? Read it here
+
+56m ago
 
 ---
 
 **[OpenAI looking at contract with NATO, source says](https://www.reddit.com/r/artificial/comments/1rkm1it/openai_looking_at_contract_with_nato_source_says/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 18h ago
+🔗 [reuters.com](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/) • 19h ago
 
 ---
 
@@ -83,7 +91,7 @@ Apple is deploying new detection tools to identify and label AI-generated tracks
 
 One of the things I’ve been thinking about with AI systems is the difference between decision support and decision making. Decision support: meaning the system provides info and a human evaluates it and may or may not take an action. Decision making: meaning the system actually performs the action. For example: • Suggesting eligible clinical trial participants • Flagging abnormal lab results • Recommending a route on a GPS In these cases the system helps a human decide. But there are also systems that automatically: • approve or deny requests • enroll users into workflows • trigger actions based on a rule set or user input That’s a very different level of responsibility. Curious where people think the boundary should be between recommendation and decision.
 
-10h ago
+11h ago
 
 ---
 
@@ -91,21 +99,13 @@ One of the things I’ve been thinking about with AI systems is the difference b
 
 Ollama FX es una interfaz de escritorio Open Source para Ollama con grandes mejoras en gestión de chats, RAG, multimodalidad y organización 🔥 📅 Lanzado hoy en GitHub — https://github.com/fredericksalazar/OllamaFX 🧠 Principales novedades de la v0.5.0 ⭐ 🔍 Soporte RAG y análisis de archivos Carga y análisis de archivos directamente en chats: ahora puedes subir documentos y explorar su contenido con tus modelos LLM locales. Esta funcionalidad abre el camino a usar OllamaFX como herramienta de RAG (Retrieval-Augmented Generation) en workflows locales de IA sin necesidad de servicios externos. 👉 Permite extraer insights, responder preguntas y recuperar contenido relevante de tus propios archivos directamente desde la UI. 📁 Organización real de chats Carpetas para agrupar conversaciones: ordena tus chats por proyectos, temas o modelos. Mover chats entre carpetas con un simple arrastre. Papelera de reciclaje integrada: los chats (y carpetas) eliminados se mantienen hasta 30 días, para que no pierdas nada por accidente. 🖼️ Multimodalidad visual Soporte nativo para cargar imágenes y conversar con modelos que las interpretan. 📄 Exportación & mejor renderizado Exporta chats completos a formatos útiles. Visualizador Markdown mejorado con renderizado más limpio y estable para texto rico. ⚙️ Mejoras internas y experiencia de usuario Refactorizaciones internas para mayor estabilidad y escalabilidad. Optimización en filtros de modelos y selección. Ajustes finos en UI para una experiencia más fluida. Ampliación de localización / soporte multilenguaje. Indicadores visuales mientras el asistente “piensa” y feedback más claro durante la generación. 📚 Otras mejoras Estadísticas de uso y métricas básicas desde la vista “About”. Preparación para futuras integraciones y soporte a nuevos formatos LLM locales. 📦 Dónde descargar Todos los assets de la versión están listos para descargar en la sección de Releases del repo: 👉 https://github.com/fredericksalazar/OllamaFX/releases/tag/v0.5.0 🤝 Cómo ayudar al proyecto Si te gusta OllamaFX, puedes: ⭐ Dejar una estrella en GitHub 💬 Abrir issues con ideas o bugs 📄 Contribuir a la documentación 🧠 Proponer mejoras o nuevas integrations
 
-11h ago
+12h ago
 
 ---
 
 **[New Port Richey City Council considers automatic tag reader cameras](https://www.reddit.com/r/artificial/comments/1rl2xib/new_port_richey_city_council_considers_automatic/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/pasco-county/new-port-richey-city-council-considers-auto-tag-reader-cameras/) • 8h ago
-
----
-
-**[Fireflies and Otter just launched MCP connectors for meeting data — here's the open-source one you can self-host](https://www.reddit.com/r/artificial/comments/1rkli5j/fireflies_and_otter_just_launched_mcp_connectors/)**
-
-Fireflies just became the first meeting tool in Anthropic's official Claude MCP Directory. Otter.ai launched an enterprise MCP server too. tl;dv has one as well. The "meeting data + MCP" space is heating up fast. But all three are closed-source, cloud-only. Your meeting data — strategy discussions, financials, personnel decisions — goes through their servers. I've been building Vexa, an open-source meeting bot API, and we've had a native MCP server since before any of them. The difference: it's Apache 2.0, and you can run the entire stack on your own infrastructure. Setup (takes ~2 minutes): { "mcpServers": { "vexa": { "url": "https://api.cloud.vexa.ai/mcp", "headers": {"X-API-Key": "your-key"} } } } Drop that in your Claude Desktop config, and you can ask: "What did we decide about pricing in last Tuesday's meeting?" "Summarize action items from all meetings this week" "Find every time [person] mentioned the deadline" Or self-host the whole thing: git clone https://github.com/Vexa-ai/vexa cd vexa docker compose up MCP server included. Your meeting data never leaves your network. GitHub: https://github.com/Vexa-ai/vexa (1,700+ stars, Apache 2.0) Happy to answer questions about MCP, the architecture, or how this compares to Fireflies/Otter's approach.
-
-19h ago
+🔗 [wfla.com](https://www.wfla.com/news/pasco-county/new-port-richey-city-council-considers-auto-tag-reader-cameras/) • 9h ago
 
 ---
 
@@ -117,7 +117,7 @@ Fireflies just became the first meeting tool in Anthropic's official Claude MCP 
 
 Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -125,7 +125,7 @@ Financial Times • 7h ago
 
 Anthropic CEO Dario Amodei said his company and the Department of Defense "have much more in common than we have differences."
 
-CBS News • 11h ago
+CBS News • 12h ago
 
 ---
 
@@ -133,7 +133,7 @@ CBS News • 11h ago
 
 CEO’s claims come amid increased scrutiny of US military’s use of the technology and ethics concerns from AI workers
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 9h ago
 
 New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
 
-Fortune • 43m ago
+Fortune • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Fortune • 43m ago
 
 HEALWELL has signed a multi-million dollar, multi-year U.S.-based Health Information Exchange (HIE) software contract following a competitive procurement process.Strong momentum in all parts of the software pipeline including renewals, extensions, short listing and intent to award have advanced across core markets, reinforcing recurring data infrastructure revenue.Increasing participation in coordinated, enterprise-scale RFP bids leveraging Orion Health's global footprint.Toronto,...
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Yahoo Finance • 28m ago
 
 The data center and semiconductor specialist just provided the clearest evidence yet that the AI revolution is on track.
 
-The Motley Fool • 48m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -165,13 +165,13 @@ The Motley Fool • 48m ago
 
 Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
 **[What the Extraordinary Market Volatility in Asia Says About Energy and A.I.](https://www.nytimes.com/2026/03/05/business/stocks-asia-iran-energy.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -179,13 +179,13 @@ The New York Times • 2h ago
 
 Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
 **[Trump Announces A.I. Industry Pledge to Pay for Power](https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -197,7 +197,7 @@ The New York Times • 10h ago
 
 Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.
 
-⬆️ 1410 • 💬 800 • 2d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+⬆️ 1411 • 💬 800 • 2d ago • [SvD.se](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
 ---
 
@@ -253,7 +253,7 @@ Claude's Status Page - Elevated errors in claude.ai, cowork, platform, claude co
 
 Pull up your agents folks, I'll convince you why Go is the best language for them.
 
-⬆️ 195 • 💬 289 • 2d ago • [Bruin](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
+⬆️ 195 • 💬 288 • 2d ago • [Bruin](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
 
 ---
 
@@ -269,7 +269,7 @@ A lower court previously said that “human authorship is a bedrock requirement 
 
 The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
-⬆️ 182 • 💬 238 • 12h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
+⬆️ 182 • 💬 239 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
 
 ---
 
@@ -277,13 +277,13 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 ## YouTube Videos: "ai"
 
-**[Unleashed AI in a robot does what experts warned.](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
+**[Jailbroken AI in a robot does what experts warned.](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
 
 Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous? Get your $5 sign-up bonus at ...
 
 📺 InsideAI
 
-👁️ 228K • 👍 16K • 💬 2K • ⏱️ 16:54 • 1d ago
+👁️ 234K • 👍 16K • 💬 2K • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -293,17 +293,7 @@ Elon Musk recently advised people NOT to save for retirement due to AI, robotics
 
 📺 BlazeTV
 
-👁️ 330K • 👍 7K • 💬 1K • ⏱️ 11:39 • 2d ago
-
----
-
-**[How to Tell What&#39;s Real and What&#39;s AI-Generated on Social Media](https://www.youtube.com/watch?v=MtEe3NJnqQs)**
-
-Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and more, are spreading on Instagram, Facebook, ...
-
-📺 TODAY
-
-👁️ 107K • 👍 2K • 💬 180 • ⏱️ 8:38 • 16h ago
+👁️ 333K • 👍 7K • 💬 1K • ⏱️ 11:39 • 2d ago
 
 ---
 
@@ -313,17 +303,17 @@ The Supreme Court of the United States of America has officially turned away a k
 
 📺 Vailskibum
 
-👁️ 224K • 👍 18K • 💬 3K • ⏱️ 2:09 • 12h ago
+👁️ 245K • 👍 19K • 💬 4K • ⏱️ 2:09 • 13h ago
 
 ---
 
-**[This &#39;chicken&#39; test shows why AI could be so deadly in war](https://www.youtube.com/watch?v=BkRrO_4OCCc)**
+**[The FASTEST Way To Tell What&#39;s REAL vs AI](https://www.youtube.com/watch?v=vIJXfUy5cT4)**
 
-Artificial intelligence can parse vast amounts of data and use it to flag targets, rank threats and suggest priorities. But experts are ...
+World-renowned security expert Gavin de Becker explains why AI is making it nearly impossible to tell what is real and what is ...
 
-📺 Sky News
+📺 The Diary Of A CEO Clips
 
-👁️ 11K • 👍 212 • 💬 50 • ⏱️ 6:35 • 15h ago
+👁️ 20K • 👍 774 • 💬 50 • ⏱️ 21:25 • 14h ago
 
 ---
 
@@ -333,7 +323,27 @@ Support Haven's Kickstarter - a privacy-first social platform designed to protec
 
 📺 Brianne Worth
 
-👁️ 15K • 👍 1K • 💬 337 • ⏱️ 26:30 • 1d ago
+👁️ 16K • 👍 1K • 💬 350 • ⏱️ 26:30 • 1d ago
+
+---
+
+**[The End of Work: Vinod Khosla&#39;s Bold AI Prediction | Titans and Disruptors](https://www.youtube.com/watch?v=cSWvm7nu1rI)**
+
+What if AI made your paycheck optional? Vinod Khosla, one of the world's greatest venture capitalists and an early backer of AI, ...
+
+📺 Fortune Magazine
+
+👁️ 5K • 👍 151 • 💬 35 • ⏱️ 37:04 • 18h ago
+
+---
+
+**[STOP Paying! 3 AI Video Generators That Are FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=r9bF5YA3Pqs)**
+
+Generate cinematic AI videos without limits on Higgsfield ...
+
+📺 Malva AI
+
+👁️ 11K • 👍 493 • 💬 74 • ⏱️ 8:38 • 21h ago
 
 ---
 
@@ -343,7 +353,7 @@ Trying out locally AI to run AI models on my phone without internet. Discover Mo
 
 📺 Matt Wolfe
 
-👁️ 39K • 👍 2K • 💬 222 • ⏱️ 11:52 • 1d ago
+👁️ 40K • 👍 2K • 💬 222 • ⏱️ 11:52 • 1d ago
 
 ---
 
@@ -353,27 +363,17 @@ Built with and for creatives, Flow is your AI creative studio powered by Google 
 
 📺 Google
 
-👁️ 20K • 👍 1K • 💬 88 • ⏱️ 3:10 • 15h ago
+👁️ 24K • 👍 1K • 💬 93 • ⏱️ 3:10 • 16h ago
 
 ---
 
-**[Cal Newport AI takes are WILD...](https://www.youtube.com/watch?v=uWLt81SgM78)**
+**[How China Caught Up on AI—and May Now Win the Future](https://www.youtube.com/watch?v=xvSEw8AqPtA)**
 
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+Read more: https://time.com/7358175/china-us-ai-race/ Subscribe to TIME's YouTube channel ▻▻ http://ti.me/subscribe-time ...
 
-📺 Wes Roth
+📺 TIME
 
-👁️ 33K • 👍 1K • 💬 809 • ⏱️ 39:39 • 1d ago
-
----
-
-**[OpenAI GPT 5.4 Leak Shocks The Internet With Massive Power](https://www.youtube.com/watch?v=uiaeK24E4k8)**
-
-OpenAI's GPT 5.4 appeared in leaked code with references to a 2M token context window and original resolution image ...
-
-📺 AI Revolution
-
-👁️ 46K • 👍 1K • 💬 118 • ⏱️ 11:54 • 1d ago
+👁️ 47K • 👍 923 • 💬 307 • ⏱️ 6:10 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 769,032 • ❤️ 945 • 5d ago
+⬇️ 885,293 • ❤️ 949 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 172,298 • ❤️ 414 • 3d ago
+⬇️ 340,783 • ❤️ 427 • 3d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 674,109 • ❤️ 505 • 23h ago
+⬇️ 792,060 • ❤️ 509 • 1d ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 406,808 • ❤️ 579 • 8d ago
+⬇️ 467,468 • ❤️ 581 • 8d ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 93,448 • ❤️ 247 • 2d ago
+⬇️ 187,548 • ❤️ 249 • 2d ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 99,087 • ❤️ 230 • 3d ago
+⬇️ 165,694 • ❤️ 233 • 3d ago
 
 ---
 
@@ -461,19 +461,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 199,724 • ❤️ 170 • 2d ago
-
----
-
-**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
-
-*Qwen*
-
-Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delta Network and MoE architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a 397B total parameter count with 17B activated, supporting a native context length of 262,144 tokens, making it suitable for complex multimodal understanding and generation tasks.
-
-`image-text-to-text` `403.4B`
-
-⬇️ 1,291,825 • ❤️ 1,227 • 9d ago
+⬇️ 283,069 • ❤️ 173 • 2d ago
 
 ---
 
@@ -485,7 +473,19 @@ An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for r
 
 `image-text-to-text` `36.0B`
 
-⬇️ 15,733 • ❤️ 161 • 2d ago
+⬇️ 20,133 • ❤️ 163 • 2d ago
+
+---
+
+**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
+
+*Qwen*
+
+Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delta Network and MoE architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a 397B total parameter count with 17B activated, supporting a native context length of 262,144 tokens, making it suitable for complex multimodal understanding and generation tasks.
+
+`image-text-to-text` `403.4B`
+
+⬇️ 1,338,447 • ❤️ 1,229 • 9d ago
 
 ---
 
@@ -497,25 +497,13 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 417,673 • ❤️ 951 • 7d ago
+⬇️ 443,657 • ❤️ 953 • 7d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 10 • 💬 0 • ⭐ 6,946 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
-
----
 
 **[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
   Applications](https://huggingface.co/papers/2508.16279)**
@@ -554,6 +542,18 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 ---
 
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+
+▲ 10 • 💬 0 • ⭐ 6,994 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
+
 **[Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://huggingface.co/papers/2512.10696)**
 
 *Zouying Cao, Jiaji Deng, Li Yu et al. (7 authors)*
@@ -574,21 +574,9 @@ ReMe is a framework for experience-driven agent evolution in LLMs, enhancing mem
 
 OmniLottie framework generates high-quality vector animations from multi-modal instructions using a specialized Lottie tokenizer and pretrained vision-language models.
 
-▲ 122 • 💬 4 • ⭐ 245 • 2d ago
+▲ 124 • 💬 4 • ⭐ 281 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.02138) • [💻 code](https://github.com/OpenVGLab/OmniLottie) • [🔗 project](https://openvglab.github.io/OmniLottie/)
-
----
-
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 9 • 💬 1 • ⭐ 9,041 • 24mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -613,24 +601,33 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Utonia enables cross-domain point cloud representation learning through a unified self-supervised transformer encoder, enhancing perception and supporting embodied and multimodal reasoning tasks.
 
-▲ 126 • 💬 3 • ⭐ 231 • 1d ago
+▲ 127 • 💬 3 • ⭐ 231 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03283) • [💻 code](https://github.com/Pointcept/Utonia) • [🔗 project](https://pointcept.github.io/Utonia/)
 
 ---
 
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
-🏢 IBM Granite
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+▲ 43 • 💬 2 • ⭐ 48,772 • 10mo ago
 
-▲ 150 • 💬 19 • ⭐ 54,869 • 11mo ago
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+---
+
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+
+▲ 9 • 💬 1 • ⭐ 9,065 • 24mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -644,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 22.3k • 🔱 2.9k • 1h ago
+⭐ 22.4k • 🔱 3.0k • 2h ago
 
 ---
 
@@ -654,7 +651,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.3k • 🔱 876 • 2h ago
+⭐ 8.4k • 🔱 887 • 6m ago
 
 ---
 
@@ -664,27 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.5k • 🔱 794 • 1d ago
-
----
-
-**[nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)**
-
-Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
-
-`Zig` `ai` `assistant` `personal` `zig`
-
-⭐ 5.5k • 🔱 638 • 8h ago
-
----
-
-**[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)**
-
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-
-`Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
-
-⭐ 5.5k • 🔱 413 • 6h ago
+⭐ 6.5k • 🔱 796 • 1d ago
 
 ---
 
@@ -694,7 +671,27 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 4.7k • 🔱 128 • 1h ago
+⭐ 6.5k • 🔱 177 • 28m ago
+
+---
+
+**[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)**
+
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+`Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
+
+⭐ 5.6k • 🔱 423 • 24m ago
+
+---
+
+**[nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)**
+
+Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
+
+`Zig` `ai` `assistant` `personal` `zig`
+
+⭐ 5.5k • 🔱 644 • 9h ago
 
 ---
 
@@ -704,7 +701,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.8k • 🔱 519 • 5h ago
+⭐ 3.8k • 🔱 520 • 6h ago
 
 ---
 
@@ -714,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 370 • 2h ago
+⭐ 3.5k • 🔱 371 • 17m ago
 
 ---
 
@@ -734,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 616 • 2d ago
+⭐ 3.2k • 🔱 617 • 2d ago
 
 ---
 

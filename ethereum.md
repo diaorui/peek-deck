@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T08:43:39.753266+00:00'
+updated: '2026-03-05T09:43:42.372703+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 08:43 UTC  
+**Last Updated:** March 05, 2026 at 09:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +8.9%  
-**30d:** -2.2%  
-**90d:** -30.8%  
-**1y:** -4.7%  
+**24h:** +2.6%  
+**7d:** +10.2%  
+**30d:** -1.0%  
+**90d:** -30.0%  
+**1y:** -3.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.67B
+**Market Cap:** $257.19B
 Rank #2
 
 **Circulating Supply:** 120,692,109 ETH
@@ -62,7 +62,7 @@ No max supply
 -57.0%
 
 **All-Time Low:** $0.43
-+491591.3%
++490949.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam upgrade, expected to activate mid-year. The EIP website summarizes it as a feature that unlocks “parallel transaction execution on Ethereum”. In this article we’ll see what that means, how the EIP works, and why it’s designed the way it is.
 
-🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 16h ago
+🔗 [Cethology](https://paragraph.com/@cethology/understanding-block-level-access-lists) • 17h ago
 
 ---
 
@@ -96,7 +96,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 My question is for devs and teams which are running Defi apps, DApps, Web apps with wallet connect feature. How are you doing compliance and taxes for the payments that comes directly though wallet connect feature? User can deposit funds that came from any random source. How do you manage all these anonymous payments coming to you?
 
-18h ago
+19h ago
 
 ---
 
@@ -156,7 +156,7 @@ I’m looking for a mobile wallet that’s easy to use but secure, especially si
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -172,13 +172,13 @@ Decrypt • 1d ago
 
 Tom Lee expects a March rebound despite geopolitical tensions. Other analysts see signs of a bottom. Price outlook remains uncertain. Bitcoin and Ethereum’s prices could ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[Bitcoin Price Surges Above $72,000. Why Cryptos Are Defying Iran Risks.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-b5f1f518?gaa_at=eafs&gaa_n=AWEtsqfBdX1nCjS3UUfKI4D3XARVDLWQ4_yiClXpCLJHojY7csFkW9ZUh5tQ&gaa_ts=69a945a7&gaa_sig=VMgEK9T0b5tgirZ3Uieg4vvXgUNlsQb_shxNNS2eJuzW_09J4tcKnu6WgkcThJaAKHBExJe9SKRtupuBp5w5SA%3D%3D)**
 
-Barron's • 16h ago
+Barron's • 17h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 2d ago
 
 **[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
 
-TipRanks • 1h ago
+TipRanks • 2h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Block • 1d ago
 
 **[Key facts: Harvard buys $86.8M in Ethereum shares; U.S. ether ETFs see volatility](https://www.tradingview.com/news/tradingview:331ab23c2055e:0-key-facts-harvard-buys-86-8m-in-ethereum-shares-u-s-ether-etfs-see-volatility/)**
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -236,17 +236,7 @@ BITCOIN BREAKOUT CONFIRMED: Next Target Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 270 • 💬 83 • ⏱️ 17:29 • 8h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i84p4a-itsY)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 110 • 💬 6 • ⏱️ 4:00 • 8h ago
+👁️ 6K • 👍 301 • 💬 164 • ⏱️ 17:29 • 9h ago
 
 ---
 
@@ -256,17 +246,17 @@ Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum 
 
 📺 Schwab Network
 
-👁️ 5K • 👍 57 • 💬 10 • ⏱️ 8:40 • 1d ago
+👁️ 5K • 👍 60 • 💬 10 • ⏱️ 8:40 • 1d ago
 
 ---
 
-**[ETH Just Broke Out - Why BMNR &amp; SBET Can Go Parabolic (NAV Expansion)](https://www.youtube.com/watch?v=hs2DgjdYSVg)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i84p4a-itsY)**
 
-ETH Breakout Confirmed — BMNR & SBET Next? (NAV Expansion + AI Agents with ETH Narrative Explained) Earn $ETH with ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Big Time Trades
+📺 More Crypto Online
 
-👁️ 1K • 👍 65 • 💬 13 • ⏱️ 22:38 • 10h ago
+👁️ 2K • 👍 143 • 💬 7 • ⏱️ 4:00 • 9h ago
 
 ---
 
@@ -280,33 +270,23 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dOrcuO02uLY)**
+**[ETH Just Broke Out - Why BMNR &amp; SBET Can Go Parabolic (NAV Expansion)](https://www.youtube.com/watch?v=hs2DgjdYSVg)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETH Breakout Confirmed — BMNR & SBET Next? (NAV Expansion + AI Agents with ETH Narrative Explained) Earn $ETH with ...
 
-📺 Profit First
+📺 Big Time Trades
 
-👁️ 522 • 👍 92 • ⏱️ 7:33 • 3h ago
-
----
-
-**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 939 • 👍 23 • 💬 6 • ⏱️ 5:09 • 2d ago
+👁️ 2K • 👍 72 • 💬 14 • ⏱️ 22:38 • 11h ago
 
 ---
 
-**[Crypto Corner: Iran War&#39;s Bitcoin Impact &amp; Ethereum&#39;s 2026 Bull Case](https://www.youtube.com/watch?v=q19z3-Mgv7A)**
+**[US Iran War PUSHES Bitcoin to $73k! Here&#39;s What&#39;s NEXT - Jack Mallers](https://www.youtube.com/watch?v=nPjZ93OnAJs)**
 
-In this week's Crypto Corner, Jenny Horne and @CharlesSchwab's Jim Ferraioli discuss the impact that the war in the Middle East ...
+Explore BRON here: https://go.bron.org/savvyfinance BRON is a premium MPC-based wallet designed to eliminate seed phrases ...
 
-📺 Schwab Network
+📺 Savvy Finance
 
-👁️ 640 • 👍 15 • 💬 4 • ⏱️ 9:38 • 9h ago
+👁️ 8K • 👍 395 • 💬 60 • ⏱️ 21:56 • 15h ago
 
 ---
 
@@ -316,17 +296,37 @@ Ethereum Just Hit a Historic Milestone (Why ETH Is Finally Ready) thereum just h
 
 📺 EverythingAltcoin
 
-👁️ 235 • 👍 13 • 💬 7 • ⏱️ 14:13 • 14h ago
+👁️ 244 • 👍 14 • 💬 7 • ⏱️ 14:13 • 15h ago
 
 ---
 
-**[Why ICP At These Prices Is The Ethereum At $80 Moment](https://www.youtube.com/watch?v=3HSiREp9ruU)**
+**[ETH ABOUT TO BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xED1ttF9iL4)**
 
-Just got back from Crypto Expo Europe - one of the biggest crypto summits in Romania - and the sentiment on the ground tells me ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Blockchain Pill
+📺 Cilinix Crypto
 
-👁️ 1K • 👍 165 • 💬 46 • ⏱️ 8:01 • 16h ago
+👁️ 694 • 👍 16 • 💬 2 • ⏱️ 4:40 • 23h ago
+
+---
+
+**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 950 • 👍 23 • 💬 6 • ⏱️ 5:09 • 2d ago
+
+---
+
+**[Crypto Corner: Iran War&#39;s Bitcoin Impact &amp; Ethereum&#39;s 2026 Bull Case](https://www.youtube.com/watch?v=q19z3-Mgv7A)**
+
+In this week's Crypto Corner, Jenny Horne and @CharlesSchwab's Jim Ferraioli discuss the impact that the war in the Middle East ...
+
+📺 Schwab Network
+
+👁️ 698 • 👍 16 • 💬 4 • ⏱️ 9:38 • 10h ago
 
 ---
 
