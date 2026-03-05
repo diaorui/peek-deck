@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-05T19:43:37.063889+00:00'
+updated: '2026-03-05T20:38:27.114768+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 05, 2026 at 19:43 UTC  
+**Last Updated:** March 05, 2026 at 20:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I’ve open-sourced my robots!](https://www.reddit.com/r/robotics/comments/1rll5z2/ive_opensourced_my_robots/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ For those following the project, this is Bimo walking on a regular carpet, somet
 
 Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor system that integrates drive, braking, and steering within each wheel unit.
 
-2h ago
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor 
 
 Hey everyone! I've been working on LinkForge, an open-source tool that turns Blender into a robotics IDE. Instead of hand-writing URDF/XACRO files, you define links, joints, sensors, and ros2_control interfaces visually in Blender 4.2+. A built-in linter catches physics issues like negative inertias or disconnected chains before export. v1.3.0 just released, with: • NumPy-accelerated inertia calculations • Improved ros2_control support • Better export validation GitHub: https://github.com/arounamounchili/linkforge Happy to answer questions or get feedback!
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone! I've been working on LinkForge, an open-source tool that turns Ble
 
 I’m a mechatronics engineer starting my first serious 6-axis desktop arm build (HexGrip V1.0). I’ve spent the last week deep-diving into torque specs and power requirements, and I just got all the hardware in hand. Before I start 3D printing the frame, I wanted to see if anyone has run this specific combo or if I’m walking into a trap. The Hardware Stack: The Brain: Arduino Nano. The Muscle: 4x MG996R (Base, Shoulder, Elbow, Wrist Roll) + 3x MG90S (Wrist Pitch/Yaw, Gripper). The Power: PCA9685 PWM Driver + Buck Converter (stepping down to 5-6V). The Control: NRF24L01 for future wireless joystick input. My Logic: I originally looked at SG90s, but the torque math for a 6-DOF arm is brutal—I didn't want the shoulder to stall the moment I added a gripper. I’m hoping the MG996Rs have enough holding torque for a 3D-printed PETG or PLA+ frame. The Query: Buck Converter: For those who’ve used this mix, do you find the MG90S servos get jittery or overheat if I run the whole bus at 6V to maximize the MG996R torque? NRF24L01: I've heard these are notorious for noise. Should I be shielding this from the PWM driver immediately, or is it manageable on a desktop-sized build?
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m a mechatronics engineer starting my first serious 6-axis desktop arm build
 
 https://preview.redd.it/777n5xb5q8ng1.png?width=741&format=png&auto=webp&s=879fc3ae0b3efaf9fbcd08bbf53cc366aec582be Hi everyone, I'm currently working on a small DIY autonomous surface vehicle (USV) project and I'm trying to figure out if something like this would actually be useful to people. The idea is a low-cost developer platform for experimenting with autonomous boats. Current concept: • ~70 cm trimaran hull • RC control + autonomous navigation • GPS waypoint navigation • Raspberry-Pi5, ESP32 based controller • Sensor expansion (water temperature, water quality, etc.) • Target price around $300–400 Most research USVs cost thousands of dollars, which makes them difficult to access for small labs, schools, or hobby projects. So I'm exploring whether a much cheaper DIY platform could make experimentation easier. I'm curious what people here would actually use something like this for. Possible use cases I had in mind: 1️⃣ Environmental data collection 2️⃣ Autonomous navigation experiments 3️⃣ Robotics / control education 4️⃣ Just a fun robotics project I'd really appreciate your thoughts. Also curious about a few things: • What features would you expect from a platform like this? • What sensors would you want to add? • Would the $300–400 price range feel reasonable? Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://preview.redd.it/777n5xb5q8ng1.png?width=741&format=png&auto=webp&s=879fc
 
 ——————————————————————————— Edit: Waitlist at https://ajime.io First 200 users gets 6 months of free Cloud hosting of up to 5 devices and early access to the platform ——————————————————————————— I previously shared with you a problem that I have been tackling, robotics cloud connectivity managements, dependencies handling, software deployment. And basically the whole software stack loop of robotics, a fully CI/CD flow made for robotics. Current CI/CD tools were initially made for web development platforms or none physical software. In robotics we handle: embedded software, simulations,physics , sensors, drivers, control algorithms,perception, neural networks, data gathering, retraining, and the list goes on. I built an open source project that will start getting us there, a fully compatible CI/CD and cloud service platform, made exactly for robotics application. I also created an easy to use UI platform to handle devices connectivity, deployment, easily. First 200 users to submit application on our waitlist, will get 6 months of free cloud hosting of up to 5 devices and early access to our platform, those who are interested please comment below :) Hope you’ll enjoy it!
 
-4h ago
+5h ago
 
 ---
 
@@ -132,7 +132,7 @@ Business Insider • 1d ago
 
 SAN FRANCISCO, March 4 (Reuters) - Amazon on Tuesday confirmed it laid off staff across its robotics unit, ‌with at least 100 white-collar jobs affected, two people ‌familiar with the matter told Reuters. This comes after a January cut of about ​16,000 jobs with the company at the time hinting layoffs would continue.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -140,7 +140,7 @@ Yahoo Finance • 21h ago
 
 The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
 
-GeekWire • 21h ago
+GeekWire • 22h ago
 
 ---
 
@@ -152,7 +152,7 @@ Bloomberg • 1d ago
 
 **[E-scooter catches fire in Yale University robotics lab](https://www.wtnh.com/news/connecticut/new-haven/e-scooter-catches-fire-in-yale-university-robotics-lab/)**
 
-WTNH.com • 4h ago
+WTNH.com • 5h ago
 
 ---
 
@@ -176,7 +176,7 @@ CNBC • 1d ago
 
 A major online food retailer has started trialling self-driving robots to deliver meals in Sunderland.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
@@ -184,7 +184,7 @@ BBC • 13h ago
 
 Chinese firms like Unitree and Agibot are dominating the global robotics market.
 
-Euronews.com • 12h ago
+Euronews.com • 13h ago
 
 ---
 
@@ -194,11 +194,11 @@ Euronews.com • 12h ago
 
 **[Unrestricted AI in a robot does exactly what experts warned.](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
 
-Honest Chat GPT in a robot does exactly what experts warned. Can we trust AI? Is AI Dangerous? Get your $5 sign-up bonus at ...
+AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your $5 sign-up bonus at ...
 
 📺 InsideAI
 
-👁️ 257K • 👍 18K • 💬 2K • ⏱️ 16:54 • 2d ago
+👁️ 262K • 👍 19K • 💬 2K • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -208,7 +208,17 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 12K • 👍 547 • 💬 40 • ⏱️ 14:35 • 20h ago
+👁️ 13K • 👍 576 • 💬 40 • ⏱️ 14:35 • 20h ago
+
+---
+
+**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
+
+War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
+
+📺 Adrian Chong
+
+👁️ 3K • 👍 212 • 💬 44 • ⏱️ 15:24 • 6h ago
 
 ---
 
@@ -218,7 +228,17 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 65 • ⏱️ 1:06 • 18h ago
+👁️ 3K • 👍 70 • ⏱️ 1:06 • 19h ago
+
+---
+
+**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
+
+Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
+
+📺 NBC News
+
+👁️ 135K • 👍 2K • 💬 452 • ⏱️ 12:16 • 6d ago
 
 ---
 
@@ -232,33 +252,13 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 ---
 
-**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
-
-A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
-
-📺 Billionaire Shots
-
-👁️ 31K • 👍 2K • 💬 203 • ⏱️ 0:13 • 1d ago
-
----
-
-**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
-
-Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
-
-📺 NBC News
-
-👁️ 134K • 👍 2K • 💬 448 • ⏱️ 12:16 • 6d ago
-
----
-
 **[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
 
 China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
 
 📺 CGTN Europe
 
-👁️ 54K • 👍 139 • 💬 4 • ⏱️ 29:40 • 1d ago
+👁️ 70K • 👍 165 • 💬 4 • ⏱️ 29:40 • 1d ago
 
 ---
 
@@ -268,15 +268,7 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 53K • 👍 834 • 💬 50 • ⏱️ 1:29:27 • 4d ago
-
----
-
-**[Real robot today its not AI #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=sKmc4n5HKig)**
-
-📺 XDollHub
-
-👁️ 12K • 👍 109 • 💬 4 • ⏱️ 0:14 • 1d ago
+👁️ 54K • 👍 835 • 💬 50 • ⏱️ 1:29:27 • 4d ago
 
 ---
 
@@ -284,7 +276,15 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 XDollHub
 
-👁️ 460K • 👍 2K • 💬 6 • ⏱️ 0:11 • 2d ago
+👁️ 481K • 👍 2K • 💬 6 • ⏱️ 0:11 • 2d ago
+
+---
+
+**[Real robot today its not AI #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=sKmc4n5HKig)**
+
+📺 XDollHub
+
+👁️ 13K • 👍 111 • 💬 4 • ⏱️ 0:14 • 1d ago
 
 ---
 

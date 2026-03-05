@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-05T19:43:37.046153+00:00'
+updated: '2026-03-05T20:38:27.096635+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 05, 2026 at 19:43 UTC  
+**Last Updated:** March 05, 2026 at 20:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So ai can uncover your anonymous identity on social media now so creating burner accounts may be pointless.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 16h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 17h ago
 
 ---
 
@@ -49,13 +49,13 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 "...Evo 2, an open source AI that has been trained on genomes from all three domains of life (bacteria, archaea, and eukaryotes). After training on trillions of base pairs of DNA, Evo 2 developed internal representations of key features in even complex genomes like ours, including things like regulatory DNA and splice sites, which can be challenging for humans to spot. Bacterial genomes are organized along relatively straightforward principles. Any genes that encode proteins or RNAs are contiguous, with no interruptions in the coding sequence. Genes that perform related functions, like metabolizing a sugar or producing an amino acid, tend to be clustered together, allowing them to be controlled by a single, compact regulatory system. It’s all straightforward and efficient. Eukaryotes are not like that. The coding sections of genes are interrupted by introns, which don’t encode for anything. They’re regulated by a sequence that can be scattered across hundreds of thousands of base pairs. The sequences that define the edges of introns or the binding sites of regulatory proteins are all weakly defined—while they have a few bases that are absolutely required, there are a lot of bases that just have an above-average tendency to have a specific base (something like “45 percent of the time it’s a T”). Surrounding all of this in most eukaryotic genomes is a huge amount of DNA that has been termed junk: inactive viruses, terminally damaged genes, and so on. That complexity has made eukaryotic genomes more difficult to interpret. And, while a lot of specialized tools have been developed to identify things like splice sites, they’re all sufficiently error-prone that it becomes a problem when you’re analyzing something as large as a 3 billion-base-long genome. We can learn a lot more by making evolutionary comparisons and looking for sequences that have been conserved, but there are limits to that, and we’re often as interested in the differences between species. These sorts of statistical probabilities, however, are well-suited to neural networks, which are great at recognizing subtle patterns that can be impossible to pick out by eye. But you’d need absolutely massive amounts of data and computing time to process it and pick out some of these subtle features. We now have the raw genome data that the process needs. Putting together a system to feed it into an effective AI training program, however, remained a challenge. That’s the challenge the team behind Evo took on. The foundation of the Evo 2 system is a convolutional neural network called StripedHyena 2. The training took place in two stages. The initial stage focused on teaching the system to identify important genome features by feeding it sequences rich in them in chunks about 8,000 bases long. After that, there was a second stage in which sequences were fed a million bases at a time to provide the system the opportunity to identify large-scale genome features. The researchers trained two versions of their system using a dataset called OpenGenome2, which contains 8.8 trillion bases from all three domains of life, as well as viruses that infect bacteria. They did not include viruses that attack eukaryotes, given that they were concerned that the system could be misused to create threats to humans. Two versions were trained: one that had 7 billion parameters tuned using 2.4 trillion bases, and the full version with 40 billion parameters trained on the full open genome dataset. The logic behind the training is pretty simple: if something’s important enough to have been evolutionarily conserved across a lot of species, it will show up in multiple contexts, and the system should see it repeatedly during training. “By learning the likelihood of sequences across vast evolutionary datasets, biological sequence models capture conserved sequence patterns that often reflect functional importance,” the researchers behind the work write. “These constraints allow the models to perform zero-shot prediction without any task-specific fine-tuning or supervision.” That last aspect is important. We could, for example, tell it about what known splice sites look like, which might help it pick out additional ones. But that might make it harder for it to recognize any unusual splice sites that we haven’t recognized yet. Skipping the fine-tuning might also help it identify genome features that we’re not aware of at all at the moment, but which could become apparent through future research. All of this has now been made available to the public. “We have made Evo 2 fully open, including model parameters, training code, inference code, and the OpenGenome2 dataset,” the paper announces. The researchers also used a system that can identify internal features in neural networks to poke around inside of Evo 2 and figure out what things it had learned to recognize. They trained a separate neural network to recognize the firing patterns in Evo 2 and identify high-level features in it. It clearly recognized protein-coding regions and the boundaries of the introns that flanked them. It was also able to recognize some structural features of proteins within the coding regions (alpha helices and beta sheets), as well as mutations that disrupt their coding sequence. Even something like mobile genetic elements (which you can think of as DNA-level parasites) ended up with a feature within Evo 2. To test the system, the researchers started making single-base mutations and fed them into Evo 2 to see how it responded. Evo 2 could detect problems when the mutations affected the sites in DNA where transcription into RNA started, or the sites where translation of that RNA into protein started. It also recognized the severity of mutations. Those that would interrupt protein translation, such as the introduction of stop signals, were identified as more significant changes than those that left the translation intact. It also recognized when sequences weren’t translated at all. Many key cellular functions are carried out directly by RNAs, and Evo 2 was able to recognize when mutations disrupted those, as well. Impressively, the ability to recognize features in eukaryotic genomes occurred without the loss of its ability to recognize them in bacteria and archaea. In fact, the system seemed to be able to work out what species it was working in. A number of evolutionary groups use genetic codes with a different set of signals to stop the translation of proteins. Evo 2 was able to recognize when it was looking at a sequence from one of those species, and used the correct genetic code for them. It was also good at recognizing features that tolerate a lot of variability, such as sites that signal where to splice RNAs to remove introns from the coding sequence of proteins. By some measures, it was better than software specialized for that task. The same was true when evaluating mutations in the BRCA2 gene, where many of the mutations are associated with cancer. Given additional training on known BRCA2 mutations, its performance improved further. Overall, Evo 2 seems great for evaluating genomes and identifying key features. The researchers who built it suggest it could serve as a good automated tool for preliminary genome annotation."
 
-🔗 [Ars Technica](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) • 8h ago
+🔗 [Ars Technica](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) • 9h ago
 
 ---
 
 **[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 23h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 1d ago
 
 ---
 
@@ -63,7 +63,7 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a pure-Python AMD GPU user-space driver
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 19h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 20h ago
 
 ---
 
@@ -83,7 +83,7 @@ AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a p
 
 One of the things I’ve been thinking about with AI systems is the difference between decision support and decision making. Decision support: meaning the system provides info and a human evaluates it and may or may not take an action. Decision making: meaning the system actually performs the action. For example: • Suggesting eligible clinical trial participants • Flagging abnormal lab results • Recommending a route on a GPS In these cases the system helps a human decide. But there are also systems that automatically: • approve or deny requests • enroll users into workflows • trigger actions based on a rule set or user input That’s a very different level of responsibility. Curious where people think the boundary should be between recommendation and decision.
 
-21h ago
+22h ago
 
 ---
 
@@ -91,7 +91,7 @@ One of the things I’ve been thinking about with AI systems is the difference b
 
 Ollama FX es una interfaz de escritorio Open Source para Ollama con grandes mejoras en gestión de chats, RAG, multimodalidad y organización 🔥 📅 Lanzado hoy en GitHub — https://github.com/fredericksalazar/OllamaFX 🧠 Principales novedades de la v0.5.0 ⭐ 🔍 Soporte RAG y análisis de archivos Carga y análisis de archivos directamente en chats: ahora puedes subir documentos y explorar su contenido con tus modelos LLM locales. Esta funcionalidad abre el camino a usar OllamaFX como herramienta de RAG (Retrieval-Augmented Generation) en workflows locales de IA sin necesidad de servicios externos. 👉 Permite extraer insights, responder preguntas y recuperar contenido relevante de tus propios archivos directamente desde la UI. 📁 Organización real de chats Carpetas para agrupar conversaciones: ordena tus chats por proyectos, temas o modelos. Mover chats entre carpetas con un simple arrastre. Papelera de reciclaje integrada: los chats (y carpetas) eliminados se mantienen hasta 30 días, para que no pierdas nada por accidente. 🖼️ Multimodalidad visual Soporte nativo para cargar imágenes y conversar con modelos que las interpretan. 📄 Exportación & mejor renderizado Exporta chats completos a formatos útiles. Visualizador Markdown mejorado con renderizado más limpio y estable para texto rico. ⚙️ Mejoras internas y experiencia de usuario Refactorizaciones internas para mayor estabilidad y escalabilidad. Optimización en filtros de modelos y selección. Ajustes finos en UI para una experiencia más fluida. Ampliación de localización / soporte multilenguaje. Indicadores visuales mientras el asistente “piensa” y feedback más claro durante la generación. 📚 Otras mejoras Estadísticas de uso y métricas básicas desde la vista “About”. Preparación para futuras integraciones y soporte a nuevos formatos LLM locales. 📦 Dónde descargar Todos los assets de la versión están listos para descargar en la sección de Releases del repo: 👉 https://github.com/fredericksalazar/OllamaFX/releases/tag/v0.5.0 🤝 Cómo ayudar al proyecto Si te gusta OllamaFX, puedes: ⭐ Dejar una estrella en GitHub 💬 Abrir issues con ideas o bugs 📄 Contribuir a la documentación 🧠 Proponer mejoras o nuevas integrations
 
-22h ago
+23h ago
 
 ---
 
@@ -133,7 +133,7 @@ The New York Times • 5d ago
 
 Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.
 
-TechCrunch • 18h ago
+TechCrunch • 19h ago
 
 ---
 
@@ -141,7 +141,7 @@ TechCrunch • 18h ago
 
 The streaming giant is acquiring InterPositive, which develops proprietary AI tools to help filmmakers and creatives, with the actor and director also joining Netflix as a senior advisor.
 
-The Hollywood Reporter • 3h ago
+The Hollywood Reporter • 4h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Hollywood Reporter • 3h ago
 
 InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make edits in post-production.
 
-TechCrunch • 3h ago
+TechCrunch • 4h ago
 
 ---
 
@@ -157,7 +157,7 @@ TechCrunch • 3h ago
 
 Learn about Ben Affleck's role in Netflix's acquisition of InterPositive, a company focused on AI tools for filmmakers and storytellers.
 
-Boston.com • 43m ago
+Boston.com • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Boston.com • 43m ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -173,19 +173,19 @@ Yahoo Finance • 40m ago
 
 Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
 
-CNBC • 20m ago
+CNBC • 1h ago
 
 ---
 
 **[Who pays for AI’s power? California watchdog urges new data center rules](https://www.sfchronicle.com/business/article/who-pays-for-ai-s-power-california-watchdog-21957538.php)**
 
-San Francisco Chronicle • 1m ago
+San Francisco Chronicle • 56m ago
 
 ---
 
 **[A Word to the Wise: Don’t Trust A.I. to File Your Taxes](https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -229,7 +229,7 @@ In several recent instances, AI has disrupted court proceedings in India and els
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 334 • 💬 333 • 14h ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 334 • 💬 333 • 15h ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -261,7 +261,7 @@ A lower court previously said that “human authorship is a bedrock requirement 
 
 The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
-⬆️ 190 • 💬 246 • 23h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
+⬆️ 190 • 💬 246 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
 
 ---
 
@@ -277,13 +277,23 @@ A growing protest movement is encouraging people to cancel their subscriptions t
 
 ## YouTube Videos: "ai"
 
-**[AI Is the Biggest Existential Threat Humans Have Ever Faced — And Most People Are Completely Unprepa](https://www.youtube.com/watch?v=VcTsJFinOjs)**
+**[Unrestricted AI in a robot does exactly what experts warned.](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your $5 sign-up bonus at ...
 
-📺 Julia McCoy
+📺 InsideAI
 
-👁️ 5K • 👍 714 • 💬 206 • ⏱️ 16:12 • 4h ago
+👁️ 262K • 👍 19K • 💬 2K • ⏱️ 16:54 • 2d ago
+
+---
+
+**[OpenAI Leaked GPT-5.4. It&#39;s a Distraction. (The AI Lock-In No One Is Talking About)](https://www.youtube.com/watch?v=JYcidOS9ozU)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 19K • 👍 992 • 💬 142 • ⏱️ 29:34 • 5h ago
 
 ---
 
@@ -293,17 +303,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 11K • 👍 1K • 💬 106 • ⏱️ 17:49 • 5h ago
-
----
-
-**[Unrestricted AI in a robot does exactly what experts warned.](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
-
-Honest Chat GPT in a robot does exactly what experts warned. Can we trust AI? Is AI Dangerous? Get your $5 sign-up bonus at ...
-
-📺 InsideAI
-
-👁️ 257K • 👍 18K • 💬 2K • ⏱️ 16:54 • 2d ago
+👁️ 23K • 👍 2K • 💬 118 • ⏱️ 17:49 • 6h ago
 
 ---
 
@@ -313,7 +313,7 @@ Elon Musk recently advised people NOT to save for retirement due to AI, robotics
 
 📺 BlazeTV
 
-👁️ 341K • 👍 8K • 💬 1K • ⏱️ 11:39 • 2d ago
+👁️ 344K • 👍 8K • 💬 1K • ⏱️ 11:39 • 2d ago
 
 ---
 
@@ -323,27 +323,17 @@ Will AI become smarter than humans? If so, is humanity in danger? I went to Sili
 
 📺 Senator Bernie Sanders
 
-👁️ 112K • 👍 6K • 💬 2K • ⏱️ 9:38 • 22h ago
+👁️ 118K • 👍 7K • 💬 2K • ⏱️ 9:38 • 23h ago
 
 ---
 
-**[Higgsfield’s NEW Soul 2.0 AI Image Generator is AMAZING](https://www.youtube.com/watch?v=wFk0JOR9aN8)**
+**[Apple&#39;s Biggest AI Announcement This Week (Not MacBook Neo)](https://www.youtube.com/watch?v=C8v_YLkvLkU)**
 
-Create with Higgsfield Soul 2.0 https://youricreates.com/higgsfield In this video, I break down how Higgsfield Soul 2.0 actually ...
+LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: https://x.com/LimitlessFT SPOTIFY: ...
 
-📺 Youri van Hofwegen
+📺 Limitless Podcast
 
-👁️ 4K • 💬 2 • ⏱️ 8:13 • 3h ago
-
----
-
-**[America’s AI crushed Iran’s intelligence, drone expert says](https://www.youtube.com/watch?v=Tdr-1zyAvnI)**
-
-Former Army special ops intel analyst and Fox News contributor Brett Velicovich says that the United States' strikes in Iran proved ...
-
-📺 Fox News Clips
-
-👁️ 65K • 👍 1K • 💬 269 • ⏱️ 4:31 • 11h ago
+👁️ 5K • 👍 299 • 💬 38 • ⏱️ 22:55 • 6h ago
 
 ---
 
@@ -353,7 +343,17 @@ Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and
 
 📺 TODAY
 
-👁️ 309K • 👍 5K • 💬 734 • ⏱️ 8:38 • 1d ago
+👁️ 352K • 👍 5K • 💬 836 • ⏱️ 8:38 • 1d ago
+
+---
+
+**[Create with Flow | How to use Google’s AI Creative Studio](https://www.youtube.com/watch?v=oKjDeMtBZ4g)**
+
+Built with and for creatives, Flow is your AI creative studio powered by Google DeepMind's most advanced models: Veo, Nano ...
+
+📺 Google
+
+👁️ 40K • 👍 2K • 💬 106 • ⏱️ 3:10 • 1d ago
 
 ---
 
@@ -363,17 +363,17 @@ What if AI made your paycheck optional? Vinod Khosla, one of the world's greates
 
 📺 Fortune Magazine
 
-👁️ 9K • 👍 228 • 💬 52 • ⏱️ 37:04 • 1d ago
+👁️ 9K • 👍 240 • 💬 54 • ⏱️ 37:04 • 1d ago
 
 ---
 
-**[AI Art Just Lost.](https://www.youtube.com/watch?v=yDecu_jNpZI)**
+**[Higgsfield’s NEW Soul 2.0 AI Image Generator is AMAZING](https://www.youtube.com/watch?v=wFk0JOR9aN8)**
 
-The Supreme Court of the United States of America has officially turned away a key case surrounding artificial intelligence art and ...
+Create with Higgsfield Soul 2.0 https://youricreates.com/higgsfield In this video, I break down how Higgsfield Soul 2.0 actually ...
 
-📺 Vailskibum
+📺 Youri van Hofwegen
 
-👁️ 280K • 👍 21K • 💬 4K • ⏱️ 2:09 • 23h ago
+👁️ 7K • 💬 11 • ⏱️ 8:13 • 4h ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 340,783 • ❤️ 450 • 3d ago
+⬇️ 340,783 • ❤️ 455 • 3d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 885,293 • ❤️ 964 • 6d ago
+⬇️ 885,293 • ❤️ 966 • 6d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 792,060 • ❤️ 523 • 2h ago
+⬇️ 792,060 • ❤️ 526 • 3h ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 187,548 • ❤️ 265 • 3d ago
+⬇️ 187,548 • ❤️ 268 • 3d ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 165,694 • ❤️ 239 • 3d ago
+⬇️ 165,694 • ❤️ 241 • 3d ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 467,468 • ❤️ 583 • 8d ago
+⬇️ 467,468 • ❤️ 586 • 8d ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 283,069 • ❤️ 187 • 3d ago
+⬇️ 283,069 • ❤️ 191 • 3d ago
 
 ---
 
@@ -473,7 +473,7 @@ An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for r
 
 `image-text-to-text` `36.0B`
 
-⬇️ 20,133 • ❤️ 171 • 3d ago
+⬇️ 20,133 • ❤️ 172 • 3d ago
 
 ---
 
@@ -485,7 +485,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 443,657 • ❤️ 960 • 7d ago
+⬇️ 443,657 • ❤️ 961 • 7d ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,338,447 • ❤️ 1,236 • 10d ago
+⬇️ 1,338,447 • ❤️ 1,238 • 10d ago
 
 ---
 
@@ -524,21 +524,9 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 35 • 💬 2 • ⭐ 17,547 • 19mo ago
+▲ 35 • 💬 2 • ⭐ 17,588 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
-
----
-
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 10 • 💬 0 • ⭐ 6,994 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -551,6 +539,18 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 ▲ 19 • 💬 1 • ⭐ 7,012 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+
+▲ 10 • 💬 0 • ⭐ 7,032 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -573,7 +573,7 @@ ReMe is a framework for experience-driven agent evolution in LLMs, enhancing mem
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 38 • 💬 1 • ⭐ 72,081 • 30mo ago
+▲ 38 • 💬 1 • ⭐ 72,127 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -587,7 +587,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 OmniLottie framework generates high-quality vector animations from multi-modal instructions using a specialized Lottie tokenizer and pretrained vision-language models.
 
-▲ 124 • 💬 4 • ⭐ 313 • 3d ago
+▲ 125 • 💬 4 • ⭐ 313 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.02138) • [💻 code](https://github.com/OpenVGLab/OmniLottie) • [🔗 project](https://openvglab.github.io/OmniLottie/)
 
@@ -601,7 +601,7 @@ OmniLottie framework generates high-quality vector animations from multi-modal i
 
 Utonia enables cross-domain point cloud representation learning through a unified self-supervised transformer encoder, enhancing perception and supporting embodied and multimodal reasoning tasks.
 
-▲ 129 • 💬 3 • ⭐ 283 • 2d ago
+▲ 131 • 💬 3 • ⭐ 283 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03283) • [💻 code](https://github.com/Pointcept/Utonia) • [🔗 project](https://pointcept.github.io/Utonia/)
 
@@ -644,7 +644,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.5k • 🔱 3.0k • 1h ago
+⭐ 23.5k • 🔱 3.0k • 48s ago
 
 ---
 
@@ -654,7 +654,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 10.3k • 🔱 309 • 1h ago
+⭐ 10.8k • 🔱 330 • 14m ago
 
 ---
 
@@ -664,7 +664,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.5k • 🔱 919 • 2h ago
+⭐ 8.5k • 🔱 923 • 3h ago
 
 ---
 
@@ -674,7 +674,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.6k • 🔱 805 • 2d ago
+⭐ 6.6k • 🔱 806 • 2d ago
 
 ---
 
@@ -684,7 +684,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.9k • 🔱 446 • 6h ago
+⭐ 5.9k • 🔱 447 • 7h ago
 
 ---
 
@@ -694,7 +694,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.6k • 🔱 653 • 5h ago
+⭐ 5.6k • 🔱 656 • 6h ago
 
 ---
 
@@ -704,7 +704,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.8k • 🔱 523 • 3h ago
+⭐ 3.8k • 🔱 524 • 4h ago
 
 ---
 
@@ -714,7 +714,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 377 • 2h ago
+⭐ 3.5k • 🔱 377 • 3h ago
 
 ---
 
