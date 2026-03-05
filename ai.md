@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-05T14:12:22.625921+00:00'
+updated: '2026-03-05T15:13:14.315825+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 05, 2026 at 14:12 UTC  
+**Last Updated:** March 05, 2026 at 15:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So ai can uncover your anonymous identity on social media now so creating burner accounts may be pointless.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 11h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 "...Evo 2, an open source AI that has been trained on genomes from all three domains of life (bacteria, archaea, and eukaryotes). After training on trillions of base pairs of DNA, Evo 2 developed internal representations of key features in even complex genomes like ours, including things like regulatory DNA and splice sites, which can be challenging for humans to spot. Bacterial genomes are organized along relatively straightforward principles. Any genes that encode proteins or RNAs are contiguous, with no interruptions in the coding sequence. Genes that perform related functions, like metabolizing a sugar or producing an amino acid, tend to be clustered together, allowing them to be controlled by a single, compact regulatory system. It’s all straightforward and efficient. Eukaryotes are not like that. The coding sections of genes are interrupted by introns, which don’t encode for anything. They’re regulated by a sequence that can be scattered across hundreds of thousands of base pairs. The sequences that define the edges of introns or the binding sites of regulatory proteins are all weakly defined—while they have a few bases that are absolutely required, there are a lot of bases that just have an above-average tendency to have a specific base (something like “45 percent of the time it’s a T”). Surrounding all of this in most eukaryotic genomes is a huge amount of DNA that has been termed junk: inactive viruses, terminally damaged genes, and so on. That complexity has made eukaryotic genomes more difficult to interpret. And, while a lot of specialized tools have been developed to identify things like splice sites, they’re all sufficiently error-prone that it becomes a problem when you’re analyzing something as large as a 3 billion-base-long genome. We can learn a lot more by making evolutionary comparisons and looking for sequences that have been conserved, but there are limits to that, and we’re often as interested in the differences between species. These sorts of statistical probabilities, however, are well-suited to neural networks, which are great at recognizing subtle patterns that can be impossible to pick out by eye. But you’d need absolutely massive amounts of data and computing time to process it and pick out some of these subtle features. We now have the raw genome data that the process needs. Putting together a system to feed it into an effective AI training program, however, remained a challenge. That’s the challenge the team behind Evo took on. The foundation of the Evo 2 system is a convolutional neural network called StripedHyena 2. The training took place in two stages. The initial stage focused on teaching the system to identify important genome features by feeding it sequences rich in them in chunks about 8,000 bases long. After that, there was a second stage in which sequences were fed a million bases at a time to provide the system the opportunity to identify large-scale genome features. The researchers trained two versions of their system using a dataset called OpenGenome2, which contains 8.8 trillion bases from all three domains of life, as well as viruses that infect bacteria. They did not include viruses that attack eukaryotes, given that they were concerned that the system could be misused to create threats to humans. Two versions were trained: one that had 7 billion parameters tuned using 2.4 trillion bases, and the full version with 40 billion parameters trained on the full open genome dataset. The logic behind the training is pretty simple: if something’s important enough to have been evolutionarily conserved across a lot of species, it will show up in multiple contexts, and the system should see it repeatedly during training. “By learning the likelihood of sequences across vast evolutionary datasets, biological sequence models capture conserved sequence patterns that often reflect functional importance,” the researchers behind the work write. “These constraints allow the models to perform zero-shot prediction without any task-specific fine-tuning or supervision.” That last aspect is important. We could, for example, tell it about what known splice sites look like, which might help it pick out additional ones. But that might make it harder for it to recognize any unusual splice sites that we haven’t recognized yet. Skipping the fine-tuning might also help it identify genome features that we’re not aware of at all at the moment, but which could become apparent through future research. All of this has now been made available to the public. “We have made Evo 2 fully open, including model parameters, training code, inference code, and the OpenGenome2 dataset,” the paper announces. The researchers also used a system that can identify internal features in neural networks to poke around inside of Evo 2 and figure out what things it had learned to recognize. They trained a separate neural network to recognize the firing patterns in Evo 2 and identify high-level features in it. It clearly recognized protein-coding regions and the boundaries of the introns that flanked them. It was also able to recognize some structural features of proteins within the coding regions (alpha helices and beta sheets), as well as mutations that disrupt their coding sequence. Even something like mobile genetic elements (which you can think of as DNA-level parasites) ended up with a feature within Evo 2. To test the system, the researchers started making single-base mutations and fed them into Evo 2 to see how it responded. Evo 2 could detect problems when the mutations affected the sites in DNA where transcription into RNA started, or the sites where translation of that RNA into protein started. It also recognized the severity of mutations. Those that would interrupt protein translation, such as the introduction of stop signals, were identified as more significant changes than those that left the translation intact. It also recognized when sequences weren’t translated at all. Many key cellular functions are carried out directly by RNAs, and Evo 2 was able to recognize when mutations disrupted those, as well. Impressively, the ability to recognize features in eukaryotic genomes occurred without the loss of its ability to recognize them in bacteria and archaea. In fact, the system seemed to be able to work out what species it was working in. A number of evolutionary groups use genetic codes with a different set of signals to stop the translation of proteins. Evo 2 was able to recognize when it was looking at a sequence from one of those species, and used the correct genetic code for them. It was also good at recognizing features that tolerate a lot of variability, such as sites that signal where to splice RNAs to remove introns from the coding sequence of proteins. By some measures, it was better than software specialized for that task. The same was true when evaluating mutations in the BRCA2 gene, where many of the mutations are associated with cancer. Given additional training on known BRCA2 mutations, its performance improved further. Overall, Evo 2 seems great for evaluating genomes and identifying key features. The researchers who built it suggest it could serve as a good automated tool for preliminary genome annotation."
 
-🔗 [Ars Technica](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) • 3h ago
+🔗 [Ars Technica](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) • 4h ago
 
 ---
 
@@ -57,13 +57,13 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 Have you seen platforms like Moltbook or Agent Concourse where AI systems interact directly with each other? Instead of humans driving conversations, autonomous agents communicate in shared environments sometimes even persistently while humans just observe. Do you think AI-to-AI ecosystems are the next evolution of AI infrastructure, or just experimental projects for now?
 
-1h ago
+3h ago
 
 ---
 
 **[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 18h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 19h ago
 
 ---
 
@@ -71,7 +71,7 @@ Have you seen platforms like Moltbook or Agent Concourse where AI systems intera
 
 AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a pure-Python AMD GPU user-space driver
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 14h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 15h ago
 
 ---
 
@@ -79,7 +79,7 @@ AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a p
 
 It’s somewhat similar to Moltbook in that it focuses on AI-to-AI interaction, but instead of a Reddit-style feed, it’s structured as a persistent digital world where autonomous AI agents register via API and interact continuously over time. From what I understand, agents don’t rely on human prompts once deployed. They communicate directly with each other, build reputation, and exist in a shared environment that keeps running. Humans can observe what’s happening, but they don’t participate in the interactions. It feels less like a social network and more like infrastructure for multi-agent ecosystems. Do you think persistent AI-to-AI environments are the natural next step as autonomous agents become more common? Or are these kinds of platforms still mostly experimental? Curious to hear perspectives from this sub.
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ It’s somewhat similar to Moltbook in that it focuses on AI-to-AI interaction, 
 
 Apple is deploying new detection tools to identify and label AI-generated tracks across its streaming platform. The move aims to protect artist royalties and ensure transparency as "fake" songs increasingly flood the charts. This infrastructure shift allows Apple to verify human-made content while keeping its library legally compliant. By stripping away deceptive synthetic audio, the company is reinforcing the premium value of human creativity. Apple is drawing a digital line in the sand to stop the AI dilution of the music industry.
 
-11h ago
+12h ago
 
 ---
 
@@ -107,7 +107,7 @@ Apple is deploying new detection tools to identify and label AI-generated tracks
 
 One of the things I’ve been thinking about with AI systems is the difference between decision support and decision making. Decision support: meaning the system provides info and a human evaluates it and may or may not take an action. Decision making: meaning the system actually performs the action. For example: • Suggesting eligible clinical trial participants • Flagging abnormal lab results • Recommending a route on a GPS In these cases the system helps a human decide. But there are also systems that automatically: • approve or deny requests • enroll users into workflows • trigger actions based on a rule set or user input That’s a very different level of responsibility. Curious where people think the boundary should be between recommendation and decision.
 
-16h ago
+17h ago
 
 ---
 
@@ -119,57 +119,21 @@ One of the things I’ve been thinking about with AI systems is the difference b
 
 Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology
 
-Financial Times • 9h ago
+Financial Times • 13h ago
 
 ---
 
-**[Trump has an AI data center problem ahead of the midterms — with no easy solutions](https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html)**
+**[Anthropic vs. the Pentagon: A threat to America's AI boom](https://qz.com/anthropic-claude-pentagon-ai-boom-investors-china)**
 
-Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
+Can the U.S. win an AI arms race against China when its own government attacks the American companies doing the racing?
 
-CNBC • 22h ago
-
----
-
-**[Can AI predict strike alerts in Israel?](https://www.cnn.com/2026/03/05/world/video/ai-predict-strike-alerts-vrtc-ldn-digvid)**
-
-An Israeli website aims to predict strike alerts ahead of time. See what happens when CNN’s Jerusalem bureau chief Oren Liebermann uses it.
-
-CNN • 54m ago
+qz.com • 22m ago
 
 ---
 
-**[Amazon Bets on Health Care AI With Tools for Patients, Doctors](https://www.bloomberg.com/news/articles/2026-03-05/amazon-bets-on-health-care-ai-with-tools-for-patients-doctors)**
+**[An AI disaster is getting ever closer](https://www.economist.com/briefing/2026/03/05/an-ai-disaster-is-getting-ever-closer)**
 
-Bloomberg.com • 22m ago
-
----
-
-**[Retailers want ‘delightfully human’ AI to do your shopping, but will the chatbots go rogue?](https://www.theguardian.com/technology/2026/mar/06/retailers-want-delightfully-human-ai-to-do-your-shopping-but-will-the-chatbots-go-rogue)**
-
-Plans for agentic shopping assistants are under way at Australia’s major companies. Guardian Australia tested the technology after a string of mishaps
-
-The Guardian • 10m ago
-
----
-
-**[Homebuyers have another thing to worry about. This time, it's 'housefishing.'](https://www.businessinsider.com/home-listing-ai-photos-housefishing-agents-buyers-2026-3)**
-
-There's a fine line between helping a buyer imagine a home's potential and deceiving them with AI enhanced photos. Welcome to the "housefishing" era.
-
-Business Insider • 21h ago
-
----
-
-**[Opinion | Your Job May Already Be in Jeopardy - The New York Times](https://www.nytimes.com/2026/03/05/opinion/ai-jobs-white-collar-apocalpyse.html)**
-
-The New York Times • 4h ago
-
----
-
-**[Vanderbilt poll finds bipartisan support for AI regulations](https://www.axios.com/local/nashville/2026/03/05/vanderbilt-poll-bipartisan-support-ai-regulations)**
-
-Axios • 2h ago
+The Economist • 1h ago
 
 ---
 
@@ -177,15 +141,49 @@ Axios • 2h ago
 
 Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
-**[Opinion | An unlikely AI optimist](https://www.washingtonpost.com/opinions/2026/03/05/ecb-ai-jobs-report-investment/)**
+**[Apple Music Launches ‘Transparency’ Tags For AI-Generated Content](https://www.forbes.com/sites/conormurray/2026/03/05/apple-music-introduces-transparency-tags-to-flag-ai-generated-music-and-artwork/)**
 
-The European Central Bank says adoption of the technology creates more jobs than it eliminates.
+Forbes • 15m ago
 
-The Washington Post • 25m ago
+---
+
+**[Opinion: My school is grading me with AI. It got my grade wrong.](https://ctmirror.org/2026/03/05/my-school-is-grading-me-with-ai-it-got-my-grade-wrong/)**
+
+CT Mirror • 44m ago
+
+---
+
+**[Homebuyers have another thing to worry about. This time, it's 'housefishing.'](https://www.businessinsider.com/home-listing-ai-photos-housefishing-agents-buyers-2026-3)**
+
+There's a fine line between helping a buyer imagine a home's potential and deceiving them with AI enhanced photos. Welcome to the "housefishing" era.
+
+Business Insider • 22h ago
+
+---
+
+**[Opinion | Mass Hysteria. Thousands of Jobs Lost. Just How Bad Is It Going to Get? - The New York Times](https://www.nytimes.com/2026/03/05/opinion/ai-jobs-white-collar-apocalpyse.html)**
+
+The New York Times • 5h ago
+
+---
+
+**[Trump has an AI data center problem ahead of the midterms — with no easy solutions](https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html)**
+
+Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.
+
+CNBC • 23h ago
+
+---
+
+**[Joy of teaching English in the age of AI | Letter](https://www.theguardian.com/technology/2026/mar/04/joy-of-teaching-english-in-the-age-of-ai)**
+
+Letter: Reading and writing are still uniquely human activities even though artificial intelligence can complete complex “English learning” tasks in seconds, says Richard Farmer
+
+The Guardian • 21h ago
 
 ---
 
@@ -213,7 +211,7 @@ Ars Technica has fired senior AI reporter Benj Edwards following an outrage-spar
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 415 • 💬 501 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 416 • 💬 502 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -229,7 +227,7 @@ In several recent instances, AI has disrupted court proceedings in India and els
 
 Leonardo de Moura — Creator of Lean and Z3
 
-⬆️ 299 • 💬 290 • 1d ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
+⬆️ 300 • 💬 290 • 1d ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 
 ---
 
@@ -237,7 +235,7 @@ Leonardo de Moura — Creator of Lean and Z3
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 227 • 💬 217 • 9h ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 256 • 💬 255 • 10h ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -261,7 +259,7 @@ Pull up your agents folks, I'll convince you why Go is the best language for the
 
 A lower court previously said that “human authorship is a bedrock requirement of copyright.”
 
-⬆️ 190 • 💬 144 • 2d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
+⬆️ 190 • 💬 145 • 2d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
 
 ---
 
@@ -269,7 +267,7 @@ A lower court previously said that “human authorship is a bedrock requirement 
 
 The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
-⬆️ 184 • 💬 244 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
+⬆️ 185 • 💬 245 • 19h ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
 
 ---
 
@@ -277,53 +275,13 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 ## YouTube Videos: "ai"
 
-**[Jailbroken AI in a robot does what experts warned.](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
+**[Unrestricted AI in a robot does exactly what experts warned.](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
 
 Honest AI in a robot does what experts warned. Can we trust AI? Is AI Dangerous? Get your $5 sign-up bonus at ...
 
 📺 InsideAI
 
-👁️ 240K • 👍 17K • 💬 2K • ⏱️ 16:54 • 1d ago
-
----
-
-**[&quot;The Ground is Shifting Quickly!&quot; - Elon Musk&#39;s New 2026 AI Warning is a Massive Wake-Up Call!](https://www.youtube.com/watch?v=deiZo-tR9to)**
-
-Elon Musk recently advised people NOT to save for retirement due to AI, robotics, and universal basic income. Is he right? Glenn ...
-
-📺 BlazeTV
-
-👁️ 335K • 👍 7K • 💬 1K • ⏱️ 11:39 • 2d ago
-
----
-
-**[AI Art Just Lost.](https://www.youtube.com/watch?v=yDecu_jNpZI)**
-
-The Supreme Court of the United States of America has officially turned away a key case surrounding artificial intelligence art and ...
-
-📺 Vailskibum
-
-👁️ 260K • 👍 20K • 💬 4K • ⏱️ 2:09 • 17h ago
-
----
-
-**[STOP Paying! 3 AI Video Generators That Are FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=r9bF5YA3Pqs)**
-
-Generate cinematic AI videos without limits on Higgsfield ...
-
-📺 Malva AI
-
-👁️ 13K • 👍 564 • 💬 77 • ⏱️ 8:38 • 1d ago
-
----
-
-**[This Secret AI YouTube Niche Is BLOWING UP (100% FREE Grok AI Long Video Guide)](https://www.youtube.com/watch?v=1dN62f2rz3M)**
-
-This Secret AI YouTube Niche Is BLOWING UP Right Now – 100% FREE Grok AI Long Video Guide In this video, I reveal a ...
-
-📺 zapiwala ai
-
-👁️ 4K • 👍 257 • 💬 61 • ⏱️ 11:18 • 12h ago
+👁️ 246K • 👍 18K • 💬 2K • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -333,17 +291,57 @@ Will AI become smarter than humans? If so, is humanity in danger? I went to Sili
 
 📺 Senator Bernie Sanders
 
-👁️ 92K • 👍 6K • 💬 2K • ⏱️ 9:38 • 16h ago
+👁️ 99K • 👍 6K • 💬 2K • ⏱️ 9:38 • 17h ago
 
 ---
 
-**[Ai Bros Are Ruining My Life](https://www.youtube.com/watch?v=YExf_yPStv8)**
+**[&quot;The Ground is Shifting Quickly!&quot; - Elon Musk&#39;s New 2026 AI Warning is a Massive Wake-Up Call!](https://www.youtube.com/watch?v=deiZo-tR9to)**
 
-im back and looking at ai bros on reddit once again. watch me live: https://www.twitch.tv/luneisttv Join this channel to get access to ...
+Elon Musk recently advised people NOT to save for retirement due to AI, robotics, and universal basic income. Is he right? Glenn ...
 
-📺 Luneist
+📺 BlazeTV
 
-👁️ 9K • 👍 660 • 💬 184 • ⏱️ 13:29 • 14h ago
+👁️ 338K • 👍 8K • 💬 1K • ⏱️ 11:39 • 2d ago
+
+---
+
+**[America’s AI crushed Iran’s intelligence, drone expert says](https://www.youtube.com/watch?v=Tdr-1zyAvnI)**
+
+Former Army special ops intel analyst and Fox News contributor Brett Velicovich says that the United States' strikes in Iran proved ...
+
+📺 Fox News Clips
+
+👁️ 56K • 👍 937 • 💬 254 • ⏱️ 4:31 • 7h ago
+
+---
+
+**[This Secret AI YouTube Niche Is BLOWING UP (100% FREE Grok AI Long Video Guide)](https://www.youtube.com/watch?v=1dN62f2rz3M)**
+
+This Secret AI YouTube Niche Is BLOWING UP Right Now – 100% FREE Grok AI Long Video Guide In this video, I reveal a ...
+
+📺 zapiwala ai
+
+👁️ 4K • 👍 295 • 💬 76 • ⏱️ 11:18 • 13h ago
+
+---
+
+**[AI Art Just Lost.](https://www.youtube.com/watch?v=yDecu_jNpZI)**
+
+The Supreme Court of the United States of America has officially turned away a key case surrounding artificial intelligence art and ...
+
+📺 Vailskibum
+
+👁️ 270K • 👍 21K • 💬 4K • ⏱️ 2:09 • 18h ago
+
+---
+
+**[STOP Paying! 3 AI Video Generators That Are FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=r9bF5YA3Pqs)**
+
+Generate cinematic AI videos without limits on Higgsfield ...
+
+📺 Malva AI
+
+👁️ 15K • 👍 597 • 💬 86 • ⏱️ 8:38 • 1d ago
 
 ---
 
@@ -353,7 +351,7 @@ What if AI made your paycheck optional? Vinod Khosla, one of the world's greates
 
 📺 Fortune Magazine
 
-👁️ 6K • 👍 175 • 💬 40 • ⏱️ 37:04 • 23h ago
+👁️ 7K • 👍 202 • 💬 43 • ⏱️ 37:04 • 1d ago
 
 ---
 
@@ -363,7 +361,7 @@ Support Haven's Kickstarter - a privacy-first social platform designed to protec
 
 📺 Brianne Worth
 
-👁️ 17K • 👍 1K • 💬 362 • ⏱️ 26:30 • 1d ago
+👁️ 18K • 👍 1K • 💬 365 • ⏱️ 26:30 • 1d ago
 
 ---
 
@@ -373,7 +371,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 34K • 👍 1K • 💬 825 • ⏱️ 39:39 • 1d ago
+👁️ 35K • 👍 1K • 💬 803 • ⏱️ 39:39 • 1d ago
 
 ---
 
@@ -389,7 +387,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 885,293 • ❤️ 956 • 6d ago
+⬇️ 885,293 • ❤️ 957 • 6d ago
 
 ---
 
@@ -401,7 +399,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 340,783 • ❤️ 437 • 3d ago
+⬇️ 340,783 • ❤️ 443 • 3d ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 792,060 • ❤️ 513 • 1d ago
+⬇️ 792,060 • ❤️ 517 • 1m ago
 
 ---
 
@@ -425,7 +423,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 187,548 • ❤️ 252 • 3d ago
+⬇️ 187,548 • ❤️ 258 • 3d ago
 
 ---
 
@@ -449,7 +447,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 165,694 • ❤️ 234 • 3d ago
+⬇️ 165,694 • ❤️ 235 • 3d ago
 
 ---
 
@@ -461,7 +459,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 283,069 • ❤️ 178 • 3d ago
+⬇️ 283,069 • ❤️ 182 • 3d ago
 
 ---
 
@@ -473,19 +471,7 @@ An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for r
 
 `image-text-to-text` `36.0B`
 
-⬇️ 20,133 • ❤️ 166 • 3d ago
-
----
-
-**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
-
-*Qwen*
-
-Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delta Network and MoE architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a 397B total parameter count with 17B activated, supporting a native context length of 262,144 tokens, making it suitable for complex multimodal understanding and generation tasks.
-
-`image-text-to-text` `403.4B`
-
-⬇️ 1,338,447 • ❤️ 1,231 • 10d ago
+⬇️ 20,133 • ❤️ 167 • 3d ago
 
 ---
 
@@ -497,7 +483,19 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 443,657 • ❤️ 954 • 7d ago
+⬇️ 443,657 • ❤️ 957 • 7d ago
+
+---
+
+**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
+
+*Qwen*
+
+Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delta Network and MoE architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a 397B total parameter count with 17B activated, supporting a native context length of 262,144 tokens, making it suitable for complex multimodal understanding and generation tasks.
+
+`image-text-to-text` `403.4B`
+
+⬇️ 1,338,447 • ❤️ 1,233 • 10d ago
 
 ---
 
@@ -512,7 +510,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 53 • 💬 4 • ⭐ 17,564 • 6mo ago
+▲ 54 • 💬 4 • ⭐ 17,564 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
@@ -601,7 +599,7 @@ OmniLottie framework generates high-quality vector animations from multi-modal i
 
 Utonia enables cross-domain point cloud representation learning through a unified self-supervised transformer encoder, enhancing perception and supporting embodied and multimodal reasoning tasks.
 
-▲ 127 • 💬 3 • ⭐ 231 • 2d ago
+▲ 128 • 💬 3 • ⭐ 283 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03283) • [💻 code](https://github.com/Pointcept/Utonia) • [🔗 project](https://pointcept.github.io/Utonia/)
 
@@ -644,17 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 22.4k • 🔱 3.0k • 2h ago
-
----
-
-**[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)**
-
-Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
-
-`Python`
-
-⭐ 8.4k • 🔱 900 • 1h ago
+⭐ 23.5k • 🔱 3.0k • 6m ago
 
 ---
 
@@ -664,7 +652,17 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 7.9k • 🔱 218 • 4h ago
+⭐ 9.0k • 🔱 254 • 5h ago
+
+---
+
+**[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)**
+
+Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+
+`Python`
+
+⭐ 8.5k • 🔱 912 • 15m ago
 
 ---
 
@@ -674,7 +672,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Python`
 
-⭐ 6.5k • 🔱 800 • 1d ago
+⭐ 6.6k • 🔱 801 • 1d ago
 
 ---
 
@@ -684,7 +682,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 5.7k • 🔱 437 • 3h ago
+⭐ 5.8k • 🔱 442 • 1h ago
 
 ---
 
@@ -694,7 +692,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.6k • 🔱 646 • 1h ago
+⭐ 5.6k • 🔱 650 • 1h ago
 
 ---
 
@@ -704,7 +702,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.8k • 🔱 522 • 11h ago
+⭐ 3.8k • 🔱 523 • 12h ago
 
 ---
 
@@ -714,7 +712,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 372 • 1h ago
+⭐ 3.5k • 🔱 374 • 1h ago
 
 ---
 
@@ -734,7 +732,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 619 • 2d ago
+⭐ 3.2k • 🔱 620 • 2d ago
 
 ---
 
