@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-06T11:54:25.632387+00:00"
+          "dateModified": "2026-03-06T12:58:54.122006+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -680,6 +680,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rma1gq/whats_the_point_of_making_robots_humanshaped/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rma1gq/whats_the_point_of_making_robots_humanshaped/" target="_blank" onclick="event.stopPropagation();">What’s the point of making robots human-shaped?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            From an engineering perspective, wouldn’t other designs—like cantilever-type or hemispherical robots—be more practical and efficient for most real-world applications? Human-shaped robots seem mechanically complex, expensive, and often less stable compared to simpler structures. So is the humanoid form mainly for environments designed for humans, or is it more about research, marketing, and public perception?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772791466.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rlkvpj/bimo_can_walk_on_a_carpet_now/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -818,39 +851,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rma1gq/whats_the_point_of_making_robots_humanshaped/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rma1gq/whats_the_point_of_making_robots_humanshaped/" target="_blank" onclick="event.stopPropagation();">What’s the point of making robots human-shaped?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            From an engineering perspective, wouldn’t other designs—like cantilever-type or hemispherical robots—be more practical and efficient for most real-world applications? Human-shaped robots seem mechanically complex, expensive, and often less stable compared to simpler structures. So is the humanoid form mainly for environments designed for humans, or is it more about research, marketing, and public perception?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772791466.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rm2upe/so101_lowlatency_teleoperation_of_my_3d_printed/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -901,6 +901,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rm69io/how_would_you_structure_the_code_architecture_for/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rm69io/how_would_you_structure_the_code_architecture_for/" target="_blank" onclick="event.stopPropagation();">How would you structure the code architecture for a small Arduino robot?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi everyone, I'm working on a small robot project using an Arduino Uno and I'm currently thinking about the best way to structure the code as the project grows. Right now the robot has several modules: a sonar sensor mounted on a servo for scanning, a LED matrix for expressions, and another servo that controls a small shutter on the head. The project is starting to grow and I'm trying to design the architecture in a way that stays maintainable. My current idea is roughly this: Hardware modules implemented as classes (Sonar, ServoManager, Matrix, etc.) Behavior logic implemented as functions that run in the main loop A simple state machine (sleep, idle, active) A behavior manager that runs small "micro-behaviors" depending on the current state Each behavior function gets called every loop, but internally decides whether to do something based on timers (millis()) or hardware availability (for example checking if a servo is already moving). Something like: updateStates() updateBehavior() servos.update() matrix.update() Inside the behavior manager I would have things like: idleLookAround() idleBlinkMatrix() idleSonarSweep() Each one is independent and just returns quickly if it’s not time to act yet. So the architecture ends up being somewhat hybrid: OOP for hardware abstraction procedural / functional style for behaviors and state logic. My questions are: Is this a reasonable architecture for a small Arduino robot? Would you structure behaviors differently (for example using classes for behaviors as well)? Are there patterns commonly used in robotics projects on microcontrollers that I should look into? I'm trying to keep the loop non-blocking and avoid delays so everything can run smoothly. Any advice or examples from your own robot projects would be really appreciated. https://reddit.com/link/1rm69io/video/kgwdn0ux8dng1/player
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772777810.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rldob6/robots_navigating_city_streets_they_still_need_a/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -936,39 +969,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rm69io/how_would_you_structure_the_code_architecture_for/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rm69io/how_would_you_structure_the_code_architecture_for/" target="_blank" onclick="event.stopPropagation();">How would you structure the code architecture for a small Arduino robot?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi everyone, I'm working on a small robot project using an Arduino Uno and I'm currently thinking about the best way to structure the code as the project grows. Right now the robot has several modules: a sonar sensor mounted on a servo for scanning, a LED matrix for expressions, and another servo that controls a small shutter on the head. The project is starting to grow and I'm trying to design the architecture in a way that stays maintainable. My current idea is roughly this: Hardware modules implemented as classes (Sonar, ServoManager, Matrix, etc.) Behavior logic implemented as functions that run in the main loop A simple state machine (sleep, idle, active) A behavior manager that runs small "micro-behaviors" depending on the current state Each behavior function gets called every loop, but internally decides whether to do something based on timers (millis()) or hardware availability (for example checking if a servo is already moving). Something like: updateStates() updateBehavior() servos.update() matrix.update() Inside the behavior manager I would have things like: idleLookAround() idleBlinkMatrix() idleSonarSweep() Each one is independent and just returns quickly if it’s not time to act yet. So the architecture ends up being somewhat hybrid: OOP for hardware abstraction procedural / functional style for behaviors and state logic. My questions are: Is this a reasonable architecture for a small Arduino robot? Would you structure behaviors differently (for example using classes for behaviors as well)? Are there patterns commonly used in robotics projects on microcontrollers that I should look into? I'm trying to keep the loop non-blocking and avoid delays so everything can run smoothly. Any advice or examples from your own robot projects would be really appreciated. https://reddit.com/link/1rm69io/video/kgwdn0ux8dng1/player
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772777810.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -992,7 +992,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-06T11:29:57.653538+00:00">Updated 2026-03-06T11:29:57.653538+00:00</small>
+        <small data-timestamp="2026-03-06T12:58:28.506697+00:00">Updated 2026-03-06T12:58:28.506697+00:00</small>
     </div>
 </div>
 
@@ -1301,17 +1301,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.live5news.com/2026/03/06/meet-toaster-robot-sending-first-year-middle-school-team-state/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/7UQIJZZFWFAKLANPTSC5M54GEA.png?auth=36e98ea12d08890b377c92d9e8bc5171d937e2c7309e4ea34e5fcc16a322c5a0&width=1200&height=600&smart=true');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether" target="_blank" onclick="event.stopPropagation();">Neura Robotics Raising €1 Billion in Round Backed by Tether</a>
+                            <a href="https://www.live5news.com/2026/03/06/meet-toaster-robot-sending-first-year-middle-school-team-state/" target="_blank" onclick="event.stopPropagation();">Meet the ‘Toaster’: The robot sending a first-year middle school team to state</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            It’s the first year of Westview Middle School’s robotics program, but one of their teams has become a quick success.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1320,9 +1324,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.live5news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Live 5 News" class="news-favicon">
+                                    <a href="https://www.live5news.com" target="_blank" onclick="event.stopPropagation();">Live 5 News</a>
                                     
                                 </div>
                                 
@@ -1330,7 +1334,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772639700.0"></span>
+                                    <span data-timestamp="1772791440.0"></span>
                                 </div>
                                 
                             </div>
@@ -1494,6 +1498,43 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda" target="_blank" onclick="event.stopPropagation();">China Prioritizes Rare Earths, Robotics in Manufacturing Agenda</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1772704385.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1531,47 +1572,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.autonews.com/hyundai/an-hyundai-korea-mobed-robotics-hydrogen-ai-data-center-0304/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cloudfront-us-east-1.images.arcpublishing.com/crain/3XO2HHZJ2JGI5GQXPH2H4L2UJA.JPG');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.autonews.com/hyundai/an-hyundai-korea-mobed-robotics-hydrogen-ai-data-center-0304/" target="_blank" onclick="event.stopPropagation();">Hyundai Motor chases Tesla with $6 billion investment in massive new Korean robot, AI, data hub</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Hyundai will build a $6 billion complex in South Korea capable of producing 30,000 robots annually. The site includes solar-powered hydrogen production and an AI data center with 50,000 graphics processing units to support physical artificial intelligence in next-generation robots.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Automotive News" class="news-favicon">
-                                    <a href="https://www.autonews.com" target="_blank" onclick="event.stopPropagation();">Automotive News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1772610240.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1592,7 +1592,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-06T11:30:12.707556+00:00">Updated 2026-03-06T11:30:12.707556+00:00</small>
+        <small data-timestamp="2026-03-06T12:58:47.736736+00:00">Updated 2026-03-06T12:58:47.736736+00:00</small>
     </div>
 </div>
 

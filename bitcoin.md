@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T11:54:26.013792+00:00'
+updated: '2026-03-06T12:58:54.514473+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 11:54 UTC  
+**Last Updated:** March 06, 2026 at 12:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,695.61
+### $69,835.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.2%  
-**7d:** +5.4%  
-**30d:** +12.4%  
-**90d:** -22.0%  
-**1y:** -18.7%  
+**24h:** -3.3%  
+**7d:** +4.6%  
+**30d:** +11.6%  
+**90d:** -22.5%  
+**1y:** -19.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
 
-5h ago
+6h ago
 
 ---
 
@@ -89,45 +89,7 @@ Indiana Governor Mike Braun recently signed a bill that allows certain retiremen
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-1h ago
-
----
-
-**[Bitcoin in Wartime: A Tale of Two Shocks](https://www.reddit.com/r/Bitcoin/comments/1rm8c7e/bitcoin_in_wartime_a_tale_of_two_shocks/)**
-
-With the recent US strike on Iran, investors are again asking a familiar question: how does Bitcoin (BTC) behave when geopolitics turns kinetic? Crypto markets trade 24/7, digest headlines instantly, and often serve as a real-time barometer of global risk appetite. : Get all the latest crypto news at Sandmark
-
-🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-wartime-tale-two-shocks) • 3h ago
-
----
-
-**[And everytime you bought, it dips](https://www.reddit.com/r/Bitcoin/comments/1rltvis/and_everytime_you_bought_it_dips/)**
-
-It's just like this, every single time. No matter what.
-
-14h ago
-
----
-
-**[I built a luxury Bitcoin desk ticker with an engraved back](https://www.reddit.com/r/Bitcoin/comments/1rll3je/i_built_a_luxury_bitcoin_desk_ticker_with_an/)**
-
-I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets looked cheap or plastic, so I made this — the Obsidian Edition, with a engraved back and a clean display. Curious what the community thinks! We made 5 units for the first batch to see how people like it.
-
-20h ago
-
----
-
-**[Daily Discussion, March 06, 2026](https://www.reddit.com/r/Bitcoin/comments/1rm63xa/daily_discussion_march_06_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
-
----
-
-**[One tap, paid.](https://www.reddit.com/r/Bitcoin/comments/1rligdq/one_tap_paid/)**
-
-21h ago
+2h ago
 
 ---
 
@@ -135,15 +97,23 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hi - I'm new to Bitcoin and planning to buy every week for $100 to $150. How often do you move your Bitcoin to storage? To be safe, I'm planning to buy a code storage. Pls recommend one. Appreciate your help.
 
-1h ago
+2h ago
 
 ---
 
-**[Why Bitcoin is a Behavioral Phenomenon.](https://www.reddit.com/r/Bitcoin/comments/1rlzae7/why_bitcoin_is_a_behavioral_phenomenon/)**
+**[Bitcoin in Wartime: A Tale of Two Shocks](https://www.reddit.com/r/Bitcoin/comments/1rm8c7e/bitcoin_in_wartime_a_tale_of_two_shocks/)**
 
-I noticed a lot of people pushed back on my last post regarding the generation of investors who arrived after the Satoshi era. To clarify, when I talk about those of us who missed the early days of mining, I’m talking about the 99% of us who hold less than 1,000 BTC. I’m not trying to get back lost time; I’m trying to point out that most people look at Bitcoin as a technological first mover, but I see it as a behavioral phenomenon. There is a fallacy in the idea that being first is why Bitcoin succeeded. Being first doesn't automatically mean people will hold for years through 80% price swings. There are plenty of first movers in other tech sectors that failed. Bitcoin is different because it was the first time humans saw a digital asset with no obligations, no roadmap, and no exit plan. Why I believe Bitcoin is a Behavioral Phenomenon -No marketing, No Roadmap, No exit plan Marketing is often just a series of promises and obligations. You are telling the market what to expect, and the moment you don't deliver, people dump. Luckily, Bitcoin didn't have to convert enthusiasm into a promise . Investors love roadmaps because they feel like progress, but a roadmap is really just a list of ways a project can fail. When a milestone is missed, it triggers panic. Bitcoin had no plan to fail, because it had no roadmap to miss in the first place. Bitcoin achieved success through a well formulated silence. There were no events like a CEO's product launch to coordinate a sell the news moment. There was never a coordinated reason for everyone to sell at the same time. Bitcoin proved that value doesn't just come from usage; it comes from coordination. Price appeared before utility because people mined and held simply because they saw others doing the same. It was designed for those who are quiet, not for those who chase the hype. However, if Bitcoin fails to maintain this phenomenon, we have to reconsider things. As institutions enter, they bring their own roadmaps and marketing. This introduces expectations the very thing Bitcoin originally avoided.
+With the recent US strike on Iran, investors are again asking a familiar question: how does Bitcoin (BTC) behave when geopolitics turns kinetic? Crypto markets trade 24/7, digest headlines instantly, and often serve as a real-time barometer of global risk appetite. : Get all the latest crypto news at Sandmark
 
-11h ago
+🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-wartime-tale-two-shocks) • 4h ago
+
+---
+
+**[And everytime you bought, it dips](https://www.reddit.com/r/Bitcoin/comments/1rltvis/and_everytime_you_bought_it_dips/)**
+
+It's just like this, every single time. No matter what.
+
+15h ago
 
 ---
 
@@ -151,7 +121,37 @@ I noticed a lot of people pushed back on my last post regarding the generation o
 
 Hey guys What is your bitcoin dca scheduled for currently? Daily, weekly, monthly? I would like to hear what you do, the reasoning behind it and what you believe yields the best results for more bang for your buck!
 
-2h ago
+3h ago
+
+---
+
+**[I built a luxury Bitcoin desk ticker with an engraved back](https://www.reddit.com/r/Bitcoin/comments/1rll3je/i_built_a_luxury_bitcoin_desk_ticker_with_an/)**
+
+I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets looked cheap or plastic, so I made this — the Obsidian Edition, with a engraved back and a clean display. Curious what the community thinks! We made 5 units for the first batch to see how people like it.
+
+21h ago
+
+---
+
+**[Daily Discussion, March 06, 2026](https://www.reddit.com/r/Bitcoin/comments/1rm63xa/daily_discussion_march_06_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+6h ago
+
+---
+
+**[One tap, paid.](https://www.reddit.com/r/Bitcoin/comments/1rligdq/one_tap_paid/)**
+
+22h ago
+
+---
+
+**[I tracked every Bitcoin drawdown over 20% since 2010. Here's what the data actually shows.](https://www.reddit.com/r/Bitcoin/comments/1rmd167/i_tracked_every_bitcoin_drawdown_over_20_since/)**
+
+We're sitting in a 47% drawdown right now and I keep getting asked the same question by people new to Bitcoin - "has it been this bad before?" So I went back to the actual data. Every weekly closing price since August 2010 when BTC was $0.07. Short answer: yes, much worse. Many times. The full list: # Peak Trough Depth Time to New ATH 1 Nov 2010 ($0.34) Dec 2010 ($0.23) -32% 70 days 2 Feb 2011 ($1.09) Apr 2011 ($0.77) -29% 70 days 3 May 2011 ($8.82) May 2011 ($6.61) -25% 21 days 4 Jun 2011 ($29) Nov 2011 ($2.35) -92% 1.7 years 5 Apr 2013 ($144) Jul 2013 ($70) -51% 196 days 6 Dec 2013 ($1,119) Jan 2015 ($210) -81% 3.2 years 7 Mar 2017 ($1,267) Mar 2017 ($967) -24% 56 days 8 Jun 2017 ($2,958) Jul 2017 ($1,930) -35% 56 days 9 Sep 2017 ($4,583) Sep 2017 ($3,583) -22% 35 days 10 Dec 2017 ($19,141) Dec 2018 ($3,253) -83% 3.0 years 11 Feb 2021 ($57,540) Feb 2021 ($45,138) -22% 21 days 12 Apr 2021 ($60,205) Jul 2021 ($31,797) -47% 189 days 13 Nov 2021 ($65,467) Nov 2022 ($16,292) -75% 2.3 years 14 Mar 2024 ($71,334) Sep 2024 ($54,842) -23% 224 days 15 Dec 2024 ($104,299) Apr 2025 ($78,214) -25% 154 days 16 Oct 2025 ($123,513) Mar 2026 ($65,738) -47% Active 16 drawdowns over 20%. Four of them were absolute bloodbaths — 75% to 92% declines. And the current one? 47%, which is actually middle of the road by Bitcoin standards. The stat that matters is: 15 out of 15 completed drawdowns recovered to a new all-time high. Not most. All of them. Even the -92% in 2011 when the entire thing looked like it was going to zero. The pattern is weirdly bimodal too — Bitcoin has tended to either have a shallow 20-35% correction that resolves in weeks, or a deep 75%+ bear market that takes years. Not much in between. The current -47% is kind of in no mans land. Obviously past recoveries don't guarantee the next one. Bitcoin could theoretically go to zero — protocol vulnerability, coordinated ban, whatever. But 15 for 15 across 15 years including a 92% crash is a hell of a track record. And definitely does not fit the mainstream Ponzi scheme narrative. Ponzi schemes don't recover from crashes 15 times to new ATH's. The longest full cycle (peak to new ATH) was 3.2 years — the Mt. Gox era. If your time horizon is longer than that, history has been on your side so far. I built an interactive version where you can adjust the threshold and see underwater charts — link in comments if anyone wants to play with it.
+
+13m ago
 
 ---
 
@@ -163,39 +163,43 @@ Hey guys What is your bitcoin dca scheduled for currently? Daily, weekly, monthl
 
 Vancouver city staff concluded that bitcoin is not an allowable asset for municipal investment under local law.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
-**[Gold vs. bitcoin: Why there 'isn't really a comparison' anymore](https://finance.yahoo.com/video/gold-vs-bitcoin-why-isnt-120006325.html)**
+**[Bitcoin fails to sustain breakout momentum as rate hikes beckon: Crypto Markets Today](https://www.coindesk.com/markets/2026/03/06/bitcoin-extends-decline-from-usd74-000-derivatives-data-point-to-cautious-positioning)**
 
-Gold (GC=F) is currently outperforming bitcoin (BTC-USD), with the world's largest cryptocurrency down nearly 50% from last year's highs. Canza Finance co-founder and CEO Pascal Ntsama chats with Ross Mac, host of Yahoo Finance's Financial Freestyle podcast, to compare the two assets, the different ways in which they're traded around the world, and more. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+BTC trades narrowly above $70,000 as Middle East tensions drive oil higher and traders reassess inflation, while derivatives data points to cautious positioning.
 
-Yahoo Finance • 23h ago
-
----
-
-**[Vancouver Mayor Ken Sim’s BTC reserves proposal blocked by city, provincial law](https://www.coindesk.com/markets/2026/03/06/vancouver-mayor-s-bitcoin-investment-proposal-blocked-by-city-provincial-law)**
-
-Officials say the Vancouver Charter limits city reserves to government debt, bank instruments and other traditional assets.
-
-CoinDesk • 3h ago
+CoinDesk • 1h ago
 
 ---
 
-**[1 Number That Shows Why Bitcoin Will Go Higher in the Long Term](https://www.fool.com/investing/2026/03/06/1-number-that-shows-why-bitcoin-will-go-higher-ove/)**
+**[Bitcoin hovers just under $72k, taking a breather after hefty gains this week](https://www.investing.com/news/cryptocurrency-news/bitcoin-upbeat-at-72k-leads-broader-crypto-rally-as-risk-appetite-improves-4542892)**
 
-This asset still has a very long runway for more adoption and more traction.
+Investing.com • 11h ago
+
+---
+
+**[Prediction Markets Put Just 11% Odds on Bitcoin Reaching $150,000 by Year-End -- Is That Too Bearish?](https://finance.yahoo.com/news/prediction-markets-put-just-11-120500748.html)**
+
+Bitcoin looks unlikely to set new highs this year, but its long-term outlook is positive.
+
+Yahoo Finance • 53m ago
+
+---
+
+**[Bitcoin (BTC) Edges Downward as Traders Take Stock of Iran Volatility](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-btc-edges-downward-as-traders-take-stock-of-iran-volatility)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Prediction Markets Put Just 11% Odds on Bitcoin Reaching $150,000 by Year-End -- Is That Too Bearish?](https://www.fool.com/investing/2026/03/06/prediction-markets-put-just-11-odds-on-bitcoin-rea/)**
+
+Bitcoin looks unlikely to set new highs this year, but its long-term outlook is positive.
 
 The Motley Fool • 1h ago
-
----
-
-**[Should You Forget Bitcoin and Buy Franco-Nevada Instead?](https://www.nasdaq.com/articles/should-you-forget-bitcoin-and-buy-franco-nevada-instead)**
-
-Key PointsBitcoin is a highly volatile cryptocurrency.
-
-Nasdaq • 55m ago
 
 ---
 
@@ -203,7 +207,7 @@ Nasdaq • 55m ago
 
 A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
-WIS News 10 • 7h ago
+WIS News 10 • 8h ago
 
 ---
 
@@ -215,27 +219,19 @@ Fortune • 1d ago
 
 ---
 
-**[Trump-linked American Bitcoin pushes holdings to 6,500 BTC amid mining-fueled treasury expansion as stock jumps](https://www.theblock.co/post/392412/trump-linked-american-bitcoin-pushes-holdings-to-6500-btc-amid-mining-fueled-treasury-expansion-as-stock-jumps)**
-
-The increase follows a mining fleet expansion as the firm focuses on accumulating bitcoin through large-scale self-mining.
-
-The Block • 21h ago
-
----
-
 **[The Secret Loophole Helping Iran Fire Missiles At Israel And US Without Going Broke](https://www.ndtv.com/world-news/the-secret-bitcoin-loophole-helping-iran-fire-missiles-at-israel-and-us-without-going-broke-11175328)**
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 9h ago
+NDTV • 10h ago
 
 ---
 
-**[Solo Satoshi Launches Bitaxe Turbo Touch, An Open-Source Touchscreen Bitcoin Miner](https://bitcoinmagazine.com/news/solo-satoshi-launches-bitaxe-bitcoin-miner)**
+**[Bitcoin Surges to $74,000 After President Trump Throws Support Behind Key Crypto Bill](https://www.investopedia.com/bitcoin-surges-after-president-trump-throws-support-behind-key-crypto-bill-11919161)**
 
-Houston-based Solo Satoshi announced the launch of the Bitaxe Turbo Touch, a compact device designed for hobbyists and home miners.
+The world's largest cryptocurrency has gained about 8% over the last 24 hours, hitting its highest level in a month.
 
-Bitcoin Magazine • 14h ago
+Investopedia • 1d ago
 
 ---
 
@@ -291,7 +287,7 @@ Complete operating system for Bitcoiners
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 20h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 21h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -327,7 +323,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 468 • 💬 43 • ⏱️ 19:58 • 20h ago
+👁️ 15K • 👍 468 • 💬 43 • ⏱️ 19:58 • 21h ago
 
 ---
 
@@ -337,7 +333,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 164 • ⏱️ 17:07 • 12h ago
+👁️ 15K • 👍 1K • 💬 164 • ⏱️ 17:07 • 13h ago
 
 ---
 
@@ -347,7 +343,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 389 • 💬 13 • ⏱️ 9:23 • 7h ago
+👁️ 5K • 👍 389 • 💬 13 • ⏱️ 9:23 • 8h ago
 
 ---
 
@@ -357,7 +353,7 @@ A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce
 
 📺 No Bs Crypto
 
-👁️ 9K • 👍 768 • 💬 122 • ⏱️ 12:20 • 17h ago
+👁️ 9K • 👍 768 • 💬 122 • ⏱️ 12:20 • 19h ago
 
 ---
 
@@ -367,7 +363,7 @@ Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discus
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 845 • 💬 12 • ⏱️ 40:52 • 13h ago
+👁️ 22K • 👍 845 • 💬 12 • ⏱️ 40:52 • 14h ago
 
 ---
 
@@ -377,7 +373,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 13K • 👍 793 • 💬 204 • ⏱️ 12:43 • 15h ago
+👁️ 13K • 👍 793 • 💬 204 • ⏱️ 12:43 • 16h ago
 
 ---
 
@@ -387,7 +383,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 132 • ⏱️ 8:38 • 11h ago
+👁️ 33K • 👍 2K • 💬 132 • ⏱️ 8:38 • 12h ago
 
 ---
 
@@ -397,7 +393,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 53K • 👍 2K • 💬 223 • ⏱️ 17:02 • 13h ago
+👁️ 53K • 👍 2K • 💬 223 • ⏱️ 17:02 • 14h ago
 
 ---
 
@@ -407,7 +403,7 @@ Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Cha
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 433 • 💬 181 • ⏱️ 31:02 • 15h ago
+👁️ 8K • 👍 433 • 💬 181 • ⏱️ 31:02 • 16h ago
 
 ---
 
@@ -417,7 +413,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 249 • 💬 23 • ⏱️ 7:59 • 12h ago
+👁️ 3K • 👍 249 • 💬 23 • ⏱️ 7:59 • 13h ago
 
 ---
 
