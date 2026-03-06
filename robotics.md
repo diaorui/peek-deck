@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-06T21:31:00.235366+00:00'
+updated: '2026-03-06T22:30:17.392235+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 06, 2026 at 21:31 UTC  
+**Last Updated:** March 06, 2026 at 22:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
 
-4h ago
+5h ago
+
+---
+
+**[Spent a year building a transforming drone, now I'm open sourcing it](https://www.reddit.com/r/robotics/comments/1rmpfcv/spent_a_year_building_a_transforming_drone_now_im/)**
+
+Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
+
+1h ago
 
 ---
 
@@ -42,7 +50,7 @@ Robotics research and industry news
 
 I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +58,15 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 Sorry if this isn’t the place to post this since it’s really a hobby project and this feels more like a simple blog post. I just figured I’d share it since I had spent time working on it. I suppose there are 3 main reasons why I scrapped it. I made the mistake of designing from the base upward as opposed to from the end-effector downward which led to a loss in desired elegance of the design itself. I also decided that I want to implement 6DOFs instead of just 4. On top of that, I decided to try my hand at accomplishing remote cable transmission for all DOFs aside from the base rotation. I’ve already finished designing the 6DOF arm, I just haven’t assembled it yet. Anyways, here’s a brief overview of the mechanical design. The base is essentially just a turn-table bearing system with 5 bearings between the top and bottom traces. The shoulder transmission is just direct mounting. Elbow transmission is via bevel gears to keep weight closer to the output shaft of the shoulder joint’s motor. The wrist transmission is via capstan antagonistic cabling. Then I have a lever at the end of the 3rd link after the wrist for my desired end-effector function utilizing capstan antagonistic cable transmission as well. I decided to scrap it before finishing the end-effector though. The new design focuses on complete remote transmission via capstan antagonistic cables in conjunction with Bowden cable sheaths used for the 3DOFs I have decoupled at the wrist joint. Again, sorry if this isn’t the place for this as this is something of a blog post more than anything. But I’m hoping this may intrigue someone. Also, I probably will design a proper shell at some point but I have a mini 3D printer and tbh I like seeing everything move.
 
-3h ago
+4h ago
+
+---
+
+**[I made an interactive 2D SLAM Simulator in Rust!](https://www.reddit.com/r/robotics/comments/1rmqcgj/i_made_an_interactive_2d_slam_simulator_in_rust/)**
+
+I built a SLAM simulator in Rust where you can see EKF-SLAM and FastSLAM running at the same time. I deployed it to the web, so you can place obstructions and landmarks and compare the two algorithms. Live Demo: https://slam.pramodna.com/ Github: https://github.com/7673502/2D-SLAM-Simulator
+
+1h ago
 
 ---
 
@@ -58,7 +74,7 @@ Sorry if this isn’t the place to post this since it’s really a hobby project
 
 I've had multiple iRobots and they were total junk...There is ALWAYS an error...my wife was like "you wasted money again"😭 Now Im in love with my narwal (freo z10 ultra). It does occasionally bump some chair legs when trying to sneak through, but most of the time it cruises through like a pro. The best part is, the robovac has riser side brushed on both sides, so it can easily get into the gaps around cabinet and table legs, no more bending over to check for leftover sauce. It saves much time and energy. And I think roller mop does not get cleaned as well as a double rotating mops in the base. 🙌 So my wife went from "you wasted money again" to "okay, this thing is actually awesome." Feels good to be right for once.
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +82,15 @@ I've had multiple iRobots and they were total junk...There is ALWAYS an error...
 
 Update on my 6-DOF desktop arm project: I’ve officially moved into the mechanical prototyping phase, starting with the most complex hurdle—the Wrist. The goal was to pack 3 degrees of freedom into a compact volume while keeping everything 3D printable. I modeled an Omni-Wrist mechanism in OnShape with “perfect” dimensions, using a series of butt-hinge linkages with 3D-printed pins. On-screen, the digital assembly worked flawlessly, but reality hit hard. The Fail: My first print had zero play. While "zero-clearance" sounds great in CAD, filament expansion turned the whole assembly into a static paperweight. The tolerances were too tight, the hinges seized, and the pins were impossible to seat without snapping the linkages. The Pivot: I went back to the "Model-Print-Iterate" cycle. I increased the clearances to 0.2mm and redesigned the pivot points as snap-fit pins. This allows the linkages to stay secure under pressure while maintaining enough "fluidity" for manual movement. The Query: For those who build small-scale linkages: Pin Durability: Do 3D-printed pins actually hold up under the repetitive stress of a 6-DOF arm, or is it a fool's errand? Should I move to metal dowel pins now before I build the rest of the arm? Hinge Alternatives: Given the friction issues with 3D-printed butt hinges, is there a more efficient hinge style or linkage structure you'd recommend for a 3-DOF wrist that is easier to assemble and maintain?
 
-12h ago
+13h ago
+
+---
+
+**[Will this servo controller handle 6v7.5A'ish](https://www.reddit.com/r/robotics/comments/1rmqbck/will_this_servo_controller_handle_6v75aish/)**
+
+Im planning on hooking up 3 mg996R servos to it (which have a stall current of 2.5A each according to the spreadsheet) for the power supply i have a 6v10A, so itll be sufficient, I don't know about the board though, as the power supply connects directly to it, im afraid the board will get fried if a stall happens, since alot of current will be flowing through it, ive looked at the spreadsheet for it and havent found anything useful, same goes for the product description
+
+1h ago
 
 ---
 
@@ -74,7 +98,7 @@ Update on my 6-DOF desktop arm project: I’ve officially moved into the mechani
 
 From an engineering perspective, wouldn’t other designs—like cantilever-type or hemispherical robots—be more practical and efficient for most real-world applications? Human-shaped robots seem mechanically complex, expensive, and often less stable compared to simpler structures. So is the humanoid form mainly for environments designed for humans, or is it more about research, marketing, and public perception?
 
-11h ago
+12h ago
 
 ---
 
@@ -84,41 +108,9 @@ From an engineering perspective, wouldn’t other designs—like cantilever-type
 
 ---
 
-**[Vibe Coded an AI Autonomous Robot, and submitted to NVIDIA Hackathon](https://www.reddit.com/r/robotics/comments/1rmosxa/vibe_coded_an_ai_autonomous_robot_and_submitted/)**
-
-Here is my AI Autonomous Robot project (FOSS) that I had submitted to NVIDIA hackathon that was closed on Mar 5. I just spent 95 hours over the course of 13 days to vibe code and could still remember the night (morning) that I debugged and tested past 5am, to try to get the ESP32 and Jetson to communicate properly to send the codes to the motors for the movement in the correct direction. Below is the Timeline: Feb 16-19 - Vibe coded my Agentic AI and testing it with the fairly new NVIDIA Cosmos Reason2 2B W4A16 quant on Jetson Orin Nano Feb 19 - My AI told me there was a NVIDIA Cosmos Cookoff hackathon closing registration on that day, and persuaded me to participate; Claude Sonnet, Gemini and Grok 4.2 all agreed Feb 20 - My AI was living on the Jetson Orin Nano, physically connected to my robot, but never started implementing nor utilizing all the LiDAR / Depth Cam on it, so started the code base from scratch Feb 20-22 - With the help of Claude Sonnet, Gemini, Grok, Kimi K2, I finished the skeleton code base with working LiDAR, Depth Cam with YOLOv8n running on its VPU, and Nav2, and the robot can go on its own, except like to avoid open space and like to hit the wall Feb 23-Mar 3 - Tested and debugged the robot until finally it can greet me and sound emergency alarm when it sees me lying on the ground Mar 3-4 - Recorded and edited the Demo video, and submitted to NVIDIA on Mar 4 midnight. Turns on most of the 80+ submission were frameworks using the NVIDIA Cosmos models to do video simulation and inferencing for training AI/robots, and not the actual working robot itself. Well, I don't have 8xH100 to the training, nor do I have 10K drone to capture aerial video feed. I only have a robot that can roam about by itself, on the edge, without server or cloud connection. It's slow and clunky, and will drain out the battery in couple of hours, and may hit the wall once in a while. BTW, I named the robot ERIC. Here it is: https://github.com/OppaAI/eric/ Now I deserve the rest after 2 weeks of sleepless nights...
-
-1h ago
-
----
-
-**[Advances in humanoid robots stall as touch sensors and safety standards lag.](https://www.reddit.com/r/robotics/comments/1rmnq7b/advances_in_humanoid_robots_stall_as_touch/)**
-
-The "brain" of humanoid robots has shown promising advances in artificial intelligence. Yet, perception and physical coordination remain rudimentary, and moving from prototypes to practical use will confront three significant barriers: an overwhelming data burden and tactile sensing gaps, stringent safety requirements, and an absence of tested rules and commercial pathways. This combination will slow broad deployment and raise liability and security concerns.
-
-🔗 [DIGITIMES](https://www.digitimes.com/news/a20260304PD212/data-industrial-security-hardware.html) • 1h ago
-
----
-
-**[I got frustrated missing robotics deployments and layoffs, so I wrote a flightradar24-style autonomous NLP scraper to track the industry globally](https://www.reddit.com/r/robotics/comments/1rmdrlj/i_got_frustrated_missing_robotics_deployments_and/)**
-
-As someone who follows the robotics industry closely, tracking company-level signals manually was impossible. I started building this as a personal tool and eventually put it online. How the engine works: A Python scraper hits multiple major robotics/AV newswires every 30 minutes via a systemd timer. Each headline is deduplicated and run through an NLP classification layer that categorises signals into four types: Deployments, Financials, Layoffs, and Leadership changes. roboradar24
-
-8h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
-
-Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
-
-Fox Business • 1d ago
-
----
 
 **[Amazon cuts jobs in strategically important robotics division](https://www.businessinsider.com/amazon-robotics-division-job-cuts-2026-3)**
 
@@ -128,15 +120,17 @@ Business Insider • 2d ago
 
 ---
 
-**[Amazon cuts more jobs; this time in robotics unit](https://www.reuters.com/business/world-at-work/amazon-cuts-more-jobs-this-time-robotics-unit-2026-03-04/)**
+**[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
 
-Reuters • 2d ago
+Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
+
+Fox Business • 1d ago
 
 ---
 
-**[Lenovo Leads Push at MWC to Humanize AI With Friendly Robots](https://www.bloomberg.com/news/articles/2026-03-06/lenovo-leads-push-at-mwc-to-humanize-ai-with-friendly-robots)**
+**[Amazon cuts more jobs; this time in robotics unit](https://www.reuters.com/business/world-at-work/amazon-cuts-more-jobs-this-time-robotics-unit-2026-03-04/)**
 
-Bloomberg.com • 3h ago
+Reuters • 2d ago
 
 ---
 
@@ -154,15 +148,15 @@ Nature • 1d ago
 
 ---
 
-**[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
-
-Investor's Business Daily • 8h ago
-
----
-
 **[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
+
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -170,7 +164,15 @@ Tech Xplore • 1d ago
 
 NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
 
-the wellsville sun • 8h ago
+the wellsville sun • 9h ago
+
+---
+
+**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
+
+Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
+
+CNBC • 2d ago
 
 ---
 
@@ -178,7 +180,7 @@ the wellsville sun • 8h ago
 
 When all is said and done, practicality trumps technological "wow!"
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -202,7 +204,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 18K • 👍 384 • 💬 33 • ⏱️ 29:41 • 21h ago
+👁️ 18K • 👍 384 • 💬 33 • ⏱️ 29:41 • 22h ago
 
 ---
 
@@ -250,7 +252,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 Planet Roomba
 
-👁️ 3K • 💬 5 • ⏱️ 21:32 • 8h ago
+👁️ 3K • 💬 5 • ⏱️ 21:32 • 9h ago
 
 ---
 

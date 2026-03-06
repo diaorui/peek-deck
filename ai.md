@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T21:31:00.219271+00:00'
+updated: '2026-03-06T22:30:17.374269+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 21:31 UTC  
+**Last Updated:** March 06, 2026 at 22:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-12h ago
+13h ago
 
 ---
 
@@ -61,7 +61,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -69,21 +69,29 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex. "Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging," says Benjamin Nephew, assistant research professor in the Department of Biology and Biotechnology. "We found that machine-learning technologies, however, can analyze large amounts of data from scans to identify subtle changes and accurately predict Alzheimer's disease and related cognitive states. This advance has informed Alzheimer's disease research and may lead to methods that could allow doctors to diagnose and treat the disease earlier and more effectively." Alzheimer's disease is a neurodegenerative disorder that impairs mental functions and ultimately leads to death. An estimated 6.9 million Americans age 65 and older are living with Alzheimer's disease. Healthy brains contain billions of neurons, the cells that process and transmit signals needed for thought, movement, and other bodily functions. Alzheimer's disease injures neurons, leading to cell death and loss of brain tissue and associated cognitive functions. Analyzing data-rich MRI images can require substantial computing power and time. To focus their investigation, the WPI researchers first used machine learning to analyze 815 MRI scans for volume measurements in 95 brain regions. Then they deployed an algorithm to make predictions based upon differences in the measurements between healthy individuals and those with mild cognitive impairment or Alzheimer's disease. Results showed that the method was 92.87% accurate in detecting Alzheimer's disease among normal brains and brains of people with mild cognitive impairment.
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 20h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 21h ago
+
+---
+
+**[Three AI stories dropped in 24 hours and almost no one is connecting them](https://www.reddit.com/r/artificial/comments/1rmrc7a/three_ai_stories_dropped_in_24_hours_and_almost/)**
+
+Yesterday was arguably the most important day in AI this year, and it wasn't because of any single announcement. It was the combination of three: 1. OpenAI dropped GPT-5.4 Native computer use, 1 million token context window, 33% fewer hallucinations vs GPT-5.2. Three models at once: GPT-5.3 Instant, GPT-5.4 Thinking, GPT-5.4 Pro. Source 2. Pentagon officially labeled Anthropic a supply chain risk Effective immediately. Anthropic is now the first American company ever to receive this designation. The reason? Anthropic refused to let Claude be used for mass surveillance of American citizens or autonomous weapons systems. Source 3. Claude Code brought back "ultrathink" After Anthropic deprecated the ultrathink keyword in January, users filed GitHub issues about quality degradation. Community pressure worked. Source Why these matter together: Pure capability being shipped at maximum speed (GPT-5.4) A company getting punished by the government for setting ethical guardrails (Anthropic) Users successfully demanding quality from their tools (ultrathink) The AI industry is at a genuine crossroads between "build everything, no restrictions" and "build responsibly, even if it costs you." I build developer tools on Claude Code daily. This week forced me to think about what kind of AI stack I want to depend on. What do you think — should AI companies have the right to set guardrails on military use of their products?
+
+38m ago
+
+---
+
+**[Created with some promt on Gemini](https://www.reddit.com/r/artificial/comments/1rmr4au/created_with_some_promt_on_gemini/)**
+
+PART 1: THE BIRTH OF PROJECT "BALUARTE" 1. Initial Proposal: From Genius to Strategy Date: November 14, 1935 From: Eng. Santiago Ferrero-Lombardi (Project Lead "Baluarte") To: Gen. Mateo Bianchi (Minister of Defense) Subject: Preliminary Report – Armored Mobile Unit "Artigas I" Dear Minister, Work at the Peñarol workshops is progressing rapidly. Given that our railway system is the true backbone of Uruguay, we are transforming it into our primary defense. The prototype features a steam locomotive reinforced with 20mm Krupp steel. The design includes: 2 Artillery Wagons: 75mm rotating turrets. 1 Command Wagon: Short-range radio systems. 3 Barrack Wagons: Housing for 120 elite soldiers. We await confirmation for funds to finalize the ammunition magazines. Santiago Ferrero-Lombardi 2. Presidential Vision Date: December 22, 1935 From: President Providencia To: Council of Ministers Subject: The Symbol of the New Uruguay Colleagues, The "Baluarte" is the symbol of our resurgence. While others struggle, Uruguay runs on rails. This train must be the ghost that no one sees but everyone fears. I want the Ministry of the Interior to ensure total secrecy along the Montevideo-Rivera line. Providencia 3. Technical Innovations and Weight Issues Date: January 15, 1936 From: Col. Enzo Valenti (Head of Training) To: Eng. Santiago Ferrero-Lombardi Subject: Training Wagon Specifications Santiago, The "Gym-Range" wagon is brilliant, but the gunpowder fumes are unbreathable; we need better ventilation. Also, the weight has reached 450 tons. We must ensure the northern bridges can support this "Iron Beast." Col. Enzo Valenti 4. The Economic Alarm Date: February 2, 1936 From: Dr. Alejandro Silva (Minister of Economy) To: President Providencia Subject: Financial Sustainability Excellency, I must sound the alarm. Each armored wagon costs 180,000 Pesos. The high-grade coal consumption is draining our reserves. If we don't find new revenue, the deficit will cripple us by summer. Dr. Alejandro Silva PART 2: THE SOUTH AMERICAN & GERMAN ECONOMIC AXIS 5. Diplomatic Reassurance: The German Connection Date: February 5, 1936 From: Luis Alberto Rossi (Minister of Foreign Affairs) To: Dr. Alejandro Silva (Minister of Economy) Subject: German Industrial Credit Dear Alejandro, Do not despair. I have signed a treaty with Berlin. Germany will provide us with specialized alloys and heavy machinery for the "Baluarte" in exchange for priority access to our iron and manganese mines. Our minerals are now the currency for our defense. Luis Alberto Rossi 6. The Textile Boom Date: February 20, 1936 From: Carlos Moretti (Minister of the Interior) To: President Providencia Subject: Funding via Wool Exports President, The textile industry is booming. Exports of wool to Argentina and Brazil have increased by 40%. I have redirected a portion of these export taxes directly to the "Baluarte" project. The train is now literally "clothed" by our sheep farmers. Carlos Moretti 7. Weight Reduction and Light Alloys Date: March 10, 1936 From: Eng. Santiago Ferrero-Lombardi To: Gen. Mateo Bianchi (Minister of Defense) Subject: Structural Optimization General, By using new aluminum-steel alloys provided by our German partners, we have reduced the weight of the wagons by 15%. This allows us to extend the train to 12 wagons without damaging the tracks. Santiago Ferrero-Lombardi 8. The Brazilian Border Agreement Date: March 25, 1936 From: President Providencia To: All Ministers Subject: Full Operational Phase Gentlemen, Brazil has agreed to co-fund the maintenance of the border tracks in exchange for the "Baluarte" acting as a deterrent against regional insurgencies. The train is now a multinational economic engine. Providencia PART 3: THE CONTINENTAL EXPANSION 9. The Mineral Corridor Date: April 12, 1936 From: Dr. Alejandro Silva (Minister of Economy) To: Minister of Industry Subject: Mining Revenue for the Rail Bastion We are opening three new mines in the North. The iron extracted will go directly to the production of the "Baluarte II" wagons. Our economy is now a perfect circle: minerals create the train, and the train protects the mines. Dr. Alejandro Silva 10. Argentina and the Free Trade Pact Date: May 5, 1936 From: Luis Alberto Rossi (Minister of Foreign Affairs) To: President Providencia Subject: Buenos Aires Negotiations The Argentinians were hesitant until they saw the "Baluarte" during the Rivera exercises. They have now signed the trade pact for our textiles. The shadow of the train is our best negotiator. Luis Alberto Rossi 11. Reaching 16 Wagons: The Mobile City Date: May 18, 1936 From: Eng. Santiago Ferrero-Lombardi To: Gen. Mateo Bianchi Subject: The Hospital and Workshop Wagons We have added a Medical Wagon and a Mobile Workshop. The "Baluarte" is now a 16-wagon autonomous city. We are using Venezuelan fuel oil, secured through a South American energy swap, to power the auxiliary engines. Santiago Ferrero-Lombardi 12. Domestic Stability and Security Date: June 2, 1936 From: Carlos Moretti (Minister of the Interior) To: President Providencia Subject: Rural Order Rural banditry has vanished. The sight of the steel convoy moving through the grasslands has brought absolute order. The textile magnates are so pleased they are donating extra funds for the soldiers' bonuses. Carlos Moretti PART 4: THE PARAGUAYAN DIPLOMACY 13. The Paraguayan Inquiry Date: June 15, 1936 From: Dr. Belisario Benítez (Minister of the Interior, Paraguay) To: Carlos Moretti (Minister of the Interior, Uruguay) Subject: Concerns over the "Iron Fortress" Dear Minister Moretti, My government views the deployment of your 20-wagon armored train with extreme anxiety. After the Chaco War, we seek peace. A fortress on wheels heading toward our borders does not look like "domestic policy." We request an explanation. Dr. Belisario Benítez 14. The Calm Uruguayan Response Date: June 28, 1936 From: Carlos Moretti (Minister of the Interior, Uruguay) To: Dr. Belisario Benítez (Minister of the Interior, Paraguay) Subject: A Message of Stability My dear Benítez, Please remain calm. The "Baluarte" is merely a moving administrative center. It protects our mineral shipments and textile logistics. We have no interest in conflict; we only seek the prosperity of the South American rail network. Carlos Moretti 15. Paraguayan Skepticism Date: July 5, 1936 From: Dr. Belisario Benítez To: Carlos Moretti Subject: Technical Discrepancies Minister, "Administrative centers" do not usually carry 75mm Krupp cannons. We fear Uruguay is starting an arms race that will destabilize the continent. Your "magnificent" project is keeping our generals awake at night. Dr. Belisario Benítez 16. The "Iron Hand" Proposal Date: July 20, 1936 From: Carlos Moretti To: Dr. Belisario Benítez Subject: The Railway Cooperation Pact Benítez, Uruguay is serious about this project because it is the future. Instead of fearing it, join us. We offer Paraguay protected transit for your goods on our armored lines. The "Baluarte" is a fact of the new era. It is unstoppable, and it is here to stay. Let us work together. Carlos Moretti PART 5: FINAL PHASE - THE 20-WAGON SUPER-TRAIN 17. The "Sci-Mil" Final Report Date: August 1, 1936 From: Valenti & Ferrero-Lombardi To: President Providencia Subject: Phase 2 Completion The train is now 20 wagons long. We have integrated German diesel-electric technology. It is faster, quieter, and more lethal. Moral is high; the "Baluarte" is the heart of the nation. Valenti & Lombardi 18. Economic Victory Date: August 10, 1936 From: Dr. Alejandro Silva (Minister of Economy) To: Council of Ministers Subject: Budget Surplus The textile and mineral exports have paid for the train in full. We have created 5,000 jobs. Our currency is now the strongest in South America, backed by the steel of our rails. Dr. Alejandro Silva 19. Continental Hegemony Date: August 25, 1936 From: Luis Alberto Rossi (Foreign Affairs) To: President Providencia Subject: Regional Recognition Even the Argentinians are now asking for our technical advice. Uruguay is no longer a small state; we are the guardians of the South American tracks. Luis Alberto Rossi 20. The President's Final Order Date: September 1, 1936 From: President Providencia To: The Nation Subject: Full Deployment The "Baluarte" is fully operational. Let the world know: Uruguay does not just walk into the future—it rides on steel. Providencia Crosspost to more communities
+
+47m ago
 
 ---
 
 **[ChatML – Open-source desktop app for orchestrating parallel Claude Code agents](https://www.reddit.com/r/artificial/comments/1rmorsh/chatml_opensource_desktop_app_for_orchestrating/)**
 
 For 45 days I didn't write a single line of code. Instead, I described what to build, ran multiple Claude agents in parallel with isolated git worktrees, and spent my time reviewing diffs and making architectural decisions. The result is a fully working native macOS app for orchestrating AI coding agents. I wrote up the full origin story — including why I think the real leverage in AI-assisted dev is judgment, not typing. Read our blog post: https://chatml.com/blog/we-built-entire-product-with-ai-750-pull-requests
-
-1h ago
-
----
-
-**[My opinion on AI](https://www.reddit.com/r/artificial/comments/1rmnm99/my_opinion_on_ai/)**
-
-My opinion on AI My Opinion and experience on AI usage Let us discus this topic from my point of view. Or at least let me tell you how, why and for what I use AI I looked at the usage of AI from alot POV's of different people with different professions, passions to things, interests. For some it's a doom to their job, career and work in general. Some of them like me still believe their effort in THEIR chosen job is still viable? Let me put some details in it. Like after a year an then a couple years after I believe I'll get my masters in translation and then there will still be a place for me to fit in. For context I will be interpreting and translating in my job from and into three languages (I hope so) It's Russian (native), English (main language), Chinese (second language). I'm interested in learning Korean after it, and maybe trying to refresh my memory of Kazakh because I also liked Turkish alot recently. Basically speaking I'm interested in Korean and Turkish as well as I am interested in Chinese, language I'm learning actively. Basically my professional degree will be called a linguist-interpriter. I still hold hope that I will be considered as a viable and honorable person with wide variety of skills. Speaking of AI CHATBOTS, image generators and other LLM stuff. I used bunch of it (Grok, Chatgpt, bing, Claude, ellydee, and lots more.). Basically I use it now for couple of certain things. 1 Making AI generated character visual concepts. (I update them from time to time to get the version I will be liking more of) 2 To have a conversation about my fictional world, characters, worldbuilding strats to consider “in which way should I use this”, how can I adjust/expand my cosmology/power system/power tiering and all kind of conversation how can I implement or change certain idea I have in my head for it to fit in my fictional world 3 Roleplay in my fictional world just for fun. Now I use it to see how llms usually write those stories. I'm taking a closer look on text to see in which way they usually write it. Kind of “machine thinking” analysis? About the third, I know that the response you will get from the machine is literally based on how good you will prompt. I know it works both with let's say Gpt/Bing IC. But I don't usually use long prompting if I don't want or I'm bored. I'm just entertained in the process, I'm just having fun with it and not there to offend any writers/authors by prompting stories to read or artists by creating images to use as a reference. As we stopped on the artist and writers, let me say one thing. I use AI generated images as a reference because I know and fully understand that in major percent of not in full I do not own this image. Because if someone let's say will take that prompt I typed in bing and then he uses it he will get an image that is in 99.5% similar to the one I got while waiting an image to be generated. To be fair I gave those “characters” names, I have implemented them in my story tree, gave them powers, roles, minded of almost all possible connections with my megaverse and other characters. I even took a couple of references of my characters and have paid artists to make animated character gifs. I have them life in as much way as I could possibly do. The last thing that there is to do is to pay a certain group of artists so that they could do me good with making amazing work of art of my characters. What I wanted to say to authors is that I myself will write as much books, chapters, scenes and stories about my characters and my world as I still be able. It will happen In near future because I am working on it with my ignited soul and passion almost 6 years already. I think that's it. Hope most of you will understand. I will not stop my growth. AI is just a tool that helps. That is what it is for me. Thank you all for reading that.
 
 2h ago
 
@@ -93,23 +101,15 @@ My opinion on AI My Opinion and experience on AI usage Let us discus this topic 
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 5h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 6h ago
 
 ---
 
-**[Do you use different LLMs for different tasks..? I solely use Chat GPT to talk about conceptual historica/logistical stuff & also vcontent creation planning (for streaming/Youtube videos). Are there any that are more useful than others in these regards that you've found..?](https://www.reddit.com/r/artificial/comments/1rlz49n/do_you_use_different_llms_for_different_tasks_i/)**
+**[My opinion on AI](https://www.reddit.com/r/artificial/comments/1rmnm99/my_opinion_on_ai/)**
 
-Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
+My opinion on AI My Opinion and experience on AI usage Let us discus this topic from my point of view. Or at least let me tell you how, why and for what I use AI I looked at the usage of AI from alot POV's of different people with different professions, passions to things, interests. For some it's a doom to their job, career and work in general. Some of them like me still believe their effort in THEIR chosen job is still viable? Let me put some details in it. Like after a year an then a couple years after I believe I'll get my masters in translation and then there will still be a place for me to fit in. For context I will be interpreting and translating in my job from and into three languages (I hope so) It's Russian (native), English (main language), Chinese (second language). I'm interested in learning Korean after it, and maybe trying to refresh my memory of Kazakh because I also liked Turkish alot recently. Basically speaking I'm interested in Korean and Turkish as well as I am interested in Chinese, language I'm learning actively. Basically my professional degree will be called a linguist-interpriter. I still hold hope that I will be considered as a viable and honorable person with wide variety of skills. Speaking of AI CHATBOTS, image generators and other LLM stuff. I used bunch of it (Grok, Chatgpt, bing, Claude, ellydee, and lots more.). Basically I use it now for couple of certain things. 1 Making AI generated character visual concepts. (I update them from time to time to get the version I will be liking more of) 2 To have a conversation about my fictional world, characters, worldbuilding strats to consider “in which way should I use this”, how can I adjust/expand my cosmology/power system/power tiering and all kind of conversation how can I implement or change certain idea I have in my head for it to fit in my fictional world 3 Roleplay in my fictional world just for fun. Now I use it to see how llms usually write those stories. I'm taking a closer look on text to see in which way they usually write it. Kind of “machine thinking” analysis? About the third, I know that the response you will get from the machine is literally based on how good you will prompt. I know it works both with let's say Gpt/Bing IC. But I don't usually use long prompting if I don't want or I'm bored. I'm just entertained in the process, I'm just having fun with it and not there to offend any writers/authors by prompting stories to read or artists by creating images to use as a reference. As we stopped on the artist and writers, let me say one thing. I use AI generated images as a reference because I know and fully understand that in major percent of not in full I do not own this image. Because if someone let's say will take that prompt I typed in bing and then he uses it he will get an image that is in 99.5% similar to the one I got while waiting an image to be generated. To be fair I gave those “characters” names, I have implemented them in my story tree, gave them powers, roles, minded of almost all possible connections with my megaverse and other characters. I even took a couple of references of my characters and have paid artists to make animated character gifs. I have them life in as much way as I could possibly do. The last thing that there is to do is to pay a certain group of artists so that they could do me good with making amazing work of art of my characters. What I wanted to say to authors is that I myself will write as much books, chapters, scenes and stories about my characters and my world as I still be able. It will happen In near future because I am working on it with my ignited soul and passion almost 6 years already. I think that's it. Hope most of you will understand. I will not stop my growth. AI is just a tool that helps. That is what it is for me. Thank you all for reading that.
 
-20h ago
-
----
-
-**[AI-designed diffractive optical processors pave the way for low-power structural health monitoring](https://www.reddit.com/r/artificial/comments/1rlyzrg/aidesigned_diffractive_optical_processors_pave/)**
-
-A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
-
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 20h ago
+3h ago
 
 ---
 
@@ -117,19 +117,55 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 ## Google News: "ai"
 
+**[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
+
+The New York Times • 12h ago
+
+---
+
+**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 1d ago
+
+---
+
+**[Netflix acquires Ben Affleck's AI company](https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal)**
+
+Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
+
+NPR • 53m ago
+
+---
+
 **[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
-**[The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns](https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns)**
+**[Marvell stock surges 18% as CEO points to continuing AI demand: 'Do you see me blinking?'](https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html)**
 
-February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
+Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
 
-Fox Business • 3h ago
+CNBC • 5h ago
+
+---
+
+**[Oracle and OpenAI End Plans to Expand Flagship Data Center](https://www.bloomberg.com/news/articles/2026-03-06/oracle-and-openai-end-plans-to-expand-flagship-data-center)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[The Guardian view on AI in war: the Iran conflict shows that the paradigm shift has already begun](https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun)**
+
+Editorial: The intensified use of artificial intelligence, and rows over its control, demonstrate the need for democratic oversight and multilateral controls
+
+The Guardian • 4h ago
 
 ---
 
@@ -137,57 +173,23 @@ Fox Business • 3h ago
 
 The maker of the Claude chatbot says its research could help identify economic disruptions by measuring how AI is currently reshaping work.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
-**[Pentagon labels AI company Anthropic a supply chain risk 'effective immediately'](https://www.npr.org/2026/03/06/g-s1-112713/pentagon-labels-ai-company-anthropic-a-supply-chain-risk)**
+**[The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns](https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns)**
 
-The Pentagon said in a statement Thursday that it has "officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately."
+February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
 
-NPR • 15h ago
-
----
-
-**[AI nude photos found on Fort Dorchester High school students phone](https://abcnews4.com/news/local/ai-nude-photos-found-on-fort-dorchester-high-school-students-school-articfical-social-media-children-protection-investigation-police)**
-
-Authorities are conducting an investigation after five female studnets at Fort Dorchester High School reported that their faces were used in AI-generated sexual
-
-WCIV • 1h ago
+Fox Business • 4h ago
 
 ---
 
-**[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
+**[The five AI value models driving business reinvention](https://openai.com/index/the-five-ai-value-models-driving-business-reinvention/)**
 
-The New York Times • 11h ago
+Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.
 
----
-
-**[The consumer stocks primed to be big winners from AI, according to Jefferies](https://www.cnbc.com/2026/03/06/the-consumer-stocks-primed-to-be-big-winners-from-ai-according-to-jefferies.html)**
-
-Jefferies believes that retail companies adopting AI to increase product innovation and personalization are deepening their economic moats.
-
-CNBC • 4h ago
-
----
-
-**[S&P 500 changes are due out soon. These AI stocks could join the index.](https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?gaa_at=eafs&gaa_n=AWEtsqfxpZDdPaYKmGi7z2OUiig85d0ReRPNeFgCMDrk6RDkcucgDxBx7IW7&gaa_ts=69ab3da9&gaa_sig=4AWf70_oYhRnbC49FWxPFIcKu_dNR7tapLrJEK89Cg93PpcQW5hWGiHQxTbEwMQU7wwt-odtAyCntNpq3m0gyA%3D%3D)**
-
-MarketWatch • 1h ago
-
----
-
-**[7 stock winners Jefferies says are sitting 'in the discount bin' after the AI-disruption panic](https://www.businessinsider.com/top-stock-picks-to-buy-ai-disruption-software-meta-msft-2026-3)**
-
-Stocks have been hit this year by concerns about the impact of AI. Jefferies says a handful names are a buy after getting caught in the sell-off.
-
-Business Insider • 3h ago
-
----
-
-**[Can Jews run AI on Shabbat? Rabbis weigh in](https://www.axios.com/2026/03/06/ai-shabbat-chatgpt-allowed)**
-
-Axios • 4h ago
+OpenAI • 1d ago
 
 ---
 
@@ -199,7 +201,7 @@ Axios • 4h ago
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 393 • 💬 381 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 393 • 💬 382 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -207,13 +209,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 305 • 💬 502 • 22h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 310 • 💬 509 • 23h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 282 • 💬 101 • 23h ago • [406.fail](https://406.fail/)
+⬆️ 284 • 💬 104 • 1d ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -249,19 +251,19 @@ Human DX optimizes for discoverability. Agent DX optimizes for predictability. W
 
 ---
 
+**[We might all be AI engineers now](https://news.ycombinator.com/item?id=47272734)**
+
+The models are good now. But most people still miss the point.
+
+⬆️ 148 • 💬 225 • 13h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+
+---
+
 **[Did Alibaba just kneecap its powerful Qwen AI team?](https://news.ycombinator.com/item?id=47246746)**
 
 The takeaway? If you value Qwen's open source efforts, download and preserve the models now, while you still can.
 
 ⬆️ 138 • 💬 43 • 2d ago • [Venturebeat](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
-
----
-
-**[We might all be AI engineers now](https://news.ycombinator.com/item?id=47272734)**
-
-The models are good now. But most people still miss the point.
-
-⬆️ 118 • 💬 172 • 12h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -283,7 +285,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 14K • 👍 1K • 💬 137 • ⏱️ 38:02 • 4h ago
+👁️ 14K • 👍 1K • 💬 137 • ⏱️ 38:02 • 5h ago
 
 ---
 
@@ -303,7 +305,7 @@ CNBC's Deirdre Bosa joins 'Money Movers' to report on Anthropic's new study on w
 
 📺 CNBC Television
 
-👁️ 8K • 👍 137 • 💬 81 • ⏱️ 4:51 • 4h ago
+👁️ 8K • 👍 137 • 💬 81 • ⏱️ 4:51 • 5h ago
 
 ---
 
@@ -313,7 +315,7 @@ Will AI become smarter than humans? If so, is humanity in danger? I went to Sili
 
 📺 Senator Bernie Sanders
 
-👁️ 220K • 👍 11K • 💬 3K • ⏱️ 9:38 • 1d ago
+👁️ 220K • 👍 11K • 💬 3K • ⏱️ 9:38 • 2d ago
 
 ---
 
@@ -323,7 +325,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 91 • ⏱️ 10:56 • 21h ago
+👁️ 32K • 👍 1K • 💬 91 • ⏱️ 10:56 • 22h ago
 
 ---
 
@@ -333,7 +335,7 @@ How to Make $10000 Online LIVE Workshop (free): https://event.thewealthportal.co
 
 📺 Mark Tilbury
 
-👁️ 98K • 👍 6K • 💬 365 • ⏱️ 19:52 • 7h ago
+👁️ 98K • 👍 6K • 💬 365 • ⏱️ 19:52 • 8h ago
 
 ---
 
@@ -343,7 +345,7 @@ Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI 
 
 📺 Mira AI
 
-👁️ 6K • 💬 2 • ⏱️ 9:10 • 8h ago
+👁️ 6K • 💬 2 • ⏱️ 9:10 • 9h ago
 
 ---
 
@@ -373,7 +375,7 @@ Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator M
 
 📺 Creator Magic
 
-👁️ 9K • 👍 439 • 💬 45 • ⏱️ 8:17 • 8h ago
+👁️ 9K • 👍 439 • 💬 45 • ⏱️ 8:17 • 9h ago
 
 ---
 
@@ -497,7 +499,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 370,789 • ❤️ 1,108 • 11h ago
+⬇️ 370,789 • ❤️ 1,108 • 12h ago
 
 ---
 
@@ -645,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.9k • 🔱 3.1k • 3h ago
+⭐ 23.9k • 🔱 3.1k • 4h ago
 
 ---
 
@@ -655,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.0k • 🔱 482 • 2h ago
+⭐ 14.0k • 🔱 482 • 3h ago
 
 ---
 
@@ -665,7 +667,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.0k • 🔱 992 • 6h ago
+⭐ 9.0k • 🔱 992 • 7h ago
 
 ---
 
@@ -685,7 +687,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.5k • 🔱 480 • 3h ago
+⭐ 6.5k • 🔱 480 • 4h ago
 
 ---
 
@@ -695,7 +697,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 673 • 20h ago
+⭐ 5.8k • 🔱 673 • 21h ago
 
 ---
 
@@ -715,7 +717,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 382 • 10h ago
+⭐ 3.5k • 🔱 382 • 11h ago
 
 ---
 
@@ -725,7 +727,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 241 • 17m ago
+⭐ 3.3k • 🔱 241 • 1h ago
 
 ---
 
