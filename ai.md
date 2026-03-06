@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T10:36:25.633939+00:00'
+updated: '2026-03-06T11:30:26.476205+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 10:36 UTC  
+**Last Updated:** March 06, 2026 at 11:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict](https://www.reddit.com/r/artificial/comments/1rls9fs/pentagon_formally_labels_anthropic_supplychain/)**
 
-🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 14h ago
+🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 15h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex. "Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging," says Benjamin Nephew, assistant research professor in the Department of Biology and Biotechnology. "We found that machine-learning technologies, however, can analyze large amounts of data from scans to identify subtle changes and accurately predict Alzheimer's disease and related cognitive states. This advance has informed Alzheimer's disease research and may lead to methods that could allow doctors to diagnose and treat the disease earlier and more effectively." Alzheimer's disease is a neurodegenerative disorder that impairs mental functions and ultimately leads to death. An estimated 6.9 million Americans age 65 and older are living with Alzheimer's disease. Healthy brains contain billions of neurons, the cells that process and transmit signals needed for thought, movement, and other bodily functions. Alzheimer's disease injures neurons, leading to cell death and loss of brain tissue and associated cognitive functions. Analyzing data-rich MRI images can require substantial computing power and time. To focus their investigation, the WPI researchers first used machine learning to analyze 815 MRI scans for volume measurements in 95 brain regions. Then they deployed an algorithm to make predictions based upon differences in the measurements between healthy individuals and those with mild cognitive impairment or Alzheimer's disease. Results showed that the method was 92.87% accurate in detecting Alzheimer's disease among normal brains and brains of people with mild cognitive impairment.
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 9h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 10h ago
 
 ---
 
@@ -55,7 +55,23 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-1h ago
+2h ago
+
+---
+
+**[Residents Say Elon Musk's AI Facility Is Like Living Next Door to Mordor](https://www.reddit.com/r/artificial/comments/1rmb7o5/residents_say_elon_musks_ai_facility_is_like/)**
+
+Residents of a once quiet Mississippi town complain that Elon Musk's AI facility is constantly emitting a horrible noise.
+
+🔗 [Futurism](https://futurism.com/artificial-intelligence/elon-musk-ai-facility-mordor) • 18m ago
+
+---
+
+**[AI swarms are no longer just bots — they coordinate like hives, adapt in real-time, and we're not ready](https://www.reddit.com/r/artificial/comments/1rmasa5/ai_swarms_are_no_longer_just_bots_they_coordinate/)**
+
+Researchers are raising alarms about a new class of AI-driven manipulation: coordinated AI swarms that go far beyond traditional bot networks. Unlike old-school bots that spam identical messages, these swarms operate with persistent identities, memory, and hive-like coordination — adapting their tone, adopting local slang, and generating context-aware responses at machine speed. The result is synthetic consensus: the illusion of widespread public agreement on fabricated narratives, powerful enough to sway elections. There's already empirical evidence of this playing out in several recent elections across Asia. What's more concerning is the long-term feedback loop. These swarms don't just manipulate people — they contaminate the training data that future AI models learn from. So the next generation of models inherits the biases planted by the current wave of manipulation, creating a self-perpetuating cycle that gets harder to break with each iteration. I wrote a deeper analysis of this on my site: https://cosmicmeta.ai/ai-swarms-could-escalate-online-misinformation-and-manipulation-researchers-warn/ Curious what this community thinks about whether detection-based defenses can ever keep up with AI swarms, or if we need a fundamentally different approach like mandatory algorithmic transparency and some form of identity verification. I've seen arguments on both sides, but I lean toward thinking that detection alone is a losing game — these systems evolve faster than filters can adapt, and the real solution probably has to be structural (transparency, shared threat intelligence, digital literacy) rather than purely technical.
+
+42m ago
 
 ---
 
@@ -63,15 +79,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
 
-9h ago
-
----
-
-**[Netflix just bought an AI startup founded by Ben Affleck](https://www.reddit.com/r/artificial/comments/1rm32fu/netflix_just_bought_an_ai_startup_founded_by_ben/)**
-
-Netflix just spent some of that $2.8 billion it kept after walking away from the Warner Bros. Discovery deal to acquire InterPositive, Ben Affleck’s 16-person filmmaking tech startup. With Affleck staying on as a senior adviser, the focus is squarely on post-production utility rather than "text-to-video" generative shortcuts. This move signals a shift from Netflix’s usual "build-it-ourselves" mentality toward buying specialized tools that understand the vocabulary of a working set. The most important thing to get about InterPositive is that it isn't scraping the internet to hallucinate footage. Instead, they built their models using a proprietary dataset filmed on controlled soundstages to capture exactly how light shape-shifts across a scene and how specific lens distortions actually behave. This isn't about "generating something from nothing," but rather feeding a system your production dailies so it can solve practical problems during post. This filmmaker-centric approach matters because it focuses on: Maintaining visual logic: The system is designed to keep editorial consistency intact even when a production hits messy, real-world snags like a missing shot or background errors. Precision in the grade: Rather than applying a flat filter, the tech allows cinematographers to relight shots and mix colors in a way that respects the original lighting design. Built-in guardrails: By hard-coding restraints that protect creative intent, the software ensures the final "look" remains a human decision rather than an algorithmic one. This isn't just a technical upgrade; it's a strategic olive branch to a creative community that has been understandably on edge about the "artist vs. technology" divide. By keeping these tools exclusive to its "internal creative partners" rather than selling them commercially, Netflix is positioning itself as a collaborator that values the nuts and bolts of the craft. These tools are built for the person who knows that a great sequence relies on the kind of judgment that takes decades of experience to build and hone. It’s a useful acknowledgment that sets are unpredictable environments where light and shadow don't always behave-and where the human eye is still the final authority. Ultimately, the goal here isn't to make films faster or cheaper by cutting the crew, but to give the people behind the camera a way to protect their vision through the unpredictable finish line of post-production.
-
-7h ago
+10h ago
 
 ---
 
@@ -87,7 +95,7 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 "...Evo 2, an open source AI that has been trained on genomes from all three domains of life (bacteria, archaea, and eukaryotes). After training on trillions of base pairs of DNA, Evo 2 developed internal representations of key features in even complex genomes like ours, including things like regulatory DNA and splice sites, which can be challenging for humans to spot. Bacterial genomes are organized along relatively straightforward principles. Any genes that encode proteins or RNAs are contiguous, with no interruptions in the coding sequence. Genes that perform related functions, like metabolizing a sugar or producing an amino acid, tend to be clustered together, allowing them to be controlled by a single, compact regulatory system. It’s all straightforward and efficient. Eukaryotes are not like that. The coding sections of genes are interrupted by introns, which don’t encode for anything. They’re regulated by a sequence that can be scattered across hundreds of thousands of base pairs. The sequences that define the edges of introns or the binding sites of regulatory proteins are all weakly defined—while they have a few bases that are absolutely required, there are a lot of bases that just have an above-average tendency to have a specific base (something like “45 percent of the time it’s a T”). Surrounding all of this in most eukaryotic genomes is a huge amount of DNA that has been termed junk: inactive viruses, terminally damaged genes, and so on. That complexity has made eukaryotic genomes more difficult to interpret. And, while a lot of specialized tools have been developed to identify things like splice sites, they’re all sufficiently error-prone that it becomes a problem when you’re analyzing something as large as a 3 billion-base-long genome. We can learn a lot more by making evolutionary comparisons and looking for sequences that have been conserved, but there are limits to that, and we’re often as interested in the differences between species. These sorts of statistical probabilities, however, are well-suited to neural networks, which are great at recognizing subtle patterns that can be impossible to pick out by eye. But you’d need absolutely massive amounts of data and computing time to process it and pick out some of these subtle features. We now have the raw genome data that the process needs. Putting together a system to feed it into an effective AI training program, however, remained a challenge. That’s the challenge the team behind Evo took on. The foundation of the Evo 2 system is a convolutional neural network called StripedHyena 2. The training took place in two stages. The initial stage focused on teaching the system to identify important genome features by feeding it sequences rich in them in chunks about 8,000 bases long. After that, there was a second stage in which sequences were fed a million bases at a time to provide the system the opportunity to identify large-scale genome features. The researchers trained two versions of their system using a dataset called OpenGenome2, which contains 8.8 trillion bases from all three domains of life, as well as viruses that infect bacteria. They did not include viruses that attack eukaryotes, given that they were concerned that the system could be misused to create threats to humans. Two versions were trained: one that had 7 billion parameters tuned using 2.4 trillion bases, and the full version with 40 billion parameters trained on the full open genome dataset. The logic behind the training is pretty simple: if something’s important enough to have been evolutionarily conserved across a lot of species, it will show up in multiple contexts, and the system should see it repeatedly during training. “By learning the likelihood of sequences across vast evolutionary datasets, biological sequence models capture conserved sequence patterns that often reflect functional importance,” the researchers behind the work write. “These constraints allow the models to perform zero-shot prediction without any task-specific fine-tuning or supervision.” That last aspect is important. We could, for example, tell it about what known splice sites look like, which might help it pick out additional ones. But that might make it harder for it to recognize any unusual splice sites that we haven’t recognized yet. Skipping the fine-tuning might also help it identify genome features that we’re not aware of at all at the moment, but which could become apparent through future research. All of this has now been made available to the public. “We have made Evo 2 fully open, including model parameters, training code, inference code, and the OpenGenome2 dataset,” the paper announces. The researchers also used a system that can identify internal features in neural networks to poke around inside of Evo 2 and figure out what things it had learned to recognize. They trained a separate neural network to recognize the firing patterns in Evo 2 and identify high-level features in it. It clearly recognized protein-coding regions and the boundaries of the introns that flanked them. It was also able to recognize some structural features of proteins within the coding regions (alpha helices and beta sheets), as well as mutations that disrupt their coding sequence. Even something like mobile genetic elements (which you can think of as DNA-level parasites) ended up with a feature within Evo 2. To test the system, the researchers started making single-base mutations and fed them into Evo 2 to see how it responded. Evo 2 could detect problems when the mutations affected the sites in DNA where transcription into RNA started, or the sites where translation of that RNA into protein started. It also recognized the severity of mutations. Those that would interrupt protein translation, such as the introduction of stop signals, were identified as more significant changes than those that left the translation intact. It also recognized when sequences weren’t translated at all. Many key cellular functions are carried out directly by RNAs, and Evo 2 was able to recognize when mutations disrupted those, as well. Impressively, the ability to recognize features in eukaryotic genomes occurred without the loss of its ability to recognize them in bacteria and archaea. In fact, the system seemed to be able to work out what species it was working in. A number of evolutionary groups use genetic codes with a different set of signals to stop the translation of proteins. Evo 2 was able to recognize when it was looking at a sequence from one of those species, and used the correct genetic code for them. It was also good at recognizing features that tolerate a lot of variability, such as sites that signal where to splice RNAs to remove introns from the coding sequence of proteins. By some measures, it was better than software specialized for that task. The same was true when evaluating mutations in the BRCA2 gene, where many of the mutations are associated with cancer. Given additional training on known BRCA2 mutations, its performance improved further. Overall, Evo 2 seems great for evaluating genomes and identifying key features. The researchers who built it suggest it could serve as a good automated tool for preliminary genome annotation."
 
-🔗 [Ars Technica](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) • 23h ago
+🔗 [Ars Technica](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) • 1d ago
 
 ---
 
@@ -99,15 +107,11 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 ---
 
-**[Frameworks Are Dead. Architects Are Not.](https://www.reddit.com/r/artificial/comments/1rm2ue6/frameworks_are_dead_architects_are_not/)**
+**[Netflix just bought an AI startup founded by Ben Affleck](https://www.reddit.com/r/artificial/comments/1rm32fu/netflix_just_bought_an_ai_startup_founded_by_ben/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 7h ago
+Netflix just spent some of that $2.8 billion it kept after walking away from the Warner Bros. Discovery deal to acquire InterPositive, Ben Affleck’s 16-person filmmaking tech startup. With Affleck staying on as a senior adviser, the focus is squarely on post-production utility rather than "text-to-video" generative shortcuts. This move signals a shift from Netflix’s usual "build-it-ourselves" mentality toward buying specialized tools that understand the vocabulary of a working set. The most important thing to get about InterPositive is that it isn't scraping the internet to hallucinate footage. Instead, they built their models using a proprietary dataset filmed on controlled soundstages to capture exactly how light shape-shifts across a scene and how specific lens distortions actually behave. This isn't about "generating something from nothing," but rather feeding a system your production dailies so it can solve practical problems during post. This filmmaker-centric approach matters because it focuses on: Maintaining visual logic: The system is designed to keep editorial consistency intact even when a production hits messy, real-world snags like a missing shot or background errors. Precision in the grade: Rather than applying a flat filter, the tech allows cinematographers to relight shots and mix colors in a way that respects the original lighting design. Built-in guardrails: By hard-coding restraints that protect creative intent, the software ensures the final "look" remains a human decision rather than an algorithmic one. This isn't just a technical upgrade; it's a strategic olive branch to a creative community that has been understandably on edge about the "artist vs. technology" divide. By keeping these tools exclusive to its "internal creative partners" rather than selling them commercially, Netflix is positioning itself as a collaborator that values the nuts and bolts of the craft. These tools are built for the person who knows that a great sequence relies on the kind of judgment that takes decades of experience to build and hone. It’s a useful acknowledgment that sets are unpredictable environments where light and shadow don't always behave-and where the human eye is still the final authority. Ultimately, the goal here isn't to make films faster or cheaper by cutting the crew, but to give the people behind the camera a way to protect their vision through the unpredictable finish line of post-production.
 
----
-
-**[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 1d ago
+7h ago
 
 ---
 
@@ -115,25 +119,43 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 ## Google News: "ai"
 
+**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 15h ago
+
+---
+
 **[Trump says he fired Anthropic ‘like dogs’ as Pentagon formally blacklists AI startup](https://www.theguardian.com/technology/2026/mar/05/trump-anthropic-ai-pentagon)**
 
 Reports say talks have resumed between defense department and startup over military’s use of company’s AI
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
-**[Vinod Khosla agrees with Trump on AI and China: ‘We are in a techno-economic war’](https://fortune.com/2026/03/06/vinod-khosla-china-techno-economic-war-ai-semiconductors/)**
+**[The era of Doctor AI is already here](https://www.axios.com/2026/03/06/ai-doctor-health-information-consumers)**
 
-"Whoever wins the AI race will win the economic race, and will win the race for economic power and influence globally,” Khosla tells Fortune.
-
-Fortune • 1h ago
+Axios • 58m ago
 
 ---
 
-**[Opinion | Mass Hysteria. Thousands of Jobs Lost. Just How Bad Is It Going to Get?](https://www.nytimes.com/2026/03/05/opinion/ai-jobs-white-collar-apocalpyse.html)**
+**[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 1d ago
+The New York Times • 1h ago
+
+---
+
+**[Big Tech Stocks Were Expensive. Then the Market Turned on AI](https://www.bloomberg.com/news/articles/2026-03-06/big-tech-stocks-were-expensive-then-the-market-turned-on-ai)**
+
+Bloomberg.com • 58m ago
+
+---
+
+**[Cursor Goes To War For AI Coding Dominance](https://www.forbes.com/sites/annatong/2026/03/05/cursor-goes-to-war-for-ai-coding-dominance/)**
+
+Forbes • 16h ago
 
 ---
 
@@ -141,51 +163,29 @@ The New York Times • 1d ago
 
 First known military strike on a US hyperscaler rattles regional ambitions to build multibillion-dollar cloud facilities
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
-**[Cursor Goes To War For AI Coding Dominance](https://www.forbes.com/sites/annatong/2026/03/05/cursor-goes-to-war-for-ai-coding-dominance/)**
+**[The latest AI news we announced in February](https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/)**
 
-Forbes • 15h ago
+Here are Google’s latest AI updates from February 2026
 
----
-
-**[Netflix acquires Ben Affleck's AI film-tech firm](https://www.reuters.com/business/media-telecom/netflix-acquires-ben-afflecks-ai-film-tech-firm-2026-03-05/)**
-
-Reuters • 18h ago
+blog.google • 19h ago
 
 ---
 
-**[Ben Affleck Quietly Founded a Filmmaker-Focused AI Tech Company. Netflix Just Bought It.](https://www.hollywoodreporter.com/business/digital/ben-affleck-ai-netflix-1236521806/)**
+**[Nvidia shares fall on report that Trump is seeking more control of AI chip exports](https://www.cnbc.com/2026/03/05/nvidia-slides-on-report-that-trump-wants-to-make-us-ai-gatekeeper.html)**
 
-The streaming giant is acquiring InterPositive, which develops proprietary AI tools to help filmmakers and creatives, with the actor and director also joining Netflix as a senior advisor.
+Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
 
-The Hollywood Reporter • 18h ago
-
----
-
-**[Netflix Acquires AI Filmmaking Start-Up Founded by Ben Affleck, Who Will Serve as Adviser to Streamer](https://variety.com/2026/film/news/netflix-acquires-ben-affleck-ai-filmmaking-startup-interpositive-1236679498/)**
-
-In a rare acquisition, Netflix has bought InterPositive, a start-up founded by Ben Affleck that makes AI-powered tools for filmmakers.
-
-Variety • 18h ago
+CNBC • 16h ago
 
 ---
 
-**[Oracle Plans Thousands of Job Cuts in Face of AI Cash Crunch](https://finance.yahoo.com/news/oracle-plans-thousands-job-cuts-180243222.html)**
+**[US mulls new rules for AI chip exports, including requiring US investments by foreign firms](https://www.reuters.com/world/us-mulls-new-rules-ai-chip-exports-including-requiring-investments-by-foreign-2026-03-05/)**
 
-Led by Chairman Larry Ellison, Oracle is embarking on a historic build-out of data centers to power AI workloads for customers such as OpenAI.  The company, long known for its database software, has been making a transition the past few years to bulk up its cloud computing unit with a focus on AI, intending to become a viable competitor to market leaders Amazon.com Inc. and Microsoft Corp.  Wall Street projects the expenditures by the cloud unit for data centers to push Oracle’s cash flow negative over the coming years before the spending begins to pay off in 2030, according to data compiled by Bloomberg.
-
-Yahoo Finance • 6h ago
-
----
-
-**[UK arts must not be sacrificed for speculative AI gains, peers say](https://www.theguardian.com/technology/2026/mar/06/uk-arts-must-not-be-sacrificed-for-speculative-ai-gains-peers-say)**
-
-Ministers urged to abandon plans to let tech firms use work of novelists, artists and writers without permission
-
-The Guardian • 4h ago
+Reuters • 14h ago
 
 ---
 
@@ -205,7 +205,7 @@ Apple today announced the new MacBook Air with M5, bringing exceptional performa
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 389 • 💬 376 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 391 • 💬 377 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -229,7 +229,13 @@ Leonardo de Moura — Creator of Lean and Z3
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 192 • 💬 272 • 11h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 217 • 💬 311 • 12h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+
+---
+
+**[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
+
+⬆️ 202 • 💬 69 • 13h ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -249,12 +255,6 @@ A lower court previously said that “human authorship is a bedrock requirement 
 
 ---
 
-**[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
-
-⬆️ 180 • 💬 63 • 12h ago • [406.fail](https://406.fail/)
-
----
-
 **[Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal](https://news.ycombinator.com/item?id=47241092)**
 
 A growing protest movement is encouraging people to cancel their subscriptions to the popular AI chatbot.
@@ -267,7 +267,7 @@ A growing protest movement is encouraging people to cancel their subscriptions t
 
 Human DX optimizes for discoverability. Agent DX optimizes for predictability. What I learned building a CLI for agents first.
 
-⬆️ 156 • 💬 63 • 1d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
+⬆️ 157 • 💬 63 • 1d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
 
 ---
 
@@ -301,7 +301,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 56K • 👍 3K • 💬 166 • ⏱️ 17:49 • 20h ago
+👁️ 56K • 👍 3K • 💬 166 • ⏱️ 17:49 • 21h ago
 
 ---
 
@@ -371,7 +371,7 @@ Try Flow Pro free for 14 days + get an extra month free with my code TECHWITHTIM
 
 📺 Tech With Tim
 
-👁️ 39K • 👍 2K • 💬 417 • ⏱️ 15:01 • 21h ago
+👁️ 39K • 👍 2K • 💬 417 • ⏱️ 15:01 • 22h ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 265,017 • ❤️ 283 • 3d ago
+⬇️ 265,017 • ❤️ 283 • 4d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 919,117 • ❤️ 540 • 17h ago
+⬇️ 919,117 • ❤️ 540 • 18h ago
 
 ---
 
@@ -642,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.7k • 🔱 3.0k • 6h ago
+⭐ 23.7k • 🔱 3.0k • 7h ago
 
 ---
 
@@ -652,7 +652,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 12.8k • 🔱 433 • 6h ago
+⭐ 12.8k • 🔱 433 • 7h ago
 
 ---
 
@@ -692,7 +692,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.7k • 🔱 662 • 9h ago
+⭐ 5.7k • 🔱 662 • 10h ago
 
 ---
 
@@ -702,7 +702,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 3.8k • 🔱 297 • 19h ago
+⭐ 3.8k • 🔱 297 • 20h ago
 
 ---
 
@@ -712,7 +712,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 382 • 2h ago
+⭐ 3.5k • 🔱 382 • 3h ago
 
 ---
 
