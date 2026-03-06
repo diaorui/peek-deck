@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T22:57:39.084732+00:00'
+updated: '2026-03-06T23:35:22.288334+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - social
 - videos
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 22:57 UTC  
+**Last Updated:** March 06, 2026 at 23:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 6h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-13h ago
+14h ago
 
 ---
 
@@ -61,7 +61,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -73,11 +73,11 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 ---
 
-**[Three AI stories dropped in 24 hours and almost no one is connecting them](https://www.reddit.com/r/artificial/comments/1rmrc7a/three_ai_stories_dropped_in_24_hours_and_almost/)**
+**[Online AI for your own idea](https://www.reddit.com/r/artificial/comments/1rmsj4w/online_ai_for_your_own_idea/)**
 
-Yesterday was arguably the most important day in AI this year, and it wasn't because of any single announcement. It was the combination of three: 1. OpenAI dropped GPT-5.4 Native computer use, 1 million token context window, 33% fewer hallucinations vs GPT-5.2. Three models at once: GPT-5.3 Instant, GPT-5.4 Thinking, GPT-5.4 Pro. Source 2. Pentagon officially labeled Anthropic a supply chain risk Effective immediately. Anthropic is now the first American company ever to receive this designation. The reason? Anthropic refused to let Claude be used for mass surveillance of American citizens or autonomous weapons systems. Source 3. Claude Code brought back "ultrathink" After Anthropic deprecated the ultrathink keyword in January, users filed GitHub issues about quality degradation. Community pressure worked. Source Why these matter together: Pure capability being shipped at maximum speed (GPT-5.4) A company getting punished by the government for setting ethical guardrails (Anthropic) Users successfully demanding quality from their tools (ultrathink) The AI industry is at a genuine crossroads between "build everything, no restrictions" and "build responsibly, even if it costs you." I build developer tools on Claude Code daily. This week forced me to think about what kind of AI stack I want to depend on. What do you think — should AI companies have the right to set guardrails on military use of their products?
+I made the cheapest web based ai with amazing accuracy and cheapest price of 3.5$ per 1000 queries compared to 5-12$ on perplexity, while beating perplexity on the simpleQA with 82% and getting 95+% on general query questions. Miapi.uk if you have any idea on a ai project that might need internet for accurate answers feel free to message me.
 
-1h ago
+56m ago
 
 ---
 
@@ -93,7 +93,7 @@ PART 1: THE BIRTH OF PROJECT "BALUARTE" 1. Initial Proposal: From Genius to Stra
 
 For 45 days I didn't write a single line of code. Instead, I described what to build, ran multiple Claude agents in parallel with isolated git worktrees, and spent my time reviewing diffs and making architectural decisions. The result is a fully working native macOS app for orchestrating AI coding agents. I wrote up the full origin story — including why I think the real leverage in AI-assisted dev is judgment, not typing. Read our blog post: https://chatml.com/blog/we-built-entire-product-with-ai-750-pull-requests
 
-2h ago
+3h ago
 
 ---
 
@@ -105,11 +105,11 @@ Due to pressure from the European Commission, Meta is allowing AI companies to i
 
 ---
 
-**[My opinion on AI](https://www.reddit.com/r/artificial/comments/1rmnm99/my_opinion_on_ai/)**
+**[Three AI stories dropped in 24 hours and almost no one is connecting them](https://www.reddit.com/r/artificial/comments/1rmrc7a/three_ai_stories_dropped_in_24_hours_and_almost/)**
 
-My opinion on AI My Opinion and experience on AI usage Let us discus this topic from my point of view. Or at least let me tell you how, why and for what I use AI I looked at the usage of AI from alot POV's of different people with different professions, passions to things, interests. For some it's a doom to their job, career and work in general. Some of them like me still believe their effort in THEIR chosen job is still viable? Let me put some details in it. Like after a year an then a couple years after I believe I'll get my masters in translation and then there will still be a place for me to fit in. For context I will be interpreting and translating in my job from and into three languages (I hope so) It's Russian (native), English (main language), Chinese (second language). I'm interested in learning Korean after it, and maybe trying to refresh my memory of Kazakh because I also liked Turkish alot recently. Basically speaking I'm interested in Korean and Turkish as well as I am interested in Chinese, language I'm learning actively. Basically my professional degree will be called a linguist-interpriter. I still hold hope that I will be considered as a viable and honorable person with wide variety of skills. Speaking of AI CHATBOTS, image generators and other LLM stuff. I used bunch of it (Grok, Chatgpt, bing, Claude, ellydee, and lots more.). Basically I use it now for couple of certain things. 1 Making AI generated character visual concepts. (I update them from time to time to get the version I will be liking more of) 2 To have a conversation about my fictional world, characters, worldbuilding strats to consider “in which way should I use this”, how can I adjust/expand my cosmology/power system/power tiering and all kind of conversation how can I implement or change certain idea I have in my head for it to fit in my fictional world 3 Roleplay in my fictional world just for fun. Now I use it to see how llms usually write those stories. I'm taking a closer look on text to see in which way they usually write it. Kind of “machine thinking” analysis? About the third, I know that the response you will get from the machine is literally based on how good you will prompt. I know it works both with let's say Gpt/Bing IC. But I don't usually use long prompting if I don't want or I'm bored. I'm just entertained in the process, I'm just having fun with it and not there to offend any writers/authors by prompting stories to read or artists by creating images to use as a reference. As we stopped on the artist and writers, let me say one thing. I use AI generated images as a reference because I know and fully understand that in major percent of not in full I do not own this image. Because if someone let's say will take that prompt I typed in bing and then he uses it he will get an image that is in 99.5% similar to the one I got while waiting an image to be generated. To be fair I gave those “characters” names, I have implemented them in my story tree, gave them powers, roles, minded of almost all possible connections with my megaverse and other characters. I even took a couple of references of my characters and have paid artists to make animated character gifs. I have them life in as much way as I could possibly do. The last thing that there is to do is to pay a certain group of artists so that they could do me good with making amazing work of art of my characters. What I wanted to say to authors is that I myself will write as much books, chapters, scenes and stories about my characters and my world as I still be able. It will happen In near future because I am working on it with my ignited soul and passion almost 6 years already. I think that's it. Hope most of you will understand. I will not stop my growth. AI is just a tool that helps. That is what it is for me. Thank you all for reading that.
+Yesterday was arguably the most important day in AI this year, and it wasn't because of any single announcement. It was the combination of three: 1. OpenAI dropped GPT-5.4 Native computer use, 1 million token context window, 33% fewer hallucinations vs GPT-5.2. Three models at once: GPT-5.3 Instant, GPT-5.4 Thinking, GPT-5.4 Pro. Source 2. Pentagon officially labeled Anthropic a supply chain risk Effective immediately. Anthropic is now the first American company ever to receive this designation. The reason? Anthropic refused to let Claude be used for mass surveillance of American citizens or autonomous weapons systems. Source 3. Claude Code brought back "ultrathink" After Anthropic deprecated the ultrathink keyword in January, users filed GitHub issues about quality degradation. Community pressure worked. Source Why these matter together: Pure capability being shipped at maximum speed (GPT-5.4) A company getting punished by the government for setting ethical guardrails (Anthropic) Users successfully demanding quality from their tools (ultrathink) The AI industry is at a genuine crossroads between "build everything, no restrictions" and "build responsibly, even if it costs you." I build developer tools on Claude Code daily. This week forced me to think about what kind of AI stack I want to depend on. What do you think — should AI companies have the right to set guardrails on military use of their products?
 
-3h ago
+1h ago
 
 ---
 
@@ -119,15 +119,15 @@ My opinion on AI My Opinion and experience on AI usage Let us discus this topic 
 
 **[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
-**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
+**[The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns](https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
 
-Anthropic • 1d ago
+Fox Business • 5h ago
 
 ---
 
@@ -139,11 +139,35 @@ NPR • 1h ago
 
 ---
 
+**[Lumentum, Coherent, and Vertiv Added to the S&P 500 As AI Stocks Dominate Rebalancing](https://finance.yahoo.com/news/lumentum-coherent-vertiv-added-p-225126453.html)**
+
+Three stocks at the heart of the AI infrastructure boom just got their institutional stamp of approval. Lumentum (LITE), Coherent (COHR), and Vertiv (VRT) were announced as additions to the S&P 500 tonight, as part of the quarterly index rebalancing. You can read the official S&P Global announcement here. This is not a routine reshuffling. ... Lumentum, Coherent, and Vertiv Added to the S&P 500 As AI Stocks Dominate Rebalancing
+
+Yahoo Finance • 43m ago
+
+---
+
+**[Shaheen answers voter questions on AI, term limits, war in Ukraine](https://www.wmur.com/article/shaheen-voter-questions-conversation-030626/70645776)**
+
+U.S. Sen. Jeanne Shaheen, D-New Hampshire, faced questions from voters Friday on a wide range of issues, from artificial intelligence to term limits.
+
+WMUR • 41m ago
+
+---
+
 **[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
 Fortune • 6h ago
+
+---
+
+**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 1d ago
 
 ---
 
@@ -157,39 +181,15 @@ CNBC • 6h ago
 
 **[Oracle and OpenAI End Plans to Expand Flagship Data Center](https://www.bloomberg.com/news/articles/2026-03-06/oracle-and-openai-end-plans-to-expand-flagship-data-center)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[The Guardian view on AI in war: the Iran conflict shows that the paradigm shift has already begun](https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun)**
+**[North Korean agents using AI to trick western firms into hiring them, Microsoft says](https://www.theguardian.com/business/2026/mar/06/north-korean-agents-using-ai-to-trick-western-firms-into-hiring-them-microsoft-says)**
 
-Editorial: The intensified use of artificial intelligence, and rows over its control, demonstrate the need for democratic oversight and multilateral controls
+Firm says AI tools are masking identities of false applicants, who then funnel wages from remote IT jobs to North Korea
 
-The Guardian • 4h ago
-
----
-
-**[Anthropic is tracking which jobs are most exposed to AI. These 10 professions top the list.](https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/)**
-
-The maker of the Claude chatbot says its research could help identify economic disruptions by measuring how AI is currently reshaping work.
-
-CBS News • 2h ago
-
----
-
-**[The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns](https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns)**
-
-February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
-
-Fox Business • 4h ago
-
----
-
-**[The five AI value models driving business reinvention](https://openai.com/index/the-five-ai-value-models-driving-business-reinvention/)**
-
-Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.
-
-OpenAI • 1d ago
+The Guardian • 6h ago
 
 ---
 
@@ -201,7 +201,7 @@ OpenAI • 1d ago
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 393 • 💬 382 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 394 • 💬 382 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -209,13 +209,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 310 • 💬 509 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 310 • 💬 515 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 284 • 💬 104 • 1d ago • [406.fail](https://406.fail/)
+⬆️ 285 • 💬 104 • 1d ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -231,7 +231,7 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 Slopforks: what happens when a library gets rewritten with AI?
 
-⬆️ 170 • 💬 177 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+⬆️ 170 • 💬 179 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
 
 ---
 
@@ -243,19 +243,19 @@ A growing protest movement is encouraging people to cancel their subscriptions t
 
 ---
 
+**[We might all be AI engineers now](https://news.ycombinator.com/item?id=47272734)**
+
+The models are good now. But most people still miss the point.
+
+⬆️ 158 • 💬 245 • 14h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+
+---
+
 **[You need to rewrite your CLI for AI agents](https://news.ycombinator.com/item?id=47252459)**
 
 Human DX optimizes for discoverability. Agent DX optimizes for predictability. What I learned building a CLI for agents first.
 
 ⬆️ 158 • 💬 63 • 2d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
-
----
-
-**[We might all be AI engineers now](https://news.ycombinator.com/item?id=47272734)**
-
-The models are good now. But most people still miss the point.
-
-⬆️ 148 • 💬 225 • 13h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -285,7 +285,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 14K • 👍 1K • 💬 137 • ⏱️ 38:02 • 5h ago
+👁️ 23K • 👍 1K • 💬 169 • ⏱️ 38:02 • 6h ago
 
 ---
 
@@ -295,17 +295,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 83K • 👍 4K • 💬 226 • ⏱️ 17:49 • 1d ago
-
----
-
-**[Early indicator of AI labor impact](https://www.youtube.com/watch?v=DSX68fDs9uo)**
-
-CNBC's Deirdre Bosa joins 'Money Movers' to report on Anthropic's new study on which jobs AI is already displacing.
-
-📺 CNBC Television
-
-👁️ 8K • 👍 137 • 💬 81 • ⏱️ 4:51 • 5h ago
+👁️ 87K • 👍 4K • 💬 254 • ⏱️ 17:49 • 1d ago
 
 ---
 
@@ -315,7 +305,7 @@ Will AI become smarter than humans? If so, is humanity in danger? I went to Sili
 
 📺 Senator Bernie Sanders
 
-👁️ 220K • 👍 11K • 💬 3K • ⏱️ 9:38 • 2d ago
+👁️ 227K • 👍 11K • 💬 3K • ⏱️ 9:38 • 2d ago
 
 ---
 
@@ -325,47 +315,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 91 • ⏱️ 10:56 • 23h ago
-
----
-
-**[I&#39;m Changing How I Manage My Money Because of AI](https://www.youtube.com/watch?v=O8t50OxsfB8)**
-
-How to Make $10000 Online LIVE Workshop (free): https://event.thewealthportal.com/waitlist To get free fractional shares worth ...
-
-📺 Mark Tilbury
-
-👁️ 98K • 👍 6K • 💬 365 • ⏱️ 19:52 • 8h ago
-
----
-
-**[How To Create Long 3D AI Animation with Consistent Characters](https://www.youtube.com/watch?v=VSWApcIZFC4)**
-
-Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI tool I used ...
-
-📺 Mira AI
-
-👁️ 6K • 💬 2 • ⏱️ 9:10 • 10h ago
-
----
-
-**[OpenAI Strikes Back &amp; More AI News You Can Use](https://www.youtube.com/watch?v=9FruIqE0OEw)**
-
-Subscribe for more weekly AI news you can use! This week, Igor covers the new model releases from OpenAI including GPT-5.3 ...
-
-📺 The AI Advantage
-
-👁️ 4K • 👍 231 • 💬 23 • ⏱️ 19:47 • 6h ago
-
----
-
-**[Replacing Humans With AI Is Catastrophically Backfiring](https://www.youtube.com/watch?v=3KQxQckG8ug)**
-
-Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your free FÜM Topper when you order your ...
-
-📺 Moon
-
-👁️ 179K • 👍 8K • 💬 2K • ⏱️ 21:38 • 1d ago
+👁️ 34K • 👍 1K • 💬 91 • ⏱️ 10:56 • 1d ago
 
 ---
 
@@ -375,7 +325,57 @@ Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator M
 
 📺 Creator Magic
 
-👁️ 9K • 👍 439 • 💬 45 • ⏱️ 8:17 • 10h ago
+👁️ 11K • 👍 505 • 💬 47 • ⏱️ 8:17 • 10h ago
+
+---
+
+**[Early indicator of AI labor impact](https://www.youtube.com/watch?v=DSX68fDs9uo)**
+
+CNBC's Deirdre Bosa joins 'Money Movers' to report on Anthropic's new study on which jobs AI is already displacing.
+
+📺 CNBC Television
+
+👁️ 13K • 👍 180 • 💬 88 • ⏱️ 4:51 • 6h ago
+
+---
+
+**[How AI is being used in war in 2026 | DW News](https://www.youtube.com/watch?v=K5fy9-cl08s)**
+
+Operation Epic Fury in Iran, the capture of Maduro in Venezuela and ICE surveillance show: AI shapes today's conflicts. But who is ...
+
+📺 DW News
+
+👁️ 14K • 👍 446 • 💬 70 • ⏱️ 4:12 • 13h ago
+
+---
+
+**[How To Create Long 3D AI Animation with Consistent Characters](https://www.youtube.com/watch?v=VSWApcIZFC4)**
+
+Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI tool I used ...
+
+📺 Mira AI
+
+👁️ 6K • 💬 9 • ⏱️ 9:10 • 10h ago
+
+---
+
+**[STOP Paying ElevenLabs! 4 FREE &amp; UNLIMITED AI Voices (No Credits)](https://www.youtube.com/watch?v=kAOwr0A7i08)**
+
+Try Higgsfield's new audio models and voice cloning ...
+
+📺 Malva AI
+
+👁️ 3K • 👍 215 • 💬 39 • ⏱️ 10:04 • 11h ago
+
+---
+
+**[I&#39;m Changing How I Manage My Money Because of AI](https://www.youtube.com/watch?v=O8t50OxsfB8)**
+
+How to Make $10000 Online LIVE Workshop (free): https://event.thewealthportal.com/waitlist To get free fractional shares worth ...
+
+📺 Mark Tilbury
+
+👁️ 123K • 👍 7K • 💬 445 • ⏱️ 19:52 • 9h ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 516,030 • ❤️ 525 • 4d ago
+⬇️ 516,030 • ❤️ 528 • 4d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,000,738 • ❤️ 994 • 7d ago
+⬇️ 1,000,738 • ❤️ 995 • 7d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 265,017 • ❤️ 292 • 4d ago
+⬇️ 265,017 • ❤️ 293 • 4d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 232,531 • ❤️ 262 • 4d ago
+⬇️ 232,531 • ❤️ 263 • 4d ago
 
 ---
 
@@ -439,7 +439,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 34,959 • ❤️ 252 • 1d ago
+⬇️ 34,959 • ❤️ 261 • 1d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 919,117 • ❤️ 546 • 1d ago
+⬇️ 919,117 • ❤️ 552 • 1d ago
 
 ---
 
@@ -463,7 +463,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 380,168 • ❤️ 219 • 4d ago
+⬇️ 380,168 • ❤️ 220 • 4d ago
 
 ---
 
@@ -647,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.9k • 🔱 3.1k • 4h ago
+⭐ 24.0k • 🔱 3.1k • 16m ago
 
 ---
 
@@ -657,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.0k • 🔱 482 • 4h ago
+⭐ 14.1k • 🔱 482 • 5h ago
 
 ---
 
@@ -667,7 +667,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.0k • 🔱 992 • 8h ago
+⭐ 9.0k • 🔱 994 • 8h ago
 
 ---
 
@@ -697,7 +697,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 673 • 21h ago
+⭐ 5.8k • 🔱 675 • 22h ago
 
 ---
 
@@ -707,7 +707,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 4.4k • 🔱 355 • 1d ago
+⭐ 4.5k • 🔱 356 • 1d ago
 
 ---
 
@@ -717,7 +717,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 382 • 11h ago
+⭐ 3.5k • 🔱 383 • 12h ago
 
 ---
 
@@ -727,7 +727,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 241 • 1h ago
+⭐ 3.3k • 🔱 241 • 2h ago
 
 ---
 
@@ -737,7 +737,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 628 • 3d ago
+⭐ 3.2k • 🔱 630 • 3d ago
 
 ---
 

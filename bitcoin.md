@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T22:57:39.093191+00:00'
+updated: '2026-03-06T23:35:22.296840+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 22:57 UTC  
+**Last Updated:** March 06, 2026 at 23:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.6%  
-**7d:** +2.0%  
+**24h:** -3.7%  
+**7d:** +2.1%  
 **30d:** +8.9%  
 **90d:** -24.4%  
 **1y:** -21.3%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1359.20B
+**Market Cap:** $1366.36B
 Rank #1
 
-**Circulating Supply:** 19,998,812 BTC
+**Circulating Supply:** 19,998,825 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.1%
+-45.8%
 
 **All-Time Low:** $67.81
-+100189.0%
++100646.2%
 
 ---
 
@@ -79,13 +79,21 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-6h ago
+7h ago
+
+---
+
+**[STRC is buying 800 bitcoin per day](https://www.reddit.com/r/Bitcoin/comments/1rmrtlc/strc_is_buying_800_bitcoin_per_day/)**
+
+So pay atention to this new information about the bitcoin supply
+
+1h ago
 
 ---
 
@@ -93,7 +101,7 @@ Rank #1
 
 In history, Bitcoin reached its ATH in November 2017 at a price slightly under 20k. During the next bear cycle in 2022, Bitcoin stayed below 20k for 30 weeks (210 days), from June until January 2023. Bitcoin hit its ATH again in November 2021 at 69k. In this current bear cycle in 2026, we're now staying under 69k for 4 weeks since February. If we use the same historical scale, we still have 26 more weeks until September. We are in a great time to accumulate, more and more when it's low. Compound faster through every cycle. Not financial advice.
 
-2h ago
+3h ago
 
 ---
 
@@ -117,15 +125,7 @@ According to a recent Reuters report, Kazakhstan’s central bank is considering
 
 Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycles now. Psychologically, most BTC traders take it as inevitable which makes it a self-fulfilling prophecy. There are always “this time is different” arguments and at some point in the future, hopefully, BTC would mature to a point where there are no cycles, but why bet against the rule until it’s broken? (Noting this in response to people I’m seeing acting like a 10-15% jump means winter is over. It seems to me that we could not have a sustained rally until Q3 where some will try to front-run the historical Q4 rally. Obviously, DCAing at these levels is still great and who knows how low we’ll actually go this time.)
 
-2h ago
-
----
-
-**[STRC is buying 800 bitcoin per day](https://www.reddit.com/r/Bitcoin/comments/1rmrtlc/strc_is_buying_800_bitcoin_per_day/)**
-
-So pay atention to this new information about the bitcoin supply
-
-47m ago
+3h ago
 
 ---
 
@@ -133,7 +133,7 @@ So pay atention to this new information about the bitcoin supply
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-12h ago
+13h ago
 
 ---
 
@@ -141,7 +141,7 @@ A trader I know got completely burnt because of a 2% dip. If you are one of them
 
 Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
 
-16h ago
+17h ago
 
 ---
 
@@ -149,7 +149,7 @@ Indiana Governor Mike Braun recently signed a bill that allows certain retiremen
 
 Hi! I’ve been holding BTC for years and most of it stays on a hardware wallet. I rarely move it. Out of curiosity, where do people usually send BTC when they move some? Just trying to understand how others handle it.
 
-1h ago
+2h ago
 
 ---
 
@@ -165,28 +165,6 @@ CoinDesk • 8h ago
 
 ---
 
-**[Trump-linked American Bitcoin pushes holdings to 6,500 BTC amid mining-fueled treasury expansion as stock jumps](https://www.theblock.co/post/392412/trump-linked-american-bitcoin-pushes-holdings-to-6500-btc-amid-mining-fueled-treasury-expansion-as-stock-jumps)**
-
-The increase follows a mining fleet expansion as the firm focuses on accumulating bitcoin through large-scale self-mining.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[This Could Be the Missing X Factor for Bitcoin, According to Cathie Wood of Ark Invest](https://finance.yahoo.com/news/could-missing-x-factor-bitcoin-200400490.html)**
-
-Any sustained buying for the Strategic Bitcoin Reserve could help to send the price of Bitcoin soaring.
-
-Yahoo Finance • 2h ago
-
----
-
 **[The Secret Loophole Helping Iran Fire Missiles At Israel And US Without Going Broke](https://www.ndtv.com/world-news/the-secret-bitcoin-loophole-helping-iran-fire-missiles-at-israel-and-us-without-going-broke-11175328)**
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
@@ -195,11 +173,27 @@ NDTV • 20h ago
 
 ---
 
+**[2 Reasons to Buy Bitcoin Before June 2026](https://finance.yahoo.com/news/2-reasons-buy-bitcoin-june-102000936.html)**
+
+These two factors could dramatically change the way investors think about Bitcoin.
+
+Yahoo Finance • 13h ago
+
+---
+
+**[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
+
+Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
+
+Business Insider • 2d ago
+
+---
+
 **[Food Lion manager stops elderly woman from losing $5K in bitcoin scam](https://www.wistv.com/2026/03/06/food-lion-manager-stops-elderly-woman-losing-5k-bitcoin-scam/)**
 
 A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
-WIS News 10 • 18h ago
+WIS News 10 • 19h ago
 
 ---
 
@@ -211,27 +205,33 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin Surges to $74,000 After President Trump Throws Support Behind Key Crypto Bill](https://www.investopedia.com/bitcoin-surges-after-president-trump-throws-support-behind-key-crypto-bill-11919161)**
+**[Bitcoin Holds Firm Above $70,000 as Global Assets Recover](https://www.bloomberg.com/news/articles/2026-03-05/bitcoin-btc-holds-firm-above-70-000-as-global-assets-recover)**
 
-The world's largest cryptocurrency has gained about 8% over the last 24 hours, hitting its highest level in a month.
-
-Investopedia • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin rebound appears a 'relief rally,' not the start of a new bullish cycle, says CryptoQuant](https://www.theblock.co/post/392499/bitcoin-rebound-relief-rally-not-start-bullish-cycle-cryptoquant)**
+**[Vancouver city staff recommend dropping Mayor Ken Sim's bitcoin motion](https://www.cbc.ca/news/canada/british-columbia/vancouver-bitcoin-staff-rejection-9.7116603)**
 
-"Bitcoin is still inside a bear market, despite the recent price rally," Julio Moreno, head of research at CryptoQuant, said.
+Vancouver city staff are taking stock of what council motions they should work on for the rest of the year — and one of the motions on the chopping block is a pet project from Mayor Ken Sim.
+
+CBC • 22h ago
+
+---
+
+**[Trump-linked American Bitcoin pushes holdings to 6,500 BTC amid mining-fueled treasury expansion as stock jumps](https://www.theblock.co/post/392412/trump-linked-american-bitcoin-pushes-holdings-to-6500-btc-amid-mining-fueled-treasury-expansion-as-stock-jumps)**
+
+The increase follows a mining fleet expansion as the firm focuses on accumulating bitcoin through large-scale self-mining.
 
 The Block • 1d ago
 
 ---
 
-**[Bitcoin and stocks stabilize after early week slide. The bond market isn’t convinced.](https://www.coindesk.com/markets/2026/03/06/bitcoin-and-stocks-stabilize-after-early-week-slide-the-bond-market-isn-t-convinced)**
+**[Prediction Markets Are Pricing in Pennies for a $150,000 Bitcoin by March -- Here's Why I Still Wouldn't Bet Against This Crypto Wild Card](https://www.nasdaq.com/articles/prediction-markets-are-pricing-pennies-150000-bitcoin-march-heres-why-i-still-wouldnt-bet)**
 
-Bitcoin and stocks stabilize, but bond yields continue to rise, calling for caution.
+Key PointsPolymarket traders give Bitcoin just a 1% chance of hitting $150,000 by the end of March.
 
-CoinDesk • 17h ago
+Nasdaq • 19h ago
 
 ---
 
@@ -323,7 +323,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 10K • 👍 621 • 💬 58 • ⏱️ 3:44 • 8h ago
+👁️ 11K • 👍 650 • 💬 62 • ⏱️ 3:44 • 8h ago
 
 ---
 
@@ -333,7 +333,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 539 • 💬 74 • ⏱️ 19:58 • 1d ago
+👁️ 19K • 👍 553 • 💬 73 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -343,47 +343,17 @@ Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's 
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 375 • 💬 29 • ⏱️ 18:20 • 4h ago
+👁️ 10K • 👍 516 • 💬 33 • ⏱️ 18:20 • 5h ago
 
 ---
 
-**[Could This Send Bitcoin to $700K Within 10 Months?!](https://www.youtube.com/watch?v=tQR7mHjAwzY)**
+**[Could This Send Bitcoin to $700K in Just 10 Months?!](https://www.youtube.com/watch?v=tQR7mHjAwzY)**
 
 Bitcoin just surged toward $74K and the big question is whether this is the start of the next leg up or a brutal bull trap. Arthur Hayes ...
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 233 • ⏱️ 17:07 • 23h ago
-
----
-
-**[🚨 ALERT: The Bitcoin Floodgates Are Open!!](https://www.youtube.com/watch?v=m5nunXOj2VM)**
-
-The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
-
-📺 Altcoin Daily
-
-👁️ 42K • 👍 2K • 💬 176 • ⏱️ 8:38 • 22h ago
-
----
-
-**[BITCOIN IS DUMPING!!! [WATCH ASAP]](https://www.youtube.com/watch?v=OweWEg8B2jU)**
-
-LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ...
-
-📺 Crypto Kid
-
-👁️ 2K • 👍 182 • 💬 19 • ⏱️ 5:30 • 5h ago
-
----
-
-**[He Predicted EVERY Bitcoin Move (Now He Says $58K Is NEXT)](https://www.youtube.com/watch?v=eX4mWTTV1-o)**
-
-A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce, and every breakdown — for 10 months straight.
-
-📺 No Bs Crypto
-
-👁️ 12K • 👍 915 • 💬 185 • ⏱️ 12:20 • 1d ago
+👁️ 20K • 👍 2K • 💬 276 • ⏱️ 17:07 • 1d ago
 
 ---
 
@@ -393,27 +363,57 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 68K • 👍 3K • 💬 263 • ⏱️ 17:02 • 1d ago
+👁️ 70K • 👍 3K • 💬 253 • ⏱️ 17:02 • 1d ago
 
 ---
 
-**[How Bitcoin Could Get To $10 MILLION Per Coin](https://www.youtube.com/watch?v=0mHU6N2G6_o)**
+**[I Told You Bitcoin Was Back — Here&#39;s What Happened Next](https://www.youtube.com/watch?v=ti9QlFtZx-M)**
 
-Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discuss whether bitcoin acts as a risk-on tech asset or ...
+I told you last week — Bitcoin is back. Fear & Greed was at 13. Everyone was panicking. And while retail was selling, institutions ...
 
-📺 Anthony Pompliano
+📺 Davinci Jeremie
 
-👁️ 31K • 👍 1K • 💬 98 • ⏱️ 40:52 • 1d ago
+👁️ 2K • 👍 278 • 💬 48 • ⏱️ 17:13 • 5h ago
 
 ---
 
-**[Bitcoin BTC Chart Analysis - Has Bitcoin Formed an Impulse? Elliott Wave Analysis](https://www.youtube.com/watch?v=F6tGEKfXHB8)**
+**[A BITCOIN EMERGENCY🚨 : DON&#39;T IGNORE THIS VIDEO - BTC is About to get a Liquidity Sweep &amp; Then Bottom](https://www.youtube.com/watch?v=1Ign2QamOjM)**
 
-This video provides a professional Elliott Wave and technical analysis of Bitcoin (BTC), focusing on market structure, key support ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 More Crypto Online
+📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 355 • 💬 7 • ⏱️ 4:28 • 5h ago
+👁️ 3K • 👍 405 • ⏱️ 33:47 • 3h ago
+
+---
+
+**[🚨 ALERT: The Bitcoin Floodgates Are Open!!](https://www.youtube.com/watch?v=m5nunXOj2VM)**
+
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 2K • 💬 227 • ⏱️ 8:38 • 23h ago
+
+---
+
+**[BITCOIN IS DUMPING!!! [WATCH ASAP]](https://www.youtube.com/watch?v=OweWEg8B2jU)**
+
+LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ...
+
+📺 Crypto Kid
+
+👁️ 2K • 👍 200 • 💬 19 • ⏱️ 5:30 • 5h ago
+
+---
+
+**[He Predicted EVERY Bitcoin Move (Now He Says $58K Is NEXT)](https://www.youtube.com/watch?v=eX4mWTTV1-o)**
+
+A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce, and every breakdown — for 10 months straight.
+
+📺 No Bs Crypto
+
+👁️ 13K • 👍 930 • 💬 152 • ⏱️ 12:20 • 1d ago
 
 ---
 

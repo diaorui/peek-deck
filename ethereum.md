@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-06T22:57:39.099516+00:00'
+updated: '2026-03-06T23:35:22.302935+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 22:57 UTC  
+**Last Updated:** March 06, 2026 at 23:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.3%  
-**7d:** +1.0%  
-**30d:** +8.7%  
-**90d:** -35.2%  
-**1y:** -7.3%  
+**24h:** -4.2%  
+**7d:** +1.1%  
+**30d:** +8.8%  
+**90d:** -35.1%  
+**1y:** -7.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.18B
+**Market Cap:** $239.74B
 Rank #2
 
 **Circulating Supply:** 120,692,086 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.1%
+-59.9%
 
 **All-Time Low:** $0.43
-+455947.5%
++458451.1%
 
 ---
 
@@ -88,7 +88,7 @@ One important technical item that I forgot to mention is the proposed switch fro
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Zero-knowledge cryptography went through three phases. First: hand-crafted arithmetic circuits, only accessible to deep researchers. Second: ZK virtual machines — suddenly any developer could write verifiable code in Rust or C. Third: prover networks (Succinct, Boundless/RiscZero) that let you delegate the heavy proof generation to external infrastructure. Each phase made the technology more accessible. Each phase also moved the user's data further from their control. Prover networks require your full plaintext data to generate proofs. For rollups, this is a non-issue — public ledger, no privacy expectation, and what you gain (succinctness — compressing thousands of transactions into a single proof) is worth the trade. That's the use case these networks were built for, and they served it well. The problem emerges when you extend this model to user-facing applications. Verifiable identity: proving you hold a valid passport, proving you're over 18, without disclosing the underlying data. Private AI inference: running a model on your data without the model owner seeing your inputs or you seeing their weights. Decentralized exchanges with private order books. In all of these, delegating to a prover network means surrendering exactly the inputs you need to keep private. I sat down with a researcher at ChainSafe who's working on this specific problem. His approach: adding MPC (multi-party computation) to ZK VMs so proof generation can be delegated privately. Multiple parties each hold a secret share of the data, compute their portion, and combine results — no single party ever sees the full picture. He calls it "make ZK VMs ZK again." He also covered a near-term approach to the deepfake problem: attested sensors that cryptographically sign photo/video metadata at capture, combined with verifiable edit histories. You can't yet verify what IS AI-generated. But you can prove everything that is human — a reverse approach. Prove provenance instead of detecting fakes. The full conversation covers ZK, MPC, and FHE (the "holy trinity of programmable cryptography"), explained through photography analogies that are genuinely useful for building intuition. We filmed it across Taipei — street markets, a botanical garden, a tea ceremony. Full interview: https://youtu.be/PnEivfTpnA8 ————— If we're meeting for the first time, hi 👋! I started building my channel to spread the good word on good work in crypto — something with substance and humanity. A like, sub, and comment goes a long way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/PnEivfTpnA8) • 7h ago
+🔗 [youtu.be](https://youtu.be/PnEivfTpnA8) • 8h ago
 
 ---
 
@@ -108,7 +108,7 @@ Zero-knowledge cryptography went through three phases. First: hand-crafted arith
 
 **[A few thoughts on Culpier's Research](https://www.reddit.com/r/ethereum/comments/1rmopky/a_few_thoughts_on_culpiers_research/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -116,7 +116,7 @@ Zero-knowledge cryptography went through three phases. First: hand-crafted arith
 
 On March 29, 2016, Digix Global launched what became the first major DAO crowdsale on Ethereum. It raised $5.5 million in under 24 hours — at a time when Ethereum's total market cap was around $600 million. What it was: DigixDAO was a governance token (DGD) for a project aiming to tokenize physical gold bars on Ethereum. The crowdsale contract was deployed at block 1,239,208 and compiled with Solidity v0.3.0. Why it mattered: - It was the first DAO-style crowdsale to raise serious money on Ethereum - It proved that decentralized fundraising could work at scale, months before The DAO - The speed of the raise ($5.5M in <24h) shocked even the Ethereum community - It directly inspired the wave of ICOs that followed in 2017 Independent verification: Developer Piper Merriam independently verified the contract code before the sale, establishing one of the earliest examples of third-party smart contract auditing. The original community discussion happened right here on r/ethereum, with this thread documenting the reaction in real-time. Contract: 0xf0160428a8552ac9bb7e050d90eeade4ddd52843 Full writeup with sources: EthereumHistory.com This was just 7 months before The DAO — and in many ways, it was the proof of concept that made The DAO feel possible. We're documenting these pre-2017 contracts before the context disappears.
 
-8h ago
+9h ago
 
 ---
 
@@ -124,7 +124,7 @@ On March 29, 2016, Digix Global launched what became the first major DAO crowdsa
 
 ePBS first devnet live, Aave Labs temp check passed, Synthesis AI + human hackathon
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-14/) • 10h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-14/) • 11h ago
 
 ---
 
@@ -148,11 +148,11 @@ Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed 
 
 ## Google News: "ethereum"
 
-**[Got $1,000? This Cryptocurrency Is a No-Brainer Buy for Long-Term Holding](https://www.fool.com/investing/2026/03/05/got-1000-this-cryptocurrency-is-a-no-brainer-buy-f/)**
+**[Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck](https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck)**
 
-The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
+Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
 
-The Motley Fool • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -164,7 +164,15 @@ The Block • 12h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqdu3oisMeTsELqMn1xoeCVOXpDUJLz36o08ki941tVHCjf77Yyb5E_R&gaa_ts=69ab58e4&gaa_sig=TQV0XBI7j7i5YDKZW5hgLURsbbU8bm0CGQdq8BdSkLi8mC8mis2v9eNKH-_zH-pqE3IwJOmTBtHOVQhMRM7iug%3D%3D)**
+**[Got $1,000? This Cryptocurrency Is a No-Brainer Buy for Long-Term Holding](https://www.fool.com/investing/2026/03/05/got-1000-this-cryptocurrency-is-a-no-brainer-buy-f/)**
+
+The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqcWhsD9Gz47Fm6fnu9HR6Qb_IbnJ26aCSnuFR--FB767ja2HsZRrUyl&gaa_ts=69ab682a&gaa_sig=yeDsL8VJ6SaUrBRkpJXEKQyyJtk9LS_qVhfJruuD3fJIGX0bKoMWhKfci2J4dJatM1Gmdnq7q9d_JUa0UkdWVQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -202,19 +210,11 @@ Fortune • 2d ago
 
 ---
 
-**[Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck](https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck)**
-
-Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
-
-Decrypt • 2d ago
-
----
-
 **[Ethereum Price Corrects Gains, Drifts Toward Key Support Zone](https://www.tradingview.com/news/newsbtc:9632ed3a6094b:0-ethereum-price-corrects-gains-drifts-toward-key-support-zone/)**
 
 Ethereum price started a fresh increase and tested $2,200. ETH is now correcting gains and might decline further if it trades below $2,030.Ethereum Price Starts Downside CorrectionEthereum price started a fresh increase above the $2,065 resistance, like Bitcoin. ETH price rallied above the $2,120 a…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 19h ago
 
 Dubai, UAE, March  06, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto just announced that presale wallets will receive a permanent share of all excha...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -236,17 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 136 • 💬 23 • ⏱️ 10:24 • 11h ago
-
----
-
-**[Whales Are Loading Up on BTC, ETH, ASTER &amp; PUMP – What Do They Know? 👀](https://www.youtube.com/watch?v=qkFFwZjfOA4)**
-
-We analyze the latest crypto whale activity and what it could mean for the broader market. On-chain data is showing large ...
-
-📺 Altcoin Buzz
-
-👁️ 1K • 👍 66 • 💬 63 • ⏱️ 12:09 • 6h ago
+👁️ 3K • 👍 146 • 💬 33 • ⏱️ 10:24 • 11h ago
 
 ---
 
@@ -256,37 +246,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 88 • 👍 8 • 💬 3 • ⏱️ 7:22 • 3h ago
+👁️ 141 • 👍 12 • 💬 4 • ⏱️ 7:22 • 3h ago
 
 ---
 
-**[&quot;People Don’t Know How Massive MARCH Will Be for Crypto&quot;: Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=7oRNY59aeTo)**
+**[Whales Are Loading Up on BTC, ETH, ASTER &amp; PUMP – What Do They Know? 👀](https://www.youtube.com/watch?v=qkFFwZjfOA4)**
 
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+We analyze the latest crypto whale activity and what it could mean for the broader market. On-chain data is showing large ...
 
-📺 Jamie Tree 
+📺 Altcoin Buzz
 
-👁️ 2K • 👍 62 • 💬 25 • ⏱️ 19:52 • 1d ago
-
----
-
-**[Tom Lee has gone insane (ethereum).](https://www.youtube.com/watch?v=KUl2p8MQGBg)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 21K • 👍 603 • 💬 21 • ⏱️ 1:16 • 1d ago
-
----
-
-**[Bitcoin Bottom Forming? ETH Accumulation Surges While Crypto Fear Spikes | MSTR BMNR](https://www.youtube.com/watch?v=qXEAgObFIqo)**
-
-I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
-
-📺 MONEY GAME
-
-👁️ 1K • 👍 79 • 💬 12 • ⏱️ 31:22 • 11h ago
+👁️ 1K • 👍 71 • 💬 63 • ⏱️ 12:09 • 7h ago
 
 ---
 
@@ -296,7 +266,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 100 • 💬 3 • ⏱️ 6:30 • 6h ago
+👁️ 2K • 👍 113 • 💬 5 • ⏱️ 6:30 • 6h ago
+
+---
+
+**[&quot;People Don’t Know How Massive MARCH Will Be for Crypto&quot;: Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=7oRNY59aeTo)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 2K • 👍 64 • 💬 11 • ⏱️ 19:52 • 1d ago
+
+---
+
+**[Tom Lee has gone insane (ethereum).](https://www.youtube.com/watch?v=KUl2p8MQGBg)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 21K • 👍 606 • 💬 20 • ⏱️ 1:16 • 1d ago
 
 ---
 
@@ -306,17 +296,27 @@ Is crypto still the future of investing? Mark Cuban shares his honest take: • 
 
 📺 VP Motion
 
-👁️ 752 • 👍 9 • ⏱️ 0:46 • 5h ago
+👁️ 1K • 👍 11 • ⏱️ 0:46 • 6h ago
 
 ---
 
-**[Vitalik Buterin Is Selling His ETH: What It Means for Ethereum](https://www.youtube.com/watch?v=MminLKRi-x8)**
+**[Is Canton Network the Next Ethereum? Here&#39;s What Nobody&#39;s Talking About](https://www.youtube.com/watch?v=C-7JM43nOZ8)**
 
-Follow us on Telegram   https://t.me/+7CAS7-PBmdliY2Uy Friends, there's a really important question on the market right now: is ...
+THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.com Tangem ...
 
-📺 Coin Post
+📺 Grow Rich Grow Happy
 
-👁️ 69 • 👍 7 • 💬 43 • ⏱️ 10:22 • 5h ago
+👁️ 336 • 👍 73 • 💬 26 • ⏱️ 19:17 • 1h ago
+
+---
+
+**[Bitcoin Bottom Forming? ETH Accumulation Surges While Crypto Fear Spikes | MSTR BMNR](https://www.youtube.com/watch?v=qXEAgObFIqo)**
+
+I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
+
+📺 MONEY GAME
+
+👁️ 1K • 👍 81 • 💬 12 • ⏱️ 31:22 • 12h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 283 • 👍 19 • 💬 1 • ⏱️ 5:16 • 13h ago
+👁️ 383 • 👍 20 • 💬 1 • ⏱️ 5:16 • 13h ago
 
 ---
 
