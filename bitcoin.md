@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T20:34:08.359942+00:00'
+updated: '2026-03-06T21:31:00.227054+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 20:34 UTC  
+**Last Updated:** March 06, 2026 at 21:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1368.58B
+**Market Cap:** $1359.20B
 Rank #1
 
-**Circulating Supply:** 19,998,750 BTC
+**Circulating Supply:** 19,998,812 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.7%
+-46.1%
 
 **All-Time Low:** $67.81
-+100771.6%
++100189.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-4h ago
+5h ago
 
 ---
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ According to a recent Reuters report, Kazakhstan’s central bank is considering
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ A trader I know got completely burnt because of a 2% dip. If you are one of them
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-47m ago
+1h ago
 
 ---
 
@@ -117,7 +117,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ Indiana Governor Mike Braun recently signed a bill that allows certain retiremen
 
 I believe the video was created by u/scott_ci and it still explains how Bitcoin works, pretty well (except the address/public key mistake).
 
-🔗 [youtu.be](https://youtu.be/Lx9zgZCMqXE) • 6h ago
+🔗 [youtu.be](https://youtu.be/Lx9zgZCMqXE) • 7h ago
 
 ---
 
@@ -133,7 +133,7 @@ I believe the video was created by u/scott_ci and it still explains how Bitcoin 
 
 Hi - I'm new to Bitcoin and planning to buy every week for $100 to $150. How often do you move your Bitcoin to storage? To be safe, I'm planning to buy a code storage. Pls recommend one. Appreciate your help.
 
-10h ago
+11h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hi - I'm new to Bitcoin and planning to buy every week for $100 to $150. How oft
 
 Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycles now. Psychologically, most BTC traders take it as inevitable which makes it a self-fulfilling prophecy. There are always “this time is different” arguments and at some point in the future, hopefully, BTC would mature to a point where there are no cycles, but why bet against the rule until it’s broken? (Noting this in response to people I’m seeing acting like a 10-15% jump means winter is over. It seems to me that we could not have a sustained rally until Q3 where some will try to front-run the historical Q4 rally. Obviously, DCAing at these levels is still great and who knows how low we’ll actually go this time.)
 
-34m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycle
 
 New COLDCARD Feature Release: BIP-322 and WIF Support
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/bip322-wif/) • 7h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/bip322-wif/) • 8h ago
 
 ---
 
@@ -161,7 +161,7 @@ New COLDCARD Feature Release: BIP-322 and WIF Support
 
 The outlook for the Fed grew cloudier on Friday, as the employment market weakened appreciably even as inflation could be worsening.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 5h ago
 
 Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
 
-Nasdaq • 13h ago
+Nasdaq • 14h ago
 
 ---
 
@@ -177,7 +177,7 @@ Nasdaq • 13h ago
 
 The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ Fortune • 2h ago
 
 Any sustained buying for the Strategic Bitcoin Reserve could help to send the price of Bitcoin soaring.
 
-Yahoo Finance • 30m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 30m ago
 
 Any sustained buying for the Strategic Bitcoin Reserve could help to send the price of Bitcoin soaring.
 
-The Motley Fool • 50m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Motley Fool • 50m ago
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 17h ago
+NDTV • 18h ago
 
 ---
 
@@ -209,13 +209,13 @@ NDTV • 17h ago
 
 A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
-WIS News 10 • 16h ago
+WIS News 10 • 17h ago
 
 ---
 
 **[Bitcoin Holds Firm Above $70,000 as Global Assets Recover](https://www.bloomberg.com/news/articles/2026-03-05/bitcoin-btc-holds-firm-above-70-000-as-global-assets-recover)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -323,7 +323,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 7K • 👍 553 • 💬 27 • ⏱️ 3:44 • 5h ago
+👁️ 10K • 👍 621 • 💬 58 • ⏱️ 3:44 • 6h ago
 
 ---
 
@@ -333,7 +333,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 524 • 💬 67 • ⏱️ 19:58 • 1d ago
+👁️ 18K • 👍 539 • 💬 74 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[The ETF Lie Is Hiding Bitcoin&#39;s Bottom](https://www.youtube.com/watch?v=g-dTRbXPGw0)**
+
+Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's entire 17-year history. With $4.5 billion in ETF outflows ...
+
+📺 Coin Bureau
+
+👁️ 6K • 👍 375 • 💬 29 • ⏱️ 18:20 • 3h ago
 
 ---
 
@@ -343,17 +353,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 242 • ⏱️ 17:07 • 21h ago
-
----
-
-**[BITCOIN DROPPING... BUT THIS IS THE ONLY CHART YOU NEED TO WATCH](https://www.youtube.com/watch?v=i2fHSxaFc2E)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 8K • 👍 474 • 💬 31 • ⏱️ 14:35 • 9h ago
+👁️ 19K • 👍 2K • 💬 233 • ⏱️ 17:07 • 22h ago
 
 ---
 
@@ -363,17 +363,17 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 211 • ⏱️ 8:38 • 20h ago
+👁️ 42K • 👍 2K • 💬 176 • ⏱️ 8:38 • 21h ago
 
 ---
 
-**[BITCOIN: Watch Out for This Move! (big warning) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=qFlz6OhhLK4)**
+**[BITCOIN IS DUMPING!!! [WATCH ASAP]](https://www.youtube.com/watch?v=OweWEg8B2jU)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ...
 
-📺 BitcoinHyper
+📺 Crypto Kid
 
-👁️ 6K • 👍 440 • 💬 88 • ⏱️ 12:55 • 10h ago
+👁️ 2K • 👍 182 • 💬 19 • ⏱️ 5:30 • 3h ago
 
 ---
 
@@ -383,7 +383,7 @@ A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce
 
 📺 No Bs Crypto
 
-👁️ 11K • 👍 874 • 💬 212 • ⏱️ 12:20 • 1d ago
+👁️ 12K • 👍 915 • 💬 185 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -393,27 +393,27 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 65K • 👍 2K • 💬 259 • ⏱️ 17:02 • 22h ago
+👁️ 68K • 👍 3K • 💬 263 • ⏱️ 17:02 • 23h ago
 
 ---
 
-**[Reasons - Why Bitcoin and Crypto Market going up ? Will Bitcoin recover or crash in future ?](https://www.youtube.com/watch?v=XLW17I-S6oo)**
+**[How Bitcoin Could Get To $10 MILLION Per Coin](https://www.youtube.com/watch?v=0mHU6N2G6_o)**
 
-In this video, we will share and understand the reasons why bitcoin and crypto market going up and what to do ? Follow us on ...
+Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discuss whether bitcoin acts as a risk-on tech asset or ...
 
-📺 Bitcoin Expert India
+📺 Anthony Pompliano
 
-👁️ 10K • 👍 513 • ⏱️ 3:00 • 1d ago
+👁️ 31K • 👍 1K • 💬 98 • ⏱️ 40:52 • 23h ago
 
 ---
 
-**[Bitcoin’s Make Or Break Moment? What You Must Know](https://www.youtube.com/watch?v=9nV7u3sNhAk)**
+**[Bitcoin BTC Chart Analysis - Has Bitcoin Formed an Impulse? Elliott Wave Analysis](https://www.youtube.com/watch?v=F6tGEKfXHB8)**
 
-Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Channel (Free Telegram) – Daily crypto ...
+This video provides a professional Elliott Wave and technical analysis of Bitcoin (BTC), focusing on market structure, key support ...
 
-📺 The Wolf Of All Streets
+📺 More Crypto Online
 
-👁️ 9K • 👍 474 • 💬 184 • ⏱️ 31:02 • 23h ago
+👁️ 3K • 👍 355 • 💬 7 • ⏱️ 4:28 • 4h ago
 
 ---
 

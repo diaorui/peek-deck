@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T20:34:08.351536+00:00'
+updated: '2026-03-06T21:31:00.219271+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 20:34 UTC  
+**Last Updated:** March 06, 2026 at 21:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-11h ago
+12h ago
 
 ---
 
@@ -61,7 +61,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -69,7 +69,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex. "Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging," says Benjamin Nephew, assistant research professor in the Department of Biology and Biotechnology. "We found that machine-learning technologies, however, can analyze large amounts of data from scans to identify subtle changes and accurately predict Alzheimer's disease and related cognitive states. This advance has informed Alzheimer's disease research and may lead to methods that could allow doctors to diagnose and treat the disease earlier and more effectively." Alzheimer's disease is a neurodegenerative disorder that impairs mental functions and ultimately leads to death. An estimated 6.9 million Americans age 65 and older are living with Alzheimer's disease. Healthy brains contain billions of neurons, the cells that process and transmit signals needed for thought, movement, and other bodily functions. Alzheimer's disease injures neurons, leading to cell death and loss of brain tissue and associated cognitive functions. Analyzing data-rich MRI images can require substantial computing power and time. To focus their investigation, the WPI researchers first used machine learning to analyze 815 MRI scans for volume measurements in 95 brain regions. Then they deployed an algorithm to make predictions based upon differences in the measurements between healthy individuals and those with mild cognitive impairment or Alzheimer's disease. Results showed that the method was 92.87% accurate in detecting Alzheimer's disease among normal brains and brains of people with mild cognitive impairment.
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 19h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 20h ago
 
 ---
 
@@ -77,7 +77,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 For 45 days I didn't write a single line of code. Instead, I described what to build, ran multiple Claude agents in parallel with isolated git worktrees, and spent my time reviewing diffs and making architectural decisions. The result is a fully working native macOS app for orchestrating AI coding agents. I wrote up the full origin story — including why I think the real leverage in AI-assisted dev is judgment, not typing. Read our blog post: https://chatml.com/blog/we-built-entire-product-with-ai-750-pull-requests
 
-21m ago
+1h ago
 
 ---
 
@@ -85,7 +85,7 @@ For 45 days I didn't write a single line of code. Instead, I described what to b
 
 My opinion on AI My Opinion and experience on AI usage Let us discus this topic from my point of view. Or at least let me tell you how, why and for what I use AI I looked at the usage of AI from alot POV's of different people with different professions, passions to things, interests. For some it's a doom to their job, career and work in general. Some of them like me still believe their effort in THEIR chosen job is still viable? Let me put some details in it. Like after a year an then a couple years after I believe I'll get my masters in translation and then there will still be a place for me to fit in. For context I will be interpreting and translating in my job from and into three languages (I hope so) It's Russian (native), English (main language), Chinese (second language). I'm interested in learning Korean after it, and maybe trying to refresh my memory of Kazakh because I also liked Turkish alot recently. Basically speaking I'm interested in Korean and Turkish as well as I am interested in Chinese, language I'm learning actively. Basically my professional degree will be called a linguist-interpriter. I still hold hope that I will be considered as a viable and honorable person with wide variety of skills. Speaking of AI CHATBOTS, image generators and other LLM stuff. I used bunch of it (Grok, Chatgpt, bing, Claude, ellydee, and lots more.). Basically I use it now for couple of certain things. 1 Making AI generated character visual concepts. (I update them from time to time to get the version I will be liking more of) 2 To have a conversation about my fictional world, characters, worldbuilding strats to consider “in which way should I use this”, how can I adjust/expand my cosmology/power system/power tiering and all kind of conversation how can I implement or change certain idea I have in my head for it to fit in my fictional world 3 Roleplay in my fictional world just for fun. Now I use it to see how llms usually write those stories. I'm taking a closer look on text to see in which way they usually write it. Kind of “machine thinking” analysis? About the third, I know that the response you will get from the machine is literally based on how good you will prompt. I know it works both with let's say Gpt/Bing IC. But I don't usually use long prompting if I don't want or I'm bored. I'm just entertained in the process, I'm just having fun with it and not there to offend any writers/authors by prompting stories to read or artists by creating images to use as a reference. As we stopped on the artist and writers, let me say one thing. I use AI generated images as a reference because I know and fully understand that in major percent of not in full I do not own this image. Because if someone let's say will take that prompt I typed in bing and then he uses it he will get an image that is in 99.5% similar to the one I got while waiting an image to be generated. To be fair I gave those “characters” names, I have implemented them in my story tree, gave them powers, roles, minded of almost all possible connections with my megaverse and other characters. I even took a couple of references of my characters and have paid artists to make animated character gifs. I have them life in as much way as I could possibly do. The last thing that there is to do is to pay a certain group of artists so that they could do me good with making amazing work of art of my characters. What I wanted to say to authors is that I myself will write as much books, chapters, scenes and stories about my characters and my world as I still be able. It will happen In near future because I am working on it with my ignited soul and passion almost 6 years already. I think that's it. Hope most of you will understand. I will not stop my growth. AI is just a tool that helps. That is what it is for me. Thank you all for reading that.
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ My opinion on AI My Opinion and experience on AI usage Let us discus this topic 
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 4h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 5h ago
 
 ---
 
@@ -101,7 +101,7 @@ Due to pressure from the European Commission, Meta is allowing AI companies to i
 
 Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
 
-19h ago
+20h ago
 
 ---
 
@@ -121,7 +121,7 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Fortune • 3h ago
 
 February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
 
-Fox Business • 2h ago
+Fox Business • 3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Fox Business • 2h ago
 
 The maker of the Claude chatbot says its research could help identify economic disruptions by measuring how AI is currently reshaping work.
 
-CBS News • 6m ago
+CBS News • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ CBS News • 6m ago
 
 The Pentagon said in a statement Thursday that it has "officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately."
 
-NPR • 14h ago
+NPR • 15h ago
 
 ---
 
@@ -153,13 +153,13 @@ NPR • 14h ago
 
 Authorities are conducting an investigation after five female studnets at Fort Dorchester High School reported that their faces were used in AI-generated sexual
 
-WCIV • 16m ago
+WCIV • 1h ago
 
 ---
 
 **[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -167,13 +167,13 @@ The New York Times • 10h ago
 
 Jefferies believes that retail companies adopting AI to increase product innovation and personalization are deepening their economic moats.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[S&P 500 changes are due out soon. These AI stocks could join the index.](https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?gaa_at=eafs&gaa_n=AWEtsqfxpZDdPaYKmGi7z2OUiig85d0ReRPNeFgCMDrk6RDkcucgDxBx7IW7&gaa_ts=69ab3da9&gaa_sig=4AWf70_oYhRnbC49FWxPFIcKu_dNR7tapLrJEK89Cg93PpcQW5hWGiHQxTbEwMQU7wwt-odtAyCntNpq3m0gyA%3D%3D)**
 
-MarketWatch • 54m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -181,13 +181,13 @@ MarketWatch • 54m ago
 
 Stocks have been hit this year by concerns about the impact of AI. Jefferies says a handful names are a buy after getting caught in the sell-off.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
 **[Can Jews run AI on Shabbat? Rabbis weigh in](https://www.axios.com/2026/03/06/ai-shabbat-chatgpt-allowed)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -207,13 +207,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 305 • 💬 502 • 21h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 305 • 💬 502 • 22h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 282 • 💬 101 • 22h ago • [406.fail](https://406.fail/)
+⬆️ 282 • 💬 101 • 23h ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -261,7 +261,7 @@ The takeaway? If you value Qwen's open source efforts, download and preserve the
 
 The models are good now. But most people still miss the point.
 
-⬆️ 118 • 💬 172 • 11h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 118 • 💬 172 • 12h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -277,23 +277,13 @@ The models are good now. But most people still miss the point.
 
 ## YouTube Videos: "ai"
 
-**[How AI is being used in war in 2026 | DW News](https://www.youtube.com/watch?v=K5fy9-cl08s)**
+**[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
 
-Operation Epic Fury in Iran, the capture of Maduro in Venezuela and ICE surveillance show: AI shapes today's conflicts. But who is ...
+Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
 
-📺 DW News
+📺 Matt Wolfe
 
-👁️ 12K • 👍 401 • 💬 67 • ⏱️ 4:12 • 10h ago
-
----
-
-**[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
-
-China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
-
-📺 AI Revolution
-
-👁️ 30K • 👍 1K • 💬 87 • ⏱️ 10:56 • 21h ago
+👁️ 14K • 👍 1K • 💬 137 • ⏱️ 38:02 • 4h ago
 
 ---
 
@@ -303,37 +293,57 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 76K • 👍 4K • 💬 222 • ⏱️ 17:49 • 1d ago
+👁️ 83K • 👍 4K • 💬 226 • ⏱️ 17:49 • 1d ago
 
 ---
 
-**[My AI Agents Made Money in 7 Days (OpenClaw)](https://www.youtube.com/watch?v=LCkGVCfmtzo)**
+**[Early indicator of AI labor impact](https://www.youtube.com/watch?v=DSX68fDs9uo)**
 
-Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator Magic Premium: https://mrc.fm/premium Last week I ...
+CNBC's Deirdre Bosa joins 'Money Movers' to report on Anthropic's new study on which jobs AI is already displacing.
 
-📺 Creator Magic
+📺 CNBC Television
 
-👁️ 5K • 👍 323 • 💬 26 • ⏱️ 8:17 • 7h ago
-
----
-
-**[America’s AI crushed Iran’s intelligence, drone expert says](https://www.youtube.com/watch?v=Tdr-1zyAvnI)**
-
-Former Army special ops intel analyst and Fox News contributor Brett Velicovich says that the United States' strikes in Iran proved ...
-
-📺 Fox News Clips
-
-👁️ 79K • 👍 1K • 💬 395 • ⏱️ 4:31 • 1d ago
+👁️ 8K • 👍 137 • 💬 81 • ⏱️ 4:51 • 4h ago
 
 ---
 
-**[Replacing Humans With AI Is Catastrophically Backfiring](https://www.youtube.com/watch?v=3KQxQckG8ug)**
+**[AI Expert Tells Bernie: “The Humans will be Discarded”](https://www.youtube.com/watch?v=1oS35oWWl28)**
 
-Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your free FÜM Topper when you order your ...
+Will AI become smarter than humans? If so, is humanity in danger? I went to Silicon Valley to ask some of the leading AI experts ...
 
-📺 Moon
+📺 Senator Bernie Sanders
 
-👁️ 167K • 👍 7K • 💬 2K • ⏱️ 21:38 • 1d ago
+👁️ 220K • 👍 11K • 💬 3K • ⏱️ 9:38 • 1d ago
+
+---
+
+**[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
+
+China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
+
+📺 AI Revolution
+
+👁️ 32K • 👍 1K • 💬 91 • ⏱️ 10:56 • 21h ago
+
+---
+
+**[I&#39;m Changing How I Manage My Money Because of AI](https://www.youtube.com/watch?v=O8t50OxsfB8)**
+
+How to Make $10000 Online LIVE Workshop (free): https://event.thewealthportal.com/waitlist To get free fractional shares worth ...
+
+📺 Mark Tilbury
+
+👁️ 98K • 👍 6K • 💬 365 • ⏱️ 19:52 • 7h ago
+
+---
+
+**[How To Create Long 3D AI Animation with Consistent Characters](https://www.youtube.com/watch?v=VSWApcIZFC4)**
+
+Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI tool I used ...
+
+📺 Mira AI
+
+👁️ 6K • 💬 2 • ⏱️ 9:10 • 8h ago
 
 ---
 
@@ -343,37 +353,27 @@ Subscribe for more weekly AI news you can use! This week, Igor covers the new mo
 
 📺 The AI Advantage
 
-👁️ 2K • 👍 128 • 💬 15 • ⏱️ 19:47 • 4h ago
+👁️ 4K • 👍 231 • 💬 23 • ⏱️ 19:47 • 5h ago
 
 ---
 
-**[The End of Work: Vinod Khosla&#39;s Bold AI Prediction | Titans and Disruptors](https://www.youtube.com/watch?v=cSWvm7nu1rI)**
+**[Replacing Humans With AI Is Catastrophically Backfiring](https://www.youtube.com/watch?v=3KQxQckG8ug)**
 
-What if AI made your paycheck optional? Vinod Khosla, one of the world's greatest venture capitalists and an early backer of AI, ...
+Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your free FÜM Topper when you order your ...
 
-📺 Fortune Magazine
+📺 Moon
 
-👁️ 14K • 👍 326 • 💬 76 • ⏱️ 37:04 • 2d ago
-
----
-
-**[My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](https://www.youtube.com/watch?v=PEFso88LkC4)**
-
-Try Flow Pro free for 14 days + get an extra month free with my code TECHWITHTIM! Start here: ...
-
-📺 Tech With Tim
-
-👁️ 47K • 👍 2K • 💬 470 • ⏱️ 15:01 • 1d ago
+👁️ 179K • 👍 8K • 💬 2K • ⏱️ 21:38 • 1d ago
 
 ---
 
-**[AI Art Just Lost.](https://www.youtube.com/watch?v=yDecu_jNpZI)**
+**[My AI Agents Made Money in 7 Days (OpenClaw)](https://www.youtube.com/watch?v=LCkGVCfmtzo)**
 
-The Supreme Court of the United States of America has officially turned away a key case surrounding artificial intelligence art and ...
+Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator Magic Premium: https://mrc.fm/premium Last week I ...
 
-📺 Vailskibum
+📺 Creator Magic
 
-👁️ 321K • 👍 23K • 💬 4K • ⏱️ 2:09 • 2d ago
+👁️ 9K • 👍 439 • 💬 45 • ⏱️ 8:17 • 8h ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 516,030 • ❤️ 521 • 4d ago
+⬇️ 516,030 • ❤️ 525 • 4d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,000,738 • ❤️ 989 • 7d ago
+⬇️ 1,000,738 • ❤️ 994 • 7d ago
 
 ---
 
@@ -413,19 +413,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 265,017 • ❤️ 291 • 4d ago
-
----
-
-**[Qwen3.5-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.0 for efficient local inference. It excels at image-text-to-text tasks, offering strong reasoning and visual understanding capabilities across 201 languages with a 262K+ context window.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 919,117 • ❤️ 547 • 1d ago
+⬇️ 265,017 • ❤️ 292 • 4d ago
 
 ---
 
@@ -437,7 +425,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 232,531 • ❤️ 260 • 4d ago
+⬇️ 232,531 • ❤️ 262 • 4d ago
 
 ---
 
@@ -449,7 +437,19 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 34,959 • ❤️ 244 • 1d ago
+⬇️ 34,959 • ❤️ 252 • 1d ago
+
+---
+
+**[Qwen3.5-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.0 for efficient local inference. It excels at image-text-to-text tasks, offering strong reasoning and visual understanding capabilities across 201 languages with a 262K+ context window.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 919,117 • ❤️ 546 • 1d ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 380,168 • ❤️ 217 • 4d ago
+⬇️ 380,168 • ❤️ 219 • 4d ago
 
 ---
 
@@ -485,7 +485,7 @@ An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for r
 
 `image-text-to-text` `36.0B`
 
-⬇️ 21,100 • ❤️ 183 • 4d ago
+⬇️ 21,100 • ❤️ 184 • 4d ago
 
 ---
 
@@ -497,27 +497,13 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 370,789 • ❤️ 1,108 • 10h ago
+⬇️ 370,789 • ❤️ 1,108 • 11h ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379)**
-
-*Shenghai Yuan, Yuanyang Yin, Zongjian Li et al. (6 authors)*
-
-🏢 ByteDance
-
-Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
-
-▲ 126 • 💬 5 • ⭐ 655 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
-
----
 
 **[DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints](https://huggingface.co/papers/2601.18137)**
 
@@ -527,9 +513,23 @@ Helios is a 14 billion parameter autoregressive diffusion model for video genera
 
 DeepPlanning benchmark addresses limitations of current LLM planning assessments by introducing complex, real-world tasks requiring both global optimization and local constraint reasoning.
 
-▲ 28 • 💬 3 • ⭐ 14,224 • 1mo ago
+▲ 28 • 💬 3 • ⭐ 14,518 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18137) • [💻 code](https://github.com/QwenLM/Qwen-Agent) • [🔗 project](https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/)
+
+---
+
+**[Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379)**
+
+*Shenghai Yuan, Yuanyang Yin, Zongjian Li et al. (6 authors)*
+
+🏢 ByteDance
+
+Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
+
+▲ 127 • 💬 5 • ⭐ 655 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
 ---
 
@@ -552,7 +552,7 @@ AReaL, a fully asynchronous reinforcement learning system, decouples generation 
 
 ReMe is a framework for experience-driven agent evolution in LLMs, enhancing memory management through distillation, context-adaptive reuse, and refinement, outperforming larger memoryless models.
 
-▲ 1 • 💬 0 • ⭐ 1,920 • 2mo ago
+▲ 1 • 💬 0 • ⭐ 1,977 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10696) • [💻 code](https://github.com/agentscope-ai/ReMe) • [🔗 project](https://reme.agentscope.io/)
 
@@ -645,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.9k • 🔱 3.0k • 2h ago
+⭐ 23.9k • 🔱 3.1k • 3h ago
 
 ---
 
@@ -655,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 13.8k • 🔱 468 • 1h ago
+⭐ 14.0k • 🔱 482 • 2h ago
 
 ---
 
@@ -665,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.0k • 🔱 985 • 5h ago
+⭐ 9.0k • 🔱 992 • 6h ago
 
 ---
 
@@ -675,7 +675,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.7k • 🔱 833 • 3d ago
+⭐ 6.7k • 🔱 839 • 3d ago
 
 ---
 
@@ -685,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.4k • 🔱 479 • 2h ago
+⭐ 6.5k • 🔱 480 • 3h ago
 
 ---
 
@@ -695,7 +695,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.7k • 🔱 671 • 19h ago
+⭐ 5.8k • 🔱 673 • 20h ago
 
 ---
 
@@ -705,7 +705,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 4.4k • 🔱 353 • 1d ago
+⭐ 4.4k • 🔱 355 • 1d ago
 
 ---
 
@@ -715,7 +715,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 382 • 9h ago
+⭐ 3.5k • 🔱 382 • 10h ago
 
 ---
 
@@ -725,7 +725,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 241 • 2h ago
+⭐ 3.3k • 🔱 241 • 17m ago
 
 ---
 
@@ -735,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 627 • 3d ago
+⭐ 3.2k • 🔱 628 • 3d ago
 
 ---
 
