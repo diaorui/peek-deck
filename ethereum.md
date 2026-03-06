@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-06T11:30:26.491132+00:00'
+updated: '2026-03-06T11:54:26.019755+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 11:30 UTC  
+**Last Updated:** March 06, 2026 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.45B
+**Market Cap:** $247.90B
 Rank #2
 
 **Circulating Supply:** 120,692,086 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.6%
+-58.5%
 
 **All-Time Low:** $0.43
-+473391.8%
++474195.5%
 
 ---
 
@@ -112,7 +112,7 @@ I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402.
 
 Hi everyone, If you've been following the Account Abstraction roadmap, you know the community pivoted hard toward EIP-7702, a proposal driven by Vitalik to allow EOAs (standard wallets) to temporarily act like smart contracts. I write a lot about blockchain architecture, and I noticed that while the hype around "gasless transactions" is loud, the actual mechanics of how EIP-7702 achieves this safely aren't discussed enough. I published an architectural breakdown to clarify how this works under the hood. The core of the design is the SetCode transaction type. Instead of permanently migrating an EOA to a smart contract, EIP-7702 allows a transaction to temporarily attach smart contract code to an EOA for the exact duration of that single transaction. The deep dive covering: How this solves the security debates around previous proposals. The technical flow of batching operations What this means for the current ERC-4337 infrastructure. I'd love to hear from people that building in the space: How quickly do you expect it to be broadly used
 
-16h ago
+17h ago
 
 ---
 
@@ -156,7 +156,7 @@ EIP-7928 (Block-Level Access Lists) is the headliner of the upcoming Glamsterdam
 
 Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 18h ago
 
 The Ethereum price slammed into the critical $2,160 resistance level yesterday, and after attempting to reverse a historic six-month losing streak, ETH USD looks to have rejected and is now trading back under $2,100. Price action is currently extremely volatile, with ETH falling -1.6% over the last 24 hours to ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 47 • 💬 79 • ⏱️ 19:52 • 20h ago
+👁️ 2K • 👍 50 • 💬 25 • ⏱️ 19:52 • 21h ago
 
 ---
 
@@ -250,7 +250,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 552 • 💬 26 • ⏱️ 1:16 • 22h ago
+👁️ 19K • 👍 568 • 💬 20 • ⏱️ 1:16 • 22h ago
 
 ---
 
@@ -260,7 +260,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 6 • ⏱️ 3:54 • 19h ago
+👁️ 2K • 👍 159 • 💬 6 • ⏱️ 3:54 • 20h ago
+
+---
+
+**[Breakout FAIL 🤯 Ready For CRASH ? 🤯🤯🤯  ETHEREUM Analysis | Crypto Analysis](https://www.youtube.com/watch?v=RXDk-7_44ss)**
+
+Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on trading fees with this link) If you have ...
+
+📺 Trading Secrets With Two Side Traders
+
+👁️ 160 • 👍 21 • 💬 3 • ⏱️ 7:56 • 1h ago
 
 ---
 
@@ -270,7 +280,17 @@ BITCOIN & CRYPTO: BlackRock Buying Now (Get Ready)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 5K • 👍 241 • 💬 98 • ⏱️ 19:32 • 13h ago
+👁️ 5K • 👍 252 • 💬 38 • ⏱️ 19:32 • 13h ago
+
+---
+
+**[Bitcoin Bottom Forming? ETH Accumulation Surges While Crypto Fear Spikes | MSTR BMNR](https://www.youtube.com/watch?v=qXEAgObFIqo)**
+
+I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
+
+📺 MONEY GAME
+
+👁️ 1K • 👍 69 • 💬 2 • ⏱️ 31:22 • 38m ago
 
 ---
 
@@ -280,7 +300,7 @@ With all the volatility in the middle-east, crypto prices have been relatively s
 
 📺 Elijah Cheng
 
-👁️ 3K • 👍 187 • 💬 22 • ⏱️ 25:01 • 21h ago
+👁️ 3K • 👍 192 • 💬 22 • ⏱️ 25:01 • 21h ago
 
 ---
 
@@ -290,17 +310,17 @@ Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw aw
 
 📺 When Shift Happens
 
-👁️ 9K • 👍 391 • 💬 144 • ⏱️ 49:16 • 20h ago
+👁️ 9K • 👍 404 • 💬 150 • ⏱️ 49:16 • 20h ago
 
 ---
 
-**[Vendo TODO MI ETHEREUM y ALTCOINS antes del GRAN CRASH...?](https://www.youtube.com/watch?v=1hI6IxmQYUM)**
+**[CRYPTO LIVE TRADING || 6 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=tpTljwk5Bhw)**
 
-Bitcoin y cripto con buenas subidas tras el conflicto de Irán pero... será para nuevos MINIMOS??? Rodéate de la información ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 Tu Primer Bitcoin
+📺 Aryan trader Live
 
-👁️ 6K • 👍 663 • 💬 147 • ⏱️ 17:21 • 18h ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -310,27 +330,7 @@ Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum 
 
 📺 Schwab Network
 
-👁️ 6K • 👍 71 • 💬 11 • ⏱️ 8:40 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin, kommen wir überhaupt nochmal hoch?](https://www.youtube.com/watch?v=SDA2ysAa0JQ)**
-
-DIE BESTE DEZENTRALE KRYPTOBÖRSE AN DER ICH MITENTWICKELN DARF EdgeX https://pro.edgex.exchange/referral/ ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 539 • 💬 72 • ⏱️ 12:45 • 5h ago
-
----
-
-**[Bitcoin &amp; Ethereum SHOCKINGLY Surge Past Key Levels! #shorts](https://www.youtube.com/watch?v=YBlNepXCEes)**
-
-Recent bullish surge in Bitcoin and Ethereum is decoded. Key price levels pinpointed and successful predictions reviewed.
-
-📺 CoinBros
-
-👁️ 757 • 👍 5 • ⏱️ 0:36 • 1d ago
+👁️ 6K • 👍 72 • 💬 11 • ⏱️ 8:40 • 2d ago
 
 ---
 

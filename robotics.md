@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-06T11:30:26.494407+00:00'
+updated: '2026-03-06T11:54:26.022944+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 06, 2026 at 11:30 UTC  
+**Last Updated:** March 06, 2026 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Update on my 6-DOF desktop arm project: I’ve officially moved into the mechani
 
 **[I’ve open-sourced my robots!](https://www.reddit.com/r/robotics/comments/1rll5z2/ive_opensourced_my_robots/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ Update on my 6-DOF desktop arm project: I’ve officially moved into the mechani
 
 For those following the project, this is Bimo walking on a regular carpet, something that used to be very unreliable without hand-tuning the environment or the RL model. Over the last months I’ve retrained and tweaked the walking model so it’s much more robust: it now keeps a stable heading instead of drifting or turning, and it tolerates uneven contact and small disturbances much better than before. Next on the roadmap are behaviors such as: turning gaits, better recovery under sustained pushes, and more pre-programmed motions to make Bimo a practical research and tinkering platform rather than just a locomotion demo. As these stabilize, I’ll be adding them to the open-source GitHub repo and documenting them in the Discord so others can build on top of this. If you want to see the full kit and platform details, there’s also a page on the Mekion site with specs and pre-order info.
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ For those following the project, this is Bimo walking on a regular carpet, somet
 
 I have been a robotics engineer all my life, worked 3 years full-time and am about to graduate from Carnegie Mellon with a masters degree in Robotics in May. I've been offered a position at Apple (camera modules) to help build smart front cameras. But, it doesn't involve robotics hardware - think of it as ML-based CV on edge at scale. Over my masters degree, I've built a keen interest in RL and autonomy in robotics; I am afraid I will lose touch and fall behind this domain that's poised to explode. On the flip side, there's the uncertainty in the job market for engineers at my level and all the pros that come with working at Apple. If you were in my shoes, how would you navigate this situation? Happy to provide any clarifications needed.
 
-12h ago
+13h ago
 
 ---
 
@@ -196,7 +196,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 317K • 👍 22K • 💬 3K • ⏱️ 16:54 • 2d ago
+👁️ 325K • 👍 23K • 💬 3K • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 7K • 👍 204 • 💬 22 • ⏱️ 29:41 • 11h ago
+👁️ 8K • 👍 235 • 💬 22 • ⏱️ 29:41 • 11h ago
 
 ---
 
@@ -216,17 +216,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 17K • 👍 669 • 💬 49 • ⏱️ 14:35 • 1d ago
-
----
-
-**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
-
-War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
-
-📺 Adrian Chong
-
-👁️ 6K • 👍 328 • 💬 56 • ⏱️ 15:24 • 21h ago
+👁️ 17K • 👍 675 • 💬 49 • ⏱️ 14:35 • 1d ago
 
 ---
 
@@ -236,47 +226,7 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 33K • 👍 2K • 💬 229 • ⏱️ 0:13 • 2d ago
-
----
-
-**[2026 FRC 971 Spartan Robotics Robot Reveal - “Mixtape”](https://www.youtube.com/watch?v=SebMftdHsic)**
-
-Team 971 reveal of our robot, named Mixtape, for First Robotics Competition 2026 season game Rebuilt. Come see this robot ...
-
-📺 smanrobotics
-
-👁️ 6K • 👍 184 • 💬 12 • ⏱️ 0:47 • 1d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN Europe
-
-👁️ 147K • 👍 289 • 💬 6 • ⏱️ 29:40 • 1d ago
-
----
-
-**[Japan&#39;s Most Famous Android Builder Finds His Robot Legs in China #humanoidrobots #robotics #robots](https://www.youtube.com/watch?v=xqMWtcsLyYc)**
-
-Japan's Most Famous Android Builder Just Found His Robot Legs in China The Japanese robotics legend Hiroshi Ishiguro is ...
-
-📺 Kalil 4.0
-
-👁️ 747 • 👍 21 • 💬 1 • ⏱️ 1:08 • 15h ago
-
----
-
-**[Quickest Intake in DECODE? | 3565 Ghost Robotics | FTC Snapshot](https://www.youtube.com/watch?v=ex9anz-_BCs)**
-
-Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fastest compliant intakes in FTC DECODE.
-
-📺 FUN Robotics Network
-
-👁️ 5K • 👍 90 • 💬 1 • ⏱️ 1:11 • 2d ago
+👁️ 34K • 👍 2K • 💬 232 • ⏱️ 0:13 • 2d ago
 
 ---
 
@@ -286,7 +236,55 @@ Figure AI has just dropped a fully autonomous AI robot — and it's now operatin
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 230 • 💬 29 • ⏱️ 27:19 • 5d ago
+👁️ 8K • 👍 231 • 💬 29 • ⏱️ 27:19 • 5d ago
+
+---
+
+**[2026 FRC 971 Spartan Robotics Robot Reveal - “Mixtape”](https://www.youtube.com/watch?v=SebMftdHsic)**
+
+Team 971 reveal of our robot, named Mixtape, for First Robotics Competition 2026 season game Rebuilt. Come see this robot ...
+
+📺 smanrobotics
+
+👁️ 7K • 👍 184 • 💬 12 • ⏱️ 0:47 • 1d ago
+
+---
+
+**[Japan&#39;s Most Famous Android Builder Finds His Robot Legs in China #humanoidrobots #robotics #robots](https://www.youtube.com/watch?v=xqMWtcsLyYc)**
+
+Japan's Most Famous Android Builder Just Found His Robot Legs in China The Japanese robotics legend Hiroshi Ishiguro is ...
+
+📺 Kalil 4.0
+
+👁️ 770 • 👍 21 • 💬 1 • ⏱️ 1:08 • 15h ago
+
+---
+
+**[robot girl link in bio #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=yjz_m8MmYDw)**
+
+📺 XDollHub
+
+👁️ 587K • 👍 3K • 💬 7 • ⏱️ 0:11 • 2d ago
+
+---
+
+**[AI EXPLODES This Month: Biomimetic Robots, Gemini 3.1, OpenAI–OpenClaw, LYRIA 3 &amp; More](https://www.youtube.com/watch?v=r6umFAnMEEM)**
+
+This month in AI pushed everything to the edge. Biomimetic robots from China are now so human-like they're unsettling, while ...
+
+📺 AI Revolution
+
+👁️ 55K • 👍 851 • 💬 50 • ⏱️ 1:29:27 • 5d ago
+
+---
+
+**[Quickest Intake in DECODE? | 3565 Ghost Robotics | FTC Snapshot](https://www.youtube.com/watch?v=ex9anz-_BCs)**
+
+Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fastest compliant intakes in FTC DECODE.
+
+📺 FUN Robotics Network
+
+👁️ 5K • 👍 89 • 💬 1 • ⏱️ 1:11 • 2d ago
 
 ---
 

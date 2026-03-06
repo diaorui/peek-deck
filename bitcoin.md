@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T11:30:26.485027+00:00'
+updated: '2026-03-06T11:54:26.013792+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 11:30 UTC  
+**Last Updated:** March 06, 2026 at 11:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1407.42B
+**Market Cap:** $1405.30B
 Rank #1
 
-**Circulating Supply:** 19,998,578 BTC
+**Circulating Supply:** 19,998,625 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.2%
+-44.3%
 
 **All-Time Low:** $67.81
-+103701.8%
++103527.8%
 
 ---
 
@@ -113,7 +113,7 @@ It's just like this, every single time. No matter what.
 
 I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets looked cheap or plastic, so I made this — the Obsidian Edition, with a engraved back and a clean display. Curious what the community thinks! We made 5 units for the first batch to see how people like it.
 
-19h ago
+20h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hi - I'm new to Bitcoin and planning to buy every week for $100 to $150. How oft
 
 I noticed a lot of people pushed back on my last post regarding the generation of investors who arrived after the Satoshi era. To clarify, when I talk about those of us who missed the early days of mining, I’m talking about the 99% of us who hold less than 1,000 BTC. I’m not trying to get back lost time; I’m trying to point out that most people look at Bitcoin as a technological first mover, but I see it as a behavioral phenomenon. There is a fallacy in the idea that being first is why Bitcoin succeeded. Being first doesn't automatically mean people will hold for years through 80% price swings. There are plenty of first movers in other tech sectors that failed. Bitcoin is different because it was the first time humans saw a digital asset with no obligations, no roadmap, and no exit plan. Why I believe Bitcoin is a Behavioral Phenomenon -No marketing, No Roadmap, No exit plan Marketing is often just a series of promises and obligations. You are telling the market what to expect, and the moment you don't deliver, people dump. Luckily, Bitcoin didn't have to convert enthusiasm into a promise . Investors love roadmaps because they feel like progress, but a roadmap is really just a list of ways a project can fail. When a milestone is missed, it triggers panic. Bitcoin had no plan to fail, because it had no roadmap to miss in the first place. Bitcoin achieved success through a well formulated silence. There were no events like a CEO's product launch to coordinate a sell the news moment. There was never a coordinated reason for everyone to sell at the same time. Bitcoin proved that value doesn't just come from usage; it comes from coordination. Price appeared before utility because people mined and held simply because they saw others doing the same. It was designed for those who are quiet, not for those who chase the hype. However, if Bitcoin fails to maintain this phenomenon, we have to reconsider things. As institutions enter, they bring their own roadmaps and marketing. This introduces expectations the very thing Bitcoin originally avoided.
 
-10h ago
+11h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 23h ago
 
 Officials say the Vancouver Charter limits city reserves to government debt, bank instruments and other traditional assets.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 2h ago
 
 This asset still has a very long runway for more adoption and more traction.
 
-The Motley Fool • 45m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Motley Fool • 45m ago
 
 Key PointsBitcoin is a highly volatile cryptocurrency.
 
-Nasdaq • 31m ago
+Nasdaq • 55m ago
 
 ---
 
@@ -219,7 +219,7 @@ Fortune • 1d ago
 
 The increase follows a mining fleet expansion as the firm focuses on accumulating bitcoin through large-scale self-mining.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -227,7 +227,7 @@ The Block • 20h ago
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 8h ago
+NDTV • 9h ago
 
 ---
 
@@ -247,7 +247,7 @@ Bitcoin Magazine • 14h ago
 
 One critic replied simply "go away."
 
-⬆️ 4 • 💬 0 • 4d ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 4 • 💬 0 • 5d ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -327,7 +327,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 449 • 💬 57 • ⏱️ 19:58 • 20h ago
+👁️ 15K • 👍 468 • 💬 43 • ⏱️ 19:58 • 20h ago
 
 ---
 
@@ -337,37 +337,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 183 • ⏱️ 17:07 • 12h ago
-
----
-
-**[He Predicted EVERY Bitcoin Move (Now He Says $58K Is NEXT)](https://www.youtube.com/watch?v=eX4mWTTV1-o)**
-
-A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce, and every breakdown — for 10 months straight.
-
-📺 No Bs Crypto
-
-👁️ 9K • 👍 712 • 💬 146 • ⏱️ 12:20 • 17h ago
-
----
-
-**[How Bitcoin Could Get To $10 MILLION Per Coin](https://www.youtube.com/watch?v=0mHU6N2G6_o)**
-
-Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discuss whether bitcoin acts as a risk-on tech asset or ...
-
-📺 Anthony Pompliano
-
-👁️ 20K • 👍 785 • 💬 12 • ⏱️ 40:52 • 13h ago
-
----
-
-**[bitcoin will &quot;unleash MAXIMUM pain unlike anything we&#39;ve ever seen&quot;](https://www.youtube.com/watch?v=R1wjxCqmkhU)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 12K • 👍 780 • 💬 261 • ⏱️ 12:43 • 14h ago
+👁️ 15K • 👍 1K • 💬 164 • ⏱️ 17:07 • 12h ago
 
 ---
 
@@ -377,17 +347,37 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 320 • 💬 88 • ⏱️ 9:23 • 6h ago
+👁️ 5K • 👍 389 • 💬 13 • ⏱️ 9:23 • 7h ago
 
 ---
 
-**[I’m Selling My New Bitcoin… Here’s Why! 🪙💰](https://www.youtube.com/watch?v=g0NHJWa26AE)**
+**[He Predicted EVERY Bitcoin Move (Now He Says $58K Is NEXT)](https://www.youtube.com/watch?v=eX4mWTTV1-o)**
 
-I'm Selling My New Bitcoin… Here's Why! ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View ...
+A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce, and every breakdown — for 10 months straight.
 
-📺 Stocks with Josh
+📺 No Bs Crypto
 
-👁️ 8K • 👍 214 • 💬 35 • ⏱️ 0:47 • 16h ago
+👁️ 9K • 👍 768 • 💬 122 • ⏱️ 12:20 • 17h ago
+
+---
+
+**[How Bitcoin Could Get To $10 MILLION Per Coin](https://www.youtube.com/watch?v=0mHU6N2G6_o)**
+
+Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discuss whether bitcoin acts as a risk-on tech asset or ...
+
+📺 Anthony Pompliano
+
+👁️ 22K • 👍 845 • 💬 12 • ⏱️ 40:52 • 13h ago
+
+---
+
+**[bitcoin will &quot;unleash MAXIMUM pain unlike anything we&#39;ve ever seen&quot;](https://www.youtube.com/watch?v=R1wjxCqmkhU)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 13K • 👍 793 • 💬 204 • ⏱️ 12:43 • 15h ago
 
 ---
 
@@ -397,7 +387,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 203 • ⏱️ 8:38 • 11h ago
+👁️ 33K • 👍 2K • 💬 132 • ⏱️ 8:38 • 11h ago
 
 ---
 
@@ -407,7 +397,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 49K • 👍 2K • 💬 363 • ⏱️ 17:02 • 13h ago
+👁️ 53K • 👍 2K • 💬 223 • ⏱️ 17:02 • 13h ago
 
 ---
 
@@ -417,7 +407,17 @@ Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Cha
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 423 • 💬 158 • ⏱️ 31:02 • 14h ago
+👁️ 8K • 👍 433 • 💬 181 • ⏱️ 31:02 • 15h ago
+
+---
+
+**[BITCOIN: DO NOT GET FOOLED!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=K_ArQOL0iw4)**
+
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
+
+📺 Road To $1 Million USD
+
+👁️ 3K • 👍 249 • 💬 23 • ⏱️ 7:59 • 12h ago
 
 ---
 

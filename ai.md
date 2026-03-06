@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T11:30:26.476205+00:00'
+updated: '2026-03-06T11:54:26.005341+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- social
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 11:30 UTC  
+**Last Updated:** March 06, 2026 at 11:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex. "Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging," says Benjamin Nephew, assistant research professor in the Department of Biology and Biotechnology. "We found that machine-learning technologies, however, can analyze large amounts of data from scans to identify subtle changes and accurately predict Alzheimer's disease and related cognitive states. This advance has informed Alzheimer's disease research and may lead to methods that could allow doctors to diagnose and treat the disease earlier and more effectively." Alzheimer's disease is a neurodegenerative disorder that impairs mental functions and ultimately leads to death. An estimated 6.9 million Americans age 65 and older are living with Alzheimer's disease. Healthy brains contain billions of neurons, the cells that process and transmit signals needed for thought, movement, and other bodily functions. Alzheimer's disease injures neurons, leading to cell death and loss of brain tissue and associated cognitive functions. Analyzing data-rich MRI images can require substantial computing power and time. To focus their investigation, the WPI researchers first used machine learning to analyze 815 MRI scans for volume measurements in 95 brain regions. Then they deployed an algorithm to make predictions based upon differences in the measurements between healthy individuals and those with mild cognitive impairment or Alzheimer's disease. Results showed that the method was 92.87% accurate in detecting Alzheimer's disease among normal brains and brains of people with mild cognitive impairment.
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 10h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 11h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 Residents of a once quiet Mississippi town complain that Elon Musk's AI facility is constantly emitting a horrible noise.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/elon-musk-ai-facility-mordor) • 18m ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/elon-musk-ai-facility-mordor) • 42m ago
 
 ---
 
@@ -71,7 +71,7 @@ Residents of a once quiet Mississippi town complain that Elon Musk's AI facility
 
 Researchers are raising alarms about a new class of AI-driven manipulation: coordinated AI swarms that go far beyond traditional bot networks. Unlike old-school bots that spam identical messages, these swarms operate with persistent identities, memory, and hive-like coordination — adapting their tone, adopting local slang, and generating context-aware responses at machine speed. The result is synthetic consensus: the illusion of widespread public agreement on fabricated narratives, powerful enough to sway elections. There's already empirical evidence of this playing out in several recent elections across Asia. What's more concerning is the long-term feedback loop. These swarms don't just manipulate people — they contaminate the training data that future AI models learn from. So the next generation of models inherits the biases planted by the current wave of manipulation, creating a self-perpetuating cycle that gets harder to break with each iteration. I wrote a deeper analysis of this on my site: https://cosmicmeta.ai/ai-swarms-could-escalate-online-misinformation-and-manipulation-researchers-warn/ Curious what this community thinks about whether detection-based defenses can ever keep up with AI swarms, or if we need a fundamentally different approach like mandatory algorithmic transparency and some form of identity verification. I've seen arguments on both sides, but I lean toward thinking that detection alone is a losing game — these systems evolve faster than filters can adapt, and the real solution probably has to be structural (transparency, shared threat intelligence, digital literacy) rather than purely technical.
 
-42m ago
+1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Researchers are raising alarms about a new class of AI-driven manipulation: coor
 
 Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 10h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 11h ago
 
 ---
 
@@ -111,7 +111,7 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 Netflix just spent some of that $2.8 billion it kept after walking away from the Warner Bros. Discovery deal to acquire InterPositive, Ben Affleck’s 16-person filmmaking tech startup. With Affleck staying on as a senior adviser, the focus is squarely on post-production utility rather than "text-to-video" generative shortcuts. This move signals a shift from Netflix’s usual "build-it-ourselves" mentality toward buying specialized tools that understand the vocabulary of a working set. The most important thing to get about InterPositive is that it isn't scraping the internet to hallucinate footage. Instead, they built their models using a proprietary dataset filmed on controlled soundstages to capture exactly how light shape-shifts across a scene and how specific lens distortions actually behave. This isn't about "generating something from nothing," but rather feeding a system your production dailies so it can solve practical problems during post. This filmmaker-centric approach matters because it focuses on: Maintaining visual logic: The system is designed to keep editorial consistency intact even when a production hits messy, real-world snags like a missing shot or background errors. Precision in the grade: Rather than applying a flat filter, the tech allows cinematographers to relight shots and mix colors in a way that respects the original lighting design. Built-in guardrails: By hard-coding restraints that protect creative intent, the software ensures the final "look" remains a human decision rather than an algorithmic one. This isn't just a technical upgrade; it's a strategic olive branch to a creative community that has been understandably on edge about the "artist vs. technology" divide. By keeping these tools exclusive to its "internal creative partners" rather than selling them commercially, Netflix is positioning itself as a collaborator that values the nuts and bolts of the craft. These tools are built for the person who knows that a great sequence relies on the kind of judgment that takes decades of experience to build and hone. It’s a useful acknowledgment that sets are unpredictable environments where light and shadow don't always behave-and where the human eye is still the final authority. Ultimately, the goal here isn't to make films faster or cheaper by cutting the crew, but to give the people behind the camera a way to protect their vision through the unpredictable finish line of post-production.
 
-7h ago
+8h ago
 
 ---
 
@@ -131,13 +131,13 @@ Anthropic • 15h ago
 
 Reports say talks have resumed between defense department and startup over military’s use of company’s AI
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
 **[The era of Doctor AI is already here](https://www.axios.com/2026/03/06/ai-doctor-health-information-consumers)**
 
-Axios • 58m ago
+Axios • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The New York Times • 1h ago
 
 **[Big Tech Stocks Were Expensive. Then the Market Turned on AI](https://www.bloomberg.com/news/articles/2026-03-06/big-tech-stocks-were-expensive-then-the-market-turned-on-ai)**
 
-Bloomberg.com • 58m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -281,7 +281,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 19K • 👍 764 • 💬 74 • ⏱️ 10:56 • 11h ago
+👁️ 22K • 👍 832 • 💬 78 • ⏱️ 10:56 • 12h ago
 
 ---
 
@@ -291,7 +291,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 317K • 👍 22K • 💬 3K • ⏱️ 16:54 • 2d ago
+👁️ 325K • 👍 23K • 💬 3K • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -301,27 +301,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 56K • 👍 3K • 💬 166 • ⏱️ 17:49 • 21h ago
-
----
-
-**[How to Tell What&#39;s Real and What&#39;s AI-Generated on Social Media](https://www.youtube.com/watch?v=MtEe3NJnqQs)**
-
-Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and more, are spreading on Instagram, Facebook, ...
-
-📺 TODAY
-
-👁️ 703K • 👍 9K • 💬 1K • ⏱️ 8:38 • 1d ago
-
----
-
-**[AI Art Just Lost.](https://www.youtube.com/watch?v=yDecu_jNpZI)**
-
-The Supreme Court of the United States of America has officially turned away a key case surrounding artificial intelligence art and ...
-
-📺 Vailskibum
-
-👁️ 312K • 👍 23K • 💬 4K • ⏱️ 2:09 • 1d ago
+👁️ 60K • 👍 3K • 💬 183 • ⏱️ 17:49 • 21h ago
 
 ---
 
@@ -331,7 +311,37 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 106K • 👍 5K • 💬 1K • ⏱️ 21:38 • 15h ago
+👁️ 121K • 👍 6K • 💬 1K • ⏱️ 21:38 • 16h ago
+
+---
+
+**[How to Tell What&#39;s Real and What&#39;s AI-Generated on Social Media](https://www.youtube.com/watch?v=MtEe3NJnqQs)**
+
+Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and more, are spreading on Instagram, Facebook, ...
+
+📺 TODAY
+
+👁️ 784K • 👍 10K • 💬 1K • ⏱️ 8:38 • 1d ago
+
+---
+
+**[OpenAI GPT 5.4 Leak Shocks The Internet With Massive Power](https://www.youtube.com/watch?v=uiaeK24E4k8)**
+
+OpenAI's GPT 5.4 appeared in leaked code with references to a 2M token context window and original resolution image ...
+
+📺 AI Revolution
+
+👁️ 52K • 👍 1K • 💬 128 • ⏱️ 11:54 • 2d ago
+
+---
+
+**[AI Expert Tells Bernie: “The Humans will be Discarded”](https://www.youtube.com/watch?v=1oS35oWWl28)**
+
+Will AI become smarter than humans? If so, is humanity in danger? I went to Silicon Valley to ask some of the leading AI experts ...
+
+📺 Senator Bernie Sanders
+
+👁️ 183K • 👍 9K • 💬 3K • ⏱️ 9:38 • 1d ago
 
 ---
 
@@ -341,7 +351,7 @@ World-renowned security expert Gavin de Becker explains why AI is making it near
 
 📺 The Diary Of A CEO Clips
 
-👁️ 38K • 👍 1K • 💬 76 • ⏱️ 21:25 • 1d ago
+👁️ 38K • 👍 1K • 💬 77 • ⏱️ 21:25 • 1d ago
 
 ---
 
@@ -351,27 +361,17 @@ What if AI made your paycheck optional? Vinod Khosla, one of the world's greates
 
 📺 Fortune Magazine
 
-👁️ 12K • 👍 287 • 💬 68 • ⏱️ 37:04 • 1d ago
+👁️ 13K • 👍 295 • 💬 73 • ⏱️ 37:04 • 1d ago
 
 ---
 
-**[America’s AI crushed Iran’s intelligence, drone expert says](https://www.youtube.com/watch?v=Tdr-1zyAvnI)**
+**[AI Art Just Lost.](https://www.youtube.com/watch?v=yDecu_jNpZI)**
 
-Former Army special ops intel analyst and Fox News contributor Brett Velicovich says that the United States' strikes in Iran proved ...
+The Supreme Court of the United States of America has officially turned away a key case surrounding artificial intelligence art and ...
 
-📺 Fox News Clips
+📺 Vailskibum
 
-👁️ 76K • 👍 1K • 💬 364 • ⏱️ 4:31 • 1d ago
-
----
-
-**[My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](https://www.youtube.com/watch?v=PEFso88LkC4)**
-
-Try Flow Pro free for 14 days + get an extra month free with my code TECHWITHTIM! Start here: ...
-
-📺 Tech With Tim
-
-👁️ 39K • 👍 2K • 💬 417 • ⏱️ 15:01 • 22h ago
+👁️ 314K • 👍 23K • 💬 4K • ⏱️ 2:09 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 516,030 • ❤️ 496 • 4d ago
+⬇️ 516,030 • ❤️ 502 • 4d ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,000,738 • ❤️ 979 • 7d ago
+⬇️ 1,000,738 • ❤️ 981 • 7d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 265,017 • ❤️ 283 • 4d ago
+⬇️ 265,017 • ❤️ 287 • 4d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 919,117 • ❤️ 540 • 18h ago
+⬇️ 919,117 • ❤️ 543 • 18h ago
 
 ---
 
@@ -435,31 +435,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 232,531 • ❤️ 253 • 4d ago
-
----
-
-**[Qwen3.5-27B](https://huggingface.co/Qwen/Qwen3.5-27B)**
-
-*Qwen*
-
-Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hybrid architecture, excelling in vision-language understanding and generation across 201 languages. Its key capabilities include early fusion multimodal training, scalable RL generalization, and a long context length (262K+ tokens), making it suitable for advanced reasoning, coding, and agent-based applications.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 561,727 • ❤️ 595 • 9d ago
-
----
-
-**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 380,168 • ❤️ 204 • 3d ago
+⬇️ 232,531 • ❤️ 254 • 4d ago
 
 ---
 
@@ -471,7 +447,31 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 34,959 • ❤️ 204 • 20h ago
+⬇️ 34,959 • ❤️ 215 • 21h ago
+
+---
+
+**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
+
+`image-text-to-text` `9.0B`
+
+⬇️ 380,168 • ❤️ 209 • 3d ago
+
+---
+
+**[Qwen3.5-27B](https://huggingface.co/Qwen/Qwen3.5-27B)**
+
+*Qwen*
+
+Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hybrid architecture, excelling in vision-language understanding and generation across 201 languages. Its key capabilities include early fusion multimodal training, scalable RL generalization, and a long context length (262K+ tokens), making it suitable for advanced reasoning, coding, and agent-based applications.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 561,727 • ❤️ 597 • 9d ago
 
 ---
 
@@ -511,7 +511,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 122 • 💬 5 • ⭐ 597 • 1d ago
+▲ 123 • 💬 5 • ⭐ 597 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -642,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.7k • 🔱 3.0k • 7h ago
+⭐ 23.8k • 🔱 3.0k • 1h ago
 
 ---
 
@@ -652,7 +652,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 12.8k • 🔱 433 • 7h ago
+⭐ 13.0k • 🔱 439 • 7h ago
 
 ---
 
@@ -662,7 +662,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.8k • 🔱 963 • 1h ago
+⭐ 8.9k • 🔱 967 • 6m ago
 
 ---
 
@@ -672,7 +672,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.6k • 🔱 819 • 2d ago
+⭐ 6.6k • 🔱 821 • 2d ago
 
 ---
 
@@ -682,7 +682,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.2k • 🔱 463 • 21h ago
+⭐ 6.3k • 🔱 467 • 22h ago
 
 ---
 
@@ -692,7 +692,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.7k • 🔱 662 • 10h ago
+⭐ 5.7k • 🔱 664 • 10h ago
 
 ---
 
@@ -702,7 +702,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 3.8k • 🔱 297 • 20h ago
+⭐ 4.1k • 🔱 318 • 20h ago
 
 ---
 
@@ -712,7 +712,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 382 • 3h ago
+⭐ 3.5k • 🔱 382 • 37m ago
 
 ---
 
@@ -722,7 +722,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 238 • 1h ago
+⭐ 3.3k • 🔱 239 • 2h ago
 
 ---
 
