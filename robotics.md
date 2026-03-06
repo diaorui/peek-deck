@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-06T06:52:32.423541+00:00'
+updated: '2026-03-06T07:39:01.336139+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 06, 2026 at 06:52 UTC  
+**Last Updated:** March 06, 2026 at 07:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I’ve open-sourced my robots!](https://www.reddit.com/r/robotics/comments/1rll5z2/ive_opensourced_my_robots/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -58,7 +58,7 @@ I have been a robotics engineer all my life, worked 3 years full-time and am abo
 
 At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor system that integrates drive, braking, and steering within each wheel unit.
 
-13h ago
+14h ago
 
 ---
 
@@ -66,7 +66,7 @@ At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor 
 
 Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot project. My design has 18 coils and 20 magnets in the stator and the rotor. I used 0.5mm copper wire for the coils and 10x5x2mm magnets for the rotor. For the ESC I'm using the 40A brushless motor esc with a 3S lipo battery. The stator's inner diameter is roughly 80 mm and outer diameter is around 100mm. However after assembling the motor and plugging it into the ESC the coils had extremely low pull force (it can barely move a single magnet) . What could be the issue here? I've tried rewiring the coils but it didn't change anything. All of the coils are wired clockwise with the ends of each phase soldered together. Also do you have any tips on how to make a motor that has more torque? What I'm aiming for is 12 Nm
 
-7h ago
+8h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 4h ago
 
 ---
 
@@ -82,7 +82,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
 
-20h ago
+21h ago
 
 ---
 
@@ -90,7 +90,7 @@ Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi
 
 Hi everyone, I'm working on a small robot project using an Arduino Uno and I'm currently thinking about the best way to structure the code as the project grows. Right now the robot has several modules: a sonar sensor mounted on a servo for scanning, a LED matrix for expressions, and another servo that controls a small shutter on the head. The project is starting to grow and I'm trying to design the architecture in a way that stays maintainable. My current idea is roughly this: Hardware modules implemented as classes (Sonar, ServoManager, Matrix, etc.) Behavior logic implemented as functions that run in the main loop A simple state machine (sleep, idle, active) A behavior manager that runs small "micro-behaviors" depending on the current state Each behavior function gets called every loop, but internally decides whether to do something based on timers (millis()) or hardware availability (for example checking if a servo is already moving). Something like: updateStates() updateBehavior() servos.update() matrix.update() Inside the behavior manager I would have things like: idleLookAround() idleBlinkMatrix() idleSonarSweep() Each one is independent and just returns quickly if it’s not time to act yet. So the architecture ends up being somewhat hybrid: OOP for hardware abstraction procedural / functional style for behaviors and state logic. My questions are: Is this a reasonable architecture for a small Arduino robot? Would you structure behaviors differently (for example using classes for behaviors as well)? Are there patterns commonly used in robotics projects on microcontrollers that I should look into? I'm trying to keep the loop non-blocking and avoid delays so everything can run smoothly. Any advice or examples from your own robot projects would be really appreciated. https://reddit.com/link/1rm69io/video/kgwdn0ux8dng1/player
 
-35m ago
+1h ago
 
 ---
 
@@ -126,7 +126,7 @@ BMW Group • 6d ago
 
 Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
-Fox Business • 12h ago
+Fox Business • 13h ago
 
 ---
 
@@ -162,13 +162,13 @@ Nature • 20h ago
 
 **[Humanoid robots master parkour and acquire human-like agility](https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html)**
 
-Tech Xplore • 17h ago
+Tech Xplore • 18h ago
 
 ---
 
 **[Rise of robots? Texas Instruments joins forces with Nvidia to help developers build androids](https://seekingalpha.com/news/4561341-rise-of-robots-texas-instruments-joins-forces-with-nvidia-to-help-developers-build-androids)**
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -206,7 +206,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 6K • 👍 176 • 💬 21 • ⏱️ 29:41 • 6h ago
+👁️ 6K • 👍 176 • 💬 21 • ⏱️ 29:41 • 7h ago
 
 ---
 
@@ -226,7 +226,7 @@ War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #
 
 📺 Adrian Chong
 
-👁️ 5K • 👍 321 • 💬 56 • ⏱️ 15:24 • 16h ago
+👁️ 5K • 👍 321 • 💬 56 • ⏱️ 15:24 • 17h ago
 
 ---
 

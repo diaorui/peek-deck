@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T06:52:32.405860+00:00'
+updated: '2026-03-06T07:39:01.318126+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 06:52 UTC  
+**Last Updated:** March 06, 2026 at 07:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict](https://www.reddit.com/r/artificial/comments/1rls9fs/pentagon_formally_labels_anthropic_supplychain/)**
 
-🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 10h ago
+🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 11h ago
 
 ---
 
@@ -55,7 +55,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Netflix just spent some of that $2.8 billion it kept after walking away from the Warner Bros. Discovery deal to acquire InterPositive, Ben Affleck’s 16-person filmmaking tech startup. With Affleck staying on as a senior adviser, the focus is squarely on post-production utility rather than "text-to-video" generative shortcuts. This move signals a shift from Netflix’s usual "build-it-ourselves" mentality toward buying specialized tools that understand the vocabulary of a working set. The most important thing to get about InterPositive is that it isn't scraping the internet to hallucinate footage. Instead, they built their models using a proprietary dataset filmed on controlled soundstages to capture exactly how light shape-shifts across a scene and how specific lens distortions actually behave. This isn't about "generating something from nothing," but rather feeding a system your production dailies so it can solve practical problems during post. This filmmaker-centric approach matters because it focuses on: Maintaining visual logic: The system is designed to keep editorial consistency intact even when a production hits messy, real-world snags like a missing shot or background errors. Precision in the grade: Rather than applying a flat filter, the tech allows cinematographers to relight shots and mix colors in a way that respects the original lighting design. Built-in guardrails: By hard-coding restraints that protect creative intent, the software ensures the final "look" remains a human decision rather than an algorithmic one. This isn't just a technical upgrade; it's a strategic olive branch to a creative community that has been understandably on edge about the "artist vs. technology" divide. By keeping these tools exclusive to its "internal creative partners" rather than selling them commercially, Netflix is positioning itself as a collaborator that values the nuts and bolts of the craft. These tools are built for the person who knows that a great sequence relies on the kind of judgment that takes decades of experience to build and hone. It’s a useful acknowledgment that sets are unpredictable environments where light and shadow don't always behave-and where the human eye is still the final authority. Ultimately, the goal here isn't to make films faster or cheaper by cutting the crew, but to give the people behind the camera a way to protect their vision through the unpredictable finish line of post-production.
 
-3h ago
+4h ago
 
 ---
 
@@ -63,7 +63,7 @@ Netflix just spent some of that $2.8 billion it kept after walking away from the
 
 Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
 
-6h ago
+7h ago
 
 ---
 
@@ -71,7 +71,7 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 6h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 7h ago
 
 ---
 
@@ -93,7 +93,7 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 **[Frameworks Are Dead. Architects Are Not.](https://www.reddit.com/r/artificial/comments/1rm2ue6/frameworks_are_dead_architects_are_not/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 3h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 4h ago
 
 ---
 
@@ -119,13 +119,13 @@ AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a p
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 10h ago
+Anthropic • 11h ago
 
 ---
 
 **[Demand for AI Data Centers Sends Prospectors Hunting for Land and Power](https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
@@ -133,7 +133,7 @@ The New York Times • 14h ago
 
 Ministers urged to abandon plans to let tech firms use work of novelists, artists and writers without permission
 
-The Guardian • 52m ago
+The Guardian • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 52m ago
 
 Bournemouth University has surveyed adults in 35 countries on their use of artificial intelligence.
 
-BBC • 21m ago
+BBC • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ BBC • 21m ago
 
 Reports say talks have resumed between defense department and startup over military’s use of company’s AI
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Guardian • 10h ago
 
 The U.S. military has formally designated artificial intelligence firm Anthropic a supply chain risk, a sweeping move that could cut it off from military contracts.
 
-CBS News • 10h ago
+CBS News • 11h ago
 
 ---
 
@@ -165,7 +165,7 @@ CBS News • 10h ago
 
 The Pentagon said in a statement Thursday that it has "officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately."
 
-NPR • 43m ago
+NPR • 1h ago
 
 ---
 
@@ -173,13 +173,13 @@ NPR • 43m ago
 
 Led by Chairman Larry Ellison, Oracle is embarking on a historic build-out of data centers to power AI workloads for customers such as OpenAI.  The company, long known for its database software, has been making a transition the past few years to bulk up its cloud computing unit with a focus on AI, intending to become a viable competitor to market leaders Amazon.com Inc. and Microsoft Corp.  Wall Street projects the expenditures by the cloud unit for data centers to push Oracle’s cash flow negative over the coming years before the spending begins to pay off in 2030, according to data compiled by Bloomberg.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Cursor Goes To War For AI Coding Dominance](https://www.forbes.com/sites/annatong/2026/03/05/cursor-goes-to-war-for-ai-coding-dominance/)**
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
@@ -187,7 +187,7 @@ Forbes • 11h ago
 
 Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -261,7 +261,7 @@ Human DX optimizes for discoverability. Agent DX optimizes for predictability. W
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 149 • 💬 46 • 8h ago • [406.fail](https://406.fail/)
+⬆️ 149 • 💬 46 • 9h ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -269,7 +269,7 @@ Human DX optimizes for discoverability. Agent DX optimizes for predictability. W
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 138 • 💬 193 • 7h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 138 • 💬 193 • 8h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
@@ -283,7 +283,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 15K • 👍 641 • 💬 74 • ⏱️ 10:56 • 7h ago
+👁️ 15K • 👍 641 • 💬 74 • ⏱️ 10:56 • 8h ago
 
 ---
 
@@ -293,7 +293,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 51K • 👍 3K • 💬 168 • ⏱️ 17:49 • 16h ago
+👁️ 51K • 👍 3K • 💬 168 • ⏱️ 17:49 • 17h ago
 
 ---
 
@@ -323,7 +323,7 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 90K • 👍 4K • 💬 974 • ⏱️ 21:38 • 11h ago
+👁️ 90K • 👍 4K • 💬 974 • ⏱️ 21:38 • 12h ago
 
 ---
 
@@ -363,7 +363,7 @@ Download the Skills Library + Learn to Build Sellable AI Projects https://skool.
 
 📺 Zubair Trabzada | AI Workshop
 
-👁️ 9K • 👍 433 • 💬 20 • ⏱️ 11:51 • 17h ago
+👁️ 9K • 👍 433 • 💬 20 • ⏱️ 11:51 • 18h ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 792,060 • ❤️ 538 • 13h ago
+⬇️ 792,060 • ❤️ 538 • 14h ago
 
 ---
 
@@ -473,7 +473,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 4 • ❤️ 190 • 16h ago
+⬇️ 4 • ❤️ 190 • 17h ago
 
 ---
 
@@ -645,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.7k • 🔱 3.0k • 2h ago
+⭐ 23.7k • 🔱 3.0k • 3h ago
 
 ---
 
@@ -655,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 12.5k • 🔱 417 • 2h ago
+⭐ 12.5k • 🔱 417 • 3h ago
 
 ---
 
@@ -685,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.1k • 🔱 462 • 17h ago
+⭐ 6.1k • 🔱 462 • 18h ago
 
 ---
 
@@ -695,7 +695,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.7k • 🔱 662 • 5h ago
+⭐ 5.7k • 🔱 662 • 6h ago
 
 ---
 
@@ -705,7 +705,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 381 • 12m ago
+⭐ 3.5k • 🔱 381 • 58m ago
 
 ---
 
@@ -715,7 +715,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 3.3k • 🔱 256 • 15h ago
+⭐ 3.3k • 🔱 256 • 16h ago
 
 ---
 
@@ -725,7 +725,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 236 • 3h ago
+⭐ 3.3k • 🔱 236 • 4h ago
 
 ---
 

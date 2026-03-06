@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T06:52:32.414315+00:00'
+updated: '2026-03-06T07:39:01.326866+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 06:52 UTC  
+**Last Updated:** March 06, 2026 at 07:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
 
-52m ago
+1h ago
 
 ---
 
@@ -97,13 +97,13 @@ I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets look
 
 It's just like this, every single time. No matter what.
 
-9h ago
+10h ago
 
 ---
 
 **[One tap, paid.](https://www.reddit.com/r/Bitcoin/comments/1rligdq/one_tap_paid/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -127,7 +127,7 @@ I was fortunate to become a BTC whole coiner about 1yr ago. I got hungry and wen
 
 The above is an animation I created that shows bitcoin's daily returns over the last 8 years measured over time. It shows in which cycle bitcoin is in as phase diagram. The idea is surprisingly simple and yet very insightful, expecially when animated. Was inspired by the original formulas and creation by Sheharyar at MC Finance who I think originally came up with it, I just tweaked it, cleaned the smoothing and added an animation over time. What is most striking is that you can see that large negative returns follow large positive returns over a prolonged period of time. There is no snap towards the middle but instead, even with minimal smoothing the returns follow beautiful orbits and that "momentum" is very real, even if measured in digital asset returns.
 
-14h ago
+15h ago
 
 ---
 
@@ -135,7 +135,7 @@ The above is an animation I created that shows bitcoin's daily returns over the 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-44m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I totally agree with DCA strategy, I just feel that I do it completely differently to most. Most seem to have a set amount and whether weekly, fortnightly, monthly whatever they put in the set amount. Is it not a lot more sensible to have a kind of ‘fiat fund’ for DCA, pay the funds into that and each time BTC has a shocker, huge red day, everyone crying, it’s all over, which happens frequently, you put all of your accumulated funds in then, rinse & repeat. You’re still doing exactly the same DCA into BTC but you’re generally maxing your lower average. I don’t seem to hear many people who DCA like this, maybe a lot do it’s just not often mentioned, yes sometimes that decent chunk you buy will immediately go down, but it’s still waiting for optimal times to put your funds in rather than imo stupidly just adding on a time based approach. Maybe it’s due to people not trusting themselves with the fiat amount building up, and know once it’s locked into BTC it’s there and it’s not being used in an emergency I don’t know. Thoughts?
 
-12h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ I totally agree with DCA strategy, I just feel that I do it completely different
 
 Got an email earlier today that strike is FINALLY available in NYS!
 
-8h ago
+9h ago
 
 ---
 
@@ -163,7 +163,7 @@ Got an email earlier today that strike is FINALLY available in NYS!
 
 The increase follows a mining fleet expansion as the firm focuses on accumulating bitcoin through large-scale self-mining.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 16h ago
 
 Board members Justin Mateen and Richard Busch bought roughly 1.6 million shares after the trading window reopened following the bitcoin miner’s latest earnings report.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bitcoin Magazine • 1d ago
 
 Gold (GC=F) is currently outperforming bitcoin (BTC-USD), with the world's largest cryptocurrency down nearly 50% from last year's highs. Canza Finance co-founder and CEO Pascal Ntsama chats with Ross Mac, host of Yahoo Finance's Financial Freestyle podcast, to compare the two assets, the different ways in which they're traded around the world, and more. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 18h ago
 
 Key PointsPolymarket traders give Bitcoin just a 1% chance of hitting $150,000 by the end of March.
 
-Nasdaq • 2h ago
+Nasdaq • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 2h ago
 
 **[Bitcoin price today: falls to $70k amid Iran conflict; set for weekly jump](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-to-70k-amid-iran-conflict-set-for-weekly-jump-4546036)**
 
-Investing.com • 39m ago
+Investing.com • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Investing.com • 39m ago
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 3h ago
+NDTV • 4h ago
 
 ---
 
@@ -225,13 +225,13 @@ NDTV • 3h ago
 
 New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqfOn0NiGXAMI2HNPPizfazbJWmwUC2-SRsHpHnBouPbxD4pFvg9ucBX&gaa_ts=69aa7d14&gaa_sig=6WPi9pXewnBmZ-qOKKAJtofO9uk23LpM2tkLeIaHBBih-ASwcoXhOTStu3-OAc6wnH1azk6F2n-Xoe7T345kBQ%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -287,7 +287,7 @@ Complete operating system for Bitcoiners
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 15h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 16h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -323,7 +323,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 425 • 💬 33 • ⏱️ 19:58 • 15h ago
+👁️ 13K • 👍 425 • 💬 33 • ⏱️ 19:58 • 16h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 127 • ⏱️ 17:07 • 7h ago
+👁️ 12K • 👍 1K • 💬 127 • ⏱️ 17:07 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce
 
 📺 No Bs Crypto
 
-👁️ 7K • 👍 648 • 💬 102 • ⏱️ 12:20 • 12h ago
+👁️ 7K • 👍 648 • 💬 102 • ⏱️ 12:20 • 13h ago
 
 ---
 
@@ -353,7 +353,7 @@ Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discus
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 709 • 💬 12 • ⏱️ 40:52 • 8h ago
+👁️ 17K • 👍 709 • 💬 12 • ⏱️ 40:52 • 9h ago
 
 ---
 
@@ -363,7 +363,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 41K • 👍 2K • 💬 236 • ⏱️ 17:02 • 8h ago
+👁️ 41K • 👍 2K • 💬 236 • ⏱️ 17:02 • 9h ago
 
 ---
 
@@ -373,7 +373,7 @@ I'm Selling My New Bitcoin… Here's Why! ❤️ Josh New Discord [JOIN NOW] ▻
 
 📺 Stocks with Josh
 
-👁️ 7K • 👍 206 • 💬 4 • ⏱️ 0:47 • 12h ago
+👁️ 7K • 👍 206 • 💬 4 • ⏱️ 0:47 • 13h ago
 
 ---
 
@@ -403,7 +403,7 @@ Nick Valdez looks at several charts fr today's video! How does Bitcoin, Ethereum
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 134 • 💬 10 • ⏱️ 8:24 • 5h ago
+👁️ 2K • 👍 134 • 💬 10 • ⏱️ 8:24 • 6h ago
 
 ---
 
