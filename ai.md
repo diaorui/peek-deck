@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T15:38:37.819112+00:00'
+updated: '2026-03-06T16:42:56.108621+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 15:38 UTC  
+**Last Updated:** March 06, 2026 at 16:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-6h ago
+7h ago
 
 ---
 
 **[Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict](https://www.reddit.com/r/artificial/comments/1rls9fs/pentagon_formally_labels_anthropic_supplychain/)**
 
-🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 19h ago
+🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 20h ago
 
 ---
 
@@ -55,7 +55,29 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex. "Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging," says Benjamin Nephew, assistant research professor in the Department of Biology and Biotechnology. "We found that machine-learning technologies, however, can analyze large amounts of data from scans to identify subtle changes and accurately predict Alzheimer's disease and related cognitive states. This advance has informed Alzheimer's disease research and may lead to methods that could allow doctors to diagnose and treat the disease earlier and more effectively." Alzheimer's disease is a neurodegenerative disorder that impairs mental functions and ultimately leads to death. An estimated 6.9 million Americans age 65 and older are living with Alzheimer's disease. Healthy brains contain billions of neurons, the cells that process and transmit signals needed for thought, movement, and other bodily functions. Alzheimer's disease injures neurons, leading to cell death and loss of brain tissue and associated cognitive functions. Analyzing data-rich MRI images can require substantial computing power and time. To focus their investigation, the WPI researchers first used machine learning to analyze 815 MRI scans for volume measurements in 95 brain regions. Then they deployed an algorithm to make predictions based upon differences in the measurements between healthy individuals and those with mild cognitive impairment or Alzheimer's disease. Results showed that the method was 92.87% accurate in detecting Alzheimer's disease among normal brains and brains of people with mild cognitive impairment.
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 14h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 15h ago
+
+---
+
+**[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
+
+16m ago
+
+---
+
+**[Meta to let rival AI companies put their chatbots on WhatsApp, but it won't be cheap](https://www.reddit.com/r/artificial/comments/1rmhe57/meta_to_let_rival_ai_companies_put_their_chatbots/)**
+
+Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
+
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 1h ago
+
+---
+
+**[OpenAI launches GPT-5.4: New model hits 83% on pro-level knowledge benchmark](https://www.reddit.com/r/artificial/comments/1rmilgg/openai_launches_gpt54_new_model_hits_83_on/)**
+
+OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 15m ago
 
 ---
 
@@ -63,7 +85,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
 
-15h ago
+16h ago
 
 ---
 
@@ -71,13 +93,13 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 15h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 16h ago
 
 ---
 
 **[Frameworks Are Dead. Architects Are Not.](https://www.reddit.com/r/artificial/comments/1rm2ue6/frameworks_are_dead_architects_are_not/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 12h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 13h ago
 
 ---
 
@@ -89,28 +111,6 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 ---
 
-**[LLMs can unmask pseudonymous users at scale with surprising accuracy](https://www.reddit.com/r/artificial/comments/1rl5wwp/llms_can_unmask_pseudonymous_users_at_scale_with/)**
-
-So ai can uncover your anonymous identity on social media now so creating burner accounts may be pointless.
-
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) • 1d ago
-
----
-
-**[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 1d ago
-
----
-
-**[AMD engineer leverages AI to help make a pure-Python AMD GPU user-space driver](https://www.reddit.com/r/artificial/comments/1rl27ei/amd_engineer_leverages_ai_to_help_make_a/)**
-
-AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a pure-Python AMD GPU user-space driver
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -119,7 +119,7 @@ AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a p
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 19h ago
+Anthropic • 20h ago
 
 ---
 
@@ -127,61 +127,65 @@ Anthropic • 19h ago
 
 The Pentagon said in a statement Thursday that it has "officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately."
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
-**[Anthropic's Claude uncovers 22 Firefox security vulnerabilities](https://www.axios.com/2026/03/06/anthropic-mozilla-claude-opus-bug-hunting)**
+**[The Take: How is the US using Anthropic’s Claude AI in Iran?](https://www.aljazeera.com/podcasts/2026/3/6/the-take-how-is-the-us-using-anthropics-claude-ai-in-iran)**
 
-Axios • 2h ago
+AI models are shaping US battlefield decisions. Can tech companies be trusted with life-and-death power?
 
----
-
-**[February Layoff Numbers From Challenger Undercut AI Fears](https://www.wsj.com/livecoverage/jobs-report-unemployment-stock-market-03-06-2026/card/february-layoff-numbers-from-challenger-undercut-ai-fears-VuF5MVSqXlIqpMTbvrRS?gaa_at=eafs&gaa_n=AWEtsqda8b_NBvcq7EnotDY_skc1SJduqotD0MDJCqAX2djwH5KiM3ccMYnj&gaa_ts=69aaecb8&gaa_sig=23dkSE4D7-c8ZkzdTy8nozyHSm4Nf4WNsfex0GVdy64Q-jv8-kucCpIkKealMBG6b6dEWkwTAIQn913XGOewHw%3D%3D)**
-
-WSJ • 1h ago
+Al Jazeera • 56m ago
 
 ---
 
-**[AI T-shirt could detect hidden heart risks](https://www.foxnews.com/tech/ai-t-shirt-could-detect-hidden-heart-risks)**
+**[Opinion | Why the Pentagon Wants to Destroy Anthropic](https://www.nytimes.com/2026/03/06/opinion/ezra-klein-podcast-dean-ball.html)**
 
-U.K. researchers developed an AI-powered T-shirt that monitors electrical signals continuously, addressing gaps in traditional ECG testing methods.
+The New York Times • 6h ago
 
-Fox News • 2h ago
+---
+
+**[I'm an ex-Amazon, current Meta machine learning engineer. Here's how I built my résumé to land my AI roles.](https://www.businessinsider.com/meta-ai-engineer-shares-resume-strategy-that-helped-land-job-2026-3)**
+
+A Meta machine learning engineer shares the startup and Big Tech experience he highlighted on his résumé to land the job.
+
+Business Insider • 44m ago
+
+---
+
+**[Building the Foundations of AI Cities: Lessons in Infrastructure, Energy, and Efficiency](https://www.datacenterknowledge.com/data-center-site-selection/building-the-foundations-of-ai-cities-lessons-in-infrastructure-energy-and-efficiency)**
+
+Strong public-private partnerships and holistic urban planning are essential to creating resilient, scalable, and AI-ready ecosystems.
+
+Data Center Knowledge • 35m ago
+
+---
+
+**[AI isn't taking people's jobs. Here's what's really happening](https://qz.com/ai-layoffs-white-collar-jobs-oracle-capex)**
+
+Oracle's layoffs drive home that the workers losing jobs aren't losing them because AI can do their work. They're losing them to money spent on chips, data centers, and more
+
+qz.com • 14m ago
 
 ---
 
 **[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
+
+---
+
+**[Samsung reveals first details of its AI smart glasses to CNBC](https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html)**
+
+Samsung's AI smart glasses will be launched in 2026 and will mark the company's first foray into the product category.
+
+CNBC • 3h ago
 
 ---
 
 **[Cursor Goes To War For AI Coding Dominance](https://www.forbes.com/sites/annatong/2026/03/05/cursor-goes-to-war-for-ai-coding-dominance/)**
 
-Forbes • 20h ago
-
----
-
-**[Iran hits Amazon data centres in jolt to Gulf AI drive](https://www.ft.com/content/09fa5c20-2c8f-4f41-9d91-c78476eaac20)**
-
-First known military strike on a US hyperscaler rattles regional ambitions to build multibillion-dollar cloud facilities
-
-Financial Times • 10h ago
-
----
-
-**[AI danger gets real](https://www.economist.com/leaders/2026/03/05/ai-danger-gets-real)**
-
-The Economist • 1d ago
-
----
-
-**[Oracle Plans Thousands of Job Cuts in Face of AI Cash Crunch](https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch)**
-
-Oracle Corp. is planning to ax thousands of jobs, among its moves to handle a cash crunch from a massive AI data center expansion effort.
-
-Bloomberg • 21h ago
+Forbes • 21h ago
 
 ---
 
@@ -197,25 +201,17 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 ---
 
-**[When AI writes the software, who verifies it?](https://news.ycombinator.com/item?id=47234917)**
-
-Leonardo de Moura — Creator of Lean and Z3
-
-⬆️ 304 • 💬 298 • 2d ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
-
----
-
 **[Labor market impacts of AI: A new measure and early evidence](https://news.ycombinator.com/item?id=47268391)**
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 267 • 💬 410 • 16h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 280 • 💬 432 • 17h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 246 • 💬 85 • 17h ago • [406.fail](https://406.fail/)
+⬆️ 258 • 💬 90 • 18h ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -227,11 +223,19 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 ---
 
+**[AI and the Ship of Theseus](https://news.ycombinator.com/item?id=47263048)**
+
+Slopforks: what happens when a library gets rewritten with AI?
+
+⬆️ 160 • 💬 165 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+
+---
+
 **[Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal](https://news.ycombinator.com/item?id=47241092)**
 
 A growing protest movement is encouraging people to cancel their subscriptions to the popular AI chatbot.
 
-⬆️ 159 • 💬 37 • 2d ago • [euronews](https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal)
+⬆️ 159 • 💬 38 • 2d ago • [euronews](https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal)
 
 ---
 
@@ -240,14 +244,6 @@ A growing protest movement is encouraging people to cancel their subscriptions t
 Human DX optimizes for discoverability. Agent DX optimizes for predictability. What I learned building a CLI for agents first.
 
 ⬆️ 158 • 💬 63 • 1d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
-
----
-
-**[AI and the Ship of Theseus](https://news.ycombinator.com/item?id=47263048)**
-
-Slopforks: what happens when a library gets rewritten with AI?
-
-⬆️ 156 • 💬 159 • 23h ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
 
 ---
 
@@ -267,19 +263,17 @@ The takeaway? If you value Qwen's open source efforts, download and preserve the
 
 ---
 
+**[Show HN: P0 – Yes, AI can ship complex features into real codebases](https://news.ycombinator.com/item?id=47247639)**
+
+Your spec, your standards, your repos. p0 is a Mac app and structured AI pipeline that turns specs into production-ready PRs across all your repos.
+
+⬆️ 92 • 💬 38 • 2d ago • [bepurple.ai](https://www.bepurple.ai/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
-
-**[How To Create Long 3D AI Animation with Consistent Characters](https://www.youtube.com/watch?v=VSWApcIZFC4)**
-
-Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI tool I used ...
-
-📺 Mira AI
-
-👁️ 2K • ⏱️ 9:10 • 2h ago
-
----
 
 **[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
 
@@ -287,17 +281,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 25K • 👍 880 • 💬 83 • ⏱️ 10:56 • 16h ago
-
----
-
-**[Unrestricted AI in a robot does exactly what experts warned](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
-
-AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your $5 sign-up bonus at ...
-
-📺 InsideAI
-
-👁️ 332K • 👍 23K • 💬 3K • ⏱️ 16:54 • 2d ago
+👁️ 27K • 👍 960 • 💬 87 • ⏱️ 10:56 • 17h ago
 
 ---
 
@@ -307,7 +291,37 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 63K • 👍 3K • 💬 196 • ⏱️ 17:49 • 1d ago
+👁️ 70K • 👍 4K • 💬 213 • ⏱️ 17:49 • 1d ago
+
+---
+
+**[Unrestricted AI in a robot does exactly what experts warned](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
+
+AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your $5 sign-up bonus at ...
+
+📺 InsideAI
+
+👁️ 343K • 👍 24K • 💬 3K • ⏱️ 16:54 • 2d ago
+
+---
+
+**[My AI Agents Made Money in 7 Days (OpenClaw)](https://www.youtube.com/watch?v=LCkGVCfmtzo)**
+
+Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator Magic Premium: https://mrc.fm/premium Last week I ...
+
+📺 Creator Magic
+
+👁️ 3K • 👍 236 • 💬 17 • ⏱️ 8:17 • 3h ago
+
+---
+
+**[How to Make a Movie with AI (Complete Tutorial 2026)](https://www.youtube.com/watch?v=kDMteFtn2Y4)**
+
+In this complete tutorial, I'll show you exactly How to Make Movie Scenes with AI using Higgsfield, even if you're a beginner.
+
+📺 Mariana Montoya 
+
+👁️ 1K • 💬 7 • ⏱️ 11:09 • 1h ago
 
 ---
 
@@ -317,27 +331,7 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 133K • 👍 6K • 💬 1K • ⏱️ 21:38 • 20h ago
-
----
-
-**[The End of Work: Vinod Khosla&#39;s Bold AI Prediction | Titans and Disruptors](https://www.youtube.com/watch?v=cSWvm7nu1rI)**
-
-What if AI made your paycheck optional? Vinod Khosla, one of the world's greatest venture capitalists and an early backer of AI, ...
-
-📺 Fortune Magazine
-
-👁️ 13K • 👍 304 • 💬 76 • ⏱️ 37:04 • 2d ago
-
----
-
-**[My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](https://www.youtube.com/watch?v=PEFso88LkC4)**
-
-Try Flow Pro free for 14 days + get an extra month free with my code TECHWITHTIM! Start here: ...
-
-📺 Tech With Tim
-
-👁️ 42K • 👍 2K • 💬 435 • ⏱️ 15:01 • 1d ago
+👁️ 151K • 👍 7K • 💬 1K • ⏱️ 21:38 • 21h ago
 
 ---
 
@@ -347,17 +341,7 @@ World-renowned security expert Gavin de Becker explains why AI is making it near
 
 📺 The Diary Of A CEO Clips
 
-👁️ 39K • 👍 1K • 💬 79 • ⏱️ 21:25 • 1d ago
-
----
-
-**[AI Art Just Lost.](https://www.youtube.com/watch?v=yDecu_jNpZI)**
-
-The Supreme Court of the United States of America has officially turned away a key case surrounding artificial intelligence art and ...
-
-📺 Vailskibum
-
-👁️ 316K • 👍 23K • 💬 4K • ⏱️ 2:09 • 1d ago
+👁️ 40K • 👍 1K • 💬 82 • ⏱️ 21:25 • 1d ago
 
 ---
 
@@ -367,7 +351,27 @@ Download the Skills Library + Learn to Build Sellable AI Projects https://skool.
 
 📺 Zubair Trabzada | AI Workshop
 
-👁️ 18K • 👍 785 • 💬 37 • ⏱️ 11:51 • 1d ago
+👁️ 23K • 👍 939 • 💬 43 • ⏱️ 11:51 • 1d ago
+
+---
+
+**[This Secret AI YouTube Niche Is BLOWING UP (100% FREE Grok AI Long Video Guide)](https://www.youtube.com/watch?v=1dN62f2rz3M)**
+
+This Secret AI YouTube Niche Is BLOWING UP Right Now – 100% FREE Grok AI Long Video Guide In this video, I reveal a ...
+
+📺 zapiwala ai
+
+👁️ 11K • 👍 564 • 💬 112 • ⏱️ 11:18 • 1d ago
+
+---
+
+**[Best AI App Builder for iOS and Android (2026)](https://www.youtube.com/watch?v=aML6rJI1e_w)**
+
+Best AI App Builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video98 ✓ FREE ...
+
+📺 Mikey No Code
+
+👁️ 5K • 💬 7 • ⏱️ 36:24 • 2h ago
 
 ---
 
@@ -383,7 +387,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 516,030 • ❤️ 509 • 4d ago
+⬇️ 516,030 • ❤️ 516 • 4d ago
 
 ---
 
@@ -395,7 +399,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,000,738 • ❤️ 985 • 7d ago
+⬇️ 1,000,738 • ❤️ 987 • 7d ago
 
 ---
 
@@ -407,7 +411,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 265,017 • ❤️ 288 • 4d ago
+⬇️ 265,017 • ❤️ 291 • 4d ago
 
 ---
 
@@ -419,7 +423,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 919,117 • ❤️ 545 • 22h ago
+⬇️ 919,117 • ❤️ 545 • 23h ago
 
 ---
 
@@ -431,7 +435,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 232,531 • ❤️ 256 • 4d ago
+⬇️ 232,531 • ❤️ 258 • 4d ago
 
 ---
 
@@ -443,7 +447,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 34,959 • ❤️ 225 • 1d ago
+⬇️ 34,959 • ❤️ 234 • 1d ago
 
 ---
 
@@ -455,7 +459,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 380,168 • ❤️ 209 • 4d ago
+⬇️ 380,168 • ❤️ 213 • 4d ago
 
 ---
 
@@ -479,19 +483,19 @@ An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for r
 
 `image-text-to-text` `36.0B`
 
-⬇️ 21,100 • ❤️ 181 • 4d ago
+⬇️ 21,100 • ❤️ 182 • 4d ago
 
 ---
 
-**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
+**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
 
-*Nanbeige LLM Lab*
+*MiniMax*
 
-Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It's particularly noted for its native support of deep-search tasks and sustained problem-solving with extensive tool invocations.
+MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
 
-`text-generation` `3.9B`
+`text-generation` `228.7B`
 
-⬇️ 470,144 • ❤️ 963 • 8d ago
+⬇️ 370,789 • ❤️ 1,108 • 7h ago
 
 ---
 
@@ -507,7 +511,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 124 • 💬 5 • ⭐ 597 • 2d ago
+▲ 125 • 💬 5 • ⭐ 597 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -558,7 +562,7 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 36 • 💬 2 • ⭐ 17,621 • 19mo ago
+▲ 36 • 💬 2 • ⭐ 17,657 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
@@ -577,18 +581,6 @@ AReaL, a fully asynchronous reinforcement learning system, decouples generation 
 
 ---
 
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 10 • 💬 0 • ⭐ 7,064 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
-
----
-
 **[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
 
 *Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
@@ -598,6 +590,18 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 ▲ 19 • 💬 1 • ⭐ 7,069 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+
+▲ 10 • 💬 0 • ⭐ 7,092 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -639,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.8k • 🔱 3.0k • 5h ago
+⭐ 23.9k • 🔱 3.0k • 6h ago
 
 ---
 
@@ -649,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 13.3k • 🔱 448 • 11h ago
+⭐ 13.6k • 🔱 462 • 12h ago
 
 ---
 
@@ -659,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.9k • 🔱 970 • 1h ago
+⭐ 9.0k • 🔱 978 • 1h ago
 
 ---
 
@@ -669,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.7k • 🔱 826 • 3d ago
+⭐ 6.7k • 🔱 829 • 3d ago
 
 ---
 
@@ -679,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.4k • 🔱 471 • 1d ago
+⭐ 6.4k • 🔱 475 • 1d ago
 
 ---
 
@@ -689,7 +693,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.7k • 🔱 665 • 14h ago
+⭐ 5.7k • 🔱 670 • 15h ago
 
 ---
 
@@ -699,7 +703,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 4.2k • 🔱 331 • 1d ago
+⭐ 4.3k • 🔱 349 • 1d ago
 
 ---
 
@@ -709,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 382 • 4h ago
+⭐ 3.5k • 🔱 383 • 5h ago
 
 ---
 
@@ -719,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 239 • 6h ago
+⭐ 3.3k • 🔱 239 • 7h ago
 
 ---
 
@@ -729,7 +733,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 626 • 3d ago
+⭐ 3.2k • 🔱 627 • 3d ago
 
 ---
 
