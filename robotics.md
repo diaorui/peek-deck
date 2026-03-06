@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-06T07:39:01.336139+00:00'
+updated: '2026-03-06T08:40:00.017354+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 06, 2026 at 07:39 UTC  
+**Last Updated:** March 06, 2026 at 08:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I’ve open-sourced my robots!](https://www.reddit.com/r/robotics/comments/1rll5z2/ive_opensourced_my_robots/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 For those following the project, this is Bimo walking on a regular carpet, something that used to be very unreliable without hand-tuning the environment or the RL model. Over the last months I’ve retrained and tweaked the walking model so it’s much more robust: it now keeps a stable heading instead of drifting or turning, and it tolerates uneven contact and small disturbances much better than before. Next on the roadmap are behaviors such as: turning gaits, better recovery under sustained pushes, and more pre-programmed motions to make Bimo a practical research and tinkering platform rather than just a locomotion demo. As these stabilize, I’ll be adding them to the open-source GitHub repo and documenting them in the Discord so others can build on top of this. If you want to see the full kit and platform details, there’s also a page on the Mekion site with specs and pre-order info.
 
-15h ago
+16h ago
 
 ---
 
@@ -50,15 +50,7 @@ For those following the project, this is Bimo walking on a regular carpet, somet
 
 I have been a robotics engineer all my life, worked 3 years full-time and am about to graduate from Carnegie Mellon with a masters degree in Robotics in May. I've been offered a position at Apple (camera modules) to help build smart front cameras. But, it doesn't involve robotics hardware - think of it as ML-based CV on edge at scale. Over my masters degree, I've built a keen interest in RL and autonomy in robotics; I am afraid I will lose touch and fall behind this domain that's poised to explode. On the flip side, there's the uncertainty in the job market for engineers at my level and all the pros that come with working at Apple. If you were in my shoes, how would you navigate this situation? Happy to provide any clarifications needed.
 
-8h ago
-
----
-
-**[Hyundai Mobis In-Wheel Motor System used in an Unmanned Firefighting Robot](https://www.reddit.com/r/robotics/comments/1rlmwhj/hyundai_mobis_inwheel_motor_system_used_in_an/)**
-
-At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor system that integrates drive, braking, and steering within each wheel unit.
-
-14h ago
+9h ago
 
 ---
 
@@ -66,7 +58,15 @@ At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor 
 
 Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot project. My design has 18 coils and 20 magnets in the stator and the rotor. I used 0.5mm copper wire for the coils and 10x5x2mm magnets for the rotor. For the ESC I'm using the 40A brushless motor esc with a 3S lipo battery. The stator's inner diameter is roughly 80 mm and outer diameter is around 100mm. However after assembling the motor and plugging it into the ESC the coils had extremely low pull force (it can barely move a single magnet) . What could be the issue here? I've tried rewiring the coils but it didn't change anything. All of the coils are wired clockwise with the ends of each phase soldered together. Also do you have any tips on how to make a motor that has more torque? What I'm aiming for is 12 Nm
 
-8h ago
+9h ago
+
+---
+
+**[Hyundai Mobis In-Wheel Motor System used in an Unmanned Firefighting Robot](https://www.reddit.com/r/robotics/comments/1rlmwhj/hyundai_mobis_inwheel_motor_system_used_in_an/)**
+
+At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor system that integrates drive, braking, and steering within each wheel unit.
+
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 5h ago
 
 ---
 
@@ -82,7 +82,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
 
-21h ago
+22h ago
+
+---
+
+**[Im 18 and getting paralyzed. My foot is not functioning. Any suggestions on the models?](https://www.reddit.com/r/robotics/comments/1rm8ly1/im_18_and_getting_paralyzed_my_foot_is_not/)**
+
+This is a ai generated photo. And this is basically what has been happening almost all the time to me now. 1️⃣Problem: my muscles get twisted so my feet curves in ways and up. My ankle twists in ways as well which makes it very hard to walk. 2️⃣what I'm asking for help: I couldn't come up to any models for this situation yet. If you have any suggestions or can give a rough sketch I will try to make it and test it.
+
+3m ago
 
 ---
 
@@ -90,21 +98,13 @@ Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi
 
 Hi everyone, I'm working on a small robot project using an Arduino Uno and I'm currently thinking about the best way to structure the code as the project grows. Right now the robot has several modules: a sonar sensor mounted on a servo for scanning, a LED matrix for expressions, and another servo that controls a small shutter on the head. The project is starting to grow and I'm trying to design the architecture in a way that stays maintainable. My current idea is roughly this: Hardware modules implemented as classes (Sonar, ServoManager, Matrix, etc.) Behavior logic implemented as functions that run in the main loop A simple state machine (sleep, idle, active) A behavior manager that runs small "micro-behaviors" depending on the current state Each behavior function gets called every loop, but internally decides whether to do something based on timers (millis()) or hardware availability (for example checking if a servo is already moving). Something like: updateStates() updateBehavior() servos.update() matrix.update() Inside the behavior manager I would have things like: idleLookAround() idleBlinkMatrix() idleSonarSweep() Each one is independent and just returns quickly if it’s not time to act yet. So the architecture ends up being somewhat hybrid: OOP for hardware abstraction procedural / functional style for behaviors and state logic. My questions are: Is this a reasonable architecture for a small Arduino robot? Would you structure behaviors differently (for example using classes for behaviors as well)? Are there patterns commonly used in robotics projects on microcontrollers that I should look into? I'm trying to keep the loop non-blocking and avoid delays so everything can run smoothly. Any advice or examples from your own robot projects would be really appreciated. https://reddit.com/link/1rm69io/video/kgwdn0ux8dng1/player
 
-1h ago
+2h ago
 
 ---
 
 **[We're turning Asimov, an open-source humanoid robot, into a DIY kit](https://www.reddit.com/r/robotics/comments/1rkmjx0/were_turning_asimov_an_opensource_humanoid_robot/)**
 
 Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humanoid robot process here. We open-sourced the legs and will open-source the full body soon. Your questions and comments along the way really helped us a lot. Appreciate it! A few days ago more than 50 people on X told us they'd be interested in a DIY humanoid robot kit. So we did it. We put together all parts from mechanical to electrical to build the Asimov robot. It's 1.20m, 35kg, 25+2 degrees of freedom (+2 comes from the articulated toe!). Asimov is a really powerful robot with almost the same specs as the Unitree G1. Some parts like the arms are actually stronger. We call the kit "Here Be Dragons", a name used for highly experimental, beta-before-beta releases. The kind where you're one of the first users, talking directly to the engineers, reporting bugs, and getting a fix the same day. We're now preparing a user manual and assembly videos too. The target price is $15,000, which is higher than our current BOM cost. We're taking pre-orders with a $499 deposit to find serious builders and learn what they need. We got 14 orders in a few hours and are planning to close pre-orders soon to handle it properly. So our build-in-public journey is turning into a business earlier than expected, and we're not looking for profit from the DIY Kit. Wanted to share with you all. If you're hacking something, please do share with the community. Details for the pre-order: https://asimov.inc/diy-kit
-
-1d ago
-
----
-
-**[I built an open-source Blender extension that exports robots directly to ROS 2 with a built-in linter — LinkForge v1.3.0](https://www.reddit.com/r/robotics/comments/1rl92s7/i_built_an_opensource_blender_extension_that/)**
-
-Hey everyone! I've been working on LinkForge, an open-source tool that turns Blender into a robotics IDE. Instead of hand-writing URDF/XACRO files, you define links, joints, sensors, and ros2_control interfaces visually in Blender 4.2+. A built-in linter catches physics issues like negative inertias or disconnected chains before export. v1.3.0 just released, with: • NumPy-accelerated inertia calculations • Improved ros2_control support • Better export validation GitHub/Download: arounamounchili/linkforge Documentation: Read the Docs Get it on Blender Extensions: linkforge-blender Happy to answer questions or get feedback!
 
 1d ago
 
@@ -126,15 +126,7 @@ BMW Group • 6d ago
 
 Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
-Fox Business • 13h ago
-
----
-
-**[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
-
-The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
-
-GeekWire • 1d ago
+Fox Business • 14h ago
 
 ---
 
@@ -146,9 +138,17 @@ Business Insider • 1d ago
 
 ---
 
+**[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
+
+The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
+
+GeekWire • 1d ago
+
+---
+
 **[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -156,19 +156,19 @@ Bloomberg • 1d ago
 
 Soft robots inspired by living organisms hold the promise of gentle, adaptable interactions with the natural world, but leave behind persistent waste. Now scientists show a fully compostable robotic system that addresses this limitation by offering durable performance and decomposing safely into the soil at the end of its life.
 
-Nature • 20h ago
+Nature • 21h ago
 
 ---
 
 **[Humanoid robots master parkour and acquire human-like agility](https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html)**
 
-Tech Xplore • 18h ago
+Tech Xplore • 19h ago
 
 ---
 
 **[Rise of robots? Texas Instruments joins forces with Nvidia to help developers build androids](https://seekingalpha.com/news/4561341-rise-of-robots-texas-instruments-joins-forces-with-nvidia-to-help-developers-build-androids)**
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -206,7 +206,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 6K • 👍 176 • 💬 21 • ⏱️ 29:41 • 7h ago
+👁️ 6K • 👍 176 • 💬 21 • ⏱️ 29:41 • 8h ago
 
 ---
 
@@ -226,7 +226,7 @@ War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #
 
 📺 Adrian Chong
 
-👁️ 5K • 👍 321 • 💬 56 • ⏱️ 15:24 • 17h ago
+👁️ 5K • 👍 321 • 💬 56 • ⏱️ 15:24 • 18h ago
 
 ---
 
@@ -244,7 +244,7 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Robot Julie 
 
-👁️ 712 • 👍 5 • ⏱️ 0:26 • 6h ago
+👁️ 712 • 👍 5 • ⏱️ 0:26 • 7h ago
 
 ---
 
