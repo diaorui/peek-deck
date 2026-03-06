@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T16:42:56.108621+00:00'
+updated: '2026-03-06T17:35:54.803607+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 16:42 UTC  
+**Last Updated:** March 06, 2026 at 17:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-7h ago
+8h ago
 
 ---
 
 **[Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict](https://www.reddit.com/r/artificial/comments/1rls9fs/pentagon_formally_labels_anthropic_supplychain/)**
 
-🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 20h ago
+🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 21h ago
 
 ---
 
@@ -55,13 +55,13 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex. "Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging," says Benjamin Nephew, assistant research professor in the Department of Biology and Biotechnology. "We found that machine-learning technologies, however, can analyze large amounts of data from scans to identify subtle changes and accurately predict Alzheimer's disease and related cognitive states. This advance has informed Alzheimer's disease research and may lead to methods that could allow doctors to diagnose and treat the disease earlier and more effectively." Alzheimer's disease is a neurodegenerative disorder that impairs mental functions and ultimately leads to death. An estimated 6.9 million Americans age 65 and older are living with Alzheimer's disease. Healthy brains contain billions of neurons, the cells that process and transmit signals needed for thought, movement, and other bodily functions. Alzheimer's disease injures neurons, leading to cell death and loss of brain tissue and associated cognitive functions. Analyzing data-rich MRI images can require substantial computing power and time. To focus their investigation, the WPI researchers first used machine learning to analyze 815 MRI scans for volume measurements in 95 brain regions. Then they deployed an algorithm to make predictions based upon differences in the measurements between healthy individuals and those with mild cognitive impairment or Alzheimer's disease. Results showed that the method was 92.87% accurate in detecting Alzheimer's disease among normal brains and brains of people with mild cognitive impairment.
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 15h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 16h ago
 
 ---
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-16m ago
+1h ago
 
 ---
 
@@ -77,7 +77,7 @@ Due to pressure from the European Commission, Meta is allowing AI companies to i
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 15m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 1h ago
 
 ---
 
@@ -93,13 +93,13 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 16h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 17h ago
 
 ---
 
 **[Frameworks Are Dead. Architects Are Not.](https://www.reddit.com/r/artificial/comments/1rm2ue6/frameworks_are_dead_architects_are_not/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 13h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 14h ago
 
 ---
 
@@ -119,7 +119,7 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 20h ago
+Anthropic • 21h ago
 
 ---
 
@@ -127,7 +127,7 @@ Anthropic • 20h ago
 
 The Pentagon said in a statement Thursday that it has "officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately."
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
@@ -135,13 +135,13 @@ NPR • 10h ago
 
 AI models are shaping US battlefield decisions. Can tech companies be trusted with life-and-death power?
 
-Al Jazeera • 56m ago
+Al Jazeera • 1h ago
 
 ---
 
 **[Opinion | Why the Pentagon Wants to Destroy Anthropic](https://www.nytimes.com/2026/03/06/opinion/ezra-klein-podcast-dean-ball.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -149,7 +149,7 @@ The New York Times • 6h ago
 
 A Meta machine learning engineer shares the startup and Big Tech experience he highlighted on his résumé to land the job.
 
-Business Insider • 44m ago
+Business Insider • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Business Insider • 44m ago
 
 Strong public-private partnerships and holistic urban planning are essential to creating resilient, scalable, and AI-ready ecosystems.
 
-Data Center Knowledge • 35m ago
+Data Center Knowledge • 1h ago
 
 ---
 
@@ -165,13 +165,13 @@ Data Center Knowledge • 35m ago
 
 Oracle's layoffs drive home that the workers losing jobs aren't losing them because AI can do their work. They're losing them to money spent on chips, data centers, and more
 
-qz.com • 14m ago
+qz.com • 1h ago
 
 ---
 
 **[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -179,13 +179,13 @@ The New York Times • 6h ago
 
 Samsung's AI smart glasses will be launched in 2026 and will mark the company's first foray into the product category.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Cursor Goes To War For AI Coding Dominance](https://www.forbes.com/sites/annatong/2026/03/05/cursor-goes-to-war-for-ai-coding-dominance/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -205,13 +205,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 280 • 💬 432 • 17h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 280 • 💬 432 • 18h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 258 • 💬 90 • 18h ago • [406.fail](https://406.fail/)
+⬆️ 258 • 💬 90 • 19h ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -281,7 +281,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 27K • 👍 960 • 💬 87 • ⏱️ 10:56 • 17h ago
+👁️ 27K • 👍 960 • 💬 87 • ⏱️ 10:56 • 18h ago
 
 ---
 
@@ -311,7 +311,7 @@ Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator M
 
 📺 Creator Magic
 
-👁️ 3K • 👍 236 • 💬 17 • ⏱️ 8:17 • 3h ago
+👁️ 3K • 👍 236 • 💬 17 • ⏱️ 8:17 • 4h ago
 
 ---
 
@@ -321,7 +321,7 @@ In this complete tutorial, I'll show you exactly How to Make Movie Scenes with A
 
 📺 Mariana Montoya 
 
-👁️ 1K • 💬 7 • ⏱️ 11:09 • 1h ago
+👁️ 1K • 💬 7 • ⏱️ 11:09 • 2h ago
 
 ---
 
@@ -331,7 +331,7 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 151K • 👍 7K • 💬 1K • ⏱️ 21:38 • 21h ago
+👁️ 151K • 👍 7K • 💬 1K • ⏱️ 21:38 • 22h ago
 
 ---
 
@@ -371,7 +371,7 @@ Best AI App Builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?traf
 
 📺 Mikey No Code
 
-👁️ 5K • 💬 7 • ⏱️ 36:24 • 2h ago
+👁️ 5K • 💬 7 • ⏱️ 36:24 • 3h ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 919,117 • ❤️ 545 • 23h ago
+⬇️ 919,117 • ❤️ 545 • 1d ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.9k • 🔱 3.0k • 6h ago
+⭐ 23.9k • 🔱 3.0k • 7h ago
 
 ---
 
@@ -653,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 13.6k • 🔱 462 • 12h ago
+⭐ 13.6k • 🔱 462 • 13h ago
 
 ---
 
@@ -663,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.0k • 🔱 978 • 1h ago
+⭐ 9.0k • 🔱 978 • 2h ago
 
 ---
 
@@ -693,7 +693,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.7k • 🔱 670 • 15h ago
+⭐ 5.7k • 🔱 670 • 16h ago
 
 ---
 
@@ -713,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 383 • 5h ago
+⭐ 3.5k • 🔱 383 • 6h ago
 
 ---
 
@@ -723,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 239 • 7h ago
+⭐ 3.3k • 🔱 239 • 8h ago
 
 ---
 

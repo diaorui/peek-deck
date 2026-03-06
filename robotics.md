@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-06T16:42:56.126337+00:00'
+updated: '2026-03-06T17:35:54.821938+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 06, 2026 at 16:42 UTC  
+**Last Updated:** March 06, 2026 at 17:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,7 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 Update on my 6-DOF desktop arm project: I’ve officially moved into the mechanical prototyping phase, starting with the most complex hurdle—the Wrist. The goal was to pack 3 degrees of freedom into a compact volume while keeping everything 3D printable. I modeled an Omni-Wrist mechanism in OnShape with “perfect” dimensions, using a series of butt-hinge linkages with 3D-printed pins. On-screen, the digital assembly worked flawlessly, but reality hit hard. The Fail: My first print had zero play. While "zero-clearance" sounds great in CAD, filament expansion turned the whole assembly into a static paperweight. The tolerances were too tight, the hinges seized, and the pins were impossible to seat without snapping the linkages. The Pivot: I went back to the "Model-Print-Iterate" cycle. I increased the clearances to 0.2mm and redesigned the pivot points as snap-fit pins. This allows the linkages to stay secure under pressure while maintaining enough "fluidity" for manual movement. The Query: For those who build small-scale linkages: Pin Durability: Do 3D-printed pins actually hold up under the repetitive stress of a 6-DOF arm, or is it a fool's errand? Should I move to metal dowel pins now before I build the rest of the arm? Hinge Alternatives: Given the friction issues with 3D-printed butt hinges, is there a more efficient hinge style or linkage structure you'd recommend for a 3-DOF wrist that is easier to assemble and maintain?
 
-7h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ Update on my 6-DOF desktop arm project: I’ve officially moved into the mechani
 
 From an engineering perspective, wouldn’t other designs—like cantilever-type or hemispherical robots—be more practical and efficient for most real-world applications? Human-shaped robots seem mechanically complex, expensive, and often less stable compared to simpler structures. So is the humanoid form mainly for environments designed for humans, or is it more about research, marketing, and public perception?
 
-6h ago
+7h ago
 
 ---
 
@@ -66,7 +66,7 @@ From an engineering perspective, wouldn’t other designs—like cantilever-type
 
 As someone who follows the robotics industry closely, tracking company-level signals manually was impossible. I started building this as a personal tool and eventually put it online. How the engine works: A Python scraper hits multiple major robotics/AV newswires every 30 minutes via a systemd timer. Each headline is deduplicated and run through an NLP classification layer that categorises signals into four types: Deployments, Financials, Layoffs, and Leadership changes. roboradar24
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ I have been a robotics engineer all my life, worked 3 years full-time and am abo
 
 **[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
 
-3m ago
+56m ago
 
 ---
 
@@ -96,7 +96,7 @@ I have been a robotics engineer all my life, worked 3 years full-time and am abo
 
 Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot project. My design has 18 coils and 20 magnets in the stator and the rotor. I used 0.5mm copper wire for the coils and 10x5x2mm magnets for the rotor. For the ESC I'm using the 40A brushless motor esc with a 3S lipo battery. The stator's inner diameter is roughly 80 mm and outer diameter is around 100mm. However after assembling the motor and plugging it into the ESC the coils had extremely low pull force (it can barely move a single magnet) . What could be the issue here? I've tried rewiring the coils but it didn't change anything. All of the coils are wired clockwise with the ends of each phase soldered together. Also do you have any tips on how to make a motor that has more torque? What I'm aiming for is 12 Nm
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot
 
 At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor system that integrates drive, braking, and steering within each wheel unit.
 
-23h ago
+1d ago
 
 ---
 
@@ -116,7 +116,7 @@ At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor 
 
 Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
-Fox Business • 22h ago
+Fox Business • 23h ago
 
 ---
 
@@ -130,7 +130,7 @@ Reuters • 1d ago
 
 Amazon recently abandoned an innovative robotic line that it had deployed last year in an effort to streamline some of its warehouse operations.
 
-bgr.com • 18h ago
+bgr.com • 19h ago
 
 ---
 
@@ -150,7 +150,7 @@ New Haven Register • 1d ago
 
 When all is said and done, practicality trumps technological "wow!"
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -180,7 +180,7 @@ CNBC • 2d ago
 
 Two robotics teams from Bellefontaine Middle School delivered strong performances at the Ohio State VEX Championship, with one team securing a coveted spot at the […]
 
-Peak of Ohio • 7h ago
+Peak of Ohio • 8h ago
 
 ---
 
@@ -204,7 +204,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 13K • 👍 311 • 💬 27 • ⏱️ 29:41 • 16h ago
+👁️ 13K • 👍 311 • 💬 27 • ⏱️ 29:41 • 17h ago
 
 ---
 
@@ -262,7 +262,7 @@ Japan's Most Famous Android Builder Just Found His Robot Legs in China The Japan
 
 📺 Kalil 4.0
 
-👁️ 828 • 👍 22 • 💬 1 • ⏱️ 1:08 • 20h ago
+👁️ 828 • 👍 22 • 💬 1 • ⏱️ 1:08 • 21h ago
 
 ---
 
