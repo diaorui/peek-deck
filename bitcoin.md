@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T17:35:54.812428+00:00'
+updated: '2026-03-06T18:49:56.002074+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 17:35 UTC  
+**Last Updated:** March 06, 2026 at 18:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,342.97
+### $68,322.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** +2.6%  
-**30d:** +9.4%  
-**90d:** -24.1%  
-**1y:** -20.9%  
+**24h:** -3.6%  
+**7d:** +2.2%  
+**30d:** +9.0%  
+**90d:** -24.4%  
+**1y:** -21.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1371.33B
+**Market Cap:** $1368.58B
 Rank #1
 
-**Circulating Supply:** 19,998,721 BTC
+**Circulating Supply:** 19,998,750 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.6%
+-45.7%
 
 **All-Time Low:** $67.81
-+101128.4%
++100771.6%
 
 ---
 
@@ -79,6 +79,12 @@ Rank #1
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
+2h ago
+
+---
+
+**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
+
 1h ago
 
 ---
@@ -87,15 +93,7 @@ Rank #1
 
 According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
 
-3h ago
-
----
-
-**[Indiana signs bill allowing retirement funds to invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rm5xmn/indiana_signs_bill_allowing_retirement_funds_to/)**
-
-Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
-
-11h ago
+4h ago
 
 ---
 
@@ -103,7 +101,15 @@ Indiana Governor Mike Braun recently signed a bill that allows certain retiremen
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-7h ago
+8h ago
+
+---
+
+**[Indiana signs bill allowing retirement funds to invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rm5xmn/indiana_signs_bill_allowing_retirement_funds_to/)**
+
+Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
+
+12h ago
 
 ---
 
@@ -111,7 +117,7 @@ A trader I know got completely burnt because of a 2% dip. If you are one of them
 
 I believe the video was created by u/scott_ci and it still explains how Bitcoin works, pretty well (except the address/public key mistake).
 
-🔗 [youtu.be](https://youtu.be/Lx9zgZCMqXE) • 3h ago
+🔗 [youtu.be](https://youtu.be/Lx9zgZCMqXE) • 4h ago
 
 ---
 
@@ -119,31 +125,15 @@ I believe the video was created by u/scott_ci and it still explains how Bitcoin 
 
 Hi - I'm new to Bitcoin and planning to buy every week for $100 to $150. How often do you move your Bitcoin to storage? To be safe, I'm planning to buy a code storage. Pls recommend one. Appreciate your help.
 
-7h ago
-
----
-
-**[Bitcoin in Wartime: A Tale of Two Shocks](https://www.reddit.com/r/Bitcoin/comments/1rm8c7e/bitcoin_in_wartime_a_tale_of_two_shocks/)**
-
-With the recent US strike on Iran, investors are again asking a familiar question: how does Bitcoin (BTC) behave when geopolitics turns kinetic? Crypto markets trade 24/7, digest headlines instantly, and often serve as a real-time barometer of global risk appetite. : Get all the latest crypto news at Sandmark
-
-🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-wartime-tale-two-shocks) • 9h ago
-
----
-
-**[What’s your DCA timeframe?](https://www.reddit.com/r/Bitcoin/comments/1rm9ehj/whats_your_dca_timeframe/)**
-
-Hey guys What is your bitcoin dca scheduled for currently? Daily, weekly, monthly? I would like to hear what you do, the reasoning behind it and what you believe yields the best results for more bang for your buck!
-
 8h ago
 
 ---
 
-**[Daily Discussion, March 06, 2026](https://www.reddit.com/r/Bitcoin/comments/1rm63xa/daily_discussion_march_06_2026/)**
+**[Bitcoin Mining Costs: $34K to $70K Depending on the Miner](https://www.reddit.com/r/Bitcoin/comments/1rmkefe/bitcoin_mining_costs_34k_to_70k_depending_on_the/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+According to MARA’s latest reports, the cost to mine one Bitcoin is around $70,027. Other public miners like Riot Platforms, CleanSpark, Bitfarms, and Hut 8 also report mining costs.For example, CleanSpark mines BTC for around $34K, while the industry average is estimated around $67K per BTC. Costs vary depending on electricity prices, ASIC hardware efficiency, location, and Bitcoin network difficulty. Do you think mining costs will keep rising as difficulty increases?
 
-11h ago
+1h ago
 
 ---
 
@@ -151,7 +141,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin Optech newsletter #395 is here: - describes a standard for verifying VTXOs across different Ark implementations - links to a draft BIP for expanding the miner-usable nonce space in the block header’s nVersion field - points to extensions to standard tooling for TEMPLATEHASH-CSFS-IK support - summarizes updates to the Hourglass V2 proposal - examines perspectives on cryptographic algorithm agility for Bitcoin - Optech Newsletter #395 Podcast Jgmcalpine posted to Delving Bitcoin about his proposal for V-PACK, a stateless VTXO verification standard, which aims to provide a mechanism to independently verify and visualize VTXOs in the Ark ecosystem... https://bitcoinops.org/en/newsletters/2026/03/06/#a-standard-for-stateless-vtxo-verification Matt Corallo posted to the Bitcoin-Dev mailing list a draft BIP to increase the number of bits available in nVersion’s nonce space for miners from 16 to 24... https://bitcoinops.org/en/newsletters/2026/03/06/#draft-bip-for-expanded-nversion-nonce-space-for-miners Antoine Poinsot wrote on the Bitcoin-Dev mailing list about his preliminary work to integrate the taproot-native OP_TEMPLATEHASH soft fork proposal into miniscript and PSBTs... https://bitcoinops.org/en/newsletters/2026/03/06/#extensions-to-standard-tooling-for-templatehash-csfs-ik-support Mike Casey posted an update to the Bitcoin-Dev mailing list for the Hourglass protocol to mitigate the market impact of quantum attacks against certain lost coins... https://bitcoinops.org/en/newsletters/2026/03/06/#hourglass-v2-update Ethan Heilman wrote on the Bitcoin-Dev mailing list regarding the potential need for RFC7696 Cryptographic Algorithm Agility in Bitcoin... https://bitcoinops.org/en/newsletters/2026/03/06/#algorithm-agility-for-bitcoin Pieter Wuille wrote to the Bitcoin-Dev mailing list about the limitations of the cryptographic agility... https://bitcoinops.org/en/newsletters/2026/03/06/#the-limitations-of-cryptographic-agility-in-bitcoin Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 17:30 UTC.
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/06/) • 3h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/06/) • 4h ago
+
+---
+
+**[Anyway to safely make money without selling](https://www.reddit.com/r/Bitcoin/comments/1rmj7ul/anyway_to_safely_make_money_without_selling/)**
+
+I'm guessing the answer here is no, but thought I'd ask anyways. Is there anyway to safely make money or borrow against your Bitcoin without actually selling it or handing it over to someone else? I'm thinking you will always have to place it in somebody else's custody which is a terrible idea.
+
+2h ago
 
 ---
 
@@ -159,17 +157,43 @@ Bitcoin Optech newsletter #395 is here: - describes a standard for verifying VTX
 
 ## Google News: "bitcoin"
 
-**[Bitcoin not an 'allowable asset': Vancouver city staff asks council to drop BTC reserve motion](https://www.theblock.co/post/392521/vancouver-drop-btc-reserve)**
+**['No deal with Iran': Trump demands unconditional surrender, sending oil surging, bitcoin and stocks lower](https://www.coindesk.com/markets/2026/03/06/no-deal-with-iran-trump-demands-unconditional-surrender-sending-oil-surging-bitcoin-and-stocks-lower)**
 
-Vancouver city staff concluded that bitcoin is not an allowable asset for municipal investment under local law.
+The outlook for the Fed grew cloudier on Friday, as the employment market weakened appreciably even as inflation could be worsening.
 
-The Block • 11h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin Holds Firm Above $70,000 as Global Assets Recover](https://www.bloomberg.com/news/articles/2026-03-05/bitcoin-btc-holds-firm-above-70-000-as-global-assets-recover)**
+**[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.nasdaq.com/articles/better-cryptocurrency-buy-and-hold-10-years-or-more-bitcoin-vs-cardano)**
 
-Bloomberg.com • 19h ago
+Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
+
+Nasdaq • 11h ago
+
+---
+
+**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
+
+The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
+
+Fortune • 57m ago
+
+---
+
+**[When will Bitcoin’s price rally? It’s complicated](https://finance.yahoo.com/news/bitcoin-price-rally-complicated-164152535.html)**
+
+Bitcoin's price has rallied somewhat after the Iran war started. But will the rally continue? The answer is complicated.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Why Vancouver Rejected the ‘Bitcoin-Friendly City’ Push — And the Real Bitcoin City You’ve Never Heard Of](https://finance.yahoo.com/news/why-vancouver-rejected-bitcoin-friendly-154715697.html)**
+
+Vancouver’s Bitcoin initiative has stalled due to legal barriers. The plan faced both regulatory and practical concerns. Ljubljana is emerging as a global crypto-friendly city. ...
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -177,7 +201,7 @@ Bloomberg.com • 19h ago
 
 A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
-WIS News 10 • 13h ago
+WIS News 10 • 14h ago
 
 ---
 
@@ -185,7 +209,13 @@ WIS News 10 • 13h ago
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 14h ago
+NDTV • 15h ago
+
+---
+
+**[Bitcoin Holds Firm Above $70,000 as Global Assets Recover](https://www.bloomberg.com/news/articles/2026-03-05/bitcoin-btc-holds-firm-above-70-000-as-global-assets-recover)**
+
+Bloomberg.com • 21h ago
 
 ---
 
@@ -193,47 +223,15 @@ NDTV • 14h ago
 
 The increase follows a mining fleet expansion as the firm focuses on accumulating bitcoin through large-scale self-mining.
 
-The Block • 1d ago
+theblock.co • 1d ago
 
 ---
 
-**[Solo Satoshi Launches Bitaxe Turbo Touch, An Open-Source Touchscreen Bitcoin Miner](https://bitcoinmagazine.com/news/solo-satoshi-launches-bitaxe-bitcoin-miner)**
+**[Bitcoin and crypto stocks surge amid relief rally for risky assets](https://www.ft.com/content/25683df2-43dd-4c81-8258-73b9fa0bebff)**
 
-Houston-based Solo Satoshi announced the launch of the Bitaxe Turbo Touch, a compact device designed for hobbyists and home miners.
+Trump’s insistence that ‘we are not going to allow’ banks to undermine crypto legislation also boosts sector
 
-Bitcoin Magazine • 20h ago
-
----
-
-**[Veteran analyst cuts price target on top Bitcoin miner by 44%](https://www.thestreet.com/crypto/markets/veteran-analyst-cuts-price-target-on-top-bitcoin-miner-by-44)**
-
-Brian Dobson lowers price target on a leading Bitcoin mining stock.
-
-thestreet.com • 22h ago
-
----
-
-**[Bitcoin crosses $73,000 as investors look past Iran tensions: CNBC Crypto World](https://www.cnbc.com/video/2026/03/04/bitcoin-crosses-73000-investors-look-past-iran-tensions-crypto-world.html)**
-
-On this week's episode of CNBC Crypto World, major digital currencies rebound even as a joint military operation in Iran raises volatility for traditional markets. Plus, Coinbase shares rise as President Trump backs stablecoin issuers' efforts to rewrite crypto market structure legislation. And, Cosmo Jiang of Pantera Capital breaks down what other factors could drive crypto prices in the short term.
-
-CNBC • 1d ago
-
----
-
-**[Bitcoin Surges to $74,000 After President Trump Throws Support Behind Key Crypto Bill](https://www.investopedia.com/bitcoin-surges-after-president-trump-throws-support-behind-key-crypto-bill-11919161)**
-
-The world's largest cryptocurrency has gained about 8% over the last 24 hours, hitting its highest level in a month.
-
-Investopedia • 1d ago
-
----
-
-**[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
-
-Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
-
-Business Insider • 1d ago
+Financial Times • 2d ago
 
 ---
 
@@ -319,13 +317,23 @@ A portable encrypted USB vault with a dead man's switch. Your passwords, financi
 
 ## YouTube Videos: "bitcoin"
 
+**[BITCOIN EMERGENCY ‼️ ](https://www.youtube.com/watch?v=bfyNYn_z3qE)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/coinflare-iphoneair Win ...
+
+📺 The Moon Show
+
+👁️ 7K • 👍 553 • 💬 27 • ⏱️ 3:44 • 4h ago
+
+---
+
 **[&quot;Bitcoin is Going to 20x, But 99% are Clueless&quot; - Matt Hougan [NEW Bitcoin &amp; Crypto Prediction 2026]](https://www.youtube.com/watch?v=hREk_BflFms)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 506 • 💬 64 • ⏱️ 19:58 • 1d ago
+👁️ 18K • 👍 524 • 💬 67 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -335,17 +343,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 268 • ⏱️ 17:07 • 18h ago
-
----
-
-**[BITCOIN EMERGENCY ‼️ ](https://www.youtube.com/watch?v=bfyNYn_z3qE)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/coinflare-iphoneair Win ...
-
-📺 The Moon Show
-
-👁️ 4K • 👍 395 • 💬 19 • ⏱️ 3:44 • 2h ago
+👁️ 18K • 👍 2K • 💬 242 • ⏱️ 17:07 • 19h ago
 
 ---
 
@@ -355,7 +353,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 7K • 👍 455 • 💬 28 • ⏱️ 14:35 • 6h ago
+👁️ 8K • 👍 474 • 💬 31 • ⏱️ 14:35 • 8h ago
 
 ---
 
@@ -365,7 +363,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 243 • ⏱️ 8:38 • 17h ago
+👁️ 41K • 👍 2K • 💬 211 • ⏱️ 8:38 • 18h ago
 
 ---
 
@@ -375,17 +373,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 418 • 💬 64 • ⏱️ 12:55 • 7h ago
-
----
-
-**[How Bitcoin Could Get To $10 MILLION Per Coin](https://www.youtube.com/watch?v=0mHU6N2G6_o)**
-
-Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discuss whether bitcoin acts as a risk-on tech asset or ...
-
-📺 Anthony Pompliano
-
-👁️ 27K • 👍 992 • 💬 98 • ⏱️ 40:52 • 19h ago
+👁️ 6K • 👍 440 • 💬 88 • ⏱️ 12:55 • 8h ago
 
 ---
 
@@ -395,7 +383,7 @@ A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce
 
 📺 No Bs Crypto
 
-👁️ 11K • 👍 845 • 💬 279 • ⏱️ 12:20 • 23h ago
+👁️ 11K • 👍 874 • 💬 212 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -405,17 +393,27 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 62K • 👍 2K • 💬 248 • ⏱️ 17:02 • 19h ago
+👁️ 65K • 👍 2K • 💬 259 • ⏱️ 17:02 • 20h ago
 
 ---
 
-**[Bitcoin Dumping FAST… What Donald Trump Just Said](https://www.youtube.com/watch?v=ZGZ41p7L3jc)**
+**[Reasons - Why Bitcoin and Crypto Market going up ? Will Bitcoin recover or crash in future ?](https://www.youtube.com/watch?v=XLW17I-S6oo)**
 
-Is the crypto market reacting to a new era of global conflict? In today's video, we are breaking down why Bitcoin is seeing a ...
+In this video, we will share and understand the reasons why bitcoin and crypto market going up and what to do ? Follow us on ...
 
-📺 Discover Crypto
+📺 Bitcoin Expert India
 
-👁️ 3K • 👍 229 • 2h ago
+👁️ 10K • 👍 513 • ⏱️ 3:00 • 1d ago
+
+---
+
+**[Bitcoin’s Make Or Break Moment? What You Must Know](https://www.youtube.com/watch?v=9nV7u3sNhAk)**
+
+Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Channel (Free Telegram) – Daily crypto ...
+
+📺 The Wolf Of All Streets
+
+👁️ 9K • 👍 474 • 💬 184 • ⏱️ 31:02 • 21h ago
 
 ---
 

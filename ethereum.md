@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-06T17:35:54.818616+00:00'
+updated: '2026-03-06T18:49:56.007302+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 17:35 UTC  
+**Last Updated:** March 06, 2026 at 18:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,966.77
+### $1,977.36
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** +0.5%  
-**30d:** +8.2%  
-**90d:** -35.5%  
-**1y:** -7.7%  
+**24h:** -4.5%  
+**7d:** +0.8%  
+**30d:** +8.5%  
+**90d:** -35.3%  
+**1y:** -7.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.65B
+**Market Cap:** $239.08B
 Rank #2
 
 **Circulating Supply:** 120,692,086 ETH
@@ -62,25 +62,25 @@ No max supply
 -60.0%
 
 **All-Time Low:** $0.43
-+456506.4%
++457143.9%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion March 06, 2026](https://www.reddit.com/r/ethereum/comments/1rm5yqw/daily_general_discussion_march_06_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-11h ago
-
----
-
 **[We verified Vitalik's 2015 token contract and discovered it wasn't compiled with Solidity - it's Serpent](https://www.reddit.com/r/ethereum/comments/1rmheom/we_verified_vitaliks_2015_token_contract_and/)**
 
 I've been working on verifying source code for the oldest contracts on Ethereum, and this one took days to crack. The contract: 0xa2e3680acaf5d2298697bdc016cf75a929385463 Deployed by Vitalik on November 12, 2015 (block 530,996). It's a token contract implementing the standardized currency API from the early ethereum/dapp-bin repo. 1,000,000 initial supply, approve/transfer mechanics - basically a proto-ERC-20. The problem: We tried compiling currency.sol with every Solidity compiler version from that era. Every archived soljson release from v0.1.1 through v0.3.6, nightlies from Sep-Dec 2015, native C++ solc builds from the webthree-umbrella repo, optimizer on and off. Nothing matched. The breakthrough: Three clues pointed us away from Solidity entirely: The on-chain constructor starts with 6000603f53 (MSTORE8-based memory init). Every Solidity version produces 60606040525b (the free memory pointer pattern). This is a fundamentally different code generation approach. The runtime code uses MSIZE, SWAP1, MSIZE, ADD for memory allocation. This is the Serpent compiler's alloc() pattern - not found in any version of solc. Two function selectors didn't match the Solidity source: disapprove() instead of unapprove(), and isApprovedOnceFor() instead of isApprovedOnce(). The answer: The contract was compiled from currency.se (the Serpent version), not currency.sol. The ethereum/dapp-bin repo had both implementations side by side. Vitalik deployed his own language's version. Compiled with the Serpent compiler at commit f0b4128 (Oct 15, 2015) - byte-for-byte identical, all 1,661 bytes. Full methodology, source, and proof: github.com/cartoonitunes/vitalik-currency-verification We've submitted a manual verification request to Etherscan since they don't support Serpent as a verification language. Hopefully they can add it as a verified contract with source. This is part of a broader effort to verify and preserve the earliest contracts on Ethereum. A lot of historically important contracts from 2015-2016 are still unverified because the compiler versions are too old for Etherscan's automated tools.
 
-1h ago
+3h ago
+
+---
+
+**[Daily General Discussion March 06, 2026](https://www.reddit.com/r/ethereum/comments/1rm5yqw/daily_general_discussion_march_06_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've been working on verifying source code for the oldest contracts on Ethereum,
 
 Zero-knowledge cryptography went through three phases. First: hand-crafted arithmetic circuits, only accessible to deep researchers. Second: ZK virtual machines — suddenly any developer could write verifiable code in Rust or C. Third: prover networks (Succinct, Boundless/RiscZero) that let you delegate the heavy proof generation to external infrastructure. Each phase made the technology more accessible. Each phase also moved the user's data further from their control. Prover networks require your full plaintext data to generate proofs. For rollups, this is a non-issue — public ledger, no privacy expectation, and what you gain (succinctness — compressing thousands of transactions into a single proof) is worth the trade. That's the use case these networks were built for, and they served it well. The problem emerges when you extend this model to user-facing applications. Verifiable identity: proving you hold a valid passport, proving you're over 18, without disclosing the underlying data. Private AI inference: running a model on your data without the model owner seeing your inputs or you seeing their weights. Decentralized exchanges with private order books. In all of these, delegating to a prover network means surrendering exactly the inputs you need to keep private. I sat down with a researcher at ChainSafe who's working on this specific problem. His approach: adding MPC (multi-party computation) to ZK VMs so proof generation can be delegated privately. Multiple parties each hold a secret share of the data, compute their portion, and combine results — no single party ever sees the full picture. He calls it "make ZK VMs ZK again." He also covered a near-term approach to the deepfake problem: attested sensors that cryptographically sign photo/video metadata at capture, combined with verifiable edit histories. You can't yet verify what IS AI-generated. But you can prove everything that is human — a reverse approach. Prove provenance instead of detecting fakes. The full conversation covers ZK, MPC, and FHE (the "holy trinity of programmable cryptography"), explained through photography analogies that are genuinely useful for building intuition. We filmed it across Taipei — street markets, a botanical garden, a tea ceremony. Full interview: https://youtu.be/PnEivfTpnA8 ————— If we're meeting for the first time, hi 👋! I started building my channel to spread the good word on good work in crypto — something with substance and humanity. A like, sub, and comment goes a long way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/PnEivfTpnA8) • 2h ago
+🔗 [youtu.be](https://youtu.be/PnEivfTpnA8) • 3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Zero-knowledge cryptography went through three phases. First: hand-crafted arith
 
 Hegotá is the official name of a major Ethereum network upgrade planned for the second half of 2026, following the Glamsterdam upgrade expected earlier in the year, and marking Ethereum’s continued shift toward a biannual release cycle. The name blends Bogotá, the Devcon host city, with the star Heze. https://etherworld.co/all-you-need-to-know-about-ethereum-hegota-upgrade/
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hegotá is the official name of a major Ethereum network upgrade planned for the
 
 On March 29, 2016, Digix Global launched what became the first major DAO crowdsale on Ethereum. It raised $5.5 million in under 24 hours — at a time when Ethereum's total market cap was around $600 million. What it was: DigixDAO was a governance token (DGD) for a project aiming to tokenize physical gold bars on Ethereum. The crowdsale contract was deployed at block 1,239,208 and compiled with Solidity v0.3.0. Why it mattered: - It was the first DAO-style crowdsale to raise serious money on Ethereum - It proved that decentralized fundraising could work at scale, months before The DAO - The speed of the raise ($5.5M in <24h) shocked even the Ethereum community - It directly inspired the wave of ICOs that followed in 2017 Independent verification: Developer Piper Merriam independently verified the contract code before the sale, establishing one of the earliest examples of third-party smart contract auditing. The original community discussion happened right here on r/ethereum, with this thread documenting the reaction in real-time. Contract: 0xf0160428a8552ac9bb7e050d90eeade4ddd52843 Full writeup with sources: EthereumHistory.com This was just 7 months before The DAO — and in many ways, it was the proof of concept that made The DAO feel possible. We're documenting these pre-2017 contracts before the context disappears.
 
-3h ago
+4h ago
 
 ---
 
@@ -112,7 +112,7 @@ On March 29, 2016, Digix Global launched what became the first major DAO crowdsa
 
 ePBS first devnet live, Aave Labs temp check passed, Synthesis AI + human hackathon
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-14/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-14/) • 6h ago
 
 ---
 
@@ -144,7 +144,7 @@ I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402.
 
 Hi everyone, If you've been following the Account Abstraction roadmap, you know the community pivoted hard toward EIP-7702, a proposal driven by Vitalik to allow EOAs (standard wallets) to temporarily act like smart contracts. I write a lot about blockchain architecture, and I noticed that while the hype around "gasless transactions" is loud, the actual mechanics of how EIP-7702 achieves this safely aren't discussed enough. I published an architectural breakdown to clarify how this works under the hood. The core of the design is the SetCode transaction type. Instead of permanently migrating an EOA to a smart contract, EIP-7702 allows a transaction to temporarily attach smart contract code to an EOA for the exact duration of that single transaction. The deep dive covering: How this solves the security debates around previous proposals. The technical flow of batching operations What this means for the current ERC-4337 infrastructure. I'd love to hear from people that building in the space: How quickly do you expect it to be broadly used
 
-22h ago
+1d ago
 
 ---
 
@@ -160,41 +160,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Why Is a Research Group Shorting Ethereum? Vitalik’s Father Slams Firm That Denounced Tom Lee’s 'Misleading' Bullish Thesis](https://finance.yahoo.com/news/why-research-group-shorting-ethereum-145019595.html)**
+**[Vitalik Buterin calls for bolder experimentation in Ethereum's app layer while preserving core principles](https://www.theblock.co/post/392621/vitalik-buterin-calls-for-bolder-experimentation-in-ethereums-app-layer-while-preserving-core-principles)**
 
-Culper Research said it has taken a short position in Ethereum. Tom Lee’s bullish thesis challenged. Backlash from the Ethereum community. A research firm known ...
+Vitalik Buterin has urged Ethereum developers to experiment more boldly at the app layer while preserving the network’s core principles.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Current price of Ethereum for March 6, 2026](https://fortune.com/article/price-of-ethereum-03-06-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqeEAnqI_Isejpk2krkobkY8n3xGdYAPSwBH-qLigTU_V9FHfoQhcubU&gaa_ts=69ab077c&gaa_sig=vFi7sGzpFPlh9VXi7Hd561ytkqiLRzc7ocTdExFdeprEr7TvlXM8ZAO2E1Uz42a_FOccxpj2aqihg00INHlTdQ%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Ethereum Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
-
-Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
-
-CoinDesk • 1d ago
-
----
-
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
-
-Bit Digital • 1d ago
+theblock.co • 8h ago
 
 ---
 
@@ -206,25 +176,55 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Price Corrects Gains, Drifts Toward Key Support Zone](https://www.tradingview.com/news/newsbtc:9632ed3a6094b:0-ethereum-price-corrects-gains-drifts-toward-key-support-zone/)**
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqfuK45xBQqYvZCKLfisF7yzfkxn-qndkwVtUmS_gLJ7fm9k04krAhmH&gaa_ts=69ab253b&gaa_sig=xJtoPFJRC6v8PkHJGmyxvu4mnLtgQZUWszy9tWruZLucSmZ6AzqDDaki5a-5F6sY_1yomtm8Eq2OceAIF30R8Q%3D%3D)**
 
-Ethereum price started a fresh increase and tested $2,200. ETH is now correcting gains and might decline further if it trades below $2,030.Ethereum Price Starts Downside CorrectionEthereum price started a fresh increase above the $2,065 resistance, like Bitcoin. ETH price rallied above the $2,120 a…
+Barron's • 1d ago
 
-TradingView • 14h ago
+---
+
+**[Ethereum Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
+
+Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
+
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
+
+Bit Digital • 1d ago
+
+---
+
+**[31.6 Million ETH Leaves Exchanges as Vitalik Calls for Ethereum “Sanctuary” Tech](https://finance.yahoo.com/news/31-6-million-eth-leaves-070249895.html)**
+
+ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Current price of Ethereum for March 6, 2026](https://fortune.com/article/price-of-ethereum-03-06-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
+**[While Bitcoin and Ethereum Consolidate, This Altcoin Is Quietly Preparing for a Major Rally](https://www.tradingview.com/news/coinpedia:2a6c70131094b:0-while-bitcoin-and-ethereum-consolidate-this-altcoin-is-quietly-preparing-for-a-major-rally/)**
+
+While Bitcoin and Ethereum continue to move sideways, one major altcoin appears to be quietly building momentum beneath the surface. Growing institutional interest and a tightening technical structure suggest that Solana’s price could be positioning itself for a significant move in the coming weeks…
+
+TradingView • 6h ago
 
 ---
 
 **[Bullish sees Bitcoin, Ethereum volatility almost double in February (BLSH:NYSE)](https://seekingalpha.com/news/4561826-bullish-sees-bitcoin-ethereum-volatility-almost-double-in-february)**
 
-Seeking Alpha • 4h ago
-
----
-
-**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
-
-Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
-
-The Block • 2d ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -238,7 +238,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 97 • 💬 10 • ⏱️ 10:24 • 5h ago
+👁️ 2K • 👍 117 • 💬 21 • ⏱️ 10:24 • 6h ago
+
+---
+
+**[Whales Are Loading Up on BTC, ETH, ASTER &amp; PUMP – What Do They Know? 👀](https://www.youtube.com/watch?v=qkFFwZjfOA4)**
+
+We analyze the latest crypto whale activity and what it could mean for the broader market. On-chain data is showing large ...
+
+📺 Altcoin Buzz
+
+👁️ 592 • 👍 51 • 💬 171 • ⏱️ 12:09 • 2h ago
 
 ---
 
@@ -248,17 +258,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 60 • 💬 25 • ⏱️ 19:52 • 1d ago
-
----
-
-**[URGENT ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=TEAc7s0s4rM)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 207 • 👍 19 • 💬 1 • ⏱️ 5:16 • 7h ago
+👁️ 2K • 👍 61 • 💬 25 • ⏱️ 19:52 • 1d ago
 
 ---
 
@@ -268,7 +268,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 593 • 💬 20 • ⏱️ 1:16 • 1d ago
+👁️ 20K • 👍 598 • 💬 21 • ⏱️ 1:16 • 1d ago
+
+---
+
+**[URGENT ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=TEAc7s0s4rM)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 283 • 👍 19 • 💬 1 • ⏱️ 5:16 • 9h ago
 
 ---
 
@@ -278,47 +288,17 @@ I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
 
 📺 MONEY GAME
 
-👁️ 1K • 👍 74 • 💬 12 • ⏱️ 31:22 • 6h ago
+👁️ 1K • 👍 77 • 💬 12 • ⏱️ 31:22 • 7h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=kQI9AEFYc50)**
+**[BITCOIN: Watch Out for This Move! (big warning) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=qFlz6OhhLK4)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Crypto Gyan
+📺 BitcoinHyper
 
-👁️ 280 • 👍 45 • 💬 1 • ⏱️ 5:14 • 2h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: BlackRock Buying Now (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HvxaJyAfaXM)**
-
-BITCOIN & CRYPTO: BlackRock Buying Now (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 258 • 💬 193 • ⏱️ 19:32 • 19h ago
-
----
-
-**[Sui Founder Explains Why Ethereum &amp; Solana Will Be Left Behind | E161](https://www.youtube.com/watch?v=5Tunu3t7kQ4)**
-
-Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw away everything they built because it wasn't good ...
-
-📺 When Shift Happens
-
-👁️ 11K • 👍 430 • 💬 154 • ⏱️ 49:16 • 1d ago
-
----
-
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=4NogtILLtnA)**
-
-Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
-
-📺 Trade with Burner
-
-👁️ 6K • 👍 429 • 💬 3 • ⏱️ 1:12:02 • 1h ago
+👁️ 6K • 👍 440 • 💬 88 • ⏱️ 12:55 • 8h ago
 
 ---
 
@@ -328,7 +308,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 161 • 💬 6 • ⏱️ 3:54 • 1d ago
+👁️ 3K • 👍 162 • 💬 6 • ⏱️ 3:54 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=kQI9AEFYc50)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 508 • 👍 62 • 💬 1 • ⏱️ 5:14 • 3h ago
+
+---
+
+**[Sui Founder Explains Why Ethereum &amp; Solana Will Be Left Behind | E161](https://www.youtube.com/watch?v=5Tunu3t7kQ4)**
+
+Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw away everything they built because it wasn't good ...
+
+📺 When Shift Happens
+
+👁️ 14K • 👍 439 • 💬 154 • ⏱️ 49:16 • 1d ago
 
 ---
 
