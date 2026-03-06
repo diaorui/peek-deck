@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T08:40:00.007975+00:00'
+updated: '2026-03-06T09:40:26.042307+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 08:40 UTC  
+**Last Updated:** March 06, 2026 at 09:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,336.30
+### $70,766.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +6.0%  
-**30d:** +13.1%  
-**90d:** -21.5%  
-**1y:** -18.2%  
+**24h:** -4.1%  
+**7d:** +5.1%  
+**30d:** +12.1%  
+**90d:** -22.2%  
+**1y:** -18.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1414.42B
+**Market Cap:** $1407.42B
 Rank #1
 
-**Circulating Supply:** 19,998,512 BTC
+**Circulating Supply:** 19,998,578 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.9%
+-44.2%
 
 **All-Time Low:** $67.81
-+104217.9%
++103701.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
 
-2h ago
+3h ago
 
 ---
 
@@ -89,21 +89,7 @@ Indiana Governor Mike Braun recently signed a bill that allows certain retiremen
 
 I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets looked cheap or plastic, so I made this — the Obsidian Edition, with a engraved back and a clean display. Curious what the community thinks! We made 5 units for the first batch to see how people like it.
 
-16h ago
-
----
-
-**[And everytime you bought, it dips](https://www.reddit.com/r/Bitcoin/comments/1rltvis/and_everytime_you_bought_it_dips/)**
-
-It's just like this, every single time. No matter what.
-
-11h ago
-
----
-
-**[One tap, paid.](https://www.reddit.com/r/Bitcoin/comments/1rligdq/one_tap_paid/)**
-
-18h ago
+17h ago
 
 ---
 
@@ -111,7 +97,29 @@ It's just like this, every single time. No matter what.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
+
+---
+
+**[And everytime you bought, it dips](https://www.reddit.com/r/Bitcoin/comments/1rltvis/and_everytime_you_bought_it_dips/)**
+
+It's just like this, every single time. No matter what.
+
+12h ago
+
+---
+
+**[One tap, paid.](https://www.reddit.com/r/Bitcoin/comments/1rligdq/one_tap_paid/)**
+
+19h ago
+
+---
+
+**[Bitcoin in Wartime: A Tale of Two Shocks](https://www.reddit.com/r/Bitcoin/comments/1rm8c7e/bitcoin_in_wartime_a_tale_of_two_shocks/)**
+
+With the recent US strike on Iran, investors are again asking a familiar question: how does Bitcoin (BTC) behave when geopolitics turns kinetic? Crypto markets trade 24/7, digest headlines instantly, and often serve as a real-time barometer of global risk appetite. : Get all the latest crypto news at Sandmark
+
+🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-wartime-tale-two-shocks) • 1h ago
 
 ---
 
@@ -119,7 +127,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I noticed a lot of people pushed back on my last post regarding the generation of investors who arrived after the Satoshi era. To clarify, when I talk about those of us who missed the early days of mining, I’m talking about the 99% of us who hold less than 1,000 BTC. I’m not trying to get back lost time; I’m trying to point out that most people look at Bitcoin as a technological first mover, but I see it as a behavioral phenomenon. There is a fallacy in the idea that being first is why Bitcoin succeeded. Being first doesn't automatically mean people will hold for years through 80% price swings. There are plenty of first movers in other tech sectors that failed. Bitcoin is different because it was the first time humans saw a digital asset with no obligations, no roadmap, and no exit plan. Why I believe Bitcoin is a Behavioral Phenomenon -No marketing, No Roadmap, No exit plan Marketing is often just a series of promises and obligations. You are telling the market what to expect, and the moment you don't deliver, people dump. Luckily, Bitcoin didn't have to convert enthusiasm into a promise . Investors love roadmaps because they feel like progress, but a roadmap is really just a list of ways a project can fail. When a milestone is missed, it triggers panic. Bitcoin had no plan to fail, because it had no roadmap to miss in the first place. Bitcoin achieved success through a well formulated silence. There were no events like a CEO's product launch to coordinate a sell the news moment. There was never a coordinated reason for everyone to sell at the same time. Bitcoin proved that value doesn't just come from usage; it comes from coordination. Price appeared before utility because people mined and held simply because they saw others doing the same. It was designed for those who are quiet, not for those who chase the hype. However, if Bitcoin fails to maintain this phenomenon, we have to reconsider things. As institutions enter, they bring their own roadmaps and marketing. This introduces expectations the very thing Bitcoin originally avoided.
 
-7h ago
+8h ago
 
 ---
 
@@ -131,27 +139,19 @@ I was fortunate to become a BTC whole coiner about 1yr ago. I got hungry and wen
 
 ---
 
-**[Bitcoin in Wartime: A Tale of Two Shocks](https://www.reddit.com/r/Bitcoin/comments/1rm8c7e/bitcoin_in_wartime_a_tale_of_two_shocks/)**
-
-With the recent US strike on Iran, investors are again asking a familiar question: how does Bitcoin (BTC) behave when geopolitics turns kinetic? Crypto markets trade 24/7, digest headlines instantly, and often serve as a real-time barometer of global risk appetite. : Get all the latest crypto news at Sandmark
-
-🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-wartime-tale-two-shocks) • 20m ago
-
----
-
 **[Bitcoin cycles measured through return momentum over time - currently accelerating up](https://www.reddit.com/r/Bitcoin/comments/1rllvae/bitcoin_cycles_measured_through_return_momentum/)**
 
 The above is an animation I created that shows bitcoin's daily returns over the last 8 years measured over time. It shows in which cycle bitcoin is in as phase diagram. The idea is surprisingly simple and yet very insightful, expecially when animated. Was inspired by the original formulas and creation by Sheharyar at MC Finance who I think originally came up with it, I just tweaked it, cleaned the smoothing and added an animation over time. What is most striking is that you can see that large negative returns follow large positive returns over a prolonged period of time. There is no snap towards the middle but instead, even with minimal smoothing the returns follow beautiful orbits and that "momentum" is very real, even if measured in digital asset returns.
 
-16h ago
+17h ago
 
 ---
 
-**[PSA on strike](https://www.reddit.com/r/Bitcoin/comments/1rlw54p/psa_on_strike/)**
+**[What’s your DCA timeframe?](https://www.reddit.com/r/Bitcoin/comments/1rm9ehj/whats_your_dca_timeframe/)**
 
-Got an email earlier today that strike is FINALLY available in NYS!
+Hey guys What is your bitcoin dca scheduled for currently? Daily, weekly, monthly? I would like to hear what you do, the reasoning behind it and what you believe yields the best results for more bang for your buck!
 
-10h ago
+15m ago
 
 ---
 
@@ -163,21 +163,27 @@ Got an email earlier today that strike is FINALLY available in NYS!
 
 The increase follows a mining fleet expansion as the firm focuses on accumulating bitcoin through large-scale self-mining.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
 **[Bitcoin Holds Firm Above $70,000 as Global Assets Recover](https://www.bloomberg.com/news/articles/2026-03-05/bitcoin-btc-holds-firm-above-70-000-as-global-assets-recover)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.fool.com/investing/2026/03/06/better-cryptocurrency-to-buy-and-hold-for-10-years/)**
+**[How Buying Bitcoin Today Could 10x Your Net Worth](https://www.fool.com/investing/2026/03/06/how-buying-bitcoin-today-could-10x-your-net-worth/)**
 
-There's no such thing as being future proof, but it's possible to be well prepared.
+In a period of a little more than a decade, Bitcoin's price increased from $100 to $100,000.
 
-The Motley Fool • 1h ago
+The Motley Fool • 10m ago
+
+---
+
+**[Bitcoin price today: falls to $70k amid Iran conflict; set for weekly jump](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-to-70k-amid-iran-conflict-set-for-weekly-jump-4546036)**
+
+Investing.com • 3h ago
 
 ---
 
@@ -185,7 +191,7 @@ The Motley Fool • 1h ago
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 5h ago
+NDTV • 6h ago
 
 ---
 
@@ -197,17 +203,17 @@ Fortune • 1d ago
 
 ---
 
-**[Prediction Markets Are Pricing in Pennies for a $150,000 Bitcoin by March -- Here's Why I Still Wouldn't Bet Against This Crypto Wild Card](https://www.nasdaq.com/articles/prediction-markets-are-pricing-pennies-150000-bitcoin-march-heres-why-i-still-wouldnt-bet)**
+**[Gold vs. bitcoin: Why there 'isn't really a comparison' anymore](https://finance.yahoo.com/video/gold-vs-bitcoin-why-isnt-120006325.html)**
 
-Key PointsPolymarket traders give Bitcoin just a 1% chance of hitting $150,000 by the end of March.
+Gold (GC=F) is currently outperforming bitcoin (BTC-USD), with the world's largest cryptocurrency down nearly 50% from last year's highs. Canza Finance co-founder and CEO Pascal Ntsama chats with Ross Mac, host of Yahoo Finance's Financial Freestyle podcast, to compare the two assets, the different ways in which they're traded around the world, and more. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Nasdaq • 4h ago
+Yahoo Finance • 21h ago
 
 ---
 
 **[Bitcoin-backed Credit, Capital, and Equity on a risk-off day.](https://x.com/saylor/status/2029667705394012424)**
 
-x.com • 11h ago
+x.com • 12h ago
 
 ---
 
@@ -219,19 +225,11 @@ CNBC • 1d ago
 
 ---
 
-**[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
+**[Solo Satoshi Launches Bitaxe Turbo Touch, An Open-Source Touchscreen Bitcoin Miner](https://bitcoinmagazine.com/news/solo-satoshi-launches-bitaxe-bitcoin-miner)**
 
-Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
+Houston-based Solo Satoshi announced the launch of the Bitaxe Turbo Touch, a compact device designed for hobbyists and home miners.
 
-Business Insider • 1d ago
-
----
-
-**[Are Bitcoin Critics Holding Price Back From $750,000? Ray Dalio’s Warning Is ‘Opportunity,' Says Bitwise Exec](https://finance.yahoo.com/news/bitcoin-critics-holding-price-back-113215129.html)**
-
-Ray Dalio has again questioned Bitcoin’s role as money. Matt Hougan sees criticism as bullish for Bitcoin's price. Crypto industry figures defend Bitcoin’s long-term case. ...
-
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 12h ago
 
 ---
 
@@ -287,7 +285,7 @@ Complete operating system for Bitcoiners
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 17h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 18h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -323,7 +321,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 425 • 💬 33 • ⏱️ 19:58 • 17h ago
+👁️ 14K • 👍 449 • 💬 57 • ⏱️ 19:58 • 18h ago
 
 ---
 
@@ -333,7 +331,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 127 • ⏱️ 17:07 • 9h ago
+👁️ 14K • 👍 1K • 💬 183 • ⏱️ 17:07 • 10h ago
 
 ---
 
@@ -343,7 +341,7 @@ A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce
 
 📺 No Bs Crypto
 
-👁️ 7K • 👍 648 • 💬 102 • ⏱️ 12:20 • 14h ago
+👁️ 9K • 👍 712 • 💬 146 • ⏱️ 12:20 • 15h ago
 
 ---
 
@@ -353,37 +351,7 @@ Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discus
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 709 • 💬 12 • ⏱️ 40:52 • 10h ago
-
----
-
-**[Did the Federal Reserve Just Open the Door to Bitcoin?](https://www.youtube.com/watch?v=iDXbH-d-xRc)**
-
-Jamie Dimon just went on national television to push back against Bitcoin and crypto legislation. Hours later, a Bitcoin exchange ...
-
-📺 Swan Bitcoin
-
-👁️ 41K • 👍 2K • 💬 236 • ⏱️ 17:02 • 10h ago
-
----
-
-**[I’m Selling My New Bitcoin… Here’s Why! 🪙💰](https://www.youtube.com/watch?v=g0NHJWa26AE)**
-
-I'm Selling My New Bitcoin… Here's Why! ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View ...
-
-📺 Stocks with Josh
-
-👁️ 7K • 👍 206 • 💬 4 • ⏱️ 0:47 • 14h ago
-
----
-
-**[Bitcoin $73K — All targets HIT hear is what&#39;s next.](https://www.youtube.com/watch?v=oczZkl_2Icw)**
-
-Bitcoin just ripped past $72000 and is heading for $84K. ETF inflows hit $506 million, the Clarity Act is gaining traction, and ...
-
-📺 Davinci Jeremie
-
-👁️ 4K • 👍 271 • 💬 51 • ⏱️ 13:43 • 15h ago
+👁️ 20K • 👍 785 • 💬 12 • ⏱️ 40:52 • 11h ago
 
 ---
 
@@ -393,27 +361,57 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 11K • 👍 739 • 💬 189 • ⏱️ 12:43 • 11h ago
+👁️ 12K • 👍 780 • 💬 261 • ⏱️ 12:43 • 12h ago
 
 ---
 
-**[Is This Breakout Rally a FAKEOUT?](https://www.youtube.com/watch?v=QJ7x63Kug5c)**
+**[CRITICAL BITCOIN RETEST NOW...](https://www.youtube.com/watch?v=aeYABSAA8vc)**
 
-Nick Valdez looks at several charts fr today's video! How does Bitcoin, Ethereum, Solana, XRP and Cardano look heading into the ...
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
 
-📺 Discover Crypto
+📺 Crypto Rover
 
-👁️ 2K • 👍 134 • 💬 10 • ⏱️ 8:24 • 7h ago
+👁️ 4K • 👍 320 • 💬 88 • ⏱️ 9:23 • 4h ago
 
 ---
 
-**[Why I’m NOT Buying Bitcoin at $70K (Jamie Dimon&#39;s GRAVE Warning)](https://www.youtube.com/watch?v=bOzRI0Teei4)**
+**[I’m Selling My New Bitcoin… Here’s Why! 🪙💰](https://www.youtube.com/watch?v=g0NHJWa26AE)**
 
-Bitcoin just ripped to $70K on rumors of a market structure bill. But speculation is not liquidity and hope is not a catalyst. Banks are ...
+I'm Selling My New Bitcoin… Here's Why! ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View ...
 
-📺 Simply Bitcoin
+📺 Stocks with Josh
 
-👁️ 41K • 👍 2K • 💬 220 • ⏱️ 15:07 • 2d ago
+👁️ 8K • 👍 214 • 💬 35 • ⏱️ 0:47 • 15h ago
+
+---
+
+**[🚨 ALERT: The Bitcoin Floodgates Are Open!!](https://www.youtube.com/watch?v=m5nunXOj2VM)**
+
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+
+📺 Altcoin Daily
+
+👁️ 29K • 👍 2K • 💬 203 • ⏱️ 8:38 • 9h ago
+
+---
+
+**[Did the Federal Reserve Just Open the Door to Bitcoin?](https://www.youtube.com/watch?v=iDXbH-d-xRc)**
+
+Jamie Dimon just went on national television to push back against Bitcoin and crypto legislation. Hours later, a Bitcoin exchange ...
+
+📺 Swan Bitcoin
+
+👁️ 49K • 👍 2K • 💬 363 • ⏱️ 17:02 • 11h ago
+
+---
+
+**[Bitcoin’s Make Or Break Moment? What You Must Know](https://www.youtube.com/watch?v=9nV7u3sNhAk)**
+
+Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Channel (Free Telegram) – Daily crypto ...
+
+📺 The Wolf Of All Streets
+
+👁️ 7K • 👍 423 • 💬 158 • ⏱️ 31:02 • 12h ago
 
 ---
 
