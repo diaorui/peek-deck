@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T13:58:43.877936+00:00'
+updated: '2026-03-06T14:48:49.349920+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 13:58 UTC  
+**Last Updated:** March 06, 2026 at 14:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-4h ago
+5h ago
 
 ---
 
 **[Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict](https://www.reddit.com/r/artificial/comments/1rls9fs/pentagon_formally_labels_anthropic_supplychain/)**
 
-🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 17h ago
+🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 18h ago
 
 ---
 
@@ -55,7 +55,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex. "Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging," says Benjamin Nephew, assistant research professor in the Department of Biology and Biotechnology. "We found that machine-learning technologies, however, can analyze large amounts of data from scans to identify subtle changes and accurately predict Alzheimer's disease and related cognitive states. This advance has informed Alzheimer's disease research and may lead to methods that could allow doctors to diagnose and treat the disease earlier and more effectively." Alzheimer's disease is a neurodegenerative disorder that impairs mental functions and ultimately leads to death. An estimated 6.9 million Americans age 65 and older are living with Alzheimer's disease. Healthy brains contain billions of neurons, the cells that process and transmit signals needed for thought, movement, and other bodily functions. Alzheimer's disease injures neurons, leading to cell death and loss of brain tissue and associated cognitive functions. Analyzing data-rich MRI images can require substantial computing power and time. To focus their investigation, the WPI researchers first used machine learning to analyze 815 MRI scans for volume measurements in 95 brain regions. Then they deployed an algorithm to make predictions based upon differences in the measurements between healthy individuals and those with mild cognitive impairment or Alzheimer's disease. Results showed that the method was 92.87% accurate in detecting Alzheimer's disease among normal brains and brains of people with mild cognitive impairment.
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 13h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 14h ago
 
 ---
 
@@ -63,7 +63,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
 
-13h ago
+14h ago
 
 ---
 
@@ -71,13 +71,13 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 13h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 14h ago
 
 ---
 
 **[Frameworks Are Dead. Architects Are Not.](https://www.reddit.com/r/artificial/comments/1rm2ue6/frameworks_are_dead_architects_are_not/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 10h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 11h ago
 
 ---
 
@@ -119,7 +119,7 @@ AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a p
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 17h ago
+Anthropic • 18h ago
 
 ---
 
@@ -127,41 +127,39 @@ Anthropic • 17h ago
 
 The Pentagon said in a statement Thursday that it has "officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately."
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
-**[Local governments could deploy AI for good. Here’s how](https://www.fastcompany.com/91500167/local-governments-could-deploy-ai-for-good-heres-how-innovation-technology-cities-ai)**
+**[Anthropic's Claude uncovers 22 Firefox security vulnerabilities](https://www.axios.com/2026/03/06/anthropic-mozilla-claude-opus-bug-hunting)**
 
-Two urban innovation experts lay out the case
-
-Fast Company • 1h ago
+Axios • 1h ago
 
 ---
 
-**[Why the math says AI won't steal your job: this exec found $49k savings per person from reskilling, not firing](https://fortune.com/2026/03/06/reskilling-49000-cheaper-than-hiring-standard-chartered-ai-automation/)**
+**[February Layoff Numbers From Challenger Undercut AI Fears](https://www.wsj.com/livecoverage/jobs-report-unemployment-stock-market-03-06-2026/card/february-layoff-numbers-from-challenger-undercut-ai-fears-VuF5MVSqXlIqpMTbvrRS?gaa_at=eafs&gaa_n=AWEtsqda8b_NBvcq7EnotDY_skc1SJduqotD0MDJCqAX2djwH5KiM3ccMYnj&gaa_ts=69aaecb8&gaa_sig=23dkSE4D7-c8ZkzdTy8nozyHSm4Nf4WNsfex0GVdy64Q-jv8-kucCpIkKealMBG6b6dEWkwTAIQn913XGOewHw%3D%3D)**
 
-"If you start thinking of skills, rather than jobs, as the currency of work, what choices would you make in how work gets done?"
+WSJ • 49m ago
 
-Fortune • 1h ago
+---
+
+**[AI T-shirt could detect hidden heart risks](https://www.foxnews.com/tech/ai-t-shirt-could-detect-hidden-heart-risks)**
+
+U.K. researchers developed an AI-powered T-shirt that monitors electrical signals continuously, addressing gaps in traditional ECG testing methods.
+
+Fox News • 1h ago
 
 ---
 
 **[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 3h ago
-
----
-
-**[AI overuse could spark "brain fry," new research finds](https://www.axios.com/2026/03/06/ai-chatgpt-claude-jobs-brain-fry)**
-
-Axios • 3h ago
+The New York Times • 4h ago
 
 ---
 
 **[Cursor Goes To War For AI Coding Dominance](https://www.forbes.com/sites/annatong/2026/03/05/cursor-goes-to-war-for-ai-coding-dominance/)**
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
@@ -169,7 +167,13 @@ Forbes • 18h ago
 
 First known military strike on a US hyperscaler rattles regional ambitions to build multibillion-dollar cloud facilities
 
-Financial Times • 5h ago
+Financial Times • 9h ago
+
+---
+
+**[AI danger gets real](https://www.economist.com/leaders/2026/03/05/ai-danger-gets-real)**
+
+The Economist • 1d ago
 
 ---
 
@@ -177,15 +181,7 @@ Financial Times • 5h ago
 
 Oracle Corp. is planning to ax thousands of jobs, among its moves to handle a cash crunch from a massive AI data center expansion effort.
 
-Bloomberg.com • 19h ago
-
----
-
-**[Nvidia shares fall on report that Trump is seeking more control of AI chip exports](https://www.cnbc.com/2026/03/05/nvidia-slides-on-report-that-trump-wants-to-make-us-ai-gatekeeper.html)**
-
-Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
-
-CNBC • 18h ago
+Bloomberg • 20h ago
 
 ---
 
@@ -197,7 +193,7 @@ CNBC • 18h ago
 
 Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
 
-⬆️ 419 • 💬 508 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+⬆️ 419 • 💬 508 • 3d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 
 ---
 
@@ -227,7 +223,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 227 • 💬 78 • 15h ago • [406.fail](https://406.fail/)
+⬆️ 227 • 💬 78 • 16h ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -291,7 +287,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 25K • 👍 880 • 💬 83 • ⏱️ 10:56 • 14h ago
+👁️ 25K • 👍 880 • 💬 83 • ⏱️ 10:56 • 15h ago
 
 ---
 
@@ -311,7 +307,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 63K • 👍 3K • 💬 196 • ⏱️ 17:49 • 23h ago
+👁️ 63K • 👍 3K • 💬 196 • ⏱️ 17:49 • 1d ago
 
 ---
 
@@ -321,7 +317,7 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 133K • 👍 6K • 💬 1K • ⏱️ 21:38 • 18h ago
+👁️ 133K • 👍 6K • 💬 1K • ⏱️ 21:38 • 19h ago
 
 ---
 
@@ -423,7 +419,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 919,117 • ❤️ 545 • 20h ago
+⬇️ 919,117 • ❤️ 545 • 21h ago
 
 ---
 
@@ -447,7 +443,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 34,959 • ❤️ 225 • 23h ago
+⬇️ 34,959 • ❤️ 225 • 1d ago
 
 ---
 
@@ -459,7 +455,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 380,168 • ❤️ 209 • 3d ago
+⬇️ 380,168 • ❤️ 209 • 4d ago
 
 ---
 
@@ -643,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.8k • 🔱 3.0k • 3h ago
+⭐ 23.8k • 🔱 3.0k • 4h ago
 
 ---
 
@@ -663,7 +659,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.9k • 🔱 970 • 4m ago
+⭐ 8.9k • 🔱 970 • 55m ago
 
 ---
 
@@ -693,7 +689,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.7k • 🔱 665 • 12h ago
+⭐ 5.7k • 🔱 665 • 13h ago
 
 ---
 
@@ -703,7 +699,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 4.2k • 🔱 331 • 22h ago
+⭐ 4.2k • 🔱 331 • 23h ago
 
 ---
 
@@ -713,7 +709,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 382 • 2h ago
+⭐ 3.5k • 🔱 382 • 3h ago
 
 ---
 
@@ -723,7 +719,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 239 • 4h ago
+⭐ 3.3k • 🔱 239 • 5h ago
 
 ---
 

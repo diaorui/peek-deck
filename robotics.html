@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-06T13:58:43.500023+00:00"
+          "dateModified": "2026-03-06T14:48:48.959521+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -713,6 +713,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rmdrlj/i_got_frustrated_missing_robotics_deployments_and/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rmdrlj/i_got_frustrated_missing_robotics_deployments_and/" target="_blank" onclick="event.stopPropagation();">I got frustrated missing robotics deployments and layoffs, so I wrote a flightradar24-style autonomous NLP scraper to track the industry globally</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            As someone who follows the robotics industry closely, tracking company-level signals manually was impossible. I started building this as a personal tool and eventually put it online. How the engine works: A Python scraper hits multiple major robotics/AV newswires every 30 minutes via a systemd timer. Each headline is deduplicated and run through an NLP classification layer that categorises signals into four types: Deployments, Financials, Layoffs, and Leadership changes. roboradar24
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772803149.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rlkvpj/bimo_can_walk_on_a_carpet_now/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -851,6 +884,35 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rmf2ev/day_2_of_blowing_up_the_internet_about_the_jetson/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rmf2ev/day_2_of_blowing_up_the_internet_about_the_jetson/" target="_blank" onclick="event.stopPropagation();">Day 2 of Blowing Up the Internet About The Jetson Orin Nano until the Nvidia Devs fix it</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772806383.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rm2upe/so101_lowlatency_teleoperation_of_my_3d_printed/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -901,74 +963,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rm69io/how_would_you_structure_the_code_architecture_for/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rm69io/how_would_you_structure_the_code_architecture_for/" target="_blank" onclick="event.stopPropagation();">How would you structure the code architecture for a small Arduino robot?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi everyone, I'm working on a small robot project using an Arduino Uno and I'm currently thinking about the best way to structure the code as the project grows. Right now the robot has several modules: a sonar sensor mounted on a servo for scanning, a LED matrix for expressions, and another servo that controls a small shutter on the head. The project is starting to grow and I'm trying to design the architecture in a way that stays maintainable. My current idea is roughly this: Hardware modules implemented as classes (Sonar, ServoManager, Matrix, etc.) Behavior logic implemented as functions that run in the main loop A simple state machine (sleep, idle, active) A behavior manager that runs small "micro-behaviors" depending on the current state Each behavior function gets called every loop, but internally decides whether to do something based on timers (millis()) or hardware availability (for example checking if a servo is already moving). Something like: updateStates() updateBehavior() servos.update() matrix.update() Inside the behavior manager I would have things like: idleLookAround() idleBlinkMatrix() idleSonarSweep() Each one is independent and just returns quickly if it’s not time to act yet. So the architecture ends up being somewhat hybrid: OOP for hardware abstraction procedural / functional style for behaviors and state logic. My questions are: Is this a reasonable architecture for a small Arduino robot? Would you structure behaviors differently (for example using classes for behaviors as well)? Are there patterns commonly used in robotics projects on microcontrollers that I should look into? I'm trying to keep the loop non-blocking and avoid delays so everything can run smoothly. Any advice or examples from your own robot projects would be really appreciated. https://reddit.com/link/1rm69io/video/kgwdn0ux8dng1/player
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772777810.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rldob6/robots_navigating_city_streets_they_still_need_a/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/enZ1M2JleWQ4N25nMcUjanGkabcXtSNyXIX7JbbaEeKGy84DD9KQYZ0xiAyI.png?width=640&crop=smart&auto=webp&s=8e2b8ea9b2d437763b79b623e43df20dfc20c3dd" alt="Robots navigating city streets. They still need a little help. (by OpenMind)" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rldob6/robots_navigating_city_streets_they_still_need_a/" target="_blank" onclick="event.stopPropagation();">Robots navigating city streets. They still need a little help. (by OpenMind)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772704735.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -992,7 +986,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-06T12:58:28.506697+00:00">Updated 2026-03-06T12:58:28.506697+00:00</small>
+        <small data-timestamp="2026-03-06T14:48:23.338933+00:00">Updated 2026-03-06T14:48:23.338933+00:00</small>
     </div>
 </div>
 
@@ -1260,20 +1254,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bgr.com/2112422/amazon-abandons-warehouse-robot-blue-jay/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.bgr.com/img/gallery/amazon-quietly-abandoned-its-robot-innovation/l-intro-1772309571.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.geekwire.com/wp-content/uploads/2023/09/AUS2.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bgr.com/2112422/amazon-abandons-warehouse-robot-blue-jay/" target="_blank" onclick="event.stopPropagation();">Amazon Quietly Abandoned Its Robot Innovation</a>
+                            <a href="https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/" target="_blank" onclick="event.stopPropagation();">Amazon lays off robotics staff in latest cuts</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Amazon recently abandoned an innovative robotic line that it had deployed last year in an effort to streamline some of its warehouse operations.
+                            The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
                         </div>
                         
 
@@ -1283,9 +1277,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="bgr.com" class="news-favicon">
-                                    <a href="https://www.bgr.com" target="_blank" onclick="event.stopPropagation();">bgr.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.geekwire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="GeekWire" class="news-favicon">
+                                    <a href="https://www.geekwire.com" target="_blank" onclick="event.stopPropagation();">GeekWire</a>
                                     
                                 </div>
                                 
@@ -1293,7 +1287,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772749020.0"></span>
+                                    <span data-timestamp="1772663398.0"></span>
                                 </div>
                                 
                             </div>
@@ -1301,21 +1295,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.live5news.com/2026/03/06/meet-toaster-robot-sending-first-year-middle-school-team-state/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/7UQIJZZFWFAKLANPTSC5M54GEA.png?auth=36e98ea12d08890b377c92d9e8bc5171d937e2c7309e4ea34e5fcc16a322c5a0&width=1200&height=600&smart=true');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.live5news.com/2026/03/06/meet-toaster-robot-sending-first-year-middle-school-team-state/" target="_blank" onclick="event.stopPropagation();">Meet the ‘Toaster’: The robot sending a first-year middle school team to state</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether" target="_blank" onclick="event.stopPropagation();">Neura Robotics Raising €1 Billion in Round Backed by Tether</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            It’s the first year of Westview Middle School’s robotics program, but one of their teams has become a quick success.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1324,9 +1314,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.live5news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Live 5 News" class="news-favicon">
-                                    <a href="https://www.live5news.com" target="_blank" onclick="event.stopPropagation();">Live 5 News</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg</a>
                                     
                                 </div>
                                 
@@ -1334,7 +1324,44 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772791440.0"></span>
+                                    <span data-timestamp="1772639700.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nhregister.com/news/article/new-haven-hillhouse-ave-yale-lab-e-bike-fire-21957068.php', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nhregister.com/news/article/new-haven-hillhouse-ave-yale-lab-e-bike-fire-21957068.php" target="_blank" onclick="event.stopPropagation();">E-bike starts fire at Yale University's robotics lab on Hillhouse Avenue, New Haven official says</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nhregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="New Haven Register" class="news-favicon">
+                                    <a href="https://www.nhregister.com" target="_blank" onclick="event.stopPropagation();">New Haven Register</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1772726944.0"></span>
                                 </div>
                                 
                             </div>
@@ -1383,6 +1410,43 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html" target="_blank" onclick="event.stopPropagation();">Humanoid robots master parkour and acquire human-like agility</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techxplore.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Tech Xplore" class="news-favicon">
+                                    <a href="https://techxplore.com" target="_blank" onclick="event.stopPropagation();">Tech Xplore</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1772716201.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.nature.com/articles/s41893-025-01757-9', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01757-9/MediaObjects/41893_2025_1757_Fig1_HTML.png');"></div>
@@ -1417,43 +1481,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1772707909.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html" target="_blank" onclick="event.stopPropagation();">Humanoid robots master parkour and acquire human-like agility</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techxplore.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Tech Xplore" class="news-favicon">
-                                    <a href="https://techxplore.com" target="_blank" onclick="event.stopPropagation();">Tech Xplore</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1772716201.0"></span>
                                 </div>
                                 
                             </div>
@@ -1498,17 +1525,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108273311-1772621633962-gettyimages-1626781084-vcg111450331208.jpeg?v=1772621713&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda" target="_blank" onclick="event.stopPropagation();">China Prioritizes Rare Earths, Robotics in Manufacturing Agenda</a>
+                            <a href="https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html" target="_blank" onclick="event.stopPropagation();">Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1517,9 +1548,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1527,44 +1558,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1772704385.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://phys.org/news/2026-03-snakes-ability-upright-soft-robotics.html" target="_blank" onclick="event.stopPropagation();">Studying snakes' ability to stand upright could inform soft robotics and more</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://phys.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Phys.org" class="news-favicon">
-                                    <a href="https://phys.org" target="_blank" onclick="event.stopPropagation();">Phys.org</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1772560201.0"></span>
+                                    <span data-timestamp="1772628708.0"></span>
                                 </div>
                                 
                             </div>
@@ -1592,7 +1586,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-06T12:58:47.736736+00:00">Updated 2026-03-06T12:58:47.736736+00:00</small>
+        <small data-timestamp="2026-03-06T14:48:41.742254+00:00">Updated 2026-03-06T14:48:41.742254+00:00</small>
     </div>
 </div>
 
