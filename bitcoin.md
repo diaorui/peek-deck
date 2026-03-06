@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T22:30:17.382900+00:00'
+updated: '2026-03-06T22:57:39.093191+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 22:30 UTC  
+**Last Updated:** March 06, 2026 at 22:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ In history, Bitcoin reached its ATH in November 2017 at a price slightly under 2
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycle
 
 So pay atention to this new information about the bitcoin supply
 
-19m ago
+47m ago
 
 ---
 
@@ -161,7 +161,7 @@ Hi! I’ve been holding BTC for years and most of it stays on a hardware wallet.
 
 The outlook for the Fed grew cloudier on Friday, as the employment market weakened appreciably even as inflation could be worsening.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 1d ago
 
 **[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 2h ago
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 19h ago
+NDTV • 20h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Block • 1d ago
 
 Bitcoin and stocks stabilize, but bond yields continue to rise, calling for caution.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -259,7 +259,7 @@ Links to major crypto world figures are just the start.
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 3 • 💬 2 • 4d ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 3 • 💬 2 • 5d ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -279,7 +279,7 @@ Complete operating system for Bitcoiners
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 5d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 6d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -295,7 +295,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 A Go-based platform for running AI agents on schedules with tasks, skills, and persistent memory. Single binary, three operating modes — from single-node to distributed. - dneil5648/ductwork
 
-⬆️ 5 • 💬 8 • 4d ago • [GitHub](https://github.com/dneil5648/ductwork)
+⬆️ 5 • 💬 8 • 5d ago • [GitHub](https://github.com/dneil5648/ductwork)
 
 ---
 
@@ -303,7 +303,7 @@ A Go-based platform for running AI agents on schedules with tasks, skills, and p
 
 A portable encrypted USB vault with a dead man's switch. Your passwords, financial accounts, crypto wallets, and goodbye messages -- delivered to the people you choose, automatically.
 
-⬆️ 2 • 💬 1 • 3d ago • [DeadSwitch](https://dead-switch.com/)
+⬆️ 2 • 💬 1 • 4d ago • [DeadSwitch](https://dead-switch.com/)
 
 ---
 
@@ -323,7 +323,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 10K • 👍 621 • 💬 58 • ⏱️ 3:44 • 7h ago
+👁️ 10K • 👍 621 • 💬 58 • ⏱️ 3:44 • 8h ago
 
 ---
 
@@ -373,7 +373,7 @@ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/W
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 182 • 💬 19 • ⏱️ 5:30 • 4h ago
+👁️ 2K • 👍 182 • 💬 19 • ⏱️ 5:30 • 5h ago
 
 ---
 

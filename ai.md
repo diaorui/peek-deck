@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T22:30:17.374269+00:00'
+updated: '2026-03-06T22:57:39.084732+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 22:30 UTC  
+**Last Updated:** March 06, 2026 at 22:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -69,7 +69,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex. "Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging," says Benjamin Nephew, assistant research professor in the Department of Biology and Biotechnology. "We found that machine-learning technologies, however, can analyze large amounts of data from scans to identify subtle changes and accurately predict Alzheimer's disease and related cognitive states. This advance has informed Alzheimer's disease research and may lead to methods that could allow doctors to diagnose and treat the disease earlier and more effectively." Alzheimer's disease is a neurodegenerative disorder that impairs mental functions and ultimately leads to death. An estimated 6.9 million Americans age 65 and older are living with Alzheimer's disease. Healthy brains contain billions of neurons, the cells that process and transmit signals needed for thought, movement, and other bodily functions. Alzheimer's disease injures neurons, leading to cell death and loss of brain tissue and associated cognitive functions. Analyzing data-rich MRI images can require substantial computing power and time. To focus their investigation, the WPI researchers first used machine learning to analyze 815 MRI scans for volume measurements in 95 brain regions. Then they deployed an algorithm to make predictions based upon differences in the measurements between healthy individuals and those with mild cognitive impairment or Alzheimer's disease. Results showed that the method was 92.87% accurate in detecting Alzheimer's disease among normal brains and brains of people with mild cognitive impairment.
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 21h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 22h ago
 
 ---
 
@@ -77,7 +77,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Yesterday was arguably the most important day in AI this year, and it wasn't because of any single announcement. It was the combination of three: 1. OpenAI dropped GPT-5.4 Native computer use, 1 million token context window, 33% fewer hallucinations vs GPT-5.2. Three models at once: GPT-5.3 Instant, GPT-5.4 Thinking, GPT-5.4 Pro. Source 2. Pentagon officially labeled Anthropic a supply chain risk Effective immediately. Anthropic is now the first American company ever to receive this designation. The reason? Anthropic refused to let Claude be used for mass surveillance of American citizens or autonomous weapons systems. Source 3. Claude Code brought back "ultrathink" After Anthropic deprecated the ultrathink keyword in January, users filed GitHub issues about quality degradation. Community pressure worked. Source Why these matter together: Pure capability being shipped at maximum speed (GPT-5.4) A company getting punished by the government for setting ethical guardrails (Anthropic) Users successfully demanding quality from their tools (ultrathink) The AI industry is at a genuine crossroads between "build everything, no restrictions" and "build responsibly, even if it costs you." I build developer tools on Claude Code daily. This week forced me to think about what kind of AI stack I want to depend on. What do you think — should AI companies have the right to set guardrails on military use of their products?
 
-38m ago
+1h ago
 
 ---
 
@@ -85,7 +85,7 @@ Yesterday was arguably the most important day in AI this year, and it wasn't bec
 
 PART 1: THE BIRTH OF PROJECT "BALUARTE" 1. Initial Proposal: From Genius to Strategy Date: November 14, 1935 From: Eng. Santiago Ferrero-Lombardi (Project Lead "Baluarte") To: Gen. Mateo Bianchi (Minister of Defense) Subject: Preliminary Report – Armored Mobile Unit "Artigas I" Dear Minister, Work at the Peñarol workshops is progressing rapidly. Given that our railway system is the true backbone of Uruguay, we are transforming it into our primary defense. The prototype features a steam locomotive reinforced with 20mm Krupp steel. The design includes: 2 Artillery Wagons: 75mm rotating turrets. 1 Command Wagon: Short-range radio systems. 3 Barrack Wagons: Housing for 120 elite soldiers. We await confirmation for funds to finalize the ammunition magazines. Santiago Ferrero-Lombardi 2. Presidential Vision Date: December 22, 1935 From: President Providencia To: Council of Ministers Subject: The Symbol of the New Uruguay Colleagues, The "Baluarte" is the symbol of our resurgence. While others struggle, Uruguay runs on rails. This train must be the ghost that no one sees but everyone fears. I want the Ministry of the Interior to ensure total secrecy along the Montevideo-Rivera line. Providencia 3. Technical Innovations and Weight Issues Date: January 15, 1936 From: Col. Enzo Valenti (Head of Training) To: Eng. Santiago Ferrero-Lombardi Subject: Training Wagon Specifications Santiago, The "Gym-Range" wagon is brilliant, but the gunpowder fumes are unbreathable; we need better ventilation. Also, the weight has reached 450 tons. We must ensure the northern bridges can support this "Iron Beast." Col. Enzo Valenti 4. The Economic Alarm Date: February 2, 1936 From: Dr. Alejandro Silva (Minister of Economy) To: President Providencia Subject: Financial Sustainability Excellency, I must sound the alarm. Each armored wagon costs 180,000 Pesos. The high-grade coal consumption is draining our reserves. If we don't find new revenue, the deficit will cripple us by summer. Dr. Alejandro Silva PART 2: THE SOUTH AMERICAN & GERMAN ECONOMIC AXIS 5. Diplomatic Reassurance: The German Connection Date: February 5, 1936 From: Luis Alberto Rossi (Minister of Foreign Affairs) To: Dr. Alejandro Silva (Minister of Economy) Subject: German Industrial Credit Dear Alejandro, Do not despair. I have signed a treaty with Berlin. Germany will provide us with specialized alloys and heavy machinery for the "Baluarte" in exchange for priority access to our iron and manganese mines. Our minerals are now the currency for our defense. Luis Alberto Rossi 6. The Textile Boom Date: February 20, 1936 From: Carlos Moretti (Minister of the Interior) To: President Providencia Subject: Funding via Wool Exports President, The textile industry is booming. Exports of wool to Argentina and Brazil have increased by 40%. I have redirected a portion of these export taxes directly to the "Baluarte" project. The train is now literally "clothed" by our sheep farmers. Carlos Moretti 7. Weight Reduction and Light Alloys Date: March 10, 1936 From: Eng. Santiago Ferrero-Lombardi To: Gen. Mateo Bianchi (Minister of Defense) Subject: Structural Optimization General, By using new aluminum-steel alloys provided by our German partners, we have reduced the weight of the wagons by 15%. This allows us to extend the train to 12 wagons without damaging the tracks. Santiago Ferrero-Lombardi 8. The Brazilian Border Agreement Date: March 25, 1936 From: President Providencia To: All Ministers Subject: Full Operational Phase Gentlemen, Brazil has agreed to co-fund the maintenance of the border tracks in exchange for the "Baluarte" acting as a deterrent against regional insurgencies. The train is now a multinational economic engine. Providencia PART 3: THE CONTINENTAL EXPANSION 9. The Mineral Corridor Date: April 12, 1936 From: Dr. Alejandro Silva (Minister of Economy) To: Minister of Industry Subject: Mining Revenue for the Rail Bastion We are opening three new mines in the North. The iron extracted will go directly to the production of the "Baluarte II" wagons. Our economy is now a perfect circle: minerals create the train, and the train protects the mines. Dr. Alejandro Silva 10. Argentina and the Free Trade Pact Date: May 5, 1936 From: Luis Alberto Rossi (Minister of Foreign Affairs) To: President Providencia Subject: Buenos Aires Negotiations The Argentinians were hesitant until they saw the "Baluarte" during the Rivera exercises. They have now signed the trade pact for our textiles. The shadow of the train is our best negotiator. Luis Alberto Rossi 11. Reaching 16 Wagons: The Mobile City Date: May 18, 1936 From: Eng. Santiago Ferrero-Lombardi To: Gen. Mateo Bianchi Subject: The Hospital and Workshop Wagons We have added a Medical Wagon and a Mobile Workshop. The "Baluarte" is now a 16-wagon autonomous city. We are using Venezuelan fuel oil, secured through a South American energy swap, to power the auxiliary engines. Santiago Ferrero-Lombardi 12. Domestic Stability and Security Date: June 2, 1936 From: Carlos Moretti (Minister of the Interior) To: President Providencia Subject: Rural Order Rural banditry has vanished. The sight of the steel convoy moving through the grasslands has brought absolute order. The textile magnates are so pleased they are donating extra funds for the soldiers' bonuses. Carlos Moretti PART 4: THE PARAGUAYAN DIPLOMACY 13. The Paraguayan Inquiry Date: June 15, 1936 From: Dr. Belisario Benítez (Minister of the Interior, Paraguay) To: Carlos Moretti (Minister of the Interior, Uruguay) Subject: Concerns over the "Iron Fortress" Dear Minister Moretti, My government views the deployment of your 20-wagon armored train with extreme anxiety. After the Chaco War, we seek peace. A fortress on wheels heading toward our borders does not look like "domestic policy." We request an explanation. Dr. Belisario Benítez 14. The Calm Uruguayan Response Date: June 28, 1936 From: Carlos Moretti (Minister of the Interior, Uruguay) To: Dr. Belisario Benítez (Minister of the Interior, Paraguay) Subject: A Message of Stability My dear Benítez, Please remain calm. The "Baluarte" is merely a moving administrative center. It protects our mineral shipments and textile logistics. We have no interest in conflict; we only seek the prosperity of the South American rail network. Carlos Moretti 15. Paraguayan Skepticism Date: July 5, 1936 From: Dr. Belisario Benítez To: Carlos Moretti Subject: Technical Discrepancies Minister, "Administrative centers" do not usually carry 75mm Krupp cannons. We fear Uruguay is starting an arms race that will destabilize the continent. Your "magnificent" project is keeping our generals awake at night. Dr. Belisario Benítez 16. The "Iron Hand" Proposal Date: July 20, 1936 From: Carlos Moretti To: Dr. Belisario Benítez Subject: The Railway Cooperation Pact Benítez, Uruguay is serious about this project because it is the future. Instead of fearing it, join us. We offer Paraguay protected transit for your goods on our armored lines. The "Baluarte" is a fact of the new era. It is unstoppable, and it is here to stay. Let us work together. Carlos Moretti PART 5: FINAL PHASE - THE 20-WAGON SUPER-TRAIN 17. The "Sci-Mil" Final Report Date: August 1, 1936 From: Valenti & Ferrero-Lombardi To: President Providencia Subject: Phase 2 Completion The train is now 20 wagons long. We have integrated German diesel-electric technology. It is faster, quieter, and more lethal. Moral is high; the "Baluarte" is the heart of the nation. Valenti & Lombardi 18. Economic Victory Date: August 10, 1936 From: Dr. Alejandro Silva (Minister of Economy) To: Council of Ministers Subject: Budget Surplus The textile and mineral exports have paid for the train in full. We have created 5,000 jobs. Our currency is now the strongest in South America, backed by the steel of our rails. Dr. Alejandro Silva 19. Continental Hegemony Date: August 25, 1936 From: Luis Alberto Rossi (Foreign Affairs) To: President Providencia Subject: Regional Recognition Even the Argentinians are now asking for our technical advice. Uruguay is no longer a small state; we are the guardians of the South American tracks. Luis Alberto Rossi 20. The President's Final Order Date: September 1, 1936 From: President Providencia To: The Nation Subject: Full Deployment The "Baluarte" is fully operational. Let the world know: Uruguay does not just walk into the future—it rides on steel. Providencia Crosspost to more communities
 
-47m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ For 45 days I didn't write a single line of code. Instead, I described what to b
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 6h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 7h ago
 
 ---
 
@@ -135,7 +135,7 @@ Anthropic • 1d ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 53m ago
+NPR • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ NPR • 53m ago
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fortune • 5h ago
 
 Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -209,7 +209,7 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 310 • 💬 509 • 23h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 310 • 💬 509 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
@@ -325,7 +325,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 91 • ⏱️ 10:56 • 22h ago
+👁️ 32K • 👍 1K • 💬 91 • ⏱️ 10:56 • 23h ago
 
 ---
 
@@ -345,7 +345,7 @@ Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI 
 
 📺 Mira AI
 
-👁️ 6K • 💬 2 • ⏱️ 9:10 • 9h ago
+👁️ 6K • 💬 2 • ⏱️ 9:10 • 10h ago
 
 ---
 
@@ -355,7 +355,7 @@ Subscribe for more weekly AI news you can use! This week, Igor covers the new mo
 
 📺 The AI Advantage
 
-👁️ 4K • 👍 231 • 💬 23 • ⏱️ 19:47 • 5h ago
+👁️ 4K • 👍 231 • 💬 23 • ⏱️ 19:47 • 6h ago
 
 ---
 
@@ -375,7 +375,7 @@ Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator M
 
 📺 Creator Magic
 
-👁️ 9K • 👍 439 • 💬 45 • ⏱️ 8:17 • 9h ago
+👁️ 9K • 👍 439 • 💬 45 • ⏱️ 8:17 • 10h ago
 
 ---
 
@@ -499,7 +499,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 370,789 • ❤️ 1,108 • 12h ago
+⬇️ 370,789 • ❤️ 1,108 • 13h ago
 
 ---
 
@@ -657,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.0k • 🔱 482 • 3h ago
+⭐ 14.0k • 🔱 482 • 4h ago
 
 ---
 
@@ -667,7 +667,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.0k • 🔱 992 • 7h ago
+⭐ 9.0k • 🔱 992 • 8h ago
 
 ---
 
@@ -687,7 +687,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.5k • 🔱 480 • 4h ago
+⭐ 6.5k • 🔱 480 • 5h ago
 
 ---
 
