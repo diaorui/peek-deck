@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-06T02:09:05.895206+00:00'
+updated: '2026-03-06T04:20:33.789165+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 06, 2026 at 02:09 UTC  
+**Last Updated:** March 06, 2026 at 04:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I’ve open-sourced my robots!](https://www.reddit.com/r/robotics/comments/1rll5z2/ive_opensourced_my_robots/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 For those following the project, this is Bimo walking on a regular carpet, something that used to be very unreliable without hand-tuning the environment or the RL model. Over the last months I’ve retrained and tweaked the walking model so it’s much more robust: it now keeps a stable heading instead of drifting or turning, and it tolerates uneven contact and small disturbances much better than before. Next on the roadmap are behaviors such as: turning gaits, better recovery under sustained pushes, and more pre-programmed motions to make Bimo a practical research and tinkering platform rather than just a locomotion demo. As these stabilize, I’ll be adding them to the open-source GitHub repo and documenting them in the Discord so others can build on top of this. If you want to see the full kit and platform details, there’s also a page on the Mekion site with specs and pre-order info.
 
-10h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ For those following the project, this is Bimo walking on a regular carpet, somet
 
 I have been a robotics engineer all my life, worked 3 years full-time and am about to graduate from Carnegie Mellon with a masters degree in Robotics in May. I've been offered a position at Apple (camera modules) to help build smart front cameras. But, it doesn't involve robotics hardware - think of it as ML-based CV on edge at scale. Over my masters degree, I've built a keen interest in RL and autonomy in robotics; I am afraid I will lose touch and fall behind this domain that's poised to explode. On the flip side, there's the uncertainty in the job market for engineers at my level and all the pros that come with working at Apple. If you were in my shoes, how would you navigate this situation? Happy to provide any clarifications needed.
 
-3h ago
+5h ago
 
 ---
 
@@ -58,15 +58,7 @@ I have been a robotics engineer all my life, worked 3 years full-time and am abo
 
 At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor system that integrates drive, braking, and steering within each wheel unit.
 
-9h ago
-
----
-
-**[Robots navigating city streets. They still need a little help. (by OpenMind)](https://www.reddit.com/r/robotics/comments/1rldob6/robots_navigating_city_streets_they_still_need_a/)**
-
-Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
-
-16h ago
+11h ago
 
 ---
 
@@ -74,7 +66,23 @@ Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi
 
 Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot project. My design has 18 coils and 20 magnets in the stator and the rotor. I used 0.5mm copper wire for the coils and 10x5x2mm magnets for the rotor. For the ESC I'm using the 40A brushless motor esc with a 3S lipo battery. The stator's inner diameter is roughly 80 mm and outer diameter is around 100mm. However after assembling the motor and plugging it into the ESC the coils had extremely low pull force (it can barely move a single magnet) . What could be the issue here? I've tried rewiring the coils but it didn't change anything. All of the coils are wired clockwise with the ends of each phase soldered together. Also do you have any tips on how to make a motor that has more torque? What I'm aiming for is 12 Nm
 
-3h ago
+5h ago
+
+---
+
+**[SO-101 low-latency teleoperation of my 3D printed robot](https://www.reddit.com/r/robotics/comments/1rm2upe/so101_lowlatency_teleoperation_of_my_3d_printed/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 56m ago
+
+---
+
+**[Robots navigating city streets. They still need a little help. (by OpenMind)](https://www.reddit.com/r/robotics/comments/1rldob6/robots_navigating_city_streets_they_still_need_a/)**
+
+Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
+
+18h ago
 
 ---
 
@@ -90,7 +98,7 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 Hey everyone! I've been working on LinkForge, an open-source tool that turns Blender into a robotics IDE. Instead of hand-writing URDF/XACRO files, you define links, joints, sensors, and ros2_control interfaces visually in Blender 4.2+. A built-in linter catches physics issues like negative inertias or disconnected chains before export. v1.3.0 just released, with: • NumPy-accelerated inertia calculations • Improved ros2_control support • Better export validation GitHub: https://github.com/arounamounchili/linkforge Happy to answer questions or get feedback!
 
-20h ago
+22h ago
 
 ---
 
@@ -98,13 +106,7 @@ Hey everyone! I've been working on LinkForge, an open-source tool that turns Ble
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/i_wrE4xkXt8?feature=share) • 51m ago
-
----
-
-**[Not Exactly How I Expected a Wheel Robot to Behave](https://www.reddit.com/r/robotics/comments/1rkrk1h/not_exactly_how_i_expected_a_wheel_robot_to_behave/)**
-
-1d ago
+🔗 [youtube.com](https://youtube.com/shorts/i_wrE4xkXt8?feature=share) • 3h ago
 
 ---
 
@@ -132,7 +134,7 @@ GeekWire • 1d ago
 
 Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
-Fox Business • 7h ago
+Fox Business • 9h ago
 
 ---
 
@@ -146,27 +148,21 @@ Business Insider • 1d ago
 
 **[Neura Robotics Raising €1 Billion in Round Backed by Tether](https://www.bloomberg.com/news/articles/2026-03-04/neura-robotics-raising-1-billion-in-round-backed-by-tether)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
+
+---
+
+**[Compostable soft robots for plant monitoring](https://www.nature.com/articles/s41893-025-01757-9)**
+
+Soft robots inspired by living organisms hold the promise of gentle, adaptable interactions with the natural world, but leave behind persistent waste. Now scientists show a fully compostable robotic system that addresses this limitation by offering durable performance and decomposing safely into the soil at the end of its life.
+
+Nature • 17h ago
 
 ---
 
 **[Humanoid robots master parkour and acquire human-like agility](https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html)**
 
-Tech Xplore • 12h ago
-
----
-
-**[E-scooter catches fire in Yale University robotics lab](https://www.wtnh.com/news/connecticut/new-haven/e-scooter-catches-fire-in-yale-university-robotics-lab/)**
-
-WTNH.com • 11h ago
-
----
-
-**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
-
-Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
-
-CNBC • 1d ago
+Tech Xplore • 15h ago
 
 ---
 
@@ -178,11 +174,17 @@ Kraken Robotics • 2d ago
 
 ---
 
-**[Is Europe losing the robotics race to China, and does it matter?](https://www.euronews.com/next/2026/03/05/is-europe-losing-the-robotics-race-to-china-and-does-it-matter)**
+**[Rise of robots? Texas Instruments joins forces with Nvidia to help developers build androids](https://seekingalpha.com/news/4561341-rise-of-robots-texas-instruments-joins-forces-with-nvidia-to-help-developers-build-androids)**
 
-Chinese firms like Unitree and Agibot are dominating the global robotics market.
+Seeking Alpha • 11h ago
 
-Euronews.com • 19h ago
+---
+
+**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
+
+Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
+
+CNBC • 1d ago
 
 ---
 
@@ -196,7 +198,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 285K • 👍 20K • 💬 3K • ⏱️ 16:54 • 2d ago
+👁️ 296K • 👍 21K • 💬 3K • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -206,7 +208,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 829 • 👍 74 • 💬 12 • ⏱️ 29:41 • 1h ago
+👁️ 3K • 👍 137 • 💬 19 • ⏱️ 29:41 • 4h ago
 
 ---
 
@@ -216,17 +218,17 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 15K • 👍 636 • 💬 46 • ⏱️ 14:35 • 1d ago
+👁️ 16K • 👍 648 • 💬 47 • ⏱️ 14:35 • 1d ago
 
 ---
 
-**[Japan&#39;s Most Famous Android Builder Finds His Robot Legs in China #humanoidrobots #robotics #robots](https://www.youtube.com/watch?v=xqMWtcsLyYc)**
+**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
 
-Japan's Most Famous Android Builder Just Found His Robot Legs in China The Japanese robotics legend Hiroshi Ishiguro is ...
+War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
 
-📺 Kalil 4.0
+📺 Adrian Chong
 
-👁️ 622 • 👍 19 • 💬 1 • ⏱️ 1:08 • 5h ago
+👁️ 5K • 👍 304 • 💬 54 • ⏱️ 15:24 • 14h ago
 
 ---
 
@@ -236,17 +238,27 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 33K • 👍 2K • 💬 219 • ⏱️ 0:13 • 1d ago
+👁️ 33K • 👍 2K • 💬 222 • ⏱️ 0:13 • 2d ago
 
 ---
 
-**[AI EXPLODES This Month: Biomimetic Robots, Gemini 3.1, OpenAI–OpenClaw, LYRIA 3 &amp; More](https://www.youtube.com/watch?v=r6umFAnMEEM)**
+**[Japan&#39;s Most Famous Android Builder Finds His Robot Legs in China #humanoidrobots #robotics #robots](https://www.youtube.com/watch?v=xqMWtcsLyYc)**
 
-This month in AI pushed everything to the edge. Biomimetic robots from China are now so human-like they're unsettling, while ...
+Japan's Most Famous Android Builder Just Found His Robot Legs in China The Japanese robotics legend Hiroshi Ishiguro is ...
 
-📺 AI Revolution
+📺 Kalil 4.0
 
-👁️ 54K • 👍 840 • 💬 50 • ⏱️ 1:29:27 • 5d ago
+👁️ 669 • 👍 19 • 💬 1 • ⏱️ 1:08 • 7h ago
+
+---
+
+**[2026 FRC 971 Spartan Robotics Robot Reveal - “Mixtape”](https://www.youtube.com/watch?v=SebMftdHsic)**
+
+Team 971 reveal of our robot, named Mixtape, for First Robotics Competition 2026 season game Rebuilt. Come see this robot ...
+
+📺 smanrobotics
+
+👁️ 6K • 👍 176 • 💬 13 • ⏱️ 0:47 • 20h ago
 
 ---
 
@@ -260,31 +272,23 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 ---
 
-**[robot girl link in bio #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=yjz_m8MmYDw)**
+**[Figure AI Just Dropped a FULLY Autonomous AI Robot… It Works 24/7](https://www.youtube.com/watch?v=5sSzuXp3Wsg)**
 
-📺 XDollHub
+Figure AI has just dropped a fully autonomous AI robot — and it's now operating 24/7 without human supervision. In this video, we ...
 
-👁️ 508K • 👍 2K • 💬 6 • ⏱️ 0:11 • 2d ago
+📺 The AI Nexus
 
----
-
-**[China&#39;s Xiaomi Just DESTROYED Apple and Tesla in the Humanoid Robot Race](https://www.youtube.com/watch?v=Iw1JMO4mqZg)**
-
-China's biggest consumer tech companies are entering the humanoid robot race. Companies like Xiaomi and Honor Device Co., ...
-
-📺 Kalil 4.0
-
-👁️ 488 • 👍 18 • 💬 2 • ⏱️ 7:17 • 1d ago
+👁️ 8K • 👍 230 • 💬 29 • ⏱️ 27:19 • 5d ago
 
 ---
 
-**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
+**[Motor Gearbox on a Servo | 26949 Royal Society of Robotics | FTC Snapshot](https://www.youtube.com/watch?v=G0jAlOgIxMA)**
 
-German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
+26949 Royal Society of Robotics | FTC Snapshot Oklahoma's 26949 Royal Society of Robotics, a Worlds bound team, showcases ...
 
-📺 DPCcars
+📺 FUN Robotics Network
 
-👁️ 397K • 👍 2K • 💬 917 • ⏱️ 1:27 • 6d ago
+👁️ 4K • 👍 109 • ⏱️ 1:06 • 1d ago
 
 ---
 
