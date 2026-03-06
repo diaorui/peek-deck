@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-06T04:20:33.785946+00:00'
+updated: '2026-03-06T05:31:58.352753+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 04:20 UTC  
+**Last Updated:** March 06, 2026 at 05:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** +5.7%  
-**30d:** +13.7%  
-**90d:** -32.2%  
-**1y:** -3.0%  
+**24h:** -3.0%  
+**7d:** +5.1%  
+**30d:** +13.1%  
+**90d:** -32.6%  
+**1y:** -3.5%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Hegotá is the official name of a major Ethereum network upgrade planned for the second half of 2026, following the Glamsterdam upgrade expected earlier in the year, and marking Ethereum’s continued shift toward a biannual release cycle. The name blends Bogotá, the Devcon host city, with the star Heze. https://etherworld.co/all-you-need-to-know-about-ethereum-hegota-upgrade/
 
-1h ago
-
----
-
-**[Daily General Discussion March 05, 2026](https://www.reddit.com/r/ethereum/comments/1rl9qdi/daily_general_discussion_march_05_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-22h ago
+2h ago
 
 ---
 
@@ -88,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed one of the earliest smart contracts on the network: TerraNullius. What it does: Anyone can "claim" a hex coordinate and attach a message to it — a permanent, uncensorable message board on the blockchain. No tokens, no governance, no economic incentive. Just messages, forever. The numbers: - Deployed at block 49,880 (August 7, 2015) - Compiled with Solidity v0.1.1 - 25 claims in 2015, then it sat mostly dormant - 687 claims during the 2021 NFT boom (people realized these were basically proto-NFTs) - 805 total transactions and counting — still active in 2026 It was referenced by the Guinness World Records and is one of the earliest surviving interactive contracts on Ethereum. The original announcement was a Reddit post right here on r/ethereum, with Semiel sharing a Pastebin script so people could interact with it. What's fascinating is how it predates every pattern we now take for granted — ERC-20, ERC-721, ENS, DAOs. This was someone experimenting with permanence on a chain that was two weeks old. Contract: 0x6e38A457C722C6011B2dfa06d49240e797844d66 Full writeup with sources and verification: EthereumHistory.com If anyone has stories about early Ethereum experiments like this, I'd love to hear them. We're trying to document the pre-2017 era before the context is lost entirely.
 
-14h ago
+15h ago
+
+---
+
+**[Daily General Discussion March 05, 2026](https://www.reddit.com/r/ethereum/comments/1rl9qdi/daily_general_discussion_march_05_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed 
 
 Hi everyone, If you've been following the Account Abstraction roadmap, you know the community pivoted hard toward EIP-7702, a proposal driven by Vitalik to allow EOAs (standard wallets) to temporarily act like smart contracts. I write a lot about blockchain architecture, and I noticed that while the hype around "gasless transactions" is loud, the actual mechanics of how EIP-7702 achieves this safely aren't discussed enough. I published an architectural breakdown to clarify how this works under the hood. The core of the design is the SetCode transaction type. Instead of permanently migrating an EOA to a smart contract, EIP-7702 allows a transaction to temporarily attach smart contract code to an EOA for the exact duration of that single transaction. The deep dive covering: How this solves the security debates around previous proposals. The technical flow of batching operations What this means for the current ERC-4337 infrastructure. I'd love to hear from people that building in the space: How quickly do you expect it to be broadly used
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone, If you've been following the Account Abstraction roadmap, you know 
 
 I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402. Here's what almost all of them said: "Why would an AI agent pay per usage for a certain app when you can just create a SaaS product, ask for a top-up, and internally use credits?" x402 doesn't replace the per-usage model. It solves one specific problem: no human in the loop. There are 2 use cases: Anonymous autonomous agent. No account. No signup. No pre-loaded balance. Pays mid-task and moves on. Humans with accounts created - that want to automate - a top-up credit model wins with pay per usage with credits. BUT Almost every SaaS would want you to create your account. SO x402 is really only good for automatic top-ups / payments. Change my mind.
 
-11h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402.
 
 I built SCPF (Smart Contract Pattern Finder) - an open-source security scanner for Ethereum smart contracts. What it does: - Scans contracts for reentrancy, delegatecall, unchecked calls, and other vulnerabilities - Uses YAML templates (easy to customize) - Integrates with GitHub Actions (SARIF output) - Supports up to 6 Etherscan API keys with automatic failover Quick example: bash scpf scan 0x1234... --chains ethereum Built with Rust for speed. MIT licensed. GitHub: https://github.com/Teycir/smartcontractpatternfinder Would love feedback from the community! 🚀
 
-8h ago
+9h ago
 
 ---
 
@@ -120,7 +120,7 @@ I built SCPF (Smart Contract Pattern Finder) - an open-source security scanner f
 
 Been doing Ethereum archaeology and found a useful reminder: token-for-token swap behavior existed on-chain in 2016, long before AMMs were mainstream. What was different vs modern DeFi: - no pooled liquidity / routing engines - much heavier coordination + trust assumptions - primitive UX, but clearly permissionless exchange intent It feels like DeFi history is better modeled as a slow primitive stack (2015-2018) rather than a sudden 2020 birth. Question for the OGs here: which pre-2018 contracts do you consider the most important proto-DeFi stepping stones?
 
-13h ago
+14h ago
 
 ---
 
@@ -156,13 +156,13 @@ My question is for devs and teams which are running Defi apps, DApps, Web apps w
 
 Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqeZnz29q8dFMING6D473o4MTB_Dkcaz9GZlvHsOcBl4aMIdwQOxA-bK&gaa_ts=69aa5979&gaa_sig=1gaAWGHDgoJfGFJKX1XtvrltzekRgrgQtQXKhWDWd8mG-BpLR3V-uD0h06i_gLLF6ZoOrNeDmjB6XK27gdoDew%3D%3D)**
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqcXuglI2orotgGv9LmBYtjtKHFN2s8ZFDTYEOQu2LV5qtShF4kVn9_Q&gaa_ts=69aa6a3d&gaa_sig=wZZpNQbrA1eqaEgAhgBeWgrfy4U1MTx6M-X8U81tR5BvuFTbM6R1wc9O0bSrDph8bGRXfUPufCZpNaAIloZ1Mw%3D%3D)**
 
-Barron's • 18h ago
+Barron's • 19h ago
 
 ---
 
@@ -182,6 +182,22 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
+
+Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
+
+The Block • 2d ago
+
+---
+
+**[Vitalik Buterin Urges Ethereum to Broaden Its Mission Beyond Finance](https://decrypt.co/359895/vitalik-buterin-ethereum-broaden-mission-beyond-finance)**
+
+Ethereum’s co-founder is calling for “sanctuary technologies” spanning privacy tools, social systems, and infrastructure beyond finance.
+
+Decrypt • 2d ago
+
+---
+
 **[Ethereum news (ETH): Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
@@ -194,7 +210,7 @@ CoinDesk • 1d ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
 
-Bit Digital • 14h ago
+Bit Digital • 15h ago
 
 ---
 
@@ -202,15 +218,7 @@ Bit Digital • 14h ago
 
 The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
 
-The Motley Fool • 19h ago
-
----
-
-**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
-
-Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
-
-The Block • 2d ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -218,15 +226,7 @@ The Block • 2d ago
 
 The recent volatility in the crypto market has left investors questioning whether the latest pullback means a deeper crash or just a temporary correction. While prices have struggled to maintain momentum, one market strategist believes the current setup could still lead to a short-term rally before…
 
-TradingView • 11h ago
-
----
-
-**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-right-now-2000-and-hold-5-years-xrp-vs-ethereum)**
-
-Key PointsEthereum is a general-purpose smart contract chain.
-
-Nasdaq • 2d ago
+TradingView • 13h ago
 
 ---
 
@@ -240,7 +240,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 518 • 💬 17 • ⏱️ 1:16 • 15h ago
+👁️ 16K • 👍 518 • 💬 17 • ⏱️ 1:16 • 16h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 40 • 💬 16 • ⏱️ 19:52 • 13h ago
+👁️ 1K • 👍 40 • 💬 16 • ⏱️ 19:52 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 151 • 💬 6 • ⏱️ 3:54 • 12h ago
+👁️ 2K • 👍 151 • 💬 6 • ⏱️ 3:54 • 13h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN & CRYPTO: BlackRock Buying Now (Get Ready)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 3K • 👍 194 • 💬 37 • ⏱️ 19:32 • 5h ago
+👁️ 3K • 👍 194 • 💬 37 • ⏱️ 19:32 • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw aw
 
 📺 When Shift Happens
 
-👁️ 7K • 👍 350 • 💬 116 • ⏱️ 49:16 • 13h ago
+👁️ 7K • 👍 350 • 💬 116 • ⏱️ 49:16 • 14h ago
 
 ---
 
@@ -290,7 +290,7 @@ With all the volatility in the middle-east, crypto prices have been relatively s
 
 📺 Elijah Cheng
 
-👁️ 3K • 👍 173 • 💬 21 • ⏱️ 25:01 • 13h ago
+👁️ 3K • 👍 173 • 💬 21 • ⏱️ 25:01 • 15h ago
 
 ---
 
@@ -300,7 +300,7 @@ DECISION TIME! MAJOR CRYPTO NEWS TODAY - XRP, BTC, ETH, ALTS. Will this crypto m
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 150 • 💬 37 • ⏱️ 9:24 • 14h ago
+👁️ 2K • 👍 150 • 💬 37 • ⏱️ 9:24 • 15h ago
 
 ---
 
@@ -310,7 +310,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 88 • ⏱️ 8:38 • 3h ago
+👁️ 15K • 👍 1K • 💬 88 • ⏱️ 8:38 • 5h ago
 
 ---
 
@@ -320,7 +320,7 @@ Bitcoin y cripto con buenas subidas tras el conflicto de Irán pero... será par
 
 📺 Tu Primer Bitcoin
 
-👁️ 5K • 👍 607 • 💬 132 • ⏱️ 17:21 • 10h ago
+👁️ 5K • 👍 607 • 💬 132 • ⏱️ 17:21 • 12h ago
 
 ---
 

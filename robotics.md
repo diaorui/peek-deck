@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-06T04:20:33.789165+00:00'
+updated: '2026-03-06T05:31:58.355983+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 06, 2026 at 04:20 UTC  
+**Last Updated:** March 06, 2026 at 05:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I’ve open-sourced my robots!](https://www.reddit.com/r/robotics/comments/1rll5z2/ive_opensourced_my_robots/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 For those following the project, this is Bimo walking on a regular carpet, something that used to be very unreliable without hand-tuning the environment or the RL model. Over the last months I’ve retrained and tweaked the walking model so it’s much more robust: it now keeps a stable heading instead of drifting or turning, and it tolerates uneven contact and small disturbances much better than before. Next on the roadmap are behaviors such as: turning gaits, better recovery under sustained pushes, and more pre-programmed motions to make Bimo a practical research and tinkering platform rather than just a locomotion demo. As these stabilize, I’ll be adding them to the open-source GitHub repo and documenting them in the Discord so others can build on top of this. If you want to see the full kit and platform details, there’s also a page on the Mekion site with specs and pre-order info.
 
-12h ago
+13h ago
 
 ---
 
@@ -50,7 +50,7 @@ For those following the project, this is Bimo walking on a regular carpet, somet
 
 I have been a robotics engineer all my life, worked 3 years full-time and am about to graduate from Carnegie Mellon with a masters degree in Robotics in May. I've been offered a position at Apple (camera modules) to help build smart front cameras. But, it doesn't involve robotics hardware - think of it as ML-based CV on edge at scale. Over my masters degree, I've built a keen interest in RL and autonomy in robotics; I am afraid I will lose touch and fall behind this domain that's poised to explode. On the flip side, there's the uncertainty in the job market for engineers at my level and all the pros that come with working at Apple. If you were in my shoes, how would you navigate this situation? Happy to provide any clarifications needed.
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ I have been a robotics engineer all my life, worked 3 years full-time and am abo
 
 At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor system that integrates drive, braking, and steering within each wheel unit.
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor 
 
 Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot project. My design has 18 coils and 20 magnets in the stator and the rotor. I used 0.5mm copper wire for the coils and 10x5x2mm magnets for the rotor. For the ESC I'm using the 40A brushless motor esc with a 3S lipo battery. The stator's inner diameter is roughly 80 mm and outer diameter is around 100mm. However after assembling the motor and plugging it into the ESC the coils had extremely low pull force (it can barely move a single magnet) . What could be the issue here? I've tried rewiring the coils but it didn't change anything. All of the coils are wired clockwise with the ends of each phase soldered together. Also do you have any tips on how to make a motor that has more torque? What I'm aiming for is 12 Nm
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 56m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 2h ago
 
 ---
 
@@ -82,7 +82,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
 
-18h ago
+19h ago
 
 ---
 
@@ -96,9 +96,9 @@ Hi, it's Emre from the Asimov team. I've been sharing our build-in-public humano
 
 **[I built an open-source Blender extension that exports robots directly to ROS 2 with a built-in linter — LinkForge v1.3.0](https://www.reddit.com/r/robotics/comments/1rl92s7/i_built_an_opensource_blender_extension_that/)**
 
-Hey everyone! I've been working on LinkForge, an open-source tool that turns Blender into a robotics IDE. Instead of hand-writing URDF/XACRO files, you define links, joints, sensors, and ros2_control interfaces visually in Blender 4.2+. A built-in linter catches physics issues like negative inertias or disconnected chains before export. v1.3.0 just released, with: • NumPy-accelerated inertia calculations • Improved ros2_control support • Better export validation GitHub: https://github.com/arounamounchili/linkforge Happy to answer questions or get feedback!
+Hey everyone! I've been working on LinkForge, an open-source tool that turns Blender into a robotics IDE. Instead of hand-writing URDF/XACRO files, you define links, joints, sensors, and ros2_control interfaces visually in Blender 4.2+. A built-in linter catches physics issues like negative inertias or disconnected chains before export. v1.3.0 just released, with: • NumPy-accelerated inertia calculations • Improved ros2_control support • Better export validation GitHub/Download: arounamounchili/linkforge Documentation: Read the Docs Get it on Blender Extensions: linkforge-blender Happy to answer questions or get feedback!
 
-22h ago
+1d ago
 
 ---
 
@@ -106,7 +106,7 @@ Hey everyone! I've been working on LinkForge, an open-source tool that turns Ble
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/i_wrE4xkXt8?feature=share) • 3h ago
+🔗 [youtube.com](https://youtube.com/shorts/i_wrE4xkXt8?feature=share) • 4h ago
 
 ---
 
@@ -134,7 +134,7 @@ GeekWire • 1d ago
 
 Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
-Fox Business • 9h ago
+Fox Business • 11h ago
 
 ---
 
@@ -156,13 +156,19 @@ Bloomberg • 1d ago
 
 Soft robots inspired by living organisms hold the promise of gentle, adaptable interactions with the natural world, but leave behind persistent waste. Now scientists show a fully compostable robotic system that addresses this limitation by offering durable performance and decomposing safely into the soil at the end of its life.
 
-Nature • 17h ago
+Nature • 18h ago
 
 ---
 
 **[Humanoid robots master parkour and acquire human-like agility](https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html)**
 
-Tech Xplore • 15h ago
+Tech Xplore • 16h ago
+
+---
+
+**[Rise of robots? Texas Instruments joins forces with Nvidia to help developers build androids](https://seekingalpha.com/news/4561341-rise-of-robots-texas-instruments-joins-forces-with-nvidia-to-help-developers-build-androids)**
+
+Seeking Alpha • 13h ago
 
 ---
 
@@ -171,12 +177,6 @@ Tech Xplore • 15h ago
 $615 Million Acquisition of the Covelya Group Will Be Partially Financed Through a $350 Million Public Offering of Subscription Receipts  Preliminary 2025 Year-End Results and Stand-Alone 2026 Guidance Provided for Kraken Robotics
 
 Kraken Robotics • 2d ago
-
----
-
-**[Rise of robots? Texas Instruments joins forces with Nvidia to help developers build androids](https://seekingalpha.com/news/4561341-rise-of-robots-texas-instruments-joins-forces-with-nvidia-to-help-developers-build-androids)**
-
-Seeking Alpha • 11h ago
 
 ---
 
@@ -208,7 +208,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 3K • 👍 137 • 💬 19 • ⏱️ 29:41 • 4h ago
+👁️ 3K • 👍 137 • 💬 19 • ⏱️ 29:41 • 5h ago
 
 ---
 
@@ -228,7 +228,7 @@ War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #
 
 📺 Adrian Chong
 
-👁️ 5K • 👍 304 • 💬 54 • ⏱️ 15:24 • 14h ago
+👁️ 5K • 👍 304 • 💬 54 • ⏱️ 15:24 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ Japan's Most Famous Android Builder Just Found His Robot Legs in China The Japan
 
 📺 Kalil 4.0
 
-👁️ 669 • 👍 19 • 💬 1 • ⏱️ 1:08 • 7h ago
+👁️ 669 • 👍 19 • 💬 1 • ⏱️ 1:08 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ Team 971 reveal of our robot, named Mixtape, for First Robotics Competition 2026
 
 📺 smanrobotics
 
-👁️ 6K • 👍 176 • 💬 13 • ⏱️ 0:47 • 20h ago
+👁️ 6K • 👍 176 • 💬 13 • ⏱️ 0:47 • 21h ago
 
 ---
 
