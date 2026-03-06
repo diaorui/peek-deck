@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T18:49:56.002074+00:00'
+updated: '2026-03-06T19:34:38.753026+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 18:49 UTC  
+**Last Updated:** March 06, 2026 at 19:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-2h ago
+3h ago
 
 ---
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ According to a recent Reuters report, Kazakhstan’s central bank is considering
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-8h ago
+9h ago
 
 ---
 
@@ -109,7 +109,7 @@ A trader I know got completely burnt because of a 2% dip. If you are one of them
 
 Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ Indiana Governor Mike Braun recently signed a bill that allows certain retiremen
 
 I believe the video was created by u/scott_ci and it still explains how Bitcoin works, pretty well (except the address/public key mistake).
 
-🔗 [youtu.be](https://youtu.be/Lx9zgZCMqXE) • 4h ago
+🔗 [youtu.be](https://youtu.be/Lx9zgZCMqXE) • 5h ago
 
 ---
 
@@ -125,7 +125,7 @@ I believe the video was created by u/scott_ci and it still explains how Bitcoin 
 
 Hi - I'm new to Bitcoin and planning to buy every week for $100 to $150. How often do you move your Bitcoin to storage? To be safe, I'm planning to buy a code storage. Pls recommend one. Appreciate your help.
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ Hi - I'm new to Bitcoin and planning to buy every week for $100 to $150. How oft
 
 According to MARA’s latest reports, the cost to mine one Bitcoin is around $70,027. Other public miners like Riot Platforms, CleanSpark, Bitfarms, and Hut 8 also report mining costs.For example, CleanSpark mines BTC for around $34K, while the industry average is estimated around $67K per BTC. Costs vary depending on electricity prices, ASIC hardware efficiency, location, and Bitcoin network difficulty. Do you think mining costs will keep rising as difficulty increases?
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ According to MARA’s latest reports, the cost to mine one Bitcoin is around $70
 
 Bitcoin Optech newsletter #395 is here: - describes a standard for verifying VTXOs across different Ark implementations - links to a draft BIP for expanding the miner-usable nonce space in the block header’s nVersion field - points to extensions to standard tooling for TEMPLATEHASH-CSFS-IK support - summarizes updates to the Hourglass V2 proposal - examines perspectives on cryptographic algorithm agility for Bitcoin - Optech Newsletter #395 Podcast Jgmcalpine posted to Delving Bitcoin about his proposal for V-PACK, a stateless VTXO verification standard, which aims to provide a mechanism to independently verify and visualize VTXOs in the Ark ecosystem... https://bitcoinops.org/en/newsletters/2026/03/06/#a-standard-for-stateless-vtxo-verification Matt Corallo posted to the Bitcoin-Dev mailing list a draft BIP to increase the number of bits available in nVersion’s nonce space for miners from 16 to 24... https://bitcoinops.org/en/newsletters/2026/03/06/#draft-bip-for-expanded-nversion-nonce-space-for-miners Antoine Poinsot wrote on the Bitcoin-Dev mailing list about his preliminary work to integrate the taproot-native OP_TEMPLATEHASH soft fork proposal into miniscript and PSBTs... https://bitcoinops.org/en/newsletters/2026/03/06/#extensions-to-standard-tooling-for-templatehash-csfs-ik-support Mike Casey posted an update to the Bitcoin-Dev mailing list for the Hourglass protocol to mitigate the market impact of quantum attacks against certain lost coins... https://bitcoinops.org/en/newsletters/2026/03/06/#hourglass-v2-update Ethan Heilman wrote on the Bitcoin-Dev mailing list regarding the potential need for RFC7696 Cryptographic Algorithm Agility in Bitcoin... https://bitcoinops.org/en/newsletters/2026/03/06/#algorithm-agility-for-bitcoin Pieter Wuille wrote to the Bitcoin-Dev mailing list about the limitations of the cryptographic agility... https://bitcoinops.org/en/newsletters/2026/03/06/#the-limitations-of-cryptographic-agility-in-bitcoin Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 17:30 UTC.
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/06/) • 4h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/06/) • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 4h ago
 
 Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
 
-Nasdaq • 11h ago
+Nasdaq • 12h ago
 
 ---
 
@@ -177,7 +177,7 @@ Nasdaq • 11h ago
 
 The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Fortune • 57m ago
+Fortune • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 3h ago
 
 A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
-WIS News 10 • 14h ago
+WIS News 10 • 15h ago
 
 ---
 
@@ -209,7 +209,7 @@ WIS News 10 • 14h ago
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 15h ago
+NDTV • 16h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 242 • ⏱️ 17:07 • 19h ago
+👁️ 18K • 👍 2K • 💬 242 • ⏱️ 17:07 • 20h ago
 
 ---
 
@@ -363,7 +363,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 211 • ⏱️ 8:38 • 18h ago
+👁️ 41K • 👍 2K • 💬 211 • ⏱️ 8:38 • 19h ago
 
 ---
 
@@ -373,7 +373,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 440 • 💬 88 • ⏱️ 12:55 • 8h ago
+👁️ 6K • 👍 440 • 💬 88 • ⏱️ 12:55 • 9h ago
 
 ---
 
@@ -393,7 +393,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 65K • 👍 2K • 💬 259 • ⏱️ 17:02 • 20h ago
+👁️ 65K • 👍 2K • 💬 259 • ⏱️ 17:02 • 21h ago
 
 ---
 
@@ -413,7 +413,7 @@ Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Cha
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 474 • 💬 184 • ⏱️ 31:02 • 21h ago
+👁️ 9K • 👍 474 • 💬 184 • ⏱️ 31:02 • 22h ago
 
 ---
 

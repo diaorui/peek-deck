@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-06T18:49:56.010050+00:00'
+updated: '2026-03-06T19:34:38.762230+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 06, 2026 at 18:49 UTC  
+**Last Updated:** March 06, 2026 at 19:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 Sorry if this isn’t the place to post this since it’s really a hobby project and this feels more like a simple blog post. I just figured I’d share it since I had spent time working on it. I suppose there are 3 main reasons why I scrapped it. I made the mistake of designing from the base upward as opposed to from the end-effector downward which led to a loss in desired elegance of the design itself. I also decided that I want to implement 6DOFs instead of just 4. On top of that, I decided to try my hand at accomplishing remote cable transmission for all DOFs aside from the base rotation. I’ve already finished designing the 6DOF arm, I just haven’t assembled it yet. Anyways, here’s a brief overview of the mechanical design. The base is essentially just a turn-table bearing system with 5 bearings between the top and bottom traces. The shoulder transmission is just direct mounting. Elbow transmission is via bevel gears to keep weight closer to the output shaft of the shoulder joint’s motor. The wrist transmission is via capstan antagonistic cabling. Then I have a lever at the end of the 3rd link after the wrist for my desired end-effector function utilizing capstan antagonistic cable transmission as well. I decided to scrap it before finishing the end-effector though. The new design focuses on complete remote transmission via capstan antagonistic cables in conjunction with Bowden cable sheaths used for the 3DOFs I have decoupled at the wrist joint. Again, sorry if this isn’t the place for this as this is something of a blog post more than anything. But I’m hoping this may intrigue someone. Also, I probably will design a proper shell at some point but I have a mini 3D printer and tbh I like seeing everything move.
 
-32m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ Sorry if this isn’t the place to post this since it’s really a hobby project
 
 Update on my 6-DOF desktop arm project: I’ve officially moved into the mechanical prototyping phase, starting with the most complex hurdle—the Wrist. The goal was to pack 3 degrees of freedom into a compact volume while keeping everything 3D printable. I modeled an Omni-Wrist mechanism in OnShape with “perfect” dimensions, using a series of butt-hinge linkages with 3D-printed pins. On-screen, the digital assembly worked flawlessly, but reality hit hard. The Fail: My first print had zero play. While "zero-clearance" sounds great in CAD, filament expansion turned the whole assembly into a static paperweight. The tolerances were too tight, the hinges seized, and the pins were impossible to seat without snapping the linkages. The Pivot: I went back to the "Model-Print-Iterate" cycle. I increased the clearances to 0.2mm and redesigned the pivot points as snap-fit pins. This allows the linkages to stay secure under pressure while maintaining enough "fluidity" for manual movement. The Query: For those who build small-scale linkages: Pin Durability: Do 3D-printed pins actually hold up under the repetitive stress of a 6-DOF arm, or is it a fool's errand? Should I move to metal dowel pins now before I build the rest of the arm? Hinge Alternatives: Given the friction issues with 3D-printed butt hinges, is there a more efficient hinge style or linkage structure you'd recommend for a 3-DOF wrist that is easier to assemble and maintain?
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ Update on my 6-DOF desktop arm project: I’ve officially moved into the mechani
 
 From an engineering perspective, wouldn’t other designs—like cantilever-type or hemispherical robots—be more practical and efficient for most real-world applications? Human-shaped robots seem mechanically complex, expensive, and often less stable compared to simpler structures. So is the humanoid form mainly for environments designed for humans, or is it more about research, marketing, and public perception?
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've had multiple iRobots and they were total junk...There is ALWAYS an error...
 
 As someone who follows the robotics industry closely, tracking company-level signals manually was impossible. I started building this as a personal tool and eventually put it online. How the engine works: A Python scraper hits multiple major robotics/AV newswires every 30 minutes via a systemd timer. Each headline is deduplicated and run through an NLP classification layer that categorises signals into four types: Deployments, Financials, Layoffs, and Leadership changes. roboradar24
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ For those following the project, this is Bimo walking on a regular carpet, somet
 
 I’ve just put together a table for an upcoming deep-dive. https://preview.redd.it/ueeg5w80ugng1.png?width=1400&format=png&auto=webp&s=d574471470abd0e66dca082a0d00b9fe4a7e0bb0 This is a map of who is actually building China’s humanoid robot industry, what their machines are doing in the real world, and which of the 140 companies might still exist in five years. The framework: a deployment reality matrix that sorts every major player by where they came from and how far they have gotten from the demo stage to productive work.
 
-38m ago
+1h ago
 
 ---
 
@@ -124,7 +124,7 @@ Fox Business • 1d ago
 
 Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
 
-Business Insider • 1d ago
+Business Insider • 2d ago
 
 ---
 
@@ -132,7 +132,7 @@ Business Insider • 1d ago
 
 Amazon recently abandoned an innovative robotic line that it had deployed last year in an effort to streamline some of its warehouse operations.
 
-bgr.com • 20h ago
+bgr.com • 21h ago
 
 ---
 
@@ -144,7 +144,7 @@ New Haven Register • 1d ago
 
 **[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -160,7 +160,7 @@ Nature • 1d ago
 
 When all is said and done, practicality trumps technological "wow!"
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -204,7 +204,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 15K • 👍 337 • 💬 29 • ⏱️ 29:41 • 18h ago
+👁️ 15K • 👍 337 • 💬 29 • ⏱️ 29:41 • 19h ago
 
 ---
 
@@ -242,7 +242,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 Planet Roomba
 
-👁️ 2K • 💬 1 • ⏱️ 21:32 • 5h ago
+👁️ 2K • 💬 1 • ⏱️ 21:32 • 6h ago
 
 ---
 

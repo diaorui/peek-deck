@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T18:49:55.994614+00:00'
+updated: '2026-03-06T19:34:38.744722+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 18:49 UTC  
+**Last Updated:** March 06, 2026 at 19:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 2h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 3h ago
 
 ---
 
@@ -49,19 +49,19 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-9h ago
+10h ago
 
 ---
 
 **[Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict](https://www.reddit.com/r/artificial/comments/1rls9fs/pentagon_formally_labels_anthropic_supplychain/)**
 
-🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 22h ago
+🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 23h ago
 
 ---
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,13 +93,13 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 18h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 19h ago
 
 ---
 
 **[Frameworks Are Dead. Architects Are Not.](https://www.reddit.com/r/artificial/comments/1rm2ue6/frameworks_are_dead_architects_are_not/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 15h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 16h ago
 
 ---
 
@@ -119,7 +119,7 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 22h ago
+Anthropic • 23h ago
 
 ---
 
@@ -127,13 +127,13 @@ Anthropic • 22h ago
 
 The Pentagon said in a statement Thursday that it has "officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately."
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
 **[Can Jews run AI on Shabbat? Rabbis weigh in](https://www.axios.com/2026/03/06/ai-shabbat-chatgpt-allowed)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -141,19 +141,19 @@ Axios • 1h ago
 
 New AI solutions for customer service could mean the end of 'hold music' – forever.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
 **[Lenovo Leads Push at MWC to Humanize AI With Friendly Robots](https://www.bloomberg.com/news/articles/2026-03-06/lenovo-leads-push-at-mwc-to-humanize-ai-with-friendly-robots)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 2h ago
 
 Announcing the InterPositive deal, the actor says he was moved from being scared of the technology to embracing it
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 1h ago
 
 First known military strike on a US hyperscaler rattles regional ambitions to build multibillion-dollar cloud facilities
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ Financial Times • 13h ago
 
 Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.
 
-OpenAI • 20h ago
+OpenAI • 21h ago
 
 ---
 
@@ -205,13 +205,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 298 • 💬 487 • 19h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 298 • 💬 487 • 20h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 277 • 💬 100 • 20h ago • [406.fail](https://406.fail/)
+⬆️ 277 • 💬 100 • 21h ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -243,7 +243,7 @@ A growing protest movement is encouraging people to cancel their subscriptions t
 
 Human DX optimizes for discoverability. Agent DX optimizes for predictability. What I learned building a CLI for agents first.
 
-⬆️ 158 • 💬 63 • 1d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
+⬆️ 158 • 💬 63 • 2d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
 
 ---
 
@@ -281,7 +281,7 @@ Operation Epic Fury in Iran, the capture of Maduro in Venezuela and ICE surveill
 
 📺 DW News
 
-👁️ 12K • 👍 401 • 💬 67 • ⏱️ 4:12 • 8h ago
+👁️ 12K • 👍 401 • 💬 67 • ⏱️ 4:12 • 9h ago
 
 ---
 
@@ -291,7 +291,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 30K • 👍 1K • 💬 87 • ⏱️ 10:56 • 19h ago
+👁️ 30K • 👍 1K • 💬 87 • ⏱️ 10:56 • 20h ago
 
 ---
 
@@ -311,7 +311,7 @@ Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator M
 
 📺 Creator Magic
 
-👁️ 5K • 👍 323 • 💬 26 • ⏱️ 8:17 • 5h ago
+👁️ 5K • 👍 323 • 💬 26 • ⏱️ 8:17 • 6h ago
 
 ---
 
@@ -331,7 +331,7 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 167K • 👍 7K • 💬 2K • ⏱️ 21:38 • 23h ago
+👁️ 167K • 👍 7K • 💬 2K • ⏱️ 21:38 • 1d ago
 
 ---
 
@@ -341,7 +341,7 @@ Subscribe for more weekly AI news you can use! This week, Igor covers the new mo
 
 📺 The AI Advantage
 
-👁️ 2K • 👍 128 • 💬 15 • ⏱️ 19:47 • 2h ago
+👁️ 2K • 👍 128 • 💬 15 • ⏱️ 19:47 • 3h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.9k • 🔱 3.0k • 48m ago
+⭐ 23.9k • 🔱 3.0k • 1h ago
 
 ---
 
@@ -653,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 13.8k • 🔱 468 • 15m ago
+⭐ 13.8k • 🔱 468 • 1h ago
 
 ---
 
@@ -663,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.0k • 🔱 985 • 3h ago
+⭐ 9.0k • 🔱 985 • 4h ago
 
 ---
 
@@ -683,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.4k • 🔱 479 • 54m ago
+⭐ 6.4k • 🔱 479 • 1h ago
 
 ---
 
@@ -693,7 +693,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.7k • 🔱 671 • 17h ago
+⭐ 5.7k • 🔱 671 • 18h ago
 
 ---
 
@@ -713,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 382 • 7h ago
+⭐ 3.5k • 🔱 382 • 8h ago
 
 ---
 
@@ -723,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 241 • 26m ago
+⭐ 3.3k • 🔱 241 • 1h ago
 
 ---
 

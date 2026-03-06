@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-06T18:49:56.007302+00:00'
+updated: '2026-03-06T19:34:38.758956+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 18:49 UTC  
+**Last Updated:** March 06, 2026 at 19:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ I've been working on verifying source code for the oldest contracts on Ethereum,
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Zero-knowledge cryptography went through three phases. First: hand-crafted arithmetic circuits, only accessible to deep researchers. Second: ZK virtual machines — suddenly any developer could write verifiable code in Rust or C. Third: prover networks (Succinct, Boundless/RiscZero) that let you delegate the heavy proof generation to external infrastructure. Each phase made the technology more accessible. Each phase also moved the user's data further from their control. Prover networks require your full plaintext data to generate proofs. For rollups, this is a non-issue — public ledger, no privacy expectation, and what you gain (succinctness — compressing thousands of transactions into a single proof) is worth the trade. That's the use case these networks were built for, and they served it well. The problem emerges when you extend this model to user-facing applications. Verifiable identity: proving you hold a valid passport, proving you're over 18, without disclosing the underlying data. Private AI inference: running a model on your data without the model owner seeing your inputs or you seeing their weights. Decentralized exchanges with private order books. In all of these, delegating to a prover network means surrendering exactly the inputs you need to keep private. I sat down with a researcher at ChainSafe who's working on this specific problem. His approach: adding MPC (multi-party computation) to ZK VMs so proof generation can be delegated privately. Multiple parties each hold a secret share of the data, compute their portion, and combine results — no single party ever sees the full picture. He calls it "make ZK VMs ZK again." He also covered a near-term approach to the deepfake problem: attested sensors that cryptographically sign photo/video metadata at capture, combined with verifiable edit histories. You can't yet verify what IS AI-generated. But you can prove everything that is human — a reverse approach. Prove provenance instead of detecting fakes. The full conversation covers ZK, MPC, and FHE (the "holy trinity of programmable cryptography"), explained through photography analogies that are genuinely useful for building intuition. We filmed it across Taipei — street markets, a botanical garden, a tea ceremony. Full interview: https://youtu.be/PnEivfTpnA8 ————— If we're meeting for the first time, hi 👋! I started building my channel to spread the good word on good work in crypto — something with substance and humanity. A like, sub, and comment goes a long way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/PnEivfTpnA8) • 3h ago
+🔗 [youtu.be](https://youtu.be/PnEivfTpnA8) • 4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Zero-knowledge cryptography went through three phases. First: hand-crafted arith
 
 Hegotá is the official name of a major Ethereum network upgrade planned for the second half of 2026, following the Glamsterdam upgrade expected earlier in the year, and marking Ethereum’s continued shift toward a biannual release cycle. The name blends Bogotá, the Devcon host city, with the star Heze. https://etherworld.co/all-you-need-to-know-about-ethereum-hegota-upgrade/
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hegotá is the official name of a major Ethereum network upgrade planned for the
 
 On March 29, 2016, Digix Global launched what became the first major DAO crowdsale on Ethereum. It raised $5.5 million in under 24 hours — at a time when Ethereum's total market cap was around $600 million. What it was: DigixDAO was a governance token (DGD) for a project aiming to tokenize physical gold bars on Ethereum. The crowdsale contract was deployed at block 1,239,208 and compiled with Solidity v0.3.0. Why it mattered: - It was the first DAO-style crowdsale to raise serious money on Ethereum - It proved that decentralized fundraising could work at scale, months before The DAO - The speed of the raise ($5.5M in <24h) shocked even the Ethereum community - It directly inspired the wave of ICOs that followed in 2017 Independent verification: Developer Piper Merriam independently verified the contract code before the sale, establishing one of the earliest examples of third-party smart contract auditing. The original community discussion happened right here on r/ethereum, with this thread documenting the reaction in real-time. Contract: 0xf0160428a8552ac9bb7e050d90eeade4ddd52843 Full writeup with sources: EthereumHistory.com This was just 7 months before The DAO — and in many ways, it was the proof of concept that made The DAO feel possible. We're documenting these pre-2017 contracts before the context disappears.
 
-4h ago
+5h ago
 
 ---
 
@@ -112,7 +112,7 @@ On March 29, 2016, Digix Global launched what became the first major DAO crowdsa
 
 ePBS first devnet live, Aave Labs temp check passed, Synthesis AI + human hackathon
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-14/) • 6h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-14/) • 7h ago
 
 ---
 
@@ -210,7 +210,7 @@ Yahoo Finance • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -218,7 +218,7 @@ Fortune • 4h ago
 
 While Bitcoin and Ethereum continue to move sideways, one major altcoin appears to be quietly building momentum beneath the surface. Growing institutional interest and a tightening technical structure suggest that Solana’s price could be positioning itself for a significant move in the coming weeks…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 117 • 💬 21 • ⏱️ 10:24 • 6h ago
+👁️ 2K • 👍 117 • 💬 21 • ⏱️ 10:24 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ We analyze the latest crypto whale activity and what it could mean for the broad
 
 📺 Altcoin Buzz
 
-👁️ 592 • 👍 51 • 💬 171 • ⏱️ 12:09 • 2h ago
+👁️ 592 • 👍 51 • 💬 171 • ⏱️ 12:09 • 3h ago
 
 ---
 
@@ -288,7 +288,7 @@ I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
 
 📺 MONEY GAME
 
-👁️ 1K • 👍 77 • 💬 12 • ⏱️ 31:22 • 7h ago
+👁️ 1K • 👍 77 • 💬 12 • ⏱️ 31:22 • 8h ago
 
 ---
 
@@ -298,7 +298,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 440 • 💬 88 • ⏱️ 12:55 • 8h ago
+👁️ 6K • 👍 440 • 💬 88 • ⏱️ 12:55 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 508 • 👍 62 • 💬 1 • ⏱️ 5:14 • 3h ago
+👁️ 508 • 👍 62 • 💬 1 • ⏱️ 5:14 • 4h ago
 
 ---
 
