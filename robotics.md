@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-06T05:31:58.355983+00:00'
+updated: '2026-03-06T06:52:32.423541+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 06, 2026 at 05:31 UTC  
+**Last Updated:** March 06, 2026 at 06:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I’ve open-sourced my robots!](https://www.reddit.com/r/robotics/comments/1rll5z2/ive_opensourced_my_robots/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 For those following the project, this is Bimo walking on a regular carpet, something that used to be very unreliable without hand-tuning the environment or the RL model. Over the last months I’ve retrained and tweaked the walking model so it’s much more robust: it now keeps a stable heading instead of drifting or turning, and it tolerates uneven contact and small disturbances much better than before. Next on the roadmap are behaviors such as: turning gaits, better recovery under sustained pushes, and more pre-programmed motions to make Bimo a practical research and tinkering platform rather than just a locomotion demo. As these stabilize, I’ll be adding them to the open-source GitHub repo and documenting them in the Discord so others can build on top of this. If you want to see the full kit and platform details, there’s also a page on the Mekion site with specs and pre-order info.
 
-13h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ For those following the project, this is Bimo walking on a regular carpet, somet
 
 I have been a robotics engineer all my life, worked 3 years full-time and am about to graduate from Carnegie Mellon with a masters degree in Robotics in May. I've been offered a position at Apple (camera modules) to help build smart front cameras. But, it doesn't involve robotics hardware - think of it as ML-based CV on edge at scale. Over my masters degree, I've built a keen interest in RL and autonomy in robotics; I am afraid I will lose touch and fall behind this domain that's poised to explode. On the flip side, there's the uncertainty in the job market for engineers at my level and all the pros that come with working at Apple. If you were in my shoes, how would you navigate this situation? Happy to provide any clarifications needed.
 
-6h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ I have been a robotics engineer all my life, worked 3 years full-time and am abo
 
 At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor system that integrates drive, braking, and steering within each wheel unit.
 
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor 
 
 Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot project. My design has 18 coils and 20 magnets in the stator and the rotor. I used 0.5mm copper wire for the coils and 10x5x2mm magnets for the rotor. For the ESC I'm using the 40A brushless motor esc with a 3S lipo battery. The stator's inner diameter is roughly 80 mm and outer diameter is around 100mm. However after assembling the motor and plugging it into the ESC the coils had extremely low pull force (it can barely move a single magnet) . What could be the issue here? I've tried rewiring the coils but it didn't change anything. All of the coils are wired clockwise with the ends of each phase soldered together. Also do you have any tips on how to make a motor that has more torque? What I'm aiming for is 12 Nm
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 3h ago
 
 ---
 
@@ -82,7 +82,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi/status/2029355937367306414
 
-19h ago
+20h ago
+
+---
+
+**[How would you structure the code architecture for a small Arduino robot?](https://www.reddit.com/r/robotics/comments/1rm69io/how_would_you_structure_the_code_architecture_for/)**
+
+Hi everyone, I'm working on a small robot project using an Arduino Uno and I'm currently thinking about the best way to structure the code as the project grows. Right now the robot has several modules: a sonar sensor mounted on a servo for scanning, a LED matrix for expressions, and another servo that controls a small shutter on the head. The project is starting to grow and I'm trying to design the architecture in a way that stays maintainable. My current idea is roughly this: Hardware modules implemented as classes (Sonar, ServoManager, Matrix, etc.) Behavior logic implemented as functions that run in the main loop A simple state machine (sleep, idle, active) A behavior manager that runs small "micro-behaviors" depending on the current state Each behavior function gets called every loop, but internally decides whether to do something based on timers (millis()) or hardware availability (for example checking if a servo is already moving). Something like: updateStates() updateBehavior() servos.update() matrix.update() Inside the behavior manager I would have things like: idleLookAround() idleBlinkMatrix() idleSonarSweep() Each one is independent and just returns quickly if it’s not time to act yet. So the architecture ends up being somewhat hybrid: OOP for hardware abstraction procedural / functional style for behaviors and state logic. My questions are: Is this a reasonable architecture for a small Arduino robot? Would you structure behaviors differently (for example using classes for behaviors as well)? Are there patterns commonly used in robotics projects on microcontrollers that I should look into? I'm trying to keep the loop non-blocking and avoid delays so everything can run smoothly. Any advice or examples from your own robot projects would be really appreciated. https://reddit.com/link/1rm69io/video/kgwdn0ux8dng1/player
+
+35m ago
 
 ---
 
@@ -102,14 +110,6 @@ Hey everyone! I've been working on LinkForge, an open-source tool that turns Ble
 
 ---
 
-**[This Tiny Patch is the Future of Medicine!](https://www.reddit.com/r/robotics/comments/1rm010r/this_tiny_patch_is_the_future_of_medicine/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/shorts/i_wrE4xkXt8?feature=share) • 4h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -122,19 +122,19 @@ BMW Group • 6d ago
 
 ---
 
+**[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
+
+Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
+
+Fox Business • 12h ago
+
+---
+
 **[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
 
 The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
 
 GeekWire • 1d ago
-
----
-
-**[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
-
-Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
-
-Fox Business • 11h ago
 
 ---
 
@@ -156,19 +156,19 @@ Bloomberg • 1d ago
 
 Soft robots inspired by living organisms hold the promise of gentle, adaptable interactions with the natural world, but leave behind persistent waste. Now scientists show a fully compostable robotic system that addresses this limitation by offering durable performance and decomposing safely into the soil at the end of its life.
 
-Nature • 18h ago
+Nature • 20h ago
 
 ---
 
 **[Humanoid robots master parkour and acquire human-like agility](https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html)**
 
-Tech Xplore • 16h ago
+Tech Xplore • 17h ago
 
 ---
 
 **[Rise of robots? Texas Instruments joins forces with Nvidia to help developers build androids](https://seekingalpha.com/news/4561341-rise-of-robots-texas-instruments-joins-forces-with-nvidia-to-help-developers-build-androids)**
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
 
 ---
 
@@ -180,11 +180,9 @@ Kraken Robotics • 2d ago
 
 ---
 
-**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
+**[Vacant Mountain View Kohl’s turned into temporary robotics hub](https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/)**
 
-Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
-
-CNBC • 1d ago
+Mountain View Voice • 3d ago
 
 ---
 
@@ -198,7 +196,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 296K • 👍 21K • 💬 3K • ⏱️ 16:54 • 2d ago
+👁️ 308K • 👍 22K • 💬 3K • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -208,7 +206,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 3K • 👍 137 • 💬 19 • ⏱️ 29:41 • 5h ago
+👁️ 6K • 👍 176 • 💬 21 • ⏱️ 29:41 • 6h ago
 
 ---
 
@@ -218,7 +216,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 16K • 👍 648 • 💬 47 • ⏱️ 14:35 • 1d ago
+👁️ 16K • 👍 657 • 💬 48 • ⏱️ 14:35 • 1d ago
 
 ---
 
@@ -228,7 +226,7 @@ War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #
 
 📺 Adrian Chong
 
-👁️ 5K • 👍 304 • 💬 54 • ⏱️ 15:24 • 15h ago
+👁️ 5K • 👍 321 • 💬 56 • ⏱️ 15:24 • 16h ago
 
 ---
 
@@ -238,27 +236,25 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 33K • 👍 2K • 💬 222 • ⏱️ 0:13 • 2d ago
+👁️ 33K • 👍 2K • 💬 225 • ⏱️ 0:13 • 2d ago
 
 ---
 
-**[Japan&#39;s Most Famous Android Builder Finds His Robot Legs in China #humanoidrobots #robotics #robots](https://www.youtube.com/watch?v=xqMWtcsLyYc)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=fUN_OfSLuu4)**
 
-Japan's Most Famous Android Builder Just Found His Robot Legs in China The Japanese robotics legend Hiroshi Ishiguro is ...
+📺 Robot Julie 
 
-📺 Kalil 4.0
-
-👁️ 669 • 👍 19 • 💬 1 • ⏱️ 1:08 • 9h ago
+👁️ 712 • 👍 5 • ⏱️ 0:26 • 6h ago
 
 ---
 
-**[2026 FRC 971 Spartan Robotics Robot Reveal - “Mixtape”](https://www.youtube.com/watch?v=SebMftdHsic)**
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
 
-Team 971 reveal of our robot, named Mixtape, for First Robotics Competition 2026 season game Rebuilt. Come see this robot ...
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
 
-📺 smanrobotics
+📺 CGTN Europe
 
-👁️ 6K • 👍 176 • 💬 13 • ⏱️ 0:47 • 21h ago
+👁️ 134K • 👍 258 • 💬 6 • ⏱️ 29:40 • 1d ago
 
 ---
 
@@ -272,23 +268,21 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 
 ---
 
-**[Figure AI Just Dropped a FULLY Autonomous AI Robot… It Works 24/7](https://www.youtube.com/watch?v=5sSzuXp3Wsg)**
+**[robot girl link in bio #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=yjz_m8MmYDw)**
 
-Figure AI has just dropped a fully autonomous AI robot — and it's now operating 24/7 without human supervision. In this video, we ...
+📺 XDollHub
 
-📺 The AI Nexus
-
-👁️ 8K • 👍 230 • 💬 29 • ⏱️ 27:19 • 5d ago
+👁️ 537K • 👍 2K • 💬 6 • ⏱️ 0:11 • 2d ago
 
 ---
 
-**[Motor Gearbox on a Servo | 26949 Royal Society of Robotics | FTC Snapshot](https://www.youtube.com/watch?v=G0jAlOgIxMA)**
+**[AI EXPLODES This Month: Biomimetic Robots, Gemini 3.1, OpenAI–OpenClaw, LYRIA 3 &amp; More](https://www.youtube.com/watch?v=r6umFAnMEEM)**
 
-26949 Royal Society of Robotics | FTC Snapshot Oklahoma's 26949 Royal Society of Robotics, a Worlds bound team, showcases ...
+This month in AI pushed everything to the edge. Biomimetic robots from China are now so human-like they're unsettling, while ...
 
-📺 FUN Robotics Network
+📺 AI Revolution
 
-👁️ 4K • 👍 109 • ⏱️ 1:06 • 1d ago
+👁️ 55K • 👍 844 • 💬 50 • ⏱️ 1:29:27 • 5d ago
 
 ---
 
