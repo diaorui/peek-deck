@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-06T12:58:54.520522+00:00'
+updated: '2026-03-06T13:58:43.892572+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 12:58 UTC  
+**Last Updated:** March 06, 2026 at 13:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,064.15
+### $2,048.87
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.90B
+**Market Cap:** $246.63B
 Rank #2
 
 **Circulating Supply:** 120,692,086 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.5%
+-59.0%
 
 **All-Time Low:** $0.43
-+474195.5%
++468758.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hegotá is the official name of a major Ethereum network upgrade planned for the second half of 2026, following the Glamsterdam upgrade expected earlier in the year, and marking Ethereum’s continued shift toward a biannual release cycle. The name blends Bogotá, the Devcon host city, with the star Heze. https://etherworld.co/all-you-need-to-know-about-ethereum-hegota-upgrade/
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hegotá is the official name of a major Ethereum network upgrade planned for the
 
 ePBS first devnet live, Aave Labs temp check passed, Synthesis AI + human hackathon
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-14/) • 31m ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-14/) • 1h ago
 
 ---
 
@@ -96,7 +96,7 @@ ePBS first devnet live, Aave Labs temp check passed, Synthesis AI + human hackat
 
 Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed one of the earliest smart contracts on the network: TerraNullius. What it does: Anyone can "claim" a hex coordinate and attach a message to it — a permanent, uncensorable message board on the blockchain. No tokens, no governance, no economic incentive. Just messages, forever. The numbers: - Deployed at block 49,880 (August 7, 2015) - Compiled with Solidity v0.1.1 - 25 claims in 2015, then it sat mostly dormant - 687 claims during the 2021 NFT boom (people realized these were basically proto-NFTs) - 805 total transactions and counting — still active in 2026 It was referenced by the Guinness World Records and is one of the earliest surviving interactive contracts on Ethereum. The original announcement was a Reddit post right here on r/ethereum, with Semiel sharing a Pastebin script so people could interact with it. What's fascinating is how it predates every pattern we now take for granted — ERC-20, ERC-721, ENS, DAOs. This was someone experimenting with permanence on a chain that was two weeks old. Contract: 0x6e38A457C722C6011B2dfa06d49240e797844d66 Full writeup with sources and verification: EthereumHistory.com If anyone has stories about early Ethereum experiments like this, I'd love to hear them. We're trying to document the pre-2017 era before the context is lost entirely.
 
-22h ago
+23h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402. Here's what almost all of them said: "Why would an AI agent pay per usage for a certain app when you can just create a SaaS product, ask for a top-up, and internally use credits?" x402 doesn't replace the per-usage model. It solves one specific problem: no human in the loop. There are 2 use cases: Anonymous autonomous agent. No account. No signup. No pre-loaded balance. Pays mid-task and moves on. Humans with accounts created - that want to automate - a top-up credit model wins with pay per usage with credits. BUT Almost every SaaS would want you to create your account. SO x402 is really only good for automatic top-ups / payments. Change my mind.
 
-20h ago
+21h ago
 
 ---
 
@@ -120,7 +120,7 @@ I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402.
 
 Hi everyone, If you've been following the Account Abstraction roadmap, you know the community pivoted hard toward EIP-7702, a proposal driven by Vitalik to allow EOAs (standard wallets) to temporarily act like smart contracts. I write a lot about blockchain architecture, and I noticed that while the hype around "gasless transactions" is loud, the actual mechanics of how EIP-7702 achieves this safely aren't discussed enough. I published an architectural breakdown to clarify how this works under the hood. The core of the design is the SetCode transaction type. Instead of permanently migrating an EOA to a smart contract, EIP-7702 allows a transaction to temporarily attach smart contract code to an EOA for the exact duration of that single transaction. The deep dive covering: How this solves the security debates around previous proposals. The technical flow of batching operations What this means for the current ERC-4337 infrastructure. I'd love to hear from people that building in the space: How quickly do you expect it to be broadly used
 
-18h ago
+19h ago
 
 ---
 
@@ -128,7 +128,7 @@ Hi everyone, If you've been following the Account Abstraction roadmap, you know 
 
 I built SCPF (Smart Contract Pattern Finder) - an open-source security scanner for Ethereum smart contracts. What it does: - Scans contracts for reentrancy, delegatecall, unchecked calls, and other vulnerabilities - Uses YAML templates (easy to customize) - Integrates with GitHub Actions (SARIF output) - Supports up to 6 Etherscan API keys with automatic failover Quick example: bash scpf scan 0x1234... --chains ethereum Built with Rust for speed. MIT licensed. GitHub: https://github.com/Teycir/smartcontractpatternfinder Would love feedback from the community! 🚀
 
-16h ago
+17h ago
 
 ---
 
@@ -136,7 +136,7 @@ I built SCPF (Smart Contract Pattern Finder) - an open-source security scanner f
 
 Been doing Ethereum archaeology and found a useful reminder: token-for-token swap behavior existed on-chain in 2016, long before AMMs were mainstream. What was different vs modern DeFi: - no pooled liquidity / routing engines - much heavier coordination + trust assumptions - primitive UX, but clearly permissionless exchange intent It feels like DeFi history is better modeled as a slow primitive stack (2015-2018) rather than a sudden 2020 birth. Question for the OGs here: which pre-2018 contracts do you consider the most important proto-DeFi stepping stones?
 
-21h ago
+22h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 20h ago
 
 Smart-contract cryptos could be the silver to Bitcoin's digital gold.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 2d ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
 
-Bit Digital • 22h ago
+Bit Digital • 23h ago
 
 ---
 
@@ -208,7 +208,7 @@ Fortune • 1d ago
 
 **[Bullish sees Bitcoin, Ethereum volatility almost double in February (BLSH:NYSE)](https://seekingalpha.com/news/4561826-bullish-sees-bitcoin-ethereum-volatility-almost-double-in-february)**
 
-Seeking Alpha • 16m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -216,7 +216,7 @@ Seeking Alpha • 16m ago
 
 Ethereum price started a fresh increase and tested $2,200. ETH is now correcting gains and might decline further if it trades below $2,030.Ethereum Price Starts Downside CorrectionEthereum price started a fresh increase above the $2,065 resistance, like Bitcoin. ETH price rallied above the $2,120 a…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
@@ -232,13 +232,23 @@ The Block • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Will Not Stay This Cheap! ⚠️ ETH Crypto Token Analysis](https://www.youtube.com/watch?v=jrKbEBTxqFA)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 616 • 👍 53 • 💬 47 • ⏱️ 10:24 • 2h ago
+
+---
+
 **[&quot;People Don’t Know How Massive MARCH Will Be for Crypto&quot;: Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=7oRNY59aeTo)**
 
 My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 50 • 💬 25 • ⏱️ 19:52 • 22h ago
+👁️ 2K • 👍 57 • 💬 25 • ⏱️ 19:52 • 23h ago
 
 ---
 
@@ -248,27 +258,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 568 • 💬 20 • ⏱️ 1:16 • 23h ago
+👁️ 19K • 👍 581 • 💬 20 • ⏱️ 1:16 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FV9pHXeiaxk)**
+**[URGENT ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=TEAc7s0s4rM)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 159 • 💬 6 • ⏱️ 3:54 • 21h ago
-
----
-
-**[Breakout FAIL 🤯 Ready For CRASH ? 🤯🤯🤯  ETHEREUM Analysis | Crypto Analysis](https://www.youtube.com/watch?v=RXDk-7_44ss)**
-
-Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on trading fees with this link) If you have ...
-
-📺 Trading Secrets With Two Side Traders
-
-👁️ 160 • 👍 21 • 💬 3 • ⏱️ 7:56 • 2h ago
+👁️ 172 • 👍 15 • 💬 1 • ⏱️ 5:16 • 4h ago
 
 ---
 
@@ -278,27 +278,37 @@ BITCOIN & CRYPTO: BlackRock Buying Now (Get Ready)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 5K • 👍 252 • 💬 38 • ⏱️ 19:32 • 14h ago
+👁️ 6K • 👍 258 • 💬 40 • ⏱️ 19:32 • 15h ago
 
 ---
 
-**[Bitcoin Bottom Forming? ETH Accumulation Surges While Crypto Fear Spikes | MSTR BMNR](https://www.youtube.com/watch?v=qXEAgObFIqo)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FV9pHXeiaxk)**
 
-I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 MONEY GAME
+📺 More Crypto Online
 
-👁️ 1K • 👍 69 • 💬 2 • ⏱️ 31:22 • 1h ago
+👁️ 2K • 👍 160 • 💬 6 • ⏱️ 3:54 • 22h ago
 
 ---
 
-**[Is the BMNR Bottom ALREADY IN? When will BMNR reach $51.86?](https://www.youtube.com/watch?v=A05qWHPyuho)**
+**[Breakout FAIL 🤯 Ready For CRASH ? 🤯🤯🤯  ETHEREUM Analysis | Crypto Analysis](https://www.youtube.com/watch?v=RXDk-7_44ss)**
 
-With all the volatility in the middle-east, crypto prices have been relatively steady. BMNR is preparing to buy more ETH because ...
+Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on trading fees with this link) If you have ...
 
-📺 Elijah Cheng
+📺 Trading Secrets With Two Side Traders
 
-👁️ 3K • 👍 192 • 💬 22 • ⏱️ 25:01 • 22h ago
+👁️ 269 • 👍 41 • 💬 5 • ⏱️ 7:56 • 3h ago
+
+---
+
+**[RELATÓRIO DE EMPREGOS E IMPACTOS NO BITCOIN (BTC), ETHEREUM (ETH) E CRIPTOMOEDAS!](https://www.youtube.com/watch?v=lV3MgON2f8E)**
+
+RECEBA DE GRAÇA OS MEUS MONITORES DA CAPITULAÇÃO E DE FUNDO: https://bit.ly/3MkN08Z ENTRE PARA O MEU ...
+
+📺 Bernardo Pascowitch
+
+👁️ 2K • 👍 401 • 2h ago
 
 ---
 
@@ -308,27 +318,17 @@ Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw aw
 
 📺 When Shift Happens
 
-👁️ 9K • 👍 404 • 💬 150 • ⏱️ 49:16 • 21h ago
+👁️ 10K • 👍 414 • 💬 192 • ⏱️ 49:16 • 22h ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 6 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=tpTljwk5Bhw)**
+**[Bitcoin Bottom Forming? ETH Accumulation Surges While Crypto Fear Spikes | MSTR BMNR](https://www.youtube.com/watch?v=qXEAgObFIqo)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
 
-📺 Aryan trader Live
+📺 MONEY GAME
 
-👁️ 2K • 👍 1K • 2h ago
-
----
-
-**[Bitcoin &amp; Ethereum &quot;Buy&quot; 50% Below Record Highs, ETFs Adding Exposure](https://www.youtube.com/watch?v=zr0xNUhtXcY)**
-
-Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum are both buys amid steep sell-offs in the crypto ...
-
-📺 Schwab Network
-
-👁️ 6K • 👍 72 • 💬 11 • ⏱️ 8:40 • 2d ago
+👁️ 1K • 👍 73 • 💬 12 • ⏱️ 31:22 • 2h ago
 
 ---
 

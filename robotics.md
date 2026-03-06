@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-06T12:58:54.524048+00:00'
+updated: '2026-03-06T13:58:43.895821+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 06, 2026 at 12:58 UTC  
+**Last Updated:** March 06, 2026 at 13:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Update on my 6-DOF desktop arm project: I’ve officially moved into the mechanical prototyping phase, starting with the most complex hurdle—the Wrist. The goal was to pack 3 degrees of freedom into a compact volume while keeping everything 3D printable. I modeled an Omni-Wrist mechanism in OnShape with “perfect” dimensions, using a series of butt-hinge linkages with 3D-printed pins. On-screen, the digital assembly worked flawlessly, but reality hit hard. The Fail: My first print had zero play. While "zero-clearance" sounds great in CAD, filament expansion turned the whole assembly into a static paperweight. The tolerances were too tight, the hinges seized, and the pins were impossible to seat without snapping the linkages. The Pivot: I went back to the "Model-Print-Iterate" cycle. I increased the clearances to 0.2mm and redesigned the pivot points as snap-fit pins. This allows the linkages to stay secure under pressure while maintaining enough "fluidity" for manual movement. The Query: For those who build small-scale linkages: Pin Durability: Do 3D-printed pins actually hold up under the repetitive stress of a 6-DOF arm, or is it a fool's errand? Should I move to metal dowel pins now before I build the rest of the arm? Hinge Alternatives: Given the friction issues with 3D-printed butt hinges, is there a more efficient hinge style or linkage structure you'd recommend for a 3-DOF wrist that is easier to assemble and maintain?
 
-3h ago
+4h ago
 
 ---
 
 **[I’ve open-sourced my robots!](https://www.reddit.com/r/robotics/comments/1rll5z2/ive_opensourced_my_robots/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ Update on my 6-DOF desktop arm project: I’ve officially moved into the mechani
 
 From an engineering perspective, wouldn’t other designs—like cantilever-type or hemispherical robots—be more practical and efficient for most real-world applications? Human-shaped robots seem mechanically complex, expensive, and often less stable compared to simpler structures. So is the humanoid form mainly for environments designed for humans, or is it more about research, marketing, and public perception?
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ From an engineering perspective, wouldn’t other designs—like cantilever-type
 
 For those following the project, this is Bimo walking on a regular carpet, something that used to be very unreliable without hand-tuning the environment or the RL model. Over the last months I’ve retrained and tweaked the walking model so it’s much more robust: it now keeps a stable heading instead of drifting or turning, and it tolerates uneven contact and small disturbances much better than before. Next on the roadmap are behaviors such as: turning gaits, better recovery under sustained pushes, and more pre-programmed motions to make Bimo a practical research and tinkering platform rather than just a locomotion demo. As these stabilize, I’ll be adding them to the open-source GitHub repo and documenting them in the Discord so others can build on top of this. If you want to see the full kit and platform details, there’s also a page on the Mekion site with specs and pre-order info.
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ For those following the project, this is Bimo walking on a regular carpet, somet
 
 I have been a robotics engineer all my life, worked 3 years full-time and am about to graduate from Carnegie Mellon with a masters degree in Robotics in May. I've been offered a position at Apple (camera modules) to help build smart front cameras. But, it doesn't involve robotics hardware - think of it as ML-based CV on edge at scale. Over my masters degree, I've built a keen interest in RL and autonomy in robotics; I am afraid I will lose touch and fall behind this domain that's poised to explode. On the flip side, there's the uncertainty in the job market for engineers at my level and all the pros that come with working at Apple. If you were in my shoes, how would you navigate this situation? Happy to provide any clarifications needed.
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have been a robotics engineer all my life, worked 3 years full-time and am abo
 
 Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot project. My design has 18 coils and 20 magnets in the stator and the rotor. I used 0.5mm copper wire for the coils and 10x5x2mm magnets for the rotor. For the ESC I'm using the 40A brushless motor esc with a 3S lipo battery. The stator's inner diameter is roughly 80 mm and outer diameter is around 100mm. However after assembling the motor and plugging it into the ESC the coils had extremely low pull force (it can barely move a single magnet) . What could be the issue here? I've tried rewiring the coils but it didn't change anything. All of the coils are wired clockwise with the ends of each phase soldered together. Also do you have any tips on how to make a motor that has more torque? What I'm aiming for is 12 Nm
 
-13h ago
+14h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hey guys, so I'm trying to make a custom bldc motor for a future quadroped robot
 
 At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor system that integrates drive, braking, and steering within each wheel unit.
 
-19h ago
+20h ago
 
 ---
 
@@ -90,7 +90,7 @@ At the core of the Unmanned Firefighting Robot is a compact 6×6 in-wheel motor 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-t8bU_Kwav8) • 10h ago
 
 ---
 
@@ -98,7 +98,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi everyone, I'm working on a small robot project using an Arduino Uno and I'm currently thinking about the best way to structure the code as the project grows. Right now the robot has several modules: a sonar sensor mounted on a servo for scanning, a LED matrix for expressions, and another servo that controls a small shutter on the head. The project is starting to grow and I'm trying to design the architecture in a way that stays maintainable. My current idea is roughly this: Hardware modules implemented as classes (Sonar, ServoManager, Matrix, etc.) Behavior logic implemented as functions that run in the main loop A simple state machine (sleep, idle, active) A behavior manager that runs small "micro-behaviors" depending on the current state Each behavior function gets called every loop, but internally decides whether to do something based on timers (millis()) or hardware availability (for example checking if a servo is already moving). Something like: updateStates() updateBehavior() servos.update() matrix.update() Inside the behavior manager I would have things like: idleLookAround() idleBlinkMatrix() idleSonarSweep() Each one is independent and just returns quickly if it’s not time to act yet. So the architecture ends up being somewhat hybrid: OOP for hardware abstraction procedural / functional style for behaviors and state logic. My questions are: Is this a reasonable architecture for a small Arduino robot? Would you structure behaviors differently (for example using classes for behaviors as well)? Are there patterns commonly used in robotics projects on microcontrollers that I should look into? I'm trying to keep the loop non-blocking and avoid delays so everything can run smoothly. Any advice or examples from your own robot projects would be really appreciated. https://reddit.com/link/1rm69io/video/kgwdn0ux8dng1/player
 
-6h ago
+7h ago
 
 ---
 
@@ -118,7 +118,7 @@ Website: https://openmind.org/ From OpenMind on 𝕏: https://x.com/openmind_agi
 
 Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
-Fox Business • 18h ago
+Fox Business • 19h ago
 
 ---
 
@@ -134,7 +134,7 @@ Business Insider • 1d ago
 
 Amazon recently abandoned an innovative robotic line that it had deployed last year in an effort to streamline some of its warehouse operations.
 
-bgr.com • 14h ago
+bgr.com • 15h ago
 
 ---
 
@@ -142,7 +142,7 @@ bgr.com • 14h ago
 
 It’s the first year of Westview Middle School’s robotics program, but one of their teams has become a quick success.
 
-Live 5 News • 2h ago
+Live 5 News • 3h ago
 
 ---
 
@@ -150,7 +150,7 @@ Live 5 News • 2h ago
 
 When all is said and done, practicality trumps technological "wow!"
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -164,13 +164,13 @@ Nature • 1d ago
 
 **[Humanoid robots master parkour and acquire human-like agility](https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html)**
 
-Tech Xplore • 23h ago
+Tech Xplore • 1d ago
 
 ---
 
 **[Rise of robots? Texas Instruments joins forces with Nvidia to help developers build androids](https://seekingalpha.com/news/4561341-rise-of-robots-texas-instruments-joins-forces-with-nvidia-to-help-developers-build-androids)**
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -196,7 +196,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 325K • 👍 23K • 💬 3K • ⏱️ 16:54 • 2d ago
+👁️ 332K • 👍 23K • 💬 3K • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 8K • 👍 235 • 💬 22 • ⏱️ 29:41 • 12h ago
+👁️ 10K • 👍 276 • 💬 25 • ⏱️ 29:41 • 13h ago
 
 ---
 
@@ -216,7 +216,27 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 17K • 👍 675 • 💬 49 • ⏱️ 14:35 • 1d ago
+👁️ 17K • 👍 678 • 💬 49 • ⏱️ 14:35 • 1d ago
+
+---
+
+**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
+
+War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
+
+📺 Adrian Chong
+
+👁️ 6K • 👍 351 • 💬 60 • ⏱️ 15:24 • 23h ago
+
+---
+
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
+
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
+
+📺 CGTN Europe
+
+👁️ 200K • 👍 365 • 💬 7 • ⏱️ 29:40 • 2d ago
 
 ---
 
@@ -226,45 +246,7 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 34K • 👍 2K • 💬 232 • ⏱️ 0:13 • 2d ago
-
----
-
-**[Figure AI Just Dropped a FULLY Autonomous AI Robot… It Works 24/7](https://www.youtube.com/watch?v=5sSzuXp3Wsg)**
-
-Figure AI has just dropped a fully autonomous AI robot — and it's now operating 24/7 without human supervision. In this video, we ...
-
-📺 The AI Nexus
-
-👁️ 8K • 👍 231 • 💬 29 • ⏱️ 27:19 • 5d ago
-
----
-
-**[2026 FRC 971 Spartan Robotics Robot Reveal - “Mixtape”](https://www.youtube.com/watch?v=SebMftdHsic)**
-
-Team 971 reveal of our robot, named Mixtape, for First Robotics Competition 2026 season game Rebuilt. Come see this robot ...
-
-📺 smanrobotics
-
-👁️ 7K • 👍 184 • 💬 12 • ⏱️ 0:47 • 1d ago
-
----
-
-**[Japan&#39;s Most Famous Android Builder Finds His Robot Legs in China #humanoidrobots #robotics #robots](https://www.youtube.com/watch?v=xqMWtcsLyYc)**
-
-Japan's Most Famous Android Builder Just Found His Robot Legs in China The Japanese robotics legend Hiroshi Ishiguro is ...
-
-📺 Kalil 4.0
-
-👁️ 770 • 👍 21 • 💬 1 • ⏱️ 1:08 • 16h ago
-
----
-
-**[robot girl link in bio #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=yjz_m8MmYDw)**
-
-📺 XDollHub
-
-👁️ 587K • 👍 3K • 💬 7 • ⏱️ 0:11 • 2d ago
+👁️ 34K • 👍 2K • 💬 236 • ⏱️ 0:13 • 2d ago
 
 ---
 
@@ -274,7 +256,7 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 55K • 👍 851 • 💬 50 • ⏱️ 1:29:27 • 5d ago
+👁️ 55K • 👍 853 • 💬 50 • ⏱️ 1:29:27 • 5d ago
 
 ---
 
@@ -285,6 +267,22 @@ Currently ranked 10th in the world, 3565 Ghost Robotics showcases one of the fas
 📺 FUN Robotics Network
 
 👁️ 5K • 👍 89 • 💬 1 • ⏱️ 1:11 • 2d ago
+
+---
+
+**[Joe Rogan Is Worried About Robot Eyes](https://www.youtube.com/watch?v=Sqv1fuF9r0w)**
+
+📺 DATARK
+
+👁️ 30K • 👍 414 • 💬 4 • ⏱️ 0:25 • 1d ago
+
+---
+
+**[robot girl link in bio #xdollhub#realdoll#siliconedoll#realisitcdoll#dolls](https://www.youtube.com/watch?v=yjz_m8MmYDw)**
+
+📺 XDollHub
+
+👁️ 610K • 👍 3K • 💬 7 • ⏱️ 0:11 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T12:58:54.505854+00:00'
+updated: '2026-03-06T13:58:43.877936+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 12:58 UTC  
+**Last Updated:** March 06, 2026 at 13:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Residents Say Elon Musk's AI Facility Is Like Living Next Door to Mordor](https://www.reddit.com/r/artificial/comments/1rmb7o5/residents_say_elon_musks_ai_facility_is_like/)**
-
-Residents of a once quiet Mississippi town complain that Elon Musk's AI facility is constantly emitting a horrible noise.
-
-🔗 [Futurism](https://futurism.com/artificial-intelligence/elon-musk-ai-facility-mordor) • 1h ago
-
----
-
 **[Built a tool that geolocated the missile strikes in Qatar using AI](https://www.reddit.com/r/artificial/comments/1rm9dn9/built_a_tool_that_geolocated_the_missile_strikes/)**
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-3h ago
+4h ago
 
 ---
 
 **[Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict](https://www.reddit.com/r/artificial/comments/1rls9fs/pentagon_formally_labels_anthropic_supplychain/)**
 
-🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 16h ago
+🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 17h ago
 
 ---
 
@@ -63,15 +55,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex. "Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging," says Benjamin Nephew, assistant research professor in the Department of Biology and Biotechnology. "We found that machine-learning technologies, however, can analyze large amounts of data from scans to identify subtle changes and accurately predict Alzheimer's disease and related cognitive states. This advance has informed Alzheimer's disease research and may lead to methods that could allow doctors to diagnose and treat the disease earlier and more effectively." Alzheimer's disease is a neurodegenerative disorder that impairs mental functions and ultimately leads to death. An estimated 6.9 million Americans age 65 and older are living with Alzheimer's disease. Healthy brains contain billions of neurons, the cells that process and transmit signals needed for thought, movement, and other bodily functions. Alzheimer's disease injures neurons, leading to cell death and loss of brain tissue and associated cognitive functions. Analyzing data-rich MRI images can require substantial computing power and time. To focus their investigation, the WPI researchers first used machine learning to analyze 815 MRI scans for volume measurements in 95 brain regions. Then they deployed an algorithm to make predictions based upon differences in the measurements between healthy individuals and those with mild cognitive impairment or Alzheimer's disease. Results showed that the method was 92.87% accurate in detecting Alzheimer's disease among normal brains and brains of people with mild cognitive impairment.
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 12h ago
-
----
-
-**[AI swarms are no longer just bots — they coordinate like hives, adapt in real-time, and we're not ready](https://www.reddit.com/r/artificial/comments/1rmasa5/ai_swarms_are_no_longer_just_bots_they_coordinate/)**
-
-Researchers are raising alarms about a new class of AI-driven manipulation: coordinated AI swarms that go far beyond traditional bot networks. Unlike old-school bots that spam identical messages, these swarms operate with persistent identities, memory, and hive-like coordination — adapting their tone, adopting local slang, and generating context-aware responses at machine speed. The result is synthetic consensus: the illusion of widespread public agreement on fabricated narratives, powerful enough to sway elections. There's already empirical evidence of this playing out in several recent elections across Asia. What's more concerning is the long-term feedback loop. These swarms don't just manipulate people — they contaminate the training data that future AI models learn from. So the next generation of models inherits the biases planted by the current wave of manipulation, creating a self-perpetuating cycle that gets harder to break with each iteration. I wrote a deeper analysis of this on my site: https://cosmicmeta.ai/ai-swarms-could-escalate-online-misinformation-and-manipulation-researchers-warn/ Curious what this community thinks about whether detection-based defenses can ever keep up with AI swarms, or if we need a fundamentally different approach like mandatory algorithmic transparency and some form of identity verification. I've seen arguments on both sides, but I lean toward thinking that detection alone is a losing game — these systems evolve faster than filters can adapt, and the real solution probably has to be structural (transparency, shared threat intelligence, digital literacy) rather than purely technical.
-
-2h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 13h ago
 
 ---
 
@@ -79,7 +63,7 @@ Researchers are raising alarms about a new class of AI-driven manipulation: coor
 
 Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
 
-12h ago
+13h ago
 
 ---
 
@@ -87,7 +71,13 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 12h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 13h ago
+
+---
+
+**[Frameworks Are Dead. Architects Are Not.](https://www.reddit.com/r/artificial/comments/1rm2ue6/frameworks_are_dead_architects_are_not/)**
+
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 10h ago
 
 ---
 
@@ -107,9 +97,17 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 ---
 
-**[Frameworks Are Dead. Architects Are Not.](https://www.reddit.com/r/artificial/comments/1rm2ue6/frameworks_are_dead_architects_are_not/)**
+**[Nvidia’s Jensen Huang Rules Out $100 Billion OpenAI Investment](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 9h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment) • 1d ago
+
+---
+
+**[AMD engineer leverages AI to help make a pure-Python AMD GPU user-space driver](https://www.reddit.com/r/artificial/comments/1rl27ei/amd_engineer_leverages_ai_to_help_make_a/)**
+
+AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a pure-Python AMD GPU user-space driver
+
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver) • 1d ago
 
 ---
 
@@ -121,7 +119,7 @@ So ai can uncover your anonymous identity on social media now so creating burner
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 16h ago
+Anthropic • 17h ago
 
 ---
 
@@ -129,7 +127,7 @@ Anthropic • 16h ago
 
 The Pentagon said in a statement Thursday that it has "officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately."
 
-NPR • 6h ago
+NPR • 7h ago
 
 ---
 
@@ -137,7 +135,7 @@ NPR • 6h ago
 
 Two urban innovation experts lay out the case
 
-Fast Company • 21m ago
+Fast Company • 1h ago
 
 ---
 
@@ -145,25 +143,25 @@ Fast Company • 21m ago
 
 "If you start thinking of skills, rather than jobs, as the currency of work, what choices would you make in how work gets done?"
 
-Fortune • 10m ago
+Fortune • 1h ago
 
 ---
 
 **[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
 **[AI overuse could spark "brain fry," new research finds](https://www.axios.com/2026/03/06/ai-chatgpt-claude-jobs-brain-fry)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
 **[Cursor Goes To War For AI Coding Dominance](https://www.forbes.com/sites/annatong/2026/03/05/cursor-goes-to-war-for-ai-coding-dominance/)**
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
@@ -171,7 +169,7 @@ Forbes • 17h ago
 
 First known military strike on a US hyperscaler rattles regional ambitions to build multibillion-dollar cloud facilities
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
@@ -179,7 +177,7 @@ Financial Times • 4h ago
 
 Oracle Corp. is planning to ax thousands of jobs, among its moves to handle a cash crunch from a massive AI data center expansion effort.
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -187,7 +185,7 @@ Bloomberg.com • 18h ago
 
 Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -207,7 +205,7 @@ Apple today announced the new MacBook Air with M5, bringing exceptional performa
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 391 • 💬 377 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 392 • 💬 377 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -223,13 +221,13 @@ Leonardo de Moura — Creator of Lean and Z3
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 232 • 💬 348 • 14h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 241 • 💬 379 • 15h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 217 • 💬 74 • 14h ago • [406.fail](https://406.fail/)
+⬆️ 227 • 💬 78 • 15h ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -238,14 +236,6 @@ Anthropic is an AI safety and research company that's working to build reliable,
 The case is the first wrongful death case against Google over alleged harms caused by Gemini.
 
 ⬆️ 192 • 💬 251 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/czx44p99457o)
-
----
-
-**[AI-generated art can’t be copyrighted after Supreme Court declines review](https://news.ycombinator.com/item?id=47232289)**
-
-A lower court previously said that “human authorship is a bedrock requirement of copyright.”
-
-⬆️ 192 • 💬 149 • 2d ago • [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
 
 ---
 
@@ -265,6 +255,14 @@ Human DX optimizes for discoverability. Agent DX optimizes for predictability. W
 
 ---
 
+**[AI and the Ship of Theseus](https://news.ycombinator.com/item?id=47263048)**
+
+Slopforks: what happens when a library gets rewritten with AI?
+
+⬆️ 138 • 💬 144 • 22h ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+
+---
+
 **[Did Alibaba just kneecap its powerful Qwen AI team?](https://news.ycombinator.com/item?id=47246746)**
 
 The takeaway? If you value Qwen's open source efforts, download and preserve the models now, while you still can.
@@ -277,13 +275,23 @@ The takeaway? If you value Qwen's open source efforts, download and preserve the
 
 ## YouTube Videos: "ai"
 
+**[How To Create Long 3D AI Animation with Consistent Characters](https://www.youtube.com/watch?v=VSWApcIZFC4)**
+
+Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI tool I used ...
+
+📺 Mira AI
+
+👁️ 2K • ⏱️ 9:10 • 1h ago
+
+---
+
 **[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
 
 China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
 
 📺 AI Revolution
 
-👁️ 22K • 👍 832 • 💬 78 • ⏱️ 10:56 • 13h ago
+👁️ 25K • 👍 880 • 💬 83 • ⏱️ 10:56 • 14h ago
 
 ---
 
@@ -293,7 +301,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 325K • 👍 23K • 💬 3K • ⏱️ 16:54 • 2d ago
+👁️ 332K • 👍 23K • 💬 3K • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -303,7 +311,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 60K • 👍 3K • 💬 183 • ⏱️ 17:49 • 22h ago
+👁️ 63K • 👍 3K • 💬 196 • ⏱️ 17:49 • 23h ago
 
 ---
 
@@ -313,47 +321,7 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 121K • 👍 6K • 💬 1K • ⏱️ 21:38 • 17h ago
-
----
-
-**[How to Tell What&#39;s Real and What&#39;s AI-Generated on Social Media](https://www.youtube.com/watch?v=MtEe3NJnqQs)**
-
-Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and more, are spreading on Instagram, Facebook, ...
-
-📺 TODAY
-
-👁️ 784K • 👍 10K • 💬 1K • ⏱️ 8:38 • 1d ago
-
----
-
-**[OpenAI GPT 5.4 Leak Shocks The Internet With Massive Power](https://www.youtube.com/watch?v=uiaeK24E4k8)**
-
-OpenAI's GPT 5.4 appeared in leaked code with references to a 2M token context window and original resolution image ...
-
-📺 AI Revolution
-
-👁️ 52K • 👍 1K • 💬 128 • ⏱️ 11:54 • 2d ago
-
----
-
-**[AI Expert Tells Bernie: “The Humans will be Discarded”](https://www.youtube.com/watch?v=1oS35oWWl28)**
-
-Will AI become smarter than humans? If so, is humanity in danger? I went to Silicon Valley to ask some of the leading AI experts ...
-
-📺 Senator Bernie Sanders
-
-👁️ 183K • 👍 9K • 💬 3K • ⏱️ 9:38 • 1d ago
-
----
-
-**[If YOU Can&#39;t Tell What&#39;s AI, You NEED To See This!](https://www.youtube.com/watch?v=vIJXfUy5cT4)**
-
-World-renowned security expert Gavin de Becker explains why AI is making it nearly impossible to tell what is real and what is ...
-
-📺 The Diary Of A CEO Clips
-
-👁️ 38K • 👍 1K • 💬 77 • ⏱️ 21:25 • 1d ago
+👁️ 133K • 👍 6K • 💬 1K • ⏱️ 21:38 • 18h ago
 
 ---
 
@@ -363,7 +331,27 @@ What if AI made your paycheck optional? Vinod Khosla, one of the world's greates
 
 📺 Fortune Magazine
 
-👁️ 13K • 👍 295 • 💬 73 • ⏱️ 37:04 • 1d ago
+👁️ 13K • 👍 304 • 💬 76 • ⏱️ 37:04 • 1d ago
+
+---
+
+**[My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](https://www.youtube.com/watch?v=PEFso88LkC4)**
+
+Try Flow Pro free for 14 days + get an extra month free with my code TECHWITHTIM! Start here: ...
+
+📺 Tech With Tim
+
+👁️ 42K • 👍 2K • 💬 435 • ⏱️ 15:01 • 1d ago
+
+---
+
+**[If YOU Can&#39;t Tell What&#39;s AI, You NEED To See This!](https://www.youtube.com/watch?v=vIJXfUy5cT4)**
+
+World-renowned security expert Gavin de Becker explains why AI is making it nearly impossible to tell what is real and what is ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 39K • 👍 1K • 💬 79 • ⏱️ 21:25 • 1d ago
 
 ---
 
@@ -373,7 +361,17 @@ The Supreme Court of the United States of America has officially turned away a k
 
 📺 Vailskibum
 
-👁️ 314K • 👍 23K • 💬 4K • ⏱️ 2:09 • 1d ago
+👁️ 316K • 👍 23K • 💬 4K • ⏱️ 2:09 • 1d ago
+
+---
+
+**[STOP Building AI Agents. Do THIS Instead.](https://www.youtube.com/watch?v=wqH1hTkA6qg)**
+
+Download the Skills Library + Learn to Build Sellable AI Projects https://skool.com/aiworkshop Get the tool (FREE) ...
+
+📺 Zubair Trabzada | AI Workshop
+
+👁️ 18K • 👍 785 • 💬 37 • ⏱️ 11:51 • 1d ago
 
 ---
 
@@ -389,7 +387,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 516,030 • ❤️ 502 • 4d ago
+⬇️ 516,030 • ❤️ 509 • 4d ago
 
 ---
 
@@ -401,7 +399,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,000,738 • ❤️ 981 • 7d ago
+⬇️ 1,000,738 • ❤️ 985 • 7d ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 265,017 • ❤️ 287 • 4d ago
+⬇️ 265,017 • ❤️ 288 • 4d ago
 
 ---
 
@@ -425,7 +423,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 919,117 • ❤️ 543 • 19h ago
+⬇️ 919,117 • ❤️ 545 • 20h ago
 
 ---
 
@@ -437,7 +435,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 232,531 • ❤️ 254 • 4d ago
+⬇️ 232,531 • ❤️ 256 • 4d ago
 
 ---
 
@@ -449,7 +447,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 34,959 • ❤️ 215 • 22h ago
+⬇️ 34,959 • ❤️ 225 • 23h ago
 
 ---
 
@@ -473,7 +471,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 561,727 • ❤️ 597 • 9d ago
+⬇️ 561,727 • ❤️ 598 • 9d ago
 
 ---
 
@@ -485,7 +483,7 @@ An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for r
 
 `image-text-to-text` `36.0B`
 
-⬇️ 21,100 • ❤️ 180 • 4d ago
+⬇️ 21,100 • ❤️ 181 • 4d ago
 
 ---
 
@@ -497,7 +495,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 470,144 • ❤️ 962 • 8d ago
+⬇️ 470,144 • ❤️ 963 • 8d ago
 
 ---
 
@@ -513,7 +511,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 123 • 💬 5 • ⭐ 597 • 1d ago
+▲ 124 • 💬 5 • ⭐ 597 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -620,17 +618,18 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://huggingface.co/papers/2603.02138)**
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
-*Yiying Yang, Wei Cheng, Sijin Chen et al. (8 authors)*
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
 
-🏢 Fudan University
+🏢 IBM Granite
 
-OmniLottie framework generates high-quality vector animations from multi-modal instructions using a specialized Lottie tokenizer and pretrained vision-language models.
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 130 • 💬 4 • ⭐ 338 • 3d ago
+▲ 150 • 💬 19 • ⭐ 55,025 • 11mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2603.02138) • [💻 code](https://github.com/OpenVGLab/OmniLottie) • [🔗 project](https://openvglab.github.io/OmniLottie/)
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -644,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.8k • 🔱 3.0k • 2h ago
+⭐ 23.8k • 🔱 3.0k • 3h ago
 
 ---
 
@@ -654,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 13.0k • 🔱 439 • 9h ago
+⭐ 13.3k • 🔱 448 • 10h ago
 
 ---
 
@@ -664,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.9k • 🔱 967 • 1h ago
+⭐ 8.9k • 🔱 970 • 4m ago
 
 ---
 
@@ -674,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.6k • 🔱 821 • 2d ago
+⭐ 6.7k • 🔱 826 • 2d ago
 
 ---
 
@@ -684,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.3k • 🔱 467 • 23h ago
+⭐ 6.4k • 🔱 471 • 1d ago
 
 ---
 
@@ -694,7 +693,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.7k • 🔱 664 • 11h ago
+⭐ 5.7k • 🔱 665 • 12h ago
 
 ---
 
@@ -704,7 +703,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 4.1k • 🔱 318 • 21h ago
+⭐ 4.2k • 🔱 331 • 22h ago
 
 ---
 
@@ -714,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 382 • 1h ago
+⭐ 3.5k • 🔱 382 • 2h ago
 
 ---
 
@@ -724,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 239 • 3h ago
+⭐ 3.3k • 🔱 239 • 4h ago
 
 ---
 
@@ -734,7 +733,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 624 • 3d ago
+⭐ 3.2k • 🔱 626 • 3d ago
 
 ---
 
