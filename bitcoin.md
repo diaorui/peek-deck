@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T14:48:49.358539+00:00'
+updated: '2026-03-06T15:38:37.827626+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 14:48 UTC  
+**Last Updated:** March 06, 2026 at 15:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,958.67
+### $68,603.83
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I tracked every Bitcoin drawdown over 20% since 2010. Here's what the data actually shows.](https://www.reddit.com/r/Bitcoin/comments/1rmd167/i_tracked_every_bitcoin_drawdown_over_20_since/)**
-
-We're sitting in a 47% drawdown right now and I keep getting asked the same question by people new to Bitcoin - "has it been this bad before?" So I went back to the actual data. Every weekly closing price since August 2010 when BTC was $0.07. Short answer: yes, much worse. Many times. The full list: # Peak Trough Depth Time to New ATH 1 Nov 2010 ($0.34) Dec 2010 ($0.23) -32% 70 days 2 Feb 2011 ($1.09) Apr 2011 ($0.77) -29% 70 days 3 May 2011 ($8.82) May 2011 ($6.61) -25% 21 days 4 Jun 2011 ($29) Nov 2011 ($2.35) -92% 1.7 years 5 Apr 2013 ($144) Jul 2013 ($70) -51% 196 days 6 Dec 2013 ($1,119) Jan 2015 ($210) -81% 3.2 years 7 Mar 2017 ($1,267) Mar 2017 ($967) -24% 56 days 8 Jun 2017 ($2,958) Jul 2017 ($1,930) -35% 56 days 9 Sep 2017 ($4,583) Sep 2017 ($3,583) -22% 35 days 10 Dec 2017 ($19,141) Dec 2018 ($3,253) -83% 3.0 years 11 Feb 2021 ($57,540) Feb 2021 ($45,138) -22% 21 days 12 Apr 2021 ($60,205) Jul 2021 ($31,797) -47% 189 days 13 Nov 2021 ($65,467) Nov 2022 ($16,292) -75% 2.3 years 14 Mar 2024 ($71,334) Sep 2024 ($54,842) -23% 224 days 15 Dec 2024 ($104,299) Apr 2025 ($78,214) -25% 154 days 16 Oct 2025 ($123,513) Mar 2026 ($65,738) -47% Active 16 drawdowns over 20%. Four of them were absolute bloodbaths — 75% to 92% declines. And the current one? 47%, which is actually middle of the road by Bitcoin standards. The stat that matters is: 15 out of 15 completed drawdowns recovered to a new all-time high. Not most. All of them. Even the -92% in 2011 when the entire thing looked like it was going to zero. The pattern is weirdly bimodal too — Bitcoin has tended to either have a shallow 20-35% correction that resolves in weeks, or a deep 75%+ bear market that takes years. Not much in between. The current -47% is kind of in no mans land. Obviously past recoveries don't guarantee the next one. Bitcoin could theoretically go to zero — protocol vulnerability, coordinated ban, whatever. But 15 for 15 across 15 years including a 92% crash is a hell of a track record. And definitely does not fit the mainstream Ponzi scheme narrative. Ponzi schemes don't recover from crashes 15 times to new ATH's. The longest full cycle (peak to new ATH) was 3.2 years — the Mt. Gox era. If your time horizon is longer than that, history has been on your side so far. I built an interactive version where you can adjust the threshold and see underwater charts — link in comments if anyone wants to play with it.
-
-2h ago
-
----
-
 **[Indiana signs bill allowing retirement funds to invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rm5xmn/indiana_signs_bill_allowing_retirement_funds_to/)**
 
 Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
 
-8h ago
+9h ago
+
+---
+
+**[Kazakhstan’s central bank considering up to $350M investment in Bitcoin and crypto](https://www.reddit.com/r/Bitcoin/comments/1rmeit8/kazakhstans_central_bank_considering_up_to_350m/)**
+
+According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
+
+1h ago
 
 ---
 
@@ -97,7 +97,15 @@ Indiana Governor Mike Braun recently signed a bill that allows certain retiremen
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-4h ago
+5h ago
+
+---
+
+**[How Bitcoin Works Under the Hood, explained 13 years ago](https://www.reddit.com/r/Bitcoin/comments/1rmexsq/how_bitcoin_works_under_the_hood_explained_13/)**
+
+I believe the video was created by u/scott_ci and it still explains how Bitcoin works, pretty well (except the address/public key mistake).
+
+🔗 [youtu.be](https://youtu.be/Lx9zgZCMqXE) • 1h ago
 
 ---
 
@@ -105,7 +113,7 @@ A trader I know got completely burnt because of a 2% dip. If you are one of them
 
 Hi - I'm new to Bitcoin and planning to buy every week for $100 to $150. How often do you move your Bitcoin to storage? To be safe, I'm planning to buy a code storage. Pls recommend one. Appreciate your help.
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +121,7 @@ Hi - I'm new to Bitcoin and planning to buy every week for $100 to $150. How oft
 
 With the recent US strike on Iran, investors are again asking a familiar question: how does Bitcoin (BTC) behave when geopolitics turns kinetic? Crypto markets trade 24/7, digest headlines instantly, and often serve as a real-time barometer of global risk appetite. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-wartime-tale-two-shocks) • 6h ago
+🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-wartime-tale-two-shocks) • 7h ago
 
 ---
 
@@ -121,7 +129,15 @@ With the recent US strike on Iran, investors are again asking a familiar questio
 
 Hey guys What is your bitcoin dca scheduled for currently? Daily, weekly, monthly? I would like to hear what you do, the reasoning behind it and what you believe yields the best results for more bang for your buck!
 
-5h ago
+6h ago
+
+---
+
+**[Changing consensus, VTXOs, nVersion nonce space - Bitcoin Optech Newsletter #395](https://www.reddit.com/r/Bitcoin/comments/1rmf1nh/changing_consensus_vtxos_nversion_nonce_space/)**
+
+Bitcoin Optech newsletter #395 is here: - describes a standard for verifying VTXOs across different Ark implementations - links to a draft BIP for expanding the miner-usable nonce space in the block header’s nVersion field - points to extensions to standard tooling for TEMPLATEHASH-CSFS-IK support - summarizes updates to the Hourglass V2 proposal - examines perspectives on cryptographic algorithm agility for Bitcoin - Optech Newsletter #395 Podcast Jgmcalpine posted to Delving Bitcoin about his proposal for V-PACK, a stateless VTXO verification standard, which aims to provide a mechanism to independently verify and visualize VTXOs in the Ark ecosystem... https://bitcoinops.org/en/newsletters/2026/03/06/#a-standard-for-stateless-vtxo-verification Matt Corallo posted to the Bitcoin-Dev mailing list a draft BIP to increase the number of bits available in nVersion’s nonce space for miners from 16 to 24... https://bitcoinops.org/en/newsletters/2026/03/06/#draft-bip-for-expanded-nversion-nonce-space-for-miners Antoine Poinsot wrote on the Bitcoin-Dev mailing list about his preliminary work to integrate the taproot-native OP_TEMPLATEHASH soft fork proposal into miniscript and PSBTs... https://bitcoinops.org/en/newsletters/2026/03/06/#extensions-to-standard-tooling-for-templatehash-csfs-ik-support Mike Casey posted an update to the Bitcoin-Dev mailing list for the Hourglass protocol to mitigate the market impact of quantum attacks against certain lost coins... https://bitcoinops.org/en/newsletters/2026/03/06/#hourglass-v2-update Ethan Heilman wrote on the Bitcoin-Dev mailing list regarding the potential need for RFC7696 Cryptographic Algorithm Agility in Bitcoin... https://bitcoinops.org/en/newsletters/2026/03/06/#algorithm-agility-for-bitcoin Pieter Wuille wrote to the Bitcoin-Dev mailing list about the limitations of the cryptographic agility... https://bitcoinops.org/en/newsletters/2026/03/06/#the-limitations-of-cryptographic-agility-in-bitcoin Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 17:30 UTC.
+
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/06/) • 1h ago
 
 ---
 
@@ -129,15 +145,7 @@ Hey guys What is your bitcoin dca scheduled for currently? Daily, weekly, monthl
 
 It's just like this, every single time. No matter what.
 
-17h ago
-
----
-
-**[I built a luxury Bitcoin desk ticker with an engraved back](https://www.reddit.com/r/Bitcoin/comments/1rll3je/i_built_a_luxury_bitcoin_desk_ticker_with_an/)**
-
-I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets looked cheap or plastic, so I made this — the Obsidian Edition, with a engraved back and a clean display. Curious what the community thinks! We made 5 units for the first batch to see how people like it.
-
-22h ago
+18h ago
 
 ---
 
@@ -145,15 +153,7 @@ I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets look
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
-
----
-
-**[Wyoming buys stake in Strive ASST](https://www.reddit.com/r/Bitcoin/comments/1rmchqz/wyoming_buys_stake_in_strive_asst/)**
-
-The State of Wyoming bought $111k worth of shares in Bitcoin Treasury company Strive Inc
-
-🔗 [BitcoinTreasuries.NET](https://bitcointreasuries.net/news/wyoming-buys-stake-in-bitcoin-treasury-company-strive-inc) • 2h ago
+9h ago
 
 ---
 
@@ -171,13 +171,13 @@ Bloomberg • 17h ago
 
 Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
 
-Nasdaq • 7h ago
+Nasdaq • 8h ago
 
 ---
 
 **[Tether backs USDT-on-Bitcoin startup Utexo](https://www.axios.com/pro/fintech-deals/2026/03/06/utexo-usdt-bitcoin-seed)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Axios • 1h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 37m ago
+Fortune • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 37m ago
 
 A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
-WIS News 10 • 10h ago
+WIS News 10 • 11h ago
 
 ---
 
@@ -201,7 +201,7 @@ WIS News 10 • 10h ago
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 11h ago
+NDTV • 12h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 1d ago
 
 Houston-based Solo Satoshi announced the launch of the Bitaxe Turbo Touch, a compact device designed for hobbyists and home miners.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
@@ -225,7 +225,7 @@ Bitcoin Magazine • 17h ago
 
 Brian Dobson lowers price target on a leading Bitcoin mining stock.
 
-thestreet.com • 19h ago
+thestreet.com • 20h ago
 
 ---
 
@@ -267,7 +267,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 **[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
 
-⬆️ 2 • 💬 2 • 3d ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
+⬆️ 2 • 💬 3 • 3d ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
 
 ---
 
@@ -289,7 +289,7 @@ Complete operating system for Bitcoiners
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 23h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 1d ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -325,7 +325,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 487 • 💬 58 • ⏱️ 19:58 • 23h ago
+👁️ 16K • 👍 487 • 💬 58 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 172 • ⏱️ 17:07 • 15h ago
+👁️ 16K • 👍 1K • 💬 172 • ⏱️ 17:07 • 16h ago
 
 ---
 
@@ -345,7 +345,7 @@ A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce
 
 📺 No Bs Crypto
 
-👁️ 10K • 👍 807 • 💬 125 • ⏱️ 12:20 • 20h ago
+👁️ 10K • 👍 807 • 💬 125 • ⏱️ 12:20 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discus
 
 📺 Anthony Pompliano
 
-👁️ 24K • 👍 928 • 💬 12 • ⏱️ 40:52 • 16h ago
+👁️ 24K • 👍 928 • 💬 12 • ⏱️ 40:52 • 17h ago
 
 ---
 
@@ -365,7 +365,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 3K • 👍 351 • 💬 29 • ⏱️ 12:55 • 4h ago
+👁️ 3K • 👍 351 • 💬 29 • ⏱️ 12:55 • 5h ago
 
 ---
 
@@ -375,7 +375,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 139 • ⏱️ 8:38 • 14h ago
+👁️ 36K • 👍 2K • 💬 139 • ⏱️ 8:38 • 15h ago
 
 ---
 
@@ -395,7 +395,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 57K • 👍 2K • 💬 236 • ⏱️ 17:02 • 16h ago
+👁️ 57K • 👍 2K • 💬 236 • ⏱️ 17:02 • 17h ago
 
 ---
 
@@ -405,7 +405,7 @@ Nick Valdez looks at several charts fr today's video! How does Bitcoin, Ethereum
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 176 • 💬 21 • ⏱️ 8:24 • 13h ago
+👁️ 3K • 👍 176 • 💬 21 • ⏱️ 8:24 • 14h ago
 
 ---
 
@@ -415,7 +415,7 @@ Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Cha
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 449 • 💬 181 • ⏱️ 31:02 • 17h ago
+👁️ 8K • 👍 449 • 💬 181 • ⏱️ 31:02 • 18h ago
 
 ---
 

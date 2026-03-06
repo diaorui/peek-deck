@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-06T14:48:49.364543+00:00'
+updated: '2026-03-06T15:38:37.833617+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 14:48 UTC  
+**Last Updated:** March 06, 2026 at 15:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,048.87
+### $1,978.25
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hegotá is the official name of a major Ethereum network upgrade planned for the second half of 2026, following the Glamsterdam upgrade expected earlier in the year, and marking Ethereum’s continued shift toward a biannual release cycle. The name blends Bogotá, the Devcon host city, with the star Heze. https://etherworld.co/all-you-need-to-know-about-ethereum-hegota-upgrade/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hegotá is the official name of a major Ethereum network upgrade planned for the
 
 On March 29, 2016, Digix Global launched what became the first major DAO crowdsale on Ethereum. It raised $5.5 million in under 24 hours — at a time when Ethereum's total market cap was around $600 million. What it was: DigixDAO was a governance token (DGD) for a project aiming to tokenize physical gold bars on Ethereum. The crowdsale contract was deployed at block 1,239,208 and compiled with Solidity v0.3.0. Why it mattered: - It was the first DAO-style crowdsale to raise serious money on Ethereum - It proved that decentralized fundraising could work at scale, months before The DAO - The speed of the raise ($5.5M in <24h) shocked even the Ethereum community - It directly inspired the wave of ICOs that followed in 2017 Independent verification: Developer Piper Merriam independently verified the contract code before the sale, establishing one of the earliest examples of third-party smart contract auditing. The original community discussion happened right here on r/ethereum, with this thread documenting the reaction in real-time. Contract: 0xf0160428a8552ac9bb7e050d90eeade4ddd52843 Full writeup with sources: EthereumHistory.com This was just 7 months before The DAO — and in many ways, it was the proof of concept that made The DAO feel possible. We're documenting these pre-2017 contracts before the context disappears.
 
-47m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ On March 29, 2016, Digix Global launched what became the first major DAO crowdsa
 
 ePBS first devnet live, Aave Labs temp check passed, Synthesis AI + human hackathon
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-14/) • 2h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-14/) • 3h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402. Here's what almost all of them said: "Why would an AI agent pay per usage for a certain app when you can just create a SaaS product, ask for a top-up, and internally use credits?" x402 doesn't replace the per-usage model. It solves one specific problem: no human in the loop. There are 2 use cases: Anonymous autonomous agent. No account. No signup. No pre-loaded balance. Pays mid-task and moves on. Humans with accounts created - that want to automate - a top-up credit model wins with pay per usage with credits. BUT Almost every SaaS would want you to create your account. SO x402 is really only good for automatic top-ups / payments. Change my mind.
 
-21h ago
+22h ago
 
 ---
 
@@ -136,7 +136,7 @@ Hi everyone, If you've been following the Account Abstraction roadmap, you know 
 
 I built SCPF (Smart Contract Pattern Finder) - an open-source security scanner for Ethereum smart contracts. What it does: - Scans contracts for reentrancy, delegatecall, unchecked calls, and other vulnerabilities - Uses YAML templates (easy to customize) - Integrates with GitHub Actions (SARIF output) - Supports up to 6 Etherscan API keys with automatic failover Quick example: bash scpf scan 0x1234... --chains ethereum Built with Rust for speed. MIT licensed. GitHub: https://github.com/Teycir/smartcontractpatternfinder Would love feedback from the community! 🚀
 
-18h ago
+19h ago
 
 ---
 
@@ -144,7 +144,7 @@ I built SCPF (Smart Contract Pattern Finder) - an open-source security scanner f
 
 Been doing Ethereum archaeology and found a useful reminder: token-for-token swap behavior existed on-chain in 2016, long before AMMs were mainstream. What was different vs modern DeFi: - no pooled liquidity / routing engines - much heavier coordination + trust assumptions - primitive UX, but clearly permissionless exchange intent It feels like DeFi history is better modeled as a slow primitive stack (2015-2018) rather than a sudden 2020 birth. Question for the OGs here: which pre-2018 contracts do you consider the most important proto-DeFi stepping stones?
 
-23h ago
+1d ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 37m ago
+Fortune • 1h ago
 
 ---
 
@@ -224,7 +224,7 @@ Seeking Alpha • 2h ago
 
 Ethereum price started a fresh increase and tested $2,200. ETH is now correcting gains and might decline further if it trades below $2,030.Ethereum Price Starts Downside CorrectionEthereum price started a fresh increase above the $2,065 resistance, like Bitcoin. ETH price rallied above the $2,120 a…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 616 • 👍 53 • 💬 47 • ⏱️ 10:24 • 2h ago
+👁️ 616 • 👍 53 • 💬 47 • ⏱️ 10:24 • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN & CRYPTO: BlackRock Buying Now (Get Ready)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 6K • 👍 258 • 💬 40 • ⏱️ 19:32 • 16h ago
+👁️ 6K • 👍 258 • 💬 40 • ⏱️ 19:32 • 17h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 160 • 💬 6 • ⏱️ 3:54 • 22h ago
+👁️ 2K • 👍 160 • 💬 6 • ⏱️ 3:54 • 23h ago
 
 ---
 
@@ -298,7 +298,7 @@ Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on 
 
 📺 Trading Secrets With Two Side Traders
 
-👁️ 269 • 👍 41 • 💬 5 • ⏱️ 7:56 • 4h ago
+👁️ 269 • 👍 41 • 💬 5 • ⏱️ 7:56 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ RECEBA DE GRAÇA OS MEUS MONITORES DA CAPITULAÇÃO E DE FUNDO: https://bit.ly/3
 
 📺 Bernardo Pascowitch
 
-👁️ 2K • 👍 401 • 2h ago
+👁️ 2K • 👍 401 • 3h ago
 
 ---
 
@@ -318,7 +318,7 @@ Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw aw
 
 📺 When Shift Happens
 
-👁️ 10K • 👍 414 • 💬 192 • ⏱️ 49:16 • 23h ago
+👁️ 10K • 👍 414 • 💬 192 • ⏱️ 49:16 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
 
 📺 MONEY GAME
 
-👁️ 1K • 👍 73 • 💬 12 • ⏱️ 31:22 • 3h ago
+👁️ 1K • 👍 73 • 💬 12 • ⏱️ 31:22 • 4h ago
 
 ---
 

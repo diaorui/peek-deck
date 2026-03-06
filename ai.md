@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-06T14:48:49.349920+00:00'
+updated: '2026-03-06T15:38:37.819112+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - social
 - news
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 06, 2026 at 14:48 UTC  
+**Last Updated:** March 06, 2026 at 15:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-5h ago
+6h ago
 
 ---
 
 **[Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict](https://www.reddit.com/r/artificial/comments/1rls9fs/pentagon_formally_labels_anthropic_supplychain/)**
 
-🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 18h ago
+🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 19h ago
 
 ---
 
@@ -63,7 +63,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
 
-14h ago
+15h ago
 
 ---
 
@@ -71,13 +71,13 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 14h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 15h ago
 
 ---
 
 **[Frameworks Are Dead. Architects Are Not.](https://www.reddit.com/r/artificial/comments/1rm2ue6/frameworks_are_dead_architects_are_not/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 11h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0088-frameworks-dead-architects-are-not) • 12h ago
 
 ---
 
@@ -119,7 +119,7 @@ AMD's VP of AI Software, Anush Elangovan, has used Claude Code to help craft a p
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 18h ago
+Anthropic • 19h ago
 
 ---
 
@@ -127,19 +127,19 @@ Anthropic • 18h ago
 
 The Pentagon said in a statement Thursday that it has "officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately."
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
 **[Anthropic's Claude uncovers 22 Firefox security vulnerabilities](https://www.axios.com/2026/03/06/anthropic-mozilla-claude-opus-bug-hunting)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
 **[February Layoff Numbers From Challenger Undercut AI Fears](https://www.wsj.com/livecoverage/jobs-report-unemployment-stock-market-03-06-2026/card/february-layoff-numbers-from-challenger-undercut-ai-fears-VuF5MVSqXlIqpMTbvrRS?gaa_at=eafs&gaa_n=AWEtsqda8b_NBvcq7EnotDY_skc1SJduqotD0MDJCqAX2djwH5KiM3ccMYnj&gaa_ts=69aaecb8&gaa_sig=23dkSE4D7-c8ZkzdTy8nozyHSm4Nf4WNsfex0GVdy64Q-jv8-kucCpIkKealMBG6b6dEWkwTAIQn913XGOewHw%3D%3D)**
 
-WSJ • 49m ago
+WSJ • 1h ago
 
 ---
 
@@ -147,19 +147,19 @@ WSJ • 49m ago
 
 U.K. researchers developed an AI-powered T-shirt that monitors electrical signals continuously, addressing gaps in traditional ECG testing methods.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
 **[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
 **[Cursor Goes To War For AI Coding Dominance](https://www.forbes.com/sites/annatong/2026/03/05/cursor-goes-to-war-for-ai-coding-dominance/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -167,7 +167,7 @@ Forbes • 19h ago
 
 First known military strike on a US hyperscaler rattles regional ambitions to build multibillion-dollar cloud facilities
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Economist • 1d ago
 
 Oracle Corp. is planning to ax thousands of jobs, among its moves to handle a cash crunch from a massive AI data center expansion effort.
 
-Bloomberg • 20h ago
+Bloomberg • 21h ago
 
 ---
 
@@ -189,19 +189,11 @@ Bloomberg • 20h ago
 
 ## HackerNews: "ai"
 
-**[MacBook Air with M5](https://news.ycombinator.com/item?id=47232502)**
-
-Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.
-
-⬆️ 419 • 💬 508 • 3d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
-
----
-
 **[Relicensing with AI-Assisted Rewrite](https://news.ycombinator.com/item?id=47257803)**
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 392 • 💬 377 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 393 • 💬 379 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -209,7 +201,7 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Leonardo de Moura — Creator of Lean and Z3
 
-⬆️ 303 • 💬 297 • 2d ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
+⬆️ 304 • 💬 298 • 2d ago • [leodemoura.github.io](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 
 ---
 
@@ -217,13 +209,13 @@ Leonardo de Moura — Creator of Lean and Z3
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 241 • 💬 379 • 15h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 267 • 💬 410 • 16h ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 227 • 💬 78 • 16h ago • [406.fail](https://406.fail/)
+⬆️ 246 • 💬 85 • 17h ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -247,7 +239,7 @@ A growing protest movement is encouraging people to cancel their subscriptions t
 
 Human DX optimizes for discoverability. Agent DX optimizes for predictability. What I learned building a CLI for agents first.
 
-⬆️ 157 • 💬 63 • 1d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
+⬆️ 158 • 💬 63 • 1d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
 
 ---
 
@@ -255,7 +247,7 @@ Human DX optimizes for discoverability. Agent DX optimizes for predictability. W
 
 Slopforks: what happens when a library gets rewritten with AI?
 
-⬆️ 138 • 💬 144 • 22h ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+⬆️ 156 • 💬 159 • 23h ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
 
 ---
 
@@ -264,6 +256,14 @@ Slopforks: what happens when a library gets rewritten with AI?
 The takeaway? If you value Qwen's open source efforts, download and preserve the models now, while you still can.
 
 ⬆️ 138 • 💬 43 • 2d ago • [Venturebeat](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
+
+---
+
+**[Iran war wreaking havoc on shipping and air cargo, could create global delays](https://news.ycombinator.com/item?id=47246463)**
+
+: Markets in the Middle East will be affected first and worst
+
+⬆️ 101 • 💬 203 • 2d ago • [theregister.com](https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/)
 
 ---
 
@@ -277,7 +277,7 @@ Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI 
 
 📺 Mira AI
 
-👁️ 2K • ⏱️ 9:10 • 1h ago
+👁️ 2K • ⏱️ 9:10 • 2h ago
 
 ---
 
@@ -287,7 +287,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 25K • 👍 880 • 💬 83 • ⏱️ 10:56 • 15h ago
+👁️ 25K • 👍 880 • 💬 83 • ⏱️ 10:56 • 16h ago
 
 ---
 
@@ -317,7 +317,7 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 133K • 👍 6K • 💬 1K • ⏱️ 21:38 • 19h ago
+👁️ 133K • 👍 6K • 💬 1K • ⏱️ 21:38 • 20h ago
 
 ---
 
@@ -327,7 +327,7 @@ What if AI made your paycheck optional? Vinod Khosla, one of the world's greates
 
 📺 Fortune Magazine
 
-👁️ 13K • 👍 304 • 💬 76 • ⏱️ 37:04 • 1d ago
+👁️ 13K • 👍 304 • 💬 76 • ⏱️ 37:04 • 2d ago
 
 ---
 
@@ -419,7 +419,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 919,117 • ❤️ 545 • 21h ago
+⬇️ 919,117 • ❤️ 545 • 22h ago
 
 ---
 
@@ -639,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 23.8k • 🔱 3.0k • 4h ago
+⭐ 23.8k • 🔱 3.0k • 5h ago
 
 ---
 
@@ -649,7 +649,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 13.3k • 🔱 448 • 10h ago
+⭐ 13.3k • 🔱 448 • 11h ago
 
 ---
 
@@ -659,7 +659,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 8.9k • 🔱 970 • 55m ago
+⭐ 8.9k • 🔱 970 • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.7k • 🔱 826 • 2d ago
+⭐ 6.7k • 🔱 826 • 3d ago
 
 ---
 
@@ -689,7 +689,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.7k • 🔱 665 • 13h ago
+⭐ 5.7k • 🔱 665 • 14h ago
 
 ---
 
@@ -699,7 +699,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 4.2k • 🔱 331 • 23h ago
+⭐ 4.2k • 🔱 331 • 1d ago
 
 ---
 
@@ -709,7 +709,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 382 • 3h ago
+⭐ 3.5k • 🔱 382 • 4h ago
 
 ---
 
@@ -719,7 +719,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 239 • 5h ago
+⭐ 3.3k • 🔱 239 • 6h ago
 
 ---
 
