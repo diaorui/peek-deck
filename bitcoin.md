@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-05T23:52:20.805225+00:00'
+updated: '2026-03-06T02:09:05.885915+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 23:52 UTC  
+**Last Updated:** March 06, 2026 at 02:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,123.54
+### $70,871.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** +7.5%  
-**30d:** -3.2%  
-**90d:** -20.8%  
-**1y:** -21.3%  
+**24h:** -1.7%  
+**7d:** +6.4%  
+**30d:** +13.5%  
+**90d:** -21.2%  
+**1y:** -17.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1417.93B
+**Market Cap:** $1424.17B
 Rank #1
 
-**Circulating Supply:** 19,998,362 BTC
+**Circulating Supply:** 19,998,425 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.8%
+-43.5%
 
 **All-Time Low:** $67.81
-+104414.1%
++104912.5%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[One tap, paid.](https://www.reddit.com/r/Bitcoin/comments/1rligdq/one_tap_paid/)**
-
-9h ago
-
----
-
 **[I built a luxury Bitcoin desk ticker with an engraved back](https://www.reddit.com/r/Bitcoin/comments/1rll3je/i_built_a_luxury_bitcoin_desk_ticker_with_an/)**
 
 I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets looked cheap or plastic, so I made this — the Obsidian Edition, with a engraved back and a clean display. Curious what the community thinks! We made 5 units for the first batch to see how people like it.
 
-8h ago
+10h ago
+
+---
+
+**[One tap, paid.](https://www.reddit.com/r/Bitcoin/comments/1rligdq/one_tap_paid/)**
+
+12h ago
 
 ---
 
@@ -95,7 +95,23 @@ I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets look
 
 I was fortunate to become a BTC whole coiner about 1yr ago. I got hungry and went for 2. I have Total 1.925. (I have .125 elsewhere). I wanted to ask: are there many ppl here that have 2? I think once I get 2BTC, I'm done. Will just let it ride.
 
-17h ago
+19h ago
+
+---
+
+**[Why Bitcoin is a Behavioral Phenomenon.](https://www.reddit.com/r/Bitcoin/comments/1rlzae7/why_bitcoin_is_a_behavioral_phenomenon/)**
+
+I noticed a lot of people pushed back on my last post regarding the generation of investors who arrived after the Satoshi era. To clarify, when I talk about those of us who missed the early days of mining, I’m talking about the 99% of us who hold less than 1,000 BTC. I’m not trying to get back lost time; I’m trying to point out that most people look at Bitcoin as a technological first mover, but I see it as a behavioral phenomenon. There is a fallacy in the idea that being first is why Bitcoin succeeded. Being first doesn't automatically mean people will hold for years through 80% price swings. There are plenty of first movers in other tech sectors that failed. Bitcoin is different because it was the first time humans saw a digital asset with no obligations, no roadmap, and no exit plan. Why I believe Bitcoin is a Behavioral Phenomenon -No marketing, No Roadmap, No exit plan Marketing is often just a series of promises and obligations. You are telling the market what to expect, and the moment you don't deliver, people dump. Luckily, Bitcoin didn't have to convert enthusiasm into a promise . Investors love roadmaps because they feel like progress, but a roadmap is really just a list of ways a project can fail. When a milestone is missed, it triggers panic. Bitcoin had no plan to fail, because it had no roadmap to miss in the first place. Bitcoin achieved success through a well formulated silence. There were no events like a CEO's product launch to coordinate a sell the news moment. There was never a coordinated reason for everyone to sell at the same time. Bitcoin proved that value doesn't just come from usage; it comes from coordination. Price appeared before utility because people mined and held simply because they saw others doing the same. It was designed for those who are quiet, not for those who chase the hype. However, if Bitcoin fails to maintain this phenomenon, we have to reconsider things. As institutions enter, they bring their own roadmaps and marketing. This introduces expectations the very thing Bitcoin originally avoided.
+
+1h ago
+
+---
+
+**[And everytime you bought, it dips](https://www.reddit.com/r/Bitcoin/comments/1rltvis/and_everytime_you_bought_it_dips/)**
+
+It's just like this, every single time. No matter what.
+
+4h ago
 
 ---
 
@@ -103,7 +119,7 @@ I was fortunate to become a BTC whole coiner about 1yr ago. I got hungry and wen
 
 The above is an animation I created that shows bitcoin's daily returns over the last 8 years measured over time. It shows in which cycle bitcoin is in as phase diagram. The idea is surprisingly simple and yet very insightful, expecially when animated. Was inspired by the original formulas and creation by Sheharyar at MC Finance who I think originally came up with it, I just tweaked it, cleaned the smoothing and added an animation over time. What is most striking is that you can see that large negative returns follow large positive returns over a prolonged period of time. There is no snap towards the middle but instead, even with minimal smoothing the returns follow beautiful orbits and that "momentum" is very real, even if measured in digital asset returns.
 
-7h ago
+9h ago
 
 ---
 
@@ -113,19 +129,11 @@ The above is an animation I created that shows bitcoin's daily returns over the 
 
 ---
 
-**[And everytime you bought, it dips](https://www.reddit.com/r/Bitcoin/comments/1rltvis/and_everytime_you_bought_it_dips/)**
-
-It's just like this, every single time. No matter what.
-
-2h ago
-
----
-
 **[DCA style](https://www.reddit.com/r/Bitcoin/comments/1rlpfve/dca_style/)**
 
 I totally agree with DCA strategy, I just feel that I do it completely differently to most. Most seem to have a set amount and whether weekly, fortnightly, monthly whatever they put in the set amount. Is it not a lot more sensible to have a kind of ‘fiat fund’ for DCA, pay the funds into that and each time BTC has a shocker, huge red day, everyone crying, it’s all over, which happens frequently, you put all of your accumulated funds in then, rinse & repeat. You’re still doing exactly the same DCA into BTC but you’re generally maxing your lower average. I don’t seem to hear many people who DCA like this, maybe a lot do it’s just not often mentioned, yes sometimes that decent chunk you buy will immediately go down, but it’s still waiting for optimal times to put your funds in rather than imo stupidly just adding on a time based approach. Maybe it’s due to people not trusting themselves with the fiat amount building up, and know once it’s locked into BTC it’s there and it’s not being used in an emergency I don’t know. Thoughts?
 
-5h ago
+7h ago
 
 ---
 
@@ -133,13 +141,7 @@ I totally agree with DCA strategy, I just feel that I do it completely different
 
 Good Day all! I am extremely new to bitcoin in general. I've heard all sorts of terms thrown around when referencing bitcoin. Things like "miner" "home mining" "nicehash" I think the miner is pretty simple, I've seen ones you just plug to a USB and then to wi-fi and they "Mine"(?) for it in the hopes of getting a "block"(whatever that is). Is it worth it? Can someone explain to me Barney-Style?
 
-5h ago
-
----
-
-**[The Bitcoin CEO ordered me to post this here](https://www.reddit.com/r/Bitcoin/comments/1rkqmp7/the_bitcoin_ceo_ordered_me_to_post_this_here/)**
-
-1d ago
+8h ago
 
 ---
 
@@ -147,7 +149,7 @@ Good Day all! I am extremely new to bitcoin in general. I've heard all sorts of 
 
 Got an email earlier today that strike is FINALLY available in NYS!
 
-1h ago
+3h ago
 
 ---
 
@@ -159,21 +161,27 @@ Got an email earlier today that strike is FINALLY available in NYS!
 
 Key PointsBitcoin has lost a lot of value since its all-time high in October.
 
-Nasdaq • 12h ago
+Nasdaq • 14h ago
 
 ---
 
-**[Coinbase, Other Crypto Stocks Surge. What’s Behind the Rally.](https://www.barrons.com/articles/coinbase-stock-price-bitcoin-crypto-robinhood-strategy-017a594f?gaa_at=eafs&gaa_n=AWEtsqeqjIFyJxzvsu2ow68G3LFPp5A0kYfUbyrrLBTXysmRs8LCPPUQYSGG&gaa_ts=69aa1a9b&gaa_sig=GgRCCJ_Xb2eLBk9PWVfTNJwv5KSpKrck9Z-As-BAL7Y_pRofSYrE7u7lvAEu8oGpdiH47zN9On7pTg88dTXjYA%3D%3D)**
+**[Coinbase, Other Crypto Stocks Surge. What’s Behind the Rally.](https://www.barrons.com/articles/coinbase-stock-price-bitcoin-crypto-robinhood-strategy-017a594f?gaa_at=eafs&gaa_n=AWEtsqdRmfCKET-gFloLVdQq_ClPJbFfw2S-1gKxWwOXQUECwy-FyBhqXbXZ&gaa_ts=69aa3aa9&gaa_sig=nE0QkA6fGLLJA9L63pNYtRCql_WejQx1WZQjj3AY3q40SaOknHn3BplICcZJLyzSZQffp_oCt3MCI91Pt6PHJg%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Dogecoin Down Bad as Bitcoin Gives Up Latest Gains](https://finance.yahoo.com/news/dogecoin-down-bad-bitcoin-gives-211209715.html)**
+**[Hidden Bitcoin Is Creating Chaos in Divorce Courts – What Happens When a Spouse Hides Crypto?](https://finance.yahoo.com/news/hidden-bitcoin-creating-chaos-divorce-002834524.html)**
 
-After a strong bounce on Wednesday, Dogecoin is leading the top 100 tokens in losses on Thursday as Bitcoin falls.
+Hiding cash under the mattress is outdated. Hiding Bitcoin in a hardware wallet is the modern version, at least until lawyers get involved. As crypto adoption grows, a messy problem is emerging in family courts. Digital assets are far harder to track and divide during divorce. Some experts are calling ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin – the spot, the future, the financial](https://www.bloomberg.com/professional/insights/markets/bitcoin-the-spot-the-future-the-financial/)**
+
+Bloomberg.com • 2h ago
 
 ---
 
@@ -181,15 +189,7 @@ Yahoo Finance • 2h ago
 
 The transformation into a Bitcoin treasury company is perhaps the most interesting development in capital markets.
 
-The Motley Fool • 27m ago
-
----
-
-**[Bitcoin rebound appears a 'relief rally,' not the start of a new bullish cycle, says CryptoQuant](https://www.theblock.co/post/392499/bitcoin-rebound-relief-rally-not-start-bullish-cycle-cryptoquant)**
-
-"Bitcoin is still inside a bear market, despite the recent price rally," Julio Moreno, head of research at CryptoQuant, said.
-
-The Block • 2h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -197,13 +197,21 @@ The Block • 2h ago
 
 New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
 
-Fortune • 15h ago
+Fortune • 18h ago
 
 ---
 
-**[Bitcoin Holds Firm Above $70,000 as Global Assets Recover](https://www.bloomberg.com/news/articles/2026-03-05/bitcoin-btc-holds-firm-above-70-000-as-global-assets-recover)**
+**[Bitcoin-backed Credit, Capital, and Equity on a risk-off day.](https://x.com/saylor/status/2029667705394012424)**
 
-Bloomberg • 2h ago
+x.com • 4h ago
+
+---
+
+**[Bitcoin price news: BTC rally comes under pressure Thursday](https://www.coindesk.com/markets/2026/03/05/bitcoin-pulls-back-to-usd71-000-even-as-software-sector-soars)**
+
+The two battered markets have had a nearly one-to-one correlation in recent months, but are moving in opposite directions on Thursday.
+
+CoinDesk • 10h ago
 
 ---
 
@@ -215,19 +223,11 @@ Business Insider • 1d ago
 
 ---
 
-**[Billionaire Ray Dalio sends harsh warning on Bitcoin](https://finance.yahoo.com/news/billionaire-ray-dalio-sends-harsh-223701526.html)**
-
-Billionaire Ray Dalio is not shy when it comes to commenting about Bitcoin. One thing that he time and again repeats is not to compare Bitcoin with gold. The Bridgewater Associates founder appeared on the recent "All-In Podcast" of Mar. 3 and laid out a detailed critique of Bitcoin, arguing ...
-
-Yahoo Finance • 2d ago
-
----
-
 **[Ray Dalio thinks bitcoin is no gold, and that is exactly why bulls are buying](https://www.coindesk.com/markets/2026/03/04/crypto-bulls-slam-ray-dalio-s-tired-narratives-in-defense-of-bitcoin-s-future)**
 
 Experts push back on billionaire hedge fund manager Ray Dalio's warning of bitcoin lacking gold’s qualities and risks from surveillance, quantum computing and lack of central bank buying.
 
-CoinDesk • 13h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -291,7 +291,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 8h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 11h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -321,17 +321,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 313 • 💬 37 • ⏱️ 19:58 • 8h ago
+👁️ 10K • 👍 350 • 💬 29 • ⏱️ 19:58 • 10h ago
 
 ---
 
-**[No One’s More Nervous Than Bitcoin Holders Now](https://www.youtube.com/watch?v=vhXbNSmgSfY)**
+**[How Bitcoin Could Get To $10 MILLION Per Coin](https://www.youtube.com/watch?v=0mHU6N2G6_o)**
 
-Bitcoin, stocks, market moves, Iran, and breaking news! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discuss whether bitcoin acts as a risk-on tech asset or ...
 
-📺 Lark Davis
+📺 Anthony Pompliano
 
-👁️ 12K • 👍 639 • 💬 65 • ⏱️ 16:42 • 11h ago
+👁️ 8K • 👍 493 • 💬 12 • ⏱️ 40:52 • 4h ago
 
 ---
 
@@ -341,7 +341,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 527 • 💬 51 • ⏱️ 17:02 • 1h ago
+👁️ 15K • 👍 1K • 💬 110 • ⏱️ 17:02 • 3h ago
 
 ---
 
@@ -351,17 +351,17 @@ A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce
 
 📺 No Bs Crypto
 
-👁️ 4K • 👍 427 • 💬 67 • ⏱️ 12:20 • 5h ago
+👁️ 5K • 👍 507 • 💬 82 • ⏱️ 12:20 • 8h ago
 
 ---
 
-**[Why I’m NOT Buying Bitcoin at $70K (Jamie Dimon&#39;s GRAVE Warning)](https://www.youtube.com/watch?v=bOzRI0Teei4)**
+**[No One’s More Nervous Than Bitcoin Holders Now](https://www.youtube.com/watch?v=vhXbNSmgSfY)**
 
-Bitcoin just ripped to $70K on rumors of a market structure bill. But speculation is not liquidity and hope is not a catalyst. Banks are ...
+Bitcoin, stocks, market moves, Iran, and breaking news! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Simply Bitcoin
+📺 Lark Davis
 
-👁️ 40K • 👍 2K • 💬 217 • ⏱️ 15:07 • 2d ago
+👁️ 13K • 👍 668 • 💬 71 • ⏱️ 16:42 • 13h ago
 
 ---
 
@@ -371,27 +371,27 @@ Bitcoin has been declared dead 477 times, yet the network keeps surviving and gr
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 95 • ⏱️ 22:18 • 1d ago
+👁️ 22K • 👍 1K • 💬 94 • ⏱️ 22:18 • 1d ago
 
 ---
 
-**[I’m Selling My New Bitcoin… Here’s Why! 🪙💰](https://www.youtube.com/watch?v=g0NHJWa26AE)**
+**[Why I’m NOT Buying Bitcoin at $70K (Jamie Dimon&#39;s GRAVE Warning)](https://www.youtube.com/watch?v=bOzRI0Teei4)**
 
-I'm Selling My New Bitcoin… Here's Why! ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View ...
+Bitcoin just ripped to $70K on rumors of a market structure bill. But speculation is not liquidity and hope is not a catalyst. Banks are ...
 
-📺 Stocks with Josh
+📺 Simply Bitcoin
 
-👁️ 4K • 👍 141 • 💬 37 • ⏱️ 0:47 • 5h ago
+👁️ 41K • 👍 2K • 💬 217 • ⏱️ 15:07 • 2d ago
 
 ---
 
-**[Bitcoin’s Make Or Break Moment? What You Must Know](https://www.youtube.com/watch?v=9nV7u3sNhAk)**
+**[The Four Year Cycle Is Not Broken | Matthew Mezinskis](https://www.youtube.com/watch?v=FsroBEuouDo)**
 
-Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Channel (Free Telegram) – Daily crypto ...
+"Statistically, right now, we are basically at the bottom. This is as cheap as Bitcoin gets." Matthew Mezinskis is a macroeconomic ...
 
-📺 The Wolf Of All Streets
+📺 What Bitcoin Did
 
-👁️ 4K • 👍 306 • 💬 104 • ⏱️ 31:02 • 3h ago
+👁️ 4K • 👍 215 • 💬 110 • ⏱️ 1:16:29 • 8h ago
 
 ---
 
@@ -401,17 +401,17 @@ Natalie Brunell, Russell Okung, and Bill Miller IV join this panel recorded live
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 876 • 💬 40 • ⏱️ 24:21 • 1d ago
+👁️ 21K • 👍 883 • 💬 40 • ⏱️ 24:21 • 1d ago
 
 ---
 
-**[The Big News That Could Send Bitcoin To New All Time Highs](https://www.youtube.com/watch?v=kQb_lG6JzKI)**
+**[bitcoin will &quot;unleash MAXIMUM pain unlike anything we&#39;ve ever seen&quot;](https://www.youtube.com/watch?v=R1wjxCqmkhU)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
 
-📺 Altcoin Daily
+📺 Tyler S
 
-👁️ 37K • 👍 2K • 💬 134 • ⏱️ 12:04 • 1d ago
+👁️ 9K • 👍 649 • 💬 194 • ⏱️ 12:43 • 5h ago
 
 ---
 

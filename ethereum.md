@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-05T23:52:20.811233+00:00'
+updated: '2026-03-06T02:09:05.891962+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 05, 2026 at 23:52 UTC  
+**Last Updated:** March 06, 2026 at 02:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,074.94
+### $2,081.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** +7.5%  
-**30d:** -3.5%  
-**90d:** -31.7%  
-**1y:** -6.0%  
+**24h:** -1.4%  
+**7d:** +6.3%  
+**30d:** +14.4%  
+**90d:** -31.8%  
+**1y:** -2.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.47B
+**Market Cap:** $251.81B
 Rank #2
 
-**Circulating Supply:** 120,692,109 ETH
+**Circulating Supply:** 120,692,086 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.1%
+-57.8%
 
 **All-Time Low:** $0.43
-+479054.9%
++481724.8%
 
 ---
 
@@ -72,13 +72,21 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+20h ago
 
 ---
 
 **[TerraNullius: The Ethereum Message Board from Block 49,880 (August 7, 2015) — Still Getting Claims in 2026](https://www.reddit.com/r/ethereum/comments/1rlidmx/terranullius_the_ethereum_message_board_from/)**
 
 Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed one of the earliest smart contracts on the network: TerraNullius. What it does: Anyone can "claim" a hex coordinate and attach a message to it — a permanent, uncensorable message board on the blockchain. No tokens, no governance, no economic incentive. Just messages, forever. The numbers: - Deployed at block 49,880 (August 7, 2015) - Compiled with Solidity v0.1.1 - 25 claims in 2015, then it sat mostly dormant - 687 claims during the 2021 NFT boom (people realized these were basically proto-NFTs) - 805 total transactions and counting — still active in 2026 It was referenced by the Guinness World Records and is one of the earliest surviving interactive contracts on Ethereum. The original announcement was a Reddit post right here on r/ethereum, with Semiel sharing a Pastebin script so people could interact with it. What's fascinating is how it predates every pattern we now take for granted — ERC-20, ERC-721, ENS, DAOs. This was someone experimenting with permanence on a chain that was two weeks old. Contract: 0x6e38A457C722C6011B2dfa06d49240e797844d66 Full writeup with sources and verification: EthereumHistory.com If anyone has stories about early Ethereum experiments like this, I'd love to hear them. We're trying to document the pre-2017 era before the context is lost entirely.
+
+12h ago
+
+---
+
+**[X402 Real Use Cases](https://www.reddit.com/r/ethereum/comments/1rlmuqu/x402_real_use_cases/)**
+
+I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402. Here's what almost all of them said: "Why would an AI agent pay per usage for a certain app when you can just create a SaaS product, ask for a top-up, and internally use credits?" x402 doesn't replace the per-usage model. It solves one specific problem: no human in the loop. There are 2 use cases: Anonymous autonomous agent. No account. No signup. No pre-loaded balance. Pays mid-task and moves on. Humans with accounts created - that want to automate - a top-up credit model wins with pay per usage with credits. BUT Almost every SaaS would want you to create your account. SO x402 is really only good for automatic top-ups / payments. Change my mind.
 
 9h ago
 
@@ -88,7 +96,7 @@ Two weeks after Ethereum's genesis block, a Reddit user named "Semiel" deployed 
 
 Hi everyone, If you've been following the Account Abstraction roadmap, you know the community pivoted hard toward EIP-7702, a proposal driven by Vitalik to allow EOAs (standard wallets) to temporarily act like smart contracts. I write a lot about blockchain architecture, and I noticed that while the hype around "gasless transactions" is loud, the actual mechanics of how EIP-7702 achieves this safely aren't discussed enough. I published an architectural breakdown to clarify how this works under the hood. The core of the design is the SetCode transaction type. Instead of permanently migrating an EOA to a smart contract, EIP-7702 allows a transaction to temporarily attach smart contract code to an EOA for the exact duration of that single transaction. The deep dive covering: How this solves the security debates around previous proposals. The technical flow of batching operations What this means for the current ERC-4337 infrastructure. I'd love to hear from people that building in the space: How quickly do you expect it to be broadly used
 
-5h ago
+7h ago
 
 ---
 
@@ -96,15 +104,7 @@ Hi everyone, If you've been following the Account Abstraction roadmap, you know 
 
 I built SCPF (Smart Contract Pattern Finder) - an open-source security scanner for Ethereum smart contracts. What it does: - Scans contracts for reentrancy, delegatecall, unchecked calls, and other vulnerabilities - Uses YAML templates (easy to customize) - Integrates with GitHub Actions (SARIF output) - Supports up to 6 Etherscan API keys with automatic failover Quick example: bash scpf scan 0x1234... --chains ethereum Built with Rust for speed. MIT licensed. GitHub: https://github.com/Teycir/smartcontractpatternfinder Would love feedback from the community! 🚀
 
-3h ago
-
----
-
-**[X402 Real Use Cases](https://www.reddit.com/r/ethereum/comments/1rlmuqu/x402_real_use_cases/)**
-
-I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402. Here's what almost all of them said: "Why would an AI agent pay per usage for a certain app when you can just create a SaaS product, ask for a top-up, and internally use credits?" x402 doesn't replace the per-usage model. It solves one specific problem: no human in the loop. There are 2 use cases: Anonymous autonomous agent. No account. No signup. No pre-loaded balance. Pays mid-task and moves on. Humans with accounts created - that want to automate - a top-up credit model wins with pay per usage with credits. BUT Almost every SaaS would want you to create your account. SO x402 is really only good for automatic top-ups / payments. Change my mind.
-
-6h ago
+5h ago
 
 ---
 
@@ -112,7 +112,7 @@ I spent 1 month talking to 10 SaaS and AI companies trying to sell them on x402.
 
 Been doing Ethereum archaeology and found a useful reminder: token-for-token swap behavior existed on-chain in 2016, long before AMMs were mainstream. What was different vs modern DeFi: - no pooled liquidity / routing engines - much heavier coordination + trust assumptions - primitive UX, but clearly permissionless exchange intent It feels like DeFi history is better modeled as a slow primitive stack (2015-2018) rather than a sudden 2020 birth. Question for the OGs here: which pre-2018 contracts do you consider the most important proto-DeFi stepping stones?
 
-8h ago
+11h ago
 
 ---
 
@@ -152,7 +152,15 @@ GavCoin (0xb4abc1bfc403a7b82c777420c81269858a4b8aa4) was deployed on April 26, 2
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
+**[Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck](https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck)**
+
+Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
+
+Decrypt • 9h ago
+
+---
+
+**[Ethereum news (ETH): Foundation wants the network to be the trust layer for AI](https://www.coindesk.com/tech/2026/03/04/ethereum-foundation-wants-the-network-to-be-the-trust-layer-for-ai)**
 
 Davide Crapis, the foundation's AI lead,  sees the network acting as a coordination and verification layer in an increasingly AI-mediated world.
 
@@ -160,33 +168,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum ETFs Snap Five-Week Losing Streak as Crypto Funds Add $1 Billion](https://decrypt.co/359587/bitcoin-ethereum-etfs-snap-losing-streak-crypto-funds-1-billion)**
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqfaN_H1Lrbbnq08KxnfdYXdIyaJYa0fvilXFcuI2XLawPgbRPCVGidz&gaa_ts=69aa3aac&gaa_sig=gKcL3nVv_dAMg-8VQrguZvv6W84oNab1ykcvhg85kZd2rceqw6z_3cUCtEMt_YGndEonh4MBwI6PM0UExlOk8A%3D%3D)**
 
-Bitcoin and other crypto funds rebounded with $1 billion worth of inflows last week, ending a five-week, $4 billion losing streak.
-
-Decrypt • 3d ago
-
----
-
-**[Bitcoin and Ethereum Price to Surge in March? Tom Lee Bullish On Rebound Despite WW3 Threat](https://finance.yahoo.com/news/bitcoin-ethereum-price-surge-march-104526423.html)**
-
-Tom Lee expects a March rebound despite geopolitical tensions. Other analysts see signs of a bottom. Price outlook remains uncertain. Bitcoin and Ethereum’s prices could ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[ETH, BMNR news: Short seller Culper Research says ether tokenomics is 'impaired'](https://www.coindesk.com/markets/2026/03/05/short-seller-culper-bets-against-ether-bitmine-citing-death-spiral-risk)**
-
-The short seller firm said that Ethereum's native token is "impaired," leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.
-
-CoinDesk • 2h ago
-
----
-
-**[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
-
-TipRanks • 16h ago
+Barron's • 16h ago
 
 ---
 
@@ -198,17 +182,11 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Are Having a Great Week Despite Iran War. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqebfsKsNgVK_gyMgFYDqDUmpMIaGUpvHGzt4BVr66U-Pbo4j4VUEC66&gaa_ts=69aa1a9d&gaa_sig=VexwLkJ-4pocj5vxonRb34O4BL4wu-z1fsm654UO_5YRfU9n4JfBbrbpNGaeBKOnnMrTYPTgHnYpfIth1y6UCg%3D%3D)**
+**[31.6 Million ETH Leaves Exchanges as Vitalik Calls for Ethereum “Sanctuary” Tech](https://finance.yahoo.com/news/31-6-million-eth-leaves-070249895.html)**
 
-Barron's • 13h ago
+ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
 
----
-
-**[Crypto Market Crash: Top Analyst Reveals What’s Next For Bitcoin, Ethereum and XRP](https://www.tradingview.com/news/coinpedia:0c8387655094b:0-crypto-market-crash-top-analyst-reveals-what-s-next-for-bitcoin-ethereum-and-xrp/)**
-
-The recent volatility in the crypto market has left investors questioning whether the latest pullback means a deeper crash or just a temporary correction. While prices have struggled to maintain momentum, one market strategist believes the current setup could still lead to a short-term rally before…
-
-TradingView • 7h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -216,7 +194,7 @@ TradingView • 7h ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
 
-Bit Digital • 9h ago
+Bit Digital • 12h ago
 
 ---
 
@@ -224,7 +202,31 @@ Bit Digital • 9h ago
 
 The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
 
-The Motley Fool • 14h ago
+The Motley Fool • 17h ago
+
+---
+
+**[Ethereum's Vitalik Buterin: build 'sanctuary tech,' forget emulating Apple or Google](https://www.theblock.co/post/392079/ethereum-vitalik-buterin-sanctuary-tech-forget-emulating-apple-or-google)**
+
+Ethereum could help with “de-totalization;” fending off the possibility that any single actor achieves total control.
+
+The Block • 2d ago
+
+---
+
+**[Crypto Market Crash: Top Analyst Reveals What’s Next For Bitcoin, Ethereum and XRP](https://www.tradingview.com/news/coinpedia:0c8387655094b:0-crypto-market-crash-top-analyst-reveals-what-s-next-for-bitcoin-ethereum-and-xrp/)**
+
+The recent volatility in the crypto market has left investors questioning whether the latest pullback means a deeper crash or just a temporary correction. While prices have struggled to maintain momentum, one market strategist believes the current setup could still lead to a short-term rally before…
+
+TradingView • 9h ago
+
+---
+
+**[Better Cryptocurrency to Buy Right Now With $2,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-right-now-2000-and-hold-5-years-xrp-vs-ethereum)**
+
+Key PointsEthereum is a general-purpose smart contract chain.
+
+Nasdaq • 2d ago
 
 ---
 
@@ -238,27 +240,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 458 • 💬 21 • ⏱️ 1:16 • 10h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: BlackRock Buying Now (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HvxaJyAfaXM)**
-
-BITCOIN & CRYPTO: BlackRock Buying Now (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 950 • 👍 97 • 💬 12 • ⏱️ 19:32 • 1h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FV9pHXeiaxk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 149 • 💬 5 • ⏱️ 3:54 • 7h ago
+👁️ 15K • 👍 486 • 💬 68 • ⏱️ 1:16 • 13h ago
 
 ---
 
@@ -268,17 +250,27 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 832 • 👍 34 • 💬 15 • ⏱️ 19:52 • 9h ago
+👁️ 1K • 👍 39 • 💬 15 • ⏱️ 19:52 • 11h ago
 
 ---
 
-**[Is the BMNR Bottom ALREADY IN? When will BMNR reach $51.86?](https://www.youtube.com/watch?v=A05qWHPyuho)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FV9pHXeiaxk)**
 
-With all the volatility in the middle-east, crypto prices have been relatively steady. BMNR is preparing to buy more ETH because ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Elijah Cheng
+📺 More Crypto Online
 
-👁️ 2K • 👍 147 • 💬 21 • ⏱️ 25:01 • 9h ago
+👁️ 2K • 👍 149 • 💬 5 • ⏱️ 3:54 • 10h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: BlackRock Buying Now (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HvxaJyAfaXM)**
+
+BITCOIN & CRYPTO: BlackRock Buying Now (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 157 • 💬 31 • ⏱️ 19:32 • 3h ago
 
 ---
 
@@ -288,7 +280,37 @@ Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw aw
 
 📺 When Shift Happens
 
-👁️ 6K • 👍 297 • 💬 101 • ⏱️ 49:16 • 8h ago
+👁️ 7K • 👍 328 • 💬 114 • ⏱️ 49:16 • 11h ago
+
+---
+
+**[Is the BMNR Bottom ALREADY IN? When will BMNR reach $51.86?](https://www.youtube.com/watch?v=A05qWHPyuho)**
+
+With all the volatility in the middle-east, crypto prices have been relatively steady. BMNR is preparing to buy more ETH because ...
+
+📺 Elijah Cheng
+
+👁️ 3K • 👍 164 • 💬 21 • ⏱️ 25:01 • 11h ago
+
+---
+
+**[🚨 ALERT: The Bitcoin Floodgates Are Open!!](https://www.youtube.com/watch?v=m5nunXOj2VM)**
+
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+
+📺 Altcoin Daily
+
+👁️ 7K • 👍 652 • 💬 52 • ⏱️ 8:38 • 1h ago
+
+---
+
+**[Bitcoin Bottom Forming? ETH Accumulation Surges While Crypto Fear Spikes | MSTR BMNR](https://www.youtube.com/watch?v=qXEAgObFIqo)**
+
+I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
+
+📺 MONEY GAME
+
+👁️ 467 • 👍 42 • 💬 2 • ⏱️ 31:16 • 3h ago
 
 ---
 
@@ -298,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 167 • 💬 7 • ⏱️ 4:00 • 23h ago
+👁️ 3K • 👍 167 • 💬 7 • ⏱️ 4:00 • 1d ago
 
 ---
 
@@ -309,26 +331,6 @@ Mike Willis, co-founder and CEO of Cyber Hornet ETFs, says Bitcoin and Ethereum 
 📺 Schwab Network
 
 👁️ 6K • 👍 71 • 💬 11 • ⏱️ 8:40 • 2d ago
-
----
-
-**[Vendo TODO MI ETHEREUM y ALTCOINS antes del GRAN CRASH...?](https://www.youtube.com/watch?v=1hI6IxmQYUM)**
-
-Bitcoin y cripto con buenas subidas tras el conflicto de Irán pero... será para nuevos MINIMOS??? Rodéate de la información ...
-
-📺 Tu Primer Bitcoin
-
-👁️ 4K • 👍 513 • 💬 112 • ⏱️ 17:21 • 6h ago
-
----
-
-**[ETH BREAKOUT OR FAKEOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=c-sjutJm_no)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 257 • 👍 13 • 💬 3 • ⏱️ 5:41 • 14h ago
 
 ---
 
