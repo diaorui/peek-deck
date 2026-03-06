@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-06T09:40:26.042307+00:00'
+updated: '2026-03-06T10:36:25.642690+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 06, 2026 at 09:40 UTC  
+**Last Updated:** March 06, 2026 at 10:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Indiana Governor Mike Braun recently signed a bill that allows certain retiremen
 
 I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets looked cheap or plastic, so I made this — the Obsidian Edition, with a engraved back and a clean display. Curious what the community thinks! We made 5 units for the first batch to see how people like it.
 
-17h ago
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ I wanted a minimal way to see Bitcoin on my desk in real time. Most gadgets look
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,13 +105,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 It's just like this, every single time. No matter what.
 
-12h ago
+13h ago
 
 ---
 
 **[One tap, paid.](https://www.reddit.com/r/Bitcoin/comments/1rligdq/one_tap_paid/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -119,7 +119,7 @@ It's just like this, every single time. No matter what.
 
 With the recent US strike on Iran, investors are again asking a familiar question: how does Bitcoin (BTC) behave when geopolitics turns kinetic? Crypto markets trade 24/7, digest headlines instantly, and often serve as a real-time barometer of global risk appetite. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-wartime-tale-two-shocks) • 1h ago
+🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-wartime-tale-two-shocks) • 2h ago
 
 ---
 
@@ -127,7 +127,7 @@ With the recent US strike on Iran, investors are again asking a familiar questio
 
 I noticed a lot of people pushed back on my last post regarding the generation of investors who arrived after the Satoshi era. To clarify, when I talk about those of us who missed the early days of mining, I’m talking about the 99% of us who hold less than 1,000 BTC. I’m not trying to get back lost time; I’m trying to point out that most people look at Bitcoin as a technological first mover, but I see it as a behavioral phenomenon. There is a fallacy in the idea that being first is why Bitcoin succeeded. Being first doesn't automatically mean people will hold for years through 80% price swings. There are plenty of first movers in other tech sectors that failed. Bitcoin is different because it was the first time humans saw a digital asset with no obligations, no roadmap, and no exit plan. Why I believe Bitcoin is a Behavioral Phenomenon -No marketing, No Roadmap, No exit plan Marketing is often just a series of promises and obligations. You are telling the market what to expect, and the moment you don't deliver, people dump. Luckily, Bitcoin didn't have to convert enthusiasm into a promise . Investors love roadmaps because they feel like progress, but a roadmap is really just a list of ways a project can fail. When a milestone is missed, it triggers panic. Bitcoin had no plan to fail, because it had no roadmap to miss in the first place. Bitcoin achieved success through a well formulated silence. There were no events like a CEO's product launch to coordinate a sell the news moment. There was never a coordinated reason for everyone to sell at the same time. Bitcoin proved that value doesn't just come from usage; it comes from coordination. Price appeared before utility because people mined and held simply because they saw others doing the same. It was designed for those who are quiet, not for those who chase the hype. However, if Bitcoin fails to maintain this phenomenon, we have to reconsider things. As institutions enter, they bring their own roadmaps and marketing. This introduces expectations the very thing Bitcoin originally avoided.
 
-8h ago
+9h ago
 
 ---
 
@@ -143,7 +143,7 @@ I was fortunate to become a BTC whole coiner about 1yr ago. I got hungry and wen
 
 The above is an animation I created that shows bitcoin's daily returns over the last 8 years measured over time. It shows in which cycle bitcoin is in as phase diagram. The idea is surprisingly simple and yet very insightful, expecially when animated. Was inspired by the original formulas and creation by Sheharyar at MC Finance who I think originally came up with it, I just tweaked it, cleaned the smoothing and added an animation over time. What is most striking is that you can see that large negative returns follow large positive returns over a prolonged period of time. There is no snap towards the middle but instead, even with minimal smoothing the returns follow beautiful orbits and that "momentum" is very real, even if measured in digital asset returns.
 
-17h ago
+18h ago
 
 ---
 
@@ -151,7 +151,7 @@ The above is an animation I created that shows bitcoin's daily returns over the 
 
 Hey guys What is your bitcoin dca scheduled for currently? Daily, weekly, monthly? I would like to hear what you do, the reasoning behind it and what you believe yields the best results for more bang for your buck!
 
-15m ago
+1h ago
 
 ---
 
@@ -163,13 +163,13 @@ Hey guys What is your bitcoin dca scheduled for currently? Daily, weekly, monthl
 
 The increase follows a mining fleet expansion as the firm focuses on accumulating bitcoin through large-scale self-mining.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
 **[Bitcoin Holds Firm Above $70,000 as Global Assets Recover](https://www.bloomberg.com/news/articles/2026-03-05/bitcoin-btc-holds-firm-above-70-000-as-global-assets-recover)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -177,13 +177,13 @@ Bloomberg.com • 11h ago
 
 In a period of a little more than a decade, Bitcoin's price increased from $100 to $100,000.
 
-The Motley Fool • 10m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Bitcoin price today: falls to $70k amid Iran conflict; set for weekly jump](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-to-70k-amid-iran-conflict-set-for-weekly-jump-4546036)**
 
-Investing.com • 3h ago
+Investing.com • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ Investing.com • 3h ago
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 6h ago
+NDTV • 7h ago
 
 ---
 
@@ -207,13 +207,13 @@ Fortune • 1d ago
 
 Gold (GC=F) is currently outperforming bitcoin (BTC-USD), with the world's largest cryptocurrency down nearly 50% from last year's highs. Canza Finance co-founder and CEO Pascal Ntsama chats with Ross Mac, host of Yahoo Finance's Financial Freestyle podcast, to compare the two assets, the different ways in which they're traded around the world, and more. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[Bitcoin-backed Credit, Capital, and Equity on a risk-off day.](https://x.com/saylor/status/2029667705394012424)**
 
-x.com • 12h ago
+x.com • 13h ago
 
 ---
 
@@ -229,7 +229,7 @@ CNBC • 1d ago
 
 Houston-based Solo Satoshi announced the launch of the Bitaxe Turbo Touch, a compact device designed for hobbyists and home miners.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -249,7 +249,7 @@ One critic replied simply "go away."
 
 Links to major crypto world figures are just the start.
 
-⬆️ 4 • 💬 0 • 5d ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 4 • 💬 0 • 6d ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -285,7 +285,7 @@ Complete operating system for Bitcoiners
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 18h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 19h ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -321,7 +321,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 449 • 💬 57 • ⏱️ 19:58 • 18h ago
+👁️ 14K • 👍 449 • 💬 57 • ⏱️ 19:58 • 19h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 183 • ⏱️ 17:07 • 10h ago
+👁️ 14K • 👍 1K • 💬 183 • ⏱️ 17:07 • 11h ago
 
 ---
 
@@ -341,7 +341,7 @@ A quantitative trader predicted Bitcoin's $126K top, the 46% crash, every bounce
 
 📺 No Bs Crypto
 
-👁️ 9K • 👍 712 • 💬 146 • ⏱️ 12:20 • 15h ago
+👁️ 9K • 👍 712 • 💬 146 • ⏱️ 12:20 • 16h ago
 
 ---
 
@@ -351,7 +351,7 @@ Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discus
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 785 • 💬 12 • ⏱️ 40:52 • 11h ago
+👁️ 20K • 👍 785 • 💬 12 • ⏱️ 40:52 • 12h ago
 
 ---
 
@@ -361,7 +361,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 12K • 👍 780 • 💬 261 • ⏱️ 12:43 • 12h ago
+👁️ 12K • 👍 780 • 💬 261 • ⏱️ 12:43 • 13h ago
 
 ---
 
@@ -371,7 +371,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 320 • 💬 88 • ⏱️ 9:23 • 4h ago
+👁️ 4K • 👍 320 • 💬 88 • ⏱️ 9:23 • 5h ago
 
 ---
 
@@ -381,7 +381,7 @@ I'm Selling My New Bitcoin… Here's Why! ❤️ Josh New Discord [JOIN NOW] ▻
 
 📺 Stocks with Josh
 
-👁️ 8K • 👍 214 • 💬 35 • ⏱️ 0:47 • 15h ago
+👁️ 8K • 👍 214 • 💬 35 • ⏱️ 0:47 • 16h ago
 
 ---
 
@@ -391,7 +391,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 203 • ⏱️ 8:38 • 9h ago
+👁️ 29K • 👍 2K • 💬 203 • ⏱️ 8:38 • 10h ago
 
 ---
 
@@ -401,7 +401,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 49K • 👍 2K • 💬 363 • ⏱️ 17:02 • 11h ago
+👁️ 49K • 👍 2K • 💬 363 • ⏱️ 17:02 • 12h ago
 
 ---
 
@@ -411,7 +411,7 @@ Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Cha
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 423 • 💬 158 • ⏱️ 31:02 • 12h ago
+👁️ 7K • 👍 423 • 💬 158 • ⏱️ 31:02 • 13h ago
 
 ---
 
