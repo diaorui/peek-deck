@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T09:53:46.594497+00:00'
+updated: '2026-03-07T10:25:10.811730+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 09:53 UTC  
+**Last Updated:** March 07, 2026 at 10:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,13 +95,13 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-4h ago
+5h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -117,7 +117,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
 
-53m ago
+1h ago
 
 ---
 
@@ -141,13 +141,13 @@ Where can I find Bitcoin communities or platforms where real estate can be sold 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
 **[The Battle for Bitcoin's Soul: A Review of the Top 10 Most Vital Improvement Proposals.](https://www.reddit.com/r/Bitcoin/comments/1rn5n3d/the_battle_for_bitcoins_soul_a_review_of_the_top/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-battle-for-bitcoins-soul-a-review) • 31m ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-battle-for-bitcoins-soul-a-review) • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fortune • 16h ago
 
 Investors viewed Bitcoin as a hedge against market risk, but the cryptocurrency has proven highly volatile.
 
-The Motley Fool • 53m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 53m ago
 
 Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ Nasdaq • 1d ago
 
 The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Block • 20h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 13h ago
+Polymarket • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ Are you ready? Top-Tier Crypto Trading Starts Here Join the trading competition 
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 243 • 💬 33 • ⏱️ 15:32 • 14h ago
+👁️ 4K • 👍 243 • 💬 33 • ⏱️ 15:32 • 15h ago
 
 ---
 
@@ -393,7 +393,7 @@ Banks are stalling the CLARITY Act because Bitcoin adoption threatens the only t
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 115 • ⏱️ 11:43 • 19h ago
+👁️ 20K • 👍 1K • 💬 115 • ⏱️ 11:43 • 20h ago
 
 ---
 
@@ -413,7 +413,7 @@ Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's 
 
 📺 Coin Bureau
 
-👁️ 19K • 👍 753 • 💬 51 • ⏱️ 18:20 • 15h ago
+👁️ 19K • 👍 753 • 💬 51 • ⏱️ 18:20 • 16h ago
 
 ---
 

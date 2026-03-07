@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T09:53:46.586026+00:00'
+updated: '2026-03-07T10:25:10.803130+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 09:53 UTC  
+**Last Updated:** March 07, 2026 at 10:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 9h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 10h ago
 
 ---
 
@@ -55,7 +55,7 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Send a dm to enquire, thats all I can say. I'll tell you about it in dms. You need to have good hardware
 
-29m ago
+1h ago
 
 ---
 
@@ -63,7 +63,7 @@ Send a dm to enquire, thats all I can say. I'll tell you about it in dms. You ne
 
 I've been thinking about why we build AI agent systems with deterministic orchestration when agents themselves are fundamentally probabilistic. They hallucinate. They fail unpredictably. But we manage them with rigid pipelines and single points of failure. Brains don't work that way. Neurons are wildly unreliable — synapses have a 10-40% transmission rate, cells die daily — yet the architecture produces extraordinary reliability through redundancy, population coding, and connections that strengthen with use. So I built ProbOS — a working prototype of a brain-inspired agent runtime where: - Every file operation is performed by 3 agents independently, verified through quorum consensus - Agents self-select for tasks via capability broadcasting (no central dispatcher) - Adversarial red team agents verify every write operation - Trust scores update via Bayesian inference (Beta distribution) - Routing weights evolve through Hebbian learning — the system literally rewires itself based on what works - An LLM serves as the cognitive layer, decomposing natural language into task DAGs that execute across the agent mesh - When agents fail, the population absorbs it and spawns replacements — no crash state, just reduced capability The stack is Python 3.12 + asyncio, with 5 architectural layers (substrate, mesh, consensus, cognitive, experience), 277 tests passing, 10 agents across 4 pools. In the video I boot it, talk to it in plain English, read and write files through the full consensus pipeline, and show the trust scores and Hebbian weights evolving in real time. The individual pieces exist in literature (multi-agent consensus, Hebbian routing in swarms, brain-inspired computing) but as far as I can find, nobody has wired them together into a working system with an LLM cognitive layer you can interact with. Happy to answer questions about the architecture, the design tradeoffs, or where it breaks down. There's a lot that's still naive — the attention mechanism isn't built yet, episodic memory isn't implemented, and the agent type coverage is minimal (just file operations). But the core paradigm works. https://youtu.be/I3vqHDY04aY
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ BBC • 9h ago
 
 **[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution. - The New York Times](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -133,7 +133,7 @@ The New York Times • 23h ago
 
 How AI will affect both media and software.
 
-Bloomberg.com • 53m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Fortune • 17h ago
 
 Thousands of tech workers have already lost their jobs this year and leaders at some companies say AI will enable employers to do more with smaller teams.
 
-Los Angeles Times • 22h ago
+Los Angeles Times • 23h ago
 
 ---
 
@@ -157,7 +157,7 @@ Los Angeles Times • 22h ago
 
 Is AI taking jobs? Or are companies cutting jobs to pay for the enormous capex outlays on AI?
 
-Fortune • 53m ago
+Fortune • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 17h ago
 
 **[Calif. lawsuit accuses Meta of sending nude video from AI glasses to workers](https://www.sfgate.com/tech/article/meta-ai-glasses-lawsuit-21960004.php)**
 
-SFGATE • 9h ago
+SFGATE • 10h ago
 
 ---
 
@@ -311,7 +311,7 @@ Artificial intelligence is already changing the job market and the classroom, wi
 
 📺 NBC News
 
-👁️ 2K • 👍 24 • 💬 7 • ⏱️ 3:50 • 9h ago
+👁️ 2K • 👍 24 • 💬 7 • ⏱️ 3:50 • 10h ago
 
 ---
 
@@ -371,7 +371,7 @@ Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator M
 
 📺 Creator Magic
 
-👁️ 20K • 👍 700 • 💬 66 • ⏱️ 8:17 • 20h ago
+👁️ 20K • 👍 700 • 💬 66 • ⏱️ 8:17 • 21h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.1k • 🔱 3.1k • 59m ago
+⭐ 24.1k • 🔱 3.1k • 1h ago
 
 ---
 
@@ -683,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.6k • 🔱 493 • 4h ago
+⭐ 6.6k • 🔱 493 • 5h ago
 
 ---
 
@@ -693,7 +693,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 683 • 5h ago
+⭐ 5.8k • 🔱 683 • 6h ago
 
 ---
 
@@ -713,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 385 • 26m ago
+⭐ 3.6k • 🔱 385 • 57m ago
 
 ---
 

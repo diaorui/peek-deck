@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T09:53:46.603700+00:00'
+updated: '2026-03-07T10:25:10.820919+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 09:53 UTC  
+**Last Updated:** March 07, 2026 at 10:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,13 +72,13 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 Sorry if this isn’t the place to post this since it’s really a hobby project and this feels more like a simple blog post. I just figured I’d share it since I had spent time working on it. I suppose there are 3 main reasons why I scrapped it. I made the mistake of designing from the base upward as opposed to from the end-effector downward which led to a loss in desired elegance of the design itself. I also decided that I want to implement 6DOFs instead of just 4. On top of that, I decided to try my hand at accomplishing remote cable transmission for all DOFs aside from the base rotation. I’ve already finished designing the 6DOF arm, I just haven’t assembled it yet. Anyways, here’s a brief overview of the mechanical design. The base is essentially just a turn-table bearing system with 5 bearings between the top and bottom traces. The shoulder transmission is just direct mounting. Elbow transmission is via bevel gears to keep weight closer to the output shaft of the shoulder joint’s motor. The wrist transmission is via capstan antagonistic cabling. Then I have a lever at the end of the 3rd link after the wrist for my desired end-effector function utilizing capstan antagonistic cable transmission as well. I decided to scrap it before finishing the end-effector though. The new design focuses on complete remote transmission via capstan antagonistic cables in conjunction with Bowden cable sheaths used for the 3DOFs I have decoupled at the wrist joint. Again, sorry if this isn’t the place for this as this is something of a blog post more than anything. But I’m hoping this may intrigue someone. Also, I probably will design a proper shell at some point but I have a mini 3D printer and tbh I like seeing everything move.
 
-15h ago
+16h ago
 
 ---
 
 **[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
 
-3m ago
+35m ago
 
 ---
 
@@ -94,7 +94,7 @@ I've had multiple iRobots and they were total junk...There is ALWAYS an error...
 
 I built a SLAM simulator in Rust where you can see EKF-SLAM and FastSLAM running at the same time. I deployed it to the web, so you can place obstructions and landmarks and compare the two algorithms. Live Demo: https://slam.pramodna.com/ Github: https://github.com/7673502/2D-SLAM-Simulator
 
-12h ago
+13h ago
 
 ---
 
@@ -102,7 +102,7 @@ I built a SLAM simulator in Rust where you can see EKF-SLAM and FastSLAM running
 
 Current state of the build: 50% conceptualized, 80% inspired by other robots, and 75% properly dimensioned. I'm basically mashing up a few different designs to see what sticks. Got the first 3 axis figured out so far, but still a long way to go on the 'actual engineering' side of things. https://preview.redd.it/5fbj5ithqjng1.png?width=870&format=png&auto=webp&s=a226c409c3af9274f8efb782f34f989c8cd783a0 https://preview.redd.it/j07eyhthqjng1.png?width=417&format=png&auto=webp&s=246022e6fcc6e79fe7e9afc85ff70859ac75b3a4 https://preview.redd.it/28nzgithqjng1.png?width=869&format=png&auto=webp&s=5604db58629e23aca4f9503614d231201f801b7f https://preview.redd.it/syr4githqjng1.png?width=516&format=png&auto=webp&s=79581300b8624917e159669bb70ba6e6a33a29b3
 
-6h ago
+7h ago
 
 ---
 
@@ -172,13 +172,13 @@ Nature • 1d ago
 
 NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
 
-the wellsville sun • 20h ago
+the wellsville sun • 21h ago
 
 ---
 
 **[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
 
-Investor's Business Daily • 20h ago
+Investor's Business Daily • 21h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video is supported by Kettering University: Accepted @KetteringUniversity19
 
 📺 Planet Roomba
 
-👁️ 6K • 💬 5 • ⏱️ 21:32 • 20h ago
+👁️ 6K • 💬 5 • ⏱️ 21:32 • 21h ago
 
 ---
 
