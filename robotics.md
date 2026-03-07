@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T15:24:52.280120+00:00'
+updated: '2026-03-07T15:46:30.716425+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 15:24 UTC  
+**Last Updated:** March 07, 2026 at 15:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-18h ago
+19h ago
 
 ---
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -54,17 +54,17 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 ---
 
-**[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
-
-22h ago
-
----
-
 **[RIVR unveils RIVR TWO, their own next-generation robot designed for doorstep delivery and AI data collection at scale](https://www.reddit.com/r/robotics/comments/1rmzj14/rivr_unveils_rivr_two_their_own_nextgeneration/)**
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 11h ago
+
+---
+
+**[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
+
+23h ago
 
 ---
 
@@ -76,19 +76,11 @@ I am building a project named gesture controlled rover which can be controlled b
 
 ---
 
-**[My robotics arm object grasping project !](https://www.reddit.com/r/robotics/comments/1rmh1vw/my_robotics_arm_object_grasping_project/)**
+**[[Project] CREW - Emergency robot coordination protocol (open source, ROS 2)](https://www.reddit.com/r/robotics/comments/1rnb97v/project_crew_emergency_robot_coordination/)**
 
-I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
+**How it works:** Fire command broadcasts: "Need thermal imaging + route mapping within 2km" Nearby robots evaluate independently: capability match? battery OK? owner permission? Matching robots volunteer (don't auto-deploy) Human coordinator assigns tasks via web dashboard Owners fly their own robots, sharing what they choose to share **Tech stack:** - ROS 2 (protocol layer) - DDS pub/sub (messaging) - React + WebSockets (real-time dashboard) - JWT authentication + geo-fencing **Why it matters:** Every major city has 100+ commercial robots doing deliveries. During a wildfire or flood, they could provide aerial intel, route mapping, or damage assessment - but there's no coordination system. CREW is that missing layer. Tested with simulated multi-robot scenarios. Next step: real hardware integration Open to feedback, especially on: - Security concerns - Privacy implications - Liability edge cases MIT licensed. Built this over a few days to validate the concept. Demo video | https://youtu.be/dEDPNMCkF6U | https://youtu.be/P7kjSI0aH7o [GitHub](https://github.com/cbaz86/crew-protocol)[Demo[Demo) Video] | [GitHub] If this interests you, ⭐ the repo - helps others discover it. Built an emergency robot coordination protocol that solves a problem I noticed: during disasters, thousands of commercial robots (delivery drones, warehouse bots) sit idle while emergency services are overwhelmed. CREW lets robots volunteer to help during emergencies while keeping humans in control.
 
-23h ago
-
----
-
-**[4DOF arm to tinker with remote transmission before I scrapped it](https://www.reddit.com/r/robotics/comments/1rmln9x/4dof_arm_to_tinker_with_remote_transmission/)**
-
-Sorry if this isn’t the place to post this since it’s really a hobby project and this feels more like a simple blog post. I just figured I’d share it since I had spent time working on it. I suppose there are 3 main reasons why I scrapped it. I made the mistake of designing from the base upward as opposed to from the end-effector downward which led to a loss in desired elegance of the design itself. I also decided that I want to implement 6DOFs instead of just 4. On top of that, I decided to try my hand at accomplishing remote cable transmission for all DOFs aside from the base rotation. I’ve already finished designing the 6DOF arm, I just haven’t assembled it yet. Anyways, here’s a brief overview of the mechanical design. The base is essentially just a turn-table bearing system with 5 bearings between the top and bottom traces. The shoulder transmission is just direct mounting. Elbow transmission is via bevel gears to keep weight closer to the output shaft of the shoulder joint’s motor. The wrist transmission is via capstan antagonistic cabling. Then I have a lever at the end of the 3rd link after the wrist for my desired end-effector function utilizing capstan antagonistic cable transmission as well. I decided to scrap it before finishing the end-effector though. The new design focuses on complete remote transmission via capstan antagonistic cables in conjunction with Bowden cable sheaths used for the 3DOFs I have decoupled at the wrist joint. Again, sorry if this isn’t the place for this as this is something of a blog post more than anything. But I’m hoping this may intrigue someone. Also, I probably will design a proper shell at some point but I have a mini 3D printer and tbh I like seeing everything move.
-
-21h ago
+1h ago
 
 ---
 
@@ -106,17 +98,17 @@ Hi everyone, I am a data systems architect and backend engineer, wanted to learn
 
 ---
 
+**[My robotics arm object grasping project !](https://www.reddit.com/r/robotics/comments/1rmh1vw/my_robotics_arm_object_grasping_project/)**
+
+I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "robotics"
-
-**[Amazon cuts jobs in strategically important robotics division](https://www.businessinsider.com/amazon-robotics-division-job-cuts-2026-3)**
-
-Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
-
-Business Insider • 2d ago
-
----
 
 **[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
 
@@ -126,11 +118,27 @@ GeekWire • 2d ago
 
 ---
 
+**[Amazon cuts jobs in strategically important robotics division](https://www.businessinsider.com/amazon-robotics-division-job-cuts-2026-3)**
+
+Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
+
+Business Insider • 2d ago
+
+---
+
 **[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
 
 Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
 Fox Business • 1d ago
+
+---
+
+**[Qualcomm Weighs AI Export Rules While Expanding Into Robotics Chips](https://finance.yahoo.com/news/qualcomm-weighs-ai-export-rules-150751298.html)**
+
+U.S. officials have released draft rules that would introduce tiered export controls on AI chips, aiming to tighten oversight of advanced processors shipped to certain markets. Qualcomm (NasdaqGS:QCOM) has joined other chipmakers in pushing back on the proposals, arguing the measures could affect access to key international customers and slow AI adoption. At the same time, Qualcomm is promoting its new Dragonwing processor for robotics, highlighting plans to grow beyond smartphones into AI...
+
+Yahoo Finance • 38m ago
 
 ---
 
@@ -150,15 +158,7 @@ Tech Xplore • 1d ago
 
 **[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda)**
 
-Bloomberg.com • 2d ago
-
----
-
-**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
-
-Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
-
-CNBC • 3d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -170,19 +170,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Wellsville robotics team win NY State Championship, headed to Worlds!!](https://wellsvillesun.com/blog/2026/03/06/wellsville-robotics-team-win-ny-state-championship-headed-to-worlds/)**
-
-NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
-
-the wellsville sun • 1d ago
-
----
-
 **[Humanoid robots learn parkour maneuvers from human motion recordings](https://interestingengineering.com/ai-robotics/us-humanoid-robots-learns-tough-parkour-skills)**
 
 Humanoid robots learn parkour using a new AI framework, enabling them to navigate obstacles with human-like agility in complex environments.
 
 Interesting Engineering • 1d ago
+
+---
+
+**[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 

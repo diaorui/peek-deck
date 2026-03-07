@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T15:24:52.261333+00:00'
+updated: '2026-03-07T15:46:30.698576+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 15:24 UTC  
+**Last Updated:** March 07, 2026 at 15:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 3h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 4h ago
 
 ---
 
@@ -55,7 +55,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 22h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 23h ago
 
 ---
 
@@ -69,7 +69,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -91,7 +91,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 23h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 1d ago
 
 ---
 
@@ -115,19 +115,27 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 ## Google News: "ai"
 
+**[Netflix acquires Ben Affleck's AI company](https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal)**
+
+Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
+
+NPR • 18h ago
+
+---
+
 **[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
-**[The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns](https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns)**
+**[The unexpected 92,000 drop in payrolls is a clue we might be reading the AI jobs narrative all wrong](https://fortune.com/2026/03/07/is-ai-taking-jobs-payrolls-drop-narrative-outlook/)**
 
-February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
+Is AI taking jobs? Or are companies cutting jobs to pay for the enormous capex outlays on AI?
 
-Fox Business • 21h ago
+Fortune • 6h ago
 
 ---
 
@@ -137,37 +145,19 @@ The New York Times • 1d ago
 
 ---
 
-**[Netflix acquires Ben Affleck's AI company](https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal)**
-
-Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
-
-NPR • 17h ago
-
----
-
 **[7 danger moments that show AI's darker side](https://www.axios.com/2026/03/07/ai-danger-risks-study-research-backlash)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
-**[The OpenClaw superfan meetup serves optimism and lobster](https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai)**
+**[Plug Power Plans Hydrogen Offering in Top US Power-Grid Auction](https://www.bloomberg.com/news/articles/2026-03-07/plug-power-plans-hydrogen-offering-in-top-us-power-grid-auction?srnd=phx-green)**
 
-A dispatch from inside NYC’s ClawCon, where hundreds of OpenClaw and AI aficionados gathered.
-
-The Verge • 1h ago
+Bloomberg • 46m ago
 
 ---
 
-**[Is the Pentagon allowed to surveil Americans with AI?](https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/)**
-
-Artificial intelligence is supercharging surveillance, and the law has not caught up with it.
-
-MIT Technology Review • 20h ago
-
----
-
-**[What does the US military’s feud with Anthropic mean for AI used in war?](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military)**
+**[What does the US military’s feud with Anthropic mean for AI used in war? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military)**
 
 Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
 
@@ -175,9 +165,11 @@ The Guardian • 1h ago
 
 ---
 
-**[Opinion | Why the Pentagon Wants to Destroy Anthropic](https://www.nytimes.com/2026/03/06/opinion/ezra-klein-podcast-dean-ball.html)**
+**[‘It means missile defence on datacentres’: drone strikes raise doubts over Gulf as AI superpower](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower)**
 
-The New York Times • 1d ago
+Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
+
+The Guardian • 1h ago
 
 ---
 
@@ -185,7 +177,15 @@ The New York Times • 1d ago
 
 The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-BBC • 14h ago
+BBC • 15h ago
+
+---
+
+**[Iran War, Iran Israel US War News: AI That Edits Your Photos Now Drops Bombs From Sky, And Iran Paid The Price](https://www.ndtv.com/world-news/iran-war-iran-israel-us-war-news-these-systems-are-leading-the-ai-takeover-of-battlefields-11181865)**
+
+The entry of AI in warfare has changed how we assess battlefields. What took hours to take a shot at has become a second's job. It's automated.
+
+NDTV • 4h ago
 
 ---
 
@@ -205,13 +205,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 322 • 💬 547 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 322 • 💬 548 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 298 • 💬 113 • 1d ago • [406.fail](https://406.fail/)
+⬆️ 298 • 💬 114 • 1d ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -219,7 +219,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 206 • 💬 320 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 208 • 💬 324 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -235,7 +235,7 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 Slopforks: what happens when a library gets rewritten with AI?
 
-⬆️ 177 • 💬 183 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+⬆️ 178 • 💬 183 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
 
 ---
 
@@ -244,6 +244,14 @@ Slopforks: what happens when a library gets rewritten with AI?
 Human DX optimizes for discoverability. Agent DX optimizes for predictability. What I learned building a CLI for agents first.
 
 ⬆️ 161 • 💬 63 • 2d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
+
+---
+
+**[Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours](https://news.ycombinator.com/item?id=47287458)**
+
+US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
+
+⬆️ 80 • 💬 68 • 2h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -258,14 +266,6 @@ Human DX optimizes for discoverability. Agent DX optimizes for predictability. W
 Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology
 
 ⬆️ 55 • 💬 12 • 2d ago • [ft.com](https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b)
-
----
-
-**[Regulator contacts Meta over workers watching intimate AI glasses videos](https://news.ycombinator.com/item?id=47257020)**
-
-Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.
-
-⬆️ 53 • 💬 11 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c0q33nvj0qpo)
 
 ---
 
@@ -329,7 +329,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 36K • 👍 932 • 💬 192 • ⏱️ 21:16 • 17h ago
+👁️ 36K • 👍 932 • 💬 192 • ⏱️ 21:16 • 18h ago
 
 ---
 
@@ -349,7 +349,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 52K • 👍 2K • 💬 272 • ⏱️ 38:02 • 21h ago
+👁️ 52K • 👍 2K • 💬 272 • ⏱️ 38:02 • 22h ago
 
 ---
 
@@ -359,7 +359,7 @@ Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thin
 
 📺 AI Explained
 
-👁️ 50K • 👍 2K • 💬 357 • ⏱️ 21:52 • 22h ago
+👁️ 50K • 👍 2K • 💬 357 • ⏱️ 21:52 • 23h ago
 
 ---
 
@@ -651,7 +651,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.9k • 🔱 530 • 13h ago
+⭐ 14.9k • 🔱 530 • 14h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.7k • 🔱 850 • 3d ago
+⭐ 6.7k • 🔱 850 • 4d ago
 
 ---
 
@@ -711,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 386 • 3h ago
+⭐ 3.6k • 🔱 386 • 4h ago
 
 ---
 
@@ -721,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 245 • 2h ago
+⭐ 3.4k • 🔱 245 • 3h ago
 
 ---
 

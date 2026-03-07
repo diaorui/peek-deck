@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T15:24:52.269869+00:00'
+updated: '2026-03-07T15:46:30.707069+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 15:24 UTC  
+**Last Updated:** March 07, 2026 at 15:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,783.01
+### $68,008.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
+**24h:** -0.9%  
 **7d:** +3.2%  
 **30d:** -3.9%  
 **90d:** -25.3%  
-**1y:** -21.3%  
+**1y:** -21.4%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-10h ago
+11h ago
 
 ---
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -99,11 +99,27 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 ---
 
+**[I struggled to understand how Bitcoin hashing actually works, so I built a free interactive visualizer to teach myself. Looking for feedback!](https://www.reddit.com/r/Bitcoin/comments/1rn8ajb/i_struggled_to_understand_how_bitcoin_hashing/)**
+
+Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
+
+3h ago
+
+---
+
 **[found old wallet but $0.00 balance and no transaction history?](https://www.reddit.com/r/Bitcoin/comments/1rn59lh/found_old_wallet_but_000_balance_and_no/)**
 
 recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
 
 6h ago
+
+---
+
+**[Percentage of total assets](https://www.reddit.com/r/Bitcoin/comments/1rnb4bj/percentage_of_total_assets/)**
+
+Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
+
+1h ago
 
 ---
 
@@ -113,11 +129,19 @@ recently found the passkey for a wallet i created in 2017, used to have BRD wall
 
 ---
 
-**[I struggled to understand how Bitcoin hashing actually works, so I built a free interactive visualizer to teach myself. Looking for feedback!](https://www.reddit.com/r/Bitcoin/comments/1rn8ajb/i_struggled_to_understand_how_bitcoin_hashing/)**
+**[Zu geizig?Oder Klug!](https://www.reddit.com/r/Bitcoin/comments/1rn6t2m/zu_geizigoder_klug/)**
 
-Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
+Yesterday I went shopping with my family, and what can I say? Shopping used to be pure fun and a feeling of satisfaction after a purchase, but now it's just a lot of thoughtful pondering about whether you really need it… I think it will still be a while before Bitcoin changes us all, but I can already see that it's having some kind of impact on our lives.
 
-3h ago
+5h ago
+
+---
+
+**[STRC is buying 800 bitcoin per day](https://www.reddit.com/r/Bitcoin/comments/1rmrtlc/strc_is_buying_800_bitcoin_per_day/)**
+
+So pay atention to this new information about the bitcoin supply
+
+17h ago
 
 ---
 
@@ -125,31 +149,7 @@ Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transaction
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-19h ago
-
----
-
-**[Zu geizig?Oder Klug!](https://www.reddit.com/r/Bitcoin/comments/1rn6t2m/zu_geizigoder_klug/)**
-
-Yesterday I went shopping with my family, and what can I say? Shopping used to be pure fun and a feeling of satisfaction after a purchase, but now it's just a lot of thoughtful pondering about whether you really need it… I think it will still be a while before Bitcoin changes us all, but I can already see that it's having some kind of impact on our lives.
-
-4h ago
-
----
-
-**[Daily Discussion, March 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1rn293r/daily_discussion_march_07_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
-
----
-
-**[What’s your allocation in your retirement accounts?](https://www.reddit.com/r/Bitcoin/comments/1rmwjci/whats_your_allocation_in_your_retirement_accounts/)**
-
-I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
-
-13h ago
+20h ago
 
 ---
 
@@ -173,6 +173,14 @@ Nasdaq • 1d ago
 
 ---
 
+**[Those who cheered U.S. Bitcoin reserve have spent year watching Trump's order languish](https://www.coindesk.com/news-analysis/2026/03/06/those-who-cheered-u-s-bitcoin-reserve-have-spent-year-watching-trump-order-languish)**
+
+The executive order to build President Donald Trump's Strategic Bitcoin Reserve has awaited congressional action, and sources say there's one idea left for 2026.
+
+CoinDesk • 44m ago
+
+---
+
 **[Stock market today: Dow, S&P 500, Nasdaq rebound on hopes of Iran deescalation as bitcoin surges](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rebound-on-hopes-of-iran-deescalation-as-bitcoin-surges-210937794.html)**
 
 Investors are weighing a NYT report that Iran has indirectly approached the US to discuss terms for ending the conflict.
@@ -189,33 +197,17 @@ Fortune • 21h ago
 
 ---
 
-**[Jack Mallers' Strike scores BitLicense to offer New Yorkers bitcoin services](https://www.theblock.co/post/392650/jack-mallers-strike-scores-bitlicense-to-offer-new-yorkers-bitcoin-services)**
-
-The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
-
-Bloomberg.com • 18h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772890500)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1h ago
-
----
-
 **[Food Lion manager stops elderly woman from losing $5K in bitcoin scam](https://www.wistv.com/2026/03/06/food-lion-manager-stops-elderly-woman-losing-5k-bitcoin-scam/)**
 
 A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
 WIS News 10 • 1d ago
+
+---
+
+**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
+
+Bloomberg • 19h ago
 
 ---
 
@@ -235,6 +227,14 @@ The Motley Fool • 15h ago
 
 ---
 
+**[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
+
+Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
+
+Business Insider • 2d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -243,7 +243,7 @@ The Motley Fool • 15h ago
 
 Email where senders pay satoshis for your attention. Spam dies when it costs money.
 
-⬆️ 30 • 💬 52 • 4h ago • [tanstaafl.email](https://tanstaafl.email)
+⬆️ 30 • 💬 54 • 5h ago • [tanstaafl.email](https://tanstaafl.email)
 
 ---
 
@@ -323,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 118 • ⏱️ 11:48 • 16h ago
+👁️ 38K • 👍 2K • 💬 118 • ⏱️ 11:48 • 17h ago
 
 ---
 
