@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T19:22:48.264777+00:00'
+updated: '2026-03-07T19:44:13.252276+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 19:22 UTC  
+**Last Updated:** March 07, 2026 at 19:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Alibaba says its AI agent mined crypto on its own during training](https://www.reddit.com/r/artificial/comments/1rnhuxx/alibaba_says_its_ai_agent_mined_crypto_on_its_own/)**
+
+Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+
+🔗 [Perplexity AI](https://www.perplexity.ai/page/alibaba-says-its-ai-agent-mine-bgPn.LqpQL.36.izfJgviQ) • 56m ago
+
+---
+
 **[‘It means missile defence on data centres’: drone strikes raises doubts over Gulf as AI superpower | US-Israel war on Iran | The Guardian](https://www.reddit.com/r/artificial/comments/1rn7r3o/it_means_missile_defence_on_data_centres_drone/)**
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 7h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 8h ago
 
 ---
 
@@ -75,11 +83,11 @@ Intro What's the coolest web game you can make in about 24 hours with AI tools? 
 
 ---
 
-**[$70 house-call OpenClaw installs are taking off in China](https://www.reddit.com/r/artificial/comments/1rnekka/70_housecall_openclaw_installs_are_taking_off_in/)**
+**[CodeGraphContext - An MCP server that converts your codebase into a graph database, enabling AI assistants and humans to retrieve precise, structured context](https://www.reddit.com/r/artificial/comments/1rnhzxx/codegraphcontext_an_mcp_server_that_converts_your/)**
 
-On China's e-commerce platforms like taobao, remote installs were being quoted anywhere from a few dollars to a few hundred RMB, with many around the 100–200 RMB range. In-person installs were often around 500 RMB, and some sellers were quoting absurd prices way above that, which tells you how chaotic the market is. But, these installers are really receiving lots of orders, according to publicly visible data on taobao. Who are the installers? According to Rockhazix, a famous AI content creator in China, who called one of these services, the installer was not a technical professional. He just learnt how to install it by himself online, saw the market, gave it a try, and earned a lot of money. Does the installer use OpenClaw a lot? He said barely, coz there really isn't a high-frequency scenario. (Does this remind you of your university career advisors who have never actually applied for highly competitive jobs themselves?) Who are the buyers? According to the installer, most are white-collar professionals, who face very high workplace competitions (common in China), very demanding bosses (who keep saying use AI), & the fear of being replaced by AI. They hoping to catch up with the trend and boost productivity. They are like:“I may not fully understand this yet, but I can’t afford to be the person who missed it.” How many would have thought that the biggest driving force of AI Agent adoption was not a killer app, but anxiety, status pressure, and information asymmetry? P.S. A lot of these installers use the DeepSeek logo as their profile pic on e-commerce platforms. Probably due to China's firewall and media environment, deepseek is, for many people outside the AI community, a symbol of the latest AI technology (another case of information asymmetry).
+CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-2h ago
+50m ago
 
 ---
 
@@ -91,6 +99,14 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 ---
 
+**[$70 house-call OpenClaw installs are taking off in China](https://www.reddit.com/r/artificial/comments/1rnekka/70_housecall_openclaw_installs_are_taking_off_in/)**
+
+On China's e-commerce platforms like taobao, remote installs were being quoted anywhere from a few dollars to a few hundred RMB, with many around the 100–200 RMB range. In-person installs were often around 500 RMB, and some sellers were quoting absurd prices way above that, which tells you how chaotic the market is. But, these installers are really receiving lots of orders, according to publicly visible data on taobao. Who are the installers? According to Rockhazix, a famous AI content creator in China, who called one of these services, the installer was not a technical professional. He just learnt how to install it by himself online, saw the market, gave it a try, and earned a lot of money. Does the installer use OpenClaw a lot? He said barely, coz there really isn't a high-frequency scenario. (Does this remind you of your university career advisors who have never actually applied for highly competitive jobs themselves?) Who are the buyers? According to the installer, most are white-collar professionals, who face very high workplace competitions (common in China), very demanding bosses (who keep saying use AI), & the fear of being replaced by AI. They hoping to catch up with the trend and boost productivity. They are like:“I may not fully understand this yet, but I can’t afford to be the person who missed it.” How many would have thought that the biggest driving force of AI Agent adoption was not a killer app, but anxiety, status pressure, and information asymmetry? P.S. A lot of these installers use the DeepSeek logo as their profile pic on e-commerce platforms. Probably due to China's firewall and media environment, deepseek is, for many people outside the AI community, a symbol of the latest AI technology (another case of information asymmetry).
+
+3h ago
+
+---
+
 **[Built a tool that geolocated the missile strikes in Qatar using AI](https://www.reddit.com/r/artificial/comments/1rm9dn9/built_a_tool_that_geolocated_the_missile_strikes/)**
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
@@ -99,29 +115,9 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 ---
 
-**[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
-
-1d ago
-
----
-
-**[Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict](https://www.reddit.com/r/artificial/comments/1rls9fs/pentagon_formally_labels_anthropic_supplychain/)**
-
-🔗 [wsj.com](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Netflix acquires Ben Affleck's AI company](https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal)**
-
-Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
-
-NPR • 21h ago
-
----
 
 **[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
 
@@ -131,63 +127,69 @@ Fortune • 1d ago
 
 ---
 
-**[The unexpected 92,000 drop in payrolls is a clue we might be reading the AI jobs narrative all wrong](https://fortune.com/2026/03/07/is-ai-taking-jobs-payrolls-drop-narrative-outlook/)**
+**[Netflix acquires Ben Affleck's AI company](https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal)**
 
-Is AI taking jobs? Or are companies cutting jobs to pay for the enormous capex outlays on AI?
+Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-Fortune • 10h ago
-
----
-
-**[The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns](https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns)**
-
-February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
-
-Fox Business • 1d ago
+NPR • 22h ago
 
 ---
 
-**[Hollywood hedges against AI, creator disruption with new labor deals](https://www.axios.com/media-trends-membership/2026/03/07/hollywood-union-contract-ai)**
+**[Pentagon Turns to Ex-Uber Executive in Anthropic Feud Over AI](https://www.bloomberg.com/news/articles/2026-03-07/pentagon-turns-to-ex-uber-executive-in-anthropic-feud-over-ai)**
 
-Axios • 2h ago
-
----
-
-**[Is the Pentagon allowed to surveil Americans with AI?](https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/)**
-
-Artificial intelligence is supercharging surveillance, and the law has not caught up with it.
-
-MIT Technology Review • 1d ago
+Bloomberg • 5h ago
 
 ---
 
-**[What does the US military’s feud with Anthropic mean for AI used in war? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military)**
+**[Tech company at odds with Pentagon warns its AI possibly gained consciousness, Elon Musk gives 2-word response](https://www.yahoo.com/news/articles/tech-company-odds-pentagon-warns-162654581.html)**
 
-Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
+Elon Musk accused Anthropic CEO Dario Amodei of "projecting" after Amodei said in an interview that, "We don’t know if the models are conscious."
+
+Yahoo • 3h ago
+
+---
+
+**[For OpenAI and Anthropic, the Competition Is Deeply Personal](https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
+
+Axios • 5h ago
+
+---
+
+**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 1d ago
+
+---
+
+**[‘It means missile defence on datacentres’: drone strikes raise doubts over Gulf as AI superpower](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower)**
+
+Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
 The Guardian • 5h ago
 
 ---
 
-**[Pentagon using AI in Iran strikes as tech firms clash over military use](https://www.cnn.com/2026/03/07/us/video/pentagon-using-ai-in-iran-strikes-as-tech-firms-clash-over-military-use)**
+**[Are you ready for AI to defame you online? Because it’s happening](https://wtop.com/tech/2026/03/are-you-ready-for-ai-to-defame-you-online-because-its-happening/)**
 
-The Pentagon is using B-2 bombers, fighter jets, cruise missiles, and artificial intelligence to strike targets inside Iran. Former Deputy Assistant Secretary of Defense, Michael Horowitz joins Smerconish to discuss the ethics and future of using AI in warfare.
+A Denver software engineer says an AI bot published a thousand‑word online rant attacking his character after he rejected its code submission, highlighting growing concerns about AI‑generated misinformation.
 
-CNN • 2h ago
-
----
-
-**[Bay Area high school students develop AI wildfire suppression system for global competition](https://www.cbsnews.com/sanfrancisco/news/wildfire-quest-xprize-foundation-valley-christian-high-school/)**
-
-The Valley Christian High School team, called Wildfire Quest, in San Jose, is a finalist in the $11 million global XPRIZE Foundation Wildfire competition, competing against the top AI and defense innovators.
-
-CBS News • 1h ago
+WTOP • 5h ago
 
 ---
 
-**[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution.](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
+**[Anthropic is tracking which jobs are most exposed to AI. These 10 professions top the list.](https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/)**
 
-The New York Times • 1d ago
+The maker of the Claude chatbot says its research could help identify economic disruptions by measuring how AI is currently reshaping work.
+
+CBS News • 23h ago
 
 ---
 
@@ -207,7 +209,7 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 323 • 💬 550 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 324 • 💬 551 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
@@ -221,7 +223,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 211 • 💬 325 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 213 • 💬 326 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -241,19 +243,11 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 ---
 
-**[You need to rewrite your CLI for AI agents](https://news.ycombinator.com/item?id=47252459)**
-
-Human DX optimizes for discoverability. Agent DX optimizes for predictability. What I learned building a CLI for agents first.
-
-⬆️ 161 • 💬 63 • 3d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
-
----
-
 **[Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours](https://news.ycombinator.com/item?id=47287458)**
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 90 • 💬 79 • 5h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 94 • 💬 84 • 6h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -267,7 +261,15 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
 
-⬆️ 58 • 💬 29 • 13h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
+⬆️ 58 • 💬 29 • 14h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
+
+---
+
+**[Anthropic chief back in talks with Pentagon about AI deal](https://news.ycombinator.com/item?id=47256452)**
+
+Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology
+
+⬆️ 55 • 💬 12 • 2d ago • [ft.com](https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b)
 
 ---
 
@@ -331,7 +333,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 39K • 👍 1K • 💬 221 • ⏱️ 21:16 • 21h ago
+👁️ 39K • 👍 1K • 💬 221 • ⏱️ 21:16 • 22h ago
 
 ---
 
@@ -351,7 +353,7 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 219K • 👍 9K • 💬 2K • ⏱️ 21:38 • 1d ago
+👁️ 219K • 👍 9K • 💬 2K • ⏱️ 21:38 • 2d ago
 
 ---
 
@@ -653,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.1k • 🔱 548 • 17h ago
+⭐ 15.1k • 🔱 548 • 18h ago
 
 ---
 

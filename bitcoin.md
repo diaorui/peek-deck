@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T19:22:48.273348+00:00'
+updated: '2026-03-07T19:44:13.259668+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 19:22 UTC  
+**Last Updated:** March 07, 2026 at 19:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +2.8%  
-**30d:** -4.3%  
-**90d:** -25.6%  
-**1y:** -21.7%  
+**24h:** -1.2%  
+**7d:** +2.4%  
+**30d:** -4.7%  
+**90d:** -25.9%  
+**1y:** -21.9%  
 
 ---
 
@@ -77,19 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[those who bought the top](https://www.reddit.com/r/Bitcoin/comments/1rn0cm7/those_who_bought_the_top/)**
+**[Bank Refusing $20K Withdrawal](https://www.reddit.com/r/Bitcoin/comments/1rnhcqc/bank_refusing_20k_withdrawal/)**
 
-if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
+This is why we Bitcoin $BTC. When your banks starts questioning you about your post tax money, you know it's BITCOIN time
 
-14h ago
-
----
-
-**[Percentage of total assets](https://www.reddit.com/r/Bitcoin/comments/1rnb4bj/percentage_of_total_assets/)**
-
-Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
-
-5h ago
+🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 1h ago
 
 ---
 
@@ -98,6 +90,22 @@ Hey guys I am considering buying bitcoin as part of a diversification effort. I 
 Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
 7h ago
+
+---
+
+**[those who bought the top](https://www.reddit.com/r/Bitcoin/comments/1rn0cm7/those_who_bought_the_top/)**
+
+if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
+
+15h ago
+
+---
+
+**[Percentage of total assets](https://www.reddit.com/r/Bitcoin/comments/1rnb4bj/percentage_of_total_assets/)**
+
+Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
+
+5h ago
 
 ---
 
@@ -131,11 +139,11 @@ recently found the passkey for a wallet i created in 2017, used to have BRD wall
 
 ---
 
-**[Leave your honest thoughts](https://www.reddit.com/r/Bitcoin/comments/1rnbh13/leave_your_honest_thoughts/)**
+**[BTC Beginner](https://www.reddit.com/r/Bitcoin/comments/1rnis1v/btc_beginner/)**
 
-If you had $1,000 in spare cash right now, would you spend it now, or buy Bitcoin and wait ten years?
+Been in since 2017 and I finally converted everything to BTC and set up monthly payments and will forget about them for the next Decade. Part of me wishes I started with BTC but I made profits… Now it’s BTC or bust!
 
-4h ago
+21m ago
 
 ---
 
@@ -147,45 +155,9 @@ So pay atention to this new information about the bitcoin supply
 
 ---
 
-**[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin slips below $68,000 as dollar posts steepest weekly gain in a year](https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year)**
-
-Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
-
-CoinDesk • 13h ago
-
----
-
-**[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.nasdaq.com/articles/better-cryptocurrency-buy-and-hold-10-years-or-more-bitcoin-vs-cardano)**
-
-Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
-
-Nasdaq • 1d ago
-
----
-
-**[Bitcoin dips below $70,000 as US-Iran war brings back crypto volatility](https://finance.yahoo.com/news/bitcoin-dips-below-70-000-150445515.html)**
-
-Bitcoin nearly touched $74,000 this week. But it’s now trading below $70,000. Volatility has returned to crypto markets following the US-Israel attack on Iran.
-
-Yahoo Finance • 4h ago
-
----
-
-**[BITCOIN JUST HIT MOST OVERSOLD LEVEL IN 11 YEARS Something Big Maybe Coming!](https://www.binance.com/da-DK/square/post/299033810499730)**
-
-Binance • 3h ago
-
----
 
 **[Those who cheered U.S. Bitcoin reserve have spent year watching Trump's order languish](https://www.coindesk.com/news-analysis/2026/03/06/those-who-cheered-u-s-bitcoin-reserve-have-spent-year-watching-trump-order-languish)**
 
@@ -195,17 +167,55 @@ CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
+**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
 
-Bloomberg • 22h ago
+The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
+
+Fortune • 1d ago
 
 ---
 
-**[Why Leopold Aschenbrenner’s AI hedge fund is betting big on power companies and Bitcoin miners to fuel the AI boom](https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/)**
+**[Bitcoin’s painful near-50% crash put holders at risk, and is a wake-up call for Canadian investors](https://ca.finance.yahoo.com/news/bitcoin-painful-near-50-crash-160500416.html)**
 
-New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
+The idea that bitcoin holds value when everything else falls has taken a serious beating this cycle
 
-Fortune • 2d ago
+Yahoo! Finance Canada • 3h ago
+
+---
+
+**[Bitcoin purist Jack Dorsey says that his firm is reluctantly giving in to stablecoin craze](https://www.coindesk.com/business/2026/03/07/bitcoin-purist-jack-dorsey-s-firm-is-reluctantly-giving-in-to-stablecoin-craze)**
+
+The shift comes as stablecoins surge in popularity and competitors like Stripe and PayPal add stablecoin options, increasing market pressure.
+
+CoinDesk • 2h ago
+
+---
+
+**[Top Wall Street minds see AI rotation ahead as bitcoin seeks role in new cycle](https://www.coindesk.com/markets/2026/03/07/top-wall-street-minds-see-ai-rotation-ahead-as-bitcoin-seeks-role-in-new-cycle)**
+
+BlackRock’s Rick Rieder, UBS’s Ulrike Hoffmann-Burchardi and Third Point’s Daniel Loeb see steady economic growth but a tougher market environment.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin Needs a Monster Rally to Hit $150,000 by December -- and Prediction Markets See Only an 11% Shot](https://www.nasdaq.com/articles/bitcoin-needs-monster-rally-hit-150000-december-and-prediction-markets-see-only-11-shot)**
+
+Key PointsPrediction markets are a useful tool in gauging the odds of a future event.
+
+Nasdaq • 10h ago
+
+---
+
+**[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
+
+Forbes • 6h ago
+
+---
+
+**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
+
+Bloomberg • 23h ago
 
 ---
 
@@ -217,31 +227,17 @@ CBC • 1d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772900700)**
+**[Food Lion manager stops elderly woman from losing $5K in bitcoin scam](https://www.wistv.com/2026/03/06/food-lion-manager-stops-elderly-woman-losing-5k-bitcoin-scam/)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
-Polymarket • 1d ago
-
----
-
-**['Spend And Print'—Oil Price Shock Fuels Bold Bitcoin Price Prediction](https://www.forbes.com/sites/boazsobrado/2026/03/06/spend-and-print-oil-price-shock-fuels-bold-bitcoin-price-prediction/)**
-
-Forbes • 1d ago
+WIS News 10 • 1d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning](https://news.ycombinator.com/item?id=47286300)**
-
-Email where senders pay satoshis for your attention. Spam dies when it costs money.
-
-⬆️ 30 • 💬 57 • 8h ago • [tanstaafl.email](https://tanstaafl.email)
-
----
 
 **[Mt. Gox CEO Suggests Bitcoin Hard Fork to Recover $5B in Customer Funds](https://news.ycombinator.com/item?id=47205894)**
 
@@ -299,13 +295,21 @@ A Go-based platform for running AI agents on schedules with tasks, skills, and p
 
 A portable encrypted USB vault with a dead man's switch. Your passwords, financial accounts, crypto wallets, and goodbye messages -- delivered to the people you choose, automatically.
 
-⬆️ 2 • 💬 1 • 4d ago • [DeadSwitch](https://dead-switch.com/)
+⬆️ 2 • 💬 2 • 4d ago • [DeadSwitch](https://dead-switch.com/)
 
 ---
 
 **[Crypto Is Pointless. Not Even the White House Can Fix That.](https://news.ycombinator.com/item?id=47226129)**
 
 ⬆️ 10 • 💬 5 • 4d ago • [nytimes.com](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)
+
+---
+
+**[BTC miners pivoting towards AI](https://news.ycombinator.com/item?id=47235235)**
+
+Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin treasuries to AI infrastructure.
+
+⬆️ 4 • 💬 1 • 4d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/03/end-of-bitcoin-hodl-public-miners-going-all-in-on-ai-signaling-more-btc-selling)
 
 ---
 
@@ -329,7 +333,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 130 • ⏱️ 11:48 • 20h ago
+👁️ 42K • 👍 2K • 💬 130 • ⏱️ 11:48 • 21h ago
 
 ---
 

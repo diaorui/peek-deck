@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T19:22:48.282619+00:00'
+updated: '2026-03-07T19:44:13.267520+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 19:22 UTC  
+**Last Updated:** March 07, 2026 at 19:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,13 +50,21 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-22h ago
+23h ago
 
 ---
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-17h ago
+18h ago
+
+---
+
+**[Hexapoddd in the processsss](https://www.reddit.com/r/robotics/comments/1rnip3e/hexapoddd_in_the_processsss/)**
+
+Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
+
+24m ago
 
 ---
 
@@ -90,19 +98,11 @@ Thought this was pretty interesting and never even thought there'd be a of a rec
 
 ---
 
-**[Curious about robotics and how can I leverage software engineering experience in robotics](https://www.reddit.com/r/robotics/comments/1rnaf4e/curious_about_robotics_and_how_can_i_leverage/)**
-
-Hi everyone, I am a data systems architect and backend engineer, wanted to learn about robotics and how I can leverage my experience in this field. Can anyone help me with it?
-
-5h ago
-
----
-
 **[[Project] CREW - Emergency robot coordination protocol (open source, ROS 2)](https://www.reddit.com/r/robotics/comments/1rnb97v/project_crew_emergency_robot_coordination/)**
 
 **How it works:** Fire command broadcasts: "Need thermal imaging + route mapping within 2km" Nearby robots evaluate independently: capability match? battery OK? owner permission? Matching robots volunteer (don't auto-deploy) Human coordinator assigns tasks via web dashboard Owners fly their own robots, sharing what they choose to share **Tech stack:** - ROS 2 (protocol layer) - DDS pub/sub (messaging) - React + WebSockets (real-time dashboard) - JWT authentication + geo-fencing **Why it matters:** Every major city has 100+ commercial robots doing deliveries. During a wildfire or flood, they could provide aerial intel, route mapping, or damage assessment - but there's no coordination system. CREW is that missing layer. Tested with simulated multi-robot scenarios. Next step: real hardware integration Open to feedback, especially on: - Security concerns - Privacy implications - Liability edge cases MIT licensed. Built this over a few days to validate the concept. Demo video | https://youtu.be/dEDPNMCkF6U | https://youtu.be/P7kjSI0aH7o [GitHub](https://github.com/cbaz86/crew-protocol)[Demo[Demo) Video] | [GitHub] If this interests you, ⭐ the repo - helps others discover it. Built an emergency robot coordination protocol that solves a problem I noticed: during disasters, thousands of commercial robots (delivery drones, warehouse bots) sit idle while emergency services are overwhelmed. CREW lets robots volunteer to help during emergencies while keeping humans in control.
 
-4h ago
+5h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi everyone, I am a data systems architect and backend engineer, wanted to learn
 
 Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
 
-Business Insider • 2d ago
+Business Insider • 3d ago
 
 ---
 
@@ -134,11 +134,19 @@ Fox Business • 2d ago
 
 ---
 
+**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
+
+Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
+
+CNBC • 3d ago
+
+---
+
 **[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.yahoo.com/news/articles/openais-robotics-head-quits-companys-174308251.html)**
 
 Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -175,12 +183,6 @@ The Motley Fool • 9h ago
 Humanoid robots learn parkour using a new AI framework, enabling them to navigate obstacles with human-like agility in complex environments.
 
 Interesting Engineering • 1d ago
-
----
-
-**[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
-
-Investor's Business Daily • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-07T19:22:48.279393+00:00'
+updated: '2026-03-07T19:44:13.264805+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 19:22 UTC  
+**Last Updated:** March 07, 2026 at 19:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +1.7%  
-**30d:** -4.5%  
-**90d:** -36.9%  
-**1y:** -10.5%  
+**24h:** -0.9%  
+**7d:** +1.2%  
+**30d:** -5.0%  
+**90d:** -37.2%  
+**1y:** -10.9%  
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Yesterday I posted about verifying Vitalik's first token contract and got a great response. A few people asked how to follow along as more proofs are published, so I set up two places to track them: GitHub: awesome-ethereum-proofs - each proof has its own repo with a reproducible verification script Web: ethereumhistory.com/proofs - browse all verified contracts with deployment dates, compiler versions, and methodology Most contracts deployed in August 2015 have no verified source on Etherscan. The compilers are too old for automated tools, source code was hosted on Pastebin links that expired years ago, and some contracts used languages Etherscan doesn't even support (Serpent, LLL). So I've been doing it manually - testing every early compiler version against on-chain bytecode until I get a byte-for-byte match. Since the Vitalik post, here are 4 new proofs: "Test" - First Executable Contract (Aug 7, 2015, block 48,643) The earliest contract with executable code on Ethereum mainnet. Compiled with soljson v0.1.1, the first publicly available Solidity compiler release. Just 8 days after mainnet launch. Hello World Greeter (Aug 7, 2015, block 48,681) Ethereum's "Hello World" moment. Deployed 38 blocks after the first executable contract, same day, same compiler. Based on the greeter tutorial that shipped with the early Ethereum documentation. EarlyChainLetter10ETH (Aug 8, 2015, block 49,931) A chain letter pyramid contract from day 2 of smart contract deployment. One of the first attempts at a financial game on Ethereum. Participants sent 10 ETH to join, and the contract would pay out earlier participants as new ones joined. FunDistributor (Aug 10, 2015, block 62,632) A "king of the hill" behavioral economics experiment. Send more than 1% of the contract's balance to become the receiver. If nobody touches the contract for 200+ blocks (~45 min), the current receiver gets paid out. The original source was on Pastebin (link expired) - had to reconstruct it entirely from bytecode. Interesting discrepancy: the Reddit announcement said the payout was 25% of the balance, but the verified code shows this.balance / 3 (33.3%). Some things I've learned doing this: Operand order matters in solc 0.1.1. msg.value * 100 and 100 * msg.value produce different bytecode because the compiler evaluates right-to-left. The private keyword existed in solc 0.1.1 but was almost never used. FunDistributor is one of the earliest known uses. Solidity function declaration order affects optimizer output. Changing the order of functions in the source can completely change the compiled bytecode. There are 11 proofs so far covering contracts from Aug 2015 through Apr 2016, including Serpent, Solidity, and contracts by Vitalik and Gavin Wood. More coming as I work through the earliest blocks. If you know of any early contracts with lost source code, I'd love to hear about them.
 
-5h ago
-
----
-
-**[Ethereum co-founder just moved $157M worth of ETH to Kraken after 7 months of inactivity](https://www.reddit.com/r/ethereum/comments/1rng1lo/ethereum_cofounder_just_moved_157m_worth_of_eth/)**
-
-One of the early ETH wallets woke up today. Jeffrey Wilcke (Ethereum co-founder) moved about 79k ETH (~$157M) to Kraken after roughly 7 months of inactivity. The transfers were split across a few addresses before hitting the exchange. He still holds around 27k ETH (~$54M) on-chain though, so it’s not like the wallet got fully emptied. Could be a lot of things honestly — custody change, OTC deal, portfolio rebalancing, who knows. But whenever one of the early Ethereum guys moves coins it definitely gets people watching the charts. Quick breakdown of the transfers here if anyone wants to see the details: https://btcusa.com/ethereum-co-founder-jeffrey-wilcke-moves-157-million-in-eth-to-kraken/ Curious what people think — just normal wallet movement or potential sell pressure?
-
-1h ago
+6h ago
 
 ---
 
@@ -142,19 +134,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[(UPDATE) 1.5 Eth stolen from Trust Wallet](https://www.reddit.com/r/ethereum/comments/1rmphbh/update_15_eth_stolen_from_trust_wallet/)**
 
-22h ago
+23h ago
+
+---
+
+**[ZK VMs made verifiable computation accessible to any developer. The prover networks running them require your full plaintext data. YIKES](https://www.reddit.com/r/ethereum/comments/1rmg9sa/zk_vms_made_verifiable_computation_accessible_to/)**
+
+Zero-knowledge cryptography went through three phases. First: hand-crafted arithmetic circuits, only accessible to deep researchers. Second: ZK virtual machines — suddenly any developer could write verifiable code in Rust or C. Third: prover networks (Succinct, Boundless/RiscZero) that let you delegate the heavy proof generation to external infrastructure. Each phase made the technology more accessible. Each phase also moved the user's data further from their control. Prover networks require your full plaintext data to generate proofs. For rollups, this is a non-issue — public ledger, no privacy expectation, and what you gain (succinctness — compressing thousands of transactions into a single proof) is worth the trade. That's the use case these networks were built for, and they served it well. The problem emerges when you extend this model to user-facing applications. Verifiable identity: proving you hold a valid passport, proving you're over 18, without disclosing the underlying data. Private AI inference: running a model on your data without the model owner seeing your inputs or you seeing their weights. Decentralized exchanges with private order books. In all of these, delegating to a prover network means surrendering exactly the inputs you need to keep private. I sat down with a researcher at ChainSafe who's working on this specific problem. His approach: adding MPC (multi-party computation) to ZK VMs so proof generation can be delegated privately. Multiple parties each hold a secret share of the data, compute their portion, and combine results — no single party ever sees the full picture. He calls it "make ZK VMs ZK again." He also covered a near-term approach to the deepfake problem: attested sensors that cryptographically sign photo/video metadata at capture, combined with verifiable edit histories. You can't yet verify what IS AI-generated. But you can prove everything that is human — a reverse approach. Prove provenance instead of detecting fakes. The full conversation covers ZK, MPC, and FHE (the "holy trinity of programmable cryptography"), explained through photography analogies that are genuinely useful for building intuition. We filmed it across Taipei — street markets, a botanical garden, a tea ceremony. Full interview: https://youtu.be/PnEivfTpnA8 ————— If we're meeting for the first time, hi 👋! I started building my channel to spread the good word on good work in crypto — something with substance and humanity. A like, sub, and comment goes a long way to supporting me, so please consider doing so!
+
+🔗 [youtu.be](https://youtu.be/PnEivfTpnA8) • 1d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
-
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqeRTmOt-NgAf6kG5bywYrYpwJOnLEr0kIhRxDquL_IRXp7R9S7COkLc&gaa_ts=69ac7378&gaa_sig=xrVte4ncoXvzejMFFGzn2226bpDjc5cdE74XaaxLWbE7Je1LSbH_kv4zJjL_34_U5VBD3DPguKvydNXjgAlazg%3D%3D)**
-
-Barron's • 2d ago
-
----
 
 **[Prediction: Silver Could Soar Again in 2026 -- but These 2 Cryptocurrencies Have Even Better Upside](https://www.fool.com/investing/2026/03/06/prediction-silver-could-soar-again-in-2026-but-the/)**
 
@@ -164,11 +158,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Why Are Bitcoin, Ethereum, and XRP Prices Crashing Today? US‑Iran War Fears Drive Sell‑Off](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-us-iran-war-fears-drive-sell-off/)**
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqfcIsxnGEey4QpE9t1xa2e8g2KwqmhZ4nBU3xS8cUfo6CE4AgD50uo3&gaa_ts=69ac8379&gaa_sig=CO_LtX1hcaNSBZGgXZ568PbWHfybuyihKkK8Cmwu9Wt-o9IPOMKySEW9xv8lYjWNRO3XF0u2fGbAvlf5OsqKmg%3D%3D)**
 
-The crypto market turned red again after Bitcoin's price failed to hold above $74,000. The drop came as tensions grew in the ongoing U.S.–Israel and Iran
+Barron's • 2d ago
 
-Coinpedia • 7h ago
+---
+
+**[Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck](https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck)**
+
+Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
+
+Decrypt • 3d ago
+
+---
+
+**[Current price of Ethereum for March 4, 2026](https://fortune.com/article/price-of-ethereum-03-04-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2d ago
 
 ---
 
@@ -210,19 +218,9 @@ markets.businessinsider.com • 19h ago
 
 ---
 
-**[Current price of Ethereum for March 4, 2026](https://fortune.com/article/price-of-ethereum-03-04-2026/)**
+**[Bullish sees Bitcoin, Ethereum volatility almost double in February (BLSH:NYSE)](https://seekingalpha.com/news/4561826-bullish-sees-bitcoin-ethereum-volatility-almost-double-in-february)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
-
----
-
-**[Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck](https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck)**
-
-Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
-
-Decrypt • 3d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -296,7 +294,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 134 • 👍 7 • 💬 1 • ⏱️ 4:45 • 8h ago
+👁️ 134 • 👍 7 • 💬 1 • ⏱️ 4:45 • 9h ago
 
 ---
 
