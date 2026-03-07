@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T16:29:38.099090+00:00'
+updated: '2026-03-07T16:53:48.655683+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 16:29 UTC  
+**Last Updated:** March 07, 2026 at 16:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,21 @@ AI news, discussions, and developments
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 4h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 5h ago
 
 ---
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
 🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 16h ago
+
+---
+
+**[$70 house-call OpenClaw installs are taking off in China](https://www.reddit.com/r/artificial/comments/1rnekka/70_housecall_openclaw_installs_are_taking_off_in/)**
+
+On China's e-commerce platforms like taobao, remote installs were being quoted anywhere from a few dollars to a few hundred RMB, with many around the 100–200 RMB range. In-person installs were often around 500 RMB, and some sellers were quoting absurd prices way above that, which tells you how chaotic the market is. But, these installers are really receiving lots of orders, according to publicly visible data on taobao. Who are the installers? According to Rockhazix, a famous AI content creator in China, who called one of these services, the installer was not a technical professional. He just learnt how to install it by himself online, saw the market, gave it a try, and earned a lot of money. Does the installer use OpenClaw a lot? He said barely, coz there really isn't a high-frequency scenario. (Does this remind you of your university career advisors who have never actually applied for highly competitive jobs themselves?) Who are the buyers? According to the installer, most are white-collar professionals, who face very high workplace competitions (common in China), very demanding bosses (who keep saying use AI), & the fear of being replaced by AI. They hoping to catch up with the trend and boost productivity. They are like:“I may not fully understand this yet, but I can’t afford to be the person who missed it.” How many would have thought that the biggest driving force of AI Agent adoption was not a killer app, but anxiety, status pressure, and information asymmetry? P.S. A lot of these installers use the DeepSeek logo as their profile pic on e-commerce platforms. Probably due to China's firewall and media environment, deepseek is, for many people outside the AI community, a symbol of the latest AI technology (another case of information asymmetry).
+
+12m ago
 
 ---
 
@@ -103,57 +111,35 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 ---
 
-**[AI-designed diffractive optical processors pave the way for low-power structural health monitoring](https://www.reddit.com/r/artificial/comments/1rlyzrg/aidesigned_diffractive_optical_processors_pave/)**
-
-A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
-
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
+
+Axios • 3h ago
+
+---
+
+**[China’s Agentic AI Controversy](https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy)**
+
+AI agents have sparked an urgent debate in China about data privacy and security that holds huge lessons for the U.S. and the future of AI everywhere.
+
+Lawfare • 18h ago
+
+---
+
+**[Stablecoin Firms Bet Big on AI Agent Payments That Barely Exist](https://www.bloomberg.com/news/articles/2026-03-07/stablecoin-firms-bet-big-on-ai-agent-payments-that-barely-exist)**
+
+Bloomberg.com • 2h ago
+
+---
 
 **[Netflix acquires Ben Affleck's AI company](https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal)**
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 18h ago
-
----
-
-**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
-
-The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
-
-Fortune • 23h ago
-
----
-
-**[The unexpected 92,000 drop in payrolls is a clue we might be reading the AI jobs narrative all wrong](https://fortune.com/2026/03/07/is-ai-taking-jobs-payrolls-drop-narrative-outlook/)**
-
-Is AI taking jobs? Or are companies cutting jobs to pay for the enormous capex outlays on AI?
-
-Fortune • 7h ago
-
----
-
-**[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution.](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
-
-The New York Times • 1d ago
-
----
-
-**[7 danger moments that show AI's darker side](https://www.axios.com/2026/03/07/ai-danger-risks-study-research-backlash)**
-
-Axios • 2h ago
-
----
-
-**[Plug Power Plans Hydrogen Offering in Top US Power-Grid Auction](https://www.bloomberg.com/news/articles/2026-03-07/plug-power-plans-hydrogen-offering-in-top-us-power-grid-auction?srnd=phx-green)**
-
-Bloomberg • 1h ago
+NPR • 19h ago
 
 ---
 
@@ -165,27 +151,37 @@ The Guardian • 2h ago
 
 ---
 
-**[‘It means missile defence on datacentres’: drone strikes raise doubts over Gulf as AI superpower](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower)**
+**[AI leaders are coming after the political opposition](https://www.politico.com/newsletters/politico-weekend/2026/03/07/ai-leaders-are-coming-after-the-political-opposition-00818039)**
 
-Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
-
-The Guardian • 2h ago
+Politico • 9m ago
 
 ---
 
-**[AI-generated Iran war videos surge as creators use new tech to cash in](https://www.bbc.com/news/articles/ckg8wvz427vo)**
+**[Plug Power Plans Hydrogen Offering in Top US Power-Grid Auction](https://www.bloomberg.com/news/articles/2026-03-07/plug-power-plans-hydrogen-offering-in-top-us-power-grid-auction?srnd=phx-green)**
 
-The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
-
-BBC • 15h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Iran War, Iran Israel US War News: AI That Edits Your Photos Now Drops Bombs From Sky, And Iran Paid The Price](https://www.ndtv.com/world-news/iran-war-iran-israel-us-war-news-these-systems-are-leading-the-ai-takeover-of-battlefields-11181865)**
+**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
 
-The entry of AI in warfare has changed how we assess battlefields. What took hours to take a shot at has become a second's job. It's automated.
+The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-NDTV • 5h ago
+Fortune • 1d ago
+
+---
+
+**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 1d ago
+
+---
+
+**[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution.](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -197,7 +193,7 @@ NDTV • 5h ago
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 396 • 💬 388 • 2d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 396 • 💬 390 • 2d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -205,7 +201,7 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 322 • 💬 548 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 322 • 💬 549 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
@@ -219,7 +215,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 208 • 💬 324 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 209 • 💬 325 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -235,7 +231,7 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 Slopforks: what happens when a library gets rewritten with AI?
 
-⬆️ 178 • 💬 183 • 2d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+⬆️ 178 • 💬 185 • 2d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
 
 ---
 
@@ -251,7 +247,7 @@ Human DX optimizes for discoverability. Agent DX optimizes for predictability. W
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 80 • 💬 68 • 3h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 83 • 💬 73 • 3h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -299,7 +295,7 @@ Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and
 
 📺 TODAY
 
-👁️ 1.6M • 👍 19K • 💬 3K • ⏱️ 8:38 • 2d ago
+👁️ 1.6M • 👍 19K • 💬 3K • ⏱️ 8:38 • 3d ago
 
 ---
 
@@ -309,7 +305,7 @@ Oracle is set to lay off up to 30000 employees, driven by AI and a massive $50B+
 
 📺 Mark Savant
 
-👁️ 3K • 👍 115 • 💬 26 • ⏱️ 12:53 • 21h ago
+👁️ 3K • 👍 115 • 💬 26 • ⏱️ 12:53 • 22h ago
 
 ---
 
@@ -641,7 +637,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.2k • 🔱 3.1k • 20m ago
+⭐ 24.2k • 🔱 3.1k • 45m ago
 
 ---
 
@@ -651,7 +647,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.0k • 🔱 540 • 14h ago
+⭐ 15.0k • 🔱 540 • 15h ago
 
 ---
 
@@ -661,7 +657,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.3k • 🔱 1.0k • 2h ago
+⭐ 9.3k • 🔱 1.0k • 3h ago
 
 ---
 
@@ -721,7 +717,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 246 • 43m ago
+⭐ 3.4k • 🔱 246 • 1h ago
 
 ---
 

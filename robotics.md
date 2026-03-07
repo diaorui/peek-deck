@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T16:29:38.116839+00:00'
+updated: '2026-03-07T16:53:48.673457+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 16:29 UTC  
+**Last Updated:** March 07, 2026 at 16:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,7 @@ Robotics research and industry news
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-19h ago
-
----
-
-**[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
-
-14h ago
+20h ago
 
 ---
 
@@ -54,23 +48,37 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 ---
 
+**[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
+
+15h ago
+
+---
+
 **[RIVR unveils RIVR TWO, their own next-generation robot designed for doorstep delivery and AI data collection at scale](https://www.reddit.com/r/robotics/comments/1rmzj14/rivr_unveils_rivr_two_their_own_nextgeneration/)**
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-12h ago
+13h ago
 
 ---
 
 **[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Rover project (gesture controlled and mobile controlled)](https://www.reddit.com/r/robotics/comments/1rn9lt2/rover_project_gesture_controlled_and_mobile/)**
 
 I am building a project named gesture controlled rover which can be controlled by gesture of hands but there were a lot of problems came in project while building but completed half but now I have to control it through mpu6050 sensor and also from mobile by ESP32, while building the project I also destroyed one Arduino Nano and one Arduino Uno and the remaining items are -l298n motor driver -mpu6050 sensor -li ion batteries -nrf24l01 with adapter -car chassis (home made) -Esp32 - Arduino nano
+
+3h ago
+
+---
+
+**[Curious about robotics and how can I leverage software engineering experience in robotics](https://www.reddit.com/r/robotics/comments/1rnaf4e/curious_about_robotics_and_how_can_i_leverage/)**
+
+Hi everyone, I am a data systems architect and backend engineer, wanted to learn about robotics and how I can leverage my experience in this field. Can anyone help me with it?
 
 3h ago
 
@@ -84,17 +92,9 @@ I am building a project named gesture controlled rover which can be controlled b
 
 ---
 
-**[Curious about robotics and how can I leverage software engineering experience in robotics](https://www.reddit.com/r/robotics/comments/1rnaf4e/curious_about_robotics_and_how_can_i_leverage/)**
-
-Hi everyone, I am a data systems architect and backend engineer, wanted to learn about robotics and how I can leverage my experience in this field. Can anyone help me with it?
-
-2h ago
-
----
-
 **[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -110,19 +110,19 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 ## Google News: "robotics"
 
-**[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
-
-The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
-
-GeekWire • 2d ago
-
----
-
 **[Amazon cuts jobs in strategically important robotics division](https://www.businessinsider.com/amazon-robotics-division-job-cuts-2026-3)**
 
 Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.
 
 Business Insider • 2d ago
+
+---
+
+**[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
+
+The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
+
+GeekWire • 2d ago
 
 ---
 
@@ -134,6 +134,12 @@ Fox Business • 1d ago
 
 ---
 
+**[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 **[Qualcomm Weighs AI Export Rules While Expanding Into Robotics Chips](https://finance.yahoo.com/news/qualcomm-weighs-ai-export-rules-150751298.html)**
 
 U.S. officials have released draft rules that would introduce tiered export controls on AI chips, aiming to tighten oversight of advanced processors shipped to certain markets. Qualcomm (NasdaqGS:QCOM) has joined other chipmakers in pushing back on the proposals, arguing the measures could affect access to key international customers and slow AI adoption. At the same time, Qualcomm is promoting its new Dragonwing processor for robotics, highlighting plans to grow beyond smartphones into AI...
@@ -142,23 +148,25 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Humanoid developer Agility Robotics rebrands](https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/)**
-
-Agility Robotics is rebranding, saying the new company name reflects its readiness to scale deployments and lead humanoid adoption.
-
-The Robot Report • 2h ago
-
----
-
-**[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
-
-Tech Xplore • 1d ago
-
----
-
 **[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[Wellsville robotics team win NY State Championship, headed to Worlds!!](https://wellsvillesun.com/blog/2026/03/06/wellsville-robotics-team-win-ny-state-championship-headed-to-worlds/)**
+
+NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
+
+the wellsville sun • 1d ago
+
+---
+
+**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
+
+Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
+
+CNBC • 3d ago
 
 ---
 
@@ -167,14 +175,6 @@ Bloomberg • 2d ago
 When all is said and done, practicality trumps technological "wow!"
 
 The Motley Fool • 1d ago
-
----
-
-**[Humanoid robots learn parkour maneuvers from human motion recordings](https://interestingengineering.com/ai-robotics/us-humanoid-robots-learns-tough-parkour-skills)**
-
-Humanoid robots learn parkour using a new AI framework, enabling them to navigate obstacles with human-like agility in complex environments.
-
-Interesting Engineering • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game
 
 📺 Orbit 1690
 
-👁️ 53K • 👍 2K • 💬 138 • ⏱️ 2:21 • 5d ago
+👁️ 53K • 👍 2K • 💬 138 • ⏱️ 2:21 • 6d ago
 
 ---
 
