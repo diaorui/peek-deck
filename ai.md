@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T11:43:33.098573+00:00'
+updated: '2026-03-07T12:50:18.785847+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 11:43 UTC  
+**Last Updated:** March 07, 2026 at 12:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 11h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 12h ago
+
+---
+
+**[‘It means missile defence on data centres’: drone strikes raises doubts over Gulf as AI superpower | US-Israel war on Iran | The Guardian](https://www.reddit.com/r/artificial/comments/1rn7r3o/it_means_missile_defence_on_data_centres_drone/)**
+
+Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
+
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 1h ago
 
 ---
 
@@ -47,23 +55,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 19h ago
-
----
-
-**[Looking for a co founder for my AI startup](https://www.reddit.com/r/artificial/comments/1rn5o04/looking_for_a_co_founder_for_my_ai_startup/)**
-
-Send a dm to enquire, thats all I can say. I'll tell you about it in dms. You need to have good hardware
-
-2h ago
-
----
-
-**[I built a probabilistic OS where every function is performed by agent populations with consensus verification and Hebbian learning](https://www.reddit.com/r/artificial/comments/1rn4ajr/i_built_a_probabilistic_os_where_every_function/)**
-
-I've been thinking about why we build AI agent systems with deterministic orchestration when agents themselves are fundamentally probabilistic. They hallucinate. They fail unpredictably. But we manage them with rigid pipelines and single points of failure. Brains don't work that way. Neurons are wildly unreliable — synapses have a 10-40% transmission rate, cells die daily — yet the architecture produces extraordinary reliability through redundancy, population coding, and connections that strengthen with use. So I built ProbOS — a working prototype of a brain-inspired agent runtime where: - Every file operation is performed by 3 agents independently, verified through quorum consensus - Agents self-select for tasks via capability broadcasting (no central dispatcher) - Adversarial red team agents verify every write operation - Trust scores update via Bayesian inference (Beta distribution) - Routing weights evolve through Hebbian learning — the system literally rewires itself based on what works - An LLM serves as the cognitive layer, decomposing natural language into task DAGs that execute across the agent mesh - When agents fail, the population absorbs it and spawns replacements — no crash state, just reduced capability The stack is Python 3.12 + asyncio, with 5 architectural layers (substrate, mesh, consensus, cognitive, experience), 277 tests passing, 10 agents across 4 pools. In the video I boot it, talk to it in plain English, read and write files through the full consensus pipeline, and show the trust scores and Hebbian weights evolving in real time. The individual pieces exist in literature (multi-agent consensus, Hebbian routing in swarms, brain-inspired computing) but as far as I can find, nobody has wired them together into a working system with an LLM cognitive layer you can interact with. Happy to answer questions about the architecture, the design tradeoffs, or where it breaks down. There's a lot that's still naive — the attention mechanism isn't built yet, episodic memory isn't implemented, and the agent type coverage is minimal (just file operations). But the core paradigm works. https://youtu.be/I3vqHDY04aY
-
-3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 20h ago
 
 ---
 
@@ -75,9 +67,17 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 ---
 
+**[I built a probabilistic OS where every function is performed by agent populations with consensus verification and Hebbian learning](https://www.reddit.com/r/artificial/comments/1rn4ajr/i_built_a_probabilistic_os_where_every_function/)**
+
+I've been thinking about why we build AI agent systems with deterministic orchestration when agents themselves are fundamentally probabilistic. They hallucinate. They fail unpredictably. But we manage them with rigid pipelines and single points of failure. Brains don't work that way. Neurons are wildly unreliable — synapses have a 10-40% transmission rate, cells die daily — yet the architecture produces extraordinary reliability through redundancy, population coding, and connections that strengthen with use. So I built ProbOS — a working prototype of a brain-inspired agent runtime where: - Every file operation is performed by 3 agents independently, verified through quorum consensus - Agents self-select for tasks via capability broadcasting (no central dispatcher) - Adversarial red team agents verify every write operation - Trust scores update via Bayesian inference (Beta distribution) - Routing weights evolve through Hebbian learning — the system literally rewires itself based on what works - An LLM serves as the cognitive layer, decomposing natural language into task DAGs that execute across the agent mesh - When agents fail, the population absorbs it and spawns replacements — no crash state, just reduced capability The stack is Python 3.12 + asyncio, with 5 architectural layers (substrate, mesh, consensus, cognitive, experience), 277 tests passing, 10 agents across 4 pools. In the video I boot it, talk to it in plain English, read and write files through the full consensus pipeline, and show the trust scores and Hebbian weights evolving in real time. The individual pieces exist in literature (multi-agent consensus, Hebbian routing in swarms, brain-inspired computing) but as far as I can find, nobody has wired them together into a working system with an LLM cognitive layer you can interact with. Happy to answer questions about the architecture, the design tradeoffs, or where it breaks down. There's a lot that's still naive — the attention mechanism isn't built yet, episodic memory isn't implemented, and the agent type coverage is minimal (just file operations). But the core paradigm works. https://youtu.be/I3vqHDY04aY
+
+4h ago
+
+---
+
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -95,19 +95,19 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 ---
 
+**[Looking for a co founder for my AI startup](https://www.reddit.com/r/artificial/comments/1rn5o04/looking_for_a_co_founder_for_my_ai_startup/)**
+
+Send a dm to enquire, thats all I can say. I'll tell you about it in dms. You need to have good hardware
+
+3h ago
+
+---
+
 **[Meta to let rival AI companies put their chatbots on WhatsApp, but it won't be cheap](https://www.reddit.com/r/artificial/comments/1rmhe57/meta_to_let_rival_ai_companies_put_their_chatbots/)**
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 20h ago
-
----
-
-**[Do you use different LLMs for different tasks..? I solely use Chat GPT to talk about conceptual historica/logistical stuff & also vcontent creation planning (for streaming/Youtube videos). Are there any that are more useful than others in these regards that you've found..?](https://www.reddit.com/r/artificial/comments/1rlz49n/do_you_use_different_llms_for_different_tasks_i/)**
-
-Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
-
-1d ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 21h ago
 
 ---
 
@@ -119,47 +119,29 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
-**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
+**[The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns](https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
 
-Anthropic • 1d ago
-
----
-
-**[The unexpected 92,000 drop in payrolls is a clue we might be reading the AI jobs narrative all wrong](https://fortune.com/2026/03/07/is-ai-taking-jobs-payrolls-drop-narrative-outlook/)**
-
-Is AI taking jobs? Or are companies cutting jobs to pay for the enormous capex outlays on AI?
-
-Fortune • 2h ago
+Fox Business • 18h ago
 
 ---
 
-**[Gen Z is using AI to navigate social situations](https://www.cnn.com/2026/03/07/health/gen-z-ai-conversations-wellness)**
+**[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution.](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
-
-CNN • 42m ago
+The New York Times • 1d ago
 
 ---
 
-**[I work at Google and saw AI change the tech industry. Here's how I upskilled and made a 'future-defining' career pivot.](https://www.businessinsider.com/ai-disrupting-tech-industry-career-pivot-google-2026-3)**
+**[AI-generated Iran war videos surge as creators use new tech to cash in](https://www.bbc.com/news/articles/ckg8wvz427vo)**
 
-A Google engineer noticed that clients were mentioning AI more often. She up-skilled even though she was nervous, and said it paid off.
+The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-Business Insider • 1h ago
-
----
-
-**[Henry Blodget on the Software Selloff Hysteria and the Problem for OpenAI](https://www.bloomberg.com/news/articles/2026-03-07/henry-blodget-on-ai-hysteria-software-and-bubbles)**
-
-How AI will affect both media and software.
-
-Bloomberg.com • 2h ago
+BBC • 12h ago
 
 ---
 
@@ -167,7 +149,37 @@ Bloomberg.com • 2h ago
 
 Editorial: The intensified use of artificial intelligence, and rows over its control, demonstrate the need for democratic oversight and multilateral controls
 
-The Guardian • 17h ago
+The Guardian • 18h ago
+
+---
+
+**[Iran War, Iran Israel US War News: AI That Edits Your Photos Now Drops Bombs From Sky, And Iran Paid The Price](https://www.ndtv.com/world-news/iran-war-iran-israel-us-war-news-these-systems-are-leading-the-ai-takeover-of-battlefields-11181865)**
+
+The entry of AI in warfare has changed how we assess battlefields. What took hours to take a shot at has become a second's job. It's automated.
+
+NDTV • 1h ago
+
+---
+
+**[Gen Z is using AI to navigate social situations](https://www.cnn.com/2026/03/07/health/gen-z-ai-conversations-wellness)**
+
+Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
+
+CNN • 1h ago
+
+---
+
+**[‘It means missile defence on data centres’: drone strikes raises doubts over Gulf as AI superpower](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower)**
+
+Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
+
+The Guardian • 1h ago
+
+---
+
+**[How Lilly Used AI To Crank Up Production Of Its Popular GLP-1s](https://www.forbes.com/sites/amyfeldman/2026/03/07/how-lilly-used-ai-to-crank-up-production-of-its-popular-glp-1s/)**
+
+Forbes • 1h ago
 
 ---
 
@@ -175,23 +187,7 @@ The Guardian • 17h ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 14h ago
-
----
-
-**[The Hidden Advantage of Being Over 50 in the Age of AI](https://www.inc.com/joel-comm/the-hidden-advantage-of-being-over-50-in-the-age-of-ai/91312602)**
-
-Feeling behind on AI? Veteran leaders may actually have the advantage. Here’s why judgment, pattern recognition, and experience outperform speed in the AI era.
-
-inc.com • 1d ago
-
----
-
-**[Marvell stock surges 18% as CEO points to continuing AI demand: 'Do you see me blinking?'](https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html)**
-
-Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
-
-CNBC • 19h ago
+NPR • 15h ago
 
 ---
 
@@ -211,7 +207,7 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 322 • 💬 544 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 322 • 💬 545 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
@@ -225,7 +221,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 199 • 💬 315 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 203 • 💬 319 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -261,19 +257,17 @@ The takeaway? If you value Qwen's open source efforts, download and preserve the
 
 ---
 
-**[Iran war wreaking havoc on shipping and air cargo, could create global delays](https://news.ycombinator.com/item?id=47246463)**
-
-: Markets in the Middle East will be affected first and worst
-
-⬆️ 101 • 💬 202 • 2d ago • [theregister.com](https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/)
-
----
-
 **[Show HN: P0 – Yes, AI can ship complex features into real codebases](https://news.ycombinator.com/item?id=47247639)**
 
 Your spec, your standards, your repos. p0 is a Mac app and structured AI pipeline that turns specs into production-ready PRs across all your repos.
 
 ⬆️ 92 • 💬 39 • 2d ago • [bepurple.ai](https://www.bepurple.ai/)
+
+---
+
+**[Launch HN: Vela (YC W26) – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)**
+
+⬆️ 58 • 💬 43 • 1d ago
 
 ---
 
@@ -297,7 +291,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 49K • 👍 2K • 💬 264 • ⏱️ 38:02 • 18h ago
+👁️ 49K • 👍 2K • 💬 264 • ⏱️ 38:02 • 19h ago
 
 ---
 
@@ -307,7 +301,7 @@ Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thin
 
 📺 AI Explained
 
-👁️ 47K • 👍 2K • 💬 351 • ⏱️ 21:52 • 19h ago
+👁️ 47K • 👍 2K • 💬 351 • ⏱️ 21:52 • 20h ago
 
 ---
 
@@ -327,7 +321,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 34K • 👍 878 • 💬 183 • ⏱️ 21:16 • 14h ago
+👁️ 34K • 👍 878 • 💬 183 • ⏱️ 21:16 • 15h ago
 
 ---
 
@@ -337,7 +331,7 @@ Artificial intelligence is already changing the job market and the classroom, wi
 
 📺 NBC News
 
-👁️ 2K • 👍 24 • 💬 7 • ⏱️ 3:50 • 11h ago
+👁️ 2K • 👍 24 • 💬 7 • ⏱️ 3:50 • 12h ago
 
 ---
 
@@ -377,7 +371,7 @@ Why nodes are not the future of AI creation and 3D viewport control is what's ac
 
 📺 Bad Decisions Studio 
 
-👁️ 2K • 👍 147 • 💬 55 • ⏱️ 56:39 • 15h ago
+👁️ 2K • 👍 147 • 💬 55 • ⏱️ 56:39 • 16h ago
 
 ---
 
@@ -649,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.1k • 🔱 3.1k • 2h ago
+⭐ 24.1k • 🔱 3.1k • 3h ago
 
 ---
 
@@ -659,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.7k • 🔱 524 • 10h ago
+⭐ 14.7k • 🔱 524 • 11h ago
 
 ---
 
@@ -669,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.2k • 🔱 1.0k • 20h ago
+⭐ 9.2k • 🔱 1.0k • 21h ago
 
 ---
 
@@ -689,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.7k • 🔱 497 • 6h ago
+⭐ 6.7k • 🔱 497 • 7h ago
 
 ---
 
@@ -699,7 +693,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 686 • 7h ago
+⭐ 5.8k • 🔱 686 • 8h ago
 
 ---
 
@@ -719,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 385 • 15m ago
+⭐ 3.6k • 🔱 385 • 1h ago
 
 ---
 
@@ -729,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 242 • 2h ago
+⭐ 3.3k • 🔱 242 • 3h ago
 
 ---
 

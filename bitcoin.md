@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T11:43:33.107240+00:00'
+updated: '2026-03-07T12:50:18.794263+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 11:43 UTC  
+**Last Updated:** March 07, 2026 at 12:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** +3.8%  
-**30d:** -3.4%  
-**90d:** -24.9%  
-**1y:** -20.9%  
+**24h:** -1.9%  
+**7d:** +3.3%  
+**30d:** -3.8%  
+**90d:** -25.2%  
+**1y:** -21.2%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-7h ago
+8h ago
 
 ---
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -95,21 +95,13 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-6h ago
+7h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-19h ago
-
----
-
-**[Iran about to learn why you need decentralized assets](https://www.reddit.com/r/Bitcoin/comments/1rmo2bj/iran_about_to_learn_why_you_need_decentralized/)**
-
-Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
-
-15h ago
+20h ago
 
 ---
 
@@ -117,15 +109,23 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
 
-2h ago
+3h ago
 
 ---
 
-**[What’s your allocation in your retirement accounts?](https://www.reddit.com/r/Bitcoin/comments/1rmwjci/whats_your_allocation_in_your_retirement_accounts/)**
+**[I struggled to understand how Bitcoin hashing actually works, so I built a free interactive visualizer to teach myself. Looking for feedback!](https://www.reddit.com/r/Bitcoin/comments/1rn8ajb/i_struggled_to_understand_how_bitcoin_hashing/)**
 
-I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
+Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
-10h ago
+49m ago
+
+---
+
+**[Iran about to learn why you need decentralized assets](https://www.reddit.com/r/Bitcoin/comments/1rmo2bj/iran_about_to_learn_why_you_need_decentralized/)**
+
+Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
+
+17h ago
 
 ---
 
@@ -133,7 +133,7 @@ I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+6h ago
 
 ---
 
@@ -141,13 +141,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
-9h ago
+10h ago
 
 ---
 
-**[The Battle for Bitcoin's Soul: A Review of the Top 10 Most Vital Improvement Proposals.](https://www.reddit.com/r/Bitcoin/comments/1rn5n3d/the_battle_for_bitcoins_soul_a_review_of_the_top/)**
+**[What’s your allocation in your retirement accounts?](https://www.reddit.com/r/Bitcoin/comments/1rmwjci/whats_your_allocation_in_your_retirement_accounts/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-battle-for-bitcoins-soul-a-review) • 2h ago
+I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
+
+11h ago
 
 ---
 
@@ -167,15 +169,7 @@ CoinDesk • 5h ago
 
 The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Fortune • 17h ago
-
----
-
-**[Bitcoin Needs a Monster Rally to Hit $150,000 by December -- and Prediction Markets See Only an 11% Shot](https://www.fool.com/investing/2026/03/07/bitcoin-needs-a-monster-rally-to-hit-150000-by-dec/)**
-
-Investors viewed Bitcoin as a hedge against market risk, but the cryptocurrency has proven highly volatile.
-
-The Motley Fool • 2h ago
+Fortune • 18h ago
 
 ---
 
@@ -183,7 +177,7 @@ The Motley Fool • 2h ago
 
 Key PointsPrediction markets are a useful tool in gauging the odds of a future event.
 
-Nasdaq • 2h ago
+Nasdaq • 3h ago
 
 ---
 
@@ -199,13 +193,13 @@ Yahoo Finance • 2d ago
 
 The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
 **[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-Bloomberg.com • 15h ago
+Bloomberg • 16h ago
 
 ---
 
@@ -217,11 +211,11 @@ WIS News 10 • 1d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772874600)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772883900)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 2d ago
+Polymarket • 22h ago
 
 ---
 
@@ -233,6 +227,14 @@ CBC • 1d ago
 
 ---
 
+**[Forget Gold at $5,000 an Ounce. Here's Why a Simple Crypto Portfolio Might Be the Smarter "Hard Asset" Bet.](https://www.fool.com/investing/2026/03/06/forget-gold-at-5000-an-ounce-heres-why-a-simple-cr/)**
+
+With "safe" asset prices so high, cheaper and riskier assets look better than before.
+
+The Motley Fool • 12h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -241,7 +243,7 @@ CBC • 1d ago
 
 Email where senders pay satoshis for your attention. Spam dies when it costs money.
 
-⬆️ 15 • 💬 14 • 1h ago • [tanstaafl.email](https://tanstaafl.email)
+⬆️ 29 • 💬 49 • 2h ago • [tanstaafl.email](https://tanstaafl.email)
 
 ---
 
@@ -249,7 +251,7 @@ Email where senders pay satoshis for your attention. Spam dies when it costs mon
 
 One critic replied simply "go away."
 
-⬆️ 4 • 💬 0 • 5d ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 4 • 💬 0 • 6d ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -321,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 109 • ⏱️ 11:48 • 13h ago
+👁️ 35K • 👍 2K • 💬 109 • ⏱️ 11:48 • 14h ago
 
 ---
 
@@ -351,7 +353,7 @@ Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talki
 
 📺 BTC Isla
 
-👁️ 6K • 👍 752 • 💬 105 • ⏱️ 11:28 • 19h ago
+👁️ 6K • 👍 752 • 💬 105 • ⏱️ 11:28 • 20h ago
 
 ---
 
@@ -361,7 +363,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 110 • 💬 91 • ⏱️ 16:15 • 6h ago
+👁️ 2K • 👍 110 • 💬 91 • ⏱️ 16:15 • 7h ago
 
 ---
 
@@ -379,7 +381,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Andrei Jikh
 
-👁️ 35K • 👍 1K • 💬 22 • ⏱️ 1:12 • 18h ago
+👁️ 35K • 👍 1K • 💬 22 • ⏱️ 1:12 • 19h ago
 
 ---
 
@@ -399,7 +401,7 @@ Is the crypto market reacting to a new era of global conflict? In today's video,
 
 📺 Discover Crypto
 
-👁️ 11K • 👍 417 • 💬 32 • ⏱️ 1:19:59 • 18h ago
+👁️ 11K • 👍 417 • 💬 32 • ⏱️ 1:19:59 • 19h ago
 
 ---
 
