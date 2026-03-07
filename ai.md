@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T10:25:10.803130+00:00'
+updated: '2026-03-07T10:49:19.584530+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 10:25 UTC  
+**Last Updated:** March 07, 2026 at 10:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 17h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 18h ago
 
 ---
 
@@ -77,7 +77,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -99,7 +99,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 18h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 19h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bloomberg.com • 1h ago
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -165,7 +165,7 @@ Fortune • 1h ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -173,7 +173,7 @@ NPR • 12h ago
 
 Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -185,7 +185,7 @@ SFGATE • 10h ago
 
 **[Exclusive | Anthropic’s AI Hacked the Firefox Browser. It Found a Lot of Bugs.](https://www.wsj.com/tech/ai/send-us-more-anthropics-claude-sniffs-out-bevy-of-bugs-c6822075?gaa_at=eafs&gaa_n=AWEtsqcTC_PhxrofX9mYxILoscu3wV-B1_ftNZrEQE3p3OTDwPG6xUZnZnsN&gaa_ts=69abf911&gaa_sig=Am-P7wHQKqk4ZcabY-hiSFO4DGoLTGS0wwP3BYXvUqFYXhAClR8SLI3_XAlU1_T1GkU10Kbp55YmJhbCnp2Crg%3D%3D)**
 
-WSJ • 23h ago
+WSJ • 1d ago
 
 ---
 
@@ -291,7 +291,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 45K • 👍 2K • 💬 260 • ⏱️ 38:02 • 16h ago
+👁️ 45K • 👍 2K • 💬 260 • ⏱️ 38:02 • 17h ago
 
 ---
 
@@ -301,7 +301,7 @@ Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thin
 
 📺 AI Explained
 
-👁️ 44K • 👍 2K • 💬 344 • ⏱️ 21:52 • 17h ago
+👁️ 44K • 👍 2K • 💬 344 • ⏱️ 21:52 • 18h ago
 
 ---
 
@@ -321,7 +321,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 33K • 👍 832 • 💬 175 • ⏱️ 21:16 • 12h ago
+👁️ 33K • 👍 832 • 💬 175 • ⏱️ 21:16 • 13h ago
 
 ---
 
@@ -653,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.6k • 🔱 517 • 8h ago
+⭐ 14.6k • 🔱 517 • 9h ago
 
 ---
 
@@ -713,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 385 • 57m ago
+⭐ 3.6k • 🔱 385 • 1h ago
 
 ---
 
@@ -723,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 242 • 6h ago
+⭐ 3.3k • 🔱 242 • 7h ago
 
 ---
 

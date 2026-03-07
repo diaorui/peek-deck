@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T10:25:10.811730+00:00'
+updated: '2026-03-07T10:49:19.592985+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 10:25 UTC  
+**Last Updated:** March 07, 2026 at 10:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ recently found the passkey for a wallet i created in 2017, used to have BRD wall
 
 I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thi
 
 Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
-7h ago
+8h ago
 
 ---
 
@@ -159,7 +159,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin is now firmly in a deep bear market and could fall another 30% in 2026, firm said.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -323,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 104 • ⏱️ 11:48 • 11h ago
+👁️ 31K • 👍 2K • 💬 104 • ⏱️ 11:48 • 12h ago
 
 ---
 
@@ -403,7 +403,7 @@ Welcome to the BlackRock & Ripple Strategic Forum 2026 — streaming LIVE! Today
 
 📺 Tabletop WitchCRAFT
 
-👁️ 5K • 👍 3K • 8h ago
+👁️ 5K • 👍 3K • 9h ago
 
 ---
 
