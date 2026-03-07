@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T19:44:13.267520+00:00'
+updated: '2026-03-07T20:27:24.649901+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 19:44 UTC  
+**Last Updated:** March 07, 2026 at 20:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-9h ago
+10h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
 
-24m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter an
 
 I am building a project named gesture controlled rover which can be controlled by gesture of hands but there were a lot of problems came in project while building but completed half but now I have to control it through mpu6050 sensor and also from mobile by ESP32, while building the project I also destroyed one Arduino Nano and one Arduino Uno and the remaining items are -l298n motor driver -mpu6050 sensor -li ion batteries -nrf24l01 with adapter -car chassis (home made) -Esp32 - Arduino nano
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ I am building a project named gesture controlled rover which can be controlled b
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 Thought this was pretty interesting and never even thought there'd be a of a record for something like this. I wonder if someone will try to out do this soon.
 
-2h ago
+3h ago
 
 ---
 
@@ -102,7 +102,7 @@ Thought this was pretty interesting and never even thought there'd be a of a rec
 
 **How it works:** Fire command broadcasts: "Need thermal imaging + route mapping within 2km" Nearby robots evaluate independently: capability match? battery OK? owner permission? Matching robots volunteer (don't auto-deploy) Human coordinator assigns tasks via web dashboard Owners fly their own robots, sharing what they choose to share **Tech stack:** - ROS 2 (protocol layer) - DDS pub/sub (messaging) - React + WebSockets (real-time dashboard) - JWT authentication + geo-fencing **Why it matters:** Every major city has 100+ commercial robots doing deliveries. During a wildfire or flood, they could provide aerial intel, route mapping, or damage assessment - but there's no coordination system. CREW is that missing layer. Tested with simulated multi-robot scenarios. Next step: real hardware integration Open to feedback, especially on: - Security concerns - Privacy implications - Liability edge cases MIT licensed. Built this over a few days to validate the concept. Demo video | https://youtu.be/dEDPNMCkF6U | https://youtu.be/P7kjSI0aH7o [GitHub](https://github.com/cbaz86/crew-protocol)[Demo[Demo) Video] | [GitHub] If this interests you, ⭐ the repo - helps others discover it. Built an emergency robot coordination protocol that solves a problem I noticed: during disasters, thousands of commercial robots (delivery drones, warehouse bots) sit idle while emergency services are overwhelmed. CREW lets robots volunteer to help during emergencies while keeping humans in control.
 
-5h ago
+6h ago
 
 ---
 
@@ -174,7 +174,7 @@ the wellsville sun • 1d ago
 
 Boeing builds expensive airplanes -- but very affordable drone ships for the military.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -216,7 +216,7 @@ At the world's largest mobile show, companies from around the globe take their b
 
 📺 CNET
 
-👁️ 5K • 👍 269 • 💬 7 • ⏱️ 4:13 • 6h ago
+👁️ 5K • 👍 269 • 💬 7 • ⏱️ 4:13 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ War Robots Gameplay: NEW Sniper Titan WAYMAKER is coming to WR. Here's my new Yo
 
 📺 Manni-Gaming
 
-👁️ 11K • 👍 622 • 💬 162 • ⏱️ 15:49 • 8h ago
+👁️ 11K • 👍 622 • 💬 162 • ⏱️ 15:49 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ Figure AI has just dropped a fully autonomous AI robot — and it's now operatin
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 236 • 💬 29 • ⏱️ 27:19 • 6d ago
+👁️ 8K • 👍 236 • 💬 29 • ⏱️ 27:19 • 7d ago
 
 ---
 

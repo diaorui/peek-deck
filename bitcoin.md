@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T19:44:13.259668+00:00'
+updated: '2026-03-07T20:27:24.640677+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 19:44 UTC  
+**Last Updated:** March 07, 2026 at 20:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ This is why we Bitcoin $BTC. When your banks starts questioning you about your p
 
 Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
 
-5h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hey guys I am considering buying bitcoin as part of a diversification effort. I 
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-14h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 Hey all, Just set up my Trezor and getting ready to purchase my first bitcoin. There's an option to purchase right through the App, but when I started to look into that I noticed a fee (1.99 processing costs + a Trezor suite fee of 1%). Can I avoid this 1% to Trezor if I just buy off an exchange?
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ Hey all, Just set up my Trezor and getting ready to purchase my first bitcoin. T
 
 recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
 
-10h ago
+11h ago
 
 ---
 
@@ -143,7 +143,7 @@ recently found the passkey for a wallet i created in 2017, used to have BRD wall
 
 Been in since 2017 and I finally converted everything to BTC and set up monthly payments and will forget about them for the next Decade. Part of me wishes I started with BTC but I made profits… Now it’s BTC or bust!
 
-21m ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Been in since 2017 and I finally converted everything to BTC and set up monthly 
 
 So pay atention to this new information about the bitcoin supply
 
-21h ago
+22h ago
 
 ---
 
@@ -163,7 +163,7 @@ So pay atention to this new information about the bitcoin supply
 
 The executive order to build President Donald Trump's Strategic Bitcoin Reserve has awaited congressional action, and sources say there's one idea left for 2026.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fortune • 1d ago
 
 The idea that bitcoin holds value when everything else falls has taken a serious beating this cycle
 
-Yahoo! Finance Canada • 3h ago
+Yahoo! Finance Canada • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo! Finance Canada • 3h ago
 
 The shift comes as stablecoins surge in popularity and competitors like Stripe and PayPal add stablecoin options, increasing market pressure.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 2h ago
 
 BlackRock’s Rick Rieder, UBS’s Ulrike Hoffmann-Burchardi and Third Point’s Daniel Loeb see steady economic growth but a tougher market environment.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -203,13 +203,13 @@ CoinDesk • 2h ago
 
 Key PointsPrediction markets are a useful tool in gauging the odds of a future event.
 
-Nasdaq • 10h ago
+Nasdaq • 11h ago
 
 ---
 
 **[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -323,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 9K • 👍 859 • 💬 13 • ⏱️ 59:14 • 5h ago
+👁️ 9K • 👍 859 • 💬 13 • ⏱️ 59:14 • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 180 • 💬 156 • ⏱️ 16:15 • 14h ago
+👁️ 3K • 👍 180 • 💬 156 • ⏱️ 16:15 • 15h ago
 
 ---
 
@@ -373,7 +373,7 @@ A historic shift is happening in the global economy. As geopolitical tensions ri
 
 📺 Financial Funda
 
-👁️ 817 • 👍 52 • 💬 1 • ⏱️ 2:51 • 2h ago
+👁️ 817 • 👍 52 • 💬 1 • ⏱️ 2:51 • 3h ago
 
 ---
 
@@ -401,7 +401,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged https://ww
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 297 • 💬 1 • ⏱️ 19:14 • 20h ago
+👁️ 4K • 👍 297 • 💬 1 • ⏱️ 19:14 • 21h ago
 
 ---
 
