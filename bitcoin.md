@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T12:50:18.794263+00:00'
+updated: '2026-03-07T13:39:28.404020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 12:50 UTC  
+**Last Updated:** March 07, 2026 at 13:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-8h ago
+9h ago
 
 ---
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -95,13 +95,13 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-7h ago
+8h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -109,7 +109,7 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ recently found the passkey for a wallet i created in 2017, used to have BRD wall
 
 Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
-49m ago
+1h ago
 
 ---
 
@@ -133,7 +133,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
-10h ago
+11h ago
 
 ---
 
@@ -149,7 +149,7 @@ Where can I find Bitcoin communities or platforms where real estate can be sold 
 
 I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
 
-11h ago
+12h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 5h ago
 
 The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 18h ago
 
 Key PointsPrediction markets are a useful tool in gauging the odds of a future event.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -193,13 +193,13 @@ Yahoo Finance • 2d ago
 
 The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
 **[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-Bloomberg • 16h ago
+Bloomberg • 17h ago
 
 ---
 
@@ -231,7 +231,7 @@ CBC • 1d ago
 
 With "safe" asset prices so high, cheaper and riskier assets look better than before.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -243,7 +243,7 @@ The Motley Fool • 12h ago
 
 Email where senders pay satoshis for your attention. Spam dies when it costs money.
 
-⬆️ 29 • 💬 49 • 2h ago • [tanstaafl.email](https://tanstaafl.email)
+⬆️ 29 • 💬 49 • 3h ago • [tanstaafl.email](https://tanstaafl.email)
 
 ---
 
@@ -323,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 109 • ⏱️ 11:48 • 14h ago
+👁️ 35K • 👍 2K • 💬 109 • ⏱️ 11:48 • 15h ago
 
 ---
 
@@ -353,7 +353,7 @@ Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talki
 
 📺 BTC Isla
 
-👁️ 6K • 👍 752 • 💬 105 • ⏱️ 11:28 • 20h ago
+👁️ 6K • 👍 752 • 💬 105 • ⏱️ 11:28 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 110 • 💬 91 • ⏱️ 16:15 • 7h ago
+👁️ 2K • 👍 110 • 💬 91 • ⏱️ 16:15 • 8h ago
 
 ---
 
@@ -381,7 +381,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Andrei Jikh
 
-👁️ 35K • 👍 1K • 💬 22 • ⏱️ 1:12 • 19h ago
+👁️ 35K • 👍 1K • 💬 22 • ⏱️ 1:12 • 20h ago
 
 ---
 
@@ -401,7 +401,7 @@ Is the crypto market reacting to a new era of global conflict? In today's video,
 
 📺 Discover Crypto
 
-👁️ 11K • 👍 417 • 💬 32 • ⏱️ 1:19:59 • 19h ago
+👁️ 11K • 👍 417 • 💬 32 • ⏱️ 1:19:59 • 20h ago
 
 ---
 

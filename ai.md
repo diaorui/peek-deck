@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T12:50:18.785847+00:00'
+updated: '2026-03-07T13:39:28.394551+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 12:50 UTC  
+**Last Updated:** March 07, 2026 at 13:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 12h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 13h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 2h ago
 
 ---
 
@@ -55,7 +55,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 20h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 21h ago
 
 ---
 
@@ -71,13 +71,13 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 I've been thinking about why we build AI agent systems with deterministic orchestration when agents themselves are fundamentally probabilistic. They hallucinate. They fail unpredictably. But we manage them with rigid pipelines and single points of failure. Brains don't work that way. Neurons are wildly unreliable — synapses have a 10-40% transmission rate, cells die daily — yet the architecture produces extraordinary reliability through redundancy, population coding, and connections that strengthen with use. So I built ProbOS — a working prototype of a brain-inspired agent runtime where: - Every file operation is performed by 3 agents independently, verified through quorum consensus - Agents self-select for tasks via capability broadcasting (no central dispatcher) - Adversarial red team agents verify every write operation - Trust scores update via Bayesian inference (Beta distribution) - Routing weights evolve through Hebbian learning — the system literally rewires itself based on what works - An LLM serves as the cognitive layer, decomposing natural language into task DAGs that execute across the agent mesh - When agents fail, the population absorbs it and spawns replacements — no crash state, just reduced capability The stack is Python 3.12 + asyncio, with 5 architectural layers (substrate, mesh, consensus, cognitive, experience), 277 tests passing, 10 agents across 4 pools. In the video I boot it, talk to it in plain English, read and write files through the full consensus pipeline, and show the trust scores and Hebbian weights evolving in real time. The individual pieces exist in literature (multi-agent consensus, Hebbian routing in swarms, brain-inspired computing) but as far as I can find, nobody has wired them together into a working system with an LLM cognitive layer you can interact with. Happy to answer questions about the architecture, the design tradeoffs, or where it breaks down. There's a lot that's still naive — the attention mechanism isn't built yet, episodic memory isn't implemented, and the agent type coverage is minimal (just file operations). But the core paradigm works. https://youtu.be/I3vqHDY04aY
 
-4h ago
+5h ago
 
 ---
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -99,7 +99,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Send a dm to enquire, thats all I can say. I'll tell you about it in dms. You need to have good hardware
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Due to pressure from the European Commission, Meta is allowing AI companies to i
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -127,7 +127,7 @@ Fortune • 20h ago
 
 February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
 
-Fox Business • 18h ago
+Fox Business • 19h ago
 
 ---
 
@@ -141,7 +141,7 @@ The New York Times • 1d ago
 
 The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -149,7 +149,7 @@ BBC • 12h ago
 
 Editorial: The intensified use of artificial intelligence, and rows over its control, demonstrate the need for democratic oversight and multilateral controls
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Guardian • 18h ago
 
 The entry of AI in warfare has changed how we assess battlefields. What took hours to take a shot at has become a second's job. It's automated.
 
-NDTV • 1h ago
+NDTV • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ NDTV • 1h ago
 
 Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -173,13 +173,13 @@ CNN • 1h ago
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[How Lilly Used AI To Crank Up Production Of Its Popular GLP-1s](https://www.forbes.com/sites/amyfeldman/2026/03/07/how-lilly-used-ai-to-crank-up-production-of-its-popular-glp-1s/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Forbes • 1h ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 15h ago
+NPR • 16h ago
 
 ---
 
@@ -253,7 +253,7 @@ Human DX optimizes for discoverability. Agent DX optimizes for predictability. W
 
 The takeaway? If you value Qwen's open source efforts, download and preserve the models now, while you still can.
 
-⬆️ 138 • 💬 43 • 2d ago • [Venturebeat](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
+⬆️ 138 • 💬 43 • 3d ago • [Venturebeat](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
 
 ---
 
@@ -291,7 +291,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 49K • 👍 2K • 💬 264 • ⏱️ 38:02 • 19h ago
+👁️ 49K • 👍 2K • 💬 264 • ⏱️ 38:02 • 20h ago
 
 ---
 
@@ -301,7 +301,7 @@ Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thin
 
 📺 AI Explained
 
-👁️ 47K • 👍 2K • 💬 351 • ⏱️ 21:52 • 20h ago
+👁️ 47K • 👍 2K • 💬 351 • ⏱️ 21:52 • 21h ago
 
 ---
 
@@ -321,7 +321,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 34K • 👍 878 • 💬 183 • ⏱️ 21:16 • 15h ago
+👁️ 34K • 👍 878 • 💬 183 • ⏱️ 21:16 • 16h ago
 
 ---
 
@@ -331,7 +331,7 @@ Artificial intelligence is already changing the job market and the classroom, wi
 
 📺 NBC News
 
-👁️ 2K • 👍 24 • 💬 7 • ⏱️ 3:50 • 12h ago
+👁️ 2K • 👍 24 • 💬 7 • ⏱️ 3:50 • 13h ago
 
 ---
 
@@ -371,7 +371,7 @@ Why nodes are not the future of AI creation and 3D viewport control is what's ac
 
 📺 Bad Decisions Studio 
 
-👁️ 2K • 👍 147 • 💬 55 • ⏱️ 56:39 • 16h ago
+👁️ 2K • 👍 147 • 💬 55 • ⏱️ 56:39 • 17h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.1k • 🔱 3.1k • 3h ago
+⭐ 24.1k • 🔱 3.1k • 4h ago
 
 ---
 
@@ -653,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.7k • 🔱 524 • 11h ago
+⭐ 14.7k • 🔱 524 • 12h ago
 
 ---
 
@@ -663,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.2k • 🔱 1.0k • 21h ago
+⭐ 9.2k • 🔱 1.0k • 22h ago
 
 ---
 
@@ -683,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.7k • 🔱 497 • 7h ago
+⭐ 6.7k • 🔱 497 • 8h ago
 
 ---
 
@@ -693,7 +693,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 686 • 8h ago
+⭐ 5.8k • 🔱 686 • 9h ago
 
 ---
 
@@ -713,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 385 • 1h ago
+⭐ 3.6k • 🔱 385 • 2h ago
 
 ---
 
