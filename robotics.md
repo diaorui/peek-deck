@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T21:22:23.320216+00:00'
+updated: '2026-03-07T21:43:56.968467+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 21:22 UTC  
+**Last Updated:** March 07, 2026 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -144,7 +144,7 @@ Fortune • 4h ago
 
 Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ Tech Xplore • 2d ago
 
 Boeing builds expensive airplanes -- but very affordable drone ships for the military.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ Watch the official reveal of Honor's first humanoid service robot announced at M
 
 📺 CNET
 
-👁️ 60K • 👍 327 • 💬 36 • ⏱️ 1:27 • 5d ago
+👁️ 60K • 👍 327 • 💬 36 • ⏱️ 1:27 • 6d ago
 
 ---
 

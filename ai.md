@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T21:22:23.302711+00:00'
+updated: '2026-03-07T21:43:56.950696+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 21:22 UTC  
+**Last Updated:** March 07, 2026 at 21:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 9h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 10h ago
 
 ---
 
@@ -103,7 +103,7 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 On China's e-commerce platforms like taobao, remote installs were being quoted anywhere from a few dollars to a few hundred RMB, with many around the 100–200 RMB range. In-person installs were often around 500 RMB, and some sellers were quoting absurd prices way above that, which tells you how chaotic the market is. But, these installers are really receiving lots of orders, according to publicly visible data on taobao. Who are the installers? According to Rockhazix, a famous AI content creator in China, who called one of these services, the installer was not a technical professional. He just learnt how to install it by himself online, saw the market, gave it a try, and earned a lot of money. Does the installer use OpenClaw a lot? He said barely, coz there really isn't a high-frequency scenario. (Does this remind you of your university career advisors who have never actually applied for highly competitive jobs themselves?) Who are the buyers? According to the installer, most are white-collar professionals, who face very high workplace competitions (common in China), very demanding bosses (who keep saying use AI), & the fear of being replaced by AI. They hoping to catch up with the trend and boost productivity. They are like:“I may not fully understand this yet, but I can’t afford to be the person who missed it.” How many would have thought that the biggest driving force of AI Agent adoption was not a killer app, but anxiety, status pressure, and information asymmetry? P.S. A lot of these installers use the DeepSeek logo as their profile pic on e-commerce platforms. Probably due to China's firewall and media environment, deepseek is, for many people outside the AI community, a symbol of the latest AI technology (another case of information asymmetry).
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ Fortune • 1d ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 23h ago
+NPR • 1d ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 7h ago
 
 **[Pentagon Turns to Ex-Uber Executive in Anthropic Feud Over AI](https://www.bloomberg.com/news/articles/2026-03-07/pentagon-turns-to-ex-uber-executive-in-anthropic-feud-over-ai)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -239,7 +239,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 97 • 💬 82 • 7h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 97 • 💬 82 • 8h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -253,7 +253,7 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
 
-⬆️ 58 • 💬 29 • 15h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
+⬆️ 58 • 💬 29 • 16h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
 
 ---
 
@@ -293,7 +293,7 @@ Everyone keeps saying the same thing: AI is going to replace programmers. You've
 
 📺 devsplate
 
-👁️ 9K • 👍 661 • 💬 131 • ⏱️ 3:46 • 6h ago
+👁️ 9K • 👍 661 • 💬 131 • ⏱️ 3:46 • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 40K • 👍 1K • 💬 233 • ⏱️ 21:16 • 23h ago
+👁️ 40K • 👍 1K • 💬 233 • ⏱️ 21:16 • 1d ago
 
 ---
 
@@ -655,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.1k • 🔱 551 • 19h ago
+⭐ 15.1k • 🔱 551 • 20h ago
 
 ---
 
@@ -725,7 +725,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 248 • 2h ago
+⭐ 3.4k • 🔱 248 • 3h ago
 
 ---
 
@@ -735,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 636 • 1h ago
+⭐ 3.2k • 🔱 636 • 2h ago
 
 ---
 

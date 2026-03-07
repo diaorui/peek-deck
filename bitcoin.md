@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T21:22:23.311110+00:00'
+updated: '2026-03-07T21:43:56.959160+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 21:22 UTC  
+**Last Updated:** March 07, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 This is why we Bitcoin $BTC. When your banks starts questioning you about your post tax money, you know it's BITCOIN time
 
-🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 2h ago
+🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transaction
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-16h ago
+17h ago
 
 ---
 
@@ -121,7 +121,7 @@ Race for the last million Bitcoin begins...
 
 A bitcoin has 100 million sats. At the bare minimum you need 140 sats to send a transaction since the minimum rate is 1 sat/vB. So, 1 btc could theoretically give you 714,285 transactions. Let's say it's worth paying at least 1 dollar in fees to transact on this revolutionary network. That would make 1 btc worth a maximum of $714,285. But is 1 transaction on a decentralized, secure, permissionless, immutable blockchain only worth paying 1 dollar for? People routinely pay over 10 dollars for wire transfers which are inferior in many ways. If we assume 1 transaction on the btc network is intrinsically worth $10, then the price of 1 btc should be over 7 million dollars. The underlying value of bitcoin is that you need it to transact on the network and transacting on this network has real value.
 
-46m ago
+1h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 1h ago
 
 Knowing the odds could make you richer down the line.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 49m ago
 
 The shift comes as stablecoins surge in popularity and competitors like Stripe and PayPal add stablecoin options, increasing market pressure.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bloomberg.com • 1d ago
 
 Spot Bitcoin ETFs listed in the US recorded their steepest single-day outflow in nearly three weeks on Friday, with $349 million pulled from all 11 products combined, according to data from Farside.The withdrawals came as Bitcoin slid back toward $68,000 after briefly touching $74,000 earlier in th…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 131 • ⏱️ 11:48 • 22h ago
+👁️ 44K • 👍 2K • 💬 131 • ⏱️ 11:48 • 23h ago
 
 ---
 
