@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T05:14:11.466644+00:00'
+updated: '2026-03-07T05:59:09.605495+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 05:14 UTC  
+**Last Updated:** March 07, 2026 at 05:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 5h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 6h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 12h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 13h ago
 
 ---
 
@@ -55,13 +55,13 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-19h ago
+20h ago
 
 ---
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -83,7 +83,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 13h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 14h ago
 
 ---
 
@@ -125,13 +125,13 @@ The New York Times • 19h ago
 
 The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
 **[China Turns to AI as Jobseeker Numbers Top Belgium’s Population](https://www.bloomberg.com/news/articles/2026-03-07/china-turns-to-ai-as-jobseeker-numbers-top-belgium-s-population)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Detroit News • 1h ago
 
 West Virginia Superintendent Michele L. Blatt told a U.S. House subcommittee that AI in K-12 classrooms should remain guided at the state level, highlighting WV’s flexible guidelines around the use of AI in its classrooms.
 
-Charleston Gazette-Mail • 14m ago
+Charleston Gazette-Mail • 59m ago
 
 ---
 
@@ -155,7 +155,7 @@ Charleston Gazette-Mail • 14m ago
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 12h ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ Anthropic • 1d ago
 
 Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -283,7 +283,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 36K • 👍 2K • 💬 229 • ⏱️ 38:02 • 11h ago
+👁️ 36K • 👍 2K • 💬 229 • ⏱️ 38:02 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 22K • 👍 711 • 💬 144 • ⏱️ 21:16 • 7h ago
+👁️ 22K • 👍 711 • 💬 144 • ⏱️ 21:16 • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI 
 
 📺 Mira AI
 
-👁️ 6K • 💬 9 • ⏱️ 9:10 • 16h ago
+👁️ 6K • 💬 9 • ⏱️ 9:10 • 17h ago
 
 ---
 
@@ -655,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.4k • 🔱 499 • 3h ago
+⭐ 14.4k • 🔱 499 • 4h ago
 
 ---
 
@@ -665,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.1k • 🔱 1.0k • 14h ago
+⭐ 9.1k • 🔱 1.0k • 15h ago
 
 ---
 
@@ -685,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.5k • 🔱 485 • 11h ago
+⭐ 6.5k • 🔱 485 • 12h ago
 
 ---
 
@@ -715,7 +715,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 384 • 1h ago
+⭐ 3.5k • 🔱 384 • 2h ago
 
 ---
 
@@ -725,7 +725,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 241 • 1h ago
+⭐ 3.3k • 🔱 241 • 2h ago
 
 ---
 

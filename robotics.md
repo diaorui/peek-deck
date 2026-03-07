@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T05:14:11.492358+00:00'
+updated: '2026-03-07T05:59:09.623485+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 05:14 UTC  
+**Last Updated:** March 07, 2026 at 05:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-8h ago
+9h ago
 
 ---
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
 
-13h ago
+14h ago
 
 ---
 
@@ -64,7 +64,7 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 Sorry if this isn’t the place to post this since it’s really a hobby project and this feels more like a simple blog post. I just figured I’d share it since I had spent time working on it. I suppose there are 3 main reasons why I scrapped it. I made the mistake of designing from the base upward as opposed to from the end-effector downward which led to a loss in desired elegance of the design itself. I also decided that I want to implement 6DOFs instead of just 4. On top of that, I decided to try my hand at accomplishing remote cable transmission for all DOFs aside from the base rotation. I’ve already finished designing the 6DOF arm, I just haven’t assembled it yet. Anyways, here’s a brief overview of the mechanical design. The base is essentially just a turn-table bearing system with 5 bearings between the top and bottom traces. The shoulder transmission is just direct mounting. Elbow transmission is via bevel gears to keep weight closer to the output shaft of the shoulder joint’s motor. The wrist transmission is via capstan antagonistic cabling. Then I have a lever at the end of the 3rd link after the wrist for my desired end-effector function utilizing capstan antagonistic cable transmission as well. I decided to scrap it before finishing the end-effector though. The new design focuses on complete remote transmission via capstan antagonistic cables in conjunction with Bowden cable sheaths used for the 3DOFs I have decoupled at the wrist joint. Again, sorry if this isn’t the place for this as this is something of a blog post more than anything. But I’m hoping this may intrigue someone. Also, I probably will design a proper shell at some point but I have a mini 3D printer and tbh I like seeing everything move.
 
-10h ago
+11h ago
 
 ---
 
@@ -72,7 +72,7 @@ Sorry if this isn’t the place to post this since it’s really a hobby project
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I built a SLAM simulator in Rust where you can see EKF-SLAM and FastSLAM running
 
 I've had multiple iRobots and they were total junk...There is ALWAYS an error...my wife was like "you wasted money again"😭 Now Im in love with my narwal (freo z10 ultra). It does occasionally bump some chair legs when trying to sneak through, but most of the time it cruises through like a pro. The best part is, the robovac has riser side brushed on both sides, so it can easily get into the gaps around cabinet and table legs, no more bending over to check for leftover sauce. It saves much time and energy. And I think roller mop does not get cleaned as well as a double rotating mops in the base. 🙌 So my wife went from "you wasted money again" to "okay, this thing is actually awesome." Feels good to be right for once.
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've had multiple iRobots and they were total junk...There is ALWAYS an error...
 
 Current state of the build: 50% conceptualized, 80% inspired by other robots, and 75% properly dimensioned. I'm basically mashing up a few different designs to see what sticks. Got the first 3 axis figured out so far, but still a long way to go on the 'actual engineering' side of things. https://preview.redd.it/5fbj5ithqjng1.png?width=870&format=png&auto=webp&s=a226c409c3af9274f8efb782f34f989c8cd783a0 https://preview.redd.it/j07eyhthqjng1.png?width=417&format=png&auto=webp&s=246022e6fcc6e79fe7e9afc85ff70859ac75b3a4 https://preview.redd.it/28nzgithqjng1.png?width=869&format=png&auto=webp&s=5604db58629e23aca4f9503614d231201f801b7f https://preview.redd.it/syr4githqjng1.png?width=516&format=png&auto=webp&s=79581300b8624917e159669bb70ba6e6a33a29b3
 
-1h ago
+2h ago
 
 ---
 
@@ -148,7 +148,7 @@ Bloomberg.com • 1d ago
 
 **[Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)**
 
-Raspberry Pi • 18h ago
+Raspberry Pi • 19h ago
 
 ---
 
@@ -170,7 +170,7 @@ Nature • 1d ago
 
 NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
 
-the wellsville sun • 16h ago
+the wellsville sun • 17h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video is supported by Kettering University: Accepted @KetteringUniversity19
 
 📺 FUN Robotics Network
 
-👁️ 854 • 👍 31 • 💬 5 • ⏱️ 1:30 • 5h ago
+👁️ 854 • 👍 31 • 💬 5 • ⏱️ 1:30 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ Here is a look at how this Iron Giant toy can walk on its own.
 
 📺 Varkade Games
 
-👁️ 657 • 👍 6 • 💬 1 • ⏱️ 1:04 • 7h ago
+👁️ 657 • 👍 6 • 💬 1 • ⏱️ 1:04 • 8h ago
 
 ---
 

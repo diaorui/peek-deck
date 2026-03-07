@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T05:14:11.475601+00:00'
+updated: '2026-03-07T05:59:09.614144+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 05:14 UTC  
+**Last Updated:** March 07, 2026 at 05:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-44m ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
 
-3h ago
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycle
 
 According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +133,7 @@ According to a recent Reuters report, Kazakhstan’s central bank is considering
 
 Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Where can I find Bitcoin communities or platforms where real estate can be sold 
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-18h ago
+19h ago
 
 ---
 
@@ -161,7 +161,7 @@ Indiana Governor Mike Braun recently signed a bill that allows certain retiremen
 
 Bitcoin’s institutional era is officially here, but a stronger dollar and shifting interest rate expectations are keeping a lid on the latest rally.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 1h ago
 
 The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 11h ago
 
 These two factors could dramatically change the way investors think about Bitcoin.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 18h ago
 
 Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
 
-Nasdaq • 21h ago
+Nasdaq • 22h ago
 
 ---
 
@@ -193,7 +193,7 @@ Nasdaq • 21h ago
 
 The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -325,7 +325,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 83 • ⏱️ 11:48 • 6h ago
+👁️ 20K • 👍 1K • 💬 83 • ⏱️ 11:48 • 7h ago
 
 ---
 
@@ -385,7 +385,7 @@ Is the crypto market reacting to a new era of global conflict? In today's video,
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 404 • 💬 31 • ⏱️ 1:19:59 • 12h ago
+👁️ 10K • 👍 404 • 💬 31 • ⏱️ 1:19:59 • 13h ago
 
 ---
 
