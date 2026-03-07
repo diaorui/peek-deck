@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T07:29:14.837719+00:00'
+updated: '2026-03-07T07:51:11.752983+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 07:29 UTC  
+**Last Updated:** March 07, 2026 at 07:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-10h ago
+11h ago
 
 ---
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
 
-15h ago
+16h ago
 
 ---
 
@@ -64,7 +64,7 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ I built a SLAM simulator in Rust where you can see EKF-SLAM and FastSLAM running
 
 I've had multiple iRobots and they were total junk...There is ALWAYS an error...my wife was like "you wasted money again"😭 Now Im in love with my narwal (freo z10 ultra). It does occasionally bump some chair legs when trying to sneak through, but most of the time it cruises through like a pro. The best part is, the robovac has riser side brushed on both sides, so it can easily get into the gaps around cabinet and table legs, no more bending over to check for leftover sauce. It saves much time and energy. And I think roller mop does not get cleaned as well as a double rotating mops in the base. 🙌 So my wife went from "you wasted money again" to "okay, this thing is actually awesome." Feels good to be right for once.
 
-13h ago
+14h ago
 
 ---
 
@@ -150,7 +150,7 @@ Bloomberg.com • 1d ago
 
 **[Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)**
 
-Raspberry Pi • 20h ago
+Raspberry Pi • 21h ago
 
 ---
 

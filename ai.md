@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T07:29:14.820263+00:00'
+updated: '2026-03-07T07:51:11.735462+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 07:29 UTC  
+**Last Updated:** March 07, 2026 at 07:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -83,7 +83,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 15h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 16h ago
 
 ---
 
@@ -125,13 +125,13 @@ The New York Times • 21h ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
 **[China's Jiangsu touts AI industrial push as Xi urges province to lead](https://www.reuters.com/world/asia-pacific/chinas-jiangsu-touts-ai-industrial-push-xi-urges-province-lead-2026-03-07/)**
 
-Reuters • 53m ago
+Reuters • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ New Scientist • 1h ago
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 14h ago
 
 The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -187,7 +187,7 @@ Anthropic • 1d ago
 
 Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -655,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.5k • 🔱 510 • 5h ago
+⭐ 14.5k • 🔱 510 • 6h ago
 
 ---
 
@@ -725,7 +725,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 242 • 3h ago
+⭐ 3.3k • 🔱 242 • 4h ago
 
 ---
 

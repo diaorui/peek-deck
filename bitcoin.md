@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T07:29:14.828602+00:00'
+updated: '2026-03-07T07:51:11.743869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 07:29 UTC  
+**Last Updated:** March 07, 2026 at 07:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-11h ago
+12h ago
 
 ---
 
@@ -133,7 +133,7 @@ Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycle
 
 Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
-4h ago
+5h ago
 
 ---
 
@@ -175,7 +175,7 @@ Nasdaq • 1d ago
 
 **[Connecting Excellence: Growth & bitcoin strategy - ICYMI](https://uk.finance.yahoo.com/news/connecting-excellence-growth-bitcoin-strategy-063004522.html)**
 
-Yahoo Finance UK • 59m ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance UK • 59m ago
 
 Bitcoin is now firmly in a deep bear market and could fall another 30% in 2026, firm said.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -323,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 97 • ⏱️ 11:48 • 8h ago
+👁️ 27K • 👍 1K • 💬 97 • ⏱️ 11:48 • 9h ago
 
 ---
 
