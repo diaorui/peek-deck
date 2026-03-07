@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T02:01:52.061262+00:00'
+updated: '2026-03-07T04:11:35.314386+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 02:01 UTC  
+**Last Updated:** March 07, 2026 at 04:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 4h ago
+
+---
+
 **[OpenAI launches GPT-5.4: New model hits 83% on pro-level knowledge benchmark](https://www.reddit.com/r/artificial/comments/1rmilgg/openai_launches_gpt54_new_model_hits_83_on/)**
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 9h ago
-
----
-
-**[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 2h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 11h ago
 
 ---
 
@@ -55,29 +55,13 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-16h ago
-
----
-
-**[Online AI for your own idea](https://www.reddit.com/r/artificial/comments/1rmsj4w/online_ai_for_your_own_idea/)**
-
-I made the cheapest web based ai with amazing accuracy and cheapest price of 3.5$ per 1000 queries compared to 5-12$ on perplexity, while beating perplexity on the simpleQA with 82% and getting 95+% on general query questions. Miapi.uk if you have any idea on a ai project that might need internet for accurate answers feel free to message me.
-
-3h ago
+18h ago
 
 ---
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-9h ago
-
----
-
-**[Learn CompNeuro, Deep Learning, NeuroAI this July! Free to apply, closes 15 March.](https://www.reddit.com/r/artificial/comments/1rmx1lg/learn_compneuro_deep_learning_neuroai_this_july/)**
-
-Sharing this in case it's useful! Neuromatch runs intensive, live, online courses built around small learning groups called pods, where participants learn collaboratively with peers and a dedicated Teaching Assistant while working on a mentored group project. Pods are matched by time zone, research interests, and when possible, language preference. The four 2026 course options are: - 6–24 July: Computational Neuroscience, Deep Learning - 13–24 July: NeuroAI, Computational Tools for Climate Science They are great for advanced undergraduates, MSc or PhD students, post-baccalaureates, research staff, and early career researchers; basically anyone preparing for research that intersects neuroscience, machine learning, data science, and modeling, or those who want structured, collaborative learning combined with a hands-on research project in a global cohort. There is no cost to apply. Tuition is adjusted by local cost of living, and tuition waivers are available during enrollment for those who need them. Course details and FAQs: https://neuromatch.io/courses/ Application portal, free to apply, closes 15 March: https://portal.neuromatchacademy.org/
-
-9m ago
+11h ago
 
 ---
 
@@ -95,19 +79,35 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 ---
 
-**[ChatML – Open-source desktop app for orchestrating parallel Claude Code agents](https://www.reddit.com/r/artificial/comments/1rmorsh/chatml_opensource_desktop_app_for_orchestrating/)**
-
-For 45 days I didn't write a single line of code. Instead, I described what to build, ran multiple Claude agents in parallel with isolated git worktrees, and spent my time reviewing diffs and making architectural decisions. The result is a fully working native macOS app for orchestrating AI coding agents. I wrote up the full origin story — including why I think the real leverage in AI-assisted dev is judgment, not typing. Read our blog post: https://chatml.com/blog/we-built-entire-product-with-ai-750-pull-requests
-
-5h ago
-
----
-
 **[Meta to let rival AI companies put their chatbots on WhatsApp, but it won't be cheap](https://www.reddit.com/r/artificial/comments/1rmhe57/meta_to_let_rival_ai_companies_put_their_chatbots/)**
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 10h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 12h ago
+
+---
+
+**[Do you use different LLMs for different tasks..? I solely use Chat GPT to talk about conceptual historica/logistical stuff & also vcontent creation planning (for streaming/Youtube videos). Are there any that are more useful than others in these regards that you've found..?](https://www.reddit.com/r/artificial/comments/1rlz49n/do_you_use_different_llms_for_different_tasks_i/)**
+
+Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
+
+1d ago
+
+---
+
+**[AI-designed diffractive optical processors pave the way for low-power structural health monitoring](https://www.reddit.com/r/artificial/comments/1rlyzrg/aidesigned_diffractive_optical_processors_pave/)**
+
+A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
+
+🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 1d ago
+
+---
+
+**[Large genome model: Open source AI trained on trillions of bases](https://www.reddit.com/r/artificial/comments/1rlegdl/large_genome_model_open_source_ai_trained_on/)**
+
+"...Evo 2, an open source AI that has been trained on genomes from all three domains of life (bacteria, archaea, and eukaryotes). After training on trillions of base pairs of DNA, Evo 2 developed internal representations of key features in even complex genomes like ours, including things like regulatory DNA and splice sites, which can be challenging for humans to spot. Bacterial genomes are organized along relatively straightforward principles. Any genes that encode proteins or RNAs are contiguous, with no interruptions in the coding sequence. Genes that perform related functions, like metabolizing a sugar or producing an amino acid, tend to be clustered together, allowing them to be controlled by a single, compact regulatory system. It’s all straightforward and efficient. Eukaryotes are not like that. The coding sections of genes are interrupted by introns, which don’t encode for anything. They’re regulated by a sequence that can be scattered across hundreds of thousands of base pairs. The sequences that define the edges of introns or the binding sites of regulatory proteins are all weakly defined—while they have a few bases that are absolutely required, there are a lot of bases that just have an above-average tendency to have a specific base (something like “45 percent of the time it’s a T”). Surrounding all of this in most eukaryotic genomes is a huge amount of DNA that has been termed junk: inactive viruses, terminally damaged genes, and so on. That complexity has made eukaryotic genomes more difficult to interpret. And, while a lot of specialized tools have been developed to identify things like splice sites, they’re all sufficiently error-prone that it becomes a problem when you’re analyzing something as large as a 3 billion-base-long genome. We can learn a lot more by making evolutionary comparisons and looking for sequences that have been conserved, but there are limits to that, and we’re often as interested in the differences between species. These sorts of statistical probabilities, however, are well-suited to neural networks, which are great at recognizing subtle patterns that can be impossible to pick out by eye. But you’d need absolutely massive amounts of data and computing time to process it and pick out some of these subtle features. We now have the raw genome data that the process needs. Putting together a system to feed it into an effective AI training program, however, remained a challenge. That’s the challenge the team behind Evo took on. The foundation of the Evo 2 system is a convolutional neural network called StripedHyena 2. The training took place in two stages. The initial stage focused on teaching the system to identify important genome features by feeding it sequences rich in them in chunks about 8,000 bases long. After that, there was a second stage in which sequences were fed a million bases at a time to provide the system the opportunity to identify large-scale genome features. The researchers trained two versions of their system using a dataset called OpenGenome2, which contains 8.8 trillion bases from all three domains of life, as well as viruses that infect bacteria. They did not include viruses that attack eukaryotes, given that they were concerned that the system could be misused to create threats to humans. Two versions were trained: one that had 7 billion parameters tuned using 2.4 trillion bases, and the full version with 40 billion parameters trained on the full open genome dataset. The logic behind the training is pretty simple: if something’s important enough to have been evolutionarily conserved across a lot of species, it will show up in multiple contexts, and the system should see it repeatedly during training. “By learning the likelihood of sequences across vast evolutionary datasets, biological sequence models capture conserved sequence patterns that often reflect functional importance,” the researchers behind the work write. “These constraints allow the models to perform zero-shot prediction without any task-specific fine-tuning or supervision.” That last aspect is important. We could, for example, tell it about what known splice sites look like, which might help it pick out additional ones. But that might make it harder for it to recognize any unusual splice sites that we haven’t recognized yet. Skipping the fine-tuning might also help it identify genome features that we’re not aware of at all at the moment, but which could become apparent through future research. All of this has now been made available to the public. “We have made Evo 2 fully open, including model parameters, training code, inference code, and the OpenGenome2 dataset,” the paper announces. The researchers also used a system that can identify internal features in neural networks to poke around inside of Evo 2 and figure out what things it had learned to recognize. They trained a separate neural network to recognize the firing patterns in Evo 2 and identify high-level features in it. It clearly recognized protein-coding regions and the boundaries of the introns that flanked them. It was also able to recognize some structural features of proteins within the coding regions (alpha helices and beta sheets), as well as mutations that disrupt their coding sequence. Even something like mobile genetic elements (which you can think of as DNA-level parasites) ended up with a feature within Evo 2. To test the system, the researchers started making single-base mutations and fed them into Evo 2 to see how it responded. Evo 2 could detect problems when the mutations affected the sites in DNA where transcription into RNA started, or the sites where translation of that RNA into protein started. It also recognized the severity of mutations. Those that would interrupt protein translation, such as the introduction of stop signals, were identified as more significant changes than those that left the translation intact. It also recognized when sequences weren’t translated at all. Many key cellular functions are carried out directly by RNAs, and Evo 2 was able to recognize when mutations disrupted those, as well. Impressively, the ability to recognize features in eukaryotic genomes occurred without the loss of its ability to recognize them in bacteria and archaea. In fact, the system seemed to be able to work out what species it was working in. A number of evolutionary groups use genetic codes with a different set of signals to stop the translation of proteins. Evo 2 was able to recognize when it was looking at a sequence from one of those species, and used the correct genetic code for them. It was also good at recognizing features that tolerate a lot of variability, such as sites that signal where to splice RNAs to remove introns from the coding sequence of proteins. By some measures, it was better than software specialized for that task. The same was true when evaluating mutations in the BRCA2 gene, where many of the mutations are associated with cancer. Given additional training on known BRCA2 mutations, its performance improved further. Overall, Evo 2 seems great for evaluating genomes and identifying key features. The researchers who built it suggest it could serve as a good automated tool for preliminary genome annotation."
+
+🔗 [Ars Technica](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) • 1d ago
 
 ---
 
@@ -115,47 +115,9 @@ Due to pressure from the European Commission, Meta is allowing AI companies to i
 
 ## Google News: "ai"
 
-**[Opinion | America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
+**[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution.](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 16h ago
-
----
-
-**[Netflix acquires Ben Affleck's AI company](https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal)**
-
-Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
-
-NPR • 4h ago
-
----
-
-**[How RFK Jr. Is Promoting ‘Real Food’: AI Videos, Memes and Celebrity Cameos](https://www.wsj.com/style/fashion/rfk-jr-maha-real-food-kid-rock-health-videos-54a45b06?gaa_at=eafs&gaa_n=AWEtsqcfzAAmm5Lv-uNa8LZneyrh8f_lOLxsLmW1xXKkHDYghSejdnEh2Ex_&gaa_ts=69ab8a77&gaa_sig=BRSa5ZBC-P4yw-yyMKqnUJ_rLAuGvWTgxwR0VvXFSnb0Sogltak6os1s0jG2Y5zHkgRHlhC_6mctFjf2f-ysuQ%3D%3D)**
-
-WSJ • 1h ago
-
----
-
-**[Data Doctors: Businesses that AI won’t replace](https://wtop.com/tech/2026/03/data-doctors-businesses-that-ai-wont-replace/)**
-
-Which kinds of businesses are least likely to be disrupted by artificial intelligence?
-
-WTOP • 50m ago
-
----
-
-**[Video: Opinion | The Government’s A.I. Alignment Problem](https://www.nytimes.com/video/opinion/100000010747012/the-governments-ai-alignment-problem.html)**
-
-The Pentagon’s attack on Anthropic is a signal of government-sanctioned suppression, Trump’s former A.I. adviser Dean Ball argues on “The Ezra Klein Show.”
-
-The New York Times • 19m ago
-
----
-
-**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
-
-The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
-
-Fortune • 9h ago
+The New York Times • 18h ago
 
 ---
 
@@ -163,7 +125,47 @@ Fortune • 9h ago
 
 The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-BBC • 1h ago
+BBC • 3h ago
+
+---
+
+**[Trump Secures AI Energy Pledges From Amazon, Microsoft And Other Big Tech, Calls Impact 'Tremendous'](https://www.yahoo.com/news/articles/trump-secures-ai-energy-pledges-033042002.html)**
+
+On Wednesday, the Donald Trump administration unveiled a voluntary agreement with major technology companies aimed at preventing artificial intelligence data centers from pushing electricity costs hig...
+
+Yahoo • 41m ago
+
+---
+
+**[U.S. draws up strict AI guidelines amid Anthropic clash, FT reports](https://www.detroitnews.com/story/tech/2026/03/06/u-s-draws-up-strict-ai-guidelines-amid-anthropic-clash-ft-reports/89032017007/)**
+
+The Trump administration has drawn up strict rules for civilian artificial-intelligence contracts requiring companies to allow "any lawful" use of their models.
+
+The Detroit News • 14m ago
+
+---
+
+**[Questions over AI capability as tech guides Iran strikes](https://www.yahoo.com/news/articles/questions-over-ai-capability-tech-023756390.html)**
+
+The latest bout of fighting between the United States, Israel and Iran has seen AI deployed as never before to sift intelligence and select targets, although the technology's use in war remains hotly ...
+
+Yahoo • 1h ago
+
+---
+
+**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
+
+The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
+
+Fortune • 11h ago
+
+---
+
+**[Netflix acquires Ben Affleck's AI company](https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal)**
+
+Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
+
+NPR • 6h ago
 
 ---
 
@@ -175,19 +177,19 @@ Anthropic • 1d ago
 
 ---
 
-**[Marvell stock surges 18% as CEO points to continuing AI demand: 'Do you see me blinking?'](https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html)**
+**[Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)**
 
-Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
+Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
 
-CNBC • 9h ago
+OpenAI • 1d ago
 
 ---
 
-**[The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns](https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns)**
+**[Google joins Microsoft in telling users Anthropic is still available outside defense projects](https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html)**
 
-February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
+Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.
 
-Fox Business • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -199,7 +201,7 @@ Fox Business • 8h ago
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 395 • 💬 384 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 396 • 💬 385 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -207,13 +209,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 313 • 💬 527 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 316 • 💬 534 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 287 • 💬 105 • 1d ago • [406.fail](https://406.fail/)
+⬆️ 290 • 💬 107 • 1d ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -229,7 +231,7 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 The models are good now. But most people still miss the point.
 
-⬆️ 174 • 💬 279 • 16h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 186 • 💬 302 • 18h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -237,7 +239,7 @@ The models are good now. But most people still miss the point.
 
 Slopforks: what happens when a library gets rewritten with AI?
 
-⬆️ 170 • 💬 179 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+⬆️ 173 • 💬 179 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
 
 ---
 
@@ -245,7 +247,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 Human DX optimizes for discoverability. Agent DX optimizes for predictability. What I learned building a CLI for agents first.
 
-⬆️ 158 • 💬 63 • 2d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
+⬆️ 159 • 💬 63 • 2d ago • [Justin Poehnelt](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
 
 ---
 
@@ -261,7 +263,7 @@ The takeaway? If you value Qwen's open source efforts, download and preserve the
 
 : Markets in the Middle East will be affected first and worst
 
-⬆️ 101 • 💬 203 • 2d ago • [theregister.com](https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/)
+⬆️ 101 • 💬 202 • 2d ago • [theregister.com](https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/)
 
 ---
 
@@ -277,23 +279,13 @@ Your spec, your standards, your repos. p0 is a Mac app and structured AI pipelin
 
 ## YouTube Videos: "ai"
 
-**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
-
-Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
-
-📺 Spacialize
-
-👁️ 11K • 👍 517 • 💬 98 • ⏱️ 21:16 • 4h ago
-
----
-
 **[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
 
 Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
 
 📺 Matt Wolfe
 
-👁️ 31K • 👍 2K • 💬 225 • ⏱️ 38:02 • 8h ago
+👁️ 36K • 👍 2K • 💬 229 • ⏱️ 38:02 • 10h ago
 
 ---
 
@@ -303,7 +295,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 92K • 👍 5K • 💬 296 • ⏱️ 17:49 • 1d ago
+👁️ 96K • 👍 5K • 💬 323 • ⏱️ 17:49 • 1d ago
 
 ---
 
@@ -313,7 +305,7 @@ Will AI become smarter than humans? If so, is humanity in danger? I went to Sili
 
 📺 Senator Bernie Sanders
 
-👁️ 233K • 👍 12K • 💬 3K • ⏱️ 9:38 • 2d ago
+👁️ 238K • 👍 12K • 💬 3K • ⏱️ 9:38 • 2d ago
 
 ---
 
@@ -323,7 +315,17 @@ Try Higgsfield's new audio models and voice cloning ...
 
 📺 Malva AI
 
-👁️ 3K • 👍 225 • 💬 60 • ⏱️ 10:04 • 14h ago
+👁️ 3K • 👍 237 • 💬 62 • ⏱️ 10:04 • 16h ago
+
+---
+
+**[The most important discussion about AI no one is having.](https://www.youtube.com/watch?v=RRPXLG8MR7Q)**
+
+Abundance or Collapse: https://a.co/d/0eyVEdQD Rebellionaire: https://www.rebellionaire.com/farzad Join my exclusive ...
+
+📺 Farzad
+
+👁️ 9K • 👍 420 • 💬 106 • ⏱️ 58:49 • 15h ago
 
 ---
 
@@ -333,7 +335,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 31K • 👍 2K • 💬 502 • ⏱️ 16:12 • 1d ago
+👁️ 32K • 👍 2K • 💬 512 • ⏱️ 16:12 • 1d ago
+
+---
+
+**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
+
+Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
+
+📺 Spacialize
+
+👁️ 22K • 👍 711 • 💬 144 • ⏱️ 21:16 • 6h ago
 
 ---
 
@@ -343,7 +355,7 @@ Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI 
 
 📺 Mira AI
 
-👁️ 6K • 💬 9 • ⏱️ 9:10 • 13h ago
+👁️ 6K • 💬 9 • ⏱️ 9:10 • 15h ago
 
 ---
 
@@ -353,27 +365,17 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 37K • 👍 1K • 💬 92 • ⏱️ 10:56 • 1d ago
+👁️ 39K • 👍 1K • 💬 95 • ⏱️ 10:56 • 1d ago
 
 ---
 
-**[I&#39;m Changing How I Manage My Money Because of AI](https://www.youtube.com/watch?v=O8t50OxsfB8)**
+**[Replacing Humans With AI Is Catastrophically Backfiring](https://www.youtube.com/watch?v=3KQxQckG8ug)**
 
-How to Make $10000 Online LIVE Workshop (free): https://event.thewealthportal.com/waitlist To get free fractional shares worth ...
+Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your free FÜM Topper when you order your ...
 
-📺 Mark Tilbury
+📺 Moon
 
-👁️ 147K • 👍 7K • 💬 586 • ⏱️ 19:52 • 11h ago
-
----
-
-**[My AI Agents Made Money in 7 Days (OpenClaw)](https://www.youtube.com/watch?v=LCkGVCfmtzo)**
-
-Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator Magic Premium: https://mrc.fm/premium Last week I ...
-
-📺 Creator Magic
-
-👁️ 14K • 👍 553 • 💬 59 • ⏱️ 8:17 • 13h ago
+👁️ 195K • 👍 8K • 💬 2K • ⏱️ 21:38 • 1d ago
 
 ---
 
@@ -389,7 +391,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 516,030 • ❤️ 531 • 5d ago
+⬇️ 516,030 • ❤️ 534 • 5d ago
 
 ---
 
@@ -401,7 +403,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,000,738 • ❤️ 1,002 • 7d ago
+⬇️ 1,000,738 • ❤️ 1,003 • 7d ago
 
 ---
 
@@ -413,7 +415,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 265,017 • ❤️ 296 • 4d ago
+⬇️ 265,017 • ❤️ 299 • 4d ago
 
 ---
 
@@ -425,7 +427,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 34,959 • ❤️ 266 • 1d ago
+⬇️ 34,959 • ❤️ 271 • 1d ago
 
 ---
 
@@ -461,7 +463,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 380,168 • ❤️ 222 • 4d ago
+⬇️ 380,168 • ❤️ 223 • 4d ago
 
 ---
 
@@ -473,7 +475,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 561,727 • ❤️ 601 • 9d ago
+⬇️ 561,727 • ❤️ 601 • 10d ago
 
 ---
 
@@ -485,7 +487,7 @@ An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for r
 
 `image-text-to-text` `36.0B`
 
-⬇️ 21,100 • ❤️ 184 • 4d ago
+⬇️ 21,100 • ❤️ 186 • 4d ago
 
 ---
 
@@ -527,7 +529,7 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 127 • 💬 5 • ⭐ 655 • 2d ago
+▲ 129 • 💬 5 • ⭐ 655 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -540,7 +542,7 @@ Helios is a 14 billion parameter autoregressive diffusion model for video genera
 
 AReaL, a fully asynchronous reinforcement learning system, decouples generation and training to achieve higher GPU utilization and up to 2.57x training speedup for large language models on reasoning tasks.
 
-▲ 30 • 💬 2 • ⭐ 4,350 • 9mo ago
+▲ 31 • 💬 2 • ⭐ 4,350 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2505.24298) • [💻 code](https://github.com/inclusionAI/AReaL)
 
@@ -552,9 +554,21 @@ AReaL, a fully asynchronous reinforcement learning system, decouples generation 
 
 ReMe is a framework for experience-driven agent evolution in LLMs, enhancing memory management through distillation, context-adaptive reuse, and refinement, outperforming larger memoryless models.
 
-▲ 1 • 💬 0 • ⭐ 1,977 • 2mo ago
+▲ 2 • 💬 0 • ⭐ 1,977 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10696) • [💻 code](https://github.com/agentscope-ai/ReMe) • [🔗 project](https://reme.agentscope.io/)
+
+---
+
+**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+
+*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+
+Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+
+▲ 37 • 💬 2 • ⭐ 17,688 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
 ---
 
@@ -565,33 +579,9 @@ ReMe is a framework for experience-driven agent evolution in LLMs, enhancing mem
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 55 • 💬 4 • ⭐ 17,660 • 6mo ago
+▲ 55 • 💬 4 • ⭐ 17,689 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
-
----
-
-**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
-
-*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
-
-Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
-
-▲ 37 • 💬 2 • ⭐ 17,657 • 19mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
-
----
-
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 10 • 💬 0 • ⭐ 7,092 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -614,9 +604,21 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 38 • 💬 1 • ⭐ 72,240 • 30mo ago
+▲ 38 • 💬 1 • ⭐ 72,272 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+
+▲ 10 • 💬 0 • ⭐ 7,099 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -655,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.3k • 🔱 492 • 29m ago
+⭐ 14.4k • 🔱 499 • 2h ago
 
 ---
 
@@ -665,7 +667,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.0k • 🔱 1.0k • 11h ago
+⭐ 9.1k • 🔱 1.0k • 13h ago
 
 ---
 
@@ -675,7 +677,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.7k • 🔱 839 • 3d ago
+⭐ 6.7k • 🔱 841 • 3d ago
 
 ---
 
@@ -685,7 +687,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.5k • 🔱 481 • 8h ago
+⭐ 6.5k • 🔱 485 • 10h ago
 
 ---
 
@@ -695,7 +697,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 676 • 1d ago
+⭐ 5.8k • 🔱 679 • 9m ago
 
 ---
 
@@ -705,7 +707,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 4.5k • 🔱 359 • 1d ago
+⭐ 4.6k • 🔱 371 • 1d ago
 
 ---
 
@@ -715,7 +717,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 383 • 14h ago
+⭐ 3.5k • 🔱 384 • 19m ago
 
 ---
 
@@ -725,7 +727,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 241 • 4h ago
+⭐ 3.3k • 🔱 241 • 35m ago
 
 ---
 

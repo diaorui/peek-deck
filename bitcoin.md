@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T02:01:52.069708+00:00'
+updated: '2026-03-07T04:11:35.322930+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 02:01 UTC  
+**Last Updated:** March 07, 2026 at 04:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,298.00
+### $68,048.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.0%  
-**7d:** +3.9%  
-**30d:** -3.3%  
-**90d:** -24.8%  
-**1y:** -20.8%  
+**24h:** -3.6%  
+**7d:** +3.3%  
+**30d:** -3.8%  
+**90d:** -25.2%  
+**1y:** -21.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1365.67B
+**Market Cap:** $1359.00B
 Rank #1
 
 **Circulating Supply:** 19,998,881 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.8%
+-46.1%
 
 **All-Time Low:** $67.81
-+100585.7%
++100096.1%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-8h ago
+10h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-6h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycles now. Psychologically, most BTC traders take it as inevitable which makes it a self-fulfilling prophecy. There are always “this time is different” arguments and at some point in the future, hopefully, BTC would mature to a point where there are no cycles, but why bet against the rule until it’s broken? (Noting this in response to people I’m seeing acting like a 10-15% jump means winter is over. It seems to me that we could not have a sustained rally until Q3 where some will try to front-run the historical Q4 rally. Obviously, DCAing at these levels is still great and who knows how low we’ll actually go this time.)
 
-6h ago
+8h ago
 
 ---
 
@@ -109,7 +109,15 @@ Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycle
 
 According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
 
-12h ago
+14h ago
+
+---
+
+**[What’s your allocation in your retirement accounts?](https://www.reddit.com/r/Bitcoin/comments/1rmwjci/whats_your_allocation_in_your_retirement_accounts/)**
+
+I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
+
+2h ago
 
 ---
 
@@ -117,7 +125,15 @@ According to a recent Reuters report, Kazakhstan’s central bank is considering
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-15h ago
+17h ago
+
+---
+
+**[Is there a marketplace for buying property with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rmy053/is_there_a_marketplace_for_buying_property_with/)**
+
+Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
+
+1h ago
 
 ---
 
@@ -125,7 +141,7 @@ A trader I know got completely burnt because of a 2% dip. If you are one of them
 
 Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
 
-20h ago
+22h ago
 
 ---
 
@@ -133,23 +149,7 @@ Indiana Governor Mike Braun recently signed a bill that allows certain retiremen
 
 I believe the video was created by u/scott_ci and it still explains how Bitcoin works, pretty well (except the address/public key mistake).
 
-🔗 [youtu.be](https://youtu.be/Lx9zgZCMqXE) • 11h ago
-
----
-
-**[How often do you move to wallet?](https://www.reddit.com/r/Bitcoin/comments/1rmag80/how_often_do_you_move_to_wallet/)**
-
-Hi - I'm new to Bitcoin and planning to buy every week for $100 to $150. How often do you move your Bitcoin to storage? To be safe, I'm planning to buy a code storage. Pls recommend one. Appreciate your help.
-
-15h ago
-
----
-
-**[Mark Moss - 5% lending on your bitcoin? how?](https://www.reddit.com/r/Bitcoin/comments/1rmnik7/mark_moss_5_lending_on_your_bitcoin_how/)**
-
-Why does Mark Moss keep sending out email education saying you can borrow against your bitcoin at 5%? And then he lists lenders like unchained capital, ledn, and arch lending. those are all like 10-15% interest rate loans... it's so frustrating.
-
-6h ago
+🔗 [youtu.be](https://youtu.be/Lx9zgZCMqXE) • 14h ago
 
 ---
 
@@ -161,7 +161,55 @@ Why does Mark Moss keep sending out email education saying you can borrow agains
 
 Bitcoin’s institutional era is officially here, but a stronger dollar and shifting interest rate expectations are keeping a lid on the latest rally.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
+
+---
+
+**[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.nasdaq.com/articles/better-cryptocurrency-buy-and-hold-10-years-or-more-bitcoin-vs-cardano)**
+
+Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
+
+Nasdaq • 20h ago
+
+---
+
+**[Stock market today: Dow, S&P 500, Nasdaq rebound on hopes of Iran deescalation as bitcoin surges](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rebound-on-hopes-of-iran-deescalation-as-bitcoin-surges-210937794.html)**
+
+Investors are weighing a NYT report that Iran has indirectly approached the US to discuss terms for ending the conflict.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
+
+Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
+
+Business Insider • 2d ago
+
+---
+
+**[Ray Dalio thinks bitcoin is no gold, and that is exactly why bulls are buying](https://www.coindesk.com/markets/2026/03/04/crypto-bulls-slam-ray-dalio-s-tired-narratives-in-defense-of-bitcoin-s-future)**
+
+Experts push back on billionaire hedge fund manager Ray Dalio's warning of bitcoin lacking gold’s qualities and risks from surveillance, quantum computing and lack of central bank buying.
+
+CoinDesk • 1d ago
+
+---
+
+**[Billionaire Ray Dalio sends harsh warning on Bitcoin](https://www.thestreet.com/crypto/markets/billionaire-ray-dalio-sends-harsh-warning-on-bitcoin)**
+
+Dalio questions Bitcoin’s privacy, size, and safe-haven status.
+
+thestreet.com • 3d ago
+
+---
+
+**[Jack Mallers' Strike scores BitLicense to offer New Yorkers bitcoin services](https://www.theblock.co/post/392650/jack-mallers-strike-scores-bitlicense-to-offer-new-yorkers-bitcoin-services)**
+
+The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
+
+The Block • 14h ago
 
 ---
 
@@ -169,23 +217,7 @@ CoinDesk • 5h ago
 
 When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
 
-NDTV • 23h ago
-
----
-
-**[New Yorkers can now pay mortgage with Bitcoin](https://sg.finance.yahoo.com/news/yorkers-now-pay-mortgage-bitcoin-233931590.html)**
-
-Bitcoin (BTC) has come a long way from being used to buy coffee or a burger. Now, it is slowly making its way into much bigger parts of everyday life, including mortgage payments. A major regulatory approval in New York is helping push that shift forward. Strike, a Bitcoin-based ...
-
-Yahoo Finance Singapore • 2h ago
-
----
-
-**[Forget Gold at $5,000 an Ounce. Here's Why a Simple Crypto Portfolio Might Be the Smarter "Hard Asset" Bet.](https://www.fool.com/investing/2026/03/06/forget-gold-at-5000-an-ounce-heres-why-a-simple-cr/)**
-
-With "safe" asset prices so high, cheaper and riskier assets look better than before.
-
-The Motley Fool • 1h ago
+NDTV • 1d ago
 
 ---
 
@@ -197,39 +229,11 @@ Fortune • 1d ago
 
 ---
 
-**[Food Lion manager stops elderly woman from losing $5K in bitcoin scam](https://www.wistv.com/2026/03/06/food-lion-manager-stops-elderly-woman-losing-5k-bitcoin-scam/)**
+**[Forget Gold at $5,000 an Ounce. Here's Why a Simple Crypto Portfolio Might Be the Smarter "Hard Asset" Bet.](https://www.fool.com/investing/2026/03/06/forget-gold-at-5000-an-ounce-heres-why-a-simple-cr/)**
 
-A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
+With "safe" asset prices so high, cheaper and riskier assets look better than before.
 
-WIS News 10 • 21h ago
-
----
-
-**[Bitcoin Holds Firm Above $70,000 as Global Assets Recover](https://www.bloomberg.com/news/articles/2026-03-05/bitcoin-btc-holds-firm-above-70-000-as-global-assets-recover)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Vancouver city staff recommend dropping Mayor Ken Sim's bitcoin motion](https://www.cbc.ca/news/canada/british-columbia/vancouver-bitcoin-staff-rejection-9.7116603)**
-
-Vancouver city staff are taking stock of what council motions they should work on for the rest of the year — and one of the motions on the chopping block is a pet project from Mayor Ken Sim.
-
-CBC • 1d ago
-
----
-
-**['Spend And Print'—Oil Price Shock Fuels Bold Bitcoin Price Prediction](https://www.forbes.com/sites/boazsobrado/2026/03/06/spend-and-print-oil-price-shock-fuels-bold-bitcoin-price-prediction/)**
-
-Forbes • 9h ago
-
----
-
-**[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
-
-Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
-
-Business Insider • 2d ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -315,13 +319,13 @@ A portable encrypted USB vault with a dead man's switch. Your passwords, financi
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN EMERGENCY ‼️ ](https://www.youtube.com/watch?v=bfyNYn_z3qE)**
+**[WARNING To All Crypto Holders! (biggest news)](https://www.youtube.com/watch?v=zehno3tnsvo)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/coinflare-iphoneair Win ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
 
-📺 The Moon Show
+📺 Altcoin Daily
 
-👁️ 13K • 👍 667 • 💬 69 • ⏱️ 3:44 • 11h ago
+👁️ 20K • 👍 1K • 💬 83 • ⏱️ 11:48 • 5h ago
 
 ---
 
@@ -331,7 +335,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 267 • ⏱️ 17:07 • 1d ago
+👁️ 20K • 👍 2K • 💬 235 • ⏱️ 17:07 • 1d ago
 
 ---
 
@@ -341,7 +345,7 @@ Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's 
 
 📺 Coin Bureau
 
-👁️ 13K • 👍 596 • 💬 41 • ⏱️ 18:20 • 8h ago
+👁️ 15K • 👍 664 • 💬 47 • ⏱️ 18:20 • 10h ago
 
 ---
 
@@ -351,7 +355,7 @@ Blockchain.com CEO Peter Smith discusses digital asset regulation, crypto volati
 
 📺 Fox Business Clips
 
-👁️ 42K • 👍 1K • 💬 592 • ⏱️ 8:57 • 13h ago
+👁️ 44K • 👍 1K • 💬 596 • ⏱️ 8:57 • 15h ago
 
 ---
 
@@ -361,7 +365,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 205 • ⏱️ 8:38 • 1d ago
+👁️ 44K • 👍 2K • 💬 160 • ⏱️ 8:38 • 1d ago
 
 ---
 
@@ -371,47 +375,47 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 72K • 👍 3K • 💬 261 • ⏱️ 17:02 • 1d ago
+👁️ 74K • 👍 3K • 💬 239 • ⏱️ 17:02 • 1d ago
 
 ---
 
-**[Bitcoin Just Flashed a Signal Nobody Is Ready For - Arthur Hayes](https://www.youtube.com/watch?v=6xAHMBO-HG8)**
+**[Bitcoin Dumping FAST… What Donald Trump Just Said](https://www.youtube.com/watch?v=ZGZ41p7L3jc)**
 
-Arthur Hayes warns that the market may be underestimating how quickly AI-driven job losses could destabilize the financial ...
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 199 • 💬 10 • ⏱️ 16:11 • 1d ago
-
----
-
-**[LAST Bitcoin Mined THIS DATE](https://www.youtube.com/watch?v=l532J7wAKQg)**
-
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+Is the crypto market reacting to a new era of global conflict? In today's video, we are breaking down why Bitcoin is seeing a ...
 
 📺 Discover Crypto
 
-👁️ 12K • 👍 86 • 💬 7 • ⏱️ 0:11 • 2d ago
+👁️ 10K • 👍 404 • 💬 31 • ⏱️ 1:19:59 • 11h ago
 
 ---
 
-**[How Bitcoin Could Get To $10 MILLION Per Coin](https://www.youtube.com/watch?v=0mHU6N2G6_o)**
+**[Bitcoin’s Make Or Break Moment? What You Must Know](https://www.youtube.com/watch?v=9nV7u3sNhAk)**
 
-Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discuss whether bitcoin acts as a risk-on tech asset or ...
+Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Channel (Free Telegram) – Daily crypto ...
 
-📺 Anthony Pompliano
+📺 The Wolf Of All Streets
 
-👁️ 34K • 👍 1K • 💬 98 • ⏱️ 40:52 • 1d ago
+👁️ 9K • 👍 489 • 💬 172 • ⏱️ 31:02 • 1d ago
 
 ---
 
-**[Bitcoin vs Gold: The Debate That Could Define the Future of Money](https://www.youtube.com/watch?v=hNYvLG1ByVQ)**
+**[Bitcoin CRASH Below $60k Incoming SOON? Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=V5xZAgmusXk)**
 
-Ray Dalio — the billionaire founder of the world's largest hedge fund, Bridgewater Associates — recently went on the All-In ...
+Are you ready? Top-Tier Crypto Trading Starts Here Join the trading competition and the chance to win up to $3500000 ...
 
-📺 Kenzo Finance
+📺 Crypto Jebb
 
-👁️ 2K • 👍 103 • 💬 32 • ⏱️ 20:51 • 22h ago
+👁️ 3K • 👍 225 • 💬 31 • ⏱️ 15:32 • 9h ago
+
+---
+
+**[Gold ﹥ Bitcoin... For Now](https://www.youtube.com/watch?v=tgLjh-crK90)**
+
+Gold is winning... for now. Bitcoin? Caught in the risk-off crossfire. Are investors looking at this the right way? Cathie Wood ...
+
+📺 ARK Invest
+
+👁️ 13K • 👍 378 • 💬 7 • ⏱️ 2:11 • 1d ago
 
 ---
 
