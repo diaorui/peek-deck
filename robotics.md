@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T21:43:56.968467+00:00'
+updated: '2026-03-07T22:25:01.726291+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 21:43 UTC  
+**Last Updated:** March 07, 2026 at 22:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-11h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
 
-2h ago
+3h ago
 
 ---
 
@@ -68,11 +68,17 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 ---
 
+**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 28m ago
+
+---
+
 **[Rover project (gesture controlled and mobile controlled)](https://www.reddit.com/r/robotics/comments/1rn9lt2/rover_project_gesture_controlled_and_mobile/)**
 
 I am building a project named gesture controlled rover which can be controlled by gesture of hands but there were a lot of problems came in project while building but completed half but now I have to control it through mpu6050 sensor and also from mobile by ESP32, while building the project I also destroyed one Arduino Nano and one Arduino Uno and the remaining items are -l298n motor driver -mpu6050 sensor -li ion batteries -nrf24l01 with adapter -car chassis (home made) -Esp32 - Arduino nano
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +86,7 @@ I am building a project named gesture controlled rover which can be controlled b
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-17h ago
+18h ago
 
 ---
 
@@ -90,23 +96,39 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 ---
 
-**[Apple Sets Guinness World Record for Drones](https://www.reddit.com/r/robotics/comments/1rneuqo/apple_sets_guinness_world_record_for_drones/)**
-
-Thought this was pretty interesting and never even thought there'd be a of a record for something like this. I wonder if someone will try to out do this soon.
-
-4h ago
-
----
-
 **[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
 
-11h ago
+12h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
+
+A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
+
+Fortune • 5h ago
+
+---
+
+**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3)**
+
+Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
+
+Business Insider • 4h ago
+
+---
+
+**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.yahoo.com/news/articles/openais-robotics-head-quits-companys-174308251.html)**
+
+Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
+
+Yahoo • 4h ago
+
+---
 
 **[Amazon cuts jobs in strategically important robotics division](https://www.businessinsider.com/amazon-robotics-division-job-cuts-2026-3)**
 
@@ -132,51 +154,29 @@ Fox Business • 2d ago
 
 ---
 
-**[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
-
-A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
-
-Fortune • 4h ago
-
----
-
-**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3)**
-
-Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
-
-Business Insider • 4h ago
-
----
-
-**[OpenAI Loses Robotics Chief After Controversial Pentagon Agreement](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
-
-Forbes • 1h ago
-
----
-
-**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
-
-The Hill • 6h ago
-
----
-
-**[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda)**
-
-Bloomberg.com • 2d ago
-
----
-
 **[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
 
 Tech Xplore • 2d ago
 
 ---
 
-**[Boeing Sends Liquid Robots to Defend Japan](https://finance.yahoo.com/news/boeing-sends-liquid-robots-defend-102500173.html)**
+**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
 
-Boeing builds expensive airplanes -- but very affordable drone ships for the military.
+The Hill • 7h ago
 
-Yahoo Finance • 11h ago
+---
+
+**[Baltimore students explore slime, robotics at STEAM event](https://www.baltimoresun.com/2026/03/07/second-steam-extravaganza-poly/)**
+
+Baltimore students explored everything but the baking soda volcano at the 2nd annual STEAM Extravaganza hosted at Baltimore Polytechnic Institute.
+
+Baltimore Sun • 1h ago
+
+---
+
+**[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ At the world's largest mobile show, companies from around the globe take their b
 
 📺 CNET
 
-👁️ 7K • 👍 307 • 💬 10 • ⏱️ 4:13 • 8h ago
+👁️ 7K • 👍 307 • 💬 10 • ⏱️ 4:13 • 9h ago
 
 ---
 

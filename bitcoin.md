@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T21:43:56.959160+00:00'
+updated: '2026-03-07T22:25:01.716998+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 21:43 UTC  
+**Last Updated:** March 07, 2026 at 22:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,510.71
+### $67,370.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +2.6%  
-**30d:** -4.5%  
+**24h:** -1.1%  
+**7d:** +2.5%  
+**30d:** -4.6%  
 **90d:** -25.8%  
-**1y:** -21.8%  
+**1y:** -21.9%  
 
 ---
 
@@ -85,11 +85,35 @@ This is why we Bitcoin $BTC. When your banks starts questioning you about your p
 
 ---
 
+**[20 millionth Bitcoin soon to be mined!](https://www.reddit.com/r/Bitcoin/comments/1rnigzr/20_millionth_bitcoin_soon_to_be_mined/)**
+
+Race for the last million Bitcoin begins...
+
+3h ago
+
+---
+
+**[The simplest way to value Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rnkmqn/the_simplest_way_to_value_bitcoin/)**
+
+A bitcoin has 100 million sats. At the bare minimum you need 140 sats to send a transaction since the minimum rate is 1 sat/vB. So, 1 btc could theoretically give you 714,285 transactions. Let's say it's worth paying at least 1 dollar in fees to transact on this revolutionary network. That would make 1 btc worth a maximum of $714,285. But is 1 transaction on a decentralized, secure, permissionless, immutable blockchain only worth paying 1 dollar for? People routinely pay over 10 dollars for wire transfers which are inferior in many ways. If we assume 1 transaction on the btc network is intrinsically worth $10, then the price of 1 btc should be over 7 million dollars. The underlying value of bitcoin is that you need it to transact on the network and transacting on this network has real value.
+
+1h ago
+
+---
+
+**[Running my own Bitcoin node in Brazil](https://www.reddit.com/r/Bitcoin/comments/1rnjq3k/running_my_own_bitcoin_node_in_brazil/)**
+
+I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitcoin node along with Lightning to help the Bitcoin community.
+
+2h ago
+
+---
+
 **[I struggled to understand how Bitcoin hashing actually works, so I built a free interactive visualizer to teach myself. Looking for feedback!](https://www.reddit.com/r/Bitcoin/comments/1rn8ajb/i_struggled_to_understand_how_bitcoin_hashing/)**
 
 Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
-9h ago
+10h ago
 
 ---
 
@@ -105,23 +129,15 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
 
-7h ago
+8h ago
 
 ---
 
-**[20 millionth Bitcoin soon to be mined!](https://www.reddit.com/r/Bitcoin/comments/1rnigzr/20_millionth_bitcoin_soon_to_be_mined/)**
+**[Anyone share the opinion that this market is similar to the March 2020 drop?](https://www.reddit.com/r/Bitcoin/comments/1rnjmav/anyone_share_the_opinion_that_this_market_is/)**
 
-Race for the last million Bitcoin begins...
+Covid destroyed the market but the rebound was historic.
 
 2h ago
-
----
-
-**[The simplest way to value Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rnkmqn/the_simplest_way_to_value_bitcoin/)**
-
-A bitcoin has 100 million sats. At the bare minimum you need 140 sats to send a transaction since the minimum rate is 1 sat/vB. So, 1 btc could theoretically give you 714,285 transactions. Let's say it's worth paying at least 1 dollar in fees to transact on this revolutionary network. That would make 1 btc worth a maximum of $714,285. But is 1 transaction on a decentralized, secure, permissionless, immutable blockchain only worth paying 1 dollar for? People routinely pay over 10 dollars for wire transfers which are inferior in many ways. If we assume 1 transaction on the btc network is intrinsically worth $10, then the price of 1 btc should be over 7 million dollars. The underlying value of bitcoin is that you need it to transact on the network and transacting on this network has real value.
-
-1h ago
 
 ---
 
@@ -129,7 +145,7 @@ A bitcoin has 100 million sats. At the bare minimum you need 140 sats to send a 
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-16h ago
+17h ago
 
 ---
 
@@ -139,39 +155,21 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 ---
 
-**[Running my own Bitcoin node in Brazil](https://www.reddit.com/r/Bitcoin/comments/1rnjq3k/running_my_own_bitcoin_node_in_brazil/)**
-
-I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitcoin node along with Lightning to help the Bitcoin community.
-
-1h ago
-
----
-
-**[Anyone share the opinion that this market is similar to the March 2020 drop?](https://www.reddit.com/r/Bitcoin/comments/1rnjmav/anyone_share_the_opinion_that_this_market_is/)**
-
-Covid destroyed the market but the rebound was historic.
-
-1h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Those who cheered U.S. Bitcoin reserve have spent year watching Trump's order languish](https://www.coindesk.com/news-analysis/2026/03/06/those-who-cheered-u-s-bitcoin-reserve-have-spent-year-watching-trump-order-languish)**
+**[Bitcoin purist Jack Dorsey says that his firm is reluctantly giving in to stablecoin craze](https://www.coindesk.com/business/2026/03/07/bitcoin-purist-jack-dorsey-s-firm-is-reluctantly-giving-in-to-stablecoin-craze)**
 
-The executive order to build President Donald Trump's Strategic Bitcoin Reserve has awaited congressional action, and sources say there's one idea left for 2026.
+The shift comes as stablecoins surge in popularity and competitors like Stripe and PayPal add stablecoin options, increasing market pressure.
 
-CoinDesk • 6h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
+**[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
 
-The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
-
-Fortune • 1d ago
+Forbes • 9h ago
 
 ---
 
@@ -179,7 +177,13 @@ Fortune • 1d ago
 
 Knowing the odds could make you richer down the line.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
+
+---
+
+**[Bitcoin ETF Assets May Decline by $19 Billion Due to Price Drop](https://www.binance.com/en/square/post/299092578765137)**
+
+Binance • 2h ago
 
 ---
 
@@ -191,25 +195,19 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin purist Jack Dorsey says that his firm is reluctantly giving in to stablecoin craze](https://www.coindesk.com/business/2026/03/07/bitcoin-purist-jack-dorsey-s-firm-is-reluctantly-giving-in-to-stablecoin-craze)**
+**[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.nasdaq.com/articles/better-cryptocurrency-buy-and-hold-10-years-or-more-bitcoin-vs-cardano)**
 
-The shift comes as stablecoins surge in popularity and competitors like Stripe and PayPal add stablecoin options, increasing market pressure.
+Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
 
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin Needs a Monster Rally to Hit $150,000 by December -- and Prediction Markets See Only an 11% Shot](https://www.nasdaq.com/articles/bitcoin-needs-monster-rally-hit-150000-december-and-prediction-markets-see-only-11-shot)**
-
-Key PointsPrediction markets are a useful tool in gauging the odds of a future event.
-
-Nasdaq • 12h ago
+Nasdaq • 1d ago
 
 ---
 
-**[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
+**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
 
-Forbes • 8h ago
+The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
+
+Fortune • 1d ago
 
 ---
 
@@ -219,19 +217,19 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin ETFs Bleed $349M In A Day As Whales Dump, Small Buyers Step In: Analysts](https://www.tradingview.com/news/newsbtc:7a1115506094b:0-bitcoin-etfs-bleed-349m-in-a-day-as-whales-dump-small-buyers-step-in-analysts/)**
+**[Richland County grocery worker stops elderly couple from losing $5,000 in bitcoin scam](https://www.wltx.com/article/news/local/good-samaritan-store-employee-stops-scam/101-704c0b94-a344-4838-8563-1c86a84dfcb6)**
 
-Spot Bitcoin ETFs listed in the US recorded their steepest single-day outflow in nearly three weeks on Friday, with $349 million pulled from all 11 products combined, according to data from Farside.The withdrawals came as Bitcoin slid back toward $68,000 after briefly touching $74,000 earlier in th…
+A Food Lion assistant manager stepped in when she spotted a scam in progress. Here's what she did and what you should watch for.
 
-TradingView • 4h ago
+WLTX • 1d ago
 
 ---
 
-**[Vancouver city staff recommend dropping Mayor Ken Sim's bitcoin motion](https://www.cbc.ca/news/canada/british-columbia/vancouver-bitcoin-staff-rejection-9.7116603)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772912400)**
 
-Vancouver city staff are taking stock of what council motions they should work on for the rest of the year — and one of the motions on the chopping block is a pet project from Mayor Ken Sim.
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-CBC • 1d ago
+Polymarket • 5h ago
 
 ---
 
@@ -257,7 +255,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 **[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
 
-⬆️ 2 • 💬 3 • 4d ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
+⬆️ 2 • 💬 3 • 5d ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
 
 ---
 
@@ -323,7 +321,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 1K • 💬 13 • ⏱️ 59:14 • 7h ago
+👁️ 14K • 👍 1K • 💬 13 • ⏱️ 59:14 • 8h ago
 
 ---
 
@@ -333,7 +331,7 @@ A historic shift is happening in the global economy. As geopolitical tensions ri
 
 📺 Financial Funda
 
-👁️ 2K • 👍 83 • 💬 3 • ⏱️ 2:51 • 4h ago
+👁️ 2K • 👍 83 • 💬 3 • ⏱️ 2:51 • 5h ago
 
 ---
 
@@ -353,7 +351,7 @@ Global tensions, oil politics, and the petrodollar system may be colliding in re
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 864 • 💬 186 • ⏱️ 15:47 • 3h ago
+👁️ 5K • 👍 864 • 💬 186 • ⏱️ 15:47 • 4h ago
 
 ---
 
@@ -363,7 +361,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 189 • 💬 284 • ⏱️ 16:15 • 16h ago
+👁️ 4K • 👍 189 • 💬 284 • ⏱️ 16:15 • 17h ago
 
 ---
 
@@ -383,7 +381,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged https://ww
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 304 • 💬 1 • ⏱️ 19:14 • 22h ago
+👁️ 5K • 👍 304 • 💬 1 • ⏱️ 19:14 • 23h ago
 
 ---
 
@@ -403,7 +401,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 84K • 👍 3K • 💬 254 • ⏱️ 17:02 • 1d ago
+👁️ 84K • 👍 3K • 💬 254 • ⏱️ 17:02 • 2d ago
 
 ---
 

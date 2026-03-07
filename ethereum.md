@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-07T21:43:56.965202+00:00'
+updated: '2026-03-07T22:25:01.723053+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 21:43 UTC  
+**Last Updated:** March 07, 2026 at 22:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,963.15
+### $1,969.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +1.4%  
-**30d:** -4.7%  
-**90d:** -37.1%  
-**1y:** -10.7%  
+**24h:** -0.4%  
+**7d:** +1.6%  
+**30d:** -4.6%  
+**90d:** -36.9%  
+**1y:** -10.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -84,11 +84,17 @@ Yesterday I posted about verifying Vitalik's first token contract and got a grea
 
 ---
 
+**[Accidentally liquidated all of my crypto holdings](https://www.reddit.com/r/ethereum/comments/1rnlzrz/accidentally_liquidated_all_of_my_crypto_holdings/)**
+
+53m ago
+
+---
+
 **[Wrapping USDT](https://www.reddit.com/r/ethereum/comments/1rnby8b/wrapping_usdt/)**
 
 I propose to wrap USDT, since currently it is a highly outdated coin, and its transfer function has issues, and doesn't have new features, and only has 6 decimals. While these issues may not be large now and can be easily fixed or do not lose too much functionality, as DeFi expands new standards, etc may add more features, then USDT can be put into a standardized wrapper to handle it.
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +110,7 @@ I've been working on verifying source code for the oldest contracts on Ethereum,
 
 I staked some ETH around a month ago and it still has the Staking..... "staking takes 5 days" prompt. How long does it normally take to stake ETH and should I be worried?
 
-21h ago
+22h ago
 
 ---
 
@@ -120,7 +126,7 @@ One important technical item that I forgot to mention is the proposed switch fro
 
 So I have some Eth staked on lido and received steth in return. After a few people I know told me I can deposit steth to double dip, earn steth rewards and earn rewards on steth coins as well? Does anyone have any suggestions? I’ve checked morpho, and aave but can’t seem to find any information on lending steth in return for more rewards? Ive also heard of curve and harvest but I’m not familiar with either. Any safe suggestions would be greatly appreciated, as i treasure my Eth and I’m not trying to jeopardize it any way to make a small return. I’m just trying to maximize the amount of Eth I have and letting it work to grow more. Thanks
 
-21h ago
+22h ago
 
 ---
 
@@ -138,21 +144,37 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[ZK VMs made verifiable computation accessible to any developer. The prover networks running them require your full plaintext data. YIKES](https://www.reddit.com/r/ethereum/comments/1rmg9sa/zk_vms_made_verifiable_computation_accessible_to/)**
-
-Zero-knowledge cryptography went through three phases. First: hand-crafted arithmetic circuits, only accessible to deep researchers. Second: ZK virtual machines — suddenly any developer could write verifiable code in Rust or C. Third: prover networks (Succinct, Boundless/RiscZero) that let you delegate the heavy proof generation to external infrastructure. Each phase made the technology more accessible. Each phase also moved the user's data further from their control. Prover networks require your full plaintext data to generate proofs. For rollups, this is a non-issue — public ledger, no privacy expectation, and what you gain (succinctness — compressing thousands of transactions into a single proof) is worth the trade. That's the use case these networks were built for, and they served it well. The problem emerges when you extend this model to user-facing applications. Verifiable identity: proving you hold a valid passport, proving you're over 18, without disclosing the underlying data. Private AI inference: running a model on your data without the model owner seeing your inputs or you seeing their weights. Decentralized exchanges with private order books. In all of these, delegating to a prover network means surrendering exactly the inputs you need to keep private. I sat down with a researcher at ChainSafe who's working on this specific problem. His approach: adding MPC (multi-party computation) to ZK VMs so proof generation can be delegated privately. Multiple parties each hold a secret share of the data, compute their portion, and combine results — no single party ever sees the full picture. He calls it "make ZK VMs ZK again." He also covered a near-term approach to the deepfake problem: attested sensors that cryptographically sign photo/video metadata at capture, combined with verifiable edit histories. You can't yet verify what IS AI-generated. But you can prove everything that is human — a reverse approach. Prove provenance instead of detecting fakes. The full conversation covers ZK, MPC, and FHE (the "holy trinity of programmable cryptography"), explained through photography analogies that are genuinely useful for building intuition. We filmed it across Taipei — street markets, a botanical garden, a tea ceremony. Full interview: https://youtu.be/PnEivfTpnA8 ————— If we're meeting for the first time, hi 👋! I started building my channel to spread the good word on good work in crypto — something with substance and humanity. A like, sub, and comment goes a long way to supporting me, so please consider doing so!
-
-🔗 [youtu.be](https://youtu.be/PnEivfTpnA8) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqe5vDgFrViAw8zN1jH5N6BZqq8e2ZJ9CTB1qS87rJTgBbiwjoY0VzdJ&gaa_ts=69ac92f8&gaa_sig=h_wK3Gk2R7LcToj1gGG4VrJLtIf1p75eTuaG2SeBtah6GthA_hSUXC6VgGf_cMCYC7j7vpdwXPR4Wk_2q2V_0Q%3D%3D)**
+**[Prediction: Silver Could Soar Again in 2026 -- but These 2 Cryptocurrencies Have Even Better Upside](https://www.fool.com/investing/2026/03/06/prediction-silver-could-soar-again-in-2026-but-the/)**
+
+Smart-contract cryptos could be the silver to Bitcoin's digital gold.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Rising Wedge Warning: Breakdown Could Send Price Toward $1,500](https://www.tradingview.com/news/newsbtc:0631e1caa094b:0-ethereum-rising-wedge-warning-breakdown-could-send-price-toward-1-500/)**
+
+Ethereum is showing early signs of a rising wedge formation, a pattern often associated with potential reversals. With key support under pressure, a breakdown from this structure could push the price lower, putting the $1,500 level firmly in focus as the next major target.A Rejection At Key High-Ti…
+
+TradingView • 6h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqdgNumo2jEvkrdRdMoNPnfSNXMwFBJNkj7WpZnbnqGdz8GsYArmbLCr&gaa_ts=69aca92c&gaa_sig=RVHE_BH64eW_kEDjMTeJesbU8GqCOPon2g-kc2GEtXuLFirbT_SPC7M9-A7hOyiQAS4A2bJoLf7ocdrpSZnMHg%3D%3D)**
 
 Barron's • 2d ago
+
+---
+
+**[Current price of Ethereum for March 4, 2026](https://fortune.com/article/price-of-ethereum-03-04-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3d ago
 
 ---
 
@@ -164,12 +186,6 @@ Decrypt • 2d ago
 
 ---
 
-**[What Will Bitcoin, ETH and XRP Be Worth in 2030? ChatGPT’s Price Predictions May Shock You](https://www.ccn.com/education/crypto/chatgpt-predicts-2030-crypto-prices-bitcoin-500k-eth-20k-xrp-20/)**
-
-CCN.com • 2d ago
-
----
-
 **[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
@@ -178,9 +194,11 @@ Bit Digital • 2d ago
 
 ---
 
-**[Key facts: Culper Research shorts Ethereum; ETH trades near $2,065](https://www.tradingview.com/news/tradingview:60c9f214d8816:0-key-facts-culper-research-shorts-ethereum-eth-trades-near-2-065/)**
+**[Ethereum – BlackRock drops ETH ETF staking fee as firm issues ‘warning’](https://ambcrypto.com/ethereum-blackrock-drops-eth-etf-staking-fee-after-firm-issues-warning/)**
 
-TradingView • 21h ago
+Culper Research has shorted ETH citing underlying Ethereum staking and validator crisis.
+
+AMBCrypto • 2h ago
 
 ---
 
@@ -196,13 +214,7 @@ The Block • 1d ago
 
 Dubai, UAE, March  06, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced that a former Binance executive has joined the strategic advisory board of ...
 
-markets.businessinsider.com • 21h ago
-
----
-
-**[Bullish sees Bitcoin, Ethereum volatility almost double in February (BLSH:NYSE)](https://seekingalpha.com/news/4561826-bullish-sees-bitcoin-ethereum-volatility-almost-double-in-february)**
-
-Seeking Alpha • 1d ago
+markets.businessinsider.com • 22h ago
 
 ---
 
@@ -211,12 +223,6 @@ Seeking Alpha • 1d ago
 The short seller firm said that Ethereum's native token is "impaired," leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.
 
 CoinDesk • 1d ago
-
----
-
-**[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
-
-TipRanks • 2d ago
 
 ---
 
@@ -230,7 +236,7 @@ Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. 
 
 📺 Zach Humphries
 
-👁️ 676 • 👍 71 • 💬 40 • ⏱️ 7:38 • 5h ago
+👁️ 676 • 👍 71 • 💬 40 • ⏱️ 7:38 • 6h ago
 
 ---
 
@@ -300,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:52 • 17h ago
+👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:52 • 18h ago
 
 ---
 
