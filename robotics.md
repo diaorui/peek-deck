@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T23:23:51.380441+00:00'
+updated: '2026-03-07T23:46:11.115867+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 23:23 UTC  
+**Last Updated:** March 07, 2026 at 23:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,6 +46,14 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 ---
 
+**[Robotic arm I designed a while back](https://www.reddit.com/r/robotics/comments/1rnni5l/robotic_arm_i_designed_a_while_back/)**
+
+Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
+
+1h ago
+
+---
+
 **[Hexapoddd in the processsss](https://www.reddit.com/r/robotics/comments/1rnip3e/hexapoddd_in_the_processsss/)**
 
 Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
@@ -64,7 +72,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -90,15 +98,9 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 ---
 
-**[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
+**[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-1d ago
-
----
-
-**[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
-
-13h ago
+28m ago
 
 ---
 
@@ -106,27 +108,21 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 ## Google News: "robotics"
 
-**[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
+**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
 
-A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
-
-Fortune • 6h ago
+Reuters • 3h ago
 
 ---
 
-**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3)**
+**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
 
-Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
-
-Business Insider • 5h ago
+The Hill • 8h ago
 
 ---
 
-**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.yahoo.com/news/articles/openais-robotics-head-quits-companys-174308251.html)**
+**[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
 
-Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
-
-Yahoo • 5h ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -154,29 +150,35 @@ Fox Business • 2d ago
 
 ---
 
-**[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
+**[Boeing Sends Liquid Robots to Defend Japan](https://finance.yahoo.com/news/boeing-sends-liquid-robots-defend-102500173.html)**
 
-Tech Xplore • 2d ago
+Boeing builds expensive airplanes -- but very affordable drone ships for the military.
 
----
-
-**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
-
-The Hill • 8h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Baltimore students explore slime, robotics at STEAM event](https://www.baltimoresun.com/2026/03/07/second-steam-extravaganza-poly/)**
+**[Philadelphia Robotics Coalition helps build communication skills for local students](https://6abc.com/post/philadelphia-robotics-coalition-helps-build-communication-skills-local-students/18690241/)**
 
-Baltimore students explored everything but the baking soda volcano at the 2nd annual STEAM Extravaganza hosted at Baltimore Polytechnic Institute.
+The Philadelphia Robotics Coalition gathered students for a special day of innovation.
 
-Baltimore Sun • 2h ago
+6abc Philadelphia • 41m ago
 
 ---
 
-**[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda)**
+**[Wellsville robotics team win NY State Championship, headed to Worlds!!](https://wellsvillesun.com/blog/2026/03/06/wellsville-robotics-team-win-ny-state-championship-headed-to-worlds/)**
 
-Bloomberg.com • 2d ago
+NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
+
+the wellsville sun • 1d ago
+
+---
+
+**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
+
+Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
+
+CNBC • 3d ago
 
 ---
 

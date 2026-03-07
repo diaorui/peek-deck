@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T23:23:51.371045+00:00'
+updated: '2026-03-07T23:46:11.107939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 23:23 UTC  
+**Last Updated:** March 07, 2026 at 23:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
+**24h:** -1.4%  
 **7d:** +2.5%  
 **30d:** -4.6%  
-**90d:** -25.8%  
+**90d:** -25.9%  
 **1y:** -21.9%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 This is why we Bitcoin $BTC. When your banks starts questioning you about your post tax money, you know it's BITCOIN time
 
-🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 4h ago
+🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Race for the last million Bitcoin begins...
 
 A bitcoin has 100 million sats. At the bare minimum you need 140 sats to send a transaction since the minimum rate is 1 sat/vB. So, 1 btc could theoretically give you 714,285 transactions. Let's say it's worth paying at least 1 dollar in fees to transact on this revolutionary network. That would make 1 btc worth a maximum of $714,285. But is 1 transaction on a decentralized, secure, permissionless, immutable blockchain only worth paying 1 dollar for? People routinely pay over 10 dollars for wire transfers which are inferior in many ways. If we assume 1 transaction on the btc network is intrinsically worth $10, then the price of 1 btc should be over 7 million dollars. The underlying value of bitcoin is that you need it to transact on the network and transacting on this network has real value.
 
-2h ago
+3h ago
 
 ---
 
@@ -106,6 +106,14 @@ A bitcoin has 100 million sats. At the bare minimum you need 140 sats to send a 
 I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitcoin node along with Lightning to help the Bitcoin community.
 
 3h ago
+
+---
+
+**[Percentage of total assets](https://www.reddit.com/r/Bitcoin/comments/1rnb4bj/percentage_of_total_assets/)**
+
+Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
+
+9h ago
 
 ---
 
@@ -121,15 +129,7 @@ Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transaction
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-18h ago
-
----
-
-**[Percentage of total assets](https://www.reddit.com/r/Bitcoin/comments/1rnb4bj/percentage_of_total_assets/)**
-
-Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
-
-9h ago
+19h ago
 
 ---
 
@@ -141,17 +141,19 @@ Covid destroyed the market but the rebound was historic.
 
 ---
 
+**[Where Did 31,900 BTC Go?](https://www.reddit.com/r/Bitcoin/comments/1rnmdv8/where_did_31900_btc_go/)**
+
+31,900 BTC just left exchanges in one day. That big negative spike on the Exchange Netflow chart means coins are moving to cold storage or custody wallets. Why it matters: Less BTC on exchanges less immediate sell pressure. Large outflows often signal accumulation by bigger players. After volatility, this can look like dip buying If price holds key levels and inflows don’t return, reduced supply could support a move higher.
+
+1h ago
+
+---
+
 **[I finally started my first bitcoin investment.](https://www.reddit.com/r/Bitcoin/comments/1rn16yb/i_finally_started_my_first_bitcoin_investment/)**
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
 18h ago
-
----
-
-**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
-
-1d ago
 
 ---
 
@@ -163,13 +165,15 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 The shift comes as stablecoins surge in popularity and competitors like Stripe and PayPal add stablecoin options, increasing market pressure.
 
-CoinDesk • 5h ago
+CoinDesk • 31m ago
 
 ---
 
-**[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
+**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
 
-Forbes • 10h ago
+The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
+
+Fortune • 1d ago
 
 ---
 
@@ -181,33 +185,25 @@ The Motley Fool • 3h ago
 
 ---
 
-**[Bitcoin ETF Assets May Decline by $19 Billion Due to Price Drop](https://www.binance.com/en/square/post/299092578765137)**
-
-Binance • 3h ago
-
----
-
 **[Putting $1,000 on a Game vs. $1,000 Into Bitcoin: Which Bet Actually Gives You a Better Chance at Building Wealth?](https://finance.yahoo.com/news/putting-1-000-game-vs-203300339.html)**
 
 Knowing the odds could make you richer down the line.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.nasdaq.com/articles/better-cryptocurrency-buy-and-hold-10-years-or-more-bitcoin-vs-cardano)**
+**[Bitcoin Needs a Monster Rally to Hit $150,000 by December -- and Prediction Markets See Only an 11% Shot](https://www.nasdaq.com/articles/bitcoin-needs-monster-rally-hit-150000-december-and-prediction-markets-see-only-11-shot)**
 
-Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
+Key PointsPrediction markets are a useful tool in gauging the odds of a future event.
 
-Nasdaq • 1d ago
+Nasdaq • 14h ago
 
 ---
 
-**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
+**[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
 
-The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
-
-Fortune • 1d ago
+Forbes • 11h ago
 
 ---
 
@@ -221,15 +217,23 @@ Bloomberg.com • 1d ago
 
 A Food Lion assistant manager stepped in when she spotted a scam in progress. Here's what she did and what you should watch for.
 
-WLTX • 1d ago
+WLTX • 2d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772912400)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772921700)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 6h ago
+Polymarket • 1h ago
+
+---
+
+**[Bitcoin ETFs Bleed $349M In A Day As Whales Dump, Small Buyers Step In: Analysts](https://www.tradingview.com/news/newsbtc:7a1115506094b:0-bitcoin-etfs-bleed-349m-in-a-day-as-whales-dump-small-buyers-step-in-analysts/)**
+
+Spot Bitcoin ETFs listed in the US recorded their steepest single-day outflow in nearly three weeks on Friday, with $349 million pulled from all 11 products combined, according to data from Farside.The withdrawals came as Bitcoin slid back toward $68,000 after briefly touching $74,000 earlier in th…
+
+TradingView • 6h ago
 
 ---
 
@@ -264,12 +268,6 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 Complete operating system for Bitcoiners
 
 ⬆️ 2 • 💬 1 • 3d ago • [opacore.com](https://opacore.com)
-
----
-
-**[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
-
-⬆️ 2 • 💬 1 • 7d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -311,6 +309,12 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 ---
 
+**[Bhutan's crypto experiment shows how hard digital money is in the real world](https://news.ycombinator.com/item?id=47235069)**
+
+⬆️ 4 • 💬 0 • 4d ago • [restofworld.org](https://restofworld.org/2026/bhutan-bitcoin-tourism-payment-adoption-failure/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -321,7 +325,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 873 • 💬 99 • ⏱️ 11:32 • 2h ago
+👁️ 9K • 👍 873 • 💬 99 • ⏱️ 11:32 • 3h ago
 
 ---
 

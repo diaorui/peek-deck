@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T23:23:51.362430+00:00'
+updated: '2026-03-07T23:46:11.100534+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - news
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 23:23 UTC  
+**Last Updated:** March 07, 2026 at 23:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,17 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 ---
 
+**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 2h ago
+
+---
+
 **[‘It means missile defence on data centres’: drone strikes raises doubts over Gulf as AI superpower | US-Israel war on Iran | The Guardian](https://www.reddit.com/r/artificial/comments/1rn7r3o/it_means_missile_defence_on_data_centres_drone/)**
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 11h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 12h ago
 
 ---
 
@@ -61,9 +67,11 @@ Analysis finds that the use of AI in scientific writing is increasing
 
 ---
 
-**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
+**[Unpopular opinion: most AI agent use cases are productivity theater](https://www.reddit.com/r/artificial/comments/1rnom51/unpopular_opinion_most_ai_agent_use_cases_are/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 1h ago
+Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use cases. Second brain, morning briefs, content factories, the usual. His take: , They all fall apart under basic scrutiny. I agree. The pattern is always the same. Impressive two-minute demo. Zero discussion of what it actually takes to make it work daily. Zero mention of cost. OpenClaw runs continuous sessions, so every task drags your entire context history with it. Your token bill adds up fast. The irony is the most technical people, the ones who could actually make it work, are the ones who immediately see simpler ways to do the same things. The audience getting hyped up is the least technical group. And they're the ones who'll hit a wall. Credit to Peter for building something clever. It's a tinkerer's sandbox and it's great at that. It was never supposed to be a finished product. The problem isn't him. It's influencers taking a sandbox and selling it as a finished solution to people who just want stuff to work. Three questions I ask before spending time on any AI tool: Is this the best tool for the job or just the shiniest? What does it actually cost to run? Would I still use this after the novelty wears off? Focused tools that do one thing well beat fancy agent frameworks. Every time.
+
+26m ago
 
 ---
 
@@ -105,21 +113,13 @@ CodeGraphContext- the go to solution for graphical code indexing for Github Copi
 
 ---
 
-**[OpenAI launches GPT-5.4: New model hits 83% on pro-level knowledge benchmark](https://www.reddit.com/r/artificial/comments/1rmilgg/openai_launches_gpt54_new_model_hits_83_on/)**
-
-OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[For OpenAI and Anthropic, the Competition Is Deeply Personal](https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html)**
 
-The New York Times • 13h ago
+The New York Times • 6h ago
 
 ---
 
@@ -129,17 +129,19 @@ Axios • 9h ago
 
 ---
 
-**[US sends AI-powered anti-drone system to Mideast after 'disappointing' response to Iran's Shahed](https://fortune.com/2026/03/07/us-anti-drone-system-merops-mideast-iran-shahed/)**
+**[OpenAI’s Head of Robotics Resigns Over Company’s Pentagon Deal](https://www.bloomberg.com/news/articles/2026-03-07/openai-s-head-of-robotics-resigns-over-company-s-pentagon-deal)**
 
-The drones fired by Iran are a much more basic version of the same drone that Russia is continuously refining and updating in its war in Ukraine.
+The head of OpenAI’s robotics team resigned Saturday, citing the company’s deal to deploy its artificial intelligence models within the Pentagon’s classified network as the cause.
 
-Fortune • 2h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Agentic AI Is Changing The Security Model For Enterprise Systems](https://www.forbes.com/sites/heatherwishartsmith/2026/03/07/agentic-ai-is-changing-the-security-model-for-enterprise-systems/)**
+**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
 
-Forbes • 1h ago
+The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
+
+Fortune • 1d ago
 
 ---
 
@@ -159,35 +161,31 @@ The Guardian • 9h ago
 
 ---
 
+**[A Guide to the Pentagon’s Dance With Anthropic and OpenAI](https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html)**
+
+The New York Times • 13h ago
+
+---
+
+**[What does the US military’s feud with Anthropic mean for AI used in war? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military)**
+
+Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
+
+The Guardian • 9h ago
+
+---
+
+**[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqffP-9phA1Fv8bJG7uOlAjZ-VZ-wDXYBZ_8luNbBdY7RyMN00BSB-wO&gaa_ts=69acbc2d&gaa_sig=_MsCbEYUM16mFbSckzxpdNknlQeIfeG35WKeHrWxLclQigh_Zed3tY6qxlxTCWl-bLTx7YxWdHR16k5j6UiN-w%3D%3D)**
+
+WSJ • 6h ago
+
+---
+
 **[Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)**
 
 Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
 
 OpenAI • 2d ago
-
----
-
-**[Gen Z is using AI to navigate social situations](https://www.cnn.com/2026/03/07/health/gen-z-ai-conversations-wellness)**
-
-Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
-
-CNN • 12h ago
-
----
-
-**[AI-generated Iran war videos surge as creators use new tech to cash in](https://www.bbc.com/news/articles/ckg8wvz427vo)**
-
-The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
-
-BBC • 22h ago
-
----
-
-**[Tech company at odds with Pentagon warns its AI possibly gained consciousness, Elon Musk gives 2-word response](https://www.foxnews.com/politics/tech-company-odds-pentagon-warns-its-ai-possibly-gained-consciousness-elon-musk-issues-two-word-response)**
-
-Elon Musk accused Anthropic CEO Dario Amodei of "projecting" after Amodei said in an interview, "We don’t know if the models are conscious."
-
-Fox News • 6h ago
 
 ---
 
@@ -207,13 +205,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 324 • 💬 551 • 2d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 325 • 💬 551 • 2d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 300 • 💬 114 • 2d ago • [406.fail](https://406.fail/)
+⬆️ 301 • 💬 115 • 2d ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -221,7 +219,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 216 • 💬 326 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 218 • 💬 326 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -235,7 +233,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 129 • 💬 125 • 4h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 133 • 💬 143 • 4h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -243,15 +241,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 101 • 💬 82 • 9h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
-
----
-
-**[AI Error May Have Contributed to Girl's School Bombing in Iran](https://news.ycombinator.com/item?id=47284834)**
-
-Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
-
-⬆️ 60 • 💬 31 • 17h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
+⬆️ 102 • 💬 84 • 10h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -259,7 +249,15 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 I’ve forgotten how to write code, or at least I think I have. Hard to be sure, I haven’t done it for a while. But then, I start to muse…
 
-⬆️ 58 • 💬 61 • 6h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+⬆️ 69 • 💬 65 • 6h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+
+---
+
+**[AI Error May Have Contributed to Girl's School Bombing in Iran](https://news.ycombinator.com/item?id=47284834)**
+
+Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
+
+⬆️ 60 • 💬 31 • 18h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
 
 ---
 
@@ -309,7 +307,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 55K • 👍 1K • 💬 111 • ⏱️ 10:56 • 1d ago
+👁️ 55K • 👍 1K • 💬 111 • ⏱️ 10:56 • 2d ago
 
 ---
 
@@ -359,7 +357,7 @@ For links to the prompts and tools, join the WhatsApp community & check the grou
 
 📺 Raj Shamani
 
-👁️ 94K • 👍 4K • 💬 436 • ⏱️ 2:18:56 • 7h ago
+👁️ 94K • 👍 4K • 💬 436 • ⏱️ 2:18:56 • 8h ago
 
 ---
 
@@ -481,7 +479,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 4,212 • ❤️ 184 • 24m ago
+⬇️ 4,212 • ❤️ 184 • 46m ago
 
 ---
 
@@ -641,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.3k • 🔱 3.1k • 10m ago
+⭐ 24.3k • 🔱 3.1k • 33m ago
 
 ---
 
@@ -651,7 +649,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.2k • 🔱 558 • 21h ago
+⭐ 15.2k • 🔱 558 • 22h ago
 
 ---
 
@@ -721,7 +719,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 247 • 4h ago
+⭐ 3.4k • 🔱 247 • 5h ago
 
 ---
 
@@ -731,7 +729,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 637 • 3h ago
+⭐ 3.2k • 🔱 637 • 4h ago
 
 ---
 
