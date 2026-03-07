@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T22:48:53.437989+00:00'
+updated: '2026-03-07T23:23:51.371045+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 22:48 UTC  
+**Last Updated:** March 07, 2026 at 23:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1348.08B
+**Market Cap:** $1347.20B
 Rank #1
 
-**Circulating Supply:** 19,999,196 BTC
+**Circulating Supply:** 19,999,265 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.5%
+-46.6%
 
 **All-Time Low:** $67.81
-+99283.6%
++99229.0%
 
 ---
 
@@ -89,7 +89,7 @@ This is why we Bitcoin $BTC. When your banks starts questioning you about your p
 
 Race for the last million Bitcoin begins...
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ A bitcoin has 100 million sats. At the bare minimum you need 140 sats to send a 
 
 I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitcoin node along with Lightning to help the Bitcoin community.
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitc
 
 Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
-10h ago
+11h ago
 
 ---
 
@@ -129,7 +129,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
 
-8h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ Hey guys I am considering buying bitcoin as part of a diversification effort. I 
 
 Covid destroyed the market but the rebound was historic.
 
-2h ago
+3h ago
 
 ---
 
@@ -145,7 +145,7 @@ Covid destroyed the market but the rebound was historic.
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-17h ago
+18h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 10h ago
 
 Knowing the odds could make you richer down the line.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -315,33 +315,13 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 ## YouTube Videos: "bitcoin"
 
-**[The AI Boom Is EXACTLY Why Bitcoin Exists](https://www.youtube.com/watch?v=5kFhXw1wZvQ)**
+**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
-📺 Anthony Pompliano
+📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 13 • ⏱️ 59:14 • 8h ago
-
----
-
-**[Why Bitcoin is Replacing Gold as the World&#39;s Ultimate Safe Haven](https://www.youtube.com/watch?v=KmdT82XMhT0)**
-
-A historic shift is happening in the global economy. As geopolitical tensions rise, Bitcoin is outperforming gold and behaving as a ...
-
-📺 Financial Funda
-
-👁️ 2K • 👍 83 • 💬 3 • ⏱️ 2:51 • 6h ago
-
----
-
-**[Could This Send Bitcoin to $700K in Just 10 Months?!](https://www.youtube.com/watch?v=tQR7mHjAwzY)**
-
-Bitcoin just surged toward $74K and the big question is whether this is the start of the next leg up or a brutal bull trap. Arthur Hayes ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 252 • ⏱️ 17:07 • 1d ago
+👁️ 9K • 👍 873 • 💬 99 • ⏱️ 11:32 • 2h ago
 
 ---
 
@@ -351,7 +331,37 @@ Global tensions, oil politics, and the petrodollar system may be colliding in re
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 864 • 💬 186 • ⏱️ 15:47 • 4h ago
+👁️ 10K • 👍 1K • 💬 240 • ⏱️ 15:47 • 5h ago
+
+---
+
+**[The AI Boom Is EXACTLY Why Bitcoin Exists](https://www.youtube.com/watch?v=5kFhXw1wZvQ)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 20K • 👍 1K • 💬 13 • ⏱️ 59:14 • 9h ago
+
+---
+
+**[Why Bitcoin is Replacing Gold as the World&#39;s Ultimate Safe Haven](https://www.youtube.com/watch?v=KmdT82XMhT0)**
+
+A historic shift is happening in the global economy. As geopolitical tensions rise, Bitcoin is outperforming gold and behaving as a ...
+
+📺 Financial Funda
+
+👁️ 2K • 👍 104 • 💬 7 • ⏱️ 2:51 • 6h ago
+
+---
+
+**[Could This Send Bitcoin to $700K in Just 10 Months?!](https://www.youtube.com/watch?v=tQR7mHjAwzY)**
+
+Bitcoin just surged toward $74K and the big question is whether this is the start of the next leg up or a brutal bull trap. Arthur Hayes ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 2K • 💬 255 • ⏱️ 17:07 • 2d ago
 
 ---
 
@@ -361,7 +371,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 189 • 💬 284 • ⏱️ 16:15 • 17h ago
+👁️ 4K • 👍 199 • 💬 344 • ⏱️ 16:15 • 18h ago
 
 ---
 
@@ -371,7 +381,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 131 • ⏱️ 11:48 • 1d ago
+👁️ 45K • 👍 2K • 💬 158 • ⏱️ 11:48 • 1d ago
 
 ---
 
@@ -381,7 +391,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged https://ww
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 304 • 💬 1 • ⏱️ 19:14 • 23h ago
+👁️ 5K • 👍 307 • 💬 1 • ⏱️ 19:14 • 1d ago
 
 ---
 
@@ -391,7 +401,7 @@ Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talki
 
 📺 BTC Isla
 
-👁️ 8K • 👍 915 • 💬 144 • ⏱️ 11:28 • 1d ago
+👁️ 9K • 👍 939 • 💬 146 • ⏱️ 11:28 • 1d ago
 
 ---
 
@@ -401,17 +411,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 84K • 👍 3K • 💬 254 • ⏱️ 17:02 • 2d ago
-
----
-
-**[🚨 ALERT: The Bitcoin Floodgates Are Open!!](https://www.youtube.com/watch?v=m5nunXOj2VM)**
-
-The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 2K • 💬 161 • ⏱️ 8:38 • 1d ago
+👁️ 85K • 👍 3K • 💬 259 • ⏱️ 17:02 • 2d ago
 
 ---
 

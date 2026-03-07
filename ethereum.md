@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-07T22:48:53.443256+00:00'
+updated: '2026-03-07T23:23:51.377181+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 22:48 UTC  
+**Last Updated:** March 07, 2026 at 23:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $237.35B
+**Market Cap:** $237.79B
 Rank #2
 
 **Circulating Supply:** 120,692,062 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.2%
+-60.1%
 
 **All-Time Low:** $0.43
-+453998.2%
++455208.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -94,7 +94,7 @@ Yesterday I posted about verifying Vitalik's first token contract and got a grea
 
 I propose to wrap USDT, since currently it is a highly outdated coin, and its transfer function has issues, and doesn't have new features, and only has 6 decimals. While these issues may not be large now and can be easily fixed or do not lose too much functionality, as DeFi expands new standards, etc may add more features, then USDT can be put into a standardized wrapper to handle it.
 
-7h ago
+8h ago
 
 ---
 
@@ -110,7 +110,7 @@ I've been working on verifying source code for the oldest contracts on Ethereum,
 
 I staked some ETH around a month ago and it still has the Staking..... "staking takes 5 days" prompt. How long does it normally take to stake ETH and should I be worried?
 
-22h ago
+23h ago
 
 ---
 
@@ -126,7 +126,7 @@ One important technical item that I forgot to mention is the proposed switch fro
 
 So I have some Eth staked on lido and received steth in return. After a few people I know told me I can deposit steth to double dip, earn steth rewards and earn rewards on steth coins as well? Does anyone have any suggestions? I’ve checked morpho, and aave but can’t seem to find any information on lending steth in return for more rewards? Ive also heard of curve and harvest but I’m not familiar with either. Any safe suggestions would be greatly appreciated, as i treasure my Eth and I’m not trying to jeopardize it any way to make a small return. I’m just trying to maximize the amount of Eth I have and letting it work to grow more. Thanks
 
-22h ago
+23h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Motley Fool • 1d ago
 
 Ethereum is showing early signs of a rising wedge formation, a pattern often associated with potential reversals. With key support under pressure, a breakdown from this structure could push the price lower, putting the $1,500 level firmly in focus as the next major target.A Rejection At Key High-Ti…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ Bit Digital • 2d ago
 
 Culper Research has shorted ETH citing underlying Ethereum staking and validator crisis.
 
-AMBCrypto • 2h ago
+AMBCrypto • 3h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Block • 1d ago
 
 Dubai, UAE, March  06, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced that a former Binance executive has joined the strategic advisory board of ...
 
-markets.businessinsider.com • 22h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -230,23 +230,33 @@ CoinDesk • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum To 85x From Here? Cathie Wood ETH Price Targets Are Insane!](https://www.youtube.com/watch?v=Qn2OgJ2Q_ZQ)**
-
-Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. Sound insane? Here's her entire thesis.
-
-📺 Zach Humphries
-
-👁️ 676 • 👍 71 • 💬 40 • ⏱️ 7:38 • 6h ago
-
----
-
 **[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
 
 Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
 📺 Altcoin Daily
 
-👁️ 2K • 👍 181 • 💬 61 • ⏱️ 11:32 • 2h ago
+👁️ 9K • 👍 873 • 💬 99 • ⏱️ 11:32 • 2h ago
+
+---
+
+**[Ethereum To 85x From Here? Cathie Wood ETH Price Targets Are Insane!](https://www.youtube.com/watch?v=Qn2OgJ2Q_ZQ)**
+
+Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. Sound insane? Here's her entire thesis.
+
+📺 Zach Humphries
+
+👁️ 972 • 👍 80 • 💬 105 • ⏱️ 7:38 • 7h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=rUWDg8L-URM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 585 • 👍 71 • 💬 15 • ⏱️ 3:42 • 2h ago
 
 ---
 
@@ -256,17 +266,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 184 • 💬 31 • ⏱️ 10:24 • 1d ago
+👁️ 5K • 👍 189 • 💬 31 • ⏱️ 10:24 • 1d ago
 
 ---
 
-**[Tom Lee has gone insane (ethereum).](https://www.youtube.com/watch?v=KUl2p8MQGBg)**
+**[BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7bIFSyrYf_0)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Altcoin Daily
+📺 Crypto World
 
-👁️ 25K • 👍 688 • 💬 22 • ⏱️ 1:16 • 2d ago
+👁️ 674 • 👍 47 • 💬 50 • ⏱️ 17:36 • 36m ago
 
 ---
 
@@ -280,6 +290,26 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 ---
 
+**[LONG-TERM ETH PREDICTION UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=p4Sz-ksUU_Q)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 211 • 👍 8 • 💬 3 • ⏱️ 4:45 • 12h ago
+
+---
+
+**[Tom Lee has gone insane (ethereum).](https://www.youtube.com/watch?v=KUl2p8MQGBg)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 26K • 👍 721 • 💬 23 • ⏱️ 1:16 • 2d ago
+
+---
+
 **[&quot;People Don’t Know How Massive MARCH Will Be for Crypto&quot;: Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=7oRNY59aeTo)**
 
 My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
@@ -290,43 +320,13 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 ---
 
-**[LONG-TERM ETH PREDICTION UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=p4Sz-ksUU_Q)**
+**[🔥 Bitcoin vs Ethereum vs XRP: HOLD or SELL Now?](https://www.youtube.com/watch?v=pni0OJ1fhIA)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ...
 
-📺 Cilinix Crypto
+📺 Kirtish Vyas (CoinLyte)
 
-👁️ 183 • 👍 7 • 💬 1 • ⏱️ 4:45 • 12h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=2e_BQztHiGg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:52 • 18h ago
-
----
-
-**[Whales Are Loading Up on BTC, ETH, ASTER &amp; PUMP – What Do They Know? 👀](https://www.youtube.com/watch?v=qkFFwZjfOA4)**
-
-We analyze the latest crypto whale activity and what it could mean for the broader market. On-chain data is showing large ...
-
-📺 Altcoin Buzz
-
-👁️ 2K • 👍 111 • 💬 57 • ⏱️ 12:09 • 1d ago
-
----
-
-**[Sui Founder Explains Why Ethereum &amp; Solana Will Be Left Behind | E161](https://www.youtube.com/watch?v=5Tunu3t7kQ4)**
-
-Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw away everything they built because it wasn't good ...
-
-📺 When Shift Happens
-
-👁️ 30K • 👍 542 • 💬 168 • ⏱️ 49:16 • 2d ago
+👁️ 4K • 👍 164 • 💬 11 • ⏱️ 9:55 • 13h ago
 
 ---
 

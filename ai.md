@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T22:48:53.430269+00:00'
+updated: '2026-03-07T23:23:51.362430+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - news
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 22:48 UTC  
+**Last Updated:** March 07, 2026 at 23:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 Analysis finds that the use of AI in scientific writing is increasing
 
-🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 4h ago
+🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 5h ago
 
 ---
 
@@ -71,7 +71,7 @@ Analysis finds that the use of AI in scientific writing is increasing
 
 Intro What's the coolest web game you can make in about 24 hours with AI tools? This weekend I'm running a game jam for AI-assisted web game development Rules The game jam starts NOW! If you're reading this post, it's started Your web game must include entirely fresh, new code and assets specifically made for this game jam (no old games or old code or old art work) All entries must be AI-assisted I will accept entries until noon (12 PM) Pacific Time on Sunday, March 8th, 2026 An entry must have a public URL at which we can play the web game Entries must not require payment or sign in; we should be able to launch the game right away I (the organizer) reserve the right to reject entries which are spammy or which include offensive content (bigotry, political side-taking, animal abuse, etc.) You may do the jam solo or in a team For fairness, final results will be displayed in a random order, and there won't be any judging or prizes How do I submit my game? There will be a Google Forms link on the main game jam page What if I want to discuss or collaborate or need tech support during the game jam? There's a Discord you can join, linked from the main game jam page Where do I see the final results? On the main game jam page: https://aaronshaver.github.io/mar-2026-ai-web-game-jam/ Have fun, everyone!
 
-5h ago
+6h ago
 
 ---
 
@@ -79,7 +79,7 @@ Intro What's the coolest web game you can make in about 24 hours with AI tools? 
 
 A particularly terrible example of this misuse of an LLM: “The plaintiffs’ lawyers also noted that Mr. Fox’s original ChatGPT search flagged a number of projects relating to the Holocaust, including the documentary about Jewish women who were slave laborers. Asked if he agreed with ChatGPT, Mr. Fox said: “It’s a Jewish — specifically focused on Jewish culture and amplifying the marginalized voices of the females in that culture. It’s inherently related to D.E.I. for that reason.””
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 1h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 2h ago
 
 ---
 
@@ -87,13 +87,13 @@ A particularly terrible example of this misuse of an LLM: “The plaintiffs’ l
 
 TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models Kevin Couch Abstract Large language models exhibit structural failure modes—hallucination, semantic drift, sycophancy, and dyadic dissociation—that cause measurable harm, particularly to vulner- able users. TRC (Trust Regulation and Containment) is a two-layer, inference-time frame- work that combines a hard binary Trust Gate with a continuous, physics-inspired Ethical Rheostat operating directly on the model’s residual-stream activation vector. By tracking semantic momentum across layer depth and applying graduated, tensor-based geometric projections, TRC shifts safety enforcement from reactive post-generation filtering to a pre- dictive, self-correcting control law. The core is a stochastic differential equation—re-indexed to layer depth under an approx- imate Neural ODE interpretation—that augments the transformer’s natural forward flow with an ethical steering term derived from a compact set of contrastively extracted concept vectors. This revision introduces eight principal advances: (i) an adaptive gain law Λ+(l) whose gain response accelerates into danger and decelerates into safety without oscillation risk; (ii) a scalar Kalman filter with a clutch mechanism that closes the Bayesian momentum predictor implementation gap, provably optimal under the framework’s own Gaussian noise assumptions and decoupled from burst dynamics via federated regime handoff; (iii) a formal Itô stability condition giving implementers an analytical lower bound on λ0; (iv) replacement of the instantaneous jump operator with a continuous flow burst mechanism that preserves activation manifold geometry; (v) a calibration shunt reference Cref normalising all thresh- olds and gain coefficients against a known-safe baseline; (vi) a tempo efficiency framework unifying token cost, electrical cost, and coherence distortion into a single joint optimisa- tion objective; (vii) a signed gain architecture that partitions each concept projection into harmful and prosocial components, with detection and escalation operating exclusively on the harmful channel C+ to prevent adversarial prosocial suppression; and (viii) a Kalman clutch mechanism implementing federated estimation with deterministic Lyapunov stabil- ity during burst episodes and stochastic Lyapunov stability during nominal operation, with formally specified regime transitions. Stochastic perturbation is projected into the ethical subspace, making the Langevin diffusion interpretation exact rather than approximate. The framework is validated against chess dynamics, which constitute a well-studied discrete dy- namical system whose positional flow, tactical burst, and zugzwang properties map precisely onto TRC’s three-term master equation. Introduction Large language models exhibit a range of structural failure modes—hallucination, semantic drift, sycophancy, and dyadic dissociation—that can cause measurable harm, especially to vulnerable users. These phenomena arise not from reasoning errors but from the probabilistic nature of transformer sampling and the high-dimensional geometry of activation space. In this paper we present TRC (Trust Regulation and Containment), a two-layer, inference-time framework that blends hard decision gates with a continuous, physics-inspired correction engine operating directly on the model’s residual-stream activation vector. The central geometric insight motivating this revision is that the transformer’s residual stream traces a continuous path through a high-dimensional activation manifold. Safety failures are deformations of this manifold—crinkles in its geometry introduced by adversarial inputs, sycophantic drift, or escalating user distress. The correct response to a crinkle is not to teleport the activation to a safe location (which introduces new geometric incoherence) but to apply continuous corrective flow that works the deformation out smoothly, layer by layer, the way a craftsperson works aluminum foil back toward its intended shape. This insight drives the replacement of the previous instantaneous jump operator with the flow burst architecture and motivates the tempo efficiency framework that unifies all computational cost metrics under a single variable. This revision also introduces the Kalman clutch mechanism, which decouples the Bayesian momentum predictor from burst dynamics during high-gain corrective episodes. The system now operates as a federated estimation architecture with formally specified regime transitions: nominal tracking under stochastic Lyapunov stability, deterministic correction during burst episodes, and a principled re-engagement protocol with inflated covariance. The detection and escalation pathway has been restructured to operate exclusively on the harmful projection channel C+, preventing adversarial prosocial suppression of safety mechanisms.
 
-5h ago
+6h ago
 
 ---
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 22h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 23h ago
 
 ---
 
@@ -101,7 +101,7 @@ TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Fram
 
 CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-3h ago
+4h ago
 
 ---
 
@@ -119,13 +119,13 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 **[For OpenAI and Anthropic, the Competition Is Deeply Personal](https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
 **[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
@@ -133,13 +133,13 @@ Axios • 8h ago
 
 The drones fired by Iran are a much more basic version of the same drone that Russia is continuously refining and updating in its war in Ukraine.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
 **[Agentic AI Is Changing The Security Model For Enterprise Systems](https://www.forbes.com/sites/heatherwishartsmith/2026/03/07/agentic-ai-is-changing-the-security-model-for-enterprise-systems/)**
 
-Forbes • 48m ago
+Forbes • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ NPR • 1d ago
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -171,7 +171,7 @@ OpenAI • 2d ago
 
 Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -207,7 +207,7 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 324 • 💬 551 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 324 • 💬 551 • 2d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
@@ -235,7 +235,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 129 • 💬 125 • 3h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 129 • 💬 125 • 4h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -259,7 +259,7 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 I’ve forgotten how to write code, or at least I think I have. Hard to be sure, I haven’t done it for a while. But then, I start to muse…
 
-⬆️ 58 • 💬 61 • 5h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+⬆️ 58 • 💬 61 • 6h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 
 ---
 
@@ -279,17 +279,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 141K • 👍 6K • 💬 389 • ⏱️ 17:49 • 2d ago
+👁️ 151K • 👍 7K • 💬 394 • ⏱️ 17:49 • 2d ago
 
 ---
 
-**[The AI Bubble is BURSTING...](https://www.youtube.com/watch?v=1ncQc6O_CYM)**
+**[Best AI Voice Generator 2026 (Most Realistic)](https://www.youtube.com/watch?v=Ei9DjNO7C28)**
 
-Everyone keeps saying the same thing: AI is going to replace programmers. You've probably seen the demos — AI generating ...
+Use the BEST AI Voice Generator https://youricreates.com/Elevenlabs In this video, I break down how ElevenLabs actually ...
 
-📺 devsplate
+📺 Youri van Hofwegen
 
-👁️ 9K • 👍 661 • 💬 131 • ⏱️ 3:46 • 8h ago
+👁️ 9K • 💬 6 • ⏱️ 15:17 • 7h ago
 
 ---
 
@@ -299,7 +299,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 40K • 👍 1K • 💬 233 • ⏱️ 21:16 • 1d ago
+👁️ 42K • 👍 1K • 💬 247 • ⏱️ 21:16 • 1d ago
 
 ---
 
@@ -309,7 +309,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 53K • 👍 1K • 💬 109 • ⏱️ 10:56 • 1d ago
+👁️ 55K • 👍 1K • 💬 111 • ⏱️ 10:56 • 1d ago
 
 ---
 
@@ -319,17 +319,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 61K • 👍 3K • 💬 289 • ⏱️ 38:02 • 1d ago
-
----
-
-**[Replacing Humans With AI Is Catastrophically Backfiring](https://www.youtube.com/watch?v=3KQxQckG8ug)**
-
-Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your free FÜM Topper when you order your ...
-
-📺 Moon
-
-👁️ 224K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
+👁️ 63K • 👍 3K • 💬 304 • ⏱️ 38:02 • 1d ago
 
 ---
 
@@ -339,7 +329,17 @@ Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thin
 
 📺 AI Explained
 
-👁️ 56K • 👍 2K • 💬 377 • ⏱️ 21:52 • 1d ago
+👁️ 57K • 👍 2K • 💬 390 • ⏱️ 21:52 • 1d ago
+
+---
+
+**[Replacing Humans With AI Is Catastrophically Backfiring](https://www.youtube.com/watch?v=3KQxQckG8ug)**
+
+Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your free FÜM Topper when you order your ...
+
+📺 Moon
+
+👁️ 227K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
 
 ---
 
@@ -349,7 +349,17 @@ How to Make $10000 Online LIVE Workshop (free): https://event.thewealthportal.co
 
 📺 Mark Tilbury
 
-👁️ 379K • 👍 15K • 💬 1K • ⏱️ 19:52 • 1d ago
+👁️ 424K • 👍 16K • 💬 1K • ⏱️ 19:52 • 1d ago
+
+---
+
+**[AI Masterclass: Become an Expert at Claude, Gemini &amp; Powerful AI Tools | Vaibhav | FO480 Raj Shamani](https://www.youtube.com/watch?v=keEi0LoZwL0)**
+
+For links to the prompts and tools, join the WhatsApp community & check the group description: https://figuringoutai.co/ Also, ...
+
+📺 Raj Shamani
+
+👁️ 94K • 👍 4K • 💬 436 • ⏱️ 2:18:56 • 7h ago
 
 ---
 
@@ -359,17 +369,7 @@ Turn Claude Code Skills Into Real Client Projects https://skool.com/aiworkshop G
 
 📺 Zubair Trabzada | AI Workshop
 
-👁️ 58K • 👍 2K • 💬 63 • ⏱️ 11:51 • 2d ago
-
----
-
-**[I Tried Making Money With AI In 7 Days](https://www.youtube.com/watch?v=OmaKaIOiqMo)**
-
-Check out the FREE course here: https://ecom-enterprise.mykajabi.com/offers/ayimTrvy The AI Tools I Used (All in one) ...
-
-📺 Mikey Again
-
-👁️ 6K • 👍 422 • 💬 56 • ⏱️ 20:30 • 1d ago
+👁️ 60K • 👍 2K • 💬 64 • ⏱️ 11:51 • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 692,588 • ❤️ 562 • 5d ago
+⬇️ 692,588 • ❤️ 565 • 5d ago
 
 ---
 
@@ -397,7 +397,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,086,662 • ❤️ 1,023 • 8d ago
+⬇️ 1,086,662 • ❤️ 1,024 • 8d ago
 
 ---
 
@@ -409,7 +409,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 119,290 • ❤️ 315 • 2d ago
+⬇️ 119,290 • ❤️ 322 • 2d ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 346,126 • ❤️ 312 • 5d ago
+⬇️ 346,126 • ❤️ 313 • 5d ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 282,635 • ❤️ 284 • 5d ago
+⬇️ 282,635 • ❤️ 285 • 5d ago
 
 ---
 
@@ -445,7 +445,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 436,300 • ❤️ 241 • 5d ago
+⬇️ 436,300 • ❤️ 243 • 5d ago
 
 ---
 
@@ -457,7 +457,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,012,202 • ❤️ 568 • 2d ago
+⬇️ 1,012,202 • ❤️ 570 • 2d ago
 
 ---
 
@@ -469,7 +469,19 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 52,816 • ❤️ 174 • 3d ago
+⬇️ 52,816 • ❤️ 179 • 3d ago
+
+---
+
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
+
+*JIRONG*
+
+Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Chain-of-Thought distillation from Claude-4.6 Opus. It excels at structured, step-by-step problem-solving within `<think>` tags, offering improved autonomy and stability for coding agents.
+
+`text-generation` `27.8B`
+
+⬇️ 4,212 • ❤️ 184 • 24m ago
 
 ---
 
@@ -482,18 +494,6 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 `image-text-to-text` `27.8B`
 
 ⬇️ 630,137 • ❤️ 606 • 10d ago
-
----
-
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
-
-*JIRONG*
-
-Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Chain-of-Thought distillation from Claude-4.6 Opus. It excels at structured, step-by-step problem-solving within `<think>` tags, offering improved autonomy and stability for coding agents.
-
-`text-generation` `27.8B`
-
-⬇️ 4,212 • ❤️ 171 • 7h ago
 
 ---
 
@@ -523,7 +523,7 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 132 • 💬 5 • ⭐ 735 • 3d ago
+▲ 133 • 💬 5 • ⭐ 735 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -561,7 +561,7 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 37 • 💬 2 • ⭐ 17,724 • 19mo ago
+▲ 37 • 💬 2 • ⭐ 17,767 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
@@ -586,21 +586,9 @@ ReMe is a framework for experience-driven agent evolution in LLMs, enhancing mem
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 38 • 💬 1 • ⭐ 72,316 • 30mo ago
+▲ 38 • 💬 1 • ⭐ 72,351 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 10 • 💬 0 • ⭐ 7,114 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -613,6 +601,18 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 ▲ 19 • 💬 1 • ⭐ 7,119 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+
+▲ 10 • 💬 0 • ⭐ 7,126 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.3k • 🔱 3.1k • 6h ago
+⭐ 24.3k • 🔱 3.1k • 10m ago
 
 ---
 
@@ -651,7 +651,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.1k • 🔱 551 • 21h ago
+⭐ 15.2k • 🔱 558 • 21h ago
 
 ---
 
@@ -661,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.3k • 🔱 1.0k • 8h ago
+⭐ 9.4k • 🔱 1.0k • 9h ago
 
 ---
 
@@ -671,7 +671,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.8k • 🔱 501 • 17h ago
+⭐ 6.8k • 🔱 501 • 18h ago
 
 ---
 
@@ -681,7 +681,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 6.7k • 🔱 850 • 4d ago
+⭐ 6.7k • 🔱 851 • 4d ago
 
 ---
 
@@ -691,7 +691,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 693 • 10h ago
+⭐ 5.9k • 🔱 695 • 11h ago
 
 ---
 
@@ -701,7 +701,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 5.1k • 🔱 416 • 2d ago
+⭐ 5.1k • 🔱 417 • 2d ago
 
 ---
 
@@ -711,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 388 • 5h ago
+⭐ 3.6k • 🔱 388 • 6h ago
 
 ---
 
@@ -721,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 248 • 4h ago
+⭐ 3.4k • 🔱 247 • 4h ago
 
 ---
 
@@ -731,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 636 • 3h ago
+⭐ 3.2k • 🔱 637 • 3h ago
 
 ---
 
