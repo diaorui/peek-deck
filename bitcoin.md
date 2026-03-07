@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T07:51:11.743869+00:00'
+updated: '2026-03-07T08:33:46.755956+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 07:51 UTC  
+**Last Updated:** March 07, 2026 at 08:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,109.05
+### $68,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.7%  
-**7d:** +3.1%  
-**30d:** -4.0%  
-**90d:** -25.4%  
-**1y:** -21.4%  
+**24h:** -3.6%  
+**7d:** +3.4%  
+**30d:** -3.8%  
+**90d:** -25.2%  
+**1y:** -21.2%  
 
 ---
 
@@ -79,12 +79,6 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-14h ago
-
----
-
-**[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
-
 15h ago
 
 ---
@@ -93,7 +87,13 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-3h ago
+4h ago
+
+---
+
+**[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
+
+16h ago
 
 ---
 
@@ -101,7 +101,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-2h ago
+3h ago
 
 ---
 
@@ -117,15 +117,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
 
-6h ago
-
----
-
-**[4 Year Cycle - why doubt it?](https://www.reddit.com/r/Bitcoin/comments/1rmoeww/4_year_cycle_why_doubt_it/)**
-
-Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycles now. Psychologically, most BTC traders take it as inevitable which makes it a self-fulfilling prophecy. There are always “this time is different” arguments and at some point in the future, hopefully, BTC would mature to a point where there are no cycles, but why bet against the rule until it’s broken? (Noting this in response to people I’m seeing acting like a 10-15% jump means winter is over. It seems to me that we could not have a sustained rally until Q3 where some will try to front-run the historical Q4 rally. Obviously, DCAing at these levels is still great and who knows how low we’ll actually go this time.)
-
-11h ago
+7h ago
 
 ---
 
@@ -137,19 +129,27 @@ Where can I find Bitcoin communities or platforms where real estate can be sold 
 
 ---
 
+**[4 Year Cycle - why doubt it?](https://www.reddit.com/r/Bitcoin/comments/1rmoeww/4_year_cycle_why_doubt_it/)**
+
+Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycles now. Psychologically, most BTC traders take it as inevitable which makes it a self-fulfilling prophecy. There are always “this time is different” arguments and at some point in the future, hopefully, BTC would mature to a point where there are no cycles, but why bet against the rule until it’s broken? (Noting this in response to people I’m seeing acting like a 10-15% jump means winter is over. It seems to me that we could not have a sustained rally until Q3 where some will try to front-run the historical Q4 rally. Obviously, DCAing at these levels is still great and who knows how low we’ll actually go this time.)
+
+12h ago
+
+---
+
 **[Kazakhstan’s central bank considering up to $350M investment in Bitcoin and crypto](https://www.reddit.com/r/Bitcoin/comments/1rmeit8/kazakhstans_central_bank_considering_up_to_350m/)**
 
 According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
 
-17h ago
+18h ago
 
 ---
 
-**[Got burnt from 100x leverage](https://www.reddit.com/r/Bitcoin/comments/1rmacg0/got_burnt_from_100x_leverage/)**
+**[Daily Discussion, March 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1rn293r/daily_discussion_march_07_2026/)**
 
-A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-21h ago
+2h ago
 
 ---
 
@@ -157,11 +157,11 @@ A trader I know got completely burnt because of a 2% dip. If you are one of them
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC suffers late-week $110 billion wipeout as Iran trumps positive developments](https://www.coindesk.com/markets/2026/03/06/why-bitcoin-suffered-a-usd110-billion-wipeout-despite-its-best-week-of-wall-street-news-in-months)**
+**[Bitcoin price news: BTC in deep bear market, could crash by another 30%, investment firm says](https://www.coindesk.com/markets/2026/03/07/bitcoin-could-crash-another-30-as-four-year-cycle-gains-strength-investment-firm-says)**
 
-Bitcoin’s institutional era is officially here, but a stronger dollar and shifting interest rate expectations are keeping a lid on the latest rally.
+Bitcoin is now firmly in a deep bear market and could fall another 30% in 2026, firm said.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -173,25 +173,19 @@ Nasdaq • 1d ago
 
 ---
 
-**[Connecting Excellence: Growth & bitcoin strategy - ICYMI](https://uk.finance.yahoo.com/news/connecting-excellence-growth-bitcoin-strategy-063004522.html)**
+**[Bitcoin slips below $68,000 heading into the weekend as dollar posts steepest weekly gain in a year](https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year)**
 
-Yahoo Finance UK • 1h ago
-
----
-
-**[Bitcoin price news: BTC in deep bear market, could crash by another 30%, investment firm says](https://www.coindesk.com/markets/2026/03/07/bitcoin-could-crash-another-30-as-four-year-cycle-gains-strength-investment-firm-says)**
-
-Bitcoin is now firmly in a deep bear market and could fall another 30% in 2026, firm said.
+Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
 
 CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin price news: BTC slips below $68,000 as dollar posts steepest weekly gain](https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year)**
+**[2 Reasons to Buy Bitcoin Before June 2026](https://finance.yahoo.com/news/2-reasons-buy-bitcoin-june-102000936.html)**
 
-Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
+These two factors could dramatically change the way investors think about Bitcoin.
 
-CoinDesk • 1h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -199,7 +193,7 @@ CoinDesk • 1h ago
 
 The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -207,15 +201,7 @@ The Block • 18h ago
 
 The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Fortune • 13h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772863800)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 11h ago
+Fortune • 14h ago
 
 ---
 
@@ -227,11 +213,27 @@ WIS News 10 • 1d ago
 
 ---
 
+**[Vancouver city staff recommend dropping Mayor Ken Sim's bitcoin motion](https://www.cbc.ca/news/canada/british-columbia/vancouver-bitcoin-staff-rejection-9.7116603)**
+
+Vancouver city staff are taking stock of what council motions they should work on for the rest of the year — and one of the motions on the chopping block is a pet project from Mayor Ken Sim.
+
+CBC • 1d ago
+
+---
+
 **[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
 
 Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
 
 Business Insider • 2d ago
+
+---
+
+**[Forget Gold at $5,000 an Ounce. Here's Why a Simple Crypto Portfolio Might Be the Smarter "Hard Asset" Bet.](https://www.fool.com/investing/2026/03/06/forget-gold-at-5000-an-ounce-heres-why-a-simple-cr/)**
+
+With "safe" asset prices so high, cheaper and riskier assets look better than before.
+
+The Motley Fool • 8h ago
 
 ---
 
@@ -343,7 +345,7 @@ Blockchain.com CEO Peter Smith discusses digital asset regulation, crypto volati
 
 📺 Fox Business Clips
 
-👁️ 47K • 👍 1K • 💬 605 • ⏱️ 8:57 • 18h ago
+👁️ 47K • 👍 1K • 💬 605 • ⏱️ 8:57 • 19h ago
 
 ---
 
@@ -373,7 +375,7 @@ Are you ready? Top-Tier Crypto Trading Starts Here Join the trading competition 
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 234 • 💬 33 • ⏱️ 15:32 • 12h ago
+👁️ 4K • 👍 234 • 💬 33 • ⏱️ 15:32 • 13h ago
 
 ---
 
@@ -383,7 +385,7 @@ Is the crypto market reacting to a new era of global conflict? In today's video,
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 410 • 💬 32 • ⏱️ 1:19:59 • 14h ago
+👁️ 10K • 👍 410 • 💬 32 • ⏱️ 1:19:59 • 15h ago
 
 ---
 
@@ -393,7 +395,7 @@ Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's 
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 728 • 💬 50 • ⏱️ 18:20 • 13h ago
+👁️ 18K • 👍 728 • 💬 50 • ⏱️ 18:20 • 14h ago
 
 ---
 
@@ -403,7 +405,7 @@ Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talki
 
 📺 BTC Isla
 
-👁️ 6K • 👍 690 • 💬 93 • ⏱️ 11:28 • 15h ago
+👁️ 6K • 👍 690 • 💬 93 • ⏱️ 11:28 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T07:51:11.735462+00:00'
+updated: '2026-03-07T08:33:46.747320+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 07:51 UTC  
+**Last Updated:** March 07, 2026 at 08:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 7h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 8h ago
 
 ---
 
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 15h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 16h ago
+
+---
+
+**[I built a probabilistic OS where every function is performed by agent populations with consensus verification and Hebbian learning](https://www.reddit.com/r/artificial/comments/1rn4ajr/i_built_a_probabilistic_os_where_every_function/)**
+
+I've been thinking about why we build AI agent systems with deterministic orchestration when agents themselves are fundamentally probabilistic. They hallucinate. They fail unpredictably. But we manage them with rigid pipelines and single points of failure. Brains don't work that way. Neurons are wildly unreliable — synapses have a 10-40% transmission rate, cells die daily — yet the architecture produces extraordinary reliability through redundancy, population coding, and connections that strengthen with use. So I built ProbOS — a working prototype of a brain-inspired agent runtime where: - Every file operation is performed by 3 agents independently, verified through quorum consensus - Agents self-select for tasks via capability broadcasting (no central dispatcher) - Adversarial red team agents verify every write operation - Trust scores update via Bayesian inference (Beta distribution) - Routing weights evolve through Hebbian learning — the system literally rewires itself based on what works - An LLM serves as the cognitive layer, decomposing natural language into task DAGs that execute across the agent mesh - When agents fail, the population absorbs it and spawns replacements — no crash state, just reduced capability The stack is Python 3.12 + asyncio, with 5 architectural layers (substrate, mesh, consensus, cognitive, experience), 277 tests passing, 10 agents across 4 pools. In the video I boot it, talk to it in plain English, read and write files through the full consensus pipeline, and show the trust scores and Hebbian weights evolving in real time. The individual pieces exist in literature (multi-agent consensus, Hebbian routing in swarms, brain-inspired computing) but as far as I can find, nobody has wired them together into a working system with an LLM cognitive layer you can interact with. Happy to answer questions about the architecture, the design tradeoffs, or where it breaks down. There's a lot that's still naive — the attention mechanism isn't built yet, episodic memory isn't implemented, and the agent type coverage is minimal (just file operations). But the core paradigm works. https://youtu.be/I3vqHDY04aY
+
+32m ago
 
 ---
 
@@ -55,13 +63,13 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-22h ago
+23h ago
 
 ---
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -103,21 +111,43 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 ---
 
-**[Large genome model: Open source AI trained on trillions of bases](https://www.reddit.com/r/artificial/comments/1rlegdl/large_genome_model_open_source_ai_trained_on/)**
-
-"...Evo 2, an open source AI that has been trained on genomes from all three domains of life (bacteria, archaea, and eukaryotes). After training on trillions of base pairs of DNA, Evo 2 developed internal representations of key features in even complex genomes like ours, including things like regulatory DNA and splice sites, which can be challenging for humans to spot. Bacterial genomes are organized along relatively straightforward principles. Any genes that encode proteins or RNAs are contiguous, with no interruptions in the coding sequence. Genes that perform related functions, like metabolizing a sugar or producing an amino acid, tend to be clustered together, allowing them to be controlled by a single, compact regulatory system. It’s all straightforward and efficient. Eukaryotes are not like that. The coding sections of genes are interrupted by introns, which don’t encode for anything. They’re regulated by a sequence that can be scattered across hundreds of thousands of base pairs. The sequences that define the edges of introns or the binding sites of regulatory proteins are all weakly defined—while they have a few bases that are absolutely required, there are a lot of bases that just have an above-average tendency to have a specific base (something like “45 percent of the time it’s a T”). Surrounding all of this in most eukaryotic genomes is a huge amount of DNA that has been termed junk: inactive viruses, terminally damaged genes, and so on. That complexity has made eukaryotic genomes more difficult to interpret. And, while a lot of specialized tools have been developed to identify things like splice sites, they’re all sufficiently error-prone that it becomes a problem when you’re analyzing something as large as a 3 billion-base-long genome. We can learn a lot more by making evolutionary comparisons and looking for sequences that have been conserved, but there are limits to that, and we’re often as interested in the differences between species. These sorts of statistical probabilities, however, are well-suited to neural networks, which are great at recognizing subtle patterns that can be impossible to pick out by eye. But you’d need absolutely massive amounts of data and computing time to process it and pick out some of these subtle features. We now have the raw genome data that the process needs. Putting together a system to feed it into an effective AI training program, however, remained a challenge. That’s the challenge the team behind Evo took on. The foundation of the Evo 2 system is a convolutional neural network called StripedHyena 2. The training took place in two stages. The initial stage focused on teaching the system to identify important genome features by feeding it sequences rich in them in chunks about 8,000 bases long. After that, there was a second stage in which sequences were fed a million bases at a time to provide the system the opportunity to identify large-scale genome features. The researchers trained two versions of their system using a dataset called OpenGenome2, which contains 8.8 trillion bases from all three domains of life, as well as viruses that infect bacteria. They did not include viruses that attack eukaryotes, given that they were concerned that the system could be misused to create threats to humans. Two versions were trained: one that had 7 billion parameters tuned using 2.4 trillion bases, and the full version with 40 billion parameters trained on the full open genome dataset. The logic behind the training is pretty simple: if something’s important enough to have been evolutionarily conserved across a lot of species, it will show up in multiple contexts, and the system should see it repeatedly during training. “By learning the likelihood of sequences across vast evolutionary datasets, biological sequence models capture conserved sequence patterns that often reflect functional importance,” the researchers behind the work write. “These constraints allow the models to perform zero-shot prediction without any task-specific fine-tuning or supervision.” That last aspect is important. We could, for example, tell it about what known splice sites look like, which might help it pick out additional ones. But that might make it harder for it to recognize any unusual splice sites that we haven’t recognized yet. Skipping the fine-tuning might also help it identify genome features that we’re not aware of at all at the moment, but which could become apparent through future research. All of this has now been made available to the public. “We have made Evo 2 fully open, including model parameters, training code, inference code, and the OpenGenome2 dataset,” the paper announces. The researchers also used a system that can identify internal features in neural networks to poke around inside of Evo 2 and figure out what things it had learned to recognize. They trained a separate neural network to recognize the firing patterns in Evo 2 and identify high-level features in it. It clearly recognized protein-coding regions and the boundaries of the introns that flanked them. It was also able to recognize some structural features of proteins within the coding regions (alpha helices and beta sheets), as well as mutations that disrupt their coding sequence. Even something like mobile genetic elements (which you can think of as DNA-level parasites) ended up with a feature within Evo 2. To test the system, the researchers started making single-base mutations and fed them into Evo 2 to see how it responded. Evo 2 could detect problems when the mutations affected the sites in DNA where transcription into RNA started, or the sites where translation of that RNA into protein started. It also recognized the severity of mutations. Those that would interrupt protein translation, such as the introduction of stop signals, were identified as more significant changes than those that left the translation intact. It also recognized when sequences weren’t translated at all. Many key cellular functions are carried out directly by RNAs, and Evo 2 was able to recognize when mutations disrupted those, as well. Impressively, the ability to recognize features in eukaryotic genomes occurred without the loss of its ability to recognize them in bacteria and archaea. In fact, the system seemed to be able to work out what species it was working in. A number of evolutionary groups use genetic codes with a different set of signals to stop the translation of proteins. Evo 2 was able to recognize when it was looking at a sequence from one of those species, and used the correct genetic code for them. It was also good at recognizing features that tolerate a lot of variability, such as sites that signal where to splice RNAs to remove introns from the coding sequence of proteins. By some measures, it was better than software specialized for that task. The same was true when evaluating mutations in the BRCA2 gene, where many of the mutations are associated with cancer. Given additional training on known BRCA2 mutations, its performance improved further. Overall, Evo 2 seems great for evaluating genomes and identifying key features. The researchers who built it suggest it could serve as a good automated tool for preliminary genome annotation."
-
-🔗 [Ars Technica](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
+**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
+
+The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
+
+Fortune • 15h ago
+
+---
+
+**[Anthropic is tracking which jobs are most exposed to AI. These 10 professions top the list.](https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/)**
+
+The maker of the Claude chatbot says its research could help identify economic disruptions by measuring how AI is currently reshaping work.
+
+CBS News • 12h ago
+
+---
+
 **[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution. - The New York Times](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
+
+---
+
+**[AI-generated Iran war videos surge as creators use new tech to cash in](https://www.bbc.com/news/articles/ckg8wvz427vo)**
+
+The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
+
+BBC • 8h ago
+
+---
+
+**[China's Jiangsu touts AI industrial push as Xi urges province to lead](https://www.reuters.com/world/asia-pacific/chinas-jiangsu-touts-ai-industrial-push-xi-urges-province-lead-2026-03-07/)**
+
+Reuters • 1h ago
 
 ---
 
@@ -129,44 +159,6 @@ NPR • 10h ago
 
 ---
 
-**[China's Jiangsu touts AI industrial push as Xi urges province to lead](https://www.reuters.com/world/asia-pacific/chinas-jiangsu-touts-ai-industrial-push-xi-urges-province-lead-2026-03-07/)**
-
-Reuters • 1h ago
-
----
-
-**[Building AI You Can Trust: Inside UT’s Push for Verification](https://cbsaustin.com/news/local/building-ai-you-can-trust-inside-uts-push-for-verification)**
-
-Inside the historic Anna Hiss Gym at the University of Texas, the familiar squeak of sneakers has been replaced by something else entirely, the mechanical whir
-
-KEYE • 2h ago
-
----
-
-**[The moment that kicked off the AI revolution](https://www.newscientist.com/article/2518450-the-moment-that-kicked-off-the-ai-revolution/)**
-
-It's been 10 years since Go champion Lee Sedol lost to DeepMind's AlphaGo. Has the technology lived up to its potential?
-
-New Scientist • 1h ago
-
----
-
-**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
-
-The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
-
-Fortune • 15h ago
-
----
-
-**[AI-generated Iran war videos surge as creators use new tech to cash in](https://www.bbc.com/news/articles/ckg8wvz427vo)**
-
-The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
-
-BBC • 7h ago
-
----
-
 **[Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)**
 
 Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
@@ -175,19 +167,23 @@ OpenAI • 1d ago
 
 ---
 
-**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
+**[US draws up strict AI guidelines amid Anthropic clash, FT reports](https://www.reuters.com/business/media-telecom/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-2026-03-07/)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-Anthropic • 1d ago
+Reuters • 7h ago
 
 ---
 
-**[Marvell stock surges 18% as CEO points to continuing AI demand: 'Do you see me blinking?'](https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html)**
+**[Pentagon's chief tech officer says he clashed with AI company Anthropic over autonomous warfare](https://apnews.com/article/ai-anthropic-pentagon-golden-dome-autonomous-weapons-6f3c45ff46172c1bf8658dea0098f3fe)**
 
-Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
+A top Pentagon official says a fight with Anthropic centered on how the military could someday use artificial intelligence in autonomous weapons.
 
-CNBC • 15h ago
+AP News • 7h ago
+
+---
+
+**[Opinion | Why the Pentagon Wants to Destroy Anthropic - The New York Times](https://www.nytimes.com/2026/03/06/opinion/ezra-klein-podcast-dean-ball.html)**
+
+The New York Times • 22h ago
 
 ---
 
@@ -199,7 +195,7 @@ CNBC • 15h ago
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 396 • 💬 385 • 2d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 396 • 💬 387 • 2d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -207,13 +203,21 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 319 • 💬 542 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 321 • 💬 543 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 294 • 💬 109 • 1d ago • [406.fail](https://406.fail/)
+⬆️ 296 • 💬 109 • 1d ago • [406.fail](https://406.fail/)
+
+---
+
+**[We might all be AI engineers now](https://news.ycombinator.com/item?id=47272734)**
+
+The models are good now. But most people still miss the point.
+
+⬆️ 197 • 💬 309 • 23h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -225,19 +229,11 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 ---
 
-**[We might all be AI engineers now](https://news.ycombinator.com/item?id=47272734)**
-
-The models are good now. But most people still miss the point.
-
-⬆️ 189 • 💬 304 • 22h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
-
----
-
 **[AI and the Ship of Theseus](https://news.ycombinator.com/item?id=47263048)**
 
 Slopforks: what happens when a library gets rewritten with AI?
 
-⬆️ 177 • 💬 180 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+⬆️ 177 • 💬 181 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
 
 ---
 
@@ -269,7 +265,7 @@ The takeaway? If you value Qwen's open source efforts, download and preserve the
 
 Your spec, your standards, your repos. p0 is a Mac app and structured AI pipeline that turns specs into production-ready PRs across all your repos.
 
-⬆️ 92 • 💬 38 • 2d ago • [bepurple.ai](https://www.bepurple.ai/)
+⬆️ 92 • 💬 39 • 2d ago • [bepurple.ai](https://www.bepurple.ai/)
 
 ---
 
@@ -283,7 +279,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 41K • 👍 2K • 💬 241 • ⏱️ 38:02 • 14h ago
+👁️ 41K • 👍 2K • 💬 241 • ⏱️ 38:02 • 15h ago
 
 ---
 
@@ -323,7 +319,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 32K • 👍 780 • 💬 163 • ⏱️ 21:16 • 10h ago
+👁️ 32K • 👍 780 • 💬 163 • ⏱️ 21:16 • 11h ago
 
 ---
 
@@ -343,7 +339,7 @@ Artificial intelligence is already changing the job market and the classroom, wi
 
 📺 NBC News
 
-👁️ 2K • 👍 22 • 💬 7 • ⏱️ 3:50 • 7h ago
+👁️ 2K • 👍 22 • 💬 7 • ⏱️ 3:50 • 8h ago
 
 ---
 
@@ -363,7 +359,7 @@ Operation Epic Fury in Iran, the capture of Maduro in Venezuela and ICE surveill
 
 📺 DW News
 
-👁️ 15K • 👍 466 • 💬 70 • ⏱️ 4:12 • 21h ago
+👁️ 15K • 👍 466 • 💬 70 • ⏱️ 4:12 • 22h ago
 
 ---
 
@@ -373,7 +369,7 @@ CNBC's Deirdre Bosa joins 'Money Movers' to report on Anthropic's new study on w
 
 📺 CNBC Television
 
-👁️ 24K • 👍 240 • 💬 124 • ⏱️ 4:51 • 14h ago
+👁️ 24K • 👍 240 • 💬 124 • ⏱️ 4:51 • 15h ago
 
 ---
 
@@ -645,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.1k • 🔱 3.1k • 5h ago
+⭐ 24.1k • 🔱 3.1k • 6h ago
 
 ---
 
@@ -655,7 +651,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.5k • 🔱 510 • 6h ago
+⭐ 14.5k • 🔱 510 • 7h ago
 
 ---
 
@@ -665,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.1k • 🔱 1.0k • 16h ago
+⭐ 9.1k • 🔱 1.0k • 17h ago
 
 ---
 
@@ -685,7 +681,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.6k • 🔱 490 • 2h ago
+⭐ 6.6k • 🔱 490 • 3h ago
 
 ---
 
@@ -695,7 +691,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 681 • 3h ago
+⭐ 5.8k • 🔱 681 • 4h ago
 
 ---
 
@@ -715,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 385 • 2h ago
+⭐ 3.6k • 🔱 385 • 3h ago
 
 ---
 
