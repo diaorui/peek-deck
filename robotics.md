@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T09:30:24.482394+00:00'
+updated: '2026-03-07T09:53:46.603700+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 09:30 UTC  
+**Last Updated:** March 07, 2026 at 09:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-12h ago
+13h ago
 
 ---
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-5h ago
+6h ago
 
 ---
 
@@ -76,11 +76,17 @@ Sorry if this isn’t the place to post this since it’s really a hobby project
 
 ---
 
+**[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
+
+3m ago
+
+---
+
 **[Wife said I wasted money...Narwal just proved her wrong](https://www.reddit.com/r/robotics/comments/1rmkmah/wife_said_i_wasted_moneynarwal_just_proved_her/)**
 
 I've had multiple iRobots and they were total junk...There is ALWAYS an error...my wife was like "you wasted money again"😭 Now Im in love with my narwal (freo z10 ultra). It does occasionally bump some chair legs when trying to sneak through, but most of the time it cruises through like a pro. The best part is, the robovac has riser side brushed on both sides, so it can easily get into the gaps around cabinet and table legs, no more bending over to check for leftover sauce. It saves much time and energy. And I think roller mop does not get cleaned as well as a double rotating mops in the base. 🙌 So my wife went from "you wasted money again" to "okay, this thing is actually awesome." Feels good to be right for once.
 
-15h ago
+16h ago
 
 ---
 
@@ -97,14 +103,6 @@ I built a SLAM simulator in Rust where you can see EKF-SLAM and FastSLAM running
 Current state of the build: 50% conceptualized, 80% inspired by other robots, and 75% properly dimensioned. I'm basically mashing up a few different designs to see what sticks. Got the first 3 axis figured out so far, but still a long way to go on the 'actual engineering' side of things. https://preview.redd.it/5fbj5ithqjng1.png?width=870&format=png&auto=webp&s=a226c409c3af9274f8efb782f34f989c8cd783a0 https://preview.redd.it/j07eyhthqjng1.png?width=417&format=png&auto=webp&s=246022e6fcc6e79fe7e9afc85ff70859ac75b3a4 https://preview.redd.it/28nzgithqjng1.png?width=869&format=png&auto=webp&s=5604db58629e23aca4f9503614d231201f801b7f https://preview.redd.it/syr4githqjng1.png?width=516&format=png&auto=webp&s=79581300b8624917e159669bb70ba6e6a33a29b3
 
 6h ago
-
----
-
-**[HexGrip V1.0: Designing a 3-DOF Omni-Wrist. From "Block of Plastic" to "Fluid Motion"](https://www.reddit.com/r/robotics/comments/1rm93wd/hexgrip_v10_designing_a_3dof_omniwrist_from_block/)**
-
-Update on my 6-DOF desktop arm project: I’ve officially moved into the mechanical prototyping phase, starting with the most complex hurdle—the Wrist. The goal was to pack 3 degrees of freedom into a compact volume while keeping everything 3D printable. I modeled an Omni-Wrist mechanism in OnShape with “perfect” dimensions, using a series of butt-hinge linkages with 3D-printed pins. On-screen, the digital assembly worked flawlessly, but reality hit hard. The Fail: My first print had zero play. While "zero-clearance" sounds great in CAD, filament expansion turned the whole assembly into a static paperweight. The tolerances were too tight, the hinges seized, and the pins were impossible to seat without snapping the linkages. The Pivot: I went back to the "Model-Print-Iterate" cycle. I increased the clearances to 0.2mm and redesigned the pivot points as snap-fit pins. This allows the linkages to stay secure under pressure while maintaining enough "fluidity" for manual movement. The Query: For those who build small-scale linkages: Pin Durability: Do 3D-printed pins actually hold up under the repetitive stress of a 6-DOF arm, or is it a fool's errand? Should I move to metal dowel pins now before I build the rest of the arm? Hinge Alternatives: Given the friction issues with 3D-printed butt hinges, is there a more efficient hinge style or linkage structure you'd recommend for a 3-DOF wrist that is easier to assemble and maintain?
-
-1d ago
 
 ---
 
@@ -144,19 +142,21 @@ Tech Xplore • 1d ago
 
 **[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda)**
 
-Bloomberg • 1d ago
-
----
-
-**[Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)**
-
-Raspberry Pi • 22h ago
+Bloomberg.com • 2d ago
 
 ---
 
 **[E-bike starts fire at Yale University's robotics lab on Hillhouse Avenue, New Haven official says](https://www.nhregister.com/news/article/new-haven-hillhouse-ave-yale-lab-e-bike-fire-21957068.php)**
 
 New Haven Register • 1d ago
+
+---
+
+**[Prediction: AI Robotics Will Be a $375 Billion Industry. This Stock Is Positioned to Win in 2026.](https://www.fool.com/investing/2026/03/05/prediction-ai-robotics-will-be-a-375-billion-indus/)**
+
+When all is said and done, practicality trumps technological "wow!"
+
+The Motley Fool • 1d ago
 
 ---
 

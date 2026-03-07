@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T09:30:24.473065+00:00'
+updated: '2026-03-07T09:53:46.594497+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 09:30 UTC  
+**Last Updated:** March 07, 2026 at 09:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,000.00
+### $67,975.00
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -3.6%  
-**7d:** +3.4%  
-**30d:** -3.8%  
-**90d:** -25.2%  
-**1y:** -21.2%  
+**7d:** +3.5%  
+**30d:** -3.6%  
+**90d:** -25.1%  
+**1y:** -21.1%  
 
 ---
 
@@ -91,12 +91,6 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 ---
 
-**[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
-
-17h ago
-
----
-
 **[I finally started my first bitcoin investment.](https://www.reddit.com/r/Bitcoin/comments/1rn16yb/i_finally_started_my_first_bitcoin_investment/)**
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
@@ -105,11 +99,25 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 ---
 
+**[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
+
+17h ago
+
+---
+
 **[Iran about to learn why you need decentralized assets](https://www.reddit.com/r/Bitcoin/comments/1rmo2bj/iran_about_to_learn_why_you_need_decentralized/)**
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-13h ago
+14h ago
+
+---
+
+**[found old wallet but $0.00 balance and no transaction history?](https://www.reddit.com/r/Bitcoin/comments/1rn59lh/found_old_wallet_but_000_balance_and_no/)**
+
+recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
+
+53m ago
 
 ---
 
@@ -125,23 +133,7 @@ I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thi
 
 Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
-6h ago
-
----
-
-**[4 Year Cycle - why doubt it?](https://www.reddit.com/r/Bitcoin/comments/1rmoeww/4_year_cycle_why_doubt_it/)**
-
-Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycles now. Psychologically, most BTC traders take it as inevitable which makes it a self-fulfilling prophecy. There are always “this time is different” arguments and at some point in the future, hopefully, BTC would mature to a point where there are no cycles, but why bet against the rule until it’s broken? (Noting this in response to people I’m seeing acting like a 10-15% jump means winter is over. It seems to me that we could not have a sustained rally until Q3 where some will try to front-run the historical Q4 rally. Obviously, DCAing at these levels is still great and who knows how low we’ll actually go this time.)
-
-13h ago
-
----
-
-**[Kazakhstan’s central bank considering up to $350M investment in Bitcoin and crypto](https://www.reddit.com/r/Bitcoin/comments/1rmeit8/kazakhstans_central_bank_considering_up_to_350m/)**
-
-According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
-
-19h ago
+7h ago
 
 ---
 
@@ -153,6 +145,12 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
+**[The Battle for Bitcoin's Soul: A Review of the Top 10 Most Vital Improvement Proposals.](https://www.reddit.com/r/Bitcoin/comments/1rn5n3d/the_battle_for_bitcoins_soul_a_review_of_the_top/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-battle-for-bitcoins-soul-a-review) • 31m ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -161,15 +159,23 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin is now firmly in a deep bear market and could fall another 30% in 2026, firm said.
 
-CoinDesk • 6h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.nasdaq.com/articles/better-cryptocurrency-buy-and-hold-10-years-or-more-bitcoin-vs-cardano)**
+**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
 
-Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
+The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Nasdaq • 1d ago
+Fortune • 16h ago
+
+---
+
+**[Bitcoin Needs a Monster Rally to Hit $150,000 by December -- and Prediction Markets See Only an 11% Shot](https://www.fool.com/investing/2026/03/07/bitcoin-needs-a-monster-rally-to-hit-150000-by-dec/)**
+
+Investors viewed Bitcoin as a hedge against market risk, but the cryptocurrency has proven highly volatile.
+
+The Motley Fool • 53m ago
 
 ---
 
@@ -181,11 +187,19 @@ CoinDesk • 3h ago
 
 ---
 
-**[2 Reasons to Buy Bitcoin Before June 2026](https://finance.yahoo.com/news/2-reasons-buy-bitcoin-june-102000936.html)**
+**[Stock market today: Dow, S&P 500, Nasdaq rebound on hopes of Iran deescalation as bitcoin surges](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rebound-on-hopes-of-iran-deescalation-as-bitcoin-surges-210937794.html)**
 
-These two factors could dramatically change the way investors think about Bitcoin.
+Investors are weighing a NYT report that Iran has indirectly approached the US to discuss terms for ending the conflict.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.nasdaq.com/articles/better-cryptocurrency-buy-and-hold-10-years-or-more-bitcoin-vs-cardano)**
+
+Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -197,11 +211,11 @@ The Block • 20h ago
 
 ---
 
-**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772873700)**
 
-The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Fortune • 15h ago
+Polymarket • 13h ago
 
 ---
 
@@ -221,22 +235,6 @@ CBC • 1d ago
 
 ---
 
-**[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
-
-Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
-
-Business Insider • 2d ago
-
----
-
-**[Forget Gold at $5,000 an Ounce. Here's Why a Simple Crypto Portfolio Might Be the Smarter "Hard Asset" Bet.](https://www.fool.com/investing/2026/03/06/forget-gold-at-5000-an-ounce-heres-why-a-simple-cr/)**
-
-With "safe" asset prices so high, cheaper and riskier assets look better than before.
-
-The Motley Fool • 9h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -246,14 +244,6 @@ The Motley Fool • 9h ago
 One critic replied simply "go away."
 
 ⬆️ 4 • 💬 0 • 5d ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
-
----
-
-**[Jeffrey Epstein saw promise in Bitcoin – and its far-right supporters](https://news.ycombinator.com/item?id=47192930)**
-
-Links to major crypto world figures are just the start.
-
-⬆️ 4 • 💬 0 • 6d ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -315,6 +305,14 @@ A portable encrypted USB vault with a dead man's switch. Your passwords, financi
 
 ---
 
+**[BTC miners pivoting towards AI](https://news.ycombinator.com/item?id=47235235)**
+
+Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin treasuries to AI infrastructure.
+
+⬆️ 4 • 💬 1 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/03/end-of-bitcoin-hodl-public-miners-going-all-in-on-ai-signaling-more-btc-selling)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -325,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 104 • ⏱️ 11:48 • 10h ago
+👁️ 31K • 👍 2K • 💬 104 • ⏱️ 11:48 • 11h ago
 
 ---
 
@@ -345,7 +343,7 @@ Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talki
 
 📺 BTC Isla
 
-👁️ 6K • 👍 726 • 💬 103 • ⏱️ 11:28 • 17h ago
+👁️ 6K • 👍 726 • 💬 103 • ⏱️ 11:28 • 18h ago
 
 ---
 
@@ -405,7 +403,7 @@ Welcome to the BlackRock & Ripple Strategic Forum 2026 — streaming LIVE! Today
 
 📺 Tabletop WitchCRAFT
 
-👁️ 5K • 👍 3K • 7h ago
+👁️ 5K • 👍 3K • 8h ago
 
 ---
 

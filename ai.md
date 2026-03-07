@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T09:30:24.464579+00:00'
+updated: '2026-03-07T09:53:46.586026+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- repositories
 - videos
 - news
-- repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 09:30 UTC  
+**Last Updated:** March 07, 2026 at 09:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -48,6 +48,14 @@ AI news, discussions, and developments
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
 🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 17h ago
+
+---
+
+**[Looking for a co founder for my AI startup](https://www.reddit.com/r/artificial/comments/1rn5o04/looking_for_a_co_founder_for_my_ai_startup/)**
+
+Send a dm to enquire, thats all I can say. I'll tell you about it in dms. You need to have good hardware
+
+29m ago
 
 ---
 
@@ -91,7 +99,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 17h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 18h ago
 
 ---
 
@@ -103,31 +111,15 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 ---
 
-**[AI-designed diffractive optical processors pave the way for low-power structural health monitoring](https://www.reddit.com/r/artificial/comments/1rlyzrg/aidesigned_diffractive_optical_processors_pave/)**
-
-A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns. Structural Health Monitoring (SHM) systems are vital for assessing the condition of civil infrastructure, such as buildings and bridges, particularly after exposure to natural hazards like earthquakes. Traditional vibration-based methods rely on sensor networks of accelerometers and strain gauges, which demand significant power, generate large datasets requiring complex digital signal processing, and can be expensive to install and maintain. Furthermore, achieving high spatial resolution for accurate damage localization often requires a costly, dense sensor deployment. The new research, led by Professor Aydogan Ozcan of the UCLA Electrical and Computer Engineering Department, overcomes these challenges using physical–digital co-integration. Instead of relying on traditional sensor networks that digitize raw physical signals, the new system uses a passive, optimized diffractive layer attached to the target structure. As the structure oscillates, this optimized diffractive surface moves, modulating an incoming illuminating wave to encode the structural displacements into light, which is then captured by a few optical detectors and rapidly decoded by a low-power neural network. "Unlike traditional sensor networks used in structural health monitoring, our system leverages the diffractive layer as an optimized optical processor that intelligently pre-encodes complex, multidimensional structural oscillation information directly into modulated optical signals," Ozcan explained. This approach marks a fundamental departure from conventional digital sensing paradigms by shifting a portion of the computational burden into the physical domain. ... One of the significant advantages of this technology is its scalability and energy efficiency. The diffractive surface functions as a completely passive encoder and consumes no energy during its operation. Furthermore, a design optimized for millimeter waves can be physically scaled to operate in other parts of the electromagnetic spectrum, such as the visible or infrared, by adjusting the dimensions of the diffractive features in proportion to the illumination wavelength.
-
-🔗 [phys.org](https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
+**[AI-generated Iran war videos surge as creators use new tech to cash in](https://www.bbc.com/news/articles/ckg8wvz427vo)**
 
-The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
+The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-Fortune • 16h ago
-
----
-
-**[Anthropic is tracking which jobs are most exposed to AI. These 10 professions top the list.](https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/)**
-
-The maker of the Claude chatbot says its research could help identify economic disruptions by measuring how AI is currently reshaping work.
-
-CBS News • 13h ago
+BBC • 9h ago
 
 ---
 
@@ -137,17 +129,35 @@ The New York Times • 23h ago
 
 ---
 
-**[AI-generated Iran war videos surge as creators use new tech to cash in](https://www.bbc.com/news/articles/ckg8wvz427vo)**
+**[Henry Blodget on the Software Selloff Hysteria and the Problem for OpenAI](https://www.bloomberg.com/news/articles/2026-03-07/henry-blodget-on-ai-hysteria-software-and-bubbles)**
 
-The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
+How AI will affect both media and software.
 
-BBC • 8h ago
+Bloomberg.com • 53m ago
 
 ---
 
-**[China's Jiangsu touts AI industrial push as Xi urges province to lead](https://www.reuters.com/world/asia-pacific/chinas-jiangsu-touts-ai-industrial-push-xi-urges-province-lead-2026-03-07/)**
+**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
 
-Reuters • 2h ago
+The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
+
+Fortune • 17h ago
+
+---
+
+**[Hundreds of applications, no jobs and AI competition: California's brutal tech work landscape](https://www.latimes.com/business/story/2026-03-06/tech-layoffs-pile-up-as-sllicon-valley-shakeout-continues-into-2026)**
+
+Thousands of tech workers have already lost their jobs this year and leaders at some companies say AI will enable employers to do more with smaller teams.
+
+Los Angeles Times • 22h ago
+
+---
+
+**[The unexpected 92,000 drop in payrolls is a clue we might be reading the AI jobs narrative all wrong](https://fortune.com/2026/03/07/is-ai-taking-jobs-payrolls-drop-narrative-outlook/)**
+
+Is AI taking jobs? Or are companies cutting jobs to pay for the enormous capex outlays on AI?
+
+Fortune • 53m ago
 
 ---
 
@@ -155,35 +165,27 @@ Reuters • 2h ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
-**[Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)**
+**[Marvell stock surges 18% as CEO points to continuing AI demand: 'Do you see me blinking?'](https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html)**
 
-Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
+Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
 
-OpenAI • 1d ago
-
----
-
-**[US draws up strict AI guidelines amid Anthropic clash, FT reports](https://www.reuters.com/business/media-telecom/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-2026-03-07/)**
-
-Reuters • 8h ago
+CNBC • 17h ago
 
 ---
 
-**[Pentagon's chief tech officer says he clashed with AI company Anthropic over autonomous warfare](https://apnews.com/article/ai-anthropic-pentagon-golden-dome-autonomous-weapons-6f3c45ff46172c1bf8658dea0098f3fe)**
+**[Calif. lawsuit accuses Meta of sending nude video from AI glasses to workers](https://www.sfgate.com/tech/article/meta-ai-glasses-lawsuit-21960004.php)**
 
-A top Pentagon official says a fight with Anthropic centered on how the military could someday use artificial intelligence in autonomous weapons.
-
-AP News • 8h ago
+SFGATE • 9h ago
 
 ---
 
-**[Opinion | Why the Pentagon Wants to Destroy Anthropic - The New York Times](https://www.nytimes.com/2026/03/06/opinion/ezra-klein-podcast-dean-ball.html)**
+**[Exclusive | Anthropic’s AI Hacked the Firefox Browser. It Found a Lot of Bugs.](https://www.wsj.com/tech/ai/send-us-more-anthropics-claude-sniffs-out-bevy-of-bugs-c6822075?gaa_at=eafs&gaa_n=AWEtsqcTC_PhxrofX9mYxILoscu3wV-B1_ftNZrEQE3p3OTDwPG6xUZnZnsN&gaa_ts=69abf911&gaa_sig=Am-P7wHQKqk4ZcabY-hiSFO4DGoLTGS0wwP3BYXvUqFYXhAClR8SLI3_XAlU1_T1GkU10Kbp55YmJhbCnp2Crg%3D%3D)**
 
-The New York Times • 23h ago
+WSJ • 23h ago
 
 ---
 
@@ -203,7 +205,7 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 321 • 💬 543 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 321 • 💬 544 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
@@ -217,7 +219,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 197 • 💬 309 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 198 • 💬 313 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -397,7 +399,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,086,662 • ❤️ 1,007 • 7d ago
+⬇️ 1,086,662 • ❤️ 1,007 • 8d ago
 
 ---
 
@@ -493,7 +495,7 @@ An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for r
 
 `image-text-to-text` `36.0B`
 
-⬇️ 21,688 • ❤️ 188 • 4d ago
+⬇️ 21,688 • ❤️ 188 • 5d ago
 
 ---
 
@@ -641,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.1k • 🔱 3.1k • 35m ago
+⭐ 24.1k • 🔱 3.1k • 59m ago
 
 ---
 
@@ -651,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.6k • 🔱 517 • 7h ago
+⭐ 14.6k • 🔱 517 • 8h ago
 
 ---
 
@@ -661,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.2k • 🔱 1.0k • 18h ago
+⭐ 9.2k • 🔱 1.0k • 19h ago
 
 ---
 
@@ -711,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 385 • 2m ago
+⭐ 3.6k • 🔱 385 • 26m ago
 
 ---
 
@@ -721,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 242 • 5h ago
+⭐ 3.3k • 🔱 242 • 6h ago
 
 ---
 
