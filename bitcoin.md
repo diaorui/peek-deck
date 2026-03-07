@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T05:59:09.614144+00:00'
+updated: '2026-03-07T06:55:20.640595+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 05:59 UTC  
+**Last Updated:** March 07, 2026 at 06:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.6%  
-**7d:** +3.6%  
-**30d:** -3.5%  
-**90d:** -25.0%  
-**1y:** -21.0%  
+**24h:** -4.7%  
+**7d:** +3.1%  
+**30d:** -4.0%  
+**90d:** -25.4%  
+**1y:** -21.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1359.00B
+**Market Cap:** $1357.07B
 Rank #1
 
-**Circulating Supply:** 19,998,881 BTC
+**Circulating Supply:** 19,998,943 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.1%
+-46.2%
 
 **All-Time Low:** $67.81
-+100096.1%
++99855.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -89,19 +89,27 @@ Rank #1
 
 ---
 
-**[Iran about to learn why you need decentralized assets](https://www.reddit.com/r/Bitcoin/comments/1rmo2bj/iran_about_to_learn_why_you_need_decentralized/)**
-
-Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
-
-10h ago
-
----
-
 **[those who bought the top](https://www.reddit.com/r/Bitcoin/comments/1rn0cm7/those_who_bought_the_top/)**
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
+2h ago
+
+---
+
+**[I finally started my first bitcoin investment.](https://www.reddit.com/r/Bitcoin/comments/1rn16yb/i_finally_started_my_first_bitcoin_investment/)**
+
+I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
+
 1h ago
+
+---
+
+**[Iran about to learn why you need decentralized assets](https://www.reddit.com/r/Bitcoin/comments/1rmo2bj/iran_about_to_learn_why_you_need_decentralized/)**
+
+Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
+
+11h ago
 
 ---
 
@@ -109,7 +117,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
 
-4h ago
+5h ago
 
 ---
 
@@ -117,15 +125,7 @@ I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thi
 
 Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycles now. Psychologically, most BTC traders take it as inevitable which makes it a self-fulfilling prophecy. There are always “this time is different” arguments and at some point in the future, hopefully, BTC would mature to a point where there are no cycles, but why bet against the rule until it’s broken? (Noting this in response to people I’m seeing acting like a 10-15% jump means winter is over. It seems to me that we could not have a sustained rally until Q3 where some will try to front-run the historical Q4 rally. Obviously, DCAing at these levels is still great and who knows how low we’ll actually go this time.)
 
-9h ago
-
----
-
-**[Kazakhstan’s central bank considering up to $350M investment in Bitcoin and crypto](https://www.reddit.com/r/Bitcoin/comments/1rmeit8/kazakhstans_central_bank_considering_up_to_350m/)**
-
-According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
-
-16h ago
+10h ago
 
 ---
 
@@ -133,7 +133,15 @@ According to a recent Reuters report, Kazakhstan’s central bank is considering
 
 Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
-3h ago
+4h ago
+
+---
+
+**[Kazakhstan’s central bank considering up to $350M investment in Bitcoin and crypto](https://www.reddit.com/r/Bitcoin/comments/1rmeit8/kazakhstans_central_bank_considering_up_to_350m/)**
+
+According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
+
+17h ago
 
 ---
 
@@ -141,15 +149,7 @@ Where can I find Bitcoin communities or platforms where real estate can be sold 
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-19h ago
-
----
-
-**[Indiana signs bill allowing retirement funds to invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rm5xmn/indiana_signs_bill_allowing_retirement_funds_to/)**
-
-Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
-
-23h ago
+20h ago
 
 ---
 
@@ -165,27 +165,33 @@ CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
-
-The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
-
-Fortune • 12h ago
-
----
-
-**[2 Reasons to Buy Bitcoin Before June 2026](https://finance.yahoo.com/news/2-reasons-buy-bitcoin-june-102000936.html)**
-
-These two factors could dramatically change the way investors think about Bitcoin.
-
-Yahoo Finance • 19h ago
-
----
-
 **[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.nasdaq.com/articles/better-cryptocurrency-buy-and-hold-10-years-or-more-bitcoin-vs-cardano)**
 
 Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
 
-Nasdaq • 22h ago
+Nasdaq • 23h ago
+
+---
+
+**[Connecting Excellence: Growth & bitcoin strategy - ICYMI](https://uk.finance.yahoo.com/news/connecting-excellence-growth-bitcoin-strategy-063004522.html)**
+
+Yahoo Finance UK • 25m ago
+
+---
+
+**[Bitcoin price news: BTC in deep bear market, could crash by another 30%, investment firm says](https://www.coindesk.com/markets/2026/03/07/bitcoin-could-crash-another-30-as-four-year-cycle-gains-strength-investment-firm-says)**
+
+Bitcoin is now firmly in a deep bear market and could fall another 30% in 2026, firm said.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin price news: BTC slips below $68,000 as dollar posts steepest weekly gain](https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year)**
+
+Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
+
+CoinDesk • 38m ago
 
 ---
 
@@ -193,39 +199,23 @@ Nasdaq • 22h ago
 
 The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
-**[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
+**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
 
-Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
+The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Business Insider • 2d ago
-
----
-
-**[Ray Dalio thinks bitcoin is no gold, and that is exactly why bulls are buying](https://www.coindesk.com/markets/2026/03/04/crypto-bulls-slam-ray-dalio-s-tired-narratives-in-defense-of-bitcoin-s-future)**
-
-Experts push back on billionaire hedge fund manager Ray Dalio's warning of bitcoin lacking gold’s qualities and risks from surveillance, quantum computing and lack of central bank buying.
-
-CoinDesk • 1d ago
+Fortune • 13h ago
 
 ---
 
-**[Are Bitcoin Critics Holding Price Back From $750,000? Ray Dalio’s Warning Is ‘Opportunity,' Says Bitwise Exec](https://www.ccn.com/news/crypto/are-bitcoin-price-critics-holding-it-back-from-750000-matt-hougan-ray-dalios-warning-opportunity/)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772863800)**
 
-Ray Dalio warned of Bitcoin's limitations, while Bitwise CIO Matt Hougan says criticism highlights how Bitcoin's price could reach $750,000.
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-CCN.com • 2d ago
-
----
-
-**[Forget Gold at $5,000 an Ounce. Here's Why a Simple Crypto Portfolio Might Be the Smarter "Hard Asset" Bet.](https://www.fool.com/investing/2026/03/06/forget-gold-at-5000-an-ounce-heres-why-a-simple-cr/)**
-
-With "safe" asset prices so high, cheaper and riskier assets look better than before.
-
-The Motley Fool • 5h ago
+Polymarket • 10h ago
 
 ---
 
@@ -234,6 +224,14 @@ The Motley Fool • 5h ago
 A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
 WIS News 10 • 1d ago
+
+---
+
+**[Hedge Fund Billionaire Ray Dalio Says Bitcoin Isn't a Substitute for Gold](https://www.businessinsider.com/ray-dalio-gold-vs-bitcoin-hedge-crypto-economy-markets-btc-2026-3)**
+
+Ray Dalio thinks gold is a safe haven while bitcoin is a speculative asset that won't ever be held by central banks
+
+Business Insider • 2d ago
 
 ---
 
@@ -325,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 83 • ⏱️ 11:48 • 7h ago
+👁️ 27K • 👍 1K • 💬 97 • ⏱️ 11:48 • 8h ago
 
 ---
 
@@ -335,17 +333,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 235 • ⏱️ 17:07 • 1d ago
-
----
-
-**[The ETF Lie Is Hiding Bitcoin&#39;s Bottom](https://www.youtube.com/watch?v=g-dTRbXPGw0)**
-
-Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's entire 17-year history. With $4.5 billion in ETF outflows ...
-
-📺 Coin Bureau
-
-👁️ 15K • 👍 664 • 💬 47 • ⏱️ 18:20 • 11h ago
+👁️ 21K • 👍 2K • 💬 237 • ⏱️ 17:07 • 1d ago
 
 ---
 
@@ -355,17 +343,7 @@ Blockchain.com CEO Peter Smith discusses digital asset regulation, crypto volati
 
 📺 Fox Business Clips
 
-👁️ 44K • 👍 1K • 💬 596 • ⏱️ 8:57 • 16h ago
-
----
-
-**[🚨 ALERT: The Bitcoin Floodgates Are Open!!](https://www.youtube.com/watch?v=m5nunXOj2VM)**
-
-The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
-
-📺 Altcoin Daily
-
-👁️ 44K • 👍 2K • 💬 160 • ⏱️ 8:38 • 1d ago
+👁️ 47K • 👍 1K • 💬 605 • ⏱️ 8:57 • 17h ago
 
 ---
 
@@ -375,27 +353,17 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 74K • 👍 3K • 💬 239 • ⏱️ 17:02 • 1d ago
+👁️ 77K • 👍 3K • 💬 240 • ⏱️ 17:02 • 1d ago
 
 ---
 
-**[Bitcoin Dumping FAST… What Donald Trump Just Said](https://www.youtube.com/watch?v=ZGZ41p7L3jc)**
+**[🚨 ALERT: The Bitcoin Floodgates Are Open!!](https://www.youtube.com/watch?v=m5nunXOj2VM)**
 
-Is the crypto market reacting to a new era of global conflict? In today's video, we are breaking down why Bitcoin is seeing a ...
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
 
-📺 Discover Crypto
+📺 Altcoin Daily
 
-👁️ 10K • 👍 404 • 💬 31 • ⏱️ 1:19:59 • 13h ago
-
----
-
-**[Bitcoin’s Make Or Break Moment? What You Must Know](https://www.youtube.com/watch?v=9nV7u3sNhAk)**
-
-Bitcoin #Crypto #Finance Guests Connect & Learn Join The Wolf Pack Community Channel (Free Telegram) – Daily crypto ...
-
-📺 The Wolf Of All Streets
-
-👁️ 9K • 👍 489 • 💬 172 • ⏱️ 31:02 • 1d ago
+👁️ 45K • 👍 2K • 💬 160 • ⏱️ 8:38 • 1d ago
 
 ---
 
@@ -405,17 +373,47 @@ Are you ready? Top-Tier Crypto Trading Starts Here Join the trading competition 
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 225 • 💬 31 • ⏱️ 15:32 • 10h ago
+👁️ 4K • 👍 234 • 💬 33 • ⏱️ 15:32 • 11h ago
 
 ---
 
-**[Gold ﹥ Bitcoin... For Now](https://www.youtube.com/watch?v=tgLjh-crK90)**
+**[Bitcoin Dumping FAST… What Donald Trump Just Said](https://www.youtube.com/watch?v=ZGZ41p7L3jc)**
 
-Gold is winning... for now. Bitcoin? Caught in the risk-off crossfire. Are investors looking at this the right way? Cathie Wood ...
+Is the crypto market reacting to a new era of global conflict? In today's video, we are breaking down why Bitcoin is seeing a ...
 
-📺 ARK Invest
+📺 Discover Crypto
 
-👁️ 13K • 👍 378 • 💬 7 • ⏱️ 2:11 • 1d ago
+👁️ 10K • 👍 410 • 💬 32 • ⏱️ 1:19:59 • 13h ago
+
+---
+
+**[The ETF Lie Is Hiding Bitcoin&#39;s Bottom](https://www.youtube.com/watch?v=g-dTRbXPGw0)**
+
+Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's entire 17-year history. With $4.5 billion in ETF outflows ...
+
+📺 Coin Bureau
+
+👁️ 18K • 👍 728 • 💬 50 • ⏱️ 18:20 • 12h ago
+
+---
+
+**[Bitcoin Is About to Enter a New Era (and nobody’s paying attention)](https://www.youtube.com/watch?v=wpL6jINMHoI)**
+
+Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talking about how AI agents could use Bitcoin as ...
+
+📺 BTC Isla
+
+👁️ 6K • 👍 690 • 💬 93 • ⏱️ 11:28 • 15h ago
+
+---
+
+**[🚨 Bitcoin Going To $15k?](https://www.youtube.com/watch?v=Dj87I51tdsU)**
+
+Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 16K • 👍 298 • 💬 67 • ⏱️ 1:16 • 2d ago
 
 ---
 
