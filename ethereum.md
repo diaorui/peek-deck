@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-07T20:27:24.646676+00:00'
+updated: '2026-03-07T20:50:27.372761+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 20:27 UTC  
+**Last Updated:** March 07, 2026 at 20:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,978.45
+### $1,963.15
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -0.9%  
-**7d:** +1.2%  
-**30d:** -5.0%  
-**90d:** -37.2%  
-**1y:** -10.9%  
+**7d:** +1.4%  
+**30d:** -4.7%  
+**90d:** -37.1%  
+**1y:** -10.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.07B
+**Market Cap:** $237.35B
 Rank #2
 
 **Circulating Supply:** 120,692,062 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.1%
+-60.2%
 
 **All-Time Low:** $0.43
-+455240.8%
++453998.2%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Yesterday I posted about verifying Vitalik's first token contract and got a great response. A few people asked how to follow along as more proofs are published, so I set up two places to track them: GitHub: awesome-ethereum-proofs - each proof has its own repo with a reproducible verification script Web: ethereumhistory.com/proofs - browse all verified contracts with deployment dates, compiler versions, and methodology Most contracts deployed in August 2015 have no verified source on Etherscan. The compilers are too old for automated tools, source code was hosted on Pastebin links that expired years ago, and some contracts used languages Etherscan doesn't even support (Serpent, LLL). So I've been doing it manually - testing every early compiler version against on-chain bytecode until I get a byte-for-byte match. Since the Vitalik post, here are 4 new proofs: "Test" - First Executable Contract (Aug 7, 2015, block 48,643) The earliest contract with executable code on Ethereum mainnet. Compiled with soljson v0.1.1, the first publicly available Solidity compiler release. Just 8 days after mainnet launch. Hello World Greeter (Aug 7, 2015, block 48,681) Ethereum's "Hello World" moment. Deployed 38 blocks after the first executable contract, same day, same compiler. Based on the greeter tutorial that shipped with the early Ethereum documentation. EarlyChainLetter10ETH (Aug 8, 2015, block 49,931) A chain letter pyramid contract from day 2 of smart contract deployment. One of the first attempts at a financial game on Ethereum. Participants sent 10 ETH to join, and the contract would pay out earlier participants as new ones joined. FunDistributor (Aug 10, 2015, block 62,632) A "king of the hill" behavioral economics experiment. Send more than 1% of the contract's balance to become the receiver. If nobody touches the contract for 200+ blocks (~45 min), the current receiver gets paid out. The original source was on Pastebin (link expired) - had to reconstruct it entirely from bytecode. Interesting discrepancy: the Reddit announcement said the payout was 25% of the balance, but the verified code shows this.balance / 3 (33.3%). Some things I've learned doing this: Operand order matters in solc 0.1.1. msg.value * 100 and 100 * msg.value produce different bytecode because the compiler evaluates right-to-left. The private keyword existed in solc 0.1.1 but was almost never used. FunDistributor is one of the earliest known uses. Solidity function declaration order affects optimizer output. Changing the order of functions in the source can completely change the compiled bytecode. There are 11 proofs so far covering contracts from Aug 2015 through Apr 2016, including Serpent, Solidity, and contracts by Vitalik and Gavin Wood. More coming as I work through the earliest blocks. If you know of any early contracts with lost source code, I'd love to hear about them.
 
-6h ago
+7h ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[(UPDATE) 1.5 Eth stolen from Trust Wallet](https://www.reddit.com/r/ethereum/comments/1rmphbh/update_15_eth_stolen_from_trust_wallet/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -150,15 +150,7 @@ Zero-knowledge cryptography went through three phases. First: hand-crafted arith
 
 ## Google News: "ethereum"
 
-**[Prediction: Silver Could Soar Again in 2026 -- but These 2 Cryptocurrencies Have Even Better Upside](https://www.fool.com/investing/2026/03/06/prediction-silver-could-soar-again-in-2026-but-the/)**
-
-Smart-contract cryptos could be the silver to Bitcoin's digital gold.
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqfcIsxnGEey4QpE9t1xa2e8g2KwqmhZ4nBU3xS8cUfo6CE4AgD50uo3&gaa_ts=69ac8379&gaa_sig=CO_LtX1hcaNSBZGgXZ568PbWHfybuyihKkK8Cmwu9Wt-o9IPOMKySEW9xv8lYjWNRO3XF0u2fGbAvlf5OsqKmg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqe5vDgFrViAw8zN1jH5N6BZqq8e2ZJ9CTB1qS87rJTgBbiwjoY0VzdJ&gaa_ts=69ac92f8&gaa_sig=h_wK3Gk2R7LcToj1gGG4VrJLtIf1p75eTuaG2SeBtah6GthA_hSUXC6VgGf_cMCYC7j7vpdwXPR4Wk_2q2V_0Q%3D%3D)**
 
 Barron's • 2d ago
 
@@ -168,15 +160,13 @@ Barron's • 2d ago
 
 Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
 
-Decrypt • 3d ago
+Decrypt • 2d ago
 
 ---
 
-**[Current price of Ethereum for March 4, 2026](https://fortune.com/article/price-of-ethereum-03-04-2026/)**
+**[What Will Bitcoin, ETH and XRP Be Worth in 2030? ChatGPT’s Price Predictions May Shock You](https://www.ccn.com/education/crypto/chatgpt-predicts-2030-crypto-prices-bitcoin-500k-eth-20k-xrp-20/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
+CCN.com • 2d ago
 
 ---
 
@@ -191,14 +181,6 @@ Bit Digital • 2d ago
 **[Key facts: Culper Research shorts Ethereum; ETH trades near $2,065](https://www.tradingview.com/news/tradingview:60c9f214d8816:0-key-facts-culper-research-shorts-ethereum-eth-trades-near-2-065/)**
 
 TradingView • 20h ago
-
----
-
-**[31.6 Million ETH Leaves Exchanges as Vitalik Calls for Ethereum “Sanctuary” Tech](https://finance.yahoo.com/news/31-6-million-eth-leaves-070249895.html)**
-
-ETH accumulation off exchanges continues to surge in early March, while Vitalik Buterin calls for building sanctuary technologies for ETH.
-
-Yahoo Finance • 3d ago
 
 ---
 
@@ -224,6 +206,20 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[ETH, BMNR news: Short seller Culper Research says ether tokenomics is 'impaired'](https://www.coindesk.com/markets/2026/03/05/short-seller-culper-bets-against-ether-bitmine-citing-death-spiral-risk)**
+
+The short seller firm said that Ethereum's native token is "impaired," leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.
+
+CoinDesk • 1d ago
+
+---
+
+**[BitMine Stock Soars 8% as Ethereum Price Defies the War Fog & Tom Lee Aggressively Piles into the $9.1 Billion Vault](https://www.tipranks.com/news/bitmine-stock-soars-8-as-ethereum-price-defies-the-war-fog-tom-lee-aggressively-piles-into-the-9-1-billion-vault)**
+
+TipRanks • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +230,17 @@ Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. 
 
 📺 Zach Humphries
 
-👁️ 373 • 👍 55 • 💬 45 • ⏱️ 7:38 • 4h ago
+👁️ 676 • 👍 71 • 💬 40 • ⏱️ 7:38 • 4h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
+
+Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 2K • 👍 181 • 💬 61 • ⏱️ 11:32 • 23m ago
 
 ---
 
@@ -244,7 +250,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 180 • 💬 30 • ⏱️ 10:24 • 1d ago
+👁️ 5K • 👍 184 • 💬 31 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -254,7 +260,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 650 • 💬 22 • ⏱️ 1:16 • 2d ago
+👁️ 25K • 👍 688 • 💬 22 • ⏱️ 1:16 • 2d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=-klaBTHjhQg)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 The Pits TV
+
+👁️ 3K • 👍 1K • 1h ago
 
 ---
 
@@ -264,27 +280,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 74 • 💬 6 • ⏱️ 19:52 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=2e_BQztHiGg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 103 • 💬 6 • ⏱️ 3:52 • 16h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: Signal Confirmed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ydehcU1COIw)**
-
-BITCOIN & ALTCOIN WARNING: Signal Confirmed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 244 • 💬 89 • ⏱️ 18:59 • 19h ago
+👁️ 3K • 👍 74 • 💬 6 • ⏱️ 19:52 • 2d ago
 
 ---
 
@@ -294,7 +290,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 134 • 👍 7 • 💬 1 • ⏱️ 4:45 • 9h ago
+👁️ 183 • 👍 7 • 💬 1 • ⏱️ 4:45 • 10h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=2e_BQztHiGg)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:52 • 16h ago
 
 ---
 
@@ -304,27 +310,17 @@ We analyze the latest crypto whale activity and what it could mean for the broad
 
 📺 Altcoin Buzz
 
-👁️ 2K • 👍 107 • 💬 57 • ⏱️ 12:09 • 1d ago
+👁️ 2K • 👍 111 • 💬 57 • ⏱️ 12:09 • 1d ago
 
 ---
 
-**[Mark Cuban’s Honest Crypto Prediction (Bitcoin vs Ethereum)](https://www.youtube.com/watch?v=YE1UIgyHq-g)**
+**[Sui Founder Explains Why Ethereum &amp; Solana Will Be Left Behind | E161](https://www.youtube.com/watch?v=5Tunu3t7kQ4)**
 
-Is crypto still the future of investing? Mark Cuban shares his honest take: • Bitcoin isn't going anywhere • Ethereum still has ...
+Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw away everything they built because it wasn't good ...
 
-📺 VP Motion
+📺 When Shift Happens
 
-👁️ 2K • 👍 26 • 💬 3 • ⏱️ 0:46 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MlHv6JdY9xw)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 124 • 💬 5 • ⏱️ 6:30 • 1d ago
+👁️ 30K • 👍 542 • 💬 168 • ⏱️ 49:16 • 2d ago
 
 ---
 

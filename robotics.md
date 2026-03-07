@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T20:27:24.649901+00:00'
+updated: '2026-03-07T20:50:27.376003+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 20:27 UTC  
+**Last Updated:** March 07, 2026 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,25 +46,25 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 ---
 
-**[Spent a year building a transforming drone, now I'm open sourcing it](https://www.reddit.com/r/robotics/comments/1rmpfcv/spent_a_year_building_a_transforming_drone_now_im/)**
-
-Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
-
-23h ago
-
----
-
-**[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
-
-18h ago
-
----
-
 **[Hexapoddd in the processsss](https://www.reddit.com/r/robotics/comments/1rnip3e/hexapoddd_in_the_processsss/)**
 
 Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
 
 1h ago
+
+---
+
+**[Spent a year building a transforming drone, now I'm open sourcing it](https://www.reddit.com/r/robotics/comments/1rmpfcv/spent_a_year_building_a_transforming_drone_now_im/)**
+
+Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
+
+1d ago
+
+---
+
+**[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
+
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ I am building a project named gesture controlled rover which can be controlled b
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-16h ago
+17h ago
 
 ---
 
@@ -98,11 +98,9 @@ Thought this was pretty interesting and never even thought there'd be a of a rec
 
 ---
 
-**[[Project] CREW - Emergency robot coordination protocol (open source, ROS 2)](https://www.reddit.com/r/robotics/comments/1rnb97v/project_crew_emergency_robot_coordination/)**
+**[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
 
-**How it works:** Fire command broadcasts: "Need thermal imaging + route mapping within 2km" Nearby robots evaluate independently: capability match? battery OK? owner permission? Matching robots volunteer (don't auto-deploy) Human coordinator assigns tasks via web dashboard Owners fly their own robots, sharing what they choose to share **Tech stack:** - ROS 2 (protocol layer) - DDS pub/sub (messaging) - React + WebSockets (real-time dashboard) - JWT authentication + geo-fencing **Why it matters:** Every major city has 100+ commercial robots doing deliveries. During a wildfire or flood, they could provide aerial intel, route mapping, or damage assessment - but there's no coordination system. CREW is that missing layer. Tested with simulated multi-robot scenarios. Next step: real hardware integration Open to feedback, especially on: - Security concerns - Privacy implications - Liability edge cases MIT licensed. Built this over a few days to validate the concept. Demo video | https://youtu.be/dEDPNMCkF6U | https://youtu.be/P7kjSI0aH7o [GitHub](https://github.com/cbaz86/crew-protocol)[Demo[Demo) Video] | [GitHub] If this interests you, ⭐ the repo - helps others discover it. Built an emergency robot coordination protocol that solves a problem I noticed: during disasters, thousands of commercial robots (delivery drones, warehouse bots) sit idle while emergency services are overwhelmed. CREW lets robots volunteer to help during emergencies while keeping humans in control.
-
-6h ago
+11h ago
 
 ---
 
@@ -134,19 +132,37 @@ Fox Business • 2d ago
 
 ---
 
-**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
+**[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
 
-Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
+A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
 
-CNBC • 3d ago
+Fortune • 3h ago
 
 ---
 
-**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.yahoo.com/news/articles/openais-robotics-head-quits-companys-174308251.html)**
+**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3)**
 
 Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Yahoo • 2h ago
+Business Insider • 3h ago
+
+---
+
+**[OpenAI Loses Robotics Chief After Controversial Pentagon Agreement](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
+
+Forbes • 46m ago
+
+---
+
+**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
+
+The Hill • 5h ago
+
+---
+
+**[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -156,33 +172,11 @@ Tech Xplore • 2d ago
 
 ---
 
-**[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda)**
-
-Bloomberg • 2d ago
-
----
-
-**[Wellsville robotics team win NY State Championship, headed to Worlds!!](https://wellsvillesun.com/blog/2026/03/06/wellsville-robotics-team-win-ny-state-championship-headed-to-worlds/)**
-
-NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
-
-the wellsville sun • 1d ago
-
----
-
-**[Boeing Sends Liquid Robots to Defend Japan](https://www.fool.com/investing/2026/03/07/boeing-sends-liquid-robots-to-defend-japan/)**
+**[Boeing Sends Liquid Robots to Defend Japan](https://finance.yahoo.com/news/boeing-sends-liquid-robots-defend-102500173.html)**
 
 Boeing builds expensive airplanes -- but very affordable drone ships for the military.
 
-The Motley Fool • 10h ago
-
----
-
-**[Humanoid robots learn parkour maneuvers from human motion recordings](https://interestingengineering.com/ai-robotics/us-humanoid-robots-learns-tough-parkour-skills)**
-
-Humanoid robots learn parkour using a new AI framework, enabling them to navigate obstacles with human-like agility in complex environments.
-
-Interesting Engineering • 1d ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -196,7 +190,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 485K • 👍 32K • 💬 4K • ⏱️ 16:54 • 4d ago
+👁️ 498K • 👍 32K • 💬 4K • ⏱️ 16:54 • 4d ago
 
 ---
 
@@ -206,7 +200,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 61K • 👍 878 • 💬 97 • ⏱️ 29:41 • 1d ago
+👁️ 69K • 👍 981 • 💬 104 • ⏱️ 29:41 • 1d ago
 
 ---
 
@@ -216,7 +210,17 @@ At the world's largest mobile show, companies from around the globe take their b
 
 📺 CNET
 
-👁️ 5K • 👍 269 • 💬 7 • ⏱️ 4:13 • 7h ago
+👁️ 7K • 👍 307 • 💬 10 • ⏱️ 4:13 • 7h ago
+
+---
+
+**[2026 Oklahoma Regional - Day 3](https://www.youtube.com/watch?v=HOYrd3ypePo)**
+
+2026 Oklahoma Regional - Broadcast Day 3 https://frc-events.firstinspires.org/2026/OKOK (c) 2026 FIRST Robotics Competition.
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 3K • 👍 35 • 4d ago
 
 ---
 
@@ -230,53 +234,13 @@ FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game
 
 ---
 
-**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
+**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
 
-War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
+A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
 
-📺 Adrian Chong
+📺 Billionaire Shots
 
-👁️ 7K • 👍 375 • 💬 62 • ⏱️ 15:24 • 2d ago
-
----
-
-**[NEW Sniper Titan WAYMAKER Gameplay [War Robots]](https://www.youtube.com/watch?v=MzbhADGfBAI)**
-
-War Robots Gameplay: NEW Sniper Titan WAYMAKER is coming to WR. Here's my new YouTube Channel @ManniRAID ...
-
-📺 Manni-Gaming
-
-👁️ 11K • 👍 622 • 💬 162 • ⏱️ 15:49 • 9h ago
-
----
-
-**[Figure AI Just Dropped a FULLY Autonomous AI Robot… It Works 24/7](https://www.youtube.com/watch?v=5sSzuXp3Wsg)**
-
-Figure AI has just dropped a fully autonomous AI robot — and it's now operating 24/7 without human supervision. In this video, we ...
-
-📺 The AI Nexus
-
-👁️ 8K • 👍 236 • 💬 29 • ⏱️ 27:19 • 7d ago
-
----
-
-**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
-
-Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
-
-📺 AI Revolution
-
-👁️ 20K • 👍 741 • 💬 54 • ⏱️ 14:35 • 2d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN Europe
-
-👁️ 487K • 👍 768 • 💬 10 • ⏱️ 29:40 • 3d ago
+👁️ 36K • 👍 2K • 💬 265 • ⏱️ 0:13 • 3d ago
 
 ---
 
@@ -286,7 +250,37 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 58K • 👍 885 • 💬 52 • ⏱️ 1:29:27 • 6d ago
+👁️ 59K • 👍 888 • 💬 52 • ⏱️ 1:29:27 • 6d ago
+
+---
+
+**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
+
+War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
+
+📺 Adrian Chong
+
+👁️ 7K • 👍 376 • 💬 62 • ⏱️ 15:24 • 2d ago
+
+---
+
+**[Honor’s First Humanoid Robot Unveils Its Dance Moves at MWC | What the Future](https://www.youtube.com/watch?v=NDph9DHvm60)**
+
+Watch the official reveal of Honor's first humanoid service robot announced at MWC 2026. Read more at CNET.com First Steps?
+
+📺 CNET
+
+👁️ 60K • 👍 327 • 💬 36 • ⏱️ 1:27 • 5d ago
+
+---
+
+**[Unitree vs Tesla vs Boston dynamics #HumanoidRobot](https://www.youtube.com/watch?v=5PvK7No58SM)**
+
+The global humanoid race just shifted. Tesla and Boston Dynamics are still leading in advanced AI and autonomy. But Unitree ...
+
+📺 By 2050
+
+👁️ 51K • 👍 744 • 💬 54 • ⏱️ 0:56 • 6d ago
 
 ---
 
