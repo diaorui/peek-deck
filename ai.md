@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T06:55:20.633268+00:00'
+updated: '2026-03-07T07:29:14.820263+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- videos
 - repositories
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 06:55 UTC  
+**Last Updated:** March 07, 2026 at 07:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 7h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 14h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 15h ago
 
 ---
 
@@ -55,13 +55,13 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-21h ago
+22h ago
 
 ---
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -117,7 +117,7 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 **[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution. - The New York Times](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -131,7 +131,7 @@ NPR • 9h ago
 
 **[China's Jiangsu touts AI industrial push as Xi urges province to lead](https://www.reuters.com/world/asia-pacific/chinas-jiangsu-touts-ai-industrial-push-xi-urges-province-lead-2026-03-07/)**
 
-Reuters • 19m ago
+Reuters • 53m ago
 
 ---
 
@@ -139,7 +139,7 @@ Reuters • 19m ago
 
 Inside the historic Anna Hiss Gym at the University of Texas, the familiar squeak of sneakers has been replaced by something else entirely, the mechanical whir
 
-KEYE • 1h ago
+KEYE • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ KEYE • 1h ago
 
 It's been 10 years since Go champion Lee Sedol lost to DeepMind's AlphaGo. Has the technology lived up to its potential?
 
-New Scientist • 53m ago
+New Scientist • 1h ago
 
 ---
 
@@ -229,7 +229,7 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 The models are good now. But most people still miss the point.
 
-⬆️ 189 • 💬 304 • 21h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 189 • 💬 304 • 22h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -283,7 +283,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 41K • 👍 2K • 💬 241 • ⏱️ 38:02 • 13h ago
+👁️ 41K • 👍 2K • 💬 241 • ⏱️ 38:02 • 14h ago
 
 ---
 
@@ -323,7 +323,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 32K • 👍 780 • 💬 163 • ⏱️ 21:16 • 9h ago
+👁️ 32K • 👍 780 • 💬 163 • ⏱️ 21:16 • 10h ago
 
 ---
 
@@ -343,7 +343,7 @@ Artificial intelligence is already changing the job market and the classroom, wi
 
 📺 NBC News
 
-👁️ 2K • 👍 22 • 💬 7 • ⏱️ 3:50 • 6h ago
+👁️ 2K • 👍 22 • 💬 7 • ⏱️ 3:50 • 7h ago
 
 ---
 
@@ -363,7 +363,7 @@ Operation Epic Fury in Iran, the capture of Maduro in Venezuela and ICE surveill
 
 📺 DW News
 
-👁️ 15K • 👍 466 • 💬 70 • ⏱️ 4:12 • 20h ago
+👁️ 15K • 👍 466 • 💬 70 • ⏱️ 4:12 • 21h ago
 
 ---
 
@@ -373,7 +373,7 @@ CNBC's Deirdre Bosa joins 'Money Movers' to report on Anthropic's new study on w
 
 📺 CNBC Television
 
-👁️ 24K • 👍 240 • 💬 124 • ⏱️ 4:51 • 13h ago
+👁️ 24K • 👍 240 • 💬 124 • ⏱️ 4:51 • 14h ago
 
 ---
 
@@ -645,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.1k • 🔱 3.1k • 4h ago
+⭐ 24.1k • 🔱 3.1k • 5h ago
 
 ---
 
@@ -685,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.6k • 🔱 490 • 1h ago
+⭐ 6.6k • 🔱 490 • 2h ago
 
 ---
 
@@ -695,7 +695,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 681 • 2h ago
+⭐ 5.8k • 🔱 681 • 3h ago
 
 ---
 
@@ -715,7 +715,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 385 • 1h ago
+⭐ 3.6k • 🔱 385 • 2h ago
 
 ---
 

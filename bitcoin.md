@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T06:55:20.640595+00:00'
+updated: '2026-03-07T07:29:14.828602+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 06:55 UTC  
+**Last Updated:** March 07, 2026 at 07:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-1h ago
+2h ago
 
 ---
 
@@ -117,7 +117,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thi
 
 Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycles now. Psychologically, most BTC traders take it as inevitable which makes it a self-fulfilling prophecy. There are always “this time is different” arguments and at some point in the future, hopefully, BTC would mature to a point where there are no cycles, but why bet against the rule until it’s broken? (Noting this in response to people I’m seeing acting like a 10-15% jump means winter is over. It seems to me that we could not have a sustained rally until Q3 where some will try to front-run the historical Q4 rally. Obviously, DCAing at these levels is still great and who knows how low we’ll actually go this time.)
 
-10h ago
+11h ago
 
 ---
 
@@ -149,7 +149,7 @@ According to a recent Reuters report, Kazakhstan’s central bank is considering
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-20h ago
+21h ago
 
 ---
 
@@ -161,7 +161,7 @@ A trader I know got completely burnt because of a 2% dip. If you are one of them
 
 Bitcoin’s institutional era is officially here, but a stronger dollar and shifting interest rate expectations are keeping a lid on the latest rally.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -169,13 +169,13 @@ CoinDesk • 2h ago
 
 Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
 
-Nasdaq • 23h ago
+Nasdaq • 1d ago
 
 ---
 
 **[Connecting Excellence: Growth & bitcoin strategy - ICYMI](https://uk.finance.yahoo.com/news/connecting-excellence-growth-bitcoin-strategy-063004522.html)**
 
-Yahoo Finance UK • 25m ago
+Yahoo Finance UK • 59m ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 1h ago
 
 Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
 
-CoinDesk • 38m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 38m ago
 
 The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -215,7 +215,7 @@ Fortune • 13h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 10h ago
+Polymarket • 11h ago
 
 ---
 
@@ -343,7 +343,7 @@ Blockchain.com CEO Peter Smith discusses digital asset regulation, crypto volati
 
 📺 Fox Business Clips
 
-👁️ 47K • 👍 1K • 💬 605 • ⏱️ 8:57 • 17h ago
+👁️ 47K • 👍 1K • 💬 605 • ⏱️ 8:57 • 18h ago
 
 ---
 
@@ -373,7 +373,7 @@ Are you ready? Top-Tier Crypto Trading Starts Here Join the trading competition 
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 234 • 💬 33 • ⏱️ 15:32 • 11h ago
+👁️ 4K • 👍 234 • 💬 33 • ⏱️ 15:32 • 12h ago
 
 ---
 
@@ -383,7 +383,7 @@ Is the crypto market reacting to a new era of global conflict? In today's video,
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 410 • 💬 32 • ⏱️ 1:19:59 • 13h ago
+👁️ 10K • 👍 410 • 💬 32 • ⏱️ 1:19:59 • 14h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's 
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 728 • 💬 50 • ⏱️ 18:20 • 12h ago
+👁️ 18K • 👍 728 • 💬 50 • ⏱️ 18:20 • 13h ago
 
 ---
 
