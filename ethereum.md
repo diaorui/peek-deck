@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-07T15:46:30.713210+00:00'
+updated: '2026-03-07T16:29:38.113610+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 15:46 UTC  
+**Last Updated:** March 07, 2026 at 16:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.44B
+**Market Cap:** $238.62B
 Rank #2
 
 **Circulating Supply:** 120,692,062 ETH
@@ -62,7 +62,7 @@ No max supply
 -60.0%
 
 **All-Time Low:** $0.43
-+456280.1%
++456550.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Yesterday I posted about verifying Vitalik's first token contract and got a grea
 
 I propose to wrap USDT, since currently it is a highly outdated coin, and its transfer function has issues, and doesn't have new features, and only has 6 decimals. While these issues may not be large now and can be easily fixed or do not lose too much functionality, as DeFi expands new standards, etc may add more features, then USDT can be put into a standardized wrapper to handle it.
 
-50m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've been working on verifying source code for the oldest contracts on Ethereum,
 
 I staked some ETH around a month ago and it still has the Staking..... "staking takes 5 days" prompt. How long does it normally take to stake ETH and should I be worried?
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +112,7 @@ I staked some ETH around a month ago and it still has the Staking..... "staking 
 
 So I have some Eth staked on lido and received steth in return. After a few people I know told me I can deposit steth to double dip, earn steth rewards and earn rewards on steth coins as well? Does anyone have any suggestions? I’ve checked morpho, and aave but can’t seem to find any information on lending steth in return for more rewards? Ive also heard of curve and harvest but I’m not familiar with either. Any safe suggestions would be greatly appreciated, as i treasure my Eth and I’m not trying to jeopardize it any way to make a small return. I’m just trying to maximize the amount of Eth I have and letting it work to grow more. Thanks
 
-15h ago
+16h ago
 
 ---
 
@@ -120,7 +120,7 @@ So I have some Eth staked on lido and received steth in return. After a few peop
 
 One important technical item that I forgot to mention is the proposed switch from Casper FFG to Minimmit as the finality gadget. To summarize, Casper FFG provides two-round finality: it requires each attester to sign once to "justify" the block, and then again to "finalize" it. Minimmit only requires one round. In exchange, Minimmit's fault tolerance (in our parametrization) drops to 17%, compared to Casper FFG's 33%. Within Ethereum consensus discussions, I have always been the security assumptions hawk: I've insisted on getting to the theoretical bound of 49% fault tolerance under synchrony, kept pushing for 51% attack recovery gadgets, came up with DAS to make data availability checks dishonest-majority-resistant, etc. But I am fine with Minimmit's properties, in fact even enthusiastic in some respects. In this post, I will explain why. Let's lay out the exact security properties of both 3SF (not the current beacon chain, which is needlessly weak in many ways, but the ideal 3SF) and Minimmit. "Synchronous network" means "network latency less than 1/4 slot or so", "asynchronous network" means "potentially very high latency, even some nodes go offline for hours at a time". The percentages ("attacker has <33%") refer to percentages of active staked ETH. Properties of 3SF Synchronous network case: Attacker has p < 33%: nothing bad happens 33% < p < 50%: attacker can stop finality (at the cost of losing massive funds via inactivity leak), but the chain keeps progressing normally 50% < p < 67%: attacker can censor or revert the chain, but cannot revert finality. If an attacker censors, good guys can self-organize, they can stop contributing to a censoring chain, and do a "minority soft fork" p > 67%: attacker can finalize things at will, much harder for good guys to do minority soft fork Asynchronous network case: Attacker has p < 33%: cannot revert finality p > 33%: can revert finality, at the cost of losing massive funds via slashing Properties of Minimmit Synchronous network case: Attacker has p < 17%: nothing bad happens 17% < p < 50%: attacker can stop finality (at the cost of losing massive funds via inactivity leak), but the chain keeps progressing normally 50% < p < 83%: attacker can censor or revert the chain, but cannot revert finality. If an attacker censors, good guys can self-organize, they can stop contributing to a censoring chain, and do a "minority soft fork" p > 83%: attacker can finalize things at will, much harder for good guys to do minority soft fork Asynchronous network case: Attacker has p < 17%: cannot revert finality p > 17%: can revert finality, at the cost of losing massive funds via slashing I actually think that the latter is a better tradeoff. Here's my reasoning why: The worst kind of attack is actually not finality reversion, it's censorship. The reason is that finality reversion creates massive publicly available evidence that can be used to immediately cost the attacker millions of ETH (ie. billions of dollars), whereas censorship requires social coordination to get around In both of the above, a censorship attack requires 50% A censorship attack becomes much harder to coordinate around when the censoring attacker can unilaterally finalize (ie. >67% in 3SF, >83% in Minimmit). If they can't, then if the good guys counter-coordinate, you get two non-finalizing chains dueling for a few days, and users can pick on. If they can, then there's no natural schelling point to coordinate soft-forking In the case of a client bug, the worst thing that can happen is finalizing something bugged. In 3SF, you only need 67% of clients to share a bug for it to finalize, in Minimmit, you need 83%. Basicallly, Minimmit maximizes the set of situations that "default to two chains dueling each other", and that is actually a much healthier and much more recoverable outcome than "the wrong thing finalizing". We want finality to mean final. So in situations of uncertainty (whether attacks or software bugs), we should be more okay with having periods of hours or days where the chain does not finalize, and instead progresses based on the fork choice rule. This gives us time to think and make sure which chain is correct. Also, I think the "33% slashed to revert finality" of 3SF is overkill. If there is even eg. 15 million ETH staking, then that's 5M ($10B) slashed to revert the chain once. If you had $10B, and you are willing to commit mayhem of a type that violates many countries' computer hacking laws, there are FAR BETTER ways to spend it than to attack a chain. Even if your goal is breaking Ethereum, there are far better attack vectors. And so if we have the baseline guarantee of >= 17% slashed to revert finality (which Minimmit provides), we should judge the two systems from there based on their other properties - where, for the reasons I described above, I think Minimmit performs better.
 
-20h ago
+21h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Motley Fool • 2d ago
 
 **[Key facts: Culper Research shorts Ethereum; ETH trades near $2,065](https://www.tradingview.com/news/tradingview:60c9f214d8816:0-key-facts-culper-research-shorts-ethereum-eth-trades-near-2-065/)**
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 3d ago
 
 Dubai, UAE, March  06, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced that a former Binance executive has joined the strategic advisory board of ...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -236,17 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 174 • 💬 30 • ⏱️ 10:24 • 1d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: Signal Confirmed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ydehcU1COIw)**
-
-BITCOIN & ALTCOIN WARNING: Signal Confirmed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 223 • 💬 37 • ⏱️ 18:59 • 14h ago
+👁️ 4K • 👍 178 • 💬 30 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -256,27 +246,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 643 • 💬 22 • ⏱️ 1:16 • 2d ago
+👁️ 24K • 👍 645 • 💬 22 • ⏱️ 1:16 • 2d ago
 
 ---
 
-**[Mark Cuban’s Honest Crypto Prediction (Bitcoin vs Ethereum)](https://www.youtube.com/watch?v=YE1UIgyHq-g)**
+**[&quot;People Don’t Know How Massive MARCH Will Be for Crypto&quot;: Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=7oRNY59aeTo)**
 
-Is crypto still the future of investing? Mark Cuban shares his honest take: • Bitcoin isn't going anywhere • Ethereum still has ...
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
 
-📺 VP Motion
+📺 Jamie Tree 
 
-👁️ 2K • 👍 24 • 💬 3 • ⏱️ 0:46 • 22h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MlHv6JdY9xw)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 123 • 💬 5 • ⏱️ 6:30 • 22h ago
+👁️ 2K • 👍 74 • 💬 4 • ⏱️ 19:52 • 2d ago
 
 ---
 
@@ -286,37 +266,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 6 • ⏱️ 3:52 • 11h ago
+👁️ 1K • 👍 98 • 💬 6 • ⏱️ 3:52 • 12h ago
 
 ---
 
-**[🔥 Bitcoin vs Ethereum vs XRP: HOLD or SELL Now?](https://www.youtube.com/watch?v=pni0OJ1fhIA)**
+**[BITCOIN &amp; ALTCOIN WARNING: Signal Confirmed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ydehcU1COIw)**
 
-Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ...
+BITCOIN & ALTCOIN WARNING: Signal Confirmed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Kirtish Vyas (CoinLyte)
+📺 Crypto World
 
-👁️ 1K • 👍 92 • 💬 6 • ⏱️ 9:55 • 5h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=M58ntpoRiGM)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 982 • 👍 84 • ⏱️ 5:45 • 10h ago
+👁️ 7K • 👍 232 • 💬 38 • ⏱️ 18:59 • 15h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum SHOCKINGLY Surge Past Key Levels! #shorts](https://www.youtube.com/watch?v=YBlNepXCEes)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MlHv6JdY9xw)**
 
-Recent bullish surge in Bitcoin and Ethereum is decoded. Key price levels pinpointed and successful predictions reviewed.
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 CoinBros
+📺 More Crypto Online
 
-👁️ 1K • 👍 6 • ⏱️ 0:36 • 2d ago
+👁️ 2K • 👍 123 • 💬 5 • ⏱️ 6:30 • 23h ago
 
 ---
 
@@ -326,7 +296,37 @@ We analyze the latest crypto whale activity and what it could mean for the broad
 
 📺 Altcoin Buzz
 
-👁️ 2K • 👍 101 • 💬 56 • ⏱️ 12:09 • 23h ago
+👁️ 2K • 👍 103 • 💬 56 • ⏱️ 12:09 • 1d ago
+
+---
+
+**[CRYPTO LIVE TRADING || 7 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=tRAFQLfTRRE)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 4K • 👍 2K • 1h ago
+
+---
+
+**[Mark Cuban’s Honest Crypto Prediction (Bitcoin vs Ethereum)](https://www.youtube.com/watch?v=YE1UIgyHq-g)**
+
+Is crypto still the future of investing? Mark Cuban shares his honest take: • Bitcoin isn't going anywhere • Ethereum still has ...
+
+📺 VP Motion
+
+👁️ 2K • 👍 24 • 💬 3 • ⏱️ 0:46 • 23h ago
+
+---
+
+**[🔥 Bitcoin vs Ethereum vs XRP: HOLD or SELL Now?](https://www.youtube.com/watch?v=pni0OJ1fhIA)**
+
+Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ...
+
+📺 Kirtish Vyas (CoinLyte)
+
+👁️ 2K • 👍 128 • 💬 7 • ⏱️ 9:55 • 6h ago
 
 ---
 

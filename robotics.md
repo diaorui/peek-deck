@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T15:46:30.716425+00:00'
+updated: '2026-03-07T16:29:38.116839+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 15:46 UTC  
+**Last Updated:** March 07, 2026 at 16:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 I am building a project named gesture controlled rover which can be controlled by gesture of hands but there were a lot of problems came in project while building but completed half but now I have to control it through mpu6050 sensor and also from mobile by ESP32, while building the project I also destroyed one Arduino Nano and one Arduino Uno and the remaining items are -l298n motor driver -mpu6050 sensor -li ion batteries -nrf24l01 with adapter -car chassis (home made) -Esp32 - Arduino nano
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ I am building a project named gesture controlled rover which can be controlled b
 
 **How it works:** Fire command broadcasts: "Need thermal imaging + route mapping within 2km" Nearby robots evaluate independently: capability match? battery OK? owner permission? Matching robots volunteer (don't auto-deploy) Human coordinator assigns tasks via web dashboard Owners fly their own robots, sharing what they choose to share **Tech stack:** - ROS 2 (protocol layer) - DDS pub/sub (messaging) - React + WebSockets (real-time dashboard) - JWT authentication + geo-fencing **Why it matters:** Every major city has 100+ commercial robots doing deliveries. During a wildfire or flood, they could provide aerial intel, route mapping, or damage assessment - but there's no coordination system. CREW is that missing layer. Tested with simulated multi-robot scenarios. Next step: real hardware integration Open to feedback, especially on: - Security concerns - Privacy implications - Liability edge cases MIT licensed. Built this over a few days to validate the concept. Demo video | https://youtu.be/dEDPNMCkF6U | https://youtu.be/P7kjSI0aH7o [GitHub](https://github.com/cbaz86/crew-protocol)[Demo[Demo) Video] | [GitHub] If this interests you, ⭐ the repo - helps others discover it. Built an emergency robot coordination protocol that solves a problem I noticed: during disasters, thousands of commercial robots (delivery drones, warehouse bots) sit idle while emergency services are overwhelmed. CREW lets robots volunteer to help during emergencies while keeping humans in control.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,13 +88,13 @@ I am building a project named gesture controlled rover which can be controlled b
 
 Hi everyone, I am a data systems architect and backend engineer, wanted to learn about robotics and how I can leverage my experience in this field. Can anyone help me with it?
 
-1h ago
+2h ago
 
 ---
 
 **[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -138,7 +138,7 @@ Fox Business • 1d ago
 
 U.S. officials have released draft rules that would introduce tiered export controls on AI chips, aiming to tighten oversight of advanced processors shipped to certain markets. Qualcomm (NasdaqGS:QCOM) has joined other chipmakers in pushing back on the proposals, arguing the measures could affect access to key international customers and slow AI adoption. At the same time, Qualcomm is promoting its new Dragonwing processor for robotics, highlighting plans to grow beyond smartphones into AI...
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -146,7 +146,7 @@ Yahoo Finance • 38m ago
 
 Agility Robotics is rebranding, saying the new company name reflects its readiness to scale deployments and lead humanoid adoption.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 466K • 👍 31K • 💬 4K • ⏱️ 16:54 • 3d ago
+👁️ 477K • 👍 31K • 💬 4K • ⏱️ 16:54 • 3d ago
 
 ---
 
@@ -204,27 +204,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 51K • 👍 760 • 💬 82 • ⏱️ 29:41 • 1d ago
-
----
-
-**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
-
-War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
-
-📺 Adrian Chong
-
-👁️ 7K • 👍 371 • 💬 60 • ⏱️ 15:24 • 2d ago
-
----
-
-**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
-
-Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
-
-📺 AI Revolution
-
-👁️ 19K • 👍 734 • 💬 53 • ⏱️ 14:35 • 2d ago
+👁️ 55K • 👍 814 • 💬 84 • ⏱️ 29:41 • 1d ago
 
 ---
 
@@ -238,13 +218,23 @@ FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game
 
 ---
 
+**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
+
+Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
+
+📺 AI Revolution
+
+👁️ 19K • 👍 738 • 💬 54 • ⏱️ 14:35 • 2d ago
+
+---
+
 **[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
 
 A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
 
 📺 Billionaire Shots
 
-👁️ 36K • 👍 2K • 💬 263 • ⏱️ 0:13 • 3d ago
+👁️ 36K • 👍 2K • 💬 264 • ⏱️ 0:13 • 3d ago
 
 ---
 
@@ -254,17 +244,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN Europe
 
-👁️ 435K • 👍 690 • 💬 10 • ⏱️ 29:40 • 3d ago
-
----
-
-**[Why Does Invincible Have Robot Parts In S4 Trailer? 👀](https://www.youtube.com/watch?v=Kubl6gTcpHE)**
-
-Invincible season 4, Invincible season 4 release date, Invincible season 4 trailer, Invincible season 4 trailer breakdown, Invincible ...
-
-📺 RecapNova
-
-👁️ 444K • 👍 9K • 💬 44 • ⏱️ 0:29 • 2d ago
+👁️ 458K • 👍 725 • 💬 10 • ⏱️ 29:40 • 3d ago
 
 ---
 
@@ -274,15 +254,37 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 58K • 👍 880 • 💬 52 • ⏱️ 1:29:27 • 6d ago
+👁️ 58K • 👍 883 • 💬 52 • ⏱️ 1:29:27 • 6d ago
 
 ---
 
-**[Robot Vacuum Running! Custom Edition #2](https://www.youtube.com/watch?v=Wn95m5QT6F0)**
+**[Why Does Invincible Have Robot Parts In S4 Trailer? 👀](https://www.youtube.com/watch?v=Kubl6gTcpHE)**
 
-📺 Planet Roomba
+Invincible season 4, Invincible season 4 release date, Invincible season 4 trailer, Invincible season 4 trailer breakdown, Invincible ...
 
-👁️ 7K • 💬 5 • ⏱️ 21:32 • 1d ago
+📺 RecapNova
+
+👁️ 461K • 👍 10K • 💬 44 • ⏱️ 0:29 • 2d ago
+
+---
+
+**[Chinese Fighting Robots Left US Speechless at China Expo 2026](https://www.youtube.com/watch?v=BCt9xAu7wKY)**
+
+At China Expo 2026, Chinese fighting robots became one of the most shocking highlights of the entire event, showcasing ...
+
+📺 Carros Show
+
+👁️ 4K • 👍 66 • 💬 23 • ⏱️ 9:59 • 5d ago
+
+---
+
+**[Honor’s First Humanoid Robot Unveils Its Dance Moves at MWC | What the Future](https://www.youtube.com/watch?v=NDph9DHvm60)**
+
+Watch the official reveal of Honor's first humanoid service robot announced at MWC 2026. Read more at CNET.com First Steps?
+
+📺 CNET
+
+👁️ 59K • 👍 325 • 💬 36 • ⏱️ 1:27 • 5d ago
 
 ---
 
