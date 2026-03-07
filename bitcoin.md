@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T13:39:28.404020+00:00'
+updated: '2026-03-07T14:25:39.277046+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 13:39 UTC  
+**Last Updated:** March 07, 2026 at 14:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,975.00
+### $67,783.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +3.3%  
-**30d:** -3.8%  
-**90d:** -25.2%  
-**1y:** -21.2%  
+**24h:** -1.0%  
+**7d:** +3.2%  
+**30d:** -3.9%  
+**90d:** -25.3%  
+**1y:** -21.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1362.03B
+**Market Cap:** $1355.04B
 Rank #1
 
-**Circulating Supply:** 19,999,050 BTC
+**Circulating Supply:** 19,999,100 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.0%
+-46.2%
 
 **All-Time Low:** $67.81
-+100295.2%
++99882.3%
 
 ---
 
@@ -95,13 +95,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-8h ago
-
----
-
-**[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
-
-21h ago
+9h ago
 
 ---
 
@@ -109,7 +103,13 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
 
-4h ago
+5h ago
+
+---
+
+**[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
+
+22h ago
 
 ---
 
@@ -117,7 +117,7 @@ recently found the passkey for a wallet i created in 2017, used to have BRD wall
 
 Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,15 @@ Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transaction
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-17h ago
+18h ago
+
+---
+
+**[Zu geizig?Oder Klug!](https://www.reddit.com/r/Bitcoin/comments/1rn6t2m/zu_geizigoder_klug/)**
+
+Yesterday I went shopping with my family, and what can I say? Shopping used to be pure fun and a feeling of satisfaction after a purchase, but now it's just a lot of thoughtful pondering about whether you really need it… I think it will still be a while before Bitcoin changes us all, but I can already see that it's having some kind of impact on our lives.
+
+3h ago
 
 ---
 
@@ -133,15 +141,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
-
----
-
-**[Is there a marketplace for buying property with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rmy053/is_there_a_marketplace_for_buying_property_with/)**
-
-Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
-
-11h ago
+8h ago
 
 ---
 
@@ -157,27 +157,19 @@ I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thi
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC in deep bear market, could crash by another 30%, investment firm says](https://www.coindesk.com/markets/2026/03/07/bitcoin-could-crash-another-30-as-four-year-cycle-gains-strength-investment-firm-says)**
+**[Bitcoin slips below $68,000 heading into the weekend as dollar posts steepest weekly gain in a year](https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year)**
 
-Bitcoin is now firmly in a deep bear market and could fall another 30% in 2026, firm said.
+Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
 
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
-
-The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
-
-Fortune • 19h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin Needs a Monster Rally to Hit $150,000 by December -- and Prediction Markets See Only an 11% Shot](https://www.nasdaq.com/articles/bitcoin-needs-monster-rally-hit-150000-december-and-prediction-markets-see-only-11-shot)**
+**[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.nasdaq.com/articles/better-cryptocurrency-buy-and-hold-10-years-or-more-bitcoin-vs-cardano)**
 
-Key PointsPrediction markets are a useful tool in gauging the odds of a future event.
+Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
 
-Nasdaq • 4h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -186,6 +178,14 @@ Nasdaq • 4h ago
 Investors are weighing a NYT report that Iran has indirectly approached the US to discuss terms for ending the conflict.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
+
+The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
+
+Fortune • 20h ago
 
 ---
 
@@ -199,7 +199,15 @@ The Block • 1d ago
 
 **[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-Bloomberg • 17h ago
+Bloomberg.com • 17h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772890500)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 50m ago
 
 ---
 
@@ -208,14 +216,6 @@ Bloomberg • 17h ago
 A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
 WIS News 10 • 1d ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772883900)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 22h ago
 
 ---
 
@@ -231,7 +231,7 @@ CBC • 1d ago
 
 With "safe" asset prices so high, cheaper and riskier assets look better than before.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -243,7 +243,7 @@ The Motley Fool • 13h ago
 
 Email where senders pay satoshis for your attention. Spam dies when it costs money.
 
-⬆️ 29 • 💬 49 • 3h ago • [tanstaafl.email](https://tanstaafl.email)
+⬆️ 30 • 💬 52 • 3h ago • [tanstaafl.email](https://tanstaafl.email)
 
 ---
 
@@ -323,37 +323,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 109 • ⏱️ 11:48 • 15h ago
+👁️ 38K • 👍 2K • 💬 118 • ⏱️ 11:48 • 15h ago
 
 ---
 
-**[🚨 ALERT: The Bitcoin Floodgates Are Open!!](https://www.youtube.com/watch?v=m5nunXOj2VM)**
+**[Could This Send Bitcoin to $700K in Just 10 Months?!](https://www.youtube.com/watch?v=tQR7mHjAwzY)**
 
-The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+Bitcoin just surged toward $74K and the big question is whether this is the start of the next leg up or a brutal bull trap. Arthur Hayes ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 45K • 👍 2K • 💬 161 • ⏱️ 8:38 • 1d ago
-
----
-
-**[How Bitcoin Could Get To $10 MILLION Per Coin](https://www.youtube.com/watch?v=0mHU6N2G6_o)**
-
-Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discuss whether bitcoin acts as a risk-on tech asset or ...
-
-📺 Anthony Pompliano
-
-👁️ 36K • 👍 1K • 💬 98 • ⏱️ 40:52 • 1d ago
-
----
-
-**[Bitcoin Is About to Enter a New Era (and nobody’s paying attention)](https://www.youtube.com/watch?v=wpL6jINMHoI)**
-
-Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talking about how AI agents could use Bitcoin as ...
-
-📺 BTC Isla
-
-👁️ 6K • 👍 752 • 💬 105 • ⏱️ 11:28 • 21h ago
+👁️ 22K • 👍 2K • 💬 244 • ⏱️ 17:07 • 1d ago
 
 ---
 
@@ -363,7 +343,27 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 110 • 💬 91 • ⏱️ 16:15 • 8h ago
+👁️ 2K • 👍 153 • 💬 50 • ⏱️ 16:15 • 9h ago
+
+---
+
+**[Bitcoin Is About to Enter a New Era (and nobody’s paying attention)](https://www.youtube.com/watch?v=wpL6jINMHoI)**
+
+Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talking about how AI agents could use Bitcoin as ...
+
+📺 BTC Isla
+
+👁️ 7K • 👍 786 • 💬 107 • ⏱️ 11:28 • 22h ago
+
+---
+
+**[🚨 ALERT: The Bitcoin Floodgates Are Open!!](https://www.youtube.com/watch?v=m5nunXOj2VM)**
+
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 2K • 💬 161 • ⏱️ 8:38 • 1d ago
 
 ---
 
@@ -373,45 +373,47 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 79K • 👍 3K • 💬 243 • ⏱️ 17:02 • 1d ago
+👁️ 81K • 👍 3K • 💬 250 • ⏱️ 17:02 • 1d ago
 
 ---
 
-**[Why Bitcoin Keeps Dropping](https://www.youtube.com/watch?v=z6Mm8vNGFtk)**
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=tQNdcPBu4kI)**
 
-📺 Andrei Jikh
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
-👁️ 35K • 👍 1K • 💬 22 • ⏱️ 1:12 • 20h ago
+📺 Road To $1 Million USD
 
----
-
-**[&quot;Bitcoin is Going to 20x, But 99% are Clueless&quot; - Matt Hougan [NEW Bitcoin &amp; Crypto Prediction 2026]](https://www.youtube.com/watch?v=hREk_BflFms)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 21K • 👍 610 • 💬 63 • ⏱️ 19:58 • 1d ago
+👁️ 3K • 👍 193 • 💬 31 • ⏱️ 3:47 • 16h ago
 
 ---
 
-**[Bitcoin Dumping FAST… What Donald Trump Just Said](https://www.youtube.com/watch?v=ZGZ41p7L3jc)**
+**[Why Bitcoin Goes Parabolic EVERY TIME It Dies!](https://www.youtube.com/watch?v=GnD7l7Pv_-Y)**
 
-Is the crypto market reacting to a new era of global conflict? In today's video, we are breaking down why Bitcoin is seeing a ...
+Bitcoin has been declared dead 477 times, yet the network keeps surviving and growing. This breakdown walks through every ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 76 • ⏱️ 22:18 • 2d ago
+
+---
+
+**[XRP PANIC SELLING EXPLODES! 2021 Repeat? Bitcoin Dump To $60,000?!](https://www.youtube.com/watch?v=CcZjoxant9w)**
+
+XRP PANIC SELLING EXPLODES! 2021 Repeat? Bitcoin Dump To $60000?! Meta Signals (partner) https://metasignals.io/nft ...
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 418 • 💬 29 • ⏱️ 21:20 • 19h ago
+
+---
+
+**[LAST Bitcoin Mined THIS DATE](https://www.youtube.com/watch?v=l532J7wAKQg)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
 
 📺 Discover Crypto
 
-👁️ 11K • 👍 417 • 💬 32 • ⏱️ 1:19:59 • 20h ago
-
----
-
-**[Gold ﹥ Bitcoin... For Now](https://www.youtube.com/watch?v=tgLjh-crK90)**
-
-Gold is winning... for now. Bitcoin? Caught in the risk-off crossfire. Are investors looking at this the right way? Cathie Wood ...
-
-📺 ARK Invest
-
-👁️ 15K • 👍 418 • 💬 9 • ⏱️ 2:11 • 1d ago
+👁️ 12K • 👍 87 • 💬 7 • ⏱️ 0:11 • 2d ago
 
 ---
 

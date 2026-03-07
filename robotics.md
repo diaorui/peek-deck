@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T13:39:28.414038+00:00'
+updated: '2026-03-07T14:25:39.286273+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 13:39 UTC  
+**Last Updated:** March 07, 2026 at 14:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +64,15 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-9h ago
+10h ago
+
+---
+
+**[Rover project (gesture controlled and mobile controlled)](https://www.reddit.com/r/robotics/comments/1rn9lt2/rover_project_gesture_controlled_and_mobile/)**
+
+I am building a project named gesture controlled rover which can be controlled by gesture of hands but there were a lot of problems came in project while building but completed half but now I have to control it through mpu6050 sensor and also from mobile by ESP32, while building the project I also destroyed one Arduino Nano and one Arduino Uno and the remaining items are -l298n motor driver -mpu6050 sensor -li ion batteries -nrf24l01 with adapter -car chassis (home made) -Esp32 - Arduino nano
+
+1h ago
 
 ---
 
@@ -80,29 +88,21 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 Sorry if this isn’t the place to post this since it’s really a hobby project and this feels more like a simple blog post. I just figured I’d share it since I had spent time working on it. I suppose there are 3 main reasons why I scrapped it. I made the mistake of designing from the base upward as opposed to from the end-effector downward which led to a loss in desired elegance of the design itself. I also decided that I want to implement 6DOFs instead of just 4. On top of that, I decided to try my hand at accomplishing remote cable transmission for all DOFs aside from the base rotation. I’ve already finished designing the 6DOF arm, I just haven’t assembled it yet. Anyways, here’s a brief overview of the mechanical design. The base is essentially just a turn-table bearing system with 5 bearings between the top and bottom traces. The shoulder transmission is just direct mounting. Elbow transmission is via bevel gears to keep weight closer to the output shaft of the shoulder joint’s motor. The wrist transmission is via capstan antagonistic cabling. Then I have a lever at the end of the 3rd link after the wrist for my desired end-effector function utilizing capstan antagonistic cable transmission as well. I decided to scrap it before finishing the end-effector though. The new design focuses on complete remote transmission via capstan antagonistic cables in conjunction with Bowden cable sheaths used for the 3DOFs I have decoupled at the wrist joint. Again, sorry if this isn’t the place for this as this is something of a blog post more than anything. But I’m hoping this may intrigue someone. Also, I probably will design a proper shell at some point but I have a mini 3D printer and tbh I like seeing everything move.
 
-19h ago
+20h ago
+
+---
+
+**[Curious about robotics and how can I leverage software engineering experience in robotics](https://www.reddit.com/r/robotics/comments/1rnaf4e/curious_about_robotics_and_how_can_i_leverage/)**
+
+Hi everyone, I am a data systems architect and backend engineer, wanted to learn about robotics and how I can leverage my experience in this field. Can anyone help me with it?
+
+37m ago
 
 ---
 
 **[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
 
-3h ago
-
----
-
-**[Wife said I wasted money...Narwal just proved her wrong](https://www.reddit.com/r/robotics/comments/1rmkmah/wife_said_i_wasted_moneynarwal_just_proved_her/)**
-
-I've had multiple iRobots and they were total junk...There is ALWAYS an error...my wife was like "you wasted money again"😭 Now Im in love with my narwal (freo z10 ultra). It does occasionally bump some chair legs when trying to sneak through, but most of the time it cruises through like a pro. The best part is, the robovac has riser side brushed on both sides, so it can easily get into the gaps around cabinet and table legs, no more bending over to check for leftover sauce. It saves much time and energy. And I think roller mop does not get cleaned as well as a double rotating mops in the base. 🙌 So my wife went from "you wasted money again" to "okay, this thing is actually awesome." Feels good to be right for once.
-
-19h ago
-
----
-
-**[I made an interactive 2D SLAM Simulator in Rust!](https://www.reddit.com/r/robotics/comments/1rmqcgj/i_made_an_interactive_2d_slam_simulator_in_rust/)**
-
-I built a SLAM simulator in Rust where you can see EKF-SLAM and FastSLAM running at the same time. I deployed it to the web, so you can place obstructions and landmarks and compare the two algorithms. Live Demo: https://slam.pramodna.com/ Github: https://github.com/7673502/2D-SLAM-Simulator
-
-16h ago
+4h ago
 
 ---
 
@@ -134,6 +134,14 @@ Fox Business • 1d ago
 
 ---
 
+**[Humanoid developer Agility Robotics rebrands](https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/)**
+
+Agility Robotics is rebranding, saying the new company name reflects its readiness to scale deployments and lead humanoid adoption.
+
+The Robot Report • 20m ago
+
+---
+
 **[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
 
 Tech Xplore • 1d ago
@@ -142,21 +150,15 @@ Tech Xplore • 1d ago
 
 **[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[E-bike starts fire at Yale University's robotics lab on Hillhouse Avenue, New Haven official says](https://www.nhregister.com/news/article/new-haven-hillhouse-ave-yale-lab-e-bike-fire-21957068.php)**
+**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
 
-New Haven Register • 1d ago
+Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
 
----
-
-**[Biodegradable yet hyperdurable robotic fingers for zero-waste soft electronics](https://www.nature.com/articles/s41893-026-01780-4)**
-
-As soft electronic waste becomes an urgent concern, biodegradable yet high-performance devices are emerging as a promising solution. Here the authors fabricate durable and multifunctional soft robotic fingers in which both polymers and inorganic electronics are fully compostable.
-
-Nature • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -168,19 +170,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Humanoid robots learn parkour maneuvers from human motion recordings](https://interestingengineering.com/ai-robotics/us-humanoid-robots-learns-tough-parkour-skills)**
-
-Humanoid robots learn parkour using a new AI framework, enabling them to navigate obstacles with human-like agility in complex environments.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Wellsville robotics team win NY State Championship, headed to Worlds!!](https://wellsvillesun.com/blog/2026/03/06/wellsville-robotics-team-win-ny-state-championship-headed-to-worlds/)**
 
 NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
 
 the wellsville sun • 1d ago
+
+---
+
+**[Humanoid robots learn parkour maneuvers from human motion recordings](https://interestingengineering.com/ai-robotics/us-humanoid-robots-learns-tough-parkour-skills)**
+
+Humanoid robots learn parkour using a new AI framework, enabling them to navigate obstacles with human-like agility in complex environments.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 453K • 👍 30K • 💬 3K • ⏱️ 16:54 • 3d ago
+👁️ 466K • 👍 31K • 💬 4K • ⏱️ 16:54 • 3d ago
 
 ---
 
@@ -204,7 +206,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 45K • 👍 682 • 💬 70 • ⏱️ 29:41 • 1d ago
+👁️ 51K • 👍 760 • 💬 82 • ⏱️ 29:41 • 1d ago
 
 ---
 
@@ -214,17 +216,7 @@ War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #
 
 📺 Adrian Chong
 
-👁️ 7K • 👍 368 • 💬 60 • ⏱️ 15:24 • 1d ago
-
----
-
-**[FRC team 1690 Orbit 2026 robot reveal - &quot;KEPLER&quot;](https://www.youtube.com/watch?v=yW90nd563wI)**
-
-FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game REBUILT! Huge thanks to all of our sponsors ...
-
-📺 Orbit 1690
-
-👁️ 53K • 👍 2K • 💬 138 • ⏱️ 2:21 • 5d ago
+👁️ 7K • 👍 371 • 💬 60 • ⏱️ 15:24 • 2d ago
 
 ---
 
@@ -235,6 +227,16 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 📺 AI Revolution
 
 👁️ 19K • 👍 734 • 💬 53 • ⏱️ 14:35 • 2d ago
+
+---
+
+**[FRC team 1690 Orbit 2026 robot reveal - &quot;KEPLER&quot;](https://www.youtube.com/watch?v=yW90nd563wI)**
+
+FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game REBUILT! Huge thanks to all of our sponsors ...
+
+📺 Orbit 1690
+
+👁️ 53K • 👍 2K • 💬 138 • ⏱️ 2:21 • 5d ago
 
 ---
 
@@ -254,7 +256,17 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN Europe
 
-👁️ 417K • 👍 649 • 💬 10 • ⏱️ 29:40 • 3d ago
+👁️ 435K • 👍 690 • 💬 10 • ⏱️ 29:40 • 3d ago
+
+---
+
+**[Why Does Invincible Have Robot Parts In S4 Trailer? 👀](https://www.youtube.com/watch?v=Kubl6gTcpHE)**
+
+Invincible season 4, Invincible season 4 release date, Invincible season 4 trailer, Invincible season 4 trailer breakdown, Invincible ...
+
+📺 RecapNova
+
+👁️ 444K • 👍 9K • 💬 44 • ⏱️ 0:29 • 2d ago
 
 ---
 
@@ -264,17 +276,7 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 58K • 👍 878 • 💬 52 • ⏱️ 1:29:27 • 6d ago
-
----
-
-**[Moving Ramp System and Potentiometer | 3333X X-treme Bot  | V5RC Robot Rundown](https://www.youtube.com/watch?v=FfvFzxCuqQg)**
-
-This video is supported by Kettering University: Accepted @KetteringUniversity1919 students can receive a VEX/FIRST ...
-
-📺 FUN Robotics Network
-
-👁️ 2K • 👍 41 • 💬 5 • ⏱️ 1:30 • 14h ago
+👁️ 58K • 👍 880 • 💬 52 • ⏱️ 1:29:27 • 6d ago
 
 ---
 
