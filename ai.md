@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T20:50:27.358490+00:00'
+updated: '2026-03-07T21:22:23.302711+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- videos
 - news
 - social
-- videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 20:50 UTC  
+**Last Updated:** March 07, 2026 at 21:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 Analysis finds that the use of AI in scientific writing is increasing
 
-🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 2h ago
+🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Analysis finds that the use of AI in scientific writing is increasing
 
 Intro What's the coolest web game you can make in about 24 hours with AI tools? This weekend I'm running a game jam for AI-assisted web game development Rules The game jam starts NOW! If you're reading this post, it's started Your web game must include entirely fresh, new code and assets specifically made for this game jam (no old games or old code or old art work) All entries must be AI-assisted I will accept entries until noon (12 PM) Pacific Time on Sunday, March 8th, 2026 An entry must have a public URL at which we can play the web game Entries must not require payment or sign in; we should be able to launch the game right away I (the organizer) reserve the right to reject entries which are spammy or which include offensive content (bigotry, political side-taking, animal abuse, etc.) You may do the jam solo or in a team For fairness, final results will be displayed in a random order, and there won't be any judging or prizes How do I submit my game? There will be a Google Forms link on the main game jam page What if I want to discuss or collaborate or need tech support during the game jam? There's a Discord you can join, linked from the main game jam page Where do I see the final results? On the main game jam page: https://aaronshaver.github.io/mar-2026-ai-web-game-jam/ Have fun, everyone!
 
-3h ago
+4h ago
 
 ---
 
@@ -73,13 +73,13 @@ Intro What's the coolest web game you can make in about 24 hours with AI tools? 
 
 TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models Kevin Couch Abstract Large language models exhibit structural failure modes—hallucination, semantic drift, sycophancy, and dyadic dissociation—that cause measurable harm, particularly to vulner- able users. TRC (Trust Regulation and Containment) is a two-layer, inference-time frame- work that combines a hard binary Trust Gate with a continuous, physics-inspired Ethical Rheostat operating directly on the model’s residual-stream activation vector. By tracking semantic momentum across layer depth and applying graduated, tensor-based geometric projections, TRC shifts safety enforcement from reactive post-generation filtering to a pre- dictive, self-correcting control law. The core is a stochastic differential equation—re-indexed to layer depth under an approx- imate Neural ODE interpretation—that augments the transformer’s natural forward flow with an ethical steering term derived from a compact set of contrastively extracted concept vectors. This revision introduces eight principal advances: (i) an adaptive gain law Λ+(l) whose gain response accelerates into danger and decelerates into safety without oscillation risk; (ii) a scalar Kalman filter with a clutch mechanism that closes the Bayesian momentum predictor implementation gap, provably optimal under the framework’s own Gaussian noise assumptions and decoupled from burst dynamics via federated regime handoff; (iii) a formal Itô stability condition giving implementers an analytical lower bound on λ0; (iv) replacement of the instantaneous jump operator with a continuous flow burst mechanism that preserves activation manifold geometry; (v) a calibration shunt reference Cref normalising all thresh- olds and gain coefficients against a known-safe baseline; (vi) a tempo efficiency framework unifying token cost, electrical cost, and coherence distortion into a single joint optimisa- tion objective; (vii) a signed gain architecture that partitions each concept projection into harmful and prosocial components, with detection and escalation operating exclusively on the harmful channel C+ to prevent adversarial prosocial suppression; and (viii) a Kalman clutch mechanism implementing federated estimation with deterministic Lyapunov stabil- ity during burst episodes and stochastic Lyapunov stability during nominal operation, with formally specified regime transitions. Stochastic perturbation is projected into the ethical subspace, making the Langevin diffusion interpretation exact rather than approximate. The framework is validated against chess dynamics, which constitute a well-studied discrete dy- namical system whose positional flow, tactical burst, and zugzwang properties map precisely onto TRC’s three-term master equation. Introduction Large language models exhibit a range of structural failure modes—hallucination, semantic drift, sycophancy, and dyadic dissociation—that can cause measurable harm, especially to vulnerable users. These phenomena arise not from reasoning errors but from the probabilistic nature of transformer sampling and the high-dimensional geometry of activation space. In this paper we present TRC (Trust Regulation and Containment), a two-layer, inference-time framework that blends hard decision gates with a continuous, physics-inspired correction engine operating directly on the model’s residual-stream activation vector. The central geometric insight motivating this revision is that the transformer’s residual stream traces a continuous path through a high-dimensional activation manifold. Safety failures are deformations of this manifold—crinkles in its geometry introduced by adversarial inputs, sycophantic drift, or escalating user distress. The correct response to a crinkle is not to teleport the activation to a safe location (which introduces new geometric incoherence) but to apply continuous corrective flow that works the deformation out smoothly, layer by layer, the way a craftsperson works aluminum foil back toward its intended shape. This insight drives the replacement of the previous instantaneous jump operator with the flow burst architecture and motivates the tempo efficiency framework that unifies all computational cost metrics under a single variable. This revision also introduces the Kalman clutch mechanism, which decouples the Bayesian momentum predictor from burst dynamics during high-gain corrective episodes. The system now operates as a federated estimation architecture with formally specified regime transitions: nominal tracking under stochastic Lyapunov stability, deterministic correction during burst episodes, and a principled re-engagement protocol with inflated covariance. The detection and escalation pathway has been restructured to operate exclusively on the harmful projection channel C+, preventing adversarial prosocial suppression of safety mechanisms.
 
-3h ago
+4h ago
 
 ---
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 20h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 21h ago
 
 ---
 
@@ -87,7 +87,7 @@ TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Fram
 
 CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-1h ago
+2h ago
 
 ---
 
@@ -139,7 +139,7 @@ NPR • 23h ago
 
 Last month, Block announced a 40% cut to its headcount, or about 4,000 jobs, and cited AI models as a top reason.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -147,7 +147,7 @@ Fortune • 2h ago
 
 Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -161,13 +161,13 @@ Bloomberg.com • 6h ago
 
 "I'm not biased," Michael said. "I just I want all of them. I want to give them all the same exact terms because I need redundancy."
 
-Fortune • 40m ago
+Fortune • 1h ago
 
 ---
 
 **[For OpenAI and Anthropic, the Competition Is Deeply Personal](https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ Axios • 7h ago
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 4,212 • ❤️ 171 • 5h ago
+⬇️ 4,212 • ❤️ 171 • 6h ago
 
 ---
 
@@ -675,7 +675,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.8k • 🔱 501 • 15h ago
+⭐ 6.8k • 🔱 501 • 16h ago
 
 ---
 
@@ -695,7 +695,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 693 • 8h ago
+⭐ 5.8k • 🔱 693 • 9h ago
 
 ---
 
@@ -715,7 +715,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 388 • 3h ago
+⭐ 3.6k • 🔱 388 • 4h ago
 
 ---
 

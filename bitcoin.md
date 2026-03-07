@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T20:50:27.366765+00:00'
+updated: '2026-03-07T21:22:23.311110+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 20:50 UTC  
+**Last Updated:** March 07, 2026 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ This is why we Bitcoin $BTC. When your banks starts questioning you about your p
 
 Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey guys I am considering buying bitcoin as part of a diversification effort. I 
 
 Race for the last million Bitcoin begins...
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ Race for the last million Bitcoin begins...
 
 A bitcoin has 100 million sats. At the bare minimum you need 140 sats to send a transaction since the minimum rate is 1 sat/vB. So, 1 btc could theoretically give you 714,285 transactions. Let's say it's worth paying at least 1 dollar in fees to transact on this revolutionary network. That would make 1 btc worth a maximum of $714,285. But is 1 transaction on a decentralized, secure, permissionless, immutable blockchain only worth paying 1 dollar for? People routinely pay over 10 dollars for wire transfers which are inferior in many ways. If we assume 1 transaction on the btc network is intrinsically worth $10, then the price of 1 btc should be over 7 million dollars. The underlying value of bitcoin is that you need it to transact on the network and transacting on this network has real value.
 
-14m ago
+46m ago
 
 ---
 
@@ -129,7 +129,7 @@ A bitcoin has 100 million sats. At the bare minimum you need 140 sats to send a 
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-15h ago
+16h ago
 
 ---
 
@@ -143,7 +143,7 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitcoin node along with Lightning to help the Bitcoin community.
 
-50m ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitc
 
 Covid destroyed the market but the rebound was historic.
 
-54m ago
+1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Covid destroyed the market but the rebound was historic.
 
 The executive order to build President Donald Trump's Strategic Bitcoin Reserve has awaited congressional action, and sources say there's one idea left for 2026.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fortune • 1d ago
 
 Knowing the odds could make you richer down the line.
 
-The Motley Fool • 37m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 37m ago
 
 Knowing the odds could make you richer down the line.
 
-Yahoo Finance • 17m ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -203,7 +203,7 @@ CoinDesk • 3h ago
 
 Key PointsPrediction markets are a useful tool in gauging the odds of a future event.
 
-Nasdaq • 11h ago
+Nasdaq • 12h ago
 
 ---
 
@@ -323,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 1K • 💬 13 • ⏱️ 59:14 • 6h ago
+👁️ 14K • 👍 1K • 💬 13 • ⏱️ 59:14 • 7h ago
 
 ---
 
@@ -353,7 +353,7 @@ Global tensions, oil politics, and the petrodollar system may be colliding in re
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 864 • 💬 186 • ⏱️ 15:47 • 2h ago
+👁️ 5K • 👍 864 • 💬 186 • ⏱️ 15:47 • 3h ago
 
 ---
 
@@ -363,7 +363,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 189 • 💬 284 • ⏱️ 16:15 • 15h ago
+👁️ 4K • 👍 189 • 💬 284 • ⏱️ 16:15 • 16h ago
 
 ---
 
@@ -383,7 +383,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged https://ww
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 304 • 💬 1 • ⏱️ 19:14 • 21h ago
+👁️ 5K • 👍 304 • 💬 1 • ⏱️ 19:14 • 22h ago
 
 ---
 
