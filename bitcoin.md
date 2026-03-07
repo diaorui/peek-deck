@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T04:11:35.322930+00:00'
+updated: '2026-03-07T05:14:11.475601+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 04:11 UTC  
+**Last Updated:** March 07, 2026 at 05:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,048.47
+### $68,109.05
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -3.6%  
-**7d:** +3.3%  
-**30d:** -3.8%  
-**90d:** -25.2%  
-**1y:** -21.2%  
+**7d:** +3.6%  
+**30d:** -3.5%  
+**90d:** -25.0%  
+**1y:** -21.0%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 18
+### 12
 **EXTREME FEAR**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -93,7 +93,23 @@ Rank #1
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-8h ago
+9h ago
+
+---
+
+**[those who bought the top](https://www.reddit.com/r/Bitcoin/comments/1rn0cm7/those_who_bought_the_top/)**
+
+if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
+
+44m ago
+
+---
+
+**[What’s your allocation in your retirement accounts?](https://www.reddit.com/r/Bitcoin/comments/1rmwjci/whats_your_allocation_in_your_retirement_accounts/)**
+
+I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
+
+3h ago
 
 ---
 
@@ -101,7 +117,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycles now. Psychologically, most BTC traders take it as inevitable which makes it a self-fulfilling prophecy. There are always “this time is different” arguments and at some point in the future, hopefully, BTC would mature to a point where there are no cycles, but why bet against the rule until it’s broken? (Noting this in response to people I’m seeing acting like a 10-15% jump means winter is over. It seems to me that we could not have a sustained rally until Q3 where some will try to front-run the historical Q4 rally. Obviously, DCAing at these levels is still great and who knows how low we’ll actually go this time.)
 
-8h ago
+9h ago
 
 ---
 
@@ -109,13 +125,13 @@ Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycle
 
 According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
 
-14h ago
+15h ago
 
 ---
 
-**[What’s your allocation in your retirement accounts?](https://www.reddit.com/r/Bitcoin/comments/1rmwjci/whats_your_allocation_in_your_retirement_accounts/)**
+**[Is there a marketplace for buying property with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rmy053/is_there_a_marketplace_for_buying_property_with/)**
 
-I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
+Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
 2h ago
 
@@ -125,15 +141,7 @@ I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thi
 
 A trader I know got completely burnt because of a 2% dip. If you are one of them, you are not alone. Just remember, don't leverage or take loan.
 
-17h ago
-
----
-
-**[Is there a marketplace for buying property with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rmy053/is_there_a_marketplace_for_buying_property_with/)**
-
-Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
-
-1h ago
+18h ago
 
 ---
 
@@ -141,15 +149,7 @@ Where can I find Bitcoin communities or platforms where real estate can be sold 
 
 Indiana Governor Mike Braun recently signed a bill that allows certain retirement funds in the state to invest in Bitcoin. This is interesting because it opens the door for public pension exposure to Bitcoin as part of a long term investment strategy. Retirement funds typically look for assets that can hold value over long periods of time, so the possibility of Bitcoin being included in those portfolios is something many investors have been watching for. Some analysts estimate that if retirement plans across the U.S. ever allocated even a small percentage of their portfolios to Bitcoin, the inflows could be significant. One projection suggested that a 1% allocation from similar retirement funds could represent roughly $120 billion entering the crypto market over time. Of course, it’s still unclear how much capital will actually move into Bitcoin through these retirement programs, but it does raise a broader question about how institutional and long term capital may interact with Bitcoin in the future. What do you think could retirement funds eventually become a meaningful source of demand for Bitcoin, or will allocations stay very small?
 
-22h ago
-
----
-
-**[How Bitcoin Works Under the Hood, explained 13 years ago](https://www.reddit.com/r/Bitcoin/comments/1rmexsq/how_bitcoin_works_under_the_hood_explained_13/)**
-
-I believe the video was created by u/scott_ci and it still explains how Bitcoin works, pretty well (except the address/public key mistake).
-
-🔗 [youtu.be](https://youtu.be/Lx9zgZCMqXE) • 14h ago
+23h ago
 
 ---
 
@@ -161,7 +161,23 @@ I believe the video was created by u/scott_ci and it still explains how Bitcoin 
 
 Bitcoin’s institutional era is officially here, but a stronger dollar and shifting interest rate expectations are keeping a lid on the latest rally.
 
-CoinDesk • 7h ago
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
+
+The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
+
+Fortune • 11h ago
+
+---
+
+**[2 Reasons to Buy Bitcoin Before June 2026](https://finance.yahoo.com/news/2-reasons-buy-bitcoin-june-102000936.html)**
+
+These two factors could dramatically change the way investors think about Bitcoin.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -169,15 +185,15 @@ CoinDesk • 7h ago
 
 Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
 
-Nasdaq • 20h ago
+Nasdaq • 21h ago
 
 ---
 
-**[Stock market today: Dow, S&P 500, Nasdaq rebound on hopes of Iran deescalation as bitcoin surges](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rebound-on-hopes-of-iran-deescalation-as-bitcoin-surges-210937794.html)**
+**[Jack Mallers' Strike scores BitLicense to offer New Yorkers bitcoin services](https://www.theblock.co/post/392650/jack-mallers-strike-scores-bitlicense-to-offer-new-yorkers-bitcoin-services)**
 
-Investors are weighing a NYT report that Iran has indirectly approached the US to discuss terms for ending the conflict.
+The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
 
-Yahoo Finance • 2d ago
+The Block • 15h ago
 
 ---
 
@@ -197,35 +213,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Billionaire Ray Dalio sends harsh warning on Bitcoin](https://www.thestreet.com/crypto/markets/billionaire-ray-dalio-sends-harsh-warning-on-bitcoin)**
+**[Are Bitcoin Critics Holding Price Back From $750,000? Ray Dalio’s Warning Is ‘Opportunity,' Says Bitwise Exec](https://www.ccn.com/news/crypto/are-bitcoin-price-critics-holding-it-back-from-750000-matt-hougan-ray-dalios-warning-opportunity/)**
 
-Dalio questions Bitcoin’s privacy, size, and safe-haven status.
+Ray Dalio warned of Bitcoin's limitations, while Bitwise CIO Matt Hougan says criticism highlights how Bitcoin's price could reach $750,000.
 
-thestreet.com • 3d ago
-
----
-
-**[Jack Mallers' Strike scores BitLicense to offer New Yorkers bitcoin services](https://www.theblock.co/post/392650/jack-mallers-strike-scores-bitlicense-to-offer-new-yorkers-bitcoin-services)**
-
-The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
-
-The Block • 14h ago
-
----
-
-**[The Secret Loophole Helping Iran Fire Missiles At Israel And US Without Going Broke](https://www.ndtv.com/world-news/the-secret-bitcoin-loophole-helping-iran-fire-missiles-at-israel-and-us-without-going-broke-11175328)**
-
-When Tehran legalized Bitcoin mining in 2019, officials framed it as an economic experiment. Analysts now say it evolved into something far more strategic: a sanctions resistant payment network.
-
-NDTV • 1d ago
-
----
-
-**[Why Leopold Aschenbrenner’s AI hedge fund is betting big on power companies and Bitcoin miners to fuel the AI boom](https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/)**
-
-New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
-
-Fortune • 1d ago
+CCN.com • 2d ago
 
 ---
 
@@ -233,7 +225,15 @@ Fortune • 1d ago
 
 With "safe" asset prices so high, cheaper and riskier assets look better than before.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
+
+---
+
+**[Food Lion manager stops elderly woman from losing $5K in bitcoin scam](https://www.wistv.com/2026/03/06/food-lion-manager-stops-elderly-woman-losing-5k-bitcoin-scam/)**
+
+A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
+
+WIS News 10 • 1d ago
 
 ---
 
@@ -325,7 +325,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 83 • ⏱️ 11:48 • 5h ago
+👁️ 20K • 👍 1K • 💬 83 • ⏱️ 11:48 • 6h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's 
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 664 • 💬 47 • ⏱️ 18:20 • 10h ago
+👁️ 15K • 👍 664 • 💬 47 • ⏱️ 18:20 • 11h ago
 
 ---
 
@@ -355,7 +355,7 @@ Blockchain.com CEO Peter Smith discusses digital asset regulation, crypto volati
 
 📺 Fox Business Clips
 
-👁️ 44K • 👍 1K • 💬 596 • ⏱️ 8:57 • 15h ago
+👁️ 44K • 👍 1K • 💬 596 • ⏱️ 8:57 • 16h ago
 
 ---
 
@@ -385,7 +385,7 @@ Is the crypto market reacting to a new era of global conflict? In today's video,
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 404 • 💬 31 • ⏱️ 1:19:59 • 11h ago
+👁️ 10K • 👍 404 • 💬 31 • ⏱️ 1:19:59 • 12h ago
 
 ---
 
@@ -405,7 +405,7 @@ Are you ready? Top-Tier Crypto Trading Starts Here Join the trading competition 
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 225 • 💬 31 • ⏱️ 15:32 • 9h ago
+👁️ 3K • 👍 225 • 💬 31 • ⏱️ 15:32 • 10h ago
 
 ---
 

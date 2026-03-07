@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T04:11:35.314386+00:00'
+updated: '2026-03-07T05:14:11.466644+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 04:11 UTC  
+**Last Updated:** March 07, 2026 at 05:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 4h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 5h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 11h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 12h ago
 
 ---
 
@@ -55,13 +55,13 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-18h ago
+19h ago
 
 ---
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -83,7 +83,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 12h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 13h ago
 
 ---
 
@@ -115,9 +115,9 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 ## Google News: "ai"
 
-**[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution.](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
+**[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution. - The New York Times](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -125,31 +125,29 @@ The New York Times • 18h ago
 
 The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
-**[Trump Secures AI Energy Pledges From Amazon, Microsoft And Other Big Tech, Calls Impact 'Tremendous'](https://www.yahoo.com/news/articles/trump-secures-ai-energy-pledges-033042002.html)**
+**[China Turns to AI as Jobseeker Numbers Top Belgium’s Population](https://www.bloomberg.com/news/articles/2026-03-07/china-turns-to-ai-as-jobseeker-numbers-top-belgium-s-population)**
 
-On Wednesday, the Donald Trump administration unveiled a voluntary agreement with major technology companies aimed at preventing artificial intelligence data centers from pushing electricity costs hig...
-
-Yahoo • 41m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[U.S. draws up strict AI guidelines amid Anthropic clash, FT reports](https://www.detroitnews.com/story/tech/2026/03/06/u-s-draws-up-strict-ai-guidelines-amid-anthropic-clash-ft-reports/89032017007/)**
+**[MSU computer science professor teaches use of AI combined with human knowledge](https://www.detroitnews.com/picture-gallery/media/photo/2026/03/06/msu-computer-science-professor-teaches-use-of-ai-combined-with-human-knowledge/88970833007/)**
 
-The Trump administration has drawn up strict rules for civilian artificial-intelligence contracts requiring companies to allow "any lawful" use of their models.
+MSU computer science professor teaches use of AI combined with human knowledge
 
-The Detroit News • 14m ago
+The Detroit News • 1h ago
 
 ---
 
-**[Questions over AI capability as tech guides Iran strikes](https://www.yahoo.com/news/articles/questions-over-ai-capability-tech-023756390.html)**
+**[Education official wants to leave AI regulation to the state](https://www.wvgazettemail.com/news/education-official-wants-to-leave-ai-regulation-to-the-state/article_aa9952b4-0d55-40e5-9337-ebbbc351c689.html)**
 
-The latest bout of fighting between the United States, Israel and Iran has seen AI deployed as never before to sift intelligence and select targets, although the technology's use in war remains hotly ...
+West Virginia Superintendent Michele L. Blatt told a U.S. House subcommittee that AI in K-12 classrooms should remain guided at the state level, highlighting WV’s flexible guidelines around the use of AI in its classrooms.
 
-Yahoo • 1h ago
+Charleston Gazette-Mail • 14m ago
 
 ---
 
@@ -157,7 +155,7 @@ Yahoo • 1h ago
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -165,7 +163,7 @@ Fortune • 11h ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 6h ago
+NPR • 7h ago
 
 ---
 
@@ -177,19 +175,19 @@ Anthropic • 1d ago
 
 ---
 
-**[Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)**
+**[Marvell stock surges 18% as CEO points to continuing AI demand: 'Do you see me blinking?'](https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html)**
 
-Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
+Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
 
-OpenAI • 1d ago
+CNBC • 12h ago
 
 ---
 
-**[Google joins Microsoft in telling users Anthropic is still available outside defense projects](https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html)**
+**[The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns](https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns)**
 
-Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.
+February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
 
-CNBC • 9h ago
+Fox Business • 11h ago
 
 ---
 
@@ -201,7 +199,7 @@ CNBC • 9h ago
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 396 • 💬 385 • 1d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 396 • 💬 385 • 2d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -209,13 +207,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 316 • 💬 534 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 318 • 💬 537 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 290 • 💬 107 • 1d ago • [406.fail](https://406.fail/)
+⬆️ 291 • 💬 107 • 1d ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -231,7 +229,7 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 The models are good now. But most people still miss the point.
 
-⬆️ 186 • 💬 302 • 18h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 188 • 💬 303 • 20h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -239,7 +237,7 @@ The models are good now. But most people still miss the point.
 
 Slopforks: what happens when a library gets rewritten with AI?
 
-⬆️ 173 • 💬 179 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+⬆️ 174 • 💬 179 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
 
 ---
 
@@ -285,7 +283,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 36K • 👍 2K • 💬 229 • ⏱️ 38:02 • 10h ago
+👁️ 36K • 👍 2K • 💬 229 • ⏱️ 38:02 • 11h ago
 
 ---
 
@@ -315,7 +313,7 @@ Try Higgsfield's new audio models and voice cloning ...
 
 📺 Malva AI
 
-👁️ 3K • 👍 237 • 💬 62 • ⏱️ 10:04 • 16h ago
+👁️ 3K • 👍 237 • 💬 62 • ⏱️ 10:04 • 17h ago
 
 ---
 
@@ -325,7 +323,7 @@ Abundance or Collapse: https://a.co/d/0eyVEdQD Rebellionaire: https://www.rebell
 
 📺 Farzad
 
-👁️ 9K • 👍 420 • 💬 106 • ⏱️ 58:49 • 15h ago
+👁️ 9K • 👍 420 • 💬 106 • ⏱️ 58:49 • 16h ago
 
 ---
 
@@ -345,7 +343,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 22K • 👍 711 • 💬 144 • ⏱️ 21:16 • 6h ago
+👁️ 22K • 👍 711 • 💬 144 • ⏱️ 21:16 • 7h ago
 
 ---
 
@@ -355,7 +353,7 @@ Here's the NEW Way to Create Long 3D AI Animation with Consistent Characters AI 
 
 📺 Mira AI
 
-👁️ 6K • 💬 9 • ⏱️ 9:10 • 15h ago
+👁️ 6K • 💬 9 • ⏱️ 9:10 • 16h ago
 
 ---
 
@@ -647,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.0k • 🔱 3.1k • 2h ago
+⭐ 24.0k • 🔱 3.1k • 3h ago
 
 ---
 
@@ -657,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.4k • 🔱 499 • 2h ago
+⭐ 14.4k • 🔱 499 • 3h ago
 
 ---
 
@@ -667,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.1k • 🔱 1.0k • 13h ago
+⭐ 9.1k • 🔱 1.0k • 14h ago
 
 ---
 
@@ -687,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.5k • 🔱 485 • 10h ago
+⭐ 6.5k • 🔱 485 • 11h ago
 
 ---
 
@@ -697,7 +695,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 679 • 9m ago
+⭐ 5.8k • 🔱 679 • 1h ago
 
 ---
 
@@ -717,7 +715,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 384 • 19m ago
+⭐ 3.5k • 🔱 384 • 1h ago
 
 ---
 
@@ -727,7 +725,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 241 • 35m ago
+⭐ 3.3k • 🔱 241 • 1h ago
 
 ---
 
