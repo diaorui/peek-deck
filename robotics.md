@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T18:35:56.652332+00:00'
+updated: '2026-03-07T19:22:48.282619+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 18:35 UTC  
+**Last Updated:** March 07, 2026 at 19:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-21h ago
+22h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 I am building a project named gesture controlled rover which can be controlled by gesture of hands but there were a lot of problems came in project while building but completed half but now I have to control it through mpu6050 sensor and also from mobile by ESP32, while building the project I also destroyed one Arduino Nano and one Arduino Uno and the remaining items are -l298n motor driver -mpu6050 sensor -li ion batteries -nrf24l01 with adapter -car chassis (home made) -Esp32 - Arduino nano
 
-5h ago
+6h ago
 
 ---
 
@@ -72,7 +72,7 @@ I am building a project named gesture controlled rover which can be controlled b
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-14h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 Thought this was pretty interesting and never even thought there'd be a of a record for something like this. I wonder if someone will try to out do this soon.
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Thought this was pretty interesting and never even thought there'd be a of a rec
 
 Hi everyone, I am a data systems architect and backend engineer, wanted to learn about robotics and how I can leverage my experience in this field. Can anyone help me with it?
 
-4h ago
+5h ago
 
 ---
 
@@ -138,7 +138,7 @@ Fox Business • 2d ago
 
 Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Yahoo • 52m ago
+Yahoo • 1h ago
 
 ---
 
@@ -166,7 +166,7 @@ the wellsville sun • 1d ago
 
 Boeing builds expensive airplanes -- but very affordable drone ships for the military.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -214,7 +214,7 @@ At the world's largest mobile show, companies from around the globe take their b
 
 📺 CNET
 
-👁️ 5K • 👍 269 • 💬 7 • ⏱️ 4:13 • 5h ago
+👁️ 5K • 👍 269 • 💬 7 • ⏱️ 4:13 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ War Robots Gameplay: NEW Sniper Titan WAYMAKER is coming to WR. Here's my new Yo
 
 📺 Manni-Gaming
 
-👁️ 11K • 👍 622 • 💬 162 • ⏱️ 15:49 • 7h ago
+👁️ 11K • 👍 622 • 💬 162 • ⏱️ 15:49 • 8h ago
 
 ---
 
