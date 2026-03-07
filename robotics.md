@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T14:25:39.286273+00:00'
+updated: '2026-03-07T14:49:39.713260+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 14:25 UTC  
+**Last Updated:** March 07, 2026 at 14:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-17h ago
+18h ago
 
 ---
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 **[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ I am building a project named gesture controlled rover which can be controlled b
 
 I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
 
-22h ago
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ Sorry if this isn’t the place to post this since it’s really a hobby project
 
 Hi everyone, I am a data systems architect and backend engineer, wanted to learn about robotics and how I can leverage my experience in this field. Can anyone help me with it?
 
-37m ago
+1h ago
 
 ---
 
@@ -138,7 +138,7 @@ Fox Business • 1d ago
 
 Agility Robotics is rebranding, saying the new company name reflects its readiness to scale deployments and lead humanoid adoption.
 
-The Robot Report • 20m ago
+The Robot Report • 44m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T14:25:39.277046+00:00'
+updated: '2026-03-07T14:49:39.704014+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 14:25 UTC  
+**Last Updated:** March 07, 2026 at 14:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-9h ago
+10h ago
 
 ---
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transaction
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-18h ago
+19h ago
 
 ---
 
@@ -133,7 +133,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 Yesterday I went shopping with my family, and what can I say? Shopping used to be pure fun and a feeling of satisfaction after a purchase, but now it's just a lot of thoughtful pondering about whether you really need it… I think it will still be a while before Bitcoin changes us all, but I can already see that it's having some kind of impact on our lives.
 
-3h ago
+4h ago
 
 ---
 
@@ -149,7 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
 
-12h ago
+13h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Block • 1d ago
 
 **[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bloomberg.com • 17h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 50m ago
+Polymarket • 1h ago
 
 ---
 
@@ -243,7 +243,7 @@ The Motley Fool • 14h ago
 
 Email where senders pay satoshis for your attention. Spam dies when it costs money.
 
-⬆️ 30 • 💬 52 • 3h ago • [tanstaafl.email](https://tanstaafl.email)
+⬆️ 30 • 💬 52 • 4h ago • [tanstaafl.email](https://tanstaafl.email)
 
 ---
 
@@ -273,7 +273,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 Complete operating system for Bitcoiners
 
-⬆️ 2 • 💬 1 • 2d ago • [opacore.com](https://opacore.com)
+⬆️ 2 • 💬 1 • 3d ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -323,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 118 • ⏱️ 11:48 • 15h ago
+👁️ 38K • 👍 2K • 💬 118 • ⏱️ 11:48 • 16h ago
 
 ---
 

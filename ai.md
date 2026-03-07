@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T14:25:39.268573+00:00'
+updated: '2026-03-07T14:49:39.695585+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 14:25 UTC  
+**Last Updated:** March 07, 2026 at 14:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 2h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 3h ago
 
 ---
 
@@ -55,7 +55,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 21h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 22h ago
 
 ---
 
@@ -69,7 +69,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -91,7 +91,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 22h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 23h ago
 
 ---
 
@@ -119,7 +119,7 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -141,13 +141,13 @@ The New York Times • 1d ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 16h ago
+NPR • 17h ago
 
 ---
 
 **[7 danger moments that show AI's darker side](https://www.axios.com/2026/03/07/ai-danger-risks-study-research-backlash)**
 
-Axios • 43m ago
+Axios • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Axios • 43m ago
 
 A dispatch from inside NYC’s ClawCon, where hundreds of OpenClaw and AI aficionados gathered.
 
-The Verge • 25m ago
+The Verge • 49m ago
 
 ---
 
@@ -171,7 +171,7 @@ MIT Technology Review • 19h ago
 
 Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
 
-The Guardian • 25m ago
+The Guardian • 49m ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 1d ago
 
 The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
@@ -329,7 +329,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 36K • 👍 932 • 💬 192 • ⏱️ 21:16 • 16h ago
+👁️ 36K • 👍 932 • 💬 192 • ⏱️ 21:16 • 17h ago
 
 ---
 
@@ -421,7 +421,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 119,290 • ❤️ 298 • 1d ago
+⬇️ 119,290 • ❤️ 298 • 2d ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.2k • 🔱 3.1k • 2m ago
+⭐ 24.2k • 🔱 3.1k • 26m ago
 
 ---
 
@@ -651,7 +651,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.9k • 🔱 530 • 12h ago
+⭐ 14.9k • 🔱 530 • 13h ago
 
 ---
 
@@ -661,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.3k • 🔱 1.0k • 36m ago
+⭐ 9.3k • 🔱 1.0k • 1h ago
 
 ---
 
@@ -711,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 386 • 2h ago
+⭐ 3.6k • 🔱 386 • 3h ago
 
 ---
 
@@ -721,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 245 • 1h ago
+⭐ 3.4k • 🔱 245 • 2h ago
 
 ---
 
