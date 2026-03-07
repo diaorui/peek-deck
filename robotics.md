@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T10:49:19.602175+00:00'
+updated: '2026-03-07T11:21:16.834584+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 10:49 UTC  
+**Last Updated:** March 07, 2026 at 11:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,6 +52,14 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 ---
 
+**[Mistral AI tease Robostral WMa1 (work-in-progress)](https://www.reddit.com/r/robotics/comments/1rn6kkp/mistral_ai_tease_robostral_wma1_workinprogress/)**
+
+From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
+
+1h ago
+
+---
+
 **[RIVR unveils RIVR TWO, their own next-generation robot designed for doorstep delivery and AI data collection at scale](https://www.reddit.com/r/robotics/comments/1rmzj14/rivr_unveils_rivr_two_their_own_nextgeneration/)**
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
@@ -72,13 +80,13 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 Sorry if this isn’t the place to post this since it’s really a hobby project and this feels more like a simple blog post. I just figured I’d share it since I had spent time working on it. I suppose there are 3 main reasons why I scrapped it. I made the mistake of designing from the base upward as opposed to from the end-effector downward which led to a loss in desired elegance of the design itself. I also decided that I want to implement 6DOFs instead of just 4. On top of that, I decided to try my hand at accomplishing remote cable transmission for all DOFs aside from the base rotation. I’ve already finished designing the 6DOF arm, I just haven’t assembled it yet. Anyways, here’s a brief overview of the mechanical design. The base is essentially just a turn-table bearing system with 5 bearings between the top and bottom traces. The shoulder transmission is just direct mounting. Elbow transmission is via bevel gears to keep weight closer to the output shaft of the shoulder joint’s motor. The wrist transmission is via capstan antagonistic cabling. Then I have a lever at the end of the 3rd link after the wrist for my desired end-effector function utilizing capstan antagonistic cable transmission as well. I decided to scrap it before finishing the end-effector though. The new design focuses on complete remote transmission via capstan antagonistic cables in conjunction with Bowden cable sheaths used for the 3DOFs I have decoupled at the wrist joint. Again, sorry if this isn’t the place for this as this is something of a blog post more than anything. But I’m hoping this may intrigue someone. Also, I probably will design a proper shell at some point but I have a mini 3D printer and tbh I like seeing everything move.
 
-16h ago
+17h ago
 
 ---
 
 **[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -94,15 +102,7 @@ I've had multiple iRobots and they were total junk...There is ALWAYS an error...
 
 I built a SLAM simulator in Rust where you can see EKF-SLAM and FastSLAM running at the same time. I deployed it to the web, so you can place obstructions and landmarks and compare the two algorithms. Live Demo: https://slam.pramodna.com/ Github: https://github.com/7673502/2D-SLAM-Simulator
 
-13h ago
-
----
-
-**[small DIY 6 axis robot arm belt drive on the way](https://www.reddit.com/r/robotics/comments/1rmyxsg/small_diy_6_axis_robot_arm_belt_drive_on_the_way/)**
-
-Current state of the build: 50% conceptualized, 80% inspired by other robots, and 75% properly dimensioned. I'm basically mashing up a few different designs to see what sticks. Got the first 3 axis figured out so far, but still a long way to go on the 'actual engineering' side of things. https://preview.redd.it/5fbj5ithqjng1.png?width=870&format=png&auto=webp&s=a226c409c3af9274f8efb782f34f989c8cd783a0 https://preview.redd.it/j07eyhthqjng1.png?width=417&format=png&auto=webp&s=246022e6fcc6e79fe7e9afc85ff70859ac75b3a4 https://preview.redd.it/28nzgithqjng1.png?width=869&format=png&auto=webp&s=5604db58629e23aca4f9503614d231201f801b7f https://preview.redd.it/syr4githqjng1.png?width=516&format=png&auto=webp&s=79581300b8624917e159669bb70ba6e6a33a29b3
-
-7h ago
+14h ago
 
 ---
 
@@ -134,7 +134,7 @@ Fox Business • 1d ago
 
 ---
 
-**[Humanoid robots master parkour and acquire human-like agility](https://techxplore.com/news/2026-03-humanoid-robots-master-parkour-human.html)**
+**[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
 
 Tech Xplore • 1d ago
 
@@ -152,6 +152,14 @@ New Haven Register • 1d ago
 
 ---
 
+**[Biodegradable yet hyperdurable robotic fingers for zero-waste soft electronics](https://www.nature.com/articles/s41893-026-01780-4)**
+
+As soft electronic waste becomes an urgent concern, biodegradable yet high-performance devices are emerging as a promising solution. Here the authors fabricate durable and multifunctional soft robotic fingers in which both polymers and inorganic electronics are fully compostable.
+
+Nature • 2d ago
+
+---
+
 **[Prediction: AI Robotics Will Be a $375 Billion Industry. This Stock Is Positioned to Win in 2026.](https://www.fool.com/investing/2026/03/05/prediction-ai-robotics-will-be-a-375-billion-indus/)**
 
 When all is said and done, practicality trumps technological "wow!"
@@ -160,11 +168,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Biodegradable yet hyperdurable robotic fingers for zero-waste soft electronics](https://www.nature.com/articles/s41893-026-01780-4)**
+**[Humanoid robots learn parkour maneuvers from human motion recordings](https://interestingengineering.com/ai-robotics/us-humanoid-robots-learns-tough-parkour-skills)**
 
-As soft electronic waste becomes an urgent concern, biodegradable yet high-performance devices are emerging as a promising solution. Here the authors fabricate durable and multifunctional soft robotic fingers in which both polymers and inorganic electronics are fully compostable.
+Humanoid robots learn parkour using a new AI framework, enabling them to navigate obstacles with human-like agility in complex environments.
 
-Nature • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -172,13 +180,7 @@ Nature • 1d ago
 
 NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
 
-the wellsville sun • 21h ago
-
----
-
-**[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
-
-Investor's Business Daily • 21h ago
+the wellsville sun • 22h ago
 
 ---
 
@@ -270,7 +272,7 @@ This video is supported by Kettering University: Accepted @KetteringUniversity19
 
 📺 Planet Roomba
 
-👁️ 6K • 💬 5 • ⏱️ 21:32 • 21h ago
+👁️ 6K • 💬 5 • ⏱️ 21:32 • 22h ago
 
 ---
 

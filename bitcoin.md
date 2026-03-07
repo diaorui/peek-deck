@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T10:49:19.592985+00:00'
+updated: '2026-03-07T11:21:16.825406+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 10:49 UTC  
+**Last Updated:** March 07, 2026 at 11:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.6%  
-**7d:** +3.5%  
-**30d:** -3.6%  
-**90d:** -25.1%  
-**1y:** -21.1%  
+**24h:** -2.4%  
+**7d:** +3.8%  
+**30d:** -3.4%  
+**90d:** -24.9%  
+**1y:** -20.9%  
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
-
-17h ago
-
----
-
 **[those who bought the top](https://www.reddit.com/r/Bitcoin/comments/1rn0cm7/those_who_bought_the_top/)**
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
@@ -91,17 +85,23 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 ---
 
+**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
+
+17h ago
+
+---
+
 **[I finally started my first bitcoin investment.](https://www.reddit.com/r/Bitcoin/comments/1rn16yb/i_finally_started_my_first_bitcoin_investment/)**
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-5h ago
+6h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -117,7 +117,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
 
-1h ago
+2h ago
 
 ---
 
@@ -129,19 +129,19 @@ I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thi
 
 ---
 
+**[Daily Discussion, March 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1rn293r/daily_discussion_march_07_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+5h ago
+
+---
+
 **[Is there a marketplace for buying property with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rmy053/is_there_a_marketplace_for_buying_property_with/)**
 
 Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
 8h ago
-
----
-
-**[Daily Discussion, March 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1rn293r/daily_discussion_march_07_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-4h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 5h ago
 
 The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -175,15 +175,15 @@ Fortune • 16h ago
 
 Investors viewed Bitcoin as a hedge against market risk, but the cryptocurrency has proven highly volatile.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Bitcoin slips below $68,000 heading into the weekend as dollar posts steepest weekly gain in a year](https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year)**
+**[Bitcoin Needs a Monster Rally to Hit $150,000 by December -- and Prediction Markets See Only an 11% Shot](https://www.nasdaq.com/articles/bitcoin-needs-monster-rally-hit-150000-december-and-prediction-markets-see-only-11-shot)**
 
-Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
+Key PointsPrediction markets are a useful tool in gauging the odds of a future event.
 
-CoinDesk • 4h ago
+Nasdaq • 2h ago
 
 ---
 
@@ -195,14 +195,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Better Cryptocurrency to Buy and Hold for 10 Years or More: Bitcoin vs. Cardano](https://www.nasdaq.com/articles/better-cryptocurrency-buy-and-hold-10-years-or-more-bitcoin-vs-cardano)**
-
-Key PointsBitcoin isn't about to gain a lot of new features over the next 10 years.
-
-Nasdaq • 1d ago
-
----
-
 **[Jack Mallers' Strike scores BitLicense to offer New Yorkers bitcoin services](https://www.theblock.co/post/392650/jack-mallers-strike-scores-bitlicense-to-offer-new-yorkers-bitcoin-services)**
 
 The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
@@ -211,11 +203,9 @@ The Block • 21h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772873700)**
+**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 14h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -224,6 +214,14 @@ Polymarket • 14h ago
 A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
 WIS News 10 • 1d ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772874600)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2d ago
 
 ---
 
@@ -238,6 +236,14 @@ CBC • 1d ago
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning](https://news.ycombinator.com/item?id=47286300)**
+
+Email where senders pay satoshis for your attention. Spam dies when it costs money.
+
+⬆️ 15 • 💬 14 • 53m ago • [tanstaafl.email](https://tanstaafl.email)
+
+---
 
 **[Mt. Gox CEO Suggests Bitcoin Hard Fork to Recover $5B in Customer Funds](https://news.ycombinator.com/item?id=47205894)**
 
@@ -305,14 +311,6 @@ A portable encrypted USB vault with a dead man's switch. Your passwords, financi
 
 ---
 
-**[BTC miners pivoting towards AI](https://news.ycombinator.com/item?id=47235235)**
-
-Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin treasuries to AI infrastructure.
-
-⬆️ 4 • 💬 1 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/03/end-of-bitcoin-hodl-public-miners-going-all-in-on-ai-signaling-more-btc-selling)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -333,7 +331,7 @@ Are you ready? Top-Tier Crypto Trading Starts Here Join the trading competition 
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 243 • 💬 33 • ⏱️ 15:32 • 15h ago
+👁️ 4K • 👍 243 • 💬 33 • ⏱️ 15:32 • 16h ago
 
 ---
 
@@ -343,7 +341,7 @@ Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talki
 
 📺 BTC Isla
 
-👁️ 6K • 👍 726 • 💬 103 • ⏱️ 11:28 • 18h ago
+👁️ 6K • 👍 726 • 💬 103 • ⏱️ 11:28 • 19h ago
 
 ---
 
@@ -393,7 +391,7 @@ Banks are stalling the CLARITY Act because Bitcoin adoption threatens the only t
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 115 • ⏱️ 11:43 • 20h ago
+👁️ 20K • 👍 1K • 💬 115 • ⏱️ 11:43 • 21h ago
 
 ---
 
@@ -413,7 +411,7 @@ Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's 
 
 📺 Coin Bureau
 
-👁️ 19K • 👍 753 • 💬 51 • ⏱️ 18:20 • 16h ago
+👁️ 19K • 👍 753 • 💬 51 • ⏱️ 18:20 • 17h ago
 
 ---
 

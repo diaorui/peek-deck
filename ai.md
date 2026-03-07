@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T10:49:19.584530+00:00'
+updated: '2026-03-07T11:21:16.816977+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- news
 - repositories
 - videos
-- news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 10:49 UTC  
+**Last Updated:** March 07, 2026 at 11:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 10h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 11h ago
 
 ---
 
@@ -63,7 +63,7 @@ Send a dm to enquire, thats all I can say. I'll tell you about it in dms. You ne
 
 I've been thinking about why we build AI agent systems with deterministic orchestration when agents themselves are fundamentally probabilistic. They hallucinate. They fail unpredictably. But we manage them with rigid pipelines and single points of failure. Brains don't work that way. Neurons are wildly unreliable — synapses have a 10-40% transmission rate, cells die daily — yet the architecture produces extraordinary reliability through redundancy, population coding, and connections that strengthen with use. So I built ProbOS — a working prototype of a brain-inspired agent runtime where: - Every file operation is performed by 3 agents independently, verified through quorum consensus - Agents self-select for tasks via capability broadcasting (no central dispatcher) - Adversarial red team agents verify every write operation - Trust scores update via Bayesian inference (Beta distribution) - Routing weights evolve through Hebbian learning — the system literally rewires itself based on what works - An LLM serves as the cognitive layer, decomposing natural language into task DAGs that execute across the agent mesh - When agents fail, the population absorbs it and spawns replacements — no crash state, just reduced capability The stack is Python 3.12 + asyncio, with 5 architectural layers (substrate, mesh, consensus, cognitive, experience), 277 tests passing, 10 agents across 4 pools. In the video I boot it, talk to it in plain English, read and write files through the full consensus pipeline, and show the trust scores and Hebbian weights evolving in real time. The individual pieces exist in literature (multi-agent consensus, Hebbian routing in swarms, brain-inspired computing) but as far as I can find, nobody has wired them together into a working system with an LLM cognitive layer you can interact with. Happy to answer questions about the architecture, the design tradeoffs, or where it breaks down. There's a lot that's still naive — the attention mechanism isn't built yet, episodic memory isn't implemented, and the agent type coverage is minimal (just file operations). But the core paradigm works. https://youtu.be/I3vqHDY04aY
 
-2h ago
+3h ago
 
 ---
 
@@ -115,28 +115,6 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 ## Google News: "ai"
 
-**[AI-generated Iran war videos surge as creators use new tech to cash in](https://www.bbc.com/news/articles/ckg8wvz427vo)**
-
-The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
-
-BBC • 10h ago
-
----
-
-**[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution. - The New York Times](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Henry Blodget on the Software Selloff Hysteria and the Problem for OpenAI](https://www.bloomberg.com/news/articles/2026-03-07/henry-blodget-on-ai-hysteria-software-and-bubbles)**
-
-How AI will affect both media and software.
-
-Bloomberg.com • 1h ago
-
----
-
 **[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
@@ -145,11 +123,11 @@ Fortune • 18h ago
 
 ---
 
-**[Hundreds of applications, no jobs and AI competition: California's brutal tech work landscape](https://www.latimes.com/business/story/2026-03-06/tech-layoffs-pile-up-as-sllicon-valley-shakeout-continues-into-2026)**
+**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
 
-Thousands of tech workers have already lost their jobs this year and leaders at some companies say AI will enable employers to do more with smaller teams.
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Los Angeles Times • 23h ago
+Anthropic • 1d ago
 
 ---
 
@@ -157,7 +135,39 @@ Los Angeles Times • 23h ago
 
 Is AI taking jobs? Or are companies cutting jobs to pay for the enormous capex outlays on AI?
 
-Fortune • 1h ago
+Fortune • 2h ago
+
+---
+
+**[Gen Z is using AI to navigate social situations](https://www.cnn.com/2026/03/07/health/gen-z-ai-conversations-wellness)**
+
+Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
+
+CNN • 20m ago
+
+---
+
+**[I work at Google and saw AI change the tech industry. Here's how I upskilled and made a 'future-defining' career pivot.](https://www.businessinsider.com/ai-disrupting-tech-industry-career-pivot-google-2026-3)**
+
+A Google engineer noticed that clients were mentioning AI more often. She up-skilled even though she was nervous, and said it paid off.
+
+Business Insider • 1h ago
+
+---
+
+**[Henry Blodget on the Software Selloff Hysteria and the Problem for OpenAI](https://www.bloomberg.com/news/articles/2026-03-07/henry-blodget-on-ai-hysteria-software-and-bubbles)**
+
+How AI will affect both media and software.
+
+Bloomberg.com • 2h ago
+
+---
+
+**[The Guardian view on AI in war: the Iran conflict shows that the paradigm shift has already begun](https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun)**
+
+Editorial: The intensified use of artificial intelligence, and rows over its control, demonstrate the need for democratic oversight and multilateral controls
+
+The Guardian • 17h ago
 
 ---
 
@@ -169,23 +179,19 @@ NPR • 13h ago
 
 ---
 
+**[The Hidden Advantage of Being Over 50 in the Age of AI](https://www.inc.com/joel-comm/the-hidden-advantage-of-being-over-50-in-the-age-of-ai/91312602)**
+
+Feeling behind on AI? Veteran leaders may actually have the advantage. Here’s why judgment, pattern recognition, and experience outperform speed in the AI era.
+
+inc.com • 1d ago
+
+---
+
 **[Marvell stock surges 18% as CEO points to continuing AI demand: 'Do you see me blinking?'](https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html)**
 
 Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
 
 CNBC • 18h ago
-
----
-
-**[Calif. lawsuit accuses Meta of sending nude video from AI glasses to workers](https://www.sfgate.com/tech/article/meta-ai-glasses-lawsuit-21960004.php)**
-
-SFGATE • 10h ago
-
----
-
-**[Exclusive | Anthropic’s AI Hacked the Firefox Browser. It Found a Lot of Bugs.](https://www.wsj.com/tech/ai/send-us-more-anthropics-claude-sniffs-out-bevy-of-bugs-c6822075?gaa_at=eafs&gaa_n=AWEtsqcTC_PhxrofX9mYxILoscu3wV-B1_ftNZrEQE3p3OTDwPG6xUZnZnsN&gaa_ts=69abf911&gaa_sig=Am-P7wHQKqk4ZcabY-hiSFO4DGoLTGS0wwP3BYXvUqFYXhAClR8SLI3_XAlU1_T1GkU10Kbp55YmJhbCnp2Crg%3D%3D)**
-
-WSJ • 1d ago
 
 ---
 
@@ -205,13 +211,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 321 • 💬 544 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 322 • 💬 544 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 296 • 💬 109 • 1d ago • [406.fail](https://406.fail/)
+⬆️ 297 • 💬 110 • 1d ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -219,7 +225,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 198 • 💬 313 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 199 • 💬 315 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -235,7 +241,7 @@ The case is the first wrongful death case against Google over alleged harms caus
 
 Slopforks: what happens when a library gets rewritten with AI?
 
-⬆️ 177 • 💬 181 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+⬆️ 177 • 💬 182 • 1d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
 
 ---
 
@@ -311,7 +317,7 @@ Artificial intelligence is already changing the job market and the classroom, wi
 
 📺 NBC News
 
-👁️ 2K • 👍 24 • 💬 7 • ⏱️ 3:50 • 10h ago
+👁️ 2K • 👍 24 • 💬 7 • ⏱️ 3:50 • 11h ago
 
 ---
 
@@ -371,7 +377,7 @@ Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator M
 
 📺 Creator Magic
 
-👁️ 20K • 👍 700 • 💬 66 • ⏱️ 8:17 • 21h ago
+👁️ 20K • 👍 700 • 💬 66 • ⏱️ 8:17 • 22h ago
 
 ---
 
@@ -643,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.1k • 🔱 3.1k • 1h ago
+⭐ 24.1k • 🔱 3.1k • 2h ago
 
 ---
 
@@ -663,7 +669,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.2k • 🔱 1.0k • 19h ago
+⭐ 9.2k • 🔱 1.0k • 20h ago
 
 ---
 
@@ -683,7 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.6k • 🔱 493 • 5h ago
+⭐ 6.6k • 🔱 493 • 6h ago
 
 ---
 
@@ -693,7 +699,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 683 • 6h ago
+⭐ 5.8k • 🔱 683 • 7h ago
 
 ---
 
