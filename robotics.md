@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T16:53:48.673457+00:00'
+updated: '2026-03-07T17:22:31.986681+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 16:53 UTC  
+**Last Updated:** March 07, 2026 at 17:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-6h ago
+7h ago
 
 ---
 
@@ -72,7 +72,7 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 I am building a project named gesture controlled rover which can be controlled by gesture of hands but there were a lot of problems came in project while building but completed half but now I have to control it through mpu6050 sensor and also from mobile by ESP32, while building the project I also destroyed one Arduino Nano and one Arduino Uno and the remaining items are -l298n motor driver -mpu6050 sensor -li ion batteries -nrf24l01 with adapter -car chassis (home made) -Esp32 - Arduino nano
 
-3h ago
+4h ago
 
 ---
 
@@ -136,7 +136,7 @@ Fox Business • 1d ago
 
 **[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
 
-Tech Xplore • 1d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -144,7 +144,7 @@ Tech Xplore • 1d ago
 
 U.S. officials have released draft rules that would introduce tiered export controls on AI chips, aiming to tighten oversight of advanced processors shipped to certain markets. Qualcomm (NasdaqGS:QCOM) has joined other chipmakers in pushing back on the proposals, arguing the measures could affect access to key international customers and slow AI adoption. At the same time, Qualcomm is promoting its new Dragonwing processor for robotics, highlighting plans to grow beyond smartphones into AI...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T16:53:48.664179+00:00'
+updated: '2026-03-07T17:22:31.977418+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 16:53 UTC  
+**Last Updated:** March 07, 2026 at 17:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transaction
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-11h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hey guys I am considering buying bitcoin as part of a diversification effort. I 
 
 recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ recently found the passkey for a wallet i created in 2017, used to have BRD wall
 
 Hey all, Just set up my Trezor and getting ready to purchase my first bitcoin. There's an option to purchase right through the App, but when I started to look into that I noticed a fee (1.99 processing costs + a Trezor suite fee of 1%). Can I avoid this 1% to Trezor if I just buy off an exchange?
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hey all, Just set up my Trezor and getting ready to purchase my first bitcoin. T
 
 So pay atention to this new information about the bitcoin supply
 
-18h ago
+19h ago
 
 ---
 
@@ -161,7 +161,7 @@ If you had $1,000 in spare cash right now, would you spend it now, or buy Bitcoi
 
 Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -177,7 +177,7 @@ Nasdaq • 1d ago
 
 Bitcoin nearly touched $74,000 this week. But it’s now trading below $70,000. Volatility has returned to crypto markets following the US-Israel attack on Iran.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1h ago
 
 The executive order to build President Donald Trump's Strategic Bitcoin Reserve has awaited congressional action, and sources say there's one idea left for 2026.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 1h ago
 
 The idea that bitcoin holds value when everything else falls has taken a serious beating this cycle
 
-Yahoo! Finance Canada • 48m ago
+Yahoo! Finance Canada • 1h ago
 
 ---
 
@@ -333,7 +333,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 171 • 💬 54 • ⏱️ 16:15 • 11h ago
+👁️ 3K • 👍 171 • 💬 54 • ⏱️ 16:15 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 4K • 👍 531 • 💬 13 • ⏱️ 59:14 • 2h ago
+👁️ 4K • 👍 531 • 💬 13 • ⏱️ 59:14 • 3h ago
 
 ---
 
@@ -371,7 +371,7 @@ Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talki
 
 📺 Andrei Jikh
 
-👁️ 42K • 👍 1K • 💬 28 • ⏱️ 1:12 • 23h ago
+👁️ 42K • 👍 1K • 💬 28 • ⏱️ 1:12 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T16:53:48.655683+00:00'
+updated: '2026-03-07T17:22:31.968710+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - social
 - news
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 16:53 UTC  
+**Last Updated:** March 07, 2026 at 17:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 16h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 17h ago
 
 ---
 
@@ -55,7 +55,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 On China's e-commerce platforms like taobao, remote installs were being quoted anywhere from a few dollars to a few hundred RMB, with many around the 100–200 RMB range. In-person installs were often around 500 RMB, and some sellers were quoting absurd prices way above that, which tells you how chaotic the market is. But, these installers are really receiving lots of orders, according to publicly visible data on taobao. Who are the installers? According to Rockhazix, a famous AI content creator in China, who called one of these services, the installer was not a technical professional. He just learnt how to install it by himself online, saw the market, gave it a try, and earned a lot of money. Does the installer use OpenClaw a lot? He said barely, coz there really isn't a high-frequency scenario. (Does this remind you of your university career advisors who have never actually applied for highly competitive jobs themselves?) Who are the buyers? According to the installer, most are white-collar professionals, who face very high workplace competitions (common in China), very demanding bosses (who keep saying use AI), & the fear of being replaced by AI. They hoping to catch up with the trend and boost productivity. They are like:“I may not fully understand this yet, but I can’t afford to be the person who missed it.” How many would have thought that the biggest driving force of AI Agent adoption was not a killer app, but anxiety, status pressure, and information asymmetry? P.S. A lot of these installers use the DeepSeek logo as their profile pic on e-commerce platforms. Probably due to China's firewall and media environment, deepseek is, for many people outside the AI community, a symbol of the latest AI technology (another case of information asymmetry).
 
-12m ago
+41m ago
 
 ---
 
@@ -131,7 +131,7 @@ Lawfare • 18h ago
 
 **[Stablecoin Firms Bet Big on AI Agent Payments That Barely Exist](https://www.bloomberg.com/news/articles/2026-03-07/stablecoin-firms-bet-big-on-ai-agent-payments-that-barely-exist)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -147,19 +147,19 @@ NPR • 19h ago
 
 Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[AI leaders are coming after the political opposition](https://www.politico.com/newsletters/politico-weekend/2026/03/07/ai-leaders-are-coming-after-the-political-opposition-00818039)**
 
-Politico • 9m ago
+Politico • 38m ago
 
 ---
 
 **[Plug Power Plans Hydrogen Offering in Top US Power-Grid Auction](https://www.bloomberg.com/news/articles/2026-03-07/plug-power-plans-hydrogen-offering-in-top-us-power-grid-auction?srnd=phx-green)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -285,7 +285,7 @@ Artificial intelligence is already changing the job market and the classroom, wi
 
 📺 NBC News
 
-👁️ 3K • 👍 27 • 💬 11 • ⏱️ 3:50 • 16h ago
+👁️ 3K • 👍 27 • 💬 11 • ⏱️ 3:50 • 17h ago
 
 ---
 
@@ -325,7 +325,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 60K • 👍 5K • 💬 1K • ⏱️ 27:07 • 18h ago
+👁️ 60K • 👍 5K • 💬 1K • ⏱️ 27:07 • 19h ago
 
 ---
 
@@ -637,7 +637,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.2k • 🔱 3.1k • 45m ago
+⭐ 24.2k • 🔱 3.1k • 1h ago
 
 ---
 
@@ -667,7 +667,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.8k • 🔱 501 • 11h ago
+⭐ 6.8k • 🔱 501 • 12h ago
 
 ---
 
@@ -687,7 +687,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 691 • 4h ago
+⭐ 5.8k • 🔱 691 • 5h ago
 
 ---
 
