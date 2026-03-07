@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-07T17:46:20.753150+00:00'
+updated: '2026-03-07T18:35:56.649095+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 17:46 UTC  
+**Last Updated:** March 07, 2026 at 18:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.0%  
-**30d:** -4.2%  
-**90d:** -36.7%  
-**1y:** -10.2%  
+**24h:** -0.7%  
+**7d:** +1.7%  
+**30d:** -4.5%  
+**90d:** -36.9%  
+**1y:** -10.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.62B
+**Market Cap:** $238.07B
 Rank #2
 
 **Circulating Supply:** 120,692,062 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.0%
+-60.1%
 
 **All-Time Low:** $0.43
-+456550.3%
++455240.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Yesterday I posted about verifying Vitalik's first token contract and got a great response. A few people asked how to follow along as more proofs are published, so I set up two places to track them: GitHub: awesome-ethereum-proofs - each proof has its own repo with a reproducible verification script Web: ethereumhistory.com/proofs - browse all verified contracts with deployment dates, compiler versions, and methodology Most contracts deployed in August 2015 have no verified source on Etherscan. The compilers are too old for automated tools, source code was hosted on Pastebin links that expired years ago, and some contracts used languages Etherscan doesn't even support (Serpent, LLL). So I've been doing it manually - testing every early compiler version against on-chain bytecode until I get a byte-for-byte match. Since the Vitalik post, here are 4 new proofs: "Test" - First Executable Contract (Aug 7, 2015, block 48,643) The earliest contract with executable code on Ethereum mainnet. Compiled with soljson v0.1.1, the first publicly available Solidity compiler release. Just 8 days after mainnet launch. Hello World Greeter (Aug 7, 2015, block 48,681) Ethereum's "Hello World" moment. Deployed 38 blocks after the first executable contract, same day, same compiler. Based on the greeter tutorial that shipped with the early Ethereum documentation. EarlyChainLetter10ETH (Aug 8, 2015, block 49,931) A chain letter pyramid contract from day 2 of smart contract deployment. One of the first attempts at a financial game on Ethereum. Participants sent 10 ETH to join, and the contract would pay out earlier participants as new ones joined. FunDistributor (Aug 10, 2015, block 62,632) A "king of the hill" behavioral economics experiment. Send more than 1% of the contract's balance to become the receiver. If nobody touches the contract for 200+ blocks (~45 min), the current receiver gets paid out. The original source was on Pastebin (link expired) - had to reconstruct it entirely from bytecode. Interesting discrepancy: the Reddit announcement said the payout was 25% of the balance, but the verified code shows this.balance / 3 (33.3%). Some things I've learned doing this: Operand order matters in solc 0.1.1. msg.value * 100 and 100 * msg.value produce different bytecode because the compiler evaluates right-to-left. The private keyword existed in solc 0.1.1 but was almost never used. FunDistributor is one of the earliest known uses. Solidity function declaration order affects optimizer output. Changing the order of functions in the source can completely change the compiled bytecode. There are 11 proofs so far covering contracts from Aug 2015 through Apr 2016, including Serpent, Solidity, and contracts by Vitalik and Gavin Wood. More coming as I work through the earliest blocks. If you know of any early contracts with lost source code, I'd love to hear about them.
 
-4h ago
+5h ago
+
+---
+
+**[Ethereum co-founder just moved $157M worth of ETH to Kraken after 7 months of inactivity](https://www.reddit.com/r/ethereum/comments/1rng1lo/ethereum_cofounder_just_moved_157m_worth_of_eth/)**
+
+One of the early ETH wallets woke up today. Jeffrey Wilcke (Ethereum co-founder) moved about 79k ETH (~$157M) to Kraken after roughly 7 months of inactivity. The transfers were split across a few addresses before hitting the exchange. He still holds around 27k ETH (~$54M) on-chain though, so it’s not like the wallet got fully emptied. Could be a lot of things honestly — custody change, OTC deal, portfolio rebalancing, who knows. But whenever one of the early Ethereum guys moves coins it definitely gets people watching the charts. Quick breakdown of the transfers here if anyone wants to see the details: https://btcusa.com/ethereum-co-founder-jeffrey-wilcke-moves-157-million-in-eth-to-kraken/ Curious what people think — just normal wallet movement or potential sell pressure?
+
+57m ago
 
 ---
 
@@ -88,7 +96,7 @@ Yesterday I posted about verifying Vitalik's first token contract and got a grea
 
 I propose to wrap USDT, since currently it is a highly outdated coin, and its transfer function has issues, and doesn't have new features, and only has 6 decimals. While these issues may not be large now and can be easily fixed or do not lose too much functionality, as DeFi expands new standards, etc may add more features, then USDT can be put into a standardized wrapper to handle it.
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +112,7 @@ I've been working on verifying source code for the oldest contracts on Ethereum,
 
 I staked some ETH around a month ago and it still has the Staking..... "staking takes 5 days" prompt. How long does it normally take to stake ETH and should I be worried?
 
-17h ago
+18h ago
 
 ---
 
@@ -112,7 +120,7 @@ I staked some ETH around a month ago and it still has the Staking..... "staking 
 
 One important technical item that I forgot to mention is the proposed switch from Casper FFG to Minimmit as the finality gadget. To summarize, Casper FFG provides two-round finality: it requires each attester to sign once to "justify" the block, and then again to "finalize" it. Minimmit only requires one round. In exchange, Minimmit's fault tolerance (in our parametrization) drops to 17%, compared to Casper FFG's 33%. Within Ethereum consensus discussions, I have always been the security assumptions hawk: I've insisted on getting to the theoretical bound of 49% fault tolerance under synchrony, kept pushing for 51% attack recovery gadgets, came up with DAS to make data availability checks dishonest-majority-resistant, etc. But I am fine with Minimmit's properties, in fact even enthusiastic in some respects. In this post, I will explain why. Let's lay out the exact security properties of both 3SF (not the current beacon chain, which is needlessly weak in many ways, but the ideal 3SF) and Minimmit. "Synchronous network" means "network latency less than 1/4 slot or so", "asynchronous network" means "potentially very high latency, even some nodes go offline for hours at a time". The percentages ("attacker has <33%") refer to percentages of active staked ETH. Properties of 3SF Synchronous network case: Attacker has p < 33%: nothing bad happens 33% < p < 50%: attacker can stop finality (at the cost of losing massive funds via inactivity leak), but the chain keeps progressing normally 50% < p < 67%: attacker can censor or revert the chain, but cannot revert finality. If an attacker censors, good guys can self-organize, they can stop contributing to a censoring chain, and do a "minority soft fork" p > 67%: attacker can finalize things at will, much harder for good guys to do minority soft fork Asynchronous network case: Attacker has p < 33%: cannot revert finality p > 33%: can revert finality, at the cost of losing massive funds via slashing Properties of Minimmit Synchronous network case: Attacker has p < 17%: nothing bad happens 17% < p < 50%: attacker can stop finality (at the cost of losing massive funds via inactivity leak), but the chain keeps progressing normally 50% < p < 83%: attacker can censor or revert the chain, but cannot revert finality. If an attacker censors, good guys can self-organize, they can stop contributing to a censoring chain, and do a "minority soft fork" p > 83%: attacker can finalize things at will, much harder for good guys to do minority soft fork Asynchronous network case: Attacker has p < 17%: cannot revert finality p > 17%: can revert finality, at the cost of losing massive funds via slashing I actually think that the latter is a better tradeoff. Here's my reasoning why: The worst kind of attack is actually not finality reversion, it's censorship. The reason is that finality reversion creates massive publicly available evidence that can be used to immediately cost the attacker millions of ETH (ie. billions of dollars), whereas censorship requires social coordination to get around In both of the above, a censorship attack requires 50% A censorship attack becomes much harder to coordinate around when the censoring attacker can unilaterally finalize (ie. >67% in 3SF, >83% in Minimmit). If they can't, then if the good guys counter-coordinate, you get two non-finalizing chains dueling for a few days, and users can pick on. If they can, then there's no natural schelling point to coordinate soft-forking In the case of a client bug, the worst thing that can happen is finalizing something bugged. In 3SF, you only need 67% of clients to share a bug for it to finalize, in Minimmit, you need 83%. Basicallly, Minimmit maximizes the set of situations that "default to two chains dueling each other", and that is actually a much healthier and much more recoverable outcome than "the wrong thing finalizing". We want finality to mean final. So in situations of uncertainty (whether attacks or software bugs), we should be more okay with having periods of hours or days where the chain does not finalize, and instead progresses based on the fork choice rule. This gives us time to think and make sure which chain is correct. Also, I think the "33% slashed to revert finality" of 3SF is overkill. If there is even eg. 15 million ETH staking, then that's 5M ($10B) slashed to revert the chain once. If you had $10B, and you are willing to commit mayhem of a type that violates many countries' computer hacking laws, there are FAR BETTER ways to spend it than to attack a chain. Even if your goal is breaking Ethereum, there are far better attack vectors. And so if we have the baseline guarantee of >= 17% slashed to revert finality (which Minimmit provides), we should judge the two systems from there based on their other properties - where, for the reasons I described above, I think Minimmit performs better.
 
-22h ago
+23h ago
 
 ---
 
@@ -120,7 +128,7 @@ One important technical item that I forgot to mention is the proposed switch fro
 
 So I have some Eth staked on lido and received steth in return. After a few people I know told me I can deposit steth to double dip, earn steth rewards and earn rewards on steth coins as well? Does anyone have any suggestions? I’ve checked morpho, and aave but can’t seem to find any information on lending steth in return for more rewards? Ive also heard of curve and harvest but I’m not familiar with either. Any safe suggestions would be greatly appreciated, as i treasure my Eth and I’m not trying to jeopardize it any way to make a small return. I’m just trying to maximize the amount of Eth I have and letting it work to grow more. Thanks
 
-17h ago
+18h ago
 
 ---
 
@@ -138,17 +146,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[ZK VMs made verifiable computation accessible to any developer. The prover networks running them require your full plaintext data. YIKES](https://www.reddit.com/r/ethereum/comments/1rmg9sa/zk_vms_made_verifiable_computation_accessible_to/)**
-
-Zero-knowledge cryptography went through three phases. First: hand-crafted arithmetic circuits, only accessible to deep researchers. Second: ZK virtual machines — suddenly any developer could write verifiable code in Rust or C. Third: prover networks (Succinct, Boundless/RiscZero) that let you delegate the heavy proof generation to external infrastructure. Each phase made the technology more accessible. Each phase also moved the user's data further from their control. Prover networks require your full plaintext data to generate proofs. For rollups, this is a non-issue — public ledger, no privacy expectation, and what you gain (succinctness — compressing thousands of transactions into a single proof) is worth the trade. That's the use case these networks were built for, and they served it well. The problem emerges when you extend this model to user-facing applications. Verifiable identity: proving you hold a valid passport, proving you're over 18, without disclosing the underlying data. Private AI inference: running a model on your data without the model owner seeing your inputs or you seeing their weights. Decentralized exchanges with private order books. In all of these, delegating to a prover network means surrendering exactly the inputs you need to keep private. I sat down with a researcher at ChainSafe who's working on this specific problem. His approach: adding MPC (multi-party computation) to ZK VMs so proof generation can be delegated privately. Multiple parties each hold a secret share of the data, compute their portion, and combine results — no single party ever sees the full picture. He calls it "make ZK VMs ZK again." He also covered a near-term approach to the deepfake problem: attested sensors that cryptographically sign photo/video metadata at capture, combined with verifiable edit histories. You can't yet verify what IS AI-generated. But you can prove everything that is human — a reverse approach. Prove provenance instead of detecting fakes. The full conversation covers ZK, MPC, and FHE (the "holy trinity of programmable cryptography"), explained through photography analogies that are genuinely useful for building intuition. We filmed it across Taipei — street markets, a botanical garden, a tea ceremony. Full interview: https://youtu.be/PnEivfTpnA8 ————— If we're meeting for the first time, hi 👋! I started building my channel to spread the good word on good work in crypto — something with substance and humanity. A like, sub, and comment goes a long way to supporting me, so please consider doing so!
-
-🔗 [youtu.be](https://youtu.be/PnEivfTpnA8) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqeRTmOt-NgAf6kG5bywYrYpwJOnLEr0kIhRxDquL_IRXp7R9S7COkLc&gaa_ts=69ac7378&gaa_sig=xrVte4ncoXvzejMFFGzn2226bpDjc5cdE74XaaxLWbE7Je1LSbH_kv4zJjL_34_U5VBD3DPguKvydNXjgAlazg%3D%3D)**
+
+Barron's • 2d ago
+
+---
 
 **[Prediction: Silver Could Soar Again in 2026 -- but These 2 Cryptocurrencies Have Even Better Upside](https://www.fool.com/investing/2026/03/06/prediction-silver-could-soar-again-in-2026-but-the/)**
 
@@ -158,9 +164,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqcMHlMAMlsOjtsQRqs6-GHG29jqjRt4VbMYaopKNlS4eNlFcN80k3N7&gaa_ts=69ac5b84&gaa_sig=YD3wNphu-0SayMDWoiHhIC97d5wAEOojqJdSKHPca9VoUF_oZae8O43ptwRoeS0Z3D3DZ1oGPZzIUQagQA-vnA%3D%3D)**
+**[Why Are Bitcoin, Ethereum, and XRP Prices Crashing Today? US‑Iran War Fears Drive Sell‑Off](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-us-iran-war-fears-drive-sell-off/)**
 
-Barron's • 2d ago
+The crypto market turned red again after Bitcoin's price failed to hold above $74,000. The drop came as tensions grew in the ongoing U.S.–Israel and Iran
+
+Coinpedia • 7h ago
 
 ---
 
@@ -174,7 +182,7 @@ Bit Digital • 2d ago
 
 **[Key facts: Culper Research shorts Ethereum; ETH trades near $2,065](https://www.tradingview.com/news/tradingview:60c9f214d8816:0-key-facts-culper-research-shorts-ethereum-eth-trades-near-2-065/)**
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -198,15 +206,7 @@ The Block • 1d ago
 
 Dubai, UAE, March  06, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced that a former Binance executive has joined the strategic advisory board of ...
 
-markets.businessinsider.com • 17h ago
-
----
-
-**[Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck](https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck)**
-
-Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
-
-Decrypt • 3d ago
+markets.businessinsider.com • 18h ago
 
 ---
 
@@ -218,11 +218,11 @@ Fortune • 2d ago
 
 ---
 
-**[Crypto market slides as Bitcoin falls to $68K and Ethereum drops below $2K](https://ambcrypto.com/crypto-market-slides-as-bitcoin-falls-to-68k-and-ethereum-drops-below-2k/)**
+**[Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck](https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck)**
 
-Bitcoin slipped toward $68K while Ethereum dropped below $2K, triggering broader losses across the crypto market as key resistance levels held.
+Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
 
-AMBCrypto • 21h ago
+Decrypt • 3d ago
 
 ---
 
@@ -230,13 +230,23 @@ AMBCrypto • 21h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum To 85x From Here? Cathie Wood ETH Price Targets Are Insane!](https://www.youtube.com/watch?v=Qn2OgJ2Q_ZQ)**
+
+Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. Sound insane? Here's her entire thesis.
+
+📺 Zach Humphries
+
+👁️ 373 • 👍 55 • 💬 45 • ⏱️ 7:38 • 2h ago
+
+---
+
 **[Ethereum Will Not Stay This Cheap! ⚠️ ETH Crypto Token Analysis](https://www.youtube.com/watch?v=jrKbEBTxqFA)**
 
 Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 178 • 💬 30 • ⏱️ 10:24 • 1d ago
+👁️ 5K • 👍 180 • 💬 30 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -246,7 +256,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 645 • 💬 22 • ⏱️ 1:16 • 2d ago
+👁️ 24K • 👍 650 • 💬 22 • ⏱️ 1:16 • 2d ago
 
 ---
 
@@ -256,7 +266,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 74 • 💬 4 • ⏱️ 19:52 • 2d ago
+👁️ 2K • 👍 74 • 💬 6 • ⏱️ 19:52 • 2d ago
 
 ---
 
@@ -266,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 98 • 💬 6 • ⏱️ 3:52 • 13h ago
+👁️ 1K • 👍 103 • 💬 6 • ⏱️ 3:52 • 14h ago
 
 ---
 
@@ -276,17 +286,17 @@ BITCOIN & ALTCOIN WARNING: Signal Confirmed!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 7K • 👍 232 • 💬 38 • ⏱️ 18:59 • 16h ago
+👁️ 7K • 👍 244 • 💬 89 • ⏱️ 18:59 • 17h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MlHv6JdY9xw)**
+**[LONG-TERM ETH PREDICTION UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=p4Sz-ksUU_Q)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 123 • 💬 5 • ⏱️ 6:30 • 1d ago
+👁️ 134 • 👍 7 • 💬 1 • ⏱️ 4:45 • 7h ago
 
 ---
 
@@ -296,17 +306,7 @@ We analyze the latest crypto whale activity and what it could mean for the broad
 
 📺 Altcoin Buzz
 
-👁️ 2K • 👍 103 • 💬 56 • ⏱️ 12:09 • 1d ago
-
----
-
-**[CRYPTO LIVE TRADING || 7 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=tRAFQLfTRRE)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 4K • 👍 2K • 2h ago
+👁️ 2K • 👍 107 • 💬 57 • ⏱️ 12:09 • 1d ago
 
 ---
 
@@ -316,17 +316,17 @@ Is crypto still the future of investing? Mark Cuban shares his honest take: • 
 
 📺 VP Motion
 
-👁️ 2K • 👍 24 • 💬 3 • ⏱️ 0:46 • 1d ago
+👁️ 2K • 👍 26 • 💬 3 • ⏱️ 0:46 • 1d ago
 
 ---
 
-**[🔥 Bitcoin vs Ethereum vs XRP: HOLD or SELL Now?](https://www.youtube.com/watch?v=pni0OJ1fhIA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MlHv6JdY9xw)**
 
-Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Kirtish Vyas (CoinLyte)
+📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 7 • ⏱️ 9:55 • 7h ago
+👁️ 2K • 👍 124 • 💬 5 • ⏱️ 6:30 • 1d ago
 
 ---
 

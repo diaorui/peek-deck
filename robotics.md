@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T17:46:20.758690+00:00'
+updated: '2026-03-07T18:35:56.652332+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 17:46 UTC  
+**Last Updated:** March 07, 2026 at 18:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,20 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
+
+1h ago
+
+---
+
+**[Mistral AI tease Robostral WMa1 (work-in-progress)](https://www.reddit.com/r/robotics/comments/1rn6kkp/mistral_ai_tease_robostral_wma1_workinprogress/)**
+
+From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
+
+8h ago
+
+---
+
 **[Spent a year building a transforming drone, now I'm open sourcing it](https://www.reddit.com/r/robotics/comments/1rmpfcv/spent_a_year_building_a_transforming_drone_now_im/)**
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
@@ -40,17 +54,17 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 ---
 
-**[Mistral AI tease Robostral WMa1 (work-in-progress)](https://www.reddit.com/r/robotics/comments/1rn6kkp/mistral_ai_tease_robostral_wma1_workinprogress/)**
+**[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
-
-7h ago
+17h ago
 
 ---
 
-**[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
+**[Rover project (gesture controlled and mobile controlled)](https://www.reddit.com/r/robotics/comments/1rn9lt2/rover_project_gesture_controlled_and_mobile/)**
 
-16h ago
+I am building a project named gesture controlled rover which can be controlled by gesture of hands but there were a lot of problems came in project while building but completed half but now I have to control it through mpu6050 sensor and also from mobile by ESP32, while building the project I also destroyed one Arduino Nano and one Arduino Uno and the remaining items are -l298n motor driver -mpu6050 sensor -li ion batteries -nrf24l01 with adapter -car chassis (home made) -Esp32 - Arduino nano
+
+5h ago
 
 ---
 
@@ -58,7 +72,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-13h ago
+14h ago
 
 ---
 
@@ -68,11 +82,11 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 ---
 
-**[Rover project (gesture controlled and mobile controlled)](https://www.reddit.com/r/robotics/comments/1rn9lt2/rover_project_gesture_controlled_and_mobile/)**
+**[Apple Sets Guinness World Record for Drones](https://www.reddit.com/r/robotics/comments/1rneuqo/apple_sets_guinness_world_record_for_drones/)**
 
-I am building a project named gesture controlled rover which can be controlled by gesture of hands but there were a lot of problems came in project while building but completed half but now I have to control it through mpu6050 sensor and also from mobile by ESP32, while building the project I also destroyed one Arduino Nano and one Arduino Uno and the remaining items are -l298n motor driver -mpu6050 sensor -li ion batteries -nrf24l01 with adapter -car chassis (home made) -Esp32 - Arduino nano
+Thought this was pretty interesting and never even thought there'd be a of a record for something like this. I wonder if someone will try to out do this soon.
 
-4h ago
+1h ago
 
 ---
 
@@ -80,7 +94,7 @@ I am building a project named gesture controlled rover which can be controlled b
 
 Hi everyone, I am a data systems architect and backend engineer, wanted to learn about robotics and how I can leverage my experience in this field. Can anyone help me with it?
 
-3h ago
+4h ago
 
 ---
 
@@ -88,21 +102,7 @@ Hi everyone, I am a data systems architect and backend engineer, wanted to learn
 
 **How it works:** Fire command broadcasts: "Need thermal imaging + route mapping within 2km" Nearby robots evaluate independently: capability match? battery OK? owner permission? Matching robots volunteer (don't auto-deploy) Human coordinator assigns tasks via web dashboard Owners fly their own robots, sharing what they choose to share **Tech stack:** - ROS 2 (protocol layer) - DDS pub/sub (messaging) - React + WebSockets (real-time dashboard) - JWT authentication + geo-fencing **Why it matters:** Every major city has 100+ commercial robots doing deliveries. During a wildfire or flood, they could provide aerial intel, route mapping, or damage assessment - but there's no coordination system. CREW is that missing layer. Tested with simulated multi-robot scenarios. Next step: real hardware integration Open to feedback, especially on: - Security concerns - Privacy implications - Liability edge cases MIT licensed. Built this over a few days to validate the concept. Demo video | https://youtu.be/dEDPNMCkF6U | https://youtu.be/P7kjSI0aH7o [GitHub](https://github.com/cbaz86/crew-protocol)[Demo[Demo) Video] | [GitHub] If this interests you, ⭐ the repo - helps others discover it. Built an emergency robot coordination protocol that solves a problem I noticed: during disasters, thousands of commercial robots (delivery drones, warehouse bots) sit idle while emergency services are overwhelmed. CREW lets robots volunteer to help during emergencies while keeping humans in control.
 
-3h ago
-
----
-
-**[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
-
-7h ago
-
----
-
-**[My robotics arm object grasping project !](https://www.reddit.com/r/robotics/comments/1rmh1vw/my_robotics_arm_object_grasping_project/)**
-
-I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
-
-1d ago
+4h ago
 
 ---
 
@@ -130,7 +130,15 @@ GeekWire • 2d ago
 
 Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
-Fox Business • 1d ago
+Fox Business • 2d ago
+
+---
+
+**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.yahoo.com/news/articles/openais-robotics-head-quits-companys-174308251.html)**
+
+Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
+
+Yahoo • 52m ago
 
 ---
 
@@ -140,17 +148,9 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Qualcomm Weighs AI Export Rules While Expanding Into Robotics Chips](https://finance.yahoo.com/news/qualcomm-weighs-ai-export-rules-150751298.html)**
-
-U.S. officials have released draft rules that would introduce tiered export controls on AI chips, aiming to tighten oversight of advanced processors shipped to certain markets. Qualcomm (NasdaqGS:QCOM) has joined other chipmakers in pushing back on the proposals, arguing the measures could affect access to key international customers and slow AI adoption. At the same time, Qualcomm is promoting its new Dragonwing processor for robotics, highlighting plans to grow beyond smartphones into AI...
-
-Yahoo Finance • 2h ago
-
----
-
 **[China Prioritizes Rare Earths, Robotics in Manufacturing Agenda](https://www.bloomberg.com/news/articles/2026-03-05/china-prioritizes-rare-earths-robotics-in-manufacturing-agenda)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -162,19 +162,19 @@ the wellsville sun • 1d ago
 
 ---
 
-**[Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'](https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html)**
+**[Boeing Sends Liquid Robots to Defend Japan](https://www.fool.com/investing/2026/03/07/boeing-sends-liquid-robots-to-defend-japan/)**
 
-Two humanoid robots can complete 90% of the work in three hours, Xiaomi President Lu Weibing told CNBC.
+Boeing builds expensive airplanes -- but very affordable drone ships for the military.
 
-CNBC • 3d ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Prediction: AI Robotics Will Be a $375 Billion Industry. This Stock Is Positioned to Win in 2026.](https://www.fool.com/investing/2026/03/05/prediction-ai-robotics-will-be-a-375-billion-indus/)**
+**[Humanoid robots learn parkour maneuvers from human motion recordings](https://interestingengineering.com/ai-robotics/us-humanoid-robots-learns-tough-parkour-skills)**
 
-When all is said and done, practicality trumps technological "wow!"
+Humanoid robots learn parkour using a new AI framework, enabling them to navigate obstacles with human-like agility in complex environments.
 
-The Motley Fool • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 477K • 👍 31K • 💬 4K • ⏱️ 16:54 • 3d ago
+👁️ 485K • 👍 32K • 💬 4K • ⏱️ 16:54 • 4d ago
 
 ---
 
@@ -204,7 +204,17 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 55K • 👍 814 • 💬 84 • ⏱️ 29:41 • 1d ago
+👁️ 61K • 👍 878 • 💬 97 • ⏱️ 29:41 • 1d ago
+
+---
+
+**[Phones Get Weird, Robots Are Everywhere at MWC 2026](https://www.youtube.com/watch?v=HG1Of5WZpNc)**
+
+At the world's largest mobile show, companies from around the globe take their biggest swings. Unique smartphones, dancing ...
+
+📺 CNET
+
+👁️ 5K • 👍 269 • 💬 7 • ⏱️ 4:13 • 5h ago
 
 ---
 
@@ -218,23 +228,43 @@ FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game
 
 ---
 
+**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
+
+War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
+
+📺 Adrian Chong
+
+👁️ 7K • 👍 375 • 💬 62 • ⏱️ 15:24 • 2d ago
+
+---
+
+**[NEW Sniper Titan WAYMAKER Gameplay [War Robots]](https://www.youtube.com/watch?v=MzbhADGfBAI)**
+
+War Robots Gameplay: NEW Sniper Titan WAYMAKER is coming to WR. Here's my new YouTube Channel @ManniRAID ...
+
+📺 Manni-Gaming
+
+👁️ 11K • 👍 622 • 💬 162 • ⏱️ 15:49 • 7h ago
+
+---
+
+**[Figure AI Just Dropped a FULLY Autonomous AI Robot… It Works 24/7](https://www.youtube.com/watch?v=5sSzuXp3Wsg)**
+
+Figure AI has just dropped a fully autonomous AI robot — and it's now operating 24/7 without human supervision. In this video, we ...
+
+📺 The AI Nexus
+
+👁️ 8K • 👍 236 • 💬 29 • ⏱️ 27:19 • 6d ago
+
+---
+
 **[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
 
 Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
 
 📺 AI Revolution
 
-👁️ 19K • 👍 738 • 💬 54 • ⏱️ 14:35 • 2d ago
-
----
-
-**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
-
-A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
-
-📺 Billionaire Shots
-
-👁️ 36K • 👍 2K • 💬 264 • ⏱️ 0:13 • 3d ago
+👁️ 20K • 👍 741 • 💬 54 • ⏱️ 14:35 • 2d ago
 
 ---
 
@@ -244,7 +274,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN Europe
 
-👁️ 458K • 👍 725 • 💬 10 • ⏱️ 29:40 • 3d ago
+👁️ 487K • 👍 768 • 💬 10 • ⏱️ 29:40 • 3d ago
 
 ---
 
@@ -254,37 +284,7 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 58K • 👍 883 • 💬 52 • ⏱️ 1:29:27 • 6d ago
-
----
-
-**[Why Does Invincible Have Robot Parts In S4 Trailer? 👀](https://www.youtube.com/watch?v=Kubl6gTcpHE)**
-
-Invincible season 4, Invincible season 4 release date, Invincible season 4 trailer, Invincible season 4 trailer breakdown, Invincible ...
-
-📺 RecapNova
-
-👁️ 461K • 👍 10K • 💬 44 • ⏱️ 0:29 • 2d ago
-
----
-
-**[Chinese Fighting Robots Left US Speechless at China Expo 2026](https://www.youtube.com/watch?v=BCt9xAu7wKY)**
-
-At China Expo 2026, Chinese fighting robots became one of the most shocking highlights of the entire event, showcasing ...
-
-📺 Carros Show
-
-👁️ 4K • 👍 66 • 💬 23 • ⏱️ 9:59 • 5d ago
-
----
-
-**[Honor’s First Humanoid Robot Unveils Its Dance Moves at MWC | What the Future](https://www.youtube.com/watch?v=NDph9DHvm60)**
-
-Watch the official reveal of Honor's first humanoid service robot announced at MWC 2026. Read more at CNET.com First Steps?
-
-📺 CNET
-
-👁️ 59K • 👍 325 • 💬 36 • ⏱️ 1:27 • 5d ago
+👁️ 58K • 👍 885 • 💬 52 • ⏱️ 1:29:27 • 6d ago
 
 ---
 

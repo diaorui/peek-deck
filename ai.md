@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T17:46:20.733940+00:00'
+updated: '2026-03-07T18:35:56.634443+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 17:46 UTC  
+**Last Updated:** March 07, 2026 at 18:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,37 @@ AI news, discussions, and developments
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 6h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 7h ago
+
+---
+
+**[Scientists are failing to disclose their use of AI despite journal mandates (Physics World)](https://www.reddit.com/r/artificial/comments/1rngo14/scientists_are_failing_to_disclose_their_use_of/)**
+
+Analysis finds that the use of AI in scientific writing is increasing
+
+🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 33m ago
+
+---
+
+**[I created a mathematical framework for AI Alignment and I would like to work with people in the alignment community as collaborators. I appreciate all the help and support I can get.](https://www.reddit.com/r/artificial/comments/1rnf8fx/i_created_a_mathematical_framework_for_ai/)**
+
+TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models Kevin Couch Abstract Large language models exhibit structural failure modes—hallucination, semantic drift, sycophancy, and dyadic dissociation—that cause measurable harm, particularly to vulner- able users. TRC (Trust Regulation and Containment) is a two-layer, inference-time frame- work that combines a hard binary Trust Gate with a continuous, physics-inspired Ethical Rheostat operating directly on the model’s residual-stream activation vector. By tracking semantic momentum across layer depth and applying graduated, tensor-based geometric projections, TRC shifts safety enforcement from reactive post-generation filtering to a pre- dictive, self-correcting control law. The core is a stochastic differential equation—re-indexed to layer depth under an approx- imate Neural ODE interpretation—that augments the transformer’s natural forward flow with an ethical steering term derived from a compact set of contrastively extracted concept vectors. This revision introduces eight principal advances: (i) an adaptive gain law Λ+(l) whose gain response accelerates into danger and decelerates into safety without oscillation risk; (ii) a scalar Kalman filter with a clutch mechanism that closes the Bayesian momentum predictor implementation gap, provably optimal under the framework’s own Gaussian noise assumptions and decoupled from burst dynamics via federated regime handoff; (iii) a formal Itô stability condition giving implementers an analytical lower bound on λ0; (iv) replacement of the instantaneous jump operator with a continuous flow burst mechanism that preserves activation manifold geometry; (v) a calibration shunt reference Cref normalising all thresh- olds and gain coefficients against a known-safe baseline; (vi) a tempo efficiency framework unifying token cost, electrical cost, and coherence distortion into a single joint optimisa- tion objective; (vii) a signed gain architecture that partitions each concept projection into harmful and prosocial components, with detection and escalation operating exclusively on the harmful channel C+ to prevent adversarial prosocial suppression; and (viii) a Kalman clutch mechanism implementing federated estimation with deterministic Lyapunov stabil- ity during burst episodes and stochastic Lyapunov stability during nominal operation, with formally specified regime transitions. Stochastic perturbation is projected into the ethical subspace, making the Langevin diffusion interpretation exact rather than approximate. The framework is validated against chess dynamics, which constitute a well-studied discrete dy- namical system whose positional flow, tactical burst, and zugzwang properties map precisely onto TRC’s three-term master equation. Introduction Large language models exhibit a range of structural failure modes—hallucination, semantic drift, sycophancy, and dyadic dissociation—that can cause measurable harm, especially to vulnerable users. These phenomena arise not from reasoning errors but from the probabilistic nature of transformer sampling and the high-dimensional geometry of activation space. In this paper we present TRC (Trust Regulation and Containment), a two-layer, inference-time framework that blends hard decision gates with a continuous, physics-inspired correction engine operating directly on the model’s residual-stream activation vector. The central geometric insight motivating this revision is that the transformer’s residual stream traces a continuous path through a high-dimensional activation manifold. Safety failures are deformations of this manifold—crinkles in its geometry introduced by adversarial inputs, sycophantic drift, or escalating user distress. The correct response to a crinkle is not to teleport the activation to a safe location (which introduces new geometric incoherence) but to apply continuous corrective flow that works the deformation out smoothly, layer by layer, the way a craftsperson works aluminum foil back toward its intended shape. This insight drives the replacement of the previous instantaneous jump operator with the flow burst architecture and motivates the tempo efficiency framework that unifies all computational cost metrics under a single variable. This revision also introduces the Kalman clutch mechanism, which decouples the Bayesian momentum predictor from burst dynamics during high-gain corrective episodes. The system now operates as a federated estimation architecture with formally specified regime transitions: nominal tracking under stochastic Lyapunov stability, deterministic correction during burst episodes, and a principled re-engagement protocol with inflated covariance. The detection and escalation pathway has been restructured to operate exclusively on the harmful projection channel C+, preventing adversarial prosocial suppression of safety mechanisms.
+
+1h ago
+
+---
+
+**[introducing the March 2026 Weekend AI Web Game Jam!](https://www.reddit.com/r/artificial/comments/1rnfhaq/introducing_the_march_2026_weekend_ai_web_game_jam/)**
+
+Intro What's the coolest web game you can make in about 24 hours with AI tools? This weekend I'm running a game jam for AI-assisted web game development Rules The game jam starts NOW! If you're reading this post, it's started Your web game must include entirely fresh, new code and assets specifically made for this game jam (no old games or old code or old art work) All entries must be AI-assisted I will accept entries until noon (12 PM) Pacific Time on Sunday, March 8th, 2026 An entry must have a public URL at which we can play the web game Entries must not require payment or sign in; we should be able to launch the game right away I (the organizer) reserve the right to reject entries which are spammy or which include offensive content (bigotry, political side-taking, animal abuse, etc.) You may do the jam solo or in a team For fairness, final results will be displayed in a random order, and there won't be any judging or prizes How do I submit my game? There will be a Google Forms link on the main game jam page What if I want to discuss or collaborate or need tech support during the game jam? There's a Discord you can join, linked from the main game jam page Where do I see the final results? On the main game jam page: https://aaronshaver.github.io/mar-2026-ai-web-game-jam/ Have fun, everyone!
+
+1h ago
 
 ---
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 17h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 18h ago
 
 ---
 
@@ -87,79 +111,15 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 ---
 
-**[AI model predicts Alzheimer's from MRI brain volume loss with 92.87% accuracy](https://www.reddit.com/r/artificial/comments/1rlz8cp/ai_model_predicts_alzheimers_from_mri_brain/)**
-
-WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex. "Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging," says Benjamin Nephew, assistant research professor in the Department of Biology and Biotechnology. "We found that machine-learning technologies, however, can analyze large amounts of data from scans to identify subtle changes and accurately predict Alzheimer's disease and related cognitive states. This advance has informed Alzheimer's disease research and may lead to methods that could allow doctors to diagnose and treat the disease earlier and more effectively." Alzheimer's disease is a neurodegenerative disorder that impairs mental functions and ultimately leads to death. An estimated 6.9 million Americans age 65 and older are living with Alzheimer's disease. Healthy brains contain billions of neurons, the cells that process and transmit signals needed for thought, movement, and other bodily functions. Alzheimer's disease injures neurons, leading to cell death and loss of brain tissue and associated cognitive functions. Analyzing data-rich MRI images can require substantial computing power and time. To focus their investigation, the WPI researchers first used machine learning to analyze 815 MRI scans for volume measurements in 95 brain regions. Then they deployed an algorithm to make predictions based upon differences in the measurements between healthy individuals and those with mild cognitive impairment or Alzheimer's disease. Results showed that the method was 92.87% accurate in detecting Alzheimer's disease among normal brains and brains of people with mild cognitive impairment.
-
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html) • 1d ago
-
----
-
-**[Meta to let rival AI companies put their chatbots on WhatsApp, but it won't be cheap](https://www.reddit.com/r/artificial/comments/1rmhe57/meta_to_let_rival_ai_companies_put_their_chatbots/)**
-
-Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
-
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 1d ago
-
----
-
-**[Do you use different LLMs for different tasks..? I solely use Chat GPT to talk about conceptual historica/logistical stuff & also vcontent creation planning (for streaming/Youtube videos). Are there any that are more useful than others in these regards that you've found..?](https://www.reddit.com/r/artificial/comments/1rlz49n/do_you_use_different_llms_for_different_tasks_i/)**
-
-Hello everyone The title is my question really - I'm just wondering if there's any particular reason to use like idk Gemini over co pilot or whatever Claude something or other I'm quite happy with Chat GPT currently and can't really imagine that one would be substantially/light years ahead of another roughly speaking in these regards What do you think? Thanks for any responses
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
-
-Axios • 3h ago
-
----
-
-**[China’s Agentic AI Controversy](https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy)**
-
-AI agents have sparked an urgent debate in China about data privacy and security that holds huge lessons for the U.S. and the future of AI everywhere.
-
-Lawfare • 19h ago
-
----
-
-**[Stablecoin Firms Bet Big on AI Agent Payments That Barely Exist](https://www.bloomberg.com/news/articles/2026-03-07/stablecoin-firms-bet-big-on-ai-agent-payments-that-barely-exist)**
-
-Bloomberg.com • 3h ago
-
----
 
 **[Netflix acquires Ben Affleck's AI company](https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal)**
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
 NPR • 20h ago
-
----
-
-**[What does the US military’s feud with Anthropic mean for AI used in war? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military)**
-
-Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
-
-The Guardian • 3h ago
-
----
-
-**[AI leaders are coming after the political opposition](https://www.politico.com/newsletters/politico-weekend/2026/03/07/ai-leaders-are-coming-after-the-political-opposition-00818039)**
-
-Politico • 1h ago
-
----
-
-**[Plug Power Plans Hydrogen Offering in Top US Power-Grid Auction](https://www.bloomberg.com/news/articles/2026-03-07/plug-power-plans-hydrogen-offering-in-top-us-power-grid-auction?srnd=phx-green)**
-
-Bloomberg.com • 2h ago
 
 ---
 
@@ -171,11 +131,57 @@ Fortune • 1d ago
 
 ---
 
-**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
+**[The unexpected 92,000 drop in payrolls is a clue we might be reading the AI jobs narrative all wrong](https://fortune.com/2026/03/07/is-ai-taking-jobs-payrolls-drop-narrative-outlook/)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+Is AI taking jobs? Or are companies cutting jobs to pay for the enormous capex outlays on AI?
 
-Anthropic • 1d ago
+Fortune • 9h ago
+
+---
+
+**[The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns](https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns)**
+
+February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
+
+Fox Business • 1d ago
+
+---
+
+**[Hollywood hedges against AI, creator disruption with new labor deals](https://www.axios.com/media-trends-membership/2026/03/07/hollywood-union-contract-ai)**
+
+Axios • 1h ago
+
+---
+
+**[Is the Pentagon allowed to surveil Americans with AI?](https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/)**
+
+Artificial intelligence is supercharging surveillance, and the law has not caught up with it.
+
+MIT Technology Review • 23h ago
+
+---
+
+**[What does the US military’s feud with Anthropic mean for AI used in war? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military)**
+
+Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
+
+The Guardian • 4h ago
+
+---
+
+**[Pentagon using AI in Iran strikes as tech firms clash over military use](https://www.cnn.com/2026/03/07/us/video/pentagon-using-ai-in-iran-strikes-as-tech-firms-clash-over-military-use)**
+
+The Pentagon is using B-2 bombers, fighter jets, cruise missiles, and artificial intelligence to strike targets inside Iran. Former Deputy Assistant Secretary of Defense, Michael Horowitz joins Smerconish to discuss the ethics and future of using AI in warfare.
+
+CNN • 1h ago
+
+---
+
+**[Bay Area high school students develop AI wildfire suppression system for global competition](https://www.cbsnews.com/sanfrancisco/news/wildfire-quest-xprize-foundation-valley-christian-high-school/)**
+
+The Valley Christian High School team, called Wildfire Quest, in San Jose, is a finalist in the $11 million global XPRIZE Foundation Wildfire competition, competing against the top AI and defense innovators.
+
+CBS News • 35m ago
 
 ---
 
@@ -193,7 +199,7 @@ The New York Times • 1d ago
 
 Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a library from LGPL to MIT?
 
-⬆️ 396 • 💬 390 • 2d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+⬆️ 397 • 💬 390 • 2d ago • [Tuan-Anh Tran](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ---
 
@@ -201,13 +207,13 @@ Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally 'launder' a 
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 322 • 💬 549 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 323 • 💬 550 • 1d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
 **[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
 
-⬆️ 298 • 💬 114 • 1d ago • [406.fail](https://406.fail/)
+⬆️ 299 • 💬 114 • 1d ago • [406.fail](https://406.fail/)
 
 ---
 
@@ -215,7 +221,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 209 • 💬 325 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 211 • 💬 325 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -247,7 +253,7 @@ Human DX optimizes for discoverability. Agent DX optimizes for predictability. W
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 83 • 💬 73 • 4h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 90 • 💬 79 • 5h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -257,11 +263,11 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 ---
 
-**[Anthropic chief back in talks with Pentagon about AI deal](https://news.ycombinator.com/item?id=47256452)**
+**[AI Error May Have Contributed to Girl's School Bombing in Iran](https://news.ycombinator.com/item?id=47284834)**
 
-Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology
+Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
 
-⬆️ 55 • 💬 12 • 2d ago • [ft.com](https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b)
+⬆️ 58 • 💬 29 • 12h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
 
 ---
 
@@ -275,67 +281,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 122K • 👍 6K • 💬 374 • ⏱️ 17:49 • 2d ago
+👁️ 131K • 👍 6K • 💬 383 • ⏱️ 17:49 • 2d ago
 
 ---
 
-**[Exclusive: Why Mark Cuban wants students to bet big on AI](https://www.youtube.com/watch?v=VF8xbAsXXFs)**
+**[AI Expert Tells Bernie: “The Humans will be Discarded”](https://www.youtube.com/watch?v=1oS35oWWl28)**
 
-Artificial intelligence is already changing the job market and the classroom, with students and companies increasingly using AI ...
+Will AI become smarter than humans? If so, is humanity in danger? I went to Silicon Valley to ask some of the leading AI experts ...
 
-📺 NBC News
+📺 Senator Bernie Sanders
 
-👁️ 3K • 👍 27 • 💬 11 • ⏱️ 3:50 • 17h ago
-
----
-
-**[How to Tell What&#39;s Real and What&#39;s AI-Generated on Social Media](https://www.youtube.com/watch?v=MtEe3NJnqQs)**
-
-Videos, generated by artificial intelligence tools from Meta, Google, OpenAI and more, are spreading on Instagram, Facebook, ...
-
-📺 TODAY
-
-👁️ 1.6M • 👍 19K • 💬 3K • ⏱️ 8:38 • 3d ago
-
----
-
-**[Oracle to Cut Thousands of Jobs Due to AI](https://www.youtube.com/watch?v=Fc-R5_a_tTU)**
-
-Oracle is set to lay off up to 30000 employees, driven by AI and a massive $50B+ infrastructure expansion. Get updated: ...
-
-📺 Mark Savant
-
-👁️ 3K • 👍 115 • 💬 26 • ⏱️ 12:53 • 22h ago
-
----
-
-**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
-
-Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
-
-📺 Spacialize
-
-👁️ 38K • 👍 981 • 💬 209 • ⏱️ 21:16 • 20h ago
-
----
-
-**[An AI Left Hidden Messages for Future Versions of Itself](https://www.youtube.com/watch?v=FGDM92QYa60)**
-
-Detailed sources: ...
-
-📺 Species | Documenting AGI
-
-👁️ 60K • 👍 5K • 💬 1K • ⏱️ 27:07 • 19h ago
-
----
-
-**[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
-
-China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
-
-📺 AI Revolution
-
-👁️ 50K • 👍 1K • 💬 105 • ⏱️ 10:56 • 1d ago
+👁️ 271K • 👍 13K • 💬 4K • ⏱️ 9:38 • 2d ago
 
 ---
 
@@ -345,7 +301,17 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 55K • 👍 2K • 💬 278 • ⏱️ 38:02 • 1d ago
+👁️ 58K • 👍 2K • 💬 284 • ⏱️ 38:02 • 1d ago
+
+---
+
+**[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
+
+China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
+
+📺 AI Revolution
+
+👁️ 52K • 👍 1K • 💬 107 • ⏱️ 10:56 • 1d ago
 
 ---
 
@@ -355,7 +321,27 @@ Try Miro's MCP Server — connect your canvas to any AI tool: http://miro.pxf.io
 
 📺 Silicon Valley Girl
 
-👁️ 39K • 👍 995 • 💬 81 • ⏱️ 35:19 • 2d ago
+👁️ 40K • 👍 1K • 💬 81 • ⏱️ 35:19 • 2d ago
+
+---
+
+**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
+
+Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
+
+📺 Spacialize
+
+👁️ 39K • 👍 1K • 💬 221 • ⏱️ 21:16 • 21h ago
+
+---
+
+**[Best AI Voice Generator 2026 (Most Realistic)](https://www.youtube.com/watch?v=Ei9DjNO7C28)**
+
+Use the BEST AI Voice Generator https://youricreates.com/Elevenlabs In this video, I break down how ElevenLabs actually ...
+
+📺 Youri van Hofwegen
+
+👁️ 5K • 💬 3 • ⏱️ 15:17 • 2h ago
 
 ---
 
@@ -365,7 +351,27 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 215K • 👍 9K • 💬 2K • ⏱️ 21:38 • 1d ago
+👁️ 219K • 👍 9K • 💬 2K • ⏱️ 21:38 • 1d ago
+
+---
+
+**[My AI Agents Made Money in 7 Days (OpenClaw)](https://www.youtube.com/watch?v=LCkGVCfmtzo)**
+
+Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator Magic Premium: https://mrc.fm/premium Last week I ...
+
+📺 Creator Magic
+
+👁️ 26K • 👍 818 • 💬 73 • ⏱️ 8:17 • 1d ago
+
+---
+
+**[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**
+
+Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or ...
+
+📺 AI Explained
+
+👁️ 54K • 👍 2K • 💬 370 • ⏱️ 21:52 • 1d ago
 
 ---
 
@@ -381,7 +387,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 692,588 • ❤️ 555 • 5d ago
+⬇️ 692,588 • ❤️ 557 • 5d ago
 
 ---
 
@@ -393,7 +399,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,086,662 • ❤️ 1,016 • 8d ago
+⬇️ 1,086,662 • ❤️ 1,020 • 8d ago
 
 ---
 
@@ -405,7 +411,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 346,126 • ❤️ 306 • 5d ago
+⬇️ 346,126 • ❤️ 309 • 5d ago
 
 ---
 
@@ -417,7 +423,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 119,290 • ❤️ 306 • 2d ago
+⬇️ 119,290 • ❤️ 307 • 2d ago
 
 ---
 
@@ -429,7 +435,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 282,635 • ❤️ 281 • 5d ago
+⬇️ 282,635 • ❤️ 284 • 5d ago
 
 ---
 
@@ -441,7 +447,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 436,300 • ❤️ 229 • 5d ago
+⬇️ 436,300 • ❤️ 238 • 5d ago
 
 ---
 
@@ -453,7 +459,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,012,202 • ❤️ 563 • 2d ago
+⬇️ 1,012,202 • ❤️ 566 • 2d ago
 
 ---
 
@@ -477,7 +483,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 52,816 • ❤️ 168 • 3d ago
+⬇️ 52,816 • ❤️ 172 • 3d ago
 
 ---
 
@@ -637,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.2k • 🔱 3.1k • 1h ago
+⭐ 24.3k • 🔱 3.1k • 1h ago
 
 ---
 
@@ -647,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.0k • 🔱 540 • 16h ago
+⭐ 15.1k • 🔱 548 • 17h ago
 
 ---
 
@@ -657,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.3k • 🔱 1.0k • 3h ago
+⭐ 9.3k • 🔱 1.0k • 4h ago
 
 ---
 
@@ -667,7 +673,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.8k • 🔱 501 • 12h ago
+⭐ 6.8k • 🔱 501 • 13h ago
 
 ---
 
@@ -687,7 +693,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 691 • 5h ago
+⭐ 5.8k • 🔱 692 • 6h ago
 
 ---
 
@@ -697,7 +703,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 5.0k • 🔱 411 • 2d ago
+⭐ 5.1k • 🔱 413 • 2d ago
 
 ---
 
@@ -707,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 386 • 6h ago
+⭐ 3.6k • 🔱 388 • 1h ago
 
 ---
 
@@ -717,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 246 • 2h ago
+⭐ 3.4k • 🔱 248 • 2h ago
 
 ---
 

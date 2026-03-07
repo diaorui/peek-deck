@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T17:46:20.742333+00:00'
+updated: '2026-03-07T18:35:56.642987+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 17:46 UTC  
+**Last Updated:** March 07, 2026 at 18:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,801.00
+### $67,510.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +3.2%  
-**30d:** -3.9%  
-**90d:** -25.3%  
-**1y:** -21.3%  
+**24h:** -0.8%  
+**7d:** +2.8%  
+**30d:** -4.3%  
+**90d:** -25.6%  
+**1y:** -21.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1356.24B
+**Market Cap:** $1351.10B
 Rank #1
 
-**Circulating Supply:** 19,999,134 BTC
+**Circulating Supply:** 19,999,178 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.2%
+-46.4%
 
 **All-Time Low:** $67.81
-+99911.8%
++99516.6%
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-13h ago
+14h ago
+
+---
+
+**[Percentage of total assets](https://www.reddit.com/r/Bitcoin/comments/1rnb4bj/percentage_of_total_assets/)**
+
+Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
+
+4h ago
 
 ---
 
@@ -89,7 +97,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
-5h ago
+6h ago
 
 ---
 
@@ -103,13 +111,13 @@ Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transaction
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-12h ago
+13h ago
 
 ---
 
-**[Percentage of total assets](https://www.reddit.com/r/Bitcoin/comments/1rnb4bj/percentage_of_total_assets/)**
+**[Buying BTC - through Trezor App?](https://www.reddit.com/r/Bitcoin/comments/1rnc6jc/buying_btc_through_trezor_app/)**
 
-Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
+Hey all, Just set up my Trezor and getting ready to purchase my first bitcoin. There's an option to purchase right through the App, but when I started to look into that I noticed a fee (1.99 processing costs + a Trezor suite fee of 1%). Can I avoid this 1% to Trezor if I just buy off an exchange?
 
 3h ago
 
@@ -119,29 +127,7 @@ Hey guys I am considering buying bitcoin as part of a diversification effort. I 
 
 recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
 
-8h ago
-
----
-
-**[Buying BTC - through Trezor App?](https://www.reddit.com/r/Bitcoin/comments/1rnc6jc/buying_btc_through_trezor_app/)**
-
-Hey all, Just set up my Trezor and getting ready to purchase my first bitcoin. There's an option to purchase right through the App, but when I started to look into that I noticed a fee (1.99 processing costs + a Trezor suite fee of 1%). Can I avoid this 1% to Trezor if I just buy off an exchange?
-
-2h ago
-
----
-
-**[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
-
-1d ago
-
----
-
-**[STRC is buying 800 bitcoin per day](https://www.reddit.com/r/Bitcoin/comments/1rmrtlc/strc_is_buying_800_bitcoin_per_day/)**
-
-So pay atention to this new information about the bitcoin supply
-
-19h ago
+9h ago
 
 ---
 
@@ -149,7 +135,21 @@ So pay atention to this new information about the bitcoin supply
 
 If you had $1,000 in spare cash right now, would you spend it now, or buy Bitcoin and wait ten years?
 
-3h ago
+4h ago
+
+---
+
+**[STRC is buying 800 bitcoin per day](https://www.reddit.com/r/Bitcoin/comments/1rmrtlc/strc_is_buying_800_bitcoin_per_day/)**
+
+So pay atention to this new information about the bitcoin supply
+
+20h ago
+
+---
+
+**[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
+
+1d ago
 
 ---
 
@@ -161,7 +161,7 @@ If you had $1,000 in spare cash right now, would you spend it now, or buy Bitcoi
 
 Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -177,7 +177,13 @@ Nasdaq • 1d ago
 
 Bitcoin nearly touched $74,000 this week. But it’s now trading below $70,000. Volatility has returned to crypto markets following the US-Israel attack on Iran.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[BITCOIN JUST HIT MOST OVERSOLD LEVEL IN 11 YEARS Something Big Maybe Coming!](https://www.binance.com/da-DK/square/post/299033810499730)**
+
+Binance • 3h ago
 
 ---
 
@@ -185,29 +191,13 @@ Yahoo Finance • 2h ago
 
 The executive order to build President Donald Trump's Strategic Bitcoin Reserve has awaited congressional action, and sources say there's one idea left for 2026.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin’s painful near-50% crash put holders at risk, and is a wake-up call for Canadian investors](https://ca.finance.yahoo.com/news/bitcoin-painful-near-50-crash-160500416.html)**
-
-The idea that bitcoin holds value when everything else falls has taken a serious beating this cycle
-
-Yahoo! Finance Canada • 1h ago
-
----
-
-**[Food Lion manager stops elderly woman from losing $5K in bitcoin scam](https://www.wistv.com/2026/03/06/food-lion-manager-stops-elderly-woman-losing-5k-bitcoin-scam/)**
-
-A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
-
-WIS News 10 • 1d ago
+CoinDesk • 3h ago
 
 ---
 
 **[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-Bloomberg.com • 21h ago
+Bloomberg • 22h ago
 
 ---
 
@@ -227,11 +217,17 @@ CBC • 1d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772897400)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772900700)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 5h ago
+Polymarket • 1d ago
+
+---
+
+**['Spend And Print'—Oil Price Shock Fuels Bold Bitcoin Price Prediction](https://www.forbes.com/sites/boazsobrado/2026/03/06/spend-and-print-oil-price-shock-fuels-bold-bitcoin-price-prediction/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -243,7 +239,7 @@ Polymarket • 5h ago
 
 Email where senders pay satoshis for your attention. Spam dies when it costs money.
 
-⬆️ 30 • 💬 55 • 7h ago • [tanstaafl.email](https://tanstaafl.email)
+⬆️ 30 • 💬 57 • 8h ago • [tanstaafl.email](https://tanstaafl.email)
 
 ---
 
@@ -317,13 +313,23 @@ A portable encrypted USB vault with a dead man's switch. Your passwords, financi
 
 ## YouTube Videos: "bitcoin"
 
+**[The AI Boom Is EXACTLY Why Bitcoin Exists](https://www.youtube.com/watch?v=5kFhXw1wZvQ)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 9K • 👍 859 • 💬 13 • ⏱️ 59:14 • 4h ago
+
+---
+
 **[WARNING To All Crypto Holders! (biggest news)](https://www.youtube.com/watch?v=zehno3tnsvo)**
 
 BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 124 • ⏱️ 11:48 • 19h ago
+👁️ 42K • 👍 2K • 💬 130 • ⏱️ 11:48 • 20h ago
 
 ---
 
@@ -333,17 +339,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 171 • 💬 54 • ⏱️ 16:15 • 12h ago
-
----
-
-**[The AI Boom Is EXACTLY Why Bitcoin Exists](https://www.youtube.com/watch?v=5kFhXw1wZvQ)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 4K • 👍 531 • 💬 13 • ⏱️ 59:14 • 3h ago
+👁️ 3K • 👍 180 • 💬 156 • ⏱️ 16:15 • 13h ago
 
 ---
 
@@ -353,7 +349,7 @@ Bitcoin just surged toward $74K and the big question is whether this is the star
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 245 • ⏱️ 17:07 • 1d ago
+👁️ 22K • 👍 2K • 💬 251 • ⏱️ 17:07 • 1d ago
 
 ---
 
@@ -363,7 +359,17 @@ Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talki
 
 📺 BTC Isla
 
-👁️ 7K • 👍 828 • 💬 113 • ⏱️ 11:28 • 1d ago
+👁️ 8K • 👍 864 • 💬 141 • ⏱️ 11:28 • 1d ago
+
+---
+
+**[Why Bitcoin is Replacing Gold as the World&#39;s Ultimate Safe Haven](https://www.youtube.com/watch?v=KmdT82XMhT0)**
+
+A historic shift is happening in the global economy. As geopolitical tensions rise, Bitcoin is outperforming gold and behaving as a ...
+
+📺 Financial Funda
+
+👁️ 817 • 👍 52 • 💬 1 • ⏱️ 2:51 • 1h ago
 
 ---
 
@@ -371,7 +377,7 @@ Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talki
 
 📺 Andrei Jikh
 
-👁️ 42K • 👍 1K • 💬 28 • ⏱️ 1:12 • 1d ago
+👁️ 48K • 👍 1K • 💬 29 • ⏱️ 1:12 • 1d ago
 
 ---
 
@@ -381,7 +387,17 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 82K • 👍 3K • 💬 251 • ⏱️ 17:02 • 1d ago
+👁️ 83K • 👍 3K • 💬 254 • ⏱️ 17:02 • 1d ago
+
+---
+
+**[&quot;Ignore the FAKE CRASH! Here&#39;s What&#39;s REALLY Next for Bitcoin &amp; Crypto&quot; - Jack Mallers](https://www.youtube.com/watch?v=3XjYeGCFTo8)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged https://www.itrustcapital.com/go/savvy-finance With ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 297 • 💬 1 • ⏱️ 19:14 • 19h ago
 
 ---
 
@@ -392,26 +408,6 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 📺 Altcoin Daily
 
 👁️ 46K • 👍 2K • 💬 161 • ⏱️ 8:38 • 1d ago
-
----
-
-**[🚨 Bitcoin Going To $15k?](https://www.youtube.com/watch?v=Dj87I51tdsU)**
-
-Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 17K • 👍 309 • 💬 69 • ⏱️ 1:16 • 2d ago
-
----
-
-**[BITCOIN: Don’t Get Fooled by This Dump! (here&#39;s why) - BTC Price Prediction Today](https://www.youtube.com/watch?v=V6j5GMzRM_o)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 5K • 👍 441 • 💬 34 • ⏱️ 13:10 • 7h ago
 
 ---
 
