@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T17:22:31.977418+00:00'
+updated: '2026-03-07T17:46:20.742333+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 17:22 UTC  
+**Last Updated:** March 07, 2026 at 17:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-12h ago
+13h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transaction
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -149,7 +149,7 @@ So pay atention to this new information about the bitcoin supply
 
 If you had $1,000 in spare cash right now, would you spend it now, or buy Bitcoin and wait ten years?
 
-2h ago
+3h ago
 
 ---
 
@@ -207,7 +207,7 @@ WIS News 10 • 1d ago
 
 **[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -231,7 +231,7 @@ CBC • 1d ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 4h ago
+Polymarket • 5h ago
 
 ---
 
@@ -243,7 +243,7 @@ Polymarket • 4h ago
 
 Email where senders pay satoshis for your attention. Spam dies when it costs money.
 
-⬆️ 30 • 💬 55 • 6h ago • [tanstaafl.email](https://tanstaafl.email)
+⬆️ 30 • 💬 55 • 7h ago • [tanstaafl.email](https://tanstaafl.email)
 
 ---
 
@@ -323,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 124 • ⏱️ 11:48 • 18h ago
+👁️ 40K • 👍 2K • 💬 124 • ⏱️ 11:48 • 19h ago
 
 ---
 
@@ -411,7 +411,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 441 • 💬 34 • ⏱️ 13:10 • 6h ago
+👁️ 5K • 👍 441 • 💬 34 • ⏱️ 13:10 • 7h ago
 
 ---
 

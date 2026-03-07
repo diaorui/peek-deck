@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T17:22:31.986681+00:00'
+updated: '2026-03-07T17:46:20.758690+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 17:22 UTC  
+**Last Updated:** March 07, 2026 at 17:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-20h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone, I am a data systems architect and backend engineer, wanted to learn
 
 **How it works:** Fire command broadcasts: "Need thermal imaging + route mapping within 2km" Nearby robots evaluate independently: capability match? battery OK? owner permission? Matching robots volunteer (don't auto-deploy) Human coordinator assigns tasks via web dashboard Owners fly their own robots, sharing what they choose to share **Tech stack:** - ROS 2 (protocol layer) - DDS pub/sub (messaging) - React + WebSockets (real-time dashboard) - JWT authentication + geo-fencing **Why it matters:** Every major city has 100+ commercial robots doing deliveries. During a wildfire or flood, they could provide aerial intel, route mapping, or damage assessment - but there's no coordination system. CREW is that missing layer. Tested with simulated multi-robot scenarios. Next step: real hardware integration Open to feedback, especially on: - Security concerns - Privacy implications - Liability edge cases MIT licensed. Built this over a few days to validate the concept. Demo video | https://youtu.be/dEDPNMCkF6U | https://youtu.be/P7kjSI0aH7o [GitHub](https://github.com/cbaz86/crew-protocol)[Demo[Demo) Video] | [GitHub] If this interests you, ⭐ the repo - helps others discover it. Built an emergency robot coordination protocol that solves a problem I noticed: during disasters, thousands of commercial robots (delivery drones, warehouse bots) sit idle while emergency services are overwhelmed. CREW lets robots volunteer to help during emergencies while keeping humans in control.
 
-2h ago
+3h ago
 
 ---
 

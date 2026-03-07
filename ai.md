@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T17:22:31.968710+00:00'
+updated: '2026-03-07T17:46:20.733940+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 17:22 UTC  
+**Last Updated:** March 07, 2026 at 17:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 5h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 6h ago
 
 ---
 
@@ -55,7 +55,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 On China's e-commerce platforms like taobao, remote installs were being quoted anywhere from a few dollars to a few hundred RMB, with many around the 100–200 RMB range. In-person installs were often around 500 RMB, and some sellers were quoting absurd prices way above that, which tells you how chaotic the market is. But, these installers are really receiving lots of orders, according to publicly visible data on taobao. Who are the installers? According to Rockhazix, a famous AI content creator in China, who called one of these services, the installer was not a technical professional. He just learnt how to install it by himself online, saw the market, gave it a try, and earned a lot of money. Does the installer use OpenClaw a lot? He said barely, coz there really isn't a high-frequency scenario. (Does this remind you of your university career advisors who have never actually applied for highly competitive jobs themselves?) Who are the buyers? According to the installer, most are white-collar professionals, who face very high workplace competitions (common in China), very demanding bosses (who keep saying use AI), & the fear of being replaced by AI. They hoping to catch up with the trend and boost productivity. They are like:“I may not fully understand this yet, but I can’t afford to be the person who missed it.” How many would have thought that the biggest driving force of AI Agent adoption was not a killer app, but anxiety, status pressure, and information asymmetry? P.S. A lot of these installers use the DeepSeek logo as their profile pic on e-commerce platforms. Probably due to China's firewall and media environment, deepseek is, for many people outside the AI community, a symbol of the latest AI technology (another case of information asymmetry).
 
-41m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Axios • 3h ago
 
 AI agents have sparked an urgent debate in China about data privacy and security that holds huge lessons for the U.S. and the future of AI everywhere.
 
-Lawfare • 18h ago
+Lawfare • 19h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bloomberg.com • 3h ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 3h ago
 
 **[AI leaders are coming after the political opposition](https://www.politico.com/newsletters/politico-weekend/2026/03/07/ai-leaders-are-coming-after-the-political-opposition-00818039)**
 
-Politico • 38m ago
+Politico • 1h ago
 
 ---
 
@@ -247,13 +247,13 @@ Human DX optimizes for discoverability. Agent DX optimizes for predictability. W
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 83 • 💬 73 • 3h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 83 • 💬 73 • 4h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
 **[Launch HN: Vela (YC W26) – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)**
 
-⬆️ 58 • 💬 43 • 1d ago
+⬆️ 58 • 💬 43 • 2d ago
 
 ---
 
@@ -315,7 +315,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 38K • 👍 981 • 💬 209 • ⏱️ 21:16 • 19h ago
+👁️ 38K • 👍 981 • 💬 209 • ⏱️ 21:16 • 20h ago
 
 ---
 
@@ -345,7 +345,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 55K • 👍 2K • 💬 278 • ⏱️ 38:02 • 23h ago
+👁️ 55K • 👍 2K • 💬 278 • ⏱️ 38:02 • 1d ago
 
 ---
 
@@ -453,7 +453,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,012,202 • ❤️ 563 • 1d ago
+⬇️ 1,012,202 • ❤️ 563 • 2d ago
 
 ---
 
@@ -647,7 +647,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.0k • 🔱 540 • 15h ago
+⭐ 15.0k • 🔱 540 • 16h ago
 
 ---
 
@@ -707,7 +707,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 386 • 5h ago
+⭐ 3.6k • 🔱 386 • 6h ago
 
 ---
 
@@ -717,7 +717,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 246 • 1h ago
+⭐ 3.4k • 🔱 246 • 2h ago
 
 ---
 
