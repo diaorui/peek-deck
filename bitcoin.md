@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T14:49:39.704014+00:00'
+updated: '2026-03-07T15:24:52.269869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 14:49 UTC  
+**Last Updated:** March 07, 2026 at 15:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-9h ago
+10h ago
 
 ---
 
@@ -103,13 +103,13 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 recently found the passkey for a wallet i created in 2017, used to have BRD wallet but that no longer exists so i tried coinbase wallet and bluewallet and both are showing a $0.00 balance except i know for a fact i had money in that account. when looking at the public address it shows no transaction history so i think its unlikely it was transferred out. any idea as to where the money could be or if im doing something wrong?
 
-5h ago
+6h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -117,7 +117,7 @@ recently found the passkey for a wallet i created in 2017, used to have BRD wall
 
 Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transactions worked under the hood. So, I built a free, interactive visualizer site to teach myself, and I wanted to share it. You can see it at howbitcoin.works I'd love feedback on what I should add next.
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Yesterday I went shopping with my family, and what can I say? Shopping used to b
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thi
 
 Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 2d ago
 
 The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -231,7 +231,7 @@ CBC • 1d ago
 
 With "safe" asset prices so high, cheaper and riskier assets look better than before.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -287,7 +287,7 @@ Complete operating system for Bitcoiners
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 1d ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 2d ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -343,7 +343,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 153 • 💬 50 • ⏱️ 16:15 • 9h ago
+👁️ 2K • 👍 153 • 💬 50 • ⏱️ 16:15 • 10h ago
 
 ---
 
@@ -353,7 +353,7 @@ Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talki
 
 📺 BTC Isla
 
-👁️ 7K • 👍 786 • 💬 107 • ⏱️ 11:28 • 22h ago
+👁️ 7K • 👍 786 • 💬 107 • ⏱️ 11:28 • 23h ago
 
 ---
 
@@ -383,7 +383,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 193 • 💬 31 • ⏱️ 3:47 • 16h ago
+👁️ 3K • 👍 193 • 💬 31 • ⏱️ 3:47 • 17h ago
 
 ---
 
@@ -403,7 +403,7 @@ XRP PANIC SELLING EXPLODES! 2021 Repeat? Bitcoin Dump To $60000?! Meta Signals (
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 418 • 💬 29 • ⏱️ 21:20 • 19h ago
+👁️ 6K • 👍 418 • 💬 29 • ⏱️ 21:20 • 20h ago
 
 ---
 

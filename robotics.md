@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T14:49:39.713260+00:00'
+updated: '2026-03-07T15:24:52.280120+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 14:49 UTC  
+**Last Updated:** March 07, 2026 at 15:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-4h ago
+5h ago
 
 ---
 
@@ -72,7 +72,7 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 I am building a project named gesture controlled rover which can be controlled by gesture of hands but there were a lot of problems came in project while building but completed half but now I have to control it through mpu6050 sensor and also from mobile by ESP32, while building the project I also destroyed one Arduino Nano and one Arduino Uno and the remaining items are -l298n motor driver -mpu6050 sensor -li ion batteries -nrf24l01 with adapter -car chassis (home made) -Esp32 - Arduino nano
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 Sorry if this isn’t the place to post this since it’s really a hobby project and this feels more like a simple blog post. I just figured I’d share it since I had spent time working on it. I suppose there are 3 main reasons why I scrapped it. I made the mistake of designing from the base upward as opposed to from the end-effector downward which led to a loss in desired elegance of the design itself. I also decided that I want to implement 6DOFs instead of just 4. On top of that, I decided to try my hand at accomplishing remote cable transmission for all DOFs aside from the base rotation. I’ve already finished designing the 6DOF arm, I just haven’t assembled it yet. Anyways, here’s a brief overview of the mechanical design. The base is essentially just a turn-table bearing system with 5 bearings between the top and bottom traces. The shoulder transmission is just direct mounting. Elbow transmission is via bevel gears to keep weight closer to the output shaft of the shoulder joint’s motor. The wrist transmission is via capstan antagonistic cabling. Then I have a lever at the end of the 3rd link after the wrist for my desired end-effector function utilizing capstan antagonistic cable transmission as well. I decided to scrap it before finishing the end-effector though. The new design focuses on complete remote transmission via capstan antagonistic cables in conjunction with Bowden cable sheaths used for the 3DOFs I have decoupled at the wrist joint. Again, sorry if this isn’t the place for this as this is something of a blog post more than anything. But I’m hoping this may intrigue someone. Also, I probably will design a proper shell at some point but I have a mini 3D printer and tbh I like seeing everything move.
 
-20h ago
+21h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi everyone, I am a data systems architect and backend engineer, wanted to learn
 
 **[Robotic Arm Simulator](https://www.reddit.com/r/robotics/comments/1rn62hh/robotic_arm_simulator/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -138,7 +138,7 @@ Fox Business • 1d ago
 
 Agility Robotics is rebranding, saying the new company name reflects its readiness to scale deployments and lead humanoid adoption.
 
-The Robot Report • 44m ago
+The Robot Report • 1h ago
 
 ---
 

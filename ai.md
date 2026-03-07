@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T14:49:39.695585+00:00'
+updated: '2026-03-07T15:24:52.261333+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 14:49 UTC  
+**Last Updated:** March 07, 2026 at 15:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 14h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 15h ago
 
 ---
 
@@ -127,7 +127,7 @@ Fortune • 22h ago
 
 February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting productivity.
 
-Fox Business • 20h ago
+Fox Business • 21h ago
 
 ---
 
@@ -155,7 +155,7 @@ Axios • 1h ago
 
 A dispatch from inside NYC’s ClawCon, where hundreds of OpenClaw and AI aficionados gathered.
 
-The Verge • 49m ago
+The Verge • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Verge • 49m ago
 
 Artificial intelligence is supercharging surveillance, and the law has not caught up with it.
 
-MIT Technology Review • 19h ago
+MIT Technology Review • 20h ago
 
 ---
 
@@ -171,7 +171,7 @@ MIT Technology Review • 19h ago
 
 Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
 
-The Guardian • 49m ago
+The Guardian • 1h ago
 
 ---
 
@@ -299,7 +299,7 @@ Artificial intelligence is already changing the job market and the classroom, wi
 
 📺 NBC News
 
-👁️ 3K • 👍 25 • 💬 9 • ⏱️ 3:50 • 14h ago
+👁️ 3K • 👍 25 • 💬 9 • ⏱️ 3:50 • 15h ago
 
 ---
 
@@ -309,7 +309,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 35K • 👍 2K • 💬 548 • ⏱️ 16:12 • 1d ago
+👁️ 35K • 👍 2K • 💬 548 • ⏱️ 16:12 • 2d ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.2k • 🔱 3.1k • 26m ago
+⭐ 24.2k • 🔱 3.1k • 1h ago
 
 ---
 
@@ -681,7 +681,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.7k • 🔱 500 • 9h ago
+⭐ 6.7k • 🔱 500 • 10h ago
 
 ---
 
@@ -691,7 +691,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 689 • 2h ago
+⭐ 5.8k • 🔱 689 • 3h ago
 
 ---
 
@@ -701,7 +701,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 4.9k • 🔱 405 • 1d ago
+⭐ 4.9k • 🔱 405 • 2d ago
 
 ---
 
