@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T22:25:01.716998+00:00'
+updated: '2026-03-07T22:48:53.437989+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 22:25 UTC  
+**Last Updated:** March 07, 2026 at 22:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 This is why we Bitcoin $BTC. When your banks starts questioning you about your post tax money, you know it's BITCOIN time
 
-🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 3h ago
+🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Race for the last million Bitcoin begins...
 
 A bitcoin has 100 million sats. At the bare minimum you need 140 sats to send a transaction since the minimum rate is 1 sat/vB. So, 1 btc could theoretically give you 714,285 transactions. Let's say it's worth paying at least 1 dollar in fees to transact on this revolutionary network. That would make 1 btc worth a maximum of $714,285. But is 1 transaction on a decentralized, secure, permissionless, immutable blockchain only worth paying 1 dollar for? People routinely pay over 10 dollars for wire transfers which are inferior in many ways. If we assume 1 transaction on the btc network is intrinsically worth $10, then the price of 1 btc should be over 7 million dollars. The underlying value of bitcoin is that you need it to transact on the network and transacting on this network has real value.
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hello guys, I'm a beginner dev and I couldn't understand how Bitcoin transaction
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-17h ago
+18h ago
 
 ---
 
@@ -163,13 +163,13 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 The shift comes as stablecoins surge in popularity and competitors like Stripe and PayPal add stablecoin options, increasing market pressure.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
 **[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 2h ago
 
 **[Bitcoin ETF Assets May Decline by $19 Billion Due to Price Drop](https://www.binance.com/en/square/post/299092578765137)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ Binance • 2h ago
 
 Knowing the odds could make you richer down the line.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -229,7 +229,7 @@ WLTX • 1d ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 5h ago
+Polymarket • 6h ago
 
 ---
 
@@ -249,7 +249,7 @@ One critic replied simply "go away."
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 3 • 💬 2 • 5d ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 3 • 💬 2 • 6d ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -269,7 +269,7 @@ Complete operating system for Bitcoiners
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 6d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 7d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -285,7 +285,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 A Go-based platform for running AI agents on schedules with tasks, skills, and persistent memory. Single binary, three operating modes — from single-node to distributed. - dneil5648/ductwork
 
-⬆️ 5 • 💬 8 • 5d ago • [GitHub](https://github.com/dneil5648/ductwork)
+⬆️ 5 • 💬 8 • 6d ago • [GitHub](https://github.com/dneil5648/ductwork)
 
 ---
 
@@ -293,7 +293,7 @@ A Go-based platform for running AI agents on schedules with tasks, skills, and p
 
 A portable encrypted USB vault with a dead man's switch. Your passwords, financial accounts, crypto wallets, and goodbye messages -- delivered to the people you choose, automatically.
 
-⬆️ 2 • 💬 2 • 4d ago • [DeadSwitch](https://dead-switch.com/)
+⬆️ 2 • 💬 2 • 5d ago • [DeadSwitch](https://dead-switch.com/)
 
 ---
 
@@ -331,7 +331,7 @@ A historic shift is happening in the global economy. As geopolitical tensions ri
 
 📺 Financial Funda
 
-👁️ 2K • 👍 83 • 💬 3 • ⏱️ 2:51 • 5h ago
+👁️ 2K • 👍 83 • 💬 3 • ⏱️ 2:51 • 6h ago
 
 ---
 
@@ -371,7 +371,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 131 • ⏱️ 11:48 • 23h ago
+👁️ 44K • 👍 2K • 💬 131 • ⏱️ 11:48 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T22:25:01.726291+00:00'
+updated: '2026-03-07T22:48:53.446152+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 22:25 UTC  
+**Last Updated:** March 07, 2026 at 22:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,13 +64,13 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-20h ago
+21h ago
 
 ---
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 28m ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 52m ago
 
 ---
 
@@ -118,7 +118,7 @@ Fortune • 5h ago
 
 Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
@@ -126,7 +126,7 @@ Business Insider • 4h ago
 
 Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Yahoo • 4h ago
+Yahoo • 5h ago
 
 ---
 
@@ -142,7 +142,7 @@ Business Insider • 3d ago
 
 The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
 
-GeekWire • 2d ago
+GeekWire • 3d ago
 
 ---
 

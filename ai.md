@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T22:25:01.708528+00:00'
+updated: '2026-03-07T22:48:53.430269+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 22:25 UTC  
+**Last Updated:** March 07, 2026 at 22:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
-🔗 [Perplexity AI](https://www.perplexity.ai/page/alibaba-says-its-ai-agent-mine-bgPn.LqpQL.36.izfJgviQ) • 3h ago
+🔗 [Perplexity AI](https://www.perplexity.ai/page/alibaba-says-its-ai-agent-mine-bgPn.LqpQL.36.izfJgviQ) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 10h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 11h ago
 
 ---
 
@@ -63,7 +63,7 @@ Analysis finds that the use of AI in scientific writing is increasing
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 40m ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ Fortune • 1h ago
 
 **[Agentic AI Is Changing The Security Model For Enterprise Systems](https://www.forbes.com/sites/heatherwishartsmith/2026/03/07/agentic-ai-is-changing-the-security-model-for-enterprise-systems/)**
 
-Forbes • 24m ago
+Forbes • 48m ago
 
 ---
 
@@ -179,7 +179,7 @@ CNN • 11h ago
 
 The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -187,7 +187,7 @@ BBC • 21h ago
 
 Elon Musk accused Anthropic CEO Dario Amodei of "projecting" after Amodei said in an interview, "We don’t know if the models are conscious."
 
-Fox News • 5h ago
+Fox News • 6h ago
 
 ---
 
@@ -243,7 +243,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 101 • 💬 82 • 8h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 101 • 💬 82 • 9h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -251,7 +251,7 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
 
-⬆️ 60 • 💬 31 • 16h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
+⬆️ 60 • 💬 31 • 17h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
 
 ---
 
@@ -289,7 +289,7 @@ Everyone keeps saying the same thing: AI is going to replace programmers. You've
 
 📺 devsplate
 
-👁️ 9K • 👍 661 • 💬 131 • ⏱️ 3:46 • 7h ago
+👁️ 9K • 👍 661 • 💬 131 • ⏱️ 3:46 • 8h ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.3k • 🔱 3.1k • 5h ago
+⭐ 24.3k • 🔱 3.1k • 6h ago
 
 ---
 
@@ -651,7 +651,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.1k • 🔱 551 • 20h ago
+⭐ 15.1k • 🔱 551 • 21h ago
 
 ---
 
@@ -721,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 248 • 3h ago
+⭐ 3.4k • 🔱 248 • 4h ago
 
 ---
 
@@ -731,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 636 • 2h ago
+⭐ 3.2k • 🔱 636 • 3h ago
 
 ---
 
