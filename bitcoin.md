@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T11:21:16.825406+00:00'
+updated: '2026-03-07T11:43:33.107240+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 11:21 UTC  
+**Last Updated:** March 07, 2026 at 11:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1358.98B
+**Market Cap:** $1362.03B
 Rank #1
 
-**Circulating Supply:** 19,998,987 BTC
+**Circulating Supply:** 19,999,050 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.1%
+-46.0%
 
 **All-Time Low:** $67.81
-+100107.9%
++100295.2%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-6h ago
+7h ago
 
 ---
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ recently found the passkey for a wallet i created in 2017, used to have BRD wall
 
 I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
 
-9h ago
+10h ago
 
 ---
 
@@ -141,13 +141,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
-8h ago
+9h ago
 
 ---
 
 **[The Battle for Bitcoin's Soul: A Review of the Top 10 Most Vital Improvement Proposals.](https://www.reddit.com/r/Bitcoin/comments/1rn5n3d/the_battle_for_bitcoins_soul_a_review_of_the_top/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-battle-for-bitcoins-soul-a-review) • 1h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-battle-for-bitcoins-soul-a-review) • 2h ago
 
 ---
 
@@ -199,13 +199,13 @@ Yahoo Finance • 2d ago
 
 The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
 **[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -241,7 +241,7 @@ CBC • 1d ago
 
 Email where senders pay satoshis for your attention. Spam dies when it costs money.
 
-⬆️ 15 • 💬 14 • 53m ago • [tanstaafl.email](https://tanstaafl.email)
+⬆️ 15 • 💬 14 • 1h ago • [tanstaafl.email](https://tanstaafl.email)
 
 ---
 
@@ -321,37 +321,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 104 • ⏱️ 11:48 • 12h ago
-
----
-
-**[Bitcoin CRASH Below $60k Incoming SOON? Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=V5xZAgmusXk)**
-
-Are you ready? Top-Tier Crypto Trading Starts Here Join the trading competition and the chance to win up to $3500000 ...
-
-📺 Crypto Jebb
-
-👁️ 4K • 👍 243 • 💬 33 • ⏱️ 15:32 • 16h ago
-
----
-
-**[Bitcoin Is About to Enter a New Era (and nobody’s paying attention)](https://www.youtube.com/watch?v=wpL6jINMHoI)**
-
-Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talking about how AI agents could use Bitcoin as ...
-
-📺 BTC Isla
-
-👁️ 6K • 👍 726 • 💬 103 • ⏱️ 11:28 • 19h ago
-
----
-
-**[Did the Federal Reserve Just Open the Door to Bitcoin?](https://www.youtube.com/watch?v=iDXbH-d-xRc)**
-
-Jamie Dimon just went on national television to push back against Bitcoin and crypto legislation. Hours later, a Bitcoin exchange ...
-
-📺 Swan Bitcoin
-
-👁️ 78K • 👍 3K • 💬 241 • ⏱️ 17:02 • 1d ago
+👁️ 35K • 👍 2K • 💬 109 • ⏱️ 11:48 • 13h ago
 
 ---
 
@@ -361,7 +331,75 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 160 • ⏱️ 8:38 • 1d ago
+👁️ 45K • 👍 2K • 💬 161 • ⏱️ 8:38 • 1d ago
+
+---
+
+**[How Bitcoin Could Get To $10 MILLION Per Coin](https://www.youtube.com/watch?v=0mHU6N2G6_o)**
+
+Brian Dixon is the CEO of Off The Chain Capital. In this conversation, we discuss whether bitcoin acts as a risk-on tech asset or ...
+
+📺 Anthony Pompliano
+
+👁️ 36K • 👍 1K • 💬 98 • ⏱️ 40:52 • 1d ago
+
+---
+
+**[Bitcoin Is About to Enter a New Era (and nobody’s paying attention)](https://www.youtube.com/watch?v=wpL6jINMHoI)**
+
+Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talking about how AI agents could use Bitcoin as ...
+
+📺 BTC Isla
+
+👁️ 6K • 👍 752 • 💬 105 • ⏱️ 11:28 • 19h ago
+
+---
+
+**[Trump Just SAVED Crypto In 2026 - Samson Mow Bitcoin](https://www.youtube.com/watch?v=NGYrOC3-eq8)**
+
+Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily On-Chain Analysis & Crypto News In ...
+
+📺 Library Of Wealth
+
+👁️ 2K • 👍 110 • 💬 91 • ⏱️ 16:15 • 6h ago
+
+---
+
+**[Did the Federal Reserve Just Open the Door to Bitcoin?](https://www.youtube.com/watch?v=iDXbH-d-xRc)**
+
+Jamie Dimon just went on national television to push back against Bitcoin and crypto legislation. Hours later, a Bitcoin exchange ...
+
+📺 Swan Bitcoin
+
+👁️ 79K • 👍 3K • 💬 243 • ⏱️ 17:02 • 1d ago
+
+---
+
+**[Why Bitcoin Keeps Dropping](https://www.youtube.com/watch?v=z6Mm8vNGFtk)**
+
+📺 Andrei Jikh
+
+👁️ 35K • 👍 1K • 💬 22 • ⏱️ 1:12 • 18h ago
+
+---
+
+**[&quot;Bitcoin is Going to 20x, But 99% are Clueless&quot; - Matt Hougan [NEW Bitcoin &amp; Crypto Prediction 2026]](https://www.youtube.com/watch?v=hREk_BflFms)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 21K • 👍 610 • 💬 63 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[Bitcoin Dumping FAST… What Donald Trump Just Said](https://www.youtube.com/watch?v=ZGZ41p7L3jc)**
+
+Is the crypto market reacting to a new era of global conflict? In today's video, we are breaking down why Bitcoin is seeing a ...
+
+📺 Discover Crypto
+
+👁️ 11K • 👍 417 • 💬 32 • ⏱️ 1:19:59 • 18h ago
 
 ---
 
@@ -371,47 +409,7 @@ Gold is winning... for now. Bitcoin? Caught in the risk-off crossfire. Are inves
 
 📺 ARK Invest
 
-👁️ 15K • 👍 408 • 💬 8 • ⏱️ 2:11 • 1d ago
-
----
-
-**[🚨 Bitcoin Going To $15k?](https://www.youtube.com/watch?v=Dj87I51tdsU)**
-
-Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 16K • 👍 300 • 💬 67 • ⏱️ 1:16 • 2d ago
-
----
-
-**[The Banks Are Trying to Stop Bitcoin!](https://www.youtube.com/watch?v=du8cKForpAk)**
-
-Banks are stalling the CLARITY Act because Bitcoin adoption threatens the only thing they truly worship, your deposits.
-
-📺 Swan Bitcoin
-
-👁️ 20K • 👍 1K • 💬 115 • ⏱️ 11:43 • 21h ago
-
----
-
-**[LIVE: BlackRock confirms partnership with Ripple! This Speech Is a Game Changer for XRP!](https://www.youtube.com/watch?v=sl0KaXM5eUc)**
-
-Welcome to the BlackRock & Ripple Strategic Forum 2026 — streaming LIVE! Today, Larry Fink, CEO of BlackRock, delivers a ...
-
-📺 Tabletop WitchCRAFT
-
-👁️ 5K • 👍 3K • 9h ago
-
----
-
-**[The ETF Lie Is Hiding Bitcoin&#39;s Bottom](https://www.youtube.com/watch?v=g-dTRbXPGw0)**
-
-Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's entire 17-year history. With $4.5 billion in ETF outflows ...
-
-📺 Coin Bureau
-
-👁️ 19K • 👍 753 • 💬 51 • ⏱️ 18:20 • 17h ago
+👁️ 15K • 👍 418 • 💬 9 • ⏱️ 2:11 • 1d ago
 
 ---
 

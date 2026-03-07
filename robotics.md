@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T11:21:16.834584+00:00'
+updated: '2026-03-07T11:43:33.116423+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 11:21 UTC  
+**Last Updated:** March 07, 2026 at 11:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-14h ago
+15h ago
 
 ---
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -72,7 +72,7 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
 
-19h ago
+20h ago
 
 ---
 
@@ -94,7 +94,7 @@ Sorry if this isn’t the place to post this since it’s really a hobby project
 
 I've had multiple iRobots and they were total junk...There is ALWAYS an error...my wife was like "you wasted money again"😭 Now Im in love with my narwal (freo z10 ultra). It does occasionally bump some chair legs when trying to sneak through, but most of the time it cruises through like a pro. The best part is, the robovac has riser side brushed on both sides, so it can easily get into the gaps around cabinet and table legs, no more bending over to check for leftover sauce. It saves much time and energy. And I think roller mop does not get cleaned as well as a double rotating mops in the base. 🙌 So my wife went from "you wasted money again" to "okay, this thing is actually awesome." Feels good to be right for once.
 
-17h ago
+18h ago
 
 ---
 
@@ -194,7 +194,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 445K • 👍 29K • 💬 3K • ⏱️ 16:54 • 3d ago
+👁️ 453K • 👍 30K • 💬 3K • ⏱️ 16:54 • 3d ago
 
 ---
 
@@ -204,27 +204,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 42K • 👍 639 • 💬 66 • ⏱️ 29:41 • 1d ago
-
----
-
-**[FRC team 1690 Orbit 2026 robot reveal - &quot;KEPLER&quot;](https://www.youtube.com/watch?v=yW90nd563wI)**
-
-FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game REBUILT! Huge thanks to all of our sponsors ...
-
-📺 Orbit 1690
-
-👁️ 52K • 👍 2K • 💬 138 • ⏱️ 2:21 • 5d ago
-
----
-
-**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
-
-Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
-
-📺 AI Revolution
-
-👁️ 19K • 👍 733 • 💬 53 • ⏱️ 14:35 • 2d ago
+👁️ 45K • 👍 682 • 💬 70 • ⏱️ 29:41 • 1d ago
 
 ---
 
@@ -234,7 +214,27 @@ War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #
 
 📺 Adrian Chong
 
-👁️ 7K • 👍 367 • 💬 60 • ⏱️ 15:24 • 1d ago
+👁️ 7K • 👍 368 • 💬 60 • ⏱️ 15:24 • 1d ago
+
+---
+
+**[FRC team 1690 Orbit 2026 robot reveal - &quot;KEPLER&quot;](https://www.youtube.com/watch?v=yW90nd563wI)**
+
+FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game REBUILT! Huge thanks to all of our sponsors ...
+
+📺 Orbit 1690
+
+👁️ 53K • 👍 2K • 💬 138 • ⏱️ 2:21 • 5d ago
+
+---
+
+**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
+
+Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
+
+📺 AI Revolution
+
+👁️ 19K • 👍 734 • 💬 53 • ⏱️ 14:35 • 2d ago
 
 ---
 
@@ -244,7 +244,17 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 35K • 👍 2K • 💬 259 • ⏱️ 0:13 • 3d ago
+👁️ 36K • 👍 2K • 💬 263 • ⏱️ 0:13 • 3d ago
+
+---
+
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
+
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
+
+📺 CGTN Europe
+
+👁️ 417K • 👍 649 • 💬 10 • ⏱️ 29:40 • 2d ago
 
 ---
 
@@ -254,7 +264,7 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 58K • 👍 876 • 💬 52 • ⏱️ 1:29:27 • 6d ago
+👁️ 58K • 👍 878 • 💬 52 • ⏱️ 1:29:27 • 6d ago
 
 ---
 
@@ -264,7 +274,7 @@ This video is supported by Kettering University: Accepted @KetteringUniversity19
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 40 • 💬 5 • ⏱️ 1:30 • 11h ago
+👁️ 2K • 👍 41 • 💬 5 • ⏱️ 1:30 • 12h ago
 
 ---
 
@@ -272,17 +282,7 @@ This video is supported by Kettering University: Accepted @KetteringUniversity19
 
 📺 Planet Roomba
 
-👁️ 6K • 💬 5 • ⏱️ 21:32 • 22h ago
-
----
-
-**[Chinese Fighting Robots Left US Speechless at China Expo 2026](https://www.youtube.com/watch?v=BCt9xAu7wKY)**
-
-At China Expo 2026, Chinese fighting robots became one of the most shocking highlights of the entire event, showcasing ...
-
-📺 Carros Show
-
-👁️ 4K • 👍 66 • 💬 23 • ⏱️ 9:59 • 5d ago
+👁️ 7K • 💬 5 • ⏱️ 21:32 • 22h ago
 
 ---
 

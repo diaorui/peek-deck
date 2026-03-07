@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-07T11:21:16.831399+00:00'
+updated: '2026-03-07T11:43:33.113208+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 11:21 UTC  
+**Last Updated:** March 07, 2026 at 11:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.50B
+**Market Cap:** $239.93B
 Rank #2
 
 **Circulating Supply:** 120,692,062 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.9%
+-59.8%
 
 **All-Time Low:** $0.43
-+458104.7%
++458885.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've been working on verifying source code for the oldest contracts on Ethereum, and this one took days to crack. The contract: 0xa2e3680acaf5d2298697bdc016cf75a929385463 Deployed by Vitalik on November 12, 2015 (block 530,996). It's a token contract implementing the standardized currency API from the early ethereum/dapp-bin repo. 1,000,000 initial supply, approve/transfer mechanics - basically a proto-ERC-20. The problem: We tried compiling currency.sol with every Solidity compiler version from that era. Every archived soljson release from v0.1.1 through v0.3.6, nightlies from Sep-Dec 2015, native C++ solc builds from the webthree-umbrella repo, optimizer on and off. Nothing matched. The breakthrough: Three clues pointed us away from Solidity entirely: The on-chain constructor starts with 6000603f53 (MSTORE8-based memory init). Every Solidity version produces 60606040525b (the free memory pointer pattern). This is a fundamentally different code generation approach. The runtime code uses MSIZE, SWAP1, MSIZE, ADD for memory allocation. This is the Serpent compiler's alloc() pattern - not found in any version of solc. Two function selectors didn't match the Solidity source: disapprove() instead of unapprove(), and isApprovedOnceFor() instead of isApprovedOnce(). The answer: The contract was compiled from currency.se (the Serpent version), not currency.sol. The ethereum/dapp-bin repo had both implementations side by side. Vitalik deployed his own language's version. Compiled with the Serpent compiler at commit f0b4128 (Oct 15, 2015) - byte-for-byte identical, all 1,661 bytes. Full methodology, source, and proof: github.com/cartoonitunes/vitalik-currency-verification We've submitted a manual verification request to Etherscan since they don't support Serpent as a verification language. Hopefully they can add it as a verified contract with source. This is part of a broader effort to verify and preserve the earliest contracts on Ethereum. A lot of historically important contracts from 2015-2016 are still unverified because the compiler versions are too old for Etherscan's automated tools.
 
-19h ago
+20h ago
 
 ---
 
@@ -140,7 +140,7 @@ On March 29, 2016, Digix Global launched what became the first major DAO crowdsa
 
 **[(UPDATE) 1.5 Eth stolen from Trust Wallet](https://www.reddit.com/r/ethereum/comments/1rmphbh/update_15_eth_stolen_from_trust_wallet/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -234,7 +234,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 170 • 💬 34 • ⏱️ 10:24 • 23h ago
+👁️ 4K • 👍 171 • 💬 36 • ⏱️ 10:24 • 23h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN & ALTCOIN WARNING: Signal Confirmed!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 192 • 💬 32 • ⏱️ 18:59 • 10h ago
+👁️ 6K • 👍 212 • 💬 34 • ⏱️ 18:59 • 10h ago
 
 ---
 
@@ -258,33 +258,23 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=2e_BQztHiGg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 719 • 👍 69 • 💬 3 • ⏱️ 3:52 • 7h ago
-
----
-
 **[Tom Lee has gone insane (ethereum).](https://www.youtube.com/watch?v=KUl2p8MQGBg)**
 
 BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 635 • 💬 22 • ⏱️ 1:16 • 1d ago
+👁️ 23K • 👍 640 • 💬 22 • ⏱️ 1:16 • 1d ago
 
 ---
 
-**[Mark Cuban’s Honest Crypto Prediction (Bitcoin vs Ethereum)](https://www.youtube.com/watch?v=YE1UIgyHq-g)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=2e_BQztHiGg)**
 
-Is crypto still the future of investing? Mark Cuban shares his honest take: • Bitcoin isn't going anywhere • Ethereum still has ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 VP Motion
+📺 More Crypto Online
 
-👁️ 2K • 👍 19 • 💬 3 • ⏱️ 0:46 • 18h ago
+👁️ 980 • 👍 84 • 💬 6 • ⏱️ 3:52 • 7h ago
 
 ---
 
@@ -294,7 +284,37 @@ We analyze the latest crypto whale activity and what it could mean for the broad
 
 📺 Altcoin Buzz
 
-👁️ 2K • 👍 96 • 💬 56 • ⏱️ 12:09 • 19h ago
+👁️ 2K • 👍 102 • 💬 56 • ⏱️ 12:09 • 19h ago
+
+---
+
+**[LONG-TERM ETH PREDICTION UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=p4Sz-ksUU_Q)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 45 • 👍 4 • 💬 1 • ⏱️ 4:45 • 1h ago
+
+---
+
+**[Mark Cuban’s Honest Crypto Prediction (Bitcoin vs Ethereum)](https://www.youtube.com/watch?v=YE1UIgyHq-g)**
+
+Is crypto still the future of investing? Mark Cuban shares his honest take: • Bitcoin isn't going anywhere • Ethereum still has ...
+
+📺 VP Motion
+
+👁️ 2K • 👍 21 • 💬 3 • ⏱️ 0:46 • 18h ago
+
+---
+
+**[🔥 Bitcoin vs Ethereum vs XRP: HOLD or SELL Now?](https://www.youtube.com/watch?v=pni0OJ1fhIA)**
+
+Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ...
+
+📺 Kirtish Vyas (CoinLyte)
+
+👁️ 444 • 👍 39 • 💬 4 • ⏱️ 9:55 • 1h ago
 
 ---
 
@@ -304,27 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 5 • ⏱️ 6:30 • 18h ago
-
----
-
-**[ETH Ethereum Price Prediction: 6th of March](https://www.youtube.com/watch?v=bf0gs5177U8)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 293 • 👍 24 • 💬 4 • ⏱️ 7:22 • 15h ago
-
----
-
-**[Sui Founder Explains Why Ethereum &amp; Solana Will Be Left Behind | E161](https://www.youtube.com/watch?v=5Tunu3t7kQ4)**
-
-Evan Cheng co-founded SUI after leading Facebook's Libra project - then threw away everything they built because it wasn't good ...
-
-📺 When Shift Happens
-
-👁️ 22K • 👍 503 • 💬 153 • ⏱️ 49:16 • 1d ago
+👁️ 2K • 👍 123 • 💬 5 • ⏱️ 6:30 • 18h ago
 
 ---
 

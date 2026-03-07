@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T11:21:16.816977+00:00'
+updated: '2026-03-07T11:43:33.098573+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 11:21 UTC  
+**Last Updated:** March 07, 2026 at 11:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 18h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 19h ago
 
 ---
 
@@ -55,7 +55,7 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 Send a dm to enquire, thats all I can say. I'll tell you about it in dms. You need to have good hardware
 
-1h ago
+2h ago
 
 ---
 
@@ -77,7 +77,7 @@ Hey guys, some of you might remember me. I built a tool called Netryx that can g
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -99,7 +99,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 19h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 20h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hello everyone The title is my question really - I'm just wondering if there's a
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fortune • 2h ago
 
 Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
 
-CNN • 20m ago
+CNN • 42m ago
 
 ---
 
@@ -175,7 +175,7 @@ The Guardian • 17h ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 13h ago
+NPR • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ inc.com • 1d ago
 
 Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -287,7 +287,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 105K • 👍 5K • 💬 325 • ⏱️ 17:49 • 1d ago
+👁️ 109K • 👍 5K • 💬 331 • ⏱️ 17:49 • 1d ago
 
 ---
 
@@ -297,7 +297,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 45K • 👍 2K • 💬 260 • ⏱️ 38:02 • 17h ago
+👁️ 49K • 👍 2K • 💬 264 • ⏱️ 38:02 • 18h ago
 
 ---
 
@@ -307,7 +307,27 @@ Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thin
 
 📺 AI Explained
 
-👁️ 44K • 👍 2K • 💬 344 • ⏱️ 21:52 • 18h ago
+👁️ 47K • 👍 2K • 💬 351 • ⏱️ 21:52 • 19h ago
+
+---
+
+**[AI Is the Biggest Existential Threat Humans Have Ever Faced — And Most People Are Completely Unprepa](https://www.youtube.com/watch?v=VcTsJFinOjs)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+
+📺 Julia McCoy
+
+👁️ 34K • 👍 2K • 💬 535 • ⏱️ 16:12 • 1d ago
+
+---
+
+**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
+
+Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
+
+📺 Spacialize
+
+👁️ 34K • 👍 878 • 💬 183 • ⏱️ 21:16 • 14h ago
 
 ---
 
@@ -321,33 +341,13 @@ Artificial intelligence is already changing the job market and the classroom, wi
 
 ---
 
-**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
-
-Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
-
-📺 Spacialize
-
-👁️ 33K • 👍 832 • 💬 175 • ⏱️ 21:16 • 13h ago
-
----
-
-**[AI Is the Biggest Existential Threat Humans Have Ever Faced — And Most People Are Completely Unprepa](https://www.youtube.com/watch?v=VcTsJFinOjs)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
-
-📺 Julia McCoy
-
-👁️ 34K • 👍 2K • 💬 530 • ⏱️ 16:12 • 1d ago
-
----
-
 **[AI Expert Tells Bernie: “The Humans will be Discarded”](https://www.youtube.com/watch?v=1oS35oWWl28)**
 
 Will AI become smarter than humans? If so, is humanity in danger? I went to Silicon Valley to ask some of the leading AI experts ...
 
 📺 Senator Bernie Sanders
 
-👁️ 250K • 👍 12K • 💬 4K • ⏱️ 9:38 • 2d ago
+👁️ 254K • 👍 12K • 💬 4K • ⏱️ 9:38 • 2d ago
 
 ---
 
@@ -357,7 +357,7 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 44K • 👍 1K • 💬 103 • ⏱️ 10:56 • 1d ago
+👁️ 46K • 👍 1K • 💬 103 • ⏱️ 10:56 • 1d ago
 
 ---
 
@@ -367,17 +367,17 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 204K • 👍 8K • 💬 2K • ⏱️ 21:38 • 1d ago
+👁️ 208K • 👍 8K • 💬 2K • ⏱️ 21:38 • 1d ago
 
 ---
 
-**[My AI Agents Made Money in 7 Days (OpenClaw)](https://www.youtube.com/watch?v=LCkGVCfmtzo)**
+**[The Future of Creation with AI](https://www.youtube.com/watch?v=GwO_h_djfKE)**
 
-Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator Magic Premium: https://mrc.fm/premium Last week I ...
+Why nodes are not the future of AI creation and 3D viewport control is what's actually missing, and Luma AI dropping agents ...
 
-📺 Creator Magic
+📺 Bad Decisions Studio 
 
-👁️ 20K • 👍 700 • 💬 66 • ⏱️ 8:17 • 22h ago
+👁️ 2K • 👍 147 • 💬 55 • ⏱️ 56:39 • 15h ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 692,588 • ❤️ 547 • 5d ago
+⬇️ 692,588 • ❤️ 549 • 5d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,086,662 • ❤️ 1,007 • 8d ago
+⬇️ 1,086,662 • ❤️ 1,010 • 8d ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 346,126 • ❤️ 303 • 4d ago
+⬇️ 346,126 • ❤️ 304 • 5d ago
 
 ---
 
@@ -429,7 +429,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 119,290 • ❤️ 281 • 1d ago
+⬇️ 119,290 • ❤️ 287 • 1d ago
 
 ---
 
@@ -445,18 +445,6 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 ---
 
-**[Qwen3.5-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.0 for efficient local inference. It excels at image-text-to-text tasks, offering strong reasoning and visual understanding capabilities across 201 languages with a 262K+ context window.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 1,012,202 • ❤️ 557 • 1d ago
-
----
-
 **[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
 
 *Unsloth AI*
@@ -465,7 +453,19 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 436,300 • ❤️ 226 • 4d ago
+⬇️ 436,300 • ❤️ 228 • 4d ago
+
+---
+
+**[Qwen3.5-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.0 for efficient local inference. It excels at image-text-to-text tasks, offering strong reasoning and visual understanding capabilities across 201 languages with a 262K+ context window.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 1,012,202 • ❤️ 558 • 1d ago
 
 ---
 
@@ -477,7 +477,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 630,137 • ❤️ 602 • 10d ago
+⬇️ 630,137 • ❤️ 604 • 10d ago
 
 ---
 
@@ -489,7 +489,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 52,816 • ❤️ 157 • 3d ago
+⬇️ 52,816 • ❤️ 164 • 3d ago
 
 ---
 
@@ -501,7 +501,7 @@ An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for r
 
 `image-text-to-text` `36.0B`
 
-⬇️ 21,688 • ❤️ 188 • 5d ago
+⬇️ 21,688 • ❤️ 189 • 5d ago
 
 ---
 
@@ -659,7 +659,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.6k • 🔱 517 • 9h ago
+⭐ 14.7k • 🔱 524 • 10h ago
 
 ---
 
@@ -689,7 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.6k • 🔱 493 • 6h ago
+⭐ 6.7k • 🔱 497 • 6h ago
 
 ---
 
@@ -699,7 +699,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 683 • 7h ago
+⭐ 5.8k • 🔱 686 • 7h ago
 
 ---
 
@@ -709,7 +709,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 4.8k • 🔱 388 • 1d ago
+⭐ 4.9k • 🔱 398 • 1d ago
 
 ---
 
@@ -719,7 +719,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 385 • 1h ago
+⭐ 3.6k • 🔱 385 • 15m ago
 
 ---
 
@@ -729,7 +729,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 242 • 7h ago
+⭐ 3.3k • 🔱 242 • 2h ago
 
 ---
 
