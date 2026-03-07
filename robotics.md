@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-07T08:33:46.765363+00:00'
+updated: '2026-03-07T09:30:24.482394+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 07, 2026 at 08:33 UTC  
+**Last Updated:** March 07, 2026 at 09:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
 
-11h ago
+12h ago
 
 ---
 
 **[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Xiaomi Shows Humanoid Robots Working Autonomously on Production Lines with 90.2% Success Rate](https://www.reddit.com/r/robotics/comments/1rmixa6/xiaomi_shows_humanoid_robots_working_autonomously/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
-4h ago
+5h ago
 
 ---
 
@@ -64,7 +64,7 @@ From RIVR on 𝕏: https://x.com/rivr_tech/status/2029916604239056969
 
 I have finished my robotics arm object grasping project ! Initially , I want to make a depth camera by myself for loss cost , but it ' s too difficult for me . I have tested several camera , I finded P008G is great for it ' s highly accurate depth data . I did a great job !
 
-17h ago
+18h ago
 
 ---
 
@@ -72,7 +72,7 @@ I have finished my robotics arm object grasping project ! Initially , I want to 
 
 Sorry if this isn’t the place to post this since it’s really a hobby project and this feels more like a simple blog post. I just figured I’d share it since I had spent time working on it. I suppose there are 3 main reasons why I scrapped it. I made the mistake of designing from the base upward as opposed to from the end-effector downward which led to a loss in desired elegance of the design itself. I also decided that I want to implement 6DOFs instead of just 4. On top of that, I decided to try my hand at accomplishing remote cable transmission for all DOFs aside from the base rotation. I’ve already finished designing the 6DOF arm, I just haven’t assembled it yet. Anyways, here’s a brief overview of the mechanical design. The base is essentially just a turn-table bearing system with 5 bearings between the top and bottom traces. The shoulder transmission is just direct mounting. Elbow transmission is via bevel gears to keep weight closer to the output shaft of the shoulder joint’s motor. The wrist transmission is via capstan antagonistic cabling. Then I have a lever at the end of the 3rd link after the wrist for my desired end-effector function utilizing capstan antagonistic cable transmission as well. I decided to scrap it before finishing the end-effector though. The new design focuses on complete remote transmission via capstan antagonistic cables in conjunction with Bowden cable sheaths used for the 3DOFs I have decoupled at the wrist joint. Again, sorry if this isn’t the place for this as this is something of a blog post more than anything. But I’m hoping this may intrigue someone. Also, I probably will design a proper shell at some point but I have a mini 3D printer and tbh I like seeing everything move.
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Sorry if this isn’t the place to post this since it’s really a hobby project
 
 I've had multiple iRobots and they were total junk...There is ALWAYS an error...my wife was like "you wasted money again"😭 Now Im in love with my narwal (freo z10 ultra). It does occasionally bump some chair legs when trying to sneak through, but most of the time it cruises through like a pro. The best part is, the robovac has riser side brushed on both sides, so it can easily get into the gaps around cabinet and table legs, no more bending over to check for leftover sauce. It saves much time and energy. And I think roller mop does not get cleaned as well as a double rotating mops in the base. 🙌 So my wife went from "you wasted money again" to "okay, this thing is actually awesome." Feels good to be right for once.
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've had multiple iRobots and they were total junk...There is ALWAYS an error...
 
 I built a SLAM simulator in Rust where you can see EKF-SLAM and FastSLAM running at the same time. I deployed it to the web, so you can place obstructions and landmarks and compare the two algorithms. Live Demo: https://slam.pramodna.com/ Github: https://github.com/7673502/2D-SLAM-Simulator
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ I built a SLAM simulator in Rust where you can see EKF-SLAM and FastSLAM running
 
 Current state of the build: 50% conceptualized, 80% inspired by other robots, and 75% properly dimensioned. I'm basically mashing up a few different designs to see what sticks. Got the first 3 axis figured out so far, but still a long way to go on the 'actual engineering' side of things. https://preview.redd.it/5fbj5ithqjng1.png?width=870&format=png&auto=webp&s=a226c409c3af9274f8efb782f34f989c8cd783a0 https://preview.redd.it/j07eyhthqjng1.png?width=417&format=png&auto=webp&s=246022e6fcc6e79fe7e9afc85ff70859ac75b3a4 https://preview.redd.it/28nzgithqjng1.png?width=869&format=png&auto=webp&s=5604db58629e23aca4f9503614d231201f801b7f https://preview.redd.it/syr4githqjng1.png?width=516&format=png&auto=webp&s=79581300b8624917e159669bb70ba6e6a33a29b3
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Current state of the build: 50% conceptualized, 80% inspired by other robots, an
 
 Update on my 6-DOF desktop arm project: I’ve officially moved into the mechanical prototyping phase, starting with the most complex hurdle—the Wrist. The goal was to pack 3 degrees of freedom into a compact volume while keeping everything 3D printable. I modeled an Omni-Wrist mechanism in OnShape with “perfect” dimensions, using a series of butt-hinge linkages with 3D-printed pins. On-screen, the digital assembly worked flawlessly, but reality hit hard. The Fail: My first print had zero play. While "zero-clearance" sounds great in CAD, filament expansion turned the whole assembly into a static paperweight. The tolerances were too tight, the hinges seized, and the pins were impossible to seat without snapping the linkages. The Pivot: I went back to the "Model-Print-Iterate" cycle. I increased the clearances to 0.2mm and redesigned the pivot points as snap-fit pins. This allows the linkages to stay secure under pressure while maintaining enough "fluidity" for manual movement. The Query: For those who build small-scale linkages: Pin Durability: Do 3D-printed pins actually hold up under the repetitive stress of a 6-DOF arm, or is it a fool's errand? Should I move to metal dowel pins now before I build the rest of the arm? Hinge Alternatives: Given the friction issues with 3D-printed butt hinges, is there a more efficient hinge style or linkage structure you'd recommend for a 3-DOF wrist that is easier to assemble and maintain?
 
-23h ago
+1d ago
 
 ---
 
@@ -150,7 +150,7 @@ Bloomberg • 1d ago
 
 **[Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)**
 
-Raspberry Pi • 21h ago
+Raspberry Pi • 22h ago
 
 ---
 
@@ -172,13 +172,13 @@ Nature • 1d ago
 
 NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
 
-the wellsville sun • 19h ago
+the wellsville sun • 20h ago
 
 ---
 
 **[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 20h ago
 
 ---
 
@@ -192,7 +192,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 434K • 👍 29K • 💬 3K • ⏱️ 16:54 • 3d ago
+👁️ 445K • 👍 29K • 💬 3K • ⏱️ 16:54 • 3d ago
 
 ---
 
@@ -202,17 +202,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 38K • 👍 597 • 💬 59 • ⏱️ 29:41 • 1d ago
-
----
-
-**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
-
-War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
-
-📺 Adrian Chong
-
-👁️ 7K • 👍 367 • 💬 60 • ⏱️ 15:24 • 1d ago
+👁️ 42K • 👍 639 • 💬 66 • ⏱️ 29:41 • 1d ago
 
 ---
 
@@ -232,7 +222,55 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 19K • 👍 729 • 💬 53 • ⏱️ 14:35 • 2d ago
+👁️ 19K • 👍 733 • 💬 53 • ⏱️ 14:35 • 2d ago
+
+---
+
+**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
+
+War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
+
+📺 Adrian Chong
+
+👁️ 7K • 👍 367 • 💬 60 • ⏱️ 15:24 • 1d ago
+
+---
+
+**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
+
+A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
+
+📺 Billionaire Shots
+
+👁️ 35K • 👍 2K • 💬 259 • ⏱️ 0:13 • 3d ago
+
+---
+
+**[AI EXPLODES This Month: Biomimetic Robots, Gemini 3.1, OpenAI–OpenClaw, LYRIA 3 &amp; More](https://www.youtube.com/watch?v=r6umFAnMEEM)**
+
+This month in AI pushed everything to the edge. Biomimetic robots from China are now so human-like they're unsettling, while ...
+
+📺 AI Revolution
+
+👁️ 58K • 👍 876 • 💬 52 • ⏱️ 1:29:27 • 6d ago
+
+---
+
+**[Moving Ramp System and Potentiometer | 3333X X-treme Bot  | V5RC Robot Rundown](https://www.youtube.com/watch?v=FfvFzxCuqQg)**
+
+This video is supported by Kettering University: Accepted @KetteringUniversity1919 students can receive a VEX/FIRST ...
+
+📺 FUN Robotics Network
+
+👁️ 2K • 👍 40 • 💬 5 • ⏱️ 1:30 • 10h ago
+
+---
+
+**[Robot Vacuum Running! Custom Edition #2](https://www.youtube.com/watch?v=Wn95m5QT6F0)**
+
+📺 Planet Roomba
+
+👁️ 6K • 💬 5 • ⏱️ 21:32 • 20h ago
 
 ---
 
@@ -243,24 +281,6 @@ At China Expo 2026, Chinese fighting robots became one of the most shocking high
 📺 Carros Show
 
 👁️ 4K • 👍 66 • 💬 23 • ⏱️ 9:59 • 5d ago
-
----
-
-**[Robot Vacuum Running! Custom Edition #2](https://www.youtube.com/watch?v=Wn95m5QT6F0)**
-
-📺 Planet Roomba
-
-👁️ 5K • 💬 5 • ⏱️ 21:32 • 19h ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN Europe
-
-👁️ 398K • 👍 615 • 💬 9 • ⏱️ 29:40 • 2d ago
 
 ---
 

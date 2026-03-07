@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-07T08:33:46.747320+00:00'
+updated: '2026-03-07T09:30:24.464579+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - news
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 07, 2026 at 08:33 UTC  
+**Last Updated:** March 07, 2026 at 09:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 8h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 9h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 16h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 17h ago
 
 ---
 
@@ -55,7 +55,7 @@ OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and suppor
 
 I've been thinking about why we build AI agent systems with deterministic orchestration when agents themselves are fundamentally probabilistic. They hallucinate. They fail unpredictably. But we manage them with rigid pipelines and single points of failure. Brains don't work that way. Neurons are wildly unreliable — synapses have a 10-40% transmission rate, cells die daily — yet the architecture produces extraordinary reliability through redundancy, population coding, and connections that strengthen with use. So I built ProbOS — a working prototype of a brain-inspired agent runtime where: - Every file operation is performed by 3 agents independently, verified through quorum consensus - Agents self-select for tasks via capability broadcasting (no central dispatcher) - Adversarial red team agents verify every write operation - Trust scores update via Bayesian inference (Beta distribution) - Routing weights evolve through Hebbian learning — the system literally rewires itself based on what works - An LLM serves as the cognitive layer, decomposing natural language into task DAGs that execute across the agent mesh - When agents fail, the population absorbs it and spawns replacements — no crash state, just reduced capability The stack is Python 3.12 + asyncio, with 5 architectural layers (substrate, mesh, consensus, cognitive, experience), 277 tests passing, 10 agents across 4 pools. In the video I boot it, talk to it in plain English, read and write files through the full consensus pipeline, and show the trust scores and Hebbian weights evolving in real time. The individual pieces exist in literature (multi-agent consensus, Hebbian routing in swarms, brain-inspired computing) but as far as I can find, nobody has wired them together into a working system with an LLM cognitive layer you can interact with. Happy to answer questions about the architecture, the design tradeoffs, or where it breaks down. There's a lot that's still naive — the attention mechanism isn't built yet, episodic memory isn't implemented, and the agent type coverage is minimal (just file operations). But the core paradigm works. https://youtu.be/I3vqHDY04aY
 
-32m ago
+1h ago
 
 ---
 
@@ -63,13 +63,13 @@ I've been thinking about why we build AI agent systems with deterministic orches
 
 Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha. Coordinates: 25.212738, 51.427792
 
-23h ago
+1d ago
 
 ---
 
 **[Final Qwen3.5 Unsloth GGUF Update!](https://www.reddit.com/r/artificial/comments/1rmil8p/final_qwen35_unsloth_gguf_update/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -91,7 +91,7 @@ WPI researchers have used a form of artificial intelligence (AI) to analyze anat
 
 Due to pressure from the European Commission, Meta is allowing AI companies to integrate their chatbots into WhatsApp in 31 countries.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 16h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/) • 17h ago
 
 ---
 
@@ -119,7 +119,7 @@ A team of researchers at the University of California, Los Angeles (UCLA) has in
 
 The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -127,13 +127,13 @@ Fortune • 15h ago
 
 The maker of the Claude chatbot says its research could help identify economic disruptions by measuring how AI is currently reshaping work.
 
-CBS News • 12h ago
+CBS News • 13h ago
 
 ---
 
 **[Opinion | The A.I. Labor Crisis Is Coming. This Is the Solution. - The New York Times](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -147,7 +147,7 @@ BBC • 8h ago
 
 **[China's Jiangsu touts AI industrial push as Xi urges province to lead](https://www.reuters.com/world/asia-pacific/chinas-jiangsu-touts-ai-industrial-push-xi-urges-province-lead-2026-03-07/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Reuters • 1h ago
 
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
@@ -169,7 +169,7 @@ OpenAI • 1d ago
 
 **[US draws up strict AI guidelines amid Anthropic clash, FT reports](https://www.reuters.com/business/media-telecom/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-2026-03-07/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -177,13 +177,13 @@ Reuters • 7h ago
 
 A top Pentagon official says a fight with Anthropic centered on how the military could someday use artificial intelligence in autonomous weapons.
 
-AP News • 7h ago
+AP News • 8h ago
 
 ---
 
 **[Opinion | Why the Pentagon Wants to Destroy Anthropic - The New York Times](https://www.nytimes.com/2026/03/06/opinion/ezra-klein-podcast-dean-ball.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -217,7 +217,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 197 • 💬 309 • 23h ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 197 • 💬 309 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -273,63 +273,33 @@ Your spec, your standards, your repos. p0 is a Mac app and structured AI pipelin
 
 ## YouTube Videos: "ai"
 
-**[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
-
-Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
-
-📺 Matt Wolfe
-
-👁️ 41K • 👍 2K • 💬 241 • ⏱️ 38:02 • 15h ago
-
----
-
 **[You’re not behind (yet): How to learn AI in 18 minutes](https://www.youtube.com/watch?v=0Tch0N5nsRU)**
 
 Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA2 Are you a Business owner? Join my ...
 
 📺 Dan Martell
 
-👁️ 100K • 👍 5K • 💬 326 • ⏱️ 17:49 • 1d ago
+👁️ 105K • 👍 5K • 💬 325 • ⏱️ 17:49 • 1d ago
 
 ---
 
-**[AI Expert Tells Bernie: “The Humans will be Discarded”](https://www.youtube.com/watch?v=1oS35oWWl28)**
+**[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
 
-Will AI become smarter than humans? If so, is humanity in danger? I went to Silicon Valley to ask some of the leading AI experts ...
+Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
 
-📺 Senator Bernie Sanders
+📺 Matt Wolfe
 
-👁️ 244K • 👍 12K • 💬 4K • ⏱️ 9:38 • 2d ago
-
----
-
-**[AI Is the Biggest Existential Threat Humans Have Ever Faced — And Most People Are Completely Unprepa](https://www.youtube.com/watch?v=VcTsJFinOjs)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
-
-📺 Julia McCoy
-
-👁️ 33K • 👍 2K • 💬 522 • ⏱️ 16:12 • 1d ago
+👁️ 45K • 👍 2K • 💬 260 • ⏱️ 38:02 • 16h ago
 
 ---
 
-**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
+**[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**
 
-Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
+Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or ...
 
-📺 Spacialize
+📺 AI Explained
 
-👁️ 32K • 👍 780 • 💬 163 • ⏱️ 21:16 • 11h ago
-
----
-
-**[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
-
-China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
-
-📺 AI Revolution
-
-👁️ 42K • 👍 1K • 💬 101 • ⏱️ 10:56 • 1d ago
+👁️ 44K • 👍 2K • 💬 344 • ⏱️ 21:52 • 17h ago
 
 ---
 
@@ -339,7 +309,47 @@ Artificial intelligence is already changing the job market and the classroom, wi
 
 📺 NBC News
 
-👁️ 2K • 👍 22 • 💬 7 • ⏱️ 3:50 • 8h ago
+👁️ 2K • 👍 24 • 💬 7 • ⏱️ 3:50 • 9h ago
+
+---
+
+**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
+
+Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
+
+📺 Spacialize
+
+👁️ 33K • 👍 832 • 💬 175 • ⏱️ 21:16 • 12h ago
+
+---
+
+**[AI Is the Biggest Existential Threat Humans Have Ever Faced — And Most People Are Completely Unprepa](https://www.youtube.com/watch?v=VcTsJFinOjs)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+
+📺 Julia McCoy
+
+👁️ 34K • 👍 2K • 💬 530 • ⏱️ 16:12 • 1d ago
+
+---
+
+**[AI Expert Tells Bernie: “The Humans will be Discarded”](https://www.youtube.com/watch?v=1oS35oWWl28)**
+
+Will AI become smarter than humans? If so, is humanity in danger? I went to Silicon Valley to ask some of the leading AI experts ...
+
+📺 Senator Bernie Sanders
+
+👁️ 250K • 👍 12K • 💬 4K • ⏱️ 9:38 • 2d ago
+
+---
+
+**[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
+
+China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
+
+📺 AI Revolution
+
+👁️ 44K • 👍 1K • 💬 103 • ⏱️ 10:56 • 1d ago
 
 ---
 
@@ -349,27 +359,17 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 200K • 👍 8K • 💬 2K • ⏱️ 21:38 • 1d ago
+👁️ 204K • 👍 8K • 💬 2K • ⏱️ 21:38 • 1d ago
 
 ---
 
-**[How AI is being used in war in 2026 | DW News](https://www.youtube.com/watch?v=K5fy9-cl08s)**
+**[My AI Agents Made Money in 7 Days (OpenClaw)](https://www.youtube.com/watch?v=LCkGVCfmtzo)**
 
-Operation Epic Fury in Iran, the capture of Maduro in Venezuela and ICE surveillance show: AI shapes today's conflicts. But who is ...
+Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator Magic Premium: https://mrc.fm/premium Last week I ...
 
-📺 DW News
+📺 Creator Magic
 
-👁️ 15K • 👍 466 • 💬 70 • ⏱️ 4:12 • 22h ago
-
----
-
-**[Early indicator of AI labor impact](https://www.youtube.com/watch?v=DSX68fDs9uo)**
-
-CNBC's Deirdre Bosa joins 'Money Movers' to report on Anthropic's new study on which jobs AI is already displacing.
-
-📺 CNBC Television
-
-👁️ 24K • 👍 240 • 💬 124 • ⏱️ 4:51 • 15h ago
+👁️ 20K • 👍 700 • 💬 66 • ⏱️ 8:17 • 20h ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 516,030 • ❤️ 539 • 5d ago
+⬇️ 692,588 • ❤️ 547 • 5d ago
 
 ---
 
@@ -397,7 +397,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,000,738 • ❤️ 1,005 • 7d ago
+⬇️ 1,086,662 • ❤️ 1,007 • 7d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 265,017 • ❤️ 301 • 4d ago
+⬇️ 346,126 • ❤️ 303 • 4d ago
 
 ---
 
@@ -421,7 +421,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 34,959 • ❤️ 276 • 1d ago
+⬇️ 119,290 • ❤️ 281 • 1d ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 232,531 • ❤️ 267 • 5d ago
+⬇️ 282,635 • ❤️ 275 • 5d ago
 
 ---
 
@@ -445,7 +445,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 919,117 • ❤️ 555 • 1d ago
+⬇️ 1,012,202 • ❤️ 557 • 1d ago
 
 ---
 
@@ -457,7 +457,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 380,168 • ❤️ 224 • 4d ago
+⬇️ 436,300 • ❤️ 226 • 4d ago
 
 ---
 
@@ -469,19 +469,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 561,727 • ❤️ 602 • 10d ago
-
----
-
-**[Huihui-Qwen3.5-35B-A3B-abliterated](https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated)**
-
-*huihui.ai*
-
-An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for research and experimental use with reduced safety filtering, supporting tool calling and think mode via custom chat templates.
-
-`image-text-to-text` `36.0B`
-
-⬇️ 21,100 • ❤️ 186 • 4d ago
+⬇️ 630,137 • ❤️ 602 • 10d ago
 
 ---
 
@@ -493,7 +481,19 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 29,210 • ❤️ 148 • 3d ago
+⬇️ 52,816 • ❤️ 157 • 3d ago
+
+---
+
+**[Huihui-Qwen3.5-35B-A3B-abliterated](https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated)**
+
+*huihui.ai*
+
+An uncensored, image-text-to-text model based on Qwen3.5-35B-A3B, designed for research and experimental use with reduced safety filtering, supporting tool calling and think mode via custom chat templates.
+
+`image-text-to-text` `36.0B`
+
+⬇️ 21,688 • ❤️ 188 • 4d ago
 
 ---
 
@@ -523,7 +523,7 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 131 • 💬 5 • ⭐ 684 • 2d ago
+▲ 132 • 💬 5 • ⭐ 684 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.1k • 🔱 3.1k • 6h ago
+⭐ 24.1k • 🔱 3.1k • 35m ago
 
 ---
 
@@ -651,7 +651,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 14.5k • 🔱 510 • 7h ago
+⭐ 14.6k • 🔱 517 • 7h ago
 
 ---
 
@@ -661,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.1k • 🔱 1.0k • 17h ago
+⭐ 9.2k • 🔱 1.0k • 18h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 6.7k • 🔱 847 • 3d ago
+⭐ 6.7k • 🔱 849 • 3d ago
 
 ---
 
@@ -681,7 +681,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.6k • 🔱 490 • 3h ago
+⭐ 6.6k • 🔱 493 • 4h ago
 
 ---
 
@@ -691,7 +691,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.8k • 🔱 681 • 4h ago
+⭐ 5.8k • 🔱 683 • 5h ago
 
 ---
 
@@ -701,7 +701,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 4.7k • 🔱 377 • 1d ago
+⭐ 4.8k • 🔱 388 • 1d ago
 
 ---
 
@@ -711,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 385 • 3h ago
+⭐ 3.6k • 🔱 385 • 2m ago
 
 ---
 
@@ -721,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.3k • 🔱 242 • 4h ago
+⭐ 3.3k • 🔱 242 • 5h ago
 
 ---
 
@@ -731,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 631 • 4d ago
+⭐ 3.2k • 🔱 632 • 4d ago
 
 ---
 

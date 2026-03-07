@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-07T08:33:46.755956+00:00'
+updated: '2026-03-07T09:30:24.473065+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 07, 2026 at 08:33 UTC  
+**Last Updated:** March 07, 2026 at 09:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1357.07B
+**Market Cap:** $1358.98B
 Rank #1
 
-**Circulating Supply:** 19,998,943 BTC
+**Circulating Supply:** 19,998,987 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.2%
+-46.1%
 
 **All-Time Low:** $67.81
-+99855.8%
++100107.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1rmk8sk/2025_vs_2026/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 if y'all bought the top, you should be buying the the 50% discount on right now. Match your cost basis with buys today and bring that -50% up to -25%.
 
-4h ago
+5h ago
 
 ---
 
 **[Heat is not a problem. It's a product. Our engineer built his house heated by hashrate - inspired by the book Bitcoin Mining Heat Reuse 🔥](https://www.reddit.com/r/Bitcoin/comments/1rmhtss/heat_is_not_a_problem_its_a_product_our_engineer/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -101,7 +101,7 @@ if y'all bought the top, you should be buying the the 50% discount on right now.
 
 I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will stop buying. now step two, going to buy a ledg cold wallet from the Bestbuy tomorrow.
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ I just bought 6k on coinbase. once I have 1 bitcoin, then that is when I will st
 
 Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks" https://www.wsj.com/world/middle-east/u-a-e-explores-freezing-iranian-assets-to-punish-tehran-for-attacks-904503de?gaa_at=eafs&gaa_n=AWEtsqeRgQkzAELDRq2ZJ4NWHpGI8jupf7v8cjS2J6ylpJ16o5IjmoxaAfYZkS27ddo%3D&gaa_ts=69ab3238&gaa_sig=BFEr04jfDJZ7yVVExQNputUCZ8qdEElLzLmotofCcpEcAKjbvHx1uPDbHYZNkrfz69g8bJ6XeMNCMZ0NEcA1Ow%3D%3D So grateful to own Bitcoin and hodl forever
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ Saw this story in the Wall Street Journal: "U.A.E. Explores Freezing Iranian Ass
 
 I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thinking of going full FBTC. Wanna hear your thoughts haha
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ I currently down -40% on FBTC in my Roth. I have only VTI/ FBTC in there but thi
 
 Where can I find Bitcoin communities or platforms where real estate can be sold for BTC? I’m a developer working on a new apartment building in Montenegro. Local regulations allow us to structure notarized real estate transactions through cryptocurrency, including Bitcoin. I’m trying to understand where BTC holders actually look for opportunities like this — communities, clubs, forums, platforms, or networks where people buy property using crypto. If anyone here has experience or knows places where crypto investors look for real estate deals, I’d really appreciate the guidance. Thanks in advance.
 
-5h ago
+6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Where can I find Bitcoin communities or platforms where real estate can be sold 
 
 Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycles now. Psychologically, most BTC traders take it as inevitable which makes it a self-fulfilling prophecy. There are always “this time is different” arguments and at some point in the future, hopefully, BTC would mature to a point where there are no cycles, but why bet against the rule until it’s broken? (Noting this in response to people I’m seeing acting like a 10-15% jump means winter is over. It seems to me that we could not have a sustained rally until Q3 where some will try to front-run the historical Q4 rally. Obviously, DCAing at these levels is still great and who knows how low we’ll actually go this time.)
 
-12h ago
+13h ago
 
 ---
 
@@ -141,7 +141,7 @@ Why do some still doubt the 4 year cycle? It seems to have held for 4 full cycle
 
 According to a recent Reuters report, Kazakhstan’s central bank is considering allocating up to $350 million into Bitcoin and other digital assets. The report suggests the move could be part of a broader strategy to diversify certain financial holdings and explore exposure to the digital asset sector. No official timeline or final decision has been confirmed yet. Kazakhstan has already played a role in the Bitcoin ecosystem over the past few years, particularly through mining activity due to its relatively low energy costs. If the central bank moves forward with this type of allocation, it would represent another example of institutional or sovereign level interest in Bitcoin. Do you think central bank exposure to Bitcoin could have a meaningful impact on long-term adoption, or is it still too early to tell?
 
-18h ago
+19h ago
 
 ---
 
@@ -149,7 +149,7 @@ According to a recent Reuters report, Kazakhstan’s central bank is considering
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin is now firmly in a deep bear market and could fall another 30% in 2026, firm said.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ Nasdaq • 1d ago
 
 Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 2h ago
 
 These two factors could dramatically change the way investors think about Bitcoin.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 22h ago
 
 The approval places Strike among a small group of firms authorized to operate in the state under NYDFS supervision.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Block • 19h ago
 
 The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -233,7 +233,7 @@ Business Insider • 2d ago
 
 With "safe" asset prices so high, cheaper and riskier assets look better than before.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -325,27 +325,27 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 97 • ⏱️ 11:48 • 9h ago
+👁️ 31K • 👍 2K • 💬 104 • ⏱️ 11:48 • 10h ago
 
 ---
 
-**[Could This Send Bitcoin to $700K in Just 10 Months?!](https://www.youtube.com/watch?v=tQR7mHjAwzY)**
+**[Bitcoin CRASH Below $60k Incoming SOON? Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=V5xZAgmusXk)**
 
-Bitcoin just surged toward $74K and the big question is whether this is the start of the next leg up or a brutal bull trap. Arthur Hayes ...
+Are you ready? Top-Tier Crypto Trading Starts Here Join the trading competition and the chance to win up to $3500000 ...
 
-📺 Simply Bitcoin
+📺 Crypto Jebb
 
-👁️ 21K • 👍 2K • 💬 237 • ⏱️ 17:07 • 1d ago
+👁️ 4K • 👍 243 • 💬 33 • ⏱️ 15:32 • 14h ago
 
 ---
 
-**[CRYPTO TURMOIL: Trump blasts banks as CLARITY Act stalls again](https://www.youtube.com/watch?v=X-6x5ieo-rA)**
+**[Bitcoin Is About to Enter a New Era (and nobody’s paying attention)](https://www.youtube.com/watch?v=wpL6jINMHoI)**
 
-Blockchain.com CEO Peter Smith discusses digital asset regulation, crypto volatility and tokenization on 'Mornings with Maria.
+Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talking about how AI agents could use Bitcoin as ...
 
-📺 Fox Business Clips
+📺 BTC Isla
 
-👁️ 47K • 👍 1K • 💬 605 • ⏱️ 8:57 • 19h ago
+👁️ 6K • 👍 726 • 💬 103 • ⏱️ 11:28 • 17h ago
 
 ---
 
@@ -355,7 +355,7 @@ Jamie Dimon just went on national television to push back against Bitcoin and cr
 
 📺 Swan Bitcoin
 
-👁️ 77K • 👍 3K • 💬 240 • ⏱️ 17:02 • 1d ago
+👁️ 78K • 👍 3K • 💬 241 • ⏱️ 17:02 • 1d ago
 
 ---
 
@@ -369,43 +369,13 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 ---
 
-**[Bitcoin CRASH Below $60k Incoming SOON? Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=V5xZAgmusXk)**
+**[Gold ﹥ Bitcoin... For Now](https://www.youtube.com/watch?v=tgLjh-crK90)**
 
-Are you ready? Top-Tier Crypto Trading Starts Here Join the trading competition and the chance to win up to $3500000 ...
+Gold is winning... for now. Bitcoin? Caught in the risk-off crossfire. Are investors looking at this the right way? Cathie Wood ...
 
-📺 Crypto Jebb
+📺 ARK Invest
 
-👁️ 4K • 👍 234 • 💬 33 • ⏱️ 15:32 • 13h ago
-
----
-
-**[Bitcoin Dumping FAST… What Donald Trump Just Said](https://www.youtube.com/watch?v=ZGZ41p7L3jc)**
-
-Is the crypto market reacting to a new era of global conflict? In today's video, we are breaking down why Bitcoin is seeing a ...
-
-📺 Discover Crypto
-
-👁️ 10K • 👍 410 • 💬 32 • ⏱️ 1:19:59 • 15h ago
-
----
-
-**[The ETF Lie Is Hiding Bitcoin&#39;s Bottom](https://www.youtube.com/watch?v=g-dTRbXPGw0)**
-
-Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's entire 17-year history. With $4.5 billion in ETF outflows ...
-
-📺 Coin Bureau
-
-👁️ 18K • 👍 728 • 💬 50 • ⏱️ 18:20 • 14h ago
-
----
-
-**[Bitcoin Is About to Enter a New Era (and nobody’s paying attention)](https://www.youtube.com/watch?v=wpL6jINMHoI)**
-
-Could bitcoin and AI worked in perfect synergy in a near future? Nobody is talking about how AI agents could use Bitcoin as ...
-
-📺 BTC Isla
-
-👁️ 6K • 👍 690 • 💬 93 • ⏱️ 11:28 • 16h ago
+👁️ 15K • 👍 408 • 💬 8 • ⏱️ 2:11 • 1d ago
 
 ---
 
@@ -415,7 +385,37 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 298 • 💬 67 • ⏱️ 1:16 • 2d ago
+👁️ 16K • 👍 300 • 💬 67 • ⏱️ 1:16 • 2d ago
+
+---
+
+**[The Banks Are Trying to Stop Bitcoin!](https://www.youtube.com/watch?v=du8cKForpAk)**
+
+Banks are stalling the CLARITY Act because Bitcoin adoption threatens the only thing they truly worship, your deposits.
+
+📺 Swan Bitcoin
+
+👁️ 20K • 👍 1K • 💬 115 • ⏱️ 11:43 • 19h ago
+
+---
+
+**[LIVE: BlackRock confirms partnership with Ripple! This Speech Is a Game Changer for XRP!](https://www.youtube.com/watch?v=sl0KaXM5eUc)**
+
+Welcome to the BlackRock & Ripple Strategic Forum 2026 — streaming LIVE! Today, Larry Fink, CEO of BlackRock, delivers a ...
+
+📺 Tabletop WitchCRAFT
+
+👁️ 5K • 👍 3K • 7h ago
+
+---
+
+**[The ETF Lie Is Hiding Bitcoin&#39;s Bottom](https://www.youtube.com/watch?v=g-dTRbXPGw0)**
+
+Bitcoin's weekly RSI just hit 25.6 — the most oversold reading in the asset's entire 17-year history. With $4.5 billion in ETF outflows ...
+
+📺 Coin Bureau
+
+👁️ 19K • 👍 753 • 💬 51 • ⏱️ 18:20 • 15h ago
 
 ---
 
