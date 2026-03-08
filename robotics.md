@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T13:40:18.865554+00:00'
+updated: '2026-03-08T14:26:34.792062+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 13:40 UTC  
+**Last Updated:** March 08, 2026 at 14:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-9h ago
+10h ago
 
 ---
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-20h ago
+21h ago
+
+---
+
+**[PeppyOS: a simpler alternative to ROS 2 (now with containers support)](https://www.reddit.com/r/robotics/comments/1ro1tc4/peppyos_a_simpler_alternative_to_ros_2_now_with/)**
+
+Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
+
+3h ago
 
 ---
 
@@ -54,17 +62,15 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 ---
 
-**[PeppyOS: a simpler alternative to ROS 2 (now with containers support)](https://www.reddit.com/r/robotics/comments/1ro1tc4/peppyos_a_simpler_alternative_to_ros_2_now_with/)**
+**[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
-
-2h ago
+15h ago
 
 ---
 
-**[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
+**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
 
-14h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 16h ago
 
 ---
 
@@ -72,13 +78,15 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Did anyone actually end up buying this robot: https://www.1x.tech/? I remember hearing that it would release worldwide in 2026 in the news around October to November, and everyone got really upset about it.
 
-13h ago
+14h ago
 
 ---
 
-**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
+**[Hexapoddd in the processsss](https://www.reddit.com/r/robotics/comments/1rnip3e/hexapoddd_in_the_processsss/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 15h ago
+Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
+
+19h ago
 
 ---
 
@@ -87,14 +95,6 @@ Did anyone actually end up buying this robot: https://www.1x.tech/? I remember h
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
 1d ago
-
----
-
-**[Hexapoddd in the processsss](https://www.reddit.com/r/robotics/comments/1rnip3e/hexapoddd_in_the_processsss/)**
-
-Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
-
-18h ago
 
 ---
 
@@ -110,11 +110,11 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 ## Google News: "robotics"
 
-**[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
+**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3)**
 
-A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
+Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Fortune • 20h ago
+Business Insider • 20h ago
 
 ---
 
@@ -122,13 +122,13 @@ Fortune • 20h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 16h ago
+Futurism • 17h ago
 
 ---
 
 **[OpenAI Robotics Chief Quits After Firm's Controversial Pentagon Agreement](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
@@ -136,7 +136,7 @@ Forbes • 17h ago
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
@@ -144,7 +144,7 @@ Business Insider • 4h ago
 
 Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
 
-WJON • 1h ago
+WJON • 2h ago
 
 ---
 
@@ -160,7 +160,7 @@ The San Francisco Standard • 13h ago
 
 The Philadelphia Robotics Coalition gathered students for a special day of innovation.
 
-6abc Philadelphia • 14h ago
+6abc Philadelphia • 15h ago
 
 ---
 
@@ -172,17 +172,19 @@ Fox Business • 2d ago
 
 ---
 
-**[UMF welcomes Blue Crew High School Robotics Team to campus for the 2026 season](https://www.bangordailynews.com/2026/03/07/bdn-maine/umf-welcomes-blue-crew-high-school-robotics-team-to-campus-for-the-2026-season/)**
+**[OpenAI's Robotics Division Loses Key Leader Caitlin Kalinowski Over Disagreement on Military Deployment Terms](https://www.aol.com/finance/openais-robotics-division-loses-key-225645293.html)**
 
-Bangor Daily News • 19h ago
+On Saturday, Caitlin Kalinowski said she resigned from OpenAI, arguing that potential uses of AI for warrantless monitoring of Americans and weapon systems operating without a human decision demanded more careful debate than they received. Her exit lands as OpenAI expands into classified Pentagon projects under an arrangement that kept two stated limits in place: no domestic mass surveillance and a requirement for human control over any use of force. In a post on X, Kalinowski said she still bel
+
+AOL.com • 11m ago
 
 ---
 
-**[Featured video: Coding for underwater robotics](https://news.mit.edu/2026/featured-video-coding-underwater-robotics-0227)**
+**[Video: Hyundai's firefighting robots lead the way into burning buildings](https://newatlas.com/robotics/hyundai-firefighting-robots/)**
 
-Drawn by the chance to tackle new problems and cutting-edge algorithm development, Ivy Mahncke undertook an internship with MIT Lincoln Laboratory, developing an algorithm that would help a human diver and robotic vehicle navigate underwater.
+Hyundai has donated four super-tough unmanned robotic vehicles to firefighters in Korea for use in high-risk situations. The autonomous vehicles will deal with the initial stages of a fire to provide more information and safety to firefighters.
 
-MIT News • 9d ago
+New Atlas • 4h ago
 
 ---
 
@@ -196,7 +198,17 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 573K • 👍 35K • 💬 4K • ⏱️ 16:54 • 4d ago
+👁️ 577K • 👍 36K • 💬 4K • ⏱️ 16:54 • 4d ago
+
+---
+
+**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
+
+In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
+
+📺 Tech Talkies
+
+👁️ 5K • 👍 283 • 💬 24 • ⏱️ 4:51 • 1d ago
 
 ---
 
@@ -206,7 +218,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 131K • 👍 2K • 💬 177 • ⏱️ 29:41 • 2d ago
+👁️ 138K • 👍 2K • 💬 189 • ⏱️ 29:41 • 2d ago
 
 ---
 
@@ -216,7 +228,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 21K • 👍 762 • 💬 55 • ⏱️ 14:35 • 3d ago
+👁️ 21K • 👍 765 • 💬 55 • ⏱️ 14:35 • 3d ago
 
 ---
 
@@ -226,7 +238,17 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 34K • 👍 301 • 💬 5 • ⏱️ 3:35:12 • 13h ago
+👁️ 35K • 👍 307 • 💬 7 • ⏱️ 3:35:12 • 14h ago
+
+---
+
+**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
+
+Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
+
+📺 Smokin' Silicon
+
+👁️ 13K • 👍 841 • 💬 73 • ⏱️ 10:52 • 22h ago
 
 ---
 
@@ -240,53 +262,33 @@ FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game
 
 ---
 
-**[Chinese Fighting Robots Left US Speechless at China Expo 2026](https://www.youtube.com/watch?v=BCt9xAu7wKY)**
+**[World’s Most Futuristic POOL ROBOTS?!](https://www.youtube.com/watch?v=YWBuPzZeX-g)**
 
-At China Expo 2026, Chinese fighting robots became one of the most shocking highlights of the entire event, showcasing ...
+I just got the Aiper Experts Duo and tested if they can perfectly clean my pool from top to bottom! Most pool robots are designed as ...
 
-📺 Carros Show
+📺 Kyle Krueger
 
-👁️ 4K • 👍 68 • 💬 23 • ⏱️ 9:59 • 6d ago
-
----
-
-**[Phones Get Weird, Robots Are Everywhere at MWC 2026](https://www.youtube.com/watch?v=HG1Of5WZpNc)**
-
-At the world's largest mobile show, companies from around the globe take their biggest swings. Unique smartphones, dancing ...
-
-📺 CNET
-
-👁️ 12K • 👍 447 • 💬 17 • ⏱️ 4:13 • 1d ago
+👁️ 408K • 👍 17K • 💬 253 • ⏱️ 1:00 • 1d ago
 
 ---
 
-**[Honor’s First Humanoid Robot Unveils Its Dance Moves at MWC | What the Future](https://www.youtube.com/watch?v=NDph9DHvm60)**
+**[Joe Rogan Is Worried About Robot Eyes](https://www.youtube.com/watch?v=Sqv1fuF9r0w)**
 
-Watch the official reveal of Honor's first humanoid service robot announced at MWC 2026. Read more at CNET.com First Steps?
+Joe Rogan shares his concerns about a future where advanced robotic eyes could surpass human vision and change what it ...
 
-📺 CNET
+📺 DATARK
 
-👁️ 58K • 👍 329 • 💬 36 • ⏱️ 1:27 • 6d ago
-
----
-
-**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
-
-A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
-
-📺 Billionaire Shots
-
-👁️ 37K • 👍 2K • 💬 270 • ⏱️ 0:13 • 4d ago
+👁️ 41K • 👍 558 • 💬 6 • ⏱️ 0:25 • 3d ago
 
 ---
 
-**[My Year Living with a Robot | Emily Kate Genatowski | TED](https://www.youtube.com/watch?v=rIg-Zt7bFHY)**
+**[Unitree vs Tesla vs Boston dynamics #HumanoidRobot](https://www.youtube.com/watch?v=5PvK7No58SM)**
 
-Imagine a robot moving into your home. How would it change your daily life? Historian Emily Kate Genatowski shares five ...
+The global humanoid race just shifted. Tesla and Boston Dynamics are still leading in advanced AI and autonomy. But Unitree ...
 
-📺 TED
+📺 By 2050
 
-👁️ 17K • 👍 405 • 💬 43 • ⏱️ 13:51 • 1d ago
+👁️ 58K • 👍 833 • 💬 64 • ⏱️ 0:56 • 6d ago
 
 ---
 
