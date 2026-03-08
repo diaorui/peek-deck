@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T19:24:17.008558+00:00'
+updated: '2026-03-08T19:45:04.576425+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 19:24 UTC  
+**Last Updated:** March 08, 2026 at 19:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,923.05
+### $67,333.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -2.6%  
-**30d:** -3.3%  
-**90d:** -27.9%  
-**1y:** -17.0%  
+**24h:** -0.1%  
+**7d:** -2.1%  
+**30d:** -2.8%  
+**90d:** -27.6%  
+**1y:** -16.5%  
 
 ---
 
@@ -117,14 +117,6 @@ Were living in the most uncertain time in recent history. Inflation is soon to b
 
 ---
 
-**[I built an open-source REST API for Bitcoin Core -- here's what it does](https://www.reddit.com/r/Bitcoin/comments/1ro8h6e/i_built_an_opensource_rest_api_for_bitcoin_core/)**
-
-I built a free Bitcoin REST API. No signup, no API key needed for read endpoints. Just curl it: curl https://bitcoinsapi.com/api/v1/fees/recommended It is called Satoshi API -- 74 endpoints returning analyzed, structured Bitcoin data. Instead of just telling you the fee rate is 4 sat/vB, it tells you "Fees are low. Good time to send." It scores mempool congestion, analyzes blocks, and streams fee updates in real time. **What makes it different:** - **Free, no signup.** All GET endpoints work without an API key at bitcoinsapi.com. - **74 endpoints.** Blocks, transactions, fees, mempool, mining stats, address lookups, and more. - **Analyzed data.** Fee recommendations with context, congestion scores, block weight analysis. - **AI-ready.** The only Bitcoin API with MCP support (listed on the official Anthropic MCP Registry), meaning AI assistants like Claude can query Bitcoin data directly. - **Self-hostable.** `pip install satoshi-api` to run on your own node with full sovereignty. Apache-2.0 licensed. This is a new project from a solo developer. I would love feedback from the community.
-
-3h ago
-
----
-
 **[The moment you don't buy it stucks](https://www.reddit.com/r/Bitcoin/comments/1ro8p1u/the_moment_you_dont_buy_it_stucks/)**
 
 Everytime, yep. Everytime you don't buy, the price is just stuck, consolidating. The moment you buy, it dips again, the moment you sold, it went up. Only in Bitocin! Hodl!
@@ -133,11 +125,27 @@ Everytime, yep. Everytime you don't buy, the price is just stuck, consolidating.
 
 ---
 
+**[I built an open-source REST API for Bitcoin Core -- here's what it does](https://www.reddit.com/r/Bitcoin/comments/1ro8h6e/i_built_an_opensource_rest_api_for_bitcoin_core/)**
+
+I built a free Bitcoin REST API. No signup, no API key needed for read endpoints. Just curl it: curl https://bitcoinsapi.com/api/v1/fees/recommended It is called Satoshi API -- 74 endpoints returning analyzed, structured Bitcoin data. Instead of just telling you the fee rate is 4 sat/vB, it tells you "Fees are low. Good time to send." It scores mempool congestion, analyzes blocks, and streams fee updates in real time. **What makes it different:** - **Free, no signup.** All GET endpoints work without an API key at bitcoinsapi.com. - **74 endpoints.** Blocks, transactions, fees, mempool, mining stats, address lookups, and more. - **Analyzed data.** Fee recommendations with context, congestion scores, block weight analysis. - **AI-ready.** The only Bitcoin API with MCP support (listed on the official Anthropic MCP Registry), meaning AI assistants like Claude can query Bitcoin data directly. - **Self-hostable.** `pip install satoshi-api` to run on your own node with full sovereignty. Apache-2.0 licensed. This is a new project from a solo developer. I would love feedback from the community.
+
+3h ago
+
+---
+
+**[International Women’s Day and 20 millionth Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rodw2r/international_womens_day_and_20_millionth_bitcoin/)**
+
+International Women’s Day and Bitcoin nearing its 20 millionth coin make for a meaningful overlap. It highlights not just Bitcoin’s scarcity, but also the fact that the network’s growth, credibility, and global adoption have been shaped by women as well as men. As Bitcoin approaches 20 million mined, meaning roughly 95% of its total 21 million supply has been issued, the world is reminded how rare and finite it is, with the final 1 million set to be released only gradually over many future decades. ￼ That milestone matters because Bitcoin is no longer some early-stage experiment with endless issuance ahead of it. It is entering a phase where almost all of its supply already exists, and the remaining coins will come out at an increasingly slow pace due to the halving cycle. This strengthens the case for Bitcoin as a scarce monetary asset rather than just a speculative technology. ￼ Tying that to International Women’s Day adds another layer: Bitcoin’s story has also been shaped by women who helped build, explain, and legitimize it. Elizabeth Stark has been central to the development of Lightning infrastructure through Lightning Labs, helping advance Bitcoin’s scaling and payment usability. Lyn Alden has played a major role in explaining Bitcoin’s monetary properties, energy use, and macro significance to a broad global audience through her research and writing. Caitlin Long has been influential in pushing for regulated digital-asset custody and payment infrastructure through Custodia Bank, helping bridge Bitcoin and the traditional financial system. ￼ So the significance is this: on a day dedicated to recognizing women’s contributions, Bitcoin is nearing one of the clearest demonstrations of its core promise, absolute scarcity. And that promise did not reach global relevance on code alone. it was also advanced by women who built infrastructure, shaped public understanding, and pushed adoption forward.
+
+18m ago
+
+---
+
 **[Is now a good time to invest in bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rnt119/is_now_a_good_time_to_invest_in_bitcoin/)**
 
 I’m looking to invest in 1 bitcoin for about a year, but I heard some speculations that it’s going to keep falling, and even drop to zero. Just curious about when I should buy the bitcoin, or if I should keep waiting.
 
-16h ago
+17h ago
 
 ---
 
@@ -149,14 +157,6 @@ Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art 
 
 ---
 
-**[Daily Discussion, March 08, 2026](https://www.reddit.com/r/Bitcoin/comments/1rnx167/daily_discussion_march_08_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-13h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -165,7 +165,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Murban crude, a key benchmark for barrels that can bypass the Strait of Hormuz, now trades at $103 per barrel.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -179,15 +179,31 @@ Forbes • 1d ago
 
 Value can stem from an asset's ability to change, or from its habit of staying the same.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
-**[Riot Platforms Recasts Bitcoin Mining Story With Rockdale AI Data Pivot](https://sg.finance.yahoo.com/news/riot-platforms-recasts-bitcoin-mining-151034775.html)**
+**[Got $1,000? Should You Buy Bitcoin or Cardano?](https://finance.yahoo.com/news/got-1-000-buy-bitcoin-153200956.html)**
 
-Riot Platforms (NasdaqCM:RIOT) has acquired full ownership of its Rockdale, Texas site, removing future lease obligations. The company plans to develop the Rockdale facility into high-capacity AI and data center infrastructure. Riot has signed a 10 year anchor lease with AMD to host AI and high performance computing workloads. The company is aiming to leverage its 1.7 gigawatt Texas power portfolio to support large scale data center operations. Riot Platforms, best known as a pure play...
+Value can stem from an asset's ability to change, or from its habit of staying the same.
 
-Yahoo Finance Singapore • 4h ago
+Yahoo Finance • 4h ago
+
+---
+
+**[Bitcoin is still a great way to diversify portfolio even if it trades like a tech stock, analyst says](https://www.coindesk.com/markets/2026/03/08/bitcoin-is-still-a-great-way-to-diversify-portfolio-even-if-it-trades-like-a-tech-stock-analyst-says)**
+
+The central debate has shifted from whether bitcoin can survive to whether it can function as a sovereign reserve asset, as critics assess it by institutional standards.
+
+CoinDesk • 3h ago
+
+---
+
+**[The Bettors on Polymarket Don't Think Bitcoin Will Hit $150,000 in March. Here's What I Think.](https://www.nasdaq.com/articles/bettors-polymarket-dont-think-bitcoin-will-hit-150000-march-heres-what-i-think)**
+
+Key PointsInvesting and betting are different, but prediction markets are hot.
+
+Nasdaq • 16h ago
 
 ---
 
@@ -199,11 +215,11 @@ TradingView • 14h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772982900)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772990100)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 6h ago
+Polymarket • 1d ago
 
 ---
 
@@ -213,25 +229,11 @@ Investing.com • 12h ago
 
 ---
 
-**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
-
-Bloomberg • 1d ago
-
----
-
 **[Why Leopold Aschenbrenner’s AI hedge fund is betting big on power companies and Bitcoin miners to fuel the AI boom](https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/)**
 
 New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
 
 Fortune • 3d ago
-
----
-
-**[Food Lion manager stops elderly woman from losing $5K in bitcoin scam](https://www.wistv.com/2026/03/06/food-lion-manager-stops-elderly-woman-losing-5k-bitcoin-scam/)**
-
-A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
-
-WIS News 10 • 2d ago
 
 ---
 
@@ -323,7 +325,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 149 • ⏱️ 11:32 • 22h ago
+👁️ 38K • 👍 2K • 💬 149 • ⏱️ 11:32 • 23h ago
 
 ---
 

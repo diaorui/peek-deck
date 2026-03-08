@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T19:24:17.014836+00:00'
+updated: '2026-03-08T19:45:04.582555+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 19:24 UTC  
+**Last Updated:** March 08, 2026 at 19:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,936.29
+### $1,960.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -4.5%  
-**30d:** -7.6%  
-**90d:** -41.7%  
-**1y:** -3.9%  
+**24h:** -0.0%  
+**7d:** -3.0%  
+**30d:** -6.2%  
+**90d:** -40.8%  
+**1y:** -2.5%  
 
 ---
 
@@ -92,17 +92,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
-
-52m ago
-
----
-
 **[Is compound finance frontend or dns setup got hacked?](https://www.reddit.com/r/ethereum/comments/1ro2xqv/is_compound_finance_frontend_or_dns_setup_got/)**
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
 
 7h ago
+
+---
+
+**[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
+
+1h ago
 
 ---
 
@@ -178,15 +178,21 @@ AMBCrypto • 23h ago
 
 ---
 
-**[Ethereum Based Crypto Pepeto Announces Former Binance Expert on Advisory Board - Dogecoin and Elon Musk Shape Crypto](https://markets.businessinsider.com/news/stocks/ethereum-based-crypto-pepeto-announces-former-binance-expert-on-advisory-board---dogecoin-and-elon-musk-shape-crypto-1035907239)**
+**[ETH, BMNR news: Short seller Culper Research says ether tokenomics is 'impaired'](https://www.coindesk.com/markets/2026/03/05/short-seller-culper-bets-against-ether-bitmine-citing-death-spiral-risk)**
 
-Dubai, UAE, March  06, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced that a former Binance executive has joined the strategic advisory board of ...
+The short seller firm said that Ethereum's native token is "impaired," leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.
 
-markets.businessinsider.com • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqfMDMdZcBP1t6UlKp4VBCx3SLQFIv5TA3g8yfHz0w8W4ouQqV9Z8fwA&gaa_ts=69adc518&gaa_sig=TNwWStu5fRlnA_3nYVkW3ejgurulUFSmDsjEIePmrqyDoxIUKxNZtQtHpizUufvItPsSIATpWDDZsVIkY8P8RA%3D%3D)**
+**[Ethereum Mini Trust Hit by Fresh Outflows as Price Slump Deepens](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-hit-by-fresh-outflows-as-price-slump-deepens)**
+
+TipRanks • 9h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqe47mwIXMezg-sSk9SuzA6QNVSW-5DNYpnlOacuutlUtgvxM1d568at&gaa_ts=69add52d&gaa_sig=0tnT3GUivC7_L-6RAAnSi884qkk6ygXWJLkuewQbhLJtu9DAlw6OKcp8Zg4XEoYQxtiOqmG5zAxe3r8iy6Rjtg%3D%3D)**
 
 Barron's • 3d ago
 
@@ -198,14 +204,6 @@ CCN.com • 3d ago
 
 ---
 
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
-
-Bit Digital • 3d ago
-
----
-
 **[Ethereum co-founder Jeffrey Wilcke sends $157M in ETH to Kraken after months of wallet silence](https://cryptobriefing.com/ethereum-founder-jeffrey-wilcke-transaction-seven-months/)**
 
 Ethereum founder transaction: Jeffrey Wilcke moves $157M in Ethereum to Kraken, marking significant activity after months of wallet silence.
@@ -214,11 +212,11 @@ Crypto Briefing • 1d ago
 
 ---
 
-**[Vitalik Buterin calls for bolder experimentation in Ethereum's app layer while preserving core principles](https://www.theblock.co/post/392621/vitalik-buterin-calls-for-bolder-experimentation-in-ethereums-app-layer-while-preserving-core-principles)**
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
 
-Vitalik Buterin has urged Ethereum developers to experiment more boldly at the app layer while preserving the network’s core principles.
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
 
-The Block • 2d ago
+Bit Digital • 3d ago
 
 ---
 
@@ -232,7 +230,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 149 • ⏱️ 11:32 • 22h ago
+👁️ 38K • 👍 2K • 💬 149 • ⏱️ 11:32 • 23h ago
 
 ---
 
@@ -272,7 +270,7 @@ In this clip from the most recent askSlim Live, Slim provides an analysis update
 
 📺 Steve Miller
 
-👁️ 2K • 👍 81 • 💬 4 • ⏱️ 8:11 • 23h ago
+👁️ 2K • 👍 81 • 💬 4 • ⏱️ 8:11 • 1d ago
 
 ---
 

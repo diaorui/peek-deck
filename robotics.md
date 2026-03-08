@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T19:24:17.018096+00:00'
+updated: '2026-03-08T19:45:04.585767+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 19:24 UTC  
+**Last Updated:** March 08, 2026 at 19:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,11 +36,19 @@ Robotics research and industry news
 
 Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
 
-2h ago
+3h ago
 
 ---
 
 **[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
+
+2h ago
+
+---
+
+**[People can trust robots that fail as long as they know how they’ll fail](https://www.reddit.com/r/robotics/comments/1roabua/people_can_trust_robots_that_fail_as_long_as_they/)**
+
+Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
 
 2h ago
 
@@ -54,11 +62,11 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 ---
 
-**[People can trust robots that fail as long as they know how they’ll fail](https://www.reddit.com/r/robotics/comments/1roabua/people_can_trust_robots_that_fail_as_long_as_they/)**
+**[For those deploying robots IRL... where does simulation fall short for you?](https://www.reddit.com/r/robotics/comments/1ro7vjq/for_those_deploying_robots_irl_where_does/)**
 
-Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
+Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
 
-2h ago
+4h ago
 
 ---
 
@@ -68,19 +76,19 @@ Robotics researcher Holly Yanco describes research looking at how people respond
 
 ---
 
-**[For those deploying robots IRL... where does simulation fall short for you?](https://www.reddit.com/r/robotics/comments/1ro7vjq/for_those_deploying_robots_irl_where_does/)**
-
-Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
-
-3h ago
-
----
-
 **[Robotic arm I designed a while back](https://www.reddit.com/r/robotics/comments/1rnni5l/robotic_arm_i_designed_a_while_back/)**
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-20h ago
+21h ago
+
+---
+
+**[Building simple and inexpensive animatronic](https://www.reddit.com/r/robotics/comments/1roe357/building_simple_and_inexpensive_animatronic/)**
+
+My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a simple kit or something we can put together without a high cost. She wants to be a few feet high and resemble this Vee character https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2F2c7c7e9f-fd4a-4b7e-99ad-53216dbdb05b%2Fscale-to-width%2F755&f=1&nofb=1&ipt=3435994b5d38266f04bb4caa669e22dbcf85757bd86dffc342a6c8eaab344891 I work in robotics but haven't completed many hobby kits. I'm comfortable soldering and with tools but I don't understand kinematics or anything. Please let me know if you can provide suggestions?
+
+11m ago
 
 ---
 
@@ -95,12 +103,6 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 **[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
 20h ago
-
----
-
-**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 21h ago
 
 ---
 
@@ -120,7 +122,7 @@ Fortune • 1d ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 22h ago
+Futurism • 23h ago
 
 ---
 
@@ -136,7 +138,7 @@ WLTX • 3h ago
 
 Caitlin Kalinowski explained on X that certain guardrails "deserved more deliberation than they got" when announcing her departure.
 
-Engadget • 4h ago
+Engadget • 5h ago
 
 ---
 
@@ -158,7 +160,7 @@ Philomath News • 1h ago
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -168,17 +170,19 @@ Forbes • 23h ago
 
 ---
 
-**[Ocean County Students Build Their Futures With Robotics Program](https://www.jerseyshoreonline.com/southern-ocean/ocean-county-students-build-their-futures-with-robotics-program/)**
+**[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
 
-STAFFORD – At a time when education often feels bigger, faster and more crowded, one local school is proving that small can be powerful. With only 50 students in total, Lighthouse Christian Academy (LCA) is combining faith-based learning with hands-on academics, giving its middle schoolers tools typically found in far larger districts.   At […]
+The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
 
-Jersey Shore Online • 3h ago
+GeekWire • 3d ago
 
 ---
 
-**[Geared for engineering: Zionsville Middle School students learn STEM and teamwork skills through robotics](https://youarecurrent.com/2026/03/08/geared-for-engineering-zionsville-middle-school-students-learn-stem-and-teamwork-skills-through-robotics/)**
+**[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
 
-Current Publishing • 1h ago
+Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
+
+Fox Business • 3d ago
 
 ---
 
