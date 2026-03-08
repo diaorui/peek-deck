@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T17:48:32.648833+00:00'
+updated: '2026-03-08T18:36:34.418163+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 17:48 UTC  
+**Last Updated:** March 08, 2026 at 18:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,887.85
+### $66,923.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -2.5%  
-**30d:** -3.2%  
-**90d:** -27.8%  
-**1y:** -16.8%  
+**24h:** -0.2%  
+**7d:** -2.6%  
+**30d:** -3.3%  
+**90d:** -27.9%  
+**1y:** -17.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1342.44B
+**Market Cap:** $1339.53B
 Rank #1
 
-**Circulating Supply:** 19,999,559 BTC
+**Circulating Supply:** 19,999,600 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.8%
+-46.9%
 
 **All-Time Low:** $67.81
-+98878.0%
++98656.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption — capped at $5,000 annually — to let Americans use Bitcoin and other digital assets for everyday purchases without triggering capital gains taxes.
 
-🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 9h ago
+🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption —
 
 I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the world this week, war with Iran, oil prices climbing, 92,000 jobs lost in a single month, robotic arms replacing workers and thought: the cost of living is never going back down. So I did something terrifying, beyond any fathers' comfort zone. I accumulated and manage to finally buy 2 Bitcoins. One for each of my son. Every cent of it was earned. Not inherited. Not gifted. Earned, through long days, late nights, and the quiet sacrifices that nobody sees but you make anyway because you have two little faces at home counting on you. I don't know if Bitcoin will be worth a million dollars one day. I don't know if it drops to zero. Nobody does, and anyone who tells you otherwise is lying. What I do know is this: the system we were born into the one that promised that if you worked hard and saved diligently, you'd be okay is getting harder to trust every single year. Rent goes up. Groceries go up. The gap between those who have generational wealth and those who are starting from nothing keeps widening. I grew up with nothing. I refuse to let my kids start from nothing too. So this is my letter to them, posted here because maybe some of you are in the same position — ordinary people, not wealthy, just trying: *To my children, M.T & O.T * By the time you read this, Bitcoin will either have changed your life or humbled us both. Either way, I need you to know that I tried. I sat with the uncertainty. I felt the fear. And I bought anyway not out of greed, but out of love. I wanted to give you something that no government could inflate away, no bank could freeze, and no economic crisis could take from you the way it has taken from so many. I HODL'd it for you. Every dip. Every crash. Every headline that said it was over. I held, because I believed in your future more than I feared the risk. And if this works if this single decision somehow lifts you above the poverty line I was born into, I hope you pay it forward. Because that's the real dream behind Bitcoin for me. Not lambos. Not getting rich. A world where more people have a fighting chance. Hold the line, fellow HODLers. We're not just investing in an asset. Some of us are investing in our children's futures. 🧡 Dad of two. Holder of 2 BTC. Scared and hopeful in equal measure. *Not financial advice. Just a father trying his best for M.T & O.T * Update Thank you for the supports and encouragement. I just hope my children will be able to read this Reddit post one day and know that I sincerely did my best. To my sons If I am no longer in this world and you are reading this, please know that not a single day passed where you were not in my thoughts. Forgive me if I troubled you two a lot and thank you for putting up with me if you ever did. I love you, sons. More than any words I could ever leave behind. Your Dad, W 🧡
 
-17h ago
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the
 
 Greetings, I’m a Ukrainian woman living in Austria as a refugee. I have about €100k in inheritance sitting in a bank account in Kyiv. Unfortunately, due to the current martial law, the outflow of money from Ukraine has been severely restricted. You are only allowed to carry a maximum of €10k in cash at the border, and sending money abroad has been capped at €2k per month. I need this money as soon as possible and don’t want it sitting in a country riddled with corruption and war. I’ve read that crypto can be a way to move money internationally since it has no central governing body. I don’t know much about it, but from my research it seems that I could convert the money into crypto, transfer it to my hardware wallet or an exchange, and then withdraw it outside of Ukraine. However, the extreme volatility of crypto makes me worried. What if I convert the money at an unlucky moment and the price drops when I want to withdraw, causing me to lose money? Does anyone have experience with a similar situation and can provide some helpful tips or resources? Still feeling very nervous about this. I would be very grateful. Thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Greetings, I’m a Ukrainian woman living in Austria as a refugee. I have about 
 
 For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bitcoin on r/thelightningnetwork. No, that's a dying fork of Bitcoin... No, it's called a temporary privacy. All the transactions are still kept on the blockchain, waiting for quantum computers to read all your "private" shitcoin transactions. Using P2P exchanges and lightning is more future proof because there's no blockchain, to keep all txs for QC to read in the future. No, even that's a premined and centralized shitcoin too. It doesn't matter it's sitting right under Bitcoin. It doesn't make it a less of shitcoin at all.
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,15 @@ For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bit
 
 Were living in the most uncertain time in recent history. Inflation is soon to be rampant and will not be able to be stopped. The wealthy will receive bail outs. The poors will receive threats of death or jail if we dont fight wars for the elites. Threats of jail or death if we dont turn in our personal gold reserves. Own what cant be frozen as easily as a USD asset. Own something more portable than gold. Own something that represents one of the only attempts at returning monetary freedom to the people who have realized the debt system is not for them. Bitcoin in a cold wallet.
 
-3h ago
+4h ago
+
+---
+
+**[I built an open-source REST API for Bitcoin Core -- here's what it does](https://www.reddit.com/r/Bitcoin/comments/1ro8h6e/i_built_an_opensource_rest_api_for_bitcoin_core/)**
+
+I built a free Bitcoin REST API. No signup, no API key needed for read endpoints. Just curl it: curl https://bitcoinsapi.com/api/v1/fees/recommended It is called Satoshi API -- 74 endpoints returning analyzed, structured Bitcoin data. Instead of just telling you the fee rate is 4 sat/vB, it tells you "Fees are low. Good time to send." It scores mempool congestion, analyzes blocks, and streams fee updates in real time. **What makes it different:** - **Free, no signup.** All GET endpoints work without an API key at bitcoinsapi.com. - **74 endpoints.** Blocks, transactions, fees, mempool, mining stats, address lookups, and more. - **Analyzed data.** Fee recommendations with context, congestion scores, block weight analysis. - **AI-ready.** The only Bitcoin API with MCP support (listed on the official Anthropic MCP Registry), meaning AI assistants like Claude can query Bitcoin data directly. - **Self-hostable.** `pip install satoshi-api` to run on your own node with full sovereignty. Apache-2.0 licensed. This is a new project from a solo developer. I would love feedback from the community.
+
+2h ago
 
 ---
 
@@ -121,7 +129,7 @@ Were living in the most uncertain time in recent history. Inflation is soon to b
 
 Everytime, yep. Everytime you don't buy, the price is just stuck, consolidating. The moment you buy, it dips again, the moment you sold, it went up. Only in Bitocin! Hodl!
 
-1h ago
+2h ago
 
 ---
 
@@ -145,15 +153,7 @@ Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
-
----
-
-**[I built an open-source REST API for Bitcoin Core -- here's what it does](https://www.reddit.com/r/Bitcoin/comments/1ro8h6e/i_built_an_opensource_rest_api_for_bitcoin_core/)**
-
-I built a free Bitcoin REST API. No signup, no API key needed for read endpoints. Just curl it: curl https://bitcoinsapi.com/api/v1/fees/recommended It is called Satoshi API -- 74 endpoints returning analyzed, structured Bitcoin data. Instead of just telling you the fee rate is 4 sat/vB, it tells you "Fees are low. Good time to send." It scores mempool congestion, analyzes blocks, and streams fee updates in real time. **What makes it different:** - **Free, no signup.** All GET endpoints work without an API key at bitcoinsapi.com. - **74 endpoints.** Blocks, transactions, fees, mempool, mining stats, address lookups, and more. - **Analyzed data.** Fee recommendations with context, congestion scores, block weight analysis. - **AI-ready.** The only Bitcoin API with MCP support (listed on the official Anthropic MCP Registry), meaning AI assistants like Claude can query Bitcoin data directly. - **Self-hostable.** `pip install satoshi-api` to run on your own node with full sovereignty. Apache-2.0 licensed. This is a new project from a solo developer. I would love feedback from the community.
-
-1h ago
+12h ago
 
 ---
 
@@ -161,33 +161,17 @@ I built a free Bitcoin REST API. No signup, no API key needed for read endpoints
 
 ## Google News: "bitcoin"
 
-**[Bitcoin dip may not be over as whales sell into retail buying — a bearish signal](https://www.coindesk.com/markets/2026/03/08/bitcoin-dip-may-not-be-over-as-whales-sell-into-retail-buying-a-bearish-signal)**
+**['Murban crude oil' surges past $100, posing risk to bitcoin and risk assets](https://www.coindesk.com/markets/2026/03/08/some-middle-east-oil-is-now-over-usd100-a-barrel-here-s-how-it-could-affect-bitcoin)**
 
-The divergence between large and small holders has historically preceded further downside, with the Crypto Fear and Greed Index dropping to 12
+Murban crude, a key benchmark for barrels that can bypass the Strait of Hormuz, now trades at $103 per barrel.
 
-CoinDesk • 12h ago
+CoinDesk • 4h ago
 
 ---
 
 **[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
 
 Forbes • 1d ago
-
----
-
-**[Bitcoin slips below $68,000 as dollar posts steepest weekly gain in a year](https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year)**
-
-Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.
-
-CoinDesk • 1d ago
-
----
-
-**[Is Bitcoin Going to $0?](https://www.fool.com/investing/2026/03/08/is-bitcoin-going-to-0/)**
-
-Is the market-leading cryptocurrency in danger of being disrupted?
-
-The Motley Fool • 6h ago
 
 ---
 
@@ -203,11 +187,19 @@ The Motley Fool • 2h ago
 
 Riot Platforms (NasdaqCM:RIOT) has acquired full ownership of its Rockdale, Texas site, removing future lease obligations. The company plans to develop the Rockdale facility into high-capacity AI and data center infrastructure. Riot has signed a 10 year anchor lease with AMD to host AI and high performance computing workloads. The company is aiming to leverage its 1.7 gigawatt Texas power portfolio to support large scale data center operations. Riot Platforms, best known as a pure play...
 
-Yahoo Finance Singapore • 2h ago
+Yahoo Finance Singapore • 3h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772979600)**
+**[Bitcoin ‘bull trap’ forming as bear market enters middle phase: Willy Woo](https://www.tradingview.com/news/cointelegraph:d81ab138e094b:0-bitcoin-bull-trap-forming-as-bear-market-enters-middle-phase-willy-woo/)**
+
+Bitcoin could experience a short-term rally that catches investors off guard before the broader downtrend resumes, according to on-chain analyst Willy Woo. “Bull trap forming,” Woo said in an X post on Saturday, referring to a fake breakout suggesting that the market is entering a sustained uptrend…
+
+TradingView • 13h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772982900)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -217,7 +209,7 @@ Polymarket • 5h ago
 
 **[Bitcoin slides to $67,000 as ’extreme fear’ grips crypto markets](https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-to-67000-as-extreme-fear-grips-crypto-markets-4548565)**
 
-Investing.com • 10h ago
+Investing.com • 11h ago
 
 ---
 
@@ -232,6 +224,14 @@ Bloomberg • 1d ago
 New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
 
 Fortune • 3d ago
+
+---
+
+**[Food Lion manager stops elderly woman from losing $5K in bitcoin scam](https://www.wistv.com/2026/03/06/food-lion-manager-stops-elderly-woman-losing-5k-bitcoin-scam/)**
+
+A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
+
+WIS News 10 • 2d ago
 
 ---
 
@@ -265,7 +265,7 @@ Complete operating system for Bitcoiners
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 1 • 💬 0 • 42m ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 1 • 💬 0 • 1h ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -323,7 +323,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 141 • ⏱️ 11:32 • 21h ago
+👁️ 38K • 👍 2K • 💬 149 • ⏱️ 11:32 • 22h ago
 
 ---
 
@@ -333,7 +333,7 @@ Will bitcoin crash again to new lows or has it bottomed? We explain why bitcoin'
 
 📺 Alessio Rastani
 
-👁️ 19K • 👍 2K • 💬 228 • ⏱️ 4:28 • 10h ago
+👁️ 22K • 👍 2K • 💬 238 • ⏱️ 4:28 • 11h ago
 
 ---
 
@@ -343,17 +343,7 @@ Global tensions, oil politics, and the petrodollar system may be colliding in re
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 170 • ⏱️ 15:47 • 23h ago
-
----
-
-**[WARNING To All Crypto Holders! (biggest news)](https://www.youtube.com/watch?v=zehno3tnsvo)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 50K • 👍 2K • 💬 139 • ⏱️ 11:48 • 1d ago
+👁️ 24K • 👍 2K • 💬 172 • ⏱️ 15:47 • 1d ago
 
 ---
 
@@ -363,27 +353,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 2K • 💬 13 • ⏱️ 59:14 • 1d ago
+👁️ 42K • 👍 2K • 💬 13 • ⏱️ 59:14 • 1d ago
 
 ---
 
-**[Bitcoin Holders, Something Big Just Happened](https://www.youtube.com/watch?v=_uCC6MD_zns)**
+**[Oil Is About to Destroy Bitcoin (65 Years of Proof)](https://www.youtube.com/watch?v=_Za12jDo6Ug)**
 
-Get started with Plus500 - Practice with a FREE demo account or kickstart your trading with a BONUS of $30 when depositing at ...
+Oil is spiking and according to 65 years of data, that's bad news for crypto. In this episode, Alessandero breaks down why oil ...
 
-📺 Aaron Bennett
+📺 Crypto Banter
 
-👁️ 14K • 👍 708 • 💬 56 • ⏱️ 8:51 • 1d ago
+👁️ 8K • 👍 404 • 💬 34 • ⏱️ 15:45 • 11h ago
 
 ---
 
-**[BITCOIN: MARCH 2026 Price Outlook Prediction](https://www.youtube.com/watch?v=Tqaw62Be3b0)**
+**[Tom Lee - &quot;Largest Crypto Reset In HISTORY&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=43KC2TkH8hk)**
 
-Bitcoin price analysis and price predictions for March 2026 FREE TRAINING: https://www.bullmania.com EXCHANGES I ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 Ivan on Tech
+📺 Library Of Wealth
 
-👁️ 11K • 👍 1K • 💬 49 • ⏱️ 14:39 • 10h ago
+👁️ 4K • 👍 121 • 💬 90 • ⏱️ 15:06 • 13h ago
 
 ---
 
@@ -393,7 +383,27 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged https://ww
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 322 • 💬 2 • ⏱️ 19:14 • 1d ago
+👁️ 6K • 👍 324 • 💬 2 • ⏱️ 19:14 • 1d ago
+
+---
+
+**[$1.5M Bitcoin by 2028 - Hyperbitcoinization Case Builds](https://www.youtube.com/watch?v=BpKfLfGbf0Q)**
+
+Full uncensored livestream daily on Rumble: https://rumble.com/c/BitcoinNewsAlerts X Follow me: https://x.com/BTCNewsAlerts ...
+
+📺 Bitcoin News Alerts
+
+👁️ 2K • 👍 99 • 💬 64 • ⏱️ 26:02 • 20h ago
+
+---
+
+**[BITCOIN: MARCH 2026 Price Outlook Prediction](https://www.youtube.com/watch?v=Tqaw62Be3b0)**
+
+Bitcoin price analysis and price predictions for March 2026 FREE TRAINING: https://www.bullmania.com EXCHANGES I ...
+
+📺 Ivan on Tech
+
+👁️ 13K • 👍 1K • 💬 52 • ⏱️ 14:39 • 11h ago
 
 ---
 
@@ -401,17 +411,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged https://ww
 
 📺 Andrei Jikh
 
-👁️ 74K • 👍 2K • 💬 36 • ⏱️ 1:12 • 2d ago
-
----
-
-**[Gold ﹥ Bitcoin... For Now](https://www.youtube.com/watch?v=tgLjh-crK90)**
-
-Gold is winning... for now. Bitcoin? Caught in the risk-off crossfire. Are investors looking at this the right way? Cathie Wood ...
-
-📺 ARK Invest
-
-👁️ 23K • 👍 591 • 💬 18 • ⏱️ 2:11 • 2d ago
+👁️ 75K • 👍 2K • 💬 38 • ⏱️ 1:12 • 2d ago
 
 ---
 

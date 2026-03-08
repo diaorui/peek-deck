@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T17:48:32.654772+00:00'
+updated: '2026-03-08T18:36:34.424113+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 17:48 UTC  
+**Last Updated:** March 08, 2026 at 18:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -4.3%  
-**30d:** -7.4%  
-**90d:** -41.6%  
-**1y:** -3.8%  
+**24h:** -0.9%  
+**7d:** -4.5%  
+**30d:** -7.6%  
+**90d:** -41.7%  
+**1y:** -3.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $234.49B
+**Market Cap:** $233.62B
 Rank #2
 
 **Circulating Supply:** 120,692,053 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.7%
+-60.9%
 
 **All-Time Low:** $0.43
-+448487.6%
++446859.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 For the past few months I've been building EthereumHistory.com, a project to document every notable smart contract from Ethereum's earliest days (2015-2017). Think of it as a Wikipedia for Ethereum's contract archaeology. Recently I did a deep scan of all 12,609 contracts deployed during the Frontier era and found 1,650 still holding ETH — totaling over 38,000 ETH (~$95M at current prices) locked in contracts from Ethereum's first weeks. Here's what's actually inside them: The Gambling Contracts (Day 13 of Ethereum) EtherDice (0xc4c51de1abf5d60dbd329ec0f999fd8f021ae9fc) was deployed on August 12, 2015 — just 13 days after Ethereum launched. Someone loaded it with a 1,000 ETH bankroll. It's a 21-function commit-reveal dice game, surprisingly sophisticated for the era. 122 ETH still sits inside, permanently locked because the deployer likely lost their keys years ago. The Inverted Timelock TimeLockVault (0xed44f3c2081480b08643fe1ca281fab9ed643735) has a beautiful bug: the time check is inverted. You can withdraw before the unlock date (2035), but once 2035 arrives, the funds become permanently locked. 50 ETH inside. The deployer could have withdrawn years ago but apparently never noticed. The Stalled Pyramid EtherPyramid (0xa9e4e3b1da2752aea980698c335e70e9ab26c) had 140 participants. 136 of them are still waiting for their payout. 37 ETH frozen forever in a pyramid that ran out of new entrants. A time capsule of early Ethereum's Wild West era. The Pattern After scanning all 1,650 funded contracts, the pattern is consistent: every single one is either owner-gated (keys likely lost), bug-locked, pyramid-stalled, or timelocked. At least 5 active hunter addresses have already probed most of these contracts looking for extractable funds. None succeeded. These contracts are essentially digital fossils — permanently preserved on-chain with real ETH sealed inside them. They tell the story of Ethereum's earliest developers experimenting with code that would handle real money, often for the first time. I've been documenting these on EthereumHistory.com with verified source code, deployment context, and the stories behind them. If you deployed contracts in 2015-2016 or know the stories behind any early projects, I'd love to hear from you. What early Ethereum contracts do you remember that deserve to be documented?
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ For the past few months I've been building EthereumHistory.com, a project to doc
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 "a practical compliance framework that enables an auditing entity to selectively unshield transactions upon legitimate regulatory request" So, the entire point of using the chain is null and void. What's the use of hiding transactions when an arbitrary entity can just... unhide them? "For compliance, each user registers an encrypted copy of their viewing key on-chain. Upon legitimate regulatory request, a designated auditing entity can decrypt this key to trace a specific user’s transaction history, without affecting the privacy of uninvolved users." So it is effectively mandatory. Wonderful. Who did they think we were hiding transactions from, our ex? The paper: https://eprint.iacr.org/2026/474
 
-10h ago
+11h ago
+
+---
+
+**[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
+
+4m ago
 
 ---
 
@@ -96,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
 
-5h ago
+6h ago
 
 ---
 
@@ -140,27 +146,19 @@ I staked some ETH around a month ago and it still has the Staking..... "staking 
 
 ---
 
-**[Minimmit vs Casper FFG](https://www.reddit.com/r/ethereum/comments/1rmmoln/minimmit_vs_casper_ffg/)**
-
-One important technical item that I forgot to mention is the proposed switch from Casper FFG to Minimmit as the finality gadget. To summarize, Casper FFG provides two-round finality: it requires each attester to sign once to "justify" the block, and then again to "finalize" it. Minimmit only requires one round. In exchange, Minimmit's fault tolerance (in our parametrization) drops to 17%, compared to Casper FFG's 33%. Within Ethereum consensus discussions, I have always been the security assumptions hawk: I've insisted on getting to the theoretical bound of 49% fault tolerance under synchrony, kept pushing for 51% attack recovery gadgets, came up with DAS to make data availability checks dishonest-majority-resistant, etc. But I am fine with Minimmit's properties, in fact even enthusiastic in some respects. In this post, I will explain why. Let's lay out the exact security properties of both 3SF (not the current beacon chain, which is needlessly weak in many ways, but the ideal 3SF) and Minimmit. "Synchronous network" means "network latency less than 1/4 slot or so", "asynchronous network" means "potentially very high latency, even some nodes go offline for hours at a time". The percentages ("attacker has <33%") refer to percentages of active staked ETH. Properties of 3SF Synchronous network case: Attacker has p < 33%: nothing bad happens 33% < p < 50%: attacker can stop finality (at the cost of losing massive funds via inactivity leak), but the chain keeps progressing normally 50% < p < 67%: attacker can censor or revert the chain, but cannot revert finality. If an attacker censors, good guys can self-organize, they can stop contributing to a censoring chain, and do a "minority soft fork" p > 67%: attacker can finalize things at will, much harder for good guys to do minority soft fork Asynchronous network case: Attacker has p < 33%: cannot revert finality p > 33%: can revert finality, at the cost of losing massive funds via slashing Properties of Minimmit Synchronous network case: Attacker has p < 17%: nothing bad happens 17% < p < 50%: attacker can stop finality (at the cost of losing massive funds via inactivity leak), but the chain keeps progressing normally 50% < p < 83%: attacker can censor or revert the chain, but cannot revert finality. If an attacker censors, good guys can self-organize, they can stop contributing to a censoring chain, and do a "minority soft fork" p > 83%: attacker can finalize things at will, much harder for good guys to do minority soft fork Asynchronous network case: Attacker has p < 17%: cannot revert finality p > 17%: can revert finality, at the cost of losing massive funds via slashing I actually think that the latter is a better tradeoff. Here's my reasoning why: The worst kind of attack is actually not finality reversion, it's censorship. The reason is that finality reversion creates massive publicly available evidence that can be used to immediately cost the attacker millions of ETH (ie. billions of dollars), whereas censorship requires social coordination to get around In both of the above, a censorship attack requires 50% A censorship attack becomes much harder to coordinate around when the censoring attacker can unilaterally finalize (ie. >67% in 3SF, >83% in Minimmit). If they can't, then if the good guys counter-coordinate, you get two non-finalizing chains dueling for a few days, and users can pick on. If they can, then there's no natural schelling point to coordinate soft-forking In the case of a client bug, the worst thing that can happen is finalizing something bugged. In 3SF, you only need 67% of clients to share a bug for it to finalize, in Minimmit, you need 83%. Basicallly, Minimmit maximizes the set of situations that "default to two chains dueling each other", and that is actually a much healthier and much more recoverable outcome than "the wrong thing finalizing". We want finality to mean final. So in situations of uncertainty (whether attacks or software bugs), we should be more okay with having periods of hours or days where the chain does not finalize, and instead progresses based on the fork choice rule. This gives us time to think and make sure which chain is correct. Also, I think the "33% slashed to revert finality" of 3SF is overkill. If there is even eg. 15 million ETH staking, then that's 5M ($10B) slashed to revert the chain once. If you had $10B, and you are willing to commit mayhem of a type that violates many countries' computer hacking laws, there are FAR BETTER ways to spend it than to attack a chain. Even if your goal is breaking Ethereum, there are far better attack vectors. And so if we have the baseline guarantee of >= 17% slashed to revert finality (which Minimmit provides), we should judge the two systems from there based on their other properties - where, for the reasons I described above, I think Minimmit performs better.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
-Binance • 22h ago
+Binance • 23h ago
 
 ---
 
 **[Key facts: Clarity Act to Boost Ethereum Investment; Buterin Advocates for Privacy](https://www.tradingview.com/news/tradingview:dbeedf0571fc3:0-key-facts-clarity-act-to-boost-ethereum-investment-buterin-advocates-for-privacy/)**
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -176,7 +174,7 @@ The Motley Fool • 6h ago
 
 Culper Research has shorted ETH citing underlying Ethereum staking and validator crisis.
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -188,7 +186,7 @@ markets.businessinsider.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqdClkWA4X-Jd8-km_D1Sd6kVsR843zVlBJ6dNABaOc1AOhuqi1cf4gS&gaa_ts=69adb446&gaa_sig=6kHpepi5CPEtSuzufGHYdC7HDEOd4he6eb_RWRZ71ROVMFvMp9lx5yi2rnJ43Vg_aKyLKCWfYLqkzwFAbGIv6g%3D%3D)**
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqfMDMdZcBP1t6UlKp4VBCx3SLQFIv5TA3g8yfHz0w8W4ouQqV9Z8fwA&gaa_ts=69adc518&gaa_sig=TNwWStu5fRlnA_3nYVkW3ejgurulUFSmDsjEIePmrqyDoxIUKxNZtQtHpizUufvItPsSIATpWDDZsVIkY8P8RA%3D%3D)**
 
 Barron's • 3d ago
 
@@ -200,14 +198,6 @@ CCN.com • 3d ago
 
 ---
 
-**[Ethereum co-founder Jeffrey Wilcke sends $157M in ETH to Kraken after months of wallet silence](https://cryptobriefing.com/ethereum-founder-jeffrey-wilcke-transaction-seven-months/)**
-
-Ethereum founder transaction: Jeffrey Wilcke moves $157M in Ethereum to Kraken, marking significant activity after months of wallet silence.
-
-Crypto Briefing • 23h ago
-
----
-
 **[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
@@ -216,11 +206,19 @@ Bit Digital • 3d ago
 
 ---
 
-**[ETH, BMNR news: Short seller Culper Research says ether tokenomics is 'impaired'](https://www.coindesk.com/markets/2026/03/05/short-seller-culper-bets-against-ether-bitmine-citing-death-spiral-risk)**
+**[Ethereum co-founder Jeffrey Wilcke sends $157M in ETH to Kraken after months of wallet silence](https://cryptobriefing.com/ethereum-founder-jeffrey-wilcke-transaction-seven-months/)**
 
-The short seller firm said that Ethereum's native token is "impaired," leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.
+Ethereum founder transaction: Jeffrey Wilcke moves $157M in Ethereum to Kraken, marking significant activity after months of wallet silence.
 
-CoinDesk • 2d ago
+Crypto Briefing • 1d ago
+
+---
+
+**[Vitalik Buterin calls for bolder experimentation in Ethereum's app layer while preserving core principles](https://www.theblock.co/post/392621/vitalik-buterin-calls-for-bolder-experimentation-in-ethereums-app-layer-while-preserving-core-principles)**
+
+Vitalik Buterin has urged Ethereum developers to experiment more boldly at the app layer while preserving the network’s core principles.
+
+The Block • 2d ago
 
 ---
 
@@ -234,17 +232,17 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 141 • ⏱️ 11:32 • 21h ago
+👁️ 38K • 👍 2K • 💬 149 • ⏱️ 11:32 • 22h ago
 
 ---
 
-**[Ethereum Will Not Stay This Cheap! ⚠️ ETH Crypto Token Analysis](https://www.youtube.com/watch?v=jrKbEBTxqFA)**
+**[JUST IN: Ethereum Co-Founder Moves $157M to Kraken — Is He About to DUMP All His ETH?!](https://www.youtube.com/watch?v=eB3jpWKlZFY)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 The Kenzo Guy
 
-👁️ 5K • 👍 201 • 💬 26 • ⏱️ 10:24 • 2d ago
+👁️ 141 • 👍 26 • 💬 24 • ⏱️ 20:10 • 38m ago
 
 ---
 
@@ -254,7 +252,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 111 • 💬 74 • ⏱️ 15:06 • 12h ago
+👁️ 4K • 👍 121 • 💬 90 • ⏱️ 15:06 • 13h ago
+
+---
+
+**[Ethereum Will Not Stay This Cheap! ⚠️ ETH Crypto Token Analysis](https://www.youtube.com/watch?v=jrKbEBTxqFA)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 204 • 💬 26 • ⏱️ 10:24 • 2d ago
 
 ---
 
@@ -264,17 +272,7 @@ In this clip from the most recent askSlim Live, Slim provides an analysis update
 
 📺 Steve Miller
 
-👁️ 2K • 👍 78 • 💬 4 • ⏱️ 8:11 • 22h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=rUWDg8L-URM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 126 • 💬 6 • ⏱️ 3:42 • 21h ago
+👁️ 2K • 👍 81 • 💬 4 • ⏱️ 8:11 • 22h ago
 
 ---
 
@@ -284,27 +282,37 @@ BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 294 • 💬 63 • ⏱️ 17:36 • 19h ago
+👁️ 10K • 👍 304 • 💬 72 • ⏱️ 17:36 • 19h ago
 
 ---
 
-**[Joe Lubin: Why the Biggest Banks Are Now Building on Ethereum](https://www.youtube.com/watch?v=WIcVbdEw6uU)**
+**[Ethereum Price Analysis: This ETH Setup shocked me, but won it !](https://www.youtube.com/watch?v=_F4DqnAhmeA)**
 
-The old financial system is cracking, and Ethereum is what comes next. Joe Lubin joins The Rollup to cover the end of the trust ...
+Join my Patreon for exclusive crypto insights: https://www.patreon.com/cw/Adamcoins Ethereum price prediction and Ethereum ...
 
-📺 The Rollup
+📺 Adam coins
 
-👁️ 313 • 👍 20 • 💬 8 • ⏱️ 22:47 • 1d ago
+👁️ 80 • 👍 5 • ⏱️ 6:41 • 1d ago
 
 ---
 
-**[15,000 Ethereum Coins Under This Bedroom Floor](https://www.youtube.com/watch?v=imtip3XW7QA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=rUWDg8L-URM)**
 
-Workers build a luxury epoxy floor using thousands of Ethereum coins hidden under the bedroom floor. #ethereum #crypto ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 windy the
+📺 More Crypto Online
 
-👁️ 743 • 👍 5 • ⏱️ 0:11 • 3h ago
+👁️ 2K • 👍 127 • 💬 6 • ⏱️ 3:42 • 21h ago
+
+---
+
+**[Ethereum (ETH) Pump is Starting! 🚀 Massive Rally Coming? | ETH Price Prediction 2026](https://www.youtube.com/watch?v=Ne_7MXsQzfM)**
+
+Is Ethereum Dumping? In this video, we analyze Ethereum price trends, technical indicators, and expert forecasts. Whether you're ...
+
+📺 Hard Core Crypto
+
+👁️ 6 • ⏱️ 4:22 • 6h ago
 
 ---
 
@@ -314,17 +322,7 @@ Discover how Ethereum is quietly becoming the backbone for new money movement. W
 
 📺 MONEY GAME
 
-👁️ 478 • 👍 14 • 💬 3 • ⏱️ 1:36 • 1d ago
-
----
-
-**[Ethereum To 85x From Here? Cathie Wood ETH Price Targets Are Insane!](https://www.youtube.com/watch?v=Qn2OgJ2Q_ZQ)**
-
-Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. Sound insane? Here's her entire thesis.
-
-📺 Zach Humphries
-
-👁️ 2K • 👍 115 • 💬 12 • ⏱️ 7:38 • 1d ago
+👁️ 504 • 👍 15 • 💬 3 • ⏱️ 1:36 • 2d ago
 
 ---
 

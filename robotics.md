@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T17:48:32.657984+00:00'
+updated: '2026-03-08T18:36:34.427297+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 17:48 UTC  
+**Last Updated:** March 08, 2026 at 18:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,15 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-13h ago
+14h ago
+
+---
+
+**[People can trust robots that fail as long as they know how they’ll fail](https://www.reddit.com/r/robotics/comments/1roabua/people_can_trust_robots_that_fail_as_long_as_they/)**
+
+Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
+
+1h ago
 
 ---
 
@@ -72,7 +80,7 @@ Hi everyone I'm a grad french student getting into robotics simulation and I've 
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-19h ago
+20h ago
 
 ---
 
@@ -86,21 +94,13 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 **[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-18h ago
+19h ago
 
 ---
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 19h ago
-
----
-
-**[People can trust robots that fail as long as they know how they’ll fail](https://www.reddit.com/r/robotics/comments/1roabua/people_can_trust_robots_that_fail_as_long_as_they/)**
-
-Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
-
-35m ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 20h ago
 
 ---
 
@@ -108,11 +108,11 @@ Robotics researcher Holly Yanco describes research looking at how people respond
 
 ## Google News: "robotics"
 
-**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3)**
+**[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
 
-Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
+A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
 
-Business Insider • 1d ago
+Fortune • 1d ago
 
 ---
 
@@ -124,61 +124,61 @@ Futurism • 21h ago
 
 ---
 
-**[Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury](https://techxplore.com/news/2026-03-robots-ai-evolves-legged-metamachines.html)**
+**[300+ student engineers compete at S.C. robotics finals in Lexington County](https://www.wltx.com/article/tech/300-student-engineers-compete-sc-robotics-finals-lexington-county/101-3d407c1c-2458-4d99-a1fd-35f5e6473e45)**
 
-Tech Xplore • 17h ago
+Dozens of teams gathered at River Bluff High School Saturday to vie for a spot at the VEX Robotics World Championship in St. Louis this April.
 
----
-
-**[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
-
-Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
-
-Fox Business • 2d ago
+WLTX • 2h ago
 
 ---
 
-**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
+**[OpenAI's robotics hardware lead resigns following deal with the Department of Defense](https://www.engadget.com/ai/openais-robotics-hardware-lead-resigns-following-deal-with-the-department-of-defense-195918599.html)**
 
-The Hill • 1d ago
+Caitlin Kalinowski explained on X that certain guardrails "deserved more deliberation than they got" when announcing her departure.
 
----
-
-**[Prediction: AI Robotics Will Be a $375 Billion Industry. This Stock Is Positioned to Win in 2026.](https://www.fool.com/investing/2026/03/05/prediction-ai-robotics-will-be-a-375-billion-indus/)**
-
-When all is said and done, practicality trumps technological "wow!"
-
-The Motley Fool • 2d ago
+Engadget • 3h ago
 
 ---
 
-**[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
+**[Over 200 Teams Compete At Minnesota State VEX Robotics Championship In St. Cloud](https://wjon.com/vex-robotics-championship-mn/)**
 
-Investor's Business Daily • 2d ago
+Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
 
----
-
-**[Inside Elon Musk's robot vision of the future](https://nypost.com/2026/03/08/tech/inside-elon-musks-robot-vision-of-the-future/)**
-
-The Tesla titan and other techies are bullish on ‘amazing abundance.’
-
-New York Post • 4h ago
+WJON • 6h ago
 
 ---
 
-**[Wellsville robotics team win NY State Championship, headed to Worlds!!](https://wellsvillesun.com/blog/2026/03/06/wellsville-robotics-team-win-ny-state-championship-headed-to-worlds/)**
+**[‘Fertile ground’: How an OSU professor built one of Oregon’s most valuable startups](https://philomathnews.com/fertile-ground-how-an-osu-professor-built-one-of-oregons-most-valuable-startups/)**
 
-NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
-
-the wellsville sun • 2d ago
+Philomath News • 26m ago
 
 ---
 
-**[Humanoid robots tackle dishes, laundry, and cooking](https://www.earth.com/news/humanoid-robots-tackle-dishes-laundry-and-cooking/)**
+**[These robots are coming for the jobs no one wants — and could fill workforce gaps](https://www.businessinsider.com/agility-robotics-humanoid-robots-labor-shortage-aging-workforce-2026-3)**
 
-Humanoid robots are beginning to take on household tasks, showing how AI-powered machines could soon assist with chores in everyday homes.
+Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Earth.com • 1d ago
+Business Insider • 9h ago
+
+---
+
+**[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
+
+Forbes • 22h ago
+
+---
+
+**[Ocean County Students Build Their Futures With Robotics Program](https://www.jerseyshoreonline.com/southern-ocean/ocean-county-students-build-their-futures-with-robotics-program/)**
+
+STAFFORD – At a time when education often feels bigger, faster and more crowded, one local school is proving that small can be powerful. With only 50 students in total, Lighthouse Christian Academy (LCA) is combining faith-based learning with hands-on academics, giving its middle schoolers tools typically found in far larger districts.   At […]
+
+Jersey Shore Online • 2h ago
+
+---
+
+**[Geared for engineering: Zionsville Middle School students learn STEM and teamwork skills through robotics](https://youarecurrent.com/2026/03/08/geared-for-engineering-zionsville-middle-school-students-learn-stem-and-teamwork-skills-through-robotics/)**
+
+Current Publishing • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 583K • 👍 36K • 💬 4K • ⏱️ 16:54 • 4d ago
+👁️ 593K • 👍 37K • 💬 4K • ⏱️ 16:54 • 5d ago
 
 ---
 
@@ -202,7 +202,17 @@ In this project I built a tiny desk companion robot using an ESP32, OLED display
 
 📺 Tech Talkies
 
-👁️ 6K • 👍 295 • 💬 24 • ⏱️ 4:51 • 1d ago
+👁️ 6K • 👍 305 • 💬 24 • ⏱️ 4:51 • 1d ago
+
+---
+
+**[E23: NVIDIA&#39;s HUGE Robotics Announcements Will Change Everything](https://www.youtube.com/watch?v=wAlmgDudmkk)**
+
+Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (do this first!): https://tsy.link/gtc2026 » Jensen ...
+
+📺 Ticker Symbol: YOU
+
+👁️ 6K • 👍 458 • 💬 24 • ⏱️ 29:53 • 3h ago
 
 ---
 
@@ -212,47 +222,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 144K • 👍 2K • 💬 204 • ⏱️ 29:41 • 2d ago
-
----
-
-**[FRC team 1690 Orbit 2026 robot reveal - &quot;KEPLER&quot;](https://www.youtube.com/watch?v=yW90nd563wI)**
-
-FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game REBUILT! Huge thanks to all of our sponsors ...
-
-📺 Orbit 1690
-
-👁️ 55K • 👍 2K • 💬 138 • ⏱️ 2:21 • 7d ago
-
----
-
-**[Non-Stop INSANE Robot Fighting Action: Round 2 of NHRL&#39;s 2026 Pro World Championship KO Show (March)](https://www.youtube.com/watch?v=7tQ5Gyr3SYE)**
-
-Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is here: https://youtube.com/live/-x5Fzq4Hig0 ...
-
-📺 NHRL
-
-👁️ 35K • 👍 313 • 💬 9 • ⏱️ 3:35:12 • 17h ago
-
----
-
-**[Chinese Fighting Robots Left US Speechless at China Expo 2026](https://www.youtube.com/watch?v=BCt9xAu7wKY)**
-
-At China Expo 2026, Chinese fighting robots became one of the most shocking highlights of the entire event, showcasing ...
-
-📺 Carros Show
-
-👁️ 4K • 👍 68 • 💬 23 • ⏱️ 9:59 • 6d ago
-
----
-
-**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
-
-Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
-
-📺 Smokin' Silicon
-
-👁️ 13K • 👍 871 • 💬 76 • ⏱️ 10:52 • 1d ago
+👁️ 152K • 👍 2K • 💬 217 • ⏱️ 29:41 • 2d ago
 
 ---
 
@@ -262,27 +232,57 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 21K • 👍 767 • 💬 55 • ⏱️ 14:35 • 3d ago
+👁️ 21K • 👍 771 • 💬 56 • ⏱️ 14:35 • 3d ago
 
 ---
 
-**[Unitree vs Tesla vs Boston dynamics #HumanoidRobot](https://www.youtube.com/watch?v=5PvK7No58SM)**
+**[NEW &#39;Vector&#39; Robot Is The Raptor 2.0 | Dashing Blade Attack | War Robots](https://www.youtube.com/watch?v=9u07pQwNODk)**
 
-The global humanoid race just shifted. Tesla and Boston Dynamics are still leading in advanced AI and autonomy. But Unitree ...
+New Vector robot is here and it's the Raptor 2.0. Between this weekend and last weekend, we have an insane amount of new ...
 
-📺 By 2050
+📺 PREDATOR WR
 
-👁️ 58K • 👍 846 • 💬 65 • ⏱️ 0:56 • 6d ago
+👁️ 4K • 👍 241 • 💬 45 • ⏱️ 15:14 • 6h ago
 
 ---
 
-**[World’s Most Futuristic POOL ROBOTS?!](https://www.youtube.com/watch?v=YWBuPzZeX-g)**
+**[Non-Stop INSANE Robot Fighting Action: Round 2 of NHRL&#39;s 2026 Pro World Championship KO Show (March)](https://www.youtube.com/watch?v=7tQ5Gyr3SYE)**
 
-I just got the Aiper Experts Duo and tested if they can perfectly clean my pool from top to bottom! Most pool robots are designed as ...
+Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is here: https://youtube.com/live/-x5Fzq4Hig0 ...
 
-📺 Kyle Krueger
+📺 NHRL
 
-👁️ 417K • 👍 17K • 💬 262 • ⏱️ 1:00 • 1d ago
+👁️ 35K • 👍 319 • 💬 10 • ⏱️ 3:35:12 • 18h ago
+
+---
+
+**[Joe Rogan Watches As Robot ROASTS Piers Morgan After He Tries Flirting With Her 🤖😂](https://www.youtube.com/watch?v=ZAD0rHMN310)**
+
+shorts #podcast #joerogan During a live interview, a TV host tries flirting with Sophia the robot… but her response completely ...
+
+📺 Unorthodox CEO
+
+👁️ 8K • 👍 116 • 💬 1 • ⏱️ 0:47 • 6h ago
+
+---
+
+**[Seedance 2.0 Robot Love and Death](https://www.youtube.com/watch?v=-s4hyBJ4t8U)**
+
+Seedance 2.0 Robot Love and Death Support me so I can keep making content by checking out my new metahuman course!
+
+📺 JSFILMZ
+
+👁️ 5K • 👍 220 • 💬 96 • ⏱️ 11:28 • 1d ago
+
+---
+
+**[I, Robot – When a Movie Feels Made by AI | Anatomy of a Failure](https://www.youtube.com/watch?v=pS1A_sIR_fM)**
+
+Get 10 Free Meals and your first box ship free with code FILMENTOFM at https://bit.ly/4aKycJe I, Robot is a 2004 Will Smith movie ...
+
+📺 Filmento
+
+👁️ 85K • 👍 6K • 💬 979 • ⏱️ 20:54 • 1d ago
 
 ---
 
