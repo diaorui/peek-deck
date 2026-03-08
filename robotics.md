@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T16:30:54.285659+00:00'
+updated: '2026-03-08T17:24:42.700837+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 16:30 UTC  
+**Last Updated:** March 08, 2026 at 17:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,45 +32,31 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Peak Engineering: Using $20k in industrial arm just to pull a piano.](https://www.reddit.com/r/robotics/comments/1ro96ee/peak_engineering_using_20k_in_industrial_arm_just/)**
+
+Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
+
+55m ago
+
+---
+
+**[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
+
+37m ago
+
+---
+
 **[6 axis robot (WIP)](https://www.reddit.com/r/robotics/comments/1rnuz5e/6_axis_robot_wip/)**
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-12h ago
+13h ago
 
 ---
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-23h ago
-
----
-
-**[Robotic arm I designed a while back](https://www.reddit.com/r/robotics/comments/1rnni5l/robotic_arm_i_designed_a_while_back/)**
-
-Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
-
-17h ago
-
----
-
-**[PeppyOS: a simpler alternative to ROS 2 (now with containers support)](https://www.reddit.com/r/robotics/comments/1ro1tc4/peppyos_a_simpler_alternative_to_ros_2_now_with/)**
-
-Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
-
-5h ago
-
----
-
-**[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
-
-17h ago
-
----
-
-**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 18h ago
+1d ago
 
 ---
 
@@ -78,31 +64,43 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
 
-54m ago
+1h ago
 
 ---
 
-**[Did anyone end up buying the NEO Robot](https://www.reddit.com/r/robotics/comments/1rnpi09/did_anyone_end_up_buying_the_neo_robot/)**
+**[Robotic arm I designed a while back](https://www.reddit.com/r/robotics/comments/1rnni5l/robotic_arm_i_designed_a_while_back/)**
 
-Did anyone actually end up buying this robot: https://www.1x.tech/? I remember hearing that it would release worldwide in 2026 in the news around October to November, and everyone got really upset about it.
+Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-16h ago
-
----
-
-**[Hexapoddd in the processsss](https://www.reddit.com/r/robotics/comments/1rnip3e/hexapoddd_in_the_processsss/)**
-
-Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
-
-21h ago
+18h ago
 
 ---
 
-**[Mistral AI tease Robostral WMa1 (work-in-progress)](https://www.reddit.com/r/robotics/comments/1rn6kkp/mistral_ai_tease_robostral_wma1_workinprogress/)**
+**[PeppyOS: a simpler alternative to ROS 2 (now with containers support)](https://www.reddit.com/r/robotics/comments/1ro1tc4/peppyos_a_simpler_alternative_to_ros_2_now_with/)**
 
-From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
+Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
 
-1d ago
+6h ago
+
+---
+
+**[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
+
+18h ago
+
+---
+
+**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 19h ago
+
+---
+
+**[People can trust robots that fail as long as they know how they’ll fail](https://www.reddit.com/r/robotics/comments/1roabua/people_can_trust_robots_that_fail_as_long_as_they/)**
+
+Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
+
+11m ago
 
 ---
 
@@ -110,9 +108,11 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 ## Google News: "robotics"
 
-**[OpenAI hardware leader resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
+**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3)**
 
-Reuters • 19h ago
+Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
+
+Business Insider • 23h ago
 
 ---
 
@@ -120,21 +120,13 @@ Reuters • 19h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 19h ago
+Futurism • 20h ago
 
 ---
 
-**[These robots are coming for the jobs no one wants — and could fill workforce gaps](https://www.businessinsider.com/agility-robotics-humanoid-robots-labor-shortage-aging-workforce-2026-3)**
+**[Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury](https://techxplore.com/news/2026-03-robots-ai-evolves-legged-metamachines.html)**
 
-Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
-
-Business Insider • 7h ago
-
----
-
-**[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
-
-Tech Xplore • 2d ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -146,11 +138,9 @@ Fox Business • 2d ago
 
 ---
 
-**[Inside Elon Musk's robot vision of the future](https://nypost.com/2026/03/08/tech/inside-elon-musks-robot-vision-of-the-future/)**
+**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
 
-The Tesla titan and other techies are bullish on ‘amazing abundance.’
-
-New York Post • 3h ago
+The Hill • 1d ago
 
 ---
 
@@ -162,15 +152,17 @@ The Motley Fool • 2d ago
 
 ---
 
-**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
-
-The Hill • 1d ago
-
----
-
 **[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
 
 Investor's Business Daily • 2d ago
+
+---
+
+**[Inside Elon Musk's robot vision of the future](https://nypost.com/2026/03/08/tech/inside-elon-musks-robot-vision-of-the-future/)**
+
+The Tesla titan and other techies are bullish on ‘amazing abundance.’
+
+New York Post • 4h ago
 
 ---
 
@@ -179,6 +171,14 @@ Investor's Business Daily • 2d ago
 NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
 
 the wellsville sun • 2d ago
+
+---
+
+**[Humanoid robots tackle dishes, laundry, and cooking](https://www.earth.com/news/humanoid-robots-tackle-dishes-laundry-and-cooking/)**
+
+Humanoid robots are beginning to take on household tasks, showing how AI-powered machines could soon assist with chores in everyday homes.
+
+Earth.com • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game
 
 📺 Orbit 1690
 
-👁️ 55K • 👍 2K • 💬 138 • ⏱️ 2:21 • 6d ago
+👁️ 55K • 👍 2K • 💬 138 • ⏱️ 2:21 • 7d ago
 
 ---
 
@@ -232,7 +232,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 35K • 👍 313 • 💬 9 • ⏱️ 3:35:12 • 16h ago
+👁️ 35K • 👍 313 • 💬 9 • ⏱️ 3:35:12 • 17h ago
 
 ---
 
