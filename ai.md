@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T20:52:28.849954+00:00'
+updated: '2026-03-08T21:24:51.696681+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 20:52 UTC  
+**Last Updated:** March 08, 2026 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic'c Claude found 22 vulnerabilities in Firefox in just two weeks](https://www.reddit.com/r/artificial/comments/1ro1ybn/anthropicc_claude_found_22_vulnerabilities_in/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 TLDR: Adult stars are quickly finding themselves out of work. Given the rise of AI generated porn within the last few years and how quickly it has improved in that time, adult entertainers like pornstars and Onlyfans creator will likely be completely replaced by Artificial intelligence within the decade. AI porn already is generating almost half of the adult star industries 140+ billion dollar a year revenues with an estimated $65.5 billion in 2024 and that number growing each year. AI already has replaced most of interactions within the adult chats and their videos can now be found on all the top porn site like pornhub. The days of stars getting rich from making content are quickly coming to an end, already are gone are the days where a woman could becoming a millionaire through a single years work in the porno industry. AI with it's ability to never have to sleep, to never be sick, be on it's period, pregnant, have an STI, look horrible from partying the night before, or simply not feel like working, it only makes since that the top earners in adult industry the producers not the actual creators are investing more an more into AI generated porn. While some pornstars have notoriously been difficult to work with in the past having uncontrollable emotional out brakes for no reason or be too addicted to various drugs to even perform AI has none of these problems. So, while the stars may have once earned them the most money they often were also their highest risk and with an ROI of 99 to1 who could afford not to become fully AI created content. Do you agree that AI will completely replace adult stars or do you think there will still be little niches of real life performers creating content, & how long to think it will take to get there? Do you think this is a good thing or a bad thing? What do you think all those women who made their livings off creating adult content will move on to do? Will it lead to greater female empowerment or a greater reduction in their share of the market?
 
-17h ago
+18h ago
 
 ---
 
@@ -55,7 +55,7 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use cases. Second brain, morning briefs, content factories, the usual. His take: , They all fall apart under basic scrutiny. I agree. The pattern is always the same. Impressive two-minute demo. Zero discussion of what it actually takes to make it work daily. Zero mention of cost. OpenClaw runs continuous sessions, so every task drags your entire context history with it. Your token bill adds up fast. The irony is the most technical people, the ones who could actually make it work, are the ones who immediately see simpler ways to do the same things. The audience getting hyped up is the least technical group. And they're the ones who'll hit a wall. Credit to Peter for building something clever. It's a tinkerer's sandbox and it's great at that. It was never supposed to be a finished product. The problem isn't him. It's influencers taking a sandbox and selling it as a finished solution to people who just want stuff to work. Three questions I ask before spending time on any AI tool: Is this the best tool for the job or just the shiniest? What does it actually cost to run? Would I still use this after the novelty wears off? Focused tools that do one thing well beat fancy agent frameworks. Every time.
 
-21h ago
+22h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 10h ago
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 8m ago
+NPR • 40m ago
 
 ---
 
@@ -145,7 +145,7 @@ NPR • 8m ago
 
 Artificial intelligence can give some workers "brain fry" if overused, according to a new study published in Harvard Business Review.
 
-CBS News • 2h ago
+CBS News • 3h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 7h ago
 
 **[Why Washington is hamstrung on protecting workers from AI](https://www.politico.com/news/2026/03/08/washington-workers-ai-00789199)**
 
-Politico • 4h ago
+Politico • 5h ago
 
 ---
 
@@ -187,7 +187,7 @@ Politico • 4h ago
 
 As companies experiment with AI agents, the technology is beginning to reshape office hierarchies across US and Canada.
 
-Al Jazeera • 9h ago
+Al Jazeera • 10h ago
 
 ---
 
@@ -301,7 +301,7 @@ Warren Buffett has compared artificial intelligence to nuclear weapons. A warnin
 
 📺 The Infographics Show
 
-👁️ 61K • 👍 2K • 💬 327 • ⏱️ 12:29 • 5h ago
+👁️ 61K • 👍 2K • 💬 327 • ⏱️ 12:29 • 6h ago
 
 ---
 
@@ -311,7 +311,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 76 • 💬 5 • ⏱️ 10:22 • 13h ago
+👁️ 3K • 👍 76 • 💬 5 • ⏱️ 10:22 • 14h ago
 
 ---
 
@@ -459,7 +459,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 9,209 • ❤️ 250 • 21h ago
+⬇️ 9,209 • ❤️ 250 • 22h ago
 
 ---
 
@@ -665,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.7k • 🔱 1.1k • 5h ago
+⭐ 9.7k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 7.6k • 🔱 984 • 3h ago
+⭐ 7.6k • 🔱 984 • 4h ago
 
 ---
 
@@ -725,7 +725,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 392 • 7h ago
+⭐ 3.6k • 🔱 392 • 8h ago
 
 ---
 
@@ -735,7 +735,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.5k • 🔱 250 • 10h ago
+⭐ 3.5k • 🔱 250 • 11h ago
 
 ---
 

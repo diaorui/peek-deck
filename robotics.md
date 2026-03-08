@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T20:52:28.867561+00:00'
+updated: '2026-03-08T21:24:51.714238+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 20:52 UTC  
+**Last Updated:** March 08, 2026 at 21:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Robotics researcher Holly Yanco describes research looking at how people respond
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-16h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 I wrote a guide covering the full camera calibration process — data collection, model fitting, and diagnosing calibration quality. It covers both OpenCV-style and spline-based distortion models. As is covered in the guide, this is how I calibrate intrinsics of stereo cameras for use on the end-effector of a masonry robot at Monumental
 
-🔗 [GitHub](https://github.com/Robertleoj/lensboy/blob/main/docs/calibration_guide.md) • 4h ago
+🔗 [GitHub](https://github.com/Robertleoj/lensboy/blob/main/docs/calibration_guide.md) • 5h ago
 
 ---
 
@@ -132,7 +132,7 @@ Futurism • 1d ago
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 8m ago
+NPR • 40m ago
 
 ---
 
@@ -146,7 +146,7 @@ Business Insider • 12h ago
 
 **[Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury](https://techxplore.com/news/2026-03-robots-ai-evolves-legged-metamachines.html)**
 
-Tech Xplore • 20h ago
+Tech Xplore • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fox Business • 3d ago
 
 The Tesla titan and other techies are bullish on ‘amazing abundance.’
 
-New York Post • 7h ago
+New York Post • 8h ago
 
 ---
 
@@ -236,7 +236,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 35K • 👍 326 • 💬 11 • ⏱️ 3:35:12 • 20h ago
+👁️ 35K • 👍 326 • 💬 11 • ⏱️ 3:35:12 • 21h ago
 
 ---
 
@@ -246,7 +246,7 @@ New Vector robot is here and it's the Raptor 2.0. Between this weekend and last 
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 262 • 💬 52 • ⏱️ 15:14 • 8h ago
+👁️ 5K • 👍 262 • 💬 52 • ⏱️ 15:14 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 2. This. Is. 
 
 📺 NHRL
 
-👁️ 16K • 👍 377 • 💬 18 • ⏱️ 3:23:56 • 16h ago
+👁️ 16K • 👍 377 • 💬 18 • ⏱️ 3:23:56 • 17h ago
 
 ---
 
