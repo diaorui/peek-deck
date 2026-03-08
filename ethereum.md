@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T07:50:46.028973+00:00'
+updated: '2026-03-08T08:33:24.155616+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 07:50 UTC  
+**Last Updated:** March 08, 2026 at 08:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -3.6%  
-**30d:** -6.7%  
-**90d:** -41.1%  
-**1y:** -3.0%  
+**24h:** -1.6%  
+**7d:** -3.7%  
+**30d:** -6.9%  
+**90d:** -41.2%  
+**1y:** -3.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Yesterday I posted about verifying Vitalik's first token contract and got a grea
 
 I propose to wrap USDT, since currently it is a highly outdated coin, and its transfer function has issues, and doesn't have new features, and only has 6 decimals. While these issues may not be large now and can be easily fixed or do not lose too much functionality, as DeFi expands new standards, etc may add more features, then USDT can be put into a standardized wrapper to handle it.
 
-16h ago
+17h ago
 
 ---
 
@@ -150,15 +150,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqfjip16ZjCpegojpcmVHl7JbRMTe_H2agq9HULg3RsoE4aj2HLxzHMO&gaa_ts=69ad2391&gaa_sig=9K0hscXh8oRmDCIZeWGDOQAUVpX5-j_XdJ-TsV8w57aFY7IMbeQpMg3s-vPDRqPJCTQTBIXZMyTTj9il5x1vMg%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
-Binance • 12h ago
+Binance • 13h ago
 
 ---
 
@@ -166,7 +160,27 @@ Binance • 12h ago
 
 Ethereum is showing early signs of a rising wedge formation, a pattern often associated with potential reversals. With key support under pressure, a breakdown from this structure could push the price lower, putting the $1,500 level firmly in focus as the next major target.A Rejection At Key High-Ti…
 
-TradingView • 15h ago
+TradingView • 16h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqcLL-d6dsF9YM9FOBXUs2fivLCz62QB4oi_-U_EFRB8XFglgWRPifS2&gaa_ts=69ad37c4&gaa_sig=0l3bjFcctWIor1BIJGpUBhXn-pSaRYRHtLBsfbit0crmLH_FZr--LHyWKSMgcwBu7n8mOUVqRA1uz3MRhkmYbg%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[What Will Bitcoin, ETH and XRP Be Worth in 2030? ChatGPT’s Price Predictions May Shock You](https://www.ccn.com/education/crypto/chatgpt-predicts-2030-crypto-prices-bitcoin-500k-eth-20k-xrp-20/)**
+
+CCN.com • 2d ago
+
+---
+
+**[Crypto market slides as Bitcoin falls to $68K and Ethereum drops below $2K](https://ambcrypto.com/crypto-market-slides-as-bitcoin-falls-to-68k-and-ethereum-drops-below-2k/)**
+
+Bitcoin slipped toward $68K while Ethereum dropped below $2K, triggering broader losses across the crypto market as key resistance levels held.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -174,15 +188,7 @@ TradingView • 15h ago
 
 Culper Research has shorted ETH citing underlying Ethereum staking and validator crisis.
 
-AMBCrypto • 11h ago
-
----
-
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
-
-Bit Digital • 2d ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -202,25 +208,17 @@ markets.businessinsider.com • 1d ago
 
 ---
 
-**[Got $1,000? This Cryptocurrency Is a No-Brainer Buy for Long-Term Holding](https://www.fool.com/investing/2026/03/05/got-1000-this-cryptocurrency-is-a-no-brainer-buy-f/)**
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
 
-The cryptocurrency's status as the leader in decentralized finance makes it hard to beat.
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
 
-The Motley Fool • 2d ago
+Bit Digital • 2d ago
 
 ---
 
 **[Bullish sees Bitcoin, Ethereum volatility almost double in February (BLSH:NYSE)](https://seekingalpha.com/news/4561826-bullish-sees-bitcoin-ethereum-volatility-almost-double-in-february)**
 
 Seeking Alpha • 1d ago
-
----
-
-**[ETH, BMNR news: Short seller Culper Research says ether tokenomics is 'impaired'](https://www.coindesk.com/markets/2026/03/05/short-seller-culper-bets-against-ether-bitmine-citing-death-spiral-risk)**
-
-The short seller firm said that Ethereum's native token is "impaired," leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.
-
-CoinDesk • 2d ago
 
 ---
 
@@ -234,7 +232,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 152 • ⏱️ 11:32 • 11h ago
+👁️ 26K • 👍 2K • 💬 152 • ⏱️ 11:32 • 12h ago
 
 ---
 
@@ -244,7 +242,7 @@ Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. 
 
 📺 Zach Humphries
 
-👁️ 1K • 👍 95 • 💬 89 • ⏱️ 7:38 • 15h ago
+👁️ 1K • 👍 95 • 💬 89 • ⏱️ 7:38 • 16h ago
 
 ---
 

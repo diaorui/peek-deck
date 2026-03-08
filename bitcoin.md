@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T07:50:46.023808+00:00'
+updated: '2026-03-08T08:33:24.149462+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 07:50 UTC  
+**Last Updated:** March 08, 2026 at 08:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,138.00
+### $67,295.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -2.1%  
-**30d:** -2.8%  
+**24h:** -1.1%  
+**7d:** -2.2%  
+**30d:** -2.9%  
 **90d:** -27.6%  
-**1y:** -16.5%  
+**1y:** -16.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the world this week, war with Iran, oil prices climbing, 92,000 jobs lost in a single month, robotic arms replacing workers and thought: the cost of living is never going back down. So I did something terrifying, beyond any fathers' comfort zone. I accumulated and manage to finally buy 2 Bitcoins. One for each of my son. Every cent of it was earned. Not inherited. Not gifted. Earned, through long days, late nights, and the quiet sacrifices that nobody sees but you make anyway because you have two little faces at home counting on you. I don't know if Bitcoin will be worth a million dollars one day. I don't know if it drops to zero. Nobody does, and anyone who tells you otherwise is lying. What I do know is this: the system we were born into the one that promised that if you worked hard and saved diligently, you'd be okay is getting harder to trust every single year. Rent goes up. Groceries go up. The gap between those who have generational wealth and those who are starting from nothing keeps widening. I grew up with nothing. I refuse to let my kids start from nothing too. So this is my letter to them, posted here because maybe some of you are in the same position — ordinary people, not wealthy, just trying: *To my children, M.T & O.T * By the time you read this, Bitcoin will either have changed your life or humbled us both. Either way, I need you to know that I tried. I sat with the uncertainty. I felt the fear. And I bought anyway not out of greed, but out of love. I wanted to give you something that no government could inflate away, no bank could freeze, and no economic crisis could take from you the way it has taken from so many. I HODL'd it for you. Every dip. Every crash. Every headline that said it was over. I held, because I believed in your future more than I feared the risk. And if this works if this single decision somehow lifts you above the poverty line I was born into, I hope you pay it forward. Because that's the real dream behind Bitcoin for me. Not lambos. Not getting rich. A world where more people have a fighting chance. Hold the line, fellow HODLers. We're not just investing in an asset. Some of us are investing in our children's futures. 🧡 Dad of two. Holder of 2 BTC. Scared and hopeful in equal measure. *Not financial advice. Just a father trying his best for M.T & O.T * Update Thank you for the supports and encouragement. I just hope my children will be able to read this Reddit post one day and know that I sincerely did my best. To my sons If I am no longer in this world and you are reading this, please know that not a single day passed where you were not in my thoughts. Forgive me if I troubled you two a lot and thank you for putting up with me if you ever did. I love you, sons. More than any words I could ever leave behind. Your Dad, W 🧡
 
-7h ago
+8h ago
 
 ---
 
@@ -93,14 +93,6 @@ Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art 
 
 ---
 
-**[Bank Refusing $20K Withdrawal](https://www.reddit.com/r/Bitcoin/comments/1rnhcqc/bank_refusing_20k_withdrawal/)**
-
-This is why we Bitcoin $BTC. When your banks starts questioning you about your post tax money, you know it's BITCOIN time
-
-🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 13h ago
-
----
-
 **[Is now a good time to invest in bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rnt119/is_now_a_good_time_to_invest_in_bitcoin/)**
 
 I’m looking to invest in 1 bitcoin for about a year, but I heard some speculations that it’s going to keep falling, and even drop to zero. Just curious about when I should buy the bitcoin, or if I should keep waiting.
@@ -109,11 +101,27 @@ I’m looking to invest in 1 bitcoin for about a year, but I heard some speculat
 
 ---
 
+**[Bank Refusing $20K Withdrawal](https://www.reddit.com/r/Bitcoin/comments/1rnhcqc/bank_refusing_20k_withdrawal/)**
+
+This is why we Bitcoin $BTC. When your banks starts questioning you about your post tax money, you know it's BITCOIN time
+
+🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 14h ago
+
+---
+
 **[Perfect time to load up while everyone's panicking](https://www.reddit.com/r/Bitcoin/comments/1rnphli/perfect_time_to_load_up_while_everyones_panicking/)**
 
 Markets are getting hammered right now and people are freaking out, but this is exactly what we've been waiting for. Sure, things look rough and it might get worse before it gets better, but that's just how these cycles work. This is your chance to dollar cost average into these dips. I've been setting aside extra cash specifically for moments like this - every time we hit a new support level that breaks, I'm grabbing more. Could we go lower? Maybe. But I'd rather buy on the way down than watch it rocket past my target price again. Been through enough of these corrections to know that the people buying during the fear are usually the ones celebrating later. Stay disciplined with your strategy and keep building your position while it's on sale.
 
-7h ago
+8h ago
+
+---
+
+**[Buying shitcoins to accumulate more bitcoin, usually ends up like this](https://www.reddit.com/r/Bitcoin/comments/1rnz946/buying_shitcoins_to_accumulate_more_bitcoin/)**
+
+For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bitcoin on r/thelightningnetwork. No, that's a dying fork of Bitcoin... No, it's called a temporary privacy. All the transactions are still kept on the blockchain, waiting for quantum computers to read all your "private" shitcoin transactions. Using P2P exchanges and lightning is more future proof because there's no blockchain, to keep all txs for QC to read in the future. No, even that's a premined and centralized shitcoin too. It doesn't matter it's sitting right under Bitcoin. It doesn't make it a less of shitcoin at all.
+
+22m ago
 
 ---
 
@@ -129,7 +137,15 @@ Markets are getting hammered right now and people are freaking out, but this is 
 
 Race for the last million Bitcoin begins...
 
-12h ago
+13h ago
+
+---
+
+**[Daily Discussion, March 08, 2026](https://www.reddit.com/r/Bitcoin/comments/1rnx167/daily_discussion_march_08_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+2h ago
 
 ---
 
@@ -137,23 +153,7 @@ Race for the last million Bitcoin begins...
 
 I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitcoin node along with Lightning to help the Bitcoin community.
 
-11h ago
-
----
-
-**[Percentage of total assets](https://www.reddit.com/r/Bitcoin/comments/1rnb4bj/percentage_of_total_assets/)**
-
-Hey guys I am considering buying bitcoin as part of a diversification effort. I have read that an allocation of about 5-10% is right for crypto. I intend to buy from an exchange and then transfer to a cold wallet and let it sit maintaining the % (buying accordingly if my total assets increase). What is your take in the amount? Do you hold more? Do you hold less?
-
-17h ago
-
----
-
-**[Anyone share the opinion that this market is similar to the March 2020 drop?](https://www.reddit.com/r/Bitcoin/comments/1rnjmav/anyone_share_the_opinion_that_this_market_is/)**
-
-Covid destroyed the market but the rebound was historic.
-
-11h ago
+12h ago
 
 ---
 
@@ -161,11 +161,11 @@ Covid destroyed the market but the rebound was historic.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin purist Jack Dorsey says that his firm is reluctantly giving in to stablecoin craze](https://www.coindesk.com/business/2026/03/07/bitcoin-purist-jack-dorsey-s-firm-is-reluctantly-giving-in-to-stablecoin-craze)**
+**[Bitcoin dip may not be over as whales sell into retail buying — a bearish signal](https://www.coindesk.com/markets/2026/03/08/bitcoin-dip-may-not-be-over-as-whales-sell-into-retail-buying-a-bearish-signal)**
 
-The shift comes as stablecoins surge in popularity and competitors like Stripe and PayPal add stablecoin options, increasing market pressure.
+The divergence between large and small holders has historically preceded further downside, with the Crypto Fear and Greed Index dropping to 12
 
-CoinDesk • 8h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -175,19 +175,11 @@ Forbes • 19h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772951400)**
+**[The Bettors on Polymarket Don't Think Bitcoin Will Hit $150,000 in March. Here's What I Think.](https://www.nasdaq.com/articles/bettors-polymarket-dont-think-bitcoin-will-hit-150000-march-heres-what-i-think)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+Key PointsInvesting and betting are different, but prediction markets are hot.
 
-Polymarket • 1h ago
-
----
-
-**[Bitcoin dip may not be over as whales sell into retail buying — a bearish signal](https://www.coindesk.com/markets/2026/03/08/bitcoin-dip-may-not-be-over-as-whales-sell-into-retail-buying-a-bearish-signal)**
-
-The divergence between large and small holders has historically preceded further downside, with the Crypto Fear and Greed Index dropping to 12
-
-CoinDesk • 2h ago
+Nasdaq • 5h ago
 
 ---
 
@@ -195,15 +187,29 @@ CoinDesk • 2h ago
 
 Bitcoin nearly touched $74,000 this week. But it’s now trading below $70,000. Volatility has returned to crypto markets following the US-Israel attack on Iran.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Putting $1,000 on a Game vs. $1,000 Into Bitcoin: Which Bet Actually Gives You a Better Chance at Building Wealth?](https://www.nasdaq.com/articles/putting-1000-game-vs-1000-bitcoin-which-bet-actually-gives-you-better-chance-building)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772955900)**
 
-Key PointsSports bets can sometimes offer the promise of a big payday at high risk.
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Nasdaq • 11h ago
+Polymarket • 1d ago
+
+---
+
+**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
+
+Bloomberg • 1d ago
+
+---
+
+**[Why Leopold Aschenbrenner’s AI hedge fund is betting big on power companies and Bitcoin miners to fuel the AI boom](https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/)**
+
+New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
+
+Fortune • 3d ago
 
 ---
 
@@ -211,13 +217,7 @@ Nasdaq • 11h ago
 
 Remember the guy who urged us all to invest in Bitcoin back in 2013 and was largely ignored? Well, this is what he’s up to now after taking his own advice
 
-supercarblondie.com • 11h ago
-
----
-
-**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
-
-Bloomberg.com • 1d ago
+supercarblondie.com • 12h ago
 
 ---
 
@@ -229,11 +229,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Why Leopold Aschenbrenner’s AI hedge fund is betting big on power companies and Bitcoin miners to fuel the AI boom](https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/)**
+**[Food Lion manager stops elderly woman from losing $5K in bitcoin scam](https://www.wistv.com/2026/03/06/food-lion-manager-stops-elderly-woman-losing-5k-bitcoin-scam/)**
 
-New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
+A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
-Fortune • 2d ago
+WIS News 10 • 2d ago
 
 ---
 
@@ -325,7 +325,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 152 • ⏱️ 11:32 • 11h ago
+👁️ 26K • 👍 2K • 💬 152 • ⏱️ 11:32 • 12h ago
 
 ---
 
@@ -335,7 +335,7 @@ Global tensions, oil politics, and the petrodollar system may be colliding in re
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 263 • ⏱️ 15:47 • 13h ago
+👁️ 20K • 👍 2K • 💬 263 • ⏱️ 15:47 • 14h ago
 
 ---
 
@@ -385,7 +385,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 2K • 💬 13 • ⏱️ 59:14 • 17h ago
+👁️ 31K • 👍 2K • 💬 13 • ⏱️ 59:14 • 18h ago
 
 ---
 
@@ -395,7 +395,7 @@ Get started with Plus500 - Practice with a FREE demo account or kickstart your t
 
 📺 Aaron Bennett
 
-👁️ 12K • 👍 673 • 💬 61 • ⏱️ 8:51 • 20h ago
+👁️ 12K • 👍 673 • 💬 61 • ⏱️ 8:51 • 21h ago
 
 ---
 
