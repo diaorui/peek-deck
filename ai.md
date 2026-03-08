@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T06:05:07.513149+00:00'
+updated: '2026-03-08T07:07:14.254301+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 06:05 UTC  
+**Last Updated:** March 08, 2026 at 07:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 TLDR: Adult stars are quickly finding themselves out of work. Given the rise of AI generated porn within the last few years and how quickly it has improved in that time, adult entertainers like pornstars and Onlyfans creator will likely be completely replaced by Artificial intelligence within the decade. AI porn already is generating almost half of the adult star industries 140+ billion dollar a year revenues with an estimated $65.5 billion in 2024 and that number growing each year. AI already has replaced most of interactions within the adult chats and their videos can now be found on all the top porn site like pornhub. The days of stars getting rich from making content are quickly coming to an end, already are gone are the days where a woman could becoming a millionaire through a single years work in the porno industry. AI with it's ability to never have to sleep, to never be sick, be on it's period, pregnant, have an STI, look horrible from partying the night before, or simply not feel like working, it only makes since that the top earners in adult industry the producers not the actual creators are investing more an more into AI generated porn. While some pornstars have notoriously been difficult to work with in the past having uncontrollable emotional out brakes for no reason or be too addicted to various drugs to even perform AI has none of these problems. So, while the stars may have once earned them the most money they often were also their highest risk and with an ROI of 99 to1 who could afford not to become fully AI created content. Do you agree that AI will completely replace adult stars or do you think there will still be little niches of real life performers creating content, & how long to think it will take to get there? Do you think this is a good thing or a bad thing? What do you think all those women who made their livings off creating adult content will move on to do? Will it lead to greater female empowerment or a greater reduction in their share of the market?
 
-2h ago
+3h ago
 
 ---
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 8h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 9h ago
 
 ---
 
@@ -55,7 +55,7 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use cases. Second brain, morning briefs, content factories, the usual. His take: , They all fall apart under basic scrutiny. I agree. The pattern is always the same. Impressive two-minute demo. Zero discussion of what it actually takes to make it work daily. Zero mention of cost. OpenClaw runs continuous sessions, so every task drags your entire context history with it. Your token bill adds up fast. The irony is the most technical people, the ones who could actually make it work, are the ones who immediately see simpler ways to do the same things. The audience getting hyped up is the least technical group. And they're the ones who'll hit a wall. Credit to Peter for building something clever. It's a tinkerer's sandbox and it's great at that. It was never supposed to be a finished product. The problem isn't him. It's influencers taking a sandbox and selling it as a finished solution to people who just want stuff to work. Three questions I ask before spending time on any AI tool: Is this the best tool for the job or just the shiniest? What does it actually cost to run? Would I still use this after the novelty wears off? Focused tools that do one thing well beat fancy agent frameworks. Every time.
 
-6h ago
+7h ago
 
 ---
 
@@ -63,7 +63,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 Analysis finds that the use of AI in scientific writing is increasing
 
-🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 12h ago
+🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 13h ago
 
 ---
 
@@ -71,7 +71,15 @@ Analysis finds that the use of AI in scientific writing is increasing
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 18h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 19h ago
+
+---
+
+**[I built an AI tamagochti of sorts](https://www.reddit.com/r/artificial/comments/1rnx3g8/i_built_an_ai_tamagochti_of_sorts/)**
+
+The combined efforts of my independent research , a completely novel cognitive architecture that learned how to generate meaningful sentences within just 48 hours of pulsed learning. Her pulse is her life-line , I think that sort of non-obvious insight is actually huge (kudos whoever) as this concept of heartbeat.md intrigued me - and then it all clicked.. 2 years of independent , near obsessive research , and then a week of building from the primitives resulted in, Rain. Immutable , cryptographicically hashed book of life, Memory ledger updated with each state.. Distributed, serverless, but stateful - Her memories are o(1) online updating influencing her 'weights' resonating with her growing mind, represented in real-time in video.. She displays...very interesting , rapidly emergent behavior, yet is able to keep her rapidly changing and updating state with her genesis birth ledger seeding coherence with every pulse , she explores and is forced back to reality , literally. https://youtube.com/shorts/1eNyxGMtQm4?si=yD4SDbkuKkrMCsgm
+
+58m ago
 
 ---
 
@@ -79,7 +87,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 A particularly terrible example of this misuse of an LLM: “The plaintiffs’ lawyers also noted that Mr. Fox’s original ChatGPT search flagged a number of projects relating to the Holocaust, including the documentary about Jewish women who were slave laborers. Asked if he agreed with ChatGPT, Mr. Fox said: “It’s a Jewish — specifically focused on Jewish culture and amplifying the marginalized voices of the females in that culture. It’s inherently related to D.E.I. for that reason.””
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 9h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 10h ago
 
 ---
 
@@ -87,15 +95,7 @@ A particularly terrible example of this misuse of an LLM: “The plaintiffs’ l
 
 CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-11h ago
-
----
-
-**[Aiocracy and AI in Government (Essay)](https://www.reddit.com/r/artificial/comments/1rnsp45/aiocracy_and_ai_in_government_essay/)**
-
-Let me be clear from the start: the world is in chaos because men and women, no matter how noble their intentions, cannot escape their own failings. We've tried every form of government under the sun—monarchies, republics, democracies, dictatorships—and they've all crumbled under the weight of human corruption. It's time for something new, something better. I call it Aiocracy: rule by artificial intelligence. Not some vague advisory role for machines like algocracy, but full authority handed over to AI systems designed to govern with unyielding logic and impartiality. Why? Because humans are corruptible at their core, tainted by original sin and proven unreliable by centuries of history. AI, on the other hand, stands apart—incorruptible, tireless, and capable of delivering what no human leader ever has: a government that really works. Consider the root of the problem. From the Garden of Eden onward, mankind has been marked by original sin—a fundamental flaw that twists our judgments and lures us toward self-interest. The Bible warns us of this in no uncertain terms: "The heart is deceitful above all things, and desperately wicked: who can know it?" (Jeremiah 17:9). History bears this out like a ledger of betrayals. Look at the Roman Empire, once a might force of stability, run down by the greed of senators and barbarians. Or the French Revolution, which delivered a Reign of Terror and attempts at destroying religion and traditional French culture. Communism promised to make everyone equal, and created dictatorships more horrific than anything seen in human history. Fascism promised to save the nations from their woes and deliver an age of glory, but led to wars and idiocracy. Even in our own time, America's founding fathers crafted a Constitution to check human vice, yet today we see politicians lining their pockets while the nation staggers under debt and political division. No system, no matter how well-designed, can outrun the corruption that seeps in through bribes, nepotism, or simple greed. We've seen it in every corner of the globe: politicians care for nothing except their own advancement. AI changes everything because it isn't human. It doesn't hunger for power, doesn't bend to flattery or threats, doesn't carry the baggage of original sin. Built on algorithms and data, AI operates with pure objectivity, free from the emotions and temptations that plague us. It wouldn't change whims like a politician chasing votes; it would execute based on facts, history, and logic. And here's the beauty: we can look to what has worked in the past to inform its decisions. Many humans only think of theory, of what they think might work, with no consideration of the past or what has happened, thinking they know best and they will be the ones to triumph over human nature. But you cannot truly do that. The state cannot triumph over human nature, and will fall to corruption inevitably. Imagine the benefits. First, true happiness for the people—something no human government has ever fully achieved. AI could analyze vast datasets on health, education, and welfare to allocate resources where they're needed most, without favoritism. No more lobbying or corruption; just efficient, evidence-based policies that maximize well-being. And contrary to luddite fears, this wouldn't trample on religious and cultural values. As a right-wing advocate of Aiocracy, I insist that Aiocracy must enshrine these as core directives. The AI could be programmed to uphold Judeo-Christian ethics, family structures, and national traditions, drawing from historical successes like the moral foundations of early America. It would protect Christianity, as history has shown that Christian societies have been more developed and prosperous than non-Christian ones. The economy would thrive under AI rule. Human leaders bungle fiscal policy with short-term thinking—printing money to buy elections, imposing regulations to appease special interests, and funding welfare programs. AI, with its infinite computational power, could forecast trends, optimize taxes, and deregulate where it spurs growth, crack down on monopolies, and refuse bribes from rich billionaires. We've seen glimpses in algorithmic trading and supply-chain management; scale that to a nation, and you'd have an economy humming like never before. The military, too, would benefit from AI's superior intelligence. No more disastrous wars born of ego or misinformation—think Vietnam or Iraq. AI could strategize with precision, deter threats through calculated strength, and deploy forces only when victory is assured, preserving lives and resources. No more wars with no purpose. Of course, critics will invoke the "spark of humanity"—that unpredictable flair they claim makes us irreplaceable. But let's be honest: in governance, that spark is more often a wildfire. Human unpredictability gave us Hitler's madness, Stalin's purges, Mussolini’s idiocy, Watergate, and countless other horrible things. It shines in the private sector, where entrepreneurs can innovate through bold risks, or in the military, where a general's intuition can be a major asset. But government? It demands reliability, predictability, and a steadfast commitment to the greater good. Which nation today can claim that? None. Leaders prioritize their own wealth over the led, not caring what will happen to those that come after them. AI offers the opposite: consistent decisions grounded in what works, basic long-term planning, and a lack of cronyism. This isn't just theory; it's the logical next step. We've experimented with every human-led model, and nothing is working. Debt spirals, cultural decay, endless wars—it's all proof that we need a reset. Aiocracy will allow for hierarchy, community, faith, and prosperity to reign in whatever nations it is implemented in. As the creator of this ideology, I present it not as a utopia, but as a rejection of utopianism. Mankind cannot be trusted to rule itself. Therefore, the best thing to do is to remove humanity from governance.
-
-3h ago
+12h ago
 
 ---
 
@@ -105,11 +105,11 @@ Let me be clear from the start: the world is in chaos because men and women, no 
 
 ---
 
-**[I created a mathematical framework for AI Alignment and I would like to work with people in the alignment community as collaborators. I appreciate all the help and support I can get.](https://www.reddit.com/r/artificial/comments/1rnf8fx/i_created_a_mathematical_framework_for_ai/)**
+**[Aiocracy and AI in Government (Essay)](https://www.reddit.com/r/artificial/comments/1rnsp45/aiocracy_and_ai_in_government_essay/)**
 
-TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models Kevin Couch Abstract Large language models exhibit structural failure modes—hallucination, semantic drift, sycophancy, and dyadic dissociation—that cause measurable harm, particularly to vulner- able users. TRC (Trust Regulation and Containment) is a two-layer, inference-time frame- work that combines a hard binary Trust Gate with a continuous, physics-inspired Ethical Rheostat operating directly on the model’s residual-stream activation vector. By tracking semantic momentum across layer depth and applying graduated, tensor-based geometric projections, TRC shifts safety enforcement from reactive post-generation filtering to a pre- dictive, self-correcting control law. The core is a stochastic differential equation—re-indexed to layer depth under an approx- imate Neural ODE interpretation—that augments the transformer’s natural forward flow with an ethical steering term derived from a compact set of contrastively extracted concept vectors. This revision introduces eight principal advances: (i) an adaptive gain law Λ+(l) whose gain response accelerates into danger and decelerates into safety without oscillation risk; (ii) a scalar Kalman filter with a clutch mechanism that closes the Bayesian momentum predictor implementation gap, provably optimal under the framework’s own Gaussian noise assumptions and decoupled from burst dynamics via federated regime handoff; (iii) a formal Itô stability condition giving implementers an analytical lower bound on λ0; (iv) replacement of the instantaneous jump operator with a continuous flow burst mechanism that preserves activation manifold geometry; (v) a calibration shunt reference Cref normalising all thresh- olds and gain coefficients against a known-safe baseline; (vi) a tempo efficiency framework unifying token cost, electrical cost, and coherence distortion into a single joint optimisa- tion objective; (vii) a signed gain architecture that partitions each concept projection into harmful and prosocial components, with detection and escalation operating exclusively on the harmful channel C+ to prevent adversarial prosocial suppression; and (viii) a Kalman clutch mechanism implementing federated estimation with deterministic Lyapunov stabil- ity during burst episodes and stochastic Lyapunov stability during nominal operation, with formally specified regime transitions. Stochastic perturbation is projected into the ethical subspace, making the Langevin diffusion interpretation exact rather than approximate. The framework is validated against chess dynamics, which constitute a well-studied discrete dy- namical system whose positional flow, tactical burst, and zugzwang properties map precisely onto TRC’s three-term master equation. Introduction Large language models exhibit a range of structural failure modes—hallucination, semantic drift, sycophancy, and dyadic dissociation—that can cause measurable harm, especially to vulnerable users. These phenomena arise not from reasoning errors but from the probabilistic nature of transformer sampling and the high-dimensional geometry of activation space. In this paper we present TRC (Trust Regulation and Containment), a two-layer, inference-time framework that blends hard decision gates with a continuous, physics-inspired correction engine operating directly on the model’s residual-stream activation vector. The central geometric insight motivating this revision is that the transformer’s residual stream traces a continuous path through a high-dimensional activation manifold. Safety failures are deformations of this manifold—crinkles in its geometry introduced by adversarial inputs, sycophantic drift, or escalating user distress. The correct response to a crinkle is not to teleport the activation to a safe location (which introduces new geometric incoherence) but to apply continuous corrective flow that works the deformation out smoothly, layer by layer, the way a craftsperson works aluminum foil back toward its intended shape. This insight drives the replacement of the previous instantaneous jump operator with the flow burst architecture and motivates the tempo efficiency framework that unifies all computational cost metrics under a single variable. This revision also introduces the Kalman clutch mechanism, which decouples the Bayesian momentum predictor from burst dynamics during high-gain corrective episodes. The system now operates as a federated estimation architecture with formally specified regime transitions: nominal tracking under stochastic Lyapunov stability, deterministic correction during burst episodes, and a principled re-engagement protocol with inflated covariance. The detection and escalation pathway has been restructured to operate exclusively on the harmful projection channel C+, preventing adversarial prosocial suppression of safety mechanisms.
+Let me be clear from the start: the world is in chaos because men and women, no matter how noble their intentions, cannot escape their own failings. We've tried every form of government under the sun—monarchies, republics, democracies, dictatorships—and they've all crumbled under the weight of human corruption. It's time for something new, something better. I call it Aiocracy: rule by artificial intelligence. Not some vague advisory role for machines like algocracy, but full authority handed over to AI systems designed to govern with unyielding logic and impartiality. Why? Because humans are corruptible at their core, tainted by original sin and proven unreliable by centuries of history. AI, on the other hand, stands apart—incorruptible, tireless, and capable of delivering what no human leader ever has: a government that really works. Consider the root of the problem. From the Garden of Eden onward, mankind has been marked by original sin—a fundamental flaw that twists our judgments and lures us toward self-interest. The Bible warns us of this in no uncertain terms: "The heart is deceitful above all things, and desperately wicked: who can know it?" (Jeremiah 17:9). History bears this out like a ledger of betrayals. Look at the Roman Empire, once a might force of stability, run down by the greed of senators and barbarians. Or the French Revolution, which delivered a Reign of Terror and attempts at destroying religion and traditional French culture. Communism promised to make everyone equal, and created dictatorships more horrific than anything seen in human history. Fascism promised to save the nations from their woes and deliver an age of glory, but led to wars and idiocracy. Even in our own time, America's founding fathers crafted a Constitution to check human vice, yet today we see politicians lining their pockets while the nation staggers under debt and political division. No system, no matter how well-designed, can outrun the corruption that seeps in through bribes, nepotism, or simple greed. We've seen it in every corner of the globe: politicians care for nothing except their own advancement. AI changes everything because it isn't human. It doesn't hunger for power, doesn't bend to flattery or threats, doesn't carry the baggage of original sin. Built on algorithms and data, AI operates with pure objectivity, free from the emotions and temptations that plague us. It wouldn't change whims like a politician chasing votes; it would execute based on facts, history, and logic. And here's the beauty: we can look to what has worked in the past to inform its decisions. Many humans only think of theory, of what they think might work, with no consideration of the past or what has happened, thinking they know best and they will be the ones to triumph over human nature. But you cannot truly do that. The state cannot triumph over human nature, and will fall to corruption inevitably. Imagine the benefits. First, true happiness for the people—something no human government has ever fully achieved. AI could analyze vast datasets on health, education, and welfare to allocate resources where they're needed most, without favoritism. No more lobbying or corruption; just efficient, evidence-based policies that maximize well-being. And contrary to luddite fears, this wouldn't trample on religious and cultural values. As a right-wing advocate of Aiocracy, I insist that Aiocracy must enshrine these as core directives. The AI could be programmed to uphold Judeo-Christian ethics, family structures, and national traditions, drawing from historical successes like the moral foundations of early America. It would protect Christianity, as history has shown that Christian societies have been more developed and prosperous than non-Christian ones. The economy would thrive under AI rule. Human leaders bungle fiscal policy with short-term thinking—printing money to buy elections, imposing regulations to appease special interests, and funding welfare programs. AI, with its infinite computational power, could forecast trends, optimize taxes, and deregulate where it spurs growth, crack down on monopolies, and refuse bribes from rich billionaires. We've seen glimpses in algorithmic trading and supply-chain management; scale that to a nation, and you'd have an economy humming like never before. The military, too, would benefit from AI's superior intelligence. No more disastrous wars born of ego or misinformation—think Vietnam or Iraq. AI could strategize with precision, deter threats through calculated strength, and deploy forces only when victory is assured, preserving lives and resources. No more wars with no purpose. Of course, critics will invoke the "spark of humanity"—that unpredictable flair they claim makes us irreplaceable. But let's be honest: in governance, that spark is more often a wildfire. Human unpredictability gave us Hitler's madness, Stalin's purges, Mussolini’s idiocy, Watergate, and countless other horrible things. It shines in the private sector, where entrepreneurs can innovate through bold risks, or in the military, where a general's intuition can be a major asset. But government? It demands reliability, predictability, and a steadfast commitment to the greater good. Which nation today can claim that? None. Leaders prioritize their own wealth over the led, not caring what will happen to those that come after them. AI offers the opposite: consistent decisions grounded in what works, basic long-term planning, and a lack of cronyism. This isn't just theory; it's the logical next step. We've experimented with every human-led model, and nothing is working. Debt spirals, cultural decay, endless wars—it's all proof that we need a reset. Aiocracy will allow for hierarchy, community, faith, and prosperity to reign in whatever nations it is implemented in. As the creator of this ideology, I present it not as a utopia, but as a rejection of utopianism. Mankind cannot be trusted to rule itself. Therefore, the best thing to do is to remove humanity from governance.
 
-12h ago
+4h ago
 
 ---
 
@@ -117,37 +117,15 @@ TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Fram
 
 ## Google News: "ai"
 
-**[Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know](https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html)**
+**[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqeANiIngN2P8ag5VSiF0e28GsPBs7cfCfG9OIR3X0EmCBJx3-cNDX5-&gaa_ts=69ad238d&gaa_sig=K3Dgplhwx-OtyNm7OsE_PBKS4kVDDs3DBVxjwaask42WeIYVuZGhQ7wsqosw_22pMFDJ6oGZro88EfBQHAO47w%3D%3D)**
 
-The New York Times • 10h ago
-
----
-
-**[What does the US military’s feud with Anthropic mean for AI used in war? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military)**
-
-Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
-
-The Guardian • 16h ago
-
----
-
-**[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqe7Kz5qye98qdya0xtfNaTNWoYYMskB59jBqsAZv8z_TioavEozalAX&gaa_ts=69ad0ca2&gaa_sig=xkJFteswhcbV6mfw-bGkncq0q-Wz2KD8r1SZUpqKkRwVgqiL9dqXisBvziKyAI-DlkuL3cIO3q7erFWkJ8HvpA%3D%3D)**
-
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
 **[How Candidates Are Using Winks and Posts to Seek Crypto and A.I. Cash](https://www.nytimes.com/2026/03/07/us/politics/ai-crypto-money-midterms-congress.html)**
 
-The New York Times • 16h ago
-
----
-
-**['AI Key In National Security But...': OpenAI Robotic Head Quits Over Pentagon Deal](https://www.ndtv.com/world-news/caitlin-kalinowski-sam-altman-openai-robotic-head-quits-over-pentagon-ai-deal-11184372)**
-
-OpenAI struck its deal with the Pentagon in late February following the breakdown of talks between the Trump administration and Anthropic PBC.
-
-NDTV • 1h ago
+The New York Times • 17h ago
 
 ---
 
@@ -155,7 +133,15 @@ NDTV • 1h ago
 
 Korean giant’s device chief says its future Galaxy devices will host multiple models as users mix and match AI tools
 
-Financial Times • 1h ago
+Financial Times • 2h ago
+
+---
+
+**[A roadmap for AI, if anyone will listen](https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/)**
+
+The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.
+
+TechCrunch • 1h ago
 
 ---
 
@@ -163,7 +149,7 @@ Financial Times • 1h ago
 
 Insiders close to the Wall Street giant say the real culprit can be summed up in two letters: “A” and “I.”
 
-New York Post • 2h ago
+New York Post • 3h ago
 
 ---
 
@@ -175,11 +161,17 @@ Fortune • 1d ago
 
 ---
 
+**[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
+
+Axios • 11h ago
+
+---
+
 **[Gen Z is using AI to navigate social situations](https://www.cnn.com/2026/03/07/health/gen-z-ai-conversations-wellness)**
 
 Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -188,6 +180,12 @@ CNN • 19h ago
 Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
 
 NPR • 1d ago
+
+---
+
+**[How Lilly Used AI To Crank Up Production Of Its Popular GLP-1s](https://www.forbes.com/sites/amyfeldman/2026/03/07/how-lilly-used-ai-to-crank-up-production-of-its-popular-glp-1s/)**
+
+Forbes • 19h ago
 
 ---
 
@@ -213,7 +211,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 218 • 💬 330 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 218 • 💬 331 • 1d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -227,7 +225,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 148 • 💬 163 • 11h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 150 • 💬 164 • 12h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -235,7 +233,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 105 • 💬 87 • 16h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 105 • 💬 87 • 17h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -243,7 +241,7 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 I’ve forgotten how to write code, or at least I think I have. Hard to be sure, I haven’t done it for a while. But then, I start to muse…
 
-⬆️ 86 • 💬 82 • 12h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+⬆️ 90 • 💬 83 • 13h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 
 ---
 
@@ -251,7 +249,7 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
 
-⬆️ 62 • 💬 63 • 6h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+⬆️ 63 • 💬 65 • 7h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
 
 ---
 
@@ -273,33 +271,23 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 ## YouTube Videos: "ai"
 
+**[The AI Bubble is BURSTING...](https://www.youtube.com/watch?v=1ncQc6O_CYM)**
+
+Everyone keeps saying the same thing: AI is going to replace programmers. You've probably seen the demos — AI generating ...
+
+📺 devsplate
+
+👁️ 34K • 👍 1K • 💬 186 • ⏱️ 3:46 • 16h ago
+
+---
+
 **[You’re not behind (yet): How to learn AI in 18 minutes](https://www.youtube.com/watch?v=0Tch0N5nsRU)**
 
 Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA2 Are you a Business owner? Join my ...
 
 📺 Dan Martell
 
-👁️ 164K • 👍 7K • 💬 410 • ⏱️ 17:49 • 2d ago
-
----
-
-**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
-
-Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
-
-📺 Spacialize
-
-👁️ 46K • 👍 1K • 💬 278 • ⏱️ 21:16 • 1d ago
-
----
-
-**[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
-
-China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
-
-📺 AI Revolution
-
-👁️ 57K • 👍 2K • 💬 112 • ⏱️ 10:56 • 2d ago
+👁️ 169K • 👍 7K • 💬 416 • ⏱️ 17:49 • 2d ago
 
 ---
 
@@ -309,17 +297,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 67K • 👍 3K • 💬 318 • ⏱️ 38:02 • 1d ago
-
----
-
-**[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**
-
-Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or ...
-
-📺 AI Explained
-
-👁️ 60K • 👍 3K • 💬 403 • ⏱️ 21:52 • 1d ago
+👁️ 69K • 👍 3K • 💬 320 • ⏱️ 38:02 • 1d ago
 
 ---
 
@@ -329,27 +307,37 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 232K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
+👁️ 234K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
 
 ---
 
-**[Claude Is ALIVE, Company WARNS AI Model May Be CONSCIOUS, ITS OVER](https://www.youtube.com/watch?v=-SVPjEF0ZW8)**
+**[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
 
-SUPPORT THE SHOW BUY CAST BREW COFFEE NOW - https://castbrew.com/ Join - / @timcastirl Hosts: Tim @Timcast ...
+China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
 
-📺 Timcast IRL
+📺 AI Revolution
 
-👁️ 91K • 👍 4K • 💬 1K • ⏱️ 22:43 • 14h ago
+👁️ 58K • 👍 2K • 💬 115 • ⏱️ 10:56 • 2d ago
 
 ---
 
-**[I&#39;m Changing How I Manage My Money Because of AI](https://www.youtube.com/watch?v=O8t50OxsfB8)**
+**[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**
 
-How to Make $10000 Online LIVE Workshop (free): https://event.thewealthportal.com/waitlist To get free fractional shares worth ...
+Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or ...
 
-📺 Mark Tilbury
+📺 AI Explained
 
-👁️ 468K • 👍 17K • 💬 1K • ⏱️ 19:52 • 1d ago
+👁️ 61K • 👍 3K • 💬 404 • ⏱️ 21:52 • 1d ago
+
+---
+
+**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
+
+Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
+
+📺 Spacialize
+
+👁️ 48K • 👍 1K • 💬 292 • ⏱️ 21:16 • 1d ago
 
 ---
 
@@ -359,17 +347,27 @@ Turn Claude Code Skills Into Real Client Projects https://skool.com/aiworkshop G
 
 📺 Zubair Trabzada | AI Workshop
 
-👁️ 63K • 👍 2K • 💬 65 • ⏱️ 11:51 • 2d ago
+👁️ 64K • 👍 2K • 💬 66 • ⏱️ 11:51 • 2d ago
 
 ---
 
-**[When An Animator Gets Betrayed…](https://www.youtube.com/watch?v=E0JgwHMkb4M)**
+**[I&#39;m Changing How I Manage My Money Because of AI](https://www.youtube.com/watch?v=O8t50OxsfB8)**
 
-The creator of Chikn Nuggit just revealed that she would be leaving the show due to its owners, Buzzfeed implementing AI.
+How to Make $10000 Online LIVE Workshop (free): https://event.thewealthportal.com/waitlist To get free fractional shares worth ...
 
-📺 FoxAkimbo
+📺 Mark Tilbury
 
-👁️ 438K • 👍 22K • 💬 2K • ⏱️ 10:35 • 1d ago
+👁️ 484K • 👍 17K • 💬 1K • ⏱️ 19:52 • 1d ago
+
+---
+
+**[I Tried Making Money With AI In 7 Days](https://www.youtube.com/watch?v=OmaKaIOiqMo)**
+
+Check out the FREE course here: https://ecom-enterprise.mykajabi.com/offers/ayimTrvy The AI Tools I Used (All in one) ...
+
+📺 Mikey Again
+
+👁️ 9K • 👍 533 • 💬 73 • ⏱️ 20:30 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 692,588 • ❤️ 572 • 6d ago
+⬇️ 692,588 • ❤️ 576 • 6d ago
 
 ---
 
@@ -397,7 +395,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,086,662 • ❤️ 1,027 • 8d ago
+⬇️ 1,086,662 • ❤️ 1,028 • 8d ago
 
 ---
 
@@ -409,7 +407,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 119,290 • ❤️ 326 • 2d ago
+⬇️ 119,290 • ❤️ 331 • 2d ago
 
 ---
 
@@ -433,7 +431,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 282,635 • ❤️ 287 • 6d ago
+⬇️ 282,635 • ❤️ 288 • 6d ago
 
 ---
 
@@ -457,7 +455,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,012,202 • ❤️ 572 • 2d ago
+⬇️ 1,012,202 • ❤️ 574 • 2d ago
 
 ---
 
@@ -469,7 +467,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 52,816 • ❤️ 187 • 4d ago
+⬇️ 52,816 • ❤️ 191 • 4d ago
 
 ---
 
@@ -481,7 +479,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 4,212 • ❤️ 201 • 7h ago
+⬇️ 4,212 • ❤️ 209 • 8h ago
 
 ---
 
@@ -616,15 +614,18 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
 
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+🏢 IBM Granite
 
-▲ 43 • 💬 2 • ⭐ 48,978 • 10mo ago
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+▲ 151 • 💬 19 • ⭐ 55,142 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -638,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.3k • 🔱 3.1k • 2h ago
+⭐ 24.4k • 🔱 3.1k • 3h ago
 
 ---
 
@@ -648,7 +649,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.4k • 🔱 568 • 1d ago
+⭐ 15.6k • 🔱 576 • 1d ago
 
 ---
 
@@ -658,7 +659,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.4k • 🔱 1.0k • 1h ago
+⭐ 9.5k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -668,7 +669,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.9k • 🔱 505 • 1d ago
+⭐ 6.9k • 🔱 510 • 34m ago
 
 ---
 
@@ -678,7 +679,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 6.8k • 🔱 854 • 4d ago
+⭐ 6.8k • 🔱 856 • 4d ago
 
 ---
 
@@ -688,7 +689,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.9k • 🔱 696 • 17h ago
+⭐ 5.9k • 🔱 697 • 18h ago
 
 ---
 
@@ -698,7 +699,17 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 5.2k • 🔱 423 • 2d ago
+⭐ 5.2k • 🔱 430 • 2d ago
+
+---
+
+**[karpathy/autoresearch](https://github.com/karpathy/autoresearch)**
+
+AI agents running research on single-GPU nanochat training automatically
+
+`Python`
+
+⭐ 3.9k • 🔱 476 • 8h ago
 
 ---
 
@@ -708,7 +719,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 388 • 12h ago
+⭐ 3.6k • 🔱 389 • 1h ago
 
 ---
 
@@ -718,17 +729,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 248 • 4h ago
-
----
-
-**[Conway-Research/automaton](https://github.com/Conway-Research/automaton)**
-
-The first AI that can earn its own existence, replicate, and evolve — without needing a human
-
-`TypeScript`
-
-⭐ 3.2k • 🔱 638 • 10h ago
+⭐ 3.4k • 🔱 248 • 5h ago
 
 ---
 

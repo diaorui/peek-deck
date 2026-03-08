@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T06:05:07.530839+00:00'
+updated: '2026-03-08T07:07:14.272042+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 06:05 UTC  
+**Last Updated:** March 08, 2026 at 07:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-1h ago
+2h ago
 
 ---
 
@@ -50,13 +50,13 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-7h ago
+8h ago
 
 ---
 
 **[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -64,21 +64,7 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-19h ago
-
----
-
-**[Hexapoddd in the processsss](https://www.reddit.com/r/robotics/comments/1rnip3e/hexapoddd_in_the_processsss/)**
-
-Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
-
-10h ago
-
----
-
-**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 8h ago
+20h ago
 
 ---
 
@@ -86,7 +72,29 @@ Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter an
 
 Did anyone actually end up buying this robot: https://www.1x.tech/? I remember hearing that it would release worldwide in 2026 in the news around October to November, and everyone got really upset about it.
 
-6h ago
+7h ago
+
+---
+
+**[Hexapoddd in the processsss](https://www.reddit.com/r/robotics/comments/1rnip3e/hexapoddd_in_the_processsss/)**
+
+Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
+
+11h ago
+
+---
+
+**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 9h ago
+
+---
+
+**[What if you could swallow your surgery?](https://www.reddit.com/r/robotics/comments/1rny2tz/what_if_you_could_swallow_your_surgery/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/E_m9AS7-pw0?feature=share) • 4m ago
 
 ---
 
@@ -98,19 +106,13 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 ---
 
-**[New Yorkers will be mad when they see this 😆](https://www.reddit.com/r/robotics/comments/1rmwoge/new_yorkers_will_be_mad_when_they_see_this/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -118,21 +120,13 @@ Reuters • 9h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 9h ago
+Futurism • 10h ago
 
 ---
 
-**[Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury](https://techxplore.com/news/2026-03-robots-ai-evolves-legged-metamachines.html)**
+**[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
 
-Tech Xplore • 17h ago
-
----
-
-**[Boeing Sends Liquid Robots to Defend Japan](https://www.fool.com/investing/2026/03/07/boeing-sends-liquid-robots-to-defend-japan/)**
-
-Boeing builds expensive airplanes -- but very affordable drone ships for the military.
-
-The Motley Fool • 20h ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -140,21 +134,13 @@ The Motley Fool • 20h ago
 
 Caitlin Kalinowski, OpenAI’s head of robotics, resigned over the company’s new Pentagon deal — saying decisions about surveillance of Americans and lethal autonomy “deserved more deliberation than they got.”
 
-The San Francisco Standard • 5h ago
+The San Francisco Standard • 6h ago
 
 ---
 
-**[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
+**[OpenAI Robotics Chief Quits After Firm's Controversial Pentagon Agreement](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
 
-Forbes • 10h ago
-
----
-
-**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3)**
-
-Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
-
-Business Insider • 12h ago
+Forbes • 11h ago
 
 ---
 
@@ -162,23 +148,37 @@ Business Insider • 12h ago
 
 The Philadelphia Robotics Coalition gathered students for a special day of innovation.
 
-6abc Philadelphia • 7h ago
+6abc Philadelphia • 8h ago
 
 ---
 
-**[OpenAI’s Head of Robotics Resigns Over Company’s Pentagon Deal](https://www.bloomberg.com/news/articles/2026-03-07/openai-s-head-of-robotics-resigns-over-company-s-pentagon-deal)**
+**[UMF welcomes Blue Crew High School Robotics Team to campus for the 2026 season](https://www.bangordailynews.com/2026/03/07/bdn-maine/umf-welcomes-blue-crew-high-school-robotics-team-to-campus-for-the-2026-season/)**
 
-The head of OpenAI’s robotics team resigned Saturday, citing the company’s deal to deploy its artificial intelligence models within the Pentagon’s classified network as the cause.
-
-Bloomberg.com • 7h ago
+Bangor Daily News • 12h ago
 
 ---
 
-**[OpenAI robotics chief quits over AI’s potential use for war and surveillance](https://www.france24.com/en/americas/20260308-openai-robotics-chief-quits-over-ai-potential-use-for-war-and-surveillance-artificial-intelligence-pentagon)**
+**[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
 
-A top robotics executive at OpenAI said Saturday she had resigned over the company’s deal with the US Department of Defense to allow its artificial intelligence to be used for war and potential domestic…
+The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
 
-France 24 • 38m ago
+GeekWire • 3d ago
+
+---
+
+**[Qualcomm Weighs AI Export Rules While Expanding Into Robotics Chips](https://finance.yahoo.com/news/qualcomm-weighs-ai-export-rules-150751298.html)**
+
+U.S. officials have released draft rules that would introduce tiered export controls on AI chips, aiming to tighten oversight of advanced processors shipped to certain markets. Qualcomm (NasdaqGS:QCOM) has joined other chipmakers in pushing back on the proposals, arguing the measures could affect access to key international customers and slow AI adoption. At the same time, Qualcomm is promoting its new Dragonwing processor for robotics, highlighting plans to grow beyond smartphones into AI...
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
+
+Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
+
+Fox Business • 2d ago
 
 ---
 
@@ -192,17 +192,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 544K • 👍 35K • 💬 4K • ⏱️ 16:54 • 4d ago
-
----
-
-**[Phones Get Weird, Robots Are Everywhere at MWC 2026](https://www.youtube.com/watch?v=HG1Of5WZpNc)**
-
-At the world's largest mobile show, companies from around the globe take their biggest swings. Unique smartphones, dancing ...
-
-📺 CNET
-
-👁️ 10K • 👍 396 • 💬 15 • ⏱️ 4:13 • 17h ago
+👁️ 561K • 👍 35K • 💬 4K • ⏱️ 16:54 • 4d ago
 
 ---
 
@@ -212,7 +202,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 105K • 👍 1K • 💬 153 • ⏱️ 29:41 • 2d ago
+👁️ 118K • 👍 1K • 💬 164 • ⏱️ 29:41 • 2d ago
 
 ---
 
@@ -222,7 +212,17 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME will b
 
 📺 NHRL
 
-👁️ 8K • 👍 269 • 💬 4 • ⏱️ 3:35:12 • 5h ago
+👁️ 10K • 👍 285 • 💬 4 • ⏱️ 3:35:12 • 6h ago
+
+---
+
+**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
+
+Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
+
+📺 AI Revolution
+
+👁️ 21K • 👍 759 • 💬 55 • ⏱️ 14:35 • 3d ago
 
 ---
 
@@ -236,33 +236,23 @@ FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game
 
 ---
 
+**[Phones Get Weird, Robots Are Everywhere at MWC 2026](https://www.youtube.com/watch?v=HG1Of5WZpNc)**
+
+At the world's largest mobile show, companies from around the globe take their biggest swings. Unique smartphones, dancing ...
+
+📺 CNET
+
+👁️ 11K • 👍 415 • 💬 15 • ⏱️ 4:13 • 18h ago
+
+---
+
 **[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
 
 War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
 
 📺 Adrian Chong
 
-👁️ 7K • 👍 378 • 💬 61 • ⏱️ 15:24 • 2d ago
-
----
-
-**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
-
-A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
-
-📺 Billionaire Shots
-
-👁️ 37K • 👍 2K • 💬 269 • ⏱️ 0:13 • 4d ago
-
----
-
-**[Autonomous Robot Fighting League Just Started and It&#39;s Insane #robotics #robot #humanoidrobots](https://www.youtube.com/watch?v=B7A-KHSEj40)**
-
-The maker of China's Terminator is sending a fleet of the robots into the world to prepare for combat. Shenzhen-based EngineAI ...
-
-📺 Kalil 4.0
-
-👁️ 933 • 👍 47 • 💬 10 • ⏱️ 1:09 • 9h ago
+👁️ 7K • 👍 381 • 💬 61 • ⏱️ 15:24 • 2d ago
 
 ---
 
@@ -282,7 +272,17 @@ War Robots Gameplay: NEW Sniper Titan WAYMAKER is coming to WR. Here's my new Yo
 
 📺 Manni-Gaming
 
-👁️ 17K • 👍 826 • 💬 191 • ⏱️ 15:49 • 19h ago
+👁️ 19K • 👍 856 • 💬 194 • ⏱️ 15:49 • 20h ago
+
+---
+
+**[I, Robot – When a Movie Feels Made by AI | Anatomy of a Failure](https://www.youtube.com/watch?v=pS1A_sIR_fM)**
+
+Get 10 Free Meals and your first box ship free with code FILMENTOFM at https://bit.ly/4aKycJe I, Robot is a 2004 Will Smith movie ...
+
+📺 Filmento
+
+👁️ 78K • 👍 5K • 💬 932 • ⏱️ 20:54 • 1d ago
 
 ---
 
