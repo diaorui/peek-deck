@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T17:24:42.700837+00:00'
+updated: '2026-03-08T17:48:32.657984+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 17:24 UTC  
+**Last Updated:** March 08, 2026 at 17:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
 
-55m ago
+1h ago
 
 ---
 
 **[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
 
-37m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hi everyone I'm a grad french student getting into robotics simulation and I've 
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-18h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
 
-6h ago
+7h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
 
-11m ago
+35m ago
 
 ---
 
@@ -112,7 +112,7 @@ Robotics researcher Holly Yanco describes research looking at how people respond
 
 Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -120,7 +120,7 @@ Business Insider • 23h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 20h ago
+Futurism • 21h ago
 
 ---
 

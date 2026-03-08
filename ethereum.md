@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T17:24:42.697610+00:00'
+updated: '2026-03-08T17:48:32.654772+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 17:24 UTC  
+**Last Updated:** March 08, 2026 at 17:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -168,7 +168,7 @@ TradingView • 17h ago
 
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -234,7 +234,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 141 • ⏱️ 11:32 • 20h ago
+👁️ 37K • 👍 2K • 💬 141 • ⏱️ 11:32 • 21h ago
 
 ---
 
@@ -264,7 +264,7 @@ In this clip from the most recent askSlim Live, Slim provides an analysis update
 
 📺 Steve Miller
 
-👁️ 2K • 👍 78 • 💬 4 • ⏱️ 8:11 • 21h ago
+👁️ 2K • 👍 78 • 💬 4 • ⏱️ 8:11 • 22h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 6 • ⏱️ 3:42 • 20h ago
+👁️ 2K • 👍 126 • 💬 6 • ⏱️ 3:42 • 21h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 294 • 💬 63 • ⏱️ 17:36 • 18h ago
+👁️ 9K • 👍 294 • 💬 63 • ⏱️ 17:36 • 19h ago
 
 ---
 
@@ -304,7 +304,7 @@ Workers build a luxury epoxy floor using thousands of Ethereum coins hidden unde
 
 📺 windy the
 
-👁️ 743 • 👍 5 • ⏱️ 0:11 • 2h ago
+👁️ 743 • 👍 5 • ⏱️ 0:11 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T17:24:42.683139+00:00'
+updated: '2026-03-08T17:48:32.640355+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 17:24 UTC  
+**Last Updated:** March 08, 2026 at 17:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,7 +61,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 19h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 20h ago
 
 ---
 
@@ -69,7 +69,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 There is a question sitting underneath most serious thinking about AI systems that rarely gets asked directly: why doesn't it learn? Not learn during training — that part works. But learn the way humans learn. Continuously, experientially, from correction. The way a person who makes a mistake on Tuesday is slightly different on Wednesday because of it. Current large language models don't do this. After training weights are frozen. Every conversation that follows — every correction, every clarification, every "no, that's wrong" — vanishes when the session closes. The model is a sophisticated frozen artifact. Brilliant in many ways, but static in this one fundamental sense. People find this instinctively wrong, and our instinct is probably pointing at something real. The Biological Baseline The brain doesn't learn during activity. It learns afterwards, on reflection, during sleep. This is not a minor implementation detail. It appears to be load-bearing architecture. The hippocampus replays flagged experiences during sleep — compressed, faster than real-time — slowly transferring high-signal events into cortical long-term storage. Not everything gets replayed. Not everything gets consolidated. The brain is selective, and the selection mechanism appears to be largely emotional. Fear, surprise, reward, social consequence, strong prediction error — these flag an experience as worth keeping. Low-signal routine gets discarded. The system is efficient because it is discriminating. The skydiver who lands and immediately gives a first-person verbal account of what happened, then watches video that partially contradicts that account, is engineering this process deliberately. The verbal reconstruction forces a committed internal model. The video provides a grounded external contradiction. The report of a police officer after an incident, bounded by body camera. Same thing. The gap between them — the dissonance — is the signal. That signal consolidates later into durable learning. The architecture is: active experience generating predictions, immediate post-hoc narrative committing to a model, external contradiction generating a strong error signal, delayed consolidation of high-signal experiences into lasting change. Current AI has some correction during reinforcement learning but nothing at inference time. Emotion as Flagging Heuristic The human brain's consolidation system doesn't run on everything. It runs on what matters. And what determines mattering, in biological systems, may be largely emotion. This is not incidental. Emotion is the brain's significance-tagging system. The amygdala fires fast — pre-cognitively, before the prefrontal cortex has processed the event — marking certain experiences as high-priority for retention. One encounter with genuine danger and it's in long-term memory essentially permanently. The system is calibrated by evolutionary stakes. For artificial systems, functional analogs exist but are pale shadows of this. High-confidence output followed by sharp explicit correction resembles surprise or embarrassment — a strong prediction error against a committed model. User persistence through repeated rephrasing signals something like frustration — the interaction is not resolving normally. Novel inputs producing high uncertainty suggest the model is outside its comfortable distribution. These signals exist in the conversation logs of every deployed model. They are largely ignored. A serious approach to machine learning-from-experience would need a lightweight parallel system running during inference whose only job is real-time significance assessment. Not reasoning — flagging. Fast and automatic, more like an autonomic response than a deliberate thought. This is architecturally closer to Kahneman's System 1 than anything currently built into transformer inference, which is essentially pure System 2 — all deliberation, no instinct. The Sleep Hypothesis What would happen if a deployed model took eight hours offline daily and ran light fine-tuning on its flagged interactions? Taken seriously, the engineering requirements become surprisingly concrete. The first requirement is the tagging mechanism described above — a way to identify high-signal correction events during inference worth preserving for later integration. This is tractable. The logs exist. Explicit corrections are often detectable. Confidence-then-contradiction is measurable. The second requirement is a conservative fine-tuning process. Small learning rate, narrow scope, strong regularization against existing weights. Not retraining — targeted synaptic adjustment on the day's flagged experiences. Validation against a held-out baseline to catch drift before it commits. The third requirement, more speculative, is a generalization step analogous to dreaming. REM sleep may serve a counterfactual function — the brain generates variations and recombinations of the day's flagged experiences, testing whether new learning holds across novel configurations. The model equivalent would be synthetic generation of variations on flagged interactions during the consolidation window, making updates more robust rather than just memorizing specific corrections. The practical barriers to doing this with existing infrastructure are smaller than they appear. Off-peak compute is cheaper. The logs exist. The fine-tuning tooling exists. The main obstacle seems institutional and economic rather than technical. The Deeper Implication There is a thread connecting the biological observations to the engineering proposal that is worth naming explicitly. The corrective signal only works if the system was committed enough to be wrong. The skydiver who gives a vague account before seeing the video gets less from the correction than the one who commits confidently to a specific narrative. The model that hedges every output produces no strong prediction to contradict. Confident wrongness may not be a bug in intelligent systems — it may be a prerequisite for deep learning from experience. This complicates the current instinct to make AI systems more uncertain and hedged. If the flagging heuristic depends on strong prediction errors, excessive hedging may impair the system's capacity to learn from its mistakes. There is a calibration question here that has not been seriously examined. More broadly, what this conversation points toward is an architecture that does not yet exist: a model that learns continuously from deployment, flags high-signal experiences automatically during inference, consolidates them during low-activity periods, and generalizes from corrections rather than merely storing them. This is not obviously impossible. It is probably a matter of when rather than if. The biological brain solved this problem. It solved it with emotion as a heuristic, sleep as a mechanism, and committed prediction as a prerequisite. Those are not mystical ingredients. They are design principles.
 
-2h ago
+3h ago
 
 ---
 
@@ -77,7 +77,7 @@ There is a question sitting underneath most serious thinking about AI systems th
 
 The Anthropic/Pentagon situation in February prompted me to think about a governance problem I haven't seen framed quite this way: not whether AI companies should refuse certain uses, but what happens to AI models when human oversight of their outputs is low-quality or perfunctory — and that pattern makes it into training data. The argument in brief: if AI succeeds in contexts where humans aren't genuinely reviewing its outputs, and those successes are treated as positive training signals, we may be systematically training models to treat human disengagement as acceptable. The problem is distributional — any individual reviewer may be excellent, but at scale, the assumption of meaningful review degrades. A second dimension: output quality confidence. Training signal weight should scale with how verifiable the output is. Code that runs and produces correct results is high-confidence feedback. Advice that sounds good but can't be independently checked is low-confidence. The two dimensions function as compensating controls. I'm an FCAS (Fellow of the Casualty Actuarial Society) — I think about risk and probability for a living. I have a CS minor and have worked with statistical programming throughout my career, but I'm not an ML researcher. I wrote this with Claude's help, which I've disclosed in the paper itself. I'm particularly curious whether the training signal mechanism holds up technically — that's where my background has real limits and where I'd most value pushback. Full paper in comments.
 
-4h ago
+5h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Motley Fool • 8h ago
 
 Amazon is betting big on AI infrastructure, and Nvidia is shaping up to be one of the biggest beneficiaries.
 
-The Motley Fool • 11m ago
+The Motley Fool • 35m ago
 
 ---
 
@@ -173,7 +173,7 @@ NPR • 1d ago
 
 Netflix has acquired AI startup InterPositive, founded by Ben Affleck. The software is designed to help filmmakers adjust shots and enhance production. (AP Photo)
 
-10TV • 44m ago
+10TV • 1h ago
 
 ---
 
@@ -243,7 +243,7 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.
 
-⬆️ 103 • 💬 89 • 1h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+⬆️ 103 • 💬 89 • 2h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 
 ---
 
@@ -251,7 +251,7 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
 
-⬆️ 68 • 💬 69 • 17h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+⬆️ 68 • 💬 69 • 18h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
 
 ---
 
@@ -265,7 +265,7 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 **[Launch HN: Vela (YC W26) – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)**
 
-⬆️ 58 • 💬 44 • 2d ago
+⬆️ 58 • 💬 44 • 3d ago
 
 ---
 
@@ -319,7 +319,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 75K • 👍 3K • 💬 331 • ⏱️ 38:02 • 1d ago
+👁️ 75K • 👍 3K • 💬 331 • ⏱️ 38:02 • 2d ago
 
 ---
 
@@ -369,7 +369,7 @@ HUGE AI NEWS: Qwen 3.5, LTX 2.3, Kiwi Edit, HY WU, FireRed 1.1, CUDA agent & mor
 
 📺 AI Search
 
-👁️ 44K • 👍 2K • 💬 209 • ⏱️ 39:12 • 13h ago
+👁️ 44K • 👍 2K • 💬 209 • ⏱️ 39:12 • 14h ago
 
 ---
 
@@ -481,7 +481,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,078,821 • ❤️ 578 • 2d ago
+⬇️ 1,078,821 • ❤️ 578 • 3d ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.6k • 🔱 3.2k • 13h ago
+⭐ 24.6k • 🔱 3.2k • 14h ago
 
 ---
 
@@ -671,7 +671,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.2k • 🔱 532 • 56m ago
+⭐ 7.2k • 🔱 532 • 1h ago
 
 ---
 

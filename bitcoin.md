@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T17:24:42.691633+00:00'
+updated: '2026-03-08T17:48:32.648833+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 17:24 UTC  
+**Last Updated:** March 08, 2026 at 17:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -129,7 +129,7 @@ Everytime, yep. Everytime you don't buy, the price is just stuck, consolidating.
 
 I’m looking to invest in 1 bitcoin for about a year, but I heard some speculations that it’s going to keep falling, and even drop to zero. Just curious about when I should buy the bitcoin, or if I should keep waiting.
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ I’m looking to invest in 1 bitcoin for about a year, but I heard some speculat
 
 Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art Magazine, the world’s first publication dedicated entirely to the art and culture emerging around Bitcoin. Bitcoin Art Magazine is an independent publication documenting the artists, ideas, and visual language forming around Bitcoin as a new monetary system and cultural movement. Our goal is to preserve and elevate the work of artists engaging with Bitcoin not just as a subject, but as a philosophical and creative framework. The Genesis Edition features more than 150 pages of artwork and writing from Bitcoin artists around the world, including Fractal Encrypt, Madex, Mear One, Asanoha, and many others. The magazine focuses on traditional mediums such as painting, printmaking, and sculpture, with an emphasis on craftsmanship, material integrity, and visual storytelling. We believe the art being created today will shape how future generations understand this moment in history. Bitcoin Art Magazine exists to support and represent Bitcoin artists while giving collectors, readers, and listeners a deeper understanding of this cultural movement. Ultimately, we see Bitcoin art as part of a broader cultural renaissance still in its early stages — one that will continue to evolve as Bitcoin itself matures. Founded by Asanoha Block #912169 Genesis Edition cover art by FractalEncrypt
 
-16h ago
+17h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Motley Fool • 6h ago
 
 Value can stem from an asset's ability to change, or from its habit of staying the same.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -265,7 +265,7 @@ Complete operating system for Bitcoiners
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 1 • 💬 0 • 18m ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 1 • 💬 0 • 42m ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -323,7 +323,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 141 • ⏱️ 11:32 • 20h ago
+👁️ 37K • 👍 2K • 💬 141 • ⏱️ 11:32 • 21h ago
 
 ---
 
