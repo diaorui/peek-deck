@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T14:26:34.792062+00:00'
+updated: '2026-03-08T14:50:57.225014+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 14:26 UTC  
+**Last Updated:** March 08, 2026 at 14:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-15h ago
+16h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
 
 ---
 
@@ -122,7 +122,7 @@ Business Insider • 20h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 17h ago
+Futurism • 18h ago
 
 ---
 
@@ -136,7 +136,7 @@ Forbes • 18h ago
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Business Insider • 5h ago
+Business Insider • 6h ago
 
 ---
 
@@ -152,7 +152,7 @@ WJON • 2h ago
 
 Caitlin Kalinowski, OpenAI’s head of robotics, resigned over the company’s new Pentagon deal — saying decisions about surveillance of Americans and lethal autonomy “deserved more deliberation than they got.”
 
-The San Francisco Standard • 13h ago
+The San Francisco Standard • 14h ago
 
 ---
 
@@ -176,7 +176,7 @@ Fox Business • 2d ago
 
 On Saturday, Caitlin Kalinowski said she resigned from OpenAI, arguing that potential uses of AI for warrantless monitoring of Americans and weapon systems operating without a human decision demanded more careful debate than they received. Her exit lands as OpenAI expands into classified Pentagon projects under an arrangement that kept two stated limits in place: no domestic mass surveillance and a requirement for human control over any use of force. In a post on X, Kalinowski said she still bel
 
-AOL.com • 11m ago
+AOL.com • 35m ago
 
 ---
 
@@ -248,7 +248,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 13K • 👍 841 • 💬 73 • ⏱️ 10:52 • 22h ago
+👁️ 13K • 👍 841 • 💬 73 • ⏱️ 10:52 • 23h ago
 
 ---
 

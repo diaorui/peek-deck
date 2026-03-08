@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T14:26:34.782837+00:00'
+updated: '2026-03-08T14:50:57.215846+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 14:26 UTC  
+**Last Updated:** March 08, 2026 at 14:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -105,7 +105,7 @@ For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bit
 
 Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art Magazine, the world’s first publication dedicated entirely to the art and culture emerging around Bitcoin. Bitcoin Art Magazine is an independent publication documenting the artists, ideas, and visual language forming around Bitcoin as a new monetary system and cultural movement. Our goal is to preserve and elevate the work of artists engaging with Bitcoin not just as a subject, but as a philosophical and creative framework. The Genesis Edition features more than 150 pages of artwork and writing from Bitcoin artists around the world, including Fractal Encrypt, Madex, Mear One, Asanoha, and many others. The magazine focuses on traditional mediums such as painting, printmaking, and sculpture, with an emphasis on craftsmanship, material integrity, and visual storytelling. We believe the art being created today will shape how future generations understand this moment in history. Bitcoin Art Magazine exists to support and represent Bitcoin artists while giving collectors, readers, and listeners a deeper understanding of this cultural movement. Ultimately, we see Bitcoin art as part of a broader cultural renaissance still in its early stages — one that will continue to evolve as Bitcoin itself matures. Founded by Asanoha Block #912169 Genesis Edition cover art by FractalEncrypt
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art 
 
 I’m looking to invest in 1 bitcoin for about a year, but I heard some speculations that it’s going to keep falling, and even drop to zero. Just curious about when I should buy the bitcoin, or if I should keep waiting.
 
-11h ago
+12h ago
 
 ---
 
@@ -137,7 +137,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 This is why we Bitcoin $BTC. When your banks starts questioning you about your post tax money, you know it's BITCOIN time
 
-🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 19h ago
+🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 20h ago
 
 ---
 
@@ -145,7 +145,7 @@ This is why we Bitcoin $BTC. When your banks starts questioning you about your p
 
 31,900 BTC just left exchanges in one day. That big negative spike on the Exchange Netflow chart means coins are moving to cold storage or custody wallets. Why it matters: Less BTC on exchanges less immediate sell pressure. Large outflows often signal accumulation by bigger players. After volatility, this can look like dip buying If price holds key levels and inflows don’t return, reduced supply could support a move higher.
 
-16h ago
+17h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 1h ago
 
 Murban crude, a key benchmark for barrels that can bypass the Strait of Hormuz, now trades at $103 per barrel.
 
-CoinDesk • 43m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 23h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 3h ago
+Polymarket • 4h ago
 
 ---
 
@@ -257,7 +257,7 @@ The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are re
 
 Complete operating system for Bitcoiners
 
-⬆️ 2 • 💬 1 • 3d ago • [opacore.com](https://opacore.com)
+⬆️ 2 • 💬 1 • 4d ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -323,7 +323,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 142 • ⏱️ 11:32 • 17h ago
+👁️ 35K • 👍 2K • 💬 142 • ⏱️ 11:32 • 18h ago
 
 ---
 
@@ -401,7 +401,7 @@ Bitcoin's Liquidity Heist: $63K Flush → $74K Trap — Did You Panic Sell? Bitc
 
 📺 Mystery Market Vault
 
-👁️ 4K • 👍 142 • 💬 35 • ⏱️ 20:06 • 21h ago
+👁️ 4K • 👍 142 • 💬 35 • ⏱️ 20:06 • 22h ago
 
 ---
 
@@ -411,7 +411,7 @@ This luxury epoxy floor is made with a unique Bitcoin coin pattern, inspired by 
 
 📺 Skyline Rising
 
-👁️ 594 • 👍 4 • 💬 1 • ⏱️ 0:23 • 1h ago
+👁️ 594 • 👍 4 • 💬 1 • ⏱️ 0:23 • 2h ago
 
 ---
 

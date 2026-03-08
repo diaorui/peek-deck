@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T14:26:34.774374+00:00'
+updated: '2026-03-08T14:50:57.207404+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - news
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 14:26 UTC  
+**Last Updated:** March 08, 2026 at 14:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 16h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 17h ago
 
 ---
 
@@ -69,7 +69,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 Introducing Sentinel Gateway: a robust solution for AI Agent Authorization enforcement at the execution level. Sentinel safeguards against prompt injection, eliminating concerns about trojan horse files that may contain hidden instructions. You no longer need to worry about unauthorized requests to email confidential customer information, save malware, or delete your entire production database. Key features of Sentinel Gateway include: Agent Agnostic SDK: Set up in just 15 minutes with no impact on your existing agent stack. Once active, agents will only recognize prompts through Sentinel as valid instructions, treating everything else as mere data to process. Task-Based Flexible Scopes: Each user and prompt can be traced back to specific tasks. If a user is not permitted to delete a file, that action cannot occur. SOC2 Level Audit Log: Maintain compliance with a comprehensive log of all actions attempted by AI, whether successful or failed, along with associated usernames and prompts. We are currently offering a 30-day no-obligation free trial for enterprises. You can run Sentinel on your server without sending data to any third party. If you are a law firm, fintech, or insurance company utilizing AI agents, this solution is designed to ensure the safety of your operations and customer database. For more information or to request a free test, visit sentinel-gateway.com If you are a skeptical cybersecurity expert, we invite you to prove us wrong. Sign an NDA and gain free access to our software to test it against any attack vector you can imagine. AI #AIAgent #Agent #CyberSecurity #Prompt #Injection #InfoLeak #LegalAI #FintechAI #InsuranceAI
 
-14m ago
+39m ago
 
 ---
 
@@ -77,7 +77,7 @@ Introducing Sentinel Gateway: a robust solution for AI Agent Authorization enfor
 
 Interested in applying AI agents to trade markets (stocks, forex, crypto) fully autonomously — research, reasoning, execution. Less interested in theory, more in what people have actually built and where the real limitations are. Anyone working on this or seen solid builds in the wild?
 
-1h ago
+2h ago
 
 ---
 
@@ -85,7 +85,7 @@ Interested in applying AI agents to trade markets (stocks, forex, crypto) fully 
 
 The Anthropic/Pentagon situation in February prompted me to think about a governance problem I haven't seen framed quite this way: not whether AI companies should refuse certain uses, but what happens to AI models when human oversight of their outputs is low-quality or perfunctory — and that pattern makes it into training data. The argument in brief: if AI succeeds in contexts where humans aren't genuinely reviewing its outputs, and those successes are treated as positive training signals, we may be systematically training models to treat human disengagement as acceptable. The problem is distributional — any individual reviewer may be excellent, but at scale, the assumption of meaningful review degrades. A second dimension: output quality confidence. Training signal weight should scale with how verifiable the output is. Code that runs and produces correct results is high-confidence feedback. Advice that sounds good but can't be independently checked is low-confidence. The two dimensions function as compensating controls. I'm an FCAS (Fellow of the Casualty Actuarial Society) — I think about risk and probability for a living. I have a CS minor and have worked with statistical programming throughout my career, but I'm not an ML researcher. I wrote this with Claude's help, which I've disclosed in the paper itself. I'm particularly curious whether the training signal mechanism holds up technically — that's where my background has real limits and where I'd most value pushback. Full paper in comments.
 
-1h ago
+2h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Guardian • 2h ago
 
 The skilled trades are considered more insulated from AI-driven job cuts, experts say.
 
-CNBC • 56m ago
+CNBC • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ The New York Times • 2d ago
 
 **[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
 
-Axios • 16h ago
+Axios • 17h ago
 
 ---
 
@@ -249,7 +249,7 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
 
-⬆️ 68 • 💬 67 • 14h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+⬆️ 68 • 💬 67 • 15h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
 
 ---
 
@@ -277,7 +277,7 @@ OpenAI just released a system called Symphony that can send AI agents to complet
 
 📺 AI Revolution
 
-👁️ 27K • 👍 837 • 💬 65 • ⏱️ 14:19 • 15h ago
+👁️ 27K • 👍 837 • 💬 65 • ⏱️ 14:19 • 16h ago
 
 ---
 
@@ -287,7 +287,7 @@ Everyone keeps saying the same thing: AI is going to replace programmers. You've
 
 📺 devsplate
 
-👁️ 36K • 👍 1K • 💬 199 • ⏱️ 3:46 • 23h ago
+👁️ 36K • 👍 1K • 💬 199 • ⏱️ 3:46 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 175,440 • ❤️ 346 • 2d ago
+⬇️ 175,440 • ❤️ 346 • 3d ago
 
 ---
 
@@ -639,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.6k • 🔱 3.2k • 10h ago
+⭐ 24.6k • 🔱 3.2k • 11h ago
 
 ---
 
@@ -659,7 +659,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.6k • 🔱 1.1k • 10m ago
+⭐ 9.6k • 🔱 1.1k • 35m ago
 
 ---
 
@@ -669,7 +669,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.1k • 🔱 523 • 41s ago
+⭐ 7.1k • 🔱 523 • 25m ago
 
 ---
 

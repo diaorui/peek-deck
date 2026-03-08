@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T14:26:34.788845+00:00'
+updated: '2026-03-08T14:50:57.221807+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 14:26 UTC  
+**Last Updated:** March 08, 2026 at 14:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ For the past few months I've been building EthereumHistory.com, a project to doc
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
 
-2h ago
+3h ago
 
 ---
 
@@ -168,7 +168,7 @@ TradingView • 14h ago
 
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -190,7 +190,7 @@ markets.businessinsider.com • 1d ago
 
 **[What Will Bitcoin, ETH and XRP Be Worth in 2030? ChatGPT’s Price Predictions May Shock You](https://www.ccn.com/education/crypto/chatgpt-predicts-2030-crypto-prices-bitcoin-500k-eth-20k-xrp-20/)**
 
-CCN.com • 2d ago
+CCN.com • 3d ago
 
 ---
 
@@ -234,7 +234,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 142 • ⏱️ 11:32 • 17h ago
+👁️ 35K • 👍 2K • 💬 142 • ⏱️ 11:32 • 18h ago
 
 ---
 
@@ -264,7 +264,7 @@ In this clip from the most recent askSlim Live, Slim provides an analysis update
 
 📺 Steve Miller
 
-👁️ 2K • 👍 70 • 💬 4 • ⏱️ 8:11 • 18h ago
+👁️ 2K • 👍 70 • 💬 4 • ⏱️ 8:11 • 19h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 287 • 💬 62 • ⏱️ 17:36 • 15h ago
+👁️ 9K • 👍 287 • 💬 62 • ⏱️ 17:36 • 16h ago
 
 ---
 
@@ -314,7 +314,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 77 • 💬 6 • ⏱️ 19:52 • 2d ago
+👁️ 3K • 👍 77 • 💬 6 • ⏱️ 19:52 • 3d ago
 
 ---
 
