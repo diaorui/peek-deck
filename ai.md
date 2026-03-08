@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T14:50:57.207404+00:00'
+updated: '2026-03-08T15:25:26.514958+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 14:50 UTC  
+**Last Updated:** March 08, 2026 at 15:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 TLDR: Adult stars are quickly finding themselves out of work. Given the rise of AI generated porn within the last few years and how quickly it has improved in that time, adult entertainers like pornstars and Onlyfans creator will likely be completely replaced by Artificial intelligence within the decade. AI porn already is generating almost half of the adult star industries 140+ billion dollar a year revenues with an estimated $65.5 billion in 2024 and that number growing each year. AI already has replaced most of interactions within the adult chats and their videos can now be found on all the top porn site like pornhub. The days of stars getting rich from making content are quickly coming to an end, already are gone are the days where a woman could becoming a millionaire through a single years work in the porno industry. AI with it's ability to never have to sleep, to never be sick, be on it's period, pregnant, have an STI, look horrible from partying the night before, or simply not feel like working, it only makes since that the top earners in adult industry the producers not the actual creators are investing more an more into AI generated porn. While some pornstars have notoriously been difficult to work with in the past having uncontrollable emotional out brakes for no reason or be too addicted to various drugs to even perform AI has none of these problems. So, while the stars may have once earned them the most money they often were also their highest risk and with an ROI of 99 to1 who could afford not to become fully AI created content. Do you agree that AI will completely replace adult stars or do you think there will still be little niches of real life performers creating content, & how long to think it will take to get there? Do you think this is a good thing or a bad thing? What do you think all those women who made their livings off creating adult content will move on to do? Will it lead to greater female empowerment or a greater reduction in their share of the market?
 
-11h ago
+12h ago
 
 ---
 
@@ -49,7 +49,7 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use cases. Second brain, morning briefs, content factories, the usual. His take: , They all fall apart under basic scrutiny. I agree. The pattern is always the same. Impressive two-minute demo. Zero discussion of what it actually takes to make it work daily. Zero mention of cost. OpenClaw runs continuous sessions, so every task drags your entire context history with it. Your token bill adds up fast. The irony is the most technical people, the ones who could actually make it work, are the ones who immediately see simpler ways to do the same things. The audience getting hyped up is the least technical group. And they're the ones who'll hit a wall. Credit to Peter for building something clever. It's a tinkerer's sandbox and it's great at that. It was never supposed to be a finished product. The problem isn't him. It's influencers taking a sandbox and selling it as a finished solution to people who just want stuff to work. Three questions I ask before spending time on any AI tool: Is this the best tool for the job or just the shiniest? What does it actually cost to run? Would I still use this after the novelty wears off? Focused tools that do one thing well beat fancy agent frameworks. Every time.
 
-15h ago
+16h ago
 
 ---
 
@@ -61,7 +61,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 **[Anthropic'c Claude found 22 vulnerabilities in Firefox in just two weeks](https://www.reddit.com/r/artificial/comments/1ro1ybn/anthropicc_claude_found_22_vulnerabilities_in/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -69,7 +69,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 Introducing Sentinel Gateway: a robust solution for AI Agent Authorization enforcement at the execution level. Sentinel safeguards against prompt injection, eliminating concerns about trojan horse files that may contain hidden instructions. You no longer need to worry about unauthorized requests to email confidential customer information, save malware, or delete your entire production database. Key features of Sentinel Gateway include: Agent Agnostic SDK: Set up in just 15 minutes with no impact on your existing agent stack. Once active, agents will only recognize prompts through Sentinel as valid instructions, treating everything else as mere data to process. Task-Based Flexible Scopes: Each user and prompt can be traced back to specific tasks. If a user is not permitted to delete a file, that action cannot occur. SOC2 Level Audit Log: Maintain compliance with a comprehensive log of all actions attempted by AI, whether successful or failed, along with associated usernames and prompts. We are currently offering a 30-day no-obligation free trial for enterprises. You can run Sentinel on your server without sending data to any third party. If you are a law firm, fintech, or insurance company utilizing AI agents, this solution is designed to ensure the safety of your operations and customer database. For more information or to request a free test, visit sentinel-gateway.com If you are a skeptical cybersecurity expert, we invite you to prove us wrong. Sign an NDA and gain free access to our software to test it against any attack vector you can imagine. AI #AIAgent #Agent #CyberSecurity #Prompt #Injection #InfoLeak #LegalAI #FintechAI #InsuranceAI
 
-39m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-19h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ CodeGraphContext- the go to solution for graphical code indexing for Github Copi
 
 A particularly terrible example of this misuse of an LLM: “The plaintiffs’ lawyers also noted that Mr. Fox’s original ChatGPT search flagged a number of projects relating to the Holocaust, including the documentary about Jewish women who were slave laborers. Asked if he agreed with ChatGPT, Mr. Fox said: “It’s a Jewish — specifically focused on Jewish culture and amplifying the marginalized voices of the females in that culture. It’s inherently related to D.E.I. for that reason.””
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 17h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 18h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 1d ago
 
 **[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqf7UKls-KQkrCqYafQ-rjt-n6XAx7IVJghQkSzumbRTNhNYwWbthJVB&gaa_ts=69ad8a86&gaa_sig=yv6JqpFd9m4DHbdP5WHuUegqyT8_FiHUzeKBvU_dqr4ReyTmyGvfEWdOgqTw7H7SEkKZSFV3ZC9dM1BQslu5Jw%3D%3D)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
@@ -149,7 +149,7 @@ Fortune • 1d ago
 
 The CEO said he cut the company’s workforce by 4,000 people – almost in half – because of gains in AI productivity
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 1h ago
 
 Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the best stocks with huge upside potential to buy according to Reddit. Advanced Micro Devices, Inc. (NASDAQ:AMD) announced on March 2 the expansion of the Ryzen™ AI portfolio with the launch of the AMD Ryzen™ AI 400 Series and Ryzen™ AI PRO 400 Series desktop processors. Management […]
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -225,7 +225,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 154 • 💬 171 • 19h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 154 • 💬 171 • 20h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -241,7 +241,7 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 I’ve forgotten how to write code, or at least I think I have. Hard to be sure, I haven’t done it for a while. But then, I start to muse…
 
-⬆️ 103 • 💬 91 • 21h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+⬆️ 103 • 💬 91 • 22h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 
 ---
 
@@ -347,7 +347,7 @@ Access top AI models and creators like Anthropic's Claude, OpenAI's GPT, Meta's 
 
 📺 WorldofAI
 
-👁️ 6K • 👍 178 • 💬 19 • ⏱️ 8:43 • 6h ago
+👁️ 6K • 👍 178 • 💬 19 • ⏱️ 8:43 • 7h ago
 
 ---
 
@@ -455,7 +455,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 9,209 • ❤️ 226 • 15h ago
+⬇️ 9,209 • ❤️ 226 • 16h ago
 
 ---
 
@@ -659,7 +659,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.6k • 🔱 1.1k • 35m ago
+⭐ 9.6k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.1k • 🔱 523 • 25m ago
+⭐ 7.1k • 🔱 523 • 59m ago
 
 ---
 
@@ -699,7 +699,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 5.7k • 🔱 724 • 16h ago
+⭐ 5.7k • 🔱 724 • 17h ago
 
 ---
 
@@ -709,7 +709,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 5.4k • 🔱 450 • 2d ago
+⭐ 5.4k • 🔱 450 • 3d ago
 
 ---
 
@@ -719,7 +719,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 391 • 1h ago
+⭐ 3.6k • 🔱 391 • 2h ago
 
 ---
 
@@ -729,7 +729,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.5k • 🔱 250 • 4h ago
+⭐ 3.5k • 🔱 250 • 5h ago
 
 ---
 

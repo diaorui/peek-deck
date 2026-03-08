@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T14:50:57.225014+00:00'
+updated: '2026-03-08T15:25:26.532823+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 14:50 UTC  
+**Last Updated:** March 08, 2026 at 15:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-10h ago
+11h ago
 
 ---
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -64,13 +64,13 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 **[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-15h ago
+16h ago
 
 ---
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 16h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 17h ago
 
 ---
 
@@ -78,7 +78,7 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 Did anyone actually end up buying this robot: https://www.1x.tech/? I remember hearing that it would release worldwide in 2026 in the news around October to November, and everyone got really upset about it.
 
-14h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ Did anyone actually end up buying this robot: https://www.1x.tech/? I remember h
 
 Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
 
-19h ago
+20h ago
 
 ---
 
@@ -128,7 +128,7 @@ Futurism • 18h ago
 
 **[OpenAI Robotics Chief Quits After Firm's Controversial Pentagon Agreement](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
@@ -144,7 +144,7 @@ Business Insider • 6h ago
 
 Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
 
-WJON • 2h ago
+WJON • 3h ago
 
 ---
 
@@ -160,7 +160,7 @@ The San Francisco Standard • 14h ago
 
 The Philadelphia Robotics Coalition gathered students for a special day of innovation.
 
-6abc Philadelphia • 15h ago
+6abc Philadelphia • 16h ago
 
 ---
 
@@ -176,7 +176,7 @@ Fox Business • 2d ago
 
 On Saturday, Caitlin Kalinowski said she resigned from OpenAI, arguing that potential uses of AI for warrantless monitoring of Americans and weapon systems operating without a human decision demanded more careful debate than they received. Her exit lands as OpenAI expands into classified Pentagon projects under an arrangement that kept two stated limits in place: no domestic mass surveillance and a requirement for human control over any use of force. In a post on X, Kalinowski said she still bel
 
-AOL.com • 35m ago
+AOL.com • 1h ago
 
 ---
 
@@ -184,7 +184,7 @@ AOL.com • 35m ago
 
 Hyundai has donated four super-tough unmanned robotic vehicles to firefighters in Korea for use in high-risk situations. The autonomous vehicles will deal with the initial stages of a fire to provide more information and safety to firefighters.
 
-New Atlas • 4h ago
+New Atlas • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 35K • 👍 307 • 💬 7 • ⏱️ 3:35:12 • 14h ago
+👁️ 35K • 👍 307 • 💬 7 • ⏱️ 3:35:12 • 15h ago
 
 ---
 
