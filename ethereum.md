@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T09:31:06.100350+00:00'
+updated: '2026-03-08T10:27:23.370715+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 09:31 UTC  
+**Last Updated:** March 08, 2026 at 10:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -3.7%  
-**30d:** -6.9%  
-**90d:** -41.2%  
-**1y:** -3.2%  
+**24h:** -0.6%  
+**7d:** -2.4%  
+**30d:** -5.6%  
+**90d:** -40.4%  
+**1y:** -1.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Yesterday I posted about verifying Vitalik's first token contract and got a great response. A few people asked how to follow along as more proofs are published, so I set up two places to track them: GitHub: awesome-ethereum-proofs - each proof has its own repo with a reproducible verification script Web: ethereumhistory.com/proofs - browse all verified contracts with deployment dates, compiler versions, and methodology Most contracts deployed in August 2015 have no verified source on Etherscan. The compilers are too old for automated tools, source code was hosted on Pastebin links that expired years ago, and some contracts used languages Etherscan doesn't even support (Serpent, LLL). So I've been doing it manually - testing every early compiler version against on-chain bytecode until I get a byte-for-byte match. Since the Vitalik post, here are 4 new proofs: "Test" - First Executable Contract (Aug 7, 2015, block 48,643) The earliest contract with executable code on Ethereum mainnet. Compiled with soljson v0.1.1, the first publicly available Solidity compiler release. Just 8 days after mainnet launch. Hello World Greeter (Aug 7, 2015, block 48,681) Ethereum's "Hello World" moment. Deployed 38 blocks after the first executable contract, same day, same compiler. Based on the greeter tutorial that shipped with the early Ethereum documentation. EarlyChainLetter10ETH (Aug 8, 2015, block 49,931) A chain letter pyramid contract from day 2 of smart contract deployment. One of the first attempts at a financial game on Ethereum. Participants sent 10 ETH to join, and the contract would pay out earlier participants as new ones joined. FunDistributor (Aug 10, 2015, block 62,632) A "king of the hill" behavioral economics experiment. Send more than 1% of the contract's balance to become the receiver. If nobody touches the contract for 200+ blocks (~45 min), the current receiver gets paid out. The original source was on Pastebin (link expired) - had to reconstruct it entirely from bytecode. Interesting discrepancy: the Reddit announcement said the payout was 25% of the balance, but the verified code shows this.balance / 3 (33.3%). Some things I've learned doing this: Operand order matters in solc 0.1.1. msg.value * 100 and 100 * msg.value produce different bytecode because the compiler evaluates right-to-left. The private keyword existed in solc 0.1.1 but was almost never used. FunDistributor is one of the earliest known uses. Solidity function declaration order affects optimizer output. Changing the order of functions in the source can completely change the compiled bytecode. There are 11 proofs so far covering contracts from Aug 2015 through Apr 2016, including Serpent, Solidity, and contracts by Vitalik and Gavin Wood. More coming as I work through the earliest blocks. If you know of any early contracts with lost source code, I'd love to hear about them.
 
-19h ago
+20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Yesterday I posted about verifying Vitalik's first token contract and got a grea
 
 I propose to wrap USDT, since currently it is a highly outdated coin, and its transfer function has issues, and doesn't have new features, and only has 6 decimals. While these issues may not be large now and can be easily fixed or do not lose too much functionality, as DeFi expands new standards, etc may add more features, then USDT can be put into a standardized wrapper to handle it.
 
-18h ago
+19h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
-Binance • 14h ago
+Binance • 15h ago
 
 ---
 
@@ -160,19 +160,19 @@ Binance • 14h ago
 
 Ethereum is showing early signs of a rising wedge formation, a pattern often associated with potential reversals. With key support under pressure, a breakdown from this structure could push the price lower, putting the $1,500 level firmly in focus as the next major target.A Rejection At Key High-Ti…
 
-TradingView • 17h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqcLL-d6dsF9YM9FOBXUs2fivLCz62QB4oi_-U_EFRB8XFglgWRPifS2&gaa_ts=69ad37c4&gaa_sig=0l3bjFcctWIor1BIJGpUBhXn-pSaRYRHtLBsfbit0crmLH_FZr--LHyWKSMgcwBu7n8mOUVqRA1uz3MRhkmYbg%3D%3D)**
-
-Barron's • 2d ago
+TradingView • 18h ago
 
 ---
 
 **[What Will Bitcoin, ETH and XRP Be Worth in 2030? ChatGPT’s Price Predictions May Shock You](https://www.ccn.com/education/crypto/chatgpt-predicts-2030-crypto-prices-bitcoin-500k-eth-20k-xrp-20/)**
 
 CCN.com • 2d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqfFlqxPkGFu4vRwN2kNCWJHe8Y2M681NGZ5fxNeP9c9JbawJUbHQ_sa&gaa_ts=69ad527b&gaa_sig=2WvyESw1KBIR5Nr4thrUPDO2vQqVDkc4Ujr0X5fEmCamwb9saHE5Ch_DlWxYACVKI2Jvv7QJlOv0DAp7UoCcpQ%3D%3D)**
+
+Barron's • 3d ago
 
 ---
 
@@ -184,41 +184,41 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum – BlackRock drops ETH ETF staking fee as firm issues ‘warning’](https://ambcrypto.com/ethereum-blackrock-drops-eth-etf-staking-fee-after-firm-issues-warning/)**
+**[Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck](https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck)**
 
-Culper Research has shorted ETH citing underlying Ethereum staking and validator crisis.
+Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
 
-AMBCrypto • 13h ago
-
----
-
-**[Vitalik Buterin calls for bolder experimentation in Ethereum's app layer while preserving core principles](https://www.theblock.co/post/392621/vitalik-buterin-calls-for-bolder-experimentation-in-ethereums-app-layer-while-preserving-core-principles)**
-
-Vitalik Buterin has urged Ethereum developers to experiment more boldly at the app layer while preserving the network’s core principles.
-
-The Block • 1d ago
+Decrypt • 2d ago
 
 ---
 
-**[Ethereum Based Crypto Pepeto Announces Former Binance Expert on Advisory Board - Dogecoin and Elon Musk Shape Crypto](https://markets.businessinsider.com/news/stocks/ethereum-based-crypto-pepeto-announces-former-binance-expert-on-advisory-board---dogecoin-and-elon-musk-shape-crypto-1035907239)**
+**[Why Are Bitcoin, Ethereum, and XRP Prices Crashing Today? US‑Iran War Fears Drive Sell‑Off](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-us-iran-war-fears-drive-sell-off/)**
 
-Dubai, UAE, March  06, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced that a former Binance executive has joined the strategic advisory board of ...
+The crypto market turned red again after Bitcoin's price failed to hold above $74,000. The drop came as tensions grew in the ongoing U.S.–Israel and Iran
 
-markets.businessinsider.com • 1d ago
-
----
-
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
-
-Bit Digital • 2d ago
+Coinpedia • 22h ago
 
 ---
 
-**[Bullish sees Bitcoin, Ethereum volatility almost double in February (BLSH:NYSE)](https://seekingalpha.com/news/4561826-bullish-sees-bitcoin-ethereum-volatility-almost-double-in-february)**
+**[While Bitcoin and Ethereum Consolidate, This Altcoin Is Quietly Preparing for a Major Rally](https://www.tradingview.com/news/coinpedia:2a6c70131094b:0-while-bitcoin-and-ethereum-consolidate-this-altcoin-is-quietly-preparing-for-a-major-rally/)**
 
-Seeking Alpha • 1d ago
+While Bitcoin and Ethereum continue to move sideways, one major altcoin appears to be quietly building momentum beneath the surface. Growing institutional interest and a tightening technical structure suggest that Solana’s price could be positioning itself for a significant move in the coming weeks…
+
+TradingView • 1d ago
+
+---
+
+**[Ethereum Price Corrects Gains, Drifts Toward Key Support Zone](https://www.tradingview.com/news/newsbtc:9632ed3a6094b:0-ethereum-price-corrects-gains-drifts-toward-key-support-zone/)**
+
+Ethereum price started a fresh increase and tested $2,200. ETH is now correcting gains and might decline further if it trades below $2,030.Ethereum Price Starts Downside CorrectionEthereum price started a fresh increase above the $2,065 resistance, like Bitcoin. ETH price rallied above the $2,120 a…
+
+TradingView • 2d ago
+
+---
+
+**[Key facts: Clarity Act to Boost Ethereum Investment; Buterin Advocates for Privacy](https://www.tradingview.com/news/tradingview:dbeedf0571fc3:0-key-facts-clarity-act-to-boost-ethereum-investment-buterin-advocates-for-privacy/)**
+
+TradingView • 10h ago
 
 ---
 
@@ -232,7 +232,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 131 • ⏱️ 11:32 • 13h ago
+👁️ 30K • 👍 2K • 💬 131 • ⏱️ 11:32 • 14h ago
 
 ---
 
@@ -242,7 +242,7 @@ Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. 
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 99 • 💬 9 • ⏱️ 7:38 • 17h ago
+👁️ 2K • 👍 99 • 💬 9 • ⏱️ 7:38 • 18h ago
 
 ---
 
@@ -272,7 +272,7 @@ In this clip from the most recent askSlim Live, Slim provides an analysis update
 
 📺 Steve Miller
 
-👁️ 1K • 👍 62 • 💬 4 • ⏱️ 8:11 • 13h ago
+👁️ 1K • 👍 62 • 💬 4 • ⏱️ 8:11 • 14h ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 7K • 👍 261 • 💬 58 • ⏱️ 17:36 • 10h ago
+👁️ 7K • 👍 261 • 💬 58 • ⏱️ 17:36 • 11h ago
 
 ---
 
@@ -292,7 +292,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 61 • 💬 29 • ⏱️ 15:06 • 4h ago
+👁️ 1K • 👍 61 • 💬 29 • ⏱️ 15:06 • 5h ago
 
 ---
 

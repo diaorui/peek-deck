@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T09:31:06.094364+00:00'
+updated: '2026-03-08T10:27:23.364616+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 09:31 UTC  
+**Last Updated:** March 08, 2026 at 10:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -2.2%  
-**30d:** -2.9%  
-**90d:** -27.6%  
-**1y:** -16.6%  
+**24h:** +0.2%  
+**7d:** -0.9%  
+**30d:** -1.7%  
+**90d:** -26.7%  
+**1y:** -15.5%  
 
 ---
 
@@ -81,7 +81,23 @@ Rank #1
 
 I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the world this week, war with Iran, oil prices climbing, 92,000 jobs lost in a single month, robotic arms replacing workers and thought: the cost of living is never going back down. So I did something terrifying, beyond any fathers' comfort zone. I accumulated and manage to finally buy 2 Bitcoins. One for each of my son. Every cent of it was earned. Not inherited. Not gifted. Earned, through long days, late nights, and the quiet sacrifices that nobody sees but you make anyway because you have two little faces at home counting on you. I don't know if Bitcoin will be worth a million dollars one day. I don't know if it drops to zero. Nobody does, and anyone who tells you otherwise is lying. What I do know is this: the system we were born into the one that promised that if you worked hard and saved diligently, you'd be okay is getting harder to trust every single year. Rent goes up. Groceries go up. The gap between those who have generational wealth and those who are starting from nothing keeps widening. I grew up with nothing. I refuse to let my kids start from nothing too. So this is my letter to them, posted here because maybe some of you are in the same position — ordinary people, not wealthy, just trying: *To my children, M.T & O.T * By the time you read this, Bitcoin will either have changed your life or humbled us both. Either way, I need you to know that I tried. I sat with the uncertainty. I felt the fear. And I bought anyway not out of greed, but out of love. I wanted to give you something that no government could inflate away, no bank could freeze, and no economic crisis could take from you the way it has taken from so many. I HODL'd it for you. Every dip. Every crash. Every headline that said it was over. I held, because I believed in your future more than I feared the risk. And if this works if this single decision somehow lifts you above the poverty line I was born into, I hope you pay it forward. Because that's the real dream behind Bitcoin for me. Not lambos. Not getting rich. A world where more people have a fighting chance. Hold the line, fellow HODLers. We're not just investing in an asset. Some of us are investing in our children's futures. 🧡 Dad of two. Holder of 2 BTC. Scared and hopeful in equal measure. *Not financial advice. Just a father trying his best for M.T & O.T * Update Thank you for the supports and encouragement. I just hope my children will be able to read this Reddit post one day and know that I sincerely did my best. To my sons If I am no longer in this world and you are reading this, please know that not a single day passed where you were not in my thoughts. Forgive me if I troubled you two a lot and thank you for putting up with me if you ever did. I love you, sons. More than any words I could ever leave behind. Your Dad, W 🧡
 
-9h ago
+10h ago
+
+---
+
+**[Senator Lummis pushes $300 de minimis crypto tax exemption to make Bitcoin a spending currency](https://www.reddit.com/r/Bitcoin/comments/1rnzegj/senator_lummis_pushes_300_de_minimis_crypto_tax/)**
+
+Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption — capped at $5,000 annually — to let Americans use Bitcoin and other digital assets for everyday purchases without triggering capital gains taxes.
+
+🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 2h ago
+
+---
+
+**[Buying shitcoins to accumulate more bitcoin, usually ends up like this](https://www.reddit.com/r/Bitcoin/comments/1rnz946/buying_shitcoins_to_accumulate_more_bitcoin/)**
+
+For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bitcoin on r/thelightningnetwork. No, that's a dying fork of Bitcoin... No, it's called a temporary privacy. All the transactions are still kept on the blockchain, waiting for quantum computers to read all your "private" shitcoin transactions. Using P2P exchanges and lightning is more future proof because there's no blockchain, to keep all txs for QC to read in the future. No, even that's a premined and centralized shitcoin too. It doesn't matter it's sitting right under Bitcoin. It doesn't make it a less of shitcoin at all.
+
+2h ago
 
 ---
 
@@ -89,7 +105,7 @@ I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the
 
 Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art Magazine, the world’s first publication dedicated entirely to the art and culture emerging around Bitcoin. Bitcoin Art Magazine is an independent publication documenting the artists, ideas, and visual language forming around Bitcoin as a new monetary system and cultural movement. Our goal is to preserve and elevate the work of artists engaging with Bitcoin not just as a subject, but as a philosophical and creative framework. The Genesis Edition features more than 150 pages of artwork and writing from Bitcoin artists around the world, including Fractal Encrypt, Madex, Mear One, Asanoha, and many others. The magazine focuses on traditional mediums such as painting, printmaking, and sculpture, with an emphasis on craftsmanship, material integrity, and visual storytelling. We believe the art being created today will shape how future generations understand this moment in history. Bitcoin Art Magazine exists to support and represent Bitcoin artists while giving collectors, readers, and listeners a deeper understanding of this cultural movement. Ultimately, we see Bitcoin art as part of a broader cultural renaissance still in its early stages — one that will continue to evolve as Bitcoin itself matures. Founded by Asanoha Block #912169 Genesis Edition cover art by FractalEncrypt
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +113,7 @@ Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art 
 
 I’m looking to invest in 1 bitcoin for about a year, but I heard some speculations that it’s going to keep falling, and even drop to zero. Just curious about when I should buy the bitcoin, or if I should keep waiting.
 
-6h ago
+7h ago
 
 ---
 
@@ -113,15 +129,7 @@ This is why we Bitcoin $BTC. When your banks starts questioning you about your p
 
 Markets are getting hammered right now and people are freaking out, but this is exactly what we've been waiting for. Sure, things look rough and it might get worse before it gets better, but that's just how these cycles work. This is your chance to dollar cost average into these dips. I've been setting aside extra cash specifically for moments like this - every time we hit a new support level that breaks, I'm grabbing more. Could we go lower? Maybe. But I'd rather buy on the way down than watch it rocket past my target price again. Been through enough of these corrections to know that the people buying during the fear are usually the ones celebrating later. Stay disciplined with your strategy and keep building your position while it's on sale.
 
-9h ago
-
----
-
-**[Buying shitcoins to accumulate more bitcoin, usually ends up like this](https://www.reddit.com/r/Bitcoin/comments/1rnz946/buying_shitcoins_to_accumulate_more_bitcoin/)**
-
-For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bitcoin on r/thelightningnetwork. No, that's a dying fork of Bitcoin... No, it's called a temporary privacy. All the transactions are still kept on the blockchain, waiting for quantum computers to read all your "private" shitcoin transactions. Using P2P exchanges and lightning is more future proof because there's no blockchain, to keep all txs for QC to read in the future. No, even that's a premined and centralized shitcoin too. It doesn't matter it's sitting right under Bitcoin. It doesn't make it a less of shitcoin at all.
-
-1h ago
+10h ago
 
 ---
 
@@ -129,15 +137,7 @@ For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bit
 
 31,900 BTC just left exchanges in one day. That big negative spike on the Exchange Netflow chart means coins are moving to cold storage or custody wallets. Why it matters: Less BTC on exchanges less immediate sell pressure. Large outflows often signal accumulation by bigger players. After volatility, this can look like dip buying If price holds key levels and inflows don’t return, reduced supply could support a move higher.
 
-11h ago
-
----
-
-**[20 millionth Bitcoin soon to be mined!](https://www.reddit.com/r/Bitcoin/comments/1rnigzr/20_millionth_bitcoin_soon_to_be_mined/)**
-
-Race for the last million Bitcoin begins...
-
-14h ago
+12h ago
 
 ---
 
@@ -145,15 +145,15 @@ Race for the last million Bitcoin begins...
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
-**[Running my own Bitcoin node in Brazil](https://www.reddit.com/r/Bitcoin/comments/1rnjq3k/running_my_own_bitcoin_node_in_brazil/)**
+**[20 millionth Bitcoin soon to be mined!](https://www.reddit.com/r/Bitcoin/comments/1rnigzr/20_millionth_bitcoin_soon_to_be_mined/)**
 
-I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitcoin node along with Lightning to help the Bitcoin community.
+Race for the last million Bitcoin begins...
 
-13h ago
+15h ago
 
 ---
 
@@ -165,13 +165,29 @@ I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitc
 
 The divergence between large and small holders has historically preceded further downside, with the Crypto Fear and Greed Index dropping to 12
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
 **[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
+
+---
+
+**[Bitcoin ‘bull trap’ forming as bear market enters middle phase: Willy Woo](https://www.tradingview.com/news/cointelegraph:d81ab138e094b:0-bitcoin-bull-trap-forming-as-bear-market-enters-middle-phase-willy-woo/)**
+
+Bitcoin could experience a short-term rally that catches investors off guard before the broader downtrend resumes, according to on-chain analyst Willy Woo. “Bull trap forming,” Woo said in an X post on Saturday, referring to a fake breakout suggesting that the market is entering a sustained uptrend…
+
+TradingView • 5h ago
+
+---
+
+**[Is Bitcoin Going to $0?](https://www.fool.com/investing/2026/03/08/is-bitcoin-going-to-0/)**
+
+Is the market-leading cryptocurrency in danger of being disrupted?
+
+The Motley Fool • 17m ago
 
 ---
 
@@ -179,7 +195,7 @@ Forbes • 20h ago
 
 Key PointsInvesting and betting are different, but prediction markets are hot.
 
-Nasdaq • 6h ago
+Nasdaq • 7h ago
 
 ---
 
@@ -187,11 +203,11 @@ Nasdaq • 6h ago
 
 Bitcoin nearly touched $74,000 this week. But it’s now trading below $70,000. Volatility has returned to crypto markets following the US-Israel attack on Iran.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772955900)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772961900)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -201,7 +217,7 @@ Polymarket • 1d ago
 
 **[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -210,22 +226,6 @@ Bloomberg • 1d ago
 New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
 
 Fortune • 3d ago
-
----
-
-**[This is what the man who told everyone to buy $1 of Bitcoin 12 years ago is doing today](https://supercarblondie.com/tech/man-told-people-to-buy-bitcoin-12-years-ago/)**
-
-Remember the guy who urged us all to invest in Bitcoin back in 2013 and was largely ignored? Well, this is what he’s up to now after taking his own advice
-
-supercarblondie.com • 13h ago
-
----
-
-**[Forget Gold at $5,000 an Ounce. Here's Why a Simple Crypto Portfolio Might Be the Smarter "Hard Asset" Bet.](https://www.fool.com/investing/2026/03/06/forget-gold-at-5000-an-ounce-heres-why-a-simple-cr/)**
-
-With "safe" asset prices so high, cheaper and riskier assets look better than before.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -325,7 +325,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 131 • ⏱️ 11:32 • 13h ago
+👁️ 30K • 👍 2K • 💬 131 • ⏱️ 11:32 • 14h ago
 
 ---
 
@@ -335,7 +335,7 @@ Global tensions, oil politics, and the petrodollar system may be colliding in re
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 154 • ⏱️ 15:47 • 15h ago
+👁️ 21K • 👍 2K • 💬 154 • ⏱️ 15:47 • 16h ago
 
 ---
 
@@ -355,7 +355,7 @@ A historic shift is happening in the global economy. As geopolitical tensions ri
 
 📺 Financial Funda
 
-👁️ 4K • 👍 154 • 💬 24 • ⏱️ 2:51 • 16h ago
+👁️ 4K • 👍 154 • 💬 24 • ⏱️ 2:51 • 17h ago
 
 ---
 
@@ -365,7 +365,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 2K • 💬 13 • ⏱️ 59:14 • 19h ago
+👁️ 34K • 👍 2K • 💬 13 • ⏱️ 59:14 • 20h ago
 
 ---
 
@@ -403,7 +403,7 @@ BlackRock's WILD CRYPTO PLAN FINALLY REVEALED! Best crypto trader to follow? Sub
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 177 • 💬 16 • ⏱️ 0:43 • 15h ago
+👁️ 9K • 👍 177 • 💬 16 • ⏱️ 0:43 • 16h ago
 
 ---
 
@@ -413,7 +413,7 @@ Become a Client: ...
 
 📺 The Bitcoin Way
 
-👁️ 1K • 👍 144 • 💬 26 • ⏱️ 35:23 • 16h ago
+👁️ 1K • 👍 144 • 💬 26 • ⏱️ 35:23 • 17h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T09:31:06.103566+00:00'
+updated: '2026-03-08T10:27:23.373962+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 09:31 UTC  
+**Last Updated:** March 08, 2026 at 10:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-5h ago
+6h ago
 
 ---
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -50,13 +50,13 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-10h ago
+11h ago
 
 ---
 
 **[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -64,13 +64,13 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 Did anyone actually end up buying this robot: https://www.1x.tech/? I remember hearing that it would release worldwide in 2026 in the news around October to November, and everyone got really upset about it.
 
-9h ago
+10h ago
 
 ---
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 11h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 12h ago
 
 ---
 
@@ -78,7 +78,7 @@ Did anyone actually end up buying this robot: https://www.1x.tech/? I remember h
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-23h ago
+1d ago
 
 ---
 
@@ -86,7 +86,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
 
-14h ago
+15h ago
 
 ---
 
@@ -108,66 +108,11 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 ## Google News: "robotics"
 
-**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
-
-Reuters • 12h ago
-
----
-
 **[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
 
 A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
 
-Fortune • 16h ago
-
----
-
-**[OpenAI’s Head of Robotics Resigns Over Company’s Pentagon Deal](https://www.bloomberg.com/news/articles/2026-03-07/openai-s-head-of-robotics-resigns-over-company-s-pentagon-deal)**
-
-The head of OpenAI’s robotics team resigned Saturday, citing the company’s deal to deploy its artificial intelligence models within the Pentagon’s classified network as the cause.
-
-Bloomberg • 11h ago
-
----
-
-**[OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal](https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/)**
-
-Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.
-
-TechCrunch • 12h ago
-
----
-
-**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3)**
-
-Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
-
-Business Insider • 15h ago
-
----
-
-**[OpenAI's head of robotics resigns following deal with the Department of Defense](https://www.engadget.com/ai/openais-head-of-robotics-resigns-following-deal-with-the-department-of-defense-195918777.html)**
-
-Caitlin Kalinowski explained on X that certain guardrails "deserved more deliberation than they got" when announcing her departure.
-
-Engadget • 13h ago
-
----
-
-**[OpenAI’s head of robotics quit over the company’s Pentagon deal.](https://www.theverge.com/ai-artificial-intelligence/891108/openai-robotics-head-caitlin-kalinowski-quit-pentagon)**
-
-Caitlin Kalinowski posted on X that she resigned from OpenAI, saying the company’s contract didn’t do enough to protect Americans from warrantless surveillance and that granting AI “lethal autonomy without human authorization” was a line that “deserved more deliberation.”
-[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-07-at-3.54.17%E2%80%AFPM.png?quality=90&strip=all]
-
-The Verge • 12h ago
-
----
-
-**[OpenAI’s robotics chief quits over the Pentagon deal](https://thenextweb.com/news/openais-robotics-chief-quits-over-the-pentagon-deal)**
-
-Caitlin Kalinowski, OpenAI's head of robotics, resigned over the Pentagon AI deal, saying it lacked guardrails on surveillance and autonomous weapons.
-
-TNW | The heart of tech • 11h ago
+Fortune • 17h ago
 
 ---
 
@@ -175,13 +120,67 @@ TNW | The heart of tech • 11h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 12h ago
+Futurism • 13h ago
 
 ---
 
-**[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
+**[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
 
-Tech Xplore • 2d ago
+Forbes • 14h ago
+
+---
+
+**[OpenAI robotics head quits over military deal concerns](https://sfstandard.com/2026/03/07/openai-robotics-head-quits-military-deal-concerns/)**
+
+Caitlin Kalinowski, OpenAI’s head of robotics, resigned over the company’s new Pentagon deal — saying decisions about surveillance of Americans and lethal autonomy “deserved more deliberation than they got.”
+
+The San Francisco Standard • 9h ago
+
+---
+
+**[Philadelphia Robotics Coalition helps build communication skills for local students](https://6abc.com/post/philadelphia-robotics-coalition-helps-build-communication-skills-local-students/18690241/)**
+
+The Philadelphia Robotics Coalition gathered students for a special day of innovation.
+
+6abc Philadelphia • 11h ago
+
+---
+
+**[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
+
+Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
+
+Fox Business • 2d ago
+
+---
+
+**[UMF welcomes Blue Crew High School Robotics Team to campus for the 2026 season](https://www.bangordailynews.com/2026/03/07/bdn-maine/umf-welcomes-blue-crew-high-school-robotics-team-to-campus-for-the-2026-season/)**
+
+Bangor Daily News • 16h ago
+
+---
+
+**[Qualcomm Weighs AI Export Rules While Expanding Into Robotics Chips](https://finance.yahoo.com/news/qualcomm-weighs-ai-export-rules-150751298.html)**
+
+U.S. officials have released draft rules that would introduce tiered export controls on AI chips, aiming to tighten oversight of advanced processors shipped to certain markets. Qualcomm (NasdaqGS:QCOM) has joined other chipmakers in pushing back on the proposals, arguing the measures could affect access to key international customers and slow AI adoption. At the same time, Qualcomm is promoting its new Dragonwing processor for robotics, highlighting plans to grow beyond smartphones into AI...
+
+Yahoo Finance • 19h ago
+
+---
+
+**[OpenAI robotics head quits over Pentagon AI deal](https://madhyamamonline.com/world/openai-robotics-head-quits-over-pentagon-ai-deal-1501120)**
+
+OpenAI's robotics team leader Caitlin Kalinowski has resigned, protesting the company's decision to deploy AI models in the Pentagon's classified network
+
+madhyamamonline.com • 4h ago
+
+---
+
+**[Robotics teams make impressive showing at state](https://www.nwestiowa.com/nwest_iowa_review/robotics-teams-make-impressive-showing-at-state/article_90bfcbb7-658b-42c6-8036-353417f5ffea.html)**
+
+CORALVILLE—Seventy-two robotics teams went head-to-head at the Iowa FIRST Tech Challenge Championship last weekend, and three N’West Iowa teams placed among the top 15 teams.
+
+The N'West Iowa REVIEW • 15h ago
 
 ---
 
@@ -215,7 +214,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME will b
 
 📺 NHRL
 
-👁️ 11K • 👍 294 • 💬 5 • ⏱️ 3:35:12 • 9h ago
+👁️ 11K • 👍 294 • 💬 5 • ⏱️ 3:35:12 • 10h ago
 
 ---
 
@@ -255,7 +254,7 @@ At the world's largest mobile show, companies from around the globe take their b
 
 📺 CNET
 
-👁️ 12K • 👍 429 • 💬 16 • ⏱️ 4:13 • 20h ago
+👁️ 12K • 👍 429 • 💬 16 • ⏱️ 4:13 • 21h ago
 
 ---
 
@@ -275,7 +274,7 @@ The maker of China's Terminator is sending a fleet of the robots into the world 
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 62 • 💬 11 • ⏱️ 1:09 • 12h ago
+👁️ 1K • 👍 62 • 💬 11 • ⏱️ 1:09 • 13h ago
 
 ---
 

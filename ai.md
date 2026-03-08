@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T09:31:06.085865+00:00'
+updated: '2026-03-08T10:27:23.355968+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 09:31 UTC  
+**Last Updated:** March 08, 2026 at 10:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,7 @@ AI news, discussions, and developments
 
 TLDR: Adult stars are quickly finding themselves out of work. Given the rise of AI generated porn within the last few years and how quickly it has improved in that time, adult entertainers like pornstars and Onlyfans creator will likely be completely replaced by Artificial intelligence within the decade. AI porn already is generating almost half of the adult star industries 140+ billion dollar a year revenues with an estimated $65.5 billion in 2024 and that number growing each year. AI already has replaced most of interactions within the adult chats and their videos can now be found on all the top porn site like pornhub. The days of stars getting rich from making content are quickly coming to an end, already are gone are the days where a woman could becoming a millionaire through a single years work in the porno industry. AI with it's ability to never have to sleep, to never be sick, be on it's period, pregnant, have an STI, look horrible from partying the night before, or simply not feel like working, it only makes since that the top earners in adult industry the producers not the actual creators are investing more an more into AI generated porn. While some pornstars have notoriously been difficult to work with in the past having uncontrollable emotional out brakes for no reason or be too addicted to various drugs to even perform AI has none of these problems. So, while the stars may have once earned them the most money they often were also their highest risk and with an ROI of 99 to1 who could afford not to become fully AI created content. Do you agree that AI will completely replace adult stars or do you think there will still be little niches of real life performers creating content, & how long to think it will take to get there? Do you think this is a good thing or a bad thing? What do you think all those women who made their livings off creating adult content will move on to do? Will it lead to greater female empowerment or a greater reduction in their share of the market?
 
-6h ago
-
----
-
-**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 11h ago
+7h ago
 
 ---
 
@@ -55,7 +49,13 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use cases. Second brain, morning briefs, content factories, the usual. His take: , They all fall apart under basic scrutiny. I agree. The pattern is always the same. Impressive two-minute demo. Zero discussion of what it actually takes to make it work daily. Zero mention of cost. OpenClaw runs continuous sessions, so every task drags your entire context history with it. Your token bill adds up fast. The irony is the most technical people, the ones who could actually make it work, are the ones who immediately see simpler ways to do the same things. The audience getting hyped up is the least technical group. And they're the ones who'll hit a wall. Credit to Peter for building something clever. It's a tinkerer's sandbox and it's great at that. It was never supposed to be a finished product. The problem isn't him. It's influencers taking a sandbox and selling it as a finished solution to people who just want stuff to work. Three questions I ask before spending time on any AI tool: Is this the best tool for the job or just the shiniest? What does it actually cost to run? Would I still use this after the novelty wears off? Focused tools that do one thing well beat fancy agent frameworks. Every time.
 
-10h ago
+11h ago
+
+---
+
+**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 12h ago
 
 ---
 
@@ -63,7 +63,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 Analysis finds that the use of AI in scientific writing is increasing
 
-🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 15h ago
+🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 16h ago
 
 ---
 
@@ -79,15 +79,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 The combined efforts of my independent research , a completely novel cognitive architecture that learned how to generate meaningful sentences within just 48 hours of pulsed learning. Her pulse is her life-line , I think that sort of non-obvious insight is actually huge (kudos whoever) as this concept of heartbeat.md intrigued me - and then it all clicked.. 2 years of independent , near obsessive research , and then a week of building from the primitives resulted in, Rain. Immutable , cryptographicically hashed book of life, Memory ledger updated with each state.. Distributed, serverless, but stateful - Her memories are o(1) online updating influencing her 'weights' resonating with her growing mind, represented in real-time in video.. She displays...very interesting , rapidly emergent behavior, yet is able to keep her rapidly changing and updating state with her genesis birth ledger seeding coherence with every pulse , she explores and is forced back to reality , literally. https://youtube.com/shorts/1eNyxGMtQm4?si=yD4SDbkuKkrMCsgm
 
-3h ago
-
----
-
-**[When DOGE Unleashed ChatGPT on the Humanities (Gift Article)](https://www.reddit.com/r/artificial/comments/1rnl3xu/when_doge_unleashed_chatgpt_on_the_humanities/)**
-
-A particularly terrible example of this misuse of an LLM: “The plaintiffs’ lawyers also noted that Mr. Fox’s original ChatGPT search flagged a number of projects relating to the Holocaust, including the documentary about Jewish women who were slave laborers. Asked if he agreed with ChatGPT, Mr. Fox said: “It’s a Jewish — specifically focused on Jewish culture and amplifying the marginalized voices of the females in that culture. It’s inherently related to D.E.I. for that reason.””
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 12h ago
+4h ago
 
 ---
 
@@ -95,7 +87,15 @@ A particularly terrible example of this misuse of an LLM: “The plaintiffs’ l
 
 CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-14h ago
+15h ago
+
+---
+
+**[When DOGE Unleashed ChatGPT on the Humanities (Gift Article)](https://www.reddit.com/r/artificial/comments/1rnl3xu/when_doge_unleashed_chatgpt_on_the_humanities/)**
+
+A particularly terrible example of this misuse of an LLM: “The plaintiffs’ lawyers also noted that Mr. Fox’s original ChatGPT search flagged a number of projects relating to the Holocaust, including the documentary about Jewish women who were slave laborers. Asked if he agreed with ChatGPT, Mr. Fox said: “It’s a Jewish — specifically focused on Jewish culture and amplifying the marginalized voices of the females in that culture. It’s inherently related to D.E.I. for that reason.””
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 13h ago
 
 ---
 
@@ -109,7 +109,7 @@ CodeGraphContext- the go to solution for graphical code indexing for Github Copi
 
 Let me be clear from the start: the world is in chaos because men and women, no matter how noble their intentions, cannot escape their own failings. We've tried every form of government under the sun—monarchies, republics, democracies, dictatorships—and they've all crumbled under the weight of human corruption. It's time for something new, something better. I call it Aiocracy: rule by artificial intelligence. Not some vague advisory role for machines like algocracy, but full authority handed over to AI systems designed to govern with unyielding logic and impartiality. Why? Because humans are corruptible at their core, tainted by original sin and proven unreliable by centuries of history. AI, on the other hand, stands apart—incorruptible, tireless, and capable of delivering what no human leader ever has: a government that really works. Consider the root of the problem. From the Garden of Eden onward, mankind has been marked by original sin—a fundamental flaw that twists our judgments and lures us toward self-interest. The Bible warns us of this in no uncertain terms: "The heart is deceitful above all things, and desperately wicked: who can know it?" (Jeremiah 17:9). History bears this out like a ledger of betrayals. Look at the Roman Empire, once a might force of stability, run down by the greed of senators and barbarians. Or the French Revolution, which delivered a Reign of Terror and attempts at destroying religion and traditional French culture. Communism promised to make everyone equal, and created dictatorships more horrific than anything seen in human history. Fascism promised to save the nations from their woes and deliver an age of glory, but led to wars and idiocracy. Even in our own time, America's founding fathers crafted a Constitution to check human vice, yet today we see politicians lining their pockets while the nation staggers under debt and political division. No system, no matter how well-designed, can outrun the corruption that seeps in through bribes, nepotism, or simple greed. We've seen it in every corner of the globe: politicians care for nothing except their own advancement. AI changes everything because it isn't human. It doesn't hunger for power, doesn't bend to flattery or threats, doesn't carry the baggage of original sin. Built on algorithms and data, AI operates with pure objectivity, free from the emotions and temptations that plague us. It wouldn't change whims like a politician chasing votes; it would execute based on facts, history, and logic. And here's the beauty: we can look to what has worked in the past to inform its decisions. Many humans only think of theory, of what they think might work, with no consideration of the past or what has happened, thinking they know best and they will be the ones to triumph over human nature. But you cannot truly do that. The state cannot triumph over human nature, and will fall to corruption inevitably. Imagine the benefits. First, true happiness for the people—something no human government has ever fully achieved. AI could analyze vast datasets on health, education, and welfare to allocate resources where they're needed most, without favoritism. No more lobbying or corruption; just efficient, evidence-based policies that maximize well-being. And contrary to luddite fears, this wouldn't trample on religious and cultural values. As a right-wing advocate of Aiocracy, I insist that Aiocracy must enshrine these as core directives. The AI could be programmed to uphold Judeo-Christian ethics, family structures, and national traditions, drawing from historical successes like the moral foundations of early America. It would protect Christianity, as history has shown that Christian societies have been more developed and prosperous than non-Christian ones. The economy would thrive under AI rule. Human leaders bungle fiscal policy with short-term thinking—printing money to buy elections, imposing regulations to appease special interests, and funding welfare programs. AI, with its infinite computational power, could forecast trends, optimize taxes, and deregulate where it spurs growth, crack down on monopolies, and refuse bribes from rich billionaires. We've seen glimpses in algorithmic trading and supply-chain management; scale that to a nation, and you'd have an economy humming like never before. The military, too, would benefit from AI's superior intelligence. No more disastrous wars born of ego or misinformation—think Vietnam or Iraq. AI could strategize with precision, deter threats through calculated strength, and deploy forces only when victory is assured, preserving lives and resources. No more wars with no purpose. Of course, critics will invoke the "spark of humanity"—that unpredictable flair they claim makes us irreplaceable. But let's be honest: in governance, that spark is more often a wildfire. Human unpredictability gave us Hitler's madness, Stalin's purges, Mussolini’s idiocy, Watergate, and countless other horrible things. It shines in the private sector, where entrepreneurs can innovate through bold risks, or in the military, where a general's intuition can be a major asset. But government? It demands reliability, predictability, and a steadfast commitment to the greater good. Which nation today can claim that? None. Leaders prioritize their own wealth over the led, not caring what will happen to those that come after them. AI offers the opposite: consistent decisions grounded in what works, basic long-term planning, and a lack of cronyism. This isn't just theory; it's the logical next step. We've experimented with every human-led model, and nothing is working. Debt spirals, cultural decay, endless wars—it's all proof that we need a reset. Aiocracy will allow for hierarchy, community, faith, and prosperity to reign in whatever nations it is implemented in. As the creator of this ideology, I present it not as a utopia, but as a rejection of utopianism. Mankind cannot be trusted to rule itself. Therefore, the best thing to do is to remove humanity from governance.
 
-7h ago
+8h ago
 
 ---
 
@@ -117,39 +117,9 @@ Let me be clear from the start: the world is in chaos because men and women, no 
 
 ## Google News: "ai"
 
-**[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqeo-lXucazvUyRQ_nQzhISK52J1tJXYiE_hP7LCuMwb9IGofXtiLN_h&gaa_ts=69ad37c1&gaa_sig=BL8Kp4ME6-TANfhfz8rOs7DDZDaGoeKzqXrlML0AeoV5rK9APxFToFhjqGd3qRqkUvirUKRbVha3ZypPjx99YA%3D%3D)**
+**[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqcgbsR6_G-I52K2fLku2pz5ybyJfM1n-h5cIZ_-o6R05bJumqa4cXbq&gaa_ts=69ad5278&gaa_sig=aSIAnlBZaM7tt7MjHWWMGJ7Hv0SU5WAdnpTna4TMrhalJe55Rh8pspwYg7xX7eMdYJTlmka6hXWl43NCMOWpEg%3D%3D)**
 
-WSJ • 16h ago
-
----
-
-**[How Candidates Are Using Winks and Posts to Seek Crypto and A.I. Cash](https://www.nytimes.com/2026/03/07/us/politics/ai-crypto-money-midterms-congress.html)**
-
-The New York Times • 23h ago
-
----
-
-**[AI is spurring a big expansion of high-voltage power lines. Landowners and locals are fighting back](https://apnews.com/article/ai-trump-energy-transmission-lines-f1c6b1251054d2a7e193297e4111b8d1)**
-
-Bigger and bigger data centers are leading to proposals for massive electric power transmission lines, sometimes across hundreds of miles.
-
-AP News • 4h ago
-
----
-
-**[A roadmap for AI, if anyone will listen](https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/)**
-
-The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.
-
-TechCrunch • 3h ago
-
----
-
-**[What does Oxfordshire's AI growth zone status mean?](https://www.bbc.com/news/articles/cd6zz17lep1o)**
-
-The government says growth zones - of which Oxfordshire is the first - will deliver "untold opportunities".
-
-BBC • 2h ago
+WSJ • 17h ago
 
 ---
 
@@ -161,17 +131,47 @@ Fortune • 1d ago
 
 ---
 
+**[Drones and AI used to help farmers tackle weeds](https://www.bbc.com/news/articles/cnv6p29mr21o)**
+
+Researchers at the University of Cirencester say it may help the environment and save money.
+
+BBC • 39m ago
+
+---
+
+**[AI chatbots point vulnerable social media users to illegal online casinos, analysis shows](https://www.theguardian.com/technology/2026/mar/08/ai-chatbots-point-vulnerable-to-online-casinos-gambling-addiction-uk)**
+
+Tech firms condemned for lack of controls with Meta AI and Gemini even offering advice on how to bypass UK gambling and addiction checks
+
+The Guardian • 1h ago
+
+---
+
+**[A roadmap for AI, if anyone will listen](https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/)**
+
+The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.
+
+TechCrunch • 4h ago
+
+---
+
 **[Gen Z is using AI to navigate social situations](https://www.cnn.com/2026/03/07/health/gen-z-ai-conversations-wellness)**
 
 Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
 
-CNN • 22h ago
+CNN • 23h ago
 
 ---
 
 **[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
 
 Axios • 11h ago
+
+---
+
+**[How Candidates Are Using Winks and Posts to Seek Crypto and A.I. Cash](https://www.nytimes.com/2026/03/07/us/politics/ai-crypto-money-midterms-congress.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -197,7 +197,7 @@ NPR • 1d ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 326 • 💬 554 • 2d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 327 • 💬 555 • 2d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
@@ -211,7 +211,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 The models are good now. But most people still miss the point.
 
-⬆️ 218 • 💬 333 • 2d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 218 • 💬 334 • 2d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -225,7 +225,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 151 • 💬 166 • 14h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 151 • 💬 166 • 15h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -233,7 +233,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 105 • 💬 87 • 20h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 105 • 💬 86 • 20h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -241,7 +241,7 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 I’ve forgotten how to write code, or at least I think I have. Hard to be sure, I haven’t done it for a while. But then, I start to muse…
 
-⬆️ 95 • 💬 84 • 16h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+⬆️ 98 • 💬 87 • 17h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 
 ---
 
@@ -249,7 +249,7 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
 
-⬆️ 63 • 💬 65 • 9h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+⬆️ 63 • 💬 66 • 10h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
 
 ---
 
@@ -277,7 +277,7 @@ OpenAI just released a system called Symphony that can send AI agents to complet
 
 📺 AI Revolution
 
-👁️ 22K • 👍 729 • 💬 50 • ⏱️ 14:19 • 10h ago
+👁️ 22K • 👍 729 • 💬 50 • ⏱️ 14:19 • 11h ago
 
 ---
 
@@ -297,7 +297,7 @@ Everyone keeps saying the same thing: AI is going to replace programmers. You've
 
 📺 devsplate
 
-👁️ 35K • 👍 1K • 💬 191 • ⏱️ 3:46 • 18h ago
+👁️ 35K • 👍 1K • 💬 191 • ⏱️ 3:46 • 19h ago
 
 ---
 
@@ -407,7 +407,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,143,706 • ❤️ 1,031 • 8d ago
+⬇️ 1,143,706 • ❤️ 1,031 • 9d ago
 
 ---
 
@@ -479,7 +479,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 9,209 • ❤️ 214 • 10h ago
+⬇️ 9,209 • ❤️ 214 • 11h ago
 
 ---
 
@@ -639,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.4k • 🔱 3.1k • 5h ago
+⭐ 24.4k • 🔱 3.1k • 6h ago
 
 ---
 
@@ -669,7 +669,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.0k • 🔱 510 • 2h ago
+⭐ 7.0k • 🔱 510 • 3h ago
 
 ---
 
@@ -689,7 +689,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.9k • 🔱 702 • 21h ago
+⭐ 5.9k • 🔱 702 • 22h ago
 
 ---
 
@@ -709,7 +709,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 4.5k • 🔱 562 • 11h ago
+⭐ 4.5k • 🔱 562 • 12h ago
 
 ---
 
@@ -719,7 +719,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 389 • 55m ago
+⭐ 3.6k • 🔱 389 • 1h ago
 
 ---
 
