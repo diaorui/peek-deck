@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T07:07:14.272042+00:00'
+updated: '2026-03-08T07:50:46.031694+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 07:07 UTC  
+**Last Updated:** March 08, 2026 at 07:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-2h ago
+3h ago
 
 ---
 
@@ -50,13 +50,13 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-8h ago
+9h ago
 
 ---
 
 **[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -64,7 +64,7 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-20h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Did anyone actually end up buying this robot: https://www.1x.tech/? I remember h
 
 Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
 
-11h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter an
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/E_m9AS7-pw0?feature=share) • 4m ago
+🔗 [youtube.com](https://youtube.com/shorts/E_m9AS7-pw0?feature=share) • 48m ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -120,7 +120,7 @@ Reuters • 10h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 10h ago
+Futurism • 11h ago
 
 ---
 
@@ -134,7 +134,7 @@ Tech Xplore • 2d ago
 
 Caitlin Kalinowski, OpenAI’s head of robotics, resigned over the company’s new Pentagon deal — saying decisions about surveillance of Americans and lethal autonomy “deserved more deliberation than they got.”
 
-The San Francisco Standard • 6h ago
+The San Francisco Standard • 7h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Philadelphia Robotics Coalition gathered students for a special day of innov
 
 **[UMF welcomes Blue Crew High School Robotics Team to campus for the 2026 season](https://www.bangordailynews.com/2026/03/07/bdn-maine/umf-welcomes-blue-crew-high-school-robotics-team-to-campus-for-the-2026-season/)**
 
-Bangor Daily News • 12h ago
+Bangor Daily News • 13h ago
 
 ---
 
@@ -170,7 +170,7 @@ GeekWire • 3d ago
 
 U.S. officials have released draft rules that would introduce tiered export controls on AI chips, aiming to tighten oversight of advanced processors shipped to certain markets. Qualcomm (NasdaqGS:QCOM) has joined other chipmakers in pushing back on the proposals, arguing the measures could affect access to key international customers and slow AI adoption. At the same time, Qualcomm is promoting its new Dragonwing processor for robotics, highlighting plans to grow beyond smartphones into AI...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -212,7 +212,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME will b
 
 📺 NHRL
 
-👁️ 10K • 👍 285 • 💬 4 • ⏱️ 3:35:12 • 6h ago
+👁️ 10K • 👍 285 • 💬 4 • ⏱️ 3:35:12 • 7h ago
 
 ---
 
