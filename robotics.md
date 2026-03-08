@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T11:44:44.076026+00:00'
+updated: '2026-03-08T12:52:00.855183+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 11:44 UTC  
+**Last Updated:** March 08, 2026 at 12:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-7h ago
+8h ago
 
 ---
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -50,35 +50,7 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-13h ago
-
----
-
-**[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
-
-12h ago
-
----
-
-**[The First Humanoid Robot Arrested by Police?](https://www.reddit.com/r/robotics/comments/1ro2grg/the_first_humanoid_robot_arrested_by_police/)**
-
-From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2030290624084332944 The First Humanoid Robot Arrested by Police One night in Macau, a citizen was taking a walk with his humanoid robot (Unitree G1). A passing woman yelled at him (perhaps frightening her), essentially saying, "Why bother with this when there are so many other things to do? Are you crazy?" and then,The police subsequently took the humanoid robot away.
-
-21m ago
-
----
-
-**[Did anyone end up buying the NEO Robot](https://www.reddit.com/r/robotics/comments/1rnpi09/did_anyone_end_up_buying_the_neo_robot/)**
-
-Did anyone actually end up buying this robot: https://www.1x.tech/? I remember hearing that it would release worldwide in 2026 in the news around October to November, and everyone got really upset about it.
-
-11h ago
-
----
-
-**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 13h ago
+14h ago
 
 ---
 
@@ -86,7 +58,27 @@ Did anyone actually end up buying this robot: https://www.1x.tech/? I remember h
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
 
-59m ago
+2h ago
+
+---
+
+**[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
+
+13h ago
+
+---
+
+**[Did anyone end up buying the NEO Robot](https://www.reddit.com/r/robotics/comments/1rnpi09/did_anyone_end_up_buying_the_neo_robot/)**
+
+Did anyone actually end up buying this robot: https://www.1x.tech/? I remember hearing that it would release worldwide in 2026 in the news around October to November, and everyone got really upset about it.
+
+12h ago
+
+---
+
+**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 14h ago
 
 ---
 
@@ -102,7 +94,15 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
 
-16h ago
+17h ago
+
+---
+
+**[Spent a year building a transforming drone, now I'm open sourcing it](https://www.reddit.com/r/robotics/comments/1rmpfcv/spent_a_year_building_a_transforming_drone_now_im/)**
+
+Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
+
+1d ago
 
 ---
 
@@ -114,7 +114,7 @@ Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter an
 
 A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -122,7 +122,13 @@ Fortune • 18h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 14h ago
+Futurism • 16h ago
+
+---
+
+**[OpenAI Robotics Chief Quits After Firm's Controversial Pentagon Agreement](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
+
+Forbes • 16h ago
 
 ---
 
@@ -130,13 +136,15 @@ Futurism • 14h ago
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
-**[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
+**[Over 200 Teams Compete At Minnesota State VEX Robotics Championship In St. Cloud](https://wjon.com/vex-robotics-championship-mn/)**
 
-Forbes • 15h ago
+Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
+
+WJON • 37m ago
 
 ---
 
@@ -144,7 +152,7 @@ Forbes • 15h ago
 
 Caitlin Kalinowski, OpenAI’s head of robotics, resigned over the company’s new Pentagon deal — saying decisions about surveillance of Americans and lethal autonomy “deserved more deliberation than they got.”
 
-The San Francisco Standard • 11h ago
+The San Francisco Standard • 12h ago
 
 ---
 
@@ -152,7 +160,7 @@ The San Francisco Standard • 11h ago
 
 The Philadelphia Robotics Coalition gathered students for a special day of innovation.
 
-6abc Philadelphia • 12h ago
+6abc Philadelphia • 13h ago
 
 ---
 
@@ -166,23 +174,15 @@ Fox Business • 2d ago
 
 **[UMF welcomes Blue Crew High School Robotics Team to campus for the 2026 season](https://www.bangordailynews.com/2026/03/07/bdn-maine/umf-welcomes-blue-crew-high-school-robotics-team-to-campus-for-the-2026-season/)**
 
-Bangor Daily News • 17h ago
+Bangor Daily News • 18h ago
 
 ---
 
-**[Qualcomm Weighs AI Export Rules While Expanding Into Robotics Chips](https://finance.yahoo.com/news/qualcomm-weighs-ai-export-rules-150751298.html)**
+**[Featured video: Coding for underwater robotics](https://news.mit.edu/2026/featured-video-coding-underwater-robotics-0227)**
 
-U.S. officials have released draft rules that would introduce tiered export controls on AI chips, aiming to tighten oversight of advanced processors shipped to certain markets. Qualcomm (NasdaqGS:QCOM) has joined other chipmakers in pushing back on the proposals, arguing the measures could affect access to key international customers and slow AI adoption. At the same time, Qualcomm is promoting its new Dragonwing processor for robotics, highlighting plans to grow beyond smartphones into AI...
+Drawn by the chance to tackle new problems and cutting-edge algorithm development, Ivy Mahncke undertook an internship with MIT Lincoln Laboratory, developing an algorithm that would help a human diver and robotic vehicle navigate underwater.
 
-Yahoo Finance • 20h ago
-
----
-
-**[OpenAI robotics head quits over Pentagon AI deal](https://madhyamamonline.com/world/openai-robotics-head-quits-over-pentagon-ai-deal-1501120)**
-
-OpenAI's robotics team leader Caitlin Kalinowski has resigned, protesting the company's decision to deploy AI models in the Pentagon's classified network
-
-madhyamamonline.com • 5h ago
+MIT News • 9d ago
 
 ---
 
@@ -226,7 +226,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 34K • 👍 301 • 💬 5 • ⏱️ 3:35:12 • 11h ago
+👁️ 34K • 👍 301 • 💬 5 • ⏱️ 3:35:12 • 12h ago
 
 ---
 
@@ -256,7 +256,7 @@ At the world's largest mobile show, companies from around the globe take their b
 
 📺 CNET
 
-👁️ 12K • 👍 447 • 💬 17 • ⏱️ 4:13 • 22h ago
+👁️ 12K • 👍 447 • 💬 17 • ⏱️ 4:13 • 23h ago
 
 ---
 
