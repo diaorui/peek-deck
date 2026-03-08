@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T05:29:26.501706+00:00'
+updated: '2026-03-08T06:05:07.530839+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 05:29 UTC  
+**Last Updated:** March 08, 2026 at 06:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -50,7 +50,7 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-6h ago
+7h ago
 
 ---
 
@@ -78,7 +78,7 @@ Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter an
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 7h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 8h ago
 
 ---
 
@@ -86,7 +86,7 @@ Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter an
 
 Did anyone actually end up buying this robot: https://www.1x.tech/? I remember hearing that it would release worldwide in 2026 in the news around October to November, and everyone got really upset about it.
 
-5h ago
+6h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -118,13 +118,13 @@ Reuters • 8h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 8h ago
+Futurism • 9h ago
 
 ---
 
 **[Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury](https://techxplore.com/news/2026-03-robots-ai-evolves-legged-metamachines.html)**
 
-Tech Xplore • 16h ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -132,7 +132,7 @@ Tech Xplore • 16h ago
 
 Boeing builds expensive airplanes -- but very affordable drone ships for the military.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -140,13 +140,13 @@ The Motley Fool • 19h ago
 
 Caitlin Kalinowski, OpenAI’s head of robotics, resigned over the company’s new Pentagon deal — saying decisions about surveillance of Americans and lethal autonomy “deserved more deliberation than they got.”
 
-The San Francisco Standard • 4h ago
+The San Francisco Standard • 5h ago
 
 ---
 
 **[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -154,7 +154,7 @@ Forbes • 9h ago
 
 Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
@@ -162,7 +162,7 @@ Business Insider • 11h ago
 
 The Philadelphia Robotics Coalition gathered students for a special day of innovation.
 
-6abc Philadelphia • 6h ago
+6abc Philadelphia • 7h ago
 
 ---
 
@@ -178,7 +178,7 @@ Bloomberg.com • 7h ago
 
 A top robotics executive at OpenAI said Saturday she had resigned over the company’s deal with the US Department of Defense to allow its artificial intelligence to be used for war and potential domestic…
 
-France 24 • 2m ago
+France 24 • 38m ago
 
 ---
 
@@ -202,7 +202,7 @@ At the world's largest mobile show, companies from around the globe take their b
 
 📺 CNET
 
-👁️ 10K • 👍 396 • 💬 15 • ⏱️ 4:13 • 16h ago
+👁️ 10K • 👍 396 • 💬 15 • ⏱️ 4:13 • 17h ago
 
 ---
 
@@ -262,7 +262,7 @@ The maker of China's Terminator is sending a fleet of the robots into the world 
 
 📺 Kalil 4.0
 
-👁️ 933 • 👍 47 • 💬 10 • ⏱️ 1:09 • 8h ago
+👁️ 933 • 👍 47 • 💬 10 • ⏱️ 1:09 • 9h ago
 
 ---
 
@@ -282,7 +282,7 @@ War Robots Gameplay: NEW Sniper Titan WAYMAKER is coming to WR. Here's my new Yo
 
 📺 Manni-Gaming
 
-👁️ 17K • 👍 826 • 💬 191 • ⏱️ 15:49 • 18h ago
+👁️ 17K • 👍 826 • 💬 191 • ⏱️ 15:49 • 19h ago
 
 ---
 

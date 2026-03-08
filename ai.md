@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T05:29:26.483647+00:00'
+updated: '2026-03-08T06:05:07.513149+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 05:29 UTC  
+**Last Updated:** March 08, 2026 at 06:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 7h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 8h ago
 
 ---
 
@@ -63,7 +63,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 Analysis finds that the use of AI in scientific writing is increasing
 
-🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 11h ago
+🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 12h ago
 
 ---
 
@@ -71,7 +71,7 @@ Analysis finds that the use of AI in scientific writing is increasing
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 17h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 18h ago
 
 ---
 
@@ -79,7 +79,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 A particularly terrible example of this misuse of an LLM: “The plaintiffs’ lawyers also noted that Mr. Fox’s original ChatGPT search flagged a number of projects relating to the Holocaust, including the documentary about Jewish women who were slave laborers. Asked if he agreed with ChatGPT, Mr. Fox said: “It’s a Jewish — specifically focused on Jewish culture and amplifying the marginalized voices of the females in that culture. It’s inherently related to D.E.I. for that reason.””
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 8h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 9h ago
 
 ---
 
@@ -87,7 +87,7 @@ A particularly terrible example of this misuse of an LLM: “The plaintiffs’ l
 
 CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Fram
 
 **[Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know](https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -127,19 +127,19 @@ The New York Times • 9h ago
 
 Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
 **[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqe7Kz5qye98qdya0xtfNaTNWoYYMskB59jBqsAZv8z_TioavEozalAX&gaa_ts=69ad0ca2&gaa_sig=xkJFteswhcbV6mfw-bGkncq0q-Wz2KD8r1SZUpqKkRwVgqiL9dqXisBvziKyAI-DlkuL3cIO3q7erFWkJ8HvpA%3D%3D)**
 
-WSJ • 12h ago
+WSJ • 13h ago
 
 ---
 
 **[How Candidates Are Using Winks and Posts to Seek Crypto and A.I. Cash](https://www.nytimes.com/2026/03/07/us/politics/ai-crypto-money-midterms-congress.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -155,7 +155,7 @@ NDTV • 1h ago
 
 Korean giant’s device chief says its future Galaxy devices will host multiple models as users mix and match AI tools
 
-Financial Times • 29m ago
+Financial Times • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Financial Times • 29m ago
 
 Insiders close to the Wall Street giant say the real culprit can be summed up in two letters: “A” and “I.”
 
-New York Post • 1h ago
+New York Post • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fortune • 1d ago
 
 Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
@@ -227,7 +227,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 148 • 💬 163 • 10h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 148 • 💬 163 • 11h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -251,7 +251,7 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
 
-⬆️ 62 • 💬 63 • 5h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+⬆️ 62 • 💬 63 • 6h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
 
 ---
 
@@ -259,7 +259,7 @@ Studies find AI helps developers release more software—while logging longer ho
 
 Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
 
-⬆️ 61 • 💬 31 • 23h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
+⬆️ 61 • 💬 31 • 1d ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
 
 ---
 
@@ -339,7 +339,7 @@ SUPPORT THE SHOW BUY CAST BREW COFFEE NOW - https://castbrew.com/ Join - / @timc
 
 📺 Timcast IRL
 
-👁️ 91K • 👍 4K • 💬 1K • ⏱️ 22:43 • 13h ago
+👁️ 91K • 👍 4K • 💬 1K • ⏱️ 22:43 • 14h ago
 
 ---
 
@@ -481,7 +481,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 4,212 • ❤️ 201 • 6h ago
+⬇️ 4,212 • ❤️ 201 • 7h ago
 
 ---
 
@@ -638,7 +638,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.3k • 🔱 3.1k • 1h ago
+⭐ 24.3k • 🔱 3.1k • 2h ago
 
 ---
 

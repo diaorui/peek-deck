@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T05:29:26.492305+00:00'
+updated: '2026-03-08T06:05:07.521721+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 05:29 UTC  
+**Last Updated:** March 08, 2026 at 06:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the
 
 Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art Magazine, the world’s first publication dedicated entirely to the art and culture emerging around Bitcoin. Bitcoin Art Magazine is an independent publication documenting the artists, ideas, and visual language forming around Bitcoin as a new monetary system and cultural movement. Our goal is to preserve and elevate the work of artists engaging with Bitcoin not just as a subject, but as a philosophical and creative framework. The Genesis Edition features more than 150 pages of artwork and writing from Bitcoin artists around the world, including Fractal Encrypt, Madex, Mear One, Asanoha, and many others. The magazine focuses on traditional mediums such as painting, printmaking, and sculpture, with an emphasis on craftsmanship, material integrity, and visual storytelling. We believe the art being created today will shape how future generations understand this moment in history. Bitcoin Art Magazine exists to support and represent Bitcoin artists while giving collectors, readers, and listeners a deeper understanding of this cultural movement. Ultimately, we see Bitcoin art as part of a broader cultural renaissance still in its early stages — one that will continue to evolve as Bitcoin itself matures. Founded by Asanoha Block #912169 Genesis Edition cover art by FractalEncrypt
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ This is why we Bitcoin $BTC. When your banks starts questioning you about your p
 
 Markets are getting hammered right now and people are freaking out, but this is exactly what we've been waiting for. Sure, things look rough and it might get worse before it gets better, but that's just how these cycles work. This is your chance to dollar cost average into these dips. I've been setting aside extra cash specifically for moments like this - every time we hit a new support level that breaks, I'm grabbing more. Could we go lower? Maybe. But I'd rather buy on the way down than watch it rocket past my target price again. Been through enough of these corrections to know that the people buying during the fear are usually the ones celebrating later. Stay disciplined with your strategy and keep building your position while it's on sale.
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Markets are getting hammered right now and people are freaking out, but this is 
 
 I’m looking to invest in 1 bitcoin for about a year, but I heard some speculations that it’s going to keep falling, and even drop to zero. Just curious about when I should buy the bitcoin, or if I should keep waiting.
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ I’m looking to invest in 1 bitcoin for about a year, but I heard some speculat
 
 31,900 BTC just left exchanges in one day. That big negative spike on the Exchange Netflow chart means coins are moving to cold storage or custody wallets. Why it matters: Less BTC on exchanges less immediate sell pressure. Large outflows often signal accumulation by bigger players. After volatility, this can look like dip buying If price holds key levels and inflows don’t return, reduced supply could support a move higher.
 
-7h ago
+8h ago
 
 ---
 
@@ -137,7 +137,7 @@ Race for the last million Bitcoin begins...
 
 I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitcoin node along with Lightning to help the Bitcoin community.
 
-9h ago
+10h ago
 
 ---
 
@@ -145,7 +145,7 @@ I'm happy, man! I've now transformed my PC into an Umbrell server to run my Bitc
 
 Covid destroyed the market but the rebound was historic.
 
-9h ago
+10h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 6h ago
 
 **[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
 
-Forbes • 16h ago
+Forbes • 17h ago
 
 ---
 
@@ -187,7 +187,7 @@ Polymarket • 1h ago
 
 Sometimes, the wisdom of the crowds is more distracting than it is useful.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 2h ago
 
 Sometimes, the wisdom of the crowds is more distracting than it is useful.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Motley Fool • 2h ago
 
 Key PointsSports bets can sometimes offer the promise of a big payday at high risk.
 
-Nasdaq • 8h ago
+Nasdaq • 9h ago
 
 ---
 
@@ -335,7 +335,7 @@ Global tensions, oil politics, and the petrodollar system may be colliding in re
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 258 • ⏱️ 15:47 • 11h ago
+👁️ 17K • 👍 2K • 💬 258 • ⏱️ 15:47 • 12h ago
 
 ---
 
@@ -345,7 +345,7 @@ A historic shift is happening in the global economy. As geopolitical tensions ri
 
 📺 Financial Funda
 
-👁️ 4K • 👍 141 • 💬 24 • ⏱️ 2:51 • 12h ago
+👁️ 4K • 👍 141 • 💬 24 • ⏱️ 2:51 • 13h ago
 
 ---
 
@@ -385,7 +385,7 @@ Get started with Plus500 - Practice with a FREE demo account or kickstart your t
 
 📺 Aaron Bennett
 
-👁️ 12K • 👍 661 • 💬 61 • ⏱️ 8:51 • 18h ago
+👁️ 12K • 👍 661 • 💬 61 • ⏱️ 8:51 • 19h ago
 
 ---
 
@@ -395,7 +395,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 28K • 👍 2K • 💬 13 • ⏱️ 59:14 • 15h ago
+👁️ 28K • 👍 2K • 💬 13 • ⏱️ 59:14 • 16h ago
 
 ---
 
