@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T21:46:21.128410+00:00'
+updated: '2026-03-08T22:25:40.399597+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 21:46 UTC  
+**Last Updated:** March 08, 2026 at 22:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 **[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,15 @@ Robotics researcher Holly Yanco describes research looking at how people respond
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-17h ago
+18h ago
+
+---
+
+**[Building simple and inexpensive animatronic](https://www.reddit.com/r/robotics/comments/1roe357/building_simple_and_inexpensive_animatronic/)**
+
+My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a simple kit or something we can put together without a high cost. She wants to be a few feet high and resemble this Vee character https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2F2c7c7e9f-fd4a-4b7e-99ad-53216dbdb05b%2Fscale-to-width%2F755&f=1&nofb=1&ipt=3435994b5d38266f04bb4caa669e22dbcf85757bd86dffc342a6c8eaab344891 I work in robotics but haven't completed many hobby kits. I'm comfortable soldering and with tools but I don't understand kinematics or anything. Please let me know if you can provide suggestions? I was thinking something along these lines for the base but it would be taller https://www.robotshop.com/products/lynxmotion-biped-brat-kit-no-servos-or-electronics-brat-blk?qd=3863c5f9d2d553499b3f180b869b6336
+
+2h ago
 
 ---
 
@@ -70,17 +78,17 @@ Hi everyone I'm a grad french student getting into robotics simulation and I've 
 
 ---
 
-**[Building simple and inexpensive animatronic](https://www.reddit.com/r/robotics/comments/1roe357/building_simple_and_inexpensive_animatronic/)**
-
-My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a simple kit or something we can put together without a high cost. She wants to be a few feet high and resemble this Vee character https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2F2c7c7e9f-fd4a-4b7e-99ad-53216dbdb05b%2Fscale-to-width%2F755&f=1&nofb=1&ipt=3435994b5d38266f04bb4caa669e22dbcf85757bd86dffc342a6c8eaab344891 I work in robotics but haven't completed many hobby kits. I'm comfortable soldering and with tools but I don't understand kinematics or anything. Please let me know if you can provide suggestions?
-
-2h ago
-
----
-
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
 1d ago
+
+---
+
+**[PeppyOS: a simpler alternative to ROS 2 (now with containers support)](https://www.reddit.com/r/robotics/comments/1ro1tc4/peppyos_a_simpler_alternative_to_ros_2_now_with/)**
+
+Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
+
+11h ago
 
 ---
 
@@ -96,15 +104,7 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 I wrote a guide covering the full camera calibration process — data collection, model fitting, and diagnosing calibration quality. It covers both OpenCV-style and spline-based distortion models. As is covered in the guide, this is how I calibrate intrinsics of stereo cameras for use on the end-effector of a masonry robot at Monumental
 
-🔗 [GitHub](https://github.com/Robertleoj/lensboy/blob/main/docs/calibration_guide.md) • 5h ago
-
----
-
-**[PeppyOS: a simpler alternative to ROS 2 (now with containers support)](https://www.reddit.com/r/robotics/comments/1ro1tc4/peppyos_a_simpler_alternative_to_ros_2_now_with/)**
-
-Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
-
-11h ago
+🔗 [GitHub](https://github.com/Robertleoj/lensboy/blob/main/docs/calibration_guide.md) • 6h ago
 
 ---
 
@@ -112,11 +112,11 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 ## Google News: "robotics"
 
-**[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
+**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
 
-A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
+A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-Fortune • 1d ago
+NPR • 1h ago
 
 ---
 
@@ -128,11 +128,41 @@ Futurism • 1d ago
 
 ---
 
-**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
+**[300+ student engineers compete at S.C. robotics finals in Lexington County](https://www.wltx.com/article/tech/300-student-engineers-compete-sc-robotics-finals-lexington-county/101-3d407c1c-2458-4d99-a1fd-35f5e6473e45)**
 
-A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
+Dozens of teams gathered at River Bluff High School Saturday to vie for a spot at the VEX Robotics World Championship in St. Louis this April.
 
-NPR • 1h ago
+WLTX • 6h ago
+
+---
+
+**[OpenAI Robotics Head Quits Over Pentagon Partnership](https://www.pymnts.com/artificial-intelligence-2/2026/openai-robotics-head-quits-over-pentagon-partnership/)**
+
+OpenAI’s robotics lead has left the company due to its partnership with the Pentagon. Caitlin Kalinowski announced her departure from the artificial
+
+PYMNTS.com • 21m ago
+
+---
+
+**[Over 200 Teams Compete At Minnesota State VEX Robotics Championship In St. Cloud](https://wjon.com/vex-robotics-championship-mn/)**
+
+Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
+
+WJON • 10h ago
+
+---
+
+**[Ocean County Students Build Their Futures With Robotics Program](https://www.jerseyshoreonline.com/southern-ocean/ocean-county-students-build-their-futures-with-robotics-program/)**
+
+STAFFORD – At a time when education often feels bigger, faster and more crowded, one local school is proving that small can be powerful. With only 50 students in total, Lighthouse Christian Academy (LCA) is combining faith-based learning with hands-on academics, giving its middle schoolers tools typically found in far larger districts.   At […]
+
+Jersey Shore Online • 6h ago
+
+---
+
+**[‘Fertile ground’: How an OSU professor built one of Oregon’s most valuable startups](https://philomathnews.com/fertile-ground-how-an-osu-professor-built-one-of-oregons-most-valuable-startups/)**
+
+Philomath News • 4h ago
 
 ---
 
@@ -144,45 +174,15 @@ Business Insider • 13h ago
 
 ---
 
-**[Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury](https://techxplore.com/news/2026-03-robots-ai-evolves-legged-metamachines.html)**
+**[Geared for engineering: Zionsville Middle School students learn STEM and teamwork skills through robotics](https://youarecurrent.com/2026/03/08/geared-for-engineering-zionsville-middle-school-students-learn-stem-and-teamwork-skills-through-robotics/)**
 
-Tech Xplore • 21h ago
-
----
-
-**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
-
-The Hill • 2d ago
+Current Publishing • 4h ago
 
 ---
 
-**[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
+**[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
 
-Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
-
-Fox Business • 3d ago
-
----
-
-**[Inside Elon Musk's robot vision of the future](https://nypost.com/2026/03/08/tech/inside-elon-musks-robot-vision-of-the-future/)**
-
-The Tesla titan and other techies are bullish on ‘amazing abundance.’
-
-New York Post • 8h ago
-
----
-
-**[Prediction: AI Robotics Will Be a $375 Billion Industry. This Stock Is Positioned to Win in 2026.](https://www.fool.com/investing/2026/03/05/prediction-ai-robotics-will-be-a-375-billion-indus/)**
-
-When all is said and done, practicality trumps technological "wow!"
-
-The Motley Fool • 2d ago
-
----
-
-**[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
-
-Investor's Business Daily • 2d ago
+Forbes • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (d
 
 📺 Ticker Symbol: YOU
 
-👁️ 10K • 👍 628 • 💬 32 • ⏱️ 29:53 • 6h ago
+👁️ 10K • 👍 628 • 💬 32 • ⏱️ 29:53 • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 35K • 👍 326 • 💬 11 • ⏱️ 3:35:12 • 21h ago
+👁️ 35K • 👍 326 • 💬 11 • ⏱️ 3:35:12 • 22h ago
 
 ---
 
@@ -246,7 +246,7 @@ New Vector robot is here and it's the Raptor 2.0. Between this weekend and last 
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 262 • 💬 52 • ⏱️ 15:14 • 9h ago
+👁️ 5K • 👍 262 • 💬 52 • ⏱️ 15:14 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ War Robots Gameplay: NEW Robot VECTOR is going to be annoying in WR. Here's my n
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 311 • 💬 101 • ⏱️ 15:18 • 8h ago
+👁️ 5K • 👍 311 • 💬 101 • ⏱️ 15:18 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 2. This. Is. 
 
 📺 NHRL
 
-👁️ 16K • 👍 377 • 💬 18 • ⏱️ 3:23:56 • 17h ago
+👁️ 16K • 👍 377 • 💬 18 • ⏱️ 3:23:56 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ Joe Rogan shares his concerns about a future where advanced robotic eyes could s
 
 📺 DATARK
 
-👁️ 41K • 👍 559 • 💬 6 • ⏱️ 0:25 • 3d ago
+👁️ 41K • 👍 559 • 💬 6 • ⏱️ 0:25 • 4d ago
 
 ---
 

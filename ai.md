@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T21:46:21.110721+00:00'
+updated: '2026-03-08T22:25:40.381820+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 21:46 UTC  
+**Last Updated:** March 08, 2026 at 22:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic'c Claude found 22 vulnerabilities in Firefox in just two weeks](https://www.reddit.com/r/artificial/comments/1ro1ybn/anthropicc_claude_found_22_vulnerabilities_in/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 TLDR: Adult stars are quickly finding themselves out of work. Given the rise of AI generated porn within the last few years and how quickly it has improved in that time, adult entertainers like pornstars and Onlyfans creator will likely be completely replaced by Artificial intelligence within the decade. AI porn already is generating almost half of the adult star industries 140+ billion dollar a year revenues with an estimated $65.5 billion in 2024 and that number growing each year. AI already has replaced most of interactions within the adult chats and their videos can now be found on all the top porn site like pornhub. The days of stars getting rich from making content are quickly coming to an end, already are gone are the days where a woman could becoming a millionaire through a single years work in the porno industry. AI with it's ability to never have to sleep, to never be sick, be on it's period, pregnant, have an STI, look horrible from partying the night before, or simply not feel like working, it only makes since that the top earners in adult industry the producers not the actual creators are investing more an more into AI generated porn. While some pornstars have notoriously been difficult to work with in the past having uncontrollable emotional out brakes for no reason or be too addicted to various drugs to even perform AI has none of these problems. So, while the stars may have once earned them the most money they often were also their highest risk and with an ROI of 99 to1 who could afford not to become fully AI created content. Do you agree that AI will completely replace adult stars or do you think there will still be little niches of real life performers creating content, & how long to think it will take to get there? Do you think this is a good thing or a bad thing? What do you think all those women who made their livings off creating adult content will move on to do? Will it lead to greater female empowerment or a greater reduction in their share of the market?
 
-18h ago
+19h ago
 
 ---
 
@@ -55,7 +55,7 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use cases. Second brain, morning briefs, content factories, the usual. His take: , They all fall apart under basic scrutiny. I agree. The pattern is always the same. Impressive two-minute demo. Zero discussion of what it actually takes to make it work daily. Zero mention of cost. OpenClaw runs continuous sessions, so every task drags your entire context history with it. Your token bill adds up fast. The irony is the most technical people, the ones who could actually make it work, are the ones who immediately see simpler ways to do the same things. The audience getting hyped up is the least technical group. And they're the ones who'll hit a wall. Credit to Peter for building something clever. It's a tinkerer's sandbox and it's great at that. It was never supposed to be a finished product. The problem isn't him. It's influencers taking a sandbox and selling it as a finished solution to people who just want stuff to work. Three questions I ask before spending time on any AI tool: Is this the best tool for the job or just the shiniest? What does it actually cost to run? Would I still use this after the novelty wears off? Focused tools that do one thing well beat fancy agent frameworks. Every time.
 
-22h ago
+23h ago
 
 ---
 
@@ -65,19 +65,19 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 ---
 
-**[Temporal Memory almost Solved? That’s a big statement — but tonight feels like a huge milestone.](https://www.reddit.com/r/artificial/comments/1rocrrw/temporal_memory_almost_solved_thats_a_big/)**
-
-Huge milestone tonight. I don’t post much on Reddit or X, but I wanted to share this moment somewhere. For the past few months I’ve been working on a really frustrating problem in AI: how systems remember things over time without losing history, collapsing contradictions, or confidently answering questions built on false assumptions. After a lot of trial and error, I’m finally at the point where it feels like the pieces might actually be coming together. So far the system has passed several internal tests I built specifically to try to break it: • 157 / 157 adversarial queries in controlled scenarios • Synthetic timeline tests where entities evolve across many years of events • Conflict scenarios where multiple sources disagree and the system has to handle uncertainty instead of guessing Right now I’m running the big validation test: • 500 simulated worlds • 30–50 evolving events per world • ~10,000 total queries If it performs the way earlier tests suggest, I’ll share the results. I’ve also already started hearing from a few people and companies who want to test it at a much larger scale if the benchmark holds up. Not declaring victory yet — but this feels like the moment I’ve been waiting for.
-
-3h ago
-
----
-
 **[Lab Notes: Toward Ongoing Learning in Artificial Intelligence](https://www.reddit.com/r/artificial/comments/1ro6cdp/lab_notes_toward_ongoing_learning_in_artificial/)**
 
 There is a question sitting underneath most serious thinking about AI systems that rarely gets asked directly: why doesn't it learn? Not learn during training — that part works. But learn the way humans learn. Continuously, experientially, from correction. The way a person who makes a mistake on Tuesday is slightly different on Wednesday because of it. Current large language models don't do this. After training weights are frozen. Every conversation that follows — every correction, every clarification, every "no, that's wrong" — vanishes when the session closes. The model is a sophisticated frozen artifact. Brilliant in many ways, but static in this one fundamental sense. People find this instinctively wrong, and our instinct is probably pointing at something real. The Biological Baseline The brain doesn't learn during activity. It learns afterwards, on reflection, during sleep. This is not a minor implementation detail. It appears to be load-bearing architecture. The hippocampus replays flagged experiences during sleep — compressed, faster than real-time — slowly transferring high-signal events into cortical long-term storage. Not everything gets replayed. Not everything gets consolidated. The brain is selective, and the selection mechanism appears to be largely emotional. Fear, surprise, reward, social consequence, strong prediction error — these flag an experience as worth keeping. Low-signal routine gets discarded. The system is efficient because it is discriminating. The skydiver who lands and immediately gives a first-person verbal account of what happened, then watches video that partially contradicts that account, is engineering this process deliberately. The verbal reconstruction forces a committed internal model. The video provides a grounded external contradiction. The report of a police officer after an incident, bounded by body camera. Same thing. The gap between them — the dissonance — is the signal. That signal consolidates later into durable learning. The architecture is: active experience generating predictions, immediate post-hoc narrative committing to a model, external contradiction generating a strong error signal, delayed consolidation of high-signal experiences into lasting change. Current AI has some correction during reinforcement learning but nothing at inference time. Emotion as Flagging Heuristic The human brain's consolidation system doesn't run on everything. It runs on what matters. And what determines mattering, in biological systems, may be largely emotion. This is not incidental. Emotion is the brain's significance-tagging system. The amygdala fires fast — pre-cognitively, before the prefrontal cortex has processed the event — marking certain experiences as high-priority for retention. One encounter with genuine danger and it's in long-term memory essentially permanently. The system is calibrated by evolutionary stakes. For artificial systems, functional analogs exist but are pale shadows of this. High-confidence output followed by sharp explicit correction resembles surprise or embarrassment — a strong prediction error against a committed model. User persistence through repeated rephrasing signals something like frustration — the interaction is not resolving normally. Novel inputs producing high uncertainty suggest the model is outside its comfortable distribution. These signals exist in the conversation logs of every deployed model. They are largely ignored. A serious approach to machine learning-from-experience would need a lightweight parallel system running during inference whose only job is real-time significance assessment. Not reasoning — flagging. Fast and automatic, more like an autonomic response than a deliberate thought. This is architecturally closer to Kahneman's System 1 than anything currently built into transformer inference, which is essentially pure System 2 — all deliberation, no instinct. The Sleep Hypothesis What would happen if a deployed model took eight hours offline daily and ran light fine-tuning on its flagged interactions? Taken seriously, the engineering requirements become surprisingly concrete. The first requirement is the tagging mechanism described above — a way to identify high-signal correction events during inference worth preserving for later integration. This is tractable. The logs exist. Explicit corrections are often detectable. Confidence-then-contradiction is measurable. The second requirement is a conservative fine-tuning process. Small learning rate, narrow scope, strong regularization against existing weights. Not retraining — targeted synaptic adjustment on the day's flagged experiences. Validation against a held-out baseline to catch drift before it commits. The third requirement, more speculative, is a generalization step analogous to dreaming. REM sleep may serve a counterfactual function — the brain generates variations and recombinations of the day's flagged experiences, testing whether new learning holds across novel configurations. The model equivalent would be synthetic generation of variations on flagged interactions during the consolidation window, making updates more robust rather than just memorizing specific corrections. The practical barriers to doing this with existing infrastructure are smaller than they appear. Off-peak compute is cheaper. The logs exist. The fine-tuning tooling exists. The main obstacle seems institutional and economic rather than technical. The Deeper Implication There is a thread connecting the biological observations to the engineering proposal that is worth naming explicitly. The corrective signal only works if the system was committed enough to be wrong. The skydiver who gives a vague account before seeing the video gets less from the correction than the one who commits confidently to a specific narrative. The model that hedges every output produces no strong prediction to contradict. Confident wrongness may not be a bug in intelligent systems — it may be a prerequisite for deep learning from experience. This complicates the current instinct to make AI systems more uncertain and hedged. If the flagging heuristic depends on strong prediction errors, excessive hedging may impair the system's capacity to learn from its mistakes. There is a calibration question here that has not been seriously examined. More broadly, what this conversation points toward is an architecture that does not yet exist: a model that learns continuously from deployment, flags high-signal experiences automatically during inference, consolidates them during low-activity periods, and generalizes from corrections rather than merely storing them. This is not obviously impossible. It is probably a matter of when rather than if. The biological brain solved this problem. It solved it with emotion as a heuristic, sleep as a mechanism, and committed prediction as a prerequisite. Those are not mystical ingredients. They are design principles.
 
 7h ago
+
+---
+
+**[Temporal Memory almost Solved? That’s a big statement — but tonight feels like a huge milestone.](https://www.reddit.com/r/artificial/comments/1rocrrw/temporal_memory_almost_solved_thats_a_big/)**
+
+Huge milestone tonight. I don’t post much on Reddit or X, but I wanted to share this moment somewhere. For the past few months I’ve been working on a really frustrating problem in AI: how systems remember things over time without losing history, collapsing contradictions, or confidently answering questions built on false assumptions. After a lot of trial and error, I’m finally at the point where it feels like the pieces might actually be coming together. So far the system has passed several internal tests I built specifically to try to break it: • 157 / 157 adversarial queries in controlled scenarios • Synthetic timeline tests where entities evolve across many years of events • Conflict scenarios where multiple sources disagree and the system has to handle uncertainty instead of guessing Right now I’m running the big validation test: • 500 simulated worlds • 30–50 evolving events per world • ~10,000 total queries If it performs the way earlier tests suggest, I’ll share the results. I’ve also already started hearing from a few people and companies who want to test it at a much larger scale if the benchmark holds up. Not declaring victory yet — but this feels like the moment I’ve been waiting for.
+
+3h ago
 
 ---
 
@@ -125,11 +125,19 @@ Fortune • 2d ago
 
 ---
 
-**[AI chatbots point vulnerable social media users to illegal online casinos, analysis shows](https://www.theguardian.com/technology/2026/mar/08/ai-chatbots-point-vulnerable-to-online-casinos-gambling-addiction-uk)**
+**[AI allows hackers to identify anonymous social media accounts, study finds](https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study)**
 
-Tech firms condemned for lack of controls with Meta AI and Gemini even offering advice on how to bypass UK gambling and addiction checks
+New research suggests tech behind AI platforms such as ChatGPT makes it easier to perform sophisticated privacy attacks
 
-The Guardian • 10h ago
+The Guardian • 4h ago
+
+---
+
+**[Is AI productivity prompting burnout? Study finds new pattern of "AI brain fry"](https://www.cbsnews.com/news/is-ai-productivity-prompting-burnout-study-finds-new-pattern-of-ai-brain-fry/)**
+
+Artificial intelligence can give some workers "brain fry" if overused, according to a new study published in Harvard Business Review.
+
+CBS News • 4h ago
 
 ---
 
@@ -141,19 +149,23 @@ NPR • 1h ago
 
 ---
 
-**[Is AI productivity prompting burnout? Study finds new pattern of "AI brain fry"](https://www.cbsnews.com/news/is-ai-productivity-prompting-burnout-study-finds-new-pattern-of-ai-brain-fry/)**
-
-Artificial intelligence can give some workers "brain fry" if overused, according to a new study published in Harvard Business Review.
-
-CBS News • 3h ago
-
----
-
 **[AI error or not, Iran school bombing is a permanent stain on America’s soul | Will Bunch](https://www.inquirer.com/opinion/iran-girls-school-bombing-ai-20260308.html)**
 
 A debate on AI in warfare obscures the truth about an Iran school bombing. U.S. humans are to blame for this war crime.
 
 Inquirer.com • 3h ago
+
+---
+
+**[Opinion | AI in Trump’s 3-D Chess Match](https://www.wsj.com/opinion/ai-in-trumps-3-d-chess-match-d62c2596?gaa_at=eafs&gaa_n=AWEtsqfkcVk_DmLKc9Jid8DPpDW-Z-yTCilAB-QgLaqD_7z5ZQdRe7YBwyqE&gaa_ts=69adfad2&gaa_sig=wQYbbFwiHp6H4a87B7pHHKSim9av1cj5NvadMePIeo2RNfHc2N2E2XkCYBh8PS8YnxlcaFx04DZENg4Kd5SNzg%3D%3D)**
+
+WSJ • 3h ago
+
+---
+
+**[Why Washington is hamstrung on protecting workers from AI](https://www.politico.com/news/2026/03/08/washington-workers-ai-00789199)**
+
+Politico • 6h ago
 
 ---
 
@@ -169,25 +181,11 @@ Axios • 1d ago
 
 ---
 
-**[In a jobs apocalypse, look to ‘AI-proof’ skilled trades, career experts say](https://www.cnbc.com/2026/03/08/jobs-apocalypse-ai-proof-skilled-trades.html)**
+**[The AI trade still 'has legs': Wall Street analysts weigh tech stock picks amid market sell-off](https://finance.yahoo.com/news/the-ai-trade-still-has-legs-wall-street-analysts-weigh-tech-stock-picks-amid-market-sell-off-140003840.html)**
 
-The skilled trades are considered more insulated from AI-driven job cuts, experts say.
+Market ripples from the US-Iran conflict are sending investors toward tech's safe havens.
 
-CNBC • 8h ago
-
----
-
-**[Why Washington is hamstrung on protecting workers from AI](https://www.politico.com/news/2026/03/08/washington-workers-ai-00789199)**
-
-Politico • 5h ago
-
----
-
-**[The new boss at work may not be human](https://www.aljazeera.com/economy/2026/3/8/the-new-boss-at-work-may-not-be)**
-
-As companies experiment with AI agents, the technology is beginning to reshape office hierarchies across US and Canada.
-
-Al Jazeera • 10h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -199,13 +197,7 @@ Al Jazeera • 10h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 328 • 💬 556 • 2d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
-
----
-
-**[A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://news.ycombinator.com/item?id=47267947)**
-
-⬆️ 303 • 💬 116 • 2d ago • [406.fail](https://406.fail/)
+⬆️ 328 • 💬 557 • 2d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
@@ -219,7 +211,7 @@ The models are good now. But most people still miss the point.
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 157 • 💬 172 • 1d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 158 • 💬 172 • 1d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -227,7 +219,7 @@ The models are good now. But most people still miss the point.
 
 Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.
 
-⬆️ 146 • 💬 183 • 6h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+⬆️ 152 • 💬 190 • 6h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 
 ---
 
@@ -251,7 +243,7 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
 
-⬆️ 70 • 💬 71 • 22h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+⬆️ 72 • 💬 72 • 22h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
 
 ---
 
@@ -260,6 +252,12 @@ Studies find AI helps developers release more software—while logging longer ho
 Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
 
 ⬆️ 63 • 💬 31 • 1d ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
+
+---
+
+**[AI doesn't replace white collar work](https://news.ycombinator.com/item?id=47299988)**
+
+⬆️ 49 • 💬 82 • 3h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
 
 ---
 
@@ -291,7 +289,7 @@ OpenAI just released a system called Symphony that can send AI agents to complet
 
 📺 AI Revolution
 
-👁️ 32K • 👍 943 • 💬 70 • ⏱️ 14:19 • 22h ago
+👁️ 32K • 👍 943 • 💬 70 • ⏱️ 14:19 • 23h ago
 
 ---
 
@@ -301,7 +299,7 @@ Warren Buffett has compared artificial intelligence to nuclear weapons. A warnin
 
 📺 The Infographics Show
 
-👁️ 61K • 👍 2K • 💬 327 • ⏱️ 12:29 • 6h ago
+👁️ 61K • 👍 2K • 💬 327 • ⏱️ 12:29 • 7h ago
 
 ---
 
@@ -311,7 +309,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 76 • 💬 5 • ⏱️ 10:22 • 14h ago
+👁️ 3K • 👍 76 • 💬 5 • ⏱️ 10:22 • 15h ago
 
 ---
 
@@ -351,7 +349,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 136K • 👍 9K • 💬 2K • ⏱️ 27:07 • 1d ago
+👁️ 136K • 👍 9K • 💬 2K • ⏱️ 27:07 • 2d ago
 
 ---
 
@@ -459,7 +457,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 9,209 • ❤️ 250 • 22h ago
+⬇️ 9,209 • ❤️ 250 • 23h ago
 
 ---
 
@@ -665,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.7k • 🔱 1.1k • 6h ago
+⭐ 9.7k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -675,7 +673,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 7.6k • 🔱 984 • 4h ago
+⭐ 7.6k • 🔱 984 • 5h ago
 
 ---
 
@@ -725,7 +723,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 392 • 8h ago
+⭐ 3.6k • 🔱 392 • 9h ago
 
 ---
 
@@ -735,7 +733,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.5k • 🔱 250 • 11h ago
+⭐ 3.5k • 🔱 250 • 12h ago
 
 ---
 

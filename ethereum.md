@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T21:46:21.125236+00:00'
+updated: '2026-03-08T22:25:40.396354+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 21:46 UTC  
+**Last Updated:** March 08, 2026 at 22:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,960.52
+### $1,931.01
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -3.3%  
-**30d:** -6.5%  
-**90d:** -41.0%  
-**1y:** -2.8%  
+**24h:** -2.4%  
+**7d:** -5.2%  
+**30d:** -8.3%  
+**90d:** -42.1%  
+**1y:** -4.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 For the past few months I've been building EthereumHistory.com, a project to document every notable smart contract from Ethereum's earliest days (2015-2017). Think of it as a Wikipedia for Ethereum's contract archaeology. Recently I did a deep scan of all 12,609 contracts deployed during the Frontier era and found 1,650 still holding ETH — totaling over 38,000 ETH (~$95M at current prices) locked in contracts from Ethereum's first weeks. Here's what's actually inside them: The Gambling Contracts (Day 13 of Ethereum) EtherDice (0xc4c51de1abf5d60dbd329ec0f999fd8f021ae9fc) was deployed on August 12, 2015 — just 13 days after Ethereum launched. Someone loaded it with a 1,000 ETH bankroll. It's a 21-function commit-reveal dice game, surprisingly sophisticated for the era. 122 ETH still sits inside, permanently locked because the deployer likely lost their keys years ago. The Inverted Timelock TimeLockVault (0xed44f3c2081480b08643fe1ca281fab9ed643735) has a beautiful bug: the time check is inverted. You can withdraw before the unlock date (2035), but once 2035 arrives, the funds become permanently locked. 50 ETH inside. The deployer could have withdrawn years ago but apparently never noticed. The Stalled Pyramid EtherPyramid (0xa9e4e3b1da2752aea980698c335e70e9ab26c) had 140 participants. 136 of them are still waiting for their payout. 37 ETH frozen forever in a pyramid that ran out of new entrants. A time capsule of early Ethereum's Wild West era. The Pattern After scanning all 1,650 funded contracts, the pattern is consistent: every single one is either owner-gated (keys likely lost), bug-locked, pyramid-stalled, or timelocked. At least 5 active hunter addresses have already probed most of these contracts looking for extractable funds. None succeeded. These contracts are essentially digital fossils — permanently preserved on-chain with real ETH sealed inside them. They tell the story of Ethereum's earliest developers experimenting with code that would handle real money, often for the first time. I've been documenting these on EthereumHistory.com with verified source code, deployment context, and the stories behind them. If you deployed contracts in 2015-2016 or know the stories behind any early projects, I'd love to hear from you. What early Ethereum contracts do you remember that deserve to be documented?
 
-8h ago
+9h ago
 
 ---
 
@@ -80,15 +80,7 @@ For the past few months I've been building EthereumHistory.com, a project to doc
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
-
----
-
-**[StarkWare just killed their entire user base](https://www.reddit.com/r/ethereum/comments/1rnyelp/starkware_just_killed_their_entire_user_base/)**
-
-"a practical compliance framework that enables an auditing entity to selectively unshield transactions upon legitimate regulatory request" So, the entire point of using the chain is null and void. What's the use of hiding transactions when an arbitrary entity can just... unhide them? "For compliance, each user registers an encrypted copy of their viewing key on-chain. Upon legitimate regulatory request, a designated auditing entity can decrypt this key to trace a specific user’s transaction history, without affecting the privacy of uninvolved users." So it is effectively mandatory. Wonderful. Who did they think we were hiding transactions from, our ex? The paper: https://eprint.iacr.org/2026/474
-
-14h ago
+16h ago
 
 ---
 
@@ -96,7 +88,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
 
-9h ago
+10h ago
+
+---
+
+**[StarkWare just killed their entire user base](https://www.reddit.com/r/ethereum/comments/1rnyelp/starkware_just_killed_their_entire_user_base/)**
+
+"a practical compliance framework that enables an auditing entity to selectively unshield transactions upon legitimate regulatory request" So, the entire point of using the chain is null and void. What's the use of hiding transactions when an arbitrary entity can just... unhide them? "For compliance, each user registers an encrypted copy of their viewing key on-chain. Upon legitimate regulatory request, a designated auditing entity can decrypt this key to trace a specific user’s transaction history, without affecting the privacy of uninvolved users." So it is effectively mandatory. Wonderful. Who did they think we were hiding transactions from, our ex? The paper: https://eprint.iacr.org/2026/474
+
+15h ago
 
 ---
 
@@ -158,7 +158,7 @@ Binance • 1d ago
 
 **[Key facts: Clarity Act to Boost Ethereum Investment; Buterin Advocates for Privacy](https://www.tradingview.com/news/tradingview:dbeedf0571fc3:0-key-facts-clarity-act-to-boost-ethereum-investment-buterin-advocates-for-privacy/)**
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -166,7 +166,7 @@ TradingView • 21h ago
 
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -180,7 +180,7 @@ AMBCrypto • 1d ago
 
 **[Investors Buy the Ethereum Dip: iShares ETHA Pulls In $30 Million Despite ‘Strong Sell’ Signal](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-ethereum-dip-ishares-etha-pulls-in-30-million-despite-strong-sell-signal)**
 
-TipRanks • 3h ago
+TipRanks • 4h ago
 
 ---
 
@@ -192,15 +192,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqdpwmdZ2EjL_ZSZpLzj5TvRM-BSL5fczgf96VrozyBQeQgYS6XPWSxW&gaa_ts=69ade4f8&gaa_sig=-7g462hWPJNIdp1imNuZjY6PtX5nsGnhxV40nujn56RCEVyHSxDV2bKWcAwzaTi1zE1_tuySKhXe4aMeS9dwDQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqcgWZL47YSahy5l00EfL4YZVM_9dAZUqRPpe4PBZ3SFpF5KEGfUQw28&gaa_ts=69adfad5&gaa_sig=m0sEH7c0U_xquoepK61H53jyi-d2526Swg-stSe-Hs28wb_q68oUc8LGqkZ8GLswOuywQnZflyZ4F3IFdlAhdQ%3D%3D)**
 
 Barron's • 3d ago
-
----
-
-**[What Will Bitcoin, ETH and XRP Be Worth in 2030? ChatGPT’s Price Predictions May Shock You](https://www.ccn.com/education/crypto/chatgpt-predicts-2030-crypto-prices-bitcoin-500k-eth-20k-xrp-20/)**
-
-CCN.com • 3d ago
 
 ---
 
@@ -209,6 +203,12 @@ CCN.com • 3d ago
 Ethereum founder transaction: Jeffrey Wilcke moves $157M in Ethereum to Kraken, marking significant activity after months of wallet silence.
 
 Crypto Briefing • 1d ago
+
+---
+
+**[What Will Bitcoin, ETH and XRP Be Worth in 2030? ChatGPT’s Price Predictions May Shock You](https://www.ccn.com/education/crypto/chatgpt-predicts-2030-crypto-prices-bitcoin-500k-eth-20k-xrp-20/)**
+
+CCN.com • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 549 • 👍 64 • 💬 26 • ⏱️ 20:10 • 3h ago
+👁️ 549 • 👍 64 • 💬 26 • ⏱️ 20:10 • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 132 • 💬 92 • ⏱️ 15:06 • 16h ago
+👁️ 4K • 👍 132 • 💬 92 • ⏱️ 15:06 • 17h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 991 • 👍 114 • 💬 2 • ⏱️ 5:48 • 4h ago
+👁️ 991 • 👍 114 • 💬 2 • ⏱️ 5:48 • 5h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 10K • 👍 308 • 💬 73 • ⏱️ 17:36 • 22h ago
+👁️ 10K • 👍 308 • 💬 73 • ⏱️ 17:36 • 23h ago
 
 ---
 
@@ -320,7 +320,7 @@ Is Ethereum Dumping? In this video, we analyze Ethereum price trends, technical 
 
 📺 Hard Core Crypto
 
-👁️ 10 • ⏱️ 4:22 • 9h ago
+👁️ 10 • ⏱️ 4:22 • 10h ago
 
 ---
 
