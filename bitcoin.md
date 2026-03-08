@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T23:26:20.447351+00:00'
+updated: '2026-03-08T23:47:36.741970+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 23:26 UTC  
+**Last Updated:** March 08, 2026 at 23:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -105,7 +105,7 @@ I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the
 
 Some reports circulating online claim that Binance may have accumulated a large amount of Bitcoin during the recent market decline. The estimated figure being mentioned is around $1 billion worth of Bitcoin, although there has not been an official confirmation explaining the purpose of the transactions. Large exchange movements can occur for several reasons, including liquidity management, custody changes, or treasury allocation. Without further details, it’s difficult to determine the exact intent behind the activity. Still, transactions of this size tend to attract attention, especially when they occur during periods of market volatility. What do you think about large Bitcoin purchases happening during market downturns? Could they reflect long term positioning, or are there other explanations that make more sense?
 
-1h ago
+2h ago
 
 ---
 
@@ -145,7 +145,7 @@ For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bit
 
 International Women’s Day and Bitcoin nearing its 20 millionth coin make for a meaningful overlap. It highlights not just Bitcoin’s scarcity, but also the fact that the network’s growth, credibility, and global adoption have been shaped by women as well as men. As Bitcoin approaches 20 million mined, meaning roughly 95% of its total 21 million supply has been issued, the world is reminded how rare and finite it is, with the final 1 million set to be released only gradually over many future decades. ￼ That milestone matters because Bitcoin is no longer some early-stage experiment with endless issuance ahead of it. It is entering a phase where almost all of its supply already exists, and the remaining coins will come out at an increasingly slow pace due to the halving cycle. This strengthens the case for Bitcoin as a scarce monetary asset rather than just a speculative technology. ￼ Tying that to International Women’s Day adds another layer: Bitcoin’s story has also been shaped by women who helped build, explain, and legitimize it. Elizabeth Stark has been central to the development of Lightning infrastructure through Lightning Labs, helping advance Bitcoin’s scaling and payment usability. Lyn Alden has played a major role in explaining Bitcoin’s monetary properties, energy use, and macro significance to a broad global audience through her research and writing. Caitlin Long has been influential in pushing for regulated digital-asset custody and payment infrastructure through Custodia Bank, helping bridge Bitcoin and the traditional financial system. ￼ So the significance is this: on a day dedicated to recognizing women’s contributions, Bitcoin is nearing one of the clearest demonstrations of its core promise, absolute scarcity. And that promise did not reach global relevance on code alone. it was also advanced by women who built infrastructure, shaped public understanding, and pushed adoption forward.
 
-3h ago
+4h ago
 
 ---
 
@@ -165,7 +165,7 @@ I built a free Bitcoin REST API. No signup, no API key needed for read endpoints
 
 Murban crude, a key benchmark for barrels that can bypass the Strait of Hormuz, now trades at $103 per barrel.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ Nasdaq • 3h ago
 
 There was little sign over the weekend of any de-escalation in the war against Iran.
 
-CoinDesk • 39m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bloomberg.com • 2d ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 2h ago
+Polymarket • 3h ago
 
 ---
 
@@ -373,7 +373,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged https://ww
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 146 • 💬 2 • ⏱️ 19:39 • 5h ago
+👁️ 2K • 👍 146 • 💬 2 • ⏱️ 19:39 • 6h ago
 
 ---
 

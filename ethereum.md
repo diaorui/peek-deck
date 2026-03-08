@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T23:26:20.453492+00:00'
+updated: '2026-03-08T23:47:36.747990+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 23:26 UTC  
+**Last Updated:** March 08, 2026 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -102,7 +102,7 @@ I tried to access compound.finance, and when connecting wallet it warns me the d
 
 **[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -160,7 +160,7 @@ Binance • 1d ago
 
 According to blockchain analytics platform Onchain Lens, Ethereum co-founder Jeffrey Wilcke recently deposited 79,859 ETH (roughly $158.31 million at press time) to the Kraken cryptocurrency exchange over the past 24 hours.Meanwhile, Ethereum BITSTAMP:ETHUSD continues to struggle with downside pric…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 

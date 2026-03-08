@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T23:26:20.456788+00:00'
+updated: '2026-03-08T23:47:36.751263+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 23:26 UTC  
+**Last Updated:** March 08, 2026 at 23:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
 
-6h ago
+7h ago
 
 ---
 
@@ -66,7 +66,7 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
 
-7h ago
+8h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi everyone I'm a grad french student getting into robotics simulation and I've 
 
 My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a simple kit or something we can put together without a high cost. She wants to be a few feet high and resemble this Vee character https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2F2c7c7e9f-fd4a-4b7e-99ad-53216dbdb05b%2Fscale-to-width%2F755&f=1&nofb=1&ipt=3435994b5d38266f04bb4caa669e22dbcf85757bd86dffc342a6c8eaab344891 I work in robotics but haven't completed many hobby kits. I'm comfortable soldering and with tools but I don't understand kinematics or anything. Please let me know if you can provide suggestions? I was thinking something along these lines for the base but it would be taller https://www.robotshop.com/products/lynxmotion-biped-brat-kit-no-servos-or-electronics-brat-blk?qd=3863c5f9d2d553499b3f180b869b6336
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a si
 
 Hey guys I have been working on this new approach to build a general model, recently have completed it. Have tested it on physics based escape rooms and mujoco, did true few shot learning and well generalization from blank. Tried with small models too connecting it as adapter in core layers, it can few shot build up on existing knowledge, make system smarter, can do online learning. Haven't tested it at scale but should work well. Thoughts? Am thinking to put a small demo on hugging face and reaching out to investors.
 
-24m ago
+45m ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey guys I have been working on this new approach to build a general model, rece
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
 
-12h ago
+13h ago
 
 ---
 
@@ -116,7 +116,7 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 2h ago
+NPR • 3h ago
 
 ---
 
@@ -162,7 +162,7 @@ Philomath News • 5h ago
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Business Insider • 14h ago
+Business Insider • 15h ago
 
 ---
 
@@ -170,7 +170,7 @@ Business Insider • 14h ago
 
 STAFFORD – At a time when education often feels bigger, faster and more crowded, one local school is proving that small can be powerful. With only 50 students in total, Lighthouse Christian Academy (LCA) is combining faith-based learning with hands-on academics, giving its middle schoolers tools typically found in far larger districts.   At […]
 
-Jersey Shore Online • 7h ago
+Jersey Shore Online • 8h ago
 
 ---
 
@@ -182,7 +182,7 @@ Forbes • 1d ago
 
 **[Geared for engineering: Zionsville Middle School students learn STEM and teamwork skills through robotics](https://youarecurrent.com/2026/03/08/geared-for-engineering-zionsville-middle-school-students-learn-stem-and-teamwork-skills-through-robotics/)**
 
-Current Publishing • 5h ago
+Current Publishing • 6h ago
 
 ---
 
@@ -206,7 +206,7 @@ It's not just a phone; it's a revolutionary invention that uses advanced actuato
 
 📺 SciVion
 
-👁️ 651 • 💬 2 • ⏱️ 0:30 • 3h ago
+👁️ 651 • 💬 2 • ⏱️ 0:30 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 22K • 👍 776 • 💬 56 • ⏱️ 14:35 • 3d ago
+👁️ 22K • 👍 776 • 💬 56 • ⏱️ 14:35 • 4d ago
 
 ---
 
