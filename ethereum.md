@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T20:28:21.019845+00:00'
+updated: '2026-03-08T20:52:28.864380+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 20:28 UTC  
+**Last Updated:** March 08, 2026 at 20:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -3.0%  
-**30d:** -6.2%  
-**90d:** -40.8%  
-**1y:** -2.5%  
+**24h:** -0.6%  
+**7d:** -3.3%  
+**30d:** -6.5%  
+**90d:** -41.0%  
+**1y:** -2.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $233.62B
+**Market Cap:** $237.17B
 Rank #2
 
 **Circulating Supply:** 120,692,053 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.9%
+-60.3%
 
 **All-Time Low:** $0.43
-+446859.3%
++453631.0%
 
 ---
 
@@ -96,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
 
-8h ago
+9h ago
 
 ---
 
 **[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -178,6 +178,12 @@ AMBCrypto • 1d ago
 
 ---
 
+**[Investors Buy the Ethereum Dip: iShares ETHA Pulls In $30 Million Despite ‘Strong Sell’ Signal](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-ethereum-dip-ishares-etha-pulls-in-30-million-despite-strong-sell-signal)**
+
+TipRanks • 2h ago
+
+---
+
 **[ETH, BMNR news: Short seller Culper Research says ether tokenomics is 'impaired'](https://www.coindesk.com/markets/2026/03/05/short-seller-culper-bets-against-ether-bitmine-citing-death-spiral-risk)**
 
 The short seller firm said that Ethereum's native token is "impaired," leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.
@@ -186,13 +192,7 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum Mini Trust Hit by Fresh Outflows as Price Slump Deepens](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-hit-by-fresh-outflows-as-price-slump-deepens)**
-
-TipRanks • 10h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqe47mwIXMezg-sSk9SuzA6QNVSW-5DNYpnlOacuutlUtgvxM1d568at&gaa_ts=69add52d&gaa_sig=0tnT3GUivC7_L-6RAAnSi884qkk6ygXWJLkuewQbhLJtu9DAlw6OKcp8Zg4XEoYQxtiOqmG5zAxe3r8iy6Rjtg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqdpwmdZ2EjL_ZSZpLzj5TvRM-BSL5fczgf96VrozyBQeQgYS6XPWSxW&gaa_ts=69ade4f8&gaa_sig=-7g462hWPJNIdp1imNuZjY6PtX5nsGnhxV40nujn56RCEVyHSxDV2bKWcAwzaTi1zE1_tuySKhXe4aMeS9dwDQ%3D%3D)**
 
 Barron's • 3d ago
 
@@ -230,7 +230,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 149 • ⏱️ 11:32 • 1d ago
+👁️ 40K • 👍 2K • 💬 150 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 141 • 👍 26 • 💬 24 • ⏱️ 20:10 • 2h ago
+👁️ 549 • 👍 64 • 💬 26 • ⏱️ 20:10 • 2h ago
 
 ---
 
@@ -250,7 +250,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 121 • 💬 90 • ⏱️ 15:06 • 15h ago
+👁️ 4K • 👍 132 • 💬 92 • ⏱️ 15:06 • 15h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XF7_pP82FFE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 991 • 👍 114 • 💬 2 • ⏱️ 5:48 • 3h ago
 
 ---
 
@@ -264,13 +274,23 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=rUWDg8L-URM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 128 • 💬 6 • ⏱️ 3:42 • 1d ago
+
+---
+
 **[Bitcoin &amp; Ethereum Upside &amp; Downside Targets | Multiple Time Frame Analysis](https://www.youtube.com/watch?v=yRyq1Kvv2po)**
 
 In this clip from the most recent askSlim Live, Slim provides an analysis update in Bitcoin (BTC) & Ethereum (ETH). Sign up now ...
 
 📺 Steve Miller
 
-👁️ 2K • 👍 81 • 💬 4 • ⏱️ 8:11 • 1d ago
+👁️ 2K • 👍 85 • 💬 5 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -280,7 +300,7 @@ BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 10K • 👍 304 • 💬 72 • ⏱️ 17:36 • 21h ago
+👁️ 10K • 👍 308 • 💬 73 • ⏱️ 17:36 • 22h ago
 
 ---
 
@@ -290,17 +310,7 @@ Join my Patreon for exclusive crypto insights: https://www.patreon.com/cw/Adamco
 
 📺 Adam coins
 
-👁️ 80 • 👍 5 • ⏱️ 6:41 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=rUWDg8L-URM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 127 • 💬 6 • ⏱️ 3:42 • 23h ago
+👁️ 83 • 👍 6 • ⏱️ 6:41 • 1d ago
 
 ---
 
@@ -310,17 +320,7 @@ Is Ethereum Dumping? In this video, we analyze Ethereum price trends, technical 
 
 📺 Hard Core Crypto
 
-👁️ 6 • ⏱️ 4:22 • 8h ago
-
----
-
-**[Ethereum: The Silent Plumbing of New Money &amp; BMNR Impact #shorts](https://www.youtube.com/watch?v=vGwiJ8IPoms)**
-
-Discover how Ethereum is quietly becoming the backbone for new money movement. Witness billions in real-world assets ...
-
-📺 MONEY GAME
-
-👁️ 504 • 👍 15 • 💬 3 • ⏱️ 1:36 • 2d ago
+👁️ 10 • ⏱️ 4:22 • 8h ago
 
 ---
 

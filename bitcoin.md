@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T20:28:21.014655+00:00'
+updated: '2026-03-08T20:52:28.858435+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 20:28 UTC  
+**Last Updated:** March 08, 2026 at 20:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,333.00
+### $67,355.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -2.1%  
-**30d:** -2.8%  
-**90d:** -27.6%  
-**1y:** -16.5%  
+**24h:** -0.3%  
+**7d:** -2.2%  
+**30d:** -2.9%  
+**90d:** -27.7%  
+**1y:** -16.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1339.53B
+**Market Cap:** $1346.77B
 Rank #1
 
-**Circulating Supply:** 19,999,600 BTC
+**Circulating Supply:** 19,999,625 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.9%
+-46.6%
 
 **All-Time Low:** $67.81
-+98656.8%
++99221.6%
 
 ---
 
@@ -101,11 +101,11 @@ Greetings, I’m a Ukrainian woman living in Austria as a refugee. I have about 
 
 ---
 
-**[Buying shitcoins to accumulate more bitcoin, usually ends up like this](https://www.reddit.com/r/Bitcoin/comments/1rnz946/buying_shitcoins_to_accumulate_more_bitcoin/)**
+**[The moment you don't buy it stucks](https://www.reddit.com/r/Bitcoin/comments/1ro8p1u/the_moment_you_dont_buy_it_stucks/)**
 
-For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bitcoin on r/thelightningnetwork. No, that's a dying fork of Bitcoin... No, it's called a temporary privacy. All the transactions are still kept on the blockchain, waiting for quantum computers to read all your "private" shitcoin transactions. Using P2P exchanges and lightning is more future proof because there's no blockchain, to keep all txs for QC to read in the future. No, even that's a premined and centralized shitcoin too. It doesn't matter it's sitting right under Bitcoin. It doesn't make it a less of shitcoin at all.
+Everytime, yep. Everytime you don't buy, the price is just stuck, consolidating. The moment you buy, it dips again, the moment you sold, it went up. Only in Bitocin! Hodl!
 
-12h ago
+4h ago
 
 ---
 
@@ -117,19 +117,11 @@ Were living in the most uncertain time in recent history. Inflation is soon to b
 
 ---
 
-**[The moment you don't buy it stucks](https://www.reddit.com/r/Bitcoin/comments/1ro8p1u/the_moment_you_dont_buy_it_stucks/)**
+**[Buying shitcoins to accumulate more bitcoin, usually ends up like this](https://www.reddit.com/r/Bitcoin/comments/1rnz946/buying_shitcoins_to_accumulate_more_bitcoin/)**
 
-Everytime, yep. Everytime you don't buy, the price is just stuck, consolidating. The moment you buy, it dips again, the moment you sold, it went up. Only in Bitocin! Hodl!
+For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bitcoin on r/thelightningnetwork. No, that's a dying fork of Bitcoin... No, it's called a temporary privacy. All the transactions are still kept on the blockchain, waiting for quantum computers to read all your "private" shitcoin transactions. Using P2P exchanges and lightning is more future proof because there's no blockchain, to keep all txs for QC to read in the future. No, even that's a premined and centralized shitcoin too. It doesn't matter it's sitting right under Bitcoin. It doesn't make it a less of shitcoin at all.
 
-4h ago
-
----
-
-**[I built an open-source REST API for Bitcoin Core -- here's what it does](https://www.reddit.com/r/Bitcoin/comments/1ro8h6e/i_built_an_opensource_rest_api_for_bitcoin_core/)**
-
-I built a free Bitcoin REST API. No signup, no API key needed for read endpoints. Just curl it: curl https://bitcoinsapi.com/api/v1/fees/recommended It is called Satoshi API -- 74 endpoints returning analyzed, structured Bitcoin data. Instead of just telling you the fee rate is 4 sat/vB, it tells you "Fees are low. Good time to send." It scores mempool congestion, analyzes blocks, and streams fee updates in real time. **What makes it different:** - **Free, no signup.** All GET endpoints work without an API key at bitcoinsapi.com. - **74 endpoints.** Blocks, transactions, fees, mempool, mining stats, address lookups, and more. - **Analyzed data.** Fee recommendations with context, congestion scores, block weight analysis. - **AI-ready.** The only Bitcoin API with MCP support (listed on the official Anthropic MCP Registry), meaning AI assistants like Claude can query Bitcoin data directly. - **Self-hostable.** `pip install satoshi-api` to run on your own node with full sovereignty. Apache-2.0 licensed. This is a new project from a solo developer. I would love feedback from the community.
-
-4h ago
+12h ago
 
 ---
 
@@ -141,11 +133,19 @@ International Women’s Day and Bitcoin nearing its 20 millionth coin make for a
 
 ---
 
+**[I built an open-source REST API for Bitcoin Core -- here's what it does](https://www.reddit.com/r/Bitcoin/comments/1ro8h6e/i_built_an_opensource_rest_api_for_bitcoin_core/)**
+
+I built a free Bitcoin REST API. No signup, no API key needed for read endpoints. Just curl it: curl https://bitcoinsapi.com/api/v1/fees/recommended It is called Satoshi API -- 74 endpoints returning analyzed, structured Bitcoin data. Instead of just telling you the fee rate is 4 sat/vB, it tells you "Fees are low. Good time to send." It scores mempool congestion, analyzes blocks, and streams fee updates in real time. **What makes it different:** - **Free, no signup.** All GET endpoints work without an API key at bitcoinsapi.com. - **74 endpoints.** Blocks, transactions, fees, mempool, mining stats, address lookups, and more. - **Analyzed data.** Fee recommendations with context, congestion scores, block weight analysis. - **AI-ready.** The only Bitcoin API with MCP support (listed on the official Anthropic MCP Registry), meaning AI assistants like Claude can query Bitcoin data directly. - **Self-hostable.** `pip install satoshi-api` to run on your own node with full sovereignty. Apache-2.0 licensed. This is a new project from a solo developer. I would love feedback from the community.
+
+4h ago
+
+---
+
 **[Is now a good time to invest in bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rnt119/is_now_a_good_time_to_invest_in_bitcoin/)**
 
 I’m looking to invest in 1 bitcoin for about a year, but I heard some speculations that it’s going to keep falling, and even drop to zero. Just curious about when I should buy the bitcoin, or if I should keep waiting.
 
-17h ago
+18h ago
 
 ---
 
@@ -153,7 +153,7 @@ I’m looking to invest in 1 bitcoin for about a year, but I heard some speculat
 
 Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art Magazine, the world’s first publication dedicated entirely to the art and culture emerging around Bitcoin. Bitcoin Art Magazine is an independent publication documenting the artists, ideas, and visual language forming around Bitcoin as a new monetary system and cultural movement. Our goal is to preserve and elevate the work of artists engaging with Bitcoin not just as a subject, but as a philosophical and creative framework. The Genesis Edition features more than 150 pages of artwork and writing from Bitcoin artists around the world, including Fractal Encrypt, Madex, Mear One, Asanoha, and many others. The magazine focuses on traditional mediums such as painting, printmaking, and sculpture, with an emphasis on craftsmanship, material integrity, and visual storytelling. We believe the art being created today will shape how future generations understand this moment in history. Bitcoin Art Magazine exists to support and represent Bitcoin artists while giving collectors, readers, and listeners a deeper understanding of this cultural movement. Ultimately, we see Bitcoin art as part of a broader cultural renaissance still in its early stages — one that will continue to evolve as Bitcoin itself matures. Founded by Asanoha Block #912169 Genesis Edition cover art by FractalEncrypt
 
-19h ago
+20h ago
 
 ---
 
@@ -165,7 +165,7 @@ Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art 
 
 Murban crude, a key benchmark for barrels that can bypass the Strait of Hormuz, now trades at $103 per barrel.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -175,35 +175,43 @@ Forbes • 1d ago
 
 ---
 
-**[Got $1,000? Should You Buy Bitcoin or Cardano?](https://www.fool.com/investing/2026/03/08/got-1000-should-you-buy-bitcoin-or-cardano/)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2026/03/08/better-crypto-buy-bitcoin-vs-xrp/)**
 
-Value can stem from an asset's ability to change, or from its habit of staying the same.
+Both of these popular digital assets are trading significantly below their peaks.
 
-The Motley Fool • 4h ago
-
----
-
-**[Got $1,000? Should You Buy Bitcoin or Cardano?](https://finance.yahoo.com/news/got-1-000-buy-bitcoin-153200956.html)**
-
-Value can stem from an asset's ability to change, or from its habit of staying the same.
-
-Yahoo Finance • 4h ago
+The Motley Fool • 48m ago
 
 ---
 
-**[Bitcoin is still a great way to diversify portfolio even if it trades like a tech stock, analyst says](https://www.coindesk.com/markets/2026/03/08/bitcoin-is-still-a-great-way-to-diversify-portfolio-even-if-it-trades-like-a-tech-stock-analyst-says)**
+**[Bitcoin Treasuries Media Announces The Ultimate Bitcoin Vegas 2026 Kick-Off](https://www.prnewswire.com/news-releases/bitcoin-treasuries-media-announces-the-ultimate-bitcoin-vegas-2026-kick-off-302707641.html)**
 
-The central debate has shifted from whether bitcoin can survive to whether it can function as a sovereign reserve asset, as critics assess it by institutional standards.
+/PRNewswire/ -- Happening Before Conference Week, this is biggest corporate networking event with 500+ founders, operators, treasury leaders, investors, and...
 
-CoinDesk • 4h ago
+PR Newswire • 1h ago
 
 ---
 
-**[The Bettors on Polymarket Don't Think Bitcoin Will Hit $150,000 in March. Here's What I Think.](https://www.nasdaq.com/articles/bettors-polymarket-dont-think-bitcoin-will-hit-150000-march-heres-what-i-think)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-2)**
 
-Key PointsInvesting and betting are different, but prediction markets are hot.
+Key PointsHuge price drawdowns are nothing new to the Bitcoin community, and this crypto has always recovered in the past.
 
-Nasdaq • 17h ago
+Nasdaq • 54m ago
+
+---
+
+**[Is Bitcoin Going to $0?](https://finance.yahoo.com/news/bitcoin-going-0-102400104.html)**
+
+Is the market-leading cryptocurrency in danger of being disrupted?
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772997600)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1h ago
 
 ---
 
@@ -215,25 +223,15 @@ TradingView • 15h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772990100)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 2d ago
-
----
-
 **[Bitcoin slides to $67,000 as ’extreme fear’ grips crypto markets](https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-to-67000-as-extreme-fear-grips-crypto-markets-4548565)**
 
 Investing.com • 13h ago
 
 ---
 
-**[Why Leopold Aschenbrenner’s AI hedge fund is betting big on power companies and Bitcoin miners to fuel the AI boom](https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/)**
+**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
 
-New filings show how the former OpenAI researcher is translating his AGI thesis into billions of dollars of bets on electricity, AI infrastructure, and bitcoin mining companies.
-
-Fortune • 3d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -283,7 +281,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 A Go-based platform for running AI agents on schedules with tasks, skills, and persistent memory. Single binary, three operating modes — from single-node to distributed. - dneil5648/ductwork
 
-⬆️ 5 • 💬 8 • 6d ago • [GitHub](https://github.com/dneil5648/ductwork)
+⬆️ 5 • 💬 4 • 6d ago • [GitHub](https://github.com/dneil5648/ductwork)
 
 ---
 
@@ -319,13 +317,23 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 ## YouTube Videos: "bitcoin"
 
+**[Trump Just BROKE the Petrodollar (Bitcoin Repricing IMMINENT!)](https://www.youtube.com/watch?v=-8lS8eunbNo)**
+
+Global tensions, oil politics, and the petrodollar system may be colliding in real time. As geopolitical pressure builds and fiat ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 176 • ⏱️ 15:47 • 1d ago
+
+---
+
 **[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
 
 Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 149 • ⏱️ 11:32 • 1d ago
+👁️ 40K • 👍 2K • 💬 150 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -335,17 +343,7 @@ Will bitcoin crash again to new lows or has it bottomed? We explain why bitcoin'
 
 📺 Alessio Rastani
 
-👁️ 22K • 👍 2K • 💬 238 • ⏱️ 4:28 • 13h ago
-
----
-
-**[Trump Just BROKE the Petrodollar (Bitcoin Repricing IMMINENT!)](https://www.youtube.com/watch?v=-8lS8eunbNo)**
-
-Global tensions, oil politics, and the petrodollar system may be colliding in real time. As geopolitical pressure builds and fiat ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 172 • ⏱️ 15:47 • 1d ago
+👁️ 25K • 👍 2K • 💬 250 • ⏱️ 4:28 • 13h ago
 
 ---
 
@@ -355,7 +353,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 42K • 👍 2K • 💬 13 • ⏱️ 59:14 • 1d ago
+👁️ 44K • 👍 2K • 💬 13 • ⏱️ 59:14 • 1d ago
+
+---
+
+**[WARNING: Bitcoin $67K — On-Chain Data Reveals $50K Target](https://www.youtube.com/watch?v=BbL0gFLT8F8)**
+
+Bitcoin is currently at $67K, and on-chain data is pointing directly toward $50K. In this video, I break down why the Fear & Greed ...
+
+📺 Mystery Market Vault
+
+👁️ 621 • 👍 65 • 💬 11 • ⏱️ 27:48 • 2h ago
 
 ---
 
@@ -365,7 +373,7 @@ Oil is spiking and according to 65 years of data, that's bad news for crypto. In
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 404 • 💬 34 • ⏱️ 15:45 • 13h ago
+👁️ 9K • 👍 416 • 💬 35 • ⏱️ 15:45 • 13h ago
 
 ---
 
@@ -375,7 +383,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 121 • 💬 90 • ⏱️ 15:06 • 15h ago
+👁️ 4K • 👍 132 • 💬 92 • ⏱️ 15:06 • 15h ago
+
+---
+
+**[PANIC Bitcoin and Crypto DUMPING HARD as Oil Supply is FXCKED](https://www.youtube.com/watch?v=WtSVOCitMmM)**
+
+PANIC Bitcoin and Crypto IMPACTED as Oil PRICE UNCERTAIN! VCs Warn AI Stealing BILLIONS from Crypto! GM babies ...
+
+📺 CryptoWendyO
+
+👁️ 2K • 👍 317 • 💬 4 • ⏱️ 14:19 • 3h ago
 
 ---
 
@@ -385,17 +403,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged https://ww
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 324 • 💬 2 • ⏱️ 19:14 • 1d ago
-
----
-
-**[$1.5M Bitcoin by 2028 - Hyperbitcoinization Case Builds](https://www.youtube.com/watch?v=BpKfLfGbf0Q)**
-
-Full uncensored livestream daily on Rumble: https://rumble.com/c/BitcoinNewsAlerts X Follow me: https://x.com/BTCNewsAlerts ...
-
-📺 Bitcoin News Alerts
-
-👁️ 2K • 👍 99 • 💬 64 • ⏱️ 26:02 • 22h ago
+👁️ 6K • 👍 327 • 💬 2 • ⏱️ 19:14 • 1d ago
 
 ---
 
@@ -405,15 +413,7 @@ Bitcoin price analysis and price predictions for March 2026 FREE TRAINING: https
 
 📺 Ivan on Tech
 
-👁️ 13K • 👍 1K • 💬 52 • ⏱️ 14:39 • 13h ago
-
----
-
-**[Why Bitcoin Keeps Dropping](https://www.youtube.com/watch?v=z6Mm8vNGFtk)**
-
-📺 Andrei Jikh
-
-👁️ 75K • 👍 2K • 💬 38 • ⏱️ 1:12 • 2d ago
+👁️ 15K • 👍 1K • 💬 55 • ⏱️ 14:39 • 13h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T20:28:21.022598+00:00'
+updated: '2026-03-08T20:52:28.867561+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 20:28 UTC  
+**Last Updated:** March 08, 2026 at 20:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
 
-3h ago
+4h ago
 
 ---
 
 **[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +66,15 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
 
-4h ago
+5h ago
+
+---
+
+**[Building simple and inexpensive animatronic](https://www.reddit.com/r/robotics/comments/1roe357/building_simple_and_inexpensive_animatronic/)**
+
+My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a simple kit or something we can put together without a high cost. She wants to be a few feet high and resemble this Vee character https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2F2c7c7e9f-fd4a-4b7e-99ad-53216dbdb05b%2Fscale-to-width%2F755&f=1&nofb=1&ipt=3435994b5d38266f04bb4caa669e22dbcf85757bd86dffc342a6c8eaab344891 I work in robotics but haven't completed many hobby kits. I'm comfortable soldering and with tools but I don't understand kinematics or anything. Please let me know if you can provide suggestions?
+
+1h ago
 
 ---
 
@@ -80,15 +88,15 @@ Hi everyone I'm a grad french student getting into robotics simulation and I've 
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-21h ago
+22h ago
 
 ---
 
-**[Building simple and inexpensive animatronic](https://www.reddit.com/r/robotics/comments/1roe357/building_simple_and_inexpensive_animatronic/)**
+**[A Practical Guide to Camera Calibration](https://www.reddit.com/r/robotics/comments/1ro89s7/a_practical_guide_to_camera_calibration/)**
 
-My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a simple kit or something we can put together without a high cost. She wants to be a few feet high and resemble this Vee character https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2F2c7c7e9f-fd4a-4b7e-99ad-53216dbdb05b%2Fscale-to-width%2F755&f=1&nofb=1&ipt=3435994b5d38266f04bb4caa669e22dbcf85757bd86dffc342a6c8eaab344891 I work in robotics but haven't completed many hobby kits. I'm comfortable soldering and with tools but I don't understand kinematics or anything. Please let me know if you can provide suggestions?
+I wrote a guide covering the full camera calibration process — data collection, model fitting, and diagnosing calibration quality. It covers both OpenCV-style and spline-based distortion models. As is covered in the guide, this is how I calibrate intrinsics of stereo cameras for use on the end-effector of a masonry robot at Monumental
 
-54m ago
+🔗 [GitHub](https://github.com/Robertleoj/lensboy/blob/main/docs/calibration_guide.md) • 4h ago
 
 ---
 
@@ -96,13 +104,7 @@ My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a si
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
 
-9h ago
-
----
-
-**[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
-
-21h ago
+10h ago
 
 ---
 
@@ -122,37 +124,15 @@ Fortune • 1d ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 23h ago
+Futurism • 1d ago
 
 ---
 
-**[300+ student engineers compete at S.C. robotics finals in Lexington County](https://www.wltx.com/article/tech/300-student-engineers-compete-sc-robotics-finals-lexington-county/101-3d407c1c-2458-4d99-a1fd-35f5e6473e45)**
+**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
 
-Dozens of teams gathered at River Bluff High School Saturday to vie for a spot at the VEX Robotics World Championship in St. Louis this April.
+A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-WLTX • 4h ago
-
----
-
-**[OpenAI's robotics hardware lead resigns following deal with the Department of Defense](https://www.engadget.com/ai/openais-robotics-hardware-lead-resigns-following-deal-with-the-department-of-defense-195918599.html)**
-
-Caitlin Kalinowski explained on X that certain guardrails "deserved more deliberation than they got" when announcing her departure.
-
-Engadget • 5h ago
-
----
-
-**[Over 200 Teams Compete At Minnesota State VEX Robotics Championship In St. Cloud](https://wjon.com/vex-robotics-championship-mn/)**
-
-Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
-
-WJON • 8h ago
-
----
-
-**[‘Fertile ground’: How an OSU professor built one of Oregon’s most valuable startups](https://philomathnews.com/fertile-ground-how-an-osu-professor-built-one-of-oregons-most-valuable-startups/)**
-
-Philomath News • 2h ago
+NPR • 8m ago
 
 ---
 
@@ -160,21 +140,19 @@ Philomath News • 2h ago
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
-**[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
+**[Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury](https://techxplore.com/news/2026-03-robots-ai-evolves-legged-metamachines.html)**
 
-Forbes • 1d ago
+Tech Xplore • 20h ago
 
 ---
 
-**[Amazon lays off robotics staff in latest cuts](https://www.geekwire.com/2026/amazon-lays-off-robotics-staff-in-latest-cuts/)**
+**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
 
-The layoffs are separate from Amazon's broader cuts announced in January that impacted more than 16,000 corporate workers.
-
-GeekWire • 3d ago
+The Hill • 2d ago
 
 ---
 
@@ -183,6 +161,28 @@ GeekWire • 3d ago
 Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
 Fox Business • 3d ago
+
+---
+
+**[Inside Elon Musk's robot vision of the future](https://nypost.com/2026/03/08/tech/inside-elon-musks-robot-vision-of-the-future/)**
+
+The Tesla titan and other techies are bullish on ‘amazing abundance.’
+
+New York Post • 7h ago
+
+---
+
+**[Prediction: AI Robotics Will Be a $375 Billion Industry. This Stock Is Positioned to Win in 2026.](https://www.fool.com/investing/2026/03/05/prediction-ai-robotics-will-be-a-375-billion-indus/)**
+
+When all is said and done, practicality trumps technological "wow!"
+
+The Motley Fool • 2d ago
+
+---
+
+**[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
+
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -196,27 +196,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 593K • 👍 37K • 💬 4K • ⏱️ 16:54 • 5d ago
-
----
-
-**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
-
-In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
-
-📺 Tech Talkies
-
-👁️ 6K • 👍 305 • 💬 24 • ⏱️ 4:51 • 1d ago
-
----
-
-**[E23: NVIDIA&#39;s HUGE Robotics Announcements Will Change Everything](https://www.youtube.com/watch?v=wAlmgDudmkk)**
-
-Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (do this first!): https://tsy.link/gtc2026 » Jensen ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 6K • 👍 458 • 💬 24 • ⏱️ 29:53 • 5h ago
+👁️ 605K • 👍 37K • 💬 4K • ⏱️ 16:54 • 5d ago
 
 ---
 
@@ -226,7 +206,17 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 152K • 👍 2K • 💬 217 • ⏱️ 29:41 • 2d ago
+👁️ 161K • 👍 2K • 💬 231 • ⏱️ 29:41 • 2d ago
+
+---
+
+**[E23: NVIDIA&#39;s HUGE Robotics Announcements Will Change Everything](https://www.youtube.com/watch?v=wAlmgDudmkk)**
+
+Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (do this first!): https://tsy.link/gtc2026 » Jensen ...
+
+📺 Ticker Symbol: YOU
+
+👁️ 10K • 👍 628 • 💬 32 • ⏱️ 29:53 • 6h ago
 
 ---
 
@@ -236,17 +226,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 21K • 👍 771 • 💬 56 • ⏱️ 14:35 • 3d ago
-
----
-
-**[NEW &#39;Vector&#39; Robot Is The Raptor 2.0 | Dashing Blade Attack | War Robots](https://www.youtube.com/watch?v=9u07pQwNODk)**
-
-New Vector robot is here and it's the Raptor 2.0. Between this weekend and last weekend, we have an insane amount of new ...
-
-📺 PREDATOR WR
-
-👁️ 4K • 👍 241 • 💬 45 • ⏱️ 15:14 • 8h ago
+👁️ 22K • 👍 773 • 💬 56 • ⏱️ 14:35 • 3d ago
 
 ---
 
@@ -256,37 +236,57 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 35K • 👍 319 • 💬 10 • ⏱️ 3:35:12 • 20h ago
+👁️ 35K • 👍 326 • 💬 11 • ⏱️ 3:35:12 • 20h ago
 
 ---
 
-**[Joe Rogan Watches As Robot ROASTS Piers Morgan After He Tries Flirting With Her 🤖😂](https://www.youtube.com/watch?v=ZAD0rHMN310)**
+**[NEW &#39;Vector&#39; Robot Is The Raptor 2.0 | Dashing Blade Attack | War Robots](https://www.youtube.com/watch?v=9u07pQwNODk)**
 
-shorts #podcast #joerogan During a live interview, a TV host tries flirting with Sophia the robot… but her response completely ...
+New Vector robot is here and it's the Raptor 2.0. Between this weekend and last weekend, we have an insane amount of new ...
 
-📺 Unorthodox CEO
+📺 PREDATOR WR
 
-👁️ 8K • 👍 116 • 💬 1 • ⏱️ 0:47 • 8h ago
-
----
-
-**[Seedance 2.0 Robot Love and Death](https://www.youtube.com/watch?v=-s4hyBJ4t8U)**
-
-Seedance 2.0 Robot Love and Death Support me so I can keep making content by checking out my new metahuman course!
-
-📺 JSFILMZ
-
-👁️ 5K • 👍 220 • 💬 96 • ⏱️ 11:28 • 1d ago
+👁️ 5K • 👍 262 • 💬 52 • ⏱️ 15:14 • 8h ago
 
 ---
 
-**[I, Robot – When a Movie Feels Made by AI | Anatomy of a Failure](https://www.youtube.com/watch?v=pS1A_sIR_fM)**
+**[NEW Robot VECTOR will be a BIG PROBLEM in War Robots](https://www.youtube.com/watch?v=jPUWFiMaMnQ)**
 
-Get 10 Free Meals and your first box ship free with code FILMENTOFM at https://bit.ly/4aKycJe I, Robot is a 2004 Will Smith movie ...
+War Robots Gameplay: NEW Robot VECTOR is going to be annoying in WR. Here's my new YouTube Channel ⁨@ManniRAID⁩ ...
 
-📺 Filmento
+📺 Manni-Gaming
 
-👁️ 85K • 👍 6K • 💬 979 • ⏱️ 20:54 • 2d ago
+👁️ 5K • 👍 311 • 💬 101 • ⏱️ 15:18 • 8h ago
+
+---
+
+**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
+
+Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
+
+📺 Smokin' Silicon
+
+👁️ 16K • 👍 954 • 💬 81 • ⏱️ 10:52 • 1d ago
+
+---
+
+**[Prime Time CRAZY Robot Fighting! Round 2 of NHRL&#39;s 2026 Pro World Championships (March)](https://www.youtube.com/watch?v=-x5Fzq4Hig0)**
+
+The 2026 NHRL Pro World Championship Season is HERE! This is Round 2. This. Is. Prime Time! We are down to the final 8 bots ...
+
+📺 NHRL
+
+👁️ 16K • 👍 377 • 💬 18 • ⏱️ 3:23:56 • 16h ago
+
+---
+
+**[Joe Rogan Is Worried About Robot Eyes](https://www.youtube.com/watch?v=Sqv1fuF9r0w)**
+
+Joe Rogan shares his concerns about a future where advanced robotic eyes could surpass human vision and change what it ...
+
+📺 DATARK
+
+👁️ 41K • 👍 559 • 💬 6 • ⏱️ 0:25 • 3d ago
 
 ---
 
