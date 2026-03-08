@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T22:25:40.399597+00:00'
+updated: '2026-03-08T22:49:49.057476+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 22:25 UTC  
+**Last Updated:** March 08, 2026 at 22:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
 
-5h ago
+6h ago
 
 ---
 
 **[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a simple kit or something we can put together without a high cost. She wants to be a few feet high and resemble this Vee character https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2F2c7c7e9f-fd4a-4b7e-99ad-53216dbdb05b%2Fscale-to-width%2F755&f=1&nofb=1&ipt=3435994b5d38266f04bb4caa669e22dbcf85757bd86dffc342a6c8eaab344891 I work in robotics but haven't completed many hobby kits. I'm comfortable soldering and with tools but I don't understand kinematics or anything. Please let me know if you can provide suggestions? I was thinking something along these lines for the base but it would be taller https://www.robotshop.com/products/lynxmotion-biped-brat-kit-no-servos-or-electronics-brat-blk?qd=3863c5f9d2d553499b3f180b869b6336
 
-2h ago
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a si
 
 Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone I'm a grad french student getting into robotics simulation and I've 
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-23h ago
+1d ago
 
 ---
 
@@ -116,7 +116,7 @@ I wrote a guide covering the full camera calibration process — data collection
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 
@@ -140,7 +140,7 @@ WLTX • 6h ago
 
 OpenAI’s robotics lead has left the company due to its partnership with the Pentagon. Caitlin Kalinowski announced her departure from the artificial
 
-PYMNTS.com • 21m ago
+PYMNTS.com • 45m ago
 
 ---
 
@@ -156,7 +156,7 @@ WJON • 10h ago
 
 STAFFORD – At a time when education often feels bigger, faster and more crowded, one local school is proving that small can be powerful. With only 50 students in total, Lighthouse Christian Academy (LCA) is combining faith-based learning with hands-on academics, giving its middle schoolers tools typically found in far larger districts.   At […]
 
-Jersey Shore Online • 6h ago
+Jersey Shore Online • 7h ago
 
 ---
 
@@ -170,13 +170,13 @@ Philomath News • 4h ago
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
 **[Geared for engineering: Zionsville Middle School students learn STEM and teamwork skills through robotics](https://youarecurrent.com/2026/03/08/geared-for-engineering-zionsville-middle-school-students-learn-stem-and-teamwork-skills-through-robotics/)**
 
-Current Publishing • 4h ago
+Current Publishing • 5h ago
 
 ---
 
@@ -216,7 +216,7 @@ Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (d
 
 📺 Ticker Symbol: YOU
 
-👁️ 10K • 👍 628 • 💬 32 • ⏱️ 29:53 • 7h ago
+👁️ 10K • 👍 628 • 💬 32 • ⏱️ 29:53 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ War Robots Gameplay: NEW Robot VECTOR is going to be annoying in WR. Here's my n
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 311 • 💬 101 • ⏱️ 15:18 • 9h ago
+👁️ 5K • 👍 311 • 💬 101 • ⏱️ 15:18 • 10h ago
 
 ---
 
