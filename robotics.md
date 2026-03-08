@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T22:49:49.057476+00:00'
+updated: '2026-03-08T23:26:20.456788+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 22:49 UTC  
+**Last Updated:** March 08, 2026 at 23:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,15 @@ Robotics researcher Holly Yanco describes research looking at how people respond
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-18h ago
+19h ago
+
+---
+
+**[For those deploying robots IRL... where does simulation fall short for you?](https://www.reddit.com/r/robotics/comments/1ro7vjq/for_those_deploying_robots_irl_where_does/)**
+
+Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
+
+7h ago
 
 ---
 
@@ -70,11 +78,11 @@ My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a si
 
 ---
 
-**[For those deploying robots IRL... where does simulation fall short for you?](https://www.reddit.com/r/robotics/comments/1ro7vjq/for_those_deploying_robots_irl_where_does/)**
+**[I am working on a general model](https://www.reddit.com/r/robotics/comments/1rojcwe/i_am_working_on_a_general_model/)**
 
-Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
+Hey guys I have been working on this new approach to build a general model, recently have completed it. Have tested it on physics based escape rooms and mujoco, did true few shot learning and well generalization from blank. Tried with small models too connecting it as adapter in core layers, it can few shot build up on existing knowledge, make system smarter, can do online learning. Haven't tested it at scale but should work well. Thoughts? Am thinking to put a small demo on hugging face and reaching out to investors.
 
-7h ago
+24m ago
 
 ---
 
@@ -100,14 +108,6 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 ---
 
-**[A Practical Guide to Camera Calibration](https://www.reddit.com/r/robotics/comments/1ro89s7/a_practical_guide_to_camera_calibration/)**
-
-I wrote a guide covering the full camera calibration process — data collection, model fitting, and diagnosing calibration quality. It covers both OpenCV-style and spline-based distortion models. As is covered in the guide, this is how I calibrate intrinsics of stereo cameras for use on the end-effector of a masonry robot at Monumental
-
-🔗 [GitHub](https://github.com/Robertleoj/lensboy/blob/main/docs/calibration_guide.md) • 6h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,11 +120,11 @@ NPR • 2h ago
 
 ---
 
-**[Amazon Staffers Learning Hard Lesson as Company Cuts Robotics Jobs](https://futurism.com/robots-and-machines/amazon-robotics-layoffs)**
+**[Amazon cuts jobs in robotics unit as layoffs continue: report](https://www.foxbusiness.com/technology/amazon-cuts-jobs-robotics-unit-layoffs-continue)**
 
-The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
+Amazon cut at least 100 positions in its robotics unit, continuing a sweeping corporate downsizing tied to artificial intelligence efficiencies and cost controls.
 
-Futurism • 1d ago
+Fox Business • 3d ago
 
 ---
 
@@ -132,7 +132,7 @@ Futurism • 1d ago
 
 Dozens of teams gathered at River Bluff High School Saturday to vie for a spot at the VEX Robotics World Championship in St. Louis this April.
 
-WLTX • 6h ago
+WLTX • 7h ago
 
 ---
 
@@ -140,7 +140,7 @@ WLTX • 6h ago
 
 OpenAI’s robotics lead has left the company due to its partnership with the Pentagon. Caitlin Kalinowski announced her departure from the artificial
 
-PYMNTS.com • 45m ago
+PYMNTS.com • 1h ago
 
 ---
 
@@ -148,21 +148,13 @@ PYMNTS.com • 45m ago
 
 Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
 
-WJON • 10h ago
-
----
-
-**[Ocean County Students Build Their Futures With Robotics Program](https://www.jerseyshoreonline.com/southern-ocean/ocean-county-students-build-their-futures-with-robotics-program/)**
-
-STAFFORD – At a time when education often feels bigger, faster and more crowded, one local school is proving that small can be powerful. With only 50 students in total, Lighthouse Christian Academy (LCA) is combining faith-based learning with hands-on academics, giving its middle schoolers tools typically found in far larger districts.   At […]
-
-Jersey Shore Online • 7h ago
+WJON • 11h ago
 
 ---
 
 **[‘Fertile ground’: How an OSU professor built one of Oregon’s most valuable startups](https://philomathnews.com/fertile-ground-how-an-osu-professor-built-one-of-oregons-most-valuable-startups/)**
 
-Philomath News • 4h ago
+Philomath News • 5h ago
 
 ---
 
@@ -174,15 +166,23 @@ Business Insider • 14h ago
 
 ---
 
-**[Geared for engineering: Zionsville Middle School students learn STEM and teamwork skills through robotics](https://youarecurrent.com/2026/03/08/geared-for-engineering-zionsville-middle-school-students-learn-stem-and-teamwork-skills-through-robotics/)**
+**[Ocean County Students Build Their Futures With Robotics Program](https://www.jerseyshoreonline.com/southern-ocean/ocean-county-students-build-their-futures-with-robotics-program/)**
 
-Current Publishing • 5h ago
+STAFFORD – At a time when education often feels bigger, faster and more crowded, one local school is proving that small can be powerful. With only 50 students in total, Lighthouse Christian Academy (LCA) is combining faith-based learning with hands-on academics, giving its middle schoolers tools typically found in far larger districts.   At […]
+
+Jersey Shore Online • 7h ago
 
 ---
 
 **[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
 
 Forbes • 1d ago
+
+---
+
+**[Geared for engineering: Zionsville Middle School students learn STEM and teamwork skills through robotics](https://youarecurrent.com/2026/03/08/geared-for-engineering-zionsville-middle-school-students-learn-stem-and-teamwork-skills-through-robotics/)**
+
+Current Publishing • 5h ago
 
 ---
 
@@ -196,77 +196,17 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 605K • 👍 37K • 💬 4K • ⏱️ 16:54 • 5d ago
+👁️ 618K • 👍 38K • 💬 4K • ⏱️ 16:54 • 5d ago
 
 ---
 
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
+**[HONOR ROBOT PHONE: A Revolutionary Invention](https://www.youtube.com/watch?v=-uv7SE3_WzA)**
 
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
+It's not just a phone; it's a revolutionary invention that uses advanced actuators to move its head (the camera module) and interact ...
 
-📺 CGTN
+📺 SciVion
 
-👁️ 161K • 👍 2K • 💬 231 • ⏱️ 29:41 • 2d ago
-
----
-
-**[E23: NVIDIA&#39;s HUGE Robotics Announcements Will Change Everything](https://www.youtube.com/watch?v=wAlmgDudmkk)**
-
-Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (do this first!): https://tsy.link/gtc2026 » Jensen ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 10K • 👍 628 • 💬 32 • ⏱️ 29:53 • 8h ago
-
----
-
-**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
-
-Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
-
-📺 AI Revolution
-
-👁️ 22K • 👍 773 • 💬 56 • ⏱️ 14:35 • 3d ago
-
----
-
-**[Non-Stop INSANE Robot Fighting Action: Round 2 of NHRL&#39;s 2026 Pro World Championship KO Show (March)](https://www.youtube.com/watch?v=7tQ5Gyr3SYE)**
-
-Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is here: https://youtube.com/live/-x5Fzq4Hig0 ...
-
-📺 NHRL
-
-👁️ 35K • 👍 326 • 💬 11 • ⏱️ 3:35:12 • 22h ago
-
----
-
-**[NEW &#39;Vector&#39; Robot Is The Raptor 2.0 | Dashing Blade Attack | War Robots](https://www.youtube.com/watch?v=9u07pQwNODk)**
-
-New Vector robot is here and it's the Raptor 2.0. Between this weekend and last weekend, we have an insane amount of new ...
-
-📺 PREDATOR WR
-
-👁️ 5K • 👍 262 • 💬 52 • ⏱️ 15:14 • 10h ago
-
----
-
-**[NEW Robot VECTOR will be a BIG PROBLEM in War Robots](https://www.youtube.com/watch?v=jPUWFiMaMnQ)**
-
-War Robots Gameplay: NEW Robot VECTOR is going to be annoying in WR. Here's my new YouTube Channel ⁨@ManniRAID⁩ ...
-
-📺 Manni-Gaming
-
-👁️ 5K • 👍 311 • 💬 101 • ⏱️ 15:18 • 10h ago
-
----
-
-**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
-
-Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
-
-📺 Smokin' Silicon
-
-👁️ 16K • 👍 954 • 💬 81 • ⏱️ 10:52 • 1d ago
+👁️ 651 • 💬 2 • ⏱️ 0:30 • 3h ago
 
 ---
 
@@ -276,17 +216,77 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 2. This. Is. 
 
 📺 NHRL
 
-👁️ 16K • 👍 377 • 💬 18 • ⏱️ 3:23:56 • 18h ago
+👁️ 16K • 👍 396 • 💬 21 • ⏱️ 3:23:56 • 19h ago
 
 ---
 
-**[Joe Rogan Is Worried About Robot Eyes](https://www.youtube.com/watch?v=Sqv1fuF9r0w)**
+**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
 
-Joe Rogan shares his concerns about a future where advanced robotic eyes could surpass human vision and change what it ...
+In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
 
-📺 DATARK
+📺 Tech Talkies
 
-👁️ 41K • 👍 559 • 💬 6 • ⏱️ 0:25 • 4d ago
+👁️ 7K • 👍 332 • 💬 26 • ⏱️ 4:51 • 1d ago
+
+---
+
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
+
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
+
+📺 CGTN
+
+👁️ 171K • 👍 2K • 💬 257 • ⏱️ 29:41 • 2d ago
+
+---
+
+**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
+
+Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
+
+📺 AI Revolution
+
+👁️ 22K • 👍 776 • 💬 56 • ⏱️ 14:35 • 3d ago
+
+---
+
+**[2026 CA District Half Moon Bay Event - Day 3](https://www.youtube.com/watch?v=JOcMhq_u9Es)**
+
+2026 CA District Half Moon Bay Event - Broadcast Day 3 https://frc-events.firstinspires.org/2026/CAHAL (c) 2026 FIRST Robotics ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 6K • 👍 60 • 5d ago
+
+---
+
+**[NEW Robot VECTOR will be a BIG PROBLEM in War Robots](https://www.youtube.com/watch?v=jPUWFiMaMnQ)**
+
+War Robots Gameplay: NEW Robot VECTOR is going to be annoying in WR. Here's my new YouTube Channel ⁨@ManniRAID⁩ ...
+
+📺 Manni-Gaming
+
+👁️ 6K • 👍 354 • 💬 110 • ⏱️ 15:18 • 10h ago
+
+---
+
+**[Cockroach Inspired Robot Crawls Through Impossible Cracks 🤯 #robotics #shorts](https://www.youtube.com/watch?v=sv92OMP4C2E)**
+
+A Robot Inspired By One Of Nature's Toughest Survivors Scientists at UC Berkeley studied how cockroaches squeeze through ...
+
+📺 EcoZora
+
+👁️ 3K • 👍 25 • 💬 5 • ⏱️ 0:07 • 14h ago
+
+---
+
+**[Inside China’s Plan To Lead The World In Advanced Robotics | Insight](https://www.youtube.com/watch?v=Fc-nKxWkYxs)**
+
+You've seen the Unitree G1 robots' display of martial skill at the Spring Festival Gala. It's a sign of China moving fast to become a ...
+
+📺 CNA Insider
+
+👁️ 51K • 👍 591 • 💬 192 • ⏱️ 46:28 • 2d ago
 
 ---
 
