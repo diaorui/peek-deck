@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T21:24:51.705060+00:00'
+updated: '2026-03-08T21:46:21.119264+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 21:24 UTC  
+**Last Updated:** March 08, 2026 at 21:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -129,7 +129,7 @@ For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bit
 
 International Women’s Day and Bitcoin nearing its 20 millionth coin make for a meaningful overlap. It highlights not just Bitcoin’s scarcity, but also the fact that the network’s growth, credibility, and global adoption have been shaped by women as well as men. As Bitcoin approaches 20 million mined, meaning roughly 95% of its total 21 million supply has been issued, the world is reminded how rare and finite it is, with the final 1 million set to be released only gradually over many future decades. ￼ That milestone matters because Bitcoin is no longer some early-stage experiment with endless issuance ahead of it. It is entering a phase where almost all of its supply already exists, and the remaining coins will come out at an increasingly slow pace due to the halving cycle. This strengthens the case for Bitcoin as a scarce monetary asset rather than just a speculative technology. ￼ Tying that to International Women’s Day adds another layer: Bitcoin’s story has also been shaped by women who helped build, explain, and legitimize it. Elizabeth Stark has been central to the development of Lightning infrastructure through Lightning Labs, helping advance Bitcoin’s scaling and payment usability. Lyn Alden has played a major role in explaining Bitcoin’s monetary properties, energy use, and macro significance to a broad global audience through her research and writing. Caitlin Long has been influential in pushing for regulated digital-asset custody and payment infrastructure through Custodia Bank, helping bridge Bitcoin and the traditional financial system. ￼ So the significance is this: on a day dedicated to recognizing women’s contributions, Bitcoin is nearing one of the clearest demonstrations of its core promise, absolute scarcity. And that promise did not reach global relevance on code alone. it was also advanced by women who built infrastructure, shaped public understanding, and pushed adoption forward.
 
-1h ago
+2h ago
 
 ---
 
@@ -145,7 +145,7 @@ I built a free Bitcoin REST API. No signup, no API key needed for read endpoints
 
 I’m looking to invest in 1 bitcoin for about a year, but I heard some speculations that it’s going to keep falling, and even drop to zero. Just curious about when I should buy the bitcoin, or if I should keep waiting.
 
-18h ago
+19h ago
 
 ---
 
@@ -165,7 +165,7 @@ Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art 
 
 Murban crude, a key benchmark for barrels that can bypass the Strait of Hormuz, now trades at $103 per barrel.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
