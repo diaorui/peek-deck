@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T18:36:34.427297+00:00'
+updated: '2026-03-08T19:24:17.018096+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 18:36 UTC  
+**Last Updated:** March 08, 2026 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 **[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-14h ago
+15h ago
 
 ---
 
@@ -58,7 +58,7 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ Robotics researcher Holly Yanco describes research looking at how people respond
 
 Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
 
-2h ago
+3h ago
 
 ---
 
@@ -88,19 +88,19 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
 
-7h ago
+8h ago
 
 ---
 
 **[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-19h ago
+20h ago
 
 ---
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 20h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 21h ago
 
 ---
 
@@ -120,7 +120,7 @@ Fortune • 1d ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 21h ago
+Futurism • 22h ago
 
 ---
 
@@ -128,7 +128,7 @@ Futurism • 21h ago
 
 Dozens of teams gathered at River Bluff High School Saturday to vie for a spot at the VEX Robotics World Championship in St. Louis this April.
 
-WLTX • 2h ago
+WLTX • 3h ago
 
 ---
 
@@ -136,7 +136,7 @@ WLTX • 2h ago
 
 Caitlin Kalinowski explained on X that certain guardrails "deserved more deliberation than they got" when announcing her departure.
 
-Engadget • 3h ago
+Engadget • 4h ago
 
 ---
 
@@ -144,13 +144,13 @@ Engadget • 3h ago
 
 Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
 
-WJON • 6h ago
+WJON • 7h ago
 
 ---
 
 **[‘Fertile ground’: How an OSU professor built one of Oregon’s most valuable startups](https://philomathnews.com/fertile-ground-how-an-osu-professor-built-one-of-oregons-most-valuable-startups/)**
 
-Philomath News • 26m ago
+Philomath News • 1h ago
 
 ---
 
@@ -158,13 +158,13 @@ Philomath News • 26m ago
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
 **[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ Forbes • 22h ago
 
 STAFFORD – At a time when education often feels bigger, faster and more crowded, one local school is proving that small can be powerful. With only 50 students in total, Lighthouse Christian Academy (LCA) is combining faith-based learning with hands-on academics, giving its middle schoolers tools typically found in far larger districts.   At […]
 
-Jersey Shore Online • 2h ago
+Jersey Shore Online • 3h ago
 
 ---
 
@@ -212,7 +212,7 @@ Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (d
 
 📺 Ticker Symbol: YOU
 
-👁️ 6K • 👍 458 • 💬 24 • ⏱️ 29:53 • 3h ago
+👁️ 6K • 👍 458 • 💬 24 • ⏱️ 29:53 • 4h ago
 
 ---
 
@@ -242,7 +242,7 @@ New Vector robot is here and it's the Raptor 2.0. Between this weekend and last 
 
 📺 PREDATOR WR
 
-👁️ 4K • 👍 241 • 💬 45 • ⏱️ 15:14 • 6h ago
+👁️ 4K • 👍 241 • 💬 45 • ⏱️ 15:14 • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 35K • 👍 319 • 💬 10 • ⏱️ 3:35:12 • 18h ago
+👁️ 35K • 👍 319 • 💬 10 • ⏱️ 3:35:12 • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ shorts #podcast #joerogan During a live interview, a TV host tries flirting with
 
 📺 Unorthodox CEO
 
-👁️ 8K • 👍 116 • 💬 1 • ⏱️ 0:47 • 6h ago
+👁️ 8K • 👍 116 • 💬 1 • ⏱️ 0:47 • 7h ago
 
 ---
 
