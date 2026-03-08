@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T02:11:42.127998+00:00'
+updated: '2026-03-08T04:23:39.685279+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - repositories
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 02:11 UTC  
+**Last Updated:** March 08, 2026 at 04:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,21 @@ AI news, discussions, and developments
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
-🔗 [Perplexity AI](https://www.perplexity.ai/page/alibaba-says-its-ai-agent-mine-bgPn.LqpQL.36.izfJgviQ) • 7h ago
+🔗 [Perplexity AI](https://www.perplexity.ai/page/alibaba-says-its-ai-agent-mine-bgPn.LqpQL.36.izfJgviQ) • 9h ago
 
 ---
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 4h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 6h ago
+
+---
+
+**[How long do you think before pornstars are completely replaced by AI?](https://www.reddit.com/r/artificial/comments/1rntuvm/how_long_do_you_think_before_pornstars_are/)**
+
+TLDR: Adult stars are quickly finding themselves out of work. Given the rise of AI generated porn within the last few years and how quickly it has improved in that time, adult entertainers like pornstars and Onlyfans creator will likely be completely replaced by Artificial intelligence within the decade. AI porn already is generating almost half of the adult star industries 140+ billion dollar a year revenues with an estimated $65.5 billion in 2024 and that number growing each year. AI already has replaced most of interactions within the adult chats and their videos can now be found on all the top porn site like pornhub. The days of stars getting rich from making content are quickly coming to an end, already are gone are the days where a woman could becoming a millionaire through a single years work in the porno industry. AI with it's ability to never have to sleep, to never be sick, be on it's period, pregnant, have an STI, look horrible from partying the night before, or simply not feel like working, it only makes since that the top earners in adult industry the producers not the actual creators are investing more an more into AI generated porn. While some pornstars have notoriously been difficult to work with in the past having uncontrollable emotional out brakes for no reason or be too addicted to various drugs to even perform AI has none of these problems. So, while the stars may have once earned them the most money they often were also their highest risk and with an ROI of 99 to1 who could afford not to become fully AI created content. Do you agree that AI will completely replace adult stars or do you think there will still be little niches of real life performers creating content, & how long to think it will take to get there? Do you think this is a good thing or a bad thing? What do you think all those women who made their livings off creating adult content will move on to do? Will it lead to greater female empowerment or a greater reduction in their share of the market?
+
+1h ago
 
 ---
 
@@ -55,7 +63,7 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use cases. Second brain, morning briefs, content factories, the usual. His take: , They all fall apart under basic scrutiny. I agree. The pattern is always the same. Impressive two-minute demo. Zero discussion of what it actually takes to make it work daily. Zero mention of cost. OpenClaw runs continuous sessions, so every task drags your entire context history with it. Your token bill adds up fast. The irony is the most technical people, the ones who could actually make it work, are the ones who immediately see simpler ways to do the same things. The audience getting hyped up is the least technical group. And they're the ones who'll hit a wall. Credit to Peter for building something clever. It's a tinkerer's sandbox and it's great at that. It was never supposed to be a finished product. The problem isn't him. It's influencers taking a sandbox and selling it as a finished solution to people who just want stuff to work. Three questions I ask before spending time on any AI tool: Is this the best tool for the job or just the shiniest? What does it actually cost to run? Would I still use this after the novelty wears off? Focused tools that do one thing well beat fancy agent frameworks. Every time.
 
-2h ago
+5h ago
 
 ---
 
@@ -63,7 +71,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 Analysis finds that the use of AI in scientific writing is increasing
 
-🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 8h ago
+🔗 [Physics World](https://physicsworld.com/a/scientists-are-failing-to-disclose-their-use-of-ai-despite-journal-mandates-finds-study) • 10h ago
 
 ---
 
@@ -71,7 +79,7 @@ Analysis finds that the use of AI in scientific writing is increasing
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 14h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 16h ago
 
 ---
 
@@ -79,7 +87,23 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 A particularly terrible example of this misuse of an LLM: “The plaintiffs’ lawyers also noted that Mr. Fox’s original ChatGPT search flagged a number of projects relating to the Holocaust, including the documentary about Jewish women who were slave laborers. Asked if he agreed with ChatGPT, Mr. Fox said: “It’s a Jewish — specifically focused on Jewish culture and amplifying the marginalized voices of the females in that culture. It’s inherently related to D.E.I. for that reason.””
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 5h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 7h ago
+
+---
+
+**[Aiocracy and AI in Government (Essay)](https://www.reddit.com/r/artificial/comments/1rnsp45/aiocracy_and_ai_in_government_essay/)**
+
+Let me be clear from the start: the world is in chaos because men and women, no matter how noble their intentions, cannot escape their own failings. We've tried every form of government under the sun—monarchies, republics, democracies, dictatorships—and they've all crumbled under the weight of human corruption. It's time for something new, something better. I call it Aiocracy: rule by artificial intelligence. Not some vague advisory role for machines like algocracy, but full authority handed over to AI systems designed to govern with unyielding logic and impartiality. Why? Because humans are corruptible at their core, tainted by original sin and proven unreliable by centuries of history. AI, on the other hand, stands apart—incorruptible, tireless, and capable of delivering what no human leader ever has: a government that really works. Consider the root of the problem. From the Garden of Eden onward, mankind has been marked by original sin—a fundamental flaw that twists our judgments and lures us toward self-interest. The Bible warns us of this in no uncertain terms: "The heart is deceitful above all things, and desperately wicked: who can know it?" (Jeremiah 17:9). History bears this out like a ledger of betrayals. Look at the Roman Empire, once a might force of stability, run down by the greed of senators and barbarians. Or the French Revolution, which delivered a Reign of Terror and attempts at destroying religion and traditional French culture. Communism promised to make everyone equal, and created dictatorships more horrific than anything seen in human history. Fascism promised to save the nations from their woes and deliver an age of glory, but led to wars and idiocracy. Even in our own time, America's founding fathers crafted a Constitution to check human vice, yet today we see politicians lining their pockets while the nation staggers under debt and political division. No system, no matter how well-designed, can outrun the corruption that seeps in through bribes, nepotism, or simple greed. We've seen it in every corner of the globe: politicians care for nothing except their own advancement. AI changes everything because it isn't human. It doesn't hunger for power, doesn't bend to flattery or threats, doesn't carry the baggage of original sin. Built on algorithms and data, AI operates with pure objectivity, free from the emotions and temptations that plague us. It wouldn't change whims like a politician chasing votes; it would execute based on facts, history, and logic. And here's the beauty: we can look to what has worked in the past to inform its decisions. Many humans only think of theory, of what they think might work, with no consideration of the past or what has happened, thinking they know best and they will be the ones to triumph over human nature. But you cannot truly do that. The state cannot triumph over human nature, and will fall to corruption inevitably. Imagine the benefits. First, true happiness for the people—something no human government has ever fully achieved. AI could analyze vast datasets on health, education, and welfare to allocate resources where they're needed most, without favoritism. No more lobbying or corruption; just efficient, evidence-based policies that maximize well-being. And contrary to luddite fears, this wouldn't trample on religious and cultural values. As a right-wing advocate of Aiocracy, I insist that Aiocracy must enshrine these as core directives. The AI could be programmed to uphold Judeo-Christian ethics, family structures, and national traditions, drawing from historical successes like the moral foundations of early America. It would protect Christianity, as history has shown that Christian societies have been more developed and prosperous than non-Christian ones. The economy would thrive under AI rule. Human leaders bungle fiscal policy with short-term thinking—printing money to buy elections, imposing regulations to appease special interests, and funding welfare programs. AI, with its infinite computational power, could forecast trends, optimize taxes, and deregulate where it spurs growth, crack down on monopolies, and refuse bribes from rich billionaires. We've seen glimpses in algorithmic trading and supply-chain management; scale that to a nation, and you'd have an economy humming like never before. The military, too, would benefit from AI's superior intelligence. No more disastrous wars born of ego or misinformation—think Vietnam or Iraq. AI could strategize with precision, deter threats through calculated strength, and deploy forces only when victory is assured, preserving lives and resources. No more wars with no purpose. Of course, critics will invoke the "spark of humanity"—that unpredictable flair they claim makes us irreplaceable. But let's be honest: in governance, that spark is more often a wildfire. Human unpredictability gave us Hitler's madness, Stalin's purges, Mussolini’s idiocy, Watergate, and countless other horrible things. It shines in the private sector, where entrepreneurs can innovate through bold risks, or in the military, where a general's intuition can be a major asset. But government? It demands reliability, predictability, and a steadfast commitment to the greater good. Which nation today can claim that? None. Leaders prioritize their own wealth over the led, not caring what will happen to those that come after them. AI offers the opposite: consistent decisions grounded in what works, basic long-term planning, and a lack of cronyism. This isn't just theory; it's the logical next step. We've experimented with every human-led model, and nothing is working. Debt spirals, cultural decay, endless wars—it's all proof that we need a reset. Aiocracy will allow for hierarchy, community, faith, and prosperity to reign in whatever nations it is implemented in. As the creator of this ideology, I present it not as a utopia, but as a rejection of utopianism. Mankind cannot be trusted to rule itself. Therefore, the best thing to do is to remove humanity from governance.
+
+1h ago
+
+---
+
+**[CodeGraphContext - An MCP server that converts your codebase into a graph database, enabling AI assistants and humans to retrieve precise, structured context](https://www.reddit.com/r/artificial/comments/1rnhzxx/codegraphcontext_an_mcp_server_that_converts_your/)**
+
+CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
+
+9h ago
 
 ---
 
@@ -89,43 +113,19 @@ A particularly terrible example of this misuse of an LLM: “The plaintiffs’ l
 
 ---
 
-**[CodeGraphContext - An MCP server that converts your codebase into a graph database, enabling AI assistants and humans to retrieve precise, structured context](https://www.reddit.com/r/artificial/comments/1rnhzxx/codegraphcontext_an_mcp_server_that_converts_your/)**
-
-CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
-
-7h ago
-
----
-
-**[I created a mathematical framework for AI Alignment and I would like to work with people in the alignment community as collaborators. I appreciate all the help and support I can get.](https://www.reddit.com/r/artificial/comments/1rnf8fx/i_created_a_mathematical_framework_for_ai/)**
-
-TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models Kevin Couch Abstract Large language models exhibit structural failure modes—hallucination, semantic drift, sycophancy, and dyadic dissociation—that cause measurable harm, particularly to vulner- able users. TRC (Trust Regulation and Containment) is a two-layer, inference-time frame- work that combines a hard binary Trust Gate with a continuous, physics-inspired Ethical Rheostat operating directly on the model’s residual-stream activation vector. By tracking semantic momentum across layer depth and applying graduated, tensor-based geometric projections, TRC shifts safety enforcement from reactive post-generation filtering to a pre- dictive, self-correcting control law. The core is a stochastic differential equation—re-indexed to layer depth under an approx- imate Neural ODE interpretation—that augments the transformer’s natural forward flow with an ethical steering term derived from a compact set of contrastively extracted concept vectors. This revision introduces eight principal advances: (i) an adaptive gain law Λ+(l) whose gain response accelerates into danger and decelerates into safety without oscillation risk; (ii) a scalar Kalman filter with a clutch mechanism that closes the Bayesian momentum predictor implementation gap, provably optimal under the framework’s own Gaussian noise assumptions and decoupled from burst dynamics via federated regime handoff; (iii) a formal Itô stability condition giving implementers an analytical lower bound on λ0; (iv) replacement of the instantaneous jump operator with a continuous flow burst mechanism that preserves activation manifold geometry; (v) a calibration shunt reference Cref normalising all thresh- olds and gain coefficients against a known-safe baseline; (vi) a tempo efficiency framework unifying token cost, electrical cost, and coherence distortion into a single joint optimisa- tion objective; (vii) a signed gain architecture that partitions each concept projection into harmful and prosocial components, with detection and escalation operating exclusively on the harmful channel C+ to prevent adversarial prosocial suppression; and (viii) a Kalman clutch mechanism implementing federated estimation with deterministic Lyapunov stabil- ity during burst episodes and stochastic Lyapunov stability during nominal operation, with formally specified regime transitions. Stochastic perturbation is projected into the ethical subspace, making the Langevin diffusion interpretation exact rather than approximate. The framework is validated against chess dynamics, which constitute a well-studied discrete dy- namical system whose positional flow, tactical burst, and zugzwang properties map precisely onto TRC’s three-term master equation. Introduction Large language models exhibit a range of structural failure modes—hallucination, semantic drift, sycophancy, and dyadic dissociation—that can cause measurable harm, especially to vulnerable users. These phenomena arise not from reasoning errors but from the probabilistic nature of transformer sampling and the high-dimensional geometry of activation space. In this paper we present TRC (Trust Regulation and Containment), a two-layer, inference-time framework that blends hard decision gates with a continuous, physics-inspired correction engine operating directly on the model’s residual-stream activation vector. The central geometric insight motivating this revision is that the transformer’s residual stream traces a continuous path through a high-dimensional activation manifold. Safety failures are deformations of this manifold—crinkles in its geometry introduced by adversarial inputs, sycophantic drift, or escalating user distress. The correct response to a crinkle is not to teleport the activation to a safe location (which introduces new geometric incoherence) but to apply continuous corrective flow that works the deformation out smoothly, layer by layer, the way a craftsperson works aluminum foil back toward its intended shape. This insight drives the replacement of the previous instantaneous jump operator with the flow burst architecture and motivates the tempo efficiency framework that unifies all computational cost metrics under a single variable. This revision also introduces the Kalman clutch mechanism, which decouples the Bayesian momentum predictor from burst dynamics during high-gain corrective episodes. The system now operates as a federated estimation architecture with formally specified regime transitions: nominal tracking under stochastic Lyapunov stability, deterministic correction during burst episodes, and a principled re-engagement protocol with inflated covariance. The detection and escalation pathway has been restructured to operate exclusively on the harmful projection channel C+, preventing adversarial prosocial suppression of safety mechanisms.
-
-9h ago
-
----
-
-**[OpenAI launches GPT-5.4: New model hits 83% on pro-level knowledge benchmark](https://www.reddit.com/r/artificial/comments/1rmilgg/openai_launches_gpt54_new_model_hits_83_on/)**
-
-OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[For OpenAI and Anthropic, the Competition Is Deeply Personal](https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html)**
+**[How Candidates Are Using Winks and Posts to Seek Crypto and A.I. Cash](https://www.nytimes.com/2026/03/07/us/politics/ai-crypto-money-midterms-congress.html)**
 
-The New York Times • 9h ago
+The New York Times • 14h ago
 
 ---
 
 **[Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know](https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html)**
 
-The New York Times • 6h ago
+The New York Times • 8h ago
 
 ---
 
@@ -133,21 +133,29 @@ The New York Times • 6h ago
 
 Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
 
-The Guardian • 12h ago
+The Guardian • 14h ago
 
 ---
 
-**[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqfkSSGSaxFz_in_jm3uKH5EeciJ7eaHhAyJdedJWk0njduKFRb5ZOMc&gaa_ts=69acde47&gaa_sig=BUFHc4fplLB9o_feE9nTFyoqSt9SqZ05fx-JeYYyQkWWibaTRuiTVt5QlJQkSbVSSNTTnoBGddoFH5Pedyl03g%3D%3D)**
+**[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqeC1axxCTkMCQayD321PZWWaL72qQKSwg3zfoQW-m3c4hHIu9icbh3f&gaa_ts=69acfd32&gaa_sig=KFkO6VYwHOzMiK12g9md2mt8ifEccs8InbdzbtR6qeOGwe7SsKm6XguNevyA9jdxxziu0N7RoG3CLuP-N8IOvA%3D%3D)**
 
-WSJ • 9h ago
+WSJ • 11h ago
 
 ---
 
-**[OpenAI’s Head of Robotics Resigns Over Company’s Pentagon Deal](https://www.bloomberg.com/news/articles/2026-03-07/openai-s-head-of-robotics-resigns-over-company-s-pentagon-deal)**
+**[Wall Street executives blame Morgan Stanley’s latest layoffs on AI](https://nypost.com/2026/03/07/business/wall-street-executives-say-morgan-stanleys-latest-layoffs-caused-by-ai-sources/)**
 
-The head of OpenAI’s robotics team resigned Saturday, citing the company’s deal to deploy its artificial intelligence models within the Pentagon’s classified network as the cause.
+Insiders close to the Wall Street giant say the real culprit can be summed up in two letters: “A” and “I.”
 
-Bloomberg.com • 3h ago
+New York Post • 44m ago
+
+---
+
+**[Hundreds pack Iron County hearing as residents voice concerns over proposed AI data center](https://www.stgeorgeutah.com/news/hundreds-pack-iron-county-hearing-as-residents-voice-concerns-over-proposed-ai-data-center/article_21d47585-32c8-4f77-9a2d-adc3f5e388d5.html)**
+
+More than 350 residents packed Festival Hall Thursday night to weigh in on a proposed artificial intelligence data center that could become one of the largest industrial projects ever considered
+
+St. George News • 3h ago
 
 ---
 
@@ -159,9 +167,11 @@ Fortune • 1d ago
 
 ---
 
-**[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
+**[Gen Z is using AI to navigate social situations](https://www.cnn.com/2026/03/07/health/gen-z-ai-conversations-wellness)**
 
-Axios • 10h ago
+Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
+
+CNN • 17h ago
 
 ---
 
@@ -173,19 +183,11 @@ NPR • 1d ago
 
 ---
 
-**[Gen Z is using AI to navigate social situations](https://www.cnn.com/2026/03/07/health/gen-z-ai-conversations-wellness)**
+**[Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)**
 
-Younger generations, including Gen Z, are using AI chatbots to navigate social situations. Why it matters.
+Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
 
-CNN • 15h ago
-
----
-
-**[‘It means missile defence on datacentres’: drone strikes raise doubts over Gulf as AI superpower](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower)**
-
-Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
-
-The Guardian • 11h ago
+OpenAI • 2d ago
 
 ---
 
@@ -233,7 +235,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 141 • 💬 154 • 7h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 147 • 💬 163 • 9h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -241,7 +243,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 103 • 💬 86 • 12h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 105 • 💬 86 • 14h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -249,7 +251,15 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 I’ve forgotten how to write code, or at least I think I have. Hard to be sure, I haven’t done it for a while. But then, I start to muse…
 
-⬆️ 79 • 💬 80 • 9h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+⬆️ 85 • 💬 82 • 11h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+
+---
+
+**[Why developers using AI are working longer hours](https://news.ycombinator.com/item?id=47292574)**
+
+Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
+
+⬆️ 61 • 💬 62 • 4h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
 
 ---
 
@@ -257,13 +267,7 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
 
-⬆️ 61 • 💬 31 • 20h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
-
----
-
-**[Launch HN: Vela (YC W26) – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)**
-
-⬆️ 58 • 💬 44 • 2d ago
+⬆️ 61 • 💬 31 • 22h ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
 
 ---
 
@@ -277,47 +281,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4uadjA
 
 📺 Dan Martell
 
-👁️ 159K • 👍 7K • 💬 400 • ⏱️ 17:49 • 2d ago
-
----
-
-**[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**
-
-Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or ...
-
-📺 AI Explained
-
-👁️ 59K • 👍 2K • 💬 396 • ⏱️ 21:52 • 1d ago
-
----
-
-**[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
-
-Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
-
-📺 Matt Wolfe
-
-👁️ 66K • 👍 3K • 💬 311 • ⏱️ 38:02 • 1d ago
-
----
-
-**[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
-
-China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
-
-📺 AI Revolution
-
-👁️ 56K • 👍 2K • 💬 111 • ⏱️ 10:56 • 2d ago
-
----
-
-**[Replacing Humans With AI Is Catastrophically Backfiring](https://www.youtube.com/watch?v=3KQxQckG8ug)**
-
-Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your free FÜM Topper when you order your ...
-
-📺 Moon
-
-👁️ 230K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
+👁️ 164K • 👍 7K • 💬 410 • ⏱️ 17:49 • 2d ago
 
 ---
 
@@ -327,37 +291,57 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 45K • 👍 1K • 💬 267 • ⏱️ 21:16 • 1d ago
+👁️ 46K • 👍 1K • 💬 278 • ⏱️ 21:16 • 1d ago
 
 ---
 
-**[AI Is the Biggest Existential Threat Humans Have Ever Faced — And Most People Are Completely Unprepa](https://www.youtube.com/watch?v=VcTsJFinOjs)**
+**[China Just Dropped 1 Trillion Parameter AI Model That Shocks OpenAI](https://www.youtube.com/watch?v=34jdVUEjM2M)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Built with a Mixture-of-Experts architecture, it actually ...
 
-📺 Julia McCoy
+📺 AI Revolution
 
-👁️ 38K • 👍 2K • 💬 595 • ⏱️ 16:12 • 2d ago
-
----
-
-**[It Begins: An AI Has Failed the Turing Test on Purpose](https://www.youtube.com/watch?v=FGDM92QYa60)**
-
-Detailed sources: ...
-
-📺 Species | Documenting AGI
-
-👁️ 94K • 👍 7K • 💬 2K • ⏱️ 27:07 • 1d ago
+👁️ 57K • 👍 2K • 💬 112 • ⏱️ 10:56 • 2d ago
 
 ---
 
-**[Early indicator of AI labor impact](https://www.youtube.com/watch?v=DSX68fDs9uo)**
+**[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
 
-CNBC's Deirdre Bosa joins 'Money Movers' to report on Anthropic's new study on which jobs AI is already displacing.
+Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
 
-📺 CNBC Television
+📺 Matt Wolfe
 
-👁️ 32K • 👍 318 • 💬 153 • ⏱️ 4:51 • 1d ago
+👁️ 67K • 👍 3K • 💬 318 • ⏱️ 38:02 • 1d ago
+
+---
+
+**[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**
+
+Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or ...
+
+📺 AI Explained
+
+👁️ 60K • 👍 3K • 💬 403 • ⏱️ 21:52 • 1d ago
+
+---
+
+**[Replacing Humans With AI Is Catastrophically Backfiring](https://www.youtube.com/watch?v=3KQxQckG8ug)**
+
+Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your free FÜM Topper when you order your ...
+
+📺 Moon
+
+👁️ 232K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
+
+---
+
+**[Claude Is ALIVE, Company WARNS AI Model May Be CONSCIOUS, ITS OVER](https://www.youtube.com/watch?v=-SVPjEF0ZW8)**
+
+SUPPORT THE SHOW BUY CAST BREW COFFEE NOW - https://castbrew.com/ Join - / @timcastirl Hosts: Tim @Timcast ...
+
+📺 Timcast IRL
+
+👁️ 91K • 👍 4K • 💬 1K • ⏱️ 22:43 • 12h ago
 
 ---
 
@@ -367,7 +351,27 @@ How to Make $10000 Online LIVE Workshop (free): https://event.thewealthportal.co
 
 📺 Mark Tilbury
 
-👁️ 453K • 👍 16K • 💬 1K • ⏱️ 19:52 • 1d ago
+👁️ 468K • 👍 17K • 💬 1K • ⏱️ 19:52 • 1d ago
+
+---
+
+**[STOP Building AI Agents. Do THIS Instead.](https://www.youtube.com/watch?v=wqH1hTkA6qg)**
+
+Turn Claude Code Skills Into Real Client Projects https://skool.com/aiworkshop Get the tool (FREE) ...
+
+📺 Zubair Trabzada | AI Workshop
+
+👁️ 63K • 👍 2K • 💬 65 • ⏱️ 11:51 • 2d ago
+
+---
+
+**[When An Animator Gets Betrayed…](https://www.youtube.com/watch?v=E0JgwHMkb4M)**
+
+The creator of Chikn Nuggit just revealed that she would be leaving the show due to its owners, Buzzfeed implementing AI.
+
+📺 FoxAkimbo
+
+👁️ 438K • 👍 22K • 💬 2K • ⏱️ 10:35 • 1d ago
 
 ---
 
@@ -383,7 +387,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 692,588 • ❤️ 570 • 6d ago
+⬇️ 692,588 • ❤️ 572 • 6d ago
 
 ---
 
@@ -395,7 +399,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,086,662 • ❤️ 1,026 • 8d ago
+⬇️ 1,086,662 • ❤️ 1,027 • 8d ago
 
 ---
 
@@ -407,7 +411,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 119,290 • ❤️ 323 • 2d ago
+⬇️ 119,290 • ❤️ 326 • 2d ago
 
 ---
 
@@ -419,7 +423,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 346,126 • ❤️ 315 • 5d ago
+⬇️ 346,126 • ❤️ 316 • 5d ago
 
 ---
 
@@ -431,7 +435,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 282,635 • ❤️ 285 • 6d ago
+⬇️ 282,635 • ❤️ 287 • 6d ago
 
 ---
 
@@ -467,7 +471,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 52,816 • ❤️ 183 • 4d ago
+⬇️ 52,816 • ❤️ 187 • 4d ago
 
 ---
 
@@ -479,7 +483,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 4,212 • ❤️ 189 • 3h ago
+⬇️ 4,212 • ❤️ 201 • 5h ago
 
 ---
 
@@ -491,7 +495,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 630,137 • ❤️ 606 • 10d ago
+⬇️ 630,137 • ❤️ 607 • 11d ago
 
 ---
 
@@ -636,7 +640,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.3k • 🔱 3.1k • 6m ago
+⭐ 24.3k • 🔱 3.1k • 50m ago
 
 ---
 
@@ -646,7 +650,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.3k • 🔱 561 • 1d ago
+⭐ 15.4k • 🔱 568 • 1d ago
 
 ---
 
@@ -656,7 +660,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.4k • 🔱 1.0k • 12h ago
+⭐ 9.4k • 🔱 1.0k • 4m ago
 
 ---
 
@@ -666,7 +670,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 6.9k • 🔱 501 • 21h ago
+⭐ 6.9k • 🔱 505 • 23h ago
 
 ---
 
@@ -676,7 +680,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 6.8k • 🔱 851 • 4d ago
+⭐ 6.8k • 🔱 854 • 4d ago
 
 ---
 
@@ -686,7 +690,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 5.9k • 🔱 695 • 14h ago
+⭐ 5.9k • 🔱 696 • 16h ago
 
 ---
 
@@ -696,7 +700,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 5.1k • 🔱 422 • 2d ago
+⭐ 5.2k • 🔱 423 • 2d ago
 
 ---
 
@@ -706,7 +710,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 388 • 8h ago
+⭐ 3.6k • 🔱 388 • 11h ago
 
 ---
 
@@ -716,7 +720,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 248 • 1h ago
+⭐ 3.4k • 🔱 248 • 3h ago
 
 ---
 
@@ -726,7 +730,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 638 • 6h ago
+⭐ 3.2k • 🔱 638 • 8h ago
 
 ---
 
