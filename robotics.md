@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T19:45:04.585767+00:00'
+updated: '2026-03-08T20:28:21.022598+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 19:45 UTC  
+**Last Updated:** March 08, 2026 at 20:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 **[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -50,7 +50,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ Robotics researcher Holly Yanco describes research looking at how people respond
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a simple kit or something we can put together without a high cost. She wants to be a few feet high and resemble this Vee character https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2F2c7c7e9f-fd4a-4b7e-99ad-53216dbdb05b%2Fscale-to-width%2F755&f=1&nofb=1&ipt=3435994b5d38266f04bb4caa669e22dbcf85757bd86dffc342a6c8eaab344891 I work in robotics but haven't completed many hobby kits. I'm comfortable soldering and with tools but I don't understand kinematics or anything. Please let me know if you can provide suggestions?
 
-11m ago
+54m ago
 
 ---
 
@@ -96,13 +96,13 @@ My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a si
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
 
-8h ago
+9h ago
 
 ---
 
 **[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -130,7 +130,7 @@ Futurism • 23h ago
 
 Dozens of teams gathered at River Bluff High School Saturday to vie for a spot at the VEX Robotics World Championship in St. Louis this April.
 
-WLTX • 3h ago
+WLTX • 4h ago
 
 ---
 
@@ -146,13 +146,13 @@ Engadget • 5h ago
 
 Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
 
-WJON • 7h ago
+WJON • 8h ago
 
 ---
 
 **[‘Fertile ground’: How an OSU professor built one of Oregon’s most valuable startups](https://philomathnews.com/fertile-ground-how-an-osu-professor-built-one-of-oregons-most-valuable-startups/)**
 
-Philomath News • 1h ago
+Philomath News • 2h ago
 
 ---
 
@@ -166,7 +166,7 @@ Business Insider • 11h ago
 
 **[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (d
 
 📺 Ticker Symbol: YOU
 
-👁️ 6K • 👍 458 • 💬 24 • ⏱️ 29:53 • 4h ago
+👁️ 6K • 👍 458 • 💬 24 • ⏱️ 29:53 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ New Vector robot is here and it's the Raptor 2.0. Between this weekend and last 
 
 📺 PREDATOR WR
 
-👁️ 4K • 👍 241 • 💬 45 • ⏱️ 15:14 • 7h ago
+👁️ 4K • 👍 241 • 💬 45 • ⏱️ 15:14 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 35K • 👍 319 • 💬 10 • ⏱️ 3:35:12 • 19h ago
+👁️ 35K • 👍 319 • 💬 10 • ⏱️ 3:35:12 • 20h ago
 
 ---
 
@@ -266,7 +266,7 @@ shorts #podcast #joerogan During a live interview, a TV host tries flirting with
 
 📺 Unorthodox CEO
 
-👁️ 8K • 👍 116 • 💬 1 • ⏱️ 0:47 • 7h ago
+👁️ 8K • 👍 116 • 💬 1 • ⏱️ 0:47 • 8h ago
 
 ---
 
@@ -286,7 +286,7 @@ Get 10 Free Meals and your first box ship free with code FILMENTOFM at https://b
 
 📺 Filmento
 
-👁️ 85K • 👍 6K • 💬 979 • ⏱️ 20:54 • 1d ago
+👁️ 85K • 👍 6K • 💬 979 • ⏱️ 20:54 • 2d ago
 
 ---
 
