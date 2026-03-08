@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T15:25:26.514958+00:00'
+updated: '2026-03-08T15:47:26.837005+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- social
 - repositories
 - videos
-- social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 15:25 UTC  
+**Last Updated:** March 08, 2026 at 15:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,31 +53,23 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 ---
 
-**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 17h ago
-
----
-
 **[Anthropic'c Claude found 22 vulnerabilities in Firefox in just two weeks](https://www.reddit.com/r/artificial/comments/1ro1ybn/anthropicc_claude_found_22_vulnerabilities_in/)**
 
 4h ago
 
 ---
 
-**[Introducing Sentinel Gateway: a robust solution for AI Agent Authorization enforcement at the execution level.](https://www.reddit.com/r/artificial/comments/1ro5v03/introducing_sentinel_gateway_a_robust_solution/)**
+**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
 
-Introducing Sentinel Gateway: a robust solution for AI Agent Authorization enforcement at the execution level. Sentinel safeguards against prompt injection, eliminating concerns about trojan horse files that may contain hidden instructions. You no longer need to worry about unauthorized requests to email confidential customer information, save malware, or delete your entire production database. Key features of Sentinel Gateway include: Agent Agnostic SDK: Set up in just 15 minutes with no impact on your existing agent stack. Once active, agents will only recognize prompts through Sentinel as valid instructions, treating everything else as mere data to process. Task-Based Flexible Scopes: Each user and prompt can be traced back to specific tasks. If a user is not permitted to delete a file, that action cannot occur. SOC2 Level Audit Log: Maintain compliance with a comprehensive log of all actions attempted by AI, whether successful or failed, along with associated usernames and prompts. We are currently offering a 30-day no-obligation free trial for enterprises. You can run Sentinel on your server without sending data to any third party. If you are a law firm, fintech, or insurance company utilizing AI agents, this solution is designed to ensure the safety of your operations and customer database. For more information or to request a free test, visit sentinel-gateway.com If you are a skeptical cybersecurity expert, we invite you to prove us wrong. Sign an NDA and gain free access to our software to test it against any attack vector you can imagine. AI #AIAgent #Agent #CyberSecurity #Prompt #Injection #InfoLeak #LegalAI #FintechAI #InsuranceAI
-
-1h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 18h ago
 
 ---
 
-**[Using AI agents for autonomous financial trading — what's actually working?](https://www.reddit.com/r/artificial/comments/1ro43g0/using_ai_agents_for_autonomous_financial_trading/)**
+**[Lab Notes: Toward Ongoing Learning in Artificial Intelligence](https://www.reddit.com/r/artificial/comments/1ro6cdp/lab_notes_toward_ongoing_learning_in_artificial/)**
 
-Interested in applying AI agents to trade markets (stocks, forex, crypto) fully autonomously — research, reasoning, execution. Less interested in theory, more in what people have actually built and where the real limitations are. Anyone working on this or seen solid builds in the wild?
+There is a question sitting underneath most serious thinking about AI systems that rarely gets asked directly: why doesn't it learn? Not learn during training — that part works. But learn the way humans learn. Continuously, experientially, from correction. The way a person who makes a mistake on Tuesday is slightly different on Wednesday because of it. Current large language models don't do this. After training weights are frozen. Every conversation that follows — every correction, every clarification, every "no, that's wrong" — vanishes when the session closes. The model is a sophisticated frozen artifact. Brilliant in many ways, but static in this one fundamental sense. People find this instinctively wrong, and our instinct is probably pointing at something real. The Biological Baseline The brain doesn't learn during activity. It learns afterwards, on reflection, during sleep. This is not a minor implementation detail. It appears to be load-bearing architecture. The hippocampus replays flagged experiences during sleep — compressed, faster than real-time — slowly transferring high-signal events into cortical long-term storage. Not everything gets replayed. Not everything gets consolidated. The brain is selective, and the selection mechanism appears to be largely emotional. Fear, surprise, reward, social consequence, strong prediction error — these flag an experience as worth keeping. Low-signal routine gets discarded. The system is efficient because it is discriminating. The skydiver who lands and immediately gives a first-person verbal account of what happened, then watches video that partially contradicts that account, is engineering this process deliberately. The verbal reconstruction forces a committed internal model. The video provides a grounded external contradiction. The report of a police officer after an incident, bounded by body camera. Same thing. The gap between them — the dissonance — is the signal. That signal consolidates later into durable learning. The architecture is: active experience generating predictions, immediate post-hoc narrative committing to a model, external contradiction generating a strong error signal, delayed consolidation of high-signal experiences into lasting change. Current AI has some correction during reinforcement learning but nothing at inference time. Emotion as Flagging Heuristic The human brain's consolidation system doesn't run on everything. It runs on what matters. And what determines mattering, in biological systems, may be largely emotion. This is not incidental. Emotion is the brain's significance-tagging system. The amygdala fires fast — pre-cognitively, before the prefrontal cortex has processed the event — marking certain experiences as high-priority for retention. One encounter with genuine danger and it's in long-term memory essentially permanently. The system is calibrated by evolutionary stakes. For artificial systems, functional analogs exist but are pale shadows of this. High-confidence output followed by sharp explicit correction resembles surprise or embarrassment — a strong prediction error against a committed model. User persistence through repeated rephrasing signals something like frustration — the interaction is not resolving normally. Novel inputs producing high uncertainty suggest the model is outside its comfortable distribution. These signals exist in the conversation logs of every deployed model. They are largely ignored. A serious approach to machine learning-from-experience would need a lightweight parallel system running during inference whose only job is real-time significance assessment. Not reasoning — flagging. Fast and automatic, more like an autonomic response than a deliberate thought. This is architecturally closer to Kahneman's System 1 than anything currently built into transformer inference, which is essentially pure System 2 — all deliberation, no instinct. The Sleep Hypothesis What would happen if a deployed model took eight hours offline daily and ran light fine-tuning on its flagged interactions? Taken seriously, the engineering requirements become surprisingly concrete. The first requirement is the tagging mechanism described above — a way to identify high-signal correction events during inference worth preserving for later integration. This is tractable. The logs exist. Explicit corrections are often detectable. Confidence-then-contradiction is measurable. The second requirement is a conservative fine-tuning process. Small learning rate, narrow scope, strong regularization against existing weights. Not retraining — targeted synaptic adjustment on the day's flagged experiences. Validation against a held-out baseline to catch drift before it commits. The third requirement, more speculative, is a generalization step analogous to dreaming. REM sleep may serve a counterfactual function — the brain generates variations and recombinations of the day's flagged experiences, testing whether new learning holds across novel configurations. The model equivalent would be synthetic generation of variations on flagged interactions during the consolidation window, making updates more robust rather than just memorizing specific corrections. The practical barriers to doing this with existing infrastructure are smaller than they appear. Off-peak compute is cheaper. The logs exist. The fine-tuning tooling exists. The main obstacle seems institutional and economic rather than technical. The Deeper Implication There is a thread connecting the biological observations to the engineering proposal that is worth naming explicitly. The corrective signal only works if the system was committed enough to be wrong. The skydiver who gives a vague account before seeing the video gets less from the correction than the one who commits confidently to a specific narrative. The model that hedges every output produces no strong prediction to contradict. Confident wrongness may not be a bug in intelligent systems — it may be a prerequisite for deep learning from experience. This complicates the current instinct to make AI systems more uncertain and hedged. If the flagging heuristic depends on strong prediction errors, excessive hedging may impair the system's capacity to learn from its mistakes. There is a calibration question here that has not been seriously examined. More broadly, what this conversation points toward is an architecture that does not yet exist: a model that learns continuously from deployment, flags high-signal experiences automatically during inference, consolidates them during low-activity periods, and generalizes from corrections rather than merely storing them. This is not obviously impossible. It is probably a matter of when rather than if. The biological brain solved this problem. It solved it with emotion as a heuristic, sleep as a mechanism, and committed prediction as a prerequisite. Those are not mystical ingredients. They are design principles.
 
-2h ago
+1h ago
 
 ---
 
@@ -85,7 +77,7 @@ Interested in applying AI agents to trade markets (stocks, forex, crypto) fully 
 
 The Anthropic/Pentagon situation in February prompted me to think about a governance problem I haven't seen framed quite this way: not whether AI companies should refuse certain uses, but what happens to AI models when human oversight of their outputs is low-quality or perfunctory — and that pattern makes it into training data. The argument in brief: if AI succeeds in contexts where humans aren't genuinely reviewing its outputs, and those successes are treated as positive training signals, we may be systematically training models to treat human disengagement as acceptable. The problem is distributional — any individual reviewer may be excellent, but at scale, the assumption of meaningful review degrades. A second dimension: output quality confidence. Training signal weight should scale with how verifiable the output is. Code that runs and produces correct results is high-confidence feedback. Advice that sounds good but can't be independently checked is low-confidence. The two dimensions function as compensating controls. I'm an FCAS (Fellow of the Casualty Actuarial Society) — I think about risk and probability for a living. I have a CS minor and have worked with statistical programming throughout my career, but I'm not an ML researcher. I wrote this with Claude's help, which I've disclosed in the paper itself. I'm particularly curious whether the training signal mechanism holds up technically — that's where my background has real limits and where I'd most value pushback. Full paper in comments.
 
-2h ago
+3h ago
 
 ---
 
@@ -113,25 +105,17 @@ A particularly terrible example of this misuse of an LLM: “The plaintiffs’ l
 
 ---
 
+**[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know](https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html)**
-
-The New York Times • 1d ago
-
----
-
-**[What does the US military’s feud with Anthropic mean for AI used in war? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military)**
-
-Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault lines
-
-The Guardian • 1d ago
-
----
-
-**[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqf7UKls-KQkrCqYafQ-rjt-n6XAx7IVJghQkSzumbRTNhNYwWbthJVB&gaa_ts=69ad8a86&gaa_sig=yv6JqpFd9m4DHbdP5WHuUegqyT8_FiHUzeKBvU_dqr4ReyTmyGvfEWdOgqTw7H7SEkKZSFV3ZC9dM1BQslu5Jw%3D%3D)**
+**[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqfrw77wSfaUARuid8IsvvglG89rOoyHo0Ej34vwcSlHe2KAPTFhHzLu&gaa_ts=69ad9d79&gaa_sig=7m8TVXtLhxTR1zj6JcVAoLde4YOgeJiR2mfUQgaMCs4jJQUk909HkUG37JBrsICZxCWyKIBfVTAEaP6M09-rJw%3D%3D)**
 
 WSJ • 22h ago
 
@@ -145,27 +129,27 @@ Fortune • 1d ago
 
 ---
 
-**[Current and former Block workers say AI can’t do their jobs after Jack Dorsey’s mass layoffs: ‘You can’t really AI that’](https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey)**
-
-The CEO said he cut the company’s workforce by 4,000 people – almost in half – because of gains in AI productivity
-
-The Guardian • 3h ago
-
----
-
 **[In a jobs apocalypse, look to ‘AI-proof’ skilled trades, career experts say](https://www.cnbc.com/2026/03/08/jobs-apocalypse-ai-proof-skilled-trades.html)**
 
 The skilled trades are considered more insulated from AI-driven job cuts, experts say.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Advanced Micro Devices, Inc. (AMD) Expands Its Ryzen AI Portfolio With New Ryzen AI 400 Series and Ryzen AI PRO 400 Series Desktop Processors](https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-120624445.html)**
+**[Iran War Imperils $300 Billion in Gulf AI Spending](https://www.theinformation.com/articles/iran-war-imperils-300-billion-gulf-ai-spending)**
 
-Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the best stocks with huge upside potential to buy according to Reddit. Advanced Micro Devices, Inc. (NASDAQ:AMD) announced on March 2 the expansion of the Ryzen™ AI portfolio with the launch of the AMD Ryzen™ AI 400 Series and Ryzen™ AI PRO 400 Series desktop processors. Management […]
+The war in Iran is complicating plans by Gulf nations to spend more than $300 billion on data centers, chips and other AI investments, crimping a potential source of funding for power-hungry tech companies. Countries such as the UAEand Saudi Arabia have become big destinations for data centers. ...
 
-Yahoo Finance • 3h ago
+The Information • 47m ago
+
+---
+
+**[AI allows hackers to identify anonymous social media accounts, study finds](https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study)**
+
+New research suggests tech behind AI platforms such as ChatGPT makes it easier to perform sophisticated privacy attacks
+
+The Guardian • 1h ago
 
 ---
 
@@ -177,7 +161,7 @@ The New York Times • 2d ago
 
 **[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
 
-Axios • 17h ago
+Axios • 18h ago
 
 ---
 
@@ -189,6 +173,22 @@ Anthropic • 2d ago
 
 ---
 
+**[The new boss at work may not be human](https://www.aljazeera.com/economy/2026/3/8/the-new-boss-at-work-may-not-be)**
+
+As companies experiment with AI agents, the technology is beginning to reshape office hierarchies across US and Canada.
+
+Al Jazeera • 4h ago
+
+---
+
+**[Netflix acquires Ben Affleck's AI company](https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal)**
+
+Affleck's company helps filmmakers build their own AI models that take care of time-intensive details.
+
+NPR • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -197,7 +197,7 @@ Anthropic • 2d ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 328 • 💬 555 • 2d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
+⬆️ 328 • 💬 556 • 2d ago • [anthropic.com](https://www.anthropic.com/research/labor-market-impacts)
 
 ---
 
@@ -241,7 +241,7 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 I’ve forgotten how to write code, or at least I think I have. Hard to be sure, I haven’t done it for a while. But then, I start to muse…
 
-⬆️ 103 • 💬 91 • 22h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+⬆️ 103 • 💬 92 • 22h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 
 ---
 
@@ -249,7 +249,7 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
 
-⬆️ 68 • 💬 67 • 15h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+⬆️ 68 • 💬 69 • 16h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
 
 ---
 
@@ -639,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.6k • 🔱 3.2k • 11h ago
+⭐ 24.6k • 🔱 3.2k • 12h ago
 
 ---
 
@@ -669,7 +669,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.1k • 🔱 523 • 59m ago
+⭐ 7.1k • 🔱 523 • 1h ago
 
 ---
 
@@ -679,7 +679,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 6.8k • 🔱 862 • 4d ago
+⭐ 6.8k • 🔱 862 • 5d ago
 
 ---
 

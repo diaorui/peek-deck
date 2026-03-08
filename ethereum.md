@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T15:25:26.529563+00:00'
+updated: '2026-03-08T15:47:26.851786+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 15:25 UTC  
+**Last Updated:** March 08, 2026 at 15:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -4.0%  
-**30d:** -7.1%  
-**90d:** -41.3%  
-**1y:** -3.4%  
+**24h:** -1.8%  
+**7d:** -4.3%  
+**30d:** -7.3%  
+**90d:** -41.5%  
+**1y:** -3.7%  
 
 ---
 
@@ -128,7 +128,7 @@ I propose to wrap USDT, since currently it is a highly outdated coin, and its tr
 
 I've been working on verifying source code for the oldest contracts on Ethereum, and this one took days to crack. The contract: 0xa2e3680acaf5d2298697bdc016cf75a929385463 Deployed by Vitalik on November 12, 2015 (block 530,996). It's a token contract implementing the standardized currency API from the early ethereum/dapp-bin repo. 1,000,000 initial supply, approve/transfer mechanics - basically a proto-ERC-20. The problem: We tried compiling currency.sol with every Solidity compiler version from that era. Every archived soljson release from v0.1.1 through v0.3.6, nightlies from Sep-Dec 2015, native C++ solc builds from the webthree-umbrella repo, optimizer on and off. Nothing matched. The breakthrough: Three clues pointed us away from Solidity entirely: The on-chain constructor starts with 6000603f53 (MSTORE8-based memory init). Every Solidity version produces 60606040525b (the free memory pointer pattern). This is a fundamentally different code generation approach. The runtime code uses MSIZE, SWAP1, MSIZE, ADD for memory allocation. This is the Serpent compiler's alloc() pattern - not found in any version of solc. Two function selectors didn't match the Solidity source: disapprove() instead of unapprove(), and isApprovedOnceFor() instead of isApprovedOnce(). The answer: The contract was compiled from currency.se (the Serpent version), not currency.sol. The ethereum/dapp-bin repo had both implementations side by side. Vitalik deployed his own language's version. Compiled with the Serpent compiler at commit f0b4128 (Oct 15, 2015) - byte-for-byte identical, all 1,661 bytes. Full methodology, source, and proof: github.com/cartoonitunes/vitalik-currency-verification We've submitted a manual verification request to Etherscan since they don't support Serpent as a verification language. Hopefully they can add it as a verified contract with source. This is part of a broader effort to verify and preserve the earliest contracts on Ethereum. A lot of historically important contracts from 2015-2016 are still unverified because the compiler versions are too old for Etherscan's automated tools.
 
-1d ago
+2d ago
 
 ---
 
@@ -152,6 +152,22 @@ One important technical item that I forgot to mention is the proposed switch fro
 
 ## Google News: "ethereum"
 
+**[Where Will Ethereum Be in 2030?](https://www.fool.com/investing/2026/03/08/where-will-ethereum-be-in-2030/)**
+
+As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Where Will Ethereum Be in 2030?](https://finance.yahoo.com/news/where-ethereum-2030-113700145.html)**
+
+As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
+
+Yahoo Finance • 4h ago
+
+---
+
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
 Binance • 20h ago
@@ -164,19 +180,17 @@ TradingView • 15h ago
 
 ---
 
-**[Where Will Ethereum Be in 2030?](https://www.fool.com/investing/2026/03/08/where-will-ethereum-be-in-2030/)**
-
-As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
-
-The Motley Fool • 3h ago
-
----
-
 **[Ethereum – BlackRock drops ETH ETF staking fee as firm issues ‘warning’](https://ambcrypto.com/ethereum-blackrock-drops-eth-etf-staking-fee-after-firm-issues-warning/)**
 
 Culper Research has shorted ETH citing underlying Ethereum staking and validator crisis.
 
 AMBCrypto • 19h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqcloPAL95hSivSqYylTV7ZyTFPGAwzQ-onSknGENQqsxV6cUerPucZA&gaa_ts=69ad9d7c&gaa_sig=UObVsr2y9m5_INBeALXLQXc_VIH8cW3lOfZq0ZTdfBFdPiBO_-RNQAjXaT277IcBgPHlvAIdqpsdDPQSjnSm0A%3D%3D)**
+
+Barron's • 3d ago
 
 ---
 
@@ -188,18 +202,6 @@ markets.businessinsider.com • 1d ago
 
 ---
 
-**[What Will Bitcoin, ETH and XRP Be Worth in 2030? ChatGPT’s Price Predictions May Shock You](https://www.ccn.com/education/crypto/chatgpt-predicts-2030-crypto-prices-bitcoin-500k-eth-20k-xrp-20/)**
-
-CCN.com • 3d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqffGwBYIoV1OZfwYtebU0o2QNYR2pM2PMzH_giVKp83lVfE5xQ85vT5&gaa_ts=69ad8a14&gaa_sig=Q4N0ykMMoF6iAU1g-RyT3Ls1alJWw-sWJcM6f8aj48nXgRYdaVSlVJpK6LzIuYG8cxTZNS5dEdD1DBFLiX3N7g%3D%3D)**
-
-Barron's • 3d ago
-
----
-
 **[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
@@ -208,11 +210,9 @@ Bit Digital • 3d ago
 
 ---
 
-**[ETH, BMNR news: Short seller Culper Research says ether tokenomics is 'impaired'](https://www.coindesk.com/markets/2026/03/05/short-seller-culper-bets-against-ether-bitmine-citing-death-spiral-risk)**
+**[What Will Bitcoin, ETH and XRP Be Worth in 2030? ChatGPT’s Price Predictions May Shock You](https://www.ccn.com/education/crypto/chatgpt-predicts-2030-crypto-prices-bitcoin-500k-eth-20k-xrp-20/)**
 
-The short seller firm said that Ethereum's native token is "impaired," leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.
-
-CoinDesk • 2d ago
+CCN.com • 3d ago
 
 ---
 
@@ -234,7 +234,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 142 • ⏱️ 11:32 • 18h ago
+👁️ 35K • 👍 2K • 💬 142 • ⏱️ 11:32 • 19h ago
 
 ---
 
@@ -264,7 +264,7 @@ In this clip from the most recent askSlim Live, Slim provides an analysis update
 
 📺 Steve Miller
 
-👁️ 2K • 👍 70 • 💬 4 • ⏱️ 8:11 • 19h ago
+👁️ 2K • 👍 70 • 💬 4 • ⏱️ 8:11 • 20h ago
 
 ---
 

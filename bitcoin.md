@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T15:25:26.523521+00:00'
+updated: '2026-03-08T15:47:26.845762+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 15:25 UTC  
+**Last Updated:** March 08, 2026 at 15:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,439.19
+### $67,230.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -2.1%  
-**30d:** -2.8%  
-**90d:** -27.6%  
-**1y:** -16.5%  
+**24h:** -1.0%  
+**7d:** -2.4%  
+**30d:** -3.1%  
+**90d:** -27.8%  
+**1y:** -16.7%  
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I am a dad of two and I bought 2 Bitcoins.](https://www.reddit.com/r/Bitcoin/comments/1rnq2fs/i_am_a_dad_of_two_and_i_bought_2_bitcoins/)**
-
-I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the world this week, war with Iran, oil prices climbing, 92,000 jobs lost in a single month, robotic arms replacing workers and thought: the cost of living is never going back down. So I did something terrifying, beyond any fathers' comfort zone. I accumulated and manage to finally buy 2 Bitcoins. One for each of my son. Every cent of it was earned. Not inherited. Not gifted. Earned, through long days, late nights, and the quiet sacrifices that nobody sees but you make anyway because you have two little faces at home counting on you. I don't know if Bitcoin will be worth a million dollars one day. I don't know if it drops to zero. Nobody does, and anyone who tells you otherwise is lying. What I do know is this: the system we were born into the one that promised that if you worked hard and saved diligently, you'd be okay is getting harder to trust every single year. Rent goes up. Groceries go up. The gap between those who have generational wealth and those who are starting from nothing keeps widening. I grew up with nothing. I refuse to let my kids start from nothing too. So this is my letter to them, posted here because maybe some of you are in the same position — ordinary people, not wealthy, just trying: *To my children, M.T & O.T * By the time you read this, Bitcoin will either have changed your life or humbled us both. Either way, I need you to know that I tried. I sat with the uncertainty. I felt the fear. And I bought anyway not out of greed, but out of love. I wanted to give you something that no government could inflate away, no bank could freeze, and no economic crisis could take from you the way it has taken from so many. I HODL'd it for you. Every dip. Every crash. Every headline that said it was over. I held, because I believed in your future more than I feared the risk. And if this works if this single decision somehow lifts you above the poverty line I was born into, I hope you pay it forward. Because that's the real dream behind Bitcoin for me. Not lambos. Not getting rich. A world where more people have a fighting chance. Hold the line, fellow HODLers. We're not just investing in an asset. Some of us are investing in our children's futures. 🧡 Dad of two. Holder of 2 BTC. Scared and hopeful in equal measure. *Not financial advice. Just a father trying his best for M.T & O.T * Update Thank you for the supports and encouragement. I just hope my children will be able to read this Reddit post one day and know that I sincerely did my best. To my sons If I am no longer in this world and you are reading this, please know that not a single day passed where you were not in my thoughts. Forgive me if I troubled you two a lot and thank you for putting up with me if you ever did. I love you, sons. More than any words I could ever leave behind. Your Dad, W 🧡
-
-15h ago
-
----
-
 **[Senator Lummis pushes $300 de minimis crypto tax exemption to make Bitcoin a spending currency](https://www.reddit.com/r/Bitcoin/comments/1rnzegj/senator_lummis_pushes_300_de_minimis_crypto_tax/)**
 
 Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption — capped at $5,000 annually — to let Americans use Bitcoin and other digital assets for everyday purchases without triggering capital gains taxes.
 
 🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 7h ago
+
+---
+
+**[I am a dad of two and I bought 2 Bitcoins.](https://www.reddit.com/r/Bitcoin/comments/1rnq2fs/i_am_a_dad_of_two_and_i_bought_2_bitcoins/)**
+
+I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the world this week, war with Iran, oil prices climbing, 92,000 jobs lost in a single month, robotic arms replacing workers and thought: the cost of living is never going back down. So I did something terrifying, beyond any fathers' comfort zone. I accumulated and manage to finally buy 2 Bitcoins. One for each of my son. Every cent of it was earned. Not inherited. Not gifted. Earned, through long days, late nights, and the quiet sacrifices that nobody sees but you make anyway because you have two little faces at home counting on you. I don't know if Bitcoin will be worth a million dollars one day. I don't know if it drops to zero. Nobody does, and anyone who tells you otherwise is lying. What I do know is this: the system we were born into the one that promised that if you worked hard and saved diligently, you'd be okay is getting harder to trust every single year. Rent goes up. Groceries go up. The gap between those who have generational wealth and those who are starting from nothing keeps widening. I grew up with nothing. I refuse to let my kids start from nothing too. So this is my letter to them, posted here because maybe some of you are in the same position — ordinary people, not wealthy, just trying: *To my children, M.T & O.T * By the time you read this, Bitcoin will either have changed your life or humbled us both. Either way, I need you to know that I tried. I sat with the uncertainty. I felt the fear. And I bought anyway not out of greed, but out of love. I wanted to give you something that no government could inflate away, no bank could freeze, and no economic crisis could take from you the way it has taken from so many. I HODL'd it for you. Every dip. Every crash. Every headline that said it was over. I held, because I believed in your future more than I feared the risk. And if this works if this single decision somehow lifts you above the poverty line I was born into, I hope you pay it forward. Because that's the real dream behind Bitcoin for me. Not lambos. Not getting rich. A world where more people have a fighting chance. Hold the line, fellow HODLers. We're not just investing in an asset. Some of us are investing in our children's futures. 🧡 Dad of two. Holder of 2 BTC. Scared and hopeful in equal measure. *Not financial advice. Just a father trying his best for M.T & O.T * Update Thank you for the supports and encouragement. I just hope my children will be able to read this Reddit post one day and know that I sincerely did my best. To my sons If I am no longer in this world and you are reading this, please know that not a single day passed where you were not in my thoughts. Forgive me if I troubled you two a lot and thank you for putting up with me if you ever did. I love you, sons. More than any words I could ever leave behind. Your Dad, W 🧡
+
+15h ago
 
 ---
 
@@ -101,11 +101,19 @@ For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bit
 
 ---
 
-**[We just launched the world's first Bitcoin Art Magazine](https://www.reddit.com/r/Bitcoin/comments/1rnql57/we_just_launched_the_worlds_first_bitcoin_art/)**
+**[Inflation follows war. Buy assets. Own bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1ro5yrj/inflation_follows_war_buy_assets_own_bitcoin/)**
 
-Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art Magazine, the world’s first publication dedicated entirely to the art and culture emerging around Bitcoin. Bitcoin Art Magazine is an independent publication documenting the artists, ideas, and visual language forming around Bitcoin as a new monetary system and cultural movement. Our goal is to preserve and elevate the work of artists engaging with Bitcoin not just as a subject, but as a philosophical and creative framework. The Genesis Edition features more than 150 pages of artwork and writing from Bitcoin artists around the world, including Fractal Encrypt, Madex, Mear One, Asanoha, and many others. The magazine focuses on traditional mediums such as painting, printmaking, and sculpture, with an emphasis on craftsmanship, material integrity, and visual storytelling. We believe the art being created today will shape how future generations understand this moment in history. Bitcoin Art Magazine exists to support and represent Bitcoin artists while giving collectors, readers, and listeners a deeper understanding of this cultural movement. Ultimately, we see Bitcoin art as part of a broader cultural renaissance still in its early stages — one that will continue to evolve as Bitcoin itself matures. Founded by Asanoha Block #912169 Genesis Edition cover art by FractalEncrypt
+Were living in the most uncertain time in recent history. Inflation is soon to be rampant and will not be able to be stopped. The wealthy will receive bail outs. The poors will receive threats of death or jail if we dont fight wars for the elites. Threats of jail or death if we dont turn in our personal gold reserves. Own what cant be frozen as easily as a USD asset. Own something more portable than gold. Own something that represents one of the only attempts at returning monetary freedom to the people who have realized the debt system is not for them. Bitcoin in a cold wallet.
 
-14h ago
+1h ago
+
+---
+
+**[Ukrainian looking for a way to move money out of the country](https://www.reddit.com/r/Bitcoin/comments/1ro3flt/ukrainian_looking_for_a_way_to_move_money_out_of/)**
+
+Greetings, I’m a Ukrainian woman living in Austria as a refugee. I have about €100k in inheritance sitting in a bank account in Kyiv. Unfortunately, due to the current martial law, the outflow of money from Ukraine has been severely restricted. You are only allowed to carry a maximum of €10k in cash at the border, and sending money abroad has been capped at €2k per month. I need this money as soon as possible and don’t want it sitting in a country riddled with corruption and war. I’ve read that crypto can be a way to move money internationally since it has no central governing body. I don’t know much about it, but from my research it seems that I could convert the money into crypto, transfer it to my hardware wallet or an exchange, and then withdraw it outside of Ukraine. However, the extreme volatility of crypto makes me worried. What if I convert the money at an unlucky moment and the price drops when I want to withdraw, causing me to lose money? Does anyone have experience with a similar situation and can provide some helpful tips or resources? Still feeling very nervous about this. I would be very grateful. Thanks!
+
+3h ago
 
 ---
 
@@ -113,13 +121,13 @@ Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art 
 
 I’m looking to invest in 1 bitcoin for about a year, but I heard some speculations that it’s going to keep falling, and even drop to zero. Just curious about when I should buy the bitcoin, or if I should keep waiting.
 
-12h ago
+13h ago
 
 ---
 
-**[Perfect time to load up while everyone's panicking](https://www.reddit.com/r/Bitcoin/comments/1rnphli/perfect_time_to_load_up_while_everyones_panicking/)**
+**[We just launched the world's first Bitcoin Art Magazine](https://www.reddit.com/r/Bitcoin/comments/1rnql57/we_just_launched_the_worlds_first_bitcoin_art/)**
 
-Markets are getting hammered right now and people are freaking out, but this is exactly what we've been waiting for. Sure, things look rough and it might get worse before it gets better, but that's just how these cycles work. This is your chance to dollar cost average into these dips. I've been setting aside extra cash specifically for moments like this - every time we hit a new support level that breaks, I'm grabbing more. Could we go lower? Maybe. But I'd rather buy on the way down than watch it rocket past my target price again. Been through enough of these corrections to know that the people buying during the fear are usually the ones celebrating later. Stay disciplined with your strategy and keep building your position while it's on sale.
+Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art Magazine, the world’s first publication dedicated entirely to the art and culture emerging around Bitcoin. Bitcoin Art Magazine is an independent publication documenting the artists, ideas, and visual language forming around Bitcoin as a new monetary system and cultural movement. Our goal is to preserve and elevate the work of artists engaging with Bitcoin not just as a subject, but as a philosophical and creative framework. The Genesis Edition features more than 150 pages of artwork and writing from Bitcoin artists around the world, including Fractal Encrypt, Madex, Mear One, Asanoha, and many others. The magazine focuses on traditional mediums such as painting, printmaking, and sculpture, with an emphasis on craftsmanship, material integrity, and visual storytelling. We believe the art being created today will shape how future generations understand this moment in history. Bitcoin Art Magazine exists to support and represent Bitcoin artists while giving collectors, readers, and listeners a deeper understanding of this cultural movement. Ultimately, we see Bitcoin art as part of a broader cultural renaissance still in its early stages — one that will continue to evolve as Bitcoin itself matures. Founded by Asanoha Block #912169 Genesis Edition cover art by FractalEncrypt
 
 15h ago
 
@@ -133,27 +141,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
+**[Perfect time to load up while everyone's panicking](https://www.reddit.com/r/Bitcoin/comments/1rnphli/perfect_time_to_load_up_while_everyones_panicking/)**
+
+Markets are getting hammered right now and people are freaking out, but this is exactly what we've been waiting for. Sure, things look rough and it might get worse before it gets better, but that's just how these cycles work. This is your chance to dollar cost average into these dips. I've been setting aside extra cash specifically for moments like this - every time we hit a new support level that breaks, I'm grabbing more. Could we go lower? Maybe. But I'd rather buy on the way down than watch it rocket past my target price again. Been through enough of these corrections to know that the people buying during the fear are usually the ones celebrating later. Stay disciplined with your strategy and keep building your position while it's on sale.
+
+15h ago
+
+---
+
 **[Bank Refusing $20K Withdrawal](https://www.reddit.com/r/Bitcoin/comments/1rnhcqc/bank_refusing_20k_withdrawal/)**
 
 This is why we Bitcoin $BTC. When your banks starts questioning you about your post tax money, you know it's BITCOIN time
 
-🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 20h ago
-
----
-
-**[Where Did 31,900 BTC Go?](https://www.reddit.com/r/Bitcoin/comments/1rnmdv8/where_did_31900_btc_go/)**
-
-31,900 BTC just left exchanges in one day. That big negative spike on the Exchange Netflow chart means coins are moving to cold storage or custody wallets. Why it matters: Less BTC on exchanges less immediate sell pressure. Large outflows often signal accumulation by bigger players. After volatility, this can look like dip buying If price holds key levels and inflows don’t return, reduced supply could support a move higher.
-
-17h ago
-
----
-
-**[How do I withdraw Bitcoin from an exchange like binance, coinbase etc to my hardware wallet?](https://www.reddit.com/r/Bitcoin/comments/1ro3km9/how_do_i_withdraw_bitcoin_from_an_exchange_like/)**
-
-Is it possible to add/sell more bitcoin to my hardware wallet? How to sell bitcoin from my hardware wallet? I'm so sorry because I'm a beginner to bitcoin :) Thanks.
-
-3h ago
+🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 21h ago
 
 ---
 
@@ -175,31 +175,31 @@ Forbes • 1d ago
 
 ---
 
-**[Where Will Bitcoin Be in 2036?](https://www.fool.com/investing/2026/03/08/where-will-bitcoin-be-in-2036/)**
+**[Got $1,000? Should You Buy Bitcoin or Cardano?](https://www.fool.com/investing/2026/03/08/got-1000-should-you-buy-bitcoin-or-cardano/)**
 
-Losing nearly half its value in five months, the dominant digital asset is losing the confidence of investors.
+Value can stem from an asset's ability to change, or from its habit of staying the same.
 
-The Motley Fool • 2h ago
-
----
-
-**['Murban crude oil' surges past $100, posing risk to bitcoin and risk assets](https://www.coindesk.com/markets/2026/03/08/some-middle-east-oil-is-now-over-usd100-a-barrel-here-s-how-it-could-affect-bitcoin)**
-
-Murban crude, a key benchmark for barrels that can bypass the Strait of Hormuz, now trades at $103 per barrel.
-
-CoinDesk • 1h ago
+The Motley Fool • 2m ago
 
 ---
 
-**[Bitcoin dips below $70,000 as US-Iran war brings back crypto volatility](https://finance.yahoo.com/news/bitcoin-dips-below-70-000-150445515.html)**
+**[Where Will Bitcoin Be in 2036?](https://www.nasdaq.com/articles/where-will-bitcoin-be-2036)**
 
-Bitcoin nearly touched $74,000 this week. But it’s now trading below $70,000. Volatility has returned to crypto markets following the US-Israel attack on Iran.
+Key PointsFrom a fundamental perspective, Bitcoin should achieve more regulatory and political buy-in.
 
-Yahoo Finance • 1d ago
+Nasdaq • 2h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772973900)**
+**[Riot Platforms Recasts Bitcoin Mining Story With Rockdale AI Data Pivot](https://sg.finance.yahoo.com/news/riot-platforms-recasts-bitcoin-mining-151034775.html)**
+
+Riot Platforms (NasdaqCM:RIOT) has acquired full ownership of its Rockdale, Texas site, removing future lease obligations. The company plans to develop the Rockdale facility into high-capacity AI and data center infrastructure. Riot has signed a 10 year anchor lease with AMD to host AI and high performance computing workloads. The company is aiming to leverage its 1.7 gigawatt Texas power portfolio to support large scale data center operations. Riot Platforms, best known as a pure play...
+
+Yahoo Finance Singapore • 36m ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772967600)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -323,7 +323,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 142 • ⏱️ 11:32 • 18h ago
+👁️ 35K • 👍 2K • 💬 142 • ⏱️ 11:32 • 19h ago
 
 ---
 
@@ -401,7 +401,7 @@ Bitcoin's Liquidity Heist: $63K Flush → $74K Trap — Did You Panic Sell? Bitc
 
 📺 Mystery Market Vault
 
-👁️ 4K • 👍 142 • 💬 35 • ⏱️ 20:06 • 22h ago
+👁️ 4K • 👍 142 • 💬 35 • ⏱️ 20:06 • 23h ago
 
 ---
 

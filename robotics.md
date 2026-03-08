@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T15:25:26.532823+00:00'
+updated: '2026-03-08T15:47:26.854994+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 15:25 UTC  
+**Last Updated:** March 08, 2026 at 15:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,19 +46,19 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 ---
 
-**[PeppyOS: a simpler alternative to ROS 2 (now with containers support)](https://www.reddit.com/r/robotics/comments/1ro1tc4/peppyos_a_simpler_alternative_to_ros_2_now_with/)**
-
-Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
-
-4h ago
-
----
-
 **[Robotic arm I designed a while back](https://www.reddit.com/r/robotics/comments/1rnni5l/robotic_arm_i_designed_a_while_back/)**
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-16h ago
+17h ago
+
+---
+
+**[PeppyOS: a simpler alternative to ROS 2 (now with containers support)](https://www.reddit.com/r/robotics/comments/1ro1tc4/peppyos_a_simpler_alternative_to_ros_2_now_with/)**
+
+Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on a new feature to simplify the installation of nodes: Containers support. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python & containers support.
+
+5h ago
 
 ---
 
@@ -71,6 +71,14 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
 
 🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 17h ago
+
+---
+
+**[For those deploying robots IRL... where does simulation fall short for you?](https://www.reddit.com/r/robotics/comments/1ro7vjq/for_those_deploying_robots_irl_where_does/)**
+
+Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
+
+10m ago
 
 ---
 
@@ -98,23 +106,13 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 ---
 
-**[Spent a year building a transforming drone, now I'm open sourcing it](https://www.reddit.com/r/robotics/comments/1rmpfcv/spent_a_year_building_a_transforming_drone_now_im/)**
-
-Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capable of flying and driving. We made sure to make it as easy to manufacture as possible. We packed it with features, and are now putting it out there for the world to give it some good use. Check the repo with all the details here. REPO: https://github.com/L42ARO/Mercury-Transforming-Drone
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'](https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3)**
+**[OpenAI hardware leader resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
 
-Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
-
-Business Insider • 21h ago
+Reuters • 19h ago
 
 ---
 
@@ -122,13 +120,7 @@ Business Insider • 21h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 18h ago
-
----
-
-**[OpenAI Robotics Chief Quits After Firm's Controversial Pentagon Agreement](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
-
-Forbes • 19h ago
+Futurism • 19h ago
 
 ---
 
@@ -136,31 +128,13 @@ Forbes • 19h ago
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
-**[Over 200 Teams Compete At Minnesota State VEX Robotics Championship In St. Cloud](https://wjon.com/vex-robotics-championship-mn/)**
+**[Graphene-based 'artificial skin' brings human-like touch closer to robots](https://techxplore.com/news/2026-03-graphene-based-artificial-skin-human.html)**
 
-Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
-
-WJON • 3h ago
-
----
-
-**[OpenAI robotics head quits over military deal concerns](https://sfstandard.com/2026/03/07/openai-robotics-head-quits-military-deal-concerns/)**
-
-Caitlin Kalinowski, OpenAI’s head of robotics, resigned over the company’s new Pentagon deal — saying decisions about surveillance of Americans and lethal autonomy “deserved more deliberation than they got.”
-
-The San Francisco Standard • 14h ago
-
----
-
-**[Philadelphia Robotics Coalition helps build communication skills for local students](https://6abc.com/post/philadelphia-robotics-coalition-helps-build-communication-skills-local-students/18690241/)**
-
-The Philadelphia Robotics Coalition gathered students for a special day of innovation.
-
-6abc Philadelphia • 16h ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -172,19 +146,39 @@ Fox Business • 2d ago
 
 ---
 
-**[OpenAI's Robotics Division Loses Key Leader Caitlin Kalinowski Over Disagreement on Military Deployment Terms](https://www.aol.com/finance/openais-robotics-division-loses-key-225645293.html)**
+**[Inside Elon Musk's robot vision of the future](https://nypost.com/2026/03/08/tech/inside-elon-musks-robot-vision-of-the-future/)**
 
-On Saturday, Caitlin Kalinowski said she resigned from OpenAI, arguing that potential uses of AI for warrantless monitoring of Americans and weapon systems operating without a human decision demanded more careful debate than they received. Her exit lands as OpenAI expands into classified Pentagon projects under an arrangement that kept two stated limits in place: no domestic mass surveillance and a requirement for human control over any use of force. In a post on X, Kalinowski said she still bel
+The Tesla titan and other techies are bullish on ‘amazing abundance.’
 
-AOL.com • 1h ago
+New York Post • 2h ago
 
 ---
 
-**[Video: Hyundai's firefighting robots lead the way into burning buildings](https://newatlas.com/robotics/hyundai-firefighting-robots/)**
+**[Prediction: AI Robotics Will Be a $375 Billion Industry. This Stock Is Positioned to Win in 2026.](https://www.fool.com/investing/2026/03/05/prediction-ai-robotics-will-be-a-375-billion-indus/)**
 
-Hyundai has donated four super-tough unmanned robotic vehicles to firefighters in Korea for use in high-risk situations. The autonomous vehicles will deal with the initial stages of a fire to provide more information and safety to firefighters.
+When all is said and done, practicality trumps technological "wow!"
 
-New Atlas • 5h ago
+The Motley Fool • 2d ago
+
+---
+
+**[From Redcoats to robots: AI is challenging our republic’s future](https://thehill.com/opinion/technology/5772295-from-redcoats-to-robots-ai-is-challenging-our-republics-future/)**
+
+The Hill • 1d ago
+
+---
+
+**[Why Top-Tier Robotic Surgery Name Globus Medical Is Getting 'Aggressive' In 2026](https://www.investors.com/research/the-new-america/globus-medical-stock-spine-implants-robotic-surgery/)**
+
+Investor's Business Daily • 2d ago
+
+---
+
+**[Wellsville robotics team win NY State Championship, headed to Worlds!!](https://wellsvillesun.com/blog/2026/03/06/wellsville-robotics-team-win-ny-state-championship-headed-to-worlds/)**
+
+NYS VEX ROBOTICS CHAMPIONS IN THE HOUSE! From Wellsville Central School, If you see the girls of Wellsville Robotics Team 14895, congratulate them on their performance in Wednesday’s NYS VEX […]
+
+the wellsville sun • 2d ago
 
 ---
 
@@ -248,7 +242,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 13K • 👍 841 • 💬 73 • ⏱️ 10:52 • 23h ago
+👁️ 13K • 👍 841 • 💬 73 • ⏱️ 10:52 • 1d ago
 
 ---
 
