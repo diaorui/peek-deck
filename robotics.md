@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T08:33:24.158979+00:00'
+updated: '2026-03-08T09:31:06.103566+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 08:33 UTC  
+**Last Updated:** March 08, 2026 at 09:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-4h ago
+5h ago
 
 ---
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -56,7 +56,7 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 **[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -64,13 +64,13 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 Did anyone actually end up buying this robot: https://www.1x.tech/? I remember hearing that it would release worldwide in 2026 in the news around October to November, and everyone got really upset about it.
 
-8h ago
+9h ago
 
 ---
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 10h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 11h ago
 
 ---
 
@@ -78,7 +78,7 @@ Did anyone actually end up buying this robot: https://www.1x.tech/? I remember h
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133519
 
-22h ago
+23h ago
 
 ---
 
@@ -86,7 +86,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
 
-13h ago
+14h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -118,7 +118,7 @@ Reuters • 11h ago
 
 A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -126,7 +126,7 @@ Fortune • 15h ago
 
 The head of OpenAI’s robotics team resigned Saturday, citing the company’s deal to deploy its artificial intelligence models within the Pentagon’s classified network as the cause.
 
-Bloomberg • 10h ago
+Bloomberg • 11h ago
 
 ---
 
@@ -134,7 +134,7 @@ Bloomberg • 10h ago
 
 Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.
 
-TechCrunch • 11h ago
+TechCrunch • 12h ago
 
 ---
 
@@ -142,7 +142,7 @@ TechCrunch • 11h ago
 
 Caitlin Kalinowski says she is quitting OpenAI over concerns that the technology could be used for mass surveillance and autonomous weapons.
 
-Business Insider • 14h ago
+Business Insider • 15h ago
 
 ---
 
@@ -150,7 +150,7 @@ Business Insider • 14h ago
 
 Caitlin Kalinowski explained on X that certain guardrails "deserved more deliberation than they got" when announcing her departure.
 
-Engadget • 12h ago
+Engadget • 13h ago
 
 ---
 
@@ -159,7 +159,7 @@ Engadget • 12h ago
 Caitlin Kalinowski posted on X that she resigned from OpenAI, saying the company’s contract didn’t do enough to protect Americans from warrantless surveillance and that granting AI “lethal autonomy without human authorization” was a line that “deserved more deliberation.”
 [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-07-at-3.54.17%E2%80%AFPM.png?quality=90&strip=all]
 
-The Verge • 11h ago
+The Verge • 12h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Verge • 11h ago
 
 Caitlin Kalinowski, OpenAI's head of robotics, resigned over the Pentagon AI deal, saying it lacked guardrails on surveillance and autonomous weapons.
 
-TNW | The heart of tech • 10h ago
+TNW | The heart of tech • 11h ago
 
 ---
 
@@ -175,7 +175,7 @@ TNW | The heart of tech • 10h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 11h ago
+Futurism • 12h ago
 
 ---
 
@@ -195,7 +195,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 561K • 👍 35K • 💬 4K • ⏱️ 16:54 • 4d ago
+👁️ 568K • 👍 35K • 💬 4K • ⏱️ 16:54 • 4d ago
 
 ---
 
@@ -205,7 +205,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 118K • 👍 1K • 💬 164 • ⏱️ 29:41 • 2d ago
+👁️ 125K • 👍 2K • 💬 172 • ⏱️ 29:41 • 2d ago
 
 ---
 
@@ -215,7 +215,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME will b
 
 📺 NHRL
 
-👁️ 10K • 👍 285 • 💬 4 • ⏱️ 3:35:12 • 8h ago
+👁️ 11K • 👍 294 • 💬 5 • ⏱️ 3:35:12 • 9h ago
 
 ---
 
@@ -225,7 +225,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 21K • 👍 759 • 💬 55 • ⏱️ 14:35 • 3d ago
+👁️ 21K • 👍 760 • 💬 55 • ⏱️ 14:35 • 3d ago
 
 ---
 
@@ -239,23 +239,23 @@ FRC team Orbit 1690 from Binyamina, Israel, presents its 2026 robot for the game
 
 ---
 
+**[I, Robot – When a Movie Feels Made by AI | Anatomy of a Failure](https://www.youtube.com/watch?v=pS1A_sIR_fM)**
+
+Get 10 Free Meals and your first box ship free with code FILMENTOFM at https://bit.ly/4aKycJe I, Robot is a 2004 Will Smith movie ...
+
+📺 Filmento
+
+👁️ 80K • 👍 5K • 💬 945 • ⏱️ 20:54 • 1d ago
+
+---
+
 **[Phones Get Weird, Robots Are Everywhere at MWC 2026](https://www.youtube.com/watch?v=HG1Of5WZpNc)**
 
 At the world's largest mobile show, companies from around the globe take their biggest swings. Unique smartphones, dancing ...
 
 📺 CNET
 
-👁️ 11K • 👍 415 • 💬 15 • ⏱️ 4:13 • 19h ago
-
----
-
-**[War Robots - Dagon With New Rapid Firing Velos Weapons!](https://www.youtube.com/watch?v=tPqupbAHF6k)**
-
-War Robots - Dagon with the new rapid firing Velos weapons! WR Dagon Gameplay. #warrobots #warrobotsgameplay #wr ...
-
-📺 Adrian Chong
-
-👁️ 7K • 👍 381 • 💬 61 • ⏱️ 15:24 • 2d ago
+👁️ 12K • 👍 429 • 💬 16 • ⏱️ 4:13 • 20h ago
 
 ---
 
@@ -265,27 +265,27 @@ At China Expo 2026, Chinese fighting robots became one of the most shocking high
 
 📺 Carros Show
 
-👁️ 4K • 👍 67 • 💬 23 • ⏱️ 9:59 • 6d ago
+👁️ 4K • 👍 68 • 💬 23 • ⏱️ 9:59 • 6d ago
 
 ---
 
-**[NEW Sniper Titan WAYMAKER Gameplay [War Robots]](https://www.youtube.com/watch?v=MzbhADGfBAI)**
+**[Autonomous Robot Fighting League Just Started and It&#39;s Insane #robotics #robot #humanoidrobots](https://www.youtube.com/watch?v=B7A-KHSEj40)**
 
-War Robots Gameplay: NEW Sniper Titan WAYMAKER is coming to WR. Here's my new YouTube Channel @ManniRAID ...
+The maker of China's Terminator is sending a fleet of the robots into the world to prepare for combat. Shenzhen-based EngineAI ...
 
-📺 Manni-Gaming
+📺 Kalil 4.0
 
-👁️ 19K • 👍 856 • 💬 194 • ⏱️ 15:49 • 21h ago
+👁️ 1K • 👍 62 • 💬 11 • ⏱️ 1:09 • 12h ago
 
 ---
 
-**[I, Robot – When a Movie Feels Made by AI | Anatomy of a Failure](https://www.youtube.com/watch?v=pS1A_sIR_fM)**
+**[Honor’s First Humanoid Robot Unveils Its Dance Moves at MWC | What the Future](https://www.youtube.com/watch?v=NDph9DHvm60)**
 
-Get 10 Free Meals and your first box ship free with code FILMENTOFM at https://bit.ly/4aKycJe I, Robot is a 2004 Will Smith movie ...
+Watch the official reveal of Honor's first humanoid service robot announced at MWC 2026. Read more at CNET.com First Steps?
 
-📺 Filmento
+📺 CNET
 
-👁️ 78K • 👍 5K • 💬 932 • ⏱️ 20:54 • 1d ago
+👁️ 58K • 👍 328 • 💬 36 • ⏱️ 1:27 • 6d ago
 
 ---
 
