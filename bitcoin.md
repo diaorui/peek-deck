@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T10:52:02.268918+00:00'
+updated: '2026-03-08T11:22:02.168469+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 10:52 UTC  
+**Last Updated:** March 08, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the
 
 Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption — capped at $5,000 annually — to let Americans use Bitcoin and other digital assets for everyday purchases without triggering capital gains taxes.
 
-🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 2h ago
+🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption —
 
 For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bitcoin on r/thelightningnetwork. No, that's a dying fork of Bitcoin... No, it's called a temporary privacy. All the transactions are still kept on the blockchain, waiting for quantum computers to read all your "private" shitcoin transactions. Using P2P exchanges and lightning is more future proof because there's no blockchain, to keep all txs for QC to read in the future. No, even that's a premined and centralized shitcoin too. It doesn't matter it's sitting right under Bitcoin. It doesn't make it a less of shitcoin at all.
 
-2h ago
+3h ago
 
 ---
 
@@ -129,7 +129,7 @@ This is why we Bitcoin $BTC. When your banks starts questioning you about your p
 
 Markets are getting hammered right now and people are freaking out, but this is exactly what we've been waiting for. Sure, things look rough and it might get worse before it gets better, but that's just how these cycles work. This is your chance to dollar cost average into these dips. I've been setting aside extra cash specifically for moments like this - every time we hit a new support level that breaks, I'm grabbing more. Could we go lower? Maybe. But I'd rather buy on the way down than watch it rocket past my target price again. Been through enough of these corrections to know that the people buying during the fear are usually the ones celebrating later. Stay disciplined with your strategy and keep building your position while it's on sale.
 
-10h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Markets are getting hammered right now and people are freaking out, but this is 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -153,7 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Race for the last million Bitcoin begins...
 
-15h ago
+16h ago
 
 ---
 
@@ -165,7 +165,7 @@ Race for the last million Bitcoin begins...
 
 The divergence between large and small holders has historically preceded further downside, with the Crypto Fear and Greed Index dropping to 12
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Forbes • 22h ago
 
 Bitcoin could experience a short-term rally that catches investors off guard before the broader downtrend resumes, according to on-chain analyst Willy Woo. “Bull trap forming,” Woo said in an X post on Saturday, referring to a fake breakout suggesting that the market is entering a sustained uptrend…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -187,7 +187,7 @@ TradingView • 5h ago
 
 Is the market-leading cryptocurrency in danger of being disrupted?
 
-The Motley Fool • 41m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Motley Fool • 41m ago
 
 Key PointsInvesting and betting are different, but prediction markets are hot.
 
-Nasdaq • 7h ago
+Nasdaq • 8h ago
 
 ---
 
@@ -203,7 +203,7 @@ Nasdaq • 7h ago
 
 Bitcoin nearly touched $74,000 this week. But it’s now trading below $70,000. Volatility has returned to crypto markets following the US-Israel attack on Iran.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -335,7 +335,7 @@ Global tensions, oil politics, and the petrodollar system may be colliding in re
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 154 • ⏱️ 15:47 • 16h ago
+👁️ 21K • 👍 2K • 💬 154 • ⏱️ 15:47 • 17h ago
 
 ---
 
@@ -365,7 +365,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 2K • 💬 13 • ⏱️ 59:14 • 20h ago
+👁️ 34K • 👍 2K • 💬 13 • ⏱️ 59:14 • 21h ago
 
 ---
 

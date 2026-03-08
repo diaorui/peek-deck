@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T10:52:02.278383+00:00'
+updated: '2026-03-08T11:22:02.177623+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 10:52 UTC  
+**Last Updated:** March 08, 2026 at 11:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go before it’s complete. I've also switched from using a breadboard to a proper perfboard circuit.
 
-6h ago
+7h ago
 
 ---
 
 **[A robot guided by living rat brain cells that could learn from experience](https://www.reddit.com/r/robotics/comments/1rnexhi/a_robot_guided_by_living_rat_brain_cells_that/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -56,7 +56,7 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 **[This robot keeps your desk tidy](https://www.reddit.com/r/robotics/comments/1rnoknw/this_robot_keeps_your_desk_tidy/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -64,13 +64,13 @@ Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=7
 
 Did anyone actually end up buying this robot: https://www.1x.tech/? I remember hearing that it would release worldwide in 2026 in the news around October to November, and everyone got really upset about it.
 
-10h ago
+11h ago
 
 ---
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/robotics/comments/1rnmlw9/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 12h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 13h ago
 
 ---
 
@@ -86,7 +86,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2030022092398133
 
 Broke some legs trying ti calibrate this hexapod. Used a cheap buck converter and it didnt provide enough current but changed to a ubec and its working better. Idk why the servos keep jittering tho.i made another hexapod w a ps2 controller too but it worked fine. In suspecting that there us too much noise since i placed the receiver under so many wires. Planning to go ps5 controller with esp32
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone, this is my project, is called Mercury. Is a mutlimdoal drone capab
 
 A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -126,7 +126,7 @@ Futurism • 14h ago
 
 **[OpenAI’s Robotics Chief Quits After Firm’s Pentagon Deal](https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/)**
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
@@ -142,7 +142,7 @@ The San Francisco Standard • 10h ago
 
 The Philadelphia Robotics Coalition gathered students for a special day of innovation.
 
-6abc Philadelphia • 11h ago
+6abc Philadelphia • 12h ago
 
 ---
 
@@ -156,7 +156,7 @@ Fox Business • 2d ago
 
 **[UMF welcomes Blue Crew High School Robotics Team to campus for the 2026 season](https://www.bangordailynews.com/2026/03/07/bdn-maine/umf-welcomes-blue-crew-high-school-robotics-team-to-campus-for-the-2026-season/)**
 
-Bangor Daily News • 16h ago
+Bangor Daily News • 17h ago
 
 ---
 
@@ -164,7 +164,7 @@ Bangor Daily News • 16h ago
 
 U.S. officials have released draft rules that would introduce tiered export controls on AI chips, aiming to tighten oversight of advanced processors shipped to certain markets. Qualcomm (NasdaqGS:QCOM) has joined other chipmakers in pushing back on the proposals, arguing the measures could affect access to key international customers and slow AI adoption. At the same time, Qualcomm is promoting its new Dragonwing processor for robotics, highlighting plans to grow beyond smartphones into AI...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -180,7 +180,7 @@ madhyamamonline.com • 5h ago
 
 CORALVILLE—Seventy-two robotics teams went head-to-head at the Iowa FIRST Tech Challenge Championship last weekend, and three N’West Iowa teams placed among the top 15 teams.
 
-The N'West Iowa REVIEW • 15h ago
+The N'West Iowa REVIEW • 16h ago
 
 ---
 
@@ -214,7 +214,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME will b
 
 📺 NHRL
 
-👁️ 11K • 👍 294 • 💬 5 • ⏱️ 3:35:12 • 10h ago
+👁️ 11K • 👍 294 • 💬 5 • ⏱️ 3:35:12 • 11h ago
 
 ---
 
@@ -254,7 +254,7 @@ At the world's largest mobile show, companies from around the globe take their b
 
 📺 CNET
 
-👁️ 12K • 👍 429 • 💬 16 • ⏱️ 4:13 • 21h ago
+👁️ 12K • 👍 429 • 💬 16 • ⏱️ 4:13 • 22h ago
 
 ---
 
@@ -274,7 +274,7 @@ The maker of China's Terminator is sending a fleet of the robots into the world 
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 62 • 💬 11 • ⏱️ 1:09 • 13h ago
+👁️ 1K • 👍 62 • 💬 11 • ⏱️ 1:09 • 14h ago
 
 ---
 
