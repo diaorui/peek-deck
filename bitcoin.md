@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T10:27:23.364616+00:00'
+updated: '2026-03-08T10:52:02.268918+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 10:27 UTC  
+**Last Updated:** March 08, 2026 at 10:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -105,7 +105,7 @@ For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bit
 
 Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art Magazine, the world’s first publication dedicated entirely to the art and culture emerging around Bitcoin. Bitcoin Art Magazine is an independent publication documenting the artists, ideas, and visual language forming around Bitcoin as a new monetary system and cultural movement. Our goal is to preserve and elevate the work of artists engaging with Bitcoin not just as a subject, but as a philosophical and creative framework. The Genesis Edition features more than 150 pages of artwork and writing from Bitcoin artists around the world, including Fractal Encrypt, Madex, Mear One, Asanoha, and many others. The magazine focuses on traditional mediums such as painting, printmaking, and sculpture, with an emphasis on craftsmanship, material integrity, and visual storytelling. We believe the art being created today will shape how future generations understand this moment in history. Bitcoin Art Magazine exists to support and represent Bitcoin artists while giving collectors, readers, and listeners a deeper understanding of this cultural movement. Ultimately, we see Bitcoin art as part of a broader cultural renaissance still in its early stages — one that will continue to evolve as Bitcoin itself matures. Founded by Asanoha Block #912169 Genesis Edition cover art by FractalEncrypt
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art 
 
 I’m looking to invest in 1 bitcoin for about a year, but I heard some speculations that it’s going to keep falling, and even drop to zero. Just curious about when I should buy the bitcoin, or if I should keep waiting.
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ I’m looking to invest in 1 bitcoin for about a year, but I heard some speculat
 
 This is why we Bitcoin $BTC. When your banks starts questioning you about your post tax money, you know it's BITCOIN time
 
-🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 15h ago
+🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 16h ago
 
 ---
 
@@ -137,7 +137,7 @@ Markets are getting hammered right now and people are freaking out, but this is 
 
 31,900 BTC just left exchanges in one day. That big negative spike on the Exchange Netflow chart means coins are moving to cold storage or custody wallets. Why it matters: Less BTC on exchanges less immediate sell pressure. Large outflows often signal accumulation by bigger players. After volatility, this can look like dip buying If price holds key levels and inflows don’t return, reduced supply could support a move higher.
 
-12h ago
+13h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 5h ago
 
 **[The Fed’s Bitcoin Price Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/03/07/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -187,7 +187,7 @@ TradingView • 5h ago
 
 Is the market-leading cryptocurrency in danger of being disrupted?
 
-The Motley Fool • 17m ago
+The Motley Fool • 41m ago
 
 ---
 
@@ -355,7 +355,7 @@ A historic shift is happening in the global economy. As geopolitical tensions ri
 
 📺 Financial Funda
 
-👁️ 4K • 👍 154 • 💬 24 • ⏱️ 2:51 • 17h ago
+👁️ 4K • 👍 154 • 💬 24 • ⏱️ 2:51 • 18h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin's Liquidity Heist: $63K Flush → $74K Trap — Did You Panic Sell? Bitc
 
 📺 Mystery Market Vault
 
-👁️ 4K • 👍 137 • 💬 33 • ⏱️ 20:06 • 17h ago
+👁️ 4K • 👍 137 • 💬 33 • ⏱️ 20:06 • 18h ago
 
 ---
 
@@ -413,7 +413,7 @@ Become a Client: ...
 
 📺 The Bitcoin Way
 
-👁️ 1K • 👍 144 • 💬 26 • ⏱️ 35:23 • 17h ago
+👁️ 1K • 👍 144 • 💬 26 • ⏱️ 35:23 • 18h ago
 
 ---
 

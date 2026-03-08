@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T10:27:23.355968+00:00'
+updated: '2026-03-08T10:52:02.260445+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 10:27 UTC  
+**Last Updated:** March 08, 2026 at 10:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 **[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 12h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 13h ago
 
 ---
 
@@ -71,7 +71,7 @@ Analysis finds that the use of AI in scientific writing is increasing
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 22h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 23h ago
 
 ---
 
@@ -135,7 +135,7 @@ Fortune • 1d ago
 
 Researchers at the University of Cirencester say it may help the environment and save money.
 
-BBC • 39m ago
+BBC • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ BBC • 39m ago
 
 Tech firms condemned for lack of controls with Meta AI and Gemini even offering advice on how to bypass UK gambling and addiction checks
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ The New York Times • 1d ago
 
 **[How Lilly Used AI To Crank Up Production Of Its Popular GLP-1s](https://www.forbes.com/sites/amyfeldman/2026/03/07/how-lilly-used-ai-to-crank-up-production-of-its-popular-glp-1s/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -233,7 +233,7 @@ Slopforks: what happens when a library gets rewritten with AI?
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 105 • 💬 86 • 20h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 105 • 💬 86 • 21h ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -249,7 +249,7 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
 
-⬆️ 63 • 💬 66 • 10h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+⬆️ 63 • 💬 66 • 11h ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
 
 ---
 
@@ -277,7 +277,7 @@ OpenAI just released a system called Symphony that can send AI agents to complet
 
 📺 AI Revolution
 
-👁️ 22K • 👍 729 • 💬 50 • ⏱️ 14:19 • 11h ago
+👁️ 22K • 👍 729 • 💬 50 • ⏱️ 14:19 • 12h ago
 
 ---
 
@@ -297,7 +297,7 @@ Everyone keeps saying the same thing: AI is going to replace programmers. You've
 
 📺 devsplate
 
-👁️ 35K • 👍 1K • 💬 191 • ⏱️ 3:46 • 19h ago
+👁️ 35K • 👍 1K • 💬 191 • ⏱️ 3:46 • 20h ago
 
 ---
 
@@ -639,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.4k • 🔱 3.1k • 6h ago
+⭐ 24.4k • 🔱 3.1k • 7h ago
 
 ---
 
@@ -659,7 +659,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.5k • 🔱 1.1k • 5h ago
+⭐ 9.5k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -669,7 +669,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.0k • 🔱 510 • 3h ago
+⭐ 7.0k • 🔱 510 • 4h ago
 
 ---
 
@@ -719,7 +719,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 389 • 1h ago
+⭐ 3.6k • 🔱 389 • 2h ago
 
 ---
 
@@ -729,7 +729,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.4k • 🔱 251 • 2h ago
+⭐ 3.4k • 🔱 251 • 3h ago
 
 ---
 

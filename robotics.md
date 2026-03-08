@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-08T10:27:23.373962+00:00'
+updated: '2026-03-08T10:52:02.278383+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 08, 2026 at 10:27 UTC  
+**Last Updated:** March 08, 2026 at 10:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Link to the video of it working: https://www.youtube.com/watch?v=8weu8V_CPMU&t=77s
 
-11h ago
+12h ago
 
 ---
 
@@ -120,7 +120,7 @@ Fortune • 17h ago
 
 The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
 
-Futurism • 13h ago
+Futurism • 14h ago
 
 ---
 
@@ -134,7 +134,7 @@ Forbes • 14h ago
 
 Caitlin Kalinowski, OpenAI’s head of robotics, resigned over the company’s new Pentagon deal — saying decisions about surveillance of Americans and lethal autonomy “deserved more deliberation than they got.”
 
-The San Francisco Standard • 9h ago
+The San Francisco Standard • 10h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 19h ago
 
 OpenAI's robotics team leader Caitlin Kalinowski has resigned, protesting the company's decision to deploy AI models in the Pentagon's classified network
 
-madhyamamonline.com • 4h ago
+madhyamamonline.com • 5h ago
 
 ---
 
