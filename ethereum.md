@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T15:47:26.851786+00:00'
+updated: '2026-03-08T16:30:54.282469+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 15:47 UTC  
+**Last Updated:** March 08, 2026 at 16:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.12B
+**Market Cap:** $234.49B
 Rank #2
 
 **Circulating Supply:** 120,692,053 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.6%
+-60.7%
 
 **All-Time Low:** $0.43
-+449931.1%
++448487.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For the past few months I've been building EthereumHistory.com, a project to document every notable smart contract from Ethereum's earliest days (2015-2017). Think of it as a Wikipedia for Ethereum's contract archaeology. Recently I did a deep scan of all 12,609 contracts deployed during the Frontier era and found 1,650 still holding ETH — totaling over 38,000 ETH (~$95M at current prices) locked in contracts from Ethereum's first weeks. Here's what's actually inside them: The Gambling Contracts (Day 13 of Ethereum) EtherDice (0xc4c51de1abf5d60dbd329ec0f999fd8f021ae9fc) was deployed on August 12, 2015 — just 13 days after Ethereum launched. Someone loaded it with a 1,000 ETH bankroll. It's a 21-function commit-reveal dice game, surprisingly sophisticated for the era. 122 ETH still sits inside, permanently locked because the deployer likely lost their keys years ago. The Inverted Timelock TimeLockVault (0xed44f3c2081480b08643fe1ca281fab9ed643735) has a beautiful bug: the time check is inverted. You can withdraw before the unlock date (2035), but once 2035 arrives, the funds become permanently locked. 50 ETH inside. The deployer could have withdrawn years ago but apparently never noticed. The Stalled Pyramid EtherPyramid (0xa9e4e3b1da2752aea980698c335e70e9ab26c) had 140 participants. 136 of them are still waiting for their payout. 37 ETH frozen forever in a pyramid that ran out of new entrants. A time capsule of early Ethereum's Wild West era. The Pattern After scanning all 1,650 funded contracts, the pattern is consistent: every single one is either owner-gated (keys likely lost), bug-locked, pyramid-stalled, or timelocked. At least 5 active hunter addresses have already probed most of these contracts looking for extractable funds. None succeeded. These contracts are essentially digital fossils — permanently preserved on-chain with real ETH sealed inside them. They tell the story of Ethereum's earliest developers experimenting with code that would handle real money, often for the first time. I've been documenting these on EthereumHistory.com with verified source code, deployment context, and the stories behind them. If you deployed contracts in 2015-2016 or know the stories behind any early projects, I'd love to hear from you. What early Ethereum contracts do you remember that deserve to be documented?
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ For the past few months I've been building EthereumHistory.com, a project to doc
 
 "a practical compliance framework that enables an auditing entity to selectively unshield transactions upon legitimate regulatory request" So, the entire point of using the chain is null and void. What's the use of hiding transactions when an arbitrary entity can just... unhide them? "For compliance, each user registers an encrypted copy of their viewing key on-chain. Upon legitimate regulatory request, a designated auditing entity can decrypt this key to trace a specific user’s transaction history, without affecting the privacy of uninvolved users." So it is effectively mandatory. Wonderful. Who did they think we were hiding transactions from, our ex? The paper: https://eprint.iacr.org/2026/474
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ For the past few months I've been building EthereumHistory.com, a project to doc
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
 
-3h ago
+4h ago
 
 ---
 
@@ -170,13 +170,13 @@ Yahoo Finance • 4h ago
 
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
-Binance • 20h ago
+Binance • 21h ago
 
 ---
 
 **[Key facts: Clarity Act to Boost Ethereum Investment; Buterin Advocates for Privacy](https://www.tradingview.com/news/tradingview:dbeedf0571fc3:0-key-facts-clarity-act-to-boost-ethereum-investment-buterin-advocates-for-privacy/)**
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -184,7 +184,7 @@ TradingView • 15h ago
 
 Culper Research has shorted ETH citing underlying Ethereum staking and validator crisis.
 
-AMBCrypto • 19h ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 142 • ⏱️ 11:32 • 19h ago
+👁️ 37K • 👍 2K • 💬 141 • ⏱️ 11:32 • 20h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 98 • 💬 73 • ⏱️ 15:06 • 10h ago
+👁️ 3K • 👍 111 • 💬 74 • ⏱️ 15:06 • 11h ago
 
 ---
 
@@ -264,7 +264,17 @@ In this clip from the most recent askSlim Live, Slim provides an analysis update
 
 📺 Steve Miller
 
-👁️ 2K • 👍 70 • 💬 4 • ⏱️ 8:11 • 20h ago
+👁️ 2K • 👍 78 • 💬 4 • ⏱️ 8:11 • 20h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=rUWDg8L-URM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 126 • 💬 6 • ⏱️ 3:42 • 19h ago
 
 ---
 
@@ -274,7 +284,7 @@ BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 287 • 💬 62 • ⏱️ 17:36 • 16h ago
+👁️ 9K • 👍 294 • 💬 63 • ⏱️ 17:36 • 17h ago
 
 ---
 
@@ -284,7 +294,17 @@ The old financial system is cracking, and Ethereum is what comes next. Joe Lubin
 
 📺 The Rollup
 
-👁️ 301 • 👍 20 • 💬 8 • ⏱️ 22:47 • 1d ago
+👁️ 313 • 👍 20 • 💬 8 • ⏱️ 22:47 • 1d ago
+
+---
+
+**[15,000 Ethereum Coins Under This Bedroom Floor](https://www.youtube.com/watch?v=imtip3XW7QA)**
+
+Workers build a luxury epoxy floor using thousands of Ethereum coins hidden under the bedroom floor. #ethereum #crypto ...
+
+📺 windy the
+
+👁️ 743 • 👍 5 • ⏱️ 0:11 • 1h ago
 
 ---
 
@@ -294,7 +314,7 @@ Discover how Ethereum is quietly becoming the backbone for new money movement. W
 
 📺 MONEY GAME
 
-👁️ 475 • 👍 13 • 💬 3 • ⏱️ 1:36 • 1d ago
+👁️ 478 • 👍 14 • 💬 3 • ⏱️ 1:36 • 1d ago
 
 ---
 
@@ -304,27 +324,7 @@ Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. 
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 108 • 💬 12 • ⏱️ 7:38 • 23h ago
-
----
-
-**[&quot;People Don’t Know How Massive MARCH Will Be for Crypto&quot;: Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=7oRNY59aeTo)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 3K • 👍 77 • 💬 6 • ⏱️ 19:52 • 3d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MlHv6JdY9xw)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 125 • 💬 5 • ⏱️ 6:30 • 1d ago
+👁️ 2K • 👍 115 • 💬 12 • ⏱️ 7:38 • 1d ago
 
 ---
 

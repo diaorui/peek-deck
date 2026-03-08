@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-08T15:47:26.845762+00:00'
+updated: '2026-03-08T16:30:54.276576+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 15:47 UTC  
+**Last Updated:** March 08, 2026 at 16:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1347.37B
+**Market Cap:** $1342.44B
 Rank #1
 
-**Circulating Supply:** 19,999,528 BTC
+**Circulating Supply:** 19,999,559 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.6%
+-46.8%
 
 **All-Time Low:** $67.81
-+99233.4%
++98878.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption — capped at $5,000 annually — to let Americans use Bitcoin and other digital assets for everyday purchases without triggering capital gains taxes.
 
-🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 7h ago
+🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption —
 
 I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the world this week, war with Iran, oil prices climbing, 92,000 jobs lost in a single month, robotic arms replacing workers and thought: the cost of living is never going back down. So I did something terrifying, beyond any fathers' comfort zone. I accumulated and manage to finally buy 2 Bitcoins. One for each of my son. Every cent of it was earned. Not inherited. Not gifted. Earned, through long days, late nights, and the quiet sacrifices that nobody sees but you make anyway because you have two little faces at home counting on you. I don't know if Bitcoin will be worth a million dollars one day. I don't know if it drops to zero. Nobody does, and anyone who tells you otherwise is lying. What I do know is this: the system we were born into the one that promised that if you worked hard and saved diligently, you'd be okay is getting harder to trust every single year. Rent goes up. Groceries go up. The gap between those who have generational wealth and those who are starting from nothing keeps widening. I grew up with nothing. I refuse to let my kids start from nothing too. So this is my letter to them, posted here because maybe some of you are in the same position — ordinary people, not wealthy, just trying: *To my children, M.T & O.T * By the time you read this, Bitcoin will either have changed your life or humbled us both. Either way, I need you to know that I tried. I sat with the uncertainty. I felt the fear. And I bought anyway not out of greed, but out of love. I wanted to give you something that no government could inflate away, no bank could freeze, and no economic crisis could take from you the way it has taken from so many. I HODL'd it for you. Every dip. Every crash. Every headline that said it was over. I held, because I believed in your future more than I feared the risk. And if this works if this single decision somehow lifts you above the poverty line I was born into, I hope you pay it forward. Because that's the real dream behind Bitcoin for me. Not lambos. Not getting rich. A world where more people have a fighting chance. Hold the line, fellow HODLers. We're not just investing in an asset. Some of us are investing in our children's futures. 🧡 Dad of two. Holder of 2 BTC. Scared and hopeful in equal measure. *Not financial advice. Just a father trying his best for M.T & O.T * Update Thank you for the supports and encouragement. I just hope my children will be able to read this Reddit post one day and know that I sincerely did my best. To my sons If I am no longer in this world and you are reading this, please know that not a single day passed where you were not in my thoughts. Forgive me if I troubled you two a lot and thank you for putting up with me if you ever did. I love you, sons. More than any words I could ever leave behind. Your Dad, W 🧡
 
-15h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the
 
 For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bitcoin on r/thelightningnetwork. No, that's a dying fork of Bitcoin... No, it's called a temporary privacy. All the transactions are still kept on the blockchain, waiting for quantum computers to read all your "private" shitcoin transactions. Using P2P exchanges and lightning is more future proof because there's no blockchain, to keep all txs for QC to read in the future. No, even that's a premined and centralized shitcoin too. It doesn't matter it's sitting right under Bitcoin. It doesn't make it a less of shitcoin at all.
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bit
 
 Were living in the most uncertain time in recent history. Inflation is soon to be rampant and will not be able to be stopped. The wealthy will receive bail outs. The poors will receive threats of death or jail if we dont fight wars for the elites. Threats of jail or death if we dont turn in our personal gold reserves. Own what cant be frozen as easily as a USD asset. Own something more portable than gold. Own something that represents one of the only attempts at returning monetary freedom to the people who have realized the debt system is not for them. Bitcoin in a cold wallet.
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Were living in the most uncertain time in recent history. Inflation is soon to b
 
 Greetings, I’m a Ukrainian woman living in Austria as a refugee. I have about €100k in inheritance sitting in a bank account in Kyiv. Unfortunately, due to the current martial law, the outflow of money from Ukraine has been severely restricted. You are only allowed to carry a maximum of €10k in cash at the border, and sending money abroad has been capped at €2k per month. I need this money as soon as possible and don’t want it sitting in a country riddled with corruption and war. I’ve read that crypto can be a way to move money internationally since it has no central governing body. I don’t know much about it, but from my research it seems that I could convert the money into crypto, transfer it to my hardware wallet or an exchange, and then withdraw it outside of Ukraine. However, the extreme volatility of crypto makes me worried. What if I convert the money at an unlucky moment and the price drops when I want to withdraw, causing me to lose money? Does anyone have experience with a similar situation and can provide some helpful tips or resources? Still feeling very nervous about this. I would be very grateful. Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ Introducing the world's first Bitcoin Art Magazine We just launched Bitcoin Art 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Markets are getting hammered right now and people are freaking out, but this is exactly what we've been waiting for. Sure, things look rough and it might get worse before it gets better, but that's just how these cycles work. This is your chance to dollar cost average into these dips. I've been setting aside extra cash specifically for moments like this - every time we hit a new support level that breaks, I'm grabbing more. Could we go lower? Maybe. But I'd rather buy on the way down than watch it rocket past my target price again. Been through enough of these corrections to know that the people buying during the fear are usually the ones celebrating later. Stay disciplined with your strategy and keep building your position while it's on sale.
 
-15h ago
+16h ago
 
 ---
 
@@ -153,7 +153,7 @@ Markets are getting hammered right now and people are freaking out, but this is 
 
 This is why we Bitcoin $BTC. When your banks starts questioning you about your post tax money, you know it's BITCOIN time
 
-🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 21h ago
+🔗 [youtube.com](https://youtube.com/watch?v=M1PMgEKpQGM&si=h1-KPKcpfOt5oSyE) • 22h ago
 
 ---
 
@@ -165,7 +165,7 @@ This is why we Bitcoin $BTC. When your banks starts questioning you about your p
 
 The divergence between large and small holders has historically preceded further downside, with the Crypto Fear and Greed Index dropping to 12
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -179,7 +179,7 @@ Forbes • 1d ago
 
 Value can stem from an asset's ability to change, or from its habit of staying the same.
 
-The Motley Fool • 2m ago
+The Motley Fool • 45m ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 2m ago
 
 Key PointsFrom a fundamental perspective, Bitcoin should achieve more regulatory and political buy-in.
 
-Nasdaq • 2h ago
+Nasdaq • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Nasdaq • 2h ago
 
 Riot Platforms (NasdaqCM:RIOT) has acquired full ownership of its Rockdale, Texas site, removing future lease obligations. The company plans to develop the Rockdale facility into high-capacity AI and data center infrastructure. Riot has signed a 10 year anchor lease with AMD to host AI and high performance computing workloads. The company is aiming to leverage its 1.7 gigawatt Texas power portfolio to support large scale data center operations. Riot Platforms, best known as a pure play...
 
-Yahoo Finance Singapore • 36m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -203,13 +203,13 @@ Yahoo Finance Singapore • 36m ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 4h ago
+Polymarket • 5h ago
 
 ---
 
 **[Bitcoin slides to $67,000 as ’extreme fear’ grips crypto markets](https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-to-67000-as-extreme-fear-grips-crypto-markets-4548565)**
 
-Investing.com • 8h ago
+Investing.com • 9h ago
 
 ---
 
@@ -217,7 +217,7 @@ Investing.com • 8h ago
 
 Bitcoin could experience a short-term rally that catches investors off guard before the broader downtrend resumes, according to on-chain analyst Willy Woo. “Bull trap forming,” Woo said in an X post on Saturday, referring to a fake breakout suggesting that the market is entering a sustained uptrend…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -309,7 +309,7 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 . Enterprise AI teams are moving beyond single-turn assistants and into systems expected to remember preferences, preserve project context and operate across longer horizons.
 
-⬆️ 10 • 💬 4 • 19h ago • [Venturebeat](https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for)
+⬆️ 10 • 💬 4 • 20h ago • [Venturebeat](https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for)
 
 ---
 
@@ -323,17 +323,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 142 • ⏱️ 11:32 • 19h ago
-
----
-
-**[Trump Just BROKE the Petrodollar (Bitcoin Repricing IMMINENT!)](https://www.youtube.com/watch?v=-8lS8eunbNo)**
-
-Global tensions, oil politics, and the petrodollar system may be colliding in real time. As geopolitical pressure builds and fiat ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 164 • ⏱️ 15:47 • 21h ago
+👁️ 37K • 👍 2K • 💬 141 • ⏱️ 11:32 • 20h ago
 
 ---
 
@@ -343,17 +333,17 @@ Will bitcoin crash again to new lows or has it bottomed? We explain why bitcoin'
 
 📺 Alessio Rastani
 
-👁️ 15K • 👍 1K • 💬 183 • ⏱️ 4:28 • 8h ago
+👁️ 19K • 👍 2K • 💬 228 • ⏱️ 4:28 • 9h ago
 
 ---
 
-**[The AI Boom Is EXACTLY Why Bitcoin Exists](https://www.youtube.com/watch?v=5kFhXw1wZvQ)**
+**[Trump Just BROKE the Petrodollar (Bitcoin Repricing IMMINENT!)](https://www.youtube.com/watch?v=-8lS8eunbNo)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Global tensions, oil politics, and the petrodollar system may be colliding in real time. As geopolitical pressure builds and fiat ...
 
-📺 Anthony Pompliano
+📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 13 • ⏱️ 59:14 • 1d ago
+👁️ 23K • 👍 2K • 💬 170 • ⏱️ 15:47 • 22h ago
 
 ---
 
@@ -363,25 +353,37 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 137 • ⏱️ 11:48 • 1d ago
+👁️ 50K • 👍 2K • 💬 139 • ⏱️ 11:48 • 1d ago
 
 ---
 
-**[&quot;Bitcoin is Going to 20x, But 99% are Clueless&quot; - Matt Hougan [NEW Bitcoin &amp; Crypto Prediction 2026]](https://www.youtube.com/watch?v=hREk_BflFms)**
+**[The AI Boom Is EXACTLY Why Bitcoin Exists](https://www.youtube.com/watch?v=5kFhXw1wZvQ)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Crypto Nutshell
+📺 Anthony Pompliano
 
-👁️ 25K • 👍 684 • 💬 73 • ⏱️ 19:58 • 3d ago
+👁️ 40K • 👍 2K • 💬 13 • ⏱️ 59:14 • 1d ago
 
 ---
 
-**[Why Bitcoin Keeps Dropping](https://www.youtube.com/watch?v=z6Mm8vNGFtk)**
+**[Bitcoin Holders, Something Big Just Happened](https://www.youtube.com/watch?v=_uCC6MD_zns)**
 
-📺 Andrei Jikh
+Get started with Plus500 - Practice with a FREE demo account or kickstart your trading with a BONUS of $30 when depositing at ...
 
-👁️ 72K • 👍 2K • 💬 36 • ⏱️ 1:12 • 1d ago
+📺 Aaron Bennett
+
+👁️ 14K • 👍 708 • 💬 56 • ⏱️ 8:51 • 1d ago
+
+---
+
+**[BITCOIN: MARCH 2026 Price Outlook Prediction](https://www.youtube.com/watch?v=Tqaw62Be3b0)**
+
+Bitcoin price analysis and price predictions for March 2026 FREE TRAINING: https://www.bullmania.com EXCHANGES I ...
+
+📺 Ivan on Tech
+
+👁️ 11K • 👍 1K • 💬 49 • ⏱️ 14:39 • 9h ago
 
 ---
 
@@ -391,27 +393,25 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged https://ww
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 323 • 💬 2 • ⏱️ 19:14 • 1d ago
+👁️ 6K • 👍 322 • 💬 2 • ⏱️ 19:14 • 1d ago
 
 ---
 
-**[Bitcoin’s Liquidity Heist: $63K Flush → $74K Trap — Did You Panic Sell?](https://www.youtube.com/watch?v=JMP8JQ4FLCE)**
+**[Why Bitcoin Keeps Dropping](https://www.youtube.com/watch?v=z6Mm8vNGFtk)**
 
-Bitcoin's Liquidity Heist: $63K Flush → $74K Trap — Did You Panic Sell? Bitcoin just executed the most calculated liquidity sweep ...
+📺 Andrei Jikh
 
-📺 Mystery Market Vault
-
-👁️ 4K • 👍 142 • 💬 35 • ⏱️ 20:06 • 23h ago
+👁️ 74K • 👍 2K • 💬 36 • ⏱️ 1:12 • 1d ago
 
 ---
 
-**[Bitcoin pattern Epoxy floor - the luxury style of Arab Bosses #epoxyfloors    #epoxydesign #shorts](https://www.youtube.com/watch?v=t072u0k6WAM)**
+**[Gold ﹥ Bitcoin... For Now](https://www.youtube.com/watch?v=tgLjh-crK90)**
 
-This luxury epoxy floor is made with a unique Bitcoin coin pattern, inspired by the extravagant interior style often seen in Middle ...
+Gold is winning... for now. Bitcoin? Caught in the risk-off crossfire. Are investors looking at this the right way? Cathie Wood ...
 
-📺 Skyline Rising
+📺 ARK Invest
 
-👁️ 594 • 👍 4 • 💬 1 • ⏱️ 0:23 • 2h ago
+👁️ 23K • 👍 591 • 💬 18 • ⏱️ 2:11 • 2d ago
 
 ---
 

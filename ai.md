@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-08T15:47:26.837005+00:00'
+updated: '2026-03-08T16:30:54.268144+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 08, 2026 at 15:47 UTC  
+**Last Updated:** March 08, 2026 at 16:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 TLDR: Adult stars are quickly finding themselves out of work. Given the rise of AI generated porn within the last few years and how quickly it has improved in that time, adult entertainers like pornstars and Onlyfans creator will likely be completely replaced by Artificial intelligence within the decade. AI porn already is generating almost half of the adult star industries 140+ billion dollar a year revenues with an estimated $65.5 billion in 2024 and that number growing each year. AI already has replaced most of interactions within the adult chats and their videos can now be found on all the top porn site like pornhub. The days of stars getting rich from making content are quickly coming to an end, already are gone are the days where a woman could becoming a millionaire through a single years work in the porno industry. AI with it's ability to never have to sleep, to never be sick, be on it's period, pregnant, have an STI, look horrible from partying the night before, or simply not feel like working, it only makes since that the top earners in adult industry the producers not the actual creators are investing more an more into AI generated porn. While some pornstars have notoriously been difficult to work with in the past having uncontrollable emotional out brakes for no reason or be too addicted to various drugs to even perform AI has none of these problems. So, while the stars may have once earned them the most money they often were also their highest risk and with an ROI of 99 to1 who could afford not to become fully AI created content. Do you agree that AI will completely replace adult stars or do you think there will still be little niches of real life performers creating content, & how long to think it will take to get there? Do you think this is a good thing or a bad thing? What do you think all those women who made their livings off creating adult content will move on to do? Will it lead to greater female empowerment or a greater reduction in their share of the market?
 
-12h ago
+13h ago
 
 ---
 
@@ -49,13 +49,13 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use cases. Second brain, morning briefs, content factories, the usual. His take: , They all fall apart under basic scrutiny. I agree. The pattern is always the same. Impressive two-minute demo. Zero discussion of what it actually takes to make it work daily. Zero mention of cost. OpenClaw runs continuous sessions, so every task drags your entire context history with it. Your token bill adds up fast. The irony is the most technical people, the ones who could actually make it work, are the ones who immediately see simpler ways to do the same things. The audience getting hyped up is the least technical group. And they're the ones who'll hit a wall. Credit to Peter for building something clever. It's a tinkerer's sandbox and it's great at that. It was never supposed to be a finished product. The problem isn't him. It's influencers taking a sandbox and selling it as a finished solution to people who just want stuff to work. Three questions I ask before spending time on any AI tool: Is this the best tool for the job or just the shiniest? What does it actually cost to run? Would I still use this after the novelty wears off? Focused tools that do one thing well beat fancy agent frameworks. Every time.
 
-16h ago
+17h ago
 
 ---
 
 **[Anthropic'c Claude found 22 vulnerabilities in Firefox in just two weeks](https://www.reddit.com/r/artificial/comments/1ro1ybn/anthropicc_claude_found_22_vulnerabilities_in/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-20h ago
+21h ago
 
 ---
 
@@ -101,7 +101,7 @@ CodeGraphContext- the go to solution for graphical code indexing for Github Copi
 
 A particularly terrible example of this misuse of an LLM: “The plaintiffs’ lawyers also noted that Mr. Fox’s original ChatGPT search flagged a number of projects relating to the Holocaust, including the documentary about Jewish women who were slave laborers. Asked if he agreed with ChatGPT, Mr. Fox said: “It’s a Jewish — specifically focused on Jewish culture and amplifying the marginalized voices of the females in that culture. It’s inherently related to D.E.I. for that reason.””
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 18h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&smid=url-share) • 19h ago
 
 ---
 
@@ -117,7 +117,7 @@ A particularly terrible example of this misuse of an LLM: “The plaintiffs’ l
 
 **[How AI Is Turbocharging the War in Iran](https://www.wsj.com/tech/ai/how-ai-is-turbocharging-the-war-in-iran-aca59002?gaa_at=eafs&gaa_n=AWEtsqfrw77wSfaUARuid8IsvvglG89rOoyHo0Ej34vwcSlHe2KAPTFhHzLu&gaa_ts=69ad9d79&gaa_sig=7m8TVXtLhxTR1zj6JcVAoLde4YOgeJiR2mfUQgaMCs4jJQUk909HkUG37JBrsICZxCWyKIBfVTAEaP6M09-rJw%3D%3D)**
 
-WSJ • 22h ago
+WSJ • 23h ago
 
 ---
 
@@ -133,7 +133,7 @@ Fortune • 1d ago
 
 The skilled trades are considered more insulated from AI-driven job cuts, experts say.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNBC • 2h ago
 
 The war in Iran is complicating plans by Gulf nations to spend more than $300 billion on data centers, chips and other AI investments, crimping a potential source of funding for power-hungry tech companies. Countries such as the UAEand Saudi Arabia have become big destinations for data centers. ...
 
-The Information • 47m ago
+The Information • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Anthropic • 2d ago
 
 As companies experiment with AI agents, the technology is beginning to reshape office hierarchies across US and Canada.
 
-Al Jazeera • 4h ago
+Al Jazeera • 5h ago
 
 ---
 
@@ -219,13 +219,13 @@ The models are good now. But most people still miss the point.
 
 Slopforks: what happens when a library gets rewritten with AI?
 
-⬆️ 179 • 💬 186 • 2d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
+⬆️ 179 • 💬 186 • 3d ago • [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2026/3/5/theseus/)
 
 ---
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 154 • 💬 171 • 20h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 154 • 💬 171 • 21h ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -241,7 +241,7 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 I’ve forgotten how to write code, or at least I think I have. Hard to be sure, I haven’t done it for a while. But then, I start to muse…
 
-⬆️ 103 • 💬 92 • 22h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+⬆️ 103 • 💬 92 • 23h ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 
 ---
 
@@ -271,13 +271,23 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 ## YouTube Videos: "ai"
 
+**[Why Warren Buffett Says AI Is Worse Than Nuclear Weapons](https://www.youtube.com/watch?v=FKX_uvL01GU)**
+
+Warren Buffett has compared artificial intelligence to nuclear weapons. A warning that it could change the world in ways humanity ...
+
+📺 The Infographics Show
+
+👁️ 7K • 👍 524 • 💬 93 • ⏱️ 12:29 • 1h ago
+
+---
+
 **[OpenAI Just Dropped Symphony: The First AI That Actually Works](https://www.youtube.com/watch?v=nAFnIIYEmEI)**
 
 OpenAI just released a system called Symphony that can send AI agents to complete real tasks automatically. Instead of only ...
 
 📺 AI Revolution
 
-👁️ 27K • 👍 837 • 💬 65 • ⏱️ 14:19 • 16h ago
+👁️ 29K • 👍 872 • 💬 67 • ⏱️ 14:19 • 17h ago
 
 ---
 
@@ -287,27 +297,7 @@ Everyone keeps saying the same thing: AI is going to replace programmers. You've
 
 📺 devsplate
 
-👁️ 36K • 👍 1K • 💬 199 • ⏱️ 3:46 • 1d ago
-
----
-
-**[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**
-
-Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or ...
-
-📺 AI Explained
-
-👁️ 64K • 👍 3K • 💬 417 • ⏱️ 21:52 • 1d ago
-
----
-
-**[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
-
-Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
-
-📺 Matt Wolfe
-
-👁️ 73K • 👍 3K • 💬 323 • ⏱️ 38:02 • 1d ago
+👁️ 37K • 👍 1K • 💬 208 • ⏱️ 3:46 • 1d ago
 
 ---
 
@@ -317,7 +307,27 @@ China just released a one trillion parameter AI model called Yuan 3.0 Ultra. Bui
 
 📺 AI Revolution
 
-👁️ 59K • 👍 2K • 💬 117 • ⏱️ 10:56 • 2d ago
+👁️ 60K • 👍 2K • 💬 117 • ⏱️ 10:56 • 2d ago
+
+---
+
+**[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
+
+Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
+
+📺 Matt Wolfe
+
+👁️ 75K • 👍 3K • 💬 331 • ⏱️ 38:02 • 1d ago
+
+---
+
+**[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**
+
+Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or ...
+
+📺 AI Explained
+
+👁️ 65K • 👍 3K • 💬 423 • ⏱️ 21:52 • 2d ago
 
 ---
 
@@ -327,7 +337,7 @@ Go to https://tryfum.com/MOON or scan the QR code and use code MOON to get your 
 
 📺 Moon
 
-👁️ 243K • 👍 10K • 💬 2K • ⏱️ 21:07 • 2d ago
+👁️ 246K • 👍 10K • 💬 2K • ⏱️ 21:07 • 2d ago
 
 ---
 
@@ -337,37 +347,27 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 53K • 👍 1K • 💬 337 • ⏱️ 21:16 • 1d ago
+👁️ 54K • 👍 1K • 💬 343 • ⏱️ 21:16 • 1d ago
 
 ---
 
-**[Claude Code Just Got ANOTHER MASSIVE Upgrade with /Loop - Automate AI Coding!](https://www.youtube.com/watch?v=yLi7e8-Nvbg)**
+**[Cars 2 But it&#39;s Ruined by AI](https://www.youtube.com/watch?v=tZhqYNdeBDA)**
 
-Access top AI models and creators like Anthropic's Claude, OpenAI's GPT, Meta's Llama, DeepSeek, Moonshot AI's Kimi, plus ...
+Cars 2 But it's Ruined by AI what if AI took over your favorite series? In this video, we reimagine Inside Out with the help of ...
 
-📺 WorldofAI
+📺 Clip Chaos
 
-👁️ 6K • 👍 178 • 💬 19 • ⏱️ 8:43 • 7h ago
-
----
-
-**[Is AI assistant Claude conscious — and suffering from anxiety? | Jesse Weber Live](https://www.youtube.com/watch?v=eabH7vviHyk)**
-
-Dr. Matthew Canham, executive director of the Cognitive Security Institute, joins “Jesse Weber Live” to Anthropic's Claude model ...
-
-📺 NewsNation
-
-👁️ 6K • 👍 101 • 💬 31 • ⏱️ 5:28 • 1d ago
+👁️ 17K • 👍 153 • 💬 13 • ⏱️ 2:37 • 1d ago
 
 ---
 
-**[Virtual Ring Madness 🥊 | AI Parody Boxing Battle।  Donald Trump vs Vladimir Putin🥊🔥](https://www.youtube.com/watch?v=QOWbSZFNl5k)**
+**[LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](https://www.youtube.com/watch?v=KRE8JqTAEQk)**
 
-This AI-generated boxing match video has been created purely for your entertainment and enjoyment. In this fun and fictional ...
+HUGE AI NEWS: Qwen 3.5, LTX 2.3, Kiwi Edit, HY WU, FireRed 1.1, CUDA agent & more #ai #ainews #aitools #aivideo #agi ...
 
-📺 Politics Ai Fun
+📺 AI Search
 
-👁️ 1.8M • 👍 13K • 💬 325 • ⏱️ 0:14 • 1d ago
+👁️ 44K • 👍 2K • 💬 209 • ⏱️ 39:12 • 13h ago
 
 ---
 
@@ -383,7 +383,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 868,002 • ❤️ 589 • 6d ago
+⬇️ 868,002 • ❤️ 593 • 6d ago
 
 ---
 
@@ -395,7 +395,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 175,440 • ❤️ 346 • 3d ago
+⬇️ 175,440 • ❤️ 347 • 3d ago
 
 ---
 
@@ -407,7 +407,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,143,706 • ❤️ 1,037 • 9d ago
+⬇️ 1,143,706 • ❤️ 1,038 • 9d ago
 
 ---
 
@@ -443,7 +443,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 505,032 • ❤️ 250 • 6d ago
+⬇️ 505,032 • ❤️ 252 • 6d ago
 
 ---
 
@@ -455,7 +455,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 9,209 • ❤️ 226 • 16h ago
+⬇️ 9,209 • ❤️ 234 • 17h ago
 
 ---
 
@@ -467,7 +467,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 75,511 • ❤️ 199 • 4d ago
+⬇️ 75,511 • ❤️ 202 • 4d ago
 
 ---
 
@@ -479,7 +479,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,078,821 • ❤️ 577 • 2d ago
+⬇️ 1,078,821 • ❤️ 578 • 2d ago
 
 ---
 
@@ -491,7 +491,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 644 • ❤️ 162 • 1d ago
+⬇️ 644 • ❤️ 164 • 1d ago
 
 ---
 
@@ -521,7 +521,7 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 134 • 💬 5 • ⭐ 822 • 4d ago
+▲ 135 • 💬 5 • ⭐ 822 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -596,7 +596,7 @@ ReMe is a framework for experience-driven agent evolution in LLMs, enhancing mem
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 43 • 💬 2 • ⭐ 49,006 • 10mo ago
+▲ 43 • 💬 2 • ⭐ 49,045 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -623,7 +623,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 151 • 💬 19 • ⭐ 55,161 • 11mo ago
+▲ 152 • 💬 19 • ⭐ 55,161 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -649,7 +649,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 15.9k • 🔱 595 • 1d ago
+⭐ 16.0k • 🔱 604 • 1d ago
 
 ---
 
@@ -669,7 +669,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.1k • 🔱 523 • 1h ago
+⭐ 7.2k • 🔱 532 • 2m ago
 
 ---
 
@@ -679,7 +679,17 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 6.8k • 🔱 862 • 5d ago
+⭐ 6.8k • 🔱 863 • 5d ago
+
+---
+
+**[karpathy/autoresearch](https://github.com/karpathy/autoresearch)**
+
+AI agents running research on single-GPU nanochat training automatically
+
+`Python`
+
+⭐ 6.3k • 🔱 809 • 18h ago
 
 ---
 
@@ -693,23 +703,13 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 ---
 
-**[karpathy/autoresearch](https://github.com/karpathy/autoresearch)**
-
-AI agents running research on single-GPU nanochat training automatically
-
-`Python`
-
-⭐ 5.7k • 🔱 724 • 17h ago
-
----
-
 **[cft0808/edict](https://github.com/cft0808/edict)**
 
 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 5.4k • 🔱 450 • 3d ago
+⭐ 5.5k • 🔱 456 • 3d ago
 
 ---
 
@@ -719,7 +719,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 391 • 2h ago
+⭐ 3.6k • 🔱 392 • 3h ago
 
 ---
 
@@ -729,7 +729,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.5k • 🔱 250 • 5h ago
+⭐ 3.5k • 🔱 250 • 6h ago
 
 ---
 
