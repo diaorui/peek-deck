@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-09T05:42:39.041782+00:00'
+updated: '2026-03-09T07:04:00.573323+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 09, 2026 at 05:42 UTC  
+**Last Updated:** March 09, 2026 at 07:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic'c Claude found 22 vulnerabilities in Firefox in just two weeks](https://www.reddit.com/r/artificial/comments/1ro1ybn/anthropicc_claude_found_22_vulnerabilities_in/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 I've been building an interactive map of the AI tool ecosystem — not just a list, but a visual graph that shows which tools connect to each other and how people actually chain them together in workflows. Some things it does: Interactive graph — 137 tools plotted by category with 281 connections between them. Click any tool to see what it integrates with. 25 real workflows — step-by-step breakdowns like "AI SEO Blog Factory" or "Podcast Production Pipeline" that show you which tools to use at each stage and how the output of one feeds into the next. Quiz + AI advisor — answer a few questions about your use case and it recommends a full stack, not just a single tool. Side-by-side comparisons — 204 comparison pages (Cursor vs Copilot, Jasper vs Copy.ai, etc.) It's free, no login, runs entirely in the browser. I built it because I got tired of evaluating AI tools in isolation. The real question isn't "what's the best writing tool" — it's "what combination of tools actually works together for my workflow." Would love feedback on what's useful and what's missing. https://thestackmap.com
 
-6h ago
+8h ago
 
 ---
 
@@ -59,17 +59,11 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 ---
 
-**[Why the AI Boom Will Make Phones, Cars and Electronics More Expensive](https://www.reddit.com/r/artificial/comments/1rop12e/why_the_ai_boom_will_make_phones_cars_and/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/graphics/2026-ai-boom-memory-chip-shortage/) • 2h ago
-
----
-
 **[100 production-ready AI agent configs that actually run (not demos, not concepts)](https://www.reddit.com/r/artificial/comments/1roq2su/100_productionready_ai_agent_configs_that/)**
 
 There's a lot of "AI agent" content that stops at the blog post. This is a repo of 100 agent templates that run in production. Each one is an OpenClaw SOUL. md config. You define the agent's role, rules, integrations, and schedule. It connects to Telegram, Slack, Discord, or WhatsApp and runs on a loop. Real examples from the repo: a code reviewer that catches issues before PR merge. A churn prevention agent that flags at-risk users. A self-healing server agent that restarts crashed containers. No chain-of-thought theater. No "imagine if" scenarios. These are configs people are running right now. GitHub: https://github.com/mergisi/awesome-openclaw-agents
 
-1h ago
+3h ago
 
 ---
 
@@ -91,7 +85,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 There is a question sitting underneath most serious thinking about AI systems that rarely gets asked directly: why doesn't it learn? Not learn during training — that part works. But learn the way humans learn. Continuously, experientially, from correction. The way a person who makes a mistake on Tuesday is slightly different on Wednesday because of it. Current large language models don't do this. After training weights are frozen. Every conversation that follows — every correction, every clarification, every "no, that's wrong" — vanishes when the session closes. The model is a sophisticated frozen artifact. Brilliant in many ways, but static in this one fundamental sense. People find this instinctively wrong, and our instinct is probably pointing at something real. The Biological Baseline The brain doesn't learn during activity. It learns afterwards, on reflection, during sleep. This is not a minor implementation detail. It appears to be load-bearing architecture. The hippocampus replays flagged experiences during sleep — compressed, faster than real-time — slowly transferring high-signal events into cortical long-term storage. Not everything gets replayed. Not everything gets consolidated. The brain is selective, and the selection mechanism appears to be largely emotional. Fear, surprise, reward, social consequence, strong prediction error — these flag an experience as worth keeping. Low-signal routine gets discarded. The system is efficient because it is discriminating. The skydiver who lands and immediately gives a first-person verbal account of what happened, then watches video that partially contradicts that account, is engineering this process deliberately. The verbal reconstruction forces a committed internal model. The video provides a grounded external contradiction. The report of a police officer after an incident, bounded by body camera. Same thing. The gap between them — the dissonance — is the signal. That signal consolidates later into durable learning. The architecture is: active experience generating predictions, immediate post-hoc narrative committing to a model, external contradiction generating a strong error signal, delayed consolidation of high-signal experiences into lasting change. Current AI has some correction during reinforcement learning but nothing at inference time. Emotion as Flagging Heuristic The human brain's consolidation system doesn't run on everything. It runs on what matters. And what determines mattering, in biological systems, may be largely emotion. This is not incidental. Emotion is the brain's significance-tagging system. The amygdala fires fast — pre-cognitively, before the prefrontal cortex has processed the event — marking certain experiences as high-priority for retention. One encounter with genuine danger and it's in long-term memory essentially permanently. The system is calibrated by evolutionary stakes. For artificial systems, functional analogs exist but are pale shadows of this. High-confidence output followed by sharp explicit correction resembles surprise or embarrassment — a strong prediction error against a committed model. User persistence through repeated rephrasing signals something like frustration — the interaction is not resolving normally. Novel inputs producing high uncertainty suggest the model is outside its comfortable distribution. These signals exist in the conversation logs of every deployed model. They are largely ignored. A serious approach to machine learning-from-experience would need a lightweight parallel system running during inference whose only job is real-time significance assessment. Not reasoning — flagging. Fast and automatic, more like an autonomic response than a deliberate thought. This is architecturally closer to Kahneman's System 1 than anything currently built into transformer inference, which is essentially pure System 2 — all deliberation, no instinct. The Sleep Hypothesis What would happen if a deployed model took eight hours offline daily and ran light fine-tuning on its flagged interactions? Taken seriously, the engineering requirements become surprisingly concrete. The first requirement is the tagging mechanism described above — a way to identify high-signal correction events during inference worth preserving for later integration. This is tractable. The logs exist. Explicit corrections are often detectable. Confidence-then-contradiction is measurable. The second requirement is a conservative fine-tuning process. Small learning rate, narrow scope, strong regularization against existing weights. Not retraining — targeted synaptic adjustment on the day's flagged experiences. Validation against a held-out baseline to catch drift before it commits. The third requirement, more speculative, is a generalization step analogous to dreaming. REM sleep may serve a counterfactual function — the brain generates variations and recombinations of the day's flagged experiences, testing whether new learning holds across novel configurations. The model equivalent would be synthetic generation of variations on flagged interactions during the consolidation window, making updates more robust rather than just memorizing specific corrections. The practical barriers to doing this with existing infrastructure are smaller than they appear. Off-peak compute is cheaper. The logs exist. The fine-tuning tooling exists. The main obstacle seems institutional and economic rather than technical. The Deeper Implication There is a thread connecting the biological observations to the engineering proposal that is worth naming explicitly. The corrective signal only works if the system was committed enough to be wrong. The skydiver who gives a vague account before seeing the video gets less from the correction than the one who commits confidently to a specific narrative. The model that hedges every output produces no strong prediction to contradict. Confident wrongness may not be a bug in intelligent systems — it may be a prerequisite for deep learning from experience. This complicates the current instinct to make AI systems more uncertain and hedged. If the flagging heuristic depends on strong prediction errors, excessive hedging may impair the system's capacity to learn from its mistakes. There is a calibration question here that has not been seriously examined. More broadly, what this conversation points toward is an architecture that does not yet exist: a model that learns continuously from deployment, flags high-signal experiences automatically during inference, consolidates them during low-activity periods, and generalizes from corrections rather than merely storing them. This is not obviously impossible. It is probably a matter of when rather than if. The biological brain solved this problem. It solved it with emotion as a heuristic, sleep as a mechanism, and committed prediction as a prerequisite. Those are not mystical ingredients. They are design principles.
 
-15h ago
+16h ago
 
 ---
 
@@ -99,7 +93,7 @@ There is a question sitting underneath most serious thinking about AI systems th
 
 The Anthropic/Pentagon situation in February prompted me to think about a governance problem I haven't seen framed quite this way: not whether AI companies should refuse certain uses, but what happens to AI models when human oversight of their outputs is low-quality or perfunctory — and that pattern makes it into training data. The argument in brief: if AI succeeds in contexts where humans aren't genuinely reviewing its outputs, and those successes are treated as positive training signals, we may be systematically training models to treat human disengagement as acceptable. The problem is distributional — any individual reviewer may be excellent, but at scale, the assumption of meaningful review degrades. A second dimension: output quality confidence. Training signal weight should scale with how verifiable the output is. Code that runs and produces correct results is high-confidence feedback. Advice that sounds good but can't be independently checked is low-confidence. The two dimensions function as compensating controls. I'm an FCAS (Fellow of the Casualty Actuarial Society) — I think about risk and probability for a living. I have a CS minor and have worked with statistical programming throughout my career, but I'm not an ML researcher. I wrote this with Claude's help, which I've disclosed in the paper itself. I'm particularly curious whether the training signal mechanism holds up technically — that's where my background has real limits and where I'd most value pushback. Full paper in comments.
 
-17h ago
+18h ago
 
 ---
 
@@ -111,15 +105,31 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 ---
 
+**[CodeGraphContext - An MCP server that converts your codebase into a graph database, enabling AI assistants and humans to retrieve precise, structured context](https://www.reddit.com/r/artificial/comments/1rnhzxx/codegraphcontext_an_mcp_server_that_converts_your/)**
+
+CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
+
+**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
+
+The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
+
+Fortune • 2d ago
+
+---
 
 **[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 8h ago
+NPR • 10h ago
 
 ---
 
@@ -127,29 +137,35 @@ NPR • 8h ago
 
 Artificial intelligence can give some workers "brain fry" if overused, according to a new study published in Harvard Business Review.
 
-CBS News • 11h ago
+CBS News • 13h ago
 
 ---
 
-**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
+**[SoftBank Group CDS Widens, Shares Slump on Stargate AI Concerns](https://www.bloomberg.com/news/articles/2026-03-09/softbank-group-cds-widens-shares-slump-on-stargate-ai-concerns)**
 
-Bloomberg • 1h ago
-
----
-
-**[Cisco Systems Flags Surging AI and Campus Networking Demand as Orders Jump 18% at Morgan Stanley Confab](https://finance.yahoo.com/news/cisco-systems-flags-surging-ai-050226044.html)**
-
-Cisco Systems (NASDAQ:CSCO) executives said they are seeing strong and broad-based demand, highlighted by accelerating product orders and momentum in both hyperscale AI infrastructure and a multi-year campus refresh cycle, during a Morgan Stanley conference discussion featuring CFO Mark Patterson an
-
-Yahoo Finance • 40m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[How AI could disrupt retail media’s $38 billion search ad market](https://digiday.com/marketing/how-ai-could-disrupt-retail-medias-38-billion-search-ad-market/)**
+**[AI Is Changing How Stories Are Developed — And Who Decides What Gets Made](https://www.forbes.com/sites/cathyrubin/2026/03/09/ai-is-changing-how-stories-are-developed---and-who-decides-what-gets-made/)**
 
-ChatGPT and other AI chatbots could divert shoppers from retailer sites, putting the $38B retail search market at risk.
+Forbes • 4m ago
 
-Digiday • 1h ago
+---
+
+**[Millions turn to AI for pension planning](https://www.ft.com/content/dbbf53ca-3569-4cad-b518-111c0d02790d)**
+
+Plus, Berkshire’s buyback, hedge funds rethink EM, and Michelangelo and Rodin at the Louvre
+
+Financial Times • 1h ago
+
+---
+
+**[The AI trade still 'has legs': Wall Street analysts weigh tech stock picks amid market sell-off](https://finance.yahoo.com/news/the-ai-trade-still-has-legs-wall-street-analysts-weigh-tech-stock-picks-amid-market-sell-off-140003840.html)**
+
+Market ripples from the US-Iran conflict are sending investors toward tech's safe havens.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -157,35 +173,19 @@ Digiday • 1h ago
 
 Oracle reportedly planning massive layoffs involving thousands of employees as AI spending creates cash crunch. Job cuts could reportedly affect 18% of total workforce.
 
-Fox Business • 2h ago
+Fox Business • 4h ago
 
 ---
 
 **[Opinion | The Future We Feared Is Already Here - The New York Times](https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html)**
 
-The New York Times • 19h ago
+The New York Times • 21h ago
 
 ---
 
 **[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
 
 Axios • 1d ago
-
----
-
-**[This AI founder who quit her 9-to-5 law job has a warning for anyone dreaming of doing the same: 'I'm working harder now than I ever did'](https://fortune.com/2026/03/08/ai-founder-logan-brown-quit-law-job-entrepreneurship-working-harder-now-than-ever/)**
-
-Logan Brown, founder of AI-powered legal firm Soxton, says her work-life balance and pay is even worse as a founder, but she’s still “having the time of my life.”
-
-Fortune • 20h ago
-
----
-
-**[In a jobs apocalypse, look to ‘AI-proof’ skilled trades, career experts say](https://www.cnbc.com/2026/03/08/jobs-apocalypse-ai-proof-skilled-trades.html)**
-
-The skilled trades are considered more insulated from AI-driven job cuts, experts say.
-
-CNBC • 16h ago
 
 ---
 
@@ -197,7 +197,7 @@ CNBC • 16h ago
 
 The models are good now. But most people still miss the point.
 
-⬆️ 219 • 💬 342 • 2d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+⬆️ 219 • 💬 343 • 2d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 
 ---
 
@@ -205,7 +205,7 @@ The models are good now. But most people still miss the point.
 
 Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.
 
-⬆️ 162 • 💬 212 • 14h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+⬆️ 165 • 💬 213 • 15h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 
 ---
 
@@ -243,13 +243,13 @@ Studies find AI helps developers release more software—while logging longer ho
 
 Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
 
-⬆️ 65 • 💬 31 • 2d ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
+⬆️ 66 • 💬 31 • 2d ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
 
 ---
 
 **[AI doesn't replace white collar work](https://news.ycombinator.com/item?id=47299988)**
 
-⬆️ 58 • 💬 91 • 10h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
+⬆️ 58 • 💬 91 • 12h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
 
 ---
 
@@ -273,13 +273,43 @@ Employees have reported increased momentum, but also a feeling of having more to
 
 ## YouTube Videos: "ai"
 
+**[Claude JUST became AWARE](https://www.youtube.com/watch?v=mA8C55NLYzw)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 12K • 👍 731 • 💬 144 • ⏱️ 27:28 • 2h ago
+
+---
+
+**[AI War I? How Pentagon is harnessing AI amid conflict in Iran](https://www.youtube.com/watch?v=SbsLupb6Zv8)**
+
+Retired Lt. Gen. Dennis Crall discusses the Pentagon's use of artificial intelligence in military operations during 'The Sunday ...
+
+📺 Fox News Clips
+
+👁️ 32K • 👍 390 • 💬 58 • ⏱️ 7:30 • 11h ago
+
+---
+
 **[OpenAI Just Dropped Symphony: The First AI That Actually Works](https://www.youtube.com/watch?v=nAFnIIYEmEI)**
 
 OpenAI just released a system called Symphony that can send AI agents to complete real tasks automatically. Instead of only ...
 
 📺 AI Revolution
 
-👁️ 37K • 👍 1K • 💬 74 • ⏱️ 14:19 • 1d ago
+👁️ 38K • 👍 1K • 💬 76 • ⏱️ 14:19 • 1d ago
+
+---
+
+**[U.S. Military Is HEAVILY Reliant On AI To Conduct Iran War](https://www.youtube.com/watch?v=HPyE2xt8F8U)**
+
+The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jordan Uhl and Keith Edwards discuss on The Young ...
+
+📺 The Young Turks
+
+👁️ 23K • 👍 762 • 💬 309 • ⏱️ 3:52 • 6h ago
 
 ---
 
@@ -289,27 +319,7 @@ Warren Buffett has compared artificial intelligence to nuclear weapons. A warnin
 
 📺 The Infographics Show
 
-👁️ 137K • 👍 3K • 💬 531 • ⏱️ 12:29 • 14h ago
-
----
-
-**[The AI Bubble is BURSTING...](https://www.youtube.com/watch?v=1ncQc6O_CYM)**
-
-Everyone keeps saying the same thing: AI is going to replace programmers. You've probably seen the demos — AI generating ...
-
-📺 devsplate
-
-👁️ 40K • 👍 1K • 💬 220 • ⏱️ 3:46 • 1d ago
-
----
-
-**[It Begins: An AI Tried to Escape The Lab](https://www.youtube.com/watch?v=FGDM92QYa60)**
-
-Detailed sources: ...
-
-📺 Species | Documenting AGI
-
-👁️ 152K • 👍 10K • 💬 2K • ⏱️ 26:42 • 2d ago
+👁️ 152K • 👍 3K • 💬 554 • ⏱️ 12:29 • 15h ago
 
 ---
 
@@ -323,33 +333,13 @@ Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thin
 
 ---
 
-**[New FREE Google AI Updates are INSANE!](https://www.youtube.com/watch?v=99EoVMtEA2A)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 3K • 👍 85 • 💬 5 • ⏱️ 10:22 • 22h ago
-
----
-
 **[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
 
 Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
 
 📺 Spacialize
 
-👁️ 58K • 👍 2K • 💬 361 • ⏱️ 21:16 • 2d ago
-
----
-
-**[U.S. Military Is HEAVILY Reliant On AI To Conduct Iran War](https://www.youtube.com/watch?v=HPyE2xt8F8U)**
-
-The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jordan Uhl and Keith Edwards discuss on The Young ...
-
-📺 The Young Turks
-
-👁️ 13K • 👍 593 • 💬 220 • ⏱️ 3:52 • 4h ago
+👁️ 58K • 👍 2K • 💬 376 • ⏱️ 21:16 • 2d ago
 
 ---
 
@@ -359,7 +349,7 @@ Here's all the AI News you probably missed this week. Learn more about how Box A
 
 📺 Matt Wolfe
 
-👁️ 81K • 👍 3K • 💬 346 • ⏱️ 38:02 • 2d ago
+👁️ 82K • 👍 3K • 💬 348 • ⏱️ 38:02 • 2d ago
 
 ---
 
@@ -369,7 +359,17 @@ This AI-generated boxing match video has been created purely for your entertainm
 
 📺 Politics Ai Fun
 
-👁️ 2.7M • 👍 21K • 💬 555 • ⏱️ 0:14 • 1d ago
+👁️ 2.9M • 👍 24K • 💬 638 • ⏱️ 0:14 • 1d ago
+
+---
+
+**[I Tried Making Money With AI In 7 Days](https://www.youtube.com/watch?v=OmaKaIOiqMo)**
+
+Check out the FREE course here: https://ecom-enterprise.mykajabi.com/offers/ayimTrvy The AI Tools I Used (All in one) ...
+
+📺 Mikey Again
+
+👁️ 14K • 👍 771 • 💬 94 • ⏱️ 20:30 • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 868,002 • ❤️ 609 • 7d ago
+⬇️ 868,002 • ❤️ 610 • 7d ago
 
 ---
 
@@ -397,7 +397,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 175,440 • ❤️ 371 • 3d ago
+⬇️ 175,440 • ❤️ 375 • 3d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 406,264 • ❤️ 325 • 6d ago
+⬇️ 406,264 • ❤️ 327 • 6d ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 348,672 • ❤️ 303 • 7d ago
+⬇️ 348,672 • ❤️ 306 • 7d ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,143,706 • ❤️ 1,044 • 9d ago
+⬇️ 1,143,706 • ❤️ 1,045 • 9d ago
 
 ---
 
@@ -457,7 +457,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 9,209 • ❤️ 269 • 1d ago
+⬇️ 9,209 • ❤️ 274 • 1d ago
 
 ---
 
@@ -469,7 +469,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 75,511 • ❤️ 212 • 5d ago
+⬇️ 75,511 • ❤️ 217 • 5d ago
 
 ---
 
@@ -481,7 +481,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 644 • ❤️ 174 • 2d ago
+⬇️ 644 • ❤️ 176 • 2d ago
 
 ---
 
@@ -493,7 +493,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,078,821 • ❤️ 583 • 3d ago
+⬇️ 1,078,821 • ❤️ 585 • 3d ago
 
 ---
 
@@ -523,7 +523,7 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 136 • 💬 5 • ⭐ 851 • 4d ago
+▲ 136 • 💬 5 • ⭐ 877 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -542,31 +542,6 @@ AReaL, a fully asynchronous reinforcement learning system, decouples generation 
 
 ---
 
-**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
-
-*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
-
-Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
-
-▲ 37 • 💬 2 • ⭐ 17,810 • 19mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
-
----
-
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
-
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
-
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
-
-▲ 55 • 💬 4 • ⭐ 17,809 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -574,7 +549,7 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 38 • 💬 1 • ⭐ 72,432 • 30mo ago
+▲ 39 • 💬 1 • ⭐ 72,481 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -588,9 +563,34 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Cautious Weight Decay (CWD) enhances optimizer performance by applying weight decay selectively, improving accuracy and loss in large-scale models without additional tuning.
 
-▲ 9 • 💬 8 • ⭐ 379 • 4mo ago
+▲ 9 • 💬 8 • ⭐ 428 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12402) • [💻 code](https://github.com/google-deepmind/simply) • [🔗 project](https://elm.baulab.info)
+
+---
+
+**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+
+*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+
+Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+
+▲ 37 • 💬 2 • ⭐ 17,825 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
+
+---
+
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
+
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+
+▲ 55 • 💬 4 • ⭐ 17,827 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -606,21 +606,6 @@ ReMe is a framework for experience-driven agent evolution in LLMs, enhancing mem
 
 ---
 
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-🏢 IBM Granite
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 152 • 💬 19 • ⭐ 55,205 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
@@ -630,6 +615,21 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 ▲ 44 • 💬 2 • ⭐ 49,071 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+
+---
+
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 152 • 💬 19 • ⭐ 55,232 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.8k • 🔱 3.2k • 6h ago
+⭐ 24.9k • 🔱 3.2k • 7h ago
 
 ---
 
@@ -653,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 16.5k • 🔱 632 • 5h ago
+⭐ 16.6k • 🔱 640 • 6h ago
 
 ---
 
@@ -663,7 +663,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 9.8k • 🔱 1.3k • 6h ago
+⭐ 10.7k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -673,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.8k • 🔱 1.1k • 2h ago
+⭐ 9.8k • 🔱 1.1k • 20m ago
 
 ---
 
@@ -683,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.3k • 🔱 537 • 12h ago
+⭐ 7.4k • 🔱 540 • 50m ago
 
 ---
 
@@ -693,17 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 6.8k • 🔱 871 • 5d ago
-
----
-
-**[nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)**
-
-Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
-
-`Zig` `ai` `assistant` `personal` `zig`
-
-⭐ 6.0k • 🔱 709 • 2h ago
+⭐ 6.9k • 🔱 873 • 5d ago
 
 ---
 
@@ -713,7 +703,17 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 5.8k • 🔱 496 • 3d ago
+⭐ 6.0k • 🔱 513 • 3d ago
+
+---
+
+**[nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)**
+
+Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
+
+`Zig` `ai` `assistant` `personal` `zig`
+
+⭐ 6.0k • 🔱 712 • 4h ago
 
 ---
 
@@ -723,7 +723,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 394 • 2h ago
+⭐ 3.7k • 🔱 401 • 1m ago
 
 ---
 
@@ -733,7 +733,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.5k • 🔱 252 • 19h ago
+⭐ 3.5k • 🔱 252 • 20h ago
 
 ---
 
