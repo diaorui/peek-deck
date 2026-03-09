@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T15:33:59.865958+00:00'
+updated: '2026-03-09T16:58:06.333562+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 15:33 UTC  
+**Last Updated:** March 09, 2026 at 16:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
 
-11h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-4h ago
+6h ago
 
 ---
 
@@ -52,7 +52,13 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-7h ago
+8h ago
+
+---
+
+**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
+
+33m ago
 
 ---
 
@@ -60,13 +66,27 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
 
-23h ago
+1d ago
+
+---
+
+**[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
+
+11m ago
+
+---
+
+**[I make a test with the T265 and the RoboBaton VIOBOT2.](https://www.reddit.com/r/robotics/comments/1rp4lc8/i_make_a_test_with_the_t265_and_the_robobaton/)**
+
+I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
+
+40m ago
 
 ---
 
 **[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -74,7 +94,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 6h ago
 
 ---
 
@@ -82,31 +102,7 @@ USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu
 
 Hello everyone I am trying to run my simulation of amr into gazebo. Everything's working fine except when I turn robot the lidar points are also rotating with respect to robot. For linear movements the lidar points are still. But for angular movementzz even the lidar points are rotating. Can anyone help me with this?
 
-1h ago
-
----
-
-**[Why I Love the Fuchikoma — Ghost in the Shell’s Most Underrated Robot](https://www.reddit.com/r/robotics/comments/1rp1864/why_i_love_the_fuchikoma_ghost_in_the_shells_most/)**
-
-I wrote a piece on my beloved Fuchikoma from the Ghost In The Shell franchise. Robot designers and engineers, let me know how it lands!
-
-🔗 [hubrisofprogress.substack.com](https://hubrisofprogress.substack.com/p/why-i-love-the-fuchikoma-ghost-in) • 1h ago
-
----
-
-**[Autonomous overnight experiment loop for robot learning: agent modifies code, runs MuJoCo sim, analyzes renderings, repeats](https://www.reddit.com/r/robotics/comments/1romucz/autonomous_overnight_experiment_loop_for_robot/)**
-
-Hi folks, first time posting here I built an autonomous experiment loop for robotics research, based on Karpathy's recent autoresearch, and wanted to share the results with you guys Github: https://github.com/jellyheadandrew/autoresearch-robotics https://i.redd.it/156cdaawaxng1.gif It consists of same core loop: agent modifies the training code, runs the experiment, checks if the result improved, keeps or discards, and repeats autonomously The key adaptation is replacing the LLM training loop with a robotics simulation feedback loop - the agent optimizes policy training code against task success rate AND renderings from MuJoCo, instead of validation loss What's different Visual feedback. After each experiment, MuJoCo renders the robot's behavior and Claude Vision analyzes the frames. The agent sees what the robot is doing wrong, not just number Experimentally, I feel it provides better qualitative feedbacks for next trial. (Example1) GRASPS cube! but cant transport to goal (dist 0.22) discard balanced throughput+reward shaping (58K steps, 11K updates) (Example2) inconsistent gripper orientation, no contact discard vectorized HER + N_UPDATES=10 (55K steps but too few updates) I ran experiments on very simple robot-learning task (FetchReach). The agent started from an SAC+HER baseline and autonomously discovered that a simple proportional controller solves the task. https://preview.redd.it/ddc3mde5axng1.png?width=1482&format=png&auto=webp&s=1eea396a9579d1ddc0b7cb3956c07a821a79347e I'm currently running more complex tasks (FetchPush and FetchPickPlace), and will try VLAs after I get some GPU compute credits. Would love feedback from anyone working on robotics or sim-to-real!
-
-14h ago
-
----
-
-**[Do you think every home will eventually have a robot?](https://www.reddit.com/r/robotics/comments/1rot74q/do_you_think_every_home_will_eventually_have_a/)**
-
-I've been thinking about this lately and I'm curious what people here think. Do you believe that robots will eventually become a normal part of everyday life, like smartphones or laptops today? As in, most households having at least one. A few things I'm especially curious about: Do you think robots could become a main interface for interacting with AI in the future? How comfortable would you personally feel about having a robot in your home? What kind of robot would you actually want? a purely practical tool (cleaning, tasks, assistance) entertainment / companionship or something that combines both Interested to hear different perspectives. I feel like people's expectations of robots vary a lot.
-
-8h ago
+2h ago
 
 ---
 
@@ -118,7 +114,7 @@ I've been thinking about this lately and I'm curious what people here think. Do 
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 18h ago
+NPR • 20h ago
 
 ---
 
@@ -126,13 +122,31 @@ NPR • 18h ago
 
 Several negative developments put quite a hurt on the company's stock.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
-**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
+**[Nvidia and ABB launch partnership for AI-enabled autonomous robots](https://www.ft.com/content/c77d99a4-8d75-4f34-8a71-6b1361ebb9b9)**
 
-Bloomberg.com • 11h ago
+Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
+
+Financial Times • 3h ago
+
+---
+
+**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://finance.yahoo.com/news/former-google-ai-researcher-sets-041500137.html)**
+
+Integral AI Inc., a five-year-old company founded by former Google researchers Jad Tarifi and Nima Asgharbeygi, develops AI models geared for automated systems such as robots and self-driving cars.  The company has worked with auto parts maker Denso Corp. since 2021 to help teach industrial robots new skills by observing demonstrations.  The 15-person startup is holding initial discussions with Toyota Motor Corp., Sony Group Corp., Honda Motor Co., Nissan Motor Co. and Mitsui Chemicals Inc. to pitch them on how artificial intelligence can advance manufacturing processes.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Qualcomm’s partnership with Neura Robotics is just the beginning](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)**
+
+Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
+
+TechCrunch • 59m ago
 
 ---
 
@@ -146,7 +160,7 @@ Business Insider • 1d ago
 
 **[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
 
-Tech Xplore • 13h ago
+Tech Xplore • 15h ago
 
 ---
 
@@ -154,7 +168,7 @@ Tech Xplore • 13h ago
 
 Texas delivery to NS Federation opens education and performance uses for FF robots, while U.S. officials express support for its embodied AI strategy.
 
-Stock Titan • 12h ago
+Stock Titan • 14h ago
 
 ---
 
@@ -166,27 +180,11 @@ New Atlas • 1d ago
 
 ---
 
-**[Amazon Staffers Learning Hard Lesson as Company Cuts Robotics Jobs](https://malaysia.news.yahoo.com/amazon-staffers-learning-hard-lesson-204500657.html)**
+**[ABB Robotics president Marc Segura on physical AI partnership with NVIDIA](https://www.foxbusiness.com/video/6390634538112)**
 
-Who's automating the automators?
+ABB Robotics President Marc Segura explains physical AI and discusses the company's partnership with NVIDIA on 'Varney &  Co.'
 
-Yahoo News Malaysia • 1d ago
-
----
-
-**[High-tech player in collectibles: Startup uses robotics and AI to sort, analyze and sell trading cards](https://www.geekwire.com/2026/high-tech-player-in-collectibles-startup-uses-robotics-and-ai-to-sort-analyze-and-sell-trading-cards/)**
-
-Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
-
-GeekWire • 55m ago
-
----
-
-**[Humanoid robots learn parkour maneuvers from human motion recordings](https://interestingengineering.com/ai-robotics/us-humanoid-robots-learns-tough-parkour-skills)**
-
-Humanoid robots learn parkour using a new AI framework, enabling them to navigate obstacles with human-like agility in complex environments.
-
-Interesting Engineering • 3d ago
+Fox Business • 1h ago
 
 ---
 
@@ -200,7 +198,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 33K • 👍 980 • 💬 71 • ⏱️ 14:51 • 14h ago
+👁️ 33K • 👍 980 • 💬 71 • ⏱️ 14:51 • 16h ago
 
 ---
 
@@ -260,7 +258,7 @@ This AI-powered patrol robot is already walking real city streets in China along
 
 📺 Onyez 
 
-👁️ 983 • 👍 15 • 💬 2 • ⏱️ 0:39 • 9h ago
+👁️ 983 • 👍 15 • 💬 2 • ⏱️ 0:39 • 10h ago
 
 ---
 

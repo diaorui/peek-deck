@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-09T15:33:59.848201+00:00'
+updated: '2026-03-09T16:58:06.316027+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 09, 2026 at 15:33 UTC  
+**Last Updated:** March 09, 2026 at 16:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Anthropic sues Trump administration over Pentagon blacklist](https://www.reddit.com/r/artificial/comments/1rp3vku/anthropic_sues_trump_administration_over_pentagon/)**
+
+The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
+
+🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 1h ago
+
+---
+
 **[China determines chemical make-up of the moon’s far side using AI, reveals evolutionary history](https://www.reddit.com/r/artificial/comments/1rp2f47/china_determines_chemical_makeup_of_the_moons_far/)**
 
 Chinese researchers have used AI to determine the chemical composition of the Moon’s far side.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 37m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 2h ago
 
 ---
 
@@ -49,7 +57,15 @@ Chinese researchers have used AI to determine the chemical composition of the Mo
 
 Nvidia's record revenue in 2025 largely benefited from AI data center growth. Now, CEO Jensen Huang says the shortages help even more.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 34m ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 1h ago
+
+---
+
+**[AMD formally launches Ryzen AI Embedded P100 series 8-12 core models](https://www.reddit.com/r/artificial/comments/1rp47hn/amd_formally_launches_ryzen_ai_embedded_p100/)**
+
+AMD announced back at CES the Ryzen AI Embedded P100 series with initially the models up to six Zen 5 cores launching while the eight through twelve core models would be available later in H1
+
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-Embedded-P100-Series) • 54m ago
 
 ---
 
@@ -57,7 +73,7 @@ Nvidia's record revenue in 2025 largely benefited from AI data center growth. No
 
 GitHub: https://github.com/zanfiel/engram Live demo: https://demo.engram.lol/gui (password: demo) Built a memory server that gives AI agents long-term memory across sessions. Store what they learn, search by meaning, recall relevant context automatically. - Embeddings run locally (MiniLM-L6) — no OpenAI key needed - Single SQLite file — no vector database required - Auto-linking builds a knowledge graph between memories - Versioning, deduplication, auto-forget - Four-layer recall: static facts + semantic + importance + recency - WebGL graph visualization built in - TypeScript and Python SDKs One file, docker compose up, done. MIT licensed.
 
-4h ago
+5h ago
 
 ---
 
@@ -71,7 +87,7 @@ GitHub: https://github.com/zanfiel/engram Live demo: https://demo.engram.lol/gui
 
 I've been building an interactive map of the AI tool ecosystem — not just a list, but a visual graph that shows which tools connect to each other and how people actually chain them together in workflows. Some things it does: Interactive graph — 137 tools plotted by category with 281 connections between them. Click any tool to see what it integrates with. 25 real workflows — step-by-step breakdowns like "AI SEO Blog Factory" or "Podcast Production Pipeline" that show you which tools to use at each stage and how the output of one feeds into the next. Quiz + AI advisor — answer a few questions about your use case and it recommends a full stack, not just a single tool. Side-by-side comparisons — 204 comparison pages (Cursor vs Copilot, Jasper vs Copy.ai, etc.) It's free, no login, runs entirely in the browser. I built it because I got tired of evaluating AI tools in isolation. The real question isn't "what's the best writing tool" — it's "what combination of tools actually works together for my workflow." Would love feedback on what's useful and what's missing. https://thestackmap.com
 
-16h ago
+18h ago
 
 ---
 
@@ -87,29 +103,15 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 There's a lot of "AI agent" content that stops at the blog post. This is a repo of 100 agent templates that run in production. Each one is an OpenClaw SOUL. md config. You define the agent's role, rules, integrations, and schedule. It connects to Telegram, Slack, Discord, or WhatsApp and runs on a loop. Real examples from the repo: a code reviewer that catches issues before PR merge. A churn prevention agent that flags at-risk users. A self-healing server agent that restarts crashed containers. No chain-of-thought theater. No "imagine if" scenarios. These are configs people are running right now. GitHub: https://github.com/mergisi/awesome-openclaw-agents
 
-11h ago
+12h ago
 
 ---
 
 **[I had said it earlier, I will say it again.](https://www.reddit.com/r/artificial/comments/1rp2hra/i_had_said_it_earlier_i_will_say_it_again/)**
 
-Thanks to AI, there will come a day when we will not be able to different between reality and artificial. Go ahead, promote AI more everywhere as you are doing now.
+Thanks to AI, there will come a day when we will not be able to differentiate between reality and artificial. Go ahead, promote AI more everywhere as you are doing now.
 
-34m ago
-
----
-
-**[Unpopular opinion: most AI agent use cases are productivity theater](https://www.reddit.com/r/artificial/comments/1rnom51/unpopular_opinion_most_ai_agent_use_cases_are/)**
-
-Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use cases. Second brain, morning briefs, content factories, the usual. His take: , They all fall apart under basic scrutiny. I agree. The pattern is always the same. Impressive two-minute demo. Zero discussion of what it actually takes to make it work daily. Zero mention of cost. OpenClaw runs continuous sessions, so every task drags your entire context history with it. Your token bill adds up fast. The irony is the most technical people, the ones who could actually make it work, are the ones who immediately see simpler ways to do the same things. The audience getting hyped up is the least technical group. And they're the ones who'll hit a wall. Credit to Peter for building something clever. It's a tinkerer's sandbox and it's great at that. It was never supposed to be a finished product. The problem isn't him. It's influencers taking a sandbox and selling it as a finished solution to people who just want stuff to work. Three questions I ask before spending time on any AI tool: Is this the best tool for the job or just the shiniest? What does it actually cost to run? Would I still use this after the novelty wears off? Focused tools that do one thing well beat fancy agent frameworks. Every time.
-
-1d ago
-
----
-
-**[OpenAI Robotics head resigns after deal with Pentagon](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/) • 1d ago
+1h ago
 
 ---
 
@@ -117,27 +119,17 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 ## Google News: "ai"
 
-**[Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)**
+**[Revealed: UK’s multibillion AI drive is built on ‘phantom investments’](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+Exclusive: Rented datacentres and unrealised supercomputer site raise questions for Starmer’s push to ‘mainline AI into veins of economy’
 
-Anthropic • 3d ago
-
----
-
-**[Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts](https://www.theguardian.com/technology/2026/mar/09/liverpool-and-manchester-united-complain-to-x-over-sickening-grok-ai-posts)**
-
-AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disasters
-
-The Guardian • 4h ago
+The Guardian • 55m ago
 
 ---
 
-**[Is AI productivity prompting burnout? Study finds new pattern of "AI brain fry"](https://www.cbsnews.com/news/is-ai-productivity-prompting-burnout-study-finds-new-pattern-of-ai-brain-fry/)**
+**[Microsoft launches AI tool that competes with Anthropic](https://www.axios.com/2026/03/09/microsoft-copilot-cowork-anthropic)**
 
-Artificial intelligence can give some workers "brain fry" if overused, according to a new study published in Harvard Business Review.
-
-CBS News • 21h ago
+Axios • 37m ago
 
 ---
 
@@ -145,55 +137,61 @@ CBS News • 21h ago
 
 With March Madness around the corner, USA TODAY Sports asked AI to create a 2026 NBA mock draft. It's torn on the No. 1 pick just like human experts.
 
-USA Today • 2m ago
+USA Today • 49m ago
 
 ---
 
-**[Biotech is resistant to AI disruption. Josh Brown likes these two stocks in the industry](https://www.cnbc.com/2026/03/09/biotech-is-resistant-to-ai-disruption-josh-brown-likes-these-two-stocks-in-the-industry.html)**
+**[How AI firm Anthropic wound up in the Pentagon’s crosshairs](https://www.theguardian.com/technology/2026/mar/09/anthropic-artificial-intelligence-pentagon)**
 
-Josh Brown and Sean Russo take a look at the biotech stocks in their Best Stocks list.
+Standoff with DoD over Claude chatbot reignites debate over how AI will be used in war – and who will be held accountable
 
-CNBC • 4m ago
-
----
-
-**['AI Has No Heart,' Says Bart Simpson Voice Nancy Cartwright After 37 Seasons And 800 Episodes On 'The Simpsons'](https://www.yahoo.com/entertainment/tv/articles/ai-no-heart-says-bart-141544857.html)**
-
-After 37 seasons, the voice behind one of television's most famous troublemakers is drawing a clear line about the future. "I think I would choose a successor [instead of AI], and I’ll tell you why — ...
-
-Yahoo • 1h ago
+The Guardian • 5h ago
 
 ---
 
-**[Iran's new supreme leader and the AI threat to white-collar jobs: Morning Rundown](https://www.nbcnews.com/news/us-news/iran-new-supreme-leader-ai-threatens-white-collar-jobs-morning-rundown-rcna262287)**
+**[Anthropic sues Trump administration after AI dispute with Pentagon](https://www.nbcnews.com/tech/tech-news/anthropic-sues-trump-administration-ai-dispute-pentagon-rcna262444)**
 
-Plus, a superbloom paints normally barren Death Valley National Park with color.
+AI company Anthropic filed two lawsuits against several federal agencies and officials after being labeled last week a supply-chain risk to national security.
 
-NBC News • 4h ago
-
----
-
-**[Love in the Time of A.I. Companions](https://www.newyorker.com/magazine/2026/03/16/love-in-the-time-of-ai-companions)**
-
-Some people now have an A.I. bestie. Some have a husband. Some have three.
-
-The New Yorker • 5h ago
+NBC News • 1h ago
 
 ---
 
-**[Oracle expected to slash thousands of jobs as massive AI spending creates financial cash crisis](https://www.foxbusiness.com/economy/oracle-expected-slash-thousands-jobs-massive-ai-spending-creates-financial-cash-crisis)**
+**[AI firm Anthropic sues US defense department over blacklisting](https://www.theguardian.com/technology/2026/mar/09/anthropic-defense-department-lawsuit-ai)**
 
-Oracle reportedly planning massive layoffs involving thousands of employees as AI spending creates cash crunch. Job cuts could reportedly affect 18% of total workforce.
+Lawsuits come after Pentagon labeled Anthropic a ‘supply chain risk’, a decision the company says is unlawful
 
-Fox Business • 12h ago
+The Guardian • 31m ago
 
 ---
 
-**[This AI founder who quit her 9-to-5 law job has a warning for anyone dreaming of doing the same: 'I'm working harder now than I ever did'](https://fortune.com/2026/03/08/ai-founder-logan-brown-quit-law-job-entrepreneurship-working-harder-now-than-ever/)**
+**[Secure agentic AI for your Frontier Transformation](https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/)**
 
-Logan Brown, founder of AI-powered legal firm Soxton, says her work-life balance and pay is even worse as a founder, but she’s still “having the time of my life.”
+Learn more about how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.
 
-Fortune • 1d ago
+Microsoft • 3h ago
+
+---
+
+**[Meet the Women Shaping AI-Ready Data Centers](https://www.datacenterknowledge.com/ai-data-centers/meet-the-women-shaping-ai-ready-data-centers)**
+
+Three women leaders are reshaping AI data centers with hybrid cooling, prefabrication, and distributed siting for scaling, sustainable performance.
+
+Data Center Knowledge • 48m ago
+
+---
+
+**[Ultra-compact photonic AI chip operates at the speed of light](https://techxplore.com/news/2026-03-ultra-compact-photonic-ai-chip.html)**
+
+Tech Xplore • 17m ago
+
+---
+
+**[AI Can’t Taste. Why Do People Let It Pick Their Wine?](https://www.bonappetit.com/story/ai-sommelier-problem)**
+
+Outsourcing your drink order to the robot in your phone has offline implications.
+
+Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit • 1h ago
 
 ---
 
@@ -205,13 +203,13 @@ Fortune • 1d ago
 
 Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.
 
-⬆️ 175 • 💬 220 • 23h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+⬆️ 175 • 💬 223 • 1d ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 
 ---
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 159 • 💬 173 • 1d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 160 • 💬 173 • 1d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -227,7 +225,7 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 US military used Palantir’s Maven AI system with Anthropic’s Claude to generate and prioritise targets during Iran strikes.
 
-⬆️ 109 • 💬 86 • 2d ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+⬆️ 110 • 💬 86 • 2d ago • [Moneycontrol](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 
 ---
 
@@ -235,7 +233,7 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.
 
-⬆️ 80 • 💬 48 • 2h ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
+⬆️ 82 • 💬 53 • 3h ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
 
 ---
 
@@ -243,7 +241,7 @@ AI data center developers are increasingly relying on a style of camp popularize
 
 Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live
 
-⬆️ 73 • 💬 71 • 1d ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+⬆️ 74 • 💬 71 • 1d ago • [Scientific American](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
 
 ---
 
@@ -251,27 +249,27 @@ Studies find AI helps developers release more software—while logging longer ho
 
 Pentagon investigators believe a bombing of a girls' school in Iran on Saturday likely resulted from inaccurate information provided by AI.
 
-⬆️ 66 • 💬 31 • 2d ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
-
----
-
-**[AI doesn't replace white collar work](https://news.ycombinator.com/item?id=47299988)**
-
-⬆️ 62 • 💬 97 • 20h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
+⬆️ 67 • 💬 31 • 2d ago • [This Week in Worcester](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
 
 ---
 
 **[Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://news.ycombinator.com/item?id=47307169)**
 
-⬆️ 50 • 💬 22 • 5h ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
+⬆️ 66 • 💬 29 • 6h ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
 
 ---
 
-**[AI and the Illegal War](https://news.ycombinator.com/item?id=47284114)**
+**[AI doesn't replace white collar work](https://news.ycombinator.com/item?id=47299988)**
 
-“No stupid rules of engagement.” That was Pete Hegseth, the American war secretary, boasting during a press conference about the approach with which he and...
+⬆️ 64 • 💬 97 • 22h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
 
-⬆️ 49 • 💬 9 • 2d ago • [buttondown.com](https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/)
+---
+
+**[What if AI just makes us work harder?](https://news.ycombinator.com/item?id=47281443)**
+
+Employees have reported increased momentum, but also a feeling of having more to do
+
+⬆️ 49 • 💬 12 • 2d ago • [ft.com](https://www.ft.com/content/e8bb5ab1-4b4d-473e-8f76-e690443e9fb4)
 
 ---
 
@@ -285,7 +283,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 57K • 👍 2K • 💬 530 • ⏱️ 27:28 • 11h ago
+👁️ 57K • 👍 2K • 💬 530 • ⏱️ 27:28 • 12h ago
 
 ---
 
@@ -305,7 +303,7 @@ The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jord
 
 📺 The Young Turks
 
-👁️ 39K • 👍 1K • 💬 444 • ⏱️ 3:52 • 14h ago
+👁️ 39K • 👍 1K • 💬 444 • ⏱️ 3:52 • 15h ago
 
 ---
 
@@ -315,7 +313,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 163 • 💬 16 • ⏱️ 8:39 • 8h ago
+👁️ 5K • 👍 163 • 💬 16 • ⏱️ 8:39 • 9h ago
 
 ---
 
@@ -325,7 +323,7 @@ Retired Lt. Gen. Dennis Crall discusses the Pentagon's use of artificial intelli
 
 📺 Fox News Clips
 
-👁️ 35K • 👍 403 • 💬 58 • ⏱️ 7:30 • 19h ago
+👁️ 35K • 👍 403 • 💬 58 • ⏱️ 7:30 • 20h ago
 
 ---
 
@@ -335,7 +333,7 @@ In this video, we go deep into the artificial intelligence bubble and the devast
 
 📺 XaliCubed
 
-👁️ 7K • 👍 439 • 💬 130 • ⏱️ 8:01 • 20h ago
+👁️ 7K • 👍 439 • 💬 130 • ⏱️ 8:01 • 21h ago
 
 ---
 
@@ -355,7 +353,7 @@ Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thin
 
 📺 AI Explained
 
-👁️ 73K • 👍 3K • 💬 443 • ⏱️ 21:52 • 2d ago
+👁️ 73K • 👍 3K • 💬 443 • ⏱️ 21:52 • 3d ago
 
 ---
 
@@ -365,7 +363,7 @@ Learn How To Use Higgsfield AI To Create Cinematic AI video. Try Soul 2 on Higgs
 
 📺 Dan Kieft
 
-👁️ 59K • 💬 23 • ⏱️ 16:43 • 1d ago
+👁️ 59K • 💬 23 • ⏱️ 16:43 • 2d ago
 
 ---
 
@@ -648,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.2k • 🔱 3.2k • 4h ago
+⭐ 25.2k • 🔱 3.2k • 5h ago
 
 ---
 
@@ -658,7 +656,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 16.9k • 🔱 656 • 1h ago
+⭐ 16.9k • 🔱 656 • 2h ago
 
 ---
 
@@ -668,7 +666,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 13.6k • 🔱 1.8k • 10h ago
+⭐ 13.6k • 🔱 1.8k • 11h ago
 
 ---
 
@@ -678,7 +676,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.1k • 🔱 1.1k • 10m ago
+⭐ 10.1k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -688,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.6k • 🔱 548 • 3h ago
+⭐ 7.6k • 🔱 548 • 4h ago
 
 ---
 
@@ -718,7 +716,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.0k • 🔱 716 • 12h ago
+⭐ 6.0k • 🔱 716 • 14h ago
 
 ---
 
@@ -728,7 +726,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 404 • 1h ago
+⭐ 3.7k • 🔱 404 • 3h ago
 
 ---
 
@@ -738,7 +736,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.6k • 🔱 256 • 1h ago
+⭐ 3.6k • 🔱 256 • 3h ago
 
 ---
 
