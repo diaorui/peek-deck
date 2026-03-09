@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T04:30:17.144091+00:00'
+updated: '2026-03-09T05:42:39.056601+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 04:30 UTC  
+**Last Updated:** March 09, 2026 at 05:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +0.2%  
-**30d:** -4.9%  
-**90d:** -40.2%  
-**1y:** +6.3%  
+**24h:** +2.4%  
+**7d:** +0.7%  
+**30d:** -4.5%  
+**90d:** -39.9%  
+**1y:** +6.8%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion March 09, 2026](https://www.reddit.com/r/ethereum/comments/1ror68i/daily_general_discussion_march_09_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+41m ago
+
+---
+
 **[I've been reverse-engineering Ethereum's earliest smart contracts — here's what I found locked inside them](https://www.reddit.com/r/ethereum/comments/1ro4bt9/ive_been_reverseengineering_ethereums_earliest/)**
 
 For the past few months I've been building EthereumHistory.com, a project to document every notable smart contract from Ethereum's earliest days (2015-2017). Think of it as a Wikipedia for Ethereum's contract archaeology. Recently I did a deep scan of all 12,609 contracts deployed during the Frontier era and found 1,650 still holding ETH — totaling over 38,000 ETH (~$95M at current prices) locked in contracts from Ethereum's first weeks. Here's what's actually inside them: The Gambling Contracts (Day 13 of Ethereum) EtherDice (0xc4c51de1abf5d60dbd329ec0f999fd8f021ae9fc) was deployed on August 12, 2015 — just 13 days after Ethereum launched. Someone loaded it with a 1,000 ETH bankroll. It's a 21-function commit-reveal dice game, surprisingly sophisticated for the era. 122 ETH still sits inside, permanently locked because the deployer likely lost their keys years ago. The Inverted Timelock TimeLockVault (0xed44f3c2081480b08643fe1ca281fab9ed643735) has a beautiful bug: the time check is inverted. You can withdraw before the unlock date (2035), but once 2035 arrives, the funds become permanently locked. 50 ETH inside. The deployer could have withdrawn years ago but apparently never noticed. The Stalled Pyramid EtherPyramid (0xa9e4e3b1da2752aea980698c335e70e9ab26c) had 140 participants. 136 of them are still waiting for their payout. 37 ETH frozen forever in a pyramid that ran out of new entrants. A time capsule of early Ethereum's Wild West era. The Pattern After scanning all 1,650 funded contracts, the pattern is consistent: every single one is either owner-gated (keys likely lost), bug-locked, pyramid-stalled, or timelocked. At least 5 active hunter addresses have already probed most of these contracts looking for extractable funds. None succeeded. These contracts are essentially digital fossils — permanently preserved on-chain with real ETH sealed inside them. They tell the story of Ethereum's earliest developers experimenting with code that would handle real money, often for the first time. I've been documenting these on EthereumHistory.com with verified source code, deployment context, and the stories behind them. If you deployed contracts in 2015-2016 or know the stories behind any early projects, I'd love to hear from you. What early Ethereum contracts do you remember that deserve to be documented?
 
-15h ago
+16h ago
 
 ---
 
@@ -80,13 +88,7 @@ For the past few months I've been building EthereumHistory.com, a project to doc
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
-
----
-
-**[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
-
-9h ago
+23h ago
 
 ---
 
@@ -94,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 "a practical compliance framework that enables an auditing entity to selectively unshield transactions upon legitimate regulatory request" So, the entire point of using the chain is null and void. What's the use of hiding transactions when an arbitrary entity can just... unhide them? "For compliance, each user registers an encrypted copy of their viewing key on-chain. Upon legitimate regulatory request, a designated auditing entity can decrypt this key to trace a specific user’s transaction history, without affecting the privacy of uninvolved users." So it is effectively mandatory. Wonderful. Who did they think we were hiding transactions from, our ex? The paper: https://eprint.iacr.org/2026/474
 
-21h ago
+22h ago
 
 ---
 
@@ -102,7 +104,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
 
-16h ago
+17h ago
+
+---
+
+**[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
+
+11h ago
 
 ---
 
@@ -138,14 +146,6 @@ I've been working on verifying source code for the oldest contracts on Ethereum,
 
 ---
 
-**[ETH staking time on exodus](https://www.reddit.com/r/ethereum/comments/1rmuq0z/eth_staking_time_on_exodus/)**
-
-I staked some ETH around a month ago and it still has the Staking..... "staking takes 5 days" prompt. How long does it normally take to stake ETH and should I be worried?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -160,7 +160,7 @@ Benzinga • 2d ago
 
 **[Network Upgrade for Ethereum Network (ETH) - 2026-03-10](https://www.binance.com/en/support/announcement/2d39963f89c0466eb4880caf4c9aad05)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
@@ -168,7 +168,15 @@ Binance • 3h ago
 
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
+
+---
+
+**[Ethereum co-founder moves 157M to exchange – Can ETH’s $1,800 hold?](https://ambcrypto.com/ethereum-co-founder-moves-157m-to-exchange-can-eths-1800-hold/)**
+
+Ethereum faces insider transfers, rising leverage, and conflicting positioning as markets watch key support closely.
+
+AMBCrypto • 9h ago
 
 ---
 
@@ -178,25 +186,25 @@ TradingView • 1d ago
 
 ---
 
-**[Solana vs Ethereum – $4.4T traded, RWA holders flipped – But who wins?](https://ambcrypto.com/solana-vs-ethereum-4-4t-traded-rwa-holders-flipped-but-who-wins/)**
-
-Solana leads retail trading growth, while Ethereum retains deeper institutional liquidity.
-
-AMBCrypto • 18h ago
-
----
-
 **[Ethereum Based Crypto Pepeto Announces Whale Wallet Accumulation Increase While Elon Musk Dogecoin Mission Loads](https://markets.businessinsider.com/news/stocks/ethereum-based-crypto-pepeto-announces-whale-wallet-accumulation-increase-while-elon-musk-dogecoin-mission-loads-1035908230)**
 
 Dubai, UAE, March  08, 2026  (GLOBE NEWSWIRE) -- Pepeto just confirmed accelerating whale wallet accumulation inside the presale while funding cro...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 5h ago
 
 ---
 
 **[Investors Buy the Ethereum Dip: iShares ETHA Pulls In $30 Million Despite ‘Strong Sell’ Signal](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-ethereum-dip-ishares-etha-pulls-in-30-million-despite-strong-sell-signal)**
 
-TipRanks • 10h ago
+TipRanks • 11h ago
+
+---
+
+**[Vitalik Buterin calls for bolder experimentation in Ethereum's app layer while preserving core principles](https://www.theblock.co/post/392621/vitalik-buterin-calls-for-bolder-experimentation-in-ethereums-app-layer-while-preserving-core-principles)**
+
+Vitalik Buterin has urged Ethereum developers to experiment more boldly at the app layer while preserving the network’s core principles.
+
+The Block • 2d ago
 
 ---
 
@@ -204,7 +212,7 @@ TipRanks • 10h ago
 
 Harvard’s $57 billion endowment just rotated $86.8 million from Bitcoin ETFs into the iShares Ethereum Trust, proving the smartest institutional money on the
 
-FinanceFeeds • 4h ago
+FinanceFeeds • 6h ago
 
 ---
 
@@ -213,12 +221,6 @@ FinanceFeeds • 4h ago
 The crypto market is under pressure again after a brief recovery attempt earlier this week. Bitcoin had surged toward $73,000, sparking optimism that the
 
 Coinpedia • 1d ago
-
----
-
-**[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
-
-Binance • 1d ago
 
 ---
 
@@ -232,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 319 • 👍 31 • 💬 1 • ⏱️ 3:59 • 1h ago
+👁️ 319 • 👍 31 • 💬 1 • ⏱️ 3:59 • 2h ago
 
 ---
 
@@ -252,7 +254,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 149 • 💬 93 • ⏱️ 15:06 • 23h ago
+👁️ 6K • 👍 149 • 💬 93 • ⏱️ 15:06 • 1d ago
 
 ---
 
@@ -262,7 +264,7 @@ BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 5K • 👍 201 • 💬 147 • ⏱️ 17:36 • 6h ago
+👁️ 5K • 👍 201 • 💬 147 • ⏱️ 17:36 • 7h ago
 
 ---
 
@@ -272,7 +274,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 3K • 👍 144 • 💬 51 • ⏱️ 16:06 • 14h ago
+👁️ 3K • 👍 144 • 💬 51 • ⏱️ 16:06 • 15h ago
 
 ---
 
@@ -282,7 +284,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 2K • 👍 103 • 💬 34 • ⏱️ 20:10 • 10h ago
+👁️ 2K • 👍 103 • 💬 34 • ⏱️ 20:10 • 11h ago
 
 ---
 
@@ -302,7 +304,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 282 • 💬 48 • ⏱️ 55:53 • 7h ago
+👁️ 5K • 👍 282 • 💬 48 • ⏱️ 55:53 • 8h ago
 
 ---
 
@@ -312,7 +314,7 @@ Welcome back ladies and gentlemen Today we are going down the Stellar Lumens XLM
 
 📺 AllinCrypto
 
-👁️ 8K • 👍 608 • 💬 130 • ⏱️ 10:45 • 9h ago
+👁️ 8K • 👍 608 • 💬 130 • ⏱️ 10:45 • 11h ago
 
 ---
 

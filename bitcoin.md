@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T04:30:17.138072+00:00'
+updated: '2026-03-09T05:42:39.050359+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 04:30 UTC  
+**Last Updated:** March 09, 2026 at 05:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -1.0%  
-**30d:** -3.9%  
-**90d:** -26.5%  
-**1y:** -14.0%  
+**24h:** +0.8%  
+**7d:** -0.8%  
+**30d:** -3.7%  
+**90d:** -26.4%  
+**1y:** -13.8%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I keep hearing this advice to not sell your Bitcoin, just borrow against it. But honestly I don’t fully get why that’s supposed to be better. If you sell BTC after it’s gone up, you’re actually locking in profit. You bought at one price and sold higher, so you walk away with real gains. When you borrow against your Bitcoin though, you’re taking out a loan that you eventually have to pay back plus interest. So in my head it feels like you’re not really gaining money, you’re just accessing cash temporarily and then paying for it later. I get that people want to keep their BTC long term and stay exposed to the price going up, but if the goal is to actually make money, wouldn’t selling a portion make more sense?
 
-2h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption — capped at $5,000 annually — to let Americans use Bitcoin and other digital assets for everyday purchases without triggering capital gains taxes.
 
-🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 20h ago
+🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 21h ago
 
 ---
 
@@ -97,7 +97,7 @@ Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption —
 
 Some reports circulating online claim that Binance may have accumulated a large amount of Bitcoin during the recent market decline. The estimated figure being mentioned is around $1 billion worth of Bitcoin, although there has not been an official confirmation explaining the purpose of the transactions. Large exchange movements can occur for several reasons, including liquidity management, custody changes, or treasury allocation. Without further details, it’s difficult to determine the exact intent behind the activity. Still, transactions of this size tend to attract attention, especially when they occur during periods of market volatility. What do you think about large Bitcoin purchases happening during market downturns? Could they reflect long term positioning, or are there other explanations that make more sense?
 
-6h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the
 
 Were living in the most uncertain time in recent history. Inflation is soon to be rampant and will not be able to be stopped. The wealthy will receive bail outs. The poors will receive threats of death or jail if we dont fight wars for the elites. Threats of jail or death if we dont turn in our personal gold reserves. Own what cant be frozen as easily as a USD asset. Own something more portable than gold. Own something that represents one of the only attempts at returning monetary freedom to the people who have realized the debt system is not for them. Bitcoin in a cold wallet.
 
-14h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ Were living in the most uncertain time in recent history. Inflation is soon to b
 
 Once you start buying Bitcoin on multiple exchanges and moving coins to cold storage, tracking everything gets complicated pretty quickly. Between: transfers between wallets network fees UTXO consolidation keeping cost basis accurate making sure everything lines up for tax reporting my spreadsheet started getting pretty messy. I ended up building a small browser-only tracker for myself just to keep things organized across wallets. It handles basic things like logging buys and transfers, tracking cost basis, and exporting transactions for tax software. But I’m curious what other people here are doing. Are most people still using spreadsheets for this, or are there tools/workflows that work well once you start managing multiple wallets?
 
-4h ago
+5h ago
 
 ---
 
@@ -129,7 +129,7 @@ Once you start buying Bitcoin on multiple exchanges and moving coins to cold sto
 
 Everytime, yep. Everytime you don't buy, the price is just stuck, consolidating. The moment you buy, it dips again, the moment you sold, it went up. Only in Bitocin! Hodl!
 
-12h ago
+13h ago
 
 ---
 
@@ -137,7 +137,7 @@ Everytime, yep. Everytime you don't buy, the price is just stuck, consolidating.
 
 Greetings, I’m a Ukrainian woman living in Austria as a refugee. I have about €100k in inheritance sitting in a bank account in Kyiv. Unfortunately, due to the current martial law, the outflow of money from Ukraine has been severely restricted. You are only allowed to carry a maximum of €10k in cash at the border, and sending money abroad has been capped at €2k per month. I need this money as soon as possible and don’t want it sitting in a country riddled with corruption and war. I’ve read that crypto can be a way to move money internationally since it has no central governing body. I don’t know much about it, but from my research it seems that I could convert the money into crypto, transfer it to my hardware wallet or an exchange, and then withdraw it outside of Ukraine. However, the extreme volatility of crypto makes me worried. What if I convert the money at an unlucky moment and the price drops when I want to withdraw, causing me to lose money? Does anyone have experience with a similar situation and can provide some helpful tips or resources? Still feeling very nervous about this. I would be very grateful. Thanks!
 
-16h ago
+17h ago
 
 ---
 
@@ -145,15 +145,15 @@ Greetings, I’m a Ukrainian woman living in Austria as a refugee. I have about 
 
 For the triggered ones: Yes, that's a shitcoin too. No, it isn't faster than bitcoin on r/thelightningnetwork. No, that's a dying fork of Bitcoin... No, it's called a temporary privacy. All the transactions are still kept on the blockchain, waiting for quantum computers to read all your "private" shitcoin transactions. Using P2P exchanges and lightning is more future proof because there's no blockchain, to keep all txs for QC to read in the future. No, even that's a premined and centralized shitcoin too. It doesn't matter it's sitting right under Bitcoin. It doesn't make it a less of shitcoin at all.
 
-20h ago
+21h ago
 
 ---
 
-**[I think I found Bitcoin's actual black swan and it's not what anyone expects](https://www.reddit.com/r/Bitcoin/comments/1roqe03/i_think_i_found_bitcoins_actual_black_swan_and/)**
+**[BIP-0360 and what it says about Taproot improvements](https://www.reddit.com/r/Bitcoin/comments/1roovmx/bip0360_and_what_it_says_about_taproot/)**
 
-This is going to sound insane. I've been going down a rabbit hole for months and I need someone to tell me where the flaw is because I can't find one. Everyone's looking for Bitcoin's black swan in the wrong place. Quantum computing. Government bans. Better blockchains. They're all variations of the same assumption: that you need a chain. That global consensus is the cost of preventing double-spend. It's not. The chain is a workaround. Here's what I can't stop thinking about: Your transactions only need to be serialized against your transactions. My balance is irrelevant to your balance. Why does every node on earth need to agree on both? The answer everyone gives is "double spend." But double spend is a per-identity problem. I can only double-spend MY money. You can only double-spend YOUR money. So: map each identity to a small group of nodes. 5 nodes determined by distance in a DHT. Majority confirms. Monotonic sequence number on every transaction — no gaps, no duplicates. Your group handles yours. Mine handles mine. Both groups confirm independently for cross-identity transfers. Finality: ~30ms. Not 10 minutes. Not 6 blocks. Thirty milliseconds. No blocks. No mining. No mempool. No chain. The entire 900+ page Bitcoin codebase is an elaborate workaround for an assumption nobody questioned. But that's not the black swan. That's just the setup. The black swan is what happens when you put the price in the wire format. What if every packet between two machines has a cost field in its header? Not a payment API. Not a layer on top. The header. The sequence number that already counts every packet IS the meter. The cost field that prices each one IS the economy. Communication and payment become the same act. You can't speak without paying. You can't pay without speaking. They're the same operation. And the protocol fee — the thing that funds the network — isn't in a config file. It's in the byte layout. Fork the code, the fee stays. Fork the byte layout, you can't talk to anyone. The fee is structural. Now think about what that does to money. Money stops being a thing you transfer. It becomes a property of communication. Like temperature isn't a fluid — it's what molecules do when they move. Money is what packets do when they carry price. Total supply: 1. Not 21 million. One. Infinitely divisible. "I own 0.003 of the network." Everyone's fractions add up to one. You earn by running hardware — not mining, not staking. Your machine participates, you accumulate. Turn it off, the flow routes around you. The black swan isn't a better Bitcoin. The black swan is the realization that ledgers, blockchains, and financial infrastructure were never necessary. They're artifacts of a world where communication and payment are separate acts. Merge them at the wire format level, and the entire monetary system — not just Bitcoin, ALL of it — is a rounding error on a protocol header. I keep looking for the hole. Partition tolerance? Majority side transacts, minority waits — same tradeoff Bitcoin makes but per-identity instead of global. Sybil? Orthogonal to consensus — solved at the hardware attestation layer, not the money layer. Node collusion? Groups are DHT-determined, rotate naturally, you don't pick yours. The thing that really gets me: the person who figured this out never publishes papers. There's no whitepaper. Just... specs. Sitting somewhere. Like they already know the game theory makes it inevitable and don't need to convince anyone. Someone please tell me I'm wrong. I've been staring at this for weeks.
+I am currently studying Taproot and see its benefits about the application of Schnorr Signature scheme, i.e. key aggregation. I just understood that there are 2 spending paths of pay-to-taproot (P2TR), the key path, which in many cases takes advantage of the possibility to aggregate signatures. Then the alternative spending path: script path. There's also the advantage of having the same address length, which makes, single sig, MuSig or other complicated addresses indistinguishable. Better for privacy. BIP-0360 proposes the implementation of pay-to-merkle root (P2MR), which is the use of only the script path, essentially. And it was done due to P2TR being vulnerable to long exposure attack. screenshot from BIP-0360 Bummer! So, how can we take advantage of the use of Schnorr signature scheme moving forward? How about those who don't actually use MuSig2 and other complexities, creating a single sig wallet address only? Are they just better off avoiding P2TR then? Are there developers working to still implement Schnorr signature scheme for single key wallets, in a way less vulnerable to the long exposure attack highlighted by BIP-0360?
 
-11m ago
+2h ago
 
 ---
 
@@ -165,7 +165,7 @@ This is going to sound insane. I've been going down a rabbit hole for months and
 
 There was little sign over the weekend of any de-escalation in the war against Iran.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -173,29 +173,29 @@ CoinDesk • 1h ago
 
 Is the market-leading cryptocurrency in danger of being disrupted?
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg.com • 1h ago
+Bloomberg • 2h ago
 
 ---
 
-**[Bitcoin Has Only a 5% Chance of Hitting $150,000 by June, According to Prediction Markets -- Here's Why I'm Not Taking Those Odds at Face Value](https://www.fool.com/investing/2026/03/08/bitcoin-has-only-a-5-chance-of-hitting-150000-by-m/)**
+**[Bitcoin slumps to $66,000 as oil price spike rattles Asian stock markets](https://www.theblock.co/post/392778/bitcoin-slumps-66000-oil-price-breakout)**
 
-When it comes to Bitcoin, crypto investors need to adopt a long-term mindset.
+Japan's benchmark Nikkei has plunged 7% after Monday's market open, while South Korea's KOSPI has dropped 7.9%.
 
-The Motley Fool • 2h ago
+The Block • 2h ago
 
 ---
 
-**[Man says Home Depot has not reimbursed him after employee stole $500 from his Bitcoin account](https://www.actionnews5.com/2026/03/09/man-says-home-depot-has-not-reimbursed-him-after-employee-stole-500-his-bitcoin-account/)**
+**[Man says Home Depot has not reimbursed him after employee stole $500 worth of his Bitcoin](https://www.actionnews5.com/2026/03/09/man-says-home-depot-has-not-reimbursed-him-after-employee-stole-500-his-bitcoin-account/)**
 
 A retired Midtown resident says a Home Depot employee stole $500 from his Coinbase account while briefly holding his phone inside the store, and he says the company has not taken action to help him recover the money.
 
-Action News 5 • 55m ago
+Action News 5 • 2h ago
 
 ---
 
@@ -203,7 +203,15 @@ Action News 5 • 55m ago
 
 Key PointsHuge price drawdowns are nothing new to the Bitcoin community, and this crypto has always recovered in the past.
 
-Nasdaq • 8h ago
+Nasdaq • 9h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773030600)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2d ago
 
 ---
 
@@ -213,25 +221,17 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773027300)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 2d ago
-
----
-
 **[Is $65K a Good Price to Buy Bitcoin in 2026? 6 Years of BTC Data Give a Surprisingly Clear Answer](https://www.ccn.com/analysis/crypto/price-to-buy-bitcoin-2026-btc-data-give-clear-answer-analysis/)**
 
 CCN.com • 1d ago
 
 ---
 
-**[Bitcoin ETFs Break 5-Month Streak With 2nd Consecutive Week Of Inflows](https://www.tradingview.com/news/newsbtc:bf519f3cc094b:0-bitcoin-etfs-break-5-month-streak-with-2nd-consecutive-week-of-inflows/)**
+**[Bitcoin correlation with tech stocks overblown: NYDIG](https://www.tradingview.com/news/cointelegraph:ac996690b094b:0-bitcoin-correlation-with-tech-stocks-overblown-nydig/)**
 
-A Blockstream executive made waves on social media Saturday with a striking comparison: US spot Bitcoin exchange-traded funds have pulled in roughly the same amount of cumulative investor money as gold ETFs collected over their first 15 years — and Bitcoin did it in less than two.The Numbers Behind…
+Bitcoin’s recent parallel movement with US software stocks is more of a case of shared exposure to macro events, rather than any structural convergence, according to financial services company NYDIG.In the past week, Bitcoin (BTC) rallied alongside US software stocks, leading many to claim the cryp…
 
-TradingView • 11h ago
+TradingView • 1h ago
 
 ---
 
@@ -249,7 +249,7 @@ TradingView • 11h ago
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 2 • 💬 1 • 11h ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 2 • 💬 1 • 12h ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -263,7 +263,7 @@ Complete operating system for Bitcoiners
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 1 • 💬 0 • 4h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 149 • ⏱️ 14:03 • 5h ago
+👁️ 13K • 👍 1K • 💬 149 • ⏱️ 14:03 • 7h ago
 
 ---
 
@@ -351,7 +351,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 195 • 💬 23 • ⏱️ 4:38 • 5h ago
+👁️ 3K • 👍 195 • 💬 23 • ⏱️ 4:38 • 6h ago
 
 ---
 
@@ -371,7 +371,7 @@ Will bitcoin crash again to new lows or has it bottomed? We explain why bitcoin'
 
 📺 Alessio Rastani
 
-👁️ 31K • 👍 2K • 💬 293 • ⏱️ 4:28 • 21h ago
+👁️ 31K • 👍 2K • 💬 293 • ⏱️ 4:28 • 22h ago
 
 ---
 
@@ -381,7 +381,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 698 • 💬 126 • ⏱️ 8:02 • 4h ago
+👁️ 8K • 👍 698 • 💬 126 • ⏱️ 8:02 • 5h ago
 
 ---
 
@@ -391,7 +391,7 @@ Use our institutional grade risk models to accumulate, plan exits, and stay ahea
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 744 • 💬 210 • ⏱️ 16:14 • 13h ago
+👁️ 10K • 👍 744 • 💬 210 • ⏱️ 16:14 • 14h ago
 
 ---
 
@@ -401,7 +401,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=zehno3tnsvo FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 247 • 💬 70 • ⏱️ 16:15 • 1d ago
+👁️ 6K • 👍 247 • 💬 70 • ⏱️ 16:15 • 2d ago
 
 ---
 
