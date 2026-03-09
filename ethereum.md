@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-08T23:47:36.747990+00:00'
+updated: '2026-03-09T02:12:54.115486+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 08, 2026 at 23:47 UTC  
+**Last Updated:** March 09, 2026 at 02:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,931.01
+### $1,955.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -3.6%  
-**30d:** -6.7%  
-**90d:** -41.1%  
-**1y:** -3.0%  
+**24h:** -0.1%  
+**7d:** -1.8%  
+**30d:** -6.8%  
+**90d:** -41.4%  
+**1y:** +4.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.20B
+**Market Cap:** $234.58B
 Rank #2
 
-**Circulating Supply:** 120,692,053 ETH
+**Circulating Supply:** 120,692,045 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.5%
+-60.6%
 
 **All-Time Low:** $0.43
-+450861.8%
++450009.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 For the past few months I've been building EthereumHistory.com, a project to document every notable smart contract from Ethereum's earliest days (2015-2017). Think of it as a Wikipedia for Ethereum's contract archaeology. Recently I did a deep scan of all 12,609 contracts deployed during the Frontier era and found 1,650 still holding ETH — totaling over 38,000 ETH (~$95M at current prices) locked in contracts from Ethereum's first weeks. Here's what's actually inside them: The Gambling Contracts (Day 13 of Ethereum) EtherDice (0xc4c51de1abf5d60dbd329ec0f999fd8f021ae9fc) was deployed on August 12, 2015 — just 13 days after Ethereum launched. Someone loaded it with a 1,000 ETH bankroll. It's a 21-function commit-reveal dice game, surprisingly sophisticated for the era. 122 ETH still sits inside, permanently locked because the deployer likely lost their keys years ago. The Inverted Timelock TimeLockVault (0xed44f3c2081480b08643fe1ca281fab9ed643735) has a beautiful bug: the time check is inverted. You can withdraw before the unlock date (2035), but once 2035 arrives, the funds become permanently locked. 50 ETH inside. The deployer could have withdrawn years ago but apparently never noticed. The Stalled Pyramid EtherPyramid (0xa9e4e3b1da2752aea980698c335e70e9ab26c) had 140 participants. 136 of them are still waiting for their payout. 37 ETH frozen forever in a pyramid that ran out of new entrants. A time capsule of early Ethereum's Wild West era. The Pattern After scanning all 1,650 funded contracts, the pattern is consistent: every single one is either owner-gated (keys likely lost), bug-locked, pyramid-stalled, or timelocked. At least 5 active hunter addresses have already probed most of these contracts looking for extractable funds. None succeeded. These contracts are essentially digital fossils — permanently preserved on-chain with real ETH sealed inside them. They tell the story of Ethereum's earliest developers experimenting with code that would handle real money, often for the first time. I've been documenting these on EthereumHistory.com with verified source code, deployment context, and the stories behind them. If you deployed contracts in 2015-2016 or know the stories behind any early projects, I'd love to hear from you. What early Ethereum contracts do you remember that deserve to be documented?
 
-10h ago
+13h ago
 
 ---
 
@@ -80,15 +80,7 @@ For the past few months I've been building EthereumHistory.com, a project to doc
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
-
----
-
-**[Is compound finance frontend or dns setup got hacked?](https://www.reddit.com/r/ethereum/comments/1ro2xqv/is_compound_finance_frontend_or_dns_setup_got/)**
-
-I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
-
-11h ago
+20h ago
 
 ---
 
@@ -96,13 +88,21 @@ I tried to access compound.finance, and when connecting wallet it warns me the d
 
 "a practical compliance framework that enables an auditing entity to selectively unshield transactions upon legitimate regulatory request" So, the entire point of using the chain is null and void. What's the use of hiding transactions when an arbitrary entity can just... unhide them? "For compliance, each user registers an encrypted copy of their viewing key on-chain. Upon legitimate regulatory request, a designated auditing entity can decrypt this key to trace a specific user’s transaction history, without affecting the privacy of uninvolved users." So it is effectively mandatory. Wonderful. Who did they think we were hiding transactions from, our ex? The paper: https://eprint.iacr.org/2026/474
 
-16h ago
+18h ago
+
+---
+
+**[Is compound finance frontend or dns setup got hacked?](https://www.reddit.com/r/ethereum/comments/1ro2xqv/is_compound_finance_frontend_or_dns_setup_got/)**
+
+I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
+
+14h ago
 
 ---
 
 **[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -142,7 +142,7 @@ I've been working on verifying source code for the oldest contracts on Ethereum,
 
 I staked some ETH around a month ago and it still has the Staking..... "staking takes 5 days" prompt. How long does it normally take to stake ETH and should I be worried?
 
-1d ago
+2d ago
 
 ---
 
@@ -150,75 +150,73 @@ I staked some ETH around a month ago and it still has the Staking..... "staking 
 
 ## Google News: "ethereum"
 
+**[Network Upgrade for Ethereum Network (ETH) - 2026-03-10](https://www.binance.com/en/support/announcement/2d39963f89c0466eb4880caf4c9aad05)**
+
+Binance • 51m ago
+
+---
+
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
 Binance • 1d ago
 
 ---
 
-**[Ethereum Co-Founder Dumps $158 Million Worth of ETH](https://www.tradingview.com/news/u_today:e839de8ea094b:0-ethereum-co-founder-dumps-158-million-worth-of-eth/)**
+**[Key facts: Clarity Act to Boost Ethereum Investment; Buterin Advocates for Privacy](https://www.tradingview.com/news/tradingview:dbeedf0571fc3:0-key-facts-clarity-act-to-boost-ethereum-investment-buterin-advocates-for-privacy/)**
 
-According to blockchain analytics platform Onchain Lens, Ethereum co-founder Jeffrey Wilcke recently deposited 79,859 ETH (roughly $158.31 million at press time) to the Kraken cryptocurrency exchange over the past 24 hours.Meanwhile, Ethereum BITSTAMP:ETHUSD continues to struggle with downside pric…
-
-TradingView • 15h ago
+TradingView • 1d ago
 
 ---
 
-**[Where Will Ethereum Be in 2030?](https://www.fool.com/investing/2026/03/08/where-will-ethereum-be-in-2030/)**
+**[Solana vs Ethereum – $4.4T traded, RWA holders flipped – But who wins?](https://ambcrypto.com/solana-vs-ethereum-4-4t-traded-rwa-holders-flipped-but-who-wins/)**
 
-As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
+Solana leads retail trading growth, while Ethereum retains deeper institutional liquidity.
 
-The Motley Fool • 11h ago
+AMBCrypto • 16h ago
 
 ---
 
-**[Ethereum – BlackRock drops ETH ETF staking fee as firm issues ‘warning’](https://ambcrypto.com/ethereum-blackrock-drops-eth-etf-staking-fee-after-firm-issues-warning/)**
+**[Ethereum Based Crypto Pepeto Announces Whale Wallet Accumulation Increase While Elon Musk Dogecoin Mission Loads](https://markets.businessinsider.com/news/stocks/ethereum-based-crypto-pepeto-announces-whale-wallet-accumulation-increase-while-elon-musk-dogecoin-mission-loads-1035908230)**
 
-Culper Research has shorted ETH citing underlying Ethereum staking and validator crisis.
+Dubai, UAE, March  08, 2026  (GLOBE NEWSWIRE) -- Pepeto just confirmed accelerating whale wallet accumulation inside the presale while funding cro...
 
-AMBCrypto • 1d ago
+markets.businessinsider.com • 1h ago
 
 ---
 
 **[Investors Buy the Ethereum Dip: iShares ETHA Pulls In $30 Million Despite ‘Strong Sell’ Signal](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-ethereum-dip-ishares-etha-pulls-in-30-million-despite-strong-sell-signal)**
 
-TipRanks • 5h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Are Having a Great Week. Why Cryptos Are on the Up.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-war-cryptos-ba05311d?gaa_at=eafs&gaa_n=AWEtsqcUaHIaqefPhh82h03qE0QBtYcgyJZCSOQ3SVBwREPeDuqdAMCy9KWd&gaa_ts=69ae0909&gaa_sig=TUSHpoOg05Tbe-Y-6M7ENwWBDNXqt3AE9sCmpNwEs7b-hy2bAdqa-A97Lb3E1DKwR-NQlg4XyAREyWc37OeKRQ%3D%3D)**
-
-Barron's • 3d ago
-
----
-
-**[Vitalik Buterin calls for bolder experimentation in Ethereum's app layer while preserving core principles](https://www.theblock.co/post/392621/vitalik-buterin-calls-for-bolder-experimentation-in-ethereums-app-layer-while-preserving-core-principles)**
-
-Vitalik Buterin has urged Ethereum developers to experiment more boldly at the app layer while preserving the network’s core principles.
-
-The Block • 2d ago
-
----
-
-**[ETH, BMNR news: Short seller Culper Research says ether tokenomics is 'impaired'](https://www.coindesk.com/markets/2026/03/05/short-seller-culper-bets-against-ether-bitmine-citing-death-spiral-risk)**
-
-The short seller firm said that Ethereum's native token is "impaired," leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.
-
-CoinDesk • 2d ago
-
----
-
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of February 2026.
-
-Bit Digital • 3d ago
+TipRanks • 8h ago
 
 ---
 
 **[What Will Bitcoin, ETH and XRP Be Worth in 2030? ChatGPT’s Price Predictions May Shock You](https://www.ccn.com/education/crypto/chatgpt-predicts-2030-crypto-prices-bitcoin-500k-eth-20k-xrp-20/)**
 
 CCN.com • 3d ago
+
+---
+
+**[Ethereum co-founder Jeffrey Wilcke sends $157M in ETH to Kraken after months of wallet silence](https://cryptobriefing.com/ethereum-founder-jeffrey-wilcke-transaction-seven-months/)**
+
+Ethereum founder transaction: Jeffrey Wilcke moves $157M in Ethereum to Kraken, marking significant activity after months of wallet silence.
+
+Crypto Briefing • 1d ago
+
+---
+
+**[Ethereum Price Prediction: ETH Targets $8,000 as Harvard Rotates $86.8M Into ETH Trust While Pepeto Keeps Selling Out Faster More Than Ever](https://financefeeds.com/ethereum-price-prediction-eth-targets-8000-as-harvard-rotates-86-8m-into-eth-trust-while-pepeto-keeps-selling-out-faster-more-than-ever/)**
+
+Harvard’s $57 billion endowment just rotated $86.8 million from Bitcoin ETFs into the iShares Ethereum Trust, proving the smartest institutional money on the
+
+FinanceFeeds • 2h ago
+
+---
+
+**[Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck](https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck)**
+
+Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.
+
+Decrypt • 3d ago
 
 ---
 
@@ -232,7 +230,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 154 • ⏱️ 11:32 • 1d ago
+👁️ 43K • 👍 2K • 💬 157 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -242,7 +240,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 1K • 👍 92 • 💬 26 • ⏱️ 20:10 • 5h ago
+👁️ 1K • 👍 101 • 💬 34 • ⏱️ 20:10 • 8h ago
 
 ---
 
@@ -252,7 +250,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 141 • 💬 143 • ⏱️ 15:06 • 18h ago
+👁️ 5K • 👍 146 • 💬 96 • ⏱️ 15:06 • 21h ago
 
 ---
 
@@ -262,7 +260,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 132 • 💬 2 • ⏱️ 5:48 • 6h ago
+👁️ 2K • 👍 137 • 💬 2 • ⏱️ 5:48 • 9h ago
+
+---
+
+**[BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AjrSEIqun14)**
+
+BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 171 • 💬 175 • ⏱️ 17:36 • 4h ago
 
 ---
 
@@ -276,33 +284,13 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AjrSEIqun14)**
-
-BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 101 • 💬 111 • ⏱️ 17:36 • 1h ago
-
----
-
 **[BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7bIFSyrYf_0)**
 
 BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 10K • 👍 312 • 💬 132 • ⏱️ 17:36 • 1d ago
-
----
-
-**[Ethereum Price Analysis: This ETH Setup shocked me, but won it !](https://www.youtube.com/watch?v=_F4DqnAhmeA)**
-
-Join my Patreon for exclusive crypto insights: https://www.patreon.com/cw/Adamcoins Ethereum price prediction and Ethereum ...
-
-📺 Adam coins
-
-👁️ 83 • 👍 6 • ⏱️ 6:41 • 2d ago
+👁️ 11K • 👍 315 • 💬 79 • ⏱️ 17:36 • 1d ago
 
 ---
 
@@ -312,7 +300,7 @@ In this clip from the most recent askSlim Live, Slim provides an analysis update
 
 📺 Steve Miller
 
-👁️ 2K • 👍 88 • 💬 5 • ⏱️ 8:11 • 1d ago
+👁️ 2K • 👍 91 • 💬 5 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -322,7 +310,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 6 • ⏱️ 3:42 • 1d ago
+👁️ 2K • 👍 128 • 💬 5 • ⏱️ 3:42 • 1d ago
+
+---
+
+**[Ethereum: The Silent Plumbing of New Money &amp; BMNR Impact #shorts](https://www.youtube.com/watch?v=vGwiJ8IPoms)**
+
+Discover how Ethereum is quietly becoming the backbone for new money movement. Witness billions in real-world assets ...
+
+📺 MONEY GAME
+
+👁️ 562 • 👍 16 • 💬 3 • ⏱️ 1:36 • 2d ago
 
 ---
 
