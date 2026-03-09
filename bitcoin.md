@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T11:09:16.048176+00:00'
+updated: '2026-03-09T11:56:24.561951+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 11:09 UTC  
+**Last Updated:** March 09, 2026 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,385.83
+### $67,677.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.4%  
-**30d:** -3.3%  
-**90d:** -26.1%  
-**1y:** -13.5%  
+**24h:** +0.8%  
+**7d:** -0.6%  
+**30d:** -3.5%  
+**90d:** -26.2%  
+**1y:** -13.6%  
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 I keep hearing this advice to not sell your Bitcoin, just borrow against it. But honestly I don’t fully get why that’s supposed to be better. If you sell BTC after it’s gone up, you’re actually locking in profit. You bought at one price and sold higher, so you walk away with real gains. When you borrow against your Bitcoin though, you’re taking out a loan that you eventually have to pay back plus interest. So in my head it feels like you’re not really gaining money, you’re just accessing cash temporarily and then paying for it later. I get that people want to keep their BTC long term and stay exposed to the price going up, but if the goal is to actually make money, wouldn’t selling a portion make more sense?
 
-9h ago
+10h ago
+
+---
+
+**[I’m just gonna leave this here](https://www.reddit.com/r/Bitcoin/comments/1row1ww/im_just_gonna_leave_this_here/)**
+
+1h ago
 
 ---
 
@@ -89,7 +95,7 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 ​I keep hearing the same advice over and over: "Don’t try to time the market, just Dollar Cost Averaging (DCA) every week." ​But honestly, I’m struggling to see how the math makes sense when we’re clearly in an uptrend. If I buy $100 of BTC every Monday while the price is climbing, all I’m doing is constantly raising my average entry price. It feels like I’m "buying the top" every single week. ​If we’re confident the price is going up long-term, wouldn't it have been objectively better to just buy as much as possible at the start? Or at the very least, wait for those 10–15% "flash crashes" to buy instead of buying a green candle just because it’s Monday morning? ​I get that DCA is supposed to reduce risk and "smooth out" volatility, but at what point does it just become a psychological crutch for people who are too scared to pull the trigger? ​Am I missing something here, or is DCA actually a sub-optimal strategy once the bull market is already in full swing? ​Would love to hear how you guys actually justify it when the price is hitting new highs every other day.
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +103,7 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 Right now i use Kraken and would like to hear your opinions on this. I also just store my BTC on a wallet there. Is there a better way to store bitcoin?
 
-2h ago
+3h ago
 
 ---
 
@@ -109,11 +115,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
+**[DCA and lumpsums](https://www.reddit.com/r/Bitcoin/comments/1rorn6o/dca_and_lumpsums/)**
+
+For those who do dca, when or what price you do huge lumpsums when it goes down
+
+6h ago
+
+---
+
 **[Reports suggest Binance accumulated Bitcoin during the recent market dip](https://www.reddit.com/r/Bitcoin/comments/1rohcx8/reports_suggest_binance_accumulated_bitcoin/)**
 
 Some reports circulating online claim that Binance may have accumulated a large amount of Bitcoin during the recent market decline. The estimated figure being mentioned is around $1 billion worth of Bitcoin, although there has not been an official confirmation explaining the purpose of the transactions. Large exchange movements can occur for several reasons, including liquidity management, custody changes, or treasury allocation. Without further details, it’s difficult to determine the exact intent behind the activity. Still, transactions of this size tend to attract attention, especially when they occur during periods of market volatility. What do you think about large Bitcoin purchases happening during market downturns? Could they reflect long term positioning, or are there other explanations that make more sense?
 
-13h ago
+14h ago
 
 ---
 
@@ -125,11 +139,11 @@ I am currently studying Taproot and see its benefits about the application of Sc
 
 ---
 
-**[DCA and lumpsums](https://www.reddit.com/r/Bitcoin/comments/1rorn6o/dca_and_lumpsums/)**
+**[Block just cut 40% of its workforce for AI - now traders think it could trigger the next Bitcoin rally](https://www.reddit.com/r/Bitcoin/comments/1roqwlt/block_just_cut_40_of_its_workforce_for_ai_now/)**
 
-For those who do dca, when or what price you do huge lumpsums when it goes down
+The bitcoin price has plunged again as traders fret the Middle East conflict could send shock waves through the global economy.
 
-5h ago
+🔗 [Forbes Australia](https://www.forbes.com.au/news/experts/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/) • 7h ago
 
 ---
 
@@ -141,43 +155,29 @@ Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption —
 
 ---
 
-**[I’m just gonna leave this here](https://www.reddit.com/r/Bitcoin/comments/1row1ww/im_just_gonna_leave_this_here/)**
-
-1h ago
-
----
-
-**[I am a dad of two and I bought 2 Bitcoins.](https://www.reddit.com/r/Bitcoin/comments/1rnq2fs/i_am_a_dad_of_two_and_i_bought_2_bitcoins/)**
-
-I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the world this week, war with Iran, oil prices climbing, 92,000 jobs lost in a single month, robotic arms replacing workers and thought: the cost of living is never going back down. So I did something terrifying, beyond any fathers' comfort zone. I accumulated and manage to finally buy 2 Bitcoins. One for each of my son. Every cent of it was earned. Not inherited. Not gifted. Earned, through long days, late nights, and the quiet sacrifices that nobody sees but you make anyway because you have two little faces at home counting on you. I don't know if Bitcoin will be worth a million dollars one day. I don't know if it drops to zero. Nobody does, and anyone who tells you otherwise is lying. What I do know is this: the system we were born into the one that promised that if you worked hard and saved diligently, you'd be okay is getting harder to trust every single year. Rent goes up. Groceries go up. The gap between those who have generational wealth and those who are starting from nothing keeps widening. I grew up with nothing. I refuse to let my kids start from nothing too. So this is my letter to them, posted here because maybe some of you are in the same position — ordinary people, not wealthy, just trying: *To my children, M.T & O.T * By the time you read this, Bitcoin will either have changed your life or humbled us both. Either way, I need you to know that I tried. I sat with the uncertainty. I felt the fear. And I bought anyway not out of greed, but out of love. I wanted to give you something that no government could inflate away, no bank could freeze, and no economic crisis could take from you the way it has taken from so many. I HODL'd it for you. Every dip. Every crash. Every headline that said it was over. I held, because I believed in your future more than I feared the risk. And if this works if this single decision somehow lifts you above the poverty line I was born into, I hope you pay it forward. Because that's the real dream behind Bitcoin for me. Not lambos. Not getting rich. A world where more people have a fighting chance. Hold the line, fellow HODLers. We're not just investing in an asset. Some of us are investing in our children's futures. 🧡 Dad of two. Holder of 2 BTC. Scared and hopeful in equal measure. *Not financial advice. Just a father trying his best for M.T & O.T * Update Thank you for the supports and encouragement. I just hope my children will be able to read this Reddit post one day and know that I sincerely did my best. To my sons If I am no longer in this world and you are reading this, please know that not a single day passed where you were not in my thoughts. Forgive me if I troubled you two a lot and thank you for putting up with me if you ever did. I love you, sons. More than any words I could ever leave behind. Your Dad, W 🧡
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin could face deeper downside as odds of U.S. market meltdown rise to 35%](https://www.coindesk.com/markets/2026/03/09/bitcoin-could-face-deeper-downside-as-odds-of-u-s-market-meltdown-rise-to-35)**
+**[Bitcoin slumps to $66,000 as oil price spike rattles Asian stock markets](https://www.theblock.co/post/392778/bitcoin-slumps-66000-oil-price-breakout)**
 
-Veteran strategist Ed Yardeni raised his probability of a stock market crash this year as oil tops $100, the dollar posts its best week in a year, and the Iran conflict expands to Saudi Arabia.
+Japan's benchmark Nikkei has plunged 7% after Monday's market open, while South Korea's KOSPI has dropped 7.9%.
 
-CoinDesk • 5h ago
+The Block • 8h ago
+
+---
+
+**[Hyperliquid opens ‘Pandora’s box’ as oil skyrockets while Bitcoin price flatlines near $68,000](https://www.dlnews.com/articles/markets/hyperliquid-unleashes-pandoras-box-as-bitcoin-flat/)**
+
+Traders flock to Hyperliquid to profit from oil’s 30% surge. Meanwhile, Bitcoin is still stalling around $68,000.
+
+dlnews.com • 1h ago
 
 ---
 
 **[Farage Invests in Kwarteng’s Bitcoin Treasury Firm Stack BTC](https://www.bloomberg.com/news/articles/2026-03-09/farage-invests-in-kwarteng-s-bitcoin-treasury-firm-stack-btc)**
 
-Bloomberg • 1h ago
-
----
-
-**[Nigel Farage takes stake in bitcoin company run by Kwasi Kwarteng](https://www.ft.com/content/1518dcd2-a11e-435b-b447-8b04957fa46d)**
-
-Reform UK leader invests £215,000 in Stack Bitcoin
-
-Financial Times • 2h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -185,13 +185,13 @@ Financial Times • 2h ago
 
 Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Oil Price Surge on Strait of Hormuz Tensions Raises Bitcoin End-of-Cycle Fears, CryptoQuant Warns](https://www.binance.com/en/square/post/299641884997762)**
+**[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
-Binance • 2h ago
+Reuters • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Binance • 2h ago
 
 Across 68 verified cable fault events, node impact was usually under 5%, but ASN targeting beats seabed chaos fast.
 
-CryptoSlate • 16h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -209,11 +209,11 @@ Forbes • 1d ago
 
 ---
 
-**[Startup Starcloud Plans First Bitcoin Mining Satellite in Low-Earth Orbit](https://news.bitcoin.com/startup-starcloud-plans-first-bitcoin-mining-satellite-in-low-earth-orbit/)**
+**[What Happened to Tesla’s 43,770 BTC? On-Chain Data Reveals Full Story Behind Its Crypto Moves](https://news.bitcoin.com/what-happened-to-teslas-43770-btc-on-chain-data-reveals-full-story-behind-its-crypto-moves/)**
 
-A Washington startup says the next frontier for computing—and possibly bitcoin mining—may orbit hundreds of miles above Earth.
+Tesla’s $1.5 billion bitcoin bet produced early profits, huge sales during the 2022 crypto crash, and a lasting corporate crypto footprint, as blockchain
 
-Bitcoin.com News • 8h ago
+Bitcoin.com News • 3h ago
 
 ---
 
@@ -247,7 +247,7 @@ Fortune • 2d ago
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 2 • 💬 1 • 18h ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 2 • 💬 2 • 18h ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -261,7 +261,7 @@ Complete operating system for Bitcoiners
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 10h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 11h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -319,7 +319,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 3K • 💬 182 • ⏱️ 11:22 • 6h ago
+👁️ 31K • 👍 3K • 💬 182 • ⏱️ 11:22 • 7h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 120 • ⏱️ 14:03 • 12h ago
+👁️ 20K • 👍 1K • 💬 120 • ⏱️ 14:03 • 13h ago
 
 ---
 
@@ -349,7 +349,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 3K • 💬 309 • ⏱️ 10:01 • 14h ago
+👁️ 25K • 👍 3K • 💬 309 • ⏱️ 10:01 • 15h ago
 
 ---
 
@@ -379,7 +379,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 236 • 💬 24 • ⏱️ 4:38 • 12h ago
+👁️ 4K • 👍 236 • 💬 24 • ⏱️ 4:38 • 13h ago
 
 ---
 
@@ -389,7 +389,7 @@ Use our institutional grade risk models to accumulate, plan exits, and stay ahea
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 804 • 💬 233 • ⏱️ 16:14 • 20h ago
+👁️ 12K • 👍 804 • 💬 233 • ⏱️ 16:14 • 21h ago
 
 ---
 
@@ -409,7 +409,7 @@ Once you know BTC isn't digital gold, you can understand the moves better. I pre
 
 📺 Nicholas Crown
 
-👁️ 9K • 👍 245 • 💬 35 • ⏱️ 0:59 • 15h ago
+👁️ 9K • 👍 245 • 💬 35 • ⏱️ 0:59 • 16h ago
 
 ---
 

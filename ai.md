@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-09T11:09:16.039621+00:00'
+updated: '2026-03-09T11:56:24.553392+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 09, 2026 at 11:09 UTC  
+**Last Updated:** March 09, 2026 at 11:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,23 @@ AI news, discussions, and developments
 
 I've been building an interactive map of the AI tool ecosystem — not just a list, but a visual graph that shows which tools connect to each other and how people actually chain them together in workflows. Some things it does: Interactive graph — 137 tools plotted by category with 281 connections between them. Click any tool to see what it integrates with. 25 real workflows — step-by-step breakdowns like "AI SEO Blog Factory" or "Podcast Production Pipeline" that show you which tools to use at each stage and how the output of one feeds into the next. Quiz + AI advisor — answer a few questions about your use case and it recommends a full stack, not just a single tool. Side-by-side comparisons — 204 comparison pages (Cursor vs Copilot, Jasper vs Copy.ai, etc.) It's free, no login, runs entirely in the browser. I built it because I got tired of evaluating AI tools in isolation. The real question isn't "what's the best writing tool" — it's "what combination of tools actually works together for my workflow." Would love feedback on what's useful and what's missing. https://thestackmap.com
 
-12h ago
+13h ago
+
+---
+
+**[Open source persistent memory for AI agents — local embeddings, no external APIs](https://www.reddit.com/r/artificial/comments/1roxh71/open_source_persistent_memory_for_ai_agents_local/)**
+
+GitHub: https://github.com/zanfiel/engram Live demo: https://demo.engram.lol/gui (password: demo) Built a memory server that gives AI agents long-term memory across sessions. Store what they learn, search by meaning, recall relevant context automatically. - Embeddings run locally (MiniLM-L6) — no OpenAI key needed - Single SQLite file — no vector database required - Auto-linking builds a knowledge graph between memories - Versioning, deduplication, auto-forget - Four-layer recall: static facts + semantic + importance + recency - WebGL graph visualization built in - TypeScript and Python SDKs One file, docker compose up, done. MIT licensed.
+
+37m ago
+
+---
+
+**[100 production-ready AI agent configs that actually run (not demos, not concepts)](https://www.reddit.com/r/artificial/comments/1roq2su/100_productionready_ai_agent_configs_that/)**
+
+There's a lot of "AI agent" content that stops at the blog post. This is a repo of 100 agent templates that run in production. Each one is an OpenClaw SOUL. md config. You define the agent's role, rules, integrations, and schedule. It connects to Telegram, Slack, Discord, or WhatsApp and runs on a loop. Real examples from the repo: a code reviewer that catches issues before PR merge. A churn prevention agent that flags at-risk users. A self-healing server agent that restarts crashed containers. No chain-of-thought theater. No "imagine if" scenarios. These are configs people are running right now. GitHub: https://github.com/mergisi/awesome-openclaw-agents
+
+7h ago
 
 ---
 
@@ -59,11 +75,11 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 ---
 
-**[100 production-ready AI agent configs that actually run (not demos, not concepts)](https://www.reddit.com/r/artificial/comments/1roq2su/100_productionready_ai_agent_configs_that/)**
+**[Google's Gemini (paid version) keeps answering me with unrelated phrases that are creepy.](https://www.reddit.com/r/artificial/comments/1rowivy/googles_gemini_paid_version_keeps_answering_me/)**
 
-There's a lot of "AI agent" content that stops at the blog post. This is a repo of 100 agent templates that run in production. Each one is an OpenClaw SOUL. md config. You define the agent's role, rules, integrations, and schedule. It connects to Telegram, Slack, Discord, or WhatsApp and runs on a loop. Real examples from the repo: a code reviewer that catches issues before PR merge. A churn prevention agent that flags at-risk users. A self-healing server agent that restarts crashed containers. No chain-of-thought theater. No "imagine if" scenarios. These are configs people are running right now. GitHub: https://github.com/mergisi/awesome-openclaw-agents
+I was googling madden twenty twenty six when I pulled up my google Gemini assistant using the side button on my phone.And I spoke into it and asked it how to pronounce j o r g e. Okay, it said George for English and then went on to say something. In Spanish I didn't understand and then it said "she died when she was 6" 3 times back-to-back to back. I asked it, why it said that and Gemini said, I was looking at my old contact and previous conversations about my family tree. I'm completely shocked because why would it repeat 3 times? Am I over thinking this bizarre interaction ? I almost believe it was signaling 666;to me? Is that out of line to think ?
 
-7h ago
+1h ago
 
 ---
 
@@ -85,7 +101,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 1d ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower) • 2d ago
 
 ---
 
@@ -94,20 +110,6 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
 1d ago
-
----
-
-**[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 2d ago
-
----
-
-**[OpenAI launches GPT-5.4: New model hits 83% on pro-level knowledge benchmark](https://www.reddit.com/r/artificial/comments/1rmilgg/openai_launches_gpt54_new_model_hits_83_on/)**
-
-OpenAI's new GPT-5.4 model improves accuracy, reduces hallucinations, and supports complex professional workflows.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release) • 2d ago
 
 ---
 
@@ -123,49 +125,63 @@ Fortune • 2d ago
 
 ---
 
-**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
-
-A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
-
-NPR • 14h ago
-
----
-
 **[Is AI productivity prompting burnout? Study finds new pattern of "AI brain fry"](https://www.cbsnews.com/news/is-ai-productivity-prompting-burnout-study-finds-new-pattern-of-ai-brain-fry/)**
 
 Artificial intelligence can give some workers "brain fry" if overused, according to a new study published in Harvard Business Review.
 
-CBS News • 17h ago
+CBS News • 18h ago
 
 ---
 
-**[Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html)**
+**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
 
-Nscale has become a key player in the AI infrastructure buildout
+A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-CNBC • 2h ago
-
----
-
-**[The Former Coal Miner in the Middle of the A.I. Data Center Boom](https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html)**
-
-The New York Times • 3h ago
+NPR • 15h ago
 
 ---
 
-**[Nvidia-backed Nscale valued at $14.6 billion in fresh funding round](https://finance.yahoo.com/news/nvidia-backed-uk-ai-firm-081458066.html)**
+**[KC tech company bets on digital selves powered by AI](https://www.axios.com/local/kansas-city/2026/03/09/kc-tech-and-company-bets-on-digital-selves-ai)**
 
-Nvidia-backed artificial intelligence group Nscale was valued at $14.6 billion after ‌raising $2 billion in its latest funding round, ‌the British company said on Monday. The Series C funding ​round was led by Norway's Aker and 8090 Industries, and included Nvidia, Citadel, Dell, Jane Street, among others, the firm said in a ‌statement. Former Meta executives ⁠Nick Clegg and Sheryl Sandberg, and former Yahoo President Susan Decker will ⁠join the board of the AI firm, the company said.
-
-Yahoo Finance • 2h ago
+Axios • 32m ago
 
 ---
 
-**[Masterpiece or cheap copy? Art historians and AI may not agree](https://www.cnn.com/2026/03/09/style/ai-art-recognition-authentication)**
+**[Iran's new supreme leader and the AI threat to white-collar jobs: Morning Rundown](https://www.nbcnews.com/news/us-news/iran-new-supreme-leader-ai-threatens-white-collar-jobs-morning-rundown-rcna262287)**
 
-Artificial intelligence is weighing into art history debates by “authenticating” masterpieces and exposing alleged fakes. But experts aren’t convinced.
+Plus, a superbloom paints normally barren Death Valley National Park with color.
 
-CNN • 2h ago
+NBC News • 54m ago
+
+---
+
+**[Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts](https://www.theguardian.com/technology/2026/mar/09/liverpool-and-manchester-united-complain-to-x-over-sickening-grok-ai-posts)**
+
+AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disasters
+
+The Guardian • 46m ago
+
+---
+
+**[Oracle expected to slash thousands of jobs as massive AI spending creates financial cash crisis](https://www.foxbusiness.com/economy/oracle-expected-slash-thousands-jobs-massive-ai-spending-creates-financial-cash-crisis)**
+
+Oracle reportedly planning massive layoffs involving thousands of employees as AI spending creates cash crunch. Job cuts could reportedly affect 18% of total workforce.
+
+Fox Business • 9h ago
+
+---
+
+**[Current and former Block workers say AI can’t do their jobs after Jack Dorsey’s mass layoffs: ‘You can’t really AI that’](https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey)**
+
+The CEO said he cut the company’s workforce by 4,000 people – almost in half – because of gains in AI productivity
+
+The Guardian • 23h ago
+
+---
+
+**[Dorsey Wobbles on Question of AI’s Benefits Versus Loss of Jobs](https://www.bloomberg.com/news/newsletters/2026-03-09/dorsey-wobbles-on-question-of-ai-s-effects-after-major-job-cuts-at-block)**
+
+Bloomberg.com • 54m ago
 
 ---
 
@@ -177,20 +193,6 @@ Yahoo Finance • 15h ago
 
 ---
 
-**[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
-
-Axios • 1d ago
-
----
-
-**[Oracle expected to slash thousands of jobs as massive AI spending creates financial cash crisis](https://www.foxbusiness.com/economy/oracle-expected-slash-thousands-jobs-massive-ai-spending-creates-financial-cash-crisis)**
-
-Oracle reportedly planning massive layoffs involving thousands of employees as AI spending creates cash crunch. Job cuts could reportedly affect 18% of total workforce.
-
-Fox Business • 8h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -199,7 +201,7 @@ Fox Business • 8h ago
 
 Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.
 
-⬆️ 170 • 💬 218 • 19h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+⬆️ 170 • 💬 218 • 20h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 
 ---
 
@@ -243,7 +245,7 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 **[AI doesn't replace white collar work](https://news.ycombinator.com/item?id=47299988)**
 
-⬆️ 61 • 💬 95 • 16h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
+⬆️ 61 • 💬 96 • 16h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
 
 ---
 
@@ -279,7 +281,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 35K • 👍 2K • 💬 386 • ⏱️ 27:28 • 6h ago
+👁️ 35K • 👍 2K • 💬 386 • ⏱️ 27:28 • 7h ago
 
 ---
 
@@ -319,7 +321,7 @@ In this video, we go deep into the artificial intelligence bubble and the devast
 
 📺 XaliCubed
 
-👁️ 6K • 👍 393 • 💬 119 • ⏱️ 8:01 • 15h ago
+👁️ 6K • 👍 393 • 💬 119 • ⏱️ 8:01 • 16h ago
 
 ---
 
@@ -409,7 +411,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 460,827 • ❤️ 331 • 6d ago
+⬇️ 460,827 • ❤️ 331 • 7d ago
 
 ---
 
@@ -643,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.1k • 🔱 3.2k • 10m ago
+⭐ 25.1k • 🔱 3.2k • 58m ago
 
 ---
 
@@ -653,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 16.7k • 🔱 646 • 10h ago
+⭐ 16.7k • 🔱 646 • 11h ago
 
 ---
 
@@ -663,7 +665,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 11.9k • 🔱 1.6k • 5h ago
+⭐ 11.9k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -673,7 +675,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.0k • 🔱 1.1k • 1h ago
+⭐ 10.0k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -683,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.5k • 🔱 543 • 50m ago
+⭐ 7.5k • 🔱 543 • 1h ago
 
 ---
 
@@ -713,7 +715,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.0k • 🔱 714 • 8h ago
+⭐ 6.0k • 🔱 714 • 9h ago
 
 ---
 
@@ -733,7 +735,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.5k • 🔱 253 • 3h ago
+⭐ 3.5k • 🔱 253 • 4h ago
 
 ---
 

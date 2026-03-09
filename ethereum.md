@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T11:09:16.054218+00:00'
+updated: '2026-03-09T11:56:24.567962+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 11:09 UTC  
+**Last Updated:** March 09, 2026 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.7%  
-**7d:** +1.0%  
-**30d:** -4.2%  
-**90d:** -39.7%  
-**1y:** +7.1%  
+**24h:** +2.6%  
+**7d:** +0.7%  
+**30d:** -4.4%  
+**90d:** -39.9%  
+**1y:** +6.7%  
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
 
-23h ago
+1d ago
 
 ---
 
@@ -162,7 +162,7 @@ Benzinga • 2d ago
 
 Bitcoin USD continues to hover near $67,200 following a week of tight-ranging price action. However, its longstanding dominance over the broader cryptocurrency market is visibly softening today.Fresh data from CoinGecko reveals the total cryptocurrency market capitalization expanding past $2.38 trillion, while Bitcoin Dominance has fallen below 59% and is currently ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -176,27 +176,27 @@ Binance • 1d ago
 
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
 
-The Motley Fool • 22h ago
-
----
-
-**[How Bitcoin Ethereum and XRP Will React to This Week’s CPI Report](https://www.tradingview.com/news/coinpedia:7a856ab5e094b:0-how-bitcoin-ethereum-and-xrp-will-react-to-this-week-s-cpi-report/)**
-
-The crypto market started Monday on a positive note, with most top 10 coins trading in green. Now, investors are closely watching one key event this week, the upcoming U.S. Consumer Price Index (CPI) report. Last month’s CPI data pushed the crypto market up by nearly 4%. This time, traders are watc…
-
-TradingView • 4h ago
-
----
-
-**[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
-
-Seeking Alpha • 1h ago
+The Motley Fool • 23h ago
 
 ---
 
 **[Ethereum Price Tries to Defend $1,900 Support amid $157 Million Co-Founder Selloff](https://www.tipranks.com/news/ethereum-price-tries-to-defend-1900-support-amid-157-million-co-founder-selloff)**
 
-TipRanks • 5h ago
+TipRanks • 6h ago
+
+---
+
+**[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
+
+Seeking Alpha • 2h ago
+
+---
+
+**[Why Bitcoin, Ethereum and XRP Prices Are Not Crashing Today?](https://www.tradingview.com/news/coinpedia:0ba3e64bd094b:0-why-bitcoin-ethereum-and-xrp-prices-are-not-crashing-today/)**
+
+Cryptocurrencies defied a sweeping global market selloff on Monday as a catastrophic oil supply shock and escalating U.S.-Iran tensions sent equities tumbling, with Bitcoin, Ethereum and XRP each posting modest gains even as Wall Street futures pointed to one of the worst openings in recent memory…
+
+TradingView • 9h ago
 
 ---
 
@@ -212,15 +212,15 @@ AMBCrypto • 1d ago
 
 Dubai, UAE, March  08, 2026  (GLOBE NEWSWIRE) -- Pepeto just confirmed accelerating whale wallet accumulation inside the presale while funding cro...
 
-markets.businessinsider.com • 10h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
-**[Why Bitcoin, Ethereum and XRP Prices Are Not Crashing Today?](https://coinpedia.org/news/why-bitcoin-ethereum-and-xrp-prices-are-not-crashing-today/)**
+**[Ethereum Price Prediction: ETH Targets $8,000 as Harvard Rotates $86.8M Into ETH Trust While Pepeto Keeps Selling Out Faster More Than Ever](https://financefeeds.com/ethereum-price-prediction-eth-targets-8000-as-harvard-rotates-86-8m-into-eth-trust-while-pepeto-keeps-selling-out-faster-more-than-ever/)**
 
-Cryptocurrencies defied a sweeping global market selloff on Monday as a catastrophic oil supply shock and escalating U.S.-Iran tensions sent equities
+Harvard’s $57 billion endowment just rotated $86.8 million from Bitcoin ETFs into the iShares Ethereum Trust, proving the smartest institutional money on the
 
-Coinpedia • 8h ago
+FinanceFeeds • 12h ago
 
 ---
 
@@ -274,7 +274,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 205 • 💬 26 • ⏱️ 10:24 • 2d ago
+👁️ 6K • 👍 205 • 💬 26 • ⏱️ 10:24 • 3d ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 2 • ⏱️ 5:48 • 18h ago
+👁️ 2K • 👍 140 • 💬 2 • ⏱️ 5:48 • 19h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 91 • 💬 2 • ⏱️ 3:59 • 8h ago
+👁️ 1K • 👍 91 • 💬 2 • ⏱️ 3:59 • 9h ago
 
 ---
 
