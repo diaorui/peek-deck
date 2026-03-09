@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T13:10:31.179996+00:00'
+updated: '2026-03-09T14:29:45.999392+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 13:10 UTC  
+**Last Updated:** March 09, 2026 at 14:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** +1.1%  
-**30d:** -4.0%  
-**90d:** -39.6%  
-**1y:** +7.2%  
+**24h:** +4.0%  
+**7d:** +1.9%  
+**30d:** -3.3%  
+**90d:** -39.2%  
+**1y:** +8.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In September 2015, six weeks after mainnet launch, someone deployed three contracts that became Ethereum's first naming infrastructure: GlobalRegistrar, HashReg, and UrlHint. Block 282,880 — September 24, 2015 The GlobalRegistrar mapped names to addresses. HashReg mapped code hashes to content hashes. UrlHint mapped content hashes to URLs for metadata retrieval. Together they formed the NatSpec documentation system — the mechanism that was supposed to let Ethereum wallets display human-readable descriptions before signing transactions. The system was hardcoded directly into go-ethereum v1.4.0 (common/registrar/registrar.go). Not an optional plugin. Core infrastructure. The frozen TODO that became ENS Inside the GlobalRegistrar source code (verified on Etherscan, compiled with solc v0.1.1), there's a comment that reads: // TODO: bidding mechanism That comment sat frozen for years. The ambition was there — first-come-first-served registration was always meant to be a placeholder. The bidding mechanism didn't arrive until ENS launched in May 2017, when Vickrey auctions replaced the naive assignment system. ENS didn't appear from nowhere. It solved the exact problem the GlobalRegistrar identified and couldn't finish. The three-contract system All three contracts were deployed by the same address within 18 blocks: - GlobalRegistrar: block 282,880 - HashReg: block 282,885 (5 blocks later) - UrlHint: block 282,898 (18 blocks after start) The deployer identity isn't confirmed — likely a go-ethereum core developer given the contracts were shipped alongside the go-ethereum codebase — but we haven't pinned the address to a name yet. Why it matters Every .eth name you resolve today is the descendant of that frozen TODO comment from 2015. The naming problem was understood from week six. It took two more years to solve it properly. We documented all three contracts on EthereumHistory.com last night. The verified source code, links to go-ethereum v1.4.0, and the full historical context are there if you want to dig deeper. Cross-posted from our ongoing archaeology of early mainnet contracts. If you deployed or used these contracts in 2015, we'd love to hear the story.
 
-9m ago
+1h ago
+
+---
+
+**[AI Is Not Ready for Ethereum Security Audits: A Test](https://www.reddit.com/r/ethereum/comments/1rp189f/ai_is_not_ready_for_ethereum_security_audits_a/)**
+
+MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
+
+🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 19m ago
 
 ---
 
@@ -102,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -134,15 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Yesterday I posted about verifying Vitalik's first token contract and got a great response. A few people asked how to follow along as more proofs are published, so I set up two places to track them: GitHub: awesome-ethereum-proofs - each proof has its own repo with a reproducible verification script Web: ethereumhistory.com/proofs - browse all verified contracts with deployment dates, compiler versions, and methodology Most contracts deployed in August 2015 have no verified source on Etherscan. The compilers are too old for automated tools, source code was hosted on Pastebin links that expired years ago, and some contracts used languages Etherscan doesn't even support (Serpent, LLL). So I've been doing it manually - testing every early compiler version against on-chain bytecode until I get a byte-for-byte match. Since the Vitalik post, here are 4 new proofs: "Test" - First Executable Contract (Aug 7, 2015, block 48,643) The earliest contract with executable code on Ethereum mainnet. Compiled with soljson v0.1.1, the first publicly available Solidity compiler release. Just 8 days after mainnet launch. Hello World Greeter (Aug 7, 2015, block 48,681) Ethereum's "Hello World" moment. Deployed 38 blocks after the first executable contract, same day, same compiler. Based on the greeter tutorial that shipped with the early Ethereum documentation. EarlyChainLetter10ETH (Aug 8, 2015, block 49,931) A chain letter pyramid contract from day 2 of smart contract deployment. One of the first attempts at a financial game on Ethereum. Participants sent 10 ETH to join, and the contract would pay out earlier participants as new ones joined. FunDistributor (Aug 10, 2015, block 62,632) A "king of the hill" behavioral economics experiment. Send more than 1% of the contract's balance to become the receiver. If nobody touches the contract for 200+ blocks (~45 min), the current receiver gets paid out. The original source was on Pastebin (link expired) - had to reconstruct it entirely from bytecode. Interesting discrepancy: the Reddit announcement said the payout was 25% of the balance, but the verified code shows this.balance / 3 (33.3%). Some things I've learned doing this: Operand order matters in solc 0.1.1. msg.value * 100 and 100 * msg.value produce different bytecode because the compiler evaluates right-to-left. The private keyword existed in solc 0.1.1 but was almost never used. FunDistributor is one of the earliest known uses. Solidity function declaration order affects optimizer output. Changing the order of functions in the source can completely change the compiled bytecode. There are 11 proofs so far covering contracts from Aug 2015 through Apr 2016, including Serpent, Solidity, and contracts by Vitalik and Gavin Wood. More coming as I work through the earliest blocks. If you know of any early contracts with lost source code, I'd love to hear about them.
 
-1d ago
-
----
-
-**[Wrapping USDT](https://www.reddit.com/r/ethereum/comments/1rnby8b/wrapping_usdt/)**
-
-I propose to wrap USDT, since currently it is a highly outdated coin, and its transfer function has issues, and doesn't have new features, and only has 6 decimals. While these issues may not be large now and can be easily fixed or do not lose too much functionality, as DeFi expands new standards, etc may add more features, then USDT can be put into a standardized wrapper to handle it.
-
-1d ago
+2d ago
 
 ---
 
@@ -155,14 +155,6 @@ I propose to wrap USDT, since currently it is a highly outdated coin, and its tr
 Culper Research published a short report on Ethereum (CRYPTO: ETH) on Thursday, calling its economics &#8220;impaired&#8221; and warning the network m
 
 Benzinga • 2d ago
-
----
-
-**[Bitcoin USD Dominance Drops to 58%: Smart Capital Rotating Into Ethereum?](https://finance.yahoo.com/news/bitcoin-usd-dominance-drops-58-084504170.html)**
-
-Bitcoin USD continues to hover near $67,200 following a week of tight-ranging price action. However, its longstanding dominance over the broader cryptocurrency market is visibly softening today.Fresh data from CoinGecko reveals the total cryptocurrency market capitalization expanding past $2.38 trillion, while Bitcoin Dominance has fallen below 59% and is currently ...
-
-Yahoo Finance • 4h ago
 
 ---
 
@@ -180,9 +172,31 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Current price of Ethereum for March 9, 2026](https://fortune.com/article/price-of-ethereum-03-09-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
+
+---
+
+**[Ethereum Vs. Canton: Two Different Paths To Institutional Blockchain](https://www.forbes.com/sites/jonegilsson/2026/03/09/ethereum-vs-canton-two-different-paths-to-institutional-blockchain/)**
+
+Forbes • 10m ago
+
+---
+
+**[Bitcoin USD Dominance Drops to 58%: Smart Capital Rotating Into Ethereum?](https://finance.yahoo.com/news/bitcoin-usd-dominance-drops-58-084504170.html)**
+
+Bitcoin USD continues to hover near $67,200 following a week of tight-ranging price action. However, its longstanding dominance over the broader cryptocurrency market is visibly softening today.Fresh data from CoinGecko reveals the total cryptocurrency market capitalization expanding past $2.38 trillion, while Bitcoin Dominance has fallen below 59% and is currently ...
+
+Yahoo Finance • 5h ago
+
+---
+
 **[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -190,37 +204,21 @@ Seeking Alpha • 3h ago
 
 The crypto market started Monday on a positive note, with most top 10 coins trading in green. Now, investors are closely watching one key event this week, the upcoming U.S. Consumer Price Index (CPI) report. Last month’s CPI data pushed the crypto market up by nearly 4%. This time, traders are watc…
 
-TradingView • 6h ago
-
----
-
-**[Ethereum co-founder moves 157M to exchange – Can ETH’s $1,800 hold?](https://ambcrypto.com/ethereum-co-founder-moves-157m-to-exchange-can-eths-1800-hold/)**
-
-Ethereum faces insider transfers, rising leverage, and conflicting positioning as markets watch key support closely.
-
-AMBCrypto • 17h ago
-
----
-
-**[Ethereum Based Crypto Pepeto Announces Whale Wallet Accumulation Increase While Elon Musk Dogecoin Mission Loads](https://markets.businessinsider.com/news/stocks/ethereum-based-crypto-pepeto-announces-whale-wallet-accumulation-increase-while-elon-musk-dogecoin-mission-loads-1035908230)**
-
-Dubai, UAE, March  08, 2026  (GLOBE NEWSWIRE) -- Pepeto just confirmed accelerating whale wallet accumulation inside the presale while funding cro...
-
-markets.businessinsider.com • 12h ago
-
----
-
-**[Why Bitcoin, Ethereum and XRP Prices Are Not Crashing Today?](https://coinpedia.org/news/why-bitcoin-ethereum-and-xrp-prices-are-not-crashing-today/)**
-
-Cryptocurrencies defied a sweeping global market selloff on Monday as a catastrophic oil supply shock and escalating U.S.-Iran tensions sent equities
-
-Coinpedia • 10h ago
+TradingView • 8h ago
 
 ---
 
 **[Ethereum Price Tries to Defend $1,900 Support amid $157 Million Co-Founder Selloff](https://www.tipranks.com/news/ethereum-price-tries-to-defend-1900-support-amid-157-million-co-founder-selloff)**
 
-TipRanks • 7h ago
+TipRanks • 8h ago
+
+---
+
+**[Solana vs Ethereum – $4.4T traded, RWA holders flipped – But who wins?](https://ambcrypto.com/solana-vs-ethereum-4-4t-traded-rwa-holders-flipped-but-who-wins/)**
+
+Solana leads retail trading growth, while Ethereum retains deeper institutional liquidity.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -234,7 +232,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 2K • 👍 110 • 💬 3 • ⏱️ 20:10 • 19h ago
+👁️ 2K • 👍 110 • 💬 3 • ⏱️ 20:10 • 20h ago
 
 ---
 
@@ -264,7 +262,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 2 • ⏱️ 5:48 • 20h ago
+👁️ 2K • 👍 140 • 💬 2 • ⏱️ 5:48 • 21h ago
 
 ---
 
@@ -274,7 +272,7 @@ From unboxing to mining Ethereum, my first six-GPU setup was surprisingly simple
 
 📺 VoskCoin
 
-👁️ 86 • 👍 6 • 💬 2 • ⏱️ 0:50 • 1h ago
+👁️ 86 • 👍 6 • 💬 2 • ⏱️ 0:50 • 2h ago
 
 ---
 
@@ -284,7 +282,7 @@ BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 7K • 👍 259 • 💬 127 • ⏱️ 17:36 • 15h ago
+👁️ 7K • 👍 259 • 💬 127 • ⏱️ 17:36 • 16h ago
 
 ---
 
@@ -324,7 +322,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 99 • 💬 3 • ⏱️ 3:59 • 10h ago
+👁️ 1K • 👍 99 • 💬 3 • ⏱️ 3:59 • 11h ago
 
 ---
 
