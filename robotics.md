@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T16:58:06.333562+00:00'
+updated: '2026-03-09T17:52:17.365649+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 16:58 UTC  
+**Last Updated:** March 09, 2026 at 17:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-6h ago
+7h ago
 
 ---
 
@@ -52,13 +52,13 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-8h ago
+9h ago
 
 ---
 
 **[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
 
-33m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
 
-11m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-40m ago
+1h ago
 
 ---
 
@@ -94,7 +94,7 @@ I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIO
 
 USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 7h ago
 
 ---
 
@@ -102,7 +102,7 @@ USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu
 
 Hello everyone I am trying to run my simulation of amr into gazebo. Everything's working fine except when I turn robot the lidar points are also rotating with respect to robot. For linear movements the lidar points are still. But for angular movementzz even the lidar points are rotating. Can anyone help me with this?
 
-2h ago
+3h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hello everyone I am trying to run my simulation of amr into gazebo. Everything's
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 20h ago
+NPR • 21h ago
 
 ---
 
@@ -122,7 +122,7 @@ NPR • 20h ago
 
 Several negative developments put quite a hurt on the company's stock.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -130,7 +130,7 @@ The Motley Fool • 16h ago
 
 Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
 
-Financial Times • 3h ago
+Financial Times • 4h ago
 
 ---
 
@@ -138,7 +138,7 @@ Financial Times • 3h ago
 
 Integral AI Inc., a five-year-old company founded by former Google researchers Jad Tarifi and Nima Asgharbeygi, develops AI models geared for automated systems such as robots and self-driving cars.  The company has worked with auto parts maker Denso Corp. since 2021 to help teach industrial robots new skills by observing demonstrations.  The 15-person startup is holding initial discussions with Toyota Motor Corp., Sony Group Corp., Honda Motor Co., Nissan Motor Co. and Mitsui Chemicals Inc. to pitch them on how artificial intelligence can advance manufacturing processes.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -146,7 +146,7 @@ Yahoo Finance • 12h ago
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 59m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -160,7 +160,7 @@ Business Insider • 1d ago
 
 **[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
 
-Tech Xplore • 15h ago
+Tech Xplore • 16h ago
 
 ---
 
@@ -168,7 +168,7 @@ Tech Xplore • 15h ago
 
 Texas delivery to NS Federation opens education and performance uses for FF robots, while U.S. officials express support for its embodied AI strategy.
 
-Stock Titan • 14h ago
+Stock Titan • 15h ago
 
 ---
 
@@ -192,23 +192,33 @@ Fox Business • 1h ago
 
 ## YouTube Videos: "robotics"
 
-**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
-
-OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
-
-📺 AI Revolution
-
-👁️ 33K • 👍 980 • 💬 71 • ⏱️ 14:51 • 16h ago
-
----
-
 **[Unrestricted AI in a robot does exactly what experts warned](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
 
 AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your $5 sign-up bonus at ...
 
 📺 InsideAI
 
-👁️ 667K • 👍 40K • 💬 4K • ⏱️ 16:54 • 5d ago
+👁️ 673K • 👍 40K • 💬 5K • ⏱️ 16:54 • 5d ago
+
+---
+
+**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
+
+OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
+
+📺 AI Revolution
+
+👁️ 37K • 👍 1K • 💬 75 • ⏱️ 14:51 • 17h ago
+
+---
+
+**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
+
+In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
+
+📺 Tech Talkies
+
+👁️ 12K • 👍 494 • 💬 41 • ⏱️ 4:51 • 2d ago
 
 ---
 
@@ -218,7 +228,17 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 22K • 👍 792 • 💬 59 • ⏱️ 14:35 • 4d ago
+👁️ 22K • 👍 795 • 💬 59 • ⏱️ 14:35 • 4d ago
+
+---
+
+**[Two Sided Intake Differential | 12560 Soft Hoarders | FTC Snapshot](https://www.youtube.com/watch?v=xOg39dqqjjk)**
+
+12560 Soft Hoarders, an Innovate Award winner, showcases a clever engineering solution using one motor to power a two sided ...
+
+📺 FUN Robotics Network
+
+👁️ 214 • 👍 7 • ⏱️ 1:13 • 50m ago
 
 ---
 
@@ -228,7 +248,7 @@ Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (d
 
 📺 Ticker Symbol: YOU
 
-👁️ 24K • 👍 1K • 💬 71 • ⏱️ 29:53 • 1d ago
+👁️ 25K • 👍 1K • 💬 100 • ⏱️ 29:53 • 1d ago
 
 ---
 
@@ -238,7 +258,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 214K • 👍 2K • 💬 316 • ⏱️ 29:41 • 3d ago
+👁️ 217K • 👍 2K • 💬 327 • ⏱️ 29:41 • 3d ago
 
 ---
 
@@ -248,37 +268,7 @@ China's humanoid robots just performed the world's first continuous parkour flip
 
 📺 TechFrontierNow
 
-👁️ 58K • 👍 373 • 💬 80 • ⏱️ 9:26 • 4d ago
-
----
-
-**[AI Patrol Robots Are Now Walking Real Streets in China 🤖🇨🇳](https://www.youtube.com/watch?v=zOp4W1Xl9Fs)**
-
-This AI-powered patrol robot is already walking real city streets in China alongside security officers. The robot can move ...
-
-📺 Onyez 
-
-👁️ 983 • 👍 15 • 💬 2 • ⏱️ 0:39 • 10h ago
-
----
-
-**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
-
-A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
-
-📺 Billionaire Shots
-
-👁️ 37K • 👍 2K • 💬 275 • ⏱️ 0:13 • 5d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN Europe
-
-👁️ 789K • 👍 1K • 💬 17 • ⏱️ 29:40 • 5d ago
+👁️ 59K • 👍 374 • 💬 80 • ⏱️ 9:26 • 4d ago
 
 ---
 
@@ -288,7 +278,17 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 2. This. Is. 
 
 📺 NHRL
 
-👁️ 43K • 👍 454 • 💬 40 • ⏱️ 3:23:56 • 1d ago
+👁️ 43K • 👍 457 • 💬 43 • ⏱️ 3:23:56 • 1d ago
+
+---
+
+**[Inside China’s Plan To Lead The World In Advanced Robotics | Insight](https://www.youtube.com/watch?v=Fc-nKxWkYxs)**
+
+You've seen the Unitree G1 robots' display of martial skill at the Spring Festival Gala. It's a sign of China moving fast to become a ...
+
+📺 CNA Insider
+
+👁️ 62K • 👍 695 • 💬 208 • ⏱️ 46:28 • 3d ago
 
 ---
 

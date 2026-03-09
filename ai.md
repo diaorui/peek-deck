@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-09T16:58:06.316027+00:00'
+updated: '2026-03-09T17:52:17.347760+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - repositories
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 09, 2026 at 16:58 UTC  
+**Last Updated:** March 09, 2026 at 17:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 1h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Chinese researchers have used AI to determine the chemical composition of the Mo
 
 Nvidia's record revenue in 2025 largely benefited from AI data center growth. Now, CEO Jensen Huang says the shortages help even more.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 1h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Nvidia's record revenue in 2025 largely benefited from AI data center growth. No
 
 AMD announced back at CES the Ryzen AI Embedded P100 series with initially the models up to six Zen 5 cores launching while the eight through twelve core models would be available later in H1
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-Embedded-P100-Series) • 54m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-Embedded-P100-Series) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ AMD announced back at CES the Ryzen AI Embedded P100 series with initially the m
 
 GitHub: https://github.com/zanfiel/engram Live demo: https://demo.engram.lol/gui (password: demo) Built a memory server that gives AI agents long-term memory across sessions. Store what they learn, search by meaning, recall relevant context automatically. - Embeddings run locally (MiniLM-L6) — no OpenAI key needed - Single SQLite file — no vector database required - Auto-linking builds a knowledge graph between memories - Versioning, deduplication, auto-forget - Four-layer recall: static facts + semantic + importance + recency - WebGL graph visualization built in - TypeScript and Python SDKs One file, docker compose up, done. MIT licensed.
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 There's a lot of "AI agent" content that stops at the blog post. This is a repo of 100 agent templates that run in production. Each one is an OpenClaw SOUL. md config. You define the agent's role, rules, integrations, and schedule. It connects to Telegram, Slack, Discord, or WhatsApp and runs on a loop. Real examples from the repo: a code reviewer that catches issues before PR merge. A churn prevention agent that flags at-risk users. A self-healing server agent that restarts crashed containers. No chain-of-thought theater. No "imagine if" scenarios. These are configs people are running right now. GitHub: https://github.com/mergisi/awesome-openclaw-agents
 
-12h ago
+13h ago
 
 ---
 
@@ -111,7 +111,7 @@ There's a lot of "AI agent" content that stops at the blog post. This is a repo 
 
 Thanks to AI, there will come a day when we will not be able to differentiate between reality and artificial. Go ahead, promote AI more everywhere as you are doing now.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,13 +123,13 @@ Thanks to AI, there will come a day when we will not be able to differentiate be
 
 Exclusive: Rented datacentres and unrealised supercomputer site raise questions for Starmer’s push to ‘mainline AI into veins of economy’
 
-The Guardian • 55m ago
+The Guardian • 1h ago
 
 ---
 
 **[Microsoft launches AI tool that competes with Anthropic](https://www.axios.com/2026/03/09/microsoft-copilot-cowork-anthropic)**
 
-Axios • 37m ago
+Axios • 1h ago
 
 ---
 
@@ -137,7 +137,7 @@ Axios • 37m ago
 
 With March Madness around the corner, USA TODAY Sports asked AI to create a 2026 NBA mock draft. It's torn on the No. 1 pick just like human experts.
 
-USA Today • 49m ago
+USA Today • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ USA Today • 49m ago
 
 Standoff with DoD over Claude chatbot reignites debate over how AI will be used in war – and who will be held accountable
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -161,7 +161,7 @@ NBC News • 1h ago
 
 Lawsuits come after Pentagon labeled Anthropic a ‘supply chain risk’, a decision the company says is unlawful
 
-The Guardian • 31m ago
+The Guardian • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 31m ago
 
 Learn more about how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.
 
-Microsoft • 3h ago
+Microsoft • 4h ago
 
 ---
 
@@ -177,13 +177,13 @@ Microsoft • 3h ago
 
 Three women leaders are reshaping AI data centers with hybrid cooling, prefabrication, and distributed siting for scaling, sustainable performance.
 
-Data Center Knowledge • 48m ago
+Data Center Knowledge • 1h ago
 
 ---
 
 **[Ultra-compact photonic AI chip operates at the speed of light](https://techxplore.com/news/2026-03-ultra-compact-photonic-ai-chip.html)**
 
-Tech Xplore • 17m ago
+Tech Xplore • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Tech Xplore • 17m ago
 
 Outsourcing your drink order to the robot in your phone has offline implications.
 
-Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit • 1h ago
+Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit • 2h ago
 
 ---
 
@@ -217,7 +217,7 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 I’ve forgotten how to write code, or at least I think I have. Hard to be sure, I haven’t done it for a while. But then, I start to muse…
 
-⬆️ 112 • 💬 96 • 1d ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+⬆️ 112 • 💬 96 • 2d ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 
 ---
 
@@ -233,7 +233,7 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.
 
-⬆️ 82 • 💬 53 • 3h ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
+⬆️ 82 • 💬 53 • 4h ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
 
 ---
 
@@ -255,7 +255,7 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 **[Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://news.ycombinator.com/item?id=47307169)**
 
-⬆️ 66 • 💬 29 • 6h ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
+⬆️ 66 • 💬 29 • 7h ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
 
 ---
 
@@ -283,27 +283,17 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 57K • 👍 2K • 💬 530 • ⏱️ 27:28 • 12h ago
+👁️ 65K • 👍 2K • 💬 598 • ⏱️ 27:28 • 13h ago
 
 ---
 
-**[OpenAI Just Dropped Symphony: The First AI That Actually Works](https://www.youtube.com/watch?v=nAFnIIYEmEI)**
+**[Yikes.](https://www.youtube.com/watch?v=_Ux13UEqIYo)**
 
-OpenAI just released a system called Symphony that can send AI agents to complete real tasks automatically. Instead of only ...
+Early March of 2026 became a defining moment in world history. For the first time AI was used in a major military operation, but ...
 
-📺 AI Revolution
+📺 ColdFusion
 
-👁️ 43K • 👍 1K • 💬 85 • ⏱️ 14:19 • 1d ago
-
----
-
-**[U.S. Military Is HEAVILY Reliant On AI To Conduct Iran War](https://www.youtube.com/watch?v=HPyE2xt8F8U)**
-
-The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jordan Uhl and Keith Edwards discuss on The Young ...
-
-📺 The Young Turks
-
-👁️ 39K • 👍 1K • 💬 444 • ⏱️ 3:52 • 15h ago
+👁️ 79K • 👍 8K • 💬 1K • ⏱️ 16:53 • 3h ago
 
 ---
 
@@ -313,7 +303,27 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 163 • 💬 16 • ⏱️ 8:39 • 9h ago
+👁️ 6K • 👍 170 • 💬 17 • ⏱️ 8:39 • 10h ago
+
+---
+
+**[OpenAI Just Dropped Symphony: The First AI That Actually Works](https://www.youtube.com/watch?v=nAFnIIYEmEI)**
+
+OpenAI just released a system called Symphony that can send AI agents to complete real tasks automatically. Instead of only ...
+
+📺 AI Revolution
+
+👁️ 45K • 👍 1K • 💬 86 • ⏱️ 14:19 • 1d ago
+
+---
+
+**[U.S. Military Is HEAVILY Reliant On AI To Conduct Iran War](https://www.youtube.com/watch?v=HPyE2xt8F8U)**
+
+The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jordan Uhl and Keith Edwards discuss on The Young ...
+
+📺 The Young Turks
+
+👁️ 42K • 👍 1K • 💬 453 • ⏱️ 3:52 • 16h ago
 
 ---
 
@@ -323,7 +333,7 @@ Retired Lt. Gen. Dennis Crall discusses the Pentagon's use of artificial intelli
 
 📺 Fox News Clips
 
-👁️ 35K • 👍 403 • 💬 58 • ⏱️ 7:30 • 20h ago
+👁️ 36K • 👍 407 • 💬 59 • ⏱️ 7:30 • 21h ago
 
 ---
 
@@ -333,7 +343,7 @@ In this video, we go deep into the artificial intelligence bubble and the devast
 
 📺 XaliCubed
 
-👁️ 7K • 👍 439 • 💬 130 • ⏱️ 8:01 • 21h ago
+👁️ 7K • 👍 448 • 💬 135 • ⏱️ 8:01 • 22h ago
 
 ---
 
@@ -343,37 +353,27 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 60K • 👍 2K • 💬 388 • ⏱️ 21:16 • 2d ago
+👁️ 60K • 👍 2K • 💬 389 • ⏱️ 21:16 • 2d ago
 
 ---
 
-**[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**
+**[I Tried Making Money With AI In 7 Days](https://www.youtube.com/watch?v=OmaKaIOiqMo)**
 
-Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or ...
+Check out the FREE course here: https://ecom-enterprise.mykajabi.com/offers/ayimTrvy The AI Tools I Used (All in one) ...
 
-📺 AI Explained
+📺 Mikey Again
 
-👁️ 73K • 👍 3K • 💬 443 • ⏱️ 21:52 • 3d ago
-
----
-
-**[Why My AI Videos look Ultra Realistic - Higgsfield AI](https://www.youtube.com/watch?v=0B_xyflXrwc)**
-
-Learn How To Use Higgsfield AI To Create Cinematic AI video. Try Soul 2 on Higgsfield ...
-
-📺 Dan Kieft
-
-👁️ 59K • 💬 23 • ⏱️ 16:43 • 2d ago
+👁️ 15K • 👍 815 • 💬 103 • ⏱️ 20:30 • 2d ago
 
 ---
 
-**[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
+**[Wave of A.I. job losses worsens career loss fears | 9 News Australia](https://www.youtube.com/watch?v=YveS9BsFP9w)**
 
-Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
+What has turned into a Tsunami of A.I. job losses has caused many to fear that their careers will disappear within five years.
 
-📺 Matt Wolfe
+📺 9 News Australia
 
-👁️ 85K • 👍 3K • 💬 350 • ⏱️ 38:02 • 2d ago
+👁️ 17K • 👍 159 • 💬 55 • ⏱️ 2:36 • 9h ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,010,141 • ❤️ 627 • 7d ago
+⬇️ 1,010,141 • ❤️ 631 • 7d ago
 
 ---
 
@@ -401,19 +401,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 221,340 • ❤️ 391 • 4d ago
-
----
-
-**[Qwen3.5-0.8B](https://huggingface.co/Qwen/Qwen3.5-0.8B)**
-
-*Qwen*
-
-Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, utilizing a hybrid Gated Delta Network and MoE architecture for efficient multimodal understanding and generation. It excels in vision-language tasks, supports 201 languages, and is suitable for prototyping and fine-tuning.
-
-`image-text-to-text` `873.4M`
-
-⬇️ 460,827 • ❤️ 338 • 7d ago
+⬇️ 221,340 • ❤️ 394 • 4d ago
 
 ---
 
@@ -425,7 +413,19 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 15,720 • ❤️ 292 • 1d ago
+⬇️ 15,720 • ❤️ 300 • 1d ago
+
+---
+
+**[Qwen3.5-0.8B](https://huggingface.co/Qwen/Qwen3.5-0.8B)**
+
+*Qwen*
+
+Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, utilizing a hybrid Gated Delta Network and MoE architecture for efficient multimodal understanding and generation. It excels in vision-language tasks, supports 201 languages, and is suitable for prototyping and fine-tuning.
+
+`image-text-to-text` `873.4M`
+
+⬇️ 460,827 • ❤️ 339 • 7d ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,192,631 • ❤️ 1,051 • 10d ago
+⬇️ 1,192,631 • ❤️ 1,054 • 10d ago
 
 ---
 
@@ -449,19 +449,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 438,246 • ❤️ 312 • 7d ago
-
----
-
-**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 559,469 • ❤️ 276 • 7d ago
+⬇️ 438,246 • ❤️ 314 • 7d ago
 
 ---
 
@@ -473,7 +461,19 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 90,190 • ❤️ 228 • 5d ago
+⬇️ 90,190 • ❤️ 232 • 5d ago
+
+---
+
+**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
+
+`image-text-to-text` `9.0B`
+
+⬇️ 559,469 • ❤️ 278 • 7d ago
 
 ---
 
@@ -485,7 +485,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 1,389 • ❤️ 183 • 2d ago
+⬇️ 1,389 • ❤️ 186 • 3d ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,134,362 • ❤️ 590 • 3d ago
+⬇️ 1,134,362 • ❤️ 591 • 4d ago
 
 ---
 
@@ -527,7 +527,7 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 144 • 💬 5 • ⭐ 877 • 5d ago
+▲ 145 • 💬 5 • ⭐ 919 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -540,7 +540,7 @@ Helios is a 14 billion parameter autoregressive diffusion model for video genera
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 39 • 💬 1 • ⭐ 72,550 • 30mo ago
+▲ 40 • 💬 1 • ⭐ 72,550 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -553,23 +553,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 AReaL, a fully asynchronous reinforcement learning system, decouples generation and training to achieve higher GPU utilization and up to 2.57x training speedup for large language models on reasoning tasks.
 
-▲ 31 • 💬 2 • ⭐ 4,563 • 9mo ago
+▲ 31 • 💬 2 • ⭐ 4,575 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2505.24298) • [💻 code](https://github.com/inclusionAI/AReaL)
-
----
-
-**[Cautious Weight Decay](https://huggingface.co/papers/2510.12402)**
-
-*Lizhang Chen, Jonathan Li, Kaizhao Liang et al. (9 authors)*
-
-🏢 Google
-
-Cautious Weight Decay (CWD) enhances optimizer performance by applying weight decay selectively, improving accuracy and loss in large-scale models without additional tuning.
-
-▲ 9 • 💬 8 • ⭐ 428 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12402) • [💻 code](https://github.com/google-deepmind/simply) • [🔗 project](https://elm.baulab.info)
 
 ---
 
@@ -580,7 +566,7 @@ Cautious Weight Decay (CWD) enhances optimizer performance by applying weight de
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 55 • 💬 4 • ⭐ 17,827 • 6mo ago
+▲ 55 • 💬 4 • ⭐ 17,863 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
@@ -610,15 +596,32 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
-**[Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://huggingface.co/papers/2512.10696)**
+**[Cautious Weight Decay](https://huggingface.co/papers/2510.12402)**
 
-*Zouying Cao, Jiaji Deng, Li Yu et al. (7 authors)*
+*Lizhang Chen, Jonathan Li, Kaizhao Liang et al. (9 authors)*
 
-ReMe is a framework for experience-driven agent evolution in LLMs, enhancing memory management through distillation, context-adaptive reuse, and refinement, outperforming larger memoryless models.
+🏢 Google
 
-▲ 2 • 💬 0 • ⭐ 2,058 • 2mo ago
+Cautious Weight Decay (CWD) enhances optimizer performance by applying weight decay selectively, improving accuracy and loss in large-scale models without additional tuning.
 
-[🎓 arXiv](https://arxiv.org/abs/2512.10696) • [💻 code](https://github.com/agentscope-ai/ReMe) • [🔗 project](https://reme.agentscope.io/)
+▲ 9 • 💬 8 • ⭐ 455 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12402) • [💻 code](https://github.com/google-deepmind/simply) • [🔗 project](https://elm.baulab.info)
+
+---
+
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 152 • 💬 19 • ⭐ 55,285 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -630,7 +633,7 @@ ReMe is a framework for experience-driven agent evolution in LLMs, enhancing mem
 
 Penguin-VL demonstrates that text-only initialized vision encoders can achieve superior performance in multimodal understanding tasks compared to traditional contrastive pretraining methods, enabling efficient deployment on resource-constrained devices.
 
-▲ 64 • 💬 2 • ⭐ 57 • 3d ago
+▲ 66 • 💬 2 • ⭐ 57 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.06569) • [💻 code](https://github.com/tencent-ailab/Penguin-VL) • [🔗 project](https://penguin-vl.github.io)
 
@@ -646,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.2k • 🔱 3.2k • 5h ago
+⭐ 25.2k • 🔱 3.2k • 1m ago
 
 ---
 
@@ -656,7 +659,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 16.9k • 🔱 656 • 2h ago
+⭐ 17.0k • 🔱 662 • 2m ago
 
 ---
 
@@ -666,7 +669,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 13.6k • 🔱 1.8k • 11h ago
+⭐ 14.4k • 🔱 1.9k • 12h ago
 
 ---
 
@@ -676,7 +679,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.1k • 🔱 1.1k • 1h ago
+⭐ 10.1k • 🔱 1.1k • 34m ago
 
 ---
 
@@ -686,7 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.6k • 🔱 548 • 4h ago
+⭐ 7.7k • 🔱 551 • 5h ago
 
 ---
 
@@ -706,7 +709,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 6.6k • 🔱 555 • 4d ago
+⭐ 6.7k • 🔱 560 • 4d ago
 
 ---
 
@@ -716,7 +719,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.0k • 🔱 716 • 14h ago
+⭐ 6.0k • 🔱 717 • 15h ago
 
 ---
 
@@ -726,7 +729,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 404 • 3h ago
+⭐ 3.7k • 🔱 405 • 4h ago
 
 ---
 
@@ -736,7 +739,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.6k • 🔱 256 • 3h ago
+⭐ 3.6k • 🔱 256 • 4h ago
 
 ---
 

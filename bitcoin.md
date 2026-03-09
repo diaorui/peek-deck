@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T16:58:06.324438+00:00'
+updated: '2026-03-09T17:52:17.356195+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 16:58 UTC  
+**Last Updated:** March 09, 2026 at 17:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1381.80B
+**Market Cap:** $1369.26B
 Rank #1
 
-**Circulating Supply:** 19,999,990 BTC
+**Circulating Supply:** 20,000,037 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.2%
+-45.7%
 
 **All-Time Low:** $67.81
-+101814.2%
++100864.5%
 
 ---
 
@@ -89,7 +89,7 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
 
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 3h ago
+🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 4h ago
 
 ---
 
@@ -97,13 +97,13 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 20 millionth bitcoin was just mined
 
-3h ago
+4h ago
 
 ---
 
 **[I’m just gonna leave this here](https://www.reddit.com/r/Bitcoin/comments/1row1ww/im_just_gonna_leave_this_here/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -111,13 +111,13 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 I keep hearing this advice to not sell your Bitcoin, just borrow against it. But honestly I don’t fully get why that’s supposed to be better. If you sell BTC after it’s gone up, you’re actually locking in profit. You bought at one price and sold higher, so you walk away with real gains. When you borrow against your Bitcoin though, you’re taking out a loan that you eventually have to pay back plus interest. So in my head it feels like you’re not really gaining money, you’re just accessing cash temporarily and then paying for it later. I get that people want to keep their BTC long term and stay exposed to the price going up, but if the goal is to actually make money, wouldn’t selling a portion make more sense?
 
-15h ago
+16h ago
 
 ---
 
 **[Why Chamath and Dalio are wrong about bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rp2ay8/why_chamath_and_dalio_are_wrong_about_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 Pretty much it, I'm a novice and could not find an answer. Seems like wasted computational power, but I'm pretty simple. Thanks
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Pretty much it, I'm a novice and could not find an answer. Seems like wasted com
 
 ​I keep hearing the same advice over and over: "Don’t try to time the market, just Dollar Cost Averaging (DCA) every week." ​But honestly, I’m struggling to see how the math makes sense when we’re clearly in an uptrend. If I buy $100 of BTC every Monday while the price is climbing, all I’m doing is constantly raising my average entry price. It feels like I’m "buying the top" every single week. ​If we’re confident the price is going up long-term, wouldn't it have been objectively better to just buy as much as possible at the start? Or at the very least, wait for those 10–15% "flash crashes" to buy instead of buying a green candle just because it’s Monday morning? ​I get that DCA is supposed to reduce risk and "smooth out" volatility, but at what point does it just become a psychological crutch for people who are too scared to pull the trigger? ​Am I missing something here, or is DCA actually a sub-optimal strategy once the bull market is already in full swing? ​Would love to hear how you guys actually justify it when the price is hitting new highs every other day.
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ Pretty much it, I'm a novice and could not find an answer. Seems like wasted com
 
 Nvidia-backed Starcloud announces plans to mine Bitcoin in space via solar-powered ASICs on its 2026 satellite launch, pioneering efficient orbital crypto with potential for gigawatt-scale data centers Bitcoin Mining in Space Starcloud Nvidia Orbital BTC Mining
 
-🔗 [quickex.io](https://quickex.io/blog/news/starcloud-takes-bitcoin-mining-to-orbit) • 1h ago
+🔗 [quickex.io](https://quickex.io/blog/news/starcloud-takes-bitcoin-mining-to-orbit) • 2h ago
 
 ---
 
@@ -149,7 +149,7 @@ Nvidia-backed Starcloud announces plans to mine Bitcoin in space via solar-power
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -159,7 +159,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -167,7 +167,7 @@ Reuters • 6h ago
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Guardian • 2h ago
 
 Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 7h ago
 
 Japan's benchmark Nikkei has plunged 7% after Monday's market open, while South Korea's KOSPI has dropped 7.9%.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -191,25 +191,25 @@ The Block • 13h ago
 
 The world's top cryptocurrency still has a long road of adoption ahead of it.
 
-The Motley Fool • 3m ago
+The Motley Fool • 58m ago
 
 ---
 
 **[20 million bitcoins mined: why Bitcoin’s fixed supply cap still matters](https://blog.kraken.com/news/industry-news/20-million-bitcoins-mined)**
 
-Kraken Blog • 1h ago
+Kraken Blog • 2h ago
 
 ---
 
 **[Strategy Buys $1.3 Billion of Bitcoin Using Mostly Common Stock](https://www.bloomberg.com/news/articles/2026-03-09/strategy-buys-1-3-billion-of-bitcoin-using-mostly-common-stock)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Strategy Buys $1.3 Billion of Bitcoin as War in Iran Escalates. The Stock Rises.](https://www.barrons.com/articles/strategy-bitcoin-buy-iran-war-22799e24?gaa_at=eafs&gaa_n=AWEtsqeB1LkkWLiwRTB7qnQQ9Dfrixa_LdFsWnTTTIN_VTVQNeEsQQ0i9eZx&gaa_ts=69aeff84&gaa_sig=unNeWjb34xeQBdC3DWFyHzh-cm5mujz4UaGTHfRBH_sD08AFHXU-y-NVHzbW0hGefTwJezEWvWA6JuvnWz4kHQ%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -217,7 +217,7 @@ Barron's • 2h ago
 
 The company now holds 738,731 bitcoin purchased for about $56 billion and worth roughly $50 billion at the current price just shy of $68,000.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -225,7 +225,7 @@ CoinDesk • 4h ago
 
 “Oil’s rally and the inflation concerns it raises have put Bitcoin’s hedge credentials back in focus,” said Jake Ostrovskis, head of over-the-counter trading at Wintermute.  Until last week, the trend in recent months had largely been the opposite, as bullion repeatedly hit record prices while Bitcoin tumbled.
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -237,7 +237,7 @@ Yahoo Finance • 33m ago
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 2 • 💬 3 • 23h ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 2 • 💬 3 • 1d ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -259,13 +259,13 @@ Complete operating system for Bitcoiners
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 2 • 💬 0 • 36m ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 2 • 💬 0 • 1h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 16h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 17h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -273,7 +273,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 2h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 3h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -311,23 +311,23 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=9uAVH56iJwk)**
-
-After discussing it for weeks, Bitcoin had the rally into early March that was then subsequently sold off, just like prior midterm year ...
-
-📺 Benjamin Cowen
-
-👁️ 51K • 👍 4K • 💬 253 • ⏱️ 11:22 • 12h ago
-
----
-
 **[Professional Capital Management CEO: Bitcoin is more mobile and resilient than gold](https://www.youtube.com/watch?v=_dzH-58yi0k)**
 
 Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital Management, says Bitcoin is emerging as a ...
 
 📺 CNBC Television
 
-👁️ 1K • 👍 45 • 💬 8 • ⏱️ 4:26 • 3h ago
+👁️ 3K • 👍 80 • 💬 23 • ⏱️ 4:26 • 4h ago
+
+---
+
+**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=9uAVH56iJwk)**
+
+After discussing it for weeks, Bitcoin had the rally into early March that was then subsequently sold off, just like prior midterm year ...
+
+📺 Benjamin Cowen
+
+👁️ 59K • 👍 4K • 💬 275 • ⏱️ 11:22 • 13h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 178 • ⏱️ 14:03 • 18h ago
+👁️ 24K • 👍 2K • 💬 207 • ⏱️ 14:03 • 19h ago
 
 ---
 
@@ -347,17 +347,7 @@ Bitcoin is approaching a critical moment, and most traders are looking in the wr
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 704 • 💬 21 • ⏱️ 31:15 • 7h ago
-
----
-
-**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 30K • 👍 3K • 💬 280 • ⏱️ 10:01 • 20h ago
+👁️ 8K • 👍 730 • 💬 22 • ⏱️ 31:15 • 7h ago
 
 ---
 
@@ -371,13 +361,33 @@ Global tensions, oil politics, and the petrodollar system may be colliding in re
 
 ---
 
+**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 32K • 👍 3K • 💬 334 • ⏱️ 10:01 • 21h ago
+
+---
+
 **[Massive Bitcoin Long (Trump Insiders)](https://www.youtube.com/watch?v=K_op7nsuRV4)**
 
 We are witnessing a massive shift in global markets as geopolitical tensions in the Middle East reach a breaking point. With the ...
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 198 • 3h ago
+👁️ 5K • 👍 325 • 💬 84 • ⏱️ 1:32:10 • 1h ago
+
+---
+
+**[This EXACT CRYPTO Pattern Happened Last Cycle (Global Uncertainty Just Hit An ALL TIME HIGH)](https://www.youtube.com/watch?v=5VR_QiqvW1E)**
+
+Use our institutional grade risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai ...
+
+📺 Dan Gambardello
+
+👁️ 13K • 👍 846 • 💬 290 • ⏱️ 16:14 • 1d ago
 
 ---
 
@@ -387,17 +397,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 148 • ⏱️ 11:32 • 1d ago
-
----
-
-**[Iran War Sends Oil Higher - What It Means for Bitcoin](https://www.youtube.com/watch?v=m1u2kIIaaSM)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRUs
-
-👁️ 16K • 👍 968 • 💬 382 • ⏱️ 8:02 • 16h ago
+👁️ 47K • 👍 2K • 💬 158 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ A historic shift is happening in the global economy. As geopolitical tensions ri
 
 📺 Financial Funda
 
-👁️ 6K • 👍 240 • 💬 27 • ⏱️ 2:51 • 2d ago
+👁️ 7K • 👍 250 • 💬 27 • ⏱️ 2:51 • 2d ago
 
 ---
 
