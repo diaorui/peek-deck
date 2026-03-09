@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T19:41:24.762877+00:00'
+updated: '2026-03-09T20:36:37.776437+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 19:41 UTC  
+**Last Updated:** March 09, 2026 at 20:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,559.67
+### $68,950.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +0.2%  
-**30d:** -2.7%  
-**90d:** -25.6%  
-**1y:** -12.9%  
+**24h:** +2.8%  
+**7d:** +0.9%  
+**30d:** -2.0%  
+**90d:** -25.1%  
+**1y:** -12.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1369.26B
+**Market Cap:** $1378.71B
 Rank #1
 
-**Circulating Supply:** 20,000,037 BTC
+**Circulating Supply:** 20,000,068 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.7%
+-45.4%
 
 **All-Time Low:** $67.81
-+100864.5%
++101492.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
 
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 5h ago
+🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 6h ago
 
 ---
 
@@ -89,15 +89,7 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-2h ago
-
----
-
-**[Strategy Acquires 17,994 BTC and Now Holds 738,731 BTC - Biggest Strategy week yet! Nearly 5x their 4-week average.](https://www.reddit.com/r/Bitcoin/comments/1rp0s7h/strategy_acquires_17994_btc_and_now_holds_738731/)**
-
-Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As of 3/8/2026, they hodl 738,731 BTC acquired for ~$56.04 billion at ~$75,862 per bitcoin.
-
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 5h ago
+3h ago
 
 ---
 
@@ -105,7 +97,15 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 20 millionth bitcoin was just mined
 
-5h ago
+6h ago
+
+---
+
+**[Strategy Acquires 17,994 BTC and Now Holds 738,731 BTC - Biggest Strategy week yet! Nearly 5x their 4-week average.](https://www.reddit.com/r/Bitcoin/comments/1rp0s7h/strategy_acquires_17994_btc_and_now_holds_738731/)**
+
+Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As of 3/8/2026, they hodl 738,731 BTC acquired for ~$56.04 billion at ~$75,862 per bitcoin.
+
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 6h ago
 
 ---
 
@@ -117,9 +117,11 @@ The next halving is getting closer every day (people will start front-running so
 
 ---
 
-**[Why Chamath and Dalio are wrong about bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rp2ay8/why_chamath_and_dalio_are_wrong_about_bitcoin/)**
+**[everyone buy bitcoin RIGHT NOW!](https://www.reddit.com/r/Bitcoin/comments/1rp9my8/everyone_buy_bitcoin_right_now/)**
 
-4h ago
+Or else I’ll start throwing things
+
+1h ago
 
 ---
 
@@ -129,27 +131,23 @@ The next halving is getting closer every day (people will start front-running so
 
 ---
 
+**[Why Chamath and Dalio are wrong about bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rp2ay8/why_chamath_and_dalio_are_wrong_about_bitcoin/)**
+
+5h ago
+
+---
+
+**[Don't Forget What The Canadian Government Did DURY PEACE TIME to Your Bank Accounts - Bitcoin Protects You](https://www.reddit.com/r/Bitcoin/comments/1rp9uhe/dont_forget_what_the_canadian_government_did_dury/)**
+
+1h ago
+
+---
+
 **[Why do people say “don’t sell your Bitcoin, borrow against it instead”?](https://www.reddit.com/r/Bitcoin/comments/1romuob/why_do_people_say_dont_sell_your_bitcoin_borrow/)**
 
 I keep hearing this advice to not sell your Bitcoin, just borrow against it. But honestly I don’t fully get why that’s supposed to be better. If you sell BTC after it’s gone up, you’re actually locking in profit. You bought at one price and sold higher, so you walk away with real gains. When you borrow against your Bitcoin though, you’re taking out a loan that you eventually have to pay back plus interest. So in my head it feels like you’re not really gaining money, you’re just accessing cash temporarily and then paying for it later. I get that people want to keep their BTC long term and stay exposed to the price going up, but if the goal is to actually make money, wouldn’t selling a portion make more sense?
 
-18h ago
-
----
-
-**[Article 4 feedback - Proof-of-Work](https://www.reddit.com/r/Bitcoin/comments/1rp2udg/article_4_feedback_proofofwork/)**
-
-Hello fellow Bitcoiners, I've finished my fourth article on the topic of "Proof-of-Work" and would love to hear your feedback. Please provide feedback on the following points: - Do I get to the heart of the matter? - Are the differences explained clearly? - Do the analogies to nature fit? Here's the link to the article: https://beehoney21.de/en/pages/proof-of-work/ As always, please feel free to be critical. Thank you and best regards from Schleswig-Holstein.
-
-4h ago
-
----
-
-**[Why do transactions from years ago still get confirmations?](https://www.reddit.com/r/Bitcoin/comments/1roz7kt/why_do_transactions_from_years_ago_still_get/)**
-
-Pretty much it, I'm a novice and could not find an answer. Seems like wasted computational power, but I'm pretty simple. Thanks
-
-6h ago
+19h ago
 
 ---
 
@@ -161,45 +159,29 @@ Pretty much it, I'm a novice and could not find an answer. Seems like wasted com
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 4h ago
+The Guardian • 2h ago
 
 ---
 
 **[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
-**[Nigel Farage Backs Bitcoin Treasury Firm Chaired By Former Chancellor](https://www.yahoo.com/news/articles/nigel-farage-backs-bitcoin-treasury-174123720.html)**
+**[Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC](https://www.coindesk.com/business/2026/03/09/nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc)**
 
-Reform UK leader Nigel Farage has joined the $333,000 fundraising round for Stack BTC alongside Blockchain.com.
+Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
 
-Yahoo • 2h ago
-
----
-
-**[Bitcoin slumps to $66,000 as oil price spike rattles Asian stock markets](https://www.theblock.co/post/392778/bitcoin-slumps-66000-oil-price-breakout)**
-
-Japan's benchmark Nikkei has plunged 7% after Monday's market open, while South Korea's KOSPI has dropped 7.9%.
-
-The Block • 16h ago
+CoinDesk • 11h ago
 
 ---
 
-**[When Will Bitcoin Bottom? Fidelity Macro Chief Says This Is The Metric To Watch](https://finance.yahoo.com/news/bitcoin-bottom-fidelity-macro-chief-174540450.html)**
+**[Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months](https://www.coindesk.com/markets/2026/03/09/bitcoin-could-be-the-big-winner-if-the-u-s-iran-conflict-drags-on-for-months)**
 
-Market participants interested in knowing when Bitcoin will bottom should look at the gold-to-Bitcoin ratio, Fidelity Director of Global Macro Jurrien Timmer says. Timmer said on Feb. 27 Bitcoin should be evaluated by the gold-to-Bitcoin ratio, calling the digital asset...
+Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Strategy buys $1.3 billion of Bitcoin using mostly common stock](https://fortune.com/2026/03/09/michael-saylor-strategy-bitcoin-buy-common-stock/)**
-
-The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
-
-Fortune • 58m ago
+CoinDesk • 4h ago
 
 ---
 
@@ -207,29 +189,45 @@ Fortune • 58m ago
 
 Strategy (MSTR) buys 17,994 more bitcoin for $1.28B, bringing holdings to 738,731 BTC.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
-**[Strategy Drops $1.28 Billion on Bitcoin, Issues $377 Million in Preferred Shares](https://finance.yahoo.com/news/strategy-drops-1-28-billion-145047451.html)**
+**[Strategy (MSTR) added 17,994 bitcoin last week, bringing total holdings to 738,731 coins](https://www.coindesk.com/markets/2026/03/09/michael-saylor-s-strategy-made-usd1-3-billion-bitcoin-purchase-last-week)**
 
-Michael Saylor declared the start of a “second century,” following the firm’s 100th Bitcoin purchase last month.
+The company now holds 738,731 bitcoin purchased for about $56 billion and worth roughly $50 billion at the current price just shy of $68,000.
 
-Yahoo Finance • 4h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Down 44%, the Market Is Dumping Bitcoin: Here Are Its 3 Biggest Trillion-Dollar Competitive Risks](https://www.fool.com/investing/2026/03/09/down-market-dump-bitcoin-biggest-trillion-dollar/)**
+**[Strategy buys $1.3 billion of Bitcoin using mostly common stock](https://fortune.com/2026/03/09/michael-saylor-strategy-bitcoin-buy-common-stock/)**
 
-The world's top cryptocurrency still has a long road of adoption ahead of it.
+The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
 
-The Motley Fool • 2h ago
+Fortune • 1h ago
+
+---
+
+**[Zcash Outpaces Bitcoin Gains as Key Development Team Raises $25 Million](https://finance.yahoo.com/news/zcash-outpaces-bitcoin-gains-key-201911017.html)**
+
+Prominent privacy coin Zcash (ZEC) has jumped 7% over the last day as the Zcash Open Development Lab announced a $25 million fundraise.
+
+Yahoo Finance • 17m ago
+
+---
+
+**[Coinbase Launches Regulated Bitcoin And Crypto Futures Across Europe](https://bitcoinmagazine.com/news/coinbase-regulated-bitcoin-futures)**
+
+Coinbase has launched futures contracts for traders in 26 European countries, including Germany, France, and the Netherlands, marking its first direct derivatives offering in the region.
+
+Bitcoin Magazine • 2h ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -241,7 +239,7 @@ Bloomberg.com • 3h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 3h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -269,7 +267,7 @@ Complete operating system for Bitcoiners
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 19h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 20h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -277,7 +275,7 @@ Complete operating system for Bitcoiners
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 4h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 5h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -321,7 +319,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 3K • 👍 80 • 💬 23 • ⏱️ 4:26 • 6h ago
+👁️ 5K • 👍 109 • 💬 27 • ⏱️ 4:26 • 7h ago
 
 ---
 
@@ -331,7 +329,17 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 275 • ⏱️ 11:22 • 15h ago
+👁️ 67K • 👍 5K • 💬 295 • ⏱️ 11:22 • 16h ago
+
+---
+
+**[MASSIVE Bitcoin Buying Opportunity RIGHT NOW! Bitcoin RALLYING As Stocks CRASH!](https://www.youtube.com/watch?v=Kn3tTy_YOuQ)**
+
+Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you fund your account!
+
+📺 Crypto Jebb
+
+👁️ 1K • 👍 131 • 💬 102 • ⏱️ 8:35 • 2h ago
 
 ---
 
@@ -341,27 +349,7 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 207 • ⏱️ 14:03 • 21h ago
-
----
-
-**[Bitcoin Move Most Traders Are About To Miss](https://www.youtube.com/watch?v=4hdC4gl5fwY)**
-
-Bitcoin is approaching a critical moment, and most traders are looking in the wrong direction. In this episode, Sheldon breaks ...
-
-📺 Crypto Banter
-
-👁️ 8K • 👍 730 • 💬 22 • ⏱️ 31:15 • 9h ago
-
----
-
-**[Trump Just BROKE the Petrodollar (Bitcoin Repricing IMMINENT!)](https://www.youtube.com/watch?v=-8lS8eunbNo)**
-
-Global tensions, oil politics, and the petrodollar system may be colliding in real time. As geopolitical pressure builds and fiat ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 181 • ⏱️ 15:47 • 2d ago
+👁️ 25K • 👍 2K • 💬 193 • ⏱️ 14:03 • 22h ago
 
 ---
 
@@ -371,47 +359,57 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 3K • 💬 334 • ⏱️ 10:01 • 23h ago
+👁️ 34K • 👍 3K • 💬 345 • ⏱️ 10:01 • 1d ago
 
 ---
 
-**[Massive Bitcoin Long (Trump Insiders)](https://www.youtube.com/watch?v=K_op7nsuRV4)**
+**[Trump Just BROKE the Petrodollar (Bitcoin Repricing IMMINENT!)](https://www.youtube.com/watch?v=-8lS8eunbNo)**
 
-We are witnessing a massive shift in global markets as geopolitical tensions in the Middle East reach a breaking point. With the ...
+Global tensions, oil politics, and the petrodollar system may be colliding in real time. As geopolitical pressure builds and fiat ...
 
-📺 Discover Crypto
+📺 Simply Bitcoin
 
-👁️ 5K • 👍 325 • 💬 84 • ⏱️ 1:32:10 • 3h ago
-
----
-
-**[This EXACT CRYPTO Pattern Happened Last Cycle (Global Uncertainty Just Hit An ALL TIME HIGH)](https://www.youtube.com/watch?v=5VR_QiqvW1E)**
-
-Use our institutional grade risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai ...
-
-📺 Dan Gambardello
-
-👁️ 13K • 👍 846 • 💬 290 • ⏱️ 16:14 • 1d ago
+👁️ 29K • 👍 2K • 💬 181 • ⏱️ 15:47 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
+**[Bitcoin Just Bounced From a CRITICAL Level! Reversal or Trap?](https://www.youtube.com/watch?v=6QgKWwl1dOg)**
 
-Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandles ...
 
-📺 Altcoin Daily
+📺 Frankie Candles 
 
-👁️ 47K • 👍 2K • 💬 158 • ⏱️ 11:32 • 1d ago
+👁️ 2K • 👍 238 • 2h ago
 
 ---
 
-**[Why Bitcoin is Replacing Gold as the World&#39;s Ultimate Safe Haven](https://www.youtube.com/watch?v=KmdT82XMhT0)**
+**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
 
-A historic shift is happening in the global economy. As geopolitical tensions rise, Bitcoin is outperforming gold and behaving as a ...
+Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
 
-📺 Financial Funda
+📺 Swan Bitcoin
 
-👁️ 7K • 👍 250 • 💬 27 • ⏱️ 2:51 • 2d ago
+👁️ 2K • 👍 118 • 💬 129 • ⏱️ 10:35 • 1h ago
+
+---
+
+**[War Fears Rising…Bitcoin Won’t Break](https://www.youtube.com/watch?v=GQ5cs7FwBSU)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 929 • 💬 219 • ⏱️ 35:05 • 6h ago
+
+---
+
+**[Bitcoin Move Most Traders Are About To Miss](https://www.youtube.com/watch?v=4hdC4gl5fwY)**
+
+Bitcoin is approaching a critical moment, and most traders are looking in the wrong direction. In this episode, Sheldon breaks ...
+
+📺 Crypto Banter
+
+👁️ 9K • 👍 749 • 💬 25 • ⏱️ 31:15 • 10h ago
 
 ---
 
