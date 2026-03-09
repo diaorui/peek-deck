@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-09T20:36:37.767797+00:00'
+updated: '2026-03-09T21:33:52.700407+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 09, 2026 at 20:36 UTC  
+**Last Updated:** March 09, 2026 at 21:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 4h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds
 
 Chinese researchers have used AI to determine the chemical composition of the Moon’s far side.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Chinese researchers have used AI to determine the chemical composition of the Mo
 
 Nvidia's record revenue in 2025 largely benefited from AI data center growth. Now, CEO Jensen Huang says the shortages help even more.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 5h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Nvidia's record revenue in 2025 largely benefited from AI data center growth. No
 
 AMD announced back at CES the Ryzen AI Embedded P100 series with initially the models up to six Zen 5 cores launching while the eight through twelve core models would be available later in H1
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-Embedded-P100-Series) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-Embedded-P100-Series) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ AMD announced back at CES the Ryzen AI Embedded P100 series with initially the m
 
 Once the acquisition is finalized OpenAI will integrate Promptfoo’s technology directly into OpenAI Frontier, our platform for building and operating AI coworkers.
 
-🔗 [openai.com](https://openai.com/index/openai-to-acquire-promptfoo/) • 2h ago
+🔗 [openai.com](https://openai.com/index/openai-to-acquire-promptfoo/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Once the acquisition is finalized OpenAI will integrate Promptfoo’s technology
 
 Hey everyone! I have been developing CodeGraphContext, an open-source MCP server transforming code into a symbol-level code graph, as opposed to text-based code analysis. This means that AI agents won’t be sending entire code blocks to the model, but can retrieve context via: function calls, imported modules, class inheritance, file dependencies etc. This allows AI agents (and humans!) to better grasp how code is internally connected. What it does CodeGraphContext analyzes a code repository, generating a code graph of: files, functions, classes, modules and their relationships, etc. AI agents can then query this graph to retrieve only the relevant context, reducing hallucinations. Playground Demo on website I've also added a playground demo that lets you play with small repos directly. You can load a project from: a local code folder, a GitHub repo, a GitLab repo Everything runs on the local client browser. For larger repos, it’s recommended to get the full version from pip or Docker. Additionally, the playground lets you visually explore code links and relationships. I’m also adding support for architecture diagrams and chatting with the codebase. Status so far- ⭐ ~1.5k GitHub stars 🍴 350+ forks 📦 100k+ downloads combined If you’re building AI dev tooling, MCP servers, or code intelligence systems, I’d love your feedback. Repo: https://github.com/CodeGraphContext/CodeGraphContext
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey everyone! I have been developing CodeGraphContext, an open-source MCP server
 
 GitHub: https://github.com/zanfiel/engram Live demo: https://demo.engram.lol/gui (password: demo) Built a memory server that gives AI agents long-term memory across sessions. Store what they learn, search by meaning, recall relevant context automatically. - Embeddings run locally (MiniLM-L6) — no OpenAI key needed - Single SQLite file — no vector database required - Auto-linking builds a knowledge graph between memories - Versioning, deduplication, auto-forget - Four-layer recall: static facts + semantic + importance + recency - WebGL graph visualization built in - TypeScript and Python SDKs One file, docker compose up, done. MIT licensed.
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ GitHub: https://github.com/zanfiel/engram Live demo: https://demo.engram.lol/gui
 
 Hi I’m trying to give 2.3k in free credits dm me if interested . Ofc itll be at a cheaper price :)
 
-31m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hi I’m trying to give 2.3k in free credits dm me if interested . Ofc itll be a
 
 TL; DR: we built a platform that indexes your wandb projects and past experiments and makes it easy for AI agents to analyze and generate new promising hypotheses and experiments. We built new algorithms to be able to ingest and index raw, unstructured, and multi-modal research data and make it available for AI agents. This makes it easy for AI agents to analyze past experimental data to plan and execute new, high quality and diverse research tasks or experiments towards your project goals. It's free so please check it out (https://www.myluca.ai) and let us know what you think. DMs at open. If people are interested, should we work on a Python SDK so that you can bring your own agents (clawed or otherwise)?
 
-54m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ Anthropic • 4d ago
 
 AI company Anthropic filed two lawsuits against several federal agencies and officials after being labeled last week a supply-chain risk to national security.
 
-NBC News • 50m ago
+NBC News • 1h ago
 
 ---
 
@@ -139,13 +139,13 @@ NBC News • 50m ago
 
 Lawsuits come after Pentagon labeled Anthropic a ‘supply chain risk’, a decision the company says is unlawful
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
 **[Anthropic sues to block Pentagon blacklisting over AI use restrictions](https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -153,7 +153,7 @@ Reuters • 5h ago
 
 AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disasters
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Guardian • 9h ago
 
 AI will produce "garbage" that will fight with information from traditional media sources, and prediction markets are not safe from this "information ecosystem" deterioration.
 
-Fortune • 27m ago
+Fortune • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fortune • 27m ago
 
 Many don’t apply because they don’t believe they will be eligible for benefits.
 
-Fortune • 36m ago
+Fortune • 1h ago
 
 ---
 
@@ -177,13 +177,13 @@ Fortune • 36m ago
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 23h ago
+NPR • 1d ago
 
 ---
 
 **[The Former Coal Miner in the Middle of the A.I. Data Center Boom](https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 12h ago
 
 The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -217,7 +217,7 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 155 • 💬 150 • 5h ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 155 • 💬 150 • 6h ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -241,13 +241,13 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.
 
-⬆️ 88 • 💬 54 • 7h ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
+⬆️ 88 • 💬 54 • 8h ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
 
 ---
 
 **[Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://news.ycombinator.com/item?id=47307169)**
 
-⬆️ 83 • 💬 41 • 10h ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
+⬆️ 83 • 💬 41 • 11h ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
 
 ---
 
@@ -255,7 +255,7 @@ AI data center developers are increasingly relying on a style of camp popularize
 
 Exclusive: Rented datacentres and unrealised supercomputer site raise questions for Starmer’s push to ‘mainline AI into veins of economy’
 
-⬆️ 77 • 💬 41 • 5h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
+⬆️ 77 • 💬 41 • 6h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
 
 ---
 
@@ -285,7 +285,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 72K • 👍 3K • 💬 652 • ⏱️ 27:28 • 16h ago
+👁️ 72K • 👍 3K • 💬 652 • ⏱️ 27:28 • 17h ago
 
 ---
 
@@ -295,7 +295,7 @@ Early March of 2026 became a defining moment in world history. For the first tim
 
 📺 ColdFusion
 
-👁️ 161K • 👍 13K • 💬 2K • ⏱️ 16:53 • 6h ago
+👁️ 161K • 👍 13K • 💬 2K • ⏱️ 16:53 • 7h ago
 
 ---
 
@@ -305,7 +305,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCtiec
 
 📺 Legal Mindset
 
-👁️ 21K • 👍 1K • 💬 420 • ⏱️ 8:41 • 7h ago
+👁️ 21K • 👍 1K • 💬 420 • ⏱️ 8:41 • 8h ago
 
 ---
 
@@ -325,7 +325,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 7K • 👍 179 • 💬 18 • ⏱️ 8:39 • 13h ago
+👁️ 7K • 👍 179 • 💬 18 • ⏱️ 8:39 • 14h ago
 
 ---
 
@@ -345,7 +345,7 @@ The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jord
 
 📺 The Young Turks
 
-👁️ 44K • 👍 1K • 💬 463 • ⏱️ 3:52 • 19h ago
+👁️ 44K • 👍 1K • 💬 463 • ⏱️ 3:52 • 20h ago
 
 ---
 
@@ -355,7 +355,7 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 61K • 👍 2K • 💬 393 • ⏱️ 21:16 • 2d ago
+👁️ 61K • 👍 2K • 💬 393 • ⏱️ 21:16 • 3d ago
 
 ---
 
@@ -365,7 +365,7 @@ What if the Teenage Mutant Ninja Turtles wandered into the woods of The Blair Wi
 
 📺 Ai of Euphoria 
 
-👁️ 5K • 👍 286 • 💬 34 • ⏱️ 2:04 • 15h ago
+👁️ 5K • 👍 286 • 💬 34 • ⏱️ 2:04 • 16h ago
 
 ---
 
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.2k • 🔱 3.2k • 2h ago
+⭐ 25.2k • 🔱 3.2k • 3h ago
 
 ---
 
@@ -661,7 +661,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 17.1k • 🔱 670 • 43m ago
+⭐ 17.1k • 🔱 670 • 1h ago
 
 ---
 
@@ -671,7 +671,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 15.2k • 🔱 2.0k • 1h ago
+⭐ 15.2k • 🔱 2.0k • 2h ago
 
 ---
 
@@ -681,7 +681,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.1k • 🔱 1.1k • 3h ago
+⭐ 10.1k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.7k • 🔱 551 • 8h ago
+⭐ 7.7k • 🔱 551 • 9h ago
 
 ---
 
@@ -721,7 +721,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.0k • 🔱 718 • 17h ago
+⭐ 6.0k • 🔱 718 • 18h ago
 
 ---
 
@@ -731,7 +731,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 405 • 6h ago
+⭐ 3.7k • 🔱 405 • 7h ago
 
 ---
 
@@ -741,7 +741,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.6k • 🔱 256 • 6h ago
+⭐ 3.6k • 🔱 256 • 7h ago
 
 ---
 

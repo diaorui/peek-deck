@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T20:36:37.785758+00:00'
+updated: '2026-03-09T21:33:52.718418+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 20:36 UTC  
+**Last Updated:** March 09, 2026 at 21:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-9h ago
+10h ago
 
 ---
 
@@ -44,25 +44,25 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
 
-16h ago
+17h ago
 
 ---
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-2h ago
+3h ago
 
 ---
 
 **[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -70,7 +70,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-12h ago
+13h ago
 
 ---
 
@@ -78,7 +78,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-4h ago
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 I'm trying to find resources for vibratory feeders design "for bolts" . are these systems designed by try and error or what? :)
 
-6m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ I'm trying to find resources for vibratory feeders design "for bolts" . are thes
 
 USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 10h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 11h ago
 
 ---
 
@@ -114,7 +114,7 @@ USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 4h ago
+TechCrunch • 5h ago
 
 ---
 
@@ -122,7 +122,7 @@ TechCrunch • 4h ago
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 23h ago
+NPR • 1d ago
 
 ---
 
@@ -130,7 +130,7 @@ NPR • 23h ago
 
 ABB Robotics is integrating NVIDIA Omniverse libraries into RobotStudio to enhance robot simulation and streamline real-world deployments.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -138,7 +138,7 @@ The Robot Report • 3h ago
 
 "This was about principle, not people," Kalinowski said in a social media post about her resignation from OpenAI.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Robot Report • 2h ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -154,19 +154,19 @@ Yahoo Finance • 4h ago
 
 Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
 
-Modern War Institute - • 12h ago
+Modern War Institute - • 13h ago
 
 ---
 
 **[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
 **[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
 
-Tech Xplore • 18h ago
+Tech Xplore • 19h ago
 
 ---
 
@@ -174,7 +174,7 @@ Tech Xplore • 18h ago
 
 Qualcomm, which purchased microcontroller board manufacturer Arduino last year, just announced a new computer that marries AI with robotics.
 
-Engadget • 9h ago
+Engadget • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 108 • 👍 16 • 💬 2 • ⏱️ 3:48 • 1h ago
+👁️ 108 • 👍 16 • 💬 2 • ⏱️ 3:48 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (d
 
 📺 FUN Robotics Network
 
-👁️ 629 • 👍 33 • ⏱️ 1:13 • 3h ago
+👁️ 629 • 👍 33 • ⏱️ 1:13 • 4h ago
 
 ---
 
@@ -286,7 +286,7 @@ A senior executive at OpenAI has resigned over the company's decision to make it
 
 📺 NPR
 
-👁️ 2K • 👍 348 • 💬 8 • ⏱️ 1:06 • 4h ago
+👁️ 2K • 👍 348 • 💬 8 • ⏱️ 1:06 • 5h ago
 
 ---
 

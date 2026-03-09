@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T20:36:37.776437+00:00'
+updated: '2026-03-09T21:33:52.708732+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 20:36 UTC  
+**Last Updated:** March 09, 2026 at 21:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
 
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 6h ago
+🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ This is why we BITCOIN. More of this to come?
 
 20 millionth bitcoin was just mined
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ This is why we BITCOIN. More of this to come?
 
 Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As of 3/8/2026, they hodl 738,731 BTC acquired for ~$56.04 billion at ~$75,862 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 6h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 7h ago
 
 ---
 
@@ -113,7 +113,7 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
 
-2h ago
+3h ago
 
 ---
 
@@ -121,25 +121,25 @@ The next halving is getting closer every day (people will start front-running so
 
 Or else I’ll start throwing things
 
-1h ago
+2h ago
 
 ---
 
 **[On The Same Day the 20,000,000th Bitcoin is Mined - A Cypherpunk's Manifesto Turns 33](https://www.reddit.com/r/Bitcoin/comments/1rp6voh/on_the_same_day_the_20000000th_bitcoin_is_mined_a/)**
 
-🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 2h ago
+🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 3h ago
 
 ---
 
 **[Why Chamath and Dalio are wrong about bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rp2ay8/why_chamath_and_dalio_are_wrong_about_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Don't Forget What The Canadian Government Did DURY PEACE TIME to Your Bank Accounts - Bitcoin Protects You](https://www.reddit.com/r/Bitcoin/comments/1rp9uhe/dont_forget_what_the_canadian_government_did_dury/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Or else I’ll start throwing things
 
 I keep hearing this advice to not sell your Bitcoin, just borrow against it. But honestly I don’t fully get why that’s supposed to be better. If you sell BTC after it’s gone up, you’re actually locking in profit. You bought at one price and sold higher, so you walk away with real gains. When you borrow against your Bitcoin though, you’re taking out a loan that you eventually have to pay back plus interest. So in my head it feels like you’re not really gaining money, you’re just accessing cash temporarily and then paying for it later. I get that people want to keep their BTC long term and stay exposed to the price going up, but if the goal is to actually make money, wouldn’t selling a portion make more sense?
 
-19h ago
+20h ago
 
 ---
 
@@ -159,13 +159,13 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 9h ago
 
 Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 11h ago
 
 Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 4h ago
 
 Strategy (MSTR) buys 17,994 more bitcoin for $1.28B, bringing holdings to 738,731 BTC.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -197,7 +197,7 @@ Seeking Alpha • 5h ago
 
 The company now holds 738,731 bitcoin purchased for about $56 billion and worth roughly $50 billion at the current price just shy of $68,000.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -205,7 +205,7 @@ CoinDesk • 8h ago
 
 The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Fortune • 1h ago
 
 Prominent privacy coin Zcash (ZEC) has jumped 7% over the last day as the Zcash Open Development Lab announced a $25 million fundraise.
 
-Yahoo Finance • 17m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -227,7 +227,7 @@ Bitcoin Magazine • 2h ago
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -239,7 +239,7 @@ Bloomberg.com • 4h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 5h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -267,7 +267,7 @@ Complete operating system for Bitcoiners
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 20h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 21h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -275,7 +275,7 @@ Complete operating system for Bitcoiners
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 5h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 6h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -319,7 +319,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 5K • 👍 109 • 💬 27 • ⏱️ 4:26 • 7h ago
+👁️ 5K • 👍 109 • 💬 27 • ⏱️ 4:26 • 8h ago
 
 ---
 
@@ -329,7 +329,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 5K • 💬 295 • ⏱️ 11:22 • 16h ago
+👁️ 67K • 👍 5K • 💬 295 • ⏱️ 11:22 • 17h ago
 
 ---
 
@@ -339,7 +339,7 @@ Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 131 • 💬 102 • ⏱️ 8:35 • 2h ago
+👁️ 1K • 👍 131 • 💬 102 • ⏱️ 8:35 • 3h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 193 • ⏱️ 14:03 • 22h ago
+👁️ 25K • 👍 2K • 💬 193 • ⏱️ 14:03 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandle
 
 📺 Frankie Candles 
 
-👁️ 2K • 👍 238 • 2h ago
+👁️ 2K • 👍 238 • 3h ago
 
 ---
 
@@ -389,7 +389,7 @@ Did Bitcoin already put in the bottom, or is this just the start of a longer gri
 
 📺 Swan Bitcoin
 
-👁️ 2K • 👍 118 • 💬 129 • ⏱️ 10:35 • 1h ago
+👁️ 2K • 👍 118 • 💬 129 • ⏱️ 10:35 • 2h ago
 
 ---
 
@@ -399,7 +399,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 929 • 💬 219 • ⏱️ 35:05 • 6h ago
+👁️ 14K • 👍 929 • 💬 219 • ⏱️ 35:05 • 7h ago
 
 ---
 
@@ -409,7 +409,7 @@ Bitcoin is approaching a critical moment, and most traders are looking in the wr
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 749 • 💬 25 • ⏱️ 31:15 • 10h ago
+👁️ 9K • 👍 749 • 💬 25 • ⏱️ 31:15 • 11h ago
 
 ---
 

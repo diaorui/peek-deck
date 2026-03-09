@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T20:36:37.782498+00:00'
+updated: '2026-03-09T21:33:52.715170+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 20:36 UTC  
+**Last Updated:** March 09, 2026 at 21:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec...3d6b, deployed in August 2015, just weeks after mainnet launch. The entire contract is one function: set(string). It stores a single string in public storage. That is it. What is interesting is the bytecode. It was compiled with solc v0.1.1, the earliest Solidity compiler that exists. I was able to reproduce the exact bytecode byte-for-byte using that compiler. The output matches the on-chain code perfectly. Contracts from this era are fascinating because Solidity was still being invented. No events, no modifiers, no constructors as we know them. Just raw storage writes. The compiler output is so small you can read the opcodes manually. The deployer (0x8674...94e2) deployed 18 contracts in the same week, all in the 52,000-55,000 block range. Looks like someone was experimenting heavily with what Solidity could do. If anyone is interested in early Ethereum archaeology, ethereumhistory.com is documenting contracts from this period with verified source code and compiler proofs. Edit: here is the contract page on Ethereum History.
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In September 2015, six weeks after mainnet launch, someone deployed three contracts that became Ethereum's first naming infrastructure: GlobalRegistrar, HashReg, and UrlHint. Block 282,880 — September 24, 2015 The GlobalRegistrar mapped names to addresses. HashReg mapped code hashes to content hashes. UrlHint mapped content hashes to URLs for metadata retrieval. Together they formed the NatSpec documentation system — the mechanism that was supposed to let Ethereum wallets display human-readable descriptions before signing transactions. The system was hardcoded directly into go-ethereum v1.4.0 (common/registrar/registrar.go). Not an optional plugin. Core infrastructure. The frozen TODO that became ENS Inside the GlobalRegistrar source code (verified on Etherscan, compiled with solc v0.1.1), there's a comment that reads: // TODO: bidding mechanism That comment sat frozen for years. The ambition was there — first-come-first-served registration was always meant to be a placeholder. The bidding mechanism didn't arrive until ENS launched in May 2017, when Vickrey auctions replaced the naive assignment system. ENS didn't appear from nowhere. It solved the exact problem the GlobalRegistrar identified and couldn't finish. The three-contract system All three contracts were deployed by the same address within 18 blocks: - GlobalRegistrar: block 282,880 - HashReg: block 282,885 (5 blocks later) - UrlHint: block 282,898 (18 blocks after start) The deployer identity isn't confirmed — likely a go-ethereum core developer given the contracts were shipped alongside the go-ethereum codebase — but we haven't pinned the address to a name yet. Why it matters Every .eth name you resolve today is the descendant of that frozen TODO comment from 2015. The naming problem was understood from week six. It took two more years to solve it properly. We documented all three contracts on EthereumHistory.com last night. The verified source code, links to go-ethereum v1.4.0, and the full historical context are there if you want to dig deeper. Cross-posted from our ongoing archaeology of early mainnet contracts. If you deployed or used these contracts in 2015, we'd love to hear the story.
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ In September 2015, six weeks after mainnet launch, someone deployed three contra
 
 MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
 
-🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 6h ago
+🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 7h ago
 
 ---
 
@@ -162,7 +162,7 @@ Benzinga • 3d ago
 
 Coinbase launched regulated crypto futures in 26 European countries, offering perpetual and dated contracts with up to 10x leverage.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 2h ago
 
 Ethereum should serve as a space where people can interact free from corporate and government control, co-founder Vitalik Buterin says. "Ethereum should conceptualize ourselves as being part of an ecosystem building ‘sanctuary technologies:' free open-source technologies that let people live,...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 3h ago
 
 The competitive world of blockchain technology recently witnessed a historic moment as the Solana network surged past Ethereum in a critical adoption category. For the first time ever, the number of digital wallets holding tokenized real-world assets (RWAs) on Solana exceeded those on its ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -192,7 +192,7 @@ Binance • 2d ago
 
 Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
 
-PR Newswire • 8h ago
+PR Newswire • 9h ago
 
 ---
 
@@ -200,13 +200,13 @@ PR Newswire • 8h ago
 
 The price of Ethereum is up 4% over the last day, rebounding after a weekend slump under $2,000 as BitMine reveals its latest ETH buy.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Motley Fool • 1d ago
 
 The crypto market started Monday on a positive note, with most top 10 coins trading in green. Now, investors are closely watching one key event this week, the upcoming U.S. Consumer Price Index (CPI) report. Last month’s CPI data pushed the crypto market up by nearly 4%. This time, traders are watc…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 123 • 💬 6 • ⏱️ 4:08 • 7h ago
+👁️ 1K • 👍 123 • 💬 6 • ⏱️ 4:08 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 7K • 👍 264 • 💬 251 • ⏱️ 17:36 • 22h ago
+👁️ 7K • 👍 264 • 💬 251 • ⏱️ 17:36 • 23h ago
 
 ---
 
@@ -266,7 +266,7 @@ From unboxing to mining Ethereum, my first six-GPU setup was surprisingly simple
 
 📺 VoskCoin
 
-👁️ 1K • 👍 38 • 💬 5 • ⏱️ 0:50 • 8h ago
+👁️ 1K • 👍 38 • 💬 5 • ⏱️ 0:50 • 9h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 104 • 💬 3 • ⏱️ 3:59 • 17h ago
+👁️ 1K • 👍 104 • 💬 3 • ⏱️ 3:59 • 18h ago
 
 ---
 
