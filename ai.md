@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-09T02:12:54.100907+00:00'
+updated: '2026-03-09T04:30:17.129546+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - news
-- repositories
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 09, 2026 at 02:12 UTC  
+**Last Updated:** March 09, 2026 at 04:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic'c Claude found 22 vulnerabilities in Firefox in just two weeks](https://www.reddit.com/r/artificial/comments/1ro1ybn/anthropicc_claude_found_22_vulnerabilities_in/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -47,7 +47,13 @@ AI news, discussions, and developments
 
 I've been building an interactive map of the AI tool ecosystem — not just a list, but a visual graph that shows which tools connect to each other and how people actually chain them together in workflows. Some things it does: Interactive graph — 137 tools plotted by category with 281 connections between them. Click any tool to see what it integrates with. 25 real workflows — step-by-step breakdowns like "AI SEO Blog Factory" or "Podcast Production Pipeline" that show you which tools to use at each stage and how the output of one feeds into the next. Quiz + AI advisor — answer a few questions about your use case and it recommends a full stack, not just a single tool. Side-by-side comparisons — 204 comparison pages (Cursor vs Copilot, Jasper vs Copy.ai, etc.) It's free, no login, runs entirely in the browser. I built it because I got tired of evaluating AI tools in isolation. The real question isn't "what's the best writing tool" — it's "what combination of tools actually works together for my workflow." Would love feedback on what's useful and what's missing. https://thestackmap.com
 
-3h ago
+5h ago
+
+---
+
+**[Why the AI Boom Will Make Phones, Cars and Electronics More Expensive](https://www.reddit.com/r/artificial/comments/1rop12e/why_the_ai_boom_will_make_phones_cars_and/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/graphics/2026-ai-boom-memory-chip-shortage/) • 1h ago
 
 ---
 
@@ -55,7 +61,15 @@ I've been building an interactive map of the AI tool ecosystem — not just a li
 
 TLDR: Adult stars are quickly finding themselves out of work. Given the rise of AI generated porn within the last few years and how quickly it has improved in that time, adult entertainers like pornstars and Onlyfans creator will likely be completely replaced by Artificial intelligence within the decade. AI porn already is generating almost half of the adult star industries 140+ billion dollar a year revenues with an estimated $65.5 billion in 2024 and that number growing each year. AI already has replaced most of interactions within the adult chats and their videos can now be found on all the top porn site like pornhub. The days of stars getting rich from making content are quickly coming to an end, already are gone are the days where a woman could becoming a millionaire through a single years work in the porno industry. AI with it's ability to never have to sleep, to never be sick, be on it's period, pregnant, have an STI, look horrible from partying the night before, or simply not feel like working, it only makes since that the top earners in adult industry the producers not the actual creators are investing more an more into AI generated porn. While some pornstars have notoriously been difficult to work with in the past having uncontrollable emotional out brakes for no reason or be too addicted to various drugs to even perform AI has none of these problems. So, while the stars may have once earned them the most money they often were also their highest risk and with an ROI of 99 to1 who could afford not to become fully AI created content. Do you agree that AI will completely replace adult stars or do you think there will still be little niches of real life performers creating content, & how long to think it will take to get there? Do you think this is a good thing or a bad thing? What do you think all those women who made their livings off creating adult content will move on to do? Will it lead to greater female empowerment or a greater reduction in their share of the market?
 
-22h ago
+1d ago
+
+---
+
+**[100 production-ready AI agent configs that actually run (not demos, not concepts)](https://www.reddit.com/r/artificial/comments/1roq2su/100_productionready_ai_agent_configs_that/)**
+
+There's a lot of "AI agent" content that stops at the blog post. This is a repo of 100 agent templates that run in production. Each one is an OpenClaw SOUL. md config. You define the agent's role, rules, integrations, and schedule. It connects to Telegram, Slack, Discord, or WhatsApp and runs on a loop. Real examples from the repo: a code reviewer that catches issues before PR merge. A churn prevention agent that flags at-risk users. A self-healing server agent that restarts crashed containers. No chain-of-thought theater. No "imagine if" scenarios. These are configs people are running right now. GitHub: https://github.com/mergisi/awesome-openclaw-agents
+
+27m ago
 
 ---
 
@@ -77,7 +91,7 @@ Watched a Chase AI video where he breaks down six "life-changing" OpenClaw use c
 
 There is a question sitting underneath most serious thinking about AI systems that rarely gets asked directly: why doesn't it learn? Not learn during training — that part works. But learn the way humans learn. Continuously, experientially, from correction. The way a person who makes a mistake on Tuesday is slightly different on Wednesday because of it. Current large language models don't do this. After training weights are frozen. Every conversation that follows — every correction, every clarification, every "no, that's wrong" — vanishes when the session closes. The model is a sophisticated frozen artifact. Brilliant in many ways, but static in this one fundamental sense. People find this instinctively wrong, and our instinct is probably pointing at something real. The Biological Baseline The brain doesn't learn during activity. It learns afterwards, on reflection, during sleep. This is not a minor implementation detail. It appears to be load-bearing architecture. The hippocampus replays flagged experiences during sleep — compressed, faster than real-time — slowly transferring high-signal events into cortical long-term storage. Not everything gets replayed. Not everything gets consolidated. The brain is selective, and the selection mechanism appears to be largely emotional. Fear, surprise, reward, social consequence, strong prediction error — these flag an experience as worth keeping. Low-signal routine gets discarded. The system is efficient because it is discriminating. The skydiver who lands and immediately gives a first-person verbal account of what happened, then watches video that partially contradicts that account, is engineering this process deliberately. The verbal reconstruction forces a committed internal model. The video provides a grounded external contradiction. The report of a police officer after an incident, bounded by body camera. Same thing. The gap between them — the dissonance — is the signal. That signal consolidates later into durable learning. The architecture is: active experience generating predictions, immediate post-hoc narrative committing to a model, external contradiction generating a strong error signal, delayed consolidation of high-signal experiences into lasting change. Current AI has some correction during reinforcement learning but nothing at inference time. Emotion as Flagging Heuristic The human brain's consolidation system doesn't run on everything. It runs on what matters. And what determines mattering, in biological systems, may be largely emotion. This is not incidental. Emotion is the brain's significance-tagging system. The amygdala fires fast — pre-cognitively, before the prefrontal cortex has processed the event — marking certain experiences as high-priority for retention. One encounter with genuine danger and it's in long-term memory essentially permanently. The system is calibrated by evolutionary stakes. For artificial systems, functional analogs exist but are pale shadows of this. High-confidence output followed by sharp explicit correction resembles surprise or embarrassment — a strong prediction error against a committed model. User persistence through repeated rephrasing signals something like frustration — the interaction is not resolving normally. Novel inputs producing high uncertainty suggest the model is outside its comfortable distribution. These signals exist in the conversation logs of every deployed model. They are largely ignored. A serious approach to machine learning-from-experience would need a lightweight parallel system running during inference whose only job is real-time significance assessment. Not reasoning — flagging. Fast and automatic, more like an autonomic response than a deliberate thought. This is architecturally closer to Kahneman's System 1 than anything currently built into transformer inference, which is essentially pure System 2 — all deliberation, no instinct. The Sleep Hypothesis What would happen if a deployed model took eight hours offline daily and ran light fine-tuning on its flagged interactions? Taken seriously, the engineering requirements become surprisingly concrete. The first requirement is the tagging mechanism described above — a way to identify high-signal correction events during inference worth preserving for later integration. This is tractable. The logs exist. Explicit corrections are often detectable. Confidence-then-contradiction is measurable. The second requirement is a conservative fine-tuning process. Small learning rate, narrow scope, strong regularization against existing weights. Not retraining — targeted synaptic adjustment on the day's flagged experiences. Validation against a held-out baseline to catch drift before it commits. The third requirement, more speculative, is a generalization step analogous to dreaming. REM sleep may serve a counterfactual function — the brain generates variations and recombinations of the day's flagged experiences, testing whether new learning holds across novel configurations. The model equivalent would be synthetic generation of variations on flagged interactions during the consolidation window, making updates more robust rather than just memorizing specific corrections. The practical barriers to doing this with existing infrastructure are smaller than they appear. Off-peak compute is cheaper. The logs exist. The fine-tuning tooling exists. The main obstacle seems institutional and economic rather than technical. The Deeper Implication There is a thread connecting the biological observations to the engineering proposal that is worth naming explicitly. The corrective signal only works if the system was committed enough to be wrong. The skydiver who gives a vague account before seeing the video gets less from the correction than the one who commits confidently to a specific narrative. The model that hedges every output produces no strong prediction to contradict. Confident wrongness may not be a bug in intelligent systems — it may be a prerequisite for deep learning from experience. This complicates the current instinct to make AI systems more uncertain and hedged. If the flagging heuristic depends on strong prediction errors, excessive hedging may impair the system's capacity to learn from its mistakes. There is a calibration question here that has not been seriously examined. More broadly, what this conversation points toward is an architecture that does not yet exist: a model that learns continuously from deployment, flags high-signal experiences automatically during inference, consolidates them during low-activity periods, and generalizes from corrections rather than merely storing them. This is not obviously impossible. It is probably a matter of when rather than if. The biological brain solved this problem. It solved it with emotion as a heuristic, sleep as a mechanism, and committed prediction as a prerequisite. Those are not mystical ingredients. They are design principles.
 
-11h ago
+13h ago
 
 ---
 
@@ -85,7 +99,7 @@ There is a question sitting underneath most serious thinking about AI systems th
 
 The Anthropic/Pentagon situation in February prompted me to think about a governance problem I haven't seen framed quite this way: not whether AI companies should refuse certain uses, but what happens to AI models when human oversight of their outputs is low-quality or perfunctory — and that pattern makes it into training data. The argument in brief: if AI succeeds in contexts where humans aren't genuinely reviewing its outputs, and those successes are treated as positive training signals, we may be systematically training models to treat human disengagement as acceptable. The problem is distributional — any individual reviewer may be excellent, but at scale, the assumption of meaningful review degrades. A second dimension: output quality confidence. Training signal weight should scale with how verifiable the output is. Code that runs and produces correct results is high-confidence feedback. Advice that sounds good but can't be independently checked is low-confidence. The two dimensions function as compensating controls. I'm an FCAS (Fellow of the Casualty Actuarial Society) — I think about risk and probability for a living. I have a CS minor and have worked with statistical programming throughout my career, but I'm not an ML researcher. I wrote this with Claude's help, which I've disclosed in the paper itself. I'm particularly curious whether the training signal mechanism holds up technically — that's where my background has real limits and where I'd most value pushback. Full paper in comments.
 
-13h ago
+15h ago
 
 ---
 
@@ -97,81 +111,63 @@ Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a ne
 
 ---
 
-**[CodeGraphContext - An MCP server that converts your codebase into a graph database, enabling AI assistants and humans to retrieve precise, structured context](https://www.reddit.com/r/artificial/comments/1rnhzxx/codegraphcontext_an_mcp_server_that_converts_your/)**
-
-CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.2.6 released ~1k GitHub stars, ~325 forks 50k+ downloads 75+ contributors, ~150 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
-
-1d ago
-
----
-
-**[Pentagon taps former DOGE official to lead its AI efforts](https://www.reddit.com/r/artificial/comments/1rmuhcm/pentagon_taps_former_doge_official_to_lead_its_ai/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible](https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/)**
-
-The red jobs are what AI is doing now, Anthropic says. The blue ones are what it's coming for next.
-
-Fortune • 2d ago
-
----
 
 **[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 5h ago
+NPR • 7h ago
 
 ---
 
-**[AI allows hackers to identify anonymous social media accounts, study finds](https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study)**
+**[Is AI productivity prompting burnout? Study finds new pattern of "AI brain fry"](https://www.cbsnews.com/news/is-ai-productivity-prompting-burnout-study-finds-new-pattern-of-ai-brain-fry/)**
 
-New research suggests tech behind AI platforms such as ChatGPT makes it easier to perform sophisticated privacy attacks
+Artificial intelligence can give some workers "brain fry" if overused, according to a new study published in Harvard Business Review.
 
-The Guardian • 4h ago
-
----
-
-**[Chinese parents turn to AI for children's homework amid sweeping push in education system: 'Get used to it from a young age'](https://www.yahoo.com/news/articles/chinese-parents-turn-ai-childrens-013000429.html)**
-
-Chinese students could be getting a headstart on their American counterparts.
-
-Yahoo • 42m ago
+CBS News • 10h ago
 
 ---
 
-**[Fake AI satellite imagery spurs US-Iran war disinformation](https://www.yahoo.com/news/articles/fake-ai-satellite-imagery-spurs-012432703.html)**
+**[Current and former Block workers say AI can’t do their jobs after Jack Dorsey’s mass layoffs: ‘You can’t really AI that’](https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey)**
 
-The satellite image posted by an Iranian news outlet looked real: a devastated US base in Qatar.As the US-Israeli war against Iran rages, Tehran Times, a state-aligned English daily, posted on X a "be...
+The CEO said he cut the company’s workforce by 4,000 people – almost in half – because of gains in AI productivity
 
-Yahoo • 48m ago
-
----
-
-**[Meet the Artificial Intelligence (AI) Stock I Just Purchased](https://finance.yahoo.com/news/meet-artificial-intelligence-ai-stock-012100315.html)**
-
-Nvidia looks like a great deal following its fantastic quarter.
-
-Yahoo Finance • 51m ago
+The Guardian • 16h ago
 
 ---
 
-**[Why Washington is hamstrung on protecting workers from AI](https://www.politico.com/news/2026/03/08/washington-workers-ai-00789199)**
+**[Oracle expected to slash thousands of jobs as massive AI spending creates financial cash crisis](https://www.foxbusiness.com/economy/oracle-expected-slash-thousands-jobs-massive-ai-spending-creates-financial-cash-crisis)**
 
-Politico • 10h ago
+Oracle reportedly planning massive layoffs involving thousands of employees as AI spending creates cash crunch. Job cuts could reportedly affect 18% of total workforce.
+
+Fox Business • 1h ago
 
 ---
 
-**[Opinion | The Future We Feared Is Already Here](https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html)**
+**[The unexpected 92,000 drop in payrolls is a clue we might be reading the AI jobs narrative all wrong](https://fortune.com/2026/03/07/is-ai-taking-jobs-payrolls-drop-narrative-outlook/)**
 
-The New York Times • 16h ago
+Is AI taking jobs? Or are companies cutting jobs to pay for the enormous capex outlays on AI?
+
+Fortune • 1d ago
+
+---
+
+**[How AI could disrupt retail media’s $38 billion search ad market](https://digiday.com/marketing/how-ai-could-disrupt-retail-medias-38-billion-search-ad-market/)**
+
+ChatGPT and other AI chatbots could divert shoppers from retailer sites, putting the $38B retail search market at risk.
+
+Digiday • 26m ago
+
+---
+
+**[CoreWeave Conference: “Insatiable” AI Demand Leaves 2026 Compute Capacity Broadly Sold Out](https://finance.yahoo.com/news/coreweave-conference-insatiable-ai-demand-040315348.html)**
+
+CoreWeave (NASDAQ:CRWV) co-founder and chief development officer Brannin McBee said demand for the company’s AI infrastructure remains “overwhelming” and “insatiable,” describing 2026 as “broadly sold out” in terms of billable compute capacity. Speaking with Morgan Stanley’s Keith Weiss, McBee said
+
+Yahoo Finance • 27m ago
 
 ---
 
@@ -181,11 +177,19 @@ Axios • 1d ago
 
 ---
 
+**[Gen Z graduates who majored in ‘AI-proof’ careers like pharmacy, biology, and education are making less than $50,000 after graduation](https://fortune.com/2026/03/06/worst-paying-college-majors-pharmacy-biology-education-gen-z-graduates-50k-salary/)**
+
+Gen Z workers are flocking to industries like healthcare and education in hopes of evading AI and recessionary impacts—but some of those jobs pay rock-bottom salaries.
+
+Fortune • 2d ago
+
+---
+
 **[In a jobs apocalypse, look to ‘AI-proof’ skilled trades, career experts say](https://www.cnbc.com/2026/03/08/jobs-apocalypse-ai-proof-skilled-trades.html)**
 
 The skilled trades are considered more insulated from AI-driven job cuts, experts say.
 
-CNBC • 12h ago
+CNBC • 15h ago
 
 ---
 
@@ -205,13 +209,13 @@ The models are good now. But most people still miss the point.
 
 Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.
 
-⬆️ 160 • 💬 209 • 10h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+⬆️ 160 • 💬 212 • 12h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 
 ---
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 158 • 💬 172 • 1d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 158 • 💬 173 • 1d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -249,7 +253,7 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 **[AI doesn't replace white collar work](https://news.ycombinator.com/item?id=47299988)**
 
-⬆️ 56 • 💬 88 • 7h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
+⬆️ 58 • 💬 89 • 9h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
 
 ---
 
@@ -257,7 +261,7 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 “No stupid rules of engagement.” That was Pete Hegseth, the American war secretary, boasting during a press conference about the approach with which he and...
 
-⬆️ 49 • 💬 9 • 1d ago • [buttondown.com](https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/)
+⬆️ 49 • 💬 9 • 2d ago • [buttondown.com](https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/)
 
 ---
 
@@ -273,23 +277,23 @@ Employees have reported increased momentum, but also a feeling of having more to
 
 ## YouTube Videos: "ai"
 
-**[Worse Than Nukes: Warren Buffett’s $382 BILLION WARNING](https://www.youtube.com/watch?v=FKX_uvL01GU)**
-
-Warren Buffett has compared artificial intelligence to nuclear weapons. A warning that it could change the world in ways humanity ...
-
-📺 The Infographics Show
-
-👁️ 121K • 👍 3K • 💬 510 • ⏱️ 12:29 • 11h ago
-
----
-
 **[OpenAI Just Dropped Symphony: The First AI That Actually Works](https://www.youtube.com/watch?v=nAFnIIYEmEI)**
 
 OpenAI just released a system called Symphony that can send AI agents to complete real tasks automatically. Instead of only ...
 
 📺 AI Revolution
 
-👁️ 36K • 👍 1K • 💬 74 • ⏱️ 14:19 • 1d ago
+👁️ 37K • 👍 1K • 💬 74 • ⏱️ 14:19 • 1d ago
+
+---
+
+**[Worse Than Nukes: Warren Buffett’s $382 BILLION WARNING](https://www.youtube.com/watch?v=FKX_uvL01GU)**
+
+Warren Buffett has compared artificial intelligence to nuclear weapons. A warning that it could change the world in ways humanity ...
+
+📺 The Infographics Show
+
+👁️ 137K • 👍 3K • 💬 531 • ⏱️ 12:29 • 13h ago
 
 ---
 
@@ -309,7 +313,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 148K • 👍 10K • 💬 2K • ⏱️ 26:42 • 2d ago
+👁️ 152K • 👍 10K • 💬 2K • ⏱️ 26:42 • 2d ago
 
 ---
 
@@ -319,27 +323,7 @@ Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thin
 
 📺 AI Explained
 
-👁️ 69K • 👍 3K • 💬 433 • ⏱️ 21:52 • 2d ago
-
----
-
-**[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
-
-Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
-
-📺 Matt Wolfe
-
-👁️ 80K • 👍 3K • 💬 343 • ⏱️ 38:02 • 2d ago
-
----
-
-**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
-
-Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
-
-📺 Spacialize
-
-👁️ 57K • 👍 2K • 💬 357 • ⏱️ 21:16 • 2d ago
+👁️ 70K • 👍 3K • 💬 435 • ⏱️ 21:52 • 2d ago
 
 ---
 
@@ -349,17 +333,37 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 84 • 💬 4 • ⏱️ 10:22 • 19h ago
+👁️ 3K • 👍 85 • 💬 5 • ⏱️ 10:22 • 21h ago
 
 ---
 
-**[My AI Agents Made Money in 7 Days (OpenClaw)](https://www.youtube.com/watch?v=LCkGVCfmtzo)**
+**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
 
-Follow the experiment live on X: https://x.com/CreatorMagicAI ✨ Join Creator Magic Premium: https://mrc.fm/premium Last week I ...
+Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
 
-📺 Creator Magic
+📺 Spacialize
 
-👁️ 35K • 👍 1K • 💬 82 • ⏱️ 8:17 • 2d ago
+👁️ 58K • 👍 2K • 💬 361 • ⏱️ 21:16 • 2d ago
+
+---
+
+**[U.S. Military Is HEAVILY Reliant On AI To Conduct Iran War](https://www.youtube.com/watch?v=HPyE2xt8F8U)**
+
+The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jordan Uhl and Keith Edwards discuss on The Young ...
+
+📺 The Young Turks
+
+👁️ 13K • 👍 593 • 💬 220 • ⏱️ 3:52 • 3h ago
+
+---
+
+**[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
+
+Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
+
+📺 Matt Wolfe
+
+👁️ 81K • 👍 3K • 💬 346 • ⏱️ 38:02 • 2d ago
 
 ---
 
@@ -369,7 +373,7 @@ This AI-generated boxing match video has been created purely for your entertainm
 
 📺 Politics Ai Fun
 
-👁️ 2.5M • 👍 19K • 💬 494 • ⏱️ 0:14 • 1d ago
+👁️ 2.7M • 👍 21K • 💬 555 • ⏱️ 0:14 • 1d ago
 
 ---
 
@@ -385,7 +389,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 868,002 • ❤️ 605 • 7d ago
+⬇️ 868,002 • ❤️ 609 • 7d ago
 
 ---
 
@@ -397,7 +401,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 175,440 • ❤️ 365 • 3d ago
+⬇️ 175,440 • ❤️ 371 • 3d ago
 
 ---
 
@@ -409,7 +413,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 406,264 • ❤️ 318 • 6d ago
+⬇️ 406,264 • ❤️ 325 • 6d ago
 
 ---
 
@@ -421,7 +425,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 348,672 • ❤️ 300 • 7d ago
+⬇️ 348,672 • ❤️ 303 • 7d ago
 
 ---
 
@@ -433,7 +437,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,143,706 • ❤️ 1,043 • 9d ago
+⬇️ 1,143,706 • ❤️ 1,044 • 9d ago
 
 ---
 
@@ -445,7 +449,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 505,032 • ❤️ 263 • 6d ago
+⬇️ 505,032 • ❤️ 266 • 6d ago
 
 ---
 
@@ -457,7 +461,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 9,209 • ❤️ 263 • 1d ago
+⬇️ 9,209 • ❤️ 269 • 1d ago
 
 ---
 
@@ -469,19 +473,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 75,511 • ❤️ 211 • 5d ago
-
----
-
-**[Qwen3.5-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.0 for efficient local inference. It excels at image-text-to-text tasks, offering strong reasoning and visual understanding capabilities across 201 languages with a 262K+ context window.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 1,078,821 • ❤️ 582 • 3d ago
+⬇️ 75,511 • ❤️ 212 • 5d ago
 
 ---
 
@@ -493,7 +485,19 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 644 • ❤️ 171 • 2d ago
+⬇️ 644 • ❤️ 174 • 2d ago
+
+---
+
+**[Qwen3.5-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.0 for efficient local inference. It excels at image-text-to-text tasks, offering strong reasoning and visual understanding capabilities across 201 languages with a 262K+ context window.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 1,078,821 • ❤️ 583 • 3d ago
 
 ---
 
@@ -606,18 +610,6 @@ ReMe is a framework for experience-driven agent evolution in LLMs, enhancing mem
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 43 • 💬 2 • ⭐ 49,045 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -633,6 +625,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+▲ 44 • 💬 2 • ⭐ 49,071 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -643,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 24.7k • 🔱 3.2k • 2h ago
+⭐ 24.8k • 🔱 3.2k • 4h ago
 
 ---
 
@@ -653,17 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 16.4k • 🔱 627 • 1h ago
-
----
-
-**[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)**
-
-Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
-
-`Python`
-
-⭐ 9.7k • 🔱 1.1k • 10h ago
+⭐ 16.5k • 🔱 632 • 4h ago
 
 ---
 
@@ -673,7 +667,17 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 9.1k • 🔱 1.2k • 2h ago
+⭐ 9.8k • 🔱 1.3k • 5h ago
+
+---
+
+**[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)**
+
+Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+
+`Python`
+
+⭐ 9.8k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -683,7 +687,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.2k • 🔱 535 • 8h ago
+⭐ 7.3k • 🔱 537 • 11h ago
 
 ---
 
@@ -693,7 +697,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 6.8k • 🔱 869 • 5d ago
+⭐ 6.8k • 🔱 871 • 5d ago
 
 ---
 
@@ -703,7 +707,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.0k • 🔱 708 • 2m ago
+⭐ 6.0k • 🔱 709 • 1h ago
 
 ---
 
@@ -713,7 +717,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 5.7k • 🔱 474 • 3d ago
+⭐ 5.8k • 🔱 496 • 3d ago
 
 ---
 
@@ -723,7 +727,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 392 • 13h ago
+⭐ 3.6k • 🔱 394 • 1h ago
 
 ---
 
@@ -733,7 +737,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.5k • 🔱 251 • 16h ago
+⭐ 3.5k • 🔱 252 • 18h ago
 
 ---
 
