@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T21:33:52.718418+00:00'
+updated: '2026-03-09T22:30:40.286116+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 21:33 UTC  
+**Last Updated:** March 09, 2026 at 22:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-10h ago
+11h ago
 
 ---
 
@@ -44,25 +44,25 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
 
-17h ago
+18h ago
 
 ---
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
 
-4h ago
+5h ago
+
+---
+
+**[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
+
+1h ago
 
 ---
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-3h ago
-
----
-
-**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
-
-5h ago
+4h ago
 
 ---
 
@@ -70,7 +70,13 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-13h ago
+14h ago
+
+---
+
+**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
+
+6h ago
 
 ---
 
@@ -78,7 +84,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-5h ago
+6h ago
 
 ---
 
@@ -90,19 +96,11 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 ---
 
-**[How to design vibratory feeder?](https://www.reddit.com/r/robotics/comments/1rpbr0s/how_to_design_vibratory_feeder/)**
-
-I'm trying to find resources for vibratory feeders design "for bolts" . are these systems designed by try and error or what? :)
-
-1h ago
-
----
-
 **[New Arduino VENTUNO Q, 16GB RAM, Qualcomm 8 core, 40 TOPs](https://www.reddit.com/r/robotics/comments/1rowlcy/new_arduino_ventuno_q_16gb_ram_qualcomm_8_core_40/)**
 
 USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 11h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 12h ago
 
 ---
 
@@ -114,23 +112,13 @@ USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 5h ago
+TechCrunch • 6h ago
 
 ---
 
-**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
+**[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
 
-A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
-
-NPR • 1d ago
-
----
-
-**[ABB boosts RobotStudio with NVIDIA Omniverse libraries](https://www.therobotreport.com/abb-boosts-robotstudio-with-nvidia-omniverse-libraries/)**
-
-ABB Robotics is integrating NVIDIA Omniverse libraries into RobotStudio to enhance robot simulation and streamline real-world deployments.
-
-The Robot Report • 4h ago
+Tech Xplore • 20h ago
 
 ---
 
@@ -138,7 +126,15 @@ The Robot Report • 4h ago
 
 "This was about principle, not people," Kalinowski said in a social media post about her resignation from OpenAI.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
+
+---
+
+**[ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale](https://blogs.nvidia.com/blog/abb-robotics-omniverse/)**
+
+ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor.
+
+NVIDIA Blog • 7h ago
 
 ---
 
@@ -146,7 +142,7 @@ The Robot Report • 3h ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -154,19 +150,7 @@ Yahoo Finance • 5h ago
 
 Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
 
-Modern War Institute - • 13h ago
-
----
-
-**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
-
-Bloomberg.com • 17h ago
-
----
-
-**[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
-
-Tech Xplore • 19h ago
+Modern War Institute - • 14h ago
 
 ---
 
@@ -178,11 +162,25 @@ Engadget • 10h ago
 
 ---
 
+**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
+
+Bloomberg.com • 18h ago
+
+---
+
 **[These robots are coming for the jobs no one wants — and could fill workforce gaps](https://www.businessinsider.com/agility-robotics-humanoid-robots-labor-shortage-aging-workforce-2026-3)**
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
 Business Insider • 1d ago
+
+---
+
+**[Why Richtech Robotics Stock Plummeted by Over 30% Last Month](https://www.fool.com/investing/2026/03/08/why-richtech-robotics-stock-plummeted-by-over-30-l/)**
+
+Several negative developments put quite a hurt on the company's stock.
+
+The Motley Fool • 21h ago
 
 ---
 
@@ -206,7 +204,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 41K • 👍 1K • 💬 81 • ⏱️ 14:51 • 20h ago
+👁️ 41K • 👍 1K • 💬 81 • ⏱️ 14:51 • 21h ago
 
 ---
 
@@ -246,7 +244,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 108 • 👍 16 • 💬 2 • ⏱️ 3:48 • 2h ago
+👁️ 108 • 👍 16 • 💬 2 • ⏱️ 3:48 • 3h ago
 
 ---
 
@@ -266,7 +264,7 @@ Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (d
 
 📺 FUN Robotics Network
 
-👁️ 629 • 👍 33 • ⏱️ 1:13 • 4h ago
+👁️ 629 • 👍 33 • ⏱️ 1:13 • 5h ago
 
 ---
 
@@ -286,7 +284,7 @@ A senior executive at OpenAI has resigned over the company's decision to make it
 
 📺 NPR
 
-👁️ 2K • 👍 348 • 💬 8 • ⏱️ 1:06 • 5h ago
+👁️ 2K • 👍 348 • 💬 8 • ⏱️ 1:06 • 6h ago
 
 ---
 

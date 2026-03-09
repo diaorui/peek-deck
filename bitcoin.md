@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T21:33:52.708732+00:00'
+updated: '2026-03-09T22:30:40.276763+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 21:33 UTC  
+**Last Updated:** March 09, 2026 at 22:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
+**24h:** +4.3%  
 **7d:** +0.9%  
 **30d:** -2.0%  
 **90d:** -25.1%  
@@ -81,7 +81,7 @@ Rank #1
 
 20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
 
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 7h ago
+🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 8h ago
 
 ---
 
@@ -93,27 +93,19 @@ This is why we BITCOIN. More of this to come?
 
 ---
 
-**[20 millionth bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rp0kiv/20_millionth_bitcoin_mined/)**
-
-20 millionth bitcoin was just mined
-
-7h ago
-
----
-
 **[Strategy Acquires 17,994 BTC and Now Holds 738,731 BTC - Biggest Strategy week yet! Nearly 5x their 4-week average.](https://www.reddit.com/r/Bitcoin/comments/1rp0s7h/strategy_acquires_17994_btc_and_now_holds_738731/)**
 
 Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As of 3/8/2026, they hodl 738,731 BTC acquired for ~$56.04 billion at ~$75,862 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 7h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 8h ago
 
 ---
 
-**[Why I feel extremly bullish rn](https://www.reddit.com/r/Bitcoin/comments/1rp6uwc/why_i_feel_extremly_bullish_rn/)**
+**[20 millionth bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rp0kiv/20_millionth_bitcoin_mined/)**
 
-The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
+20 millionth bitcoin was just mined
 
-3h ago
+8h ago
 
 ---
 
@@ -121,33 +113,41 @@ The next halving is getting closer every day (people will start front-running so
 
 Or else I’ll start throwing things
 
-2h ago
+3h ago
+
+---
+
+**[Why I feel extremly bullish rn](https://www.reddit.com/r/Bitcoin/comments/1rp6uwc/why_i_feel_extremly_bullish_rn/)**
+
+The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
+
+4h ago
+
+---
+
+**[Bitcoin Hits 20 Million Mined: Less Than 1 Million Coins Left](https://www.reddit.com/r/Bitcoin/comments/1rpc6z1/bitcoin_hits_20_million_mined_less_than_1_million/)**
+
+Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 1h ago
 
 ---
 
 **[On The Same Day the 20,000,000th Bitcoin is Mined - A Cypherpunk's Manifesto Turns 33](https://www.reddit.com/r/Bitcoin/comments/1rp6voh/on_the_same_day_the_20000000th_bitcoin_is_mined_a/)**
 
-🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 3h ago
+🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 4h ago
 
 ---
 
 **[Why Chamath and Dalio are wrong about bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rp2ay8/why_chamath_and_dalio_are_wrong_about_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Don't Forget What The Canadian Government Did DURY PEACE TIME to Your Bank Accounts - Bitcoin Protects You](https://www.reddit.com/r/Bitcoin/comments/1rp9uhe/dont_forget_what_the_canadian_government_did_dury/)**
 
-2h ago
-
----
-
-**[Why do people say “don’t sell your Bitcoin, borrow against it instead”?](https://www.reddit.com/r/Bitcoin/comments/1romuob/why_do_people_say_dont_sell_your_bitcoin_borrow/)**
-
-I keep hearing this advice to not sell your Bitcoin, just borrow against it. But honestly I don’t fully get why that’s supposed to be better. If you sell BTC after it’s gone up, you’re actually locking in profit. You bought at one price and sold higher, so you walk away with real gains. When you borrow against your Bitcoin though, you’re taking out a loan that you eventually have to pay back plus interest. So in my head it feels like you’re not really gaining money, you’re just accessing cash temporarily and then paying for it later. I get that people want to keep their BTC long term and stay exposed to the price going up, but if the goal is to actually make money, wouldn’t selling a portion make more sense?
-
-20h ago
+3h ago
 
 ---
 
@@ -155,17 +155,25 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 ## Google News: "bitcoin"
 
+**[Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months](https://www.coindesk.com/markets/2026/03/09/bitcoin-could-be-the-big-winner-if-the-u-s-iran-conflict-drags-on-for-months)**
+
+Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
+
+CoinDesk • 6h ago
+
+---
+
 **[Nigel Farage invests £215,000 in Kwasi Kwarteng’s bitcoin firm](https://www.theguardian.com/politics/2026/mar/09/nigel-farage-kwasi-kwarteng-bitcoin-reform-uk-crypto-stack-btc)**
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
 **[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -177,57 +185,47 @@ CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months](https://www.coindesk.com/markets/2026/03/09/bitcoin-could-be-the-big-winner-if-the-u-s-iran-conflict-drags-on-for-months)**
+**[Bitcoin Die-Hard Jack Dorsey Doesn't Like Stablecoins, But Block Will Use Them Anyway](https://finance.yahoo.com/news/bitcoin-die-hard-jack-dorsey-205937630.html)**
 
-Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
-
-CoinDesk • 5h ago
-
----
-
-**[Michael Saylor’s Strategy adds 17,994 Bitcoin for $1.28B (MSTR:NASDAQ)](https://seekingalpha.com/news/4562348-michael-saylors-strategy-adds-17994-bitcoin-for-128b)**
-
-Strategy (MSTR) buys 17,994 more bitcoin for $1.28B, bringing holdings to 738,731 BTC.
-
-Seeking Alpha • 6h ago
-
----
-
-**[Strategy (MSTR) added 17,994 bitcoin last week, bringing total holdings to 738,731 coins](https://www.coindesk.com/markets/2026/03/09/michael-saylor-s-strategy-made-usd1-3-billion-bitcoin-purchase-last-week)**
-
-The company now holds 738,731 bitcoin purchased for about $56 billion and worth roughly $50 billion at the current price just shy of $68,000.
-
-CoinDesk • 9h ago
-
----
-
-**[Strategy buys $1.3 billion of Bitcoin using mostly common stock](https://fortune.com/2026/03/09/michael-saylor-strategy-bitcoin-buy-common-stock/)**
-
-The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
-
-Fortune • 2h ago
-
----
-
-**[Zcash Outpaces Bitcoin Gains as Key Development Team Raises $25 Million](https://finance.yahoo.com/news/zcash-outpaces-bitcoin-gains-key-201911017.html)**
-
-Prominent privacy coin Zcash (ZEC) has jumped 7% over the last day as the Zcash Open Development Lab announced a $25 million fundraise.
+Jack Dorsey has long been Bitcoin-focused. So why is Block building stablecoin support into Cash App?
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Coinbase Launches Regulated Bitcoin And Crypto Futures Across Europe](https://bitcoinmagazine.com/news/coinbase-regulated-bitcoin-futures)**
+**[Bitcoin Has A Golden Opportunity With AI Agents, It's Time To Build](https://bitcoinmagazine.com/technical/bitcoin-has-a-golden-opportunity-with-ai-agents-its-time-to-build)**
 
-Coinbase has launched futures contracts for traders in 26 European countries, including Germany, France, and the Netherlands, marking its first direct derivatives offering in the region.
+Bitcoin finally has a real payments advantage in the world of agentic payments. We all have to pitch in to capitalize on it.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 1h ago
+
+---
+
+**[The Daily: Bitcoin's mined supply tops 20 million BTC, Nasdaq partners with Kraken on tokenization initiative, and more](https://www.theblock.co/post/392896/the-daily-bitcoins-mined-supply-tops-20-million-btc-nasdaq-partners-with-kraken-on-tokenization-initiative-and-more)**
+
+The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+
+The Block • 4h ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 2h ago
+
+---
+
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-2)**
+
+Key PointsHuge price drawdowns are nothing new to the Bitcoin community, and this crypto has always recovered in the past.
+
+Nasdaq • 1d ago
+
+---
+
+**[Bitcoin Price Rises. Why Oil Could Dictate What Happens Next for Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-oil-prices-afaf6eb8?gaa_at=eafs&gaa_n=AWEtsqdgJ-TgoncvuxskLxpqE5BasBunCmlFsv8i0dzhDVR-zo0yamnE3Iyb&gaa_ts=69af4d78&gaa_sig=mXwZBZXFp03LYZhBnSe_1sGr00ELuvEXM8F4lHjXU8aD6uKYDCzRcvzvUaCSZ3V-jKVAYOE5ZCLLOplnLU9IIw%3D%3D)**
+
+Barron's • 3h ago
 
 ---
 
@@ -239,7 +237,7 @@ Bloomberg.com • 5h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 5h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 6h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -248,12 +246,6 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
 ⬆️ 2 • 💬 3 • 1d ago • [satsapi.dev](https://satsapi.dev/)
-
----
-
-**[February 2026: Bitcoin fell 24%. Nothing in crypto infrastructure broke](https://news.ycombinator.com/item?id=47224684)**
-
-⬆️ 2 • 💬 3 • 6d ago • [thefutureofmoney.substack.com](https://thefutureofmoney.substack.com/p/the-monetary-blueprint-6-cryptos)
 
 ---
 
@@ -267,7 +259,7 @@ Complete operating system for Bitcoiners
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 21h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 22h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -275,7 +267,7 @@ Complete operating system for Bitcoiners
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 6h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 7h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -309,6 +301,12 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 ---
 
+**[Bhutan's crypto experiment shows how hard digital money is in the real world](https://news.ycombinator.com/item?id=47235069)**
+
+⬆️ 4 • 💬 0 • 6d ago • [restofworld.org](https://restofworld.org/2026/bhutan-bitcoin-tourism-payment-adoption-failure/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -319,7 +317,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 5K • 👍 109 • 💬 27 • ⏱️ 4:26 • 8h ago
+👁️ 5K • 👍 109 • 💬 27 • ⏱️ 4:26 • 9h ago
 
 ---
 
@@ -329,7 +327,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 5K • 💬 295 • ⏱️ 11:22 • 17h ago
+👁️ 67K • 👍 5K • 💬 295 • ⏱️ 11:22 • 18h ago
 
 ---
 
@@ -339,7 +337,7 @@ Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 131 • 💬 102 • ⏱️ 8:35 • 3h ago
+👁️ 1K • 👍 131 • 💬 102 • ⏱️ 8:35 • 4h ago
 
 ---
 
@@ -379,7 +377,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandle
 
 📺 Frankie Candles 
 
-👁️ 2K • 👍 238 • 3h ago
+👁️ 2K • 👍 238 • 4h ago
 
 ---
 
@@ -389,7 +387,7 @@ Did Bitcoin already put in the bottom, or is this just the start of a longer gri
 
 📺 Swan Bitcoin
 
-👁️ 2K • 👍 118 • 💬 129 • ⏱️ 10:35 • 2h ago
+👁️ 2K • 👍 118 • 💬 129 • ⏱️ 10:35 • 3h ago
 
 ---
 
@@ -399,7 +397,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 929 • 💬 219 • ⏱️ 35:05 • 7h ago
+👁️ 14K • 👍 929 • 💬 219 • ⏱️ 35:05 • 8h ago
 
 ---
 
@@ -409,7 +407,7 @@ Bitcoin is approaching a critical moment, and most traders are looking in the wr
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 749 • 💬 25 • ⏱️ 31:15 • 11h ago
+👁️ 9K • 👍 749 • 💬 25 • ⏱️ 31:15 • 12h ago
 
 ---
 
