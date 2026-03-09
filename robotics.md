@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T22:30:40.286116+00:00'
+updated: '2026-03-09T22:57:45.371128+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 22:30 UTC  
+**Last Updated:** March 09, 2026 at 22:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-11h ago
+12h ago
 
 ---
 
@@ -44,19 +44,19 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
 
-18h ago
+19h ago
 
 ---
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -118,7 +118,7 @@ TechCrunch • 6h ago
 
 **[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
 
-Tech Xplore • 20h ago
+Tech Xplore • 21h ago
 
 ---
 
@@ -126,7 +126,7 @@ Tech Xplore • 20h ago
 
 "This was about principle, not people," Kalinowski said in a social media post about her resignation from OpenAI.
 
-The Robot Report • 4h ago
+The Robot Report • 5h ago
 
 ---
 
@@ -158,7 +158,7 @@ Modern War Institute - • 14h ago
 
 Qualcomm, which purchased microcontroller board manufacturer Arduino last year, just announced a new computer that marries AI with robotics.
 
-Engadget • 10h ago
+Engadget • 11h ago
 
 ---
 
@@ -180,7 +180,7 @@ Business Insider • 1d ago
 
 Several negative developments put quite a hurt on the company's stock.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -194,17 +194,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 683K • 👍 41K • 💬 5K • ⏱️ 16:54 • 6d ago
-
----
-
-**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
-
-OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
-
-📺 AI Revolution
-
-👁️ 41K • 👍 1K • 💬 81 • ⏱️ 14:51 • 21h ago
+👁️ 691K • 👍 41K • 💬 5K • ⏱️ 16:54 • 6d ago
 
 ---
 
@@ -214,7 +204,17 @@ In this project I built a tiny desk companion robot using an ESP32, OLED display
 
 📺 Tech Talkies
 
-👁️ 13K • 👍 509 • 💬 41 • ⏱️ 4:51 • 2d ago
+👁️ 13K • 👍 527 • 💬 41 • ⏱️ 4:51 • 2d ago
+
+---
+
+**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
+
+OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
+
+📺 AI Revolution
+
+👁️ 45K • 👍 1K • 💬 83 • ⏱️ 14:51 • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ It's not just a phone; it's a revolutionary invention that uses advanced actuato
 
 📺 SciVion
 
-👁️ 6K • 👍 218 • 💬 4 • ⏱️ 0:30 • 1d ago
+👁️ 6K • 👍 228 • 💬 4 • ⏱️ 0:30 • 1d ago
 
 ---
 
@@ -234,17 +234,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 22K • 👍 797 • 💬 59 • ⏱️ 14:35 • 4d ago
-
----
-
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
-
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
-
-📺 DPCcars
-
-👁️ 108 • 👍 16 • 💬 2 • ⏱️ 3:48 • 3h ago
+👁️ 23K • 👍 800 • 💬 60 • ⏱️ 14:35 • 4d ago
 
 ---
 
@@ -254,17 +244,7 @@ Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (d
 
 📺 Ticker Symbol: YOU
 
-👁️ 26K • 👍 1K • 💬 103 • ⏱️ 29:53 • 1d ago
-
----
-
-**[Two Sided Intake Differential | 12560 Soft Hoarders | FTC Snapshot](https://www.youtube.com/watch?v=xOg39dqqjjk)**
-
-12560 Soft Hoarders, an Innovate Award winner, showcases a clever engineering solution using one motor to power a two sided ...
-
-📺 FUN Robotics Network
-
-👁️ 629 • 👍 33 • ⏱️ 1:13 • 5h ago
+👁️ 27K • 👍 1K • 💬 113 • ⏱️ 29:53 • 1d ago
 
 ---
 
@@ -274,7 +254,27 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 221K • 👍 2K • 💬 332 • ⏱️ 29:41 • 3d ago
+👁️ 226K • 👍 2K • 💬 335 • ⏱️ 29:41 • 3d ago
+
+---
+
+**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
+
+A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
+
+📺 DPCcars
+
+👁️ 323 • 👍 24 • 💬 2 • ⏱️ 3:48 • 3h ago
+
+---
+
+**[ABB Robotics and NVIDIA join forces on physical AI](https://www.youtube.com/watch?v=CQieVWGIulQ)**
+
+ABB Robotics President Marc Segura explains physical AI and discusses the company's partnership with NVIDIA on 'Varney & Co ...
+
+📺 Fox Business Clips
+
+👁️ 2K • 👍 34 • 💬 5 • ⏱️ 2:09 • 5h ago
 
 ---
 
@@ -284,7 +284,7 @@ A senior executive at OpenAI has resigned over the company's decision to make it
 
 📺 NPR
 
-👁️ 2K • 👍 348 • 💬 8 • ⏱️ 1:06 • 6h ago
+👁️ 3K • 👍 509 • 💬 10 • ⏱️ 1:06 • 6h ago
 
 ---
 

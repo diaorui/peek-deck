@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T22:30:40.282839+00:00'
+updated: '2026-03-09T22:57:45.367951+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 22:30 UTC  
+**Last Updated:** March 09, 2026 at 22:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $244.83B
+**Market Cap:** $241.70B
 Rank #2
 
 **Circulating Supply:** 120,692,045 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.0%
+-59.5%
 
 **All-Time Low:** $0.43
-+467777.2%
++462490.6%
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 4h ago
 
 The competitive world of blockchain technology recently witnessed a historic moment as the Solana network surged past Ethereum in a critical adoption category. For the first time ever, the number of digital wallets holding tokenized real-world assets (RWAs) on Solana exceeded those on its ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 4h ago
 
 The Ethereum-buying firm attributed its full-year performance to the asset’s volatility.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ PR Newswire • 10h ago
 
 The price of Ethereum is up 4% over the last day, rebounding after a weekend slump under $2,000 as BitMine reveals its latest ETH buy.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 8h ago
 
 The firm ramped up the pace of ETH accumulation despite sitting on staggering unrealized losses on its $9 billion crypto holdings.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 160 • ⏱️ 11:32 • 2d ago
+👁️ 49K • 👍 2K • 💬 160 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 123 • 💬 6 • ⏱️ 4:08 • 9h ago
+👁️ 2K • 👍 133 • 💬 6 • ⏱️ 4:08 • 10h ago
 
 ---
 
@@ -256,7 +256,37 @@ BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 7K • 👍 264 • 💬 251 • ⏱️ 17:36 • 1d ago
+👁️ 7K • 👍 265 • 💬 291 • ⏱️ 17:36 • 1d ago
+
+---
+
+**[BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=i7V9o6KPUgs)**
+
+BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 980 • 👍 92 • 💬 201 • ⏱️ 14:42 • 1h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=ZoqsDifBJBo)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 Filmora for Creators
+
+👁️ 2K • 👍 1K • 16m ago
+
+---
+
+**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
+
+GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
+
+📺 Altcoin Daily
+
+👁️ 5K • 👍 447 • 💬 40 • ⏱️ 9:54 • 1h ago
 
 ---
 
@@ -266,17 +296,17 @@ From unboxing to mining Ethereum, my first six-GPU setup was surprisingly simple
 
 📺 VoskCoin
 
-👁️ 1K • 👍 38 • 💬 5 • ⏱️ 0:50 • 10h ago
+👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:50 • 10h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XF7_pP82FFE)**
+**[Stellar Lumens XLM, Why It&#39;s The Institutional Choice Over Ethereum And Solana](https://www.youtube.com/watch?v=HSKyv6fFtyA)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Welcome back ladies and gentlemen Today we are going down the Stellar Lumens XLM rabbit hole once again! Join the Patreon ...
 
-📺 More Crypto Online
+📺 AllinCrypto
 
-👁️ 2K • 👍 139 • 💬 2 • ⏱️ 5:48 • 1d ago
+👁️ 11K • 👍 750 • 💬 171 • ⏱️ 10:45 • 1d ago
 
 ---
 
@@ -286,47 +316,17 @@ Get 30% off your Tangem Wallet + free Bitcoin: ...
 
 📺 Cyber Scrilla
 
-👁️ 19K • 👍 1K • 💬 161 • ⏱️ 11:55 • 1d ago
+👁️ 20K • 👍 1K • 💬 164 • ⏱️ 11:55 • 1d ago
 
 ---
 
-**[BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7bIFSyrYf_0)**
+**[BULLISH SIGNALS FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-094NqkIGg0)**
 
-BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 11K • 👍 316 • 💬 79 • ⏱️ 17:36 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MNJwGxT85E0)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 104 • 💬 3 • ⏱️ 3:59 • 19h ago
-
----
-
-**[JUST IN: Ethereum Co-Founder Moves $157M to Kraken — Is He About to DUMP All His ETH?!](https://www.youtube.com/watch?v=eB3jpWKlZFY)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 2K • 👍 117 • 💬 4 • ⏱️ 20:10 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Upside &amp; Downside Targets | Multiple Time Frame Analysis](https://www.youtube.com/watch?v=yRyq1Kvv2po)**
-
-In this clip from the most recent askSlim Live, Slim provides an analysis update in Bitcoin (BTC) & Ethereum (ETH). Sign up now ...
-
-📺 Steve Miller
-
-👁️ 2K • 👍 109 • 💬 8 • ⏱️ 8:11 • 2d ago
+👁️ 322 • 👍 15 • 💬 2 • ⏱️ 4:29 • 12h ago
 
 ---
 

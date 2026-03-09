@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-09T22:30:40.268235+00:00'
+updated: '2026-03-09T22:57:45.353505+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 09, 2026 at 22:30 UTC  
+**Last Updated:** March 09, 2026 at 22:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 6h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds
 
 Chinese researchers have used AI to determine the chemical composition of the Moon’s far side.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 7h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 8h ago
 
 ---
 
@@ -89,7 +89,7 @@ GitHub: https://github.com/zanfiel/engram Live demo: https://demo.engram.lol/gui
 
 Neuromatch Academy has it's virtual TA applications open until 15 March for their July 2026 courses. NeuroAI (13–24 July) is where we need the most help right now. If you have a background at the intersection of neuroscience and ML/AI, we would love to hear from you! We're also hiring TAs for: - Computational Neuroscience (6–24 July) - Deep Learning (6–24 July) - Computational Tools for Climate Science (13–24 July) These are paid, full-time, temporary roles; compensation is calculated based on your local cost of living. The time commitment is 8hrs/day, Mon–Fri, with no other work or school commitments during that time. But it's also a genuinely rewarding experience! Fully virtual too! To apply you'll need Python proficiency, a relevant background in your chosen course, an undergrad degree, and a 5-minute teaching video (instructions are in the portal; it's less scary than it sounds, I promise!). If you've taken a Neuromatch course before, you're especially encouraged to apply. Past students make great TAs! Deadline: 15 March All the details: https://neuromatch.io/become-a-teaching-assistant/ Pay calculator: https://neuromatchacademy.github.io/widgets/ta_cola.html Drop any questions below!
 
-57m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Neuromatch Academy has it's virtual TA applications open until 15 March for thei
 
 Hey everyone! I have been developing CodeGraphContext, an open-source MCP server transforming code into a symbol-level code graph, as opposed to text-based code analysis. This means that AI agents won’t be sending entire code blocks to the model, but can retrieve context via: function calls, imported modules, class inheritance, file dependencies etc. This allows AI agents (and humans!) to better grasp how code is internally connected. What it does CodeGraphContext analyzes a code repository, generating a code graph of: files, functions, classes, modules and their relationships, etc. AI agents can then query this graph to retrieve only the relevant context, reducing hallucinations. Playground Demo on website I've also added a playground demo that lets you play with small repos directly. You can load a project from: a local code folder, a GitHub repo, a GitLab repo Everything runs on the local client browser. For larger repos, it’s recommended to get the full version from pip or Docker. Additionally, the playground lets you visually explore code links and relationships. I’m also adding support for architecture diagrams and chatting with the codebase. Status so far- ⭐ ~1.5k GitHub stars 🍴 350+ forks 📦 100k+ downloads combined If you’re building AI dev tooling, MCP servers, or code intelligence systems, I’d love your feedback. Repo: https://github.com/CodeGraphContext/CodeGraphContext
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ If you're using an AI agent that reads and responds to email (think auto-replies
 
 TL; DR: we built a platform that indexes your wandb projects and past experiments and makes it easy for AI agents to analyze and generate new promising hypotheses and experiments. We built new algorithms to be able to ingest and index raw, unstructured, and multi-modal research data and make it available for AI agents. This makes it easy for AI agents to analyze past experimental data to plan and execute new, high quality and diverse research tasks or experiments towards your project goals. It's free so please check it out (https://www.myluca.ai) and let us know what you think. DMs at open. If people are interested, should we work on a Python SDK so that you can bring your own agents (clawed or otherwise)?
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ OpenAI • 5h ago
 
 Promptfoo's team will join Sam Altman-led OpenAI, and its technology will be integrated into the Frontier platform for AI agents.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNBC • 3h ago
 
 This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.
 
-TechCrunch • 4h ago
+TechCrunch • 5h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Guardian • 1h ago
 
 **[Exclusive: Qevlar AI raises $30M to help security operations](https://www.axios.com/pro/enterprise-software-deals/2026/03/09/qevlar-ai-security-operations-autonomous)**
 
-Axios • 19m ago
+Axios • 46m ago
 
 ---
 
@@ -171,7 +171,7 @@ Axios • 19m ago
 
 From the daily newsletter: people are turning to digital companions as antidotes to loneliness—confiding in them, finding sexual gratification, and even “marrying” them.
 
-The New Yorker • 20m ago
+The New Yorker • 47m ago
 
 ---
 
@@ -193,7 +193,7 @@ The New York Times • 6h ago
 
 Anthropic's partnerships with Amazon and Palantir helped it make inroads into the DOD, and its blacklisting is concerning to many industry experts.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -265,7 +265,7 @@ Tech News News: Meta CEO Mark Zuckerberg is establishing a new applied AI engine
 
 Exclusive: Rented datacentres and unrealised supercomputer site raise questions for Starmer’s push to ‘mainline AI into veins of economy’
 
-⬆️ 79 • 💬 44 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
+⬆️ 79 • 💬 44 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
 
 ---
 
@@ -281,23 +281,23 @@ Studies find AI helps developers release more software—while logging longer ho
 
 ## YouTube Videos: "ai"
 
-**[Claude JUST became AWARE](https://www.youtube.com/watch?v=mA8C55NLYzw)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 72K • 👍 3K • 💬 652 • ⏱️ 27:28 • 18h ago
-
----
-
 **[Yikes.](https://www.youtube.com/watch?v=_Ux13UEqIYo)**
 
 Early March of 2026 became a defining moment in world history. For the first time AI was used in a major military operation, but ...
 
 📺 ColdFusion
 
-👁️ 161K • 👍 13K • 💬 2K • ⏱️ 16:53 • 8h ago
+👁️ 225K • 👍 16K • 💬 2K • ⏱️ 16:53 • 8h ago
+
+---
+
+**[Claude JUST became AWARE](https://www.youtube.com/watch?v=mA8C55NLYzw)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 77K • 👍 3K • 💬 680 • ⏱️ 27:28 • 18h ago
 
 ---
 
@@ -307,7 +307,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCtiec
 
 📺 Legal Mindset
 
-👁️ 21K • 👍 1K • 💬 420 • ⏱️ 8:41 • 9h ago
+👁️ 24K • 👍 1K • 💬 433 • ⏱️ 8:41 • 9h ago
 
 ---
 
@@ -317,27 +317,17 @@ OpenAI just released a system called Symphony that can send AI agents to complet
 
 📺 AI Revolution
 
-👁️ 47K • 👍 1K • 💬 87 • ⏱️ 14:19 • 1d ago
+👁️ 48K • 👍 1K • 💬 87 • ⏱️ 14:19 • 2d ago
 
 ---
 
-**[This NEW Chinese AI Model is INSANE!](https://www.youtube.com/watch?v=7JdUDyidwpg)**
+**[Congress Isn’t Ready for AI ft. Senator Bernie Sanders I Shane Smith Has Questions](https://www.youtube.com/watch?v=-lnMPy2tIsU)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+Shane Smith sits down with Senator Bernie Sanders for a conversation that cuts straight to the heart of America's biggest crisis ...
 
-📺 Julian Goldie SEO
+📺 VICE News
 
-👁️ 7K • 👍 179 • 💬 18 • ⏱️ 8:39 • 15h ago
-
----
-
-**[Stop Vibe Coding! Build Real Apps with Rork Max AI (Full Guide)](https://www.youtube.com/watch?v=ZFBpnV-1dXo)**
-
-Build Real Apps with Rork https://rork.com/?ref=mikey Stay Updated: https://mikeyno-code.com/newsletter In this video, I break ...
-
-📺 Mikey No Code
-
-👁️ 12K • 💬 5 • ⏱️ 24:32 • 8h ago
+👁️ 6K • 👍 340 • 💬 85 • ⏱️ 38:35 • 6h ago
 
 ---
 
@@ -347,17 +337,27 @@ The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jord
 
 📺 The Young Turks
 
-👁️ 44K • 👍 1K • 💬 463 • ⏱️ 3:52 • 21h ago
+👁️ 45K • 👍 1K • 💬 469 • ⏱️ 3:52 • 21h ago
 
 ---
 
-**[Google&#39;s Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down](https://www.youtube.com/watch?v=V-tnHdvf7j4)**
+**[LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](https://www.youtube.com/watch?v=KRE8JqTAEQk)**
 
-Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It Down Google's own founder announced ...
+HUGE AI NEWS: Qwen 3.5, LTX 2.3, Kiwi Edit, HY WU, FireRed 1.1, CUDA agent & more #ai #ainews #aitools #aivideo #agi ...
 
-📺 Spacialize
+📺 AI Search
 
-👁️ 61K • 👍 2K • 💬 393 • ⏱️ 21:16 • 3d ago
+👁️ 68K • 👍 3K • 💬 300 • ⏱️ 39:12 • 1d ago
+
+---
+
+**[What Happens to Elon Musk When AI and Bitcoin Collapse?](https://www.youtube.com/watch?v=dfkXw9hps8E)**
+
+Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.stevekeen.com/?video=dfkXw9hps8E (Apply this ...
+
+📺 ProfSteveKeen
+
+👁️ 24K • 👍 1K • 💬 248 • ⏱️ 13:37 • 1d ago
 
 ---
 
@@ -367,17 +367,17 @@ What if the Teenage Mutant Ninja Turtles wandered into the woods of The Blair Wi
 
 📺 Ai of Euphoria 
 
-👁️ 5K • 👍 286 • 💬 34 • ⏱️ 2:04 • 17h ago
+👁️ 7K • 👍 338 • 💬 39 • ⏱️ 2:04 • 17h ago
 
 ---
 
-**[Wave of A.I. job losses worsens career loss fears | 9 News Australia](https://www.youtube.com/watch?v=YveS9BsFP9w)**
+**[‘I’m in Love With My AI Octopus Boyfriend… We Even Get Intimate’ | This Morning](https://www.youtube.com/watch?v=-AjpCru_lVE)**
 
-What has turned into a Tsunami of A.I. job losses has caused many to fear that their careers will disappear within five years.
+Tinder, Hinge and Raya might dominate the dating world, but our next guest has decided to ditch humans altogether for an AI ...
 
-📺 9 News Australia
+📺 This Morning
 
-👁️ 18K • 👍 167 • 💬 57 • ⏱️ 2:36 • 13h ago
+👁️ 4K • 👍 89 • 💬 37 • ⏱️ 13:23 • 10h ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,010,141 • ❤️ 639 • 7d ago
+⬇️ 1,010,141 • ❤️ 644 • 7d ago
 
 ---
 
@@ -405,7 +405,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 221,340 • ❤️ 396 • 4d ago
+⬇️ 221,340 • ❤️ 399 • 4d ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 15,720 • ❤️ 304 • 1d ago
+⬇️ 15,720 • ❤️ 307 • 1d ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,192,631 • ❤️ 1,058 • 10d ago
+⬇️ 1,192,631 • ❤️ 1,059 • 10d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 460,827 • ❤️ 340 • 7d ago
+⬇️ 460,827 • ❤️ 341 • 7d ago
 
 ---
 
@@ -453,7 +453,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 90,190 • ❤️ 237 • 5d ago
+⬇️ 90,190 • ❤️ 238 • 5d ago
 
 ---
 
@@ -489,7 +489,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 1,389 • ❤️ 188 • 3d ago
+⬇️ 1,389 • ❤️ 189 • 3d ago
 
 ---
 
@@ -531,7 +531,7 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 145 • 💬 5 • ⭐ 919 • 5d ago
+▲ 146 • 💬 5 • ⭐ 919 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -588,18 +588,6 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 45 • 💬 2 • ⭐ 49,144 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 **[Cautious Weight Decay](https://huggingface.co/papers/2510.12402)**
 
 *Lizhang Chen, Jonathan Li, Kaizhao Liang et al. (9 authors)*
@@ -611,6 +599,18 @@ Cautious Weight Decay (CWD) enhances optimizer performance by applying weight de
 ▲ 9 • 💬 8 • ⭐ 455 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12402) • [💻 code](https://github.com/google-deepmind/simply) • [🔗 project](https://elm.baulab.info)
+
+---
+
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+▲ 45 • 💬 2 • ⭐ 49,179 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -637,7 +637,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Penguin-VL demonstrates that text-only initialized vision encoders can achieve superior performance in multimodal understanding tasks compared to traditional contrastive pretraining methods, enabling efficient deployment on resource-constrained devices.
 
-▲ 70 • 💬 3 • ⭐ 57 • 3d ago
+▲ 73 • 💬 3 • ⭐ 57 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.06569) • [💻 code](https://github.com/tencent-ailab/Penguin-VL) • [🔗 project](https://penguin-vl.github.io)
 
@@ -653,7 +653,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.2k • 🔱 3.2k • 4h ago
+⭐ 25.3k • 🔱 3.2k • 56m ago
 
 ---
 
@@ -663,7 +663,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 17.1k • 🔱 670 • 2h ago
+⭐ 17.2k • 🔱 680 • 48m ago
 
 ---
 
@@ -673,7 +673,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 15.2k • 🔱 2.0k • 3h ago
+⭐ 15.8k • 🔱 2.0k • 3h ago
 
 ---
 
@@ -693,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.7k • 🔱 551 • 10h ago
+⭐ 7.7k • 🔱 553 • 10h ago
 
 ---
 
@@ -713,7 +713,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 6.7k • 🔱 561 • 4d ago
+⭐ 6.7k • 🔱 564 • 4d ago
 
 ---
 
@@ -723,7 +723,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.0k • 🔱 718 • 19h ago
+⭐ 6.1k • 🔱 719 • 20h ago
 
 ---
 
@@ -733,7 +733,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 405 • 8h ago
+⭐ 3.7k • 🔱 405 • 9h ago
 
 ---
 
@@ -743,7 +743,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.6k • 🔱 256 • 8h ago
+⭐ 3.6k • 🔱 256 • 9h ago
 
 ---
 

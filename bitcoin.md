@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T22:30:40.276763+00:00'
+updated: '2026-03-09T22:57:45.362007+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 22:30 UTC  
+**Last Updated:** March 09, 2026 at 22:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1378.71B
+**Market Cap:** $1373.05B
 Rank #1
 
-**Circulating Supply:** 20,000,068 BTC
+**Circulating Supply:** 20,000,106 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.4%
+-45.5%
 
 **All-Time Low:** $67.81
-+101492.7%
++101166.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
 
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 8h ago
+🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 9h ago
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ This is why we BITCOIN. More of this to come?
 
 Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As of 3/8/2026, they hodl 738,731 BTC acquired for ~$56.04 billion at ~$75,862 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 8h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 9h ago
 
 ---
 
@@ -105,7 +105,7 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 20 millionth bitcoin was just mined
 
-8h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ Or else I’ll start throwing things
 
 The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
 
-4h ago
+5h ago
 
 ---
 
@@ -129,19 +129,19 @@ The next halving is getting closer every day (people will start front-running so
 
 Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 1h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 2h ago
 
 ---
 
 **[On The Same Day the 20,000,000th Bitcoin is Mined - A Cypherpunk's Manifesto Turns 33](https://www.reddit.com/r/Bitcoin/comments/1rp6voh/on_the_same_day_the_20000000th_bitcoin_is_mined_a/)**
 
-🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 4h ago
+🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 5h ago
 
 ---
 
 **[Why Chamath and Dalio are wrong about bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rp2ay8/why_chamath_and_dalio_are_wrong_about_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Guardian • 4h ago
 
 **[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -181,7 +181,7 @@ Reuters • 11h ago
 
 Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin finally has a real payments advantage in the world of agentic payments. We all have to pitch in to capitalize on it.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ Bitcoin Magazine • 1h ago
 
 The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -267,7 +267,7 @@ Complete operating system for Bitcoiners
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 7h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 8h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -283,7 +283,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 A portable encrypted USB vault with a dead man's switch. Your passwords, financial accounts, crypto wallets, and goodbye messages -- delivered to the people you choose, automatically.
 
-⬆️ 2 • 💬 2 • 6d ago • [DeadSwitch](https://dead-switch.com/)
+⬆️ 2 • 💬 2 • 7d ago • [DeadSwitch](https://dead-switch.com/)
 
 ---
 
@@ -317,77 +317,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 5K • 👍 109 • 💬 27 • ⏱️ 4:26 • 9h ago
-
----
-
-**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=9uAVH56iJwk)**
-
-After discussing it for weeks, Bitcoin had the rally into early March that was then subsequently sold off, just like prior midterm year ...
-
-📺 Benjamin Cowen
-
-👁️ 67K • 👍 5K • 💬 295 • ⏱️ 11:22 • 18h ago
-
----
-
-**[MASSIVE Bitcoin Buying Opportunity RIGHT NOW! Bitcoin RALLYING As Stocks CRASH!](https://www.youtube.com/watch?v=Kn3tTy_YOuQ)**
-
-Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you fund your account!
-
-📺 Crypto Jebb
-
-👁️ 1K • 👍 131 • 💬 102 • ⏱️ 8:35 • 4h ago
-
----
-
-**[Is The U.S. Government CRASHING Bitcoin?](https://www.youtube.com/watch?v=05qgjtK0ls0)**
-
-Bitcoin keeps crashing right after major US government announcements. Coincidence or something bigger? Massive Bitcoin ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 193 • ⏱️ 14:03 • 23h ago
-
----
-
-**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 34K • 👍 3K • 💬 345 • ⏱️ 10:01 • 1d ago
-
----
-
-**[Trump Just BROKE the Petrodollar (Bitcoin Repricing IMMINENT!)](https://www.youtube.com/watch?v=-8lS8eunbNo)**
-
-Global tensions, oil politics, and the petrodollar system may be colliding in real time. As geopolitical pressure builds and fiat ...
-
-📺 Simply Bitcoin
-
-👁️ 29K • 👍 2K • 💬 181 • ⏱️ 15:47 • 2d ago
-
----
-
-**[Bitcoin Just Bounced From a CRITICAL Level! Reversal or Trap?](https://www.youtube.com/watch?v=6QgKWwl1dOg)**
-
-Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandles ...
-
-📺 Frankie Candles 
-
-👁️ 2K • 👍 238 • 4h ago
-
----
-
-**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
-
-Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
-
-📺 Swan Bitcoin
-
-👁️ 2K • 👍 118 • 💬 129 • ⏱️ 10:35 • 3h ago
+👁️ 7K • 👍 114 • 💬 70 • ⏱️ 4:26 • 9h ago
 
 ---
 
@@ -397,7 +327,57 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 929 • 💬 219 • ⏱️ 35:05 • 8h ago
+👁️ 16K • 👍 993 • 💬 313 • ⏱️ 35:05 • 8h ago
+
+---
+
+**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
+
+Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
+
+📺 Swan Bitcoin
+
+👁️ 5K • 👍 220 • 💬 163 • ⏱️ 10:35 • 4h ago
+
+---
+
+**[MASSIVE Bitcoin Buying Opportunity RIGHT NOW! Bitcoin RALLYING As Stocks CRASH!](https://www.youtube.com/watch?v=Kn3tTy_YOuQ)**
+
+Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you fund your account!
+
+📺 Crypto Jebb
+
+👁️ 2K • 👍 176 • 💬 114 • ⏱️ 8:35 • 4h ago
+
+---
+
+**[Is The U.S. Government CRASHING Bitcoin?](https://www.youtube.com/watch?v=05qgjtK0ls0)**
+
+Bitcoin keeps crashing right after major US government announcements. Coincidence or something bigger? Massive Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 196 • ⏱️ 14:03 • 1d ago
+
+---
+
+**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=9uAVH56iJwk)**
+
+After discussing it for weeks, Bitcoin had the rally into early March that was then subsequently sold off, just like prior midterm year ...
+
+📺 Benjamin Cowen
+
+👁️ 72K • 👍 5K • 💬 309 • ⏱️ 11:22 • 18h ago
+
+---
+
+**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 35K • 👍 3K • 💬 345 • ⏱️ 10:01 • 1d ago
 
 ---
 
@@ -407,7 +387,27 @@ Bitcoin is approaching a critical moment, and most traders are looking in the wr
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 749 • 💬 25 • ⏱️ 31:15 • 12h ago
+👁️ 9K • 👍 758 • 💬 25 • ⏱️ 31:15 • 13h ago
+
+---
+
+**[This EXACT CRYPTO Pattern Happened Last Cycle (Global Uncertainty Just Hit An ALL TIME HIGH)](https://www.youtube.com/watch?v=5VR_QiqvW1E)**
+
+Use our institutional grade risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai ...
+
+📺 Dan Gambardello
+
+👁️ 13K • 👍 853 • 💬 291 • ⏱️ 16:14 • 1d ago
+
+---
+
+**[the most important video on bitcoin i will ever make....](https://www.youtube.com/watch?v=f-4Rs3Sqlhc)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 5K • 👍 554 • 💬 235 • ⏱️ 10:02 • 2h ago
 
 ---
 
