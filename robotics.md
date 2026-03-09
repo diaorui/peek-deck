@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T22:57:45.371128+00:00'
+updated: '2026-03-09T23:35:28.740482+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 22:57 UTC  
+**Last Updated:** March 09, 2026 at 23:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,15 +54,15 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 ---
 
-**[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
+**[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-2h ago
+5h ago
 
 ---
 
-**[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
+**[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-4h ago
+2h ago
 
 ---
 
@@ -70,13 +70,13 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-14h ago
+15h ago
 
 ---
 
 **[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -84,7 +84,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-6h ago
+7h ago
 
 ---
 
@@ -96,11 +96,11 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 ---
 
-**[New Arduino VENTUNO Q, 16GB RAM, Qualcomm 8 core, 40 TOPs](https://www.reddit.com/r/robotics/comments/1rowlcy/new_arduino_ventuno_q_16gb_ram_qualcomm_8_core_40/)**
+**[Help Using Unity Robotics for Joints and VR](https://www.reddit.com/r/robotics/comments/1rpghry/help_using_unity_robotics_for_joints_and_vr/)**
 
-USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
+My friend and I are working on a project in which we have already modeled a robotic arm that we want to be able to control by moving a replica of it in VR mixed reality. I have been able to transfer the solidworks file to unity by moving it to blender as an stl and exporting it again. However, I can't seem to get hand interaction to work with the robot, or the joints to properly be set up so the arm moves as it should. Does anyone have any experience with this who would be willing to share? Attached is our model of the arm. https://preview.redd.it/zq3rgiq9t3og1.jpg?width=4032&format=pjpg&auto=webp&s=c2af110d5a51b80415f8432356795aca94ac5930
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 12h ago
+7m ago
 
 ---
 
@@ -112,7 +112,7 @@ USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -122,11 +122,11 @@ Tech Xplore • 21h ago
 
 ---
 
-**[OpenAI robotics head resigns over Pentagon deal](https://www.therobotreport.com/openai-robotics-head-resigns-over-pentagon-deal/)**
+**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
 
-"This was about principle, not people," Kalinowski said in a social media post about her resignation from OpenAI.
+A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-The Robot Report • 5h ago
+NPR • 1d ago
 
 ---
 
@@ -134,7 +134,7 @@ The Robot Report • 5h ago
 
 ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor.
 
-NVIDIA Blog • 7h ago
+NVIDIA Blog • 8h ago
 
 ---
 
@@ -142,7 +142,7 @@ NVIDIA Blog • 7h ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -150,21 +150,13 @@ Yahoo Finance • 1h ago
 
 Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
 
-Modern War Institute - • 14h ago
-
----
-
-**[Qualcomm's new Arduino Ventuno Q is an AI-focused computer designed for robotics](https://www.engadget.com/ai/qualcomms-new-arduino-ventuno-q-is-an-ai-focused-computer-designed-for-robotics-113047697.html)**
-
-Qualcomm, which purchased microcontroller board manufacturer Arduino last year, just announced a new computer that marries AI with robotics.
-
-Engadget • 11h ago
+Modern War Institute - • 15h ago
 
 ---
 
 **[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -180,7 +172,15 @@ Business Insider • 1d ago
 
 Several negative developments put quite a hurt on the company's stock.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
+
+---
+
+**[ABB Robotics president Marc Segura on physical AI partnership with NVIDIA](https://www.foxbusiness.com/video/6390634538112)**
+
+ABB Robotics President Marc Segura explains physical AI and discusses the company's partnership with NVIDIA on 'Varney &  Co.'
+
+Fox Business • 7h ago
 
 ---
 
@@ -214,7 +214,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 83 • ⏱️ 14:51 • 22h ago
+👁️ 45K • 👍 1K • 💬 83 • ⏱️ 14:51 • 23h ago
 
 ---
 
@@ -264,7 +264,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 323 • 👍 24 • 💬 2 • ⏱️ 3:48 • 3h ago
+👁️ 323 • 👍 24 • 💬 2 • ⏱️ 3:48 • 4h ago
 
 ---
 
@@ -274,7 +274,7 @@ ABB Robotics President Marc Segura explains physical AI and discusses the compan
 
 📺 Fox Business Clips
 
-👁️ 2K • 👍 34 • 💬 5 • ⏱️ 2:09 • 5h ago
+👁️ 2K • 👍 34 • 💬 5 • ⏱️ 2:09 • 6h ago
 
 ---
 
@@ -284,7 +284,7 @@ A senior executive at OpenAI has resigned over the company's decision to make it
 
 📺 NPR
 
-👁️ 3K • 👍 509 • 💬 10 • ⏱️ 1:06 • 6h ago
+👁️ 3K • 👍 509 • 💬 10 • ⏱️ 1:06 • 7h ago
 
 ---
 

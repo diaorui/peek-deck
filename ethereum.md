@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T22:57:45.367951+00:00'
+updated: '2026-03-09T23:35:28.737271+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 22:57 UTC  
+**Last Updated:** March 09, 2026 at 23:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,043.03
+### $2,009.17
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.5%  
-**7d:** +2.0%  
-**30d:** -3.2%  
-**90d:** -39.1%  
-**1y:** +8.1%  
+**24h:** +2.5%  
+**7d:** +0.8%  
+**30d:** -4.3%  
+**90d:** -39.8%  
+**1y:** +6.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec...3d6b, deployed in August 2015, just weeks after mainnet launch. The entire contract is one function: set(string). It stores a single string in public storage. That is it. What is interesting is the bytecode. It was compiled with solc v0.1.1, the earliest Solidity compiler that exists. I was able to reproduce the exact bytecode byte-for-byte using that compiler. The output matches the on-chain code perfectly. Contracts from this era are fascinating because Solidity was still being invented. No events, no modifiers, no constructors as we know them. Just raw storage writes. The compiler output is so small you can read the opcodes manually. The deployer (0x8674...94e2) deployed 18 contracts in the same week, all in the 52,000-55,000 block range. Looks like someone was experimenting heavily with what Solidity could do. If anyone is interested in early Ethereum archaeology, ethereumhistory.com is documenting contracts from this period with verified source code and compiler proofs. Edit: here is the contract page on Ethereum History.
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In September 2015, six weeks after mainnet launch, someone deployed three contracts that became Ethereum's first naming infrastructure: GlobalRegistrar, HashReg, and UrlHint. Block 282,880 — September 24, 2015 The GlobalRegistrar mapped names to addresses. HashReg mapped code hashes to content hashes. UrlHint mapped content hashes to URLs for metadata retrieval. Together they formed the NatSpec documentation system — the mechanism that was supposed to let Ethereum wallets display human-readable descriptions before signing transactions. The system was hardcoded directly into go-ethereum v1.4.0 (common/registrar/registrar.go). Not an optional plugin. Core infrastructure. The frozen TODO that became ENS Inside the GlobalRegistrar source code (verified on Etherscan, compiled with solc v0.1.1), there's a comment that reads: // TODO: bidding mechanism That comment sat frozen for years. The ambition was there — first-come-first-served registration was always meant to be a placeholder. The bidding mechanism didn't arrive until ENS launched in May 2017, when Vickrey auctions replaced the naive assignment system. ENS didn't appear from nowhere. It solved the exact problem the GlobalRegistrar identified and couldn't finish. The three-contract system All three contracts were deployed by the same address within 18 blocks: - GlobalRegistrar: block 282,880 - HashReg: block 282,885 (5 blocks later) - UrlHint: block 282,898 (18 blocks after start) The deployer identity isn't confirmed — likely a go-ethereum core developer given the contracts were shipped alongside the go-ethereum codebase — but we haven't pinned the address to a name yet. Why it matters Every .eth name you resolve today is the descendant of that frozen TODO comment from 2015. The naming problem was understood from week six. It took two more years to solve it properly. We documented all three contracts on EthereumHistory.com last night. The verified source code, links to go-ethereum v1.4.0, and the full historical context are there if you want to dig deeper. Cross-posted from our ongoing archaeology of early mainnet contracts. If you deployed or used these contracts in 2015, we'd love to hear the story.
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ In September 2015, six weeks after mainnet launch, someone deployed three contra
 
 MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
 
-🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 8h ago
+🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 9h ago
 
 ---
 
@@ -150,27 +150,33 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
+
+Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
+
+PR Newswire • 11h ago
+
+---
+
+**['Mini crypto winter' nearly over, says Tom Lee as Bitmine ramps up pace of ether acquisition](https://www.coindesk.com/business/2026/03/09/mini-crypto-winter-nearly-over-says-tom-lee-as-bitmine-ramps-up-pace-of-ether-acquisition)**
+
+The firm ramped up the pace of ETH accumulation despite sitting on staggering unrealized losses on its $9 billion crypto holdings.
+
+CoinDesk • 9h ago
+
+---
+
+**[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
+
+Seeking Alpha • 14h ago
+
+---
+
 **[Ethereum's In A 'Death Spiral,' Report Says—And Co-Founder Vitalik Buterin Seems To Agree](https://www.benzinga.com/markets/prediction-markets/26/03/51108851/ethereums-in-a-death-spiral-report-says-and-co-founder-vitalik-buterin-seems-to-agree)**
 
 Culper Research published a short report on Ethereum (CRYPTO: ETH) on Thursday, calling its economics &#8220;impaired&#8221; and warning the network m
 
 Benzinga • 3d ago
-
----
-
-**[Coinbase Debuts Crypto Futures for European Traders, Including Bitcoin and Ethereum](https://finance.yahoo.com/news/coinbase-debuts-crypto-futures-european-182144462.html)**
-
-Coinbase launched regulated crypto futures in 26 European countries, offering perpetual and dated contracts with up to 10x leverage.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Solana reaches historic milestone against Ethereum in RWA market](https://finance.yahoo.com/news/solana-reaches-historic-milestone-against-175522826.html)**
-
-The competitive world of blockchain technology recently witnessed a historic moment as the Solana network surged past Ethereum in a critical adoption category. For the first time ever, the number of digital wallets holding tokenized real-world assets (RWAs) on Solana exceeded those on its ...
-
-Yahoo Finance • 5h ago
 
 ---
 
@@ -188,30 +194,6 @@ Binance • 2d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
-
-Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
-
-PR Newswire • 10h ago
-
----
-
-**[Ethereum Rises to $2,000 as Tom Lee's BitMine Tops Up $9 Billion ETH Treasury](https://finance.yahoo.com/news/ethereum-rises-2-000-tom-135631681.html)**
-
-The price of Ethereum is up 4% over the last day, rebounding after a weekend slump under $2,000 as BitMine reveals its latest ETH buy.
-
-Yahoo Finance • 9h ago
-
----
-
-**['Mini crypto winter' nearly over, says Tom Lee as Bitmine ramps up pace of ether acquisition](https://www.coindesk.com/business/2026/03/09/mini-crypto-winter-nearly-over-says-tom-lee-as-bitmine-ramps-up-pace-of-ether-acquisition)**
-
-The firm ramped up the pace of ETH accumulation despite sitting on staggering unrealized losses on its $9 billion crypto holdings.
-
-CoinDesk • 9h ago
-
----
-
 **[Where Will Ethereum Be in 2030?](https://www.fool.com/investing/2026/03/08/where-will-ethereum-be-in-2030/)**
 
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
@@ -220,9 +202,27 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
+**[Why Did Bitcoin Price Crash To $67,000, And Ethereum Price Fell Below $2,000?](https://www.tradingview.com/news/newsbtc:9fd29b008094b:0-why-did-bitcoin-price-crash-to-67-000-and-ethereum-price-fell-below-2-000/)**
 
-Seeking Alpha • 13h ago
+Bitcoin’s rally back to the mid-$73,000 region did not last long as the leading cryptocurrency’s price action reversed as the week came to a close and fell back around $67,000 after momentarily regaining momentum last week, pulling Ethereum down with it till the ETH price also lost the $2,000 price…
+
+TradingView • 3h ago
+
+---
+
+**[Current price of Ethereum for March 9, 2026](https://fortune.com/article/price-of-ethereum-03-09-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 9h ago
+
+---
+
+**[New Crypto: Ethereum Based Crypto Pepeto Announces Presale Stage Sold Out in 48 Hours and XRP Price Prediction](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-crypto-pepeto-announces-presale-stage-sold-out-in-48-hours-and-xrp-price-prediction-1035911463)**
+
+Dubai, UAE, March  09, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just announced that the latest presale stage sold out in under 48 ho...
+
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Filmora for Creators
 
-👁️ 2K • 👍 1K • 16m ago
+👁️ 2K • 👍 1K • 54m ago
 
 ---
 
@@ -296,7 +296,7 @@ From unboxing to mining Ethereum, my first six-GPU setup was surprisingly simple
 
 📺 VoskCoin
 
-👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:50 • 10h ago
+👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:50 • 11h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 322 • 👍 15 • 💬 2 • ⏱️ 4:29 • 12h ago
+👁️ 322 • 👍 15 • 💬 2 • ⏱️ 4:29 • 13h ago
 
 ---
 

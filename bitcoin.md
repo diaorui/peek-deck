@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T22:57:45.362007+00:00'
+updated: '2026-03-09T23:35:28.731247+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 22:57 UTC  
+**Last Updated:** March 09, 2026 at 23:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +4.3%  
-**7d:** +0.9%  
-**30d:** -2.0%  
-**90d:** -25.1%  
-**1y:** -12.3%  
+**24h:** +3.4%  
+**7d:** +0.5%  
+**30d:** -2.5%  
+**90d:** -25.4%  
+**1y:** -12.7%  
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 Or else I’ll start throwing things
 
-3h ago
+4h ago
 
 ---
 
@@ -139,15 +139,15 @@ Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 m
 
 ---
 
-**[Why Chamath and Dalio are wrong about bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rp2ay8/why_chamath_and_dalio_are_wrong_about_bitcoin/)**
+**[Don't Forget What The Canadian Government Did DURY PEACE TIME to Your Bank Accounts - Bitcoin Protects You](https://www.reddit.com/r/Bitcoin/comments/1rp9uhe/dont_forget_what_the_canadian_government_did_dury/)**
 
-8h ago
+4h ago
 
 ---
 
-**[Don't Forget What The Canadian Government Did DURY PEACE TIME to Your Bank Accounts - Bitcoin Protects You](https://www.reddit.com/r/Bitcoin/comments/1rp9uhe/dont_forget_what_the_canadian_government_did_dury/)**
+**[Why Chamath and Dalio are wrong about bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rp2ay8/why_chamath_and_dalio_are_wrong_about_bitcoin/)**
 
-3h ago
+8h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 m
 
 Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -167,29 +167,21 @@ CoinDesk • 6h ago
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 4h ago
+The Guardian • 1h ago
+
+---
+
+**[Nigel Farage takes stake in bitcoin company run by Kwasi Kwarteng](https://www.ft.com/content/1518dcd2-a11e-435b-b447-8b04957fa46d)**
+
+Reform UK leader invests £215,000 in Stack Bitcoin
+
+Financial Times • 15h ago
 
 ---
 
 **[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
 Reuters • 12h ago
-
----
-
-**[Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC](https://www.coindesk.com/business/2026/03/09/nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc)**
-
-Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
-
-CoinDesk • 13h ago
-
----
-
-**[Bitcoin Die-Hard Jack Dorsey Doesn't Like Stablecoins, But Block Will Use Them Anyway](https://finance.yahoo.com/news/bitcoin-die-hard-jack-dorsey-205937630.html)**
-
-Jack Dorsey has long been Bitcoin-focused. So why is Block building stablecoin support into Cash App?
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -201,31 +193,41 @@ Bitcoin Magazine • 2h ago
 
 ---
 
-**[The Daily: Bitcoin's mined supply tops 20 million BTC, Nasdaq partners with Kraken on tokenization initiative, and more](https://www.theblock.co/post/392896/the-daily-bitcoins-mined-supply-tops-20-million-btc-nasdaq-partners-with-kraken-on-tokenization-initiative-and-more)**
+**[Bitcoin Die-Hard Jack Dorsey Doesn't Like Stablecoins, But Block Will Use Them Anyway](https://finance.yahoo.com/news/bitcoin-die-hard-jack-dorsey-205937630.html)**
 
-The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+Jack Dorsey has long been Bitcoin-focused. So why is Block building stablecoin support into Cash App?
 
-The Block • 5h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-2)**
+**['The second century begins': Michael Saylor's Strategy buys another 17,994 bitcoin for $1.3 billion as holdings reach 738,731 BTC](https://www.theblock.co/post/392822/the-second-century-begins-michael-saylors-strategy-buys-more-bitcoin)**
 
-Key PointsHuge price drawdowns are nothing new to the Bitcoin community, and this crypto has always recovered in the past.
+Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $50 billion.
 
-Nasdaq • 1d ago
+The Block • 11h ago
 
 ---
 
-**[Bitcoin Price Rises. Why Oil Could Dictate What Happens Next for Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-oil-prices-afaf6eb8?gaa_at=eafs&gaa_n=AWEtsqdgJ-TgoncvuxskLxpqE5BasBunCmlFsv8i0dzhDVR-zo0yamnE3Iyb&gaa_ts=69af4d78&gaa_sig=mXwZBZXFp03LYZhBnSe_1sGr00ELuvEXM8F4lHjXU8aD6uKYDCzRcvzvUaCSZ3V-jKVAYOE5ZCLLOplnLU9IIw%3D%3D)**
+**[Strategy Drops $1.28 Billion on Bitcoin, Issues $377 Million in Preferred Shares](https://finance.yahoo.com/news/strategy-drops-1-28-billion-145047451.html)**
 
-Barron's • 3h ago
+Michael Saylor declared the start of a “second century,” following the firm’s 100th Bitcoin purchase last month.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Strategy (MSTR) added 17,994 bitcoin last week, bringing total holdings to 738,731 coins](https://www.coindesk.com/markets/2026/03/09/michael-saylor-s-strategy-made-usd1-3-billion-bitcoin-purchase-last-week)**
+
+The company now holds 738,731 bitcoin purchased for about $56 billion and worth roughly $50 billion at the current price just shy of $68,000.
+
+CoinDesk • 11h ago
 
 ---
 
@@ -237,7 +239,7 @@ Barron's • 3h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 6h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 7h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -259,7 +261,7 @@ Complete operating system for Bitcoiners
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 22h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 23h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -276,14 +278,6 @@ Another product idea that harvests Bitcoin miner waste heat.
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
 ⬆️ 1 • 💬 0 • 4d ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
-
----
-
-**[Show HN: DeadSwitch – Encrypted USB vault with dead man's switch](https://news.ycombinator.com/item?id=47225171)**
-
-A portable encrypted USB vault with a dead man's switch. Your passwords, financial accounts, crypto wallets, and goodbye messages -- delivered to the people you choose, automatically.
-
-⬆️ 2 • 💬 2 • 7d ago • [DeadSwitch](https://dead-switch.com/)
 
 ---
 
@@ -307,6 +301,14 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 ---
 
+**[Show HN: I built an MCP server so Agents can launch RWAs and compliant tokens](https://news.ycombinator.com/item?id=47313437)**
+
+Bitbond Token Tool MCP - deploy and manage compliant ERC20 tokens from any AI agent (OpenClaw, Claude Code, Cursor, Windsurf) - bitbond/token-tool-mcp
+
+⬆️ 1 • 💬 1 • 4h ago • [GitHub](https://github.com/bitbond/token-tool-mcp)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -317,7 +319,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 7K • 👍 114 • 💬 70 • ⏱️ 4:26 • 9h ago
+👁️ 7K • 👍 114 • 💬 70 • ⏱️ 4:26 • 10h ago
 
 ---
 
@@ -327,7 +329,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 993 • 💬 313 • ⏱️ 35:05 • 8h ago
+👁️ 16K • 👍 993 • 💬 313 • ⏱️ 35:05 • 9h ago
 
 ---
 
@@ -347,7 +349,7 @@ Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 176 • 💬 114 • ⏱️ 8:35 • 4h ago
+👁️ 2K • 👍 176 • 💬 114 • ⏱️ 8:35 • 5h ago
 
 ---
 
@@ -367,7 +369,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 5K • 💬 309 • ⏱️ 11:22 • 18h ago
+👁️ 72K • 👍 5K • 💬 309 • ⏱️ 11:22 • 19h ago
 
 ---
 
@@ -407,7 +409,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 5K • 👍 554 • 💬 235 • ⏱️ 10:02 • 2h ago
+👁️ 5K • 👍 554 • 💬 235 • ⏱️ 10:02 • 3h ago
 
 ---
 
