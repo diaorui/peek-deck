@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T09:08:33.155146+00:00'
+updated: '2026-03-09T10:12:40.354736+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 09:08 UTC  
+**Last Updated:** March 09, 2026 at 10:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,881.39
+### $68,385.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -1.0%  
-**30d:** -3.9%  
-**90d:** -26.5%  
-**1y:** -13.9%  
+**24h:** +0.7%  
+**7d:** -0.4%  
+**30d:** -3.3%  
+**90d:** -26.1%  
+**1y:** -13.5%  
 
 ---
 
@@ -81,7 +81,23 @@ Rank #1
 
 I keep hearing this advice to not sell your Bitcoin, just borrow against it. But honestly I don’t fully get why that’s supposed to be better. If you sell BTC after it’s gone up, you’re actually locking in profit. You bought at one price and sold higher, so you walk away with real gains. When you borrow against your Bitcoin though, you’re taking out a loan that you eventually have to pay back plus interest. So in my head it feels like you’re not really gaining money, you’re just accessing cash temporarily and then paying for it later. I get that people want to keep their BTC long term and stay exposed to the price going up, but if the goal is to actually make money, wouldn’t selling a portion make more sense?
 
-7h ago
+8h ago
+
+---
+
+**[Is DCA actually a bad strategy in a bull market?](https://www.reddit.com/r/Bitcoin/comments/1routbt/is_dca_actually_a_bad_strategy_in_a_bull_market/)**
+
+​I keep hearing the same advice over and over: "Don’t try to time the market, just Dollar Cost Averaging (DCA) every week." ​But honestly, I’m struggling to see how the math makes sense when we’re clearly in an uptrend. If I buy $100 of BTC every Monday while the price is climbing, all I’m doing is constantly raising my average entry price. It feels like I’m "buying the top" every single week. ​If we’re confident the price is going up long-term, wouldn't it have been objectively better to just buy as much as possible at the start? Or at the very least, wait for those 10–15% "flash crashes" to buy instead of buying a green candle just because it’s Monday morning? ​I get that DCA is supposed to reduce risk and "smooth out" volatility, but at what point does it just become a psychological crutch for people who are too scared to pull the trigger? ​Am I missing something here, or is DCA actually a sub-optimal strategy once the bull market is already in full swing? ​Would love to hear how you guys actually justify it when the price is hitting new highs every other day.
+
+1h ago
+
+---
+
+**[What is a good broker to buy bitcoin on?](https://www.reddit.com/r/Bitcoin/comments/1roufj3/what_is_a_good_broker_to_buy_bitcoin_on/)**
+
+Right now i use Kraken and would like to hear your opinions on this. I also just store my BTC on a wallet there. Is there a better way to store bitcoin?
+
+1h ago
 
 ---
 
@@ -89,7 +105,7 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +113,23 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Some reports circulating online claim that Binance may have accumulated a large amount of Bitcoin during the recent market decline. The estimated figure being mentioned is around $1 billion worth of Bitcoin, although there has not been an official confirmation explaining the purpose of the transactions. Large exchange movements can occur for several reasons, including liquidity management, custody changes, or treasury allocation. Without further details, it’s difficult to determine the exact intent behind the activity. Still, transactions of this size tend to attract attention, especially when they occur during periods of market volatility. What do you think about large Bitcoin purchases happening during market downturns? Could they reflect long term positioning, or are there other explanations that make more sense?
 
-11h ago
+12h ago
+
+---
+
+**[BIP-0360 and what it says about Taproot improvements](https://www.reddit.com/r/Bitcoin/comments/1roovmx/bip0360_and_what_it_says_about_taproot/)**
+
+I am currently studying Taproot and see its benefits about the application of Schnorr Signature scheme, i.e. key aggregation. I just understood that there are 2 spending paths of pay-to-taproot (P2TR), the key path, which in many cases takes advantage of the possibility to aggregate signatures. Then the alternative spending path: script path. There's also the advantage of having the same address length, which makes, single sig, MuSig or other complicated addresses indistinguishable. Better for privacy. BIP-0360 proposes the implementation of pay-to-merkle root (P2MR), which is the use of only the script path, essentially. And it was done due to P2TR being vulnerable to long exposure attack. screenshot from BIP-0360 Bummer! So, how can we take advantage of the use of Schnorr signature scheme moving forward? How about those who don't actually use MuSig2 and other complexities, creating a single sig wallet address only? Are they just better off avoiding P2TR then? Are there developers working to still implement Schnorr signature scheme for single key wallets, in a way less vulnerable to the long exposure attack highlighted by BIP-0360?
+
+7h ago
+
+---
+
+**[DCA and lumpsums](https://www.reddit.com/r/Bitcoin/comments/1rorn6o/dca_and_lumpsums/)**
+
+For those who do dca, when or what price you do huge lumpsums when it goes down
+
+4h ago
 
 ---
 
@@ -109,19 +141,9 @@ Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption —
 
 ---
 
-**[BIP-0360 and what it says about Taproot improvements](https://www.reddit.com/r/Bitcoin/comments/1roovmx/bip0360_and_what_it_says_about_taproot/)**
+**[I’m just gonna leave this here](https://www.reddit.com/r/Bitcoin/comments/1row1ww/im_just_gonna_leave_this_here/)**
 
-I am currently studying Taproot and see its benefits about the application of Schnorr Signature scheme, i.e. key aggregation. I just understood that there are 2 spending paths of pay-to-taproot (P2TR), the key path, which in many cases takes advantage of the possibility to aggregate signatures. Then the alternative spending path: script path. There's also the advantage of having the same address length, which makes, single sig, MuSig or other complicated addresses indistinguishable. Better for privacy. BIP-0360 proposes the implementation of pay-to-merkle root (P2MR), which is the use of only the script path, essentially. And it was done due to P2TR being vulnerable to long exposure attack. screenshot from BIP-0360 Bummer! So, how can we take advantage of the use of Schnorr signature scheme moving forward? How about those who don't actually use MuSig2 and other complexities, creating a single sig wallet address only? Are they just better off avoiding P2TR then? Are there developers working to still implement Schnorr signature scheme for single key wallets, in a way less vulnerable to the long exposure attack highlighted by BIP-0360?
-
-6h ago
-
----
-
-**[DCA and lumpsums](https://www.reddit.com/r/Bitcoin/comments/1rorn6o/dca_and_lumpsums/)**
-
-For those who do dca, when or what price you do huge lumpsums when it goes down
-
-3h ago
+13m ago
 
 ---
 
@@ -133,83 +155,51 @@ I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the
 
 ---
 
-**[What is a good broker to buy bitcoin on?](https://www.reddit.com/r/Bitcoin/comments/1roufj3/what_is_a_good_broker_to_buy_bitcoin_on/)**
-
-Right now i use Kraken and would like to hear your opinions on this. I also just store my BTC on a wallet there. Is there a better way to store bitcoin?
-
-51m ago
-
----
-
-**[How do you track Bitcoin cost basis across exchanges and cold wallets?](https://www.reddit.com/r/Bitcoin/comments/1rokmmj/how_do_you_track_bitcoin_cost_basis_across/)**
-
-Once you start buying Bitcoin on multiple exchanges and moving coins to cold storage, tracking everything gets complicated pretty quickly. Between: transfers between wallets network fees UTXO consolidation keeping cost basis accurate making sure everything lines up for tax reporting my spreadsheet started getting pretty messy. I ended up building a small browser-only tracker for myself just to keep things organized across wallets. It handles basic things like logging buys and transfers, tracking cost basis, and exporting transactions for tax software. But I’m curious what other people here are doing. Are most people still using spreadsheets for this, or are there tools/workflows that work well once you start managing multiple wallets?
-
-9h ago
-
----
-
-**[Inflation follows war. Buy assets. Own bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1ro5yrj/inflation_follows_war_buy_assets_own_bitcoin/)**
-
-Were living in the most uncertain time in recent history. Inflation is soon to be rampant and will not be able to be stopped. The wealthy will receive bail outs. The poors will receive threats of death or jail if we dont fight wars for the elites. Threats of jail or death if we dont turn in our personal gold reserves. Own what cant be frozen as easily as a USD asset. Own something more portable than gold. Own something that represents one of the only attempts at returning monetary freedom to the people who have realized the debt system is not for them. Bitcoin in a cold wallet.
-
-18h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[U.S. isn’t really exposed to oil shocks and that might be helping bitcoin](https://www.coindesk.com/markets/2026/03/09/u-s-isn-t-really-exposed-to-oil-shocks-and-that-might-be-helping-bitcoin)**
+**[Bitcoin could face deeper downside as odds of U.S. market meltdown rise to 35%](https://www.coindesk.com/markets/2026/03/09/bitcoin-could-face-deeper-downside-as-odds-of-u-s-market-meltdown-rise-to-35)**
 
-Rising oil prices are shaking global markets, but the U.S. is largely insulated and bitcoin seems to be riding the wave alongside Wall Street.
+Veteran strategist Ed Yardeni raised his probability of a stock market crash this year as oil tops $100, the dollar posts its best week in a year, and the Iran conflict expands to Saudi Arabia.
 
-CoinDesk • 3h ago
-
----
-
-**[Is Bitcoin Going to $0?](https://finance.yahoo.com/news/bitcoin-going-0-102400104.html)**
-
-Is the market-leading cryptocurrency in danger of being disrupted?
-
-Yahoo Finance • 22h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Traders Are Paying Just Pennies for "Yes" on $150,000 Bitcoin by March -- What That Implies for the Next Leg of This Rally](https://www.fool.com/investing/2026/03/09/traders-are-paying-just-pennies-for-yes-on-150000/)**
+**[Farage Invests in Kwarteng’s Bitcoin Treasury Firm Stack BTC](https://www.bloomberg.com/news/articles/2026-03-09/farage-invests-in-kwarteng-s-bitcoin-treasury-firm-stack-btc)**
 
-Bitcoin may not turn things around by March, but that shouldn't matter if you're a long-term buy-and-hold investor.
-
-The Motley Fool • 15m ago
+Bloomberg • 28m ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-2)**
+**[Nigel Farage takes stake in bitcoin company run by Kwasi Kwarteng](https://www.ft.com/content/1518dcd2-a11e-435b-b447-8b04957fa46d)**
 
-Key PointsHuge price drawdowns are nothing new to the Bitcoin community, and this crypto has always recovered in the past.
+Reform UK leader invests £215,000 in Stack Bitcoin
 
-Nasdaq • 13h ago
-
----
-
-**[Bitcoin’s Correlation With Stocks Surges as Volatility Returns](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)**
-
-Bloomberg • 2d ago
+Financial Times • 1h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773043500)**
+**[Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC](https://www.coindesk.com/business/2026/03/09/nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
 
-Polymarket • 1h ago
+CoinDesk • 40m ago
 
 ---
 
-**[Is $65K a Good Price to Buy Bitcoin in 2026? 6 Years of BTC Data Give a Surprisingly Clear Answer](https://www.ccn.com/analysis/crypto/price-to-buy-bitcoin-2026-btc-data-give-clear-answer-analysis/)**
+**[Oil Price Surge on Strait of Hormuz Tensions Raises Bitcoin End-of-Cycle Fears, CryptoQuant Warns](https://www.binance.com/en/square/post/299641884997762)**
 
-CCN.com • 1d ago
+Binance • 1h ago
+
+---
+
+**[Seven internet cables were cut at once — Bitcoin barely noticed, but researchers found a real chokepoint](https://cryptoslate.com/seven-internet-cables-were-cut-at-once-bitcoin-barely-noticed-but-researchers-found-a-real-chokepoint/)**
+
+Across 68 verified cable fault events, node impact was usually under 5%, but ASN targeting beats seabed chaos fast.
+
+CryptoSlate • 15h ago
 
 ---
 
@@ -219,19 +209,27 @@ Forbes • 1d ago
 
 ---
 
-**[How Bitcoin Ethereum and XRP Will React to This Week’s CPI Report](https://www.tradingview.com/news/coinpedia:7a856ab5e094b:0-how-bitcoin-ethereum-and-xrp-will-react-to-this-week-s-cpi-report/)**
+**[Startup Starcloud Plans First Bitcoin Mining Satellite in Low-Earth Orbit](https://news.bitcoin.com/startup-starcloud-plans-first-bitcoin-mining-satellite-in-low-earth-orbit/)**
 
-The crypto market started Monday on a positive note, with most top 10 coins trading in green. Now, investors are closely watching one key event this week, the upcoming U.S. Consumer Price Index (CPI) report. Last month’s CPI data pushed the crypto market up by nearly 4%. This time, traders are watc…
+A Washington startup says the next frontier for computing—and possibly bitcoin mining—may orbit hundreds of miles above Earth.
 
-TradingView • 2h ago
+Bitcoin.com News • 7h ago
 
 ---
 
-**[Seven internet cables were cut at once — Bitcoin barely noticed, but researchers found a real chokepoint](https://cryptoslate.com/seven-internet-cables-were-cut-at-once-bitcoin-barely-noticed-but-researchers-found-a-real-chokepoint/)**
+**[Food Lion manager stops elderly woman from losing $5K in bitcoin scam](https://www.wistv.com/2026/03/06/food-lion-manager-stops-elderly-woman-losing-5k-bitcoin-scam/)**
 
-Across 68 verified cable fault events, node impact was usually under 5%, but ASN targeting beats seabed chaos fast.
+A Food Lion manager in Richland County was recognized by the county sheriff Thursday after she stopped a 76-year-old woman from sending $5,000 in bitcoin to a scammer last month.
 
-CryptoSlate • 14h ago
+WIS News 10 • 3d ago
+
+---
+
+**[Bitcoin dives again after disappointing jobs report, ending midweek rally](https://fortune.com/2026/03/06/bitcoin-dives-again-after-disappointing-jobs-report-ending-midweek-rally/)**
+
+The recent bullish sentiment around the currency quickly evaporated amid fresh uncertainty.
+
+Fortune • 2d ago
 
 ---
 
@@ -249,7 +247,7 @@ CryptoSlate • 14h ago
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 2 • 💬 1 • 16h ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 2 • 💬 1 • 17h ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -263,7 +261,7 @@ Complete operating system for Bitcoiners
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 9h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -321,7 +319,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 22K • 👍 2K • 💬 176 • ⏱️ 11:22 • 4h ago
+👁️ 22K • 👍 2K • 💬 176 • ⏱️ 11:22 • 5h ago
 
 ---
 
@@ -331,7 +329,7 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 122 • ⏱️ 14:03 • 10h ago
+👁️ 19K • 👍 1K • 💬 122 • ⏱️ 14:03 • 11h ago
 
 ---
 
@@ -341,7 +339,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 153 • ⏱️ 10:01 • 12h ago
+👁️ 22K • 👍 2K • 💬 153 • ⏱️ 10:01 • 13h ago
 
 ---
 
@@ -361,7 +359,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 867 • 💬 175 • ⏱️ 8:02 • 9h ago
+👁️ 13K • 👍 867 • 💬 175 • ⏱️ 8:02 • 10h ago
 
 ---
 
@@ -391,7 +389,7 @@ Once you know BTC isn't digital gold, you can understand the moves better. I pre
 
 📺 Nicholas Crown
 
-👁️ 8K • 👍 238 • 💬 34 • ⏱️ 0:59 • 13h ago
+👁️ 8K • 👍 238 • 💬 34 • ⏱️ 0:59 • 15h ago
 
 ---
 
@@ -401,7 +399,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 227 • 💬 24 • ⏱️ 4:38 • 10h ago
+👁️ 4K • 👍 227 • 💬 24 • ⏱️ 4:38 • 11h ago
 
 ---
 
@@ -409,7 +407,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 312 • 💬 10 • ⏱️ 1:00 • 8h ago
+👁️ 7K • 👍 312 • 💬 10 • ⏱️ 1:00 • 9h ago
 
 ---
 

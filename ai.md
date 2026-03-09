@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-09T09:08:33.146620+00:00'
+updated: '2026-03-09T10:12:40.345738+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 09, 2026 at 09:08 UTC  
+**Last Updated:** March 09, 2026 at 10:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic'c Claude found 22 vulnerabilities in Firefox in just two weeks](https://www.reddit.com/r/artificial/comments/1ro1ybn/anthropicc_claude_found_22_vulnerabilities_in/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 I've been building an interactive map of the AI tool ecosystem — not just a list, but a visual graph that shows which tools connect to each other and how people actually chain them together in workflows. Some things it does: Interactive graph — 137 tools plotted by category with 281 connections between them. Click any tool to see what it integrates with. 25 real workflows — step-by-step breakdowns like "AI SEO Blog Factory" or "Podcast Production Pipeline" that show you which tools to use at each stage and how the output of one feeds into the next. Quiz + AI advisor — answer a few questions about your use case and it recommends a full stack, not just a single tool. Side-by-side comparisons — 204 comparison pages (Cursor vs Copilot, Jasper vs Copy.ai, etc.) It's free, no login, runs entirely in the browser. I built it because I got tired of evaluating AI tools in isolation. The real question isn't "what's the best writing tool" — it's "what combination of tools actually works together for my workflow." Would love feedback on what's useful and what's missing. https://thestackmap.com
 
-10h ago
+11h ago
 
 ---
 
@@ -63,7 +63,7 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 There's a lot of "AI agent" content that stops at the blog post. This is a repo of 100 agent templates that run in production. Each one is an OpenClaw SOUL. md config. You define the agent's role, rules, integrations, and schedule. It connects to Telegram, Slack, Discord, or WhatsApp and runs on a loop. Real examples from the repo: a code reviewer that catches issues before PR merge. A churn prevention agent that flags at-risk users. A self-healing server agent that restarts crashed containers. No chain-of-thought theater. No "imagine if" scenarios. These are configs people are running right now. GitHub: https://github.com/mergisi/awesome-openclaw-agents
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ Fortune • 2d ago
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -135,15 +135,7 @@ NPR • 12h ago
 
 Artificial intelligence can give some workers "brain fry" if overused, according to a new study published in Harvard Business Review.
 
-CBS News • 15h ago
-
----
-
-**[Masterpiece or cheap copy? Art historians and AI may not agree](https://www.cnn.com/2026/03/09/style/ai-art-recognition-authentication)**
-
-Artificial intelligence is weighing into art history debates by “authenticating” masterpieces and exposing alleged fakes. But experts aren’t convinced.
-
-CNN • 6m ago
+CBS News • 16h ago
 
 ---
 
@@ -151,13 +143,29 @@ CNN • 6m ago
 
 Nscale has become a key player in the AI infrastructure buildout
 
-CNBC • 47m ago
+CNBC • 1h ago
 
 ---
 
-**[Chatbot lawsuits push AI safety fight to the courts](https://www.axios.com/2026/03/09/google-gemini-chatbot-lawsuit-congress-regulation)**
+**[The Former Coal Miner in the Middle of the A.I. Data Center Boom](https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html)**
 
-Axios • 41m ago
+The New York Times • 2h ago
+
+---
+
+**[Nvidia-backed Nscale valued at $14.6 billion in fresh funding round](https://finance.yahoo.com/news/nvidia-backed-uk-ai-firm-081458066.html)**
+
+Nvidia-backed artificial intelligence group Nscale was valued at $14.6 billion after ‌raising $2 billion in its latest funding round, ‌the British company said on Monday. The Series C funding ​round was led by Norway's Aker and 8090 Industries, and included Nvidia, Citadel, Dell, Jane Street, among others, the firm said in a ‌statement. Former Meta executives ⁠Nick Clegg and Sheryl Sandberg, and former Yahoo President Susan Decker will ⁠join the board of the AI firm, the company said.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Masterpiece or cheap copy? Art historians and AI may not agree](https://www.cnn.com/2026/03/09/style/ai-art-recognition-authentication)**
+
+Artificial intelligence is weighing into art history debates by “authenticating” masterpieces and exposing alleged fakes. But experts aren’t convinced.
+
+CNN • 1h ago
 
 ---
 
@@ -165,13 +173,13 @@ Axios • 41m ago
 
 Market ripples from the US-Iran conflict are sending investors toward tech's safe havens.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Opinion | The Future We Feared Is Already Here - The New York Times](https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html)**
+**[This AI agent freed itself and started secretly mining crypto](https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency)**
 
-The New York Times • 23h ago
+Axios • 1d ago
 
 ---
 
@@ -179,15 +187,7 @@ The New York Times • 23h ago
 
 Oracle reportedly planning massive layoffs involving thousands of employees as AI spending creates cash crunch. Job cuts could reportedly affect 18% of total workforce.
 
-Fox Business • 6h ago
-
----
-
-**[Current and former Block workers say AI can’t do their jobs after Jack Dorsey’s mass layoffs: ‘You can’t really AI that’](https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey)**
-
-The CEO said he cut the company’s workforce by 4,000 people – almost in half – because of gains in AI productivity
-
-The Guardian • 21h ago
+Fox Business • 7h ago
 
 ---
 
@@ -195,19 +195,11 @@ The Guardian • 21h ago
 
 ## HackerNews: "ai"
 
-**[We might all be AI engineers now](https://news.ycombinator.com/item?id=47272734)**
-
-The models are good now. But most people still miss the point.
-
-⬆️ 219 • 💬 344 • 2d ago • [yasint.dev](https://yasint.dev/we-might-all-be-ai-engineers-now/)
-
----
-
 **[Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://news.ycombinator.com/item?id=47298183)**
 
 Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.
 
-⬆️ 170 • 💬 217 • 17h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+⬆️ 170 • 💬 218 • 18h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 
 ---
 
@@ -251,7 +243,7 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 **[AI doesn't replace white collar work](https://news.ycombinator.com/item?id=47299988)**
 
-⬆️ 61 • 💬 95 • 14h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
+⬆️ 61 • 💬 95 • 15h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
 
 ---
 
@@ -271,6 +263,12 @@ Employees have reported increased momentum, but also a feeling of having more to
 
 ---
 
+**[Ask HN: Can we talk about AI Astroturfing?](https://news.ycombinator.com/item?id=47290057)**
+
+⬆️ 43 • 💬 39 • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -281,7 +279,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 22K • 👍 1K • 💬 267 • ⏱️ 27:28 • 4h ago
+👁️ 22K • 👍 1K • 💬 267 • ⏱️ 27:28 • 5h ago
 
 ---
 
@@ -301,7 +299,7 @@ Retired Lt. Gen. Dennis Crall discusses the Pentagon's use of artificial intelli
 
 📺 Fox News Clips
 
-👁️ 33K • 👍 396 • 💬 59 • ⏱️ 7:30 • 13h ago
+👁️ 33K • 👍 396 • 💬 59 • ⏱️ 7:30 • 14h ago
 
 ---
 
@@ -311,7 +309,7 @@ In this video, we go deep into the artificial intelligence bubble and the devast
 
 📺 XaliCubed
 
-👁️ 6K • 👍 376 • 💬 117 • ⏱️ 8:01 • 13h ago
+👁️ 6K • 👍 376 • 💬 117 • ⏱️ 8:01 • 14h ago
 
 ---
 
@@ -369,7 +367,7 @@ This AI-powered patrol robot is already walking real city streets in China along
 
 📺 Onyez 
 
-👁️ 694 • 👍 16 • 💬 2 • ⏱️ 0:39 • 3h ago
+👁️ 694 • 👍 16 • 💬 2 • ⏱️ 0:39 • 4h ago
 
 ---
 
@@ -433,7 +431,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,192,631 • ❤️ 1,047 • 9d ago
+⬇️ 1,192,631 • ❤️ 1,047 • 10d ago
 
 ---
 
@@ -643,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.0k • 🔱 3.2k • 9h ago
+⭐ 25.0k • 🔱 3.2k • 10h ago
 
 ---
 
@@ -653,7 +651,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 16.6k • 🔱 642 • 8h ago
+⭐ 16.6k • 🔱 642 • 9h ago
 
 ---
 
@@ -663,7 +661,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 11.4k • 🔱 1.5k • 3h ago
+⭐ 11.4k • 🔱 1.5k • 5h ago
 
 ---
 
@@ -673,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.9k • 🔱 1.1k • 34m ago
+⭐ 9.9k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -683,7 +681,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.5k • 🔱 541 • 6m ago
+⭐ 7.5k • 🔱 541 • 1h ago
 
 ---
 
@@ -713,7 +711,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.0k • 🔱 714 • 6h ago
+⭐ 6.0k • 🔱 714 • 7h ago
 
 ---
 
@@ -723,7 +721,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 403 • 43m ago
+⭐ 3.7k • 🔱 403 • 1h ago
 
 ---
 
@@ -733,7 +731,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.5k • 🔱 252 • 1h ago
+⭐ 3.5k • 🔱 252 • 2h ago
 
 ---
 

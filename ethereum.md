@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T09:08:33.161279+00:00'
+updated: '2026-03-09T10:12:40.360951+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 09:08 UTC  
+**Last Updated:** March 09, 2026 at 10:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +0.4%  
-**30d:** -4.7%  
-**90d:** -40.1%  
-**1y:** +6.4%  
+**24h:** +2.7%  
+**7d:** +1.0%  
+**30d:** -4.2%  
+**90d:** -39.7%  
+**1y:** +7.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For the past few months I've been building EthereumHistory.com, a project to document every notable smart contract from Ethereum's earliest days (2015-2017). Think of it as a Wikipedia for Ethereum's contract archaeology. Recently I did a deep scan of all 12,609 contracts deployed during the Frontier era and found 1,650 still holding ETH — totaling over 38,000 ETH (~$95M at current prices) locked in contracts from Ethereum's first weeks. Here's what's actually inside them: The Gambling Contracts (Day 13 of Ethereum) EtherDice (0xc4c51de1abf5d60dbd329ec0f999fd8f021ae9fc) was deployed on August 12, 2015 — just 13 days after Ethereum launched. Someone loaded it with a 1,000 ETH bankroll. It's a 21-function commit-reveal dice game, surprisingly sophisticated for the era. 122 ETH still sits inside, permanently locked because the deployer likely lost their keys years ago. The Inverted Timelock TimeLockVault (0xed44f3c2081480b08643fe1ca281fab9ed643735) has a beautiful bug: the time check is inverted. You can withdraw before the unlock date (2035), but once 2035 arrives, the funds become permanently locked. 50 ETH inside. The deployer could have withdrawn years ago but apparently never noticed. The Stalled Pyramid EtherPyramid (0xa9e4e3b1da2752aea980698c335e70e9ab26c) had 140 participants. 136 of them are still waiting for their payout. 37 ETH frozen forever in a pyramid that ran out of new entrants. A time capsule of early Ethereum's Wild West era. The Pattern After scanning all 1,650 funded contracts, the pattern is consistent: every single one is either owner-gated (keys likely lost), bug-locked, pyramid-stalled, or timelocked. At least 5 active hunter addresses have already probed most of these contracts looking for extractable funds. None succeeded. These contracts are essentially digital fossils — permanently preserved on-chain with real ETH sealed inside them. They tell the story of Ethereum's earliest developers experimenting with code that would handle real money, often for the first time. I've been documenting these on EthereumHistory.com with verified source code, deployment context, and the stories behind them. If you deployed contracts in 2015-2016 or know the stories behind any early projects, I'd love to hear from you. What early Ethereum contracts do you remember that deserve to be documented?
 
-20h ago
+21h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
 
-21h ago
+22h ago
 
 ---
 
@@ -158,6 +158,14 @@ Benzinga • 2d ago
 
 ---
 
+**[Bitcoin USD Dominance Drops to 58%: Smart Capital Rotating Into Ethereum?](https://finance.yahoo.com/news/bitcoin-usd-dominance-drops-58-084504170.html)**
+
+Bitcoin USD continues to hover near $67,200 following a week of tight-ranging price action. However, its longstanding dominance over the broader cryptocurrency market is visibly softening today.Fresh data from CoinGecko reveals the total cryptocurrency market capitalization expanding past $2.38 trillion, while Bitcoin Dominance has fallen below 59% and is currently ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
 Binance • 1d ago
@@ -168,7 +176,7 @@ Binance • 1d ago
 
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -176,13 +184,19 @@ The Motley Fool • 20h ago
 
 The crypto market started Monday on a positive note, with most top 10 coins trading in green. Now, investors are closely watching one key event this week, the upcoming U.S. Consumer Price Index (CPI) report. Last month’s CPI data pushed the crypto market up by nearly 4%. This time, traders are watc…
 
-TradingView • 2h ago
+TradingView • 4h ago
+
+---
+
+**[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
+
+Seeking Alpha • 46m ago
 
 ---
 
 **[Ethereum Price Tries to Defend $1,900 Support amid $157 Million Co-Founder Selloff](https://www.tipranks.com/news/ethereum-price-tries-to-defend-1900-support-amid-157-million-co-founder-selloff)**
 
-TipRanks • 3h ago
+TipRanks • 4h ago
 
 ---
 
@@ -190,7 +204,7 @@ TipRanks • 3h ago
 
 Solana leads retail trading growth, while Ethereum retains deeper institutional liquidity.
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -198,7 +212,7 @@ AMBCrypto • 23h ago
 
 Dubai, UAE, March  08, 2026  (GLOBE NEWSWIRE) -- Pepeto just confirmed accelerating whale wallet accumulation inside the presale while funding cro...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -206,23 +220,7 @@ markets.businessinsider.com • 8h ago
 
 Cryptocurrencies defied a sweeping global market selloff on Monday as a catastrophic oil supply shock and escalating U.S.-Iran tensions sent equities
 
-Coinpedia • 6h ago
-
----
-
-**[Ethereum Price Prediction: ETH Targets $8,000 as Harvard Rotates $86.8M Into ETH Trust While Pepeto Keeps Selling Out Faster More Than Ever](https://financefeeds.com/ethereum-price-prediction-eth-targets-8000-as-harvard-rotates-86-8m-into-eth-trust-while-pepeto-keeps-selling-out-faster-more-than-ever/)**
-
-Harvard’s $57 billion endowment just rotated $86.8 million from Bitcoin ETFs into the iShares Ethereum Trust, proving the smartest institutional money on the
-
-FinanceFeeds • 9h ago
-
----
-
-**[Vitalik Buterin calls for bolder experimentation in Ethereum's app layer while preserving core principles](https://www.theblock.co/post/392621/vitalik-buterin-calls-for-bolder-experimentation-in-ethereums-app-layer-while-preserving-core-principles)**
-
-Vitalik Buterin has urged Ethereum developers to experiment more boldly at the app layer while preserving the network’s core principles.
-
-The Block • 2d ago
+Coinpedia • 7h ago
 
 ---
 
@@ -246,7 +244,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 2K • 👍 107 • 💬 34 • ⏱️ 20:10 • 15h ago
+👁️ 2K • 👍 107 • 💬 34 • ⏱️ 20:10 • 16h ago
 
 ---
 
@@ -276,7 +274,7 @@ BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 234 • 💬 81 • ⏱️ 17:36 • 11h ago
+👁️ 6K • 👍 234 • 💬 81 • ⏱️ 17:36 • 12h ago
 
 ---
 
@@ -286,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 942 • 👍 83 • 💬 2 • ⏱️ 3:59 • 6h ago
+👁️ 942 • 👍 83 • 💬 2 • ⏱️ 3:59 • 7h ago
 
 ---
 
@@ -296,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 2 • ⏱️ 5:48 • 16h ago
+👁️ 2K • 👍 140 • 💬 2 • ⏱️ 5:48 • 17h ago
 
 ---
 
@@ -316,7 +314,7 @@ What is ETHEREUM? How eth Works? NBC, Ryan Browne, cnbc international, ethereum,
 
 📺 SmileClock
 
-👁️ 2K • 👍 130 • 💬 139 • ⏱️ 2:33 • 12h ago
+👁️ 2K • 👍 130 • 💬 139 • ⏱️ 2:33 • 13h ago
 
 ---
 
