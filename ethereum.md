@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T17:52:17.362430+00:00'
+updated: '2026-03-09T18:55:31.801135+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 17:52 UTC  
+**Last Updated:** March 09, 2026 at 18:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.9%  
-**7d:** +2.4%  
-**30d:** -2.8%  
-**90d:** -38.9%  
-**1y:** +8.5%  
+**24h:** +2.5%  
+**7d:** +1.5%  
+**30d:** -3.6%  
+**90d:** -39.4%  
+**1y:** +7.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec...3d6b, deployed in August 2015, just weeks after mainnet launch. The entire contract is one function: set(string). It stores a single string in public storage. That is it. What is interesting is the bytecode. It was compiled with solc v0.1.1, the earliest Solidity compiler that exists. I was able to reproduce the exact bytecode byte-for-byte using that compiler. The output matches the on-chain code perfectly. Contracts from this era are fascinating because Solidity was still being invented. No events, no modifiers, no constructors as we know them. Just raw storage writes. The compiler output is so small you can read the opcodes manually. The deployer (0x8674...94e2) deployed 18 contracts in the same week, all in the 52,000-55,000 block range. Looks like someone was experimenting heavily with what Solidity could do. If anyone is interested in early Ethereum archaeology, ethereumhistory.com is documenting contracts from this period with verified source code and compiler proofs. Edit: here is the contract page on Ethereum History.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec
 
 In September 2015, six weeks after mainnet launch, someone deployed three contracts that became Ethereum's first naming infrastructure: GlobalRegistrar, HashReg, and UrlHint. Block 282,880 — September 24, 2015 The GlobalRegistrar mapped names to addresses. HashReg mapped code hashes to content hashes. UrlHint mapped content hashes to URLs for metadata retrieval. Together they formed the NatSpec documentation system — the mechanism that was supposed to let Ethereum wallets display human-readable descriptions before signing transactions. The system was hardcoded directly into go-ethereum v1.4.0 (common/registrar/registrar.go). Not an optional plugin. Core infrastructure. The frozen TODO that became ENS Inside the GlobalRegistrar source code (verified on Etherscan, compiled with solc v0.1.1), there's a comment that reads: // TODO: bidding mechanism That comment sat frozen for years. The ambition was there — first-come-first-served registration was always meant to be a placeholder. The bidding mechanism didn't arrive until ENS launched in May 2017, when Vickrey auctions replaced the naive assignment system. ENS didn't appear from nowhere. It solved the exact problem the GlobalRegistrar identified and couldn't finish. The three-contract system All three contracts were deployed by the same address within 18 blocks: - GlobalRegistrar: block 282,880 - HashReg: block 282,885 (5 blocks later) - UrlHint: block 282,898 (18 blocks after start) The deployer identity isn't confirmed — likely a go-ethereum core developer given the contracts were shipped alongside the go-ethereum codebase — but we haven't pinned the address to a name yet. Why it matters Every .eth name you resolve today is the descendant of that frozen TODO comment from 2015. The naming problem was understood from week six. It took two more years to solve it properly. We documented all three contracts on EthereumHistory.com last night. The verified source code, links to go-ethereum v1.4.0, and the full historical context are there if you want to dig deeper. Cross-posted from our ongoing archaeology of early mainnet contracts. If you deployed or used these contracts in 2015, we'd love to hear the story.
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ In September 2015, six weeks after mainnet launch, someone deployed three contra
 
 MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
 
-🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 3h ago
+🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 4h ago
 
 ---
 
@@ -124,15 +124,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
-
-23h ago
-
----
-
 **[Is compound finance frontend or dns setup got hacked?](https://www.reddit.com/r/ethereum/comments/1ro2xqv/is_compound_finance_frontend_or_dns_setup_got/)**
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
+
+1d ago
+
+---
+
+**[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
 
 1d ago
 
@@ -150,6 +150,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum Rises to $2,000 as Tom Lee's BitMine Tops Up $9 Billion ETH Treasury](https://decrypt.co/360405/ethereum-rises-2000-tom-lee-bitmine-9-billion-treasury)**
+
+The price of Ethereum is up 4% over the last day, rebounding after a weekend slump under $2,000 as BitMine reveals its latest ETH buy.
+
+Decrypt • 4h ago
+
+---
+
 **[Ethereum's In A 'Death Spiral,' Report Says—And Co-Founder Vitalik Buterin Seems To Agree](https://www.benzinga.com/markets/prediction-markets/26/03/51108851/ethereums-in-a-death-spiral-report-says-and-co-founder-vitalik-buterin-seems-to-agree)**
 
 Culper Research published a short report on Ethereum (CRYPTO: ETH) on Thursday, calling its economics &#8220;impaired&#8221; and warning the network m
@@ -158,31 +166,39 @@ Benzinga • 2d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
+**[Coinbase Debuts Crypto Futures for European Traders, Including Bitcoin and Ethereum](https://finance.yahoo.com/news/coinbase-debuts-crypto-futures-european-182144462.html)**
 
-Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
+Coinbase launched regulated crypto futures in 26 European countries, offering perpetual and dated contracts with up to 10x leverage.
 
-PR Newswire • 5h ago
-
----
-
-**[Ethereum Rises to $2,000 as Tom Lee's BitMine Tops Up $9 Billion ETH Treasury](https://finance.yahoo.com/news/ethereum-rises-2-000-tom-135631681.html)**
-
-The price of Ethereum is up 4% over the last day, rebounding after a weekend slump under $2,000 as BitMine reveals its latest ETH buy.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 33m ago
 
 ---
 
 **[Ethereum Vs. Canton: Two Different Paths To Institutional Blockchain](https://www.forbes.com/sites/jonegilsson/2026/03/09/ethereum-vs-canton-two-different-paths-to-institutional-blockchain/)**
 
-Forbes • 3h ago
+Forbes • 4h ago
+
+---
+
+**[Ethereum Builders Should Focus On 'Sanctuary Tech' Instead Of Trying 'To Be Apple Or Google,' Vitalik Buterin Says](https://finance.yahoo.com/news/ethereum-builders-focus-sanctuary-tech-172721602.html)**
+
+Ethereum should serve as a space where people can interact free from corporate and government control, co-founder Vitalik Buterin says. "Ethereum should conceptualize ourselves as being part of an ecosystem building ‘sanctuary technologies:' free open-source technologies that let people live,...
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
 Binance • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
+
+Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
+
+PR Newswire • 6h ago
 
 ---
 
@@ -194,33 +210,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[What’s Next for Bitcoin, Ethereum and XRP Price Ahead of the U.S. CPI Report?](https://www.tradingview.com/news/coinpedia:7a856ab5e094b:0-what-s-next-for-bitcoin-ethereum-and-xrp-price-ahead-of-the-u-s-cpi-report/)**
+**['Mini crypto winter' nearly over, says Tom Lee as Bitmine ramps up pace of ether acquisition](https://www.coindesk.com/business/2026/03/09/mini-crypto-winter-nearly-over-says-tom-lee-as-bitmine-ramps-up-pace-of-ether-acquisition)**
 
-The crypto market started Monday on a positive note, with most top 10 coins trading in green. Now, investors are closely watching one key event this week, the upcoming U.S. Consumer Price Index (CPI) report. Last month’s CPI data pushed the crypto market up by nearly 4%. This time, traders are watc…
+The firm ramped up the pace of ETH accumulation despite sitting on staggering unrealized losses on its $9 billion crypto holdings.
 
-TradingView • 7h ago
-
----
-
-**[Ethereum co-founder moves 157M to exchange – Can ETH’s $1,800 hold?](https://ambcrypto.com/ethereum-co-founder-moves-157m-to-exchange-can-eths-1800-hold/)**
-
-Ethereum faces insider transfers, rising leverage, and conflicting positioning as markets watch key support closely.
-
-AMBCrypto • 21h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Ethereum Price Tries to Defend $1,900 Support amid $157 Million Co-Founder Selloff](https://www.tipranks.com/news/ethereum-price-tries-to-defend-1900-support-amid-157-million-co-founder-selloff)**
+**[Current price of Ethereum for March 9, 2026](https://fortune.com/article/price-of-ethereum-03-09-2026/)**
 
-TipRanks • 12h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
----
-
-**[Ethereum Rising Wedge Warning: Breakdown Could Send Price Toward $1,500](https://www.tradingview.com/news/newsbtc:0631e1caa094b:0-ethereum-rising-wedge-warning-breakdown-could-send-price-toward-1-500/)**
-
-Ethereum is showing early signs of a rising wedge formation, a pattern often associated with potential reversals. With key support under pressure, a breakdown from this structure could push the price lower, putting the $1,500 level firmly in focus as the next major target.A Rejection At Key High-Ti…
-
-TradingView • 2d ago
+Fortune • 4h ago
 
 ---
 
@@ -234,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 99 • 💬 6 • ⏱️ 4:08 • 5h ago
+👁️ 1K • 👍 99 • 💬 6 • ⏱️ 4:08 • 6h ago
 
 ---
 
@@ -264,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 241 • 👍 14 • 💬 2 • ⏱️ 4:29 • 7h ago
+👁️ 241 • 👍 14 • 💬 2 • ⏱️ 4:29 • 8h ago
 
 ---
 
@@ -274,7 +276,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 506 • 👍 78 • ⏱️ 5:59 • 3h ago
+👁️ 506 • 👍 78 • ⏱️ 5:59 • 4h ago
 
 ---
 
@@ -294,7 +296,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 2K • 👍 117 • 💬 4 • ⏱️ 20:10 • 23h ago
+👁️ 2K • 👍 117 • 💬 4 • ⏱️ 20:10 • 1d ago
 
 ---
 
@@ -304,7 +306,7 @@ BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 7K • 👍 260 • 💬 291 • ⏱️ 17:36 • 19h ago
+👁️ 7K • 👍 260 • 💬 291 • ⏱️ 17:36 • 20h ago
 
 ---
 
@@ -314,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 104 • 💬 3 • ⏱️ 3:59 • 15h ago
+👁️ 1K • 👍 104 • 💬 3 • ⏱️ 3:59 • 16h ago
 
 ---
 
@@ -324,7 +326,7 @@ At BASS Denver, an official ETHDenver side event hosted by Stanford & Blockchain
 
 📺 Ray Fuentes
 
-👁️ 92 • 👍 9 • 💬 1 • ⏱️ 7:57 • 17h ago
+👁️ 92 • 👍 9 • 💬 1 • ⏱️ 7:57 • 18h ago
 
 ---
 

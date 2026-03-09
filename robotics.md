@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T17:52:17.365649+00:00'
+updated: '2026-03-09T18:55:31.804071+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 17:52 UTC  
+**Last Updated:** March 09, 2026 at 18:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
 
-13h ago
+14h ago
 
 ---
 
@@ -44,7 +44,19 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-7h ago
+8h ago
+
+---
+
+**[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
+
+2h ago
+
+---
+
+**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
+
+2h ago
 
 ---
 
@@ -52,13 +64,13 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-9h ago
+10h ago
 
 ---
 
-**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
+**[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-1h ago
+44m ago
 
 ---
 
@@ -70,23 +82,11 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 ---
 
-**[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
-
-1h ago
-
----
-
 **[I make a test with the T265 and the RoboBaton VIOBOT2.](https://www.reddit.com/r/robotics/comments/1rp4lc8/i_make_a_test_with_the_t265_and_the_robobaton/)**
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-1h ago
-
----
-
-**[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
-
-1d ago
+2h ago
 
 ---
 
@@ -94,15 +94,15 @@ I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIO
 
 USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 8h ago
 
 ---
 
-**[Issue with Lidar points](https://www.reddit.com/r/robotics/comments/1rp1hwz/issue_with_lidar_points/)**
+**[Why I Love the Fuchikoma — Ghost in the Shell’s Most Underrated Robot](https://www.reddit.com/r/robotics/comments/1rp1864/why_i_love_the_fuchikoma_ghost_in_the_shells_most/)**
 
-Hello everyone I am trying to run my simulation of amr into gazebo. Everything's working fine except when I turn robot the lidar points are also rotating with respect to robot. For linear movements the lidar points are still. But for angular movementzz even the lidar points are rotating. Can anyone help me with this?
+I wrote a piece on my beloved Fuchikoma from the Ghost In The Shell franchise. Robot designers and engineers, let me know how it lands!
 
-3h ago
+🔗 [hubrisofprogress.substack.com](https://hubrisofprogress.substack.com/p/why-i-love-the-fuchikoma-ghost-in) • 4h ago
 
 ---
 
@@ -110,11 +110,9 @@ Hello everyone I am trying to run my simulation of amr into gazebo. Everything's
 
 ## Google News: "robotics"
 
-**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
+**[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
 
-A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
-
-NPR • 21h ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -122,15 +120,31 @@ NPR • 21h ago
 
 Several negative developments put quite a hurt on the company's stock.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
-**[Nvidia and ABB launch partnership for AI-enabled autonomous robots](https://www.ft.com/content/c77d99a4-8d75-4f34-8a71-6b1361ebb9b9)**
+**[OpenAI robotics head resigns over Pentagon deal](https://www.therobotreport.com/openai-robotics-head-resigns-over-pentagon-deal/)**
 
-Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
+"This was about principle, not people," Kalinowski said in a social media post about her resignation from OpenAI.
 
-Financial Times • 4h ago
+The Robot Report • 1h ago
+
+---
+
+**[ABB boosts RobotStudio with NVIDIA Omniverse libraries](https://www.therobotreport.com/abb-boosts-robotstudio-with-nvidia-omniverse-libraries/)**
+
+ABB Robotics is integrating NVIDIA Omniverse libraries into RobotStudio to enhance robot simulation and streamline real-world deployments.
+
+The Robot Report • 1h ago
+
+---
+
+**[Networked for War: Lessons from Ukraine’s Ground Robots](https://mwi.westpoint.edu/networked-for-war-lessons-from-ukraines-ground-robots/)**
+
+Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
+
+Modern War Institute - • 10h ago
 
 ---
 
@@ -138,15 +152,7 @@ Financial Times • 4h ago
 
 Integral AI Inc., a five-year-old company founded by former Google researchers Jad Tarifi and Nima Asgharbeygi, develops AI models geared for automated systems such as robots and self-driving cars.  The company has worked with auto parts maker Denso Corp. since 2021 to help teach industrial robots new skills by observing demonstrations.  The 15-person startup is holding initial discussions with Toyota Motor Corp., Sony Group Corp., Honda Motor Co., Nissan Motor Co. and Mitsui Chemicals Inc. to pitch them on how artificial intelligence can advance manufacturing processes.
 
-Yahoo Finance • 13h ago
-
----
-
-**[Qualcomm’s partnership with Neura Robotics is just the beginning](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)**
-
-Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
-
-TechCrunch • 1h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -158,17 +164,11 @@ Business Insider • 1d ago
 
 ---
 
-**[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
+**[Bellefontaine Robotics qualify for to move on to World](https://www.peakofohio.com/local-news/bellefontaine-robotics-qualify-for-to-move-on-to-world/)**
 
-Tech Xplore • 16h ago
+Bellefontaine High School’s robotics program delivered a strong performance at the Ohio State Robotics Championship, held at the National Museum of the United States Air […]
 
----
-
-**[School kids and stage shows: Faraday Future sends new robots to Texas](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-6ls34ya8jp4a.html)**
-
-Texas delivery to NS Federation opens education and performance uses for FF robots, while U.S. officials express support for its embodied AI strategy.
-
-Stock Titan • 15h ago
+Peak of Ohio • 10h ago
 
 ---
 
@@ -180,11 +180,11 @@ New Atlas • 1d ago
 
 ---
 
-**[ABB Robotics president Marc Segura on physical AI partnership with NVIDIA](https://www.foxbusiness.com/video/6390634538112)**
+**[School kids and stage shows: Faraday Future sends new robots to Texas](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-6ls34ya8jp4a.html)**
 
-ABB Robotics President Marc Segura explains physical AI and discusses the company's partnership with NVIDIA on 'Varney &  Co.'
+Texas delivery to NS Federation opens education and performance uses for FF robots, while U.S. officials express support for its embodied AI strategy.
 
-Fox Business • 1h ago
+Stock Titan • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 673K • 👍 40K • 💬 5K • ⏱️ 16:54 • 5d ago
+👁️ 673K • 👍 40K • 💬 5K • ⏱️ 16:54 • 6d ago
 
 ---
 
@@ -208,7 +208,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 37K • 👍 1K • 💬 75 • ⏱️ 14:51 • 17h ago
+👁️ 37K • 👍 1K • 💬 75 • ⏱️ 14:51 • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 FUN Robotics Network
 
-👁️ 214 • 👍 7 • ⏱️ 1:13 • 50m ago
+👁️ 214 • 👍 7 • ⏱️ 1:13 • 1h ago
 
 ---
 
@@ -268,7 +268,7 @@ China's humanoid robots just performed the world's first continuous parkour flip
 
 📺 TechFrontierNow
 
-👁️ 59K • 👍 374 • 💬 80 • ⏱️ 9:26 • 4d ago
+👁️ 59K • 👍 374 • 💬 80 • ⏱️ 9:26 • 5d ago
 
 ---
 
