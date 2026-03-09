@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T18:55:31.795708+00:00'
+updated: '2026-03-09T19:41:24.762877+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 18:55 UTC  
+**Last Updated:** March 09, 2026 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ The next halving is getting closer every day (people will start front-running so
 
 **[On The Same Day the 20,000,000th Bitcoin is Mined - A Cypherpunk's Manifesto Turns 33](https://www.reddit.com/r/Bitcoin/comments/1rp6voh/on_the_same_day_the_20000000th_bitcoin_is_mined_a/)**
 
-🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 1h ago
+🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 2h ago
 
 ---
 
@@ -133,7 +133,7 @@ The next halving is getting closer every day (people will start front-running so
 
 I keep hearing this advice to not sell your Bitcoin, just borrow against it. But honestly I don’t fully get why that’s supposed to be better. If you sell BTC after it’s gone up, you’re actually locking in profit. You bought at one price and sold higher, so you walk away with real gains. When you borrow against your Bitcoin though, you’re taking out a loan that you eventually have to pay back plus interest. So in my head it feels like you’re not really gaining money, you’re just accessing cash temporarily and then paying for it later. I get that people want to keep their BTC long term and stay exposed to the price going up, but if the goal is to actually make money, wouldn’t selling a portion make more sense?
 
-17h ago
+18h ago
 
 ---
 
@@ -141,7 +141,7 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 Hello fellow Bitcoiners, I've finished my fourth article on the topic of "Proof-of-Work" and would love to hear your feedback. Please provide feedback on the following points: - Do I get to the heart of the matter? - Are the differences explained clearly? - Do the analogies to nature fit? Here's the link to the article: https://beehoney21.de/en/pages/proof-of-work/ As always, please feel free to be critical. Thank you and best regards from Schleswig-Holstein.
 
-3h ago
+4h ago
 
 ---
 
@@ -175,7 +175,7 @@ Reuters • 8h ago
 
 Reform UK leader Nigel Farage has joined the $333,000 fundraising round for Stack BTC alongside Blockchain.com.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo • 1h ago
 
 Japan's benchmark Nikkei has plunged 7% after Monday's market open, while South Korea's KOSPI has dropped 7.9%.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 1h ago
 
 The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
 
-Fortune • 13m ago
+Fortune • 58m ago
 
 ---
 
@@ -207,7 +207,7 @@ Fortune • 13m ago
 
 Strategy (MSTR) buys 17,994 more bitcoin for $1.28B, bringing holdings to 738,731 BTC.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -223,13 +223,13 @@ Yahoo Finance • 4h ago
 
 The world's top cryptocurrency still has a long road of adoption ahead of it.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -241,7 +241,7 @@ Bloomberg.com • 2h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 2h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 3h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -269,7 +269,7 @@ Complete operating system for Bitcoiners
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 18h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 19h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -321,7 +321,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 3K • 👍 80 • 💬 23 • ⏱️ 4:26 • 5h ago
+👁️ 3K • 👍 80 • 💬 23 • ⏱️ 4:26 • 6h ago
 
 ---
 
@@ -331,7 +331,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 275 • ⏱️ 11:22 • 14h ago
+👁️ 59K • 👍 4K • 💬 275 • ⏱️ 11:22 • 15h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 207 • ⏱️ 14:03 • 20h ago
+👁️ 24K • 👍 2K • 💬 207 • ⏱️ 14:03 • 21h ago
 
 ---
 
@@ -371,7 +371,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 3K • 💬 334 • ⏱️ 10:01 • 22h ago
+👁️ 32K • 👍 3K • 💬 334 • ⏱️ 10:01 • 23h ago
 
 ---
 
@@ -381,7 +381,7 @@ We are witnessing a massive shift in global markets as geopolitical tensions in 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 325 • 💬 84 • ⏱️ 1:32:10 • 2h ago
+👁️ 5K • 👍 325 • 💬 84 • ⏱️ 1:32:10 • 3h ago
 
 ---
 

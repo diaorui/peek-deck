@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-09T18:55:31.787116+00:00'
+updated: '2026-03-09T19:41:24.754531+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 09, 2026 at 18:55 UTC  
+**Last Updated:** March 09, 2026 at 19:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds
 
 Chinese researchers have used AI to determine the chemical composition of the Moon’s far side.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Chinese researchers have used AI to determine the chemical composition of the Mo
 
 Nvidia's record revenue in 2025 largely benefited from AI data center growth. Now, CEO Jensen Huang says the shortages help even more.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 3h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Nvidia's record revenue in 2025 largely benefited from AI data center growth. No
 
 AMD announced back at CES the Ryzen AI Embedded P100 series with initially the models up to six Zen 5 cores launching while the eight through twelve core models would be available later in H1
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-Embedded-P100-Series) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-Embedded-P100-Series) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ AMD announced back at CES the Ryzen AI Embedded P100 series with initially the m
 
 GitHub: https://github.com/zanfiel/engram Live demo: https://demo.engram.lol/gui (password: demo) Built a memory server that gives AI agents long-term memory across sessions. Store what they learn, search by meaning, recall relevant context automatically. - Embeddings run locally (MiniLM-L6) — no OpenAI key needed - Single SQLite file — no vector database required - Auto-linking builds a knowledge graph between memories - Versioning, deduplication, auto-forget - Four-layer recall: static facts + semantic + importance + recency - WebGL graph visualization built in - TypeScript and Python SDKs One file, docker compose up, done. MIT licensed.
 
-7h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ GitHub: https://github.com/zanfiel/engram Live demo: https://demo.engram.lol/gui
 
 Hey everyone! I have been developing CodeGraphContext, an open-source MCP server transforming code into a symbol-level code graph, as opposed to text-based code analysis. This means that AI agents won’t be sending entire code blocks to the model, but can retrieve context via: function calls, imported modules, class inheritance, file dependencies etc. This allows AI agents (and humans!) to better grasp how code is internally connected. What it does CodeGraphContext analyzes a code repository, generating a code graph of: files, functions, classes, modules and their relationships, etc. AI agents can then query this graph to retrieve only the relevant context, reducing hallucinations. Playground Demo on website I've also added a playground demo that lets you play with small repos directly. You can load a project from: a local code folder, a GitHub repo, a GitLab repo Everything runs on the local client browser. For larger repos, it’s recommended to get the full version from pip or Docker. Additionally, the playground lets you visually explore code links and relationships. I’m also adding support for architecture diagrams and chatting with the codebase. Status so far- ⭐ ~1.5k GitHub stars 🍴 350+ forks 📦 100k+ downloads combined If you’re building AI dev tooling, MCP servers, or code intelligence systems, I’d love your feedback. Repo: https://github.com/CodeGraphContext/CodeGraphContext
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey everyone! I have been developing CodeGraphContext, an open-source MCP server
 
 Once the acquisition is finalized OpenAI will integrate Promptfoo’s technology directly into OpenAI Frontier, our platform for building and operating AI coworkers.
 
-🔗 [openai.com](https://openai.com/index/openai-to-acquire-promptfoo/) • 42m ago
+🔗 [openai.com](https://openai.com/index/openai-to-acquire-promptfoo/) • 1h ago
 
 ---
 
@@ -103,7 +103,7 @@ Once the acquisition is finalized OpenAI will integrate Promptfoo’s technology
 
 I've been building an interactive map of the AI tool ecosystem — not just a list, but a visual graph that shows which tools connect to each other and how people actually chain them together in workflows. Some things it does: Interactive graph — 137 tools plotted by category with 281 connections between them. Click any tool to see what it integrates with. 25 real workflows — step-by-step breakdowns like "AI SEO Blog Factory" or "Podcast Production Pipeline" that show you which tools to use at each stage and how the output of one feeds into the next. Quiz + AI advisor — answer a few questions about your use case and it recommends a full stack, not just a single tool. Side-by-side comparisons — 204 comparison pages (Cursor vs Copilot, Jasper vs Copy.ai, etc.) It's free, no login, runs entirely in the browser. I built it because I got tired of evaluating AI tools in isolation. The real question isn't "what's the best writing tool" — it's "what combination of tools actually works together for my workflow." Would love feedback on what's useful and what's missing. https://thestackmap.com EDIT 1: Deep gratitude for feedback! Here's the community hub where your ideas are aggregated and credit is given: https://www.thestackmap.com/community/
 
-19h ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 With March Madness around the corner, USA TODAY Sports asked AI to create a 2026 NBA mock draft. It's torn on the No. 1 pick just like human experts.
 
-USA Today • 48m ago
+USA Today • 1h ago
 
 ---
 
@@ -131,7 +131,7 @@ USA Today • 48m ago
 
 As AI becomes critical to both military and civilian use cases, data centers are increasingly seen as strategic targets.
 
-Fortune • 50m ago
+Fortune • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ Fortune • 50m ago
 
 Lawsuits come after Pentagon labeled Anthropic a ‘supply chain risk’, a decision the company says is unlawful
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 2h ago
 
 AI company Anthropic filed two lawsuits against several federal agencies and officials after being labeled last week a supply-chain risk to national security.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -155,7 +155,7 @@ NBC News • 2h ago
 
 Anthropic sued to block the Pentagon from blacklisting it, escalating the lab’s battle with the U.S. military over usage restrictions.
 
-USA Today • 16m ago
+USA Today • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ USA Today • 16m ago
 
 The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 2h ago
 
 Learn more about how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.
 
-Microsoft • 5h ago
+Microsoft • 6h ago
 
 ---
 
@@ -187,7 +187,7 @@ Northwestern University • 5h ago
 
 Mental health experts say identifying when someone is in need of help is the first step — and approaching them with careful compassion is the hardest, most essential part that follows.
 
-404 Media • 35m ago
+404 Media • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Mental health experts say identifying when someone is in need of help is the fir
 
 AI-enabled dashboards, combined with prediction markets and fake imagery, are reshaping how war is observed.
 
-MIT Technology Review • 3h ago
+MIT Technology Review • 4h ago
 
 ---
 
@@ -213,7 +213,7 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 160 • 💬 173 • 1d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 160 • 💬 173 • 2d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -221,7 +221,7 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 124 • 💬 127 • 3h ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 124 • 💬 127 • 4h ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -245,13 +245,13 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.
 
-⬆️ 85 • 💬 54 • 5h ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
+⬆️ 85 • 💬 54 • 6h ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
 
 ---
 
 **[Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://news.ycombinator.com/item?id=47307169)**
 
-⬆️ 77 • 💬 36 • 8h ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
+⬆️ 77 • 💬 36 • 9h ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
 
 ---
 
@@ -289,7 +289,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 65K • 👍 2K • 💬 598 • ⏱️ 27:28 • 14h ago
+👁️ 65K • 👍 2K • 💬 598 • ⏱️ 27:28 • 15h ago
 
 ---
 
@@ -299,7 +299,7 @@ Early March of 2026 became a defining moment in world history. For the first tim
 
 📺 ColdFusion
 
-👁️ 79K • 👍 8K • 💬 1K • ⏱️ 16:53 • 4h ago
+👁️ 79K • 👍 8K • 💬 1K • ⏱️ 16:53 • 5h ago
 
 ---
 
@@ -309,7 +309,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 6K • 👍 170 • 💬 17 • ⏱️ 8:39 • 11h ago
+👁️ 6K • 👍 170 • 💬 17 • ⏱️ 8:39 • 12h ago
 
 ---
 
@@ -329,7 +329,7 @@ The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jord
 
 📺 The Young Turks
 
-👁️ 42K • 👍 1K • 💬 453 • ⏱️ 3:52 • 17h ago
+👁️ 42K • 👍 1K • 💬 453 • ⏱️ 3:52 • 18h ago
 
 ---
 
@@ -339,7 +339,7 @@ Retired Lt. Gen. Dennis Crall discusses the Pentagon's use of artificial intelli
 
 📺 Fox News Clips
 
-👁️ 36K • 👍 407 • 💬 59 • ⏱️ 7:30 • 22h ago
+👁️ 36K • 👍 407 • 💬 59 • ⏱️ 7:30 • 23h ago
 
 ---
 
@@ -349,7 +349,7 @@ In this video, we go deep into the artificial intelligence bubble and the devast
 
 📺 XaliCubed
 
-👁️ 7K • 👍 448 • 💬 135 • ⏱️ 8:01 • 23h ago
+👁️ 7K • 👍 448 • 💬 135 • ⏱️ 8:01 • 1d ago
 
 ---
 
@@ -369,7 +369,7 @@ Check out the FREE course here: https://ecom-enterprise.mykajabi.com/offers/ayim
 
 📺 Mikey Again
 
-👁️ 15K • 👍 815 • 💬 103 • ⏱️ 20:30 • 2d ago
+👁️ 15K • 👍 815 • 💬 103 • ⏱️ 20:30 • 3d ago
 
 ---
 
@@ -379,7 +379,7 @@ What has turned into a Tsunami of A.I. job losses has caused many to fear that t
 
 📺 9 News Australia
 
-👁️ 17K • 👍 159 • 💬 55 • ⏱️ 2:36 • 10h ago
+👁️ 17K • 👍 159 • 💬 55 • ⏱️ 2:36 • 11h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 14.4k • 🔱 1.9k • 13h ago
+⭐ 14.4k • 🔱 1.9k • 14h ago
 
 ---
 
@@ -685,7 +685,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.1k • 🔱 1.1k • 1h ago
+⭐ 10.1k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -695,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.7k • 🔱 551 • 6h ago
+⭐ 7.7k • 🔱 551 • 7h ago
 
 ---
 
@@ -745,7 +745,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.6k • 🔱 256 • 5h ago
+⭐ 3.6k • 🔱 256 • 6h ago
 
 ---
 

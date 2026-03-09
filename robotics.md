@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T18:55:31.804071+00:00'
+updated: '2026-03-09T19:41:24.771982+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 18:55 UTC  
+**Last Updated:** March 09, 2026 at 19:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
 
-14h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 **[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -64,13 +64,13 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-10h ago
+11h ago
 
 ---
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-44m ago
+1h ago
 
 ---
 
@@ -86,7 +86,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIO
 
 USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 9h ago
 
 ---
 
@@ -102,7 +102,7 @@ USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu
 
 I wrote a piece on my beloved Fuchikoma from the Ghost In The Shell franchise. Robot designers and engineers, let me know how it lands!
 
-🔗 [hubrisofprogress.substack.com](https://hubrisofprogress.substack.com/p/why-i-love-the-fuchikoma-ghost-in) • 4h ago
+🔗 [hubrisofprogress.substack.com](https://hubrisofprogress.substack.com/p/why-i-love-the-fuchikoma-ghost-in) • 5h ago
 
 ---
 
@@ -112,7 +112,7 @@ I wrote a piece on my beloved Fuchikoma from the Ghost In The Shell franchise. R
 
 **[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
 
-Tech Xplore • 17h ago
+Tech Xplore • 18h ago
 
 ---
 
@@ -120,7 +120,7 @@ Tech Xplore • 17h ago
 
 Several negative developments put quite a hurt on the company's stock.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -136,7 +136,7 @@ The Robot Report • 1h ago
 
 ABB Robotics is integrating NVIDIA Omniverse libraries into RobotStudio to enhance robot simulation and streamline real-world deployments.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -144,7 +144,7 @@ The Robot Report • 1h ago
 
 Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
 
-Modern War Institute - • 10h ago
+Modern War Institute - • 11h ago
 
 ---
 
@@ -152,7 +152,7 @@ Modern War Institute - • 10h ago
 
 Integral AI Inc., a five-year-old company founded by former Google researchers Jad Tarifi and Nima Asgharbeygi, develops AI models geared for automated systems such as robots and self-driving cars.  The company has worked with auto parts maker Denso Corp. since 2021 to help teach industrial robots new skills by observing demonstrations.  The 15-person startup is holding initial discussions with Toyota Motor Corp., Sony Group Corp., Honda Motor Co., Nissan Motor Co. and Mitsui Chemicals Inc. to pitch them on how artificial intelligence can advance manufacturing processes.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -168,7 +168,7 @@ Business Insider • 1d ago
 
 Bellefontaine High School’s robotics program delivered a strong performance at the Ohio State Robotics Championship, held at the National Museum of the United States Air […]
 
-Peak of Ohio • 10h ago
+Peak of Ohio • 11h ago
 
 ---
 
@@ -208,7 +208,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 37K • 👍 1K • 💬 75 • ⏱️ 14:51 • 18h ago
+👁️ 37K • 👍 1K • 💬 75 • ⏱️ 14:51 • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 FUN Robotics Network
 
-👁️ 214 • 👍 7 • ⏱️ 1:13 • 1h ago
+👁️ 214 • 👍 7 • ⏱️ 1:13 • 2h ago
 
 ---
 
