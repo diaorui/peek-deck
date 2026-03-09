@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T07:04:00.591757+00:00'
+updated: '2026-03-09T08:02:41.356908+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 07:04 UTC  
+**Last Updated:** March 09, 2026 at 08:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
 
-3h ago
+4h ago
 
 ---
 
@@ -44,13 +44,13 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
 
-14h ago
+15h ago
 
 ---
 
 **[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -58,7 +58,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-9m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ The awkward walking gait (and the wrong direction, lol) so far is the simplest 2
 
 Hi folks, first time posting here I built an autonomous experiment loop for robotics research, based on Karpathy's recent autoresearch, and wanted to share the results with you guys Github: https://github.com/jellyheadandrew/autoresearch-robotics https://i.redd.it/156cdaawaxng1.gif It consists of same core loop: agent modifies the training code, runs the experiment, checks if the result improved, keeps or discards, and repeats autonomously The key adaptation is replacing the LLM training loop with a robotics simulation feedback loop - the agent optimizes policy training code against task success rate AND renderings from MuJoCo, instead of validation loss What's different Visual feedback. After each experiment, MuJoCo renders the robot's behavior and Claude Vision analyzes the frames. The agent sees what the robot is doing wrong, not just number Experimentally, I feel it provides better qualitative feedbacks for next trial. (Example1) GRASPS cube! but cant transport to goal (dist 0.22) discard balanced throughput+reward shaping (58K steps, 11K updates) (Example2) inconsistent gripper orientation, no contact discard vectorized HER + N_UPDATES=10 (55K steps but too few updates) I ran experiments on very simple robot-learning task (FetchReach). The agent started from an SAC+HER baseline and autonomously discovered that a simple proportional controller solves the task. https://preview.redd.it/ddc3mde5axng1.png?width=1482&format=png&auto=webp&s=1eea396a9579d1ddc0b7cb3956c07a821a79347e I'm currently running more complex tasks (FetchPush and FetchPickPlace), and will try VLAs after I get some GPU compute credits. Would love feedback from anyone working on robotics or sim-to-real!
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi folks, first time posting here I built an autonomous experiment loop for robo
 
 Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
 
-13h ago
+14h ago
 
 ---
 
@@ -82,7 +82,7 @@ Robotics researcher Holly Yanco describes research looking at how people respond
 
 I've been thinking about this lately and I'm curious what people here think. Do you believe that robots will eventually become a normal part of everyday life, like smartphones or laptops today? As in, most households having at least one. A few things I'm especially curious about: Do you think robots could become a main interface for interacting with AI in the future? How comfortable would you personally feel about having a robot in your home? What kind of robot would you actually want? a purely practical tool (cleaning, tasks, assistance) entertainment / companionship or something that combines both Interested to hear different perspectives. I feel like people's expectations of robots vary a lot.
 
-5m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 Hi everyone I'm a grad french student getting into robotics simulation and I've been reading a lot about sim-to-real transfer lately. The more I dig into it, the more I realize there's a huge gap between what simulators promise and what actually works when you put a robot in the real world. I would love to hear from people who actually deal with this day to day: Where do your robots most often fail when you go from sim to real deployment? Is it stuff you could have predicted, or mostly edge cases nobody saw coming? When something breaks in the real world, can you actually reproduce it in simulation? What makes that hard? If you could add one thing to your current simulation/testing pipeline that doesn't exist yet, what would it be? Genuinely curious .... trying to figure out if this is a space worth diving deeper into for my research. Any perspective helps, even if it's just "simulation is fine, the real problem is X." Merci beaucou !
 
-15h ago
+16h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi everyone I'm a grad french student getting into robotics simulation and I've 
 
 My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a simple kit or something we can put together without a high cost. She wants to be a few feet high and resemble this Vee character https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2F2c7c7e9f-fd4a-4b7e-99ad-53216dbdb05b%2Fscale-to-width%2F755&f=1&nofb=1&ipt=3435994b5d38266f04bb4caa669e22dbcf85757bd86dffc342a6c8eaab344891 I work in robotics but haven't completed many hobby kits. I'm comfortable soldering and with tools but I don't understand kinematics or anything. Please let me know if you can provide suggestions? I was thinking something along these lines for the base but it would be taller https://www.robotshop.com/products/lynxmotion-biped-brat-kit-no-servos-or-electronics-brat-blk?qd=3863c5f9d2d553499b3f180b869b6336
 
-11h ago
+12h ago
 
 ---
 
@@ -118,7 +118,7 @@ My daughter (11yo) wants to build a bipedal animatronic and I'm looking for a si
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
@@ -134,7 +134,7 @@ Futurism • 1d ago
 
 Integral AI Inc., a five-year-old company founded by former Google researchers Jad Tarifi and Nima Asgharbeygi, develops AI models geared for automated systems such as robots and self-driving cars.  The company has worked with auto parts maker Denso Corp. since 2021 to help teach industrial robots new skills by observing demonstrations.  The 15-person startup is holding initial discussions with Toyota Motor Corp., Sony Group Corp., Honda Motor Co., Nissan Motor Co. and Mitsui Chemicals Inc. to pitch them on how artificial intelligence can advance manufacturing processes.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -142,7 +142,7 @@ Yahoo Finance • 2h ago
 
 Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Tech Xplore • 1d ago
 
 Several negative developments put quite a hurt on the company's stock.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Motley Fool • 6h ago
 
 The Tesla titan and other techies are bullish on ‘amazing abundance.’
 
-New York Post • 18h ago
+New York Post • 19h ago
 
 ---
 
@@ -172,7 +172,7 @@ New York Post • 18h ago
 
 Hyundai has donated four super-tough unmanned robotic vehicles to firefighters in Korea for use in high-risk situations. The autonomous vehicles will deal with the initial stages of a fire to provide more information and safety to firefighters.
 
-New Atlas • 20h ago
+New Atlas • 21h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Hill • 2d ago
 
 Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
 
-WJON • 18h ago
+WJON • 19h ago
 
 ---
 
@@ -210,7 +210,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 17K • 👍 644 • 💬 51 • ⏱️ 14:51 • 6h ago
+👁️ 17K • 👍 644 • 💬 51 • ⏱️ 14:51 • 7h ago
 
 ---
 
@@ -220,7 +220,7 @@ It's not just a phone; it's a revolutionary invention that uses advanced actuato
 
 📺 SciVion
 
-👁️ 2K • 💬 3 • ⏱️ 0:30 • 11h ago
+👁️ 2K • 💬 3 • ⏱️ 0:30 • 12h ago
 
 ---
 
@@ -270,7 +270,7 @@ Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (d
 
 📺 Ticker Symbol: YOU
 
-👁️ 21K • 👍 929 • 💬 52 • ⏱️ 29:53 • 16h ago
+👁️ 21K • 👍 929 • 💬 52 • ⏱️ 29:53 • 17h ago
 
 ---
 
@@ -290,7 +290,7 @@ War Robots Gameplay: NEW Robot VECTOR is going to be annoying in WR. Here's my n
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 406 • 💬 127 • ⏱️ 15:18 • 18h ago
+👁️ 8K • 👍 406 • 💬 127 • ⏱️ 15:18 • 19h ago
 
 ---
 

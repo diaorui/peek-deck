@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T07:04:00.582296+00:00'
+updated: '2026-03-09T08:02:41.347650+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 07:04 UTC  
+**Last Updated:** March 09, 2026 at 08:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I keep hearing this advice to not sell your Bitcoin, just borrow against it. But honestly I don’t fully get why that’s supposed to be better. If you sell BTC after it’s gone up, you’re actually locking in profit. You bought at one price and sold higher, so you walk away with real gains. When you borrow against your Bitcoin though, you’re taking out a loan that you eventually have to pay back plus interest. So in my head it feels like you’re not really gaining money, you’re just accessing cash temporarily and then paying for it later. I get that people want to keep their BTC long term and stay exposed to the price going up, but if the goal is to actually make money, wouldn’t selling a portion make more sense?
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption — capped at $5,000 annually — to let Americans use Bitcoin and other digital assets for everyday purchases without triggering capital gains taxes.
 
-🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 22h ago
+🔗 [TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more](https://www.thestreet.com/crypto/markets/lummis-300-de-minimis-crypto-tax-exemption-bitcoin) • 23h ago
 
 ---
 
@@ -97,7 +97,7 @@ Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption —
 
 Some reports circulating online claim that Binance may have accumulated a large amount of Bitcoin during the recent market decline. The estimated figure being mentioned is around $1 billion worth of Bitcoin, although there has not been an official confirmation explaining the purpose of the transactions. Large exchange movements can occur for several reasons, including liquidity management, custody changes, or treasury allocation. Without further details, it’s difficult to determine the exact intent behind the activity. Still, transactions of this size tend to attract attention, especially when they occur during periods of market volatility. What do you think about large Bitcoin purchases happening during market downturns? Could they reflect long term positioning, or are there other explanations that make more sense?
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the
 
 I am currently studying Taproot and see its benefits about the application of Schnorr Signature scheme, i.e. key aggregation. I just understood that there are 2 spending paths of pay-to-taproot (P2TR), the key path, which in many cases takes advantage of the possibility to aggregate signatures. Then the alternative spending path: script path. There's also the advantage of having the same address length, which makes, single sig, MuSig or other complicated addresses indistinguishable. Better for privacy. BIP-0360 proposes the implementation of pay-to-merkle root (P2MR), which is the use of only the script path, essentially. And it was done due to P2TR being vulnerable to long exposure attack. screenshot from BIP-0360 Bummer! So, how can we take advantage of the use of Schnorr signature scheme moving forward? How about those who don't actually use MuSig2 and other complexities, creating a single sig wallet address only? Are they just better off avoiding P2TR then? Are there developers working to still implement Schnorr signature scheme for single key wallets, in a way less vulnerable to the long exposure attack highlighted by BIP-0360?
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ I am currently studying Taproot and see its benefits about the application of Sc
 
 Once you start buying Bitcoin on multiple exchanges and moving coins to cold storage, tracking everything gets complicated pretty quickly. Between: transfers between wallets network fees UTXO consolidation keeping cost basis accurate making sure everything lines up for tax reporting my spreadsheet started getting pretty messy. I ended up building a small browser-only tracker for myself just to keep things organized across wallets. It handles basic things like logging buys and transfers, tracking cost basis, and exporting transactions for tax software. But I’m curious what other people here are doing. Are most people still using spreadsheets for this, or are there tools/workflows that work well once you start managing multiple wallets?
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ Once you start buying Bitcoin on multiple exchanges and moving coins to cold sto
 
 Were living in the most uncertain time in recent history. Inflation is soon to be rampant and will not be able to be stopped. The wealthy will receive bail outs. The poors will receive threats of death or jail if we dont fight wars for the elites. Threats of jail or death if we dont turn in our personal gold reserves. Own what cant be frozen as easily as a USD asset. Own something more portable than gold. Own something that represents one of the only attempts at returning monetary freedom to the people who have realized the debt system is not for them. Bitcoin in a cold wallet.
 
-16h ago
+17h ago
 
 ---
 
@@ -137,7 +137,7 @@ Were living in the most uncertain time in recent history. Inflation is soon to b
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-56m ago
+1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Everytime, yep. Everytime you don't buy, the price is just stuck, consolidating. The moment you buy, it dips again, the moment you sold, it went up. Only in Bitocin! Hodl!
 
-14h ago
+15h ago
 
 ---
 
@@ -153,7 +153,7 @@ Everytime, yep. Everytime you don't buy, the price is just stuck, consolidating.
 
 The bitcoin price has plunged again as traders fret the Middle East conflict could send shock waves through the global economy.
 
-🔗 [Forbes Australia](https://www.forbes.com.au/news/experts/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/) • 2h ago
+🔗 [Forbes Australia](https://www.forbes.com.au/news/experts/the-feds-bitcoin-price-nightmare-is-suddenly-coming-true/) • 3h ago
 
 ---
 
@@ -165,7 +165,7 @@ The bitcoin price has plunged again as traders fret the Middle East conflict co
 
 Nikkei drops more than 6%, and Kospi slides about 8% as traders price supply disruption risk, while prediction markets show strong odds of $120 crude.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 3h ago
 
 Is the market-leading cryptocurrency in danger of being disrupted?
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 20h ago
 
 We had strong reservations about the Texas Strategic Bitcoin Reserve, signed into law last year, and it’s taken but a few months for the market to confirm our...
 
-Dallas News • 32m ago
+Dallas News • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Dallas News • 32m ago
 
 A retired Midtown resident says a Home Depot employee stole $500 from his Coinbase account while briefly holding his phone inside the store, and he says the company has not taken action to help him recover the money.
 
-Action News 5 • 3h ago
+Action News 5 • 4h ago
 
 ---
 
@@ -197,7 +197,7 @@ Action News 5 • 3h ago
 
 Key PointsHuge price drawdowns are nothing new to the Bitcoin community, and this crypto has always recovered in the past.
 
-Nasdaq • 11h ago
+Nasdaq • 12h ago
 
 ---
 
@@ -219,7 +219,7 @@ Forbes • 1d ago
 
 Bitcoin’s recent parallel movement with US software stocks is more of a case of shared exposure to macro events, rather than any structural convergence, according to financial services company NYDIG.In the past week, Bitcoin (BTC) rallied alongside US software stocks, leading many to claim the cryp…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -227,7 +227,7 @@ TradingView • 3h ago
 
 Across 68 verified cable fault events, node impact was usually under 5%, but ASN targeting beats seabed chaos fast.
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -235,7 +235,7 @@ CryptoSlate • 12h ago
 
 Losing nearly half its value in five months, the dominant digital asset is losing the confidence of investors.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -253,7 +253,7 @@ The Motley Fool • 17h ago
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 2 • 💬 1 • 13h ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 2 • 💬 1 • 14h ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -267,7 +267,7 @@ Complete operating system for Bitcoiners
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 6h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 7h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -325,7 +325,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 12K • 👍 1K • 💬 105 • ⏱️ 11:22 • 2h ago
+👁️ 12K • 👍 1K • 💬 105 • ⏱️ 11:22 • 3h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 117 • ⏱️ 14:03 • 8h ago
+👁️ 17K • 👍 1K • 💬 117 • ⏱️ 14:03 • 9h ago
 
 ---
 
@@ -355,7 +355,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 814 • 💬 130 • ⏱️ 8:02 • 7h ago
+👁️ 12K • 👍 814 • 💬 130 • ⏱️ 8:02 • 8h ago
 
 ---
 
@@ -375,7 +375,7 @@ Will bitcoin crash again to new lows or has it bottomed? We explain why bitcoin'
 
 📺 Alessio Rastani
 
-👁️ 32K • 👍 2K • 💬 294 • ⏱️ 4:28 • 23h ago
+👁️ 32K • 👍 2K • 💬 294 • ⏱️ 4:28 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ Once you know BTC isn't digital gold, you can understand the moves better. I pre
 
 📺 Nicholas Crown
 
-👁️ 8K • 👍 230 • 💬 28 • ⏱️ 0:59 • 11h ago
+👁️ 8K • 👍 230 • 💬 28 • ⏱️ 0:59 • 12h ago
 
 ---
 
@@ -395,7 +395,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 215 • 💬 24 • ⏱️ 4:38 • 8h ago
+👁️ 3K • 👍 215 • 💬 24 • ⏱️ 4:38 • 9h ago
 
 ---
 
@@ -405,7 +405,7 @@ Use our institutional grade risk models to accumulate, plan exits, and stay ahea
 
 📺 Dan Gambardello
 
-👁️ 11K • 👍 769 • 💬 214 • ⏱️ 16:14 • 16h ago
+👁️ 11K • 👍 769 • 💬 214 • ⏱️ 16:14 • 17h ago
 
 ---
 
