@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T11:56:24.567962+00:00'
+updated: '2026-03-09T13:10:31.179996+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 11:56 UTC  
+**Last Updated:** March 09, 2026 at 13:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** +0.7%  
-**30d:** -4.4%  
-**90d:** -39.9%  
-**1y:** +6.7%  
+**24h:** +3.1%  
+**7d:** +1.1%  
+**30d:** -4.0%  
+**90d:** -39.6%  
+**1y:** +7.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $241.24B
+**Market Cap:** $241.77B
 Rank #2
 
 **Circulating Supply:** 120,692,045 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.6%
+-59.5%
 
 **All-Time Low:** $0.43
-+461451.3%
++462506.7%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
+
+---
+
+**[Before ENS, there was GlobalRegistrar — Ethereum's first naming system (Sep 24, 2015)](https://www.reddit.com/r/ethereum/comments/1rozkho/before_ens_there_was_globalregistrar_ethereums/)**
+
+In September 2015, six weeks after mainnet launch, someone deployed three contracts that became Ethereum's first naming infrastructure: GlobalRegistrar, HashReg, and UrlHint. Block 282,880 — September 24, 2015 The GlobalRegistrar mapped names to addresses. HashReg mapped code hashes to content hashes. UrlHint mapped content hashes to URLs for metadata retrieval. Together they formed the NatSpec documentation system — the mechanism that was supposed to let Ethereum wallets display human-readable descriptions before signing transactions. The system was hardcoded directly into go-ethereum v1.4.0 (common/registrar/registrar.go). Not an optional plugin. Core infrastructure. The frozen TODO that became ENS Inside the GlobalRegistrar source code (verified on Etherscan, compiled with solc v0.1.1), there's a comment that reads: // TODO: bidding mechanism That comment sat frozen for years. The ambition was there — first-come-first-served registration was always meant to be a placeholder. The bidding mechanism didn't arrive until ENS launched in May 2017, when Vickrey auctions replaced the naive assignment system. ENS didn't appear from nowhere. It solved the exact problem the GlobalRegistrar identified and couldn't finish. The three-contract system All three contracts were deployed by the same address within 18 blocks: - GlobalRegistrar: block 282,880 - HashReg: block 282,885 (5 blocks later) - UrlHint: block 282,898 (18 blocks after start) The deployer identity isn't confirmed — likely a go-ethereum core developer given the contracts were shipped alongside the go-ethereum codebase — but we haven't pinned the address to a name yet. Why it matters Every .eth name you resolve today is the descendant of that frozen TODO comment from 2015. The naming problem was understood from week six. It took two more years to solve it properly. We documented all three contracts on EthereumHistory.com last night. The verified source code, links to go-ethereum v1.4.0, and the full historical context are there if you want to dig deeper. Cross-posted from our ongoing archaeology of early mainnet contracts. If you deployed or used these contracts in 2015, we'd love to hear the story.
+
+9m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For the past few months I've been building EthereumHistory.com, a project to document every notable smart contract from Ethereum's earliest days (2015-2017). Think of it as a Wikipedia for Ethereum's contract archaeology. Recently I did a deep scan of all 12,609 contracts deployed during the Frontier era and found 1,650 still holding ETH — totaling over 38,000 ETH (~$95M at current prices) locked in contracts from Ethereum's first weeks. Here's what's actually inside them: The Gambling Contracts (Day 13 of Ethereum) EtherDice (0xc4c51de1abf5d60dbd329ec0f999fd8f021ae9fc) was deployed on August 12, 2015 — just 13 days after Ethereum launched. Someone loaded it with a 1,000 ETH bankroll. It's a 21-function commit-reveal dice game, surprisingly sophisticated for the era. 122 ETH still sits inside, permanently locked because the deployer likely lost their keys years ago. The Inverted Timelock TimeLockVault (0xed44f3c2081480b08643fe1ca281fab9ed643735) has a beautiful bug: the time check is inverted. You can withdraw before the unlock date (2035), but once 2035 arrives, the funds become permanently locked. 50 ETH inside. The deployer could have withdrawn years ago but apparently never noticed. The Stalled Pyramid EtherPyramid (0xa9e4e3b1da2752aea980698c335e70e9ab26c) had 140 participants. 136 of them are still waiting for their payout. 37 ETH frozen forever in a pyramid that ran out of new entrants. A time capsule of early Ethereum's Wild West era. The Pattern After scanning all 1,650 funded contracts, the pattern is consistent: every single one is either owner-gated (keys likely lost), bug-locked, pyramid-stalled, or timelocked. At least 5 active hunter addresses have already probed most of these contracts looking for extractable funds. None succeeded. These contracts are essentially digital fossils — permanently preserved on-chain with real ETH sealed inside them. They tell the story of Ethereum's earliest developers experimenting with code that would handle real money, often for the first time. I've been documenting these on EthereumHistory.com with verified source code, deployment context, and the stories behind them. If you deployed contracts in 2015-2016 or know the stories behind any early projects, I'd love to hear from you. What early Ethereum contracts do you remember that deserve to be documented?
 
-22h ago
+1d ago
 
 ---
 
@@ -94,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -138,14 +146,6 @@ I propose to wrap USDT, since currently it is a highly outdated coin, and its tr
 
 ---
 
-**[We verified Vitalik's 2015 token contract and discovered it wasn't compiled with Solidity - it's Serpent](https://www.reddit.com/r/ethereum/comments/1rmheom/we_verified_vitaliks_2015_token_contract_and/)**
-
-I've been working on verifying source code for the oldest contracts on Ethereum, and this one took days to crack. The contract: 0xa2e3680acaf5d2298697bdc016cf75a929385463 Deployed by Vitalik on November 12, 2015 (block 530,996). It's a token contract implementing the standardized currency API from the early ethereum/dapp-bin repo. 1,000,000 initial supply, approve/transfer mechanics - basically a proto-ERC-20. The problem: We tried compiling currency.sol with every Solidity compiler version from that era. Every archived soljson release from v0.1.1 through v0.3.6, nightlies from Sep-Dec 2015, native C++ solc builds from the webthree-umbrella repo, optimizer on and off. Nothing matched. The breakthrough: Three clues pointed us away from Solidity entirely: The on-chain constructor starts with 6000603f53 (MSTORE8-based memory init). Every Solidity version produces 60606040525b (the free memory pointer pattern). This is a fundamentally different code generation approach. The runtime code uses MSIZE, SWAP1, MSIZE, ADD for memory allocation. This is the Serpent compiler's alloc() pattern - not found in any version of solc. Two function selectors didn't match the Solidity source: disapprove() instead of unapprove(), and isApprovedOnceFor() instead of isApprovedOnce(). The answer: The contract was compiled from currency.se (the Serpent version), not currency.sol. The ethereum/dapp-bin repo had both implementations side by side. Vitalik deployed his own language's version. Compiled with the Serpent compiler at commit f0b4128 (Oct 15, 2015) - byte-for-byte identical, all 1,661 bytes. Full methodology, source, and proof: github.com/cartoonitunes/vitalik-currency-verification We've submitted a manual verification request to Etherscan since they don't support Serpent as a verification language. Hopefully they can add it as a verified contract with source. This is part of a broader effort to verify and preserve the earliest contracts on Ethereum. A lot of historically important contracts from 2015-2016 are still unverified because the compiler versions are too old for Etherscan's automated tools.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,7 +162,7 @@ Benzinga • 2d ago
 
 Bitcoin USD continues to hover near $67,200 following a week of tight-ranging price action. However, its longstanding dominance over the broader cryptocurrency market is visibly softening today.Fresh data from CoinGecko reveals the total cryptocurrency market capitalization expanding past $2.38 trillion, while Bitcoin Dominance has fallen below 59% and is currently ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -176,35 +176,29 @@ Binance • 1d ago
 
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
 
-The Motley Fool • 23h ago
-
----
-
-**[Ethereum Price Tries to Defend $1,900 Support amid $157 Million Co-Founder Selloff](https://www.tipranks.com/news/ethereum-price-tries-to-defend-1900-support-amid-157-million-co-founder-selloff)**
-
-TipRanks • 6h ago
+The Motley Fool • 1d ago
 
 ---
 
 **[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
-**[Why Bitcoin, Ethereum and XRP Prices Are Not Crashing Today?](https://www.tradingview.com/news/coinpedia:0ba3e64bd094b:0-why-bitcoin-ethereum-and-xrp-prices-are-not-crashing-today/)**
+**[How Bitcoin Ethereum and XRP Will React to This Week’s CPI Report](https://www.tradingview.com/news/coinpedia:7a856ab5e094b:0-how-bitcoin-ethereum-and-xrp-will-react-to-this-week-s-cpi-report/)**
 
-Cryptocurrencies defied a sweeping global market selloff on Monday as a catastrophic oil supply shock and escalating U.S.-Iran tensions sent equities tumbling, with Bitcoin, Ethereum and XRP each posting modest gains even as Wall Street futures pointed to one of the worst openings in recent memory…
+The crypto market started Monday on a positive note, with most top 10 coins trading in green. Now, investors are closely watching one key event this week, the upcoming U.S. Consumer Price Index (CPI) report. Last month’s CPI data pushed the crypto market up by nearly 4%. This time, traders are watc…
 
-TradingView • 9h ago
+TradingView • 6h ago
 
 ---
 
-**[Solana vs Ethereum – $4.4T traded, RWA holders flipped – But who wins?](https://ambcrypto.com/solana-vs-ethereum-4-4t-traded-rwa-holders-flipped-but-who-wins/)**
+**[Ethereum co-founder moves 157M to exchange – Can ETH’s $1,800 hold?](https://ambcrypto.com/ethereum-co-founder-moves-157m-to-exchange-can-eths-1800-hold/)**
 
-Solana leads retail trading growth, while Ethereum retains deeper institutional liquidity.
+Ethereum faces insider transfers, rising leverage, and conflicting positioning as markets watch key support closely.
 
-AMBCrypto • 1d ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -212,15 +206,21 @@ AMBCrypto • 1d ago
 
 Dubai, UAE, March  08, 2026  (GLOBE NEWSWIRE) -- Pepeto just confirmed accelerating whale wallet accumulation inside the presale while funding cro...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 12h ago
 
 ---
 
-**[Ethereum Price Prediction: ETH Targets $8,000 as Harvard Rotates $86.8M Into ETH Trust While Pepeto Keeps Selling Out Faster More Than Ever](https://financefeeds.com/ethereum-price-prediction-eth-targets-8000-as-harvard-rotates-86-8m-into-eth-trust-while-pepeto-keeps-selling-out-faster-more-than-ever/)**
+**[Why Bitcoin, Ethereum and XRP Prices Are Not Crashing Today?](https://coinpedia.org/news/why-bitcoin-ethereum-and-xrp-prices-are-not-crashing-today/)**
 
-Harvard’s $57 billion endowment just rotated $86.8 million from Bitcoin ETFs into the iShares Ethereum Trust, proving the smartest institutional money on the
+Cryptocurrencies defied a sweeping global market selloff on Monday as a catastrophic oil supply shock and escalating U.S.-Iran tensions sent equities
 
-FinanceFeeds • 12h ago
+Coinpedia • 10h ago
+
+---
+
+**[Ethereum Price Tries to Defend $1,900 Support amid $157 Million Co-Founder Selloff](https://www.tipranks.com/news/ethereum-price-tries-to-defend-1900-support-amid-157-million-co-founder-selloff)**
+
+TipRanks • 7h ago
 
 ---
 
@@ -228,23 +228,23 @@ FinanceFeeds • 12h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
-
-Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 2K • 💬 147 • ⏱️ 11:32 • 1d ago
-
----
-
 **[JUST IN: Ethereum Co-Founder Moves $157M to Kraken — Is He About to DUMP All His ETH?!](https://www.youtube.com/watch?v=eB3jpWKlZFY)**
 
 IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
 📺 The Kenzo Guy
 
-👁️ 2K • 👍 109 • 💬 35 • ⏱️ 20:10 • 17h ago
+👁️ 2K • 👍 110 • 💬 3 • ⏱️ 20:10 • 19h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
+
+Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 2K • 💬 148 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -254,27 +254,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 159 • 💬 93 • ⏱️ 15:06 • 1d ago
-
----
-
-**[BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AjrSEIqun14)**
-
-BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 245 • 💬 96 • ⏱️ 17:36 • 13h ago
-
----
-
-**[Ethereum Will Not Stay This Cheap! ⚠️ ETH Crypto Token Analysis](https://www.youtube.com/watch?v=jrKbEBTxqFA)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 6K • 👍 205 • 💬 26 • ⏱️ 10:24 • 3d ago
+👁️ 6K • 👍 166 • 💬 93 • ⏱️ 15:06 • 1d ago
 
 ---
 
@@ -284,37 +264,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 2 • ⏱️ 5:48 • 19h ago
+👁️ 2K • 👍 140 • 💬 2 • ⏱️ 5:48 • 20h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MNJwGxT85E0)**
+**[My FIRST GPU Mining Rig: Building &amp; Earning Ethereum! #shorts](https://www.youtube.com/watch?v=tYgb7FQKpjE)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+From unboxing to mining Ethereum, my first six-GPU setup was surprisingly simple. The thrill of seeing those coins roll in was ...
 
-📺 More Crypto Online
+📺 VoskCoin
 
-👁️ 1K • 👍 91 • 💬 2 • ⏱️ 3:59 • 9h ago
+👁️ 86 • 👍 6 • 💬 2 • ⏱️ 0:50 • 1h ago
 
 ---
 
-**[BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7bIFSyrYf_0)**
+**[BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AjrSEIqun14)**
 
-BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 11K • 👍 316 • 💬 79 • ⏱️ 17:36 • 1d ago
+👁️ 7K • 👍 259 • 💬 127 • ⏱️ 17:36 • 15h ago
 
 ---
 
-**[🔥 Bitcoin vs Ethereum vs XRP: HOLD or SELL Now?](https://www.youtube.com/watch?v=pni0OJ1fhIA)**
+**[Bitcoin &amp; Ethereum Upside &amp; Downside Targets | Multiple Time Frame Analysis](https://www.youtube.com/watch?v=yRyq1Kvv2po)**
 
-Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ...
+In this clip from the most recent askSlim Live, Slim provides an analysis update in Bitcoin (BTC) & Ethereum (ETH). Sign up now ...
 
-📺 Kirtish Vyas (CoinLyte)
+📺 Steve Miller
 
-👁️ 6K • 👍 237 • 💬 26 • ⏱️ 9:55 • 2d ago
+👁️ 2K • 👍 102 • 💬 6 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -325,6 +305,26 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 2K • 👍 128 • 💬 5 • ⏱️ 3:42 • 1d ago
+
+---
+
+**[Ethereum: The Silent Plumbing of New Money &amp; BMNR Impact #shorts](https://www.youtube.com/watch?v=vGwiJ8IPoms)**
+
+Discover how Ethereum is quietly becoming the backbone for new money movement. Witness billions in real-world assets ...
+
+📺 MONEY GAME
+
+👁️ 626 • 👍 18 • 💬 3 • ⏱️ 1:36 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MNJwGxT85E0)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 99 • 💬 3 • ⏱️ 3:59 • 10h ago
 
 ---
 

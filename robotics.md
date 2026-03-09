@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T11:56:24.571170+00:00'
+updated: '2026-03-09T13:10:31.183279+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 11:56 UTC  
+**Last Updated:** March 09, 2026 at 13:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
 
-7h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-3h ago
+4h ago
 
 ---
 
@@ -60,13 +60,13 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
 
-19h ago
+20h ago
 
 ---
 
 **[Humanoid robot goes for a stroll with a robot dog](https://www.reddit.com/r/robotics/comments/1ro9nz1/humanoid_robot_goes_for_a_stroll_with_a_robot_dog/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -74,7 +74,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 2h ago
 
 ---
 
@@ -82,7 +82,7 @@ USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu
 
 Hi folks, first time posting here I built an autonomous experiment loop for robotics research, based on Karpathy's recent autoresearch, and wanted to share the results with you guys Github: https://github.com/jellyheadandrew/autoresearch-robotics https://i.redd.it/156cdaawaxng1.gif It consists of same core loop: agent modifies the training code, runs the experiment, checks if the result improved, keeps or discards, and repeats autonomously The key adaptation is replacing the LLM training loop with a robotics simulation feedback loop - the agent optimizes policy training code against task success rate AND renderings from MuJoCo, instead of validation loss What's different Visual feedback. After each experiment, MuJoCo renders the robot's behavior and Claude Vision analyzes the frames. The agent sees what the robot is doing wrong, not just number Experimentally, I feel it provides better qualitative feedbacks for next trial. (Example1) GRASPS cube! but cant transport to goal (dist 0.22) discard balanced throughput+reward shaping (58K steps, 11K updates) (Example2) inconsistent gripper orientation, no contact discard vectorized HER + N_UPDATES=10 (55K steps but too few updates) I ran experiments on very simple robot-learning task (FetchReach). The agent started from an SAC+HER baseline and autonomously discovered that a simple proportional controller solves the task. https://preview.redd.it/ddc3mde5axng1.png?width=1482&format=png&auto=webp&s=1eea396a9579d1ddc0b7cb3956c07a821a79347e I'm currently running more complex tasks (FetchPush and FetchPickPlace), and will try VLAs after I get some GPU compute credits. Would love feedback from anyone working on robotics or sim-to-real!
 
-10h ago
+11h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi folks, first time posting here I built an autonomous experiment loop for robo
 
 I've been thinking about this lately and I'm curious what people here think. Do you believe that robots will eventually become a normal part of everyday life, like smartphones or laptops today? As in, most households having at least one. A few things I'm especially curious about: Do you think robots could become a main interface for interacting with AI in the future? How comfortable would you personally feel about having a robot in your home? What kind of robot would you actually want? a purely practical tool (cleaning, tasks, assistance) entertainment / companionship or something that combines both Interested to hear different perspectives. I feel like people's expectations of robots vary a lot.
 
-4h ago
+6h ago
 
 ---
 
@@ -98,7 +98,7 @@ I've been thinking about this lately and I'm curious what people here think. Do 
 
 Robotics researcher Holly Yanco describes research looking at how people respond when robots fail during tasks. One finding was that people can still trust a robot that fails often if the limits of the system are clear. Her example was a robot that performs task A 100% of the time and task B 0% of the time. Users can still trust the system because they understand what it can and cannot do. They will rely on it for task A and avoid using it for task B.
 
-18h ago
+19h ago
 
 ---
 
@@ -118,29 +118,43 @@ Little progress update on my 6 axis robot. It has a wrist now! 2 more axis to go
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 15h ago
+NPR • 16h ago
 
 ---
 
 **[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
 
-Tech Xplore • 10h ago
+Tech Xplore • 11h ago
 
 ---
 
-**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://finance.yahoo.com/news/former-google-ai-researcher-sets-041500137.html)**
+**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://finance.yahoo.com/news/abb-robotics-partners-nvidia-deliver-120000766.html)**
 
-Integral AI Inc., a five-year-old company founded by former Google researchers Jad Tarifi and Nima Asgharbeygi, develops AI models geared for automated systems such as robots and self-driving cars.  The company has worked with auto parts maker Denso Corp. since 2021 to help teach industrial robots new skills by observing demonstrations.  The 15-person startup is holding initial discussions with Toyota Motor Corp., Sony Group Corp., Honda Motor Co., Nissan Motor Co. and Mitsui Chemicals Inc. to pitch them on how artificial intelligence can advance manufacturing processes.
+ZURICH, March 09, 2026--ABB Robotics announced today it is integrating NVIDIA Omniverse libraries into ABB Robotics’ RobotStudio® to help manufacturers deploy physical AI in real world robotics applications.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[These robots are coming for the jobs no one wants — and could fill workforce gaps](https://www.businessinsider.com/agility-robotics-humanoid-robots-labor-shortage-aging-workforce-2026-3)**
+**[How Disney brought a robotic Olaf to life for its new Paris park](https://www.fastcompany.com/91501979/how-disney-brought-a-robotic-olaf-to-life-for-its-new-paris-park)**
 
-Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
+The robot captures the soul of the animated character, thanks to a custom AI engine and clever robotics.
 
-Business Insider • 1d ago
+Fast Company • 3h ago
+
+---
+
+**[Mirai Robotics raises $4.2M pre-seed to build autonomous and intelligent maritime systems to master every sea](https://markets.businessinsider.com/news/stocks/mirai-robotics-raises-4-2m-pre-seed-to-build-autonomous-and-intelligent-maritime-systems-to-master-every-sea-1035909780)**
+
+Milan, March  09, 2026  (GLOBE NEWSWIRE) -- The sea is one of the most critical infrastructures on the planet. Over 80% of global trade moves by s...
+
+markets.businessinsider.com • 40m ago
+
+---
+
+**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
+
+Bloomberg.com • 8h ago
 
 ---
 
@@ -148,7 +162,7 @@ Business Insider • 1d ago
 
 Several negative developments put quite a hurt on the company's stock.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -156,7 +170,7 @@ The Motley Fool • 11h ago
 
 Texas delivery to NS Federation opens education and performance uses for FF robots, while U.S. officials express support for its embodied AI strategy.
 
-Stock Titan • 9h ago
+Stock Titan • 10h ago
 
 ---
 
@@ -168,27 +182,11 @@ New Atlas • 1d ago
 
 ---
 
-**[Amazon Staffers Learning Hard Lesson as Company Cuts Robotics Jobs](https://futurism.com/robots-and-machines/amazon-robotics-layoffs)**
+**[Over 200 Teams Compete At Minnesota State VEX Robotics Championship In St. Cloud](https://wjon.com/vex-robotics-championship-mn/)**
 
-The tech and commerce giant is laying off robotics staffers in the latest round of cuts attributable to pandemic-era overhiring.
+Over 200 teams gathered at the River's Edge Convention Center for the Minnesota State VEX Robotics Championship, showcasing student innovation in robotics from elementary through college.
 
-Futurism • 1d ago
-
----
-
-**[How Disney brought a robotic Olaf to life for its new Paris park](https://www.fastcompany.com/91501979/how-disney-brought-a-robotic-olaf-to-life-for-its-new-paris-park)**
-
-The robot captures the soul of the animated character, thanks to a custom AI engine and clever robotics.
-
-Fast Company • 1h ago
-
----
-
-**[Inside Elon Musk’s vision of the future, where robots do everything and humans don’t work: Utopia or ‘dystopian hellhole’?](https://nypost.com/2026/03/08/tech/inside-elon-musks-robot-vision-of-the-future/)**
-
-The Tesla titan and other techies are bullish on ‘amazing abundance.’
-
-New York Post • 22h ago
+WJON • 1d ago
 
 ---
 
@@ -202,7 +200,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 26K • 👍 834 • 💬 63 • ⏱️ 14:51 • 11h ago
+👁️ 30K • 👍 907 • 💬 66 • ⏱️ 14:51 • 12h ago
 
 ---
 
@@ -212,17 +210,17 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 659K • 👍 39K • 💬 4K • ⏱️ 16:54 • 5d ago
+👁️ 662K • 👍 40K • 💬 4K • ⏱️ 16:54 • 5d ago
 
 ---
 
-**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
+**[HONOR ROBOT PHONE: A Revolutionary Invention](https://www.youtube.com/watch?v=-uv7SE3_WzA)**
 
-Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
+It's not just a phone; it's a revolutionary invention that uses advanced actuators to move its head (the camera module) and interact ...
 
-📺 AI Revolution
+📺 SciVion
 
-👁️ 22K • 👍 790 • 💬 57 • ⏱️ 14:35 • 4d ago
+👁️ 4K • 👍 151 • 💬 3 • ⏱️ 0:30 • 17h ago
 
 ---
 
@@ -232,7 +230,17 @@ Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (d
 
 📺 Ticker Symbol: YOU
 
-👁️ 22K • 👍 970 • 💬 57 • ⏱️ 29:53 • 21h ago
+👁️ 23K • 👍 1K • 💬 70 • ⏱️ 29:53 • 22h ago
+
+---
+
+**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
+
+Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
+
+📺 AI Revolution
+
+👁️ 22K • 👍 791 • 💬 57 • ⏱️ 14:35 • 4d ago
 
 ---
 
@@ -242,7 +250,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 209K • 👍 2K • 💬 306 • ⏱️ 29:41 • 3d ago
+👁️ 211K • 👍 2K • 💬 310 • ⏱️ 29:41 • 3d ago
 
 ---
 
@@ -252,7 +260,7 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 2. This. Is. 
 
 📺 NHRL
 
-👁️ 42K • 👍 444 • 💬 33 • ⏱️ 3:23:56 • 1d ago
+👁️ 43K • 👍 447 • 💬 36 • ⏱️ 3:23:56 • 1d ago
 
 ---
 
@@ -262,17 +270,17 @@ This AI-powered patrol robot is already walking real city streets in China along
 
 📺 Onyez 
 
-👁️ 936 • 👍 15 • 💬 2 • ⏱️ 0:39 • 5h ago
+👁️ 915 • 👍 15 • 💬 2 • ⏱️ 0:39 • 7h ago
 
 ---
 
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
+**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
 
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
+China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
 
-📺 CGTN Europe
+📺 TechFrontierNow
 
-👁️ 759K • 👍 1K • 💬 14 • ⏱️ 29:40 • 4d ago
+👁️ 58K • 👍 373 • 💬 80 • ⏱️ 9:26 • 4d ago
 
 ---
 
@@ -283,16 +291,6 @@ A moment like this perfectly captures how technology can be both revolutionary a
 📺 Billionaire Shots
 
 👁️ 37K • 👍 2K • 💬 274 • ⏱️ 0:13 • 5d ago
-
----
-
-**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
-
-China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
-
-📺 TechFrontierNow
-
-👁️ 58K • 👍 372 • 💬 77 • ⏱️ 9:26 • 4d ago
 
 ---
 
