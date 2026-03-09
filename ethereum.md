@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T10:12:40.360951+00:00'
+updated: '2026-03-09T11:09:16.054218+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 10:12 UTC  
+**Last Updated:** March 09, 2026 at 11:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $240.78B
+**Market Cap:** $241.24B
 Rank #2
 
 **Circulating Supply:** 120,692,045 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.7%
+-59.6%
 
 **All-Time Low:** $0.43
-+460208.7%
++461451.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For the past few months I've been building EthereumHistory.com, a project to document every notable smart contract from Ethereum's earliest days (2015-2017). Think of it as a Wikipedia for Ethereum's contract archaeology. Recently I did a deep scan of all 12,609 contracts deployed during the Frontier era and found 1,650 still holding ETH — totaling over 38,000 ETH (~$95M at current prices) locked in contracts from Ethereum's first weeks. Here's what's actually inside them: The Gambling Contracts (Day 13 of Ethereum) EtherDice (0xc4c51de1abf5d60dbd329ec0f999fd8f021ae9fc) was deployed on August 12, 2015 — just 13 days after Ethereum launched. Someone loaded it with a 1,000 ETH bankroll. It's a 21-function commit-reveal dice game, surprisingly sophisticated for the era. 122 ETH still sits inside, permanently locked because the deployer likely lost their keys years ago. The Inverted Timelock TimeLockVault (0xed44f3c2081480b08643fe1ca281fab9ed643735) has a beautiful bug: the time check is inverted. You can withdraw before the unlock date (2035), but once 2035 arrives, the funds become permanently locked. 50 ETH inside. The deployer could have withdrawn years ago but apparently never noticed. The Stalled Pyramid EtherPyramid (0xa9e4e3b1da2752aea980698c335e70e9ab26c) had 140 participants. 136 of them are still waiting for their payout. 37 ETH frozen forever in a pyramid that ran out of new entrants. A time capsule of early Ethereum's Wild West era. The Pattern After scanning all 1,650 funded contracts, the pattern is consistent: every single one is either owner-gated (keys likely lost), bug-locked, pyramid-stalled, or timelocked. At least 5 active hunter addresses have already probed most of these contracts looking for extractable funds. None succeeded. These contracts are essentially digital fossils — permanently preserved on-chain with real ETH sealed inside them. They tell the story of Ethereum's earliest developers experimenting with code that would handle real money, often for the first time. I've been documenting these on EthereumHistory.com with verified source code, deployment context, and the stories behind them. If you deployed contracts in 2015-2016 or know the stories behind any early projects, I'd love to hear from you. What early Ethereum contracts do you remember that deserve to be documented?
 
-21h ago
+22h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Borrow Stablecoins Without Selling Your Ethereum? Here’s the Idea Behind the 0% Loans.](https://www.reddit.com/r/ethereum/comments/1rocfjm/borrow_stablecoins_without_selling_your_ethereum/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I tried to access compound.finance, and when connecting wallet it warns me the domain has very low popularity. I carefully review it and found out when launching app, it actually got redirected to app.compoond.finance, which is extremely sketchy. I tried enter the website through google, and typing manually in browser, and enable secure dns, and access it on my phone. But the result is the same, when open the app function, I still got redirected to a very phishing like link https://app.compoond.finance/ I just did a whois lookup, the compoond is just registered yesterday, so a huge red flag! Anyone know what is going on?
 
-22h ago
+23h ago
 
 ---
 
@@ -162,7 +162,7 @@ Benzinga • 2d ago
 
 Bitcoin USD continues to hover near $67,200 following a week of tight-ranging price action. However, its longstanding dominance over the broader cryptocurrency market is visibly softening today.Fresh data from CoinGecko reveals the total cryptocurrency market capitalization expanding past $2.38 trillion, while Bitcoin Dominance has fallen below 59% and is currently ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ Binance • 1d ago
 
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -190,13 +190,13 @@ TradingView • 4h ago
 
 **[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
 
-Seeking Alpha • 46m ago
+Seeking Alpha • 1h ago
 
 ---
 
 **[Ethereum Price Tries to Defend $1,900 Support amid $157 Million Co-Founder Selloff](https://www.tipranks.com/news/ethereum-price-tries-to-defend-1900-support-amid-157-million-co-founder-selloff)**
 
-TipRanks • 4h ago
+TipRanks • 5h ago
 
 ---
 
@@ -212,7 +212,7 @@ AMBCrypto • 1d ago
 
 Dubai, UAE, March  08, 2026  (GLOBE NEWSWIRE) -- Pepeto just confirmed accelerating whale wallet accumulation inside the presale while funding cro...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 10h ago
 
 ---
 
@@ -220,7 +220,7 @@ markets.businessinsider.com • 9h ago
 
 Cryptocurrencies defied a sweeping global market selloff on Monday as a catastrophic oil supply shock and escalating U.S.-Iran tensions sent equities
 
-Coinpedia • 7h ago
+Coinpedia • 8h ago
 
 ---
 
@@ -234,7 +234,7 @@ Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 148 • ⏱️ 11:32 • 1d ago
+👁️ 45K • 👍 2K • 💬 147 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 2K • 👍 107 • 💬 34 • ⏱️ 20:10 • 16h ago
+👁️ 2K • 👍 109 • 💬 35 • ⏱️ 20:10 • 17h ago
 
 ---
 
@@ -254,7 +254,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 157 • 💬 93 • ⏱️ 15:06 • 1d ago
+👁️ 6K • 👍 159 • 💬 93 • ⏱️ 15:06 • 1d ago
+
+---
+
+**[BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AjrSEIqun14)**
+
+BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 245 • 💬 96 • ⏱️ 17:36 • 13h ago
 
 ---
 
@@ -268,13 +278,13 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AjrSEIqun14)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XF7_pP82FFE)**
 
-BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 6K • 👍 234 • 💬 81 • ⏱️ 17:36 • 12h ago
+👁️ 2K • 👍 140 • 💬 2 • ⏱️ 5:48 • 18h ago
 
 ---
 
@@ -284,37 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 942 • 👍 83 • 💬 2 • ⏱️ 3:59 • 7h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XF7_pP82FFE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 140 • 💬 2 • ⏱️ 5:48 • 17h ago
-
----
-
-**[ETH Ethereum Lower Prices Expected: PUMP Next Week](https://www.youtube.com/watch?v=bf0gs5177U8)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 350 • 👍 25 • 💬 5 • ⏱️ 7:22 • 2d ago
-
----
-
-**[What is ETHEREUM? How eth Works?](https://www.youtube.com/watch?v=WOFdbCi1cnI)**
-
-What is ETHEREUM? How eth Works? NBC, Ryan Browne, cnbc international, ethereum, cnbc explains, ethereum price ...
-
-📺 SmileClock
-
-👁️ 2K • 👍 130 • 💬 139 • ⏱️ 2:33 • 13h ago
+👁️ 1K • 👍 91 • 💬 2 • ⏱️ 3:59 • 8h ago
 
 ---
 
@@ -325,6 +305,26 @@ BITCOIN: The Reverse Squeeze Just Started (Warning)!!! - Bitcoin News Today, Eth
 📺 Crypto World
 
 👁️ 11K • 👍 316 • 💬 79 • ⏱️ 17:36 • 1d ago
+
+---
+
+**[🔥 Bitcoin vs Ethereum vs XRP: HOLD or SELL Now?](https://www.youtube.com/watch?v=pni0OJ1fhIA)**
+
+Course: https://coinlyte.com/crypto-crash-program/ ➡️ Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ...
+
+📺 Kirtish Vyas (CoinLyte)
+
+👁️ 6K • 👍 237 • 💬 26 • ⏱️ 9:55 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=rUWDg8L-URM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 128 • 💬 5 • ⏱️ 3:42 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-09T10:12:40.345738+00:00'
+updated: '2026-03-09T11:09:16.039621+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 09, 2026 at 10:12 UTC  
+**Last Updated:** March 09, 2026 at 11:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic'c Claude found 22 vulnerabilities in Firefox in just two weeks](https://www.reddit.com/r/artificial/comments/1ro1ybn/anthropicc_claude_found_22_vulnerabilities_in/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 I've been building an interactive map of the AI tool ecosystem — not just a list, but a visual graph that shows which tools connect to each other and how people actually chain them together in workflows. Some things it does: Interactive graph — 137 tools plotted by category with 281 connections between them. Click any tool to see what it integrates with. 25 real workflows — step-by-step breakdowns like "AI SEO Blog Factory" or "Podcast Production Pipeline" that show you which tools to use at each stage and how the output of one feeds into the next. Quiz + AI advisor — answer a few questions about your use case and it recommends a full stack, not just a single tool. Side-by-side comparisons — 204 comparison pages (Cursor vs Copilot, Jasper vs Copy.ai, etc.) It's free, no login, runs entirely in the browser. I built it because I got tired of evaluating AI tools in isolation. The real question isn't "what's the best writing tool" — it's "what combination of tools actually works together for my workflow." Would love feedback on what's useful and what's missing. https://thestackmap.com
 
-11h ago
+12h ago
 
 ---
 
@@ -63,7 +63,7 @@ TLDR: Adult stars are quickly finding themselves out of work. Given the rise of 
 
 There's a lot of "AI agent" content that stops at the blog post. This is a repo of 100 agent templates that run in production. Each one is an OpenClaw SOUL. md config. You define the agent's role, rules, integrations, and schedule. It connects to Telegram, Slack, Discord, or WhatsApp and runs on a loop. Real examples from the repo: a code reviewer that catches issues before PR merge. A churn prevention agent that flags at-risk users. A self-healing server agent that restarts crashed containers. No chain-of-thought theater. No "imagine if" scenarios. These are configs people are running right now. GitHub: https://github.com/mergisi/awesome-openclaw-agents
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +127,7 @@ Fortune • 2d ago
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 13h ago
+NPR • 14h ago
 
 ---
 
@@ -135,7 +135,7 @@ NPR • 13h ago
 
 Artificial intelligence can give some workers "brain fry" if overused, according to a new study published in Harvard Business Review.
 
-CBS News • 16h ago
+CBS News • 17h ago
 
 ---
 
@@ -143,13 +143,13 @@ CBS News • 16h ago
 
 Nscale has become a key player in the AI infrastructure buildout
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[The Former Coal Miner in the Middle of the A.I. Data Center Boom](https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -157,7 +157,7 @@ The New York Times • 2h ago
 
 Nvidia-backed artificial intelligence group Nscale was valued at $14.6 billion after ‌raising $2 billion in its latest funding round, ‌the British company said on Monday. The Series C funding ​round was led by Norway's Aker and 8090 Industries, and included Nvidia, Citadel, Dell, Jane Street, among others, the firm said in a ‌statement. Former Meta executives ⁠Nick Clegg and Sheryl Sandberg, and former Yahoo President Susan Decker will ⁠join the board of the AI firm, the company said.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 1h ago
 
 Artificial intelligence is weighing into art history debates by “authenticating” masterpieces and exposing alleged fakes. But experts aren’t convinced.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNN • 1h ago
 
 Market ripples from the US-Iran conflict are sending investors toward tech's safe havens.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ Axios • 1d ago
 
 Oracle reportedly planning massive layoffs involving thousands of employees as AI spending creates cash crunch. Job cuts could reportedly affect 18% of total workforce.
 
-Fox Business • 7h ago
+Fox Business • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fox Business • 7h ago
 
 Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.
 
-⬆️ 170 • 💬 218 • 18h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+⬆️ 170 • 💬 218 • 19h ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 
 ---
 
@@ -243,7 +243,7 @@ Pentagon investigators believe a bombing of a girls' school in Iran on Saturday 
 
 **[AI doesn't replace white collar work](https://news.ycombinator.com/item?id=47299988)**
 
-⬆️ 61 • 💬 95 • 15h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
+⬆️ 61 • 💬 95 • 16h ago • [marble.onl](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
 
 ---
 
@@ -279,7 +279,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 22K • 👍 1K • 💬 267 • ⏱️ 27:28 • 5h ago
+👁️ 35K • 👍 2K • 💬 386 • ⏱️ 27:28 • 6h ago
 
 ---
 
@@ -289,7 +289,7 @@ OpenAI just released a system called Symphony that can send AI agents to complet
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 80 • ⏱️ 14:19 • 1d ago
+👁️ 40K • 👍 1K • 💬 82 • ⏱️ 14:19 • 1d ago
 
 ---
 
@@ -299,17 +299,7 @@ Retired Lt. Gen. Dennis Crall discusses the Pentagon's use of artificial intelli
 
 📺 Fox News Clips
 
-👁️ 33K • 👍 396 • 💬 59 • ⏱️ 7:30 • 14h ago
-
----
-
-**[ai is physically destroying the internet.](https://www.youtube.com/watch?v=CaojfwkTdIE)**
-
-In this video, we go deep into the artificial intelligence bubble and the devastating impact of data centers. tech monopolies are ...
-
-📺 XaliCubed
-
-👁️ 6K • 👍 376 • 💬 117 • ⏱️ 8:01 • 14h ago
+👁️ 34K • 👍 401 • 💬 59 • ⏱️ 7:30 • 15h ago
 
 ---
 
@@ -319,7 +309,17 @@ Google's Quantum AI Keeps Flagging the Same Non-Human Structure — They Shut It
 
 📺 Spacialize
 
-👁️ 59K • 👍 2K • 💬 378 • ⏱️ 21:16 • 2d ago
+👁️ 59K • 👍 2K • 💬 381 • ⏱️ 21:16 • 2d ago
+
+---
+
+**[ai is physically destroying the internet.](https://www.youtube.com/watch?v=CaojfwkTdIE)**
+
+In this video, we go deep into the artificial intelligence bubble and the devastating impact of data centers. tech monopolies are ...
+
+📺 XaliCubed
+
+👁️ 6K • 👍 393 • 💬 119 • ⏱️ 8:01 • 15h ago
 
 ---
 
@@ -333,21 +333,13 @@ Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thin
 
 ---
 
-**[India AI Impact Summit 2026: Learnings and Road Ahead for Tech Education](https://www.youtube.com/watch?v=hsLdedgoAPg)**
-
-📺 COGENT
-
-👁️ 5K • 👍 4K • 1d ago
-
----
-
 **[AI News: Everyone&#39;s Leaving ChatGPT!](https://www.youtube.com/watch?v=JH2ak7kS43E)**
 
 Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business ...
 
 📺 Matt Wolfe
 
-👁️ 83K • 👍 3K • 💬 348 • ⏱️ 38:02 • 2d ago
+👁️ 84K • 👍 3K • 💬 348 • ⏱️ 38:02 • 2d ago
 
 ---
 
@@ -357,17 +349,27 @@ Learn How To Use Higgsfield AI To Create Cinematic AI video. Try Soul 2 on Higgs
 
 📺 Dan Kieft
 
-👁️ 54K • 💬 23 • ⏱️ 16:43 • 1d ago
+👁️ 56K • 💬 23 • ⏱️ 16:43 • 1d ago
 
 ---
 
-**[AI Patrol Robots Are Now Walking Real Streets in China 🤖🇨🇳](https://www.youtube.com/watch?v=zOp4W1Xl9Fs)**
+**[I Tried Making Money With AI In 7 Days](https://www.youtube.com/watch?v=OmaKaIOiqMo)**
 
-This AI-powered patrol robot is already walking real city streets in China alongside security officers. The robot can move ...
+Check out the FREE course here: https://ecom-enterprise.mykajabi.com/offers/ayimTrvy The AI Tools I Used (All in one) ...
 
-📺 Onyez 
+📺 Mikey Again
 
-👁️ 694 • 👍 16 • 💬 2 • ⏱️ 0:39 • 4h ago
+👁️ 14K • 👍 780 • 💬 97 • ⏱️ 20:30 • 2d ago
+
+---
+
+**[LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](https://www.youtube.com/watch?v=KRE8JqTAEQk)**
+
+HUGE AI NEWS: Qwen 3.5, LTX 2.3, Kiwi Edit, HY WU, FireRed 1.1, CUDA agent & more #ai #ainews #aitools #aivideo #agi ...
+
+📺 AI Search
+
+👁️ 62K • 👍 3K • 💬 288 • ⏱️ 39:12 • 1d ago
 
 ---
 
@@ -383,7 +385,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,010,141 • ❤️ 616 • 7d ago
+⬇️ 1,010,141 • ❤️ 618 • 7d ago
 
 ---
 
@@ -395,7 +397,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 221,340 • ❤️ 379 • 3d ago
+⬇️ 221,340 • ❤️ 383 • 3d ago
 
 ---
 
@@ -407,7 +409,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 460,827 • ❤️ 327 • 6d ago
+⬇️ 460,827 • ❤️ 331 • 6d ago
 
 ---
 
@@ -419,7 +421,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 438,246 • ❤️ 306 • 7d ago
+⬇️ 438,246 • ❤️ 308 • 7d ago
 
 ---
 
@@ -431,7 +433,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,192,631 • ❤️ 1,047 • 10d ago
+⬇️ 1,192,631 • ❤️ 1,051 • 10d ago
 
 ---
 
@@ -443,7 +445,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 559,469 • ❤️ 268 • 6d ago
+⬇️ 559,469 • ❤️ 271 • 6d ago
 
 ---
 
@@ -455,7 +457,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 15,720 • ❤️ 276 • 1d ago
+⬇️ 15,720 • ❤️ 287 • 1d ago
 
 ---
 
@@ -467,7 +469,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 90,190 • ❤️ 220 • 5d ago
+⬇️ 90,190 • ❤️ 224 • 5d ago
 
 ---
 
@@ -479,7 +481,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 1,389 • ❤️ 176 • 2d ago
+⬇️ 1,389 • ❤️ 178 • 2d ago
 
 ---
 
@@ -491,7 +493,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,134,362 • ❤️ 585 • 3d ago
+⬇️ 1,134,362 • ❤️ 586 • 3d ago
 
 ---
 
@@ -521,7 +523,7 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 139 • 💬 5 • ⭐ 877 • 4d ago
+▲ 140 • 💬 5 • ⭐ 877 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -641,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.0k • 🔱 3.2k • 10h ago
+⭐ 25.1k • 🔱 3.2k • 10m ago
 
 ---
 
@@ -651,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 16.6k • 🔱 642 • 9h ago
+⭐ 16.7k • 🔱 646 • 10h ago
 
 ---
 
@@ -661,7 +663,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 11.4k • 🔱 1.5k • 5h ago
+⭐ 11.9k • 🔱 1.6k • 5h ago
 
 ---
 
@@ -671,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 9.9k • 🔱 1.1k • 1h ago
+⭐ 10.0k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -681,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.5k • 🔱 541 • 1h ago
+⭐ 7.5k • 🔱 543 • 50m ago
 
 ---
 
@@ -691,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 6.9k • 🔱 875 • 5d ago
+⭐ 6.9k • 🔱 876 • 5d ago
 
 ---
 
@@ -701,7 +703,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 6.2k • 🔱 526 • 3d ago
+⭐ 6.3k • 🔱 535 • 3d ago
 
 ---
 
@@ -711,7 +713,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.0k • 🔱 714 • 7h ago
+⭐ 6.0k • 🔱 714 • 8h ago
 
 ---
 
@@ -721,7 +723,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 403 • 1h ago
+⭐ 3.7k • 🔱 402 • 1h ago
 
 ---
 
@@ -731,7 +733,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.5k • 🔱 252 • 2h ago
+⭐ 3.5k • 🔱 253 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-09T10:12:40.354736+00:00'
+updated: '2026-03-09T11:09:16.048176+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 10:12 UTC  
+**Last Updated:** March 09, 2026 at 11:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1355.43B
+**Market Cap:** $1354.55B
 Rank #1
 
-**Circulating Supply:** 19,999,803 BTC
+**Circulating Supply:** 19,999,906 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -46.3%
 
 **All-Time Low:** $67.81
-+99734.8%
++99782.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I keep hearing this advice to not sell your Bitcoin, just borrow against it. But honestly I don’t fully get why that’s supposed to be better. If you sell BTC after it’s gone up, you’re actually locking in profit. You bought at one price and sold higher, so you walk away with real gains. When you borrow against your Bitcoin though, you’re taking out a loan that you eventually have to pay back plus interest. So in my head it feels like you’re not really gaining money, you’re just accessing cash temporarily and then paying for it later. I get that people want to keep their BTC long term and stay exposed to the price going up, but if the goal is to actually make money, wouldn’t selling a portion make more sense?
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 ​I keep hearing the same advice over and over: "Don’t try to time the market, just Dollar Cost Averaging (DCA) every week." ​But honestly, I’m struggling to see how the math makes sense when we’re clearly in an uptrend. If I buy $100 of BTC every Monday while the price is climbing, all I’m doing is constantly raising my average entry price. It feels like I’m "buying the top" every single week. ​If we’re confident the price is going up long-term, wouldn't it have been objectively better to just buy as much as possible at the start? Or at the very least, wait for those 10–15% "flash crashes" to buy instead of buying a green candle just because it’s Monday morning? ​I get that DCA is supposed to reduce risk and "smooth out" volatility, but at what point does it just become a psychological crutch for people who are too scared to pull the trigger? ​Am I missing something here, or is DCA actually a sub-optimal strategy once the bull market is already in full swing? ​Would love to hear how you guys actually justify it when the price is hitting new highs every other day.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ I keep hearing this advice to not sell your Bitcoin, just borrow against it. But
 
 Right now i use Kraken and would like to hear your opinions on this. I also just store my BTC on a wallet there. Is there a better way to store bitcoin?
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Right now i use Kraken and would like to hear your opinions on this. I also just
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Some reports circulating online claim that Binance may have accumulated a large amount of Bitcoin during the recent market decline. The estimated figure being mentioned is around $1 billion worth of Bitcoin, although there has not been an official confirmation explaining the purpose of the transactions. Large exchange movements can occur for several reasons, including liquidity management, custody changes, or treasury allocation. Without further details, it’s difficult to determine the exact intent behind the activity. Still, transactions of this size tend to attract attention, especially when they occur during periods of market volatility. What do you think about large Bitcoin purchases happening during market downturns? Could they reflect long term positioning, or are there other explanations that make more sense?
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ Some reports circulating online claim that Binance may have accumulated a large 
 
 I am currently studying Taproot and see its benefits about the application of Schnorr Signature scheme, i.e. key aggregation. I just understood that there are 2 spending paths of pay-to-taproot (P2TR), the key path, which in many cases takes advantage of the possibility to aggregate signatures. Then the alternative spending path: script path. There's also the advantage of having the same address length, which makes, single sig, MuSig or other complicated addresses indistinguishable. Better for privacy. BIP-0360 proposes the implementation of pay-to-merkle root (P2MR), which is the use of only the script path, essentially. And it was done due to P2TR being vulnerable to long exposure attack. screenshot from BIP-0360 Bummer! So, how can we take advantage of the use of Schnorr signature scheme moving forward? How about those who don't actually use MuSig2 and other complexities, creating a single sig wallet address only? Are they just better off avoiding P2TR then? Are there developers working to still implement Schnorr signature scheme for single key wallets, in a way less vulnerable to the long exposure attack highlighted by BIP-0360?
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ I am currently studying Taproot and see its benefits about the application of Sc
 
 For those who do dca, when or what price you do huge lumpsums when it goes down
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ Sen. Cynthia Lummis (R-WY) is pushing a $300 de minimis crypto tax exemption —
 
 **[I’m just gonna leave this here](https://www.reddit.com/r/Bitcoin/comments/1row1ww/im_just_gonna_leave_this_here/)**
 
-13m ago
+1h ago
 
 ---
 
@@ -163,13 +163,13 @@ I'm not a financial expert nor a crypto expert. I'm just a dad who looked at the
 
 Veteran strategist Ed Yardeni raised his probability of a stock market crash this year as oil tops $100, the dollar posts its best week in a year, and the Iran conflict expands to Saudi Arabia.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
 **[Farage Invests in Kwarteng’s Bitcoin Treasury Firm Stack BTC](https://www.bloomberg.com/news/articles/2026-03-09/farage-invests-in-kwarteng-s-bitcoin-treasury-firm-stack-btc)**
 
-Bloomberg • 28m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg • 28m ago
 
 Reform UK leader invests £215,000 in Stack Bitcoin
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -185,13 +185,13 @@ Financial Times • 1h ago
 
 Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
 
-CoinDesk • 40m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Oil Price Surge on Strait of Hormuz Tensions Raises Bitcoin End-of-Cycle Fears, CryptoQuant Warns](https://www.binance.com/en/square/post/299641884997762)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ Binance • 1h ago
 
 Across 68 verified cable fault events, node impact was usually under 5%, but ASN targeting beats seabed chaos fast.
 
-CryptoSlate • 15h ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -213,7 +213,7 @@ Forbes • 1d ago
 
 A Washington startup says the next frontier for computing—and possibly bitcoin mining—may orbit hundreds of miles above Earth.
 
-Bitcoin.com News • 7h ago
+Bitcoin.com News • 8h ago
 
 ---
 
@@ -247,7 +247,7 @@ Fortune • 2d ago
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 2 • 💬 1 • 17h ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 2 • 💬 1 • 18h ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -261,7 +261,7 @@ Complete operating system for Bitcoiners
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 9h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 10h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
@@ -319,7 +319,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 22K • 👍 2K • 💬 176 • ⏱️ 11:22 • 5h ago
+👁️ 31K • 👍 3K • 💬 182 • ⏱️ 11:22 • 6h ago
 
 ---
 
@@ -329,17 +329,7 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 122 • ⏱️ 14:03 • 11h ago
-
----
-
-**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 22K • 👍 2K • 💬 153 • ⏱️ 10:01 • 13h ago
+👁️ 20K • 👍 1K • 💬 120 • ⏱️ 14:03 • 12h ago
 
 ---
 
@@ -353,23 +343,13 @@ Global tensions, oil politics, and the petrodollar system may be colliding in re
 
 ---
 
-**[Iran War Sends Oil Higher - What It Means for Bitcoin](https://www.youtube.com/watch?v=m1u2kIIaaSM)**
+**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
 
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRUs
-
-👁️ 13K • 👍 867 • 💬 175 • ⏱️ 8:02 • 10h ago
-
----
-
-**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
-
-Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 148 • ⏱️ 11:32 • 1d ago
+👁️ 25K • 👍 3K • 💬 309 • ⏱️ 10:01 • 14h ago
 
 ---
 
@@ -379,17 +359,17 @@ Will bitcoin crash again to new lows or has it bottomed? We explain why bitcoin'
 
 📺 Alessio Rastani
 
-👁️ 33K • 👍 2K • 💬 298 • ⏱️ 4:28 • 1d ago
+👁️ 34K • 👍 3K • 💬 298 • ⏱️ 4:28 • 1d ago
 
 ---
 
-**[Stop thinking of Bitcoin as digital gold (BTC/DXY/QQQ)](https://www.youtube.com/watch?v=OIjgQlI_Q6g)**
+**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
 
-Once you know BTC isn't digital gold, you can understand the moves better. I prefer futures and options than underlying coins ...
+Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
-📺 Nicholas Crown
+📺 Altcoin Daily
 
-👁️ 8K • 👍 238 • 💬 34 • ⏱️ 0:59 • 15h ago
+👁️ 45K • 👍 2K • 💬 147 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -399,15 +379,37 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 227 • 💬 24 • ⏱️ 4:38 • 11h ago
+👁️ 4K • 👍 236 • 💬 24 • ⏱️ 4:38 • 12h ago
 
 ---
 
-**[OMG BITCOIN CRASH INCOMING TRUMP SUNDAY BOMBSHELL TANKS ALL MARKETS #crypto #bitcoin #trump #oil](https://www.youtube.com/watch?v=VYZZ0D27Tj4)**
+**[This EXACT CRYPTO Pattern Happened Last Cycle (Global Uncertainty Just Hit An ALL TIME HIGH)](https://www.youtube.com/watch?v=5VR_QiqvW1E)**
 
-📺 CryptoWendyO
+Use our institutional grade risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai ...
 
-👁️ 7K • 👍 312 • 💬 10 • ⏱️ 1:00 • 9h ago
+📺 Dan Gambardello
+
+👁️ 12K • 👍 804 • 💬 233 • ⏱️ 16:14 • 20h ago
+
+---
+
+**[Why Bitcoin is Replacing Gold as the World&#39;s Ultimate Safe Haven](https://www.youtube.com/watch?v=KmdT82XMhT0)**
+
+A historic shift is happening in the global economy. As geopolitical tensions rise, Bitcoin is outperforming gold and behaving as a ...
+
+📺 Financial Funda
+
+👁️ 6K • 👍 230 • 💬 27 • ⏱️ 2:51 • 1d ago
+
+---
+
+**[Stop thinking of Bitcoin as digital gold (BTC/DXY/QQQ)](https://www.youtube.com/watch?v=OIjgQlI_Q6g)**
+
+Once you know BTC isn't digital gold, you can understand the moves better. I prefer futures and options than underlying coins ...
+
+📺 Nicholas Crown
+
+👁️ 9K • 👍 245 • 💬 35 • ⏱️ 0:59 • 15h ago
 
 ---
 
