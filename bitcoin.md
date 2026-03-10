@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T17:50:27.084544+00:00'
+updated: '2026-03-10T18:52:12.414856+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 17:50 UTC  
+**Last Updated:** March 10, 2026 at 18:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,613.99
+### $70,001.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.8%  
-**7d:** -2.0%  
-**30d:** +1.7%  
-**90d:** -23.0%  
-**1y:** -13.9%  
+**24h:** +1.7%  
+**7d:** -3.5%  
+**30d:** +0.1%  
+**90d:** -24.2%  
+**1y:** -15.2%  
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-9h ago
+10h ago
+
+---
+
+**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
+
+10h ago
 
 ---
 
@@ -95,13 +101,23 @@ This is why we BITCOIN. More of this to come?
 
 The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 4h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 5h ago
 
 ---
 
-**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
+**[Trying to recover a July 2012 Bitcoin wallet need advice](https://www.reddit.com/r/Bitcoin/comments/1rpz0n4/trying_to_recover_a_july_2012_bitcoin_wallet_need/)**
 
-9h ago
+Need advice from Bitcoin community about a 2012 wallet recovery. My client has a Bitcoin address from July 2012. We have a 12 word seed and the password, but nothing works. All 12 words exist in both the Blockchainwalletv3 list and the BIP39 list, and no word is missing. But when we try to recover it on the Blockchain.info recovery page or other tools, it always says invalid seed phrase. We also tried several recovery tools from GitHub including btcrecover: https://github.com/gurnec/btcrecover https://github.com/3rdIteration/btcrecover But still no success. The confusing part is that some sources say 12 word seed was very rare in 2012, and some say it did not exist at that time and only wallet identifier, password and wallet json were used. Because of this we are thinking maybe my client misunderstood something about the seed, but the 12 words look valid and match the word lists. Right now we are only trying seed shuffle and some brute force tests, but honestly we almost lost hope. If anyone from the community has any idea, suggestion, or experience with old 2012 Blockchain wallets, please share. Maybe there is something we are missing. Thank you.
+
+4h ago
+
+---
+
+**[Has adding crypto payments actually helped your business?](https://www.reddit.com/r/Bitcoin/comments/1rq2uih/has_adding_crypto_payments_actually_helped_your/)**
+
+Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
+
+1h ago
 
 ---
 
@@ -109,7 +125,7 @@ The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the
 
 I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
 
-16h ago
+17h ago
 
 ---
 
@@ -117,7 +133,15 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 What thought you are having on this above question.
 
-6h ago
+8h ago
+
+---
+
+**[OPNet launches 17 March, bringing smart contracts to Bitcoin L1, requiring no external consensus whatsoever. An insanely impressive piece of technology built tirelessly by volunteers over the past 3 years.](https://www.reddit.com/r/Bitcoin/comments/1rq3mrs/opnet_launches_17_march_bringing_smart_contracts/)**
+
+OP_NET is a consensus layer on Bitcoin Layer 1 enabling fully expressive smart contracts, DeFi, and post-quantum security directly on Bitcoin. No sidechains. No bridges. BTC is gas. Mainnet launches March 17, 2026.
+
+🔗 [opnet.org](https://opnet.org) • 1h ago
 
 ---
 
@@ -125,31 +149,7 @@ What thought you are having on this above question.
 
 Been on Coinbase for a while but fees are getting old, especially on small buys. Haven't had issues yet but heard support is a nightmare when things go wrong. I'd rather switch before I find that out the hard way. Already looked into some alternatives, Kraken, which has lower fees with Kraken Pro. Binance is huge but has location restrictions. Bitget and Bybit also get mentioned with competitive fees. For those who left Coinbase, where'd you go? Just doing spot trading, want low fees, reliable withdrawals, decent coin selection. What's working well for regular users in 2026?
 
-8h ago
-
----
-
-**[everyone buy bitcoin RIGHT NOW!](https://www.reddit.com/r/Bitcoin/comments/1rp9my8/everyone_buy_bitcoin_right_now/)**
-
-Or else I’ll start throwing things
-
-22h ago
-
----
-
-**[20 Million Bitcoin Have Been Mined as BTC Supply Crosses Historic Milestone](https://www.reddit.com/r/Bitcoin/comments/1rp0nio/20_million_bitcoin_have_been_mined_as_btc_supply/)**
-
-20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
-
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 1d ago
-
----
-
-**[Bitcoin Hits 20 Million Mined: Less Than 1 Million Coins Left](https://www.reddit.com/r/Bitcoin/comments/1rpc6z1/bitcoin_hits_20_million_mined_less_than_1_million/)**
-
-Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 21h ago
+9h ago
 
 ---
 
@@ -161,21 +161,13 @@ Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 m
 
 The Winklevoss twins moved $130 million in bitcoin to Gemini hot wallets while still holding $764 million worth of BTC, per Arkham.
 
-The Block • 6h ago
-
----
-
-**[Strategy buys $1.3 billion of Bitcoin using mostly common stock](https://fortune.com/2026/03/09/michael-saylor-strategy-bitcoin-buy-common-stock/)**
-
-The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
-
-Fortune • 22h ago
+The Block • 7h ago
 
 ---
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -187,47 +179,55 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin Rebounds to $71,000 as Wall Street Deepens Crypto Push](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-rebounds-to-71-000-as-wall-street-deepens-crypto-push)**
+**[Ross Gerber Says 'Buy My Tokens' As Michael Saylor Hints Strategy Will Accumulate More Bitcoin](https://finance.yahoo.com/news/ross-gerber-says-buy-tokens-180019221.html)**
 
-Bloomberg • 2h ago
+Renowned investor Ross Gerber responded to Michael Saylor on Sunday after the Strategy Inc. Chair said the company is gearing to buy more Bitcoin. Gerber Jabs Saylor Gerber replied to Strategy Chair Michael Saylor’s X post, “The Second Century Begins,”...
+
+Yahoo Finance • 51m ago
 
 ---
 
-**[Bitcoin crosses 20 million BTC milestone, leaving 1 million coins left to mine](https://finance.yahoo.com/news/bitcoin-crosses-20-million-btc-153353664.html)**
+**[Bitwise CIO Makes a Straightforward Case for $1 Million Bitcoin](https://unchainedcrypto.com/bitwise-cio-makes-a-straightforward-case-for-1-million-bitcoin/)**
 
-Bitcoin miners have officially mined over 20 million coins, leaving only 1 million left to be mined.
+Hougan argues that investors often underestimate bitcoin’s upside because they anchor to today’s store of value market instead of considering how much that market could grow over the next decade.
 
-Yahoo Finance • 2h ago
+unchainedcrypto.com • 1h ago
+
+---
+
+**[The Daily: Winklevoss twins move $130 million in BTC to Gemini, South Korean prosecutors sell seized bitcoin and more](https://www.theblock.co/post/393063/the-daily-winklevoss-twins-move-130-million-in-btc-to-gemini-south-korean-prosecutors-sell-seized-bitcoin-and-more)**
+
+The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+
+The Block • 41m ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
-**[Bitcoin climbs to $71,000 as dollar, oil weaken after Trump comments on Iran war](https://www.coindesk.com/markets/2026/03/10/bitcoin-climbs-to-usd71-000-as-dollar-oil-weaken-after-trump-comments-on-iran-war)**
+**[Bitcoin price today: jumps to $71.5k as Trump’s Iran remarks lift risk appetite](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rebounds-above-70k-as-trump-remarks-lift-risk-appetite-4551058)**
 
-Crypto and risk assets rally as the dollar retreats following comments from Donald Trump suggesting the conflict in Iran may end soon, while bitcoin still faces a broader downtrend.
-
-CoinDesk • 7h ago
+Investing.com • 2h ago
 
 ---
 
-**[Bitcoin Rises as Trump Amplifies Iran Threats, Fed Rate Cut Chances Fall Near Zero](https://finance.yahoo.com/news/bitcoin-rises-trump-amplifies-iran-152603621.html)**
+**[Bitcoin Jumps Above $71,000 as Iran War Worries Ease](https://finance.yahoo.com/news/bitcoin-steadies-around-70-000-061452473.html)**
 
-Bitcoin ticked up above $71K on Tuesday as Trump sends mixed messages on Iran, while hopes for a crypto breakout cool amid Fed uncertainty.
+The rebound began Monday after President Donald Trump suggested that he is looking to bring the conflict to an end.  Oil extended its decline Tuesday as lawmakers looked to assure investors that policy interventions could cushion the war’s impact on energy prices.  The token “gained support from global stock markets, where traders hurried to buy the dip on Trump’s comments about the imminent end of the Iranian conflict,” said Alex Kuptsikevich, chief market analyst at FxPro, adding that investors “rushed back into the market, driven by FOMO, the fear of missing out.”
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Nigel Farage invests £215,000 in Kwasi Kwarteng’s bitcoin firm](https://www.theguardian.com/politics/2026/mar/09/nigel-farage-kwasi-kwarteng-bitcoin-reform-uk-crypto-stack-btc)**
+**[Crypto price news: Bitcoin hits $71,500, CRCL, BTGO, FIGR rally as oil shock fears fade](https://www.coindesk.com/markets/2026/03/10/bitcoin-climbs-past-usd71-000-as-oil-shock-fears-continue-to-ease)**
 
-Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
+The International Energy Agency (IEA) on Tuesday said it will convene an extraordinary meeting of its member countries to consider releasing emergency oil reserves.
 
-The Guardian • 19h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -259,6 +259,14 @@ Complete operating system for Bitcoiners
 
 ---
 
+**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://news.ycombinator.com/item?id=47327212)**
+
+The Ivy League school still has more money invested in Bitcoin than any other US stock.
+
+⬆️ 2 • 💬 0 • 9m ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+
+---
+
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
 ⬆️ 2 • 💬 0 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
@@ -269,7 +277,7 @@ Complete operating system for Bitcoiners
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 4h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 5h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -291,7 +299,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 11h ago
+⬆️ 1 • 💬 0 • 12h ago
 
 ---
 
@@ -305,7 +313,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 245 • ⏱️ 9:54 • 19h ago
+👁️ 47K • 👍 2K • 💬 245 • ⏱️ 9:54 • 20h ago
 
 ---
 
@@ -315,7 +323,7 @@ Arthur Hayes, co-founder of BitMEX and CIO of Maelstrom, joins Coin Stories to d
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 299 • 💬 67 • ⏱️ 50:10 • 3h ago
+👁️ 3K • 👍 299 • 💬 67 • ⏱️ 50:10 • 4h ago
 
 ---
 
@@ -325,7 +333,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 14K • 👍 940 • 💬 427 • ⏱️ 10:02 • 21h ago
+👁️ 14K • 👍 940 • 💬 427 • ⏱️ 10:02 • 22h ago
 
 ---
 
@@ -355,7 +363,7 @@ Did Bitcoin already put in the bottom, or is this just the start of a longer gri
 
 📺 Swan Bitcoin
 
-👁️ 12K • 👍 346 • 💬 172 • ⏱️ 10:35 • 23h ago
+👁️ 12K • 👍 346 • 💬 172 • ⏱️ 10:35 • 1d ago
 
 ---
 
@@ -365,7 +373,7 @@ The global fiat system is flashing red as 20 million barrels of oil vanish offli
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 150 • ⏱️ 18:57 • 18h ago
+👁️ 19K • 👍 2K • 💬 150 • ⏱️ 18:57 • 19h ago
 
 ---
 
@@ -375,7 +383,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 DJ Impozible
 
-👁️ 3K • 👍 3K • 40m ago
+👁️ 3K • 👍 3K • 1h ago
 
 ---
 

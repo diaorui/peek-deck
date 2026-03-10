@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T17:50:27.092801+00:00'
+updated: '2026-03-10T18:52:12.424009+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 17:50 UTC  
+**Last Updated:** March 10, 2026 at 18:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Share a fantastic job](https://www.reddit.com/r/robotics/comments/1rq1e5q/share_a_fantastic_job/)**
-
-Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
-
-1h ago
-
----
-
 **[BDX Droids at Disneyland during the Season of the Force event](https://www.reddit.com/r/robotics/comments/1rq212v/bdx_droids_at_disneyland_during_the_season_of_the/)**
 
 BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineering for Disneyland theme parks. Inspiration for walking movements was taken from the waddle of a duck, creating a stable walk while still keeping the appearance fun, as with Star Wars droids.
 
-1h ago
+2h ago
+
+---
+
+**[Share a fantastic job](https://www.reddit.com/r/robotics/comments/1rq1e5q/share_a_fantastic_job/)**
+
+Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
+
+2h ago
+
+---
+
+**[Figure's Helix 2 - Full Body Autonomy Video](https://www.reddit.com/r/robotics/comments/1rq45b6/figures_helix_2_full_body_autonomy_video/)**
+
+54m ago
 
 ---
 
@@ -52,25 +58,25 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
 
-9h ago
+10h ago
 
 ---
 
 **[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-21h ago
+22h ago
+
+---
+
+**[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
+
+1d ago
 
 ---
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
 
 1d ago
-
----
-
-**[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
-
-23h ago
 
 ---
 
@@ -94,13 +100,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-9h ago
-
----
-
-**[Stuck between 2 careers](https://www.reddit.com/r/robotics/comments/1rpwy5v/stuck_between_2_careers/)**
-
-4h ago
+10h ago
 
 ---
 
@@ -108,11 +108,47 @@ Hi there, I've created a video here where I explain how convolutional neural net
 
 ## Google News: "robotics"
 
+**[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
+
+Bloomberg.com • 4h ago
+
+---
+
+**[Qualcomm’s partnership with Neura Robotics is just the beginning](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)**
+
+Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
+
+TechCrunch • 1d ago
+
+---
+
+**[Robotics Medal and Rising Star winners reflect on their work, advancing women in robotics](https://www.therobotreport.com/robotics-medal-rising-star-winners-reflect-work-advancing-women-in-robotics/)**
+
+For International Women's Day, Dr. Maja Matarić and Dr. Tania Morimoto discussed their current robotics research and student development.
+
+The Robot Report • 2h ago
+
+---
+
+**[Teradyne sues Chinese cobot maker over UR software](https://www.therobotreport.com/teradyne-sues-chinese-cobot-marker-over-ur-software/)**
+
+Teradyne Robotics has “irrefutable evidence” of Chinese robot company  Elite  Robots for copyright infringement of Universal Robots’ software.
+
+The Robot Report • 1h ago
+
+---
+
 **[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
 NPR • 1d ago
+
+---
+
+**[OpenAI hardware leader resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -124,29 +160,11 @@ Fortune • 3d ago
 
 ---
 
-**[OpenAI hardware leader resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
+**[ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale](https://blogs.nvidia.com/blog/abb-robotics-omniverse/)**
 
-Reuters • 2d ago
+ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor.
 
----
-
-**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
-
-ABB • 1d ago
-
----
-
-**[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
-
-Bloomberg • 3h ago
-
----
-
-**[Robotics Medal and Rising Star winners reflect on their work, advancing women in robotics](https://www.therobotreport.com/robotics-medal-rising-star-winners-reflect-work-advancing-women-in-robotics/)**
-
-For International Women's Day, Dr. Maja Matarić and Dr. Tania Morimoto discussed their current robotics research and student development.
-
-The Robot Report • 1h ago
+NVIDIA Blog • 1d ago
 
 ---
 
@@ -154,15 +172,7 @@ The Robot Report • 1h ago
 
 The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
 
-WGAL • 4h ago
-
----
-
-**[Folsom Robotics Team Earns Think Award, Advances To World Championship](https://folsomtimes.com/folsom-robotics-team-earns-think-award-advances-to-world-championship/)**
-
-Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
-
-Folsom Times • 15h ago
+WGAL • 5h ago
 
 ---
 
@@ -170,15 +180,7 @@ Folsom Times • 15h ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 20h ago
-
----
-
-**[Networked for War: Lessons from Ukraine’s Ground Robots](https://mwi.westpoint.edu/networked-for-war-lessons-from-ukraines-ground-robots/)**
-
-Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
-
-Modern War Institute - • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -192,7 +194,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 748K • 👍 43K • 💬 5K • ⏱️ 16:54 • 6d ago
+👁️ 748K • 👍 43K • 💬 5K • ⏱️ 16:54 • 7d ago
 
 ---
 
@@ -232,7 +234,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 3K • 👍 54 • 💬 13 • ⏱️ 3:48 • 22h ago
+👁️ 3K • 👍 54 • 💬 13 • ⏱️ 3:48 • 23h ago
 
 ---
 
@@ -242,7 +244,7 @@ One of Tesla's biggest rivals in the humanoid race just got the attention of Elo
 
 📺 Kalil 4.0
 
-👁️ 269 • 👍 19 • ⏱️ 0:52 • 1h ago
+👁️ 269 • 👍 19 • ⏱️ 0:52 • 2h ago
 
 ---
 
@@ -262,7 +264,7 @@ China's humanoid robots just performed the world's first continuous parkour flip
 
 📺 TechFrontierNow
 
-👁️ 61K • 👍 387 • 💬 88 • ⏱️ 9:26 • 5d ago
+👁️ 61K • 👍 387 • 💬 88 • ⏱️ 9:26 • 6d ago
 
 ---
 

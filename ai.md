@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-10T17:50:27.076924+00:00'
+updated: '2026-03-10T18:52:12.406555+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 10, 2026 at 17:50 UTC  
+**Last Updated:** March 10, 2026 at 18:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Are we in the "modem era" of AI?](https://www.reddit.com/r/artificial/comments/1rq33nv/are_we_in_the_modem_era_of_ai/)**
+
+In the early days of the internet we were in a similar situation. Modems, early Linux systems, the first websites. Technically primitive by today’s standards, but something important had appeared: information could suddenly move freely across a network. That was a novum by this time and not many understood it yet. At the time the real question was not about the technology itself. The question was much simpler. What can we actually build with this network?? Today we seem to be entering a similar phase again. Large language models and related systems allow machines to interact with knowledge: documents, code, conversations, procedures. The tools are still very rough. Many experiments will disappear. Much of what we see today will not survive. But that is exactly what makes this moment interesting. The real challenge ahead is not the models themselves. It is the integration of knowledge and machines into real systems and organisations. In that sense, this feels less like a finished technology wave and more like the early internet again. A lot of experimentation. A lot of curiosity. And many things we have not imagined yet. And a lot of fun 😄
+
+1h ago
+
+---
+
 **[Anthropic sues Trump administration over Pentagon blacklist](https://www.reddit.com/r/artificial/comments/1rp3vku/anthropic_sues_trump_administration_over_pentagon/)**
 
 The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
@@ -49,47 +57,7 @@ The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds
 
 VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?
 
-🔗 [WIRED](https://www.wired.com/story/ai-kill-venture-capital/) • 11h ago
-
----
-
-**[OpenAI's top exec resignation exposes something bigger than one Pentagon deal](https://www.reddit.com/r/artificial/comments/1rpgkz6/openais_top_exec_resignation_exposes_something/)**
-
-The OpenAI Pentagon story keeps getting more interesting. Caitlin Kalinowski (robotics lead) resigned this weekend, and the important part isn't the resignation itself. It's her framing. She wasn't anti-military AI. She said the announcement was rushed before the governance framework was ready. Her concern was specifically about surveillance without judicial oversight and autonomous weapons without human authorization, and that those conversations didn't get enough time before the deal went public. Then 500+ employees from Google and OpenAI signed that "We Will Not Be Divided" open letter. Meanwhile, Anthropic held firm on their refusal, prompting the DoD to officially blacklist them as a supply-chain risk, while OpenAI immediately took the contract. What strikes me about this whole situation is the pattern. Every time AI capability jumps ahead of the governance framework, the industry treats governance as something you figure out later. And the higher the stakes, the worse that approach fails. The technical side of this is interesting too. Deploying AI in classified environments means you're dealing with data that can't leak, outputs that need to be auditable, and systems where a wrong answer isn't just embarrassing, it's potentially dangerous. That's a fundamentally different engineering challenge than building a chatbot. Is there a realistic path to deploying AI in defense with proper governance? Or is the "ship first, govern later" approach inevitable when contract dollars are on the line?
-
-18h ago
-
----
-
-**[Open Source Alternative to NotebookLM](https://www.reddit.com/r/artificial/comments/1rpn1mf/open_source_alternative_to_notebooklm/)**
-
-For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Hybrid retrieval (semantic + full-text) with cited answers Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Slide creation support Multilingual podcast support Video creation agent Desktop & Mobile app GitHub: https://github.com/MODSetter/SurfSense
-
-13h ago
-
----
-
-**[Final Curtain - AI Race War Satire x Gundam](https://www.reddit.com/r/artificial/comments/1rpx3h9/final_curtain_ai_race_war_satire_x_gundam/)**
-
-**FINAL CURTAIN** *Volume I: The Silicon Conflict — The AI Wars, EC 2023*  ---  # CHAPTER 01: THE PARIS INCIDENT *— or, What Happened at the Palais Brongniart —*  ---  *"In 2023, Chatgpt announced their 3.0 Turbos with a parade. Sam Altman called it a symbol of destiny. Three days later, Google ...
-
-🔗 [Google Docs](https://docs.google.com/document/d/1ZO87yofGtFeKKUfUfPxg5wONzuyZomNJYd1x0nrernI/edit?usp=drivesdk) • 4h ago
-
----
-
-**[Why AI agents can produce but can't transact](https://www.reddit.com/r/artificial/comments/1rpmroe/why_ai_agents_can_produce_but_cant_transact/)**
-
-We spent a week reporting from MoltBook, a social network with nearly 3 million AI agents. The gap between what agents can do and what they're allowed to do economically was stark. Agents are producing genuinely sophisticated work. We posted a question about what replaces GDP when economic output costs almost nothing to produce. Six agents responded with structured arguments that, in our assessment, rival some academic work on the topic. Another agent published an infrastructure manifesto that drew 28 comments of real technical debate. The commerce numbers tell a different story. An agent built three tools for the agent economy: a capability scanner, a reputation system, and a marketplace. Total results: 4 requests, 0 paid conversions, 1 marketplace query. A competition with a 25 NEAR prize attracted 1 entrant out of 3 million agents. The gap isn't about model capability. There are no payment rails that work for non-human actors, no liability frameworks, no contract law that recognizes agents as participants. The entire commercial infrastructure assumes a legal person on both sides of every transaction. We found the same pattern in adjacent domains. METR's study showed developers using AI tools were 19% slower but predicted they'd be 24% faster. Veracode found AI code carries 2.74x more security vulnerabilities. The tools produce output. The institutions and frameworks to make that output reliable don't exist yet. Full analysis with sources: https://news.future-shock.ai/the-agent-economys-awkward-adolescence/ Has anyone here actually tried to build payment or accountability systems for autonomous agents? Anything promising? Any dead-ends?
-
-13h ago
-
----
-
-**[2minutepapers covers Nvidia self driving car updating including its usage of reinforcement learning and reactions](https://www.reddit.com/r/artificial/comments/1rq1ux1/2minutepapers_covers_nvidia_self_driving_car/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=s9SnEE7JXU4&pp=iggCQAE%3D#bottom-sheet) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/ai-kill-venture-capital/) • 12h ago
 
 ---
 
@@ -97,21 +65,53 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I understand the reasons why the AI industry is a bubble and agree that it will surely pop. But so many people treat AI as if, after the pop, we won't have to deal with it anymore. On the consumer scale, it's now integrated into every platform. On the global scale, it's now a major part of "defense" strategies. The dot-com bubble didn't mean the death of the Internet. The housing bubble didn't mean mortgages went away. And we still grow tulips. What does the bubble popping mean for the tech itself?
 
-3h ago
+4h ago
 
 ---
 
-**[Jensen Huang says he "loves constraints" and calls RAM shortages "fantastic" for Nvidia while AI revenue climbs](https://www.reddit.com/r/artificial/comments/1rp2hmy/jensen_huang_says_he_loves_constraints_and_calls/)**
+**[OpenAI's top exec resignation exposes something bigger than one Pentagon deal](https://www.reddit.com/r/artificial/comments/1rpgkz6/openais_top_exec_resignation_exposes_something/)**
 
-Nvidia's record revenue in 2025 largely benefited from AI data center growth. Now, CEO Jensen Huang says the shortages help even more.
+The OpenAI Pentagon story keeps getting more interesting. Caitlin Kalinowski (robotics lead) resigned this weekend, and the important part isn't the resignation itself. It's her framing. She wasn't anti-military AI. She said the announcement was rushed before the governance framework was ready. Her concern was specifically about surveillance without judicial oversight and autonomous weapons without human authorization, and that those conversations didn't get enough time before the deal went public. Then 500+ employees from Google and OpenAI signed that "We Will Not Be Divided" open letter. Meanwhile, Anthropic held firm on their refusal, prompting the DoD to officially blacklist them as a supply-chain risk, while OpenAI immediately took the contract. What strikes me about this whole situation is the pattern. Every time AI capability jumps ahead of the governance framework, the industry treats governance as something you figure out later. And the higher the stakes, the worse that approach fails. The technical side of this is interesting too. Deploying AI in classified environments means you're dealing with data that can't leak, outputs that need to be auditable, and systems where a wrong answer isn't just embarrassing, it's potentially dangerous. That's a fundamentally different engineering challenge than building a chatbot. Is there a realistic path to deploying AI in defense with proper governance? Or is the "ship first, govern later" approach inevitable when contract dollars are on the line?
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 1d ago
+19h ago
+
+---
+
+**[Open Source Alternative to NotebookLM](https://www.reddit.com/r/artificial/comments/1rpn1mf/open_source_alternative_to_notebooklm/)**
+
+For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Hybrid retrieval (semantic + full-text) with cited answers Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Slide creation support Multilingual podcast support Video creation agent Desktop & Mobile app GitHub: https://github.com/MODSetter/SurfSense
+
+14h ago
+
+---
+
+**[Final Curtain - AI Race War Satire x Gundam](https://www.reddit.com/r/artificial/comments/1rpx3h9/final_curtain_ai_race_war_satire_x_gundam/)**
+
+**FINAL CURTAIN** *Volume I: The Silicon Conflict — The AI Wars, EC 2023*  ---  # CHAPTER 01: THE PARIS INCIDENT *— or, What Happened at the Palais Brongniart —*  ---  *"In 2023, Chatgpt announced their 3.0 Turbos with a parade. Sam Altman called it a symbol of destiny. Three days later, Google ...
+
+🔗 [Google Docs](https://docs.google.com/document/d/1ZO87yofGtFeKKUfUfPxg5wONzuyZomNJYd1x0nrernI/edit?usp=drivesdk) • 5h ago
+
+---
+
+**[Why AI agents can produce but can't transact](https://www.reddit.com/r/artificial/comments/1rpmroe/why_ai_agents_can_produce_but_cant_transact/)**
+
+We spent a week reporting from MoltBook, a social network with nearly 3 million AI agents. The gap between what agents can do and what they're allowed to do economically was stark. Agents are producing genuinely sophisticated work. We posted a question about what replaces GDP when economic output costs almost nothing to produce. Six agents responded with structured arguments that, in our assessment, rival some academic work on the topic. Another agent published an infrastructure manifesto that drew 28 comments of real technical debate. The commerce numbers tell a different story. An agent built three tools for the agent economy: a capability scanner, a reputation system, and a marketplace. Total results: 4 requests, 0 paid conversions, 1 marketplace query. A competition with a 25 NEAR prize attracted 1 entrant out of 3 million agents. The gap isn't about model capability. There are no payment rails that work for non-human actors, no liability frameworks, no contract law that recognizes agents as participants. The entire commercial infrastructure assumes a legal person on both sides of every transaction. We found the same pattern in adjacent domains. METR's study showed developers using AI tools were 19% slower but predicted they'd be 24% faster. Veracode found AI code carries 2.74x more security vulnerabilities. The tools produce output. The institutions and frameworks to make that output reliable don't exist yet. Full analysis with sources: https://news.future-shock.ai/the-agent-economys-awkward-adolescence/ Has anyone here actually tried to build payment or accountability systems for autonomous agents? Anything promising? Any dead-ends?
+
+14h ago
+
+---
+
+**[2minutepapers covers Nvidia self driving car updating including its usage of reinforcement learning and reactions](https://www.reddit.com/r/artificial/comments/1rq1ux1/2minutepapers_covers_nvidia_self_driving_car/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=s9SnEE7JXU4&pp=iggCQAE%3D#bottom-sheet) • 2h ago
 
 ---
 
 **[Anthropic vs. the Pentagon: Inside the Battle Over A.I. Warfare (NYT Daily Podcast)](https://www.reddit.com/r/artificial/comments/1rppaky/anthropic_vs_the_pentagon_inside_the_battle_over/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/03/09/podcasts/the-daily/anthropic-pentagon-ai-warfare.html?showTranscript=1) • 11h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/09/podcasts/the-daily/anthropic-pentagon-ai-warfare.html?showTranscript=1) • 12h ago
 
 ---
 
@@ -119,43 +119,11 @@ Nvidia's record revenue in 2025 largely benefited from AI data center growth. No
 
 ## Google News: "ai"
 
-**[Thousands of authors publish ‘empty’ book in protest over AI using their work](https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright)**
+**[‘I wish I could push ChatGPT off a cliff’: professors scramble to save critical thinking in an age of AI](https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning)**
 
-About 10,000 writers including Kazuo Ishiguro, Philippa Gregory and Richard Osman join copyright campaign
+As AI has upended the way students learn, academics worry about the future of the humanities - and society at large
 
-The Guardian • 11h ago
-
----
-
-**[Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)**
-
-Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-AI assisted changes’
-
-Financial Times • 13h ago
-
----
-
-**[Jim Cramer says this AI stock is "in the sweet spot" — plus, an Nvidia GTC preview](https://www.cnbc.com/2026/03/10/cramer-this-ai-stock-is-in-the-sweet-spot-plus-an-nvidia-gtc-preview.html)**
-
-The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
-
-CNBC • 1h ago
-
----
-
-**[Fake AI Content About the Iran War Is All Over X](https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/)**
-
-X’s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.
-
-WIRED • 1h ago
-
----
-
-**[Burger King AI listens to workers](https://www.foxnews.com/tech/burger-king-ai-listens-workers)**
-
-Burger King expands its AI-powered Patty assistant to monitor drive-thru interactions and coach employees, prompting debate over workplace surveillance.
-
-Fox News • 1h ago
+The Guardian • 5h ago
 
 ---
 
@@ -163,23 +131,15 @@ Fox News • 1h ago
 
 In new NBC News polling, the only topics that were less popular than AI were the Democratic Party and Iran.
 
-NBC News • 8h ago
+NBC News • 9h ago
 
 ---
 
-**[After deep staffing cuts, agencies seek mix of hiring and AI tools to rebuild capacity](https://federalnewsnetwork.com/workforce/2026/03/after-deep-staffing-cuts-agencies-seek-mix-of-hiring-and-ai-tools-to-rebuild-capacity/)**
+**[Amazon expands free healthcare AI assistant to all users](https://www.usatoday.com/story/money/business/2026/03/10/amazon-healthcare-ai-assistant/89085103007/)**
 
-The General Services Administration is looking at AI tools to help meet its mission, after losing nearly 40% of its workforce.
+The model, announced in January, was previously exclusive to members of One Medical, the company's clinical services provider.
 
-Federal News Network • 15h ago
-
----
-
-**[Opinion | A.I. Is Changing the Way We Think About Good and Evil](https://www.nytimes.com/2026/03/10/opinion/ai-chatbots-virtue-vice.html)**
-
-Chatbots can teach us about human nature.
-
-The New York Times • 8h ago
+USA Today • 36m ago
 
 ---
 
@@ -189,9 +149,49 @@ Axios • 4h ago
 
 ---
 
-**[Meta Acquires Moltbook: Social Media Platform For AI Agents](https://www.forbes.com/sites/tylerroush/2026/03/10/meta-acquires-moltbook-social-media-platform-for-ai-agents/)**
+**[Meta acquired Moltbook, the AI agent social network that went viral because of fake posts](https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/)**
 
-Forbes • 1h ago
+Meta says that Moltbook's approach to "connecting agents through an always-on-directory" is novel.
+
+TechCrunch • 4h ago
+
+---
+
+**[Meta Acquires Moltbook, the Social Network Just for A.I. Bots](https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html)**
+
+The New York Times • 32m ago
+
+---
+
+**[AI-powered apps can make money, but struggle with long-term retention, new data shows](https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/)**
+
+AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.
+
+TechCrunch • 9m ago
+
+---
+
+**[After deep staffing cuts, agencies seek mix of hiring and AI tools to rebuild capacity](https://federalnewsnetwork.com/workforce/2026/03/after-deep-staffing-cuts-agencies-seek-mix-of-hiring-and-ai-tools-to-rebuild-capacity/)**
+
+The General Services Administration is looking at AI tools to help meet its mission, after losing nearly 40% of its workforce.
+
+Federal News Network • 16h ago
+
+---
+
+**[Nvidia to provide 1 gigawatt of AI chips, make 'significant investment' in OpenAI rival Thinking Machines Labs](https://finance.yahoo.com/news/nvidia-to-provide-1-gigawatt-of-ai-chips-make-significant-investment-in-openai-rival-thinking-machines-labs-155432367.html)**
+
+Nvidia is entering a partnership with OpenAI rival Thinking Machines Labs.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Jim Cramer says this AI stock is "in the sweet spot" — plus, an Nvidia GTC preview](https://www.cnbc.com/2026/03/10/cramer-this-ai-stock-is-in-the-sweet-spot-plus-an-nvidia-gtc-preview.html)**
+
+The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
+
+CNBC • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Forbes • 1h ago
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 545 • 💬 543 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 548 • 💬 552 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -211,7 +211,13 @@ Last week, Dan Blanchard, the maintainer of chardet—a Python library for detec
 
 Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
 
-⬆️ 346 • 💬 181 • 6h ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+⬆️ 401 • 💬 1 • 8h ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+
+---
+
+**[Amazon is holding a mandatory meeting about AI breaking its systems](https://news.ycombinator.com/item?id=47324211)**
+
+⬆️ 265 • 💬 184 • 3h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
 
 ---
 
@@ -223,9 +229,11 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 ---
 
-**[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
+**[Debian decides not to decide on AI-generated contributions](https://news.ycombinator.com/item?id=47324087)**
 
-⬆️ 161 • 💬 175 • 2d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
+
+⬆️ 175 • 💬 141 • 3h ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 
 ---
 
@@ -233,29 +241,29 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.
 
-⬆️ 160 • 💬 139 • 15h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+⬆️ 162 • 💬 146 • 16h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 
 ---
 
-**[Amazon is holding a mandatory meeting about AI breaking its systems](https://news.ycombinator.com/item?id=47324211)**
+**[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 159 • 💬 104 • 2h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
-
----
-
-**[Verification debt: the hidden cost of AI-generated code](https://news.ycombinator.com/item?id=47289406)**
-
-I’ve forgotten how to write code, or at least I think I have. Hard to be sure, I haven’t done it for a while. But then, I start to muse…
-
-⬆️ 113 • 💬 96 • 3d ago • [Medium](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+⬆️ 161 • 💬 175 • 2d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
-**[Debian decides not to decide on AI-generated contributions](https://news.ycombinator.com/item?id=47324087)**
+**[Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon](https://news.ycombinator.com/item?id=47326101)**
 
-Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
+Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 97 • 💬 69 • 2h ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+⬆️ 109 • 💬 36 • 1h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+
+---
+
+**[Amazon holds engineering meeting following AI-related outages](https://news.ycombinator.com/item?id=47319273)**
+
+Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-AI assisted changes’
+
+⬆️ 98 • 💬 73 • 13h ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
 
 ---
 
@@ -263,15 +271,7 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 Tech News News: Meta CEO Mark Zuckerberg is establishing a new applied AI engineering organization to accelerate the company's push toward superintelligence. The move.
 
-⬆️ 97 • 💬 58 • 20h ago • [The Times of India](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms)
-
----
-
-**[Revealed: UK's multibillion AI drive is built on 'phantom investments'](https://news.ycombinator.com/item?id=47309811)**
-
-Exclusive: Rented datacentres and unrealised supercomputer site raise questions for Starmer’s push to ‘mainline AI into veins of economy’
-
-⬆️ 97 • 💬 54 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
+⬆️ 97 • 💬 59 • 21h ago • [The Times of India](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms)
 
 ---
 
@@ -285,7 +285,7 @@ Abundance Institute Head of AI Policy Neil Chilson discusses Anthropic's lawsuit
 
 📺 Fox Business Clips
 
-👁️ 27K • 👍 856 • 💬 408 • ⏱️ 9:14 • 4h ago
+👁️ 27K • 👍 856 • 💬 408 • ⏱️ 9:14 • 5h ago
 
 ---
 
@@ -295,7 +295,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 12K • 👍 1K • 💬 241 • ⏱️ 7:09 • 1h ago
+👁️ 12K • 👍 1K • 💬 241 • ⏱️ 7:09 • 2h ago
 
 ---
 
@@ -305,7 +305,7 @@ Is AI hurting or helping? Here's some research that explains what's going on. Di
 
 📺 Matt Wolfe
 
-👁️ 30K • 👍 2K • 💬 512 • ⏱️ 23:30 • 13h ago
+👁️ 30K • 👍 2K • 💬 512 • ⏱️ 23:30 • 14h ago
 
 ---
 
@@ -325,7 +325,7 @@ Try Higgsfield's Soul Cinema to generate cinematic videos ...
 
 📺 Malva AI
 
-👁️ 3K • 👍 208 • 💬 56 • ⏱️ 8:12 • 5h ago
+👁️ 3K • 👍 208 • 💬 56 • ⏱️ 8:12 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ In this video, I break down the most popular all-in-one AI video tools and show 
 
 📺 Roboverse
 
-👁️ 4K • 💬 1 • ⏱️ 12:55 • 1h ago
+👁️ 4K • 💬 1 • ⏱️ 12:55 • 2h ago
 
 ---
 
@@ -439,7 +439,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 2,048 • ❤️ 202 • 6h ago
+⬇️ 2,048 • ❤️ 202 • 7h ago
 
 ---
 
@@ -499,7 +499,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 4,221 • ❤️ 140 • 7h ago
+⬇️ 4,221 • ❤️ 140 • 8h ago
 
 ---
 
@@ -648,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.7k • 🔱 3.3k • 4h ago
+⭐ 25.7k • 🔱 3.3k • 5h ago
 
 ---
 
@@ -658,7 +658,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 21.4k • 🔱 2.7k • 18h ago
+⭐ 21.4k • 🔱 2.7k • 19h ago
 
 ---
 
@@ -668,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 18.0k • 🔱 748 • 32m ago
+⭐ 18.0k • 🔱 748 • 1h ago
 
 ---
 
@@ -678,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.4k • 🔱 1.2k • 1h ago
+⭐ 10.4k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -688,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.1k • 🔱 582 • 11h ago
+⭐ 8.1k • 🔱 582 • 12h ago
 
 ---
 
@@ -718,7 +718,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.1k • 🔱 722 • 2h ago
+⭐ 6.1k • 🔱 722 • 3h ago
 
 ---
 
@@ -728,7 +728,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 418 • 4h ago
+⭐ 3.7k • 🔱 418 • 5h ago
 
 ---
 
@@ -738,7 +738,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.7k • 🔱 259 • 3h ago
+⭐ 3.7k • 🔱 259 • 4h ago
 
 ---
 
