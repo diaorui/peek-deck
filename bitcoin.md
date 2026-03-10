@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T21:54:04.334341+00:00'
+updated: '2026-03-10T22:29:49.692854+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 21:54 UTC  
+**Last Updated:** March 10, 2026 at 22:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -109,7 +109,7 @@ This is why we BITCOIN. More of this to come?
 
 The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 8h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 9h ago
 
 ---
 
@@ -117,7 +117,7 @@ The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the
 
 Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
 
-4h ago
+5h ago
 
 ---
 
@@ -149,7 +149,7 @@ What thought you are having on this above question.
 
 The world is waiting for a financial revolution, but it already happened in silence. As of early 2026, over 95% of all Bitcoin that will ever exist has already been mined. We have officially transitioned from an era of monetary expansion to an era of fierce, global competition for a closed system. While retail investors are distracted by daily price volatility, Wall Street ETFs, corporate treasuries, and nation-states are quietly vacuuming up the remaining liquid supply. The collision between infinite fiat expansion and a hard cap of 21,000,000 coins is here. Dive into to understand the mathematics of absolute scarcity, the illusion of liquidity, and what happens next when the global financial system runs out of physical supply.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/the-95-collision) • 3h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/the-95-collision) • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ Investor's Business Daily • 7h ago
 
 Danielle Moinet — known to millions of fans worldwide as WWE Superstar Summer Rae — has been officially confirmed as a speaker at Bitcoin 2026, bringing a
 
-Bitcoin Magazine • 4m ago
+Bitcoin Magazine • 40m ago
 
 ---
 
@@ -199,7 +199,7 @@ Bitcoin Magazine • 4m ago
 
 Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
 
-The Block • 50m ago
+The Block • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 50m ago
 
 Last Wednesday’s 8% surge to $74,000 reminded investors that Bitcoin’s gains arrive in sudden, unforeseeable bursts that punish anyone trying to time them.  Bitcoin surged last Wednesday to its highest level in nearly a month, with Ether following sharply higher.  For beaten-up bulls who held through months of losses, the volatility over the past week was the argument made in real time.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -221,7 +221,7 @@ Reuters • 1d ago
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 23h ago
+The Guardian • 1d ago
 
 ---
 
@@ -279,7 +279,7 @@ Complete operating system for Bitcoiners
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 8h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 9h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -301,7 +301,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 15h ago
+⬆️ 1 • 💬 0 • 16h ago
 
 ---
 
@@ -315,7 +315,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 228 • ⏱️ 9:54 • 23h ago
+👁️ 49K • 👍 3K • 💬 228 • ⏱️ 9:54 • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ Despite rising geopolitical tensions and massive volatility in oil markets, Bitc
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 17 • ⏱️ 24:07 • 7h ago
+👁️ 13K • 👍 1K • 💬 17 • ⏱️ 24:07 • 8h ago
 
 ---
 

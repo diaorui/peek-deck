@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T21:54:04.343443+00:00'
+updated: '2026-03-10T22:29:49.701948+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 21:54 UTC  
+**Last Updated:** March 10, 2026 at 22:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
 
-5h ago
+6h ago
 
 ---
 
@@ -64,7 +64,7 @@ I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. 
 
 **[Figure's Helix 2 - Full Body Autonomy Video](https://www.reddit.com/r/robotics/comments/1rq45b6/figures_helix_2_full_body_autonomy_video/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -92,7 +92,7 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-13h ago
+14h ago
 
 ---
 
@@ -110,7 +110,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -124,7 +124,7 @@ ABB • 1d ago
 
 In this panel, experts will cut through the hype to examine what humanoids can realistically accomplish in factories and warehouses today.
 
-The Robot Report • 24m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -140,7 +140,7 @@ NPR • 2d ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -264,7 +264,7 @@ War Robots Gameplay: Bash Boom Pow Nerf in WR - My perspective My War Robots Cre
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 375 • 💬 97 • ⏱️ 18:26 • 6h ago
+👁️ 5K • 👍 375 • 💬 97 • ⏱️ 18:26 • 7h ago
 
 ---
 
