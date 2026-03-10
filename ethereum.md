@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-10T21:30:09.951834+00:00'
+updated: '2026-03-10T21:54:04.340288+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 21:30 UTC  
+**Last Updated:** March 10, 2026 at 21:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,036.98
+### $2,036.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -4.0%  
-**30d:** -2.9%  
-**90d:** -36.8%  
-**1y:** +5.9%  
+**24h:** +1.3%  
+**7d:** -4.8%  
+**30d:** -3.7%  
+**90d:** -37.3%  
+**1y:** +5.0%  
 
 ---
 
@@ -76,19 +76,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[The CEX Paradox: Why is off-ramping still the most centralized part of our 'decentralized' workflow?](https://www.reddit.com/r/ethereum/comments/1rq85gq/the_cex_paradox_why_is_offramping_still_the_most/)**
-
-I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
-
-1h ago
-
----
-
 **[avsa (Ethereum Foundation UX lead) deployed the Unicorn Token in 2016 — one of the first ERC-20s ever](https://www.reddit.com/r/ethereum/comments/1rpxs2k/avsa_ethereum_foundation_ux_lead_deployed_the/)**
 
 Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, deployed a contract in April 2016 that let you "grind unicorns into meat" on-chain. The experiment became the Unicorn Meat token (w🍖) — deployed when ERC-20 was barely a draft standard, when the entire Ethereum dev community could fit in one room. Why it matters historically: - Deployed April 2016, pre-TheDAO hack - One of the earliest ERC-20 compliant tokens - Created by a core Ethereum Foundation member for fun, not profit - The contract is still live and the token still trades Original contract: https://etherscan.io/address/0xd234bf2410a0009df9c3c63b610c09738f18ccd7 The community archive: https://unicornmeat.wtf These early experiments are Ethereum heritage. Worth preserving.
 
 7h ago
+
+---
+
+**[The CEX Paradox: Why is off-ramping still the most centralized part of our 'decentralized' workflow?](https://www.reddit.com/r/ethereum/comments/1rq85gq/the_cex_paradox_why_is_offramping_still_the_most/)**
+
+I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
+
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ Bitmine Immersion Technologies (BMNR) is expanding beyond its origins as a Bitco
 
 **[What do you think of the IoTeX 2026 Anti-Roadmap approach? 🧐](https://www.reddit.com/r/ethereum/comments/1rq6zrn/what_do_you_think_of_the_iotex_2026_antiroadmap/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -166,9 +166,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
+**[Crypto News: Ethereum Based Crypto Pepeto Updates Exchange Complete With Binance Listing and Bull Run Approach Follow Dogecoin Success](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-updates-exchange-complete-with-binance-listing-and-bull-run-approach-follow-dogecoin-success-1035916074)**
 
-Binance • 3d ago
+Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that exchange development reached 94% and the Binance listing is accelerating as...
+
+markets.businessinsider.com • 1h ago
+
+---
+
+**[Bitcoin & Ethereum Price Outlook: What to Expect in the Next 48 Hours](https://www.binance.com/en/square/post/300147426812626)**
+
+Binance • 2h ago
 
 ---
 
@@ -196,15 +204,15 @@ The Block • 1d ago
 
 ---
 
-**[Global insurance broker Aon tests stablecoin payments on Ethereum, Solana with Coinbase, Paxos](https://www.coindesk.com/business/2026/03/09/global-insurance-broker-aon-tests-stablecoin-payments-with-coinbase-paxos)**
+**[Vitalik Buterin pushes ‘DVT-Lite’ to make Ethereum validator setup easier](https://www.coindesk.com/tech/2026/03/10/vitalik-buterin-pushes-dvt-lite-to-make-ethereum-validator-setup-easier)**
 
-The firm used USDC on Ethereum and PayPal USD on Solana for insurance premium payments, testing how stablecoins could reshape settlements.
+In a post on X, the Ethereum co-founder said that the EF is testing a new method for running validators that could make staking infrastructure significantly easier for institutions holding large amounts of ether.
 
-CoinDesk • 1d ago
+CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqc-qEs_W4D_NIbJ1PwEjRBs-aqRZyL1Y0HKTNntHYFpuZYeEPHa0Ivv&gaa_ts=69b08421&gaa_sig=rizpVvFnVB05zd6QkH9D15VZTY9_IKpmMap2OPioJtN3oDtVNhkfzhofVX0kJ9O4GxuDj9mgRdtM-EmsebDzXQ%3D%3D)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqePoG8lVrIMkttIi_GYHD1hjoono99HWveznReFvrihFD93Jg4ZiQNq&gaa_ts=69b09669&gaa_sig=Cuz_rkCDNAhbf9YRFZxG2CQoZa5FDLwRmtyb9zeM_zcfpeWahZafWJycbQ5WFydp1qx5Tp_gS5n1oIoM5a7sPg%3D%3D)**
 
 Barron's • 12h ago
 
@@ -215,12 +223,6 @@ Barron's • 12h ago
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
 
 The Motley Fool • 2d ago
-
----
-
-**[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
-
-Seeking Alpha • 1d ago
 
 ---
 
@@ -244,7 +246,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 247 • 💬 67 • ⏱️ 13:04 • 5h ago
+👁️ 3K • 👍 247 • 💬 67 • ⏱️ 13:04 • 6h ago
 
 ---
 
@@ -264,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 104 • 💬 3 • ⏱️ 5:14 • 5h ago
+👁️ 1K • 👍 104 • 💬 3 • ⏱️ 5:14 • 6h ago
 
 ---
 
@@ -274,7 +276,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 7K • 👍 297 • 💬 42 • ⏱️ 18:25 • 21h ago
+👁️ 7K • 👍 297 • 💬 42 • ⏱️ 18:25 • 22h ago
 
 ---
 
@@ -284,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 218 • 👍 8 • ⏱️ 5:18 • 11h ago
+👁️ 218 • 👍 8 • ⏱️ 5:18 • 12h ago
 
 ---
 
@@ -314,7 +316,7 @@ BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 258 • 💬 345 • ⏱️ 14:42 • 23h ago
+👁️ 7K • 👍 258 • 💬 345 • ⏱️ 14:42 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T21:30:09.945799+00:00'
+updated: '2026-03-10T21:54:04.334341+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 21:30 UTC  
+**Last Updated:** March 10, 2026 at 21:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,122.65
+### $70,036.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** -3.4%  
-**30d:** +0.2%  
-**90d:** -24.1%  
-**1y:** -15.1%  
+**24h:** +1.6%  
+**7d:** -4.2%  
+**30d:** -0.5%  
+**90d:** -24.7%  
+**1y:** -15.7%  
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
-
-13h ago
-
----
-
 **[Netflix Secretly Banned Bitcoin From A Boxer’s Trunks Right Before The Fight Of His Life](https://www.reddit.com/r/Bitcoin/comments/1rq6s2w/netflix_secretly_banned_bitcoin_from_a_boxers/)**
 
 Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
 
 🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 2h ago
+
+---
+
+**[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
+
+13h ago
 
 ---
 
@@ -113,14 +113,6 @@ The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the
 
 ---
 
-**[Trying to recover a July 2012 Bitcoin wallet need advice](https://www.reddit.com/r/Bitcoin/comments/1rpz0n4/trying_to_recover_a_july_2012_bitcoin_wallet_need/)**
-
-Need advice from Bitcoin community about a 2012 wallet recovery. My client has a Bitcoin address from July 2012. We have a 12 word seed and the password, but nothing works. All 12 words exist in both the Blockchainwalletv3 list and the BIP39 list, and no word is missing. But when we try to recover it on the Blockchain.info recovery page or other tools, it always says invalid seed phrase. We also tried several recovery tools from GitHub including btcrecover: https://github.com/gurnec/btcrecover https://github.com/3rdIteration/btcrecover But still no success. The confusing part is that some sources say 12 word seed was very rare in 2012, and some say it did not exist at that time and only wallet identifier, password and wallet json were used. Because of this we are thinking maybe my client misunderstood something about the seed, but the 12 words look valid and match the word lists. Right now we are only trying seed shuffle and some brute force tests, but honestly we almost lost hope. If anyone from the community has any idea, suggestion, or experience with old 2012 Blockchain wallets, please share. Maybe there is something we are missing. Thank you.
-
-6h ago
-
----
-
 **[Has adding crypto payments actually helped your business?](https://www.reddit.com/r/Bitcoin/comments/1rq2uih/has_adding_crypto_payments_actually_helped_your/)**
 
 Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
@@ -129,19 +121,11 @@ Hey everyone, Curious to hear from founders or operators who have added crypto p
 
 ---
 
-**[Could crypto currencies like BTC becomes geopolitical hedge assets?](https://www.reddit.com/r/Bitcoin/comments/1rptoot/could_crypto_currencies_like_btc_becomes/)**
+**[Trying to recover a July 2012 Bitcoin wallet need advice](https://www.reddit.com/r/Bitcoin/comments/1rpz0n4/trying_to_recover_a_july_2012_bitcoin_wallet_need/)**
 
-What thought you are having on this above question.
+Need advice from Bitcoin community about a 2012 wallet recovery. My client has a Bitcoin address from July 2012. We have a 12 word seed and the password, but nothing works. All 12 words exist in both the Blockchainwalletv3 list and the BIP39 list, and no word is missing. But when we try to recover it on the Blockchain.info recovery page or other tools, it always says invalid seed phrase. We also tried several recovery tools from GitHub including btcrecover: https://github.com/gurnec/btcrecover https://github.com/3rdIteration/btcrecover But still no success. The confusing part is that some sources say 12 word seed was very rare in 2012, and some say it did not exist at that time and only wallet identifier, password and wallet json were used. Because of this we are thinking maybe my client misunderstood something about the seed, but the 12 words look valid and match the word lists. Right now we are only trying seed shuffle and some brute force tests, but honestly we almost lost hope. If anyone from the community has any idea, suggestion, or experience with old 2012 Blockchain wallets, please share. Maybe there is something we are missing. Thank you.
 
-10h ago
-
----
-
-**[Buying So Much Bitcoin at $69,420.69](https://www.reddit.com/r/Bitcoin/comments/1rpim36/buying_so_much_bitcoin_at_6942069/)**
-
-I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
-
-20h ago
+7h ago
 
 ---
 
@@ -149,7 +133,23 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 OP_NET is a consensus layer on Bitcoin Layer 1 enabling fully expressive smart contracts, DeFi, and post-quantum security directly on Bitcoin. No sidechains. No bridges. BTC is gas. Mainnet launches March 17, 2026.
 
-🔗 [opnet.org](https://opnet.org) • 3h ago
+🔗 [opnet.org](https://opnet.org) • 4h ago
+
+---
+
+**[Could crypto currencies like BTC becomes geopolitical hedge assets?](https://www.reddit.com/r/Bitcoin/comments/1rptoot/could_crypto_currencies_like_btc_becomes/)**
+
+What thought you are having on this above question.
+
+11h ago
+
+---
+
+**[Bitcoin And The 95% Collision](https://www.reddit.com/r/Bitcoin/comments/1rq4gzg/bitcoin_and_the_95_collision/)**
+
+The world is waiting for a financial revolution, but it already happened in silence. As of early 2026, over 95% of all Bitcoin that will ever exist has already been mined. We have officially transitioned from an era of monetary expansion to an era of fierce, global competition for a closed system. While retail investors are distracted by daily price volatility, Wall Street ETFs, corporate treasuries, and nation-states are quietly vacuuming up the remaining liquid supply. The collision between infinite fiat expansion and a hard cap of 21,000,000 coins is here. Dive into to understand the mathematics of absolute scarcity, the illusion of liquidity, and what happens next when the global financial system runs out of physical supply.
+
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/the-95-collision) • 3h ago
 
 ---
 
@@ -161,15 +161,7 @@ OP_NET is a consensus layer on Bitcoin Layer 1 enabling fully expressive smart c
 
 The Winklevoss twins moved $130 million in bitcoin to Gemini hot wallets while still holding $764 million worth of BTC, per Arkham.
 
-The Block • 9h ago
-
----
-
-**['The second century begins': Michael Saylor's Strategy buys another 17,994 bitcoin for $1.3 billion as holdings reach 738,731 BTC](https://www.theblock.co/post/392822/the-second-century-begins-michael-saylors-strategy-buys-more-bitcoin)**
-
-Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $50 billion.
-
-The Block • 1d ago
+The Block • 10h ago
 
 ---
 
@@ -181,45 +173,47 @@ Fortune • 1d ago
 
 ---
 
+**['The second century begins': Michael Saylor's Strategy buys another 17,994 bitcoin for $1.3 billion as holdings reach 738,731 BTC](https://www.theblock.co/post/392822/the-second-century-begins-michael-saylors-strategy-buys-more-bitcoin)**
+
+Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $50 billion.
+
+The Block • 1d ago
+
+---
+
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
-**[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
+**[Danielle Moinet Confirmed As A Bitcoin 2026 Speaker](https://bitcoinmagazine.com/conference/danielle-moinet-confirmed-as-a-bitcoin-2026-speaker)**
 
-Bloomberg.com • 1d ago
+Danielle Moinet — known to millions of fans worldwide as WWE Superstar Summer Rae — has been officially confirmed as a speaker at Bitcoin 2026, bringing a
 
----
-
-**[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
-
-Bloomberg.com • 12h ago
+Bitcoin Magazine • 4m ago
 
 ---
 
-**[Bitcoin Shows ‘Tentative Signs of Improvement’ as Iran Conflict Fears Wane](https://finance.yahoo.com/news/bitcoin-shows-tentative-signs-improvement-012136311.html)**
+**[Bitwise CIO reiterates bitcoin price could reach $1 million as he compares it to gold](https://www.theblock.co/post/393109/bitwise-cio-bitcoin-price-1-million-gold)**
 
-Oil’s sharp swing and renewed Bitcoin ETF inflows highlight a fragile rebound as on-chain data suggest crypto market stress may be easing.
+Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
 
-Yahoo Finance • 20h ago
-
----
-
-**[Almost 600,000 BTC snapped up between $60K and $70K in recent correction](https://www.coindesk.com/markets/2026/03/10/traders-snapped-up-nearly-600-000-btc-as-bitcoin-dipped-below-usd70-000-blockchain-data-show)**
-
-Glassnode data shows strong demand during bitcoin’s recent correction, with 200,00 BTC purchased over the past two weeks.
-
-CoinDesk • 9h ago
+The Block • 50m ago
 
 ---
 
-**[Why Bitcoin Miners Are Abandoning The Orange Coin For AI — And Why It Might Be A Massive Trap](https://bitcoinmagazine.com/business/public-bitcoin-miners-are-dumping-bitcoin-for-ai-a-historic-mistake)**
+**[Bitcoin Rebounds to $71,000 as Wall Street Deepens Push](https://finance.yahoo.com/news/bitcoin-rebounds-71-000-wall-154724672.html)**
 
-Imagine ditching Bitcoin — the asset you accumulated through cycles — to lease your rigs to Big Tech for AI. That's exactly what public miners are doing... but history shows infrastructure builders rarely capture the upside.
+Last Wednesday’s 8% surge to $74,000 reminded investors that Bitcoin’s gains arrive in sudden, unforeseeable bursts that punish anyone trying to time them.  Bitcoin surged last Wednesday to its highest level in nearly a month, with Ether following sharply higher.  For beaten-up bulls who held through months of losses, the volatility over the past week was the argument made in real time.
 
-Bitcoin Magazine • 1d ago
+Yahoo Finance • 4h ago
+
+---
+
+**[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -231,6 +225,14 @@ The Guardian • 23h ago
 
 ---
 
+**[Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC](https://www.coindesk.com/business/2026/03/09/nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc)**
+
+Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
+
+CoinDesk • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -239,7 +241,7 @@ The Guardian • 23h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 8 • 💬 0 • 2h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 9 • 💬 0 • 3h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 

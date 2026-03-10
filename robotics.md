@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T21:30:09.955030+00:00'
+updated: '2026-03-10T21:54:04.343443+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 21:30 UTC  
+**Last Updated:** March 10, 2026 at 21:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineering for Disneyland theme parks. Inspiration for walking movements was taken from the waddle of a duck, creating a stable walk while still keeping the appearance fun, as with Star Wars droids.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ Look at this interesting robotic grasping project, accomplished with the assista
 
 I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
 
-12h ago
+13h ago
 
 ---
 
@@ -120,11 +120,11 @@ ABB • 1d ago
 
 ---
 
-**[Teradyne sues Chinese cobot maker over UR software](https://www.therobotreport.com/teradyne-sues-chinese-cobot-marker-over-ur-software/)**
+**[Agility, Boston Dynamics, ASTM to discuss the state of humanoid robotics](https://www.therobotreport.com/agility-boston-dynamics-astm-to-discuss-the-state-of-humanoid-robotics/)**
 
-Teradyne Robotics has “irrefutable evidence” of Chinese robot company  Elite  Robots for copyright infringement of Universal Robots’ software.
+In this panel, experts will cut through the hype to examine what humanoids can realistically accomplish in factories and warehouses today.
 
-The Robot Report • 1h ago
+The Robot Report • 24m ago
 
 ---
 
@@ -136,33 +136,11 @@ NPR • 2d ago
 
 ---
 
-**[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
-
-A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
-
-Fortune • 3d ago
-
----
-
-**[OpenAI hardware leader resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
-
-Reuters • 2d ago
-
----
-
-**[AI-powered | WellSpan York Hospital unveils full-service robotic kitchen](https://www.wgal.com/article/wellspan-health-launches-ai-powered-robotic-dining-system/70685843)**
-
-The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
-
-WGAL • 8h ago
-
----
-
 **[Tech stocks today: Anthropic sues Defense Department over ban, OpenAI's robotics leader resigns](https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-sues-defense-department-over-ban-openais-robotics-leader-resigns-152722809.html)**
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -170,15 +148,39 @@ Yahoo Finance • 1d ago
 
 Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
 
-Folsom Times • 19h ago
+Folsom Times • 20h ago
 
 ---
 
-**[A whole new ballgame for trading cards: Startup uses robots and AI to sort and analyze collections](https://www.geekwire.com/2026/high-tech-player-in-collectibles-startup-uses-robotics-and-ai-to-sort-analyze-and-sell-trading-cards/)**
+**[Qualcomm’s partnership with Neura Robotics is just the beginning](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)**
 
-Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
+Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-GeekWire • 1d ago
+TechCrunch • 1d ago
+
+---
+
+**[Qualcomm's new Arduino Ventuno Q is an AI-focused computer designed for robotics](https://www.engadget.com/ai/qualcomms-new-arduino-ventuno-q-is-an-ai-focused-computer-designed-for-robotics-113047697.html)**
+
+Qualcomm, which purchased microcontroller board manufacturer Arduino last year, just announced a new computer that marries AI with robotics.
+
+Engadget • 1d ago
+
+---
+
+**[These robots are coming for the jobs no one wants — and could fill workforce gaps](https://www.businessinsider.com/agility-robotics-humanoid-robots-labor-shortage-aging-workforce-2026-3)**
+
+Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
+
+Business Insider • 2d ago
+
+---
+
+**[London-based robotics, AI company opens Nashville headquarters](https://www.nashvillepost.com/business/london-based-robotics-ai-company-opens-nashville-headquarters/article_08c73160-b3f7-45d4-ac6f-b1d93e6703d2.html)**
+
+Dexory unveils 50,000-square-foot warehouse months after completing $165 million in Series C funding round
+
+Nashville Post • 1d ago
 
 ---
 
@@ -242,7 +244,7 @@ One of Tesla's biggest rivals in the humanoid race just got the attention of Elo
 
 📺 Kalil 4.0
 
-👁️ 630 • 👍 40 • 💬 1 • ⏱️ 0:52 • 4h ago
+👁️ 630 • 👍 40 • 💬 1 • ⏱️ 0:52 • 5h ago
 
 ---
 
@@ -270,7 +272,7 @@ War Robots Gameplay: Bash Boom Pow Nerf in WR - My perspective My War Robots Cre
 
 📺 BBC News
 
-👁️ 1K • 👍 34 • 💬 4 • ⏱️ 0:49 • 1h ago
+👁️ 1K • 👍 34 • 💬 4 • ⏱️ 0:49 • 2h ago
 
 ---
 
