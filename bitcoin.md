@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T15:30:57.824614+00:00'
+updated: '2026-03-10T16:56:54.283457+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 15:30 UTC  
+**Last Updated:** March 10, 2026 at 16:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,500.00
+### $71,613.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.4%  
+**24h:** +3.8%  
 **7d:** -2.0%  
-**30d:** +1.9%  
-**90d:** -22.8%  
-**1y:** -13.6%  
+**30d:** +1.7%  
+**90d:** -23.0%  
+**1y:** -13.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,15 +87,7 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-21h ago
-
----
-
-**[Bought 5 BTC for the future](https://www.reddit.com/r/Bitcoin/comments/1rpx45r/bought_5_btc_for_the_future/)**
-
-I think this is the bottom. We will get BTC at 80k soon when i will sell and make 50k profit.
-
-1h ago
+23h ago
 
 ---
 
@@ -103,7 +95,13 @@ I think this is the bottom. We will get BTC at 80k soon when i will sell and mak
 
 The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 2h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 3h ago
+
+---
+
+**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
+
+8h ago
 
 ---
 
@@ -111,15 +109,7 @@ The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the
 
 I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
 
-14h ago
-
----
-
-**[Strategy insider says STRC momentum will "only accelerate" after surge in demand](https://www.reddit.com/r/Bitcoin/comments/1rpw4ru/strategy_insider_says_strc_momentum_will_only/)**
-
-Strategy's STRC surge accelerates Bitcoin accumulation. Chaitanya Jain: "This is only going to accelerate" as demand shifts to consistent yield seekers.
-
-🔗 [BitcoinTreasuries.NET](https://bitcointreasuries.net/news/behind-the-recent-demand-surge-of-strategys-strc) • 2h ago
+16h ago
 
 ---
 
@@ -127,7 +117,7 @@ Strategy's STRC surge accelerates Bitcoin accumulation. Chaitanya Jain: "This is
 
 What thought you are having on this above question.
 
-4h ago
+6h ago
 
 ---
 
@@ -135,7 +125,7 @@ What thought you are having on this above question.
 
 Been on Coinbase for a while but fees are getting old, especially on small buys. Haven't had issues yet but heard support is a nightmare when things go wrong. I'd rather switch before I find that out the hard way. Already looked into some alternatives, Kraken, which has lower fees with Kraken Pro. Binance is huge but has location restrictions. Bitget and Bybit also get mentioned with competitive fees. For those who left Coinbase, where'd you go? Just doing spot trading, want low fees, reliable withdrawals, decent coin selection. What's working well for regular users in 2026?
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +133,7 @@ Been on Coinbase for a while but fees are getting old, especially on small buys.
 
 Or else I’ll start throwing things
 
-20h ago
+21h ago
 
 ---
 
@@ -155,21 +145,37 @@ Or else I’ll start throwing things
 
 ---
 
+**[Bitcoin Hits 20 Million Mined: Less Than 1 Million Coins Left](https://www.reddit.com/r/Bitcoin/comments/1rpc6z1/bitcoin_hits_20_million_mined_less_than_1_million/)**
+
+Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 20h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
+
+**[Winklevoss twins move $130 million in bitcoin to Gemini as estimated profit tops $1.8 billion: Arkham](https://www.theblock.co/post/392972/winklevoss-twins-move-130-million-usd-in-bitcoin-to-gemini-arkham)**
+
+The Winklevoss twins moved $130 million in bitcoin to Gemini hot wallets while still holding $764 million worth of BTC, per Arkham.
+
+The Block • 5h ago
+
+---
 
 **[Strategy buys $1.3 billion of Bitcoin using mostly common stock](https://fortune.com/2026/03/09/michael-saylor-strategy-bitcoin-buy-common-stock/)**
 
 The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -181,53 +187,47 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin's mined supply hits 20 million milestone, leaving final 1 million BTC to be issued over next 114 years](https://www.theblock.co/post/392660/bitcoin-mined-supply-hits-20-million-btc)**
+**[Bitcoin Rebounds to $71,000 as Wall Street Deepens Crypto Push](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-rebounds-to-71-000-as-wall-street-deepens-crypto-push)**
 
-The final 1 million BTC will take over a century to mine, with the last fractions, measured in satoshis, expected to be issued around 2140.
-
-The Block • 1d ago
+Bloomberg • 1h ago
 
 ---
 
-**[When Will Bitcoin Bottom? Fidelity Macro Chief Says This Is The Metric To Watch](https://finance.yahoo.com/news/bitcoin-bottom-fidelity-macro-chief-174540450.html)**
+**[Bitcoin crosses 20 million BTC milestone, leaving 1 million coins left to mine](https://finance.yahoo.com/news/bitcoin-crosses-20-million-btc-153353664.html)**
 
-Market participants interested in knowing when Bitcoin will bottom should look at the gold-to-Bitcoin ratio, Fidelity Director of Global Macro Jurrien Timmer says. Timmer said on Feb. 27 Bitcoin should be evaluated by the gold-to-Bitcoin ratio, calling the digital asset...
+Bitcoin miners have officially mined over 20 million coins, leaving only 1 million left to be mined.
 
-Yahoo Finance • 21h ago
-
----
-
-**[Bitcoin Price Rebounds From Oil-Fueled Retreat, Nasdaq To Launch Tokenized Stocks](https://www.investors.com/news/bitcoin-price-oil-support-nasdaq-tokenized-stocks-equities-kraken-partnership/)**
-
-Investor's Business Daily • 17h ago
-
----
-
-**[Current price of Bitcoin for March 10, 2026](https://fortune.com/article/price-of-bitcoin-03-10-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 23m ago
-
----
-
-**[Get in the Solo-Mining Bitcoin Game for Less Than $50](https://www.entrepreneur.com/money-finance/get-in-the-solo-mining-bitcoin-game-for-less-than-50/503241)**
-
-The BlockChance Bitcoin Ticket Miner is silent and energy efficient.
-
-Entrepreneur • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg • 19h ago
+Bloomberg • 20h ago
 
 ---
 
-**[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
+**[Bitcoin climbs to $71,000 as dollar, oil weaken after Trump comments on Iran war](https://www.coindesk.com/markets/2026/03/10/bitcoin-climbs-to-usd71-000-as-dollar-oil-weaken-after-trump-comments-on-iran-war)**
 
-Bloomberg • 6h ago
+Crypto and risk assets rally as the dollar retreats following comments from Donald Trump suggesting the conflict in Iran may end soon, while bitcoin still faces a broader downtrend.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Rises as Trump Amplifies Iran Threats, Fed Rate Cut Chances Fall Near Zero](https://finance.yahoo.com/news/bitcoin-rises-trump-amplifies-iran-152603621.html)**
+
+Bitcoin ticked up above $71K on Tuesday as Trump sends mixed messages on Iran, while hopes for a crypto breakout cool amid Fed uncertainty.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Nigel Farage invests £215,000 in Kwasi Kwarteng’s bitcoin firm](https://www.theguardian.com/politics/2026/mar/09/nigel-farage-kwasi-kwarteng-bitcoin-reform-uk-crypto-stack-btc)**
+
+Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
+
+The Guardian • 18h ago
 
 ---
 
@@ -239,7 +239,7 @@ Bloomberg • 6h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 23h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 1d ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -269,7 +269,7 @@ Complete operating system for Bitcoiners
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 2h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 3h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -289,23 +289,9 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 ---
 
-**[BTC miners pivoting towards AI](https://news.ycombinator.com/item?id=47235235)**
-
-Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin treasuries to AI infrastructure.
-
-⬆️ 4 • 💬 1 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/03/end-of-bitcoin-hodl-public-miners-going-all-in-on-ai-signaling-more-btc-selling)
-
----
-
-**[Bhutan's crypto experiment shows how hard digital money is in the real world](https://news.ycombinator.com/item?id=47235069)**
-
-⬆️ 4 • 💬 0 • 6d ago • [restofworld.org](https://restofworld.org/2026/bhutan-bitcoin-tourism-payment-adoption-failure/)
-
----
-
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 9h ago
+⬆️ 1 • 💬 0 • 10h ago
 
 ---
 
@@ -319,7 +305,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 236 • ⏱️ 9:54 • 17h ago
+👁️ 44K • 👍 2K • 💬 236 • ⏱️ 9:54 • 19h ago
 
 ---
 
@@ -329,7 +315,7 @@ The global fiat system is flashing red as 20 million barrels of oil vanish offli
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 130 • ⏱️ 18:57 • 16h ago
+👁️ 18K • 👍 2K • 💬 130 • ⏱️ 18:57 • 17h ago
 
 ---
 
@@ -339,7 +325,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 13K • 👍 926 • 💬 403 • ⏱️ 10:02 • 19h ago
+👁️ 13K • 👍 926 • 💬 403 • ⏱️ 10:02 • 20h ago
 
 ---
 
@@ -349,7 +335,7 @@ Lyn Alden just explained WHY this cycle has been so DIFFERENT — and why we won
 
 📺 Money Talks
 
-👁️ 2K • 👍 62 • 💬 87 • ⏱️ 17:32 • 19h ago
+👁️ 2K • 👍 62 • 💬 87 • ⏱️ 17:32 • 20h ago
 
 ---
 
@@ -379,7 +365,7 @@ Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 239 • 💬 134 • ⏱️ 8:35 • 21h ago
+👁️ 5K • 👍 239 • 💬 134 • ⏱️ 8:35 • 22h ago
 
 ---
 
@@ -389,7 +375,7 @@ Did Bitcoin already put in the bottom, or is this just the start of a longer gri
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 341 • 💬 143 • ⏱️ 10:35 • 20h ago
+👁️ 11K • 👍 341 • 💬 143 • ⏱️ 10:35 • 22h ago
 
 ---
 

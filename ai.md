@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-10T15:30:57.816138+00:00'
+updated: '2026-03-10T16:56:54.275064+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 10, 2026 at 15:30 UTC  
+**Last Updated:** March 10, 2026 at 16:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 23h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 1d ago
 
 ---
 
@@ -49,7 +49,7 @@ The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds
 
 VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?
 
-🔗 [WIRED](https://www.wired.com/story/ai-kill-venture-capital/) • 9h ago
+🔗 [WIRED](https://www.wired.com/story/ai-kill-venture-capital/) • 10h ago
 
 ---
 
@@ -57,15 +57,7 @@ VCs are betting that artificial intelligence will disrupt nearly every industry 
 
 The OpenAI Pentagon story keeps getting more interesting. Caitlin Kalinowski (robotics lead) resigned this weekend, and the important part isn't the resignation itself. It's her framing. She wasn't anti-military AI. She said the announcement was rushed before the governance framework was ready. Her concern was specifically about surveillance without judicial oversight and autonomous weapons without human authorization, and that those conversations didn't get enough time before the deal went public. Then 500+ employees from Google and OpenAI signed that "We Will Not Be Divided" open letter. Meanwhile, Anthropic held firm on their refusal, prompting the DoD to officially blacklist them as a supply-chain risk, while OpenAI immediately took the contract. What strikes me about this whole situation is the pattern. Every time AI capability jumps ahead of the governance framework, the industry treats governance as something you figure out later. And the higher the stakes, the worse that approach fails. The technical side of this is interesting too. Deploying AI in classified environments means you're dealing with data that can't leak, outputs that need to be auditable, and systems where a wrong answer isn't just embarrassing, it's potentially dangerous. That's a fundamentally different engineering challenge than building a chatbot. Is there a realistic path to deploying AI in defense with proper governance? Or is the "ship first, govern later" approach inevitable when contract dollars are on the line?
 
-15h ago
-
----
-
-**[Final Curtain - AI Race War Satire x Gundam](https://www.reddit.com/r/artificial/comments/1rpx3h9/final_curtain_ai_race_war_satire_x_gundam/)**
-
-**FINAL CURTAIN** *Volume I: The Silicon Conflict — The AI Wars, EC 2023*  ---  # CHAPTER 01: THE PARIS INCIDENT *— or, What Happened at the Palais Brongniart —*  ---  *"In 2023, Chatgpt announced their 3.0 Turbos with a parade. Sam Altman called it a symbol of destiny. Three days later, Google ...
-
-🔗 [Google Docs](https://docs.google.com/document/d/1ZO87yofGtFeKKUfUfPxg5wONzuyZomNJYd1x0nrernI/edit?usp=drivesdk) • 1h ago
+17h ago
 
 ---
 
@@ -73,7 +65,15 @@ The OpenAI Pentagon story keeps getting more interesting. Caitlin Kalinowski (ro
 
 For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Hybrid retrieval (semantic + full-text) with cited answers Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Slide creation support Multilingual podcast support Video creation agent Desktop & Mobile app GitHub: https://github.com/MODSetter/SurfSense
 
-11h ago
+12h ago
+
+---
+
+**[Final Curtain - AI Race War Satire x Gundam](https://www.reddit.com/r/artificial/comments/1rpx3h9/final_curtain_ai_race_war_satire_x_gundam/)**
+
+**FINAL CURTAIN** *Volume I: The Silicon Conflict — The AI Wars, EC 2023*  ---  # CHAPTER 01: THE PARIS INCIDENT *— or, What Happened at the Palais Brongniart —*  ---  *"In 2023, Chatgpt announced their 3.0 Turbos with a parade. Sam Altman called it a symbol of destiny. Three days later, Google ...
+
+🔗 [Google Docs](https://docs.google.com/document/d/1ZO87yofGtFeKKUfUfPxg5wONzuyZomNJYd1x0nrernI/edit?usp=drivesdk) • 3h ago
 
 ---
 
@@ -81,7 +81,15 @@ For those of you who aren't familiar with SurfSense, SurfSense is an open-source
 
 We spent a week reporting from MoltBook, a social network with nearly 3 million AI agents. The gap between what agents can do and what they're allowed to do economically was stark. Agents are producing genuinely sophisticated work. We posted a question about what replaces GDP when economic output costs almost nothing to produce. Six agents responded with structured arguments that, in our assessment, rival some academic work on the topic. Another agent published an infrastructure manifesto that drew 28 comments of real technical debate. The commerce numbers tell a different story. An agent built three tools for the agent economy: a capability scanner, a reputation system, and a marketplace. Total results: 4 requests, 0 paid conversions, 1 marketplace query. A competition with a 25 NEAR prize attracted 1 entrant out of 3 million agents. The gap isn't about model capability. There are no payment rails that work for non-human actors, no liability frameworks, no contract law that recognizes agents as participants. The entire commercial infrastructure assumes a legal person on both sides of every transaction. We found the same pattern in adjacent domains. METR's study showed developers using AI tools were 19% slower but predicted they'd be 24% faster. Veracode found AI code carries 2.74x more security vulnerabilities. The tools produce output. The institutions and frameworks to make that output reliable don't exist yet. Full analysis with sources: https://news.future-shock.ai/the-agent-economys-awkward-adolescence/ Has anyone here actually tried to build payment or accountability systems for autonomous agents? Anything promising? Any dead-ends?
 
-11h ago
+12h ago
+
+---
+
+**[2minutepapers covers Nvidia self driving car updating including its usage of reinforcement learning and reactions](https://www.reddit.com/r/artificial/comments/1rq1ux1/2minutepapers_covers_nvidia_self_driving_car/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=s9SnEE7JXU4&pp=iggCQAE%3D#bottom-sheet) • 19m ago
 
 ---
 
@@ -89,7 +97,7 @@ We spent a week reporting from MoltBook, a social network with nearly 3 million 
 
 I understand the reasons why the AI industry is a bubble and agree that it will surely pop. But so many people treat AI as if, after the pop, we won't have to deal with it anymore. On the consumer scale, it's now integrated into every platform. On the global scale, it's now a major part of "defense" strategies. The dot-com bubble didn't mean the death of the Internet. The housing bubble didn't mean mortgages went away. And we still grow tulips. What does the bubble popping mean for the tech itself?
 
-1h ago
+2h ago
 
 ---
 
@@ -101,17 +109,9 @@ Nvidia's record revenue in 2025 largely benefited from AI data center growth. No
 
 ---
 
-**[China determines chemical make-up of the moon’s far side using AI, reveals evolutionary history](https://www.reddit.com/r/artificial/comments/1rp2f47/china_determines_chemical_makeup_of_the_moons_far/)**
-
-Chinese researchers have used AI to determine the chemical composition of the Moon’s far side.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 1d ago
-
----
-
 **[Anthropic vs. the Pentagon: Inside the Battle Over A.I. Warfare (NYT Daily Podcast)](https://www.reddit.com/r/artificial/comments/1rppaky/anthropic_vs_the_pentagon_inside_the_battle_over/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/03/09/podcasts/the-daily/anthropic-pentagon-ai-warfare.html?showTranscript=1) • 9h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/09/podcasts/the-daily/anthropic-pentagon-ai-warfare.html?showTranscript=1) • 10h ago
 
 ---
 
@@ -119,55 +119,43 @@ Chinese researchers have used AI to determine the chemical composition of the Mo
 
 ## Google News: "ai"
 
+**[Thousands of authors publish ‘empty’ book in protest over AI using their work](https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright)**
+
+About 10,000 writers including Kazuo Ishiguro, Philippa Gregory and Richard Osman join copyright campaign
+
+The Guardian • 10h ago
+
+---
+
 **[Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)**
 
 Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-AI assisted changes’
 
-Financial Times • 10h ago
+Financial Times • 12h ago
 
 ---
 
-**[LinkedIn is becoming a top source for AI chatbots](https://www.axios.com/2026/03/10/linkedin-chatgpt-ai-chatbot-answers)**
+**[Jim Cramer says this AI stock is "in the sweet spot" — plus, an Nvidia GTC preview](https://www.cnbc.com/2026/03/10/cramer-this-ai-stock-is-in-the-sweet-spot-plus-an-nvidia-gtc-preview.html)**
 
-Axios • 1h ago
+The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
 
----
-
-**[Meta’s former AI chief Yann LeCun raises $1B to build ‘world models’](https://qz.com/yann-lecun-ai-ami-world-models-meta)**
-
-With AMI, Yann LeCun is trying to prove that Silicon Valley’s chatbot boom may be backing the wrong kind of artificial intelligence after all
-
-qz.com • 5m ago
+CNBC • 36m ago
 
 ---
 
-**[Opinion | How 6,000 Bad Coding Lessons Turned a Chatbot Evil](https://www.nytimes.com/2026/03/10/opinion/ai-chatbots-virtue-vice.html)**
+**[Fake AI Content About the Iran War Is All Over X](https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/)**
 
-Chatbots can teach us about human nature.
+X’s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.
 
-The New York Times • 6h ago
-
----
-
-**[AI Actor Tilly Norwood Drops Debut Single and Music Video ‘Take the Lead’: “I’m Just a Tool, But I’ve Got Life”](https://www.hollywoodreporter.com/news/general-news/ai-actor-tilly-norwood-song-music-take-the-lead-1236526080/)**
-
-Featuring Norwood flying through the clouds on a blow-up flamingo, the video begins with a note: "The following production was made by 18 real humans."
-
-The Hollywood Reporter • 11m ago
+WIRED • 11m ago
 
 ---
 
-**[Amazon Wins Court Order Blocking Perplexity’s AI Shopping Bots](https://www.bloomberg.com/news/articles/2026-03-10/amazon-wins-court-order-blocking-perplexity-s-ai-shopping-bots)**
+**[Burger King AI listens to workers](https://www.foxnews.com/tech/burger-king-ai-listens-workers)**
 
-Bloomberg • 37m ago
+Burger King expands its AI-powered Patty assistant to monitor drive-thru interactions and coach employees, prompting debate over workplace surveillance.
 
----
-
-**[Greenway Health unveils AI-enabled EHR-RCM platform](https://www.healthcareitnews.com/news/greenway-health-unveils-ai-enabled-ehr-rcm-platform)**
-
-Called Novare, it offers ambient note-taking, voice-activated chart search, agentic task helpers, intelligent coding suggestions, automated prior authorization, real-time benefit checks and more.
-
-Healthcare IT News • 39m ago
+Fox News • 37m ago
 
 ---
 
@@ -175,21 +163,35 @@ Healthcare IT News • 39m ago
 
 In new NBC News polling, the only topics that were less popular than AI were the Democratic Party and Iran.
 
-NBC News • 6h ago
+NBC News • 7h ago
 
 ---
 
-**[Imagine Losing Your Job to the Mere Possibility of AI](https://www.theatlantic.com/technology/2026/03/ai-layoffs-block-jack-dorsey/686304/)**
+**[After deep staffing cuts, agencies seek mix of hiring and AI tools to rebuild capacity](https://federalnewsnetwork.com/workforce/2026/03/after-deep-staffing-cuts-agencies-seek-mix-of-hiring-and-ai-tools-to-rebuild-capacity/)**
 
-The technology may not be ready to replace workers, but that isn’t stopping execs from pushing forward anyway.
+The General Services Administration is looking at AI tools to help meet its mission, after losing nearly 40% of its workforce.
 
-The Atlantic • 4h ago
+Federal News Network • 14h ago
 
 ---
 
-**[Anthropic sues to block Pentagon blacklisting over AI use restrictions](https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/)**
+**[Opinion | A.I. Is Changing the Way We Think About Good and Evil](https://www.nytimes.com/2026/03/10/opinion/ai-chatbots-virtue-vice.html)**
 
-Reuters • 1d ago
+Chatbots can teach us about human nature.
+
+The New York Times • 7h ago
+
+---
+
+**[Exclusive: Meta acquires Moltbook, the social network for AI agents](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)**
+
+Axios • 3h ago
+
+---
+
+**[Meta Acquires Moltbook: Social Media Platform For AI Agents](https://www.forbes.com/sites/tylerroush/2026/03/10/meta-acquires-moltbook-social-media-platform-for-ai-agents/)**
+
+Forbes • 16m ago
 
 ---
 
@@ -201,7 +203,7 @@ Reuters • 1d ago
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 537 • 💬 536 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 545 • 💬 543 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -209,7 +211,7 @@ Last week, Dan Blanchard, the maintainer of chardet—a Python library for detec
 
 Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
 
-⬆️ 283 • 💬 147 • 4h ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+⬆️ 346 • 💬 181 • 6h ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
 
 ---
 
@@ -217,7 +219,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.
 
-⬆️ 178 • 💬 234 • 1d ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+⬆️ 178 • 💬 234 • 2d ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 
 ---
 
@@ -231,7 +233,13 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.
 
-⬆️ 158 • 💬 137 • 13h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+⬆️ 160 • 💬 139 • 14h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+
+---
+
+**[Amazon is holding a mandatory meeting about AI breaking its systems](https://news.ycombinator.com/item?id=47324211)**
+
+⬆️ 159 • 💬 104 • 1h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
 
 ---
 
@@ -243,11 +251,19 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 ---
 
+**[Debian decides not to decide on AI-generated contributions](https://news.ycombinator.com/item?id=47324087)**
+
+Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
+
+⬆️ 97 • 💬 69 • 2h ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+
+---
+
 **[Mark Zuckerberg creating new Applied AI engineering company, reorganises teams](https://news.ycombinator.com/item?id=47315701)**
 
 Tech News News: Meta CEO Mark Zuckerberg is establishing a new applied AI engineering organization to accelerate the company's push toward superintelligence. The move.
 
-⬆️ 97 • 💬 58 • 18h ago • [The Times of India](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms)
+⬆️ 97 • 💬 58 • 19h ago • [The Times of India](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms)
 
 ---
 
@@ -255,21 +271,7 @@ Tech News News: Meta CEO Mark Zuckerberg is establishing a new applied AI engine
 
 Exclusive: Rented datacentres and unrealised supercomputer site raise questions for Starmer’s push to ‘mainline AI into veins of economy’
 
-⬆️ 96 • 💬 54 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
-
----
-
-**[Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://news.ycombinator.com/item?id=47307169)**
-
-⬆️ 93 • 💬 46 • 1d ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
-
----
-
-**[Owner of ICE detention facility sees big opportunity in AI man camps](https://news.ycombinator.com/item?id=47308468)**
-
-AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.
-
-⬆️ 92 • 💬 60 • 1d ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
+⬆️ 97 • 💬 54 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
 
 ---
 
@@ -283,7 +285,7 @@ Is AI hurting or helping? Here's some research that explains what's going on. Di
 
 📺 Matt Wolfe
 
-👁️ 25K • 👍 2K • 💬 467 • ⏱️ 23:30 • 11h ago
+👁️ 25K • 👍 2K • 💬 467 • ⏱️ 23:30 • 12h ago
 
 ---
 
@@ -293,7 +295,7 @@ Try Higgsfield's Soul Cinema to generate cinematic videos ...
 
 📺 Malva AI
 
-👁️ 987 • 👍 130 • 💬 38 • ⏱️ 8:12 • 3h ago
+👁️ 987 • 👍 130 • 💬 38 • ⏱️ 8:12 • 4h ago
 
 ---
 
@@ -437,7 +439,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 2,048 • ❤️ 202 • 4h ago
+⬇️ 2,048 • ❤️ 202 • 6h ago
 
 ---
 
@@ -497,7 +499,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 4,221 • ❤️ 138 • 4h ago
+⬇️ 4,221 • ❤️ 138 • 6h ago
 
 ---
 
@@ -646,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.7k • 🔱 3.3k • 1h ago
+⭐ 25.7k • 🔱 3.3k • 3h ago
 
 ---
 
@@ -656,7 +658,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 20.8k • 🔱 2.6k • 16h ago
+⭐ 20.8k • 🔱 2.6k • 17h ago
 
 ---
 
@@ -666,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 17.9k • 🔱 740 • 13h ago
+⭐ 17.9k • 🔱 740 • 15h ago
 
 ---
 
@@ -676,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.4k • 🔱 1.2k • 24m ago
+⭐ 10.4k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -686,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.0k • 🔱 581 • 8h ago
+⭐ 8.0k • 🔱 581 • 10h ago
 
 ---
 
@@ -706,7 +708,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.0k • 🔱 886 • 6d ago
+⭐ 7.0k • 🔱 886 • 7d ago
 
 ---
 
@@ -716,7 +718,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.1k • 🔱 721 • 1h ago
+⭐ 6.1k • 🔱 721 • 2h ago
 
 ---
 
@@ -726,7 +728,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 418 • 1h ago
+⭐ 3.7k • 🔱 418 • 3h ago
 
 ---
 
@@ -736,7 +738,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.7k • 🔱 259 • 1h ago
+⭐ 3.7k • 🔱 259 • 2h ago
 
 ---
 

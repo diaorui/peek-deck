@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-10T15:30:57.830565+00:00'
+updated: '2026-03-10T16:56:54.289405+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - cryptocurrency
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 15:30 UTC  
+**Last Updated:** March 10, 2026 at 16:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,062.70
+### $2,084.78
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -2.8%  
-**30d:** -1.7%  
-**90d:** -36.1%  
-**1y:** +7.1%  
+**24h:** +3.3%  
+**7d:** -2.1%  
+**30d:** -1.0%  
+**90d:** -35.6%  
+**1y:** +7.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine Immersion Technologies (BMNR) is expanding beyond its origins as a Bitcoin miner to consolidate as the world's largest corporate holder of Ether (ETH). : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 3h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Bitmine Immersion Technologies (BMNR) is expanding beyond its origins as a Bitco
 
 Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, deployed a contract in April 2016 that let you "grind unicorns into meat" on-chain. The experiment became the Unicorn Meat token (w🍖) — deployed when ERC-20 was barely a draft standard, when the entire Ethereum dev community could fit in one room. Why it matters historically: - Deployed April 2016, pre-TheDAO hack - One of the earliest ERC-20 compliant tokens - Created by a core Ethereum Foundation member for fun, not profit - The contract is still live and the token still trades Original contract: https://etherscan.io/address/0xd234bf2410a0009df9c3c63b610c09738f18ccd7 The community archive: https://unicornmeat.wtf These early experiments are Ethereum heritage. Worth preserving.
 
-1h ago
+2h ago
 
 ---
 
@@ -98,7 +98,7 @@ Summary
 ⚠️ Lighthouse v8.1.2 is a high-priority patch release with further security-critical fixes atop v8.1.1.
 This is a mandatory upgrade for all users running any prior version. All prior Lighth...
 
-🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 15h ago
+🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 16h ago
 
 ---
 
@@ -162,11 +162,25 @@ Decrypt • 1d ago
 
 ---
 
+**[Vitalik Buterin pushes ‘DVT-Lite’ to make Ethereum validator setup easier](https://www.coindesk.com/tech/2026/03/10/vitalik-buterin-pushes-dvt-lite-to-make-ethereum-validator-setup-easier)**
+
+In a post on X, the Ethereum co-founder said that the EF is testing a new method for running validators that could make staking infrastructure significantly easier for institutions holding large amounts of ether.
+
+CoinDesk • 1h ago
+
+---
+
+**[Ethereum Vs. Canton: Two Different Paths To Institutional Blockchain](https://www.forbes.com/sites/jonegilsson/2026/03/10/ethereum-vs-canton-two-different-paths-to-institutional-blockchain/)**
+
+Forbes • 3h ago
+
+---
+
 **[Tom Lee Claims 'Mini Crypto Winter Almost Over' as Bitmine Buys $120M Ethereum Amid Rising Price](https://finance.yahoo.com/news/tom-lee-claims-mini-crypto-132218612.html)**
 
 Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -186,14 +200,6 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for March 10, 2026](https://fortune.com/article/price-of-ethereum-03-10-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1h ago
-
----
-
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
 Binance • 2d ago
@@ -208,23 +214,17 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum Vs. Canton: Two Different Paths To Institutional Blockchain](https://www.forbes.com/sites/jonegilsson/2026/03/10/ethereum-vs-canton-two-different-paths-to-institutional-blockchain/)**
-
-Forbes • 1h ago
-
----
-
 **[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
 
 Seeking Alpha • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Brace for U.S. CPI Report](https://www.tradingview.com/news/99Bitcoins:19a7bb65e094b:0-bitcoin-ethereum-xrp-brace-for-u-s-cpi-report/)**
+**[Current price of Ethereum for March 10, 2026](https://fortune.com/article/price-of-ethereum-03-10-2026/)**
 
-Bitcoin, Ethereum, and XRP are all trading in the green this week. On the surface, the crypto market looks calm. But under that calm, traders are waiting for one of the biggest macro events of the month: the U.S. CPI (inflation) report.Economists expect inflation to edge up to about 2.5%, slightly…
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-TradingView • 14h ago
+Fortune • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 5K • 👍 509 • 💬 55 • ⏱️ 21:43 • 1h ago
+👁️ 5K • 👍 509 • 💬 55 • ⏱️ 21:43 • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 236 • ⏱️ 9:54 • 17h ago
+👁️ 44K • 👍 2K • 💬 236 • ⏱️ 9:54 • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 6K • 👍 283 • 💬 38 • ⏱️ 18:25 • 15h ago
+👁️ 6K • 👍 283 • 💬 38 • ⏱️ 18:25 • 17h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 146 • 👍 8 • ⏱️ 5:18 • 5h ago
+👁️ 146 • 👍 8 • ⏱️ 5:18 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 232 • 👍 30 • 💬 2 • ⏱️ 22:18 • 2h ago
+👁️ 232 • 👍 30 • 💬 2 • ⏱️ 22:18 • 3h ago
 
 ---
 
@@ -288,7 +288,7 @@ Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. 
 
 📺 Zach Humphries
 
-👁️ 3K • 👍 132 • 💬 14 • ⏱️ 7:38 • 2d ago
+👁️ 3K • 👍 132 • 💬 14 • ⏱️ 7:38 • 3d ago
 
 ---
 
@@ -308,7 +308,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 6K • 👍 424 • 💬 3 • ⏱️ 1:03:51 • 7m ago
+👁️ 6K • 👍 424 • 💬 3 • ⏱️ 1:03:51 • 1h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 251 • 💬 356 • ⏱️ 14:42 • 17h ago
+👁️ 7K • 👍 251 • 💬 356 • ⏱️ 14:42 • 19h ago
 
 ---
 
