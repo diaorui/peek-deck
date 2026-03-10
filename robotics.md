@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T11:34:15.049950+00:00'
+updated: '2026-03-10T13:03:46.053208+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 11:34 UTC  
+**Last Updated:** March 10, 2026 at 13:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,7 @@ Robotics research and industry news
 
 **[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-14h ago
-
----
-
-**[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
-
-18h ago
+16h ago
 
 ---
 
@@ -48,13 +42,19 @@ Robotics research and industry news
 
 I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
 
-2h ago
+4h ago
+
+---
+
+**[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
+
+20h ago
 
 ---
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -74,33 +74,31 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 ---
 
-**[Drone simulation with guitar tabs control](https://www.reddit.com/r/robotics/comments/1rpo5lu/drone_simulation_with_guitar_tabs_control/)**
-
-6h ago
-
----
-
 **[Convolutional Neural Networks - Explained](https://www.reddit.com/r/robotics/comments/1rpr38a/convolutional_neural_networks_explained/)**
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-3h ago
+4h ago
 
 ---
 
-**[I make a test with the T265 and the RoboBaton VIOBOT2.](https://www.reddit.com/r/robotics/comments/1rp4lc8/i_make_a_test_with_the_t265_and_the_robobaton/)**
+**[Drone simulation with guitar tabs control](https://www.reddit.com/r/robotics/comments/1rpo5lu/drone_simulation_with_guitar_tabs_control/)**
 
-I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
-
-19h ago
+7h ago
 
 ---
 
-**[First time building a hobbyist robot from scratch, it has 4-legged 12-DOF, I call it Cubic Doggo!](https://www.reddit.com/r/robotics/comments/1rouerc/first_time_building_a_hobbyist_robot_from_scratch/)**
+**[Sitting on 50x Harmonic Drive HPG-11B-45 gearboxes after a SCARA project — 4th axis rotary table seems like the obvious next move?](https://www.reddit.com/r/robotics/comments/1rpvr6q/sitting_on_50x_harmonic_drive_hpg11b45_gearboxes/)**
 
-(Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
+26m ago
 
-1d ago
+---
+
+**[Expectations for task completion in robotics](https://www.reddit.com/r/robotics/comments/1rpumor/expectations_for_task_completion_in_robotics/)**
+
+Mehul Nariyawala, co-founder of Matic Robotics, talked about expectations for robots in the home. He described a difference between AI systems and physical robots. AI tools are often used collaboratively, where partial output is acceptable and users complete the remaining work. For household robots, the expectation is different. Tasks such as cleaning are typically expected to be fully delegated to the robot rather than partially completed.
+
+1h ago
 
 ---
 
@@ -108,17 +106,17 @@ I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIO
 
 ## Google News: "robotics"
 
-**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
-
-ABB • 19h ago
-
----
-
 **[Qualcomm’s partnership with Neura Robotics is just the beginning](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)**
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 19h ago
+TechCrunch • 21h ago
+
+---
+
+**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
+
+ABB • 20h ago
 
 ---
 
@@ -130,11 +128,11 @@ NPR • 1d ago
 
 ---
 
-**[OpenAI’s Head of Robotics Resigns Over Company’s Pentagon Deal](https://www.bloomberg.com/news/articles/2026-03-07/openai-s-head-of-robotics-resigns-over-company-s-pentagon-deal)**
+**[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
 
-The head of OpenAI’s robotics team resigned Saturday, citing the company’s deal to deploy its artificial intelligence models within the Pentagon’s classified network as the cause.
+A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
 
-Bloomberg • 2d ago
+Fortune • 2d ago
 
 ---
 
@@ -142,7 +140,21 @@ Bloomberg • 2d ago
 
 OpenAI hardware leader Caitlin Kalinowski has resigned after the company’s Pentagon AI deal, citing concerns over surveillance, autonomy, and governance.
 
-eWeek • 9h ago
+eWeek • 11h ago
+
+---
+
+**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Networked for War: Lessons from Ukraine’s Ground Robots](https://mwi.westpoint.edu/networked-for-war-lessons-from-ukraines-ground-robots/)**
+
+Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
+
+Modern War Institute - • 1d ago
 
 ---
 
@@ -150,13 +162,7 @@ eWeek • 9h ago
 
 Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
 
-Folsom Times • 9h ago
-
----
-
-**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
-
-Bloomberg • 1d ago
+Folsom Times • 11h ago
 
 ---
 
@@ -164,7 +170,7 @@ Bloomberg • 1d ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -172,15 +178,7 @@ Yahoo Finance • 14h ago
 
 Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
 
-GeekWire • 20h ago
-
----
-
-**[Nvidia and ABB launch partnership for AI-enabled autonomous robots](https://www.ft.com/content/c77d99a4-8d75-4f34-8a71-6b1361ebb9b9)**
-
-Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
-
-Financial Times • 22h ago
+GeekWire • 22h ago
 
 ---
 
@@ -194,7 +192,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 53K • 👍 1K • 💬 92 • ⏱️ 14:51 • 1d ago
+👁️ 55K • 👍 1K • 💬 93 • ⏱️ 14:51 • 1d ago
 
 ---
 
@@ -204,57 +202,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 717K • 👍 42K • 💬 5K • ⏱️ 16:54 • 6d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN
-
-👁️ 238K • 👍 3K • 💬 347 • ⏱️ 29:41 • 4d ago
-
----
-
-**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
-
-Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
-
-📺 AI Revolution
-
-👁️ 23K • 👍 807 • 💬 61 • ⏱️ 14:35 • 5d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN Europe
-
-👁️ 942K • 👍 1K • 💬 24 • ⏱️ 29:40 • 5d ago
-
----
-
-**[Cyn&#39;s New Motors](https://www.youtube.com/watch?v=CI0_u4z0dgU)**
-
-This is what I've been waiting for Follow my socials for more frequent updates: https://twitter.com/DeathTempler ...
-
-📺 DeathTempler
-
-👁️ 13K • 👍 2K • 💬 164 • ⏱️ 0:51 • 17h ago
-
----
-
-**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
-
-China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
-
-📺 TechFrontierNow
-
-👁️ 60K • 👍 386 • 💬 87 • ⏱️ 9:26 • 5d ago
+👁️ 726K • 👍 42K • 💬 5K • ⏱️ 16:54 • 6d ago
 
 ---
 
@@ -264,25 +212,77 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 1K • 👍 41 • 💬 4 • ⏱️ 3:48 • 16h ago
+👁️ 1K • 👍 43 • 💬 6 • ⏱️ 3:48 • 18h ago
 
 ---
 
-**[Planting German Butterball potatoes by robots Tutorial #farming #shorts](https://www.youtube.com/watch?v=NIze5_d4Oe0)**
+**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
 
-In this short video tutorial we will learn how to plant German Butterball potatoes by robots. For more videos like this please ...
+Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
 
-📺 Agriculture Marvels
+📺 AI Revolution
 
-👁️ 4.4M • 👍 6K • 💬 13 • ⏱️ 0:06 • 6d ago
+👁️ 23K • 👍 812 • 💬 61 • ⏱️ 14:35 • 5d ago
 
 ---
 
-**[Interesting robot failure moment#funnymoments #funnyrobot #robotfail #robotcore #funnyfail](https://www.youtube.com/watch?v=wzcMvKwdnMM)**
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
 
-📺 unclekev74
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
 
-👁️ 3.3M • 👍 25K • 💬 344 • ⏱️ 1:00 • 5d ago
+📺 CGTN
+
+👁️ 241K • 👍 3K • 💬 353 • ⏱️ 29:41 • 4d ago
+
+---
+
+**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
+
+China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
+
+📺 TechFrontierNow
+
+👁️ 60K • 👍 386 • 💬 88 • ⏱️ 9:26 • 5d ago
+
+---
+
+**[BINARY OPTIONS QUANT - HANDS-FREE AUTOMATED TRADING EXPERIENCE | BINARY OPTIONS TRADING ROBOT](https://www.youtube.com/watch?v=orJM6NwyQkg)**
+
+New Trading Bot: https://bit.ly/pocket-option-quant Join Team: https://bit.ly/ntrade-access Contact: ...
+
+📺 Ntrade | Pro Trade
+
+👁️ 16K • 👍 512 • 💬 15 • ⏱️ 7:08 • 1d ago
+
+---
+
+**[Prime Time CRAZY Robot Fighting! Round 2 of NHRL&#39;s 2026 Pro World Championships (March)](https://www.youtube.com/watch?v=-x5Fzq4Hig0)**
+
+The 2026 NHRL Pro World Championship Season is HERE! This is Round 2. This. Is. Prime Time! We are down to the final 8 bots ...
+
+📺 NHRL
+
+👁️ 61K • 👍 495 • 💬 52 • ⏱️ 3:23:56 • 2d ago
+
+---
+
+**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
+
+A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
+
+📺 Billionaire Shots
+
+👁️ 38K • 👍 2K • 💬 283 • ⏱️ 0:13 • 6d ago
+
+---
+
+**[China’s $16K Robot Changes the Future of Work](https://www.youtube.com/watch?v=KFzEWvTSmn4)**
+
+Everyone thought AI would replace office workers first. But the real disruption is happening in the physical world. Humanoid robots ...
+
+📺 By 2050
+
+👁️ 101K • 👍 2K • 💬 116 • ⏱️ 0:55 • 4d ago
 
 ---
 
