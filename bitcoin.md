@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T02:05:47.641135+00:00'
+updated: '2026-03-10T04:21:15.131184+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 02:05 UTC  
+**Last Updated:** March 10, 2026 at 04:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,345.00
+### $69,620.94
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
-**7d:** -4.9%  
-**30d:** -1.4%  
-**90d:** -25.3%  
-**1y:** -16.4%  
+**24h:** +2.7%  
+**7d:** -4.3%  
+**30d:** -0.7%  
+**90d:** -24.8%  
+**1y:** -15.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1386.23B
+**Market Cap:** $1393.30B
 Rank #1
 
-**Circulating Supply:** 20,000,143 BTC
+**Circulating Supply:** 20,000,162 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.0%
+-44.8%
 
 **All-Time Low:** $67.81
-+102087.0%
++102619.4%
 
 ---
 
 ## Fear & Greed Index
 
-### 8
+### 13
 **EXTREME FEAR**
 
 ---
@@ -81,23 +81,7 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-8h ago
-
----
-
-**[20 Million Bitcoin Have Been Mined as BTC Supply Crosses Historic Milestone](https://www.reddit.com/r/Bitcoin/comments/1rp0nio/20_million_bitcoin_have_been_mined_as_btc_supply/)**
-
-20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
-
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 12h ago
-
----
-
-**[20 millionth bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rp0kiv/20_millionth_bitcoin_mined/)**
-
-20 millionth bitcoin was just mined
-
-12h ago
+10h ago
 
 ---
 
@@ -105,23 +89,23 @@ This is why we BITCOIN. More of this to come?
 
 The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
 
-8h ago
+10h ago
 
 ---
 
-**[everyone buy bitcoin RIGHT NOW!](https://www.reddit.com/r/Bitcoin/comments/1rp9my8/everyone_buy_bitcoin_right_now/)**
+**[20 Million Bitcoin Have Been Mined as BTC Supply Crosses Historic Milestone](https://www.reddit.com/r/Bitcoin/comments/1rp0nio/20_million_bitcoin_have_been_mined_as_btc_supply/)**
 
-Or else I’ll start throwing things
+20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
 
-6h ago
+🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 14h ago
 
 ---
 
-**[Bitcoin Hits 20 Million Mined: Less Than 1 Million Coins Left](https://www.reddit.com/r/Bitcoin/comments/1rpc6z1/bitcoin_hits_20_million_mined_less_than_1_million/)**
+**[20 millionth bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rp0kiv/20_millionth_bitcoin_mined/)**
 
-Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
+20 millionth bitcoin was just mined
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 5h ago
+14h ago
 
 ---
 
@@ -129,7 +113,23 @@ Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 m
 
 I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
 
-1h ago
+3h ago
+
+---
+
+**[everyone buy bitcoin RIGHT NOW!](https://www.reddit.com/r/Bitcoin/comments/1rp9my8/everyone_buy_bitcoin_right_now/)**
+
+Or else I’ll start throwing things
+
+9h ago
+
+---
+
+**[Bitcoin Hits 20 Million Mined: Less Than 1 Million Coins Left](https://www.reddit.com/r/Bitcoin/comments/1rpc6z1/bitcoin_hits_20_million_mined_less_than_1_million/)**
+
+Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 7h ago
 
 ---
 
@@ -137,19 +137,19 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As of 3/8/2026, they hodl 738,731 BTC acquired for ~$56.04 billion at ~$75,862 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 12h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 14h ago
 
 ---
 
 **[On The Same Day the 20,000,000th Bitcoin is Mined - A Cypherpunk's Manifesto Turns 33](https://www.reddit.com/r/Bitcoin/comments/1rp6voh/on_the_same_day_the_20000000th_bitcoin_is_mined_a/)**
 
-🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 8h ago
+🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 10h ago
 
 ---
 
 **[Don't Forget What The Canadian Government Did DURY PEACE TIME to Your Bank Accounts - Bitcoin Protects You](https://www.reddit.com/r/Bitcoin/comments/1rp9uhe/dont_forget_what_the_canadian_government_did_dury/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -161,7 +161,7 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 The recent moves are comparatively much smaller than when Bhutan moved over $60 million in bitcoin last July over the course of four days.
 
-The Block • 8h ago
+The Block • 10h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 8h ago
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 3h ago
+The Guardian • 5h ago
 
 ---
 
@@ -177,13 +177,13 @@ The Guardian • 3h ago
 
 Reform UK leader invests £215,000 in Stack Bitcoin
 
-Financial Times • 17h ago
+Financial Times • 20h ago
 
 ---
 
 **[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
-Reuters • 15h ago
+Reuters • 17h ago
 
 ---
 
@@ -191,7 +191,13 @@ Reuters • 15h ago
 
 Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
 
-CoinDesk • 9h ago
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
+
+Bloomberg.com • 47m ago
 
 ---
 
@@ -199,7 +205,7 @@ CoinDesk • 9h ago
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-Tom's Hardware • 13h ago
+Tom's Hardware • 16h ago
 
 ---
 
@@ -207,23 +213,7 @@ Tom's Hardware • 13h ago
 
 Bitcoin finally has a real payments advantage in the world of agentic payments. We all have to pitch in to capitalize on it.
 
-Bitcoin Magazine • 5h ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-2)**
-
-Key PointsHuge price drawdowns are nothing new to the Bitcoin community, and this crypto has always recovered in the past.
-
-Nasdaq • 1d ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773099000)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 11h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -235,6 +225,14 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773099000)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 13h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -243,7 +241,7 @@ CryptoSlate • 1d ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 9h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 11h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -273,7 +271,7 @@ Complete operating system for Bitcoiners
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 11h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 13h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -303,53 +301,33 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 ## YouTube Videos: "bitcoin"
 
-**[Professional Capital Management CEO: Bitcoin is more mobile and resilient than gold](https://www.youtube.com/watch?v=_dzH-58yi0k)**
-
-Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital Management, says Bitcoin is emerging as a ...
-
-📺 CNBC Television
-
-👁️ 9K • 👍 123 • 💬 81 • ⏱️ 4:26 • 13h ago
-
----
-
-**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
-
-Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
-
-📺 Swan Bitcoin
-
-👁️ 8K • 👍 281 • 💬 137 • ⏱️ 10:35 • 7h ago
-
----
-
 **[The Biggest Oil SHOCK In History: $2 Trillion DUMPED Overnight! (Is Bitcoin Safe?)](https://www.youtube.com/watch?v=RRvglXdxjBc)**
 
 The global fiat system is flashing red as 20 million barrels of oil vanish offline, triggering the biggest oil supply shock in history and ...
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 743 • 💬 85 • ⏱️ 18:57 • 2h ago
+👁️ 9K • 👍 1K • 💬 106 • ⏱️ 18:57 • 5h ago
 
 ---
 
-**[the most important video on bitcoin i will ever make....](https://www.youtube.com/watch?v=f-4Rs3Sqlhc)**
+**[Professional Capital Management CEO: Bitcoin is more mobile and resilient than gold](https://www.youtube.com/watch?v=_dzH-58yi0k)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital Management, says Bitcoin is emerging as a ...
 
-📺 Tyler S
+📺 CNBC Television
 
-👁️ 8K • 👍 717 • 💬 289 • ⏱️ 10:02 • 6h ago
+👁️ 10K • 👍 126 • 💬 88 • ⏱️ 4:26 • 15h ago
 
 ---
 
-**[MASSIVE Bitcoin Buying Opportunity RIGHT NOW! Bitcoin RALLYING As Stocks CRASH!](https://www.youtube.com/watch?v=Kn3tTy_YOuQ)**
+**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
 
-Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you fund your account!
+GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
 
-📺 Crypto Jebb
+📺 Altcoin Daily
 
-👁️ 3K • 👍 209 • 💬 115 • ⏱️ 8:35 • 8h ago
+👁️ 23K • 👍 2K • 💬 165 • ⏱️ 9:54 • 6h ago
 
 ---
 
@@ -359,7 +337,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 77K • 👍 5K • 💬 318 • ⏱️ 11:22 • 21h ago
+👁️ 79K • 👍 5K • 💬 318 • ⏱️ 11:22 • 23h ago
 
 ---
 
@@ -373,13 +351,33 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 ---
 
+**[MASSIVE Bitcoin Buying Opportunity RIGHT NOW! Bitcoin RALLYING As Stocks CRASH!](https://www.youtube.com/watch?v=Kn3tTy_YOuQ)**
+
+Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you fund your account!
+
+📺 Crypto Jebb
+
+👁️ 4K • 👍 213 • 💬 117 • ⏱️ 8:35 • 10h ago
+
+---
+
+**[the most important video on bitcoin i will ever make....](https://www.youtube.com/watch?v=f-4Rs3Sqlhc)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 10K • 👍 778 • 💬 291 • ⏱️ 10:02 • 8h ago
+
+---
+
 **[War Fears Rising…Bitcoin Won’t Break](https://www.youtube.com/watch?v=GQ5cs7FwBSU)**
 
 Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 299 • ⏱️ 35:05 • 11h ago
+👁️ 18K • 👍 1K • 💬 289 • ⏱️ 35:05 • 14h ago
 
 ---
 
@@ -389,17 +387,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 3K • 💬 329 • ⏱️ 10:01 • 1d ago
+👁️ 37K • 👍 3K • 💬 330 • ⏱️ 10:01 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
+**[Massive Bitcoin Long (Trump Insiders)](https://www.youtube.com/watch?v=K_op7nsuRV4)**
 
-GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
+We are witnessing a massive shift in global markets as geopolitical tensions in the Middle East reach a breaking point. With the ...
 
-📺 Altcoin Daily
+📺 Discover Crypto
 
-👁️ 15K • 👍 1K • 💬 134 • ⏱️ 9:54 • 4h ago
+👁️ 8K • 👍 420 • 💬 148 • ⏱️ 1:32:10 • 12h ago
 
 ---
 

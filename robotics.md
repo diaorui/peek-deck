@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T02:05:47.649637+00:00'
+updated: '2026-03-10T04:21:15.140556+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 02:05 UTC  
+**Last Updated:** March 10, 2026 at 04:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-15h ago
+17h ago
+
+---
+
+**[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
+
+11h ago
 
 ---
 
@@ -44,39 +50,19 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
 
-22h ago
-
----
-
-**[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
-
-9h ago
+1d ago
 
 ---
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-7h ago
+10h ago
 
 ---
 
 **[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-5h ago
-
----
-
-**[First time building a hobbyist robot from scratch, it has 4-legged 12-DOF, I call it Cubic Doggo!](https://www.reddit.com/r/robotics/comments/1rouerc/first_time_building_a_hobbyist_robot_from_scratch/)**
-
-(Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
-
-17h ago
-
----
-
-**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
-
-9h ago
+7h ago
 
 ---
 
@@ -84,7 +70,21 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-9h ago
+12h ago
+
+---
+
+**[First time building a hobbyist robot from scratch, it has 4-legged 12-DOF, I call it Cubic Doggo!](https://www.reddit.com/r/robotics/comments/1rouerc/first_time_building_a_hobbyist_robot_from_scratch/)**
+
+(Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
+
+20h ago
+
+---
+
+**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
+
+11h ago
 
 ---
 
@@ -100,7 +100,7 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 17h ago
 
 ---
 
@@ -112,13 +112,13 @@ USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 10h ago
+TechCrunch • 12h ago
 
 ---
 
 **[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
 
-ABB • 9h ago
+ABB • 11h ago
 
 ---
 
@@ -146,7 +146,7 @@ The San Francisco Standard • 2d ago
 
 **[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -154,31 +154,31 @@ Bloomberg.com • 21h ago
 
 Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
 
-GeekWire • 11h ago
+GeekWire • 13h ago
 
 ---
 
-**[Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More](https://www.hackster.io/news/arduino-celebrates-turning-21-with-the-ventuno-q-a-high-performance-sbc-for-robotics-and-more-f5c2597482ea)**
+**[Qualcomm's new Arduino Ventuno Q is an AI-focused computer designed for robotics](https://www.engadget.com/ai/qualcomms-new-arduino-ventuno-q-is-an-ai-focused-computer-designed-for-robotics-113047697.html)**
 
-Company lifts the lid on its big secret, which will be showcased during Embedded World in Nuremberg this week.
+Qualcomm, which purchased microcontroller board manufacturer Arduino last year, just announced a new computer that marries AI with robotics.
 
-Hackster.io • 13h ago
-
----
-
-**[These robots are born to run — and never die](https://news.northwestern.edu/stories/2026/03/evolved-robots-are-born-to-run-and-refuse-to-die)**
-
-AI-designed metamachines run in the wild, recover from damage and transform into new shapes
-
-Northwestern Now News • 3d ago
+Engadget • 16h ago
 
 ---
 
-**[NASA Valkyrie humanoid robot built for Mars research returns to US after 10 years](https://interestingengineering.com/ai-robotics/nasa-valkyrie-humanoid-robot-returns-to-us)**
+**[Nvidia and ABB launch partnership for AI-enabled autonomous robots](https://www.ft.com/content/c77d99a4-8d75-4f34-8a71-6b1361ebb9b9)**
 
-NASA's Valkyrie humanoid robot returns to Johnson Space Center after a decade at the University of Edinburgh supporting Mars robotics research.
+Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
 
-Interesting Engineering • 9h ago
+Financial Times • 14h ago
+
+---
+
+**[Underwater robotic fin uses a soft touch for a huge boost in stability](https://newatlas.com/robotics/soft-robotic-underwater-fin-stability/)**
+
+If someone asked you to move like a robot and you responded with the fluid art of ballet, your audience would be baffled, yet technically, you would be right. Robots are famous for their characteristic rigid movement, which is useful in some applications but can hinder adaptability. Now,…
+
+New Atlas • 8h ago
 
 ---
 
@@ -186,33 +186,23 @@ Interesting Engineering • 9h ago
 
 ## YouTube Videos: "robotics"
 
-**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
-
-OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 1K • 💬 87 • ⏱️ 14:51 • 1d ago
-
----
-
 **[Unrestricted AI in a robot does exactly what experts warned](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
 
 AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your $5 sign-up bonus at ...
 
 📺 InsideAI
 
-👁️ 699K • 👍 41K • 💬 5K • ⏱️ 16:54 • 6d ago
+👁️ 705K • 👍 42K • 💬 5K • ⏱️ 16:54 • 6d ago
 
 ---
 
-**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
+**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
 
-In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
+OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
 
-📺 Tech Talkies
+📺 AI Revolution
 
-👁️ 14K • 👍 546 • 💬 42 • ⏱️ 4:51 • 2d ago
+👁️ 51K • 👍 1K • 💬 90 • ⏱️ 14:51 • 1d ago
 
 ---
 
@@ -222,47 +212,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 23K • 👍 803 • 💬 61 • ⏱️ 14:35 • 5d ago
-
----
-
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
-
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
-
-📺 DPCcars
-
-👁️ 561 • 👍 29 • 💬 2 • ⏱️ 3:48 • 7h ago
-
----
-
-**[E23: NVIDIA&#39;s HUGE Robotics Announcements Will Change Everything](https://www.youtube.com/watch?v=wAlmgDudmkk)**
-
-Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (do this first!): https://tsy.link/gtc2026 » Jensen ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 28K • 👍 1K • 💬 109 • ⏱️ 29:53 • 1d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN
-
-👁️ 230K • 👍 3K • 💬 337 • ⏱️ 29:41 • 4d ago
-
----
-
-**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
-
-China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
-
-📺 TechFrontierNow
-
-👁️ 59K • 👍 383 • 💬 84 • ⏱️ 9:26 • 5d ago
+👁️ 23K • 👍 804 • 💬 61 • ⏱️ 14:35 • 5d ago
 
 ---
 
@@ -272,17 +222,65 @@ A senior executive at OpenAI has resigned over the company's decision to make it
 
 📺 NPR
 
-👁️ 4K • 👍 673 • 💬 12 • ⏱️ 1:06 • 9h ago
+👁️ 6K • 👍 911 • 💬 22 • ⏱️ 1:06 • 11h ago
 
 ---
 
-**[Two Sided Intake Differential | 12560 Soft Hoarders | FTC Snapshot](https://www.youtube.com/watch?v=xOg39dqqjjk)**
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
 
-12560 Soft Hoarders, an Innovate Award winner, showcases a clever engineering solution using one motor to power a two sided ...
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
 
-📺 FUN Robotics Network
+📺 CGTN
 
-👁️ 2K • 👍 78 • 💬 1 • ⏱️ 1:13 • 9h ago
+👁️ 233K • 👍 3K • 💬 341 • ⏱️ 29:41 • 4d ago
+
+---
+
+**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
+
+China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
+
+📺 TechFrontierNow
+
+👁️ 60K • 👍 383 • 💬 84 • ⏱️ 9:26 • 5d ago
+
+---
+
+**[BINARY OPTIONS QUANT - HANDS-FREE AUTOMATED TRADING EXPERIENCE | BINARY OPTIONS TRADING ROBOT](https://www.youtube.com/watch?v=orJM6NwyQkg)**
+
+New Trading Bot: https://bit.ly/pocket-option-quant Join Team: https://bit.ly/ntrade-access Contact: ...
+
+📺 Ntrade | Pro Trade
+
+👁️ 16K • 👍 510 • 💬 14 • ⏱️ 7:08 • 16h ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=z23S3kKcl64)**
+
+📺 Robot Julie 
+
+👁️ 942 • 👍 2 • ⏱️ 0:22 • 3h ago
+
+---
+
+**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
+
+A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
+
+📺 Billionaire Shots
+
+👁️ 38K • 👍 2K • 💬 283 • ⏱️ 0:13 • 6d ago
+
+---
+
+**[Non-Stop INSANE Robot Fighting Action: Round 2 of NHRL&#39;s 2026 Pro World Championship KO Show (March)](https://www.youtube.com/watch?v=7tQ5Gyr3SYE)**
+
+Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is here: https://youtube.com/live/-x5Fzq4Hig0 ...
+
+📺 NHRL
+
+👁️ 79K • 👍 379 • 💬 18 • ⏱️ 3:35:12 • 2d ago
 
 ---
 
