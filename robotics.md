@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T13:03:46.053208+00:00'
+updated: '2026-03-10T14:12:41.043934+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 13:03 UTC  
+**Last Updated:** March 10, 2026 at 14:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,29 +32,29 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
-
-16h ago
-
----
-
 **[Beware of DFR robot & US warehouse scam](https://www.reddit.com/r/robotics/comments/1rprmo5/beware_of_dfr_robot_us_warehouse_scam/)**
 
 I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
 
-4h ago
+5h ago
+
+---
+
+**[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
+
+17h ago
 
 ---
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -78,19 +78,19 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-4h ago
+6h ago
 
 ---
 
-**[Drone simulation with guitar tabs control](https://www.reddit.com/r/robotics/comments/1rpo5lu/drone_simulation_with_guitar_tabs_control/)**
+**[Stuck between 2 careers](https://www.reddit.com/r/robotics/comments/1rpwy5v/stuck_between_2_careers/)**
 
-7h ago
+43m ago
 
 ---
 
 **[Sitting on 50x Harmonic Drive HPG-11B-45 gearboxes after a SCARA project — 4th axis rotary table seems like the obvious next move?](https://www.reddit.com/r/robotics/comments/1rpvr6q/sitting_on_50x_harmonic_drive_hpg11b45_gearboxes/)**
 
-26m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi there, I've created a video here where I explain how convolutional neural net
 
 Mehul Nariyawala, co-founder of Matic Robotics, talked about expectations for robots in the home. He described a difference between AI systems and physical robots. AI tools are often used collaboratively, where partial output is acceptable and users complete the remaining work. For household robots, the expectation is different. Tasks such as cleaning are typically expected to be fully delegated to the robot rather than partially completed.
 
-1h ago
+2h ago
 
 ---
 
@@ -110,13 +110,19 @@ Mehul Nariyawala, co-founder of Matic Robotics, talked about expectations for ro
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
 **[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
 
-ABB • 20h ago
+ABB • 21h ago
+
+---
+
+**[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
+
+Bloomberg.com • 12m ago
 
 ---
 
@@ -140,13 +146,23 @@ Fortune • 2d ago
 
 OpenAI hardware leader Caitlin Kalinowski has resigned after the company’s Pentagon AI deal, citing concerns over surveillance, autonomy, and governance.
 
-eWeek • 11h ago
+eWeek • 12h ago
 
 ---
 
-**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
+**[AI-powered | WellSpan York Hospital unveils full-service robotic kitchen](https://www.wgal.com/article/wellspan-health-launches-ai-powered-robotic-dining-system/70685843)**
 
-Bloomberg.com • 1d ago
+The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
+
+WGAL • 54m ago
+
+---
+
+**[Folsom Robotics Team Earns Think Award, Advances To World Championship](https://folsomtimes.com/folsom-robotics-team-earns-think-award-advances-to-world-championship/)**
+
+Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
+
+Folsom Times • 12h ago
 
 ---
 
@@ -158,27 +174,11 @@ Modern War Institute - • 1d ago
 
 ---
 
-**[Folsom Robotics Team Earns Think Award, Advances To World Championship](https://folsomtimes.com/folsom-robotics-team-earns-think-award-advances-to-world-championship/)**
-
-Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
-
-Folsom Times • 11h ago
-
----
-
 **[Tech stocks today: Anthropic sues Defense Department over ban, OpenAI's robotics leader resigns](https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-sues-defense-department-over-ban-openais-robotics-leader-resigns-152722809.html)**
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 16h ago
-
----
-
-**[A whole new ballgame for trading cards: Startup uses robots and AI to sort and analyze collections](https://www.geekwire.com/2026/high-tech-player-in-collectibles-startup-uses-robotics-and-ai-to-sort-analyze-and-sell-trading-cards/)**
-
-Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
-
-GeekWire • 22h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -212,7 +212,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 1K • 👍 43 • 💬 6 • ⏱️ 3:48 • 18h ago
+👁️ 1K • 👍 43 • 💬 6 • ⏱️ 3:48 • 19h ago
 
 ---
 

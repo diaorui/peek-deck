@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-10T13:03:46.049960+00:00'
+updated: '2026-03-10T14:12:41.040644+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 13:03 UTC  
+**Last Updated:** March 10, 2026 at 14:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,054.18
+### $2,033.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** -3.6%  
-**30d:** -2.5%  
-**90d:** -36.6%  
-**1y:** +6.3%  
+**24h:** -0.4%  
+**7d:** -5.2%  
+**30d:** -4.2%  
+**90d:** -37.7%  
+**1y:** +4.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine Immersion Technologies (BMNR) is expanding beyond its origins as a Bitcoin miner to consolidate as the world's largest corporate holder of Ether (ETH). : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 1h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 2h ago
 
 ---
 
@@ -90,7 +90,15 @@ Summary
 ⚠️ Lighthouse v8.1.2 is a high-priority patch release with further security-critical fixes atop v8.1.1.
 This is a mandatory upgrade for all users running any prior version. All prior Lighth...
 
-🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 12h ago
+🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 14h ago
+
+---
+
+**[avsa (Ethereum Foundation UX lead) deployed the Unicorn Token in 2016 — one of the first ERC-20s ever](https://www.reddit.com/r/ethereum/comments/1rpxs2k/avsa_ethereum_foundation_ux_lead_deployed_the/)**
+
+Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, deployed a contract in April 2016 that let you "grind unicorns into meat" on-chain. The experiment became the Unicorn Meat token (w🍖) — deployed when ERC-20 was barely a draft standard, when the entire Ethereum dev community could fit in one room. Why it matters historically: - Deployed April 2016, pre-TheDAO hack - One of the earliest ERC-20 compliant tokens - Created by a core Ethereum Foundation member for fun, not profit - The contract is still live and the token still trades Original contract: https://etherscan.io/address/0xd234bf2410a0009df9c3c63b610c09738f18ccd7 The community archive: https://unicornmeat.wtf These early experiments are Ethereum heritage. Worth preserving.
+
+9m ago
 
 ---
 
@@ -98,7 +106,7 @@ This is a mandatory upgrade for all users running any prior version. All prior L
 
 Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec...3d6b, deployed in August 2015, just weeks after mainnet launch. The entire contract is one function: set(string). It stores a single string in public storage. That is it. What is interesting is the bytecode. It was compiled with solc v0.1.1, the earliest Solidity compiler that exists. I was able to reproduce the exact bytecode byte-for-byte using that compiler. The output matches the on-chain code perfectly. Contracts from this era are fascinating because Solidity was still being invented. No events, no modifiers, no constructors as we know them. Just raw storage writes. The compiler output is so small you can read the opcodes manually. The deployer (0x8674...94e2) deployed 18 contracts in the same week, all in the 52,000-55,000 block range. Looks like someone was experimenting heavily with what Solidity could do. If anyone is interested in early Ethereum archaeology, ethereumhistory.com is documenting contracts from this period with verified source code and compiler proofs. Edit: here is the contract page on Ethereum History.
 
-22h ago
+23h ago
 
 ---
 
@@ -122,7 +130,7 @@ In September 2015, six weeks after mainnet launch, someone deployed three contra
 
 MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
 
-🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 22h ago
+🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 1d ago
 
 ---
 
@@ -142,14 +150,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[StarkWare just killed their entire user base](https://www.reddit.com/r/ethereum/comments/1rnyelp/starkware_just_killed_their_entire_user_base/)**
-
-"a practical compliance framework that enables an auditing entity to selectively unshield transactions upon legitimate regulatory request" So, the entire point of using the chain is null and void. What's the use of hiding transactions when an arbitrary entity can just... unhide them? "For compliance, each user registers an encrypted copy of their viewing key on-chain. Upon legitimate regulatory request, a designated auditing entity can decrypt this key to trace a specific user’s transaction history, without affecting the privacy of uninvolved users." So it is effectively mandatory. Wonderful. Who did they think we were hiding transactions from, our ex? The paper: https://eprint.iacr.org/2026/474
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,43 +158,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The price of Ethereum is up 4% over the last day, rebounding after a weekend slump under $2,000 as BitMine reveals its latest ETH buy.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
-**[Current price of Ethereum for March 10, 2026](https://fortune.com/article/price-of-ethereum-03-10-2026/)**
+**[Ethereum Vs. Canton: Two Different Paths To Institutional Blockchain](https://www.forbes.com/sites/jonegilsson/2026/03/10/ethereum-vs-canton-two-different-paths-to-institutional-blockchain/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 17m ago
-
----
-
-**[Ethereum Price Defends $2,000 Support as RSI Hits Near-Oversold Levels](https://finance.yahoo.com/news/ethereum-price-defends-2-000-071818617.html)**
-
-The Ethereum price is fighting to hold the $2,000 line as sellers test the market’s resolve. The asset is trading at $2,050 with a weekly Relative Strength Index (RSI) of 33, signaling a crucial decision point.$2,000 represents a longstanding psychological level that bulls have defended since the February lows. The ...
-
-Yahoo Finance • 5h ago
-
----
-
-**[Ethereum (ETH) Below $2,000 Looks Increasingly Likely as Oil Prices Surge and Crypto Confidence Declines](https://www.ccn.com/analysis/crypto/ethereum-eth-below-2000-looks-increasingly-likely/)**
-
-CCN.com • 13h ago
-
----
-
-**[Here's What Would Need to Happen For Ethereum to Flip Bitcoin by 2030](https://www.fool.com/investing/2026/03/10/heres-what-would-need-to-happen-for-ethereum-to-fl/)**
-
-What once seemed inevitable now seems like a long shot.
-
-The Motley Fool • 2h ago
-
----
-
-**[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
-
-Binance • 2d ago
+Forbes • 27m ago
 
 ---
 
@@ -206,11 +176,41 @@ PR Newswire • 1d ago
 
 ---
 
-**[Sharplink Posts $734 Million Loss as Ethereum Staking Revenue Soars](https://finance.yahoo.com/news/sharplink-posts-734-million-loss-185152070.html)**
+**[Tom Lee Claims 'Mini Crypto Winter Almost Over' as Bitmine Buys $120M Ethereum Amid Rising Price](https://finance.yahoo.com/news/tom-lee-claims-mini-crypto-132218612.html)**
 
-The Ethereum-buying firm attributed its full-year performance to the asset’s volatility.
+Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 50m ago
+
+---
+
+**[Bitmine lifts Ethereum treasury to 4.53 million ETH after adding 60,976 tokens in a week amid ‘mini-crypto winter’](https://www.theblock.co/post/392831/bitmine-lifts-ethereum-treasury-to-4-53-million-eth-after-adding-60976-tokens-in-a-week-amid-mini-crypto-winter)**
+
+Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
+
+The Block • 1d ago
+
+---
+
+**[Current price of Ethereum for March 10, 2026](https://fortune.com/article/price-of-ethereum-03-10-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
+
+---
+
+**[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
+
+Binance • 2d ago
+
+---
+
+**[Where Will Ethereum Be in 2030?](https://www.fool.com/investing/2026/03/08/where-will-ethereum-be-in-2030/)**
+
+As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -224,7 +224,7 @@ Seeking Alpha • 1d ago
 
 Bitcoin, Ethereum, and XRP are all trading in the green this week. On the surface, the crypto market looks calm. But under that calm, traders are waiting for one of the biggest macro events of the month: the U.S. CPI (inflation) report.Economists expect inflation to edge up to about 2.5%, slightly…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 192 • ⏱️ 9:54 • 15h ago
+👁️ 41K • 👍 2K • 💬 192 • ⏱️ 9:54 • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 5K • 👍 270 • 💬 37 • ⏱️ 18:25 • 13h ago
+👁️ 5K • 👍 270 • 💬 37 • ⏱️ 18:25 • 14h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 98 • 👍 6 • ⏱️ 5:18 • 3h ago
+👁️ 98 • 👍 6 • ⏱️ 5:18 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 252 • 💬 300 • ⏱️ 14:42 • 15h ago
+👁️ 7K • 👍 252 • 💬 300 • ⏱️ 14:42 • 16h ago
 
 ---
 
@@ -308,7 +308,7 @@ Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on 
 
 📺 Trading Secrets With Two Side Traders
 
-👁️ 178 • 👍 40 • 💬 5 • ⏱️ 13:36 • 1h ago
+👁️ 178 • 👍 40 • 💬 5 • ⏱️ 13:36 • 2h ago
 
 ---
 
@@ -328,7 +328,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 2K • 2h ago
+👁️ 5K • 👍 2K • 3h ago
 
 ---
 
