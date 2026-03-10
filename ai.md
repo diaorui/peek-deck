@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-10T22:57:07.044389+00:00'
+updated: '2026-03-10T23:32:28.684774+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- social
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 10, 2026 at 22:57 UTC  
+**Last Updated:** March 10, 2026 at 23:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic is suing the Trump administration, asking federal courts to reverse the Pentagon’s decision designating the artificial intelligence company a “ supply chain risk ” over its refusal to allow unrestricted military use of its technology.
 
-🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 1h ago
+🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 3h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 In the early days of the internet we were in a similar situation. Modems, early Linux systems, the first websites. Technically primitive by today’s standards, but something important had appeared: information could suddenly move freely across a network. That was a novum by this time and not many understood it yet. At the time the real question was not about the technology itself. The question was much simpler. What can we actually build with this network?? Today we seem to be entering a similar phase again. Large language models and related systems allow machines to interact with knowledge: documents, code, conversations, procedures. The tools are still very rough. Many experiments will disappear. Much of what we see today will not survive. But that is exactly what makes this moment interesting. The real challenge ahead is not the models themselves. It is the integration of knowledge and machines into real systems and organisations. In that sense, this feels less like a finished technology wave and more like the early internet again. A lot of experimentation. A lot of curiosity. And many things we have not imagined yet. And a lot of fun 😄
 
-5h ago
+6h ago
 
 ---
 
@@ -71,7 +71,7 @@ Today we're introducing Code Review, which dispatches a team of agents on every 
 
 **[HamsterPurgatory.com is an AI/LLM powered TV show that you can interact with by sending prompts for free via the Kick stream chat!](https://www.reddit.com/r/artificial/comments/1rq7pv1/hamsterpurgatorycom_is_an_aillm_powered_tv_show/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds
 
 VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?
 
-🔗 [WIRED](https://www.wired.com/story/ai-kill-venture-capital/) • 16h ago
+🔗 [WIRED](https://www.wired.com/story/ai-kill-venture-capital/) • 17h ago
 
 ---
 
@@ -95,7 +95,7 @@ VCs are betting that artificial intelligence will disrupt nearly every industry 
 
 For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Hybrid retrieval (semantic + full-text) with cited answers Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Slide creation support Multilingual podcast support Video creation agent Desktop & Mobile app GitHub: https://github.com/MODSetter/SurfSense
 
-18h ago
+19h ago
 
 ---
 
@@ -103,7 +103,7 @@ For those of you who aren't familiar with SurfSense, SurfSense is an open-source
 
 I understand the reasons why the AI industry is a bubble and agree that it will surely pop. But so many people treat AI as if, after the pop, we won't have to deal with it anymore. On the consumer scale, it's now integrated into every platform. On the global scale, it's now a major part of "defense" strategies. The dot-com bubble didn't mean the death of the Internet. The housing bubble didn't mean mortgages went away. And we still grow tulips. What does the bubble popping mean for the tech itself?
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ I understand the reasons why the AI industry is a bubble and agree that it will 
 
 The OpenAI Pentagon story keeps getting more interesting. Caitlin Kalinowski (robotics lead) resigned this weekend, and the important part isn't the resignation itself. It's her framing. She wasn't anti-military AI. She said the announcement was rushed before the governance framework was ready. Her concern was specifically about surveillance without judicial oversight and autonomous weapons without human authorization, and that those conversations didn't get enough time before the deal went public. Then 500+ employees from Google and OpenAI signed that "We Will Not Be Divided" open letter. Meanwhile, Anthropic held firm on their refusal, prompting the DoD to officially blacklist them as a supply-chain risk, while OpenAI immediately took the contract. What strikes me about this whole situation is the pattern. Every time AI capability jumps ahead of the governance framework, the industry treats governance as something you figure out later. And the higher the stakes, the worse that approach fails. The technical side of this is interesting too. Deploying AI in classified environments means you're dealing with data that can't leak, outputs that need to be auditable, and systems where a wrong answer isn't just embarrassing, it's potentially dangerous. That's a fundamentally different engineering challenge than building a chatbot. Is there a realistic path to deploying AI in defense with proper governance? Or is the "ship first, govern later" approach inevitable when contract dollars are on the line?
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ The OpenAI Pentagon story keeps getting more interesting. Caitlin Kalinowski (ro
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-WIRED • 17h ago
+WIRED • 18h ago
 
 ---
 
@@ -131,7 +131,7 @@ WIRED • 17h ago
 
 As AI has upended the way students learn, academics worry about the future of the humanities - and society at large
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 4h ago
 
 Fox News poll reveals 53% of voters believe artificial intelligence will dramatically change American life, up from 43% in 2023 amid trust concerns.
 
-Fox News • 57m ago
+Fox News • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ CBS News • 1h ago
 
 **[AI raises privacy fears](https://thehill.com/newsletters/technology/5777844-ai-raises-privacy-fears/)**
 
-The Hill • 23m ago
+The Hill • 59m ago
 
 ---
 
@@ -167,7 +167,7 @@ Axios • 8h ago
 
 Meta says that Moltbook's approach to "connecting agents through an always-on-directory" is novel.
 
-TechCrunch • 8h ago
+TechCrunch • 9h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNN • 4h ago
 
 Chatbots can teach us about human nature.
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 13h ago
 
 Upcoming AI development could bring outsize returns for these stocks.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -219,13 +219,13 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 292 • 💬 311 • 9h ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 292 • 💬 311 • 10h ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
 **[Amazon is holding a mandatory meeting about AI breaking its systems](https://news.ycombinator.com/item?id=47324211)**
 
-⬆️ 283 • 💬 10 • 7h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
+⬆️ 283 • 💬 10 • 8h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
 
 ---
 
@@ -257,7 +257,7 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.
 
-⬆️ 163 • 💬 152 • 20h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+⬆️ 163 • 💬 152 • 21h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 
 ---
 
@@ -265,7 +265,7 @@ A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly 
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 161 • 💬 74 • 5h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+⬆️ 161 • 💬 74 • 6h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
@@ -273,7 +273,7 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-AI assisted changes’
 
-⬆️ 108 • 💬 86 • 17h ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
+⬆️ 108 • 💬 86 • 18h ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
 
 ---
 
@@ -287,7 +287,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 45K • 👍 3K • 💬 505 • ⏱️ 7:09 • 6h ago
+👁️ 45K • 👍 3K • 💬 505 • ⏱️ 7:09 • 7h ago
 
 ---
 
@@ -297,7 +297,7 @@ Try Higgsfield's Soul Cinema to generate cinematic videos ...
 
 📺 Malva AI
 
-👁️ 6K • 👍 316 • 💬 77 • ⏱️ 8:12 • 10h ago
+👁️ 6K • 👍 316 • 💬 77 • ⏱️ 8:12 • 11h ago
 
 ---
 
@@ -307,7 +307,7 @@ Abundance Institute Head of AI Policy Neil Chilson discusses Anthropic's lawsuit
 
 📺 Fox Business Clips
 
-👁️ 48K • 👍 1K • 💬 506 • ⏱️ 9:14 • 9h ago
+👁️ 48K • 👍 1K • 💬 506 • ⏱️ 9:14 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ LiveNOW's Christina's Evans discusses the role of artificial intelligence in the
 
 📺 LiveNOW from FOX
 
-👁️ 2K • 👍 77 • 💬 18 • ⏱️ 10:38 • 1h ago
+👁️ 2K • 👍 77 • 💬 18 • ⏱️ 10:38 • 2h ago
 
 ---
 
@@ -347,7 +347,7 @@ Donate: https://stub.africa/@accolonn Artificial Intelligence is changing the in
 
 📺 StephanZA
 
-👁️ 5K • 👍 448 • 💬 50 • ⏱️ 19:24 • 13h ago
+👁️ 5K • 👍 448 • 💬 50 • ⏱️ 19:24 • 14h ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 22,984 • ❤️ 365 • 2d ago
+⬇️ 22,984 • ❤️ 365 • 3d ago
 
 ---
 
@@ -650,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.8k • 🔱 3.3k • 56m ago
+⭐ 25.8k • 🔱 3.3k • 1h ago
 
 ---
 
@@ -660,7 +660,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 22.4k • 🔱 2.9k • 23h ago
+⭐ 22.4k • 🔱 2.9k • 1d ago
 
 ---
 
@@ -670,7 +670,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 18.1k • 🔱 761 • 47m ago
+⭐ 18.1k • 🔱 761 • 1h ago
 
 ---
 
@@ -720,7 +720,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.1k • 🔱 721 • 8m ago
+⭐ 6.1k • 🔱 721 • 43m ago
 
 ---
 
@@ -740,7 +740,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.7k • 🔱 261 • 8h ago
+⭐ 3.7k • 🔱 261 • 9h ago
 
 ---
 

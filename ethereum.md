@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-10T22:57:07.058930+00:00'
+updated: '2026-03-10T23:32:28.699474+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 22:57 UTC  
+**Last Updated:** March 10, 2026 at 23:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
 
-2h ago
+3h ago
 
 ---
 
 **[Starknet proposes STRK20 — private ERC-20 tokens on Ethereum L2](https://www.reddit.com/r/ethereum/comments/1rq2jwl/starknet_proposes_strk20_private_erc20_tokens_on/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Summary
 ⚠️ Lighthouse v8.1.2 is a high-priority patch release with further security-critical fixes atop v8.1.1.
 This is a mandatory upgrade for all users running any prior version. All prior Lighth...
 
-🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 22h ago
+🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Meanwhile, more than half of XRP’s total supply is sitting at a loss....
 
-Sherwood News • 6h ago
+Sherwood News • 7h ago
 
 ---
 
@@ -172,13 +172,13 @@ Decrypt • 1d ago
 
 Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that its platform interface is now complete, and the presale crossed $7.88 milli...
 
-markets.businessinsider.com • 20m ago
+markets.businessinsider.com • 55m ago
 
 ---
 
 **[Bitcoin & Ethereum Price Outlook: What to Expect in the Next 48 Hours](https://www.binance.com/en/square/post/300147426812626)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 22h ago
 
 **[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfDYbqa1pDKEvIPTftHcKysQBH2vlSoD_5qRXxnfVtoIq_RCiUdheQa&gaa_ts=69b0a531&gaa_sig=pKS97TUxpznuZE-x3B_clGFVs_4ZdkfEFcMCb7p_qPwednCatgylMmHymgUzNiUAnRrdFeUqivkLvAfh6IEfYQ%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -208,7 +208,7 @@ Barron's • 2h ago
 
 In a post on X, the Ethereum co-founder said that the EF is testing a new method for running validators that could make staking infrastructure significantly easier for institutions holding large amounts of ether.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -224,7 +224,7 @@ PR Newswire • 1d ago
 
 Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -238,7 +238,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 35K • 👍 2K • 💬 203 • ⏱️ 21:43 • 8h ago
+👁️ 35K • 👍 2K • 💬 203 • ⏱️ 21:43 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 285 • 💬 41 • ⏱️ 13:04 • 7h ago
+👁️ 4K • 👍 285 • 💬 41 • ⏱️ 13:04 • 8h ago
 
 ---
 
@@ -298,7 +298,7 @@ In diesem Video nehmen wir Ethereum in einem ausführlichen technischen Deep Div
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 6K • 👍 744 • 💬 26 • ⏱️ 19:12 • 5h ago
+👁️ 6K • 👍 744 • 💬 26 • ⏱️ 19:12 • 6h ago
 
 ---
 
@@ -328,7 +328,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 781 • 👍 70 • 💬 7 • ⏱️ 22:18 • 9h ago
+👁️ 781 • 👍 70 • 💬 7 • ⏱️ 22:18 • 10h ago
 
 ---
 

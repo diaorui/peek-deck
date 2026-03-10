@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T22:57:07.062162+00:00'
+updated: '2026-03-10T23:32:28.702670+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 22:57 UTC  
+**Last Updated:** March 10, 2026 at 23:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
 
-6h ago
+7h ago
 
 ---
 
@@ -64,7 +64,7 @@ I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. 
 
 **[Figure's Helix 2 - Full Body Autonomy Video](https://www.reddit.com/r/robotics/comments/1rq45b6/figures_helix_2_full_body_autonomy_video/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -92,7 +92,7 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-14h ago
+15h ago
 
 ---
 
@@ -110,7 +110,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg • 8h ago
+Bloomberg • 9h ago
 
 ---
 
@@ -118,7 +118,7 @@ Bloomberg • 8h ago
 
 This robo-chef can take over your meal prep.
 
-The Verge • 1h ago
+The Verge • 2h ago
 
 ---
 
@@ -126,7 +126,7 @@ The Verge • 1h ago
 
 In this panel, experts will cut through the hype to examine what humanoids can realistically accomplish in factories and warehouses today.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -166,7 +166,7 @@ NVIDIA Blog • 1d ago
 
 The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
 
-WGAL • 9h ago
+WGAL • 10h ago
 
 ---
 

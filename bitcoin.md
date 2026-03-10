@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T22:57:07.052857+00:00'
+updated: '2026-03-10T23:32:28.693396+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 22:57 UTC  
+**Last Updated:** March 10, 2026 at 23:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 3h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 4h ago
 
 ---
 
@@ -93,13 +93,13 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
 
-14h ago
+15h ago
 
 ---
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -107,7 +107,7 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ This is why we BITCOIN. More of this to come?
 
 The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 9h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 10h ago
 
 ---
 
@@ -139,7 +139,7 @@ Need advice from Bitcoin community about a 2012 wallet recovery. My client has a
 
 The world is waiting for a financial revolution, but it already happened in silence. As of early 2026, over 95% of all Bitcoin that will ever exist has already been mined. We have officially transitioned from an era of monetary expansion to an era of fierce, global competition for a closed system. While retail investors are distracted by daily price volatility, Wall Street ETFs, corporate treasuries, and nation-states are quietly vacuuming up the remaining liquid supply. The collision between infinite fiat expansion and a hard cap of 21,000,000 coins is here. Dive into to understand the mathematics of absolute scarcity, the illusion of liquidity, and what happens next when the global financial system runs out of physical supply.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/the-95-collision) • 4h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/the-95-collision) • 5h ago
 
 ---
 
@@ -147,7 +147,7 @@ The world is waiting for a financial revolution, but it already happened in sile
 
 We announced the launch of the world’s first Bitcoin Art Magazine a couple days ago here in r/Bitcoin w a video of the cover and commenters requested photos of the interior! We have added some full spread photos to our website at https://bitcoinartmagazine.com and you can see more candid photo and video in our testimonials thread pinned on the official account at https://x.com/bitcoinartmag We love Bitcoin and we love art, let’s paint the world orange 🧡
 
-3h ago
+4h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 1d ago
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bitcoin Magazine • 1h ago
 
 Last Wednesday’s 8% surge to $74,000 reminded investors that Bitcoin’s gains arrive in sudden, unforeseeable bursts that punish anyone trying to time them.  Bitcoin surged last Wednesday to its highest level in nearly a month, with Ether following sharply higher.  For beaten-up bulls who held through months of losses, the volatility over the past week was the argument made in real time.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -275,7 +275,7 @@ Complete operating system for Bitcoiners
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 9h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 10h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -297,7 +297,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 16h ago
+⬆️ 1 • 💬 0 • 17h ago
 
 ---
 
@@ -319,7 +319,7 @@ The crowd is completely lost in their emotions, but the charts are crystal clear
 
 📺 Gareth Soloway
 
-👁️ 31K • 👍 2K • 💬 283 • ⏱️ 10:35 • 5h ago
+👁️ 31K • 👍 2K • 💬 283 • ⏱️ 10:35 • 6h ago
 
 ---
 
@@ -339,7 +339,7 @@ Global tensions are rising, private credit is cracking, and the dollar system ju
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 472 • 💬 91 • ⏱️ 10:41 • 1h ago
+👁️ 3K • 👍 472 • 💬 91 • ⏱️ 10:41 • 2h ago
 
 ---
 
@@ -389,7 +389,7 @@ In this video, we take a step back and look at the structure of a Bitcoin bear m
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 2K • 💬 116 • ⏱️ 13:00 • 2h ago
+👁️ 14K • 👍 2K • 💬 116 • ⏱️ 13:00 • 3h ago
 
 ---
 
@@ -409,7 +409,7 @@ Jeff Park is the Partner & Chief Investment Officer at ProCap BTC. In this conve
 
 📺 Anthony Pompliano
 
-👁️ 2K • 👍 243 • 💬 7 • ⏱️ 25:55 • 1h ago
+👁️ 2K • 👍 243 • 💬 7 • ⏱️ 25:55 • 2h ago
 
 ---
 
