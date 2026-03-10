@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T18:52:12.414856+00:00'
+updated: '2026-03-10T19:38:47.478111+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 18:52 UTC  
+**Last Updated:** March 10, 2026 at 19:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -101,7 +101,7 @@ This is why we BITCOIN. More of this to come?
 
 The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 5h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 6h ago
 
 ---
 
@@ -117,7 +117,7 @@ Need advice from Bitcoin community about a 2012 wallet recovery. My client has a
 
 Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hey everyone, Curious to hear from founders or operators who have added crypto p
 
 I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
 
-17h ago
+18h ago
 
 ---
 
@@ -149,7 +149,7 @@ OP_NET is a consensus layer on Bitcoin Layer 1 enabling fully expressive smart c
 
 Been on Coinbase for a while but fees are getting old, especially on small buys. Haven't had issues yet but heard support is a nightmare when things go wrong. I'd rather switch before I find that out the hard way. Already looked into some alternatives, Kraken, which has lower fees with Kraken Pro. Binance is huge but has location restrictions. Bitget and Bybit also get mentioned with competitive fees. For those who left Coinbase, where'd you go? Just doing spot trading, want low fees, reliable withdrawals, decent coin selection. What's working well for regular users in 2026?
 
-9h ago
+10h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Block • 1d ago
 
 Renowned investor Ross Gerber responded to Michael Saylor on Sunday after the Strategy Inc. Chair said the company is gearing to buy more Bitcoin. Gerber Jabs Saylor Gerber replied to Strategy Chair Michael Saylor’s X post, “The Second Century Begins,”...
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -199,19 +199,19 @@ unchainedcrypto.com • 1h ago
 
 The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-The Block • 41m ago
+The Block • 1h ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
 **[Bitcoin price today: jumps to $71.5k as Trump’s Iran remarks lift risk appetite](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rebounds-above-70k-as-trump-remarks-lift-risk-appetite-4551058)**
 
-Investing.com • 2h ago
+Investing.com • 3h ago
 
 ---
 
@@ -219,7 +219,7 @@ Investing.com • 2h ago
 
 The rebound began Monday after President Donald Trump suggested that he is looking to bring the conflict to an end.  Oil extended its decline Tuesday as lawmakers looked to assure investors that policy interventions could cushion the war’s impact on energy prices.  The token “gained support from global stock markets, where traders hurried to buy the dip on Trump’s comments about the imminent end of the Iranian conflict,” said Alex Kuptsikevich, chief market analyst at FxPro, adding that investors “rushed back into the market, driven by FOMO, the fear of missing out.”
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -227,7 +227,7 @@ Yahoo Finance • 9h ago
 
 The International Energy Agency (IEA) on Tuesday said it will convene an extraordinary meeting of its member countries to consider releasing emergency oil reserves.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -263,7 +263,7 @@ Complete operating system for Bitcoiners
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 2 • 💬 0 • 9m ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 2 • 💬 0 • 56m ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -277,7 +277,7 @@ The Ivy League school still has more money invested in Bitcoin than any other US
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 5h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 6h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -299,7 +299,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 12h ago
+⬆️ 1 • 💬 0 • 13h ago
 
 ---
 
@@ -313,7 +313,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 245 • ⏱️ 9:54 • 20h ago
+👁️ 47K • 👍 2K • 💬 245 • ⏱️ 9:54 • 21h ago
 
 ---
 
@@ -323,7 +323,7 @@ Arthur Hayes, co-founder of BitMEX and CIO of Maelstrom, joins Coin Stories to d
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 299 • 💬 67 • ⏱️ 50:10 • 4h ago
+👁️ 3K • 👍 299 • 💬 67 • ⏱️ 50:10 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 14K • 👍 940 • 💬 427 • ⏱️ 10:02 • 22h ago
+👁️ 14K • 👍 940 • 💬 427 • ⏱️ 10:02 • 23h ago
 
 ---
 
@@ -373,7 +373,7 @@ The global fiat system is flashing red as 20 million barrels of oil vanish offli
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 150 • ⏱️ 18:57 • 19h ago
+👁️ 19K • 👍 2K • 💬 150 • ⏱️ 18:57 • 20h ago
 
 ---
 
@@ -383,7 +383,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 DJ Impozible
 
-👁️ 3K • 👍 3K • 1h ago
+👁️ 3K • 👍 3K • 2h ago
 
 ---
 

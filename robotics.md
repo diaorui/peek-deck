@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T18:52:12.424009+00:00'
+updated: '2026-03-10T19:38:47.487714+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 18:52 UTC  
+**Last Updated:** March 10, 2026 at 19:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
 
-2h ago
+3h ago
 
 ---
 
 **[Figure's Helix 2 - Full Body Autonomy Video](https://www.reddit.com/r/robotics/comments/1rq45b6/figures_helix_2_full_body_autonomy_video/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -100,7 +100,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-10h ago
+11h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hi there, I've created a video here where I explain how convolutional neural net
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -126,7 +126,7 @@ TechCrunch • 1d ago
 
 For International Women's Day, Dr. Maja Matarić and Dr. Tania Morimoto discussed their current robotics research and student development.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -134,7 +134,7 @@ The Robot Report • 2h ago
 
 Teradyne Robotics has “irrefutable evidence” of Chinese robot company  Elite  Robots for copyright infringement of Universal Robots’ software.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -172,7 +172,7 @@ NVIDIA Blog • 1d ago
 
 The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
 
-WGAL • 5h ago
+WGAL • 6h ago
 
 ---
 
@@ -180,7 +180,7 @@ WGAL • 5h ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -234,7 +234,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 3K • 👍 54 • 💬 13 • ⏱️ 3:48 • 23h ago
+👁️ 3K • 👍 54 • 💬 13 • ⏱️ 3:48 • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ One of Tesla's biggest rivals in the humanoid race just got the attention of Elo
 
 📺 Kalil 4.0
 
-👁️ 269 • 👍 19 • ⏱️ 0:52 • 2h ago
+👁️ 269 • 👍 19 • ⏱️ 0:52 • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ Everyone thought AI would replace office workers first. But the real disruption 
 
 📺 By 2050
 
-👁️ 104K • 👍 2K • 💬 121 • ⏱️ 0:55 • 4d ago
+👁️ 104K • 👍 2K • 💬 121 • ⏱️ 0:55 • 5d ago
 
 ---
 

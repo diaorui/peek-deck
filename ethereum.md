@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-10T18:52:12.420823+00:00'
+updated: '2026-03-10T19:38:47.484138+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 18:52 UTC  
+**Last Updated:** March 10, 2026 at 19:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, deployed a contract in April 2016 that let you "grind unicorns into meat" on-chain. The experiment became the Unicorn Meat token (w🍖) — deployed when ERC-20 was barely a draft standard, when the entire Ethereum dev community could fit in one room. Why it matters historically: - Deployed April 2016, pre-TheDAO hack - One of the earliest ERC-20 compliant tokens - Created by a core Ethereum Foundation member for fun, not profit - The contract is still live and the token still trades Original contract: https://etherscan.io/address/0xd234bf2410a0009df9c3c63b610c09738f18ccd7 The community archive: https://unicornmeat.wtf These early experiments are Ethereum heritage. Worth preserving.
 
-4h ago
+5h ago
 
 ---
 
@@ -88,13 +88,13 @@ Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, depl
 
 Bitmine Immersion Technologies (BMNR) is expanding beyond its origins as a Bitcoin miner to consolidate as the world's largest corporate holder of Ether (ETH). : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 6h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 7h ago
 
 ---
 
 **[Starknet proposes STRK20 — private ERC-20 tokens on Ethereum L2](https://www.reddit.com/r/ethereum/comments/1rq2jwl/starknet_proposes_strk20_private_erc20_tokens_on/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Summary
 ⚠️ Lighthouse v8.1.2 is a high-priority patch release with further security-critical fixes atop v8.1.1.
 This is a mandatory upgrade for all users running any prior version. All prior Lighth...
 
-🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 18h ago
+🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 19h ago
 
 ---
 
@@ -156,7 +156,7 @@ For the past few months I've been building EthereumHistory.com, a project to doc
 
 Meanwhile, more than half of XRP’s total supply is sitting at a loss....
 
-Sherwood News • 2h ago
+Sherwood News • 3h ago
 
 ---
 
@@ -172,13 +172,13 @@ Decrypt • 1d ago
 
 In a post on X, the Ethereum co-founder said that the EF is testing a new method for running validators that could make staking infrastructure significantly easier for institutions holding large amounts of ether.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
-Binance • 2d ago
+Binance • 3d ago
 
 ---
 
@@ -202,7 +202,7 @@ The Block • 1d ago
 
 At $2,015 per coin, the company's Ethereum treasury is worth approximately $9.14 billion.
 
-CoinMarketCap • 8h ago
+CoinMarketCap • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 1K • 💬 121 • ⏱️ 21:43 • 4h ago
+👁️ 15K • 👍 1K • 💬 121 • ⏱️ 21:43 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 171 • 💬 73 • ⏱️ 13:04 • 3h ago
+👁️ 2K • 👍 171 • 💬 73 • ⏱️ 13:04 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 245 • ⏱️ 9:54 • 20h ago
+👁️ 47K • 👍 2K • 💬 245 • ⏱️ 9:54 • 21h ago
 
 ---
 
@@ -288,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 146 • 👍 8 • ⏱️ 5:18 • 9h ago
+👁️ 146 • 👍 8 • ⏱️ 5:18 • 10h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN IS IN A BEAR MARKET! (But, for how long?) What about altcoins in crypto?
 
 📺 Crypto Savy
 
-👁️ 133 • 👍 27 • 💬 4 • ⏱️ 10:00 • 1h ago
+👁️ 133 • 👍 27 • 💬 4 • ⏱️ 10:00 • 2h ago
 
 ---
 
