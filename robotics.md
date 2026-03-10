@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T16:56:54.292613+00:00'
+updated: '2026-03-10T17:50:27.092801+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 16:56 UTC  
+**Last Updated:** March 10, 2026 at 17:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
 
-36m ago
+1h ago
 
 ---
 
@@ -44,7 +44,7 @@ Look at this interesting robotic grasping project, accomplished with the assista
 
 BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineering for Disneyland theme parks. Inspiration for walking movements was taken from the waddle of a duck, creating a stable walk while still keeping the appearance fun, as with Star Wars droids.
 
-13m ago
+1h ago
 
 ---
 
@@ -52,13 +52,13 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
 
-8h ago
+9h ago
 
 ---
 
 **[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -70,7 +70,7 @@ I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. 
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -94,13 +94,13 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-8h ago
+9h ago
 
 ---
 
 **[Stuck between 2 careers](https://www.reddit.com/r/robotics/comments/1rpwy5v/stuck_between_2_careers/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -120,7 +120,7 @@ NPR • 1d ago
 
 A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
 
-Fortune • 2d ago
+Fortune • 3d ago
 
 ---
 
@@ -138,7 +138,7 @@ ABB • 1d ago
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg • 2h ago
+Bloomberg • 3h ago
 
 ---
 
@@ -146,7 +146,7 @@ Bloomberg • 2h ago
 
 For International Women's Day, Dr. Maja Matarić and Dr. Tania Morimoto discussed their current robotics research and student development.
 
-The Robot Report • 47m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Robot Report • 47m ago
 
 The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
 
-WGAL • 3h ago
+WGAL • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ Folsom Times • 15h ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -186,33 +186,33 @@ Modern War Institute - • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
-
-OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
-
-📺 AI Revolution
-
-👁️ 55K • 👍 1K • 💬 93 • ⏱️ 14:51 • 1d ago
-
----
-
 **[Unrestricted AI in a robot does exactly what experts warned](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
 
 AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your $5 sign-up bonus at ...
 
 📺 InsideAI
 
-👁️ 735K • 👍 43K • 💬 5K • ⏱️ 16:54 • 6d ago
+👁️ 748K • 👍 43K • 💬 5K • ⏱️ 16:54 • 6d ago
 
 ---
 
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
+**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
 
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
+OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
 
-📺 DPCcars
+📺 AI Revolution
 
-👁️ 2K • 👍 50 • 💬 8 • ⏱️ 3:48 • 21h ago
+👁️ 56K • 👍 1K • 💬 94 • ⏱️ 14:51 • 1d ago
+
+---
+
+**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
+
+In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
+
+📺 Tech Talkies
+
+👁️ 17K • 👍 628 • 💬 53 • ⏱️ 4:51 • 3d ago
 
 ---
 
@@ -222,7 +222,27 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 23K • 👍 813 • 💬 62 • ⏱️ 14:35 • 5d ago
+👁️ 23K • 👍 816 • 💬 62 • ⏱️ 14:35 • 5d ago
+
+---
+
+**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
+
+A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
+
+📺 DPCcars
+
+👁️ 3K • 👍 54 • 💬 13 • ⏱️ 3:48 • 22h ago
+
+---
+
+**[This Autonomous Humanoid Robot Caught Elon&#39;s Attention #robotics #elonmusk #airobot #figureai](https://www.youtube.com/watch?v=RMoSYQyiNys)**
+
+One of Tesla's biggest rivals in the humanoid race just got the attention of Elon Musk with its latest demo. The Silicon Valley ...
+
+📺 Kalil 4.0
+
+👁️ 269 • 👍 19 • ⏱️ 0:52 • 1h ago
 
 ---
 
@@ -232,7 +252,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 243K • 👍 3K • 💬 356 • ⏱️ 29:41 • 4d ago
+👁️ 246K • 👍 3K • 💬 356 • ⏱️ 29:41 • 4d ago
 
 ---
 
@@ -242,17 +262,7 @@ China's humanoid robots just performed the world's first continuous parkour flip
 
 📺 TechFrontierNow
 
-👁️ 60K • 👍 386 • 💬 88 • ⏱️ 9:26 • 5d ago
-
----
-
-**[BINARY OPTIONS QUANT - HANDS-FREE AUTOMATED TRADING EXPERIENCE | BINARY OPTIONS TRADING ROBOT](https://www.youtube.com/watch?v=orJM6NwyQkg)**
-
-New Trading Bot: https://bit.ly/pocket-option-quant Join Team: https://bit.ly/ntrade-access Contact: ...
-
-📺 Ntrade | Pro Trade
-
-👁️ 16K • 👍 507 • 💬 15 • ⏱️ 7:08 • 1d ago
+👁️ 61K • 👍 387 • 💬 88 • ⏱️ 9:26 • 5d ago
 
 ---
 
@@ -262,27 +272,17 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 2. This. Is. 
 
 📺 NHRL
 
-👁️ 61K • 👍 495 • 💬 52 • ⏱️ 3:23:56 • 2d ago
+👁️ 61K • 👍 496 • 💬 52 • ⏱️ 3:23:56 • 2d ago
 
 ---
 
-**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
+**[China’s $16K Robot Changes the Future of Work](https://www.youtube.com/watch?v=KFzEWvTSmn4)**
 
-A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
+Everyone thought AI would replace office workers first. But the real disruption is happening in the physical world. Humanoid robots ...
 
-📺 Billionaire Shots
+📺 By 2050
 
-👁️ 38K • 👍 2K • 💬 284 • ⏱️ 0:13 • 6d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN Europe
-
-👁️ 983K • 👍 1K • 💬 24 • ⏱️ 29:40 • 6d ago
+👁️ 104K • 👍 2K • 💬 121 • ⏱️ 0:55 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T16:56:54.283457+00:00'
+updated: '2026-03-10T17:50:27.084544+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 16:56 UTC  
+**Last Updated:** March 10, 2026 at 17:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1426.17B
+**Market Cap:** $1415.01B
 Rank #1
 
-**Circulating Supply:** 20,000,365 BTC
+**Circulating Supply:** 20,000,406 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.4%
+-43.9%
 
 **All-Time Low:** $67.81
-+105130.8%
++104234.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-23h ago
+1d ago
 
 ---
 
@@ -95,13 +95,13 @@ This is why we BITCOIN. More of this to come?
 
 The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 3h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 4h ago
 
 ---
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ What thought you are having on this above question.
 
 Been on Coinbase for a while but fees are getting old, especially on small buys. Haven't had issues yet but heard support is a nightmare when things go wrong. I'd rather switch before I find that out the hard way. Already looked into some alternatives, Kraken, which has lower fees with Kraken Pro. Binance is huge but has location restrictions. Bitget and Bybit also get mentioned with competitive fees. For those who left Coinbase, where'd you go? Just doing spot trading, want low fees, reliable withdrawals, decent coin selection. What's working well for regular users in 2026?
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ Been on Coinbase for a while but fees are getting old, especially on small buys.
 
 Or else I’ll start throwing things
 
-21h ago
+22h ago
 
 ---
 
@@ -149,7 +149,7 @@ Or else I’ll start throwing things
 
 Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 20h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 21h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 m
 
 The Winklevoss twins moved $130 million in bitcoin to Gemini hot wallets while still holding $764 million worth of BTC, per Arkham.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 5h ago
 
 The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Block • 1d ago
 
 **[Bitcoin Rebounds to $71,000 as Wall Street Deepens Crypto Push](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-rebounds-to-71-000-as-wall-street-deepens-crypto-push)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -197,13 +197,13 @@ Bloomberg • 1h ago
 
 Bitcoin miners have officially mined over 20 million coins, leaving only 1 million left to be mined.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg • 20h ago
+Bloomberg • 21h ago
 
 ---
 
@@ -211,7 +211,7 @@ Bloomberg • 20h ago
 
 Crypto and risk assets rally as the dollar retreats following comments from Donald Trump suggesting the conflict in Iran may end soon, while bitcoin still faces a broader downtrend.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -219,7 +219,7 @@ CoinDesk • 6h ago
 
 Bitcoin ticked up above $71K on Tuesday as Trump sends mixed messages on Iran, while hopes for a crypto breakout cool amid Fed uncertainty.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -227,7 +227,7 @@ Yahoo Finance • 1h ago
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -247,7 +247,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 2 • 💬 4 • 1d ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 2 • 💬 4 • 2d ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -269,7 +269,7 @@ Complete operating system for Bitcoiners
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 3h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 4h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -291,7 +291,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 10h ago
+⬆️ 1 • 💬 0 • 11h ago
 
 ---
 
@@ -305,17 +305,17 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 236 • ⏱️ 9:54 • 19h ago
+👁️ 47K • 👍 2K • 💬 245 • ⏱️ 9:54 • 19h ago
 
 ---
 
-**[The Biggest Oil SHOCK In History: $2 Trillion DUMPED Overnight! (Is Bitcoin Safe?)](https://www.youtube.com/watch?v=RRvglXdxjBc)**
+**[Arthur Hayes: The Fed Will Print Again — That’s When Bitcoin Explodes](https://www.youtube.com/watch?v=Ny9P1l0WKwo)**
 
-The global fiat system is flashing red as 20 million barrels of oil vanish offline, triggering the biggest oil supply shock in history and ...
+Arthur Hayes, co-founder of BitMEX and CIO of Maelstrom, joins Coin Stories to discuss Bitcoin, macroeconomics, AI disruption, ...
 
-📺 Simply Bitcoin
+📺 Natalie Brunell
 
-👁️ 18K • 👍 2K • 💬 130 • ⏱️ 18:57 • 17h ago
+👁️ 3K • 👍 299 • 💬 67 • ⏱️ 50:10 • 3h ago
 
 ---
 
@@ -325,17 +325,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 13K • 👍 926 • 💬 403 • ⏱️ 10:02 • 20h ago
-
----
-
-**[Lyn Alden Just Dropped A Serious Bitcoin Warning That No One Was Expecting (2026 Prediction)](https://www.youtube.com/watch?v=UHvhPF2xy2o)**
-
-Lyn Alden just explained WHY this cycle has been so DIFFERENT — and why we won't see an 85% drawdown this time. KEY ...
-
-📺 Money Talks
-
-👁️ 2K • 👍 62 • 💬 87 • ⏱️ 17:32 • 20h ago
+👁️ 14K • 👍 940 • 💬 427 • ⏱️ 10:02 • 21h ago
 
 ---
 
@@ -345,7 +335,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 12K • 👍 134 • 💬 101 • ⏱️ 4:26 • 1d ago
+👁️ 12K • 👍 141 • 💬 102 • ⏱️ 4:26 • 1d ago
 
 ---
 
@@ -355,17 +345,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 86K • 👍 6K • 💬 340 • ⏱️ 11:22 • 1d ago
-
----
-
-**[MASSIVE Bitcoin Buying Opportunity RIGHT NOW! Bitcoin RALLYING As Stocks CRASH!](https://www.youtube.com/watch?v=Kn3tTy_YOuQ)**
-
-Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you fund your account!
-
-📺 Crypto Jebb
-
-👁️ 5K • 👍 239 • 💬 134 • ⏱️ 8:35 • 22h ago
+👁️ 88K • 👍 6K • 💬 348 • ⏱️ 11:22 • 1d ago
 
 ---
 
@@ -375,17 +355,27 @@ Did Bitcoin already put in the bottom, or is this just the start of a longer gri
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 341 • 💬 143 • ⏱️ 10:35 • 22h ago
+👁️ 12K • 👍 346 • 💬 172 • ⏱️ 10:35 • 23h ago
 
 ---
 
-**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
+**[The Biggest Oil SHOCK In History: $2 Trillion DUMPED Overnight! (Is Bitcoin Safe?)](https://www.youtube.com/watch?v=RRvglXdxjBc)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+The global fiat system is flashing red as 20 million barrels of oil vanish offline, triggering the biggest oil supply shock in history and ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 40K • 👍 3K • 💬 340 • ⏱️ 10:01 • 1d ago
+👁️ 19K • 👍 2K • 💬 150 • ⏱️ 18:57 • 18h ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=TFT3ASaP18g)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 DJ Impozible
+
+👁️ 3K • 👍 3K • 40m ago
 
 ---
 
@@ -396,6 +386,16 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 📺 CryptosRUs
 
 👁️ 20K • 👍 1K • 💬 331 • ⏱️ 35:05 • 1d ago
+
+---
+
+**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 41K • 👍 4K • 💬 341 • ⏱️ 10:01 • 1d ago
 
 ---
 
