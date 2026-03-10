@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T09:45:59.318586+00:00'
+updated: '2026-03-10T10:40:38.972004+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 09:45 UTC  
+**Last Updated:** March 10, 2026 at 10:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-22h ago
+23h ago
 
 ---
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -68,7 +68,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 **[Drone simulation with guitar tabs control](https://www.reddit.com/r/robotics/comments/1rpo5lu/drone_simulation_with_guitar_tabs_control/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -76,7 +76,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
 
-59m ago
+1h ago
 
 ---
 
@@ -84,7 +84,7 @@ I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. 
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-17h ago
+18h ago
 
 ---
 
@@ -92,7 +92,7 @@ I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIO
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-1h ago
+2h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hi there, I've created a video here where I explain how convolutional neural net
 
 **[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
 
-ABB • 17h ago
+ABB • 18h ago
 
 ---
 
@@ -118,7 +118,7 @@ ABB • 17h ago
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 17h ago
+TechCrunch • 18h ago
 
 ---
 
@@ -142,7 +142,7 @@ Bloomberg • 2d ago
 
 OpenAI hardware leader Caitlin Kalinowski has resigned after the company’s Pentagon AI deal, citing concerns over surveillance, autonomy, and governance.
 
-eWeek • 8h ago
+eWeek • 9h ago
 
 ---
 
@@ -156,7 +156,7 @@ Bloomberg • 1d ago
 
 Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
 
-Folsom Times • 7h ago
+Folsom Times • 8h ago
 
 ---
 
@@ -164,7 +164,7 @@ Folsom Times • 7h ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 12h ago
 
 Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
@@ -180,7 +180,7 @@ Financial Times • 20h ago
 
 Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
 
-GeekWire • 19h ago
+GeekWire • 20h ago
 
 ---
 
@@ -244,7 +244,7 @@ This is what I've been waiting for Follow my socials for more frequent updates: 
 
 📺 DeathTempler
 
-👁️ 13K • 👍 2K • 💬 164 • ⏱️ 0:51 • 15h ago
+👁️ 13K • 👍 2K • 💬 164 • ⏱️ 0:51 • 16h ago
 
 ---
 
@@ -264,7 +264,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 1K • 👍 41 • 💬 4 • ⏱️ 3:48 • 14h ago
+👁️ 1K • 👍 41 • 💬 4 • ⏱️ 3:48 • 15h ago
 
 ---
 
@@ -282,7 +282,7 @@ In this short video tutorial we will learn how to plant German Butterball potato
 
 📺 unclekev74
 
-👁️ 3.3M • 👍 25K • 💬 344 • ⏱️ 1:00 • 4d ago
+👁️ 3.3M • 👍 25K • 💬 344 • ⏱️ 1:00 • 5d ago
 
 ---
 

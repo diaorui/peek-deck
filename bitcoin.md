@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T09:45:59.310414+00:00'
+updated: '2026-03-10T10:40:38.962955+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 09:45 UTC  
+**Last Updated:** March 10, 2026 at 10:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-16h ago
+17h ago
 
 ---
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ This is why we BITCOIN. More of this to come?
 
 I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
 
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 19h ago
+🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 20h ago
 
 ---
 
@@ -111,7 +111,7 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 Or else I’ll start throwing things
 
-14h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 m
 
 The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ The next halving is getting closer every day (people will start front-running so
 
 Says the guy left behind while everyone heads back for 100k wave
 
-23m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Says the guy left behind while everyone heads back for 100k wave
 
 Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As of 3/8/2026, they hodl 738,731 BTC acquired for ~$56.04 billion at ~$75,862 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 19h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 20h ago
 
 ---
 
@@ -151,7 +151,7 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -163,19 +163,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The final 1 million BTC will take over a century to mine, with the last fractions, measured in satoshis, expected to be issued around 2140.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
 **[Bitcoin Price Rebounds From Oil-Fueled Retreat, Nasdaq To Launch Tokenized Stocks](https://www.investors.com/news/bitcoin-price-oil-support-nasdaq-tokenized-stocks-equities-kraken-partnership/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
 **[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqee01aSw1VynqPnBHnFMwxF7b4BKmj3ipgNP0Yo8hu-lj-BTc6dTQgr&gaa_ts=69afebb3&gaa_sig=N2fInzgTLvs2oN52bmfRYpoFh78PMJwCtJoYIA-BafNLyH9Lwm3PCSIFtXrpyTCG0VRnlPvfTeyr99Z-l9DKxw%3D%3D)**
 
-Barron's • 25m ago
+Barron's • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Barron's • 25m ago
 
 Bitcoin's volatility is what makes it such a consistently good bet.
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 40m ago
 
 Gwangju Prosecutors Sell Recovered Bitcoin, Transfer 31.588B Won Proceeds from 320.8 Bitcoin Sale Transferred to National Treasury
 
-조선일보 • 1h ago
+조선일보 • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ Gwangju Prosecutors Sell Recovered Bitcoin, Transfer 31.588B Won Proceeds from 3
 
 The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -207,7 +207,7 @@ Fortune • 14h ago
 
 Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $50 billion.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Block • 21h ago
 
 Michael Saylor declared the start of a “second century,” following the firm’s 100th Bitcoin purchase last month.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -223,7 +223,7 @@ Yahoo Finance • 18h ago
 
 The Himalayan kingdom moved another 175 BTC on Monday, continuing a drawdown that has taken its holdings from a peak of roughly 13,000 BTC to under 5,400 in just over a year.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -241,7 +241,7 @@ Reuters • 23h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 17h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 18h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -271,7 +271,7 @@ Complete operating system for Bitcoiners
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 18h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 19h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -299,7 +299,7 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 3h ago
+⬆️ 1 • 💬 0 • 4h ago
 
 ---
 
@@ -313,7 +313,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 182 • ⏱️ 9:54 • 11h ago
+👁️ 36K • 👍 2K • 💬 182 • ⏱️ 9:54 • 12h ago
 
 ---
 
@@ -323,7 +323,7 @@ The global fiat system is flashing red as 20 million barrels of oil vanish offli
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 114 • ⏱️ 18:57 • 10h ago
+👁️ 15K • 👍 1K • 💬 114 • ⏱️ 18:57 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 12K • 👍 866 • 💬 354 • ⏱️ 10:02 • 13h ago
+👁️ 12K • 👍 866 • 💬 354 • ⏱️ 10:02 • 14h ago
 
 ---
 
@@ -353,7 +353,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 11K • 👍 127 • 💬 100 • ⏱️ 4:26 • 20h ago
+👁️ 11K • 👍 127 • 💬 100 • ⏱️ 4:26 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ Lyn Alden just explained WHY this cycle has been so DIFFERENT — and why we won
 
 📺 Money Talks
 
-👁️ 1K • 👍 45 • 💬 84 • ⏱️ 17:32 • 13h ago
+👁️ 1K • 👍 45 • 💬 84 • ⏱️ 17:32 • 14h ago
 
 ---
 
@@ -373,7 +373,7 @@ Did Bitcoin already put in the bottom, or is this just the start of a longer gri
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 321 • 💬 141 • ⏱️ 10:35 • 15h ago
+👁️ 11K • 👍 321 • 💬 141 • ⏱️ 10:35 • 16h ago
 
 ---
 
@@ -393,7 +393,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Stock Moe
 
-👁️ 14K • 👍 858 • 💬 133 • ⏱️ 14:54 • 8h ago
+👁️ 14K • 👍 858 • 💬 133 • ⏱️ 14:54 • 9h ago
 
 ---
 
@@ -403,7 +403,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 328 • ⏱️ 35:05 • 19h ago
+👁️ 19K • 👍 1K • 💬 328 • ⏱️ 35:05 • 20h ago
 
 ---
 
