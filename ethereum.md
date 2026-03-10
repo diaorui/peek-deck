@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-09T23:35:28.737271+00:00'
+updated: '2026-03-10T02:05:47.646675+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 09, 2026 at 23:35 UTC  
+**Last Updated:** March 10, 2026 at 02:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,53 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,009.17
+### $2,014.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +0.8%  
-**30d:** -4.3%  
-**90d:** -39.8%  
-**1y:** +6.9%  
+**24h:** +2.1%  
+**7d:** -5.1%  
+**30d:** -4.1%  
+**90d:** -37.6%  
+**1y:** +4.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $241.70B
+**Market Cap:** $243.82B
 Rank #2
 
-**Circulating Supply:** 120,692,045 ETH
+**Circulating Supply:** 120,692,025 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.5%
+-59.2%
 
 **All-Time Low:** $0.43
-+462490.6%
++466211.3%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Lighthouse v8.1.2: high-priority patch release with further security-critical fixes atop v8.1.1.](https://www.reddit.com/r/ethereum/comments/1rphl02/lighthouse_v812_highpriority_patch_release_with/)**
+
+Summary
+⚠️ Lighthouse v8.1.2 is a high-priority patch release with further security-critical fixes atop v8.1.1.
+This is a mandatory upgrade for all users running any prior version. All prior Lighth...
+
+🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 1h ago
+
+---
+
 **[TIL about MessageStore, a 1-function contract from August 2015 (block 53,573)](https://www.reddit.com/r/ethereum/comments/1rp2kko/til_about_messagestore_a_1function_contract_from/)**
 
 Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec...3d6b, deployed in August 2015, just weeks after mainnet launch. The entire contract is one function: set(string). It stores a single string in public storage. That is it. What is interesting is the bytecode. It was compiled with solc v0.1.1, the earliest Solidity compiler that exists. I was able to reproduce the exact bytecode byte-for-byte using that compiler. The output matches the on-chain code perfectly. Contracts from this era are fascinating because Solidity was still being invented. No events, no modifiers, no constructors as we know them. Just raw storage writes. The compiler output is so small you can read the opcodes manually. The deployer (0x8674...94e2) deployed 18 contracts in the same week, all in the 52,000-55,000 block range. Looks like someone was experimenting heavily with what Solidity could do. If anyone is interested in early Ethereum archaeology, ethereumhistory.com is documenting contracts from this period with verified source code and compiler proofs. Edit: here is the contract page on Ethereum History.
 
-8h ago
+11h ago
 
 ---
 
@@ -80,7 +90,7 @@ Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -88,7 +98,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In September 2015, six weeks after mainnet launch, someone deployed three contracts that became Ethereum's first naming infrastructure: GlobalRegistrar, HashReg, and UrlHint. Block 282,880 — September 24, 2015 The GlobalRegistrar mapped names to addresses. HashReg mapped code hashes to content hashes. UrlHint mapped content hashes to URLs for metadata retrieval. Together they formed the NatSpec documentation system — the mechanism that was supposed to let Ethereum wallets display human-readable descriptions before signing transactions. The system was hardcoded directly into go-ethereum v1.4.0 (common/registrar/registrar.go). Not an optional plugin. Core infrastructure. The frozen TODO that became ENS Inside the GlobalRegistrar source code (verified on Etherscan, compiled with solc v0.1.1), there's a comment that reads: // TODO: bidding mechanism That comment sat frozen for years. The ambition was there — first-come-first-served registration was always meant to be a placeholder. The bidding mechanism didn't arrive until ENS launched in May 2017, when Vickrey auctions replaced the naive assignment system. ENS didn't appear from nowhere. It solved the exact problem the GlobalRegistrar identified and couldn't finish. The three-contract system All three contracts were deployed by the same address within 18 blocks: - GlobalRegistrar: block 282,880 - HashReg: block 282,885 (5 blocks later) - UrlHint: block 282,898 (18 blocks after start) The deployer identity isn't confirmed — likely a go-ethereum core developer given the contracts were shipped alongside the go-ethereum codebase — but we haven't pinned the address to a name yet. Why it matters Every .eth name you resolve today is the descendant of that frozen TODO comment from 2015. The naming problem was understood from week six. It took two more years to solve it properly. We documented all three contracts on EthereumHistory.com last night. The verified source code, links to go-ethereum v1.4.0, and the full historical context are there if you want to dig deeper. Cross-posted from our ongoing archaeology of early mainnet contracts. If you deployed or used these contracts in 2015, we'd love to hear the story.
 
-10h ago
+13h ago
 
 ---
 
@@ -96,7 +106,7 @@ In September 2015, six weeks after mainnet launch, someone deployed three contra
 
 MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
 
-🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 9h ago
+🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 11h ago
 
 ---
 
@@ -138,14 +148,6 @@ I tried to access compound.finance, and when connecting wallet it warns me the d
 
 ---
 
-**[Daily General Discussion March 07, 2026](https://www.reddit.com/r/ethereum/comments/1rn247q/daily_general_discussion_march_07_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +156,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
 
-PR Newswire • 11h ago
+PR Newswire • 13h ago
+
+---
+
+**[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
+
+Seeking Alpha • 16h ago
 
 ---
 
@@ -162,13 +170,7 @@ PR Newswire • 11h ago
 
 The firm ramped up the pace of ETH accumulation despite sitting on staggering unrealized losses on its $9 billion crypto holdings.
 
-CoinDesk • 9h ago
-
----
-
-**[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
-
-Seeking Alpha • 14h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -180,25 +182,25 @@ Benzinga • 3d ago
 
 ---
 
-**[Sharplink Posts $734 Million Loss as Ethereum Staking Revenue Soars](https://finance.yahoo.com/news/sharplink-posts-734-million-loss-185152070.html)**
-
-The Ethereum-buying firm attributed its full-year performance to the asset’s volatility.
-
-Yahoo Finance • 4h ago
-
----
-
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
 Binance • 2d ago
 
 ---
 
-**[Where Will Ethereum Be in 2030?](https://www.fool.com/investing/2026/03/08/where-will-ethereum-be-in-2030/)**
+**[Consensys-backed SharpLink reports $734 million loss as ETH holdings climb](https://www.theblock.co/post/392851/consensys-backed-sharplink-reports-734-million-loss-eth-holdings-climb)**
+
+SharpLink generated 14,516 ETH in native and liquid staking rewards since launching its treasury strategy in June 2025.
+
+The Block • 10h ago
+
+---
+
+**[Where Will Ethereum Be in 2030?](https://finance.yahoo.com/news/where-ethereum-2030-113700145.html)**
 
 As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -206,7 +208,7 @@ The Motley Fool • 1d ago
 
 Bitcoin’s rally back to the mid-$73,000 region did not last long as the leading cryptocurrency’s price action reversed as the week came to a close and fell back around $67,000 after momentarily regaining momentum last week, pulling Ethereum down with it till the ETH price also lost the $2,000 price…
 
-TradingView • 3h ago
+TradingView • 5h ago
 
 ---
 
@@ -214,7 +216,7 @@ TradingView • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 12h ago
 
 ---
 
@@ -222,7 +224,7 @@ Fortune • 9h ago
 
 Dubai, UAE, March  09, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just announced that the latest presale stage sold out in under 48 ho...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -230,83 +232,33 @@ markets.businessinsider.com • 4h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
-
-Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 49K • 👍 2K • 💬 160 • ⏱️ 11:32 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=iUcsXE5JWns)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 133 • 💬 6 • ⏱️ 4:08 • 10h ago
-
----
-
-**[BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AjrSEIqun14)**
-
-BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 265 • 💬 291 • ⏱️ 17:36 • 1d ago
-
----
-
-**[BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=i7V9o6KPUgs)**
-
-BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 980 • 👍 92 • 💬 201 • ⏱️ 14:42 • 1h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=ZoqsDifBJBo)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 Filmora for Creators
-
-👁️ 2K • 👍 1K • 54m ago
-
----
-
 **[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
 
 GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 447 • 💬 40 • ⏱️ 9:54 • 1h ago
+👁️ 15K • 👍 1K • 💬 134 • ⏱️ 9:54 • 4h ago
 
 ---
 
-**[My FIRST GPU Mining Rig: Building &amp; Earning Ethereum! #shorts](https://www.youtube.com/watch?v=tYgb7FQKpjE)**
+**[Tom Lee - &quot;Largest Crypto Reset In HISTORY&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=43KC2TkH8hk)**
 
-From unboxing to mining Ethereum, my first six-GPU setup was surprisingly simple. The thrill of seeing those coins roll in was ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 VoskCoin
+📺 Library Of Wealth
 
-👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:50 • 11h ago
+👁️ 8K • 👍 167 • 💬 107 • ⏱️ 15:06 • 1d ago
 
 ---
 
-**[Stellar Lumens XLM, Why It&#39;s The Institutional Choice Over Ethereum And Solana](https://www.youtube.com/watch?v=HSKyv6fFtyA)**
+**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
 
-Welcome back ladies and gentlemen Today we are going down the Stellar Lumens XLM rabbit hole once again! Join the Patreon ...
+Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
-📺 AllinCrypto
+📺 Altcoin Daily
 
-👁️ 11K • 👍 750 • 💬 171 • ⏱️ 10:45 • 1d ago
+👁️ 49K • 👍 2K • 💬 161 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -316,17 +268,67 @@ Get 30% off your Tangem Wallet + free Bitcoin: ...
 
 📺 Cyber Scrilla
 
-👁️ 20K • 👍 1K • 💬 164 • ⏱️ 11:55 • 1d ago
+👁️ 20K • 👍 1K • 💬 162 • ⏱️ 11:55 • 1d ago
 
 ---
 
-**[BULLISH SIGNALS FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-094NqkIGg0)**
+**[My FIRST GPU Mining Rig: Building &amp; Earning Ethereum! #shorts](https://www.youtube.com/watch?v=tYgb7FQKpjE)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+From unboxing to mining Ethereum, my first six-GPU setup was surprisingly simple. The thrill of seeing those coins roll in was ...
 
-📺 Cilinix Crypto
+📺 VoskCoin
 
-👁️ 322 • 👍 15 • 💬 2 • ⏱️ 4:29 • 13h ago
+👁️ 1K • 👍 43 • 💬 5 • ⏱️ 0:50 • 14h ago
+
+---
+
+**[BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AjrSEIqun14)**
+
+BITCOIN WARNING: Bearish Target Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 267 • 💬 310 • ⏱️ 17:36 • 1d ago
+
+---
+
+**[BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=i7V9o6KPUgs)**
+
+BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 178 • 💬 217 • ⏱️ 14:42 • 4h ago
+
+---
+
+**[JUST IN: Ethereum Co-Founder Moves $157M to Kraken — Is He About to DUMP All His ETH?!](https://www.youtube.com/watch?v=eB3jpWKlZFY)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 2K • 👍 120 • 💬 5 • ⏱️ 20:10 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Upside &amp; Downside Targets | Multiple Time Frame Analysis](https://www.youtube.com/watch?v=yRyq1Kvv2po)**
+
+In this clip from the most recent askSlim Live, Slim provides an analysis update in Bitcoin (BTC) & Ethereum (ETH). Sign up now ...
+
+📺 Steve Miller
+
+👁️ 2K • 👍 111 • 💬 8 • ⏱️ 8:11 • 2d ago
+
+---
+
+**[Is BMNR The Next MSTR For Ethereum? 🚨](https://www.youtube.com/watch?v=nDKGbs3T8N4)**
+
+I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
+
+📺 MONEY GAME
+
+👁️ 2K • 👍 102 • 💬 20 • ⏱️ 32:50 • 16h ago
 
 ---
 

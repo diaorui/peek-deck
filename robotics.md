@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-09T23:35:28.740482+00:00'
+updated: '2026-03-10T02:05:47.649637+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 09, 2026 at 23:35 UTC  
+**Last Updated:** March 10, 2026 at 02:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-12h ago
+15h ago
 
 ---
 
@@ -44,25 +44,25 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
 
-19h ago
+22h ago
 
 ---
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
 
-6h ago
+9h ago
 
 ---
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-5h ago
+7h ago
 
 ---
 
 **[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-2h ago
+5h ago
 
 ---
 
@@ -70,13 +70,13 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-15h ago
+17h ago
 
 ---
 
 **[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -84,7 +84,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-7h ago
+9h ago
 
 ---
 
@@ -96,11 +96,11 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 ---
 
-**[Help Using Unity Robotics for Joints and VR](https://www.reddit.com/r/robotics/comments/1rpghry/help_using_unity_robotics_for_joints_and_vr/)**
+**[New Arduino VENTUNO Q, 16GB RAM, Qualcomm 8 core, 40 TOPs](https://www.reddit.com/r/robotics/comments/1rowlcy/new_arduino_ventuno_q_16gb_ram_qualcomm_8_core_40/)**
 
-My friend and I are working on a project in which we have already modeled a robotic arm that we want to be able to control by moving a replica of it in VR mixed reality. I have been able to transfer the solidworks file to unity by moving it to blender as an stl and exporting it again. However, I can't seem to get hand interaction to work with the robot, or the joints to properly be set up so the arm moves as it should. Does anyone have any experience with this who would be willing to share? Attached is our model of the arm. https://preview.redd.it/zq3rgiq9t3og1.jpg?width=4032&format=pjpg&auto=webp&s=c2af110d5a51b80415f8432356795aca94ac5930
+USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
 
-7m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 15h ago
 
 ---
 
@@ -112,13 +112,13 @@ My friend and I are working on a project in which we have already modeled a robo
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 7h ago
+TechCrunch • 10h ago
 
 ---
 
-**[New ultra-low-cost technique could slash the price of soft robotics](https://techxplore.com/news/2026-03-ultra-technique-slash-price-soft.html)**
+**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
 
-Tech Xplore • 21h ago
+ABB • 9h ago
 
 ---
 
@@ -130,57 +130,55 @@ NPR • 1d ago
 
 ---
 
-**[ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale](https://blogs.nvidia.com/blog/abb-robotics-omniverse/)**
+**[OpenAI hardware leader resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
 
-ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor.
-
-NVIDIA Blog • 8h ago
+Reuters • 2d ago
 
 ---
 
-**[Tech stocks today: Anthropic sues Defense Department over ban, OpenAI's robotics leader resigns](https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-sues-defense-department-over-ban-openais-robotics-leader-resigns-152722809.html)**
+**[OpenAI robotics head quits over military deal concerns](https://sfstandard.com/2026/03/07/openai-robotics-head-quits-military-deal-concerns/)**
 
-Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
+Caitlin Kalinowski, OpenAI’s head of robotics, resigned over the company’s new Pentagon deal — saying decisions about surveillance of Americans and lethal autonomy “deserved more deliberation than they got.”
 
-Yahoo Finance • 2h ago
-
----
-
-**[Networked for War: Lessons from Ukraine’s Ground Robots](https://mwi.westpoint.edu/networked-for-war-lessons-from-ukraines-ground-robots/)**
-
-Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
-
-Modern War Institute - • 15h ago
+The San Francisco Standard • 2d ago
 
 ---
 
 **[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 21h ago
 
 ---
 
-**[These robots are coming for the jobs no one wants — and could fill workforce gaps](https://www.businessinsider.com/agility-robotics-humanoid-robots-labor-shortage-aging-workforce-2026-3)**
+**[A whole new ballgame for trading cards: Startup uses robots and AI to sort and analyze collections](https://www.geekwire.com/2026/high-tech-player-in-collectibles-startup-uses-robotics-and-ai-to-sort-analyze-and-sell-trading-cards/)**
 
-Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
+Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
 
-Business Insider • 1d ago
-
----
-
-**[Why Richtech Robotics Stock Plummeted by Over 30% Last Month](https://www.fool.com/investing/2026/03/08/why-richtech-robotics-stock-plummeted-by-over-30-l/)**
-
-Several negative developments put quite a hurt on the company's stock.
-
-The Motley Fool • 23h ago
+GeekWire • 11h ago
 
 ---
 
-**[ABB Robotics president Marc Segura on physical AI partnership with NVIDIA](https://www.foxbusiness.com/video/6390634538112)**
+**[Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More](https://www.hackster.io/news/arduino-celebrates-turning-21-with-the-ventuno-q-a-high-performance-sbc-for-robotics-and-more-f5c2597482ea)**
 
-ABB Robotics President Marc Segura explains physical AI and discusses the company's partnership with NVIDIA on 'Varney &  Co.'
+Company lifts the lid on its big secret, which will be showcased during Embedded World in Nuremberg this week.
 
-Fox Business • 7h ago
+Hackster.io • 13h ago
+
+---
+
+**[These robots are born to run — and never die](https://news.northwestern.edu/stories/2026/03/evolved-robots-are-born-to-run-and-refuse-to-die)**
+
+AI-designed metamachines run in the wild, recover from damage and transform into new shapes
+
+Northwestern Now News • 3d ago
+
+---
+
+**[NASA Valkyrie humanoid robot built for Mars research returns to US after 10 years](https://interestingengineering.com/ai-robotics/nasa-valkyrie-humanoid-robot-returns-to-us)**
+
+NASA's Valkyrie humanoid robot returns to Johnson Space Center after a decade at the University of Edinburgh supporting Mars robotics research.
+
+Interesting Engineering • 9h ago
 
 ---
 
@@ -188,13 +186,23 @@ Fox Business • 7h ago
 
 ## YouTube Videos: "robotics"
 
+**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
+
+OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
+
+📺 AI Revolution
+
+👁️ 48K • 👍 1K • 💬 87 • ⏱️ 14:51 • 1d ago
+
+---
+
 **[Unrestricted AI in a robot does exactly what experts warned](https://www.youtube.com/watch?v=SbEqMkxEzvA)**
 
 AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your $5 sign-up bonus at ...
 
 📺 InsideAI
 
-👁️ 691K • 👍 41K • 💬 5K • ⏱️ 16:54 • 6d ago
+👁️ 699K • 👍 41K • 💬 5K • ⏱️ 16:54 • 6d ago
 
 ---
 
@@ -204,27 +212,7 @@ In this project I built a tiny desk companion robot using an ESP32, OLED display
 
 📺 Tech Talkies
 
-👁️ 13K • 👍 527 • 💬 41 • ⏱️ 4:51 • 2d ago
-
----
-
-**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
-
-OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
-
-📺 AI Revolution
-
-👁️ 45K • 👍 1K • 💬 83 • ⏱️ 14:51 • 23h ago
-
----
-
-**[HONOR ROBOT PHONE: A Revolutionary Invention](https://www.youtube.com/watch?v=-uv7SE3_WzA)**
-
-It's not just a phone; it's a revolutionary invention that uses advanced actuators to move its head (the camera module) and interact ...
-
-📺 SciVion
-
-👁️ 6K • 👍 228 • 💬 4 • ⏱️ 0:30 • 1d ago
+👁️ 14K • 👍 546 • 💬 42 • ⏱️ 4:51 • 2d ago
 
 ---
 
@@ -234,27 +222,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 23K • 👍 800 • 💬 60 • ⏱️ 14:35 • 4d ago
-
----
-
-**[E23: NVIDIA&#39;s HUGE Robotics Announcements Will Change Everything](https://www.youtube.com/watch?v=wAlmgDudmkk)**
-
-Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (do this first!): https://tsy.link/gtc2026 » Jensen ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 27K • 👍 1K • 💬 113 • ⏱️ 29:53 • 1d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN
-
-👁️ 226K • 👍 2K • 💬 335 • ⏱️ 29:41 • 3d ago
+👁️ 23K • 👍 803 • 💬 61 • ⏱️ 14:35 • 5d ago
 
 ---
 
@@ -264,17 +232,37 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 323 • 👍 24 • 💬 2 • ⏱️ 3:48 • 4h ago
+👁️ 561 • 👍 29 • 💬 2 • ⏱️ 3:48 • 7h ago
 
 ---
 
-**[ABB Robotics and NVIDIA join forces on physical AI](https://www.youtube.com/watch?v=CQieVWGIulQ)**
+**[E23: NVIDIA&#39;s HUGE Robotics Announcements Will Change Everything](https://www.youtube.com/watch?v=wAlmgDudmkk)**
 
-ABB Robotics President Marc Segura explains physical AI and discusses the company's partnership with NVIDIA on 'Varney & Co ...
+Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (do this first!): https://tsy.link/gtc2026 » Jensen ...
 
-📺 Fox Business Clips
+📺 Ticker Symbol: YOU
 
-👁️ 2K • 👍 34 • 💬 5 • ⏱️ 2:09 • 6h ago
+👁️ 28K • 👍 1K • 💬 109 • ⏱️ 29:53 • 1d ago
+
+---
+
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
+
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
+
+📺 CGTN
+
+👁️ 230K • 👍 3K • 💬 337 • ⏱️ 29:41 • 4d ago
+
+---
+
+**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
+
+China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
+
+📺 TechFrontierNow
+
+👁️ 59K • 👍 383 • 💬 84 • ⏱️ 9:26 • 5d ago
 
 ---
 
@@ -284,7 +272,17 @@ A senior executive at OpenAI has resigned over the company's decision to make it
 
 📺 NPR
 
-👁️ 3K • 👍 509 • 💬 10 • ⏱️ 1:06 • 7h ago
+👁️ 4K • 👍 673 • 💬 12 • ⏱️ 1:06 • 9h ago
+
+---
+
+**[Two Sided Intake Differential | 12560 Soft Hoarders | FTC Snapshot](https://www.youtube.com/watch?v=xOg39dqqjjk)**
+
+12560 Soft Hoarders, an Innovate Award winner, showcases a clever engineering solution using one motor to power a two sided ...
+
+📺 FUN Robotics Network
+
+👁️ 2K • 👍 78 • 💬 1 • ⏱️ 1:13 • 9h ago
 
 ---
 
