@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T08:44:19.168363+00:00'
+updated: '2026-03-10T09:45:59.310414+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 08:44 UTC  
+**Last Updated:** March 10, 2026 at 09:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,700.00
+### $71,200.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.5%  
-**7d:** -2.4%  
-**30d:** +1.3%  
-**90d:** -23.3%  
-**1y:** -14.2%  
+**24h:** +5.1%  
+**7d:** -2.3%  
+**30d:** +1.4%  
+**90d:** -23.2%  
+**1y:** -14.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1399.09B
+**Market Cap:** $1421.58B
 Rank #1
 
-**Circulating Supply:** 20,000,203 BTC
+**Circulating Supply:** 20,000,237 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.5%
+-43.6%
 
 **All-Time Low:** $67.81
-+103100.1%
++104725.2%
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-15h ago
+16h ago
+
+---
+
+**[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
+
+1h ago
 
 ---
 
@@ -89,7 +95,7 @@ This is why we BITCOIN. More of this to come?
 
 I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +103,7 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
 
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 18h ago
+🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 19h ago
 
 ---
 
@@ -105,7 +111,7 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 Or else I’ll start throwing things
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +119,7 @@ Or else I’ll start throwing things
 
 Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 11h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 13h ago
 
 ---
 
@@ -121,7 +127,15 @@ Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 m
 
 The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
 
-15h ago
+16h ago
+
+---
+
+**[B-but we go lower!!](https://www.reddit.com/r/Bitcoin/comments/1rps71d/bbut_we_go_lower/)**
+
+Says the guy left behind while everyone heads back for 100k wave
+
+23m ago
 
 ---
 
@@ -129,13 +143,7 @@ The next halving is getting closer every day (people will start front-running so
 
 Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As of 3/8/2026, they hodl 738,731 BTC acquired for ~$56.04 billion at ~$75,862 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 18h ago
-
----
-
-**[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
-
-45m ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 19h ago
 
 ---
 
@@ -143,13 +151,7 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
-
----
-
-**[On The Same Day the 20,000,000th Bitcoin is Mined - A Cypherpunk's Manifesto Turns 33](https://www.reddit.com/r/Bitcoin/comments/1rp6voh/on_the_same_day_the_20000000th_bitcoin_is_mined_a/)**
-
-🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 15h ago
+3h ago
 
 ---
 
@@ -161,13 +163,59 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The final 1 million BTC will take over a century to mine, with the last fractions, measured in satoshis, expected to be issued around 2140.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
 **[Bitcoin Price Rebounds From Oil-Fueled Retreat, Nasdaq To Launch Tokenized Stocks](https://www.investors.com/news/bitcoin-price-oil-support-nasdaq-tokenized-stocks-equities-kraken-partnership/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
+
+---
+
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqee01aSw1VynqPnBHnFMwxF7b4BKmj3ipgNP0Yo8hu-lj-BTc6dTQgr&gaa_ts=69afebb3&gaa_sig=N2fInzgTLvs2oN52bmfRYpoFh78PMJwCtJoYIA-BafNLyH9Lwm3PCSIFtXrpyTCG0VRnlPvfTeyr99Z-l9DKxw%3D%3D)**
+
+Barron's • 25m ago
+
+---
+
+**[Bettors Give Bitcoin 4% Odds of Topping $150,000 by June -- Why the Market Is Still Playing Offense](https://finance.yahoo.com/news/bettors-bitcoin-4-odds-topping-090500890.html)**
+
+Bitcoin's volatility is what makes it such a consistently good bet.
+
+Yahoo Finance • 40m ago
+
+---
+
+**[Gwangju Prosecutors Sell Recovered Bitcoin, Transfer 31.588B Won](https://www.chosun.com/english/national-en/2026/03/10/6SHKRK4K5BEKBLWOPDDBNEDJXE/)**
+
+Gwangju Prosecutors Sell Recovered Bitcoin, Transfer 31.588B Won Proceeds from 320.8 Bitcoin Sale Transferred to National Treasury
+
+조선일보 • 1h ago
+
+---
+
+**[Strategy buys $1.3 billion of Bitcoin using mostly common stock](https://fortune.com/2026/03/09/michael-saylor-strategy-bitcoin-buy-common-stock/)**
+
+The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
+
+Fortune • 14h ago
+
+---
+
+**['The second century begins': Michael Saylor's Strategy buys another 17,994 bitcoin for $1.3 billion as holdings reach 738,731 BTC](https://www.theblock.co/post/392822/the-second-century-begins-michael-saylors-strategy-buys-more-bitcoin)**
+
+Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $50 billion.
+
+The Block • 21h ago
+
+---
+
+**[Strategy Drops $1.28 Billion on Bitcoin, Issues $377 Million in Preferred Shares](https://finance.yahoo.com/news/strategy-drops-1-28-billion-145047451.html)**
+
+Michael Saylor declared the start of a “second century,” following the firm’s 100th Bitcoin purchase last month.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -175,59 +223,13 @@ Investor's Business Daily • 11h ago
 
 The Himalayan kingdom moved another 175 BTC on Monday, continuing a drawdown that has taken its holdings from a peak of roughly 13,000 BTC to under 5,400 in just over a year.
 
-CoinDesk • 2h ago
-
----
-
-**[When Will Bitcoin Bottom? Fidelity Macro Chief Says This Is The Metric To Watch](https://finance.yahoo.com/news/bitcoin-bottom-fidelity-macro-chief-174540450.html)**
-
-Market participants interested in knowing when Bitcoin will bottom should look at the gold-to-Bitcoin ratio, Fidelity Director of Global Macro Jurrien Timmer says. Timmer said on Feb. 27 Bitcoin should be evaluated by the gold-to-Bitcoin ratio, calling the digital asset...
-
-Yahoo Finance • 14h ago
-
----
-
-**[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
-
-Bloomberg • 12h ago
-
----
-
-**[Bitcoin Shows ‘Tentative Signs of Improvement’ as Iran Conflict Fears Wane](https://finance.yahoo.com/news/bitcoin-shows-tentative-signs-improvement-012136311.html)**
-
-Oil’s sharp swing and renewed Bitcoin ETF inflows highlight a fragile rebound as on-chain data suggest crypto market stress may be easing.
-
-Yahoo Finance • 7h ago
-
----
-
-**[Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months](https://www.coindesk.com/markets/2026/03/09/bitcoin-could-be-the-big-winner-if-the-u-s-iran-conflict-drags-on-for-months)**
-
-Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
-
-CoinDesk • 16h ago
-
----
-
-**[Nigel Farage invests £215,000 in Kwasi Kwarteng’s bitcoin firm](https://www.theguardian.com/politics/2026/mar/09/nigel-farage-kwasi-kwarteng-bitcoin-reform-uk-crypto-stack-btc)**
-
-Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
-
-The Guardian • 10h ago
-
----
-
-**[Nigel Farage takes stake in bitcoin company run by Kwasi Kwarteng](https://www.ft.com/content/1518dcd2-a11e-435b-b447-8b04957fa46d)**
-
-Reform UK leader invests £215,000 in Stack Bitcoin
-
-Financial Times • 1d ago
+CoinDesk • 3h ago
 
 ---
 
 **[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
-Reuters • 21h ago
+Reuters • 23h ago
 
 ---
 
@@ -239,7 +241,7 @@ Reuters • 21h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 16h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 17h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -269,7 +271,7 @@ Complete operating system for Bitcoiners
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 17h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 18h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -297,7 +299,7 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 2h ago
+⬆️ 1 • 💬 0 • 3h ago
 
 ---
 
@@ -305,23 +307,13 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 ## YouTube Videos: "bitcoin"
 
-**[Professional Capital Management CEO: Bitcoin is more mobile and resilient than gold](https://www.youtube.com/watch?v=_dzH-58yi0k)**
-
-Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital Management, says Bitcoin is emerging as a ...
-
-📺 CNBC Television
-
-👁️ 11K • 👍 124 • 💬 99 • ⏱️ 4:26 • 19h ago
-
----
-
 **[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
 
 GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 176 • ⏱️ 9:54 • 10h ago
+👁️ 36K • 👍 2K • 💬 182 • ⏱️ 9:54 • 11h ago
 
 ---
 
@@ -331,17 +323,7 @@ The global fiat system is flashing red as 20 million barrels of oil vanish offli
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 116 • ⏱️ 18:57 • 9h ago
-
----
-
-**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
-
-Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
-
-📺 Swan Bitcoin
-
-👁️ 10K • 👍 316 • 💬 138 • ⏱️ 10:35 • 14h ago
+👁️ 15K • 👍 1K • 💬 114 • ⏱️ 18:57 • 10h ago
 
 ---
 
@@ -351,7 +333,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 11K • 👍 828 • 💬 400 • ⏱️ 10:02 • 12h ago
+👁️ 12K • 👍 866 • 💬 354 • ⏱️ 10:02 • 13h ago
 
 ---
 
@@ -361,27 +343,37 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 81K • 👍 5K • 💬 320 • ⏱️ 11:22 • 1d ago
+👁️ 83K • 👍 5K • 💬 323 • ⏱️ 11:22 • 1d ago
 
 ---
 
-**[Is The U.S. Government CRASHING Bitcoin?](https://www.youtube.com/watch?v=05qgjtK0ls0)**
+**[Professional Capital Management CEO: Bitcoin is more mobile and resilient than gold](https://www.youtube.com/watch?v=_dzH-58yi0k)**
 
-Bitcoin keeps crashing right after major US government announcements. Coincidence or something bigger? Massive Bitcoin ...
+Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital Management, says Bitcoin is emerging as a ...
 
-📺 Simply Bitcoin
+📺 CNBC Television
 
-👁️ 26K • 👍 2K • 💬 218 • ⏱️ 14:03 • 1d ago
+👁️ 11K • 👍 127 • 💬 100 • ⏱️ 4:26 • 20h ago
 
 ---
 
-**[War Fears Rising…Bitcoin Won’t Break](https://www.youtube.com/watch?v=GQ5cs7FwBSU)**
+**[Lyn Alden Just Dropped A Serious Bitcoin Warning That No One Was Expecting (2026 Prediction)](https://www.youtube.com/watch?v=UHvhPF2xy2o)**
 
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+Lyn Alden just explained WHY this cycle has been so DIFFERENT — and why we won't see an 85% drawdown this time. KEY ...
 
-📺 CryptosRUs
+📺 Money Talks
 
-👁️ 18K • 👍 1K • 💬 344 • ⏱️ 35:05 • 18h ago
+👁️ 1K • 👍 45 • 💬 84 • ⏱️ 17:32 • 13h ago
+
+---
+
+**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
+
+Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
+
+📺 Swan Bitcoin
+
+👁️ 11K • 👍 321 • 💬 141 • ⏱️ 10:35 • 15h ago
 
 ---
 
@@ -391,17 +383,27 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 3K • 💬 332 • ⏱️ 10:01 • 1d ago
+👁️ 38K • 👍 3K • 💬 336 • ⏱️ 10:01 • 1d ago
 
 ---
 
-**[MASSIVE Bitcoin Buying Opportunity RIGHT NOW! Bitcoin RALLYING As Stocks CRASH!](https://www.youtube.com/watch?v=Kn3tTy_YOuQ)**
+**[XRP BITCOIN 🚨CRITICAL UPLOAD (Know This BEFORE Tomorrow)](https://www.youtube.com/watch?v=HP-FW6c8gCw)**
 
-Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you fund your account!
+1️⃣ *Join Moe's Discord Code BREAD save 30%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Get Moe's Indicator ...
 
-📺 Crypto Jebb
+📺 Stock Moe
 
-👁️ 4K • 👍 218 • 💬 143 • ⏱️ 8:35 • 14h ago
+👁️ 14K • 👍 858 • 💬 133 • ⏱️ 14:54 • 8h ago
+
+---
+
+**[War Fears Rising…Bitcoin Won’t Break](https://www.youtube.com/watch?v=GQ5cs7FwBSU)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 1K • 💬 328 • ⏱️ 35:05 • 19h ago
 
 ---
 
