@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T06:52:53.741490+00:00'
+updated: '2026-03-10T07:41:13.650497+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 06:52 UTC  
+**Last Updated:** March 10, 2026 at 07:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Or else I’ll start throwing things
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ Or else I’ll start throwing things
 
 This is why we BITCOIN. More of this to come?
 
-13h ago
+14h ago
 
 ---
 
@@ -97,7 +97,7 @@ This is why we BITCOIN. More of this to come?
 
 I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
 
-13h ago
+14h ago
 
 ---
 
@@ -143,13 +143,13 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 **[On The Same Day the 20,000,000th Bitcoin is Mined - A Cypherpunk's Manifesto Turns 33](https://www.reddit.com/r/Bitcoin/comments/1rp6voh/on_the_same_day_the_20000000th_bitcoin_is_mined_a/)**
 
-🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 13h ago
+🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 14h ago
 
 ---
 
 **[Don't Forget What The Canadian Government Did DURY PEACE TIME to Your Bank Accounts - Bitcoin Protects You](https://www.reddit.com/r/Bitcoin/comments/1rp9uhe/dont_forget_what_the_canadian_government_did_dury/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -161,7 +161,7 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 The final 1 million BTC will take over a century to mine, with the last fractions, measured in satoshis, expected to be issued around 2140.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 17h ago
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 8h ago
 
 Reform UK leader invests £215,000 in Stack Bitcoin
 
-Financial Times • 22h ago
+Financial Times • 23h ago
 
 ---
 
@@ -189,7 +189,7 @@ Reuters • 20h ago
 
 **[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
 
-Bloomberg • 38m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg • 38m ago
 
 Oil’s sharp swing and renewed Bitcoin ETF inflows highlight a fragile rebound as on-chain data suggest crypto market stress may be easing.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -205,7 +205,7 @@ Yahoo Finance • 5h ago
 
 Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -221,7 +221,7 @@ CoinDesk • 2h ago
 
 The Himalayan kingdom moved another 175 BTC on Monday, continuing a drawdown that has taken its holdings from a peak of roughly 13,000 BTC to under 5,400 in just over a year.
 
-CoinDesk • 53m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -229,7 +229,7 @@ CoinDesk • 53m ago
 
 The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -241,7 +241,7 @@ Fortune • 11h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 14h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 15h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -299,7 +299,7 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 32m ago
+⬆️ 1 • 💬 0 • 1h ago
 
 ---
 
@@ -313,7 +313,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 11K • 👍 124 • 💬 99 • ⏱️ 4:26 • 17h ago
+👁️ 11K • 👍 124 • 💬 99 • ⏱️ 4:26 • 18h ago
 
 ---
 
@@ -323,7 +323,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 176 • ⏱️ 9:54 • 8h ago
+👁️ 29K • 👍 2K • 💬 176 • ⏱️ 9:54 • 9h ago
 
 ---
 
@@ -333,7 +333,7 @@ The global fiat system is flashing red as 20 million barrels of oil vanish offli
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 116 • ⏱️ 18:57 • 7h ago
+👁️ 13K • 👍 1K • 💬 116 • ⏱️ 18:57 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ Did Bitcoin already put in the bottom, or is this just the start of a longer gri
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 316 • 💬 138 • ⏱️ 10:35 • 12h ago
+👁️ 10K • 👍 316 • 💬 138 • ⏱️ 10:35 • 13h ago
 
 ---
 
@@ -353,7 +353,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 11K • 👍 828 • 💬 400 • ⏱️ 10:02 • 10h ago
+👁️ 11K • 👍 828 • 💬 400 • ⏱️ 10:02 • 11h ago
 
 ---
 
@@ -383,7 +383,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 344 • ⏱️ 35:05 • 16h ago
+👁️ 18K • 👍 1K • 💬 344 • ⏱️ 35:05 • 17h ago
 
 ---
 
@@ -403,7 +403,7 @@ Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 218 • 💬 143 • ⏱️ 8:35 • 12h ago
+👁️ 4K • 👍 218 • 💬 143 • ⏱️ 8:35 • 13h ago
 
 ---
 

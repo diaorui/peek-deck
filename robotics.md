@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T06:52:53.750754+00:00'
+updated: '2026-03-10T07:41:13.659586+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 06:52 UTC  
+**Last Updated:** March 10, 2026 at 07:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,7 +54,7 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -68,7 +68,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 **[Drone simulation with guitar tabs control](https://www.reddit.com/r/robotics/comments/1rpo5lu/drone_simulation_with_guitar_tabs_control/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -76,7 +76,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-14h ago
+15h ago
 
 ---
 
@@ -84,13 +84,13 @@ I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIO
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-22h ago
+23h ago
 
 ---
 
 **[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -110,13 +110,13 @@ The problem: AI agents (LLMs, planning systems) are increasingly controlling rob
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 14h ago
+TechCrunch • 15h ago
 
 ---
 
 **[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
 
-ABB • 14h ago
+ABB • 15h ago
 
 ---
 
@@ -140,7 +140,7 @@ Fortune • 2d ago
 
 OpenAI hardware leader Caitlin Kalinowski has resigned after the company’s Pentagon AI deal, citing concerns over surveillance, autonomy, and governance.
 
-eWeek • 5h ago
+eWeek • 6h ago
 
 ---
 
@@ -148,7 +148,7 @@ eWeek • 5h ago
 
 Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
 
-Folsom Times • 4h ago
+Folsom Times • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ Bloomberg • 1d ago
 
 Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
 
-GeekWire • 16h ago
+GeekWire • 17h ago
 
 ---
 
@@ -170,7 +170,7 @@ GeekWire • 16h ago
 
 Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
@@ -178,7 +178,7 @@ Financial Times • 17h ago
 
 Qualcomm, which purchased microcontroller board manufacturer Arduino last year, just announced a new computer that marries AI with robotics.
 
-Engadget • 19h ago
+Engadget • 20h ago
 
 ---
 
@@ -232,7 +232,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 895 • 👍 36 • 💬 3 • ⏱️ 3:48 • 11h ago
+👁️ 895 • 👍 36 • 💬 3 • ⏱️ 3:48 • 12h ago
 
 ---
 
@@ -242,7 +242,7 @@ A senior executive at OpenAI has resigned over the company's decision to make it
 
 📺 NPR
 
-👁️ 7K • 👍 1K • 💬 25 • ⏱️ 1:06 • 14h ago
+👁️ 7K • 👍 1K • 💬 25 • ⏱️ 1:06 • 15h ago
 
 ---
 
@@ -272,7 +272,7 @@ New Trading Bot: https://bit.ly/pocket-option-quant Join Team: https://bit.ly/nt
 
 📺 Ntrade | Pro Trade
 
-👁️ 16K • 👍 510 • 💬 14 • ⏱️ 7:08 • 18h ago
+👁️ 16K • 👍 510 • 💬 14 • ⏱️ 7:08 • 19h ago
 
 ---
 
