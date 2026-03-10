@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-10T20:36:02.574540+00:00'
+updated: '2026-03-10T21:30:09.951834+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 20:36 UTC  
+**Last Updated:** March 10, 2026 at 21:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
 
-17m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ I was recently auditing some smart contracts for a side project, and it struck m
 
 Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, deployed a contract in April 2016 that let you "grind unicorns into meat" on-chain. The experiment became the Unicorn Meat token (w🍖) — deployed when ERC-20 was barely a draft standard, when the entire Ethereum dev community could fit in one room. Why it matters historically: - Deployed April 2016, pre-TheDAO hack - One of the earliest ERC-20 compliant tokens - Created by a core Ethereum Foundation member for fun, not profit - The contract is still live and the token still trades Original contract: https://etherscan.io/address/0xd234bf2410a0009df9c3c63b610c09738f18ccd7 The community archive: https://unicornmeat.wtf These early experiments are Ethereum heritage. Worth preserving.
 
-6h ago
+7h ago
 
 ---
 
@@ -96,19 +96,19 @@ Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, depl
 
 Bitmine Immersion Technologies (BMNR) is expanding beyond its origins as a Bitcoin miner to consolidate as the world's largest corporate holder of Ether (ETH). : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 8h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 9h ago
 
 ---
 
 **[What do you think of the IoTeX 2026 Anti-Roadmap approach? 🧐](https://www.reddit.com/r/ethereum/comments/1rq6zrn/what_do_you_think_of_the_iotex_2026_antiroadmap/)**
 
-58m ago
+1h ago
 
 ---
 
 **[Starknet proposes STRK20 — private ERC-20 tokens on Ethereum L2](https://www.reddit.com/r/ethereum/comments/1rq2jwl/starknet_proposes_strk20_private_erc20_tokens_on/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -118,7 +118,7 @@ Summary
 ⚠️ Lighthouse v8.1.2 is a high-priority patch release with further security-critical fixes atop v8.1.1.
 This is a mandatory upgrade for all users running any prior version. All prior Lighth...
 
-🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 20h ago
+🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 21h ago
 
 ---
 
@@ -154,7 +154,7 @@ In September 2015, six weeks after mainnet launch, someone deployed three contra
 
 Meanwhile, more than half of XRP’s total supply is sitting at a loss....
 
-Sherwood News • 4h ago
+Sherwood News • 5h ago
 
 ---
 
@@ -184,7 +184,7 @@ PR Newswire • 1d ago
 
 Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -206,7 +206,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqc-qEs_W4D_NIbJ1PwEjRBs-aqRZyL1Y0HKTNntHYFpuZYeEPHa0Ivv&gaa_ts=69b08421&gaa_sig=rizpVvFnVB05zd6QkH9D15VZTY9_IKpmMap2OPioJtN3oDtVNhkfzhofVX0kJ9O4GxuDj9mgRdtM-EmsebDzXQ%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -234,7 +234,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 27K • 👍 2K • 💬 161 • ⏱️ 21:43 • 6h ago
+👁️ 27K • 👍 2K • 💬 161 • ⏱️ 21:43 • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 228 • ⏱️ 9:54 • 22h ago
+👁️ 49K • 👍 3K • 💬 228 • ⏱️ 9:54 • 23h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 104 • 💬 3 • ⏱️ 5:14 • 4h ago
+👁️ 1K • 👍 104 • 💬 3 • ⏱️ 5:14 • 5h ago
 
 ---
 
@@ -274,7 +274,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 7K • 👍 297 • 💬 42 • ⏱️ 18:25 • 20h ago
+👁️ 7K • 👍 297 • 💬 42 • ⏱️ 18:25 • 21h ago
 
 ---
 
@@ -304,7 +304,7 @@ BITCOIN Y ETHEREUM PODRÍAN QUEDARSE FUERA (LA CONVERGENCIA ISO 20022) Durante d
 
 📺 Negocios & Poder
 
-👁️ 124 • 👍 38 • 💬 18 • ⏱️ 10:05 • 1h ago
+👁️ 124 • 👍 38 • 💬 18 • ⏱️ 10:05 • 2h ago
 
 ---
 
@@ -314,7 +314,7 @@ BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 258 • 💬 345 • ⏱️ 14:42 • 22h ago
+👁️ 7K • 👍 258 • 💬 345 • ⏱️ 14:42 • 23h ago
 
 ---
 

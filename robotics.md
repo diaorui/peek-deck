@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T20:36:02.577907+00:00'
+updated: '2026-03-10T21:30:09.955030+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 20:36 UTC  
+**Last Updated:** March 10, 2026 at 21:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineering for Disneyland theme parks. Inspiration for walking movements was taken from the waddle of a duck, creating a stable walk while still keeping the appearance fun, as with Star Wars droids.
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,19 +52,19 @@ Look at this interesting robotic grasping project, accomplished with the assista
 
 I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
 
-11h ago
+12h ago
 
 ---
 
 **[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Figure's Helix 2 - Full Body Autonomy Video](https://www.reddit.com/r/robotics/comments/1rq45b6/figures_helix_2_full_body_autonomy_video/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-12h ago
+13h ago
 
 ---
 
@@ -110,7 +110,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -124,7 +124,7 @@ ABB • 1d ago
 
 Teradyne Robotics has “irrefutable evidence” of Chinese robot company  Elite  Robots for copyright infringement of Universal Robots’ software.
 
-The Robot Report • 57m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Robot Report • 57m ago
 
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
-NPR • 1d ago
+NPR • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Reuters • 2d ago
 
 The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
 
-WGAL • 7h ago
+WGAL • 8h ago
 
 ---
 
@@ -162,7 +162,7 @@ WGAL • 7h ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 23h ago
 
 Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
 
-Folsom Times • 18h ago
+Folsom Times • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ War Robots Gameplay: Bash Boom Pow Nerf in WR - My perspective My War Robots Cre
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 375 • 💬 97 • ⏱️ 18:26 • 5h ago
+👁️ 5K • 👍 375 • 💬 97 • ⏱️ 18:26 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ War Robots Gameplay: Bash Boom Pow Nerf in WR - My perspective My War Robots Cre
 
 📺 BBC News
 
-👁️ 1K • 👍 34 • 💬 4 • ⏱️ 0:49 • 51m ago
+👁️ 1K • 👍 34 • 💬 4 • ⏱️ 0:49 • 1h ago
 
 ---
 

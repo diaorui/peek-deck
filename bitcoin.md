@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T20:36:02.568345+00:00'
+updated: '2026-03-10T21:30:09.945799+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 20:36 UTC  
+**Last Updated:** March 10, 2026 at 21:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 1h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 2h ago
 
 ---
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -109,7 +109,7 @@ This is why we BITCOIN. More of this to come?
 
 The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 7h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 8h ago
 
 ---
 
@@ -117,7 +117,7 @@ The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the
 
 Need advice from Bitcoin community about a 2012 wallet recovery. My client has a Bitcoin address from July 2012. We have a 12 word seed and the password, but nothing works. All 12 words exist in both the Blockchainwalletv3 list and the BIP39 list, and no word is missing. But when we try to recover it on the Blockchain.info recovery page or other tools, it always says invalid seed phrase. We also tried several recovery tools from GitHub including btcrecover: https://github.com/gurnec/btcrecover https://github.com/3rdIteration/btcrecover But still no success. The confusing part is that some sources say 12 word seed was very rare in 2012, and some say it did not exist at that time and only wallet identifier, password and wallet json were used. Because of this we are thinking maybe my client misunderstood something about the seed, but the 12 words look valid and match the word lists. Right now we are only trying seed shuffle and some brute force tests, but honestly we almost lost hope. If anyone from the community has any idea, suggestion, or experience with old 2012 Blockchain wallets, please share. Maybe there is something we are missing. Thank you.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Need advice from Bitcoin community about a 2012 wallet recovery. My client has a
 
 Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ Hey everyone, Curious to hear from founders or operators who have added crypto p
 
 What thought you are having on this above question.
 
-9h ago
+10h ago
 
 ---
 
@@ -141,7 +141,7 @@ What thought you are having on this above question.
 
 I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
 
-19h ago
+20h ago
 
 ---
 
@@ -149,7 +149,7 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 OP_NET is a consensus layer on Bitcoin Layer 1 enabling fully expressive smart contracts, DeFi, and post-quantum security directly on Bitcoin. No sidechains. No bridges. BTC is gas. Mainnet launches March 17, 2026.
 
-🔗 [opnet.org](https://opnet.org) • 2h ago
+🔗 [opnet.org](https://opnet.org) • 3h ago
 
 ---
 
@@ -161,7 +161,7 @@ OP_NET is a consensus layer on Bitcoin Layer 1 enabling fully expressive smart c
 
 The Winklevoss twins moved $130 million in bitcoin to Gemini hot wallets while still holding $764 million worth of BTC, per Arkham.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -183,7 +183,7 @@ Fortune • 1d ago
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bloomberg.com • 1d ago
 
 **[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 11h ago
 
 Oil’s sharp swing and renewed Bitcoin ETF inflows highlight a fragile rebound as on-chain data suggest crypto market stress may be easing.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 19h ago
 
 Glassnode data shows strong demand during bitcoin’s recent correction, with 200,00 BTC purchased over the past two weeks.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -227,7 +227,7 @@ Bitcoin Magazine • 1d ago
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
@@ -239,7 +239,7 @@ The Guardian • 22h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 8 • 💬 0 • 1h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 8 • 💬 0 • 2h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -277,7 +277,7 @@ Complete operating system for Bitcoiners
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 7h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 8h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -299,7 +299,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 14h ago
+⬆️ 1 • 💬 0 • 15h ago
 
 ---
 
@@ -313,7 +313,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 228 • ⏱️ 9:54 • 22h ago
+👁️ 49K • 👍 3K • 💬 228 • ⏱️ 9:54 • 23h ago
 
 ---
 
@@ -333,7 +333,7 @@ Despite rising geopolitical tensions and massive volatility in oil markets, Bitc
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 17 • ⏱️ 24:07 • 6h ago
+👁️ 13K • 👍 1K • 💬 17 • ⏱️ 24:07 • 7h ago
 
 ---
 
@@ -393,7 +393,7 @@ This video examines the "Bitcoin Gamble," questioning its legality and business 
 
 📺 Redhawk Media Group
 
-👁️ 883 • 👍 11 • 💬 1 • ⏱️ 1:40 • 23h ago
+👁️ 883 • 👍 11 • 💬 1 • ⏱️ 1:40 • 1d ago
 
 ---
 
