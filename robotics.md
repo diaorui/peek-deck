@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T04:21:15.140556+00:00'
+updated: '2026-03-10T05:32:37.699301+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 04:21 UTC  
+**Last Updated:** March 10, 2026 at 05:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,11 +36,23 @@ Robotics research and industry news
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-17h ago
+18h ago
 
 ---
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
+
+12h ago
+
+---
+
+**[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
+
+8h ago
+
+---
+
+**[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
 11h ago
 
@@ -54,15 +66,9 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 ---
 
-**[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
+**[Drone simulation with guitar tabs control](https://www.reddit.com/r/robotics/comments/1rpo5lu/drone_simulation_with_guitar_tabs_control/)**
 
-10h ago
-
----
-
-**[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
-
-7h ago
+18m ago
 
 ---
 
@@ -70,7 +76,13 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-12h ago
+13h ago
+
+---
+
+**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
+
+13h ago
 
 ---
 
@@ -78,13 +90,7 @@ I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIO
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-20h ago
-
----
-
-**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
-
-11h ago
+21h ago
 
 ---
 
@@ -96,14 +102,6 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 ---
 
-**[New Arduino VENTUNO Q, 16GB RAM, Qualcomm 8 core, 40 TOPs](https://www.reddit.com/r/robotics/comments/1rowlcy/new_arduino_ventuno_q_16gb_ram_qualcomm_8_core_40/)**
-
-USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu, pretty cool tbh. For more Advanced robotics projects this is ideal. https://www.arduino.cc/product-ventuno-q/
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=SzT6vDtz6rU) • 17h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -112,13 +110,13 @@ USB PD power M.2 expansion slot (Gen 4???) 16GB RAM Wifi 6 STM32H5F5 Runs Ubuntu
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 12h ago
+TechCrunch • 13h ago
 
 ---
 
 **[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
 
-ABB • 11h ago
+ABB • 13h ago
 
 ---
 
@@ -130,23 +128,33 @@ NPR • 1d ago
 
 ---
 
-**[OpenAI hardware leader resigns after deal with Pentagon](https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/)**
+**[OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract](https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/)**
 
-Reuters • 2d ago
+A senior OpenAI robotics leader says she left over concerns about surveillance and autonomous weapons as the company expands its work with the Pentagon.
+
+Fortune • 2d ago
 
 ---
 
-**[OpenAI robotics head quits over military deal concerns](https://sfstandard.com/2026/03/07/openai-robotics-head-quits-military-deal-concerns/)**
+**[OpenAI Robotics Leader Resigns, Says Ethical ‘Lines’ Were Crossed in Pentagon Deal](https://www.eweek.com/news/openai-robotics-chief-resigns-pentagon-ai-deal/)**
 
-Caitlin Kalinowski, OpenAI’s head of robotics, resigned over the company’s new Pentagon deal — saying decisions about surveillance of Americans and lethal autonomy “deserved more deliberation than they got.”
+OpenAI hardware leader Caitlin Kalinowski has resigned after the company’s Pentagon AI deal, citing concerns over surveillance, autonomy, and governance.
 
-The San Francisco Standard • 2d ago
+eWeek • 3h ago
+
+---
+
+**[Folsom Robotics Team Earns Think Award, Advances To World Championship](https://folsomtimes.com/folsom-robotics-team-earns-think-award-advances-to-world-championship/)**
+
+Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
+
+Folsom Times • 3h ago
 
 ---
 
 **[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
@@ -154,15 +162,7 @@ Bloomberg.com • 1d ago
 
 Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
 
-GeekWire • 13h ago
-
----
-
-**[Qualcomm's new Arduino Ventuno Q is an AI-focused computer designed for robotics](https://www.engadget.com/ai/qualcomms-new-arduino-ventuno-q-is-an-ai-focused-computer-designed-for-robotics-113047697.html)**
-
-Qualcomm, which purchased microcontroller board manufacturer Arduino last year, just announced a new computer that marries AI with robotics.
-
-Engadget • 16h ago
+GeekWire • 14h ago
 
 ---
 
@@ -170,15 +170,15 @@ Engadget • 16h ago
 
 Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
 
-Financial Times • 14h ago
+Financial Times • 16h ago
 
 ---
 
-**[Underwater robotic fin uses a soft touch for a huge boost in stability](https://newatlas.com/robotics/soft-robotic-underwater-fin-stability/)**
+**[Qualcomm's new Arduino Ventuno Q is an AI-focused computer designed for robotics](https://www.engadget.com/ai/qualcomms-new-arduino-ventuno-q-is-an-ai-focused-computer-designed-for-robotics-113047697.html)**
 
-If someone asked you to move like a robot and you responded with the fluid art of ballet, your audience would be baffled, yet technically, you would be right. Robots are famous for their characteristic rigid movement, which is useful in some applications but can hinder adaptability. Now,…
+Qualcomm, which purchased microcontroller board manufacturer Arduino last year, just announced a new computer that marries AI with robotics.
 
-New Atlas • 8h ago
+Engadget • 18h ago
 
 ---
 
@@ -222,7 +222,7 @@ A senior executive at OpenAI has resigned over the company's decision to make it
 
 📺 NPR
 
-👁️ 6K • 👍 911 • 💬 22 • ⏱️ 1:06 • 11h ago
+👁️ 6K • 👍 911 • 💬 22 • ⏱️ 1:06 • 13h ago
 
 ---
 
@@ -252,7 +252,7 @@ New Trading Bot: https://bit.ly/pocket-option-quant Join Team: https://bit.ly/nt
 
 📺 Ntrade | Pro Trade
 
-👁️ 16K • 👍 510 • 💬 14 • ⏱️ 7:08 • 16h ago
+👁️ 16K • 👍 510 • 💬 14 • ⏱️ 7:08 • 17h ago
 
 ---
 
@@ -260,7 +260,7 @@ New Trading Bot: https://bit.ly/pocket-option-quant Join Team: https://bit.ly/nt
 
 📺 Robot Julie 
 
-👁️ 942 • 👍 2 • ⏱️ 0:22 • 3h ago
+👁️ 942 • 👍 2 • ⏱️ 0:22 • 4h ago
 
 ---
 
