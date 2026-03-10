@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T05:32:37.699301+00:00'
+updated: '2026-03-10T06:52:53.750754+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 05:32 UTC  
+**Last Updated:** March 10, 2026 at 06:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,29 +32,29 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[A wearable Centaur robot for load-carriage walking assistance (Paper)](https://www.reddit.com/r/robotics/comments/1rowx4j/a_wearable_centaur_robot_for_loadcarriage_walking/)**
+**[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
-
-18h ago
+10h ago
 
 ---
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
 
-12h ago
+14h ago
 
 ---
 
-**[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
+**[A wearable Centaur robot for load-carriage walking assistance (Paper)](https://www.reddit.com/r/robotics/comments/1rowx4j/a_wearable_centaur_robot_for_loadcarriage_walking/)**
 
-8h ago
+Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
+
+20h ago
 
 ---
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -68,7 +68,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 **[Drone simulation with guitar tabs control](https://www.reddit.com/r/robotics/comments/1rpo5lu/drone_simulation_with_guitar_tabs_control/)**
 
-18m ago
+1h ago
 
 ---
 
@@ -76,13 +76,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
 
-13h ago
-
----
-
-**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
-
-13h ago
+14h ago
 
 ---
 
@@ -90,15 +84,21 @@ I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIO
 
 (Sorry, updated to a better video) The awkward walking gait (and the wrong direction, lol) so far is the simplest 2-phase gait Gemini threw at me, but I am so happy it walks at all! Which next steps do you think I should take first? What I have in mind so far are fine-tunning the gait and adding more gaits manually, adding a control, adding a lidar, designing a PCB for better power management, or directly trying to port it to Isaac Sim? Of course, I will need to put some adhesive on the legs first and study the response mechanisms (effort) offered by these DYNAMIXEL motors. But any recommendations will be appreciated! https://github.com/SphericalCowww/ROS_leggedRobot_testBed
 
-21h ago
+22h ago
 
 ---
 
-**[Peak Engineering: Using $20k in industrial arm just to pull a piano.](https://www.reddit.com/r/robotics/comments/1ro96ee/peak_engineering_using_20k_in_industrial_arm_just/)**
+**[New Figure demo of Helix 02 autonomously cleaning a living room](https://www.reddit.com/r/robotics/comments/1rp4tdn/new_figure_demo_of_helix_02_autonomously_cleaning/)**
 
-Saw this installation called Tug of Memories by TASKO. It’s just one industrial arm playing a piano using a bunch of tension cables and pulleys. It’s a total nightmare of pinch points and over-engineering, but seeing it move is actually pretty satisfying. Zero practical use, 10/10 for the "because we can" factor.
+14h ago
 
-1d ago
+---
+
+**[How do you enforce safety constraints when AI agents control your robots? Built an open-source solution](https://www.reddit.com/r/robotics/comments/1rpos25/how_do_you_enforce_safety_constraints_when_ai/)**
+
+The problem: AI agents (LLMs, planning systems) are increasingly controlling robotic systems. But LLMs hallucinate. They suggest unsafe velocities. Theyskip state transitions. They ignore joint limits. You need a layer between the AI and the actuators that enforces hard constraints — not suggestions, actual blocks. Built SpecLock's typed constraint system for exactly this: - Numerical: motor_speed <= 3000 RPM - Range: temperature must stay between 20-80°C - State: never go from EMERGENCY_STOP → AUTONOMOUS (requires manual review) - Temporal: sensor heartbeat must occur every ≤100ms Every violation is logged to a tamper-proof HMAC-SHA256 audit chain. You can't silently override a safety limit — it's recorded. Open source (MIT), works as a ROS2 node or standalone. Also has a Python SDK: pip install speclock-sdk What safety enforcement patterns are you using in your projects?
+
+1h ago
 
 ---
 
@@ -110,13 +110,13 @@ Saw this installation called Tug of Memories by TASKO. It’s just one industria
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
 **[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
 
-ABB • 13h ago
+ABB • 14h ago
 
 ---
 
@@ -140,7 +140,7 @@ Fortune • 2d ago
 
 OpenAI hardware leader Caitlin Kalinowski has resigned after the company’s Pentagon AI deal, citing concerns over surveillance, autonomy, and governance.
 
-eWeek • 3h ago
+eWeek • 5h ago
 
 ---
 
@@ -148,7 +148,7 @@ eWeek • 3h ago
 
 Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
 
-Folsom Times • 3h ago
+Folsom Times • 4h ago
 
 ---
 
@@ -162,7 +162,7 @@ Bloomberg • 1d ago
 
 Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
 
-GeekWire • 14h ago
+GeekWire • 16h ago
 
 ---
 
@@ -170,7 +170,7 @@ GeekWire • 14h ago
 
 Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Financial Times • 16h ago
 
 Qualcomm, which purchased microcontroller board manufacturer Arduino last year, just announced a new computer that marries AI with robotics.
 
-Engadget • 18h ago
+Engadget • 19h ago
 
 ---
 
@@ -192,7 +192,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 705K • 👍 42K • 💬 5K • ⏱️ 16:54 • 6d ago
+👁️ 712K • 👍 42K • 💬 5K • ⏱️ 16:54 • 6d ago
 
 ---
 
@@ -202,7 +202,17 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 90 • ⏱️ 14:51 • 1d ago
+👁️ 52K • 👍 1K • 💬 91 • ⏱️ 14:51 • 1d ago
+
+---
+
+**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
+
+In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
+
+📺 Tech Talkies
+
+👁️ 15K • 👍 570 • 💬 46 • ⏱️ 4:51 • 2d ago
 
 ---
 
@@ -212,7 +222,17 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 23K • 👍 804 • 💬 61 • ⏱️ 14:35 • 5d ago
+👁️ 23K • 👍 805 • 💬 61 • ⏱️ 14:35 • 5d ago
+
+---
+
+**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
+
+A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
+
+📺 DPCcars
+
+👁️ 895 • 👍 36 • 💬 3 • ⏱️ 3:48 • 11h ago
 
 ---
 
@@ -222,7 +242,7 @@ A senior executive at OpenAI has resigned over the company's decision to make it
 
 📺 NPR
 
-👁️ 6K • 👍 911 • 💬 22 • ⏱️ 1:06 • 13h ago
+👁️ 7K • 👍 1K • 💬 25 • ⏱️ 1:06 • 14h ago
 
 ---
 
@@ -232,7 +252,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 233K • 👍 3K • 💬 341 • ⏱️ 29:41 • 4d ago
+👁️ 236K • 👍 3K • 💬 343 • ⏱️ 29:41 • 4d ago
 
 ---
 
@@ -252,35 +272,17 @@ New Trading Bot: https://bit.ly/pocket-option-quant Join Team: https://bit.ly/nt
 
 📺 Ntrade | Pro Trade
 
-👁️ 16K • 👍 510 • 💬 14 • ⏱️ 7:08 • 17h ago
+👁️ 16K • 👍 510 • 💬 14 • ⏱️ 7:08 • 18h ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=z23S3kKcl64)**
+**[Prime Time CRAZY Robot Fighting! Round 2 of NHRL&#39;s 2026 Pro World Championships (March)](https://www.youtube.com/watch?v=-x5Fzq4Hig0)**
 
-📺 Robot Julie 
-
-👁️ 942 • 👍 2 • ⏱️ 0:22 • 4h ago
-
----
-
-**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
-
-A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
-
-📺 Billionaire Shots
-
-👁️ 38K • 👍 2K • 💬 283 • ⏱️ 0:13 • 6d ago
-
----
-
-**[Non-Stop INSANE Robot Fighting Action: Round 2 of NHRL&#39;s 2026 Pro World Championship KO Show (March)](https://www.youtube.com/watch?v=7tQ5Gyr3SYE)**
-
-Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is here: https://youtube.com/live/-x5Fzq4Hig0 ...
+The 2026 NHRL Pro World Championship Season is HERE! This is Round 2. This. Is. Prime Time! We are down to the final 8 bots ...
 
 📺 NHRL
 
-👁️ 79K • 👍 379 • 💬 18 • ⏱️ 3:35:12 • 2d ago
+👁️ 44K • 👍 491 • 💬 49 • ⏱️ 3:23:56 • 2d ago
 
 ---
 

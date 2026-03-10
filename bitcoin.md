@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T05:32:37.682805+00:00'
+updated: '2026-03-10T06:52:53.741490+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 05:32 UTC  
+**Last Updated:** March 10, 2026 at 06:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +4.2%  
-**7d:** -3.7%  
-**30d:** -0.1%  
-**90d:** -24.3%  
-**1y:** -15.3%  
+**24h:** +3.5%  
+**7d:** -3.8%  
+**30d:** -0.2%  
+**90d:** -24.5%  
+**1y:** -15.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1393.30B
+**Market Cap:** $1399.09B
 Rank #1
 
-**Circulating Supply:** 20,000,162 BTC
+**Circulating Supply:** 20,000,203 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.8%
+-44.5%
 
 **All-Time Low:** $67.81
-+102619.4%
++103100.1%
 
 ---
 
@@ -81,14 +81,6 @@ Rank #1
 
 Or else I’ll start throwing things
 
-10h ago
-
----
-
-**[Why I feel extremly bullish rn](https://www.reddit.com/r/Bitcoin/comments/1rp6uwc/why_i_feel_extremly_bullish_rn/)**
-
-The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
-
 11h ago
 
 ---
@@ -97,7 +89,7 @@ The next halving is getting closer every day (people will start front-running so
 
 This is why we BITCOIN. More of this to come?
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +97,7 @@ This is why we BITCOIN. More of this to come?
 
 I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +105,7 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 20 millionth bitcoin was just mined
 
-15h ago
+17h ago
 
 ---
 
@@ -121,7 +113,15 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
 
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 15h ago
+🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 17h ago
+
+---
+
+**[Why I feel extremly bullish rn](https://www.reddit.com/r/Bitcoin/comments/1rp6uwc/why_i_feel_extremly_bullish_rn/)**
+
+The next halving is getting closer every day (people will start front-running soon). In about two months, Powell will be removed from the Fed. Retail thinks Bitcoin will reach $35k-$50k. A huge amount of BTC has shifted from weak hands to large investors and institutions (who never sell). Those whith leverage or loans have already liquidated their positions. Bitcoin is becoming more accessible to banks and large institutions every day. Every day that passes with an asset of limited supply brings us closer to that moment when nobody wants to sell and there is enormous demand. The price increases will be massive.
+
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 8h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 10h ago
 
 ---
 
@@ -137,19 +137,19 @@ Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 m
 
 Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As of 3/8/2026, they hodl 738,731 BTC acquired for ~$56.04 billion at ~$75,862 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 15h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 17h ago
 
 ---
 
 **[On The Same Day the 20,000,000th Bitcoin is Mined - A Cypherpunk's Manifesto Turns 33](https://www.reddit.com/r/Bitcoin/comments/1rp6voh/on_the_same_day_the_20000000th_bitcoin_is_mined_a/)**
 
-🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 11h ago
+🔗 [activism.net](https://www.activism.net/cypherpunk/manifesto.html) • 13h ago
 
 ---
 
 **[Don't Forget What The Canadian Government Did DURY PEACE TIME to Your Bank Accounts - Bitcoin Protects You](https://www.reddit.com/r/Bitcoin/comments/1rp9uhe/dont_forget_what_the_canadian_government_did_dury/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -157,27 +157,11 @@ Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As 
 
 ## Google News: "bitcoin"
 
-**[Bhutan moves nearly $12 million in bitcoin as 2026 outflows pile up](https://www.theblock.co/post/392891/bhutan-moves-12-million-bitcoin-2026-outflows-pile-up)**
+**[Bitcoin's mined supply hits 20 million milestone, leaving final 1 million BTC to be issued over next 114 years](https://www.theblock.co/post/392660/bitcoin-mined-supply-hits-20-million-btc)**
 
-The recent moves are comparatively much smaller than when Bhutan moved over $60 million in bitcoin last July over the course of four days.
+The final 1 million BTC will take over a century to mine, with the last fractions, measured in satoshis, expected to be issued around 2140.
 
-The Block • 11h ago
-
----
-
-**[Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months](https://www.coindesk.com/markets/2026/03/09/bitcoin-could-be-the-big-winner-if-the-u-s-iran-conflict-drags-on-for-months)**
-
-Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
-
-CoinDesk • 13h ago
-
----
-
-**[When Will Bitcoin Bottom? Fidelity Macro Chief Says This Is The Metric To Watch](https://finance.yahoo.com/news/bitcoin-bottom-fidelity-macro-chief-174540450.html)**
-
-Market participants interested in knowing when Bitcoin will bottom should look at the gold-to-Bitcoin ratio, Fidelity Director of Global Macro Jurrien Timmer says. Timmer said on Feb. 27 Bitcoin should be evaluated by the gold-to-Bitcoin ratio, calling the digital asset...
-
-Yahoo Finance • 11h ago
+The Block • 17h ago
 
 ---
 
@@ -185,7 +169,7 @@ Yahoo Finance • 11h ago
 
 Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -193,45 +177,59 @@ The Guardian • 7h ago
 
 Reform UK leader invests £215,000 in Stack Bitcoin
 
-Financial Times • 21h ago
+Financial Times • 22h ago
 
 ---
 
 **[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
-Reuters • 18h ago
+Reuters • 20h ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-2)**
+**[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
 
-Key PointsHuge price drawdowns are nothing new to the Bitcoin community, and this crypto has always recovered in the past.
-
-Nasdaq • 1d ago
+Bloomberg • 38m ago
 
 ---
 
-**[3D printer that can mine Bitcoin uses excess heat for temperature control — throttled ASICs use printing bed as a heatsink](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)**
+**[Bitcoin Shows ‘Tentative Signs of Improvement’ as Iran Conflict Fears Wane](https://finance.yahoo.com/news/bitcoin-shows-tentative-signs-improvement-012136311.html)**
 
-Another product idea that harvests Bitcoin miner waste heat.
+Oil’s sharp swing and renewed Bitcoin ETF inflows highlight a fragile rebound as on-chain data suggest crypto market stress may be easing.
 
-Tom's Hardware • 17h ago
-
----
-
-**[Bitcoin Has A Golden Opportunity With AI Agents, It's Time To Build](https://bitcoinmagazine.com/technical/bitcoin-has-a-golden-opportunity-with-ai-agents-its-time-to-build)**
-
-Bitcoin finally has a real payments advantage in the world of agentic payments. We all have to pitch in to capitalize on it.
-
-Bitcoin Magazine • 8h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Zcash Outpaces Bitcoin Gains as Key Development Team Raises $25 Million](https://decrypt.co/360475/zcash-outpaces-bitcoin-gains-key-development-team-raises-25-million)**
+**[Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months](https://www.coindesk.com/markets/2026/03/09/bitcoin-could-be-the-big-winner-if-the-u-s-iran-conflict-drags-on-for-months)**
 
-Prominent privacy coin Zcash (ZEC) has jumped 7% over the last day as the Zcash Open Development Lab announced a $25 million fundraise.
+Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
 
-Decrypt • 9h ago
+CoinDesk • 14h ago
+
+---
+
+**[Bitcoin jumps past $70,000 as war volatility fades](https://www.coindesk.com/markets/2026/03/10/bitcoin-jumps-past-usd70-000-as-war-volatility-fades)**
+
+BTC rebounded from about $65,000 as crude oil retreated and institutional flows helped stabilize the market.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bhutan sells $42.5 Million of BTC in 2026 as national stack drops 58% from peak](https://www.coindesk.com/markets/2026/03/10/bhutan-s-bitcoin-stack-drops-below-5-400-btc-as-sovereign-seller-quietly-unloads-usd42-5-million-in-2026)**
+
+The Himalayan kingdom moved another 175 BTC on Monday, continuing a drawdown that has taken its holdings from a peak of roughly 13,000 BTC to under 5,400 in just over a year.
+
+CoinDesk • 53m ago
+
+---
+
+**[Strategy buys $1.3 billion of Bitcoin using mostly common stock](https://fortune.com/2026/03/09/michael-saylor-strategy-bitcoin-buy-common-stock/)**
+
+The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
+
+Fortune • 11h ago
 
 ---
 
@@ -243,7 +241,7 @@ Decrypt • 9h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 13h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 14h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -273,7 +271,7 @@ Complete operating system for Bitcoiners
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 14h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 16h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -299,19 +297,15 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 ---
 
+**[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
+
+⬆️ 1 • 💬 0 • 32m ago
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[The Biggest Oil SHOCK In History: $2 Trillion DUMPED Overnight! (Is Bitcoin Safe?)](https://www.youtube.com/watch?v=RRvglXdxjBc)**
-
-The global fiat system is flashing red as 20 million barrels of oil vanish offline, triggering the biggest oil supply shock in history and ...
-
-📺 Simply Bitcoin
-
-👁️ 9K • 👍 1K • 💬 106 • ⏱️ 18:57 • 6h ago
-
----
 
 **[Professional Capital Management CEO: Bitcoin is more mobile and resilient than gold](https://www.youtube.com/watch?v=_dzH-58yi0k)**
 
@@ -319,7 +313,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 10K • 👍 126 • 💬 88 • ⏱️ 4:26 • 16h ago
+👁️ 11K • 👍 124 • 💬 99 • ⏱️ 4:26 • 17h ago
 
 ---
 
@@ -329,7 +323,37 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 165 • ⏱️ 9:54 • 7h ago
+👁️ 29K • 👍 2K • 💬 176 • ⏱️ 9:54 • 8h ago
+
+---
+
+**[The Biggest Oil SHOCK In History: $2 Trillion DUMPED Overnight! (Is Bitcoin Safe?)](https://www.youtube.com/watch?v=RRvglXdxjBc)**
+
+The global fiat system is flashing red as 20 million barrels of oil vanish offline, triggering the biggest oil supply shock in history and ...
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 1K • 💬 116 • ⏱️ 18:57 • 7h ago
+
+---
+
+**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
+
+Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
+
+📺 Swan Bitcoin
+
+👁️ 10K • 👍 316 • 💬 138 • ⏱️ 10:35 • 12h ago
+
+---
+
+**[the most important video on bitcoin i will ever make....](https://www.youtube.com/watch?v=f-4Rs3Sqlhc)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 11K • 👍 828 • 💬 400 • ⏱️ 10:02 • 10h ago
 
 ---
 
@@ -339,7 +363,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 79K • 👍 5K • 💬 318 • ⏱️ 11:22 • 1d ago
+👁️ 81K • 👍 5K • 💬 320 • ⏱️ 11:22 • 1d ago
 
 ---
 
@@ -353,33 +377,13 @@ Bitcoin keeps crashing right after major US government announcements. Coincidenc
 
 ---
 
-**[MASSIVE Bitcoin Buying Opportunity RIGHT NOW! Bitcoin RALLYING As Stocks CRASH!](https://www.youtube.com/watch?v=Kn3tTy_YOuQ)**
-
-Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you fund your account!
-
-📺 Crypto Jebb
-
-👁️ 4K • 👍 213 • 💬 117 • ⏱️ 8:35 • 11h ago
-
----
-
-**[the most important video on bitcoin i will ever make....](https://www.youtube.com/watch?v=f-4Rs3Sqlhc)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 10K • 👍 778 • 💬 291 • ⏱️ 10:02 • 9h ago
-
----
-
 **[War Fears Rising…Bitcoin Won’t Break](https://www.youtube.com/watch?v=GQ5cs7FwBSU)**
 
 Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 289 • ⏱️ 35:05 • 15h ago
+👁️ 18K • 👍 1K • 💬 344 • ⏱️ 35:05 • 16h ago
 
 ---
 
@@ -389,17 +393,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 3K • 💬 330 • ⏱️ 10:01 • 1d ago
+👁️ 38K • 👍 3K • 💬 332 • ⏱️ 10:01 • 1d ago
 
 ---
 
-**[Massive Bitcoin Long (Trump Insiders)](https://www.youtube.com/watch?v=K_op7nsuRV4)**
+**[MASSIVE Bitcoin Buying Opportunity RIGHT NOW! Bitcoin RALLYING As Stocks CRASH!](https://www.youtube.com/watch?v=Kn3tTy_YOuQ)**
 
-We are witnessing a massive shift in global markets as geopolitical tensions in the Middle East reach a breaking point. With the ...
+Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you fund your account!
 
-📺 Discover Crypto
+📺 Crypto Jebb
 
-👁️ 8K • 👍 420 • 💬 148 • ⏱️ 1:32:10 • 13h ago
+👁️ 4K • 👍 218 • 💬 143 • ⏱️ 8:35 • 12h ago
 
 ---
 

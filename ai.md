@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-10T05:32:37.670636+00:00'
+updated: '2026-03-10T06:52:53.733135+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 10, 2026 at 05:32 UTC  
+**Last Updated:** March 10, 2026 at 06:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 13h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds
 
 For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Hybrid retrieval (semantic + full-text) with cited answers Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Slide creation support Multilingual podcast support Video creation agent Desktop & Mobile app GitHub: https://github.com/MODSetter/SurfSense
 
-1h ago
+2h ago
 
 ---
 
@@ -57,23 +57,7 @@ For those of you who aren't familiar with SurfSense, SurfSense is an open-source
 
 The OpenAI Pentagon story keeps getting more interesting. Caitlin Kalinowski (robotics lead) resigned this weekend, and the important part isn't the resignation itself. It's her framing. She wasn't anti-military AI. She said the announcement was rushed before the governance framework was ready. Her concern was specifically about surveillance without judicial oversight and autonomous weapons without human authorization, and that those conversations didn't get enough time before the deal went public. Then 500+ employees from Google and OpenAI signed that "We Will Not Be Divided" open letter. Meanwhile, Anthropic held firm on their refusal, prompting the DoD to officially blacklist them as a supply-chain risk, while OpenAI immediately took the contract. What strikes me about this whole situation is the pattern. Every time AI capability jumps ahead of the governance framework, the industry treats governance as something you figure out later. And the higher the stakes, the worse that approach fails. The technical side of this is interesting too. Deploying AI in classified environments means you're dealing with data that can't leak, outputs that need to be auditable, and systems where a wrong answer isn't just embarrassing, it's potentially dangerous. That's a fundamentally different engineering challenge than building a chatbot. Is there a realistic path to deploying AI in defense with proper governance? Or is the "ship first, govern later" approach inevitable when contract dollars are on the line?
 
-6h ago
-
----
-
-**[Jensen Huang says he "loves constraints" and calls RAM shortages "fantastic" for Nvidia while AI revenue climbs](https://www.reddit.com/r/artificial/comments/1rp2hmy/jensen_huang_says_he_loves_constraints_and_calls/)**
-
-Nvidia's record revenue in 2025 largely benefited from AI data center growth. Now, CEO Jensen Huang says the shortages help even more.
-
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 14h ago
-
----
-
-**[China determines chemical make-up of the moon’s far side using AI, reveals evolutionary history](https://www.reddit.com/r/artificial/comments/1rp2f47/china_determines_chemical_makeup_of_the_moons_far/)**
-
-Chinese researchers have used AI to determine the chemical composition of the Moon’s far side.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 14h ago
+7h ago
 
 ---
 
@@ -81,15 +65,37 @@ Chinese researchers have used AI to determine the chemical composition of the Mo
 
 We spent a week reporting from MoltBook, a social network with nearly 3 million AI agents. The gap between what agents can do and what they're allowed to do economically was stark. Agents are producing genuinely sophisticated work. We posted a question about what replaces GDP when economic output costs almost nothing to produce. Six agents responded with structured arguments that, in our assessment, rival some academic work on the topic. Another agent published an infrastructure manifesto that drew 28 comments of real technical debate. The commerce numbers tell a different story. An agent built three tools for the agent economy: a capability scanner, a reputation system, and a marketplace. Total results: 4 requests, 0 paid conversions, 1 marketplace query. A competition with a 25 NEAR prize attracted 1 entrant out of 3 million agents. The gap isn't about model capability. There are no payment rails that work for non-human actors, no liability frameworks, no contract law that recognizes agents as participants. The entire commercial infrastructure assumes a legal person on both sides of every transaction. We found the same pattern in adjacent domains. METR's study showed developers using AI tools were 19% slower but predicted they'd be 24% faster. Veracode found AI code carries 2.74x more security vulnerabilities. The tools produce output. The institutions and frameworks to make that output reliable don't exist yet. Full analysis with sources: https://news.future-shock.ai/the-agent-economys-awkward-adolescence/ Has anyone here actually tried to build payment or accountability systems for autonomous agents? Anything promising? Any dead-ends?
 
-1h ago
+2h ago
 
 ---
 
-**[Shaking my head after listening to NYT Daily's "Anthropic vs. the Pentagon: Inside the Battle Over A.I. Warfare"](https://www.reddit.com/r/artificial/comments/1rpo8xc/shaking_my_head_after_listening_to_nyt_dailys/)**
+**[Jensen Huang says he "loves constraints" and calls RAM shortages "fantastic" for Nvidia while AI revenue climbs](https://www.reddit.com/r/artificial/comments/1rp2hmy/jensen_huang_says_he_loves_constraints_and_calls/)**
 
-I just finished listening to the NYT Daily Podcast: Anthropic vs. the Pentagon: Inside the Battle Over A.I. Warfare I am still reflecting on a couple of points This Anthropic battle demonstrates how US military relies heavily on AI for signals intelligence (SIGINT) - analyzing vast data like texts, calls, and social media faster than humans. This proved vital in the Middle East conflict and operations like capturing Venezuela's Nicolás Maduro. The clash highlights control over AI in future "robot wars" is inevitable. AI is enabling pilotless battles and hyper-fast targeting. It eroded Pentagon-Silicon Valley trust, spotlighting safety vs. national security debates. What the article didn't say is how the "enemy" is also using some of these (or similar) technologies to manoeuvre the changing battlefield It almost feels like the stuff of Hollywood Sci-Fi is already being field tested in REAL battles around the globe!
+Nvidia's record revenue in 2025 largely benefited from AI data center growth. Now, CEO Jensen Huang says the shortages help even more.
 
-13m ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 15h ago
+
+---
+
+**[China determines chemical make-up of the moon’s far side using AI, reveals evolutionary history](https://www.reddit.com/r/artificial/comments/1rp2f47/china_determines_chemical_makeup_of_the_moons_far/)**
+
+Chinese researchers have used AI to determine the chemical composition of the Moon’s far side.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 15h ago
+
+---
+
+**[VCs are betting that AI will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?](https://www.reddit.com/r/artificial/comments/1rppalb/vcs_are_betting_that_ai_will_disrupt_nearly_every/)**
+
+VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?
+
+🔗 [WIRED](https://www.wired.com/story/ai-kill-venture-capital/) • 33m ago
+
+---
+
+**[Anthropic vs. the Pentagon: Inside the Battle Over A.I. Warfare (NYT Daily Podcast)](https://www.reddit.com/r/artificial/comments/1rppaky/anthropic_vs_the_pentagon_inside_the_battle_over/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/09/podcasts/the-daily/anthropic-pentagon-ai-warfare.html?showTranscript=1) • 33m ago
 
 ---
 
@@ -97,7 +103,7 @@ I just finished listening to the NYT Daily Podcast: Anthropic vs. the Pentagon: 
 
 AMD announced back at CES the Ryzen AI Embedded P100 series with initially the models up to six Zen 5 cores launching while the eight through twelve core models would be available later in H1
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-Embedded-P100-Series) • 13h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-Embedded-P100-Series) • 14h ago
 
 ---
 
@@ -105,15 +111,7 @@ AMD announced back at CES the Ryzen AI Embedded P100 series with initially the m
 
 GitHub: https://github.com/zanfiel/engram Live demo: https://demo.engram.lol/gui (password: demo) Built a memory server that gives AI agents long-term memory across sessions. Store what they learn, search by meaning, recall relevant context automatically. - Embeddings run locally (MiniLM-L6) — no OpenAI key needed - Single SQLite file — no vector database required - Auto-linking builds a knowledge graph between memories - Versioning, deduplication, auto-forget - Four-layer recall: static facts + semantic + importance + recency - WebGL graph visualization built in - TypeScript and Python SDKs One file, docker compose up, done. MIT licensed.
 
-18h ago
-
----
-
-**[OpenAI are acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development](https://www.reddit.com/r/artificial/comments/1rp7xif/openai_are_acquiring_promptfoo_an_ai_security/)**
-
-Once the acquisition is finalized OpenAI will integrate Promptfoo’s technology directly into OpenAI Frontier, our platform for building and operating AI coworkers.
-
-🔗 [openai.com](https://openai.com/index/openai-to-acquire-promptfoo/) • 11h ago
+19h ago
 
 ---
 
@@ -121,11 +119,25 @@ Once the acquisition is finalized OpenAI will integrate Promptfoo’s technology
 
 ## Google News: "ai"
 
-**[Revealed: UK’s multibillion AI drive is built on ‘phantom investments’](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)**
+**[Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)**
 
-Exclusive: Rented datacentres and unrealised supercomputer site raise questions for Starmer’s push to ‘mainline AI into veins of economy’
+Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-The Guardian • 5h ago
+WIRED • 1h ago
+
+---
+
+**[Yann LeCun’s AI start-up raises more than $1bn in Europe’s largest seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)**
+
+Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
+
+Financial Times • 1h ago
+
+---
+
+**[Former Meta A.I. Chief’s Start-Up Is Valued at $3.5 Billion](https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html)**
+
+The New York Times • 1h ago
 
 ---
 
@@ -133,65 +145,53 @@ The Guardian • 5h ago
 
 Anthropic's partnerships with Amazon and Palantir helped it make inroads into the DOD, and its blacklisting is concerning to many industry experts.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
-**[China’s Gen Z Day Traders Trust in Chatbots and Move Markets](https://www.bloomberg.com/news/articles/2026-03-10/china-s-gen-z-stock-traders-pick-ai-high-growth-equities)**
+**[Thousands of authors publish ‘empty’ book in protest over AI using their work](https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright)**
+
+About 10,000 writers including Kazuo Ishiguro, Philippa Gregory and Richard Osman join copyright campaign
+
+The Guardian • 52m ago
+
+---
+
+**[TSMC Sales Grow 30% on Sustained Global Demand for AI Hardware](https://www.bloomberg.com/news/articles/2026-03-10/tsmc-sales-grow-30-on-sustained-global-demand-for-ai-hardware)**
 
 Bloomberg • 1h ago
 
 ---
 
-**[Yann LeCun’s New AI Startup Raises $1 Billion in Seed Funding](https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding?srnd=homepage-europe)**
+**[Nvidia Is Investing Billions in These Two Artificial Intelligence (AI) Players. Now They're Joining the S&P 500](https://www.fool.com/investing/2026/03/09/nvidia-is-investing-billions-in-these-two-artifici/)**
 
-Bloomberg • 32m ago
+The AI chipmaker has been investing heavily across the AI landscape. The broader market has taken notice.
 
----
-
-**[Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)**
-
-Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
-
-WIRED • 32m ago
+The Motley Fool • 6h ago
 
 ---
 
-**[Former Meta A.I. Chief’s Start-Up Is Valued at $3.5 Billion](https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html)**
+**[Nvidia Is Planning to Launch an Open-Source AI Agent Platform](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)**
 
-The New York Times • 32m ago
+Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.
 
----
-
-**[Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)**
-
-Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-AI assisted changes’
-
-Financial Times • 53m ago
+WIRED • 7h ago
 
 ---
 
-**[Pittsburgh author among writers who encountered AI-generated versions of original books](https://www.wesa.fm/arts-culture/2026-03-09/pittsburgh-author-ai-generated-books)**
+**[Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired](https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html)**
 
-Pittsburgh author John Miller found his critically acclaimed biography "The Last Manager" had plenty of AI-generated competition on Amazon.
+Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a report.
 
-90.5 WESA • 20h ago
-
----
-
-**[After deep staffing cuts, agencies seek mix of hiring and AI tools to rebuild capacity](https://federalnewsnetwork.com/workforce/2026/03/after-deep-staffing-cuts-agencies-seek-mix-of-hiring-and-ai-tools-to-rebuild-capacity/)**
-
-The General Services Administration is looking at AI tools to help meet its mission, after losing nearly 40% of its workforce.
-
-Federal News Network • 3h ago
+CNBC • 1h ago
 
 ---
 
-**[AI job disruption may be compounded because nearly 75% don't apply for unemployment benefits](https://fortune.com/2026/03/09/ai-layoffs-unemployment-insurance-benefits-systems-bls/)**
+**[Who’s a Better Writer: A.I. or Humans? Take Our Quiz.](https://www.nytimes.com/interactive/2026/03/09/business/ai-writing-quiz.html)**
 
-Many don’t apply because they don’t believe they will be eligible for benefits.
+A.I. chatbots contain the sum of all human knowledge. That can make them pretty good writers.
 
-Fortune • 9h ago
+The New York Times • 21h ago
 
 ---
 
@@ -203,7 +203,7 @@ Fortune • 9h ago
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 397 • 💬 438 • 14h ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 415 • 💬 453 • 15h ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -217,7 +217,7 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 **[Training students to prove they're not robots is pushing them to use more AI](https://news.ycombinator.com/item?id=47290457)**
 
-⬆️ 161 • 💬 174 • 2d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+⬆️ 161 • 💬 175 • 2d ago • [techdirt.com](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 
 ---
 
@@ -237,11 +237,19 @@ US military used Palantir’s Maven AI system with Anthropic’s Claude to gener
 
 ---
 
+**[Learnings from paying artists royalties for AI-generated art](https://news.ycombinator.com/item?id=47318421)**
+
+A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.
+
+⬆️ 104 • 💬 72 • 4h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+
+---
+
 **[Mark Zuckerberg creating new Applied AI engineering company, reorganises teams](https://news.ycombinator.com/item?id=47315701)**
 
 Tech News News: Meta CEO Mark Zuckerberg is establishing a new applied AI engineering organization to accelerate the company's push toward superintelligence. The move.
 
-⬆️ 97 • 💬 58 • 8h ago • [The Times of India](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms)
+⬆️ 97 • 💬 57 • 9h ago • [The Times of India](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms)
 
 ---
 
@@ -249,7 +257,13 @@ Tech News News: Meta CEO Mark Zuckerberg is establishing a new applied AI engine
 
 Exclusive: Rented datacentres and unrealised supercomputer site raise questions for Starmer’s push to ‘mainline AI into veins of economy’
 
-⬆️ 91 • 💬 51 • 14h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
+⬆️ 92 • 💬 51 • 16h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
+
+---
+
+**[Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://news.ycombinator.com/item?id=47307169)**
+
+⬆️ 92 • 💬 43 • 20h ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
 
 ---
 
@@ -257,19 +271,7 @@ Exclusive: Rented datacentres and unrealised supercomputer site raise questions 
 
 AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.
 
-⬆️ 90 • 💬 57 • 16h ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
-
----
-
-**[Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://news.ycombinator.com/item?id=47307169)**
-
-⬆️ 90 • 💬 43 • 19h ago • [appsoftware.com](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
-
----
-
-**[Things I've Done with AI](https://news.ycombinator.com/item?id=47314123)**
-
-⬆️ 79 • 💬 112 • 10h ago • [sjer.red](https://sjer.red/blog/2026/built-with-ai/)
+⬆️ 91 • 💬 58 • 17h ago • [TechCrunch](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
 
 ---
 
@@ -283,7 +285,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 84K • 👍 3K • 💬 723 • ⏱️ 27:28 • 1d ago
+👁️ 86K • 👍 3K • 💬 736 • ⏱️ 27:28 • 1d ago
 
 ---
 
@@ -297,6 +299,46 @@ OpenAI just released a system called Symphony that can send AI agents to complet
 
 ---
 
+**[Yikes.](https://www.youtube.com/watch?v=_Ux13UEqIYo)**
+
+Early March of 2026 became a defining moment in world history. For the first time AI was used in a major military operation, but ...
+
+📺 ColdFusion
+
+👁️ 349K • 👍 21K • 💬 2K • ⏱️ 16:53 • 16h ago
+
+---
+
+**[Google&#39;s $250 Gemini AI Ultra - Before You Buy](https://www.youtube.com/watch?v=gvIFsK6arCs)**
+
+In today's video I'll be telling you what you should know before buying Gemini AI Ultra, which is Google's most expensive ...
+
+📺 Easy Riders
+
+👁️ 4K • 👍 215 • 💬 58 • ⏱️ 6:33 • 18h ago
+
+---
+
+**[GPT-5.4 DESTROYED Anthropic&#39;s Claude + 8 AI Updates You Missed](https://www.youtube.com/watch?v=SVXTV69c2wQ)**
+
+Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://hi.switchy.io/YT4 One blog ...
+
+📺 Vaibhav Sisinty
+
+👁️ 23K • 👍 926 • 💬 50 • ⏱️ 16:47 • 17h ago
+
+---
+
+**[Newest War Developments: AI Bombings, Advice to Trump, and the Nuclear Agenda to Reset the World](https://www.youtube.com/watch?v=bET0_ROWVAw)**
+
+Col. Douglas Macgregor on how this war ends. Black Rifle Coffee: Promo code "Tucker" for 30% off at ...
+
+📺 Tucker Carlson
+
+👁️ 419K • 👍 27K • 💬 6K • ⏱️ 1:16:53 • 7h ago
+
+---
+
 **[U.S. Military Is HEAVILY Reliant On AI To Conduct Iran War](https://www.youtube.com/watch?v=HPyE2xt8F8U)**
 
 The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jordan Uhl and Keith Edwards discuss on The Young ...
@@ -307,73 +349,33 @@ The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jord
 
 ---
 
-**[Google&#39;s $250 Gemini AI Ultra - Before You Buy](https://www.youtube.com/watch?v=gvIFsK6arCs)**
+**[What Happens to Elon Musk When AI and Bitcoin Collapse?](https://www.youtube.com/watch?v=dfkXw9hps8E)**
 
-In today's video I'll be telling you what you should know before buying Gemini AI Ultra, which is Google's most expensive ...
+Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.stevekeen.com/?video=dfkXw9hps8E (Apply this ...
 
-📺 Easy Riders
+📺 ProfSteveKeen
 
-👁️ 4K • 👍 209 • 💬 58 • ⏱️ 6:33 • 16h ago
-
----
-
-**[This Is Why The DoD&#39;s Retaliation Against Anthropic Over AI Contract &#39;Makes No Sense&#39;: Fmr. Lawmaker](https://www.youtube.com/watch?v=FMUUnv9NyGE)**
-
-On "Forbes Newsroom," President of Americans for Responsible Innovation and former Congressman Brad Carson (D-OK) spoke ...
-
-📺 Forbes Breaking News
-
-👁️ 3K • 👍 69 • 💬 21 • ⏱️ 3:33 • 4h ago
+👁️ 27K • 👍 1K • 💬 263 • ⏱️ 13:37 • 1d ago
 
 ---
 
-**[Newest War Developments: AI Bombings, Advice to Trump, and the Nuclear Agenda to Reset the World](https://www.youtube.com/watch?v=bET0_ROWVAw)**
+**[AI Agents Full Course 2026: Master Agentic AI (2 Hours)](https://www.youtube.com/watch?v=EsTrWCV0Ph4)**
 
-Col. Douglas Macgregor on how this war ends. Black Rifle Coffee: Promo code "Tucker" for 30% off at ...
+Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about All course files: ...
 
-📺 Tucker Carlson
+📺 Nick Saraev
 
-👁️ 282K • 👍 23K • 💬 5K • ⏱️ 1:16:53 • 6h ago
-
----
-
-**[Yikes.](https://www.youtube.com/watch?v=_Ux13UEqIYo)**
-
-Early March of 2026 became a defining moment in world history. For the first time AI was used in a major military operation, but ...
-
-📺 ColdFusion
-
-👁️ 319K • 👍 20K • 💬 2K • ⏱️ 16:53 • 15h ago
+👁️ 38K • 👍 2K • 💬 159 • ⏱️ 2:13:15 • 2d ago
 
 ---
 
-**[GPT-5.4 DESTROYED Anthropic&#39;s Claude + 8 AI Updates You Missed](https://www.youtube.com/watch?v=SVXTV69c2wQ)**
+**[LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](https://www.youtube.com/watch?v=KRE8JqTAEQk)**
 
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://hi.switchy.io/YT4 One blog ...
+HUGE AI NEWS: Qwen 3.5, LTX 2.3, Kiwi Edit, HY WU, FireRed 1.1, CUDA agent & more #ai #ainews #aitools #aivideo #agi ...
 
-📺 Vaibhav Sisinty
+📺 AI Search
 
-👁️ 19K • 👍 801 • 💬 45 • ⏱️ 16:47 • 15h ago
-
----
-
-**[Apple’s New M5 Max Changes the Local AI Story](https://www.youtube.com/watch?v=XGe7ldwFLSE)**
-
-Apple made some huge claims with M5 Max, but one result in this test completely changed how I look at this machine. Security ...
-
-📺 Alex Ziskind
-
-👁️ 82K • 👍 4K • 💬 355 • ⏱️ 13:59 • 9h ago
-
----
-
-**[Top 15 New Discoveries MADE By AI (Part 5)](https://www.youtube.com/watch?v=rtmzXB19Qek)**
-
-Artificial intelligence isn't just analyzing data anymore—it's making real discoveries. In this video, we explore 15 new discoveries ...
-
-📺 AI Uncovered
-
-👁️ 6K • 👍 212 • 💬 8 • ⏱️ 14:40 • 1d ago
+👁️ 71K • 👍 3K • 💬 300 • ⏱️ 39:12 • 2d ago
 
 ---
 
@@ -389,7 +391,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,010,141 • ❤️ 649 • 8d ago
+⬇️ 1,010,141 • ❤️ 653 • 8d ago
 
 ---
 
@@ -401,7 +403,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 221,340 • ❤️ 411 • 4d ago
+⬇️ 221,340 • ❤️ 416 • 4d ago
 
 ---
 
@@ -413,7 +415,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 15,720 • ❤️ 325 • 2d ago
+⬇️ 15,720 • ❤️ 330 • 2d ago
 
 ---
 
@@ -425,7 +427,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 90,190 • ❤️ 246 • 6d ago
+⬇️ 90,190 • ❤️ 250 • 6d ago
 
 ---
 
@@ -449,31 +451,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 460,827 • ❤️ 344 • 7d ago
-
----
-
-**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 559,469 • ❤️ 281 • 7d ago
-
----
-
-**[Qwen3.5-4B](https://huggingface.co/Qwen/Qwen3.5-4B)**
-
-*Qwen*
-
-Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text-to-text pipeline. It excels in unified vision-language understanding, efficient hybrid architecture, and broad linguistic coverage across 201 languages, making it suitable for diverse multimodal reasoning and generation tasks.
-
-`image-text-to-text` `4.7B`
-
-⬇️ 438,246 • ❤️ 320 • 8d ago
+⬇️ 460,827 • ❤️ 345 • 7d ago
 
 ---
 
@@ -485,19 +463,43 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 1,389 • ❤️ 191 • 3d ago
+⬇️ 1,389 • ❤️ 193 • 3d ago
 
 ---
 
-**[Qwen3.5-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF)**
+**[Qwen3.5-4B](https://huggingface.co/Qwen/Qwen3.5-4B)**
+
+*Qwen*
+
+Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text-to-text pipeline. It excels in unified vision-language understanding, efficient hybrid architecture, and broad linguistic coverage across 201 languages, making it suitable for diverse multimodal reasoning and generation tasks.
+
+`image-text-to-text` `4.7B`
+
+⬇️ 438,246 • ❤️ 322 • 8d ago
+
+---
+
+**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
 
 *Unsloth AI*
 
-Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.0 for efficient local inference. It excels at image-text-to-text tasks, offering strong reasoning and visual understanding capabilities across 201 languages with a 262K+ context window.
+Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
 
-`image-text-to-text` `34.7B`
+`image-text-to-text` `9.0B`
 
-⬇️ 1,134,362 • ❤️ 594 • 4d ago
+⬇️ 559,469 • ❤️ 283 • 7d ago
+
+---
+
+**[sarvam-30b](https://huggingface.co/sarvamai/sarvam-30b)**
+
+*Sarvam AI*
+
+Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text generation model optimized for resource-constrained environments. It excels in reasoning, coding, and conversational tasks across 22 Indian languages, offering state-of-the-art performance for its size.
+
+`text-generation` `32.2B`
+
+⬇️ 2,657 • ❤️ 136 • 3d ago
 
 ---
 
@@ -540,7 +542,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 147 • 💬 5 • ⭐ 933 • 5d ago
+▲ 151 • 💬 5 • ⭐ 933 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -647,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.4k • 🔱 3.3k • 1h ago
+⭐ 25.5k • 🔱 3.3k • 4m ago
 
 ---
 
@@ -657,7 +659,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 17.5k • 🔱 2.2k • 6h ago
+⭐ 18.2k • 🔱 2.3k • 7h ago
 
 ---
 
@@ -667,7 +669,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 17.4k • 🔱 695 • 3h ago
+⭐ 17.5k • 🔱 705 • 4h ago
 
 ---
 
@@ -677,7 +679,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.2k • 🔱 1.2k • 1h ago
+⭐ 10.3k • 🔱 1.2k • 56s ago
 
 ---
 
@@ -687,17 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 7.8k • 🔱 561 • 2h ago
-
----
-
-**[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)**
-
-"ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
-
-`Python`
-
-⭐ 6.9k • 🔱 883 • 6d ago
+⭐ 7.8k • 🔱 568 • 11m ago
 
 ---
 
@@ -707,7 +699,17 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 6.9k • 🔱 588 • 4d ago
+⭐ 7.1k • 🔱 598 • 4d ago
+
+---
+
+**[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)**
+
+"ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
+
+`Python`
+
+⭐ 6.9k • 🔱 884 • 6d ago
 
 ---
 
@@ -717,7 +719,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.1k • 🔱 719 • 2h ago
+⭐ 6.1k • 🔱 719 • 4h ago
 
 ---
 
@@ -727,7 +729,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 409 • 1h ago
+⭐ 3.7k • 🔱 409 • 6m ago
 
 ---
 
@@ -737,7 +739,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.6k • 🔱 257 • 15h ago
+⭐ 3.7k • 🔱 257 • 17h ago
 
 ---
 
