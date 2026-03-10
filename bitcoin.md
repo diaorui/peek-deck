@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T10:40:38.962955+00:00'
+updated: '2026-03-10T11:34:15.040557+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 10:40 UTC  
+**Last Updated:** March 10, 2026 at 11:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,200.00
+### $70,740.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.1%  
-**7d:** -2.3%  
-**30d:** +1.4%  
-**90d:** -23.2%  
-**1y:** -14.1%  
+**24h:** +3.5%  
+**7d:** -3.0%  
+**30d:** +0.7%  
+**90d:** -23.8%  
+**1y:** -14.7%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-17h ago
+18h ago
 
 ---
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,15 @@ This is why we BITCOIN. More of this to come?
 
 I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
 
-9h ago
+10h ago
+
+---
+
+**[B-but we go lower!!](https://www.reddit.com/r/Bitcoin/comments/1rps71d/bbut_we_go_lower/)**
+
+Says the guy left behind while everyone heads back for 100k wave
+
+2h ago
 
 ---
 
@@ -103,7 +111,15 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 20 million Bitcoin have now been mined. Only 1 million BTC remain before the cryptocurrency reaches its fixed 21 million supply cap.
 
-🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 20h ago
+🔗 [Cryip.co](https://cryip.co/20-million-bitcoin-mined/) • 21h ago
+
+---
+
+**[Could crypto currencies like BTC becomes geopolitical hedge assets?](https://www.reddit.com/r/Bitcoin/comments/1rptoot/could_crypto_currencies_like_btc_becomes/)**
+
+What thought you are having on this above question.
+
+43m ago
 
 ---
 
@@ -111,7 +127,7 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 Or else I’ll start throwing things
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +135,7 @@ Or else I’ll start throwing things
 
 Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 13h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 14h ago
 
 ---
 
@@ -131,27 +147,11 @@ The next halving is getting closer every day (people will start front-running so
 
 ---
 
-**[B-but we go lower!!](https://www.reddit.com/r/Bitcoin/comments/1rps71d/bbut_we_go_lower/)**
+**[Coinbase alternatives for 2026?](https://www.reddit.com/r/Bitcoin/comments/1rprz20/coinbase_alternatives_for_2026/)**
 
-Says the guy left behind while everyone heads back for 100k wave
+Been on Coinbase for a while but fees are getting old, especially on small buys. Haven't had issues yet but heard support is a nightmare when things go wrong. I'd rather switch before I find that out the hard way. Already looked into some alternatives, Kraken, which has lower fees with Kraken Pro. Binance is huge but has location restrictions. Bitget and Bybit also get mentioned with competitive fees. For those who left Coinbase, where'd you go? Just doing spot trading, want low fees, reliable withdrawals, decent coin selection. What's working well for regular users in 2026?
 
-1h ago
-
----
-
-**[Strategy Acquires 17,994 BTC and Now Holds 738,731 BTC - Biggest Strategy week yet! Nearly 5x their 4-week average.](https://www.reddit.com/r/Bitcoin/comments/1rp0s7h/strategy_acquires_17994_btc_and_now_holds_738731/)**
-
-Strategy has acquired 17,994 BTC for ~$1.28 billion at ~$70,946 per bitcoin. As of 3/8/2026, they hodl 738,731 BTC acquired for ~$56.04 billion at ~$75,862 per bitcoin.
-
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) • 20h ago
-
----
-
-**[Daily Discussion, March 10, 2026](https://www.reddit.com/r/Bitcoin/comments/1rpp255/daily_discussion_march_10_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-4h ago
+2h ago
 
 ---
 
@@ -163,19 +163,43 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The final 1 million BTC will take over a century to mine, with the last fractions, measured in satoshis, expected to be issued around 2140.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
 **[Bitcoin Price Rebounds From Oil-Fueled Retreat, Nasdaq To Launch Tokenized Stocks](https://www.investors.com/news/bitcoin-price-oil-support-nasdaq-tokenized-stocks-equities-kraken-partnership/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqee01aSw1VynqPnBHnFMwxF7b4BKmj3ipgNP0Yo8hu-lj-BTc6dTQgr&gaa_ts=69afebb3&gaa_sig=N2fInzgTLvs2oN52bmfRYpoFh78PMJwCtJoYIA-BafNLyH9Lwm3PCSIFtXrpyTCG0VRnlPvfTeyr99Z-l9DKxw%3D%3D)**
+**[Winklevoss Twins Move $130M in Bitcoin to Gemini Hot Wallets: Arkham](https://finance.yahoo.com/news/winklevoss-twins-move-130m-bitcoin-110235061.html)**
 
-Barron's • 1h ago
+Arkham claimed that the transfers were intended “presumably to sell,” though neither Cameron nor Tyler Winklevoss has commented on the move.
+
+Yahoo Finance • 31m ago
+
+---
+
+**[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
+
+Bloomberg • 15h ago
+
+---
+
+**[Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months](https://www.coindesk.com/markets/2026/03/09/bitcoin-could-be-the-big-winner-if-the-u-s-iran-conflict-drags-on-for-months)**
+
+Macro strategist Mark Connors says war-driven spending, rising debt and lower interest rates could support bitcoin.
+
+CoinDesk • 19h ago
+
+---
+
+**[Bitcoin (BTC) price climbs to $71,000 as dollar weakens on Trump's war signals](https://www.coindesk.com/markets/2026/03/10/bitcoin-climbs-to-usd71-000-as-dollar-oil-weaken-after-trump-comments-on-iran-war)**
+
+Crypto and risk assets rally as the dollar retreats following comments from Donald Trump suggesting the conflict in Iran may end soon, while bitcoin still faces a broader downtrend.
+
+CoinDesk • 49m ago
 
 ---
 
@@ -183,15 +207,7 @@ Barron's • 1h ago
 
 Bitcoin's volatility is what makes it such a consistently good bet.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Gwangju Prosecutors Sell Recovered Bitcoin, Transfer 31.588B Won](https://www.chosun.com/english/national-en/2026/03/10/6SHKRK4K5BEKBLWOPDDBNEDJXE/)**
-
-Gwangju Prosecutors Sell Recovered Bitcoin, Transfer 31.588B Won Proceeds from 320.8 Bitcoin Sale Transferred to National Treasury
-
-조선일보 • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -199,37 +215,23 @@ Gwangju Prosecutors Sell Recovered Bitcoin, Transfer 31.588B Won Proceeds from 3
 
 The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
-**['The second century begins': Michael Saylor's Strategy buys another 17,994 bitcoin for $1.3 billion as holdings reach 738,731 BTC](https://www.theblock.co/post/392822/the-second-century-begins-michael-saylors-strategy-buys-more-bitcoin)**
+**[Strategy Drops $1.28 Billion on Bitcoin, Issues $377 Million in Preferred Shares](https://decrypt.co/360411/strategy-drops-1-28-billion-bitcoin-377-million-preferred-shares)**
 
-Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $50 billion.
+Strategy spent $1.28 billion on Bitcoin, notching its second-largest purchase in 2026 with funds from its variable rate preferred share.
 
-The Block • 22h ago
-
----
-
-**[Strategy Drops $1.28 Billion on Bitcoin, Issues $377 Million in Preferred Shares](https://finance.yahoo.com/news/strategy-drops-1-28-billion-145047451.html)**
-
-Michael Saylor declared the start of a “second century,” following the firm’s 100th Bitcoin purchase last month.
-
-Yahoo Finance • 19h ago
+Decrypt • 20h ago
 
 ---
 
-**[Bhutan sells $42.5 Million of bitcoin in 2026 as national stack drops 58% from peak](https://www.coindesk.com/markets/2026/03/10/bhutan-s-bitcoin-stack-drops-below-5-400-btc-as-sovereign-seller-quietly-unloads-usd42-5-million-in-2026)**
+**[MSTR logs record day for STRC issuance on Monday, buys estimated 1,420 BTC](https://www.coindesk.com/markets/2026/03/10/strategy-logs-record-strc-equity-issuance-on-monday-buys-estimated-1-420-bitcoin)**
 
-The Himalayan kingdom moved another 175 BTC on Monday, continuing a drawdown that has taken its holdings from a peak of roughly 13,000 BTC to under 5,400 in just over a year.
+The company amended its Omnibus Sales Agreement to allow multiple agents to execute sales of the same security outside regular trading hours.
 
-CoinDesk • 4h ago
-
----
-
-**[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
-
-Reuters • 23h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -241,7 +243,7 @@ Reuters • 23h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 18h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 19h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -271,7 +273,7 @@ Complete operating system for Bitcoiners
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 19h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 20h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -299,7 +301,7 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 4h ago
+⬆️ 1 • 💬 0 • 5h ago
 
 ---
 
@@ -313,7 +315,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 182 • ⏱️ 9:54 • 12h ago
+👁️ 36K • 👍 2K • 💬 182 • ⏱️ 9:54 • 13h ago
 
 ---
 
@@ -323,7 +325,7 @@ The global fiat system is flashing red as 20 million barrels of oil vanish offli
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 114 • ⏱️ 18:57 • 11h ago
+👁️ 15K • 👍 1K • 💬 114 • ⏱️ 18:57 • 12h ago
 
 ---
 
@@ -333,7 +335,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 12K • 👍 866 • 💬 354 • ⏱️ 10:02 • 14h ago
+👁️ 12K • 👍 866 • 💬 354 • ⏱️ 10:02 • 15h ago
 
 ---
 
@@ -353,7 +355,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 11K • 👍 127 • 💬 100 • ⏱️ 4:26 • 21h ago
+👁️ 11K • 👍 127 • 💬 100 • ⏱️ 4:26 • 22h ago
 
 ---
 
@@ -363,7 +365,7 @@ Lyn Alden just explained WHY this cycle has been so DIFFERENT — and why we won
 
 📺 Money Talks
 
-👁️ 1K • 👍 45 • 💬 84 • ⏱️ 17:32 • 14h ago
+👁️ 1K • 👍 45 • 💬 84 • ⏱️ 17:32 • 15h ago
 
 ---
 
@@ -393,7 +395,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Stock Moe
 
-👁️ 14K • 👍 858 • 💬 133 • ⏱️ 14:54 • 9h ago
+👁️ 14K • 👍 858 • 💬 133 • ⏱️ 14:54 • 10h ago
 
 ---
 
@@ -403,7 +405,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 328 • ⏱️ 35:05 • 20h ago
+👁️ 19K • 👍 1K • 💬 328 • ⏱️ 35:05 • 21h ago
 
 ---
 

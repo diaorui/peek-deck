@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T10:40:38.972004+00:00'
+updated: '2026-03-10T11:34:15.049950+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 10:40 UTC  
+**Last Updated:** March 10, 2026 at 11:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,11 +34,25 @@ Robotics research and industry news
 
 **[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
+
+18h ago
+
+---
+
+**[Beware of DFR robot & US warehouse scam](https://www.reddit.com/r/robotics/comments/1rprmo5/beware_of_dfr_robot_us_warehouse_scam/)**
+
+I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
+
+2h ago
+
+---
+
+**[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
 17h ago
 
@@ -48,13 +62,7 @@ Robotics research and industry news
 
 Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Centaur robot for load-carriage walking assistance: https://journals.sagepub.com/doi/10.1177/02783649261418155
 
-23h ago
-
----
-
-**[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
-
-16h ago
+1d ago
 
 ---
 
@@ -68,23 +76,7 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 **[Drone simulation with guitar tabs control](https://www.reddit.com/r/robotics/comments/1rpo5lu/drone_simulation_with_guitar_tabs_control/)**
 
-5h ago
-
----
-
-**[Beware of DFR robot & US warehouse scam](https://www.reddit.com/r/robotics/comments/1rprmo5/beware_of_dfr_robot_us_warehouse_scam/)**
-
-I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
-
-1h ago
-
----
-
-**[I make a test with the T265 and the RoboBaton VIOBOT2.](https://www.reddit.com/r/robotics/comments/1rp4lc8/i_make_a_test_with_the_t265_and_the_robobaton/)**
-
-I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
-
-18h ago
+6h ago
 
 ---
 
@@ -92,7 +84,15 @@ I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIO
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-2h ago
+3h ago
+
+---
+
+**[I make a test with the T265 and the RoboBaton VIOBOT2.](https://www.reddit.com/r/robotics/comments/1rp4lc8/i_make_a_test_with_the_t265_and_the_robobaton/)**
+
+I conducted a test with the T265 and the RoboBaton VIOBOT2. I found that the VIOBOT2 performs the best in accuracy. The Livox Mid-360 LiDAR served as the reference. The VIOBOT2 tracked nearly as well as the LiDAR, performing a little better than the T265.
+
+19h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hi there, I've created a video here where I explain how convolutional neural net
 
 **[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
 
-ABB • 18h ago
+ABB • 19h ago
 
 ---
 
@@ -118,7 +118,7 @@ ABB • 18h ago
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 18h ago
+TechCrunch • 19h ago
 
 ---
 
@@ -146,17 +146,17 @@ eWeek • 9h ago
 
 ---
 
-**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
-
-Bloomberg • 1d ago
-
----
-
 **[Folsom Robotics Team Earns Think Award, Advances To World Championship](https://folsomtimes.com/folsom-robotics-team-earns-think-award-advances-to-world-championship/)**
 
 Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
 
-Folsom Times • 8h ago
+Folsom Times • 9h ago
+
+---
+
+**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://www.bloomberg.com/news/articles/2026-03-09/ex-google-researcher-seeks-to-transform-japan-s-robots-with-ai)**
+
+Bloomberg • 1d ago
 
 ---
 
@@ -164,15 +164,7 @@ Folsom Times • 8h ago
 
 Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
 
-Yahoo Finance • 13h ago
-
----
-
-**[Nvidia and ABB launch partnership for AI-enabled autonomous robots](https://www.ft.com/content/c77d99a4-8d75-4f34-8a71-6b1361ebb9b9)**
-
-Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
-
-Financial Times • 21h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -181,6 +173,14 @@ Financial Times • 21h ago
 Gradient's Renton, Wash., office space is home to 10 million sports and gaming cards, where a team of card geeks and engineers are using technology to upend a $15 billion U.S. market.
 
 GeekWire • 20h ago
+
+---
+
+**[Nvidia and ABB launch partnership for AI-enabled autonomous robots](https://www.ft.com/content/c77d99a4-8d75-4f34-8a71-6b1361ebb9b9)**
+
+Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
+
+Financial Times • 22h ago
 
 ---
 
@@ -244,7 +244,7 @@ This is what I've been waiting for Follow my socials for more frequent updates: 
 
 📺 DeathTempler
 
-👁️ 13K • 👍 2K • 💬 164 • ⏱️ 0:51 • 16h ago
+👁️ 13K • 👍 2K • 💬 164 • ⏱️ 0:51 • 17h ago
 
 ---
 
@@ -264,7 +264,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 1K • 👍 41 • 💬 4 • ⏱️ 3:48 • 15h ago
+👁️ 1K • 👍 41 • 💬 4 • ⏱️ 3:48 • 16h ago
 
 ---
 
