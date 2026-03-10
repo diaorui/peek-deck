@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-10T22:29:49.698791+00:00'
+updated: '2026-03-10T22:57:07.058930+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 22:29 UTC  
+**Last Updated:** March 10, 2026 at 22:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -4.8%  
-**30d:** -3.7%  
-**90d:** -37.3%  
-**1y:** +5.0%  
+**24h:** +1.8%  
+**7d:** -4.6%  
+**30d:** -3.5%  
+**90d:** -37.2%  
+**1y:** +5.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $246.85B
+**Market Cap:** $244.64B
 Rank #2
 
 **Circulating Supply:** 120,692,025 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.7%
+-59.0%
 
 **All-Time Low:** $0.43
-+472225.4%
++468038.2%
 
 ---
 
@@ -76,31 +76,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[avsa (Ethereum Foundation UX lead) deployed the Unicorn Token in 2016 — one of the first ERC-20s ever](https://www.reddit.com/r/ethereum/comments/1rpxs2k/avsa_ethereum_foundation_ux_lead_deployed_the/)**
-
-Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, deployed a contract in April 2016 that let you "grind unicorns into meat" on-chain. The experiment became the Unicorn Meat token (w🍖) — deployed when ERC-20 was barely a draft standard, when the entire Ethereum dev community could fit in one room. Why it matters historically: - Deployed April 2016, pre-TheDAO hack - One of the earliest ERC-20 compliant tokens - Created by a core Ethereum Foundation member for fun, not profit - The contract is still live and the token still trades Original contract: https://etherscan.io/address/0xd234bf2410a0009df9c3c63b610c09738f18ccd7 The community archive: https://unicornmeat.wtf These early experiments are Ethereum heritage. Worth preserving.
-
-8h ago
-
----
-
 **[The CEX Paradox: Why is off-ramping still the most centralized part of our 'decentralized' workflow?](https://www.reddit.com/r/ethereum/comments/1rq85gq/the_cex_paradox_why_is_offramping_still_the_most/)**
 
 I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
-
-2h ago
-
----
-
-**[Ethereum's Top Corporate Whale Fattens Up with $10bn Treasury Holding](https://www.reddit.com/r/ethereum/comments/1rpv1ia/ethereums_top_corporate_whale_fattens_up_with/)**
-
-Bitmine Immersion Technologies (BMNR) is expanding beyond its origins as a Bitcoin miner to consolidate as the world's largest corporate holder of Ether (ETH). : Get all the latest crypto news at Sandmark
-
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 10h ago
-
----
-
-**[What do you think of the IoTeX 2026 Anti-Roadmap approach? 🧐](https://www.reddit.com/r/ethereum/comments/1rq6zrn/what_do_you_think_of_the_iotex_2026_antiroadmap/)**
 
 2h ago
 
@@ -146,6 +124,30 @@ In September 2015, six weeks after mainnet launch, someone deployed three contra
 
 ---
 
+**[AI Is Not Ready for Ethereum Security Audits: A Test](https://www.reddit.com/r/ethereum/comments/1rp189f/ai_is_not_ready_for_ethereum_security_audits_a/)**
+
+MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
+
+🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 1d ago
+
+---
+
+**[I've been reverse-engineering Ethereum's earliest smart contracts — here's what I found locked inside them](https://www.reddit.com/r/ethereum/comments/1ro4bt9/ive_been_reverseengineering_ethereums_earliest/)**
+
+For the past few months I've been building EthereumHistory.com, a project to document every notable smart contract from Ethereum's earliest days (2015-2017). Think of it as a Wikipedia for Ethereum's contract archaeology. Recently I did a deep scan of all 12,609 contracts deployed during the Frontier era and found 1,650 still holding ETH — totaling over 38,000 ETH (~$95M at current prices) locked in contracts from Ethereum's first weeks. Here's what's actually inside them: The Gambling Contracts (Day 13 of Ethereum) EtherDice (0xc4c51de1abf5d60dbd329ec0f999fd8f021ae9fc) was deployed on August 12, 2015 — just 13 days after Ethereum launched. Someone loaded it with a 1,000 ETH bankroll. It's a 21-function commit-reveal dice game, surprisingly sophisticated for the era. 122 ETH still sits inside, permanently locked because the deployer likely lost their keys years ago. The Inverted Timelock TimeLockVault (0xed44f3c2081480b08643fe1ca281fab9ed643735) has a beautiful bug: the time check is inverted. You can withdraw before the unlock date (2035), but once 2035 arrives, the funds become permanently locked. 50 ETH inside. The deployer could have withdrawn years ago but apparently never noticed. The Stalled Pyramid EtherPyramid (0xa9e4e3b1da2752aea980698c335e70e9ab26c) had 140 participants. 136 of them are still waiting for their payout. 37 ETH frozen forever in a pyramid that ran out of new entrants. A time capsule of early Ethereum's Wild West era. The Pattern After scanning all 1,650 funded contracts, the pattern is consistent: every single one is either owner-gated (keys likely lost), bug-locked, pyramid-stalled, or timelocked. At least 5 active hunter addresses have already probed most of these contracts looking for extractable funds. None succeeded. These contracts are essentially digital fossils — permanently preserved on-chain with real ETH sealed inside them. They tell the story of Ethereum's earliest developers experimenting with code that would handle real money, often for the first time. I've been documenting these on EthereumHistory.com with verified source code, deployment context, and the stories behind them. If you deployed contracts in 2015-2016 or know the stories behind any early projects, I'd love to hear from you. What early Ethereum contracts do you remember that deserve to be documented?
+
+2d ago
+
+---
+
+**[Daily General Discussion March 08, 2026](https://www.reddit.com/r/ethereum/comments/1rnwyac/daily_general_discussion_march_08_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -166,17 +168,47 @@ Decrypt • 1d ago
 
 ---
 
-**[Crypto News: Ethereum Based Crypto Pepeto Updates Exchange Complete With Binance Listing and Bull Run Approach Follow Dogecoin Success](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-updates-exchange-complete-with-binance-listing-and-bull-run-approach-follow-dogecoin-success-1035916074)**
+**[New Crypto Based Ethereum Pepeto Completes Platform Interface And Ethereum Price Prediction Targets $7,500](https://markets.businessinsider.com/news/stocks/new-crypto-based-ethereum-pepeto-completes-platform-interface-and-ethereum-price-prediction-targets-7-500-1035916454)**
 
-Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that exchange development reached 94% and the Binance listing is accelerating as...
+Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that its platform interface is now complete, and the presale crossed $7.88 milli...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 20m ago
 
 ---
 
 **[Bitcoin & Ethereum Price Outlook: What to Expect in the Next 48 Hours](https://www.binance.com/en/square/post/300147426812626)**
 
 Binance • 3h ago
+
+---
+
+**[Crypto News: Ethereum Based Crypto Pepeto Updates Exchange Complete With Binance Listing and Bull Run Approach Follow Dogecoin Success](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-updates-exchange-complete-with-binance-listing-and-bull-run-approach-follow-dogecoin-success-1035916074)**
+
+Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that exchange development reached 94% and the Binance listing is accelerating as...
+
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Brace for U.S. CPI Report](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-brace-u-003414097.html)**
+
+Bitcoin, Ethereum, and XRP are all trading in the green this week. On the surface, the crypto market looks calm. But under that calm, traders are waiting for one of the biggest macro events of the month: the U.S. CPI (inflation) report. Economists expect inflation to edge up to about ...
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfDYbqa1pDKEvIPTftHcKysQBH2vlSoD_5qRXxnfVtoIq_RCiUdheQa&gaa_ts=69b0a531&gaa_sig=pKS97TUxpznuZE-x3B_clGFVs_4ZdkfEFcMCb7p_qPwednCatgylMmHymgUzNiUAnRrdFeUqivkLvAfh6IEfYQ%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[Vitalik Buterin pushes ‘DVT-Lite’ to make Ethereum validator setup easier](https://www.coindesk.com/tech/2026/03/10/vitalik-buterin-pushes-dvt-lite-to-make-ethereum-validator-setup-easier)**
+
+In a post on X, the Ethereum co-founder said that the EF is testing a new method for running validators that could make staking infrastructure significantly easier for institutions holding large amounts of ether.
+
+CoinDesk • 7h ago
 
 ---
 
@@ -196,36 +228,6 @@ Yahoo Finance • 9h ago
 
 ---
 
-**[Bitmine lifts Ethereum treasury to 4.53 million ETH after adding 60,976 tokens in a week amid ‘mini-crypto winter’](https://www.theblock.co/post/392831/bitmine-lifts-ethereum-treasury-to-4-53-million-eth-after-adding-60976-tokens-in-a-week-amid-mini-crypto-winter)**
-
-Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
-
-The Block • 1d ago
-
----
-
-**[Vitalik Buterin pushes ‘DVT-Lite’ to make Ethereum validator setup easier](https://www.coindesk.com/tech/2026/03/10/vitalik-buterin-pushes-dvt-lite-to-make-ethereum-validator-setup-easier)**
-
-In a post on X, the Ethereum co-founder said that the EF is testing a new method for running validators that could make staking infrastructure significantly easier for institutions holding large amounts of ether.
-
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqePoG8lVrIMkttIi_GYHD1hjoono99HWveznReFvrihFD93Jg4ZiQNq&gaa_ts=69b09669&gaa_sig=Cuz_rkCDNAhbf9YRFZxG2CQoZa5FDLwRmtyb9zeM_zcfpeWahZafWJycbQ5WFydp1qx5Tp_gS5n1oIoM5a7sPg%3D%3D)**
-
-Barron's • 13h ago
-
----
-
-**[Where Will Ethereum Be in 2030?](https://www.fool.com/investing/2026/03/08/where-will-ethereum-be-in-2030/)**
-
-As long as Ethereum can maintain its dominance in decentralized finance (DeFi), the sky is the limit.
-
-The Motley Fool • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,17 +238,17 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 27K • 👍 2K • 💬 161 • ⏱️ 21:43 • 8h ago
+👁️ 35K • 👍 2K • 💬 203 • ⏱️ 21:43 • 8h ago
 
 ---
 
-**[Not Gonna Lie, Ethereum&#39;s Chart Looks INSANE Right Now](https://www.youtube.com/watch?v=fjQpNM5997A)**
+**[HOW IS NO ONE TALKING ABOUT WHAT ETHEREUM IS DOING??](https://www.youtube.com/watch?v=fjQpNM5997A)**
 
 Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 247 • 💬 67 • ⏱️ 13:04 • 6h ago
+👁️ 4K • 👍 285 • 💬 41 • ⏱️ 13:04 • 7h ago
 
 ---
 
@@ -256,7 +258,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 228 • ⏱️ 9:54 • 1d ago
+👁️ 51K • 👍 3K • 💬 247 • ⏱️ 9:54 • 1d ago
 
 ---
 
@@ -266,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 104 • 💬 3 • ⏱️ 5:14 • 6h ago
+👁️ 2K • 👍 117 • 💬 3 • ⏱️ 5:14 • 7h ago
 
 ---
 
@@ -276,7 +278,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 7K • 👍 297 • 💬 42 • ⏱️ 18:25 • 22h ago
+👁️ 7K • 👍 306 • 💬 43 • ⏱️ 18:25 • 23h ago
 
 ---
 
@@ -286,7 +288,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 218 • 👍 8 • ⏱️ 5:18 • 12h ago
+👁️ 251 • 👍 9 • ⏱️ 5:18 • 13h ago
+
+---
+
+**[Ethereum: Ist das die Zukunft oder kann das weg?](https://www.youtube.com/watch?v=UtUV3JVXVo8)**
+
+In diesem Video nehmen wir Ethereum in einem ausführlichen technischen Deep Dive auseinander. Statt nur ein einzelnes ...
+
+📺 Charts & Cars by Philip Klinkmüller
+
+👁️ 6K • 👍 744 • 💬 26 • ⏱️ 19:12 • 5h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=iUcsXE5JWns)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 142 • 💬 6 • ⏱️ 4:08 • 1d ago
 
 ---
 
@@ -296,37 +318,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 181 • 💬 119 • ⏱️ 15:06 • 2d ago
+👁️ 9K • 👍 180 • 💬 119 • ⏱️ 15:06 • 2d ago
 
 ---
 
-**[BITCOIN Y ETHEREUM PODRÍAN QUEDARSE FUERA (LA CONVERGENCIA ISO 20022)](https://www.youtube.com/watch?v=XzpBwXiMm3w)**
+**[ETHEREUM TAKES ON $ICP &amp; CYCLE OVER](https://www.youtube.com/watch?v=mBwCW8XNUEw)**
 
-BITCOIN Y ETHEREUM PODRÍAN QUEDARSE FUERA (LA CONVERGENCIA ISO 20022) Durante décadas el sistema financiero ...
+MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
 
-📺 Negocios & Poder
+📺 The Cryptoviser
 
-👁️ 124 • 👍 38 • 💬 18 • ⏱️ 10:05 • 3h ago
-
----
-
-**[BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=i7V9o6KPUgs)**
-
-BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 258 • 💬 345 • ⏱️ 14:42 • 1d ago
-
----
-
-**[&quot;The 1000x Opportunity EVEN Bigger Than Bitcoin&quot; (Time To BUY) : Tom Lee | Bitcoin Price 2026](https://www.youtube.com/watch?v=pNSIo8Ab7xo)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 2K • 👍 56 • 💬 266 • ⏱️ 19:16 • 1d ago
+👁️ 781 • 👍 70 • 💬 7 • ⏱️ 22:18 • 9h ago
 
 ---
 

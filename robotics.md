@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T22:29:49.701948+00:00'
+updated: '2026-03-10T22:57:07.062162+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 22:29 UTC  
+**Last Updated:** March 10, 2026 at 22:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineering for Disneyland theme parks. Inspiration for walking movements was taken from the waddle of a duck, creating a stable walk while still keeping the appearance fun, as with Star Wars droids.
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ Look at this interesting robotic grasping project, accomplished with the assista
 
 I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
 
-13h ago
+14h ago
 
 ---
 
@@ -110,13 +110,15 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg.com • 8h ago
+Bloomberg • 8h ago
 
 ---
 
-**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
+**[Nosh Robotics’ $1,500 robot chef doesn’t need any help with dinner](https://www.theverge.com/tech/892655/nosh-robotics-nosh-one-launch)**
 
-ABB • 1d ago
+This robo-chef can take over your meal prep.
+
+The Verge • 1h ago
 
 ---
 
@@ -136,51 +138,51 @@ NPR • 2d ago
 
 ---
 
-**[Tech stocks today: Anthropic sues Defense Department over ban, OpenAI's robotics leader resigns](https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-sues-defense-department-over-ban-openais-robotics-leader-resigns-152722809.html)**
+**[OpenAI’s Head of Robotics Resigns Over Company’s Pentagon Deal](https://www.bloomberg.com/news/articles/2026-03-07/openai-s-head-of-robotics-resigns-over-company-s-pentagon-deal)**
 
-Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
+The head of OpenAI’s robotics team resigned Saturday, citing the company’s deal to deploy its artificial intelligence models within the Pentagon’s classified network as the cause.
 
-Yahoo Finance • 7h ago
-
----
-
-**[Folsom Robotics Team Earns Think Award, Advances To World Championship](https://folsomtimes.com/folsom-robotics-team-earns-think-award-advances-to-world-championship/)**
-
-Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
-
-Folsom Times • 20h ago
+Bloomberg • 3d ago
 
 ---
 
-**[Qualcomm’s partnership with Neura Robotics is just the beginning](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)**
+**[OpenAI Robotics Leader Resigns, Says Ethical ‘Lines’ Were Crossed in Pentagon Deal](https://www.eweek.com/news/openai-robotics-chief-resigns-pentagon-ai-deal/)**
 
-Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
+OpenAI hardware leader Caitlin Kalinowski has resigned after the company’s Pentagon AI deal, citing concerns over surveillance, autonomy, and governance.
 
-TechCrunch • 1d ago
-
----
-
-**[Qualcomm's new Arduino Ventuno Q is an AI-focused computer designed for robotics](https://www.engadget.com/ai/qualcomms-new-arduino-ventuno-q-is-an-ai-focused-computer-designed-for-robotics-113047697.html)**
-
-Qualcomm, which purchased microcontroller board manufacturer Arduino last year, just announced a new computer that marries AI with robotics.
-
-Engadget • 1d ago
+eWeek • 21h ago
 
 ---
 
-**[These robots are coming for the jobs no one wants — and could fill workforce gaps](https://www.businessinsider.com/agility-robotics-humanoid-robots-labor-shortage-aging-workforce-2026-3)**
+**[ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale](https://blogs.nvidia.com/blog/abb-robotics-omniverse/)**
 
-Agility Robotics is building humanoid bots to address a labor gap in the manufacturing industry, which is seeing vacancies and an aging workforce.
+ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor.
 
-Business Insider • 2d ago
+NVIDIA Blog • 1d ago
 
 ---
 
-**[London-based robotics, AI company opens Nashville headquarters](https://www.nashvillepost.com/business/london-based-robotics-ai-company-opens-nashville-headquarters/article_08c73160-b3f7-45d4-ac6f-b1d93e6703d2.html)**
+**[AI-powered | WellSpan York Hospital unveils full-service robotic kitchen](https://www.wgal.com/article/wellspan-health-launches-ai-powered-robotic-dining-system/70685843)**
 
-Dexory unveils 50,000-square-foot warehouse months after completing $165 million in Series C funding round
+The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
 
-Nashville Post • 1d ago
+WGAL • 9h ago
+
+---
+
+**[How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/)**
+
+Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
+
+MIT Technology Review • 9h ago
+
+---
+
+**[Networked for War: Lessons from Ukraine’s Ground Robots](https://mwi.westpoint.edu/networked-for-war-lessons-from-ukraines-ground-robots/)**
+
+Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
+
+Modern War Institute - • 1d ago
 
 ---
 
@@ -194,7 +196,17 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 58K • 👍 1K • 💬 96 • ⏱️ 14:51 • 1d ago
+👁️ 59K • 👍 1K • 💬 97 • ⏱️ 14:51 • 1d ago
+
+---
+
+**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
+
+In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
+
+📺 Tech Talkies
+
+👁️ 18K • 👍 647 • 💬 54 • ⏱️ 4:51 • 3d ago
 
 ---
 
@@ -204,17 +216,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 23K • 👍 821 • 💬 61 • ⏱️ 14:35 • 5d ago
-
----
-
-**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
-
-China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
-
-📺 TechFrontierNow
-
-👁️ 61K • 👍 390 • 💬 90 • ⏱️ 9:26 • 6d ago
+👁️ 24K • 👍 821 • 💬 61 • ⏱️ 14:35 • 5d ago
 
 ---
 
@@ -224,7 +226,17 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 249K • 👍 3K • 💬 360 • ⏱️ 29:41 • 4d ago
+👁️ 252K • 👍 3K • 💬 374 • ⏱️ 29:41 • 4d ago
+
+---
+
+**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
+
+China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
+
+📺 TechFrontierNow
+
+👁️ 61K • 👍 392 • 💬 90 • ⏱️ 9:26 • 6d ago
 
 ---
 
@@ -234,7 +246,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 4K • 👍 60 • 💬 15 • ⏱️ 3:48 • 1d ago
+👁️ 5K • 👍 63 • 💬 15 • ⏱️ 3:48 • 1d ago
 
 ---
 
@@ -244,35 +256,7 @@ One of Tesla's biggest rivals in the humanoid race just got the attention of Elo
 
 📺 Kalil 4.0
 
-👁️ 630 • 👍 40 • 💬 1 • ⏱️ 0:52 • 5h ago
-
----
-
-**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.youtube.com/watch?v=e1r-C_zNpvc)**
-
-A senior executive at OpenAI has resigned over the company's decision to make its technology available to the U.S. military.
-
-📺 NPR
-
-👁️ 15K • 👍 2K • 💬 45 • ⏱️ 1:06 • 1d ago
-
----
-
-**[YOU CALL THIS USELESS? War Robots Bash Boom Pow Nerf](https://www.youtube.com/watch?v=uOxqTwp8aS8)**
-
-War Robots Gameplay: Bash Boom Pow Nerf in WR - My perspective My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 5K • 👍 375 • 💬 97 • ⏱️ 18:26 • 7h ago
-
----
-
-**[Could war in Ukraine become a robot war? #Ukraine #Russia #War #AI #Robots #BBCNews](https://www.youtube.com/watch?v=4qr5gGQ6e6I)**
-
-📺 BBC News
-
-👁️ 1K • 👍 34 • 💬 4 • ⏱️ 0:49 • 2h ago
+👁️ 865 • 👍 49 • 💬 1 • ⏱️ 0:52 • 6h ago
 
 ---
 
@@ -282,7 +266,27 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 38K • 👍 2K • 💬 287 • ⏱️ 0:13 • 6d ago
+👁️ 38K • 👍 2K • 💬 288 • ⏱️ 0:13 • 6d ago
+
+---
+
+**[China’s $16K Robot Changes the Future of Work](https://www.youtube.com/watch?v=KFzEWvTSmn4)**
+
+Everyone thought AI would replace office workers first. But the real disruption is happening in the physical world. Humanoid robots ...
+
+📺 By 2050
+
+👁️ 108K • 👍 2K • 💬 124 • ⏱️ 0:55 • 5d ago
+
+---
+
+**[Non-Stop INSANE Robot Fighting Action: Round 2 of NHRL&#39;s 2026 Pro World Championship KO Show (March)](https://www.youtube.com/watch?v=7tQ5Gyr3SYE)**
+
+Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is here: https://youtube.com/live/-x5Fzq4Hig0 ...
+
+📺 NHRL
+
+👁️ 213K • 👍 433 • 💬 21 • ⏱️ 3:35:12 • 2d ago
 
 ---
 

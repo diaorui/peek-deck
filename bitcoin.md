@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T22:29:49.692854+00:00'
+updated: '2026-03-10T22:57:07.052857+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 22:29 UTC  
+**Last Updated:** March 10, 2026 at 22:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,036.81
+### $69,600.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
+**24h:** +1.9%  
 **7d:** -4.2%  
-**30d:** -0.5%  
+**30d:** -0.6%  
 **90d:** -24.7%  
-**1y:** -15.7%  
+**1y:** -15.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1405.41B
+**Market Cap:** $1394.86B
 Rank #1
 
-**Circulating Supply:** 20,000,462 BTC
+**Circulating Supply:** 20,000,506 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.3%
+-44.7%
 
 **All-Time Low:** $67.81
-+103516.0%
++102697.5%
 
 ---
 
@@ -81,7 +81,19 @@ Rank #1
 
 Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 2h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 3h ago
+
+---
+
+**[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
+
+1h ago
+
+---
+
+**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
+
+14h ago
 
 ---
 
@@ -91,9 +103,11 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 ---
 
-**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
+**[Has adding crypto payments actually helped your business?](https://www.reddit.com/r/Bitcoin/comments/1rq2uih/has_adding_crypto_payments_actually_helped_your/)**
 
-14h ago
+Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
+
+5h ago
 
 ---
 
@@ -113,35 +127,11 @@ The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the
 
 ---
 
-**[Has adding crypto payments actually helped your business?](https://www.reddit.com/r/Bitcoin/comments/1rq2uih/has_adding_crypto_payments_actually_helped_your/)**
-
-Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
-
-5h ago
-
----
-
 **[Trying to recover a July 2012 Bitcoin wallet need advice](https://www.reddit.com/r/Bitcoin/comments/1rpz0n4/trying_to_recover_a_july_2012_bitcoin_wallet_need/)**
 
 Need advice from Bitcoin community about a 2012 wallet recovery. My client has a Bitcoin address from July 2012. We have a 12 word seed and the password, but nothing works. All 12 words exist in both the Blockchainwalletv3 list and the BIP39 list, and no word is missing. But when we try to recover it on the Blockchain.info recovery page or other tools, it always says invalid seed phrase. We also tried several recovery tools from GitHub including btcrecover: https://github.com/gurnec/btcrecover https://github.com/3rdIteration/btcrecover But still no success. The confusing part is that some sources say 12 word seed was very rare in 2012, and some say it did not exist at that time and only wallet identifier, password and wallet json were used. Because of this we are thinking maybe my client misunderstood something about the seed, but the 12 words look valid and match the word lists. Right now we are only trying seed shuffle and some brute force tests, but honestly we almost lost hope. If anyone from the community has any idea, suggestion, or experience with old 2012 Blockchain wallets, please share. Maybe there is something we are missing. Thank you.
 
-7h ago
-
----
-
-**[OPNet launches 17 March, bringing smart contracts to Bitcoin L1, requiring no external consensus whatsoever. An insanely impressive piece of technology built tirelessly by volunteers over the past 3 years.](https://www.reddit.com/r/Bitcoin/comments/1rq3mrs/opnet_launches_17_march_bringing_smart_contracts/)**
-
-OP_NET is a consensus layer on Bitcoin Layer 1 enabling fully expressive smart contracts, DeFi, and post-quantum security directly on Bitcoin. No sidechains. No bridges. BTC is gas. Mainnet launches March 17, 2026.
-
-🔗 [opnet.org](https://opnet.org) • 4h ago
-
----
-
-**[Could crypto currencies like BTC becomes geopolitical hedge assets?](https://www.reddit.com/r/Bitcoin/comments/1rptoot/could_crypto_currencies_like_btc_becomes/)**
-
-What thought you are having on this above question.
-
-11h ago
+8h ago
 
 ---
 
@@ -153,6 +143,14 @@ The world is waiting for a financial revolution, but it already happened in sile
 
 ---
 
+**[As requested! Interior pages sneak peak of Bitcoin Art Magazine:)](https://www.reddit.com/r/Bitcoin/comments/1rq6r4z/as_requested_interior_pages_sneak_peak_of_bitcoin/)**
+
+We announced the launch of the world’s first Bitcoin Art Magazine a couple days ago here in r/Bitcoin w a video of the cover and commenters requested photos of the interior! We have added some full spread photos to our website at https://bitcoinartmagazine.com and you can see more candid photo and video in our testimonials thread pinned on the official account at https://x.com/bitcoinartmag We love Bitcoin and we love art, let’s paint the world orange 🧡
+
+3h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -161,7 +159,7 @@ The world is waiting for a financial revolution, but it already happened in sile
 
 The Winklevoss twins moved $130 million in bitcoin to Gemini hot wallets while still holding $764 million worth of BTC, per Arkham.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -183,7 +181,7 @@ The Block • 1d ago
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -191,15 +189,7 @@ Investor's Business Daily • 7h ago
 
 Danielle Moinet — known to millions of fans worldwide as WWE Superstar Summer Rae — has been officially confirmed as a speaker at Bitcoin 2026, bringing a
 
-Bitcoin Magazine • 40m ago
-
----
-
-**[Bitwise CIO reiterates bitcoin price could reach $1 million as he compares it to gold](https://www.theblock.co/post/393109/bitwise-cio-bitcoin-price-1-million-gold)**
-
-Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
-
-The Block • 1h ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -233,6 +223,12 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
+
+Bloomberg • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -241,7 +237,7 @@ CoinDesk • 1d ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 9 • 💬 0 • 3h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 11 • 💬 0 • 4h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -305,9 +301,27 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 ---
 
+**[I Am Ditching WordPress for Static Sites and AI (and What Happened Next)](https://news.ycombinator.com/item?id=47279046)**
+
+For close to 15 years, WordPress was my default. It powered my brands: Sucuri, CleanBrowsing, NOC.org, DNSArchive, Trunc, and a dozen other projects you\'ve prob
+
+⬆️ 4 • 💬 0 • 4d ago • [perezbox.com](https://perezbox.com/2026/03/why-i-am-ditching-wordpress-for-static-sites-ai-and-what-happened-next/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[BITCOIN SURGE: The $85,000 &quot;Smart Money&quot; Target Explained 🚀 And How To Use Retail To Bank Millions](https://www.youtube.com/watch?v=wX_lbyHqfwk)**
+
+The crowd is completely lost in their emotions, but the charts are crystal clear. In today's crypto market update, Chief Market ...
+
+📺 Gareth Soloway
+
+👁️ 31K • 👍 2K • 💬 283 • ⏱️ 10:35 • 5h ago
+
+---
 
 **[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
 
@@ -315,17 +329,17 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 228 • ⏱️ 9:54 • 1d ago
+👁️ 51K • 👍 3K • 💬 247 • ⏱️ 9:54 • 1d ago
 
 ---
 
-**[Professional Capital Management CEO: Bitcoin is more mobile and resilient than gold](https://www.youtube.com/watch?v=_dzH-58yi0k)**
+**[Will The U.S. FREEZE Your Money Next? (Iran&#39;s SHOCKING Bitcoin Warning)](https://www.youtube.com/watch?v=T2rIIlKL4Ao)**
 
-Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital Management, says Bitcoin is emerging as a ...
+Global tensions are rising, private credit is cracking, and the dollar system just proved it can shut countries out of finance overnight ...
 
-📺 CNBC Television
+📺 Simply Bitcoin
 
-👁️ 13K • 👍 147 • 💬 103 • ⏱️ 4:26 • 1d ago
+👁️ 3K • 👍 472 • 💬 91 • ⏱️ 10:41 • 1h ago
 
 ---
 
@@ -335,37 +349,17 @@ Despite rising geopolitical tensions and massive volatility in oil markets, Bitc
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 17 • ⏱️ 24:07 • 8h ago
+👁️ 14K • 👍 1K • 💬 17 • ⏱️ 24:07 • 9h ago
 
 ---
 
-**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=9uAVH56iJwk)**
+**[Professional Capital Management CEO: Bitcoin is more mobile and resilient than gold](https://www.youtube.com/watch?v=_dzH-58yi0k)**
 
-After discussing it for weeks, Bitcoin had the rally into early March that was then subsequently sold off, just like prior midterm year ...
+Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital Management, says Bitcoin is emerging as a ...
 
-📺 Benjamin Cowen
+📺 CNBC Television
 
-👁️ 89K • 👍 6K • 💬 358 • ⏱️ 11:22 • 1d ago
-
----
-
-**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
-
-Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
-
-📺 Swan Bitcoin
-
-👁️ 12K • 👍 349 • 💬 158 • ⏱️ 10:35 • 1d ago
-
----
-
-**[War Fears Rising…Bitcoin Won’t Break](https://www.youtube.com/watch?v=GQ5cs7FwBSU)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRUs
-
-👁️ 20K • 👍 1K • 💬 331 • ⏱️ 35:05 • 1d ago
+👁️ 13K • 👍 153 • 💬 114 • ⏱️ 4:26 • 1d ago
 
 ---
 
@@ -375,37 +369,47 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 14K • 👍 967 • 💬 429 • ⏱️ 10:02 • 1d ago
+👁️ 15K • 👍 978 • 💬 431 • ⏱️ 10:02 • 1d ago
 
 ---
 
-**[Stop thinking of Bitcoin as digital gold (BTC/DXY/QQQ)](https://www.youtube.com/watch?v=OIjgQlI_Q6g)**
+**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=9uAVH56iJwk)**
 
-Once you know BTC isn't digital gold, you can understand the moves better. I prefer futures and options than underlying coins ...
+After discussing it for weeks, Bitcoin had the rally into early March that was then subsequently sold off, just like prior midterm year ...
 
-📺 Nicholas Crown
+📺 Benjamin Cowen
 
-👁️ 12K • 👍 305 • 💬 53 • ⏱️ 0:59 • 2d ago
-
----
-
-**[How is This Even Legal?](https://www.youtube.com/watch?v=nNIgCAqDdjg)**
-
-This video examines the "Bitcoin Gamble," questioning its legality and business model within the current financial landscape.
-
-📺 Redhawk Media Group
-
-👁️ 883 • 👍 11 • 💬 1 • ⏱️ 1:40 • 1d ago
+👁️ 90K • 👍 6K • 💬 358 • ⏱️ 11:22 • 1d ago
 
 ---
 
-**[Bitcoin HOLDS STRONG As Global Energy Crisis Unfolds! Should We Be Concerned?](https://www.youtube.com/watch?v=BOVp0jiGiy4)**
+**[Bitcoin: The Structure of a Bear Market](https://www.youtube.com/watch?v=xH1eaS-Gkfg)**
 
-Bitcoin #Crypto #Finance Global markets are showing signs of serious stress as energy prices surge and financial tensions ...
+In this video, we take a step back and look at the structure of a Bitcoin bear market. Bear markets rarely unfold as a single dramatic ...
 
-📺 The Wolf Of All Streets
+📺 Benjamin Cowen
 
-👁️ 24K • 👍 1K • 💬 285 • ⏱️ 1:00:34 • 1d ago
+👁️ 14K • 👍 2K • 💬 116 • ⏱️ 13:00 • 2h ago
+
+---
+
+**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
+
+Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
+
+📺 Swan Bitcoin
+
+👁️ 12K • 👍 349 • 💬 144 • ⏱️ 10:35 • 1d ago
+
+---
+
+**[Will Global Conflict Send Bitcoin Higher?](https://www.youtube.com/watch?v=oXw7wHEokfY)**
+
+Jeff Park is the Partner & Chief Investment Officer at ProCap BTC. In this conversation, we discuss the idea of “wartime bitcoin,” ...
+
+📺 Anthony Pompliano
+
+👁️ 2K • 👍 243 • 💬 7 • ⏱️ 25:55 • 1h ago
 
 ---
 
