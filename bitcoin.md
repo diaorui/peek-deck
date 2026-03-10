@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T19:38:47.478111+00:00'
+updated: '2026-03-10T20:36:02.568345+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 19:38 UTC  
+**Last Updated:** March 10, 2026 at 20:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,001.00
+### $70,122.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** -3.5%  
-**30d:** +0.1%  
-**90d:** -24.2%  
-**1y:** -15.2%  
+**24h:** +1.8%  
+**7d:** -3.4%  
+**30d:** +0.2%  
+**90d:** -24.1%  
+**1y:** -15.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1415.01B
+**Market Cap:** $1405.41B
 Rank #1
 
-**Circulating Supply:** 20,000,406 BTC
+**Circulating Supply:** 20,000,462 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.9%
+-44.3%
 
 **All-Time Low:** $67.81
-+104234.2%
++103516.0%
 
 ---
 
@@ -79,13 +79,21 @@ Rank #1
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-11h ago
+12h ago
+
+---
+
+**[Netflix Secretly Banned Bitcoin From A Boxer’s Trunks Right Before The Fight Of His Life](https://www.reddit.com/r/Bitcoin/comments/1rq6s2w/netflix_secretly_banned_bitcoin_from_a_boxers/)**
+
+Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 1h ago
 
 ---
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +109,7 @@ This is why we BITCOIN. More of this to come?
 
 The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 6h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 7h ago
 
 ---
 
@@ -109,7 +117,7 @@ The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the
 
 Need advice from Bitcoin community about a 2012 wallet recovery. My client has a Bitcoin address from July 2012. We have a 12 word seed and the password, but nothing works. All 12 words exist in both the Blockchainwalletv3 list and the BIP39 list, and no word is missing. But when we try to recover it on the Blockchain.info recovery page or other tools, it always says invalid seed phrase. We also tried several recovery tools from GitHub including btcrecover: https://github.com/gurnec/btcrecover https://github.com/3rdIteration/btcrecover But still no success. The confusing part is that some sources say 12 word seed was very rare in 2012, and some say it did not exist at that time and only wallet identifier, password and wallet json were used. Because of this we are thinking maybe my client misunderstood something about the seed, but the 12 words look valid and match the word lists. Right now we are only trying seed shuffle and some brute force tests, but honestly we almost lost hope. If anyone from the community has any idea, suggestion, or experience with old 2012 Blockchain wallets, please share. Maybe there is something we are missing. Thank you.
 
-4h ago
+5h ago
 
 ---
 
@@ -117,15 +125,7 @@ Need advice from Bitcoin community about a 2012 wallet recovery. My client has a
 
 Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
 
-2h ago
-
----
-
-**[Buying So Much Bitcoin at $69,420.69](https://www.reddit.com/r/Bitcoin/comments/1rpim36/buying_so_much_bitcoin_at_6942069/)**
-
-I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
-
-18h ago
+3h ago
 
 ---
 
@@ -133,7 +133,15 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 What thought you are having on this above question.
 
-8h ago
+9h ago
+
+---
+
+**[Buying So Much Bitcoin at $69,420.69](https://www.reddit.com/r/Bitcoin/comments/1rpim36/buying_so_much_bitcoin_at_6942069/)**
+
+I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
+
+19h ago
 
 ---
 
@@ -141,15 +149,7 @@ What thought you are having on this above question.
 
 OP_NET is a consensus layer on Bitcoin Layer 1 enabling fully expressive smart contracts, DeFi, and post-quantum security directly on Bitcoin. No sidechains. No bridges. BTC is gas. Mainnet launches March 17, 2026.
 
-🔗 [opnet.org](https://opnet.org) • 1h ago
-
----
-
-**[Coinbase alternatives for 2026?](https://www.reddit.com/r/Bitcoin/comments/1rprz20/coinbase_alternatives_for_2026/)**
-
-Been on Coinbase for a while but fees are getting old, especially on small buys. Haven't had issues yet but heard support is a nightmare when things go wrong. I'd rather switch before I find that out the hard way. Already looked into some alternatives, Kraken, which has lower fees with Kraken Pro. Binance is huge but has location restrictions. Bitget and Bybit also get mentioned with competitive fees. For those who left Coinbase, where'd you go? Just doing spot trading, want low fees, reliable withdrawals, decent coin selection. What's working well for regular users in 2026?
-
-10h ago
+🔗 [opnet.org](https://opnet.org) • 2h ago
 
 ---
 
@@ -161,13 +161,7 @@ Been on Coinbase for a while but fees are getting old, especially on small buys.
 
 The Winklevoss twins moved $130 million in bitcoin to Gemini hot wallets while still holding $764 million worth of BTC, per Arkham.
 
-The Block • 7h ago
-
----
-
-**[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
-
-Investor's Business Daily • 4h ago
+The Block • 8h ago
 
 ---
 
@@ -179,61 +173,75 @@ The Block • 1d ago
 
 ---
 
-**[Ross Gerber Says 'Buy My Tokens' As Michael Saylor Hints Strategy Will Accumulate More Bitcoin](https://finance.yahoo.com/news/ross-gerber-says-buy-tokens-180019221.html)**
+**[Strategy buys $1.3 billion of Bitcoin using mostly common stock](https://fortune.com/2026/03/09/michael-saylor-strategy-bitcoin-buy-common-stock/)**
 
-Renowned investor Ross Gerber responded to Michael Saylor on Sunday after the Strategy Inc. Chair said the company is gearing to buy more Bitcoin. Gerber Jabs Saylor Gerber replied to Strategy Chair Michael Saylor’s X post, “The Second Century Begins,”...
+The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitwise CIO Makes a Straightforward Case for $1 Million Bitcoin](https://unchainedcrypto.com/bitwise-cio-makes-a-straightforward-case-for-1-million-bitcoin/)**
-
-Hougan argues that investors often underestimate bitcoin’s upside because they anchor to today’s store of value market instead of considering how much that market could grow over the next decade.
-
-unchainedcrypto.com • 1h ago
+Fortune • 1d ago
 
 ---
 
-**[The Daily: Winklevoss twins move $130 million in BTC to Gemini, South Korean prosecutors sell seized bitcoin and more](https://www.theblock.co/post/393063/the-daily-winklevoss-twins-move-130-million-in-btc-to-gemini-south-korean-prosecutors-sell-seized-bitcoin-and-more)**
+**[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
-
-The Block • 1h ago
+Investor's Business Daily • 5h ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin price today: jumps to $71.5k as Trump’s Iran remarks lift risk appetite](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rebounds-above-70k-as-trump-remarks-lift-risk-appetite-4551058)**
+**[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
 
-Investing.com • 3h ago
-
----
-
-**[Bitcoin Jumps Above $71,000 as Iran War Worries Ease](https://finance.yahoo.com/news/bitcoin-steadies-around-70-000-061452473.html)**
-
-The rebound began Monday after President Donald Trump suggested that he is looking to bring the conflict to an end.  Oil extended its decline Tuesday as lawmakers looked to assure investors that policy interventions could cushion the war’s impact on energy prices.  The token “gained support from global stock markets, where traders hurried to buy the dip on Trump’s comments about the imminent end of the Iranian conflict,” said Alex Kuptsikevich, chief market analyst at FxPro, adding that investors “rushed back into the market, driven by FOMO, the fear of missing out.”
-
-Yahoo Finance • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[Crypto price news: Bitcoin hits $71,500, CRCL, BTGO, FIGR rally as oil shock fears fade](https://www.coindesk.com/markets/2026/03/10/bitcoin-climbs-past-usd71-000-as-oil-shock-fears-continue-to-ease)**
+**[Bitcoin Shows ‘Tentative Signs of Improvement’ as Iran Conflict Fears Wane](https://finance.yahoo.com/news/bitcoin-shows-tentative-signs-improvement-012136311.html)**
 
-The International Energy Agency (IEA) on Tuesday said it will convene an extraordinary meeting of its member countries to consider releasing emergency oil reserves.
+Oil’s sharp swing and renewed Bitcoin ETF inflows highlight a fragile rebound as on-chain data suggest crypto market stress may be easing.
 
-CoinDesk • 3h ago
+Yahoo Finance • 19h ago
+
+---
+
+**[Almost 600,000 BTC snapped up between $60K and $70K in recent correction](https://www.coindesk.com/markets/2026/03/10/traders-snapped-up-nearly-600-000-btc-as-bitcoin-dipped-below-usd70-000-blockchain-data-show)**
+
+Glassnode data shows strong demand during bitcoin’s recent correction, with 200,00 BTC purchased over the past two weeks.
+
+CoinDesk • 8h ago
+
+---
+
+**[Why Bitcoin Miners Are Abandoning The Orange Coin For AI — And Why It Might Be A Massive Trap](https://bitcoinmagazine.com/business/public-bitcoin-miners-are-dumping-bitcoin-for-ai-a-historic-mistake)**
+
+Imagine ditching Bitcoin — the asset you accumulated through cycles — to lease your rigs to Big Tech for AI. That's exactly what public miners are doing... but history shows infrastructure builders rarely capture the upside.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Nigel Farage invests £215,000 in Kwasi Kwarteng’s bitcoin firm](https://www.theguardian.com/politics/2026/mar/09/nigel-farage-kwasi-kwarteng-bitcoin-reform-uk-crypto-stack-btc)**
+
+Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
+
+The Guardian • 22h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://news.ycombinator.com/item?id=47327212)**
+
+The Ivy League school still has more money invested in Bitcoin than any other US stock.
+
+⬆️ 8 • 💬 0 • 1h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+
+---
 
 **[Bitcoin difficulty jumps 15% largest increase since 2021, despite price slump](https://news.ycombinator.com/item?id=47311134)**
 
@@ -259,14 +267,6 @@ Complete operating system for Bitcoiners
 
 ---
 
-**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://news.ycombinator.com/item?id=47327212)**
-
-The Ivy League school still has more money invested in Bitcoin than any other US stock.
-
-⬆️ 2 • 💬 0 • 56m ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
-
----
-
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
 ⬆️ 2 • 💬 0 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
@@ -277,7 +277,7 @@ The Ivy League school still has more money invested in Bitcoin than any other US
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 6h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 7h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -299,7 +299,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 13h ago
+⬆️ 1 • 💬 0 • 14h ago
 
 ---
 
@@ -313,27 +313,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 245 • ⏱️ 9:54 • 21h ago
-
----
-
-**[Arthur Hayes: The Fed Will Print Again — That’s When Bitcoin Explodes](https://www.youtube.com/watch?v=Ny9P1l0WKwo)**
-
-Arthur Hayes, co-founder of BitMEX and CIO of Maelstrom, joins Coin Stories to discuss Bitcoin, macroeconomics, AI disruption, ...
-
-📺 Natalie Brunell
-
-👁️ 3K • 👍 299 • 💬 67 • ⏱️ 50:10 • 5h ago
-
----
-
-**[the most important video on bitcoin i will ever make....](https://www.youtube.com/watch?v=f-4Rs3Sqlhc)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 14K • 👍 940 • 💬 427 • ⏱️ 10:02 • 23h ago
+👁️ 49K • 👍 3K • 💬 228 • ⏱️ 9:54 • 22h ago
 
 ---
 
@@ -343,7 +323,17 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 12K • 👍 141 • 💬 102 • ⏱️ 4:26 • 1d ago
+👁️ 13K • 👍 147 • 💬 103 • ⏱️ 4:26 • 1d ago
+
+---
+
+**[Bitcoin Has One Hurdle To Beat Before Going Higher! [Data]](https://www.youtube.com/watch?v=wRFOgohMOhA)**
+
+Despite rising geopolitical tensions and massive volatility in oil markets, Bitcoin continues to rally. In this episode, Ran breaks ...
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 1K • 💬 17 • ⏱️ 24:07 • 6h ago
 
 ---
 
@@ -353,7 +343,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 88K • 👍 6K • 💬 348 • ⏱️ 11:22 • 1d ago
+👁️ 89K • 👍 6K • 💬 358 • ⏱️ 11:22 • 1d ago
 
 ---
 
@@ -363,27 +353,7 @@ Did Bitcoin already put in the bottom, or is this just the start of a longer gri
 
 📺 Swan Bitcoin
 
-👁️ 12K • 👍 346 • 💬 172 • ⏱️ 10:35 • 1d ago
-
----
-
-**[The Biggest Oil SHOCK In History: $2 Trillion DUMPED Overnight! (Is Bitcoin Safe?)](https://www.youtube.com/watch?v=RRvglXdxjBc)**
-
-The global fiat system is flashing red as 20 million barrels of oil vanish offline, triggering the biggest oil supply shock in history and ...
-
-📺 Simply Bitcoin
-
-👁️ 19K • 👍 2K • 💬 150 • ⏱️ 18:57 • 20h ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=TFT3ASaP18g)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 DJ Impozible
-
-👁️ 3K • 👍 3K • 2h ago
+👁️ 12K • 👍 349 • 💬 158 • ⏱️ 10:35 • 1d ago
 
 ---
 
@@ -397,13 +367,43 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 ---
 
-**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
+**[the most important video on bitcoin i will ever make....](https://www.youtube.com/watch?v=f-4Rs3Sqlhc)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
 
-📺 Altcoin Daily
+📺 Tyler S
 
-👁️ 41K • 👍 4K • 💬 341 • ⏱️ 10:01 • 1d ago
+👁️ 14K • 👍 967 • 💬 429 • ⏱️ 10:02 • 1d ago
+
+---
+
+**[Stop thinking of Bitcoin as digital gold (BTC/DXY/QQQ)](https://www.youtube.com/watch?v=OIjgQlI_Q6g)**
+
+Once you know BTC isn't digital gold, you can understand the moves better. I prefer futures and options than underlying coins ...
+
+📺 Nicholas Crown
+
+👁️ 12K • 👍 305 • 💬 53 • ⏱️ 0:59 • 2d ago
+
+---
+
+**[How is This Even Legal?](https://www.youtube.com/watch?v=nNIgCAqDdjg)**
+
+This video examines the "Bitcoin Gamble," questioning its legality and business model within the current financial landscape.
+
+📺 Redhawk Media Group
+
+👁️ 883 • 👍 11 • 💬 1 • ⏱️ 1:40 • 23h ago
+
+---
+
+**[Bitcoin HOLDS STRONG As Global Energy Crisis Unfolds! Should We Be Concerned?](https://www.youtube.com/watch?v=BOVp0jiGiy4)**
+
+Bitcoin #Crypto #Finance Global markets are showing signs of serious stress as energy prices surge and financial tensions ...
+
+📺 The Wolf Of All Streets
+
+👁️ 24K • 👍 1K • 💬 285 • ⏱️ 1:00:34 • 1d ago
 
 ---
 
