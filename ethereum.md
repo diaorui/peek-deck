@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-10T07:41:13.656418+00:00'
+updated: '2026-03-10T08:44:19.173531+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 07:41 UTC  
+**Last Updated:** March 10, 2026 at 08:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,028.00
+### $2,046.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.0%  
-**7d:** -4.1%  
-**30d:** -3.0%  
-**90d:** -36.9%  
-**1y:** +5.8%  
+**24h:** +3.1%  
+**7d:** -2.9%  
+**30d:** -1.8%  
+**90d:** -36.1%  
+**1y:** +7.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -82,7 +82,7 @@ Summary
 ⚠️ Lighthouse v8.1.2 is a high-priority patch release with further security-critical fixes atop v8.1.1.
 This is a mandatory upgrade for all users running any prior version. All prior Lighth...
 
-🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 7h ago
+🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 8h ago
 
 ---
 
@@ -90,7 +90,7 @@ This is a mandatory upgrade for all users running any prior version. All prior L
 
 Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec...3d6b, deployed in August 2015, just weeks after mainnet launch. The entire contract is one function: set(string). It stores a single string in public storage. That is it. What is interesting is the bytecode. It was compiled with solc v0.1.1, the earliest Solidity compiler that exists. I was able to reproduce the exact bytecode byte-for-byte using that compiler. The output matches the on-chain code perfectly. Contracts from this era are fascinating because Solidity was still being invented. No events, no modifiers, no constructors as we know them. Just raw storage writes. The compiler output is so small you can read the opcodes manually. The deployer (0x8674...94e2) deployed 18 contracts in the same week, all in the 52,000-55,000 block range. Looks like someone was experimenting heavily with what Solidity could do. If anyone is interested in early Ethereum archaeology, ethereumhistory.com is documenting contracts from this period with verified source code and compiler proofs. Edit: here is the contract page on Ethereum History.
 
-16h ago
+17h ago
 
 ---
 
@@ -106,7 +106,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In September 2015, six weeks after mainnet launch, someone deployed three contracts that became Ethereum's first naming infrastructure: GlobalRegistrar, HashReg, and UrlHint. Block 282,880 — September 24, 2015 The GlobalRegistrar mapped names to addresses. HashReg mapped code hashes to content hashes. UrlHint mapped content hashes to URLs for metadata retrieval. Together they formed the NatSpec documentation system — the mechanism that was supposed to let Ethereum wallets display human-readable descriptions before signing transactions. The system was hardcoded directly into go-ethereum v1.4.0 (common/registrar/registrar.go). Not an optional plugin. Core infrastructure. The frozen TODO that became ENS Inside the GlobalRegistrar source code (verified on Etherscan, compiled with solc v0.1.1), there's a comment that reads: // TODO: bidding mechanism That comment sat frozen for years. The ambition was there — first-come-first-served registration was always meant to be a placeholder. The bidding mechanism didn't arrive until ENS launched in May 2017, when Vickrey auctions replaced the naive assignment system. ENS didn't appear from nowhere. It solved the exact problem the GlobalRegistrar identified and couldn't finish. The three-contract system All three contracts were deployed by the same address within 18 blocks: - GlobalRegistrar: block 282,880 - HashReg: block 282,885 (5 blocks later) - UrlHint: block 282,898 (18 blocks after start) The deployer identity isn't confirmed — likely a go-ethereum core developer given the contracts were shipped alongside the go-ethereum codebase — but we haven't pinned the address to a name yet. Why it matters Every .eth name you resolve today is the descendant of that frozen TODO comment from 2015. The naming problem was understood from week six. It took two more years to solve it properly. We documented all three contracts on EthereumHistory.com last night. The verified source code, links to go-ethereum v1.4.0, and the full historical context are there if you want to dig deeper. Cross-posted from our ongoing archaeology of early mainnet contracts. If you deployed or used these contracts in 2015, we'd love to hear the story.
 
-18h ago
+19h ago
 
 ---
 
@@ -114,7 +114,7 @@ In September 2015, six weeks after mainnet launch, someone deployed three contra
 
 MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
 
-🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 17h ago
+🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 18h ago
 
 ---
 
@@ -158,29 +158,35 @@ I tried to access compound.finance, and when connecting wallet it warns me the d
 
 The price of Ethereum is up 4% over the last day, rebounding after a weekend slump under $2,000 as BitMine reveals its latest ETH buy.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
-**[Crypto News: New Ethereum Based Crypto Pepeto Updates Last Stage Sold Out in Hours as Raised Amount Crosses $7,859,000](https://markets.businessinsider.com/news/stocks/crypto-news-new-ethereum-based-crypto-pepeto-updates-last-stage-sold-out-in-hours-as-raised-amount-crosses-7-859-000-1035912372)**
+**[Ethereum (ETH) Below $2,000 Looks Increasingly Likely as Oil Prices Surge and Crypto Confidence Declines](https://www.ccn.com/analysis/crypto/ethereum-eth-below-2000-looks-increasingly-likely/)**
 
-Dubai, UAE, March  09, 2026  (GLOBE NEWSWIRE) -- Pepeto’s latest presale stage sold out hours ahead of schedule, pushing total funds past $7.859 m...
+CCN.com • 9h ago
 
-markets.businessinsider.com • 5h ago
+---
+
+**[Ethereum Price Defends $2,000 Support as RSI Hits Near-Oversold Levels](https://finance.yahoo.com/news/ethereum-price-defends-2-000-071818617.html)**
+
+The Ethereum price is fighting to hold the $2,000 line as sellers test the market’s resolve. The asset is trading at $2,050 with a weekly Relative Strength Index (RSI) of 33, signaling a crucial decision point.$2,000 represents a longstanding psychological level that bulls have defended since the February lows. The ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Rising Wedge Warning: Breakdown Could Send Price Toward $1,500](https://www.tradingview.com/news/newsbtc:0631e1caa094b:0-ethereum-rising-wedge-warning-breakdown-could-send-price-toward-1-500/)**
+
+Ethereum is showing early signs of a rising wedge formation, a pattern often associated with potential reversals. With key support under pressure, a breakdown from this structure could push the price lower, putting the $1,500 level firmly in focus as the next major target.A Rejection At Key High-Ti…
+
+TradingView • 2d ago
 
 ---
 
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
 Binance • 2d ago
-
----
-
-**[Sharplink Posts $734 Million Loss as Ethereum Staking Revenue Soars](https://finance.yahoo.com/news/sharplink-posts-734-million-loss-185152070.html)**
-
-The Ethereum-buying firm attributed its full-year performance to the asset’s volatility.
-
-Yahoo Finance • 12h ago
 
 ---
 
@@ -194,7 +200,7 @@ The Motley Fool • 1d ago
 
 **[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -202,27 +208,23 @@ Seeking Alpha • 22h ago
 
 Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
 
-PR Newswire • 19h ago
+PR Newswire • 20h ago
 
 ---
 
-**[Ethereum (ETH) Below $2,000 Looks Increasingly Likely as Oil Prices Surge and Crypto Confidence Declines](https://www.ccn.com/analysis/crypto/ethereum-eth-below-2000-looks-increasingly-likely/)**
+**[Bitmine lifts Ethereum treasury to 4.53 million ETH after adding 60,976 tokens in a week amid ‘mini-crypto winter’](https://www.theblock.co/post/392831/bitmine-lifts-ethereum-treasury-to-4-53-million-eth-after-adding-60976-tokens-in-a-week-amid-mini-crypto-winter)**
 
-CCN.com • 8h ago
+Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
 
----
-
-**[Ethereum Price Tries to Defend $1,900 Support amid $157 Million Co-Founder Selloff](https://www.tipranks.com/news/ethereum-price-tries-to-defend-1900-support-amid-157-million-co-founder-selloff)**
-
-TipRanks • 1d ago
+The Block • 19h ago
 
 ---
 
-**[Ethereum Rising Wedge Warning: Breakdown Could Send Price Toward $1,500](https://www.tradingview.com/news/newsbtc:0631e1caa094b:0-ethereum-rising-wedge-warning-breakdown-could-send-price-toward-1-500/)**
+**[Bitcoin, Ethereum, XRP Brace for U.S. CPI Report](https://www.tradingview.com/news/99Bitcoins:19a7bb65e094b:0-bitcoin-ethereum-xrp-brace-for-u-s-cpi-report/)**
 
-Ethereum is showing early signs of a rising wedge formation, a pattern often associated with potential reversals. With key support under pressure, a breakdown from this structure could push the price lower, putting the $1,500 level firmly in focus as the next major target.A Rejection At Key High-Ti…
+Bitcoin, Ethereum, and XRP are all trading in the green this week. On the surface, the crypto market looks calm. But under that calm, traders are waiting for one of the biggest macro events of the month: the U.S. CPI (inflation) report.Economists expect inflation to edge up to about 2.5%, slightly…
 
-TradingView • 2d ago
+TradingView • 8h ago
 
 ---
 
@@ -236,7 +238,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 176 • ⏱️ 9:54 • 9h ago
+👁️ 29K • 👍 2K • 💬 176 • ⏱️ 9:54 • 10h ago
 
 ---
 
@@ -246,7 +248,7 @@ BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 5K • 👍 221 • 💬 230 • ⏱️ 14:42 • 10h ago
+👁️ 5K • 👍 221 • 💬 230 • ⏱️ 14:42 • 11h ago
 
 ---
 
@@ -256,7 +258,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 264 • 👍 18 • 💬 27 • ⏱️ 5:59 • 12h ago
+👁️ 264 • 👍 18 • 💬 27 • ⏱️ 5:59 • 13h ago
 
 ---
 
@@ -286,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 291 • 👍 37 • ⏱️ 5:31 • 2h ago
+👁️ 291 • 👍 37 • ⏱️ 5:31 • 3h ago
 
 ---
 
@@ -306,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 142 • 💬 6 • ⏱️ 4:08 • 18h ago
+👁️ 2K • 👍 142 • 💬 6 • ⏱️ 4:08 • 19h ago
 
 ---
 
@@ -326,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 397 • 👍 16 • 💬 2 • ⏱️ 4:29 • 21h ago
+👁️ 397 • 👍 16 • 💬 2 • ⏱️ 4:29 • 22h ago
 
 ---
 
