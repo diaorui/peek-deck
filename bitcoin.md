@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-10T14:12:41.034628+00:00'
+updated: '2026-03-10T15:30:57.824614+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 14:12 UTC  
+**Last Updated:** March 10, 2026 at 15:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,711.42
+### $71,500.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -4.4%  
-**30d:** -0.8%  
-**90d:** -24.9%  
-**1y:** -15.9%  
+**24h:** +3.4%  
+**7d:** -2.0%  
+**30d:** +1.9%  
+**90d:** -22.8%  
+**1y:** -13.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1411.45B
+**Market Cap:** $1426.17B
 Rank #1
 
-**Circulating Supply:** 20,000,343 BTC
+**Circulating Supply:** 20,000,365 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.0%
+-43.4%
 
 **All-Time Low:** $67.81
-+103970.2%
++105130.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,15 +87,7 @@ Rank #1
 
 This is why we BITCOIN. More of this to come?
 
-20h ago
-
----
-
-**[Buying So Much Bitcoin at $69,420.69](https://www.reddit.com/r/Bitcoin/comments/1rpim36/buying_so_much_bitcoin_at_6942069/)**
-
-I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
-
-13h ago
+21h ago
 
 ---
 
@@ -103,15 +95,7 @@ I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing come
 
 I think this is the bottom. We will get BTC at 80k soon when i will sell and make 50k profit.
 
-36m ago
-
----
-
-**[Coinbase alternatives for 2026?](https://www.reddit.com/r/Bitcoin/comments/1rprz20/coinbase_alternatives_for_2026/)**
-
-Been on Coinbase for a while but fees are getting old, especially on small buys. Haven't had issues yet but heard support is a nightmare when things go wrong. I'd rather switch before I find that out the hard way. Already looked into some alternatives, Kraken, which has lower fees with Kraken Pro. Binance is huge but has location restrictions. Bitget and Bybit also get mentioned with competitive fees. For those who left Coinbase, where'd you go? Just doing spot trading, want low fees, reliable withdrawals, decent coin selection. What's working well for regular users in 2026?
-
-5h ago
+1h ago
 
 ---
 
@@ -119,7 +103,23 @@ Been on Coinbase for a while but fees are getting old, especially on small buys.
 
 The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 56m ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 2h ago
+
+---
+
+**[Buying So Much Bitcoin at $69,420.69](https://www.reddit.com/r/Bitcoin/comments/1rpim36/buying_so_much_bitcoin_at_6942069/)**
+
+I’ve been able to buy so much bitcoin at $69.420.69 that, even if nothing comes of Bitcoin, I feel like I’ll be enough.
+
+14h ago
+
+---
+
+**[Strategy insider says STRC momentum will "only accelerate" after surge in demand](https://www.reddit.com/r/Bitcoin/comments/1rpw4ru/strategy_insider_says_strc_momentum_will_only/)**
+
+Strategy's STRC surge accelerates Bitcoin accumulation. Chaitanya Jain: "This is only going to accelerate" as demand shifts to consistent yield seekers.
+
+🔗 [BitcoinTreasuries.NET](https://bitcointreasuries.net/news/behind-the-recent-demand-surge-of-strategys-strc) • 2h ago
 
 ---
 
@@ -127,7 +127,15 @@ The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the
 
 What thought you are having on this above question.
 
-3h ago
+4h ago
+
+---
+
+**[Coinbase alternatives for 2026?](https://www.reddit.com/r/Bitcoin/comments/1rprz20/coinbase_alternatives_for_2026/)**
+
+Been on Coinbase for a while but fees are getting old, especially on small buys. Haven't had issues yet but heard support is a nightmare when things go wrong. I'd rather switch before I find that out the hard way. Already looked into some alternatives, Kraken, which has lower fees with Kraken Pro. Binance is huge but has location restrictions. Bitget and Bybit also get mentioned with competitive fees. For those who left Coinbase, where'd you go? Just doing spot trading, want low fees, reliable withdrawals, decent coin selection. What's working well for regular users in 2026?
+
+6h ago
 
 ---
 
@@ -135,7 +143,7 @@ What thought you are having on this above question.
 
 Or else I’ll start throwing things
 
-18h ago
+20h ago
 
 ---
 
@@ -147,17 +155,31 @@ Or else I’ll start throwing things
 
 ---
 
-**[Bitcoin Hits 20 Million Mined: Less Than 1 Million Coins Left](https://www.reddit.com/r/Bitcoin/comments/1rpc6z1/bitcoin_hits_20_million_mined_less_than_1_million/)**
-
-Bitcoin has surpassed 20 million mined coins, meaning over 95% of its total 21 million supply is now in circulation.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/markets/bitcoin-hits-20-million-less-1m-left) • 17h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Strategy buys $1.3 billion of Bitcoin using mostly common stock](https://fortune.com/2026/03/09/michael-saylor-strategy-bitcoin-buy-common-stock/)**
+
+The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
+
+Fortune • 20h ago
+
+---
+
+**[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
+
+Investor's Business Daily • 1h ago
+
+---
+
+**['The second century begins': Michael Saylor's Strategy buys another 17,994 bitcoin for $1.3 billion as holdings reach 738,731 BTC](https://www.theblock.co/post/392822/the-second-century-begins-michael-saylors-strategy-buys-more-bitcoin)**
+
+Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $50 billion.
+
+The Block • 1d ago
+
+---
 
 **[Bitcoin's mined supply hits 20 million milestone, leaving final 1 million BTC to be issued over next 114 years](https://www.theblock.co/post/392660/bitcoin-mined-supply-hits-20-million-btc)**
 
@@ -167,69 +189,45 @@ The Block • 1d ago
 
 ---
 
-**[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
+**[When Will Bitcoin Bottom? Fidelity Macro Chief Says This Is The Metric To Watch](https://finance.yahoo.com/news/bitcoin-bottom-fidelity-macro-chief-174540450.html)**
 
-Reuters • 1d ago
+Market participants interested in knowing when Bitcoin will bottom should look at the gold-to-Bitcoin ratio, Fidelity Director of Global Macro Jurrien Timmer says. Timmer said on Feb. 27 Bitcoin should be evaluated by the gold-to-Bitcoin ratio, calling the digital asset...
 
----
-
-**[Nigel Farage invests £215,000 in Kwasi Kwarteng’s bitcoin firm](https://www.theguardian.com/politics/2026/mar/09/nigel-farage-kwasi-kwarteng-bitcoin-reform-uk-crypto-stack-btc)**
-
-Reform UK leader strengthens ties with crypto sector with stake in former Tory chancellor’s company Stack BTC
-
-The Guardian • 15h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC](https://www.coindesk.com/business/2026/03/09/nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc)**
+**[Bitcoin Price Rebounds From Oil-Fueled Retreat, Nasdaq To Launch Tokenized Stocks](https://www.investors.com/news/bitcoin-price-oil-support-nasdaq-tokenized-stocks-equities-kraken-partnership/)**
 
-Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
-
-CoinDesk • 1d ago
+Investor's Business Daily • 17h ago
 
 ---
 
-**[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
+**[Current price of Bitcoin for March 10, 2026](https://fortune.com/article/price-of-bitcoin-03-10-2026/)**
 
-Investor's Business Daily • 18m ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
----
-
-**[Strategy buys $1.3 billion of Bitcoin using mostly common stock](https://fortune.com/2026/03/09/michael-saylor-strategy-bitcoin-buy-common-stock/)**
-
-The company has sold about $1.7 billion in common stock and about $470 million of perpetual preferred shares to finance its past seven weekly Bitcoin purchases.
-
-Fortune • 18h ago
+Fortune • 23m ago
 
 ---
 
-**[Strategy acquires 17,994 bitcoin for $1.28B](https://finance.yahoo.com/news/strategy-acquires-17-994-bitcoin-134104471.html)**
+**[Get in the Solo-Mining Bitcoin Game for Less Than $50](https://www.entrepreneur.com/money-finance/get-in-the-solo-mining-bitcoin-game-for-less-than-50/503241)**
 
-In a regulatory filing, Strategy (MSTR) announced an update on its bitcoin holdings. The company reported acquiring 17,994 bitcoin for approximately $1.28B at an average purchase price of $70,946 between March 2 and March 8. As of March 8, Strategy holds 738,731 bitcoin acquired for an aggregate purchase price of approximately $56.04B.Claim 70% Off TipRanks PremiumUnlock hedge fund-level data and powerful investing tools for smarter, sharper decisions Stay ahead of the market with the latest new
+The BlockChance Bitcoin Ticket Miner is silent and energy efficient.
 
-Yahoo Finance • 31m ago
-
----
-
-**[Fake Police Officers Held French Couple at Knifepoint in $1M Bitcoin Robbery](https://www.yahoo.com/news/articles/fake-police-officers-held-french-133330364.html)**
-
-The incident is the latest in a spate of “$5 wrench attack” crypto kidnappings that have swept France in recent months.
-
-Yahoo • 39m ago
-
----
-
-**[The Blockspace Pod: The Last Bitcoin Mining Bull Market Ever w/ Liang Wang | CoinDesk Videos](https://www.coindesk.com/video/the-blockspace-pod-the-last-bitcoin-mining-bull-market-ever-w-liang-wang)**
-
-At a time when other bitcoin miners are pivoting to AI, Canaan is doubling down on bitcoin. | CoinDesk Videos
-
-CoinDesk • 1h ago
+Entrepreneur • 1h ago
 
 ---
 
 **[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
 
-Bloomberg.com • 17h ago
+Bloomberg • 19h ago
+
+---
+
+**[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
+
+Bloomberg • 6h ago
 
 ---
 
@@ -241,7 +239,7 @@ Bloomberg.com • 17h ago
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 21h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 23h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -249,7 +247,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 2 • 💬 3 • 1d ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 2 • 💬 4 • 1d ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -257,7 +255,7 @@ No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin p
 
 Complete operating system for Bitcoiners
 
-⬆️ 2 • 💬 1 • 5d ago • [opacore.com](https://opacore.com)
+⬆️ 2 • 💬 1 • 6d ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -271,7 +269,7 @@ Complete operating system for Bitcoiners
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 51m ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 2h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -279,7 +277,7 @@ The Bitcoin network is nearing 20 million mined coins, and while the last coin w
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 23h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -287,7 +285,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 4d ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 5d ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -307,7 +305,7 @@ Public bitcoin miner balance sheets are shifting as capital rotates from bitcoin
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 7h ago
+⬆️ 1 • 💬 0 • 9h ago
 
 ---
 
@@ -321,7 +319,7 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 192 • ⏱️ 9:54 • 16h ago
+👁️ 44K • 👍 2K • 💬 236 • ⏱️ 9:54 • 17h ago
 
 ---
 
@@ -331,7 +329,7 @@ The global fiat system is flashing red as 20 million barrels of oil vanish offli
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 122 • ⏱️ 18:57 • 14h ago
+👁️ 18K • 👍 2K • 💬 130 • ⏱️ 18:57 • 16h ago
 
 ---
 
@@ -341,7 +339,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 13K • 👍 901 • 💬 355 • ⏱️ 10:02 • 18h ago
+👁️ 13K • 👍 926 • 💬 403 • ⏱️ 10:02 • 19h ago
 
 ---
 
@@ -351,7 +349,7 @@ Lyn Alden just explained WHY this cycle has been so DIFFERENT — and why we won
 
 📺 Money Talks
 
-👁️ 1K • 👍 57 • 💬 84 • ⏱️ 17:32 • 17h ago
+👁️ 2K • 👍 62 • 💬 87 • ⏱️ 17:32 • 19h ago
 
 ---
 
@@ -361,7 +359,7 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 11K • 👍 129 • 💬 101 • ⏱️ 4:26 • 1d ago
+👁️ 12K • 👍 134 • 💬 101 • ⏱️ 4:26 • 1d ago
 
 ---
 
@@ -371,27 +369,7 @@ After discussing it for weeks, Bitcoin had the rally into early March that was t
 
 📺 Benjamin Cowen
 
-👁️ 85K • 👍 6K • 💬 328 • ⏱️ 11:22 • 1d ago
-
----
-
-**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
-
-Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
-
-📺 Swan Bitcoin
-
-👁️ 11K • 👍 334 • 💬 142 • ⏱️ 10:35 • 19h ago
-
----
-
-**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 3K • 💬 339 • ⏱️ 10:01 • 1d ago
+👁️ 86K • 👍 6K • 💬 340 • ⏱️ 11:22 • 1d ago
 
 ---
 
@@ -401,7 +379,27 @@ Are you ready? Sign up for iTrustCapital, and get a $100 funding bonus after you
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 233 • 💬 128 • ⏱️ 8:35 • 20h ago
+👁️ 5K • 👍 239 • 💬 134 • ⏱️ 8:35 • 21h ago
+
+---
+
+**[Is the Bitcoin Bottom In? Here&#39;s What the Data Says](https://www.youtube.com/watch?v=vmoZGvIHgt4)**
+
+Did Bitcoin already put in the bottom, or is this just the start of a longer grind sideways? John Haar and Brady Swenson break ...
+
+📺 Swan Bitcoin
+
+👁️ 11K • 👍 341 • 💬 143 • ⏱️ 10:35 • 20h ago
+
+---
+
+**[Give me 10 Minutes and I’ll Give you Life-Changing Crypto Advice](https://www.youtube.com/watch?v=NJyPwjZgTis)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 40K • 👍 3K • 💬 340 • ⏱️ 10:01 • 1d ago
 
 ---
 
@@ -411,7 +409,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 331 • ⏱️ 35:05 • 23h ago
+👁️ 20K • 👍 1K • 💬 331 • ⏱️ 35:05 • 1d ago
 
 ---
 

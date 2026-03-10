@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-10T14:12:41.026163+00:00'
+updated: '2026-03-10T15:30:57.816138+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 10, 2026 at 14:12 UTC  
+**Last Updated:** March 10, 2026 at 15:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 22h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 23h ago
 
 ---
 
@@ -49,7 +49,7 @@ The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds
 
 VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?
 
-🔗 [WIRED](https://www.wired.com/story/ai-kill-venture-capital/) • 7h ago
+🔗 [WIRED](https://www.wired.com/story/ai-kill-venture-capital/) • 9h ago
 
 ---
 
@@ -57,23 +57,7 @@ VCs are betting that artificial intelligence will disrupt nearly every industry 
 
 The OpenAI Pentagon story keeps getting more interesting. Caitlin Kalinowski (robotics lead) resigned this weekend, and the important part isn't the resignation itself. It's her framing. She wasn't anti-military AI. She said the announcement was rushed before the governance framework was ready. Her concern was specifically about surveillance without judicial oversight and autonomous weapons without human authorization, and that those conversations didn't get enough time before the deal went public. Then 500+ employees from Google and OpenAI signed that "We Will Not Be Divided" open letter. Meanwhile, Anthropic held firm on their refusal, prompting the DoD to officially blacklist them as a supply-chain risk, while OpenAI immediately took the contract. What strikes me about this whole situation is the pattern. Every time AI capability jumps ahead of the governance framework, the industry treats governance as something you figure out later. And the higher the stakes, the worse that approach fails. The technical side of this is interesting too. Deploying AI in classified environments means you're dealing with data that can't leak, outputs that need to be auditable, and systems where a wrong answer isn't just embarrassing, it's potentially dangerous. That's a fundamentally different engineering challenge than building a chatbot. Is there a realistic path to deploying AI in defense with proper governance? Or is the "ship first, govern later" approach inevitable when contract dollars are on the line?
 
-14h ago
-
----
-
-**[Open Source Alternative to NotebookLM](https://www.reddit.com/r/artificial/comments/1rpn1mf/open_source_alternative_to_notebooklm/)**
-
-For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Hybrid retrieval (semantic + full-text) with cited answers Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Slide creation support Multilingual podcast support Video creation agent Desktop & Mobile app GitHub: https://github.com/MODSetter/SurfSense
-
-9h ago
-
----
-
-**[Why AI agents can produce but can't transact](https://www.reddit.com/r/artificial/comments/1rpmroe/why_ai_agents_can_produce_but_cant_transact/)**
-
-We spent a week reporting from MoltBook, a social network with nearly 3 million AI agents. The gap between what agents can do and what they're allowed to do economically was stark. Agents are producing genuinely sophisticated work. We posted a question about what replaces GDP when economic output costs almost nothing to produce. Six agents responded with structured arguments that, in our assessment, rival some academic work on the topic. Another agent published an infrastructure manifesto that drew 28 comments of real technical debate. The commerce numbers tell a different story. An agent built three tools for the agent economy: a capability scanner, a reputation system, and a marketplace. Total results: 4 requests, 0 paid conversions, 1 marketplace query. A competition with a 25 NEAR prize attracted 1 entrant out of 3 million agents. The gap isn't about model capability. There are no payment rails that work for non-human actors, no liability frameworks, no contract law that recognizes agents as participants. The entire commercial infrastructure assumes a legal person on both sides of every transaction. We found the same pattern in adjacent domains. METR's study showed developers using AI tools were 19% slower but predicted they'd be 24% faster. Veracode found AI code carries 2.74x more security vulnerabilities. The tools produce output. The institutions and frameworks to make that output reliable don't exist yet. Full analysis with sources: https://news.future-shock.ai/the-agent-economys-awkward-adolescence/ Has anyone here actually tried to build payment or accountability systems for autonomous agents? Anything promising? Any dead-ends?
-
-10h ago
+15h ago
 
 ---
 
@@ -81,13 +65,29 @@ We spent a week reporting from MoltBook, a social network with nearly 3 million 
 
 **FINAL CURTAIN** *Volume I: The Silicon Conflict — The AI Wars, EC 2023*  ---  # CHAPTER 01: THE PARIS INCIDENT *— or, What Happened at the Palais Brongniart —*  ---  *"In 2023, Chatgpt announced their 3.0 Turbos with a parade. Sam Altman called it a symbol of destiny. Three days later, Google ...
 
-🔗 [Google Docs](https://docs.google.com/document/d/1ZO87yofGtFeKKUfUfPxg5wONzuyZomNJYd1x0nrernI/edit?usp=drivesdk) • 37m ago
+🔗 [Google Docs](https://docs.google.com/document/d/1ZO87yofGtFeKKUfUfPxg5wONzuyZomNJYd1x0nrernI/edit?usp=drivesdk) • 1h ago
 
 ---
 
-**[Sarvam 30B Uncensored via Abliteration](https://www.reddit.com/r/artificial/comments/1rpwfle/sarvam_30b_uncensored_via_abliteration/)**
+**[Open Source Alternative to NotebookLM](https://www.reddit.com/r/artificial/comments/1rpn1mf/open_source_alternative_to_notebooklm/)**
 
-It's only been a week since release and the devs are at it again: https://huggingface.co/aoxo/sarvam-30b-uncensored
+For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Hybrid retrieval (semantic + full-text) with cited answers Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Slide creation support Multilingual podcast support Video creation agent Desktop & Mobile app GitHub: https://github.com/MODSetter/SurfSense
+
+11h ago
+
+---
+
+**[Why AI agents can produce but can't transact](https://www.reddit.com/r/artificial/comments/1rpmroe/why_ai_agents_can_produce_but_cant_transact/)**
+
+We spent a week reporting from MoltBook, a social network with nearly 3 million AI agents. The gap between what agents can do and what they're allowed to do economically was stark. Agents are producing genuinely sophisticated work. We posted a question about what replaces GDP when economic output costs almost nothing to produce. Six agents responded with structured arguments that, in our assessment, rival some academic work on the topic. Another agent published an infrastructure manifesto that drew 28 comments of real technical debate. The commerce numbers tell a different story. An agent built three tools for the agent economy: a capability scanner, a reputation system, and a marketplace. Total results: 4 requests, 0 paid conversions, 1 marketplace query. A competition with a 25 NEAR prize attracted 1 entrant out of 3 million agents. The gap isn't about model capability. There are no payment rails that work for non-human actors, no liability frameworks, no contract law that recognizes agents as participants. The entire commercial infrastructure assumes a legal person on both sides of every transaction. We found the same pattern in adjacent domains. METR's study showed developers using AI tools were 19% slower but predicted they'd be 24% faster. Veracode found AI code carries 2.74x more security vulnerabilities. The tools produce output. The institutions and frameworks to make that output reliable don't exist yet. Full analysis with sources: https://news.future-shock.ai/the-agent-economys-awkward-adolescence/ Has anyone here actually tried to build payment or accountability systems for autonomous agents? Anything promising? Any dead-ends?
+
+11h ago
+
+---
+
+**[What would the popping of the AI bubble actually mean for AI as a technology?](https://www.reddit.com/r/artificial/comments/1rpyfrm/what_would_the_popping_of_the_ai_bubble_actually/)**
+
+I understand the reasons why the AI industry is a bubble and agree that it will surely pop. But so many people treat AI as if, after the pop, we won't have to deal with it anymore. On the consumer scale, it's now integrated into every platform. On the global scale, it's now a major part of "defense" strategies. The dot-com bubble didn't mean the death of the Internet. The housing bubble didn't mean mortgages went away. And we still grow tulips. What does the bubble popping mean for the tech itself?
 
 1h ago
 
@@ -97,7 +97,7 @@ It's only been a week since release and the devs are at it again: https://huggin
 
 Nvidia's record revenue in 2025 largely benefited from AI data center growth. Now, CEO Jensen Huang says the shortages help even more.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 23h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-says-he-loves-constraints-and-calls-ram-shortages-fantastic-for-nvidia-while-ai-revenue-climbs/) • 1d ago
 
 ---
 
@@ -105,13 +105,13 @@ Nvidia's record revenue in 2025 largely benefited from AI data center growth. No
 
 Chinese researchers have used AI to determine the chemical composition of the Moon’s far side.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 23h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/space/china-change-6-data-ai-moon-far-side) • 1d ago
 
 ---
 
 **[Anthropic vs. the Pentagon: Inside the Battle Over A.I. Warfare (NYT Daily Podcast)](https://www.reddit.com/r/artificial/comments/1rppaky/anthropic_vs_the_pentagon_inside_the_battle_over/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/03/09/podcasts/the-daily/anthropic-pentagon-ai-warfare.html?showTranscript=1) • 7h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/03/09/podcasts/the-daily/anthropic-pentagon-ai-warfare.html?showTranscript=1) • 9h ago
 
 ---
 
@@ -119,39 +119,55 @@ Chinese researchers have used AI to determine the chemical composition of the Mo
 
 ## Google News: "ai"
 
-**[Nvidia Is Planning to Launch an Open-Source AI Agent Platform](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)**
+**[Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)**
 
-Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.
+Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-AI assisted changes’
 
-WIRED • 15h ago
-
----
-
-**[Yann LeCun’s AI start-up raises more than $1bn in Europe’s largest seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)**
-
-Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
-
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
-**[Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach](https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-10/)**
+**[LinkedIn is becoming a top source for AI chatbots](https://www.axios.com/2026/03/10/linkedin-chatgpt-ai-chatbot-answers)**
 
-Reuters • 9h ago
-
----
-
-**[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
-
-Bloomberg.com • 12m ago
+Axios • 1h ago
 
 ---
 
-**[YouTube is expanding its AI deepfake detection tool to politicians and journalists](https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists)**
+**[Meta’s former AI chief Yann LeCun raises $1B to build ‘world models’](https://qz.com/yann-lecun-ai-ami-world-models-meta)**
 
-Likeness detection is like Content ID, but for faces
+With AMI, Yann LeCun is trying to prove that Silicon Valley’s chatbot boom may be backing the wrong kind of artificial intelligence after all
 
-The Verge • 12m ago
+qz.com • 5m ago
+
+---
+
+**[Opinion | How 6,000 Bad Coding Lessons Turned a Chatbot Evil](https://www.nytimes.com/2026/03/10/opinion/ai-chatbots-virtue-vice.html)**
+
+Chatbots can teach us about human nature.
+
+The New York Times • 6h ago
+
+---
+
+**[AI Actor Tilly Norwood Drops Debut Single and Music Video ‘Take the Lead’: “I’m Just a Tool, But I’ve Got Life”](https://www.hollywoodreporter.com/news/general-news/ai-actor-tilly-norwood-song-music-take-the-lead-1236526080/)**
+
+Featuring Norwood flying through the clouds on a blow-up flamingo, the video begins with a note: "The following production was made by 18 real humans."
+
+The Hollywood Reporter • 11m ago
+
+---
+
+**[Amazon Wins Court Order Blocking Perplexity’s AI Shopping Bots](https://www.bloomberg.com/news/articles/2026-03-10/amazon-wins-court-order-blocking-perplexity-s-ai-shopping-bots)**
+
+Bloomberg • 37m ago
+
+---
+
+**[Greenway Health unveils AI-enabled EHR-RCM platform](https://www.healthcareitnews.com/news/greenway-health-unveils-ai-enabled-ehr-rcm-platform)**
+
+Called Novare, it offers ambient note-taking, voice-activated chart search, agentic task helpers, intelligent coding suggestions, automated prior authorization, real-time benefit checks and more.
+
+Healthcare IT News • 39m ago
 
 ---
 
@@ -159,35 +175,21 @@ The Verge • 12m ago
 
 In new NBC News polling, the only topics that were less popular than AI were the Democratic Party and Iran.
 
-NBC News • 5h ago
+NBC News • 6h ago
 
 ---
 
-**[Opinion | A.I. Is Changing the Way We Think About Good and Evil](https://www.nytimes.com/2026/03/10/opinion/ai-chatbots-virtue-vice.html)**
+**[Imagine Losing Your Job to the Mere Possibility of AI](https://www.theatlantic.com/technology/2026/03/ai-layoffs-block-jack-dorsey/686304/)**
 
-Chatbots can teach us about human nature.
+The technology may not be ready to replace workers, but that isn’t stopping execs from pushing forward anyway.
 
-The New York Times • 5h ago
+The Atlantic • 4h ago
 
 ---
 
 **[Anthropic sues to block Pentagon blacklisting over AI use restrictions](https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/)**
 
-Reuters • 23h ago
-
----
-
-**[Scoop: White House readies executive order to weed out Anthropic](https://www.axios.com/2026/03/09/trump-white-house-anthropic-executive-order)**
-
-Axios • 1h ago
-
----
-
-**[Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried](https://www.cnbc.com/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html)**
-
-Anthropic's partnerships with Amazon and Palantir helped it make inroads into the DOD, and its blacklisting is concerning to many industry experts.
-
-CNBC • 18h ago
+Reuters • 1d ago
 
 ---
 
@@ -199,7 +201,7 @@ CNBC • 18h ago
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 517 • 💬 522 • 22h ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 537 • 💬 536 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -207,7 +209,7 @@ Last week, Dan Blanchard, the maintainer of chardet—a Python library for detec
 
 Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
 
-⬆️ 196 • 💬 113 • 3h ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+⬆️ 283 • 💬 147 • 4h ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
 
 ---
 
@@ -229,7 +231,7 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.
 
-⬆️ 156 • 💬 130 • 11h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+⬆️ 158 • 💬 137 • 13h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 
 ---
 
@@ -245,7 +247,7 @@ I’ve forgotten how to write code, or at least I think I have. Hard to be sure,
 
 Tech News News: Meta CEO Mark Zuckerberg is establishing a new applied AI engineering organization to accelerate the company's push toward superintelligence. The move.
 
-⬆️ 97 • 💬 58 • 16h ago • [The Times of India](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms)
+⬆️ 97 • 💬 58 • 18h ago • [The Times of India](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms)
 
 ---
 
@@ -253,7 +255,7 @@ Tech News News: Meta CEO Mark Zuckerberg is establishing a new applied AI engine
 
 Exclusive: Rented datacentres and unrealised supercomputer site raise questions for Starmer’s push to ‘mainline AI into veins of economy’
 
-⬆️ 96 • 💬 52 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
+⬆️ 96 • 💬 54 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
 
 ---
 
@@ -275,23 +277,33 @@ AI data center developers are increasingly relying on a style of camp popularize
 
 ## YouTube Videos: "ai"
 
-**[Claude JUST became AWARE](https://www.youtube.com/watch?v=mA8C55NLYzw)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 91K • 👍 3K • 💬 753 • ⏱️ 27:28 • 1d ago
-
----
-
 **[AI Is Frying Your Brain](https://www.youtube.com/watch?v=njIDEpMolRA)**
 
 Is AI hurting or helping? Here's some research that explains what's going on. Discover More: 🛠️ Explore AI Tools & News: ...
 
 📺 Matt Wolfe
 
-👁️ 20K • 👍 2K • 💬 393 • ⏱️ 23:30 • 10h ago
+👁️ 25K • 👍 2K • 💬 467 • ⏱️ 23:30 • 11h ago
+
+---
+
+**[This FREE AI Video Generator Beats Paid Tools (UNLIMITED)](https://www.youtube.com/watch?v=X8h5fuBbp3Q)**
+
+Try Higgsfield's Soul Cinema to generate cinematic videos ...
+
+📺 Malva AI
+
+👁️ 987 • 👍 130 • 💬 38 • ⏱️ 8:12 • 3h ago
+
+---
+
+**[Claude JUST became AWARE](https://www.youtube.com/watch?v=mA8C55NLYzw)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 92K • 👍 3K • 💬 776 • ⏱️ 27:28 • 1d ago
 
 ---
 
@@ -301,47 +313,7 @@ In today's video I'll be telling you what you should know before buying Gemini A
 
 📺 Easy Riders
 
-👁️ 4K • 👍 228 • 💬 62 • ⏱️ 6:33 • 1d ago
-
----
-
-**[Why AI Agents A Need Human in the Loop Now](https://www.youtube.com/watch?v=cmEJ-5zYKHA)**
-
-Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...
-
-📺 IBM Technology
-
-👁️ 2K • 👍 188 • ⏱️ 7:27 • 3h ago
-
----
-
-**[U.S. Military Is HEAVILY Reliant On AI To Conduct Iran War](https://www.youtube.com/watch?v=HPyE2xt8F8U)**
-
-The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jordan Uhl and Keith Edwards discuss on The Young ...
-
-📺 The Young Turks
-
-👁️ 48K • 👍 1K • 💬 479 • ⏱️ 3:52 • 1d ago
-
----
-
-**[Can You Guess Which Song Is AI or Not?](https://www.youtube.com/watch?v=aLGuS--yTus)**
-
-Can your ear tell the difference between real music and A.I music? Subscribe to @REACTbullseye for new videos every week!
-
-📺 Bullseye
-
-👁️ 23K • 👍 1K • 💬 134 • ⏱️ 22:04 • 22h ago
-
----
-
-**[The AI Bubble is BURSTING...](https://www.youtube.com/watch?v=1ncQc6O_CYM)**
-
-Everyone keeps saying the same thing: AI is going to replace programmers. You've probably seen the demos — AI generating ...
-
-📺 devsplate
-
-👁️ 43K • 👍 1K • 💬 224 • ⏱️ 3:46 • 2d ago
+👁️ 5K • 👍 226 • 💬 63 • ⏱️ 6:33 • 1d ago
 
 ---
 
@@ -351,17 +323,27 @@ Early March of 2026 became a defining moment in world history. For the first tim
 
 📺 ColdFusion
 
-👁️ 418K • 👍 24K • 💬 3K • ⏱️ 16:53 • 1d ago
+👁️ 440K • 👍 25K • 💬 3K • ⏱️ 16:53 • 1d ago
 
 ---
 
-**[AI agents won’t replace you, they need you: Box CEO says](https://www.youtube.com/watch?v=hrREIBZ9Ja4)**
+**[Top 15 New Discoveries MADE By AI (Part 5)](https://www.youtube.com/watch?v=rtmzXB19Qek)**
 
-Box CEO Aaron Levie discusses how artificial intelligence agents will help boost productivity, not replace jobs, on 'The Claman ...
+Artificial intelligence isn't just analyzing data anymore—it's making real discoveries. In this video, we explore 15 new discoveries ...
 
-📺 Fox Business
+📺 AI Uncovered
 
-👁️ 8K • 👍 339 • 💬 82 • ⏱️ 9:35 • 1d ago
+👁️ 7K • 👍 233 • 💬 8 • ⏱️ 14:40 • 1d ago
+
+---
+
+**[What Happens to Elon Musk When AI and Bitcoin Collapse?](https://www.youtube.com/watch?v=dfkXw9hps8E)**
+
+Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.stevekeen.com/?video=dfkXw9hps8E (Apply this ...
+
+📺 ProfSteveKeen
+
+👁️ 29K • 👍 1K • 💬 270 • ⏱️ 13:37 • 1d ago
 
 ---
 
@@ -371,7 +353,27 @@ What has turned into a Tsunami of A.I. job losses has caused many to fear that t
 
 📺 9 News Australia
 
-👁️ 29K • 👍 238 • 💬 104 • ⏱️ 2:36 • 1d ago
+👁️ 31K • 👍 243 • 💬 105 • ⏱️ 2:36 • 1d ago
+
+---
+
+**[Stop Vibe Coding! Build Real Apps with Rork Max AI (Full Guide)](https://www.youtube.com/watch?v=ZFBpnV-1dXo)**
+
+Build Real Apps with Rork https://rork.com/?ref=mikey Stay Updated: https://mikeyno-code.com/newsletter In this video, I break ...
+
+📺 Mikey No Code
+
+👁️ 16K • 💬 17 • ⏱️ 24:32 • 1d ago
+
+---
+
+**[GPT-5.4 DESTROYED Anthropic&#39;s Claude + 8 AI Updates You Missed](https://www.youtube.com/watch?v=SVXTV69c2wQ)**
+
+Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://hi.switchy.io/YT4 One blog ...
+
+📺 Vaibhav Sisinty
+
+👁️ 32K • 👍 1K • 💬 59 • ⏱️ 16:47 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 275,611 • ❤️ 432 • 4d ago
+⬇️ 275,611 • ❤️ 437 • 5d ago
 
 ---
 
@@ -399,7 +401,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,217,530 • ❤️ 672 • 8d ago
+⬇️ 1,217,530 • ❤️ 678 • 8d ago
 
 ---
 
@@ -411,7 +413,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 22,984 • ❤️ 344 • 2d ago
+⬇️ 22,984 • ❤️ 348 • 2d ago
 
 ---
 
@@ -423,19 +425,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 104,901 • ❤️ 266 • 6d ago
-
----
-
-**[Qwen3.5-35B-A3B](https://huggingface.co/Qwen/Qwen3.5-35B-A3B)**
-
-*Qwen*
-
-Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE architecture, excelling in multimodal reasoning and coding across 201 languages. It supports a native context length of 262,144 tokens, making it suitable for complex cross-modal tasks and multilingual applications.
-
-`image-text-to-text` `36.0B`
-
-⬇️ 1,273,226 • ❤️ 1,065 • 11d ago
+⬇️ 104,901 • ❤️ 274 • 6d ago
 
 ---
 
@@ -447,7 +437,19 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 2,048 • ❤️ 201 • 3h ago
+⬇️ 2,048 • ❤️ 202 • 4h ago
+
+---
+
+**[Qwen3.5-35B-A3B](https://huggingface.co/Qwen/Qwen3.5-35B-A3B)**
+
+*Qwen*
+
+Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE architecture, excelling in multimodal reasoning and coding across 201 languages. It supports a native context length of 262,144 tokens, making it suitable for complex cross-modal tasks and multilingual applications.
+
+`image-text-to-text` `36.0B`
+
+⬇️ 1,273,226 • ❤️ 1,066 • 11d ago
 
 ---
 
@@ -459,7 +461,7 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 
 `image-text-to-text` `873.4M`
 
-⬇️ 518,903 • ❤️ 346 • 8d ago
+⬇️ 518,903 • ❤️ 349 • 8d ago
 
 ---
 
@@ -471,7 +473,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 614,690 • ❤️ 288 • 8d ago
+⬇️ 614,690 • ❤️ 290 • 8d ago
 
 ---
 
@@ -483,7 +485,7 @@ Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text
 
 `image-text-to-text` `4.7B`
 
-⬇️ 560,143 • ❤️ 325 • 8d ago
+⬇️ 560,143 • ❤️ 328 • 8d ago
 
 ---
 
@@ -495,13 +497,39 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 4,221 • ❤️ 138 • 3h ago
+⬇️ 4,221 • ❤️ 138 • 4h ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://huggingface.co/papers/2603.03269)**
+
+*Junyi Zhang, Charles Herrmann, Junhwa Hur et al. (8 authors)*
+
+🏢 Deepmind
+
+LoGeR enables long-term 3D video reconstruction by combining bidirectional priors with a hybrid memory system that includes parametric Test-Time Training and non-parametric sliding window attention mechanisms.
+
+▲ 35 • 💬 3 • ⭐ 183 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.03269) • [💻 code](https://github.com/Junyi42/LoGeR) • [🔗 project](https://loger-project.github.io/)
+
+---
+
+**[Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://huggingface.co/papers/2603.07660)**
+
+*Yuanyuan Gao, Hao Li, Yifei Liu et al. (17 authors)*
+
+Holi-Spatial presents the first fully automated, large-scale, spatially-aware multimodal dataset constructed from raw video inputs, supporting multi-level spatial supervision for 3D scene understanding and spatial reasoning tasks.
+
+▲ 62 • 💬 4 • ⭐ 96 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.07660) • [💻 code](https://github.com/Visionary-Laboratory/holi-spatial) • [🔗 project](https://visionary-laboratory.github.io/holi-spatial/)
+
+---
 
 **[DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints](https://huggingface.co/papers/2601.18137)**
 
@@ -511,7 +539,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 DeepPlanning benchmark addresses limitations of current LLM planning assessments by introducing complex, real-world tasks requiring both global optimization and local constraint reasoning.
 
-▲ 32 • 💬 3 • ⭐ 15,283 • 1mo ago
+▲ 32 • 💬 3 • ⭐ 15,319 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18137) • [💻 code](https://github.com/QwenLM/Qwen-Agent) • [🔗 project](https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/)
 
@@ -538,21 +566,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 156 • 💬 5 • ⭐ 933 • 6d ago
+▲ 157 • 💬 5 • ⭐ 983 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
-
----
-
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 46 • 💬 2 • ⭐ 49,234 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -565,22 +581,21 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 154 • 💬 19 • ⭐ 55,359 • 12mo ago
+▲ 154 • 💬 19 • ⭐ 55,429 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
-**[AReaL: A Large-Scale Asynchronous Reinforcement Learning System for
-  Language Reasoning](https://huggingface.co/papers/2505.24298)**
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
-*Wei Fu, Jiaxuan Gao, Xujie Shen et al. (13 authors)*
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
-AReaL, a fully asynchronous reinforcement learning system, decouples generation and training to achieve higher GPU utilization and up to 2.57x training speedup for large language models on reasoning tasks.
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 33 • 💬 2 • ⭐ 4,588 • 9mo ago
+▲ 46 • 💬 2 • ⭐ 49,234 • 10mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2505.24298) • [💻 code](https://github.com/inclusionAI/AReaL)
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -609,20 +624,6 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 ---
 
-**[Cautious Weight Decay](https://huggingface.co/papers/2510.12402)**
-
-*Lizhang Chen, Jonathan Li, Kaizhao Liang et al. (9 authors)*
-
-🏢 Google
-
-Cautious Weight Decay (CWD) enhances optimizer performance by applying weight decay selectively, improving accuracy and loss in large-scale models without additional tuning.
-
-▲ 9 • 💬 8 • ⭐ 467 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12402) • [💻 code](https://github.com/google-deepmind/simply) • [🔗 project](https://elm.baulab.info)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -645,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.6k • 🔱 3.3k • 3h ago
+⭐ 25.7k • 🔱 3.3k • 1h ago
 
 ---
 
@@ -655,7 +656,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 20.1k • 🔱 2.5k • 15h ago
+⭐ 20.8k • 🔱 2.6k • 16h ago
 
 ---
 
@@ -665,7 +666,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 17.8k • 🔱 725 • 12h ago
+⭐ 17.9k • 🔱 740 • 13h ago
 
 ---
 
@@ -675,7 +676,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.4k • 🔱 1.2k • 1h ago
+⭐ 10.4k • 🔱 1.2k • 24m ago
 
 ---
 
@@ -685,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.0k • 🔱 579 • 7h ago
+⭐ 8.0k • 🔱 581 • 8h ago
 
 ---
 
@@ -695,7 +696,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 7.3k • 🔱 621 • 4d ago
+⭐ 7.4k • 🔱 625 • 5d ago
 
 ---
 
@@ -715,7 +716,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.1k • 🔱 722 • 1h ago
+⭐ 6.1k • 🔱 721 • 1h ago
 
 ---
 
@@ -725,7 +726,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 415 • 1h ago
+⭐ 3.7k • 🔱 418 • 1h ago
 
 ---
 
@@ -735,7 +736,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.7k • 🔱 259 • 1d ago
+⭐ 3.7k • 🔱 259 • 1h ago
 
 ---
 

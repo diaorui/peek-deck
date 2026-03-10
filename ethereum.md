@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-10T14:12:41.040644+00:00'
+updated: '2026-03-10T15:30:57.830565+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 14:12 UTC  
+**Last Updated:** March 10, 2026 at 15:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,033.69
+### $2,062.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -5.2%  
-**30d:** -4.2%  
-**90d:** -37.7%  
-**1y:** +4.5%  
+**24h:** +2.0%  
+**7d:** -2.8%  
+**30d:** -1.7%  
+**90d:** -36.1%  
+**1y:** +7.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.59B
+**Market Cap:** $249.84B
 Rank #2
 
 **Circulating Supply:** 120,692,025 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.5%
+-58.1%
 
 **All-Time Low:** $0.43
-+473657.4%
++478008.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine Immersion Technologies (BMNR) is expanding beyond its origins as a Bitcoin miner to consolidate as the world's largest corporate holder of Ether (ETH). : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 2h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/ethereums-top-corporate-whale-fattens-10bn-treasury-holding) • 3h ago
+
+---
+
+**[avsa (Ethereum Foundation UX lead) deployed the Unicorn Token in 2016 — one of the first ERC-20s ever](https://www.reddit.com/r/ethereum/comments/1rpxs2k/avsa_ethereum_foundation_ux_lead_deployed_the/)**
+
+Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, deployed a contract in April 2016 that let you "grind unicorns into meat" on-chain. The experiment became the Unicorn Meat token (w🍖) — deployed when ERC-20 was barely a draft standard, when the entire Ethereum dev community could fit in one room. Why it matters historically: - Deployed April 2016, pre-TheDAO hack - One of the earliest ERC-20 compliant tokens - Created by a core Ethereum Foundation member for fun, not profit - The contract is still live and the token still trades Original contract: https://etherscan.io/address/0xd234bf2410a0009df9c3c63b610c09738f18ccd7 The community archive: https://unicornmeat.wtf These early experiments are Ethereum heritage. Worth preserving.
+
+1h ago
 
 ---
 
@@ -90,15 +98,7 @@ Summary
 ⚠️ Lighthouse v8.1.2 is a high-priority patch release with further security-critical fixes atop v8.1.1.
 This is a mandatory upgrade for all users running any prior version. All prior Lighth...
 
-🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 14h ago
-
----
-
-**[avsa (Ethereum Foundation UX lead) deployed the Unicorn Token in 2016 — one of the first ERC-20s ever](https://www.reddit.com/r/ethereum/comments/1rpxs2k/avsa_ethereum_foundation_ux_lead_deployed_the/)**
-
-Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, deployed a contract in April 2016 that let you "grind unicorns into meat" on-chain. The experiment became the Unicorn Meat token (w🍖) — deployed when ERC-20 was barely a draft standard, when the entire Ethereum dev community could fit in one room. Why it matters historically: - Deployed April 2016, pre-TheDAO hack - One of the earliest ERC-20 compliant tokens - Created by a core Ethereum Foundation member for fun, not profit - The contract is still live and the token still trades Original contract: https://etherscan.io/address/0xd234bf2410a0009df9c3c63b610c09738f18ccd7 The community archive: https://unicornmeat.wtf These early experiments are Ethereum heritage. Worth preserving.
-
-9m ago
+🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 15h ago
 
 ---
 
@@ -106,7 +106,7 @@ Alex Van de Sande, the person who designed Mist wallet and led Ethereum UX, depl
 
 Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec...3d6b, deployed in August 2015, just weeks after mainnet launch. The entire contract is one function: set(string). It stores a single string in public storage. That is it. What is interesting is the bytecode. It was compiled with solc v0.1.1, the earliest Solidity compiler that exists. I was able to reproduce the exact bytecode byte-for-byte using that compiler. The output matches the on-chain code perfectly. Contracts from this era are fascinating because Solidity was still being invented. No events, no modifiers, no constructors as we know them. Just raw storage writes. The compiler output is so small you can read the opcodes manually. The deployer (0x8674...94e2) deployed 18 contracts in the same week, all in the 52,000-55,000 block range. Looks like someone was experimenting heavily with what Solidity could do. If anyone is interested in early Ethereum archaeology, ethereumhistory.com is documenting contracts from this period with verified source code and compiler proofs. Edit: here is the contract page on Ethereum History.
 
-23h ago
+1d ago
 
 ---
 
@@ -162,9 +162,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Vs. Canton: Two Different Paths To Institutional Blockchain](https://www.forbes.com/sites/jonegilsson/2026/03/10/ethereum-vs-canton-two-different-paths-to-institutional-blockchain/)**
+**[Tom Lee Claims 'Mini Crypto Winter Almost Over' as Bitmine Buys $120M Ethereum Amid Rising Price](https://finance.yahoo.com/news/tom-lee-claims-mini-crypto-132218612.html)**
 
-Forbes • 27m ago
+Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -173,14 +175,6 @@ Forbes • 27m ago
 Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
 
 PR Newswire • 1d ago
-
----
-
-**[Tom Lee Claims 'Mini Crypto Winter Almost Over' as Bitmine Buys $120M Ethereum Amid Rising Price](https://finance.yahoo.com/news/tom-lee-claims-mini-crypto-132218612.html)**
-
-Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
-
-Yahoo Finance • 50m ago
 
 ---
 
@@ -214,6 +208,12 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Ethereum Vs. Canton: Two Different Paths To Institutional Blockchain](https://www.forbes.com/sites/jonegilsson/2026/03/10/ethereum-vs-canton-two-different-paths-to-institutional-blockchain/)**
+
+Forbes • 1h ago
+
+---
+
 **[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
 
 Seeking Alpha • 1d ago
@@ -224,7 +224,7 @@ Seeking Alpha • 1d ago
 
 Bitcoin, Ethereum, and XRP are all trading in the green this week. On the surface, the crypto market looks calm. But under that calm, traders are waiting for one of the biggest macro events of the month: the U.S. CPI (inflation) report.Economists expect inflation to edge up to about 2.5%, slightly…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -232,13 +232,23 @@ TradingView • 13h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
+
+Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
+
+📺 Coin Bureau
+
+👁️ 5K • 👍 509 • 💬 55 • ⏱️ 21:43 • 1h ago
+
+---
+
 **[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
 
 GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 192 • ⏱️ 9:54 • 16h ago
+👁️ 44K • 👍 2K • 💬 236 • ⏱️ 9:54 • 17h ago
 
 ---
 
@@ -248,7 +258,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 5K • 👍 270 • 💬 37 • ⏱️ 18:25 • 14h ago
+👁️ 6K • 👍 283 • 💬 38 • ⏱️ 18:25 • 15h ago
 
 ---
 
@@ -258,7 +268,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 98 • 👍 6 • ⏱️ 5:18 • 4h ago
+👁️ 146 • 👍 8 • ⏱️ 5:18 • 5h ago
+
+---
+
+**[ETHEREUM TAKES ON $ICP &amp; CYCLE OVER](https://www.youtube.com/watch?v=mBwCW8XNUEw)**
+
+MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
+
+📺 The Cryptoviser
+
+👁️ 232 • 👍 30 • 💬 2 • ⏱️ 22:18 • 2h ago
 
 ---
 
@@ -268,7 +288,27 @@ Cathie Wood legitimately thinks that Ethereum can do a 85x from now until 2032. 
 
 📺 Zach Humphries
 
-👁️ 3K • 👍 131 • 💬 14 • ⏱️ 7:38 • 2d ago
+👁️ 3K • 👍 132 • 💬 14 • ⏱️ 7:38 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
+
+Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 49K • 👍 2K • 💬 162 • ⏱️ 11:32 • 2d ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=G_EseOYFkgw)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
+
+📺 Trade with Burner
+
+👁️ 6K • 👍 424 • 💬 3 • ⏱️ 1:03:51 • 7m ago
 
 ---
 
@@ -282,53 +322,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Bitcoin &amp; Ethereum Are About To Explode (SERIOUSLY)](https://www.youtube.com/watch?v=i5mW_EafMaI)**
-
-Crypto Is About To Surprise EVERYONE!! (SERIOUSLY) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 49K • 👍 2K • 💬 161 • ⏱️ 11:32 • 2d ago
-
----
-
 **[BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=i7V9o6KPUgs)**
 
 BITCOIN PRICE JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
 
 📺 Crypto World
 
-👁️ 7K • 👍 252 • 💬 300 • ⏱️ 14:42 • 16h ago
-
----
-
-**[Identify Real BREAKOUTS !! ✅ ETHEREUM Analysis | Crypto Analysis](https://www.youtube.com/watch?v=jsKlIebxehU)**
-
-Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on trading fees with this link) If you have ...
-
-📺 Trading Secrets With Two Side Traders
-
-👁️ 178 • 👍 40 • 💬 5 • ⏱️ 13:36 • 2h ago
-
----
-
-**[Tom Lee - &quot;Largest Crypto Reset In HISTORY&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=43KC2TkH8hk)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 8K • 👍 177 • 💬 119 • ⏱️ 15:06 • 2d ago
-
----
-
-**[CRYPTO LIVE TRADING || 10 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=Ghw4p5I9vHo)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 5K • 👍 2K • 3h ago
+👁️ 7K • 👍 251 • 💬 356 • ⏱️ 14:42 • 17h ago
 
 ---
 

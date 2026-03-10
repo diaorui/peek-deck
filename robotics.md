@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-10T14:12:41.043934+00:00'
+updated: '2026-03-10T15:30:57.833725+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 10, 2026 at 14:12 UTC  
+**Last Updated:** March 10, 2026 at 15:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,25 +36,25 @@ Robotics research and industry news
 
 I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
 
-5h ago
+6h ago
 
 ---
 
 **[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Robot Fighting Tournament in Japan](https://www.reddit.com/r/robotics/comments/1rp5fku/robot_fighting_tournament_in_japan/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Finally a robot that does more than a backflip. What are your thoughts?](https://www.reddit.com/r/robotics/comments/1rp7usf/finally_a_robot_that_does_more_than_a_backflip/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -78,19 +78,19 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-6h ago
+7h ago
 
 ---
 
 **[Stuck between 2 careers](https://www.reddit.com/r/robotics/comments/1rpwy5v/stuck_between_2_careers/)**
 
-43m ago
+2h ago
 
 ---
 
 **[Sitting on 50x Harmonic Drive HPG-11B-45 gearboxes after a SCARA project — 4th axis rotary table seems like the obvious next move?](https://www.reddit.com/r/robotics/comments/1rpvr6q/sitting_on_50x_harmonic_drive_hpg11b45_gearboxes/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi there, I've created a video here where I explain how convolutional neural net
 
 Mehul Nariyawala, co-founder of Matic Robotics, talked about expectations for robots in the home. He described a difference between AI systems and physical robots. AI tools are often used collaboratively, where partial output is acceptable and users complete the remaining work. For household robots, the expectation is different. Tasks such as cleaning are typically expected to be fully delegated to the robot rather than partially completed.
 
-2h ago
+3h ago
 
 ---
 
@@ -106,23 +106,23 @@ Mehul Nariyawala, co-founder of Matic Robotics, talked about expectations for ro
 
 ## Google News: "robotics"
 
+**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
+
+ABB • 23h ago
+
+---
+
 **[Qualcomm’s partnership with Neura Robotics is just the beginning](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)**
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 22h ago
-
----
-
-**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
-
-ABB • 21h ago
+TechCrunch • 23h ago
 
 ---
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg.com • 12m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -146,7 +146,7 @@ Fortune • 2d ago
 
 OpenAI hardware leader Caitlin Kalinowski has resigned after the company’s Pentagon AI deal, citing concerns over surveillance, autonomy, and governance.
 
-eWeek • 12h ago
+eWeek • 13h ago
 
 ---
 
@@ -154,7 +154,7 @@ eWeek • 12h ago
 
 The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
 
-WGAL • 54m ago
+WGAL • 2h ago
 
 ---
 
@@ -162,7 +162,15 @@ WGAL • 54m ago
 
 Another Folsom-area high school robotics team has earned statewide recognition and a trip to the global stage after capturing a major engineering award at
 
-Folsom Times • 12h ago
+Folsom Times • 13h ago
+
+---
+
+**[Tech stocks today: Anthropic sues Defense Department over ban, OpenAI's robotics leader resigns](https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-sues-defense-department-over-ban-openais-robotics-leader-resigns-152722809.html)**
+
+Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
+
+Yahoo Finance • 28m ago
 
 ---
 
@@ -171,14 +179,6 @@ Folsom Times • 12h ago
 Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
 
 Modern War Institute - • 1d ago
-
----
-
-**[Tech stocks today: Anthropic sues Defense Department over ban, OpenAI's robotics leader resigns](https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-sues-defense-department-over-ban-openais-robotics-leader-resigns-152722809.html)**
-
-Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
-
-Yahoo Finance • 17h ago
 
 ---
 
@@ -202,7 +202,7 @@ AI robot. ChatGPT in Robot. Could AI become dangerous? Can we trust AI? Get your
 
 📺 InsideAI
 
-👁️ 726K • 👍 42K • 💬 5K • ⏱️ 16:54 • 6d ago
+👁️ 735K • 👍 43K • 💬 5K • ⏱️ 16:54 • 6d ago
 
 ---
 
@@ -212,7 +212,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 1K • 👍 43 • 💬 6 • ⏱️ 3:48 • 19h ago
+👁️ 2K • 👍 50 • 💬 8 • ⏱️ 3:48 • 20h ago
 
 ---
 
@@ -222,7 +222,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 23K • 👍 812 • 💬 61 • ⏱️ 14:35 • 5d ago
+👁️ 23K • 👍 813 • 💬 62 • ⏱️ 14:35 • 5d ago
 
 ---
 
@@ -232,7 +232,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 241K • 👍 3K • 💬 353 • ⏱️ 29:41 • 4d ago
+👁️ 243K • 👍 3K • 💬 356 • ⏱️ 29:41 • 4d ago
 
 ---
 
@@ -252,7 +252,7 @@ New Trading Bot: https://bit.ly/pocket-option-quant Join Team: https://bit.ly/nt
 
 📺 Ntrade | Pro Trade
 
-👁️ 16K • 👍 512 • 💬 15 • ⏱️ 7:08 • 1d ago
+👁️ 16K • 👍 507 • 💬 15 • ⏱️ 7:08 • 1d ago
 
 ---
 
@@ -272,17 +272,17 @@ A moment like this perfectly captures how technology can be both revolutionary a
 
 📺 Billionaire Shots
 
-👁️ 38K • 👍 2K • 💬 283 • ⏱️ 0:13 • 6d ago
+👁️ 38K • 👍 2K • 💬 284 • ⏱️ 0:13 • 6d ago
 
 ---
 
-**[China’s $16K Robot Changes the Future of Work](https://www.youtube.com/watch?v=KFzEWvTSmn4)**
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=sFFMMg2XWyQ)**
 
-Everyone thought AI would replace office workers first. But the real disruption is happening in the physical world. Humanoid robots ...
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
 
-📺 By 2050
+📺 CGTN Europe
 
-👁️ 101K • 👍 2K • 💬 116 • ⏱️ 0:55 • 4d ago
+👁️ 983K • 👍 1K • 💬 24 • ⏱️ 29:40 • 6d ago
 
 ---
 
