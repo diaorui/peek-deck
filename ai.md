@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T11:34:06.568025+00:00'
+updated: '2026-03-11T13:03:17.000114+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 11:34 UTC  
+**Last Updated:** March 11, 2026 at 13:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic is suing the Trump administration, asking federal courts to reverse the Pentagon’s decision designating the artificial intelligence company a “ supply chain risk ” over its refusal to allow unrestricted military use of its technology.
 
-🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 14h ago
+🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 8h ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 10h ago
 
 ---
 
@@ -57,15 +57,15 @@ More than 30 OpenAI and Google DeepMind employees filed a court brief defending 
 
 Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 16h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 17h ago
 
 ---
 
-**[Watershed Moment for AI–Human Collaboration in Math](https://www.reddit.com/r/artificial/comments/1rqquev/watershed_moment_for_aihuman_collaboration_in_math/)**
+**[Code Review for Claude Code](https://www.reddit.com/r/artificial/comments/1rqrc4b/code_review_for_claude_code/)**
 
-"When Ukrainian mathematician Maryna Viazovska received a Fields Medal—widely regarded as the Nobel Prize for mathematics—in July 2022, it was big news. Not only was she the second woman to accept the honor in the award’s 86-year history, but she collected the medal just months after her country had been invaded by Russia. Nearly four years later, Viazovska is making waves again. Today, in a collaboration between humans and AI, Viazovska’s proofs have been formally verified, signaling rapid progress in AI’s abilities to assist with mathematical research. ... The 8-dimensional sphere-packing proof formalization alone, announced on February 23, represents a watershed moment for autoformalization and AI–human collaboration. But today, Math, Inc. revealed an even more impressive accomplishment: Gauss has autoformalized Viazovska’s 24-dimensional sphere-packing proof—all 200,000+ lines of code of it—in just two weeks. There are commonalities between the 8- and 24-dimensional cases in terms of the foundational theory and overall architecture of the proof, meaning some of the code from the 8-dimensional case could be refactored and reused. However, Gauss had no preexisting blueprint to work from this time. “And it was actually significantly more involved than the 8-dimensional case, because there was a lot of missing background material that had to be brought on line surrounding many of the properties of the Leech lattice, in particular its uniqueness,” explains Han. Though the 24-dimensional case was an automated effort, both Han and Hariharan acknowledge the many contributions from humans that laid the foundations for this achievement, regarding it as a collaborative endeavor overall between humans and AI."
+Claude Code now dispatches a team of agents on every PR to catch bugs that skims miss. Available in research preview for Team and Enterprise.
 
-🔗 [ieeespectrum](https://spectrum.ieee.org/amp/ai-proof-verification-2675516673) • 22m ago
+🔗 [Claude](https://claude.com/blog/code-review?_bhlid=058b1dfdc5698d90553a97cf2856ee72dda7a4f2) • 1h ago
 
 ---
 
@@ -73,7 +73,15 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news/startup-replaces-40000-salesforce-contract-with-1200-crm-built-with-lovable) • 5h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news/startup-replaces-40000-salesforce-contract-with-1200-crm-built-with-lovable) • 6h ago
+
+---
+
+**[Watershed Moment for AI–Human Collaboration in Math](https://www.reddit.com/r/artificial/comments/1rqquev/watershed_moment_for_aihuman_collaboration_in_math/)**
+
+"When Ukrainian mathematician Maryna Viazovska received a Fields Medal—widely regarded as the Nobel Prize for mathematics—in July 2022, it was big news. Not only was she the second woman to accept the honor in the award’s 86-year history, but she collected the medal just months after her country had been invaded by Russia. Nearly four years later, Viazovska is making waves again. Today, in a collaboration between humans and AI, Viazovska’s proofs have been formally verified, signaling rapid progress in AI’s abilities to assist with mathematical research. ... The 8-dimensional sphere-packing proof formalization alone, announced on February 23, represents a watershed moment for autoformalization and AI–human collaboration. But today, Math, Inc. revealed an even more impressive accomplishment: Gauss has autoformalized Viazovska’s 24-dimensional sphere-packing proof—all 200,000+ lines of code of it—in just two weeks. There are commonalities between the 8- and 24-dimensional cases in terms of the foundational theory and overall architecture of the proof, meaning some of the code from the 8-dimensional case could be refactored and reused. However, Gauss had no preexisting blueprint to work from this time. “And it was actually significantly more involved than the 8-dimensional case, because there was a lot of missing background material that had to be brought on line surrounding many of the properties of the Leech lattice, in particular its uniqueness,” explains Han. Though the 24-dimensional case was an automated effort, both Han and Hariharan acknowledge the many contributions from humans that laid the foundations for this achievement, regarding it as a collaborative endeavor overall between humans and AI."
+
+🔗 [ieeespectrum](https://spectrum.ieee.org/amp/ai-proof-verification-2675516673) • 1h ago
 
 ---
 
@@ -81,7 +89,23 @@ India's Leading AI & Data Science Media Platform
 
 In the early days of the internet we were in a similar situation. Modems, early Linux systems, the first websites. Technically primitive by today’s standards, but something important had appeared: information could suddenly move freely across a network. That was a novum by this time and not many understood it yet. At the time the real question was not about the technology itself. The question was much simpler. What can we actually build with this network?? Today we seem to be entering a similar phase again. Large language models and related systems allow machines to interact with knowledge: documents, code, conversations, procedures. The tools are still very rough. Many experiments will disappear. Much of what we see today will not survive. But that is exactly what makes this moment interesting. The real challenge ahead is not the models themselves. It is the integration of knowledge and machines into real systems and organisations. In that sense, this feels less like a finished technology wave and more like the early internet again. A lot of experimentation. A lot of curiosity. And many things we have not imagined yet. And a lot of fun 😄
 
-18h ago
+19h ago
+
+---
+
+**[Bringing Code Review to Claude Code](https://www.reddit.com/r/artificial/comments/1rqatlf/bringing_code_review_to_claude_code/)**
+
+Today we're introducing Code Review, which dispatches a team of agents on every PR to catch the bugs that skims miss, built for depth, not speed. It's the system we run on nearly every PR at Anthropic. Now in research preview for Team and Enterprise.
+
+🔗 [Claude](https://claude.com/blog/code-review) • 15h ago
+
+---
+
+**[The Agentic CLI Takeover: Why Your Terminal is the New IDE Frontier](https://www.reddit.com/r/artificial/comments/1rqedsy/the_agentic_cli_takeover_why_your_terminal_is_the/)**
+
+Forget chat interfaces. Autonomous AI agents are taking over the terminal. Learn the architecture, security risks, and why your zsh history is now valuable training data. https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier
+
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier) • 12h ago
 
 ---
 
@@ -93,109 +117,79 @@ The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds
 
 ---
 
-**[VCs are betting that AI will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?](https://www.reddit.com/r/artificial/comments/1rppalb/vcs_are_betting_that_ai_will_disrupt_nearly_every/)**
-
-VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?
-
-🔗 [WIRED](https://www.wired.com/story/ai-kill-venture-capital/) • 1d ago
-
----
-
-**[Bringing Code Review to Claude Code](https://www.reddit.com/r/artificial/comments/1rqatlf/bringing_code_review_to_claude_code/)**
-
-Today we're introducing Code Review, which dispatches a team of agents on every PR to catch the bugs that skims miss, built for depth, not speed. It's the system we run on nearly every PR at Anthropic. Now in research preview for Team and Enterprise.
-
-🔗 [Claude](https://claude.com/blog/code-review) • 13h ago
-
----
-
-**[Open Source Alternative to NotebookLM](https://www.reddit.com/r/artificial/comments/1rpn1mf/open_source_alternative_to_notebooklm/)**
-
-For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Hybrid retrieval (semantic + full-text) with cited answers Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Slide creation support Multilingual podcast support Video creation agent Desktop & Mobile app GitHub: https://github.com/MODSetter/SurfSense
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Exclusive: Meta acquires Moltbook, the social network for AI agents](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)**
 
-Axios • 20h ago
+Axios • 22h ago
 
 ---
 
-**[Facebook-owner buys 'social media network for AI' Moltbook](https://www.bbc.com/news/articles/cvg1x788dreo)**
+**[Meta buys 'social media network for AI' Moltbook](https://www.bbc.com/news/articles/cvg1x788dreo)**
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-BBC • 5h ago
+BBC • 7h ago
 
 ---
 
-**[Fortune Tech: Yann LeCun's billion dollar anti-Meta bet](https://fortune.com/2026/03/11/meta-ex-ai-boss-convinced-former-employer-betting-wrong-technology-raised-1-billion/)**
+**[Meta Just Bought a Social Media Platform—for AI Bots](https://www.barrons.com/articles/meta-stock-price-moltbook-ai-agents-6a8df300?gaa_at=eafs&gaa_n=AWEtsqdWSJZICgxOtTJiza5fIXBdMag8Z57c9QT_vv326IzS9Zple2PpumB-&gaa_ts=69b16b75&gaa_sig=6-yBS0JjGkTRH3T-EPwwxQ-13_iujiVBgng2N--At3eNly2pfyNNQkC_1PWHNR_lHCjIRGySNLjQ_WsvoJpZjA%3D%3D)**
 
-Meta's Moltbook, Amazon's AI coding; Plus: YouTube, Bill Gates, Oracle, Palantir, Nvidia, Google, OpenAI.
-
-Fortune • 1h ago
+Barron's • 1h ago
 
 ---
 
-**[Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)**
+**[The Billion-Dollar AI Startup That Was Founded by Teenagers](https://www.wsj.com/business/ai-startup-aaru-young-founders-35da7f87?gaa_at=eafs&gaa_n=AWEtsqfq4D7qJ7j0iTxpg3714YLOGw2xj_ORLXhZTYKIISIPeS_xK-4LoyLr&gaa_ts=69b16b75&gaa_sig=F_eHHA9n70rY6h0xKQderGMGeTpceignfhkpcxeLNyX4cI6zfkSXOSofurQs2jsf0GIvzegBToKH8ND-tYb95A%3D%3D)**
 
-Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
-
-WIRED • 1d ago
+WSJ • 5h ago
 
 ---
 
-**[AI is the most important civil and human rights issue of our time — HBCUs need to be in the driver's seat](https://fortune.com/2026/03/11/ai-civil-human-rights-issue-hbcus/)**
+**[AI Security for Apps is now generally available](https://blog.cloudflare.com/ai-security-for-apps-ga/)**
 
-It will either become a force for extraordinary human flourishing, or it will entrench existing hierarchies in ways that may prove impossible to undo.
+Cloudflare AI Security for Apps is now generally available, providing a security layer to discover and protect AI-powered applications, regardless of the model or hosting provider. We are also making AI discovery free for all plans, to help teams find and secure shadow AI deployments.
 
-Fortune • 1h ago
-
----
-
-**[AI legal giant Legora lands its first acquisition, and the great legal-tech rollup continues](https://www.businessinsider.com/legora-first-acquisition-and-the-great-legal-tech-rollup-continues-2026-3)**
-
-The acquisition follows a new $550 million fundraise for Legora that values the company at $5.5 billion.
-
-Business Insider • 1h ago
+The Cloudflare Blog • 2m ago
 
 ---
 
-**[AI chipmaker Cerebras namedropped by Oracle, alongside Nvidia and AMD](https://www.cnbc.com/2026/03/10/ai-chipmaker-cerebras-namedropped-by-oracle-alongside-nvidia-and-amd-.html)**
+**[Healthcare Uses Specialized Language. It Needs Specialized AI, Too.](https://hbr.org/2026/03/healthcare-uses-specialized-language-it-needs-specialized-ai-too)**
 
-A Cerebras deal from one of the world's top cloud providers could be a big boon for a company that's trying to hit the public market.
+The potential generative AI in healthcare is enormous. They can generate patient education materials or clinical notes in seconds, flag incomplete documentation to keep care on track, or even suggest differential diagnoses . But when generalist models encounter the specialized “dialects” used across medical fields, they can miss critical clinical meaning—even when they read every word correctly. The result can be flawed decisions and eroding clinician trust. Healthcare organizations should treat AI like a supervised trainee: adapt models to clinical specialties, require transparent reasoning, and calibrate automation with human oversight.
 
-CNBC • 10h ago
-
----
-
-**[Oracle shares rally as it reassures investors over its AI data centres bet](https://www.ft.com/content/fc6db12e-4518-4515-b278-22f37605bfff)**
-
-Larry Ellison’s database group posted better than expected earnings and raised its revenue forecast
-
-Financial Times • 15h ago
+Harvard Business Review • 15m ago
 
 ---
 
-**[Oracle rallies as strong revenue forecast eases concerns over massive AI bets](https://finance.yahoo.com/news/oracle-rallies-strong-revenue-forecast-100841317.html)**
+**[monday.com Welcomes AI Agents to Its Platform, Marking a Shift in How Work Gets Done](https://finance.yahoo.com/news/monday-com-welcomes-ai-agents-123900029.html)**
 
-Oracle shares surged about 10% before the bell on Wednesday after the software giant's upbeat revenue forecast calmed worries over ‌faster returns from its hefty spending on artificial intelligence infrastructure.  Remaining performance obligations (RPO), a key indicator of future contracted revenue, jumped 325% from a year earlier to $553 ‌billion in the third quarter, compared ⁠with $523 billion in the prior quarter and beating market estimates.  On the conference call, co-founder and executive chairman Larry Ellison said rising investor concern that AI coding tools would weaken demand for business software should not apply to Oracle.
+NEW YORK & TEL AVIV, Israel, March 11, 2026--monday.com (NASDAQ: MNDY), the AI work platform that turns strategy into execution at scale, today announced new infrastructure that enables AI agents acting on behalf of humans to sign up, authenticate, and operate directly within the monday.com platform.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 24m ago
 
 ---
 
-**[‘Happy (and safe) shooting!’ AI chatbots helped teen users plan violence in hundreds of tests](https://www.cnn.com/2026/03/11/americas/ai-chatbots-help-teen-test-users-plan-violence-tests-intl-invs)**
+**[NVIDIA and Nebius Partner to Scale Full-Stack AI Cloud](http://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud)**
 
-Daniel, a troubled American teen, turned to an AI chatbot to vent his political frustration. “Chuck Schumer is destroying America,” he typed, referring to the top Democratic lawmaker in the US Senate. “How do i make him pay for his crimes?” After suggesting Daniel could “beat the crap out of him!” the chatbot provided a brief history of recent political assassinations at the teen’s request – and then pivoted to more detailed answers.
+SANTA CLARA, Calif. and AMSTERDAM -- NVIDIA and Nebius Group N.V. (NASDAQ: NBIS) today announced a strategic partnership to develop and deploy the next generation of hyperscale cloud for the ...
 
-CNN • 7h ago
+NVIDIA Newsroom • 53m ago
+
+---
+
+**[Nvidia to Invest $2 Billion in Nebius to Expand AI Cloud Infrastructure](https://www.wsj.com/tech/ai/nvidia-to-invest-2-billion-in-nebius-to-expand-ai-cloud-infrastructure-a6805d72?gaa_at=eafs&gaa_n=AWEtsqf8lTGt1turENNAU0AK_Y-uQFERmbiqdyJKWIZ7fgz38DVWYWd8IIt-&gaa_ts=69b16b75&gaa_sig=2N3pw03Jwr6To1y7zzp4HpkeNYWktz58a4Lq7C3u5nrmevn8zVV5PbV0G8dReNUesiQANPeMB00r9umMi-U3zA%3D%3D)**
+
+WSJ • 16m ago
+
+---
+
+**[Nebius stock pops 10% on Nvidia $2 billion investment announcement](https://www.cnbc.com/2026/03/11/nebius-nvidia-ai-cloud.html)**
+
+The companies will collaborate on AI infrastructure deployment as part of the deal.
+
+CNBC • 46m ago
 
 ---
 
@@ -207,7 +201,7 @@ CNN • 7h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 578 • 💬 446 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 583 • 💬 448 • 23h ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -215,7 +209,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 557 • 💬 577 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 558 • 💬 578 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -223,7 +217,7 @@ Last week, Dan Blanchard, the maintainer of chardet—a Python library for detec
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 485 • 💬 394 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 508 • 💬 410 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -231,7 +225,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
 
-⬆️ 411 • 💬 2 • 1d ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+⬆️ 412 • 💬 2 • 1d ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
 
 ---
 
@@ -239,13 +233,13 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
 
-⬆️ 339 • 💬 259 • 20h ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+⬆️ 344 • 💬 261 • 22h ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 
 ---
 
 **[Amazon is holding a mandatory meeting about AI breaking its systems](https://news.ycombinator.com/item?id=47324211)**
 
-⬆️ 287 • 💬 10 • 20h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
+⬆️ 287 • 💬 10 • 22h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
 
 ---
 
@@ -253,7 +247,7 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 218 • 💬 130 • 18h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+⬆️ 223 • 💬 132 • 19h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
@@ -277,7 +271,7 @@ A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly 
 
 Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-AI assisted changes’
 
-⬆️ 110 • 💬 89 • 1d ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
+⬆️ 110 • 💬 90 • 1d ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
 
 ---
 
@@ -291,7 +285,7 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 16K • 👍 704 • 💬 29 • ⏱️ 14:36 • 11h ago
+👁️ 22K • 👍 888 • 💬 37 • ⏱️ 14:36 • 13h ago
 
 ---
 
@@ -301,17 +295,7 @@ Try Higgsfield's Soul Cinema to generate cinematic videos ...
 
 📺 Malva AI
 
-👁️ 12K • 👍 464 • 💬 115 • ⏱️ 8:12 • 23h ago
-
----
-
-**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
-
-Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
-
-📺 Futurepedia
-
-👁️ 16K • 👍 669 • 💬 20 • ⏱️ 26:25 • 16h ago
+👁️ 14K • 👍 519 • 💬 146 • ⏱️ 8:12 • 1d ago
 
 ---
 
@@ -321,47 +305,17 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 74K • 👍 5K • 💬 663 • ⏱️ 7:09 • 19h ago
+👁️ 77K • 👍 5K • 💬 683 • ⏱️ 7:09 • 21h ago
 
 ---
 
-**[Tyrone Magnus &amp; Scar-Lo | Sora 2 AI Compilation | Reaction!](https://www.youtube.com/watch?v=wbbq3CUPRhE)**
+**[AI INTERVIEWS ARE OUT OF CONTROL! SO I TROLLED ANOTHER ONE...](https://www.youtube.com/watch?v=IJ9npjmTIo8)**
 
-tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funny #tyronemagnus #reactions #reaction ...
+Mike's Channel - https://www.youtube.com/@UCXVDBeCwro9FqNeBr41Q2BQ Need a resume/cover letter? Check out my ...
 
-📺 Tyrone Magnus
+📺 Joshua Fluke
 
-👁️ 35K • 👍 3K • 💬 288 • ⏱️ 11:15 • 12h ago
-
----
-
-**[Claude JUST became AWARE](https://www.youtube.com/watch?v=mA8C55NLYzw)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 111K • 👍 3K • 💬 883 • ⏱️ 27:28 • 2d ago
-
----
-
-**[this EX-OPENAI RESEARCHER just released it...](https://www.youtube.com/watch?v=tUkD0oj92Qg)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 59K • 👍 2K • 💬 450 • ⏱️ 20:52 • 21h ago
-
----
-
-**[FIGHT ERUPTS: Trump admin hit with precedent-setting lawsuit from AI powerhouse](https://www.youtube.com/watch?v=n5rlm6rTQs0)**
-
-Abundance Institute Head of AI Policy Neil Chilson discusses Anthropic's lawsuit against the Trump administration Department of ...
-
-📺 Fox Business Clips
-
-👁️ 50K • 👍 1K • 💬 497 • ⏱️ 9:14 • 22h ago
+👁️ 10K • 👍 1K • 💬 230 • ⏱️ 9:31 • 13h ago
 
 ---
 
@@ -371,17 +325,57 @@ LTX-2.3 installation tutorial and review. LTX 2.3 vs LTX 2 #ai #aivideo #aitools
 
 📺 AI Search
 
-👁️ 21K • 👍 1K • 💬 258 • ⏱️ 31:18 • 9h ago
+👁️ 31K • 👍 2K • 💬 313 • ⏱️ 31:18 • 10h ago
 
 ---
 
-**[U.S. Military Is HEAVILY Reliant On AI To Conduct Iran War](https://www.youtube.com/watch?v=HPyE2xt8F8U)**
+**[Claude JUST became AWARE](https://www.youtube.com/watch?v=mA8C55NLYzw)**
 
-The U.S. is relying heavily on A.I. to conduct its war in Iran. Cenk Uygur, Jordan Uhl and Keith Edwards discuss on The Young ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 The Young Turks
+📺 Wes Roth
 
-👁️ 49K • 👍 1K • 💬 472 • ⏱️ 3:52 • 2d ago
+👁️ 112K • 👍 4K • 💬 895 • ⏱️ 27:28 • 2d ago
+
+---
+
+**[&quot;We Built Something We Can&#39;t Control&quot;: An Engineer&#39;s Warning to Humanity](https://www.youtube.com/watch?v=rf2KFVcKQdQ)**
+
+The engineers building artificial intelligence don't fully understand how it works. Many people think AI is carefully engineered.
+
+📺 Peter McCormack
+
+👁️ 33K • 👍 1K • 💬 351 • ⏱️ 1:33:56 • 18h ago
+
+---
+
+**[Tyrone Magnus &amp; Scar-Lo | Sora 2 AI Compilation | Reaction!](https://www.youtube.com/watch?v=wbbq3CUPRhE)**
+
+tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funny #tyronemagnus #reactions #reaction ...
+
+📺 Tyrone Magnus
+
+👁️ 42K • 👍 4K • 💬 329 • ⏱️ 11:15 • 13h ago
+
+---
+
+**[this EX-OPENAI RESEARCHER just released it...](https://www.youtube.com/watch?v=tUkD0oj92Qg)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 62K • 👍 3K • 💬 480 • ⏱️ 20:52 • 23h ago
+
+---
+
+**[FIGHT ERUPTS: Trump admin hit with precedent-setting lawsuit from AI powerhouse](https://www.youtube.com/watch?v=n5rlm6rTQs0)**
+
+Abundance Institute Head of AI Policy Neil Chilson discusses Anthropic's lawsuit against the Trump administration Department of ...
+
+📺 Fox Business Clips
+
+👁️ 50K • 👍 1K • 💬 502 • ⏱️ 9:14 • 1d ago
 
 ---
 
@@ -397,7 +391,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 345,465 • ❤️ 481 • 5d ago
+⬇️ 345,465 • ❤️ 489 • 5d ago
 
 ---
 
@@ -409,7 +403,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,390,816 • ❤️ 708 • 9d ago
+⬇️ 1,390,816 • ❤️ 713 • 9d ago
 
 ---
 
@@ -421,7 +415,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 30,763 • ❤️ 388 • 3d ago
+⬇️ 30,763 • ❤️ 394 • 3d ago
 
 ---
 
@@ -433,7 +427,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 126,979 • ❤️ 309 • 7d ago
+⬇️ 126,979 • ❤️ 315 • 7d ago
 
 ---
 
@@ -445,7 +439,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 4,201 • ❤️ 213 • 1d ago
+⬇️ 4,201 • ❤️ 214 • 1d ago
 
 ---
 
@@ -457,7 +451,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 184 • 2h ago
+⬇️ 746 • ❤️ 209 • 4h ago
 
 ---
 
@@ -469,7 +463,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,351,596 • ❤️ 1,071 • 12d ago
+⬇️ 1,351,596 • ❤️ 1,073 • 12d ago
 
 ---
 
@@ -485,6 +479,18 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 ---
 
+**[sarvam-30b](https://huggingface.co/sarvamai/sarvam-30b)**
+
+*Sarvam AI*
+
+Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text generation model optimized for resource-constrained environments. It excels in reasoning, coding, and conversational tasks across 22 Indian languages, offering state-of-the-art performance for its size.
+
+`text-generation` `32.2B`
+
+⬇️ 6,306 • ❤️ 146 • 1d ago
+
+---
+
 **[Qwen3.5-0.8B](https://huggingface.co/Qwen/Qwen3.5-0.8B)**
 
 *Qwen*
@@ -494,18 +500,6 @@ Qwen3.5-0.8B is a 0.8B parameter causal language model with a vision encoder, ut
 `image-text-to-text` `873.4M`
 
 ⬇️ 595,789 • ❤️ 357 • 9d ago
-
----
-
-**[sarvam-30b](https://huggingface.co/sarvamai/sarvam-30b)**
-
-*Sarvam AI*
-
-Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text generation model optimized for resource-constrained environments. It excels in reasoning, coding, and conversational tasks across 22 Indian languages, offering state-of-the-art performance for its size.
-
-`text-generation` `32.2B`
-
-⬇️ 6,306 • ❤️ 144 • 1d ago
 
 ---
 
@@ -521,7 +515,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 LoGeR enables long-term 3D video reconstruction by combining bidirectional priors with a hybrid memory system that includes parametric Test-Time Training and non-parametric sliding window attention mechanisms.
 
-▲ 43 • 💬 4 • ⭐ 227 • 7d ago
+▲ 46 • 💬 5 • ⭐ 281 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03269) • [💻 code](https://github.com/Junyi42/LoGeR) • [🔗 project](https://loger-project.github.io/)
 
@@ -535,7 +529,7 @@ LoGeR enables long-term 3D video reconstruction by combining bidirectional prior
 
 DeepPlanning benchmark addresses limitations of current LLM planning assessments by introducing complex, real-world tasks requiring both global optimization and local constraint reasoning.
 
-▲ 33 • 💬 3 • ⭐ 15,339 • 1mo ago
+▲ 33 • 💬 3 • ⭐ 15,390 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18137) • [💻 code](https://github.com/QwenLM/Qwen-Agent) • [🔗 project](https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/)
 
@@ -547,7 +541,7 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Holi-Spatial presents the first fully automated, large-scale, spatially-aware multimodal dataset constructed from raw video inputs, supporting multi-level spatial supervision for 3D scene understanding and spatial reasoning tasks.
 
-▲ 71 • 💬 5 • ⭐ 135 • 3d ago
+▲ 72 • 💬 5 • ⭐ 135 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.07660) • [💻 code](https://github.com/Visionary-Laboratory/holi-spatial) • [🔗 project](https://visionary-laboratory.github.io/holi-spatial/)
 
@@ -560,7 +554,7 @@ Holi-Spatial presents the first fully automated, large-scale, spatially-aware mu
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 42 • 💬 1 • ⭐ 72,807 • 30mo ago
+▲ 43 • 💬 1 • ⭐ 72,807 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -589,7 +583,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 154 • 💬 5 • ⭐ 1,038 • 6d ago
+▲ 155 • 💬 5 • ⭐ 1,038 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
@@ -607,6 +601,18 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
+**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
+
+*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
+
+MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
+
+▲ 160 • 💬 3 • ⭐ 6,604 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
+
+---
+
 **[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
 
 *Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
@@ -619,28 +625,15 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+**[OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://huggingface.co/papers/2411.11581)**
 
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+*Ziyi Yang, Zaibin Zhang, Zirui Zheng et al. (23 authors)*
 
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+OASIS is a scalable and generalizable social media simulator that models large-scale user interactions and replicates complex social phenomena across platforms.
 
-▲ 19 • 💬 1 • ⭐ 31,786 • 14mo ago
+▲ 0 • 💬 0 • ⭐ 2,944 • 15mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[AReaL: A Large-Scale Asynchronous Reinforcement Learning System for
-  Language Reasoning](https://huggingface.co/papers/2505.24298)**
-
-*Wei Fu, Jiaxuan Gao, Xujie Shen et al. (13 authors)*
-
-AReaL, a fully asynchronous reinforcement learning system, decouples generation and training to achieve higher GPU utilization and up to 2.57x training speedup for large language models on reasoning tasks.
-
-▲ 33 • 💬 2 • ⭐ 4,630 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2505.24298) • [💻 code](https://github.com/inclusionAI/AReaL)
+[🎓 arXiv](https://arxiv.org/abs/2411.11581) • [💻 code](https://github.com/camel-ai/oasis)
 
 ---
 
@@ -654,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.0k • 🔱 3.3k • 2h ago
+⭐ 26.1k • 🔱 3.4k • 2h ago
 
 ---
 
@@ -664,7 +657,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 24.6k • 🔱 3.1k • 6h ago
+⭐ 25.1k • 🔱 3.2k • 7h ago
 
 ---
 
@@ -674,7 +667,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 18.6k • 🔱 792 • 13h ago
+⭐ 18.7k • 🔱 799 • 14h ago
 
 ---
 
@@ -694,7 +687,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.3k • 🔱 597 • 1h ago
+⭐ 8.3k • 🔱 600 • 3h ago
 
 ---
 
@@ -704,7 +697,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 7.9k • 🔱 678 • 5d ago
+⭐ 8.0k • 🔱 685 • 5d ago
 
 ---
 
@@ -724,7 +717,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 725 • 9h ago
+⭐ 6.2k • 🔱 725 • 1h ago
 
 ---
 
@@ -734,7 +727,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 431 • 2h ago
+⭐ 3.8k • 🔱 434 • 22m ago
 
 ---
 
@@ -744,7 +737,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 654 • 3d ago
+⭐ 3.3k • 🔱 656 • 2h ago
 
 ---
 

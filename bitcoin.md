@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T11:34:06.576703+00:00'
+updated: '2026-03-11T13:03:17.008449+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 11:34 UTC  
+**Last Updated:** March 11, 2026 at 13:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,468.72
+### $69,047.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -1.9%  
-**30d:** +1.0%  
-**90d:** -23.0%  
-**1y:** -16.8%  
+**24h:** -2.8%  
+**7d:** -2.1%  
+**30d:** +0.8%  
+**90d:** -23.2%  
+**1y:** -17.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1390.44B
+**Market Cap:** $1386.98B
 Rank #1
 
-**Circulating Supply:** 20,000,718 BTC
+**Circulating Supply:** 20,000,815 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.8%
+-45.0%
 
 **All-Time Low:** $67.81
-+102504.3%
++102172.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,15 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 16h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 17h ago
+
+---
+
+**[Best ways to spend BTC without selling it](https://www.reddit.com/r/Bitcoin/comments/1rqo3bp/best_ways_to_spend_btc_without_selling_it/)**
+
+Most traditional crypto cards either shut down or restricted regions in the last few years. The ones I've tried recently that integrate with Apple Pay or Google Pay make it pretty seamless to just tap and pay directly from crypto balances. Fees are usually reasonable too, depending on the card type.
+
+4h ago
 
 ---
 
@@ -103,7 +111,7 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to the moon any time now and getting our hopes up only for it to yoyo and continue the slow downward trend. If we're getting a new upsurge it'll be towards the end of the year or the beginning of 2027 anyway. Lets just enjoy the stacking season while we got it.
 
-12h ago
+14h ago
 
 ---
 
@@ -113,35 +121,27 @@ I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to 
 
 ---
 
-**[Daily Discussion, March 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1rqlw70/daily_discussion_march_11_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
-
----
-
 **[How Bitcoin is protecting people in Iran, video:](https://www.reddit.com/r/Bitcoin/comments/1rqqwno/how_bitcoin_is_protecting_people_in_iran_video/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GWLgv2xwiv4) • 19m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GWLgv2xwiv4) • 1h ago
 
 ---
 
-**[¿A qué precio compraríais Bitcoin en esta caída?](https://www.reddit.com/r/Bitcoin/comments/1rqofus/a_qué_precio_compraríais_bitcoin_en_esta_caída/)**
+**[Daily Discussion, March 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1rqlw70/daily_discussion_march_11_2026/)**
 
-Con la caída reciente de Bitcoin, tengo curiosidad por saber en qué nivel la gente considera que realmente merece la pena comprar el dip. ¿Estáis esperando a que llegue a un precio concreto o a cierto porcentaje de caída? ¿En qué rango de precios empezaríais a acumular BTC?
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+6h ago
 
 ---
 
-**[Best ways to spend BTC without selling it](https://www.reddit.com/r/Bitcoin/comments/1rqo3bp/best_ways_to_spend_btc_without_selling_it/)**
+**[Running a node](https://www.reddit.com/r/Bitcoin/comments/1rqs6nc/running_a_node/)**
 
-Most traditional crypto cards either shut down or restricted regions in the last few years. The ones I've tried recently that integrate with Apple Pay or Google Pay make it pretty seamless to just tap and pay directly from crypto balances. Fees are usually reasonable too, depending on the card type.
+Ive been trying to run a node on my ThinkPad with Debian installed on it for about a week. I keep getting all sorts of errors. I keep giving those errors to AI and it keeps giving me all sorts of solutions but then after some time another error pops up - this loop has been happening for a week and its so frustrating! Any advice on what to do to actually run your own node? Some of the errors that keep happening: Error: A fetal internal error occurred...Failed to connect best block (bad-txnmrklroot, hashMerkleRoot mismatch) Error: A fetal internal error occurred...Corrupt block found indicating potential hardware failure Error: A fetal internal error occurred...System error while flushing Fatal LevelDB error: Corruption: lock checksum mismatch...
 
-3h ago
+44m ago
 
 ---
 
@@ -159,7 +159,7 @@ Most traditional crypto cards either shut down or restricted regions in the last
 
 Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -167,19 +167,21 @@ The Block • 14h ago
 
 Bitcoin can hit a price of $1 million per coin even with "reasonably conservative assumptions," Bitwise CIO Matt Hougan argued. Here's why.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Bitcoin Is on Track to Reach $1 Million as It Only Needs 17% of Safe-Haven Market, Says Bitwise](https://www.tipranks.com/news/bitcoin-price-forecast-to-hit-1m-as-it-only-needs-17-of-safe-haven-market-says-bitwise)**
+**[Bitcoin will need 17% of ‘store of value’ market to hit $1M: Bitwise](https://www.tradingview.com/news/cointelegraph:11159b14e094b:0-bitcoin-will-need-17-of-store-of-value-market-to-hit-1m-bitwise/)**
 
-TipRanks • 4h ago
+Bitcoin needs to make up just one-sixth of the global “store of value” market, currently dominated by gold, to reach $1 million per coin, argues Bitwise chief investment officer Matt Hougan.In a blog post on Tuesday, Hougan said that most dismiss the lofty forecast for Bitcoin, as it would require…
+
+TradingView • 6h ago
 
 ---
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 14h ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -187,7 +189,7 @@ Investor's Business Daily • 14h ago
 
 Strategy's preferred issues—hybrid securities that have both stock- and bond-like features—may appeal to both Wall Street and Main Street investors wary of whipsawing stock markets.
 
-Investopedia • 16h ago
+Investopedia • 17h ago
 
 ---
 
@@ -199,11 +201,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Next week could spice things up for bitcoin as seven central banks face an inflation test](https://www.coindesk.com/markets/2026/03/11/next-week-could-spice-things-up-for-bitcoin-as-seven-central-banks-face-an-inflation-test)**
+**[Bitcoin Retreats Under $70K as IEA Weighs Historic Oil Reserve Release](https://finance.yahoo.com/news/bitcoin-retreats-under-70k-iea-120027716.html)**
 
-Seven major central banks, including the Federal Reserve, will issue rate decisions next week just as war-driven oil price spikes raise fresh concerns about global inflation.
+Bitcoin’s drop coincides with an IEA proposal to stabilize energy markets, leaving derivatives traders paying for downside protection.
 
-CoinDesk • 4h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin price news: BTC remains modestly lower at $69,500 following in line inflation data](https://www.coindesk.com/markets/2026/03/11/u-s-february-inflation-data-matches-forecasts-reinforcing-expectations-for-no-near-term-rate-cuts)**
+
+The price of bitcoin was trading at $69,500 following the news, down 1.2% over the past 24 hours.
+
+CoinDesk • 26m ago
+
+---
+
+**[A Record $409M Day Shows How Strategy Is Rapidly Scaling Bitcoin Accumulation With STRC](https://bitcoinmagazine.com/bitcoin-for-corporations/strategy-rapid-bitcoin-accumultion-strc)**
+
+A $409M trading day and record-low volatility suggest STRC may have unlocked product-market fit, bridging Bitcoin treasury strategy with income markets.
+
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -211,23 +229,7 @@ CoinDesk • 4h ago
 
 This could be your chance to stock up on a couple of quality cryptocurrencies at a discount.
 
-The Motley Fool • 5h ago
-
----
-
-**[Bitcoin Rebounds to $71,000 as Wall Street Deepens Push](https://finance.yahoo.com/news/bitcoin-rebounds-71-000-wall-154724672.html)**
-
-Last Wednesday’s 8% surge to $74,000 reminded investors that Bitcoin’s gains arrive in sudden, unforeseeable bursts that punish anyone trying to time them.  Bitcoin surged last Wednesday to its highest level in nearly a month, with Ether following sharply higher.  For beaten-up bulls who held through months of losses, the volatility over the past week was the argument made in real time.
-
-Yahoo Finance • 18h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773220800)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 2h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -239,7 +241,7 @@ Polymarket • 2h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 16 • 💬 0 • 16h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 16 • 💬 0 • 18h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -277,7 +279,7 @@ Complete operating system for Bitcoiners
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 22h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 23h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -321,55 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 138 • ⏱️ 9:26 • 12h ago
-
----
-
-**[Bitcoin’s Biggest Problem](https://www.youtube.com/watch?v=uyAVgFzW3YA)**
-
-📺 Andrei Jikh
-
-👁️ 49K • 👍 1K • 💬 60 • ⏱️ 1:05 • 16h ago
-
----
-
-**[Bitcoin: The Structure of a Bear Market](https://www.youtube.com/watch?v=xH1eaS-Gkfg)**
-
-In this video, we take a step back and look at the structure of a Bitcoin bear market. Bear markets rarely unfold as a single dramatic ...
-
-📺 Benjamin Cowen
-
-👁️ 50K • 👍 4K • 💬 206 • ⏱️ 13:00 • 15h ago
-
----
-
-**[Will The U.S. FREEZE Your Money Next? (Iran&#39;s SHOCKING Bitcoin Warning)](https://www.youtube.com/watch?v=T2rIIlKL4Ao)**
-
-Global tensions are rising, private credit is cracking, and the dollar system just proved it can shut countries out of finance overnight ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 1K • 💬 128 • ⏱️ 10:41 • 14h ago
-
----
-
-**[Will Global Conflict Send Bitcoin Higher?](https://www.youtube.com/watch?v=oXw7wHEokfY)**
-
-Jeff Park is the Partner & Chief Investment Officer at ProCap BTC. In this conversation, we discuss the idea of “wartime bitcoin,” ...
-
-📺 Anthony Pompliano
-
-👁️ 13K • 👍 632 • 💬 7 • ⏱️ 25:55 • 14h ago
-
----
-
-**[Bitcoin Beat Gold in a War. Here&#39;s the Catch.](https://www.youtube.com/watch?v=L41ImjjK1Pk)**
-
-Dana Love, PhD called Bitcoin's Wall Street capture live on Asharq Bloomberg in January. Ten days of war just ran a live test.
-
-📺 Dana Love, PhD
-
-👁️ 1K • 👍 76 • 💬 9 • ⏱️ 1:26 • 13h ago
+👁️ 33K • 👍 2K • 💬 145 • ⏱️ 9:26 • 13h ago
 
 ---
 
@@ -379,7 +333,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 7K • 👍 1K • 💬 138 • ⏱️ 20:58 • 15h ago
+👁️ 8K • 👍 1K • 💬 144 • ⏱️ 20:58 • 16h ago
 
 ---
 
@@ -389,27 +343,75 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 255 • ⏱️ 9:54 • 1d ago
+👁️ 56K • 👍 3K • 💬 251 • ⏱️ 9:54 • 1d ago
 
 ---
 
-**[Bitcoin Has One Hurdle To Beat Before Going Higher! [Data]](https://www.youtube.com/watch?v=wRFOgohMOhA)**
+**[BITCOIN SURGE: The $85,000 &quot;Smart Money&quot; Target Explained 🚀 And How To Use Retail To Bank Millions](https://www.youtube.com/watch?v=wX_lbyHqfwk)**
 
-Despite rising geopolitical tensions and massive volatility in oil markets, Bitcoin continues to rally. In this episode, Ran breaks ...
+The crowd is completely lost in their emotions, but the charts are crystal clear. In today's crypto market update, Chief Market ...
 
-📺 Crypto Banter
+📺 Gareth Soloway
 
-👁️ 17K • 👍 1K • 💬 20 • ⏱️ 24:07 • 21h ago
+👁️ 53K • 👍 3K • 💬 421 • ⏱️ 10:35 • 20h ago
 
 ---
 
-**[Professional Capital Management CEO: Bitcoin is more mobile and resilient than gold](https://www.youtube.com/watch?v=_dzH-58yi0k)**
+**[Will The U.S. FREEZE Your Money Next? (Iran&#39;s SHOCKING Bitcoin Warning)](https://www.youtube.com/watch?v=T2rIIlKL4Ao)**
 
-Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital Management, says Bitcoin is emerging as a ...
+Global tensions are rising, private credit is cracking, and the dollar system just proved it can shut countries out of finance overnight ...
 
-📺 CNBC Television
+📺 Simply Bitcoin
 
-👁️ 15K • 👍 163 • 💬 120 • ⏱️ 4:26 • 1d ago
+👁️ 17K • 👍 1K • 💬 132 • ⏱️ 10:41 • 16h ago
+
+---
+
+**[Bitcoin’s Biggest Problem](https://www.youtube.com/watch?v=uyAVgFzW3YA)**
+
+📺 Andrei Jikh
+
+👁️ 53K • 👍 2K • 💬 63 • ⏱️ 1:05 • 18h ago
+
+---
+
+**[Bitcoin Supply Shock Intensifies As Banks Prepare To Sue The U.S. Gov Over Crypto!](https://www.youtube.com/watch?v=Zqjhq1mLPvA)**
+
+Bitcoin #Crypto #Finance Bitcoin's supply shock is intensifying as the network crosses 20 million coins mined, leaving just 1 ...
+
+📺 The Wolf Of All Streets
+
+👁️ 17K • 👍 753 • 💬 148 • ⏱️ 54:43 • 22h ago
+
+---
+
+**[OIL AND BITCOIN — THE EXACT TRADES YOU NEED TODAY...](https://www.youtube.com/watch?v=7ZUObFyjTFY)**
+
+Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA ...
+
+📺 100XClub
+
+👁️ 4K • 👍 613 • 💬 96 • ⏱️ 12:03 • 3h ago
+
+---
+
+**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=9uAVH56iJwk)**
+
+After discussing it for weeks, Bitcoin had the rally into early March that was then subsequently sold off, just like prior midterm year ...
+
+📺 Benjamin Cowen
+
+👁️ 92K • 👍 6K • 💬 360 • ⏱️ 11:22 • 2d ago
+
+---
+
+**[Bitcoin: The Structure of a Bear Market](https://www.youtube.com/watch?v=xH1eaS-Gkfg)**
+
+In this video, we take a step back and look at the structure of a Bitcoin bear market. Bear markets rarely unfold as a single dramatic ...
+
+📺 Benjamin Cowen
+
+👁️ 57K • 👍 4K • 💬 218 • ⏱️ 13:00 • 16h ago
 
 ---
 
