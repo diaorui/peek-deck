@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T10:40:56.134588+00:00'
+updated: '2026-03-11T11:34:06.582988+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 10:40 UTC  
+**Last Updated:** March 11, 2026 at 11:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,015.30
+### $2,028.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** -2.7%  
-**30d:** -0.1%  
-**90d:** -34.6%  
-**1y:** +5.6%  
+**24h:** -1.2%  
+**7d:** -2.3%  
+**30d:** +0.2%  
+**90d:** -34.4%  
+**1y:** +5.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -96,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
 
-14h ago
+15h ago
 
 ---
 
 **[Starknet proposes STRK20 — private ERC-20 tokens on Ethereum L2](https://www.reddit.com/r/ethereum/comments/1rq2jwl/starknet_proposes_strk20_private_erc20_tokens_on/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -156,7 +156,7 @@ MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, a
 
 Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 6h ago
 
 Meanwhile, more than half of XRP’s total supply is sitting at a loss....
 
-Sherwood News • 18h ago
+Sherwood News • 19h ago
 
 ---
 
@@ -180,7 +180,7 @@ PR Newswire • 1d ago
 
 Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 21h ago
 
 Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ Yahoo Finance • 1h ago
 
 It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
 
-The Motley Fool • 9m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -214,7 +214,7 @@ Seeking Alpha • 2d ago
 
 **[Bitcoin Falls Below $70,000. Why Ethereum and XRP Prices Slipped Too.](https://www.barrons.com/articles/bitcoin-price-today-xrp-eth-cryptocurrencies-dca75923?gaa_at=eafs&gaa_n=AWEtsqe1OT7fYRcrd8cY7LBC2kloCyNCA5Ce3t2HZsMDFvhAWQtvatnyn-4E&gaa_ts=69b14a22&gaa_sig=8fdhd8wz13w6RwkIZ56wC6if0fuPUXi0arVn-uSy5JRb5TY9DaLpUyUzdcILdvaHEgIdvVtif-55fJdEQGsvCQ%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -222,7 +222,7 @@ Barron's • 2h ago
 
 Ethereum price started a recovery wave above the $2,000 zone. ETH is now struggling to clear $2,090 and remains at risk of another decline in the near term.Ethereum Price Trims Some GainsEthereum price extended its recovery wave after it cleared the $1,950 zone, like Bitcoin. ETH price was able to…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -236,7 +236,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 49K • 👍 2K • 💬 230 • ⏱️ 21:43 • 20h ago
+👁️ 49K • 👍 2K • 💬 230 • ⏱️ 21:43 • 21h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 The Value Thinker
 
-👁️ 5K • 👍 316 • 💬 46 • ⏱️ 21:31 • 9h ago
+👁️ 5K • 👍 316 • 💬 46 • ⏱️ 21:31 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 335 • 💬 122 • ⏱️ 13:04 • 19h ago
+👁️ 6K • 👍 335 • 💬 122 • ⏱️ 13:04 • 20h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN HOLDERS: Don't Let This Trick You!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 5K • 👍 214 • 💬 140 • ⏱️ 16:54 • 10h ago
+👁️ 5K • 👍 214 • 💬 140 • ⏱️ 16:54 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 3 • ⏱️ 5:14 • 18h ago
+👁️ 2K • 👍 126 • 💬 3 • ⏱️ 5:14 • 19h ago
 
 ---
 
@@ -296,7 +296,7 @@ Prepare for the cycle with our risk models to accumulate, plan exits, and stay a
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 762 • 💬 242 • ⏱️ 11:26 • 18h ago
+👁️ 10K • 👍 762 • 💬 242 • ⏱️ 11:26 • 19h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 999 • 👍 100 • 💬 2 • ⏱️ 4:40 • 8h ago
+👁️ 999 • 👍 100 • 💬 2 • ⏱️ 4:40 • 9h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN Y ETHEREUM PODRÍAN QUEDARSE FUERA (LA CONVERGENCIA ISO 20022) Durante d
 
 📺 Negocios & Poder
 
-👁️ 624 • 👍 101 • 💬 21 • ⏱️ 10:05 • 15h ago
+👁️ 624 • 👍 101 • 💬 21 • ⏱️ 10:05 • 16h ago
 
 ---
 
