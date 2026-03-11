@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T15:13:03.736831+00:00'
+updated: '2026-03-11T16:11:39.561231+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 15:13 UTC  
+**Last Updated:** March 11, 2026 at 16:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,9 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Building a navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 1)](https://www.reddit.com/r/robotics/comments/1rqpnrb/building_a_navigation_software_that_will_only/)**
+**[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
-
-5h ago
+1h ago
 
 ---
 
@@ -44,7 +42,7 @@ Hi guys, so I've been building robots for a while, some of you might have seen m
 
 BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineering for Disneyland theme parks. Inspiration for walking movements was taken from the waddle of a duck, creating a stable walk while still keeping the appearance fun, as with Star Wars droids.
 
-22h ago
+23h ago
 
 ---
 
@@ -52,13 +50,21 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-1h ago
+2h ago
+
+---
+
+**[Building a navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 1)](https://www.reddit.com/r/robotics/comments/1rqpnrb/building_a_navigation_software_that_will_only/)**
+
+Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
+
+6h ago
 
 ---
 
 **[Python - (Turtle), Pen Plotting Machine](https://www.reddit.com/r/robotics/comments/1rquabt/python_turtle_pen_plotting_machine/)**
 
-🔗 [a.co](https://a.co/d/0jbGo04e) • 1h ago
+🔗 [a.co](https://a.co/d/0jbGo04e) • 2h ago
 
 ---
 
@@ -66,7 +72,7 @@ Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vi
 
 Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
 
-22h ago
+23h ago
 
 ---
 
@@ -82,7 +88,7 @@ This video shows the AGV in action that follows a magnetic line, with markers al
 
 Hi all, I am getting into the hobby and I build this cute robot which I currently running from usb-c cable going directly to the ESP32. I want to add batteries for it but I am looking for the best (and safe way) to go. Few things I want: Chargeable via USB-C Chargeable while powered on (I believe this may be a bit sketchy)\ I use lipo 3s (because I already have it and I may want more Vs in the future projects) I hope this drawing makes sense to you, but I want to clarify if it is a good plan? (Just to clarify 4 thinner wires are for balancing and thicker ones for the main load. I would use lipo 3s with XT30 connection). Thanks https://preview.redd.it/0no1gx2a5dog1.png?width=1504&format=png&auto=webp&s=a096d1ae4ace9ad7303706de897e116cf9b7b1de
 
-8h ago
+9h ago
 
 ---
 
@@ -90,19 +96,13 @@ Hi all, I am getting into the hobby and I build this cute robot which I currentl
 
 Erlebt live spannende Wettbewerbe, innovative Robotik, packende Matches und faszinierende Technologien aus der Welt des RoboCup. Heute starten die Teams in d...
 
-🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 9h ago
+🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 10h ago
 
 ---
 
 **[Figure's Helix 2 - Full Body Autonomy Video](https://www.reddit.com/r/robotics/comments/1rq45b6/figures_helix_2_full_body_autonomy_video/)**
 
-21h ago
-
----
-
-**[Reflex Robotics releases first episode of "At Your Service"](https://www.reddit.com/r/robotics/comments/1rpc547/reflex_robotics_releases_first_episode_of_at_your/)**
-
-1d ago
+22h ago
 
 ---
 
@@ -114,13 +114,19 @@ Erlebt live spannende Wettbewerbe, innovative Robotik, packende Matches und fasz
 
 This robo-chef can take over your meal prep.
 
-The Verge • 17h ago
+The Verge • 18h ago
 
 ---
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqdzHbwpbm2lTYA4WRgbFwojniGLVswsSMGgQkc3ZNADsEv7mDDkBsqj&gaa_ts=69b197a2&gaa_sig=7VGI9Lr793XgUix-WfKmOMe2S58D64eYkkWoiSlB7tntdm0Jd_f_D_pfOc4aUZMpJtww9d6vBSUj-Ja_SsiX5A%3D%3D)**
+
+WSJ • 1h ago
 
 ---
 
@@ -132,25 +138,19 @@ Business Wire • 1d ago
 
 ---
 
-**[Former Google AI Researcher Sets Up AI Robotics Startup in Tokyo](https://finance.yahoo.com/news/former-google-ai-researcher-sets-041500137.html)**
-
-Integral AI Inc., a five-year-old company founded by former Google researchers Jad Tarifi and Nima Asgharbeygi, develops AI models geared for automated systems such as robots and self-driving cars.  The company has worked with auto parts maker Denso Corp. since 2021 to help teach industrial robots new skills by observing demonstrations.  The 15-person startup is holding initial discussions with Toyota Motor Corp., Sony Group Corp., Honda Motor Co., Nissan Motor Co. and Mitsui Chemicals Inc. to pitch them on how artificial intelligence can advance manufacturing processes.
-
-Yahoo Finance • 2d ago
-
----
-
 **[Serve Robotics Announces Fourth Quarter and Full Year 2025 Results](https://finance.yahoo.com/news/serve-robotics-announces-fourth-quarter-110000555.html)**
 
 Exceeded Q4 and full year 2025 expectations with fourth quarter revenue up roughly 400% year over year to $0.9 million, and full year revenue of $2.7 million, above prior guidance of $2.5 million.Scaled the fleet to 2,000 deployed robots by year end, expanding Serve’s operating footprint to 20 cities across 6 major metropolitan areasExpanded and diversified the platform through new market launches, the addition of DoorDash alongside Uber Eats, growth to 4,500+ merchant partners, and four strateg
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Austin's Icon selling its 3D-printed home tech to outside builders](https://amp.axios.com/3d-printing-company-icon-expands-austin-92c68e09-5977-4307-8efc-ae1fa26cba54.html)**
+**[Amazon is investing AU$750 million in a robotics fulfillment center in Australia](https://www.aboutamazon.com/news/company-news/australia-robotics-fulfillment-center)**
 
-Axios • 3h ago
+Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
+
+About Amazon • 15h ago
 
 ---
 
@@ -162,11 +162,19 @@ MIT Technology Review • 1d ago
 
 ---
 
+**[OSU Robotics Professor Jonathan Hurst Helped Create a $2.5 Billion Company That Makes Humanoid Robots With AI Intelligence](https://www.wweek.com/technology/2026/03/11/osu-robotics-professor-jonathan-hurst-helped-create-a-25-billion-company-that-makes-humanoid-robots-with-ai-intelligence/)**
+
+OJP talked to Jonathan Hurst about the state of robotics, the climate for growing a business in Oregon, the challenges he faces, and the social implications of robots in the workplace.
+
+Willamette Week • 1h ago
+
+---
+
 **[Humanoid Robots Exit Labs: Mapping the Technical Path to Embodied AI at AW 2026](https://www.eetimes.com/humanoid-robots-exit-labs-mapping-the-technical-path-to-embodied-ai-at-aw-2026/)**
 
 The AW 2026 expo in Seoul highlights a pivotal shift as humanoid robots move from research labs to industrial applications.
 
-EE Times • 15h ago
+EE Times • 16h ago
 
 ---
 
@@ -174,15 +182,7 @@ EE Times • 15h ago
 
 Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
 
-TechCrunch • 1d ago
-
----
-
-**[World's largest humanoid robot training center to launch in Germany](https://interestingengineering.com/ai-robotics/worlds-largest-humanoid-robot-training-center)**
-
-Germany will unveil a huge robot gym where humanoids train with humans to learn everyday tasks and generate valuable AI training data.
-
-Interesting Engineering • 19h ago
+TechCrunch • 2d ago
 
 ---
 
@@ -246,7 +246,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 41K • 👍 1K • 💬 108 • ⏱️ 10:52 • 3d ago
+👁️ 41K • 👍 1K • 💬 108 • ⏱️ 10:52 • 4d ago
 
 ---
 
@@ -266,7 +266,7 @@ REFLEX ROBOTICS snow-shoveling humanoid https://www.youtube.com/@reflexrobotics 
 
 📺 Unstoppable Gadgets
 
-👁️ 27K • 👍 618 • 💬 26 • ⏱️ 0:20 • 18h ago
+👁️ 27K • 👍 618 • 💬 26 • ⏱️ 0:20 • 19h ago
 
 ---
 

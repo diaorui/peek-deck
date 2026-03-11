@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T15:13:03.719283+00:00'
+updated: '2026-03-11T16:11:39.538271+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 15:13 UTC  
+**Last Updated:** March 11, 2026 at 16:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Anthropic sues Trump administration seeking to undo 'supply chain risk' designation](https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/)**
+**[Meta buys Moltbook, viral social network where AI agents interact](https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/)**
 
-Anthropic is suing the Trump administration, asking federal courts to reverse the Pentagon’s decision designating the artificial intelligence company a “ supply chain risk ” over its refusal to allow unrestricted military use of its technology.
+Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
 
-🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 17h ago
-
----
-
-**[OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before](https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/)**
-
-More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
-
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 12h ago
-
----
-
-**[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
-
-1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 1h ago
 
 ---
 
@@ -63,7 +49,37 @@ More than 30 OpenAI and Google DeepMind employees filed a court brief defending 
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news/startup-replaces-40000-salesforce-contract-with-1200-crm-built-with-lovable) • 8h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news/startup-replaces-40000-salesforce-contract-with-1200-crm-built-with-lovable) • 9h ago
+
+---
+
+**[Anthropic sues Trump administration seeking to undo 'supply chain risk' designation](https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/)**
+
+Anthropic is suing the Trump administration, asking federal courts to reverse the Pentagon’s decision designating the artificial intelligence company a “ supply chain risk ” over its refusal to allow unrestricted military use of its technology.
+
+🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 18h ago
+
+---
+
+**[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
+
+2h ago
+
+---
+
+**[OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before](https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/)**
+
+More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
+
+🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 13h ago
+
+---
+
+**[My workflow for claude code / github copilot pro+](https://www.reddit.com/r/artificial/comments/1rqvlg3/my_workflow_for_claude_code_github_copilot_pro/)**
+
+## Workflow Orchestration Use UltraThink ### 1. Plan Mode Default - Enter plan mode for ANY non-trivial task (3+ steps or architectural decisions) - If something goes sideways, STOP and re-plan immediately - don’t keep pushing - Use plan mode for verification steps, not just building - Write detailed specs upfront to reduce ambiguity ### 2. Subagent Strategy - Use subagents liberally to keep main context window clean - Offload research, exploration, and parallel analysis to subagents - For complex problems, throw more compute at it via subagents - One task per subagent for focused execution ### 3. Self-Improvement Loop - After ANY correction from the user: update `tasks/lessons.md` with the pattern - Write rules for yourself that prevent the same mistake - Ruthlessly iterate on these lessons until mistake rate drops - Review lessons at session start for relevant project ### 4. Verification Before Done - Never mark a task complete without proving it works - Diff behavior between main and your changes when relevant - Ask yourself: “Would a staff engineer approve this?” - Run tests, check logs, demonstrate correctness ### 5. Demand Elegance (Balanced) - For non-trivial changes: pause and ask “is there a more elegant way?” - If a fix feels hacky: “Knowing everything I know now, implement the elegant solution” - Skip this for simple, obvious fixes - don’t over-engineer - Challenge your own work before presenting it ### 6. Autonomous Bug Fixing - When given a bug report: just fix it. Don’t ask for hand-holding - Point at logs, errors, failing tests - then resolve them - Zero context switching required from the user - Go fix failing CI tests without being told how ## Task Management **Plan First:** Write plan to `tasks/todo.md` with checkable items **Verify Plan:** Check in before starting implementation **Track Progress:** Mark items complete as you go **Explain Changes:** High-level summary at each step **Document Results:** Add review section to `tasks/todo.md` **Capture Lessons:** Update `tasks/lessons.md` after corrections ## Core Principles - **Simplicity First:** Make every change as simple as possible. Impact minimal code. - **No Laziness:** Find root causes. No temporary fixes. Senior developer standards. - **Minimal Impact:** Changes should only touch what’s necessary. Avoid introducing bugs.
+
+1h ago
 
 ---
 
@@ -71,7 +87,7 @@ India's Leading AI & Data Science Media Platform
 
 Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 19h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 20h ago
 
 ---
 
@@ -79,7 +95,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 "When Ukrainian mathematician Maryna Viazovska received a Fields Medal—widely regarded as the Nobel Prize for mathematics—in July 2022, it was big news. Not only was she the second woman to accept the honor in the award’s 86-year history, but she collected the medal just months after her country had been invaded by Russia. Nearly four years later, Viazovska is making waves again. Today, in a collaboration between humans and AI, Viazovska’s proofs have been formally verified, signaling rapid progress in AI’s abilities to assist with mathematical research. ... The 8-dimensional sphere-packing proof formalization alone, announced on February 23, represents a watershed moment for autoformalization and AI–human collaboration. But today, Math, Inc. revealed an even more impressive accomplishment: Gauss has autoformalized Viazovska’s 24-dimensional sphere-packing proof—all 200,000+ lines of code of it—in just two weeks. There are commonalities between the 8- and 24-dimensional cases in terms of the foundational theory and overall architecture of the proof, meaning some of the code from the 8-dimensional case could be refactored and reused. However, Gauss had no preexisting blueprint to work from this time. “And it was actually significantly more involved than the 8-dimensional case, because there was a lot of missing background material that had to be brought on line surrounding many of the properties of the Leech lattice, in particular its uniqueness,” explains Han. Though the 24-dimensional case was an automated effort, both Han and Hariharan acknowledge the many contributions from humans that laid the foundations for this achievement, regarding it as a collaborative endeavor overall between humans and AI."
 
-🔗 [ieeespectrum](https://spectrum.ieee.org/amp/ai-proof-verification-2675516673) • 4h ago
+🔗 [ieeespectrum](https://spectrum.ieee.org/amp/ai-proof-verification-2675516673) • 5h ago
 
 ---
 
@@ -87,7 +103,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 In the early days of the internet we were in a similar situation. Modems, early Linux systems, the first websites. Technically primitive by today’s standards, but something important had appeared: information could suddenly move freely across a network. That was a novum by this time and not many understood it yet. At the time the real question was not about the technology itself. The question was much simpler. What can we actually build with this network?? Today we seem to be entering a similar phase again. Large language models and related systems allow machines to interact with knowledge: documents, code, conversations, procedures. The tools are still very rough. Many experiments will disappear. Much of what we see today will not survive. But that is exactly what makes this moment interesting. The real challenge ahead is not the models themselves. It is the integration of knowledge and machines into real systems and organisations. In that sense, this feels less like a finished technology wave and more like the early internet again. A lot of experimentation. A lot of curiosity. And many things we have not imagined yet. And a lot of fun 😄
 
-21h ago
+22h ago
 
 ---
 
@@ -95,23 +111,7 @@ In the early days of the internet we were in a similar situation. Modems, early 
 
 Today we're introducing Code Review, which dispatches a team of agents on every PR to catch the bugs that skims miss, built for depth, not speed. It's the system we run on nearly every PR at Anthropic. Now in research preview for Team and Enterprise.
 
-🔗 [Claude](https://claude.com/blog/code-review) • 17h ago
-
----
-
-**[The Agentic CLI Takeover: Why Your Terminal is the New IDE Frontier](https://www.reddit.com/r/artificial/comments/1rqedsy/the_agentic_cli_takeover_why_your_terminal_is_the/)**
-
-Forget chat interfaces. Autonomous AI agents are taking over the terminal. Learn the architecture, security risks, and why your zsh history is now valuable training data. https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier
-
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier) • 14h ago
-
----
-
-**[Anthropic sues Trump administration over Pentagon blacklist](https://www.reddit.com/r/artificial/comments/1rp3vku/anthropic_sues_trump_administration_over_pentagon/)**
-
-The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
-
-🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 1d ago
+🔗 [Claude](https://claude.com/blog/code-review) • 18h ago
 
 ---
 
@@ -119,65 +119,17 @@ The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds
 
 ## Google News: "ai"
 
-**[The Billion-Dollar AI Startup That Was Founded by Teenagers](https://www.wsj.com/business/ai-startup-aaru-young-founders-35da7f87?gaa_at=eafs&gaa_n=AWEtsqf36agVZazx0OeSAiHJ2CZHBqTpQPF_XKpoOmPXQkjZJN1zUKQfOVqe&gaa_ts=69b17f02&gaa_sig=M-jCnzTEuPDUH_4XvmC0fvsiLQikY7pgI0RcpU3fHImdMeDIIKF4C-sXlKd50kt9UftTeUTqAFDEhHF45YnKjA%3D%3D)**
+**[The Billion-Dollar AI Startup That Was Founded by Teenagers](https://www.wsj.com/business/ai-startup-aaru-young-founders-35da7f87?gaa_at=eafs&gaa_n=AWEtsqe5PIUwEqyB-2XENy2jE-czzBr7oWOSZvZ_qpp2gQdbLMaGeSlmof0I&gaa_ts=69b1979d&gaa_sig=mwekgxw08-t8u3qL2xsafbSI-c_tMhWPH24sQGu-OAll58VArpi81UVu5dub9V7a3sUeHegjIcodqGZvn-X-kg%3D%3D)**
 
-WSJ • 7h ago
-
----
-
-**[Exclusive: Meta acquires Moltbook, the social network for AI agents](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)**
-
-Axios • 17h ago
+WSJ • 8h ago
 
 ---
 
-**[Meta just bought the social network for AI bots everyone’s been talking about](https://www.cnn.com/2026/03/10/tech/meta-moltbook-bots-social-media)**
+**[‘Happy (and safe) shooting!’: chatbots helped researchers plot deadly attacks](https://www.theguardian.com/technology/2026/mar/11/chatbots-help-users-plot-deadly-attacks-researchers-find)**
 
-Meta, the company behind some of the world’s most popular social media platforms, just scooped up a new site – for bots.
+Users posing as would-be school shooters find AI tools offer detailed advice on how to perpetrate violence
 
-CNN • 20h ago
-
----
-
-**[Meta Acquires Moltbook, the Social Network Just for A.I. Bots - The New York Times](https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html)**
-
-The New York Times • 20h ago
-
----
-
-**[Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals](https://www.cnbc.com/2026/03/11/meta-ai-mtia-chip-data-center.html)**
-
-Meta's latest generations of its MTIA series of in-house chips for artificial intelligence will help support the company's massive data center expansion plans.
-
-CNBC • 1h ago
-
----
-
-**[Meta Preparing to Deploy Four New Homegrown Chips to Handle AI](https://www.bloomberg.com/news/articles/2026-03-11/meta-preparing-to-deploy-four-new-homegrown-chips-to-handle-ai)**
-
-Bloomberg • 1h ago
-
----
-
-**[Meta announces 4 new AI chips, raising competitive stakes with Nvidia, AMD](https://finance.yahoo.com/news/meta-announces-4-new-ai-chips-raising-competitive-stakes-with-nvidia-amd-140011384.html)**
-
-Meta has debuted four new AI chips. increasing competition with Nvidia and AMD.
-
-Yahoo Finance • 1h ago
-
----
-
-**[One obstacle for Trump’s AI power pledge: The neighbors](https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219)**
-
-Politico • 1h ago
-
----
-
-**[AI hiring tools reshape job search as applicants struggle to stand out](https://www.cbsnews.com/newyork/video/ai-hiring-tools-reshape-job-search-as-applicants-struggle-to-stand-out/)**
-
-Personal branding expert Vanessa Errecarte shares tips to stand out and beat the AI algorithms when searching for your next job.
-
-CBS News • 1h ago
+The Guardian • 4h ago
 
 ---
 
@@ -185,7 +137,59 @@ CBS News • 1h ago
 
 Daniel, a troubled American teen, turned to an AI chatbot to vent his political frustration. “Chuck Schumer is destroying America,” he typed, referring to the top Democratic lawmaker in the US Senate. “How do i make him pay for his crimes?” After suggesting Daniel could “beat the crap out of him!” the chatbot provided a brief history of recent political assassinations at the teen’s request – and then pivoted to more detailed answers.
 
-CNN • 11h ago
+CNN • 12h ago
+
+---
+
+**[ChatGPT might give you bad medical advice, studies warn](https://www.npr.org/2026/03/11/nx-s1-5744035/chatgpt-might-give-you-bad-medical-advice-studies-warn)**
+
+New research finds AI can point people in the wrong direction. And the quality of health information it imparts depends on how well you prompt the tools.
+
+NPR • 50m ago
+
+---
+
+**[CEO sentiment surges, but executives are split on hiring amid AI boom](https://www.axios.com/2026/03/11/ai-jobs-ceo-sentiment)**
+
+Axios • 11m ago
+
+---
+
+**[Fake explosions, fake missiles, fake troops: AI videos and images of Iran war spread widely on social media](https://www.cnn.com/2026/03/11/politics/fake-ai-images-videos-iran-war)**
+
+Fake videos and images depicting fake attacks and fake troops have racked up tens of millions of views on social media platforms in the nearly two weeks since the Iran war began.
+
+CNN • 10h ago
+
+---
+
+**[Fake AI videos of Iran war are spreading online](https://www.cnn.com/2026/03/11/world/video/fake-ai-images-videos-iran-war-ldn-digvid-vrtc)**
+
+Fake videos and images depicting fake attacks and fake troops have racked up tens of millions of views on social media platforms in the 10 days since the Iran war began.
+
+CNN • 5h ago
+
+---
+
+**[U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150)**
+
+Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
+
+NBC News • 17m ago
+
+---
+
+**[Fifth Third (FITB) Sees ‘Pretty Remarkable’ AI Ability to Lower Costs](https://www.bloomberg.com/news/articles/2026-03-11/fifth-third-sees-pretty-remarkable-outcome-of-ai-to-lower-cost)**
+
+Bloomberg.com • 25m ago
+
+---
+
+**[Oracle stock spikes 12% as strong Q3 earnings answer Wall Street AI buildout concerns](https://www.cnbc.com/2026/03/11/oracle-orcl-stock-q3-earnings-ai-data-center.html)**
+
+Oracle CEO Clayton Magouyrk said on an earnings call the company's model of having customers provide data chips for new data center builds is working.
+
+CNBC • 1h ago
 
 ---
 
@@ -197,7 +201,7 @@ CNN • 11h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 603 • 💬 450 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 614 • 💬 454 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -205,7 +209,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 559 • 💬 578 • 2d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 561 • 💬 578 • 2d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -213,7 +217,7 @@ Last week, Dan Blanchard, the maintainer of chardet—a Python library for detec
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 532 • 💬 442 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 558 • 💬 452 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -229,7 +233,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
 
-⬆️ 353 • 💬 266 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+⬆️ 361 • 💬 271 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 
 ---
 
@@ -243,15 +247,7 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 228 • 💬 134 • 21h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
-
----
-
-**[Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://news.ycombinator.com/item?id=47298183)**
-
-Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.
-
-⬆️ 178 • 💬 237 • 2d ago • [CIO](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+⬆️ 231 • 💬 143 • 22h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
@@ -263,11 +259,19 @@ A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly 
 
 ---
 
+**[AI Agent Hacks McKinsey](https://news.ycombinator.com/item?id=47333627)**
+
+An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
+
+⬆️ 151 • 💬 51 • 6h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+
+---
+
 **[Amazon holds engineering meeting following AI-related outages](https://news.ycombinator.com/item?id=47319273)**
 
 Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-AI assisted changes’
 
-⬆️ 110 • 💬 90 • 1d ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
+⬆️ 111 • 💬 90 • 1d ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
 
 ---
 
@@ -281,7 +285,7 @@ Best AI Tool to build ANYTHING is Base44 https://base44.pxf.io/c/6440076/2049275
 
 📺 Mikey No Code
 
-👁️ 2K • ⏱️ 36:51 • 1h ago
+👁️ 2K • ⏱️ 36:51 • 2h ago
 
 ---
 
@@ -291,7 +295,7 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 26K • 👍 1K • 💬 46 • ⏱️ 14:36 • 15h ago
+👁️ 26K • 👍 1K • 💬 46 • ⏱️ 14:36 • 16h ago
 
 ---
 
@@ -301,7 +305,7 @@ Mike's Channel - https://www.youtube.com/@UCXVDBeCwro9FqNeBr41Q2BQ Need a resume
 
 📺 Joshua Fluke
 
-👁️ 11K • 👍 1K • 💬 254 • ⏱️ 9:31 • 15h ago
+👁️ 11K • 👍 1K • 💬 254 • ⏱️ 9:31 • 16h ago
 
 ---
 
@@ -351,7 +355,7 @@ LTX-2.3 installation tutorial and review. LTX 2.3 vs LTX 2 #ai #aivideo #aitools
 
 📺 AI Search
 
-👁️ 36K • 👍 2K • 💬 351 • ⏱️ 31:18 • 12h ago
+👁️ 36K • 👍 2K • 💬 351 • ⏱️ 31:18 • 13h ago
 
 ---
 
@@ -361,7 +365,7 @@ tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funn
 
 📺 Tyrone Magnus
 
-👁️ 47K • 👍 4K • 💬 365 • ⏱️ 11:15 • 15h ago
+👁️ 47K • 👍 4K • 💬 365 • ⏱️ 11:15 • 16h ago
 
 ---
 
@@ -435,7 +439,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 223 • 6h ago
+⬇️ 746 • ❤️ 223 • 7h ago
 
 ---
 
@@ -495,7 +499,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 48,417 • ❤️ 137 • 12h ago
+⬇️ 48,417 • ❤️ 137 • 13h ago
 
 ---
 
@@ -644,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.1k • 🔱 3.4k • 2m ago
+⭐ 26.1k • 🔱 3.4k • 1h ago
 
 ---
 
@@ -654,7 +658,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 25.3k • 🔱 3.2k • 9h ago
+⭐ 25.3k • 🔱 3.2k • 10h ago
 
 ---
 
@@ -664,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 18.8k • 🔱 802 • 17h ago
+⭐ 18.8k • 🔱 802 • 18h ago
 
 ---
 
@@ -674,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.7k • 🔱 1.3k • 13m ago
+⭐ 10.7k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -684,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.4k • 🔱 602 • 5h ago
+⭐ 8.4k • 🔱 602 • 6h ago
 
 ---
 
@@ -704,7 +708,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.0k • 🔱 891 • 7d ago
+⭐ 7.0k • 🔱 891 • 8d ago
 
 ---
 
@@ -714,7 +718,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 725 • 38m ago
+⭐ 6.2k • 🔱 725 • 1h ago
 
 ---
 
@@ -724,7 +728,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 434 • 1h ago
+⭐ 3.8k • 🔱 434 • 2h ago
 
 ---
 
@@ -734,7 +738,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 656 • 4h ago
+⭐ 3.3k • 🔱 656 • 5h ago
 
 ---
 

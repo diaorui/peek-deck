@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T15:13:03.727684+00:00'
+updated: '2026-03-11T16:11:39.551873+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 15:13 UTC  
+**Last Updated:** March 11, 2026 at 16:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,345.87
+### $70,359.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -0.6%  
-**30d:** +2.2%  
-**90d:** -22.1%  
-**1y:** -15.8%  
+**24h:** -0.7%  
+**7d:** -0.5%  
+**30d:** +2.4%  
+**90d:** -21.9%  
+**1y:** -15.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
 
-13h ago
+14h ago
 
 ---
 
@@ -95,15 +95,15 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 19h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 20h ago
 
 ---
 
-**[How Bitcoin is protecting people in Iran, video:](https://www.reddit.com/r/Bitcoin/comments/1rqqwno/how_bitcoin_is_protecting_people_in_iran_video/)**
+**[Six months traveling with crypto as my main spending method, here's what actually works and what doesn't](https://www.reddit.com/r/Bitcoin/comments/1rqxje8/six_months_traveling_with_crypto_as_my_main/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+I've been moving between countries for about six months now and somewhere around month two I started leaning heavily on crypto for day to day expenses. At this point it covers probably 80% of my spending. I wanted to write up an honest account of what the experience has actually been like because most of what I read before I started was either overly optimistic or completely dismissive. What works well: contactless payments have been flawless everywhere I've been, Southeast Asia, parts of Europe, a few stops in South America. If a terminal accepts tap to pay it works. Adding it to google pay meant I wasn't carrying a separate card, which when you're moving around a lot and trying to minimize what's in your pockets genuinely matters. The conversion from crypto to local currency happens invisibly, the merchant sees a normal transaction, I see a deduction from my balance. No drama. The privacy aspect has been more valuable than I expected while traveling. Having my spending not be directly traceable back to my full financial profile feels meaningful when you're in unfamiliar places and don't fully know what data exposure looks like locally. What doesn't work as well: ATMs are hit or miss. I'd say about 1 in 3 attempts at cash machines has failed for one reason or another, either the machine doesn't support the network or there's a technical hiccup. I keep a small traditional bank account as a backup specifically for cash situations. Some merchants who only take local cards or cash are obviously a dead end. And if your crypto balance drops because of a market move and you haven't loaded up recently you need to be paying attention. Overall it's genuinely viable as a primary spending method if you're organized and keep a backup. The technology is at a point where it's not a workaround anymore, it's just a card that works. Would be happy to answer questions if anyone's thinking about making the switch.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GWLgv2xwiv4) • 3h ago
+18m ago
 
 ---
 
@@ -111,15 +111,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Most traditional crypto cards either shut down or restricted regions in the last few years. The ones I've tried recently that integrate with Apple Pay or Google Pay make it pretty seamless to just tap and pay directly from crypto balances. Fees are usually reasonable too, depending on the card type.
 
-6h ago
+7h ago
 
 ---
 
-**[Why don't we take the rest of the year off?](https://www.reddit.com/r/Bitcoin/comments/1rqchs2/why_dont_we_take_the_rest_of_the_year_off/)**
+**[How Bitcoin is protecting people in Iran, video:](https://www.reddit.com/r/Bitcoin/comments/1rqqwno/how_bitcoin_is_protecting_people_in_iran_video/)**
 
-I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to the moon any time now and getting our hopes up only for it to yoyo and continue the slow downward trend. If we're getting a new upsurge it'll be towards the end of the year or the beginning of 2027 anyway. Lets just enjoy the stacking season while we got it.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GWLgv2xwiv4) • 4h ago
 
 ---
 
@@ -127,7 +127,23 @@ I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
+
+---
+
+**[Why don't we take the rest of the year off?](https://www.reddit.com/r/Bitcoin/comments/1rqchs2/why_dont_we_take_the_rest_of_the_year_off/)**
+
+I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to the moon any time now and getting our hopes up only for it to yoyo and continue the slow downward trend. If we're getting a new upsurge it'll be towards the end of the year or the beginning of 2027 anyway. Lets just enjoy the stacking season while we got it.
+
+17h ago
+
+---
+
+**[Running a node](https://www.reddit.com/r/Bitcoin/comments/1rqs6nc/running_a_node/)**
+
+Ive been trying to run a node on my ThinkPad with Debian installed on it for about a week. I keep getting all sorts of errors. I keep giving those errors to AI and it keeps giving me all sorts of solutions but then after some time another error pops up - this loop has been happening for a week and its so frustrating! Any advice on what to do to actually run your own node? Some of the errors that keep happening: Error: A fetal internal error occurred...Failed to connect best block (bad-txnmrklroot, hashMerkleRoot mismatch) Error: A fetal internal error occurred...Corrupt block found indicating potential hardware failure Error: A fetal internal error occurred...System error while flushing Fatal LevelDB error: Corruption: lock checksum mismatch...
+
+3h ago
 
 ---
 
@@ -137,29 +153,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[Running a node](https://www.reddit.com/r/Bitcoin/comments/1rqs6nc/running_a_node/)**
-
-Ive been trying to run a node on my ThinkPad with Debian installed on it for about a week. I keep getting all sorts of errors. I keep giving those errors to AI and it keeps giving me all sorts of solutions but then after some time another error pops up - this loop has been happening for a week and its so frustrating! Any advice on what to do to actually run your own node? Some of the errors that keep happening: Error: A fetal internal error occurred...Failed to connect best block (bad-txnmrklroot, hashMerkleRoot mismatch) Error: A fetal internal error occurred...Corrupt block found indicating potential hardware failure Error: A fetal internal error occurred...System error while flushing Fatal LevelDB error: Corruption: lock checksum mismatch...
-
-2h ago
-
----
-
-**[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC remains modestly lower at $69,500 following in line inflation data](https://www.coindesk.com/markets/2026/03/11/u-s-february-inflation-data-matches-forecasts-reinforcing-expectations-for-no-near-term-rate-cuts)**
+**[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
 
-The price of bitcoin was trading at $69,500 following the news, down 1.2% over the past 24 hours.
-
-CoinDesk • 2h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -167,45 +167,47 @@ CoinDesk • 2h ago
 
 Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
-**[Strive (ASST) buys 179 BTC, raises SATA dividend, and purchases $50 million of MSTR's Stretch](https://www.coindesk.com/markets/2026/03/11/strategy-s-strc-preferred-series-gets-usd50-million-investment-from-fellow-btc-treasury-company-strive)**
+**[Why Bitcoin Is on a Path to $1 Million Per Coin: Bitwise](https://finance.yahoo.com/news/why-bitcoin-path-1-million-212257811.html)**
 
-Strive also added to its bitcoin holdings and boosted the dividend on its own SATA preferred stock.
+Bitcoin can hit a price of $1 million per coin even with "reasonably conservative assumptions," Bitwise CIO Matt Hougan argued. Here's why.
 
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin prices slowly recover after a rocky start to 2026](https://finance.yahoo.com/video/bitcoin-prices-slowly-recover-rocky-183953107.html)**
-
-GSR managing director of asset management Andy Baehr joins Market Catalysts host Julie Hyman to discuss bitcoin's (BTC-USD) steady climb back up following a rough start to 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
-
-Yahoo Finance • 20h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Brace for U.S. CPI Report](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-brace-u-003414097.html)**
+**[Bitcoin will need 17% of ‘store of value’ market to hit $1M: Bitwise](https://www.tradingview.com/news/cointelegraph:11159b14e094b:0-bitcoin-will-need-17-of-store-of-value-market-to-hit-1m-bitwise/)**
 
-Bitcoin, Ethereum, and XRP are all trading in the green this week. On the surface, the crypto market looks calm. But under that calm, traders are waiting for one of the biggest macro events of the month: the U.S. CPI (inflation) report. Economists expect inflation to edge up to about ...
+Bitcoin needs to make up just one-sixth of the global “store of value” market, currently dominated by gold, to reach $1 million per coin, argues Bitwise chief investment officer Matt Hougan.In a blog post on Tuesday, Hougan said that most dismiss the lofty forecast for Bitcoin, as it would require…
 
-Yahoo Finance • 1d ago
-
----
-
-**[Don't Do This 1 Very Tempting Thing With Your Bitcoin, Ethereum, or XRP Right Now](https://www.fool.com/investing/2026/03/11/dont-do-this-1-very-tempting-thing-with-your-bitco/)**
-
-It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
-
-The Motley Fool • 4h ago
+TradingView • 9h ago
 
 ---
 
-**[Bitcoin Falls Below $70,000. Why Ethereum and XRP Prices Slipped Too.](https://www.barrons.com/articles/bitcoin-price-today-xrp-eth-cryptocurrencies-dca75923?gaa_at=eafs&gaa_n=AWEtsqd_BHMoBeN2HMbIZDaytk-tvnjPvoZSiENtRKoxfS5VPnzcJEqkGppS&gaa_ts=69b17f04&gaa_sig=MtkZR8tM3OqNjaveSws9WzNWFkVJIorJhlwE2y6Q8m66y2TgeV85SZMNMep8bzwVYxaObbFCxAv4Rl2102o6rw%3D%3D)**
+**[Top Bitcoin Mining Pool Operator Foundry Is Getting Into Zcash](https://finance.yahoo.com/news/top-bitcoin-mining-pool-operator-155112151.html)**
 
-Barron's • 7h ago
+Foundry Digital said it plans to offer a mining pool for Zcash next month, enabling people to earn the coin using shared resources.
+
+Yahoo Finance • 20m ago
+
+---
+
+**[The Core Issue: Outrunning Entropy, Why Bitcoin Can’t Stand Still](https://bitcoinmagazine.com/print/the-core-issue-outrunning-entropy-why-bitcoin-cant-stand-still)**
+
+From The Core Issue: A breakdown at the optimizations and fine-tuning done to speed up Initial Block Download for Bitcoin Core users.
+
+Bitcoin Magazine • 24m ago
+
+---
+
+**[Crypto Crash: 2 Top Coins I'd Consider Buying Before Prices Rebound](https://www.fool.com/investing/2026/03/11/crypto-crash-2-top-coins-id-consider-buying-before/)**
+
+This could be your chance to stock up on a couple of quality cryptocurrencies at a discount.
+
+The Motley Fool • 9h ago
 
 ---
 
@@ -215,15 +217,19 @@ Reuters • 2d ago
 
 ---
 
-**[Bitcoin Price Rebounds From Oil-Fueled Retreat, Nasdaq To Launch Tokenized Stocks](https://www.investors.com/news/bitcoin-price-oil-support-nasdaq-tokenized-stocks-equities-kraken-partnership/)**
+**[Why Nigel Farage Is Investing £215K in a Bitcoin Reserves Firm — And What It Means for UK Crypto](https://finance.yahoo.com/news/why-nigel-farage-investing-215k-112012889.html)**
 
-Investor's Business Daily • 1d ago
+Nigel Farage has invested £215,000 for a 6.3% stake in Stack BTC. The investment reinforces Reform's growing ties with the digital asset sector. Farage’s crypto ...
+
+Yahoo Finance • 4h ago
 
 ---
 
-**[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
+**[Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC](https://www.coindesk.com/business/2026/03/09/nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc)**
 
-Bloomberg • 18h ago
+Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -235,7 +241,7 @@ Bloomberg • 18h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 16 • 💬 0 • 20h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 16 • 💬 0 • 21h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -252,14 +258,6 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
 ⬆️ 2 • 💬 4 • 2d ago • [satsapi.dev](https://satsapi.dev/)
-
----
-
-**[Show HN: Opacore – free Bitcoin tax reports and open-source portfolio OS (MIT)](https://news.ycombinator.com/item?id=47247974)**
-
-Complete operating system for Bitcoiners
-
-⬆️ 2 • 💬 1 • 7d ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -297,13 +295,21 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 S3-native streaming platform. A Kafka alternative with infinite scalability, Kafka-compatible APIs, SQL processing and AI queries. Written in Rust. - gbram1/streamhouse
 
-⬆️ 1 • 💬 0 • 58m ago • [GitHub](https://github.com/gbram1/streamhouse)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/gbram1/streamhouse)
 
 ---
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
 ⬆️ 1 • 💬 0 • 1d ago
+
+---
+
+**[Google PM open-sources Always On Memory Agent, ditching vector databases](https://news.ycombinator.com/item?id=47290892)**
+
+. Enterprise AI teams are moving beyond single-turn assistants and into systems expected to remember preferences, preserve project context and operate across longer horizons.
+
+⬆️ 11 • 💬 5 • 3d ago • [Venturebeat](https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for)
 
 ---
 
@@ -317,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 193 • ⏱️ 9:26 • 15h ago
+👁️ 36K • 👍 2K • 💬 193 • ⏱️ 9:26 • 16h ago
 
 ---
 
@@ -337,7 +343,7 @@ A bank quietly failed, the Federal Reserve is trapped between inflation and debt
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 477 • 💬 102 • ⏱️ 21:13 • 2h ago
+👁️ 3K • 👍 477 • 💬 102 • ⏱️ 21:13 • 3h ago
 
 ---
 
@@ -347,7 +353,7 @@ Global tensions are rising, private credit is cracking, and the dollar system ju
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 166 • ⏱️ 10:41 • 18h ago
+👁️ 17K • 👍 1K • 💬 166 • ⏱️ 10:41 • 19h ago
 
 ---
 
@@ -357,7 +363,7 @@ In this video, we take a step back and look at the structure of a Bitcoin bear m
 
 📺 Benjamin Cowen
 
-👁️ 60K • 👍 4K • 💬 232 • ⏱️ 13:00 • 18h ago
+👁️ 60K • 👍 4K • 💬 232 • ⏱️ 13:00 • 19h ago
 
 ---
 
@@ -377,7 +383,7 @@ The crowd is completely lost in their emotions, but the charts are crystal clear
 
 📺 Gareth Soloway
 
-👁️ 55K • 👍 3K • 💬 469 • ⏱️ 10:35 • 22h ago
+👁️ 55K • 👍 3K • 💬 469 • ⏱️ 10:35 • 23h ago
 
 ---
 
@@ -385,7 +391,7 @@ The crowd is completely lost in their emotions, but the charts are crystal clear
 
 📺 Andrei Jikh
 
-👁️ 58K • 👍 2K • 💬 70 • ⏱️ 1:05 • 20h ago
+👁️ 58K • 👍 2K • 💬 70 • ⏱️ 1:05 • 21h ago
 
 ---
 
@@ -395,7 +401,7 @@ Jeff Park is the Partner & Chief Investment Officer at ProCap BTC. In this conve
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 755 • 💬 7 • ⏱️ 25:55 • 18h ago
+👁️ 16K • 👍 755 • 💬 7 • ⏱️ 25:55 • 19h ago
 
 ---
 
