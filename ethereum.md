@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T17:27:31.765792+00:00'
+updated: '2026-03-11T18:10:48.841750+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 17:27 UTC  
+**Last Updated:** March 11, 2026 at 18:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
 
-12h ago
+13h ago
 
 ---
 
@@ -200,7 +200,7 @@ Barron's • 21h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -214,7 +214,7 @@ Seeking Alpha • 2d ago
 
 Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Derbisendaa
 
-👁️ 2K • 👍 1K • 37m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -246,7 +246,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 2K • 👍 153 • 💬 43 • ⏱️ 56:53 • 6h ago
+👁️ 2K • 👍 153 • 💬 43 • ⏱️ 56:53 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 3K • 💬 88 • ⏱️ 12:32 • 6h ago
+👁️ 8K • 👍 3K • 💬 88 • ⏱️ 12:32 • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 702 • 👍 82 • 💬 41 • ⏱️ 5:43 • 1h ago
+👁️ 702 • 👍 82 • 💬 41 • ⏱️ 5:43 • 2h ago
 
 ---
 
@@ -286,7 +286,7 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 The Value Thinker
 
-👁️ 7K • 👍 433 • 💬 60 • ⏱️ 21:31 • 16h ago
+👁️ 7K • 👍 433 • 💬 60 • ⏱️ 21:31 • 17h ago
 
 ---
 
@@ -316,7 +316,7 @@ Research Bitcoin Hyper - https://99bitcoins.care/b_BTCHyper99BTC - Download the 
 
 📺 99Bitcoins
 
-👁️ 86 • 👍 4 • 💬 200 • ⏱️ 7:45 • 2h ago
+👁️ 86 • 👍 4 • 💬 200 • ⏱️ 7:45 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 171 • 👍 15 • 💬 3 • ⏱️ 5:20 • 7h ago
+👁️ 171 • 👍 15 • 💬 3 • ⏱️ 5:20 • 8h ago
 
 ---
 

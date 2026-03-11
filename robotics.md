@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T17:27:31.768992+00:00'
+updated: '2026-03-11T18:10:48.845044+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 17:27 UTC  
+**Last Updated:** March 11, 2026 at 18:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-37m ago
+1h ago
 
 ---
 
@@ -50,7 +50,7 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-3h ago
+4h ago
 
 ---
 
@@ -66,13 +66,13 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
 
-7h ago
+8h ago
 
 ---
 
 **[Python - (Turtle), Pen Plotting Machine](https://www.reddit.com/r/robotics/comments/1rquabt/python_turtle_pen_plotting_machine/)**
 
-🔗 [a.co](https://a.co/d/0jbGo04e) • 3h ago
+🔗 [a.co](https://a.co/d/0jbGo04e) • 4h ago
 
 ---
 
@@ -96,7 +96,7 @@ This video shows the AGV in action that follows a magnetic line, with markers al
 
 Erlebt live spannende Wettbewerbe, innovative Robotik, packende Matches und faszinierende Technologien aus der Welt des RoboCup. Heute starten die Teams in d...
 
-🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 11h ago
+🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Erlebt live spannende Wettbewerbe, innovative Robotik, packende Matches und fasz
 
 Hi all, I am getting into the hobby and I build this cute robot which I currently running from usb-c cable going directly to the ESP32. I want to add batteries for it but I am looking for the best (and safe way) to go. Few things I want: Chargeable via USB-C Chargeable while powered on (I believe this may be a bit sketchy)\ I use lipo 3s (because I already have it and I may want more Vs in the future projects) I hope this drawing makes sense to you, but I want to clarify if it is a good plan? (Just to clarify 4 thinner wires are for balancing and thicker ones for the main load. I would use lipo 3s with XT30 connection). Thanks https://preview.redd.it/0no1gx2a5dog1.png?width=1504&format=png&auto=webp&s=a096d1ae4ace9ad7303706de897e116cf9b7b1de
 
-10h ago
+11h ago
 
 ---
 
@@ -128,7 +128,7 @@ Bloomberg • 1d ago
 
 **[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqesfDd1PnBg4MnnFc5xxfaeAPCiM4T95bBVSyaTthWC_zK8OQZ8saWx&gaa_ts=69b1a96e&gaa_sig=1cu7lyohc73Typq2EAGOVcarcJ-h7D7D1AVXZ5KDFh966SH5A02OjRad6TxHfRGLcgeTXv_pW0lrfVM212FRGw%3D%3D)**
 
-WSJ • 2h ago
+WSJ • 3h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Business Journals • 1h ago
 
 Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
 
-About Amazon • 16h ago
+About Amazon • 17h ago
 
 ---
 
@@ -172,7 +172,7 @@ ABB • 2d ago
 
 The AW 2026 expo in Seoul highlights a pivotal shift as humanoid robots move from research labs to industrial applications.
 
-EE Times • 17h ago
+EE Times • 18h ago
 
 ---
 
@@ -180,7 +180,7 @@ EE Times • 17h ago
 
 Teradyne Robotics has “irrefutable evidence” of Chinese robot company  Elite  Robots for copyright infringement of Universal Robots’ software.
 
-The Robot Report • 21h ago
+The Robot Report • 22h ago
 
 ---
 

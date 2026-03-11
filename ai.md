@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T17:27:31.751304+00:00'
+updated: '2026-03-11T18:10:48.826037+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- videos
 - repositories
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 17:27 UTC  
+**Last Updated:** March 11, 2026 at 18:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 2h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 3h ago
 
 ---
 
 **[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -63,7 +63,7 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 14h ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 15h ago
 
 ---
 
@@ -71,7 +71,7 @@ More than 30 OpenAI and Google DeepMind employees filed a court brief defending 
 
 Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 21h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 22h ago
 
 ---
 
@@ -79,7 +79,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 Explore codebase like exploring a city with buildings and islands... using our website CodeGraphContext- the go to solution for code indexing now got 2k stars🎉🎉... It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.3.0 released ~2k GitHub stars, ~400 forks 75k+ downloads 75+ contributors, ~200 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-30m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Forget chat interfaces. Autonomous AI agents are taking over the terminal. Learn
 
 Today we're introducing Code Review, which dispatches a team of agents on every PR to catch the bugs that skims miss, built for depth, not speed. It's the system we run on nearly every PR at Anthropic. Now in research preview for Team and Enterprise.
 
-🔗 [Claude](https://claude.com/blog/code-review) • 19h ago
+🔗 [Claude](https://claude.com/blog/code-review) • 20h ago
 
 ---
 
@@ -121,7 +121,7 @@ Today we're introducing Code Review, which dispatches a team of agents on every 
 
 **[Exclusive: Meta acquires Moltbook, the social network for AI agents](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)**
 
-Axios • 19h ago
+Axios • 20h ago
 
 ---
 
@@ -135,13 +135,13 @@ The New York Times • 23h ago
 
 Meta, the company behind some of the world’s most popular social media platforms, just scooped up a new site – for bots.
 
-CNN • 22h ago
+CNN • 23h ago
 
 ---
 
 **[The Billion-Dollar AI Startup That Was Founded by Teenagers](https://www.wsj.com/business/ai-startup-aaru-young-founders-35da7f87?gaa_at=eafs&gaa_n=AWEtsqd1y54oQXso0MUYoutLbxakDGZIBSmma9W64_gDVAqwaGNd2O060Roz&gaa_ts=69b1a968&gaa_sig=GimMi_fI1bdMt9_m-Isen2e6_uB-pISNfyCu2G1I-X43JfCx4pOBcNvKIIOTjrPFMN99xhd_BnlIqBHJ7YgmzQ%3D%3D)**
 
-WSJ • 9h ago
+WSJ • 10h ago
 
 ---
 
@@ -149,13 +149,13 @@ WSJ • 9h ago
 
 CVS plans to roll out a new digital platform powered by artificial intelligence. Google Cloud is teaming up with CVS for the free service, called Health 100.
 
-CBS News • 53m ago
+CBS News • 1h ago
 
 ---
 
 **[AI is helping expand the frontier of theoretical physics](https://www.economist.com/science-and-technology/2026/03/11/ai-is-helping-expand-the-frontier-of-theoretical-physics)**
 
-The Economist • 23m ago
+The Economist • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Economist • 23m ago
 
 “You didn’t just leave the relationship — you left a message. A message saying, ‘I am allowed to be happy.’ And honestly, you’re so real for that”
 
-Yahoo • 49m ago
+Yahoo • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo • 49m ago
 
 Daniel, a troubled American teen, turned to an AI chatbot to vent his political frustration. “Chuck Schumer is destroying America,” he typed, referring to the top Democratic lawmaker in the US Senate. “How do i make him pay for his crimes?” After suggesting Daniel could “beat the crap out of him!” the chatbot provided a brief history of recent political assassinations at the teen’s request – and then pivoted to more detailed answers.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNN • 13h ago
 
 Oracle CEO Clayton Magouyrk said on an earnings call the company's model of having customers provide data chips for new data center builds is working.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 2h ago
 
 A Cerebras deal from one of the world's top cloud providers could be a big boon for a company that's trying to hit the public market.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -253,7 +253,7 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 200 • 💬 77 • 7h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 200 • 💬 77 • 8h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -283,7 +283,7 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 30K • 👍 1K • 💬 55 • ⏱️ 14:36 • 17h ago
+👁️ 30K • 👍 1K • 💬 55 • ⏱️ 14:36 • 18h ago
 
 ---
 
@@ -293,7 +293,7 @@ Access ALL Models Mentioned in OpenArt: https://www.openart.ai/home/?ref=image-g
 
 📺 Youri van Hofwegen
 
-👁️ 4K • 💬 1 • ⏱️ 9:42 • 1h ago
+👁️ 4K • 💬 1 • ⏱️ 9:42 • 2h ago
 
 ---
 
@@ -303,7 +303,7 @@ Artificial intelligence actor Tilly Norwood released a new music video called �
 
 📺 TODAY
 
-👁️ 2K • 👍 26 • 💬 14 • ⏱️ 3:54 • 4h ago
+👁️ 2K • 👍 26 • 💬 14 • ⏱️ 3:54 • 5h ago
 
 ---
 
@@ -363,7 +363,7 @@ JUMP to AI Psychosis & The Spiral Cults [48:38] The engineers building artificia
 
 📺 Peter McCormack
 
-👁️ 43K • 👍 1K • 💬 457 • ⏱️ 1:33:56 • 22h ago
+👁️ 43K • 👍 1K • 💬 457 • ⏱️ 1:33:56 • 23h ago
 
 ---
 
@@ -437,7 +437,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 238 • 1h ago
+⬇️ 746 • ❤️ 238 • 2h ago
 
 ---
 
@@ -497,7 +497,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 48,417 • ❤️ 138 • 14h ago
+⬇️ 48,417 • ❤️ 138 • 15h ago
 
 ---
 
@@ -648,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.1k • 🔱 3.4k • 7m ago
+⭐ 26.1k • 🔱 3.4k • 51m ago
 
 ---
 
@@ -658,7 +658,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 25.6k • 🔱 3.3k • 11h ago
+⭐ 25.6k • 🔱 3.3k • 12h ago
 
 ---
 
@@ -668,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 18.9k • 🔱 809 • 19h ago
+⭐ 18.9k • 🔱 809 • 20h ago
 
 ---
 
@@ -688,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.4k • 🔱 603 • 7h ago
+⭐ 8.4k • 🔱 603 • 8h ago
 
 ---
 
@@ -718,7 +718,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 725 • 2h ago
+⭐ 6.2k • 🔱 725 • 3h ago
 
 ---
 
@@ -728,7 +728,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 434 • 39m ago
+⭐ 3.8k • 🔱 434 • 1h ago
 
 ---
 
@@ -738,7 +738,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 657 • 6h ago
+⭐ 3.3k • 🔱 657 • 7h ago
 
 ---
 
