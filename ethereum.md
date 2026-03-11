@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T23:27:20.894038+00:00'
+updated: '2026-03-11T23:51:36.655835+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 23:27 UTC  
+**Last Updated:** March 11, 2026 at 23:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** -0.0%  
-**30d:** +2.6%  
-**90d:** -32.8%  
-**1y:** +8.4%  
+**24h:** +0.7%  
+**7d:** -1.0%  
+**30d:** +1.6%  
+**90d:** -33.5%  
+**1y:** +7.4%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
 
-18h ago
+19h ago
 
 ---
 
@@ -152,6 +152,14 @@ MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, a
 
 ## Google News: "ethereum"
 
+**[Ethereum is seeing record activity. So why is its price struggling?](https://sherwood.news/crypto/ethereum-is-seeing-record-activity-so-why-is-its-price-struggling/)**
+
+Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
+
+Sherwood News • 7h ago
+
+---
+
 **[Ethereum's on fire with record activity, but ether price and blockchain fees lag](https://www.coindesk.com/markets/2026/03/11/ethereum-network-activity-hits-record-highs-as-ether-price-and-fee-generation-lag)**
 
 Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
@@ -160,11 +168,11 @@ CoinDesk • 19h ago
 
 ---
 
-**[Ethereum is seeing record activity. So why is its price struggling?](https://sherwood.news/crypto/ethereum-is-seeing-record-activity-so-why-is-its-price-struggling/)**
+**[Investor Dumps $19 Million Ethereum ETF Stake, but Here's Why It Still Seems Very Bullish on Crypto](https://finance.yahoo.com/news/investor-dumps-19-million-ethereum-222426563.html)**
 
-Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
+iShares Ethereum Trust ETF provides regulated access to ether, tracking the digital asset’s performance through a single-asset structure.
 
-Sherwood News • 6h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -172,15 +180,7 @@ Sherwood News • 6h ago
 
 XRP (CRYPTO: XRP) and Ethereum (CRYPTO: ETH) have both had a rough start to 2026. XRP surged 25% in the first week of January to reach $2.40, and for a moment looked like it had finally escaped the ceiling that’s trapped every rally since 2018. Then macro conditions turned negative as the U.S.-Iran war rattled ... XRP or Ethereum: Which Gives You More Upside With $1,000 at Current Prices?
 
-Yahoo Finance • 1h ago
-
----
-
-**[Investor Dumps $19 Million Ethereum ETF Stake, but Here's Why It Still Seems Very Bullish on Crypto](https://www.fool.com/coverage/filings/2026/03/11/investor-dumps-usd19-million-ethereum-etf-stake-but-here-s-why-it-still-seems-very-bullish-on-crypto/)**
-
-iShares Ethereum Trust ETF provides regulated access to ether, tracking the digital asset’s performance through a single-asset structure.
-
-The Motley Fool • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -190,7 +190,7 @@ Binance • 4d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqe5028zdVmr6o45pN36KhVwmD0mi0SHphJkHYlgZAiqm8hg5yW0rkPD&gaa_ts=69b1eff4&gaa_sig=oRyPmWRT5of2vknlfWzjiBkkzpfjbXTk-nWHqR9k0POPT_gCV0cQiITuZS7OSnZNmONtNkaWL8sFTzfzG6qcaQ%3D%3D)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqeoblhkJO2iScrUvzeft12li-DdSL466Xt9xXMLrMFJasrfbVHdb9iL&gaa_ts=69b20373&gaa_sig=RyBtAFz83FrIeSeWoFxHn2FTusKM5a5G2VDKkgub6KX07vWTEPqW4-QAx0V8svkyT6beuz9oQ6t1M-KPDM2uEw%3D%3D)**
 
 Barron's • 1d ago
 
@@ -206,15 +206,7 @@ Seeking Alpha • 2d ago
 
 Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
 
-TradingView • 11h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
-
-Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
-
-PR Newswire • 2d ago
+TradingView • 12h ago
 
 ---
 
@@ -223,6 +215,14 @@ PR Newswire • 2d ago
 Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
+
+Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
+
+PR Newswire • 2d ago
 
 ---
 
@@ -246,7 +246,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 4K • 👍 212 • 💬 30 • ⏱️ 56:53 • 12h ago
+👁️ 4K • 👍 212 • 💬 30 • ⏱️ 56:53 • 13h ago
 
 ---
 
@@ -256,7 +256,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 290 • 👍 20 • 💬 21 • ⏱️ 6:18 • 3h ago
+👁️ 290 • 👍 20 • 💬 21 • ⏱️ 6:18 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 125 • 💬 3 • ⏱️ 5:43 • 7h ago
+👁️ 2K • 👍 125 • 💬 3 • ⏱️ 5:43 • 8h ago
 
 ---
 
@@ -286,7 +286,7 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 The Value Thinker
 
-👁️ 8K • 👍 465 • 💬 71 • ⏱️ 21:31 • 22h ago
+👁️ 8K • 👍 465 • 💬 71 • ⏱️ 21:31 • 23h ago
 
 ---
 
@@ -316,7 +316,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 5h ago
+👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 6h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 214 • 👍 15 • 💬 3 • ⏱️ 5:20 • 13h ago
+👁️ 214 • 👍 15 • 💬 3 • ⏱️ 5:20 • 14h ago
 
 ---
 

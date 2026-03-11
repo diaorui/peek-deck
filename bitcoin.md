@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T23:27:20.887838+00:00'
+updated: '2026-03-11T23:51:36.649955+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 23:27 UTC  
+**Last Updated:** March 11, 2026 at 23:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -0.4%  
-**30d:** +2.5%  
-**90d:** -21.8%  
-**1y:** -15.6%  
+**24h:** +0.3%  
+**7d:** -0.9%  
+**30d:** +2.0%  
+**90d:** -22.2%  
+**1y:** -16.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Thus Spoke Satoshi](https://www.reddit.com/r/Bitcoin/comments/1rr0g4w/thus_spoke_satoshi/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,13 +87,21 @@ Rank #1
 
 Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5 years ago, leaving us with a huge house in city centre of a small village. For pas 3,5 years we have been renting this place, that eventually ended up by selling this house. I Just received a significant amount of money. I am in BTC for more that 4 years, but it was just a hundred dollar now, hundred dollar there… I now have a chance to single buy a lot more. I don’t have any questinons, I just have the urge to tell it to someone who does understand BTC. My Family knows I have some, but the dont care what it is and dont want to educate themselves about it. Just wish me luck, that this was not the end and that We are going forward end in the long run to the MOON!
 
-6h ago
+7h ago
 
 ---
 
 **[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
 
 1d ago
+
+---
+
+**[Finding Satoshi | Official Trailer](https://www.reddit.com/r/Bitcoin/comments/1rr7m4i/finding_satoshi_official_trailer/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=gVxAwomug08) • 2h ago
 
 ---
 
@@ -105,35 +113,11 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 ---
 
-**[Cex or dex](https://www.reddit.com/r/Bitcoin/comments/1rr7mrq/cex_or_dex/)**
-
-Hi, I have some money and I want to buy some btc. I don't like binance so I was thinking to go at a broker (or whaever they're called) and have him send my money to a bitcoin wallet like bluewallet or similar. Do you guys think dex is a good option? I will be buying and forgetting so not much swapping going on.
-
-1h ago
-
----
-
-**[Finding Satoshi | Official Trailer](https://www.reddit.com/r/Bitcoin/comments/1rr7m4i/finding_satoshi_official_trailer/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=gVxAwomug08) • 1h ago
-
----
-
 **[How to help teen set up business accepting bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rqy9fq/how_to_help_teen_set_up_business_accepting_bitcoin/)**
 
 I have a teen who is starting a business selling a product she is making. She has already been saving in bitcoin and she wants to accept bitcoin for payments along with other options. But, I’m really hesitant for her to advertise this as the wrench attack is my biggest concern with bitcoin. She wants to encourage other teens to get into bitcoin but so far I have not let her. Just looking for ideas or thoughts.
 
 7h ago
-
----
-
-**[Bitcoin traders be like:](https://www.reddit.com/r/Bitcoin/comments/1rr474x/bitcoin_traders_be_like/)**
-
-Green candles: “I am a macro analyst.” Red candles: “This is manipulation.” Sideways market: “This is boring.” Reality: Most accounts are destroyed by overtrading and oversized positions — not by market direction. Anyone else learn this the hard way?
-
-3h ago
 
 ---
 
@@ -145,11 +129,27 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 ---
 
+**[Bitcoin traders be like:](https://www.reddit.com/r/Bitcoin/comments/1rr474x/bitcoin_traders_be_like/)**
+
+Green candles: “I am a macro analyst.” Red candles: “This is manipulation.” Sideways market: “This is boring.” Reality: Most accounts are destroyed by overtrading and oversized positions — not by market direction. Anyone else learn this the hard way?
+
+4h ago
+
+---
+
+**[Cex or dex](https://www.reddit.com/r/Bitcoin/comments/1rr7mrq/cex_or_dex/)**
+
+Hi, I have some money and I want to buy some btc. I don't like binance so I was thinking to go at a broker (or whaever they're called) and have him send my money to a bitcoin wallet like bluewallet or similar. Do you guys think dex is a good option? I will be buying and forgetting so not much swapping going on.
+
+2h ago
+
+---
+
 **[Best ways to spend BTC without selling it](https://www.reddit.com/r/Bitcoin/comments/1rqo3bp/best_ways_to_spend_btc_without_selling_it/)**
 
 Most traditional crypto cards either shut down or restricted regions in the last few years. The ones I've tried recently that integrate with Apple Pay or Google Pay make it pretty seamless to just tap and pay directly from crypto balances. Fees are usually reasonable too, depending on the card type.
 
-14h ago
+15h ago
 
 ---
 
@@ -165,19 +165,43 @@ CoinDesk • 6h ago
 
 ---
 
-**[Options traders bet on bitcoin reclaiming $80,000 as inflation data steadies crypto markets steady despite Iran conflict](https://www.theblock.co/post/393238/options-traders-bet-on-bitcoin-reclaiming-80000-as-inflation-data-steadies-crypto-markets-steady-despite-iran-conflict)**
+**[Bitcoin To $1.3 Million? Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet'](https://finance.yahoo.com/news/bitcoin-1-3-million-coinbase-173108332.html)**
 
-Bitcoin steadied as options traders increased bets on a move back to $80,000, with markets balancing a cooling February inflation print.
+Coinbase CEO Brian Armstrong says AI agents will increasingly transact using crypto wallets, while Bitwise Chief Investment Officer Matt Hougan argues institutional adoption could push Bitcoin toward $1.3 million over time. ‘Own A Crypto Wallet' Armstrong said Monday autonomous AI...
 
-The Block • 7h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Cosmos Health (COSM) Buys $600K in Bitcoin, Expands Digital Asset Treasury](https://bitcoinmagazine.com/news/cosmos-health-cosm-buys-600k-in-bitcoin)**
+**[Bitwise CIO reiterates bitcoin price could reach $1 million as he compares it to gold](https://www.theblock.co/post/393109/bitwise-cio-bitcoin-price-1-million-gold)**
 
-Cosmos Health Inc. announced it has purchased $600,000 in Bitcoin as part of its ongoing digital asset treasury strategy.
+Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
 
-Bitcoin Magazine • 3h ago
+The Block • 1d ago
+
+---
+
+**[Bitcoin Down 44% From Its Peak, But Bitwise Still Sees A Path To $1 Million](https://www.tradingview.com/news/newsbtc:283da87a4094b:0-bitcoin-down-44-from-its-peak-but-bitwise-still-sees-a-path-to-1-million/)**
+
+Central banks aren’t buying it. Billionaire investor Ray Dalio doesn’t trust it as a safe haven. And Bitcoin is trading 44% below its October peak while gold sits near all-time highs.That’s the backdrop against which Bitwise Asset Management’s chief investment officer is making the case that Bitcoi…
+
+TradingView • 9h ago
+
+---
+
+**[Iran warns oil could hit $200 per barrel. Here’s what that could mean for Bitcoin’s price](https://www.dlnews.com/articles/markets/could-bitcoin-price-spike-or-slump-on-oil-price-volatility/)**
+
+Iran’s military spokesman has warned oil prices could double due to the war. Bitcoin and oil have experienced increased volatility since the conflict began.  Experts said the leading crypto could drop in price if oil prices inflate further.
+
+dlnews.com • 2h ago
+
+---
+
+**[Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real](https://bitcoinmagazine.com/politics/coinbase-cpo-rejects-claims-of-opposing-bitcoin-tax-relief-as-jack-dorsey-demands-clarity-from-brian-armstrong)**
+
+Jack Dorsey isn't letting this slide: He's publicly asking Coinbase's Brian Armstrong to back Bitcoin payments getting the same tax break as stablecoins. Real Lightning data shows billions in actual use.
+
+Bitcoin Magazine • 8m ago
 
 ---
 
@@ -185,53 +209,29 @@ Bitcoin Magazine • 3h ago
 
 Bitcoin’s recent volatility amid the escalating U.S.-Israel-Iran conflict has left investors searching for direction. But billionaire analyst and BitMEX co-founder Arthur Hayes believes the real opportunity to buy Bitcoin (BTC) is not here yet. A long-time Bitcoin bull, Hayes recently shared ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin price analysis: cautious optimism as BTC holds near $70,000 amid Iran war](https://www.coindesk.com/markets/2026/03/11/bitcoin-holds-usd70-000-beginning-to-show-relative-strength-versus-stocks-software-sector-and-gold)**
+**[Bitcoin has mined 20 million coins: why the last of the remaining 1 million won’t arrive until 2140](https://fortune.com/2026/03/10/bitcoin-has-mined-20-million-coins-why-the-last-of-the-remaining-1-million-wont-arrive-until-2140/)**
 
-Bitcoin is up about 7% from the Sunday lows, even as equities and gold tread water. Analysts point to seller exhaustion, shifting gold correlation and improving ETF flows.
-
-CoinDesk • 2h ago
+Fortune • 1d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773261900)**
+**[Bitcoin's mined supply hits 20 million milestone, leaving final 1 million BTC to be issued over next 114 years](https://www.theblock.co/post/392660/bitcoin-mined-supply-hits-20-million-btc)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 2h ago
-
----
-
-**[Crypto Crash: 2 Top Coins I'd Consider Buying Before Prices Rebound](https://www.fool.com/investing/2026/03/11/crypto-crash-2-top-coins-id-consider-buying-before/)**
-
-This could be your chance to stock up on a couple of quality cryptocurrencies at a discount.
-
-The Motley Fool • 17h ago
-
----
-
-**['The second century begins': Michael Saylor's Strategy buys another 17,994 bitcoin for $1.3 billion as holdings reach 738,731 BTC](https://www.theblock.co/post/392822/the-second-century-begins-michael-saylors-strategy-buys-more-bitcoin)**
-
-Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $50 billion.
+The final 1 million BTC will take over a century to mine, with the last fractions, measured in satoshis, expected to be issued around 2140.
 
 The Block • 2d ago
 
 ---
 
-**[Meet 'Stretch'—Michael Saylor's New Tool for Using Bitcoin to Pay a Big Dividend. Here's What to Know.](https://www.investopedia.com/meet-stretch-michael-saylor-s-new-tool-for-using-bitcoin-to-pay-a-big-dividend-here-s-what-to-know-11921210)**
+**[3D printer that can mine Bitcoin uses excess heat for temperature control — throttled ASICs use printing bed as a heatsink](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)**
 
-Strategy's preferred issues—hybrid securities that have both stock- and bond-like features—may appeal to both Wall Street and Main Street investors wary of whipsawing stock markets.
+Another product idea that harvests Bitcoin miner waste heat.
 
-Investopedia • 1d ago
-
----
-
-**[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
-
-Investor's Business Daily • 11h ago
+Tom's Hardware • 2d ago
 
 ---
 
@@ -333,7 +333,7 @@ A bank quietly failed, the Federal Reserve is trapped between inflation and debt
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 976 • 💬 73 • ⏱️ 21:13 • 10h ago
+👁️ 12K • 👍 976 • 💬 73 • ⏱️ 21:13 • 11h ago
 
 ---
 
@@ -343,7 +343,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 5h ago
+👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 6h ago
 
 ---
 
@@ -353,7 +353,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 947 • 💬 187 • ⏱️ 44:39 • 8h ago
+👁️ 15K • 👍 947 • 💬 187 • ⏱️ 44:39 • 9h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin #Crypto #Finance Bitcoin is sitting at a critical moment as macro pressu
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 504 • 💬 167 • ⏱️ 35:03 • 9h ago
+👁️ 9K • 👍 504 • 💬 167 • ⏱️ 35:03 • 10h ago
 
 ---
 
@@ -401,7 +401,7 @@ Raoul Pal just explained WHY the crypto market cap will go from $3 trillion to $
 
 📺 Money Talks
 
-👁️ 549 • 👍 37 • 💬 215 • ⏱️ 17:20 • 4h ago
+👁️ 549 • 👍 37 • 💬 215 • ⏱️ 17:20 • 5h ago
 
 ---
 

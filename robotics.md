@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T23:27:20.897288+00:00'
+updated: '2026-03-11T23:51:36.659028+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 23:27 UTC  
+**Last Updated:** March 11, 2026 at 23:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-6h ago
+7h ago
 
 ---
 
@@ -58,7 +58,13 @@ The MSG gripper uses FOC stepper motors without gearboxes, enabling precise cont
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-9h ago
+10h ago
+
+---
+
+**[Open Sourced Nvidia’s fleet command](https://www.reddit.com/r/robotics/comments/1rragf7/open_sourced_nvidias_fleet_command/)**
+
+15m ago
 
 ---
 
@@ -74,7 +80,7 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 A dolphin-shaped robot uses a sea-urchin-inspired filter to skim oil from water, offering a safer way to respond to spills.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/inside-the-dolphin-inspired-robot-designed-to-clean-oil-spills) • 1h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/inside-the-dolphin-inspired-robot-designed-to-clean-oil-spills) • 2h ago
 
 ---
 
@@ -100,14 +106,6 @@ Did you know that most RealSense stereo cameras include built-in IMUs (Inertial 
 
 ---
 
-**[Has live sycing and copying files via terminal seemed tedious?](https://www.reddit.com/r/robotics/comments/1rr1dmj/has_live_sycing_and_copying_files_via_terminal/)**
-
-As a robotics software developer, I have had several instances where I'm working with numerous remote systems, be it ssh with robots or working with cloud instances. What became a rather tedious work was copying files into your local system from remote hosts or syncing directories with or across remote systems (despite there being fzf history and ssh config to structure your terminal commands ). I wanted to know if this is the case for most people or if there is a easier method for it that I am missing 🤔.
-
-5h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -128,19 +126,19 @@ The Verge • 1d ago
 
 ---
 
-**[Understanding AI with Mark Daley: The rapid advancements in robotics](https://ca.news.yahoo.com/understanding-ai-mark-daley-rapid-191251302.html)**
-
-London Morning checks in once a month with Mark Daley, Chief AI Officer at Western University, to unpack the latest in the world of artificial intelligence. This month, Daley discussed the impact AI i...
-
-Yahoo News Canada • 4h ago
-
----
-
 **[Can world models unlock general purpose robotics?](https://www.bvp.com/atlas/can-world-models-unlock-general-purpose-robotics)**
 
 How world models are replacing hand-built simulators—and why they may unlock the ChatGPT moment for robotics.
 
 Bessemer Venture Partners • 20h ago
+
+---
+
+**[Serve Robotics Announces Fourth Quarter and Full Year 2025 Results](https://finance.yahoo.com/news/serve-robotics-announces-fourth-quarter-110000555.html)**
+
+Exceeded Q4 and full year 2025 expectations with fourth quarter revenue up roughly 400% year over year to $0.9 million, and full year revenue of $2.7 million, above prior guidance of $2.5 million.Scaled the fleet to 2,000 deployed robots by year end, expanding Serve’s operating footprint to 20 cities across 6 major metropolitan areasExpanded and diversified the platform through new market launches, the addition of DoorDash alongside Uber Eats, growth to 4,500+ merchant partners, and four strateg
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -158,25 +156,11 @@ Bloomberg • 1d ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeqK61uf8FeZAuqFC5tIzhUdFjt2BG5pB2JHotMo8JIaDP8Micip0Ko&gaa_ts=69b1eff6&gaa_sig=pvBhWhNNUUjEvDDge8qRGlVdIulG1DJfNjS3Bq16COJXUVG7eUr9NHOnJmsun4sYTX6HidmJCszqsgGz6W0vXA%3D%3D)**
-
-WSJ • 8h ago
-
----
-
-**[Rhoda AI Exits Stealth with $450 Million Series A to Bring Robots Out of the Lab and Into the Real World](https://www.businesswire.com/news/home/20260310715139/en/Rhoda-AI-Exits-Stealth-with-%24450-Million-Series-A-to-Bring-Robots-Out-of-the-Lab-and-Into-the-Real-World)**
-
-Rhoda AI today announced its public launch after 18 months in stealth, unveiling FutureVision, a new approach to robotic intelligence based on video-predicti...
-
-Business Wire • 1d ago
-
----
-
 **[Amazon is investing AU$750 million in a robotics fulfillment center in Australia](https://www.aboutamazon.com/news/company-news/australia-robotics-fulfillment-center)**
 
 Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
 
-About Amazon • 22h ago
+About Amazon • 23h ago
 
 ---
 
@@ -185,6 +169,20 @@ About Amazon • 22h ago
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
 NPR • 3d ago
+
+---
+
+**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
+
+ABB • 2d ago
+
+---
+
+**[ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale](https://blogs.nvidia.com/blog/abb-robotics-omniverse/)**
+
+ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor.
+
+NVIDIA Blog • 2d ago
 
 ---
 
@@ -228,7 +226,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 30K • 👍 876 • 💬 64 • ⏱️ 14:35 • 6d ago
+👁️ 30K • 👍 876 • 💬 64 • ⏱️ 14:35 • 7d ago
 
 ---
 

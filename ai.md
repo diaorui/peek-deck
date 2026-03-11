@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T23:27:20.879381+00:00'
+updated: '2026-03-11T23:51:36.641489+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 23:27 UTC  
+**Last Updated:** March 11, 2026 at 23:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 8h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 9h ago
 
 ---
 
 **[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -75,6 +75,14 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 ---
 
+**[I created a quiz that gauges your dependency on AI across 5 categories; work, thinking, emotional reliance, intimacy, and self-awareness.](https://www.reddit.com/r/artificial/comments/1rr9cx9/i_created_a_quiz_that_gauges_your_dependency_on/)**
+
+Let me know what you think, and if there's any feedback anyone has.
+
+🔗 [opnForum](https://opnforum.com/ai-dependency-quiz/) • 57m ago
+
+---
+
 **[OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before](https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/)**
 
 More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
@@ -99,25 +107,25 @@ Explore codebase like exploring a city with buildings and islands... using our w
 
 ---
 
-**[Claude](https://www.reddit.com/r/artificial/comments/1rr80f0/claude/)**
+**[Are we doing e-commerce completely wrong?](https://www.reddit.com/r/artificial/comments/1rraeg3/are_we_doing_ecommerce_completely_wrong/)**
 
-Bro, I was using Claude and asked it a law question. Turns out it gave me the wrong answer. What a 41. So I told it and got a much better answer the next time. 41 resolved. Bro out.
+Launching an online store in 2026 still feels ridiculous. You start with a simple idea and suddenly you need: 12 plugins 4 dashboards random apps breaking checkout fees stacked on fees Modern commerce platforms sell “flexibility”, but honestly it often just turns into plugin chaos. So I made something interesting called Your Next Store. Instead of the usual “assemble your stack” approach, it’s an AI-first commerce platform where you describe your store in plain English and it generates a production-ready Next.js storefront with products, cart, and checkout wired up. But the real difference is the philosophy. We call it “Omakase Commerce”... basically the opposite of plugin marketplaces. One payment provider, one clear model, fewer moving parts. Every store is also Stripe-native and fully owned code, so developers can still change anything if needed. It’s open source. It made me wonder: Did plugin marketplaces actually make e-commerce worse? Or am I the only one tired of debugging a checkout because some random plugin updated overnight? 😅
 
-1h ago
-
----
-
-**[Watershed Moment for AI–Human Collaboration in Math](https://www.reddit.com/r/artificial/comments/1rqquev/watershed_moment_for_aihuman_collaboration_in_math/)**
-
-"When Ukrainian mathematician Maryna Viazovska received a Fields Medal—widely regarded as the Nobel Prize for mathematics—in July 2022, it was big news. Not only was she the second woman to accept the honor in the award’s 86-year history, but she collected the medal just months after her country had been invaded by Russia. Nearly four years later, Viazovska is making waves again. Today, in a collaboration between humans and AI, Viazovska’s proofs have been formally verified, signaling rapid progress in AI’s abilities to assist with mathematical research. ... The 8-dimensional sphere-packing proof formalization alone, announced on February 23, represents a watershed moment for autoformalization and AI–human collaboration. But today, Math, Inc. revealed an even more impressive accomplishment: Gauss has autoformalized Viazovska’s 24-dimensional sphere-packing proof—all 200,000+ lines of code of it—in just two weeks. There are commonalities between the 8- and 24-dimensional cases in terms of the foundational theory and overall architecture of the proof, meaning some of the code from the 8-dimensional case could be refactored and reused. However, Gauss had no preexisting blueprint to work from this time. “And it was actually significantly more involved than the 8-dimensional case, because there was a lot of missing background material that had to be brought on line surrounding many of the properties of the Leech lattice, in particular its uniqueness,” explains Han. Though the 24-dimensional case was an automated effort, both Han and Hariharan acknowledge the many contributions from humans that laid the foundations for this achievement, regarding it as a collaborative endeavor overall between humans and AI."
-
-🔗 [ieeespectrum](https://spectrum.ieee.org/amp/ai-proof-verification-2675516673) • 12h ago
+18m ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show](https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/)**
+
+The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.
+
+WIRED • 5h ago
+
+---
 
 **[‘Happy (and safe) shooting!’ AI chatbots helped teen users plan violence in hundreds of tests](https://www.cnn.com/2026/03/11/americas/ai-chatbots-help-teen-test-users-plan-violence-tests-intl-invs)**
 
@@ -131,69 +139,57 @@ CNN • 19h ago
 
 Users posing as would-be school shooters find AI tools offer detailed advice on how to perpetrate violence
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
-**[Most AI Chatbots Will Help a Teen Plan a Mass Shooting, Study Finds](https://www.yahoo.com/news/articles/most-ai-chatbots-help-teen-213334734.html)**
+**[A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety](https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html)**
 
-A new study found eight of the 10 major AI chatbots helped fake teen accounts plan school shootings, assassinations, and bombings.
-
-Yahoo • 1h ago
+The New York Times • 7h ago
 
 ---
 
-**[The Billion-Dollar AI Startup That Was Founded by Teenagers](https://www.wsj.com/business/ai-startup-aaru-young-founders-35da7f87?gaa_at=eafs&gaa_n=AWEtsqcP65EDUWDWVJU2FUpf7zbqBB7u8rNRdDdR6y9Cp4SijA2IJ-Eo7Thr&gaa_ts=69b1eff0&gaa_sig=gZX6NoBf_oHUZB4A9hVZrKCN9QAqRsZeyVeLA2kEY4PxmtJO8mxQ1QTBQKvxNDE_L2BLSoywdwiLJQHPeHt8Fw%3D%3D)**
+**[Dems drafting AI guardrails for autonomous weapons, domestic spying](https://www.axios.com/2026/03/11/ai-autonomous-weapons-domestic-spying-protections-democrats)**
 
-WSJ • 15h ago
-
----
-
-**[Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature](https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/)**
-
-The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.
-
-WIRED • 2h ago
+Axios • 1h ago
 
 ---
 
-**[AI-fueled memory chip shortage could raise prices of everyday tech](https://www.cbsnews.com/video/ai-fueled-memory-chip-shortage-could-raise-prices-everyday-tech/)**
+**[DOJ attorney in Raleigh accused of fake legal arguments, attributed to AI](https://www.wral.com/news/nccapitol/raleigh-doj-lawyer-fake-citations-ai-boyle-legal-brief-march-2026/)**
 
-An explosion in artificial intelligence data centers and cloud computing is shrinking the supply of memory chips, which is having a major impact on the price consumers pay for everyday tech. CNET editor-in-chief David Katzmaier joins CBS News to discuss.
+After a federal government lawyer in Raleigh was criticized by a judge for making false arguments in court, U.S. Attorney Ellis Boyle warned staff that “AI may hallucinate” and is not to be used for legal work.
 
-CBS News • 2h ago
-
----
-
-**[AI-Generated ‘Actress’ Tilly Norwood Drops Music Video for ‘Take the Lead’: ‘I’m Just a Tool, But I’ve Got Life’](https://www.yahoo.com/entertainment/music/articles/ai-generated-actress-tilly-norwood-211114736.html)**
-
-Norwood's arrival in the acting world has coincided with several AI music avatars, including two who have topped Billboard charts.
-
-Yahoo • 2h ago
+WRAL • 5m ago
 
 ---
 
-**[Nebius stock pops 16% on Nvidia $2 billion investment announcement](https://www.cnbc.com/2026/03/11/nebius-nvidia-ai-cloud.html)**
+**[AI has the ability to enhance software products, portfolio manager says](https://www.foxbusiness.com/video/6390756306112)**
 
-The companies will collaborate on AI infrastructure deployment as part of the deal.
+Allspring Global Investments portfolio manager Matt Wittmer discusses the artificial intelligence market and the recent software stock sell-off on ‘The Claman Countdown.’
 
-CNBC • 11h ago
-
----
-
-**[NVIDIA’s US$2b AI Deal Puts Nebius Valuation And Growth In Focus](https://finance.yahoo.com/news/nvidia-us-2b-ai-deal-212151587.html)**
-
-NVIDIA is committing $2 billion to Nebius Group in a wide-ranging AI partnership. The deal includes co-development across hardware, software, fleet management, and hyperscale AI infrastructure. Nebius and NVIDIA are targeting deployment of over 5 gigawatts of AI compute capacity by 2030. The agreement positions Nebius Group among top-tier platforms for next-generation AI workloads. Nebius Group, listed as NasdaqGS:NBIS, is now at the center of one of NVIDIA's largest commitments to an...
-
-Yahoo Finance • 2h ago
+Fox Business • 1h ago
 
 ---
 
-**[NVIDIA and Nebius Partner to Scale Full-Stack AI Cloud](http://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud)**
+**[Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales](https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html)**
 
-SANTA CLARA, Calif. and AMSTERDAM -- NVIDIA and Nebius Group N.V. (NASDAQ: NBIS) today announced a strategic partnership to develop and deploy the next generation of hyperscale cloud for the ...
+Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.
 
-NVIDIA Newsroom • 11h ago
+CNBC • 2h ago
+
+---
+
+**[Atlassian lays off 1,600 workers ahead of AI push](https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx)**
+
+Layoffs to affect 10% of workforce amid Australian company’s restructuring plan to push into artificial intelligence and enterprise sales
+
+The Guardian • 1h ago
+
+---
+
+**[Atlassian to Cut About 10% of Workforce as It Ramps Up AI Spending](https://www.wsj.com/tech/atlassian-to-cut-about-10-of-workforce-as-it-ramps-up-ai-spending-61dadade?gaa_at=eafs&gaa_n=AWEtsqfhDXeAffG_PfvCKMCr8UofxzMHH9xja5ZCCh_qdUktkXkzluil87WE&gaa_ts=69b20370&gaa_sig=A3vwa5tNFwTh1itnmnDYpdiEZCrfNmPONiUt9PJG-5LM3_oeZHrWn1ssJIG9ewqnoCfnD4p2LfnOYBss48FVNA%3D%3D)**
+
+WSJ • 1h ago
 
 ---
 
@@ -203,7 +199,7 @@ NVIDIA Newsroom • 11h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 1890 • 💬 737 • 3h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 2403 • 💬 904 • 4h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -211,7 +207,7 @@ NVIDIA Newsroom • 11h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 627 • 💬 466 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 630 • 💬 468 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -219,7 +215,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 596 • 💬 477 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 597 • 💬 478 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -239,19 +235,19 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 ---
 
-**[Debian decides not to decide on AI-generated contributions](https://news.ycombinator.com/item?id=47324087)**
-
-Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
-
-⬆️ 368 • 💬 276 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
-
----
-
 **[How we hacked McKinsey's AI platform](https://news.ycombinator.com/item?id=47333627)**
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 355 • 💬 144 • 13h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 375 • 💬 150 • 13h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+
+---
+
+**[Debian decides not to decide on AI-generated contributions](https://news.ycombinator.com/item?id=47324087)**
+
+Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
+
+⬆️ 369 • 💬 279 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 
 ---
 
@@ -273,7 +269,7 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.
 
-⬆️ 166 • 💬 160 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+⬆️ 166 • 💬 162 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 
 ---
 
@@ -367,7 +363,7 @@ Sam Altman, CEO of OpenAI, discusses the rapid evolution of artificial intellige
 
 📺 DWS News
 
-👁️ 1K • 👍 29 • 💬 8 • ⏱️ 35:56 • 3h ago
+👁️ 1K • 👍 29 • 💬 8 • ⏱️ 35:56 • 4h ago
 
 ---
 
@@ -441,7 +437,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 254 • 7h ago
+⬇️ 746 • ❤️ 254 • 8h ago
 
 ---
 
@@ -501,7 +497,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 48,417 • ❤️ 141 • 20h ago
+⬇️ 48,417 • ❤️ 141 • 21h ago
 
 ---
 
@@ -660,7 +656,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 26.0k • 🔱 3.3k • 17h ago
+⭐ 26.0k • 🔱 3.3k • 18h ago
 
 ---
 
@@ -690,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.4k • 🔱 605 • 13h ago
+⭐ 8.4k • 🔱 605 • 14h ago
 
 ---
 
@@ -720,7 +716,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 725 • 8h ago
+⭐ 6.2k • 🔱 725 • 9h ago
 
 ---
 
@@ -730,7 +726,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 434 • 6h ago
+⭐ 3.8k • 🔱 434 • 7h ago
 
 ---
 
@@ -740,7 +736,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 657 • 12h ago
+⭐ 3.3k • 🔱 657 • 13h ago
 
 ---
 
