@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T04:21:26.409555+00:00'
+updated: '2026-03-11T05:32:59.165474+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - cryptocurrency
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 04:21 UTC  
+**Last Updated:** March 11, 2026 at 05:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -1.7%  
-**30d:** +1.2%  
-**90d:** -22.8%  
-**1y:** -16.6%  
+**24h:** -0.0%  
+**7d:** -1.3%  
+**30d:** +1.6%  
+**90d:** -22.5%  
+**1y:** -16.3%  
 
 ---
 
@@ -70,38 +70,24 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 13
+### 15
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
-
-6h ago
-
----
-
 **[Netflix Secretly Banned Bitcoin From A Boxer’s Trunks Right Before The Fight Of His Life](https://www.reddit.com/r/Bitcoin/comments/1rq6s2w/netflix_secretly_banned_bitcoin_from_a_boxers/)**
 
 Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 8h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 10h ago
 
 ---
 
-**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
+**[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
 
-19h ago
-
----
-
-**[Why don't we take the rest of the year off?](https://www.reddit.com/r/Bitcoin/comments/1rqchs2/why_dont_we_take_the_rest_of_the_year_off/)**
-
-I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to the moon any time now and getting our hopes up only for it to yoyo and continue the slow downward trend. If we're getting a new upsurge it'll be towards the end of the year or the beginning of 2027 anyway. Lets just enjoy the stacking season while we got it.
-
-5h ago
+7h ago
 
 ---
 
@@ -109,29 +95,27 @@ I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to 
 
 I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
 
-2h ago
+3h ago
+
+---
+
+**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
+
+21h ago
+
+---
+
+**[Why don't we take the rest of the year off?](https://www.reddit.com/r/Bitcoin/comments/1rqchs2/why_dont_we_take_the_rest_of_the_year_off/)**
+
+I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to the moon any time now and getting our hopes up only for it to yoyo and continue the slow downward trend. If we're getting a new upsurge it'll be towards the end of the year or the beginning of 2027 anyway. Lets just enjoy the stacking season while we got it.
+
+6h ago
 
 ---
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-20h ago
-
----
-
-**[Has adding crypto payments actually helped your business?](https://www.reddit.com/r/Bitcoin/comments/1rq2uih/has_adding_crypto_payments_actually_helped_your/)**
-
-Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
-
-11h ago
-
----
-
-**[Trying to recover a July 2012 Bitcoin wallet need advice](https://www.reddit.com/r/Bitcoin/comments/1rpz0n4/trying_to_recover_a_july_2012_bitcoin_wallet_need/)**
-
-Need advice from Bitcoin community about a 2012 wallet recovery. My client has a Bitcoin address from July 2012. We have a 12 word seed and the password, but nothing works. All 12 words exist in both the Blockchainwalletv3 list and the BIP39 list, and no word is missing. But when we try to recover it on the Blockchain.info recovery page or other tools, it always says invalid seed phrase. We also tried several recovery tools from GitHub including btcrecover: https://github.com/gurnec/btcrecover https://github.com/3rdIteration/btcrecover But still no success. The confusing part is that some sources say 12 word seed was very rare in 2012, and some say it did not exist at that time and only wallet identifier, password and wallet json were used. Because of this we are thinking maybe my client misunderstood something about the seed, but the 12 words look valid and match the word lists. Right now we are only trying seed shuffle and some brute force tests, but honestly we almost lost hope. If anyone from the community has any idea, suggestion, or experience with old 2012 Blockchain wallets, please share. Maybe there is something we are missing. Thank you.
-
-13h ago
+21h ago
 
 ---
 
@@ -139,7 +123,23 @@ Need advice from Bitcoin community about a 2012 wallet recovery. My client has a
 
 The world is waiting for a financial revolution, but it already happened in silence. As of early 2026, over 95% of all Bitcoin that will ever exist has already been mined. We have officially transitioned from an era of monetary expansion to an era of fierce, global competition for a closed system. While retail investors are distracted by daily price volatility, Wall Street ETFs, corporate treasuries, and nation-states are quietly vacuuming up the remaining liquid supply. The collision between infinite fiat expansion and a hard cap of 21,000,000 coins is here. Dive into to understand the mathematics of absolute scarcity, the illusion of liquidity, and what happens next when the global financial system runs out of physical supply.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/the-95-collision) • 10h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/the-95-collision) • 11h ago
+
+---
+
+**[Trying to recover a July 2012 Bitcoin wallet need advice](https://www.reddit.com/r/Bitcoin/comments/1rpz0n4/trying_to_recover_a_july_2012_bitcoin_wallet_need/)**
+
+Need advice from Bitcoin community about a 2012 wallet recovery. My client has a Bitcoin address from July 2012. We have a 12 word seed and the password, but nothing works. All 12 words exist in both the Blockchainwalletv3 list and the BIP39 list, and no word is missing. But when we try to recover it on the Blockchain.info recovery page or other tools, it always says invalid seed phrase. We also tried several recovery tools from GitHub including btcrecover: https://github.com/gurnec/btcrecover https://github.com/3rdIteration/btcrecover But still no success. The confusing part is that some sources say 12 word seed was very rare in 2012, and some say it did not exist at that time and only wallet identifier, password and wallet json were used. Because of this we are thinking maybe my client misunderstood something about the seed, but the 12 words look valid and match the word lists. Right now we are only trying seed shuffle and some brute force tests, but honestly we almost lost hope. If anyone from the community has any idea, suggestion, or experience with old 2012 Blockchain wallets, please share. Maybe there is something we are missing. Thank you.
+
+14h ago
+
+---
+
+**[Has adding crypto payments actually helped your business?](https://www.reddit.com/r/Bitcoin/comments/1rq2uih/has_adding_crypto_payments_actually_helped_your/)**
+
+Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
+
+12h ago
 
 ---
 
@@ -147,7 +147,7 @@ The world is waiting for a financial revolution, but it already happened in sile
 
 The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 15h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 16h ago
 
 ---
 
@@ -155,11 +155,11 @@ The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the
 
 ## Google News: "bitcoin"
 
-**[Bitwise CIO reiterates bitcoin price could reach $1 million as he compares it to gold](https://www.theblock.co/post/393109/bitwise-cio-bitcoin-price-1-million-gold)**
+**[Bitcoin climbs to $71,000 as dollar, oil weaken after Trump comments on Iran war](https://www.coindesk.com/markets/2026/03/10/bitcoin-climbs-to-usd71-000-as-dollar-oil-weaken-after-trump-comments-on-iran-war)**
 
-Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
+Crypto and risk assets rally as the dollar retreats following comments from Donald Trump suggesting the conflict in Iran may end soon, while bitcoin still faces a broader downtrend.
 
-The Block • 7h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -167,13 +167,13 @@ The Block • 7h ago
 
 Strategy's preferred issues—hybrid securities that have both stock- and bond-like features—may appeal to both Wall Street and Main Street investors wary of whipsawing stock markets.
 
-Investopedia • 9h ago
+Investopedia • 10h ago
 
 ---
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -181,13 +181,15 @@ Investor's Business Daily • 7h ago
 
 Renowned investor Ross Gerber responded to Michael Saylor on Sunday after the Strategy Inc. Chair said the company is gearing to buy more Bitcoin. Gerber Jabs Saylor Gerber replied to Strategy Chair Michael Saylor’s X post, “The Second Century Begins,”...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns](https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns)**
+**[Bitcoin price forecast: Traders bet on bitcoin reclaiming $80,000](https://www.coindesk.com/markets/2026/03/11/bitcoin-to-moon-past-usd80-000-option-degens-bet)**
 
-Bloomberg • 1d ago
+Many traders expect bitcoin to recover toward the $80K level between June and September, Derive said.
+
+CoinDesk • 28m ago
 
 ---
 
@@ -197,11 +199,19 @@ Reuters • 1d ago
 
 ---
 
-**[Why Bitcoin Miners Are Abandoning The Orange Coin For AI — And Why It Might Be A Massive Trap](https://bitcoinmagazine.com/business/public-bitcoin-miners-are-dumping-bitcoin-for-ai-a-historic-mistake)**
+**[Quantum Computing Isn't Just Coming for Bitcoin—It Threatens Messaging Apps Too](https://decrypt.co/360639/quantum-computing-bitcoin-threatens-messaging-apps)**
 
-Imagine ditching Bitcoin — the asset you accumulated through cycles — to lease your rigs to Big Tech for AI. That's exactly what public miners are doing... but history shows infrastructure builders rarely capture the upside.
+Experts warn that encrypted chats could face a “harvest now, decrypt later” risk as quantum computing advances.
 
-Bitcoin Magazine • 1d ago
+Decrypt • 5h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773161100)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 12h ago
 
 ---
 
@@ -213,19 +223,11 @@ Tri-City Herald • 1d ago
 
 ---
 
-**[Quantum Computing Isn't Just Coming for Bitcoin—It Threatens Messaging Apps Too](https://decrypt.co/360639/quantum-computing-bitcoin-threatens-messaging-apps)**
+**[Bitcoin Has A Golden Opportunity With AI Agents, It's Time To Build](https://bitcoinmagazine.com/technical/bitcoin-has-a-golden-opportunity-with-ai-agents-its-time-to-build)**
 
-Experts warn that encrypted chats could face a “harvest now, decrypt later” risk as quantum computing advances.
+Bitcoin finally has a real payments advantage in the world of agentic payments. We all have to pitch in to capitalize on it.
 
-Decrypt • 4h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773175500)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 7h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -237,7 +239,7 @@ Polymarket • 7h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 14 • 💬 0 • 9h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 15 • 💬 0 • 10h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -275,7 +277,7 @@ Complete operating system for Bitcoiners
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 15h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 16h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -297,7 +299,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 22h ago
+⬆️ 1 • 💬 0 • 23h ago
 
 ---
 
@@ -319,7 +321,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 6K • 👍 953 • 💬 125 • ⏱️ 20:58 • 8h ago
+👁️ 6K • 👍 953 • 💬 125 • ⏱️ 20:58 • 9h ago
 
 ---
 
@@ -329,7 +331,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 83 • ⏱️ 9:26 • 4h ago
+👁️ 15K • 👍 1K • 💬 83 • ⏱️ 9:26 • 6h ago
 
 ---
 
@@ -337,7 +339,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Andrei Jikh
 
-👁️ 38K • 👍 1K • 💬 56 • ⏱️ 1:05 • 9h ago
+👁️ 38K • 👍 1K • 💬 56 • ⏱️ 1:05 • 10h ago
 
 ---
 
@@ -347,7 +349,7 @@ Global tensions are rising, private credit is cracking, and the dollar system ju
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 998 • 💬 140 • ⏱️ 10:41 • 7h ago
+👁️ 12K • 👍 998 • 💬 140 • ⏱️ 10:41 • 8h ago
 
 ---
 
@@ -357,7 +359,7 @@ Jeff Park is the Partner & Chief Investment Officer at ProCap BTC. In this conve
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 539 • 💬 7 • ⏱️ 25:55 • 7h ago
+👁️ 10K • 👍 539 • 💬 7 • ⏱️ 25:55 • 8h ago
 
 ---
 
@@ -367,7 +369,7 @@ Dana Love, PhD called Bitcoin's Wall Street capture live on Asharq Bloomberg in 
 
 📺 Dana Love, PhD
 
-👁️ 839 • 👍 56 • 💬 6 • ⏱️ 1:26 • 6h ago
+👁️ 839 • 👍 56 • 💬 6 • ⏱️ 1:26 • 7h ago
 
 ---
 
@@ -397,7 +399,7 @@ In this video, we take a step back and look at the structure of a Bitcoin bear m
 
 📺 Benjamin Cowen
 
-👁️ 36K • 👍 3K • 💬 184 • ⏱️ 13:00 • 8h ago
+👁️ 36K • 👍 3K • 💬 184 • ⏱️ 13:00 • 9h ago
 
 ---
 
@@ -407,7 +409,7 @@ President Donald Trump, at a press conference at his golf club near Miami, the w
 
 📺 Paul Barron Network
 
-👁️ 41K • 👍 2K • 💬 218 • ⏱️ 17:35 • 8h ago
+👁️ 41K • 👍 2K • 💬 218 • ⏱️ 17:35 • 9h ago
 
 ---
 

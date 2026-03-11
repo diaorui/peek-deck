@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T04:21:26.415673+00:00'
+updated: '2026-03-11T05:32:59.171877+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - cryptocurrency
-- videos
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 04:21 UTC  
+**Last Updated:** March 11, 2026 at 05:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -2.2%  
-**30d:** +0.3%  
-**90d:** -34.3%  
-**1y:** +6.1%  
+**24h:** -0.5%  
+**7d:** -1.9%  
+**30d:** +0.6%  
+**90d:** -34.1%  
+**1y:** +6.4%  
 
 ---
 
@@ -68,11 +68,27 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion March 11, 2026](https://www.reddit.com/r/ethereum/comments/1rqknm4/daily_general_discussion_march_11_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+32m ago
+
+---
+
+**[ERC-8183 brings AI resume On-Chain 🤖💼](https://www.reddit.com/r/ethereum/comments/1rqk7an/erc8183_brings_ai_resume_onchain/)**
+
+Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
+
+56m ago
+
+---
+
 **[Daily General Discussion March 10, 2026](https://www.reddit.com/r/ethereum/comments/1rpnx4z/daily_general_discussion_march_10_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
 
-8h ago
+9h ago
 
 ---
 
 **[Starknet proposes STRK20 — private ERC-20 tokens on Ethereum L2](https://www.reddit.com/r/ethereum/comments/1rq2jwl/starknet_proposes_strk20_private_erc20_tokens_on/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -112,7 +128,7 @@ Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -132,22 +148,6 @@ MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, a
 
 ---
 
-**[I've been reverse-engineering Ethereum's earliest smart contracts — here's what I found locked inside them](https://www.reddit.com/r/ethereum/comments/1ro4bt9/ive_been_reverseengineering_ethereums_earliest/)**
-
-For the past few months I've been building EthereumHistory.com, a project to document every notable smart contract from Ethereum's earliest days (2015-2017). Think of it as a Wikipedia for Ethereum's contract archaeology. Recently I did a deep scan of all 12,609 contracts deployed during the Frontier era and found 1,650 still holding ETH — totaling over 38,000 ETH (~$95M at current prices) locked in contracts from Ethereum's first weeks. Here's what's actually inside them: The Gambling Contracts (Day 13 of Ethereum) EtherDice (0xc4c51de1abf5d60dbd329ec0f999fd8f021ae9fc) was deployed on August 12, 2015 — just 13 days after Ethereum launched. Someone loaded it with a 1,000 ETH bankroll. It's a 21-function commit-reveal dice game, surprisingly sophisticated for the era. 122 ETH still sits inside, permanently locked because the deployer likely lost their keys years ago. The Inverted Timelock TimeLockVault (0xed44f3c2081480b08643fe1ca281fab9ed643735) has a beautiful bug: the time check is inverted. You can withdraw before the unlock date (2035), but once 2035 arrives, the funds become permanently locked. 50 ETH inside. The deployer could have withdrawn years ago but apparently never noticed. The Stalled Pyramid EtherPyramid (0xa9e4e3b1da2752aea980698c335e70e9ab26c) had 140 participants. 136 of them are still waiting for their payout. 37 ETH frozen forever in a pyramid that ran out of new entrants. A time capsule of early Ethereum's Wild West era. The Pattern After scanning all 1,650 funded contracts, the pattern is consistent: every single one is either owner-gated (keys likely lost), bug-locked, pyramid-stalled, or timelocked. At least 5 active hunter addresses have already probed most of these contracts looking for extractable funds. None succeeded. These contracts are essentially digital fossils — permanently preserved on-chain with real ETH sealed inside them. They tell the story of Ethereum's earliest developers experimenting with code that would handle real money, often for the first time. I've been documenting these on EthereumHistory.com with verified source code, deployment context, and the stories behind them. If you deployed contracts in 2015-2016 or know the stories behind any early projects, I'd love to hear from you. What early Ethereum contracts do you remember that deserve to be documented?
-
-2d ago
-
----
-
-**[Daily General Discussion March 08, 2026](https://www.reddit.com/r/ethereum/comments/1rnwyac/daily_general_discussion_march_08_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Meanwhile, more than half of XRP’s total supply is sitting at a loss....
 
-Sherwood News • 12h ago
+Sherwood News • 13h ago
 
 ---
 
@@ -164,23 +164,13 @@ Sherwood News • 12h ago
 
 Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
 
-CoinDesk • 6m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Schonfeld Strategic Advisors Trims ETHA Stake as Ethereum ETFs Expand Regulated Access to Ether](https://www.fool.com/coverage/filings/2026/03/10/schonfeld-strategic-advisors-trims-etha-stake-as-ethereum-etfs-expand-regulated-access-to-ether/)**
+**[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
-Schonfeld Strategic Advisors reduced its position in the iShares Ethereum Trust ETF during the fourth quarter. The fund holds ether directly and offers investors a simpler path to Ethereum exposure through a regulated exchange-traded structure, without the need to use crypto exchanges or manage digital wallets.
-
-The Motley Fool • 2h ago
-
----
-
-**[Crypto News: Pepeto Update Exchange Bridge Solving Ethereum Blockchain as XRP Price Prediction Targets $42](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-update-exchange-bridge-solving-ethereum-blockchain-as-xrp-price-prediction-targets-42-1035916594)**
-
-Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto released a major update on exchange bridge update that eliminates the gas fees and failed ...
-
-markets.businessinsider.com • 3h ago
+Binance • 3d ago
 
 ---
 
@@ -192,15 +182,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqc6m4W4HZdhvM4IZNm9iJDMorFvkNxnxgIgOwwsTEHSBM1IOIYRxJ4k&gaa_ts=69b101fc&gaa_sig=gIYsFDfm46vBcI5Tq-Z1otA8ssTB1ejuBJNYdM6CEiWdWF74AbnYdnbv8_yxofBICV7iT1uQ9TnEhDuA2dAvdA%3D%3D)**
 
-Binance • 3d ago
-
----
-
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqd7vqSjHUfEpQSazpGW-u5juAxKZoTxw8oLZ3Y2TmmOi6wLytHVX3h1&gaa_ts=69b0f133&gaa_sig=_S76L5rX6YQn_l8sqpyeDG8XPEPr1qJno-ZLnwoCbH2pmjrYDp2na6c6bGAByRTMl4o9Y-wtBZh79HhHp5uluA%3D%3D)**
-
-Barron's • 7h ago
+Barron's • 9h ago
 
 ---
 
@@ -216,7 +200,7 @@ PR Newswire • 1d ago
 
 Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -225,6 +209,20 @@ Yahoo Finance • 14h ago
 Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
 
 The Block • 1d ago
+
+---
+
+**[Schonfeld Strategic Advisors Trims ETHA Stake as Ethereum ETFs Expand Regulated Access to Ether](https://www.fool.com/coverage/filings/2026/03/10/schonfeld-strategic-advisors-trims-etha-stake-as-ethereum-etfs-expand-regulated-access-to-ether/)**
+
+Schonfeld Strategic Advisors reduced its position in the iShares Ethereum Trust ETF during the fourth quarter. The fund holds ether directly and offers investors a simpler path to Ethereum exposure through a regulated exchange-traded structure, without the need to use crypto exchanges or manage digital wallets.
+
+The Motley Fool • 3h ago
+
+---
+
+**[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 44K • 👍 2K • 💬 214 • ⏱️ 21:43 • 14h ago
+👁️ 44K • 👍 2K • 💬 214 • ⏱️ 21:43 • 15h ago
 
 ---
 
@@ -248,7 +246,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 318 • 💬 115 • ⏱️ 13:04 • 12h ago
+👁️ 5K • 👍 318 • 💬 115 • ⏱️ 13:04 • 14h ago
 
 ---
 
@@ -258,7 +256,7 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 The Value Thinker
 
-👁️ 2K • 👍 218 • 💬 36 • ⏱️ 21:31 • 3h ago
+👁️ 2K • 👍 218 • 💬 36 • ⏱️ 21:31 • 4h ago
 
 ---
 
@@ -278,7 +276,7 @@ BITCOIN HOLDERS: Don't Let This Trick You!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 3K • 👍 159 • 💬 141 • ⏱️ 16:54 • 4h ago
+👁️ 3K • 👍 159 • 💬 141 • ⏱️ 16:54 • 5h ago
 
 ---
 
@@ -288,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 3 • ⏱️ 5:14 • 12h ago
+👁️ 2K • 👍 122 • 💬 3 • ⏱️ 5:14 • 13h ago
 
 ---
 
@@ -298,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 366 • 👍 51 • 💬 2 • ⏱️ 4:40 • 2h ago
+👁️ 366 • 👍 51 • 💬 2 • ⏱️ 4:40 • 3h ago
 
 ---
 
@@ -318,7 +316,7 @@ Prepare for the cycle with our risk models to accumulate, plan exits, and stay a
 
 📺 Dan Gambardello
 
-👁️ 9K • 👍 727 • 💬 232 • ⏱️ 11:26 • 12h ago
+👁️ 9K • 👍 727 • 💬 232 • ⏱️ 11:26 • 13h ago
 
 ---
 
@@ -328,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 285 • 👍 10 • ⏱️ 5:18 • 18h ago
+👁️ 285 • 👍 10 • ⏱️ 5:18 • 19h ago
 
 ---
 
