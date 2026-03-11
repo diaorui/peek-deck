@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T05:32:59.165474+00:00'
+updated: '2026-03-11T06:56:14.769323+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 05:32 UTC  
+**Last Updated:** March 11, 2026 at 06:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
+**24h:** -0.5%  
 **7d:** -1.3%  
 **30d:** +1.6%  
 **90d:** -22.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1394.17B
+**Market Cap:** $1398.29B
 Rank #1
 
-**Circulating Supply:** 20,000,546 BTC
+**Circulating Supply:** 20,000,662 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.7%
+-44.5%
 
 **All-Time Low:** $67.81
-+102697.5%
++103050.0%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
+
+9h ago
+
+---
+
 **[Netflix Secretly Banned Bitcoin From A Boxer’s Trunks Right Before The Fight Of His Life](https://www.reddit.com/r/Bitcoin/comments/1rq6s2w/netflix_secretly_banned_bitcoin_from_a_boxers/)**
 
 Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 10h ago
-
----
-
-**[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
-
-7h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 11h ago
 
 ---
 
@@ -95,13 +95,13 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
 
-3h ago
+4h ago
 
 ---
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1rpr9uf/here_we_go_again/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -109,21 +109,13 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to the moon any time now and getting our hopes up only for it to yoyo and continue the slow downward trend. If we're getting a new upsurge it'll be towards the end of the year or the beginning of 2027 anyway. Lets just enjoy the stacking season while we got it.
 
-6h ago
+7h ago
 
 ---
 
 **[BTC last couple days](https://www.reddit.com/r/Bitcoin/comments/1rpqw3r/btc_last_couple_days/)**
 
-21h ago
-
----
-
-**[Bitcoin And The 95% Collision](https://www.reddit.com/r/Bitcoin/comments/1rq4gzg/bitcoin_and_the_95_collision/)**
-
-The world is waiting for a financial revolution, but it already happened in silence. As of early 2026, over 95% of all Bitcoin that will ever exist has already been mined. We have officially transitioned from an era of monetary expansion to an era of fierce, global competition for a closed system. While retail investors are distracted by daily price volatility, Wall Street ETFs, corporate treasuries, and nation-states are quietly vacuuming up the remaining liquid supply. The collision between infinite fiat expansion and a hard cap of 21,000,000 coins is here. Dive into to understand the mathematics of absolute scarcity, the illusion of liquidity, and what happens next when the global financial system runs out of physical supply.
-
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/the-95-collision) • 11h ago
+22h ago
 
 ---
 
@@ -131,7 +123,23 @@ The world is waiting for a financial revolution, but it already happened in sile
 
 Need advice from Bitcoin community about a 2012 wallet recovery. My client has a Bitcoin address from July 2012. We have a 12 word seed and the password, but nothing works. All 12 words exist in both the Blockchainwalletv3 list and the BIP39 list, and no word is missing. But when we try to recover it on the Blockchain.info recovery page or other tools, it always says invalid seed phrase. We also tried several recovery tools from GitHub including btcrecover: https://github.com/gurnec/btcrecover https://github.com/3rdIteration/btcrecover But still no success. The confusing part is that some sources say 12 word seed was very rare in 2012, and some say it did not exist at that time and only wallet identifier, password and wallet json were used. Because of this we are thinking maybe my client misunderstood something about the seed, but the 12 words look valid and match the word lists. Right now we are only trying seed shuffle and some brute force tests, but honestly we almost lost hope. If anyone from the community has any idea, suggestion, or experience with old 2012 Blockchain wallets, please share. Maybe there is something we are missing. Thank you.
 
-14h ago
+16h ago
+
+---
+
+**[Daily Discussion, March 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1rqlw70/daily_discussion_march_11_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+46m ago
+
+---
+
+**[Bitcoin And The 95% Collision](https://www.reddit.com/r/Bitcoin/comments/1rq4gzg/bitcoin_and_the_95_collision/)**
+
+The world is waiting for a financial revolution, but it already happened in silence. As of early 2026, over 95% of all Bitcoin that will ever exist has already been mined. We have officially transitioned from an era of monetary expansion to an era of fierce, global competition for a closed system. While retail investors are distracted by daily price volatility, Wall Street ETFs, corporate treasuries, and nation-states are quietly vacuuming up the remaining liquid supply. The collision between infinite fiat expansion and a hard cap of 21,000,000 coins is here. Dive into to understand the mathematics of absolute scarcity, the illusion of liquidity, and what happens next when the global financial system runs out of physical supply.
+
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/the-95-collision) • 12h ago
 
 ---
 
@@ -139,15 +147,7 @@ Need advice from Bitcoin community about a 2012 wallet recovery. My client has a
 
 Hey everyone, Curious to hear from founders or operators who have added crypto payments to their (online) product. A few things I’d love to know: - Is it a good method to work with some new regions (where I don't accept bank payments) - What kind of business do you run? - What provider did you use? - Did it actually increase revenue or conversions? - Did it bring new customers or new geographies? - Any issues with operations, compliance, refunds, etc? Appreciate any honest takes, positive or negative.
 
-12h ago
-
----
-
-**[COLDCARD Mk5 Launch](https://www.reddit.com/r/Bitcoin/comments/1rpwmqj/coldcard_mk5_launch/)**
-
-The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the job done. But engineering is about moving forward. Today, we’re introducing the next step in that evolution: the COLDCARD Mk5.
-
-🔗 [COINKITE Blog](https://blog.coinkite.com/coldcard-mk5-launch/) • 16h ago
+13h ago
 
 ---
 
@@ -155,11 +155,27 @@ The Mk4 is a proven workhorse. It’s secure, it’s air-gapped, and it gets the
 
 ## Google News: "bitcoin"
 
-**[Bitcoin climbs to $71,000 as dollar, oil weaken after Trump comments on Iran war](https://www.coindesk.com/markets/2026/03/10/bitcoin-climbs-to-usd71-000-as-dollar-oil-weaken-after-trump-comments-on-iran-war)**
+**[Bitwise CIO reiterates bitcoin price could reach $1 million as he compares it to gold](https://www.theblock.co/post/393109/bitwise-cio-bitcoin-price-1-million-gold)**
 
-Crypto and risk assets rally as the dollar retreats following comments from Donald Trump suggesting the conflict in Iran may end soon, while bitcoin still faces a broader downtrend.
+Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
 
-CoinDesk • 18h ago
+The Block • 9h ago
+
+---
+
+**[Why Bitcoin Is on a Path to $1 Million Per Coin: Bitwise](https://finance.yahoo.com/news/why-bitcoin-path-1-million-212257811.html)**
+
+Bitcoin can hit a price of $1 million per coin even with "reasonably conservative assumptions," Bitwise CIO Matt Hougan argued. Here's why.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[$1 Million Bitcoin Isn't A Far-Fetched Idea: Bitwise Says](https://bitcoinmagazine.com/news/1-million-bitcoin-isnt-as-far-fetched)**
+
+Matt Hougan of Bitwise says a $1 million bitcoin is plausible if the global store-of-value market continues growing and bitcoin captures a larger share.
+
+Bitcoin Magazine • 12h ago
 
 ---
 
@@ -167,21 +183,35 @@ CoinDesk • 18h ago
 
 Strategy's preferred issues—hybrid securities that have both stock- and bond-like features—may appeal to both Wall Street and Main Street investors wary of whipsawing stock markets.
 
-Investopedia • 10h ago
+Investopedia • 11h ago
 
 ---
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
-**[Ross Gerber Says 'Buy My Tokens' As Michael Saylor Hints Strategy Will Accumulate More Bitcoin](https://finance.yahoo.com/news/ross-gerber-says-buy-tokens-180019221.html)**
+**['More Than They Can Sell'—Saylor Bitcoin Buying Fuels $200K Forecast](https://www.forbes.com/sites/boazsobrado/2026/03/10/more-than-they-can-sell-saylor-bitcoin-buying-fuels-200k-forecast/)**
 
-Renowned investor Ross Gerber responded to Michael Saylor on Sunday after the Strategy Inc. Chair said the company is gearing to buy more Bitcoin. Gerber Jabs Saylor Gerber replied to Strategy Chair Michael Saylor’s X post, “The Second Century Begins,”...
+Forbes • 12h ago
 
-Yahoo Finance • 11h ago
+---
+
+**[Bitcoin, ETH, ADA, SOL price news: What next as Bitcoin steady above $70,000](https://www.coindesk.com/markets/2026/03/11/bitcoin-steady-above-usd70-000-as-iea-proposes-largest-ever-oil-reserve-release)**
+
+The largest cryptocurrency gained 7% from Monday's lows as energy price fears eased, with Asian equities rising 1.8% and Brent crude dropping below $90 for the first time since the war began.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773207300)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1h ago
 
 ---
 
@@ -189,45 +219,15 @@ Yahoo Finance • 11h ago
 
 Many traders expect bitcoin to recover toward the $80K level between June and September, Derive said.
 
-CoinDesk • 28m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
+**[Bitcoin, Ethereum, XRP Brace for U.S. CPI Report](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-brace-u-003414097.html)**
 
-Reuters • 1d ago
+Bitcoin, Ethereum, and XRP are all trading in the green this week. On the surface, the crypto market looks calm. But under that calm, traders are waiting for one of the biggest macro events of the month: the U.S. CPI (inflation) report. Economists expect inflation to edge up to about ...
 
----
-
-**[Quantum Computing Isn't Just Coming for Bitcoin—It Threatens Messaging Apps Too](https://decrypt.co/360639/quantum-computing-bitcoin-threatens-messaging-apps)**
-
-Experts warn that encrypted chats could face a “harvest now, decrypt later” risk as quantum computing advances.
-
-Decrypt • 5h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773161100)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 12h ago
-
----
-
-**[$1M in Bitcoin ATM scams reported in Kennewick. What police are doing](https://www.tri-cityherald.com/news/local/crime/article314983822.html)**
-
-Many cases involved a victim’s life savings and the results were “life altering.”
-
-Tri-City Herald • 1d ago
-
----
-
-**[Bitcoin Has A Golden Opportunity With AI Agents, It's Time To Build](https://bitcoinmagazine.com/technical/bitcoin-has-a-golden-opportunity-with-ai-agents-its-time-to-build)**
-
-Bitcoin finally has a real payments advantage in the world of agentic payments. We all have to pitch in to capitalize on it.
-
-Bitcoin Magazine • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -239,7 +239,7 @@ Bitcoin Magazine • 1d ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 15 • 💬 0 • 10h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 16 • 💬 0 • 12h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -277,7 +277,7 @@ Complete operating system for Bitcoiners
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 16h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 17h ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -299,7 +299,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
-⬆️ 1 • 💬 0 • 23h ago
+⬆️ 1 • 💬 0 • 1d ago
 
 ---
 
@@ -315,23 +315,23 @@ For close to 15 years, WordPress was my default. It powered my brands: Sucuri, C
 
 ## YouTube Videos: "bitcoin"
 
-**[$1 MILLION BITCOIN FROM STRC - EASILY! $500 MILLION IN ONE DAY?!?!](https://www.youtube.com/watch?v=5aK0EW9dd2I)**
-
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
-
-📺 Adam Livingston
-
-👁️ 6K • 👍 953 • 💬 125 • ⏱️ 20:58 • 9h ago
-
----
-
 **[The Michael Saylor Infinite-Money Glitch… Is Working (bitcoin news)](https://www.youtube.com/watch?v=czasnXXGOc0)**
 
 BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 83 • ⏱️ 9:26 • 6h ago
+👁️ 22K • 👍 2K • 💬 130 • ⏱️ 9:26 • 7h ago
+
+---
+
+**[$1 MILLION BITCOIN FROM STRC - EASILY! $500 MILLION IN ONE DAY?!?!](https://www.youtube.com/watch?v=5aK0EW9dd2I)**
+
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+
+📺 Adam Livingston
+
+👁️ 7K • 👍 1K • 💬 134 • ⏱️ 20:58 • 10h ago
 
 ---
 
@@ -339,37 +339,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Andrei Jikh
 
-👁️ 38K • 👍 1K • 💬 56 • ⏱️ 1:05 • 10h ago
-
----
-
-**[Will The U.S. FREEZE Your Money Next? (Iran&#39;s SHOCKING Bitcoin Warning)](https://www.youtube.com/watch?v=T2rIIlKL4Ao)**
-
-Global tensions are rising, private credit is cracking, and the dollar system just proved it can shut countries out of finance overnight ...
-
-📺 Simply Bitcoin
-
-👁️ 12K • 👍 998 • 💬 140 • ⏱️ 10:41 • 8h ago
-
----
-
-**[Will Global Conflict Send Bitcoin Higher?](https://www.youtube.com/watch?v=oXw7wHEokfY)**
-
-Jeff Park is the Partner & Chief Investment Officer at ProCap BTC. In this conversation, we discuss the idea of “wartime bitcoin,” ...
-
-📺 Anthony Pompliano
-
-👁️ 10K • 👍 539 • 💬 7 • ⏱️ 25:55 • 8h ago
-
----
-
-**[Bitcoin Beat Gold in a War. Here&#39;s the Catch.](https://www.youtube.com/watch?v=L41ImjjK1Pk)**
-
-Dana Love, PhD called Bitcoin's Wall Street capture live on Asharq Bloomberg in January. Ten days of war just ran a live test.
-
-📺 Dana Love, PhD
-
-👁️ 839 • 👍 56 • 💬 6 • ⏱️ 1:26 • 7h ago
+👁️ 44K • 👍 1K • 💬 59 • ⏱️ 1:05 • 11h ago
 
 ---
 
@@ -379,7 +349,17 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 252 • ⏱️ 9:54 • 1d ago
+👁️ 54K • 👍 3K • 💬 253 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[Will The U.S. FREEZE Your Money Next? (Iran&#39;s SHOCKING Bitcoin Warning)](https://www.youtube.com/watch?v=T2rIIlKL4Ao)**
+
+Global tensions are rising, private credit is cracking, and the dollar system just proved it can shut countries out of finance overnight ...
+
+📺 Simply Bitcoin
+
+👁️ 14K • 👍 1K • 💬 130 • ⏱️ 10:41 • 9h ago
 
 ---
 
@@ -389,7 +369,17 @@ Anthony Pompliano, Founder and Chief Executive Officer of Professional Capital M
 
 📺 CNBC Television
 
-👁️ 14K • 👍 160 • 💬 119 • ⏱️ 4:26 • 1d ago
+👁️ 15K • 👍 162 • 💬 120 • ⏱️ 4:26 • 1d ago
+
+---
+
+**[Will Global Conflict Send Bitcoin Higher?](https://www.youtube.com/watch?v=oXw7wHEokfY)**
+
+Jeff Park is the Partner & Chief Investment Officer at ProCap BTC. In this conversation, we discuss the idea of “wartime bitcoin,” ...
+
+📺 Anthony Pompliano
+
+👁️ 12K • 👍 594 • 💬 7 • ⏱️ 25:55 • 9h ago
 
 ---
 
@@ -399,17 +389,27 @@ In this video, we take a step back and look at the structure of a Bitcoin bear m
 
 📺 Benjamin Cowen
 
-👁️ 36K • 👍 3K • 💬 184 • ⏱️ 13:00 • 9h ago
+👁️ 43K • 👍 3K • 💬 195 • ⏱️ 13:00 • 10h ago
 
 ---
 
-**[Trump Signals War Over?🚨Crypto Market Update](https://www.youtube.com/watch?v=wBgniQWkQ-Q)**
+**[Bitcoin Has One Hurdle To Beat Before Going Higher! [Data]](https://www.youtube.com/watch?v=wRFOgohMOhA)**
 
-President Donald Trump, at a press conference at his golf club near Miami, the war against Iran will end “very soon” but not this ...
+Despite rising geopolitical tensions and massive volatility in oil markets, Bitcoin continues to rally. In this episode, Ran breaks ...
 
-📺 Paul Barron Network
+📺 Crypto Banter
 
-👁️ 41K • 👍 2K • 💬 218 • ⏱️ 17:35 • 9h ago
+👁️ 17K • 👍 1K • 💬 19 • ⏱️ 24:07 • 16h ago
+
+---
+
+**[The Biggest Oil SHOCK In History: $2 Trillion DUMPED Overnight! (Is Bitcoin Safe?)](https://www.youtube.com/watch?v=RRvglXdxjBc)**
+
+The global fiat system is flashing red as 20 million barrels of oil vanish offline, triggering the biggest oil supply shock in history and ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 186 • ⏱️ 18:57 • 1d ago
 
 ---
 
