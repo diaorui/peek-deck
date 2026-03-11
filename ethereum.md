@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T13:03:17.014385+00:00'
+updated: '2026-03-11T14:26:40.882550+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 13:03 UTC  
+**Last Updated:** March 11, 2026 at 14:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** -2.5%  
-**30d:** +0.1%  
-**90d:** -34.4%  
-**1y:** +5.8%  
+**24h:** -1.1%  
+**7d:** -0.8%  
+**30d:** +1.7%  
+**90d:** -33.3%  
+**1y:** +7.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
 
-8h ago
+9h ago
 
 ---
 
@@ -96,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
 
-16h ago
+18h ago
 
 ---
 
 **[Starknet proposes STRK20 — private ERC-20 tokens on Ethereum L2](https://www.reddit.com/r/ethereum/comments/1rq2jwl/starknet_proposes_strk20_private_erc20_tokens_on/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -144,7 +144,7 @@ In September 2015, six weeks after mainnet launch, someone deployed three contra
 
 MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
 
-🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 1d ago
+🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, a
 
 Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -164,15 +164,7 @@ CoinDesk • 1h ago
 
 Meanwhile, more than half of XRP’s total supply is sitting at a loss....
 
-Sherwood News • 20h ago
-
----
-
-**[Don't Do This 1 Very Tempting Thing With Your Bitcoin, Ethereum, or XRP Right Now](https://www.fool.com/investing/2026/03/11/dont-do-this-1-very-tempting-thing-with-your-bitco/)**
-
-It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
-
-The Motley Fool • 2h ago
+Sherwood News • 22h ago
 
 ---
 
@@ -180,15 +172,7 @@ The Motley Fool • 2h ago
 
 Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
 
-Yahoo Finance • 23h ago
-
----
-
-**[Bitmine’s Massive Ethereum Bet Deepens As MAVAN Staking Launch Nears](https://finance.yahoo.com/news/bitmine-massive-ethereum-bet-deepens-091211652.html)**
-
-Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -200,11 +184,11 @@ PR Newswire • 2d ago
 
 ---
 
-**[Ethereum USD Funding Rate Turns Negative as Bears Regain Control](https://finance.yahoo.com/news/ethereum-usd-funding-rate-turns-095703032.html)**
+**[Bitmine lifts Ethereum treasury to 4.53 million ETH after adding 60,976 tokens in a week amid ‘mini-crypto winter’](https://www.theblock.co/post/392831/bitmine-lifts-ethereum-treasury-to-4-53-million-eth-after-adding-60976-tokens-in-a-week-amid-mini-crypto-winter)**
 
-Ethereum USD perpetual futures funding rates dipped into negative territory on Tuesday, signaling a decisive shift in dominance to bearish traders. This metric confirms that active short sellers are currently paying longs to keep positions open.The slide into negative funding coincides with renewed institutional skepticism, evidenced by -$210M in net ...
+Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
 
-Yahoo Finance • 3h ago
+The Block • 2d ago
 
 ---
 
@@ -214,15 +198,31 @@ Binance • 3d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqdzyqMAS4LDgtSUkCAC38y8VraCjqo9k84TwsCDSG7Hm8rI7d_0bqAT&gaa_ts=69b16b79&gaa_sig=-2xEWIVB9_mxnHFtkWXwEt1FhTG-FDv-xRSTjKa_YtCx5JRe-5wqmVUc59DORO0ezMMXfr61Eymf26XvW8Q9kA%3D%3D)**
+**[Current price of Ethereum for March 11, 2026](https://fortune.com/article/price-of-ethereum-03-11-2026/)**
 
-Barron's • 16h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
 **[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
 
 Seeking Alpha • 2d ago
+
+---
+
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqd2iY-yDEO2Do9eOzsbm1uUxnQEidXK5TGLyMageQaJH2BbyMWsmGJd&gaa_ts=69b17f06&gaa_sig=_dSUWdpcwtA6CiIEP8ildy_HOWEcx4IivOsyYK0n-Cv8gLDQjpkPQuptpuqAraoVAB11IuB-IAaOp8aUfr0SDA%3D%3D)**
+
+Barron's • 17h ago
+
+---
+
+**[Don't Do This 1 Very Tempting Thing With Your Bitcoin, Ethereum, or XRP Right Now](https://www.fool.com/investing/2026/03/11/dont-do-this-1-very-tempting-thing-with-your-bitco/)**
+
+It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 3K • 💬 14 • ⏱️ 12:32 • 2h ago
+👁️ 3K • 👍 3K • 💬 14 • ⏱️ 12:32 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 53K • 👍 3K • 💬 245 • ⏱️ 21:43 • 23h ago
+👁️ 53K • 👍 3K • 💬 245 • ⏱️ 21:43 • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 The Value Thinker
 
-👁️ 5K • 👍 375 • 💬 58 • ⏱️ 21:31 • 12h ago
+👁️ 5K • 👍 375 • 💬 58 • ⏱️ 21:31 • 13h ago
 
 ---
 
@@ -276,7 +276,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 341 • 💬 123 • ⏱️ 13:04 • 21h ago
+👁️ 6K • 👍 341 • 💬 123 • ⏱️ 13:04 • 22h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 130 • 👍 14 • 💬 3 • ⏱️ 5:20 • 3h ago
+👁️ 130 • 👍 14 • 💬 3 • ⏱️ 5:20 • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN HOLDERS: Don't Let This Trick You!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 5K • 👍 226 • 💬 140 • ⏱️ 16:54 • 13h ago
+👁️ 5K • 👍 226 • 💬 140 • ⏱️ 16:54 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ What if your unused internet connection could earn you passive income? In this p
 
 📺 Blockchain Pill
 
-👁️ 262 • 👍 69 • 💬 10 • ⏱️ 30:24 • 1h ago
+👁️ 262 • 👍 69 • 💬 10 • ⏱️ 30:24 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 125 • 💬 3 • ⏱️ 5:14 • 21h ago
+👁️ 2K • 👍 125 • 💬 3 • ⏱️ 5:14 • 22h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 107 • 💬 3 • ⏱️ 4:40 • 11h ago
+👁️ 1K • 👍 107 • 💬 3 • ⏱️ 4:40 • 12h ago
 
 ---
 
