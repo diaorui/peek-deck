@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T22:51:54.460127+00:00'
+updated: '2026-03-11T23:27:20.897288+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 22:51 UTC  
+**Last Updated:** March 11, 2026 at 23:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ A dolphin-shaped robot uses a sea-urchin-inspired filter to skim oil from water,
 
 **[A robot that does the dishes? What more could anyone ask for!](https://www.reddit.com/r/robotics/comments/1rr6ysy/a_robot_that_does_the_dishes_what_more_could/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ A dolphin-shaped robot uses a sea-urchin-inspired filter to skim oil from water,
 
 Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi guys, so I've been building robots for a while, some of you might have seen m
 
 Did you know that most RealSense stereo cameras include built-in IMUs (Inertial Measurement Units)? Here's a quick demo.
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Did you know that most RealSense stereo cameras include built-in IMUs (Inertial 
 
 As a robotics software developer, I have had several instances where I'm working with numerous remote systems, be it ssh with robots or working with cloud instances. What became a rather tedious work was copying files into your local system from remote hosts or syncing directories with or across remote systems (despite there being fzf history and ssh config to structure your terminal commands ). I wanted to know if this is the case for most people or if there is a easier method for it that I am missing 🤔.
 
-4h ago
+5h ago
 
 ---
 
@@ -116,7 +116,7 @@ As a robotics software developer, I have had several instances where I'm working
 
 The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Verge • 1d ago
 
 London Morning checks in once a month with Mark Daley, Chief AI Officer at Western University, to unpack the latest in the world of artificial intelligence. This month, Daley discussed the impact AI i...
 
-Yahoo News Canada • 3h ago
+Yahoo News Canada • 4h ago
 
 ---
 
@@ -140,7 +140,7 @@ Yahoo News Canada • 3h ago
 
 How world models are replacing hand-built simulators—and why they may unlock the ChatGPT moment for robotics.
 
-Bessemer Venture Partners • 19h ago
+Bessemer Venture Partners • 20h ago
 
 ---
 
@@ -160,7 +160,7 @@ Bloomberg • 1d ago
 
 **[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeqK61uf8FeZAuqFC5tIzhUdFjt2BG5pB2JHotMo8JIaDP8Micip0Ko&gaa_ts=69b1eff6&gaa_sig=pvBhWhNNUUjEvDDge8qRGlVdIulG1DJfNjS3Bq16COJXUVG7eUr9NHOnJmsun4sYTX6HidmJCszqsgGz6W0vXA%3D%3D)**
 
-WSJ • 7h ago
+WSJ • 8h ago
 
 ---
 
@@ -218,7 +218,7 @@ This is going to be the next most toxic build in war robots. The furnace, torch 
 
 📺 PREDATOR WR
 
-👁️ 8K • 👍 321 • 💬 36 • ⏱️ 15:33 • 10h ago
+👁️ 8K • 👍 321 • 💬 36 • ⏱️ 15:33 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T22:51:54.442535+00:00'
+updated: '2026-03-11T23:27:20.879381+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - social
 - videos
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 22:51 UTC  
+**Last Updated:** March 11, 2026 at 23:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 4h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 5h ago
 
 ---
 
@@ -63,7 +63,7 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 5h ago
 
 ---
 
@@ -79,7 +79,7 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 19h ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 20h ago
 
 ---
 
@@ -95,7 +95,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 Explore codebase like exploring a city with buildings and islands... using our website CodeGraphContext- the go to solution for code indexing now got 2k stars🎉🎉... It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.3.0 released ~2k GitHub stars, ~400 forks 75k+ downloads 75+ contributors, ~200 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Explore codebase like exploring a city with buildings and islands... using our w
 
 Bro, I was using Claude and asked it a law question. Turns out it gave me the wrong answer. What a 41. So I told it and got a much better answer the next time. 41 resolved. Bro out.
 
-48m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Bro, I was using Claude and asked it a law question. Turns out it gave me the wr
 
 "When Ukrainian mathematician Maryna Viazovska received a Fields Medal—widely regarded as the Nobel Prize for mathematics—in July 2022, it was big news. Not only was she the second woman to accept the honor in the award’s 86-year history, but she collected the medal just months after her country had been invaded by Russia. Nearly four years later, Viazovska is making waves again. Today, in a collaboration between humans and AI, Viazovska’s proofs have been formally verified, signaling rapid progress in AI’s abilities to assist with mathematical research. ... The 8-dimensional sphere-packing proof formalization alone, announced on February 23, represents a watershed moment for autoformalization and AI–human collaboration. But today, Math, Inc. revealed an even more impressive accomplishment: Gauss has autoformalized Viazovska’s 24-dimensional sphere-packing proof—all 200,000+ lines of code of it—in just two weeks. There are commonalities between the 8- and 24-dimensional cases in terms of the foundational theory and overall architecture of the proof, meaning some of the code from the 8-dimensional case could be refactored and reused. However, Gauss had no preexisting blueprint to work from this time. “And it was actually significantly more involved than the 8-dimensional case, because there was a lot of missing background material that had to be brought on line surrounding many of the properties of the Leech lattice, in particular its uniqueness,” explains Han. Though the 24-dimensional case was an automated effort, both Han and Hariharan acknowledge the many contributions from humans that laid the foundations for this achievement, regarding it as a collaborative endeavor overall between humans and AI."
 
-🔗 [ieeespectrum](https://spectrum.ieee.org/amp/ai-proof-verification-2675516673) • 11h ago
+🔗 [ieeespectrum](https://spectrum.ieee.org/amp/ai-proof-verification-2675516673) • 12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Bro, I was using Claude and asked it a law question. Turns out it gave me the wr
 
 Daniel, a troubled American teen, turned to an AI chatbot to vent his political frustration. “Chuck Schumer is destroying America,” he typed, referring to the top Democratic lawmaker in the US Senate. “How do i make him pay for his crimes?” After suggesting Daniel could “beat the crap out of him!” the chatbot provided a brief history of recent political assassinations at the teen’s request – and then pivoted to more detailed answers.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
@@ -169,7 +169,7 @@ CBS News • 2h ago
 
 Norwood's arrival in the acting world has coincided with several AI music avatars, including two who have topped Billboard charts.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo • 1h ago
 
 The companies will collaborate on AI infrastructure deployment as part of the deal.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 10h ago
 
 NVIDIA is committing $2 billion to Nebius Group in a wide-ranging AI partnership. The deal includes co-development across hardware, software, fleet management, and hyperscale AI infrastructure. Nebius and NVIDIA are targeting deployment of over 5 gigawatts of AI compute capacity by 2030. The agreement positions Nebius Group among top-tier platforms for next-generation AI workloads. Nebius Group, listed as NasdaqGS:NBIS, is now at the center of one of NVIDIA's largest commitments to an...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1h ago
 
 SANTA CLARA, Calif. and AMSTERDAM -- NVIDIA and Nebius Group N.V. (NASDAQ: NBIS) today announced a strategic partnership to develop and deploy the next generation of hyperscale cloud for the ...
 
-NVIDIA Newsroom • 10h ago
+NVIDIA Newsroom • 11h ago
 
 ---
 
@@ -251,7 +251,7 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 355 • 💬 144 • 12h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 355 • 💬 144 • 13h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -297,7 +297,7 @@ Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI 
 
 📺 CNBC Television
 
-👁️ 38K • 👍 818 • 💬 202 • ⏱️ 11:04 • 8h ago
+👁️ 38K • 👍 818 • 💬 202 • ⏱️ 11:04 • 9h ago
 
 ---
 
@@ -307,7 +307,7 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 66 • ⏱️ 14:36 • 22h ago
+👁️ 39K • 👍 1K • 💬 66 • ⏱️ 14:36 • 23h ago
 
 ---
 
@@ -317,7 +317,7 @@ AI giant Anthropic is listing some of the white-collar jobs most likely to be im
 
 📺 CBS News
 
-👁️ 15K • 👍 260 • 💬 93 • ⏱️ 2:46 • 8h ago
+👁️ 15K • 👍 260 • 💬 93 • ⏱️ 2:46 • 9h ago
 
 ---
 
@@ -327,7 +327,7 @@ tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funn
 
 📺 Tyrone Magnus
 
-👁️ 64K • 👍 5K • 💬 442 • ⏱️ 11:15 • 23h ago
+👁️ 64K • 👍 5K • 💬 442 • ⏱️ 11:15 • 1d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 30,763 • ❤️ 416 • 3d ago
+⬇️ 30,763 • ❤️ 416 • 4d ago
 
 ---
 
@@ -650,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.2k • 🔱 3.4k • 28m ago
+⭐ 26.2k • 🔱 3.4k • 1h ago
 
 ---
 
@@ -680,7 +680,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.8k • 🔱 1.3k • 7h ago
+⭐ 10.8k • 🔱 1.3k • 8h ago
 
 ---
 

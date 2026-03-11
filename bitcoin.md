@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T22:51:54.451026+00:00'
+updated: '2026-03-11T23:27:20.887838+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 22:51 UTC  
+**Last Updated:** March 11, 2026 at 23:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5
 
 I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
 
-20h ago
+21h ago
 
 ---
 
@@ -125,7 +125,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I have a teen who is starting a business selling a product she is making. She has already been saving in bitcoin and she wants to accept bitcoin for payments along with other options. But, I’m really hesitant for her to advertise this as the wrench attack is my biggest concern with bitcoin. She wants to encourage other teens to get into bitcoin but so far I have not let her. Just looking for ideas or thoughts.
 
-6h ago
+7h ago
 
 ---
 
@@ -161,7 +161,7 @@ Most traditional crypto cards either shut down or restricted regions in the last
 
 Mati Greenspan said a bitcoin collapse to below $10,000 would require a global liquidity crisis, a nuclear war and the internet to stop working.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 7h ago
 
 Cosmos Health Inc. announced it has purchased $600,000 in Bitcoin as part of its ongoing digital asset treasury strategy.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ Polymarket • 2h ago
 
 This could be your chance to stock up on a couple of quality cryptocurrencies at a discount.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -295,7 +295,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Ask HN: What are the best product landing pages you've stumbled upon?](https://news.ycombinator.com/item?id=47341618)**
 
-⬆️ 1 • 💬 0 • 1h ago
+⬆️ 1 • 💬 0 • 2h ago
 
 ---
 
@@ -303,7 +303,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 S3-native streaming platform. A Kafka alternative with infinite scalability, Kafka-compatible APIs, SQL processing and AI queries. Written in Rust. - gbram1/streamhouse
 
-⬆️ 2 • 💬 0 • 8h ago • [GitHub](https://github.com/gbram1/streamhouse)
+⬆️ 2 • 💬 0 • 9h ago • [GitHub](https://github.com/gbram1/streamhouse)
 
 ---
 
@@ -323,7 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 311 • ⏱️ 9:26 • 23h ago
+👁️ 43K • 👍 2K • 💬 311 • ⏱️ 9:26 • 1d ago
 
 ---
 
