@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T19:57:55.334070+00:00'
+updated: '2026-03-11T20:44:37.471078+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 19:57 UTC  
+**Last Updated:** March 11, 2026 at 20:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +1.0%  
 **7d:** -0.5%  
 **30d:** +2.4%  
 **90d:** -21.9%  
-**1y:** -15.6%  
+**1y:** -15.7%  
 
 ---
 
@@ -85,17 +85,23 @@ I've been moving between countries for about six months now and somewhere around
 
 ---
 
-**[Inheritance money](https://www.reddit.com/r/Bitcoin/comments/1rqywvg/inheritance_money/)**
-
-Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5 years ago, leaving us with a huge house in city centre of a small village. For pas 3,5 years we have been renting this place, that eventually ended up by selling this house. I Just received a significant amount of money. I am in BTC for more that 4 years, but it was just a hundred dollar now, hundred dollar there… I now have a chance to single buy a lot more. I don’t have any questinons, I just have the urge to tell it to someone who does understand BTC. My Family knows I have some, but the dont care what it is and dont want to educate themselves about it. Just wish me luck, that this was not the end and that We are going forward end in the long run to the MOON!
+**[Thus Spoke Satoshi](https://www.reddit.com/r/Bitcoin/comments/1rr0g4w/thus_spoke_satoshi/)**
 
 3h ago
 
 ---
 
-**[Thus Spoke Satoshi](https://www.reddit.com/r/Bitcoin/comments/1rr0g4w/thus_spoke_satoshi/)**
+**[Inheritance money](https://www.reddit.com/r/Bitcoin/comments/1rqywvg/inheritance_money/)**
 
-2h ago
+Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5 years ago, leaving us with a huge house in city centre of a small village. For pas 3,5 years we have been renting this place, that eventually ended up by selling this house. I Just received a significant amount of money. I am in BTC for more that 4 years, but it was just a hundred dollar now, hundred dollar there… I now have a chance to single buy a lot more. I don’t have any questinons, I just have the urge to tell it to someone who does understand BTC. My Family knows I have some, but the dont care what it is and dont want to educate themselves about it. Just wish me luck, that this was not the end and that We are going forward end in the long run to the MOON!
+
+4h ago
+
+---
+
+**[BTC-VS-USD](https://www.reddit.com/r/Bitcoin/comments/1rr34o8/btcvsusd/)**
+
+1h ago
 
 ---
 
@@ -109,7 +115,7 @@ Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5
 
 I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
 
-17h ago
+18h ago
 
 ---
 
@@ -117,7 +123,7 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 I have a teen who is starting a business selling a product she is making. She has already been saving in bitcoin and she wants to accept bitcoin for payments along with other options. But, I’m really hesitant for her to advertise this as the wrench attack is my biggest concern with bitcoin. She wants to encourage other teens to get into bitcoin but so far I have not let her. Just looking for ideas or thoughts.
 
-3h ago
+4h ago
 
 ---
 
@@ -133,13 +139,7 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 Most traditional crypto cards either shut down or restricted regions in the last few years. The ones I've tried recently that integrate with Apple Pay or Google Pay make it pretty seamless to just tap and pay directly from crypto balances. Fees are usually reasonable too, depending on the card type.
 
-11h ago
-
----
-
-**[BTC-VS-USD](https://www.reddit.com/r/Bitcoin/comments/1rr34o8/btcvsusd/)**
-
-49m ago
+12h ago
 
 ---
 
@@ -147,7 +147,7 @@ Most traditional crypto cards either shut down or restricted regions in the last
 
 Ive been trying to run a node on my ThinkPad with Debian installed on it for about a week. I keep getting all sorts of errors. I keep giving those errors to AI and it keeps giving me all sorts of solutions but then after some time another error pops up - this loop has been happening for a week and its so frustrating! Any advice on what to do to actually run your own node? Some of the errors that keep happening: Error: A fetal internal error occurred...Failed to connect best block (bad-txnmrklroot, hashMerkleRoot mismatch) Error: A fetal internal error occurred...Corrupt block found indicating potential hardware failure Error: A fetal internal error occurred...System error while flushing Fatal LevelDB error: Corruption: lock checksum mismatch...
 
-7h ago
+8h ago
 
 ---
 
@@ -155,39 +155,21 @@ Ive been trying to run a node on my ThinkPad with Debian installed on it for abo
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price forecast: Traders bet on bitcoin reclaiming $80,000](https://www.coindesk.com/markets/2026/03/11/bitcoin-to-moon-past-usd80-000-option-degens-bet)**
+**[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
 
-Many traders expect bitcoin to recover toward the $80K level between June and September, Derive said.
-
-CoinDesk • 14h ago
+Bloomberg.com • 23h ago
 
 ---
 
-**[Bitwise CIO reiterates bitcoin price could reach $1 million as he compares it to gold](https://www.theblock.co/post/393109/bitwise-cio-bitcoin-price-1-million-gold)**
+**[Bitcoin To $1.3 Million? Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet'](https://finance.yahoo.com/news/bitcoin-1-3-million-coinbase-173108332.html)**
 
-Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
+Coinbase CEO Brian Armstrong says AI agents will increasingly transact using crypto wallets, while Bitwise Chief Investment Officer Matt Hougan argues institutional adoption could push Bitcoin toward $1.3 million over time. ‘Own A Crypto Wallet' Armstrong said Monday autonomous AI...
 
-The Block • 22h ago
-
----
-
-**[Why Bitcoin Is on a Path to $1 Million Per Coin: Bitwise](https://finance.yahoo.com/news/why-bitcoin-path-1-million-212257811.html)**
-
-Bitcoin can hit a price of $1 million per coin even with "reasonably conservative assumptions," Bitwise CIO Matt Hougan argued. Here's why.
-
-Yahoo Finance • 22h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin Down 44% From Its Peak, But Bitwise Still Sees A Path To $1 Million](https://www.tradingview.com/news/newsbtc:283da87a4094b:0-bitcoin-down-44-from-its-peak-but-bitwise-still-sees-a-path-to-1-million/)**
-
-Central banks aren’t buying it. Billionaire investor Ray Dalio doesn’t trust it as a safe haven. And Bitcoin is trading 44% below its October peak while gold sits near all-time highs.That’s the backdrop against which Bitwise Asset Management’s chief investment officer is making the case that Bitcoi…
-
-TradingView • 5h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773247800)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773253500)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -205,7 +187,7 @@ Investopedia • 1d ago
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -217,17 +199,31 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Bitcoin Down 44% From Its Peak, But Bitwise Still Sees A Path To $1 Million](https://www.tradingview.com/news/newsbtc:283da87a4094b:0-bitcoin-down-44-from-its-peak-but-bitwise-still-sees-a-path-to-1-million/)**
+
+Central banks aren’t buying it. Billionaire investor Ray Dalio doesn’t trust it as a safe haven. And Bitcoin is trading 44% below its October peak while gold sits near all-time highs.That’s the backdrop against which Bitwise Asset Management’s chief investment officer is making the case that Bitcoi…
+
+TradingView • 6h ago
+
+---
+
+**[Elon Musk Suddenly Confirms Imminent Crypto Game-Changer Amid Huge $1 Million Bitcoin Price Prediction](https://www.forbes.com/sites/digital-assets/2026/03/11/elon-musk-suddenly-confirms-imminent-crypto-game-changer-amid-huge-1-million-bitcoin-price-prediction/)**
+
+Forbes • 8h ago
+
+---
+
 **[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
 
 Reuters • 2d ago
 
 ---
 
-**[Why Nigel Farage Is Investing £215K in a Bitcoin Reserves Firm — And What It Means for UK Crypto](https://finance.yahoo.com/news/why-nigel-farage-investing-215k-112012889.html)**
+**[Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC](https://www.coindesk.com/business/2026/03/09/nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc)**
 
-Nigel Farage has invested £215,000 for a 6.3% stake in Stack BTC. The investment reinforces Reform's growing ties with the digital asset sector. Farage’s crypto ...
+Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
 
-Yahoo Finance • 8h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -293,7 +289,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 S3-native streaming platform. A Kafka alternative with infinite scalability, Kafka-compatible APIs, SQL processing and AI queries. Written in Rust. - gbram1/streamhouse
 
-⬆️ 2 • 💬 0 • 5h ago • [GitHub](https://github.com/gbram1/streamhouse)
+⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/gbram1/streamhouse)
 
 ---
 
@@ -321,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 314 • ⏱️ 9:26 • 20h ago
+👁️ 41K • 👍 2K • 💬 314 • ⏱️ 9:26 • 21h ago
 
 ---
 
@@ -331,7 +327,7 @@ Bitcoin #Crypto #Finance Bitcoin is sitting at a critical moment as macro pressu
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 455 • 💬 106 • ⏱️ 35:03 • 6h ago
+👁️ 8K • 👍 455 • 💬 106 • ⏱️ 35:03 • 7h ago
 
 ---
 
@@ -351,7 +347,7 @@ A bank quietly failed, the Federal Reserve is trapped between inflation and debt
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 872 • 💬 102 • ⏱️ 21:13 • 7h ago
+👁️ 10K • 👍 872 • 💬 102 • ⏱️ 21:13 • 8h ago
 
 ---
 
@@ -371,7 +367,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 10K • 👍 1K • 💬 179 • ⏱️ 20:58 • 23h ago
+👁️ 10K • 👍 1K • 💬 179 • ⏱️ 20:58 • 1d ago
 
 ---
 
@@ -399,7 +395,7 @@ In today's video Kyledoops outlines why the market looks like it's setting thing
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 2K • 💬 28 • ⏱️ 23:59 • 12h ago
+👁️ 15K • 👍 2K • 💬 28 • ⏱️ 23:59 • 13h ago
 
 ---
 
@@ -409,7 +405,7 @@ In this video, we take a step back and look at the structure of a Bitcoin bear m
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 5K • 💬 244 • ⏱️ 13:00 • 23h ago
+👁️ 67K • 👍 5K • 💬 244 • ⏱️ 13:00 • 1d ago
 
 ---
 

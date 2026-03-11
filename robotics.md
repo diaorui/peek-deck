@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T19:57:55.343313+00:00'
+updated: '2026-03-11T20:44:37.480196+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 19:57 UTC  
+**Last Updated:** March 11, 2026 at 20:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
 
-1h ago
+2h ago
 
 ---
 
@@ -74,7 +74,15 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
 
-9h ago
+10h ago
+
+---
+
+**[RealSense IMU Demo](https://www.reddit.com/r/robotics/comments/1rr3l5l/realsense_imu_demo/)**
+
+Did you know that most RealSense stereo cameras include built-in IMUs (Inertial Measurement Units)? Here's a quick demo.
+
+1h ago
 
 ---
 
@@ -82,7 +90,7 @@ Hi guys, so I've been building robots for a while, some of you might have seen m
 
 As a robotics software developer, I have had several instances where I'm working with numerous remote systems, be it ssh with robots or working with cloud instances. What became a rather tedious work was copying files into your local system from remote hosts or syncing directories with or across remote systems (despite there being fzf history and ssh config to structure your terminal commands ). I wanted to know if this is the case for most people or if there is a easier method for it that I am missing 🤔.
 
-1h ago
+2h ago
 
 ---
 
@@ -90,21 +98,13 @@ As a robotics software developer, I have had several instances where I'm working
 
 I remember when they talked about robotics, they mentioned Japan as the global reference. But now that I look at the news, I don't see Japan having more advanced robotics technology than other countries, I'd even consider it to be several steps behind if you look at the advances in humanoid and service robotics. Or were the ones saying Japan was a leader in robotics just weebs?
 
-2h ago
+3h ago
 
 ---
 
 **[Python - (Turtle), Pen Plotting Machine](https://www.reddit.com/r/robotics/comments/1rquabt/python_turtle_pen_plotting_machine/)**
 
 🔗 [a.co](https://a.co/d/0jbGo04e) • 6h ago
-
----
-
-**[Share a fantastic job](https://www.reddit.com/r/robotics/comments/1rq1e5q/share_a_fantastic_job/)**
-
-Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
-
-1d ago
 
 ---
 
@@ -116,7 +116,7 @@ Look at this interesting robotic grasping project, accomplished with the assista
 
 This robo-chef can take over your meal prep.
 
-The Verge • 22h ago
+The Verge • 23h ago
 
 ---
 
@@ -126,25 +126,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcqJAgZLuUTXqUxJ93CEuywVcca9IYms5JgZACTVL8O3M9G-3vtBA0z&gaa_ts=69b1c4ed&gaa_sig=Zyfb1oiPQjBBVnwSHLDFqt5_-Tw4--8foB8zW2lW6toYseNlszJBBCvc8V7VTKT2vp-UQJcmMtqCdM-t3JtLUQ%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeXXBiwrPUzxZTgJQEe69aDFtBaLSMVA5cI9WzE1E5vKb2rQJDhRyuE&gaa_ts=69b1d7a1&gaa_sig=YY_zKGfFVFZNvz1mb4-7t5asf4J7KnVHfltGi_wVRK5EHfGIXHDqwDn6lVCSXAGQ7JnH4YgWXPseWhsOm3i2Rg%3D%3D)**
 
-WSJ • 4h ago
-
----
-
-**[Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)**
-
-The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
-
-TechCrunch • 3h ago
+WSJ • 5h ago
 
 ---
 
-**[Rivian CEO launches robotics startup with $500M funding round: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-ceo-scaringe-launches-robotics-startup-mind-20260311/)**
+**[Rhoda AI Exits Stealth with $450 Million Series A to Bring Robots Out of the Lab and Into the Real World](https://www.businesswire.com/news/home/20260310715139/en/Rhoda-AI-Exits-Stealth-with-%24450-Million-Series-A-to-Bring-Robots-Out-of-the-Lab-and-Into-the-Real-World)**
 
-Mind Robotics, a startup founded by Rivian CEO RJ Scaringe, has raised $500 million from investors including Accel and Andreessen Horowitz, according to a report from The Wall Street Journal.
+Rhoda AI today announced its public launch after 18 months in stealth, unveiling FutureVision, a new approach to robotic intelligence based on video-predicti...
 
-Crain's Chicago Business • 4h ago
+Business Wire • 1d ago
 
 ---
 
@@ -152,7 +144,7 @@ Crain's Chicago Business • 4h ago
 
 Exceeded Q4 and full year 2025 expectations with fourth quarter revenue up roughly 400% year over year to $0.9 million, and full year revenue of $2.7 million, above prior guidance of $2.5 million.Scaled the fleet to 2,000 deployed robots by year end, expanding Serve’s operating footprint to 20 cities across 6 major metropolitan areasExpanded and diversified the platform through new market launches, the addition of DoorDash alongside Uber Eats, growth to 4,500+ merchant partners, and four strateg
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -168,21 +160,31 @@ MIT Technology Review • 1d ago
 
 Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
 
-About Amazon • 19h ago
+About Amazon • 20h ago
 
 ---
 
-**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
+**[Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)**
 
-ABB • 2d ago
+The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
+
+TechCrunch • 4h ago
 
 ---
 
-**[AI and robotics are the recycling industry’s latest bet on profitability](https://qz.com/ai-robotics-recycling-automation)**
+**[Nvidia and ABB launch partnership for AI-enabled autonomous robots](https://www.ft.com/content/c77d99a4-8d75-4f34-8a71-6b1361ebb9b9)**
 
-Recycling facilities are deploying AI and robotics to automate waste sorting, improve data accuracy, and fix the difficult economics of global trash.
+Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
 
-qz.com • 2h ago
+Financial Times • 2d ago
+
+---
+
+**[ABB Robotics president Marc Segura on physical AI partnership with NVIDIA](https://www.foxbusiness.com/video/6390634538112)**
+
+ABB Robotics President Marc Segura explains physical AI and discusses the company's partnership with NVIDIA on 'Varney &  Co.'
+
+Fox Business • 2d ago
 
 ---
 
@@ -206,7 +208,7 @@ This is going to be the next most toxic build in war robots. The furnace, torch 
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 284 • 💬 35 • ⏱️ 15:33 • 7h ago
+👁️ 6K • 👍 284 • 💬 35 • ⏱️ 15:33 • 8h ago
 
 ---
 

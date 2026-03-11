@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T19:57:55.340092+00:00'
+updated: '2026-03-11T20:44:37.477007+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 19:57 UTC  
+**Last Updated:** March 11, 2026 at 20:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,063.51
+### $2,073.10
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -0.0%  
-**30d:** +2.6%  
-**90d:** -32.8%  
-**1y:** +8.4%  
+**24h:** +1.9%  
+**7d:** -0.2%  
+**30d:** +2.4%  
+**90d:** -32.9%  
+**1y:** +8.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
 
-23h ago
+1d ago
 
 ---
 
@@ -156,15 +156,7 @@ MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, a
 
 Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
 
-CoinDesk • 15h ago
-
----
-
-**[Traders bet XRP’s price will keep rising as it outpaces ethereum and solana](https://sherwood.news/crypto/traders-bet-xrps-price-will-keep-rising-as-it-outpaces-ethereum-and-solana/)**
-
-Meanwhile, more than half of XRP’s total supply is sitting at a loss....
-
-Sherwood News • 1d ago
+CoinDesk • 16h ago
 
 ---
 
@@ -198,17 +190,17 @@ Binance • 4d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqeuLVy2DRzy5YfGunlJYsqXBbpGth1rccn6FX1SuuRfgCOB-urCSF5K&gaa_ts=69b1c4ec&gaa_sig=Q7a8bYLNwYch6_X5yX9BQofUiHy2GYkCu16nkgBlh-qxiR25XrxIYndQTquXbJQz3YFbigpKgUVM74bEb3Tngg%3D%3D)**
+**[Traders bet XRP’s price will keep rising as it outpaces ethereum and solana](https://sherwood.news/crypto/traders-bet-xrps-price-will-keep-rising-as-it-outpaces-ethereum-and-solana/)**
 
-Barron's • 23h ago
+Meanwhile, more than half of XRP’s total supply is sitting at a loss....
+
+Sherwood News • 1d ago
 
 ---
 
-**[Current price of Ethereum for March 11, 2026](https://fortune.com/article/price-of-ethereum-03-11-2026/)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfiDpIz62w-rA2rNQwlWvAKsCb79hN3h093uW7IxkGthoGhAx9Vqgat&gaa_ts=69b1d79f&gaa_sig=Jtdy-_VOAQOA_q7VMEhtwfhWrYOKjA2blkJBiysZEO5VGEItVMlsZL7dNmIa1VneqGOFAfEw8G7TkSAX8NWMOg%3D%3D)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 5h ago
+Barron's • 1d ago
 
 ---
 
@@ -222,7 +214,15 @@ Seeking Alpha • 2d ago
 
 Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
 
-TradingView • 8h ago
+TradingView • 9h ago
+
+---
+
+**[Current price of Ethereum for March 11, 2026](https://fortune.com/article/price-of-ethereum-03-11-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 4K • 👍 191 • 💬 47 • ⏱️ 56:53 • 9h ago
+👁️ 4K • 👍 191 • 💬 47 • ⏱️ 56:53 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 100 • 👍 6 • 💬 2 • ⏱️ 6:18 • 22m ago
+👁️ 100 • 👍 6 • 💬 2 • ⏱️ 6:18 • 1h ago
 
 ---
 
@@ -326,7 +326,7 @@ Research Bitcoin Hyper - https://99bitcoins.care/b_BTCHyper99BTC - Download the 
 
 📺 99Bitcoins
 
-👁️ 117 • 👍 5 • 💬 121 • ⏱️ 7:45 • 5h ago
+👁️ 117 • 👍 5 • 💬 121 • ⏱️ 7:45 • 6h ago
 
 ---
 
