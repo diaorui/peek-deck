@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T14:26:40.882550+00:00'
+updated: '2026-03-11T15:13:03.733635+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 14:26 UTC  
+**Last Updated:** March 11, 2026 at 15:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $244.20B
+**Market Cap:** $248.10B
 Rank #2
 
 **Circulating Supply:** 120,692,002 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.1%
+-58.5%
 
 **All-Time Low:** $0.43
-+467213.7%
++474117.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
 
-9h ago
+10h ago
 
 ---
 
@@ -102,7 +102,7 @@ I was recently auditing some smart contracts for a side project, and it struck m
 
 **[Starknet proposes STRK20 — private ERC-20 tokens on Ethereum L2](https://www.reddit.com/r/ethereum/comments/1rq2jwl/starknet_proposes_strk20_private_erc20_tokens_on/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -120,7 +120,7 @@ This is a mandatory upgrade for all users running any prior version. All prior L
 
 Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec...3d6b, deployed in August 2015, just weeks after mainnet launch. The entire contract is one function: set(string). It stores a single string in public storage. That is it. What is interesting is the bytecode. It was compiled with solc v0.1.1, the earliest Solidity compiler that exists. I was able to reproduce the exact bytecode byte-for-byte using that compiler. The output matches the on-chain code perfectly. Contracts from this era are fascinating because Solidity was still being invented. No events, no modifiers, no constructors as we know them. Just raw storage writes. The compiler output is so small you can read the opcodes manually. The deployer (0x8674...94e2) deployed 18 contracts in the same week, all in the 52,000-55,000 block range. Looks like someone was experimenting heavily with what Solidity could do. If anyone is interested in early Ethereum archaeology, ethereumhistory.com is documenting contracts from this period with verified source code and compiler proofs. Edit: here is the contract page on Ethereum History.
 
-1d ago
+2d ago
 
 ---
 
@@ -202,7 +202,7 @@ Binance • 3d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -214,7 +214,7 @@ Seeking Alpha • 2d ago
 
 **[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqd2iY-yDEO2Do9eOzsbm1uUxnQEidXK5TGLyMageQaJH2BbyMWsmGJd&gaa_ts=69b17f06&gaa_sig=_dSUWdpcwtA6CiIEP8ildy_HOWEcx4IivOsyYK0n-Cv8gLDQjpkPQuptpuqAraoVAB11IuB-IAaOp8aUfr0SDA%3D%3D)**
 
-Barron's • 17h ago
+Barron's • 18h ago
 
 ---
 
@@ -222,7 +222,7 @@ Barron's • 17h ago
 
 It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 3K • 💬 14 • ⏱️ 12:32 • 3h ago
+👁️ 6K • 👍 3K • 💬 38 • ⏱️ 12:32 • 4h ago
 
 ---
 
@@ -246,7 +246,17 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 53K • 👍 3K • 💬 245 • ⏱️ 21:43 • 1d ago
+👁️ 55K • 👍 3K • 💬 251 • ⏱️ 21:43 • 1d ago
+
+---
+
+**[Why ETH Might Be Near a Major Turning Point](https://www.youtube.com/watch?v=0JFtYBvMjNw)**
+
+GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum underperformed this cycle, and investors ...
+
+📺 Bankless
+
+👁️ 1K • 👍 109 • 💬 37 • ⏱️ 56:53 • 4h ago
 
 ---
 
@@ -256,7 +266,7 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 The Value Thinker
 
-👁️ 5K • 👍 375 • 💬 58 • ⏱️ 21:31 • 13h ago
+👁️ 6K • 👍 406 • 💬 60 • ⏱️ 21:31 • 14h ago
 
 ---
 
@@ -270,13 +280,13 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 ---
 
-**[HOW IS NO ONE TALKING ABOUT WHAT ETHEREUM IS DOING??](https://www.youtube.com/watch?v=fjQpNM5997A)**
+**[My Trading Plan for BTC, ETH, SOL &amp; NEAR (Next Major Moves)](https://www.youtube.com/watch?v=ebElwWgYhQY)**
 
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
+Bitcoin has been stuck in the same range for over a month and many traders are confused about what comes next. In this video I ...
 
-📺 Tyler Hill Crypto
+📺 Chart Champions
 
-👁️ 6K • 👍 341 • 💬 123 • ⏱️ 13:04 • 22h ago
+👁️ 752 • 👍 73 • 💬 6 • ⏱️ 19:32 • 32m ago
 
 ---
 
@@ -286,17 +296,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 130 • 👍 14 • 💬 3 • ⏱️ 5:20 • 4h ago
+👁️ 171 • 👍 15 • 💬 3 • ⏱️ 5:20 • 5h ago
 
 ---
 
-**[BITCOIN HOLDERS: Don&#39;t Let This Trick You!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-KkkZehCl-A)**
+**[HOW IS NO ONE TALKING ABOUT WHAT ETHEREUM IS DOING??](https://www.youtube.com/watch?v=fjQpNM5997A)**
 
-BITCOIN HOLDERS: Don't Let This Trick You!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
 
-📺 Crypto World
+📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 226 • 💬 140 • ⏱️ 16:54 • 14h ago
+👁️ 6K • 👍 342 • 💬 126 • ⏱️ 13:04 • 23h ago
+
+---
+
+**[ALTCOINS Just Hit a 5-Year Reset - ETH ADA SUI Coiled Tighter Than EVER](https://www.youtube.com/watch?v=84LvmqT0Uqs)**
+
+Prepare for the cycle with our risk models to accumulate, plan exits, and stay ahead! Free Trial app.cryptocapitalventure.ai ...
+
+📺 Dan Gambardello
+
+👁️ 11K • 👍 794 • 💬 253 • ⏱️ 11:26 • 22h ago
 
 ---
 
@@ -306,27 +326,7 @@ What if your unused internet connection could earn you passive income? In this p
 
 📺 Blockchain Pill
 
-👁️ 262 • 👍 69 • 💬 10 • ⏱️ 30:24 • 3h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UWGu6HtU4X4)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 125 • 💬 3 • ⏱️ 5:14 • 22h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=8kqQXRinWqA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 107 • 💬 3 • ⏱️ 4:40 • 12h ago
+👁️ 536 • 👍 114 • 💬 18 • ⏱️ 30:24 • 4h ago
 
 ---
 

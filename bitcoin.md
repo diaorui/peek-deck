@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T14:26:40.876527+00:00'
+updated: '2026-03-11T15:13:03.727684+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 14:26 UTC  
+**Last Updated:** March 11, 2026 at 15:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1386.98B
+**Market Cap:** $1407.38B
 Rank #1
 
-**Circulating Supply:** 20,000,815 BTC
+**Circulating Supply:** 20,000,871 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.0%
+-44.2%
 
 **All-Time Low:** $67.81
-+102172.5%
++103647.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
 
-12h ago
+13h ago
 
 ---
 
@@ -95,7 +95,7 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 18h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 19h ago
 
 ---
 
@@ -111,7 +111,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Most traditional crypto cards either shut down or restricted regions in the last few years. The ones I've tried recently that integrate with Apple Pay or Google Pay make it pretty seamless to just tap and pay directly from crypto balances. Fees are usually reasonable too, depending on the card type.
 
-5h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ Most traditional crypto cards either shut down or restricted regions in the last
 
 I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to the moon any time now and getting our hopes up only for it to yoyo and continue the slow downward trend. If we're getting a new upsurge it'll be towards the end of the year or the beginning of 2027 anyway. Lets just enjoy the stacking season while we got it.
 
-15h ago
+16h ago
 
 ---
 
@@ -127,7 +127,7 @@ I'm not talking about stacking. I'm talking about expecting Bitcoin to shoot to 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ Ive been trying to run a node on my ThinkPad with Debian installed on it for abo
 
 The price of bitcoin was trading at $69,500 following the news, down 1.2% over the past 24 hours.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 1h ago
 
 Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 17h ago
 
 Strive also added to its bitcoin holdings and boosted the dividend on its own SATA preferred stock.
 
-CoinDesk • 19m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 19m ago
 
 GSR managing director of asset management Andy Baehr joins Market Catalysts host Julie Hyman to discuss bitcoin's (BTC-USD) steady climb back up following a rough start to 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -199,13 +199,13 @@ Yahoo Finance • 1d ago
 
 It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
 **[Bitcoin Falls Below $70,000. Why Ethereum and XRP Prices Slipped Too.](https://www.barrons.com/articles/bitcoin-price-today-xrp-eth-cryptocurrencies-dca75923?gaa_at=eafs&gaa_n=AWEtsqd_BHMoBeN2HMbIZDaytk-tvnjPvoZSiENtRKoxfS5VPnzcJEqkGppS&gaa_ts=69b17f04&gaa_sig=MtkZR8tM3OqNjaveSws9WzNWFkVJIorJhlwE2y6Q8m66y2TgeV85SZMNMep8bzwVYxaObbFCxAv4Rl2102o6rw%3D%3D)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
@@ -223,7 +223,7 @@ Investor's Business Daily • 1d ago
 
 **[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
 
-Bloomberg • 17h ago
+Bloomberg • 18h ago
 
 ---
 
@@ -235,7 +235,7 @@ Bloomberg • 17h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 16 • 💬 0 • 19h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 16 • 💬 0 • 20h ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -259,7 +259,7 @@ No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin p
 
 Complete operating system for Bitcoiners
 
-⬆️ 2 • 💬 1 • 6d ago • [opacore.com](https://opacore.com)
+⬆️ 2 • 💬 1 • 7d ago • [opacore.com](https://opacore.com)
 
 ---
 
@@ -281,7 +281,7 @@ The Bitcoin network is nearing 20 million mined coins, and while the last coin w
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -289,7 +289,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screenshots, ratings and reviews, user tips and more games like Bitcoin Only Tracker.
 
-⬆️ 1 • 💬 0 • 5d ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
+⬆️ 1 • 💬 0 • 6d ago • [App Store](https://apps.apple.com/no/app/bitcoin-only-tracker/id6759337610)
 
 ---
 
@@ -297,7 +297,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 S3-native streaming platform. A Kafka alternative with infinite scalability, Kafka-compatible APIs, SQL processing and AI queries. Written in Rust. - gbram1/streamhouse
 
-⬆️ 1 • 💬 0 • 11m ago • [GitHub](https://github.com/gbram1/streamhouse)
+⬆️ 1 • 💬 0 • 58m ago • [GitHub](https://github.com/gbram1/streamhouse)
 
 ---
 
@@ -317,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 145 • ⏱️ 9:26 • 15h ago
+👁️ 36K • 👍 2K • 💬 193 • ⏱️ 9:26 • 15h ago
 
 ---
 
@@ -327,7 +327,75 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 8K • 👍 1K • 💬 144 • ⏱️ 20:58 • 18h ago
+👁️ 9K • 👍 1K • 💬 146 • ⏱️ 20:58 • 19h ago
+
+---
+
+**[Did The FED Just Try to Hide a Banking Crisis?! (Bitcoin Knows)](https://www.youtube.com/watch?v=LKbDRJiqNtM)**
+
+A bank quietly failed, the Federal Reserve is trapped between inflation and debt, and $10 trillion in U.S. debt is rolling over at ...
+
+📺 Simply Bitcoin
+
+👁️ 3K • 👍 477 • 💬 102 • ⏱️ 21:13 • 2h ago
+
+---
+
+**[Will The U.S. FREEZE Your Money Next? (Iran&#39;s SHOCKING Bitcoin Warning)](https://www.youtube.com/watch?v=T2rIIlKL4Ao)**
+
+Global tensions are rising, private credit is cracking, and the dollar system just proved it can shut countries out of finance overnight ...
+
+📺 Simply Bitcoin
+
+👁️ 17K • 👍 1K • 💬 166 • ⏱️ 10:41 • 18h ago
+
+---
+
+**[Bitcoin: The Structure of a Bear Market](https://www.youtube.com/watch?v=xH1eaS-Gkfg)**
+
+In this video, we take a step back and look at the structure of a Bitcoin bear market. Bear markets rarely unfold as a single dramatic ...
+
+📺 Benjamin Cowen
+
+👁️ 60K • 👍 4K • 💬 232 • ⏱️ 13:00 • 18h ago
+
+---
+
+**[Bitcoin Supply Shock Intensifies As Banks Prepare To Sue The U.S. Gov Over Crypto!](https://www.youtube.com/watch?v=Zqjhq1mLPvA)**
+
+Bitcoin #Crypto #Finance Bitcoin's supply shock is intensifying as the network crosses 20 million coins mined, leaving just 1 ...
+
+📺 The Wolf Of All Streets
+
+👁️ 17K • 👍 757 • 💬 148 • ⏱️ 54:43 • 1d ago
+
+---
+
+**[BITCOIN SURGE: The $85,000 &quot;Smart Money&quot; Target Explained 🚀 And How To Use Retail To Bank Millions](https://www.youtube.com/watch?v=wX_lbyHqfwk)**
+
+The crowd is completely lost in their emotions, but the charts are crystal clear. In today's crypto market update, Chief Market ...
+
+📺 Gareth Soloway
+
+👁️ 55K • 👍 3K • 💬 469 • ⏱️ 10:35 • 22h ago
+
+---
+
+**[Bitcoin’s Biggest Problem](https://www.youtube.com/watch?v=uyAVgFzW3YA)**
+
+📺 Andrei Jikh
+
+👁️ 58K • 👍 2K • 💬 70 • ⏱️ 1:05 • 20h ago
+
+---
+
+**[Will Global Conflict Send Bitcoin Higher?](https://www.youtube.com/watch?v=oXw7wHEokfY)**
+
+Jeff Park is the Partner & Chief Investment Officer at ProCap BTC. In this conversation, we discuss the idea of “wartime bitcoin,” ...
+
+📺 Anthony Pompliano
+
+👁️ 16K • 👍 755 • 💬 7 • ⏱️ 25:55 • 18h ago
 
 ---
 
@@ -338,74 +406,6 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 📺 Altcoin Daily
 
 👁️ 56K • 👍 3K • 💬 251 • ⏱️ 9:54 • 1d ago
-
----
-
-**[BITCOIN SURGE: The $85,000 &quot;Smart Money&quot; Target Explained 🚀 And How To Use Retail To Bank Millions](https://www.youtube.com/watch?v=wX_lbyHqfwk)**
-
-The crowd is completely lost in their emotions, but the charts are crystal clear. In today's crypto market update, Chief Market ...
-
-📺 Gareth Soloway
-
-👁️ 53K • 👍 3K • 💬 421 • ⏱️ 10:35 • 21h ago
-
----
-
-**[Will The U.S. FREEZE Your Money Next? (Iran&#39;s SHOCKING Bitcoin Warning)](https://www.youtube.com/watch?v=T2rIIlKL4Ao)**
-
-Global tensions are rising, private credit is cracking, and the dollar system just proved it can shut countries out of finance overnight ...
-
-📺 Simply Bitcoin
-
-👁️ 17K • 👍 1K • 💬 132 • ⏱️ 10:41 • 17h ago
-
----
-
-**[Bitcoin’s Biggest Problem](https://www.youtube.com/watch?v=uyAVgFzW3YA)**
-
-📺 Andrei Jikh
-
-👁️ 53K • 👍 2K • 💬 63 • ⏱️ 1:05 • 19h ago
-
----
-
-**[Bitcoin Supply Shock Intensifies As Banks Prepare To Sue The U.S. Gov Over Crypto!](https://www.youtube.com/watch?v=Zqjhq1mLPvA)**
-
-Bitcoin #Crypto #Finance Bitcoin's supply shock is intensifying as the network crosses 20 million coins mined, leaving just 1 ...
-
-📺 The Wolf Of All Streets
-
-👁️ 17K • 👍 753 • 💬 148 • ⏱️ 54:43 • 1d ago
-
----
-
-**[OIL AND BITCOIN — THE EXACT TRADES YOU NEED TODAY...](https://www.youtube.com/watch?v=7ZUObFyjTFY)**
-
-Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA ...
-
-📺 100XClub
-
-👁️ 4K • 👍 613 • 💬 96 • ⏱️ 12:03 • 4h ago
-
----
-
-**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=9uAVH56iJwk)**
-
-After discussing it for weeks, Bitcoin had the rally into early March that was then subsequently sold off, just like prior midterm year ...
-
-📺 Benjamin Cowen
-
-👁️ 92K • 👍 6K • 💬 360 • ⏱️ 11:22 • 2d ago
-
----
-
-**[Bitcoin: The Structure of a Bear Market](https://www.youtube.com/watch?v=xH1eaS-Gkfg)**
-
-In this video, we take a step back and look at the structure of a Bitcoin bear market. Bear markets rarely unfold as a single dramatic ...
-
-📺 Benjamin Cowen
-
-👁️ 57K • 👍 4K • 💬 218 • ⏱️ 13:00 • 18h ago
 
 ---
 

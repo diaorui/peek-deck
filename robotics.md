@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T14:26:40.885757+00:00'
+updated: '2026-03-11T15:13:03.736831+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 14:26 UTC  
+**Last Updated:** March 11, 2026 at 15:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hi guys, so I've been building robots for a while, some of you might have seen m
 
 BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineering for Disneyland theme parks. Inspiration for walking movements was taken from the waddle of a duck, creating a stable walk while still keeping the appearance fun, as with Star Wars droids.
 
-21h ago
+22h ago
 
 ---
 
@@ -52,13 +52,13 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-36m ago
+1h ago
 
 ---
 
 **[Python - (Turtle), Pen Plotting Machine](https://www.reddit.com/r/robotics/comments/1rquabt/python_turtle_pen_plotting_machine/)**
 
-🔗 [a.co](https://a.co/d/0jbGo04e) • 36m ago
+🔗 [a.co](https://a.co/d/0jbGo04e) • 1h ago
 
 ---
 
@@ -82,7 +82,7 @@ This video shows the AGV in action that follows a magnetic line, with markers al
 
 Hi all, I am getting into the hobby and I build this cute robot which I currently running from usb-c cable going directly to the ESP32. I want to add batteries for it but I am looking for the best (and safe way) to go. Few things I want: Chargeable via USB-C Chargeable while powered on (I believe this may be a bit sketchy)\ I use lipo 3s (because I already have it and I may want more Vs in the future projects) I hope this drawing makes sense to you, but I want to clarify if it is a good plan? (Just to clarify 4 thinner wires are for balancing and thicker ones for the main load. I would use lipo 3s with XT30 connection). Thanks https://preview.redd.it/0no1gx2a5dog1.png?width=1504&format=png&auto=webp&s=a096d1ae4ace9ad7303706de897e116cf9b7b1de
 
-7h ago
+8h ago
 
 ---
 
@@ -90,13 +90,13 @@ Hi all, I am getting into the hobby and I build this cute robot which I currentl
 
 Erlebt live spannende Wettbewerbe, innovative Robotik, packende Matches und faszinierende Technologien aus der Welt des RoboCup. Heute starten die Teams in d...
 
-🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 8h ago
+🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 9h ago
 
 ---
 
 **[Figure's Helix 2 - Full Body Autonomy Video](https://www.reddit.com/r/robotics/comments/1rq45b6/figures_helix_2_full_body_autonomy_video/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -128,7 +128,7 @@ Bloomberg • 1d ago
 
 Rhoda AI today announced its public launch after 18 months in stealth, unveiling FutureVision, a new approach to robotic intelligence based on video-predicti...
 
-Business Wire • 23h ago
+Business Wire • 1d ago
 
 ---
 
@@ -144,13 +144,13 @@ Yahoo Finance • 2d ago
 
 Exceeded Q4 and full year 2025 expectations with fourth quarter revenue up roughly 400% year over year to $0.9 million, and full year revenue of $2.7 million, above prior guidance of $2.5 million.Scaled the fleet to 2,000 deployed robots by year end, expanding Serve’s operating footprint to 20 cities across 6 major metropolitan areasExpanded and diversified the platform through new market launches, the addition of DoorDash alongside Uber Eats, growth to 4,500+ merchant partners, and four strateg
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Austin's Icon selling its 3D-printed home tech to outside builders](https://amp.axios.com/3d-printing-company-icon-expands-austin-92c68e09-5977-4307-8efc-ae1fa26cba54.html)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -166,7 +166,7 @@ MIT Technology Review • 1d ago
 
 The AW 2026 expo in Seoul highlights a pivotal shift as humanoid robots move from research labs to industrial applications.
 
-EE Times • 14h ago
+EE Times • 15h ago
 
 ---
 
@@ -182,43 +182,13 @@ TechCrunch • 1d ago
 
 Germany will unveil a huge robot gym where humanoids train with humans to learn everyday tasks and generate valuable AI training data.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
-
-Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
-
-📺 AI Revolution
-
-👁️ 26K • 👍 851 • 💬 62 • ⏱️ 14:35 • 6d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN
-
-👁️ 261K • 👍 3K • 💬 406 • ⏱️ 29:41 • 5d ago
-
----
-
-**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
-
-China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
-
-📺 TechFrontierNow
-
-👁️ 62K • 👍 400 • 💬 91 • ⏱️ 9:26 • 6d ago
-
----
 
 **[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
 
@@ -230,13 +200,53 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
+**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
+
+In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
+
+📺 Tech Talkies
+
+👁️ 19K • 👍 681 • 💬 62 • ⏱️ 4:51 • 4d ago
+
+---
+
+**[Shocking Light-Powered Robot Runs Without Batteries &amp; Cyborg Cockroach](https://www.youtube.com/watch?v=2_igeW1d8RA)**
+
+Robotics just entered a very strange new phase. Scientists built a tiny robot that runs purely on light with no batteries, processors, ...
+
+📺 AI Revolution
+
+👁️ 27K • 👍 863 • 💬 63 • ⏱️ 14:35 • 6d ago
+
+---
+
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
+
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
+
+📺 CGTN
+
+👁️ 262K • 👍 3K • 💬 413 • ⏱️ 29:41 • 5d ago
+
+---
+
+**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
+
+China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
+
+📺 TechFrontierNow
+
+👁️ 62K • 👍 403 • 💬 91 • ⏱️ 9:26 • 6d ago
+
+---
+
 **[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
 
 Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
 
 📺 Smokin' Silicon
 
-👁️ 40K • 👍 1K • 💬 108 • ⏱️ 10:52 • 3d ago
+👁️ 41K • 👍 1K • 💬 108 • ⏱️ 10:52 • 3d ago
 
 ---
 
@@ -246,7 +256,27 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 361K • 👍 503 • 💬 21 • ⏱️ 3:35:12 • 3d ago
+👁️ 433K • 👍 528 • 💬 21 • ⏱️ 3:35:12 • 3d ago
+
+---
+
+**[This is what snow removal might look like in 2050](https://www.youtube.com/watch?v=4bD0QFVZntM)**
+
+REFLEX ROBOTICS snow-shoveling humanoid https://www.youtube.com/@reflexrobotics For copyright matters, please get in ...
+
+📺 Unstoppable Gadgets
+
+👁️ 27K • 👍 618 • 💬 26 • ⏱️ 0:20 • 18h ago
+
+---
+
+**[China’s $16K Robot Changes the Future of Work](https://www.youtube.com/watch?v=KFzEWvTSmn4)**
+
+Everyone thought AI would replace office workers first. But the real disruption is happening in the physical world. Humanoid robots ...
+
+📺 By 2050
+
+👁️ 113K • 👍 2K • 💬 126 • ⏱️ 0:55 • 5d ago
 
 ---
 
@@ -256,37 +286,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 10K • 👍 80 • 💬 22 • ⏱️ 3:48 • 1d ago
-
----
-
-**[Inside the World’s Largest AI-Driven Brahman Bull Leather Factory | Robotic Jacket Production](https://www.youtube.com/watch?v=okP5YczyK7M)**
-
-Discover the full high-tech transformation of Brahman bull leather into premium luxury jackets in this exclusive AI-driven factory ...
-
-📺 NeoForge
-
-👁️ 4K • 👍 8 • ⏱️ 11:42 • 22h ago
-
----
-
-**[My Year Living with a Robot | Emily Kate Genatowski | TED](https://www.youtube.com/watch?v=rIg-Zt7bFHY)**
-
-Imagine a robot moving into your home. How would it change your daily life? Historian Emily Kate Genatowski shares five ...
-
-📺 TED
-
-👁️ 23K • 👍 526 • 💬 53 • ⏱️ 13:51 • 4d ago
-
----
-
-**[NEW Sniper Titan WAYMAKER Gameplay [War Robots]](https://www.youtube.com/watch?v=MzbhADGfBAI)**
-
-War Robots Gameplay: NEW Sniper Titan WAYMAKER is coming to WR. Here's my new YouTube Channel @ManniRAID ...
-
-📺 Manni-Gaming
-
-👁️ 26K • 👍 1K • 💬 221 • ⏱️ 15:49 • 4d ago
+👁️ 11K • 👍 83 • 💬 25 • ⏱️ 3:48 • 1d ago
 
 ---
 
