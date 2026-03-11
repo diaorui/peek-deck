@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T07:44:35.532272+00:00'
+updated: '2026-03-11T08:43:31.731698+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 07:44 UTC  
+**Last Updated:** March 11, 2026 at 08:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic is suing the Trump administration, asking federal courts to reverse the Pentagon’s decision designating the artificial intelligence company a “ supply chain risk ” over its refusal to allow unrestricted military use of its technology.
 
-🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 10h ago
+🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 4h ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ More than 30 OpenAI and Google DeepMind employees filed a court brief defending 
 
 Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 12h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 In the early days of the internet we were in a similar situation. Modems, early Linux systems, the first websites. Technically primitive by today’s standards, but something important had appeared: information could suddenly move freely across a network. That was a novum by this time and not many understood it yet. At the time the real question was not about the technology itself. The question was much simpler. What can we actually build with this network?? Today we seem to be entering a similar phase again. Large language models and related systems allow machines to interact with knowledge: documents, code, conversations, procedures. The tools are still very rough. Many experiments will disappear. Much of what we see today will not survive. But that is exactly what makes this moment interesting. The real challenge ahead is not the models themselves. It is the integration of knowledge and machines into real systems and organisations. In that sense, this feels less like a finished technology wave and more like the early internet again. A lot of experimentation. A lot of curiosity. And many things we have not imagined yet. And a lot of fun 😄
 
-14h ago
+15h ago
 
 ---
 
@@ -73,7 +73,7 @@ In the early days of the internet we were in a similar situation. Modems, early 
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news/startup-replaces-40000-salesforce-contract-with-1200-crm-built-with-lovable) • 1h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news/startup-replaces-40000-salesforce-contract-with-1200-crm-built-with-lovable) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ India's Leading AI & Data Science Media Platform
 
 Forget chat interfaces. Autonomous AI agents are taking over the terminal. Learn the architecture, security risks, and why your zsh history is now valuable training data. https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier) • 7h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier) • 8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Forget chat interfaces. Autonomous AI agents are taking over the terminal. Learn
 
 Today we're introducing Code Review, which dispatches a team of agents on every PR to catch the bugs that skims miss, built for depth, not speed. It's the system we run on nearly every PR at Anthropic. Now in research preview for Team and Enterprise.
 
-🔗 [Claude](https://claude.com/blog/code-review) • 9h ago
+🔗 [Claude](https://claude.com/blog/code-review) • 10h ago
 
 ---
 
@@ -109,11 +109,11 @@ VCs are betting that artificial intelligence will disrupt nearly every industry 
 
 ---
 
-**[Open Source Alternative to NotebookLM](https://www.reddit.com/r/artificial/comments/1rpn1mf/open_source_alternative_to_notebooklm/)**
+**[What would the popping of the AI bubble actually mean for AI as a technology?](https://www.reddit.com/r/artificial/comments/1rpyfrm/what_would_the_popping_of_the_ai_bubble_actually/)**
 
-For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Hybrid retrieval (semantic + full-text) with cited answers Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Slide creation support Multilingual podcast support Video creation agent Desktop & Mobile app GitHub: https://github.com/MODSetter/SurfSense
+I understand the reasons why the AI industry is a bubble and agree that it will surely pop. But so many people treat AI as if, after the pop, we won't have to deal with it anymore. On the consumer scale, it's now integrated into every platform. On the global scale, it's now a major part of "defense" strategies. The dot-com bubble didn't mean the death of the Internet. The housing bubble didn't mean mortgages went away. And we still grow tulips. What does the bubble popping mean for the tech itself?
 
-1d ago
+18h ago
 
 ---
 
@@ -123,13 +123,7 @@ For those of you who aren't familiar with SurfSense, SurfSense is an open-source
 
 **[Exclusive: Meta acquires Moltbook, the social network for AI agents](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)**
 
-Axios • 16h ago
-
----
-
-**[Meta Acquires Moltbook, the Social Network Just for A.I. Bots](https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html)**
-
-The New York Times • 13h ago
+Axios • 18h ago
 
 ---
 
@@ -137,7 +131,15 @@ The New York Times • 13h ago
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-BBC • 1h ago
+BBC • 2h ago
+
+---
+
+**[Meta just bought the social network for AI bots everyone’s been talking about](https://www.cnn.com/2026/03/10/tech/meta-moltbook-bots-social-media)**
+
+Meta, the company behind some of the world’s most popular social media platforms, just scooped up a new site – for bots.
+
+CNN • 14h ago
 
 ---
 
@@ -149,35 +151,33 @@ WIRED • 1d ago
 
 ---
 
-**[Powering AI: Europe switches on its first microgrid-connected data center](https://www.cnbc.com/2026/03/11/data-center-microgrid-power-ireland-ai-boom-avk-pure-dc.html)**
+**[Amazon Starts Record Eight-Part Euro Bond Sale to Fund AI Goals](https://www.bloomberg.com/news/articles/2026-03-11/amazon-starts-record-eight-part-euro-bond-sale-to-fund-ai-goals)**
 
-AVK and Pure Data Centers’ microgrid facility in Ireland could mark the region’s first step toward a privately powered ecosystem.
-
-CNBC • 1h ago
+Bloomberg • 24m ago
 
 ---
 
-**[Fake explosions, fake missiles, fake troops: AI videos and images of Iran war spread widely on social media](https://www.cnn.com/2026/03/11/politics/fake-ai-images-videos-iran-war)**
+**[Canal+ Unveils Sky English-Language Drama Partnership, OpenAI and Google Cloud AI Deals](https://www.hollywoodreporter.com/business/business-news/canal-plus-sky-english-drama-openai-google-cloud-ai-deals-1236527214/)**
 
-Fake videos and images depicting fake attacks and fake troops have racked up tens of millions of views on social media platforms in the nearly two weeks since the Iran war began.
+"We begin 2026 from a position of strength, clarity and confidence," says Canal+ CEO Maxime Saada. "We now move into the execution phase of our strategy."
 
-CNN • 1h ago
-
----
-
-**[How an AI tool is helping doctors prescribe antidepressants](https://www.bbc.com/news/articles/cy4w10y8703o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D)**
-
-This must be no more than 100 characters and in present tense.
-
-BBC • 1h ago
+The Hollywood Reporter • 34m ago
 
 ---
 
-**[‘I wish I could push ChatGPT off a cliff’: professors scramble to save critical thinking in an age of AI](https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning)**
+**[South Korea Presidential aide says AI cooperation with UAE could accelerate after conflict](https://www.yahoo.com/news/articles/south-korea-presidential-aide-says-075107657.html)**
 
-As AI has upended the way students learn, academics worry about the future of the humanities - and society at large
+South Korea's senior presidential secretary for AI, Ha Jung-woo, said on Wednesday that artificial ‌intelligence cooperation with the United Arab Emirates could accelerate ‌after the Middle East confl...
 
-The Guardian • 9h ago
+Yahoo • 52m ago
+
+---
+
+**[‘Happy (and safe) shooting!’ AI chatbots helped teen users plan violence in hundreds of tests](https://www.cnn.com/2026/03/11/americas/ai-chatbots-help-teen-test-users-plan-violence-tests-intl-invs)**
+
+Daniel, a troubled American teen, turned to an AI chatbot to vent his political frustration. “Chuck Schumer is destroying America,” he typed, referring to the top Democratic lawmaker in the US Senate. “How do i make him pay for his crimes?” After suggesting Daniel could “beat the crap out of him!” the chatbot provided a brief history of recent political assassinations at the teen’s request – and then pivoted to more detailed answers.
+
+CNN • 4h ago
 
 ---
 
@@ -185,13 +185,15 @@ The Guardian • 9h ago
 
 They should teach kids to have agency over the technology, not just how to use it.
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
-**[China Moves to Curb OpenClaw AI Use at Banks, State Agencies](https://www.bloomberg.com/news/articles/2026-03-11/china-moves-to-limit-use-of-openclaw-ai-at-banks-government-agencies)**
+**[These diseases were thought to be incurable. Now AI is unlocking new treatments](https://www.bbc.com/future/article/20260309-ai-is-finding-treatments-for-incurable-diseases)**
 
-Bloomberg.com • 3h ago
+Artificial intelligence is rapidly inventing new drugs for diseases from Parkinson's disease and antibiotic-resistant superbugs to rare lung conditions.
+
+BBC • 22h ago
 
 ---
 
@@ -199,19 +201,19 @@ Bloomberg.com • 3h ago
 
 ## HackerNews: "ai"
 
-**[Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://news.ycombinator.com/item?id=47310160)**
-
-Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
-
-⬆️ 557 • 💬 572 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
-
----
-
 **[After outages, Amazon to make senior engineers sign off on AI-assisted changes](https://news.ycombinator.com/item?id=47323017)**
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 532 • 💬 426 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 558 • 💬 443 • 19h ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+
+---
+
+**[Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://news.ycombinator.com/item?id=47310160)**
+
+Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
+
+⬆️ 557 • 💬 576 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -219,7 +221,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 420 • 💬 353 • 22h ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 450 • 💬 369 • 23h ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -227,7 +229,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
 
-⬆️ 409 • 💬 2 • 20h ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+⬆️ 410 • 💬 2 • 21h ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
 
 ---
 
@@ -235,13 +237,13 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
 
-⬆️ 314 • 💬 239 • 16h ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+⬆️ 323 • 💬 250 • 17h ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 
 ---
 
 **[Amazon is holding a mandatory meeting about AI breaking its systems](https://news.ycombinator.com/item?id=47324211)**
 
-⬆️ 285 • 💬 10 • 16h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
+⬆️ 287 • 💬 10 • 17h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
 
 ---
 
@@ -249,7 +251,7 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 203 • 💬 124 • 14h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+⬆️ 207 • 💬 128 • 15h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
@@ -265,7 +267,7 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.
 
-⬆️ 166 • 💬 154 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+⬆️ 166 • 💬 159 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 
 ---
 
@@ -273,7 +275,7 @@ A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly 
 
 Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-AI assisted changes’
 
-⬆️ 109 • 💬 87 • 1d ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
+⬆️ 110 • 💬 88 • 1d ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
 
 ---
 
@@ -287,7 +289,7 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 11K • 👍 568 • 💬 23 • ⏱️ 14:36 • 7h ago
+👁️ 11K • 👍 568 • 💬 23 • ⏱️ 14:36 • 8h ago
 
 ---
 
@@ -297,7 +299,7 @@ Try Higgsfield's Soul Cinema to generate cinematic videos ...
 
 📺 Malva AI
 
-👁️ 11K • 👍 441 • 💬 112 • ⏱️ 8:12 • 19h ago
+👁️ 11K • 👍 441 • 💬 112 • ⏱️ 8:12 • 20h ago
 
 ---
 
@@ -307,7 +309,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 69K • 👍 4K • 💬 649 • ⏱️ 7:09 • 15h ago
+👁️ 69K • 👍 4K • 💬 649 • ⏱️ 7:09 • 16h ago
 
 ---
 
@@ -317,7 +319,7 @@ The engineers building artificial intelligence don't fully understand how it wor
 
 📺 Peter McCormack
 
-👁️ 22K • 👍 719 • 💬 226 • ⏱️ 1:33:56 • 12h ago
+👁️ 22K • 👍 719 • 💬 226 • ⏱️ 1:33:56 • 13h ago
 
 ---
 
@@ -327,7 +329,7 @@ tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funn
 
 📺 Tyrone Magnus
 
-👁️ 29K • 👍 3K • 💬 264 • ⏱️ 11:15 • 8h ago
+👁️ 29K • 👍 3K • 💬 264 • ⏱️ 11:15 • 9h ago
 
 ---
 
@@ -337,7 +339,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 55K • 👍 2K • 💬 439 • ⏱️ 20:52 • 17h ago
+👁️ 55K • 👍 2K • 💬 439 • ⏱️ 20:52 • 18h ago
 
 ---
 
@@ -357,7 +359,7 @@ Abundance Institute Head of AI Policy Neil Chilson discusses Anthropic's lawsuit
 
 📺 Fox Business Clips
 
-👁️ 50K • 👍 1K • 💬 495 • ⏱️ 9:14 • 18h ago
+👁️ 50K • 👍 1K • 💬 495 • ⏱️ 9:14 • 19h ago
 
 ---
 
@@ -377,7 +379,7 @@ What has turned into a Tsunami of A.I. job losses has caused many to fear that t
 
 📺 9 News Australia
 
-👁️ 35K • 👍 276 • 💬 124 • ⏱️ 2:36 • 1d ago
+👁️ 35K • 👍 276 • 💬 124 • ⏱️ 2:36 • 2d ago
 
 ---
 
@@ -441,7 +443,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 2,048 • ❤️ 211 • 20h ago
+⬇️ 2,048 • ❤️ 211 • 21h ago
 
 ---
 
@@ -501,7 +503,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 4,221 • ❤️ 144 • 21h ago
+⬇️ 4,221 • ❤️ 144 • 22h ago
 
 ---
 
@@ -649,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.0k • 🔱 3.3k • 1h ago
+⭐ 26.0k • 🔱 3.3k • 2h ago
 
 ---
 
@@ -659,7 +661,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 24.0k • 🔱 3.1k • 2h ago
+⭐ 24.0k • 🔱 3.1k • 3h ago
 
 ---
 
@@ -669,7 +671,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 18.5k • 🔱 782 • 9h ago
+⭐ 18.5k • 🔱 782 • 10h ago
 
 ---
 
@@ -679,7 +681,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.6k • 🔱 1.2k • 3h ago
+⭐ 10.6k • 🔱 1.2k • 4h ago
 
 ---
 
@@ -719,7 +721,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 725 • 5h ago
+⭐ 6.2k • 🔱 725 • 6h ago
 
 ---
 
@@ -729,7 +731,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 428 • 1h ago
+⭐ 3.8k • 🔱 428 • 2h ago
 
 ---
 
