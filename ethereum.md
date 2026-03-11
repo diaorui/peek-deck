@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-10T23:32:28.699474+00:00'
+updated: '2026-03-11T02:05:01.145219+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 10, 2026 at 23:32 UTC  
+**Last Updated:** March 11, 2026 at 02:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,036.00
+### $2,032.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** -4.6%  
-**30d:** -3.5%  
-**90d:** -37.2%  
-**1y:** +5.1%  
+**24h:** +0.5%  
+**7d:** -1.7%  
+**30d:** +0.8%  
+**90d:** -33.9%  
+**1y:** +6.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $244.64B
+**Market Cap:** $245.83B
 Rank #2
 
-**Circulating Supply:** 120,692,025 ETH
+**Circulating Supply:** 120,692,002 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.0%
+-58.8%
 
 **All-Time Low:** $0.43
-+468038.2%
++470333.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
 
-3h ago
+5h ago
 
 ---
 
 **[Starknet proposes STRK20 — private ERC-20 tokens on Ethereum L2](https://www.reddit.com/r/ethereum/comments/1rq2jwl/starknet_proposes_strk20_private_erc20_tokens_on/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Summary
 ⚠️ Lighthouse v8.1.2 is a high-priority patch release with further security-critical fixes atop v8.1.1.
 This is a mandatory upgrade for all users running any prior version. All prior Lighth...
 
-🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 23h ago
+🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 1d ago
 
 ---
 
@@ -156,15 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Meanwhile, more than half of XRP’s total supply is sitting at a loss....
 
-Sherwood News • 7h ago
-
----
-
-**[Ethereum Rises to $2,000 as Tom Lee's BitMine Tops Up $9 Billion ETH Treasury](https://decrypt.co/360405/ethereum-rises-2000-tom-lee-bitmine-9-billion-treasury)**
-
-The price of Ethereum is up 4% over the last day, rebounding after a weekend slump under $2,000 as BitMine reveals its latest ETH buy.
-
-Decrypt • 1d ago
+Sherwood News • 9h ago
 
 ---
 
@@ -172,21 +164,21 @@ Decrypt • 1d ago
 
 Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that its platform interface is now complete, and the presale crossed $7.88 milli...
 
-markets.businessinsider.com • 55m ago
+markets.businessinsider.com • 3h ago
 
 ---
 
-**[Bitcoin & Ethereum Price Outlook: What to Expect in the Next 48 Hours](https://www.binance.com/en/square/post/300147426812626)**
+**[Crypto News: Pepeto Update Exchange Bridge Solving Ethereum Blockchain as XRP Price Prediction Targets $42](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-update-exchange-bridge-solving-ethereum-blockchain-as-xrp-price-prediction-targets-42-1035916594)**
 
-Binance • 4h ago
+Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto released a major update on exchange bridge update that eliminates the gas fees and failed ...
+
+markets.businessinsider.com • 1h ago
 
 ---
 
-**[Crypto News: Ethereum Based Crypto Pepeto Updates Exchange Complete With Binance Listing and Bull Run Approach Follow Dogecoin Success](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-updates-exchange-complete-with-binance-listing-and-bull-run-approach-follow-dogecoin-success-1035916074)**
+**[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
-Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that exchange development reached 94% and the Binance listing is accelerating as...
-
-markets.businessinsider.com • 2h ago
+Binance • 3d ago
 
 ---
 
@@ -194,21 +186,7 @@ markets.businessinsider.com • 2h ago
 
 Bitcoin, Ethereum, and XRP are all trading in the green this week. On the surface, the crypto market looks calm. But under that calm, traders are waiting for one of the biggest macro events of the month: the U.S. CPI (inflation) report. Economists expect inflation to edge up to about ...
 
-Yahoo Finance • 22h ago
-
----
-
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfDYbqa1pDKEvIPTftHcKysQBH2vlSoD_5qRXxnfVtoIq_RCiUdheQa&gaa_ts=69b0a531&gaa_sig=pKS97TUxpznuZE-x3B_clGFVs_4ZdkfEFcMCb7p_qPwednCatgylMmHymgUzNiUAnRrdFeUqivkLvAfh6IEfYQ%3D%3D)**
-
-Barron's • 3h ago
-
----
-
-**[Vitalik Buterin pushes ‘DVT-Lite’ to make Ethereum validator setup easier](https://www.coindesk.com/tech/2026/03/10/vitalik-buterin-pushes-dvt-lite-to-make-ethereum-validator-setup-easier)**
-
-In a post on X, the Ethereum co-founder said that the EF is testing a new method for running validators that could make staking infrastructure significantly easier for institutions holding large amounts of ether.
-
-CoinDesk • 8h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -224,7 +202,29 @@ PR Newswire • 1d ago
 
 Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
+
+---
+
+**[Bitmine lifts Ethereum treasury to 4.53 million ETH after adding 60,976 tokens in a week amid ‘mini-crypto winter’](https://www.theblock.co/post/392831/bitmine-lifts-ethereum-treasury-to-4-53-million-eth-after-adding-60976-tokens-in-a-week-amid-mini-crypto-winter)**
+
+Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfXHOHjyxJV7ovOrlMK9mwB0H4erCdj9VsY7QxZeEVoXIu535i4VVBo&gaa_ts=69b0d13b&gaa_sig=_N5HY7LqfdaCbjmTbG6jXdlehA-wvGhaHKgN1fct1mD8zQdaubyR5F2P0DWxgWiZCGppo9ds2w_7h9vQSwld8w%3D%3D)**
+
+Barron's • 5h ago
+
+---
+
+**[Global insurance broker Aon tests stablecoin payments on Ethereum, Solana with Coinbase, Paxos](https://www.coindesk.com/business/2026/03/09/global-insurance-broker-aon-tests-stablecoin-payments-with-coinbase-paxos)**
+
+The firm used USDC on Ethereum and PayPal USD on Solana for insurance premium payments, testing how stablecoins could reshape settlements.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 35K • 👍 2K • 💬 203 • ⏱️ 21:43 • 9h ago
+👁️ 41K • 👍 2K • 💬 204 • ⏱️ 21:43 • 12h ago
 
 ---
 
@@ -248,7 +248,17 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 285 • 💬 41 • ⏱️ 13:04 • 8h ago
+👁️ 5K • 👍 306 • 💬 108 • ⏱️ 13:04 • 10h ago
+
+---
+
+**[BITCOIN HOLDERS: Don&#39;t Let This Trick You!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-KkkZehCl-A)**
+
+BITCOIN HOLDERS: Don't Let This Trick You!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 120 • 💬 147 • ⏱️ 16:54 • 2h ago
 
 ---
 
@@ -258,7 +268,17 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 247 • ⏱️ 9:54 • 1d ago
+👁️ 53K • 👍 3K • 💬 251 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[BMNR’s Ethereum Bet: The Infrastructure Trust Layer for AI Agents](https://www.youtube.com/watch?v=gMkvBwrfPIA)**
+
+In this video we provide an update on BMNR balance and why it could be positioning for the next phase of the digital economy: AI ...
+
+📺 The Value Thinker
+
+👁️ 847 • 👍 105 • 💬 26 • ⏱️ 21:31 • 1h ago
 
 ---
 
@@ -268,27 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 3 • ⏱️ 5:14 • 7h ago
-
----
-
-**[This is FALLING RAPIDLY for ETH. Should we be concerned? (BMNR Stock)](https://www.youtube.com/watch?v=WfO0K8zmO-A)**
-
-Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
-
-📺 Crossroads
-
-👁️ 7K • 👍 306 • 💬 43 • ⏱️ 18:25 • 23h ago
-
----
-
-**[ETHEREUM ABOUT TO BREAKOUT?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xTat0Edjfco)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 251 • 👍 9 • ⏱️ 5:18 • 13h ago
+👁️ 2K • 👍 121 • 💬 3 • ⏱️ 5:14 • 10h ago
 
 ---
 
@@ -298,37 +298,37 @@ In diesem Video nehmen wir Ethereum in einem ausführlichen technischen Deep Div
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 6K • 👍 744 • 💬 26 • ⏱️ 19:12 • 6h ago
+👁️ 8K • 👍 798 • 💬 26 • ⏱️ 19:12 • 8h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=iUcsXE5JWns)**
+**[This is FALLING RAPIDLY for ETH. Should we be concerned? (BMNR Stock)](https://www.youtube.com/watch?v=WfO0K8zmO-A)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
 
-📺 More Crypto Online
+📺 Crossroads
 
-👁️ 2K • 👍 142 • 💬 6 • ⏱️ 4:08 • 1d ago
-
----
-
-**[Tom Lee - &quot;Largest Crypto Reset In HISTORY&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=43KC2TkH8hk)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 9K • 👍 180 • 💬 119 • ⏱️ 15:06 • 2d ago
+👁️ 7K • 👍 317 • 💬 51 • ⏱️ 18:25 • 1d ago
 
 ---
 
-**[ETHEREUM TAKES ON $ICP &amp; CYCLE OVER](https://www.youtube.com/watch?v=mBwCW8XNUEw)**
+**[ETHEREUM ABOUT TO BREAKOUT?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xTat0Edjfco)**
 
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 The Cryptoviser
+📺 Cilinix Crypto
 
-👁️ 781 • 👍 70 • 💬 7 • ⏱️ 22:18 • 10h ago
+👁️ 285 • 👍 10 • ⏱️ 5:18 • 16h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=6pMOlGD1bnM)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 208 • 👍 38 • ⏱️ 5:14 • 2h ago
 
 ---
 
