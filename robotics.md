@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T09:43:29.981044+00:00'
+updated: '2026-03-11T10:40:56.137288+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 09:43 UTC  
+**Last Updated:** March 11, 2026 at 10:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Built this from scrap metal](https://www.reddit.com/r/robotics/comments/1rqjuv7/built_this_from_scrap_metal/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 As some people saying that if humans rely too much on a robot, then they may lose the ability to have real-world connections. They said that AI and robots does not need sense of aliveness because they are just tech, they supposed to just give you solutions or results. Does aliveness and companion actually come from sustained presence rather than emotional fluctuation?
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ As some people saying that if humans rely too much on a robot, then they may los
 
 Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ Look at this interesting robotic grasping project, accomplished with the assista
 
 Hi all, I am getting into the hobby and I build this cute robot which I currently running from usb-c cable going directly to the ESP32. I want to add batteries for it but I am looking for the best (and safe way) to go. Few things I want: Chargeable via USB-C Chargeable while powered on (I believe this may be a bit sketchy)\ I use lipo 3s (because I already have it and I may want more Vs in the future projects) I hope this drawing makes sense to you, but I want to clarify if it is a good plan? (Just to clarify 4 thinner wires are for balancing and thicker ones for the main load. I would use lipo 3s with XT30 connection). Thanks https://preview.redd.it/0no1gx2a5dog1.png?width=1504&format=png&auto=webp&s=a096d1ae4ace9ad7303706de897e116cf9b7b1de
 
-2h ago
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi all, I am getting into the hobby and I build this cute robot which I currentl
 
 Erlebt live spannende Wettbewerbe, innovative Robotik, packende Matches und faszinierende Technologien aus der Welt des RoboCup. Heute starten die Teams in d...
 
-🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 4h ago
+🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 5h ago
 
 ---
 
@@ -82,13 +82,13 @@ Erlebt live spannende Wettbewerbe, innovative Robotik, packende Matches und fasz
 
 This video shows the AGV in action that follows a magnetic line, with markers along the track telling the robot which branch to take at forks, where to slow down and where to stop for charging. I realise that line following feels old-school in this age of laser guidance and humanoid robots. But, hey, it costs less, and is super accurate. On the right side are the ceiling view of the track, and of the supervisory PC screen. Every 200 ms the robot publishes battery voltage, operating state, and distance traveled. The robot position is reconstructed from encoder odometry and displayed by a small Python program (which still needs some optimization to make the motion smoother on screen). The robot controller communicates with the magnetic sensor and motor controller over CAN bus, while WiFi/MQTT is used for supervision and command. The navigation control loop runs every 10 ms locally. MQTT overhead has no impact on real-time execution. MQTT topics are custom for now, but I may migrate to VDA5050 in a future version. I also wrote a short architecture note describing the system and software structure. I'll be happy to share, if anyone is interested. Curious to hear any thoughts or suggestions.
 
-19h ago
+20h ago
 
 ---
 
 **[Figure's Helix 2 - Full Body Autonomy Video](https://www.reddit.com/r/robotics/comments/1rq45b6/figures_helix_2_full_body_autonomy_video/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +112,7 @@ I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. 
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -120,7 +120,7 @@ Bloomberg • 19h ago
 
 This robo-chef can take over your meal prep.
 
-The Verge • 12h ago
+The Verge • 13h ago
 
 ---
 
@@ -128,7 +128,15 @@ The Verge • 12h ago
 
 Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
 
-MIT Technology Review • 19h ago
+MIT Technology Review • 20h ago
+
+---
+
+**[Humanoid Robots Exit Labs: Mapping the Technical Path to Embodied AI at AW 2026](https://www.eetimes.com/humanoid-robots-exit-labs-mapping-the-technical-path-to-embodied-ai-at-aw-2026/)**
+
+The AW 2026 expo in Seoul highlights a pivotal shift as humanoid robots move from research labs to industrial applications.
+
+EE Times • 10h ago
 
 ---
 
@@ -136,47 +144,15 @@ MIT Technology Review • 19h ago
 
 Factorial Energy secures strategic investment to accelerate expansion into high-growth markets, including drones and mobile robotics.
 
-Business Wire • 20h ago
+Business Wire • 21h ago
 
 ---
 
-**[Teradyne sues Chinese cobot maker over UR software](https://www.therobotreport.com/teradyne-sues-chinese-cobot-marker-over-ur-software/)**
+**[Nvidia and ABB launch partnership for AI-enabled autonomous robots](https://www.ft.com/content/c77d99a4-8d75-4f34-8a71-6b1361ebb9b9)**
 
-Teradyne Robotics has “irrefutable evidence” of Chinese robot company  Elite  Robots for copyright infringement of Universal Robots’ software.
+Industrial robots that can be trained in virtual conditions are being trialled by Foxconn
 
-The Robot Report • 14h ago
-
----
-
-**[Tech stocks today: Anthropic sues Defense Department over ban, OpenAI's robotics leader resigns](https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-sues-defense-department-over-ban-openais-robotics-leader-resigns-152722809.html)**
-
-Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.
-
-Yahoo Finance • 18h ago
-
----
-
-**[AI-powered | WellSpan York Hospital unveils full-service robotic kitchen](https://www.wgal.com/article/wellspan-health-launches-ai-powered-robotic-dining-system/70685843)**
-
-The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
-
-WGAL • 20h ago
-
----
-
-**[Networked for War: Lessons from Ukraine’s Ground Robots](https://mwi.westpoint.edu/networked-for-war-lessons-from-ukraines-ground-robots/)**
-
-Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
-
-Modern War Institute - • 2d ago
-
----
-
-**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
-
-A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
-
-NPR • 2d ago
+Financial Times • 1d ago
 
 ---
 
@@ -185,6 +161,28 @@ NPR • 2d ago
 ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor.
 
 NVIDIA Blog • 1d ago
+
+---
+
+**[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
+
+ABB • 1d ago
+
+---
+
+**[Teradyne sues Chinese cobot maker over UR software](https://www.therobotreport.com/teradyne-sues-chinese-cobot-marker-over-ur-software/)**
+
+Teradyne Robotics has “irrefutable evidence” of Chinese robot company  Elite  Robots for copyright infringement of Universal Robots’ software.
+
+The Robot Report • 15h ago
+
+---
+
+**[AI-powered | WellSpan York Hospital unveils full-service robotic kitchen](https://www.wgal.com/article/wellspan-health-launches-ai-powered-robotic-dining-system/70685843)**
+
+The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
+
+WGAL • 21h ago
 
 ---
 
@@ -226,7 +224,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 Robot Julie 
 
-👁️ 1K • 👍 5 • 💬 2 • ⏱️ 0:22 • 8h ago
+👁️ 1K • 👍 5 • 💬 2 • ⏱️ 0:22 • 9h ago
 
 ---
 
