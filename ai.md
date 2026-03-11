@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T22:28:28.353952+00:00'
+updated: '2026-03-11T22:51:54.442535+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 22:28 UTC  
+**Last Updated:** March 11, 2026 at 22:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 7h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 8h ago
 
 ---
 
 **[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ Explore codebase like exploring a city with buildings and islands... using our w
 
 Bro, I was using Claude and asked it a law question. Turns out it gave me the wrong answer. What a 41. So I told it and got a much better answer the next time. 41 resolved. Bro out.
 
-24m ago
+48m ago
 
 ---
 
@@ -131,7 +131,7 @@ CNN • 18h ago
 
 Users posing as would-be school shooters find AI tools offer detailed advice on how to perpetrate violence
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -139,13 +139,13 @@ The Guardian • 5h ago
 
 A new study found eight of the 10 major AI chatbots helped fake teen accounts plan school shootings, assassinations, and bombings.
 
-Yahoo • 54m ago
+Yahoo • 1h ago
 
 ---
 
 **[The Billion-Dollar AI Startup That Was Founded by Teenagers](https://www.wsj.com/business/ai-startup-aaru-young-founders-35da7f87?gaa_at=eafs&gaa_n=AWEtsqcP65EDUWDWVJU2FUpf7zbqBB7u8rNRdDdR6y9Cp4SijA2IJ-Eo7Thr&gaa_ts=69b1eff0&gaa_sig=gZX6NoBf_oHUZB4A9hVZrKCN9QAqRsZeyVeLA2kEY4PxmtJO8mxQ1QTBQKvxNDE_L2BLSoywdwiLJQHPeHt8Fw%3D%3D)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
@@ -153,7 +153,7 @@ WSJ • 14h ago
 
 The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ WIRED • 1h ago
 
 An explosion in artificial intelligence data centers and cloud computing is shrinking the supply of memory chips, which is having a major impact on the price consumers pay for everyday tech. CNET editor-in-chief David Katzmaier joins CBS News to discuss.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ NVIDIA Newsroom • 10h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 1890 • 💬 737 • 2h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 1890 • 💬 737 • 3h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -287,7 +287,7 @@ Way more thoughts, our curated newsletter, and free books (until we run out) →
 
 📺 AI In Context
 
-👁️ 80K • 👍 7K • 💬 978 • ⏱️ 43:55 • 23h ago
+👁️ 80K • 👍 7K • 💬 978 • ⏱️ 43:55 • 1d ago
 
 ---
 
@@ -367,7 +367,7 @@ Sam Altman, CEO of OpenAI, discusses the rapid evolution of artificial intellige
 
 📺 DWS News
 
-👁️ 1K • 👍 29 • 💬 8 • ⏱️ 35:56 • 2h ago
+👁️ 1K • 👍 29 • 💬 8 • ⏱️ 35:56 • 3h ago
 
 ---
 
@@ -441,7 +441,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 254 • 6h ago
+⬇️ 746 • ❤️ 254 • 7h ago
 
 ---
 
@@ -501,7 +501,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 48,417 • ❤️ 141 • 19h ago
+⬇️ 48,417 • ❤️ 141 • 20h ago
 
 ---
 
@@ -650,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.2k • 🔱 3.4k • 4m ago
+⭐ 26.2k • 🔱 3.4k • 28m ago
 
 ---
 
@@ -660,7 +660,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 26.0k • 🔱 3.3k • 16h ago
+⭐ 26.0k • 🔱 3.3k • 17h ago
 
 ---
 
@@ -690,7 +690,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.4k • 🔱 605 • 12h ago
+⭐ 8.4k • 🔱 605 • 13h ago
 
 ---
 
@@ -720,7 +720,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 725 • 7h ago
+⭐ 6.2k • 🔱 725 • 8h ago
 
 ---
 
@@ -730,7 +730,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 434 • 5h ago
+⭐ 3.8k • 🔱 434 • 6h ago
 
 ---
 
@@ -740,7 +740,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 657 • 11h ago
+⭐ 3.3k • 🔱 657 • 12h ago
 
 ---
 

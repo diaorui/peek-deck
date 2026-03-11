@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T22:28:28.371431+00:00'
+updated: '2026-03-11T22:51:54.460127+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 22:28 UTC  
+**Last Updated:** March 11, 2026 at 22:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ The MSG gripper uses FOC stepper motors without gearboxes, enabling precise cont
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 A dolphin-shaped robot uses a sea-urchin-inspired filter to skim oil from water, offering a safer way to respond to spills.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/inside-the-dolphin-inspired-robot-designed-to-clean-oil-spills) • 55m ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/inside-the-dolphin-inspired-robot-designed-to-clean-oil-spills) • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ Business Wire • 1d ago
 
 Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
 
-About Amazon • 21h ago
+About Amazon • 22h ago
 
 ---
 
@@ -278,7 +278,7 @@ The latest generation of AI robots and humanoid robotics is starting to cross a 
 
 📺 NextGen Humanoids
 
-👁️ 10K • 👍 228 • 💬 19 • ⏱️ 8:26 • 6d ago
+👁️ 10K • 👍 228 • 💬 19 • ⏱️ 8:26 • 7d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T22:28:28.362305+00:00'
+updated: '2026-03-11T22:51:54.451026+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 22:28 UTC  
+**Last Updated:** March 11, 2026 at 22:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Thus Spoke Satoshi](https://www.reddit.com/r/Bitcoin/comments/1rr0g4w/thus_spoke_satoshi/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5 years ago, leaving us with a huge house in city centre of a small village. For pas 3,5 years we have been renting this place, that eventually ended up by selling this house. I Just received a significant amount of money. I am in BTC for more that 4 years, but it was just a hundred dollar now, hundred dollar there… I now have a chance to single buy a lot more. I don’t have any questinons, I just have the urge to tell it to someone who does understand BTC. My Family knows I have some, but the dont care what it is and dont want to educate themselves about it. Just wish me luck, that this was not the end and that We are going forward end in the long run to the MOON!
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 Hi, I have some money and I want to buy some btc. I don't like binance so I was thinking to go at a broker (or whaever they're called) and have him send my money to a bitcoin wallet like bluewallet or similar. Do you guys think dex is a good option? I will be buying and forgetting so not much swapping going on.
 
-38m ago
+1h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hi, I have some money and I want to buy some btc. I don't like binance so I was 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=gVxAwomug08) • 39m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=gVxAwomug08) • 1h ago
 
 ---
 
@@ -133,7 +133,7 @@ I have a teen who is starting a business selling a product she is making. She ha
 
 Green candles: “I am a macro analyst.” Red candles: “This is manipulation.” Sideways market: “This is boring.” Reality: Most accounts are destroyed by overtrading and oversized positions — not by market direction. Anyone else learn this the hard way?
 
-2h ago
+3h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 5h ago
 
 Bitcoin steadied as options traders increased bets on a move back to $80,000, with markets balancing a cooling February inflation print.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bitcoin Magazine • 2h ago
 
 Bitcoin’s recent volatility amid the escalating U.S.-Israel-Iran conflict has left investors searching for direction. But billionaire analyst and BitMEX co-founder Arthur Hayes believes the real opportunity to buy Bitcoin (BTC) is not here yet. A long-time Bitcoin bull, Hayes recently shared ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ CoinDesk • 2h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 1h ago
+Polymarket • 2h ago
 
 ---
 
@@ -231,7 +231,7 @@ Investopedia • 1d ago
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ A bank quietly failed, the Federal Reserve is trapped between inflation and debt
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 976 • 💬 73 • ⏱️ 21:13 • 9h ago
+👁️ 12K • 👍 976 • 💬 73 • ⏱️ 21:13 • 10h ago
 
 ---
 
@@ -343,7 +343,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 4h ago
+👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 947 • 💬 187 • ⏱️ 44:39 • 7h ago
+👁️ 15K • 👍 947 • 💬 187 • ⏱️ 44:39 • 8h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin #Crypto #Finance Bitcoin is sitting at a critical moment as macro pressu
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 504 • 💬 167 • ⏱️ 35:03 • 8h ago
+👁️ 9K • 👍 504 • 💬 167 • ⏱️ 35:03 • 9h ago
 
 ---
 
@@ -401,7 +401,7 @@ Raoul Pal just explained WHY the crypto market cap will go from $3 trillion to $
 
 📺 Money Talks
 
-👁️ 549 • 👍 37 • 💬 215 • ⏱️ 17:20 • 3h ago
+👁️ 549 • 👍 37 • 💬 215 • ⏱️ 17:20 • 4h ago
 
 ---
 

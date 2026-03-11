@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T22:28:28.368248+00:00'
+updated: '2026-03-11T22:51:54.456954+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 22:28 UTC  
+**Last Updated:** March 11, 2026 at 22:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
 
-17h ago
+18h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 18h ago
 
 Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
 
-Sherwood News • 5h ago
+Sherwood News • 6h ago
 
 ---
 
@@ -172,7 +172,7 @@ Sherwood News • 5h ago
 
 XRP (CRYPTO: XRP) and Ethereum (CRYPTO: ETH) have both had a rough start to 2026. XRP surged 25% in the first week of January to reach $2.40, and for a moment looked like it had finally escaped the ceiling that’s trapped every rally since 2018. Then macro conditions turned negative as the U.S.-Iran war rattled ... XRP or Ethereum: Which Gives You More Upside With $1,000 at Current Prices?
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 50m ago
 
 iShares Ethereum Trust ETF provides regulated access to ether, tracking the digital asset’s performance through a single-asset structure.
 
-The Motley Fool • 13m ago
+The Motley Fool • 37m ago
 
 ---
 
@@ -206,7 +206,7 @@ Seeking Alpha • 2d ago
 
 Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 4K • 👍 212 • 💬 30 • ⏱️ 56:53 • 11h ago
+👁️ 4K • 👍 212 • 💬 30 • ⏱️ 56:53 • 12h ago
 
 ---
 
@@ -256,7 +256,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 290 • 👍 20 • 💬 21 • ⏱️ 6:18 • 2h ago
+👁️ 290 • 👍 20 • 💬 21 • ⏱️ 6:18 • 3h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 125 • 💬 3 • ⏱️ 5:43 • 6h ago
+👁️ 2K • 👍 125 • 💬 3 • ⏱️ 5:43 • 7h ago
 
 ---
 
@@ -286,7 +286,7 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 The Value Thinker
 
-👁️ 8K • 👍 465 • 💬 71 • ⏱️ 21:31 • 21h ago
+👁️ 8K • 👍 465 • 💬 71 • ⏱️ 21:31 • 22h ago
 
 ---
 
@@ -316,7 +316,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 4h ago
+👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 5h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 214 • 👍 15 • 💬 3 • ⏱️ 5:20 • 12h ago
+👁️ 214 • 👍 15 • 💬 3 • ⏱️ 5:20 • 13h ago
 
 ---
 
