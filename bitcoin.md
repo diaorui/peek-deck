@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T19:24:54.663259+00:00'
+updated: '2026-03-11T19:57:55.334070+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 19:24 UTC  
+**Last Updated:** March 11, 2026 at 19:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1421.06B
+**Market Cap:** $1414.05B
 Rank #1
 
-**Circulating Supply:** 20,000,881 BTC
+**Circulating Supply:** 20,000,915 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.5%
+-44.0%
 
 **All-Time Low:** $67.81
-+104905.2%
++104072.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I've been moving between countries for about six months now and somewhere around month two I started leaning heavily on crypto for day to day expenses. At this point it covers probably 80% of my spending. I wanted to write up an honest account of what the experience has actually been like because most of what I read before I started was either overly optimistic or completely dismissive. What works well: contactless payments have been flawless everywhere I've been, Southeast Asia, parts of Europe, a few stops in South America. If a terminal accepts tap to pay it works. Adding it to google pay meant I wasn't carrying a separate card, which when you're moving around a lot and trying to minimize what's in your pockets genuinely matters. The conversion from crypto to local currency happens invisibly, the merchant sees a normal transaction, I see a deduction from my balance. No drama. The privacy aspect has been more valuable than I expected while traveling. Having my spending not be directly traceable back to my full financial profile feels meaningful when you're in unfamiliar places and don't fully know what data exposure looks like locally. What doesn't work as well: ATMs are hit or miss. I'd say about 1 in 3 attempts at cash machines has failed for one reason or another, either the machine doesn't support the network or there's a technical hiccup. I keep a small traditional bank account as a backup specifically for cash situations. Some merchants who only take local cards or cash are obviously a dead end. And if your crypto balance drops because of a market move and you haven't loaded up recently you need to be paying attention. Overall it's genuinely viable as a primary spending method if you're organized and keep a backup. The technology is at a point where it's not a workaround anymore, it's just a card that works. Would be happy to answer questions if anyone's thinking about making the switch.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,19 +89,19 @@ I've been moving between countries for about six months now and somewhere around
 
 Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5 years ago, leaving us with a huge house in city centre of a small village. For pas 3,5 years we have been renting this place, that eventually ended up by selling this house. I Just received a significant amount of money. I am in BTC for more that 4 years, but it was just a hundred dollar now, hundred dollar there… I now have a chance to single buy a lot more. I don’t have any questinons, I just have the urge to tell it to someone who does understand BTC. My Family knows I have some, but the dont care what it is and dont want to educate themselves about it. Just wish me luck, that this was not the end and that We are going forward end in the long run to the MOON!
 
-2h ago
+3h ago
 
 ---
 
 **[Thus Spoke Satoshi](https://www.reddit.com/r/Bitcoin/comments/1rr0g4w/thus_spoke_satoshi/)**
 
-1h ago
+2h ago
 
 ---
 
 **[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ I have a teen who is starting a business selling a product she is making. She ha
 
 Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight trunks and gear during a major event it streamed live, forcing last-minute changes days before the bout, according to Sazmining CEO Kent Halliburton. Halliburton, whose company provides Bitcoin mining-as-a-service using renewable hydroelectric energy, detailed the incident in a statement shared with Bitcoin Magazine. The sponsorship involved welterweight fighter Justin Cardona‘s appearance on the undercard of the Jake Paul vs. Anthony Joshua fight card, held December 19, 2025, at Miami’s Kaseya Center. Netflix served as the exclusive broadcaster, estimating viewership between 20 million and 100 million. Sazmining, Bitcoin lending platform LEDN, and a standalone Bitcoin logo secured placement on Cardona’s trunks in mid-October 2025. Sponsors were
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 23h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/culture/netflix-bans-bitcoin-sponsors-on-boxer-trunks-during-jake-paul-vs-anthony-joshua-broadcast) • 1d ago
 
 ---
 
@@ -133,13 +133,13 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 Most traditional crypto cards either shut down or restricted regions in the last few years. The ones I've tried recently that integrate with Apple Pay or Google Pay make it pretty seamless to just tap and pay directly from crypto balances. Fees are usually reasonable too, depending on the card type.
 
-10h ago
+11h ago
 
 ---
 
 **[BTC-VS-USD](https://www.reddit.com/r/Bitcoin/comments/1rr34o8/btcvsusd/)**
 
-16m ago
+49m ago
 
 ---
 
@@ -191,7 +191,7 @@ TradingView • 5h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 56m ago
+Polymarket • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ Investopedia • 1d ago
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -307,7 +307,7 @@ S3-native streaming platform. A Kafka alternative with infinite scalability, Kaf
 
 . Enterprise AI teams are moving beyond single-turn assistants and into systems expected to remember preferences, preserve project context and operate across longer horizons.
 
-⬆️ 11 • 💬 5 • 3d ago • [Venturebeat](https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for)
+⬆️ 11 • 💬 5 • 4d ago • [Venturebeat](https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for)
 
 ---
 
@@ -315,13 +315,33 @@ S3-native streaming platform. A Kafka alternative with infinite scalability, Kaf
 
 ## YouTube Videos: "bitcoin"
 
-**[The Michael Saylor Infinite-Money Glitch… Is Working (bitcoin news)](https://www.youtube.com/watch?v=czasnXXGOc0)**
+**[Michael Saylor Is Actually Out Of Control (bitcoin news)](https://www.youtube.com/watch?v=czasnXXGOc0)**
 
 BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 247 • ⏱️ 9:26 • 20h ago
+👁️ 41K • 👍 2K • 💬 314 • ⏱️ 9:26 • 20h ago
+
+---
+
+**[Bitcoin Just Lost $70K Again… Here’s What Happens Next](https://www.youtube.com/watch?v=1ninNey2s00)**
+
+Bitcoin #Crypto #Finance Bitcoin is sitting at a critical moment as macro pressure, weak sentiment, and key economic data put the ...
+
+📺 The Wolf Of All Streets
+
+👁️ 8K • 👍 455 • 💬 106 • ⏱️ 35:03 • 6h ago
+
+---
+
+**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
+
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+
+📺 Altcoin Daily
+
+👁️ 3K • 👍 178 • 💬 105 • ⏱️ 1:13 • 2h ago
 
 ---
 
@@ -331,7 +351,17 @@ A bank quietly failed, the Federal Reserve is trapped between inflation and debt
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 712 • 💬 110 • ⏱️ 21:13 • 6h ago
+👁️ 10K • 👍 872 • 💬 102 • ⏱️ 21:13 • 7h ago
+
+---
+
+**[Only 1 Million Bitcoin Left… Then That’s It](https://www.youtube.com/watch?v=GvAq1w9k8No)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 13K • 👍 879 • 💬 189 • ⏱️ 44:39 • 5h ago
 
 ---
 
@@ -341,17 +371,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 9K • 👍 1K • 💬 147 • ⏱️ 20:58 • 23h ago
-
----
-
-**[Bitcoin: The Structure of a Bear Market](https://www.youtube.com/watch?v=xH1eaS-Gkfg)**
-
-In this video, we take a step back and look at the structure of a Bitcoin bear market. Bear markets rarely unfold as a single dramatic ...
-
-📺 Benjamin Cowen
-
-👁️ 64K • 👍 5K • 💬 237 • ⏱️ 13:00 • 23h ago
+👁️ 10K • 👍 1K • 💬 179 • ⏱️ 20:58 • 23h ago
 
 ---
 
@@ -359,7 +379,7 @@ In this video, we take a step back and look at the structure of a Bitcoin bear m
 
 📺 Andrei Jikh
 
-👁️ 63K • 👍 2K • 💬 85 • ⏱️ 1:05 • 1d ago
+👁️ 70K • 👍 2K • 💬 88 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -369,47 +389,27 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 251 • ⏱️ 9:54 • 1d ago
+👁️ 58K • 👍 3K • 💬 254 • ⏱️ 9:54 • 1d ago
 
 ---
 
-**[BITCOIN SURGE: The $85,000 &quot;Smart Money&quot; Target Explained 🚀 And How To Use Retail To Bank Millions](https://www.youtube.com/watch?v=wX_lbyHqfwk)**
+**[CAUTION: The Stage Is Set For Another Bitcoin Trap! [Probably Today]](https://www.youtube.com/watch?v=daPtZSoyKMI)**
 
-The crowd is completely lost in their emotions, but the charts are crystal clear. In today's crypto market update, Chief Market ...
+In today's video Kyledoops outlines why the market looks like it's setting things up for a major bull trap. Join live to find out why and ...
 
-📺 Gareth Soloway
+📺 Crypto Banter
 
-👁️ 55K • 👍 3K • 💬 480 • ⏱️ 10:35 • 1d ago
-
----
-
-**[Why Ric Edelman Still Sees Bitcoin at $500,000 by 2030](https://www.youtube.com/watch?v=bv_-UQG3ork)**
-
-Digital Assets Council of Financial Professionals Founder, and Author of The Truth About Crypto, Ric Edelman joins CoinDesk's ...
-
-📺 CoinDesk
-
-👁️ 15K • 👍 201 • 💬 33 • ⏱️ 10:24 • 2d ago
+👁️ 15K • 👍 2K • 💬 28 • ⏱️ 23:59 • 12h ago
 
 ---
 
-**[Will Global Conflict Send Bitcoin Higher?](https://www.youtube.com/watch?v=oXw7wHEokfY)**
+**[Bitcoin: The Structure of a Bear Market](https://www.youtube.com/watch?v=xH1eaS-Gkfg)**
 
-Jeff Park is the Partner & Chief Investment Officer at ProCap BTC. In this conversation, we discuss the idea of “wartime bitcoin,” ...
+In this video, we take a step back and look at the structure of a Bitcoin bear market. Bear markets rarely unfold as a single dramatic ...
 
-📺 Anthony Pompliano
+📺 Benjamin Cowen
 
-👁️ 18K • 👍 785 • 💬 7 • ⏱️ 25:55 • 22h ago
-
----
-
-**[Will The U.S. FREEZE Your Money Next? (Iran&#39;s SHOCKING Bitcoin Warning)](https://www.youtube.com/watch?v=T2rIIlKL4Ao)**
-
-Global tensions are rising, private credit is cracking, and the dollar system just proved it can shut countries out of finance overnight ...
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 1K • 💬 167 • ⏱️ 10:41 • 22h ago
+👁️ 67K • 👍 5K • 💬 244 • ⏱️ 13:00 • 23h ago
 
 ---
 

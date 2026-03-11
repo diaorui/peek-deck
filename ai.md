@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T19:24:54.654587+00:00'
+updated: '2026-03-11T19:57:55.325663+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 19:24 UTC  
+**Last Updated:** March 11, 2026 at 19:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 5h ago
 
 ---
 
 **[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -71,7 +71,7 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 16h ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Over the past two years AMD has developed the AMDXDNA accelerator driver in the 
 
 Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 23h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 1d ago
 
 ---
 
@@ -95,7 +95,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 Explore codebase like exploring a city with buildings and islands... using our website CodeGraphContext- the go to solution for code indexing now got 2k stars🎉🎉... It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.3.0 released ~2k GitHub stars, ~400 forks 75k+ downloads 75+ contributors, ~200 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ In the early days of the internet we were in a similar situation. Modems, early 
 
 **[Exclusive: Meta acquires Moltbook, the social network for AI agents](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)**
 
-Axios • 21h ago
+Axios • 22h ago
 
 ---
 
@@ -133,13 +133,13 @@ The New York Times • 1d ago
 
 **[Perplexity rolls out enterprise AI agent tools](https://www.axios.com/2026/03/11/perplexity-personal-computer-mac)**
 
-Axios • 30m ago
+Axios • 1h ago
 
 ---
 
 **[The Billion-Dollar AI Startup That Was Founded by Teenagers](https://www.wsj.com/business/ai-startup-aaru-young-founders-35da7f87?gaa_at=eafs&gaa_n=AWEtsqe9PqOySiAJS_fM33iGbYyA380fm5t8v_7K8G58BreTuhKQiQH7yCob&gaa_ts=69b1c4e9&gaa_sig=b0SXrBZbj7lTokhIazTMZVU2z8tF-yM7LCLMXUhd4qbCUhZNB5v6w-w2QwBHn4T43IF5Ic-IpsfivEzvAyl43A%3D%3D)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
@@ -147,7 +147,7 @@ WSJ • 11h ago
 
 Bernstein believes that Dell's AI server revenue could reach $50 billion by fiscal year 2027.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNBC • 1h ago
 
 When I heard ‘Rachel’ answer the helpline number in her metallic voice, my soul felt as empty as the batteries of my malfunctioning car, says Adrian Chiles
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Guardian • 1h ago
 
 The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ WIRED • 1h ago
 
 Today, as we officially begin our journey as a Google company, that belief feels real in a much deeper way.
 
-wiz.io • 6h ago
+wiz.io • 7h ago
 
 ---
 
@@ -179,7 +179,7 @@ wiz.io • 6h ago
 
 The new Health AI answers questions, explains health records, manages prescription renewals, books appointments, and more.
 
-About Amazon • 21h ago
+About Amazon • 22h ago
 
 ---
 
@@ -277,63 +277,13 @@ Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-
 
 ## YouTube Videos: "ai"
 
-**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
-
-Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
-
-📺 AI Revolution
-
-👁️ 30K • 👍 1K • 💬 55 • ⏱️ 14:36 • 19h ago
-
----
-
-**[Best AI Image Generators 2026 (Most Realistic)](https://www.youtube.com/watch?v=hMeQl9JXFeU)**
-
-Access ALL Models Mentioned in OpenArt: https://www.openart.ai/home/?ref=image-generation In this video, I break down four AI ...
-
-📺 Youri van Hofwegen
-
-👁️ 4K • 💬 1 • ⏱️ 9:42 • 3h ago
-
----
-
 **[AI Actor Tilly Norwood Releases Music Video Addressing Backlash](https://www.youtube.com/watch?v=BjfY7cKcXxc)**
 
 Artificial intelligence actor Tilly Norwood released a new music video called “Take the Lead” that addresses her creation and the ...
 
 📺 TODAY
 
-👁️ 2K • 👍 26 • 💬 14 • ⏱️ 3:54 • 6h ago
-
----
-
-**[This FREE AI Video Generator Beats Paid Tools (UNLIMITED)](https://www.youtube.com/watch?v=X8h5fuBbp3Q)**
-
-Try Higgsfield's Soul Cinema to generate cinematic videos ...
-
-📺 Malva AI
-
-👁️ 17K • 👍 570 • 💬 151 • ⏱️ 8:12 • 1d ago
-
----
-
-**[Claude JUST became AWARE](https://www.youtube.com/watch?v=mA8C55NLYzw)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 113K • 👍 4K • 💬 905 • ⏱️ 27:28 • 2d ago
-
----
-
-**[I Found a FREE Grok AI Alternative… The Results Are Crazy 😲](https://www.youtube.com/watch?v=tFnheD9Pals)**
-
-I Found a FREE Grok AI Alternative… The Results Are Crazy About video - In today's video, you will learn about a powerful free ...
-
-📺 Creator Fual
-
-👁️ 15K • 👍 681 • 💬 66 • ⏱️ 5:50 • 2d ago
+👁️ 3K • 👍 37 • 💬 21 • ⏱️ 3:54 • 7h ago
 
 ---
 
@@ -343,37 +293,87 @@ Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI 
 
 📺 CNBC Television
 
-👁️ 7K • 👍 256 • 💬 79 • ⏱️ 11:04 • 5h ago
+👁️ 21K • 👍 582 • 💬 169 • ⏱️ 11:04 • 5h ago
 
 ---
 
-**[Tyrone Magnus &amp; Scar-Lo | Sora 2 AI Compilation | Reaction!](https://www.youtube.com/watch?v=wbbq3CUPRhE)**
+**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
 
-tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funny #tyronemagnus #reactions #reaction ...
+Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
 
-📺 Tyrone Magnus
+📺 AI Revolution
 
-👁️ 51K • 👍 4K • 💬 390 • ⏱️ 11:15 • 19h ago
-
----
-
-**[&quot;We Built Something We Can&#39;t Control&quot;: An Engineer&#39;s Warning to Humanity](https://www.youtube.com/watch?v=rf2KFVcKQdQ)**
-
-JUMP to AI Psychosis & The Spiral Cults [48:38] The engineers building artificial intelligence don't fully understand how it works.
-
-📺 Peter McCormack
-
-👁️ 43K • 👍 1K • 💬 457 • ⏱️ 1:33:56 • 1d ago
+👁️ 34K • 👍 1K • 💬 63 • ⏱️ 14:36 • 20h ago
 
 ---
 
-**[FIGHT ERUPTS: Trump admin hit with precedent-setting lawsuit from AI powerhouse](https://www.youtube.com/watch?v=n5rlm6rTQs0)**
+**[Best AI Image Generators 2026 (Most Realistic)](https://www.youtube.com/watch?v=hMeQl9JXFeU)**
 
-Abundance Institute Head of AI Policy Neil Chilson discusses Anthropic's lawsuit against the Trump administration Department of ...
+Access ALL Models Mentioned in OpenArt: https://www.openart.ai/home/?ref=image-generation In this video, I break down four AI ...
 
-📺 Fox Business Clips
+📺 Youri van Hofwegen
 
-👁️ 52K • 👍 1K • 💬 538 • ⏱️ 9:14 • 1d ago
+👁️ 7K • 💬 1 • ⏱️ 9:42 • 3h ago
+
+---
+
+**[This FREE AI Video Generator Beats Paid Tools (UNLIMITED)](https://www.youtube.com/watch?v=X8h5fuBbp3Q)**
+
+Try Higgsfield's Soul Cinema to generate cinematic videos ...
+
+📺 Malva AI
+
+👁️ 19K • 👍 600 • 💬 160 • ⏱️ 8:12 • 1d ago
+
+---
+
+**[Anthropic names jobs vulnerable to AI](https://www.youtube.com/watch?v=B-DyyVNYtCk)**
+
+AI giant Anthropic is listing some of the white-collar jobs most likely to be impacted by the technology. CBS MoneyWatch reporter ...
+
+📺 CBS News
+
+👁️ 9K • 👍 194 • 💬 71 • ⏱️ 2:46 • 6h ago
+
+---
+
+**[AI Artist, Literally.](https://www.youtube.com/watch?v=0xbMm-SWqqI)**
+
+can generative AI can be wholesome? maybe... visit https://brilliant.org/b2studios/ for 20% off an annual subscription! KĀYO's ...
+
+📺 b2studios
+
+👁️ 43K • 👍 5K • 💬 434 • ⏱️ 10:16 • 1d ago
+
+---
+
+**[Claude JUST became AWARE](https://www.youtube.com/watch?v=mA8C55NLYzw)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 114K • 👍 4K • 💬 908 • ⏱️ 27:28 • 2d ago
+
+---
+
+**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
+
+Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
+
+📺 Futurepedia
+
+👁️ 26K • 👍 963 • 💬 31 • ⏱️ 26:25 • 1d ago
+
+---
+
+**[The AI book that&#39;s freaking out National Security Advisors](https://www.youtube.com/watch?v=Nl7-bRFSZBs)**
+
+Way more thoughts, our curated newsletter, and free books (until we run out) → https://80000hours.org/iabied/ If we build ...
+
+📺 AI In Context
+
+👁️ 69K • 👍 6K • 💬 880 • ⏱️ 43:55 • 21h ago
 
 ---
 
@@ -389,7 +389,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 345,465 • ❤️ 500 • 6d ago
+⬇️ 345,465 • ❤️ 508 • 6d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 30,763 • ❤️ 406 • 3d ago
+⬇️ 30,763 • ❤️ 410 • 3d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,390,816 • ❤️ 726 • 9d ago
+⬇️ 1,390,816 • ❤️ 729 • 9d ago
 
 ---
 
@@ -425,7 +425,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 126,979 • ❤️ 322 • 7d ago
+⬇️ 126,979 • ❤️ 325 • 7d ago
 
 ---
 
@@ -437,7 +437,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 238 • 3h ago
+⬇️ 746 • ❤️ 246 • 4h ago
 
 ---
 
@@ -449,7 +449,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 4,201 • ❤️ 215 • 1d ago
+⬇️ 4,201 • ❤️ 218 • 1d ago
 
 ---
 
@@ -473,7 +473,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 683,958 • ❤️ 304 • 9d ago
+⬇️ 683,958 • ❤️ 305 • 9d ago
 
 ---
 
@@ -485,7 +485,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 6,306 • ❤️ 146 • 1d ago
+⬇️ 6,306 • ❤️ 147 • 1d ago
 
 ---
 
@@ -497,7 +497,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 48,417 • ❤️ 138 • 16h ago
+⬇️ 48,417 • ❤️ 139 • 17h ago
 
 ---
 
@@ -513,7 +513,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
 
-▲ 116 • 💬 1 • ⭐ 77 • 8d ago
+▲ 119 • 💬 1 • ⭐ 77 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
@@ -553,22 +553,9 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Holi-Spatial presents the first fully automated, large-scale, spatially-aware multimodal dataset constructed from raw video inputs, supporting multi-level spatial supervision for 3D scene understanding and spatial reasoning tasks.
 
-▲ 72 • 💬 5 • ⭐ 135 • 3d ago
+▲ 72 • 💬 5 • ⭐ 149 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.07660) • [💻 code](https://github.com/Visionary-Laboratory/holi-spatial) • [🔗 project](https://visionary-laboratory.github.io/holi-spatial/)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 45 • 💬 1 • ⭐ 72,807 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -585,6 +572,19 @@ Fish-Speech enhances Text-to-Speech systems using a Dual-AR architecture with GF
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 45 • 💬 1 • ⭐ 72,844 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
@@ -594,35 +594,6 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 ▲ 46 • 💬 2 • ⭐ 49,430 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-🏢 IBM Granite
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 154 • 💬 19 • ⭐ 55,528 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379)**
-
-*Shenghai Yuan, Yuanyang Yin, Zongjian Li et al. (6 authors)*
-
-🏢 ByteDance
-
-Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
-
-▲ 157 • 💬 5 • ⭐ 1,038 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
 
 ---
 
@@ -638,6 +609,35 @@ CourtSI is a large-scale spatial intelligence dataset for sports scenarios that 
 
 ---
 
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 154 • 💬 19 • ⭐ 55,559 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379)**
+
+*Shenghai Yuan, Yuanyang Yin, Zongjian Li et al. (6 authors)*
+
+🏢 ByteDance
+
+Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
+
+▲ 157 • 💬 5 • ⭐ 1,067 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -648,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.1k • 🔱 3.4k • 2h ago
+⭐ 26.1k • 🔱 3.4k • 3m ago
 
 ---
 
@@ -658,7 +658,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 25.6k • 🔱 3.3k • 13h ago
+⭐ 25.8k • 🔱 3.3k • 14h ago
 
 ---
 
@@ -668,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 18.9k • 🔱 809 • 21h ago
+⭐ 18.9k • 🔱 814 • 21h ago
 
 ---
 
@@ -688,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.4k • 🔱 603 • 9h ago
+⭐ 8.4k • 🔱 604 • 10h ago
 
 ---
 
@@ -698,7 +698,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.1k • 🔱 693 • 6d ago
+⭐ 8.1k • 🔱 695 • 6d ago
 
 ---
 
@@ -708,7 +708,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.0k • 🔱 891 • 8d ago
+⭐ 7.0k • 🔱 892 • 8d ago
 
 ---
 
@@ -718,7 +718,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 725 • 4h ago
+⭐ 6.2k • 🔱 725 • 5h ago
 
 ---
 
@@ -728,7 +728,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 434 • 2h ago
+⭐ 3.8k • 🔱 434 • 3h ago
 
 ---
 
@@ -738,7 +738,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 657 • 8h ago
+⭐ 3.3k • 🔱 657 • 9h ago
 
 ---
 

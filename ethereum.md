@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T19:24:54.669301+00:00'
+updated: '2026-03-11T19:57:55.340092+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 19:24 UTC  
+**Last Updated:** March 11, 2026 at 19:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.66B
+**Market Cap:** $250.64B
 Rank #2
 
 **Circulating Supply:** 120,692,002 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.9%
+-58.1%
 
 **All-Time Low:** $0.43
-+480505.3%
++479006.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
 
-14h ago
+15h ago
 
 ---
 
@@ -200,7 +200,7 @@ Binance • 4d ago
 
 **[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqeuLVy2DRzy5YfGunlJYsqXBbpGth1rccn6FX1SuuRfgCOB-urCSF5K&gaa_ts=69b1c4ec&gaa_sig=Q7a8bYLNwYch6_X5yX9BQofUiHy2GYkCu16nkgBlh-qxiR25XrxIYndQTquXbJQz3YFbigpKgUVM74bEb3Tngg%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -222,7 +222,7 @@ Seeking Alpha • 2d ago
 
 Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -230,13 +230,13 @@ TradingView • 7h ago
 
 ## YouTube Videos: "ethereum"
 
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=1niCqMpM0yg)**
+**[🚨 BTC &amp; ETH: BEWARE!!! ](https://www.youtube.com/watch?v=zsuW8z2XxsE)**
 
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us exactly whats about to happen in the markets!
 
-📺 Derbisendaa
+📺 Thomas Kralow
 
-👁️ 2K • 👍 1K • 2h ago
+👁️ 10K • 👍 3K • 💬 68 • ⏱️ 12:32 • 9h ago
 
 ---
 
@@ -246,27 +246,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 2K • 👍 153 • 💬 43 • ⏱️ 56:53 • 8h ago
-
----
-
-**[🚨 BTC &amp; ETH: BEWARE!!! ](https://www.youtube.com/watch?v=zsuW8z2XxsE)**
-
-Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us exactly whats about to happen in the markets!
-
-📺 Thomas Kralow
-
-👁️ 8K • 👍 3K • 💬 88 • ⏱️ 12:32 • 8h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=CVxByc-LDys)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 702 • 👍 82 • 💬 41 • ⏱️ 5:43 • 3h ago
+👁️ 4K • 👍 191 • 💬 47 • ⏱️ 56:53 • 9h ago
 
 ---
 
@@ -276,17 +256,27 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 58K • 👍 3K • 💬 258 • ⏱️ 21:43 • 1d ago
+👁️ 61K • 👍 3K • 💬 267 • ⏱️ 21:43 • 1d ago
 
 ---
 
-**[BMNR’s Ethereum Bet: The Infrastructure Trust Layer for AI Agents](https://www.youtube.com/watch?v=gMkvBwrfPIA)**
+**[31% CRASH Incoming? Where To Enter Ethereum Next!](https://www.youtube.com/watch?v=FdeL-0SVPXc)**
 
-In this video we provide an update on BMNR balance and why it could be positioning for the next phase of the digital economy: AI ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 The Value Thinker
+📺 Trade Confident
 
-👁️ 7K • 👍 433 • 💬 60 • ⏱️ 21:31 • 18h ago
+👁️ 100 • 👍 6 • 💬 2 • ⏱️ 6:18 • 22m ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=CVxByc-LDys)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 109 • 💬 31 • ⏱️ 5:43 • 4h ago
 
 ---
 
@@ -296,7 +286,17 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 251 • ⏱️ 9:54 • 1d ago
+👁️ 58K • 👍 3K • 💬 254 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[BMNR’s Ethereum Bet: The Infrastructure Trust Layer for AI Agents](https://www.youtube.com/watch?v=gMkvBwrfPIA)**
+
+In this video we provide an update on BMNR balance and why it could be positioning for the next phase of the digital economy: AI ...
+
+📺 The Value Thinker
+
+👁️ 7K • 👍 451 • 💬 82 • ⏱️ 21:31 • 19h ago
 
 ---
 
@@ -306,7 +306,17 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 341 • 💬 126 • ⏱️ 13:04 • 1d ago
+👁️ 6K • 👍 342 • 💬 126 • ⏱️ 13:04 • 1d ago
+
+---
+
+**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
+
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+
+📺 Altcoin Daily
+
+👁️ 3K • 👍 178 • 💬 105 • ⏱️ 1:13 • 2h ago
 
 ---
 
@@ -316,17 +326,7 @@ Research Bitcoin Hyper - https://99bitcoins.care/b_BTCHyper99BTC - Download the 
 
 📺 99Bitcoins
 
-👁️ 86 • 👍 4 • 💬 200 • ⏱️ 7:45 • 4h ago
-
----
-
-**[WHERE I WILL BUY ETH🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=7Eo_kFPH668)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 171 • 👍 15 • 💬 3 • ⏱️ 5:20 • 9h ago
+👁️ 117 • 👍 5 • 💬 121 • ⏱️ 7:45 • 5h ago
 
 ---
 

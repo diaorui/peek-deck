@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T19:24:54.672576+00:00'
+updated: '2026-03-11T19:57:55.343313+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 19:24 UTC  
+**Last Updated:** March 11, 2026 at 19:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ The MSG gripper uses FOC stepper motors without gearboxes, enabling precise cont
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-5h ago
+6h ago
 
 ---
 
@@ -90,13 +90,13 @@ As a robotics software developer, I have had several instances where I'm working
 
 I remember when they talked about robotics, they mentioned Japan as the global reference. But now that I look at the news, I don't see Japan having more advanced robotics technology than other countries, I'd even consider it to be several steps behind if you look at the advances in humanoid and service robotics. Or were the ones saying Japan was a leader in robotics just weebs?
 
-1h ago
+2h ago
 
 ---
 
 **[Python - (Turtle), Pen Plotting Machine](https://www.reddit.com/r/robotics/comments/1rquabt/python_turtle_pen_plotting_machine/)**
 
-🔗 [a.co](https://a.co/d/0jbGo04e) • 5h ago
+🔗 [a.co](https://a.co/d/0jbGo04e) • 6h ago
 
 ---
 
@@ -168,7 +168,7 @@ MIT Technology Review • 1d ago
 
 Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
 
-About Amazon • 18h ago
+About Amazon • 19h ago
 
 ---
 
@@ -182,7 +182,7 @@ ABB • 2d ago
 
 Recycling facilities are deploying AI and robotics to automate waste sorting, improve data accuracy, and fix the difficult economics of global trash.
 
-qz.com • 1h ago
+qz.com • 2h ago
 
 ---
 
@@ -200,23 +200,13 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
-**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
+**[This Is The NEW Toxic Meta Build... Eiffel Furnace DELETES Everything | War Robots](https://www.youtube.com/watch?v=hU1c3OI8p-I)**
 
-In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
+This is going to be the next most toxic build in war robots. The furnace, torch Eiffel. These weapons seem way too strong for an ...
 
-📺 Tech Talkies
+📺 PREDATOR WR
 
-👁️ 19K • 👍 687 • 💬 62 • ⏱️ 4:51 • 4d ago
-
----
-
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
-
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
-
-📺 DPCcars
-
-👁️ 12K • 👍 84 • 💬 25 • ⏱️ 3:48 • 2d ago
+👁️ 6K • 👍 284 • 💬 35 • ⏱️ 15:33 • 7h ago
 
 ---
 
@@ -226,7 +216,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 28K • 👍 869 • 💬 63 • ⏱️ 14:35 • 6d ago
+👁️ 29K • 👍 875 • 💬 64 • ⏱️ 14:35 • 6d ago
 
 ---
 
@@ -236,17 +226,45 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 263K • 👍 3K • 💬 417 • ⏱️ 29:41 • 5d ago
+👁️ 266K • 👍 3K • 💬 418 • ⏱️ 29:41 • 5d ago
 
 ---
 
-**[China&#39;s Most Agile Robots in 2026 – They&#39;re Doing Things That Shouldn&#39;t Be Possible](https://www.youtube.com/watch?v=_z5NxUToeZU)**
+**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=3giDoDpTYFE)**
 
-China's humanoid robots just performed the world's first continuous parkour flips, 3-meter aerial flips, and a 7.5-rotation Airflare ...
+📺 Lin of Brant robot 
 
-📺 TechFrontierNow
+👁️ 31K • 👍 79 • 💬 1 • ⏱️ 0:21 • 4d ago
 
-👁️ 63K • 👍 403 • 💬 91 • ⏱️ 9:26 • 7d ago
+---
+
+**[Cyn&#39;s New Motors](https://www.youtube.com/watch?v=CI0_u4z0dgU)**
+
+This is what I've been waiting for Follow my socials for more frequent updates: https://twitter.com/DeathTempler ...
+
+📺 DeathTempler
+
+👁️ 19K • 👍 3K • 💬 189 • ⏱️ 0:51 • 2d ago
+
+---
+
+**[Awesome Work Skills🏗️ Low Cost AI Construction Robots Technology innovations Next Level #robotics](https://www.youtube.com/watch?v=969BsD8IQnQ)**
+
+Welcome to the future of robotics engineering! In this video, we showcase the groundbreaking advancements in AI that are ...
+
+📺 ejunky66
+
+👁️ 11K • 👍 246 • 💬 7 • ⏱️ 1:00 • 4d ago
+
+---
+
+**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
+
+A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
+
+📺 DPCcars
+
+👁️ 13K • 👍 90 • 💬 27 • ⏱️ 3:48 • 2d ago
 
 ---
 
@@ -256,37 +274,17 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 41K • 👍 1K • 💬 109 • ⏱️ 10:52 • 4d ago
+👁️ 42K • 👍 1K • 💬 109 • ⏱️ 10:52 • 4d ago
 
 ---
 
-**[Non-Stop INSANE Robot Fighting Action: Round 2 of NHRL&#39;s 2026 Pro World Championship KO Show (March)](https://www.youtube.com/watch?v=7tQ5Gyr3SYE)**
+**[Inside China’s Plan To Lead The World In Advanced Robotics | Insight](https://www.youtube.com/watch?v=Fc-nKxWkYxs)**
 
-Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is here: https://youtube.com/live/-x5Fzq4Hig0 ...
+You've seen the Unitree G1 robots' display of martial skill at the Spring Festival Gala. It's a sign of China moving fast to become a ...
 
-📺 NHRL
+📺 CNA Insider
 
-👁️ 489K • 👍 539 • 💬 21 • ⏱️ 3:35:12 • 3d ago
-
----
-
-**[2026 Lake Superior Regional - Day 2](https://www.youtube.com/watch?v=_UiIQRLcEfw)**
-
-2026 Lake Superior Regional - Broadcast Day 2 https://frc-events.firstinspires.org/2026/MNDU (c) 2026 FIRST Robotics ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 12K • 👍 70 • ⏱️ 10:00:46 • 4d ago
-
----
-
-**[China’s $16K Robot Changes the Future of Work](https://www.youtube.com/watch?v=KFzEWvTSmn4)**
-
-Everyone thought AI would replace office workers first. But the real disruption is happening in the physical world. Humanoid robots ...
-
-📺 By 2050
-
-👁️ 113K • 👍 2K • 💬 126 • ⏱️ 0:55 • 5d ago
+👁️ 78K • 👍 860 • 💬 234 • ⏱️ 46:28 • 5d ago
 
 ---
 
