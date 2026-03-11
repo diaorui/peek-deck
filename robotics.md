@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T06:56:14.778594+00:00'
+updated: '2026-03-11T07:44:35.550211+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 06:56 UTC  
+**Last Updated:** March 11, 2026 at 07:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineering for Disneyland theme parks. Inspiration for walking movements was taken from the waddle of a duck, creating a stable walk while still keeping the appearance fun, as with Star Wars droids.
 
-14h ago
+15h ago
 
 ---
 
 **[Built this from scrap metal](https://www.reddit.com/r/robotics/comments/1rqjuv7/built_this_from_scrap_metal/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -50,7 +50,7 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
 
-14h ago
+15h ago
 
 ---
 
@@ -58,7 +58,7 @@ Look at this interesting robotic grasping project, accomplished with the assista
 
 Hi all, I am getting into the hobby and I build this cute robot which I currently running from usb-c cable going directly to the ESP32. I want to add batteries for it but I am looking for the best (and safe way) to go. Few things I want: Chargeable via USB-C Chargeable while powered on (I believe this may be a bit sketchy)\ I use lipo 3s (because I already have it and I may want more Vs in the future projects) I hope this drawing makes sense to you, but I want to clarify if it is a good plan? (Just to clarify 4 thinner wires are for balancing and thicker ones for the main load. I would use lipo 3s with XT30 connection). Thanks https://preview.redd.it/0no1gx2a5dog1.png?width=1504&format=png&auto=webp&s=a096d1ae4ace9ad7303706de897e116cf9b7b1de
 
-5m ago
+53m ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi all, I am getting into the hobby and I build this cute robot which I currentl
 
 Erlebt live spannende Wettbewerbe, innovative Robotik, packende Matches und faszinierende Technologien aus der Welt des RoboCup. Heute starten die Teams in d...
 
-🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 1h ago
+🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 2h ago
 
 ---
 
@@ -74,13 +74,13 @@ Erlebt live spannende Wettbewerbe, innovative Robotik, packende Matches und fasz
 
 This video shows the AGV in action that follows a magnetic line, with markers along the track telling the robot which branch to take at forks, where to slow down and where to stop for charging. I realise that line following feels old-school in this age of laser guidance and humanoid robots. But, hey, it costs less, and is super accurate. On the right side are the ceiling view of the track, and of the supervisory PC screen. Every 200 ms the robot publishes battery voltage, operating state, and distance traveled. The robot position is reconstructed from encoder odometry and displayed by a small Python program (which still needs some optimization to make the motion smoother on screen). The robot controller communicates with the magnetic sensor and motor controller over CAN bus, while WiFi/MQTT is used for supervision and command. The navigation control loop runs every 10 ms locally. MQTT overhead has no impact on real-time execution. MQTT topics are custom for now, but I may migrate to VDA5050 in a future version. I also wrote a short architecture note describing the system and software structure. I'll be happy to share, if anyone is interested. Curious to hear any thoughts or suggestions.
 
-16h ago
+17h ago
 
 ---
 
 **[Figure's Helix 2 - Full Body Autonomy Video](https://www.reddit.com/r/robotics/comments/1rq45b6/figures_helix_2_full_body_autonomy_video/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -110,7 +110,7 @@ I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. 
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -118,7 +118,7 @@ Bloomberg.com • 16h ago
 
 This robo-chef can take over your meal prep.
 
-The Verge • 9h ago
+The Verge • 10h ago
 
 ---
 
@@ -134,7 +134,7 @@ MIT Technology Review • 17h ago
 
 Teradyne Robotics has “irrefutable evidence” of Chinese robot company  Elite  Robots for copyright infringement of Universal Robots’ software.
 
-The Robot Report • 11h ago
+The Robot Report • 12h ago
 
 ---
 
@@ -150,7 +150,7 @@ NPR • 2d ago
 
 The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
 
-WGAL • 17h ago
+WGAL • 18h ago
 
 ---
 
@@ -222,7 +222,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 Robot Julie 
 
-👁️ 1K • 👍 3 • 💬 2 • ⏱️ 0:22 • 5h ago
+👁️ 1K • 👍 3 • 💬 2 • ⏱️ 0:22 • 6h ago
 
 ---
 
