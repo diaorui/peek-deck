@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T02:05:01.130533+00:00'
+updated: '2026-03-11T04:21:26.400855+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 02:05 UTC  
+**Last Updated:** March 11, 2026 at 04:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic is suing the Trump administration, asking federal courts to reverse the Pentagon’s decision designating the artificial intelligence company a “ supply chain risk ” over its refusal to allow unrestricted military use of its technology.
 
-🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 4h ago
+🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 7h ago
 
 ---
 
@@ -49,7 +49,15 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 6h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html) • 8h ago
+
+---
+
+**[OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before](https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/)**
+
+More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
+
+🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 1h ago
 
 ---
 
@@ -57,37 +65,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 In the early days of the internet we were in a similar situation. Modems, early Linux systems, the first websites. Technically primitive by today’s standards, but something important had appeared: information could suddenly move freely across a network. That was a novum by this time and not many understood it yet. At the time the real question was not about the technology itself. The question was much simpler. What can we actually build with this network?? Today we seem to be entering a similar phase again. Large language models and related systems allow machines to interact with knowledge: documents, code, conversations, procedures. The tools are still very rough. Many experiments will disappear. Much of what we see today will not survive. But that is exactly what makes this moment interesting. The real challenge ahead is not the models themselves. It is the integration of knowledge and machines into real systems and organisations. In that sense, this feels less like a finished technology wave and more like the early internet again. A lot of experimentation. A lot of curiosity. And many things we have not imagined yet. And a lot of fun 😄
 
-8h ago
-
----
-
-**[Bringing Code Review to Claude Code](https://www.reddit.com/r/artificial/comments/1rqatlf/bringing_code_review_to_claude_code/)**
-
-Today we're introducing Code Review, which dispatches a team of agents on every PR to catch the bugs that skims miss, built for depth, not speed. It's the system we run on nearly every PR at Anthropic. Now in research preview for Team and Enterprise.
-
-🔗 [Claude](https://claude.com/blog/code-review) • 4h ago
-
----
-
-**[The Agentic CLI Takeover: Why Your Terminal is the New IDE Frontier](https://www.reddit.com/r/artificial/comments/1rqedsy/the_agentic_cli_takeover_why_your_terminal_is_the/)**
-
-Forget chat interfaces. Autonomous AI agents are taking over the terminal. Learn the architecture, security risks, and why your zsh history is now valuable training data. https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier
-
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier) • 1h ago
-
----
-
-**[A guy ghosted me after I shared my entire AI freelancing stack with him and I feel like a complete idiot](https://www.reddit.com/r/artificial/comments/1rqgm8q/a_guy_ghosted_me_after_i_shared_my_entire_ai/)**
-
-will skip the dramatic buildup and just say it that I got played. And honestly looking back, I walked into it myself. Context first. I've been doing AI video generation freelancing on the side for a few months now. Nothing impressive, a few small clients, inconsistent money, still figuring out a lot of it. But it was working enough that I got excited and started talking about it in my college group chat. not to flex, just genuinely happy something was clicking and these were supposed to be my people. That's where he came in.he DMed me almost immediately. Questions about everything, how i find clients, what tools I use, how I price things, how I structure my whole approach literally everything. I thought he was just curious about the AI side of things. Then he started asking about my day. Random memes. Checking in for no reason. I'll be honest, I thought he was into me. I was wrongMoving on. So I shared everything. And I mean everything. My workflow is genuinely nothing special, I want to be clear about that. The whole thing is basically stitched together from whatever free or cheap AI tools didn't frustrate me enough to quit. Claude for scripting and client proposals mostly because I am not a naturally good writer and it patches that gap without making it obvious. Honestly the most underrated part of my stack, the way it handles tone and structure for cold outreach specifically saved me embarrassing myself in a lot of inboxes early on. Kling when clients want something that looks more cinematic, the output quality for the price is hard to argue with. ElevenLabs for voiceover because my actual voice should not be anywhere near a professional deliverable, I've accepted this about myself. For the video generation side I use Magic Hour (pricing made sense when I was starting out with basically zero budget). CapCut to pull everything together at the end. For clients I walked him through everything. cold emailing, Instantly for outreach, Loom videos to personalise pitches, how to talk to small businesses who've nvr bought this kind of content before. He was a genuinely sharp student. Asked the right questions every time. I helped him land his first client. Then his second. Then his third. Every win he had I was more excited about than my own work because I genuinely wanted him to succeed. I am, apparently, a golden retriever in a human body. Then after the third client the energy just shifted. Slower replies, one word answers and Thennn nothing. Sent him a completely normal message last week. Just hey how's the new client going. Still sitting there unread. Been thinking about it and honestly it's on me. I was so happy that someone I liked was paying attention that I handed over my entire process without a second thought. I mistook curiosity for connection. That's not on him, that's just me being naive and letting my feelings make me blind to what was actually happening. Lesson learned I guess. Keep your workflow close, keep your feelings closer, and maybe don't hand someone your entire AI stack because you think they're cute. Freelancing is still going. Claude scripts better than I do and clients don't ghost you once they've paid. Small mercies. Not bitter about it at all. Just a little wiser now and honestly more careful about who I open up to. If anyone else has done something this avoidably stupid because they were into someone I would really love to hear it
-
-16m ago
-
----
-
-**[HamsterPurgatory.com is an AI/LLM powered TV show that you can interact with by sending prompts for free via the Kick stream chat!](https://www.reddit.com/r/artificial/comments/1rq7pv1/hamsterpurgatorycom_is_an_aillm_powered_tv_show/)**
-
-6h ago
+11h ago
 
 ---
 
@@ -95,23 +73,45 @@ will skip the dramatic buildup and just say it that I got played. And honestly l
 
 AI can now generate text, images, voices and even videos that look real. Do you think we’re heading toward a point where people start questioning everything they see online?
 
-2h ago
+5h ago
 
 ---
 
-**[Anthropic sues Trump administration over Pentagon blacklist](https://www.reddit.com/r/artificial/comments/1rp3vku/anthropic_sues_trump_administration_over_pentagon/)**
+**[Bringing Code Review to Claude Code](https://www.reddit.com/r/artificial/comments/1rqatlf/bringing_code_review_to_claude_code/)**
 
-The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
+Today we're introducing Code Review, which dispatches a team of agents on every PR to catch the bugs that skims miss, built for depth, not speed. It's the system we run on nearly every PR at Anthropic. Now in research preview for Team and Enterprise.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html) • 1d ago
+🔗 [Claude](https://claude.com/blog/code-review) • 6h ago
 
 ---
 
-**[Open Source Alternative to NotebookLM](https://www.reddit.com/r/artificial/comments/1rpn1mf/open_source_alternative_to_notebooklm/)**
+**[The Agentic CLI Takeover: Why Your Terminal is the New IDE Frontier](https://www.reddit.com/r/artificial/comments/1rqedsy/the_agentic_cli_takeover_why_your_terminal_is_the/)**
 
-For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Hybrid retrieval (semantic + full-text) with cited answers Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Slide creation support Multilingual podcast support Video creation agent Desktop & Mobile app GitHub: https://github.com/MODSetter/SurfSense
+Forget chat interfaces. Autonomous AI agents are taking over the terminal. Learn the architecture, security risks, and why your zsh history is now valuable training data. https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier
 
-21h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0075-agentic-cli-takeover-terminal-new-ide-frontier) • 4h ago
+
+---
+
+**[I built a 31-agent product development system with 12,000+ lines of actionable content — covering every department from solo founder Day 0 to IPO. Open source, MIT licensed.](https://www.reddit.com/r/artificial/comments/1rqjvme/i_built_a_31agent_product_development_system_with/)**
+
+Hey everyone, I've been building a comprehensive product development system as a Claude Skill, and it grew into something I think is genuinely useful for anyone building a product. **What it is:** 31 specialized AI agents + 20 strategic frameworks that cover every department of a company — product, engineering, design, security, legal, finance, operations, HR, marketing, compliance, trust & safety, fraud, AI/ML, ESG, government relations, and more. **What makes it different from generic templates:** - Each agent operates at department-head depth (the PRD agent specs payment failure recovery down to "what if UPI times out") - 200+ edge cases in a stress-test framework that catches things PMs miss for years - 14 complete company policies (POSH, whistleblower, anti-corruption, data protection — not outlines, actual policies) - Country-specific compliance for India, US, EU, UK, and 6 Southeast Asian countries - A Founder's Playbook with week-by-week execution, exact costs, and fundraising amounts - Salary bands by function × level × geography with an annual maintenance process - A smart-loading system that routes requests to only the agents needed (doesn't eat your context window) - A memory system (KDR/MASTER KDR) that survives chat compaction — works even on free tier **Numbers:** 62 files, 12,000+ lines, 250+ coverage areas audited, 0 gaps found. **How to use it:** Upload to Claude as a project skill Say "I want to build [your idea]" — system activates in phases Or use individual files as standalone references MIT licensed. Free forever. GitHub: github.com/ankitjha67/product-architect I'd love feedback — what's missing? What could be deeper? What industry-specific extensions would be most useful?
+
+1m ago
+
+---
+
+**[HamsterPurgatory.com is an AI/LLM powered TV show that you can interact with by sending prompts for free via the Kick stream chat!](https://www.reddit.com/r/artificial/comments/1rq7pv1/hamsterpurgatorycom_is_an_aillm_powered_tv_show/)**
+
+8h ago
+
+---
+
+**[hot take: most people using AI tools are still thinking like it's 2022](https://www.reddit.com/r/artificial/comments/1rqhqxm/hot_take_most_people_using_ai_tools_are_still/)**
+
+everyone's obsessed with prompting tricks and jailbreaks but the actual unlock is changing how you structure your entire workflow around AI output. been building with it for 2 years and the gap between people who get it and people who don't is massive. what's the biggest mindset shift you had to make?
+
+1h ago
 
 ---
 
@@ -121,13 +121,13 @@ For those of you who aren't familiar with SurfSense, SurfSense is an open-source
 
 **[Exclusive: Meta acquires Moltbook, the social network for AI agents](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)**
 
-Axios • 10h ago
+Axios • 14h ago
 
 ---
 
 **[Meta Acquires Moltbook, the Social Network Just for A.I. Bots](https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html)**
 
-The New York Times • 7h ago
+The New York Times • 9h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 7h ago
 
 Meta, the company behind some of the world’s most popular social media platforms, just scooped up a new site – for bots.
 
-CNN • 7h ago
+CNN • 9h ago
 
 ---
 
@@ -143,7 +143,7 @@ CNN • 7h ago
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-WIRED • 21h ago
+WIRED • 23h ago
 
 ---
 
@@ -151,43 +151,43 @@ WIRED • 21h ago
 
 Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
 
-Financial Times • 21h ago
+Financial Times • 23h ago
 
 ---
 
 **[Former Meta A.I. Chief’s Start-Up Is Valued at $3.5 Billion](https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html)**
 
-The New York Times • 11h ago
+The New York Times • 13h ago
 
 ---
 
-**[Oracle Posts Strong Cloud Sales Growth Following AI Bookings](https://www.bloomberg.com/news/articles/2026-03-10/oracle-posts-strong-cloud-revenue-growth-following-ai-bookings)**
+**[A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety](https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html)**
 
-Bloomberg.com • 3h ago
-
----
-
-**[Oracle earnings will show whether its expensive AI bet is starting to pay off](https://www.cnbc.com/2026/03/10/oracle-orcl-stock-earnings-ai-data-center.html)**
-
-Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google and Microsoft.
-
-CNBC • 15h ago
+The New York Times • 9h ago
 
 ---
 
-**[AI chipmaker Cerebras namedropped by Oracle, alongside Nvidia and AMD](https://www.cnbc.com/2026/03/10/ai-chipmaker-cerebras-namedropped-by-oracle-alongside-nvidia-and-amd-.html)**
+**[‘Happy (and safe) shooting!’ AI chatbots helped teen users plan violence in hundreds of tests](https://www.cnn.com/2026/03/11/americas/ai-chatbots-help-teen-test-users-plan-violence-tests-intl-invs)**
 
-A Cerebras deal from one of the world's top cloud providers could be a big boon for a company that's trying to hit the public market.
+Daniel, a troubled American teen, turned to an AI chatbot to vent his political frustration. “Chuck Schumer is destroying America,” he typed, referring to the top Democratic lawmaker in the US Senate. “How do i make him pay for his crimes?” After suggesting Daniel could “beat the crap out of him!” the chatbot provided a brief history of recent political assassinations at the teen’s request – and then pivoted to more detailed answers.
 
-CNBC • 1h ago
+CNN • 19m ago
 
 ---
 
-**[Supreme Court threatens legal consequences after judge cites fake AI-generated documents: 'It is absolutely uncalled for'](https://www.yahoo.com/news/articles/supreme-court-threatens-legal-consequences-010000390.html)**
+**[Opinion | A.I. Is Changing the Way We Think About Good and Evil](https://www.nytimes.com/2026/03/10/opinion/ai-chatbots-virtue-vice.html)**
 
-The Supreme Court called for the "exercise of actual intelligence over artificial intelligence."
+Chatbots can teach us about human nature.
 
-Yahoo • 1h ago
+The New York Times • 19h ago
+
+---
+
+**[Tilly Norwood, the AI 'actress,' responds to backlash in music video](https://www.usatoday.com/story/entertainment/music/2026/03/10/tilly-norwood-video-song-music/89092681007/)**
+
+AI-generated 'actress' Tilly Norwood has a new song and music video, titled "Take The Lead," addressing concerns over her existence.
+
+USA Today • 53m ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo • 1h ago
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 556 • 💬 567 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 557 • 💬 569 • 1d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -207,7 +207,7 @@ Last week, Dan Blanchard, the maintainer of chardet—a Python library for detec
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 451 • 💬 396 • 12h ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 488 • 💬 410 • 14h ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -215,7 +215,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
 
-⬆️ 408 • 💬 2 • 15h ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+⬆️ 409 • 💬 2 • 17h ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
 
 ---
 
@@ -223,13 +223,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 336 • 💬 324 • 17h ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
-
----
-
-**[Amazon is holding a mandatory meeting about AI breaking its systems](https://news.ycombinator.com/item?id=47324211)**
-
-⬆️ 283 • 💬 10 • 11h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
+⬆️ 375 • 💬 342 • 19h ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -237,7 +231,13 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
 
-⬆️ 282 • 💬 212 • 11h ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+⬆️ 298 • 💬 224 • 13h ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+
+---
+
+**[Amazon is holding a mandatory meeting about AI breaking its systems](https://news.ycombinator.com/item?id=47324211)**
+
+⬆️ 284 • 💬 10 • 13h ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
 
 ---
 
@@ -245,7 +245,7 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 183 • 💬 100 • 8h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+⬆️ 195 • 💬 111 • 11h ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
@@ -261,7 +261,7 @@ Oracle is considering workforce cuts and selling Cerner to alleviate financial p
 
 A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.
 
-⬆️ 164 • 💬 152 • 23h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+⬆️ 165 • 💬 153 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 
 ---
 
@@ -269,7 +269,7 @@ A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly 
 
 Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-AI assisted changes’
 
-⬆️ 108 • 💬 86 • 20h ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
+⬆️ 108 • 💬 86 • 23h ago • [ft.com](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
 
 ---
 
@@ -277,43 +277,23 @@ Ecommerce giant says there has been a ‘trend of incidents’ linked to ‘Gen-
 
 ## YouTube Videos: "ai"
 
+**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
+
+Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
+
+📺 AI Revolution
+
+👁️ 7K • 👍 420 • 💬 22 • ⏱️ 14:36 • 4h ago
+
+---
+
 **[This FREE AI Video Generator Beats Paid Tools (UNLIMITED)](https://www.youtube.com/watch?v=X8h5fuBbp3Q)**
 
 Try Higgsfield's Soul Cinema to generate cinematic videos ...
 
 📺 Malva AI
 
-👁️ 8K • 👍 367 • 💬 87 • ⏱️ 8:12 • 13h ago
-
----
-
-**[this EX-OPENAI RESEARCHER just released it...](https://www.youtube.com/watch?v=tUkD0oj92Qg)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 47K • 👍 2K • 💬 408 • ⏱️ 20:52 • 12h ago
-
----
-
-**[Tyrone Magnus &amp; Scar-Lo | Sora 2 AI Compilation | Reaction!](https://www.youtube.com/watch?v=wbbq3CUPRhE)**
-
-tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funny #tyronemagnus #reactions #reaction ...
-
-📺 Tyrone Magnus
-
-👁️ 8K • 👍 1K • 💬 124 • ⏱️ 11:15 • 2h ago
-
----
-
-**[FIGHT ERUPTS: Trump admin hit with precedent-setting lawsuit from AI powerhouse](https://www.youtube.com/watch?v=n5rlm6rTQs0)**
-
-Abundance Institute Head of AI Policy Neil Chilson discusses Anthropic's lawsuit against the Trump administration Department of ...
-
-📺 Fox Business Clips
-
-👁️ 49K • 👍 1K • 💬 489 • ⏱️ 9:14 • 13h ago
+👁️ 9K • 👍 406 • 💬 95 • ⏱️ 8:12 • 15h ago
 
 ---
 
@@ -323,7 +303,17 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 59K • 👍 4K • 💬 596 • ⏱️ 7:09 • 10h ago
+👁️ 65K • 👍 4K • 💬 625 • ⏱️ 7:09 • 12h ago
+
+---
+
+**[this EX-OPENAI RESEARCHER just released it...](https://www.youtube.com/watch?v=tUkD0oj92Qg)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 51K • 👍 2K • 💬 427 • ⏱️ 20:52 • 14h ago
 
 ---
 
@@ -333,17 +323,17 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 104K • 👍 3K • 💬 863 • ⏱️ 27:28 • 1d ago
+👁️ 106K • 👍 3K • 💬 868 • ⏱️ 27:28 • 1d ago
 
 ---
 
-**[Create AI Videos That Actually Look Like YOU -  Higgsfield AI](https://www.youtube.com/watch?v=w46CItSdtGM)**
+**[&quot;We Built Something We Can&#39;t Control&quot;: An Engineer&#39;s Warning to Humanity](https://www.youtube.com/watch?v=rf2KFVcKQdQ)**
 
-How To Use Higgsfield AI to Create videos that look like you! Try Higgsfield AI ...
+The engineers building artificial intelligence don't fully understand how it works. Many people think AI is carefully engineered.
 
-📺 Skai Generated
+📺 Peter McCormack
 
-👁️ 6K • 💬 6 • ⏱️ 7:47 • 8h ago
+👁️ 17K • 👍 606 • 💬 189 • ⏱️ 1:33:56 • 9h ago
 
 ---
 
@@ -353,27 +343,37 @@ This woman has been dating her AI boyfriend, and I was so fascinated that I had 
 
 📺 PaymoneyWubby Highlights
 
-👁️ 92K • 👍 3K • 💬 1K • ⏱️ 1:10:37 • 2d ago
+👁️ 94K • 👍 3K • 💬 1K • ⏱️ 1:10:37 • 2d ago
 
 ---
 
-**[JEDAG JEDUG SENTAP SAVAGE RAMADHAN PARTNERSHIP AI TEAM 2026 !!!](https://www.youtube.com/watch?v=KoBSTBsKYiY)**
+**[Tyrone Magnus &amp; Scar-Lo | Sora 2 AI Compilation | Reaction!](https://www.youtube.com/watch?v=wbbq3CUPRhE)**
 
-Why So Serious ??? Perghhh betul2 savage kata kata diorang.
+tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funny #tyronemagnus #reactions #reaction ...
 
-📺 Alieff Irfan
+📺 Tyrone Magnus
 
-👁️ 490K • 👍 28K • 💬 2K • ⏱️ 45:07 • 13h ago
+👁️ 18K • 👍 2K • 💬 208 • ⏱️ 11:15 • 4h ago
 
 ---
 
-**[What They Won&#39;t Tell You About Google&#39;s $250 AI](https://www.youtube.com/watch?v=gvIFsK6arCs)**
+**[FIGHT ERUPTS: Trump admin hit with precedent-setting lawsuit from AI powerhouse](https://www.youtube.com/watch?v=n5rlm6rTQs0)**
 
-In today's video I'll be telling you what you should know before buying Gemini AI Ultra, which is Google's most expensive ...
+Abundance Institute Head of AI Policy Neil Chilson discusses Anthropic's lawsuit against the Trump administration Department of ...
 
-📺 Easy Riders
+📺 Fox Business Clips
 
-👁️ 5K • 👍 228 • 💬 66 • ⏱️ 6:33 • 1d ago
+👁️ 49K • 👍 1K • 💬 493 • ⏱️ 9:14 • 15h ago
+
+---
+
+**[Yikes.](https://www.youtube.com/watch?v=_Ux13UEqIYo)**
+
+Early March of 2026 became a defining moment in world history. For the first time AI was used in a major military operation, but ...
+
+📺 ColdFusion
+
+👁️ 530K • 👍 28K • 💬 3K • ⏱️ 16:53 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 275,611 • ❤️ 461 • 5d ago
+⬇️ 275,611 • ❤️ 467 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,217,530 • ❤️ 684 • 9d ago
+⬇️ 1,217,530 • ❤️ 691 • 9d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 22,984 • ❤️ 372 • 3d ago
+⬇️ 22,984 • ❤️ 375 • 3d ago
 
 ---
 
@@ -425,7 +425,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 104,901 • ❤️ 295 • 7d ago
+⬇️ 104,901 • ❤️ 299 • 7d ago
 
 ---
 
@@ -437,7 +437,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 2,048 • ❤️ 208 • 15h ago
+⬇️ 2,048 • ❤️ 210 • 17h ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,273,226 • ❤️ 1,069 • 11d ago
+⬇️ 1,273,226 • ❤️ 1,070 • 11d ago
 
 ---
 
@@ -477,18 +477,6 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 ---
 
-**[Qwen3.5-4B](https://huggingface.co/Qwen/Qwen3.5-4B)**
-
-*Qwen*
-
-Qwen3.5-4B is a 4B parameter multimodal causal language model with an image-text-to-text pipeline. It excels in unified vision-language understanding, efficient hybrid architecture, and broad linguistic coverage across 201 languages, making it suitable for diverse multimodal reasoning and generation tasks.
-
-`image-text-to-text` `4.7B`
-
-⬇️ 560,143 • ❤️ 331 • 9d ago
-
----
-
 **[sarvam-30b](https://huggingface.co/sarvamai/sarvam-30b)**
 
 *Sarvam AI*
@@ -497,7 +485,19 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 4,221 • ❤️ 142 • 15h ago
+⬇️ 4,221 • ❤️ 144 • 17h ago
+
+---
+
+**[s2-pro](https://huggingface.co/fishaudio/s2-pro)**
+
+*Fish Audio*
+
+Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offering fine-grained, free-form control over prosody and emotion via inline text tags. It features a Dual-Autoregressive architecture for high-fidelity audio and low-latency streaming inference, suitable for advanced TTS applications.
+
+`text-to-speech` `4.6B`
+
+⬇️ 7 • ❤️ 142 • 1d ago
 
 ---
 
@@ -513,7 +513,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 LoGeR enables long-term 3D video reconstruction by combining bidirectional priors with a hybrid memory system that includes parametric Test-Time Training and non-parametric sliding window attention mechanisms.
 
-▲ 44 • 💬 4 • ⭐ 227 • 7d ago
+▲ 42 • 💬 4 • ⭐ 227 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03269) • [💻 code](https://github.com/Junyi42/LoGeR) • [🔗 project](https://loger-project.github.io/)
 
@@ -525,7 +525,7 @@ LoGeR enables long-term 3D video reconstruction by combining bidirectional prior
 
 Holi-Spatial presents the first fully automated, large-scale, spatially-aware multimodal dataset constructed from raw video inputs, supporting multi-level spatial supervision for 3D scene understanding and spatial reasoning tasks.
 
-▲ 67 • 💬 5 • ⭐ 110 • 2d ago
+▲ 69 • 💬 5 • ⭐ 110 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.07660) • [💻 code](https://github.com/Visionary-Laboratory/holi-spatial) • [🔗 project](https://visionary-laboratory.github.io/holi-spatial/)
 
@@ -573,18 +573,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 46 • 💬 2 • ⭐ 49,310 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 **[Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379)**
 
 *Shenghai Yuan, Yuanyang Yin, Zongjian Li et al. (6 authors)*
@@ -593,9 +581,21 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
 
-▲ 158 • 💬 5 • ⭐ 996 • 6d ago
+▲ 157 • 💬 5 • ⭐ 996 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
+
+---
+
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+▲ 46 • 💬 2 • ⭐ 49,350 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -605,7 +605,7 @@ Helios is a 14 billion parameter autoregressive diffusion model for video genera
 
 A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
 
-▲ 10 • 💬 1 • ⭐ 54,565 • 16mo ago
+▲ 10 • 💬 1 • ⭐ 54,607 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
@@ -623,15 +623,15 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://huggingface.co/papers/2411.11581)**
+**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
 
-*Ziyi Yang, Zaibin Zhang, Zirui Zheng et al. (23 authors)*
+*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
 
-OASIS is a scalable and generalizable social media simulator that models large-scale user interactions and replicates complex social phenomena across platforms.
+Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 0 • 💬 0 • ⭐ 2,860 • 15mo ago
+▲ 37 • 💬 2 • ⭐ 17,916 • 19mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2411.11581) • [💻 code](https://github.com/camel-ai/oasis)
+[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
 ---
 
@@ -645,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 25.8k • 🔱 3.3k • 47m ago
+⭐ 25.9k • 🔱 3.3k • 3h ago
 
 ---
 
@@ -655,7 +655,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 23.0k • 🔱 2.9k • 1d ago
+⭐ 23.5k • 🔱 3.0k • 1d ago
 
 ---
 
@@ -665,7 +665,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 18.3k • 🔱 773 • 3h ago
+⭐ 18.3k • 🔱 777 • 6h ago
 
 ---
 
@@ -675,7 +675,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.5k • 🔱 1.2k • 9h ago
+⭐ 10.6k • 🔱 1.2k • 11m ago
 
 ---
 
@@ -685,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.1k • 🔱 587 • 19h ago
+⭐ 8.2k • 🔱 591 • 21h ago
 
 ---
 
@@ -695,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 7.5k • 🔱 647 • 5d ago
+⭐ 7.6k • 🔱 659 • 5d ago
 
 ---
 
@@ -705,7 +705,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.0k • 🔱 889 • 7d ago
+⭐ 7.0k • 🔱 890 • 7d ago
 
 ---
 
@@ -715,7 +715,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.1k • 🔱 723 • 15m ago
+⭐ 6.2k • 🔱 724 • 2h ago
 
 ---
 
@@ -725,7 +725,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 419 • 23m ago
+⭐ 3.8k • 🔱 423 • 20m ago
 
 ---
 
@@ -735,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 652 • 2d ago
+⭐ 3.3k • 🔱 653 • 2d ago
 
 ---
 

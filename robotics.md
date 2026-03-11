@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T02:05:01.148440+00:00'
+updated: '2026-03-11T04:21:26.418911+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 02:05 UTC  
+**Last Updated:** March 11, 2026 at 04:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineering for Disneyland theme parks. Inspiration for walking movements was taken from the waddle of a duck, creating a stable walk while still keeping the appearance fun, as with Star Wars droids.
 
-9h ago
+11h ago
 
 ---
 
@@ -44,7 +44,13 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Look at this interesting robotic grasping project, accomplished with the assistance of a 3D depth camera P050. It outputs highly accurate RGBD data.
 
-9h ago
+12h ago
+
+---
+
+**[Built this from scrap metal](https://www.reddit.com/r/robotics/comments/1rqjuv7/built_this_from_scrap_metal/)**
+
+2m ago
 
 ---
 
@@ -52,7 +58,7 @@ Look at this interesting robotic grasping project, accomplished with the assista
 
 I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. After it arrived dead on arrival I contacted them within 1 hour of delivery & they forwarded me to latte panda support team. They were able to verify the board is not functioning & requested dfr to issue a replacement. Here’s the kicker they want me to ship it back to china from the us on my own dime and only willing to cover $30 shipping fee. Keep in mind this would at the very least cost $70-100 to ship internationally to china as well as the time it would take for the process. I asked DFR robot why it couldn’t be shipped to their California location as I bought it from the US website & it was shipped within the US as well & costs. They stopped answering completely. Now I will have to contact my bank in the AM to help with the issue even though they initially blocked the transaction from happening( now I see why) to see what can be done. In the meantime I’m out of almost $700 for a useless piece of hardware. I’m just glad I didn’t go ahead and place the order for the rest of what I would’ve needed which would’ve been 30 boards total then I would definitely been fkd. posting this so anybody in the future thinking about buying from them & you happened to get a bad product. Don’t expect for them to honor their warranty nor return policy it’s a scam. So save your money. All this because I needed a 32GB device for a warehouse project smh
 
-17h ago
+19h ago
 
 ---
 
@@ -64,7 +70,15 @@ I recently bought a a lattepanda sigma 32gb almost $700 product from dfr robot. 
 
 **[Figure's Helix 2 - Full Body Autonomy Video](https://www.reddit.com/r/robotics/comments/1rq45b6/figures_helix_2_full_body_autonomy_video/)**
 
-8h ago
+10h ago
+
+---
+
+**[My Magnetic Guided AGV Demonstrator](https://www.reddit.com/r/robotics/comments/1rpydju/my_magnetic_guided_agv_demonstrator/)**
+
+This video shows the AGV in action that follows a magnetic line, with markers along the track telling the robot which branch to take at forks, where to slow down and where to stop for charging. I realise that line following feels old-school in this age of laser guidance and humanoid robots. But, hey, it costs less, and is super accurate. On the right side are the ceiling view of the track, and of the supervisory PC screen. Every 200 ms the robot publishes battery voltage, operating state, and distance traveled. The robot position is reconstructed from encoder odometry and displayed by a small Python program (which still needs some optimization to make the motion smoother on screen). The robot controller communicates with the magnetic sensor and motor controller over CAN bus, while WiFi/MQTT is used for supervision and command. The navigation control loop runs every 10 ms locally. MQTT overhead has no impact on real-time execution. MQTT topics are custom for now, but I may migrate to VDA5050 in a future version. I also wrote a short architecture note describing the system and software structure. I'll be happy to share, if anyone is interested. Curious to hear any thoughts or suggestions.
+
+13h ago
 
 ---
 
@@ -88,22 +102,6 @@ Paper: Sage Journals: Design, modeling, control, and evaluation of a wearable Ce
 
 ---
 
-**[Convolutional Neural Networks - Explained](https://www.reddit.com/r/robotics/comments/1rpr38a/convolutional_neural_networks_explained/)**
-
-Hi there, I've created a video here where I explain how convolutional neural networks work. I hope some of you find it useful — and as always, feedback is very welcome! :)
-
-17h ago
-
----
-
-**[Our robot can pick itself up now. Where should I take it?](https://www.reddit.com/r/robotics/comments/1ropyzo/our_robot_can_pick_itself_up_now_where_should_i/)**
-
-Got fall recovery working this week. No scripted motion, just RL figured out how to get up on its own. The way it does is kinda violent though, like it's pissed off about falling lol My wish was this little guy could follow me around everywhere without me having to pick it up every time it tips over. Have a walk, kids playing in the yard, whatever, ideally 99% of the time it handles itself. We've been testing it on gravel, cobblestone, and stone-slab paths so far, it's doing better than we expected. More terrain tests on r/MondoRobots if you're curious. Now we're thinking about what's next, what other surfaces should we be throwing at it? Stairs, snow, sand? Would love to hear what matters most to you guys.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -112,21 +110,13 @@ Got fall recovery working this week. No scripted motion, just RL figured out how
 
 This robo-chef can take over your meal prep.
 
-The Verge • 4h ago
+The Verge • 7h ago
 
 ---
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg.com • 12h ago
-
----
-
-**[Agility, Boston Dynamics, ASTM to discuss the state of humanoid robotics](https://www.therobotreport.com/agility-boston-dynamics-astm-to-discuss-the-state-of-humanoid-robotics/)**
-
-In this panel, experts will cut through the hype to examine what humanoids can realistically accomplish in factories and warehouses today.
-
-The Robot Report • 4h ago
+Bloomberg • 14h ago
 
 ---
 
@@ -134,7 +124,7 @@ The Robot Report • 4h ago
 
 Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
 
-MIT Technology Review • 12h ago
+MIT Technology Review • 14h ago
 
 ---
 
@@ -143,6 +133,30 @@ MIT Technology Review • 12h ago
 A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
 
 NPR • 2d ago
+
+---
+
+**[Teradyne sues Chinese cobot maker over UR software](https://www.therobotreport.com/teradyne-sues-chinese-cobot-marker-over-ur-software/)**
+
+Teradyne Robotics has “irrefutable evidence” of Chinese robot company  Elite  Robots for copyright infringement of Universal Robots’ software.
+
+The Robot Report • 8h ago
+
+---
+
+**[AI-powered | WellSpan York Hospital unveils full-service robotic kitchen](https://www.wgal.com/article/wellspan-health-launches-ai-powered-robotic-dining-system/70685843)**
+
+The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
+
+WGAL • 15h ago
+
+---
+
+**[Networked for War: Lessons from Ukraine’s Ground Robots](https://mwi.westpoint.edu/networked-for-war-lessons-from-ukraines-ground-robots/)**
+
+Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
+
+Modern War Institute - • 1d ago
 
 ---
 
@@ -168,22 +182,6 @@ ABB • 1d ago
 
 ---
 
-**[AI-powered | WellSpan York Hospital unveils full-service robotic kitchen](https://www.wgal.com/article/wellspan-health-launches-ai-powered-robotic-dining-system/70685843)**
-
-The system provides 24/7, on-demand meal service, helping ensure fresh meals are available at any time of day.
-
-WGAL • 12h ago
-
----
-
-**[Networked for War: Lessons from Ukraine’s Ground Robots](https://mwi.westpoint.edu/networked-for-war-lessons-from-ukraines-ground-robots/)**
-
-Although footage of aerial drones skimming over Ukraine’s front lines dominate widespread depictions of the ongoing war in the country, the use of unmanned ground vehicles crawling through mud and snow has increased significantly. In the past two years, Kyiv has moved from one-off battlefield experiments to fielding thousands of these vehicles, which perform logistics,
-
-Modern War Institute - • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -204,7 +202,15 @@ In this project I built a tiny desk companion robot using an ESP32, OLED display
 
 📺 Tech Talkies
 
-👁️ 18K • 👍 653 • 💬 55 • ⏱️ 4:51 • 3d ago
+👁️ 18K • 👍 659 • 💬 57 • ⏱️ 4:51 • 3d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=xCvvphfz-Oo)**
+
+📺 Robot Julie 
+
+👁️ 780 • 👍 3 • 💬 2 • ⏱️ 0:22 • 3h ago
 
 ---
 
@@ -214,7 +220,7 @@ Robotics just entered a very strange new phase. Scientists built a tiny robot th
 
 📺 AI Revolution
 
-👁️ 24K • 👍 822 • 💬 61 • ⏱️ 14:35 • 6d ago
+👁️ 24K • 👍 824 • 💬 61 • ⏱️ 14:35 • 6d ago
 
 ---
 
@@ -224,7 +230,7 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 254K • 👍 3K • 💬 375 • ⏱️ 29:41 • 5d ago
+👁️ 256K • 👍 3K • 💬 385 • ⏱️ 29:41 • 5d ago
 
 ---
 
@@ -234,7 +240,17 @@ China's humanoid robots just performed the world's first continuous parkour flip
 
 📺 TechFrontierNow
 
-👁️ 61K • 👍 395 • 💬 90 • ⏱️ 9:26 • 6d ago
+👁️ 62K • 👍 395 • 💬 90 • ⏱️ 9:26 • 6d ago
+
+---
+
+**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
+
+Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
+
+📺 Smokin' Silicon
+
+👁️ 36K • 👍 1K • 💬 108 • ⏱️ 10:52 • 3d ago
 
 ---
 
@@ -244,37 +260,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 7K • 👍 67 • 💬 17 • ⏱️ 3:48 • 1d ago
-
----
-
-**[This Autonomous Humanoid Robot Caught Elon&#39;s Attention #robotics #elonmusk #airobot #figureai](https://www.youtube.com/watch?v=RMoSYQyiNys)**
-
-One of Tesla's biggest rivals in the humanoid race just got the attention of Elon Musk with its latest demo. The Silicon Valley ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 54 • 💬 1 • ⏱️ 0:52 • 9h ago
-
----
-
-**[Prime Time CRAZY Robot Fighting! Round 2 of NHRL&#39;s 2026 Pro World Championships (March)](https://www.youtube.com/watch?v=-x5Fzq4Hig0)**
-
-The 2026 NHRL Pro World Championship Season is HERE! This is Round 2. This. Is. Prime Time! We are down to the final 8 bots ...
-
-📺 NHRL
-
-👁️ 62K • 👍 501 • 💬 56 • ⏱️ 3:23:56 • 2d ago
-
----
-
-**[This Robot &amp; Elon Musk Dance Broke the Internet 🕺🔥#ElonMusk #Tesla #Optimus #TeslaBot #Robotics](https://www.youtube.com/watch?v=EnduYx4nguI)**
-
-A moment like this perfectly captures how technology can be both revolutionary and entertaining at the same time. Watching Elon ...
-
-📺 Billionaire Shots
-
-👁️ 38K • 👍 2K • 💬 289 • ⏱️ 0:13 • 6d ago
+👁️ 7K • 👍 72 • 💬 18 • ⏱️ 3:48 • 1d ago
 
 ---
 
@@ -284,7 +270,17 @@ Everyone thought AI would replace office workers first. But the real disruption 
 
 📺 By 2050
 
-👁️ 110K • 👍 2K • 💬 125 • ⏱️ 0:55 • 5d ago
+👁️ 111K • 👍 2K • 💬 125 • ⏱️ 0:55 • 5d ago
+
+---
+
+**[My Year Living with a Robot | Emily Kate Genatowski | TED](https://www.youtube.com/watch?v=rIg-Zt7bFHY)**
+
+Imagine a robot moving into your home. How would it change your daily life? Historian Emily Kate Genatowski shares five ...
+
+📺 TED
+
+👁️ 23K • 👍 515 • 💬 53 • ⏱️ 13:51 • 4d ago
 
 ---
 

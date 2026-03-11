@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T02:05:01.145219+00:00'
+updated: '2026-03-11T04:21:26.415673+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 02:05 UTC  
+**Last Updated:** March 11, 2026 at 04:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -1.7%  
-**30d:** +0.8%  
-**90d:** -33.9%  
-**1y:** +6.6%  
+**24h:** -0.8%  
+**7d:** -2.2%  
+**30d:** +0.3%  
+**90d:** -34.3%  
+**1y:** +6.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $245.83B
+**Market Cap:** $244.41B
 Rank #2
 
 **Circulating Supply:** 120,692,002 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.8%
+-59.1%
 
 **All-Time Low:** $0.43
-+470333.9%
++467594.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+23h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was recently auditing some smart contracts for a side project, and it struck me how much effort we put into decentralization on-chain, only to funnel everything back through a KYC-heavy centralized exchange the moment we need to pay for a real-world service or a server bill. As someone who values the 'cypherpunk' roots of Ethereum, I’ve been looking for ways to bridge the gap between my ETH/L2 holdings and actual spending without constant surveillance. I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). I recently experimented with AllArk for a No-KYC virtual card to handle some smaller payments (mostly for my digital comic book subscriptions). The UX was surprisingly fluid compared to the usual 'send to exchange -> wait for bank transfer' nightmare. However, this raises some technical questions for the community: Privacy vs. Convenience: Are we at a point where No-KYC off-ramps like AllArk can scale, or will regulatory pressure eventually force them into the same mold as CEXs? Layer 2 Integration: Most off-ramps are still heavily L1-centric. Do you see a future where we can off-ramp directly from Arbitrum or Optimism to a debit card without hitting the mainnet (and paying the gas fee)? Smart Contract Security: When using these intermediate gateways, how are you guys assessing the risk? Are there specific 'red flags' you look for in the contract architecture of an off-ramp provider? I’m curious to know what tools you guys are using to stay 'bankless' in 2026. Is the infrastructure finally here, or are we just in a transitional phase?
 
-5h ago
+8h ago
 
 ---
 
 **[Starknet proposes STRK20 — private ERC-20 tokens on Ethereum L2](https://www.reddit.com/r/ethereum/comments/1rq2jwl/starknet_proposes_strk20_private_erc20_tokens_on/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -156,15 +156,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Meanwhile, more than half of XRP’s total supply is sitting at a loss....
 
-Sherwood News • 9h ago
+Sherwood News • 12h ago
 
 ---
 
-**[New Crypto Based Ethereum Pepeto Completes Platform Interface And Ethereum Price Prediction Targets $7,500](https://markets.businessinsider.com/news/stocks/new-crypto-based-ethereum-pepeto-completes-platform-interface-and-ethereum-price-prediction-targets-7-500-1035916454)**
+**[Ethereum's on fire with record activity, but ether price and blockchain fees lag](https://www.coindesk.com/markets/2026/03/11/ethereum-network-activity-hits-record-highs-as-ether-price-and-fee-generation-lag)**
 
-Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that its platform interface is now complete, and the presale crossed $7.88 milli...
+Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
 
-markets.businessinsider.com • 3h ago
+CoinDesk • 6m ago
+
+---
+
+**[Schonfeld Strategic Advisors Trims ETHA Stake as Ethereum ETFs Expand Regulated Access to Ether](https://www.fool.com/coverage/filings/2026/03/10/schonfeld-strategic-advisors-trims-etha-stake-as-ethereum-etfs-expand-regulated-access-to-ether/)**
+
+Schonfeld Strategic Advisors reduced its position in the iShares Ethereum Trust ETF during the fourth quarter. The fund holds ether directly and offers investors a simpler path to Ethereum exposure through a regulated exchange-traded structure, without the need to use crypto exchanges or manage digital wallets.
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -172,7 +180,15 @@ markets.businessinsider.com • 3h ago
 
 Dubai, UAE, March  10, 2026  (GLOBE NEWSWIRE) -- Pepeto released a major update on exchange bridge update that eliminates the gas fees and failed ...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 3h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Brace for U.S. CPI Report](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-brace-u-003414097.html)**
+
+Bitcoin, Ethereum, and XRP are all trading in the green this week. On the surface, the crypto market looks calm. But under that calm, traders are waiting for one of the biggest macro events of the month: the U.S. CPI (inflation) report. Economists expect inflation to edge up to about ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,11 +198,9 @@ Binance • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Brace for U.S. CPI Report](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-brace-u-003414097.html)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqd7vqSjHUfEpQSazpGW-u5juAxKZoTxw8oLZ3Y2TmmOi6wLytHVX3h1&gaa_ts=69b0f133&gaa_sig=_S76L5rX6YQn_l8sqpyeDG8XPEPr1qJno-ZLnwoCbH2pmjrYDp2na6c6bGAByRTMl4o9Y-wtBZh79HhHp5uluA%3D%3D)**
 
-Bitcoin, Ethereum, and XRP are all trading in the green this week. On the surface, the crypto market looks calm. But under that calm, traders are waiting for one of the biggest macro events of the month: the U.S. CPI (inflation) report. Economists expect inflation to edge up to about ...
-
-Yahoo Finance • 1d ago
+Barron's • 7h ago
 
 ---
 
@@ -202,7 +216,7 @@ PR Newswire • 1d ago
 
 Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -211,20 +225,6 @@ Yahoo Finance • 12h ago
 Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
 
 The Block • 1d ago
-
----
-
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfXHOHjyxJV7ovOrlMK9mwB0H4erCdj9VsY7QxZeEVoXIu535i4VVBo&gaa_ts=69b0d13b&gaa_sig=_N5HY7LqfdaCbjmTbG6jXdlehA-wvGhaHKgN1fct1mD8zQdaubyR5F2P0DWxgWiZCGppo9ds2w_7h9vQSwld8w%3D%3D)**
-
-Barron's • 5h ago
-
----
-
-**[Global insurance broker Aon tests stablecoin payments on Ethereum, Solana with Coinbase, Paxos](https://www.coindesk.com/business/2026/03/09/global-insurance-broker-aon-tests-stablecoin-payments-with-coinbase-paxos)**
-
-The firm used USDC on Ethereum and PayPal USD on Solana for insurance premium payments, testing how stablecoins could reshape settlements.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 41K • 👍 2K • 💬 204 • ⏱️ 21:43 • 12h ago
+👁️ 44K • 👍 2K • 💬 214 • ⏱️ 21:43 • 14h ago
 
 ---
 
@@ -248,27 +248,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 306 • 💬 108 • ⏱️ 13:04 • 10h ago
-
----
-
-**[BITCOIN HOLDERS: Don&#39;t Let This Trick You!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-KkkZehCl-A)**
-
-BITCOIN HOLDERS: Don't Let This Trick You!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 120 • 💬 147 • ⏱️ 16:54 • 2h ago
-
----
-
-**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
-
-GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 53K • 👍 3K • 💬 251 • ⏱️ 9:54 • 1d ago
+👁️ 5K • 👍 318 • 💬 115 • ⏱️ 13:04 • 12h ago
 
 ---
 
@@ -278,7 +258,27 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 The Value Thinker
 
-👁️ 847 • 👍 105 • 💬 26 • ⏱️ 21:31 • 1h ago
+👁️ 2K • 👍 218 • 💬 36 • ⏱️ 21:31 • 3h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
+
+GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
+
+📺 Altcoin Daily
+
+👁️ 54K • 👍 3K • 💬 252 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[BITCOIN HOLDERS: Don&#39;t Let This Trick You!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-KkkZehCl-A)**
+
+BITCOIN HOLDERS: Don't Let This Trick You!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 159 • 💬 141 • ⏱️ 16:54 • 4h ago
 
 ---
 
@@ -288,17 +288,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 3 • ⏱️ 5:14 • 10h ago
+👁️ 2K • 👍 122 • 💬 3 • ⏱️ 5:14 • 12h ago
 
 ---
 
-**[Ethereum: Ist das die Zukunft oder kann das weg?](https://www.youtube.com/watch?v=UtUV3JVXVo8)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=8kqQXRinWqA)**
 
-In diesem Video nehmen wir Ethereum in einem ausführlichen technischen Deep Dive auseinander. Statt nur ein einzelnes ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Charts & Cars by Philip Klinkmüller
+📺 More Crypto Online
 
-👁️ 8K • 👍 798 • 💬 26 • ⏱️ 19:12 • 8h ago
+👁️ 366 • 👍 51 • 💬 2 • ⏱️ 4:40 • 2h ago
 
 ---
 
@@ -308,7 +308,17 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 7K • 👍 317 • 💬 51 • ⏱️ 18:25 • 1d ago
+👁️ 7K • 👍 322 • 💬 52 • ⏱️ 18:25 • 1d ago
+
+---
+
+**[ALTCOINS Just Hit a 5-Year Reset - ETH ADA SUI Coiled Tighter Than EVER](https://www.youtube.com/watch?v=84LvmqT0Uqs)**
+
+Prepare for the cycle with our risk models to accumulate, plan exits, and stay ahead! Free Trial app.cryptocapitalventure.ai ...
+
+📺 Dan Gambardello
+
+👁️ 9K • 👍 727 • 💬 232 • ⏱️ 11:26 • 12h ago
 
 ---
 
@@ -318,17 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 285 • 👍 10 • ⏱️ 5:18 • 16h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=6pMOlGD1bnM)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 208 • 👍 38 • ⏱️ 5:14 • 2h ago
+👁️ 285 • 👍 10 • ⏱️ 5:18 • 18h ago
 
 ---
 
