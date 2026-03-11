@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T18:10:48.845044+00:00'
+updated: '2026-03-11T19:24:54.672576+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 18:10 UTC  
+**Last Updated:** March 11, 2026 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,21 @@ Robotics research and industry news
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-3h ago
+4h ago
 
 ---
 
 **[NASA’s snake-like robot “EELS” is designed to explore icy moons and extreme terrain](https://www.reddit.com/r/robotics/comments/1rqz4i7/nasas_snakelike_robot_eels_is_designed_to_explore/)**
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
+
+2h ago
+
+---
+
+**[MSG 3D Printed Stepper Gripper - Compliance](https://www.reddit.com/r/robotics/comments/1rr18j8/msg_3d_printed_stepper_gripper_compliance/)**
+
+The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
 
 1h ago
 
@@ -50,7 +58,7 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-4h ago
+5h ago
 
 ---
 
@@ -66,13 +74,29 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
 
-8h ago
+9h ago
+
+---
+
+**[Has live sycing and copying files via terminal seemed tedious?](https://www.reddit.com/r/robotics/comments/1rr1dmj/has_live_sycing_and_copying_files_via_terminal/)**
+
+As a robotics software developer, I have had several instances where I'm working with numerous remote systems, be it ssh with robots or working with cloud instances. What became a rather tedious work was copying files into your local system from remote hosts or syncing directories with or across remote systems (despite there being fzf history and ssh config to structure your terminal commands ). I wanted to know if this is the case for most people or if there is a easier method for it that I am missing 🤔.
+
+1h ago
+
+---
+
+**[Is Japan leader in robotics?](https://www.reddit.com/r/robotics/comments/1rr092u/is_japan_leader_in_robotics/)**
+
+I remember when they talked about robotics, they mentioned Japan as the global reference. But now that I look at the news, I don't see Japan having more advanced robotics technology than other countries, I'd even consider it to be several steps behind if you look at the advances in humanoid and service robotics. Or were the ones saying Japan was a leader in robotics just weebs?
+
+1h ago
 
 ---
 
 **[Python - (Turtle), Pen Plotting Machine](https://www.reddit.com/r/robotics/comments/1rquabt/python_turtle_pen_plotting_machine/)**
 
-🔗 [a.co](https://a.co/d/0jbGo04e) • 4h ago
+🔗 [a.co](https://a.co/d/0jbGo04e) • 5h ago
 
 ---
 
@@ -84,30 +108,6 @@ Look at this interesting robotic grasping project, accomplished with the assista
 
 ---
 
-**[My Magnetic Guided AGV Demonstrator](https://www.reddit.com/r/robotics/comments/1rpydju/my_magnetic_guided_agv_demonstrator/)**
-
-This video shows the AGV in action that follows a magnetic line, with markers along the track telling the robot which branch to take at forks, where to slow down and where to stop for charging. I realise that line following feels old-school in this age of laser guidance and humanoid robots. But, hey, it costs less, and is super accurate. On the right side are the ceiling view of the track, and of the supervisory PC screen. Every 200 ms the robot publishes battery voltage, operating state, and distance traveled. The robot position is reconstructed from encoder odometry and displayed by a small Python program (which still needs some optimization to make the motion smoother on screen). The robot controller communicates with the magnetic sensor and motor controller over CAN bus, while WiFi/MQTT is used for supervision and command. The navigation control loop runs every 10 ms locally. MQTT overhead has no impact on real-time execution. MQTT topics are custom for now, but I may migrate to VDA5050 in a future version. I also wrote a short architecture note describing the system and software structure. I'll be happy to share, if anyone is interested. Curious to hear any thoughts or suggestions.
-
-1d ago
-
----
-
-**[Watch humanoids play soccer. Upcoming Livestream for the RoboCup German Open 2026](https://www.reddit.com/r/robotics/comments/1rql7ph/watch_humanoids_play_soccer_upcoming_livestream/)**
-
-Erlebt live spannende Wettbewerbe, innovative Robotik, packende Matches und faszinierende Technologien aus der Welt des RoboCup. Heute starten die Teams in d...
-
-🔗 [YouTube](https://www.youtube.com/live/pQkf3MvBr2s?is=ABwodU_7hzekDwtO) • 12h ago
-
----
-
-**[Lipo S3 charging + load for a project](https://www.reddit.com/r/robotics/comments/1rqmkpa/lipo_s3_charging_load_for_a_project/)**
-
-Hi all, I am getting into the hobby and I build this cute robot which I currently running from usb-c cable going directly to the ESP32. I want to add batteries for it but I am looking for the best (and safe way) to go. Few things I want: Chargeable via USB-C Chargeable while powered on (I believe this may be a bit sketchy)\ I use lipo 3s (because I already have it and I may want more Vs in the future projects) I hope this drawing makes sense to you, but I want to clarify if it is a good plan? (Just to clarify 4 thinner wires are for balancing and thicker ones for the main load. I would use lipo 3s with XT30 connection). Thanks https://preview.redd.it/0no1gx2a5dog1.png?width=1504&format=png&auto=webp&s=a096d1ae4ace9ad7303706de897e116cf9b7b1de
-
-11h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -116,19 +116,19 @@ Hi all, I am getting into the hobby and I build this cute robot which I currentl
 
 This robo-chef can take over your meal prep.
 
-The Verge • 20h ago
+The Verge • 22h ago
 
 ---
 
 **[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqesfDd1PnBg4MnnFc5xxfaeAPCiM4T95bBVSyaTthWC_zK8OQZ8saWx&gaa_ts=69b1a96e&gaa_sig=1cu7lyohc73Typq2EAGOVcarcJ-h7D7D1AVXZ5KDFh966SH5A02OjRad6TxHfRGLcgeTXv_pW0lrfVM212FRGw%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcqJAgZLuUTXqUxJ93CEuywVcca9IYms5JgZACTVL8O3M9G-3vtBA0z&gaa_ts=69b1c4ed&gaa_sig=Zyfb1oiPQjBBVnwSHLDFqt5_-Tw4--8foB8zW2lW6toYseNlszJBBCvc8V7VTKT2vp-UQJcmMtqCdM-t3JtLUQ%3D%3D)**
 
-WSJ • 3h ago
+WSJ • 4h ago
 
 ---
 
@@ -136,21 +136,23 @@ WSJ • 3h ago
 
 The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
 
-TechCrunch • 1h ago
+TechCrunch • 3h ago
 
 ---
 
-**[Rivian CEO RJ Scaringe secures $500M for industrial robotics startup after record seed round](https://www.bizjournals.com/sanjose/news/2026/03/11/mind-robotics-ai-funding-round.html)**
+**[Rivian CEO launches robotics startup with $500M funding round: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-ceo-scaringe-launches-robotics-startup-mind-20260311/)**
 
-The Business Journals • 1h ago
+Mind Robotics, a startup founded by Rivian CEO RJ Scaringe, has raised $500 million from investors including Accel and Andreessen Horowitz, according to a report from The Wall Street Journal.
+
+Crain's Chicago Business • 4h ago
 
 ---
 
-**[Amazon is investing AU$750 million in a robotics fulfillment center in Australia](https://www.aboutamazon.com/news/company-news/australia-robotics-fulfillment-center)**
+**[Serve Robotics Announces Fourth Quarter and Full Year 2025 Results](https://finance.yahoo.com/news/serve-robotics-announces-fourth-quarter-110000555.html)**
 
-Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
+Exceeded Q4 and full year 2025 expectations with fourth quarter revenue up roughly 400% year over year to $0.9 million, and full year revenue of $2.7 million, above prior guidance of $2.5 million.Scaled the fleet to 2,000 deployed robots by year end, expanding Serve’s operating footprint to 20 cities across 6 major metropolitan areasExpanded and diversified the platform through new market launches, the addition of DoorDash alongside Uber Eats, growth to 4,500+ merchant partners, and four strateg
 
-About Amazon • 17h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -162,25 +164,25 @@ MIT Technology Review • 1d ago
 
 ---
 
+**[Amazon is investing AU$750 million in a robotics fulfillment center in Australia](https://www.aboutamazon.com/news/company-news/australia-robotics-fulfillment-center)**
+
+Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
+
+About Amazon • 18h ago
+
+---
+
 **[ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale](https://www.abb.com/global/en/news/134030)**
 
 ABB • 2d ago
 
 ---
 
-**[Humanoid Robots Exit Labs: Mapping the Technical Path to Embodied AI at AW 2026](https://www.eetimes.com/humanoid-robots-exit-labs-mapping-the-technical-path-to-embodied-ai-at-aw-2026/)**
+**[AI and robotics are the recycling industry’s latest bet on profitability](https://qz.com/ai-robotics-recycling-automation)**
 
-The AW 2026 expo in Seoul highlights a pivotal shift as humanoid robots move from research labs to industrial applications.
+Recycling facilities are deploying AI and robotics to automate waste sorting, improve data accuracy, and fix the difficult economics of global trash.
 
-EE Times • 18h ago
-
----
-
-**[Teradyne sues Chinese cobot maker over UR software](https://www.therobotreport.com/teradyne-sues-chinese-cobot-marker-over-ur-software/)**
-
-Teradyne Robotics has “irrefutable evidence” of Chinese robot company  Elite  Robots for copyright infringement of Universal Robots’ software.
-
-The Robot Report • 22h ago
+qz.com • 1h ago
 
 ---
 
@@ -214,7 +216,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 12K • 👍 84 • 💬 25 • ⏱️ 3:48 • 1d ago
+👁️ 12K • 👍 84 • 💬 25 • ⏱️ 3:48 • 2d ago
 
 ---
 
@@ -244,7 +246,7 @@ China's humanoid robots just performed the world's first continuous parkour flip
 
 📺 TechFrontierNow
 
-👁️ 63K • 👍 403 • 💬 91 • ⏱️ 9:26 • 6d ago
+👁️ 63K • 👍 403 • 💬 91 • ⏱️ 9:26 • 7d ago
 
 ---
 
