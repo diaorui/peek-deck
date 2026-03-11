@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T20:44:37.471078+00:00'
+updated: '2026-03-11T21:34:41.552094+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 20:44 UTC  
+**Last Updated:** March 11, 2026 at 21:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I've been moving between countries for about six months now and somewhere around month two I started leaning heavily on crypto for day to day expenses. At this point it covers probably 80% of my spending. I wanted to write up an honest account of what the experience has actually been like because most of what I read before I started was either overly optimistic or completely dismissive. What works well: contactless payments have been flawless everywhere I've been, Southeast Asia, parts of Europe, a few stops in South America. If a terminal accepts tap to pay it works. Adding it to google pay meant I wasn't carrying a separate card, which when you're moving around a lot and trying to minimize what's in your pockets genuinely matters. The conversion from crypto to local currency happens invisibly, the merchant sees a normal transaction, I see a deduction from my balance. No drama. The privacy aspect has been more valuable than I expected while traveling. Having my spending not be directly traceable back to my full financial profile feels meaningful when you're in unfamiliar places and don't fully know what data exposure looks like locally. What doesn't work as well: ATMs are hit or miss. I'd say about 1 in 3 attempts at cash machines has failed for one reason or another, either the machine doesn't support the network or there's a technical hiccup. I keep a small traditional bank account as a backup specifically for cash situations. Some merchants who only take local cards or cash are obviously a dead end. And if your crypto balance drops because of a market move and you haven't loaded up recently you need to be paying attention. Overall it's genuinely viable as a primary spending method if you're organized and keep a backup. The technology is at a point where it's not a workaround anymore, it's just a card that works. Would be happy to answer questions if anyone's thinking about making the switch.
 
-4h ago
+5h ago
 
 ---
 
@@ -101,13 +101,13 @@ Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5
 
 **[BTC-VS-USD](https://www.reddit.com/r/Bitcoin/comments/1rr34o8/btcvsusd/)**
 
-1h ago
+2h ago
 
 ---
 
 **[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -115,7 +115,7 @@ Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5
 
 I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
 
-18h ago
+19h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 I have a teen who is starting a business selling a product she is making. She has already been saving in bitcoin and she wants to accept bitcoin for payments along with other options. But, I’m really hesitant for her to advertise this as the wrench attack is my biggest concern with bitcoin. She wants to encourage other teens to get into bitcoin but so far I have not let her. Just looking for ideas or thoughts.
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 Most traditional crypto cards either shut down or restricted regions in the last few years. The ones I've tried recently that integrate with Apple Pay or Google Pay make it pretty seamless to just tap and pay directly from crypto balances. Fees are usually reasonable too, depending on the card type.
 
-12h ago
+13h ago
 
 ---
 
@@ -147,7 +147,7 @@ Most traditional crypto cards either shut down or restricted regions in the last
 
 Ive been trying to run a node on my ThinkPad with Debian installed on it for about a week. I keep getting all sorts of errors. I keep giving those errors to AI and it keeps giving me all sorts of solutions but then after some time another error pops up - this loop has been happening for a week and its so frustrating! Any advice on what to do to actually run your own node? Some of the errors that keep happening: Error: A fetal internal error occurred...Failed to connect best block (bad-txnmrklroot, hashMerkleRoot mismatch) Error: A fetal internal error occurred...Corrupt block found indicating potential hardware failure Error: A fetal internal error occurred...System error while flushing Fatal LevelDB error: Corruption: lock checksum mismatch...
 
-8h ago
+9h ago
 
 ---
 
@@ -157,7 +157,7 @@ Ive been trying to run a node on my ThinkPad with Debian installed on it for abo
 
 **[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 23h ago
 
 Coinbase CEO Brian Armstrong says AI agents will increasingly transact using crypto wallets, while Bitwise Chief Investment Officer Matt Hougan argues institutional adoption could push Bitcoin toward $1.3 million over time. ‘Own A Crypto Wallet' Armstrong said Monday autonomous AI...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 1h ago
+Polymarket • 2h ago
 
 ---
 
@@ -203,13 +203,13 @@ Yahoo Finance • 2d ago
 
 Central banks aren’t buying it. Billionaire investor Ray Dalio doesn’t trust it as a safe haven. And Bitcoin is trading 44% below its October peak while gold sits near all-time highs.That’s the backdrop against which Bitwise Asset Management’s chief investment officer is making the case that Bitcoi…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
 **[Elon Musk Suddenly Confirms Imminent Crypto Game-Changer Amid Huge $1 Million Bitcoin Price Prediction](https://www.forbes.com/sites/digital-assets/2026/03/11/elon-musk-suddenly-confirms-imminent-crypto-game-changer-amid-huge-1-million-bitcoin-price-prediction/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -289,7 +289,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 S3-native streaming platform. A Kafka alternative with infinite scalability, Kafka-compatible APIs, SQL processing and AI queries. Written in Rust. - gbram1/streamhouse
 
-⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/gbram1/streamhouse)
+⬆️ 2 • 💬 0 • 7h ago • [GitHub](https://github.com/gbram1/streamhouse)
 
 ---
 
@@ -317,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 314 • ⏱️ 9:26 • 21h ago
+👁️ 41K • 👍 2K • 💬 314 • ⏱️ 9:26 • 22h ago
 
 ---
 
@@ -337,7 +337,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 3K • 👍 178 • 💬 105 • ⏱️ 1:13 • 2h ago
+👁️ 3K • 👍 178 • 💬 105 • ⏱️ 1:13 • 3h ago
 
 ---
 
@@ -347,7 +347,7 @@ A bank quietly failed, the Federal Reserve is trapped between inflation and debt
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 872 • 💬 102 • ⏱️ 21:13 • 8h ago
+👁️ 10K • 👍 872 • 💬 102 • ⏱️ 21:13 • 9h ago
 
 ---
 
@@ -357,7 +357,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 879 • 💬 189 • ⏱️ 44:39 • 5h ago
+👁️ 13K • 👍 879 • 💬 189 • ⏱️ 44:39 • 6h ago
 
 ---
 
@@ -395,7 +395,7 @@ In today's video Kyledoops outlines why the market looks like it's setting thing
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 2K • 💬 28 • ⏱️ 23:59 • 13h ago
+👁️ 15K • 👍 2K • 💬 28 • ⏱️ 23:59 • 14h ago
 
 ---
 

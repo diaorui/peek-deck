@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T20:44:37.462712+00:00'
+updated: '2026-03-11T21:34:41.544208+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - repositories
 - social
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 20:44 UTC  
+**Last Updated:** March 11, 2026 at 21:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 2h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 3h ago
 
 ---
 
@@ -63,7 +63,7 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 3h ago
 
 ---
 
@@ -71,7 +71,7 @@ Over the past two years AMD has developed the AMDXDNA accelerator driver in the 
 
 Anthropic is suing the Trump administration, asking federal courts to reverse the Pentagon’s decision designating the artificial intelligence company a “ supply chain risk ” over its refusal to allow unrestricted military use of its technology.
 
-🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 23h ago
+🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 1d ago
 
 ---
 
@@ -79,7 +79,7 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 17h ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 18h ago
 
 ---
 
@@ -95,7 +95,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 Explore codebase like exploring a city with buildings and islands... using our website CodeGraphContext- the go to solution for code indexing now got 2k stars🎉🎉... It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.3.0 released ~2k GitHub stars, ~400 forks 75k+ downloads 75+ contributors, ~200 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Explore codebase like exploring a city with buildings and islands... using our w
 
 "When Ukrainian mathematician Maryna Viazovska received a Fields Medal—widely regarded as the Nobel Prize for mathematics—in July 2022, it was big news. Not only was she the second woman to accept the honor in the award’s 86-year history, but she collected the medal just months after her country had been invaded by Russia. Nearly four years later, Viazovska is making waves again. Today, in a collaboration between humans and AI, Viazovska’s proofs have been formally verified, signaling rapid progress in AI’s abilities to assist with mathematical research. ... The 8-dimensional sphere-packing proof formalization alone, announced on February 23, represents a watershed moment for autoformalization and AI–human collaboration. But today, Math, Inc. revealed an even more impressive accomplishment: Gauss has autoformalized Viazovska’s 24-dimensional sphere-packing proof—all 200,000+ lines of code of it—in just two weeks. There are commonalities between the 8- and 24-dimensional cases in terms of the foundational theory and overall architecture of the proof, meaning some of the code from the 8-dimensional case could be refactored and reused. However, Gauss had no preexisting blueprint to work from this time. “And it was actually significantly more involved than the 8-dimensional case, because there was a lot of missing background material that had to be brought on line surrounding many of the properties of the Leech lattice, in particular its uniqueness,” explains Han. Though the 24-dimensional case was an automated effort, both Han and Hariharan acknowledge the many contributions from humans that laid the foundations for this achievement, regarding it as a collaborative endeavor overall between humans and AI."
 
-🔗 [ieeespectrum](https://spectrum.ieee.org/amp/ai-proof-verification-2675516673) • 9h ago
+🔗 [ieeespectrum](https://spectrum.ieee.org/amp/ai-proof-verification-2675516673) • 10h ago
 
 ---
 
@@ -123,13 +123,13 @@ In the early days of the internet we were in a similar situation. Modems, early 
 
 We’re launching The Anthropic Institute, a new effort to confront the most significant challenges that powerful AI will pose to our societies.
 
-Anthropic • 10h ago
+Anthropic • 11h ago
 
 ---
 
 **[Exclusive: Meta acquires Moltbook, the social network for AI agents](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)**
 
-Axios • 23h ago
+Axios • 1d ago
 
 ---
 
@@ -151,7 +151,7 @@ CNBC • 1d ago
 
 In Gordon’s view, AI hasn’t created digital risk, but has accelerated surveillance.
 
-USA Today • 54m ago
+USA Today • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ USA Today • 54m ago
 
 Grammarly fired AI Nilay.
 
-The Verge • 1h ago
+The Verge • 2h ago
 
 ---
 
@@ -167,13 +167,13 @@ The Verge • 1h ago
 
 Asset-backed securities could provide investors some protection as artificial intelligence disruption fears shake up the market.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[The Billion-Dollar AI Startup That Was Founded by Teenagers](https://www.wsj.com/business/ai-startup-aaru-young-founders-35da7f87?gaa_at=eafs&gaa_n=AWEtsqegcAMJWeLgweMGKZOBXLnWcPnHxhsEJomNbUFuSOmVEInRXT2WNtn5&gaa_ts=69b1d79d&gaa_sig=Ek31AVCIAYAgKDUWf_wSIP9PaaR48Rr6R3q3fSbhB9W6awsXQs3fe1703oQoSZyqgUgQKSxhY6ggPT4AsboaEw%3D%3D)**
 
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
@@ -189,7 +189,7 @@ About Amazon • 23h ago
 
 The rise and fall of the player piano indicates a robust demand for human labor that machines cannot replace.
 
-The Atlantic • 8h ago
+The Atlantic • 9h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Atlantic • 8h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 831 • 💬 376 • 1h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 831 • 💬 376 • 2h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -247,7 +247,7 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 325 • 💬 128 • 10h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 325 • 💬 128 • 11h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -283,7 +283,7 @@ Artificial intelligence actor Tilly Norwood released a new music video called �
 
 📺 TODAY
 
-👁️ 3K • 👍 37 • 💬 21 • ⏱️ 3:54 • 7h ago
+👁️ 3K • 👍 37 • 💬 21 • ⏱️ 3:54 • 8h ago
 
 ---
 
@@ -293,7 +293,7 @@ Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI 
 
 📺 CNBC Television
 
-👁️ 21K • 👍 582 • 💬 169 • ⏱️ 11:04 • 6h ago
+👁️ 21K • 👍 582 • 💬 169 • ⏱️ 11:04 • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 63 • ⏱️ 14:36 • 20h ago
+👁️ 34K • 👍 1K • 💬 63 • ⏱️ 14:36 • 21h ago
 
 ---
 
@@ -313,7 +313,7 @@ Access ALL Models Mentioned in OpenArt: https://www.openart.ai/home/?ref=image-g
 
 📺 Youri van Hofwegen
 
-👁️ 7K • 💬 1 • ⏱️ 9:42 • 4h ago
+👁️ 7K • 💬 1 • ⏱️ 9:42 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ AI giant Anthropic is listing some of the white-collar jobs most likely to be im
 
 📺 CBS News
 
-👁️ 9K • 👍 194 • 💬 71 • ⏱️ 2:46 • 6h ago
+👁️ 9K • 👍 194 • 💬 71 • ⏱️ 2:46 • 7h ago
 
 ---
 
@@ -437,7 +437,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 246 • 5h ago
+⬇️ 746 • ❤️ 246 • 6h ago
 
 ---
 
@@ -648,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.1k • 🔱 3.4k • 49m ago
+⭐ 26.1k • 🔱 3.4k • 1h ago
 
 ---
 
@@ -658,7 +658,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 25.8k • 🔱 3.3k • 15h ago
+⭐ 25.8k • 🔱 3.3k • 16h ago
 
 ---
 
@@ -668,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 18.9k • 🔱 814 • 22h ago
+⭐ 18.9k • 🔱 814 • 23h ago
 
 ---
 
@@ -678,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.7k • 🔱 1.3k • 5h ago
+⭐ 10.7k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -688,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.4k • 🔱 604 • 11h ago
+⭐ 8.4k • 🔱 604 • 12h ago
 
 ---
 
@@ -718,7 +718,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 725 • 6h ago
+⭐ 6.2k • 🔱 725 • 7h ago
 
 ---
 
@@ -728,7 +728,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 434 • 3h ago
+⭐ 3.8k • 🔱 434 • 4h ago
 
 ---
 

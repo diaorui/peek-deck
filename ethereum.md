@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T20:44:37.477007+00:00'
+updated: '2026-03-11T21:34:41.557600+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 20:44 UTC  
+**Last Updated:** March 11, 2026 at 21:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -156,7 +156,7 @@ MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, a
 
 Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -214,7 +214,7 @@ Seeking Alpha • 2d ago
 
 Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 9h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 3K • 💬 68 • ⏱️ 12:32 • 9h ago
+👁️ 10K • 👍 3K • 💬 68 • ⏱️ 12:32 • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 4K • 👍 191 • 💬 47 • ⏱️ 56:53 • 10h ago
+👁️ 4K • 👍 191 • 💬 47 • ⏱️ 56:53 • 11h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 109 • 💬 31 • ⏱️ 5:43 • 4h ago
+👁️ 1K • 👍 109 • 💬 31 • ⏱️ 5:43 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 The Value Thinker
 
-👁️ 7K • 👍 451 • 💬 82 • ⏱️ 21:31 • 19h ago
+👁️ 7K • 👍 451 • 💬 82 • ⏱️ 21:31 • 20h ago
 
 ---
 
@@ -316,7 +316,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 3K • 👍 178 • 💬 105 • ⏱️ 1:13 • 2h ago
+👁️ 3K • 👍 178 • 💬 105 • ⏱️ 1:13 • 3h ago
 
 ---
 

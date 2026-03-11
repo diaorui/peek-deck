@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-11T20:44:37.480196+00:00'
+updated: '2026-03-11T21:34:41.560556+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 11, 2026 at 20:44 UTC  
+**Last Updated:** March 11, 2026 at 21:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ The MSG gripper uses FOC stepper motors without gearboxes, enabling precise cont
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
 
-10h ago
+11h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi guys, so I've been building robots for a while, some of you might have seen m
 
 Did you know that most RealSense stereo cameras include built-in IMUs (Inertial Measurement Units)? Here's a quick demo.
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +90,7 @@ Did you know that most RealSense stereo cameras include built-in IMUs (Inertial 
 
 As a robotics software developer, I have had several instances where I'm working with numerous remote systems, be it ssh with robots or working with cloud instances. What became a rather tedious work was copying files into your local system from remote hosts or syncing directories with or across remote systems (despite there being fzf history and ssh config to structure your terminal commands ). I wanted to know if this is the case for most people or if there is a easier method for it that I am missing 🤔.
 
-2h ago
+3h ago
 
 ---
 
@@ -98,13 +98,13 @@ As a robotics software developer, I have had several instances where I'm working
 
 I remember when they talked about robotics, they mentioned Japan as the global reference. But now that I look at the news, I don't see Japan having more advanced robotics technology than other countries, I'd even consider it to be several steps behind if you look at the advances in humanoid and service robotics. Or were the ones saying Japan was a leader in robotics just weebs?
 
-3h ago
+4h ago
 
 ---
 
 **[Python - (Turtle), Pen Plotting Machine](https://www.reddit.com/r/robotics/comments/1rquabt/python_turtle_pen_plotting_machine/)**
 
-🔗 [a.co](https://a.co/d/0jbGo04e) • 6h ago
+🔗 [a.co](https://a.co/d/0jbGo04e) • 7h ago
 
 ---
 
@@ -116,7 +116,7 @@ I remember when they talked about robotics, they mentioned Japan as the global r
 
 This robo-chef can take over your meal prep.
 
-The Verge • 23h ago
+The Verge • 1d ago
 
 ---
 
@@ -128,7 +128,7 @@ Bloomberg.com • 1d ago
 
 **[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeXXBiwrPUzxZTgJQEe69aDFtBaLSMVA5cI9WzE1E5vKb2rQJDhRyuE&gaa_ts=69b1d7a1&gaa_sig=YY_zKGfFVFZNvz1mb4-7t5asf4J7KnVHfltGi_wVRK5EHfGIXHDqwDn6lVCSXAGQ7JnH4YgWXPseWhsOm3i2Rg%3D%3D)**
 
-WSJ • 5h ago
+WSJ • 6h ago
 
 ---
 
@@ -144,7 +144,7 @@ Business Wire • 1d ago
 
 Exceeded Q4 and full year 2025 expectations with fourth quarter revenue up roughly 400% year over year to $0.9 million, and full year revenue of $2.7 million, above prior guidance of $2.5 million.Scaled the fleet to 2,000 deployed robots by year end, expanding Serve’s operating footprint to 20 cities across 6 major metropolitan areasExpanded and diversified the platform through new market launches, the addition of DoorDash alongside Uber Eats, growth to 4,500+ merchant partners, and four strateg
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -168,7 +168,7 @@ About Amazon • 20h ago
 
 The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
 
-TechCrunch • 4h ago
+TechCrunch • 5h ago
 
 ---
 
@@ -208,7 +208,7 @@ This is going to be the next most toxic build in war robots. The furnace, torch 
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 284 • 💬 35 • ⏱️ 15:33 • 8h ago
+👁️ 6K • 👍 284 • 💬 35 • ⏱️ 15:33 • 9h ago
 
 ---
 
