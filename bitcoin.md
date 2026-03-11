@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-11T21:34:41.552094+00:00'
+updated: '2026-03-11T22:28:28.362305+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 21:34 UTC  
+**Last Updated:** March 11, 2026 at 22:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,436.04
+### $70,573.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -0.5%  
-**30d:** +2.4%  
-**90d:** -21.9%  
-**1y:** -15.7%  
+**24h:** +0.9%  
+**7d:** -0.4%  
+**30d:** +2.5%  
+**90d:** -21.8%  
+**1y:** -15.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1414.05B
+**Market Cap:** $1412.92B
 Rank #1
 
-**Circulating Supply:** 20,000,915 BTC
+**Circulating Supply:** 20,000,953 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -44.0%
 
 **All-Time Low:** $67.81
-+104072.0%
++104023.3%
 
 ---
 
@@ -77,17 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Six months traveling with crypto as my main spending method, here's what actually works and what doesn't](https://www.reddit.com/r/Bitcoin/comments/1rqxje8/six_months_traveling_with_crypto_as_my_main/)**
-
-I've been moving between countries for about six months now and somewhere around month two I started leaning heavily on crypto for day to day expenses. At this point it covers probably 80% of my spending. I wanted to write up an honest account of what the experience has actually been like because most of what I read before I started was either overly optimistic or completely dismissive. What works well: contactless payments have been flawless everywhere I've been, Southeast Asia, parts of Europe, a few stops in South America. If a terminal accepts tap to pay it works. Adding it to google pay meant I wasn't carrying a separate card, which when you're moving around a lot and trying to minimize what's in your pockets genuinely matters. The conversion from crypto to local currency happens invisibly, the merchant sees a normal transaction, I see a deduction from my balance. No drama. The privacy aspect has been more valuable than I expected while traveling. Having my spending not be directly traceable back to my full financial profile feels meaningful when you're in unfamiliar places and don't fully know what data exposure looks like locally. What doesn't work as well: ATMs are hit or miss. I'd say about 1 in 3 attempts at cash machines has failed for one reason or another, either the machine doesn't support the network or there's a technical hiccup. I keep a small traditional bank account as a backup specifically for cash situations. Some merchants who only take local cards or cash are obviously a dead end. And if your crypto balance drops because of a market move and you haven't loaded up recently you need to be paying attention. Overall it's genuinely viable as a primary spending method if you're organized and keep a backup. The technology is at a point where it's not a workaround anymore, it's just a card that works. Would be happy to answer questions if anyone's thinking about making the switch.
-
-5h ago
-
----
-
 **[Thus Spoke Satoshi](https://www.reddit.com/r/Bitcoin/comments/1rr0g4w/thus_spoke_satoshi/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,19 +87,13 @@ I've been moving between countries for about six months now and somewhere around
 
 Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5 years ago, leaving us with a huge house in city centre of a small village. For pas 3,5 years we have been renting this place, that eventually ended up by selling this house. I Just received a significant amount of money. I am in BTC for more that 4 years, but it was just a hundred dollar now, hundred dollar there… I now have a chance to single buy a lot more. I don’t have any questinons, I just have the urge to tell it to someone who does understand BTC. My Family knows I have some, but the dont care what it is and dont want to educate themselves about it. Just wish me luck, that this was not the end and that We are going forward end in the long run to the MOON!
 
-4h ago
-
----
-
-**[BTC-VS-USD](https://www.reddit.com/r/Bitcoin/comments/1rr34o8/btcvsusd/)**
-
-2h ago
+5h ago
 
 ---
 
 **[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -115,7 +101,23 @@ Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5
 
 I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
 
-19h ago
+20h ago
+
+---
+
+**[Cex or dex](https://www.reddit.com/r/Bitcoin/comments/1rr7mrq/cex_or_dex/)**
+
+Hi, I have some money and I want to buy some btc. I don't like binance so I was thinking to go at a broker (or whaever they're called) and have him send my money to a bitcoin wallet like bluewallet or similar. Do you guys think dex is a good option? I will be buying and forgetting so not much swapping going on.
+
+38m ago
+
+---
+
+**[Finding Satoshi | Official Trailer](https://www.reddit.com/r/Bitcoin/comments/1rr7m4i/finding_satoshi_official_trailer/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=gVxAwomug08) • 39m ago
 
 ---
 
@@ -123,7 +125,15 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 I have a teen who is starting a business selling a product she is making. She has already been saving in bitcoin and she wants to accept bitcoin for payments along with other options. But, I’m really hesitant for her to advertise this as the wrench attack is my biggest concern with bitcoin. She wants to encourage other teens to get into bitcoin but so far I have not let her. Just looking for ideas or thoughts.
 
-5h ago
+6h ago
+
+---
+
+**[Bitcoin traders be like:](https://www.reddit.com/r/Bitcoin/comments/1rr474x/bitcoin_traders_be_like/)**
+
+Green candles: “I am a macro analyst.” Red candles: “This is manipulation.” Sideways market: “This is boring.” Reality: Most accounts are destroyed by overtrading and oversized positions — not by market direction. Anyone else learn this the hard way?
+
+2h ago
 
 ---
 
@@ -139,15 +149,7 @@ Netflix blocked Bitcoin-related sponsors from appearing on a pro boxer’s fight
 
 Most traditional crypto cards either shut down or restricted regions in the last few years. The ones I've tried recently that integrate with Apple Pay or Google Pay make it pretty seamless to just tap and pay directly from crypto balances. Fees are usually reasonable too, depending on the card type.
 
-13h ago
-
----
-
-**[Running a node](https://www.reddit.com/r/Bitcoin/comments/1rqs6nc/running_a_node/)**
-
-Ive been trying to run a node on my ThinkPad with Debian installed on it for about a week. I keep getting all sorts of errors. I keep giving those errors to AI and it keeps giving me all sorts of solutions but then after some time another error pops up - this loop has been happening for a week and its so frustrating! Any advice on what to do to actually run your own node? Some of the errors that keep happening: Error: A fetal internal error occurred...Failed to connect best block (bad-txnmrklroot, hashMerkleRoot mismatch) Error: A fetal internal error occurred...Corrupt block found indicating potential hardware failure Error: A fetal internal error occurred...System error while flushing Fatal LevelDB error: Corruption: lock checksum mismatch...
-
-9h ago
+14h ago
 
 ---
 
@@ -155,25 +157,67 @@ Ive been trying to run a node on my ThinkPad with Debian installed on it for abo
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Jumps Back Above $70,000 as Iran War Worries Ease](https://www.bloomberg.com/news/articles/2026-03-10/bitcoin-jumps-back-above-70-000-as-iran-war-worries-ease)**
+**[Bloomberg strategist doubles down on $10,000 bitcoin call but peers say it would take a nuclear war to get there](https://www.coindesk.com/markets/2026/03/11/bloomberg-strategist-doubles-down-on-usd10-000-bitcoin-call-but-peers-say-it-would-take-a-nuclear-war-to-get-there)**
 
-Bloomberg.com • 1d ago
+Mati Greenspan said a bitcoin collapse to below $10,000 would require a global liquidity crisis, a nuclear war and the internet to stop working.
 
----
-
-**[Bitcoin To $1.3 Million? Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet'](https://finance.yahoo.com/news/bitcoin-1-3-million-coinbase-173108332.html)**
-
-Coinbase CEO Brian Armstrong says AI agents will increasingly transact using crypto wallets, while Bitwise Chief Investment Officer Matt Hougan argues institutional adoption could push Bitcoin toward $1.3 million over time. ‘Own A Crypto Wallet' Armstrong said Monday autonomous AI...
-
-Yahoo Finance • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773253500)**
+**[Options traders bet on bitcoin reclaiming $80,000 as inflation data steadies crypto markets steady despite Iran conflict](https://www.theblock.co/post/393238/options-traders-bet-on-bitcoin-reclaiming-80000-as-inflation-data-steadies-crypto-markets-steady-despite-iran-conflict)**
+
+Bitcoin steadied as options traders increased bets on a move back to $80,000, with markets balancing a cooling February inflation print.
+
+The Block • 6h ago
+
+---
+
+**[Cosmos Health (COSM) Buys $600K in Bitcoin, Expands Digital Asset Treasury](https://bitcoinmagazine.com/news/cosmos-health-cosm-buys-600k-in-bitcoin)**
+
+Cosmos Health Inc. announced it has purchased $600,000 in Bitcoin as part of its ongoing digital asset treasury strategy.
+
+Bitcoin Magazine • 2h ago
+
+---
+
+**[Billionaire analyst reveals the right time to buy Bitcoin as war escalates](https://finance.yahoo.com/news/billionaire-analyst-reveals-time-buy-204447419.html)**
+
+Bitcoin’s recent volatility amid the escalating U.S.-Israel-Iran conflict has left investors searching for direction. But billionaire analyst and BitMEX co-founder Arthur Hayes believes the real opportunity to buy Bitcoin (BTC) is not here yet. A long-time Bitcoin bull, Hayes recently shared ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin price analysis: cautious optimism as BTC holds near $70,000 amid Iran war](https://www.coindesk.com/markets/2026/03/11/bitcoin-holds-usd70-000-beginning-to-show-relative-strength-versus-stocks-software-sector-and-gold)**
+
+Bitcoin is up about 7% from the Sunday lows, even as equities and gold tread water. Analysts point to seller exhaustion, shifting gold correlation and improving ETF flows.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773261900)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 2h ago
+Polymarket • 1h ago
+
+---
+
+**[Crypto Crash: 2 Top Coins I'd Consider Buying Before Prices Rebound](https://www.fool.com/investing/2026/03/11/crypto-crash-2-top-coins-id-consider-buying-before/)**
+
+This could be your chance to stock up on a couple of quality cryptocurrencies at a discount.
+
+The Motley Fool • 16h ago
+
+---
+
+**['The second century begins': Michael Saylor's Strategy buys another 17,994 bitcoin for $1.3 billion as holdings reach 738,731 BTC](https://www.theblock.co/post/392822/the-second-century-begins-michael-saylors-strategy-buys-more-bitcoin)**
+
+Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $50 billion.
+
+The Block • 2d ago
 
 ---
 
@@ -187,43 +231,7 @@ Investopedia • 1d ago
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 9h ago
-
----
-
-**[Strategy Drops $1.28 Billion on Bitcoin, Issues $377 Million in Preferred Shares](https://finance.yahoo.com/news/strategy-drops-1-28-billion-145047451.html)**
-
-Michael Saylor declared the start of a “second century,” following the firm’s 100th Bitcoin purchase last month.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin Down 44% From Its Peak, But Bitwise Still Sees A Path To $1 Million](https://www.tradingview.com/news/newsbtc:283da87a4094b:0-bitcoin-down-44-from-its-peak-but-bitwise-still-sees-a-path-to-1-million/)**
-
-Central banks aren’t buying it. Billionaire investor Ray Dalio doesn’t trust it as a safe haven. And Bitcoin is trading 44% below its October peak while gold sits near all-time highs.That’s the backdrop against which Bitwise Asset Management’s chief investment officer is making the case that Bitcoi…
-
-TradingView • 7h ago
-
----
-
-**[Elon Musk Suddenly Confirms Imminent Crypto Game-Changer Amid Huge $1 Million Bitcoin Price Prediction](https://www.forbes.com/sites/digital-assets/2026/03/11/elon-musk-suddenly-confirms-imminent-crypto-game-changer-amid-huge-1-million-bitcoin-price-prediction/)**
-
-Forbes • 9h ago
-
----
-
-**[Reform UK's Nigel Farage invests in bitcoin-buying company](https://www.reuters.com/business/finance/reform-uks-nigel-farage-invests-bitcoin-buying-company-2026-03-09/)**
-
-Reuters • 2d ago
-
----
-
-**[Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC](https://www.coindesk.com/business/2026/03/09/nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc)**
-
-Reform UK leader backs London-listed company chaired by former Chancellor Kwasi Kwarteng as it expands bitcoin strategy.
-
-CoinDesk • 2d ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -285,25 +293,23 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 ---
 
+**[Ask HN: What are the best product landing pages you've stumbled upon?](https://news.ycombinator.com/item?id=47341618)**
+
+⬆️ 1 • 💬 0 • 1h ago
+
+---
+
 **[Show HN: StreamHouse – Open-source Kafka alternative](https://news.ycombinator.com/item?id=47335858)**
 
 S3-native streaming platform. A Kafka alternative with infinite scalability, Kafka-compatible APIs, SQL processing and AI queries. Written in Rust. - gbram1/streamhouse
 
-⬆️ 2 • 💬 0 • 7h ago • [GitHub](https://github.com/gbram1/streamhouse)
+⬆️ 2 • 💬 0 • 8h ago • [GitHub](https://github.com/gbram1/streamhouse)
 
 ---
 
 **[Calling all who run inference in models](https://news.ycombinator.com/item?id=47319653)**
 
 ⬆️ 1 • 💬 0 • 1d ago
-
----
-
-**[Google PM open-sources Always On Memory Agent, ditching vector databases](https://news.ycombinator.com/item?id=47290892)**
-
-. Enterprise AI teams are moving beyond single-turn assistants and into systems expected to remember preferences, preserve project context and operate across longer horizons.
-
-⬆️ 11 • 💬 5 • 4d ago • [Venturebeat](https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for)
 
 ---
 
@@ -317,27 +323,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 314 • ⏱️ 9:26 • 22h ago
-
----
-
-**[Bitcoin Just Lost $70K Again… Here’s What Happens Next](https://www.youtube.com/watch?v=1ninNey2s00)**
-
-Bitcoin #Crypto #Finance Bitcoin is sitting at a critical moment as macro pressure, weak sentiment, and key economic data put the ...
-
-📺 The Wolf Of All Streets
-
-👁️ 8K • 👍 455 • 💬 106 • ⏱️ 35:03 • 7h ago
-
----
-
-**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
-
-The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
-
-📺 Altcoin Daily
-
-👁️ 3K • 👍 178 • 💬 105 • ⏱️ 1:13 • 3h ago
+👁️ 43K • 👍 2K • 💬 311 • ⏱️ 9:26 • 23h ago
 
 ---
 
@@ -347,7 +333,17 @@ A bank quietly failed, the Federal Reserve is trapped between inflation and debt
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 872 • 💬 102 • ⏱️ 21:13 • 9h ago
+👁️ 12K • 👍 976 • 💬 73 • ⏱️ 21:13 • 9h ago
+
+---
+
+**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
+
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+
+📺 Altcoin Daily
+
+👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 4h ago
 
 ---
 
@@ -357,7 +353,25 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 879 • 💬 189 • ⏱️ 44:39 • 6h ago
+👁️ 15K • 👍 947 • 💬 187 • ⏱️ 44:39 • 7h ago
+
+---
+
+**[Bitcoin Just Lost $70K Again… Here’s What Happens Next](https://www.youtube.com/watch?v=1ninNey2s00)**
+
+Bitcoin #Crypto #Finance Bitcoin is sitting at a critical moment as macro pressure, weak sentiment, and key economic data put the ...
+
+📺 The Wolf Of All Streets
+
+👁️ 9K • 👍 504 • 💬 167 • ⏱️ 35:03 • 8h ago
+
+---
+
+**[Bitcoin’s Biggest Problem](https://www.youtube.com/watch?v=uyAVgFzW3YA)**
+
+📺 Andrei Jikh
+
+👁️ 75K • 👍 2K • 💬 88 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -367,35 +381,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 10K • 👍 1K • 💬 179 • ⏱️ 20:58 • 1d ago
-
----
-
-**[Bitcoin’s Biggest Problem](https://www.youtube.com/watch?v=uyAVgFzW3YA)**
-
-📺 Andrei Jikh
-
-👁️ 70K • 👍 2K • 💬 88 • ⏱️ 1:05 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
-
-GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 58K • 👍 3K • 💬 254 • ⏱️ 9:54 • 1d ago
-
----
-
-**[CAUTION: The Stage Is Set For Another Bitcoin Trap! [Probably Today]](https://www.youtube.com/watch?v=daPtZSoyKMI)**
-
-In today's video Kyledoops outlines why the market looks like it's setting things up for a major bull trap. Join live to find out why and ...
-
-📺 Crypto Banter
-
-👁️ 15K • 👍 2K • 💬 28 • ⏱️ 23:59 • 14h ago
+👁️ 10K • 👍 1K • 💬 151 • ⏱️ 20:58 • 1d ago
 
 ---
 
@@ -405,7 +391,27 @@ In this video, we take a step back and look at the structure of a Bitcoin bear m
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 5K • 💬 244 • ⏱️ 13:00 • 1d ago
+👁️ 70K • 👍 5K • 💬 248 • ⏱️ 13:00 • 1d ago
+
+---
+
+**[Raoul Pal Just Revealed Why Bitcoin Is About To Explode And No One Is Prepared](https://www.youtube.com/watch?v=zqWgEnceA_M)**
+
+Raoul Pal just explained WHY the crypto market cap will go from $3 trillion to $100 TRILLION — and it's NOT speculation.
+
+📺 Money Talks
+
+👁️ 549 • 👍 37 • 💬 215 • ⏱️ 17:20 • 3h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
+
+GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
+
+📺 Altcoin Daily
+
+👁️ 58K • 👍 3K • 💬 255 • ⏱️ 9:54 • 2d ago
 
 ---
 

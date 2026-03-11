@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T21:34:41.557600+00:00'
+updated: '2026-03-11T22:28:28.368248+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 21:34 UTC  
+**Last Updated:** March 11, 2026 at 22:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,073.10
+### $2,070.59
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** -0.2%  
-**30d:** +2.4%  
-**90d:** -32.9%  
-**1y:** +8.3%  
+**24h:** +1.7%  
+**7d:** -0.0%  
+**30d:** +2.6%  
+**90d:** -32.8%  
+**1y:** +8.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.64B
+**Market Cap:** $250.21B
 Rank #2
 
 **Circulating Supply:** 120,692,002 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.1%
 
 **All-Time Low:** $0.43
-+479006.4%
++478405.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
 
-16h ago
+17h ago
 
 ---
 
@@ -156,31 +156,31 @@ MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, a
 
 Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
+**[Ethereum is seeing record activity. So why is its price struggling?](https://sherwood.news/crypto/ethereum-is-seeing-record-activity-so-why-is-its-price-struggling/)**
 
-Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
+Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
 
-PR Newswire • 2d ago
-
----
-
-**[Tom Lee Claims 'Mini Crypto Winter Almost Over' as Bitmine Buys $120M Ethereum Amid Rising Price](https://finance.yahoo.com/news/tom-lee-claims-mini-crypto-132218612.html)**
-
-Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
-
-Yahoo Finance • 1d ago
+Sherwood News • 5h ago
 
 ---
 
-**[Bitmine lifts Ethereum treasury to 4.53 million ETH after adding 60,976 tokens in a week amid ‘mini-crypto winter’](https://www.theblock.co/post/392831/bitmine-lifts-ethereum-treasury-to-4-53-million-eth-after-adding-60976-tokens-in-a-week-amid-mini-crypto-winter)**
+**[XRP or Ethereum: Which Gives You More Upside With $1,000 at Current Prices?](https://finance.yahoo.com/news/xrp-ethereum-gives-more-upside-213752026.html)**
 
-Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
+XRP (CRYPTO: XRP) and Ethereum (CRYPTO: ETH) have both had a rough start to 2026. XRP surged 25% in the first week of January to reach $2.40, and for a moment looked like it had finally escaped the ceiling that’s trapped every rally since 2018. Then macro conditions turned negative as the U.S.-Iran war rattled ... XRP or Ethereum: Which Gives You More Upside With $1,000 at Current Prices?
 
-The Block • 2d ago
+Yahoo Finance • 50m ago
+
+---
+
+**[Investor Dumps $19 Million Ethereum ETF Stake, but Here's Why It Still Seems Very Bullish on Crypto](https://www.fool.com/coverage/filings/2026/03/11/investor-dumps-usd19-million-ethereum-etf-stake-but-here-s-why-it-still-seems-very-bullish-on-crypto/)**
+
+iShares Ethereum Trust ETF provides regulated access to ether, tracking the digital asset’s performance through a single-asset structure.
+
+The Motley Fool • 13m ago
 
 ---
 
@@ -190,15 +190,7 @@ Binance • 4d ago
 
 ---
 
-**[Traders bet XRP’s price will keep rising as it outpaces ethereum and solana](https://sherwood.news/crypto/traders-bet-xrps-price-will-keep-rising-as-it-outpaces-ethereum-and-solana/)**
-
-Meanwhile, more than half of XRP’s total supply is sitting at a loss....
-
-Sherwood News • 1d ago
-
----
-
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfiDpIz62w-rA2rNQwlWvAKsCb79hN3h093uW7IxkGthoGhAx9Vqgat&gaa_ts=69b1d79f&gaa_sig=Jtdy-_VOAQOA_q7VMEhtwfhWrYOKjA2blkJBiysZEO5VGEItVMlsZL7dNmIa1VneqGOFAfEw8G7TkSAX8NWMOg%3D%3D)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqe5028zdVmr6o45pN36KhVwmD0mi0SHphJkHYlgZAiqm8hg5yW0rkPD&gaa_ts=69b1eff4&gaa_sig=oRyPmWRT5of2vknlfWzjiBkkzpfjbXTk-nWHqR9k0POPT_gCV0cQiITuZS7OSnZNmONtNkaWL8sFTzfzG6qcaQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -218,11 +210,19 @@ TradingView • 10h ago
 
 ---
 
-**[Current price of Ethereum for March 11, 2026](https://fortune.com/article/price-of-ethereum-03-11-2026/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
 
-Fortune • 7h ago
+PR Newswire • 2d ago
+
+---
+
+**[Tom Lee Claims 'Mini Crypto Winter Almost Over' as Bitmine Buys $120M Ethereum Amid Rising Price](https://finance.yahoo.com/news/tom-lee-claims-mini-crypto-132218612.html)**
+
+Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 3K • 💬 68 • ⏱️ 12:32 • 10h ago
+👁️ 11K • 👍 3K • 💬 25 • ⏱️ 12:32 • 11h ago
 
 ---
 
@@ -246,17 +246,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 4K • 👍 191 • 💬 47 • ⏱️ 56:53 • 11h ago
-
----
-
-**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
-
-Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
-
-📺 Coin Bureau
-
-👁️ 61K • 👍 3K • 💬 267 • ⏱️ 21:43 • 1d ago
+👁️ 4K • 👍 212 • 💬 30 • ⏱️ 56:53 • 11h ago
 
 ---
 
@@ -266,7 +256,17 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 100 • 👍 6 • 💬 2 • ⏱️ 6:18 • 1h ago
+👁️ 290 • 👍 20 • 💬 21 • ⏱️ 6:18 • 2h ago
+
+---
+
+**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
+
+Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
+
+📺 Coin Bureau
+
+👁️ 64K • 👍 3K • 💬 273 • ⏱️ 21:43 • 1d ago
 
 ---
 
@@ -276,17 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 109 • 💬 31 • ⏱️ 5:43 • 5h ago
-
----
-
-**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
-
-GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 58K • 👍 3K • 💬 254 • ⏱️ 9:54 • 1d ago
+👁️ 2K • 👍 125 • 💬 3 • ⏱️ 5:43 • 6h ago
 
 ---
 
@@ -296,7 +286,17 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 The Value Thinker
 
-👁️ 7K • 👍 451 • 💬 82 • ⏱️ 21:31 • 20h ago
+👁️ 8K • 👍 465 • 💬 71 • ⏱️ 21:31 • 21h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
+
+GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
+
+📺 Altcoin Daily
+
+👁️ 58K • 👍 3K • 💬 255 • ⏱️ 9:54 • 2d ago
 
 ---
 
@@ -306,7 +306,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 342 • 💬 126 • ⏱️ 13:04 • 1d ago
+👁️ 7K • 👍 345 • 💬 126 • ⏱️ 13:04 • 1d ago
 
 ---
 
@@ -316,17 +316,17 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 3K • 👍 178 • 💬 105 • ⏱️ 1:13 • 3h ago
+👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 4h ago
 
 ---
 
-**[Ethereum Crypto Price Analysis - is ETH Still Worth It?](https://www.youtube.com/watch?v=k7QMlI3lrno)**
+**[WHERE I WILL BUY ETH🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=7Eo_kFPH668)**
 
-Research Bitcoin Hyper - https://99bitcoins.care/b_BTCHyper99BTC - Download the Best FREE Non-Custodial Crypto Wallet of ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 99Bitcoins
+📺 Cilinix Crypto
 
-👁️ 117 • 👍 5 • 💬 121 • ⏱️ 7:45 • 6h ago
+👁️ 214 • 👍 15 • 💬 3 • ⏱️ 5:20 • 12h ago
 
 ---
 
