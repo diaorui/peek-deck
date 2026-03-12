@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T16:36:36.303506+00:00'
+updated: '2026-03-12T17:50:10.735174+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 16:36 UTC  
+**Last Updated:** March 12, 2026 at 17:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,21 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-5h ago
+7h ago
+
+---
+
+**[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
+
+34m ago
+
+---
+
+**[Stereo Vision Real-time Point-to-Point Path Planning](https://www.reddit.com/r/robotics/comments/1rrrr2w/stereo_vision_realtime_pointtopoint_path_planning/)**
+
+The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
+
+3h ago
 
 ---
 
@@ -46,17 +60,9 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 ---
 
-**[Stereo Vision Real-time Point-to-Point Path Planning](https://www.reddit.com/r/robotics/comments/1rrrr2w/stereo_vision_realtime_pointtopoint_path_planning/)**
-
-The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
-
-2h ago
-
----
-
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +70,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 We recently published research showing how generative AI can dramatically lower the barrier to entry for robot security research. Using Cybersecurity AI (CAI) we analyzed three real consumer robots: • robotic lawn mower • powered exoskeleton • window-cleaning robot In ~7 hours the system identified 38 vulnerabilities including firmware exploitation paths, BLE command injection and unauthenticated root access. Historically this kind of analysis required weeks of specialized robotics security research. Paper: https://arxiv.org/pdf/2603.08665
 
-1h ago
+3h ago
 
 ---
 
@@ -72,7 +78,13 @@ We recently published research showing how generative AI can dramatically lower 
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-7h ago
+9h ago
+
+---
+
+**[FlashHead: Up to 40% Faster Multimodal Reasoning on Top of Quantization](https://www.reddit.com/r/robotics/comments/1rrtvm2/flashhead_up_to_40_faster_multimodal_reasoning_on/)**
+
+2h ago
 
 ---
 
@@ -80,29 +92,15 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-23h ago
+1d ago
 
 ---
 
-**[FlashHead: Up to 40% Faster Multimodal Reasoning on Top of Quantization](https://www.reddit.com/r/robotics/comments/1rrtvm2/flashhead_up_to_40_faster_multimodal_reasoning_on/)**
+**[How do you all measure industrial robot TCP, base, and user frame in the cell quickly and accurately? How often are you doing it?](https://www.reddit.com/r/robotics/comments/1rrxci5/how_do_you_all_measure_industrial_robot_tcp_base/)**
 
-1h ago
+Manual machined tip method takes too long and aligning these parts is not accurate. How often are people here repeating this process? For us it's at least once a month.
 
----
-
-**[Anyone here building low-latency XR/teleoperation systems for robotics? We're hiring (Pensacola FL or Houston TX, on-site)](https://www.reddit.com/r/robotics/comments/1rrtm1m/anyone_here_building_lowlatency_xrteleoperation/)**
-
-Been recruiting in robotics for years. This is one of the more technically rare roles I've placed. The team is building a teleoperation system for a fleet of humanoid robots, and they need someone who can operate at both ends of the stack simultaneously: low-latency networking in Rust and C++, and immersive operator interfaces in Unreal Engine with OpenXR. The founding team has shipped hardware to space, deep ocean deployments, and commercial theme parks. This isn't a vibe-based startup. They build things that actually work in the real world under real conditions. What the role actually involves: Real-time data streaming over unreliable transports (WiFi, cellular). Custom shader work and GPU profiling. XR interfaces on Android and embedded Linux. Interfacing directly with hardware SDKs for robot sensing and control. You own it end to end. Hard requirements: Rust and C++ are non-negotiable. 5+ years software, 3+ in 3D/XR or real-time applications. On-site in Florida or Texas. Nice to have: Unreal Engine, OpenXR, ARCore, Nix/Bazel, open source contributions. Comp is competitive with equity. Not going to post a number and get ratio'd, but it's not a band 3 offer, DM me. If this is you, or you know someone, message me directly or email wallace0713@yahoo.com US residents only
-
-1h ago
-
----
-
-**[Embodied AI in manufacturing: moving from scripted automation to adaptive robots](https://www.reddit.com/r/robotics/comments/1rrraxj/embodied_ai_in_manufacturing_moving_from_scripted/)**
-
-Embodied AI refers to AI systems that control physical machines using real-time perception, reasoning, and interaction with the environment. In manufacturing this shows up in systems like adaptive pick-and-place robots, mobile warehouse robots, and inspection systems that adjust to variability instead of following fixed scripts. Examples include robots adapting to part orientation during assembly or locomotion policies trained in simulation and deployed to physical robots like Boston Dynamics’ Spot.
-
-🔗 [Automate](https://www.automate.org/industry-insights/how-embodied-ai-fits-into-the-future-of-manufacturing) • 2h ago
+15m ago
 
 ---
 
@@ -110,7 +108,7 @@ Embodied AI refers to AI systems that control physical machines using real-time 
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqf0QEcNQmezu2e1DOJk8DilcbJIK2malKFX5M196y9p-C-p-yX9pwUx&gaa_ts=69b2ef01&gaa_sig=xgp469Y5UOcfn8seUC0sLRewElDtBVFiwXhkgeaatYQy-lkV1RvxbO999d7SjV8C5RJ_-WVGcAkhfLZBCFbrew%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeaaSesqKVT6SfItDcNpRwLSshOXmnBFAYDWeke8aAGsK8gZMQKLTt5&gaa_ts=69b3003f&gaa_sig=DlmhpTuxYFzVLYssMxcgFYZtbWKqw-cwOt-lrLh9ir9g0emRYp9RTrjx38oE1E05Q-unlc5TYNDS_ytGivv_kg%3D%3D)**
 
 WSJ • 1d ago
 
@@ -120,15 +118,15 @@ WSJ • 1d ago
 
 Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Rivian-owned robotics company secures more startup funding](https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding)**
+**[Rivian CEO launches robotics startup with $500M funding round: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-ceo-scaringe-launches-robotics-startup-mind-20260311/)**
 
-A startup robotics company owned by Rivian and founded by Rivian CEO RJ Scaringe has secured $500 million in startup capital. Mind Robotics announced an investment by Accel and Andreessen Horowitz. The firm wants to build AI-powered industrial robots.
+Mind Robotics, a startup founded by Rivian CEO RJ Scaringe, has raised $500 million from investors including Accel and Andreessen Horowitz, according to a report from The Wall Street Journal.
 
-WGLT • 23h ago
+Crain's Chicago Business • 1d ago
 
 ---
 
@@ -136,7 +134,15 @@ WGLT • 23h ago
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Financial Times • 15h ago
+Financial Times • 16h ago
+
+---
+
+**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
+
+Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
+
+TechCrunch • 45m ago
 
 ---
 
@@ -160,7 +166,7 @@ MIT Technology Review • 2d ago
 
 Serve Robotics (NASDAQ:SERV) used its fourth quarter 2025 earnings call to highlight a rapid scale-up of its autonomous delivery fleet and a broadening business model that now includes advertising, software, early data monetization, and healthcare robotics following a recent acquisition. Fleet scal
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -168,15 +174,7 @@ Yahoo Finance • 23h ago
 
 How world models are replacing hand-built simulators—and why they may unlock the ChatGPT moment for robotics.
 
-Bessemer Venture Partners • 3h ago
-
----
-
-**[Kamen resigns from board of directors of FIRST Robotics](https://www.wmur.com/article/kamen-resigns-first-robotics-board-031226/70724175)**
-
-New Hampshire inventor Dean Kamen has voluntarily resigned from the board of directors of FIRST Robotics.
-
-WMUR • 18m ago
+Bessemer Venture Partners • 4h ago
 
 ---
 
@@ -208,7 +206,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 7K • 👍 143 • 💬 65 • ⏱️ 4:52 • 15h ago
+👁️ 8K • 👍 140 • 💬 65 • ⏱️ 4:52 • 16h ago
 
 ---
 
@@ -218,7 +216,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 1K • 👍 29 • 💬 15 • ⏱️ 2:38 • 7h ago
+👁️ 2K • 👍 35 • 💬 16 • ⏱️ 2:38 • 9h ago
 
 ---
 
@@ -228,17 +226,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 49K • 👍 2K • 💬 112 • ⏱️ 10:52 • 5d ago
-
----
-
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
-
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
-
-📺 DPCcars
-
-👁️ 16K • 👍 102 • 💬 30 • ⏱️ 3:48 • 2d ago
+👁️ 50K • 👍 2K • 💬 112 • ⏱️ 10:52 • 5d ago
 
 ---
 
@@ -248,7 +236,15 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 279K • 👍 3K • 💬 440 • ⏱️ 29:41 • 6d ago
+👁️ 280K • 👍 3K • 💬 443 • ⏱️ 29:41 • 6d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=G4jYrDe3Kt0)**
+
+📺 Robot Julie 
+
+👁️ 27K • 👍 235 • 💬 3 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -258,15 +254,7 @@ This is going to be the next most toxic build in war robots. The furnace, torch 
 
 📺 PREDATOR WR
 
-👁️ 12K • 👍 408 • 💬 50 • ⏱️ 15:33 • 1d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=G4jYrDe3Kt0)**
-
-📺 Robot Julie 
-
-👁️ 26K • 👍 236 • 💬 3 • ⏱️ 0:23 • 1d ago
+👁️ 12K • 👍 412 • 💬 50 • ⏱️ 15:33 • 1d ago
 
 ---
 
@@ -276,7 +264,7 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 520K • 👍 556 • 💬 23 • ⏱️ 3:35:12 • 4d ago
+👁️ 521K • 👍 558 • 💬 23 • ⏱️ 3:35:12 • 4d ago
 
 ---
 
@@ -284,7 +272,17 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 Robot Julie 
 
-👁️ 19K • 👍 82 • 💬 5 • ⏱️ 0:22 • 1d ago
+👁️ 20K • 👍 85 • 💬 5 • ⏱️ 0:22 • 1d ago
+
+---
+
+**[2026 Lake Superior Regional - Day 2](https://www.youtube.com/watch?v=_UiIQRLcEfw)**
+
+2026 Lake Superior Regional - Broadcast Day 2 https://frc-events.firstinspires.org/2026/MNDU (c) 2026 FIRST Robotics ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 12K • 👍 70 • ⏱️ 10:00:46 • 5d ago
 
 ---
 
