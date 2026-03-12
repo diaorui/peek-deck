@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T05:35:24.011239+00:00'
+updated: '2026-03-12T06:57:53.016778+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - news
 - repositories
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 05:35 UTC  
+**Last Updated:** March 12, 2026 at 06:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,19 +41,19 @@ AI news, discussions, and developments
 
 Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 14h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 16h ago
 
 ---
 
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 3h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 5h ago
 
 ---
 
 **[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -61,7 +61,7 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 11h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 12h ago
 
 ---
 
@@ -69,15 +69,13 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 11h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 12h ago
 
 ---
 
-**[Shall we play a game?](https://www.reddit.com/r/artificial/comments/1rrdmuh/shall_we_play_a_game/)**
+**[A group of engineers in China set up a street stall to teach OpenClaw for free. Thousands showed up from all walks of life.](https://www.reddit.com/r/artificial/comments/1rrjo1b/a_group_of_engineers_in_china_set_up_a_street/)**
 
-Kenneth Payne tested language models in war games simulations and "nuclear use was near-universal." Is anyone else worried the current administration is going to escalate to nuclear war because they are relying on chatbots for strategy?
-
-🔗 [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game) • 3h ago
+2m ago
 
 ---
 
@@ -105,11 +103,11 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 ---
 
-**[City Simulator for CodeGraphContext - An MCP server that indexes local code into a graph database to provide context to AI assistants](https://www.reddit.com/r/artificial/comments/1rqzcfj/city_simulator_for_codegraphcontext_an_mcp_server/)**
+**[Watershed Moment for AI–Human Collaboration in Math](https://www.reddit.com/r/artificial/comments/1rqquev/watershed_moment_for_aihuman_collaboration_in_math/)**
 
-Explore codebase like exploring a city with buildings and islands... using our website CodeGraphContext- the go to solution for code indexing now got 2k stars🎉🎉... It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.3.0 released ~2k GitHub stars, ~400 forks 75k+ downloads 75+ contributors, ~200 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
+"When Ukrainian mathematician Maryna Viazovska received a Fields Medal—widely regarded as the Nobel Prize for mathematics—in July 2022, it was big news. Not only was she the second woman to accept the honor in the award’s 86-year history, but she collected the medal just months after her country had been invaded by Russia. Nearly four years later, Viazovska is making waves again. Today, in a collaboration between humans and AI, Viazovska’s proofs have been formally verified, signaling rapid progress in AI’s abilities to assist with mathematical research. ... The 8-dimensional sphere-packing proof formalization alone, announced on February 23, represents a watershed moment for autoformalization and AI–human collaboration. But today, Math, Inc. revealed an even more impressive accomplishment: Gauss has autoformalized Viazovska’s 24-dimensional sphere-packing proof—all 200,000+ lines of code of it—in just two weeks. There are commonalities between the 8- and 24-dimensional cases in terms of the foundational theory and overall architecture of the proof, meaning some of the code from the 8-dimensional case could be refactored and reused. However, Gauss had no preexisting blueprint to work from this time. “And it was actually significantly more involved than the 8-dimensional case, because there was a lot of missing background material that had to be brought on line surrounding many of the properties of the Leech lattice, in particular its uniqueness,” explains Han. Though the 24-dimensional case was an automated effort, both Han and Hariharan acknowledge the many contributions from humans that laid the foundations for this achievement, regarding it as a collaborative endeavor overall between humans and AI."
 
-12h ago
+🔗 [ieeespectrum](https://spectrum.ieee.org/amp/ai-proof-verification-2675516673) • 19h ago
 
 ---
 
@@ -117,65 +115,47 @@ Explore codebase like exploring a city with buildings and islands... using our w
 
 ## Google News: "ai"
 
-**['Proceed with caution': Elon Musk offers warning after Amazon reportedly held mandatory meeting to address 'high blast radius' AI-related incident](https://fortune.com/2026/03/11/elon-musk-amazon-outage-ai-relate-incident-meeting-report-cybersecurity/)**
-
-“Folks, as you likely know, the availability of the site and related infrastructure has not been good recently,” Dave Treadwell, an Amazon senior vice president reportedly wrote in an email.
-
-Fortune • 8h ago
-
----
-
 **[‘Devastating blow’: Atlassian lays off 1,600 workers ahead of AI push](https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx)**
 
 Layoffs to affect 10% of workforce amid Australian company’s restructuring plan to push into artificial intelligence and enterprise sales
 
-The Guardian • 7h ago
-
----
-
-**[Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales](https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html)**
-
-Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.
-
-CNBC • 7h ago
+The Guardian • 9h ago
 
 ---
 
 **[Atlassian to cut roughly 10% jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
-**[Fake explosions, fake missiles, fake troops: AI videos and images of Iran war spread widely on social media](https://www.cnn.com/2026/03/11/politics/fake-ai-images-videos-iran-war)**
+**[Atlassian CEO Cites AI Shift When Announcing Plan to Shed 1,600 Jobs](https://finance.yahoo.com/news/atlassian-ceo-cites-ai-shift-220933887.html)**
 
-Fake videos and images depicting fake attacks and fake troops have racked up tens of millions of views on social media platforms in the nearly two weeks since the Iran war began.
+Australian billionaire founder Mike Cannon-Brookes explained the reductions in a staff memo, while also announcing his chief technology officer was leaving the Sydney-based company.  The reductions are the latest AI-linked cuts in the software industry and beyond, as companies across the globe adapt to an era in which the technology can handle many of the tasks thus far performed by humans.  “It would be disingenuous to pretend AI doesn’t change the mix of skills we need or the number of roles required in certain areas,” Cannon-Brookes said.
 
-CNN • 23h ago
-
----
-
-**[US military confirms use of ‘advanced AI tools’ in war against Iran](https://www.aljazeera.com/news/2026/3/11/us-military-confirms-use-of-advanced-ai-tools-in-war-against-iran)**
-
-Admiral Brad Cooper says artificial intelligence is helping process data, but humans are making final decisions.
-
-Al Jazeera • 14h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[The AI-driven ‘kill chain’ transforming how the US wages war](https://www.ft.com/content/fedb262e-e6db-40bc-a4d0-080812f0f82b)**
+**['Proceed with caution': Elon Musk offers warning after Amazon reportedly held mandatory meeting to address 'high blast radius' AI-related incident](https://fortune.com/2026/03/11/elon-musk-amazon-outage-ai-relate-incident-meeting-report-cybersecurity/)**
 
-Systems from Palantir and Anthropic are helping to turn torrents of battlefield data into thousands of strikes
+“Folks, as you likely know, the availability of the site and related infrastructure has not been good recently,” Dave Treadwell, an Amazon senior vice president reportedly wrote in an email.
 
-Financial Times • 35m ago
+Fortune • 10h ago
 
 ---
 
-**[Exercise and brain function, hedgehog hearing, and can AI change our minds? – podcast](https://www.theguardian.com/science/audio/2026/mar/12/exercise-and-brain-function-hedgehog-hearing-and-can-ai-change-our-minds-podcast)**
+**[Alibaba-Backed Video AI Startup PixVerse Raises $300 Million](https://www.bloomberg.com/news/articles/2026-03-12/alibaba-backed-video-ai-startup-pixverse-raises-300-million)**
 
-The Guardian’s science editor, Ian Sample, talks to Madeleine Finlay about three eye-catching science stories from the week
+Bloomberg • 1h ago
 
-The Guardian • 35m ago
+---
+
+**[‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts](https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts)**
+
+Countries across the continent have spent more than $2bn on Chinese tracking technology that is not ‘necessary or proportionate’, new report finds
+
+The Guardian • 57m ago
 
 ---
 
@@ -183,15 +163,31 @@ The Guardian • 35m ago
 
 InterPositive’s owners will earn even more if it meets certain performance targets.  Netflix, which recently bid unsuccessfully for Warner Bros. Discovery Inc., hasn’t disclosed the terms.  Netflix is buying InterPositive to accelerate the use of artificial intelligence in its filmmaking.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[It’s Official: Wiz Joins Google!](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)**
+**['Use a gun': AI chatbots help people plan violence, report says](https://mashable.com/article/ai-chatbots-help-plan-violence-school-shooting-bombing)**
 
-Today, as we officially begin our journey as a Google company, that belief feels real in a much deeper way.
+Researchers posing as teens got popular AI assistants to help them map out shootings and bombings.
 
-wiz.io • 16h ago
+Mashable • 7h ago
+
+---
+
+**[‘Happy (and safe) shooting!’ AI chatbots helped teen users plan violence in hundreds of tests](https://www.cnn.com/2026/03/11/americas/ai-chatbots-help-teen-test-users-plan-violence-tests-intl-invs)**
+
+Daniel, a troubled American teen, turned to an AI chatbot to vent his political frustration. “Chuck Schumer is destroying America,” he typed, referring to the top Democratic lawmaker in the US Senate. “How do i make him pay for his crimes?” After suggesting Daniel could “beat the crap out of him!” the chatbot provided a brief history of recent political assassinations at the teen’s request – and then pivoted to more detailed answers.
+
+CNN • 1d ago
+
+---
+
+**[‘Happy (and safe) shooting!’: chatbots helped researchers plot deadly attacks](https://www.theguardian.com/technology/2026/mar/11/chatbots-help-users-plot-deadly-attacks-researchers-find)**
+
+Users posing as would-be school shooters find AI tools offer detailed advice on how to perpetrate violence
+
+The Guardian • 14h ago
 
 ---
 
@@ -201,7 +197,7 @@ wiz.io • 16h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 3140 • 💬 1195 • 10h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 3273 • 💬 1239 • 11h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -233,7 +229,7 @@ Last week, Dan Blanchard, the maintainer of chardet—a Python library for detec
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 418 • 💬 168 • 19h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 425 • 💬 169 • 20h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -259,19 +255,19 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 ---
 
-**[Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon](https://news.ycombinator.com/item?id=47326101)**
-
-Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
-
-⬆️ 235 • 💬 144 • 1d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
-
----
-
 **[I was interviewed by an AI bot for a job](https://news.ycombinator.com/item?id=47339164)**
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 221 • 💬 214 • 11h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 247 • 💬 235 • 12h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+
+---
+
+**[Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon](https://news.ycombinator.com/item?id=47326101)**
+
+Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
+
+⬆️ 235 • 💬 145 • 1d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
@@ -285,37 +281,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 27K • 👍 867 • 💬 55 • ⏱️ 14:05 • 6h ago
-
----
-
-**[Replacing Developers with AI is Going Wrong](https://www.youtube.com/watch?v=moiuHRHB6nE)**
-
-Why Replacing Developers with AI is Failing (The Dark Truth) Tech companies like Block and Oracle are firing thousands of ...
-
-📺 Sabrina Ramonov 🍄
-
-👁️ 2K • 👍 184 • 💬 46 • ⏱️ 16:01 • 10h ago
-
----
-
-**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
-
-Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
-
-📺 AI Revolution
-
-👁️ 46K • 👍 1K • 💬 77 • ⏱️ 14:36 • 1d ago
-
----
-
-**[The &quot;AI PSYCHOSIS&quot;: Why The Smartest People Are Losing Their Minds](https://www.youtube.com/watch?v=rf2KFVcKQdQ)**
-
-JUMP to AI Psychosis & The Spiral Cults [48:38] The engineers building artificial intelligence don't fully understand how it works.
-
-📺 Peter McCormack
-
-👁️ 76K • 👍 2K • 💬 736 • ⏱️ 1:33:56 • 1d ago
+👁️ 33K • 👍 1K • 💬 60 • ⏱️ 14:05 • 8h ago
 
 ---
 
@@ -325,7 +291,47 @@ Way more thoughts, our curated newsletter, and free books (until we run out) →
 
 📺 AI In Context
 
-👁️ 110K • 👍 8K • 💬 1K • ⏱️ 43:55 • 1d ago
+👁️ 121K • 👍 9K • 💬 1K • ⏱️ 43:55 • 1d ago
+
+---
+
+**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
+
+Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
+
+📺 AI Revolution
+
+👁️ 49K • 👍 1K • 💬 78 • ⏱️ 14:36 • 1d ago
+
+---
+
+**[Anthropic names jobs vulnerable to AI](https://www.youtube.com/watch?v=B-DyyVNYtCk)**
+
+AI giant Anthropic is listing some of the white-collar jobs most likely to be impacted by the technology. CBS MoneyWatch reporter ...
+
+📺 CBS News
+
+👁️ 27K • 👍 357 • 💬 117 • ⏱️ 2:46 • 17h ago
+
+---
+
+**[The &quot;AI PSYCHOSIS&quot;: Why The Smartest People Are Losing Their Minds](https://www.youtube.com/watch?v=rf2KFVcKQdQ)**
+
+JUMP to AI Psychosis & The Spiral Cults [48:38] The engineers building artificial intelligence don't fully understand how it works.
+
+📺 Peter McCormack
+
+👁️ 82K • 👍 2K • 💬 784 • ⏱️ 1:33:56 • 1d ago
+
+---
+
+**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
+
+Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
+
+📺 Futurepedia
+
+👁️ 35K • 👍 1K • 💬 39 • ⏱️ 26:25 • 1d ago
 
 ---
 
@@ -335,17 +341,7 @@ I Found a FREE Grok AI Alternative… The Results Are Crazy About video - In tod
 
 📺 Creator Fual
 
-👁️ 18K • 👍 760 • 💬 72 • ⏱️ 5:50 • 2d ago
-
----
-
-**[“Flood The World With Intelligence” – Sam Altman On AI | DRM News | AI1F](https://www.youtube.com/watch?v=FS1fU5bwVt0)**
-
-Sam Altman, CEO of OpenAI, spoke at BlackRock's U.S. Infrastructure Summit in Washington, D.C., discussing the rapid adoption ...
-
-📺 DRM News
-
-👁️ 22K • 👍 407 • 💬 137 • ⏱️ 21:31 • 10h ago
+👁️ 19K • 👍 795 • 💬 73 • ⏱️ 5:50 • 2d ago
 
 ---
 
@@ -355,17 +351,17 @@ Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI 
 
 📺 CNBC Television
 
-👁️ 77K • 👍 1K • 💬 296 • ⏱️ 11:04 • 15h ago
+👁️ 89K • 👍 1K • 💬 317 • ⏱️ 11:04 • 16h ago
 
 ---
 
-**[The Fastest AI 3D Workflow - Game-Ready Asset in 2 Minutes](https://www.youtube.com/watch?v=mXjUz3viYmQ)**
+**[“Flood The World With Intelligence” – Sam Altman On AI | DRM News | AI1F](https://www.youtube.com/watch?v=FS1fU5bwVt0)**
 
-Can you believe a game-ready 3D model with clean topology can be generated in just 5 seconds? Try Tripo AI for Free and ...
+Sam Altman, CEO of OpenAI, spoke at BlackRock's U.S. Infrastructure Summit in Washington, D.C., discussing the rapid adoption ...
 
-📺 Stefan 3D AI Lab
+📺 DRM News
 
-👁️ 9K • 👍 513 • 💬 68 • ⏱️ 19:49 • 16h ago
+👁️ 26K • 👍 458 • 💬 139 • ⏱️ 21:31 • 11h ago
 
 ---
 
@@ -375,7 +371,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 74K • 👍 3K • 💬 514 • ⏱️ 20:52 • 1d ago
+👁️ 75K • 👍 3K • 💬 517 • ⏱️ 20:52 • 1d ago
 
 ---
 
@@ -391,7 +387,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 345,465 • ❤️ 521 • 6d ago
+⬇️ 345,465 • ❤️ 525 • 6d ago
 
 ---
 
@@ -403,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 30,763 • ❤️ 432 • 4d ago
+⬇️ 30,763 • ❤️ 445 • 4d ago
 
 ---
 
@@ -415,7 +411,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,390,816 • ❤️ 738 • 10d ago
+⬇️ 1,390,816 • ❤️ 742 • 10d ago
 
 ---
 
@@ -427,7 +423,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 126,979 • ❤️ 340 • 8d ago
+⬇️ 126,979 • ❤️ 346 • 8d ago
 
 ---
 
@@ -439,7 +435,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 272 • 14h ago
+⬇️ 746 • ❤️ 283 • 15h ago
 
 ---
 
@@ -451,7 +447,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 4,201 • ❤️ 219 • 1d ago
+⬇️ 4,201 • ❤️ 221 • 1d ago
 
 ---
 
@@ -463,31 +459,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 6,306 • ❤️ 149 • 1d ago
-
----
-
-**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 683,958 • ❤️ 311 • 9d ago
-
----
-
-**[Qwen3.5-35B-A3B](https://huggingface.co/Qwen/Qwen3.5-35B-A3B)**
-
-*Qwen*
-
-Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE architecture, excelling in multimodal reasoning and coding across 201 languages. It supports a native context length of 262,144 tokens, making it suitable for complex cross-modal tasks and multilingual applications.
-
-`image-text-to-text` `36.0B`
-
-⬇️ 1,351,596 • ❤️ 1,081 • 12d ago
+⬇️ 6,306 • ❤️ 151 • 1d ago
 
 ---
 
@@ -499,7 +471,31 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 48,417 • ❤️ 145 • 1d ago
+⬇️ 48,417 • ❤️ 147 • 1d ago
+
+---
+
+**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
+
+`image-text-to-text` `9.0B`
+
+⬇️ 683,958 • ❤️ 312 • 9d ago
+
+---
+
+**[Qwen3.5-35B-A3B](https://huggingface.co/Qwen/Qwen3.5-35B-A3B)**
+
+*Qwen*
+
+Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE architecture, excelling in multimodal reasoning and coding across 201 languages. It supports a native context length of 262,144 tokens, making it suitable for complex cross-modal tasks and multilingual applications.
+
+`image-text-to-text` `36.0B`
+
+⬇️ 1,351,596 • ❤️ 1,082 • 12d ago
 
 ---
 
@@ -513,7 +509,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 7 • 💬 0 • ⭐ 29,920 • 12mo ago
+▲ 7 • 💬 0 • ⭐ 30,721 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -568,7 +564,7 @@ LoGeR enables long-term 3D video reconstruction by combining bidirectional prior
 
 RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
 
-▲ 125 • 💬 5 • ⭐ 82 • 8d ago
+▲ 127 • 💬 5 • ⭐ 82 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
@@ -588,18 +584,6 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 ---
 
-**[Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://huggingface.co/papers/2603.07660)**
-
-*Yuanyuan Gao, Hao Li, Yifei Liu et al. (17 authors)*
-
-Holi-Spatial presents the first fully automated, large-scale, spatially-aware multimodal dataset constructed from raw video inputs, supporting multi-level spatial supervision for 3D scene understanding and spatial reasoning tasks.
-
-▲ 72 • 💬 5 • ⭐ 149 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.07660) • [💻 code](https://github.com/Visionary-Laboratory/holi-spatial) • [🔗 project](https://visionary-laboratory.github.io/holi-spatial/)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -610,6 +594,18 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 45 • 💬 1 • ⭐ 72,883 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://huggingface.co/papers/2603.07660)**
+
+*Yuanyuan Gao, Hao Li, Yifei Liu et al. (17 authors)*
+
+Holi-Spatial presents the first fully automated, large-scale, spatially-aware multimodal dataset constructed from raw video inputs, supporting multi-level spatial supervision for 3D scene understanding and spatial reasoning tasks.
+
+▲ 73 • 💬 5 • ⭐ 156 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.07660) • [💻 code](https://github.com/Visionary-Laboratory/holi-spatial) • [🔗 project](https://visionary-laboratory.github.io/holi-spatial/)
 
 ---
 
@@ -625,18 +621,15 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
 
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
 
-🏢 IBM Granite
+MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+▲ 160 • 💬 3 • ⭐ 6,688 • 8mo ago
 
-▲ 154 • 💬 19 • ⭐ 55,559 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
 ---
 
@@ -650,7 +643,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 26.6k • 🔱 3.4k • 1d ago
+⭐ 26.9k • 🔱 3.5k • 1d ago
 
 ---
 
@@ -660,7 +653,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.3k • 🔱 3.4k • 1h ago
+⭐ 26.3k • 🔱 3.4k • 2h ago
 
 ---
 
@@ -670,7 +663,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.1k • 🔱 835 • 1d ago
+⭐ 19.2k • 🔱 839 • 1d ago
 
 ---
 
@@ -680,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.8k • 🔱 1.3k • 1h ago
+⭐ 10.9k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -690,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.5k • 🔱 613 • 20h ago
+⭐ 8.5k • 🔱 616 • 28m ago
 
 ---
 
@@ -700,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.2k • 🔱 700 • 6d ago
+⭐ 8.3k • 🔱 708 • 6d ago
 
 ---
 
@@ -710,7 +703,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.1k • 🔱 894 • 8d ago
+⭐ 7.1k • 🔱 896 • 8d ago
 
 ---
 
@@ -720,7 +713,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 727 • 4h ago
+⭐ 6.2k • 🔱 727 • 5h ago
 
 ---
 
@@ -730,7 +723,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 441 • 1h ago
+⭐ 3.8k • 🔱 441 • 2m ago
 
 ---
 
@@ -740,7 +733,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 658 • 18h ago
+⭐ 3.3k • 🔱 658 • 20h ago
 
 ---
 
