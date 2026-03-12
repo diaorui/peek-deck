@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T22:55:11.342271+00:00'
+updated: '2026-03-12T23:29:07.731473+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 22:55 UTC  
+**Last Updated:** March 12, 2026 at 23:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,064.97
+### $2,078.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +4.5%  
-**30d:** +6.4%  
-**90d:** -33.6%  
-**1y:** +11.2%  
+**24h:** +1.2%  
+**7d:** +5.2%  
+**30d:** +7.2%  
+**90d:** -33.1%  
+**1y:** +11.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 2h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real asset
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 19h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 20h ago
 
 ---
 
@@ -154,7 +154,7 @@ I was recently auditing some smart contracts for a side project, and it struck m
 
 Crypto investors need to keep their eyes on the arrival of altcoin season.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -162,15 +162,7 @@ The Motley Fool • 12h ago
 
 BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
 
-Decrypt • 9h ago
-
----
-
-**[Optimism Team Lays Off 20 Employees Amid Ethereum Scaling Shifts, Base Migration Plans](https://finance.yahoo.com/news/optimism-team-lays-off-20-182121802.html)**
-
-Optimism developer OP Labs is letting go of 20 employees to help it narrow focus amid shifts in the broader Ethereum landscape.
-
-Yahoo Finance • 4h ago
+Decrypt • 10h ago
 
 ---
 
@@ -178,7 +170,7 @@ Yahoo Finance • 4h ago
 
 Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -186,15 +178,7 @@ CoinDesk • 7h ago
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 6h ago
-
----
-
-**[Ethereum (ETH-USD) Price Consolidates Above $2,050 Despite Growing Adoption](https://seekingalpha.com/article/4881858-ethereum-price-consolidates-above-2050-despite-growing-adoption)**
-
-​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
-
-Seeking Alpha • 2h ago
+The Block • 7h ago
 
 ---
 
@@ -203,6 +187,22 @@ Seeking Alpha • 2h ago
 Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
 
 CoinDesk • 1d ago
+
+---
+
+**[Ethereum (ETH-USD) Price Consolidates Above $2,050 Despite Growing Adoption](https://seekingalpha.com/article/4881858-ethereum-price-consolidates-above-2050-despite-growing-adoption)**
+
+​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
+
+Seeking Alpha • 3h ago
+
+---
+
+**[Bitmine’s Massive Ethereum Bet Deepens As MAVAN Staking Launch Nears](https://finance.yahoo.com/news/bitmine-massive-ethereum-bet-deepens-091211652.html)**
+
+Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ Binance • 5d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfdao3bLNnOqFyYi-QOBIcfxtkMv9vK7z6P_j4eUI4mYEThD1wc8NJt&gaa_ts=69b34178&gaa_sig=xzgL2ACfDmE3oACwv7FJZp_TfPUrEMtNJGR81Bq5mE5dytOq11ByNyuV2rbmtTWkKGaB9790GXMvKNImZh78aQ%3D%3D)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqdZtfpSig0QZGbE8ymgq7lkwAymii3TCpFw5mmU8TMzQWeSluTfd31N&gaa_ts=69b34fb2&gaa_sig=US0NZ756yPdyy4qwgMuB6nD_ANhN-gS7s31GJBbMLDfo88bWxEaHiiHAH44BC2TPjHuGeAPkTu4R813kSmgUVg%3D%3D)**
 
 Barron's • 2d ago
 
@@ -246,7 +246,7 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 442 • 👍 7 • 💬 1 • ⏱️ 7:47 • 2h ago
+👁️ 442 • 👍 7 • 💬 1 • ⏱️ 7:47 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 110 • 💬 2 • ⏱️ 5:14 • 8h ago
+👁️ 1K • 👍 110 • 💬 2 • ⏱️ 5:14 • 9h ago
 
 ---
 
@@ -326,7 +326,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 160 • 👍 42 • 💬 70 • ⏱️ 16:36 • 1h ago
+👁️ 160 • 👍 42 • 💬 70 • ⏱️ 16:36 • 2h ago
 
 ---
 

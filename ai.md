@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T22:55:11.327848+00:00'
+updated: '2026-03-12T23:29:07.709710+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 22:55 UTC  
+**Last Updated:** March 12, 2026 at 23:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 14h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 15h ago
 
 ---
 
@@ -57,7 +57,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 14h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 15h ago
 
 ---
 
@@ -83,17 +83,17 @@ Post by @emil
 
 ---
 
+**[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
+
+1d ago
+
+---
+
 **[What’s the most human-like AI conversation you’ve had?](https://www.reddit.com/r/artificial/comments/1rrv2st/whats_the_most_humanlike_ai_conversation_youve_had/)**
 
 I am testing an AI companion I’ve been building called Beni AI, and instead of asking it questions, I just started talking about my day like I would with a friend. At one point I mentioned being stressed about work. The AI didn’t jump into advice mode like most chatbots do. It paused, asked why the situation was stressing me out, and then followed up with something like: That small follow-up made the conversation feel surprisingly natural. It wasn’t just answering , it was continuing the thought. What made it feel human-like: It asked clarifying questions instead of giving instant solutions It remembered things I mentioned earlier in the conversation It didn’t try to sound overly smart , the tone was casual It still wasn’t perfect, but it was the first time an AI conversation felt closer to talking with someone rather than querying a tool. Curious what others have experienced
 
-6h ago
-
----
-
-**[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
-
-1d ago
+7h ago
 
 ---
 
@@ -119,65 +119,37 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 **[Coding After Coders: The End of Computer Programming as We Know It - The New York Times](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
-**[‘Exploit every vulnerability’: rogue AI agents published passwords and overrode anti-virus software](https://www.theguardian.com/technology/ng-interactive/2026/mar/12/lab-test-mounting-concern-over-rogue-ai-agents-artificial-intelligence)**
+**[Tennessee grandmother jailed after AI facial recognition error links her to fraud](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud)**
 
-Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
+Angela Lipps spent nearly six months in jail after AI software linked her to a North Dakota bank fraud case
 
-The Guardian • 9h ago
-
----
-
-**[They were dating AI partners when they found real love – with each other](https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/12/ai-partners-dumped)**
-
-Ayrin and SJ met on a subreddit Ayrin created for people ‘dating’ AI companions. Over time, they started talking to AI less … and falling for each other
-
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
-**[Tinder bets AI can rescue the dating app industry with these new features](https://www.axios.com/2026/03/12/tinder-ai-features-hinge-bumble)**
+**[Chinese embassy mocks “Shield of the Americas” in AI video](https://www.cnn.com/2026/03/12/world/china-mocks-trump-shield-of-americas-ai-video-latam-intl)**
 
-Axios • 49m ago
+China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
 
----
-
-**[Bumble to launch an AI dating assistant, ‘Bee’](https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/)**
-
-Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.
-
-TechCrunch • 6h ago
+CNN • 20m ago
 
 ---
 
-**[Democrats ask Pentagon about Iran school strike and role of AI](https://www.nbcnews.com/politics/national-security/democrats-ask-pentagon-iran-school-strike-role-ai-rcna263083)**
+**[Online predators use video games and AI to target kids, police warn](https://www.cbsnews.com/pittsburgh/video/online-predators-use-video-games-and-ai-to-target-kids-police-warn/)**
 
-In a letter to Defense Secretary Pete Hegseth, more than 120 Democratic lawmakers ask  whether the Pentagon will investigate the strike as a possible war crime.
+Pennsylvania State Police are warning parents about the growing dangers children face online.
 
-NBC News • 4h ago
-
----
-
-**[Iran used AI on newly released photo of Iran’s no-show supreme leader Khamenei](https://nypost.com/2026/03/12/us-news/iran-used-ai-on-newly-released-photo-of-irans-no-show-supreme-leader-khamenei/)**
-
-Iran is using AI-altered pictures of new Supreme Leader Mojtaba Khamenei — amid reports that the successor is too injured to make any public appearance.
-
-New York Post • 1h ago
+CBS News • 16m ago
 
 ---
 
-**[‘God, It’s Terrifying’: How the Pentagon Got Hooked on AI War Machines](https://www.bloomberg.com/news/features/2026-03-12/iran-war-tests-project-maven-us-ai-war-strategy)**
+**[Schiff steps into AI guardrail fight](https://thehill.com/newsletters/technology/5781812-schiff-steps-into-ai-guardrail-fight/)**
 
-Bloomberg • 1h ago
-
----
-
-**[The Women Shaping Venture Capital And AI](https://www.forbes.com/sites/truebridge/2026/03/12/the-women-shaping-venture-capital-and-ai/)**
-
-Forbes • 51m ago
+The Hill • 53m ago
 
 ---
 
@@ -189,13 +161,43 @@ CNBC • 10h ago
 
 ---
 
+**[How we’re reimagining Maps with Gemini](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/)**
+
+Google Maps has two new AI features: Ask Maps and Immersive Navigation.
+
+blog.google • 10h ago
+
+---
+
+**[You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer](https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation)**
+
+Google is turning Maps into a Gemini-powered tool.
+
+The Verge • 10h ago
+
+---
+
+**[Bipartisan coalition drops new bill to supercharge AI-powered research](https://www.politico.com/live-updates/2026/03/12/congress/biotech-bill-to-supercharge-ai-powered-research-introduced-on-hill-00824298)**
+
+Politico • 7h ago
+
+---
+
+**[Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network)**
+
+We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.
+
+Anthropic • 4h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4095 • 💬 1573 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4099 • 💬 1578 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -211,7 +213,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 608 • 💬 496 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 608 • 💬 497 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -219,7 +221,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 472 • 💬 191 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 473 • 💬 192 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -235,7 +237,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 402 • 💬 439 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 403 • 💬 441 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -253,17 +255,19 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 ---
 
+**[Innocent woman jailed after being misidentified using AI facial recognition](https://news.ycombinator.com/item?id=47356968)**
+
+Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
+
+⬆️ 249 • 💬 144 • 2h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+
+---
+
 **[Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon](https://news.ycombinator.com/item?id=47326101)**
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
 ⬆️ 238 • 💬 152 • 2d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
-
----
-
-**[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
-
-⬆️ 220 • 💬 295 • 1d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -277,7 +281,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 44K • 👍 3K • 💬 265 • ⏱️ 14:25 • 9h ago
+👁️ 44K • 👍 3K • 💬 265 • ⏱️ 14:25 • 10h ago
 
 ---
 
@@ -287,7 +291,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 8K • 💬 1 • ⏱️ 11:51 • 8h ago
+👁️ 8K • 💬 1 • ⏱️ 11:51 • 9h ago
 
 ---
 
@@ -327,7 +331,7 @@ Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks 
 
 📺 AI Samson
 
-👁️ 5K • 👍 390 • 💬 39 • ⏱️ 13:02 • 12h ago
+👁️ 5K • 👍 390 • 💬 39 • ⏱️ 13:02 • 13h ago
 
 ---
 
@@ -347,7 +351,7 @@ We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sande
 
 📺 Senator Bernie Sanders
 
-👁️ 59K • 👍 7K • 💬 1K • ⏱️ 9:37 • 23h ago
+👁️ 59K • 👍 7K • 💬 1K • ⏱️ 9:37 • 1d ago
 
 ---
 
@@ -395,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 40,726 • ❤️ 486 • 4d ago
+⬇️ 40,726 • ❤️ 486 • 5d ago
 
 ---
 
@@ -652,7 +656,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.5k • 🔱 3.5k • 44m ago
+⭐ 26.5k • 🔱 3.5k • 1h ago
 
 ---
 
@@ -672,7 +676,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.0k • 🔱 1.3k • 9h ago
+⭐ 11.0k • 🔱 1.3k • 10h ago
 
 ---
 
@@ -682,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.7k • 🔱 628 • 8h ago
+⭐ 8.7k • 🔱 628 • 9h ago
 
 ---
 
@@ -712,7 +716,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 733 • 24m ago
+⭐ 6.2k • 🔱 733 • 58m ago
 
 ---
 

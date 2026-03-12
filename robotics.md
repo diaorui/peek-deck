@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T22:55:11.345482+00:00'
+updated: '2026-03-12T23:29:07.734795+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 22:55 UTC  
+**Last Updated:** March 12, 2026 at 23:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-8h ago
+9h ago
 
 ---
 
@@ -62,7 +62,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -108,7 +108,7 @@ Researchers have built a small wheeled robot designed to travel inside the beam 
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfIC51jVjLUA3AHhn9qDFJoAy3SGbgJbnAwmbHXOpz36QU6nKmdm4Rb&gaa_ts=69b34179&gaa_sig=XbWlT74LoqDeX2VZ9ecICTVSTyOPo1TFqXSxvKmBxRDb9veOXkf6XLveZSAZyfpm5SaZakABGo9FtetRdAGxOg%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeR0DA4jYAEqsY9cN4q7M2NibBm6cvvX85oDNVg5NekzfppuezLtsSa&gaa_ts=69b34fb4&gaa_sig=ZdzOF0Zi-65sWITpcVTtWGGQ9yu8fHYwpa7djoCZUm_8vD1Wa0Duj74Ptl_3ryoRYDAqKvvppo9x68ithLIgbg%3D%3D)**
 
 WSJ • 1d ago
 
@@ -134,7 +134,23 @@ TechCrunch • 1d ago
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Financial Times • 21h ago
+Financial Times • 22h ago
+
+---
+
+**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
+
+Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
+
+TechCrunch • 6h ago
+
+---
+
+**[World's largest humanoid robot training center to launch in Germany](https://interestingengineering.com/ai-robotics/worlds-largest-humanoid-robot-training-center)**
+
+Germany will unveil a huge robot gym where humanoids train with humans to learn everyday tasks and generate valuable AI training data.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -150,7 +166,7 @@ The Robot Report • 3h ago
 
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
-New Hampshire Public Radio • 7h ago
+New Hampshire Public Radio • 8h ago
 
 ---
 
@@ -167,22 +183,6 @@ Yahoo Finance • 1d ago
 These are some of the stocks posting the largest midday moves.
 
 CNBC • 1d ago
-
----
-
-**[How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/)**
-
-Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
-
-MIT Technology Review • 2d ago
-
----
-
-**[ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale](https://blogs.nvidia.com/blog/abb-robotics-omniverse/)**
-
-ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor.
-
-NVIDIA Blog • 3d ago
 
 ---
 
@@ -206,7 +206,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 8K • 👍 155 • 💬 69 • ⏱️ 4:52 • 21h ago
+👁️ 8K • 👍 155 • 💬 69 • ⏱️ 4:52 • 22h ago
 
 ---
 
@@ -256,7 +256,7 @@ E-Chain & 720° Turret | 1732 Hilltopper Robotics | FRC Pit Stop 1732 Hilltopper
 
 📺 FUN Robotics Network
 
-👁️ 298 • 👍 18 • ⏱️ 1:45 • 40m ago
+👁️ 298 • 👍 18 • ⏱️ 1:45 • 1h ago
 
 ---
 
@@ -276,7 +276,7 @@ Independent Twin Turrets | 2337 EngiNERDs | FRC Pit Stop This video is supported
 
 📺 FUN Robotics Network
 
-👁️ 510 • 👍 24 • 💬 1 • ⏱️ 1:25 • 1h ago
+👁️ 510 • 👍 24 • 💬 1 • ⏱️ 1:25 • 2h ago
 
 ---
 

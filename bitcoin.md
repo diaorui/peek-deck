@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-12T22:55:11.336297+00:00'
+updated: '2026-03-12T23:29:07.724305+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 22:55 UTC  
+**Last Updated:** March 12, 2026 at 23:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +3.0%  
-**30d:** +4.5%  
-**90d:** -22.3%  
-**1y:** -13.5%  
+**24h:** +0.5%  
+**7d:** +3.6%  
+**30d:** +5.2%  
+**90d:** -21.9%  
+**1y:** -13.0%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 What's up Bitcoin fam - dropping some wisdom for anyone just getting started I jumped into BTC back in early 2021 when it was sitting around $42K during all that craziness. Figured I was being smart getting in When it started sliding I was actually excited - more Bitcoin for less money right? Grabbed some at $36K and then again around $33K but man when it kept dropping past $29K I started getting cold feet Completely stopped my automatic weekly buys and just watched it crater below $19K thinking I was being clever by not throwing good money after bad. Really thought I dodged a bullet there Fast forward to the 2023/2024 run and wow did I feel stupid. If I just stuck with my original plan and kept buying through that whole mess I'd be in such a better spot right now Current market vibes are giving me serious flashbacks but this time I'm not making the same mistake. Still doing my weekly buys because when you zoom out Bitcoin adoption isn't going anywhere and I want to stack as much as possible before Wall Street owns everything The psychology behind why we stop buying during the scary times is wild but that's exactly when you should be most aggressive about it
 
-7h ago
+8h ago
 
 ---
 
@@ -105,15 +105,21 @@ With all the terrible news, and everyone trying to pull their money out of the m
 
 So I am in my 50s and bought a chunk of BTC in 2020 that has been secured w a dusty old tresor for 6 yrs. I just sold one of our Roth accounts nnd am buying more BTC. I have a Gemini account and a Coinbase account. I know there are new places to buy BTC. Would you still go w/ Gemini or Coinbase ? What platforms are you guys using for largish BTC purchases now. I would rather pay a higher fee than use a place I don't trust. Who do you trust? After the purchase I would then be securing it w/ my trazor also. TIA.
 
-5h ago
+6h ago
 
 ---
 
-**[Anyone else starting to feel the 'Self-Custody' anxiety lately?](https://www.reddit.com/r/Bitcoin/comments/1rrukfy/anyone_else_starting_to_feel_the_selfcustody/)**
+**[Built a free Bitcoin dashboard, what would you add or change?](https://www.reddit.com/r/Bitcoin/comments/1rs4vxd/built_a_free_bitcoin_dashboard_what_would_you_add/)**
 
-I’ve been going back and forth on this all morning, just thinking out loud here, but I’m really torn on the whole self-custody debate. On one hand, there’s that sense of total freedom when you’re managing your own hardware wallet and you know exactly where your seed phrases are. It’s the original vision, right? But then I start thinking about the actual pressure of it. The fear of making a single typo in a long address or just the nightmare of losing that physical piece of paper where the keys are written down. One mistake and that's it, all your money is gone. Then you look at the other side of the coin with these regulated platforms and ETFs. Yeah, you aren’t holding the keys yourself, but you get things like actual customer support, beneficiary settings for your family, and a "forgot password" button. It’s basically trading off some of that independence for a safety net. I keep wondering if the stress of being your own security guard is worth the control, or if we’ve reached a point where the convenience of having a "custodian" is actually the more logical move for most people. I’m really curious to hear how you guys are balancing this lately. Are you still sticking with the hardware wallet for everything, or have you started moving toward the more "managed" side for the peace of mind? What’s the vibe?
+I wanted a single page where I could check in on Bitcoin everyday without visiting five different sites. So I built one. Live price (with different timeframe views), L1 and L2 network stats, Fear & Greed, ETF flows, whale alerts, mempool fees, a health score that combines 12 metrics into one number, and breaking news feed with bitcoin, US, world, and market articles as they are published in real-time. It's free for anyone to use and auto-refreshes with live data. It also has a fullscreen monitor mode if you want it on a second screen. What am I missing? What would make this more useful to you? 21vox.com/bitcoin-pulse When you land on the page, hit 'M' on your keyboard and go fullscreen! I appreciate the feedback in advance.
 
-6h ago
+1h ago
+
+---
+
+**[we're getting another war that nobody wanted but at least we have a money that governments can't print more of](https://www.reddit.com/r/Bitcoin/comments/1rrsgew/were_getting_another_war_that_nobody_wanted_but/)**
+
+8h ago
 
 ---
 
@@ -137,21 +143,15 @@ We've been at war in the Middle East for most of our lives. The propaganda aroun
 
 Hey everyone, As the title says, I got into bitcoin originally in 2020, and used FTX to buy/hold. Come the collapse, I lost all I had. Wasn't that much but still an amount that I was proud of. After that I got into a negative head space with crypto as a whole and kinda forgot about it all until recently. I'll be the first to admit, I was in the space before because of hype, and the prospect of buying low and selling high. That was until the dip to 100k in early November. I saw the news on my feed and I got back into researching bitcoin and I can now proudly say that I fully believe in the technology and actual purpose now. A few things have changed since 2020, I graduated, got an entry job in my field of study, and make roughly 65k CAD/year before tax. I want to accumulate bitcoin, not to sell, but to hold as I truly believe in the long term angle. Given my salary, How should I set up my buying? I just recently got a $100/week DCA that goes every Monday, and I manually buy larger amounts (200-500) on bigger dips. I do have roughly 7-8k saved up that I want to put into the market, but what's the best way to do that? Should I deploy it all at once and pray? Or mybe up my DCA to 200-300/week and slowly eat away at it? (I live alone, pay $1100 for rent and utilities, and have little expenses otherwise besides basic food, insurance, gas, etc) Thanks in advance :)
 
-18h ago
+19h ago
 
 ---
 
-**[we're getting another war that nobody wanted but at least we have a money that governments can't print more of](https://www.reddit.com/r/Bitcoin/comments/1rrsgew/were_getting_another_war_that_nobody_wanted_but/)**
+**[Wallet backup](https://www.reddit.com/r/Bitcoin/comments/1rs1a96/wallet_backup/)**
 
-8h ago
+Any one use an ingenious way to back up your wallet? I mean besides paper or metal or washers...
 
----
-
-**[US market open](https://www.reddit.com/r/Bitcoin/comments/1rrrec5/us_market_open/)**
-
-It's interesting - I sell options on BTC so I regularly check the price especially market open US time. Seems quite common to have a dump of BTC about 30 mins before, or after market open. I wonder what causes that, or am I just misreading it as increased volatility as people prepare their positions / options.
-
-9h ago
+3h ago
 
 ---
 
@@ -159,61 +159,57 @@ It's interesting - I sell options on BTC so I regularly check the price especial
 
 ## Google News: "bitcoin"
 
+**[BTC trapped in tight range as growing open interest hints at defensive bets: Crypto Markets Today](https://www.coindesk.com/markets/2026/03/12/bitcoin-steady-near-usd70-000-as-rising-open-interest-hints-at-cautious-bearish-positioning)**
+
+Bitcoin traded around $69,800 as open interest rose to $102 billion, suggesting defensive, bearish bets while altcoins outperformed in a risk-off macro backdrop.
+
+CoinDesk • 12h ago
+
+---
+
+**[Cathie Wood's ARK warns of shocking risk to 35% of Bitcoin](https://www.thestreet.com/crypto/technology/cathie-woods-ark-warns-of-shocking-risk-to-35-bitcoin)**
+
+Cathie Wood's ARK Invest publishes a white paper on Bitcoin and quantum computing.
+
+thestreet.com • 3h ago
+
+---
+
+**[Strategy (MSTR) Bought Over 4,000 Bitcoin Today via STRC As Strong Week Continues](https://bitcoinmagazine.com/news/strategy-mstr-bought-over-4000-bitcoin)**
+
+Strategy appears to have purchased more than 4,100 bitcoin on Thursday via STRC.
+
+Bitcoin Magazine • 28m ago
+
+---
+
+**['Bitcoin Is Going To Die', Oscar-Nominated Actor Declares, But Silver Will Reach 'Thousands Of Dollars'](https://finance.yahoo.com/news/bitcoin-going-die-oscar-nominated-153050652.html)**
+
+Oscar-nominated actor Terrence Howard declared Bitcoin is “going to die” on the PBD Podcast, while predicting silver will reach “thousands of dollars” as the gold-to-silver ratio collapses from 80:1 toward 13:1. The ‘Bitcoin Is Going To Die’ Argument Howard cited...
+
+Yahoo Finance • 7h ago
+
+---
+
 **[Bitcoin Weakens as Oil Surges Back Above $100 on Iran War](https://www.bloomberg.com/news/articles/2026-03-12/bitcoin-weakens-as-oil-surges-back-above-100-on-iran-war)**
 
-Bloomberg • 6h ago
+Bloomberg • 7h ago
 
 ---
 
-**[Bitcoin price analysis: Large and small holders are selling, but BTC remains resilient](https://www.coindesk.com/markets/2026/03/12/bitcoin-selling-intensifies-across-all-wallet-sizes-despite-price-holding-near-usd70-000)**
+**[Bitcoin climbs the wall of worry amid escalating Iran war and stock market losses](https://www.coindesk.com/markets/2026/03/12/bitcoin-climbs-the-wall-of-worry-amid-escalating-iran-war-and-stock-market-losses)**
 
-Glassnode’s Accumulation Trend Score drops to 0.04 as smaller wallet cohorts offload BTC while macro headwinds intensify.
+BTC holds near $70,000 and outperforms major assets during Middle East tensions, even as derivatives data and fear indicators signal deep market pessimism.
 
-CoinDesk • 8h ago
-
----
-
-**[Bitcoin's 'Nuclear Winter' May Be Over Soon, ETF Analysts Say](https://finance.yahoo.com/news/bitcoins-nuclear-winter-may-over-220120138.html)**
-
-Bitcoin has been outperforming equities during the Iran conflict as ETF managers declared the “crypto winter” is bottoming. The Outperformance During Iran Conflict Bitcoin has risen 10% while equities are down during the Iran conflict, demonstrating diversification benefits. “So far...
-
-Yahoo Finance • 53m ago
+CoinDesk • 12h ago
 
 ---
 
-**[Two Denver cryptocurrency investors fall out over millions in Bitcoin, lawsuit says](https://www.denverpost.com/2026/03/12/denver-cryptocurrency-investors-bitcoin-loan-lawsuit/)**
+**[Bitcoin outperforms gold and stocks since beginning of Iran conflict](https://fortune.com/2026/03/11/bitcoin-outperforms-gold-and-stocks-since-beginning-of-iran-war/)**
 
-James Hilliard is suing bitcoin ATM entrepreneur and founder of EasyBit, Michael Dupree over an alleged unpaid loan of nearly 70 Bitcoins.
+After months of sputtering, the original cryptocurrency catches some momentum.
 
-The Denver Post • 1h ago
-
----
-
-**[JPMorgan says bitcoin and gold ETFs show sharp flow divergence since Iran war](https://www.theblock.co/post/393450/jpmorgan-bitcoin-and-gold-etfs-divergence-iran-war?utm_source=news.xml&utm_medium=rss)**
-
-GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
-
-The Block • 2h ago
-
----
-
-**[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
-
-Investor's Business Daily • 8h ago
-
----
-
-**[Michael Saylor’s Strategy Boosts Bitcoin Buying With New Model as Analyst Warns of $10,000 Price Fall](https://www.ccn.com/news/crypto/michael-saylors-strategy-bitcoin-buying-model-warns-10000-bitcoin-price/)**
-
-CCN.com • 8h ago
-
----
-
-**[Strategy’s Growing 3.4% Slice of Bitcoin Supply Could Be A Game Changer For MSTR](https://finance.yahoo.com/news/strategy-growing-3-4-slice-151308906.html)**
-
-Last week, Strategy Inc. acquired 17,994 bitcoin for about US$1.28 billion at an average price of US$70,946 per coin, lifting its holdings to 738,731 bitcoin funded through common and preferred stock offerings. This latest purchase means Strategy now controls more than 3.4% of bitcoin’s fixed supply, underscoring its role as a major corporate conduit for institutional exposure to the asset. Next, we’ll examine how this large, equity-funded bitcoin accumulation shapes Strategy’s investment...
-
-Yahoo Finance • 2d ago
+Fortune • 1d ago
 
 ---
 
@@ -221,15 +217,21 @@ Yahoo Finance • 2d ago
 
 Victims of Chinese crypto fraud fight to stop Treasury capturing inflated value of the currency
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
-**[Cosmos Health (COSM) Buys $600K in Bitcoin, Expands Digital Asset Treasury](https://bitcoinmagazine.com/news/cosmos-health-cosm-buys-600k-in-bitcoin)**
+**[Bitwise CIO reiterates bitcoin price could reach $1 million as he compares it to gold](https://www.theblock.co/post/393109/bitwise-cio-bitcoin-price-1-million-gold)**
 
-Cosmos Health Inc. announced it has purchased $600,000 in Bitcoin as part of its ongoing digital asset treasury strategy.
+Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.
 
-Bitcoin Magazine • 1d ago
+The Block • 2d ago
+
+---
+
+**[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
+
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -271,7 +273,7 @@ No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin p
 
 Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
 
-⬆️ 1 • 💬 0 • 47m ago • [Frozen Security](https://frozensecurity.com/tools/)
+⬆️ 1 • 💬 0 • 1h ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -343,7 +345,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 50%
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 324 • ⏱️ 9:26 • 1d ago
+👁️ 61K • 👍 3K • 💬 324 • ⏱️ 9:26 • 2d ago
 
 ---
 
@@ -353,7 +355,7 @@ ChangeNow: https://bit.ly/47E6nl9 X - https://x.com/ChangeNOW_io Telegram Channe
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 416 • 💬 54 • ⏱️ 7:08 • 12h ago
+👁️ 5K • 👍 416 • 💬 54 • ⏱️ 7:08 • 13h ago
 
 ---
 
@@ -393,7 +395,7 @@ Bitcoin was supposed to replace money. No banks, no borders, no control. Yet yea
 
 📺 DukascopyTV English
 
-👁️ 1K • 👍 19 • ⏱️ 0:45 • 11h ago
+👁️ 1K • 👍 19 • ⏱️ 0:45 • 12h ago
 
 ---
 
