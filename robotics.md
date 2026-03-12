@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T02:11:17.368125+00:00'
+updated: '2026-03-12T04:25:49.477609+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 02:11 UTC  
+**Last Updated:** March 12, 2026 at 04:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-9h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
 
-8h ago
+10h ago
 
 ---
 
@@ -58,13 +58,13 @@ The MSG gripper uses FOC stepper motors without gearboxes, enabling precise cont
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-12h ago
+14h ago
 
 ---
 
 **[Open Sourced Nvidia’s fleet command](https://www.reddit.com/r/robotics/comments/1rragf7/open_sourced_nvidias_fleet_command/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 A dolphin-shaped robot uses a sea-urchin-inspired filter to skim oil from water, offering a safer way to respond to spills.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/inside-the-dolphin-inspired-robot-designed-to-clean-oil-spills) • 4h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/inside-the-dolphin-inspired-robot-designed-to-clean-oil-spills) • 6h ago
 
 ---
 
@@ -88,7 +88,7 @@ A dolphin-shaped robot uses a sea-urchin-inspired filter to skim oil from water,
 
 Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
 
-16h ago
+18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi guys, so I've been building robots for a while, some of you might have seen m
 
 Did you know that most RealSense stereo cameras include built-in IMUs (Inertial Measurement Units)? Here's a quick demo.
 
-6h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Did you know that most RealSense stereo cameras include built-in IMUs (Inertial 
 
 As a robotics software developer, I have had several instances where I'm working with numerous remote systems, be it ssh with robots or working with cloud instances. What became a rather tedious work was copying files into your local system from remote hosts or syncing directories with or across remote systems (despite there being fzf history and ssh config to structure your terminal commands ). I wanted to know if this is the case for most people or if there is a easier method for it that I am missing 🤔.
 
-8h ago
+10h ago
 
 ---
 
@@ -116,7 +116,7 @@ As a robotics software developer, I have had several instances where I'm working
 
 Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -124,13 +124,13 @@ Yahoo Finance • 7h ago
 
 Mind Robotics, a startup founded by Rivian CEO RJ Scaringe, has raised $500 million from investors including Accel and Andreessen Horowitz, according to a report from The Wall Street Journal.
 
-Crain's Chicago Business • 10h ago
+Crain's Chicago Business • 13h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcsBPG4MtbowTUw_f-xx6YXk6X18hjrW8DcIMtCu__GHWry_SpQV4z-&gaa_ts=69b22430&gaa_sig=sgxo7O-BAiqk2CpvP7VAKvfmp2Js2WvzM4J89wABx-2DZ5NxF0S3C5eGbgsTzoGpUhR72wbIGZb_iCey3Y6MWw%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqdZ7DRATNjJktMrPfczoMSHPBg9MW4iaIlptVsqcZbL7XEAMGOStG51&gaa_ts=69b243bb&gaa_sig=6-jiwmB6_-VhT4F8rTYgR5urDL6QzeKx0pahrk5SKejBAhiJOzhcHKduzUSLP3xY6OU7AmwpnpPI0EBRbt7VZQ%3D%3D)**
 
-WSJ • 11h ago
+WSJ • 13h ago
 
 ---
 
@@ -142,19 +142,11 @@ The Verge • 1d ago
 
 ---
 
-**[Inside the labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
-
-Network of training farms aims to supply data needed to put ‘brains’ into machines
-
-Financial Times • 52m ago
-
----
-
 **[Can world models unlock general purpose robotics?](https://www.bvp.com/atlas/can-world-models-unlock-general-purpose-robotics)**
 
 How world models are replacing hand-built simulators—and why they may unlock the ChatGPT moment for robotics.
 
-Bessemer Venture Partners • 23h ago
+Bessemer Venture Partners • 1d ago
 
 ---
 
@@ -162,15 +154,7 @@ Bessemer Venture Partners • 23h ago
 
 Exceeded Q4 and full year 2025 expectations with fourth quarter revenue up roughly 400% year over year to $0.9 million, and full year revenue of $2.7 million, above prior guidance of $2.5 million.Scaled the fleet to 2,000 deployed robots by year end, expanding Serve’s operating footprint to 20 cities across 6 major metropolitan areasExpanded and diversified the platform through new market launches, the addition of DoorDash alongside Uber Eats, growth to 4,500+ merchant partners, and four strateg
 
-Yahoo Finance • 15h ago
-
----
-
-**[BD taps Sinteco for European pharmacy robotics partnership](https://www.fiercebiotech.com/medtech/bd-taps-sinteco-european-pharmacy-robotics-partnership)**
-
-BD has inked a technological partnership with automation provider Sinteco, aimed at pharmacy robotics. | The goal is to provide European hospitals a way to automatically sort bulk shipments of blister-packed tablets, loose pills and more into individually bar-coded packs while reducing human error.
-
-Fierce Biotech • 11h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -190,6 +174,20 @@ About Amazon • 1d ago
 
 ---
 
+**[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
+
+Bloomberg • 1d ago
+
+---
+
+**[OpenAI robotics leader resigns over concerns about Pentagon AI deal](https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military)**
+
+A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.
+
+NPR • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +198,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 66K • 👍 2K • 💬 100 • ⏱️ 14:51 • 3d ago
+👁️ 66K • 👍 2K • 💬 101 • ⏱️ 14:51 • 3d ago
 
 ---
 
@@ -210,7 +208,7 @@ In this project I built a tiny desk companion robot using an ESP32, OLED display
 
 📺 Tech Talkies
 
-👁️ 20K • 👍 704 • 💬 64 • ⏱️ 4:51 • 4d ago
+👁️ 20K • 👍 708 • 💬 64 • ⏱️ 4:51 • 4d ago
 
 ---
 
@@ -220,27 +218,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 15K • 👍 94 • 💬 27 • ⏱️ 3:48 • 2d ago
-
----
-
-**[Middle Goal Selector | 6219B Rock Em&#39; Sock Em&#39; Robot | Robot Rundown](https://www.youtube.com/watch?v=ScJMx2xKiOs)**
-
-WI States Triple Crown 6219B Rock Em' Sock Em' Robot details their middle goal selector on their robot and it's advantages on ...
-
-📺 FUN Robotics Network
-
-👁️ 943 • 👍 20 • 💬 2 • ⏱️ 0:51 • 1h ago
-
----
-
-**[This Is The NEW Toxic Meta Build... Eiffel Furnace DELETES Everything | War Robots](https://www.youtube.com/watch?v=hU1c3OI8p-I)**
-
-This is going to be the next most toxic build in war robots. The furnace, torch Eiffel. These weapons seem way too strong for an ...
-
-📺 PREDATOR WR
-
-👁️ 9K • 👍 356 • 💬 39 • ⏱️ 15:33 • 14h ago
+👁️ 15K • 👍 95 • 💬 27 • ⏱️ 3:48 • 2d ago
 
 ---
 
@@ -250,7 +228,17 @@ China's humanoid robot revolution is no longer science fiction – it's happenin
 
 📺 CGTN
 
-👁️ 272K • 👍 3K • 💬 421 • ⏱️ 29:41 • 6d ago
+👁️ 274K • 👍 3K • 💬 421 • ⏱️ 29:41 • 6d ago
+
+---
+
+**[This Is The NEW Toxic Meta Build... Eiffel Furnace DELETES Everything | War Robots](https://www.youtube.com/watch?v=hU1c3OI8p-I)**
+
+This is going to be the next most toxic build in war robots. The furnace, torch Eiffel. These weapons seem way too strong for an ...
+
+📺 PREDATOR WR
+
+👁️ 10K • 👍 374 • 💬 39 • ⏱️ 15:33 • 16h ago
 
 ---
 
@@ -260,7 +248,15 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 45K • 👍 2K • 💬 110 • ⏱️ 10:52 • 4d ago
+👁️ 46K • 👍 2K • 💬 111 • ⏱️ 10:52 • 4d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=G4jYrDe3Kt0)**
+
+📺 Robot Julie 
+
+👁️ 19K • 👍 176 • 💬 2 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -270,27 +266,27 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 521K • 👍 547 • 💬 23 • ⏱️ 3:35:12 • 4d ago
+👁️ 521K • 👍 550 • 💬 23 • ⏱️ 3:35:12 • 4d ago
 
 ---
 
-**[Inside China’s Plan To Lead The World In Advanced Robotics | Insight](https://www.youtube.com/watch?v=Fc-nKxWkYxs)**
+**[Middle Goal Selector | 6219B Rock Em&#39; Sock Em&#39; Robot | Robot Rundown](https://www.youtube.com/watch?v=ScJMx2xKiOs)**
 
-You've seen the Unitree G1 robots' display of martial skill at the Spring Festival Gala. It's a sign of China moving fast to become a ...
+WI States Triple Crown 6219B Rock Em' Sock Em' Robot details their middle goal selector on their robot and it's advantages on ...
 
-📺 CNA Insider
+📺 FUN Robotics Network
 
-👁️ 80K • 👍 873 • 💬 237 • ⏱️ 46:28 • 5d ago
+👁️ 2K • 👍 29 • 💬 2 • ⏱️ 0:51 • 3h ago
 
 ---
 
-**[China’s $16K Robot Changes the Future of Work](https://www.youtube.com/watch?v=KFzEWvTSmn4)**
+**[I, Robot – When a Movie Feels Made by AI | Anatomy of a Failure](https://www.youtube.com/watch?v=pS1A_sIR_fM)**
 
-Everyone thought AI would replace office workers first. But the real disruption is happening in the physical world. Humanoid robots ...
+Get 10 Free Meals and your first box ship free with code FILMENTOFM at https://bit.ly/4aKycJe I, Robot is a 2004 Will Smith movie ...
 
-📺 By 2050
+📺 Filmento
 
-👁️ 115K • 👍 2K • 💬 127 • ⏱️ 0:55 • 6d ago
+👁️ 117K • 👍 7K • 💬 1K • ⏱️ 20:54 • 5d ago
 
 ---
 

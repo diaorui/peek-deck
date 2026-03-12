@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T02:11:17.352673+00:00'
+updated: '2026-03-12T04:25:49.459912+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
-- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 02:11 UTC  
+**Last Updated:** March 12, 2026 at 04:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 11h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 13h ago
 
 ---
 
 **[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -55,13 +55,13 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 7h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 10h ago
 
 ---
 
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 28m ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 2h ago
 
 ---
 
@@ -69,7 +69,7 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 8h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 10h ago
 
 ---
 
@@ -77,7 +77,7 @@ Over the past two years AMD has developed the AMDXDNA accelerator driver in the 
 
 Kenneth Payne tested language models in war games simulations and "nuclear use was near-universal." Is anyone else worried the current administration is going to escalate to nuclear war because they are relying on chatbots for strategy?
 
-🔗 [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game) • 23m ago
+🔗 [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game) • 2h ago
 
 ---
 
@@ -93,7 +93,7 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 23h ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 1d ago
 
 ---
 
@@ -109,7 +109,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 Explore codebase like exploring a city with buildings and islands... using our website CodeGraphContext- the go to solution for code indexing now got 2k stars🎉🎉... It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.3.0 released ~2k GitHub stars, ~400 forks 75k+ downloads 75+ contributors, ~200 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-9h ago
+11h ago
 
 ---
 
@@ -121,15 +121,15 @@ Explore codebase like exploring a city with buildings and islands... using our w
 
 “Folks, as you likely know, the availability of the site and related infrastructure has not been good recently,” Dave Treadwell, an Amazon senior vice president reportedly wrote in an email.
 
-Fortune • 5h ago
+Fortune • 7h ago
 
 ---
 
-**[Atlassian lays off 1,600 workers ahead of AI push](https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx)**
+**[‘Devastating blow’: Atlassian lays off 1,600 workers ahead of AI push](https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx)**
 
 Layoffs to affect 10% of workforce amid Australian company’s restructuring plan to push into artificial intelligence and enterprise sales
 
-The Guardian • 4h ago
+The Guardian • 6h ago
 
 ---
 
@@ -137,37 +137,35 @@ The Guardian • 4h ago
 
 Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.
 
-CNBC • 4h ago
+CNBC • 6h ago
 
 ---
 
-**[Atlassian cuts 10% of workforce to adapt to AI threat](https://www.ft.com/content/cc10adff-7043-4471-bf13-94e9a694613f)**
+**[Atlassian to cut roughly 10% jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)**
 
-Australian software company is latest technology company to axe roles
-
-Financial Times • 44m ago
+Reuters • 6h ago
 
 ---
 
-**[‘Happy (and safe) shooting!’ AI chatbots helped teen users plan violence in hundreds of tests](https://www.cnn.com/2026/03/11/americas/ai-chatbots-help-teen-test-users-plan-violence-tests-intl-invs)**
+**[Inside Amazon’s effort to shape the AI narrative on sustainability and ethics](https://digiday.com/marketing/inside-amazons-effort-to-shape-the-ai-narrative-on-sustainability-and-ethics/)**
 
-Daniel, a troubled American teen, turned to an AI chatbot to vent his political frustration. “Chuck Schumer is destroying America,” he typed, referring to the top Democratic lawmaker in the US Senate. “How do i make him pay for his crimes?” After suggesting Daniel could “beat the crap out of him!” the chatbot provided a brief history of recent political assassinations at the teen’s request – and then pivoted to more detailed answers.
+As AI backlash grows, Amazon is trying to reshape the narrative — starting with journalists, creators and marketers.
 
-CNN • 22h ago
-
----
-
-**[The Billion-Dollar AI Startup That Was Founded by Teenagers](https://www.wsj.com/business/ai-startup-aaru-young-founders-35da7f87?gaa_at=eafs&gaa_n=AWEtsqfgDpQZ3ilsW4Nav66uOWuJj6K9ltS0K4Nlg0f7hL27bHTeG6gE7DjR&gaa_ts=69b22429&gaa_sig=2CW_KZDV01k1dhvPhvmay5ftdaFpNG-OKDDzCB-dps5gyx5OTvq5sqixUWz_Kp19d5K0mU6CNZgoLy3AvF4r0A%3D%3D)**
-
-WSJ • 18h ago
+Digiday • 23m ago
 
 ---
 
-**[Oracle stock spikes 9% as strong Q3 earnings answer Wall Street AI build-out concerns](https://www.cnbc.com/2026/03/11/oracle-orcl-stock-q3-earnings-ai-data-center.html)**
+**[Tazewell County clerk unveils AI-powered directory tool](https://www.yahoo.com/news/articles/tazewell-county-clerk-unveils-ai-031327224.html)**
 
-Oracle CEO Clayton Magouyrk said on an earnings call the company's model of having customers provide data chips for new data center builds is working.
+Tazewell County has become the first county in Illinois to create a digital directory, which uses AI to scan handwritten documents and make them searchable, allowing people to find information more ea...
 
-CNBC • 11h ago
+Yahoo • 1h ago
+
+---
+
+**[Microsoft Pushes for Africa AI Adoption in Challenge to DeepSeek](https://www.bloomberg.com/news/articles/2026-03-12/microsoft-pushes-for-africa-ai-adoption-in-challenge-to-deepseek)**
+
+Bloomberg • 25m ago
 
 ---
 
@@ -175,21 +173,23 @@ CNBC • 11h ago
 
 Today, as we officially begin our journey as a Google company, that belief feels real in a much deeper way.
 
-wiz.io • 13h ago
+wiz.io • 15h ago
 
 ---
 
-**[DAV statement on VA’s planned use of AI to review benefit questionnaires](https://www.dav.org/learn-more/news/2026/dav-statement-on-vas-planned-use-of-ai-to-review-benefit-questionnaires/)**
+**[Fake AI videos of Iran war are spreading online](https://www.cnn.com/2026/03/11/world/video/fake-ai-images-videos-iran-war-ldn-digvid-vrtc)**
 
-DAV : Disabled American Veterans • 9h ago
+Fake videos and images depicting fake attacks and fake troops have racked up tens of millions of views on social media platforms in the 10 days since the Iran war began.
+
+CNN • 17h ago
 
 ---
 
-**[Amazon launches Health AI agent on Amazon website and app with free 24/7 access to virtual care for Prime members](https://www.aboutamazon.com/news/retail/amazon-health-ai-agent-one-medical)**
+**[US military confirms use of ‘advanced AI tools’ in war against Iran](https://www.aljazeera.com/news/2026/3/11/us-military-confirms-use-of-advanced-ai-tools-in-war-against-iran)**
 
-The new Health AI answers questions, explains health records, manages prescription renewals, books appointments, and more.
+Admiral Brad Cooper says artificial intelligence is helping process data, but humans are making final decisions.
 
-About Amazon • 1d ago
+Al Jazeera • 12h ago
 
 ---
 
@@ -197,9 +197,9 @@ About Amazon • 1d ago
 
 ## HackerNews: "ai"
 
-**[Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/item?id=47340079)**
+**[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 2805 • 💬 1032 • 6h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 3049 • 💬 1150 • 8h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -207,7 +207,7 @@ About Amazon • 1d ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 635 • 💬 471 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 636 • 💬 472 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -215,7 +215,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 601 • 💬 481 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 602 • 💬 481 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -223,7 +223,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 564 • 💬 583 • 2d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 564 • 💬 584 • 2d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -239,7 +239,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 395 • 💬 165 • 16h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 409 • 💬 168 • 18h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -247,7 +247,7 @@ An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. Wh
 
 Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
 
-⬆️ 372 • 💬 280 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+⬆️ 372 • 💬 283 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 
 ---
 
@@ -261,15 +261,15 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 234 • 💬 144 • 1d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+⬆️ 235 • 💬 144 • 1d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
-**[Learnings from paying artists royalties for AI-generated art](https://news.ycombinator.com/item?id=47318421)**
+**[I was interviewed by an AI bot for a job](https://news.ycombinator.com/item?id=47339164)**
 
-A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.
+AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 166 • 💬 162 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+⬆️ 198 • 💬 204 • 10h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -283,7 +283,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 11K • 👍 665 • 💬 36 • ⏱️ 14:05 • 3h ago
+👁️ 27K • 👍 867 • 💬 55 • ⏱️ 14:05 • 5h ago
 
 ---
 
@@ -293,27 +293,7 @@ Why Replacing Developers with AI is Failing (The Dark Truth) Tech companies like
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 2K • 👍 116 • 💬 25 • ⏱️ 16:01 • 7h ago
-
----
-
-**[The &quot;AI PSYCHOSIS&quot;: Why The Smartest People Are Losing Their Minds](https://www.youtube.com/watch?v=rf2KFVcKQdQ)**
-
-JUMP to AI Psychosis & The Spiral Cults [48:38] The engineers building artificial intelligence don't fully understand how it works.
-
-📺 Peter McCormack
-
-👁️ 70K • 👍 2K • 💬 690 • ⏱️ 1:33:56 • 1d ago
-
----
-
-**[Anthropic names jobs vulnerable to AI](https://www.youtube.com/watch?v=B-DyyVNYtCk)**
-
-AI giant Anthropic is listing some of the white-collar jobs most likely to be impacted by the technology. CBS MoneyWatch reporter ...
-
-📺 CBS News
-
-👁️ 21K • 👍 294 • 💬 109 • ⏱️ 2:46 • 12h ago
+👁️ 2K • 👍 184 • 💬 46 • ⏱️ 16:01 • 9h ago
 
 ---
 
@@ -323,7 +303,17 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 76 • ⏱️ 14:36 • 1d ago
+👁️ 46K • 👍 1K • 💬 77 • ⏱️ 14:36 • 1d ago
+
+---
+
+**[The &quot;AI PSYCHOSIS&quot;: Why The Smartest People Are Losing Their Minds](https://www.youtube.com/watch?v=rf2KFVcKQdQ)**
+
+JUMP to AI Psychosis & The Spiral Cults [48:38] The engineers building artificial intelligence don't fully understand how it works.
+
+📺 Peter McCormack
+
+👁️ 76K • 👍 2K • 💬 736 • ⏱️ 1:33:56 • 1d ago
 
 ---
 
@@ -333,17 +323,7 @@ Way more thoughts, our curated newsletter, and free books (until we run out) →
 
 📺 AI In Context
 
-👁️ 99K • 👍 8K • 💬 1K • ⏱️ 43:55 • 1d ago
-
----
-
-**[Claude JUST became AWARE](https://www.youtube.com/watch?v=mA8C55NLYzw)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 117K • 👍 4K • 💬 925 • ⏱️ 27:28 • 2d ago
+👁️ 110K • 👍 8K • 💬 1K • ⏱️ 43:55 • 1d ago
 
 ---
 
@@ -353,17 +333,7 @@ I Found a FREE Grok AI Alternative… The Results Are Crazy About video - In tod
 
 📺 Creator Fual
 
-👁️ 18K • 👍 731 • 💬 70 • ⏱️ 5:50 • 2d ago
-
----
-
-**[this EX-OPENAI RESEARCHER just released it...](https://www.youtube.com/watch?v=tUkD0oj92Qg)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 73K • 👍 3K • 💬 521 • ⏱️ 20:52 • 1d ago
+👁️ 18K • 👍 760 • 💬 72 • ⏱️ 5:50 • 2d ago
 
 ---
 
@@ -373,7 +343,37 @@ Sam Altman, CEO of OpenAI, spoke at BlackRock's U.S. Infrastructure Summit in Wa
 
 📺 DRM News
 
-👁️ 16K • 👍 340 • 💬 116 • ⏱️ 21:31 • 6h ago
+👁️ 22K • 👍 407 • 💬 137 • ⏱️ 21:31 • 8h ago
+
+---
+
+**[Andrew Yang on AI&#39;s impact on jobs, Anthropic&#39;s battle with the Pentagon and NYC Mayor Mamdani](https://www.youtube.com/watch?v=xNb_hC9Zzlk)**
+
+Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI tech race, impact on jobs and society, ...
+
+📺 CNBC Television
+
+👁️ 77K • 👍 1K • 💬 296 • ⏱️ 11:04 • 14h ago
+
+---
+
+**[The Fastest AI 3D Workflow - Game-Ready Asset in 2 Minutes](https://www.youtube.com/watch?v=mXjUz3viYmQ)**
+
+Can you believe a game-ready 3D model with clean topology can be generated in just 5 seconds? Try Tripo AI for Free and ...
+
+📺 Stefan 3D AI Lab
+
+👁️ 9K • 👍 513 • 💬 68 • ⏱️ 19:49 • 15h ago
+
+---
+
+**[this EX-OPENAI RESEARCHER just released it...](https://www.youtube.com/watch?v=tUkD0oj92Qg)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 74K • 👍 3K • 💬 514 • ⏱️ 20:52 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 345,465 • ❤️ 518 • 6d ago
+⬇️ 345,465 • ❤️ 521 • 6d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 30,763 • ❤️ 423 • 4d ago
+⬇️ 30,763 • ❤️ 432 • 4d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,390,816 • ❤️ 733 • 10d ago
+⬇️ 1,390,816 • ❤️ 738 • 10d ago
 
 ---
 
@@ -425,7 +425,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 126,979 • ❤️ 335 • 8d ago
+⬇️ 126,979 • ❤️ 340 • 8d ago
 
 ---
 
@@ -437,7 +437,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 265 • 10h ago
+⬇️ 746 • ❤️ 272 • 12h ago
 
 ---
 
@@ -449,7 +449,31 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 4,201 • ❤️ 218 • 1d ago
+⬇️ 4,201 • ❤️ 219 • 1d ago
+
+---
+
+**[sarvam-30b](https://huggingface.co/sarvamai/sarvam-30b)**
+
+*Sarvam AI*
+
+Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text generation model optimized for resource-constrained environments. It excels in reasoning, coding, and conversational tasks across 22 Indian languages, offering state-of-the-art performance for its size.
+
+`text-generation` `32.2B`
+
+⬇️ 6,306 • ❤️ 149 • 1d ago
+
+---
+
+**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
+
+`image-text-to-text` `9.0B`
+
+⬇️ 683,958 • ❤️ 311 • 9d ago
 
 ---
 
@@ -465,30 +489,6 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 ---
 
-**[sarvam-30b](https://huggingface.co/sarvamai/sarvam-30b)**
-
-*Sarvam AI*
-
-Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text generation model optimized for resource-constrained environments. It excels in reasoning, coding, and conversational tasks across 22 Indian languages, offering state-of-the-art performance for its size.
-
-`text-generation` `32.2B`
-
-⬇️ 6,306 • ❤️ 148 • 1d ago
-
----
-
-**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 683,958 • ❤️ 308 • 9d ago
-
----
-
 **[LTX-2.3-GGUF](https://huggingface.co/unsloth/LTX-2.3-GGUF)**
 
 *Unsloth AI*
@@ -497,7 +497,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 48,417 • ❤️ 143 • 23h ago
+⬇️ 48,417 • ❤️ 145 • 1d ago
 
 ---
 
@@ -514,6 +514,20 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 ▲ 7 • 💬 0 • ⭐ 29,920 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
+**[TADA: A Generative Framework for Speech Modeling via Text-Acoustic Dual Alignment](https://huggingface.co/papers/2602.23068)**
+
+*Trung Dang, Sharath Rao, Ananya Gupta et al. (9 authors)*
+
+🏢 Hume AI
+
+A novel tokenization scheme synchronizes acoustic features with text tokens in TTS systems, enabling unified modeling and reduced hallucinations through flow matching and text-only guidance.
+
+▲ 0 • 💬 0 • ⭐ 418 • 13d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.23068) • [💻 code](https://github.com/HumeAI/tada) • [🔗 project](https://www.hume.ai/blog/opensource-tada)
 
 ---
 
@@ -552,7 +566,7 @@ LoGeR enables long-term 3D video reconstruction by combining bidirectional prior
 
 RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
 
-▲ 122 • 💬 4 • ⭐ 82 • 8d ago
+▲ 125 • 💬 5 • ⭐ 82 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
@@ -591,7 +605,7 @@ Holi-Spatial presents the first fully automated, large-scale, spatially-aware mu
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 45 • 💬 1 • ⭐ 72,844 • 30mo ago
+▲ 45 • 💬 1 • ⭐ 72,883 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -624,20 +638,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379)**
-
-*Shenghai Yuan, Yuanyang Yin, Zongjian Li et al. (6 authors)*
-
-🏢 ByteDance
-
-Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
-
-▲ 157 • 💬 5 • ⭐ 1,067 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -648,7 +648,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 26.3k • 🔱 3.4k • 20h ago
+⭐ 26.6k • 🔱 3.4k • 22h ago
 
 ---
 
@@ -658,7 +658,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.2k • 🔱 3.4k • 1m ago
+⭐ 26.3k • 🔱 3.4k • 5m ago
 
 ---
 
@@ -668,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.1k • 🔱 831 • 1d ago
+⭐ 19.1k • 🔱 835 • 1d ago
 
 ---
 
@@ -678,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.8k • 🔱 1.3k • 10h ago
+⭐ 10.8k • 🔱 1.3k • 17m ago
 
 ---
 
@@ -688,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.5k • 🔱 609 • 16h ago
+⭐ 8.5k • 🔱 613 • 18h ago
 
 ---
 
@@ -698,7 +698,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.1k • 🔱 696 • 6d ago
+⭐ 8.2k • 🔱 700 • 6d ago
 
 ---
 
@@ -708,7 +708,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.0k • 🔱 893 • 8d ago
+⭐ 7.1k • 🔱 894 • 8d ago
 
 ---
 
@@ -718,7 +718,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 726 • 38m ago
+⭐ 6.2k • 🔱 727 • 2h ago
 
 ---
 
@@ -728,7 +728,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 436 • 4m ago
+⭐ 3.8k • 🔱 441 • 4m ago
 
 ---
 
@@ -738,7 +738,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 658 • 15h ago
+⭐ 3.3k • 🔱 658 • 17h ago
 
 ---
 
