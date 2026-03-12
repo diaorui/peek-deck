@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T10:40:28.514127+00:00'
+updated: '2026-03-12T11:32:18.861331+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 10:40 UTC  
+**Last Updated:** March 12, 2026 at 11:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 7h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
 
-1h ago
+2h ago
 
 ---
 
@@ -156,7 +156,7 @@ Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec
 
 Crypto investors need to keep their eyes on the arrival of altcoin season.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1h ago
 
 Pump.fun tops $1 billion in revenue as domain records reveal Ethereum, Base, BSC, and Monad subdomains amid potential cross-chain expansion.
 
-The Block • 9m ago
+The Block • 1h ago
 
 ---
 
@@ -186,7 +186,7 @@ Binance • 4d ago
 
 OP Labs layoffs: 20 employees let go as the Ethereum L2 developer refocuses on streamlining strategies and decision-making efficiency.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ FXStreet • 1d ago
 
 Tokenized real world assets just exploded to $26.7B, and Ethereum is leading the charge, could this drive bullish Ethereum price prediction?
 
-Cryptonews • 10h ago
+Cryptonews • 11h ago
 
 ---
 
@@ -250,7 +250,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 3K • 💬 81 • ⏱️ 12:32 • 23h ago
+👁️ 13K • 👍 3K • 💬 81 • ⏱️ 12:32 • 1d ago
 
 ---
 
@@ -280,7 +280,7 @@ A lot can happen in a day, and in Bitcoin and the cryptocurrency market's case, 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 821 • 💬 257 • ⏱️ 17:03 • 20h ago
+👁️ 7K • 👍 821 • 💬 257 • ⏱️ 17:03 • 21h ago
 
 ---
 
@@ -290,7 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 812 • 👍 69 • 💬 5 • ⏱️ 4:17 • 7h ago
+👁️ 812 • 👍 69 • 💬 5 • ⏱️ 4:17 • 8h ago
 
 ---
 
@@ -310,7 +310,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 562 • 💬 83 • ⏱️ 10:41 • 5h ago
+👁️ 3K • 👍 562 • 💬 83 • ⏱️ 10:41 • 6h ago
 
 ---
 

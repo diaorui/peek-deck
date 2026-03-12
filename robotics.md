@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T10:40:28.516946+00:00'
+updated: '2026-03-12T11:32:18.864541+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 10:40 UTC  
+**Last Updated:** March 12, 2026 at 11:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-17h ago
+18h ago
 
 ---
 
@@ -50,7 +50,7 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ The MSG gripper uses FOC stepper motors without gearboxes, enabling precise cont
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-20h ago
+21h ago
 
 ---
 
@@ -74,7 +74,7 @@ Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vi
 
 https://reddit.com/link/1rrh5vh/video/8k19b16bljog1/player *Hu Yuhang (online name "U-Hang"), a graduate of Columbia University with a PhD, is the founder of Firstform Technology. He has long focused on research into autonomous learning in robots. His research findings have been published in top international journals such as *Nature Machine Intelligence* and *Science Robotics*. For a long time, the core reason for the stiff facial expressions of robots has been the lack of mechanical structure. Traditional rigid linkages are insufficient to simulate the extremely complex deformations of human facial muscles. This team abandoned the traditional line-driven structure and designed a dedicated lip-driven mechanism with 10 degrees of freedom (25-DoF for the entire face). This mechanism is cleverly embedded under a layer of quick-release flexible silicone "skin." It involves multi-point coordinated actuation, including the upper lip, lower lip, corners of the mouth, and jaw. This mechanical design enables the robot to physically realize closed-lip sounds (such as /p/, /b/), rounded-lip sounds (such as /u/), and complex lip-pursing movements, providing a physical execution foundation for the algorithm.
 
-6h ago
+7h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi guys, so I've been building robots for a while, some of you might have seen m
 
 **[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfXvm7bBCYyEbyBJ888qKDv-wJ83nVBbmIfwgmG-XX1LymulvAARAEg&gaa_ts=69b29b89&gaa_sig=oCdVt7k2c2KtO70u1Kpey4XnEk_LX4ZJmlBymDMVvDIFG4iTfWSfNI1spxuWFrPkZTWiDB5sYHN2FoCLQ-FmTw%3D%3D)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
@@ -122,7 +122,7 @@ WSJ • 19h ago
 
 A startup robotics company owned by Rivian and founded by Rivian CEO RJ Scaringe has secured $500 million in startup capital. Mind Robotics announced an investment by Accel and Andreessen Horowitz. The firm wants to build AI-powered industrial robots.
 
-WGLT • 17h ago
+WGLT • 18h ago
 
 ---
 
@@ -130,7 +130,7 @@ WGLT • 17h ago
 
 Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -138,7 +138,7 @@ Yahoo Finance • 16h ago
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -154,7 +154,7 @@ Bessemer Venture Partners • 1d ago
 
 Exceeded Q4 and full year 2025 expectations with fourth quarter revenue up roughly 400% year over year to $0.9 million, and full year revenue of $2.7 million, above prior guidance of $2.5 million.Scaled the fleet to 2,000 deployed robots by year end, expanding Serve’s operating footprint to 20 cities across 6 major metropolitan areasExpanded and diversified the platform through new market launches, the addition of DoorDash alongside Uber Eats, growth to 4,500+ merchant partners, and four strateg
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -186,7 +186,7 @@ MIT Technology Review • 1d ago
 
 BD has inked a technological partnership with automation provider Sinteco, aimed at pharmacy robotics. | The goal is to provide European hospitals a way to automatically sort bulk shipments of blister-packed tablets, loose pills and more into individually bar-coded packs while reducing human error.
 
-Fierce Biotech • 19h ago
+Fierce Biotech • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ This is going to be the next most toxic build in war robots. The furnace, torch 
 
 📺 PREDATOR WR
 
-👁️ 11K • 👍 389 • 💬 44 • ⏱️ 15:33 • 22h ago
+👁️ 11K • 👍 389 • 💬 44 • ⏱️ 15:33 • 23h ago
 
 ---
 
@@ -288,7 +288,7 @@ WI States Triple Crown 6219B Rock Em' Sock Em' Robot details their middle goal s
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 40 • 💬 3 • ⏱️ 0:51 • 10h ago
+👁️ 3K • 👍 40 • 💬 3 • ⏱️ 0:51 • 11h ago
 
 ---
 

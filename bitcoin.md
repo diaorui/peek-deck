@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-12T10:40:28.508760+00:00'
+updated: '2026-03-12T11:32:18.855298+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 10:40 UTC  
+**Last Updated:** March 12, 2026 at 11:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Hey everyone, As the title says, I got into bitcoin originally in 2020, and used FTX to buy/hold. Come the collapse, I lost all I had. Wasn't that much but still an amount that I was proud of. After that I got into a negative head space with crypto as a whole and kinda forgot about it all until recently. I'll be the first to admit, I was in the space before because of hype, and the prospect of buying low and selling high. That was until the dip to 100k in early November. I saw the news on my feed and I got back into researching bitcoin and I can now proudly say that I fully believe in the technology and actual purpose now. A few things have changed since 2020, I graduated, got an entry job in my field of study, and make roughly 65k CAD/year before tax. I want to accumulate bitcoin, not to sell, but to hold as I truly believe in the long term angle. Given my salary, How should I set up my buying? I just recently got a $100/week DCA that goes every Monday, and I manually buy larger amounts (200-500) on bigger dips. I do have roughly 7-8k saved up that I want to put into the market, but what's the best way to do that? Should I deploy it all at once and pray? Or mybe up my DCA to 200-300/week and slowly eat away at it? (I live alone, pay $1100 for rent and utilities, and have little expenses otherwise besides basic food, insurance, gas, etc) Thanks in advance :)
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hey everyone, As the title says, I got into bitcoin originally in 2020, and used
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources compiled by Jameson Lopp: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and the BitcoinDiscord.com chat
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5 years ago, leaving us with a huge house in city centre of a small village. For pas 3,5 years we have been renting this place, that eventually ended up by selling this house. I Just received a significant amount of money. I am in BTC for more that 4 years, but it was just a hundred dollar now, hundred dollar there… I now have a chance to single buy a lot more. I don’t have any questinons, I just have the urge to tell it to someone who does understand BTC. My Family knows I have some, but the dont care what it is and dont want to educate themselves about it. Just wish me luck, that this was not the end and that We are going forward end in the long run to the MOON!
 
-17h ago
+18h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -119,7 +119,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hi, I have some money and I want to buy some btc. I don't like binance so I was thinking to go at a broker (or whaever they're called) and have him send my money to a bitcoin wallet like bluewallet or similar. Do you guys think dex is a good option? I will be buying and forgetting so not much swapping going on.
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hi, I have some money and I want to buy some btc. I don't like binance so I was 
 
 Green candles: “I am a macro analyst.” Red candles: “This is manipulation.” Sideways market: “This is boring.” Reality: Most accounts are destroyed by overtrading and oversized positions — not by market direction. Anyone else learn this the hard way?
 
-14h ago
+15h ago
 
 ---
 
@@ -149,7 +149,7 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 I go to add new payments, type in Bitcoin and 6 options show up. Bankful Coinbase commerce Crypto.com Opennode Bitpay Solanapay And I can't get any of them to work. Multiple reasons. One doesn't like my Gmail, it wants an enterprise email. Coinbase commerce won't exist soon. One can't verify my documents even though they are all legit. Crypto.com just won't even let me register. What a shit website. One you have to submit an inquiry first and they probably don't want to talk to me and my hundred dollar revenue Solanapay? I don't want a shitcoin, I want Bitcoin. Each one has its own issues. I could type more but I'm on my phone Has anyone successfully done this and what route did you go?
 
-15h ago
+16h ago
 
 ---
 
@@ -161,7 +161,7 @@ I go to add new payments, type in Bitcoin and 6 options show up. Bankful Coinbas
 
 Brent crude surged 10% after attacks on two oil tankers in Iraqi waters, with the prompt spread hitting levels not seen in years and MSCI Asia Pacific stocks falling 1.8%.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 14h ago
 
 These two stores of value are both in demand at the moment.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 2h ago
 
 Bitcoin is clinging to the psychological $70,000 level, but the ground beneath it is shaking. The culprit isn’t a crypto hack or exchange collapse; it is a massive surge in energy markets, with oil prices pushing toward $100 per barrel amid escalating US-Iran tensions. Can Bitcoin’s $70K floor hold against ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin traded around $69,800 as open interest rose to $102 billion, suggesting defensive, bearish bets while altcoins outperformed in a risk-off macro backdrop.
 
-CoinDesk • 6m ago
+CoinDesk • 58m ago
 
 ---
 
@@ -201,7 +201,7 @@ CoinDesk • 6m ago
 
 Victims of Chinese crypto fraud fight to stop Treasury capturing inflated value of the currency
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 1d ago
 
 Cosmos Health Inc. announced it has purchased $600,000 in Bitcoin as part of its ongoing digital asset treasury strategy.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -231,7 +231,7 @@ Polymarket • 2d ago
 
 **[Bitcoin Weakens as Oil Surges Back Above $100 on Iran War](https://www.bloomberg.com/news/articles/2026-03-12/bitcoin-weakens-as-oil-surges-back-above-100-on-iran-war)**
 
-Bloomberg.com • 21m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -295,7 +295,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Ask HN: What are the best product landing pages you've stumbled upon?](https://news.ycombinator.com/item?id=47341618)**
 
-⬆️ 1 • 💬 0 • 13h ago
+⬆️ 1 • 💬 0 • 14h ago
 
 ---
 
@@ -303,7 +303,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 S3-native streaming platform. A Kafka alternative with infinite scalability, Kafka-compatible APIs, SQL processing and AI queries. Written in Rust. - gbram1/streamhouse
 
-⬆️ 3 • 💬 0 • 20h ago • [GitHub](https://github.com/gbram1/streamhouse)
+⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/gbram1/streamhouse)
 
 ---
 
@@ -337,7 +337,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 308 • 💬 226 • ⏱️ 1:13 • 16h ago
+👁️ 9K • 👍 308 • 💬 226 • ⏱️ 1:13 • 17h ago
 
 ---
 
@@ -347,7 +347,7 @@ Raoul Pal just explained WHY the crypto market cap will go from $3 trillion to $
 
 📺 Money Talks
 
-👁️ 2K • 👍 83 • 💬 15 • ⏱️ 17:20 • 16h ago
+👁️ 2K • 👍 83 • 💬 15 • ⏱️ 17:20 • 17h ago
 
 ---
 
@@ -365,7 +365,7 @@ A bank quietly failed, the Federal Reserve is trapped between inflation and debt
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 222 • ⏱️ 21:13 • 22h ago
+👁️ 16K • 👍 1K • 💬 222 • ⏱️ 21:13 • 23h ago
 
 ---
 
@@ -375,7 +375,7 @@ XRP holders have been waiting years for a repeat of the legendary 2017 bull run.
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 410 • 💬 52 • ⏱️ 47:09 • 19h ago
+👁️ 8K • 👍 410 • 💬 52 • ⏱️ 47:09 • 20h ago
 
 ---
 
@@ -385,7 +385,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 352 • ⏱️ 44:39 • 19h ago
+👁️ 19K • 👍 1K • 💬 352 • ⏱️ 44:39 • 20h ago
 
 ---
 
@@ -395,7 +395,7 @@ While the February report suggests inflation remains relatively contained, inves
 
 📺 Paul Barron Network
 
-👁️ 41K • 👍 2K • 💬 131 • ⏱️ 13:43 • 14h ago
+👁️ 41K • 👍 2K • 💬 131 • ⏱️ 13:43 • 15h ago
 
 ---
 

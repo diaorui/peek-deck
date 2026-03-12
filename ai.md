@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T10:40:28.499584+00:00'
+updated: '2026-03-12T11:32:18.846602+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - news
 - social
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 10:40 UTC  
+**Last Updated:** March 12, 2026 at 11:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,13 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 2h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 3h ago
 
 ---
 
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 8h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 9h ago
 
 ---
 
@@ -69,7 +69,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 2h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 3h ago
 
 ---
 
@@ -77,7 +77,7 @@ Post by @emil
 
 Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 16h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 17h ago
 
 ---
 
@@ -85,7 +85,7 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 2h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 3h ago
 
 ---
 
@@ -93,7 +93,7 @@ The AI tool has become the country's latest tech obsession. For savvy early adop
 
 Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 16h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 17h ago
 
 ---
 
@@ -121,7 +121,7 @@ More than 30 OpenAI and Google DeepMind employees filed a court brief defending 
 
 Countries across the continent have spent more than $2bn on Chinese tracking technology that is not ‘necessary or proportionate’, new report finds
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -135,7 +135,7 @@ Anthropic • 1d ago
 
 **[AI may never be as cheap as it is today](https://www.axios.com/2026/03/12/ai-models-costs-ipo-pricing)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 1h ago
 
 A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.
 
-TechCrunch • 40m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ TechCrunch • 40m ago
 
 China-based usage of OpenClaw has already topped that of the U.S., while driving demand for Chinese lower-cost AI models.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 1h ago
 
 “Folks, as you likely know, the availability of the site and related infrastructure has not been good recently,” Dave Treadwell, an Amazon senior vice president reportedly wrote in an email.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 15h ago
 
 The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.
 
-WIRED • 13h ago
+WIRED • 14h ago
 
 ---
 
@@ -183,7 +183,7 @@ WIRED • 13h ago
 
 The strike on an Iranian elementary school killed at least 175, many of them children, raising questions as to whether the military’s use of AI-enabled targeting was a factor.
 
-The Washington Post • 5h ago
+The Washington Post • 6h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Washington Post • 5h ago
 
 Database group set aside an additional $500mn for restructuring costs
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -201,7 +201,7 @@ Financial Times • 11h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 3600 • 💬 1343 • 15h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 3600 • 💬 1343 • 16h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -241,7 +241,7 @@ An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. Wh
 
 Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
 
-⬆️ 415 • 💬 2 • 1d ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+⬆️ 415 • 💬 2 • 2d ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
 
 ---
 
@@ -257,7 +257,7 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 314 • 💬 285 • 16h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 314 • 💬 285 • 17h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -285,7 +285,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 37K • 👍 1K • 💬 65 • ⏱️ 14:05 • 11h ago
+👁️ 37K • 👍 1K • 💬 65 • ⏱️ 14:05 • 12h ago
 
 ---
 
@@ -345,7 +345,7 @@ AI giant Anthropic is listing some of the white-collar jobs most likely to be im
 
 📺 CBS News
 
-👁️ 30K • 👍 382 • 💬 123 • ⏱️ 2:46 • 20h ago
+👁️ 30K • 👍 382 • 💬 123 • ⏱️ 2:46 • 21h ago
 
 ---
 
@@ -365,7 +365,7 @@ Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI 
 
 📺 CNBC Television
 
-👁️ 96K • 👍 1K • 💬 329 • ⏱️ 11:04 • 20h ago
+👁️ 96K • 👍 1K • 💬 329 • ⏱️ 11:04 • 21h ago
 
 ---
 
@@ -451,7 +451,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 5,088 • ❤️ 224 • 1d ago
+⬇️ 5,088 • ❤️ 224 • 2d ago
 
 ---
 
@@ -463,7 +463,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 8,095 • ❤️ 152 • 1d ago
+⬇️ 8,095 • ❤️ 152 • 2d ago
 
 ---
 
@@ -541,7 +541,7 @@ A novel tokenization scheme synchronizes acoustic features with text tokens in T
 
 RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
 
-▲ 129 • 💬 5 • ⭐ 82 • 8d ago
+▲ 129 • 💬 5 • ⭐ 82 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
@@ -594,7 +594,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Holi-Spatial presents the first fully automated, large-scale, spatially-aware multimodal dataset constructed from raw video inputs, supporting multi-level spatial supervision for 3D scene understanding and spatial reasoning tasks.
 
-▲ 73 • 💬 5 • ⭐ 156 • 3d ago
+▲ 73 • 💬 5 • ⭐ 156 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.07660) • [💻 code](https://github.com/Visionary-Laboratory/holi-spatial) • [🔗 project](https://visionary-laboratory.github.io/holi-spatial/)
 
@@ -679,7 +679,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.9k • 🔱 1.3k • 2h ago
+⭐ 10.9k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -689,7 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.6k • 🔱 621 • 4h ago
+⭐ 8.6k • 🔱 621 • 5h ago
 
 ---
 
@@ -729,7 +729,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 443 • 1h ago
+⭐ 3.9k • 🔱 443 • 2h ago
 
 ---
 
