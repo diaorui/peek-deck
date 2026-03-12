@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T13:03:01.173277+00:00'
+updated: '2026-03-12T14:26:30.007631+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 13:03 UTC  
+**Last Updated:** March 12, 2026 at 14:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,21 +36,13 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-2h ago
+3h ago
 
 ---
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-22h ago
-
----
-
-**[NASA’s snake-like robot “EELS” is designed to explore icy moons and extreme terrain](https://www.reddit.com/r/robotics/comments/1rqz4i7/nasas_snakelike_robot_eels_is_designed_to_explore/)**
-
-NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
-
-20h ago
+23h ago
 
 ---
 
@@ -58,13 +50,37 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-4h ago
+5h ago
+
+---
+
+**[Stereo Vision Real-time Point-to-Point Path Planning](https://www.reddit.com/r/robotics/comments/1rrrr2w/stereo_vision_realtime_pointtopoint_path_planning/)**
+
+The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
+
+17m ago
+
+---
+
+**[NASA’s snake-like robot “EELS” is designed to explore icy moons and extreme terrain](https://www.reddit.com/r/robotics/comments/1rqz4i7/nasas_snakelike_robot_eels_is_designed_to_explore/)**
+
+NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
+
+21h ago
 
 ---
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-5m ago
+1h ago
+
+---
+
+**[Embodied AI in manufacturing: moving from scripted automation to adaptive robots](https://www.reddit.com/r/robotics/comments/1rrraxj/embodied_ai_in_manufacturing_moving_from_scripted/)**
+
+Embodied AI refers to AI systems that control physical machines using real-time perception, reasoning, and interaction with the environment. In manufacturing this shows up in systems like adaptive pick-and-place robots, mobile warehouse robots, and inspection systems that adjust to variability instead of following fixed scripts. Examples include robots adapting to part orientation during assembly or locomotion policies trained in simulation and deployed to physical robots like Boston Dynamics’ Spot.
+
+🔗 [Automate](https://www.automate.org/industry-insights/how-embodied-ai-fits-into-the-future-of-manufacturing) • 35m ago
 
 ---
 
@@ -72,7 +88,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
 
-19h ago
+20h ago
 
 ---
 
@@ -80,7 +96,7 @@ The MSG gripper uses FOC stepper motors without gearboxes, enabling precise cont
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-23h ago
+1d ago
 
 ---
 
@@ -88,21 +104,7 @@ Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vi
 
 https://reddit.com/link/1rrh5vh/video/8k19b16bljog1/player *Hu Yuhang (online name "U-Hang"), a graduate of Columbia University with a PhD, is the founder of Firstform Technology. He has long focused on research into autonomous learning in robots. His research findings have been published in top international journals such as *Nature Machine Intelligence* and *Science Robotics*. For a long time, the core reason for the stiff facial expressions of robots has been the lack of mechanical structure. Traditional rigid linkages are insufficient to simulate the extremely complex deformations of human facial muscles. This team abandoned the traditional line-driven structure and designed a dedicated lip-driven mechanism with 10 degrees of freedom (25-DoF for the entire face). This mechanism is cleverly embedded under a layer of quick-release flexible silicone "skin." It involves multi-point coordinated actuation, including the upper lip, lower lip, corners of the mouth, and jaw. This mechanical design enables the robot to physically realize closed-lip sounds (such as /p/, /b/), rounded-lip sounds (such as /u/), and complex lip-pursing movements, providing a physical execution foundation for the algorithm.
 
-8h ago
-
----
-
-**[Open Sourced Nvidia’s fleet command](https://www.reddit.com/r/robotics/comments/1rragf7/open_sourced_nvidias_fleet_command/)**
-
-13h ago
-
----
-
-**[BDX Droids at Disneyland during the Season of the Force event](https://www.reddit.com/r/robotics/comments/1rq212v/bdx_droids_at_disneyland_during_the_season_of_the/)**
-
-BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineering for Disneyland theme parks. Inspiration for walking movements was taken from the waddle of a duck, creating a stable walk while still keeping the appearance fun, as with Star Wars droids.
-
-1d ago
+9h ago
 
 ---
 
@@ -110,9 +112,31 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfGNi8XSBY2hQl004k6-fPa9EAUW6W5g9j6Alb_pFgnT3xgiH5h_S5c&gaa_ts=69b2bcec&gaa_sig=4tlYbRl5rPhY1IjC4tCUBhOt8OKu-K2_r3nP0UgZi6iY2Pey7Uxsho-QaJjcmNTCJi8WTbGCtGWeRezjQK0v8Q%3D%3D)**
+**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
 
-WSJ • 22h ago
+Network of training farms aims to supply data needed to put ‘brains’ into machines
+
+Financial Times • 13h ago
+
+---
+
+**[Demand for Humanoid Robots Off the Charts: Humanoid CTO Cannon](https://www.bloomberg.com/news/videos/2026-03-12/demand-for-humanoid-robots-off-the-charts-humanoid-cto-video?srnd=all)**
+
+Bloomberg • 14h ago
+
+---
+
+**[Qualcomm’s partnership with Neura Robotics is just the beginning](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)**
+
+Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.
+
+TechCrunch • 2d ago
+
+---
+
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcsftzITjvP4GNGA334tfPMKjSDk3uPcjd4yOrQpmCoQw8WLaR5JPRD&gaa_ts=69b2d082&gaa_sig=63I6dGd6MijYzyAuADZwiNiPH66D1Pgj9Km2japOwa7COIF7ydjlR4seO_qFZz5d62E-EwIMjYxBdjlBbvvOKg%3D%3D)**
+
+WSJ • 23h ago
 
 ---
 
@@ -120,7 +144,7 @@ WSJ • 22h ago
 
 Mind Robotics, a startup founded by Rivian CEO RJ Scaringe, has raised $500 million from investors including Accel and Andreessen Horowitz, according to a report from The Wall Street Journal.
 
-Crain's Chicago Business • 21h ago
+Crain's Chicago Business • 23h ago
 
 ---
 
@@ -128,7 +152,7 @@ Crain's Chicago Business • 21h ago
 
 The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
 
-TechCrunch • 20h ago
+TechCrunch • 22h ago
 
 ---
 
@@ -136,23 +160,7 @@ TechCrunch • 20h ago
 
 PHILADELPHIA, March 12, 2026--Asylon, a global provider of automated robotic security solutions, is pleased to announce Anthony McCarty as Senior Vice President Government, leading the company’s growth in military security services. Additionally, nationally recognized corporate security leader Michael W. Wanik, CPP, CBCP has joined Asylon’s advisory team. These appointments strengthen Asylon’s vision to replace outdated, time-consuming, and cost prohibitive legacy security plans with drones, rob
 
-Yahoo Finance Singapore • 43m ago
-
----
-
-**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
-
-Network of training farms aims to supply data needed to put ‘brains’ into machines
-
-Financial Times • 11h ago
-
----
-
-**[How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/)**
-
-Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
-
-MIT Technology Review • 1d ago
+Yahoo Finance Singapore • 2h ago
 
 ---
 
@@ -160,7 +168,7 @@ MIT Technology Review • 1d ago
 
 How world models are replacing hand-built simulators—and why they may unlock the ChatGPT moment for robotics.
 
-Bessemer Venture Partners • 3h ago
+Bessemer Venture Partners • 5h ago
 
 ---
 
@@ -177,12 +185,6 @@ The Republic News • 1d ago
 Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
 
 About Amazon • 1d ago
-
----
-
-**[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
-
-Bloomberg • 1d ago
 
 ---
 
@@ -206,7 +208,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 769 • 👍 19 • 💬 12 • ⏱️ 2:38 • 4h ago
+👁️ 769 • 👍 19 • 💬 12 • ⏱️ 2:38 • 5h ago
 
 ---
 
@@ -264,7 +266,7 @@ shorts #DeliveryRobot #ChinaTech #AI #Robotics #AutonomousVehicles #FutureTech #
 
 📺 EcoPaws
 
-👁️ 50K • 👍 1K • 💬 18 • ⏱️ 0:43 • 2d ago
+👁️ 50K • 👍 1K • 💬 18 • ⏱️ 0:43 • 3d ago
 
 ---
 

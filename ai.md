@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T13:03:01.155779+00:00'
+updated: '2026-03-12T14:26:29.990153+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- news
 - social
 - videos
-- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 13:03 UTC  
+**Last Updated:** March 12, 2026 at 14:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 5h ago
-
----
-
-**[Meta buys Moltbook, viral social network where AI agents interact](https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/)**
-
-Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 22h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 6h ago
 
 ---
 
@@ -57,19 +49,27 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 4h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 6h ago
+
+---
+
+**[Meta buys Moltbook, viral social network where AI agents interact](https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/)**
+
+Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 23h ago
 
 ---
 
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 11h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 12h ago
 
 ---
 
 **[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -77,7 +77,7 @@ The AI tool has become the country's latest tech obsession. For savvy early adop
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 5h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 6h ago
 
 ---
 
@@ -85,7 +85,7 @@ Post by @emil
 
 Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 18h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 20h ago
 
 ---
 
@@ -93,7 +93,15 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 18h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 20h ago
+
+---
+
+**[People are getting OpenClaw installed for free in China. Thousands are queuing for OpenClaw setup.](https://www.reddit.com/r/artificial/comments/1rrrmnv/people_are_getting_openclaw_installed_for_free_in/)**
+
+As I posted previously, OpenClaw is super-trending in China and people are paying over $70 for house-call OpenClaw installation services. Tencent then organized 20 employees outside its office building in Shenzhen to help people install it for free. Their slogan is: OpenClaw Shenzhen Installation 1000 RMB per install Charity Installation Event March 6 — Tencent Building, Shenzhen Though the installation is framed as a charity event, it still runs through Tencent Cloud’s Lighthouse, meaning Tencent still makes money from the cloud usage. Again, most visitors are white-collar professionals, who face very high workplace competitions (common in China), very demanding bosses (who keep saying use AI), & the fear of being replaced by AI. They hope to catch up with the trend and boost productivity. They are like:“I may not fully understand this yet, but I can’t afford to be the person who missed it.” This almost surreal scene would probably only be seen in China, where there are intense workplace competitions & a cultural eagerness to adopt new technologies. The Chinese government often quotes Stalin's words: “Backwardness invites beatings.” There are even old parents queuing to install OpenClaw for their children. How many would have thought that the biggest driving force of AI Agent adoption was not a killer app, but anxiety, status pressure, and information asymmetry? image from rednote
+
+22m ago
 
 ---
 
@@ -105,89 +113,81 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 ---
 
-**[OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before](https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/)**
-
-More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
-
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**['Proceed with caution': Elon Musk offers warning after Amazon reportedly held mandatory meeting to address 'high blast radius' AI-related incident](https://fortune.com/2026/03/11/elon-musk-amazon-outage-ai-relate-incident-meeting-report-cybersecurity/)**
+**[Coding After Coders: The End of Computer Programming as We Know It - The New York Times](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-“Folks, as you likely know, the availability of the site and related infrastructure has not been good recently,” Dave Treadwell, an Amazon senior vice president reportedly wrote in an email.
-
-Fortune • 16h ago
+The New York Times • 5h ago
 
 ---
 
-**[‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts](https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts)**
+**[Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales](https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html)**
 
-Countries across the continent have spent more than $2bn on Chinese tracking technology that is not ‘necessary or proportionate’, new report finds
+Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.
 
-The Guardian • 7h ago
-
----
-
-**[Google brings more AI to navigation with 'Ask Maps' feature that lets users ask complex questions](https://www.cnbc.com/2026/03/12/google-brings-more-gemini-ai-to-navigation-with-ask-maps-feature.html)**
-
-Google is launching a new chatbot inside the world's most popular navigation app.
-
-CNBC • 33m ago
+CNBC • 16h ago
 
 ---
 
-**[Google Maps Offers Chat Search With ‘Ask Maps’ AI Feature](https://www.bloomberg.com/news/articles/2026-03-12/google-maps-offers-chat-search-with-ask-maps-ai-feature)**
+**[Big Tech’s Emerging AI Power Gets EU Scrutiny](https://www.bloomberg.com/news/newsletters/2026-03-12/big-tech-s-emerging-grip-on-ai-is-drawing-eu-scrutiny)**
 
-Bloomberg • 33m ago
-
----
-
-**[You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer](https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation)**
-
-Google is turning Maps into a Gemini-powered tool.
-
-The Verge • 33m ago
+Bloomberg • 24m ago
 
 ---
 
-**[Palantir and NVIDIA Team to Deliver Sovereign AI Operating System Reference Architecture](https://www.businesswire.com/news/home/20260312795208/en/Palantir-and-NVIDIA-Team-to-Deliver-Sovereign-AI-Operating-System-Reference-Architecture)**
+**[Coalition of anti-AI activists band together for Hollywood film festival](https://pagesix.com/2026/03/12/hollywood/coalition-of-anti-ai-activists-band-together-for-hollywood-film-festival/)**
 
-Palantir Technologies (NASDAQ:PLTR) today announced its sovereign AI OS reference architecture with NVIDIA, which delivers customers a turnkey AI datacenter ...
+As AI continues to creep into the filmmaking business (and as A-listers like Ben Affleck are building and selling their own AI firms for millions, in secret), a coalition of anti-AI activists is bu…
 
-Business Wire • 2h ago
+Page Six • 6m ago
 
 ---
 
-**[Dad rips AI traffic cameras after getting fine when daughter’s seatbelt slipped ‘for a split second’](https://nypost.com/2026/03/12/lifestyle/australian-driver-slams-ai-traffic-cameras-over-550-seatbelt-fine/)**
+**[Could Germany adopt AI giant Anthropic?](https://www.dw.com/en/could-germany-adopt-ai-giant-anthropic/a-76331249)**
 
-A driver has spoken out against AI traffic cameras, calling them an “outrageous overreach” after receiving a $392 fine.
+After Donald Trump ordered the US government to cancel all contracts with Anthropic, a German politician has said Germany should offer to bring the AI firm to Europe. Is that viable?
 
-New York Post • 47m ago
+dw.com • 39m ago
 
 ---
 
 **[Hackers join U.S. and Israel's fight with Iran](https://www.axios.com/2026/03/11/iran-war-trump-israel-ai-cyberattack)**
 
-Axios • 4h ago
+Axios • 2h ago
 
 ---
 
-**[Coders Coded Their Job Away. Why Are So Many of Them Happy About It? - The New York Times](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
+**[Netflix to Pay as Much as $600 Million for Ben Affleck’s AI Firm](https://finance.yahoo.com/news/netflix-pay-much-600-million-194011342.html)**
 
-The New York Times • 4h ago
+InterPositive’s owners will earn even more if it meets certain performance targets.  Netflix, which recently bid unsuccessfully for Warner Bros. Discovery Inc., hasn’t disclosed the terms.  Netflix is buying InterPositive to accelerate the use of artificial intelligence in its filmmaking.
+
+Yahoo Finance • 18h ago
 
 ---
 
-**[Lawsuit claims Google’s AI chatbot encouraged a man to kill himself](https://www.cnn.com/us/video/ai-gemini-chatbot-google-suicide-lawsuit-jake-tapper-lead)**
+**[‘Exploit every vulnerability’: rogue AI agents published passwords and overrode anti-virus software](https://www.theguardian.com/technology/ng-interactive/2026/mar/12/lab-test-mounting-concern-over-rogue-ai-agents-artificial-intelligence)**
 
-CNN’s Randi Kaye reports.
+Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
 
-CNN • 14h ago
+The Guardian • 1h ago
+
+---
+
+**[Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature](https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/)**
+
+The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.
+
+WIRED • 17h ago
+
+---
+
+**[Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection/)**
+
+How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.
+
+OpenAI • 19h ago
 
 ---
 
@@ -197,7 +197,7 @@ CNN • 14h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 3755 • 💬 1408 • 17h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 3849 • 💬 1440 • 18h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -205,7 +205,7 @@ CNN • 14h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 642 • 💬 475 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 642 • 💬 475 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -213,7 +213,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 604 • 💬 487 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 604 • 💬 489 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -229,7 +229,7 @@ Last week, Dan Blanchard, the maintainer of chardet—a Python library for detec
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 443 • 💬 180 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 449 • 💬 183 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -241,19 +241,19 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 ---
 
+**[I was interviewed by an AI bot for a job](https://news.ycombinator.com/item?id=47339164)**
+
+AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
+
+⬆️ 375 • 💬 371 • 20h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+
+---
+
 **[Debian decides not to decide on AI-generated contributions](https://news.ycombinator.com/item?id=47324087)**
 
 Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
 
 ⬆️ 372 • 💬 285 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
-
----
-
-**[I was interviewed by an AI bot for a job](https://news.ycombinator.com/item?id=47339164)**
-
-AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
-
-⬆️ 352 • 💬 327 • 18h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -267,7 +267,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 235 • 💬 147 • 1d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+⬆️ 235 • 💬 148 • 1d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
@@ -281,7 +281,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 42K • 👍 1K • 💬 71 • ⏱️ 14:05 • 14h ago
+👁️ 42K • 👍 1K • 💬 71 • ⏱️ 14:05 • 15h ago
 
 ---
 
@@ -321,7 +321,7 @@ AI giant Anthropic is listing some of the white-collar jobs most likely to be im
 
 📺 CBS News
 
-👁️ 32K • 👍 402 • 💬 130 • ⏱️ 2:46 • 23h ago
+👁️ 32K • 👍 402 • 💬 130 • ⏱️ 2:46 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ Sam Altman, CEO of OpenAI, spoke at BlackRock's U.S. Infrastructure Summit in Wa
 
 📺 DRM News
 
-👁️ 30K • 👍 521 • 💬 157 • ⏱️ 21:31 • 17h ago
+👁️ 30K • 👍 521 • 💬 157 • ⏱️ 21:31 • 18h ago
 
 ---
 
@@ -341,7 +341,7 @@ Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI 
 
 📺 CNBC Television
 
-👁️ 103K • 👍 1K • 💬 350 • ⏱️ 11:04 • 22h ago
+👁️ 103K • 👍 1K • 💬 350 • ⏱️ 11:04 • 1d ago
 
 ---
 
@@ -351,7 +351,7 @@ All three cost about the same, but what you get for that money is very different
 
 📺 The Tech Girl
 
-👁️ 3K • 👍 157 • 💬 19 • ⏱️ 11:52 • 8h ago
+👁️ 3K • 👍 157 • 💬 19 • ⏱️ 11:52 • 9h ago
 
 ---
 
@@ -361,7 +361,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 78K • 👍 3K • 💬 524 • ⏱️ 20:52 • 1d ago
+👁️ 78K • 👍 3K • 💬 524 • ⏱️ 20:52 • 2d ago
 
 ---
 
@@ -371,7 +371,7 @@ Disclaimer:This is an AI-powered political satire video, which is a piece of cre
 
 📺 President Slop
 
-👁️ 421K • 👍 1K • 💬 8 • ⏱️ 0:10 • 23h ago
+👁️ 421K • 👍 1K • 💬 8 • ⏱️ 0:10 • 1d ago
 
 ---
 
@@ -435,7 +435,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 1,805 • ❤️ 294 • 21h ago
+⬇️ 1,805 • ❤️ 294 • 22h ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 754,646 • ❤️ 316 • 9d ago
+⬇️ 754,646 • ❤️ 316 • 10d ago
 
 ---
 
@@ -551,7 +551,7 @@ A novel tokenization scheme synchronizes acoustic features with text tokens in T
 
 LoGeR enables long-term 3D video reconstruction by combining bidirectional priors with a hybrid memory system that includes parametric Test-Time Training and non-parametric sliding window attention mechanisms.
 
-▲ 49 • 💬 6 • ⭐ 326 • 8d ago
+▲ 49 • 💬 6 • ⭐ 326 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03269) • [💻 code](https://github.com/Junyi42/LoGeR) • [🔗 project](https://loger-project.github.io/)
 
@@ -654,7 +654,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.4k • 🔱 3.4k • 2m ago
+⭐ 26.4k • 🔱 3.4k • 1h ago
 
 ---
 
@@ -674,7 +674,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.9k • 🔱 1.3k • 2h ago
+⭐ 10.9k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -684,7 +684,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.6k • 🔱 622 • 1h ago
+⭐ 8.6k • 🔱 622 • 2h ago
 
 ---
 
@@ -714,7 +714,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 731 • 11h ago
+⭐ 6.2k • 🔱 731 • 12h ago
 
 ---
 
@@ -724,7 +724,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 443 • 16m ago
+⭐ 3.9k • 🔱 443 • 1h ago
 
 ---
 
