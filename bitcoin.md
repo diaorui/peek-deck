@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-12T07:50:14.001133+00:00'
+updated: '2026-03-12T08:44:41.921660+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 07:50 UTC  
+**Last Updated:** March 12, 2026 at 08:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +2.0%  
-**30d:** +3.6%  
-**90d:** -23.0%  
-**1y:** -14.2%  
+**24h:** +0.3%  
+**7d:** +2.5%  
+**30d:** +4.1%  
+**90d:** -22.7%  
+**1y:** -13.8%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Hey everyone, As the title says, I got into bitcoin originally in 2020, and used FTX to buy/hold. Come the collapse, I lost all I had. Wasn't that much but still an amount that I was proud of. After that I got into a negative head space with crypto as a whole and kinda forgot about it all until recently. I'll be the first to admit, I was in the space before because of hype, and the prospect of buying low and selling high. That was until the dip to 100k in early November. I saw the news on my feed and I got back into researching bitcoin and I can now proudly say that I fully believe in the technology and actual purpose now. A few things have changed since 2020, I graduated, got an entry job in my field of study, and make roughly 65k CAD/year before tax. I want to accumulate bitcoin, not to sell, but to hold as I truly believe in the long term angle. Given my salary, How should I set up my buying? I just recently got a $100/week DCA that goes every Monday, and I manually buy larger amounts (200-500) on bigger dips. I do have roughly 7-8k saved up that I want to put into the market, but what's the best way to do that? Should I deploy it all at once and pray? Or mybe up my DCA to 200-300/week and slowly eat away at it? (I live alone, pay $1100 for rent and utilities, and have little expenses otherwise besides basic food, insurance, gas, etc) Thanks in advance :)
 
-3h ago
+4h ago
 
 ---
 
 **[Thus Spoke Satoshi](https://www.reddit.com/r/Bitcoin/comments/1rr0g4w/thus_spoke_satoshi/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -95,7 +95,23 @@ Hey everyone, As the title says, I got into bitcoin originally in 2020, and used
 
 Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5 years ago, leaving us with a huge house in city centre of a small village. For pas 3,5 years we have been renting this place, that eventually ended up by selling this house. I Just received a significant amount of money. I am in BTC for more that 4 years, but it was just a hundred dollar now, hundred dollar there… I now have a chance to single buy a lot more. I don’t have any questinons, I just have the urge to tell it to someone who does understand BTC. My Family knows I have some, but the dont care what it is and dont want to educate themselves about it. Just wish me luck, that this was not the end and that We are going forward end in the long run to the MOON!
 
-15h ago
+16h ago
+
+---
+
+**[⚡ Lightning Thursday! March 12, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1rrjwih/lightning_thursday_march_12_2026_explore_the/)**
+
+The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources compiled by Jameson Lopp: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and the BitcoinDiscord.com chat
+
+1h ago
+
+---
+
+**[Daily Discussion, March 12, 2026](https://www.reddit.com/r/Bitcoin/comments/1rrit7u/daily_discussion_march_12_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+2h ago
 
 ---
 
@@ -104,14 +120,6 @@ Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5
 Hi, I have some money and I want to buy some btc. I don't like binance so I was thinking to go at a broker (or whaever they're called) and have him send my money to a bitcoin wallet like bluewallet or similar. Do you guys think dex is a good option? I will be buying and forgetting so not much swapping going on.
 
 10h ago
-
----
-
-**[Over the past few years, crypto trading has evolved a lot.](https://www.reddit.com/r/Bitcoin/comments/1rrjf1g/over_the_past_few_years_crypto_trading_has/)**
-
-At first, most traders relied only on basic technical analysis — support/resistance, RSI, MACD, etc. But recently I’ve been noticing something interesting: more traders and developers are starting to experiment with AI-driven trading tools. Instead of manually analyzing charts, AI systems can now: • monitor dozens or even hundreds of markets simultaneously • detect momentum and trend changes • combine technical indicators automatically • react faster than manual trading For example, some systems are already combining indicators like: • EMA crossovers • momentum indicators • market sentiment • volatility signals The interesting part is that AI doesn’t just follow one strategy — it can adapt and test multiple strategies across many coins at the same time. This could become especially powerful in crypto where markets run 24/7 and move very fast. At the moment I’m researching ways to build automated systems that monitor multiple crypto assets simultaneously and react to market changes in real time. I’m curious about the community’s experience. Do you think AI trading tools will become dominant in crypto over the next few years? Or do you think human traders will still outperform automated systems? Would be interesting to hear different perspectives.
-
-1h ago
 
 ---
 
@@ -129,14 +137,6 @@ Green candles: “I am a macro analyst.” Red candles: “This is manipulation.
 
 ---
 
-**[Daily Discussion, March 12, 2026](https://www.reddit.com/r/Bitcoin/comments/1rrit7u/daily_discussion_march_12_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-1h ago
-
----
-
 **[What made you believe in Bitcoin enough to hold it long term?](https://www.reddit.com/r/Bitcoin/comments/1rqh53m/what_made_you_believe_in_bitcoin_enough_to_hold/)**
 
 I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
@@ -145,11 +145,11 @@ I’ve been learning more about Bitcoin recently and I’m curious about the peo
 
 ---
 
-**[How to help teen set up business accepting bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rqy9fq/how_to_help_teen_set_up_business_accepting_bitcoin/)**
+**[Accepting Bitcoin on my Shopify account?](https://www.reddit.com/r/Bitcoin/comments/1rr2nyh/accepting_bitcoin_on_my_shopify_account/)**
 
-I have a teen who is starting a business selling a product she is making. She has already been saving in bitcoin and she wants to accept bitcoin for payments along with other options. But, I’m really hesitant for her to advertise this as the wrench attack is my biggest concern with bitcoin. She wants to encourage other teens to get into bitcoin but so far I have not let her. Just looking for ideas or thoughts.
+I go to add new payments, type in Bitcoin and 6 options show up. Bankful Coinbase commerce Crypto.com Opennode Bitpay Solanapay And I can't get any of them to work. Multiple reasons. One doesn't like my Gmail, it wants an enterprise email. Coinbase commerce won't exist soon. One can't verify my documents even though they are all legit. Crypto.com just won't even let me register. What a shit website. One you have to submit an inquiry first and they probably don't want to talk to me and my hundred dollar revenue Solanapay? I don't want a shitcoin, I want Bitcoin. Each one has its own issues. I could type more but I'm on my phone Has anyone successfully done this and what route did you go?
 
-15h ago
+13h ago
 
 ---
 
@@ -161,7 +161,23 @@ I have a teen who is starting a business selling a product she is making. She ha
 
 Bitcoin is up about 7% from the Sunday lows, even as equities and gold tread water. Analysts point to seller exhaustion, shifting gold correlation and improving ETF flows.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin outperforms gold and stocks since beginning of Iran conflict](https://fortune.com/2026/03/11/bitcoin-outperforms-gold-and-stocks-since-beginning-of-iran-war/)**
+
+After months of sputtering, the original cryptocurrency catches some momentum.
+
+Fortune • 12h ago
+
+---
+
+**[Iran warns oil could hit $200 per barrel. Here’s what that could mean for Bitcoin’s price](https://finance.yahoo.com/news/iran-warns-oil-could-hit-214518201.html)**
+
+Iran’s military spokesman has warned oil prices could double due to the war. Bitcoin and oil have experienced increased volatility since the conflict began. Experts said the leading crypto could drop in price if oil prices inflate further.
+
+Yahoo Finance • 10h ago
 
 ---
 
@@ -185,13 +201,7 @@ Yahoo Finance • 1d ago
 
 Central banks aren’t buying it. Billionaire investor Ray Dalio doesn’t trust it as a safe haven. And Bitcoin is trading 44% below its October peak while gold sits near all-time highs.That’s the backdrop against which Bitwise Asset Management’s chief investment officer is making the case that Bitcoi…
 
-TradingView • 17h ago
-
----
-
-**[Bitcoin Weakens as Oil Surges Back Above $100 on Iran War](https://www.bloomberg.com/news/articles/2026-03-12/bitcoin-weakens-as-oil-surges-back-above-100-on-iran-war)**
-
-Bloomberg • 3h ago
+TradingView • 18h ago
 
 ---
 
@@ -199,39 +209,29 @@ Bloomberg • 3h ago
 
 Victims of Chinese crypto fraud fight to stop Treasury capturing inflated value of the currency
 
-Financial Times • 2h ago
+Financial Times • 3h ago
 
 ---
 
-**[Metaplanet Deepens Bitcoin Strategy With $25M Investment Plan, New Venture Arm](https://finance.yahoo.com/news/metaplanet-deepens-bitcoin-strategy-25m-051017194.html)**
+**[Bitcoin Price Struggles to Break $70,000. Why Oil, Inflation, Aren’t Helping Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-oil-inflation-8fcfbfac?gaa_at=eafs&gaa_n=AWEtsqdo0AA8kvfOmV5ZJQDNP3DrYF_yKUXMmXAf6NAJiadnMylIzMCRVITN&gaa_ts=69b28064&gaa_sig=2SRtL8851jXQgrC4sOSGqANtNHuwJXk9Vej1an4r3Ocw_J2Gn-lUvIfnn3LP_vDb9bsdFFIYaJJg_lt7VVuzTA%3D%3D)**
 
-Metaplanet is launching two subsidiaries and backing Japan's first licensed yen stablecoin as it bets on the country's digital asset infrastructure.
-
-Yahoo Finance • 2h ago
+Barron's • 28m ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773294600)**
+**[Could Bitcoin Flip and Silver Someday?](https://www.fool.com/investing/2026/03/12/could-bitcoin-flip-silver-someday/)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+These two stores of value are both in demand at the moment.
 
-Polymarket • 1d ago
-
----
-
-**[Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real](https://bitcoinmagazine.com/politics/coinbase-cpo-rejects-claims-of-opposing-bitcoin-tax-relief-as-jack-dorsey-demands-clarity-from-brian-armstrong)**
-
-Jack Dorsey isn't letting this slide: He's publicly asking Coinbase's Brian Armstrong to back Bitcoin payments getting the same tax break as stablecoins. Real Lightning data shows billions in actual use.
-
-Bitcoin Magazine • 8h ago
+The Motley Fool • 45m ago
 
 ---
 
-**[Crypto Crash: 2 Top Coins I'd Consider Buying Before Prices Rebound](https://www.fool.com/investing/2026/03/11/crypto-crash-2-top-coins-id-consider-buying-before/)**
+**[Why Bitcoin Is Dropping Right Now (and What I'm Watching Next)](https://finance.yahoo.com/news/why-bitcoin-dropping-now-im-011740273.html)**
 
-This could be your chance to stock up on a couple of quality cryptocurrencies at a discount.
+The world's leading cryptocurrency is trading 44% off its peak, leading to heightened investor concerns.
 
-The Motley Fool • 1d ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -295,7 +295,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Ask HN: What are the best product landing pages you've stumbled upon?](https://news.ycombinator.com/item?id=47341618)**
 
-⬆️ 1 • 💬 0 • 10h ago
+⬆️ 1 • 💬 0 • 11h ago
 
 ---
 
@@ -303,7 +303,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 S3-native streaming platform. A Kafka alternative with infinite scalability, Kafka-compatible APIs, SQL processing and AI queries. Written in Rust. - gbram1/streamhouse
 
-⬆️ 3 • 💬 0 • 17h ago • [GitHub](https://github.com/gbram1/streamhouse)
+⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/gbram1/streamhouse)
 
 ---
 
@@ -317,7 +317,7 @@ DOGE claimed $170 billion in savings. The real number is closer to four cents on
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 168 • ⏱️ 19:03 • 7h ago
+👁️ 13K • 👍 1K • 💬 168 • ⏱️ 19:03 • 8h ago
 
 ---
 
@@ -347,7 +347,7 @@ A bank quietly failed, the Federal Reserve is trapped between inflation and debt
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 239 • ⏱️ 21:13 • 19h ago
+👁️ 16K • 👍 1K • 💬 239 • ⏱️ 21:13 • 20h ago
 
 ---
 

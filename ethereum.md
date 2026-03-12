@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T07:50:14.006509+00:00'
+updated: '2026-03-12T08:44:41.927578+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 07:50 UTC  
+**Last Updated:** March 12, 2026 at 08:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.4%  
-**30d:** +4.4%  
-**90d:** -34.9%  
-**1y:** +9.0%  
+**24h:** +1.3%  
+**7d:** +3.4%  
+**30d:** +5.4%  
+**90d:** -34.3%  
+**1y:** +10.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 4h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 5h ago
 
 ---
 
@@ -172,7 +172,7 @@ Sherwood News • 15h ago
 
 Sharplink, Inc. reported full-year 2025 results on March 9, 2026, with revenue rising to US$28.06 million while a US$734.59 million net loss was driven largely by unrealized losses and impairments tied to its substantial Ethereum holdings. Despite this very large accounting loss, Sharplink has rapidly transformed into an Ethereum-focused treasury platform, raising up to US$3.20 billion in equity, accumulating more than 860,000 ETH, and attracting institutional ownership of around 46%...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -182,17 +182,9 @@ Binance • 4d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfsuCAYmGRJ_xhxeCKKnEcbWgV6NI1sZ17ziocH9XPvxHbkL6gvIBjQ&gaa_ts=69b2675f&gaa_sig=b4LguVTFE7zn3BnP-iIx3_9jf0d7viYg5KlcmD2Aja_aH8Y5FUBQL4MEGdt6dzDGqsXWSIDwFkMi4e-v1fAM_Q%3D%3D)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqdBhqaTeItwsovCRQGRRT_oRXd7edagE6kAzeCM7ZDwnXDPQUc6jyvP&gaa_ts=69b28065&gaa_sig=kb9xkx3FmjZAOjLflKuYfuK7vmE8Ny5O7GDMEg8cBHNhFxCj9EQIbDTuxMCxXAGaBjfJJUltv_RyF4kkqwL0_g%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Current price of Ethereum for March 11, 2026](https://fortune.com/article/price-of-ethereum-03-11-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 17h ago
 
 ---
 
@@ -200,7 +192,15 @@ Fortune • 17h ago
 
 Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
 
-TradingView • 20h ago
+TradingView • 21h ago
+
+---
+
+**[OP Labs cuts 20 employees as Ethereum L2 developer narrows strategic focus](https://cryptobriefing.com/op-labs-layoffs-ethereum-l2-focus/)**
+
+OP Labs layoffs: 20 employees let go as the Ethereum L2 developer refocuses on streamlining strategies and decision-making efficiency.
+
+Crypto Briefing • 2h ago
 
 ---
 
@@ -208,15 +208,15 @@ TradingView • 20h ago
 
 It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
-**[Bitmine lifts Ethereum treasury to 4.53 million ETH after adding 60,976 tokens in a week amid ‘mini-crypto winter’](https://www.theblock.co/post/392831/bitmine-lifts-ethereum-treasury-to-4-53-million-eth-after-adding-60976-tokens-in-a-week-amid-mini-crypto-winter)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
 
-Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
+Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
 
-The Block • 2d ago
+PR Newswire • 2d ago
 
 ---
 
@@ -224,7 +224,7 @@ The Block • 2d ago
 
 Bitcoin is holding $70,000 as oil price continue to remain elevated.
 
-Benzinga • 12h ago
+Benzinga • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Autumn Asmr
 
-👁️ 1K • 👍 1K • 1h ago
+👁️ 1K • 👍 1K • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 6K • 👍 258 • 💬 115 • ⏱️ 56:53 • 21h ago
+👁️ 6K • 👍 258 • 💬 115 • ⏱️ 56:53 • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 3K • 💬 84 • ⏱️ 12:32 • 20h ago
+👁️ 13K • 👍 3K • 💬 84 • ⏱️ 12:32 • 21h ago
 
 ---
 
@@ -278,7 +278,7 @@ A lot can happen in a day, and in Bitcoin and the cryptocurrency market's case, 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 6K • 👍 805 • 💬 265 • ⏱️ 17:03 • 17h ago
+👁️ 6K • 👍 805 • 💬 265 • ⏱️ 17:03 • 18h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 492 • 👍 45 • 💬 3 • ⏱️ 4:17 • 4h ago
+👁️ 492 • 👍 45 • 💬 3 • ⏱️ 4:17 • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 523 • 👍 21 • 💬 2 • ⏱️ 6:18 • 12h ago
+👁️ 523 • 👍 21 • 💬 2 • ⏱️ 6:18 • 13h ago
 
 ---
 
