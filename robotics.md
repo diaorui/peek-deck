@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T17:50:10.735174+00:00'
+updated: '2026-03-12T18:56:17.908708+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 17:50 UTC  
+**Last Updated:** March 12, 2026 at 18:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-7h ago
+8h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-34m ago
+1h ago
 
 ---
 
@@ -50,7 +50,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-3h ago
+4h ago
 
 ---
 
@@ -62,7 +62,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -70,7 +70,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 We recently published research showing how generative AI can dramatically lower the barrier to entry for robot security research. Using Cybersecurity AI (CAI) we analyzed three real consumer robots: • robotic lawn mower • powered exoskeleton • window-cleaning robot In ~7 hours the system identified 38 vulnerabilities including firmware exploitation paths, BLE command injection and unauthenticated root access. Historically this kind of analysis required weeks of specialized robotics security research. Paper: https://arxiv.org/pdf/2603.08665
 
-3h ago
+4h ago
 
 ---
 
@@ -78,13 +78,13 @@ We recently published research showing how generative AI can dramatically lower 
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-9h ago
+10h ago
 
 ---
 
 **[FlashHead: Up to 40% Faster Multimodal Reasoning on Top of Quantization](https://www.reddit.com/r/robotics/comments/1rrtvm2/flashhead_up_to_40_faster_multimodal_reasoning_on/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -100,7 +100,7 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 Manual machined tip method takes too long and aligning these parts is not accurate. How often are people here repeating this process? For us it's at least once a month.
 
-15m ago
+1h ago
 
 ---
 
@@ -108,7 +108,7 @@ Manual machined tip method takes too long and aligning these parts is not accura
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeaaSesqKVT6SfItDcNpRwLSshOXmnBFAYDWeke8aAGsK8gZMQKLTt5&gaa_ts=69b3003f&gaa_sig=DlmhpTuxYFzVLYssMxcgFYZtbWKqw-cwOt-lrLh9ir9g0emRYp9RTrjx38oE1E05Q-unlc5TYNDS_ytGivv_kg%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfurpkK7Kp0KZiaz00HMYxb7TRW4bRmQDcr6l9Tuj5lIem5UyOO8ajV&gaa_ts=69b30fbb&gaa_sig=lERvXmaFKr5Yr5Cj3uEL8L_2PgZXpzklrtPTWQ3mbeHocCnWL47Bg-Wz0mPM2iiZkp4mVl63wdEcrA596zp-Vg%3D%3D)**
 
 WSJ • 1d ago
 
@@ -118,15 +118,15 @@ WSJ • 1d ago
 
 Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Rivian CEO launches robotics startup with $500M funding round: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-ceo-scaringe-launches-robotics-startup-mind-20260311/)**
+**[Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)**
 
-Mind Robotics, a startup founded by Rivian CEO RJ Scaringe, has raised $500 million from investors including Accel and Andreessen Horowitz, according to a report from The Wall Street Journal.
+The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
 
-Crain's Chicago Business • 1d ago
+TechCrunch • 1d ago
 
 ---
 
@@ -134,15 +134,15 @@ Crain's Chicago Business • 1d ago
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
-**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
+**[Kamen resigns from FIRST Robotics board of directors](https://www.wmur.com/article/kamen-resigns-first-robotics-board-031226/70724175)**
 
-Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
+New Hampshire inventor Dean Kamen has voluntarily resigned from the board of directors of FIRST Robotics.
 
-TechCrunch • 45m ago
+WMUR • 2h ago
 
 ---
 
@@ -174,15 +174,15 @@ Yahoo Finance • 1d ago
 
 How world models are replacing hand-built simulators—and why they may unlock the ChatGPT moment for robotics.
 
-Bessemer Venture Partners • 4h ago
+Bessemer Venture Partners • 6h ago
 
 ---
 
-**[Local robotics teams heading to state and world competition](https://www.therepublic.com/2026/03/11/local-robotics-teams-heading-to-state-and-world-competition/)**
+**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
 
-Seven local robotics teams will represent Bartholomew Consolidated School Corp. on Saturday during the 2026 Indiana State Robotics Championship, and another from CSA Fodrea has already qualified for world championship competition after organizing an event to inspire girls to explore potential careers in STEM.
+Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
-The Republic News • 1d ago
+TechCrunch • 1h ago
 
 ---
 
@@ -206,7 +206,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 8K • 👍 140 • 💬 65 • ⏱️ 4:52 • 16h ago
+👁️ 8K • 👍 140 • 💬 65 • ⏱️ 4:52 • 17h ago
 
 ---
 
@@ -216,7 +216,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 2K • 👍 35 • 💬 16 • ⏱️ 2:38 • 9h ago
+👁️ 2K • 👍 35 • 💬 16 • ⏱️ 2:38 • 10h ago
 
 ---
 
