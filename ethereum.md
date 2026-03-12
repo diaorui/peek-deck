@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-11T23:51:36.655835+00:00'
+updated: '2026-03-12T02:11:17.365311+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 11, 2026 at 23:51 UTC  
+**Last Updated:** March 12, 2026 at 02:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,070.59
+### $2,044.20
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -1.0%  
-**30d:** +1.6%  
-**90d:** -33.5%  
-**1y:** +7.4%  
+**24h:** +1.2%  
+**7d:** +3.5%  
+**30d:** +5.4%  
+**90d:** -34.3%  
+**1y:** +10.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.21B
+**Market Cap:** $246.90B
 Rank #2
 
-**Circulating Supply:** 120,692,002 ETH
+**Circulating Supply:** 120,691,977 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.1%
+-58.6%
 
 **All-Time Low:** $0.43
-+478405.9%
++472414.8%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Is earning yield on crypto still worth the risk today?](https://www.reddit.com/r/ethereum/comments/1rrdbx4/is_earning_yield_on_crypto_still_worth_the_risk/)**
+
+Fears ago it felt pretty normal to earn yield on your crypto, just park it on a platform and let it earn something while you hold long term. But after everything that happened with some lending platforms blowing up, it seems like a lot of people got way more cautious about it. At the same time, letting your crypto just sit there doing nothing also feels kind of like a missed opportunity if you’re planning to hold for years anyway. I noticed that some platforms are trying to come back with clearer structures and regulation now, which makes me curious if the space is actually getting safer or if the risk is still basically the same. Are you guys still earning yield on your crypto these days?
+
+36m ago
+
+---
+
 **[Daily General Discussion March 11, 2026](https://www.reddit.com/r/ethereum/comments/1rqknm4/daily_general_discussion_march_11_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
 
-19h ago
+21h ago
 
 ---
 
@@ -112,7 +120,7 @@ Summary
 ⚠️ Lighthouse v8.1.2 is a high-priority patch release with further security-critical fixes atop v8.1.1.
 This is a mandatory upgrade for all users running any prior version. All prior Lighth...
 
-🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 1d ago
+🔗 [GitHub](https://github.com/sigp/lighthouse/releases/tag/v8.1.2) • 2d ago
 
 ---
 
@@ -140,39 +148,23 @@ In September 2015, six weeks after mainnet launch, someone deployed three contra
 
 ---
 
-**[AI Is Not Ready for Ethereum Security Audits: A Test](https://www.reddit.com/r/ethereum/comments/1rp189f/ai_is_not_ready_for_ethereum_security_audits_a/)**
-
-MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
-
-🔗 [magicgrants.org](https://magicgrants.org/2026/03/09/AI-Not-Ready-for-Ethereum-Audits) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Ethereum is seeing record activity. So why is its price struggling?](https://sherwood.news/crypto/ethereum-is-seeing-record-activity-so-why-is-its-price-struggling/)**
-
-Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
-
-Sherwood News • 7h ago
-
----
 
 **[Ethereum's on fire with record activity, but ether price and blockchain fees lag](https://www.coindesk.com/markets/2026/03/11/ethereum-network-activity-hits-record-highs-as-ether-price-and-fee-generation-lag)**
 
 Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
 
-CoinDesk • 19h ago
+CoinDesk • 21h ago
 
 ---
 
-**[Investor Dumps $19 Million Ethereum ETF Stake, but Here's Why It Still Seems Very Bullish on Crypto](https://finance.yahoo.com/news/investor-dumps-19-million-ethereum-222426563.html)**
+**[Ethereum is seeing record activity. So why is its price struggling?](https://sherwood.news/crypto/ethereum-is-seeing-record-activity-so-why-is-its-price-struggling/)**
 
-iShares Ethereum Trust ETF provides regulated access to ether, tracking the digital asset’s performance through a single-asset structure.
+Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
 
-Yahoo Finance • 1h ago
+Sherwood News • 9h ago
 
 ---
 
@@ -180,7 +172,15 @@ Yahoo Finance • 1h ago
 
 XRP (CRYPTO: XRP) and Ethereum (CRYPTO: ETH) have both had a rough start to 2026. XRP surged 25% in the first week of January to reach $2.40, and for a moment looked like it had finally escaped the ceiling that’s trapped every rally since 2018. Then macro conditions turned negative as the U.S.-Iran war rattled ... XRP or Ethereum: Which Gives You More Upside With $1,000 at Current Prices?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
+
+---
+
+**[Investor Dumps $19 Million Ethereum ETF Stake, but Here's Why It Still Seems Very Bullish on Crypto](https://www.fool.com/coverage/filings/2026/03/11/investor-dumps-usd19-million-ethereum-etf-stake-but-here-s-why-it-still-seems-very-bullish-on-crypto/)**
+
+iShares Ethereum Trust ETF provides regulated access to ether, tracking the digital asset’s performance through a single-asset structure.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -190,7 +190,7 @@ Binance • 4d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqeoblhkJO2iScrUvzeft12li-DdSL466Xt9xXMLrMFJasrfbVHdb9iL&gaa_ts=69b20373&gaa_sig=RyBtAFz83FrIeSeWoFxHn2FTusKM5a5G2VDKkgub6KX07vWTEPqW4-QAx0V8svkyT6beuz9oQ6t1M-KPDM2uEw%3D%3D)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqc_GNlKNQqf3kuP-q3n019mBNVyz4gWivQvc0czQNn0S9Dj8OqPDS-e&gaa_ts=69b2242d&gaa_sig=uJyPFLYkInvNnInUiy_lFeu0VSQqdhftfRBkDTU18V95K7DBd0NX8dlAlNRo1ANFc03doRA9gZGIx5c9E4sH8w%3D%3D)**
 
 Barron's • 1d ago
 
@@ -206,23 +206,23 @@ Seeking Alpha • 2d ago
 
 Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
 
-TradingView • 12h ago
+TradingView • 14h ago
 
 ---
 
-**[Tom Lee Claims 'Mini Crypto Winter Almost Over' as Bitmine Buys $120M Ethereum Amid Rising Price](https://finance.yahoo.com/news/tom-lee-claims-mini-crypto-132218612.html)**
+**[Bitmine lifts Ethereum treasury to 4.53 million ETH after adding 60,976 tokens in a week amid ‘mini-crypto winter’](https://www.theblock.co/post/392831/bitmine-lifts-ethereum-treasury-to-4-53-million-eth-after-adding-60976-tokens-in-a-week-amid-mini-crypto-winter)**
 
-Tom Lee says crypto may be exiting a “mini crypto winter." Bitmine increased its Ethereum accumulation. On-chain data still signals weak sentiment. Bitmine Chairman Tom ...
+Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
 
-Yahoo Finance • 1d ago
+The Block • 2d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
+**[Current price of Ethereum for March 11, 2026](https://fortune.com/article/price-of-ethereum-03-11-2026/)**
 
-Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-PR Newswire • 2d ago
+Fortune • 12h ago
 
 ---
 
@@ -230,23 +230,33 @@ PR Newswire • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 BTC &amp; ETH: BEWARE!!! ](https://www.youtube.com/watch?v=zsuW8z2XxsE)**
-
-Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us exactly whats about to happen in the markets!
-
-📺 Thomas Kralow
-
-👁️ 11K • 👍 3K • 💬 25 • ⏱️ 12:32 • 12h ago
-
----
-
 **[Why ETH Might Be Near a Major Turning Point](https://www.youtube.com/watch?v=0JFtYBvMjNw)**
 
 GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum underperformed this cycle, and investors ...
 
 📺 Bankless
 
-👁️ 4K • 👍 212 • 💬 30 • ⏱️ 56:53 • 13h ago
+👁️ 5K • 👍 242 • 💬 63 • ⏱️ 56:53 • 15h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: Everyone is Wrong (Target Confirmed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mexMn8196ZI)**
+
+BITCOIN & CRYPTO: Everyone is Wrong (Target Confirmed)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 917 • 👍 96 • 💬 79 • ⏱️ 19:40 • 1h ago
+
+---
+
+**[🚨 BTC &amp; ETH: BEWARE!!! ](https://www.youtube.com/watch?v=zsuW8z2XxsE)**
+
+Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us exactly whats about to happen in the markets!
+
+📺 Thomas Kralow
+
+👁️ 12K • 👍 3K • 💬 77 • ⏱️ 12:32 • 15h ago
 
 ---
 
@@ -256,7 +266,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 290 • 👍 20 • 💬 21 • ⏱️ 6:18 • 4h ago
+👁️ 441 • 👍 21 • 💬 13 • ⏱️ 6:18 • 6h ago
 
 ---
 
@@ -266,27 +276,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 64K • 👍 3K • 💬 273 • ⏱️ 21:43 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=CVxByc-LDys)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 125 • 💬 3 • ⏱️ 5:43 • 8h ago
-
----
-
-**[BMNR’s Ethereum Bet: The Infrastructure Trust Layer for AI Agents](https://www.youtube.com/watch?v=gMkvBwrfPIA)**
-
-In this video we provide an update on BMNR balance and why it could be positioning for the next phase of the digital economy: AI ...
-
-📺 The Value Thinker
-
-👁️ 8K • 👍 465 • 💬 71 • ⏱️ 21:31 • 23h ago
+👁️ 66K • 👍 3K • 💬 282 • ⏱️ 21:43 • 1d ago
 
 ---
 
@@ -296,7 +286,27 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 255 • ⏱️ 9:54 • 2d ago
+👁️ 59K • 👍 3K • 💬 255 • ⏱️ 9:54 • 2d ago
+
+---
+
+**[BMNR’s Ethereum Bet: The Infrastructure Trust Layer for AI Agents](https://www.youtube.com/watch?v=gMkvBwrfPIA)**
+
+In this video we provide an update on BMNR balance and why it could be positioning for the next phase of the digital economy: AI ...
+
+📺 The Value Thinker
+
+👁️ 8K • 👍 483 • 💬 73 • ⏱️ 21:31 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=CVxByc-LDys)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 129 • 💬 3 • ⏱️ 5:43 • 10h ago
 
 ---
 
@@ -306,27 +316,17 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 7K • 👍 345 • 💬 126 • ⏱️ 13:04 • 1d ago
+👁️ 7K • 👍 349 • 💬 129 • ⏱️ 13:04 • 1d ago
 
 ---
 
-**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
+**[Is the ‘crypto winter’ thawing? ETF managers weigh in.](https://www.youtube.com/watch?v=jEMt6EKx_AA)**
 
-The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+Markets have been rotating away from tech and media, and into 'value' parts of the market for months. ProShares Advisors global ...
 
-📺 Altcoin Daily
+📺 CNBC Television
 
-👁️ 5K • 👍 253 • 💬 38 • ⏱️ 1:13 • 6h ago
-
----
-
-**[WHERE I WILL BUY ETH🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=7Eo_kFPH668)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 214 • 👍 15 • 💬 3 • ⏱️ 5:20 • 14h ago
+👁️ 15K • 👍 141 • 💬 68 • ⏱️ 13:46 • 2d ago
 
 ---
 

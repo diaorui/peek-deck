@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-11T23:51:36.641489+00:00'
+updated: '2026-03-12T02:11:17.352673+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 11, 2026 at 23:51 UTC  
+**Last Updated:** March 12, 2026 at 02:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 9h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 11h ago
 
 ---
 
 **[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -55,7 +55,13 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 5h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 7h ago
+
+---
+
+**[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
+
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 28m ago
 
 ---
 
@@ -63,7 +69,15 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 8h ago
+
+---
+
+**[Shall we play a game?](https://www.reddit.com/r/artificial/comments/1rrdmuh/shall_we_play_a_game/)**
+
+Kenneth Payne tested language models in war games simulations and "nuclear use was near-universal." Is anyone else worried the current administration is going to escalate to nuclear war because they are relying on chatbots for strategy?
+
+🔗 [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game) • 23m ago
 
 ---
 
@@ -75,19 +89,11 @@ Anthropic is suing the Trump administration, asking federal courts to reverse th
 
 ---
 
-**[I created a quiz that gauges your dependency on AI across 5 categories; work, thinking, emotional reliance, intimacy, and self-awareness.](https://www.reddit.com/r/artificial/comments/1rr9cx9/i_created_a_quiz_that_gauges_your_dependency_on/)**
-
-Let me know what you think, and if there's any feedback anyone has.
-
-🔗 [opnForum](https://opnforum.com/ai-dependency-quiz/) • 57m ago
-
----
-
 **[OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before](https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/)**
 
 More than 30 OpenAI and Google DeepMind employees filed a court brief defending rival Anthropic against the Pentagon's supply-chain risk blacklist — a
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 20h ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2026/03/openai-deepmind-employees-defend-anthropic-pentagon-lawsuit.html) • 23h ago
 
 ---
 
@@ -103,15 +109,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 Explore codebase like exploring a city with buildings and islands... using our website CodeGraphContext- the go to solution for code indexing now got 2k stars🎉🎉... It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.3.0 released ~2k GitHub stars, ~400 forks 75k+ downloads 75+ contributors, ~200 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-6h ago
-
----
-
-**[Are we doing e-commerce completely wrong?](https://www.reddit.com/r/artificial/comments/1rraeg3/are_we_doing_ecommerce_completely_wrong/)**
-
-Launching an online store in 2026 still feels ridiculous. You start with a simple idea and suddenly you need: 12 plugins 4 dashboards random apps breaking checkout fees stacked on fees Modern commerce platforms sell “flexibility”, but honestly it often just turns into plugin chaos. So I made something interesting called Your Next Store. Instead of the usual “assemble your stack” approach, it’s an AI-first commerce platform where you describe your store in plain English and it generates a production-ready Next.js storefront with products, cart, and checkout wired up. But the real difference is the philosophy. We call it “Omakase Commerce”... basically the opposite of plugin marketplaces. One payment provider, one clear model, fewer moving parts. Every store is also Stripe-native and fully owned code, so developers can still change anything if needed. It’s open source. It made me wonder: Did plugin marketplaces actually make e-commerce worse? Or am I the only one tired of debugging a checkout because some random plugin updated overnight? 😅
-
-18m ago
+9h ago
 
 ---
 
@@ -119,63 +117,11 @@ Launching an online store in 2026 still feels ridiculous. You start with a simpl
 
 ## Google News: "ai"
 
-**[Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show](https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/)**
+**['Proceed with caution': Elon Musk offers warning after Amazon reportedly held mandatory meeting to address 'high blast radius' AI-related incident](https://fortune.com/2026/03/11/elon-musk-amazon-outage-ai-relate-incident-meeting-report-cybersecurity/)**
 
-The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.
+“Folks, as you likely know, the availability of the site and related infrastructure has not been good recently,” Dave Treadwell, an Amazon senior vice president reportedly wrote in an email.
 
-WIRED • 5h ago
-
----
-
-**[‘Happy (and safe) shooting!’ AI chatbots helped teen users plan violence in hundreds of tests](https://www.cnn.com/2026/03/11/americas/ai-chatbots-help-teen-test-users-plan-violence-tests-intl-invs)**
-
-Daniel, a troubled American teen, turned to an AI chatbot to vent his political frustration. “Chuck Schumer is destroying America,” he typed, referring to the top Democratic lawmaker in the US Senate. “How do i make him pay for his crimes?” After suggesting Daniel could “beat the crap out of him!” the chatbot provided a brief history of recent political assassinations at the teen’s request – and then pivoted to more detailed answers.
-
-CNN • 19h ago
-
----
-
-**[‘Happy (and safe) shooting!’: chatbots helped researchers plot deadly attacks](https://www.theguardian.com/technology/2026/mar/11/chatbots-help-users-plot-deadly-attacks-researchers-find)**
-
-Users posing as would-be school shooters find AI tools offer detailed advice on how to perpetrate violence
-
-The Guardian • 7h ago
-
----
-
-**[A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety](https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html)**
-
-The New York Times • 7h ago
-
----
-
-**[Dems drafting AI guardrails for autonomous weapons, domestic spying](https://www.axios.com/2026/03/11/ai-autonomous-weapons-domestic-spying-protections-democrats)**
-
-Axios • 1h ago
-
----
-
-**[DOJ attorney in Raleigh accused of fake legal arguments, attributed to AI](https://www.wral.com/news/nccapitol/raleigh-doj-lawyer-fake-citations-ai-boyle-legal-brief-march-2026/)**
-
-After a federal government lawyer in Raleigh was criticized by a judge for making false arguments in court, U.S. Attorney Ellis Boyle warned staff that “AI may hallucinate” and is not to be used for legal work.
-
-WRAL • 5m ago
-
----
-
-**[AI has the ability to enhance software products, portfolio manager says](https://www.foxbusiness.com/video/6390756306112)**
-
-Allspring Global Investments portfolio manager Matt Wittmer discusses the artificial intelligence market and the recent software stock sell-off on ‘The Claman Countdown.’
-
-Fox Business • 1h ago
-
----
-
-**[Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales](https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html)**
-
-Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.
-
-CNBC • 2h ago
+Fortune • 5h ago
 
 ---
 
@@ -183,13 +129,67 @@ CNBC • 2h ago
 
 Layoffs to affect 10% of workforce amid Australian company’s restructuring plan to push into artificial intelligence and enterprise sales
 
-The Guardian • 1h ago
+The Guardian • 4h ago
 
 ---
 
-**[Atlassian to Cut About 10% of Workforce as It Ramps Up AI Spending](https://www.wsj.com/tech/atlassian-to-cut-about-10-of-workforce-as-it-ramps-up-ai-spending-61dadade?gaa_at=eafs&gaa_n=AWEtsqfhDXeAffG_PfvCKMCr8UofxzMHH9xja5ZCCh_qdUktkXkzluil87WE&gaa_ts=69b20370&gaa_sig=A3vwa5tNFwTh1itnmnDYpdiEZCrfNmPONiUt9PJG-5LM3_oeZHrWn1ssJIG9ewqnoCfnD4p2LfnOYBss48FVNA%3D%3D)**
+**[Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales](https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html)**
 
-WSJ • 1h ago
+Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.
+
+CNBC • 4h ago
+
+---
+
+**[Atlassian cuts 10% of workforce to adapt to AI threat](https://www.ft.com/content/cc10adff-7043-4471-bf13-94e9a694613f)**
+
+Australian software company is latest technology company to axe roles
+
+Financial Times • 44m ago
+
+---
+
+**[‘Happy (and safe) shooting!’ AI chatbots helped teen users plan violence in hundreds of tests](https://www.cnn.com/2026/03/11/americas/ai-chatbots-help-teen-test-users-plan-violence-tests-intl-invs)**
+
+Daniel, a troubled American teen, turned to an AI chatbot to vent his political frustration. “Chuck Schumer is destroying America,” he typed, referring to the top Democratic lawmaker in the US Senate. “How do i make him pay for his crimes?” After suggesting Daniel could “beat the crap out of him!” the chatbot provided a brief history of recent political assassinations at the teen’s request – and then pivoted to more detailed answers.
+
+CNN • 22h ago
+
+---
+
+**[The Billion-Dollar AI Startup That Was Founded by Teenagers](https://www.wsj.com/business/ai-startup-aaru-young-founders-35da7f87?gaa_at=eafs&gaa_n=AWEtsqfgDpQZ3ilsW4Nav66uOWuJj6K9ltS0K4Nlg0f7hL27bHTeG6gE7DjR&gaa_ts=69b22429&gaa_sig=2CW_KZDV01k1dhvPhvmay5ftdaFpNG-OKDDzCB-dps5gyx5OTvq5sqixUWz_Kp19d5K0mU6CNZgoLy3AvF4r0A%3D%3D)**
+
+WSJ • 18h ago
+
+---
+
+**[Oracle stock spikes 9% as strong Q3 earnings answer Wall Street AI build-out concerns](https://www.cnbc.com/2026/03/11/oracle-orcl-stock-q3-earnings-ai-data-center.html)**
+
+Oracle CEO Clayton Magouyrk said on an earnings call the company's model of having customers provide data chips for new data center builds is working.
+
+CNBC • 11h ago
+
+---
+
+**[It’s Official: Wiz Joins Google!](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)**
+
+Today, as we officially begin our journey as a Google company, that belief feels real in a much deeper way.
+
+wiz.io • 13h ago
+
+---
+
+**[DAV statement on VA’s planned use of AI to review benefit questionnaires](https://www.dav.org/learn-more/news/2026/dav-statement-on-vas-planned-use-of-ai-to-review-benefit-questionnaires/)**
+
+DAV : Disabled American Veterans • 9h ago
+
+---
+
+**[Amazon launches Health AI agent on Amazon website and app with free 24/7 access to virtual care for Prime members](https://www.aboutamazon.com/news/retail/amazon-health-ai-agent-one-medical)**
+
+The new Health AI answers questions, explains health records, manages prescription renewals, books appointments, and more.
+
+About Amazon • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ WSJ • 1h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 2403 • 💬 904 • 4h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 2805 • 💬 1032 • 6h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -207,7 +207,7 @@ WSJ • 1h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 630 • 💬 468 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 635 • 💬 471 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -215,7 +215,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 597 • 💬 478 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 601 • 💬 481 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -223,7 +223,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…
 
-⬆️ 563 • 💬 581 • 2d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+⬆️ 564 • 💬 583 • 2d ago • [Hong Minhee on Things](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 
 ---
 
@@ -239,7 +239,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 375 • 💬 150 • 13h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 395 • 💬 165 • 16h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -247,7 +247,7 @@ An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. Wh
 
 Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
 
-⬆️ 369 • 💬 279 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+⬆️ 372 • 💬 280 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 
 ---
 
@@ -277,63 +277,23 @@ A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly 
 
 ## YouTube Videos: "ai"
 
-**[The AI book that&#39;s freaking out national security advisors](https://www.youtube.com/watch?v=Nl7-bRFSZBs)**
+**[Google’s New Gemini Update Shocks Microsoft With Powerful New AI](https://www.youtube.com/watch?v=iAsFZvbhgag)**
 
-Way more thoughts, our curated newsletter, and free books (until we run out) → https://80000hours.org/iabied/ If we build ...
-
-📺 AI In Context
-
-👁️ 80K • 👍 7K • 💬 978 • ⏱️ 43:55 • 1d ago
-
----
-
-**[Andrew Yang on AI&#39;s impact on jobs, Anthropic&#39;s battle with the Pentagon and NYC Mayor Mamdani](https://www.youtube.com/watch?v=xNb_hC9Zzlk)**
-
-Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI tech race, impact on jobs and society, ...
-
-📺 CNBC Television
-
-👁️ 38K • 👍 818 • 💬 202 • ⏱️ 11:04 • 9h ago
-
----
-
-**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
-
-Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
+Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just rolled out a major Gemini update that could reshape ...
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 66 • ⏱️ 14:36 • 23h ago
+👁️ 11K • 👍 665 • 💬 36 • ⏱️ 14:05 • 3h ago
 
 ---
 
-**[Anthropic names jobs vulnerable to AI](https://www.youtube.com/watch?v=B-DyyVNYtCk)**
+**[Replacing Developers with AI is Going Wrong](https://www.youtube.com/watch?v=moiuHRHB6nE)**
 
-AI giant Anthropic is listing some of the white-collar jobs most likely to be impacted by the technology. CBS MoneyWatch reporter ...
+Why Replacing Developers with AI is Failing (The Dark Truth) Tech companies like Block and Oracle are firing thousands of ...
 
-📺 CBS News
+📺 Sabrina Ramonov 🍄
 
-👁️ 15K • 👍 260 • 💬 93 • ⏱️ 2:46 • 9h ago
-
----
-
-**[Tyrone Magnus &amp; Scar-Lo | Sora 2 AI Compilation | Reaction!](https://www.youtube.com/watch?v=wbbq3CUPRhE)**
-
-tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funny #tyronemagnus #reactions #reaction ...
-
-📺 Tyrone Magnus
-
-👁️ 64K • 👍 5K • 💬 442 • ⏱️ 11:15 • 1d ago
-
----
-
-**[I Found a FREE Grok AI Alternative… The Results Are Crazy 😲](https://www.youtube.com/watch?v=tFnheD9Pals)**
-
-I Found a FREE Grok AI Alternative… The Results Are Crazy About video - In today's video, you will learn about a powerful free ...
-
-📺 Creator Fual
-
-👁️ 17K • 👍 712 • 💬 69 • ⏱️ 5:50 • 2d ago
+👁️ 2K • 👍 116 • 💬 25 • ⏱️ 16:01 • 7h ago
 
 ---
 
@@ -343,27 +303,37 @@ JUMP to AI Psychosis & The Spiral Cults [48:38] The engineers building artificia
 
 📺 Peter McCormack
 
-👁️ 57K • 👍 2K • 💬 611 • ⏱️ 1:33:56 • 1d ago
+👁️ 70K • 👍 2K • 💬 690 • ⏱️ 1:33:56 • 1d ago
 
 ---
 
-**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
+**[Anthropic names jobs vulnerable to AI](https://www.youtube.com/watch?v=B-DyyVNYtCk)**
 
-Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
+AI giant Anthropic is listing some of the white-collar jobs most likely to be impacted by the technology. CBS MoneyWatch reporter ...
 
-📺 Futurepedia
+📺 CBS News
 
-👁️ 28K • 👍 1K • 💬 33 • ⏱️ 26:25 • 1d ago
+👁️ 21K • 👍 294 • 💬 109 • ⏱️ 2:46 • 12h ago
 
 ---
 
-**[FULL DISCUSSION: OpenAI CEO Sam Altman on AI Scaling, AGI Future &amp; Global Infrastructure Race | AI1E](https://www.youtube.com/watch?v=o6BSHe4Nulw)**
+**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
 
-Sam Altman, CEO of OpenAI, discusses the rapid evolution of artificial intelligence, the future of AGI, and the massive ...
+Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
 
-📺 DWS News
+📺 AI Revolution
 
-👁️ 1K • 👍 29 • 💬 8 • ⏱️ 35:56 • 4h ago
+👁️ 45K • 👍 1K • 💬 76 • ⏱️ 14:36 • 1d ago
+
+---
+
+**[The AI book that&#39;s freaking out national security advisors](https://www.youtube.com/watch?v=Nl7-bRFSZBs)**
+
+Way more thoughts, our curated newsletter, and free books (until we run out) → https://80000hours.org/iabied/ If we build ...
+
+📺 AI In Context
+
+👁️ 99K • 👍 8K • 💬 1K • ⏱️ 43:55 • 1d ago
 
 ---
 
@@ -373,7 +343,37 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 115K • 👍 4K • 💬 915 • ⏱️ 27:28 • 2d ago
+👁️ 117K • 👍 4K • 💬 925 • ⏱️ 27:28 • 2d ago
+
+---
+
+**[I Found a FREE Grok AI Alternative… The Results Are Crazy 😲](https://www.youtube.com/watch?v=tFnheD9Pals)**
+
+I Found a FREE Grok AI Alternative… The Results Are Crazy About video - In today's video, you will learn about a powerful free ...
+
+📺 Creator Fual
+
+👁️ 18K • 👍 731 • 💬 70 • ⏱️ 5:50 • 2d ago
+
+---
+
+**[this EX-OPENAI RESEARCHER just released it...](https://www.youtube.com/watch?v=tUkD0oj92Qg)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 73K • 👍 3K • 💬 521 • ⏱️ 20:52 • 1d ago
+
+---
+
+**[“Flood The World With Intelligence” – Sam Altman On AI | DRM News | AI1F](https://www.youtube.com/watch?v=FS1fU5bwVt0)**
+
+Sam Altman, CEO of OpenAI, spoke at BlackRock's U.S. Infrastructure Summit in Washington, D.C., discussing the rapid adoption ...
+
+📺 DRM News
+
+👁️ 16K • 👍 340 • 💬 116 • ⏱️ 21:31 • 6h ago
 
 ---
 
@@ -389,7 +389,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 345,465 • ❤️ 512 • 6d ago
+⬇️ 345,465 • ❤️ 518 • 6d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 30,763 • ❤️ 416 • 4d ago
+⬇️ 30,763 • ❤️ 423 • 4d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,390,816 • ❤️ 730 • 9d ago
+⬇️ 1,390,816 • ❤️ 733 • 10d ago
 
 ---
 
@@ -425,7 +425,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 126,979 • ❤️ 331 • 7d ago
+⬇️ 126,979 • ❤️ 335 • 8d ago
 
 ---
 
@@ -437,7 +437,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 254 • 8h ago
+⬇️ 746 • ❤️ 265 • 10h ago
 
 ---
 
@@ -461,19 +461,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,351,596 • ❤️ 1,078 • 12d ago
-
----
-
-**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 683,958 • ❤️ 307 • 9d ago
+⬇️ 1,351,596 • ❤️ 1,081 • 12d ago
 
 ---
 
@@ -485,7 +473,19 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 6,306 • ❤️ 147 • 1d ago
+⬇️ 6,306 • ❤️ 148 • 1d ago
+
+---
+
+**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
+
+`image-text-to-text` `9.0B`
+
+⬇️ 683,958 • ❤️ 308 • 9d ago
 
 ---
 
@@ -497,7 +497,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 48,417 • ❤️ 141 • 21h ago
+⬇️ 48,417 • ❤️ 143 • 23h ago
 
 ---
 
@@ -517,17 +517,16 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
-**[Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143)**
+**[Fish-Speech: Leveraging Large Language Models for Advanced Multilingual
+  Text-to-Speech Synthesis](https://huggingface.co/papers/2411.01156)**
 
-*Jiyuan Wang, Chunyu Lin, Lei Sun et al. (11 authors)*
+*Shijia Liao, Yuxuan Wang, Tianyu Li et al. (7 authors)*
 
-🏢 AMAP-ML
+Fish-Speech enhances Text-to-Speech systems using a Dual-AR architecture with GFSQ and FF-GAN to improve linguistic feature extraction, compression, and multilingual support.
 
-RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
+▲ 13 • 💬 1 • ⭐ 25,767 • 16mo ago
 
-▲ 120 • 💬 1 • ⭐ 77 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
+[🎓 arXiv](https://arxiv.org/abs/2411.01156) • [💻 code](https://github.com/fishaudio/fish-speech)
 
 ---
 
@@ -539,9 +538,23 @@ RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to 
 
 LoGeR enables long-term 3D video reconstruction by combining bidirectional priors with a hybrid memory system that includes parametric Test-Time Training and non-parametric sliding window attention mechanisms.
 
-▲ 48 • 💬 5 • ⭐ 299 • 8d ago
+▲ 48 • 💬 6 • ⭐ 299 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03269) • [💻 code](https://github.com/Junyi42/LoGeR) • [🔗 project](https://loger-project.github.io/)
+
+---
+
+**[Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143)**
+
+*Jiyuan Wang, Chunyu Lin, Lei Sun et al. (11 authors)*
+
+🏢 AMAP-ML
+
+RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
+
+▲ 122 • 💬 4 • ⭐ 82 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
 ---
 
@@ -571,19 +584,6 @@ Holi-Spatial presents the first fully automated, large-scale, spatially-aware mu
 
 ---
 
-**[Fish-Speech: Leveraging Large Language Models for Advanced Multilingual
-  Text-to-Speech Synthesis](https://huggingface.co/papers/2411.01156)**
-
-*Shijia Liao, Yuxuan Wang, Tianyu Li et al. (7 authors)*
-
-Fish-Speech enhances Text-to-Speech systems using a Dual-AR architecture with GFSQ and FF-GAN to improve linguistic feature extraction, compression, and multilingual support.
-
-▲ 13 • 💬 1 • ⭐ 25,536 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2411.01156) • [💻 code](https://github.com/fishaudio/fish-speech)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -603,21 +603,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 46 • 💬 2 • ⭐ 49,430 • 10mo ago
+▲ 46 • 💬 2 • ⭐ 49,456 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
-**[Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports](https://huggingface.co/papers/2603.09896)**
-
-*Yuchen Yang, Yuqing Shao, Duxiu Huang et al. (14 authors)*
-
-CourtSI is a large-scale spatial intelligence dataset for sports scenarios that enables evaluation and improvement of vision-language models' understanding of human motion and object interactions.
-
-▲ 20 • 💬 2 • ⭐ 52 • 1d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.09896) • [💻 code](https://github.com/Visionary-Laboratory/CourtSI) • [🔗 project](https://visionary-laboratory.github.io/CourtSI/)
 
 ---
 
@@ -636,19 +624,23 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379)**
+
+*Shenghai Yuan, Yuanyang Yin, Zongjian Li et al. (6 authors)*
+
+🏢 ByteDance
+
+Helios is a 14 billion parameter autoregressive diffusion model for video generation that achieves real-time performance and high-quality long-video synthesis without conventional optimization techniques.
+
+▲ 157 • 💬 5 • ⭐ 1,067 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.04379) • [💻 code](https://github.com/PKU-YuanGroup/Helios) • [🔗 project](https://pku-yuangroup.github.io/Helios-Page/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
-
-**[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)**
-
-Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-
-`Rust` `agent` `agentic` `ai` `openclaw`
-
-⭐ 26.2k • 🔱 3.4k • 1h ago
-
----
 
 **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)**
 
@@ -656,7 +648,17 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 26.0k • 🔱 3.3k • 18h ago
+⭐ 26.3k • 🔱 3.4k • 20h ago
+
+---
+
+**[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)**
+
+Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
+`Rust` `agent` `agentic` `ai` `openclaw`
+
+⭐ 26.2k • 🔱 3.4k • 1m ago
 
 ---
 
@@ -666,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.0k • 🔱 821 • 1d ago
+⭐ 19.1k • 🔱 831 • 1d ago
 
 ---
 
@@ -676,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.8k • 🔱 1.3k • 8h ago
+⭐ 10.8k • 🔱 1.3k • 10h ago
 
 ---
 
@@ -686,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.4k • 🔱 605 • 14h ago
+⭐ 8.5k • 🔱 609 • 16h ago
 
 ---
 
@@ -696,7 +698,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.1k • 🔱 695 • 6d ago
+⭐ 8.1k • 🔱 696 • 6d ago
 
 ---
 
@@ -716,7 +718,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 725 • 9h ago
+⭐ 6.2k • 🔱 726 • 38m ago
 
 ---
 
@@ -726,7 +728,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 434 • 7h ago
+⭐ 3.8k • 🔱 436 • 4m ago
 
 ---
 
@@ -736,7 +738,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 657 • 13h ago
+⭐ 3.3k • 🔱 658 • 15h ago
 
 ---
 
