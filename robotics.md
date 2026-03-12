@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T11:32:18.864541+00:00'
+updated: '2026-03-12T13:03:01.173277+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 11:32 UTC  
+**Last Updated:** March 12, 2026 at 13:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[A dexterous hand that actually morphs between left and right hand configurations on the fly.](https://www.reddit.com/r/robotics/comments/1rrnbpu/a_dexterous_hand_that_actually_morphs_between/)**
+
+It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
+
+2h ago
+
+---
+
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -42,15 +50,7 @@ Robotics research and industry news
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-18h ago
-
----
-
-**[MSG 3D Printed Stepper Gripper - Compliance](https://www.reddit.com/r/robotics/comments/1rr18j8/msg_3d_printed_stepper_gripper_compliance/)**
-
-The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
-
-17h ago
+20h ago
 
 ---
 
@@ -58,7 +58,21 @@ The MSG gripper uses FOC stepper motors without gearboxes, enabling precise cont
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-2h ago
+4h ago
+
+---
+
+**[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
+
+5m ago
+
+---
+
+**[MSG 3D Printed Stepper Gripper - Compliance](https://www.reddit.com/r/robotics/comments/1rr18j8/msg_3d_printed_stepper_gripper_compliance/)**
+
+The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
+
+19h ago
 
 ---
 
@@ -66,7 +80,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-21h ago
+23h ago
 
 ---
 
@@ -74,13 +88,13 @@ Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vi
 
 https://reddit.com/link/1rrh5vh/video/8k19b16bljog1/player *Hu Yuhang (online name "U-Hang"), a graduate of Columbia University with a PhD, is the founder of Firstform Technology. He has long focused on research into autonomous learning in robots. His research findings have been published in top international journals such as *Nature Machine Intelligence* and *Science Robotics*. For a long time, the core reason for the stiff facial expressions of robots has been the lack of mechanical structure. Traditional rigid linkages are insufficient to simulate the extremely complex deformations of human facial muscles. This team abandoned the traditional line-driven structure and designed a dedicated lip-driven mechanism with 10 degrees of freedom (25-DoF for the entire face). This mechanism is cleverly embedded under a layer of quick-release flexible silicone "skin." It involves multi-point coordinated actuation, including the upper lip, lower lip, corners of the mouth, and jaw. This mechanical design enables the robot to physically realize closed-lip sounds (such as /p/, /b/), rounded-lip sounds (such as /u/), and complex lip-pursing movements, providing a physical execution foundation for the algorithm.
 
-7h ago
+8h ago
 
 ---
 
 **[Open Sourced Nvidia’s fleet command](https://www.reddit.com/r/robotics/comments/1rragf7/open_sourced_nvidias_fleet_command/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -92,45 +106,37 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 ---
 
-**[Inside the dolphin-inspired robot designed to clean oil spills](https://www.reddit.com/r/robotics/comments/1rr769r/inside_the_dolphininspired_robot_designed_to/)**
-
-A dolphin-shaped robot uses a sea-urchin-inspired filter to skim oil from water, offering a safer way to respond to spills.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/inside-the-dolphin-inspired-robot-designed-to-clean-oil-spills) • 13h ago
-
----
-
-**[Building a navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 1)](https://www.reddit.com/r/robotics/comments/1rqpnrb/building_a_navigation_software_that_will_only/)**
-
-Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfXvm7bBCYyEbyBJ888qKDv-wJ83nVBbmIfwgmG-XX1LymulvAARAEg&gaa_ts=69b29b89&gaa_sig=oCdVt7k2c2KtO70u1Kpey4XnEk_LX4ZJmlBymDMVvDIFG4iTfWSfNI1spxuWFrPkZTWiDB5sYHN2FoCLQ-FmTw%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfGNi8XSBY2hQl004k6-fPa9EAUW6W5g9j6Alb_pFgnT3xgiH5h_S5c&gaa_ts=69b2bcec&gaa_sig=4tlYbRl5rPhY1IjC4tCUBhOt8OKu-K2_r3nP0UgZi6iY2Pey7Uxsho-QaJjcmNTCJi8WTbGCtGWeRezjQK0v8Q%3D%3D)**
 
-WSJ • 20h ago
-
----
-
-**[Rivian-owned robotics company secures more startup funding](https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding)**
-
-A startup robotics company owned by Rivian and founded by Rivian CEO RJ Scaringe has secured $500 million in startup capital. Mind Robotics announced an investment by Accel and Andreessen Horowitz. The firm wants to build AI-powered industrial robots.
-
-WGLT • 18h ago
+WSJ • 22h ago
 
 ---
 
-**[Rivian spinout Mind Robotics valued at $2 billion in Series A funding round](https://finance.yahoo.com/news/rivian-spinout-mind-robotics-valued-180654489.html)**
+**[Rivian CEO launches robotics startup with $500M funding round: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-ceo-scaringe-launches-robotics-startup-mind-20260311/)**
 
-Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
+Mind Robotics, a startup founded by Rivian CEO RJ Scaringe, has raised $500 million from investors including Accel and Andreessen Horowitz, according to a report from The Wall Street Journal.
 
-Yahoo Finance • 17h ago
+Crain's Chicago Business • 21h ago
+
+---
+
+**[Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)**
+
+The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
+
+TechCrunch • 20h ago
+
+---
+
+**[Asylon Robotics Announces New Advisors, Additions to Leadership Team](https://sg.finance.yahoo.com/news/asylon-robotics-announces-advisors-additions-122000795.html)**
+
+PHILADELPHIA, March 12, 2026--Asylon, a global provider of automated robotic security solutions, is pleased to announce Anthony McCarty as Senior Vice President Government, leading the company’s growth in military security services. Additionally, nationally recognized corporate security leader Michael W. Wanik, CPP, CBCP has joined Asylon’s advisory team. These appointments strengthen Asylon’s vision to replace outdated, time-consuming, and cost prohibitive legacy security plans with drones, rob
+
+Yahoo Finance Singapore • 43m ago
 
 ---
 
@@ -138,7 +144,15 @@ Yahoo Finance • 17h ago
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Financial Times • 10h ago
+Financial Times • 11h ago
+
+---
+
+**[How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/)**
+
+Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
+
+MIT Technology Review • 1d ago
 
 ---
 
@@ -146,15 +160,7 @@ Financial Times • 10h ago
 
 How world models are replacing hand-built simulators—and why they may unlock the ChatGPT moment for robotics.
 
-Bessemer Venture Partners • 1d ago
-
----
-
-**[Serve Robotics Announces Fourth Quarter and Full Year 2025 Results](https://finance.yahoo.com/news/serve-robotics-announces-fourth-quarter-110000555.html)**
-
-Exceeded Q4 and full year 2025 expectations with fourth quarter revenue up roughly 400% year over year to $0.9 million, and full year revenue of $2.7 million, above prior guidance of $2.5 million.Scaled the fleet to 2,000 deployed robots by year end, expanding Serve’s operating footprint to 20 cities across 6 major metropolitan areasExpanded and diversified the platform through new market launches, the addition of DoorDash alongside Uber Eats, growth to 4,500+ merchant partners, and four strateg
-
-Yahoo Finance • 1d ago
+Bessemer Venture Partners • 3h ago
 
 ---
 
@@ -174,19 +180,9 @@ About Amazon • 1d ago
 
 ---
 
-**[How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/)**
+**[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
-
-MIT Technology Review • 1d ago
-
----
-
-**[BD taps Sinteco for European pharmacy robotics partnership](https://www.fiercebiotech.com/medtech/bd-taps-sinteco-european-pharmacy-robotics-partnership)**
-
-BD has inked a technological partnership with automation provider Sinteco, aimed at pharmacy robotics. | The goal is to provide European hospitals a way to automatically sort bulk shipments of blister-packed tablets, loose pills and more into individually bar-coded packs while reducing human error.
-
-Fierce Biotech • 20h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -200,17 +196,17 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 67K • 👍 2K • 💬 101 • ⏱️ 14:51 • 3d ago
+👁️ 68K • 👍 2K • 💬 101 • ⏱️ 14:51 • 3d ago
 
 ---
 
-**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
 
-In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
 
-📺 Tech Talkies
+📺 Reuters
 
-👁️ 21K • 👍 717 • 💬 66 • ⏱️ 4:51 • 4d ago
+👁️ 769 • 👍 19 • 💬 12 • ⏱️ 2:38 • 4h ago
 
 ---
 
@@ -220,17 +216,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 15K • 👍 98 • 💬 29 • ⏱️ 3:48 • 2d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN
-
-👁️ 277K • 👍 3K • 💬 430 • ⏱️ 29:41 • 6d ago
+👁️ 16K • 👍 100 • 💬 29 • ⏱️ 3:48 • 2d ago
 
 ---
 
@@ -240,17 +226,17 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 48K • 👍 2K • 💬 111 • ⏱️ 10:52 • 4d ago
+👁️ 49K • 👍 2K • 💬 112 • ⏱️ 10:52 • 4d ago
 
 ---
 
-**[This Is The NEW Toxic Meta Build... Eiffel Furnace DELETES Everything | War Robots](https://www.youtube.com/watch?v=hU1c3OI8p-I)**
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
 
-This is going to be the next most toxic build in war robots. The furnace, torch Eiffel. These weapons seem way too strong for an ...
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
 
-📺 PREDATOR WR
+📺 CGTN
 
-👁️ 11K • 👍 389 • 💬 44 • ⏱️ 15:33 • 23h ago
+👁️ 278K • 👍 3K • 💬 440 • ⏱️ 29:41 • 6d ago
 
 ---
 
@@ -258,7 +244,7 @@ This is going to be the next most toxic build in war robots. The furnace, torch 
 
 📺 Robot Julie 
 
-👁️ 23K • 👍 213 • 💬 3 • ⏱️ 0:23 • 1d ago
+👁️ 26K • 👍 228 • 💬 3 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -268,27 +254,37 @@ Round 2 of the 2026 NHRL Pro World Championship kicks off NOW! PRIME TIME is her
 
 📺 NHRL
 
-👁️ 521K • 👍 553 • 💬 23 • ⏱️ 3:35:12 • 4d ago
+👁️ 521K • 👍 554 • 💬 23 • ⏱️ 3:35:12 • 4d ago
 
 ---
 
-**[2026 Lake Superior Regional - Day 2](https://www.youtube.com/watch?v=_UiIQRLcEfw)**
+**[Delivery Robot Has No Idea What It&#39;s Doing #shorts #robotfails #china](https://www.youtube.com/watch?v=c8xX28Bw4oQ)**
 
-2026 Lake Superior Regional - Broadcast Day 2 https://frc-events.firstinspires.org/2026/MNDU (c) 2026 FIRST Robotics ...
+shorts #DeliveryRobot #ChinaTech #AI #Robotics #AutonomousVehicles #FutureTech #Logistics #SmartCities #TechFail ...
 
-📺 FIRSTRoboticsCompetition
+📺 EcoPaws
 
-👁️ 12K • 👍 70 • ⏱️ 10:00:46 • 5d ago
+👁️ 50K • 👍 1K • 💬 18 • ⏱️ 0:43 • 2d ago
 
 ---
 
-**[Middle Goal Selector | 6219B Rock Em&#39; Sock Em&#39; Robot | Robot Rundown](https://www.youtube.com/watch?v=ScJMx2xKiOs)**
+**[Inside China’s Plan To Lead The World In Advanced Robotics | Insight](https://www.youtube.com/watch?v=Fc-nKxWkYxs)**
 
-WI States Triple Crown 6219B Rock Em' Sock Em' Robot details their middle goal selector on their robot and it's advantages on ...
+You've seen the Unitree G1 robots' display of martial skill at the Spring Festival Gala. It's a sign of China moving fast to become a ...
 
-📺 FUN Robotics Network
+📺 CNA Insider
 
-👁️ 3K • 👍 40 • 💬 3 • ⏱️ 0:51 • 11h ago
+👁️ 82K • 👍 894 • 💬 238 • ⏱️ 46:28 • 6d ago
+
+---
+
+**[China’s $16K Robot Changes the Future of Work](https://www.youtube.com/watch?v=KFzEWvTSmn4)**
+
+Everyone thought AI would replace office workers first. But the real disruption is happening in the physical world. Humanoid robots ...
+
+📺 By 2050
+
+👁️ 116K • 👍 2K • 💬 133 • ⏱️ 0:55 • 6d ago
 
 ---
 

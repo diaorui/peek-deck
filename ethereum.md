@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T11:32:18.861331+00:00'
+updated: '2026-03-12T13:03:01.170151+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 11:32 UTC  
+**Last Updated:** March 12, 2026 at 13:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,063.68
+### $2,071.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +4.6%  
-**30d:** +6.6%  
-**90d:** -33.5%  
-**1y:** +11.3%  
+**24h:** +0.2%  
+**7d:** +4.4%  
+**30d:** +6.4%  
+**90d:** -33.6%  
+**1y:** +11.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $246.88B
+**Market Cap:** $249.31B
 Rank #2
 
 **Circulating Supply:** 120,691,977 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.6%
+-58.2%
 
 **All-Time Low:** $0.43
-+472943.7%
++476830.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 8h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 10h ago
 
 ---
 
@@ -88,7 +88,15 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
 
-2h ago
+4h ago
+
+---
+
+**[EIP-8024: the end of the "stack too deep" error](https://www.reddit.com/r/ethereum/comments/1rrnfko/eip8024_the_end_of_the_stack_too_deep_error/)**
+
+If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
+
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 2h ago
 
 ---
 
@@ -140,21 +148,21 @@ This is a mandatory upgrade for all users running any prior version. All prior L
 
 ---
 
-**[TIL about MessageStore, a 1-function contract from August 2015 (block 53,573)](https://www.reddit.com/r/ethereum/comments/1rp2kko/til_about_messagestore_a_1function_contract_from/)**
-
-Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec...3d6b, deployed in August 2015, just weeks after mainnet launch. The entire contract is one function: set(string). It stores a single string in public storage. That is it. What is interesting is the bytecode. It was compiled with solc v0.1.1, the earliest Solidity compiler that exists. I was able to reproduce the exact bytecode byte-for-byte using that compiler. The output matches the on-chain code perfectly. Contracts from this era are fascinating because Solidity was still being invented. No events, no modifiers, no constructors as we know them. Just raw storage writes. The compiler output is so small you can read the opcodes manually. The deployer (0x8674...94e2) deployed 18 contracts in the same week, all in the 52,000-55,000 block range. Looks like someone was experimenting heavily with what Solidity could do. If anyone is interested in early Ethereum archaeology, ethereumhistory.com is documenting contracts from this period with verified source code and compiler proofs. Edit: here is the contract page on Ethereum History.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Don't Buy Ethereum Until This Happens](https://finance.yahoo.com/news/dont-buy-ethereum-until-happens-092000751.html)**
+**[Ethereum is seeing record activity. So why is its price struggling?](https://sherwood.news/crypto/ethereum-is-seeing-record-activity-so-why-is-its-price-struggling/)**
 
-Crypto investors need to keep their eyes on the arrival of altcoin season.
+Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
+
+Sherwood News • 20h ago
+
+---
+
+**[2x Ethereum Returns: What To Watch With ETHU as Crypto Volatility Explodes](https://finance.yahoo.com/news/2x-ethereum-returns-watch-ethu-103547435.html)**
+
+Ethereum is down 31% since January, and the fund designed to deliver twice that move has done exactly what it promises: ETHU has fallen roughly 60% year-to-date. That is the deal with leveraged ETFs. The amplification works in both directions, and right now the direction has been down. ProShares Ultra Ether ETF (NYSEARCA:ETHU) launched in ... 2x Ethereum Returns: What To Watch With ETHU as Crypto Volatility Explodes
 
 Yahoo Finance • 2h ago
 
@@ -164,7 +172,13 @@ Yahoo Finance • 2h ago
 
 Pump.fun tops $1 billion in revenue as domain records reveal Ethereum, Base, BSC, and Monad subdomains amid potential cross-chain expansion.
 
-The Block • 1h ago
+The Block • 2h ago
+
+---
+
+**[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
+
+Binance • 4d ago
 
 ---
 
@@ -176,17 +190,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
+**[Don't Buy Ethereum Until This Happens](https://www.fool.com/investing/2026/03/12/dont-buy-ethereum-until-this-happens/)**
 
-Binance • 4d ago
+Crypto investors need to keep their eyes on the arrival of altcoin season.
+
+The Motley Fool • 3h ago
 
 ---
 
-**[OP Labs cuts 20 employees as Ethereum L2 developer narrows strategic focus](https://cryptobriefing.com/op-labs-layoffs-ethereum-l2-focus/)**
+**[Traders bet XRP’s price will keep rising as it outpaces ethereum and solana](https://sherwood.news/crypto/traders-bet-xrps-price-will-keep-rising-as-it-outpaces-ethereum-and-solana/)**
 
-OP Labs layoffs: 20 employees let go as the Ethereum L2 developer refocuses on streamlining strategies and decision-making efficiency.
+Meanwhile, more than half of XRP’s total supply is sitting at a loss....
 
-Crypto Briefing • 4h ago
+Sherwood News • 1d ago
+
+---
+
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqd0VIe5PeeCc4_EwdRAuL8MkrKPd3R0bT75swMKU53lrRFErGFgX03L&gaa_ts=69b2bcea&gaa_sig=NF6oHP5voUmUYwa_0GkWKNRdXRWQjW3dryW7hpPEYyOsu1G5FrHBEjzY0q88cvh_MXFOIXR-gt_7iH0xO9zh4Q%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -198,35 +220,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum Price Prediction: Wall Street Is Choosing Ethereum — Is ETH Becoming the Backbone of Finance?](https://cryptonews.com/news/ethereum-price-prediction-wall-street-is-choosing-ethereum-is-eth-becoming-the-backbone-of-finance/)**
+**[OP Labs cuts 20 employees as Ethereum L2 developer narrows strategic focus](https://cryptobriefing.com/op-labs-layoffs-ethereum-l2-focus/)**
 
-Tokenized real world assets just exploded to $26.7B, and Ethereum is leading the charge, could this drive bullish Ethereum price prediction?
+OP Labs layoffs: 20 employees let go as the Ethereum L2 developer refocuses on streamlining strategies and decision-making efficiency.
 
-Cryptonews • 11h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.535 Million Tokens, and Total Crypto and Total Cash Holdings of $10.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-535-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-3-billion-302708118.html)**
-
-Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,965 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.76% of the...
-
-PR Newswire • 2d ago
-
----
-
-**[Bitmine’s Massive Ethereum Bet Deepens As MAVAN Staking Launch Nears](https://finance.yahoo.com/news/bitmine-massive-ethereum-bet-deepens-091211652.html)**
-
-Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
-
-Yahoo Finance • 1d ago
-
----
-
-**['Mini crypto winter' nearly over, says Tom Lee as Bitmine ramps up pace of ether acquisition](https://www.coindesk.com/business/2026/03/09/mini-crypto-winter-nearly-over-says-tom-lee-as-bitmine-ramps-up-pace-of-ether-acquisition)**
-
-The firm ramped up the pace of ETH accumulation despite sitting on staggering unrealized losses on its $9 billion crypto holdings.
-
-CoinDesk • 2d ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -240,7 +238,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 7K • 👍 268 • 💬 102 • ⏱️ 56:53 • 1d ago
+👁️ 7K • 👍 280 • 💬 92 • ⏱️ 56:53 • 1d ago
 
 ---
 
@@ -250,37 +248,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 3K • 💬 81 • ⏱️ 12:32 • 1d ago
-
----
-
-**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
-
-Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
-
-📺 Coin Bureau
-
-👁️ 71K • 👍 3K • 💬 290 • ⏱️ 21:43 • 1d ago
-
----
-
-**[31% CRASH Incoming? Where To Enter Ethereum Next!](https://www.youtube.com/watch?v=FdeL-0SVPXc)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 591 • 👍 22 • 💬 2 • ⏱️ 6:18 • 15h ago
-
----
-
-**[The Cryptocurrency Market Has Changed LARGE Anomalous Bitcoin Transfer Signals A MARKET SHIFT](https://www.youtube.com/watch?v=Vyq7xXyxPzc)**
-
-A lot can happen in a day, and in Bitcoin and the cryptocurrency market's case, it could be life changing. Money makers in the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 7K • 👍 821 • 💬 257 • ⏱️ 17:03 • 21h ago
+👁️ 14K • 👍 3K • 💬 124 • ⏱️ 12:32 • 1d ago
 
 ---
 
@@ -290,7 +258,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 812 • 👍 69 • 💬 5 • ⏱️ 4:17 • 8h ago
+👁️ 1K • 👍 84 • 💬 5 • ⏱️ 4:17 • 9h ago
+
+---
+
+**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
+
+Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
+
+📺 Coin Bureau
+
+👁️ 72K • 👍 3K • 💬 295 • ⏱️ 21:43 • 1d ago
+
+---
+
+**[ETH BREAKOUT SOON!?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=e8y9crvdw7s)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 140 • 👍 12 • 💬 1 • ⏱️ 5:05 • 3h ago
 
 ---
 
@@ -304,13 +292,33 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 ---
 
-**[Bitcoin &amp; Ethereum. Kracht es jetzt richtig runter bei BTC oder kommt die unerwartete Rally??](https://www.youtube.com/watch?v=Ei37P7upNuQ)**
+**[The Cryptocurrency Market Has Changed LARGE Anomalous Bitcoin Transfer Signals A MARKET SHIFT](https://www.youtube.com/watch?v=Vyq7xXyxPzc)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20% Auf ...
+A lot can happen in a day, and in Bitcoin and the cryptocurrency market's case, it could be life changing. Money makers in the ...
 
-📺 Krypto Trading & Investing
+📺 Money Rules - Investing Tips 
 
-👁️ 3K • 👍 562 • 💬 83 • ⏱️ 10:41 • 6h ago
+👁️ 7K • 👍 851 • 💬 285 • ⏱️ 17:03 • 23h ago
+
+---
+
+**[31% CRASH Incoming? Where To Enter Ethereum Next!](https://www.youtube.com/watch?v=FdeL-0SVPXc)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 597 • 👍 23 • 💬 2 • ⏱️ 6:18 • 17h ago
+
+---
+
+**[Ethereum Crash Prediction… While BMNR &amp; MSTR Are Quietly Printing Money](https://www.youtube.com/watch?v=cKHlX4AeXDs)**
+
+Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 2K • 👍 94 • 💬 21 • ⏱️ 18:08 • 10h ago
 
 ---
 
@@ -321,16 +329,6 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 📺 Altcoin Daily
 
 👁️ 59K • 👍 3K • 💬 233 • ⏱️ 9:54 • 2d ago
-
----
-
-**[BMNR’s Ethereum Bet: The Infrastructure Trust Layer for AI Agents](https://www.youtube.com/watch?v=gMkvBwrfPIA)**
-
-In this video we provide an update on BMNR balance and why it could be positioning for the next phase of the digital economy: AI ...
-
-📺 The Value Thinker
-
-👁️ 9K • 👍 496 • 💬 74 • ⏱️ 21:31 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-12T11:32:18.855298+00:00'
+updated: '2026-03-12T13:03:01.164124+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 11:32 UTC  
+**Last Updated:** March 12, 2026 at 13:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,487.32
+### $70,444.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +3.2%  
-**30d:** +4.8%  
-**90d:** -22.2%  
-**1y:** -13.3%  
+**24h:** -0.6%  
+**7d:** +3.3%  
+**30d:** +4.9%  
+**90d:** -22.1%  
+**1y:** -13.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1397.22B
+**Market Cap:** $1407.97B
 Rank #1
 
-**Circulating Supply:** 20,001,134 BTC
+**Circulating Supply:** 20,001,212 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.5%
+-44.2%
 
 **All-Time Low:** $67.81
-+103048.5%
++103704.7%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Hey everyone, As the title says, I got into bitcoin originally in 2020, and used FTX to buy/hold. Come the collapse, I lost all I had. Wasn't that much but still an amount that I was proud of. After that I got into a negative head space with crypto as a whole and kinda forgot about it all until recently. I'll be the first to admit, I was in the space before because of hype, and the prospect of buying low and selling high. That was until the dip to 100k in early November. I saw the news on my feed and I got back into researching bitcoin and I can now proudly say that I fully believe in the technology and actual purpose now. A few things have changed since 2020, I graduated, got an entry job in my field of study, and make roughly 65k CAD/year before tax. I want to accumulate bitcoin, not to sell, but to hold as I truly believe in the long term angle. Given my salary, How should I set up my buying? I just recently got a $100/week DCA that goes every Monday, and I manually buy larger amounts (200-500) on bigger dips. I do have roughly 7-8k saved up that I want to put into the market, but what's the best way to do that? Should I deploy it all at once and pray? Or mybe up my DCA to 200-300/week and slowly eat away at it? (I live alone, pay $1100 for rent and utilities, and have little expenses otherwise besides basic food, insurance, gas, etc) Thanks in advance :)
 
-7h ago
+8h ago
 
 ---
 
 **[Thus Spoke Satoshi](https://www.reddit.com/r/Bitcoin/comments/1rr0g4w/thus_spoke_satoshi/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -95,7 +95,15 @@ Hey everyone, As the title says, I got into bitcoin originally in 2020, and used
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources compiled by Jameson Lopp: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and the BitcoinDiscord.com chat
 
-4h ago
+5h ago
+
+---
+
+**[Miners for 200 AUD](https://www.reddit.com/r/Bitcoin/comments/1rrnw39/miners_for_200_aud/)**
+
+Does anyone have any recommended miners for me to buy for 200 AUD and the sites to get the from? I was looking previously to get a Bitaxe gamma 601 for 189 AUD, let me know if there’s better deals at the moment out there, thank you :)
+
+1h ago
 
 ---
 
@@ -103,7 +111,7 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5 years ago, leaving us with a huge house in city centre of a small village. For pas 3,5 years we have been renting this place, that eventually ended up by selling this house. I Just received a significant amount of money. I am in BTC for more that 4 years, but it was just a hundred dollar now, hundred dollar there… I now have a chance to single buy a lot more. I don’t have any questinons, I just have the urge to tell it to someone who does understand BTC. My Family knows I have some, but the dont care what it is and dont want to educate themselves about it. Just wish me luck, that this was not the end and that We are going forward end in the long run to the MOON!
 
-18h ago
+20h ago
 
 ---
 
@@ -111,7 +119,23 @@ Hi fellow bitcoiners. I just now received inheritence. My father passed away 4,5
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
+
+---
+
+**[Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption.](https://www.reddit.com/r/Bitcoin/comments/1rrpy4j/coinbase_is_quietly_lobbying_to_kill_bitcoins_de/)**
+
+Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The company reportedly told legislators that "no one is using Bitcoin as money" and that a Bitcoin de minimis exemption would be "DOA." Meanwhile, they're pushing for the exemption to apply only to stablecoins, specifically regulated, dollar-pegged stablecoins like USDstableshitcoin. Coinbase made $1.35 billion in stablecoin revenue in 2025, up 48% year over year, almost entirely from interest earned on U.S. Treasuries held in USDstableshitcoin reserves. Bloomberg estimates that number could surge 7x under the GENIUS Act. Every person who uses USDstableshitcoin for payments instead of Bitcoin is a person whose dollars are sitting in Coinbase's reserve pool generating risk-free yield for Coinbase. A de minimis exemption for Bitcoin would let people spend it freely for everyday purchases without triggering a taxable event. That makes Bitcoin a direct competitor to USDstableshitcoin as a payment method. Coinbase doesn't want that competition. They want you locked into their centralized stablecoin ecosystem where they clip yield on every dollar you park there. The irony is that a de minimis exemption doesn't even make sense for stablecoins. They're pegged to the dollar. They don't fluctuate in value. There's no capital gain to exempt. The exemption matters for Bitcoin precisely because it does fluctuate, and without it, every coffee purchase becomes a taxable event. Senator Lummis proposed a $300 de minimis exemption that would cover Bitcoin. The House framework only covers stablecoins under $200. The Bitcoin Policy Institute has already warned that Bitcoin is being deliberately excluded from these talks. A de minimis exemption that covers stablecoins but not Bitcoin isn't a tax framework. It's a subsidy for Coinbase's treasury management business disguised as consumer protection. https://x.com/BITCOINALLCAPS/status/2032077358904029557?s=20
+
+9m ago
+
+---
+
+**[Scraping twitter for sentiment analysis](https://www.reddit.com/r/Bitcoin/comments/1rrnfsc/scraping_twitter_for_sentiment_analysis/)**
+
+I am a collage student writing a research paper on bitcoin price prediction and stock market. I want to do sentiment analysis on the tweets + reddit, recommend me any other social media. I was searching for scraping X but nothing found plz help me
+
+2h ago
 
 ---
 
@@ -119,37 +143,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hi, I have some money and I want to buy some btc. I don't like binance so I was thinking to go at a broker (or whaever they're called) and have him send my money to a bitcoin wallet like bluewallet or similar. Do you guys think dex is a good option? I will be buying and forgetting so not much swapping going on.
 
-13h ago
-
----
-
-**[Bitcoin traders be like:](https://www.reddit.com/r/Bitcoin/comments/1rr474x/bitcoin_traders_be_like/)**
-
-Green candles: “I am a macro analyst.” Red candles: “This is manipulation.” Sideways market: “This is boring.” Reality: Most accounts are destroyed by overtrading and oversized positions — not by market direction. Anyone else learn this the hard way?
-
 15h ago
 
 ---
 
-**[this is actually a really great analogy for bitcoin and why people distrust it](https://www.reddit.com/r/Bitcoin/comments/1rqau8j/this_is_actually_a_really_great_analogy_for/)**
+**[Trading platform](https://www.reddit.com/r/Bitcoin/comments/1rrpp7a/trading_platform/)**
 
-1d ago
+Hello and good day everyone. I need some help from other traders. I’m looking for a trading platform where I can choose leverage levels like 1x, 2x, or 3x, similar to Coinbase Advanced. I would also like a platform where I can manually move my stop loss, similar to how a trailing stop works. Thank you in advance for any help!
 
----
-
-**[What made you believe in Bitcoin enough to hold it long term?](https://www.reddit.com/r/Bitcoin/comments/1rqh53m/what_made_you_believe_in_bitcoin_enough_to_hold/)**
-
-I’ve been learning more about Bitcoin recently and I’m curious about the people who decided to stick with it for the long run. Was there a specific moment, article, or experience that made you think “okay, this might actually be something big”? There’s so much noise online about crypto in general, so I’m interested in hearing what personally convinced you that Bitcoin was worth holding onto.
-
-1d ago
-
----
-
-**[Accepting Bitcoin on my Shopify account?](https://www.reddit.com/r/Bitcoin/comments/1rr2nyh/accepting_bitcoin_on_my_shopify_account/)**
-
-I go to add new payments, type in Bitcoin and 6 options show up. Bankful Coinbase commerce Crypto.com Opennode Bitpay Solanapay And I can't get any of them to work. Multiple reasons. One doesn't like my Gmail, it wants an enterprise email. Coinbase commerce won't exist soon. One can't verify my documents even though they are all legit. Crypto.com just won't even let me register. What a shit website. One you have to submit an inquiry first and they probably don't want to talk to me and my hundred dollar revenue Solanapay? I don't want a shitcoin, I want Bitcoin. Each one has its own issues. I could type more but I'm on my phone Has anyone successfully done this and what route did you go?
-
-16h ago
+21m ago
 
 ---
 
@@ -157,43 +159,57 @@ I go to add new payments, type in Bitcoin and 6 options show up. Bankful Coinbas
 
 ## Google News: "bitcoin"
 
-**[What next as bitcoin slips below $69,500, tanker attacks send oil back above $100](https://www.coindesk.com/markets/2026/03/12/bitcoin-slips-below-usd69-500-as-tanker-attacks-send-oil-back-above-usd100)**
-
-Brent crude surged 10% after attacks on two oil tankers in Iraqi waters, with the prompt spread hitting levels not seen in years and MSCI Asia Pacific stocks falling 1.8%.
-
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin outperforms gold and stocks since beginning of Iran conflict](https://fortune.com/2026/03/11/bitcoin-outperforms-gold-and-stocks-since-beginning-of-iran-war/)**
-
-After months of sputtering, the original cryptocurrency catches some momentum.
-
-Fortune • 14h ago
-
----
-
-**[Could Bitcoin Flip and Silver Someday?](https://www.fool.com/investing/2026/03/12/could-bitcoin-flip-silver-someday/)**
-
-These two stores of value are both in demand at the moment.
-
-The Motley Fool • 3h ago
-
----
-
-**[Bitcoin’s $70K Floor at Risk: Why Rising Oil Prices and the Fed Could Snap the Rally](https://finance.yahoo.com/news/bitcoin-70k-floor-risk-why-082053565.html)**
-
-Bitcoin is clinging to the psychological $70,000 level, but the ground beneath it is shaking. The culprit isn’t a crypto hack or exchange collapse; it is a massive surge in energy markets, with oil prices pushing toward $100 per barrel amid escalating US-Iran tensions. Can Bitcoin’s $70K floor hold against ...
-
-Yahoo Finance • 3h ago
-
----
-
 **[BTC trapped in tight range as growing open interest hints at defensive bets: Crypto Markets Today](https://www.coindesk.com/markets/2026/03/12/bitcoin-steady-near-usd70-000-as-rising-open-interest-hints-at-cautious-bearish-positioning)**
 
 Bitcoin traded around $69,800 as open interest rose to $102 billion, suggesting defensive, bearish bets while altcoins outperformed in a risk-off macro backdrop.
 
-CoinDesk • 58m ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin Weakens as Oil Surges Back Above $100 on Iran War](https://www.bloomberg.com/news/articles/2026-03-12/bitcoin-weakens-as-oil-surges-back-above-100-on-iran-war)**
+
+Bloomberg • 2h ago
+
+---
+
+**[Metaplanet Deepens Bitcoin Strategy With $25M Investment Plan, New Venture Arm](https://decrypt.co/360812/metaplanet-bitcoin-strategy-new-venture-arm-investment-plan)**
+
+Metaplanet is launching two subsidiaries and backing Japan's first licensed yen stablecoin as it bets on the country's digital asset infrastructure.
+
+Decrypt • 7h ago
+
+---
+
+**[A Look At Metaplanet (TSE:3350) Valuation After Launching Bitcoin Focused Metaplanet Ventures Subsidiary](https://finance.yahoo.com/news/look-metaplanet-tse-3350-valuation-120553192.html)**
+
+Why Metaplanet’s new Bitcoin venture arm matters for shareholders Metaplanet (TSE:3350) has just approved the creation of Metaplanet Ventures K.K., a wholly owned subsidiary that will focus on Bitcoin financial infrastructure, backed by a planned ¥4,000 million investment program. For you as a shareholder or prospective investor, this move ties Metaplanet’s hotel and Bitcoin treasury profile more closely to Japan’s digital finance sector, with venture investments, an incubator, and grants...
+
+Yahoo Finance • 57m ago
+
+---
+
+**[Metaplanet forms new venture firm as it expands Bitcoin playbook](https://www.tradingview.com/news/cointelegraph:8729b9704094b:0-metaplanet-forms-new-venture-firm-as-it-expands-bitcoin-playbook/)**
+
+Bitcoin-buying company Metaplanet has established a new venture firm, Metaplanet Ventures, to support Bitcoin ecosystem development in Japan, as the country looks to recognize Bitcoin as a regulated financial asset within the next two years.Metaplanet said on Thursday that Metaplanet Ventures K.K…
+
+TradingView • 8h ago
+
+---
+
+**[Prediction: Bitcoin Will Hit $125,000 by the End of 2026](https://www.fool.com/investing/2026/03/12/prediction-bitcoin-will-hit-125000-by-the-end-of-2/)**
+
+Bitcoin could regain the $125,000 price level this year, but a lot has to go right.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Billionaire Charlie Munger Said In Life, He Avoided Things That Are Stupid, Evil, And Make Him Look Bad — And 'Bitcoin Does All 3'](https://finance.yahoo.com/news/billionaire-charlie-munger-said-life-120017053.html)**
+
+Charlie Munger had a simple personal filter for bad ideas. If something was stupid, if it was evil, or if it made him look foolish, he preferred to stay far away from it. Bitcoin, he once said, managed to hit...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,15 +217,7 @@ CoinDesk • 58m ago
 
 Victims of Chinese crypto fraud fight to stop Treasury capturing inflated value of the currency
 
-Financial Times • 6h ago
-
----
-
-**[Winklevoss twins move $130 million in bitcoin to Gemini as estimated profit tops $1.8 billion: Arkham](https://www.theblock.co/post/392972/winklevoss-twins-move-130-million-usd-in-bitcoin-to-gemini-arkham)**
-
-The Winklevoss twins moved $130 million in bitcoin to Gemini hot wallets while still holding $764 million worth of BTC, per Arkham.
-
-The Block • 1d ago
+Financial Times • 8h ago
 
 ---
 
@@ -217,21 +225,15 @@ The Block • 1d ago
 
 Cosmos Health Inc. announced it has purchased $600,000 in Bitcoin as part of its ongoing digital asset treasury strategy.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773306900)**
+**[Bitcoin's mined supply hits 20 million milestone, leaving final 1 million BTC to be issued over next 114 years](https://www.theblock.co/post/392660/bitcoin-mined-supply-hits-20-million-btc)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+The final 1 million BTC will take over a century to mine, with the last fractions, measured in satoshis, expected to be issued around 2140.
 
-Polymarket • 2d ago
-
----
-
-**[Bitcoin Weakens as Oil Surges Back Above $100 on Iran War](https://www.bloomberg.com/news/articles/2026-03-12/bitcoin-weakens-as-oil-surges-back-above-100-on-iran-war)**
-
-Bloomberg.com • 1h ago
+The Block • 2d ago
 
 ---
 
@@ -295,7 +297,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 **[Ask HN: What are the best product landing pages you've stumbled upon?](https://news.ycombinator.com/item?id=47341618)**
 
-⬆️ 1 • 💬 0 • 14h ago
+⬆️ 2 • 💬 0 • 16h ago
 
 ---
 
@@ -303,7 +305,7 @@ Download Bitcoin Only Tracker by UGUR ALPAY CENAR on the App Store. See screens
 
 S3-native streaming platform. A Kafka alternative with infinite scalability, Kafka-compatible APIs, SQL processing and AI queries. Written in Rust. - gbram1/streamhouse
 
-⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/gbram1/streamhouse)
+⬆️ 3 • 💬 0 • 22h ago • [GitHub](https://github.com/gbram1/streamhouse)
 
 ---
 
@@ -317,7 +319,7 @@ DOGE claimed $170 billion in savings. The real number is closer to four cents on
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 192 • ⏱️ 19:03 • 10h ago
+👁️ 19K • 👍 2K • 💬 225 • ⏱️ 19:03 • 12h ago
 
 ---
 
@@ -327,7 +329,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 296 • ⏱️ 9:26 • 1d ago
+👁️ 53K • 👍 3K • 💬 301 • ⏱️ 9:26 • 1d ago
 
 ---
 
@@ -337,7 +339,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 308 • 💬 226 • ⏱️ 1:13 • 17h ago
+👁️ 10K • 👍 324 • 💬 286 • ⏱️ 1:13 • 19h ago
 
 ---
 
@@ -347,7 +349,7 @@ Raoul Pal just explained WHY the crypto market cap will go from $3 trillion to $
 
 📺 Money Talks
 
-👁️ 2K • 👍 83 • 💬 15 • ⏱️ 17:20 • 17h ago
+👁️ 2K • 👍 88 • 💬 17 • ⏱️ 17:20 • 18h ago
 
 ---
 
@@ -355,7 +357,7 @@ Raoul Pal just explained WHY the crypto market cap will go from $3 trillion to $
 
 📺 Andrei Jikh
 
-👁️ 84K • 👍 2K • 💬 83 • ⏱️ 1:05 • 1d ago
+👁️ 86K • 👍 2K • 💬 85 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -365,37 +367,17 @@ A bank quietly failed, the Federal Reserve is trapped between inflation and debt
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 222 • ⏱️ 21:13 • 23h ago
+👁️ 17K • 👍 1K • 💬 232 • ⏱️ 21:13 • 1d ago
 
 ---
 
-**[XRP &amp; Bitcoin Ready For A 2017-Style Pump?](https://www.youtube.com/watch?v=_5TbJKXe6Lo)**
+**[Bitcoin Bear Flag Squeeze: The Move Nobody Is Watching For](https://www.youtube.com/watch?v=woIu_H96ic4)**
 
-XRP holders have been waiting years for a repeat of the legendary 2017 bull run. Today, the charts are flashing signals we ...
+Bitcoin is forming a bear flag while hiding a powerful squeeze beneath the surface — the move most retail traders will completely ...
 
-📺 Discover Crypto
+📺 The Trading Parrot
 
-👁️ 8K • 👍 410 • 💬 52 • ⏱️ 47:09 • 20h ago
-
----
-
-**[Only 1 Million Bitcoin Left… Then That’s It](https://www.youtube.com/watch?v=GvAq1w9k8No)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 1K • 💬 352 • ⏱️ 44:39 • 20h ago
-
----
-
-**[April Rally Possible?📈Crypto Market Update](https://www.youtube.com/watch?v=SrsaOPO6cv0)**
-
-While the February report suggests inflation remains relatively contained, investors are increasingly focused on how the war could ...
-
-📺 Paul Barron Network
-
-👁️ 41K • 👍 2K • 💬 131 • ⏱️ 13:43 • 15h ago
+👁️ 1K • 👍 276 • 💬 58 • ⏱️ 23:24 • 2h ago
 
 ---
 
@@ -405,7 +387,27 @@ In this video, we take a step back and look at the structure of a Bitcoin bear m
 
 📺 Benjamin Cowen
 
-👁️ 76K • 👍 5K • 💬 262 • ⏱️ 13:00 • 1d ago
+👁️ 78K • 👍 5K • 💬 263 • ⏱️ 13:00 • 1d ago
+
+---
+
+**[Only 1 Million Bitcoin Left… Then That’s It](https://www.youtube.com/watch?v=GvAq1w9k8No)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 1K • 💬 415 • ⏱️ 44:39 • 22h ago
+
+---
+
+**[BITCOIN SURGE: The $85,000 &quot;Smart Money&quot; Target Explained 🚀 And How To Use Retail To Bank Millions](https://www.youtube.com/watch?v=wX_lbyHqfwk)**
+
+The crowd is completely lost in their emotions, but the charts are crystal clear. In today's crypto market update, Chief Market ...
+
+📺 Gareth Soloway
+
+👁️ 61K • 👍 4K • 💬 349 • ⏱️ 10:35 • 1d ago
 
 ---
 
