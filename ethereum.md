@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T04:25:49.474430+00:00'
+updated: '2026-03-12T05:35:24.025770+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 04:25 UTC  
+**Last Updated:** March 12, 2026 at 05:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,044.20
+### $2,022.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.5%  
-**30d:** +4.4%  
-**90d:** -34.9%  
-**1y:** +9.0%  
+**24h:** +0.0%  
+**7d:** +2.3%  
+**30d:** +4.3%  
+**90d:** -35.0%  
+**1y:** +8.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 1h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 2h ago
 
 ---
 
@@ -80,7 +80,15 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 Fears ago it felt pretty normal to earn yield on your crypto, just park it on a platform and let it earn something while you hold long term. But after everything that happened with some lending platforms blowing up, it seems like a lot of people got way more cautious about it. At the same time, letting your crypto just sit there doing nothing also feels kind of like a missed opportunity if you’re planning to hold for years anyway. I noticed that some platforms are trying to come back with clearer structures and regulation now, which makes me curious if the space is actually getting safer or if the risk is still basically the same. Are you guys still earning yield on your crypto these days?
 
-2h ago
+4h ago
+
+---
+
+**[Daily General Discussion March 12, 2026](https://www.reddit.com/r/ethereum/comments/1rrhp2n/daily_general_discussion_march_12_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+34m ago
 
 ---
 
@@ -88,7 +96,7 @@ Fears ago it felt pretty normal to earn yield on your crypto, just park it on a 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
 
-23h ago
+1d ago
 
 ---
 
@@ -104,7 +112,7 @@ Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer fo
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -140,14 +148,6 @@ Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec
 
 ---
 
-**[Daily General Discussion March 09, 2026](https://www.reddit.com/r/ethereum/comments/1ror68i/daily_general_discussion_march_09_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,15 +164,15 @@ CoinDesk • 1d ago
 
 Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
 
-Sherwood News • 11h ago
+Sherwood News • 12h ago
 
 ---
 
-**[Bitmine’s Massive Ethereum Bet Deepens As MAVAN Staking Launch Nears](https://finance.yahoo.com/news/bitmine-massive-ethereum-bet-deepens-091211652.html)**
+**[How Sharplink’s Massive Ethereum Treasury Pivot and 2025 Loss Will Impact Sharplink (SBET) Investors](https://finance.yahoo.com/news/sharplink-massive-ethereum-treasury-pivot-042949127.html)**
 
-Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
+Sharplink, Inc. reported full-year 2025 results on March 9, 2026, with revenue rising to US$28.06 million while a US$734.59 million net loss was driven largely by unrealized losses and impairments tied to its substantial Ethereum holdings. Despite this very large accounting loss, Sharplink has rapidly transformed into an Ethereum-focused treasury platform, raising up to US$3.20 billion in equity, accumulating more than 860,000 ETH, and attracting institutional ownership of around 46%...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -182,17 +182,9 @@ Binance • 4d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqeRyymg5BD3F9NVOWwjedg9oyOpFlf7LVVc00L-g_e67VCRuKV2Xnvt&gaa_ts=69b243b9&gaa_sig=v94SVBumBwVGrVW2sXbUpSywueQfLyrwzafZfd6sRcx_2Bhsme58uTxz0JNpNbGRyzs6hq7FpfycyTgXyJcUZQ%3D%3D)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqddJj7heuVCjCNcu9hyIQvr8vMy1L4rKjFLc1UZ9fO1zBpCUH17GE8H&gaa_ts=69b25409&gaa_sig=0oAtznCAiEveB0T_89Okcgmcj5XTUVRR1GrY5u17WIvarb9KYT-zVYUJ-eCw7rp51i_DudMSylat2tqtV4AHhA%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Ethereum Price To Rally 928%? Why $10,000 Isn’t The Real ATH Target](https://www.tradingview.com/news/newsbtc:424422d87094b:0-ethereum-price-to-rally-928-why-10-000-isn-t-the-real-ath-target/)**
-
-Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
-
-TradingView • 16h ago
 
 ---
 
@@ -200,21 +192,31 @@ TradingView • 16h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
-**[Bitmine Vs. Sharplink: One Is A Dilution Trap, The Other Is The Better Ethereum Proxy](https://seekingalpha.com/article/4879983-bitmine-vs-sharplink-one-is-a-dilution-trap-the-other-is-the-better-ethereum-proxy)**
+**[Ethereum Price To Rally 928%? Why $10,000 Isn’t The Real ATH Target](https://www.tradingview.com/news/newsbtc:424422d87094b:0-ethereum-price-to-rally-928-why-10-000-isn-t-the-real-ath-target/)**
 
-Seeking Alpha • 2d ago
+Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
+
+TradingView • 18h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP attempt recovery as momentum improves](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-attempt-recovery-as-momentum-improves-202603110341)**
+**[Bitmine lifts Ethereum treasury to 4.53 million ETH after adding 60,976 tokens in a week amid ‘mini-crypto winter’](https://www.theblock.co/post/392831/bitmine-lifts-ethereum-treasury-to-4-53-million-eth-after-adding-60976-tokens-in-a-week-amid-mini-crypto-winter)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of recovery, having rebounded nearly 6%, 5% and 4%, respectively, so far this week. BTC and ETH are approaching a key technical hurdle, while XRP is attempting to build momentum after stabilizing near recent lows.
+Bitmine Immersion Technologies has increased its ether treasury to 4.535 million ETH — about 3.76% of total supply.
 
-FXStreet • 1d ago
+The Block • 2d ago
+
+---
+
+**[Don't Do This 1 Very Tempting Thing With Your Bitcoin, Ethereum, or XRP Right Now](https://www.fool.com/investing/2026/03/11/dont-do-this-1-very-tempting-thing-with-your-bitco/)**
+
+It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
+
+The Motley Fool • 18h ago
 
 ---
 
@@ -222,7 +224,7 @@ FXStreet • 1d ago
 
 Tokenized real world assets just exploded to $26.7B, and Ethereum is leading the charge, could this drive bullish Ethereum price prediction?
 
-Cryptonews • 4h ago
+Cryptonews • 5h ago
 
 ---
 
@@ -236,7 +238,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 6K • 👍 252 • 💬 115 • ⏱️ 56:53 • 17h ago
+👁️ 6K • 👍 252 • 💬 115 • ⏱️ 56:53 • 19h ago
 
 ---
 
@@ -256,7 +258,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 3K • 💬 51 • ⏱️ 12:32 • 17h ago
+👁️ 13K • 👍 3K • 💬 51 • ⏱️ 12:32 • 18h ago
 
 ---
 
@@ -266,7 +268,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 516 • 👍 21 • 💬 2 • ⏱️ 6:18 • 8h ago
+👁️ 516 • 👍 21 • 💬 2 • ⏱️ 6:18 • 10h ago
 
 ---
 
@@ -276,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 225 • 👍 17 • 💬 1 • ⏱️ 4:17 • 1h ago
+👁️ 225 • 👍 17 • 💬 1 • ⏱️ 4:17 • 2h ago
 
 ---
 
@@ -286,7 +288,7 @@ BITCOIN & CRYPTO: Everyone is Wrong (Target Confirmed)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 2K • 👍 149 • 💬 141 • ⏱️ 19:40 • 3h ago
+👁️ 2K • 👍 149 • 💬 141 • ⏱️ 19:40 • 4h ago
 
 ---
 
@@ -316,7 +318,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 348 • 👍 33 • 💬 1 • ⏱️ 18:08 • 1h ago
+👁️ 348 • 👍 33 • 💬 1 • ⏱️ 18:08 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T04:25:49.459912+00:00'
+updated: '2026-03-12T05:35:24.011239+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 04:25 UTC  
+**Last Updated:** March 12, 2026 at 05:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,19 @@ AI news, discussions, and developments
 
 Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 13h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 14h ago
+
+---
+
+**[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
+
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 3h ago
 
 ---
 
 **[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -55,13 +61,7 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 10h ago
-
----
-
-**[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
-
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 2h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 11h ago
 
 ---
 
@@ -69,7 +69,7 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 11h ago
 
 ---
 
@@ -77,7 +77,7 @@ Over the past two years AMD has developed the AMDXDNA accelerator driver in the 
 
 Kenneth Payne tested language models in war games simulations and "nuclear use was near-universal." Is anyone else worried the current administration is going to escalate to nuclear war because they are relying on chatbots for strategy?
 
-🔗 [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game) • 2h ago
+🔗 [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game) • 3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Amazon sued Perplexity in November, accusing the startup of concealing its AI sh
 
 Explore codebase like exploring a city with buildings and islands... using our website CodeGraphContext- the go to solution for code indexing now got 2k stars🎉🎉... It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.3.0 released ~2k GitHub stars, ~400 forks 75k+ downloads 75+ contributors, ~200 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 14 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling.
 
-11h ago
+12h ago
 
 ---
 
@@ -121,7 +121,7 @@ Explore codebase like exploring a city with buildings and islands... using our w
 
 “Folks, as you likely know, the availability of the site and related infrastructure has not been good recently,” Dave Treadwell, an Amazon senior vice president reportedly wrote in an email.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -129,7 +129,7 @@ Fortune • 7h ago
 
 Layoffs to affect 10% of workforce amid Australian company’s restructuring plan to push into artificial intelligence and enterprise sales
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -137,51 +137,21 @@ The Guardian • 6h ago
 
 Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Atlassian to cut roughly 10% jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)**
 
-Reuters • 6h ago
+Reuters • 8h ago
 
 ---
 
-**[Inside Amazon’s effort to shape the AI narrative on sustainability and ethics](https://digiday.com/marketing/inside-amazons-effort-to-shape-the-ai-narrative-on-sustainability-and-ethics/)**
+**[Fake explosions, fake missiles, fake troops: AI videos and images of Iran war spread widely on social media](https://www.cnn.com/2026/03/11/politics/fake-ai-images-videos-iran-war)**
 
-As AI backlash grows, Amazon is trying to reshape the narrative — starting with journalists, creators and marketers.
+Fake videos and images depicting fake attacks and fake troops have racked up tens of millions of views on social media platforms in the nearly two weeks since the Iran war began.
 
-Digiday • 23m ago
-
----
-
-**[Tazewell County clerk unveils AI-powered directory tool](https://www.yahoo.com/news/articles/tazewell-county-clerk-unveils-ai-031327224.html)**
-
-Tazewell County has become the first county in Illinois to create a digital directory, which uses AI to scan handwritten documents and make them searchable, allowing people to find information more ea...
-
-Yahoo • 1h ago
-
----
-
-**[Microsoft Pushes for Africa AI Adoption in Challenge to DeepSeek](https://www.bloomberg.com/news/articles/2026-03-12/microsoft-pushes-for-africa-ai-adoption-in-challenge-to-deepseek)**
-
-Bloomberg • 25m ago
-
----
-
-**[It’s Official: Wiz Joins Google!](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)**
-
-Today, as we officially begin our journey as a Google company, that belief feels real in a much deeper way.
-
-wiz.io • 15h ago
-
----
-
-**[Fake AI videos of Iran war are spreading online](https://www.cnn.com/2026/03/11/world/video/fake-ai-images-videos-iran-war-ldn-digvid-vrtc)**
-
-Fake videos and images depicting fake attacks and fake troops have racked up tens of millions of views on social media platforms in the 10 days since the Iran war began.
-
-CNN • 17h ago
+CNN • 23h ago
 
 ---
 
@@ -189,7 +159,39 @@ CNN • 17h ago
 
 Admiral Brad Cooper says artificial intelligence is helping process data, but humans are making final decisions.
 
-Al Jazeera • 12h ago
+Al Jazeera • 14h ago
+
+---
+
+**[The AI-driven ‘kill chain’ transforming how the US wages war](https://www.ft.com/content/fedb262e-e6db-40bc-a4d0-080812f0f82b)**
+
+Systems from Palantir and Anthropic are helping to turn torrents of battlefield data into thousands of strikes
+
+Financial Times • 35m ago
+
+---
+
+**[Exercise and brain function, hedgehog hearing, and can AI change our minds? – podcast](https://www.theguardian.com/science/audio/2026/mar/12/exercise-and-brain-function-hedgehog-hearing-and-can-ai-change-our-minds-podcast)**
+
+The Guardian’s science editor, Ian Sample, talks to Madeleine Finlay about three eye-catching science stories from the week
+
+The Guardian • 35m ago
+
+---
+
+**[Netflix to Pay as Much as $600 Million for Ben Affleck’s AI Firm](https://finance.yahoo.com/news/netflix-pay-much-600-million-194011342.html)**
+
+InterPositive’s owners will earn even more if it meets certain performance targets.  Netflix, which recently bid unsuccessfully for Warner Bros. Discovery Inc., hasn’t disclosed the terms.  Netflix is buying InterPositive to accelerate the use of artificial intelligence in its filmmaking.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[It’s Official: Wiz Joins Google!](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)**
+
+Today, as we officially begin our journey as a Google company, that belief feels real in a much deeper way.
+
+wiz.io • 16h ago
 
 ---
 
@@ -199,7 +201,7 @@ Al Jazeera • 12h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 3049 • 💬 1150 • 8h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 3140 • 💬 1195 • 10h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -207,7 +209,7 @@ Al Jazeera • 12h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 636 • 💬 472 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 636 • 💬 473 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -215,7 +217,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 602 • 💬 481 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 603 • 💬 481 • 1d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -227,19 +229,19 @@ Last week, Dan Blanchard, the maintainer of chardet—a Python library for detec
 
 ---
 
+**[How we hacked McKinsey's AI platform](https://news.ycombinator.com/item?id=47333627)**
+
+An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
+
+⬆️ 418 • 💬 168 • 19h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+
+---
+
 **[Yann LeCun's AI startup raises $1B in Europe's largest ever seed round](https://news.ycombinator.com/item?id=47321533)**
 
 Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
 
 ⬆️ 415 • 💬 2 • 1d ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
-
----
-
-**[How we hacked McKinsey's AI platform](https://news.ycombinator.com/item?id=47333627)**
-
-An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
-
-⬆️ 409 • 💬 168 • 18h ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -269,7 +271,7 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 198 • 💬 204 • 10h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 221 • 💬 214 • 11h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -283,7 +285,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 27K • 👍 867 • 💬 55 • ⏱️ 14:05 • 5h ago
+👁️ 27K • 👍 867 • 💬 55 • ⏱️ 14:05 • 6h ago
 
 ---
 
@@ -293,7 +295,7 @@ Why Replacing Developers with AI is Failing (The Dark Truth) Tech companies like
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 2K • 👍 184 • 💬 46 • ⏱️ 16:01 • 9h ago
+👁️ 2K • 👍 184 • 💬 46 • ⏱️ 16:01 • 10h ago
 
 ---
 
@@ -343,7 +345,7 @@ Sam Altman, CEO of OpenAI, spoke at BlackRock's U.S. Infrastructure Summit in Wa
 
 📺 DRM News
 
-👁️ 22K • 👍 407 • 💬 137 • ⏱️ 21:31 • 8h ago
+👁️ 22K • 👍 407 • 💬 137 • ⏱️ 21:31 • 10h ago
 
 ---
 
@@ -353,7 +355,7 @@ Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI 
 
 📺 CNBC Television
 
-👁️ 77K • 👍 1K • 💬 296 • ⏱️ 11:04 • 14h ago
+👁️ 77K • 👍 1K • 💬 296 • ⏱️ 11:04 • 15h ago
 
 ---
 
@@ -363,7 +365,7 @@ Can you believe a game-ready 3D model with clean topology can be generated in ju
 
 📺 Stefan 3D AI Lab
 
-👁️ 9K • 👍 513 • 💬 68 • ⏱️ 19:49 • 15h ago
+👁️ 9K • 👍 513 • 💬 68 • ⏱️ 19:49 • 16h ago
 
 ---
 
@@ -437,7 +439,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 746 • ❤️ 272 • 12h ago
+⬇️ 746 • ❤️ 272 • 14h ago
 
 ---
 
@@ -648,7 +650,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 26.6k • 🔱 3.4k • 22h ago
+⭐ 26.6k • 🔱 3.4k • 1d ago
 
 ---
 
@@ -658,7 +660,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.3k • 🔱 3.4k • 5m ago
+⭐ 26.3k • 🔱 3.4k • 1h ago
 
 ---
 
@@ -678,7 +680,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 10.8k • 🔱 1.3k • 17m ago
+⭐ 10.8k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -688,7 +690,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.5k • 🔱 613 • 18h ago
+⭐ 8.5k • 🔱 613 • 20h ago
 
 ---
 
@@ -718,7 +720,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 727 • 2h ago
+⭐ 6.2k • 🔱 727 • 4h ago
 
 ---
 
@@ -728,7 +730,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 441 • 4m ago
+⭐ 3.8k • 🔱 441 • 1h ago
 
 ---
 
@@ -738,7 +740,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 658 • 17h ago
+⭐ 3.3k • 🔱 658 • 18h ago
 
 ---
 
