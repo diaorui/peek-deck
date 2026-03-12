@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T08:44:41.927578+00:00'
+updated: '2026-03-12T09:44:02.282831+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 08:44 UTC  
+**Last Updated:** March 12, 2026 at 09:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $244.88B
+**Market Cap:** $246.88B
 Rank #2
 
 **Circulating Supply:** 120,691,977 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.0%
+-58.6%
 
 **All-Time Low:** $0.43
-+468786.5%
++472943.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 5h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 6h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
 
-Sherwood News • 15h ago
+Sherwood News • 16h ago
 
 ---
 
@@ -172,7 +172,7 @@ Sherwood News • 15h ago
 
 Sharplink, Inc. reported full-year 2025 results on March 9, 2026, with revenue rising to US$28.06 million while a US$734.59 million net loss was driven largely by unrealized losses and impairments tied to its substantial Ethereum holdings. Despite this very large accounting loss, Sharplink has rapidly transformed into an Ethereum-focused treasury platform, raising up to US$3.20 billion in equity, accumulating more than 860,000 ETH, and attracting institutional ownership of around 46%...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ Barron's • 1d ago
 
 Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView • 21h ago
 
 OP Labs layoffs: 20 employees let go as the Ethereum L2 developer refocuses on streamlining strategies and decision-making efficiency.
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -208,7 +208,7 @@ Crypto Briefing • 2h ago
 
 It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ PR Newswire • 2d ago
 
 Bitcoin is holding $70,000 as oil price continue to remain elevated.
 
-Benzinga • 13h ago
+Benzinga • 14h ago
 
 ---
 
@@ -232,23 +232,13 @@ Benzinga • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=C9qgiGOWDSU)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 Autumn Asmr
-
-👁️ 1K • 👍 1K • 2h ago
-
----
-
 **[Why ETH Might Be Near a Major Turning Point](https://www.youtube.com/watch?v=0JFtYBvMjNw)**
 
 GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum underperformed this cycle, and investors ...
 
 📺 Bankless
 
-👁️ 6K • 👍 258 • 💬 115 • ⏱️ 56:53 • 22h ago
+👁️ 7K • 👍 268 • 💬 102 • ⏱️ 56:53 • 23h ago
 
 ---
 
@@ -258,7 +248,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 3K • 💬 84 • ⏱️ 12:32 • 21h ago
+👁️ 13K • 👍 3K • 💬 81 • ⏱️ 12:32 • 22h ago
 
 ---
 
@@ -268,27 +258,7 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 69K • 👍 3K • 💬 286 • ⏱️ 21:43 • 1d ago
-
----
-
-**[The Cryptocurrency Market Has Changed LARGE Anomalous Bitcoin Transfer Signals A MARKET SHIFT](https://www.youtube.com/watch?v=Vyq7xXyxPzc)**
-
-A lot can happen in a day, and in Bitcoin and the cryptocurrency market's case, it could be life changing. Money makers in the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 6K • 👍 805 • 💬 265 • ⏱️ 17:03 • 18h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=IFIYInyI-J4)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 492 • 👍 45 • 💬 3 • ⏱️ 4:17 • 5h ago
+👁️ 71K • 👍 3K • 💬 290 • ⏱️ 21:43 • 1d ago
 
 ---
 
@@ -298,17 +268,47 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 523 • 👍 21 • 💬 2 • ⏱️ 6:18 • 13h ago
+👁️ 591 • 👍 22 • 💬 2 • ⏱️ 6:18 • 14h ago
 
 ---
 
-**[BMNR’s Ethereum Bet: The Infrastructure Trust Layer for AI Agents](https://www.youtube.com/watch?v=gMkvBwrfPIA)**
+**[The Cryptocurrency Market Has Changed LARGE Anomalous Bitcoin Transfer Signals A MARKET SHIFT](https://www.youtube.com/watch?v=Vyq7xXyxPzc)**
 
-In this video we provide an update on BMNR balance and why it could be positioning for the next phase of the digital economy: AI ...
+A lot can happen in a day, and in Bitcoin and the cryptocurrency market's case, it could be life changing. Money makers in the ...
 
-📺 The Value Thinker
+📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 493 • 💬 74 • ⏱️ 21:31 • 1d ago
+👁️ 7K • 👍 821 • 💬 257 • ⏱️ 17:03 • 19h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=IFIYInyI-J4)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 812 • 👍 69 • 💬 5 • ⏱️ 4:17 • 6h ago
+
+---
+
+**[HOW IS NO ONE TALKING ABOUT WHAT ETHEREUM IS DOING??](https://www.youtube.com/watch?v=fjQpNM5997A)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
+
+📺 Tyler Hill Crypto
+
+👁️ 7K • 👍 352 • 💬 130 • ⏱️ 13:04 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Kracht es jetzt richtig runter bei BTC oder kommt die unerwartete Rally??](https://www.youtube.com/watch?v=Ei37P7upNuQ)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20% Auf ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 562 • 💬 83 • ⏱️ 10:41 • 4h ago
 
 ---
 
@@ -322,13 +322,13 @@ GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https:/
 
 ---
 
-**[HOW IS NO ONE TALKING ABOUT WHAT ETHEREUM IS DOING??](https://www.youtube.com/watch?v=fjQpNM5997A)**
+**[BMNR’s Ethereum Bet: The Infrastructure Trust Layer for AI Agents](https://www.youtube.com/watch?v=gMkvBwrfPIA)**
 
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
+In this video we provide an update on BMNR balance and why it could be positioning for the next phase of the digital economy: AI ...
 
-📺 Tyler Hill Crypto
+📺 The Value Thinker
 
-👁️ 7K • 👍 351 • 💬 129 • ⏱️ 13:04 • 1d ago
+👁️ 9K • 👍 496 • 💬 74 • ⏱️ 21:31 • 1d ago
 
 ---
 
