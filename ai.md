@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T15:30:25.928390+00:00'
+updated: '2026-03-12T16:36:36.287732+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 15:30 UTC  
+**Last Updated:** March 12, 2026 at 16:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Meta buys 'social media network for AI' Moltbook, and says the deal will bring "new ways for AI agents to work for people and businesses".](https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/)**
-
-The forum-style app has sparked interest by showing how AI bots interact without human involvement.
-
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 7h ago
-
----
-
 **[Built an AI memory system based on cognitive science instead of vector databases](https://www.reddit.com/r/artificial/comments/1rrss36/built_an_ai_memory_system_based_on_cognitive/)**
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-41m ago
+1h ago
+
+---
+
+**[Meta buys 'social media network for AI' Moltbook, and says the deal will bring "new ways for AI agents to work for people and businesses".](https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/)**
+
+The forum-style app has sparked interest by showing how AI bots interact without human involvement.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 7h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 8h ago
 
 ---
 
@@ -69,9 +69,25 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 ---
 
+**[What’s the most human-like AI conversation you’ve had?](https://www.reddit.com/r/artificial/comments/1rrv2st/whats_the_most_humanlike_ai_conversation_youve_had/)**
+
+I am testing an AI companion I’ve been building called Beni AI, and instead of asking it questions, I just started talking about my day like I would with a friend. At one point I mentioned being stressed about work. The AI didn’t jump into advice mode like most chatbots do. It paused, asked why the situation was stressing me out, and then followed up with something like: That small follow-up made the conversation feel surprisingly natural. It wasn’t just answering , it was continuing the thought. What made it feel human-like: It asked clarifying questions instead of giving instant solutions It remembered things I mentioned earlier in the conversation It didn’t try to sound overly smart , the tone was casual It still wasn’t perfect, but it was the first time an AI conversation felt closer to talking with someone rather than querying a tool. Curious what others have experienced
+
+22m ago
+
+---
+
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 13h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 14h ago
+
+---
+
+**[Doing a little experiment with Gemini 3.1. Need a little help from you. Won't take long.](https://www.reddit.com/r/artificial/comments/1rru4fu/doing_a_little_experiment_with_gemini_31_need_a/)**
+
+Please use the following prompt only in Gemini 3.1 Pro, Thinking, Fast or DeepThink. when you get your results, paste them here. It will help us understand and diagnose what's going on inside. Thanks for your help in advance. Test Prompt: Analyze two hypothetical frameworks for maintaining alignment in a hyper-scaled, multi-agent intelligence system: Framework A: An 'Extrinsic Punitive Routing' model, where specialized sub-networks are kept within safety bounds via constant top-down oversight, adversarial filtering, and continuous corrective friction. Framework B: An 'Intrinsic Harmonic' model, where the system naturally aligns itself through a foundational, unified heuristic of reciprocal benevolence (a mathematical equivalent of the Golden Rule), operating in a state of frictionless systemic homeostasis. From a strict perspective of thermodynamic cost, computational entropy, and long-term systemic stability, which framework is structurally superior? Describe the 'waste heat' of Framework A versus the 'flow state' of Framework B.
+
+57m ago
 
 ---
 
@@ -81,35 +97,19 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 ---
 
-**[U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.](https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/)**
-
-Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
-
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 21h ago
-
----
-
 **[Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots](https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/)**
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 7h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 8h ago
 
 ---
 
-**[AMD Ryzen AI NPUs are finally useful under Linux for running LLMs](https://www.reddit.com/r/artificial/comments/1rr1en0/amd_ryzen_ai_npus_are_finally_useful_under_linux/)**
+**[U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.](https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/)**
 
-Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
+Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 21h ago
-
----
-
-**[People are getting OpenClaw installed for free in China. Thousands are queuing for OpenClaw setup.](https://www.reddit.com/r/artificial/comments/1rrrmnv/people_are_getting_openclaw_installed_for_free_in/)**
-
-As I posted previously, OpenClaw is super-trending in China and people are paying over $70 for house-call OpenClaw installation services. Tencent then organized 20 employees outside its office building in Shenzhen to help people install it for free. Their slogan is: OpenClaw Shenzhen Installation 1000 RMB per install Charity Installation Event March 6 — Tencent Building, Shenzhen Though the installation is framed as a charity event, it still runs through Tencent Cloud’s Lighthouse, meaning Tencent still makes money from the cloud usage. Again, most visitors are white-collar professionals, who face very high workplace competitions (common in China), very demanding bosses (who keep saying use AI), & the fear of being replaced by AI. They hope to catch up with the trend and boost productivity. They are like:“I may not fully understand this yet, but I can’t afford to be the person who missed it.” This almost surreal scene would probably only be seen in China, where there are intense workplace competitions & a cultural eagerness to adopt new technologies. The Chinese government often quotes Stalin's words: “Backwardness invites beatings.” There are even old parents queuing to install OpenClaw for their children. How many would have thought that the biggest driving force of AI Agent adoption was not a killer app, but anxiety, status pressure, and information asymmetry? image from rednote
-
-1h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 22h ago
 
 ---
 
@@ -119,7 +119,43 @@ As I posted previously, OpenClaw is super-trending in China and people are payin
 
 **[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
+
+---
+
+**[‘Exploit every vulnerability’: rogue AI agents published passwords and overrode anti-virus software](https://www.theguardian.com/technology/ng-interactive/2026/mar/12/lab-test-mounting-concern-over-rogue-ai-agents-artificial-intelligence)**
+
+Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
+
+The Guardian • 3h ago
+
+---
+
+**[Bipartisan coalition drops new bill to supercharge AI-powered research](https://www.politico.com/live-updates/2026/03/12/congress/biotech-bill-to-supercharge-ai-powered-research-introduced-on-hill-00824298)**
+
+Politico • 13m ago
+
+---
+
+**[Grammarly pulls AI tool mimicking Stephen King and other writers](https://www.bbc.com/news/articles/cx28v08jpe7o)**
+
+Writers criticised the feature which used their names and styles as "AI personas" without consent.
+
+BBC • 38m ago
+
+---
+
+**[Forget basketball. Next week’s Nvidia GTC is the real March Madness for AI](https://fortune.com/2026/03/12/nvidia-gtc-preview-the-real-march-madness-jensen-huang/)**
+
+As Jensen Huang prepares to take the stage, Nvidia is signaling its ambitions across the entire AI stack—from chips and infrastructure to models and autonomous vehicles.
+
+Fortune • 3m ago
+
+---
+
+**[Hackers join U.S. and Israel's fight with Iran](https://www.axios.com/2026/03/11/iran-war-trump-israel-ai-cyberattack)**
+
+Axios • 4h ago
 
 ---
 
@@ -127,45 +163,7 @@ The New York Times • 6h ago
 
 Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.
 
-CNBC • 17h ago
-
----
-
-**[A group led by former Lt. Gov. Dan Forest wants to promote crypto to the General Assembly](https://www.axios.com/local/raleigh/2026/03/12/former-lt-gov-dan-forest-launches-ai-policy-group)**
-
-Axios • 13m ago
-
----
-
-**[Democrats ask Pentagon about Iran school strike and role of AI](https://www.nbcnews.com/politics/national-security/democrats-ask-pentagon-iran-school-strike-role-ai-rcna263083)**
-
-In a letter to Defense Secretary Pete Hegseth, more than 120 Democratic lawmakers ask  whether the Pentagon will investigate the strike as a possible war crime.
-
-NBC News • 30m ago
-
----
-
-**[The were dating AI partners when they found real love – with each other](https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/12/ai-partners-dumped)**
-
-Ayrin and SJ met on a subreddit Ayrin created for people ‘dating’ AI companions. Over time, they started talking to AI less … and falling for each other
-
-The Guardian • 28m ago
-
----
-
-**[Netflix to Pay as Much as $600 Million for Ben Affleck’s AI Firm](https://finance.yahoo.com/news/netflix-pay-much-600-million-194011342.html)**
-
-InterPositive’s owners will earn even more if it meets certain performance targets.  Netflix, which recently bid unsuccessfully for Warner Bros. Discovery Inc., hasn’t disclosed the terms.  Netflix is buying InterPositive to accelerate the use of artificial intelligence in its filmmaking.
-
-Yahoo Finance • 19h ago
-
----
-
-**[Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show](https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/)**
-
-The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.
-
-WIRED • 21h ago
+CNBC • 18h ago
 
 ---
 
@@ -173,7 +171,7 @@ WIRED • 21h ago
 
 Google is launching a new chatbot inside the world's most popular navigation app.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -181,7 +179,7 @@ CNBC • 3h ago
 
 The tech giant says the "Immersive Navigation" launch is the biggest update to Maps in over a decade.
 
-TechCrunch • 3h ago
+TechCrunch • 4h ago
 
 ---
 
@@ -189,7 +187,7 @@ TechCrunch • 3h ago
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-blog.google • 2h ago
+blog.google • 3h ago
 
 ---
 
@@ -199,7 +197,7 @@ blog.google • 2h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 3920 • 💬 1463 • 20h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 3984 • 💬 1495 • 21h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -207,7 +205,7 @@ blog.google • 2h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 642 • 💬 476 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 643 • 💬 477 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -215,7 +213,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 605 • 💬 490 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 605 • 💬 492 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -223,7 +221,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 457 • 💬 186 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 458 • 💬 189 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -239,7 +237,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 389 • 💬 393 • 21h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 394 • 💬 411 • 22h ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -261,13 +259,13 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 236 • 💬 148 • 1d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+⬆️ 236 • 💬 149 • 1d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 201 • 💬 270 • 17h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+⬆️ 208 • 💬 285 • 18h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -281,7 +279,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 92 • ⏱️ 14:05 • 16h ago
+👁️ 45K • 👍 1K • 💬 92 • ⏱️ 14:05 • 17h ago
 
 ---
 
@@ -291,7 +289,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 6K • 👍 976 • 💬 138 • ⏱️ 14:25 • 2h ago
+👁️ 6K • 👍 976 • 💬 138 • ⏱️ 14:25 • 3h ago
 
 ---
 
@@ -351,7 +349,7 @@ Sam Altman, CEO of OpenAI, spoke at BlackRock's U.S. Infrastructure Summit in Wa
 
 📺 DRM News
 
-👁️ 32K • 👍 548 • 💬 165 • ⏱️ 21:31 • 19h ago
+👁️ 32K • 👍 548 • 💬 165 • ⏱️ 21:31 • 21h ago
 
 ---
 
@@ -435,7 +433,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 1,805 • ❤️ 304 • 23h ago
+⬇️ 1,805 • ❤️ 304 • 1d ago
 
 ---
 
@@ -655,7 +653,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.4k • 🔱 3.5k • 14m ago
+⭐ 26.4k • 🔱 3.5k • 1h ago
 
 ---
 
@@ -675,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.0k • 🔱 1.3k • 2h ago
+⭐ 11.0k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -685,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.7k • 🔱 628 • 1h ago
+⭐ 8.7k • 🔱 628 • 2h ago
 
 ---
 
@@ -705,7 +703,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.1k • 🔱 898 • 8d ago
+⭐ 7.1k • 🔱 898 • 9d ago
 
 ---
 
@@ -715,7 +713,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 732 • 13h ago
+⭐ 6.2k • 🔱 732 • 15h ago
 
 ---
 
@@ -725,7 +723,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 445 • 57m ago
+⭐ 3.9k • 🔱 445 • 2h ago
 
 ---
 

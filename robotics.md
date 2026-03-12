@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T15:30:25.946190+00:00'
+updated: '2026-03-12T16:36:36.303506+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 15:30 UTC  
+**Last Updated:** March 12, 2026 at 16:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,13 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-1h ago
+2h ago
+
+---
+
+**[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
+
+3h ago
 
 ---
 
@@ -58,13 +64,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 We recently published research showing how generative AI can dramatically lower the barrier to entry for robot security research. Using Cybersecurity AI (CAI) we analyzed three real consumer robots: • robotic lawn mower • powered exoskeleton • window-cleaning robot In ~7 hours the system identified 38 vulnerabilities including firmware exploitation paths, BLE command injection and unauthenticated root access. Historically this kind of analysis required weeks of specialized robotics security research. Paper: https://arxiv.org/pdf/2603.08665
 
-53m ago
-
----
-
-**[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
-
-2h ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ We recently published research showing how generative AI can dramatically lower 
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,13 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-22h ago
+23h ago
+
+---
+
+**[FlashHead: Up to 40% Faster Multimodal Reasoning on Top of Quantization](https://www.reddit.com/r/robotics/comments/1rrtvm2/flashhead_up_to_40_faster_multimodal_reasoning_on/)**
+
+1h ago
 
 ---
 
@@ -88,7 +94,7 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 Been recruiting in robotics for years. This is one of the more technically rare roles I've placed. The team is building a teleoperation system for a fleet of humanoid robots, and they need someone who can operate at both ends of the stack simultaneously: low-latency networking in Rust and C++, and immersive operator interfaces in Unreal Engine with OpenXR. The founding team has shipped hardware to space, deep ocean deployments, and commercial theme parks. This isn't a vibe-based startup. They build things that actually work in the real world under real conditions. What the role actually involves: Real-time data streaming over unreliable transports (WiFi, cellular). Custom shader work and GPU profiling. XR interfaces on Android and embedded Linux. Interfacing directly with hardware SDKs for robot sensing and control. You own it end to end. Hard requirements: Rust and C++ are non-negotiable. 5+ years software, 3+ in 3D/XR or real-time applications. On-site in Florida or Texas. Nice to have: Unreal Engine, OpenXR, ARCore, Nix/Bazel, open source contributions. Comp is competitive with equity. Not going to post a number and get ratio'd, but it's not a band 3 offer, DM me. If this is you, or you know someone, message me directly or email wallace0713@yahoo.com US residents only
 
-10m ago
+1h ago
 
 ---
 
@@ -96,15 +102,7 @@ Been recruiting in robotics for years. This is one of the more technically rare 
 
 Embodied AI refers to AI systems that control physical machines using real-time perception, reasoning, and interaction with the environment. In manufacturing this shows up in systems like adaptive pick-and-place robots, mobile warehouse robots, and inspection systems that adjust to variability instead of following fixed scripts. Examples include robots adapting to part orientation during assembly or locomotion policies trained in simulation and deployed to physical robots like Boston Dynamics’ Spot.
 
-🔗 [Automate](https://www.automate.org/industry-insights/how-embodied-ai-fits-into-the-future-of-manufacturing) • 1h ago
-
----
-
-**[MSG 3D Printed Stepper Gripper - Compliance](https://www.reddit.com/r/robotics/comments/1rr18j8/msg_3d_printed_stepper_gripper_compliance/)**
-
-The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
-
-21h ago
+🔗 [Automate](https://www.automate.org/industry-insights/how-embodied-ai-fits-into-the-future-of-manufacturing) • 2h ago
 
 ---
 
@@ -112,25 +110,25 @@ The MSG gripper uses FOC stepper motors without gearboxes, enabling precise cont
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqde5oZQ1RmGMcoDfPpw_4a_Jsx3iUAn8pbKBpt2LiUwByHaQUY1KYna&gaa_ts=69b2df7f&gaa_sig=ZPIz-TrUNQxUV9-TsWm9uXFzUK-pc3ziSL2Omu6hu_BVQshun_gSlRPl7rq5HA4BzPD82PN5Vu5jXIIQEPhrgw%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqf0QEcNQmezu2e1DOJk8DilcbJIK2malKFX5M196y9p-C-p-yX9pwUx&gaa_ts=69b2ef01&gaa_sig=xgp469Y5UOcfn8seUC0sLRewElDtBVFiwXhkgeaatYQy-lkV1RvxbO999d7SjV8C5RJ_-WVGcAkhfLZBCFbrew%3D%3D)**
 
 WSJ • 1d ago
 
 ---
 
-**[Rivian CEO launches robotics startup with $500M funding round: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-ceo-scaringe-launches-robotics-startup-mind-20260311/)**
+**[Rivian spinout Mind Robotics valued at $2 billion in Series A funding round](https://finance.yahoo.com/news/rivian-spinout-mind-robotics-valued-180654489.html)**
 
-Mind Robotics, a startup founded by Rivian CEO RJ Scaringe, has raised $500 million from investors including Accel and Andreessen Horowitz, according to a report from The Wall Street Journal.
+Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
-Crain's Chicago Business • 1d ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)**
+**[Rivian-owned robotics company secures more startup funding](https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding)**
 
-The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
+A startup robotics company owned by Rivian and founded by Rivian CEO RJ Scaringe has secured $500 million in startup capital. Mind Robotics announced an investment by Accel and Andreessen Horowitz. The firm wants to build AI-powered industrial robots.
 
-TechCrunch • 23h ago
+WGLT • 23h ago
 
 ---
 
@@ -138,15 +136,7 @@ TechCrunch • 23h ago
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Financial Times • 14h ago
-
----
-
-**[Asylon Robotics Announces New Advisors, Additions to Leadership Team](https://sg.finance.yahoo.com/news/asylon-robotics-announces-advisors-additions-122000795.html)**
-
-PHILADELPHIA, March 12, 2026--Asylon, a global provider of automated robotic security solutions, is pleased to announce Anthony McCarty as Senior Vice President Government, leading the company’s growth in military security services. Additionally, nationally recognized corporate security leader Michael W. Wanik, CPP, CBCP has joined Asylon’s advisory team. These appointments strengthen Asylon’s vision to replace outdated, time-consuming, and cost prohibitive legacy security plans with drones, rob
-
-Yahoo Finance Singapore • 3h ago
+Financial Times • 15h ago
 
 ---
 
@@ -154,31 +144,7 @@ Yahoo Finance Singapore • 3h ago
 
 These are some of the stocks posting the largest midday moves.
 
-CNBC • 23h ago
-
----
-
-**[Can world models unlock general purpose robotics?](https://www.bvp.com/atlas/can-world-models-unlock-general-purpose-robotics)**
-
-How world models are replacing hand-built simulators—and why they may unlock the ChatGPT moment for robotics.
-
-Bessemer Venture Partners • 6h ago
-
----
-
-**[Local robotics teams heading to state and world competition](https://www.therepublic.com/2026/03/11/local-robotics-teams-heading-to-state-and-world-competition/)**
-
-Seven local robotics teams will represent Bartholomew Consolidated School Corp. on Saturday during the 2026 Indiana State Robotics Championship, and another from CSA Fodrea has already qualified for world championship competition after organizing an event to inspire girls to explore potential careers in STEM.
-
-The Republic News • 1d ago
-
----
-
-**[Amazon is investing AU$750 million in a robotics fulfillment center in Australia](https://www.aboutamazon.com/news/company-news/australia-robotics-fulfillment-center)**
-
-Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
-
-About Amazon • 1d ago
+CNBC • 1d ago
 
 ---
 
@@ -187,6 +153,38 @@ About Amazon • 1d ago
 Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
 
 MIT Technology Review • 2d ago
+
+---
+
+**[Serve Robotics Q4 Earnings Call Highlights](https://finance.yahoo.com/news/serve-robotics-q4-earnings-call-170139032.html)**
+
+Serve Robotics (NASDAQ:SERV) used its fourth quarter 2025 earnings call to highlight a rapid scale-up of its autonomous delivery fleet and a broadening business model that now includes advertising, software, early data monetization, and healthcare robotics following a recent acquisition. Fleet scal
+
+Yahoo Finance • 23h ago
+
+---
+
+**[Can world models unlock general purpose robotics?](https://www.bvp.com/atlas/can-world-models-unlock-general-purpose-robotics)**
+
+How world models are replacing hand-built simulators—and why they may unlock the ChatGPT moment for robotics.
+
+Bessemer Venture Partners • 3h ago
+
+---
+
+**[Kamen resigns from board of directors of FIRST Robotics](https://www.wmur.com/article/kamen-resigns-first-robotics-board-031226/70724175)**
+
+New Hampshire inventor Dean Kamen has voluntarily resigned from the board of directors of FIRST Robotics.
+
+WMUR • 18m ago
+
+---
+
+**[Local robotics teams heading to state and world competition](https://www.therepublic.com/2026/03/11/local-robotics-teams-heading-to-state-and-world-competition/)**
+
+Seven local robotics teams will represent Bartholomew Consolidated School Corp. on Saturday during the 2026 Indiana State Robotics Championship, and another from CSA Fodrea has already qualified for world championship competition after organizing an event to inspire girls to explore potential careers in STEM.
+
+The Republic News • 1d ago
 
 ---
 
@@ -210,7 +208,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 7K • 👍 143 • 💬 65 • ⏱️ 4:52 • 14h ago
+👁️ 7K • 👍 143 • 💬 65 • ⏱️ 4:52 • 15h ago
 
 ---
 
@@ -220,7 +218,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 1K • 👍 29 • 💬 15 • ⏱️ 2:38 • 6h ago
+👁️ 1K • 👍 29 • 💬 15 • ⏱️ 2:38 • 7h ago
 
 ---
 

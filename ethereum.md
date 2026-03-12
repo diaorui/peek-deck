@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T15:30:25.943002+00:00'
+updated: '2026-03-12T16:36:36.300679+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 15:30 UTC  
+**Last Updated:** March 12, 2026 at 16:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,050.53
+### $2,066.76
 
 ---
 
@@ -44,8 +44,8 @@ Live Ethereum monitoring dashboard
 
 **24h:** +0.1%  
 **7d:** +4.6%  
-**30d:** +6.5%  
-**90d:** -33.6%  
+**30d:** +6.6%  
+**90d:** -33.5%  
 **1y:** +11.3%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 12h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've created a series of charts that show inflation in a way that has an emotion
 
 If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
 
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 4h ago
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 5h ago
 
 ---
 
@@ -156,7 +156,7 @@ This is a mandatory upgrade for all users running any prior version. All prior L
 
 Crypto investors need to keep their eyes on the arrival of altcoin season.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Motley Fool • 5h ago
 
 Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
 
-Sherwood News • 22h ago
+Sherwood News • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ Sherwood News • 22h ago
 
 Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
 
-CoinDesk • 3m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -180,15 +180,15 @@ CoinDesk • 3m ago
 
 BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Current price of Ethereum for March 12, 2026](https://fortune.com/article/price-of-ethereum-03-12-2026/)**
+**[Ethereum news (ETH): OP Labs cuts roles in restructuring to 'narrow focus' on core priorities](https://www.coindesk.com/business/2026/03/12/ethereum-layer-2-developer-op-labs-cuts-roles-to-narrow-focus)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+The firm plays a central role in the development of Optimism, an Ethereum layer-2 scaling network designed to make transactions faster and cheaper by processing activity off the Ethereum main chain.
 
-Fortune • 56m ago
+CoinDesk • 15m ago
 
 ---
 
@@ -198,33 +198,33 @@ Binance • 4d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfOEaZPSkeRAJZKrYzZFcwy8hzNpWkvYC4SlQuQtb5SfKcpDBch8xT5&gaa_ts=69b2df7e&gaa_sig=wy4yyJUl2YsbSCQHVNqmlMBUA5RRcQuOu6CezGaVw1T4dkjwqrKMHoKdEjoIdwBcx1OrE9muH3WhOpyZ3U7vmw%3D%3D)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqdU4OL3nRyjEToaOB5fFELnp44bdrFUU47GHqp9BOoxZ_NiyD-fencp&gaa_ts=69b2ef00&gaa_sig=eJxiNPDEsM6ue4RuTw1DOD9PSonxmO-yMmB4qURqm4P8qLEVRlADXvsKL3y0Znch6N2VOcb-kLAEEH-Gi1ZREg%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[New BlackRock Staked Ethereum Fund to Pay 82% of Rewards to Investors](https://decrypt.co/360756/new-blackrock-staked-ethereum-fund)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP attempt recovery as momentum improves](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-attempt-recovery-as-momentum-improves-202603110341)**
 
-BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of recovery, having rebounded nearly 6%, 5% and 4%, respectively, so far this week. BTC and ETH are approaching a key technical hurdle, while XRP is attempting to build momentum after stabilizing near recent lows.
 
-Decrypt • 2h ago
-
----
-
-**[OP Labs cuts 20 employees as Ethereum L2 developer narrows strategic focus](https://cryptobriefing.com/op-labs-layoffs-ethereum-l2-focus/)**
-
-OP Labs layoffs: 20 employees let go as the Ethereum L2 developer refocuses on streamlining strategies and decision-making efficiency.
-
-Crypto Briefing • 8h ago
+FXStreet • 1d ago
 
 ---
 
-**[Ethereum Price To Rally 928%? Why $10,000 Isn’t The Real ATH Target](https://www.tradingview.com/news/newsbtc:424422d87094b:0-ethereum-price-to-rally-928-why-10-000-isn-t-the-real-ath-target/)**
+**[Ethereum Price Prediction: Wall Street Is Choosing Ethereum — Is ETH Becoming the Backbone of Finance?](https://cryptonews.com/news/ethereum-price-prediction-wall-street-is-choosing-ethereum-is-eth-becoming-the-backbone-of-finance/)**
 
-Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
+Tokenized real world assets just exploded to $26.7B, and Ethereum is leading the charge, could this drive bullish Ethereum price prediction?
 
-TradingView • 1d ago
+Cryptonews • 16h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Trade Sideways As Geopolitical Caution Caps Momentum](https://www.benzinga.com/crypto/cryptocurrency/26/03/51197899/bitcoin-ethereum-xrp-dogecoin-trade-sideways-as-geopolitical-caution-caps-momentum)**
+
+Bitcoin is holding $70,000 as oil price continue to remain elevated.
+
+Benzinga • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ The wait is over! BlackRock (the world's biggest money manager) just turned on t
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 209 • 1h ago
+👁️ 2K • 👍 209 • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 7K • 👍 353 • 💬 132 • ⏱️ 13:04 • 1d ago
+👁️ 7K • 👍 353 • 💬 132 • ⏱️ 13:04 • 2d ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 379 • 👍 58 • 💬 1 • ⏱️ 5:14 • 1h ago
+👁️ 379 • 👍 58 • 💬 1 • ⏱️ 5:14 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 88 • 💬 5 • ⏱️ 4:17 • 12h ago
+👁️ 1K • 👍 88 • 💬 5 • ⏱️ 4:17 • 13h ago
 
 ---
 
@@ -308,7 +308,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 4K • 👍 344 • 43m ago
+👁️ 4K • 👍 344 • 1h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 220 • 👍 19 • 💬 1 • ⏱️ 5:05 • 5h ago
+👁️ 220 • 👍 19 • 💬 1 • ⏱️ 5:05 • 6h ago
 
 ---
 
@@ -328,7 +328,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 104 • 💬 12 • ⏱️ 18:08 • 12h ago
+👁️ 2K • 👍 104 • 💬 12 • ⏱️ 18:08 • 13h ago
 
 ---
 
