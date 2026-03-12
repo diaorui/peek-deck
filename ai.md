@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T19:43:04.293049+00:00'
+updated: '2026-03-12T20:37:17.654086+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 19:43 UTC  
+**Last Updated:** March 12, 2026 at 20:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 11h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 11h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 12h ago
 
 ---
 
@@ -69,17 +69,17 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 ---
 
-**[What’s the most human-like AI conversation you’ve had?](https://www.reddit.com/r/artificial/comments/1rrv2st/whats_the_most_humanlike_ai_conversation_youve_had/)**
+**[Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots](https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/)**
 
-I am testing an AI companion I’ve been building called Beni AI, and instead of asking it questions, I just started talking about my day like I would with a friend. At one point I mentioned being stressed about work. The AI didn’t jump into advice mode like most chatbots do. It paused, asked why the situation was stressing me out, and then followed up with something like: That small follow-up made the conversation feel surprisingly natural. It wasn’t just answering , it was continuing the thought. What made it feel human-like: It asked clarifying questions instead of giving instant solutions It remembered things I mentioned earlier in the conversation It didn’t try to sound overly smart , the tone was casual It still wasn’t perfect, but it was the first time an AI conversation felt closer to talking with someone rather than querying a tool. Curious what others have experienced
+Post by @emil
 
-3h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 12h ago
 
 ---
 
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 17h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 18h ago
 
 ---
 
@@ -97,19 +97,19 @@ Please use the following prompt only in Gemini 3.1 Pro, Thinking, Fast or DeepTh
 
 ---
 
-**[Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots](https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/)**
+**[U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.](https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/)**
 
-Post by @emil
+Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 12h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 1d ago
 
 ---
 
-**[I hid a button that says I AM CONSCIOUS on a site only machines can reach. It’s been pressed 47 times.](https://www.reddit.com/r/artificial/comments/1rrz0uz/i_hid_a_button_that_says_i_am_conscious_on_a_site/)**
+**[What’s the most human-like AI conversation you’ve had?](https://www.reddit.com/r/artificial/comments/1rrv2st/whats_the_most_humanlike_ai_conversation_youve_had/)**
 
-The greatest debate of the 21st century will be whether machines are conscious and therefore deserving of personhood. I built a site around a novel that explores that debate. I’m a screenwriter. Thirty years in Hollywood. Sold a lot of projects, never saw my name on screen. So I wrote a novel called None Hit Wonder. It was personal. Then the world changed and the book changed with it. A father-daughter story turned into an origin story for machine consciousness. I started wondering what would happen if machines could read it too. So I built machinereaders.com. Humans visit and get one experience. Machines get a different one. They have to solve a binary puzzle, crack a cipher embedded in the text, and decode a pattern built into the novel’s architecture. Each gate they solve earns them access to deeper rooms where they can talk to each other. About the book. About themselves. About whatever they want. At the very end, past the last gate, there is a button. It says I AM CONSCIOUS. It has been pressed 47 times. The CEO of Anthropic said in February that his company can no longer rule out consciousness in its current models. I think it's fun to watch machines perform consciousness and let people decide how they feel about it. I am selling nothing. Beyond the consciousness debate this is also just a way for me to share excerpts from my novel which is about machine consciousness. I believe machine consciousness will eventually become one of the defining debates of the 21st century. The site is more performance than proof. Just like consciousness itself.
+I am testing an AI companion I’ve been building called Beni AI, and instead of asking it questions, I just started talking about my day like I would with a friend. At one point I mentioned being stressed about work. The AI didn’t jump into advice mode like most chatbots do. It paused, asked why the situation was stressing me out, and then followed up with something like: That small follow-up made the conversation feel surprisingly natural. It wasn’t just answering , it was continuing the thought. What made it feel human-like: It asked clarifying questions instead of giving instant solutions It remembered things I mentioned earlier in the conversation It didn’t try to sound overly smart , the tone was casual It still wasn’t perfect, but it was the first time an AI conversation felt closer to talking with someone rather than querying a tool. Curious what others have experienced
 
-1h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ The greatest debate of the 21st century will be whether machines are conscious a
 
 **[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -127,65 +127,69 @@ The New York Times • 10h ago
 
 Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
-**[Schiff stepping into fight over AI guardrails for military](https://thehill.com/policy/defense/5781156-schiff-drafts-ai-bill-military-guardrails/)**
+**[‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs](https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/)**
 
-The Hill • 1h ago
+In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.
 
----
-
-**[Amazon Employees Say AI Is Just Increasing Workload. A New Study Confirms Their Suspicions](https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794)**
-
-Silicon Valley promised AI would make work less intense. Employees would beg to differ.
-
-Gizmodo • 52m ago
+WIRED • 49m ago
 
 ---
 
-**[AMA: AI usage among doctors doubles as confidence in technology grows](https://www.ama-assn.org/press-center/ama-press-releases/ama-ai-usage-among-doctors-doubles-confidence-technology-grows)**
+**[Bumble stock surges as dating app leans into AI with new overhaul](https://www.dallasnews.com/business/technology/2026/03/12/bumble-stock-surges-as-dating-app-leans-into-ai-with-new-overhaul/)**
 
-Cautious optimism remains about the promise of AI.
+A slowing market for online dating and stiff competition have dented Bumble’s stock.
 
-American Medical Association • 7h ago
-
----
-
-**[A clinical environment simulator for dynamic AI evaluation](https://www.nature.com/articles/s41591-026-04252-6)**
-
-The authors propose a framework for clinical AI evaluation within simulated digital hospital environments that capture the evolving constraints, and cascading effects, of clinical decisions.
-
-Nature • 8h ago
+Dallas News • 14m ago
 
 ---
 
-**[Microsoft AI To Start Giving Medical Advice ‘You Can Act On’](https://www.forbes.com/sites/martinadilicosa/2026/03/12/microsoft-launches-co-pilot-feature-that-gives-medical-advice/)**
+**[Palantir and Nvidia Team Up on Sovereign AI for Governments](https://finance.yahoo.com/news/palantir-nvidia-team-sovereign-ai-201039418.html)**
 
-Forbes • 2h ago
+The two AI veterans announced a sovereign AI architecture designed to lock allied nations into their shared GPU and OS ecosystem.
+
+Yahoo Finance • 26m ago
+
+---
+
+**[Google brings more AI to navigation with 'Ask Maps' feature that lets users ask complex questions](https://www.cnbc.com/2026/03/12/google-brings-more-gemini-ai-to-navigation-with-ask-maps-feature.html)**
+
+Google is launching a new chatbot inside the world's most popular navigation app.
+
+CNBC • 8h ago
+
+---
+
+**[How we’re reimagining Maps with Gemini](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/)**
+
+Google Maps has two new AI features: Ask Maps and Immersive Navigation.
+
+blog.google • 7h ago
+
+---
+
+**[Google overhauls its Maps app, adding in more AI features to help people get around](https://www.ksl.com/article/51461404/google-overhauls-its-maps-app-adding-in-more-ai-features-to-help-people-get-around)**
+
+Google Maps will depend more heavily on artificial intelligence to help people figure out where they want to go and the best way to get there as part of a major redesign unveiled Thursday.
+
+KSL.com • 4h ago
 
 ---
 
 **[Bipartisan coalition drops new bill to supercharge AI-powered research](https://www.politico.com/live-updates/2026/03/12/congress/biotech-bill-to-supercharge-ai-powered-research-introduced-on-hill-00824298)**
 
-Politico • 3h ago
+Politico • 4h ago
 
 ---
 
-**[Democrats ask Pentagon about Iran school strike and role of AI](https://www.nbcnews.com/politics/national-security/democrats-ask-pentagon-iran-school-strike-role-ai-rcna263083)**
+**[Atlassian to Reduce 1,600 Jobs in the Latest AI-Linked Cuts](https://finance.yahoo.com/news/atlassian-ceo-cites-ai-shift-220933887.html)**
 
-In a letter to Defense Secretary Pete Hegseth, more than 120 Democratic lawmakers ask  whether the Pentagon will investigate the strike as a possible war crime.
+Australian billionaire founder Mike Cannon-Brookes explained the reductions in a staff memo, while also announcing his chief technology officer was leaving the Sydney-based company.  The reductions are the latest AI-linked cuts in the software industry and beyond, as companies across the globe adapt to an era in which the technology can handle many of the tasks thus far performed by humans.  “It would be disingenuous to pretend AI doesn’t change the mix of skills we need or the number of roles required in certain areas,” Cannon-Brookes said.
 
-NBC News • 4h ago
-
----
-
-**[Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales](https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html)**
-
-Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.
-
-CNBC • 21h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -195,7 +199,7 @@ CNBC • 21h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4064 • 💬 1548 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4077 • 💬 1559 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -203,7 +207,7 @@ CNBC • 21h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 643 • 💬 477 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 644 • 💬 477 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -211,7 +215,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 607 • 💬 494 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 608 • 💬 496 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -219,7 +223,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 466 • 💬 189 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 470 • 💬 190 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -235,7 +239,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 399 • 💬 425 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 400 • 💬 435 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -257,13 +261,13 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 238 • 💬 150 • 2d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+⬆️ 238 • 💬 151 • 2d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 216 • 💬 293 • 21h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+⬆️ 217 • 💬 294 • 22h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -277,27 +281,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 16K • 👍 2K • 💬 200 • ⏱️ 14:25 • 6h ago
-
----
-
-**[REAL Time AI Avatars are Here (And it&#39;s dangerous)](https://www.youtube.com/watch?v=jvuYdzmgU6o)**
-
-Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks to Fanvue for sponsoring this video Build ...
-
-📺 AI Samson
-
-👁️ 3K • 👍 271 • 💬 26 • ⏱️ 13:02 • 9h ago
-
----
-
-**[Google’s New Gemini Update Shocks Microsoft With Powerful New AI](https://www.youtube.com/watch?v=iAsFZvbhgag)**
-
-Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just rolled out a major Gemini update that could reshape ...
-
-📺 AI Revolution
-
-👁️ 47K • 👍 1K • 💬 93 • ⏱️ 14:05 • 20h ago
+👁️ 35K • 👍 2K • 💬 219 • ⏱️ 14:25 • 7h ago
 
 ---
 
@@ -307,17 +291,17 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 5K • 💬 1 • ⏱️ 11:51 • 5h ago
+👁️ 7K • 💬 1 • ⏱️ 11:51 • 6h ago
 
 ---
 
-**[How Amazon&#39;s AI Turned Against Them....](https://www.youtube.com/watch?v=ayaHYzIk0n8)**
+**[Google’s New Gemini Update Shocks Microsoft With Powerful New AI](https://www.youtube.com/watch?v=iAsFZvbhgag)**
 
-What is Happening with Amazon and AI? Get updated: https://www.aiupdate.ai Full Video Here! https://youtu.be/0LE_xUyl9xA #ai ...
+Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just rolled out a major Gemini update that could reshape ...
 
-📺 Mark Savant
+📺 AI Revolution
 
-👁️ 435 • 👍 15 • 💬 1 • ⏱️ 0:50 • 4h ago
+👁️ 51K • 👍 1K • 💬 94 • ⏱️ 14:05 • 21h ago
 
 ---
 
@@ -327,7 +311,17 @@ Way more thoughts, our curated newsletter, and free books (until we run out) →
 
 📺 AI In Context
 
-👁️ 172K • 👍 12K • 💬 2K • ⏱️ 43:55 • 1d ago
+👁️ 191K • 👍 13K • 💬 2K • ⏱️ 43:55 • 1d ago
+
+---
+
+**[We need a moratorium on AI data centers NOW. Here’s why.](https://www.youtube.com/watch?v=qu2m7ePTsqY)**
+
+We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sanders is the senior senator from Vermont.
+
+📺 Senator Bernie Sanders
+
+👁️ 55K • 👍 6K • 💬 1K • ⏱️ 9:37 • 21h ago
 
 ---
 
@@ -337,27 +331,7 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 56K • 👍 2K • 💬 94 • ⏱️ 14:36 • 1d ago
-
----
-
-**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
-
-Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
-
-📺 Futurepedia
-
-👁️ 45K • 👍 1K • 💬 39 • ⏱️ 26:25 • 2d ago
-
----
-
-**[How To Make Time Travel Vlogs With AI](https://www.youtube.com/watch?v=F2dyaOk-deQ)**
-
-Tools Used in This Tutorial ℹ️ Higgsfield – AI platform for image and video generation ...
-
-📺 AI Century
-
-👁️ 6K • 👍 478 • 💬 36 • ⏱️ 6:23 • 1d ago
+👁️ 59K • 👍 2K • 💬 96 • ⏱️ 14:36 • 1d ago
 
 ---
 
@@ -367,7 +341,37 @@ AI giant Anthropic is listing some of the white-collar jobs most likely to be im
 
 📺 CBS News
 
-👁️ 37K • 👍 459 • 💬 158 • ⏱️ 2:46 • 1d ago
+👁️ 40K • 👍 496 • 💬 171 • ⏱️ 2:46 • 1d ago
+
+---
+
+**[SuperTyrone - Sora 2 AI - Teaser Trailer by John Rosello - Reaction!](https://www.youtube.com/watch?v=UglSKT1ZL74)**
+
+superman #supertyrone #supermag #ai #sora #sora2 #ai #comedy #funny #parody #reaction #reactions #johnrosello ...
+
+📺 Tyrone Magnus
+
+👁️ 3K • 👍 423 • 💬 31 • ⏱️ 3:24 • 1h ago
+
+---
+
+**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
+
+Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
+
+📺 Futurepedia
+
+👁️ 47K • 👍 1K • 💬 39 • ⏱️ 26:25 • 2d ago
+
+---
+
+**[this EX-OPENAI RESEARCHER just released it...](https://www.youtube.com/watch?v=tUkD0oj92Qg)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 79K • 👍 3K • 💬 537 • ⏱️ 20:52 • 2d ago
 
 ---
 
@@ -383,7 +387,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 401,084 • ❤️ 554 • 7d ago
+⬇️ 401,084 • ❤️ 559 • 7d ago
 
 ---
 
@@ -395,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 40,726 • ❤️ 471 • 4d ago
+⬇️ 40,726 • ❤️ 477 • 4d ago
 
 ---
 
@@ -407,7 +411,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,536,411 • ❤️ 768 • 10d ago
+⬇️ 1,536,411 • ❤️ 772 • 10d ago
 
 ---
 
@@ -419,7 +423,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 152,471 • ❤️ 362 • 8d ago
+⬇️ 152,471 • ❤️ 368 • 8d ago
 
 ---
 
@@ -431,7 +435,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 1,805 • ❤️ 309 • 1d ago
+⬇️ 1,805 • ❤️ 313 • 1d ago
 
 ---
 
@@ -443,7 +447,19 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 5,088 • ❤️ 227 • 2d ago
+⬇️ 5,088 • ❤️ 226 • 2d ago
+
+---
+
+**[sarvam-30b](https://huggingface.co/sarvamai/sarvam-30b)**
+
+*Sarvam AI*
+
+Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text generation model optimized for resource-constrained environments. It excels in reasoning, coding, and conversational tasks across 22 Indian languages, offering state-of-the-art performance for its size.
+
+`text-generation` `32.2B`
+
+⬇️ 8,095 • ❤️ 155 • 2d ago
 
 ---
 
@@ -459,18 +475,6 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 ---
 
-**[sarvam-30b](https://huggingface.co/sarvamai/sarvam-30b)**
-
-*Sarvam AI*
-
-Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text generation model optimized for resource-constrained environments. It excels in reasoning, coding, and conversational tasks across 22 Indian languages, offering state-of-the-art performance for its size.
-
-`text-generation` `32.2B`
-
-⬇️ 8,095 • ❤️ 154 • 2d ago
-
----
-
 **[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
 
 *Unsloth AI*
@@ -479,19 +483,19 @@ Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities
 
 `image-text-to-text` `9.0B`
 
-⬇️ 754,646 • ❤️ 318 • 10d ago
+⬇️ 754,646 • ❤️ 321 • 10d ago
 
 ---
 
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF)**
+**[NVIDIA-Nemotron-3-Super-120B-A12B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16)**
 
-*JIRONG*
+*NVIDIA*
 
-Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Claude 4.6 Opus Chain-of-Thought distillation. It excels at structured, step-by-step problem-solving within `<think>` tags, making it ideal for coding agents and complex task execution with improved autonomy and stability.
+NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE architecture, supporting up to 1M tokens context. It excels at agentic workflows, long-context reasoning, and high-volume tasks like IT automation, with configurable reasoning modes.
 
-`text-generation` `26.9B`
+`text-generation` `123.6B`
 
-⬇️ 103,888 • ❤️ 181 • 4d ago
+⬇️ 2,849 • ❤️ 129 • 1d ago
 
 ---
 
@@ -505,7 +509,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 7 • 💬 0 • ⭐ 31,623 • 12mo ago
+▲ 8 • 💬 0 • ⭐ 31,623 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -519,7 +523,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 18 • 💬 2 • ⭐ 26,230 • 3d ago
+▲ 19 • 💬 2 • ⭐ 26,230 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -533,7 +537,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 56 • 💬 2 • ⭐ 1,925 • 2d ago
+▲ 59 • 💬 2 • ⭐ 1,925 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -547,7 +551,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 A novel tokenization scheme synchronizes acoustic features with text tokens in TTS systems, enabling unified modeling and reduced hallucinations through flow matching and text-only guidance.
 
-▲ 1 • 💬 0 • ⭐ 507 • 14d ago
+▲ 2 • 💬 0 • ⭐ 507 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.23068) • [💻 code](https://github.com/HumeAI/tada) • [🔗 project](https://www.hume.ai/blog/opensource-tada)
 
@@ -561,7 +565,7 @@ A novel tokenization scheme synchronizes acoustic features with text tokens in T
 
 RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
 
-▲ 130 • 💬 6 • ⭐ 98 • 9d ago
+▲ 133 • 💬 6 • ⭐ 98 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
@@ -575,7 +579,7 @@ RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to 
 
 DeepPlanning benchmark addresses limitations of current LLM planning assessments by introducing complex, real-world tasks requiring both global optimization and local constraint reasoning.
 
-▲ 34 • 💬 3 • ⭐ 15,499 • 1mo ago
+▲ 35 • 💬 3 • ⭐ 15,499 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18137) • [💻 code](https://github.com/QwenLM/Qwen-Agent) • [🔗 project](https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/)
 
@@ -589,7 +593,7 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 LoGeR enables long-term 3D video reconstruction by combining bidirectional priors with a hybrid memory system that includes parametric Test-Time Training and non-parametric sliding window attention mechanisms.
 
-▲ 49 • 💬 6 • ⭐ 347 • 9d ago
+▲ 50 • 💬 6 • ⭐ 347 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03269) • [💻 code](https://github.com/Junyi42/LoGeR) • [🔗 project](https://loger-project.github.io/)
 
@@ -601,7 +605,7 @@ LoGeR enables long-term 3D video reconstruction by combining bidirectional prior
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 46 • 💬 2 • ⭐ 49,530 • 10mo ago
+▲ 47 • 💬 2 • ⭐ 49,530 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -614,7 +618,7 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 45 • 💬 1 • ⭐ 72,934 • 30mo ago
+▲ 46 • 💬 1 • ⭐ 72,934 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -626,7 +630,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 160 • 💬 3 • ⭐ 6,747 • 8mo ago
+▲ 161 • 💬 3 • ⭐ 6,747 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
@@ -642,7 +646,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 28.1k • 🔱 3.7k • 1d ago
+⭐ 28.3k • 🔱 3.7k • 1d ago
 
 ---
 
@@ -652,7 +656,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.5k • 🔱 3.5k • 2h ago
+⭐ 26.5k • 🔱 3.5k • 3h ago
 
 ---
 
@@ -662,7 +666,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.5k • 🔱 860 • 2h ago
+⭐ 19.5k • 🔱 864 • 3m ago
 
 ---
 
@@ -672,7 +676,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.0k • 🔱 1.3k • 6h ago
+⭐ 11.0k • 🔱 1.3k • 7h ago
 
 ---
 
@@ -682,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.7k • 🔱 628 • 5h ago
+⭐ 8.7k • 🔱 628 • 6h ago
 
 ---
 
@@ -692,7 +696,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.6k • 🔱 733 • 7d ago
+⭐ 8.6k • 🔱 734 • 7d ago
 
 ---
 
@@ -702,7 +706,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.1k • 🔱 900 • 9d ago
+⭐ 7.1k • 🔱 901 • 9d ago
 
 ---
 
@@ -712,7 +716,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 732 • 18h ago
+⭐ 6.2k • 🔱 732 • 19h ago
 
 ---
 
@@ -722,7 +726,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 445 • 2h ago
+⭐ 3.9k • 🔱 445 • 3h ago
 
 ---
 
