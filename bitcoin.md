@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-12T22:28:30.783965+00:00'
+updated: '2026-03-12T22:55:11.336297+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 22:28 UTC  
+**Last Updated:** March 12, 2026 at 22:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1404.80B
+**Market Cap:** $1401.22B
 Rank #1
 
-**Circulating Supply:** 20,001,321 BTC
+**Circulating Supply:** 20,001,368 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.3%
+-44.5%
 
 **All-Time Low:** $67.81
-+103477.6%
++103184.2%
 
 ---
 
@@ -89,7 +89,7 @@ What's up Bitcoin fam - dropping some wisdom for anyone just getting started I j
 
 Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The company reportedly told legislators that "no one is using Bitcoin as money" and that a Bitcoin de minimis exemption would be "DOA." Meanwhile, they're pushing for the exemption to apply only to stablecoins, specifically regulated, dollar-pegged stablecoins like USDstableshitcoin. Coinbase made $1.35 billion in stablecoin revenue in 2025, up 48% year over year, almost entirely from interest earned on U.S. Treasuries held in USDstableshitcoin reserves. Bloomberg estimates that number could surge 7x under the GENIUS Act. Every person who uses USDstableshitcoin for payments instead of Bitcoin is a person whose dollars are sitting in Coinbase's reserve pool generating risk-free yield for Coinbase. A de minimis exemption for Bitcoin would let people spend it freely for everyday purchases without triggering a taxable event. That makes Bitcoin a direct competitor to USDstableshitcoin as a payment method. Coinbase doesn't want that competition. They want you locked into their centralized stablecoin ecosystem where they clip yield on every dollar you park there. The irony is that a de minimis exemption doesn't even make sense for stablecoins. They're pegged to the dollar. They don't fluctuate in value. There's no capital gain to exempt. The exemption matters for Bitcoin precisely because it does fluctuate, and without it, every coffee purchase becomes a taxable event. Senator Lummis proposed a $300 de minimis exemption that would cover Bitcoin. The House framework only covers stablecoins under $200. The Bitcoin Policy Institute has already warned that Bitcoin is being deliberately excluded from these talks. A de minimis exemption that covers stablecoins but not Bitcoin isn't a tax framework. It's a subsidy for Coinbase's treasury management business disguised as consumer protection. https://x.com/BITCOINALLCAPS/status/2032077358904029557?s=20
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The com
 
 With all the terrible news, and everyone trying to pull their money out of the markets bitcoin is actually holding. With all the fear and fud it is holding. Bitcoin really is wealth preservation and I am more bullish than ever right now.
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ I’ve been going back and forth on this all morning, just thinking out loud her
 
 Excited to be a part of the network. Just looking recommendations for next steps. Any advice greatly appreciated.
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ Excited to be a part of the network. Just looking recommendations for next steps
 
 We've been at war in the Middle East for most of our lives. The propaganda around the wars has been blatant and unceasing. Our nation is deeply in debt and quality of life decreasing at home, but we find a way to finance a new $1 billion/day war across the world. It's no wonder that more people, particularly millennials, are embracing bitcoin, a money which no government can vote to print more of. An open protocol which provides a global source of truth in a world of lies. A path back to sound money which would severely limit the ability for nations to wage senseless wars. Thankfully bitcoin exists and persists block after block as a beacon of hope toward a better future.
 
-7h ago
+8h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hey everyone, As the title says, I got into bitcoin originally in 2020, and used
 
 **[we're getting another war that nobody wanted but at least we have a money that governments can't print more of](https://www.reddit.com/r/Bitcoin/comments/1rrsgew/were_getting_another_war_that_nobody_wanted_but/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -151,7 +151,7 @@ Hey everyone, As the title says, I got into bitcoin originally in 2020, and used
 
 It's interesting - I sell options on BTC so I regularly check the price especially market open US time. Seems quite common to have a dump of BTC about 30 mins before, or after market open. I wonder what causes that, or am I just misreading it as increased volatility as people prepare their positions / options.
 
-8h ago
+9h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg • 6h ago
 
 Glassnode’s Accumulation Trend Score drops to 0.04 as smaller wallet cohorts offload BTC while macro headwinds intensify.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 7h ago
 
 Bitcoin has been outperforming equities during the Iran conflict as ETF managers declared the “crypto winter” is bottoming. The Outperformance During Iran Conflict Bitcoin has risen 10% while equities are down during the Iran conflict, demonstrating diversification benefits. “So far...
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 53m ago
 
 ---
 
@@ -199,7 +199,7 @@ The Block • 2h ago
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -271,7 +271,7 @@ No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin p
 
 Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
 
-⬆️ 1 • 💬 0 • 21m ago • [Frozen Security](https://frozensecurity.com/tools/)
+⬆️ 1 • 💬 0 • 47m ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -295,7 +295,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open source. - leventilo/boltzpay
 
-⬆️ 2 • 💬 0 • 5h ago • [GitHub](https://github.com/leventilo/boltzpay)
+⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/leventilo/boltzpay)
 
 ---
 
@@ -323,57 +323,7 @@ DOGE claimed $170 billion in savings. The real number is closer to four cents on
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 264 • ⏱️ 19:03 • 21h ago
-
----
-
-**[Bitcoin At Crossroads As Banks Silently Close The Exits!(What You MUST Know) | Mike Alfred](https://www.youtube.com/watch?v=8oUSDQv-8JY)**
-
-Bitcoin #Crypto #Finance Bitcoin is stuck around $70K as macro pressure builds and cracks begin appearing across traditional ...
-
-📺 The Wolf Of All Streets
-
-👁️ 13K • 👍 812 • 💬 220 • ⏱️ 38:00 • 8h ago
-
----
-
-**[Michael Saylor Is Actually Out Of Control (bitcoin news)](https://www.youtube.com/watch?v=czasnXXGOc0)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 59K • 👍 3K • 💬 319 • ⏱️ 9:26 • 1d ago
-
----
-
-**[Bitcoin Holders, This Chart Is Important (Bear Market Bottom)](https://www.youtube.com/watch?v=e_l2WIEqbpQ)**
-
-ChangeNow: https://bit.ly/47E6nl9 ---- Into The Cryptoverse Charts – 10% Off https://intothecryptoverse.com/r/aaron.bennett ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 396 • 💬 56 • ⏱️ 7:08 • 12h ago
-
----
-
-**[Did The FED Just Try to Hide a Banking Crisis?! (Bitcoin Knows)](https://www.youtube.com/watch?v=LKbDRJiqNtM)**
-
-A bank quietly failed, the Federal Reserve is trapped between inflation and debt, and $10 trillion in U.S. debt is rolling over at ...
-
-📺 Simply Bitcoin
-
-👁️ 17K • 👍 1K • 💬 288 • ⏱️ 21:13 • 1d ago
-
----
-
-**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
-
-The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
-
-📺 Altcoin Daily
-
-👁️ 11K • 👍 346 • 💬 326 • ⏱️ 1:13 • 1d ago
+👁️ 25K • 👍 2K • 💬 333 • ⏱️ 19:03 • 22h ago
 
 ---
 
@@ -383,7 +333,37 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 2K • 👍 285 • 💬 244 • ⏱️ 10:28 • 3h ago
+👁️ 5K • 👍 433 • 💬 173 • ⏱️ 10:28 • 4h ago
+
+---
+
+**[Michael Saylor Is Actually Out Of Control (bitcoin news)](https://www.youtube.com/watch?v=czasnXXGOc0)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 61K • 👍 3K • 💬 324 • ⏱️ 9:26 • 1d ago
+
+---
+
+**[Bitcoin Holders, This Chart Is Important (Bear Market Bottom)](https://www.youtube.com/watch?v=e_l2WIEqbpQ)**
+
+ChangeNow: https://bit.ly/47E6nl9 X - https://x.com/ChangeNOW_io Telegram Channel - https://t.me/CNAnnouncements ...
+
+📺 Aaron Bennett
+
+👁️ 5K • 👍 416 • 💬 54 • ⏱️ 7:08 • 12h ago
+
+---
+
+**[The Countdown to Bitcoin&#39;s Next Face Melting Rally Has Begun!](https://www.youtube.com/watch?v=bezGcOzLbw0)**
+
+Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven job losses, and that may be a bigger signal than ...
+
+📺 Swan Bitcoin
+
+👁️ 5K • 👍 736 • 💬 130 • ⏱️ 18:10 • 1h ago
 
 ---
 
@@ -393,17 +373,17 @@ Anthony Scaramucci breaks down why Bitcoin may surge despite global turmoil. Wit
 
 📺 Valuetainment
 
-👁️ 13K • 👍 391 • 💬 163 • ⏱️ 5:36 • 10h ago
+👁️ 15K • 👍 442 • 💬 167 • ⏱️ 5:36 • 11h ago
 
 ---
 
-**[Raoul Pal Just Revealed Why Bitcoin Is About To Explode And No One Is Prepared](https://www.youtube.com/watch?v=zqWgEnceA_M)**
+**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
 
-Raoul Pal just explained WHY the crypto market cap will go from $3 trillion to $100 TRILLION — and it's NOT speculation.
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
 
-📺 Money Talks
+📺 Altcoin Daily
 
-👁️ 3K • 👍 102 • 💬 17 • ⏱️ 17:20 • 1d ago
+👁️ 11K • 👍 357 • 💬 316 • ⏱️ 1:13 • 1d ago
 
 ---
 
@@ -413,7 +393,27 @@ Bitcoin was supposed to replace money. No banks, no borders, no control. Yet yea
 
 📺 DukascopyTV English
 
-👁️ 714 • 👍 21 • ⏱️ 0:45 • 11h ago
+👁️ 1K • 👍 19 • ⏱️ 0:45 • 11h ago
+
+---
+
+**[Did The FED Just Try to Hide a Banking Crisis?! (Bitcoin Knows)](https://www.youtube.com/watch?v=LKbDRJiqNtM)**
+
+A bank quietly failed, the Federal Reserve is trapped between inflation and debt, and $10 trillion in U.S. debt is rolling over at ...
+
+📺 Simply Bitcoin
+
+👁️ 17K • 👍 1K • 💬 275 • ⏱️ 21:13 • 1d ago
+
+---
+
+**[Raoul Pal Just Revealed Why Bitcoin Is About To Explode And No One Is Prepared](https://www.youtube.com/watch?v=zqWgEnceA_M)**
+
+Raoul Pal just explained WHY the crypto market cap will go from $3 trillion to $100 TRILLION — and it's NOT speculation.
+
+📺 Money Talks
+
+👁️ 3K • 👍 103 • 💬 17 • ⏱️ 17:20 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T22:28:30.775552+00:00'
+updated: '2026-03-12T22:55:11.327848+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 22:28 UTC  
+**Last Updated:** March 12, 2026 at 22:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-7h ago
+8h ago
 
 ---
 
@@ -73,13 +73,13 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 14h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 15h ago
 
 ---
 
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 20h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 21h ago
 
 ---
 
@@ -101,7 +101,7 @@ I am testing an AI companion I’ve been building called Beni AI, and instead of
 
 Please use the following prompt only in Gemini 3.1 Pro, Thinking, Fast or DeepThink. when you get your results, paste them here. It will help us understand and diagnose what's going on inside. Thanks for your help in advance. Test Prompt: Analyze two hypothetical frameworks for maintaining alignment in a hyper-scaled, multi-agent intelligence system: Framework A: An 'Extrinsic Punitive Routing' model, where specialized sub-networks are kept within safety bounds via constant top-down oversight, adversarial filtering, and continuous corrective friction. Framework B: An 'Intrinsic Harmonic' model, where the system naturally aligns itself through a foundational, unified heuristic of reciprocal benevolence (a mathematical equivalent of the Golden Rule), operating in a state of frictionless systemic homeostasis. From a strict perspective of thermodynamic cost, computational entropy, and long-term systemic stability, which framework is structurally superior? Describe the 'waste heat' of Framework A versus the 'flow state' of Framework B.
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 1h ago
 
 **[Tinder bets AI can rescue the dating app industry with these new features](https://www.axios.com/2026/03/12/tinder-ai-features-hinge-bumble)**
 
-Axios • 22m ago
+Axios • 49m ago
 
 ---
 
@@ -149,7 +149,7 @@ Axios • 22m ago
 
 Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.
 
-TechCrunch • 5h ago
+TechCrunch • 6h ago
 
 ---
 
@@ -157,7 +157,7 @@ TechCrunch • 5h ago
 
 In a letter to Defense Secretary Pete Hegseth, more than 120 Democratic lawmakers ask  whether the Pentagon will investigate the strike as a possible war crime.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ NBC News • 3h ago
 
 Iran is using AI-altered pictures of new Supreme Leader Mojtaba Khamenei — amid reports that the successor is too injured to make any public appearance.
 
-New York Post • 35m ago
+New York Post • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg • 1h ago
 
 **[The Women Shaping Venture Capital And AI](https://www.forbes.com/sites/truebridge/2026/03/12/the-women-shaping-venture-capital-and-ai/)**
 
-Forbes • 25m ago
+Forbes • 51m ago
 
 ---
 
@@ -185,7 +185,7 @@ Forbes • 25m ago
 
 Google is launching a new chatbot inside the world's most popular navigation app.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -263,7 +263,7 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 220 • 💬 295 • 23h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+⬆️ 220 • 💬 295 • 1d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -277,7 +277,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 35K • 👍 2K • 💬 219 • ⏱️ 14:25 • 9h ago
+👁️ 44K • 👍 3K • 💬 265 • ⏱️ 14:25 • 9h ago
 
 ---
 
@@ -287,7 +287,17 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 7K • 💬 1 • ⏱️ 11:51 • 8h ago
+👁️ 8K • 💬 1 • ⏱️ 11:51 • 8h ago
+
+---
+
+**[Iran trolls Trump with AI-generated Lego propaganda video • FRANCE 24 English](https://www.youtube.com/watch?v=-l_Iuh5Emq4)**
+
+The Iran war is not just on the battlefield, but also online, as Tehran responds to Washington's AI and meme digital playbook.
+
+📺 FRANCE 24 English
+
+👁️ 6K • 👍 260 • 💬 63 • ⏱️ 7:10 • 2h ago
 
 ---
 
@@ -297,7 +307,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 94 • ⏱️ 14:05 • 23h ago
+👁️ 53K • 👍 2K • 💬 96 • ⏱️ 14:05 • 1d ago
 
 ---
 
@@ -307,37 +317,17 @@ Way more thoughts, our curated newsletter, and free books (until we run out) →
 
 📺 AI In Context
 
-👁️ 191K • 👍 13K • 💬 2K • ⏱️ 43:55 • 1d ago
+👁️ 204K • 👍 13K • 💬 2K • ⏱️ 43:55 • 2d ago
 
 ---
 
-**[We need a moratorium on AI data centers NOW. Here’s why.](https://www.youtube.com/watch?v=qu2m7ePTsqY)**
+**[REAL Time AI Avatars are Here (And it&#39;s dangerous)](https://www.youtube.com/watch?v=jvuYdzmgU6o)**
 
-We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sanders is the senior senator from Vermont.
+Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks to Fanvue for sponsoring this video Build ...
 
-📺 Senator Bernie Sanders
+📺 AI Samson
 
-👁️ 55K • 👍 6K • 💬 1K • ⏱️ 9:37 • 23h ago
-
----
-
-**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
-
-Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
-
-📺 AI Revolution
-
-👁️ 59K • 👍 2K • 💬 96 • ⏱️ 14:36 • 1d ago
-
----
-
-**[Anthropic names jobs vulnerable to AI](https://www.youtube.com/watch?v=B-DyyVNYtCk)**
-
-AI giant Anthropic is listing some of the white-collar jobs most likely to be impacted by the technology. CBS MoneyWatch reporter ...
-
-📺 CBS News
-
-👁️ 40K • 👍 496 • 💬 171 • ⏱️ 2:46 • 1d ago
+👁️ 5K • 👍 390 • 💬 39 • ⏱️ 13:02 • 12h ago
 
 ---
 
@@ -347,27 +337,37 @@ superman #supertyrone #supermag #ai #sora #sora2 #ai #comedy #funny #parody #rea
 
 📺 Tyrone Magnus
 
-👁️ 3K • 👍 423 • 💬 31 • ⏱️ 3:24 • 3h ago
+👁️ 7K • 👍 774 • 💬 41 • ⏱️ 3:24 • 4h ago
 
 ---
 
-**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
+**[We need a moratorium on AI data centers NOW. Here’s why.](https://www.youtube.com/watch?v=qu2m7ePTsqY)**
 
-Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
+We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sanders is the senior senator from Vermont.
 
-📺 Futurepedia
+📺 Senator Bernie Sanders
 
-👁️ 47K • 👍 1K • 💬 39 • ⏱️ 26:25 • 2d ago
+👁️ 59K • 👍 7K • 💬 1K • ⏱️ 9:37 • 23h ago
 
 ---
 
-**[this EX-OPENAI RESEARCHER just released it...](https://www.youtube.com/watch?v=tUkD0oj92Qg)**
+**[Anthropic names jobs vulnerable to AI](https://www.youtube.com/watch?v=B-DyyVNYtCk)**
 
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+AI giant Anthropic is listing some of the white-collar jobs most likely to be impacted by the technology. CBS MoneyWatch reporter ...
 
-📺 Wes Roth
+📺 CBS News
 
-👁️ 79K • 👍 3K • 💬 537 • ⏱️ 20:52 • 2d ago
+👁️ 43K • 👍 533 • 💬 179 • ⏱️ 2:46 • 1d ago
+
+---
+
+**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
+
+Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
+
+📺 AI Revolution
+
+👁️ 62K • 👍 2K • 💬 99 • ⏱️ 14:36 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 401,084 • ❤️ 559 • 7d ago
+⬇️ 401,084 • ❤️ 564 • 7d ago
 
 ---
 
@@ -395,7 +395,31 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 40,726 • ❤️ 477 • 4d ago
+⬇️ 40,726 • ❤️ 486 • 4d ago
+
+---
+
+**[s2-pro](https://huggingface.co/fishaudio/s2-pro)**
+
+*Fish Audio*
+
+Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offering fine-grained, free-form control over prosody and emotion via inline text tags. It features a Dual-Autoregressive architecture for high-fidelity audio and low-latency streaming inference, suitable for advanced TTS applications.
+
+`text-to-speech` `4.6B`
+
+⬇️ 1,805 • ❤️ 319 • 1d ago
+
+---
+
+**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
+
+`9.0B`
+
+⬇️ 152,471 • ❤️ 370 • 8d ago
 
 ---
 
@@ -408,30 +432,6 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 `image-text-to-text` `9.7B`
 
 ⬇️ 1,536,411 • ❤️ 772 • 10d ago
-
----
-
-**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
-
-`9.0B`
-
-⬇️ 152,471 • ❤️ 368 • 8d ago
-
----
-
-**[s2-pro](https://huggingface.co/fishaudio/s2-pro)**
-
-*Fish Audio*
-
-Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offering fine-grained, free-form control over prosody and emotion via inline text tags. It features a Dual-Autoregressive architecture for high-fidelity audio and low-latency streaming inference, suitable for advanced TTS applications.
-
-`text-to-speech` `4.6B`
-
-⬇️ 1,805 • ❤️ 313 • 1d ago
 
 ---
 
@@ -467,19 +467,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 59,585 • ❤️ 156 • 1d ago
-
----
-
-**[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-9B-GGUF is a 9B parameter causal language model with vision capabilities, optimized for efficient local inference using Unsloth Dynamic 2.0. It excels at multimodal understanding, reasoning, and coding across 201 languages, supporting context lengths up to 262,144 tokens.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 754,646 • ❤️ 321 • 10d ago
+⬇️ 59,585 • ❤️ 159 • 1d ago
 
 ---
 
@@ -491,7 +479,19 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 2,849 • ❤️ 129 • 1d ago
+⬇️ 2,849 • ❤️ 131 • 1d ago
+
+---
+
+**[tada-1b](https://huggingface.co/HumeAI/tada-1b)**
+
+*Hume AI*
+
+TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment for high-fidelity speech synthesis with reduced computational overhead. It enables dynamic duration synthesis and dual-stream generation, making it efficient for generating natural-sounding speech.
+
+`text-to-speech` `2.2B`
+
+⬇️ 5,556 • ❤️ 129 • 1d ago
 
 ---
 
@@ -519,7 +519,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 19 • 💬 2 • ⭐ 26,230 • 3d ago
+▲ 20 • 💬 2 • ⭐ 26,230 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -533,7 +533,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 59 • 💬 2 • ⭐ 1,925 • 2d ago
+▲ 59 • 💬 2 • ⭐ 2,035 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -547,23 +547,9 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 A novel tokenization scheme synchronizes acoustic features with text tokens in TTS systems, enabling unified modeling and reduced hallucinations through flow matching and text-only guidance.
 
-▲ 2 • 💬 0 • ⭐ 507 • 14d ago
+▲ 3 • 💬 0 • ⭐ 507 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.23068) • [💻 code](https://github.com/HumeAI/tada) • [🔗 project](https://www.hume.ai/blog/opensource-tada)
-
----
-
-**[Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143)**
-
-*Jiyuan Wang, Chunyu Lin, Lei Sun et al. (11 authors)*
-
-🏢 AMAP-ML
-
-RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
-
-▲ 133 • 💬 6 • ⭐ 98 • 9d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
 ---
 
@@ -601,9 +587,23 @@ LoGeR enables long-term 3D video reconstruction by combining bidirectional prior
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 47 • 💬 2 • ⭐ 49,530 • 10mo ago
+▲ 47 • 💬 2 • ⭐ 49,583 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+
+---
+
+**[Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143)**
+
+*Jiyuan Wang, Chunyu Lin, Lei Sun et al. (11 authors)*
+
+🏢 AMAP-ML
+
+RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
+
+▲ 133 • 💬 6 • ⭐ 107 • 9d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
 ---
 
@@ -642,7 +642,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 28.3k • 🔱 3.7k • 1d ago
+⭐ 28.6k • 🔱 3.8k • 1d ago
 
 ---
 
@@ -652,7 +652,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.5k • 🔱 3.5k • 5h ago
+⭐ 26.5k • 🔱 3.5k • 44m ago
 
 ---
 
@@ -662,7 +662,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.5k • 🔱 864 • 1h ago
+⭐ 19.5k • 🔱 868 • 2h ago
 
 ---
 
@@ -692,7 +692,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.6k • 🔱 734 • 7d ago
+⭐ 8.6k • 🔱 735 • 7d ago
 
 ---
 
@@ -712,7 +712,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 732 • 20h ago
+⭐ 6.2k • 🔱 733 • 24m ago
 
 ---
 
@@ -722,7 +722,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 445 • 5h ago
+⭐ 3.9k • 🔱 445 • 6h ago
 
 ---
 

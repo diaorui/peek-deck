@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T22:28:30.793174+00:00'
+updated: '2026-03-12T22:55:11.345482+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 22:28 UTC  
+**Last Updated:** March 12, 2026 at 22:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-11h ago
+12h ago
 
 ---
 
@@ -70,7 +70,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 We recently published research showing how generative AI can dramatically lower the barrier to entry for robot security research. Using Cybersecurity AI (CAI) we analyzed three real consumer robots: • robotic lawn mower • powered exoskeleton • window-cleaning robot In ~7 hours the system identified 38 vulnerabilities including firmware exploitation paths, BLE command injection and unauthenticated root access. Historically this kind of analysis required weeks of specialized robotics security research. Paper: https://arxiv.org/pdf/2603.08665
 
-7h ago
+8h ago
 
 ---
 
@@ -78,7 +78,7 @@ We recently published research showing how generative AI can dramatically lower 
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-13h ago
+14h ago
 
 ---
 
@@ -86,7 +86,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 Manual machined tip method takes too long and aligning these parts is not accurate. How often are people here repeating this process? For us it's at least once a month.
 
-4h ago
+5h ago
 
 ---
 
@@ -94,13 +94,13 @@ Manual machined tip method takes too long and aligning these parts is not accura
 
 Researchers have built a small wheeled robot designed to travel inside the beam pipes of the Large Hadron Collider. The collider’s vacuum tubes run for long distances and are extremely narrow, which makes internal inspection difficult once the system is assembled. The robot is designed to move through these confined spaces and capture information about the condition of the pipe interior, helping identify potential debris, damage, or other issues. Because the environment is so constrained, the system has to be compact and able to move carefully through the pipe without interfering with the structure or instrumentation.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 2h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 3h ago
 
 ---
 
 **[FlashHead: Up to 40% Faster Multimodal Reasoning on Top of Quantization](https://www.reddit.com/r/robotics/comments/1rrtvm2/flashhead_up_to_40_faster_multimodal_reasoning_on/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -142,7 +142,7 @@ Financial Times • 21h ago
 
 Rhoda AI said it designed the system to operate beyond controlled laboratory demonstrations and into real-world environments.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -190,23 +190,13 @@ NVIDIA Blog • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[Tesla has a China problem with their humanoid robots.  Lots of them.](https://www.youtube.com/watch?v=ezTPzAwKVng)**
-
-Tesla is shifting focus in the US market from Electric Vehicles, to the production of humanoid robots. The company is repurposing ...
-
-📺 Inside China Business
-
-👁️ 17K • 👍 2K • 💬 381 • ⏱️ 5:32 • 5h ago
-
----
-
 **[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
 
 OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
 
 📺 AI Revolution
 
-👁️ 68K • 👍 2K • 💬 101 • ⏱️ 14:51 • 3d ago
+👁️ 69K • 👍 2K • 💬 102 • ⏱️ 14:51 • 3d ago
 
 ---
 
@@ -216,37 +206,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 8K • 👍 144 • 💬 69 • ⏱️ 4:52 • 21h ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN
-
-👁️ 283K • 👍 3K • 💬 448 • ⏱️ 29:41 • 6d ago
-
----
-
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
-
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
-
-📺 Reuters
-
-👁️ 2K • 👍 41 • 💬 16 • ⏱️ 2:38 • 13h ago
-
----
-
-**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
-
-Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
-
-📺 Smokin' Silicon
-
-👁️ 50K • 👍 2K • 💬 112 • ⏱️ 10:52 • 5d ago
+👁️ 8K • 👍 155 • 💬 69 • ⏱️ 4:52 • 21h ago
 
 ---
 
@@ -256,7 +216,67 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 16K • 👍 103 • 💬 30 • ⏱️ 3:48 • 3d ago
+👁️ 16K • 👍 104 • 💬 30 • ⏱️ 3:48 • 3d ago
+
+---
+
+**[Tesla has a China problem with their humanoid robots.  Lots of them.](https://www.youtube.com/watch?v=ezTPzAwKVng)**
+
+Tesla is shifting focus in the US market from Electric Vehicles, to the production of humanoid robots. The company is repurposing ...
+
+📺 Inside China Business
+
+👁️ 26K • 👍 3K • 💬 453 • ⏱️ 5:32 • 6h ago
+
+---
+
+**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
+
+Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
+
+📺 Smokin' Silicon
+
+👁️ 51K • 👍 2K • 💬 114 • ⏱️ 10:52 • 5d ago
+
+---
+
+**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
+
+China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
+
+📺 CGTN
+
+👁️ 286K • 👍 3K • 💬 451 • ⏱️ 29:41 • 6d ago
+
+---
+
+**[E-Chain &amp; 720° Turret | 1732 Hilltopper Robotics | FRC Pit Stop](https://www.youtube.com/watch?v=lUoxYfsceBw)**
+
+E-Chain & 720° Turret | 1732 Hilltopper Robotics | FRC Pit Stop 1732 Hilltopper Robotics demonstrates their slick e-chain ...
+
+📺 FUN Robotics Network
+
+👁️ 298 • 👍 18 • ⏱️ 1:45 • 40m ago
+
+---
+
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
+
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
+
+📺 Reuters
+
+👁️ 2K • 👍 43 • 💬 16 • ⏱️ 2:38 • 14h ago
+
+---
+
+**[Independent Twin Turrets | 2337 EngiNERDs | FRC Pit Stop](https://www.youtube.com/watch?v=R3Ra7VrGDXk)**
+
+Independent Twin Turrets | 2337 EngiNERDs | FRC Pit Stop This video is supported by Kettering University: Accepted ...
+
+📺 FUN Robotics Network
+
+👁️ 510 • 👍 24 • 💬 1 • ⏱️ 1:25 • 1h ago
 
 ---
 
@@ -266,25 +286,7 @@ This is going to be the next most toxic build in war robots. The furnace, torch 
 
 📺 PREDATOR WR
 
-👁️ 13K • 👍 416 • 💬 50 • ⏱️ 15:33 • 1d ago
-
----
-
-**[I, Robot – When a Movie Feels Made by AI | Anatomy of a Failure](https://www.youtube.com/watch?v=pS1A_sIR_fM)**
-
-Get 10 Free Meals and your first box ship free with code FILMENTOFM at https://bit.ly/4aKycJe I, Robot is a 2004 Will Smith movie ...
-
-📺 Filmento
-
-👁️ 118K • 👍 7K • 💬 1K • ⏱️ 20:54 • 6d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=G4jYrDe3Kt0)**
-
-📺 Robot Julie 
-
-👁️ 27K • 👍 235 • 💬 3 • ⏱️ 0:23 • 1d ago
+👁️ 13K • 👍 420 • 💬 50 • ⏱️ 15:33 • 1d ago
 
 ---
 

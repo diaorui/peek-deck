@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T22:28:30.789952+00:00'
+updated: '2026-03-12T22:55:11.342271+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 22:28 UTC  
+**Last Updated:** March 12, 2026 at 22:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $249.08B
+**Market Cap:** $248.27B
 Rank #2
 
 **Circulating Supply:** 120,691,977 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.3%
+-58.4%
 
 **All-Time Low:** $0.43
-+476544.4%
++474936.9%
 
 ---
 
@@ -96,7 +96,7 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
 
-13h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've created a series of charts that show inflation in a way that has an emotion
 
 If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
 
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 11h ago
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 12h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 7h ago
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -236,7 +236,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 295 • 💬 33 • ⏱️ 19:58 • 6h ago
+👁️ 9K • 👍 367 • 💬 40 • ⏱️ 19:58 • 7h ago
+
+---
+
+**[BlackRock&#39;s Robert Mitchnick on the launch of the firm&#39;s staked ether ETF](https://www.youtube.com/watch?v=26lG23eyt-k)**
+
+Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of the ETHB staked ether ETF.
+
+📺 CNBC Television
+
+👁️ 442 • 👍 7 • 💬 1 • ⏱️ 7:47 • 2h ago
 
 ---
 
@@ -246,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 99 • 💬 2 • ⏱️ 5:14 • 8h ago
+👁️ 1K • 👍 110 • 💬 2 • ⏱️ 5:14 • 8h ago
 
 ---
 
@@ -256,7 +266,7 @@ The wait is over! BlackRock (the world's biggest money manager) just turned on t
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 406 • 💬 34 • ⏱️ 2:00:28 • 5h ago
+👁️ 6K • 👍 429 • 💬 54 • ⏱️ 2:00:28 • 6h ago
 
 ---
 
@@ -266,7 +276,27 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 8K • 👍 305 • 💬 96 • ⏱️ 56:53 • 1d ago
+👁️ 8K • 👍 312 • 💬 98 • ⏱️ 56:53 • 1d ago
+
+---
+
+**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
+
+Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
+
+📺 Coin Bureau
+
+👁️ 76K • 👍 3K • 💬 309 • ⏱️ 21:43 • 2d ago
+
+---
+
+**[Ethereum Crash Prediction… While BMNR &amp; MSTR Are Quietly Printing Money](https://www.youtube.com/watch?v=cKHlX4AeXDs)**
+
+Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 3K • 👍 124 • 💬 15 • ⏱️ 18:08 • 20h ago
 
 ---
 
@@ -286,47 +316,17 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 7K • 👍 352 • 💬 132 • ⏱️ 13:04 • 2d ago
+👁️ 7K • 👍 353 • 💬 132 • ⏱️ 13:04 • 2d ago
 
 ---
 
-**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
+**[Crypto Is In PAIN But The News Is INSANE (Bitcoin PulseChain Ethereum HEX PulseX ProeX)](https://www.youtube.com/watch?v=VCXPCmQH24Q)**
 
-Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
+how to buy PulseChain coins? https://libertyswap.finance buy with card: https://buy-pulsechain.com | buy with bank account: ...
 
-📺 Coin Bureau
+📺 Crypto Coffee
 
-👁️ 76K • 👍 3K • 💬 305 • ⏱️ 21:43 • 2d ago
-
----
-
-**[Ethereum Crash Prediction… While BMNR &amp; MSTR Are Quietly Printing Money](https://www.youtube.com/watch?v=cKHlX4AeXDs)**
-
-Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 2K • 👍 118 • 💬 15 • ⏱️ 18:08 • 19h ago
-
----
-
-**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
-
-GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 59K • 👍 3K • 💬 233 • ⏱️ 9:54 • 3d ago
-
----
-
-**[BMNR’s Ethereum Bet: The Infrastructure Trust Layer for AI Agents](https://www.youtube.com/watch?v=gMkvBwrfPIA)**
-
-In this video we provide an update on BMNR balance and why it could be positioning for the next phase of the digital economy: AI ...
-
-📺 The Value Thinker
-
-👁️ 9K • 👍 512 • 💬 75 • ⏱️ 21:31 • 1d ago
+👁️ 160 • 👍 42 • 💬 70 • ⏱️ 16:36 • 1h ago
 
 ---
 
