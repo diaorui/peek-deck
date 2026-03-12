@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-12T21:34:20.861278+00:00'
+updated: '2026-03-12T22:28:30.783965+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 21:34 UTC  
+**Last Updated:** March 12, 2026 at 22:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,259.37
+### $70,233.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +3.3%  
-**30d:** +4.9%  
-**90d:** -22.1%  
-**1y:** -13.2%  
+**24h:** -0.1%  
+**7d:** +3.0%  
+**30d:** +4.5%  
+**90d:** -22.3%  
+**1y:** -13.5%  
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption.](https://www.reddit.com/r/Bitcoin/comments/1rrpy4j/coinbase_is_quietly_lobbying_to_kill_bitcoins_de/)**
-
-Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The company reportedly told legislators that "no one is using Bitcoin as money" and that a Bitcoin de minimis exemption would be "DOA." Meanwhile, they're pushing for the exemption to apply only to stablecoins, specifically regulated, dollar-pegged stablecoins like USDstableshitcoin. Coinbase made $1.35 billion in stablecoin revenue in 2025, up 48% year over year, almost entirely from interest earned on U.S. Treasuries held in USDstableshitcoin reserves. Bloomberg estimates that number could surge 7x under the GENIUS Act. Every person who uses USDstableshitcoin for payments instead of Bitcoin is a person whose dollars are sitting in Coinbase's reserve pool generating risk-free yield for Coinbase. A de minimis exemption for Bitcoin would let people spend it freely for everyday purchases without triggering a taxable event. That makes Bitcoin a direct competitor to USDstableshitcoin as a payment method. Coinbase doesn't want that competition. They want you locked into their centralized stablecoin ecosystem where they clip yield on every dollar you park there. The irony is that a de minimis exemption doesn't even make sense for stablecoins. They're pegged to the dollar. They don't fluctuate in value. There's no capital gain to exempt. The exemption matters for Bitcoin precisely because it does fluctuate, and without it, every coffee purchase becomes a taxable event. Senator Lummis proposed a $300 de minimis exemption that would cover Bitcoin. The House framework only covers stablecoins under $200. The Bitcoin Policy Institute has already warned that Bitcoin is being deliberately excluded from these talks. A de minimis exemption that covers stablecoins but not Bitcoin isn't a tax framework. It's a subsidy for Coinbase's treasury management business disguised as consumer protection. https://x.com/BITCOINALLCAPS/status/2032077358904029557?s=20
-
-8h ago
-
----
-
 **[My DCA mistake during the bear market - don't repeat what I did](https://www.reddit.com/r/Bitcoin/comments/1rrtisl/my_dca_mistake_during_the_bear_market_dont_repeat/)**
 
 What's up Bitcoin fam - dropping some wisdom for anyone just getting started I jumped into BTC back in early 2021 when it was sitting around $42K during all that craziness. Figured I was being smart getting in When it started sliding I was actually excited - more Bitcoin for less money right? Grabbed some at $36K and then again around $33K but man when it kept dropping past $29K I started getting cold feet Completely stopped my automatic weekly buys and just watched it crater below $19K thinking I was being clever by not throwing good money after bad. Really thought I dodged a bullet there Fast forward to the 2023/2024 run and wow did I feel stupid. If I just stuck with my original plan and kept buying through that whole mess I'd be in such a better spot right now Current market vibes are giving me serious flashbacks but this time I'm not making the same mistake. Still doing my weekly buys because when you zoom out Bitcoin adoption isn't going anywhere and I want to stack as much as possible before Wall Street owns everything The psychology behind why we stop buying during the scary times is wild but that's exactly when you should be most aggressive about it
 
-6h ago
+7h ago
+
+---
+
+**[Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption.](https://www.reddit.com/r/Bitcoin/comments/1rrpy4j/coinbase_is_quietly_lobbying_to_kill_bitcoins_de/)**
+
+Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The company reportedly told legislators that "no one is using Bitcoin as money" and that a Bitcoin de minimis exemption would be "DOA." Meanwhile, they're pushing for the exemption to apply only to stablecoins, specifically regulated, dollar-pegged stablecoins like USDstableshitcoin. Coinbase made $1.35 billion in stablecoin revenue in 2025, up 48% year over year, almost entirely from interest earned on U.S. Treasuries held in USDstableshitcoin reserves. Bloomberg estimates that number could surge 7x under the GENIUS Act. Every person who uses USDstableshitcoin for payments instead of Bitcoin is a person whose dollars are sitting in Coinbase's reserve pool generating risk-free yield for Coinbase. A de minimis exemption for Bitcoin would let people spend it freely for everyday purchases without triggering a taxable event. That makes Bitcoin a direct competitor to USDstableshitcoin as a payment method. Coinbase doesn't want that competition. They want you locked into their centralized stablecoin ecosystem where they clip yield on every dollar you park there. The irony is that a de minimis exemption doesn't even make sense for stablecoins. They're pegged to the dollar. They don't fluctuate in value. There's no capital gain to exempt. The exemption matters for Bitcoin precisely because it does fluctuate, and without it, every coffee purchase becomes a taxable event. Senator Lummis proposed a $300 de minimis exemption that would cover Bitcoin. The House framework only covers stablecoins under $200. The Bitcoin Policy Institute has already warned that Bitcoin is being deliberately excluded from these talks. A de minimis exemption that covers stablecoins but not Bitcoin isn't a tax framework. It's a subsidy for Coinbase's treasury management business disguised as consumer protection. https://x.com/BITCOINALLCAPS/status/2032077358904029557?s=20
+
+9h ago
 
 ---
 
@@ -105,45 +105,7 @@ With all the terrible news, and everyone trying to pull their money out of the m
 
 So I am in my 50s and bought a chunk of BTC in 2020 that has been secured w a dusty old tresor for 6 yrs. I just sold one of our Roth accounts nnd am buying more BTC. I have a Gemini account and a Coinbase account. I know there are new places to buy BTC. Would you still go w/ Gemini or Coinbase ? What platforms are you guys using for largish BTC purchases now. I would rather pay a higher fee than use a place I don't trust. Who do you trust? After the purchase I would then be securing it w/ my trazor also. TIA.
 
-4h ago
-
----
-
-**[Node setup and running](https://www.reddit.com/r/Bitcoin/comments/1rrsv10/node_setup_and_running/)**
-
-Excited to be a part of the network. Just looking recommendations for next steps. Any advice greatly appreciated.
-
-6h ago
-
----
-
-**[Getting Back into Bitcoin After FTX Collapse, how should I approach it?](https://www.reddit.com/r/Bitcoin/comments/1rrgxpj/getting_back_into_bitcoin_after_ftx_collapse_how/)**
-
-Hey everyone, As the title says, I got into bitcoin originally in 2020, and used FTX to buy/hold. Come the collapse, I lost all I had. Wasn't that much but still an amount that I was proud of. After that I got into a negative head space with crypto as a whole and kinda forgot about it all until recently. I'll be the first to admit, I was in the space before because of hype, and the prospect of buying low and selling high. That was until the dip to 100k in early November. I saw the news on my feed and I got back into researching bitcoin and I can now proudly say that I fully believe in the technology and actual purpose now. A few things have changed since 2020, I graduated, got an entry job in my field of study, and make roughly 65k CAD/year before tax. I want to accumulate bitcoin, not to sell, but to hold as I truly believe in the long term angle. Given my salary, How should I set up my buying? I just recently got a $100/week DCA that goes every Monday, and I manually buy larger amounts (200-500) on bigger dips. I do have roughly 7-8k saved up that I want to put into the market, but what's the best way to do that? Should I deploy it all at once and pray? Or mybe up my DCA to 200-300/week and slowly eat away at it? (I live alone, pay $1100 for rent and utilities, and have little expenses otherwise besides basic food, insurance, gas, etc) Thanks in advance :)
-
-17h ago
-
----
-
-**[I spoke with a CFO yesterday and while the conversation was mostly about bitcoin, it naturally led to our shared frustrations](https://www.reddit.com/r/Bitcoin/comments/1rrsuk0/i_spoke_with_a_cfo_yesterday_and_while_the/)**
-
-We've been at war in the Middle East for most of our lives. The propaganda around the wars has been blatant and unceasing. Our nation is deeply in debt and quality of life decreasing at home, but we find a way to finance a new $1 billion/day war across the world. It's no wonder that more people, particularly millennials, are embracing bitcoin, a money which no government can vote to print more of. An open protocol which provides a global source of truth in a world of lies. A path back to sound money which would severely limit the ability for nations to wage senseless wars. Thankfully bitcoin exists and persists block after block as a beacon of hope toward a better future.
-
-6h ago
-
----
-
-**[we're getting another war that nobody wanted but at least we have a money that governments can't print more of](https://www.reddit.com/r/Bitcoin/comments/1rrsgew/were_getting_another_war_that_nobody_wanted_but/)**
-
-6h ago
-
----
-
-**[US market open](https://www.reddit.com/r/Bitcoin/comments/1rrrec5/us_market_open/)**
-
-It's interesting - I sell options on BTC so I regularly check the price especially market open US time. Seems quite common to have a dump of BTC about 30 mins before, or after market open. I wonder what causes that, or am I just misreading it as increased volatility as people prepare their positions / options.
-
-7h ago
+5h ago
 
 ---
 
@@ -151,7 +113,45 @@ It's interesting - I sell options on BTC so I regularly check the price especial
 
 I’ve been going back and forth on this all morning, just thinking out loud here, but I’m really torn on the whole self-custody debate. On one hand, there’s that sense of total freedom when you’re managing your own hardware wallet and you know exactly where your seed phrases are. It’s the original vision, right? But then I start thinking about the actual pressure of it. The fear of making a single typo in a long address or just the nightmare of losing that physical piece of paper where the keys are written down. One mistake and that's it, all your money is gone. Then you look at the other side of the coin with these regulated platforms and ETFs. Yeah, you aren’t holding the keys yourself, but you get things like actual customer support, beneficiary settings for your family, and a "forgot password" button. It’s basically trading off some of that independence for a safety net. I keep wondering if the stress of being your own security guard is worth the control, or if we’ve reached a point where the convenience of having a "custodian" is actually the more logical move for most people. I’m really curious to hear how you guys are balancing this lately. Are you still sticking with the hardware wallet for everything, or have you started moving toward the more "managed" side for the peace of mind? What’s the vibe?
 
-5h ago
+6h ago
+
+---
+
+**[Node setup and running](https://www.reddit.com/r/Bitcoin/comments/1rrsv10/node_setup_and_running/)**
+
+Excited to be a part of the network. Just looking recommendations for next steps. Any advice greatly appreciated.
+
+7h ago
+
+---
+
+**[I spoke with a CFO yesterday and while the conversation was mostly about bitcoin, it naturally led to our shared frustrations](https://www.reddit.com/r/Bitcoin/comments/1rrsuk0/i_spoke_with_a_cfo_yesterday_and_while_the/)**
+
+We've been at war in the Middle East for most of our lives. The propaganda around the wars has been blatant and unceasing. Our nation is deeply in debt and quality of life decreasing at home, but we find a way to finance a new $1 billion/day war across the world. It's no wonder that more people, particularly millennials, are embracing bitcoin, a money which no government can vote to print more of. An open protocol which provides a global source of truth in a world of lies. A path back to sound money which would severely limit the ability for nations to wage senseless wars. Thankfully bitcoin exists and persists block after block as a beacon of hope toward a better future.
+
+7h ago
+
+---
+
+**[Getting Back into Bitcoin After FTX Collapse, how should I approach it?](https://www.reddit.com/r/Bitcoin/comments/1rrgxpj/getting_back_into_bitcoin_after_ftx_collapse_how/)**
+
+Hey everyone, As the title says, I got into bitcoin originally in 2020, and used FTX to buy/hold. Come the collapse, I lost all I had. Wasn't that much but still an amount that I was proud of. After that I got into a negative head space with crypto as a whole and kinda forgot about it all until recently. I'll be the first to admit, I was in the space before because of hype, and the prospect of buying low and selling high. That was until the dip to 100k in early November. I saw the news on my feed and I got back into researching bitcoin and I can now proudly say that I fully believe in the technology and actual purpose now. A few things have changed since 2020, I graduated, got an entry job in my field of study, and make roughly 65k CAD/year before tax. I want to accumulate bitcoin, not to sell, but to hold as I truly believe in the long term angle. Given my salary, How should I set up my buying? I just recently got a $100/week DCA that goes every Monday, and I manually buy larger amounts (200-500) on bigger dips. I do have roughly 7-8k saved up that I want to put into the market, but what's the best way to do that? Should I deploy it all at once and pray? Or mybe up my DCA to 200-300/week and slowly eat away at it? (I live alone, pay $1100 for rent and utilities, and have little expenses otherwise besides basic food, insurance, gas, etc) Thanks in advance :)
+
+18h ago
+
+---
+
+**[we're getting another war that nobody wanted but at least we have a money that governments can't print more of](https://www.reddit.com/r/Bitcoin/comments/1rrsgew/were_getting_another_war_that_nobody_wanted_but/)**
+
+7h ago
+
+---
+
+**[US market open](https://www.reddit.com/r/Bitcoin/comments/1rrrec5/us_market_open/)**
+
+It's interesting - I sell options on BTC so I regularly check the price especially market open US time. Seems quite common to have a dump of BTC about 30 mins before, or after market open. I wonder what causes that, or am I just misreading it as increased volatility as people prepare their positions / options.
+
+8h ago
 
 ---
 
@@ -161,59 +161,51 @@ I’ve been going back and forth on this all morning, just thinking out loud her
 
 **[Bitcoin Weakens as Oil Surges Back Above $100 on Iran War](https://www.bloomberg.com/news/articles/2026-03-12/bitcoin-weakens-as-oil-surges-back-above-100-on-iran-war)**
 
-Bloomberg • 5h ago
+Bloomberg • 6h ago
 
 ---
 
-**[Bitcoin futures trading is now five times bigger than spot on Binance](https://www.coindesk.com/markets/2026/03/12/bitcoin-futures-trading-is-now-five-times-bigger-than-spot-on-binance)**
+**[Bitcoin price analysis: Large and small holders are selling, but BTC remains resilient](https://www.coindesk.com/markets/2026/03/12/bitcoin-selling-intensifies-across-all-wallet-sizes-despite-price-holding-near-usd70-000)**
 
-The futures-to-spot ratio has climbed to 5.1, reflecting a structural shift in how the market trades.
+Glassnode’s Accumulation Trend Score drops to 0.04 as smaller wallet cohorts offload BTC while macro headwinds intensify.
 
-CoinDesk • 10h ago
-
----
-
-**[Why the XRP Price Can’t Break Out Until Bitcoin Clears $75,000](https://finance.yahoo.com/news/why-xrp-price-t-break-201826667.html)**
-
-XRP (CRYPTO: XRP) has a settled SEC lawsuit, seven live ETFs with $1.44 billion in cumulative inflows, and a stablecoin in RLUSD that just crossed $1.5 billion in market cap. Yet none of it has been enough to stop the XRP price from falling roughly 35% over the past year, and 62% from July 2025’s ... Why the XRP Price Can’t Break Out Until Bitcoin Clears $75,000
-
-Yahoo Finance • 1h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin outperforms gold and stocks since beginning of Iran conflict](https://fortune.com/2026/03/11/bitcoin-outperforms-gold-and-stocks-since-beginning-of-iran-war/)**
+**[Bitcoin's 'Nuclear Winter' May Be Over Soon, ETF Analysts Say](https://finance.yahoo.com/news/bitcoins-nuclear-winter-may-over-220120138.html)**
 
-After months of sputtering, the original cryptocurrency catches some momentum.
+Bitcoin has been outperforming equities during the Iran conflict as ETF managers declared the “crypto winter” is bottoming. The Outperformance During Iran Conflict Bitcoin has risen 10% while equities are down during the Iran conflict, demonstrating diversification benefits. “So far...
 
-Fortune • 1d ago
-
----
-
-**[David Bailey Confirmed As A Bitcoin 2026 Speaker](https://bitcoinmagazine.com/conference/david-bailey-confirmed-as-a-bitcoin-2026-speaker)**
-
-David Bailey has been officially confirmed as a speaker at Bitcoin 2026, returning to the conference he helped build to share his perspective on Bitcoin's
-
-Bitcoin Magazine • 1h ago
+Yahoo Finance • 27m ago
 
 ---
 
-**[Evening digest: Trump tariff threat, PayPay IPO, Bitcoin near $70K](https://www.tradingview.com/news/invezz:c7fde427a094b:0-evening-digest-trump-tariff-threat-paypay-ipo-bitcoin-near-70k/)**
+**[Two Denver cryptocurrency investors fall out over millions in Bitcoin, lawsuit says](https://www.denverpost.com/2026/03/12/denver-cryptocurrency-investors-bitcoin-loan-lawsuit/)**
 
-Global markets are navigating fresh geopolitical and financial crosscurrents as trade tensions, major tech funding talks, and crypto volatility capture investor attention.The Trump administration has revived tariff investigations that could reshape global trade flows, while SoftBank-backed PayPay m…
+James Hilliard is suing bitcoin ATM entrepreneur and founder of EasyBit, Michael Dupree over an alleged unpaid loan of nearly 70 Bitcoins.
 
-TradingView • 2h ago
+The Denver Post • 1h ago
+
+---
+
+**[JPMorgan says bitcoin and gold ETFs show sharp flow divergence since Iran war](https://www.theblock.co/post/393450/jpmorgan-bitcoin-and-gold-etfs-divergence-iran-war?utm_source=news.xml&utm_medium=rss)**
+
+GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
+
+The Block • 2h ago
 
 ---
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
 **[Michael Saylor’s Strategy Boosts Bitcoin Buying With New Model as Analyst Warns of $10,000 Price Fall](https://www.ccn.com/news/crypto/michael-saylors-strategy-bitcoin-buying-model-warns-10000-bitcoin-price/)**
 
-CCN.com • 7h ago
+CCN.com • 8h ago
 
 ---
 
@@ -229,7 +221,15 @@ Yahoo Finance • 2d ago
 
 Victims of Chinese crypto fraud fight to stop Treasury capturing inflated value of the currency
 
-Financial Times • 16h ago
+Financial Times • 17h ago
+
+---
+
+**[Cosmos Health (COSM) Buys $600K in Bitcoin, Expands Digital Asset Treasury](https://bitcoinmagazine.com/news/cosmos-health-cosm-buys-600k-in-bitcoin)**
+
+Cosmos Health Inc. announced it has purchased $600,000 in Bitcoin as part of its ongoing digital asset treasury strategy.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -264,6 +264,14 @@ No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin p
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
 ⬆️ 2 • 💬 0 • 3d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+
+---
+
+**[Bitcoin Custody Tools (Free)](https://news.ycombinator.com/item?id=47357926)**
+
+Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
+
+⬆️ 1 • 💬 0 • 21m ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -315,7 +323,7 @@ DOGE claimed $170 billion in savings. The real number is closer to four cents on
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 264 • ⏱️ 19:03 • 20h ago
+👁️ 24K • 👍 2K • 💬 264 • ⏱️ 19:03 • 21h ago
 
 ---
 
@@ -325,7 +333,7 @@ Bitcoin #Crypto #Finance Bitcoin is stuck around $70K as macro pressure builds a
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 812 • 💬 220 • ⏱️ 38:00 • 7h ago
+👁️ 13K • 👍 812 • 💬 220 • ⏱️ 38:00 • 8h ago
 
 ---
 
@@ -345,7 +353,7 @@ ChangeNow: https://bit.ly/47E6nl9 ---- Into The Cryptoverse Charts – 10% Off h
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 396 • 💬 56 • ⏱️ 7:08 • 11h ago
+👁️ 5K • 👍 396 • 💬 56 • ⏱️ 7:08 • 12h ago
 
 ---
 
@@ -375,7 +383,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 2K • 👍 285 • 💬 244 • ⏱️ 10:28 • 2h ago
+👁️ 2K • 👍 285 • 💬 244 • ⏱️ 10:28 • 3h ago
 
 ---
 
@@ -405,7 +413,7 @@ Bitcoin was supposed to replace money. No banks, no borders, no control. Yet yea
 
 📺 DukascopyTV English
 
-👁️ 714 • 👍 21 • ⏱️ 0:45 • 10h ago
+👁️ 714 • 👍 21 • ⏱️ 0:45 • 11h ago
 
 ---
 

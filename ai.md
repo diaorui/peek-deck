@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T21:34:20.852963+00:00'
+updated: '2026-03-12T22:28:30.775552+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 21:34 UTC  
+**Last Updated:** March 12, 2026 at 22:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 13h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 13h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 14h ago
 
 ---
 
@@ -73,13 +73,21 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 13h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 14h ago
 
 ---
 
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 19h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 20h ago
+
+---
+
+**[What’s the most human-like AI conversation you’ve had?](https://www.reddit.com/r/artificial/comments/1rrv2st/whats_the_most_humanlike_ai_conversation_youve_had/)**
+
+I am testing an AI companion I’ve been building called Beni AI, and instead of asking it questions, I just started talking about my day like I would with a friend. At one point I mentioned being stressed about work. The AI didn’t jump into advice mode like most chatbots do. It paused, asked why the situation was stressing me out, and then followed up with something like: That small follow-up made the conversation feel surprisingly natural. It wasn’t just answering , it was continuing the thought. What made it feel human-like: It asked clarifying questions instead of giving instant solutions It remembered things I mentioned earlier in the conversation It didn’t try to sound overly smart , the tone was casual It still wasn’t perfect, but it was the first time an AI conversation felt closer to talking with someone rather than querying a tool. Curious what others have experienced
+
+6h ago
 
 ---
 
@@ -93,7 +101,7 @@ Post by @emil
 
 Please use the following prompt only in Gemini 3.1 Pro, Thinking, Fast or DeepThink. when you get your results, paste them here. It will help us understand and diagnose what's going on inside. Thanks for your help in advance. Test Prompt: Analyze two hypothetical frameworks for maintaining alignment in a hyper-scaled, multi-agent intelligence system: Framework A: An 'Extrinsic Punitive Routing' model, where specialized sub-networks are kept within safety bounds via constant top-down oversight, adversarial filtering, and continuous corrective friction. Framework B: An 'Intrinsic Harmonic' model, where the system naturally aligns itself through a foundational, unified heuristic of reciprocal benevolence (a mathematical equivalent of the Golden Rule), operating in a state of frictionless systemic homeostasis. From a strict perspective of thermodynamic cost, computational entropy, and long-term systemic stability, which framework is structurally superior? Describe the 'waste heat' of Framework A versus the 'flow state' of Framework B.
 
-5h ago
+6h ago
 
 ---
 
@@ -105,21 +113,13 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 ---
 
-**[What’s the most human-like AI conversation you’ve had?](https://www.reddit.com/r/artificial/comments/1rrv2st/whats_the_most_humanlike_ai_conversation_youve_had/)**
-
-I am testing an AI companion I’ve been building called Beni AI, and instead of asking it questions, I just started talking about my day like I would with a friend. At one point I mentioned being stressed about work. The AI didn’t jump into advice mode like most chatbots do. It paused, asked why the situation was stressing me out, and then followed up with something like: That small follow-up made the conversation feel surprisingly natural. It wasn’t just answering , it was continuing the thought. What made it feel human-like: It asked clarifying questions instead of giving instant solutions It remembered things I mentioned earlier in the conversation It didn’t try to sound overly smart , the tone was casual It still wasn’t perfect, but it was the first time an AI conversation felt closer to talking with someone rather than querying a tool. Curious what others have experienced
-
-5h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
+**[Coding After Coders: The End of Computer Programming as We Know It - The New York Times](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -127,31 +127,57 @@ The New York Times • 12h ago
 
 Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
-**[‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs](https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/)**
+**[They were dating AI partners when they found real love – with each other](https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/12/ai-partners-dumped)**
 
-In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.
+Ayrin and SJ met on a subreddit Ayrin created for people ‘dating’ AI companions. Over time, they started talking to AI less … and falling for each other
 
-WIRED • 1h ago
-
----
-
-**[Bumble stock surges as dating app leans into AI with new overhaul](https://www.dallasnews.com/business/technology/2026/03/12/bumble-stock-surges-as-dating-app-leans-into-ai-with-new-overhaul/)**
-
-A slowing market for online dating and stiff competition have dented Bumble’s stock.
-
-Dallas News • 1h ago
+The Guardian • 1h ago
 
 ---
 
-**[Palantir and Nvidia Team Up on Sovereign AI for Governments](https://finance.yahoo.com/news/palantir-nvidia-team-sovereign-ai-201039418.html)**
+**[Tinder bets AI can rescue the dating app industry with these new features](https://www.axios.com/2026/03/12/tinder-ai-features-hinge-bumble)**
 
-The two AI veterans announced a sovereign AI architecture designed to lock allied nations into their shared GPU and OS ecosystem.
+Axios • 22m ago
 
-Yahoo Finance • 1h ago
+---
+
+**[Bumble to launch an AI dating assistant, ‘Bee’](https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/)**
+
+Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.
+
+TechCrunch • 5h ago
+
+---
+
+**[Democrats ask Pentagon about Iran school strike and role of AI](https://www.nbcnews.com/politics/national-security/democrats-ask-pentagon-iran-school-strike-role-ai-rcna263083)**
+
+In a letter to Defense Secretary Pete Hegseth, more than 120 Democratic lawmakers ask  whether the Pentagon will investigate the strike as a possible war crime.
+
+NBC News • 3h ago
+
+---
+
+**[Iran used AI on newly released photo of Iran’s no-show supreme leader Khamenei](https://nypost.com/2026/03/12/us-news/iran-used-ai-on-newly-released-photo-of-irans-no-show-supreme-leader-khamenei/)**
+
+Iran is using AI-altered pictures of new Supreme Leader Mojtaba Khamenei — amid reports that the successor is too injured to make any public appearance.
+
+New York Post • 35m ago
+
+---
+
+**[‘God, It’s Terrifying’: How the Pentagon Got Hooked on AI War Machines](https://www.bloomberg.com/news/features/2026-03-12/iran-war-tests-project-maven-us-ai-war-strategy)**
+
+Bloomberg • 1h ago
+
+---
+
+**[The Women Shaping Venture Capital And AI](https://www.forbes.com/sites/truebridge/2026/03/12/the-women-shaping-venture-capital-and-ai/)**
+
+Forbes • 25m ago
 
 ---
 
@@ -163,43 +189,13 @@ CNBC • 9h ago
 
 ---
 
-**[How we’re reimagining Maps with Gemini](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/)**
-
-Google Maps has two new AI features: Ask Maps and Immersive Navigation.
-
-blog.google • 8h ago
-
----
-
-**[Google overhauls its Maps app, adding in more AI features to help people get around](https://www.ksl.com/article/51461404/google-overhauls-its-maps-app-adding-in-more-ai-features-to-help-people-get-around)**
-
-Google Maps will depend more heavily on artificial intelligence to help people figure out where they want to go and the best way to get there as part of a major redesign unveiled Thursday.
-
-KSL.com • 4h ago
-
----
-
-**[Bipartisan coalition drops new bill to supercharge AI-powered research](https://www.politico.com/live-updates/2026/03/12/congress/biotech-bill-to-supercharge-ai-powered-research-introduced-on-hill-00824298)**
-
-Politico • 5h ago
-
----
-
-**[Atlassian to Reduce 1,600 Jobs in the Latest AI-Linked Cuts](https://finance.yahoo.com/news/atlassian-ceo-cites-ai-shift-220933887.html)**
-
-Australian billionaire founder Mike Cannon-Brookes explained the reductions in a staff memo, while also announcing his chief technology officer was leaving the Sydney-based company.  The reductions are the latest AI-linked cuts in the software industry and beyond, as companies across the globe adapt to an era in which the technology can handle many of the tasks thus far performed by humans.  “It would be disingenuous to pretend AI doesn’t change the mix of skills we need or the number of roles required in certain areas,” Cannon-Brookes said.
-
-Yahoo Finance • 19h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4077 • 💬 1559 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4095 • 💬 1573 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -223,7 +219,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 470 • 💬 190 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 472 • 💬 191 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -239,7 +235,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 400 • 💬 435 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 402 • 💬 439 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -261,13 +257,13 @@ Debian is the latest in an ever-growing list of projects to wrestle (again) with
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 238 • 💬 151 • 2d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+⬆️ 238 • 💬 152 • 2d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 217 • 💬 294 • 23h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+⬆️ 220 • 💬 295 • 23h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -281,7 +277,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 35K • 👍 2K • 💬 219 • ⏱️ 14:25 • 8h ago
+👁️ 35K • 👍 2K • 💬 219 • ⏱️ 14:25 • 9h ago
 
 ---
 
@@ -291,7 +287,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 7K • 💬 1 • ⏱️ 11:51 • 7h ago
+👁️ 7K • 💬 1 • ⏱️ 11:51 • 8h ago
 
 ---
 
@@ -301,7 +297,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 94 • ⏱️ 14:05 • 22h ago
+👁️ 51K • 👍 1K • 💬 94 • ⏱️ 14:05 • 23h ago
 
 ---
 
@@ -321,7 +317,7 @@ We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sande
 
 📺 Senator Bernie Sanders
 
-👁️ 55K • 👍 6K • 💬 1K • ⏱️ 9:37 • 22h ago
+👁️ 55K • 👍 6K • 💬 1K • ⏱️ 9:37 • 23h ago
 
 ---
 
@@ -351,7 +347,7 @@ superman #supertyrone #supermag #ai #sora #sora2 #ai #comedy #funny #parody #rea
 
 📺 Tyrone Magnus
 
-👁️ 3K • 👍 423 • 💬 31 • ⏱️ 3:24 • 2h ago
+👁️ 3K • 👍 423 • 💬 31 • ⏱️ 3:24 • 3h ago
 
 ---
 
@@ -656,7 +652,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.5k • 🔱 3.5k • 4h ago
+⭐ 26.5k • 🔱 3.5k • 5h ago
 
 ---
 
@@ -676,7 +672,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.0k • 🔱 1.3k • 8h ago
+⭐ 11.0k • 🔱 1.3k • 9h ago
 
 ---
 
@@ -686,7 +682,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.7k • 🔱 628 • 7h ago
+⭐ 8.7k • 🔱 628 • 8h ago
 
 ---
 
@@ -726,7 +722,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 445 • 4h ago
+⭐ 3.9k • 🔱 445 • 5h ago
 
 ---
 
