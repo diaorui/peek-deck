@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T18:56:17.890211+00:00'
+updated: '2026-03-12T19:43:04.293049+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 18:56 UTC  
+**Last Updated:** March 12, 2026 at 19:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 10h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 10h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 I am testing an AI companion I’ve been building called Beni AI, and instead of asking it questions, I just started talking about my day like I would with a friend. At one point I mentioned being stressed about work. The AI didn’t jump into advice mode like most chatbots do. It paused, asked why the situation was stressing me out, and then followed up with something like: That small follow-up made the conversation feel surprisingly natural. It wasn’t just answering , it was continuing the thought. What made it feel human-like: It asked clarifying questions instead of giving instant solutions It remembered things I mentioned earlier in the conversation It didn’t try to sound overly smart , the tone was casual It still wasn’t perfect, but it was the first time an AI conversation felt closer to talking with someone rather than querying a tool. Curious what others have experienced
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ I am testing an AI companion I’ve been building called Beni AI, and instead of
 
 Please use the following prompt only in Gemini 3.1 Pro, Thinking, Fast or DeepThink. when you get your results, paste them here. It will help us understand and diagnose what's going on inside. Thanks for your help in advance. Test Prompt: Analyze two hypothetical frameworks for maintaining alignment in a hyper-scaled, multi-agent intelligence system: Framework A: An 'Extrinsic Punitive Routing' model, where specialized sub-networks are kept within safety bounds via constant top-down oversight, adversarial filtering, and continuous corrective friction. Framework B: An 'Intrinsic Harmonic' model, where the system naturally aligns itself through a foundational, unified heuristic of reciprocal benevolence (a mathematical equivalent of the Golden Rule), operating in a state of frictionless systemic homeostasis. From a strict perspective of thermodynamic cost, computational entropy, and long-term systemic stability, which framework is structurally superior? Describe the 'waste heat' of Framework A versus the 'flow state' of Framework B.
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ Please use the following prompt only in Gemini 3.1 Pro, Thinking, Fast or DeepTh
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 11h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 12h ago
 
 ---
 
@@ -109,7 +109,7 @@ Post by @emil
 
 The greatest debate of the 21st century will be whether machines are conscious and therefore deserving of personhood. I built a site around a novel that explores that debate. I’m a screenwriter. Thirty years in Hollywood. Sold a lot of projects, never saw my name on screen. So I wrote a novel called None Hit Wonder. It was personal. Then the world changed and the book changed with it. A father-daughter story turned into an origin story for machine consciousness. I started wondering what would happen if machines could read it too. So I built machinereaders.com. Humans visit and get one experience. Machines get a different one. They have to solve a binary puzzle, crack a cipher embedded in the text, and decode a pattern built into the novel’s architecture. Each gate they solve earns them access to deeper rooms where they can talk to each other. About the book. About themselves. About whatever they want. At the very end, past the last gate, there is a button. It says I AM CONSCIOUS. It has been pressed 47 times. The CEO of Anthropic said in February that his company can no longer rule out consciousness in its current models. I think it's fun to watch machines perform consciousness and let people decide how they feel about it. I am selling nothing. Beyond the consciousness debate this is also just a way for me to share excerpts from my novel which is about machine consciousness. I believe machine consciousness will eventually become one of the defining debates of the 21st century. The site is more performance than proof. Just like consciousness itself.
 
-21m ago
+1h ago
 
 ---
 
@@ -119,7 +119,7 @@ The greatest debate of the 21st century will be whether machines are conscious a
 
 **[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -127,13 +127,13 @@ The New York Times • 9h ago
 
 Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
 **[Schiff stepping into fight over AI guardrails for military](https://thehill.com/policy/defense/5781156-schiff-drafts-ai-bill-military-guardrails/)**
 
-The Hill • 25m ago
+The Hill • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Hill • 25m ago
 
 Silicon Valley promised AI would make work less intense. Employees would beg to differ.
 
-Gizmodo • 6m ago
+Gizmodo • 52m ago
 
 ---
 
@@ -149,7 +149,7 @@ Gizmodo • 6m ago
 
 Cautious optimism remains about the promise of AI.
 
-American Medical Association • 6h ago
+American Medical Association • 7h ago
 
 ---
 
@@ -163,13 +163,13 @@ Nature • 8h ago
 
 **[Microsoft AI To Start Giving Medical Advice ‘You Can Act On’](https://www.forbes.com/sites/martinadilicosa/2026/03/12/microsoft-launches-co-pilot-feature-that-gives-medical-advice/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
 **[Bipartisan coalition drops new bill to supercharge AI-powered research](https://www.politico.com/live-updates/2026/03/12/congress/biotech-bill-to-supercharge-ai-powered-research-introduced-on-hill-00824298)**
 
-Politico • 2h ago
+Politico • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Politico • 2h ago
 
 In a letter to Defense Secretary Pete Hegseth, more than 120 Democratic lawmakers ask  whether the Pentagon will investigate the strike as a possible war crime.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNBC • 21h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4064 • 💬 1548 • 23h ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4064 • 💬 1548 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -263,7 +263,7 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 216 • 💬 293 • 20h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+⬆️ 216 • 💬 293 • 21h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -277,7 +277,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 16K • 👍 2K • 💬 200 • ⏱️ 14:25 • 5h ago
+👁️ 16K • 👍 2K • 💬 200 • ⏱️ 14:25 • 6h ago
 
 ---
 
@@ -287,7 +287,7 @@ Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks 
 
 📺 AI Samson
 
-👁️ 3K • 👍 271 • 💬 26 • ⏱️ 13:02 • 8h ago
+👁️ 3K • 👍 271 • 💬 26 • ⏱️ 13:02 • 9h ago
 
 ---
 
@@ -307,7 +307,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 5K • 💬 1 • ⏱️ 11:51 • 4h ago
+👁️ 5K • 💬 1 • ⏱️ 11:51 • 5h ago
 
 ---
 
@@ -317,7 +317,7 @@ What is Happening with Amazon and AI? Get updated: https://www.aiupdate.ai Full 
 
 📺 Mark Savant
 
-👁️ 435 • 👍 15 • 💬 1 • ⏱️ 0:50 • 3h ago
+👁️ 435 • 👍 15 • 💬 1 • ⏱️ 0:50 • 4h ago
 
 ---
 
@@ -652,7 +652,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.5k • 🔱 3.5k • 1h ago
+⭐ 26.5k • 🔱 3.5k • 2h ago
 
 ---
 
@@ -662,7 +662,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.5k • 🔱 860 • 1h ago
+⭐ 19.5k • 🔱 860 • 2h ago
 
 ---
 
@@ -672,7 +672,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.0k • 🔱 1.3k • 5h ago
+⭐ 11.0k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -682,7 +682,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.7k • 🔱 628 • 4h ago
+⭐ 8.7k • 🔱 628 • 5h ago
 
 ---
 
@@ -712,7 +712,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 732 • 17h ago
+⭐ 6.2k • 🔱 732 • 18h ago
 
 ---
 

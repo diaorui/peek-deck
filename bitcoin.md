@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-12T18:56:17.899135+00:00'
+updated: '2026-03-12T19:43:04.301371+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 18:56 UTC  
+**Last Updated:** March 12, 2026 at 19:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 What's up Bitcoin fam - dropping some wisdom for anyone just getting started I jumped into BTC back in early 2021 when it was sitting around $42K during all that craziness. Figured I was being smart getting in When it started sliding I was actually excited - more Bitcoin for less money right? Grabbed some at $36K and then again around $33K but man when it kept dropping past $29K I started getting cold feet Completely stopped my automatic weekly buys and just watched it crater below $19K thinking I was being clever by not throwing good money after bad. Really thought I dodged a bullet there Fast forward to the 2023/2024 run and wow did I feel stupid. If I just stuck with my original plan and kept buying through that whole mess I'd be in such a better spot right now Current market vibes are giving me serious flashbacks but this time I'm not making the same mistake. Still doing my weekly buys because when you zoom out Bitcoin adoption isn't going anywhere and I want to stack as much as possible before Wall Street owns everything The psychology behind why we stop buying during the scary times is wild but that's exactly when you should be most aggressive about it
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The com
 
 With all the terrible news, and everyone trying to pull their money out of the markets bitcoin is actually holding. With all the fear and fud it is holding. Bitcoin really is wealth preservation and I am more bullish than ever right now.
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ With all the terrible news, and everyone trying to pull their money out of the m
 
 Hey everyone, As the title says, I got into bitcoin originally in 2020, and used FTX to buy/hold. Come the collapse, I lost all I had. Wasn't that much but still an amount that I was proud of. After that I got into a negative head space with crypto as a whole and kinda forgot about it all until recently. I'll be the first to admit, I was in the space before because of hype, and the prospect of buying low and selling high. That was until the dip to 100k in early November. I saw the news on my feed and I got back into researching bitcoin and I can now proudly say that I fully believe in the technology and actual purpose now. A few things have changed since 2020, I graduated, got an entry job in my field of study, and make roughly 65k CAD/year before tax. I want to accumulate bitcoin, not to sell, but to hold as I truly believe in the long term angle. Given my salary, How should I set up my buying? I just recently got a $100/week DCA that goes every Monday, and I manually buy larger amounts (200-500) on bigger dips. I do have roughly 7-8k saved up that I want to put into the market, but what's the best way to do that? Should I deploy it all at once and pray? Or mybe up my DCA to 200-300/week and slowly eat away at it? (I live alone, pay $1100 for rent and utilities, and have little expenses otherwise besides basic food, insurance, gas, etc) Thanks in advance :)
 
-14h ago
+15h ago
 
 ---
 
@@ -135,7 +135,7 @@ It's interesting - I sell options on BTC so I regularly check the price especial
 
 **[we're getting another war that nobody wanted but at least we have a money that governments can't print more of](https://www.reddit.com/r/Bitcoin/comments/1rrsgew/were_getting_another_war_that_nobody_wanted_but/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ It's interesting - I sell options on BTC so I regularly check the price especial
 
 So I am in my 50s and bought a chunk of BTC in 2020 that has been secured w a dusty old tresor for 6 yrs. I just sold one of our Roth accounts nnd am buying more BTC. I have a Gemini account and a Coinbase account. I know there are new places to buy BTC. Would you still go w/ Gemini or Coinbase ? What platforms are you guys using for largish BTC purchases now. I would rather pay a higher fee than use a place I don't trust. Who do you trust? After the purchase I would then be securing it w/ my trazor also. TIA.
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ So I am in my 50s and bought a chunk of BTC in 2020 that has been secured w a du
 
 Glassnode’s Accumulation Trend Score drops to 0.04 as smaller wallet cohorts offload BTC while macro headwinds intensify.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 4h ago
 
 Research shows that only 8% to 10% of global Bitcoin hashrate runs in oil-sensitive power markets, suggesting that geopolitical shocks may affect BTC prices more than mining costs.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 2h ago
 
 Bitcoin is beating gold and stocks since the crisis began—and institutions are taking notice.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 59m ago
 
 After months of sputtering, the original cryptocurrency catches some momentum.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 22h ago
 
 The world's leading cryptocurrency is becoming further entrenched in traditional finance.
 
-The Motley Fool • 19m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Motley Fool • 19m ago
 
 Paraguay’s tax authority now requires residents and crypto platforms to report nearly all digital asset transactions over $5,000, including wallet addresses and transaction hashes, aiming to integrate cryptocurrencies into the national tax system while raising privacy concerns.
 
-Bitcoin Magazine • 59m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bitcoin Magazine • 59m ago
 
 VanEck’s Matthew Sigel argued miners are redirecting infrastructure to AI while trading at a discount to traditional data-center peers.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -217,7 +217,7 @@ Decrypt • 8h ago
 
 Riverland Energy Cooperative worked to address those concerns at a meeting Wednesday night at the Waumandee Country Bar in Cochrane.
 
-WEAU • 9h ago
+WEAU • 10h ago
 
 ---
 
@@ -291,7 +291,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open source. - leventilo/boltzpay
 
-⬆️ 2 • 💬 0 • 2h ago • [GitHub](https://github.com/leventilo/boltzpay)
+⬆️ 2 • 💬 0 • 3h ago • [GitHub](https://github.com/leventilo/boltzpay)
 
 ---
 
@@ -319,7 +319,7 @@ DOGE claimed $170 billion in savings. The real number is closer to four cents on
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 230 • ⏱️ 19:03 • 18h ago
+👁️ 23K • 👍 2K • 💬 230 • ⏱️ 19:03 • 19h ago
 
 ---
 
@@ -339,7 +339,7 @@ ChangeNow: https://bit.ly/47E6nl9 ---- Into The Cryptoverse Charts – 10% Off h
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 346 • 💬 56 • ⏱️ 7:08 • 8h ago
+👁️ 4K • 👍 346 • 💬 56 • ⏱️ 7:08 • 9h ago
 
 ---
 
@@ -369,7 +369,7 @@ Anthony Scaramucci breaks down why Bitcoin may surge despite global turmoil. Wit
 
 📺 Valuetainment
 
-👁️ 9K • 👍 311 • 💬 143 • ⏱️ 5:36 • 7h ago
+👁️ 9K • 👍 311 • 💬 143 • ⏱️ 5:36 • 8h ago
 
 ---
 
@@ -377,7 +377,7 @@ Anthony Scaramucci breaks down why Bitcoin may surge despite global turmoil. Wit
 
 📺 Andrei Jikh
 
-👁️ 88K • 👍 2K • 💬 88 • ⏱️ 1:05 • 1d ago
+👁️ 88K • 👍 2K • 💬 88 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -387,7 +387,7 @@ Bitcoin was supposed to replace money. No banks, no borders, no control. Yet yea
 
 📺 DukascopyTV English
 
-👁️ 392 • 👍 12 • ⏱️ 0:45 • 7h ago
+👁️ 392 • 👍 12 • ⏱️ 0:45 • 8h ago
 
 ---
 
@@ -397,7 +397,7 @@ While the February report suggests inflation remains relatively contained, inves
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 2K • 💬 210 • ⏱️ 13:43 • 22h ago
+👁️ 49K • 👍 2K • 💬 210 • ⏱️ 13:43 • 23h ago
 
 ---
 

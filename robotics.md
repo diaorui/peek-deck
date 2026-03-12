@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T18:56:17.908708+00:00'
+updated: '2026-03-12T19:43:04.310415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 18:56 UTC  
+**Last Updated:** March 12, 2026 at 19:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-4h ago
+5h ago
 
 ---
 
@@ -62,7 +62,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -70,7 +70,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 We recently published research showing how generative AI can dramatically lower the barrier to entry for robot security research. Using Cybersecurity AI (CAI) we analyzed three real consumer robots: • robotic lawn mower • powered exoskeleton • window-cleaning robot In ~7 hours the system identified 38 vulnerabilities including firmware exploitation paths, BLE command injection and unauthenticated root access. Historically this kind of analysis required weeks of specialized robotics security research. Paper: https://arxiv.org/pdf/2603.08665
 
-4h ago
+5h ago
 
 ---
 
@@ -84,7 +84,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 **[FlashHead: Up to 40% Faster Multimodal Reasoning on Top of Quantization](https://www.reddit.com/r/robotics/comments/1rrtvm2/flashhead_up_to_40_faster_multimodal_reasoning_on/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -100,7 +100,7 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 Manual machined tip method takes too long and aligning these parts is not accurate. How often are people here repeating this process? For us it's at least once a month.
 
-1h ago
+2h ago
 
 ---
 
@@ -134,7 +134,7 @@ TechCrunch • 1d ago
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
@@ -142,7 +142,7 @@ Financial Times • 17h ago
 
 New Hampshire inventor Dean Kamen has voluntarily resigned from the board of directors of FIRST Robotics.
 
-WMUR • 2h ago
+WMUR • 3h ago
 
 ---
 
@@ -182,7 +182,7 @@ Bessemer Venture Partners • 6h ago
 
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -206,7 +206,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 8K • 👍 140 • 💬 65 • ⏱️ 4:52 • 17h ago
+👁️ 8K • 👍 140 • 💬 65 • ⏱️ 4:52 • 18h ago
 
 ---
 
