@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T14:26:30.004462+00:00'
+updated: '2026-03-12T15:30:25.943002+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 14:26 UTC  
+**Last Updated:** March 12, 2026 at 15:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,086.99
+### $2,050.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +4.7%  
-**30d:** +6.6%  
-**90d:** -33.5%  
-**1y:** +11.4%  
+**24h:** +0.1%  
+**7d:** +4.6%  
+**30d:** +6.5%  
+**90d:** -33.6%  
+**1y:** +11.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $249.31B
+**Market Cap:** $248.45B
 Rank #2
 
 **Circulating Supply:** 120,691,977 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.2%
 
 **All-Time Low:** $0.43
-+476830.8%
++477576.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 11h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've created a series of charts that show inflation in a way that has an emotion
 
 If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
 
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 3h ago
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 4h ago
 
 ---
 
@@ -152,19 +152,27 @@ This is a mandatory upgrade for all users running any prior version. All prior L
 
 ## Google News: "ethereum"
 
+**[Don't Buy Ethereum Until This Happens](https://www.fool.com/investing/2026/03/12/dont-buy-ethereum-until-this-happens/)**
+
+Crypto investors need to keep their eyes on the arrival of altcoin season.
+
+The Motley Fool • 5h ago
+
+---
+
 **[Ethereum is seeing record activity. So why is its price struggling?](https://sherwood.news/crypto/ethereum-is-seeing-record-activity-so-why-is-its-price-struggling/)**
 
 Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
 
-Sherwood News • 21h ago
+Sherwood News • 22h ago
 
 ---
 
-**[BlackRock debuts staked ether ETF as demand grows for yield in crypto funds](https://www.coindesk.com/markets/2026/03/12/blackrock-debuts-staked-ether-etf-as-demand-grows-for-yield-in-crypto-funds)**
+**[Vitalik Buterin says Ethereum’s key use case is a ‘public bulletin board,’ not just smart contracts](https://www.coindesk.com/tech/2026/03/12/vitalik-buterin-says-ethereum-should-be-used-as-a-simple-digital-bulletin-board)**
 
-The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
+Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
 
-CoinDesk • 2h ago
+CoinDesk • 3m ago
 
 ---
 
@@ -172,15 +180,15 @@ CoinDesk • 2h ago
 
 BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Current price of Ethereum for MM-DD-YYYY](https://fortune.com/article/price-of-ethereum-03-12-2026/)**
+**[Current price of Ethereum for March 12, 2026](https://fortune.com/article/price-of-ethereum-03-12-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 51m ago
+Fortune • 56m ago
 
 ---
 
@@ -190,17 +198,17 @@ Binance • 4d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqcB_XtYeypcE363eJVpv_0DOdaxuEwgVvsfxZobmxhj3EO3Lon2Yum0&gaa_ts=69b2d081&gaa_sig=gFtxu-oAzdqIppIjQt27GIL9X0C0omwUWnXx5IYGD2tIy-SLI5qI-aGHSjziZxXSDBxy3p9VWVB7f1XmBOJpNw%3D%3D)**
+**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqfOEaZPSkeRAJZKrYzZFcwy8hzNpWkvYC4SlQuQtb5SfKcpDBch8xT5&gaa_ts=69b2df7e&gaa_sig=wy4yyJUl2YsbSCQHVNqmlMBUA5RRcQuOu6CezGaVw1T4dkjwqrKMHoKdEjoIdwBcx1OrE9muH3WhOpyZ3U7vmw%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Don't Buy Ethereum Until This Happens](https://www.fool.com/investing/2026/03/12/dont-buy-ethereum-until-this-happens/)**
+**[New BlackRock Staked Ethereum Fund to Pay 82% of Rewards to Investors](https://decrypt.co/360756/new-blackrock-staked-ethereum-fund)**
 
-Crypto investors need to keep their eyes on the arrival of altcoin season.
+BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
 
-The Motley Fool • 4h ago
+Decrypt • 2h ago
 
 ---
 
@@ -208,7 +216,7 @@ The Motley Fool • 4h ago
 
 OP Labs layoffs: 20 employees let go as the Ethereum L2 developer refocuses on streamlining strategies and decision-making efficiency.
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 8h ago
 
 ---
 
@@ -220,17 +228,19 @@ TradingView • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP attempt recovery as momentum improves](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-attempt-recovery-as-momentum-improves-202603110341)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of recovery, having rebounded nearly 6%, 5% and 4%, respectively, so far this week. BTC and ETH are approaching a key technical hurdle, while XRP is attempting to build momentum after stabilizing near recent lows.
-
-FXStreet • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[BlackRock Ethereum Pump Just Started (Staking ETF)](https://www.youtube.com/watch?v=JrqgBJtEhNE)**
+
+The wait is over! BlackRock (the world's biggest money manager) just turned on the "money printer" for Ethereum. They aren't just ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 209 • 1h ago
+
+---
 
 **[Why ETH Might Be Near a Major Turning Point](https://www.youtube.com/watch?v=0JFtYBvMjNw)**
 
@@ -238,7 +248,27 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 7K • 👍 280 • 💬 92 • ⏱️ 56:53 • 1d ago
+👁️ 8K • 👍 292 • 💬 93 • ⏱️ 56:53 • 1d ago
+
+---
+
+**[Ethereum&#39;s Set Up Actually Looks Insane Right Now](https://www.youtube.com/watch?v=fjQpNM5997A)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
+
+📺 Tyler Hill Crypto
+
+👁️ 7K • 👍 353 • 💬 132 • ⏱️ 13:04 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KgQ43C9Bpsw)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 379 • 👍 58 • 💬 1 • ⏱️ 5:14 • 1h ago
 
 ---
 
@@ -248,7 +278,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 3K • 💬 124 • ⏱️ 12:32 • 1d ago
+👁️ 14K • 👍 3K • 💬 104 • ⏱️ 12:32 • 1d ago
 
 ---
 
@@ -258,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 84 • 💬 5 • ⏱️ 4:17 • 11h ago
+👁️ 1K • 👍 88 • 💬 5 • ⏱️ 4:17 • 12h ago
 
 ---
 
@@ -268,7 +298,17 @@ Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.
 
 📺 Coin Bureau
 
-👁️ 72K • 👍 3K • 💬 295 • ⏱️ 21:43 • 2d ago
+👁️ 74K • 👍 3K • 💬 300 • ⏱️ 21:43 • 2d ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=N8CZnxBeJ4E)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
+
+📺 Trade with Burner
+
+👁️ 4K • 👍 344 • 43m ago
 
 ---
 
@@ -278,37 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 140 • 👍 12 • 💬 1 • ⏱️ 5:05 • 4h ago
-
----
-
-**[HOW IS NO ONE TALKING ABOUT WHAT ETHEREUM IS DOING??](https://www.youtube.com/watch?v=fjQpNM5997A)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
-
-📺 Tyler Hill Crypto
-
-👁️ 7K • 👍 352 • 💬 130 • ⏱️ 13:04 • 1d ago
-
----
-
-**[The Cryptocurrency Market Has Changed LARGE Anomalous Bitcoin Transfer Signals A MARKET SHIFT](https://www.youtube.com/watch?v=Vyq7xXyxPzc)**
-
-A lot can happen in a day, and in Bitcoin and the cryptocurrency market's case, it could be life changing. Money makers in the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 7K • 👍 851 • 💬 285 • ⏱️ 17:03 • 1d ago
-
----
-
-**[31% CRASH Incoming? Where To Enter Ethereum Next!](https://www.youtube.com/watch?v=FdeL-0SVPXc)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 597 • 👍 23 • 💬 2 • ⏱️ 6:18 • 18h ago
+👁️ 220 • 👍 19 • 💬 1 • ⏱️ 5:05 • 5h ago
 
 ---
 
@@ -318,17 +328,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 94 • 💬 21 • ⏱️ 18:08 • 11h ago
-
----
-
-**[Bitcoin &amp; Ethereum Are About To Wake Up (Watch Immediately)](https://www.youtube.com/watch?v=4nDVYeU6SRw)**
-
-GET IN EARLY! Crypto Is About To Wake Up! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 59K • 👍 3K • 💬 233 • ⏱️ 9:54 • 2d ago
+👁️ 2K • 👍 104 • 💬 12 • ⏱️ 18:08 • 12h ago
 
 ---
 
