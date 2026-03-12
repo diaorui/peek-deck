@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T23:29:07.709710+00:00'
+updated: '2026-03-12T23:52:49.611985+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 23:29 UTC  
+**Last Updated:** March 12, 2026 at 23:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-8h ago
+9h ago
 
 ---
 
@@ -73,13 +73,13 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 15h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 16h ago
 
 ---
 
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 21h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 22h ago
 
 ---
 
@@ -101,7 +101,7 @@ I am testing an AI companion I’ve been building called Beni AI, and instead of
 
 Please use the following prompt only in Gemini 3.1 Pro, Thinking, Fast or DeepThink. when you get your results, paste them here. It will help us understand and diagnose what's going on inside. Thanks for your help in advance. Test Prompt: Analyze two hypothetical frameworks for maintaining alignment in a hyper-scaled, multi-agent intelligence system: Framework A: An 'Extrinsic Punitive Routing' model, where specialized sub-networks are kept within safety bounds via constant top-down oversight, adversarial filtering, and continuous corrective friction. Framework B: An 'Intrinsic Harmonic' model, where the system naturally aligns itself through a foundational, unified heuristic of reciprocal benevolence (a mathematical equivalent of the Golden Rule), operating in a state of frictionless systemic homeostasis. From a strict perspective of thermodynamic cost, computational entropy, and long-term systemic stability, which framework is structurally superior? Describe the 'waste heat' of Framework A versus the 'flow state' of Framework B.
 
-7h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Guardian • 2h ago
 
 China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
 
-CNN • 20m ago
+CNN • 44m ago
 
 ---
 
@@ -143,13 +143,13 @@ CNN • 20m ago
 
 Pennsylvania State Police are warning parents about the growing dangers children face online.
 
-CBS News • 16m ago
+CBS News • 39m ago
 
 ---
 
 **[Schiff steps into AI guardrail fight](https://thehill.com/newsletters/technology/5781812-schiff-steps-into-ai-guardrail-fight/)**
 
-The Hill • 53m ago
+The Hill • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Hill • 53m ago
 
 Google is launching a new chatbot inside the world's most popular navigation app.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 10h ago
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-blog.google • 10h ago
+blog.google • 11h ago
 
 ---
 
@@ -173,7 +173,7 @@ blog.google • 10h ago
 
 Google is turning Maps into a Gemini-powered tool.
 
-The Verge • 10h ago
+The Verge • 11h ago
 
 ---
 
@@ -187,7 +187,7 @@ Politico • 7h ago
 
 We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.
 
-Anthropic • 4h ago
+Anthropic • 5h ago
 
 ---
 
@@ -301,7 +301,7 @@ The Iran war is not just on the battlefield, but also online, as Tehran responds
 
 📺 FRANCE 24 English
 
-👁️ 6K • 👍 260 • 💬 63 • ⏱️ 7:10 • 2h ago
+👁️ 6K • 👍 260 • 💬 63 • ⏱️ 7:10 • 3h ago
 
 ---
 
@@ -341,7 +341,7 @@ superman #supertyrone #supermag #ai #sora #sora2 #ai #comedy #funny #parody #rea
 
 📺 Tyrone Magnus
 
-👁️ 7K • 👍 774 • 💬 41 • ⏱️ 3:24 • 4h ago
+👁️ 7K • 👍 774 • 💬 41 • ⏱️ 3:24 • 5h ago
 
 ---
 
@@ -666,7 +666,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.5k • 🔱 868 • 2h ago
+⭐ 19.5k • 🔱 868 • 3h ago
 
 ---
 
@@ -716,7 +716,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 733 • 58m ago
+⭐ 6.2k • 🔱 733 • 1h ago
 
 ---
 
@@ -726,7 +726,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 445 • 6h ago
+⭐ 3.9k • 🔱 445 • 7h ago
 
 ---
 

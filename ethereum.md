@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T23:29:07.731473+00:00'
+updated: '2026-03-12T23:52:49.626267+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 23:29 UTC  
+**Last Updated:** March 12, 2026 at 23:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've created a series of charts that show inflation in a way that has an emotion
 
 If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
 
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 12h ago
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 13h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 367 • 💬 40 • ⏱️ 19:58 • 7h ago
+👁️ 9K • 👍 367 • 💬 40 • ⏱️ 19:58 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ The wait is over! BlackRock (the world's biggest money manager) just turned on t
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 429 • 💬 54 • ⏱️ 2:00:28 • 6h ago
+👁️ 6K • 👍 429 • 💬 54 • ⏱️ 2:00:28 • 7h ago
 
 ---
 
@@ -296,7 +296,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 124 • 💬 15 • ⏱️ 18:08 • 20h ago
+👁️ 3K • 👍 124 • 💬 15 • ⏱️ 18:08 • 21h ago
 
 ---
 

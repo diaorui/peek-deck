@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T23:29:07.734795+00:00'
+updated: '2026-03-12T23:52:49.629459+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 23:29 UTC  
+**Last Updated:** March 12, 2026 at 23:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-12h ago
+13h ago
 
 ---
 
@@ -70,7 +70,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 We recently published research showing how generative AI can dramatically lower the barrier to entry for robot security research. Using Cybersecurity AI (CAI) we analyzed three real consumer robots: • robotic lawn mower • powered exoskeleton • window-cleaning robot In ~7 hours the system identified 38 vulnerabilities including firmware exploitation paths, BLE command injection and unauthenticated root access. Historically this kind of analysis required weeks of specialized robotics security research. Paper: https://arxiv.org/pdf/2603.08665
 
-8h ago
+9h ago
 
 ---
 
@@ -78,7 +78,7 @@ We recently published research showing how generative AI can dramatically lower 
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-14h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 Manual machined tip method takes too long and aligning these parts is not accurate. How often are people here repeating this process? For us it's at least once a month.
 
-5h ago
+6h ago
 
 ---
 
@@ -94,13 +94,13 @@ Manual machined tip method takes too long and aligning these parts is not accura
 
 Researchers have built a small wheeled robot designed to travel inside the beam pipes of the Large Hadron Collider. The collider’s vacuum tubes run for long distances and are extremely narrow, which makes internal inspection difficult once the system is assembled. The robot is designed to move through these confined spaces and capture information about the condition of the pipe interior, helping identify potential debris, damage, or other issues. Because the environment is so constrained, the system has to be compact and able to move carefully through the pipe without interfering with the structure or instrumentation.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 3h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 4h ago
 
 ---
 
 **[FlashHead: Up to 40% Faster Multimodal Reasoning on Top of Quantization](https://www.reddit.com/r/robotics/comments/1rrtvm2/flashhead_up_to_40_faster_multimodal_reasoning_on/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -158,7 +158,7 @@ Interesting Engineering • 2d ago
 
 Rhoda AI said it designed the system to operate beyond controlled laboratory demonstrations and into real-world environments.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -226,7 +226,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 26K • 👍 3K • 💬 453 • ⏱️ 5:32 • 6h ago
+👁️ 26K • 👍 3K • 💬 453 • ⏱️ 5:32 • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 2K • 👍 43 • 💬 16 • ⏱️ 2:38 • 14h ago
+👁️ 2K • 👍 43 • 💬 16 • ⏱️ 2:38 • 15h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-12T23:29:07.724305+00:00'
+updated: '2026-03-12T23:52:49.620358+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 23:29 UTC  
+**Last Updated:** March 12, 2026 at 23:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -97,7 +97,7 @@ Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The com
 
 With all the terrible news, and everyone trying to pull their money out of the markets bitcoin is actually holding. With all the fear and fud it is holding. Bitcoin really is wealth preservation and I am more bullish than ever right now.
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ I wanted a single page where I could check in on Bitcoin everyday without visiti
 
 **[we're getting another war that nobody wanted but at least we have a money that governments can't print more of](https://www.reddit.com/r/Bitcoin/comments/1rrsgew/were_getting_another_war_that_nobody_wanted_but/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -127,7 +127,7 @@ I wanted a single page where I could check in on Bitcoin everyday without visiti
 
 Excited to be a part of the network. Just looking recommendations for next steps. Any advice greatly appreciated.
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Excited to be a part of the network. Just looking recommendations for next steps
 
 We've been at war in the Middle East for most of our lives. The propaganda around the wars has been blatant and unceasing. Our nation is deeply in debt and quality of life decreasing at home, but we find a way to finance a new $1 billion/day war across the world. It's no wonder that more people, particularly millennials, are embracing bitcoin, a money which no government can vote to print more of. An open protocol which provides a global source of truth in a world of lies. A path back to sound money which would severely limit the ability for nations to wage senseless wars. Thankfully bitcoin exists and persists block after block as a beacon of hope toward a better future.
 
-8h ago
+9h ago
 
 ---
 
@@ -163,7 +163,7 @@ Any one use an ingenious way to back up your wallet? I mean besides paper or met
 
 Bitcoin traded around $69,800 as open interest rose to $102 billion, suggesting defensive, bearish bets while altcoins outperformed in a risk-off macro backdrop.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -179,7 +179,7 @@ thestreet.com • 3h ago
 
 Strategy appears to have purchased more than 4,100 bitcoin on Thursday via STRC.
 
-Bitcoin Magazine • 28m ago
+Bitcoin Magazine • 52m ago
 
 ---
 
@@ -187,7 +187,7 @@ Bitcoin Magazine • 28m ago
 
 Oscar-nominated actor Terrence Howard declared Bitcoin is “going to die” on the PBD Podcast, while predicting silver will reach “thousands of dollars” as the gold-to-silver ratio collapses from 80:1 toward 13:1. The ‘Bitcoin Is Going To Die’ Argument Howard cited...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -297,7 +297,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open source. - leventilo/boltzpay
 
-⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/leventilo/boltzpay)
+⬆️ 2 • 💬 0 • 7h ago • [GitHub](https://github.com/leventilo/boltzpay)
 
 ---
 
@@ -325,7 +325,7 @@ DOGE claimed $170 billion in savings. The real number is closer to four cents on
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 333 • ⏱️ 19:03 • 22h ago
+👁️ 25K • 👍 2K • 💬 333 • ⏱️ 19:03 • 23h ago
 
 ---
 
@@ -335,7 +335,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 433 • 💬 173 • ⏱️ 10:28 • 4h ago
+👁️ 5K • 👍 433 • 💬 173 • ⏱️ 10:28 • 5h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 736 • 💬 130 • ⏱️ 18:10 • 1h ago
+👁️ 5K • 👍 736 • 💬 130 • ⏱️ 18:10 • 2h ago
 
 ---
 
@@ -375,7 +375,7 @@ Anthony Scaramucci breaks down why Bitcoin may surge despite global turmoil. Wit
 
 📺 Valuetainment
 
-👁️ 15K • 👍 442 • 💬 167 • ⏱️ 5:36 • 11h ago
+👁️ 15K • 👍 442 • 💬 167 • ⏱️ 5:36 • 12h ago
 
 ---
 
