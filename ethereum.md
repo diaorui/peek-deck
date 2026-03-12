@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T20:37:17.668858+00:00'
+updated: '2026-03-12T21:34:20.867236+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 20:37 UTC  
+**Last Updated:** March 12, 2026 at 21:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 30m ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real asset
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 17h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've created a series of charts that show inflation in a way that has an emotion
 
 If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
 
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 9h ago
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 10h ago
 
 ---
 
@@ -154,7 +154,7 @@ I was recently auditing some smart contracts for a side project, and it struck m
 
 Crypto investors need to keep their eyes on the arrival of altcoin season.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Motley Fool • 10h ago
 
 BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 7h ago
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 4h ago
 
 ​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
 
-Seeking Alpha • 27m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ CoinDesk • 1d ago
 
 Optimism developer OP Labs is letting go of 20 employees to help it narrow focus amid shifts in the broader Ethereum landscape.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 2h ago
 
 The firm plays a central role in the development of Optimism, an Ethereum layer-2 scaling network designed to make transactions faster and cheaper by processing activity off the Ethereum main chain.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 295 • 💬 33 • ⏱️ 19:58 • 4h ago
+👁️ 6K • 👍 295 • 💬 33 • ⏱️ 19:58 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 99 • 💬 2 • ⏱️ 5:14 • 6h ago
+👁️ 1K • 👍 99 • 💬 2 • ⏱️ 5:14 • 7h ago
 
 ---
 
@@ -306,7 +306,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 118 • 💬 15 • ⏱️ 18:08 • 17h ago
+👁️ 2K • 👍 118 • 💬 15 • ⏱️ 18:08 • 18h ago
 
 ---
 

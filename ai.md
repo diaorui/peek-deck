@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T20:37:17.654086+00:00'
+updated: '2026-03-12T21:34:20.852963+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 20:37 UTC  
+**Last Updated:** March 12, 2026 at 21:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-5h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 12h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 13h ago
 
 ---
 
@@ -57,7 +57,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 12h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 13h ago
 
 ---
 
@@ -73,13 +73,13 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 12h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 13h ago
 
 ---
 
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 18h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 19h ago
 
 ---
 
@@ -93,7 +93,7 @@ Post by @emil
 
 Please use the following prompt only in Gemini 3.1 Pro, Thinking, Fast or DeepThink. when you get your results, paste them here. It will help us understand and diagnose what's going on inside. Thanks for your help in advance. Test Prompt: Analyze two hypothetical frameworks for maintaining alignment in a hyper-scaled, multi-agent intelligence system: Framework A: An 'Extrinsic Punitive Routing' model, where specialized sub-networks are kept within safety bounds via constant top-down oversight, adversarial filtering, and continuous corrective friction. Framework B: An 'Intrinsic Harmonic' model, where the system naturally aligns itself through a foundational, unified heuristic of reciprocal benevolence (a mathematical equivalent of the Golden Rule), operating in a state of frictionless systemic homeostasis. From a strict perspective of thermodynamic cost, computational entropy, and long-term systemic stability, which framework is structurally superior? Describe the 'waste heat' of Framework A versus the 'flow state' of Framework B.
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 I am testing an AI companion I’ve been building called Beni AI, and instead of asking it questions, I just started talking about my day like I would with a friend. At one point I mentioned being stressed about work. The AI didn’t jump into advice mode like most chatbots do. It paused, asked why the situation was stressing me out, and then followed up with something like: That small follow-up made the conversation feel surprisingly natural. It wasn’t just answering , it was continuing the thought. What made it feel human-like: It asked clarifying questions instead of giving instant solutions It remembered things I mentioned earlier in the conversation It didn’t try to sound overly smart , the tone was casual It still wasn’t perfect, but it was the first time an AI conversation felt closer to talking with someone rather than querying a tool. Curious what others have experienced
 
-4h ago
+5h ago
 
 ---
 
@@ -119,7 +119,7 @@ I am testing an AI companion I’ve been building called Beni AI, and instead of
 
 **[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 11h ago
 
 Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Guardian • 7h ago
 
 In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.
 
-WIRED • 49m ago
+WIRED • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ WIRED • 49m ago
 
 A slowing market for online dating and stiff competition have dented Bumble’s stock.
 
-Dallas News • 14m ago
+Dallas News • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Dallas News • 14m ago
 
 The two AI veterans announced a sovereign AI architecture designed to lock allied nations into their shared GPU and OS ecosystem.
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 26m ago
 
 Google is launching a new chatbot inside the world's most popular navigation app.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 8h ago
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-blog.google • 7h ago
+blog.google • 8h ago
 
 ---
 
@@ -181,7 +181,7 @@ KSL.com • 4h ago
 
 **[Bipartisan coalition drops new bill to supercharge AI-powered research](https://www.politico.com/live-updates/2026/03/12/congress/biotech-bill-to-supercharge-ai-powered-research-introduced-on-hill-00824298)**
 
-Politico • 4h ago
+Politico • 5h ago
 
 ---
 
@@ -189,7 +189,7 @@ Politico • 4h ago
 
 Australian billionaire founder Mike Cannon-Brookes explained the reductions in a staff memo, while also announcing his chief technology officer was leaving the Sydney-based company.  The reductions are the latest AI-linked cuts in the software industry and beyond, as companies across the globe adapt to an era in which the technology can handle many of the tasks thus far performed by humans.  “It would be disingenuous to pretend AI doesn’t change the mix of skills we need or the number of roles required in certain areas,” Cannon-Brookes said.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -267,7 +267,7 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 217 • 💬 294 • 22h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+⬆️ 217 • 💬 294 • 23h ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -281,7 +281,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 35K • 👍 2K • 💬 219 • ⏱️ 14:25 • 7h ago
+👁️ 35K • 👍 2K • 💬 219 • ⏱️ 14:25 • 8h ago
 
 ---
 
@@ -291,7 +291,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 7K • 💬 1 • ⏱️ 11:51 • 6h ago
+👁️ 7K • 💬 1 • ⏱️ 11:51 • 7h ago
 
 ---
 
@@ -301,7 +301,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 94 • ⏱️ 14:05 • 21h ago
+👁️ 51K • 👍 1K • 💬 94 • ⏱️ 14:05 • 22h ago
 
 ---
 
@@ -321,7 +321,7 @@ We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sande
 
 📺 Senator Bernie Sanders
 
-👁️ 55K • 👍 6K • 💬 1K • ⏱️ 9:37 • 21h ago
+👁️ 55K • 👍 6K • 💬 1K • ⏱️ 9:37 • 22h ago
 
 ---
 
@@ -351,7 +351,7 @@ superman #supertyrone #supermag #ai #sora #sora2 #ai #comedy #funny #parody #rea
 
 📺 Tyrone Magnus
 
-👁️ 3K • 👍 423 • 💬 31 • ⏱️ 3:24 • 1h ago
+👁️ 3K • 👍 423 • 💬 31 • ⏱️ 3:24 • 2h ago
 
 ---
 
@@ -656,7 +656,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.5k • 🔱 3.5k • 3h ago
+⭐ 26.5k • 🔱 3.5k • 4h ago
 
 ---
 
@@ -666,7 +666,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.5k • 🔱 864 • 3m ago
+⭐ 19.5k • 🔱 864 • 1h ago
 
 ---
 
@@ -676,7 +676,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.0k • 🔱 1.3k • 7h ago
+⭐ 11.0k • 🔱 1.3k • 8h ago
 
 ---
 
@@ -686,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.7k • 🔱 628 • 6h ago
+⭐ 8.7k • 🔱 628 • 7h ago
 
 ---
 
@@ -716,7 +716,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 732 • 19h ago
+⭐ 6.2k • 🔱 732 • 20h ago
 
 ---
 
@@ -726,7 +726,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 445 • 3h ago
+⭐ 3.9k • 🔱 445 • 4h ago
 
 ---
 

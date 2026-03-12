@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T20:37:17.672048+00:00'
+updated: '2026-03-12T21:34:20.870404+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 20:37 UTC  
+**Last Updated:** March 12, 2026 at 21:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-9h ago
+10h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-6h ago
+7h ago
 
 ---
 
@@ -62,7 +62,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -78,7 +78,7 @@ We recently published research showing how generative AI can dramatically lower 
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-11h ago
+12h ago
 
 ---
 
@@ -94,13 +94,13 @@ Manual machined tip method takes too long and aligning these parts is not accura
 
 Researchers have built a small wheeled robot designed to travel inside the beam pipes of the Large Hadron Collider. The collider’s vacuum tubes run for long distances and are extremely narrow, which makes internal inspection difficult once the system is assembled. The robot is designed to move through these confined spaces and capture information about the condition of the pipe interior, helping identify potential debris, damage, or other issues. Because the environment is so constrained, the system has to be compact and able to move carefully through the pipe without interfering with the structure or instrumentation.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 51m ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 1h ago
 
 ---
 
 **[FlashHead: Up to 40% Faster Multimodal Reasoning on Top of Quantization](https://www.reddit.com/r/robotics/comments/1rrtvm2/flashhead_up_to_40_faster_multimodal_reasoning_on/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -134,7 +134,7 @@ WGLT • 1d ago
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Financial Times • 19h ago
+Financial Times • 20h ago
 
 ---
 
@@ -142,7 +142,7 @@ Financial Times • 19h ago
 
 Rhoda AI said it designed the system to operate beyond controlled laboratory demonstrations and into real-world environments.
 
-The Robot Report • 56m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -158,7 +158,7 @@ CNBC • 1d ago
 
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
-New Hampshire Public Radio • 5h ago
+New Hampshire Public Radio • 6h ago
 
 ---
 
@@ -166,7 +166,7 @@ New Hampshire Public Radio • 5h ago
 
 Serve Robotics (SERV) co-founder and CEO Ali Kashani joins Asking for a Trend host Josh Lipton to go over the company's fourth quarter earnings results. Watch the video above to learn more about the company's recently announced partnership with White Castle. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -182,7 +182,7 @@ MIT Technology Review • 2d ago
 
 How world models are replacing hand-built simulators—and why they may unlock the ChatGPT moment for robotics.
 
-Bessemer Venture Partners • 7h ago
+Bessemer Venture Partners • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 17K • 👍 2K • 💬 381 • ⏱️ 5:32 • 3h ago
+👁️ 17K • 👍 2K • 💬 381 • ⏱️ 5:32 • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 8K • 👍 144 • 💬 69 • ⏱️ 4:52 • 19h ago
+👁️ 8K • 👍 144 • 💬 69 • ⏱️ 4:52 • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 2K • 👍 41 • 💬 16 • ⏱️ 2:38 • 11h ago
+👁️ 2K • 👍 41 • 💬 16 • ⏱️ 2:38 • 12h ago
 
 ---
 
