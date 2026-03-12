@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T09:44:02.286006+00:00'
+updated: '2026-03-12T10:40:28.516946+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 09:44 UTC  
+**Last Updated:** March 12, 2026 at 10:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called EELS (Exobiology Extant Life Surveyor) that is meant to explore places that cannot be reached by other robots. It is 4 meters (13 feet) long with rotating screw sections that allow it to crawl through sand, snow, ice, steep terrain, and even small tunnels. It is equipped with lidar sensors and stereo cameras to create a 3D map of the environment. It can also move independently without human intervention. EELS was meant to explore Saturn’s moon Enceladus, which is covered with ice. It could potentially move through the cracks in the ice to explore the ocean beneath the surface for life. Currently, it is being tested on Earth in places such as glaciers and Mars terrain to prepare it for other space missions.🚀 Source
 
-16h ago
+17h ago
 
 ---
 
@@ -50,15 +50,15 @@ NASA’s Jet Propulsion Laboratory (JPL) has developed a snake-like robot called
 
 The MSG gripper uses FOC stepper motors without gearboxes, enabling precise control of the gripping force and accurate detection of forces exerted by or acting on the gripper. It is designed for the latest embedded AI applications and teleoperation.
 
-15h ago
+16h ago
 
 ---
 
-**[Dr. Yuhang's robotic face](https://www.reddit.com/r/robotics/comments/1rrh5vh/dr_yuhangs_robotic_face/)**
+**[Building a navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 2)](https://www.reddit.com/r/robotics/comments/1rrlesj/building_a_navigation_software_that_will_only/)**
 
-https://reddit.com/link/1rrh5vh/video/8k19b16bljog1/player *Hu Yuhang (online name "U-Hang"), a graduate of Columbia University with a PhD, is the founder of Firstform Technology. He has long focused on research into autonomous learning in robots. His research findings have been published in top international journals such as *Nature Machine Intelligence* and *Science Robotics*. For a long time, the core reason for the stiff facial expressions of robots has been the lack of mechanical structure. Traditional rigid linkages are insufficient to simulate the extremely complex deformations of human facial muscles. This team abandoned the traditional line-driven structure and designed a dedicated lip-driven mechanism with 10 degrees of freedom (25-DoF for the entire face). This mechanism is cleverly embedded under a layer of quick-release flexible silicone "skin." It involves multi-point coordinated actuation, including the upper lip, lower lip, corners of the mouth, and jaw. This mechanical design enables the robot to physically realize closed-lip sounds (such as /p/, /b/), rounded-lip sounds (such as /u/), and complex lip-pursing movements, providing a physical execution foundation for the algorithm.
+I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-5h ago
+1h ago
 
 ---
 
@@ -66,13 +66,21 @@ https://reddit.com/link/1rrh5vh/video/8k19b16bljog1/player *Hu Yuhang (online na
 
 Look at this project I recently completed. It use the RoboBaton viobot2 (Only-vision) to achieve localization and obstacle avoidance for drones.The depth it provides is pretty decent, at least it works fine on drones.
 
-19h ago
+20h ago
+
+---
+
+**[Dr. Yuhang's robotic face](https://www.reddit.com/r/robotics/comments/1rrh5vh/dr_yuhangs_robotic_face/)**
+
+https://reddit.com/link/1rrh5vh/video/8k19b16bljog1/player *Hu Yuhang (online name "U-Hang"), a graduate of Columbia University with a PhD, is the founder of Firstform Technology. He has long focused on research into autonomous learning in robots. His research findings have been published in top international journals such as *Nature Machine Intelligence* and *Science Robotics*. For a long time, the core reason for the stiff facial expressions of robots has been the lack of mechanical structure. Traditional rigid linkages are insufficient to simulate the extremely complex deformations of human facial muscles. This team abandoned the traditional line-driven structure and designed a dedicated lip-driven mechanism with 10 degrees of freedom (25-DoF for the entire face). This mechanism is cleverly embedded under a layer of quick-release flexible silicone "skin." It involves multi-point coordinated actuation, including the upper lip, lower lip, corners of the mouth, and jaw. This mechanical design enables the robot to physically realize closed-lip sounds (such as /p/, /b/), rounded-lip sounds (such as /u/), and complex lip-pursing movements, providing a physical execution foundation for the algorithm.
+
+6h ago
 
 ---
 
 **[Open Sourced Nvidia’s fleet command](https://www.reddit.com/r/robotics/comments/1rragf7/open_sourced_nvidias_fleet_command/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +96,7 @@ BDX Droids are small autonomous bipedic droids created by Walt Disney Imagineeri
 
 A dolphin-shaped robot uses a sea-urchin-inspired filter to skim oil from water, offering a safer way to respond to spills.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/inside-the-dolphin-inspired-robot-designed-to-clean-oil-spills) • 12h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/inside-the-dolphin-inspired-robot-designed-to-clean-oil-spills) • 13h ago
 
 ---
 
@@ -96,15 +104,7 @@ A dolphin-shaped robot uses a sea-urchin-inspired filter to skim oil from water,
 
 Hi guys, so I've been building robots for a while, some of you might have seen my other posts. And as I builder I realize building the hardware, and getting it to move, is usually just half the battle, making it autonomous and capable of reasoning where to go and how to navigate is a whole other ordeal. So I thought: Wouldn't it be cool if all you needed to give a robot (or drone) intelligent navigation was: a camera, a raspberry pi & WiFi. No expensive LiDAR, no expensive Jetson, no complicated setup. So I'm starting to build this crazy idea in public. For now I have achieved: > Simple navigation ability by combining a monocular depth estimation model with a VLM > Is controlling a unreal engine simulation to navigate. > Simulation running locally talking to AI models on the cloud via a simple API > Up next: reducing on the latency and improving navigation path estimation Just wanted to share this out there in case there's more people who would also like to see the robots they build be able to be autonomous in a more easy manner.
 
-23h ago
-
----
-
-**[RealSense IMU Demo](https://www.reddit.com/r/robotics/comments/1rr3l5l/realsense_imu_demo/)**
-
-Did you know that most RealSense stereo cameras include built-in IMUs (Inertial Measurement Units)? Here's a quick demo.
-
-14h ago
+1d ago
 
 ---
 
@@ -112,49 +112,33 @@ Did you know that most RealSense stereo cameras include built-in IMUs (Inertial 
 
 ## Google News: "robotics"
 
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfXvm7bBCYyEbyBJ888qKDv-wJ83nVBbmIfwgmG-XX1LymulvAARAEg&gaa_ts=69b29b89&gaa_sig=oCdVt7k2c2KtO70u1Kpey4XnEk_LX4ZJmlBymDMVvDIFG4iTfWSfNI1spxuWFrPkZTWiDB5sYHN2FoCLQ-FmTw%3D%3D)**
+
+WSJ • 19h ago
+
+---
+
+**[Rivian-owned robotics company secures more startup funding](https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding)**
+
+A startup robotics company owned by Rivian and founded by Rivian CEO RJ Scaringe has secured $500 million in startup capital. Mind Robotics announced an investment by Accel and Andreessen Horowitz. The firm wants to build AI-powered industrial robots.
+
+WGLT • 17h ago
+
+---
+
 **[Rivian spinout Mind Robotics valued at $2 billion in Series A funding round](https://finance.yahoo.com/news/rivian-spinout-mind-robotics-valued-180654489.html)**
 
 Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Rivian CEO launches robotics startup with $500M funding round: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-ceo-scaringe-launches-robotics-startup-mind-20260311/)**
-
-Mind Robotics, a startup founded by Rivian CEO RJ Scaringe, has raised $500 million from investors including Accel and Andreessen Horowitz, according to a report from The Wall Street Journal.
-
-Crain's Chicago Business • 18h ago
-
----
-
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqdqf1RZGqQKaO3W95-Zj2Zjg1wdFRDzA4vRrJkR_ZJcG5cuEmkXYb9N&gaa_ts=69b28066&gaa_sig=fpqhHQUc82vIEZwGDffaoXVLaEsArOwK-Iwvu7nOZmQJ2IfCbk3RSqzbG2TKkn0Ooi8CCkDGzAhrC1ndRJcfOg%3D%3D)**
-
-WSJ • 18h ago
-
----
-
-**[Nosh Robotics’ $1,500 robot chef doesn’t need any help with dinner](https://www.theverge.com/tech/892655/nosh-robotics-nosh-one-launch)**
-
-This robo-chef can take over your meal prep.
-
-The Verge • 1d ago
-
----
-
-**[Geekplus Brings Pioneering 'Geekplus Brain' Embodied Intelligence and Integrated Robotics Platform to LogiMAT 2026](https://finance.yahoo.com/news/geekplus-brings-pioneering-geekplus-brain-070400167.html)**
-
-At Europe’s largest intralogistics trade show, world #1 autonomous mobile robot provider Geekplus showcases its proprietary embodied intelligence technology Geekplus Brain and solutions such as its Robot Arm Picking Station via live demonstrationsSTUTTGART, Germany, March 12, 2026 (GLOBE NEWSWIRE) -- Geekplus (Stock Code: 2590.HK), the global leader in autonomous mobile robot (AMR) warehouse solutions, spearheads an expanded vision for intelligent logistics at Europe’s largest annual intralogist
-
-Yahoo Finance • 2h ago
-
----
-
-**[Inside the labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
+**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -166,11 +150,11 @@ Bessemer Venture Partners • 1d ago
 
 ---
 
-**[Amazon is investing AU$750 million in a robotics fulfillment center in Australia](https://www.aboutamazon.com/news/company-news/australia-robotics-fulfillment-center)**
+**[Serve Robotics Announces Fourth Quarter and Full Year 2025 Results](https://finance.yahoo.com/news/serve-robotics-announces-fourth-quarter-110000555.html)**
 
-Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
+Exceeded Q4 and full year 2025 expectations with fourth quarter revenue up roughly 400% year over year to $0.9 million, and full year revenue of $2.7 million, above prior guidance of $2.5 million.Scaled the fleet to 2,000 deployed robots by year end, expanding Serve’s operating footprint to 20 cities across 6 major metropolitan areasExpanded and diversified the platform through new market launches, the addition of DoorDash alongside Uber Eats, growth to 4,500+ merchant partners, and four strateg
 
-About Amazon • 1d ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -182,11 +166,27 @@ The Republic News • 1d ago
 
 ---
 
+**[Amazon is investing AU$750 million in a robotics fulfillment center in Australia](https://www.aboutamazon.com/news/company-news/australia-robotics-fulfillment-center)**
+
+Robots will work alongside employees to process more than 125 million packages per year at the state-of-the-art facility.
+
+About Amazon • 1d ago
+
+---
+
 **[How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/)**
 
 Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
 
 MIT Technology Review • 1d ago
+
+---
+
+**[BD taps Sinteco for European pharmacy robotics partnership](https://www.fiercebiotech.com/medtech/bd-taps-sinteco-european-pharmacy-robotics-partnership)**
+
+BD has inked a technological partnership with automation provider Sinteco, aimed at pharmacy robotics. | The goal is to provide European hospitals a way to automatically sort bulk shipments of blister-packed tablets, loose pills and more into individually bar-coded packs while reducing human error.
+
+Fierce Biotech • 19h ago
 
 ---
 
@@ -250,7 +250,7 @@ This is going to be the next most toxic build in war robots. The furnace, torch 
 
 📺 PREDATOR WR
 
-👁️ 11K • 👍 389 • 💬 44 • ⏱️ 15:33 • 21h ago
+👁️ 11K • 👍 389 • 💬 44 • ⏱️ 15:33 • 22h ago
 
 ---
 
@@ -288,7 +288,7 @@ WI States Triple Crown 6219B Rock Em' Sock Em' Robot details their middle goal s
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 40 • 💬 3 • ⏱️ 0:51 • 9h ago
+👁️ 3K • 👍 40 • 💬 3 • ⏱️ 0:51 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T09:44:02.282831+00:00'
+updated: '2026-03-12T10:40:28.514127+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 09:44 UTC  
+**Last Updated:** March 12, 2026 at 10:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,022.49
+### $2,063.68
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +3.4%  
-**30d:** +5.4%  
-**90d:** -34.3%  
-**1y:** +10.1%  
+**24h:** +2.5%  
+**7d:** +4.6%  
+**30d:** +6.6%  
+**90d:** -33.5%  
+**1y:** +11.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 6h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 7h ago
+
+---
+
+**[Concept feedback](https://www.reddit.com/r/ethereum/comments/1rrlgyo/concept_feedback/)**
+
+I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
+
+1h ago
 
 ---
 
@@ -140,59 +148,37 @@ Was digging through Ethereum's earliest blocks and found this contract at 0xd2ec
 
 ---
 
-**[Daily General Discussion March 09, 2026](https://www.reddit.com/r/ethereum/comments/1ror68i/daily_general_discussion_march_09_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum's on fire with record activity, but ether price and blockchain fees lag](https://www.coindesk.com/markets/2026/03/11/ethereum-network-activity-hits-record-highs-as-ether-price-and-fee-generation-lag)**
+**[Don't Buy Ethereum Until This Happens](https://finance.yahoo.com/news/dont-buy-ethereum-until-happens-092000751.html)**
 
-Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.
+Crypto investors need to keep their eyes on the arrival of altcoin season.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Pump.fun becomes Solana's first $1B revenue platform as Ethereum, Base, BSC and Monad subdomains hint at cross-chain move](https://www.theblock.co/post/393358/pump-fun-becomes-solanas-first-1b-revenue-platform-as-ethereum-base-bsc-and-monad-subdomains-hint-at-cross-chain-move?utm_source=companies.xml&utm_medium=rss)**
+
+Pump.fun tops $1 billion in revenue as domain records reveal Ethereum, Base, BSC, and Monad subdomains amid potential cross-chain expansion.
+
+The Block • 9m ago
+
+---
+
+**[Vitalik Buterin pushes ‘DVT-Lite’ to make Ethereum validator setup easier](https://www.coindesk.com/tech/2026/03/10/vitalik-buterin-pushes-dvt-lite-to-make-ethereum-validator-setup-easier)**
+
+In a post on X, the Ethereum co-founder said that the EF is testing a new method for running validators that could make staking infrastructure significantly easier for institutions holding large amounts of ether.
 
 CoinDesk • 1d ago
-
----
-
-**[Ethereum is seeing record activity. So why is its price struggling?](https://sherwood.news/crypto/ethereum-is-seeing-record-activity-so-why-is-its-price-struggling/)**
-
-Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
-
-Sherwood News • 16h ago
-
----
-
-**[How Sharplink’s Massive Ethereum Treasury Pivot and 2025 Loss Will Impact Sharplink (SBET) Investors](https://finance.yahoo.com/news/sharplink-massive-ethereum-treasury-pivot-042949127.html)**
-
-Sharplink, Inc. reported full-year 2025 results on March 9, 2026, with revenue rising to US$28.06 million while a US$734.59 million net loss was driven largely by unrealized losses and impairments tied to its substantial Ethereum holdings. Despite this very large accounting loss, Sharplink has rapidly transformed into an Ethereum-focused treasury platform, raising up to US$3.20 billion in equity, accumulating more than 860,000 ETH, and attracting institutional ownership of around 46%...
-
-Yahoo Finance • 5h ago
 
 ---
 
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
 Binance • 4d ago
-
----
-
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqdBhqaTeItwsovCRQGRRT_oRXd7edagE6kAzeCM7ZDwnXDPQUc6jyvP&gaa_ts=69b28065&gaa_sig=kb9xkx3FmjZAOjLflKuYfuK7vmE8Ny5O7GDMEg8cBHNhFxCj9EQIbDTuxMCxXAGaBjfJJUltv_RyF4kkqwL0_g%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Ethereum Price To Rally 928%? Why $10,000 Isn’t The Real ATH Target](https://www.tradingview.com/news/newsbtc:424422d87094b:0-ethereum-price-to-rally-928-why-10-000-isn-t-the-real-ath-target/)**
-
-Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
-
-TradingView • 22h ago
 
 ---
 
@@ -204,11 +190,19 @@ Crypto Briefing • 3h ago
 
 ---
 
-**[Don't Do This 1 Very Tempting Thing With Your Bitcoin, Ethereum, or XRP Right Now](https://www.fool.com/investing/2026/03/11/dont-do-this-1-very-tempting-thing-with-your-bitco/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP attempt recovery as momentum improves](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-attempt-recovery-as-momentum-improves-202603110341)**
 
-It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of recovery, having rebounded nearly 6%, 5% and 4%, respectively, so far this week. BTC and ETH are approaching a key technical hurdle, while XRP is attempting to build momentum after stabilizing near recent lows.
 
-The Motley Fool • 22h ago
+FXStreet • 1d ago
+
+---
+
+**[Ethereum Price Prediction: Wall Street Is Choosing Ethereum — Is ETH Becoming the Backbone of Finance?](https://cryptonews.com/news/ethereum-price-prediction-wall-street-is-choosing-ethereum-is-eth-becoming-the-backbone-of-finance/)**
+
+Tokenized real world assets just exploded to $26.7B, and Ethereum is leading the charge, could this drive bullish Ethereum price prediction?
+
+Cryptonews • 10h ago
 
 ---
 
@@ -220,11 +214,19 @@ PR Newswire • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Trade Sideways As Geopolitical Caution Caps Momentum](https://www.benzinga.com/crypto/cryptocurrency/26/03/51197899/bitcoin-ethereum-xrp-dogecoin-trade-sideways-as-geopolitical-caution-caps-momentum)**
+**[Bitmine’s Massive Ethereum Bet Deepens As MAVAN Staking Launch Nears](https://finance.yahoo.com/news/bitmine-massive-ethereum-bet-deepens-091211652.html)**
 
-Bitcoin is holding $70,000 as oil price continue to remain elevated.
+Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
 
-Benzinga • 14h ago
+Yahoo Finance • 1d ago
+
+---
+
+**['Mini crypto winter' nearly over, says Tom Lee as Bitmine ramps up pace of ether acquisition](https://www.coindesk.com/business/2026/03/09/mini-crypto-winter-nearly-over-says-tom-lee-as-bitmine-ramps-up-pace-of-ether-acquisition)**
+
+The firm ramped up the pace of ETH accumulation despite sitting on staggering unrealized losses on its $9 billion crypto holdings.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -238,7 +240,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 7K • 👍 268 • 💬 102 • ⏱️ 56:53 • 23h ago
+👁️ 7K • 👍 268 • 💬 102 • ⏱️ 56:53 • 1d ago
 
 ---
 
@@ -248,7 +250,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 3K • 💬 81 • ⏱️ 12:32 • 22h ago
+👁️ 13K • 👍 3K • 💬 81 • ⏱️ 12:32 • 23h ago
 
 ---
 
@@ -268,7 +270,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 591 • 👍 22 • 💬 2 • ⏱️ 6:18 • 14h ago
+👁️ 591 • 👍 22 • 💬 2 • ⏱️ 6:18 • 15h ago
 
 ---
 
@@ -278,7 +280,7 @@ A lot can happen in a day, and in Bitcoin and the cryptocurrency market's case, 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 821 • 💬 257 • ⏱️ 17:03 • 19h ago
+👁️ 7K • 👍 821 • 💬 257 • ⏱️ 17:03 • 20h ago
 
 ---
 
@@ -288,7 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 812 • 👍 69 • 💬 5 • ⏱️ 4:17 • 6h ago
+👁️ 812 • 👍 69 • 💬 5 • ⏱️ 4:17 • 7h ago
 
 ---
 
@@ -308,7 +310,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 562 • 💬 83 • ⏱️ 10:41 • 4h ago
+👁️ 3K • 👍 562 • 💬 83 • ⏱️ 10:41 • 5h ago
 
 ---
 
