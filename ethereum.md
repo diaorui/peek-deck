@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-12T06:57:53.031011+00:00'
+updated: '2026-03-12T07:50:14.006509+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 12, 2026 at 06:57 UTC  
+**Last Updated:** March 12, 2026 at 07:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 Analysts from Citizens JMP Securities expect fundamentals to play a greater role in 2026, despite ethereum’s predicament between network activity...
 
-Sherwood News • 14h ago
+Sherwood News • 15h ago
 
 ---
 
@@ -172,7 +172,7 @@ Sherwood News • 14h ago
 
 Sharplink, Inc. reported full-year 2025 results on March 9, 2026, with revenue rising to US$28.06 million while a US$734.59 million net loss was driven largely by unrealized losses and impairments tied to its substantial Ethereum holdings. Despite this very large accounting loss, Sharplink has rapidly transformed into an Ethereum-focused treasury platform, raising up to US$3.20 billion in equity, accumulating more than 860,000 ETH, and attracting institutional ownership of around 46%...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -192,7 +192,7 @@ Barron's • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -200,7 +200,7 @@ Fortune • 16h ago
 
 Ethereum continues to struggle to surmount the resistance that has mounted at $3,000, with bears maintaining a firm grip on the price. Nevertheless, bullish sentiment surrounding the Ethereum price has not been completely eroded. This suggests that investors still expect the price to recover from t…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView • 19h ago
 
 It's been said that the market is a mechanism that moves value from those with weak hands to those with strong hands.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Block • 2d ago
 
 Bitcoin is holding $70,000 as oil price continue to remain elevated.
 
-Benzinga • 11h ago
+Benzinga • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Autumn Asmr
 
-👁️ 1K • 👍 1K • 29m ago
+👁️ 1K • 👍 1K • 1h ago
 
 ---
 
@@ -248,7 +248,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 6K • 👍 258 • 💬 115 • ⏱️ 56:53 • 20h ago
+👁️ 6K • 👍 258 • 💬 115 • ⏱️ 56:53 • 21h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 492 • 👍 45 • 💬 3 • ⏱️ 4:17 • 3h ago
+👁️ 492 • 👍 45 • 💬 3 • ⏱️ 4:17 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 523 • 👍 21 • 💬 2 • ⏱️ 6:18 • 11h ago
+👁️ 523 • 👍 21 • 💬 2 • ⏱️ 6:18 • 12h ago
 
 ---
 
