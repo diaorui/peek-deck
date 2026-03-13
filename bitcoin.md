@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-13T19:35:56.960150+00:00'
+updated: '2026-03-13T20:36:57.287358+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 19:35 UTC  
+**Last Updated:** March 13, 2026 at 20:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,211.17
+### $71,417.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +5.6%  
-**30d:** +7.3%  
-**90d:** -19.5%  
-**1y:** -15.4%  
+**24h:** +1.4%  
+**7d:** +6.0%  
+**30d:** +7.6%  
+**90d:** -19.3%  
+**1y:** -15.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1422.50B
+**Market Cap:** $1426.11B
 Rank #1
 
-**Circulating Supply:** 20,001,678 BTC
+**Circulating Supply:** 20,001,696 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.7%
+-43.4%
 
 **All-Time Low:** $67.81
-+104622.0%
++105045.3%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
 
-10h ago
+11h ago
 
 ---
 
 **[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
 
-10h ago
+11h ago
 
 ---
 
 **[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -101,13 +101,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
 
-5h ago
-
----
-
-**[A Fast History of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rs8ao1/a_fast_history_of_bitcoin/)**
-
-19h ago
+6h ago
 
 ---
 
@@ -115,7 +109,21 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 "The market is entering a high-velocity phase this morning. Bitcoin has surged past $72,000, decoupling from a strengthening dollar and rising bond yields. Market sentiment is shifting as BTC increasingly behaves as a geopolitical hedge against energy-driven inflation." This is from email from Coindesk Daybook. This is what Bicoin should have been doing all along. It does not rise snd fall with dollar or stocks, it's a hedge against them. People need to stop speculating and panicking. Bitcoin is not a speculative asset. If you think it is, please learn about the "real Bitcoin", not the one you think it is. 😉 Here is the link to article if you would like to read it... I hope the Reddit mod does not remove it like they did my other links. [ https://www.coindesk.com/daybook-us/2026/03/13/bitcoin-s-building-steam-and-a-usd3-billion-trigger-could-make-it-wild/ ] If link is not hot, pls copy/paste into browser
 
-5h ago
+6h ago
+
+---
+
+**[A Fast History of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rs8ao1/a_fast_history_of_bitcoin/)**
+
+20h ago
+
+---
+
+**[The easiest way to buy BTC near the bottom](https://www.reddit.com/r/Bitcoin/comments/1rsvldn/the_easiest_way_to_buy_btc_near_the_bottom/)**
+
+So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
+
+2h ago
 
 ---
 
@@ -123,7 +131,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 Seeing the floor hold, the speculators are already crawling back. The truth is simple and naked: ultimate price discovery always boils down to supply and demand. While some are still selling, this breakout looks strong. Even if we need to consolidate and recharge for a bit longer, I’m fine with that.
 
-17h ago
+18h ago
 
 ---
 
@@ -131,7 +139,7 @@ Seeing the floor hold, the speculators are already crawling back. The truth is s
 
 I wanted a single page where I could check in on Bitcoin everyday without visiting five different sites. So I built one. Live price (with different timeframe views), L1 and L2 network stats, Fear & Greed, ETF flows, whale alerts, mempool fees, a health score that combines 12 metrics into one number, and breaking news feed with bitcoin, US, world, and market articles as they are published in real-time. It's free for anyone to use and auto-refreshes with live data. It also has a fullscreen monitor mode if you want it on a second screen. What am I missing? What would make this more useful to you? https://21vox.com/bitcoin-pulse When you land on the page, hit 'M' on your keyboard and go fullscreen! I appreciate the feedback in advance. Update Feature requests from comments so far: Alerts and Notifications Multi-currency support Non-fullscreen monitor mode Bitcoin vs. other assets performance comparison Mobile friendly "fullscreen" dashboard view These are great suggestions. Keep an eye out as I'll be rolling them out!
 
-21h ago
+22h ago
 
 ---
 
@@ -143,14 +151,6 @@ What's up Bitcoin fam - dropping some wisdom for anyone just getting started I j
 
 ---
 
-**[DCA timing](https://www.reddit.com/r/Bitcoin/comments/1rsmtau/dca_timing/)**
-
-I am doing DCA only on weekends. But the issue is I see the price spiking on weekends and dropping again. Small spike in weekend and I invest. Then drops. I buy in spike and then drops. Started DCA from 124k. Still doing it but is there a specific day where there is data that btc is at low ? So I can just buy my x amount to DCA at that time every week ? Just curious to know
-
-6h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -159,37 +159,21 @@ I am doing DCA only on weekends. But the issue is I see the price spiking on wee
 
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
-**[Iran war oil shock more likely to affect Bitcoin miners through BTC price than energy costs, analysts say](https://www.theblock.co/post/393531/iran-war-oil-shock-more-likely-to-affect-bitcoin-miners-through-btc-price-than-energy-costs-analysts-say)**
+**[Bitcoin price news: BTC gives up gains as Middle East tensions ratchet higher](https://www.coindesk.com/markets/2026/03/13/bitcoin-quickly-drops-3-5-as-fresh-iran-escalation-short-circuits-crypto-rally)**
 
-Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
+Surging to a near one-month high of $74,000, bitcoin reversed back to just above $71,000 as news of U.S. military movements in the Middle East rattled risk assets.
 
-The Block • 7h ago
-
----
-
-**[Why Bitcoin price will ‘dramatically outperform’ every other asset class, according to Ric Edelman](https://www.dlnews.com/articles/markets/bitcoin-dramatically-outperform-every-asset-ric-edelman/)**
-
-Ric Edelman manages around $287 billion for 1.3 million clients.  He predicts Bitcoin will return up to tenfold the investment over the next decade.  Bitcoin’s role as a currency has “failed,” he said.
-
-dlnews.com • 1h ago
-
----
-
-**[Bitcoin price spikes as Iran war rages on and investors pile into ‘redemption trade’](https://www.dlnews.com/articles/markets/bitcoin-price-surges-despite-iran-us-war/)**
-
-Bitcoin’s price jumped on Friday.  It came despite no clear end in sight with geopolitical strife in the Middle East.  The wider crypto market is largely up.
-
-dlnews.com • 1h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -197,15 +181,23 @@ Bloomberg.com • 2h ago
 
 GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
-**[Billionaire analyst reveals the right time to buy Bitcoin as war escalates](https://finance.yahoo.com/news/billionaire-analyst-reveals-time-buy-204447419.html)**
+**[Energy Co-op addresses concerns over bitcoin mining](https://www.weau.com/2026/03/12/energy-co-op-addresses-concerns-over-bitcoin-mining/)**
 
-Bitcoin’s recent volatility amid the escalating U.S.-Israel-Iran conflict has left investors searching for direction. But billionaire analyst and BitMEX co-founder Arthur Hayes believes the real opportunity to buy Bitcoin (BTC) is not here yet. A long-time Bitcoin bull, Hayes recently shared ...
+Riverland Energy Cooperative worked to address those concerns at a meeting Wednesday night at the Waumandee Country Bar in Cochrane.
 
-Yahoo Finance • 1d ago
+WEAU • 1d ago
+
+---
+
+**[White House admits Iran war burned equivalent of half the US Bitcoin reserve in 6 Days](https://cryptoslate.com/white-house-admits-iran-war-burned-equivalent-of-half-the-value-of-us-bitcoin-reserve-in-6-days/)**
+
+The United States war spending hits $11.3 billion in six days, nearly half of the federal Bitcoin reserve's market value.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -217,17 +209,25 @@ Polymarket • 1d ago
 
 ---
 
-**[Crypto stocks gain as Bitcoin sell-offs could reportedly be entering final phase (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4564374-crypto-stocks-gain-as-bitcoin-sell-offs-could-reportedly-be-entering-final-phase)**
+**[Seeking Alpha interview: Andri Fauzan Adziima sees Bitcoin at $85K–$100K in 2026 (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4563809-seeking-alpha-interview-andri-fauzan-adziima-sees-bitcoin-at-85k100k-in-2026)**
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 12h ago
 
 ---
 
-**[Energy Co-op addresses concerns over bitcoin mining](https://www.weau.com/2026/03/12/energy-co-op-addresses-concerns-over-bitcoin-mining/)**
+**[Two Denver cryptocurrency investors fall out over millions in Bitcoin, lawsuit says](https://www.denverpost.com/2026/03/12/denver-cryptocurrency-investors-bitcoin-loan-lawsuit/)**
 
-Riverland Energy Cooperative worked to address those concerns at a meeting Wednesday night at the Waumandee Country Bar in Cochrane.
+James Hilliard is suing bitcoin ATM entrepreneur and founder of EasyBit, Michael Dupree over an alleged unpaid loan of nearly 70 Bitcoins.
 
-WEAU • 1d ago
+The Denver Post • 23h ago
+
+---
+
+**[Got $10,000 to Invest? Here’s What Bitcoin vs the S&P 500 Could Be Worth by 2030](https://247wallst.com/investing/2026/03/13/got-10000-to-invest-heres-what-bitcoin-vs-the-sp-500-could-be-worth-by-2030/)**
+
+$10,000 in Bitcoin today could be worth $21,000 to $140,000 by 2030. The same in the S&P 500 would likely grow to $13,600-$17,000.
+
+24/7 Wall St. • 7h ago
 
 ---
 
@@ -269,7 +269,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
 
-⬆️ 1 • 💬 0 • 21h ago • [Frozen Security](https://frozensecurity.com/tools/)
+⬆️ 1 • 💬 0 • 22h ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -315,23 +315,33 @@ S3-native streaming platform. A Kafka alternative with infinite scalability, Kaf
 
 ## YouTube Videos: "bitcoin"
 
-**[The Countdown to Bitcoin&#39;s Next Face Melting Rally Has Begun!](https://www.youtube.com/watch?v=bezGcOzLbw0)**
-
-Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven job losses, and that may be a bigger signal than ...
-
-📺 Swan Bitcoin
-
-👁️ 64K • 👍 4K • 💬 866 • ⏱️ 18:10 • 22h ago
-
----
-
 **[Strategy is Driving ALL The Bitcoin Out Of Circulation FOREVER!](https://www.youtube.com/watch?v=-_C4dZZvWIk)**
 
 Strategy may have raised over $1 billion in a single trading session, and if that's even close to true, Bitcoin's supply dynamics may ...
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 586 • 💬 98 • ⏱️ 12:14 • 4h ago
+👁️ 11K • 👍 843 • 💬 130 • ⏱️ 12:14 • 5h ago
+
+---
+
+**[The Countdown to Bitcoin&#39;s Next Face Melting Rally Has Begun!](https://www.youtube.com/watch?v=bezGcOzLbw0)**
+
+Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven job losses, and that may be a bigger signal than ...
+
+📺 Swan Bitcoin
+
+👁️ 68K • 👍 4K • 💬 918 • ⏱️ 18:10 • 23h ago
+
+---
+
+**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
+
+The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
+
+📺 Gareth Soloway
+
+👁️ 15K • 👍 2K • 💬 300 • ⏱️ 9:50 • 3h ago
 
 ---
 
@@ -341,45 +351,17 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 357 • 💬 247 • ⏱️ 9:03 • 20h ago
+👁️ 7K • 👍 359 • 💬 277 • ⏱️ 9:03 • 21h ago
 
 ---
 
-**[BITCOIN HOLDERS THIS IS CRAZY!!](https://www.youtube.com/watch?v=c277-WMg968)**
+**[This Bitcoin Chart Predicts A PUMP!](https://www.youtube.com/watch?v=T1uC2RhU5Pc)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+Deezy looks at the bullish chart pattern for Gold, Oil and Bitcoin. But Bitcoin has a major hurdle to overcome first… The topping tail ...
 
-📺 My Financial Friend
+📺 Discover Crypto
 
-👁️ 12K • 👍 598 • 💬 404 • ⏱️ 10:28 • 1d ago
-
----
-
-**[The REAL Reason Bitcoin Hasn&#39;t COLLAPSED Yet... (Not What You Think)](https://www.youtube.com/watch?v=RSB0QzlPSlQ)**
-
-Bitcoin #Crypto #Finance Bitcoin adoption continues to accelerate even as investor sentiment remains weak and global markets ...
-
-📺 The Wolf Of All Streets
-
-👁️ 8K • 👍 689 • 💬 114 • ⏱️ 22:15 • 6h ago
-
----
-
-**[Could This Be The BIGGEST Bitcoin Play Right Now?](https://www.youtube.com/watch?v=4oCTTLWAfKo)**
-
-Bitcoin may be on the verge of its next big move, and most investors could be completely missing it. Now is the time to buy, even ...
-
-📺 Valuetainment
-
-👁️ 39K • 👍 930 • 💬 85 • ⏱️ 1:06 • 23h ago
-
----
-
-**[Bitcoin’s Biggest Problem](https://www.youtube.com/watch?v=uyAVgFzW3YA)**
-
-📺 Andrei Jikh
-
-👁️ 97K • 👍 2K • 💬 92 • ⏱️ 1:05 • 3d ago
+👁️ 1K • 👍 113 • 💬 74 • ⏱️ 5:33 • 2h ago
 
 ---
 
@@ -389,25 +371,47 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 178 • ⏱️ 22:37 • 19h ago
+👁️ 24K • 👍 2K • 💬 211 • ⏱️ 22:37 • 20h ago
 
 ---
 
-**[HUGE XRP MASTERCARD AND MORE CRYPTO PARTNERSHIPS!!! ITS HERE #crypto #xrp #cryptocurrency #bitcoin](https://www.youtube.com/watch?v=eBGq2NrozuM)**
+**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
 
-📺 CryptoWendyO
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
 
-👁️ 14K • 👍 818 • 💬 45 • ⏱️ 2:04 • 1d ago
+📺 Altcoin Daily
+
+👁️ 13K • 👍 406 • 💬 111 • ⏱️ 1:13 • 2d ago
 
 ---
 
-**[“Buy Bitcoin” - Iran War Sends Bitcoin on WILD Price Swings](https://www.youtube.com/watch?v=loeNPdGjQ3E)**
+**[The REAL Reason Bitcoin Hasn&#39;t COLLAPSED Yet... (Not What You Think)](https://www.youtube.com/watch?v=RSB0QzlPSlQ)**
 
-Anthony Scaramucci breaks down why Bitcoin may surge despite global turmoil. With war in Iran, rising oil prices, and distrust in ...
+Bitcoin #Crypto #Finance Bitcoin adoption continues to accelerate even as investor sentiment remains weak and global markets ...
+
+📺 The Wolf Of All Streets
+
+👁️ 11K • 👍 792 • 💬 116 • ⏱️ 22:15 • 7h ago
+
+---
+
+**[Could This Be The BIGGEST Bitcoin Play Right Now?](https://www.youtube.com/watch?v=4oCTTLWAfKo)**
+
+Bitcoin may be on the verge of its next big move, and most investors could be completely missing it. Now is the time to buy, even ...
 
 📺 Valuetainment
 
-👁️ 24K • 👍 615 • 💬 228 • ⏱️ 5:36 • 1d ago
+👁️ 43K • 👍 995 • 💬 89 • ⏱️ 1:06 • 1d ago
+
+---
+
+**[Michael Saylor Is Actually Out Of Control (bitcoin news)](https://www.youtube.com/watch?v=czasnXXGOc0)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 70K • 👍 3K • 💬 325 • ⏱️ 9:26 • 2d ago
 
 ---
 

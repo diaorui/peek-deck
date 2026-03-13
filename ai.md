@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T19:35:56.951640+00:00'
+updated: '2026-03-13T20:36:57.278983+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 19:35 UTC  
+**Last Updated:** March 13, 2026 at 20:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,23 +41,7 @@ AI news, discussions, and developments
 
 Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
 
-🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 6h ago
-
----
-
-**[How we’re reimagining Maps with Gemini](https://www.reddit.com/r/artificial/comments/1rsl7kz/how_were_reimagining_maps_with_gemini/)**
-
-Google Maps has two new AI features: Ask Maps and Immersive Navigation.
-
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 7h ago
-
----
-
-**[Which states have been the fastest to adopt AI in the workplace?](https://www.reddit.com/r/artificial/comments/1rsp8ym/which_states_have_been_the_fastest_to_adopt_ai_in/)**
-
-See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
-
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 4h ago
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 7h ago
 
 ---
 
@@ -65,7 +49,23 @@ See which U.S. states are adopting AI at work fastest, based on U.S. Census data
 
 The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 4h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 5h ago
+
+---
+
+**[How we’re reimagining Maps with Gemini](https://www.reddit.com/r/artificial/comments/1rsl7kz/how_were_reimagining_maps_with_gemini/)**
+
+Google Maps has two new AI features: Ask Maps and Immersive Navigation.
+
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 8h ago
+
+---
+
+**[Which states have been the fastest to adopt AI in the workplace?](https://www.reddit.com/r/artificial/comments/1rsp8ym/which_states_have_been_the_fastest_to_adopt_ai_in/)**
+
+See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
+
+🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 We built ArkSim which help simulate multi-turn conversations between agents and synthetic users to see how it behaves across longer interactions. This can help find issues like: - Agents losing context during longer interactions - Unexpected conversation paths - Failures that only appear after several turns The idea is to test conversation flows more like real interactions, instead of just single prompts and capture issues early on. There are currently integration examples for: - OpenAI Agents SDK - Claude Agent SDK - Google ADK - LangChain / LangGraph - CrewAI - LlamaIndex you can try it out here: https://github.com/arklexai/arksim The integration examples are in the examples/integration folder would appreciate any feedback from people currently building agents so we can improve the tool!
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 15h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 16h ago
 
 ---
 
@@ -121,17 +121,11 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 ## Google News: "ai"
 
-**[Meta Delays Rollout of New A.I. Model After Performance Concerns](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html)**
-
-The New York Times • 19h ago
-
----
-
 **[Inside the Dirty, Dystopian World of AI Data Centers](https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/)**
 
 The race to power AI is already remaking the physical world.
 
-The Atlantic • 7h ago
+The Atlantic • 8h ago
 
 ---
 
@@ -139,59 +133,65 @@ The Atlantic • 7h ago
 
 Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
 
-CNN • 2h ago
+CNN • 4h ago
 
 ---
 
-**[Nvidia may soon unveil a brand-new AI chip. A closer look at the $20 billion bet to make it happen](https://www.cnbc.com/2026/03/13/a-closer-look-at-nvidias-20-billion-bet-on-tech-for-a-new-ai-chip.html)**
+**[Agentic AI's dealmaking problem](https://www.axios.com/pro/enterprise-software-deals/2026/03/13/private-equity-ai-anthropic-dealmaking)**
 
-At its GTC conference, Nvidia is expected to share some of its vision for incorporating technology from AI chip startup Groq.
-
-CNBC • 2h ago
+Axios • 1h ago
 
 ---
 
-**[Grammarly removes AI Expert Review feature mimicking writers after backlash](https://www.theguardian.com/books/2026/mar/13/grammarly-removes-ai-expert-review-feature-mimicking-writers-after-backlash)**
+**[Opinion | Me, Myself and My A.I. Sloppelgänger](https://www.nytimes.com/2026/03/13/opinion/ai-doppelganger-deepfake-grammarly.html)**
 
-Feature generated editing suggestions inspired by well-known authors and academics, prompting a class-action lawsuit over the use of real names without consent
-
-The Guardian • 2h ago
+The New York Times • 30m ago
 
 ---
 
-**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqfHANaUbYovpBHsu_oOjPdQ2TJ_EKoM2BvX4nqVh34I5jVw8VqstoJw&gaa_ts=69b46195&gaa_sig=KKezr3Yod3sXJIM1UiQk2iVKCOaLHA083IwLM1cCBQvOtgPy6MA68xkP-S-5J5x1uA3L2FgrzLVmpqsUV-UYTg%3D%3D)**
+**[Silicon Valley nonprofit encourages young women to lead in AI](https://www.cbsnews.com/sanfrancisco/news/silicon-valley-nonprofit-technovation-women-artificial-intelligence-ai/)**
 
-WSJ • 15h ago
+A Bay Area gender gap in the tech industry threatens the full participation of women in the future of artificial intelligence.
 
----
-
-**[AI toys for young children need tighter rules, researchers warn](https://www.bbc.com/news/articles/clyg4wx6nxgo)**
-
-In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.
-
-BBC • 10h ago
+CBS News • 28m ago
 
 ---
 
-**[Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)**
+**[AI agents could easily send college grad unemployment over 30%, ServiceNow CEO says](https://www.cnbc.com/2026/03/13/software-ai-agents-college-graduate-unemployment.html)**
 
-Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
+Technology companies, including Block and Atlassian, have already cut jobs this year due to AI adoption.
 
-Financial Times • 3h ago
-
----
-
-**[Iran waging extensive AI misinformation warfare against US, allies](https://www.foxnews.com/video/6390863874112)**
-
-Fox News' Bryan Llenas reports as Iran's shares AI-generated videos and images to spread misinformation the Middle East. CENTCOM is countering these claims with fact-checks online.
-
-Fox News • 3h ago
+CNBC • 4h ago
 
 ---
 
-**[Adobe shares drop as CEO exit fans uncertainty over AI strategy](https://www.reuters.com/business/adobe-shares-drop-after-ceo-exit-adds-ai-disruption-concerns-2026-03-13/)**
+**[Anthropic-Pentagon battle shows how big tech has reversed course on AI and war](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence)**
 
-Reuters • 10h ago
+Less than a decade ago, Google employees scuttled any military use of its AI. Now Anthropic is fighting Trump officials not over if, but how
+
+The Guardian • 9h ago
+
+---
+
+**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqc0_SdqJ1o0vq60EmDd4IETa0VhAuI-Nz8IqQ8vefludgKoK0nunV24&gaa_ts=69b478cc&gaa_sig=ou0_jJelje4yffFFuhT8jMDk6GMdtbPXyztl18zemgkyjo2c3C-xBHw4XBbhZm79KKBnRtOFVO4mREwZUQQaxg%3D%3D)**
+
+WSJ • 16h ago
+
+---
+
+**[Gamers’ Worst Nightmares About AI Are Coming True](https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/)**
+
+From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.
+
+WIRED • 9h ago
+
+---
+
+**[Cryptocurrency, AI join in $31 million super PAC blitz in four congressional primaries](https://www.wbez.org/government-politics/elections/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries)**
+
+Together with pro-Israel funds, the tech money is swamping Democratic rivals in the Chicago area and, according to one government watchdog, distorting democracy.
+
+WBEZ Chicago • 7h ago
 
 ---
 
@@ -201,7 +201,7 @@ Reuters • 10h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4170 • 💬 1642 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4174 • 💬 1647 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -209,7 +209,15 @@ Reuters • 10h ago
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 702 • 💬 366 • 22h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 704 • 💬 367 • 23h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+
+---
+
+**[Can I run AI locally?](https://news.ycombinator.com/item?id=47363754)**
+
+Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
+
+⬆️ 556 • 💬 138 • 7h ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -217,7 +225,7 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 494 • 💬 195 • 2d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 496 • 💬 195 • 2d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -229,25 +237,9 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 ---
 
-**[Can I run AI locally?](https://news.ycombinator.com/item?id=47363754)**
-
-Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
-
-⬆️ 379 • 💬 101 • 6h ago • [CanIRun.ai](https://www.canirun.ai/)
-
----
-
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 221 • 💬 299 • 1d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
-
----
-
-**[Show HN: Axe – A 12MB binary that replaces your AI framework](https://news.ycombinator.com/item?id=47350516)**
-
-A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
-
-⬆️ 206 • 💬 116 • 1d ago • [GitHub](https://github.com/jrswab/axe)
+⬆️ 221 • 💬 300 • 1d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -255,7 +247,15 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 202 • 💬 348 • 21h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 208 • 💬 356 • 22h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+
+---
+
+**[Show HN: Axe – A 12MB binary that replaces your AI framework](https://news.ycombinator.com/item?id=47350516)**
+
+A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
+
+⬆️ 206 • 💬 118 • 1d ago • [GitHub](https://github.com/jrswab/axe)
 
 ---
 
@@ -271,7 +271,7 @@ Open-source credential vault, give your AI agents access to services without exp
 
 Deterministic browser automation. Works out of the box with Claude/Codex/OpenCode - theredsix/agent-browser-protocol
 
-⬆️ 150 • 💬 52 • 2d ago • [GitHub](https://github.com/theredsix/agent-browser-protocol)
+⬆️ 151 • 💬 52 • 2d ago • [GitHub](https://github.com/theredsix/agent-browser-protocol)
 
 ---
 
@@ -285,27 +285,17 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 5K • 👍 434 • 💬 48 • ⏱️ 33:33 • 3h ago
+👁️ 14K • 👍 1K • 💬 95 • ⏱️ 33:33 • 4h ago
 
 ---
 
-**[$0.10/Month Runs My Entire AI Life. I&#39;ll Show You How.](https://www.youtube.com/watch?v=japT66frdhM)**
+**[The Matrix is coming](https://www.youtube.com/watch?v=ZqRtR6Z2U6U)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+CL1 brain chip. Growing human neurons to play video games. #ai #ainews #agi Thanks to our sponsor Manus. Use my link to get ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 AI Search
 
-👁️ 10K • 👍 578 • 💬 70 • ⏱️ 26:55 • 5h ago
-
----
-
-**[“Khamenei Is Back”? Iran Drops CHILLING AI War Video | Trump Sweats As Tehran THREATENS Strike](https://www.youtube.com/watch?v=ysUssyhrHNY)**
-
-A dramatic AI-generated video circulating online is sending a powerful message from Iran to the United States. The viral clip ...
-
-📺 Oneindia News
-
-👁️ 3K • 👍 84 • 💬 7 • ⏱️ 3:02 • 4h ago
+👁️ 59K • 👍 3K • 💬 938 • ⏱️ 21:27 • 18h ago
 
 ---
 
@@ -315,7 +305,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 74K • 👍 2K • 💬 107 • ⏱️ 14:05 • 1d ago
+👁️ 77K • 👍 2K • 💬 108 • ⏱️ 14:05 • 1d ago
 
 ---
 
@@ -325,25 +315,27 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 86K • 👍 4K • 💬 300 • ⏱️ 14:25 • 1d ago
+👁️ 92K • 👍 4K • 💬 308 • ⏱️ 14:25 • 1d ago
 
 ---
 
-**[REAL VS AI COMPILATION 😂](https://www.youtube.com/watch?v=lglEffRkVRs)**
+**[We need a moratorium on AI data centers NOW. Here’s why.](https://www.youtube.com/watch?v=qu2m7ePTsqY)**
 
-📺 Bob Reese
+We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sanders is the senior senator from Vermont.
 
-👁️ 17K • 👍 1K • 💬 35 • ⏱️ 1:09 • 2h ago
+📺 Senator Bernie Sanders
+
+👁️ 97K • 👍 10K • 💬 2K • ⏱️ 9:37 • 1d ago
 
 ---
 
-**[REAL Time AI Avatars are Here (And it&#39;s dangerous)](https://www.youtube.com/watch?v=jvuYdzmgU6o)**
+**[Repair shops using AI drive through scanners to check cars - Rich On Tech](https://www.youtube.com/watch?v=5PHBTcSInd4)**
 
-Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks to Fanvue for sponsoring this video Build ...
+Rich DeMuro checks out an AI-powered drive-through scanner that can spot potential car problems in under a minute. More info: ...
 
-📺 AI Samson
+📺 KTLA 5
 
-👁️ 8K • 👍 516 • 💬 60 • ⏱️ 13:02 • 1d ago
+👁️ 7K • 👍 156 • 💬 70 • ⏱️ 2:50 • 6h ago
 
 ---
 
@@ -353,27 +345,37 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 102K • 👍 2K • 💬 684 • ⏱️ 15:01 • 1d ago
+👁️ 108K • 👍 2K • 💬 715 • ⏱️ 15:01 • 1d ago
 
 ---
 
-**[I Asked Grok AI To Predict The 2026 Senate Map... JAW-DROPPING Results!](https://www.youtube.com/watch?v=WQX0sILf7do)**
+**[Google Maps gets an AI makeover](https://www.youtube.com/watch?v=LwRNCykPHXw)**
 
-Kalshi* 》https://bit.ly/kalshi2026 *Yapms* 》https://yapms.com/ *JacksonJude* 》https://map.jacksonjude.com/ ...
+"GMA's" Becky Worley tested out Google Maps new feature, Ask Maps, an AI enhancement that lets you ask complex questions ...
 
-📺 Election Time
+📺 Good Morning America
 
-👁️ 186K • 👍 4K • 💬 611 • ⏱️ 18:02 • 1d ago
+👁️ 11K • 👍 181 • 💬 16 • ⏱️ 2:22 • 1d ago
 
 ---
 
-**[The AI book that&#39;s freaking out national security advisors](https://www.youtube.com/watch?v=Nl7-bRFSZBs)**
+**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
 
-Way more thoughts, our curated newsletter, and free books (until we run out) → https://80000hours.org/iabied/ If we build ...
+Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
 
-📺 AI In Context
+📺 AI Revolution
 
-👁️ 288K • 👍 17K • 💬 2K • ⏱️ 43:37 • 2d ago
+👁️ 73K • 👍 2K • 💬 106 • ⏱️ 14:36 • 2d ago
+
+---
+
+**[Anthropic names jobs vulnerable to AI](https://www.youtube.com/watch?v=B-DyyVNYtCk)**
+
+AI giant Anthropic is listing some of the white-collar jobs most likely to be impacted by the technology. CBS MoneyWatch reporter ...
+
+📺 CBS News
+
+👁️ 62K • 👍 727 • 💬 216 • ⏱️ 2:46 • 2d ago
 
 ---
 
@@ -389,7 +391,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 53,243 • ❤️ 558 • 5d ago
+⬇️ 53,243 • ❤️ 564 • 5d ago
 
 ---
 
@@ -401,7 +403,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 3,142 • ❤️ 352 • 2d ago
+⬇️ 3,142 • ❤️ 357 • 2d ago
 
 ---
 
@@ -413,7 +415,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 448,513 • ❤️ 579 • 8d ago
+⬇️ 448,513 • ❤️ 582 • 8d ago
 
 ---
 
@@ -437,7 +439,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,685,919 • ❤️ 793 • 11d ago
+⬇️ 1,685,919 • ❤️ 794 • 11d ago
 
 ---
 
@@ -461,7 +463,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 163 • 2h ago
+⬇️ 6,439 • ❤️ 167 • 1h ago
 
 ---
 
@@ -473,7 +475,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 6,113 • ❤️ 151 • 2d ago
+⬇️ 6,113 • ❤️ 156 • 1h ago
 
 ---
 
@@ -485,19 +487,19 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 47,580 • ❤️ 138 • 2d ago
+⬇️ 47,580 • ❤️ 139 • 2d ago
 
 ---
 
-**[sarvam-30b](https://huggingface.co/sarvamai/sarvam-30b)**
+**[LTX-2.3-GGUF](https://huggingface.co/unsloth/LTX-2.3-GGUF)**
 
-*Sarvam AI*
+*Unsloth AI*
 
-Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text generation model optimized for resource-constrained environments. It excels in reasoning, coding, and conversational tasks across 22 Indian languages, offering state-of-the-art performance for its size.
+LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for local execution, capable of generating synchronized audio and video from image prompts with high fidelity and prompt adherence, suitable for rapid drafting or refined video creation.
 
-`text-generation` `32.2B`
+`image-to-video` `21.0B`
 
-⬇️ 9,492 • ❤️ 157 • 3d ago
+⬇️ 69,192 • ❤️ 168 • 2d ago
 
 ---
 
@@ -539,7 +541,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 85 • 💬 3 • ⭐ 2,192 • 3d ago
+▲ 85 • 💬 3 • ⭐ 2,360 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -553,7 +555,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 A novel tokenization scheme synchronizes acoustic features with text tokens in TTS systems, enabling unified modeling and reduced hallucinations through flow matching and text-only guidance.
 
-▲ 5 • 💬 0 • ⭐ 601 • 15d ago
+▲ 5 • 💬 0 • ⭐ 612 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.23068) • [💻 code](https://github.com/HumeAI/tada) • [🔗 project](https://www.hume.ai/blog/opensource-tada)
 
@@ -565,7 +567,7 @@ A novel tokenization scheme synchronizes acoustic features with text tokens in T
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 47 • 💬 2 • ⭐ 49,694 • 10mo ago
+▲ 48 • 💬 2 • ⭐ 49,694 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -649,7 +651,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 31.0k • 🔱 4.1k • 2d ago
+⭐ 31.2k • 🔱 4.2k • 2d ago
 
 ---
 
@@ -659,7 +661,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.8k • 🔱 3.5k • 4h ago
+⭐ 26.8k • 🔱 3.5k • 3m ago
 
 ---
 
@@ -669,7 +671,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.9k • 🔱 899 • 19h ago
+⭐ 19.9k • 🔱 902 • 3m ago
 
 ---
 
@@ -679,7 +681,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.2k • 🔱 1.3k • 7h ago
+⭐ 11.2k • 🔱 1.3k • 8h ago
 
 ---
 
@@ -699,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.9k • 🔱 644 • 3h ago
+⭐ 8.9k • 🔱 644 • 4h ago
 
 ---
 
@@ -709,7 +711,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.1k • 🔱 904 • 10d ago
+⭐ 7.2k • 🔱 905 • 10d ago
 
 ---
 
@@ -719,7 +721,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 738 • 2h ago
+⭐ 6.3k • 🔱 739 • 1h ago
 
 ---
 
@@ -729,7 +731,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 448 • 7h ago
+⭐ 3.9k • 🔱 448 • 8h ago
 
 ---
 
@@ -739,7 +741,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 663 • 2d ago
+⭐ 3.4k • 🔱 664 • 2d ago
 
 ---
 

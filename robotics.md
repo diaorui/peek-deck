@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T19:35:56.969275+00:00'
+updated: '2026-03-13T20:36:57.296457+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 19:35 UTC  
+**Last Updated:** March 13, 2026 at 20:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,35 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-8h ago
+9h ago
+
+---
+
+**[Marc Raibert on Why Expectations in Robotics Are Over the Top](https://www.reddit.com/r/robotics/comments/1rswnzy/marc_raibert_on_why_expectations_in_robotics_are/)**
+
+Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
+
+1h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-2h ago
+3h ago
+
+---
+
+**[Incident avec un bras robot SO101 pendant un stage](https://www.reddit.com/r/robotics/comments/1rswbow/incident_avec_un_bras_robot_so101_pendant_un_stage/)**
+
+Salut tout le monde, Je suis en stage en robotique et je devais assembler et programmer un bras robot SO101. Pendant un test de téléopération, le robot a fait un geste brusque. Le servomoteur de la première articulation s'est arrêté, mais les autres bougeaient encore (je pense que c'est ce qui s'est passé). Du coup la pièce en plastique autour s'est cassée. Je ne comprends pas. Peut-être un problème d'alimentation ? Une batterie faible ? Un problème de calibration ? Ou alors le servomoteur lui-même a lâché ? Pourtant je les avais testés avant et tout marchait. Vous avez une idée de ce qui a pu se passer ? Ce genre de chose arrive souvent ? Je me sens mal parce que c'est du matériel pro, pas mon projet perso. Merci
+
+1h ago
 
 ---
 
@@ -62,7 +78,15 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-18h ago
+19h ago
+
+---
+
+**[ROS News for the week of March 9th, 2026](https://www.reddit.com/r/robotics/comments/1rsxibv/ros_news_for_the_week_of_march_9th_2026/)**
+
+ROS News for the week of March 9th, 2026    The call for proposals for Global ROSCon 2026 in Toronto is out. Key dates you need to be aware of:   2026-03-22T00:00:00Z (UTC) Diversity scholarship applications are due! This is the only scholarship we offer, so plan accordingly 2026-04-05T00:00:00Z (UTC) Workshops proposals are due. 2026-04-26T00:00:00Z (UTC) Presentation proposals are due.       NVIDIA GTC is next week. On 2026-03-19T01:00:00Z (UTC)→2026-03-19T04:00:00Z (UTC) we’ll a few hundred p...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-9th-2026/53199) • 54m ago
 
 ---
 
@@ -76,29 +100,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
 
-12h ago
-
----
-
-**[Robotics Meetup in Pune – The Robotics Conference Community](https://www.reddit.com/r/robotics/comments/1rsf88b/robotics_meetup_in_pune_the_robotics_conference/)**
-
-Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
-
 13h ago
-
----
-
-**[Stereo Vision Real-time Point-to-Point Path Planning](https://www.reddit.com/r/robotics/comments/1rrrr2w/stereo_vision_realtime_pointtopoint_path_planning/)**
-
-The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
-
-1d ago
-
----
-
-**[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
-
-1d ago
 
 ---
 
@@ -106,7 +108,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqdcxHR_BqJTyZjSdfZbVWLZ7b4xyEOUoKAgqy8nX-QWlQ7rKxFO-b4P&gaa_ts=69b46199&gaa_sig=-FSRBOk1nyN-Lz83quBVt5n2GzZOemm2zsFlzyNz7m-K5yizM5SRH2NAFsfFGQ_ewg7FimnDWBS3_grRnfJsJw%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcrPcLDxPuheWvht6senNSR43kda00_h289UH0HFbO-JDF_xj5BHVNX&gaa_ts=69b478d1&gaa_sig=xcbnqSrpdm3o1b6IWltMSs9W24EHTHr-o0X2mxoDk61l0SHn7s9L5tzP2TyymYZlfyoEO0B3-8XBlMypxBFARA%3D%3D)**
 
 WSJ • 2d ago
 
@@ -136,11 +138,19 @@ Financial Times • 1d ago
 
 ---
 
+**[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
+
+Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
+
+NPR • 6h ago
+
+---
+
 **[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 4h ago
+Quanta Magazine • 5h ago
 
 ---
 
@@ -152,21 +162,19 @@ New Hampshire Public Radio • 1d ago
 
 ---
 
+**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
+
+Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
+
+TechCrunch • 1h ago
+
+---
+
 **[New robotics programs aim to teach North American kids programming and AI skills](https://www.stocktitan.net/news/KIDZ/classover-announces-strategic-robotics-education-collaboration-with-gjcixgew113i.html)**
 
 Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
 
-Stock Titan • 8h ago
-
----
-
-**[Exclusive: Kalanick Plots New AI Robotics Startup](https://www.theinformation.com/briefings/kalanick-plots-new-ai-robotics-startups)**
-
-Former Uber CEO and co-founder Travis Kalanick is preparing to launch a new self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. 
-
- Kalanick has also been discussing acquiring the startup founded by Anthony Levandowski, who has developing autonomous software for mining and other industrial use cases with  Pronto.ai .
-
-The Information • 3h ago
+Stock Titan • 9h ago
 
 ---
 
@@ -174,15 +182,7 @@ The Information • 3h ago
 
 Tesla CEO Elon Musk said  he expects to hire more workers and that output per Tesla employee will get "nutty high."
 
-Business Insider • 14h ago
-
----
-
-**[Kraken Announces Closing of $402.5 Million Public Offering](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-closing-of-402-5-million-public-offering-of-subscription-receipts/)**
-
-THIS RELEASE IS NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES
-
-Kraken Robotics • 1d ago
+Business Insider • 15h ago
 
 ---
 
@@ -196,7 +196,17 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 51K • 👍 4K • 💬 626 • ⏱️ 5:32 • 1d ago
+👁️ 52K • 👍 4K • 💬 634 • ⏱️ 5:32 • 1d ago
+
+---
+
+**[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
+
+At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
+
+📺 Munro Live
+
+👁️ 5K • 👍 207 • 💬 20 • ⏱️ 8:34 • 1d ago
 
 ---
 
@@ -206,7 +216,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 FUN Robotics Network
 
-👁️ 4K • 👍 153 • ⏱️ 1:10 • 19h ago
+👁️ 5K • 👍 168 • ⏱️ 1:10 • 20h ago
 
 ---
 
@@ -216,7 +226,17 @@ Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major 
 
 📺 Vizuara
 
-👁️ 195K • 👍 40 • 💬 10 • ⏱️ 5:34 • 2d ago
+👁️ 201K • 👍 43 • 💬 10 • ⏱️ 5:34 • 2d ago
+
+---
+
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
+
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
+
+📺 Reuters
+
+👁️ 7K • 👍 55 • 💬 23 • ⏱️ 2:38 • 1d ago
 
 ---
 
@@ -226,7 +246,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 56K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
+👁️ 57K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
 
 ---
 
@@ -240,33 +260,23 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
-**[Teacher Uses AI ROBOTS To CATCH CHEATERS | Dhar Mann Studios](https://www.youtube.com/watch?v=JeOCvwntTwU)**
-
-Join Our Community the Dhar Mann Studios Discord is open now, join here: http://discord.gg/aZfnEyn93Y A group of high ...
-
-📺 Dhar Mann Studios
-
-👁️ 1.0M • 👍 16K • 💬 1K • ⏱️ 26:12 • 1d ago
-
----
-
 **[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
 
 A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
 
 📺 DPCcars
 
-👁️ 17K • 👍 114 • 💬 31 • ⏱️ 3:48 • 4d ago
+👁️ 17K • 👍 116 • 💬 31 • ⏱️ 3:48 • 4d ago
 
 ---
 
-**[How Robot Demos Fool You](https://www.youtube.com/watch?v=ax_15lQF_xI)**
+**[Teacher Uses AI ROBOTS To CATCH CHEATERS | Dhar Mann Studios](https://www.youtube.com/watch?v=JeOCvwntTwU)**
 
-Have you seen those viral Chinese robot dance shows? Completely insane hardware, genuinely impressive. But if you'd stand in ...
+Join Our Community the Dhar Mann Studios Discord is open now, join here: http://discord.gg/aZfnEyn93Y A group of high ...
 
-📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
+📺 Dhar Mann Studios
 
-👁️ 444 • 👍 56 • 💬 7 • ⏱️ 18:31 • 4h ago
+👁️ 1.1M • 👍 17K • 💬 1K • ⏱️ 26:12 • 1d ago
 
 ---
 
@@ -276,15 +286,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 11K • 👍 183 • 💬 76 • ⏱️ 4:52 • 1d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=G4jYrDe3Kt0)**
-
-📺 Robot Julie 
-
-👁️ 28K • 👍 236 • 💬 3 • ⏱️ 0:23 • 2d ago
+👁️ 11K • 👍 189 • 💬 76 • ⏱️ 4:52 • 1d ago
 
 ---
 
