@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T14:11:07.298225+00:00'
+updated: '2026-03-13T15:09:15.203912+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 14:11 UTC  
+**Last Updated:** March 13, 2026 at 15:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-3h ago
+4h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -56,13 +56,13 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-13h ago
+14h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -70,7 +70,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
 
-7h ago
+8h ago
 
 ---
 
@@ -78,7 +78,7 @@ Today we put it on a real raspberry pi > Wrote some basic motion control functio
 
 Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
 
-8h ago
+9h ago
 
 ---
 
@@ -98,7 +98,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Financial Times • 1d ago
 
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
@@ -126,7 +126,7 @@ TechCrunch • 21h ago
 
 Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate their effectiveness.The company Foundation told Time that two robots were sent to Ukraine in February.Ukraine has become the […]
 
-Мілітарний • 2h ago
+Мілітарний • 3h ago
 
 ---
 
@@ -134,7 +134,7 @@ Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate 
 
 Students and faculty with a passion for robotics are making Michigan Tech a destination for all things robots and automation. To meet the needs of a quickly evolving industry, the University's scholars and researchers are using their multidisciplinary acumen to find solutions for real-world challenges in autonomous machinery. In the process, they're inspiring a new generation of robotics enthusiasts.
 
-Michigan Technological University • 55m ago
+Michigan Technological University • 1h ago
 
 ---
 
@@ -142,7 +142,7 @@ Michigan Technological University • 55m ago
 
 At AW 2026 in South Korea, global media recognized companies with strong investment, competitiveness, and international market potential.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 1h ago
 
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
-New Hampshire Public Radio • 23h ago
+New Hampshire Public Radio • 1d ago
 
 ---
 
@@ -158,7 +158,7 @@ New Hampshire Public Radio • 23h ago
 
 Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
 
-Stock Titan • 2h ago
+Stock Titan • 3h ago
 
 ---
 
@@ -166,13 +166,13 @@ Stock Titan • 2h ago
 
 At the 2026 FIRST Tech Challenge Regional Championship on Feb. 28, the St. Mary’s Dominican High School Ultraviolet Robotics Team earned the Sustain Award, placed 10th in the state, and
 
-NOLA.com • 17h ago
+NOLA.com • 18h ago
 
 ---
 
 **[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcJVam5fIStN2SziMu7Qk8A7qpsryjw43aChXCrJbAFcDuaQbBzzY-q&gaa_ts=69b41e63&gaa_sig=tzkyKpSroc-U2YeusAhO3nEifPetxo8COcyn8uFTxPFDsIQtZvCV9l6GralVcU7tKSclpvWnwTvUvQl5U4eSuA%3D%3D)**
 
-WSJ • 1d ago
+WSJ • 2d ago
 
 ---
 
@@ -188,33 +188,13 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Tesla has a China problem with their humanoid robots.  Lots of them.](https://www.youtube.com/watch?v=ezTPzAwKVng)**
-
-Tesla is shifting focus in the US market from Electric Vehicles, to the production of humanoid robots. The company is repurposing ...
-
-📺 Inside China Business
-
-👁️ 49K • 👍 4K • 💬 621 • ⏱️ 5:32 • 21h ago
-
----
-
 **[3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop](https://www.youtube.com/watch?v=SlTfA7lSBSM)**
 
 3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop This video is supported by OSHCut. Get 50% off your ...
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 116 • ⏱️ 1:10 • 13h ago
-
----
-
-**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
-
-📺 South China Morning Post
-
-👁️ 10K • 👍 182 • 💬 74 • ⏱️ 4:52 • 1d ago
+👁️ 4K • 👍 132 • ⏱️ 1:10 • 14h ago
 
 ---
 
@@ -224,7 +204,7 @@ Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major 
 
 📺 Vizuara
 
-👁️ 141K • 👍 37 • 💬 10 • ⏱️ 5:34 • 2d ago
+👁️ 180K • 👍 38 • 💬 10 • ⏱️ 5:34 • 2d ago
 
 ---
 
@@ -234,17 +214,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 4K • 👍 187 • 💬 19 • ⏱️ 8:34 • 21h ago
-
----
-
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
-
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
-
-📺 DPCcars
-
-👁️ 17K • 👍 111 • 💬 30 • ⏱️ 3:48 • 3d ago
+👁️ 4K • 👍 197 • 💬 19 • ⏱️ 8:34 • 22h ago
 
 ---
 
@@ -258,6 +228,16 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
+**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
+
+A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
+
+📺 DPCcars
+
+👁️ 17K • 👍 113 • 💬 30 • ⏱️ 3:48 • 3d ago
+
+---
+
 **[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
 
 Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
@@ -268,19 +248,41 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 ---
 
+**[Teacher Uses AI ROBOTS To CATCH CHEATERS | Dhar Mann Studios](https://www.youtube.com/watch?v=JeOCvwntTwU)**
+
+Join Our Community the Dhar Mann Studios Discord is open now, join here: http://discord.gg/aZfnEyn93Y A group of high ...
+
+📺 Dhar Mann Studios
+
+👁️ 964K • 👍 15K • 💬 1K • ⏱️ 26:12 • 1d ago
+
+---
+
+**[Tesla has a China problem with their humanoid robots.  Lots of them.](https://www.youtube.com/watch?v=ezTPzAwKVng)**
+
+Tesla is shifting focus in the US market from Electric Vehicles, to the production of humanoid robots. The company is repurposing ...
+
+📺 Inside China Business
+
+👁️ 50K • 👍 4K • 💬 621 • ⏱️ 5:32 • 22h ago
+
+---
+
+**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+
+📺 South China Morning Post
+
+👁️ 10K • 👍 182 • 💬 74 • ⏱️ 4:52 • 1d ago
+
+---
+
 **[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=G4jYrDe3Kt0)**
 
 📺 Robot Julie 
 
 👁️ 28K • 👍 235 • 💬 3 • ⏱️ 0:23 • 2d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=xCvvphfz-Oo)**
-
-📺 Robot Julie 
-
-👁️ 28K • 👍 107 • 💬 5 • ⏱️ 0:22 • 2d ago
 
 ---
 

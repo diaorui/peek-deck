@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T14:11:07.295049+00:00'
+updated: '2026-03-13T15:09:15.200736+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 14:11 UTC  
+**Last Updated:** March 13, 2026 at 15:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $258.69B
+**Market Cap:** $259.36B
 Rank #2
 
 **Circulating Supply:** 120,691,954 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.6%
+-56.5%
 
 **All-Time Low:** $0.43
-+495861.7%
++496778.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 8h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Stay informed with the latest insights in our Infostealers weekly report. Explor
 
 US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 36m ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 1h ago
 
 ---
 
@@ -96,7 +96,7 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 9h ago
 
 ---
 
@@ -104,7 +104,7 @@ ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá�
 
 Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
 
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 4h ago
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 5h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 18h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 19h ago
 
 ---
 
@@ -156,7 +156,7 @@ I've created a series of charts that show inflation in a way that has an emotion
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 1d ago
 
 Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin (BTC) and ETH update: Cryptos show resilience against global deleveraging as the 20 millionth Bitcoin is mined. Explore an intraday technical analysis
 
-marketpulse.com • 40m ago
+marketpulse.com • 1h ago
 
 ---
 
@@ -196,7 +196,7 @@ marketpulse.com • 40m ago
 
 Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -226,7 +226,7 @@ The Motley Fool • 1d ago
 
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -234,33 +234,23 @@ TradingView • 3h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=v24Ua-oTb48)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 582 • 👍 77 • 💬 4 • ⏱️ 6:41 • 1h ago
+
+---
+
 **[Tom Lee: The 100x Opportunity EVEN Bigger Than Bitcoin (New Ethereum Prediction 2026)](https://www.youtube.com/watch?v=5J885DQMOzE)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 589 • 💬 129 • ⏱️ 19:58 • 22h ago
-
----
-
-**[BlackRock&#39;s Robert Mitchnick on the launch of the firm&#39;s staked ether ETF](https://www.youtube.com/watch?v=26lG23eyt-k)**
-
-Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of the ETHB staked ether ETF.
-
-📺 CNBC Television
-
-👁️ 3K • 👍 46 • 💬 36 • ⏱️ 7:47 • 17h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eLst5IZgmco)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 113 • 💬 1 • ⏱️ 4:49 • 12h ago
+👁️ 17K • 👍 605 • 💬 130 • ⏱️ 19:58 • 23h ago
 
 ---
 
@@ -270,27 +260,47 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 116 • 👍 8 • 💬 1 • ⏱️ 4:58 • 3h ago
+👁️ 205 • 👍 10 • 💬 1 • ⏱️ 4:58 • 4h ago
 
 ---
 
-**[BlackRock Launches First Staked Ethereum ETF — While $STRC is $MSTR&#39;s Trillion Monster](https://www.youtube.com/watch?v=cebmPxYATMY)**
+**[BlackRock&#39;s Robert Mitchnick on the launch of the firm&#39;s staked ether ETF](https://www.youtube.com/watch?v=26lG23eyt-k)**
 
-Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of the ETHB staked ether ETF.
 
-📺 MONEY GAME
+📺 CNBC Television
 
-👁️ 2K • 👍 91 • 💬 14 • ⏱️ 37:23 • 3h ago
+👁️ 3K • 👍 57 • 💬 9 • ⏱️ 7:47 • 18h ago
 
 ---
 
-**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=y1L-xZM10ow)**
 
-Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
 
-📺 Coin Bureau
+📺 Trade with Burner
 
-👁️ 79K • 👍 3K • 💬 317 • ⏱️ 21:43 • 3d ago
+👁️ 2K • 👍 206 • 18m ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eLst5IZgmco)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 116 • 💬 2 • ⏱️ 4:49 • 13h ago
+
+---
+
+**[Crypto Live Trading 13 March ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=l7nXjdZsUig)**
+
+TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+
+📺 Vibe With Sahil
+
+👁️ 3K • 👍 498 • 1h ago
 
 ---
 
@@ -300,7 +310,17 @@ BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 7K • 👍 280 • 💬 225 • ⏱️ 14:40 • 15h ago
+👁️ 8K • 👍 278 • 💬 227 • ⏱️ 14:40 • 16h ago
+
+---
+
+**[BlackRock Launches First Staked Ethereum ETF — While $STRC is $MSTR&#39;s Trillion Monster](https://www.youtube.com/watch?v=cebmPxYATMY)**
+
+Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 2K • 👍 100 • 💬 16 • ⏱️ 37:23 • 4h ago
 
 ---
 
@@ -311,26 +331,6 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 📺 Thomas Kralow
 
 👁️ 15K • 👍 3K • 💬 27 • ⏱️ 12:32 • 2d ago
-
----
-
-**[CRYPTO LIVE TRADING || 13 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=KpSyruON3m4)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 5K • 👍 4K • 3h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=7diLflYjxHY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 1K • 👍 99 • 💬 1 • ⏱️ 6:07 • 9h ago
 
 ---
 
