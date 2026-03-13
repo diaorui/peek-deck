@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T21:34:43.360916+00:00'
+updated: '2026-03-13T22:29:35.121444+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 21:34 UTC  
+**Last Updated:** March 13, 2026 at 22:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
 
-🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 8h ago
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 6h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 9h ago
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 10h ago
 
 ---
 
@@ -65,7 +65,15 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
 
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 6h ago
+🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 7h ago
+
+---
+
+**[I built llms.txt for people](https://www.reddit.com/r/artificial/comments/1rt15oh/i_built_llmstxt_for_people/)**
+
+Ok this might be dumb. Spent a lot of time loking at llms.txt and thinking about content and ai AUTHORSHIP. So I made identity.txt, does the same thing as llms.txt for people. The problem: every AI tool has "custom instructions" but they're siloed. Switch tools and you lose everything. Your tone, your expertise, your preferences. You end up re-explaining yourself constantly. identity.txt is just a markdown file. Same idea as llms.txt, humans.txt, robots.txt. You write it once and it works everywhere. Paste it into ChatGPT, Claude, Gemini, wherever. Or host it at yourdomain.com/identity.txt and link to it. What's in it: - Your name (H1 heading) - Sections like ## Voice (how you write), ## Expertise (what you know), ## Preferences (hard rules) - A ## Terms section - basically robots.txt for your identity. We're also experimenting with hosting at identitytxt.org where you sign in with Google and get a permanent URL. But honestly the spec is the point, not the service. Self-hosting works fine. This is very early and experimental. We're trying to start a conversation about portable identity for AI, not ship a finished product. The spec is CC-BY 4.0 and completely open: https://github.com/Fifty-Five-and-Five/identitytxt Would love to know: do you find yourself re-explaining who you are to AI tools? Is a file convention the right answer or is there a better approach? https://identitytxt.org
+
+29m ago
 
 ---
 
@@ -73,7 +81,7 @@ See which U.S. states are adopting AI at work fastest, based on U.S. Census data
 
 We built ArkSim which help simulate multi-turn conversations between agents and synthetic users to see how it behaves across longer interactions. This can help find issues like: - Agents losing context during longer interactions - Unexpected conversation paths - Failures that only appear after several turns The idea is to test conversation flows more like real interactions, instead of just single prompts and capture issues early on. There are currently integration examples for: - OpenAI Agents SDK - Claude Agent SDK - Google ADK - LangChain / LangGraph - CrewAI - LlamaIndex you can try it out here: https://github.com/arklexai/arksim The integration examples are in the examples/integration folder would appreciate any feedback from people currently building agents so we can improve the tool!
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +97,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 17h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 18h ago
 
 ---
 
@@ -109,59 +117,43 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 ---
 
-**[Meta buys Moltbook, viral social network where AI agents interact](https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/)**
-
-Meta buys Moltbook and hires its founders as the race for autonomous AI agents intensifies across Big Tech.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-buys-moltbook-ai-agent-network) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Inside the Dirty, Dystopian World of AI Data Centers](https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/)**
-
-The race to power AI is already remaking the physical world.
-
-The Atlantic • 9h ago
-
----
 
 **[Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races](https://www.cnn.com/2026/03/13/politics/james-talarico-ai-deepfake-republicans-midterms)**
 
 Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
-**[Agentic AI's dealmaking problem](https://www.axios.com/pro/enterprise-software-deals/2026/03/13/private-equity-ai-anthropic-dealmaking)**
+**[Inside the Dirty, Dystopian World of AI Data Centers](https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/)**
 
-Axios • 2h ago
+The race to power AI is already remaking the physical world.
 
----
-
-**[Opinion | Me, Myself and My A.I. Sloppelgänger](https://www.nytimes.com/2026/03/13/opinion/ai-doppelganger-deepfake-grammarly.html)**
-
-The New York Times • 1h ago
+The Atlantic • 10h ago
 
 ---
 
-**[Silicon Valley nonprofit encourages young women to lead in AI](https://www.cbsnews.com/sanfrancisco/news/silicon-valley-nonprofit-technovation-women-artificial-intelligence-ai/)**
+**[Run OpenClaw Locally On AMD Ryzen™ AI Max+ Processors and Radeon™ GPUs](https://www.amd.com/en/resources/articles/run-openclaw-locally-on-amd-ryzen-ai-max-and-radeon-gpus.html)**
 
-A Bay Area gender gap in the tech industry threatens the full participation of women in the future of artificial intelligence.
-
-CBS News • 1h ago
+AMD • 1h ago
 
 ---
 
-**[AI agents could easily send college grad unemployment over 30%, ServiceNow CEO says](https://www.cnbc.com/2026/03/13/software-ai-agents-college-graduate-unemployment.html)**
+**[The Age of Eerie A.I. Political Ads Is Here](https://www.nytimes.com/2026/03/13/us/politics/ai-ads-campaign-deepfake.html)**
 
-Technology companies, including Block and Atlassian, have already cut jobs this year due to AI adoption.
+The New York Times • 16m ago
 
-CNBC • 5h ago
+---
+
+**[AI meal planning goes heavier on fats and proteins, nutritionists warn](https://www.cbsnews.com/chicago/video/ai-meal-planning-goes-heavier-on-fats-and-proteins-nutritionists-warn/)**
+
+Nutritionists are warning teens who use AI for meal planning that they are not being supplied with health and balanced recipes. Instead, AI goes heavy on fats and proteins.
+
+CBS News • 59m ago
 
 ---
 
@@ -169,29 +161,37 @@ CNBC • 5h ago
 
 Less than a decade ago, Google employees scuttled any military use of its AI. Now Anthropic is fighting Trump officials not over if, but how
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
-**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqc0_SdqJ1o0vq60EmDd4IETa0VhAuI-Nz8IqQ8vefludgKoK0nunV24&gaa_ts=69b478cc&gaa_sig=ou0_jJelje4yffFFuhT8jMDk6GMdtbPXyztl18zemgkyjo2c3C-xBHw4XBbhZm79KKBnRtOFVO4mREwZUQQaxg%3D%3D)**
+**[Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)**
 
-WSJ • 17h ago
+Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
----
-
-**[Gamers’ Worst Nightmares About AI Are Coming True](https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/)**
-
-From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.
-
-WIRED • 10h ago
+Financial Times • 6h ago
 
 ---
 
-**[Cryptocurrency, AI join in $31 million super PAC blitz in four congressional primaries](https://www.wbez.org/government-politics/elections/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries)**
+**[AI agents could easily send college grad unemployment over 30%, ServiceNow CEO says](https://www.cnbc.com/2026/03/13/software-ai-agents-college-graduate-unemployment.html)**
 
-Together with pro-Israel funds, the tech money is swamping Democratic rivals in the Chicago area and, according to one government watchdog, distorting democracy.
+Technology companies, including Block and Atlassian, have already cut jobs this year due to AI adoption.
 
-WBEZ Chicago • 8h ago
+CNBC • 6h ago
+
+---
+
+**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqdaE3NgTiMJAGH6bIUnZPsFzbBmIOt9dy4ugwxIPOyaJAxP3zYCINOL&gaa_ts=69b49334&gaa_sig=6ajsEG7nkj_ao_qK2o-wUiKy1EQP6sSPDwVd53vflE_9IUFcfjj6d3p83PN0puhF7pK_HlAFkYn27E88WHFpLg%3D%3D)**
+
+WSJ • 18h ago
+
+---
+
+**[She uses AI for everything. Her husband thinks AI is a menace.](https://www.washingtonpost.com/lifestyle/2026/03/13/ai-use-gap-relationships/)**
+
+What happens to a relationship when one partner depends on a chatbot for everything and the other is an AI-skeptic?
+
+The Washington Post • 5h ago
 
 ---
 
@@ -201,15 +201,7 @@ WBEZ Chicago • 8h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4174 • 💬 1647 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
-
----
-
-**[Innocent woman jailed after being misidentified using AI facial recognition](https://news.ycombinator.com/item?id=47356968)**
-
-Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
-
-⬆️ 704 • 💬 367 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 4177 • 💬 1647 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -217,7 +209,15 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 556 • 💬 138 • 8h ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 714 • 💬 207 • 9h ago • [CanIRun.ai](https://www.canirun.ai/)
+
+---
+
+**[Innocent woman jailed after being misidentified using AI facial recognition](https://news.ycombinator.com/item?id=47356968)**
+
+Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
+
+⬆️ 712 • 💬 370 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -239,7 +239,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 221 • 💬 300 • 1d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+⬆️ 222 • 💬 300 • 1d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -247,7 +247,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 208 • 💬 356 • 22h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 214 • 💬 359 • 23h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -259,19 +259,17 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 ---
 
-**[Show HN: OneCLI – Vault for AI Agents in Rust](https://news.ycombinator.com/item?id=47353558)**
+**[Elon Musk pushes out more xAI founders as AI coding effort falters](https://news.ycombinator.com/item?id=47366666)**
 
-Open-source credential vault, give your AI agents access to services without exposing keys. - onecli/onecli
+Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 155 • 💬 49 • 1d ago • [GitHub](https://github.com/onecli/onecli)
+⬆️ 196 • 💬 236 • 5h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
-**[Show HN: Open-source browser for AI agents](https://news.ycombinator.com/item?id=47336171)**
+**[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-Deterministic browser automation. Works out of the box with Claude/Codex/OpenCode - theredsix/agent-browser-protocol
-
-⬆️ 151 • 💬 52 • 2d ago • [GitHub](https://github.com/theredsix/agent-browser-protocol)
+⬆️ 183 • 💬 255 • 4h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -285,7 +283,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 14K • 👍 1K • 💬 95 • ⏱️ 33:33 • 5h ago
+👁️ 14K • 👍 1K • 💬 95 • ⏱️ 33:33 • 6h ago
 
 ---
 
@@ -295,7 +293,7 @@ CL1 brain chip. Growing human neurons to play video games. #ai #ainews #agi Than
 
 📺 AI Search
 
-👁️ 59K • 👍 3K • 💬 938 • ⏱️ 21:27 • 19h ago
+👁️ 59K • 👍 3K • 💬 938 • ⏱️ 21:27 • 20h ago
 
 ---
 
@@ -335,7 +333,7 @@ Rich DeMuro checks out an AI-powered drive-through scanner that can spot potenti
 
 📺 KTLA 5
 
-👁️ 7K • 👍 156 • 💬 70 • ⏱️ 2:50 • 7h ago
+👁️ 7K • 👍 156 • 💬 70 • ⏱️ 2:50 • 8h ago
 
 ---
 
@@ -463,7 +461,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 167 • 2h ago
+⬇️ 6,439 • ❤️ 167 • 3h ago
 
 ---
 
@@ -475,7 +473,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 6,113 • ❤️ 156 • 2h ago
+⬇️ 6,113 • ❤️ 156 • 3h ago
 
 ---
 
@@ -487,7 +485,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 47,580 • ❤️ 139 • 2d ago
+⬇️ 47,580 • ❤️ 139 • 3d ago
 
 ---
 
@@ -681,7 +679,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.2k • 🔱 1.3k • 9h ago
+⭐ 11.2k • 🔱 1.3k • 10h ago
 
 ---
 
@@ -701,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.9k • 🔱 644 • 4h ago
+⭐ 8.9k • 🔱 644 • 5h ago
 
 ---
 
@@ -731,7 +729,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 448 • 9h ago
+⭐ 3.9k • 🔱 448 • 10h ago
 
 ---
 

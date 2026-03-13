@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T21:34:43.376432+00:00'
+updated: '2026-03-13T22:29:35.136723+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 21:34 UTC  
+**Last Updated:** March 13, 2026 at 22:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-10h ago
+11h ago
 
 ---
 
@@ -44,27 +44,19 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-2h ago
-
----
-
-**[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
-
-9h ago
+3h ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Incident avec un bras robot SO101 pendant un stage](https://www.reddit.com/r/robotics/comments/1rswbow/incident_avec_un_bras_robot_so101_pendant_un_stage/)**
+**[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-Salut tout le monde, Je suis en stage en robotique et je devais assembler et programmer un bras robot SO101. Pendant un test de téléopération, le robot a fait un geste brusque. Le servomoteur de la première articulation s'est arrêté, mais les autres bougeaient encore (je pense que c'est ce qui s'est passé). Du coup la pièce en plastique autour s'est cassée. Je ne comprends pas. Peut-être un problème d'alimentation ? Une batterie faible ? Un problème de calibration ? Ou alors le servomoteur lui-même a lâché ? Pourtant je les avais testés avant et tout marchait. Vous avez une idée de ce qui a pu se passer ? Ce genre de chose arrive souvent ? Je me sens mal parce que c'est du matériel pro, pas mon projet perso. Merci
-
-2h ago
+10h ago
 
 ---
 
@@ -76,9 +68,25 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 ---
 
+**[Incident avec un bras robot SO101 pendant un stage](https://www.reddit.com/r/robotics/comments/1rswbow/incident_avec_un_bras_robot_so101_pendant_un_stage/)**
+
+Salut tout le monde, Je suis en stage en robotique et je devais assembler et programmer un bras robot SO101. Pendant un test de téléopération, le robot a fait un geste brusque. Le servomoteur de la première articulation s'est arrêté, mais les autres bougeaient encore (je pense que c'est ce qui s'est passé). Du coup la pièce en plastique autour s'est cassée. Je ne comprends pas. Peut-être un problème d'alimentation ? Une batterie faible ? Un problème de calibration ? Ou alors le servomoteur lui-même a lâché ? Pourtant je les avais testés avant et tout marchait. Vous avez une idée de ce qui a pu se passer ? Ce genre de chose arrive souvent ? Je me sens mal parce que c'est du matériel pro, pas mon projet perso. Merci
+
+3h ago
+
+---
+
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-20h ago
+21h ago
+
+---
+
+**[UK's first long‑distance robotic medical operation](https://www.reddit.com/r/robotics/comments/1rszfm7/uks_first_longdistance_robotic_medical_operation/)**
+
+London doctor carries out first UK remote robotic surgery https://bbc.com/news/articles/cq577v126g9o
+
+1h ago
 
 ---
 
@@ -86,7 +94,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 ROS News for the week of March 9th, 2026    The call for proposals for Global ROSCon 2026 in Toronto is out. Key dates you need to be aware of:   2026-03-22T00:00:00Z (UTC) Diversity scholarship applications are due! This is the only scholarship we offer, so plan accordingly 2026-04-05T00:00:00Z (UTC) Workshops proposals are due. 2026-04-26T00:00:00Z (UTC) Presentation proposals are due.       NVIDIA GTC is next week. On 2026-03-19T01:00:00Z (UTC)→2026-03-19T04:00:00Z (UTC) we’ll a few hundred p...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-9th-2026/53199) • 1h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-9th-2026/53199) • 2h ago
 
 ---
 
@@ -96,19 +104,35 @@ ROS News for the week of March 9th, 2026    The call for proposals for Global RO
 
 ---
 
-**[Building a navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 3)](https://www.reddit.com/r/robotics/comments/1rsgb8z/building_a_navigation_software_that_will_only/)**
-
-Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
-
-14h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcrPcLDxPuheWvht6senNSR43kda00_h289UH0HFbO-JDF_xj5BHVNX&gaa_ts=69b478d1&gaa_sig=xcbnqSrpdm3o1b6IWltMSs9W24EHTHr-o0X2mxoDk61l0SHn7s9L5tzP2TyymYZlfyoEO0B3-8XBlMypxBFARA%3D%3D)**
+**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
+
+Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
+
+TechCrunch • 3h ago
+
+---
+
+**[Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport](https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html)**
+
+Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
+
+CNBC • 25m ago
+
+---
+
+**[Uber co-founder Kalanick launches Atoms in specialized robotics push](https://finance.yahoo.com/news/uber-co-founder-kalanick-launches-210857971.html)**
+
+Travis Kalanick, the co-founder and former chief executive of Uber, on Friday launched his startup, ‌Atoms, focused on specialized industrial robotics designed to automate ‌tasks in the mining, transport and food sectors.  Kalanick is betting that task-specific ​machines are the key to improving industrial productivity.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfEk4A-hE7Av5Edy-d_ymq1CaweekGQRSglBxvX6RqOAAJKLJCV6QbF&gaa_ts=69b49336&gaa_sig=5h51cpWFzpN3FAlMpcLE_BJPXCBhgKTONmWAtdLeLhDFLtKWwtBcfd9qzMxl2fbYXk3Zu9r6g8t8wbCbXjYodw%3D%3D)**
 
 WSJ • 2d ago
 
@@ -122,11 +146,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[Rivian spinout Mind Robotics valued at $2 billion in Series A funding round](https://finance.yahoo.com/news/rivian-spinout-mind-robotics-valued-180654489.html)**
+**[Rivian-owned robotics company secures more startup funding](https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding)**
 
-Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
+A startup robotics company owned by Rivian and founded by Rivian CEO RJ Scaringe has secured $500 million in startup capital. Mind Robotics announced an investment by Accel and Andreessen Horowitz. The firm wants to build AI-powered industrial robots.
 
-Yahoo Finance • 2d ago
+WGLT • 2d ago
 
 ---
 
@@ -138,19 +162,19 @@ Financial Times • 1d ago
 
 ---
 
-**[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
-
-Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
-
-NPR • 7h ago
-
----
-
 **[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 6h ago
+Quanta Magazine • 7h ago
+
+---
+
+**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
+
+Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
+
+TechCrunch • 1d ago
 
 ---
 
@@ -159,30 +183,6 @@ Quanta Magazine • 6h ago
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
 New Hampshire Public Radio • 1d ago
-
----
-
-**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
-
-Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
-
-TechCrunch • 2h ago
-
----
-
-**[New robotics programs aim to teach North American kids programming and AI skills](https://www.stocktitan.net/news/KIDZ/classover-announces-strategic-robotics-education-collaboration-with-gjcixgew113i.html)**
-
-Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
-
-Stock Titan • 10h ago
-
----
-
-**[Elon Musk says Tesla expects to increase its human workforce as AI and robotics boost productivity](https://www.businessinsider.com/elon-musk-tesla-headcount-to-increase-ai-robotics-productivty-2026-3)**
-
-Tesla CEO Elon Musk said  he expects to hire more workers and that output per Tesla employee will get "nutty high."
-
-Business Insider • 16h ago
 
 ---
 
