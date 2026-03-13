@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-13T04:24:24.113842+00:00'
+updated: '2026-03-13T05:33:20.731134+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 04:24 UTC  
+**Last Updated:** March 13, 2026 at 05:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,399.12
+### $71,453.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** +6.0%  
-**30d:** +7.6%  
-**90d:** -19.3%  
-**1y:** -15.1%  
+**24h:** +2.8%  
+**7d:** +6.2%  
+**30d:** +7.8%  
+**90d:** -19.1%  
+**1y:** -15.0%  
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 What's up Bitcoin fam - dropping some wisdom for anyone just getting started I jumped into BTC back in early 2021 when it was sitting around $42K during all that craziness. Figured I was being smart getting in When it started sliding I was actually excited - more Bitcoin for less money right? Grabbed some at $36K and then again around $33K but man when it kept dropping past $29K I started getting cold feet Completely stopped my automatic weekly buys and just watched it crater below $19K thinking I was being clever by not throwing good money after bad. Really thought I dodged a bullet there Fast forward to the 2023/2024 run and wow did I feel stupid. If I just stuck with my original plan and kept buying through that whole mess I'd be in such a better spot right now Current market vibes are giving me serious flashbacks but this time I'm not making the same mistake. Still doing my weekly buys because when you zoom out Bitcoin adoption isn't going anywhere and I want to stack as much as possible before Wall Street owns everything The psychology behind why we stop buying during the scary times is wild but that's exactly when you should be most aggressive about it
 
-13h ago
-
----
-
-**[This breakout looks strong](https://www.reddit.com/r/Bitcoin/comments/1rsb20f/this_breakout_looks_strong/)**
-
-Seeing the floor hold, the speculators are already crawling back. The truth is simple and naked: ultimate price discovery always boils down to supply and demand. While some are still selling, this breakout looks strong. Even if we need to consolidate and recharge for a bit longer, I’m fine with that.
-
-2h ago
+14h ago
 
 ---
 
@@ -97,13 +89,21 @@ Seeing the floor hold, the speculators are already crawling back. The truth is s
 
 I wanted a single page where I could check in on Bitcoin everyday without visiting five different sites. So I built one. Live price (with different timeframe views), L1 and L2 network stats, Fear & Greed, ETF flows, whale alerts, mempool fees, a health score that combines 12 metrics into one number, and breaking news feed with bitcoin, US, world, and market articles as they are published in real-time. It's free for anyone to use and auto-refreshes with live data. It also has a fullscreen monitor mode if you want it on a second screen. What am I missing? What would make this more useful to you? 21vox.com/bitcoin-pulse When you land on the page, hit 'M' on your keyboard and go fullscreen! I appreciate the feedback in advance. Update Feature requests from comments so far: Alerts and Notifications Multi-currency support Non-fullscreen monitor mode Bitcoin vs. other assets performance comparison Mobile friendly "fullscreen" dashboard view These are great suggestions. Keep an eye out as I'll be rolling them out!
 
-6h ago
+7h ago
+
+---
+
+**[This breakout looks strong](https://www.reddit.com/r/Bitcoin/comments/1rsb20f/this_breakout_looks_strong/)**
+
+Seeing the floor hold, the speculators are already crawling back. The truth is simple and naked: ultimate price discovery always boils down to supply and demand. While some are still selling, this breakout looks strong. Even if we need to consolidate and recharge for a bit longer, I’m fine with that.
+
+3h ago
 
 ---
 
 **[A Fast History of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rs8ao1/a_fast_history_of_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ I wanted a single page where I could check in on Bitcoin everyday without visiti
 
 With all the terrible news, and everyone trying to pull their money out of the markets bitcoin is actually holding. With all the fear and fud it is holding. Bitcoin really is wealth preservation and I am more bullish than ever right now.
 
-11h ago
+13h ago
 
 ---
 
@@ -119,29 +119,7 @@ With all the terrible news, and everyone trying to pull their money out of the m
 
 Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The company reportedly told legislators that "no one is using Bitcoin as money" and that a Bitcoin de minimis exemption would be "DOA." Meanwhile, they're pushing for the exemption to apply only to stablecoins, specifically regulated, dollar-pegged stablecoins like USDstableshitcoin. Coinbase made $1.35 billion in stablecoin revenue in 2025, up 48% year over year, almost entirely from interest earned on U.S. Treasuries held in USDstableshitcoin reserves. Bloomberg estimates that number could surge 7x under the GENIUS Act. Every person who uses USDstableshitcoin for payments instead of Bitcoin is a person whose dollars are sitting in Coinbase's reserve pool generating risk-free yield for Coinbase. A de minimis exemption for Bitcoin would let people spend it freely for everyday purchases without triggering a taxable event. That makes Bitcoin a direct competitor to USDstableshitcoin as a payment method. Coinbase doesn't want that competition. They want you locked into their centralized stablecoin ecosystem where they clip yield on every dollar you park there. The irony is that a de minimis exemption doesn't even make sense for stablecoins. They're pegged to the dollar. They don't fluctuate in value. There's no capital gain to exempt. The exemption matters for Bitcoin precisely because it does fluctuate, and without it, every coffee purchase becomes a taxable event. Senator Lummis proposed a $300 de minimis exemption that would cover Bitcoin. The House framework only covers stablecoins under $200. The Bitcoin Policy Institute has already warned that Bitcoin is being deliberately excluded from these talks. A de minimis exemption that covers stablecoins but not Bitcoin isn't a tax framework. It's a subsidy for Coinbase's treasury management business disguised as consumer protection. https://x.com/BITCOINALLCAPS/status/2032077358904029557?s=20
 
-15h ago
-
----
-
-**[Sold Roth WANNA Buy BTC](https://www.reddit.com/r/Bitcoin/comments/1rrww1s/sold_roth_wanna_buy_btc/)**
-
-So I am in my 50s and bought a chunk of BTC in 2020 that has been secured w a dusty old tresor for 6 yrs. I just sold one of our Roth accounts nnd am buying more BTC. I have a Gemini account and a Coinbase account. I know there are new places to buy BTC. Would you still go w/ Gemini or Coinbase ? What platforms are you guys using for largish BTC purchases now. I would rather pay a higher fee than use a place I don't trust. Who do you trust? After the purchase I would then be securing it w/ my trazor also. TIA.
-
-11h ago
-
----
-
-**[BTC payment to Amex via BitcoinWell shows “failed” but Trezor says it was sent — what happened to the BTC?](https://www.reddit.com/r/Bitcoin/comments/1rs6ivy/btc_payment_to_amex_via_bitcoinwell_shows_failed/)**
-
-I’m hoping someone can help because I’m honestly panicking. On March 5, I sent a BTC payment using my Trezor to a Pay Bill address provided by Bitcoin Well to pay my Amex card. A week later I noticed the transaction shows as failed, but when I log into my Trezor wallet it shows the BTC as sent. Now I’m really confused and worried. So I’m trying to understand: If the transaction failed, where did the BTC go? Why would my wallet show the BTC as sent? Could the BTC still be stuck somewhere or pending? Would the BTC normally return to my wallet, or does Bitcoin Well have it? Has anyone experienced this with Bitcoin Well bill pay or with a Trezor transaction showing sent but failed? I’ve contacted support but haven’t heard back yet and I’m stressing about where the BTC might be.
-
-5h ago
-
----
-
-**[we're getting another war that nobody wanted but at least we have a money that governments can't print more of](https://www.reddit.com/r/Bitcoin/comments/1rrsgew/were_getting_another_war_that_nobody_wanted_but/)**
-
-13h ago
+16h ago
 
 ---
 
@@ -149,7 +127,29 @@ I’m hoping someone can help because I’m honestly panicking. On March 5, I se
 
 I bought 20 dollars (16 dollars worth after fees) from an ATM in my area and four hours later, they have not been transferred to my wallet or even broadcasted to the network. Is this normal for small amounts? I called the ATM support and they said that it was processing but sources say that it should only take around 30 minutes.
 
-1h ago
+2h ago
+
+---
+
+**[BTC payment to Amex via BitcoinWell shows “failed” but Trezor says it was sent — what happened to the BTC?](https://www.reddit.com/r/Bitcoin/comments/1rs6ivy/btc_payment_to_amex_via_bitcoinwell_shows_failed/)**
+
+I’m hoping someone can help because I’m honestly panicking. On March 5, I sent a BTC payment using my Trezor to a Pay Bill address provided by Bitcoin Well to pay my Amex card. A week later I noticed the transaction shows as failed, but when I log into my Trezor wallet it shows the BTC as sent. Now I’m really confused and worried. So I’m trying to understand: If the transaction failed, where did the BTC go? Why would my wallet show the BTC as sent? Could the BTC still be stuck somewhere or pending? Would the BTC normally return to my wallet, or does Bitcoin Well have it? Has anyone experienced this with Bitcoin Well bill pay or with a Trezor transaction showing sent but failed? I’ve contacted support but haven’t heard back yet and I’m stressing about where the BTC might be.
+
+6h ago
+
+---
+
+**[Sold Roth WANNA Buy BTC](https://www.reddit.com/r/Bitcoin/comments/1rrww1s/sold_roth_wanna_buy_btc/)**
+
+So I am in my 50s and bought a chunk of BTC in 2020 that has been secured w a dusty old tresor for 6 yrs. I just sold one of our Roth accounts nnd am buying more BTC. I have a Gemini account and a Coinbase account. I know there are new places to buy BTC. Would you still go w/ Gemini or Coinbase ? What platforms are you guys using for largish BTC purchases now. I would rather pay a higher fee than use a place I don't trust. Who do you trust? After the purchase I would then be securing it w/ my trazor also. TIA.
+
+12h ago
+
+---
+
+**[we're getting another war that nobody wanted but at least we have a money that governments can't print more of](https://www.reddit.com/r/Bitcoin/comments/1rrsgew/were_getting_another_war_that_nobody_wanted_but/)**
+
+14h ago
 
 ---
 
@@ -157,25 +157,11 @@ I bought 20 dollars (16 dollars worth after fees) from an ATM in my area and fou
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Weakens as Oil Surges Back Above $100 on Iran War](https://www.bloomberg.com/news/articles/2026-03-12/bitcoin-weakens-as-oil-surges-back-above-100-on-iran-war)**
+**[Bitcoin price news: BTC rises to one-week high following Bessent remarks](https://www.coindesk.com/markets/2026/03/12/bitcoin-climbs-to-near-usd72-000-after-treasury-secretary-bessent-attempts-to-calm-oil-fears)**
 
-Bloomberg • 11h ago
+Bessent said the U.S. Treasury Department will provide temporary authorization to allow countries to purchase Russian oil currently in transit.
 
----
-
-**[Bitcoin futures trading is now five times bigger than spot on Binance](https://www.coindesk.com/markets/2026/03/12/bitcoin-futures-trading-is-now-five-times-bigger-than-spot-on-binance)**
-
-The futures-to-spot ratio has climbed to 5.1, reflecting a structural shift in how the market trades.
-
-CoinDesk • 17h ago
-
----
-
-**[Why Bitcoin's Price Is at a Weekly High Despite Middle East Tensions](https://decrypt.co/360969/bitcoin-weekly-hig-middle-east-tensions-lift-oil-pressure-equities)**
-
-Bitcoin rose even as equities dropped, with analysts pointing to crypto-specific demand alongside geopolitical tensions driving energy markets higher.
-
-Decrypt • 37m ago
+CoinDesk • 4h ago
 
 ---
 
@@ -183,7 +169,15 @@ Decrypt • 37m ago
 
 GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
 
-The Block • 7h ago
+The Block • 9h ago
+
+---
+
+**[Bitcoin investor offers all Nevis residents $100 a month if libertarian city is approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)**
+
+Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
+
+Financial Times • 33m ago
 
 ---
 
@@ -191,19 +185,19 @@ The Block • 7h ago
 
 David Bailey has been officially confirmed as a speaker at Bitcoin 2026, returning to the conference he helped build to share his perspective on Bitcoin's
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
 **[Bitcoin Whale Strategy Goes Both Guns Blazing Amid $10 Bil Mystery](https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
 **[Michael Saylor’s Strategy Boosts Bitcoin Buying With New Model as Analyst Warns of $10,000 Price Fall](https://www.ccn.com/news/crypto/michael-saylors-strategy-bitcoin-buying-model-warns-10000-bitcoin-price/)**
 
-CCN.com • 13h ago
+CCN.com • 15h ago
 
 ---
 
@@ -215,19 +209,27 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Legal battle intensifies over £3bn bitcoin haul seized by British police](https://www.ft.com/content/b580bced-7f81-4636-b8c6-a0b200ed2bd9)**
-
-Victims of Chinese crypto fraud fight to stop Treasury capturing inflated value of the currency
-
-Financial Times • 23h ago
-
----
-
 **[Cathie Wood's ARK warns of shocking risk to 35% of Bitcoin](https://www.thestreet.com/crypto/technology/cathie-woods-ark-warns-of-shocking-risk-to-35-bitcoin)**
 
 Cathie Wood's ARK Invest publishes a white paper on Bitcoin and quantum computing.
 
-thestreet.com • 8h ago
+thestreet.com • 9h ago
+
+---
+
+**[Two Denver cryptocurrency investors fall out over millions in Bitcoin, lawsuit says](https://www.denverpost.com/2026/03/12/denver-cryptocurrency-investors-bitcoin-loan-lawsuit/)**
+
+James Hilliard is suing bitcoin ATM entrepreneur and founder of EasyBit, Michael Dupree over an alleged unpaid loan of nearly 70 Bitcoins.
+
+The Denver Post • 8h ago
+
+---
+
+**[Binance Sees US Midterms as Bitcoin Catalyst](https://bitbo.io/news/binance-midterms-bitcoin-catalyst/)**
+
+Binance Research said US midterm election cycles have historically preceded strong rebounds in Bitcoin and stocks, though geopolitical escalation and oil shocks could pressure risk assets in the near term.
+
+Bitbo • 13h ago
 
 ---
 
@@ -269,7 +271,7 @@ No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin p
 
 Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
 
-⬆️ 1 • 💬 0 • 6h ago • [Frozen Security](https://frozensecurity.com/tools/)
+⬆️ 1 • 💬 0 • 7h ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -293,7 +295,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open source. - leventilo/boltzpay
 
-⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/leventilo/boltzpay)
+⬆️ 2 • 💬 0 • 13h ago • [GitHub](https://github.com/leventilo/boltzpay)
 
 ---
 
@@ -321,7 +323,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 33K • 👍 2K • 💬 640 • ⏱️ 18:10 • 6h ago
+👁️ 33K • 👍 2K • 💬 640 • ⏱️ 18:10 • 7h ago
 
 ---
 
@@ -331,7 +333,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 538 • 💬 403 • ⏱️ 10:28 • 9h ago
+👁️ 9K • 👍 538 • 💬 403 • ⏱️ 10:28 • 10h ago
 
 ---
 
@@ -341,7 +343,7 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 1K • 💬 108 • ⏱️ 22:37 • 3h ago
+👁️ 8K • 👍 1K • 💬 108 • ⏱️ 22:37 • 4h ago
 
 ---
 
@@ -361,7 +363,7 @@ Geopolitical tensions are no longer just headline noise, they're turning into a 
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 2K • 💬 49 • ⏱️ 19:34 • 15h ago
+👁️ 19K • 👍 2K • 💬 49 • ⏱️ 19:34 • 16h ago
 
 ---
 
@@ -399,7 +401,7 @@ ChangeNOW: https://bit.ly/47E6nl9 X - https://x.com/ChangeNOW_io Telegram Channe
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 447 • 💬 49 • ⏱️ 7:08 • 18h ago
+👁️ 6K • 👍 447 • 💬 49 • ⏱️ 7:08 • 19h ago
 
 ---
 
@@ -409,7 +411,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 265 • 💬 153 • ⏱️ 9:03 • 4h ago
+👁️ 3K • 👍 265 • 💬 153 • ⏱️ 9:03 • 6h ago
 
 ---
 

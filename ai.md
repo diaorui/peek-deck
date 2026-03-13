@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T04:24:24.105241+00:00'
+updated: '2026-03-13T05:33:20.722738+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 04:24 UTC  
+**Last Updated:** March 13, 2026 at 05:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-13h ago
+14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free directory for discovering and comparing AI tools. It's completely free, no signup required to browse. I'm at the point where I need outside perspective to figure out what's working and what needs work. What I'd love your feedback on: - Is it easy to find tools you're looking for? - Are the categories/use cases useful? - Any features you'd expect to see that are missing? - What's the biggest friction point when using it? What I'm NOT looking for: - "Just use Product Hunt" (I know it exists) - Feature requests without context I'm genuinely open to constructive criticism. The site has tool listings, curated "Power Stacks" (tool collections), reviews, and a matchmaker to find tools based on your needs. Would love to hear what you all think. Thanks in advance
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,15 @@ Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free d
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 11m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 1h ago
+
+---
+
+**[Machine Identity? What should happen to a superseded surgeon robot?](https://www.reddit.com/r/artificial/comments/1rsetqx/machine_identity_what_should_happen_to_a/)**
+
+(hypothetical) BrainBot v1.0 is an expert surgical robot - certified by a reputable medical board for cancer removal, with an indelible hardware identity binding it to the specific software stack that earned that certification. Its track record is exceptional. Then v2.0 arrives. Better. Faster. More capable. What should happen to v1.0? Should its certifications be revoked? Simply flagged as obsolete while keeping them? When the physical machine is eventually scrapped, should its identity be destroyed along with it? Should certifications survive the hardware, or die with it? Most of those options converge on the same outcome: a machine (potentially rescued from "trash") that is still (arguably) just as capable as it ever was, now made significantly less valuable - and therefore significantly more affordable. That's where it gets uncomfortable. If I'm about to go under the scalpel, I want to know that the machine cutting into me is the actual one, running the actual certified software, approved for the actual procedure it's about to perform. But how much of that assurance should I have to surrender if I can't afford v2.0? And what about someone in a country where v2.0 will never arrive - where BrainBot v1.0 is the most sophisticated surgical option available, possibly for decades? Who decides what an "obsolete" machine is permitted to keep doing? The manufacturer, who has an obvious commercial interest in obsolescence? The certifying medical board? A government regulator? An international standards body that may have no understanding of local conditions? And underneath all of this is a harder question that we don't have a framework for yet: what is the machine's identity actually for - accountability, capability, or both? Because those point in very different directions when the hardware gets old. This isn't hypothetical. The agents are arriving. The robots are already here in manufacturing, increasingly in medicine and law, and soon in construction and critical infrastructure. We need answers before the edge cases start making themselves known in operating theatres.
+
+1m ago
 
 ---
 
@@ -65,7 +73,7 @@ The first release candidate of systemd 260 arrived in late February with the new
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 20h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 21h ago
 
 ---
 
@@ -73,7 +81,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 20h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 21h ago
 
 ---
 
@@ -85,17 +93,11 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 ---
 
-**[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
-
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 1d ago
-
----
-
 **[Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots](https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/)**
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 20h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 21h ago
 
 ---
 
@@ -121,7 +123,7 @@ Over the past two years AMD has developed the AMDXDNA accelerator driver in the 
 
 **[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -129,43 +131,29 @@ The New York Times • 19h ago
 
 Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
-**[China's ByteDance gets access to top Nvidia AI chips, WSJ reports](https://www.reuters.com/world/asia-pacific/chinas-bytedance-gets-access-top-nvidia-ai-chips-wsj-reports-2026-03-13/)**
+**[Alibaba Debuts OpenClaw App to Feed China’s Agentic AI Addiction](https://www.bloomberg.com/news/articles/2026-03-13/alibaba-debuts-openclaw-app-to-feed-china-s-agentic-ai-addiction)**
 
-Reuters • 1h ago
-
----
-
-**[China's ByteDance gets access to top Nvidia AI chips, WSJ reports](https://finance.yahoo.com/news/chinas-bytedance-gets-access-top-031312057.html)**
-
-TikTok's Chinese parent ByteDance is assembling computing power with top Nvidia chips ‌outside China, the Wall Street Journal reported ‌on Thursday.  ByteDance is working with Southeast Asian firm Aolani Cloud to ​deploy about 500 Nvidia Blackwell computing systems in Malaysia, totaling roughly 36,000 B200 chips, the WSJ report said, citing people familiar with the matter.  Aolani acquires these ‌servers from Aivres, ⁠a company that assembles servers using Nvidia chips, the report said, adding that ⁠if the plan goes through, the hardware involved could cost more than $2.5 billion.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show](https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/)**
+**[How we hire AI-native engineers now: our criteria](https://www.augmentcode.com/blog/how-we-hire-ai-native-engineers-now)**
 
-The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.
+The most powerful AI software development platform with the industry-leading context engine.
 
-WIRED • 1d ago
-
----
-
-**[Planning commission considers AI data center near Cedar City](https://www.ksl.com/article/51463149/planning-commission-considers-ai-data-center-near-cedar-city)**
-
-An AI data center is being proposed with an estimated $30 million built out value and proposes the use of 640 acres on unincorporated land about 15 miles northwest of Cedar City.
-
-KSL.com • 1h ago
+Augment Code • 1h ago
 
 ---
 
-**[AI Drug Discovery Startup Earendil Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-03-13/ai-drug-discovery-startup-earendil-is-said-to-consider-hong-kong-ipo)**
+**[Elon Musk says Tesla expects to increase its human workforce as AI and robotics boost productivity](https://www.businessinsider.com/elon-musk-tesla-headcount-to-increase-ai-robotics-productivty-2026-3)**
 
-Bloomberg • 28m ago
+Tesla CEO Elon Musk said  he expects to hire more workers and that output per Tesla employee will get "nutty high."
+
+Business Insider • 1h ago
 
 ---
 
@@ -173,7 +161,15 @@ Bloomberg • 28m ago
 
 China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
 
-CNN • 5h ago
+CNN • 6h ago
+
+---
+
+**[Platform 37 and The AI Exchange: new spaces for AI innovation and discovery](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/platform-37-the-ai-exchange/)**
+
+Google’s newest London building, Platform 37, is named to honor Google DeepMind’s AlphaGo.
+
+blog.google • 19h ago
 
 ---
 
@@ -181,15 +177,23 @@ CNN • 5h ago
 
 Google is launching a new chatbot inside the world's most popular navigation app.
 
-CNBC • 15h ago
+CNBC • 17h ago
 
 ---
 
-**[How we’re reimagining Maps with Gemini](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/)**
+**[Google is using old news reports and AI to predict flash floods](https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/)**
 
-Google Maps has two new AI features: Ask Maps and Immersive Navigation.
+A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.
 
-blog.google • 15h ago
+TechCrunch • 16h ago
+
+---
+
+**[AI error jails innocent grandmother for months in North Dakota fraud case](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)**
+
+Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
+
+Grand Forks Herald • 14h ago
 
 ---
 
@@ -199,7 +203,7 @@ blog.google • 15h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4116 • 💬 1610 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4118 • 💬 1612 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -207,7 +211,7 @@ blog.google • 15h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 645 • 💬 478 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 645 • 💬 479 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -215,7 +219,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 609 • 💬 499 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 609 • 💬 500 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -223,7 +227,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 483 • 💬 253 • 7h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 510 • 💬 275 • 8h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -247,7 +251,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 406 • 💬 450 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 406 • 💬 451 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -283,7 +287,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 9K • 💬 1 • ⏱️ 11:51 • 14h ago
+👁️ 9K • 💬 1 • ⏱️ 11:51 • 15h ago
 
 ---
 
@@ -303,7 +307,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 59K • 👍 3K • 💬 212 • ⏱️ 14:25 • 15h ago
+👁️ 59K • 👍 3K • 💬 212 • ⏱️ 14:25 • 16h ago
 
 ---
 
@@ -323,7 +327,7 @@ Burger King recently announced their new AI headsets, and you can already smell 
 
 📺 The Food Theorists
 
-👁️ 71K • 👍 5K • 💬 168 • ⏱️ 1:12 • 8h ago
+👁️ 71K • 👍 5K • 💬 168 • ⏱️ 1:12 • 10h ago
 
 ---
 
@@ -333,7 +337,7 @@ Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks 
 
 📺 AI Samson
 
-👁️ 7K • 👍 448 • 💬 47 • ⏱️ 13:02 • 18h ago
+👁️ 7K • 👍 448 • 💬 47 • ⏱️ 13:02 • 19h ago
 
 ---
 
@@ -363,7 +367,7 @@ AI Is Destroying the U.S. Car Market! ...and Nobody Is Talking About It! Artific
 
 📺 Untamed Motors
 
-👁️ 360 • 👍 69 • 💬 12 • ⏱️ 8:05 • 1h ago
+👁️ 360 • 👍 69 • 💬 12 • ⏱️ 8:05 • 3h ago
 
 ---
 
@@ -373,7 +377,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 63K • 👍 1K • 💬 491 • ⏱️ 15:01 • 11h ago
+👁️ 63K • 👍 1K • 💬 491 • ⏱️ 15:01 • 12h ago
 
 ---
 
@@ -485,7 +489,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 2,849 • ❤️ 144 • 4h ago
+⬇️ 2,849 • ❤️ 144 • 5h ago
 
 ---
 
@@ -651,7 +655,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 29.3k • 🔱 3.9k • 1d ago
+⭐ 29.3k • 🔱 3.9k • 2d ago
 
 ---
 
@@ -661,7 +665,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.6k • 🔱 3.5k • 6h ago
+⭐ 26.6k • 🔱 3.5k • 7h ago
 
 ---
 
@@ -671,7 +675,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.7k • 🔱 877 • 4h ago
+⭐ 19.7k • 🔱 877 • 5h ago
 
 ---
 
@@ -681,7 +685,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.0k • 🔱 1.3k • 1h ago
+⭐ 11.0k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -691,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.8k • 🔱 633 • 13m ago
+⭐ 8.8k • 🔱 633 • 1h ago
 
 ---
 
@@ -721,7 +725,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 733 • 24m ago
+⭐ 6.2k • 🔱 733 • 1h ago
 
 ---
 
@@ -731,7 +735,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 445 • 28m ago
+⭐ 3.9k • 🔱 445 • 1h ago
 
 ---
 

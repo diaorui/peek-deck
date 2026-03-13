@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T04:24:24.123085+00:00'
+updated: '2026-03-13T05:33:20.740339+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 04:24 UTC  
+**Last Updated:** March 13, 2026 at 05:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-17h ago
+18h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -50,13 +50,13 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-14h ago
+15h ago
 
 ---
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -68,15 +68,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-15h ago
-
----
-
-**[Compressing Vision Models Onboard Robots](https://www.reddit.com/r/robotics/comments/1rs83hf/compressing_vision_models_onboard_robots/)**
-
-Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. If you're running perception on constrained hardware I'd love your input. Is memory the bottleneck? Would fitting a larger model in the same budget actually help?
-
-4h ago
+16h ago
 
 ---
 
@@ -84,7 +76,15 @@ Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. I
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-19h ago
+20h ago
+
+---
+
+**[Compressing Vision Models Onboard Robots](https://www.reddit.com/r/robotics/comments/1rs83hf/compressing_vision_models_onboard_robots/)**
+
+Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. If you're running perception on constrained hardware I'd love your input. Is memory the bottleneck? Would fitting a larger model in the same budget actually help?
+
+5h ago
 
 ---
 
@@ -92,7 +92,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 Researchers have built a small wheeled robot designed to travel inside the beam pipes of the Large Hadron Collider. The collider’s vacuum tubes run for long distances and are extremely narrow, which makes internal inspection difficult once the system is assembled. The robot is designed to move through these confined spaces and capture information about the condition of the pipe interior, helping identify potential debris, damage, or other issues. Because the environment is so constrained, the system has to be compact and able to move carefully through the pipe without interfering with the structure or instrumentation.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 8h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 9h ago
 
 ---
 
@@ -100,7 +100,7 @@ Researchers have built a small wheeled robot designed to travel inside the beam 
 
 We recently published research showing how generative AI can dramatically lower the barrier to entry for robot security research. Using Cybersecurity AI (CAI) we analyzed three real consumer robots: • robotic lawn mower • powered exoskeleton • window-cleaning robot In ~7 hours the system identified 38 vulnerabilities including firmware exploitation paths, BLE command injection and unauthenticated root access. Historically this kind of analysis required weeks of specialized robotics security research. Paper: https://arxiv.org/pdf/2603.08665
 
-13h ago
+14h ago
 
 ---
 
@@ -108,7 +108,7 @@ We recently published research showing how generative AI can dramatically lower 
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeI6eQ4hTCjGUR3YA4bkW86vGnjXR694vaGvk3xzhbOg9wh6WbO7gNC&gaa_ts=69b394e4&gaa_sig=YyNyS2hKPuRvAuftR8xS3-cnnOD6s8FpP5_GfQ51OVTz8bPoQfSL93wfWre4m_P1bgseUTzC5x7260rD9e1cUQ%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfM6-a-61Lo5pGuXtiqsXge0M-jcaMFRGa86Ls8ssWfsk7b5AcTRTnc&gaa_ts=69b3a511&gaa_sig=-WIkqcks2e4RuktIiNB0hcQB_kU73fNA4ScSg2WDPNbP3a97z70WTkW8DMwNt50RaAqzYKpqHAOjgqgLp9mzgw%3D%3D)**
 
 WSJ • 1d ago
 
@@ -130,14 +130,6 @@ TechCrunch • 1d ago
 
 ---
 
-**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
-
-Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
-
-TechCrunch • 11h ago
-
----
-
 **[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
@@ -146,19 +138,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Centaur-style wearable robot adds 2 legs to cut walking effort by 35%](https://interestingengineering.com/ai-robotics/centaur-robot-legs-cut-walking-effort)**
-
-Centaur-style wearable robot adds two legs behind humans, cutting walking effort by 35% while carrying heavy loads.
-
-Interesting Engineering • 5h ago
-
----
-
 **[Kamen resigns from FIRST robotics in wake of Epstein ties](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire)**
 
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
-New Hampshire Public Radio • 13h ago
+New Hampshire Public Radio • 14h ago
 
 ---
 
@@ -170,11 +154,27 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
+
+Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
+
+TechCrunch • 12h ago
+
+---
+
 **[How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/)**
 
 Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
 
 MIT Technology Review • 2d ago
+
+---
+
+**[Elon Musk says Tesla expects to increase its human workforce as AI and robotics boost productivity](https://www.businessinsider.com/elon-musk-tesla-headcount-to-increase-ai-robotics-productivty-2026-3)**
+
+Tesla CEO Elon Musk said  he expects to hire more workers and that output per Tesla employee will get "nutty high."
+
+Business Insider • 1h ago
 
 ---
 
@@ -196,7 +196,7 @@ CNBC • 1d ago
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 73 • ⏱️ 1:10 • 3h ago
+👁️ 2K • 👍 73 • ⏱️ 1:10 • 5h ago
 
 ---
 
@@ -206,7 +206,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 41K • 👍 4K • 💬 579 • ⏱️ 5:32 • 11h ago
+👁️ 41K • 👍 4K • 💬 579 • ⏱️ 5:32 • 12h ago
 
 ---
 
@@ -234,7 +234,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 TrosCoid
 
-👁️ 2K • 👍 95 • 💬 5 • ⏱️ 1:14 • 7h ago
+👁️ 2K • 👍 95 • 💬 5 • ⏱️ 1:14 • 8h ago
 
 ---
 
@@ -284,7 +284,7 @@ WI State Winners 1200B YETI details their aligners on their VEX V5 Robot for Pus
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 43 • 💬 3 • ⏱️ 1:20 • 4h ago
+👁️ 1K • 👍 43 • 💬 3 • ⏱️ 1:20 • 6h ago
 
 ---
 
