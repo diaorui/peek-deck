@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T18:57:50.145301+00:00'
+updated: '2026-03-13T19:35:56.969275+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 18:57 UTC  
+**Last Updated:** March 13, 2026 at 19:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-7h ago
+8h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -76,7 +76,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
 
-11h ago
+12h ago
 
 ---
 
@@ -156,7 +156,7 @@ New Hampshire Public Radio • 1d ago
 
 Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
 
-Stock Titan • 7h ago
+Stock Titan • 8h ago
 
 ---
 
@@ -166,7 +166,7 @@ Former Uber CEO and co-founder Travis Kalanick is preparing to launch a new sel
 
  Kalanick has also been discussing acquiring the startup founded by Anthony Levandowski, who has developing autonomous software for mining and other industrial use cases with  Pronto.ai .
 
-The Information • 2h ago
+The Information • 3h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Information • 2h ago
 
 Tesla CEO Elon Musk said  he expects to hire more workers and that output per Tesla employee will get "nutty high."
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -206,7 +206,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 FUN Robotics Network
 
-👁️ 4K • 👍 153 • ⏱️ 1:10 • 18h ago
+👁️ 4K • 👍 153 • ⏱️ 1:10 • 19h ago
 
 ---
 
@@ -256,7 +256,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 17K • 👍 114 • 💬 31 • ⏱️ 3:48 • 3d ago
+👁️ 17K • 👍 114 • 💬 31 • ⏱️ 3:48 • 4d ago
 
 ---
 
@@ -266,7 +266,7 @@ Have you seen those viral Chinese robot dance shows? Completely insane hardware,
 
 📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
 
-👁️ 444 • 👍 56 • 💬 7 • ⏱️ 18:31 • 3h ago
+👁️ 444 • 👍 56 • 💬 7 • ⏱️ 18:31 • 4h ago
 
 ---
 

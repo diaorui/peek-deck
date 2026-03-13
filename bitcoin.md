@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-13T18:57:50.135867+00:00'
+updated: '2026-03-13T19:35:56.960150+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 18:57 UTC  
+**Last Updated:** March 13, 2026 at 19:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
 
-9h ago
+10h ago
 
 ---
 
 **[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
 
-9h ago
+10h ago
 
 ---
 
 **[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -101,13 +101,13 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
 
-4h ago
+5h ago
 
 ---
 
 **[A Fast History of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rs8ao1/a_fast_history_of_bitcoin/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -115,7 +115,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 "The market is entering a high-velocity phase this morning. Bitcoin has surged past $72,000, decoupling from a strengthening dollar and rising bond yields. Market sentiment is shifting as BTC increasingly behaves as a geopolitical hedge against energy-driven inflation." This is from email from Coindesk Daybook. This is what Bicoin should have been doing all along. It does not rise snd fall with dollar or stocks, it's a hedge against them. People need to stop speculating and panicking. Bitcoin is not a speculative asset. If you think it is, please learn about the "real Bitcoin", not the one you think it is. 😉 Here is the link to article if you would like to read it... I hope the Reddit mod does not remove it like they did my other links. [ https://www.coindesk.com/daybook-us/2026/03/13/bitcoin-s-building-steam-and-a-usd3-billion-trigger-could-make-it-wild/ ] If link is not hot, pls copy/paste into browser
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 Seeing the floor hold, the speculators are already crawling back. The truth is simple and naked: ultimate price discovery always boils down to supply and demand. While some are still selling, this breakout looks strong. Even if we need to consolidate and recharge for a bit longer, I’m fine with that.
 
-16h ago
+17h ago
 
 ---
 
@@ -131,7 +131,7 @@ Seeing the floor hold, the speculators are already crawling back. The truth is s
 
 I wanted a single page where I could check in on Bitcoin everyday without visiting five different sites. So I built one. Live price (with different timeframe views), L1 and L2 network stats, Fear & Greed, ETF flows, whale alerts, mempool fees, a health score that combines 12 metrics into one number, and breaking news feed with bitcoin, US, world, and market articles as they are published in real-time. It's free for anyone to use and auto-refreshes with live data. It also has a fullscreen monitor mode if you want it on a second screen. What am I missing? What would make this more useful to you? https://21vox.com/bitcoin-pulse When you land on the page, hit 'M' on your keyboard and go fullscreen! I appreciate the feedback in advance. Update Feature requests from comments so far: Alerts and Notifications Multi-currency support Non-fullscreen monitor mode Bitcoin vs. other assets performance comparison Mobile friendly "fullscreen" dashboard view These are great suggestions. Keep an eye out as I'll be rolling them out!
 
-20h ago
+21h ago
 
 ---
 
@@ -147,7 +147,7 @@ What's up Bitcoin fam - dropping some wisdom for anyone just getting started I j
 
 I am doing DCA only on weekends. But the issue is I see the price spiking on weekends and dropping again. Small spike in weekend and I invest. Then drops. I buy in spike and then drops. Started DCA from 124k. Still doing it but is there a specific day where there is data that btc is at low ? So I can just buy my x amount to DCA at that time every week ? Just curious to know
 
-5h ago
+6h ago
 
 ---
 
@@ -159,7 +159,7 @@ I am doing DCA only on weekends. But the issue is I see the price spiking on wee
 
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -167,7 +167,7 @@ Financial Times • 13h ago
 
 Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 2h ago
 
 GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -219,7 +219,7 @@ Polymarket • 1d ago
 
 **[Crypto stocks gain as Bitcoin sell-offs could reportedly be entering final phase (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4564374-crypto-stocks-gain-as-bitcoin-sell-offs-could-reportedly-be-entering-final-phase)**
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -269,7 +269,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
 
-⬆️ 1 • 💬 0 • 20h ago • [Frozen Security](https://frozensecurity.com/tools/)
+⬆️ 1 • 💬 0 • 21h ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 64K • 👍 4K • 💬 866 • ⏱️ 18:10 • 21h ago
+👁️ 64K • 👍 4K • 💬 866 • ⏱️ 18:10 • 22h ago
 
 ---
 
@@ -331,7 +331,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 586 • 💬 98 • ⏱️ 12:14 • 3h ago
+👁️ 5K • 👍 586 • 💬 98 • ⏱️ 12:14 • 4h ago
 
 ---
 
@@ -341,7 +341,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 357 • 💬 247 • ⏱️ 9:03 • 19h ago
+👁️ 6K • 👍 357 • 💬 247 • ⏱️ 9:03 • 20h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin #Crypto #Finance Bitcoin adoption continues to accelerate even as invest
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 689 • 💬 114 • ⏱️ 22:15 • 5h ago
+👁️ 8K • 👍 689 • 💬 114 • ⏱️ 22:15 • 6h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin may be on the verge of its next big move, and most investors could be co
 
 📺 Valuetainment
 
-👁️ 39K • 👍 930 • 💬 85 • ⏱️ 1:06 • 22h ago
+👁️ 39K • 👍 930 • 💬 85 • ⏱️ 1:06 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin may be on the verge of its next big move, and most investors could be co
 
 📺 Andrei Jikh
 
-👁️ 97K • 👍 2K • 💬 92 • ⏱️ 1:05 • 2d ago
+👁️ 97K • 👍 2K • 💬 92 • ⏱️ 1:05 • 3d ago
 
 ---
 
@@ -389,7 +389,7 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 178 • ⏱️ 22:37 • 18h ago
+👁️ 23K • 👍 2K • 💬 178 • ⏱️ 22:37 • 19h ago
 
 ---
 

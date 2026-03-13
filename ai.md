@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T18:57:50.127140+00:00'
+updated: '2026-03-13T19:35:56.951640+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- videos
 - news
 - repositories
-- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 18:57 UTC  
+**Last Updated:** March 13, 2026 at 19:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ See which U.S. states are adopting AI at work fastest, based on U.S. Census data
 
 The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 3h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 4h ago
 
 ---
 
@@ -73,7 +73,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 We built ArkSim which help simulate multi-turn conversations between agents and synthetic users to see how it behaves across longer interactions. This can help find issues like: - Agents losing context during longer interactions - Unexpected conversation paths - Failures that only appear after several turns The idea is to test conversation flows more like real interactions, instead of just single prompts and capture issues early on. There are currently integration examples for: - OpenAI Agents SDK - Claude Agent SDK - Google ADK - LangChain / LangGraph - CrewAI - LlamaIndex you can try it out here: https://github.com/arklexai/arksim The integration examples are in the examples/integration folder would appreciate any feedback from people currently building agents so we can improve the tool!
 
-59m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 14h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 15h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 19h ago
 
 The race to power AI is already remaking the physical world.
 
-The Atlantic • 6h ago
+The Atlantic • 7h ago
 
 ---
 
@@ -155,13 +155,13 @@ CNBC • 2h ago
 
 Feature generated editing suggestions inspired by well-known authors and academics, prompting a class-action lawsuit over the use of real names without consent
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqfHANaUbYovpBHsu_oOjPdQ2TJ_EKoM2BvX4nqVh34I5jVw8VqstoJw&gaa_ts=69b46195&gaa_sig=KKezr3Yod3sXJIM1UiQk2iVKCOaLHA083IwLM1cCBQvOtgPy6MA68xkP-S-5J5x1uA3L2FgrzLVmpqsUV-UYTg%3D%3D)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
@@ -169,7 +169,7 @@ WSJ • 14h ago
 
 In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -185,13 +185,13 @@ Financial Times • 3h ago
 
 Fox News' Bryan Llenas reports as Iran's shares AI-generated videos and images to spread misinformation the Middle East. CENTCOM is countering these claims with fact-checks online.
 
-Fox News • 2h ago
+Fox News • 3h ago
 
 ---
 
 **[Adobe shares drop as CEO exit fans uncertainty over AI strategy](https://www.reuters.com/business/adobe-shares-drop-after-ceo-exit-adds-ai-disruption-concerns-2026-03-13/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -201,7 +201,7 @@ Reuters • 9h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4170 • 💬 1642 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4170 • 💬 1642 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -255,7 +255,7 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 202 • 💬 348 • 20h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 202 • 💬 348 • 21h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -285,7 +285,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 5K • 👍 434 • 💬 48 • ⏱️ 33:33 • 2h ago
+👁️ 5K • 👍 434 • 💬 48 • ⏱️ 33:33 • 3h ago
 
 ---
 
@@ -295,7 +295,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 10K • 👍 578 • 💬 70 • ⏱️ 26:55 • 4h ago
+👁️ 10K • 👍 578 • 💬 70 • ⏱️ 26:55 • 5h ago
 
 ---
 
@@ -305,7 +305,7 @@ A dramatic AI-generated video circulating online is sending a powerful message f
 
 📺 Oneindia News
 
-👁️ 3K • 👍 84 • 💬 7 • ⏱️ 3:02 • 3h ago
+👁️ 3K • 👍 84 • 💬 7 • ⏱️ 3:02 • 4h ago
 
 ---
 
@@ -333,7 +333,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Bob Reese
 
-👁️ 17K • 👍 1K • 💬 35 • ⏱️ 1:09 • 1h ago
+👁️ 17K • 👍 1K • 💬 35 • ⏱️ 1:09 • 2h ago
 
 ---
 
@@ -659,7 +659,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.8k • 🔱 3.5k • 3h ago
+⭐ 26.8k • 🔱 3.5k • 4h ago
 
 ---
 
@@ -669,7 +669,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.9k • 🔱 899 • 18h ago
+⭐ 19.9k • 🔱 899 • 19h ago
 
 ---
 
@@ -699,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.9k • 🔱 644 • 2h ago
+⭐ 8.9k • 🔱 644 • 3h ago
 
 ---
 
@@ -719,7 +719,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 738 • 1h ago
+⭐ 6.3k • 🔱 738 • 2h ago
 
 ---
 

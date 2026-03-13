@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T18:57:50.142035+00:00'
+updated: '2026-03-13T19:35:56.966110+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 18:57 UTC  
+**Last Updated:** March 13, 2026 at 19:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 1h ago
+🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 2h ago
 
 ---
 
@@ -80,13 +80,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
 **[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 3h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 4h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
 
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 8h ago
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 9h ago
 
 ---
 
@@ -108,7 +108,7 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 12h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 13h ago
 
 ---
 
@@ -116,7 +116,7 @@ Stay informed with the latest insights in our Infostealers weekly report. Explor
 
 US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 6h ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 22h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 23h ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 1d ago
 
 Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance Singapore • 1h ago
 
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 118 • 💬 4 • ⏱️ 6:41 • 5h ago
+👁️ 1K • 👍 118 • 💬 4 • ⏱️ 6:41 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 3K • 👍 61 • 💬 9 • ⏱️ 7:47 • 22h ago
+👁️ 3K • 👍 61 • 💬 9 • ⏱️ 7:47 • 23h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 240 • 👍 15 • 💬 2 • ⏱️ 4:58 • 8h ago
+👁️ 240 • 👍 15 • 💬 2 • ⏱️ 4:58 • 9h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 2 • ⏱️ 4:49 • 17h ago
+👁️ 2K • 👍 115 • 💬 2 • ⏱️ 4:49 • 18h ago
 
 ---
 
@@ -288,7 +288,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 108 • 💬 17 • ⏱️ 37:23 • 8h ago
+👁️ 3K • 👍 108 • 💬 17 • ⏱️ 37:23 • 9h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 8K • 👍 287 • 💬 229 • ⏱️ 14:40 • 20h ago
+👁️ 8K • 👍 287 • 💬 229 • ⏱️ 14:40 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 107 • 💬 1 • ⏱️ 6:07 • 14h ago
+👁️ 1K • 👍 107 • 💬 1 • ⏱️ 6:07 • 15h ago
 
 ---
 
