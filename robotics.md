@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T18:00:25.792184+00:00'
+updated: '2026-03-13T18:57:50.145301+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 18:00 UTC  
+**Last Updated:** March 13, 2026 at 18:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,19 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-6h ago
+7h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
 6h ago
+
+---
+
+**[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
+
+1h ago
 
 ---
 
@@ -56,7 +62,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -66,17 +72,11 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 ---
 
-**[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
-
-57m ago
-
----
-
 **[Building a navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 3)](https://www.reddit.com/r/robotics/comments/1rsgb8z/building_a_navigation_software_that_will_only/)**
 
 Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
 
-10h ago
+11h ago
 
 ---
 
@@ -84,7 +84,7 @@ Today we put it on a real raspberry pi > Wrote some basic motion control functio
 
 Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
 
-12h ago
+13h ago
 
 ---
 
@@ -106,7 +106,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfVI8GMX7C22GMsSStd8mf_J8xSYRMwwsSHml1yUZ5HA2INgVTbyjI4&gaa_ts=69b44788&gaa_sig=VaxYt1mm1i9nYiYURBf1AvO58ntL-wr_49L9ePL4VA2uY9QTTSwe2y9wa_gz9LszuVXWB8albAn_nhfrlCkG-A%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqdcxHR_BqJTyZjSdfZbVWLZ7b4xyEOUoKAgqy8nX-QWlQ7rKxFO-b4P&gaa_ts=69b46199&gaa_sig=-FSRBOk1nyN-Lz83quBVt5n2GzZOemm2zsFlzyNz7m-K5yizM5SRH2NAFsfFGQ_ewg7FimnDWBS3_grRnfJsJw%3D%3D)**
 
 WSJ • 2d ago
 
@@ -124,7 +124,7 @@ TechCrunch • 2d ago
 
 Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -136,19 +136,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
+**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
 
-Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
+The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-TechCrunch • 1d ago
-
----
-
-**[Ukraine Receives Phantom MK-1 Humanoid Robots for Testing](https://militarnyi.com/en/news/ukraine-receives-phantom-mk-1-humanoid-robots-for-testing/)**
-
-Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate their effectiveness.The company Foundation told Time that two robots were sent to Ukraine in February.Ukraine has become the […]
-
-Мілітарний • 6h ago
+Quanta Magazine • 4h ago
 
 ---
 
@@ -164,7 +156,17 @@ New Hampshire Public Radio • 1d ago
 
 Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
 
-Stock Titan • 6h ago
+Stock Titan • 7h ago
+
+---
+
+**[Exclusive: Kalanick Plots New AI Robotics Startup](https://www.theinformation.com/briefings/kalanick-plots-new-ai-robotics-startups)**
+
+Former Uber CEO and co-founder Travis Kalanick is preparing to launch a new self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. 
+
+ Kalanick has also been discussing acquiring the startup founded by Anthony Levandowski, who has developing autonomous software for mining and other industrial use cases with  Pronto.ai .
+
+The Information • 2h ago
 
 ---
 
@@ -172,15 +174,15 @@ Stock Titan • 6h ago
 
 Tesla CEO Elon Musk said  he expects to hire more workers and that output per Tesla employee will get "nutty high."
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
-**[Stocks making the biggest moves midday: Oracle, Papa John's, Nebius, Campbell's, Serve Robotics, Cadre and more](https://www.cnbc.com/2026/03/11/stocks-making-the-biggest-moves-midday-orcl-nbis-cpb-serv-cdre.html)**
+**[Kraken Announces Closing of $402.5 Million Public Offering](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-closing-of-402-5-million-public-offering-of-subscription-receipts/)**
 
-These are some of the stocks posting the largest midday moves.
+THIS RELEASE IS NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES
 
-CNBC • 2d ago
+Kraken Robotics • 1d ago
 
 ---
 
@@ -204,7 +206,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 FUN Robotics Network
 
-👁️ 4K • 👍 153 • ⏱️ 1:10 • 17h ago
+👁️ 4K • 👍 153 • ⏱️ 1:10 • 18h ago
 
 ---
 
@@ -264,7 +266,7 @@ Have you seen those viral Chinese robot dance shows? Completely insane hardware,
 
 📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
 
-👁️ 444 • 👍 56 • 💬 7 • ⏱️ 18:31 • 2h ago
+👁️ 444 • 👍 56 • 💬 7 • ⏱️ 18:31 • 3h ago
 
 ---
 
