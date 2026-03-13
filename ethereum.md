@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T10:38:44.434066+00:00'
+updated: '2026-03-13T11:32:11.324686+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 10:38 UTC  
+**Last Updated:** March 13, 2026 at 11:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 4h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Stay informed with the latest insights in our Infostealers weekly report. Explor
 
 Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
 
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 34m ago
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 4h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 5h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 14h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 15h ago
 
 ---
 
@@ -128,7 +128,7 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
 
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 23h ago
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -164,13 +164,13 @@ The Block • 18h ago
 
 The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
 **[Ethereum and TAO Price Rally Gains Strengthens As Market Sentiment Improves](https://www.binance.com/en/square/post/301061664139890)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ Binance • 1h ago
 
 Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Motley Fool • 1d ago
 
 BNB Chain has surpassed Ethereum as the blockchain hosting the largest number of AI agents operating under the ERC-8004 standard, according to data from Agentscan and 8004scan.
 
-thedefiant.io • 15h ago
+thedefiant.io • 16h ago
 
 ---
 
@@ -202,7 +202,7 @@ thedefiant.io • 15h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are gearing up for a potential breakout on Friday after gaining over 8%, 10% and 4% so far this week. BTC and ETH are approaching the key technical levels while XRP continues to stabilize within a descending channel.
 
-FXStreet • 7h ago
+FXStreet • 8h ago
 
 ---
 
@@ -218,7 +218,7 @@ Fortune • 20h ago
 
 Dubai, UAE, March  12, 2026  (GLOBE NEWSWIRE) -- Pepeto crossed $7.96 million this week and the pace keeps accelerating, reflecting the seriousnes...
 
-markets.businessinsider.com • 14h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -226,7 +226,7 @@ markets.businessinsider.com • 14h ago
 
 ​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 545 • 💬 125 • ⏱️ 19:58 • 18h ago
+👁️ 16K • 👍 545 • 💬 125 • ⏱️ 19:58 • 19h ago
 
 ---
 
@@ -250,7 +250,7 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 2K • 👍 41 • 💬 36 • ⏱️ 7:47 • 14h ago
+👁️ 2K • 👍 41 • 💬 36 • ⏱️ 7:47 • 15h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 106 • 💬 1 • ⏱️ 4:49 • 9h ago
+👁️ 1K • 👍 106 • 💬 1 • ⏱️ 4:49 • 10h ago
 
 ---
 
@@ -270,7 +270,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 3K • 💬 27 • ⏱️ 12:32 • 1d ago
+👁️ 15K • 👍 3K • 💬 27 • ⏱️ 12:32 • 2d ago
 
 ---
 
@@ -330,7 +330,7 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 CryptoTrader
 
-👁️ 379 • 👍 95 • 💬 45 • ⏱️ 9:55 • 2h ago
+👁️ 379 • 👍 95 • 💬 45 • ⏱️ 9:55 • 3h ago
 
 ---
 

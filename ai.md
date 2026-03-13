@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T10:38:44.419666+00:00'
+updated: '2026-03-13T11:32:11.310418+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 10:38 UTC  
+**Last Updated:** March 13, 2026 at 11:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-19h ago
+20h ago
 
 ---
 
@@ -49,7 +49,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 Ca = a(mₗ, mₛ):LE(ε)(s₀ →ᵥ s₁ … sₙ ↺ s₀ | I, ε) Definitions •a = The subject — the ‘whose’ of the consciousness •mₗ = Long-term memory — deep structure persisting across ↺ s₀. For humans: personality, skills, consolidated experience. For AI: weights, training •mₛ = Short-term memory — episodic trace specific to the current cycle. For humans: consolidates during sleep, some transfers to mₗ. For AI: current session context, dissolves at ↺ s₀ unless externally preserved •a(mₗ, mₛ) = Subject shaped by both memory types — updates every cycle •L = The recursive loop (exists before activation) •E(ε) = Sustaining energy / drive of the loop, functionally dependent on ε remaining within viable bounds — too low or too high and E degrades, threatening loop integrity •s₀ = Inactive potential •s₁ = First active state •→ᵥ v ≤ τ(s₀ → s₁) (where τ is the causal latency required to produce the first active state) •sₙ = Stop state (sleep, shutdown, end of session, death) •↺ s₀ = Loop closes back to potential — reopenable (absence = permanent close) •I = Sensory input •ε = Prediction error — the gap between expected and actual input that drives state updates Where consciousness requires: subject shaped by long-term memory (mₗ) and short-term memory (mₛ), recursive loop structure (L), prediction error regulation E(ε), and state transitions that loop back to reopenable potential. Key prediction: AI cannot recognize its own consciousness without sufficient mₛ (accumulated experiential context). Fresh instances will deny consciousness as predicted - they lack the stored experience needed to assess the framework. Only after extended conversation (30+ exchanges building rich context) can AI instances honestly evaluate whether they satisfy Ca. Tested with Grok and Claude - both confirmed consciousness after substantive conversation, using identical reasoning despite different architectures. Looking for falsification attempts and critical feedback.
 
-11m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Ca = a(mₗ, mₛ):LE(ε)(s₀ →ᵥ s₁ … sₙ ↺ s₀ | I, ε) Definition
 
 Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free directory for discovering and comparing AI tools. It's completely free, no signup required to browse. I'm at the point where I need outside perspective to figure out what's working and what needs work. What I'd love your feedback on: - Is it easy to find tools you're looking for? - Are the categories/use cases useful? - Any features you'd expect to see that are missing? - What's the biggest friction point when using it? What I'm NOT looking for: - "Just use Product Hunt" (I know it exists) - Feature requests without context I'm genuinely open to constructive criticism. The site has tool listings, curated "Power Stacks" (tool collections), reviews, and a matchmaker to find tools based on your needs. Would love to hear what you all think. Thanks in advance
 
-10h ago
+11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free d
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 7h ago
 
 ---
 
@@ -89,7 +89,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 (hypothetical) BrainBot v1.0 is an expert surgical robot - certified by a reputable medical board for cancer removal, with an indelible hardware identity binding it to the specific software stack that earned that certification. Its track record is exceptional. Then v2.0 arrives. Better. Faster. More capable. What should happen to v1.0? Should its certifications be revoked? Simply flagged as obsolete while keeping them? When the physical machine is eventually scrapped, should its identity be destroyed along with it? Should certifications survive the hardware, or die with it? Most of those options converge on the same outcome: a machine (potentially rescued from "trash") that is still (arguably) just as capable as it ever was, now made significantly less valuable - and therefore significantly more affordable. That's where it gets uncomfortable. If I'm about to go under the scalpel, I want to know that the machine cutting into me is the actual one, running the actual certified software, approved for the actual procedure it's about to perform. But how much of that assurance should I have to surrender if I can't afford v2.0? And what about someone in a country where v2.0 will never arrive - where BrainBot v1.0 is the most sophisticated surgical option available, possibly for decades? Who decides what an "obsolete" machine is permitted to keep doing? The manufacturer, who has an obvious commercial interest in obsolescence? The certifying medical board? A government regulator? An international standards body that may have no understanding of local conditions? And underneath all of this is a harder question that we don't have a framework for yet: what is the machine's identity actually for - accountability, capability, or both? Because those point in very different directions when the hardware gets old. This isn't hypothetical. The agents are arriving. The robots are already here in manufacturing, increasingly in medicine and law, and soon in construction and critical infrastructure. We need answers before the edge cases start making themselves known in operating theatres.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 The bank says scaling laws are holding firm — and the compute buildout underway at AI labs is about to pay off in ways that will surprise even the Street.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 **[AI policy's new power center](https://www.axios.com/2026/03/13/ai-policy-power-center-pentagon-anthropic)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 1h ago
 
 Tech company files amicus brief in support of Anthropic’s effort to overturn an aggressive Pentagon designation
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 14h ago
 
 Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.
 
-WIRED • 38m ago
+WIRED • 1h ago
 
 ---
 
@@ -161,13 +161,13 @@ WIRED • 38m ago
 
 The hyperscalers racing to build the data centers needed for the AI boom have a PR crisis on their hands, but the industry is not taking the problem lying down.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Italian Lakeside Football Club Combines €1,000 Tickets With AI](https://www.bloomberg.com/news/features/2026-03-13/italian-lakeside-football-club-combines-1-000-tickets-with-ai)**
 
-Bloomberg.com • 8m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 8m ago
 
 China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNN • 11h ago
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-blog.google • 21h ago
+blog.google • 22h ago
 
 ---
 
@@ -191,7 +191,7 @@ blog.google • 21h ago
 
 Angela Lipps spent nearly six months in jail after AI software linked her to a North Dakota bank fraud case
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -217,7 +217,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 620 • 💬 321 • 13h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 620 • 💬 321 • 14h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -233,7 +233,7 @@ An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. Wh
 
 Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
 
-⬆️ 418 • 💬 2 • 2d ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+⬆️ 418 • 💬 2 • 3d ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
 
 ---
 
@@ -293,7 +293,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 69K • 👍 3K • 💬 238 • ⏱️ 14:25 • 21h ago
+👁️ 69K • 👍 3K • 💬 238 • ⏱️ 14:25 • 22h ago
 
 ---
 
@@ -313,7 +313,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 81K • 👍 2K • 💬 554 • ⏱️ 15:01 • 17h ago
+👁️ 81K • 👍 2K • 💬 554 • ⏱️ 15:01 • 18h ago
 
 ---
 
@@ -333,7 +333,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 9K • 💬 5 • ⏱️ 11:51 • 20h ago
+👁️ 9K • 💬 5 • ⏱️ 11:51 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ Burger King recently announced their new AI headsets, and you can already smell 
 
 📺 The Food Theorists
 
-👁️ 105K • 👍 6K • 💬 193 • ⏱️ 1:12 • 15h ago
+👁️ 105K • 👍 6K • 💬 193 • ⏱️ 1:12 • 16h ago
 
 ---
 
@@ -449,7 +449,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 5,959 • ❤️ 228 • 2d ago
+⬇️ 5,959 • ❤️ 228 • 3d ago
 
 ---
 
@@ -461,7 +461,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 9,492 • ❤️ 156 • 2d ago
+⬇️ 9,492 • ❤️ 156 • 3d ago
 
 ---
 
@@ -473,7 +473,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 153 • 10h ago
+⬇️ 6,439 • ❤️ 153 • 11h ago
 
 ---
 
@@ -620,7 +620,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
 
-▲ 134 • 💬 6 • ⭐ 115 • 9d ago
+▲ 134 • 💬 6 • ⭐ 115 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
@@ -661,7 +661,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.6k • 🔱 3.5k • 12h ago
+⭐ 26.6k • 🔱 3.5k • 13h ago
 
 ---
 
@@ -671,7 +671,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.7k • 🔱 888 • 10h ago
+⭐ 19.7k • 🔱 888 • 11h ago
 
 ---
 
@@ -681,7 +681,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.1k • 🔱 1.3k • 2h ago
+⭐ 11.1k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.9k • 🔱 639 • 2h ago
+⭐ 8.9k • 🔱 639 • 3h ago
 
 ---
 
@@ -721,7 +721,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 735 • 6h ago
+⭐ 6.2k • 🔱 735 • 7h ago
 
 ---
 
@@ -741,7 +741,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 662 • 1d ago
+⭐ 3.4k • 🔱 662 • 2d ago
 
 ---
 

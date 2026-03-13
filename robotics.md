@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T10:38:44.437245+00:00'
+updated: '2026-03-13T11:32:11.327850+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 10:38 UTC  
+**Last Updated:** March 13, 2026 at 11:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-23h ago
+1d ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-17h ago
+18h ago
 
 ---
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -56,7 +56,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-20h ago
+21h ago
 
 ---
 
@@ -64,7 +64,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
 
-4h ago
+5h ago
 
 ---
 
@@ -72,13 +72,13 @@ Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune 
 
 Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
 
-3h ago
+4h ago
 
 ---
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -100,7 +100,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. If you're running perception on constrained hardware I'd love your input. Is memory the bottleneck? Would fitting a larger model in the same budget actually help?
 
-10h ago
+11h ago
 
 ---
 
@@ -112,7 +112,7 @@ Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. I
 
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
-TechCrunch • 17h ago
+TechCrunch • 18h ago
 
 ---
 
@@ -142,7 +142,7 @@ TechCrunch • 1d ago
 
 New Hampshire inventor Dean Kamen has voluntarily resigned from the board of directors of FIRST Robotics.
 
-WMUR • 5h ago
+WMUR • 6h ago
 
 ---
 
@@ -182,7 +182,7 @@ Financial Times • 1d ago
 
 Centaur-style wearable robot adds two legs behind humans, cutting walking effort by 35% while carrying heavy loads.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 12h ago
 
 ---
 
@@ -206,7 +206,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 103 • ⏱️ 1:10 • 10h ago
+👁️ 3K • 👍 103 • ⏱️ 1:10 • 11h ago
 
 ---
 

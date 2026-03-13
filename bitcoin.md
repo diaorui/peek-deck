@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-13T10:38:44.428118+00:00'
+updated: '2026-03-13T11:32:11.318715+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 10:38 UTC  
+**Last Updated:** March 13, 2026 at 11:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
 
-1h ago
+2h ago
 
 ---
 
 **[A Fast History of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rs8ao1/a_fast_history_of_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 Seeing the floor hold, the speculators are already crawling back. The truth is simple and naked: ultimate price discovery always boils down to supply and demand. While some are still selling, this breakout looks strong. Even if we need to consolidate and recharge for a bit longer, I’m fine with that.
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ Seeing the floor hold, the speculators are already crawling back. The truth is s
 
 I wanted a single page where I could check in on Bitcoin everyday without visiting five different sites. So I built one. Live price (with different timeframe views), L1 and L2 network stats, Fear & Greed, ETF flows, whale alerts, mempool fees, a health score that combines 12 metrics into one number, and breaking news feed with bitcoin, US, world, and market articles as they are published in real-time. It's free for anyone to use and auto-refreshes with live data. It also has a fullscreen monitor mode if you want it on a second screen. What am I missing? What would make this more useful to you? 21vox.com/bitcoin-pulse When you land on the page, hit 'M' on your keyboard and go fullscreen! I appreciate the feedback in advance. Update Feature requests from comments so far: Alerts and Notifications Multi-currency support Non-fullscreen monitor mode Bitcoin vs. other assets performance comparison Mobile friendly "fullscreen" dashboard view These are great suggestions. Keep an eye out as I'll be rolling them out!
 
-12h ago
+13h ago
 
 ---
 
@@ -111,13 +111,13 @@ I wanted a single page where I could check in on Bitcoin everyday without visiti
 
 What's up Bitcoin fam - dropping some wisdom for anyone just getting started I jumped into BTC back in early 2021 when it was sitting around $42K during all that craziness. Figured I was being smart getting in When it started sliding I was actually excited - more Bitcoin for less money right? Grabbed some at $36K and then again around $33K but man when it kept dropping past $29K I started getting cold feet Completely stopped my automatic weekly buys and just watched it crater below $19K thinking I was being clever by not throwing good money after bad. Really thought I dodged a bullet there Fast forward to the 2023/2024 run and wow did I feel stupid. If I just stuck with my original plan and kept buying through that whole mess I'd be in such a better spot right now Current market vibes are giving me serious flashbacks but this time I'm not making the same mistake. Still doing my weekly buys because when you zoom out Bitcoin adoption isn't going anywhere and I want to stack as much as possible before Wall Street owns everything The psychology behind why we stop buying during the scary times is wild but that's exactly when you should be most aggressive about it
 
-19h ago
+20h ago
 
 ---
 
 **[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ With all the terrible news, and everyone trying to pull their money out of the m
 
 Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The company reportedly told legislators that "no one is using Bitcoin as money" and that a Bitcoin de minimis exemption would be "DOA." Meanwhile, they're pushing for the exemption to apply only to stablecoins, specifically regulated, dollar-pegged stablecoins like USDstableshitcoin. Coinbase made $1.35 billion in stablecoin revenue in 2025, up 48% year over year, almost entirely from interest earned on U.S. Treasuries held in USDstableshitcoin reserves. Bloomberg estimates that number could surge 7x under the GENIUS Act. Every person who uses USDstableshitcoin for payments instead of Bitcoin is a person whose dollars are sitting in Coinbase's reserve pool generating risk-free yield for Coinbase. A de minimis exemption for Bitcoin would let people spend it freely for everyday purchases without triggering a taxable event. That makes Bitcoin a direct competitor to USDstableshitcoin as a payment method. Coinbase doesn't want that competition. They want you locked into their centralized stablecoin ecosystem where they clip yield on every dollar you park there. The irony is that a de minimis exemption doesn't even make sense for stablecoins. They're pegged to the dollar. They don't fluctuate in value. There's no capital gain to exempt. The exemption matters for Bitcoin precisely because it does fluctuate, and without it, every coffee purchase becomes a taxable event. Senator Lummis proposed a $300 de minimis exemption that would cover Bitcoin. The House framework only covers stablecoins under $200. The Bitcoin Policy Institute has already warned that Bitcoin is being deliberately excluded from these talks. A de minimis exemption that covers stablecoins but not Bitcoin isn't a tax framework. It's a subsidy for Coinbase's treasury management business disguised as consumer protection. https://x.com/BITCOINALLCAPS/status/2032077358904029557?s=20
 
-21h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The com
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ Basically the title and less buying power, BTC drop?
 
 Bitcoin has once again acted as a leading indicator for risk assets, plunging sharply before the ongoing global stock market swoon.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -177,13 +177,13 @@ Yahoo Finance • 2d ago
 
 After seeing its jaw-dropping price appreciation over the long run, investors should certainly consider ways to gain Bitcoin exposure.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Profusa to liquidate Bitcoin holdings and faces Nasdaq delisting process](https://www.investing.com/news/sec-filings/profusa-to-liquidate-bitcoin-holdings-and-faces-nasdaq-delisting-process-93CH-4559420)**
 
-Investing.com • 13m ago
+Investing.com • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Investing.com • 13m ago
 
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ Financial Times • 5h ago
 
 GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 14h ago
 
 David Bailey has been officially confirmed as a speaker at Bitcoin 2026, returning to the conference he helped build to share his perspective on Bitcoin's
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bitcoin Magazine • 14h ago
 
 Bitcoin BITSTAMP:BTCUSD may approach a market bottom, with a macro model tied to the US and China’s benchmark 10-year bond yields hinting at a potential rally toward $100,000 in the months ahead.Key takeaways:History rhymes? BTC flashes ‘precise’ bullish crossThe model, shared by analyst AO, applie…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -231,7 +231,7 @@ WEAU • 1d ago
 
 James Hilliard is suing bitcoin ATM entrepreneur and founder of EasyBit, Michael Dupree over an alleged unpaid loan of nearly 70 Bitcoins.
 
-The Denver Post • 13h ago
+The Denver Post • 14h ago
 
 ---
 
@@ -273,7 +273,7 @@ No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin p
 
 Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
 
-⬆️ 1 • 💬 0 • 12h ago • [Frozen Security](https://frozensecurity.com/tools/)
+⬆️ 1 • 💬 0 • 13h ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -297,7 +297,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open source. - leventilo/boltzpay
 
-⬆️ 2 • 💬 0 • 18h ago • [GitHub](https://github.com/leventilo/boltzpay)
+⬆️ 2 • 💬 0 • 19h ago • [GitHub](https://github.com/leventilo/boltzpay)
 
 ---
 
@@ -345,7 +345,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 326 • 💬 254 • ⏱️ 9:03 • 11h ago
+👁️ 5K • 👍 326 • 💬 254 • ⏱️ 9:03 • 12h ago
 
 ---
 
@@ -355,7 +355,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 562 • 💬 399 • ⏱️ 10:28 • 15h ago
+👁️ 10K • 👍 562 • 💬 399 • ⏱️ 10:28 • 16h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin may be on the verge of its next big move, and most investors could be co
 
 📺 Valuetainment
 
-👁️ 31K • 👍 764 • 💬 75 • ⏱️ 1:06 • 14h ago
+👁️ 31K • 👍 764 • 💬 75 • ⏱️ 1:06 • 15h ago
 
 ---
 
@@ -395,7 +395,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 7K • 👍 328 • 💬 129 • ⏱️ 11:32 • 19h ago
+👁️ 7K • 👍 328 • 💬 129 • ⏱️ 11:32 • 20h ago
 
 ---
 
