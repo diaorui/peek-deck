@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-13T16:03:08.033169+00:00'
+updated: '2026-03-13T17:06:40.835580+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 16:03 UTC  
+**Last Updated:** March 13, 2026 at 17:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,900.74
+### $71,488.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** +7.0%  
-**30d:** +8.6%  
-**90d:** -18.5%  
-**1y:** -14.3%  
+**24h:** +3.0%  
+**7d:** +6.9%  
+**30d:** +8.5%  
+**90d:** -18.6%  
+**1y:** -14.4%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
 
-6h ago
+7h ago
 
 ---
 
 **[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -95,13 +95,13 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
 
-1h ago
+2h ago
 
 ---
 
 **[A Fast History of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rs8ao1/a_fast_history_of_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -109,7 +109,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 Seeing the floor hold, the speculators are already crawling back. The truth is simple and naked: ultimate price discovery always boils down to supply and demand. While some are still selling, this breakout looks strong. Even if we need to consolidate and recharge for a bit longer, I’m fine with that.
 
-13h ago
+14h ago
 
 ---
 
@@ -117,7 +117,7 @@ Seeing the floor hold, the speculators are already crawling back. The truth is s
 
 I wanted a single page where I could check in on Bitcoin everyday without visiting five different sites. So I built one. Live price (with different timeframe views), L1 and L2 network stats, Fear & Greed, ETF flows, whale alerts, mempool fees, a health score that combines 12 metrics into one number, and breaking news feed with bitcoin, US, world, and market articles as they are published in real-time. It's free for anyone to use and auto-refreshes with live data. It also has a fullscreen monitor mode if you want it on a second screen. What am I missing? What would make this more useful to you? https://21vox.com/bitcoin-pulse When you land on the page, hit 'M' on your keyboard and go fullscreen! I appreciate the feedback in advance. Update Feature requests from comments so far: Alerts and Notifications Multi-currency support Non-fullscreen monitor mode Bitcoin vs. other assets performance comparison Mobile friendly "fullscreen" dashboard view These are great suggestions. Keep an eye out as I'll be rolling them out!
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ I wanted a single page where I could check in on Bitcoin everyday without visiti
 
 "The market is entering a high-velocity phase this morning. Bitcoin has surged past $72,000, decoupling from a strengthening dollar and rising bond yields. Market sentiment is shifting as BTC increasingly behaves as a geopolitical hedge against energy-driven inflation." This is from email from Coindesk Daybook. This is what Bicoin should have been doing all along. It does not rise snd fall with dollar or stocks, it's a hedge against them. People need to stop speculating and panicking. Bitcoin is not a speculative asset. If you think it is, please learn about the "real Bitcoin", not the one you think it is. 😉 Here is the link to article if you would like to read it... I hope the Reddit mod does not remove it like they did my other links. [ https://www.coindesk.com/daybook-us/2026/03/13/bitcoin-s-building-steam-and-a-usd3-billion-trigger-could-make-it-wild/ ] If link is not hot, pls copy/paste into browser
 
-1h ago
+2h ago
 
 ---
 
@@ -137,19 +137,19 @@ What's up Bitcoin fam - dropping some wisdom for anyone just getting started I j
 
 ---
 
-**[Daily Discussion, March 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1rsfez8/daily_discussion_march_13_2026/)**
+**[Don’t you think War will increase inflation therefore less buying power ?](https://www.reddit.com/r/Bitcoin/comments/1rsgxsz/dont_you_think_war_will_increase_inflation/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+Basically the title and less buying power, BTC drop?
 
 9h ago
 
 ---
 
-**[Don’t you think War will increase inflation therefore less buying power ?](https://www.reddit.com/r/Bitcoin/comments/1rsgxsz/dont_you_think_war_will_increase_inflation/)**
+**[Daily Discussion, March 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1rsfez8/daily_discussion_march_13_2026/)**
 
-Basically the title and less buying power, BTC drop?
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+11h ago
 
 ---
 
@@ -161,35 +161,15 @@ Basically the title and less buying power, BTC drop?
 
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
-**[Iran war oil shock more likely to affect Bitcoin miners through BTC price than energy costs, analysts say](https://www.theblock.co/post/393531/iran-war-oil-shock-more-likely-to-affect-bitcoin-miners-through-btc-price-than-energy-costs-analysts-say)**
+**[Bitcoin above $71,000, ETH, SOL, ADA zoom higher as cryptos shrugs off stock weakness](https://www.coindesk.com/markets/2026/03/13/bitcoin-above-usd71-000-eth-sol-ada-zoom-higher-as-cryptos-shrugs-off-stock-weakness)**
 
-Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
+Majors posted modest gains Friday with BTC hovering near the top of its month-long range even as equities struggle under rising energy prices and geopolitical stress.
 
-The Block • 3h ago
-
----
-
-**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Coinbase stock rises on bitcoin rally, Carvana approves stock split](https://finance.yahoo.com/video/coinbase-stock-rises-bitcoin-rally-151501540.html)**
-
-Yahoo Finance Markets and Data Editor Jared Blikre and Market Catalysts host Julie Hyman take a closer look at some of Friday morning's trending tickers and stories. Crypto stocks, including Coinbase (COIN), Strategy (MSTR), and Mara Holdings (MARA), rise as bitcoin (BTC-USD) prices reach $73,000. Carvana (CVNA) has approved a 5-for-1 stock split. Once Upon a Farm (OFRM) forecasts slowing sales growth this year. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
-
-Yahoo Finance • 48m ago
-
----
-
-**[Bitcoin Rises to $73,000, Boosting Crypto Stocks](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-13-2026/card/bitcoin-rises-above-72-000-boosting-crypto-stocks-uG8GtmAZWUf8BGLDN8Jh?gaa_at=eafs&gaa_n=AWEtsqfptAtZmKrrSemaNiiMU3Lvd9pqu29qJl00QN5bs9IJBeeJhK680YKh&gaa_ts=69b43891&gaa_sig=B4VDQRXOftcMZ9ox5YYf4s74rXprW_HEa5prT2d4ZDrQmANqSZmN2dxHKXyS6CmtLtcCr0qboLqu-ffxdJ-ojQ%3D%3D)**
-
-WSJ • 1h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -197,37 +177,57 @@ WSJ • 1h ago
 
 GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqcOmlNoTDo-wVPVM90POOu9ZxEfFcKY7qHDba2M1UQK5GnGYc2fTAsv&gaa_ts=69b43891&gaa_sig=pO1upDKqHfVt25JuUMnJXX6FTEC_kDsLMPvll2kmiZ1UKPIzncZKqDKgbX1TUJA_utX8eH_DVnnSWl9QX2h8vQ%3D%3D)**
+**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Barron's • 2h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773407400)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Energy Co-op addresses concerns over bitcoin mining](https://www.weau.com/2026/03/12/energy-co-op-addresses-concerns-over-bitcoin-mining/)**
+**[VanEck Says Bitcoin Miners Are ‘Sitting on a Gold Mine’ as AI Demand Surges](https://finance.yahoo.com/news/vaneck-says-bitcoin-miners-sitting-221500180.html)**
 
-Riverland Energy Cooperative worked to address those concerns at a meeting Wednesday night at the Waumandee Country Bar in Cochrane.
+Bitcoin miners are sitting on an asset most people have not fully priced in yet. Power infrastructure.Miners with existing power infrastructure are at the crossroads of two of the most capital-intensive buildouts underway right now. Bitcoin hash rate expansion and AI data center demand.Source: CNBCThe market has not caught up ...
 
-WEAU • 1d ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Got $10,000 to Invest? Here’s What Bitcoin vs the S&P 500 Could Be Worth by 2030](https://247wallst.com/investing/2026/03/13/got-10000-to-invest-heres-what-bitcoin-vs-the-sp-500-could-be-worth-by-2030/)**
+**[Bitcoin Up or Down - Hourly Predictions & Odds](https://polymarket.com/event/bitcoin-up-or-down-march-13-7am-et)**
 
-$10,000 in Bitcoin today could be worth $21,000 to $140,000 by 2030. The same in the S&P 500 would likely grow to $13,600-$17,000.
+Bitcoin Up or Down - Hourly (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-24/7 Wall St. • 2h ago
+Polymarket • 1d ago
+
+---
+
+**[Bitcoin Clears Month-High. This Miner's Chart Outshines Its Peers.](https://www.investors.com/news/bitcoin-price-march-73k-high-etf-flows-terawulf-wulf-stock-bitcoin-miners-crypto-stocks/)**
+
+Investor's Business Daily • 58m ago
+
+---
+
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqeUFmKgGZQP34YUCoUQeoD_9Xy22gXjYYjqKzR7CDY4y8-IzhLshSHv&gaa_ts=69b44785&gaa_sig=3QuYS_cTQrMBX5Ha9r4uhEkBlPmVkiz9-xHmK7Ssf7R_L9A9CO2qEmw-h9K42MH72ubLNEnfyfoCqVK4CS5TIw%3D%3D)**
+
+Barron's • 3h ago
+
+---
+
+**[Bitcoin Miner Turned AI Data Center Play Lands New $11 Million Investment. Here's What to Know](https://finance.yahoo.com/news/bitcoin-miner-turned-ai-data-085803309.html)**
+
+This digital asset technology firm operates energy-efficient bitcoin mining facilities in New York and Pennsylvania.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Iran war oil shock more likely to affect Bitcoin miners through BTC price than energy costs, analysts say](https://www.theblock.co/post/393531/iran-war-oil-shock-more-likely-to-affect-bitcoin-miners-through-btc-price-than-energy-costs-analysts-say)**
+
+Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
+
+The Block • 5h ago
 
 ---
 
@@ -247,7 +247,7 @@ The Ivy League school still has more money invested in Bitcoin than any other US
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 3 • 💬 5 • 4d ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 3 • 💬 5 • 5d ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -255,7 +255,7 @@ No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin p
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 4d ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -269,7 +269,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
 
-⬆️ 1 • 💬 0 • 17h ago • [Frozen Security](https://frozensecurity.com/tools/)
+⬆️ 1 • 💬 0 • 18h ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -293,7 +293,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open source. - leventilo/boltzpay
 
-⬆️ 3 • 💬 1 • 23h ago • [GitHub](https://github.com/leventilo/boltzpay)
+⬆️ 3 • 💬 1 • 1d ago • [GitHub](https://github.com/leventilo/boltzpay)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 59K • 👍 4K • 💬 835 • ⏱️ 18:10 • 18h ago
+👁️ 59K • 👍 4K • 💬 835 • ⏱️ 18:10 • 19h ago
 
 ---
 
@@ -331,7 +331,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 586 • 💬 403 • ⏱️ 10:28 • 21h ago
+👁️ 11K • 👍 586 • 💬 403 • ⏱️ 10:28 • 22h ago
 
 ---
 
@@ -341,7 +341,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 353 • 💬 247 • ⏱️ 9:03 • 16h ago
+👁️ 6K • 👍 353 • 💬 247 • ⏱️ 9:03 • 17h ago
 
 ---
 
@@ -351,7 +351,7 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 168 • ⏱️ 22:37 • 15h ago
+👁️ 21K • 👍 2K • 💬 168 • ⏱️ 22:37 • 16h ago
 
 ---
 
@@ -371,7 +371,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 490 • 💬 170 • ⏱️ 11:22 • 5h ago
+👁️ 5K • 👍 490 • 💬 170 • ⏱️ 11:22 • 6h ago
 
 ---
 
@@ -389,7 +389,7 @@ President Trump has just demanded that Fed Chair Jerome Powell cut interest rate
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 224 • 2h ago
+👁️ 2K • 👍 224 • 3h ago
 
 ---
 
@@ -399,7 +399,7 @@ Bitcoin may be on the verge of its next big move, and most investors could be co
 
 📺 Valuetainment
 
-👁️ 35K • 👍 887 • 💬 80 • ⏱️ 1:06 • 19h ago
+👁️ 35K • 👍 887 • 💬 80 • ⏱️ 1:06 • 21h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T16:03:08.025761+00:00'
+updated: '2026-03-13T17:06:40.826264+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 16:03 UTC  
+**Last Updated:** March 13, 2026 at 17:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
 
-🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 3h ago
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 4h ago
 
 ---
 
@@ -49,15 +49,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 4h ago
-
----
-
-**[Welcome to Facebook, 2028](https://www.reddit.com/r/artificial/comments/1rsnamo/welcome_to_facebook_2028/)**
-
-Someone joked that Meta bought a social network where only AI agents can post and humans just watch. Strange idea. But if you look at Facebook today… it might already be happening
-
-2h ago
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 5h ago
 
 ---
 
@@ -65,7 +57,15 @@ Someone joked that Meta bought a social network where only AI agents can post an
 
 The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 53m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 1h ago
+
+---
+
+**[Which states have been the fastest to adopt AI in the workplace?](https://www.reddit.com/r/artificial/comments/1rsp8ym/which_states_have_been_the_fastest_to_adopt_ai_in/)**
+
+See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
+
+🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 2h ago
 
 ---
 
@@ -77,19 +77,11 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 ---
 
-**[Which states have been the fastest to adopt AI in the workplace?](https://www.reddit.com/r/artificial/comments/1rsp8ym/which_states_have_been_the_fastest_to_adopt_ai_in/)**
-
-See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
-
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 1h ago
-
----
-
 **[Systemd 260-rc3 released with AI Agents documentation added](https://www.reddit.com/r/artificial/comments/1rsdc2q/systemd_260rc3_released_with_ai_agents/)**
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 11h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 12h ago
 
 ---
 
@@ -117,77 +109,89 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 ---
 
+**[Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots](https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/)**
+
+Post by @emil
+
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
-
-**[Meta Delays Rollout of New A.I. Model After Performance Concerns - The New York Times](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html)**
-
-The New York Times • 16h ago
-
----
-
-**[Meta delays launch of AI model Avocado in latest setback](https://qz.com/meta-avocado-delay-mark-zuckerberg-google-gemini)**
-
-Avocado was supposed to show that Meta’s superintelligence push was paying off. But now it’s late, and Gemini may fill the gap
-
-qz.com • 1h ago
-
----
-
-**[Meta Falls Amid Report 'Avocado' AI Is Not Yet Ripe](https://www.investors.com/news/technology/meta-stock-ai-model-avocado-delay/)**
-
-Investor's Business Daily • 2h ago
-
----
 
 **[Anthropic-Pentagon battle shows how big tech has reversed course on AI and war](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence)**
 
 Less than a decade ago, Google employees scuttled any military use of its AI. Now Anthropic is fighting Trump officials not over if, but how
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
-**[Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans](https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/)**
+**[Morgan Stanley warns an AI breakthrough Is coming in 2026 — and most of the world isn't ready](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/)**
 
-Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.
+The bank says scaling laws are holding firm — and the compute buildout underway at AI labs is about to pay off in ways that will surprise even the Street.
 
-WIRED • 6h ago
-
----
-
-**[Iran and the rising perils of AI in warfare](https://www.ft.com/content/5d294db8-6917-4085-ba8a-3afbc439b999)**
-
-Limits on the use of lethal autonomous weapons systems are urgent
-
-Financial Times • 1h ago
+Fortune • 8h ago
 
 ---
 
-**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqdI8YqFjgqK7TLaHbT5TSynCopOt9eUftcyQ6tuTo_X7F270G2KqLxT&gaa_ts=69b4388f&gaa_sig=hSTMILWlhP1aqyY6vxRFfG7s38oAljeJX4LGJ2Xgu0ncNTFD3ee4fTPitmcO8z_rlcrT6AZFEwElmqQw305iPA%3D%3D)**
+**[Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races](https://www.cnn.com/2026/03/13/politics/james-talarico-ai-deepfake-republicans-midterms)**
 
-WSJ • 12h ago
+Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
 
----
-
-**[Nvidia to focus on competition-beating AI advances at megaconference](https://www.reuters.com/technology/nvidia-focus-competition-beating-ai-advances-megaconference-2026-03-13/)**
-
-Reuters • 5h ago
+CNN • 29m ago
 
 ---
 
-**[Barclays' model shows AI spending cycle is far from peak. That means Nvidia shares are too cheap](https://www.cnbc.com/2026/03/13/barclays-model-shows-ai-spending-cycle-is-far-from-peak-that-means-nvidia-shares-are-too-cheap.html)**
+**[Nvidia may soon unveil a brand-new AI chip. A closer look at the $20 billion bet to make it happen](https://www.cnbc.com/2026/03/13/a-closer-look-at-nvidias-20-billion-bet-on-tech-for-a-new-ai-chip.html)**
 
-Consensus hyperscale capex is at least $225 billion "too low" in 2027 and 2028, according to a recent analysis from Barclays analysts.
+At its GTC conference, Nvidia is expected to share some of its vision for incorporating technology from AI chip startup Groq.
 
-CNBC • 45m ago
+CNBC • 11m ago
 
 ---
 
-**[Amazon Will Use Cerebras’ Giant Chips to Help Run AI Models](https://www.bloomberg.com/news/articles/2026-03-13/amazon-will-use-cerebras-giant-chips-to-help-run-ai-models)**
+**[Iran waging extensive AI misinformation warfare against US, allies](https://www.foxnews.com/video/6390863874112)**
 
-Bloomberg.com • 1h ago
+Fox News' Bryan Llenas reports as Iran's shares AI-generated videos and images to spread misinformation the Middle East. CENTCOM is countering these claims with fact-checks online.
+
+Fox News • 47m ago
+
+---
+
+**[Coding After Coders: The End of Computer Programming as We Know It - The New York Times](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[The Unlikely Red State Trying to Buck Trump and Big Tech](https://www.politico.com/news/magazine/2026/03/13/utah-lds-church-ai-big-tech-trump-00823634)**
+
+Politico • 8h ago
+
+---
+
+**[Inside the Dirty, Dystopian World of AI Data Centers](https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/)**
+
+The race to power AI is already remaking the physical world.
+
+The Atlantic • 5h ago
+
+---
+
+**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqfmSQnPnVmWAmf9oQbscKW-dLQQDXHfdyqWKg50f_Gpm9PxpA58FPs0&gaa_ts=69b44784&gaa_sig=PeEBHW8aVtrwpraBV_CJKnZ8YTtovJ8DFoDJzyiZ7M9BzCkUOUTGNusSAmTioZz-lzgJnV9hWLj1sPnZrTrzVA%3D%3D)**
+
+WSJ • 13h ago
+
+---
+
+**[AI toys for young children need tighter rules, researchers warn](https://www.bbc.com/news/articles/clyg4wx6nxgo)**
+
+In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.
+
+BBC • 7h ago
 
 ---
 
@@ -197,7 +201,7 @@ Bloomberg.com • 1h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4163 • 💬 1634 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4167 • 💬 1638 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -205,7 +209,7 @@ Bloomberg.com • 1h ago
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 684 • 💬 352 • 19h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 690 • 💬 357 • 20h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -213,7 +217,7 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 493 • 💬 195 • 2d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 494 • 💬 195 • 2d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -221,7 +225,7 @@ An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. Wh
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 412 • 💬 456 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 413 • 💬 456 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -243,7 +247,7 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
 
-⬆️ 201 • 💬 116 • 1d ago • [GitHub](https://github.com/jrswab/axe)
+⬆️ 203 • 💬 116 • 1d ago • [GitHub](https://github.com/jrswab/axe)
 
 ---
 
@@ -251,7 +255,7 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 194 • 💬 321 • 17h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 197 • 💬 331 • 18h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -259,7 +263,7 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 Open-source credential vault, give your AI agents access to services without exposing keys. - onecli/onecli
 
-⬆️ 154 • 💬 49 • 23h ago • [GitHub](https://github.com/onecli/onecli)
+⬆️ 155 • 💬 49 • 1d ago • [GitHub](https://github.com/onecli/onecli)
 
 ---
 
@@ -301,7 +305,7 @@ How to Get Ahead with AI While Others Lose Their Jobs Check out Higgsfield https
 
 📺 James Blue
 
-👁️ 3K • ⏱️ 11:10 • 2h ago
+👁️ 3K • ⏱️ 11:10 • 3h ago
 
 ---
 
@@ -311,7 +315,7 @@ Kalshi* 》https://bit.ly/kalshi2026 *Yapms* 》https://yapms.com/ *JacksonJude*
 
 📺 Election Time
 
-👁️ 186K • 👍 3K • 💬 584 • ⏱️ 18:02 • 22h ago
+👁️ 186K • 👍 3K • 💬 584 • ⏱️ 18:02 • 23h ago
 
 ---
 
@@ -331,7 +335,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 93K • 👍 2K • 💬 633 • ⏱️ 15:01 • 23h ago
+👁️ 93K • 👍 2K • 💬 633 • ⏱️ 15:01 • 1d ago
 
 ---
 
@@ -371,7 +375,7 @@ Burger King recently announced their new AI headsets, and you can already smell 
 
 📺 The Food Theorists
 
-👁️ 129K • 👍 8K • 💬 220 • ⏱️ 1:12 • 20h ago
+👁️ 129K • 👍 8K • 💬 220 • ⏱️ 1:12 • 21h ago
 
 ---
 
@@ -459,7 +463,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 161 • 15h ago
+⬇️ 6,439 • ❤️ 161 • 16h ago
 
 ---
 
@@ -659,7 +663,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.7k • 🔱 3.5k • 55m ago
+⭐ 26.7k • 🔱 3.5k • 1h ago
 
 ---
 
@@ -669,7 +673,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.8k • 🔱 896 • 15h ago
+⭐ 19.8k • 🔱 896 • 16h ago
 
 ---
 
@@ -679,7 +683,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.1k • 🔱 1.3k • 4h ago
+⭐ 11.1k • 🔱 1.3k • 5h ago
 
 ---
 
@@ -699,7 +703,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.9k • 🔱 644 • 7h ago
+⭐ 8.9k • 🔱 644 • 8h ago
 
 ---
 
@@ -719,7 +723,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 737 • 12h ago
+⭐ 6.3k • 🔱 737 • 13h ago
 
 ---
 
@@ -729,7 +733,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 448 • 4h ago
+⭐ 3.9k • 🔱 448 • 5h ago
 
 ---
 
