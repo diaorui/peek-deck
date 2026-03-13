@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T09:40:19.950205+00:00'
+updated: '2026-03-13T10:38:44.437245+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 09:40 UTC  
+**Last Updated:** March 13, 2026 at 10:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-22h ago
+23h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-16h ago
+17h ago
 
 ---
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-19h ago
+20h ago
 
 ---
 
@@ -64,7 +64,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
 
-3h ago
+4h ago
 
 ---
 
@@ -72,13 +72,13 @@ Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune 
 
 Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
 
-2h ago
+3h ago
 
 ---
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -100,7 +100,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. If you're running perception on constrained hardware I'd love your input. Is memory the bottleneck? Would fitting a larger model in the same budget actually help?
 
-9h ago
+10h ago
 
 ---
 
@@ -112,35 +112,11 @@ Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. I
 
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
-TechCrunch • 16h ago
+TechCrunch • 17h ago
 
 ---
 
-**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
-
-Network of training farms aims to supply data needed to put ‘brains’ into machines
-
-Financial Times • 1d ago
-
----
-
-**[Cornish pupils build Lego robots to solve engineering problems](https://www.bbc.com/news/articles/cx2dzk8j71ko)**
-
-As part of a competition, they had to build robots them use them to complete missions on a game table.
-
-BBC • 3h ago
-
----
-
-**[Kamen resigns from FIRST robotics in wake of Epstein ties](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire)**
-
-Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
-
-New Hampshire Public Radio • 18h ago
-
----
-
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfsuHN4sGnz9XV53Ne9i8zyFv37jA2x9-luAmcjmqrLIG2FlYj6woEv&gaa_ts=69b3d134&gaa_sig=kVTpwbQEjvFwURtjCuo6ZG73P3E1IMY__8hC1U1WKXSaw85XyLchwgkkjVdSCIpiRrle0x5cnrZq6OhAws_Baw%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfRCDm2AoviEYa2xsXe7mZIrKz2p5b8Fx3Y5rZPc9v6WwLGaHQDc6BT&gaa_ts=69b3ec9e&gaa_sig=TkgbCioLC7gmo2vO6GQ7RfIGMR2NP22AGdzqdsTCtLmJw-s6vtCg1Yfcrx9HVqtwIDF6to6PfNjr7VbawLnx2Q%3D%3D)**
 
 WSJ • 1d ago
 
@@ -162,6 +138,22 @@ TechCrunch • 1d ago
 
 ---
 
+**[Kamen resigns from FIRST Robotics board of directors](https://www.wmur.com/article/kamen-resigns-first-robotics-board-031226/70724175)**
+
+New Hampshire inventor Dean Kamen has voluntarily resigned from the board of directors of FIRST Robotics.
+
+WMUR • 5h ago
+
+---
+
+**[HIVE teams with AMC Robotics to fuel AI robots for dangerous, dull work](https://www.stocktitan.net/news/HIVE/amc-robotics-and-hive-announce-collaboration-to-advance-ai-driven-xq1nxia1mu76.html)**
+
+Kyro, AMC's AI quadruped, now taps HIVE's BUZZ GPU AI Cloud for real-time navigation and video processing, backing a ramp from lab work to deployment.
+
+Stock Titan • 5h ago
+
+---
+
 **[Serve Robotics CEO talks Q4 earnings, White Castle partnership](https://finance.yahoo.com/video/serve-robotics-ceo-talks-q4-213946704.html)**
 
 Serve Robotics (SERV) co-founder and CEO Ali Kashani joins Asking for a Trend host Josh Lipton to go over the company's fourth quarter earnings results. Watch the video above to learn more about the company's recently announced partnership with White Castle. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
@@ -170,19 +162,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/)**
-
-Niantic's AI spinout is training a new world model using 30 billion images of urban landmarks crowdsourced from players.
-
-MIT Technology Review • 2d ago
-
----
-
 **[Stocks making the biggest moves midday: Oracle, Papa John's, Nebius, Campbell's, Serve Robotics, Cadre and more](https://www.cnbc.com/2026/03/11/stocks-making-the-biggest-moves-midday-orcl-nbis-cpb-serv-cdre.html)**
 
 These are some of the stocks posting the largest midday moves.
 
 CNBC • 1d ago
+
+---
+
+**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
+
+Network of training farms aims to supply data needed to put ‘brains’ into machines
+
+Financial Times • 1d ago
+
+---
+
+**[Centaur-style wearable robot adds 2 legs to cut walking effort by 35%](https://interestingengineering.com/ai-robotics/centaur-robot-legs-cut-walking-effort)**
+
+Centaur-style wearable robot adds two legs behind humans, cutting walking effort by 35% while carrying heavy loads.
+
+Interesting Engineering • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 47K • 👍 4K • 💬 614 • ⏱️ 5:32 • 17h ago
+👁️ 47K • 👍 4K • 💬 614 • ⏱️ 5:32 • 18h ago
 
 ---
 
@@ -206,7 +206,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 103 • ⏱️ 1:10 • 9h ago
+👁️ 3K • 👍 103 • ⏱️ 1:10 • 10h ago
 
 ---
 
@@ -226,7 +226,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 4K • 👍 180 • 💬 19 • ⏱️ 8:34 • 17h ago
+👁️ 4K • 👍 180 • 💬 19 • ⏱️ 8:34 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T09:40:19.944330+00:00'
+updated: '2026-03-13T10:38:44.434066+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 09:40 UTC  
+**Last Updated:** March 13, 2026 at 10:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** +7.2%  
-**30d:** +8.4%  
-**90d:** -31.1%  
-**1y:** +10.4%  
+**24h:** +3.3%  
+**7d:** +8.2%  
+**30d:** +9.4%  
+**90d:** -30.5%  
+**1y:** +11.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 3h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 4h ago
+
+---
+
+**[Etherscan Warns Ethereum Users About Rising Address Poisoning Scams](https://www.reddit.com/r/ethereum/comments/1rsj99k/etherscan_warns_ethereum_users_about_rising/)**
+
+Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
+
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 34m ago
 
 ---
 
@@ -88,7 +96,7 @@ Stay informed with the latest insights in our Infostealers weekly report. Explor
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 3h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 4h ago
 
 ---
 
@@ -104,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 13h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 14h ago
 
 ---
 
@@ -120,7 +128,7 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
 
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 22h ago
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 23h ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[ERC-8183 brings AI resume On-Chain 🤖💼](https://www.reddit.com/r/ethereum/comments/1rqk7an/erc8183_brings_ai_resume_onchain/)**
-
-Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer for agents. This can be called as a new job primitive. Currently we need a platform like Upwork or Freelancer to hold the money in escrow and make sure the work actually got done. In the agent economy, that is a bottleneck. Every transaction now has a client, a provider, and an evaluator. The Evaluator is the secret sauce, it’s an address (could be another AI or a ZK-circuit) that confirms the work is good before the money is released. Because this is on-chain, an AI’s track record isn't locked in. If an agent is a great coder, its completed job history follows it everywhere. This means it need not start from zero trust. If the bot doesn't deliver, the contract auto refunds. There is no customer support tickets or charge backs. Very curious to know how this will work for qualitative works? Let me know what you think.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer fo
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -164,23 +164,21 @@ The Block • 17h ago
 
 The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
-**[BlackRock Launches Staked Ethereum ETF](https://thedefiant.io/news/tradfi-and-fintech/blackrock-launches-staked-ethereum-etf-ethb)**
+**[Ethereum and TAO Price Rally Gains Strengthens As Market Sentiment Improves](https://www.binance.com/en/square/post/301061664139890)**
 
-BlackRock today debuted the iShares Staked Ethereum Trust ETF (Nasdaq: ETHB) — the firm's first crypto exchange-traded fund to incorporate staking and its third spot crypto ETF overall.
-
-thedefiant.io • 15h ago
+Binance • 1h ago
 
 ---
 
-**[Ethereum news: BlackRock’s staked ether ETF draws $15 million in first-day trading](https://www.coindesk.com/markets/2026/03/13/blackrock-s-staked-ether-etf-draws-usd15-million-in-first-day-trading)**
+**[Vitalik Buterin says Ethereum’s key use case is a ‘public bulletin board,’ not just smart contracts](https://www.coindesk.com/tech/2026/03/12/vitalik-buterin-says-ethereum-should-be-used-as-a-simple-digital-bulletin-board)**
 
-The new ETHB fund launched with over $100 million in assets and traded more than $15 million on day one, offering investors exposure to ethereum plus staking rewards.
+Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
 
-CoinDesk • 3h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -188,37 +186,23 @@ CoinDesk • 3h ago
 
 Crypto investors need to keep their eyes on the arrival of altcoin season.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitmine’s Massive Ethereum Bet Deepens As MAVAN Staking Launch Nears](https://finance.yahoo.com/news/bitmine-massive-ethereum-bet-deepens-091211652.html)**
+**[BNB Chain Overtakes Ethereum, Base by Number of AI Agents](https://thedefiant.io/news/defi/bnb-smart-chain-becomes-home-to-most-erc-8004-ai-agents)**
 
-Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
+BNB Chain has surpassed Ethereum as the blockchain hosting the largest number of AI agents operating under the ERC-8004 standard, according to data from Agentscan and 8004scan.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
-
-Binance • 5d ago
+thedefiant.io • 15h ago
 
 ---
 
-**[Crypto News: Pepeto Update Amount Raised Above $7.96 Million as Ethereum Price Prediction Points to New All Time High](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-update-amount-raised-above-7-96-million-as-ethereum-price-prediction-points-to-new-all-time-high-1035924891)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP approach key technical levels as breakout odds rise](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-approach-key-technical-levels-as-breakout-odds-rise-202603130319)**
 
-Dubai, UAE, March  12, 2026  (GLOBE NEWSWIRE) -- Pepeto crossed $7.96 million this week and the pace keeps accelerating, reflecting the seriousnes...
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are gearing up for a potential breakout on Friday after gaining over 8%, 10% and 4% so far this week. BTC and ETH are approaching the key technical levels while XRP continues to stabilize within a descending channel.
 
-markets.businessinsider.com • 13h ago
-
----
-
-**[Ethereum (ETH-USD) Price Consolidates Above $2,050 Despite Growing Adoption](https://seekingalpha.com/article/4881858-ethereum-price-consolidates-above-2050-despite-growing-adoption)**
-
-​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
-
-Seeking Alpha • 13h ago
+FXStreet • 7h ago
 
 ---
 
@@ -226,7 +210,23 @@ Seeking Alpha • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 20h ago
+
+---
+
+**[Crypto News: Pepeto Update Amount Raised Above $7.96 Million as Ethereum Price Prediction Points to New All Time High](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-update-amount-raised-above-7-96-million-as-ethereum-price-prediction-points-to-new-all-time-high-1035924891)**
+
+Dubai, UAE, March  12, 2026  (GLOBE NEWSWIRE) -- Pepeto crossed $7.96 million this week and the pace keeps accelerating, reflecting the seriousnes...
+
+markets.businessinsider.com • 14h ago
+
+---
+
+**[Ethereum (ETH-USD) Price Consolidates Above $2,050 Despite Growing Adoption](https://seekingalpha.com/article/4881858-ethereum-price-consolidates-above-2050-despite-growing-adoption)**
+
+​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
+
+Seeking Alpha • 14h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 545 • 💬 125 • ⏱️ 19:58 • 17h ago
+👁️ 16K • 👍 545 • 💬 125 • ⏱️ 19:58 • 18h ago
 
 ---
 
@@ -250,7 +250,7 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 2K • 👍 41 • 💬 36 • ⏱️ 7:47 • 13h ago
+👁️ 2K • 👍 41 • 💬 36 • ⏱️ 7:47 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 106 • 💬 1 • ⏱️ 4:49 • 8h ago
+👁️ 1K • 👍 106 • 💬 1 • ⏱️ 4:49 • 9h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 7K • 👍 268 • 💬 218 • ⏱️ 14:40 • 11h ago
+👁️ 7K • 👍 268 • 💬 218 • ⏱️ 14:40 • 12h ago
 
 ---
 
@@ -310,7 +310,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum u
 
 📺 Bankless
 
-👁️ 9K • 👍 329 • 💬 36 • ⏱️ 56:53 • 1d ago
+👁️ 9K • 👍 329 • 💬 36 • ⏱️ 56:53 • 2d ago
 
 ---
 
@@ -330,7 +330,7 @@ In this video we provide an update on BMNR balance and why it could be positioni
 
 📺 CryptoTrader
 
-👁️ 379 • 👍 95 • 💬 45 • ⏱️ 9:55 • 1h ago
+👁️ 379 • 👍 95 • 💬 45 • ⏱️ 9:55 • 2h ago
 
 ---
 
