@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T15:09:15.200736+00:00'
+updated: '2026-03-13T16:03:08.038397+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 15:09 UTC  
+**Last Updated:** March 13, 2026 at 16:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,139.71
+### $2,151.67
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.7%  
-**7d:** +11.1%  
-**30d:** +12.3%  
-**90d:** -28.6%  
-**1y:** +14.4%  
+**24h:** +3.5%  
+**7d:** +8.1%  
+**30d:** +9.3%  
+**90d:** -30.5%  
+**1y:** +11.4%  
 
 ---
 
@@ -72,7 +72,27 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
+
+---
+
+**[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 56m ago
+
+---
+
+**[Etherscan Warns Ethereum Users About Rising Address Poisoning Scams](https://www.reddit.com/r/ethereum/comments/1rsj99k/etherscan_warns_ethereum_users_about_rising/)**
+
+Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
+
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 5h ago
+
+---
+
+**[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
+
+🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 17m ago
 
 ---
 
@@ -88,7 +108,7 @@ Stay informed with the latest insights in our Infostealers weekly report. Explor
 
 US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 1h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 2h ago
 
 ---
 
@@ -96,15 +116,7 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 9h ago
-
----
-
-**[Etherscan Warns Ethereum Users About Rising Address Poisoning Scams](https://www.reddit.com/r/ethereum/comments/1rsj99k/etherscan_warns_ethereum_users_about_rising/)**
-
-Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
-
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 5h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 10h ago
 
 ---
 
@@ -132,22 +144,6 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 ---
 
-**[EIP-8024: the end of the "stack too deep" error](https://www.reddit.com/r/ethereum/comments/1rrnfko/eip8024_the_end_of_the_stack_too_deep_error/)**
-
-If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
-
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 1d ago
-
----
-
-**[Concept feedback](https://www.reddit.com/r/ethereum/comments/1rrlgyo/concept_feedback/)**
-
-I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +152,7 @@ I've created a series of charts that show inflation in a way that has an emotion
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -176,11 +172,27 @@ The Block • 8h ago
 
 ---
 
-**[New BlackRock Staked Ethereum Fund to Pay 82% of Rewards to Investors](https://finance.yahoo.com/news/blackrock-staked-ethereum-fund-pay-130051350.html)**
+**[BlackRock iShares Staked Ethereum Trust: Big Rewards for Holders?](https://finance.yahoo.com/news/blackrock-ishares-staked-ethereum-trust-120748876.html)**
 
-BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
+BlackRock has officially launched the iShares Staked Ethereum Trust (ETHB), marking the debut of the first US spot Ethereum ETF with native staking capabilities. The fund began trading on Nasdaq on March 12, introducing a competitive fee waiver that reduces the sponsor fee to just 0.12% for the first 12 ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum news (ETH): Foundation publishes mandate defining its role, core principles](https://www.coindesk.com/tech/2026/03/13/ethereum-foundation-publishes-new-mandate-defining-its-role-core-principles)**
+
+The document comes at a moment of transition for the organization, following recent shifts in Ethereum’s technical roadmap and the resignation earlier this year of one of the foundation’s co-executive directors.
+
+CoinDesk • 13m ago
+
+---
+
+**[Current price of Ethereum for March 13, 2026](https://fortune.com/article/price-of-ethereum-03-13-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
@@ -188,15 +200,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin (BTC) and ETH update: Cryptos show resilience against global deleveraging as the 20 millionth Bitcoin is mined. Explore an intraday technical analysis
 
-marketpulse.com • 1h ago
-
----
-
-**[Vitalik Buterin says Ethereum’s key use case is a ‘public bulletin board,’ not just smart contracts](https://www.coindesk.com/tech/2026/03/12/vitalik-buterin-says-ethereum-should-be-used-as-a-simple-digital-bulletin-board)**
-
-Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
-
-CoinDesk • 23h ago
+marketpulse.com • 2h ago
 
 ---
 
@@ -208,25 +212,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. This Trump Post Could Be Lifting the Crypto, Ethereum and XRP.](https://www.barrons.com/articles/bitcoin-price-cyrpto-xrp-ethereum-trump-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqd3SNI2yBfJKwaxl_eTqdjzSfjLcdaPCO8QrhKoBgc1Xn8_AxzStT33&gaa_ts=69b41e62&gaa_sig=pD_XQuH6JNAQWZH5FyxGEgg66h04snjqB-uNXawu0wSl2DXhzxOOZfUThv82XWbV9ZmnA9-ZaDiyj3dyCJJF_w%3D%3D)**
-
-Barron's • 5h ago
-
----
-
-**[Don't Buy Ethereum Until This Happens](https://www.fool.com/investing/2026/03/12/dont-buy-ethereum-until-this-happens/)**
-
-Crypto investors need to keep their eyes on the arrival of altcoin season.
-
-The Motley Fool • 1d ago
-
----
-
 **[Not XRP Or Ethereum: You Won’t Believe The Network With The Highest Number Of RWA Users](https://www.tradingview.com/news/newsbtc:7ba3f76a1094b:0-not-xrp-or-ethereum-you-won-t-believe-the-network-with-the-highest-number-of-rwa-users/)**
 
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
-TradingView • 4h ago
+TradingView • 5h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP approach key technical levels as breakout odds rise](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-approach-key-technical-levels-as-breakout-odds-rise-202603130319)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are gearing up for a potential breakout on Friday after gaining over 8%, 10% and 4% so far this week. BTC and ETH are approaching the key technical levels while XRP continues to stabilize within a descending channel.
+
+FXStreet • 12h ago
 
 ---
 
@@ -240,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 582 • 👍 77 • 💬 4 • ⏱️ 6:41 • 1h ago
+👁️ 582 • 👍 77 • 💬 4 • ⏱️ 6:41 • 2h ago
 
 ---
 
@@ -250,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 605 • 💬 130 • ⏱️ 19:58 • 23h ago
+👁️ 17K • 👍 605 • 💬 130 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -260,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 205 • 👍 10 • 💬 1 • ⏱️ 4:58 • 4h ago
+👁️ 205 • 👍 10 • 💬 1 • ⏱️ 4:58 • 5h ago
 
 ---
 
@@ -270,7 +268,7 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 3K • 👍 57 • 💬 9 • ⏱️ 7:47 • 18h ago
+👁️ 3K • 👍 57 • 💬 9 • ⏱️ 7:47 • 19h ago
 
 ---
 
@@ -280,7 +278,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 2K • 👍 206 • 18m ago
+👁️ 2K • 👍 206 • 1h ago
 
 ---
 
@@ -290,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 116 • 💬 2 • ⏱️ 4:49 • 13h ago
+👁️ 2K • 👍 116 • 💬 2 • ⏱️ 4:49 • 14h ago
 
 ---
 
@@ -310,7 +308,7 @@ BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 8K • 👍 278 • 💬 227 • ⏱️ 14:40 • 16h ago
+👁️ 8K • 👍 278 • 💬 227 • ⏱️ 14:40 • 17h ago
 
 ---
 
@@ -320,7 +318,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 100 • 💬 16 • ⏱️ 37:23 • 4h ago
+👁️ 2K • 👍 100 • 💬 16 • ⏱️ 37:23 • 5h ago
 
 ---
 

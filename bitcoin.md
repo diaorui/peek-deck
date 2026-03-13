@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-13T15:09:15.194654+00:00'
+updated: '2026-03-13T16:03:08.033169+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 15:09 UTC  
+**Last Updated:** March 13, 2026 at 16:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,408.13
+### $71,900.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.3%  
-**7d:** +9.1%  
-**30d:** +10.8%  
-**90d:** -16.9%  
-**1y:** -12.6%  
+**24h:** +2.7%  
+**7d:** +7.0%  
+**30d:** +8.6%  
+**90d:** -18.5%  
+**1y:** -14.3%  
 
 ---
 
@@ -91,9 +91,17 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 ---
 
+**[There is simply no reason not to go all in](https://www.reddit.com/r/Bitcoin/comments/1rsob0d/there_is_simply_no_reason_not_to_go_all_in/)**
+
+Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
+
+1h ago
+
+---
+
 **[A Fast History of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rs8ao1/a_fast_history_of_bitcoin/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,7 +109,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 Seeing the floor hold, the speculators are already crawling back. The truth is simple and naked: ultimate price discovery always boils down to supply and demand. While some are still selling, this breakout looks strong. Even if we need to consolidate and recharge for a bit longer, I’m fine with that.
 
-12h ago
+13h ago
 
 ---
 
@@ -113,19 +121,19 @@ I wanted a single page where I could check in on Bitcoin everyday without visiti
 
 ---
 
+**[Bitcoin on way up!](https://www.reddit.com/r/Bitcoin/comments/1rsommh/bitcoin_on_way_up/)**
+
+"The market is entering a high-velocity phase this morning. Bitcoin has surged past $72,000, decoupling from a strengthening dollar and rising bond yields. Market sentiment is shifting as BTC increasingly behaves as a geopolitical hedge against energy-driven inflation." This is from email from Coindesk Daybook. This is what Bicoin should have been doing all along. It does not rise snd fall with dollar or stocks, it's a hedge against them. People need to stop speculating and panicking. Bitcoin is not a speculative asset. If you think it is, please learn about the "real Bitcoin", not the one you think it is. 😉 Here is the link to article if you would like to read it... I hope the Reddit mod does not remove it like they did my other links. [ https://www.coindesk.com/daybook-us/2026/03/13/bitcoin-s-building-steam-and-a-usd3-billion-trigger-could-make-it-wild/ ] If link is not hot, pls copy/paste into browser
+
+1h ago
+
+---
+
 **[My DCA mistake during the bear market - don't repeat what I did](https://www.reddit.com/r/Bitcoin/comments/1rrtisl/my_dca_mistake_during_the_bear_market_dont_repeat/)**
 
 What's up Bitcoin fam - dropping some wisdom for anyone just getting started I jumped into BTC back in early 2021 when it was sitting around $42K during all that craziness. Figured I was being smart getting in When it started sliding I was actually excited - more Bitcoin for less money right? Grabbed some at $36K and then again around $33K but man when it kept dropping past $29K I started getting cold feet Completely stopped my automatic weekly buys and just watched it crater below $19K thinking I was being clever by not throwing good money after bad. Really thought I dodged a bullet there Fast forward to the 2023/2024 run and wow did I feel stupid. If I just stuck with my original plan and kept buying through that whole mess I'd be in such a better spot right now Current market vibes are giving me serious flashbacks but this time I'm not making the same mistake. Still doing my weekly buys because when you zoom out Bitcoin adoption isn't going anywhere and I want to stack as much as possible before Wall Street owns everything The psychology behind why we stop buying during the scary times is wild but that's exactly when you should be most aggressive about it
 
-23h ago
-
----
-
-**[Don’t you think War will increase inflation therefore less buying power ?](https://www.reddit.com/r/Bitcoin/comments/1rsgxsz/dont_you_think_war_will_increase_inflation/)**
-
-Basically the title and less buying power, BTC drop?
-
-7h ago
+1d ago
 
 ---
 
@@ -137,19 +145,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[Bitcoin is holding](https://www.reddit.com/r/Bitcoin/comments/1rrvl74/bitcoin_is_holding/)**
+**[Don’t you think War will increase inflation therefore less buying power ?](https://www.reddit.com/r/Bitcoin/comments/1rsgxsz/dont_you_think_war_will_increase_inflation/)**
 
-With all the terrible news, and everyone trying to pull their money out of the markets bitcoin is actually holding. With all the fear and fud it is holding. Bitcoin really is wealth preservation and I am more bullish than ever right now.
+Basically the title and less buying power, BTC drop?
 
-22h ago
-
----
-
-**[Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption.](https://www.reddit.com/r/Bitcoin/comments/1rrpy4j/coinbase_is_quietly_lobbying_to_kill_bitcoins_de/)**
-
-Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The company reportedly told legislators that "no one is using Bitcoin as money" and that a Bitcoin de minimis exemption would be "DOA." Meanwhile, they're pushing for the exemption to apply only to stablecoins, specifically regulated, dollar-pegged stablecoins like USDstableshitcoin. Coinbase made $1.35 billion in stablecoin revenue in 2025, up 48% year over year, almost entirely from interest earned on U.S. Treasuries held in USDstableshitcoin reserves. Bloomberg estimates that number could surge 7x under the GENIUS Act. Every person who uses USDstableshitcoin for payments instead of Bitcoin is a person whose dollars are sitting in Coinbase's reserve pool generating risk-free yield for Coinbase. A de minimis exemption for Bitcoin would let people spend it freely for everyday purchases without triggering a taxable event. That makes Bitcoin a direct competitor to USDstableshitcoin as a payment method. Coinbase doesn't want that competition. They want you locked into their centralized stablecoin ecosystem where they clip yield on every dollar you park there. The irony is that a de minimis exemption doesn't even make sense for stablecoins. They're pegged to the dollar. They don't fluctuate in value. There's no capital gain to exempt. The exemption matters for Bitcoin precisely because it does fluctuate, and without it, every coffee purchase becomes a taxable event. Senator Lummis proposed a $300 de minimis exemption that would cover Bitcoin. The House framework only covers stablecoins under $200. The Bitcoin Policy Institute has already warned that Bitcoin is being deliberately excluded from these talks. A de minimis exemption that covers stablecoins but not Bitcoin isn't a tax framework. It's a subsidy for Coinbase's treasury management business disguised as consumer protection. https://x.com/BITCOINALLCAPS/status/2032077358904029557?s=20
-
-1d ago
+8h ago
 
 ---
 
@@ -157,47 +157,39 @@ Coinbase is quietly lobbying to kill Bitcoin's de minimis tax exemption. The com
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's early crash to $60,000 now looks like a warning for stocks](https://www.coindesk.com/markets/2026/03/13/bitcoin-crashed-first-now-stocks-follow-cementing-btc-s-lead-indicator-cred)**
-
-Bitcoin has once again acted as a leading indicator for risk assets, plunging sharply before the ongoing global stock market swoon.
-
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin Edges Higher in Asia Despite Middle East Jitters](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-edges-higher-in-asia-despite-middle-east-jitters)**
-
-Bloomberg.com • 4h ago
-
----
-
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?mod=barronsgooglenews&gaa_at=eafs&gaa_n=AWEtsqcua-YZdT0pnwR-DcDxpjoaw-Cc6YXWTRfogUqLRiPHRYCWq3Bk8Eo0&gaa_ts=69b41e60&gaa_sig=p4ws0GXfknYBDuzyUyv1v8_vvBW42JnW1P-7KNi0dZpyS4ajngmhp7O9TbsLstNrmWMGrcrId06F6GIjyf-DGQ%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[Are There Any Bitcoin Mining Stocks Worth Buying Right Now?](https://www.fool.com/investing/2026/03/13/are-there-any-bitcoin-mining-stocks-worth-buying-r/)**
-
-There's a new way to evaluate Bitcoin mining stocks, and it involves AI.
-
-The Motley Fool • 1h ago
-
----
-
-**[Are There Any Bitcoin Mining Stocks Worth Buying Right Now?](https://finance.yahoo.com/news/bitcoin-mining-stocks-worth-buying-125600297.html)**
-
-There's a new way to evaluate Bitcoin mining stocks, and it involves AI.
-
-Yahoo Finance • 2h ago
-
----
-
 **[Bitcoin investor offers Nevis residents $100 a month if libertarian city approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)**
 
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
-Financial Times • 10h ago
+Financial Times • 11h ago
+
+---
+
+**[Iran war oil shock more likely to affect Bitcoin miners through BTC price than energy costs, analysts say](https://www.theblock.co/post/393531/iran-war-oil-shock-more-likely-to-affect-bitcoin-miners-through-btc-price-than-energy-costs-analysts-say)**
+
+Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
+
+The Block • 3h ago
+
+---
+
+**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Coinbase stock rises on bitcoin rally, Carvana approves stock split](https://finance.yahoo.com/video/coinbase-stock-rises-bitcoin-rally-151501540.html)**
+
+Yahoo Finance Markets and Data Editor Jared Blikre and Market Catalysts host Julie Hyman take a closer look at some of Friday morning's trending tickers and stories. Crypto stocks, including Coinbase (COIN), Strategy (MSTR), and Mara Holdings (MARA), rise as bitcoin (BTC-USD) prices reach $73,000. Carvana (CVNA) has approved a 5-for-1 stock split. Once Upon a Farm (OFRM) forecasts slowing sales growth this year. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+
+Yahoo Finance • 48m ago
+
+---
+
+**[Bitcoin Rises to $73,000, Boosting Crypto Stocks](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-13-2026/card/bitcoin-rises-above-72-000-boosting-crypto-stocks-uG8GtmAZWUf8BGLDN8Jh?gaa_at=eafs&gaa_n=AWEtsqfptAtZmKrrSemaNiiMU3Lvd9pqu29qJl00QN5bs9IJBeeJhK680YKh&gaa_ts=69b43891&gaa_sig=B4VDQRXOftcMZ9ox5YYf4s74rXprW_HEa5prT2d4ZDrQmANqSZmN2dxHKXyS6CmtLtcCr0qboLqu-ffxdJ-ojQ%3D%3D)**
+
+WSJ • 1h ago
 
 ---
 
@@ -205,23 +197,21 @@ Financial Times • 10h ago
 
 GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
-**[Current price of Bitcoin for March 13, 2026](https://fortune.com/article/price-of-bitcoin-03-13-2026/)**
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqcOmlNoTDo-wVPVM90POOu9ZxEfFcKY7qHDba2M1UQK5GnGYc2fTAsv&gaa_ts=69b43891&gaa_sig=pO1upDKqHfVt25JuUMnJXX6FTEC_kDsLMPvll2kmiZ1UKPIzncZKqDKgbX1TUJA_utX8eH_DVnnSWl9QX2h8vQ%3D%3D)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1h ago
+Barron's • 2h ago
 
 ---
 
-**[Two Denver cryptocurrency investors fall out over millions in Bitcoin, lawsuit says](https://www.denverpost.com/2026/03/12/denver-cryptocurrency-investors-bitcoin-loan-lawsuit/)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773407400)**
 
-James Hilliard is suing bitcoin ATM entrepreneur and founder of EasyBit, Michael Dupree over an alleged unpaid loan of nearly 70 Bitcoins.
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-The Denver Post • 18h ago
+Polymarket • 1h ago
 
 ---
 
@@ -230,6 +220,14 @@ The Denver Post • 18h ago
 Riverland Energy Cooperative worked to address those concerns at a meeting Wednesday night at the Waumandee Country Bar in Cochrane.
 
 WEAU • 1d ago
+
+---
+
+**[Got $10,000 to Invest? Here’s What Bitcoin vs the S&P 500 Could Be Worth by 2030](https://247wallst.com/investing/2026/03/13/got-10000-to-invest-heres-what-bitcoin-vs-the-sp-500-could-be-worth-by-2030/)**
+
+$10,000 in Bitcoin today could be worth $21,000 to $140,000 by 2030. The same in the S&P 500 would likely grow to $13,600-$17,000.
+
+24/7 Wall St. • 2h ago
 
 ---
 
@@ -295,7 +293,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open source. - leventilo/boltzpay
 
-⬆️ 3 • 💬 1 • 22h ago • [GitHub](https://github.com/leventilo/boltzpay)
+⬆️ 3 • 💬 1 • 23h ago • [GitHub](https://github.com/leventilo/boltzpay)
 
 ---
 
@@ -323,7 +321,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 59K • 👍 4K • 💬 835 • ⏱️ 18:10 • 17h ago
+👁️ 59K • 👍 4K • 💬 835 • ⏱️ 18:10 • 18h ago
 
 ---
 
@@ -333,7 +331,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 586 • 💬 403 • ⏱️ 10:28 • 20h ago
+👁️ 11K • 👍 586 • 💬 403 • ⏱️ 10:28 • 21h ago
 
 ---
 
@@ -343,7 +341,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 353 • 💬 247 • ⏱️ 9:03 • 15h ago
+👁️ 6K • 👍 353 • 💬 247 • ⏱️ 9:03 • 16h ago
 
 ---
 
@@ -353,7 +351,7 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 168 • ⏱️ 22:37 • 14h ago
+👁️ 21K • 👍 2K • 💬 168 • ⏱️ 22:37 • 15h ago
 
 ---
 
@@ -373,7 +371,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 490 • 💬 170 • ⏱️ 11:22 • 4h ago
+👁️ 5K • 👍 490 • 💬 170 • ⏱️ 11:22 • 5h ago
 
 ---
 
@@ -391,7 +389,7 @@ President Trump has just demanded that Fed Chair Jerome Powell cut interest rate
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 224 • 1h ago
+👁️ 2K • 👍 224 • 2h ago
 
 ---
 

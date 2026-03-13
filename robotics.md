@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T15:09:15.203912+00:00'
+updated: '2026-03-13T16:03:08.041141+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 15:09 UTC  
+**Last Updated:** March 13, 2026 at 16:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -56,13 +56,13 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-14h ago
+15h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -70,7 +70,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
 
-8h ago
+9h ago
 
 ---
 
@@ -78,7 +78,7 @@ Today we put it on a real raspberry pi > Wrote some basic motion control functio
 
 Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
 
-9h ago
+10h ago
 
 ---
 
@@ -106,14 +106,6 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 ## Google News: "robotics"
 
-**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
-
-Network of training farms aims to supply data needed to put ‘brains’ into machines
-
-Financial Times • 1d ago
-
----
-
 **[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
 
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
@@ -122,11 +114,25 @@ TechCrunch • 22h ago
 
 ---
 
-**[Ukraine Receives Phantom MK-1 Humanoid Robots for Testing](https://militarnyi.com/en/news/ukraine-receives-phantom-mk-1-humanoid-robots-for-testing/)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfjzqyeJoV5AJBpTItD1DtefSc5LjiGI0p4jdRFMXrGIiSnaqkjchlz&gaa_ts=69b43894&gaa_sig=gDvM21v-D2QtGNNxp1TLcsmxg8Gtvfjl0bPlG73trIIh-K_Jh3tkI3B-qTkKy754tTRS8ViArqSXFchf0l8rWA%3D%3D)**
 
-Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate their effectiveness.The company Foundation told Time that two robots were sent to Ukraine in February.Ukraine has become the […]
+WSJ • 2d ago
 
-Мілітарний • 3h ago
+---
+
+**[Rivian spinout Mind Robotics valued at $2 billion in Series A funding round](https://finance.yahoo.com/news/rivian-spinout-mind-robotics-valued-180654489.html)**
+
+Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)**
+
+The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
+
+TechCrunch • 1d ago
 
 ---
 
@@ -134,7 +140,7 @@ Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate 
 
 Students and faculty with a passion for robotics are making Michigan Tech a destination for all things robots and automation. To meet the needs of a quickly evolving industry, the University's scholars and researchers are using their multidisciplinary acumen to find solutions for real-world challenges in autonomous machinery. In the process, they're inspiring a new generation of robotics enthusiasts.
 
-Michigan Technological University • 1h ago
+Michigan Technological University • 2h ago
 
 ---
 
@@ -142,7 +148,7 @@ Michigan Technological University • 1h ago
 
 At AW 2026 in South Korea, global media recognized companies with strong investment, competitiveness, and international market potential.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -158,29 +164,23 @@ New Hampshire Public Radio • 1d ago
 
 Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
 
-Stock Titan • 3h ago
+Stock Titan • 4h ago
 
 ---
 
-**[St. Mary’s Dominican High School Ultraviolet Robotics Team celebrates wins](https://www.nola.com/st-mary-s-dominican-high-school-ultraviolet-robotics-team-celebrates-wins/article_4b3a056d-0209-4290-863d-fe6779c53414.html)**
+**[Elon Musk says Tesla expects to increase its human workforce as AI and robotics boost productivity](https://www.businessinsider.com/elon-musk-tesla-headcount-to-increase-ai-robotics-productivty-2026-3)**
 
-At the 2026 FIRST Tech Challenge Regional Championship on Feb. 28, the St. Mary’s Dominican High School Ultraviolet Robotics Team earned the Sustain Award, placed 10th in the state, and
+Tesla CEO Elon Musk said  he expects to hire more workers and that output per Tesla employee will get "nutty high."
 
-NOLA.com • 18h ago
-
----
-
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcJVam5fIStN2SziMu7Qk8A7qpsryjw43aChXCrJbAFcDuaQbBzzY-q&gaa_ts=69b41e63&gaa_sig=tzkyKpSroc-U2YeusAhO3nEifPetxo8COcyn8uFTxPFDsIQtZvCV9l6GralVcU7tKSclpvWnwTvUvQl5U4eSuA%3D%3D)**
-
-WSJ • 2d ago
+Business Insider • 11h ago
 
 ---
 
-**[Rivian spinout Mind Robotics valued at $2 billion in Series A funding round](https://finance.yahoo.com/news/rivian-spinout-mind-robotics-valued-180654489.html)**
+**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
 
-Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
+Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Yahoo Finance • 1d ago
+Financial Times • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 1d ago
 
 📺 FUN Robotics Network
 
-👁️ 4K • 👍 132 • ⏱️ 1:10 • 14h ago
+👁️ 4K • 👍 132 • ⏱️ 1:10 • 15h ago
 
 ---
 
@@ -214,7 +214,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 4K • 👍 197 • 💬 19 • ⏱️ 8:34 • 22h ago
+👁️ 4K • 👍 197 • 💬 19 • ⏱️ 8:34 • 23h ago
 
 ---
 
@@ -244,7 +244,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 55K • 👍 2K • 💬 114 • ⏱️ 10:52 • 5d ago
+👁️ 55K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
 
 ---
 
@@ -264,7 +264,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 50K • 👍 4K • 💬 621 • ⏱️ 5:32 • 22h ago
+👁️ 50K • 👍 4K • 💬 621 • ⏱️ 5:32 • 23h ago
 
 ---
 

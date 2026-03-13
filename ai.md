@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T15:09:15.186151+00:00'
+updated: '2026-03-13T16:03:08.025761+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 15:09 UTC  
+**Last Updated:** March 13, 2026 at 16:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
 
-🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 2h ago
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 3h ago
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 4h ago
 
 ---
 
@@ -57,7 +57,15 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 Someone joked that Meta bought a social network where only AI agents can post and humans just watch. Strange idea. But if you look at Facebook today… it might already be happening
 
-1h ago
+2h ago
+
+---
+
+**[Anthropic-Pentagon battle shows how big tech has reversed course on AI and war](https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/)**
+
+The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 53m ago
 
 ---
 
@@ -69,11 +77,19 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 ---
 
+**[Which states have been the fastest to adopt AI in the workplace?](https://www.reddit.com/r/artificial/comments/1rsp8ym/which_states_have_been_the_fastest_to_adopt_ai_in/)**
+
+See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
+
+🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 1h ago
+
+---
+
 **[Systemd 260-rc3 released with AI Agents documentation added](https://www.reddit.com/r/artificial/comments/1rsdc2q/systemd_260rc3_released_with_ai_agents/)**
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 11h ago
 
 ---
 
@@ -101,65 +117,27 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 ---
 
-**[Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots](https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/)**
-
-Post by @emil
-
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 1d ago
-
----
-
-**[U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.](https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/)**
-
-Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.
-
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Meta Delays Rollout of New A.I. Model After Performance Concerns - The New York Times](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
-**[Meta Is Delaying Its ‘Superintelligent’ AI Model After Performance Issues](https://www.entrepreneur.com/business-news/meta-is-delaying-its-super-intelligent-ai-model)**
+**[Meta delays launch of AI model Avocado in latest setback](https://qz.com/meta-avocado-delay-mark-zuckerberg-google-gemini)**
 
-Mark Zuckerberg has invested billions in AI, but Meta's latest model isn't keeping pace with OpenAI and Google.
+Avocado was supposed to show that Meta’s superintelligence push was paying off. But now it’s late, and Gemini may fill the gap
 
-Entrepreneur • 1h ago
-
----
-
-**[Meta stock slips after report of delayed launch for revamped AI model](https://www.msn.com/en-us/money/companies/meta-stock-slips-after-report-of-delayed-launch-for-revamped-ai-model/ar-AA1YyJH4?ocid=finance-verthp-feeds)**
-
-MSN • 1h ago
+qz.com • 1h ago
 
 ---
 
-**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqcb65IqTegV6ZT1KJik5fRqiORGBIzfUMbPs98EVKnKV-9LKrN-BXUc&gaa_ts=69b41e5f&gaa_sig=AmynMA5nNonkIV4pmxXnldGOlHXV9SLee6UaswcZ2djl5FIUamo0_mGg1OxuTxJ0RJPWuAl8Pak3P4s58ndStw%3D%3D)**
+**[Meta Falls Amid Report 'Avocado' AI Is Not Yet Ripe](https://www.investors.com/news/technology/meta-stock-ai-model-avocado-delay/)**
 
-WSJ • 11h ago
-
----
-
-**[Chinese embassy mocks “Shield of the Americas” in AI video](https://www.cnn.com/2026/03/12/world/china-mocks-trump-shield-of-americas-ai-video-latam-intl)**
-
-China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
-
-CNN • 16h ago
-
----
-
-**[Morgan Stanley warns an AI breakthrough Is coming in 2026 — and most of the world isn't ready](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/)**
-
-The bank says scaling laws are holding firm — and the compute buildout underway at AI labs is about to pay off in ways that will surprise even the Street.
-
-Fortune • 6h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -167,29 +145,49 @@ Fortune • 6h ago
 
 Less than a decade ago, Google employees scuttled any military use of its AI. Now Anthropic is fighting Trump officials not over if, but how
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[Inside the Dirty, Dystopian World of AI Data Centers](https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/)**
+**[Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans](https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/)**
 
-The race to power AI is already remaking the physical world.
+Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.
 
-The Atlantic • 3h ago
-
----
-
-**[The Unlikely Red State Trying to Buck Trump and Big Tech](https://www.politico.com/news/magazine/2026/03/13/utah-lds-church-ai-big-tech-trump-00823634)**
-
-Politico • 6h ago
+WIRED • 6h ago
 
 ---
 
-**[AI toys for young children need tighter rules, researchers warn](https://www.bbc.com/news/articles/clyg4wx6nxgo)**
+**[Iran and the rising perils of AI in warfare](https://www.ft.com/content/5d294db8-6917-4085-ba8a-3afbc439b999)**
 
-In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.
+Limits on the use of lethal autonomous weapons systems are urgent
 
-BBC • 5h ago
+Financial Times • 1h ago
+
+---
+
+**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqdI8YqFjgqK7TLaHbT5TSynCopOt9eUftcyQ6tuTo_X7F270G2KqLxT&gaa_ts=69b4388f&gaa_sig=hSTMILWlhP1aqyY6vxRFfG7s38oAljeJX4LGJ2Xgu0ncNTFD3ee4fTPitmcO8z_rlcrT6AZFEwElmqQw305iPA%3D%3D)**
+
+WSJ • 12h ago
+
+---
+
+**[Nvidia to focus on competition-beating AI advances at megaconference](https://www.reuters.com/technology/nvidia-focus-competition-beating-ai-advances-megaconference-2026-03-13/)**
+
+Reuters • 5h ago
+
+---
+
+**[Barclays' model shows AI spending cycle is far from peak. That means Nvidia shares are too cheap](https://www.cnbc.com/2026/03/13/barclays-model-shows-ai-spending-cycle-is-far-from-peak-that-means-nvidia-shares-are-too-cheap.html)**
+
+Consensus hyperscale capex is at least $225 billion "too low" in 2027 and 2028, according to a recent analysis from Barclays analysts.
+
+CNBC • 45m ago
+
+---
+
+**[Amazon Will Use Cerebras’ Giant Chips to Help Run AI Models](https://www.bloomberg.com/news/articles/2026-03-13/amazon-will-use-cerebras-giant-chips-to-help-run-ai-models)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -199,7 +197,7 @@ BBC • 5h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4154 • 💬 1632 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4163 • 💬 1634 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -207,7 +205,7 @@ BBC • 5h ago
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 664 • 💬 345 • 18h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 684 • 💬 352 • 19h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -224,20 +222,6 @@ An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. Wh
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
 ⬆️ 412 • 💬 456 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
-
----
-
-**[Debian decides not to decide on AI-generated contributions](https://news.ycombinator.com/item?id=47324087)**
-
-Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
-
-⬆️ 374 • 💬 288 • 3d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
-
----
-
-**[Amazon is holding a mandatory meeting about AI breaking its systems](https://news.ycombinator.com/item?id=47324211)**
-
-⬆️ 289 • 💬 10 • 3d ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
 
 ---
 
@@ -259,7 +243,7 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
 
-⬆️ 199 • 💬 115 • 1d ago • [GitHub](https://github.com/jrswab/axe)
+⬆️ 201 • 💬 116 • 1d ago • [GitHub](https://github.com/jrswab/axe)
 
 ---
 
@@ -267,7 +251,23 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 183 • 💬 302 • 16h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 194 • 💬 321 • 17h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+
+---
+
+**[Show HN: OneCLI – Vault for AI Agents in Rust](https://news.ycombinator.com/item?id=47353558)**
+
+Open-source credential vault, give your AI agents access to services without exposing keys. - onecli/onecli
+
+⬆️ 154 • 💬 49 • 23h ago • [GitHub](https://github.com/onecli/onecli)
+
+---
+
+**[Show HN: Open-source browser for AI agents](https://news.ycombinator.com/item?id=47336171)**
+
+Deterministic browser automation. Works out of the box with Claude/Codex/OpenCode - theredsix/agent-browser-protocol
+
+⬆️ 150 • 💬 52 • 2d ago • [GitHub](https://github.com/theredsix/agent-browser-protocol)
 
 ---
 
@@ -301,7 +301,7 @@ How to Get Ahead with AI While Others Lose Their Jobs Check out Higgsfield https
 
 📺 James Blue
 
-👁️ 3K • ⏱️ 11:10 • 1h ago
+👁️ 3K • ⏱️ 11:10 • 2h ago
 
 ---
 
@@ -311,7 +311,7 @@ Kalshi* 》https://bit.ly/kalshi2026 *Yapms* 》https://yapms.com/ *JacksonJude*
 
 📺 Election Time
 
-👁️ 186K • 👍 3K • 💬 584 • ⏱️ 18:02 • 21h ago
+👁️ 186K • 👍 3K • 💬 584 • ⏱️ 18:02 • 22h ago
 
 ---
 
@@ -331,7 +331,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 93K • 👍 2K • 💬 633 • ⏱️ 15:01 • 22h ago
+👁️ 93K • 👍 2K • 💬 633 • ⏱️ 15:01 • 23h ago
 
 ---
 
@@ -371,7 +371,7 @@ Burger King recently announced their new AI headsets, and you can already smell 
 
 📺 The Food Theorists
 
-👁️ 129K • 👍 8K • 💬 220 • ⏱️ 1:12 • 19h ago
+👁️ 129K • 👍 8K • 💬 220 • ⏱️ 1:12 • 20h ago
 
 ---
 
@@ -399,7 +399,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 3,142 • ❤️ 348 • 1d ago
+⬇️ 3,142 • ❤️ 348 • 2d ago
 
 ---
 
@@ -459,7 +459,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 161 • 14h ago
+⬇️ 6,439 • ❤️ 161 • 15h ago
 
 ---
 
@@ -659,7 +659,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.7k • 🔱 3.5k • 1m ago
+⭐ 26.7k • 🔱 3.5k • 55m ago
 
 ---
 
@@ -669,7 +669,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.8k • 🔱 896 • 14h ago
+⭐ 19.8k • 🔱 896 • 15h ago
 
 ---
 
@@ -679,7 +679,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.1k • 🔱 1.3k • 3h ago
+⭐ 11.1k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -689,7 +689,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.9k • 🔱 781 • 7d ago
+⭐ 8.9k • 🔱 781 • 8d ago
 
 ---
 
@@ -699,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.9k • 🔱 644 • 6h ago
+⭐ 8.9k • 🔱 644 • 7h ago
 
 ---
 
@@ -709,7 +709,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.1k • 🔱 904 • 9d ago
+⭐ 7.1k • 🔱 904 • 10d ago
 
 ---
 
@@ -719,7 +719,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 737 • 11h ago
+⭐ 6.3k • 🔱 737 • 12h ago
 
 ---
 
@@ -729,7 +729,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 448 • 3h ago
+⭐ 3.9k • 🔱 448 • 4h ago
 
 ---
 
