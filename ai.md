@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T20:36:57.278983+00:00'
+updated: '2026-03-13T21:34:43.360916+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 20:36 UTC  
+**Last Updated:** March 13, 2026 at 21:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
 
-🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 7h ago
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 5h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 8h ago
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
 
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 5h ago
+🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 6h ago
 
 ---
 
@@ -73,7 +73,7 @@ See which U.S. states are adopting AI at work fastest, based on U.S. Census data
 
 We built ArkSim which help simulate multi-turn conversations between agents and synthetic users to see how it behaves across longer interactions. This can help find issues like: - Agents losing context during longer interactions - Unexpected conversation paths - Failures that only appear after several turns The idea is to test conversation flows more like real interactions, instead of just single prompts and capture issues early on. There are currently integration examples for: - OpenAI Agents SDK - Claude Agent SDK - Google ADK - LangChain / LangGraph - CrewAI - LlamaIndex you can try it out here: https://github.com/arklexai/arksim The integration examples are in the examples/integration folder would appreciate any feedback from people currently building agents so we can improve the tool!
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 16h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 17h ago
 
 ---
 
@@ -125,7 +125,7 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 The race to power AI is already remaking the physical world.
 
-The Atlantic • 8h ago
+The Atlantic • 9h ago
 
 ---
 
@@ -139,13 +139,13 @@ CNN • 4h ago
 
 **[Agentic AI's dealmaking problem](https://www.axios.com/pro/enterprise-software-deals/2026/03/13/private-equity-ai-anthropic-dealmaking)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
 **[Opinion | Me, Myself and My A.I. Sloppelgänger](https://www.nytimes.com/2026/03/13/opinion/ai-doppelganger-deepfake-grammarly.html)**
 
-The New York Times • 30m ago
+The New York Times • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 30m ago
 
 A Bay Area gender gap in the tech industry threatens the full participation of women in the future of artificial intelligence.
 
-CBS News • 28m ago
+CBS News • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ CBS News • 28m ago
 
 Technology companies, including Block and Atlassian, have already cut jobs this year due to AI adoption.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -169,13 +169,13 @@ CNBC • 4h ago
 
 Less than a decade ago, Google employees scuttled any military use of its AI. Now Anthropic is fighting Trump officials not over if, but how
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
 **[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqc0_SdqJ1o0vq60EmDd4IETa0VhAuI-Nz8IqQ8vefludgKoK0nunV24&gaa_ts=69b478cc&gaa_sig=ou0_jJelje4yffFFuhT8jMDk6GMdtbPXyztl18zemgkyjo2c3C-xBHw4XBbhZm79KKBnRtOFVO4mREwZUQQaxg%3D%3D)**
 
-WSJ • 16h ago
+WSJ • 17h ago
 
 ---
 
@@ -183,7 +183,7 @@ WSJ • 16h ago
 
 From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.
 
-WIRED • 9h ago
+WIRED • 10h ago
 
 ---
 
@@ -191,7 +191,7 @@ WIRED • 9h ago
 
 Together with pro-Israel funds, the tech money is swamping Democratic rivals in the Chicago area and, according to one government watchdog, distorting democracy.
 
-WBEZ Chicago • 7h ago
+WBEZ Chicago • 8h ago
 
 ---
 
@@ -209,7 +209,7 @@ WBEZ Chicago • 7h ago
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 704 • 💬 367 • 23h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 704 • 💬 367 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -217,7 +217,7 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 556 • 💬 138 • 7h ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 556 • 💬 138 • 8h ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -285,7 +285,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 14K • 👍 1K • 💬 95 • ⏱️ 33:33 • 4h ago
+👁️ 14K • 👍 1K • 💬 95 • ⏱️ 33:33 • 5h ago
 
 ---
 
@@ -295,7 +295,7 @@ CL1 brain chip. Growing human neurons to play video games. #ai #ainews #agi Than
 
 📺 AI Search
 
-👁️ 59K • 👍 3K • 💬 938 • ⏱️ 21:27 • 18h ago
+👁️ 59K • 👍 3K • 💬 938 • ⏱️ 21:27 • 19h ago
 
 ---
 
@@ -335,7 +335,7 @@ Rich DeMuro checks out an AI-powered drive-through scanner that can spot potenti
 
 📺 KTLA 5
 
-👁️ 7K • 👍 156 • 💬 70 • ⏱️ 2:50 • 6h ago
+👁️ 7K • 👍 156 • 💬 70 • ⏱️ 2:50 • 7h ago
 
 ---
 
@@ -463,7 +463,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 167 • 1h ago
+⬇️ 6,439 • ❤️ 167 • 2h ago
 
 ---
 
@@ -475,7 +475,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 6,113 • ❤️ 156 • 1h ago
+⬇️ 6,113 • ❤️ 156 • 2h ago
 
 ---
 
@@ -661,7 +661,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.8k • 🔱 3.5k • 3m ago
+⭐ 26.8k • 🔱 3.5k • 1h ago
 
 ---
 
@@ -671,7 +671,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.9k • 🔱 902 • 3m ago
+⭐ 19.9k • 🔱 902 • 1h ago
 
 ---
 
@@ -681,7 +681,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.2k • 🔱 1.3k • 8h ago
+⭐ 11.2k • 🔱 1.3k • 9h ago
 
 ---
 
@@ -721,7 +721,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 739 • 1h ago
+⭐ 6.3k • 🔱 739 • 2h ago
 
 ---
 
@@ -731,7 +731,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 448 • 8h ago
+⭐ 3.9k • 🔱 448 • 9h ago
 
 ---
 

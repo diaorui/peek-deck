@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T20:36:57.293272+00:00'
+updated: '2026-03-13T21:34:43.373641+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 20:36 UTC  
+**Last Updated:** March 13, 2026 at 21:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 3h ago
+🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 4h ago
 
 ---
 
@@ -80,13 +80,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
 **[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 5h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 6h ago
 
 ---
 
@@ -94,13 +94,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
 
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 10h ago
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 11h ago
 
 ---
 
 **[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
 
-🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 4h ago
+🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 5h ago
 
 ---
 
@@ -108,7 +108,7 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 14h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 15h ago
 
 ---
 
@@ -116,7 +116,7 @@ Stay informed with the latest insights in our Infostealers weekly report. Explor
 
 US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 8h ago
 
 ---
 
@@ -124,7 +124,7 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 15h ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 1d ago
 
 Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 1d ago
 
 As blockchain companies compete to become the infrastructure layer for finance, gaming, and enterprise applications, one debate keeps resurfacing: should businesses build on Ethereum or Solana as a layer 2 (L2), or use dedicated chains designed around their own rules? According to John Nahas, chief ...
 
-Yahoo Finance Singapore • 2h ago
+Yahoo Finance Singapore • 3h ago
 
 ---
 
@@ -208,13 +208,13 @@ The Motley Fool • 1d ago
 
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
 **[Are We Witnessing The Crypto Dawn? – Bitcoin And Ethereum Outlook (undefined:BTC-USD)](https://seekingalpha.com/article/4882293-witnessing-crypto-dawn-bitcoin-ethereum-outlook)**
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Altcoins are heating up on this Friday. We look at Hyperliquid, Ripple, Hedera, 
 
 📺 Altcoin Buzz
 
-👁️ 978 • 👍 83 • 💬 126 • ⏱️ 13:11 • 5h ago
+👁️ 978 • 👍 83 • 💬 126 • ⏱️ 13:11 • 6h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 131 • 💬 4 • ⏱️ 6:41 • 7h ago
+👁️ 2K • 👍 131 • 💬 4 • ⏱️ 6:41 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 0% 
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 370 • ⏱️ 9:16 • 21h ago
+👁️ 45K • 👍 2K • 💬 370 • ⏱️ 9:16 • 22h ago
 
 ---
 
@@ -286,7 +286,7 @@ DISGUSTING $50M Crypto INSTANT Loss Aave Swap Fail + BlackRock STAKING ETH ETF E
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 199 • 💬 4 • ⏱️ 21:32 • 2h ago
+👁️ 2K • 👍 199 • 💬 4 • ⏱️ 21:32 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 110 • 💬 17 • ⏱️ 37:23 • 10h ago
+👁️ 3K • 👍 110 • 💬 17 • ⏱️ 37:23 • 11h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 2 • ⏱️ 4:49 • 19h ago
+👁️ 2K • 👍 115 • 💬 2 • ⏱️ 4:49 • 20h ago
 
 ---
 

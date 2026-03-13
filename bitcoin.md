@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-13T20:36:57.287358+00:00'
+updated: '2026-03-13T21:34:43.368382+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 20:36 UTC  
+**Last Updated:** March 13, 2026 at 21:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
 
-11h ago
+12h ago
 
 ---
 
 **[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
 
-11h ago
+12h ago
 
 ---
 
 **[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
 
-6h ago
+7h ago
 
 ---
 
@@ -109,13 +109,13 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 "The market is entering a high-velocity phase this morning. Bitcoin has surged past $72,000, decoupling from a strengthening dollar and rising bond yields. Market sentiment is shifting as BTC increasingly behaves as a geopolitical hedge against energy-driven inflation." This is from email from Coindesk Daybook. This is what Bicoin should have been doing all along. It does not rise snd fall with dollar or stocks, it's a hedge against them. People need to stop speculating and panicking. Bitcoin is not a speculative asset. If you think it is, please learn about the "real Bitcoin", not the one you think it is. 😉 Here is the link to article if you would like to read it... I hope the Reddit mod does not remove it like they did my other links. [ https://www.coindesk.com/daybook-us/2026/03/13/bitcoin-s-building-steam-and-a-usd3-billion-trigger-could-make-it-wild/ ] If link is not hot, pls copy/paste into browser
 
-6h ago
+7h ago
 
 ---
 
 **[A Fast History of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rs8ao1/a_fast_history_of_bitcoin/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
-2h ago
+3h ago
 
 ---
 
@@ -131,7 +131,7 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 Seeing the floor hold, the speculators are already crawling back. The truth is simple and naked: ultimate price discovery always boils down to supply and demand. While some are still selling, this breakout looks strong. Even if we need to consolidate and recharge for a bit longer, I’m fine with that.
 
-18h ago
+19h ago
 
 ---
 
@@ -139,7 +139,7 @@ Seeing the floor hold, the speculators are already crawling back. The truth is s
 
 I wanted a single page where I could check in on Bitcoin everyday without visiting five different sites. So I built one. Live price (with different timeframe views), L1 and L2 network stats, Fear & Greed, ETF flows, whale alerts, mempool fees, a health score that combines 12 metrics into one number, and breaking news feed with bitcoin, US, world, and market articles as they are published in real-time. It's free for anyone to use and auto-refreshes with live data. It also has a fullscreen monitor mode if you want it on a second screen. What am I missing? What would make this more useful to you? https://21vox.com/bitcoin-pulse When you land on the page, hit 'M' on your keyboard and go fullscreen! I appreciate the feedback in advance. Update Feature requests from comments so far: Alerts and Notifications Multi-currency support Non-fullscreen monitor mode Bitcoin vs. other assets performance comparison Mobile friendly "fullscreen" dashboard view These are great suggestions. Keep an eye out as I'll be rolling them out!
 
-22h ago
+23h ago
 
 ---
 
@@ -159,7 +159,7 @@ What's up Bitcoin fam - dropping some wisdom for anyone just getting started I j
 
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -167,13 +167,13 @@ Financial Times • 15h ago
 
 Surging to a near one-month high of $74,000, bitcoin reversed back to just above $71,000 as news of U.S. military movements in the Middle East rattled risk assets.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -211,7 +211,7 @@ Polymarket • 1d ago
 
 **[Seeking Alpha interview: Andri Fauzan Adziima sees Bitcoin at $85K–$100K in 2026 (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4563809-seeking-alpha-interview-andri-fauzan-adziima-sees-bitcoin-at-85k100k-in-2026)**
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -219,7 +219,7 @@ Seeking Alpha • 12h ago
 
 James Hilliard is suing bitcoin ATM entrepreneur and founder of EasyBit, Michael Dupree over an alleged unpaid loan of nearly 70 Bitcoins.
 
-The Denver Post • 23h ago
+The Denver Post • 1d ago
 
 ---
 
@@ -227,7 +227,7 @@ The Denver Post • 23h ago
 
 $10,000 in Bitcoin today could be worth $21,000 to $140,000 by 2030. The same in the S&P 500 would likely grow to $13,600-$17,000.
 
-24/7 Wall St. • 7h ago
+24/7 Wall St. • 8h ago
 
 ---
 
@@ -269,7 +269,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
 
-⬆️ 1 • 💬 0 • 22h ago • [Frozen Security](https://frozensecurity.com/tools/)
+⬆️ 1 • 💬 0 • 23h ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -299,7 +299,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 **[Ask HN: What are the best product landing pages you've stumbled upon?](https://news.ycombinator.com/item?id=47341618)**
 
-⬆️ 2 • 💬 0 • 1d ago
+⬆️ 2 • 💬 0 • 2d ago
 
 ---
 
@@ -321,7 +321,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 843 • 💬 130 • ⏱️ 12:14 • 5h ago
+👁️ 11K • 👍 843 • 💬 130 • ⏱️ 12:14 • 6h ago
 
 ---
 
@@ -341,7 +341,7 @@ The stock market is bleeding, Gold and Silver are breaking down, but the crypto 
 
 📺 Gareth Soloway
 
-👁️ 15K • 👍 2K • 💬 300 • ⏱️ 9:50 • 3h ago
+👁️ 15K • 👍 2K • 💬 300 • ⏱️ 9:50 • 4h ago
 
 ---
 
@@ -351,7 +351,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 359 • 💬 277 • ⏱️ 9:03 • 21h ago
+👁️ 7K • 👍 359 • 💬 277 • ⏱️ 9:03 • 22h ago
 
 ---
 
@@ -361,7 +361,7 @@ Deezy looks at the bullish chart pattern for Gold, Oil and Bitcoin. But Bitcoin 
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 113 • 💬 74 • ⏱️ 5:33 • 2h ago
+👁️ 1K • 👍 113 • 💬 74 • ⏱️ 5:33 • 3h ago
 
 ---
 
@@ -371,7 +371,7 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 211 • ⏱️ 22:37 • 20h ago
+👁️ 24K • 👍 2K • 💬 211 • ⏱️ 22:37 • 21h ago
 
 ---
 
@@ -391,7 +391,7 @@ Bitcoin #Crypto #Finance Bitcoin adoption continues to accelerate even as invest
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 792 • 💬 116 • ⏱️ 22:15 • 7h ago
+👁️ 11K • 👍 792 • 💬 116 • ⏱️ 22:15 • 8h ago
 
 ---
 
