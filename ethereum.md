@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T08:41:40.212049+00:00'
+updated: '2026-03-13T09:40:19.944330+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 08:41 UTC  
+**Last Updated:** March 13, 2026 at 09:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.91B
+**Market Cap:** $254.21B
 Rank #2
 
 **Circulating Supply:** 120,691,954 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.6%
+-57.4%
 
 **All-Time Low:** $0.43
-+483798.8%
++486168.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 2h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 12h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 13h ago
 
 ---
 
@@ -120,7 +120,7 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
 
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 21h ago
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 22h ago
 
 ---
 
@@ -128,7 +128,7 @@ If you've written a non-trivial amount of Solidity, you've almost certainly run 
 
 I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
 
-23h ago
+1d ago
 
 ---
 
@@ -156,7 +156,7 @@ Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer fo
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 16h ago
 
 The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 20h ago
 
 BlackRock today debuted the iShares Staked Ethereum Trust ETF (Nasdaq: ETHB) — the firm's first crypto exchange-traded fund to incorporate staking and its third spot crypto ETF overall.
 
-thedefiant.io • 14h ago
+thedefiant.io • 15h ago
 
 ---
 
@@ -180,7 +180,7 @@ thedefiant.io • 14h ago
 
 The new ETHB fund launched with over $100 million in assets and traded more than $15 million on day one, offering investors exposure to ethereum plus staking rewards.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 2h ago
 
 Crypto investors need to keep their eyes on the arrival of altcoin season.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Motley Fool • 22h ago
 
 Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ Binance • 5d ago
 
 Dubai, UAE, March  12, 2026  (GLOBE NEWSWIRE) -- Pepeto crossed $7.96 million this week and the pace keeps accelerating, reflecting the seriousnes...
 
-markets.businessinsider.com • 12h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -218,7 +218,7 @@ markets.businessinsider.com • 12h ago
 
 ​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -226,7 +226,7 @@ Seeking Alpha • 12h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -240,17 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 519 • 💬 97 • ⏱️ 19:58 • 16h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eLst5IZgmco)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 913 • 👍 83 • 💬 1 • ⏱️ 4:49 • 7h ago
+👁️ 16K • 👍 545 • 💬 125 • ⏱️ 19:58 • 17h ago
 
 ---
 
@@ -260,7 +250,17 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 2K • 👍 40 • 💬 4 • ⏱️ 7:47 • 12h ago
+👁️ 2K • 👍 41 • 💬 36 • ⏱️ 7:47 • 13h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eLst5IZgmco)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 106 • 💬 1 • ⏱️ 4:49 • 8h ago
 
 ---
 
@@ -274,23 +274,13 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 ---
 
-**[BlackRock Ethereum Pump Just Started (Staking ETF)](https://www.youtube.com/watch?v=JrqgBJtEhNE)**
-
-The wait is over! BlackRock (the world's biggest money manager) just turned on the "money printer" for Ethereum. They aren't just ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 453 • 💬 89 • ⏱️ 2:00:28 • 16h ago
-
----
-
 **[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
 
 Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
 
 📺 Coin Bureau
 
-👁️ 78K • 👍 3K • 💬 316 • ⏱️ 21:43 • 2d ago
+👁️ 78K • 👍 3K • 💬 317 • ⏱️ 21:43 • 2d ago
 
 ---
 
@@ -300,7 +290,7 @@ BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 6K • 👍 243 • 💬 184 • ⏱️ 14:40 • 10h ago
+👁️ 7K • 👍 268 • 💬 218 • ⏱️ 14:40 • 11h ago
 
 ---
 
@@ -310,17 +300,17 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 143 • 💬 27 • ⏱️ 18:08 • 1d ago
+👁️ 3K • 👍 144 • 💬 28 • ⏱️ 18:08 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Breakout or Fakeout, DARAUF kommt es jetzt an!?](https://www.youtube.com/watch?v=2gIccIBIyaI)**
+**[Why ETH Might Be Near a Major Turning Point](https://www.youtube.com/watch?v=0JFtYBvMjNw)**
 
-Hier kannst du mich unterstützen und die die Börse BYDFI ansehen! OFFIZIELLER Partner von Newcastle United!
+GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum underperformed this cycle, and investors ...
 
-📺 Krypto Trading & Investing
+📺 Bankless
 
-👁️ 1K • 👍 396 • 💬 92 • ⏱️ 13:45 • 3h ago
+👁️ 9K • 👍 329 • 💬 36 • ⏱️ 56:53 • 1d ago
 
 ---
 
@@ -331,6 +321,16 @@ In this video we provide an update on BMNR balance and why it could be positioni
 📺 The Value Thinker
 
 👁️ 10K • 👍 525 • 💬 76 • ⏱️ 21:31 • 2d ago
+
+---
+
+**[⚠️ BTC &amp; ETH | ЭТО МОЖЕТ БЫТЬ ЛОВУШКА! | СМОТРИ СЕЙЧАС | Прогноз | Сегодня | Криптовалюта](https://www.youtube.com/watch?v=zx6kqV1ldPg)**
+
+Мой Telegram канал: https://t.me/+ORhawqAwEp0zOTcy Торгую здесь (Bitunix + Бонусы): https://www.bitunix.com/register?
+
+📺 CryptoTrader
+
+👁️ 379 • 👍 95 • 💬 45 • ⏱️ 9:55 • 1h ago
 
 ---
 

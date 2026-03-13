@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T08:41:40.215628+00:00'
+updated: '2026-03-13T09:40:19.950205+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 08:41 UTC  
+**Last Updated:** March 13, 2026 at 09:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-21h ago
+22h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-15h ago
+16h ago
 
 ---
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -56,7 +56,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-18h ago
+19h ago
 
 ---
 
@@ -64,7 +64,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
 
-2h ago
+3h ago
 
 ---
 
@@ -72,13 +72,13 @@ Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune 
 
 Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
 
-1h ago
+2h ago
 
 ---
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -92,7 +92,7 @@ Today we put it on a real raspberry pi > Wrote some basic motion control functio
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-23h ago
+1d ago
 
 ---
 
@@ -100,7 +100,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. If you're running perception on constrained hardware I'd love your input. Is memory the bottleneck? Would fitting a larger model in the same budget actually help?
 
-8h ago
+9h ago
 
 ---
 
@@ -112,7 +112,7 @@ Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. I
 
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
-TechCrunch • 15h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -128,7 +128,7 @@ Financial Times • 1d ago
 
 As part of a competition, they had to build robots them use them to complete missions on a game table.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
@@ -136,7 +136,7 @@ BBC • 2h ago
 
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
-New Hampshire Public Radio • 17h ago
+New Hampshire Public Radio • 18h ago
 
 ---
 
@@ -196,7 +196,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 44K • 👍 4K • 💬 595 • ⏱️ 5:32 • 16h ago
+👁️ 47K • 👍 4K • 💬 614 • ⏱️ 5:32 • 17h ago
 
 ---
 
@@ -206,7 +206,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 96 • ⏱️ 1:10 • 8h ago
+👁️ 3K • 👍 103 • ⏱️ 1:10 • 9h ago
 
 ---
 
@@ -216,15 +216,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 9K • 👍 175 • 💬 74 • ⏱️ 4:52 • 1d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=-19bMOpB5WY)**
-
-📺 Robot Julie 
-
-👁️ 930 • 👍 7 • 💬 1 • ⏱️ 0:24 • 5h ago
+👁️ 10K • 👍 178 • 💬 74 • ⏱️ 4:52 • 1d ago
 
 ---
 
@@ -234,7 +226,17 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 4K • 👍 178 • 💬 18 • ⏱️ 8:34 • 16h ago
+👁️ 4K • 👍 180 • 💬 19 • ⏱️ 8:34 • 17h ago
+
+---
+
+**[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
+
+Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
+
+📺 Vizuara
+
+👁️ 121K • 👍 37 • 💬 10 • ⏱️ 5:34 • 1d ago
 
 ---
 
@@ -244,7 +246,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 16K • 👍 108 • 💬 30 • ⏱️ 3:48 • 3d ago
+👁️ 17K • 👍 109 • 💬 30 • ⏱️ 3:48 • 3d ago
 
 ---
 
@@ -264,7 +266,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 53K • 👍 2K • 💬 115 • ⏱️ 10:52 • 5d ago
+👁️ 54K • 👍 2K • 💬 114 • ⏱️ 10:52 • 5d ago
 
 ---
 
@@ -274,15 +276,15 @@ Join Our Community the Dhar Mann Studios Discord is open now, join here: http://
 
 📺 Dhar Mann Studios
 
-👁️ 885K • 👍 15K • 💬 1K • ⏱️ 26:12 • 1d ago
+👁️ 909K • 👍 15K • 💬 1K • ⏱️ 26:12 • 1d ago
 
 ---
 
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=UWxALBGsbBs)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=G4jYrDe3Kt0)**
 
-📺 zhulongfeng 6
+📺 Robot Julie 
 
-👁️ 838 • 👍 8 • ⏱️ 0:23 • 8h ago
+👁️ 28K • 👍 235 • 💬 3 • ⏱️ 0:23 • 2d ago
 
 ---
 

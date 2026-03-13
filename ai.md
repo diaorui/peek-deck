@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T08:41:40.195284+00:00'
+updated: '2026-03-13T09:40:19.925770+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
-- repositories
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 08:41 UTC  
+**Last Updated:** March 13, 2026 at 09:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-17h ago
+18h ago
 
 ---
 
@@ -49,7 +49,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free directory for discovering and comparing AI tools. It's completely free, no signup required to browse. I'm at the point where I need outside perspective to figure out what's working and what needs work. What I'd love your feedback on: - Is it easy to find tools you're looking for? - Are the categories/use cases useful? - Any features you'd expect to see that are missing? - What's the biggest friction point when using it? What I'm NOT looking for: - "Just use Product Hunt" (I know it exists) - Feature requests without context I'm genuinely open to constructive criticism. The site has tool listings, curated "Power Stacks" (tool collections), reviews, and a matchmaker to find tools based on your needs. Would love to hear what you all think. Thanks in advance
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free d
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 (hypothetical) BrainBot v1.0 is an expert surgical robot - certified by a reputable medical board for cancer removal, with an indelible hardware identity binding it to the specific software stack that earned that certification. Its track record is exceptional. Then v2.0 arrives. Better. Faster. More capable. What should happen to v1.0? Should its certifications be revoked? Simply flagged as obsolete while keeping them? When the physical machine is eventually scrapped, should its identity be destroyed along with it? Should certifications survive the hardware, or die with it? Most of those options converge on the same outcome: a machine (potentially rescued from "trash") that is still (arguably) just as capable as it ever was, now made significantly less valuable - and therefore significantly more affordable. That's where it gets uncomfortable. If I'm about to go under the scalpel, I want to know that the machine cutting into me is the actual one, running the actual certified software, approved for the actual procedure it's about to perform. But how much of that assurance should I have to surrender if I can't afford v2.0? And what about someone in a country where v2.0 will never arrive - where BrainBot v1.0 is the most sophisticated surgical option available, possibly for decades? Who decides what an "obsolete" machine is permitted to keep doing? The manufacturer, who has an obvious commercial interest in obsolescence? The certifying medical board? A government regulator? An international standards body that may have no understanding of local conditions? And underneath all of this is a harder question that we don't have a framework for yet: what is the machine's identity actually for - accountability, capability, or both? Because those point in very different directions when the hardware gets old. This isn't hypothetical. The agents are arriving. The robots are already here in manufacturing, increasingly in medicine and law, and soon in construction and critical infrastructure. We need answers before the edge cases start making themselves known in operating theatres.
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Over the past two years AMD has developed the AMDXDNA accelerator driver in the 
 
 **[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 23h ago
 
 In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 7h ago
 
 University of Cambridge study finds AI-powered toys can misread emotions and respond inappropriately to children
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 1h ago
 
 An Amazon tech lead who rose quickly building AI products shares tips for vibe coding and avoiding common mistakes.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Business Insider • 1h ago
 
 “Today, AI at Accenture is how we do work,” Julie Sweet said in a recent podcast episode.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 1h ago
 
 China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNN • 9h ago
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-blog.google • 19h ago
+blog.google • 20h ago
 
 ---
 
@@ -179,7 +179,7 @@ blog.google • 19h ago
 
 We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.
 
-Anthropic • 14h ago
+Anthropic • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ Anthropic • 14h ago
 
 Writers criticised the feature which used their names and styles as "AI personas" without consent.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -221,7 +221,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 609 • 💬 501 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 609 • 💬 501 • 3d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -229,7 +229,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 586 • 💬 302 • 11h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 586 • 💬 302 • 12h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -283,33 +283,23 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 ## YouTube Videos: "ai"
 
-**[If I Wanted to Build a $10M AI Business (Zero Employees), I&#39;d Do This](https://www.youtube.com/watch?v=w-XPlC3a2oI)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3t Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 64K • 👍 3K • 💬 257 • ⏱️ 14:25 • 19h ago
-
----
-
-**[Best FREE AI Music Generators 2026](https://www.youtube.com/watch?v=C2bICETkJfM)**
-
-Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=isa-does-ai In this video, I break down the ...
-
-📺 Isa does AI
-
-👁️ 9K • 💬 1 • ⏱️ 11:51 • 18h ago
-
----
-
 **[We need a moratorium on AI data centers NOW. Here’s why.](https://www.youtube.com/watch?v=qu2m7ePTsqY)**
 
 We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sanders is the senior senator from Vermont.
 
 📺 Senator Bernie Sanders
 
-👁️ 77K • 👍 8K • 💬 2K • ⏱️ 9:37 • 1d ago
+👁️ 82K • 👍 8K • 💬 2K • ⏱️ 9:37 • 1d ago
+
+---
+
+**[If I Wanted to Build a $10M AI Business (Zero Employees), I&#39;d Do This](https://www.youtube.com/watch?v=w-XPlC3a2oI)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3t Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 69K • 👍 3K • 💬 238 • ⏱️ 14:25 • 20h ago
 
 ---
 
@@ -319,27 +309,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 63K • 👍 2K • 💬 99 • ⏱️ 14:05 • 1d ago
-
----
-
-**[The AI book that&#39;s freaking out national security advisors](https://www.youtube.com/watch?v=Nl7-bRFSZBs)**
-
-Way more thoughts, our curated newsletter, and free books (until we run out) → https://80000hours.org/iabied/ If we build ...
-
-📺 AI In Context
-
-👁️ 247K • 👍 15K • 💬 2K • ⏱️ 43:55 • 2d ago
-
----
-
-**[REAL Time AI Avatars are Here (And it&#39;s dangerous)](https://www.youtube.com/watch?v=jvuYdzmgU6o)**
-
-Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks to Fanvue for sponsoring this video Build ...
-
-📺 AI Samson
-
-👁️ 7K • 👍 461 • 💬 51 • ⏱️ 13:02 • 22h ago
+👁️ 65K • 👍 2K • 💬 103 • ⏱️ 14:05 • 1d ago
 
 ---
 
@@ -349,17 +319,37 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 74K • 👍 1K • 💬 524 • ⏱️ 15:01 • 15h ago
+👁️ 81K • 👍 2K • 💬 554 • ⏱️ 15:01 • 16h ago
 
 ---
 
-**[AI is TAKING OUR JOBS!](https://www.youtube.com/watch?v=xPUtBOqK054)**
+**[REAL Time AI Avatars are Here (And it&#39;s dangerous)](https://www.youtube.com/watch?v=jvuYdzmgU6o)**
 
-Burger King recently announced their new AI headsets, and you can already smell the dystopia (and Whoppers) in the air!
+Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks to Fanvue for sponsoring this video Build ...
 
-📺 The Food Theorists
+📺 AI Samson
 
-👁️ 95K • 👍 6K • 💬 182 • ⏱️ 1:12 • 13h ago
+👁️ 8K • 👍 469 • 💬 50 • ⏱️ 13:02 • 23h ago
+
+---
+
+**[Best FREE AI Music Generators 2026](https://www.youtube.com/watch?v=C2bICETkJfM)**
+
+Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=isa-does-ai In this video, I break down the ...
+
+📺 Isa does AI
+
+👁️ 9K • 💬 5 • ⏱️ 11:51 • 19h ago
+
+---
+
+**[The AI book that&#39;s freaking out national security advisors](https://www.youtube.com/watch?v=Nl7-bRFSZBs)**
+
+Way more thoughts, our curated newsletter, and free books (until we run out) → https://80000hours.org/iabied/ If we build ...
+
+📺 AI In Context
+
+👁️ 261K • 👍 16K • 💬 2K • ⏱️ 43:37 • 2d ago
 
 ---
 
@@ -369,7 +359,17 @@ Get started with Manus: https://manus.im More from Futurepedia: Join the fastest
 
 📺 Futurepedia
 
-👁️ 52K • 👍 2K • 💬 39 • ⏱️ 26:25 • 2d ago
+👁️ 53K • 👍 2K • 💬 39 • ⏱️ 26:25 • 2d ago
+
+---
+
+**[AI is TAKING OUR JOBS!](https://www.youtube.com/watch?v=xPUtBOqK054)**
+
+Burger King recently announced their new AI headsets, and you can already smell the dystopia (and Whoppers) in the air!
+
+📺 The Food Theorists
+
+👁️ 105K • 👍 6K • 💬 193 • ⏱️ 1:12 • 14h ago
 
 ---
 
@@ -379,7 +379,7 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 68K • 👍 2K • 💬 102 • ⏱️ 14:36 • 2d ago
+👁️ 69K • 👍 2K • 💬 103 • ⏱️ 14:36 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 40,726 • ❤️ 515 • 5d ago
+⬇️ 53,243 • ❤️ 529 • 5d ago
 
 ---
 
@@ -407,7 +407,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 401,084 • ❤️ 566 • 7d ago
+⬇️ 448,513 • ❤️ 571 • 7d ago
 
 ---
 
@@ -419,7 +419,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 1,805 • ❤️ 334 • 1d ago
+⬇️ 3,142 • ❤️ 341 • 1d ago
 
 ---
 
@@ -431,7 +431,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 152,471 • ❤️ 386 • 9d ago
+⬇️ 173,501 • ❤️ 390 • 9d ago
 
 ---
 
@@ -443,7 +443,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,536,411 • ❤️ 782 • 11d ago
+⬇️ 1,685,919 • ❤️ 785 • 11d ago
 
 ---
 
@@ -455,7 +455,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 5,088 • ❤️ 228 • 2d ago
+⬇️ 5,959 • ❤️ 228 • 2d ago
 
 ---
 
@@ -467,7 +467,7 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 `text-generation` `32.2B`
 
-⬇️ 8,095 • ❤️ 156 • 2d ago
+⬇️ 9,492 • ❤️ 156 • 2d ago
 
 ---
 
@@ -479,7 +479,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 2,849 • ❤️ 150 • 8h ago
+⬇️ 6,439 • ❤️ 153 • 9h ago
 
 ---
 
@@ -491,7 +491,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 5,556 • ❤️ 142 • 2d ago
+⬇️ 6,113 • ❤️ 144 • 2d ago
 
 ---
 
@@ -503,7 +503,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 59,585 • ❤️ 165 • 2d ago
+⬇️ 69,192 • ❤️ 166 • 2d ago
 
 ---
 
@@ -517,7 +517,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 8 • 💬 0 • ⭐ 32,454 • 12mo ago
+▲ 9 • 💬 0 • ⭐ 32,454 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -545,7 +545,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 74 • 💬 3 • ⭐ 2,035 • 2d ago
+▲ 78 • 💬 3 • ⭐ 2,192 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -559,7 +559,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 A novel tokenization scheme synchronizes acoustic features with text tokens in TTS systems, enabling unified modeling and reduced hallucinations through flow matching and text-only guidance.
 
-▲ 3 • 💬 0 • ⭐ 566 • 14d ago
+▲ 3 • 💬 0 • ⭐ 601 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.23068) • [💻 code](https://github.com/HumeAI/tada) • [🔗 project](https://www.hume.ai/blog/opensource-tada)
 
@@ -585,23 +585,9 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 47 • 💬 2 • ⭐ 49,583 • 10mo ago
+▲ 47 • 💬 2 • ⭐ 49,634 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
-**[Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143)**
-
-*Jiyuan Wang, Chunyu Lin, Lei Sun et al. (11 authors)*
-
-🏢 AMAP-ML
-
-RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
-
-▲ 133 • 💬 6 • ⭐ 107 • 9d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
 ---
 
@@ -632,6 +618,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143)**
+
+*Jiyuan Wang, Chunyu Lin, Lei Sun et al. (11 authors)*
+
+🏢 AMAP-ML
+
+RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
+
+▲ 134 • 💬 6 • ⭐ 115 • 9d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -657,7 +657,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 29.6k • 🔱 3.9k • 2d ago
+⭐ 30.0k • 🔱 4.0k • 2d ago
 
 ---
 
@@ -667,7 +667,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.6k • 🔱 3.5k • 10h ago
+⭐ 26.6k • 🔱 3.5k • 11h ago
 
 ---
 
@@ -677,7 +677,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.7k • 🔱 883 • 8h ago
+⭐ 19.7k • 🔱 888 • 9h ago
 
 ---
 
@@ -697,7 +697,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.8k • 🔱 634 • 2h ago
+⭐ 8.9k • 🔱 639 • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.8k • 🔱 752 • 7d ago
+⭐ 8.8k • 🔱 764 • 7d ago
 
 ---
 
@@ -717,7 +717,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.1k • 🔱 901 • 9d ago
+⭐ 7.1k • 🔱 904 • 9d ago
 
 ---
 
@@ -727,7 +727,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 734 • 4h ago
+⭐ 6.2k • 🔱 735 • 5h ago
 
 ---
 
@@ -737,7 +737,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 446 • 2h ago
+⭐ 3.9k • 🔱 449 • 7m ago
 
 ---
 
