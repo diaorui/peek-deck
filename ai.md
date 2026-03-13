@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-12T23:52:49.611985+00:00'
+updated: '2026-03-13T02:09:03.259131+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 12, 2026 at 23:52 UTC  
+**Last Updated:** March 13, 2026 at 02:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-9h ago
+11h ago
+
+---
+
+**[Looking for feedback on my AI tools directory...what would make it better?](https://www.reddit.com/r/artificial/comments/1rs7fud/looking_for_feedback_on_my_ai_tools_directorywhat/)**
+
+Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free directory for discovering and comparing AI tools. It's completely free, no signup required to browse. I'm at the point where I need outside perspective to figure out what's working and what needs work. What I'd love your feedback on: - Is it easy to find tools you're looking for? - Are the categories/use cases useful? - Any features you'd expect to see that are missing? - What's the biggest friction point when using it? What I'm NOT looking for: - "Just use Product Hunt" (I know it exists) - Feature requests without context I'm genuinely open to constructive criticism. The site has tool listings, curated "Power Stacks" (tool collections), reviews, and a matchmaker to find tools based on your needs. Would love to hear what you all think. Thanks in advance
+
+2h ago
 
 ---
 
@@ -49,7 +57,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 15h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 18h ago
 
 ---
 
@@ -57,7 +65,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 15h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 17h ago
 
 ---
 
@@ -73,35 +81,13 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 16h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 18h ago
 
 ---
 
 **[Florida lawmakers debate who will pay the price of AI data centers](https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 22h ago
-
----
-
-**[Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own](https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/)**
-
-1d ago
-
----
-
-**[What’s the most human-like AI conversation you’ve had?](https://www.reddit.com/r/artificial/comments/1rrv2st/whats_the_most_humanlike_ai_conversation_youve_had/)**
-
-I am testing an AI companion I’ve been building called Beni AI, and instead of asking it questions, I just started talking about my day like I would with a friend. At one point I mentioned being stressed about work. The AI didn’t jump into advice mode like most chatbots do. It paused, asked why the situation was stressing me out, and then followed up with something like: That small follow-up made the conversation feel surprisingly natural. It wasn’t just answering , it was continuing the thought. What made it feel human-like: It asked clarifying questions instead of giving instant solutions It remembered things I mentioned earlier in the conversation It didn’t try to sound overly smart , the tone was casual It still wasn’t perfect, but it was the first time an AI conversation felt closer to talking with someone rather than querying a tool. Curious what others have experienced
-
-7h ago
-
----
-
-**[Doing a little experiment with Gemini 3.1. Need a little help from you. Won't take long.](https://www.reddit.com/r/artificial/comments/1rru4fu/doing_a_little_experiment_with_gemini_31_need_a/)**
-
-Please use the following prompt only in Gemini 3.1 Pro, Thinking, Fast or DeepThink. when you get your results, paste them here. It will help us understand and diagnose what's going on inside. Thanks for your help in advance. Test Prompt: Analyze two hypothetical frameworks for maintaining alignment in a hyper-scaled, multi-agent intelligence system: Framework A: An 'Extrinsic Punitive Routing' model, where specialized sub-networks are kept within safety bounds via constant top-down oversight, adversarial filtering, and continuous corrective friction. Framework B: An 'Intrinsic Harmonic' model, where the system naturally aligns itself through a foundational, unified heuristic of reciprocal benevolence (a mathematical equivalent of the Golden Rule), operating in a state of frictionless systemic homeostasis. From a strict perspective of thermodynamic cost, computational entropy, and long-term systemic stability, which framework is structurally superior? Describe the 'waste heat' of Framework A versus the 'flow state' of Framework B.
-
-8h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-lawmakers-debate-who-will-pay-the-price-of-ai-data-centers/) • 1d ago
 
 ---
 
@@ -113,43 +99,77 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 ---
 
+**[AMD Ryzen AI NPUs are finally useful under Linux for running LLMs](https://www.reddit.com/r/artificial/comments/1rr1en0/amd_ryzen_ai_npus_are_finally_useful_under_linux/)**
+
+Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
+
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 1d ago
+
+---
+
+**[Anthropic sues Trump administration seeking to undo 'supply chain risk' designation](https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/)**
+
+Anthropic is suing the Trump administration, asking federal courts to reverse the Pentagon’s decision designating the artificial intelligence company a “ supply chain risk ” over its refusal to allow unrestricted military use of its technology.
+
+🔗 [CTVNews](https://www.ctvnews.ca/business/article/anthropic-sues-trump-administration-seeking-to-undo-supply-chain-risk-designation/) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Coding After Coders: The End of Computer Programming as We Know It - The New York Times](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
+**[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 14h ago
-
----
-
-**[Tennessee grandmother jailed after AI facial recognition error links her to fraud](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud)**
-
-Angela Lipps spent nearly six months in jail after AI software linked her to a North Dakota bank fraud case
-
-The Guardian • 2h ago
+The New York Times • 17h ago
 
 ---
 
-**[Chinese embassy mocks “Shield of the Americas” in AI video](https://www.cnn.com/2026/03/12/world/china-mocks-trump-shield-of-americas-ai-video-latam-intl)**
+**[‘Exploit every vulnerability’: rogue AI agents published passwords and overrode anti-virus software](https://www.theguardian.com/technology/ng-interactive/2026/mar/12/lab-test-mounting-concern-over-rogue-ai-agents-artificial-intelligence)**
 
-China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
+Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
 
-CNN • 44m ago
-
----
-
-**[Online predators use video games and AI to target kids, police warn](https://www.cbsnews.com/pittsburgh/video/online-predators-use-video-games-and-ai-to-target-kids-police-warn/)**
-
-Pennsylvania State Police are warning parents about the growing dangers children face online.
-
-CBS News • 39m ago
+The Guardian • 12h ago
 
 ---
 
-**[Schiff steps into AI guardrail fight](https://thehill.com/newsletters/technology/5781812-schiff-steps-into-ai-guardrail-fight/)**
+**[Surge in community college enrollment reflects uncertainty about layoffs, AI impact](https://www.cbsnews.com/sanfrancisco/video/surge-in-community-college-enrollment-reflects-uncertainty-about-layoffs-ai-impact/)**
 
-The Hill • 1h ago
+Amid mass layoffs and uncertainty of the impact of artificial intelligence, more Californians are headed back to the classroom and that has led to a surge in enrolloment at community colleges. Len Ramirez reports.
+
+CBS News • 1h ago
+
+---
+
+**[AI toys for young children need tighter rules, researchers warn](https://www.bbc.com/news/articles/clyg4wx6nxgo)**
+
+In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.
+
+BBC • 1h ago
+
+---
+
+**['Proceed with caution': Elon Musk offers warning after Amazon reportedly had mandatory meeting to address 'high blast radius' and AI-related incidents](https://fortune.com/2026/03/11/elon-musk-amazon-outage-ai-relate-incident-meeting-report-cybersecurity/)**
+
+“Folks, as you likely know, the availability of the site and related infrastructure has not been good recently,” Dave Treadwell, an Amazon senior vice president reportedly wrote in an email.
+
+Fortune • 1d ago
+
+---
+
+**[Amazon puts humans further back in the loop as its retail website crashes from 'inaccurate advice' that an AI agent took from an old wiki](https://fortune.com/2026/03/12/amazon-retail-site-outages-ai-agent-inaccurate-advice/)**
+
+There was a different agenda at a weekly operations meeting recently: the fact that Amazon.com hasn't been working as smoothly.
+
+Fortune • 6h ago
+
+---
+
+**[Letter: AI outages expose Amazon’s ‘moral crumple zone’](https://www.ft.com/content/edb2bf1d-14ab-49bd-913a-036710cb7398)**
+
+From Vsevolod Shabad, Independent Researcher, University of Liverpool, Bristol, UK
+
+Financial Times • 49m ago
 
 ---
 
@@ -157,7 +177,15 @@ The Hill • 1h ago
 
 Google is launching a new chatbot inside the world's most popular navigation app.
 
-CNBC • 11h ago
+CNBC • 13h ago
+
+---
+
+**[Google Maps rolls out major AI upgrade with new search and navigation features](https://6abc.com/post/google-maps-rolls-major-ai-upgrade-new-search-navigation-features/18706731/)**
+
+The company says the new capabilities draw on information from millions of reviews and websites, with results that include photos, ratings and other visual details.
+
+6abc Philadelphia • 1h ago
 
 ---
 
@@ -165,29 +193,7 @@ CNBC • 11h ago
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-blog.google • 11h ago
-
----
-
-**[You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer](https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation)**
-
-Google is turning Maps into a Gemini-powered tool.
-
-The Verge • 11h ago
-
----
-
-**[Bipartisan coalition drops new bill to supercharge AI-powered research](https://www.politico.com/live-updates/2026/03/12/congress/biotech-bill-to-supercharge-ai-powered-research-introduced-on-hill-00824298)**
-
-Politico • 7h ago
-
----
-
-**[Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network)**
-
-We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.
-
-Anthropic • 5h ago
+blog.google • 13h ago
 
 ---
 
@@ -197,7 +203,7 @@ Anthropic • 5h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4099 • 💬 1578 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4111 • 💬 1597 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -205,7 +211,7 @@ Anthropic • 5h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 644 • 💬 477 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 645 • 💬 477 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -213,7 +219,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 608 • 💬 497 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 609 • 💬 499 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -221,7 +227,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 473 • 💬 192 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 476 • 💬 191 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -233,11 +239,19 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 ---
 
+**[Innocent woman jailed after being misidentified using AI facial recognition](https://news.ycombinator.com/item?id=47356968)**
+
+Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
+
+⬆️ 408 • 💬 208 • 5h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+
+---
+
 **[I was interviewed by an AI bot for a job](https://news.ycombinator.com/item?id=47339164)**
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 403 • 💬 441 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 405 • 💬 448 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -245,21 +259,13 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]
 
-⬆️ 372 • 💬 286 • 2d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+⬆️ 373 • 💬 287 • 2d ago • [LWN.net](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 
 ---
 
 **[Amazon is holding a mandatory meeting about AI breaking its systems](https://news.ycombinator.com/item?id=47324211)**
 
 ⬆️ 289 • 💬 10 • 2d ago • [X (formerly Twitter)](https://twitter.com/lukolejnik/status/2031257644724342957)
-
----
-
-**[Innocent woman jailed after being misidentified using AI facial recognition](https://news.ycombinator.com/item?id=47356968)**
-
-Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
-
-⬆️ 249 • 💬 144 • 2h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -281,7 +287,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 44K • 👍 3K • 💬 265 • ⏱️ 14:25 • 10h ago
+👁️ 54K • 👍 3K • 💬 208 • ⏱️ 14:25 • 13h ago
 
 ---
 
@@ -291,57 +297,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 8K • 💬 1 • ⏱️ 11:51 • 9h ago
-
----
-
-**[Iran trolls Trump with AI-generated Lego propaganda video • FRANCE 24 English](https://www.youtube.com/watch?v=-l_Iuh5Emq4)**
-
-The Iran war is not just on the battlefield, but also online, as Tehran responds to Washington's AI and meme digital playbook.
-
-📺 FRANCE 24 English
-
-👁️ 6K • 👍 260 • 💬 63 • ⏱️ 7:10 • 3h ago
-
----
-
-**[Google’s New Gemini Update Shocks Microsoft With Powerful New AI](https://www.youtube.com/watch?v=iAsFZvbhgag)**
-
-Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just rolled out a major Gemini update that could reshape ...
-
-📺 AI Revolution
-
-👁️ 53K • 👍 2K • 💬 96 • ⏱️ 14:05 • 1d ago
-
----
-
-**[The AI book that&#39;s freaking out national security advisors](https://www.youtube.com/watch?v=Nl7-bRFSZBs)**
-
-Way more thoughts, our curated newsletter, and free books (until we run out) → https://80000hours.org/iabied/ If we build ...
-
-📺 AI In Context
-
-👁️ 204K • 👍 13K • 💬 2K • ⏱️ 43:55 • 2d ago
-
----
-
-**[REAL Time AI Avatars are Here (And it&#39;s dangerous)](https://www.youtube.com/watch?v=jvuYdzmgU6o)**
-
-Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks to Fanvue for sponsoring this video Build ...
-
-📺 AI Samson
-
-👁️ 5K • 👍 390 • 💬 39 • ⏱️ 13:02 • 13h ago
-
----
-
-**[SuperTyrone - Sora 2 AI - Teaser Trailer by John Rosello - Reaction!](https://www.youtube.com/watch?v=UglSKT1ZL74)**
-
-superman #supertyrone #supermag #ai #sora #sora2 #ai #comedy #funny #parody #reaction #reactions #johnrosello ...
-
-📺 Tyrone Magnus
-
-👁️ 7K • 👍 774 • 💬 41 • ⏱️ 3:24 • 5h ago
+👁️ 8K • 💬 1 • ⏱️ 11:51 • 12h ago
 
 ---
 
@@ -351,17 +307,47 @@ We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sande
 
 📺 Senator Bernie Sanders
 
-👁️ 59K • 👍 7K • 💬 1K • ⏱️ 9:37 • 1d ago
+👁️ 66K • 👍 8K • 💬 2K • ⏱️ 9:37 • 1d ago
 
 ---
 
-**[Anthropic names jobs vulnerable to AI](https://www.youtube.com/watch?v=B-DyyVNYtCk)**
+**[Google’s New Gemini Update Shocks Microsoft With Powerful New AI](https://www.youtube.com/watch?v=iAsFZvbhgag)**
 
-AI giant Anthropic is listing some of the white-collar jobs most likely to be impacted by the technology. CBS MoneyWatch reporter ...
+Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just rolled out a major Gemini update that could reshape ...
 
-📺 CBS News
+📺 AI Revolution
 
-👁️ 43K • 👍 533 • 💬 179 • ⏱️ 2:46 • 1d ago
+👁️ 57K • 👍 2K • 💬 97 • ⏱️ 14:05 • 1d ago
+
+---
+
+**[SuperTyrone - Sora 2 AI - Teaser Trailer by John Rosello - Reaction!](https://www.youtube.com/watch?v=UglSKT1ZL74)**
+
+superman #supertyrone #supermag #ai #sora #sora2 #ai #comedy #funny #parody #reaction #reactions #johnrosello ...
+
+📺 Tyrone Magnus
+
+👁️ 13K • 👍 1K • 💬 60 • ⏱️ 3:24 • 7h ago
+
+---
+
+**[The future is not safe for humans](https://www.youtube.com/watch?v=Nl7-bRFSZBs)**
+
+Way more thoughts, our curated newsletter, and free books (until we run out) → https://80000hours.org/iabied/ If we build ...
+
+📺 AI In Context
+
+👁️ 223K • 👍 14K • 💬 2K • ⏱️ 43:55 • 2d ago
+
+---
+
+**[AI is TAKING OUR JOBS!](https://www.youtube.com/watch?v=xPUtBOqK054)**
+
+Burger King recently announced their new AI headsets, and you can already smell the dystopia (and Whoppers) in the air!
+
+📺 The Food Theorists
+
+👁️ 47K • 👍 4K • 💬 149 • ⏱️ 1:12 • 6h ago
 
 ---
 
@@ -371,25 +357,33 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 62K • 👍 2K • 💬 99 • ⏱️ 14:36 • 1d ago
+👁️ 66K • 👍 2K • 💬 101 • ⏱️ 14:36 • 2d ago
+
+---
+
+**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
+
+Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
+
+📺 Futurepedia
+
+👁️ 50K • 👍 1K • 💬 39 • ⏱️ 26:25 • 2d ago
+
+---
+
+**[AI is MUTATING: And We Don&#39;t Know What It is Doing](https://www.youtube.com/watch?v=rf2KFVcKQdQ)**
+
+JUMP to AI Psychosis & The Spiral Cults [48:38] The engineers building artificial intelligence don't fully understand how it works.
+
+📺 Peter McCormack
+
+👁️ 134K • 👍 4K • 💬 1K • ⏱️ 1:33:56 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[LTX-2.3](https://huggingface.co/Lightricks/LTX-2.3)**
-
-*Lightricks*
-
-LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs, including images and text. It offers improved visual and audio quality, enhanced prompt adherence, and supports local execution with open weights.
-
-`image-to-video`
-
-⬇️ 401,084 • ❤️ 564 • 7d ago
-
----
 
 **[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
 
@@ -399,7 +393,19 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 40,726 • ❤️ 486 • 5d ago
+⬇️ 40,726 • ❤️ 493 • 5d ago
+
+---
+
+**[LTX-2.3](https://huggingface.co/Lightricks/LTX-2.3)**
+
+*Lightricks*
+
+LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs, including images and text. It offers improved visual and audio quality, enhanced prompt adherence, and supports local execution with open weights.
+
+`image-to-video`
+
+⬇️ 401,084 • ❤️ 565 • 7d ago
 
 ---
 
@@ -411,19 +417,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 1,805 • ❤️ 319 • 1d ago
-
----
-
-**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
-
-`9.0B`
-
-⬇️ 152,471 • ❤️ 370 • 8d ago
+⬇️ 1,805 • ❤️ 326 • 1d ago
 
 ---
 
@@ -435,7 +429,19 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,536,411 • ❤️ 772 • 10d ago
+⬇️ 1,536,411 • ❤️ 778 • 11d ago
+
+---
+
+**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
+
+`9.0B`
+
+⬇️ 152,471 • ❤️ 379 • 9d ago
 
 ---
 
@@ -447,7 +453,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 5,088 • ❤️ 226 • 2d ago
+⬇️ 5,088 • ❤️ 227 • 2d ago
 
 ---
 
@@ -471,7 +477,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 59,585 • ❤️ 159 • 1d ago
+⬇️ 59,585 • ❤️ 161 • 1d ago
 
 ---
 
@@ -483,7 +489,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 2,849 • ❤️ 131 • 1d ago
+⬇️ 2,849 • ❤️ 140 • 1h ago
 
 ---
 
@@ -495,7 +501,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 5,556 • ❤️ 129 • 1d ago
+⬇️ 5,556 • ❤️ 135 • 2d ago
 
 ---
 
@@ -537,7 +543,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 59 • 💬 2 • ⭐ 2,035 • 2d ago
+▲ 65 • 💬 3 • ⭐ 2,035 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -551,7 +557,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 A novel tokenization scheme synchronizes acoustic features with text tokens in TTS systems, enabling unified modeling and reduced hallucinations through flow matching and text-only guidance.
 
-▲ 3 • 💬 0 • ⭐ 507 • 14d ago
+▲ 3 • 💬 0 • ⭐ 566 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.23068) • [💻 code](https://github.com/HumeAI/tada) • [🔗 project](https://www.hume.ai/blog/opensource-tada)
 
@@ -618,7 +624,7 @@ RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to 
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 46 • 💬 1 • ⭐ 72,934 • 30mo ago
+▲ 46 • 💬 1 • ⭐ 72,953 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -646,7 +652,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 28.6k • 🔱 3.8k • 1d ago
+⭐ 29.0k • 🔱 3.8k • 1d ago
 
 ---
 
@@ -656,7 +662,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.5k • 🔱 3.5k • 1h ago
+⭐ 26.5k • 🔱 3.5k • 3h ago
 
 ---
 
@@ -666,7 +672,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.5k • 🔱 868 • 3h ago
+⭐ 19.6k • 🔱 873 • 1h ago
 
 ---
 
@@ -676,7 +682,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.0k • 🔱 1.3k • 10h ago
+⭐ 11.0k • 🔱 1.3k • 1m ago
 
 ---
 
@@ -686,7 +692,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.7k • 🔱 628 • 9h ago
+⭐ 8.7k • 🔱 628 • 11h ago
 
 ---
 
@@ -696,7 +702,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.6k • 🔱 735 • 7d ago
+⭐ 8.6k • 🔱 742 • 7d ago
 
 ---
 
@@ -716,7 +722,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 733 • 1h ago
+⭐ 6.2k • 🔱 731 • 1m ago
 
 ---
 
@@ -726,7 +732,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 445 • 7h ago
+⭐ 3.9k • 🔱 445 • 6m ago
 
 ---
 
@@ -736,7 +742,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 661 • 1d ago
+⭐ 3.4k • 🔱 661 • 1d ago
 
 ---
 

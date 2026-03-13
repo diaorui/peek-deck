@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-12T23:52:49.629459+00:00'
+updated: '2026-03-13T02:09:03.276498+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 12, 2026 at 23:52 UTC  
+**Last Updated:** March 13, 2026 at 02:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-13h ago
+15h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-9h ago
+11h ago
 
 ---
 
@@ -60,33 +60,31 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 ---
 
+**[Robotics freelancer wanted](https://www.reddit.com/r/robotics/comments/1rs9kh2/robotics_freelancer_wanted/)**
+
+I'm looking for a freelancer to design and build a consumer robot with an arm. This is a paid project. DM me to learn more. Thanks.
+
+51m ago
+
+---
+
+**[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
+
+1h ago
+
+---
+
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-10h ago
+13h ago
 
 ---
 
-**[Research: GenAI discovered 38 vulnerabilities across real consumer robots in ~7 hours](https://www.reddit.com/r/robotics/comments/1rrsgus/research_genai_discovered_38_vulnerabilities/)**
+**[Compressing Vision Models Onboard Robots](https://www.reddit.com/r/robotics/comments/1rs83hf/compressing_vision_models_onboard_robots/)**
 
-We recently published research showing how generative AI can dramatically lower the barrier to entry for robot security research. Using Cybersecurity AI (CAI) we analyzed three real consumer robots: • robotic lawn mower • powered exoskeleton • window-cleaning robot In ~7 hours the system identified 38 vulnerabilities including firmware exploitation paths, BLE command injection and unauthenticated root access. Historically this kind of analysis required weeks of specialized robotics security research. Paper: https://arxiv.org/pdf/2603.08665
+Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. If you're running perception on constrained hardware I'd love your input. Is memory the bottleneck? Would fitting a larger model in the same budget actually help?
 
-9h ago
-
----
-
-**[Building a navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 2)](https://www.reddit.com/r/robotics/comments/1rrlesj/building_a_navigation_software_that_will_only/)**
-
-I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
-
-15h ago
-
----
-
-**[How do you all measure industrial robot TCP, base, and user frame in the cell quickly and accurately? How often are you doing it?](https://www.reddit.com/r/robotics/comments/1rrxci5/how_do_you_all_measure_industrial_robot_tcp_base/)**
-
-Manual machined tip method takes too long and aligning these parts is not accurate. How often are people here repeating this process? For us it's at least once a month.
-
-6h ago
+1h ago
 
 ---
 
@@ -94,13 +92,15 @@ Manual machined tip method takes too long and aligning these parts is not accura
 
 Researchers have built a small wheeled robot designed to travel inside the beam pipes of the Large Hadron Collider. The collider’s vacuum tubes run for long distances and are extremely narrow, which makes internal inspection difficult once the system is assembled. The robot is designed to move through these confined spaces and capture information about the condition of the pipe interior, helping identify potential debris, damage, or other issues. Because the environment is so constrained, the system has to be compact and able to move carefully through the pipe without interfering with the structure or instrumentation.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 4h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 6h ago
 
 ---
 
-**[FlashHead: Up to 40% Faster Multimodal Reasoning on Top of Quantization](https://www.reddit.com/r/robotics/comments/1rrtvm2/flashhead_up_to_40_faster_multimodal_reasoning_on/)**
+**[Research: GenAI discovered 38 vulnerabilities across real consumer robots in ~7 hours](https://www.reddit.com/r/robotics/comments/1rrsgus/research_genai_discovered_38_vulnerabilities/)**
 
-8h ago
+We recently published research showing how generative AI can dramatically lower the barrier to entry for robot security research. Using Cybersecurity AI (CAI) we analyzed three real consumer robots: • robotic lawn mower • powered exoskeleton • window-cleaning robot In ~7 hours the system identified 38 vulnerabilities including firmware exploitation paths, BLE command injection and unauthenticated root access. Historically this kind of analysis required weeks of specialized robotics security research. Paper: https://arxiv.org/pdf/2603.08665
+
+11h ago
 
 ---
 
@@ -108,7 +108,7 @@ Researchers have built a small wheeled robot designed to travel inside the beam 
 
 ## Google News: "robotics"
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeR0DA4jYAEqsY9cN4q7M2NibBm6cvvX85oDNVg5NekzfppuezLtsSa&gaa_ts=69b34fb4&gaa_sig=ZdzOF0Zi-65sWITpcVTtWGGQ9yu8fHYwpa7djoCZUm_8vD1Wa0Duj74Ptl_3ryoRYDAqKvvppo9x68ithLIgbg%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfpOY6QaKSNW0692_o90mm1XvW3HfHlF03WIJ4hNu7fe4j__vTAKrcE&gaa_ts=69b3752b&gaa_sig=IK_dji6t18bismelad0_M05WbxBCZpfB548t8yc5udCL_DYGTl4XAkpWDsyv1Y2Is1pu58VU6wPlEXasTXZnyQ%3D%3D)**
 
 WSJ • 1d ago
 
@@ -122,19 +122,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)**
+**[AI Robotics Startup Rhoda Valued at $1.7 Billion in New Funding](https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding)**
 
-The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
-
-TechCrunch • 1d ago
-
----
-
-**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
-
-Network of training farms aims to supply data needed to put ‘brains’ into machines
-
-Financial Times • 22h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -142,23 +132,31 @@ Financial Times • 22h ago
 
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
-TechCrunch • 6h ago
+TechCrunch • 9h ago
 
 ---
 
-**[World's largest humanoid robot training center to launch in Germany](https://interestingengineering.com/ai-robotics/worlds-largest-humanoid-robot-training-center)**
+**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
 
-Germany will unveil a huge robot gym where humanoids train with humans to learn everyday tasks and generate valuable AI training data.
+Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Interesting Engineering • 2d ago
+Financial Times • 1d ago
 
 ---
 
-**[Rhoda AI exits stealth with $450M to train robots from video](https://www.therobotreport.com/rhoda-ai-exits-stealth-with-450m-to-train-robots-from-video/)**
+**[China unveils ‘blue-collar’ humanoid robot that switches tools in six seconds](https://interestingengineering.com/ai-robotics/xgsynbot-unveils-wheeled-industrail-humanoid-robot)**
 
-Rhoda AI said it designed the system to operate beyond controlled laboratory demonstrations and into real-world environments.
+XGSynBot has debuted the Z1 wheeled robot, a humanoid designed to eliminate specialized robots with multi-station working capabilities.
 
-The Robot Report • 4h ago
+Interesting Engineering • 16h ago
+
+---
+
+**[MassRobotics, NVIDIA, and AWS announce second Physical AI Fellowship cohort](https://www.therobotreport.com/massrobotics-nvidia-aws-announce-second-physical-ai-fellowship-cohort/)**
+
+MassRobotics and partners AWS and NVIDIA have named nine Physical AI Fellowship startups they will support with mentorship and resources.
+
+The Robot Report • 2h ago
 
 ---
 
@@ -166,7 +164,7 @@ The Robot Report • 4h ago
 
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
-New Hampshire Public Radio • 8h ago
+New Hampshire Public Radio • 11h ago
 
 ---
 
@@ -190,13 +188,21 @@ CNBC • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
+**[3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop](https://www.youtube.com/watch?v=SlTfA7lSBSM)**
 
-OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
+3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop This video is supported by OSHCut. Get 50% off your ...
 
-📺 AI Revolution
+📺 FUN Robotics Network
 
-👁️ 69K • 👍 2K • 💬 102 • ⏱️ 14:51 • 3d ago
+👁️ 667 • 👍 26 • ⏱️ 1:10 • 1h ago
+
+---
+
+**[Esto es solo el comienzo #robotica #guantedepoder #robot #raspberrypi #programador](https://www.youtube.com/watch?v=IGHN2KKA5hU)**
+
+📺 TrosCoid
+
+👁️ 1K • 👍 86 • 💬 5 • ⏱️ 1:14 • 5h ago
 
 ---
 
@@ -206,17 +212,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 8K • 👍 155 • 💬 69 • ⏱️ 4:52 • 22h ago
-
----
-
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
-
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
-
-📺 DPCcars
-
-👁️ 16K • 👍 104 • 💬 30 • ⏱️ 3:48 • 3d ago
+👁️ 9K • 👍 163 • 💬 70 • ⏱️ 4:52 • 1d ago
 
 ---
 
@@ -226,7 +222,47 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 26K • 👍 3K • 💬 453 • ⏱️ 5:32 • 7h ago
+👁️ 36K • 👍 3K • 💬 524 • ⏱️ 5:32 • 9h ago
+
+---
+
+**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
+
+A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
+
+📺 DPCcars
+
+👁️ 16K • 👍 107 • 💬 30 • ⏱️ 3:48 • 3d ago
+
+---
+
+**[Desk buddy | Companion robot with wheels | Code &amp; 3D included](https://www.youtube.com/watch?v=ktWnwJ-e-_w)**
+
+In this project I built a tiny desk companion robot using an ESP32, OLED display and two N20 motors. The robot roams around ...
+
+📺 Tech Talkies
+
+👁️ 22K • 👍 744 • 💬 69 • ⏱️ 4:51 • 5d ago
+
+---
+
+**[Aligners Overview | 1200B YETI |  Robot Rundown](https://www.youtube.com/watch?v=Pj5VBp3Zpg0)**
+
+WI State Winners 1200B YETI details their aligners on their VEX V5 Robot for Push Back This video is supported by Kettering ...
+
+📺 FUN Robotics Network
+
+👁️ 718 • 👍 25 • 💬 2 • ⏱️ 1:20 • 2h ago
+
+---
+
+**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
+
+OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
+
+📺 AI Revolution
+
+👁️ 69K • 👍 2K • 💬 102 • ⏱️ 14:51 • 4d ago
 
 ---
 
@@ -236,47 +272,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 51K • 👍 2K • 💬 114 • ⏱️ 10:52 • 5d ago
-
----
-
-**[Rise of the Humanoids: Inside China’s Robot Awakening](https://www.youtube.com/watch?v=7I-KWkV0JUM)**
-
-China's humanoid robot revolution is no longer science fiction – it's happening now. From Shenzhen's first 6S robot store and ...
-
-📺 CGTN
-
-👁️ 286K • 👍 3K • 💬 451 • ⏱️ 29:41 • 6d ago
-
----
-
-**[E-Chain &amp; 720° Turret | 1732 Hilltopper Robotics | FRC Pit Stop](https://www.youtube.com/watch?v=lUoxYfsceBw)**
-
-E-Chain & 720° Turret | 1732 Hilltopper Robotics | FRC Pit Stop 1732 Hilltopper Robotics demonstrates their slick e-chain ...
-
-📺 FUN Robotics Network
-
-👁️ 298 • 👍 18 • ⏱️ 1:45 • 1h ago
-
----
-
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
-
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
-
-📺 Reuters
-
-👁️ 2K • 👍 43 • 💬 16 • ⏱️ 2:38 • 15h ago
-
----
-
-**[Independent Twin Turrets | 2337 EngiNERDs | FRC Pit Stop](https://www.youtube.com/watch?v=R3Ra7VrGDXk)**
-
-Independent Twin Turrets | 2337 EngiNERDs | FRC Pit Stop This video is supported by Kettering University: Accepted ...
-
-📺 FUN Robotics Network
-
-👁️ 510 • 👍 24 • 💬 1 • ⏱️ 1:25 • 2h ago
+👁️ 52K • 👍 2K • 💬 114 • ⏱️ 10:52 • 5d ago
 
 ---
 
@@ -286,7 +282,7 @@ This is going to be the next most toxic build in war robots. The furnace, torch 
 
 📺 PREDATOR WR
 
-👁️ 13K • 👍 420 • 💬 50 • ⏱️ 15:33 • 1d ago
+👁️ 13K • 👍 428 • 💬 50 • ⏱️ 15:33 • 1d ago
 
 ---
 
