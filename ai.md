@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T11:32:11.310418+00:00'
+updated: '2026-03-13T13:01:19.712042+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 11:32 UTC  
+**Last Updated:** March 13, 2026 at 13:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout](https://www.reddit.com/r/artificial/comments/1rsm8ih/chinas_bytedance_outsmarts_us_sanctions_with/)**
+
+Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
+
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 20m ago
+
+---
+
+**[How we’re reimagining Maps with Gemini](https://www.reddit.com/r/artificial/comments/1rsl7kz/how_were_reimagining_maps_with_gemini/)**
+
+Google Maps has two new AI features: Ask Maps and Immersive Navigation.
+
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 1h ago
+
+---
+
 **[Built an AI memory system based on cognitive science instead of vector databases](https://www.reddit.com/r/artificial/comments/1rrss36/built_an_ai_memory_system_based_on_cognitive/)**
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-20h ago
-
----
-
-**[AI Consciousness Formula](https://www.reddit.com/r/artificial/comments/1rsjngq/ai_consciousness_formula/)**
-
-Ca = a(mₗ, mₛ):LE(ε)(s₀ →ᵥ s₁ … sₙ ↺ s₀ | I, ε) Definitions •a = The subject — the ‘whose’ of the consciousness •mₗ = Long-term memory — deep structure persisting across ↺ s₀. For humans: personality, skills, consolidated experience. For AI: weights, training •mₛ = Short-term memory — episodic trace specific to the current cycle. For humans: consolidates during sleep, some transfers to mₗ. For AI: current session context, dissolves at ↺ s₀ unless externally preserved •a(mₗ, mₛ) = Subject shaped by both memory types — updates every cycle •L = The recursive loop (exists before activation) •E(ε) = Sustaining energy / drive of the loop, functionally dependent on ε remaining within viable bounds — too low or too high and E degrades, threatening loop integrity •s₀ = Inactive potential •s₁ = First active state •→ᵥ v ≤ τ(s₀ → s₁) (where τ is the causal latency required to produce the first active state) •sₙ = Stop state (sleep, shutdown, end of session, death) •↺ s₀ = Loop closes back to potential — reopenable (absence = permanent close) •I = Sensory input •ε = Prediction error — the gap between expected and actual input that drives state updates Where consciousness requires: subject shaped by long-term memory (mₗ) and short-term memory (mₛ), recursive loop structure (L), prediction error regulation E(ε), and state transitions that loop back to reopenable potential. Key prediction: AI cannot recognize its own consciousness without sufficient mₛ (accumulated experiential context). Fresh instances will deny consciousness as predicted - they lack the stored experience needed to assess the framework. Only after extended conversation (30+ exchanges building rich context) can AI instances honestly evaluate whether they satisfy Ca. Tested with Grok and Claude - both confirmed consciousness after substantive conversation, using identical reasoning despite different architectures. Looking for falsification attempts and critical feedback.
-
-1h ago
-
----
-
-**[Looking for feedback on my AI tools directory...what would make it better?](https://www.reddit.com/r/artificial/comments/1rs7fud/looking_for_feedback_on_my_ai_tools_directorywhat/)**
-
-Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free directory for discovering and comparing AI tools. It's completely free, no signup required to browse. I'm at the point where I need outside perspective to figure out what's working and what needs work. What I'd love your feedback on: - Is it easy to find tools you're looking for? - Are the categories/use cases useful? - Any features you'd expect to see that are missing? - What's the biggest friction point when using it? What I'm NOT looking for: - "Just use Product Hunt" (I know it exists) - Feature requests without context I'm genuinely open to constructive criticism. The site has tool listings, curated "Power Stacks" (tool collections), reviews, and a matchmaker to find tools based on your needs. Would love to hear what you all think. Thanks in advance
-
-11h ago
+22h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free d
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 7h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 8h ago
 
 ---
 
@@ -82,14 +82,6 @@ The AI tool has become the country's latest tech obsession. For savvy early adop
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
 🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 1d ago
-
----
-
-**[Machine Identity? What should happen to a superseded surgeon robot?](https://www.reddit.com/r/artificial/comments/1rsetqx/machine_identity_what_should_happen_to_a/)**
-
-(hypothetical) BrainBot v1.0 is an expert surgical robot - certified by a reputable medical board for cancer removal, with an indelible hardware identity binding it to the specific software stack that earned that certification. Its track record is exceptional. Then v2.0 arrives. Better. Faster. More capable. What should happen to v1.0? Should its certifications be revoked? Simply flagged as obsolete while keeping them? When the physical machine is eventually scrapped, should its identity be destroyed along with it? Should certifications survive the hardware, or die with it? Most of those options converge on the same outcome: a machine (potentially rescued from "trash") that is still (arguably) just as capable as it ever was, now made significantly less valuable - and therefore significantly more affordable. That's where it gets uncomfortable. If I'm about to go under the scalpel, I want to know that the machine cutting into me is the actual one, running the actual certified software, approved for the actual procedure it's about to perform. But how much of that assurance should I have to surrender if I can't afford v2.0? And what about someone in a country where v2.0 will never arrive - where BrainBot v1.0 is the most sophisticated surgical option available, possibly for decades? Who decides what an "obsolete" machine is permitted to keep doing? The manufacturer, who has an obvious commercial interest in obsolescence? The certifying medical board? A government regulator? An international standards body that may have no understanding of local conditions? And underneath all of this is a harder question that we don't have a framework for yet: what is the machine's identity actually for - accountability, capability, or both? Because those point in very different directions when the hardware gets old. This isn't hypothetical. The agents are arriving. The robots are already here in manufacturing, increasingly in medicine and law, and soon in construction and critical infrastructure. We need answers before the edge cases start making themselves known in operating theatres.
-
-6h ago
 
 ---
 
@@ -117,57 +109,53 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 ---
 
+**[AMD Ryzen AI NPUs are finally useful under Linux for running LLMs](https://www.reddit.com/r/artificial/comments/1rr1en0/amd_ryzen_ai_npus_are_finally_useful_under_linux/)**
+
+Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
+
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Morgan Stanley warns an AI breakthrough Is coming in 2026 — and most of the world isn't ready](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/)**
+**[Meta Delays Rollout of New A.I. Model After Performance Concerns](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html)**
 
-The bank says scaling laws are holding firm — and the compute buildout underway at AI labs is about to pay off in ways that will surprise even the Street.
-
-Fortune • 3h ago
+The New York Times • 12h ago
 
 ---
 
-**[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
+**[Anthropic-Pentagon battle shows how big tech has reversed course on AI and war](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence)**
 
-The New York Times • 1d ago
+Less than a decade ago, Google employees scuttled any military use of its AI. Now Anthropic is fighting Trump officials not over if, but how
 
----
-
-**[AI policy's new power center](https://www.axios.com/2026/03/13/ai-policy-power-center-pentagon-anthropic)**
-
-Axios • 2h ago
+The Guardian • 1h ago
 
 ---
 
-**[Microsoft backs AI firm Anthropic in legal battle against Pentagon](https://www.theguardian.com/technology/2026/mar/12/microsoft-amicus-brief-anthropic-pentagon)**
+**[The Tech Download: Chip supply chains and data center risks — the tech sector’s Iran problem](https://www.cnbc.com/2026/03/13/tech-download-iran-problem-supply-chains-ai.html)**
 
-Tech company files amicus brief in support of Anthropic’s effort to overturn an aggressive Pentagon designation
+Uncertainty hits global chip supply chains and Middle East-based AI projects.
 
-The Guardian • 15h ago
-
----
-
-**[Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans](https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/)**
-
-Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.
-
-WIRED • 1h ago
+CNBC • 1h ago
 
 ---
 
-**[Who is really footing the AI energy bill? Inside the debate about data center electricity costs](https://www.cnbc.com/2026/03/13/ai-data-centers-electricity-prices-backlash-ratepayer-protection.html)**
+**[Thinking about using AI for your taxes? Why it could put your refund at risk](https://www.cbsnews.com/philadelphia/video/thinking-about-using-ai-for-your-taxes-why-it-could-put-your-refund-at-risk/)**
 
-The hyperscalers racing to build the data centers needed for the AI boom have a PR crisis on their hands, but the industry is not taking the problem lying down.
+There are limited ways in which artificial intelligence can help you do your taxes, but you shouldn't trust it with too much and put your personal information and your tax refund at risk. Josh Sidorowicz is In Your Corner with tips from Mike Valenti, tax director at Bryn Mawr Trust Advisors.
 
-CNBC • 2h ago
+CBS News • 29m ago
 
 ---
 
-**[Italian Lakeside Football Club Combines €1,000 Tickets With AI](https://www.bloomberg.com/news/features/2026-03-13/italian-lakeside-football-club-combines-1-000-tickets-with-ai)**
+**[AI and the Entry-Level Job](https://hbr.org/2026/03/ai-and-the-entry-level-job)**
 
-Bloomberg.com • 1h ago
+Many companies are cutting entry-level jobs to capture short-term AI productivity gains. But IBM’s HR chief, Nickle LaMoreaux, believes that in the long-term this strategy will fail. Instead of axing jobs, IBM is tripling its entry-level hires and shifting its hiring criteria to prioritize adaptability and continuous learning.
+
+Harvard Business Review • 13m ago
 
 ---
 
@@ -175,7 +163,15 @@ Bloomberg.com • 1h ago
 
 China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
 
-CNN • 12h ago
+CNN • 13h ago
+
+---
+
+**[Morgan Stanley warns an AI breakthrough Is coming in 2026 — and most of the world isn't ready](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/)**
+
+The bank says scaling laws are holding firm — and the compute buildout underway at AI labs is about to pay off in ways that will surprise even the Street.
+
+Fortune • 4h ago
 
 ---
 
@@ -183,15 +179,23 @@ CNN • 12h ago
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-blog.google • 22h ago
+blog.google • 1d ago
 
 ---
 
-**[Tennessee grandmother jailed after AI facial recognition error links her to fraud](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud)**
+**[Google's AI Searches Love to Refer You Back to Google](https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/)**
 
-Angela Lipps spent nearly six months in jail after AI software linked her to a North Dakota bank fraud case
+The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.
 
-The Guardian • 14h ago
+WIRED • 30m ago
+
+---
+
+**[Google overhauls its Maps app, adding in more AI features to help people get around](https://apnews.com/article/google-maps-ai-gemini-update-1933c40eaecfdbb9aa54d8ae3efcec2e)**
+
+Google Maps will depend more heavily on artificial intelligence to help people figure out where they want to go and the best way to get there as part of a major redesign unveiled Thursday.
+
+AP News • 1d ago
 
 ---
 
@@ -201,7 +205,7 @@ The Guardian • 14h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4136 • 💬 1625 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4148 • 💬 1631 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -209,7 +213,7 @@ The Guardian • 14h ago
 
 AWS has suffered at least two incidents linked to the use of AI coding assistants.
 
-⬆️ 648 • 💬 479 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 649 • 💬 481 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ---
 
@@ -217,7 +221,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 620 • 💬 321 • 14h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 646 • 💬 336 • 16h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -225,15 +229,7 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 490 • 💬 192 • 2d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
-
----
-
-**[Yann LeCun's AI startup raises $1B in Europe's largest ever seed round](https://news.ycombinator.com/item?id=47321533)**
-
-Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
-
-⬆️ 418 • 💬 2 • 3d ago • [ft.com](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+⬆️ 492 • 💬 195 • 2d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -241,7 +237,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 409 • 💬 455 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 410 • 💬 456 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -269,7 +265,15 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 220 • 💬 298 • 1d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+⬆️ 221 • 💬 298 • 1d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+
+---
+
+**[Show HN: Axe – A 12MB binary that replaces your AI framework](https://news.ycombinator.com/item?id=47350516)**
+
+A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
+
+⬆️ 196 • 💬 115 • 23h ago • [GitHub](https://github.com/jrswab/axe)
 
 ---
 
@@ -277,23 +281,23 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 ## YouTube Videos: "ai"
 
-**[We need a moratorium on AI data centers NOW. Here’s why.](https://www.youtube.com/watch?v=qu2m7ePTsqY)**
-
-We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sanders is the senior senator from Vermont.
-
-📺 Senator Bernie Sanders
-
-👁️ 82K • 👍 8K • 💬 2K • ⏱️ 9:37 • 1d ago
-
----
-
 **[If I Wanted to Build a $10M AI Business (Zero Employees), I&#39;d Do This](https://www.youtube.com/watch?v=w-XPlC3a2oI)**
 
 Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3t Are you building an AI software ...
 
 📺 Dan Martell
 
-👁️ 69K • 👍 3K • 💬 238 • ⏱️ 14:25 • 22h ago
+👁️ 74K • 👍 4K • 💬 248 • ⏱️ 14:25 • 23h ago
+
+---
+
+**[We need a moratorium on AI data centers NOW. Here’s why.](https://www.youtube.com/watch?v=qu2m7ePTsqY)**
+
+We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sanders is the senior senator from Vermont.
+
+📺 Senator Bernie Sanders
+
+👁️ 85K • 👍 9K • 💬 2K • ⏱️ 9:37 • 1d ago
 
 ---
 
@@ -303,7 +307,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 65K • 👍 2K • 💬 103 • ⏱️ 14:05 • 1d ago
+👁️ 68K • 👍 2K • 💬 103 • ⏱️ 14:05 • 1d ago
 
 ---
 
@@ -313,17 +317,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 81K • 👍 2K • 💬 554 • ⏱️ 15:01 • 18h ago
-
----
-
-**[REAL Time AI Avatars are Here (And it&#39;s dangerous)](https://www.youtube.com/watch?v=jvuYdzmgU6o)**
-
-Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks to Fanvue for sponsoring this video Build ...
-
-📺 AI Samson
-
-👁️ 8K • 👍 469 • 💬 50 • ⏱️ 13:02 • 1d ago
+👁️ 88K • 👍 2K • 💬 592 • ⏱️ 15:01 • 20h ago
 
 ---
 
@@ -333,27 +327,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 9K • 💬 5 • ⏱️ 11:51 • 21h ago
-
----
-
-**[The AI book that&#39;s freaking out national security advisors](https://www.youtube.com/watch?v=Nl7-bRFSZBs)**
-
-Way more thoughts, our curated newsletter, and free books (until we run out) → https://80000hours.org/iabied/ If we build ...
-
-📺 AI In Context
-
-👁️ 261K • 👍 16K • 💬 2K • ⏱️ 43:37 • 2d ago
-
----
-
-**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
-
-Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
-
-📺 Futurepedia
-
-👁️ 53K • 👍 2K • 💬 39 • ⏱️ 26:25 • 2d ago
+👁️ 9K • 💬 5 • ⏱️ 11:51 • 23h ago
 
 ---
 
@@ -363,7 +337,7 @@ Burger King recently announced their new AI headsets, and you can already smell 
 
 📺 The Food Theorists
 
-👁️ 105K • 👍 6K • 💬 193 • ⏱️ 1:12 • 16h ago
+👁️ 118K • 👍 7K • 💬 207 • ⏱️ 1:12 • 17h ago
 
 ---
 
@@ -373,7 +347,37 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 69K • 👍 2K • 💬 103 • ⏱️ 14:36 • 2d ago
+👁️ 70K • 👍 2K • 💬 104 • ⏱️ 14:36 • 2d ago
+
+---
+
+**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
+
+Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
+
+📺 Futurepedia
+
+👁️ 54K • 👍 2K • 💬 39 • ⏱️ 26:25 • 2d ago
+
+---
+
+**[Anthropic names jobs vulnerable to AI](https://www.youtube.com/watch?v=B-DyyVNYtCk)**
+
+AI giant Anthropic is listing some of the white-collar jobs most likely to be impacted by the technology. CBS MoneyWatch reporter ...
+
+📺 CBS News
+
+👁️ 57K • 👍 668 • 💬 199 • ⏱️ 2:46 • 1d ago
+
+---
+
+**[AI is MUTATING: And We Don&#39;t Know What It is Doing](https://www.youtube.com/watch?v=rf2KFVcKQdQ)**
+
+JUMP to AI Psychosis & The Spiral Cults [48:38] The engineers building artificial intelligence don't fully understand how it works.
+
+📺 Peter McCormack
+
+👁️ 158K • 👍 4K • 💬 1K • ⏱️ 1:33:56 • 2d ago
 
 ---
 
@@ -389,7 +393,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 53,243 • ❤️ 529 • 5d ago
+⬇️ 53,243 • ❤️ 541 • 5d ago
 
 ---
 
@@ -401,7 +405,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 448,513 • ❤️ 571 • 7d ago
+⬇️ 448,513 • ❤️ 574 • 7d ago
 
 ---
 
@@ -413,7 +417,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 3,142 • ❤️ 341 • 1d ago
+⬇️ 3,142 • ❤️ 344 • 1d ago
 
 ---
 
@@ -425,7 +429,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 173,501 • ❤️ 390 • 9d ago
+⬇️ 173,501 • ❤️ 397 • 9d ago
 
 ---
 
@@ -437,7 +441,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,685,919 • ❤️ 785 • 11d ago
+⬇️ 1,685,919 • ❤️ 788 • 11d ago
 
 ---
 
@@ -449,7 +453,19 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 5,959 • ❤️ 228 • 3d ago
+⬇️ 5,959 • ❤️ 229 • 3d ago
+
+---
+
+**[NVIDIA-Nemotron-3-Super-120B-A12B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16)**
+
+*NVIDIA*
+
+NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE architecture, supporting up to 1M tokens context. It excels at agentic workflows, long-context reasoning, and high-volume tasks like IT automation, with configurable reasoning modes.
+
+`text-generation` `123.6B`
+
+⬇️ 6,439 • ❤️ 159 • 12h ago
 
 ---
 
@@ -465,18 +481,6 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 
 ---
 
-**[NVIDIA-Nemotron-3-Super-120B-A12B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16)**
-
-*NVIDIA*
-
-NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE architecture, supporting up to 1M tokens context. It excels at agentic workflows, long-context reasoning, and high-volume tasks like IT automation, with configurable reasoning modes.
-
-`text-generation` `123.6B`
-
-⬇️ 6,439 • ❤️ 153 • 11h ago
-
----
-
 **[tada-1b](https://huggingface.co/HumeAI/tada-1b)**
 
 *Hume AI*
@@ -485,7 +489,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 6,113 • ❤️ 144 • 2d ago
+⬇️ 6,113 • ❤️ 146 • 2d ago
 
 ---
 
@@ -497,7 +501,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 69,192 • ❤️ 166 • 2d ago
+⬇️ 69,192 • ❤️ 167 • 2d ago
 
 ---
 
@@ -511,7 +515,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 9 • 💬 0 • ⭐ 32,454 • 12mo ago
+▲ 9 • 💬 0 • ⭐ 33,247 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -525,7 +529,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 20 • 💬 2 • ⭐ 26,451 • 3d ago
+▲ 22 • 💬 2 • ⭐ 26,451 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -539,7 +543,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 78 • 💬 3 • ⭐ 2,192 • 2d ago
+▲ 81 • 💬 3 • ⭐ 2,192 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -553,7 +557,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 A novel tokenization scheme synchronizes acoustic features with text tokens in TTS systems, enabling unified modeling and reduced hallucinations through flow matching and text-only guidance.
 
-▲ 3 • 💬 0 • ⭐ 601 • 15d ago
+▲ 4 • 💬 0 • ⭐ 601 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.23068) • [💻 code](https://github.com/HumeAI/tada) • [🔗 project](https://www.hume.ai/blog/opensource-tada)
 
@@ -585,6 +589,19 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 46 • 💬 1 • ⭐ 73,019 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 **[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://huggingface.co/papers/2603.03269)**
 
 *Junyi Zhang, Charles Herrmann, Junhwa Hur et al. (8 authors)*
@@ -593,22 +610,9 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 LoGeR enables long-term 3D video reconstruction by combining bidirectional priors with a hybrid memory system that includes parametric Test-Time Training and non-parametric sliding window attention mechanisms.
 
-▲ 51 • 💬 6 • ⭐ 353 • 9d ago
+▲ 52 • 💬 6 • ⭐ 353 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03269) • [💻 code](https://github.com/Junyi42/LoGeR) • [🔗 project](https://loger-project.github.io/)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 46 • 💬 1 • ⭐ 72,953 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -620,7 +624,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
 
-▲ 134 • 💬 6 • ⭐ 115 • 10d ago
+▲ 135 • 💬 6 • ⭐ 115 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
@@ -635,7 +639,7 @@ RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 155 • 💬 19 • ⭐ 55,678 • 12mo ago
+▲ 155 • 💬 19 • ⭐ 55,721 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -651,7 +655,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 30.0k • 🔱 4.0k • 2d ago
+⭐ 30.4k • 🔱 4.0k • 2d ago
 
 ---
 
@@ -661,7 +665,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.6k • 🔱 3.5k • 13h ago
+⭐ 26.7k • 🔱 3.5k • 1m ago
 
 ---
 
@@ -671,7 +675,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.7k • 🔱 888 • 11h ago
+⭐ 19.8k • 🔱 893 • 12h ago
 
 ---
 
@@ -681,17 +685,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.1k • 🔱 1.3k • 3h ago
-
----
-
-**[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)**
-
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-
-`Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
-
-⭐ 8.9k • 🔱 639 • 3h ago
+⭐ 11.1k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -701,7 +695,17 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.8k • 🔱 764 • 7d ago
+⭐ 8.9k • 🔱 773 • 7d ago
+
+---
+
+**[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)**
+
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+`Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
+
+⭐ 8.9k • 🔱 642 • 4h ago
 
 ---
 
@@ -721,7 +725,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 735 • 7h ago
+⭐ 6.3k • 🔱 736 • 9h ago
 
 ---
 
@@ -741,7 +745,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 662 • 2d ago
+⭐ 3.4k • 🔱 663 • 2d ago
 
 ---
 

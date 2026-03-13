@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T11:32:11.327850+00:00'
+updated: '2026-03-13T13:01:19.730188+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 11:32 UTC  
+**Last Updated:** March 13, 2026 at 13:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,20 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Sharpa robot autonomously peeling an apple with dual dexterous human-like hands, introducing "MoDE-VLA" (Mixture of Dexterous Experts) (paper)](https://www.reddit.com/r/robotics/comments/1rskd9u/sharpa_robot_autonomously_peeling_an_apple_with/)**
+
+Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
+
+1h ago
+
+---
+
+**[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
+
+1h ago
+
+---
+
 **[A dexterous hand that actually morphs between left and right hand configurations on the fly.](https://www.reddit.com/r/robotics/comments/1rrnbpu/a_dexterous_hand_that_actually_morphs_between/)**
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
@@ -40,23 +54,15 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 ---
 
-**[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
-
-18h ago
-
----
-
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-10h ago
+12h ago
 
 ---
 
-**[Stereo Vision Real-time Point-to-Point Path Planning](https://www.reddit.com/r/robotics/comments/1rrrr2w/stereo_vision_realtime_pointtopoint_path_planning/)**
+**[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
-
-21h ago
+19h ago
 
 ---
 
@@ -64,7 +70,7 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
 
-5h ago
+7h ago
 
 ---
 
@@ -72,35 +78,27 @@ Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune 
 
 Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
 
-4h ago
+6h ago
+
+---
+
+**[Stereo Vision Real-time Point-to-Point Path Planning](https://www.reddit.com/r/robotics/comments/1rrrr2w/stereo_vision_realtime_pointtopoint_path_planning/)**
+
+The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
+
+22h ago
 
 ---
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-22h ago
+1d ago
 
 ---
 
 **[DEEP Robotics has built a robot horse, seemingly a special Year of the Horse limited edition based on their M20 Pro.](https://www.reddit.com/r/robotics/comments/1rqvaeu/deep_robotics_has_built_a_robot_horse_seemingly_a/)**
 
 1d ago
-
----
-
-**[Building a navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 2)](https://www.reddit.com/r/robotics/comments/1rrlesj/building_a_navigation_software_that_will_only/)**
-
-I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
-
-1d ago
-
----
-
-**[Compressing Vision Models Onboard Robots](https://www.reddit.com/r/robotics/comments/1rs83hf/compressing_vision_models_onboard_robots/)**
-
-Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. If you're running perception on constrained hardware I'd love your input. Is memory the bottleneck? Would fitting a larger model in the same budget actually help?
-
-11h ago
 
 ---
 
@@ -112,13 +110,53 @@ Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. I
 
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
-TechCrunch • 18h ago
+TechCrunch • 19h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfRCDm2AoviEYa2xsXe7mZIrKz2p5b8Fx3Y5rZPc9v6WwLGaHQDc6BT&gaa_ts=69b3ec9e&gaa_sig=TkgbCioLC7gmo2vO6GQ7RfIGMR2NP22AGdzqdsTCtLmJw-s6vtCg1Yfcrx9HVqtwIDF6to6PfNjr7VbawLnx2Q%3D%3D)**
+**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
+
+Network of training farms aims to supply data needed to put ‘brains’ into machines
+
+Financial Times • 1d ago
+
+---
+
+**[Three companies demonstrate global commercialization potential at AW 2026](https://www.therobotreport.com/three-companies-demonstrate-global-commercialization-potential-aw-2026/)**
+
+At AW 2026 in South Korea, global media recognized companies with strong investment, competitiveness, and international market potential.
+
+The Robot Report • 4m ago
+
+---
+
+**[Kamen resigns from FIRST robotics in wake of Epstein ties](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire)**
+
+Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
+
+New Hampshire Public Radio • 21h ago
+
+---
+
+**[HIVE teams with AMC Robotics to fuel AI robots for dangerous, dull work](https://www.stocktitan.net/news/HIVE/amc-robotics-and-hive-announce-collaboration-to-advance-ai-driven-xq1nxia1mu76.html)**
+
+Kyro, AMC's AI quadruped, now taps HIVE's BUZZ GPU AI Cloud for real-time navigation and video processing, backing a ramp from lab work to deployment.
+
+Stock Titan • 7h ago
+
+---
+
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqe-NOFsxHXnXIyfpIkRGL3EVaZtaBDkUihhhOpUGBSnkr4NpgmsLJBw&gaa_ts=69b40e0b&gaa_sig=YHvs7H8GoXZzMiSH0hRRIG8H6PY97PsiWTTWVj3oEXcwYbut7V_UNjya2iywselJwEAiWFAM1c8qyUWuIY7H3A%3D%3D)**
 
 WSJ • 1d ago
+
+---
+
+**[Rivian-owned robotics company secures more startup funding](https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding)**
+
+A startup robotics company owned by Rivian and founded by Rivian CEO RJ Scaringe has secured $500 million in startup capital. Mind Robotics announced an investment by Accel and Andreessen Horowitz. The firm wants to build AI-powered industrial robots.
+
+WGLT • 1d ago
 
 ---
 
@@ -127,30 +165,6 @@ WSJ • 1d ago
 Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)**
-
-The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
-
-TechCrunch • 1d ago
-
----
-
-**[Kamen resigns from FIRST Robotics board of directors](https://www.wmur.com/article/kamen-resigns-first-robotics-board-031226/70724175)**
-
-New Hampshire inventor Dean Kamen has voluntarily resigned from the board of directors of FIRST Robotics.
-
-WMUR • 6h ago
-
----
-
-**[HIVE teams with AMC Robotics to fuel AI robots for dangerous, dull work](https://www.stocktitan.net/news/HIVE/amc-robotics-and-hive-announce-collaboration-to-advance-ai-driven-xq1nxia1mu76.html)**
-
-Kyro, AMC's AI quadruped, now taps HIVE's BUZZ GPU AI Cloud for real-time navigation and video processing, backing a ramp from lab work to deployment.
-
-Stock Titan • 5h ago
 
 ---
 
@@ -170,22 +184,6 @@ CNBC • 1d ago
 
 ---
 
-**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
-
-Network of training farms aims to supply data needed to put ‘brains’ into machines
-
-Financial Times • 1d ago
-
----
-
-**[Centaur-style wearable robot adds 2 legs to cut walking effort by 35%](https://interestingengineering.com/ai-robotics/centaur-robot-legs-cut-walking-effort)**
-
-Centaur-style wearable robot adds two legs behind humans, cutting walking effort by 35% while carrying heavy loads.
-
-Interesting Engineering • 12h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +194,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 47K • 👍 4K • 💬 614 • ⏱️ 5:32 • 18h ago
+👁️ 49K • 👍 4K • 💬 621 • ⏱️ 5:32 • 20h ago
 
 ---
 
@@ -206,7 +204,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 103 • ⏱️ 1:10 • 11h ago
+👁️ 3K • 👍 116 • ⏱️ 1:10 • 12h ago
 
 ---
 
@@ -216,17 +214,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 10K • 👍 178 • 💬 74 • ⏱️ 4:52 • 1d ago
-
----
-
-**[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
-
-At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
-
-📺 Munro Live
-
-👁️ 4K • 👍 180 • 💬 19 • ⏱️ 8:34 • 18h ago
+👁️ 10K • 👍 182 • 💬 74 • ⏱️ 4:52 • 1d ago
 
 ---
 
@@ -236,7 +224,17 @@ Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major 
 
 📺 Vizuara
 
-👁️ 121K • 👍 37 • 💬 10 • ⏱️ 5:34 • 1d ago
+👁️ 141K • 👍 37 • 💬 10 • ⏱️ 5:34 • 1d ago
+
+---
+
+**[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
+
+At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
+
+📺 Munro Live
+
+👁️ 4K • 👍 187 • 💬 19 • ⏱️ 8:34 • 20h ago
 
 ---
 
@@ -246,7 +244,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 17K • 👍 109 • 💬 30 • ⏱️ 3:48 • 3d ago
+👁️ 17K • 👍 111 • 💬 30 • ⏱️ 3:48 • 3d ago
 
 ---
 
@@ -256,7 +254,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 70K • 👍 2K • 💬 103 • ⏱️ 14:51 • 4d ago
+👁️ 71K • 👍 2K • 💬 103 • ⏱️ 14:51 • 4d ago
 
 ---
 
@@ -266,17 +264,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 54K • 👍 2K • 💬 114 • ⏱️ 10:52 • 5d ago
-
----
-
-**[Teacher Uses AI ROBOTS To CATCH CHEATERS | Dhar Mann Studios](https://www.youtube.com/watch?v=JeOCvwntTwU)**
-
-Join Our Community the Dhar Mann Studios Discord is open now, join here: http://discord.gg/aZfnEyn93Y A group of high ...
-
-📺 Dhar Mann Studios
-
-👁️ 909K • 👍 15K • 💬 1K • ⏱️ 26:12 • 1d ago
+👁️ 55K • 👍 2K • 💬 114 • ⏱️ 10:52 • 5d ago
 
 ---
 
@@ -285,6 +273,14 @@ Join Our Community the Dhar Mann Studios Discord is open now, join here: http://
 📺 Robot Julie 
 
 👁️ 28K • 👍 235 • 💬 3 • ⏱️ 0:23 • 2d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=xCvvphfz-Oo)**
+
+📺 Robot Julie 
+
+👁️ 28K • 👍 107 • 💬 5 • ⏱️ 0:22 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T11:32:11.324686+00:00'
+updated: '2026-03-13T13:01:19.726876+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 11:32 UTC  
+**Last Updated:** March 13, 2026 at 13:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,109.33
+### $2,139.71
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** +8.2%  
-**30d:** +9.4%  
-**90d:** -30.5%  
-**1y:** +11.4%  
+**24h:** +5.1%  
+**7d:** +9.0%  
+**30d:** +10.2%  
+**90d:** -30.0%  
+**1y:** +12.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $254.21B
+**Market Cap:** $258.69B
 Rank #2
 
 **Circulating Supply:** 120,691,954 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.4%
+-56.6%
 
 **All-Time Low:** $0.43
-+486168.4%
++495861.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 5h ago
-
----
-
-**[Etherscan Warns Ethereum Users About Rising Address Poisoning Scams](https://www.reddit.com/r/ethereum/comments/1rsj99k/etherscan_warns_ethereum_users_about_rising/)**
-
-Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
-
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 1h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 6h ago
 
 ---
 
@@ -96,7 +88,15 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 5h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 7h ago
+
+---
+
+**[Etherscan Warns Ethereum Users About Rising Address Poisoning Scams](https://www.reddit.com/r/ethereum/comments/1rsj99k/etherscan_warns_ethereum_users_about_rising/)**
+
+Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
+
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 2h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 15h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -164,13 +164,13 @@ The Block • 19h ago
 
 The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Ethereum and TAO Price Rally Gains Strengthens As Market Sentiment Improves](https://www.binance.com/en/square/post/301061664139890)**
+**[Bitcoin Surges Past $70,000. This Trump Post Could Be Lifting the Crypto, Ethereum and XRP.](https://www.barrons.com/articles/bitcoin-price-cyrpto-xrp-ethereum-trump-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqd4pv0erpNn95ccAgU4wslcnu29futI_sVUpu0d-Gx-uvzfdgHrITMk&gaa_ts=69b40e09&gaa_sig=uks-KsMg885WpQsFqV5dS2cbGyi-h_4JPMzvwiYBtN6TiAEWMHeKnBJYammnY8DlUNrvuTP7z0Oh7YUu9kXscA%3D%3D)**
 
-Binance • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -178,7 +178,15 @@ Binance • 2h ago
 
 Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
+
+---
+
+**[Current price of Ethereum for March 13, 2026](https://fortune.com/article/price-of-ethereum-03-13-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 13m ago
 
 ---
 
@@ -190,11 +198,19 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Not XRP Or Ethereum: You Won’t Believe The Network With The Highest Number Of RWA Users](https://www.tradingview.com/news/newsbtc:7ba3f76a1094b:0-not-xrp-or-ethereum-you-won-t-believe-the-network-with-the-highest-number-of-rwa-users/)**
+
+Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
+
+TradingView • 2h ago
+
+---
+
 **[BNB Chain Overtakes Ethereum, Base by Number of AI Agents](https://thedefiant.io/news/defi/bnb-smart-chain-becomes-home-to-most-erc-8004-ai-agents)**
 
 BNB Chain has surpassed Ethereum as the blockchain hosting the largest number of AI agents operating under the ERC-8004 standard, according to data from Agentscan and 8004scan.
 
-thedefiant.io • 16h ago
+thedefiant.io • 18h ago
 
 ---
 
@@ -202,23 +218,7 @@ thedefiant.io • 16h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are gearing up for a potential breakout on Friday after gaining over 8%, 10% and 4% so far this week. BTC and ETH are approaching the key technical levels while XRP continues to stabilize within a descending channel.
 
-FXStreet • 8h ago
-
----
-
-**[Current price of Ethereum for March 12, 2026](https://fortune.com/article/price-of-ethereum-03-12-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 20h ago
-
----
-
-**[Crypto News: Pepeto Update Amount Raised Above $7.96 Million as Ethereum Price Prediction Points to New All Time High](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-update-amount-raised-above-7-96-million-as-ethereum-price-prediction-points-to-new-all-time-high-1035924891)**
-
-Dubai, UAE, March  12, 2026  (GLOBE NEWSWIRE) -- Pepeto crossed $7.96 million this week and the pace keeps accelerating, reflecting the seriousnes...
-
-markets.businessinsider.com • 15h ago
+FXStreet • 9h ago
 
 ---
 
@@ -226,7 +226,7 @@ markets.businessinsider.com • 15h ago
 
 ​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 545 • 💬 125 • ⏱️ 19:58 • 19h ago
+👁️ 17K • 👍 589 • 💬 129 • ⏱️ 19:58 • 21h ago
 
 ---
 
@@ -250,7 +250,7 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 2K • 👍 41 • 💬 36 • ⏱️ 7:47 • 15h ago
+👁️ 3K • 👍 46 • 💬 36 • ⏱️ 7:47 • 16h ago
 
 ---
 
@@ -260,7 +260,47 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 106 • 💬 1 • ⏱️ 4:49 • 10h ago
+👁️ 2K • 👍 113 • 💬 1 • ⏱️ 4:49 • 11h ago
+
+---
+
+**[ETH JUST BROKE OUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=74zm01slIVQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 116 • 👍 8 • 💬 1 • ⏱️ 4:58 • 2h ago
+
+---
+
+**[BlackRock Launches First Staked Ethereum ETF — While $STRC is $MSTR&#39;s Trillion Monster](https://www.youtube.com/watch?v=cebmPxYATMY)**
+
+Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 2K • 👍 91 • 💬 14 • ⏱️ 37:23 • 2h ago
+
+---
+
+**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
+
+Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
+
+📺 Coin Bureau
+
+👁️ 79K • 👍 3K • 💬 317 • ⏱️ 21:43 • 2d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oEE7Q0RGutM)**
+
+BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 280 • 💬 225 • ⏱️ 14:40 • 14h ago
 
 ---
 
@@ -274,63 +314,23 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 ---
 
-**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
+**[CRYPTO LIVE TRADING || 13 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=KpSyruON3m4)**
 
-Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 Coin Bureau
+📺 Aryan trader Live
 
-👁️ 78K • 👍 3K • 💬 317 • ⏱️ 21:43 • 2d ago
-
----
-
-**[BITCOIN &amp; ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oEE7Q0RGutM)**
-
-BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 268 • 💬 218 • ⏱️ 14:40 • 12h ago
+👁️ 5K • 👍 4K • 2h ago
 
 ---
 
-**[Ethereum Crash Prediction… While BMNR &amp; MSTR Are Quietly Printing Money](https://www.youtube.com/watch?v=cKHlX4AeXDs)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=7diLflYjxHY)**
 
-Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 MONEY GAME
+📺 Crypto Gyan
 
-👁️ 3K • 👍 144 • 💬 28 • ⏱️ 18:08 • 1d ago
-
----
-
-**[Why ETH Might Be Near a Major Turning Point](https://www.youtube.com/watch?v=0JFtYBvMjNw)**
-
-GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum underperformed this cycle, and investors ...
-
-📺 Bankless
-
-👁️ 9K • 👍 329 • 💬 36 • ⏱️ 56:53 • 2d ago
-
----
-
-**[BMNR’s Ethereum Bet: The Infrastructure Trust Layer for AI Agents](https://www.youtube.com/watch?v=gMkvBwrfPIA)**
-
-In this video we provide an update on BMNR balance and why it could be positioning for the next phase of the digital economy: AI ...
-
-📺 The Value Thinker
-
-👁️ 10K • 👍 525 • 💬 76 • ⏱️ 21:31 • 2d ago
-
----
-
-**[⚠️ BTC &amp; ETH | ЭТО МОЖЕТ БЫТЬ ЛОВУШКА! | СМОТРИ СЕЙЧАС | Прогноз | Сегодня | Криптовалюта](https://www.youtube.com/watch?v=zx6kqV1ldPg)**
-
-Мой Telegram канал: https://t.me/+ORhawqAwEp0zOTcy Торгую здесь (Bitunix + Бонусы): https://www.bitunix.com/register?
-
-📺 CryptoTrader
-
-👁️ 379 • 👍 95 • 💬 45 • ⏱️ 9:55 • 3h ago
+👁️ 1K • 👍 99 • 💬 1 • ⏱️ 6:07 • 8h ago
 
 ---
 
