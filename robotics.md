@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T17:06:40.849931+00:00'
+updated: '2026-03-13T18:00:25.792184+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 17:06 UTC  
+**Last Updated:** March 13, 2026 at 18:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-5h ago
+6h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -56,19 +56,19 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-16h ago
+17h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-3m ago
+57m ago
 
 ---
 
@@ -84,7 +84,7 @@ Today we put it on a real raspberry pi > Wrote some basic motion control functio
 
 Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
 
-11h ago
+12h ago
 
 ---
 
@@ -148,7 +148,7 @@ TechCrunch • 1d ago
 
 Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate their effectiveness.The company Foundation told Time that two robots were sent to Ukraine in February.Ukraine has become the […]
 
-Мілітарний • 5h ago
+Мілітарний • 6h ago
 
 ---
 
@@ -164,7 +164,7 @@ New Hampshire Public Radio • 1d ago
 
 Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
 
-Stock Titan • 5h ago
+Stock Titan • 6h ago
 
 ---
 
@@ -188,13 +188,23 @@ CNBC • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Tesla has a China problem with their humanoid robots.  Lots of them.](https://www.youtube.com/watch?v=ezTPzAwKVng)**
+
+Tesla is shifting focus in the US market from Electric Vehicles, to the production of humanoid robots. The company is repurposing ...
+
+📺 Inside China Business
+
+👁️ 51K • 👍 4K • 💬 626 • ⏱️ 5:32 • 1d ago
+
+---
+
 **[3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop](https://www.youtube.com/watch?v=SlTfA7lSBSM)**
 
 3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop This video is supported by OSHCut. Get 50% off your ...
 
 📺 FUN Robotics Network
 
-👁️ 4K • 👍 132 • ⏱️ 1:10 • 16h ago
+👁️ 4K • 👍 153 • ⏱️ 1:10 • 17h ago
 
 ---
 
@@ -204,17 +214,17 @@ Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major 
 
 📺 Vizuara
 
-👁️ 180K • 👍 38 • 💬 10 • ⏱️ 5:34 • 2d ago
+👁️ 195K • 👍 40 • 💬 10 • ⏱️ 5:34 • 2d ago
 
 ---
 
-**[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
+**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
 
-At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
+Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
 
-📺 Munro Live
+📺 Smokin' Silicon
 
-👁️ 4K • 👍 197 • 💬 19 • ⏱️ 8:34 • 1d ago
+👁️ 56K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
 
 ---
 
@@ -228,43 +238,33 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
-
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
-
-📺 DPCcars
-
-👁️ 17K • 👍 113 • 💬 30 • ⏱️ 3:48 • 3d ago
-
----
-
-**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
-
-Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
-
-📺 Smokin' Silicon
-
-👁️ 55K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
-
----
-
 **[Teacher Uses AI ROBOTS To CATCH CHEATERS | Dhar Mann Studios](https://www.youtube.com/watch?v=JeOCvwntTwU)**
 
 Join Our Community the Dhar Mann Studios Discord is open now, join here: http://discord.gg/aZfnEyn93Y A group of high ...
 
 📺 Dhar Mann Studios
 
-👁️ 964K • 👍 15K • 💬 1K • ⏱️ 26:12 • 1d ago
+👁️ 1.0M • 👍 16K • 💬 1K • ⏱️ 26:12 • 1d ago
 
 ---
 
-**[Tesla has a China problem with their humanoid robots.  Lots of them.](https://www.youtube.com/watch?v=ezTPzAwKVng)**
+**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
 
-Tesla is shifting focus in the US market from Electric Vehicles, to the production of humanoid robots. The company is repurposing ...
+A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
 
-📺 Inside China Business
+📺 DPCcars
 
-👁️ 50K • 👍 4K • 💬 621 • ⏱️ 5:32 • 1d ago
+👁️ 17K • 👍 114 • 💬 31 • ⏱️ 3:48 • 3d ago
+
+---
+
+**[How Robot Demos Fool You](https://www.youtube.com/watch?v=ax_15lQF_xI)**
+
+Have you seen those viral Chinese robot dance shows? Completely insane hardware, genuinely impressive. But if you'd stand in ...
+
+📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
+
+👁️ 444 • 👍 56 • 💬 7 • ⏱️ 18:31 • 2h ago
 
 ---
 
@@ -274,7 +274,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 10K • 👍 182 • 💬 74 • ⏱️ 4:52 • 1d ago
+👁️ 11K • 👍 183 • 💬 76 • ⏱️ 4:52 • 1d ago
 
 ---
 
@@ -282,7 +282,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 Robot Julie 
 
-👁️ 28K • 👍 235 • 💬 3 • ⏱️ 0:23 • 2d ago
+👁️ 28K • 👍 236 • 💬 3 • ⏱️ 0:23 • 2d ago
 
 ---
 

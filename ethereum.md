@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T17:06:40.846291+00:00'
+updated: '2026-03-13T18:00:25.788952+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 17:06 UTC  
+**Last Updated:** March 13, 2026 at 18:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $259.36B
+**Market Cap:** $253.16B
 Rank #2
 
 **Circulating Supply:** 120,691,954 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.5%
+-57.6%
 
 **All-Time Low:** $0.43
-+496778.6%
++484424.7%
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 2m ago
+🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 56m ago
 
 ---
 
@@ -100,7 +100,7 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 **[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
 
-🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 1h ago
+🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 2h ago
 
 ---
 
@@ -116,7 +116,7 @@ Stay informed with the latest insights in our Infostealers weekly report. Explor
 
 US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 3h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 4h ago
 
 ---
 
@@ -124,7 +124,7 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 11h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 12h ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 20h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 1d ago
 
 Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 9h ago
 
 BlackRock today debuted the iShares Staked Ethereum Trust ETF (Nasdaq: ETHB) — the firm's first crypto exchange-traded fund to incorporate staking and its third spot crypto ETF overall.
 
-thedefiant.io • 23h ago
+thedefiant.io • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ thedefiant.io • 23h ago
 
 The document comes at a moment of transition for the organization, following recent shifts in Ethereum’s technical roadmap and the resignation earlier this year of one of the foundation’s co-executive directors.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -192,7 +192,7 @@ CoinDesk • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -200,7 +200,7 @@ Fortune • 2h ago
 
 Bitcoin (BTC) and ETH update: Cryptos show resilience against global deleveraging as the 20 millionth Bitcoin is mined. Explore an intraday technical analysis
 
-marketpulse.com • 3h ago
+marketpulse.com • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ Yahoo Finance • 2d ago
 
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -224,7 +224,7 @@ TradingView • 6h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are gearing up for a potential breakout on Friday after gaining over 8%, 10% and 4% so far this week. BTC and ETH are approaching the key technical levels while XRP continues to stabilize within a descending channel.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
 
 ---
 
@@ -232,33 +232,23 @@ FXStreet • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=v24Ua-oTb48)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 582 • 👍 77 • 💬 4 • ⏱️ 6:41 • 3h ago
-
----
-
 **[Tom Lee: The 100x Opportunity EVEN Bigger Than Bitcoin (New Ethereum Prediction 2026)](https://www.youtube.com/watch?v=5J885DQMOzE)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 605 • 💬 130 • ⏱️ 19:58 • 1d ago
+👁️ 18K • 👍 626 • 💬 131 • ⏱️ 19:58 • 1d ago
 
 ---
 
-**[ETH JUST BROKE OUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=74zm01slIVQ)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=v24Ua-oTb48)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 205 • 👍 10 • 💬 1 • ⏱️ 4:58 • 6h ago
+👁️ 1K • 👍 118 • 💬 4 • ⏱️ 6:41 • 4h ago
 
 ---
 
@@ -268,17 +258,17 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 3K • 👍 57 • 💬 9 • ⏱️ 7:47 • 20h ago
+👁️ 3K • 👍 61 • 💬 9 • ⏱️ 7:47 • 21h ago
 
 ---
 
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=y1L-xZM10ow)**
+**[ETH JUST BROKE OUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=74zm01slIVQ)**
 
-Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Trade with Burner
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 206 • 2h ago
+👁️ 240 • 👍 15 • 💬 2 • ⏱️ 4:58 • 7h ago
 
 ---
 
@@ -288,27 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 116 • 💬 2 • ⏱️ 4:49 • 15h ago
-
----
-
-**[Crypto Live Trading 13 March ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=l7nXjdZsUig)**
-
-TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
-
-📺 Vibe With Sahil
-
-👁️ 3K • 👍 498 • 3h ago
-
----
-
-**[BITCOIN &amp; ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oEE7Q0RGutM)**
-
-BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 278 • 💬 227 • ⏱️ 14:40 • 18h ago
+👁️ 2K • 👍 115 • 💬 2 • ⏱️ 4:49 • 16h ago
 
 ---
 
@@ -318,7 +288,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 100 • 💬 16 • ⏱️ 37:23 • 6h ago
+👁️ 3K • 👍 108 • 💬 17 • ⏱️ 37:23 • 7h ago
 
 ---
 
@@ -328,7 +298,37 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 3K • 💬 27 • ⏱️ 12:32 • 2d ago
+👁️ 16K • 👍 3K • 💬 27 • ⏱️ 12:32 • 2d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oEE7Q0RGutM)**
+
+BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 287 • 💬 229 • ⏱️ 14:40 • 19h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=7diLflYjxHY)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 1K • 👍 107 • 💬 1 • ⏱️ 6:07 • 13h ago
+
+---
+
+**[Ethereum Crash Prediction… While BMNR &amp; MSTR Are Quietly Printing Money](https://www.youtube.com/watch?v=cKHlX4AeXDs)**
+
+Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 3K • 👍 147 • 💬 28 • ⏱️ 18:08 • 1d ago
 
 ---
 

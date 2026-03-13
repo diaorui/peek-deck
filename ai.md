@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T17:06:40.826264+00:00'
+updated: '2026-03-13T18:00:25.774334+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 17:06 UTC  
+**Last Updated:** March 13, 2026 at 18:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
 
-🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 4h ago
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 5h ago
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
 
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 2h ago
+🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 12h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 13h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 6h ago
 
 The bank says scaling laws are holding firm — and the compute buildout underway at AI labs is about to pay off in ways that will surprise even the Street.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -141,7 +141,7 @@ Fortune • 8h ago
 
 Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
 
-CNN • 29m ago
+CNN • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNN • 29m ago
 
 At its GTC conference, Nvidia is expected to share some of its vision for incorporating technology from AI chip startup Groq.
 
-CNBC • 11m ago
+CNBC • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 11m ago
 
 Fox News' Bryan Llenas reports as Iran's shares AI-generated videos and images to spread misinformation the Middle East. CENTCOM is countering these claims with fact-checks online.
 
-Fox News • 47m ago
+Fox News • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 1d ago
 
 **[The Unlikely Red State Trying to Buck Trump and Big Tech](https://www.politico.com/news/magazine/2026/03/13/utah-lds-church-ai-big-tech-trump-00823634)**
 
-Politico • 8h ago
+Politico • 9h ago
 
 ---
 
@@ -177,13 +177,13 @@ Politico • 8h ago
 
 The race to power AI is already remaking the physical world.
 
-The Atlantic • 5h ago
+The Atlantic • 6h ago
 
 ---
 
 **[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqfmSQnPnVmWAmf9oQbscKW-dLQQDXHfdyqWKg50f_Gpm9PxpA58FPs0&gaa_ts=69b44784&gaa_sig=PeEBHW8aVtrwpraBV_CJKnZ8YTtovJ8DFoDJzyiZ7M9BzCkUOUTGNusSAmTioZz-lzgJnV9hWLj1sPnZrTrzVA%3D%3D)**
 
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ WSJ • 13h ago
 
 In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -209,7 +209,7 @@ BBC • 7h ago
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 690 • 💬 357 • 20h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 690 • 💬 357 • 21h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -233,7 +233,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG - RunanywhereAI/RCLI
 
-⬆️ 240 • 💬 152 • 2d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
+⬆️ 240 • 💬 152 • 3d ago • [GitHub](https://github.com/RunanywhereAI/rcli)
 
 ---
 
@@ -255,7 +255,7 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 197 • 💬 331 • 18h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 197 • 💬 331 • 19h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -279,13 +279,33 @@ Deterministic browser automation. Works out of the box with Claude/Codex/OpenCod
 
 ## YouTube Videos: "ai"
 
-**[If I Wanted to Build a $10M AI Business (Zero Employees), I&#39;d Do This](https://www.youtube.com/watch?v=w-XPlC3a2oI)**
+**[AI News: They All Launched the Same Thing!](https://www.youtube.com/watch?v=syx_8UlEWlA)**
 
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3t Are you building an AI software ...
+Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
 
-📺 Dan Martell
+📺 Matt Wolfe
 
-👁️ 79K • 👍 4K • 💬 251 • ⏱️ 14:25 • 1d ago
+👁️ 5K • 👍 434 • 💬 48 • ⏱️ 33:33 • 1h ago
+
+---
+
+**[$0.10/Month Runs My Entire AI Life. I&#39;ll Show You How.](https://www.youtube.com/watch?v=japT66frdhM)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 10K • 👍 578 • 💬 70 • ⏱️ 26:55 • 3h ago
+
+---
+
+**[“Khamenei Is Back”? Iran Drops CHILLING AI War Video | Trump Sweats As Tehran THREATENS Strike](https://www.youtube.com/watch?v=ysUssyhrHNY)**
+
+A dramatic AI-generated video circulating online is sending a powerful message from Iran to the United States. The viral clip ...
+
+📺 Oneindia News
+
+👁️ 3K • 👍 84 • 💬 7 • ⏱️ 3:02 • 2h ago
 
 ---
 
@@ -295,27 +315,25 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 70K • 👍 2K • 💬 104 • ⏱️ 14:05 • 1d ago
+👁️ 74K • 👍 2K • 💬 107 • ⏱️ 14:05 • 1d ago
 
 ---
 
-**[How to Get Ahead with AI (While Others Lose Their Jobs)](https://www.youtube.com/watch?v=2RheMwrb0No)**
+**[If I Wanted to Build a $10M AI Business (Zero Employees), I&#39;d Do This](https://www.youtube.com/watch?v=w-XPlC3a2oI)**
 
-How to Get Ahead with AI While Others Lose Their Jobs Check out Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=james1 In this ...
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3t Are you building an AI software ...
 
-📺 James Blue
+📺 Dan Martell
 
-👁️ 3K • ⏱️ 11:10 • 3h ago
+👁️ 86K • 👍 4K • 💬 300 • ⏱️ 14:25 • 1d ago
 
 ---
 
-**[I Asked Grok AI To Predict The 2026 Senate Map... JAW-DROPPING Results!](https://www.youtube.com/watch?v=WQX0sILf7do)**
+**[REAL VS AI COMPILATION 😂](https://www.youtube.com/watch?v=lglEffRkVRs)**
 
-Kalshi* 》https://bit.ly/kalshi2026 *Yapms* 》https://yapms.com/ *JacksonJude* 》https://map.jacksonjude.com/ ...
+📺 Bob Reese
 
-📺 Election Time
-
-👁️ 186K • 👍 3K • 💬 584 • ⏱️ 18:02 • 23h ago
+👁️ 17K • 👍 1K • 💬 35 • ⏱️ 1:09 • 59m ago
 
 ---
 
@@ -325,7 +343,7 @@ Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks 
 
 📺 AI Samson
 
-👁️ 8K • 👍 504 • 💬 59 • ⏱️ 13:02 • 1d ago
+👁️ 8K • 👍 516 • 💬 60 • ⏱️ 13:02 • 1d ago
 
 ---
 
@@ -335,47 +353,27 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 93K • 👍 2K • 💬 633 • ⏱️ 15:01 • 1d ago
+👁️ 102K • 👍 2K • 💬 684 • ⏱️ 15:01 • 1d ago
 
 ---
 
-**[Best FREE AI Music Generators 2026](https://www.youtube.com/watch?v=C2bICETkJfM)**
+**[I Asked Grok AI To Predict The 2026 Senate Map... JAW-DROPPING Results!](https://www.youtube.com/watch?v=WQX0sILf7do)**
 
-Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=isa-does-ai In this video, I break down the ...
+Kalshi* 》https://bit.ly/kalshi2026 *Yapms* 》https://yapms.com/ *JacksonJude* 》https://map.jacksonjude.com/ ...
 
-📺 Isa does AI
+📺 Election Time
 
-👁️ 9K • 💬 5 • ⏱️ 11:51 • 1d ago
-
----
-
-**[Google Just Dropped Bayesian: AI That Evolves In Real Time](https://www.youtube.com/watch?v=vF3RVZsfQhg)**
-
-Researchers at Google may have found a way to make large language models learn more like humans. Their new training ...
-
-📺 AI Revolution
-
-👁️ 70K • 👍 2K • 💬 104 • ⏱️ 14:36 • 2d ago
+👁️ 186K • 👍 4K • 💬 611 • ⏱️ 18:02 • 23h ago
 
 ---
 
-**[Every New Google AI Update in One Video (NotebookLM, Gemini, and much more)](https://www.youtube.com/watch?v=aqabuf3zjag)**
+**[The AI book that&#39;s freaking out national security advisors](https://www.youtube.com/watch?v=Nl7-bRFSZBs)**
 
-Get started with Manus: https://manus.im More from Futurepedia: Join the fastest-growing AI education platform! Try it free and ...
+Way more thoughts, our curated newsletter, and free books (until we run out) → https://80000hours.org/iabied/ If we build ...
 
-📺 Futurepedia
+📺 AI In Context
 
-👁️ 55K • 👍 2K • 💬 39 • ⏱️ 26:25 • 2d ago
-
----
-
-**[AI is TAKING OUR JOBS!](https://www.youtube.com/watch?v=xPUtBOqK054)**
-
-Burger King recently announced their new AI headsets, and you can already smell the dystopia (and Whoppers) in the air!
-
-📺 The Food Theorists
-
-👁️ 129K • 👍 8K • 💬 220 • ⏱️ 1:12 • 21h ago
+👁️ 288K • 👍 17K • 💬 2K • ⏱️ 43:37 • 2d ago
 
 ---
 
@@ -391,7 +389,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 53,243 • ❤️ 549 • 5d ago
+⬇️ 53,243 • ❤️ 558 • 5d ago
 
 ---
 
@@ -403,7 +401,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 3,142 • ❤️ 348 • 2d ago
+⬇️ 3,142 • ❤️ 352 • 2d ago
 
 ---
 
@@ -415,7 +413,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 448,513 • ❤️ 577 • 8d ago
+⬇️ 448,513 • ❤️ 579 • 8d ago
 
 ---
 
@@ -427,7 +425,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 173,501 • ❤️ 397 • 9d ago
+⬇️ 173,501 • ❤️ 405 • 9d ago
 
 ---
 
@@ -439,7 +437,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,685,919 • ❤️ 791 • 11d ago
+⬇️ 1,685,919 • ❤️ 793 • 11d ago
 
 ---
 
@@ -451,7 +449,7 @@ Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active para
 
 `text-generation` `106.0B`
 
-⬇️ 5,959 • ❤️ 230 • 3d ago
+⬇️ 5,959 • ❤️ 231 • 3d ago
 
 ---
 
@@ -463,7 +461,31 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 161 • 16h ago
+⬇️ 6,439 • ❤️ 163 • 1h ago
+
+---
+
+**[tada-1b](https://huggingface.co/HumeAI/tada-1b)**
+
+*Hume AI*
+
+TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment for high-fidelity speech synthesis with reduced computational overhead. It enables dynamic duration synthesis and dual-stream generation, making it efficient for generating natural-sounding speech.
+
+`text-to-speech` `2.2B`
+
+⬇️ 6,113 • ❤️ 151 • 2d ago
+
+---
+
+**[Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context window, designed for aggressive prompt adherence and advanced reasoning tasks.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 47,580 • ❤️ 138 • 2d ago
 
 ---
 
@@ -476,30 +498,6 @@ Sarvam-30B is an Apache-licensed, 30B parameter Mixture-of-Experts (MoE) text ge
 `text-generation` `32.2B`
 
 ⬇️ 9,492 • ❤️ 157 • 3d ago
-
----
-
-**[tada-1b](https://huggingface.co/HumeAI/tada-1b)**
-
-*Hume AI*
-
-TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment for high-fidelity speech synthesis with reduced computational overhead. It enables dynamic duration synthesis and dual-stream generation, making it efficient for generating natural-sounding speech.
-
-`text-to-speech` `2.2B`
-
-⬇️ 6,113 • ❤️ 148 • 2d ago
-
----
-
-**[LTX-2.3-GGUF](https://huggingface.co/unsloth/LTX-2.3-GGUF)**
-
-*Unsloth AI*
-
-LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for local execution, capable of generating synchronized audio and video from image prompts with high fidelity and prompt adherence, suitable for rapid drafting or refined video creation.
-
-`image-to-video` `21.0B`
-
-⬇️ 69,192 • ❤️ 168 • 2d ago
 
 ---
 
@@ -541,7 +539,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 83 • 💬 3 • ⭐ 2,192 • 3d ago
+▲ 85 • 💬 3 • ⭐ 2,192 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -567,7 +565,7 @@ A novel tokenization scheme synchronizes acoustic features with text tokens in T
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 47 • 💬 2 • ⭐ 49,634 • 10mo ago
+▲ 47 • 💬 2 • ⭐ 49,694 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -600,20 +598,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143)**
-
-*Jiyuan Wang, Chunyu Lin, Lei Sun et al. (11 authors)*
-
-🏢 AMAP-ML
-
-RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
-
-▲ 135 • 💬 6 • ⭐ 115 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
-
----
-
 **[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://huggingface.co/papers/2603.03269)**
 
 *Junyi Zhang, Charles Herrmann, Junhwa Hur et al. (8 authors)*
@@ -643,6 +627,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
+
+*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
+
+MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
+
+▲ 161 • 💬 3 • ⭐ 6,809 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -653,7 +649,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 30.6k • 🔱 4.1k • 2d ago
+⭐ 31.0k • 🔱 4.1k • 2d ago
 
 ---
 
@@ -663,7 +659,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.7k • 🔱 3.5k • 1h ago
+⭐ 26.8k • 🔱 3.5k • 2h ago
 
 ---
 
@@ -673,7 +669,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.8k • 🔱 896 • 16h ago
+⭐ 19.9k • 🔱 899 • 17h ago
 
 ---
 
@@ -683,7 +679,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.1k • 🔱 1.3k • 5h ago
+⭐ 11.2k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -693,7 +689,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 8.9k • 🔱 781 • 8d ago
+⭐ 9.0k • 🔱 786 • 8d ago
 
 ---
 
@@ -703,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.9k • 🔱 644 • 8h ago
+⭐ 8.9k • 🔱 644 • 1h ago
 
 ---
 
@@ -723,7 +719,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 737 • 13h ago
+⭐ 6.3k • 🔱 738 • 59m ago
 
 ---
 
@@ -733,7 +729,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 448 • 5h ago
+⭐ 3.9k • 🔱 448 • 6h ago
 
 ---
 
