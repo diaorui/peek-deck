@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T02:09:03.273342+00:00'
+updated: '2026-03-13T04:24:24.119866+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 02:09 UTC  
+**Last Updated:** March 13, 2026 at 04:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,124.39
+### $2,109.33
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.0%  
-**7d:** +7.9%  
-**30d:** +9.0%  
-**90d:** -30.7%  
-**1y:** +11.1%  
+**24h:** +4.4%  
+**7d:** +7.4%  
+**30d:** +8.5%  
+**90d:** -31.0%  
+**1y:** +10.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.20B
+**Market Cap:** $255.20B
 Rank #2
 
 **Circulating Supply:** 120,691,954 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.1%
+-57.3%
 
 **All-Time Low:** $0.43
-+490159.3%
++488166.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 6h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real asset
 
 Read the comprehensive whitepaper about ETour's competitive gaming infrastructure that runs forever on-chain.
 
-🔗 [etour.games](https://etour.games/whitepaper) • 23h ago
+🔗 [etour.games](https://etour.games/whitepaper) • 1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
 
-17h ago
+19h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've created a series of charts that show inflation in a way that has an emotion
 
 If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
 
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 15h ago
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 17h ago
 
 ---
 
@@ -150,27 +150,19 @@ I was recently auditing some smart contracts for a side project, and it struck m
 
 ## Google News: "ethereum"
 
-**[New BlackRock Staked Ethereum Fund to Pay 82% of Rewards to Investors](https://decrypt.co/360756/new-blackrock-staked-ethereum-fund)**
-
-BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
-
-Decrypt • 13h ago
-
----
-
-**[Don't Buy Ethereum Until This Happens](https://www.fool.com/investing/2026/03/12/dont-buy-ethereum-until-this-happens/)**
-
-Crypto investors need to keep their eyes on the arrival of altcoin season.
-
-The Motley Fool • 16h ago
-
----
-
 **[CryptoQuant says ETH could fall to $1,500 amid Ethereum's 'adoption paradox'](https://www.theblock.co/post/393431/cryptoquant-eth-price-fall-1500-ethereum-adoption-paradox)**
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 9h ago
+The Block • 11h ago
+
+---
+
+**[New BlackRock Staked Ethereum Fund to Pay 82% of Rewards to Investors](https://decrypt.co/360756/new-blackrock-staked-ethereum-fund)**
+
+BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
+
+Decrypt • 15h ago
 
 ---
 
@@ -178,7 +170,15 @@ The Block • 9h ago
 
 Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
 
-CoinDesk • 10h ago
+CoinDesk • 12h ago
+
+---
+
+**[Don't Buy Ethereum Until This Happens](https://www.fool.com/investing/2026/03/12/dont-buy-ethereum-until-this-happens/)**
+
+Crypto investors need to keep their eyes on the arrival of altcoin season.
+
+The Motley Fool • 18h ago
 
 ---
 
@@ -194,21 +194,7 @@ Yahoo Finance • 1d ago
 
 BlackRock today debuted the iShares Staked Ethereum Trust ETF (Nasdaq: ETHB) — the firm's first crypto exchange-traded fund to incorporate staking and its third spot crypto ETF overall.
 
-thedefiant.io • 8h ago
-
----
-
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqcIJy7Q2mVSECPbkvrhoE3eprLu49vXFKTxBCjYUHKrFlMG0ltCx3yR&gaa_ts=69b37529&gaa_sig=S_JQj5rPpi-ZFFx3QIeJr8y_RtirccNKVv2RrN_g_9YEX-LywTBA8C41a3g7AOwB8QLCbgXMi6HNY2_QQnnEmA%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Ethereum Price Consolidates Above $2,050 Despite Growing Adoption](https://seekingalpha.com/article/4881858-ethereum-price-consolidates-above-2050-despite-growing-adoption)**
-
-​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
-
-Seeking Alpha • 5h ago
+thedefiant.io • 10h ago
 
 ---
 
@@ -218,11 +204,27 @@ Binance • 5d ago
 
 ---
 
+**[Crypto News: Pepeto Update Amount Raised Above $7.96 Million as Ethereum Price Prediction Points to New All Time High](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-update-amount-raised-above-7-96-million-as-ethereum-price-prediction-points-to-new-all-time-high-1035924891)**
+
+Dubai, UAE, March  12, 2026  (GLOBE NEWSWIRE) -- Pepeto crossed $7.96 million this week and the pace keeps accelerating, reflecting the seriousnes...
+
+markets.businessinsider.com • 8h ago
+
+---
+
+**[Ethereum (ETH-USD) Price Consolidates Above $2,050 Despite Growing Adoption](https://seekingalpha.com/article/4881858-ethereum-price-consolidates-above-2050-despite-growing-adoption)**
+
+​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
+
+Seeking Alpha • 8h ago
+
+---
+
 **[Current price of Ethereum for March 12, 2026](https://fortune.com/article/price-of-ethereum-03-12-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 13h ago
 
 ---
 
@@ -236,17 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 455 • 💬 86 • ⏱️ 19:58 • 10h ago
-
----
-
-**[BlackRock&#39;s Robert Mitchnick on the launch of the firm&#39;s staked ether ETF](https://www.youtube.com/watch?v=26lG23eyt-k)**
-
-Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of the ETHB staked ether ETF.
-
-📺 CNBC Television
-
-👁️ 827 • 👍 16 • 💬 2 • ⏱️ 7:47 • 5h ago
+👁️ 13K • 👍 495 • 💬 90 • ⏱️ 19:58 • 12h ago
 
 ---
 
@@ -256,17 +248,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 265 • 👍 30 • 💬 1 • ⏱️ 4:49 • 51m ago
+👁️ 576 • 👍 61 • 💬 1 • ⏱️ 4:49 • 3h ago
 
 ---
 
-**[BlackRock CEO is Warning You… (Most Won’t Listen)](https://www.youtube.com/watch?v=gi1WuGidieE)**
+**[BlackRock&#39;s Robert Mitchnick on the launch of the firm&#39;s staked ether ETF](https://www.youtube.com/watch?v=26lG23eyt-k)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 0% Fees on Gold And Silver (Earn $300k): ...
+Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of the ETHB staked ether ETF.
 
-📺 Altcoin Daily
+📺 CNBC Television
 
-👁️ 12K • 👍 962 • 💬 292 • ⏱️ 9:16 • 2h ago
+👁️ 1K • 👍 30 • 💬 3 • ⏱️ 7:47 • 8h ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oEE7Q0RGutM)**
+
+BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 216 • 💬 110 • ⏱️ 14:40 • 5h ago
 
 ---
 
@@ -276,17 +278,7 @@ The wait is over! BlackRock (the world's biggest money manager) just turned on t
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 443 • 💬 92 • ⏱️ 2:00:28 • 9h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KgQ43C9Bpsw)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 119 • 💬 2 • ⏱️ 5:14 • 12h ago
+👁️ 7K • 👍 449 • 💬 91 • ⏱️ 2:00:28 • 11h ago
 
 ---
 
@@ -300,23 +292,33 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 ---
 
-**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
-
-Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
-
-📺 Coin Bureau
-
-👁️ 77K • 👍 3K • 💬 311 • ⏱️ 21:43 • 2d ago
-
----
-
 **[Why ETH Might Be Near a Major Turning Point](https://www.youtube.com/watch?v=0JFtYBvMjNw)**
 
 GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum underperformed this cycle, and investors ...
 
 📺 Bankless
 
-👁️ 9K • 👍 317 • 💬 35 • ⏱️ 56:53 • 1d ago
+👁️ 9K • 👍 323 • 💬 35 • ⏱️ 56:53 • 1d ago
+
+---
+
+**[Ethereum&#39;s Upgrade Broke Everything](https://www.youtube.com/watch?v=egqhTq1Vf08)**
+
+Bitmine is the largest Ethereum Treasury company, having stacked up more than 4.4 million ETH (so far). Driving this ...
+
+📺 Coin Bureau
+
+👁️ 78K • 👍 3K • 💬 313 • ⏱️ 21:43 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KgQ43C9Bpsw)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 121 • 💬 2 • ⏱️ 5:14 • 14h ago
 
 ---
 
@@ -326,7 +328,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 137 • 💬 26 • ⏱️ 18:08 • 23h ago
+👁️ 3K • 👍 140 • 💬 27 • ⏱️ 18:08 • 1d ago
 
 ---
 
