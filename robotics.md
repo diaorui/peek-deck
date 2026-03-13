@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T13:01:19.730188+00:00'
+updated: '2026-03-13T14:11:07.298225+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 13:01 UTC  
+**Last Updated:** March 13, 2026 at 14:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-1h ago
+3h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -56,21 +56,13 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-12h ago
+13h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-19h ago
-
----
-
-**[Robotics Meetup in Pune – The Robotics Conference Community](https://www.reddit.com/r/robotics/comments/1rsf88b/robotics_meetup_in_pune_the_robotics_conference/)**
-
-Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
-
-7h ago
+20h ago
 
 ---
 
@@ -78,7 +70,15 @@ Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune 
 
 Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
 
-6h ago
+7h ago
+
+---
+
+**[Robotics Meetup in Pune – The Robotics Conference Community](https://www.reddit.com/r/robotics/comments/1rsf88b/robotics_meetup_in_pune_the_robotics_conference/)**
+
+Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
+
+8h ago
 
 ---
 
@@ -86,7 +86,7 @@ Today we put it on a real raspberry pi > Wrote some basic motion control functio
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-22h ago
+1d ago
 
 ---
 
@@ -106,14 +106,6 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 ## Google News: "robotics"
 
-**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
-
-Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
-
-TechCrunch • 19h ago
-
----
-
 **[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
@@ -122,11 +114,35 @@ Financial Times • 1d ago
 
 ---
 
+**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
+
+Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
+
+TechCrunch • 21h ago
+
+---
+
+**[Ukraine Receives Phantom MK-1 Humanoid Robots for Testing](https://militarnyi.com/en/news/ukraine-receives-phantom-mk-1-humanoid-robots-for-testing/)**
+
+Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate their effectiveness.The company Foundation told Time that two robots were sent to Ukraine in February.Ukraine has become the […]
+
+Мілітарний • 2h ago
+
+---
+
+**[This Must Be the Place](https://www.mtu.edu/magazine/2026/stories/robotics-place/)**
+
+Students and faculty with a passion for robotics are making Michigan Tech a destination for all things robots and automation. To meet the needs of a quickly evolving industry, the University's scholars and researchers are using their multidisciplinary acumen to find solutions for real-world challenges in autonomous machinery. In the process, they're inspiring a new generation of robotics enthusiasts.
+
+Michigan Technological University • 55m ago
+
+---
+
 **[Three companies demonstrate global commercialization potential at AW 2026](https://www.therobotreport.com/three-companies-demonstrate-global-commercialization-potential-aw-2026/)**
 
 At AW 2026 in South Korea, global media recognized companies with strong investment, competitiveness, and international market potential.
 
-The Robot Report • 4m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -134,29 +150,29 @@ The Robot Report • 4m ago
 
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
-New Hampshire Public Radio • 21h ago
+New Hampshire Public Radio • 23h ago
 
 ---
 
-**[HIVE teams with AMC Robotics to fuel AI robots for dangerous, dull work](https://www.stocktitan.net/news/HIVE/amc-robotics-and-hive-announce-collaboration-to-advance-ai-driven-xq1nxia1mu76.html)**
+**[New robotics programs aim to teach North American kids programming and AI skills](https://www.stocktitan.net/news/KIDZ/classover-announces-strategic-robotics-education-collaboration-with-gjcixgew113i.html)**
 
-Kyro, AMC's AI quadruped, now taps HIVE's BUZZ GPU AI Cloud for real-time navigation and video processing, backing a ramp from lab work to deployment.
+Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
 
-Stock Titan • 7h ago
+Stock Titan • 2h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqe-NOFsxHXnXIyfpIkRGL3EVaZtaBDkUihhhOpUGBSnkr4NpgmsLJBw&gaa_ts=69b40e0b&gaa_sig=YHvs7H8GoXZzMiSH0hRRIG8H6PY97PsiWTTWVj3oEXcwYbut7V_UNjya2iywselJwEAiWFAM1c8qyUWuIY7H3A%3D%3D)**
+**[St. Mary’s Dominican High School Ultraviolet Robotics Team celebrates wins](https://www.nola.com/st-mary-s-dominican-high-school-ultraviolet-robotics-team-celebrates-wins/article_4b3a056d-0209-4290-863d-fe6779c53414.html)**
+
+At the 2026 FIRST Tech Challenge Regional Championship on Feb. 28, the St. Mary’s Dominican High School Ultraviolet Robotics Team earned the Sustain Award, placed 10th in the state, and
+
+NOLA.com • 17h ago
+
+---
+
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcJVam5fIStN2SziMu7Qk8A7qpsryjw43aChXCrJbAFcDuaQbBzzY-q&gaa_ts=69b41e63&gaa_sig=tzkyKpSroc-U2YeusAhO3nEifPetxo8COcyn8uFTxPFDsIQtZvCV9l6GralVcU7tKSclpvWnwTvUvQl5U4eSuA%3D%3D)**
 
 WSJ • 1d ago
-
----
-
-**[Rivian-owned robotics company secures more startup funding](https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding)**
-
-A startup robotics company owned by Rivian and founded by Rivian CEO RJ Scaringe has secured $500 million in startup capital. Mind Robotics announced an investment by Accel and Andreessen Horowitz. The firm wants to build AI-powered industrial robots.
-
-WGLT • 1d ago
 
 ---
 
@@ -165,22 +181,6 @@ WGLT • 1d ago
 Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Serve Robotics CEO talks Q4 earnings, White Castle partnership](https://finance.yahoo.com/video/serve-robotics-ceo-talks-q4-213946704.html)**
-
-Serve Robotics (SERV) co-founder and CEO Ali Kashani joins Asking for a Trend host Josh Lipton to go over the company's fourth quarter earnings results. Watch the video above to learn more about the company's recently announced partnership with White Castle. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Stocks making the biggest moves midday: Oracle, Papa John's, Nebius, Campbell's, Serve Robotics, Cadre and more](https://www.cnbc.com/2026/03/11/stocks-making-the-biggest-moves-midday-orcl-nbis-cpb-serv-cdre.html)**
-
-These are some of the stocks posting the largest midday moves.
-
-CNBC • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 49K • 👍 4K • 💬 621 • ⏱️ 5:32 • 20h ago
+👁️ 49K • 👍 4K • 💬 621 • ⏱️ 5:32 • 21h ago
 
 ---
 
@@ -204,7 +204,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 116 • ⏱️ 1:10 • 12h ago
+👁️ 3K • 👍 116 • ⏱️ 1:10 • 13h ago
 
 ---
 
@@ -224,7 +224,7 @@ Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major 
 
 📺 Vizuara
 
-👁️ 141K • 👍 37 • 💬 10 • ⏱️ 5:34 • 1d ago
+👁️ 141K • 👍 37 • 💬 10 • ⏱️ 5:34 • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 4K • 👍 187 • 💬 19 • ⏱️ 8:34 • 20h ago
+👁️ 4K • 👍 187 • 💬 19 • ⏱️ 8:34 • 21h ago
 
 ---
 

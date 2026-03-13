@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T13:01:19.712042+00:00'
+updated: '2026-03-13T14:11:07.280824+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 13:01 UTC  
+**Last Updated:** March 13, 2026 at 14:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
 
-🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 20m ago
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 1h ago
 
 ---
 
@@ -49,7 +49,15 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 1h ago
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 2h ago
+
+---
+
+**[Welcome to Facebook, 2028](https://www.reddit.com/r/artificial/comments/1rsnamo/welcome_to_facebook_2028/)**
+
+Someone joked that Meta bought a social network where only AI agents can post and humans just watch. Strange idea. But if you look at Facebook today… it might already be happening
+
+44m ago
 
 ---
 
@@ -57,7 +65,7 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-22h ago
+23h ago
 
 ---
 
@@ -65,7 +73,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 8h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 9h ago
 
 ---
 
@@ -109,53 +117,33 @@ Anthropic’s Claude AI systems have become a crucial tool for the military desp
 
 ---
 
-**[AMD Ryzen AI NPUs are finally useful under Linux for running LLMs](https://www.reddit.com/r/artificial/comments/1rr1en0/amd_ryzen_ai_npus_are_finally_useful_under_linux/)**
-
-Over the past two years AMD has developed the AMDXDNA accelerator driver in the mainline Linux kernel for supporting the AMD Ryzen AI NPUs
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-NPUs-Linux-LLMs) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Meta Delays Rollout of New A.I. Model After Performance Concerns](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html)**
+**[Meta Delays Rollout of New A.I. Model After Performance Concerns - The New York Times](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html)**
 
-The New York Times • 12h ago
-
----
-
-**[Anthropic-Pentagon battle shows how big tech has reversed course on AI and war](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence)**
-
-Less than a decade ago, Google employees scuttled any military use of its AI. Now Anthropic is fighting Trump officials not over if, but how
-
-The Guardian • 1h ago
+The New York Times • 14h ago
 
 ---
 
-**[The Tech Download: Chip supply chains and data center risks — the tech sector’s Iran problem](https://www.cnbc.com/2026/03/13/tech-download-iran-problem-supply-chains-ai.html)**
+**[Meta Is Delaying Its ‘Superintelligent’ AI Model After Performance Issues](https://www.entrepreneur.com/business-news/meta-is-delaying-its-super-intelligent-ai-model)**
 
-Uncertainty hits global chip supply chains and Middle East-based AI projects.
+Mark Zuckerberg has invested billions in AI, but Meta's latest model isn't keeping pace with OpenAI and Google.
 
-CNBC • 1h ago
-
----
-
-**[Thinking about using AI for your taxes? Why it could put your refund at risk](https://www.cbsnews.com/philadelphia/video/thinking-about-using-ai-for-your-taxes-why-it-could-put-your-refund-at-risk/)**
-
-There are limited ways in which artificial intelligence can help you do your taxes, but you shouldn't trust it with too much and put your personal information and your tax refund at risk. Josh Sidorowicz is In Your Corner with tips from Mike Valenti, tax director at Bryn Mawr Trust Advisors.
-
-CBS News • 29m ago
+Entrepreneur • 10m ago
 
 ---
 
-**[AI and the Entry-Level Job](https://hbr.org/2026/03/ai-and-the-entry-level-job)**
+**[Meta stock slips after report of delayed launch for revamped AI model](https://www.msn.com/en-us/money/companies/meta-stock-slips-after-report-of-delayed-launch-for-revamped-ai-model/ar-AA1YyJH4?ocid=finance-verthp-feeds)**
 
-Many companies are cutting entry-level jobs to capture short-term AI productivity gains. But IBM’s HR chief, Nickle LaMoreaux, believes that in the long-term this strategy will fail. Instead of axing jobs, IBM is tripling its entry-level hires and shifting its hiring criteria to prioritize adaptability and continuous learning.
+MSN • 21m ago
 
-Harvard Business Review • 13m ago
+---
+
+**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqcb65IqTegV6ZT1KJik5fRqiORGBIzfUMbPs98EVKnKV-9LKrN-BXUc&gaa_ts=69b41e5f&gaa_sig=AmynMA5nNonkIV4pmxXnldGOlHXV9SLee6UaswcZ2djl5FIUamo0_mGg1OxuTxJ0RJPWuAl8Pak3P4s58ndStw%3D%3D)**
+
+WSJ • 10h ago
 
 ---
 
@@ -163,7 +151,7 @@ Harvard Business Review • 13m ago
 
 China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
 
-CNN • 13h ago
+CNN • 15h ago
 
 ---
 
@@ -171,31 +159,37 @@ CNN • 13h ago
 
 The bank says scaling laws are holding firm — and the compute buildout underway at AI labs is about to pay off in ways that will surprise even the Street.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
-**[How we’re reimagining Maps with Gemini](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/)**
+**[Anthropic-Pentagon battle shows how big tech has reversed course on AI and war](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence)**
 
-Google Maps has two new AI features: Ask Maps and Immersive Navigation.
+Less than a decade ago, Google employees scuttled any military use of its AI. Now Anthropic is fighting Trump officials not over if, but how
 
-blog.google • 1d ago
-
----
-
-**[Google's AI Searches Love to Refer You Back to Google](https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/)**
-
-The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.
-
-WIRED • 30m ago
+The Guardian • 3h ago
 
 ---
 
-**[Google overhauls its Maps app, adding in more AI features to help people get around](https://apnews.com/article/google-maps-ai-gemini-update-1933c40eaecfdbb9aa54d8ae3efcec2e)**
+**[Inside the Dirty, Dystopian World of AI Data Centers](https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/)**
 
-Google Maps will depend more heavily on artificial intelligence to help people figure out where they want to go and the best way to get there as part of a major redesign unveiled Thursday.
+The race to power AI is already remaking the physical world.
 
-AP News • 1d ago
+The Atlantic • 2h ago
+
+---
+
+**[The Unlikely Red State Trying to Buck Trump and Big Tech](https://www.politico.com/news/magazine/2026/03/13/utah-lds-church-ai-big-tech-trump-00823634)**
+
+Politico • 5h ago
+
+---
+
+**[AI toys for young children need tighter rules, researchers warn](https://www.bbc.com/news/articles/clyg4wx6nxgo)**
+
+In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.
+
+BBC • 5h ago
 
 ---
 
@@ -205,15 +199,7 @@ AP News • 1d ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4148 • 💬 1631 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
-
----
-
-**[After outages, Amazon to make senior engineers sign off on AI-assisted changes](https://news.ycombinator.com/item?id=47323017)**
-
-AWS has suffered at least two incidents linked to the use of AI coding assistants.
-
-⬆️ 649 • 💬 481 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+⬆️ 4154 • 💬 1632 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -221,7 +207,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 646 • 💬 336 • 16h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 664 • 💬 345 • 17h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -229,7 +215,7 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 492 • 💬 195 • 2d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 493 • 💬 195 • 2d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -237,7 +223,7 @@ An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. Wh
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 410 • 💬 456 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 412 • 💬 456 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -273,7 +259,15 @@ Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG -
 
 A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
 
-⬆️ 196 • 💬 115 • 23h ago • [GitHub](https://github.com/jrswab/axe)
+⬆️ 199 • 💬 115 • 1d ago • [GitHub](https://github.com/jrswab/axe)
+
+---
+
+**[Grief and the AI split](https://news.ycombinator.com/item?id=47358206)**
+
+TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
+
+⬆️ 183 • 💬 302 • 15h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -287,7 +281,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 74K • 👍 4K • 💬 248 • ⏱️ 14:25 • 23h ago
+👁️ 74K • 👍 4K • 💬 248 • ⏱️ 14:25 • 1d ago
 
 ---
 
@@ -317,7 +311,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 88K • 👍 2K • 💬 592 • ⏱️ 15:01 • 20h ago
+👁️ 88K • 👍 2K • 💬 592 • ⏱️ 15:01 • 21h ago
 
 ---
 
@@ -327,7 +321,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 9K • 💬 5 • ⏱️ 11:51 • 23h ago
+👁️ 9K • 💬 5 • ⏱️ 11:51 • 1d ago
 
 ---
 
@@ -337,7 +331,7 @@ Burger King recently announced their new AI headsets, and you can already smell 
 
 📺 The Food Theorists
 
-👁️ 118K • 👍 7K • 💬 207 • ⏱️ 1:12 • 17h ago
+👁️ 118K • 👍 7K • 💬 207 • ⏱️ 1:12 • 18h ago
 
 ---
 
@@ -367,7 +361,7 @@ AI giant Anthropic is listing some of the white-collar jobs most likely to be im
 
 📺 CBS News
 
-👁️ 57K • 👍 668 • 💬 199 • ⏱️ 2:46 • 1d ago
+👁️ 57K • 👍 668 • 💬 199 • ⏱️ 2:46 • 2d ago
 
 ---
 
@@ -465,7 +459,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 159 • 12h ago
+⬇️ 6,439 • ❤️ 159 • 13h ago
 
 ---
 
@@ -610,7 +604,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 LoGeR enables long-term 3D video reconstruction by combining bidirectional priors with a hybrid memory system that includes parametric Test-Time Training and non-parametric sliding window attention mechanisms.
 
-▲ 52 • 💬 6 • ⭐ 353 • 9d ago
+▲ 52 • 💬 6 • ⭐ 353 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.03269) • [💻 code](https://github.com/Junyi42/LoGeR) • [🔗 project](https://loger-project.github.io/)
 
@@ -665,7 +659,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.7k • 🔱 3.5k • 1m ago
+⭐ 26.7k • 🔱 3.5k • 1h ago
 
 ---
 
@@ -675,7 +669,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.8k • 🔱 893 • 12h ago
+⭐ 19.8k • 🔱 893 • 13h ago
 
 ---
 
@@ -685,7 +679,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.1k • 🔱 1.3k • 1h ago
+⭐ 11.1k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -705,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.9k • 🔱 642 • 4h ago
+⭐ 8.9k • 🔱 642 • 5h ago
 
 ---
 
@@ -725,7 +719,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 736 • 9h ago
+⭐ 6.3k • 🔱 736 • 10h ago
 
 ---
 
@@ -735,7 +729,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 449 • 1h ago
+⭐ 3.9k • 🔱 449 • 2h ago
 
 ---
 
