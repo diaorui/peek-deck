@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T06:56:09.915187+00:00'
+updated: '2026-03-13T07:46:35.657973+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 06:56 UTC  
+**Last Updated:** March 13, 2026 at 07:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 52m ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 1h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 2h ago
 
 ---
 
@@ -104,7 +104,7 @@ ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá�
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 10h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 11h ago
 
 ---
 
@@ -156,7 +156,7 @@ Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer fo
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 14h ago
 
 The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -172,13 +172,13 @@ CoinDesk • 18h ago
 
 BlackRock today debuted the iShares Staked Ethereum Trust ETF (Nasdaq: ETHB) — the firm's first crypto exchange-traded fund to incorporate staking and its third spot crypto ETF overall.
 
-thedefiant.io • 13h ago
+thedefiant.io • 14h ago
 
 ---
 
 **[BlackRock’s New Staked Ethereum ETF (ETHB) Sees ‘Very, Very Solid’ $15.5 Million Debut, Says Analyst](https://www.tipranks.com/news/blackrocks-new-staked-ethereum-etf-ethb-sees-very-very-solid-15-5-million-debut-says-analyst)**
 
-TipRanks • 2h ago
+TipRanks • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ TipRanks • 2h ago
 
 The new ETHB fund launched with over $100 million in assets and traded more than $15 million on day one, offering investors exposure to ethereum plus staking rewards.
 
-CoinDesk • 31m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ CoinDesk • 31m ago
 
 Crypto investors need to keep their eyes on the arrival of altcoin season.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -222,7 +222,7 @@ Binance • 5d ago
 
 ​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 519 • 💬 97 • ⏱️ 19:58 • 15h ago
+👁️ 15K • 👍 519 • 💬 97 • ⏱️ 19:58 • 16h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 913 • 👍 83 • 💬 1 • ⏱️ 4:49 • 5h ago
+👁️ 913 • 👍 83 • 💬 1 • ⏱️ 4:49 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 2K • 👍 40 • 💬 4 • ⏱️ 7:47 • 10h ago
+👁️ 2K • 👍 40 • 💬 4 • ⏱️ 7:47 • 11h ago
 
 ---
 
@@ -276,7 +276,7 @@ The wait is over! BlackRock (the world's biggest money manager) just turned on t
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 453 • 💬 89 • ⏱️ 2:00:28 • 14h ago
+👁️ 7K • 👍 453 • 💬 89 • ⏱️ 2:00:28 • 15h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 6K • 👍 243 • 💬 184 • ⏱️ 14:40 • 8h ago
+👁️ 6K • 👍 243 • 💬 184 • ⏱️ 14:40 • 9h ago
 
 ---
 
@@ -316,7 +316,7 @@ Hier kannst du mich unterstützen und die die Börse BYDFI ansehen! OFFIZIELLER 
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 396 • 💬 92 • ⏱️ 13:45 • 1h ago
+👁️ 1K • 👍 396 • 💬 92 • ⏱️ 13:45 • 2h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T06:56:09.917942+00:00'
+updated: '2026-03-13T07:46:35.660830+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 06:56 UTC  
+**Last Updated:** March 13, 2026 at 07:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
-20h ago
+21h ago
 
 ---
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -56,7 +56,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-16h ago
+17h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune 
 
 **[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -92,7 +92,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. If you're running perception on constrained hardware I'd love your input. Is memory the bottleneck? Would fitting a larger model in the same budget actually help?
 
-6h ago
+7h ago
 
 ---
 
@@ -100,7 +100,7 @@ Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. I
 
 Researchers have built a small wheeled robot designed to travel inside the beam pipes of the Large Hadron Collider. The collider’s vacuum tubes run for long distances and are extremely narrow, which makes internal inspection difficult once the system is assembled. The robot is designed to move through these confined spaces and capture information about the condition of the pipe interior, helping identify potential debris, damage, or other issues. Because the environment is so constrained, the system has to be compact and able to move carefully through the pipe without interfering with the structure or instrumentation.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 11h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 12h ago
 
 ---
 
@@ -112,7 +112,7 @@ Researchers have built a small wheeled robot designed to travel inside the beam 
 
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -142,7 +142,7 @@ TechCrunch • 1d ago
 
 As part of a competition, they had to build robots them use them to complete missions on a game table.
 
-BBC • 46m ago
+BBC • 1h ago
 
 ---
 
@@ -150,7 +150,7 @@ BBC • 46m ago
 
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
-New Hampshire Public Radio • 15h ago
+New Hampshire Public Radio • 16h ago
 
 ---
 
@@ -196,7 +196,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 44K • 👍 4K • 💬 595 • ⏱️ 5:32 • 14h ago
+👁️ 44K • 👍 4K • 💬 595 • ⏱️ 5:32 • 15h ago
 
 ---
 
@@ -206,7 +206,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 96 • ⏱️ 1:10 • 6h ago
+👁️ 3K • 👍 96 • ⏱️ 1:10 • 7h ago
 
 ---
 
@@ -224,7 +224,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 Robot Julie 
 
-👁️ 930 • 👍 7 • 💬 1 • ⏱️ 0:24 • 3h ago
+👁️ 930 • 👍 7 • 💬 1 • ⏱️ 0:24 • 4h ago
 
 ---
 
@@ -234,7 +234,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 4K • 👍 178 • 💬 18 • ⏱️ 8:34 • 14h ago
+👁️ 4K • 👍 178 • 💬 18 • ⏱️ 8:34 • 15h ago
 
 ---
 
@@ -282,7 +282,7 @@ Join Our Community the Dhar Mann Studios Discord is open now, join here: http://
 
 📺 zhulongfeng 6
 
-👁️ 838 • 👍 8 • ⏱️ 0:23 • 6h ago
+👁️ 838 • 👍 8 • ⏱️ 0:23 • 7h ago
 
 ---
 

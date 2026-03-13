@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T06:56:09.902527+00:00'
+updated: '2026-03-13T07:46:35.644965+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 06:56 UTC  
+**Last Updated:** March 13, 2026 at 07:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free d
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ The first release candidate of systemd 260 arrived in late February with the new
 
 The forum-style app has sparked interest by showing how AI bots interact without human involvement.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 22h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 23h ago
 
 ---
 
@@ -73,7 +73,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 22h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 23h ago
 
 ---
 
@@ -81,7 +81,7 @@ The AI tool has become the country's latest tech obsession. For savvy early adop
 
 (hypothetical) BrainBot v1.0 is an expert surgical robot - certified by a reputable medical board for cancer removal, with an indelible hardware identity binding it to the specific software stack that earned that certification. Its track record is exceptional. Then v2.0 arrives. Better. Faster. More capable. What should happen to v1.0? Should its certifications be revoked? Simply flagged as obsolete while keeping them? When the physical machine is eventually scrapped, should its identity be destroyed along with it? Should certifications survive the hardware, or die with it? Most of those options converge on the same outcome: a machine (potentially rescued from "trash") that is still (arguably) just as capable as it ever was, now made significantly less valuable - and therefore significantly more affordable. That's where it gets uncomfortable. If I'm about to go under the scalpel, I want to know that the machine cutting into me is the actual one, running the actual certified software, approved for the actual procedure it's about to perform. But how much of that assurance should I have to surrender if I can't afford v2.0? And what about someone in a country where v2.0 will never arrive - where BrainBot v1.0 is the most sophisticated surgical option available, possibly for decades? Who decides what an "obsolete" machine is permitted to keep doing? The manufacturer, who has an obvious commercial interest in obsolescence? The certifying medical board? A government regulator? An international standards body that may have no understanding of local conditions? And underneath all of this is a harder question that we don't have a framework for yet: what is the machine's identity actually for - accountability, capability, or both? Because those point in very different directions when the hardware gets old. This isn't hypothetical. The agents are arriving. The robots are already here in manufacturing, increasingly in medicine and law, and soon in construction and critical infrastructure. We need answers before the edge cases start making themselves known in operating theatres.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Meta buys Moltbook and hires its founders as the race for autonomous AI agents i
 
 Post by @emil
 
-🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 23h ago
+🔗 [Digg](https://digg.com/technology/X7eL0Bz/niantic-spatial-partners-with-coco-robotics) • 1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Over the past two years AMD has developed the AMDXDNA accelerator driver in the 
 
 **[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -131,13 +131,13 @@ The New York Times • 21h ago
 
 Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
 **[REITs Are a Safe Place to Hide From Iran and AI](https://www.barrons.com/articles/reits-safe-place-hide-from-iran-ai-89493833?gaa_at=eafs&gaa_n=AWEtsqeTkAsB2nng92UK8OYpAB_EUId325whLcArvahR8INEyeiVcdnBeik8&gaa_ts=69b3b86e&gaa_sig=4ETkPngrYS6qFP2lA1ONWn_uG55hNlhK98TFrgeChLXxvdFqtglpHlzvBAdW3OwrxyPmhcoEu8uzzM5Rf4q8JQ%3D%3D)**
 
-Barron's • 56m ago
+Barron's • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Barron's • 56m ago
 
 An Amazon tech lead who rose quickly building AI products shares tips for vibe coding and avoiding common mistakes.
 
-Business Insider • 7m ago
+Business Insider • 58m ago
 
 ---
 
@@ -153,7 +153,7 @@ Business Insider • 7m ago
 
 Microsoft Corporation (NASDAQ:MSFT) is one of the 11 Best Large-Cap Tech Stocks to Invest In. On March 5, TheFly reported that Jefferies analyst Brent Thill reiterated his Buy rating on Microsoft Corporation (NASDAQ:MSFT) while maintaining a price target of $675. Thill’s price target of $675 is higher than the average price target of $600 from […]
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 1h ago
 
 China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNN • 7h ago
 
 Google’s newest London building, Platform 37, is named to honor Google DeepMind’s AlphaGo.
 
-blog.google • 20h ago
+blog.google • 21h ago
 
 ---
 
@@ -177,7 +177,7 @@ blog.google • 20h ago
 
 Google is turning Maps into a Gemini-powered tool.
 
-The Verge • 18h ago
+The Verge • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Verge • 18h ago
 
 A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.
 
-TechCrunch • 17h ago
+TechCrunch • 18h ago
 
 ---
 
@@ -287,7 +287,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 64K • 👍 3K • 💬 257 • ⏱️ 14:25 • 17h ago
+👁️ 64K • 👍 3K • 💬 257 • ⏱️ 14:25 • 18h ago
 
 ---
 
@@ -297,7 +297,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 9K • 💬 1 • ⏱️ 11:51 • 16h ago
+👁️ 9K • 💬 1 • ⏱️ 11:51 • 17h ago
 
 ---
 
@@ -337,7 +337,7 @@ Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks 
 
 📺 AI Samson
 
-👁️ 7K • 👍 461 • 💬 51 • ⏱️ 13:02 • 20h ago
+👁️ 7K • 👍 461 • 💬 51 • ⏱️ 13:02 • 21h ago
 
 ---
 
@@ -347,7 +347,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 74K • 👍 1K • 💬 524 • ⏱️ 15:01 • 13h ago
+👁️ 74K • 👍 1K • 💬 524 • ⏱️ 15:01 • 14h ago
 
 ---
 
@@ -357,7 +357,7 @@ Burger King recently announced their new AI headsets, and you can already smell 
 
 📺 The Food Theorists
 
-👁️ 95K • 👍 6K • 💬 182 • ⏱️ 1:12 • 11h ago
+👁️ 95K • 👍 6K • 💬 182 • ⏱️ 1:12 • 12h ago
 
 ---
 
@@ -477,7 +477,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 2,849 • ❤️ 150 • 6h ago
+⬇️ 2,849 • ❤️ 150 • 7h ago
 
 ---
 
@@ -665,7 +665,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.6k • 🔱 3.5k • 8h ago
+⭐ 26.6k • 🔱 3.5k • 9h ago
 
 ---
 
@@ -675,7 +675,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.7k • 🔱 883 • 6h ago
+⭐ 19.7k • 🔱 883 • 7h ago
 
 ---
 
@@ -685,7 +685,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.1k • 🔱 1.3k • 8m ago
+⭐ 11.1k • 🔱 1.3k • 58m ago
 
 ---
 
@@ -695,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.8k • 🔱 634 • 42m ago
+⭐ 8.8k • 🔱 634 • 1h ago
 
 ---
 
@@ -725,7 +725,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 734 • 2h ago
+⭐ 6.2k • 🔱 734 • 3h ago
 
 ---
 
@@ -735,7 +735,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 446 • 42m ago
+⭐ 3.9k • 🔱 446 • 1h ago
 
 ---
 
