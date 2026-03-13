@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T22:55:53.050771+00:00'
+updated: '2026-03-13T23:30:32.543317+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 22:55 UTC  
+**Last Updated:** March 13, 2026 at 23:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 7h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ See which U.S. states are adopting AI at work fastest, based on U.S. Census data
 
 Ok this might be dumb. Spent a lot of time loking at llms.txt and thinking about content and ai AUTHORSHIP. So I made identity.txt, does the same thing as llms.txt for people. The problem: every AI tool has "custom instructions" but they're siloed. Switch tools and you lose everything. Your tone, your expertise, your preferences. You end up re-explaining yourself constantly. identity.txt is just a markdown file. Same idea as llms.txt, humans.txt, robots.txt. You write it once and it works everywhere. Paste it into ChatGPT, Claude, Gemini, wherever. Or host it at yourdomain.com/identity.txt and link to it. What's in it: - Your name (H1 heading) - Sections like ## Voice (how you write), ## Expertise (what you know), ## Preferences (hard rules) - A ## Terms section - basically robots.txt for your identity. We're also experimenting with hosting at identitytxt.org where you sign in with Google and get a permanent URL. But honestly the spec is the point, not the service. Self-hosting works fine. This is very early and experimental. We're trying to start a conversation about portable identity for AI, not ship a finished product. The spec is CC-BY 4.0 and completely open: https://github.com/Fifty-Five-and-Five/identitytxt Would love to know: do you find yourself re-explaining who you are to AI tools? Is a file convention the right answer or is there a better approach? https://identitytxt.org
 
-55m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Ok this might be dumb. Spent a lot of time loking at llms.txt and thinking about
 
 We built ArkSim which help simulate multi-turn conversations between agents and synthetic users to see how it behaves across longer interactions. This can help find issues like: - Agents losing context during longer interactions - Unexpected conversation paths - Failures that only appear after several turns The idea is to test conversation flows more like real interactions, instead of just single prompts and capture issues early on. There are currently integration examples for: - OpenAI Agents SDK - Claude Agent SDK - Google ADK - LangChain / LangGraph - CrewAI - LlamaIndex you can try it out here: https://github.com/arklexai/arksim The integration examples are in the examples/integration folder would appreciate any feedback from people currently building agents so we can improve the tool!
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 18h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 19h ago
 
 ---
 
@@ -121,50 +121,6 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 ## Google News: "ai"
 
-**[Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races](https://www.cnn.com/2026/03/13/politics/james-talarico-ai-deepfake-republicans-midterms)**
-
-Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
-
-CNN • 6h ago
-
----
-
-**[Inside the Dirty, Dystopian World of AI Data Centers](https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/)**
-
-The race to power AI is already remaking the physical world.
-
-The Atlantic • 10h ago
-
----
-
-**[Run OpenClaw Locally On AMD Ryzen™ AI Max+ Processors and Radeon™ GPUs](https://www.amd.com/en/resources/articles/run-openclaw-locally-on-amd-ryzen-ai-max-and-radeon-gpus.html)**
-
-AMD • 1h ago
-
----
-
-**[The Age of Eerie A.I. Political Ads Is Here](https://www.nytimes.com/2026/03/13/us/politics/ai-ads-campaign-deepfake.html)**
-
-The New York Times • 42m ago
-
----
-
-**[AI meal planning goes heavier on fats and proteins, nutritionists warn](https://www.cbsnews.com/chicago/video/ai-meal-planning-goes-heavier-on-fats-and-proteins-nutritionists-warn/)**
-
-Nutritionists are warning teens who use AI for meal planning that they are not being supplied with health and balanced recipes. Instead, AI goes heavy on fats and proteins.
-
-CBS News • 1h ago
-
----
-
-**[Anthropic-Pentagon battle shows how big tech has reversed course on AI and war](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence)**
-
-Less than a decade ago, Google employees scuttled any military use of its AI. Now Anthropic is fighting Trump officials not over if, but how
-
-The Guardian • 11h ago
-
----
-
 **[Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)**
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
@@ -173,25 +129,67 @@ Financial Times • 7h ago
 
 ---
 
-**[AI agents could easily send college grad unemployment over 30%, ServiceNow CEO says](https://www.cnbc.com/2026/03/13/software-ai-agents-college-graduate-unemployment.html)**
+**[Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races](https://www.cnn.com/2026/03/13/politics/james-talarico-ai-deepfake-republicans-midterms)**
 
-Technology companies, including Block and Atlassian, have already cut jobs this year due to AI adoption.
+Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
 
-CNBC • 6h ago
-
----
-
-**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqdaE3NgTiMJAGH6bIUnZPsFzbBmIOt9dy4ugwxIPOyaJAxP3zYCINOL&gaa_ts=69b49334&gaa_sig=6ajsEG7nkj_ao_qK2o-wUiKy1EQP6sSPDwVd53vflE_9IUFcfjj6d3p83PN0puhF7pK_HlAFkYn27E88WHFpLg%3D%3D)**
-
-WSJ • 18h ago
+CNN • 6h ago
 
 ---
 
-**[She uses AI for everything. Her husband thinks AI is a menace.](https://www.washingtonpost.com/lifestyle/2026/03/13/ai-use-gap-relationships/)**
+**[The Age of Eerie A.I. Political Ads Is Here](https://www.nytimes.com/2026/03/13/us/politics/ai-ads-campaign-deepfake.html)**
 
-What happens to a relationship when one partner depends on a chatbot for everything and the other is an AI-skeptic?
+The New York Times • 1h ago
 
-The Washington Post • 5h ago
+---
+
+**[As AI reshapes work, what should workers do next?](https://news.stanford.edu/stories/2026/03/ai-workplace-job-disruption-advice-siepr-summit)**
+
+Stanford University • 12m ago
+
+---
+
+**[Inside the Dirty, Dystopian World of AI Data Centers](https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/)**
+
+The race to power AI is already remaking the physical world.
+
+The Atlantic • 11h ago
+
+---
+
+**[The Unlikely Red State Trying to Buck Trump and Big Tech](https://www.politico.com/news/magazine/2026/03/13/utah-lds-church-ai-big-tech-trump-00823634)**
+
+Politico • 14h ago
+
+---
+
+**[Nvidia's GTC will mark an AI chip pivot. Here's why the CPU is taking center stage](https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html)**
+
+Nvidia and AMD are seeing huge demand for CPUs and Jensen Huang is poised to unveil details for processors specialized for agentic AI at the GTC conference.
+
+CNBC • 4h ago
+
+---
+
+**[Anthropic-Pentagon battle shows how big tech has reversed course on AI and war](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence)**
+
+Less than a decade ago, Google employees scuttled any military use of its AI. Now Anthropic is fighting Trump officials not over if, but how
+
+The Guardian • 12h ago
+
+---
+
+**[Exclusive | China’s ByteDance Gets Access to Top Nvidia AI Chips](https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a?gaa_at=eafs&gaa_n=AWEtsqfsOGYPOBGajTBbgYG_QXGse15911XzRv5EzJM2XIcmzWD0e-sY0SsW&gaa_ts=69b4a17f&gaa_sig=iIBlGc9JcmvTRhYFknVNAQM9QY41GBNXMOuE1RBdjLVFWmPAGnUIE6XUcJwpWrOm0zIRJ8gV_jVck_OyhZJWVw%3D%3D)**
+
+WSJ • 19h ago
+
+---
+
+**[AI promised supreme productivity, but it’s actually straining workloads for employees—time spent emailing has doubled, and focused work sessions fell by 9%](https://fortune.com/2026/03/13/ai-isnt-reducing-workloads-its-straining-employees-time-spent-emailing-doubled-deep-focus-work-fell/)**
+
+Workers who use AI are spending up to 346% more time on their daily tasks, from messaging to business management: “The data is unambiguous: AI does not reduce workloads.”
+
+Fortune • 7h ago
 
 ---
 
@@ -201,7 +199,7 @@ The Washington Post • 5h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4177 • 💬 1647 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4177 • 💬 1648 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -209,7 +207,7 @@ The Washington Post • 5h ago
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 714 • 💬 207 • 10h ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 809 • 💬 224 • 10h ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -217,7 +215,7 @@ Detect your hardware and find out which AI models you can run locally. GPU, CPU,
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 712 • 💬 370 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 715 • 💬 372 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -237,6 +235,14 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 ---
 
+**[Elon Musk pushes out more xAI founders as AI coding effort falters](https://news.ycombinator.com/item?id=47366666)**
+
+Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
+
+⬆️ 243 • 💬 340 • 6h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+
+---
+
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
 ⬆️ 222 • 💬 300 • 2d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
@@ -247,7 +253,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 214 • 💬 359 • 1d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 214 • 💬 360 • 1d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -255,21 +261,13 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
 
-⬆️ 206 • 💬 118 • 1d ago • [GitHub](https://github.com/jrswab/axe)
-
----
-
-**[Elon Musk pushes out more xAI founders as AI coding effort falters](https://news.ycombinator.com/item?id=47366666)**
-
-Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
-
-⬆️ 196 • 💬 236 • 6h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 208 • 💬 118 • 1d ago • [GitHub](https://github.com/jrswab/axe)
 
 ---
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 183 • 💬 255 • 5h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 201 • 💬 285 • 5h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -283,7 +281,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 23K • 👍 1K • 💬 142 • ⏱️ 33:33 • 6h ago
+👁️ 23K • 👍 1K • 💬 142 • ⏱️ 33:33 • 7h ago
 
 ---
 
@@ -293,7 +291,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 17K • 👍 1K • 💬 207 • ⏱️ 3:28 • 3h ago
+👁️ 17K • 👍 1K • 💬 207 • ⏱️ 3:28 • 4h ago
 
 ---
 
@@ -323,7 +321,7 @@ Rich DeMuro checks out an AI-powered drive-through scanner that can spot potenti
 
 📺 KTLA 5
 
-👁️ 8K • 👍 164 • 💬 71 • ⏱️ 2:50 • 8h ago
+👁️ 8K • 👍 164 • 💬 71 • ⏱️ 2:50 • 9h ago
 
 ---
 
@@ -389,7 +387,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 53,243 • ❤️ 570 • 5d ago
+⬇️ 53,243 • ❤️ 570 • 6d ago
 
 ---
 
@@ -449,7 +447,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 169 • 3h ago
+⬇️ 6,439 • ❤️ 169 • 4h ago
 
 ---
 
@@ -473,7 +471,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 6,113 • ❤️ 158 • 3h ago
+⬇️ 6,113 • ❤️ 158 • 4h ago
 
 ---
 
@@ -661,7 +659,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.8k • 🔱 3.5k • 9m ago
+⭐ 26.8k • 🔱 3.5k • 44m ago
 
 ---
 
@@ -671,7 +669,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.0k • 🔱 903 • 3m ago
+⭐ 20.0k • 🔱 903 • 38m ago
 
 ---
 
@@ -721,7 +719,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 739 • 4m ago
+⭐ 6.3k • 🔱 739 • 39m ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T22:55:53.068287+00:00'
+updated: '2026-03-13T23:30:32.562104+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 22:55 UTC  
+**Last Updated:** March 13, 2026 at 23:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-11h ago
+12h ago
 
 ---
 
@@ -44,19 +44,19 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-3h ago
+4h ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -68,17 +68,25 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 ---
 
-**[Incident avec un bras robot SO101 pendant un stage](https://www.reddit.com/r/robotics/comments/1rswbow/incident_avec_un_bras_robot_so101_pendant_un_stage/)**
+**[Gig workers are strapping cameras on their bodies to do chores to help train humanoids](https://www.reddit.com/r/robotics/comments/1rt2dxm/gig_workers_are_strapping_cameras_on_their_bodies/)**
 
-Salut tout le monde, Je suis en stage en robotique et je devais assembler et programmer un bras robot SO101. Pendant un test de téléopération, le robot a fait un geste brusque. Le servomoteur de la première articulation s'est arrêté, mais les autres bougeaient encore (je pense que c'est ce qui s'est passé). Du coup la pièce en plastique autour s'est cassée. Je ne comprends pas. Peut-être un problème d'alimentation ? Une batterie faible ? Un problème de calibration ? Ou alors le servomoteur lui-même a lâché ? Pourtant je les avais testés avant et tout marchait. Vous avez une idée de ce qui a pu se passer ? Ce genre de chose arrive souvent ? Je me sens mal parce que c'est du matériel pro, pas mon projet perso. Merci
+AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-3h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 41m ago
 
 ---
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
 22h ago
+
+---
+
+**[Robot Takeover… We Tested Smart Glasses 🤖](https://www.reddit.com/r/robotics/comments/1rt206k/robot_takeover_we_tested_smart_glasses/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/81UMAbBqeyI) • 56m ago
 
 ---
 
@@ -98,29 +106,15 @@ ROS News for the week of March 9th, 2026    The call for proposals for Global RO
 
 ---
 
-**[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
-
-Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
-
-TechCrunch • 3h ago
-
----
 
 **[Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport](https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html)**
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 51m ago
+CNBC • 1h ago
 
 ---
 
@@ -128,11 +122,19 @@ CNBC • 51m ago
 
 Travis Kalanick, the co-founder and former chief executive of Uber, on Friday launched his startup, ‌Atoms, focused on specialized industrial robotics designed to automate ‌tasks in the mining, transport and food sectors.  Kalanick is betting that task-specific ​machines are the key to improving industrial productivity.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfEk4A-hE7Av5Edy-d_ymq1CaweekGQRSglBxvX6RqOAAJKLJCV6QbF&gaa_ts=69b49336&gaa_sig=5h51cpWFzpN3FAlMpcLE_BJPXCBhgKTONmWAtdLeLhDFLtKWwtBcfd9qzMxl2fbYXk3Zu9r6g8t8wbCbXjYodw%3D%3D)**
+**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
+
+Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
+
+TechCrunch • 4h ago
+
+---
+
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfbnK4doD_aviDif4AymHgpSzCBLgR-UOLCaO5qe9MEk8gX7Uho-xHG&gaa_ts=69b4a183&gaa_sig=TM_8XVu4OpDSbml4kJ-WxgGZ9QA7fnAqZWT6RICJomYIYhdOLMtkmkIfnbgzcP89d8qGabfpOOlKU0ipf_QPYw%3D%3D)**
 
 WSJ • 2d ago
 
@@ -146,11 +148,19 @@ TechCrunch • 2d ago
 
 ---
 
-**[Rivian-owned robotics company secures more startup funding](https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding)**
+**[Rivian spinout Mind Robotics valued at $2 billion in Series A funding round](https://finance.yahoo.com/news/rivian-spinout-mind-robotics-valued-180654489.html)**
 
-A startup robotics company owned by Rivian and founded by Rivian CEO RJ Scaringe has secured $500 million in startup capital. Mind Robotics announced an investment by Accel and Andreessen Horowitz. The firm wants to build AI-powered industrial robots.
+Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
-WGLT • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
+
+Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
+
+NPR • 9h ago
 
 ---
 
@@ -175,14 +185,6 @@ Quanta Magazine • 8h ago
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
 TechCrunch • 1d ago
-
----
-
-**[Kamen resigns from FIRST robotics in wake of Epstein ties](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire)**
-
-Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
-
-New Hampshire Public Radio • 1d ago
 
 ---
 
@@ -236,7 +238,7 @@ Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major 
 
 📺 FUN Robotics Network
 
-👁️ 5K • 👍 181 • ⏱️ 1:10 • 22h ago
+👁️ 5K • 👍 181 • ⏱️ 1:10 • 23h ago
 
 ---
 
@@ -286,7 +288,7 @@ Shooter and Quest Nav Camera | 573 Mech Warriors | FRC Pit Stop This video is su
 
 📺 FUN Robotics Network
 
-👁️ 280 • 👍 2 • ⏱️ 1:02 • 2h ago
+👁️ 280 • 👍 2 • ⏱️ 1:02 • 3h ago
 
 ---
 

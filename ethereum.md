@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T22:55:53.065102+00:00'
+updated: '2026-03-13T23:30:32.558813+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 22:55 UTC  
+**Last Updated:** March 13, 2026 at 23:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +5.8%  
-**30d:** +6.9%  
-**90d:** -32.1%  
-**1y:** +8.9%  
+**24h:** -1.1%  
+**7d:** +6.4%  
+**30d:** +7.5%  
+**90d:** -31.7%  
+**1y:** +9.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 5h ago
+🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 6h ago
 
 ---
 
@@ -80,13 +80,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
 **[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 7h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 8h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
 
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 12h ago
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 13h ago
 
 ---
 
@@ -108,7 +108,7 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 16h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 17h ago
 
 ---
 
@@ -156,19 +156,19 @@ The Block • 1d ago
 
 ---
 
-**[BlackRock's staked Ethereum ETF records over $15.5 million volume on first day](https://www.theblock.co/post/393497/blackrock-staked-ethereum-etf-first-day)**
-
-Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
-
-The Block • 15h ago
-
----
-
 **[BlackRock debuts staked ether ETF as demand grows for yield in crypto funds](https://www.coindesk.com/markets/2026/03/12/blackrock-debuts-staked-ether-etf-as-demand-grows-for-yield-in-crypto-funds)**
 
 The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
 
 CoinDesk • 1d ago
+
+---
+
+**[BlackRock's staked Ethereum ETF records over $15.5 million volume on first day](https://www.theblock.co/post/393497/blackrock-staked-ethereum-etf-first-day)**
+
+Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
+
+The Block • 16h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 1d ago
 
 Dubai, UAE, March  13, 2026  (GLOBE NEWSWIRE) -- Pepeto announced an update to the presale total reaching $7.98 million, reflecting continuous gro...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 135 • 💬 4 • ⏱️ 6:41 • 9h ago
+👁️ 2K • 👍 135 • 💬 4 • ⏱️ 6:41 • 10h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM PRICE PREDICTION MARCH 13.
 
 📺 Overkill Trading
 
-👁️ 326 • 👍 19 • 💬 1 • ⏱️ 2:55 • 2h ago
+👁️ 326 • 👍 19 • 💬 1 • ⏱️ 2:55 • 3h ago
 
 ---
 
@@ -288,7 +288,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 114 • 💬 17 • ⏱️ 37:23 • 12h ago
+👁️ 3K • 👍 114 • 💬 17 • ⏱️ 37:23 • 13h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 2 • ⏱️ 4:49 • 21h ago
+👁️ 2K • 👍 115 • 💬 2 • ⏱️ 4:49 • 22h ago
 
 ---
 
