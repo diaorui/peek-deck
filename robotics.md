@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T07:46:35.660830+00:00'
+updated: '2026-03-13T08:41:40.215628+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 07:46 UTC  
+**Last Updated:** March 13, 2026 at 08:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 **[First recorded case of a humanoid robot being arrested by the police](https://www.reddit.com/r/robotics/comments/1rrwt62/first_recorded_case_of_a_humanoid_robot_being/)**
 
-14h ago
+15h ago
 
 ---
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -56,7 +56,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 The viobot2 based syereo vision real-time localization and point-to-point navigation system. Utilizing lidar for high-precision environmental mapping, integrated with VIOBOT2's visual-inertial odometry for real-time pose estimation and dynamic path planning.
 
-17h ago
+18h ago
 
 ---
 
@@ -64,7 +64,21 @@ The viobot2 based syereo vision real-time localization and point-to-point naviga
 
 Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune for people interested in robotics, automation, hardware, and manufacturing. This meetup will focus on practical discussions around building and working in robotics, and it’s open to students, hobbyists, engineers, and founders. Some of the topics we’ll cover include: Building your first real robotics system Simulation tools used in robotics development Building robots with 3D printing Robotics startups vs manufacturing companies Startup and product development in robotics Project showcase from community members The goal of the meetup is to bring together people who are building, learning, or working in robotics and create a space for discussions, networking, and collaboration. Meetup details Date: Saturday, 14 March Time: 5:30 PM onwards Location: Near Baner Zudio, Pune (exact location shared with confirmed participants) Register for the meetup: https://forms.gle/2aYqxBBKVEwsAWmKA Join our WhatsApp community: https://chat.whatsapp.com/FrXfAJZCogSBwdRtY80Ip9 Feel free to ask questions in the comments.
 
+2h ago
+
+---
+
+**[Building a navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 3)](https://www.reddit.com/r/robotics/comments/1rsgb8z/building_a_navigation_software_that_will_only/)**
+
+Today we put it on a real raspberry pi > Wrote some basic motion control functionality on the pi > Connected the pi to our cloud server to stream camera footage > Tested our VLM + Depth Model pipeline with real world footage > Did some prompt engineering > Tunned the frequency of inference to avoid frames captured mid-motion Still a long way to go and a lot of different models, pipelines and approaches to try, but we'll get there
+
 1h ago
+
+---
+
+**[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
+
+19h ago
 
 ---
 
@@ -74,17 +88,11 @@ Hi everyone, We’re organizing the next The Robotics Conference Meetup in Pune 
 
 ---
 
-**[Review on Insight 9 from Looper Robotics](https://www.reddit.com/r/robotics/comments/1rrq1oz/review_on_insight_9_from_looper_robotics/)**
-
-18h ago
-
----
-
 **[Building a navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 2)](https://www.reddit.com/r/robotics/comments/1rrlesj/building_a_navigation_software_that_will_only/)**
 
 I built lots of robots and drones curing college, sadly most were just a mechanical system with basic motion not much intelligence. DAY 2 of building a software to make it extremely easy to add intelligent navigation to any robot, with just a camera, and cheap hardware. > Improve the U.I. > Stablish a multi-step process for the VLM to make better reasoning > Reduce the latency coming from the simulation > Built a test robot to test in the real world > Last but not least, we gave it a name: ODYSEUS
 
-22h ago
+23h ago
 
 ---
 
@@ -92,15 +100,7 @@ I built lots of robots and drones curing college, sadly most were just a mechani
 
 Working on compressing vision models (ViTs/VLAs) for onboard robot deployment. If you're running perception on constrained hardware I'd love your input. Is memory the bottleneck? Would fitting a larger model in the same budget actually help?
 
-7h ago
-
----
-
-**[Researchers Built a Tiny Robot to Inspect the Large Hadron Collider](https://www.reddit.com/r/robotics/comments/1rs10du/researchers_built_a_tiny_robot_to_inspect_the/)**
-
-Researchers have built a small wheeled robot designed to travel inside the beam pipes of the Large Hadron Collider. The collider’s vacuum tubes run for long distances and are extremely narrow, which makes internal inspection difficult once the system is assembled. The robot is designed to move through these confined spaces and capture information about the condition of the pipe interior, helping identify potential debris, damage, or other issues. Because the environment is so constrained, the system has to be compact and able to move carefully through the pipe without interfering with the structure or instrumentation.
-
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/small-robot-designed-to-inspect-beamlines-at-cern) • 12h ago
+8h ago
 
 ---
 
@@ -112,11 +112,35 @@ Researchers have built a small wheeled robot designed to travel inside the beam 
 
 Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
 
-TechCrunch • 14h ago
+TechCrunch • 15h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqc8uzbljd68_FkXR_YxETTKQCiKJ7DOEyQOyBtgtTNaATivIKWdLDp8&gaa_ts=69b3b875&gaa_sig=eFSy_Nzmyf659URJzMf6G1hNsz2xocNU8qvvvvYl6TrsLWhEKbokPJpYjCAc73tbRwiYOZ_s2-07uug-mSSl5g%3D%3D)**
+**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
+
+Network of training farms aims to supply data needed to put ‘brains’ into machines
+
+Financial Times • 1d ago
+
+---
+
+**[Cornish pupils build Lego robots to solve engineering problems](https://www.bbc.com/news/articles/cx2dzk8j71ko)**
+
+As part of a competition, they had to build robots them use them to complete missions on a game table.
+
+BBC • 2h ago
+
+---
+
+**[Kamen resigns from FIRST robotics in wake of Epstein ties](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire)**
+
+Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
+
+New Hampshire Public Radio • 17h ago
+
+---
+
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfsuHN4sGnz9XV53Ne9i8zyFv37jA2x9-luAmcjmqrLIG2FlYj6woEv&gaa_ts=69b3d134&gaa_sig=kVTpwbQEjvFwURtjCuo6ZG73P3E1IMY__8hC1U1WKXSaw85XyLchwgkkjVdSCIpiRrle0x5cnrZq6OhAws_Baw%3D%3D)**
 
 WSJ • 1d ago
 
@@ -138,35 +162,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Cornish pupils build Lego robots to solve engineering problems](https://www.bbc.com/news/articles/cx2dzk8j71ko)**
-
-As part of a competition, they had to build robots them use them to complete missions on a game table.
-
-BBC • 1h ago
-
----
-
-**[Kamen resigns from FIRST robotics in wake of Epstein ties](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire)**
-
-Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
-
-New Hampshire Public Radio • 16h ago
-
----
-
 **[Serve Robotics CEO talks Q4 earnings, White Castle partnership](https://finance.yahoo.com/video/serve-robotics-ceo-talks-q4-213946704.html)**
 
 Serve Robotics (SERV) co-founder and CEO Ali Kashani joins Asking for a Trend host Josh Lipton to go over the company's fourth quarter earnings results. Watch the video above to learn more about the company's recently announced partnership with White Castle. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
-
-Network of training farms aims to supply data needed to put ‘brains’ into machines
-
-Financial Times • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 44K • 👍 4K • 💬 595 • ⏱️ 5:32 • 15h ago
+👁️ 44K • 👍 4K • 💬 595 • ⏱️ 5:32 • 16h ago
 
 ---
 
@@ -206,7 +206,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 96 • ⏱️ 1:10 • 7h ago
+👁️ 3K • 👍 96 • ⏱️ 1:10 • 8h ago
 
 ---
 
@@ -224,7 +224,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 Robot Julie 
 
-👁️ 930 • 👍 7 • 💬 1 • ⏱️ 0:24 • 4h ago
+👁️ 930 • 👍 7 • 💬 1 • ⏱️ 0:24 • 5h ago
 
 ---
 
@@ -234,7 +234,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 4K • 👍 178 • 💬 18 • ⏱️ 8:34 • 15h ago
+👁️ 4K • 👍 178 • 💬 18 • ⏱️ 8:34 • 16h ago
 
 ---
 
@@ -282,7 +282,7 @@ Join Our Community the Dhar Mann Studios Discord is open now, join here: http://
 
 📺 zhulongfeng 6
 
-👁️ 838 • 👍 8 • ⏱️ 0:23 • 7h ago
+👁️ 838 • 👍 8 • ⏱️ 0:23 • 8h ago
 
 ---
 

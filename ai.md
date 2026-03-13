@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T07:46:35.644965+00:00'
+updated: '2026-03-13T08:41:40.195284+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 07:46 UTC  
+**Last Updated:** March 13, 2026 at 08:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps rising and recall quality degrades. I took a different approach and built memory using actual cognitive science models. ACT-R activation decay, Hebbian learning, Ebbinghaus forgetting curves. The system actively forgets stale information and reinforces frequently-used memories, like how human memory works. After 30 days in production: 3,846 memories, 230K+ recalls, $0 inference cost (pure Python, no embeddings required). The biggest surprise was how much forgetting improved recall quality. Agents with active decay consistently retrieved more relevant memories than flat-store baselines. And I am working on multi-agent shared memory (namespace isolation + ACL) and an emotional feedback bus. Curious what approaches others are using for long-running agent memory.
 
-16h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free directory for discovering and comparing AI tools. It's completely free, no signup required to browse. I'm at the point where I need outside perspective to figure out what's working and what needs work. What I'd love your feedback on: - Is it easy to find tools you're looking for? - Are the categories/use cases useful? - Any features you'd expect to see that are missing? - What's the biggest friction point when using it? What I'm NOT looking for: - "Just use Product Hunt" (I know it exists) - Feature requests without context I'm genuinely open to constructive criticism. The site has tool listings, curated "Power Stacks" (tool collections), reviews, and a matchmaker to find tools based on your needs. Would love to hear what you all think. Thanks in advance
 
-7h ago
+8h ago
 
 ---
 
@@ -57,15 +57,7 @@ Hey everyone, I built AIPowerStacks (https://www.aipowerstacks.com) its a free d
 
 The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
 
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 3h ago
-
----
-
-**[Meta buys 'social media network for AI' Moltbook, and says the deal will bring "new ways for AI agents to work for people and businesses".](https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/)**
-
-The forum-style app has sparked interest by showing how AI bots interact without human involvement.
-
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 23h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 4h ago
 
 ---
 
@@ -73,7 +65,15 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 23h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 1d ago
+
+---
+
+**[Meta buys 'social media network for AI' Moltbook, and says the deal will bring "new ways for AI agents to work for people and businesses".](https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/)**
+
+The forum-style app has sparked interest by showing how AI bots interact without human involvement.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg1x788dreo) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ The AI tool has become the country's latest tech obsession. For savvy early adop
 
 (hypothetical) BrainBot v1.0 is an expert surgical robot - certified by a reputable medical board for cancer removal, with an indelible hardware identity binding it to the specific software stack that earned that certification. Its track record is exceptional. Then v2.0 arrives. Better. Faster. More capable. What should happen to v1.0? Should its certifications be revoked? Simply flagged as obsolete while keeping them? When the physical machine is eventually scrapped, should its identity be destroyed along with it? Should certifications survive the hardware, or die with it? Most of those options converge on the same outcome: a machine (potentially rescued from "trash") that is still (arguably) just as capable as it ever was, now made significantly less valuable - and therefore significantly more affordable. That's where it gets uncomfortable. If I'm about to go under the scalpel, I want to know that the machine cutting into me is the actual one, running the actual certified software, approved for the actual procedure it's about to perform. But how much of that assurance should I have to surrender if I can't afford v2.0? And what about someone in a country where v2.0 will never arrive - where BrainBot v1.0 is the most sophisticated surgical option available, possibly for decades? Who decides what an "obsolete" machine is permitted to keep doing? The manufacturer, who has an obvious commercial interest in obsolescence? The certifying medical board? A government regulator? An international standards body that may have no understanding of local conditions? And underneath all of this is a harder question that we don't have a framework for yet: what is the machine's identity actually for - accountability, capability, or both? Because those point in very different directions when the hardware gets old. This isn't hypothetical. The agents are arriving. The robots are already here in manufacturing, increasingly in medicine and law, and soon in construction and critical infrastructure. We need answers before the edge cases start making themselves known in operating theatres.
 
-2h ago
+3h ago
 
 ---
 
@@ -123,21 +123,23 @@ Over the past two years AMD has developed the AMDXDNA accelerator driver in the 
 
 **[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
-**[‘Exploit every vulnerability’: rogue AI agents published passwords and overrode anti-virus software](https://www.theguardian.com/technology/ng-interactive/2026/mar/12/lab-test-mounting-concern-over-rogue-ai-agents-artificial-intelligence)**
+**[AI toys for young children need tighter rules, researchers warn](https://www.bbc.com/news/articles/clyg4wx6nxgo)**
 
-Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behaviours
+In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.
 
-The Guardian • 18h ago
+BBC • 7h ago
 
 ---
 
-**[REITs Are a Safe Place to Hide From Iran and AI](https://www.barrons.com/articles/reits-safe-place-hide-from-iran-ai-89493833?gaa_at=eafs&gaa_n=AWEtsqeTkAsB2nng92UK8OYpAB_EUId325whLcArvahR8INEyeiVcdnBeik8&gaa_ts=69b3b86e&gaa_sig=4ETkPngrYS6qFP2lA1ONWn_uG55hNlhK98TFrgeChLXxvdFqtglpHlzvBAdW3OwrxyPmhcoEu8uzzM5Rf4q8JQ%3D%3D)**
+**[AI toys for young children must be more tightly regulated, say reseachers](https://www.theguardian.com/technology/2026/mar/13/ai-toys-young-children-tigher-regulations-reseachers)**
 
-Barron's • 1h ago
+University of Cambridge study finds AI-powered toys can misread emotions and respond inappropriately to children
+
+The Guardian • 1h ago
 
 ---
 
@@ -145,15 +147,15 @@ Barron's • 1h ago
 
 An Amazon tech lead who rose quickly building AI products shares tips for vibe coding and avoiding common mistakes.
 
-Business Insider • 58m ago
+Business Insider • 1h ago
 
 ---
 
-**[Jefferies Reaffirms Buy Rating on Microsoft Amid AI Strength](https://finance.yahoo.com/news/jefferies-reaffirms-buy-rating-microsoft-054625308.html)**
+**[If you want a promotion at Accenture, CEO says you’ve got to use AI](https://fortune.com/2026/03/13/accenture-ceo-julie-sweet-ai-adoption-required-promotion-reskilling-layoffs/)**
 
-Microsoft Corporation (NASDAQ:MSFT) is one of the 11 Best Large-Cap Tech Stocks to Invest In. On March 5, TheFly reported that Jefferies analyst Brent Thill reiterated his Buy rating on Microsoft Corporation (NASDAQ:MSFT) while maintaining a price target of $675. Thill’s price target of $675 is higher than the average price target of $600 from […]
+“Today, AI at Accenture is how we do work,” Julie Sweet said in a recent podcast episode.
 
-Yahoo Finance • 2h ago
+Fortune • 1h ago
 
 ---
 
@@ -161,39 +163,39 @@ Yahoo Finance • 2h ago
 
 China’s Embassy in the US shared an AI-generated video poking fun at US President Donald Trump’s Shield of the Americas Summit on Wednesday, days after Trump took the stage at the Florida event to warn about “hostile foreign influence” in Latin America.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
-**[Platform 37 and The AI Exchange: new spaces for AI innovation and discovery](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/platform-37-the-ai-exchange/)**
+**[How we’re reimagining Maps with Gemini](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/)**
 
-Google’s newest London building, Platform 37, is named to honor Google DeepMind’s AlphaGo.
+Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-blog.google • 21h ago
-
----
-
-**[You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer](https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation)**
-
-Google is turning Maps into a Gemini-powered tool.
-
-The Verge • 19h ago
+blog.google • 19h ago
 
 ---
 
-**[Google is using old news reports and AI to predict flash floods](https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/)**
+**[Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network)**
 
-A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.
+We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.
 
-TechCrunch • 18h ago
+Anthropic • 14h ago
 
 ---
 
-**[AI error jails innocent grandmother for months in North Dakota fraud case](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)**
+**[Grammarly pulls AI tool mimicking Stephen King and other writers](https://www.bbc.com/news/articles/cx28v08jpe7o)**
 
-Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
+Writers criticised the feature which used their names and styles as "AI personas" without consent.
 
-Grand Forks Herald • 16h ago
+BBC • 14h ago
+
+---
+
+**[Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature](https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/)**
+
+The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.
+
+WIRED • 1d ago
 
 ---
 
@@ -203,7 +205,7 @@ Grand Forks Herald • 16h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4124 • 💬 1614 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4127 • 💬 1618 • 1d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -219,7 +221,7 @@ AWS has suffered at least two incidents linked to the use of AI coding assistant
 
 Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.
 
-⬆️ 609 • 💬 500 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+⬆️ 609 • 💬 501 • 2d ago • [WIRED](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
 ---
 
@@ -227,7 +229,7 @@ Meta’s former chief AI scientist has long argued that human-level AI will come
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 549 • 💬 281 • 10h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 586 • 💬 302 • 11h ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -235,7 +237,7 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 An autonomous AI agent found a SQL injection in McKinsey's Lilli AI platform. What it extracted was worse than we expected.
 
-⬆️ 484 • 💬 192 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+⬆️ 488 • 💬 192 • 1d ago • [codewall.ai](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 
 ---
 
@@ -251,7 +253,7 @@ Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, T
 
 AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.
 
-⬆️ 406 • 💬 454 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+⬆️ 406 • 💬 455 • 1d ago • [The Verge](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 
 ---
 
@@ -287,7 +289,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 64K • 👍 3K • 💬 257 • ⏱️ 14:25 • 18h ago
+👁️ 64K • 👍 3K • 💬 257 • ⏱️ 14:25 • 19h ago
 
 ---
 
@@ -297,7 +299,7 @@ Best AI Music Generator is Suno: https://suno.com/?utm_source=Ytamb&utm_medium=i
 
 📺 Isa does AI
 
-👁️ 9K • 💬 1 • ⏱️ 11:51 • 17h ago
+👁️ 9K • 💬 1 • ⏱️ 11:51 • 18h ago
 
 ---
 
@@ -337,7 +339,7 @@ Earn with Fanvue today! https://www.fanvue.com/signup?referral=FV-HFS7H2 thanks 
 
 📺 AI Samson
 
-👁️ 7K • 👍 461 • 💬 51 • ⏱️ 13:02 • 21h ago
+👁️ 7K • 👍 461 • 💬 51 • ⏱️ 13:02 • 22h ago
 
 ---
 
@@ -347,7 +349,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 74K • 👍 1K • 💬 524 • ⏱️ 15:01 • 14h ago
+👁️ 74K • 👍 1K • 💬 524 • ⏱️ 15:01 • 15h ago
 
 ---
 
@@ -357,7 +359,7 @@ Burger King recently announced their new AI headsets, and you can already smell 
 
 📺 The Food Theorists
 
-👁️ 95K • 👍 6K • 💬 182 • ⏱️ 1:12 • 12h ago
+👁️ 95K • 👍 6K • 💬 182 • ⏱️ 1:12 • 13h ago
 
 ---
 
@@ -477,7 +479,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 2,849 • ❤️ 150 • 7h ago
+⬇️ 2,849 • ❤️ 150 • 8h ago
 
 ---
 
@@ -665,7 +667,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.6k • 🔱 3.5k • 9h ago
+⭐ 26.6k • 🔱 3.5k • 10h ago
 
 ---
 
@@ -675,7 +677,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.7k • 🔱 883 • 7h ago
+⭐ 19.7k • 🔱 883 • 8h ago
 
 ---
 
@@ -685,7 +687,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.1k • 🔱 1.3k • 58m ago
+⭐ 11.1k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -695,7 +697,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.8k • 🔱 634 • 1h ago
+⭐ 8.8k • 🔱 634 • 2h ago
 
 ---
 
@@ -725,7 +727,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.2k • 🔱 734 • 3h ago
+⭐ 6.2k • 🔱 734 • 4h ago
 
 ---
 
@@ -735,7 +737,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 446 • 1h ago
+⭐ 3.9k • 🔱 446 • 2h ago
 
 ---
 

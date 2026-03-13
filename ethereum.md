@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T07:46:35.657973+00:00'
+updated: '2026-03-13T08:41:40.212049+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 07:46 UTC  
+**Last Updated:** March 13, 2026 at 08:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** +6.3%  
-**30d:** +7.4%  
-**90d:** -31.7%  
-**1y:** +9.4%  
+**24h:** +2.8%  
+**7d:** +7.2%  
+**30d:** +8.4%  
+**90d:** -31.1%  
+**1y:** +10.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 1h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 2h ago
+
+---
+
+**[Highlights from the All Core Developers Execution (ACDE) Call #232](https://www.reddit.com/r/ethereum/comments/1rsez2n/highlights_from_the_all_core_developers_execution/)**
+
+ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
+
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 3h ago
 
 ---
 
@@ -92,19 +100,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Highlights from the All Core Developers Execution (ACDE) Call #232](https://www.reddit.com/r/ethereum/comments/1rsez2n/highlights_from_the_all_core_developers_execution/)**
-
-ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
-
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 2h ago
-
----
-
 **[Ethereum DeFi 2026: $330B TVL & JPMorgan Tokenizes Assets](https://www.reddit.com/r/ethereum/comments/1rs1lnl/ethereum_defi_2026_330b_tvl_jpmorgan_tokenizes/)**
 
 Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
 
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 11h ago
+🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 12h ago
 
 ---
 
@@ -116,19 +116,19 @@ Read the comprehensive whitepaper about ETour's competitive gaming infrastructur
 
 ---
 
-**[Concept feedback](https://www.reddit.com/r/ethereum/comments/1rrlgyo/concept_feedback/)**
-
-I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
-
-22h ago
-
----
-
 **[EIP-8024: the end of the "stack too deep" error](https://www.reddit.com/r/ethereum/comments/1rrnfko/eip8024_the_end_of_the_stack_too_deep_error/)**
 
 If you've written a non-trivial amount of Solidity, you've almost certainly run into the "stack too deep" error. EIP-8024 is a proposal to modify the EVM and put an end to this error for good. In this article we'll go in depth into the "stack too deep" problem, how EIP-8024 addresses the underlying issue, and why the solution is not as simple as it appears at first.
 
-🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 20h ago
+🔗 [Cethology](https://paragraph.com/@cethology/eip-8024-or-killing-the-stack-too-deep-error) • 21h ago
+
+---
+
+**[Concept feedback](https://www.reddit.com/r/ethereum/comments/1rrlgyo/concept_feedback/)**
+
+I've created a series of charts that show inflation in a way that has an emotional element. They show your specified savings amount counting down every hour/ day / week / month etc. The numbers counting off your savings I think is provoctive and could drive people learn about fiat debasement. This will also play into more sound investments like Ethereum and crypto etc. I honestly don't think the average person understands what's going on as everyone in my circles say stuff like 'isn't everything expensive now'. I obviously won't add the link although it's in my bio. What do you think of the concept or my site if you visit? Thanks in advance.
+
+23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Virtuals Protocol and the Ethereum Foundation just dropped the commerce layer fo
 
 ETH could fall further to around $1,500 by the end of Q3 or early Q4 if the current bear market continues, said CryptoQuant’s Julio Moreno.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 15h ago
 
 The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -176,17 +176,11 @@ thedefiant.io • 14h ago
 
 ---
 
-**[BlackRock’s New Staked Ethereum ETF (ETHB) Sees ‘Very, Very Solid’ $15.5 Million Debut, Says Analyst](https://www.tipranks.com/news/blackrocks-new-staked-ethereum-etf-ethb-sees-very-very-solid-15-5-million-debut-says-analyst)**
-
-TipRanks • 3h ago
-
----
-
 **[Ethereum news: BlackRock’s staked ether ETF draws $15 million in first-day trading](https://www.coindesk.com/markets/2026/03/13/blackrock-s-staked-ether-etf-draws-usd15-million-in-first-day-trading)**
 
 The new ETHB fund launched with over $100 million in assets and traded more than $15 million on day one, offering investors exposure to ethereum plus staking rewards.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -194,7 +188,7 @@ CoinDesk • 1h ago
 
 Crypto investors need to keep their eyes on the arrival of altcoin season.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -206,15 +200,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. Ethereum, XRP Rise as Cryptos Get a Trump Boost.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-25631f51?gaa_at=eafs&gaa_n=AWEtsqcf6-YXoim1X4W8d0Qqgq9Rot6azjUYF_PkBdNV2CdW4pzN-oqog-Ws&gaa_ts=69b3b871&gaa_sig=-NTdaDC0aUKLXZPU_QvdxtaiSf0bVZmjwEUBiY6QE_pBf7wwGN9dpTNxpR9EJgMu_lAPz53ykVv0l-6eWfEfxA%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[Claude AI Predicts the Price of Bitcoin and Ethereum If the Middle East Conflict Escalates](https://www.binance.com/en/square/post/299085766882482)**
 
 Binance • 5d ago
+
+---
+
+**[Crypto News: Pepeto Update Amount Raised Above $7.96 Million as Ethereum Price Prediction Points to New All Time High](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-update-amount-raised-above-7-96-million-as-ethereum-price-prediction-points-to-new-all-time-high-1035924891)**
+
+Dubai, UAE, March  12, 2026  (GLOBE NEWSWIRE) -- Pepeto crossed $7.96 million this week and the pace keeps accelerating, reflecting the seriousnes...
+
+markets.businessinsider.com • 12h ago
 
 ---
 
@@ -222,7 +218,15 @@ Binance • 5d ago
 
 ​Ethereum traded near $2060 on March 12. It kept part of this week’s recovery intact but the session pointed to a market still trading carefully rather than moving into a clean upside break.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
+
+---
+
+**[Current price of Ethereum for March 12, 2026](https://fortune.com/article/price-of-ethereum-03-12-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 18h ago
 
 ---
 
@@ -246,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 913 • 👍 83 • 💬 1 • ⏱️ 4:49 • 6h ago
+👁️ 913 • 👍 83 • 💬 1 • ⏱️ 4:49 • 7h ago
 
 ---
 
@@ -256,7 +260,7 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 2K • 👍 40 • 💬 4 • ⏱️ 7:47 • 11h ago
+👁️ 2K • 👍 40 • 💬 4 • ⏱️ 7:47 • 12h ago
 
 ---
 
@@ -276,7 +280,7 @@ The wait is over! BlackRock (the world's biggest money manager) just turned on t
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 453 • 💬 89 • ⏱️ 2:00:28 • 15h ago
+👁️ 7K • 👍 453 • 💬 89 • ⏱️ 2:00:28 • 16h ago
 
 ---
 
@@ -296,7 +300,7 @@ BITCOIN & ALTCOINS: Calm Before the Storm (Get Ready)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 6K • 👍 243 • 💬 184 • ⏱️ 14:40 • 9h ago
+👁️ 6K • 👍 243 • 💬 184 • ⏱️ 14:40 • 10h ago
 
 ---
 
@@ -316,7 +320,7 @@ Hier kannst du mich unterstützen und die die Börse BYDFI ansehen! OFFIZIELLER 
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 396 • 💬 92 • ⏱️ 13:45 • 2h ago
+👁️ 1K • 👍 396 • 💬 92 • ⏱️ 13:45 • 3h ago
 
 ---
 
