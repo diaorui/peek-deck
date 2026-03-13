@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T22:29:35.136723+00:00'
+updated: '2026-03-13T22:55:53.068287+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 22:29 UTC  
+**Last Updated:** March 13, 2026 at 22:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -78,7 +78,7 @@ Salut tout le monde, Je suis en stage en robotique et je devais assembler et pro
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -86,7 +86,7 @@ Salut tout le monde, Je suis en stage en robotique et je devais assembler et pro
 
 London doctor carries out first UK remote robotic surgery https://bbc.com/news/articles/cq577v126g9o
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ London doctor carries out first UK remote robotic surgery https://bbc.com/news/a
 
 ROS News for the week of March 9th, 2026    The call for proposals for Global ROSCon 2026 in Toronto is out. Key dates you need to be aware of:   2026-03-22T00:00:00Z (UTC) Diversity scholarship applications are due! This is the only scholarship we offer, so plan accordingly 2026-04-05T00:00:00Z (UTC) Workshops proposals are due. 2026-04-26T00:00:00Z (UTC) Presentation proposals are due.       NVIDIA GTC is next week. On 2026-03-19T01:00:00Z (UTC)→2026-03-19T04:00:00Z (UTC) we’ll a few hundred p...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-9th-2026/53199) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-9th-2026/53199) • 3h ago
 
 ---
 
@@ -120,7 +120,7 @@ TechCrunch • 3h ago
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 25m ago
+CNBC • 51m ago
 
 ---
 
@@ -166,7 +166,7 @@ Financial Times • 1d ago
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 7h ago
+Quanta Magazine • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 52K • 👍 4K • 💬 634 • ⏱️ 5:32 • 1d ago
+👁️ 53K • 👍 4K • 💬 637 • ⏱️ 5:32 • 1d ago
 
 ---
 
@@ -206,27 +206,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 5K • 👍 207 • 💬 20 • ⏱️ 8:34 • 1d ago
-
----
-
-**[3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop](https://www.youtube.com/watch?v=SlTfA7lSBSM)**
-
-3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop This video is supported by OSHCut. Get 50% off your ...
-
-📺 FUN Robotics Network
-
-👁️ 5K • 👍 168 • ⏱️ 1:10 • 21h ago
-
----
-
-**[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
-
-Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
-
-📺 Vizuara
-
-👁️ 201K • 👍 43 • 💬 10 • ⏱️ 5:34 • 2d ago
+👁️ 5K • 👍 213 • 💬 20 • ⏱️ 8:34 • 1d ago
 
 ---
 
@@ -236,7 +216,27 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 7K • 👍 55 • 💬 23 • ⏱️ 2:38 • 1d ago
+👁️ 7K • 👍 56 • 💬 24 • ⏱️ 2:38 • 1d ago
+
+---
+
+**[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
+
+Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
+
+📺 Vizuara
+
+👁️ 207K • 👍 43 • 💬 10 • ⏱️ 5:34 • 2d ago
+
+---
+
+**[3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop](https://www.youtube.com/watch?v=SlTfA7lSBSM)**
+
+3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop This video is supported by OSHCut. Get 50% off your ...
+
+📺 FUN Robotics Network
+
+👁️ 5K • 👍 181 • ⏱️ 1:10 • 22h ago
 
 ---
 
@@ -246,7 +246,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 57K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
+👁️ 58K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
 
 ---
 
@@ -280,13 +280,13 @@ Join Our Community the Dhar Mann Studios Discord is open now, join here: http://
 
 ---
 
-**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+**[Shooter and QuestNav Camera | 573 Mech Warriors | FRC Pit Stop](https://www.youtube.com/watch?v=HHx7veCAroU)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+Shooter and Quest Nav Camera | 573 Mech Warriors | FRC Pit Stop This video is supported by Kettering University: Accepted ...
 
-📺 South China Morning Post
+📺 FUN Robotics Network
 
-👁️ 11K • 👍 189 • 💬 76 • ⏱️ 4:52 • 1d ago
+👁️ 280 • 👍 2 • ⏱️ 1:02 • 2h ago
 
 ---
 

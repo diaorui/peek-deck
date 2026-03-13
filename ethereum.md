@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-13T22:29:35.133985+00:00'
+updated: '2026-03-13T22:55:53.065102+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 22:29 UTC  
+**Last Updated:** March 13, 2026 at 22:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $254.69B
+**Market Cap:** $251.90B
 Rank #2
 
 **Circulating Supply:** 120,691,954 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.3%
+-57.8%
 
 **All-Time Low:** $0.43
-+487274.7%
++481960.3%
 
 ---
 
@@ -100,7 +100,7 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 **[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
 
-🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 6h ago
+🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 7h ago
 
 ---
 
@@ -116,7 +116,7 @@ Stay informed with the latest insights in our Infostealers weekly report. Explor
 
 US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 8h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 9h ago
 
 ---
 
@@ -124,7 +124,7 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 16h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 17h ago
 
 ---
 
@@ -216,7 +216,7 @@ Yahoo Finance • 2d ago
 
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -224,7 +224,7 @@ TradingView • 11h ago
 
 John Nahas says dedicated Avalanche chains offer more sovereignty and flexibility than the stacked architecture behind many Ethereum scaling solutions.
 
-thestreet.com • 7h ago
+thestreet.com • 8h ago
 
 ---
 
@@ -238,27 +238,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 648 • 💬 132 • ⏱️ 19:58 • 1d ago
+👁️ 20K • 👍 666 • 💬 52 • ⏱️ 19:58 • 1d ago
 
 ---
 
-**[HYPE, XRP, HBAR and ETH Altcoin Updates](https://www.youtube.com/watch?v=GOJdtmgAAQw)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=2d3GxL9DzqY)**
 
-Altcoins are heating up on this Friday. We look at Hyperliquid, Ripple, Hedera, Ethereum and other crypto market updates.
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Altcoin Buzz
+📺 More Crypto Online
 
-👁️ 978 • 👍 83 • 💬 126 • ⏱️ 13:11 • 7h ago
-
----
-
-**[BlackRock&#39;s Robert Mitchnick on the launch of the firm&#39;s staked ether ETF](https://www.youtube.com/watch?v=26lG23eyt-k)**
-
-Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of the ETHB staked ether ETF.
-
-📺 CNBC Television
-
-👁️ 3K • 👍 65 • 💬 9 • ⏱️ 7:47 • 1d ago
+👁️ 421 • 👍 43 • 💬 12 • ⏱️ 4:49 • 1h ago
 
 ---
 
@@ -268,37 +258,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 131 • 💬 4 • ⏱️ 6:41 • 9h ago
+👁️ 2K • 👍 135 • 💬 4 • ⏱️ 6:41 • 9h ago
 
 ---
 
-**[BlackRock CEO is Warning You… (Most Won’t Listen)](https://www.youtube.com/watch?v=gi1WuGidieE)**
+**[ETHEREUM PRICE PREDICTION 📈 MARCH 13](https://www.youtube.com/watch?v=48x-ezNLjvU)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 0% Fees on Gold And Silver (Earn $300k): ...
+ETHEREUM PRICE PREDICTION MARCH 13.
 
-📺 Altcoin Daily
+📺 Overkill Trading
 
-👁️ 45K • 👍 2K • 💬 370 • ⏱️ 9:16 • 23h ago
-
----
-
-**[AMAZING BlackRock STAKING ETH ETF Explodes in Volume! $50M Crypto INSTANT Loss Aave Swap Fail](https://www.youtube.com/watch?v=hMWNscCDZwE)**
-
-DISGUSTING $50M Crypto INSTANT Loss Aave Swap Fail + BlackRock STAKING ETH ETF Explodes in Volume! In today's video ...
-
-📺 CryptoWendyO
-
-👁️ 2K • 👍 199 • 💬 4 • ⏱️ 21:32 • 4h ago
+👁️ 326 • 👍 19 • 💬 1 • ⏱️ 2:55 • 2h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: BEWARE!!! ](https://www.youtube.com/watch?v=zsuW8z2XxsE)**
+**[BlackRock&#39;s Robert Mitchnick on the launch of the firm&#39;s staked ether ETF](https://www.youtube.com/watch?v=26lG23eyt-k)**
 
-Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us exactly whats about to happen in the markets!
+Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of the ETHB staked ether ETF.
 
-📺 Thomas Kralow
+📺 CNBC Television
 
-👁️ 16K • 👍 3K • 💬 27 • ⏱️ 12:32 • 2d ago
+👁️ 4K • 👍 66 • 💬 7 • ⏱️ 7:47 • 1d ago
 
 ---
 
@@ -308,17 +288,7 @@ Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmc
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 110 • 💬 17 • ⏱️ 37:23 • 12h ago
-
----
-
-**[BlackRock Ethereum Pump Just Started (Staking ETF)](https://www.youtube.com/watch?v=JrqgBJtEhNE)**
-
-The wait is over! BlackRock (the world's biggest money manager) just turned on the "money printer" for Ethereum. They aren't just ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 465 • 💬 89 • ⏱️ 2:00:28 • 1d ago
+👁️ 3K • 👍 114 • 💬 17 • ⏱️ 37:23 • 12h ago
 
 ---
 
@@ -329,6 +299,36 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 2K • 👍 115 • 💬 2 • ⏱️ 4:49 • 21h ago
+
+---
+
+**[🚨 BTC &amp; ETH: BEWARE!!! ](https://www.youtube.com/watch?v=zsuW8z2XxsE)**
+
+Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us exactly whats about to happen in the markets!
+
+📺 Thomas Kralow
+
+👁️ 16K • 👍 3K • 💬 19 • ⏱️ 12:32 • 2d ago
+
+---
+
+**[Why ETH Might Be Near a Major Turning Point](https://www.youtube.com/watch?v=0JFtYBvMjNw)**
+
+GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum underperformed this cycle, and investors ...
+
+📺 Bankless
+
+👁️ 10K • 👍 340 • 💬 39 • ⏱️ 56:53 • 2d ago
+
+---
+
+**[Ethereum Crash Prediction… While BMNR &amp; MSTR Are Quietly Printing Money](https://www.youtube.com/watch?v=cKHlX4AeXDs)**
+
+Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 3K • 👍 148 • 💬 28 • ⏱️ 18:08 • 1d ago
 
 ---
 

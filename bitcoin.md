@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-13T22:29:35.128816+00:00'
+updated: '2026-03-13T22:55:53.059132+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 22:29 UTC  
+**Last Updated:** March 13, 2026 at 22:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1426.11B
+**Market Cap:** $1415.28B
 Rank #1
 
-**Circulating Supply:** 20,001,696 BTC
+**Circulating Supply:** 20,001,734 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.4%
+-43.9%
 
 **All-Time Low:** $67.81
-+105045.3%
++104250.4%
 
 ---
 
@@ -101,7 +101,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 biggest mistake i see people make is running their mouth about bitcoin profits like somehow thats gonna convince anyone to buy in spoiler alert it doesnt work that way when you tell someone you doubled your money or whatever they dont think wow what a smart investment they think damn i fucked up by not getting in earlier and now im behind so instead of being curious about bitcoin they just get defensive and start looking for reasons why its stupid or a scam or whatever makes them feel better about missing out ive seen this pattern over and over again - the second you mention gains people shut down completely and start arguing about energy usage or volatility or how its not real money meanwhile if you just talk about the technology or why you think its interesting without bringing up your portfolio suddenly people actually listen lesson learned keep your wins to yourself and let other people discover bitcoin on their own timeline not because youre flexing your returns
 
-39m ago
+1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Seeing the floor hold, the speculators are already crawling back. The truth is s
 
 Inflation doesn’t just make food more expensive, it makes food worse. In this video I explain how inflation, fiat money, and government subsidies help create the ultra-processed food system dominating the modern diet. Using Bitcoin and sound money as a lens, we explore why inflation pushes the economy toward cheap calories instead of healthy food, and why that might literally be making people sick.
 
-🔗 [youtu.be](https://youtu.be/Z3PH4IiYWuw) • 1h ago
+🔗 [youtu.be](https://youtu.be/Z3PH4IiYWuw) • 2h ago
 
 ---
 
@@ -175,13 +175,13 @@ Financial Times • 17h ago
 
 Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ Polymarket • 2d ago
 
 **[Seeking Alpha interview: Andri Fauzan Adziima sees Bitcoin at $85K–$100K in 2026 (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4563809-seeking-alpha-interview-andri-fauzan-adziima-sees-bitcoin-at-85k100k-in-2026)**
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -321,17 +321,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 843 • 💬 130 • ⏱️ 12:14 • 7h ago
-
----
-
-**[The Countdown to Bitcoin&#39;s Next Face Melting Rally Has Begun!](https://www.youtube.com/watch?v=bezGcOzLbw0)**
-
-Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven job losses, and that may be a bigger signal than ...
-
-📺 Swan Bitcoin
-
-👁️ 68K • 👍 4K • 💬 918 • ⏱️ 18:10 • 1d ago
+👁️ 16K • 👍 1K • 💬 132 • ⏱️ 12:14 • 7h ago
 
 ---
 
@@ -341,17 +331,27 @@ The stock market is bleeding, Gold and Silver are breaking down, but the crypto 
 
 📺 Gareth Soloway
 
-👁️ 15K • 👍 2K • 💬 300 • ⏱️ 9:50 • 4h ago
+👁️ 25K • 👍 2K • 💬 397 • ⏱️ 9:50 • 5h ago
 
 ---
 
-**[This Signals Bitcoin Is Nearing A EXTREME Breakout!](https://www.youtube.com/watch?v=lXI0Jh0s3Kg)**
+**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
 
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
 
-📺 CryptosRus Extra
+📺 Simply Bitcoin
 
-👁️ 7K • 👍 359 • 💬 277 • ⏱️ 9:03 • 22h ago
+👁️ 3K • 👍 443 • 💬 132 • ⏱️ 14:33 • 1h ago
+
+---
+
+**[The Countdown to Bitcoin&#39;s Next Face Melting Rally Has Begun!](https://www.youtube.com/watch?v=bezGcOzLbw0)**
+
+Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven job losses, and that may be a bigger signal than ...
+
+📺 Swan Bitcoin
+
+👁️ 71K • 👍 4K • 💬 676 • ⏱️ 18:10 • 1d ago
 
 ---
 
@@ -361,7 +361,7 @@ Deezy looks at the bullish chart pattern for Gold, Oil and Bitcoin. But Bitcoin 
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 113 • 💬 74 • ⏱️ 5:33 • 4h ago
+👁️ 2K • 👍 149 • 💬 158 • ⏱️ 5:33 • 5h ago
 
 ---
 
@@ -371,17 +371,17 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 211 • ⏱️ 22:37 • 21h ago
+👁️ 25K • 👍 2K • 💬 127 • ⏱️ 22:37 • 22h ago
 
 ---
 
-**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
+**[This Signals Bitcoin Is Nearing A EXTREME Breakout!](https://www.youtube.com/watch?v=lXI0Jh0s3Kg)**
 
-The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
-📺 Altcoin Daily
+📺 CryptosRus Extra
 
-👁️ 13K • 👍 406 • 💬 111 • ⏱️ 1:13 • 2d ago
+👁️ 7K • 👍 361 • 💬 140 • ⏱️ 9:03 • 23h ago
 
 ---
 
@@ -391,27 +391,27 @@ Bitcoin #Crypto #Finance Bitcoin adoption continues to accelerate even as invest
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 792 • 💬 116 • ⏱️ 22:15 • 8h ago
+👁️ 12K • 👍 836 • 💬 116 • ⏱️ 22:15 • 9h ago
 
 ---
 
-**[Could This Be The BIGGEST Bitcoin Play Right Now?](https://www.youtube.com/watch?v=4oCTTLWAfKo)**
+**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
 
-Bitcoin may be on the verge of its next big move, and most investors could be completely missing it. Now is the time to buy, even ...
-
-📺 Valuetainment
-
-👁️ 43K • 👍 995 • 💬 89 • ⏱️ 1:06 • 1d ago
-
----
-
-**[Michael Saylor Is Actually Out Of Control (bitcoin news)](https://www.youtube.com/watch?v=czasnXXGOc0)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 50% deposit bonus on first $100 (sign up on ...
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
 
 📺 Altcoin Daily
 
-👁️ 70K • 👍 3K • 💬 325 • ⏱️ 9:26 • 2d ago
+👁️ 13K • 👍 409 • 💬 111 • ⏱️ 1:13 • 2d ago
+
+---
+
+**[Elon Musk’s Shocking WARNING: Did DOGE Prove $1M Bitcoin Is INEVITABLE?!](https://www.youtube.com/watch?v=2EFfA_8pogQ)**
+
+DOGE claimed $170 billion in savings. The real number is closer to four cents on the dollar. When you look at the federal budget, ...
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 2K • 💬 138 • ⏱️ 19:03 • 1d ago
 
 ---
 

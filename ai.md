@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T22:29:35.121444+00:00'
+updated: '2026-03-13T22:55:53.050771+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 22:29 UTC  
+**Last Updated:** March 13, 2026 at 22:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
 
-🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 9h ago
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 10h ago
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
 
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 7h ago
+🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ See which U.S. states are adopting AI at work fastest, based on U.S. Census data
 
 Ok this might be dumb. Spent a lot of time loking at llms.txt and thinking about content and ai AUTHORSHIP. So I made identity.txt, does the same thing as llms.txt for people. The problem: every AI tool has "custom instructions" but they're siloed. Switch tools and you lose everything. Your tone, your expertise, your preferences. You end up re-explaining yourself constantly. identity.txt is just a markdown file. Same idea as llms.txt, humans.txt, robots.txt. You write it once and it works everywhere. Paste it into ChatGPT, Claude, Gemini, wherever. Or host it at yourdomain.com/identity.txt and link to it. What's in it: - Your name (H1 heading) - Sections like ## Voice (how you write), ## Expertise (what you know), ## Preferences (hard rules) - A ## Terms section - basically robots.txt for your identity. We're also experimenting with hosting at identitytxt.org where you sign in with Google and get a permanent URL. But honestly the spec is the point, not the service. Self-hosting works fine. This is very early and experimental. We're trying to start a conversation about portable identity for AI, not ship a finished product. The spec is CC-BY 4.0 and completely open: https://github.com/Fifty-Five-and-Five/identitytxt Would love to know: do you find yourself re-explaining who you are to AI tools? Is a file convention the right answer or is there a better approach? https://identitytxt.org
 
-29m ago
+55m ago
 
 ---
 
@@ -125,7 +125,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
@@ -145,7 +145,7 @@ AMD • 1h ago
 
 **[The Age of Eerie A.I. Political Ads Is Here](https://www.nytimes.com/2026/03/13/us/politics/ai-ads-campaign-deepfake.html)**
 
-The New York Times • 16m ago
+The New York Times • 42m ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 16m ago
 
 Nutritionists are warning teens who use AI for meal planning that they are not being supplied with health and balanced recipes. Instead, AI goes heavy on fats and proteins.
 
-CBS News • 59m ago
+CBS News • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 11h ago
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ The Washington Post • 5h ago
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 714 • 💬 207 • 9h ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 714 • 💬 207 • 10h ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -239,7 +239,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 222 • 💬 300 • 1d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+⬆️ 222 • 💬 300 • 2d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -247,7 +247,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 214 • 💬 359 • 23h ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 214 • 💬 359 • 1d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -263,13 +263,13 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 196 • 💬 236 • 5h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 196 • 💬 236 • 6h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 183 • 💬 255 • 4h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 183 • 💬 255 • 5h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -283,17 +283,17 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 14K • 👍 1K • 💬 95 • ⏱️ 33:33 • 6h ago
+👁️ 23K • 👍 1K • 💬 142 • ⏱️ 33:33 • 6h ago
 
 ---
 
-**[The Matrix is coming](https://www.youtube.com/watch?v=ZqRtR6Z2U6U)**
+**[Palantir CTO: &quot;You&#39;re Being Lied to About AI&quot; | Official Preview](https://www.youtube.com/watch?v=gTP9_WTqFWE)**
 
-CL1 brain chip. Growing human neurons to play video games. #ai #ainews #agi Thanks to our sponsor Manus. Use my link to get ...
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join In this episode of ...
 
-📺 AI Search
+📺 Shawn Ryan Show
 
-👁️ 59K • 👍 3K • 💬 938 • ⏱️ 21:27 • 20h ago
+👁️ 17K • 👍 1K • 💬 207 • ⏱️ 3:28 • 3h ago
 
 ---
 
@@ -303,7 +303,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 77K • 👍 2K • 💬 108 • ⏱️ 14:05 • 1d ago
+👁️ 79K • 👍 2K • 💬 112 • ⏱️ 14:05 • 2d ago
 
 ---
 
@@ -313,17 +313,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 92K • 👍 4K • 💬 308 • ⏱️ 14:25 • 1d ago
-
----
-
-**[We need a moratorium on AI data centers NOW. Here’s why.](https://www.youtube.com/watch?v=qu2m7ePTsqY)**
-
-We need a moratorium on AI data centers NOW. Here's why. -- Senator Bernie Sanders is the senior senator from Vermont.
-
-📺 Senator Bernie Sanders
-
-👁️ 97K • 👍 10K • 💬 2K • ⏱️ 9:37 • 1d ago
+👁️ 96K • 👍 5K • 💬 248 • ⏱️ 14:25 • 1d ago
 
 ---
 
@@ -333,7 +323,7 @@ Rich DeMuro checks out an AI-powered drive-through scanner that can spot potenti
 
 📺 KTLA 5
 
-👁️ 7K • 👍 156 • 💬 70 • ⏱️ 2:50 • 8h ago
+👁️ 8K • 👍 164 • 💬 71 • ⏱️ 2:50 • 8h ago
 
 ---
 
@@ -343,17 +333,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 108K • 👍 2K • 💬 715 • ⏱️ 15:01 • 1d ago
-
----
-
-**[Google Maps gets an AI makeover](https://www.youtube.com/watch?v=LwRNCykPHXw)**
-
-"GMA's" Becky Worley tested out Google Maps new feature, Ask Maps, an AI enhancement that lets you ask complex questions ...
-
-📺 Good Morning America
-
-👁️ 11K • 👍 181 • 💬 16 • ⏱️ 2:22 • 1d ago
+👁️ 114K • 👍 2K • 💬 705 • ⏱️ 15:01 • 1d ago
 
 ---
 
@@ -363,7 +343,7 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 73K • 👍 2K • 💬 106 • ⏱️ 14:36 • 2d ago
+👁️ 74K • 👍 2K • 💬 107 • ⏱️ 14:36 • 2d ago
 
 ---
 
@@ -373,7 +353,27 @@ AI giant Anthropic is listing some of the white-collar jobs most likely to be im
 
 📺 CBS News
 
-👁️ 62K • 👍 727 • 💬 216 • ⏱️ 2:46 • 2d ago
+👁️ 64K • 👍 747 • 💬 217 • ⏱️ 2:46 • 2d ago
+
+---
+
+**[Andrew Yang on AI&#39;s impact on jobs, Anthropic&#39;s battle with the Pentagon and NYC Mayor Mamdani](https://www.youtube.com/watch?v=xNb_hC9Zzlk)**
+
+Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI tech race, impact on jobs and society, ...
+
+📺 CNBC Television
+
+👁️ 291K • 👍 4K • 💬 898 • ⏱️ 11:04 • 2d ago
+
+---
+
+**[AI is TAKING OUR JOBS!](https://www.youtube.com/watch?v=xPUtBOqK054)**
+
+Burger King recently announced their new AI headsets, and you can already smell the dystopia (and Whoppers) in the air!
+
+📺 The Food Theorists
+
+👁️ 160K • 👍 9K • 💬 242 • ⏱️ 1:12 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 53,243 • ❤️ 564 • 5d ago
+⬇️ 53,243 • ❤️ 570 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 3,142 • ❤️ 357 • 2d ago
+⬇️ 3,142 • ❤️ 363 • 2d ago
 
 ---
 
@@ -413,7 +413,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 448,513 • ❤️ 582 • 8d ago
+⬇️ 448,513 • ❤️ 583 • 8d ago
 
 ---
 
@@ -425,7 +425,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 173,501 • ❤️ 405 • 9d ago
+⬇️ 173,501 • ❤️ 408 • 9d ago
 
 ---
 
@@ -437,19 +437,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,685,919 • ❤️ 794 • 11d ago
-
----
-
-**[sarvam-105b](https://huggingface.co/sarvamai/sarvam-105b)**
-
-*Sarvam AI*
-
-Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active parameters, excelling in complex reasoning, mathematics, coding, and agentic tasks. It demonstrates state-of-the-art performance across 22 Indian languages and offers strong capabilities for real-world applications like web search and technical troubleshooting.
-
-`text-generation` `106.0B`
-
-⬇️ 5,959 • ❤️ 231 • 3d ago
+⬇️ 1,685,919 • ❤️ 795 • 11d ago
 
 ---
 
@@ -461,7 +449,19 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 167 • 3h ago
+⬇️ 6,439 • ❤️ 169 • 3h ago
+
+---
+
+**[sarvam-105b](https://huggingface.co/sarvamai/sarvam-105b)**
+
+*Sarvam AI*
+
+Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active parameters, excelling in complex reasoning, mathematics, coding, and agentic tasks. It demonstrates state-of-the-art performance across 22 Indian languages and offers strong capabilities for real-world applications like web search and technical troubleshooting.
+
+`text-generation` `106.0B`
+
+⬇️ 5,959 • ❤️ 232 • 3d ago
 
 ---
 
@@ -473,7 +473,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 6,113 • ❤️ 156 • 3h ago
+⬇️ 6,113 • ❤️ 158 • 3h ago
 
 ---
 
@@ -485,7 +485,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 47,580 • ❤️ 139 • 3d ago
+⬇️ 47,580 • ❤️ 142 • 3d ago
 
 ---
 
@@ -497,7 +497,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 `image-to-video` `21.0B`
 
-⬇️ 69,192 • ❤️ 168 • 2d ago
+⬇️ 69,192 • ❤️ 170 • 2d ago
 
 ---
 
@@ -511,7 +511,7 @@ LTX-2.3-GGUF is a GGUF quantized image-to-video diffusion model optimized for lo
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 9 • 💬 0 • ⭐ 33,247 • 12mo ago
+▲ 9 • 💬 0 • ⭐ 33,853 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -539,7 +539,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 85 • 💬 3 • ⭐ 2,360 • 3d ago
+▲ 86 • 💬 3 • ⭐ 2,360 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -585,19 +585,6 @@ DeepPlanning benchmark addresses limitations of current LLM planning assessments
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 46 • 💬 1 • ⭐ 73,019 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://huggingface.co/papers/2603.03269)**
 
 *Junyi Zhang, Charles Herrmann, Junhwa Hur et al. (8 authors)*
@@ -621,21 +608,36 @@ LoGeR enables long-term 3D video reconstruction by combining bidirectional prior
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 155 • 💬 19 • ⭐ 55,721 • 12mo ago
+▲ 155 • 💬 19 • ⭐ 55,749 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
-**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 161 • 💬 3 • ⭐ 6,809 • 8mo ago
+▲ 46 • 💬 1 • ⭐ 73,012 • 30mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143)**
+
+*Jiyuan Wang, Chunyu Lin, Lei Sun et al. (11 authors)*
+
+🏢 AMAP-ML
+
+RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
+
+▲ 136 • 💬 6 • ⭐ 124 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
 
 ---
 
@@ -649,7 +651,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 31.2k • 🔱 4.2k • 2d ago
+⭐ 31.5k • 🔱 4.2k • 2d ago
 
 ---
 
@@ -659,7 +661,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.8k • 🔱 3.5k • 1h ago
+⭐ 26.8k • 🔱 3.5k • 9m ago
 
 ---
 
@@ -669,7 +671,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 19.9k • 🔱 902 • 1h ago
+⭐ 20.0k • 🔱 903 • 3m ago
 
 ---
 
@@ -679,7 +681,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.2k • 🔱 1.3k • 10h ago
+⭐ 11.2k • 🔱 1.3k • 11h ago
 
 ---
 
@@ -699,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.9k • 🔱 644 • 5h ago
+⭐ 8.9k • 🔱 644 • 6h ago
 
 ---
 
@@ -719,7 +721,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 739 • 2h ago
+⭐ 6.3k • 🔱 739 • 4m ago
 
 ---
 
@@ -729,7 +731,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 448 • 10h ago
+⭐ 3.9k • 🔱 448 • 11h ago
 
 ---
 
