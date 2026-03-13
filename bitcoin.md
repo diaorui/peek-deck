@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-13T23:30:32.552193+00:00'
+updated: '2026-03-13T23:54:33.524696+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 13, 2026 at 23:30 UTC  
+**Last Updated:** March 13, 2026 at 23:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
-4h ago
+5h ago
 
 ---
 
@@ -117,7 +117,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 biggest mistake i see people make is running their mouth about bitcoin profits like somehow thats gonna convince anyone to buy in spoiler alert it doesnt work that way when you tell someone you doubled your money or whatever they dont think wow what a smart investment they think damn i fucked up by not getting in earlier and now im behind so instead of being curious about bitcoin they just get defensive and start looking for reasons why its stupid or a scam or whatever makes them feel better about missing out ive seen this pattern over and over again - the second you mention gains people shut down completely and start arguing about energy usage or volatility or how its not real money meanwhile if you just talk about the technology or why you think its interesting without bringing up your portfolio suddenly people actually listen lesson learned keep your wins to yourself and let other people discover bitcoin on their own timeline not because youre flexing your returns
 
-1h ago
+2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Quick question for you guys. I have spent my last few days going down the crypto
 
 Inflation doesn’t just make food more expensive, it makes food worse. In this video I explain how inflation, fiat money, and government subsidies help create the ultra-processed food system dominating the modern diet. Using Bitcoin and sound money as a lens, we explore why inflation pushes the economy toward cheap calories instead of healthy food, and why that might literally be making people sick.
 
-🔗 [youtu.be](https://youtu.be/Z3PH4IiYWuw) • 2h ago
+🔗 [youtu.be](https://youtu.be/Z3PH4IiYWuw) • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ Financial Times • 18h ago
 
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -225,7 +225,7 @@ Bitcoin Magazine • 1d ago
 
 **[Push to ban Bitcoin ATMs in TN as scams rise](https://www.wkrn.com/video/push-to-ban-bitcoin-atms-in-tn-as-scams-rise/11606448/)**
 
-WKRN News 2 • 1h ago
+WKRN News 2 • 2h ago
 
 ---
 
@@ -359,7 +359,7 @@ Deezy looks at the bullish chart pattern for Gold, Oil and Bitcoin. But Bitcoin 
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 149 • 💬 158 • ⏱️ 5:33 • 5h ago
+👁️ 2K • 👍 149 • 💬 158 • ⏱️ 5:33 • 6h ago
 
 ---
 
@@ -369,7 +369,7 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 127 • ⏱️ 22:37 • 22h ago
+👁️ 25K • 👍 2K • 💬 127 • ⏱️ 22:37 • 23h ago
 
 ---
 

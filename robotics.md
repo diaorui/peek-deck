@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T23:30:32.562104+00:00'
+updated: '2026-03-13T23:54:33.532955+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 23:30 UTC  
+**Last Updated:** March 13, 2026 at 23:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 41m ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 1h ago
 
 ---
 
@@ -86,7 +86,7 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/81UMAbBqeyI) • 56m ago
+🔗 [youtu.be](https://youtu.be/81UMAbBqeyI) • 1h ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 London doctor carries out first UK remote robotic surgery https://bbc.com/news/articles/cq577v126g9o
 
-2h ago
+3h ago
 
 ---
 
@@ -102,7 +102,7 @@ London doctor carries out first UK remote robotic surgery https://bbc.com/news/a
 
 ROS News for the week of March 9th, 2026    The call for proposals for Global ROSCon 2026 in Toronto is out. Key dates you need to be aware of:   2026-03-22T00:00:00Z (UTC) Diversity scholarship applications are due! This is the only scholarship we offer, so plan accordingly 2026-04-05T00:00:00Z (UTC) Workshops proposals are due. 2026-04-26T00:00:00Z (UTC) Presentation proposals are due.       NVIDIA GTC is next week. On 2026-03-19T01:00:00Z (UTC)→2026-03-19T04:00:00Z (UTC) we’ll a few hundred p...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-9th-2026/53199) • 3h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-9th-2026/53199) • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 2d ago
 
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
@@ -176,7 +176,7 @@ Financial Times • 1d ago
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 8h ago
+Quanta Magazine • 9h ago
 
 ---
 

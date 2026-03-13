@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-13T23:30:32.543317+00:00'
+updated: '2026-03-13T23:54:33.517067+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 13, 2026 at 23:30 UTC  
+**Last Updated:** March 13, 2026 at 23:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
 
-🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 10h ago
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 11h ago
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
 
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 8h ago
+🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 9h ago
 
 ---
 
@@ -125,7 +125,7 @@ The forum-style app has sparked interest by showing how AI bots interact without
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -133,7 +133,7 @@ Financial Times • 7h ago
 
 Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 1h ago
 
 **[As AI reshapes work, what should workers do next?](https://news.stanford.edu/stories/2026/03/ai-workplace-job-disruption-advice-siepr-summit)**
 
-Stanford University • 12m ago
+Stanford University • 36m ago
 
 ---
 
@@ -189,7 +189,7 @@ WSJ • 19h ago
 
 Workers who use AI are spending up to 346% more time on their daily tasks, from messaging to business management: “The data is unambiguous: AI does not reduce workloads.”
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -207,7 +207,7 @@ Fortune • 7h ago
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 809 • 💬 224 • 10h ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 809 • 💬 224 • 11h ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -239,7 +239,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 243 • 💬 340 • 6h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 243 • 💬 340 • 7h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
@@ -267,7 +267,7 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 201 • 💬 285 • 5h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 201 • 💬 285 • 6h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -341,7 +341,7 @@ Researchers at Google may have found a way to make large language models learn m
 
 📺 AI Revolution
 
-👁️ 74K • 👍 2K • 💬 107 • ⏱️ 14:36 • 2d ago
+👁️ 74K • 👍 2K • 💬 107 • ⏱️ 14:36 • 3d ago
 
 ---
 
@@ -659,7 +659,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.8k • 🔱 3.5k • 44m ago
+⭐ 26.8k • 🔱 3.5k • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.0k • 🔱 903 • 38m ago
+⭐ 20.0k • 🔱 903 • 1h ago
 
 ---
 
@@ -679,7 +679,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.2k • 🔱 1.3k • 11h ago
+⭐ 11.2k • 🔱 1.3k • 12h ago
 
 ---
 
@@ -699,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 8.9k • 🔱 644 • 6h ago
+⭐ 8.9k • 🔱 644 • 7h ago
 
 ---
 
@@ -719,7 +719,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 739 • 39m ago
+⭐ 6.3k • 🔱 739 • 1h ago
 
 ---
 
@@ -729,7 +729,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 448 • 11h ago
+⭐ 3.9k • 🔱 448 • 12h ago
 
 ---
 
