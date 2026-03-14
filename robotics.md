@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T14:30:11.234861+00:00'
+updated: '2026-03-14T14:57:25.404267+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 14:30 UTC  
+**Last Updated:** March 14, 2026 at 14:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -70,7 +70,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 15h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 16h ago
 
 ---
 
@@ -84,7 +84,7 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 ive had this question for about a week now and even though lot of AIs tell me esp32 is superior, i usually see people building robots with an arduino nano. The people that use nano are very experienced from what i saw and i think that if esp was really better they would have used it, to this day i ahvent seen anyone use the esp.
 
-27m ago
+54m ago
 
 ---
 
@@ -118,7 +118,7 @@ CNBC • 16h ago
 
 Developers of physical AI such as field and inspection robots need to consider cyber and data security, explains ANYbotics' CEO.
 
-The Robot Report • 11m ago
+The Robot Report • 38m ago
 
 ---
 
@@ -134,7 +134,7 @@ NPR • 1d ago
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 23h ago
+Quanta Magazine • 1d ago
 
 ---
 
