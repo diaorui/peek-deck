@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T08:37:59.641134+00:00'
+updated: '2026-03-14T09:35:06.303018+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 08:37 UTC  
+**Last Updated:** March 14, 2026 at 09:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.50B
+**Market Cap:** $250.61B
 Rank #2
 
 **Circulating Supply:** 120,691,917 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.0%
 
 **All-Time Low:** $0.43
-+479777.8%
++479267.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
 
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 3h ago
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 Ethereum Foundation (EF) wrote a constitution for the soul of the project. The new EF Mandate isn't just a corporate mission statement but a line in the sand for how Ethereum stays human in an increasingly automated world. The EF is calling its core philosophy CROPS. If a feature isn’t Censorship-resistant, Resilient, Open-source, Private, and Secure, it doesn't belong on ethereum . No trading sovereignty for convenience. Here are the main points: Stewardship, Not Ownership: The EF is explicitly saying they aren't the boss. They are temporary caretakers who eventually want to disappear. This is the ultimate decentralize or die commitment. The AI Shield: They see a future where AI and opaque algorithms run everything. Ethereum’s job is to be the Infinite Garden, a place where humans, not code or corporations, have the final say over their own lives. Immutable Values: By publishing this directly onto the blockchain, they’ve made their values as permanent as a transaction. You can’t edit the project's soul once it’s on-chain. This is a massive vibe check for the entire ecosystem. It’s a reminder that if we give up control for a slightly faster app, we’ve already lost the plot. Can a written mandate actually stop the slow creep of centralization, or is the pull of convenience just too strong? Let’s talk. 👇 Source
 
-1h ago
+2h ago
 
 ---
 
@@ -96,13 +96,13 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 15h ago
+🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 16h ago
 
 ---
 
 **[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 17h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 18h ago
 
 ---
 
@@ -118,13 +118,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
 
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 22h ago
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 23h ago
 
 ---
 
 **[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
 
-🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 16h ago
+🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 17h ago
 
 ---
 
@@ -132,7 +132,7 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 19h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ Polymarket • 1d ago
 
 Bitcoin is trading in a narrative vacuum, says crypto executiveBitcoin needs a fresh catalyst to push its price back to levels that excite investors again, says Gate.io chief business officer Kevin Lee.What we see is Bitcoin is currently trading in a narrative vacuum, the exchange boss tells Magazi…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Block • 1d ago
 
 Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -216,13 +216,13 @@ Yahoo Finance • 2d ago
 
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
-TradingView • 22h ago
+TradingView • 23h ago
 
 ---
 
 **[Ethereum ‘Address Poisoning’ Scams Are Exploding — What You Need to Know](https://www.ccn.com/news/crypto/ethereum-address-poisoning-scams-are-exploding-what-you-need-to-know/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
@@ -236,17 +236,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 142 • ⏱️ 13:31 • 10h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=MhZziRZ05Iw)**
-
-BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 214 • 💬 107 • ⏱️ 18:21 • 8h ago
+👁️ 25K • 👍 2K • 💬 187 • ⏱️ 13:31 • 11h ago
 
 ---
 
@@ -256,7 +246,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 702 • 💬 53 • ⏱️ 19:58 • 1d ago
+👁️ 22K • 👍 715 • 💬 54 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=MhZziRZ05Iw)**
+
+BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 252 • 💬 44 • ⏱️ 18:21 • 9h ago
+
+---
+
+**[ETH JUST BROKE OUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=74zm01slIVQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 533 • 👍 15 • 💬 12 • ⏱️ 4:58 • 23h ago
 
 ---
 
@@ -266,7 +276,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 109 • 💬 12 • ⏱️ 4:49 • 10h ago
+👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:49 • 11h ago
+
+---
+
+**[Crypto News: 95% Bitcoin Mined, Stablecoins Hit $320B &amp; Ethereum AI Agents | WazirX](https://www.youtube.com/watch?v=_eIQuYgi9sw)**
+
+This week in crypto: Ethereum and Virtuals Protocol introduce ERC-8183 to power AI agent commerce, MetaMask integrates the ...
+
+📺 WazirX: Bitcoin & Cryptocurrency Exchange in India
+
+👁️ 33 • 👍 3 • 💬 4 • ⏱️ 3:28 • 25m ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=tIEw4k_jL8I)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 759 • 👍 79 • ⏱️ 5:27 • 6h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=v24Ua-oTb48)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 143 • 💬 4 • ⏱️ 6:41 • 20h ago
 
 ---
 
@@ -280,53 +320,13 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 ---
 
-**[XRP: TRUMP PICKED RIPPLE?! NOT ETHEREUM! NOT SOLANA! RIPPLE!!!](https://www.youtube.com/watch?v=EejUDTLwJ7U)**
-
-XRP news today: XRP: TRUMP PICKED RIPPLE?! NOT ETHEREUM! NOT SOLANA! RIPPLE!!!. We cover XRP price prediction, ...
-
-📺 Ripple Moon Watch
-
-👁️ 5K • 👍 282 • 💬 36 • ⏱️ 21:57 • 1d ago
-
----
-
-**[ETH JUST BROKE OUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=74zm01slIVQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 495 • 👍 15 • 💬 12 • ⏱️ 4:58 • 22h ago
-
----
-
 **[ETHEREUM PRICE PREDICTION 📈 MARCH 13](https://www.youtube.com/watch?v=48x-ezNLjvU)**
 
 ETHEREUM PRICE PREDICTION MARCH 13.
 
 📺 Overkill Trading
 
-👁️ 932 • 👍 36 • 💬 2 • ⏱️ 2:55 • 12h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=tIEw4k_jL8I)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 480 • 👍 65 • ⏱️ 5:27 • 5h ago
-
----
-
-**[BlackRock&#39;s Robert Mitchnick on the launch of the firm&#39;s staked ether ETF](https://www.youtube.com/watch?v=26lG23eyt-k)**
-
-Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of the ETHB staked ether ETF.
-
-📺 CNBC Television
-
-👁️ 4K • 👍 73 • 💬 12 • ⏱️ 7:47 • 1d ago
+👁️ 1K • 👍 43 • 💬 4 • ⏱️ 2:55 • 13h ago
 
 ---
 

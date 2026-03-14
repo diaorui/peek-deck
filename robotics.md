@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T08:37:59.645844+00:00'
+updated: '2026-03-14T09:35:06.306113+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 08:37 UTC  
+**Last Updated:** March 14, 2026 at 09:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-21h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-13h ago
+14h ago
 
 ---
 
@@ -58,19 +58,19 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 9h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 10h ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -78,13 +78,13 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 I saw multiple pages post this clip, but none seem to mention if the robot is performing the task autonomously or not. What do you think? https://reddit.com/link/1rtb02x/video/nhn56abk4yog1/player
 
-3h ago
+4h ago
 
 ---
 
 **[Curious about the experiment data logging](https://www.reddit.com/r/robotics/comments/1rt7u8k/curious_about_the_experiment_data_logging/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -110,13 +110,13 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
 **[Uber co-founder Kalanick launches Atoms in specialized robotics push](https://www.reuters.com/business/uber-co-founder-kalanick-launches-atoms-specialized-robotics-push-2026-03-13/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -124,7 +124,7 @@ Reuters • 11h ago
 
 Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
 
-The Information • 15h ago
+The Information • 16h ago
 
 ---
 
@@ -154,7 +154,7 @@ Yahoo Finance • 2d ago
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 17h ago
+Quanta Magazine • 18h ago
 
 ---
 
@@ -162,7 +162,7 @@ Quanta Magazine • 17h ago
 
 In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
 
-Ukrinform • 12h ago
+Ukrinform • 13h ago
 
 ---
 
@@ -178,7 +178,7 @@ Financial Times • 2d ago
 
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
-NPR • 18h ago
+NPR • 19h ago
 
 ---
 
@@ -192,17 +192,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 55K • 👍 4K • 💬 654 • ⏱️ 5:32 • 1d ago
-
----
-
-**[DEEP Robotics Built a Robot Horse and It Is Incredible](https://www.youtube.com/watch?v=3b13QT-85CU)**
-
-A robot that looks and moves like a horse? DEEP Robotics created a special edition quadruped robot inspired by the Year of the ...
-
-📺 DPCcars
-
-👁️ 3K • 👍 40 • 💬 4 • ⏱️ 1:29 • 1d ago
+👁️ 55K • 👍 4K • 💬 655 • ⏱️ 5:32 • 1d ago
 
 ---
 
@@ -212,7 +202,17 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 5K • 👍 223 • 💬 21 • ⏱️ 8:34 • 1d ago
+👁️ 6K • 👍 228 • 💬 21 • ⏱️ 8:34 • 1d ago
+
+---
+
+**[DEEP Robotics Built a Robot Horse and It Is Incredible](https://www.youtube.com/watch?v=3b13QT-85CU)**
+
+A robot that looks and moves like a horse? DEEP Robotics created a special edition quadruped robot inspired by the Year of the ...
+
+📺 DPCcars
+
+👁️ 3K • 👍 41 • 💬 4 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -220,7 +220,27 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Robot Julie 
 
-👁️ 1K • 👍 10 • ⏱️ 0:22 • 8h ago
+👁️ 2K • 👍 11 • ⏱️ 0:22 • 9h ago
+
+---
+
+**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
+
+Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
+
+📺 Smokin' Silicon
+
+👁️ 61K • 👍 2K • 💬 115 • ⏱️ 10:52 • 6d ago
+
+---
+
+**[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
+
+Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
+
+📺 Vizuara
+
+👁️ 226K • 👍 44 • 💬 10 • ⏱️ 5:34 • 2d ago
 
 ---
 
@@ -234,23 +254,11 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
-**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=9Irk3BKmLvI)**
 
-Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
+📺 zhulongfeng 6
 
-📺 Smokin' Silicon
-
-👁️ 60K • 👍 2K • 💬 115 • ⏱️ 10:52 • 6d ago
-
----
-
-**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
-
-📺 South China Morning Post
-
-👁️ 12K • 👍 197 • 💬 80 • ⏱️ 4:52 • 2d ago
+👁️ 5K • 👍 72 • ⏱️ 0:21 • 9h ago
 
 ---
 
@@ -260,7 +268,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 10K • 👍 60 • 💬 26 • ⏱️ 2:38 • 1d ago
+👁️ 11K • 👍 63 • 💬 27 • ⏱️ 2:38 • 2d ago
 
 ---
 
@@ -271,16 +279,6 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 📺 DPCcars
 
 👁️ 16K • 👍 119 • 💬 31 • ⏱️ 3:48 • 4d ago
-
----
-
-**[China&#39;s Industrial-Grade Robotic Horse is INSANE #robotics #robot #innovation](https://www.youtube.com/watch?v=IFB2uN-p-6g)**
-
-It's robotic horse season in China. The Hangzhou-based startup DEEP Robotics just revealed a special edition quadruped ...
-
-📺 Kalil 4.0
-
-👁️ 481 • 👍 17 • 💬 1 • ⏱️ 0:35 • 4h ago
 
 ---
 
