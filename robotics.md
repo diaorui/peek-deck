@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-13T23:54:33.532955+00:00'
+updated: '2026-03-14T02:06:58.664975+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 13, 2026 at 23:54 UTC  
+**Last Updated:** March 14, 2026 at 02:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-12h ago
+14h ago
 
 ---
 
@@ -44,19 +44,33 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-4h ago
+6h ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-6h ago
+9h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-11h ago
+14h ago
+
+---
+
+**[Gig workers are strapping cameras on their bodies to do chores to help train humanoids](https://www.reddit.com/r/robotics/comments/1rt2dxm/gig_workers_are_strapping_cameras_on_their_bodies/)**
+
+AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
+
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 3h ago
+
+---
+
+**[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
+
+51m ago
 
 ---
 
@@ -68,17 +82,9 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 ---
 
-**[Gig workers are strapping cameras on their bodies to do chores to help train humanoids](https://www.reddit.com/r/robotics/comments/1rt2dxm/gig_workers_are_strapping_cameras_on_their_bodies/)**
-
-AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
-
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 1h ago
-
----
-
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -86,7 +92,7 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/81UMAbBqeyI) • 1h ago
+🔗 [youtu.be](https://youtu.be/81UMAbBqeyI) • 3h ago
 
 ---
 
@@ -94,15 +100,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 London doctor carries out first UK remote robotic surgery https://bbc.com/news/articles/cq577v126g9o
 
-3h ago
-
----
-
-**[ROS News for the week of March 9th, 2026](https://www.reddit.com/r/robotics/comments/1rsxibv/ros_news_for_the_week_of_march_9th_2026/)**
-
-ROS News for the week of March 9th, 2026    The call for proposals for Global ROSCon 2026 in Toronto is out. Key dates you need to be aware of:   2026-03-22T00:00:00Z (UTC) Diversity scholarship applications are due! This is the only scholarship we offer, so plan accordingly 2026-04-05T00:00:00Z (UTC) Workshops proposals are due. 2026-04-26T00:00:00Z (UTC) Presentation proposals are due.       NVIDIA GTC is next week. On 2026-03-19T01:00:00Z (UTC)→2026-03-19T04:00:00Z (UTC) we’ll a few hundred p...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-9th-2026/53199) • 4h ago
+5h ago
 
 ---
 
@@ -114,15 +112,7 @@ ROS News for the week of March 9th, 2026    The call for proposals for Global RO
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 1h ago
-
----
-
-**[Uber co-founder Kalanick launches Atoms in specialized robotics push](https://finance.yahoo.com/news/uber-co-founder-kalanick-launches-210857971.html)**
-
-Travis Kalanick, the co-founder and former chief executive of Uber, on Friday launched his startup, ‌Atoms, focused on specialized industrial robotics designed to automate ‌tasks in the mining, transport and food sectors.  Kalanick is betting that task-specific ​machines are the key to improving industrial productivity.
-
-Yahoo Finance • 2h ago
+CNBC • 4h ago
 
 ---
 
@@ -130,11 +120,19 @@ Yahoo Finance • 2h ago
 
 Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
 
-TechCrunch • 4h ago
+TechCrunch • 6h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfbnK4doD_aviDif4AymHgpSzCBLgR-UOLCaO5qe9MEk8gX7Uho-xHG&gaa_ts=69b4a183&gaa_sig=TM_8XVu4OpDSbml4kJ-WxgGZ9QA7fnAqZWT6RICJomYIYhdOLMtkmkIfnbgzcP89d8qGabfpOOlKU0ipf_QPYw%3D%3D)**
+**[Travis Kalanick Plots New Robotics and Self-Driving Venture with Levandowski, Uber](https://www.theinformation.com/articles/travis-kalanick-plots-new-self-driving-venture-levandowski-uber)**
+
+Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
+
+The Information • 8h ago
+
+---
+
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcXhcAzTmpv9kOpqon0CINClVg0Sa8lTkF4-JfSO7BQEBJusgHkSsI9&gaa_ts=69b4c630&gaa_sig=qj1GY_QGMye0f-lFB283GiV7OjndX1kA3p_JriQviaTuqpnKyMM6szsza4Obf5wHXBDeGda3I-ARuMbEpIzYXw%3D%3D)**
 
 WSJ • 2d ago
 
@@ -156,19 +154,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
-
-Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
-
-NPR • 10h ago
-
----
-
 **[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
-Financial Times • 1d ago
+Financial Times • 2d ago
 
 ---
 
@@ -176,15 +166,23 @@ Financial Times • 1d ago
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 9h ago
+Quanta Magazine • 11h ago
 
 ---
 
-**[Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)**
+**[Ukraine Receives Phantom MK-1 Humanoid Robots for Testing](https://militarnyi.com/en/news/ukraine-receives-phantom-mk-1-humanoid-robots-for-testing/)**
 
-Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist.
+Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate their effectiveness.The company Foundation told Time that two robots were sent to Ukraine in February.Ukraine has become the […]
 
-TechCrunch • 1d ago
+Мілітарний • 14h ago
+
+---
+
+**[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
+
+Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
+
+NPR • 12h ago
 
 ---
 
@@ -198,47 +196,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 53K • 👍 4K • 💬 637 • ⏱️ 5:32 • 1d ago
-
----
-
-**[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
-
-At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
-
-📺 Munro Live
-
-👁️ 5K • 👍 213 • 💬 20 • ⏱️ 8:34 • 1d ago
-
----
-
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
-
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
-
-📺 Reuters
-
-👁️ 7K • 👍 56 • 💬 24 • ⏱️ 2:38 • 1d ago
-
----
-
-**[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
-
-Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
-
-📺 Vizuara
-
-👁️ 207K • 👍 43 • 💬 10 • ⏱️ 5:34 • 2d ago
-
----
-
-**[3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop](https://www.youtube.com/watch?v=SlTfA7lSBSM)**
-
-3D Printed Spindexer and Turret E-Chain | 8 Paly Robotics | FRC Pit Stop This video is supported by OSHCut. Get 50% off your ...
-
-📺 FUN Robotics Network
-
-👁️ 5K • 👍 181 • ⏱️ 1:10 • 23h ago
+👁️ 54K • 👍 4K • 💬 644 • ⏱️ 5:32 • 1d ago
 
 ---
 
@@ -248,7 +206,37 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 58K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
+👁️ 59K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
+
+---
+
+**[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
+
+At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
+
+📺 Munro Live
+
+👁️ 5K • 👍 216 • 💬 20 • ⏱️ 8:34 • 1d ago
+
+---
+
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
+
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
+
+📺 Reuters
+
+👁️ 8K • 👍 58 • 💬 24 • ⏱️ 2:38 • 1d ago
+
+---
+
+**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+
+📺 South China Morning Post
+
+👁️ 11K • 👍 193 • 💬 76 • ⏱️ 4:52 • 2d ago
 
 ---
 
@@ -258,7 +246,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 AI Revolution
 
-👁️ 71K • 👍 2K • 💬 103 • ⏱️ 14:51 • 4d ago
+👁️ 72K • 👍 2K • 💬 103 • ⏱️ 14:51 • 5d ago
 
 ---
 
@@ -268,27 +256,37 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 17K • 👍 116 • 💬 31 • ⏱️ 3:48 • 4d ago
+👁️ 17K • 👍 119 • 💬 31 • ⏱️ 3:48 • 4d ago
 
 ---
 
-**[Teacher Uses AI ROBOTS To CATCH CHEATERS | Dhar Mann Studios](https://www.youtube.com/watch?v=JeOCvwntTwU)**
+**[Dual Wooden Robots | 7334 &amp; 7287 | FRC Pit Stop](https://www.youtube.com/watch?v=l9AuRtlKIlM)**
 
-Join Our Community the Dhar Mann Studios Discord is open now, join here: http://discord.gg/aZfnEyn93Y A group of high ...
-
-📺 Dhar Mann Studios
-
-👁️ 1.1M • 👍 17K • 💬 1K • ⏱️ 26:12 • 1d ago
-
----
-
-**[Shooter and QuestNav Camera | 573 Mech Warriors | FRC Pit Stop](https://www.youtube.com/watch?v=HHx7veCAroU)**
-
-Shooter and Quest Nav Camera | 573 Mech Warriors | FRC Pit Stop This video is supported by Kettering University: Accepted ...
+Dual Wooden Robots | 7334 Esquimalt Proton Pulverizers & 7287 Esquimalt Atom Smashers | FRC Pit Stop This video is ...
 
 📺 FUN Robotics Network
 
-👁️ 280 • 👍 2 • ⏱️ 1:02 • 3h ago
+👁️ 235 • 👍 8 • 💬 1 • ⏱️ 1:12 • 1h ago
+
+---
+
+**[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
+
+Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
+
+📺 Vizuara
+
+👁️ 209K • 👍 43 • 💬 10 • ⏱️ 5:34 • 2d ago
+
+---
+
+**[Build a Robotic Exoskeleton. 🦾🤯Billion-Dollar Monopoly Broke.](https://www.youtube.com/watch?v=jmdA8D39ecw)**
+
+Hardware monopolies in wearable robotics are obsolete. Researchers just deployed OpenExo—a fully open-source exoskeleton ...
+
+📺 GundeepAi
+
+👁️ 10K • 👍 1K • 💬 20 • ⏱️ 1:00 • 4d ago
 
 ---
 
