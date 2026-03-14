@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-14T21:50:51.802675+00:00"
+          "dateModified": "2026-03-14T22:28:14.312613+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -740,6 +740,72 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rtw8l2/i_built_a_local_rust_validator_for_preexecution/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rtw8l2/i_built_a_local_rust_validator_for_preexecution/" target="_blank" onclick="event.stopPropagation();">I built a local Rust validator for pre-execution ALLOW/DENY checks — does this fit anywhere in robotics?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’ve been building a small Rust project called Reflex Engine SDK, and I’m trying to figure out whether it actually fits anywhere real in robotics or if I’m forcing the angle. The basic idea is pretty simple: an event or proposed action comes in, it gets checked against a local ruleset, it returns ALLOW or DENY, and it emits a replayable artifact showing what happened. I’m not talking about planning, perception, or SLAM. I’m thinking more along the lines of geofence, speed, altitude, or policy checks before something executes. The main thing I’ve learned so far is that the core evaluator seems fast enough to be interesting, and the bigger bottleneck was artifact persistence on the hot path rather than the rule check itself. Repo/demo: https://github.com/caminodynamics/reflex-engine-sdk⁠� My real question is whether something like this actually belongs anywhere in a robotics stack. Does it make sense as a pre-execution gate inside an autonomy stack, or as a local safety/policy layer at the edge, or is this basically unnecessary because existing systems already cover it better?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1773525571.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rtuy9r/looking_for_people_interested_in_embodied/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rtuy9r/looking_for_people_interested_in_embodied/" target="_blank" onclick="event.stopPropagation();">Looking for people interested in embodied AI/robotics to form a small team (ICRA 2026 challenge)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot learning, and world models for robotics. Recently I came across the AGIBOT World Challenge, which will have its finals at ICRA 2026 in Vienna, and I'm considering participating. Rather than doing it alone, I thought it might be interesting to form a small team with people who enjoy building robotics systems and experimenting with new ideas. From what I understand, the challenge focuses on embodied intelligence, especially things like: • reasoning → action loops • world models for robotics • perception → planning → action pipelines • sim-to-real transfer The finals will be run on real robots at ICRA 2026, and the challenge also provides a simulation platform and datasets for training and testing. Some of the directions I’m personally interested in exploring: • robot learning policies • integrating foundation models with robot planning • world models for prediction and control • simulation-to-real transfer If anyone here is also working on embodied AI, robot learning, or robotics systems, it would be great to exchange ideas or potentially form a small team. Feel free to reply here, send a DM, or email me directly: [Seatrain.liang@gmail.com](mailto:Seatrain.liang@gmail.com) Also curious to hear how people here are approaching embodied AI systems for robotics lately.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1773522407.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rswnzy/marc_raibert_on_why_expectations_in_robotics_are/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -893,72 +959,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rtm3yd/pick_and_place_robotic_arm_with_aruco_codes/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/lqudfoex21pg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=dd789062038f5d4b90ad75f428d51f378330b67f" alt="Pick and place robotic arm with aruco codes" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rtm3yd/pick_and_place_robotic_arm_with_aruco_codes/" target="_blank" onclick="event.stopPropagation();">Pick and place robotic arm with aruco codes</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hello everyone. I need help programming a robotic arm. I managed to create a python and Arduino application that I use to control the arm. I defined the offsets and it works properly, however, I haven't finalized the project yet because I don't know how. The surface you see is the work surface in front of the arm, it is limited by 4 aruco markers that define the working area. The surface dimensions are 240*120mm with 6 columns by 3 rows. It is designed that the cubes that will have the aruco codes when placed on this work surface are scanned, but also the precise x and y coordinates are read based on the total area. The same x and y coordinates need to be converted into servo positions so that the arm moves, picks them up and carries them to the boxes where I will later enter the coordinates and place them. This is my first such demanding project, so any recommendations, advice and help would be welcome. Thanks in advance and I hope you can help me! https://preview.redd.it/lqudfoex21pg1.jpg?width=2252&format=pjpg&auto=webp&s=b29314ed995ae0ec20f52d342766de34e04ec5cd
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1773501646.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/xae2NUuQ46vBSaIPj8NAAtS47KycBLZrNSHE4Vayj_E.png?width=320&crop=smart&auto=webp&s=8513b773ee17e0d6466320d334e7128c607eb7da" alt="Robots participating in a humanoid half-marathon" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/" target="_blank" onclick="event.stopPropagation();">Robots participating in a humanoid half-marathon</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1773421381.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -982,7 +982,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-14T20:55:18.021689+00:00">Updated 2026-03-14T20:55:18.021689+00:00</small>
+        <small data-timestamp="2026-03-14T22:27:54.712331+00:00">Updated 2026-03-14T22:27:54.712331+00:00</small>
     </div>
 </div>
 
@@ -1209,21 +1209,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeAGVYsAEYsEnh7g3Nk_GVZvhhIqt7Ca-5Yfb4LZ4D6-ZPOXQugBVaq&gaa_ts=69b5e46e&gaa_sig=qvi7r3Mxr4wssFbkAbGvYQIo9ImsZ1M8dcT1zzGuUgP40SfwW7gdwEyGlGz1X4HKX92LahxeGlupcixxIaz9Nw%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcbca4c11-47c2-48cd-a622-71b2464efd17.jpg?source=next-barrier-page');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78" target="_blank" onclick="event.stopPropagation();">Inside the AI labs training China’s humanoid robots</a>
+                            <a href="https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeAGVYsAEYsEnh7g3Nk_GVZvhhIqt7Ca-5Yfb4LZ4D6-ZPOXQugBVaq&gaa_ts=69b5e46e&gaa_sig=qvi7r3Mxr4wssFbkAbGvYQIo9ImsZ1M8dcT1zzGuUgP40SfwW7gdwEyGlGz1X4HKX92LahxeGlupcixxIaz9Nw%3D%3D" target="_blank" onclick="event.stopPropagation();">Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Network of training farms aims to supply data needed to put ‘brains’ into machines
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1232,9 +1228,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Financial Times" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WSJ" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
                                     
                                 </div>
                                 
@@ -1242,7 +1238,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773278342.0"></span>
+                                    <span data-timestamp="1773241200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1250,20 +1246,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/lifestyle/articles/indiana-students-participate-state-robotics-192925125.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wthr.com/video/news/local/indiana-students-participate-in-state-robotics-competition/531-bcca744d-eef7-4fc2-bf7a-381a4247c7b6', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/wthr_tegna_articles_444/4d990a133870558e4749ece17df6edbe');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media.tegna-media.com/assets/WTHR/images/52db6214-a0f7-4bb2-8e47-b1c3e4a485d6/20260314T221003/52db6214-a0f7-4bb2-8e47-b1c3e4a485d6_1140x641.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.yahoo.com/lifestyle/articles/indiana-students-participate-state-robotics-192925125.html" target="_blank" onclick="event.stopPropagation();">Indiana students participate in state robotics competition</a>
+                            <a href="https://www.wthr.com/video/news/local/indiana-students-participate-in-state-robotics-competition/531-bcca744d-eef7-4fc2-bf7a-381a4247c7b6" target="_blank" onclick="event.stopPropagation();">Indiana students participate in state robotics competition</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Inside Lucas Oil Stadium in downtown Indianapolis, the future of engineering is already at work.  The Indiana Robotics State Championship is happening over the weekend of March 14-15, and at the heart...
+                            Inside Lucas Oil Stadium in downtown Indianapolis, the future of engineering is already at work as the Indiana Robotics State Championship is happening this weekend.
                         </div>
                         
 
@@ -1273,9 +1269,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo" class="news-favicon">
-                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wthr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WTHR" class="news-favicon">
+                                    <a href="https://www.wthr.com" target="_blank" onclick="event.stopPropagation();">WTHR</a>
                                     
                                 </div>
                                 
@@ -1283,7 +1279,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773516565.0"></span>
+                                    <span data-timestamp="1773526080.0"></span>
                                 </div>
                                 
                             </div>
@@ -1373,47 +1369,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://13wham.com/resources/media2/16x9/4500/1320/0x235/90/e328cbdf-46da-4fdd-bae8-efe39a33e330-FIRST_Action.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students" target="_blank" onclick="event.stopPropagation();">FIRST Robotics Finger Lakes Regional continues at RIT on Saturday</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://13wham.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="13wham.com" class="news-favicon">
-                                    <a href="https://13wham.com" target="_blank" onclick="event.stopPropagation();">13wham.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773487429.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.quantamagazine.org/wp-content/uploads/2026/03/Qualia-AI-and-Robots-cr-Henry-Flores-Social.jpg');"></div>
@@ -1448,6 +1403,47 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1773412851.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://13wham.com/resources/media2/16x9/4500/1320/0x235/90/e328cbdf-46da-4fdd-bae8-efe39a33e330-FIRST_Action.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students" target="_blank" onclick="event.stopPropagation();">FIRST Robotics Finger Lakes Regional continues at RIT on Saturday</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://13wham.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="13wham.com" class="news-favicon">
+                                    <a href="https://13wham.com" target="_blank" onclick="event.stopPropagation();">13wham.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773487429.0"></span>
                                 </div>
                                 
                             </div>
@@ -1496,6 +1492,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcbca4c11-47c2-48cd-a622-71b2464efd17.jpg?source=next-barrier-page');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78" target="_blank" onclick="event.stopPropagation();">Inside the AI labs training China’s humanoid robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Network of training farms aims to supply data needed to put ‘brains’ into machines
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773278342.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims4/default/5a929f9/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F94%2F14f129c941e0bcfa08c55bac43ec%2Fkamen-in-manchester-2023.JPG');"></div>
@@ -1537,43 +1574,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeV0z6MpHPgffruVp67vg8pP9M1lGJfSCdJoPSn3NuGsoMPMn_BB7ug&gaa_ts=69b5ceba&gaa_sig=-AWS3bnVD3icVIjJXbpJf4lgdeVki1wjrO9QowIXKwzk4mwrld71ze0WNAmtEVqaOW_d1eDVUJVJTGXGU9obxw%3D%3D', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeV0z6MpHPgffruVp67vg8pP9M1lGJfSCdJoPSn3NuGsoMPMn_BB7ug&gaa_ts=69b5ceba&gaa_sig=-AWS3bnVD3icVIjJXbpJf4lgdeVki1wjrO9QowIXKwzk4mwrld71ze0WNAmtEVqaOW_d1eDVUJVJTGXGU9obxw%3D%3D" target="_blank" onclick="event.stopPropagation();">Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773241200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1594,7 +1594,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-14T20:55:36.919872+00:00">Updated 2026-03-14T20:55:36.919872+00:00</small>
+        <small data-timestamp="2026-03-14T22:28:13.428390+00:00">Updated 2026-03-14T22:28:13.428390+00:00</small>
     </div>
 </div>
 

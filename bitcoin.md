@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T21:50:52.144894+00:00'
+updated: '2026-03-14T22:28:14.693478+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 21:50 UTC  
+**Last Updated:** March 14, 2026 at 22:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,793.40
+### $70,873.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +7.3%  
-**30d:** +2.9%  
-**90d:** -18.1%  
-**1y:** -16.0%  
+**24h:** -0.3%  
+**7d:** +7.2%  
+**30d:** +2.7%  
+**90d:** -18.2%  
+**1y:** -16.1%  
 
 ---
 
@@ -77,15 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
+
+1h ago
+
+---
+
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -95,15 +101,17 @@ Rank #1
 
 ---
 
-**[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
+**[I just bought my first Bitcoin. I need Advice](https://www.reddit.com/r/Bitcoin/comments/1rttx3o/i_just_bought_my_first_bitcoin_i_need_advice/)**
 
-1h ago
+Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
+
+2h ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -115,11 +123,11 @@ A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged 
 
 ---
 
-**[I just bought my first Bitcoin. I need Advice](https://www.reddit.com/r/Bitcoin/comments/1rttx3o/i_just_bought_my_first_bitcoin_i_need_advice/)**
+**[Bitcoin looking Juicy, thinking about making an entry](https://www.reddit.com/r/Bitcoin/comments/1rtwm5d/bitcoin_looking_juicy_thinking_about_making_an/)**
 
-Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
+Open to feedback. Feel like the bottom still isn't quite in yet Thinking about making an entry when initial transfer clears, then plan to add at 60k, 55k, 50k, 45k, and 40k
 
-1h ago
+13m ago
 
 ---
 
@@ -135,15 +143,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-21h ago
-
----
-
-**[The easiest way to buy BTC near the bottom](https://www.reddit.com/r/Bitcoin/comments/1rsvldn/the_easiest_way_to_buy_btc_near_the_bottom/)**
-
-So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
-
-1d ago
+22h ago
 
 ---
 
@@ -151,27 +151,11 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 ## Google News: "bitcoin"
 
-**[Michael Saylor slams Boris Johnson's harsh warnings on Bitcoin](https://finance.yahoo.com/news/michael-saylor-slams-boris-johnsons-003030674.html)**
+**[Strategy's (MSTR) 1 millionth bitcoin (BTC): Here's how it could happen this year](https://www.coindesk.com/markets/2026/03/14/the-math-behind-strategy-s-path-to-1-million-bitcoin-by-the-end-of-2026)**
 
-Former United Kingdom Prime Minister Boris Johnson has described Bitcoin (BTC) and other cryptocurrencies as a “giant Ponzi scheme,” warning that the digital asset industry depends largely on belief rather than intrinsic value. Writing in a new column for the Daily Mail, Johnson argued that ...
+The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
 
-finance.yahoo.com • 21h ago
-
----
-
-**[Boris Johnson calling Bitcoin a ‘Ponzi’ draws rebuttal from Michael Saylor and others](https://www.coindesk.com/business/2026/03/14/boris-johnson-calling-bitcoin-a-ponzi-draws-rebuttal-from-michael-saylor-and-others)**
-
-The cryptocurrency community pushed back, with Michael Saylor saying Bitcoin has no issuer, promoter, or guaranteed return, and is instead  driven by code and market demand.
-
-CoinDesk • 4h ago
-
----
-
-**[Michael Saylor Says Bitcoin Doesn't 'Go To The Moon' Overnight — Strategy Chair Says There's Always A 'Delay'](https://finance.yahoo.com/news/michael-saylor-says-bitcoin-doesnt-203016430.html)**
-
-Strategy Inc. Chair Michael Saylor said on Thursday that Bitcoin purchases don't lead to immediate price increases and there’s always a “delay.” Another Call To HODL? In what looked like a cheeky reminder on X, Saylor pointed out the lag...
-
-finance.yahoo.com • 1h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -187,7 +171,15 @@ Financial Times • 1d ago
 
 Bitcoin (CRYPTO: BTC) and Gold are the two most recognized store-of-value assets in the world. Both are built on the promise of holding value when everything else falls, but they are moving in completely opposite directions right now. Gold is trading near $5,200 an ounce after climbing 77% over the past year, hitting an all-time ... Bitcoin vs Gold: One Is Up 77%, the Other Is Down 47%. Here’s Which One Wall Street Is Picking for the Next 5 Years
 
-finance.yahoo.com • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Michael Saylor Says Bitcoin Doesn't 'Go To The Moon' Overnight — Strategy Chair Says There's Always A 'Delay'](https://finance.yahoo.com/news/michael-saylor-says-bitcoin-doesnt-203016430.html)**
+
+Strategy Inc. Chair Michael Saylor said on Thursday that Bitcoin purchases don't lead to immediate price increases and there’s always a “delay.” Another Call To HODL? In what looked like a cheeky reminder on X, Saylor pointed out the lag...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,13 +187,19 @@ finance.yahoo.com • 2h ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqe-xwY2wb8klB64p5kzsH9Wqrut06V_Tz_9eVt2VSLVGVGr4Hu9fROU&gaa_ts=69b5ceb6&gaa_sig=pIuv9HB8WE5NOOFctwP89iIcu9CM1vJJvUxqznvCu7CbiO8ypX4mgo9aErG0LAQTrJyBuNYPh0oQiYY64DEiHA%3D%3D)**
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqe3LZA96mG3_STnGle4WNe7IDpeZ0cJz8Vyf1k7SByyQ_Kncca45Sup&gaa_ts=69b5e46b&gaa_sig=pWA-bsQ46h7M79NiH42rxdOl4_CXEUhlrM_T9GLHvaum8jsAG7_D8dpABpvuPZr1FVaIsRxD3G3lILbJvTCHeg%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -213,17 +211,19 @@ Investopedia • 1d ago
 
 ---
 
-**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773512700)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 18h ago
+Polymarket • 19h ago
+
+---
+
+**[Bitcoin Hit a Major Milestone—Most Miners Won't Be Around for the Next One](https://decrypt.co/361137/bitcoin-major-milestone-miners)**
+
+The 20 millionth Bitcoin was mined March 2026, leaving 1 million BTC to be issued as block rewards to miners in near-breakeven economics.
+
+Decrypt • 8h ago
 
 ---
 
@@ -271,7 +271,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
 
-⬆️ 1 • 💬 0 • 1d ago • [Frozen Security](https://frozensecurity.com/tools/)
+⬆️ 1 • 💬 0 • 2d ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -375,7 +375,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 202 • 💬 112 • ⏱️ 11:48 • 5h ago
+👁️ 2K • 👍 202 • 💬 112 • ⏱️ 11:48 • 6h ago
 
 ---
 

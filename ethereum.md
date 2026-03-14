@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T21:50:52.150103+00:00'
+updated: '2026-03-14T22:28:14.700275+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 21:50 UTC  
+**Last Updated:** March 14, 2026 at 22:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +7.8%  
+**24h:** -0.4%  
+**7d:** +7.7%  
 **30d:** +1.8%  
 **90d:** -29.7%  
 **1y:** +7.4%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
 
-9h ago
+10h ago
 
 ---
 
@@ -152,23 +152,7 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
 
-Coinpaper • 14h ago
-
----
-
-**[Why is Crypto Market Going Up Today: Bitcoin, Ethereum and XRP Prices Rally](https://www.tradingview.com/news/coinpedia:582f25f28094b:0-why-is-crypto-market-going-up-today-bitcoin-ethereum-and-xrp-prices-rally/)**
-
-Crypto is having one of its best days in weeks. Bitcoin has pushed above $73,000, Ethereum has cleared $2,180, and the total crypto market has added $90 billion in value in the past 15 hours alone. Here is what is actually driving it.The Numbers FirstThe Fear and Greed Index sits at 37, still in fe…
-
-TradingView • 1d ago
-
----
-
-**[Top Analyst Reveals What’s Next for Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/top-analyst-reveals-whats-next-for-bitcoin-ethereum-and-xrp-prices/)**
-
-Gareth Soloway, chief market strategist at VerifiedInvesting.com, is staying bullish on Bitcoin, Ethereum, and XRP despite recent volatility, and he says
-
-Coinpedia Fintech News • 2d ago
+Coinpaper • 15h ago
 
 ---
 
@@ -184,7 +168,15 @@ The Motley Fool • 2d ago
 
 The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
+
+---
+
+**[New Crypto: Pepeto DeFi Exchange Update Arrives and Ethereum Price Shows Strength](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-defi-exchange-update-arrives-and-ethereum-price-shows-strength-1035930412)**
+
+Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a significant update to its DeFi exchange infrastructure as the Ethereum ...
+
+markets.businessinsider.com • 34m ago
 
 ---
 
@@ -196,17 +188,9 @@ The Block • 1d ago
 
 ---
 
-**[BlackRock debuts staked ether ETF as demand grows for yield in crypto funds](https://www.coindesk.com/markets/2026/03/12/blackrock-debuts-staked-ether-etf-as-demand-grows-for-yield-in-crypto-funds)**
+**[BlackRock's staked Ethereum ETF records over $15.5 million volume on first day](https://www.theblock.co/post/393497/blackrock-staked-ethereum-etf-first-day)**
 
-The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
-
-CoinDesk • 2d ago
-
----
-
-**[The Daily: Crypto whale loses almost $50M in DeFi swap, BlackRock's staked Ethereum ETF sees 'very solid' debut, and more](https://www.theblock.co/post/393565/the-daily-crypto-whale-loses-almost-50m-in-defi-swap-blackrocks-staked-ethereum-etf-sees-very-solid-debut-and-more)**
-
-The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
 
 The Block • 1d ago
 
@@ -216,7 +200,15 @@ The Block • 1d ago
 
 BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
 
-finance.yahoo.com • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[BlackRock Launches Staked Ethereum ETF](https://thedefiant.io/news/tradfi-and-fintech/blackrock-launches-staked-ethereum-etf-ethb)**
+
+BlackRock today debuted the iShares Staked Ethereum Trust ETF (Nasdaq: ETHB) — the firm's first crypto exchange-traded fund to incorporate staking and its third spot crypto ETF overall.
+
+thedefiant.io • 3d ago
 
 ---
 
@@ -225,6 +217,14 @@ finance.yahoo.com • 2d ago
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
 TradingView • 1d ago
+
+---
+
+**[Ethereum Up or Down on March 14? Trading Odds & Predictions (Mar. 13, 2026)](https://polymarket.com/event/ethereum-up-or-down-on-march-14)**
+
+View real-time odds for "Ethereum Up or Down on March 14?" as of March 14, 2026 and trade on The World's Largest Prediction Market™
+
+Polymarket • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 254 • 👍 33 • ⏱️ 4:26 • 1h ago
+👁️ 254 • 👍 33 • ⏱️ 4:26 • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 1K • 👍 73 • 💬 37 • ⏱️ 9:05 • 7h ago
+👁️ 1K • 👍 73 • 💬 37 • ⏱️ 9:05 • 8h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 304 • 💬 288 • ⏱️ 18:21 • 21h ago
+👁️ 8K • 👍 304 • 💬 288 • ⏱️ 18:21 • 22h ago
 
 ---
 
@@ -308,7 +308,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 144 • 👍 21 • 💬 3 • ⏱️ 6:36 • 5h ago
+👁️ 144 • 👍 21 • 💬 3 • ⏱️ 6:36 • 6h ago
 
 ---
 
@@ -328,7 +328,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 581 • 👍 76 • 💬 4 • ⏱️ 28:37 • 8h ago
+👁️ 581 • 👍 76 • 💬 4 • ⏱️ 28:37 • 9h ago
 
 ---
 

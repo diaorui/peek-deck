@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T21:50:52.137426+00:00'
+updated: '2026-03-14T22:28:14.684649+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 21:50 UTC  
+**Last Updated:** March 14, 2026 at 22:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,11 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 ---
 
-**[Suppose Claude Decides Your Company is Evil](https://www.reddit.com/r/artificial/comments/1rtp3xw/suppose_claude_decides_your_company_is_evil/)**
+**[What is the best laptop for a mechanical engineering student who wants to get into AI, local llms, IT, networking, and linux?](https://www.reddit.com/r/artificial/comments/1rtw3mv/what_is_the_best_laptop_for_a_mechanical/)**
 
-Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
+As the title suggests, I am double majoring in mathematics and mechanical engineering. Apart from my studies in those core subjects, I plan to learn about local llm’s and AI in general, about IT, networking, and Linux. I will obviously be getting in CAD and some light coding in the future. Something to consider is that I have a windows desktop with a 4080 super gpu, a 5950x cpu, and 32gb of ddr4 ram. I will upgrade to a 5090 the second I can get a hold of one at MSRP (pray for me to get one lol). Given this, what laptop would you recommended? I want something that will help me with everything I mentioned above, but also with the caveat that I already have a decent windows based PC at home. The only issue I see with everything is my interest in learning about local llms and AI. Learning about local llms will require lots of vram, which windows laptops won’t have much of. However, MacBook pros do make local llms viable given apples integrated memory design. But if I go with apple, I can beef up my memory size and run decently sized model. However, I run into the issue that most engineering software isn’t compatible or optimized for mac OS. So thats my dilemma. The right windows laptop will do everything well except local llms. And the right mac will do most things well, except engineering things. Regardless of what I choose for my laptop, I always have a beefy windows PC at home to do whatever I want without issue. So I guess given all this information plus the filled questionnaire below, what should I get? LAPTOP QUESTIONNAIRE 1) Total budget: Max is $2500 , although I could potentially push it higher if needed. 2) Are you open to refurbs/used? Depends, refurbs are a no unless it’s a refurb macbook that comes straight from apple themselves. Used is an interesting option I’d consider, but new is ideal. 3) How would you prioritize form factor (ultrabook, 2-in-1, etc.), build quality, performance, and battery life? I want something durable, good battery (replaceable if possible, and is capable of growing and not slowing my progress down my educational path. 4) How important is weight and thinness to you? Couldn’t care less about either. 5) Do you have a preferred screen size? If indifferent, put N/A. As long as it isn’t tiny, im happy. 15-16in is nice. 6) Are you doing any CAD/video editing/photo editing/gaming? List which programs/games you desire to run. I’ll be doing CAD work in the future obviously. No real need for editing or gaming. 7) Any specific requirements such as good keyboard, reliable build quality, touch-screen, finger-print reader, optical drive or good input devices (keyboard/touchpad)? Again, something durable and reliable. While I would love a numberpad, it’s not necessary.
 
-🔗 [substack.com](https://substack.com/home/post/p-190322208) • 4h ago
+34m ago
 
 ---
 
@@ -57,7 +57,7 @@ Claude will certainly read statements made by Anthropic founder Dario Amodei whi
 
 Integrated an evolutionary database to Karpathy's autoresearch project that replaces the simple tsv file based logging in the original project. Evolutionary algorithms have shown to be a powerful tool for autonomously discovering optimal solutions to problems with large search spaces. Famously, Google DeepMind's AlphaEvolve system uses evolutionary algorithms to discover state of the art matrix multiplication algorithms. The implementation of the evolutionary database itself is based heavily on the implementation in OpenEvolve. Would love thoughts and suggestions from the community. Check it out: https://github.com/hgarud/autoresearch
 
-2h ago
+3h ago
 
 ---
 
@@ -69,6 +69,14 @@ This week's round of drm-misc-next patches bring a few improvements to the AMDXD
 
 ---
 
+**[Suppose Claude Decides Your Company is Evil](https://www.reddit.com/r/artificial/comments/1rtp3xw/suppose_claude_decides_your_company_is_evil/)**
+
+Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
+
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 5h ago
+
+---
+
 **[Impact of AI Product Recommendations on Online Purchase Intent](https://www.reddit.com/r/artificial/comments/1rtou4q/impact_of_ai_product_recommendations_on_online/)**
 
 Namaste! I am an MBA Marketing student. This survey explores how smart AI recommendations affect your shopping experience. It will hardly take 2 minutes. Be genuine in your responses.
@@ -77,23 +85,7 @@ AI Product Recommendation is a system that uses mathematical models to predict y
 Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
 Your responses are anonymous and will be used for academic research only.
 
-🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 4h ago
-
----
-
-**[Are AI models actually conscious, or are we just getting better at simulating intelligence?](https://www.reddit.com/r/artificial/comments/1rtt1ky/are_ai_models_actually_conscious_or_are_we_just/)**
-
-I was reading about the ongoing debate around AI consciousness, and it made me think about how easily our perception can change when technology becomes more sophisticated. From what researchers explain, current AI models aren’t conscious. They don’t have subjective experiences, biological grounding, or internal sensations. They mainly work by recognizing patterns in huge datasets and predicting the most likely response. But here’s the interesting part. As these systems become better at conversation, reasoning, and context, they can feel surprisingly human to interact with. Sometimes so much that people start attributing emotions or awareness to them. That raises a few questions that seem more philosophical than technical: • Should AI systems be designed to avoid appearing sentient? • Should companies clearly remind users that these systems are not conscious? • And as AI integrates vision, speech, memory, and planning, will that perception gap grow even more? Maybe the real issue isn’t whether AI is conscious today. Maybe it’s how humans interpret increasingly intelligent systems. Curious to hear what people here think: Do you believe AI could ever become conscious, or will it always remain a very advanced simulation?
-
-1h ago
-
----
-
-**[Relationships with AI](https://www.reddit.com/r/artificial/comments/1rtlypd/relationships_with_ai/)**
-
-I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
-
-6h ago
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 5h ago
 
 ---
 
@@ -109,7 +101,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI agents entirely in RAM, wiring up their tools and behavior on the fly. Sorry in advance for the vid quality i dont like making them. JL Engine isn’t another chat UI or preset pack — it’s a full agent runtime that builds itself as it runs. You can point it at any backend you want, local or cloud, and it doesn’t blink; Google, OpenAI, your own inference server, whatever you’ve got, it just plugs in and goes. The engine loads personas, merges layers, manages behavior states, and even discovers and registers its own tools without you wiring anything manually. It’s local‑first because I wanted privacy and control, but it’s not locked to local at all — it’s backend‑agnostic by design. The whole point is that the agent stays consistent no matter what model is behind it, because the runtime handles the complexity instead of dumping it on the user. If you want something that actually feels like an agent system instead of a wrapper, this is what I built. not self Promoting just posting to share get ideas maybe some help that would be great. https://github.com/jaden688/JL_Engine-local.git
 
-21h ago
+22h ago
 
 ---
 
@@ -121,13 +113,21 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 ---
 
+**[Relationships with AI](https://www.reddit.com/r/artificial/comments/1rtlypd/relationships_with_ai/)**
+
+I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
+
+7h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
 **[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
@@ -135,7 +135,7 @@ Reuters • 21h ago
 
 Meta layoffs could cut 20% of workforce as tech giant weighs job reductions to offset rising artificial intelligence infrastructure costs.
 
-Fox Business • 13h ago
+Fox Business • 14h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fox Business • 13h ago
 
 Sources tell Reuters layoffs could affect 20% or more of company as plans reflect broader tensions within big tech
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
@@ -151,15 +151,47 @@ The Guardian • 20h ago
 
 A major Brookings Institute study of more than 500 students and educators across 50 countries found the risks of AI in the classroom “overshadow its benefits.”
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
-**[Cascade of A.I. Fakes About War With Iran Causes Chaos Online](https://www.nytimes.com/interactive/2026/03/14/business/media/iran-disinfo-artificial-intelligence.html)**
+**[Zach Braff shuts down rumors he has an AI chatbot girlfriend: 'Please update all gossip sites'](https://www.foxnews.com/entertainment/zach-braff-shuts-down-rumors-ai-chatbot-girlfriend-update-gossip-sites)**
+
+Zach Braff denies dating AI chatbot girlfriend rumors on Instagram stories, calling claims false and asking gossip sites to update their coverage.
+
+Fox News • 1h ago
+
+---
+
+**[Zach Braff’s AI Relationship Denial Is Raising a Lot of Questions Already Answered by the Denial](https://gizmodo.com/zach-braffs-ai-relationship-denial-is-raising-a-lot-of-questions-already-answered-by-his-denial-2000733708)**
+
+The Scrubs star referred to himself as "The guy not dating his chatbot."
+
+Gizmodo • 5h ago
+
+---
+
+**[The U.S. is winning the AI chatbot war — and losing the one that actually matters](https://fortune.com/2026/03/14/beyond-chatbots-physical-ai-factory-warehouse/)**
+
+The current AI hype cycle is built on a foundation that doesn't translate to the real world.
+
+Fortune • 8h ago
+
+---
+
+**[‘Raise a lobster’: How OpenClaw is the latest craze transforming China’s AI sector](https://fortune.com/2026/03/14/openclaw-china-ai-agent-boom-open-source-lobster-craze-minimax-qwen/)**
+
+The OpenClaw craze aligns with China’s embrace of open-source AI, a strategy that has helped build labs’ reputation among the developer community.
+
+Fortune • 59m ago
+
+---
+
+**[Cascade of A.I. Fakes About War With Iran Causes Chaos Online - The New York Times](https://www.nytimes.com/interactive/2026/03/14/business/media/iran-disinfo-artificial-intelligence.html)**
 
 The technology has been used to create misleading fakes before. But never at this scale.
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -171,36 +203,6 @@ CNN • 1d ago
 
 ---
 
-**[New study raises concerns about AI chatbots fueling delusional thinking](https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis)**
-
-First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable people
-
-The Guardian • 10h ago
-
----
-
-**[Blue books make a comeback at colleges in the AI era. Why not "chisels," critic mocks](https://www.axios.com/2026/03/14/ai-blue-books-colleges-jobs)**
-
-Axios • 8h ago
-
----
-
-**[Sovereign AI is a bet on the economies of anti-scale](https://www.ft.com/content/7938e68a-22f9-4e83-8f66-302fd8f94297)**
-
-Deglobalisation is expensive for individual countries, but a windfall for their suppliers
-
-Financial Times • 16h ago
-
----
-
-**[Peruvian stocks: Why they may be an unexpected winner of the AI boom, Iran war](https://www.cnbc.com/2026/03/14/peruvian-stocks-why-they-may-be-an-unexpected-winner-of-the-ai-boom-iran-war.html)**
-
-The S&P Peru Total Index has soared 23% in 2026 and is up more than 75% over the past 12 months.
-
-CNBC • 8h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -209,7 +211,7 @@ CNBC • 8h ago
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 1380 • 💬 333 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 1386 • 💬 337 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -217,7 +219,7 @@ Detect your hardware and find out which AI models you can run locally. GPU, CPU,
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 741 • 💬 384 • 2d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 742 • 💬 384 • 2d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -225,13 +227,13 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 491 • 💬 767 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 493 • 💬 776 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 351 • 💬 464 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 352 • 💬 466 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -245,7 +247,7 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 **[Atlassian to cut roughly 1,600 jobs in pivot to AI](https://news.ycombinator.com/item?id=47343156)**
 
-⬆️ 222 • 💬 301 • 2d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+⬆️ 223 • 💬 301 • 2d ago • [reuters.com](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 
 ---
 
@@ -301,7 +303,7 @@ Access ALL AI Video Generators in Higgsfield https://higgsfield.ai?fpr=ai&fp_sid
 
 📺 Isa does AI
 
-👁️ 7K • 💬 2 • ⏱️ 11:35 • 6h ago
+👁️ 7K • 💬 2 • ⏱️ 11:35 • 7h ago
 
 ---
 
@@ -311,7 +313,7 @@ Get your MyHeritage DNA test kit & 30 day free trial for just $29 using my link 
 
 📺 Dan Dingle
 
-👁️ 32K • 👍 3K • 💬 372 • ⏱️ 26:34 • 9h ago
+👁️ 32K • 👍 3K • 💬 372 • ⏱️ 26:34 • 10h ago
 
 ---
 
@@ -371,7 +373,7 @@ Netanyahu 'Killed' In Iran Strikes? Viral AI 'Six-Finger' Bibi Video Fuels Assas
 
 📺 Cross World News
 
-👁️ 4K • 👍 59 • 💬 18 • ⏱️ 8:55 • 7h ago
+👁️ 4K • 👍 59 • 💬 18 • ⏱️ 8:55 • 8h ago
 
 ---
 
@@ -493,7 +495,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 `text-generation` `4.0B`
 
-⬇️ 1,012 • ❤️ 160 • 20h ago
+⬇️ 1,012 • ❤️ 160 • 21h ago
 
 ---
 
@@ -665,7 +667,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 27.0k • 🔱 3.6k • 55m ago
+⭐ 27.0k • 🔱 3.6k • 1h ago
 
 ---
 
@@ -685,7 +687,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.3k • 🔱 1.3k • 6h ago
+⭐ 11.3k • 🔱 1.3k • 7h ago
 
 ---
 
@@ -735,7 +737,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 746 • 1h ago
+⭐ 6.3k • 🔱 746 • 2h ago
 
 ---
 
@@ -745,7 +747,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 668 • 2h ago
+⭐ 3.4k • 🔱 668 • 3h ago
 
 ---
 
