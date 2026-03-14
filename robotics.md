@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T19:49:56.118268+00:00'
+updated: '2026-03-14T20:29:38.507151+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 19:49 UTC  
+**Last Updated:** March 14, 2026 at 20:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,19 +42,19 @@ Robotics research and industry news
 
 This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
 
-2h ago
+3h ago
 
 ---
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-18h ago
+19h ago
 
 ---
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -78,7 +78,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 Hi all: I’m working on building a power architect tool where an engineer could come and set their system with motors, sensors, etc, then go further and pick specific components, and the system would give a reasonably accurate power draw need for the setup. This will help robotics engineers understand budgeting of their robotic systems and hopefully help students learn things that they don’t learn at college. I’m looking to hear about any pain points or ideas on this build 🙏
 
-29m ago
+1h ago
 
 ---
 
@@ -94,7 +94,7 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 Hello everyone. I need help programming a robotic arm. I managed to create a python and Arduino application that I use to control the arm. I defined the offsets and it works properly, however, I haven't finalized the project yet because I don't know how. The surface you see is the work surface in front of the arm, it is limited by 4 aruco markers that define the working area. The surface dimensions are 240*120mm with 6 columns by 3 rows. It is designed that the cubes that will have the aruco codes when placed on this work surface are scanned, but also the precise x and y coordinates are read based on the total area. The same x and y coordinates need to be converted into servo positions so that the arm moves, picks them up and carries them to the boxes where I will later enter the coordinates and place them. This is my first such demanding project, so any recommendations, advice and help would be welcome. Thanks in advance and I hope you can help me! https://preview.redd.it/lqudfoex21pg1.jpg?width=2252&format=pjpg&auto=webp&s=b29314ed995ae0ec20f52d342766de34e04ec5cd
 
-4h ago
+5h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hello everyone. I need help programming a robotic arm. I managed to create a pyt
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -128,7 +128,7 @@ NPR • 1d ago
 
 Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
 
-13wham.com • 8h ago
+13wham.com • 9h ago
 
 ---
 
@@ -184,7 +184,7 @@ Ukrinform • 23h ago
 
 For many students, these competitions are where classroom lessons turn into real world skills.
 
-WTHR • 9m ago
+WTHR • 49m ago
 
 ---
 

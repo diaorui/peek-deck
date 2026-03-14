@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T19:49:56.109975+00:00'
+updated: '2026-03-14T20:29:38.498060+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 19:49 UTC  
+**Last Updated:** March 14, 2026 at 20:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-19h ago
+20h ago
 
 ---
 
@@ -143,7 +143,7 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
+14h ago
 
 ---
 
@@ -155,7 +155,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -171,7 +171,7 @@ Financial Times • 1d ago
 
 Bitcoin (CRYPTO: BTC) and Gold are the two most recognized store-of-value assets in the world. Both are built on the promise of holding value when everything else falls, but they are moving in completely opposite directions right now. Gold is trading near $5,200 an ounce after climbing 77% over the past year, hitting an all-time ... Bitcoin vs Gold: One Is Up 77%, the Other Is Down 47%. Here’s Which One Wall Street Is Picking for the Next 5 Years
 
-finance.yahoo.com • 49m ago
+finance.yahoo.com • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ finance.yahoo.com • 49m ago
 
 The cryptocurrency community pushed back, with Michael Saylor saying Bitcoin has no issuer, promoter, or guaranteed return, and is instead  driven by code and market demand.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 2h ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -213,7 +213,7 @@ Investopedia • 1d ago
 
 **[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773506400)**
 
-Polymarket • 16h ago
+Polymarket • 17h ago
 
 ---
 
@@ -343,7 +343,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 349 • ⏱️ 14:33 • 22h ago
+👁️ 25K • 👍 2K • 💬 349 • ⏱️ 14:33 • 23h ago
 
 ---
 
@@ -363,7 +363,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 138 • 💬 97 • ⏱️ 11:48 • 3h ago
+👁️ 1K • 👍 138 • 💬 97 • ⏱️ 11:48 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin may be on the verge of its next big move, and most investors could be co
 
 📺 Valuetainment
 
-👁️ 60K • 👍 1K • 💬 138 • ⏱️ 1:06 • 1d ago
+👁️ 60K • 👍 1K • 💬 138 • ⏱️ 1:06 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T19:49:56.115391+00:00'
+updated: '2026-03-14T20:29:38.503989+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 19:49 UTC  
+**Last Updated:** March 14, 2026 at 20:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
 
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 14h ago
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
 
-7h ago
+8h ago
 
 ---
 
@@ -152,7 +152,7 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
 
-Coinpaper • 12h ago
+Coinpaper • 13h ago
 
 ---
 
@@ -200,7 +200,7 @@ CoinDesk • 1d ago
 
 The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 826 • 👍 63 • 💬 36 • ⏱️ 9:05 • 5h ago
+👁️ 826 • 👍 63 • 💬 36 • ⏱️ 9:05 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 104 • 👍 16 • 💬 2 • ⏱️ 6:36 • 3h ago
+👁️ 104 • 👍 16 • 💬 2 • ⏱️ 6:36 • 4h ago
 
 ---
 
@@ -288,7 +288,7 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 5K • 👍 82 • 💬 13 • ⏱️ 7:47 • 1d ago
+👁️ 5K • 👍 82 • 💬 13 • ⏱️ 7:47 • 2d ago
 
 ---
 
@@ -298,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 313 • 👍 22 • 💬 2 • ⏱️ 6:31 • 8h ago
+👁️ 313 • 👍 22 • 💬 2 • ⏱️ 6:31 • 9h ago
 
 ---
 
@@ -308,7 +308,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 453 • 👍 70 • 💬 3 • ⏱️ 28:37 • 6h ago
+👁️ 453 • 👍 70 • 💬 3 • ⏱️ 28:37 • 7h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 300 • 💬 160 • ⏱️ 18:21 • 19h ago
+👁️ 8K • 👍 300 • 💬 160 • ⏱️ 18:21 • 20h ago
 
 ---
 

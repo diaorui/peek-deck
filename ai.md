@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T19:49:56.102217+00:00'
+updated: '2026-03-14T20:29:38.489649+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 19:49 UTC  
+**Last Updated:** March 14, 2026 at 20:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
 
-🔗 [substack.com](https://substack.com/home/post/p-190322208) • 2h ago
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Claude will certainly read statements made by Anthropic founder Dario Amodei whi
 
 Integrated an evolutionary database to Karpathy's autoresearch project that replaces the simple tsv file based logging in the original project. Evolutionary algorithms have shown to be a powerful tool for autonomously discovering optimal solutions to problems with large search spaces. Famously, Google DeepMind's AlphaEvolve system uses evolutionary algorithms to discover state of the art matrix multiplication algorithms. The implementation of the evolutionary database itself is based heavily on the implementation in OpenEvolve. Would love thoughts and suggestions from the community. Check it out: https://github.com/hgarud/autoresearch
 
-27m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Integrated an evolutionary database to Karpathy's autoresearch project that repl
 
 This week's round of drm-misc-next patches bring a few improvements to the AMDXDNA accelerator driver used for supporting the Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 59m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 1h ago
 
 ---
 
@@ -77,7 +77,7 @@ AI Product Recommendation is a system that uses mathematical models to predict y
 Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
 Your responses are anonymous and will be used for academic research only.
 
-🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 2h ago
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 3h ago
 
 ---
 
@@ -85,7 +85,7 @@ Your responses are anonymous and will be used for academic research only.
 
 In a recent conversation with Gemeni (Google Gemini mobile) I discussed with "her" about whether LLM has real intelligence, and she said she is only sure that she has very high linguistic competency, but whether it is true intelligence is still debatable. So I further gave her a focused challenge on linguistics to see if she has ways of truly understanding semantics. The challenge is to create a novel and original analogy for a given situation. the situation described is "the lack of desire for things you once longed for". The analogy need to be brief (<= 10 words). Through iterations of attempt and critique, Gemini gave the below list of analogies (followed by my view): "Like holding a key to a house that was demolished" [Wrong] "Like reading a map for a city you've already left" [still wrong] "Like a flashlight in the middle of a sunny day" [still does not work] "Like hearing a joke you've already heard the punchline to" [this is getting close. try again] "Like staring at a trophy you no longer remember winning" "Like watching a movie after the actors have all died" "Like a love letter written to a person you've outgrown" [None of above hits the mark. All your analogy starts with doing sthing or existence of sthing. However my situation starts with absence of sthing] "Like the silence after a bell stops ringing" [Try again with silence. It captures the absence. however the second half does not hit the mark] "Like a radio tuned to a station that stopped broadcasting" [ This is getting there. Anything you can do better?] "Like a harbor where the tide never came back" [This is poetic, but a harbor with or without tide may still be a functional harbor?] "Like a sail hanging limp on a windless ocean" [Ok we will stop for today] In fact I find Gemini is still not able to find a satisfactory analogy. Do you think the current LLM mechanism can truly be able to master creation of analogy? If an LLM can truly master analogy does it mean it has a higher level of understanding of semantics?
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ In a recent conversation with Gemeni (Google Gemini mobile) I discussed with "he
 
 I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI agents entirely in RAM, wiring up their tools and behavior on the fly. Sorry in advance for the vid quality i dont like making them. JL Engine isn’t another chat UI or preset pack — it’s a full agent runtime that builds itself as it runs. You can point it at any backend you want, local or cloud, and it doesn’t blink; Google, OpenAI, your own inference server, whatever you’ve got, it just plugs in and goes. The engine loads personas, merges layers, manages behavior states, and even discovers and registers its own tools without you wiring anything manually. It’s local‑first because I wanted privacy and control, but it’s not locked to local at all — it’s backend‑agnostic by design. The whole point is that the agent stays consistent no matter what model is behind it, because the runtime handles the complexity instead of dumping it on the user. If you want something that actually feels like an agent system instead of a wrapper, this is what I built. not self Promoting just posting to share get ideas maybe some help that would be great. https://github.com/jaden688/JL_Engine-local.git
 
-19h ago
+20h ago
 
 ---
 
@@ -127,7 +127,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 **[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
 
-Reuters • 19h ago
+Reuters • 20h ago
 
 ---
 
@@ -135,7 +135,7 @@ Reuters • 19h ago
 
 Meta layoffs could cut 20% of workforce as tech giant weighs job reductions to offset rising artificial intelligence infrastructure costs.
 
-Fox Business • 11h ago
+Fox Business • 12h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fox Business • 11h ago
 
 Sources tell Reuters layoffs could affect 20% or more of company as plans reflect broader tensions within big tech
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Guardian • 18h ago
 
 A major Brookings Institute study of more than 500 students and educators across 50 countries found the risks of AI in the classroom “overshadow its benefits.”
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -165,7 +165,7 @@ Gizmodo • 3h ago
 
 **[Only the American people can save AI](https://thehill.com/opinion/technology/5783340-ai-trust-gap-america/)**
 
-The Hill • 2h ago
+The Hill • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ Fortune • 2h ago
 
 The technology has been used to create misleading fakes before. But never at this scale.
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -197,7 +197,7 @@ CNN • 1d ago
 
 First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable people
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -481,7 +481,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 `text-generation` `4.0B`
 
-⬇️ 1,012 • ❤️ 160 • 18h ago
+⬇️ 1,012 • ❤️ 160 • 19h ago
 
 ---
 
@@ -675,7 +675,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.2k • 🔱 918 • 20h ago
+⭐ 20.2k • 🔱 918 • 21h ago
 
 ---
 
@@ -685,7 +685,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.3k • 🔱 1.3k • 4h ago
+⭐ 11.3k • 🔱 1.3k • 5h ago
 
 ---
 
@@ -735,7 +735,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 745 • 18h ago
+⭐ 6.3k • 🔱 745 • 19h ago
 
 ---
 
