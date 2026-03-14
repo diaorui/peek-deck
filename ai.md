@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T21:28:16.332065+00:00'
+updated: '2026-03-14T21:50:52.137426+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 21:28 UTC  
+**Last Updated:** March 14, 2026 at 21:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-8h ago
+9h ago
 
 ---
 
@@ -65,7 +65,7 @@ Integrated an evolutionary database to Karpathy's autoresearch project that repl
 
 This week's round of drm-misc-next patches bring a few improvements to the AMDXDNA accelerator driver used for supporting the Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 3h ago
 
 ---
 
@@ -457,7 +457,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 13,104 • ❤️ 189 • 6h ago
+⬇️ 13,104 • ❤️ 189 • 7h ago
 
 ---
 
@@ -481,7 +481,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 65,894 • ❤️ 161 • 3d ago
+⬇️ 65,894 • ❤️ 161 • 4d ago
 
 ---
 
@@ -665,7 +665,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 27.0k • 🔱 3.6k • 33m ago
+⭐ 27.0k • 🔱 3.6k • 55m ago
 
 ---
 
@@ -675,7 +675,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.3k • 🔱 920 • 21h ago
+⭐ 20.3k • 🔱 920 • 22h ago
 
 ---
 
@@ -725,7 +725,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 7.0k • 🔱 313 • 5h ago
+⭐ 7.0k • 🔱 313 • 6h ago
 
 ---
 

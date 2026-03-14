@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T21:28:16.347106+00:00'
+updated: '2026-03-14T21:50:52.150103+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 21:28 UTC  
+**Last Updated:** March 14, 2026 at 21:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
 
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 15h ago
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 Ethereum Foundation (EF) wrote a constitution for the soul of the project. The new EF Mandate isn't just a corporate mission statement but a line in the sand for how Ethereum stays human in an increasingly automated world. The EF is calling its core philosophy CROPS. If a feature isn’t Censorship-resistant, Resilient, Open-source, Private, and Secure, it doesn't belong on ethereum . No trading sovereignty for convenience. Here are the main points: Stewardship, Not Ownership: The EF is explicitly saying they aren't the boss. They are temporary caretakers who eventually want to disappear. This is the ultimate decentralize or die commitment. The AI Shield: They see a future where AI and opaque algorithms run everything. Ethereum’s job is to be the Infinite Garden, a place where humans, not code or corporations, have the final say over their own lives. Immutable Values: By publishing this directly onto the blockchain, they’ve made their values as permanent as a transaction. You can’t edit the project's soul once it’s on-chain. This is a massive vibe check for the entire ecosystem. It’s a reminder that if we give up control for a slightly faster app, we’ve already lost the plot. Can a written mandate actually stop the slow creep of centralization, or is the pull of convenience just too strong? Let’s talk. 👇 Source
 
-14h ago
+15h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 147 • 💬 64 • ⏱️ 12:50 • 10h ago
+👁️ 2K • 👍 147 • 💬 64 • ⏱️ 12:50 • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 335 • ⏱️ 13:31 • 22h ago
+👁️ 37K • 👍 2K • 💬 335 • ⏱️ 13:31 • 23h ago
 
 ---
 

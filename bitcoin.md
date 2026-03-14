@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T21:28:16.340941+00:00'
+updated: '2026-03-14T21:50:52.144894+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 21:28 UTC  
+**Last Updated:** March 14, 2026 at 21:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -91,13 +91,13 @@ Rank #1
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-10h ago
+11h ago
 
 ---
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged themselves by demanding ransom in Bitcoin. Other
 
-🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 2h ago
+🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 3h ago
 
 ---
 
@@ -155,7 +155,7 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 Former United Kingdom Prime Minister Boris Johnson has described Bitcoin (BTC) and other cryptocurrencies as a “giant Ponzi scheme,” warning that the digital asset industry depends largely on belief rather than intrinsic value. Writing in a new column for the Daily Mail, Johnson argued that ...
 
-finance.yahoo.com • 20h ago
+finance.yahoo.com • 21h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 4h ago
 
 Strategy Inc. Chair Michael Saylor said on Thursday that Bitcoin purchases don't lead to immediate price increases and there’s always a “delay.” Another Call To HODL? In what looked like a cheeky reminder on X, Saylor pointed out the lag...
 
-finance.yahoo.com • 58m ago
+finance.yahoo.com • 1h ago
 
 ---
 
@@ -263,7 +263,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 12h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 13h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 91K • 👍 4K • 💬 761 • ⏱️ 18:10 • 1d ago
+👁️ 91K • 👍 4K • 💬 761 • ⏱️ 18:10 • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 221 • 💬 11 • ⏱️ 4:28 • 22h ago
+👁️ 4K • 👍 221 • 💬 11 • ⏱️ 4:28 • 23h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T21:28:16.350318+00:00'
+updated: '2026-03-14T21:50:52.152830+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 21:28 UTC  
+**Last Updated:** March 14, 2026 at 21:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi all: I’m working on building a power architect tool where an engineer could
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 22h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ Financial Times • 2d ago
 
 Inside Lucas Oil Stadium in downtown Indianapolis, the future of engineering is already at work.  The Indiana Robotics State Championship is happening over the weekend of March 14-15, and at the heart...
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 18K • 👍 450 • 💬 45 • ⏱️ 14:52 • 21h ago
+👁️ 18K • 👍 450 • 💬 45 • ⏱️ 14:52 • 22h ago
 
 ---
 
