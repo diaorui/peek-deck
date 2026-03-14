@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T12:54:42.287914+00:00'
+updated: '2026-03-14T13:47:29.369190+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 12:54 UTC  
+**Last Updated:** March 14, 2026 at 13:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-1h ago
+2h ago
 
 ---
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-17h ago
+18h ago
 
 ---
 
@@ -62,7 +62,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -76,7 +76,7 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -84,7 +84,7 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 Innate on GitHub (can apply for closed beta): https://github.com/innate-inc From Axel on 𝕏: https://x.com/ax_pey/status/2032133629317693713 Innate on 𝕏: https://x.com/innate_bot
 
-20m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ Innate on GitHub (can apply for closed beta): https://github.com/innate-inc From
 
 This I am curious about because while doing experiments and debugging, it took me so much time and I want to know that while doing the project or experiment how do i maintain the log so that i have a record and also save my time while debugging.
 
-53m ago
+1h ago
 
 ---
 
@@ -110,13 +110,13 @@ This I am curious about because while doing experiments and debugging, it took m
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
 **[Uber co-founder Kalanick launches Atoms in specialized robotics push](https://www.reuters.com/business/uber-co-founder-kalanick-launches-atoms-specialized-robotics-push-2026-03-13/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
@@ -124,7 +124,7 @@ Reuters • 15h ago
 
 Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
 
-The Information • 19h ago
+The Information • 20h ago
 
 ---
 
@@ -154,7 +154,7 @@ TechCrunch • 2d ago
 
 Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
 
-13wham.com • 1h ago
+13wham.com • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from bot
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 22h ago
+Quanta Magazine • 23h ago
 
 ---
 
@@ -170,7 +170,7 @@ Quanta Magazine • 22h ago
 
 In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
 
-Ukrinform • 16h ago
+Ukrinform • 17h ago
 
 ---
 
@@ -250,7 +250,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 zhulongfeng 6
 
-👁️ 16K • 👍 90 • ⏱️ 0:21 • 12h ago
+👁️ 16K • 👍 90 • ⏱️ 0:21 • 13h ago
 
 ---
 
@@ -280,7 +280,7 @@ It's robotic horse season in China. The Hangzhou-based startup DEEP Robotics jus
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 58 • 💬 2 • ⏱️ 0:35 • 8h ago
+👁️ 1K • 👍 58 • 💬 2 • ⏱️ 0:35 • 9h ago
 
 ---
 

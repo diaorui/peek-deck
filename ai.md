@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T12:54:42.269978+00:00'
+updated: '2026-03-14T13:47:29.351458+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 12:54 UTC  
+**Last Updated:** March 14, 2026 at 13:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-12m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI agents entirely in RAM, wiring up their tools and behavior on the fly. Sorry in advance for the vid quality i dont like making them. JL Engine isn’t another chat UI or preset pack — it’s a full agent runtime that builds itself as it runs. You can point it at any backend you want, local or cloud, and it doesn’t blink; Google, OpenAI, your own inference server, whatever you’ve got, it just plugs in and goes. The engine loads personas, merges layers, manages behavior states, and even discovers and registers its own tools without you wiring anything manually. It’s local‑first because I wanted privacy and control, but it’s not locked to local at all — it’s backend‑agnostic by design. The whole point is that the agent stays consistent no matter what model is behind it, because the runtime handles the complexity instead of dumping it on the user. If you want something that actually feels like an agent system instead of a wrapper, this is what I built. not self Promoting just posting to share get ideas maybe some help that would be great. https://github.com/jaden688/JL_Engine-local.git
 
-12h ago
+13h ago
 
 ---
 
@@ -65,7 +65,7 @@ JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI
 
 Guys im kinda confused with AI right now. In the beginning of the whole thing with every update you could actually notice some improvements or actually new features. Now when there is a new update for let's say Gemini or ChatGPT there is literally nothing different. It still has the same flaws and problems. Also im kinda trying to figure out what is really a realistic picture of our future with AI. Since there are very extreme opinions on the topic in the Internet from "AGI will be here in 2030 and we can not imagine what's coming" to "LLMs are a dead end road bigger models aren't producing better work anymore we basically have nothing and there is no real AI". I really would love to hear some realistic balanced opinions on this topic without the hype just some raw opinions on it. Its also okay if the answer would be we just can't tell. I mean there are things like Titans/MIRAS from Google Deepmind that could solve some problems like the small context windows and synthetic data could also be a thing but is there even a possibility that an LLM will develop into something bigger like an actual AI or is it clear to say it will improve but there are fundamental borders that it will never stop and all they will do from there on is to make it more efficient and it will stay in that state as an helpful companion at work. Would love to hear your opinions also sorry for the bad English its not my mother tongue.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Guys im kinda confused with AI right now. In the beginning of the whole thing wi
 
 The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 22h ago
 
 ---
 
@@ -89,7 +89,7 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
 
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 22h ago
+🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 23h ago
 
 ---
 
@@ -97,7 +97,7 @@ See which U.S. states are adopting AI at work fastest, based on U.S. Census data
 
 Ok this might be dumb. Spent a lot of time loking at llms.txt and thinking about content and ai AUTHORSHIP. So I made identity.txt, does the same thing as llms.txt for people. The problem: every AI tool has "custom instructions" but they're siloed. Switch tools and you lose everything. Your tone, your expertise, your preferences. You end up re-explaining yourself constantly. identity.txt is just a markdown file. Same idea as llms.txt, humans.txt, robots.txt. You write it once and it works everywhere. Paste it into ChatGPT, Claude, Gemini, wherever. Or host it at yourdomain.com/identity.txt and link to it. What's in it: - Your name (H1 heading) - Sections like ## Voice (how you write), ## Expertise (what you know), ## Preferences (hard rules) - A ## Terms section - basically robots.txt for your identity. We're also experimenting with hosting at identitytxt.org where you sign in with Google and get a permanent URL. But honestly the spec is the point, not the service. Self-hosting works fine. This is very early and experimental. We're trying to start a conversation about portable identity for AI, not ship a finished product. The spec is CC-BY 4.0 and completely open: https://github.com/Fifty-Five-and-Five/identitytxt Would love to know: do you find yourself re-explaining who you are to AI tools? Is a file convention the right answer or is there a better approach? https://identitytxt.org
 
-14h ago
+15h ago
 
 ---
 
@@ -125,19 +125,19 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 Meta layoffs could cut 20% of workforce as tech giant weighs job reductions to offset rising artificial intelligence infrastructure costs.
 
-Fox Business • 4h ago
+Fox Business • 5h ago
 
 ---
 
 **[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
 **[Meta reportedly seeking massive layoffs amid mounting AI costs](https://seekingalpha.com/news/4564547-meta-seeking-massive-layoffs-amid-ai-costs)**
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -145,13 +145,13 @@ Seeking Alpha • 1h ago
 
 Datacentre investment boom is one of the biggest infrastructure gambles of this era, and Britain may be uniquely exposed
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
 **[Blue books make a comeback at colleges in the AI era. Why not "chisels," critic mocks](https://www.axios.com/2026/03/14/ai-blue-books-colleges-jobs)**
 
-Axios • 20m ago
+Axios • 1h ago
 
 ---
 
@@ -159,19 +159,19 @@ Axios • 20m ago
 
 Former CISA Executive Director Bridget Bean discusses how the Iranian regime is utilizing AI images to create war deception.
 
-Fox News • 59m ago
+Fox News • 1h ago
 
 ---
 
 **[These 4 cybersecurity stocks are Wall Street’s favorite AI-proof plays](https://www.marketwatch.com/story/these-4-cybersecurity-stocks-are-wall-streets-favorite-ai-proof-plays-7f49f15d?gaa_at=eafs&gaa_n=AWEtsqdLOpDn_dDf8-YBeCHMSNgtza9gsKRXB8eoVfAJFfIuLtY1mnOWIeNp&gaa_ts=69b55df9&gaa_sig=qtIaNiRcWmFO0kBpQNQc6Xj9q5Co5V6unH0j4DHpbLc4gEtOk4Gy46V3Enh-SOw1oOFus7VAugH0TPzK0UFgWg%3D%3D)**
 
-MarketWatch • 24m ago
+MarketWatch • 1h ago
 
 ---
 
 **[Opinion | Why I’m Suing Grammarly](https://www.nytimes.com/2026/03/13/opinion/ai-doppelganger-deepfake-grammarly.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 16h ago
 
 Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
 
-CNN • 20h ago
+CNN • 21h ago
 
 ---
 
@@ -221,7 +221,7 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 454 • 💬 689 • 20h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 454 • 💬 689 • 21h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
@@ -279,7 +279,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 47K • 👍 2K • 💬 336 • ⏱️ 3:28 • 17h ago
+👁️ 47K • 👍 2K • 💬 336 • ⏱️ 3:28 • 18h ago
 
 ---
 
@@ -299,7 +299,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3
 
 📺 Dan Martell
 
-👁️ 113K • 👍 5K • 💬 269 • ⏱️ 14:25 • 1d ago
+👁️ 113K • 👍 5K • 💬 269 • ⏱️ 14:25 • 2d ago
 
 ---
 
@@ -319,7 +319,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 51K • 👍 2K • 💬 181 • ⏱️ 33:33 • 20h ago
+👁️ 51K • 👍 2K • 💬 181 • ⏱️ 33:33 • 21h ago
 
 ---
 
@@ -329,7 +329,7 @@ Rumours about Israeli Prime Minister Benjamin Netanyahu's death have exploded ac
 
 📺 Oneindia News
 
-👁️ 5K • 👍 256 • 💬 79 • ⏱️ 4:39 • 2h ago
+👁️ 5K • 👍 256 • 💬 79 • ⏱️ 4:39 • 3h ago
 
 ---
 
@@ -339,7 +339,7 @@ Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 188 • 💬 16 • ⏱️ 18:24 • 18h ago
+👁️ 4K • 👍 188 • 💬 16 • ⏱️ 18:24 • 19h ago
 
 ---
 
@@ -349,7 +349,7 @@ I put the AI tools I use for helping local businesses in one place https://www.p
 
 📺 iampauljames
 
-👁️ 2K • 👍 97 • 💬 30 • ⏱️ 8:10 • 12h ago
+👁️ 2K • 👍 97 • 💬 30 • ⏱️ 8:10 • 13h ago
 
 ---
 
@@ -367,7 +367,7 @@ Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI 
 
 📺 Bob Reese
 
-👁️ 418K • 👍 12K • 💬 236 • ⏱️ 1:09 • 19h ago
+👁️ 418K • 👍 12K • 💬 236 • ⏱️ 1:09 • 20h ago
 
 ---
 
@@ -443,7 +443,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 13,104 • ❤️ 176 • 17h ago
+⬇️ 13,104 • ❤️ 176 • 18h ago
 
 ---
 
@@ -455,7 +455,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 8,760 • ❤️ 168 • 17h ago
+⬇️ 8,760 • ❤️ 168 • 18h ago
 
 ---
 
@@ -467,7 +467,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 `text-generation` `4.0B`
 
-⬇️ 1,012 • ❤️ 155 • 11h ago
+⬇️ 1,012 • ❤️ 155 • 12h ago
 
 ---
 
@@ -663,7 +663,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.1k • 🔱 911 • 13h ago
+⭐ 20.1k • 🔱 911 • 14h ago
 
 ---
 
@@ -693,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.0k • 🔱 652 • 20h ago
+⭐ 9.0k • 🔱 652 • 21h ago
 
 ---
 
@@ -713,7 +713,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 742 • 11h ago
+⭐ 6.3k • 🔱 742 • 12h ago
 
 ---
 
@@ -723,7 +723,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 666 • 1h ago
+⭐ 3.4k • 🔱 666 • 2h ago
 
 ---
 
