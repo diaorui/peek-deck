@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T14:57:25.395255+00:00'
+updated: '2026-03-14T15:34:46.088908+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 14:57 UTC  
+**Last Updated:** March 14, 2026 at 15:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +7.3%  
-**30d:** +2.8%  
-**90d:** -18.1%  
-**1y:** -16.0%  
+**24h:** -2.0%  
+**7d:** +6.9%  
+**30d:** +2.5%  
+**90d:** -18.4%  
+**1y:** -16.3%  
 
 ---
 
@@ -83,9 +83,21 @@ Rank #1
 
 ---
 
+**[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
+
+1h ago
+
+---
+
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-4h ago
+5h ago
+
+---
+
+**[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
+
+1h ago
 
 ---
 
@@ -94,12 +106,6 @@ Rank #1
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
 
 1d ago
-
----
-
-**[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
-
-33m ago
 
 ---
 
@@ -113,7 +119,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
-20h ago
+21h ago
 
 ---
 
@@ -125,25 +131,17 @@ For a long time I just ignored Bitcoin. Every time it came up it sounded like ei
 
 ---
 
-**[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
-
-21h ago
-
----
-
 **[Daily Discussion, March 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1rtbpso/daily_discussion_march_14_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
-**[Bitcoin Ark Network seems to be live, what are your thoughts?](https://www.reddit.com/r/Bitcoin/comments/1rtaqto/bitcoin_ark_network_seems_to_be_live_what_are/)**
+**[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-Just tested out Arcade wallet where you can send and receive on Lightning, Ark and mainnet all in one (Software wallet! However it’s an ark wallet. You keep custody of your bitcoin. Onchain batch outputs use an n-of-n multisig arrangement involving all VTXO owners and the Ark Operator. Users hold presigned transactions that allow them to unilaterally withdraw their funds without cooperation from the operator or other participants — typically after a predefined delay. The server can’t steal your bitcoin. This is kind of like how you can force close a lightning channel. What do you think of this scaling solution? It allows you to hold money without needing to worry about channels or them running off with your money. Will we see adoption of ark any time soon on exchanges? Edit I will give some free bitcoin to the first person to comment their ark address
-
-9h ago
+22h ago
 
 ---
 
@@ -155,45 +153,7 @@ Just tested out Arcade wallet where you can send and receive on Lightning, Ark a
 
 A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.
 
-CoinDesk • 11h ago
-
----
-
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqdPfz_0ZLNBCRQ5dk_cu70tl31TAB3BHce5_OSY871g-pxQuRgOJoVE&gaa_ts=69b573fb&gaa_sig=RsoYhfVo216p8hkvUd9XlGzo2_GC7eqzuUemDBMIMKPkIZLwHsCWefd2lIfeeQcLgs_J0Pfy2tfKqhCRuDTT-A%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[These Investors Bought $7 Billion in Bitcoin Last Year. Should You Buy It?](https://www.fool.com/investing/2026/03/14/these-investors-bought-7-billion-in-bitcoin-last-y/)**
-
-Financial institutions are now gobbling up Bitcoin.
-
-The Motley Fool • 3h ago
-
----
-
-**[Strategy's (MSTR) 1 millionth bitcoin (BTC): Here's how it could happen this year](https://www.coindesk.com/markets/2026/03/14/the-math-behind-strategy-s-path-to-1-million-bitcoin-by-the-end-of-2026)**
-
-The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
-
-CoinDesk • 54m ago
-
----
-
-**['Bitcoin Is Going To $10,000,' Bloomberg's McGlone Says: Crypto Is A 'Dead' Asset Class](https://finance.yahoo.com/news/bitcoin-going-10-000-bloombergs-153055288.html)**
-
-Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
-
-Yahoo Finance • 23h ago
-
----
-
-**[Guess What Asset Has Performed Well During the War in Iran? Believe It or Not—It’s Bitcoin](https://www.investopedia.com/guess-what-asset-has-performed-well-during-the-war-in-iran-believe-it-or-not-it-s-bitcoin-btc-gold-11925133)**
-
-The cryptocurrency has outperformed gold, the U.S. dollar, and the S&P 500 since the initial strikes on Iran.
-
-Investopedia • 23h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -205,23 +165,61 @@ Financial Times • 1d ago
 
 ---
 
+**[Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war](https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html)**
+
+ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
+
+CNBC • 34m ago
+
+---
+
+**[Bitcoin Hit a Major Milestone—Most Miners Won't Be Around for the Next One](https://finance.yahoo.com/news/bitcoin-hit-major-milestone-most-140730017.html)**
+
+Twenty million Bitcoin mined. One million left. The miners who got us here might not be around for the finish.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin holds ground as Iran war escalates and ETFs take in over $760m](https://www.dlnews.com/articles/markets/bitcoin-price-holds-steady-as-iran-war-rages-on/)**
+
+Bitcoin’s price dropped slightly Saturday — but it still held above $70,000. US Bitcoin ETFs took in over $760 million in new cash from investors.  The stock market took a hit Friday — but the crypto market remains strong.
+
+dlnews.com • 12m ago
+
+---
+
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqfA5Jzho_73BpTryYuxJkW7t-_nYTjTjGRUIr1S4mUY4Hox3z34PpP2&gaa_ts=69b58326&gaa_sig=rtlonp3BqUnSdoXfe6Xb4xhBwj8lIR9Il3ByRoy0nA71--Gi_dFXd0hy-pMYTV44xSBv-j_blZC5TY0qsoejyA%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
 Bloomberg.com • 22h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773485700)**
+**[Guess What Asset Has Performed Well During the War in Iran? Believe It or Not—It’s Bitcoin](https://www.investopedia.com/guess-what-asset-has-performed-well-during-the-war-in-iran-believe-it-or-not-it-s-bitcoin-btc-gold-11925133)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+The cryptocurrency has outperformed gold, the U.S. dollar, and the S&P 500 since the initial strikes on Iran.
 
-Polymarket • 12h ago
+Investopedia • 1d ago
+
+---
+
+**[JPMorgan says bitcoin and gold ETFs show sharp flow divergence since Iran war](https://www.theblock.co/post/393450/jpmorgan-bitcoin-and-gold-etfs-divergence-iran-war)**
+
+GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
+
+The Block • 1d ago
 
 ---
 
 **[Bitcoin Clears Month-High. This Miner's Chart Outshines Its Peers.](https://www.investors.com/news/bitcoin-price-march-73k-high-etf-flows-terawulf-wulf-stock-bitcoin-miners-crypto-stocks/)**
 
-Investor's Business Daily • 17h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -313,7 +311,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 26K • 👍 1K • 💬 210 • ⏱️ 12:14 • 23h ago
+👁️ 26K • 👍 1K • 💬 210 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -333,7 +331,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 265 • ⏱️ 14:33 • 17h ago
+👁️ 22K • 👍 2K • 💬 265 • ⏱️ 14:33 • 18h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T14:57:25.404267+00:00'
+updated: '2026-03-14T15:34:46.098554+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 14:57 UTC  
+**Last Updated:** March 14, 2026 at 15:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,13 +40,13 @@ Robotics research and industry news
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-13h ago
+14h ago
 
 ---
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-19h ago
+20h ago
 
 ---
 
@@ -74,9 +74,17 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 ---
 
+**[Pick and place robotic arm with aruco codes](https://www.reddit.com/r/robotics/comments/1rtm3yd/pick_and_place_robotic_arm_with_aruco_codes/)**
+
+Hello everyone. I need help programming a robotic arm. I managed to create a python and Arduino application that I use to control the arm. I defined the offsets and it works properly, however, I haven't finalized the project yet because I don't know how. The surface you see is the work surface in front of the arm, it is limited by 4 aruco markers that define the working area. The surface dimensions are 240*120mm with 6 columns by 3 rows. It is designed that the cubes that will have the aruco codes when placed on this work surface are scanned, but also the precise x and y coordinates are read based on the total area. The same x and y coordinates need to be converted into servo positions so that the arm moves, picks them up and carries them to the boxes where I will later enter the coordinates and place them. This is my first such demanding project, so any recommendations, advice and help would be welcome. Thanks in advance and I hope you can help me! https://preview.redd.it/lqudfoex21pg1.jpg?width=2252&format=pjpg&auto=webp&s=b29314ed995ae0ec20f52d342766de34e04ec5cd
+
+14m ago
+
+---
+
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -84,21 +92,13 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 ive had this question for about a week now and even though lot of AIs tell me esp32 is superior, i usually see people building robots with an arduino nano. The people that use nano are very experienced from what i saw and i think that if esp was really better they would have used it, to this day i ahvent seen anyone use the esp.
 
-54m ago
+1h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
 1d ago
-
----
-
-**[I'm researching how robotics teams handle experiment logging and debugging robot behavior. What does your current workflow look like? What breaks most often?](https://www.reddit.com/r/robotics/comments/1rthmed/im_researching_how_robotics_teams_handle/)**
-
-This I am curious about because while doing experiments and debugging, it took me so much time and I want to know that while doing the project or experiment how do i maintain the log so that i have a record and also save my time while debugging.
-
-2h ago
 
 ---
 
@@ -110,7 +110,7 @@ This I am curious about because while doing experiments and debugging, it took m
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -118,7 +118,7 @@ CNBC • 16h ago
 
 Developers of physical AI such as field and inspection robots need to consider cyber and data security, explains ANYbotics' CEO.
 
-The Robot Report • 38m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -162,11 +162,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[The Week’s 10 Biggest Funding Rounds: AI, Robotics And E-Commerce Top The Ranks](https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/)**
+
+Busy week, big checks, lots of AI and robotics. That, in ultra-brief synopsis form, characterized the general startup fundraising environment this week. Notably, the two largest global rounds were U.K.- and Paris-based. In the U.S., meanwhile, an e-commerce platform, an AI networking developer, and an industrial automation startup each picked up $500 million.
+
+Crunchbase News • 21h ago
+
+---
+
 **[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
 
 Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
 
-13wham.com • 3h ago
+13wham.com • 4h ago
 
 ---
 
@@ -174,15 +182,7 @@ Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from bot
 
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
-New Hampshire Public Radio • 1d ago
-
----
-
-**[New robotics programs aim to teach North American kids programming and AI skills](https://www.stocktitan.net/news/KIDZ/classover-announces-strategic-robotics-education-collaboration-with-gjcixgew113i.html)**
-
-Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
-
-Stock Titan • 1d ago
+New Hampshire Public Radio • 2d ago
 
 ---
 
@@ -246,7 +246,7 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 📺 Smokin' Silicon
 
-👁️ 62K • 👍 2K • 💬 115 • ⏱️ 10:52 • 6d ago
+👁️ 62K • 👍 2K • 💬 115 • ⏱️ 10:52 • 7d ago
 
 ---
 
