@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T17:27:47.490088+00:00'
+updated: '2026-03-14T17:52:50.570490+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 17:27 UTC  
+**Last Updated:** March 14, 2026 at 17:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
 
-11m ago
+37m ago
 
 ---
 
@@ -78,7 +78,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 18h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 19h ago
 
 ---
 
@@ -182,7 +182,7 @@ New Hampshire Public Radio • 2d ago
 
 In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
 
-Ukrinform • 20h ago
+Ukrinform • 21h ago
 
 ---
 
@@ -196,7 +196,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 15K • 👍 406 • 💬 41 • ⏱️ 14:52 • 17h ago
+👁️ 15K • 👍 406 • 💬 41 • ⏱️ 14:52 • 18h ago
 
 ---
 
@@ -264,7 +264,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 zhulongfeng 6
 
-👁️ 24K • 👍 113 • ⏱️ 0:21 • 16h ago
+👁️ 24K • 👍 113 • ⏱️ 0:21 • 17h ago
 
 ---
 

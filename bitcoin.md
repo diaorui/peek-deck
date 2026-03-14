@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T17:27:47.480850+00:00'
+updated: '2026-03-14T17:52:50.561329+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 17:27 UTC  
+**Last Updated:** March 14, 2026 at 17:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -91,7 +91,7 @@ Rank #1
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
-22h ago
+23h ago
 
 ---
 
@@ -153,7 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 8h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 9h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -351,7 +351,7 @@ The stock market is bleeding, Gold and Silver are breaking down, but the crypto 
 
 📺 Gareth Soloway
 
-👁️ 44K • 👍 3K • 💬 485 • ⏱️ 9:50 • 23h ago
+👁️ 44K • 👍 3K • 💬 485 • ⏱️ 9:50 • 1d ago
 
 ---
 
@@ -361,7 +361,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 221 • 💬 11 • ⏱️ 4:28 • 18h ago
+👁️ 3K • 👍 221 • 💬 11 • ⏱️ 4:28 • 19h ago
 
 ---
 
@@ -371,7 +371,7 @@ The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 426 • 💬 112 • ⏱️ 1:13 • 2d ago
+👁️ 14K • 👍 426 • 💬 112 • ⏱️ 1:13 • 3d ago
 
 ---
 
@@ -391,7 +391,7 @@ Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 186 • 💬 136 • ⏱️ 19:03 • 22h ago
+👁️ 4K • 👍 186 • 💬 136 • ⏱️ 19:03 • 23h ago
 
 ---
 
@@ -401,7 +401,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 11K • 👍 747 • 💬 267 • ⏱️ 29:33 • 12h ago
+👁️ 11K • 👍 747 • 💬 267 • ⏱️ 29:33 • 13h ago
 
 ---
 

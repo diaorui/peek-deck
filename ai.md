@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T17:27:47.472297+00:00'
+updated: '2026-03-14T17:52:50.553019+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 17:27 UTC  
+**Last Updated:** March 14, 2026 at 17:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
 
-🔗 [substack.com](https://substack.com/home/post/p-190322208) • 8m ago
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 33m ago
 
 ---
 
@@ -61,7 +61,7 @@ AI Product Recommendation is a system that uses mathematical models to predict y
 Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
 Your responses are anonymous and will be used for academic research only.
 
-🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 19m ago
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 44m ago
 
 ---
 
@@ -109,7 +109,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 Guys im kinda confused with AI right now. In the beginning of the whole thing with every update you could actually notice some improvements or actually new features. Now when there is a new update for let's say Gemini or ChatGPT there is literally nothing different. It still has the same flaws and problems. Also im kinda trying to figure out what is really a realistic picture of our future with AI. Since there are very extreme opinions on the topic in the Internet from "AGI will be here in 2030 and we can not imagine what's coming" to "LLMs are a dead end road bigger models aren't producing better work anymore we basically have nothing and there is no real AI". I really would love to hear some realistic balanced opinions on this topic without the hype just some raw opinions on it. Its also okay if the answer would be we just can't tell. I mean there are things like Titans/MIRAS from Google Deepmind that could solve some problems like the small context windows and synthetic data could also be a thing but is there even a possibility that an LLM will develop into something bigger like an actual AI or is it clear to say it will improve but there are fundamental borders that it will never stop and all they will do from there on is to make it more efficient and it will stay in that state as an helpful companion at work. Would love to hear your opinions also sorry for the bad English its not my mother tongue.
 
-5h ago
+6h ago
 
 ---
 
@@ -129,13 +129,13 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 Meta plans potential layoffs as AI investments rise, with up to 16,000 jobs at risk. AI spending demands cost cuts across Big Tech.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
 **[Meta Mulls Cutting 20% Or More Of Jobs Amid Big AI Spending, Setbacks](https://www.investors.com/news/technology/meta-mulls-cutting-20-jobs-ai-spending-setbacks/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNN • 1d ago
 
 Just don't.
 
-Yahoo • 42m ago
+Yahoo • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo • 42m ago
 
 The Scrubs star referred to himself as "The guy not dating his chatbot."
 
-Gizmodo • 40m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Gizmodo • 40m ago
 
 "So there's a lot of scenarios here, a lot of really frightening scenarios about where escalation could lead," Sacks said.
 
-Fortune • 15m ago
+Fortune • 40m ago
 
 ---
 
@@ -245,7 +245,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 341 • 💬 452 • 23h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 341 • 💬 452 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -349,7 +349,7 @@ Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 215 • 💬 18 • ⏱️ 18:24 • 22h ago
+👁️ 5K • 👍 215 • 💬 18 • ⏱️ 18:24 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ Japan has unveiled a futuristic “Human Washing Machine” that uses AI technol
 
 📺 Knowledge Hub
 
-👁️ 5K • 👍 9 • ⏱️ 0:06 • 3h ago
+👁️ 5K • 👍 9 • ⏱️ 0:06 • 4h ago
 
 ---
 
@@ -455,7 +455,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 13,104 • ❤️ 184 • 2h ago
+⬇️ 13,104 • ❤️ 184 • 3h ago
 
 ---
 
@@ -663,7 +663,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 27.0k • 🔱 3.6k • 54m ago
+⭐ 27.0k • 🔱 3.6k • 1h ago
 
 ---
 
@@ -673,7 +673,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.2k • 🔱 916 • 17h ago
+⭐ 20.2k • 🔱 916 • 18h ago
 
 ---
 
@@ -723,7 +723,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 7.0k • 🔱 311 • 1h ago
+⭐ 7.0k • 🔱 311 • 2h ago
 
 ---
 
@@ -743,7 +743,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 666 • 1h ago
+⭐ 3.4k • 🔱 666 • 2h ago
 
 ---
 
