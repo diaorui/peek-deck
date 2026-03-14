@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T20:55:38.994134+00:00'
+updated: '2026-03-14T21:28:16.332065+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 20:55 UTC  
+**Last Updated:** March 14, 2026 at 21:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
 
-🔗 [substack.com](https://substack.com/home/post/p-190322208) • 3h ago
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Claude will certainly read statements made by Anthropic founder Dario Amodei whi
 
 Integrated an evolutionary database to Karpathy's autoresearch project that replaces the simple tsv file based logging in the original project. Evolutionary algorithms have shown to be a powerful tool for autonomously discovering optimal solutions to problems with large search spaces. Famously, Google DeepMind's AlphaEvolve system uses evolutionary algorithms to discover state of the art matrix multiplication algorithms. The implementation of the evolutionary database itself is based heavily on the implementation in OpenEvolve. Would love thoughts and suggestions from the community. Check it out: https://github.com/hgarud/autoresearch
 
-1h ago
+2h ago
 
 ---
 
@@ -77,7 +77,7 @@ AI Product Recommendation is a system that uses mathematical models to predict y
 Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
 Your responses are anonymous and will be used for academic research only.
 
-🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 3h ago
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 4h ago
 
 ---
 
@@ -93,7 +93,7 @@ I was reading about the ongoing debate around AI consciousness, and it made me t
 
 I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI agents entirely in RAM, wiring up their tools and behavior on the fly. Sorry in advance for the vid quality i dont like making them. JL Engine isn’t another chat UI or preset pack — it’s a full agent runtime that builds itself as it runs. You can point it at any backend you want, local or cloud, and it doesn’t blink; Google, OpenAI, your own inference server, whatever you’ve got, it just plugs in and goes. The engine loads personas, merges layers, manages behavior states, and even discovers and registers its own tools without you wiring anything manually. It’s local‑first because I wanted privacy and control, but it’s not locked to local at all — it’s backend‑agnostic by design. The whole point is that the agent stays consistent no matter what model is behind it, because the runtime handles the complexity instead of dumping it on the user. If you want something that actually feels like an agent system instead of a wrapper, this is what I built. not self Promoting just posting to share get ideas maybe some help that would be great. https://github.com/jaden688/JL_Engine-local.git
 
-20h ago
+21h ago
 
 ---
 
@@ -127,7 +127,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 **[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -135,7 +135,7 @@ Reuters • 20h ago
 
 Meta layoffs could cut 20% of workforce as tech giant weighs job reductions to offset rising artificial intelligence infrastructure costs.
 
-Fox Business • 12h ago
+Fox Business • 13h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Guardian • 20h ago
 
 A major Brookings Institute study of more than 500 students and educators across 50 countries found the risks of AI in the classroom “overshadow its benefits.”
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -159,7 +159,7 @@ Fortune • 11h ago
 
 The technology has been used to create misleading fakes before. But never at this scale.
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -175,13 +175,13 @@ CNN • 1d ago
 
 First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable people
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
 **[Blue books make a comeback at colleges in the AI era. Why not "chisels," critic mocks](https://www.axios.com/2026/03/14/ai-blue-books-colleges-jobs)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
@@ -189,7 +189,7 @@ Axios • 7h ago
 
 Deglobalisation is expensive for individual countries, but a windfall for their suppliers
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -197,7 +197,7 @@ Financial Times • 15h ago
 
 The S&P Peru Total Index has soared 23% in 2026 and is up more than 75% over the past 12 months.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -217,7 +217,7 @@ Detect your hardware and find out which AI models you can run locally. GPU, CPU,
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 741 • 💬 384 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 741 • 💬 384 • 2d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -301,7 +301,7 @@ Access ALL AI Video Generators in Higgsfield https://higgsfield.ai?fpr=ai&fp_sid
 
 📺 Isa does AI
 
-👁️ 7K • 💬 2 • ⏱️ 11:35 • 5h ago
+👁️ 7K • 💬 2 • ⏱️ 11:35 • 6h ago
 
 ---
 
@@ -311,7 +311,7 @@ Get your MyHeritage DNA test kit & 30 day free trial for just $29 using my link 
 
 📺 Dan Dingle
 
-👁️ 32K • 👍 3K • 💬 372 • ⏱️ 26:34 • 8h ago
+👁️ 32K • 👍 3K • 💬 372 • ⏱️ 26:34 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ Netanyahu 'Killed' In Iran Strikes? Viral AI 'Six-Finger' Bibi Video Fuels Assas
 
 📺 Cross World News
 
-👁️ 4K • 👍 59 • 💬 18 • ⏱️ 8:55 • 6h ago
+👁️ 4K • 👍 59 • 💬 18 • ⏱️ 8:55 • 7h ago
 
 ---
 
@@ -493,7 +493,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 `text-generation` `4.0B`
 
-⬇️ 1,012 • ❤️ 160 • 19h ago
+⬇️ 1,012 • ❤️ 160 • 20h ago
 
 ---
 
@@ -665,7 +665,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 27.0k • 🔱 3.6k • 33s ago
+⭐ 27.0k • 🔱 3.6k • 33m ago
 
 ---
 
@@ -685,7 +685,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.3k • 🔱 1.3k • 5h ago
+⭐ 11.3k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -735,7 +735,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 746 • 50m ago
+⭐ 6.3k • 🔱 746 • 1h ago
 
 ---
 
@@ -745,7 +745,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 668 • 1h ago
+⭐ 3.4k • 🔱 668 • 2h ago
 
 ---
 

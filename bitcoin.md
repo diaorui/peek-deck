@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T20:55:39.003060+00:00'
+updated: '2026-03-14T21:28:16.340941+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 20:55 UTC  
+**Last Updated:** March 14, 2026 at 21:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-20m ago
+52m ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged 
 
 Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
 
-29m ago
+1h ago
 
 ---
 
@@ -163,7 +163,7 @@ finance.yahoo.com • 20h ago
 
 The cryptocurrency community pushed back, with Michael Saylor saying Bitcoin has no issuer, promoter, or guaranteed return, and is instead  driven by code and market demand.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 3h ago
 
 Strategy Inc. Chair Michael Saylor said on Thursday that Bitcoin purchases don't lead to immediate price increases and there’s always a “delay.” Another Call To HODL? In what looked like a cheeky reminder on X, Saylor pointed out the lag...
 
-finance.yahoo.com • 25m ago
+finance.yahoo.com • 58m ago
 
 ---
 
@@ -187,7 +187,7 @@ Financial Times • 1d ago
 
 Bitcoin (CRYPTO: BTC) and Gold are the two most recognized store-of-value assets in the world. Both are built on the promise of holding value when everything else falls, but they are moving in completely opposite directions right now. Gold is trading near $5,200 an ounce after climbing 77% over the past year, hitting an all-time ... Bitcoin vs Gold: One Is Up 77%, the Other Is Down 47%. Here’s Which One Wall Street Is Picking for the Next 5 Years
 
-finance.yahoo.com • 1h ago
+finance.yahoo.com • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ finance.yahoo.com • 1h ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 17h ago
+Polymarket • 18h ago
 
 ---
 
@@ -315,7 +315,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 348 • ⏱️ 14:33 • 23h ago
+👁️ 26K • 👍 2K • 💬 348 • ⏱️ 14:33 • 1d ago
 
 ---
 
@@ -375,7 +375,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 202 • 💬 112 • ⏱️ 11:48 • 4h ago
+👁️ 2K • 👍 202 • 💬 112 • ⏱️ 11:48 • 5h ago
 
 ---
 
