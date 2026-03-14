@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T07:35:18.058897+00:00'
+updated: '2026-03-14T08:37:59.632555+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 07:35 UTC  
+**Last Updated:** March 14, 2026 at 08:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,624.25
+### $70,668.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +6.6%  
-**30d:** +2.2%  
-**90d:** -18.6%  
-**1y:** -16.5%  
+**24h:** -1.9%  
+**7d:** +7.1%  
+**30d:** +2.6%  
+**90d:** -18.3%  
+**1y:** -16.2%  
 
 ---
 
@@ -81,27 +81,19 @@ Rank #1
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
 
-22h ago
+23h ago
 
 ---
 
 **[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
 
-22h ago
+23h ago
 
 ---
 
 **[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-14h ago
-
----
-
-**[The easiest way to buy BTC near the bottom](https://www.reddit.com/r/Bitcoin/comments/1rsvldn/the_easiest_way_to_buy_btc_near_the_bottom/)**
-
-So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
-
-13h ago
+15h ago
 
 ---
 
@@ -109,13 +101,21 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-7h ago
+8h ago
 
 ---
 
-**[Bitcoin Ark Network seems to be live, what are your thoughts?](https://www.reddit.com/r/Bitcoin/comments/1rtaqto/bitcoin_ark_network_seems_to_be_live_what_are/)**
+**[The easiest way to buy BTC near the bottom](https://www.reddit.com/r/Bitcoin/comments/1rsvldn/the_easiest_way_to_buy_btc_near_the_bottom/)**
 
-Just tested out Arcade wallet where you can send and receive on Lightning, Ark and mainnet all in one (Software wallet! However it’s an ark wallet. You keep custody of your bitcoin. Onchain batch outputs use an n-of-n multisig arrangement involving all VTXO owners and the Ark Operator. Users hold presigned transactions that allow them to unilaterally withdraw their funds without cooperation from the operator or other participants — typically after a predefined delay. The server can’t steal your bitcoin. This is kind of like how you can force close a lightning channel. What do you think of this scaling solution? It allows you to hold money without needing to worry about channels or them running off with your money. Will we see adoption of ark any time soon on exchanges? Edit I will give some free bitcoin to the first person to comment their ark address
+So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
+
+14h ago
+
+---
+
+**[Daily Discussion, March 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1rtbpso/daily_discussion_march_14_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
 2h ago
 
@@ -125,7 +125,15 @@ Just tested out Arcade wallet where you can send and receive on Lightning, Ark a
 
 Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
 
-17h ago
+18h ago
+
+---
+
+**[Bitcoin Ark Network seems to be live, what are your thoughts?](https://www.reddit.com/r/Bitcoin/comments/1rtaqto/bitcoin_ark_network_seems_to_be_live_what_are/)**
+
+Just tested out Arcade wallet where you can send and receive on Lightning, Ark and mainnet all in one (Software wallet! However it’s an ark wallet. You keep custody of your bitcoin. Onchain batch outputs use an n-of-n multisig arrangement involving all VTXO owners and the Ark Operator. Users hold presigned transactions that allow them to unilaterally withdraw their funds without cooperation from the operator or other participants — typically after a predefined delay. The server can’t steal your bitcoin. This is kind of like how you can force close a lightning channel. What do you think of this scaling solution? It allows you to hold money without needing to worry about channels or them running off with your money. Will we see adoption of ark any time soon on exchanges? Edit I will give some free bitcoin to the first person to comment their ark address
+
+3h ago
 
 ---
 
@@ -133,15 +141,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 biggest mistake i see people make is running their mouth about bitcoin profits like somehow thats gonna convince anyone to buy in spoiler alert it doesnt work that way when you tell someone you doubled your money or whatever they dont think wow what a smart investment they think damn i fucked up by not getting in earlier and now im behind so instead of being curious about bitcoin they just get defensive and start looking for reasons why its stupid or a scam or whatever makes them feel better about missing out ive seen this pattern over and over again - the second you mention gains people shut down completely and start arguing about energy usage or volatility or how its not real money meanwhile if you just talk about the technology or why you think its interesting without bringing up your portfolio suddenly people actually listen lesson learned keep your wins to yourself and let other people discover bitcoin on their own timeline not because youre flexing your returns
 
-9h ago
-
----
-
-**[Daily Discussion, March 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1rtbpso/daily_discussion_march_14_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-1h ago
+10h ago
 
 ---
 
@@ -149,7 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Quick question for you guys. I have spent my last few days going down the crypto youtube rabbithole. Tthis guy ivan on tech keeps popping up on freakin every topic I search lol. I watched a few of his vids and that white prolly europen guy looks knowing when talking about bitcoin and stuff. At the same time crypto youtybe is full of people making predictions and hyping coins so it’s hard to separate legit analysis from straight hopium. So figured this sub be the best place to ask. Question is for people who actually follow his channel regularly, does his content genuinely help you understand the market. Or you use it just for crypto entertainment?v
 
-10h ago
+11h ago
 
 ---
 
@@ -161,29 +161,7 @@ Quick question for you guys. I have spent my last few days going down the crypto
 
 A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.
 
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqc28jqdrsg898y9kJcXX74w2skdx5ELyp6LzulqX_AK2z4XKHPCJob2&gaa_ts=69b50827&gaa_sig=xw1HnIIdCzVTJjGtzM5X8LrOARBZlkiAB55Y3vcNhEjo9OlD1hH-UiTKTPXAuuhTt_v_ZzY5iCNLF_oAqVeq4g%3D%3D)**
-
-Barron's • 17h ago
-
----
-
-**[BTC, ETH, ADA price news: Bitcoin holds $71,000 as Trump warns of Iran oil strikes](https://www.coindesk.com/markets/2026/03/14/bitcoin-holds-usd71-000-despite-trump-warning-after-iran-oil-strikes)**
-
-The largest cryptocurrency is up 4.2% on the week despite Friday's reversal, with attention now turning to the Fed meeting on March 17-18 and whether oil above $100 forces a shift in rate expectations.
-
-CoinDesk • 1h ago
-
----
-
-**['Bitcoin Is Going To $10,000,' Bloomberg's McGlone Says: Crypto Is A 'Dead' Asset Class](https://finance.yahoo.com/news/bitcoin-going-10-000-bloombergs-153055288.html)**
-
-Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
-
-Yahoo Finance • 16h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -195,17 +173,39 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
+**[Got $1,000 and Willing to Hold for 3 Years? Is It Better to Buy XRP or Bitcoin?](https://www.fool.com/investing/2026/03/14/got-1000-and-willing-to-hold-for-3-years-is-it-bet/)**
 
-Bloomberg.com • 14h ago
+One coin will need to use a strategy to win, and the other will need to continue doing nothing.
+
+The Motley Fool • 34m ago
 
 ---
 
-**[JPMorgan says bitcoin and gold ETFs show sharp flow divergence since Iran war](https://www.theblock.co/post/393450/jpmorgan-bitcoin-and-gold-etfs-divergence-iran-war)**
+**[BTC, ETH, ADA price news: Bitcoin holds $71,000 as Trump warns of Iran oil strikes](https://www.coindesk.com/markets/2026/03/14/bitcoin-holds-usd71-000-despite-trump-warning-after-iran-oil-strikes)**
 
-GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
+The largest cryptocurrency is up 4.2% on the week despite Friday's reversal, with attention now turning to the Fed meeting on March 17-18 and whether oil above $100 forces a shift in rate expectations.
 
-The Block • 1d ago
+CoinDesk • 2h ago
+
+---
+
+**['Bitcoin Is Going To $10,000,' Bloomberg's McGlone Says: Crypto Is A 'Dead' Asset Class](https://finance.yahoo.com/news/bitcoin-going-10-000-bloombergs-153055288.html)**
+
+Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
+
+Yahoo Finance • 17h ago
+
+---
+
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqef4PvDQcQ5_Wug146Gql0hBZeOTvsc17F9aggQoYu-18ooKo9P6X3i&gaa_ts=69b521cf&gaa_sig=GKv9dGTSN04iIyh563J-KnbiaabSB-PohYZEKv3XQpppbqLoOa82IEMF5uybQ08SR67G4V5UODWRo4svf1kz-Q%3D%3D)**
+
+Barron's • 18h ago
+
+---
+
+**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
+
+Bloomberg.com • 15h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Block • 1d ago
 
 Bitcoin miners are facing historically low margins and are responding by pivoting some operations to AI infrastructure.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -221,15 +221,15 @@ Bitcoin Magazine • 13h ago
 
 Boris Johnson warns Bitcoin depends entirely on fragile belief.
 
-thestreet.com • 10h ago
+thestreet.com • 11h ago
 
 ---
 
-**[White House admits Iran war burned equivalent of half the US Bitcoin reserve in 6 Days](https://cryptoslate.com/white-house-admits-iran-war-burned-equivalent-of-half-the-value-of-us-bitcoin-reserve-in-6-days/)**
+**[Iran war oil shock more likely to affect Bitcoin miners through BTC price than energy costs, analysts say](https://www.theblock.co/post/393531/iran-war-oil-shock-more-likely-to-affect-bitcoin-miners-through-btc-price-than-energy-costs-analysts-say)**
 
-The United States war spending hits $11.3 billion in six days, nearly half of the federal Bitcoin reserve's market value.
+Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
 
-CryptoSlate • 1d ago
+The Block • 20h ago
 
 ---
 
@@ -309,7 +309,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Read a letter from CEO Tim Cook as he reflects on 50 Years of Apple.
 
-⬆️ 1 • 💬 0 • 2h ago • [Apple](https://www.apple.com/50-years-of-thinking-different/)
+⬆️ 1 • 💬 0 • 3h ago • [Apple](https://www.apple.com/50-years-of-thinking-different/)
 
 ---
 
@@ -323,7 +323,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 231 • ⏱️ 14:33 • 10h ago
+👁️ 17K • 👍 1K • 💬 231 • ⏱️ 14:33 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 170 • ⏱️ 12:14 • 16h ago
+👁️ 23K • 👍 1K • 💬 170 • ⏱️ 12:14 • 17h ago
 
 ---
 
@@ -353,7 +353,7 @@ The stock market is bleeding, Gold and Silver are breaking down, but the crypto 
 
 📺 Gareth Soloway
 
-👁️ 38K • 👍 3K • 💬 408 • ⏱️ 9:50 • 14h ago
+👁️ 38K • 👍 3K • 💬 408 • ⏱️ 9:50 • 15h ago
 
 ---
 
@@ -373,7 +373,7 @@ Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 157 • 💬 28 • ⏱️ 19:03 • 12h ago
+👁️ 3K • 👍 157 • 💬 28 • ⏱️ 19:03 • 13h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin #Crypto #Finance Bitcoin adoption continues to accelerate even as invest
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 900 • 💬 230 • ⏱️ 22:15 • 18h ago
+👁️ 15K • 👍 900 • 💬 230 • ⏱️ 22:15 • 19h ago
 
 ---
 
@@ -393,7 +393,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 187 • 💬 9 • ⏱️ 4:28 • 8h ago
+👁️ 2K • 👍 187 • 💬 9 • ⏱️ 4:28 • 9h ago
 
 ---
 
@@ -403,7 +403,7 @@ Deezy looks at the bullish chart pattern for Gold, Oil and Bitcoin. But Bitcoin 
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 197 • 💬 92 • ⏱️ 5:33 • 13h ago
+👁️ 4K • 👍 197 • 💬 92 • ⏱️ 5:33 • 14h ago
 
 ---
 

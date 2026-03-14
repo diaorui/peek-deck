@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T07:35:18.068222+00:00'
+updated: '2026-03-14T08:37:59.645844+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 07:35 UTC  
+**Last Updated:** March 14, 2026 at 08:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
+
+7h ago
+
+---
+
 **[Sharpa robot autonomously peeling an apple with dual dexterous human-like hands, introducing "MoDE-VLA" (Mixture of Dexterous Experts) (paper)](https://www.reddit.com/r/robotics/comments/1rskd9u/sharpa_robot_autonomously_peeling_an_apple_with/)**
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-20h ago
-
----
-
-**[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
-
-6h ago
+21h ago
 
 ---
 
@@ -50,13 +50,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-12h ago
-
----
-
-**[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
-
-14h ago
+13h ago
 
 ---
 
@@ -64,13 +58,19 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 8h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 9h ago
+
+---
+
+**[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
+
+15h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -78,13 +78,13 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 I saw multiple pages post this clip, but none seem to mention if the robot is performing the task autonomously or not. What do you think? https://reddit.com/link/1rtb02x/video/nhn56abk4yog1/player
 
-2h ago
+3h ago
 
 ---
 
 **[Curious about the experiment data logging](https://www.reddit.com/r/robotics/comments/1rt7u8k/curious_about_the_experiment_data_logging/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -110,15 +110,13 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
+**[Uber co-founder Kalanick launches Atoms in specialized robotics push](https://www.reuters.com/business/uber-co-founder-kalanick-launches-atoms-specialized-robotics-push-2026-03-13/)**
 
-Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
-
-TechCrunch • 12h ago
+Reuters • 11h ago
 
 ---
 
@@ -126,11 +124,11 @@ TechCrunch • 12h ago
 
 Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
 
-The Information • 14h ago
+The Information • 15h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqc_JlgS3YqHMBO81Wf9gP-Dtj4pl170hZqpxLuW-Mgcj1uDThCFWRCE&gaa_ts=69b50897&gaa_sig=ipyCw07KdSbcmNo2_GkiU0eKxPgYGvpLAJOBSHY-EM1ccA3Fw9ec2z0hU1-xjxaO_B4x7mA4tgldol3e7fIgkQ%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqc10Z-FZdJ2nYEeVOB6m3wwhA6ykBxadzVoFlbsKWLbt7scrwErk2bS&gaa_ts=69b521d2&gaa_sig=nPzeXod8Vtuo86CSB8AqhassX3kVNcOEDeb5WAI71nd5nTkO9Npsfye4lk8kPoHwP_jMy9hQs1WvAWDWNthCUw%3D%3D)**
 
 WSJ • 2d ago
 
@@ -144,11 +142,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[Rivian-owned robotics company secures more startup funding](https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding)**
+**[Rivian spinout Mind Robotics valued at $2 billion in Series A funding round](https://finance.yahoo.com/news/rivian-spinout-mind-robotics-valued-180654489.html)**
 
-A startup robotics company owned by Rivian and founded by Rivian CEO RJ Scaringe has secured $500 million in startup capital. Mind Robotics announced an investment by Accel and Andreessen Horowitz. The firm wants to build AI-powered industrial robots.
+Mind Robotics, a startup spun out of EV maker Rivian, said on Wednesday it has raised $500 million ‌in a Series A funding co-led by Accel and Andreessen ‌Horowitz.  The industrial robotics company was valued at $2 billion, according to a person close to the deal.  The Palo Alto-headquartered company is ‌building a full-stack platform ⁠of foundation models, purpose-built robots and deployment infrastructure to automate industrial and manufacturing tasks at scale.
 
-WGLT • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -156,7 +154,7 @@ WGLT • 2d ago
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 16h ago
+Quanta Magazine • 17h ago
 
 ---
 
@@ -164,7 +162,7 @@ Quanta Magazine • 16h ago
 
 In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
 
-Ukrinform • 11h ago
+Ukrinform • 12h ago
 
 ---
 
@@ -180,7 +178,7 @@ Financial Times • 2d ago
 
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
-NPR • 17h ago
+NPR • 18h ago
 
 ---
 
@@ -222,7 +220,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Robot Julie 
 
-👁️ 1K • 👍 10 • ⏱️ 0:22 • 7h ago
+👁️ 1K • 👍 10 • ⏱️ 0:22 • 8h ago
 
 ---
 
@@ -282,7 +280,7 @@ It's robotic horse season in China. The Hangzhou-based startup DEEP Robotics jus
 
 📺 Kalil 4.0
 
-👁️ 481 • 👍 17 • 💬 1 • ⏱️ 0:35 • 3h ago
+👁️ 481 • 👍 17 • 💬 1 • ⏱️ 0:35 • 4h ago
 
 ---
 
