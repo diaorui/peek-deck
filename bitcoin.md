@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T20:29:38.498060+00:00'
+updated: '2026-03-14T20:55:39.003060+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 20:29 UTC  
+**Last Updated:** March 14, 2026 at 20:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,722.52
+### $70,793.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +7.1%  
-**30d:** +2.7%  
-**90d:** -18.2%  
-**1y:** -16.1%  
+**24h:** -0.4%  
+**7d:** +7.3%  
+**30d:** +2.9%  
+**90d:** -18.1%  
+**1y:** -16.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1413.14B
+**Market Cap:** $1416.57B
 Rank #1
 
-**Circulating Supply:** 20,002,043 BTC
+**Circulating Supply:** 20,002,100 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.0%
+-43.8%
 
 **All-Time Low:** $67.81
-+104092.6%
++104362.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,6 +95,12 @@ Rank #1
 
 ---
 
+**[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
+
+20m ago
+
+---
+
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
 6h ago
@@ -105,7 +111,15 @@ Rank #1
 
 A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged themselves by demanding ransom in Bitcoin. Other
 
-🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 1h ago
+🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 2h ago
+
+---
+
+**[I just bought my first Bitcoin. I need Advice](https://www.reddit.com/r/Bitcoin/comments/1rttx3o/i_just_bought_my_first_bitcoin_i_need_advice/)**
+
+Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
+
+29m ago
 
 ---
 
@@ -121,7 +135,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-20h ago
+21h ago
 
 ---
 
@@ -133,29 +147,31 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 ---
 
-**[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
-
-1d ago
-
----
-
-**[Daily Discussion, March 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1rtbpso/daily_discussion_march_14_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-14h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Strategy's (MSTR) 1 millionth bitcoin (BTC): Here's how it could happen this year](https://www.coindesk.com/markets/2026/03/14/the-math-behind-strategy-s-path-to-1-million-bitcoin-by-the-end-of-2026)**
+**[Michael Saylor slams Boris Johnson's harsh warnings on Bitcoin](https://finance.yahoo.com/news/michael-saylor-slams-boris-johnsons-003030674.html)**
 
-The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
+Former United Kingdom Prime Minister Boris Johnson has described Bitcoin (BTC) and other cryptocurrencies as a “giant Ponzi scheme,” warning that the digital asset industry depends largely on belief rather than intrinsic value. Writing in a new column for the Daily Mail, Johnson argued that ...
 
-CoinDesk • 6h ago
+finance.yahoo.com • 20h ago
+
+---
+
+**[Boris Johnson calling Bitcoin a ‘Ponzi’ draws rebuttal from Michael Saylor and others](https://www.coindesk.com/business/2026/03/14/boris-johnson-calling-bitcoin-a-ponzi-draws-rebuttal-from-michael-saylor-and-others)**
+
+The cryptocurrency community pushed back, with Michael Saylor saying Bitcoin has no issuer, promoter, or guaranteed return, and is instead  driven by code and market demand.
+
+CoinDesk • 3h ago
+
+---
+
+**[Michael Saylor Says Bitcoin Doesn't 'Go To The Moon' Overnight — Strategy Chair Says There's Always A 'Delay'](https://finance.yahoo.com/news/michael-saylor-says-bitcoin-doesnt-203016430.html)**
+
+Strategy Inc. Chair Michael Saylor said on Thursday that Bitcoin purchases don't lead to immediate price increases and there’s always a “delay.” Another Call To HODL? In what looked like a cheeky reminder on X, Saylor pointed out the lag...
+
+finance.yahoo.com • 25m ago
 
 ---
 
@@ -175,14 +191,6 @@ finance.yahoo.com • 1h ago
 
 ---
 
-**[Boris Johnson calling Bitcoin a ‘Ponzi’ draws rebuttal from Michael Saylor and others](https://www.coindesk.com/business/2026/03/14/boris-johnson-calling-bitcoin-a-ponzi-draws-rebuttal-from-michael-saylor-and-others)**
-
-The cryptocurrency community pushed back, with Michael Saylor saying Bitcoin has no issuer, promoter, or guaranteed return, and is instead  driven by code and market demand.
-
-CoinDesk • 3h ago
-
----
-
 **[Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war](https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html)**
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
@@ -191,13 +199,7 @@ CNBC • 5h ago
 
 ---
 
-**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqept7IoI2aonfL-YvIdBtkR84vXXTKp39_gI6qgZsCEAxndIBSS1Y23&gaa_ts=69b5bf51&gaa_sig=bW9-d8jakHtczMyeAdBvWq2b0IWO3b8OIr8hU79BPAVEeuYPwAkzWq_QfddpsCnCrNkkmBsYlu8jlTF1jm3DAA%3D%3D)**
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqe-xwY2wb8klB64p5kzsH9Wqrut06V_Tz_9eVt2VSLVGVGr4Hu9fROU&gaa_ts=69b5ceb6&gaa_sig=pIuv9HB8WE5NOOFctwP89iIcu9CM1vJJvUxqznvCu7CbiO8ypX4mgo9aErG0LAQTrJyBuNYPh0oQiYY64DEiHA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -211,17 +213,17 @@ Investopedia • 1d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773506400)**
+**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Polymarket • 17h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[AI Pivot Won’t Save Everyone, Wintermute Tells Bitcoin Miners](https://bitcoinmagazine.com/news/ai-pivot-wont-save-bitcoin-miners)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773512700)**
 
-Bitcoin miners are facing historically low margins and are responding by pivoting some operations to AI infrastructure.
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Bitcoin Magazine • 1d ago
+Polymarket • 17h ago
 
 ---
 
@@ -261,7 +263,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 11h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 12h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -299,7 +301,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 **[Ask HN: What are the best product landing pages you've stumbled upon?](https://news.ycombinator.com/item?id=47341618)**
 
-⬆️ 2 • 💬 0 • 2d ago
+⬆️ 2 • 💬 0 • 3d ago
 
 ---
 
@@ -307,13 +309,23 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 ## YouTube Videos: "bitcoin"
 
+**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
+
+The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 2K • 💬 348 • ⏱️ 14:33 • 23h ago
+
+---
+
 **[Strategy is Driving ALL The Bitcoin Out Of Circulation FOREVER!](https://www.youtube.com/watch?v=-_C4dZZvWIk)**
 
 Strategy may have raised over $1 billion in a single trading session, and if that's even close to true, Bitcoin's supply dynamics may ...
 
 📺 Swan Bitcoin
 
-👁️ 27K • 👍 1K • 💬 217 • ⏱️ 12:14 • 1d ago
+👁️ 28K • 👍 1K • 💬 247 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -323,75 +335,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 89K • 👍 4K • 💬 751 • ⏱️ 18:10 • 1d ago
-
----
-
-**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
-
-The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
-
-📺 Gareth Soloway
-
-👁️ 46K • 👍 3K • 💬 494 • ⏱️ 9:50 • 1d ago
-
----
-
-**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
-
-The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 349 • ⏱️ 14:33 • 23h ago
-
----
-
-**[Bitaxe Gamma Vs NerdQAxe++ - Best Mini Bitcoin Miner To Buy?](https://www.youtube.com/watch?v=4giRUX0xWRM)**
-
-Bitaxe Gamma vs NerdQAxe++ which is the best mini Bitcoin miner to buy and start trying to mine a solo BTC block over WiFi?
-
-📺 VoskCoin
-
-👁️ 320 • 👍 32 • 💬 43 • ⏱️ 14:52 • 4h ago
-
----
-
-**[Top 5 Crypto AI Projects (Big Pump)](https://www.youtube.com/watch?v=QijOOw9ZBrU)**
-
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://partner.zoomex.com/aff/ZX904299 Toobit ...
-
-📺 Discover Crypto
-
-👁️ 1K • 👍 138 • 💬 97 • ⏱️ 11:48 • 4h ago
-
----
-
-**[Could This Be The BIGGEST Bitcoin Play Right Now?](https://www.youtube.com/watch?v=4oCTTLWAfKo)**
-
-Bitcoin may be on the verge of its next big move, and most investors could be completely missing it. Now is the time to buy, even ...
-
-📺 Valuetainment
-
-👁️ 60K • 👍 1K • 💬 138 • ⏱️ 1:06 • 2d ago
-
----
-
-**[HUGE XRP MASTERCARD AND MORE CRYPTO PARTNERSHIPS!!! ITS HERE #crypto #xrp #cryptocurrency #bitcoin](https://www.youtube.com/watch?v=eBGq2NrozuM)**
-
-📺 CryptoWendyO
-
-👁️ 15K • 👍 851 • 💬 47 • ⏱️ 2:04 • 2d ago
-
----
-
-**[Bitcoin Just Did Something the World Isn’t Ready For: Jeff Park](https://www.youtube.com/watch?v=tFzIHZDT4uU)**
-
-Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire world should be thinking about Bitcoin. The old ...
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 191 • 💬 135 • ⏱️ 19:03 • 1d ago
+👁️ 91K • 👍 4K • 💬 761 • ⏱️ 18:10 • 1d ago
 
 ---
 
@@ -401,7 +345,67 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 164 • ⏱️ 22:37 • 1d ago
+👁️ 29K • 👍 2K • 💬 165 • ⏱️ 22:37 • 1d ago
+
+---
+
+**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
+
+The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
+
+📺 Gareth Soloway
+
+👁️ 47K • 👍 3K • 💬 498 • ⏱️ 9:50 • 1d ago
+
+---
+
+**[Bitcoin Payments: Success or Failure? Tesla, Microsoft &amp; AMC Tested ₿](https://www.youtube.com/watch?v=BkOjKqg_GMU)**
+
+Bitcoin was supposed to become everyday money. But in 2026, are people actually paying with it? Tesla, Microsoft and AMC ...
+
+📺 DukascopyTV English
+
+👁️ 559 • 👍 18 • 💬 1 • ⏱️ 1:00 • 1d ago
+
+---
+
+**[Top 5 Crypto AI Projects (Big Pump)](https://www.youtube.com/watch?v=QijOOw9ZBrU)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://partner.zoomex.com/aff/ZX904299 Toobit ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 202 • 💬 112 • ⏱️ 11:48 • 4h ago
+
+---
+
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=DD6uCVh7ZwM)**
+
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
+
+📺 Road To $1 Million USD
+
+👁️ 4K • 👍 221 • 💬 11 • ⏱️ 4:28 • 22h ago
+
+---
+
+**[Could This Be The BIGGEST Bitcoin Play Right Now?](https://www.youtube.com/watch?v=4oCTTLWAfKo)**
+
+Bitcoin may be on the verge of its next big move, and most investors could be completely missing it. Now is the time to buy, even ...
+
+📺 Valuetainment
+
+👁️ 62K • 👍 1K • 💬 145 • ⏱️ 1:06 • 2d ago
+
+---
+
+**[Bitcoin Just Did Something the World Isn’t Ready For: Jeff Park](https://www.youtube.com/watch?v=tFzIHZDT4uU)**
+
+Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire world should be thinking about Bitcoin. The old ...
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 197 • 💬 162 • ⏱️ 19:03 • 1d ago
 
 ---
 

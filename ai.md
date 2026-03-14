@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T20:29:38.489649+00:00'
+updated: '2026-03-14T20:55:38.994134+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 20:29 UTC  
+**Last Updated:** March 14, 2026 at 20:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Integrated an evolutionary database to Karpathy's autoresearch project that repl
 
 This week's round of drm-misc-next patches bring a few improvements to the AMDXDNA accelerator driver used for supporting the Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 2h ago
 
 ---
 
@@ -81,11 +81,11 @@ Your responses are anonymous and will be used for academic research only.
 
 ---
 
-**[Gemini's linguistic capabilities](https://www.reddit.com/r/artificial/comments/1rtm16a/geminis_linguistic_capabilities/)**
+**[Are AI models actually conscious, or are we just getting better at simulating intelligence?](https://www.reddit.com/r/artificial/comments/1rtt1ky/are_ai_models_actually_conscious_or_are_we_just/)**
 
-In a recent conversation with Gemeni (Google Gemini mobile) I discussed with "her" about whether LLM has real intelligence, and she said she is only sure that she has very high linguistic competency, but whether it is true intelligence is still debatable. So I further gave her a focused challenge on linguistics to see if she has ways of truly understanding semantics. The challenge is to create a novel and original analogy for a given situation. the situation described is "the lack of desire for things you once longed for". The analogy need to be brief (<= 10 words). Through iterations of attempt and critique, Gemini gave the below list of analogies (followed by my view): "Like holding a key to a house that was demolished" [Wrong] "Like reading a map for a city you've already left" [still wrong] "Like a flashlight in the middle of a sunny day" [still does not work] "Like hearing a joke you've already heard the punchline to" [this is getting close. try again] "Like staring at a trophy you no longer remember winning" "Like watching a movie after the actors have all died" "Like a love letter written to a person you've outgrown" [None of above hits the mark. All your analogy starts with doing sthing or existence of sthing. However my situation starts with absence of sthing] "Like the silence after a bell stops ringing" [Try again with silence. It captures the absence. however the second half does not hit the mark] "Like a radio tuned to a station that stopped broadcasting" [ This is getting there. Anything you can do better?] "Like a harbor where the tide never came back" [This is poetic, but a harbor with or without tide may still be a functional harbor?] "Like a sail hanging limp on a windless ocean" [Ok we will stop for today] In fact I find Gemini is still not able to find a satisfactory analogy. Do you think the current LLM mechanism can truly be able to master creation of analogy? If an LLM can truly master analogy does it mean it has a higher level of understanding of semantics?
+I was reading about the ongoing debate around AI consciousness, and it made me think about how easily our perception can change when technology becomes more sophisticated. From what researchers explain, current AI models aren’t conscious. They don’t have subjective experiences, biological grounding, or internal sensations. They mainly work by recognizing patterns in huge datasets and predicting the most likely response. But here’s the interesting part. As these systems become better at conversation, reasoning, and context, they can feel surprisingly human to interact with. Sometimes so much that people start attributing emotions or awareness to them. That raises a few questions that seem more philosophical than technical: • Should AI systems be designed to avoid appearing sentient? • Should companies clearly remind users that these systems are not conscious? • And as AI integrates vision, speech, memory, and planning, will that perception gap grow even more? Maybe the real issue isn’t whether AI is conscious today. Maybe it’s how humans interpret increasingly intelligent systems. Curious to hear what people here think: Do you believe AI could ever become conscious, or will it always remain a very advanced simulation?
 
-5h ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fox Business • 12h ago
 
 Sources tell Reuters layoffs could affect 20% or more of company as plans reflect broader tensions within big tech
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -152,28 +152,6 @@ The Guardian • 19h ago
 A major Brookings Institute study of more than 500 students and educators across 50 countries found the risks of AI in the classroom “overshadow its benefits.”
 
 Fortune • 11h ago
-
----
-
-**[Zach Braff’s AI Relationship Denial Is Raising a Lot of Questions Already Answered by the Denial](https://gizmodo.com/zach-braffs-ai-relationship-denial-is-raising-a-lot-of-questions-already-answered-by-his-denial-2000733708)**
-
-The Scrubs star referred to himself as "The guy not dating his chatbot."
-
-Gizmodo • 3h ago
-
----
-
-**[Only the American people can save AI](https://thehill.com/opinion/technology/5783340-ai-trust-gap-america/)**
-
-The Hill • 3h ago
-
----
-
-**[Trump's AI czar calls for US to 'get out' of war and warns Iran could make Gulf uninhabitable](https://fortune.com/2026/03/14/trump-ai-czar-david-sacks-us-iran-war-gulf-israel-desalination-water-uninhabitable/)**
-
-"So there's a lot of scenarios here, a lot of really frightening scenarios about where escalation could lead," Sacks said.
-
-Fortune • 2h ago
 
 ---
 
@@ -201,6 +179,28 @@ The Guardian • 9h ago
 
 ---
 
+**[Blue books make a comeback at colleges in the AI era. Why not "chisels," critic mocks](https://www.axios.com/2026/03/14/ai-blue-books-colleges-jobs)**
+
+Axios • 7h ago
+
+---
+
+**[Sovereign AI is a bet on the economies of anti-scale](https://www.ft.com/content/7938e68a-22f9-4e83-8f66-302fd8f94297)**
+
+Deglobalisation is expensive for individual countries, but a windfall for their suppliers
+
+Financial Times • 15h ago
+
+---
+
+**[Peruvian stocks: Why they may be an unexpected winner of the AI boom, Iran war](https://www.cnbc.com/2026/03/14/peruvian-stocks-why-they-may-be-an-unexpected-winner-of-the-ai-boom-iran-war.html)**
+
+The S&P Peru Total Index has soared 23% in 2026 and is up more than 75% over the past 12 months.
+
+CNBC • 7h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -209,7 +209,7 @@ The Guardian • 9h ago
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 1375 • 💬 328 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 1380 • 💬 333 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -225,13 +225,13 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 487 • 💬 758 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 491 • 💬 767 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 350 • 💬 460 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 351 • 💬 464 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -273,11 +273,11 @@ I injected three fabricated documents into a ChromaDB knowledge base. Here’s w
 
 ---
 
-**[AI should not replace people at Atlassian, says CEO](https://news.ycombinator.com/item?id=47352335)**
+**[Amazon Employees Say AI Is Just Increasing Workload](https://news.ycombinator.com/item?id=47356223)**
 
-AI should not replace people at Atlassian, says CEO Cannon-Brookes. But they still have to lay off 1,600 people to have money for AI investments.
+Silicon Valley promised AI would make work less intense. Employees would beg to differ.
 
-⬆️ 118 • 💬 52 • 2d ago • [iX Magazin](https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html)
+⬆️ 119 • 💬 37 • 2d ago • [Gizmodo](https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794)
 
 ---
 
@@ -291,17 +291,27 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 55K • 👍 2K • 💬 373 • ⏱️ 3:28 • 1d ago
+👁️ 59K • 👍 2K • 💬 402 • ⏱️ 3:28 • 1d ago
 
 ---
 
-**[Google’s New Gemini Update Shocks Microsoft With Powerful New AI](https://www.youtube.com/watch?v=iAsFZvbhgag)**
+**[What Happens If You Give AI Video Generators the Same Prompt?](https://www.youtube.com/watch?v=Qy4vgSiJShY)**
 
-Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just rolled out a major Gemini update that could reshape ...
+Access ALL AI Video Generators in Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa5 In this video, I break down how the top AI ...
 
-📺 AI Revolution
+📺 Isa does AI
 
-👁️ 92K • 👍 2K • 💬 116 • ⏱️ 14:05 • 2d ago
+👁️ 7K • 💬 2 • ⏱️ 11:35 • 5h ago
+
+---
+
+**[Idiots Laugh At Unusual AI Videos](https://www.youtube.com/watch?v=rwq9UEf1qp8)**
+
+Get your MyHeritage DNA test kit & 30 day free trial for just $29 using my link https://bit.ly/DanDingle or use coupon code DAND!
+
+📺 Dan Dingle
+
+👁️ 32K • 👍 3K • 💬 372 • ⏱️ 26:34 • 8h ago
 
 ---
 
@@ -311,7 +321,17 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 60K • 👍 2K • 💬 200 • ⏱️ 33:33 • 1d ago
+👁️ 63K • 👍 3K • 💬 207 • ⏱️ 33:33 • 1d ago
+
+---
+
+**[Google’s New Gemini Update Shocks Microsoft With Powerful New AI](https://www.youtube.com/watch?v=iAsFZvbhgag)**
+
+Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just rolled out a major Gemini update that could reshape ...
+
+📺 AI Revolution
+
+👁️ 93K • 👍 2K • 💬 116 • ⏱️ 14:05 • 2d ago
 
 ---
 
@@ -321,7 +341,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 149K • 👍 2K • 💬 854 • ⏱️ 15:01 • 2d ago
+👁️ 153K • 👍 2K • 💬 876 • ⏱️ 15:01 • 2d ago
 
 ---
 
@@ -331,37 +351,7 @@ Links Help me make better content — take my 2-min audience survey: https://tal
 
 📺 CyberJungle
 
-👁️ 11K • 👍 409 • 💬 27 • ⏱️ 14:16 • 1d ago
-
----
-
-**[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
-
-China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
-
-📺 AI Revolution
-
-👁️ 17K • 👍 433 • 💬 44 • ⏱️ 14:52 • 20h ago
-
----
-
-**[ChatGPT vs Claude vs Gemini: Which AI Is Worth $20/Month in 2026?](https://www.youtube.com/watch?v=uT8ha6oIm2E)**
-
-All three cost about the same, but what you get for that money is very different. In this video, I break down what each AI does best, ...
-
-📺 The Tech Girl
-
-👁️ 25K • 👍 661 • 💬 59 • ⏱️ 11:52 • 2d ago
-
----
-
-**[Google Researchers Reveal Why Open AI Is Secretly Losing Billions](https://www.youtube.com/watch?v=LA3cDNbnq20)**
-
-Google researchers and industry experts are warning of an impending "inference crisis" that could stall AI progress, shifting the ...
-
-📺 AIM Network
-
-👁️ 5K • 👍 99 • 💬 6 • ⏱️ 3:32 • 1d ago
+👁️ 12K • 👍 428 • 💬 28 • ⏱️ 14:16 • 1d ago
 
 ---
 
@@ -371,7 +361,17 @@ Elon Musk has revealed a new AI project called “Macrohard” or “Digital Opt
 
 📺 Mint
 
-👁️ 24K • 👍 300 • 💬 62 • ⏱️ 3:36 • 1d ago
+👁️ 25K • 👍 303 • 💬 65 • ⏱️ 3:36 • 1d ago
+
+---
+
+**[Netanyahu ‘Killed’ In Iran Strikes? Viral AI ‘Six-Finger’ Bibi Video Fuels Assassination Rumours](https://www.youtube.com/watch?v=OgUVbsUpC8g)**
+
+Netanyahu 'Killed' In Iran Strikes? Viral AI 'Six-Finger' Bibi Video Fuels Assassination Rumours Viral rumors claimed Benjamin ...
+
+📺 Cross World News
+
+👁️ 4K • 👍 59 • 💬 18 • ⏱️ 8:55 • 6h ago
 
 ---
 
@@ -381,7 +381,7 @@ Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 223 • 💬 19 • ⏱️ 18:24 • 1d ago
+👁️ 5K • 👍 230 • 💬 19 • ⏱️ 18:24 • 1d ago
 
 ---
 
@@ -397,7 +397,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 58,809 • ❤️ 637 • 6d ago
+⬇️ 58,809 • ❤️ 642 • 6d ago
 
 ---
 
@@ -409,7 +409,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 3,964 • ❤️ 405 • 3d ago
+⬇️ 3,964 • ❤️ 411 • 3d ago
 
 ---
 
@@ -421,7 +421,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 500,610 • ❤️ 600 • 9d ago
+⬇️ 500,610 • ❤️ 603 • 9d ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,827,499 • ❤️ 814 • 12d ago
+⬇️ 1,827,499 • ❤️ 815 • 12d ago
 
 ---
 
@@ -445,7 +445,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 202,003 • ❤️ 420 • 10d ago
+⬇️ 202,003 • ❤️ 423 • 10d ago
 
 ---
 
@@ -457,7 +457,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 13,104 • ❤️ 187 • 5h ago
+⬇️ 13,104 • ❤️ 189 • 6h ago
 
 ---
 
@@ -469,7 +469,19 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 8,760 • ❤️ 170 • 1d ago
+⬇️ 8,760 • ❤️ 172 • 1d ago
+
+---
+
+**[Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context window, designed for aggressive prompt adherence and advanced reasoning tasks.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 65,894 • ❤️ 161 • 3d ago
 
 ---
 
@@ -485,18 +497,6 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 ---
 
-**[Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context window, designed for aggressive prompt adherence and advanced reasoning tasks.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 65,894 • ❤️ 159 • 3d ago
-
----
-
 **[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
 
 *Tesslate*
@@ -505,7 +505,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 2,079 • ❤️ 154 • 1d ago
+⬇️ 2,079 • ❤️ 156 • 1d ago
 
 ---
 
@@ -519,7 +519,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 9 • 💬 0 • ⭐ 34,376 • 13mo ago
+▲ 9 • 💬 0 • ⭐ 34,524 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -533,7 +533,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 25 • 💬 2 • ⭐ 26,985 • 5d ago
+▲ 25 • 💬 2 • ⭐ 27,143 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -579,20 +579,6 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
-**[DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints](https://huggingface.co/papers/2601.18137)**
-
-*Yinger Zhang, Shutong Jiang, Renhao Li et al. (9 authors)*
-
-🏢 Qwen
-
-DeepPlanning benchmark addresses limitations of current LLM planning assessments by introducing complex, real-world tasks requiring both global optimization and local constraint reasoning.
-
-▲ 35 • 💬 3 • ⭐ 15,589 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.18137) • [💻 code](https://github.com/QwenLM/Qwen-Agent) • [🔗 project](https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -621,18 +607,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
-
-*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
-
-MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
-
-▲ 161 • 💬 3 • ⭐ 6,852 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -642,6 +616,32 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 22 • 💬 1 • ⭐ 32,058 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints](https://huggingface.co/papers/2601.18137)**
+
+*Yinger Zhang, Shutong Jiang, Renhao Li et al. (9 authors)*
+
+🏢 Qwen
+
+DeepPlanning benchmark addresses limitations of current LLM planning assessments by introducing complex, real-world tasks requiring both global optimization and local constraint reasoning.
+
+▲ 35 • 💬 3 • ⭐ 15,593 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.18137) • [💻 code](https://github.com/QwenLM/Qwen-Agent) • [🔗 project](https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/)
+
+---
+
+**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
+
+*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
+
+MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
+
+▲ 161 • 💬 3 • ⭐ 6,872 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
 ---
 
@@ -655,7 +655,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 33.6k • 🔱 4.5k • 3d ago
+⭐ 33.8k • 🔱 4.6k • 3d ago
 
 ---
 
@@ -665,7 +665,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 27.0k • 🔱 3.6k • 1h ago
+⭐ 27.0k • 🔱 3.6k • 33s ago
 
 ---
 
@@ -675,7 +675,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.2k • 🔱 918 • 21h ago
+⭐ 20.3k • 🔱 920 • 21h ago
 
 ---
 
@@ -695,7 +695,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 9.2k • 🔱 817 • 9d ago
+⭐ 9.2k • 🔱 818 • 9d ago
 
 ---
 
@@ -725,7 +725,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 7.0k • 🔱 312 • 4h ago
+⭐ 7.0k • 🔱 313 • 5h ago
 
 ---
 
@@ -735,7 +735,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 745 • 19h ago
+⭐ 6.3k • 🔱 746 • 50m ago
 
 ---
 
@@ -745,7 +745,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 666 • 1h ago
+⭐ 3.4k • 🔱 668 • 1h ago
 
 ---
 
