@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T10:30:09.793506+00:00'
+updated: '2026-03-14T10:56:48.794147+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 10:30 UTC  
+**Last Updated:** March 14, 2026 at 10:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 Ethereum Foundation (EF) wrote a constitution for the soul of the project. The new EF Mandate isn't just a corporate mission statement but a line in the sand for how Ethereum stays human in an increasingly automated world. The EF is calling its core philosophy CROPS. If a feature isn’t Censorship-resistant, Resilient, Open-source, Private, and Secure, it doesn't belong on ethereum . No trading sovereignty for convenience. Here are the main points: Stewardship, Not Ownership: The EF is explicitly saying they aren't the boss. They are temporary caretakers who eventually want to disappear. This is the ultimate decentralize or die commitment. The AI Shield: They see a future where AI and opaque algorithms run everything. Ethereum’s job is to be the Infinite Garden, a place where humans, not code or corporations, have the final say over their own lives. Immutable Values: By publishing this directly onto the blockchain, they’ve made their values as permanent as a transaction. You can’t edit the project's soul once it’s on-chain. This is a massive vibe check for the entire ecosystem. It’s a reminder that if we give up control for a slightly faster app, we’ve already lost the plot. Can a written mandate actually stop the slow creep of centralization, or is the pull of convenience just too strong? Let’s talk. 👇 Source
 
-3h ago
+4h ago
 
 ---
 
@@ -124,7 +124,7 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 **[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
 
-🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 18h ago
+🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 19h ago
 
 ---
 
@@ -132,7 +132,7 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 20h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 2d ago
 
 The document comes at a moment of transition for the organization, following recent shifts in Ethereum’s technical roadmap and the resignation earlier this year of one of the foundation’s co-executive directors.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -208,7 +208,7 @@ Polymarket • 1d ago
 
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ CCN.com • 6h ago
 
 John Nahas says dedicated Avalanche chains offer more sovereignty and flexibility than the stacked architecture behind many Ethereum scaling solutions.
 
-thestreet.com • 19h ago
+thestreet.com • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 187 • ⏱️ 13:31 • 11h ago
+👁️ 25K • 👍 2K • 💬 187 • ⏱️ 13:31 • 12h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:49 • 12h ago
+👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:49 • 13h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 759 • 👍 79 • ⏱️ 5:27 • 7h ago
+👁️ 759 • 👍 79 • ⏱️ 5:27 • 8h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 3K • 💬 19 • ⏱️ 12:32 • 2d ago
+👁️ 16K • 👍 3K • 💬 19 • ⏱️ 12:32 • 3d ago
 
 ---
 

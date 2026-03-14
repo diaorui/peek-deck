@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T10:30:09.796890+00:00'
+updated: '2026-03-14T10:56:48.797348+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 10:30 UTC  
+**Last Updated:** March 14, 2026 at 10:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 11h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 12h ago
 
 ---
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-14m ago
+40m ago
 
 ---
 
@@ -90,7 +90,7 @@ I saw multiple pages post this clip, but none seem to mention if the robot is pe
 
 **[Curious about the experiment data logging](https://www.reddit.com/r/robotics/comments/1rt7u8k/curious_about_the_experiment_data_logging/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -138,7 +138,7 @@ TechCrunch • 2d ago
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 19h ago
+Quanta Magazine • 20h ago
 
 ---
 
@@ -146,7 +146,7 @@ Quanta Magazine • 19h ago
 
 In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
 
-Ukrinform • 13h ago
+Ukrinform • 14h ago
 
 ---
 
@@ -162,7 +162,7 @@ Financial Times • 2d ago
 
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
-NPR • 20h ago
+NPR • 21h ago
 
 ---
 
@@ -220,7 +220,7 @@ A robot that looks and moves like a horse? DEEP Robotics created a special editi
 
 📺 Robot Julie 
 
-👁️ 2K • 👍 11 • ⏱️ 0:22 • 9h ago
+👁️ 2K • 👍 11 • ⏱️ 0:22 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 📺 zhulongfeng 6
 
-👁️ 5K • 👍 72 • ⏱️ 0:21 • 9h ago
+👁️ 5K • 👍 72 • ⏱️ 0:21 • 10h ago
 
 ---
 

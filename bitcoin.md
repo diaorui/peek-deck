@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T10:30:09.787284+00:00'
+updated: '2026-03-14T10:56:48.788089+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 10:30 UTC  
+**Last Updated:** March 14, 2026 at 10:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-10h ago
+11h ago
 
 ---
 
@@ -133,7 +133,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 biggest mistake i see people make is running their mouth about bitcoin profits like somehow thats gonna convince anyone to buy in spoiler alert it doesnt work that way when you tell someone you doubled your money or whatever they dont think wow what a smart investment they think damn i fucked up by not getting in earlier and now im behind so instead of being curious about bitcoin they just get defensive and start looking for reasons why its stupid or a scam or whatever makes them feel better about missing out ive seen this pattern over and over again - the second you mention gains people shut down completely and start arguing about energy usage or volatility or how its not real money meanwhile if you just talk about the technology or why you think its interesting without bringing up your portfolio suddenly people actually listen lesson learned keep your wins to yourself and let other people discover bitcoin on their own timeline not because youre flexing your returns
 
-12h ago
+13h ago
 
 ---
 
@@ -161,7 +161,7 @@ Quick question for you guys. I have spent my last few days going down the crypto
 
 A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 2h ago
 
 Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -197,7 +197,7 @@ Financial Times • 1d ago
 
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -229,7 +229,7 @@ Decrypt • 20h ago
 
 Boris Johnson warns Bitcoin depends entirely on fragile belief.
 
-thestreet.com • 12h ago
+thestreet.com • 13h ago
 
 ---
 
@@ -269,7 +269,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 1h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 2h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -351,7 +351,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 204 • 💬 10 • ⏱️ 4:28 • 11h ago
+👁️ 3K • 👍 204 • 💬 10 • ⏱️ 4:28 • 12h ago
 
 ---
 
@@ -361,7 +361,7 @@ Deezy looks at the bullish chart pattern for Gold, Oil and Bitcoin. But Bitcoin 
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 205 • 💬 92 • ⏱️ 5:33 • 16h ago
+👁️ 4K • 👍 205 • 💬 92 • ⏱️ 5:33 • 17h ago
 
 ---
 
@@ -401,7 +401,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 5K • 👍 423 • 💬 99 • ⏱️ 29:33 • 5h ago
+👁️ 5K • 👍 423 • 💬 99 • ⏱️ 29:33 • 6h ago
 
 ---
 
@@ -411,7 +411,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 187 • ⏱️ 13:31 • 11h ago
+👁️ 25K • 👍 2K • 💬 187 • ⏱️ 13:31 • 12h ago
 
 ---
 
