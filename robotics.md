@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T11:29:20.205033+00:00'
+updated: '2026-03-14T11:49:50.600798+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 11:29 UTC  
+**Last Updated:** March 14, 2026 at 11:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,14 +38,6 @@ Robotics research and industry news
 
 ---
 
-**[Sharpa robot autonomously peeling an apple with dual dexterous human-like hands, introducing "MoDE-VLA" (Mixture of Dexterous Experts) (paper)](https://www.reddit.com/r/robotics/comments/1rskd9u/sharpa_robot_autonomously_peeling_an_apple_with/)**
-
-Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
-
-1d ago
-
----
-
 **[Marc Raibert on Why Expectations in Robotics Are Over the Top](https://www.reddit.com/r/robotics/comments/1rswnzy/marc_raibert_on_why_expectations_in_robotics_are/)**
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
@@ -54,17 +46,31 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 ---
 
-**[Gig workers are strapping cameras on their bodies to do chores to help train humanoids](https://www.reddit.com/r/robotics/comments/1rt2dxm/gig_workers_are_strapping_cameras_on_their_bodies/)**
+**[Sharpa robot autonomously peeling an apple with dual dexterous human-like hands, introducing "MoDE-VLA" (Mixture of Dexterous Experts) (paper)](https://www.reddit.com/r/robotics/comments/1rskd9u/sharpa_robot_autonomously_peeling_an_apple_with/)**
 
-AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
+Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 12h ago
+1d ago
 
 ---
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
 1h ago
+
+---
+
+**[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
+
+12m ago
+
+---
+
+**[Gig workers are strapping cameras on their bodies to do chores to help train humanoids](https://www.reddit.com/r/robotics/comments/1rt2dxm/gig_workers_are_strapping_cameras_on_their_bodies/)**
+
+AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
+
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 13h ago
 
 ---
 
@@ -80,23 +86,19 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 ---
 
+**[Three humanoid robots in autonomous charging mode (Tesla Optimus Gen2 (back), Figure 03 (waist), Agility Digit (back))](https://www.reddit.com/r/robotics/comments/1rth711/three_humanoid_robots_in_autonomous_charging_mode/)**
+
+From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2032406885039784446
+
+11m ago
+
+---
+
 **[Is this autonomous or operated?](https://www.reddit.com/r/robotics/comments/1rtb02x/is_this_autonomous_or_operated/)**
 
 I saw multiple pages post this clip, but none seem to mention if the robot is performing the task autonomously or not. What do you think? https://reddit.com/link/1rtb02x/video/nhn56abk4yog1/player
 
 6h ago
-
----
-
-**[Curious about the experiment data logging](https://www.reddit.com/r/robotics/comments/1rt7u8k/curious_about_the_experiment_data_logging/)**
-
-8h ago
-
----
-
-**[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
-
-1d ago
 
 ---
 
@@ -112,7 +114,7 @@ CNBC • 13h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcuNr6xBEVyCjx7Lv45l-7nnTDUjJ4i0vZyqYCQbrUk5WdZ7hcDsstT&gaa_ts=69b53c1f&gaa_sig=Qol15XLN_WxSBqWE9vCHd5BgubO41-3aEq3qhSbFgOLn954qpZr2xg7xNfwmc9QXzVGcpjbwV1p5zLM_vyTWcQ%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeCnhBGtiYYFJBuA4uQalST1Fpseh7mM_578ZaJ8CRDkSF3kn8TW5Kt&gaa_ts=69b54ecd&gaa_sig=6zJfhoDUyXVcNTBrwH-CKPM3mlA72W8UA5-DJPb7Dt65Rgfjh_6rstHHG-r7mLbYB_tg3dNzwdz9mAu9Q2PwGg%3D%3D)**
 
 WSJ • 2d ago
 
@@ -134,19 +136,19 @@ TechCrunch • 2d ago
 
 ---
 
+**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
+
+Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
+
+13wham.com • 26m ago
+
+---
+
 **[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 20h ago
-
----
-
-**[Ukraine receives humanoid robots for testing in combat conditions](https://www.ukrinform.net/rubric-ato/4101402-ukraine-receives-humanoid-robots-for-testing-in-combat-conditions.html)**
-
-In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
-
-Ukrinform • 14h ago
+Quanta Magazine • 21h ago
 
 ---
 
@@ -158,19 +160,19 @@ Financial Times • 2d ago
 
 ---
 
+**[Ukraine receives humanoid robots for testing in combat conditions](https://www.ukrinform.net/rubric-ato/4101402-ukraine-receives-humanoid-robots-for-testing-in-combat-conditions.html)**
+
+In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
+
+Ukrinform • 15h ago
+
+---
+
 **[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
 
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
 NPR • 21h ago
-
----
-
-**[Video Friday: These Robots Were Born to Run](https://spectrum.ieee.org/legged-modular-robot)**
-
-These modular robots are all legs and movement, whether one leg or four, and on all kinds of terrain. Plus, robot pandas are as cute as the real thing.
-
-IEEE Spectrum • 2d ago
 
 ---
 
@@ -192,17 +194,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 55K • 👍 4K • 💬 655 • ⏱️ 5:32 • 1d ago
-
----
-
-**[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
-
-At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
-
-📺 Munro Live
-
-👁️ 6K • 👍 228 • 💬 21 • ⏱️ 8:34 • 1d ago
+👁️ 56K • 👍 4K • 💬 658 • ⏱️ 5:32 • 1d ago
 
 ---
 
@@ -212,15 +204,17 @@ A robot that looks and moves like a horse? DEEP Robotics created a special editi
 
 📺 DPCcars
 
-👁️ 3K • 👍 41 • 💬 4 • ⏱️ 1:29 • 1d ago
+👁️ 3K • 👍 41 • 💬 5 • ⏱️ 1:29 • 1d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=cs8qj568orA)**
+**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
 
-📺 Robot Julie 
+OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
 
-👁️ 2K • 👍 11 • ⏱️ 0:22 • 10h ago
+📺 AI Revolution
+
+👁️ 73K • 👍 2K • 💬 103 • ⏱️ 14:51 • 5d ago
 
 ---
 
@@ -234,31 +228,13 @@ Go check out these robots if you're interested, temu actually has a ton of them 
 
 ---
 
-**[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
+**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
 
-Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
+A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
 
-📺 Vizuara
+📺 DPCcars
 
-👁️ 226K • 👍 44 • 💬 10 • ⏱️ 5:34 • 2d ago
-
----
-
-**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
-
-OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
-
-📺 AI Revolution
-
-👁️ 72K • 👍 2K • 💬 103 • ⏱️ 14:51 • 5d ago
-
----
-
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=9Irk3BKmLvI)**
-
-📺 zhulongfeng 6
-
-👁️ 5K • 👍 72 • ⏱️ 0:21 • 10h ago
+👁️ 16K • 👍 119 • 💬 31 • ⏱️ 3:48 • 4d ago
 
 ---
 
@@ -268,17 +244,45 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 11K • 👍 63 • 💬 27 • ⏱️ 2:38 • 2d ago
+👁️ 12K • 👍 66 • 💬 27 • ⏱️ 2:38 • 2d ago
 
 ---
 
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=9Irk3BKmLvI)**
 
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
+📺 zhulongfeng 6
 
-📺 DPCcars
+👁️ 16K • 👍 90 • ⏱️ 0:21 • 11h ago
 
-👁️ 16K • 👍 119 • 💬 31 • ⏱️ 3:48 • 4d ago
+---
+
+**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+
+📺 South China Morning Post
+
+👁️ 13K • 👍 202 • 💬 80 • ⏱️ 4:52 • 2d ago
+
+---
+
+**[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
+
+At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
+
+📺 Munro Live
+
+👁️ 6K • 👍 230 • 💬 22 • ⏱️ 8:34 • 1d ago
+
+---
+
+**[China&#39;s Industrial-Grade Robotic Horse is INSANE #robotics #robot #innovation](https://www.youtube.com/watch?v=IFB2uN-p-6g)**
+
+It's robotic horse season in China. The Hangzhou-based startup DEEP Robotics just revealed a special edition quadruped ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 58 • 💬 2 • ⏱️ 0:35 • 7h ago
 
 ---
 
