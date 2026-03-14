@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T18:40:43.634506+00:00'
+updated: '2026-03-14T19:27:58.963144+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - repositories
 - social
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 18:40 UTC  
+**Last Updated:** March 14, 2026 at 19:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-5h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
 
-🔗 [substack.com](https://substack.com/home/post/p-190322208) • 1h ago
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 2h ago
 
 ---
 
@@ -61,7 +61,7 @@ AI Product Recommendation is a system that uses mathematical models to predict y
 Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
 Your responses are anonymous and will be used for academic research only.
 
-🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 1h ago
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 2h ago
 
 ---
 
@@ -69,7 +69,7 @@ Your responses are anonymous and will be used for academic research only.
 
 In a recent conversation with Gemeni (Google Gemini mobile) I discussed with "her" about whether LLM has real intelligence, and she said she is only sure that she has very high linguistic competency, but whether it is true intelligence is still debatable. So I further gave her a focused challenge on linguistics to see if she has ways of truly understanding semantics. The challenge is to create a novel and original analogy for a given situation. the situation described is "the lack of desire for things you once longed for". The analogy need to be brief (<= 10 words). Through iterations of attempt and critique, Gemini gave the below list of analogies (followed by my view): "Like holding a key to a house that was demolished" [Wrong] "Like reading a map for a city you've already left" [still wrong] "Like a flashlight in the middle of a sunny day" [still does not work] "Like hearing a joke you've already heard the punchline to" [this is getting close. try again] "Like staring at a trophy you no longer remember winning" "Like watching a movie after the actors have all died" "Like a love letter written to a person you've outgrown" [None of above hits the mark. All your analogy starts with doing sthing or existence of sthing. However my situation starts with absence of sthing] "Like the silence after a bell stops ringing" [Try again with silence. It captures the absence. however the second half does not hit the mark] "Like a radio tuned to a station that stopped broadcasting" [ This is getting there. Anything you can do better?] "Like a harbor where the tide never came back" [This is poetic, but a harbor with or without tide may still be a functional harbor?] "Like a sail hanging limp on a windless ocean" [Ok we will stop for today] In fact I find Gemini is still not able to find a satisfactory analogy. Do you think the current LLM mechanism can truly be able to master creation of analogy? If an LLM can truly master analogy does it mean it has a higher level of understanding of semantics?
 
-3h ago
+4h ago
 
 ---
 
@@ -77,7 +77,7 @@ In a recent conversation with Gemeni (Google Gemini mobile) I discussed with "he
 
 I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
 
-3h ago
+4h ago
 
 ---
 
@@ -93,7 +93,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI agents entirely in RAM, wiring up their tools and behavior on the fly. Sorry in advance for the vid quality i dont like making them. JL Engine isn’t another chat UI or preset pack — it’s a full agent runtime that builds itself as it runs. You can point it at any backend you want, local or cloud, and it doesn’t blink; Google, OpenAI, your own inference server, whatever you’ve got, it just plugs in and goes. The engine loads personas, merges layers, manages behavior states, and even discovers and registers its own tools without you wiring anything manually. It’s local‑first because I wanted privacy and control, but it’s not locked to local at all — it’s backend‑agnostic by design. The whole point is that the agent stays consistent no matter what model is behind it, because the runtime handles the complexity instead of dumping it on the user. If you want something that actually feels like an agent system instead of a wrapper, this is what I built. not self Promoting just posting to share get ideas maybe some help that would be great. https://github.com/jaden688/JL_Engine-local.git
 
-18h ago
+19h ago
 
 ---
 
@@ -129,13 +129,13 @@ See which U.S. states are adopting AI at work fastest, based on U.S. Census data
 
 Meta layoffs could cut 20% of workforce as tech giant weighs job reductions to offset rising artificial intelligence infrastructure costs.
 
-Fox Business • 10h ago
+Fox Business • 11h ago
 
 ---
 
 **[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
@@ -143,7 +143,7 @@ Reuters • 18h ago
 
 Sources tell Reuters layoffs could affect 20% or more of company as plans reflect broader tensions within big tech
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -159,7 +159,7 @@ Fortune • 1d ago
 
 The technology has been used to create misleading fakes before. But never at this scale.
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 16h ago
 
 Former CISA director warns Iran is allegedly using AI to create false narratives about winning against the U.S., urging people to be careful about online content.
 
-Fox News • 4h ago
+Fox News • 5h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNN • 1d ago
 
 First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable people
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -289,7 +289,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 55K • 👍 2K • 💬 373 • ⏱️ 3:28 • 23h ago
+👁️ 55K • 👍 2K • 💬 373 • ⏱️ 3:28 • 1d ago
 
 ---
 
@@ -455,7 +455,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 13,104 • ❤️ 187 • 3h ago
+⬇️ 13,104 • ❤️ 187 • 4h ago
 
 ---
 
@@ -467,7 +467,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 8,760 • ❤️ 170 • 23h ago
+⬇️ 8,760 • ❤️ 170 • 1d ago
 
 ---
 
@@ -479,7 +479,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 `text-generation` `4.0B`
 
-⬇️ 1,012 • ❤️ 160 • 17h ago
+⬇️ 1,012 • ❤️ 160 • 18h ago
 
 ---
 
@@ -663,7 +663,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 27.0k • 🔱 3.6k • 4m ago
+⭐ 27.0k • 🔱 3.6k • 52m ago
 
 ---
 
@@ -683,7 +683,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.3k • 🔱 1.3k • 3h ago
+⭐ 11.3k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -733,7 +733,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 745 • 17h ago
+⭐ 6.3k • 🔱 745 • 18h ago
 
 ---
 
@@ -743,7 +743,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 666 • 8m ago
+⭐ 3.4k • 🔱 666 • 55m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T18:40:43.642952+00:00'
+updated: '2026-03-14T19:27:58.970616+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - social
 - cryptocurrency
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 18:40 UTC  
+**Last Updated:** March 14, 2026 at 19:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged themselves by demanding ransom in Bitcoin. Other
 
-🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 3m ago
+🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 50m ago
 
 ---
 
@@ -121,7 +121,7 @@ A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged 
 
 Hello, I enjoy writing small poems during quiet walks around Lake Washington. One afternoon I was sitting at the end of the pier at Log Boom Park in Kenmore. The sunlight was warm but the wind was still cold. That quiet moment became a poem, and later I turned it into a small song called Kenmore Ferry. If anyone here enjoys calm reflective music inspired by our area, I would be happy to share it. YouTube link: https://youtu.be/uQz59wx3DE4?si=hC7r86XOENmN\\\_\\\_fX
 
-2h ago
+3h ago
 
 ---
 
@@ -129,7 +129,7 @@ Hello, I enjoy writing small poems during quiet walks around Lake Washington. On
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-18h ago
+19h ago
 
 ---
 
@@ -145,7 +145,7 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 I got a 256g ssd 16gb ram… I’m so happy plus with the finger print ID thingy Loving it
 
-2h ago
+3h ago
 
 ---
 
@@ -157,7 +157,7 @@ I got a 256g ssd 16gb ram… I’m so happy plus with the finger print ID thingy
 
 The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -173,13 +173,13 @@ Financial Times • 1d ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Bitcoin Price Signals Mixed Cycle Setup As Exchange Supply Hits 8-Year Low](https://www.binance.com/en/square/post/301504024022449)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ Binance • 3h ago
 
 Bitcoin’s price dropped slightly Saturday — but it still held above $70,000. US Bitcoin ETFs took in over $760 million in new cash from investors. The stock market took a hit Friday — but the crypto market remains strong.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -213,7 +213,7 @@ Investopedia • 1d ago
 
 **[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773506400)**
 
-Polymarket • 15h ago
+Polymarket • 16h ago
 
 ---
 
@@ -231,7 +231,7 @@ Seeking Alpha • 1d ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 17 • 💬 0 • 3d ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 17 • 💬 0 • 4d ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 9h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 10h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -341,7 +341,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 349 • ⏱️ 14:33 • 21h ago
+👁️ 25K • 👍 2K • 💬 349 • ⏱️ 14:33 • 22h ago
 
 ---
 
@@ -361,7 +361,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 138 • 💬 97 • ⏱️ 11:48 • 2h ago
+👁️ 1K • 👍 138 • 💬 97 • ⏱️ 11:48 • 3h ago
 
 ---
 
@@ -389,7 +389,7 @@ Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 191 • 💬 135 • ⏱️ 19:03 • 23h ago
+👁️ 5K • 👍 191 • 💬 135 • ⏱️ 19:03 • 1d ago
 
 ---
 

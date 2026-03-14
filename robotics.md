@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T18:40:43.651998+00:00'
+updated: '2026-03-14T19:27:58.978673+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 18:40 UTC  
+**Last Updated:** March 14, 2026 at 19:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,19 +42,19 @@ Robotics research and industry news
 
 This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
 
-1h ago
+2h ago
 
 ---
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-17h ago
+18h ago
 
 ---
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -62,7 +62,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-23h ago
+1d ago
 
 ---
 
@@ -78,7 +78,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 19h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 20h ago
 
 ---
 
@@ -86,7 +86,7 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 Hello everyone. I need help programming a robotic arm. I managed to create a python and Arduino application that I use to control the arm. I defined the offsets and it works properly, however, I haven't finalized the project yet because I don't know how. The surface you see is the work surface in front of the arm, it is limited by 4 aruco markers that define the working area. The surface dimensions are 240*120mm with 6 columns by 3 rows. It is designed that the cubes that will have the aruco codes when placed on this work surface are scanned, but also the precise x and y coordinates are read based on the total area. The same x and y coordinates need to be converted into servo positions so that the arm moves, picks them up and carries them to the boxes where I will later enter the coordinates and place them. This is my first such demanding project, so any recommendations, advice and help would be welcome. Thanks in advance and I hope you can help me! https://preview.redd.it/lqudfoex21pg1.jpg?width=2252&format=pjpg&auto=webp&s=b29314ed995ae0ec20f52d342766de34e04ec5cd
 
-3h ago
+4h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hello everyone. I need help programming a robotic arm. I managed to create a pyt
 
 ive had this question for about a week now and even though lot of AIs tell me esp32 is superior, i usually see people building robots with an arduino nano. The people that use nano are very experienced from what i saw and i think that if esp was really better they would have used it, to this day i ahvent seen anyone use the esp.
 
-4h ago
+5h ago
 
 ---
 
@@ -112,7 +112,7 @@ ive had this question for about a week now and even though lot of AIs tell me es
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ New Hampshire Public Radio • 2d ago
 
 Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
 
-13wham.com • 7h ago
+13wham.com • 8h ago
 
 ---
 
@@ -228,7 +228,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 16K • 👍 120 • 💬 31 • ⏱️ 3:48 • 4d ago
+👁️ 16K • 👍 120 • 💬 31 • ⏱️ 3:48 • 5d ago
 
 ---
 
