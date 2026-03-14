@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T23:29:01.582857+00:00'
+updated: '2026-03-14T23:52:30.706701+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 23:29 UTC  
+**Last Updated:** March 14, 2026 at 23:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I
 
 When Fear & Greed hits extreme fear, that's historically when you want to be accumulating. Everyone here knows this... But I've been thinking about what that same signal does to someone in their first bear market. They see "EXTREME FEAR" and their brain processes it as danger, not discount. Their emotional response to it triggers the opposite of what's useful. It's the same problem with price charts going down. Experienced holders see opportunity. Newcomers see a reason to leave. Is the solution better financial education? Better framing? Or is Fear & Greed just fundamentally a tool for people who already don't need it?
 
-54m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ When Fear & Greed hits extreme fear, that's historically when you want to be acc
 
 A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged themselves by demanding ransom in Bitcoin. Other
 
-🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 4h ago
+🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 5h ago
 
 ---
 
@@ -171,7 +171,7 @@ Financial Times • 1d ago
 
 Strategy Inc. Chair Michael Saylor said on Thursday that Bitcoin purchases don't lead to immediate price increases and there’s always a “delay.” Another Call To HODL? In what looked like a cheeky reminder on X, Saylor pointed out the lag...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Barron's • 1d ago
 
 Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 4m ago
+Polymarket • 28m ago
 
 ---
 
@@ -221,7 +221,7 @@ Decrypt • 9h ago
 
 **[‘We’re Doing Everything We Can To Destroy It’—Legendary Billionaire Predicts U.S. Dollar Collapse Amid Bitcoin Price Rally](https://www.forbes.com/sites/digital-assets/2026/03/14/were-doing-everything-we-can-to-destroy-it-legendary-billionaire-predicts-us-dollar-collapse-amid-bitcoin-price-rally/)**
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
@@ -261,7 +261,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 14h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 15h ago • [psicommit.com](https://psicommit.com)
 
 ---
 

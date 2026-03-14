@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T23:29:01.574265+00:00'
+updated: '2026-03-14T23:52:30.698127+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 23:29 UTC  
+**Last Updated:** March 14, 2026 at 23:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-10h ago
+11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Integrated an evolutionary database to Karpathy's autoresearch project that repl
 
 This week's round of drm-misc-next patches bring a few improvements to the AMDXDNA accelerator driver used for supporting the Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 5h ago
 
 ---
 
@@ -117,7 +117,7 @@ JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI
 
 I was reading about the ongoing debate around AI consciousness, and it made me think about how easily our perception can change when technology becomes more sophisticated. From what researchers explain, current AI models aren’t conscious. They don’t have subjective experiences, biological grounding, or internal sensations. They mainly work by recognizing patterns in huge datasets and predicting the most likely response. But here’s the interesting part. As these systems become better at conversation, reasoning, and context, they can feel surprisingly human to interact with. Sometimes so much that people start attributing emotions or awareness to them. That raises a few questions that seem more philosophical than technical: • Should AI systems be designed to avoid appearing sentient? • Should companies clearly remind users that these systems are not conscious? • And as AI integrates vision, speech, memory, and planning, will that perception gap grow even more? Maybe the real issue isn’t whether AI is conscious today. Maybe it’s how humans interpret increasingly intelligent systems. Curious to hear what people here think: Do you believe AI could ever become conscious, or will it always remain a very advanced simulation?
 
-3h ago
+4h ago
 
 ---
 
@@ -459,7 +459,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 13,104 • ❤️ 190 • 8h ago
+⬇️ 13,104 • ❤️ 190 • 9h ago
 
 ---
 
@@ -667,7 +667,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 27.1k • 🔱 3.6k • 53m ago
+⭐ 27.1k • 🔱 3.6k • 1h ago
 
 ---
 
@@ -727,7 +727,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 7.0k • 🔱 314 • 7h ago
+⭐ 7.0k • 🔱 314 • 8h ago
 
 ---
 

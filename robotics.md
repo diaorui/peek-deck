@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T23:29:01.591999+00:00'
+updated: '2026-03-14T23:52:30.715842+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 23:29 UTC  
+**Last Updated:** March 14, 2026 at 23:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -56,7 +56,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Hey everyone, I’m a high school senior who’s about to start college as a mechanical engineering major. I’m really interested in robotics, but I have basically zero experience with actual robots and I’m also pretty desperate to learn how to code. Right now I’m kind of overwhelmed and don’t know what to focus on first. Should I start with Arduino or Raspberry Pi type projects, learn a language like Python or C++ first, or spend time on basic electronics/mechatronics stuff? If you were in my shoes going into mechE with no robotics or coding background how would you get started over the next few months? Any specific beginner projects, resources, or paths to follow would be super helpful. Thanks in advance for any advice :)
 
-21m ago
+45m ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey everyone, I’m a high school senior who’s about to start college as a mec
 
 Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 topics directly to the Rerun viewer for real-time visualization. What it does Speaks DDS and Zenoh natively — it's not a ROS 2 node, so no colcon build, no rclcpp, no ROS 2 install needed 53 built-in type mappings (images, pointclouds, TF, poses, laser scans, odometry, etc.) Custom message mappings via JSON5 config — map any ROS 2 type to Rerun archetypes without writing code URDF loading with full TF tree visualization Per-topic diagnostics (Hz, bandwidth, drops, latency) Topic filtering with glob patterns Getting Started sh curl -fsSL https://rewire.run/install.sh | sh rewire record -a That's it — two commands and you're visualizing your ROS 2 system in Rerun. Works on Linux (x86_64, aarch64) and macOS (Intel + Apple Silicon). Single binary, pure Rust. Website: https://rewire.run Feel free to ask anything!
 
-25m ago
+48m ago
 
 ---
 
@@ -184,7 +184,7 @@ Financial Times • 2d ago
 
 Inside Lucas Oil Stadium in downtown Indianapolis, the future of engineering is already at work.  The Indiana Robotics State Championship is happening over the weekend of March 14-15, and at the heart...
 
-Yahoo • 3h ago
+Yahoo • 4h ago
 
 ---
 
@@ -198,7 +198,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 20K • 👍 481 • 💬 46 • ⏱️ 14:52 • 23h ago
+👁️ 20K • 👍 481 • 💬 46 • ⏱️ 14:52 • 1d ago
 
 ---
 
@@ -286,7 +286,7 @@ Xtend co-founder and CEO Aviv Shapira explains how technology is changing warfar
 
 📺 Robot Julie 
 
-👁️ 4K • 👍 21 • ⏱️ 0:22 • 22h ago
+👁️ 4K • 👍 21 • ⏱️ 0:22 • 23h ago
 
 ---
 
