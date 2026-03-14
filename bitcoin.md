@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T06:50:15.525394+00:00'
+updated: '2026-03-14T07:35:18.058897+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 06:50 UTC  
+**Last Updated:** March 14, 2026 at 07:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
 
-21h ago
+22h ago
 
 ---
 
 **[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
 
-21h ago
+22h ago
 
 ---
 
 **[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
-12h ago
+13h ago
 
 ---
 
@@ -109,7 +109,7 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-6h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ For a long time I just ignored Bitcoin. Every time it came up it sounded like ei
 
 Just tested out Arcade wallet where you can send and receive on Lightning, Ark and mainnet all in one (Software wallet! However it’s an ark wallet. You keep custody of your bitcoin. Onchain batch outputs use an n-of-n multisig arrangement involving all VTXO owners and the Ark Operator. Users hold presigned transactions that allow them to unilaterally withdraw their funds without cooperation from the operator or other participants — typically after a predefined delay. The server can’t steal your bitcoin. This is kind of like how you can force close a lightning channel. What do you think of this scaling solution? It allows you to hold money without needing to worry about channels or them running off with your money. Will we see adoption of ark any time soon on exchanges? Edit I will give some free bitcoin to the first person to comment their ark address
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Just tested out Arcade wallet where you can send and receive on Lightning, Ark a
 
 Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
 
-16h ago
+17h ago
 
 ---
 
@@ -141,7 +141,7 @@ biggest mistake i see people make is running their mouth about bitcoin profits l
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-44m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Quick question for you guys. I have spent my last few days going down the crypto youtube rabbithole. Tthis guy ivan on tech keeps popping up on freakin every topic I search lol. I watched a few of his vids and that white prolly europen guy looks knowing when talking about bitcoin and stuff. At the same time crypto youtybe is full of people making predictions and hyping coins so it’s hard to separate legit analysis from straight hopium. So figured this sub be the best place to ask. Question is for people who actually follow his channel regularly, does his content genuinely help you understand the market. Or you use it just for crypto entertainment?v
 
-9h ago
+10h ago
 
 ---
 
@@ -161,13 +161,13 @@ Quick question for you guys. I have spent my last few days going down the crypto
 
 A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqc28jqdrsg898y9kJcXX74w2skdx5ELyp6LzulqX_AK2z4XKHPCJob2&gaa_ts=69b50827&gaa_sig=xw1HnIIdCzVTJjGtzM5X8LrOARBZlkiAB55Y3vcNhEjo9OlD1hH-UiTKTPXAuuhTt_v_ZzY5iCNLF_oAqVeq4g%3D%3D)**
 
-Barron's • 16h ago
+Barron's • 17h ago
 
 ---
 
@@ -175,7 +175,7 @@ Barron's • 16h ago
 
 The largest cryptocurrency is up 4.2% on the week despite Friday's reversal, with attention now turning to the Fed meeting on March 17-18 and whether oil above $100 forces a shift in rate expectations.
 
-CoinDesk • 39m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 39m ago
 
 Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Block • 1d ago
 
 Bitcoin miners are facing historically low margins and are responding by pivoting some operations to AI infrastructure.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bitcoin Magazine • 12h ago
 
 Boris Johnson warns Bitcoin depends entirely on fragile belief.
 
-thestreet.com • 9h ago
+thestreet.com • 10h ago
 
 ---
 
@@ -309,7 +309,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Read a letter from CEO Tim Cook as he reflects on 50 Years of Apple.
 
-⬆️ 1 • 💬 0 • 1h ago • [Apple](https://www.apple.com/50-years-of-thinking-different/)
+⬆️ 1 • 💬 0 • 2h ago • [Apple](https://www.apple.com/50-years-of-thinking-different/)
 
 ---
 
@@ -323,7 +323,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 231 • ⏱️ 14:33 • 9h ago
+👁️ 17K • 👍 1K • 💬 231 • ⏱️ 14:33 • 10h ago
 
 ---
 
@@ -333,7 +333,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 170 • ⏱️ 12:14 • 15h ago
+👁️ 23K • 👍 1K • 💬 170 • ⏱️ 12:14 • 16h ago
 
 ---
 
@@ -353,7 +353,7 @@ The stock market is bleeding, Gold and Silver are breaking down, but the crypto 
 
 📺 Gareth Soloway
 
-👁️ 38K • 👍 3K • 💬 408 • ⏱️ 9:50 • 13h ago
+👁️ 38K • 👍 3K • 💬 408 • ⏱️ 9:50 • 14h ago
 
 ---
 
@@ -373,7 +373,7 @@ Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 157 • 💬 28 • ⏱️ 19:03 • 11h ago
+👁️ 3K • 👍 157 • 💬 28 • ⏱️ 19:03 • 12h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin #Crypto #Finance Bitcoin adoption continues to accelerate even as invest
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 900 • 💬 230 • ⏱️ 22:15 • 17h ago
+👁️ 15K • 👍 900 • 💬 230 • ⏱️ 22:15 • 18h ago
 
 ---
 

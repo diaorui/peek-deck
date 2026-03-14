@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T06:50:15.535295+00:00'
+updated: '2026-03-14T07:35:18.068222+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 06:50 UTC  
+**Last Updated:** March 14, 2026 at 07:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-19h ago
+20h ago
 
 ---
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,13 +50,13 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-11h ago
+12h ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -70,7 +70,7 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -78,7 +78,7 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 I saw multiple pages post this clip, but none seem to mention if the robot is performing the task autonomously or not. What do you think? https://reddit.com/link/1rtb02x/video/nhn56abk4yog1/player
 
-1h ago
+2h ago
 
 ---
 
@@ -110,7 +110,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -118,7 +118,7 @@ CNBC • 8h ago
 
 Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
 
-TechCrunch • 11h ago
+TechCrunch • 12h ago
 
 ---
 
@@ -126,7 +126,7 @@ TechCrunch • 11h ago
 
 Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
 
-The Information • 13h ago
+The Information • 14h ago
 
 ---
 
@@ -164,7 +164,7 @@ Quanta Magazine • 16h ago
 
 In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
 
-Ukrinform • 10h ago
+Ukrinform • 11h ago
 
 ---
 
@@ -222,7 +222,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Robot Julie 
 
-👁️ 1K • 👍 10 • ⏱️ 0:22 • 6h ago
+👁️ 1K • 👍 10 • ⏱️ 0:22 • 7h ago
 
 ---
 
@@ -282,7 +282,7 @@ It's robotic horse season in China. The Hangzhou-based startup DEEP Robotics jus
 
 📺 Kalil 4.0
 
-👁️ 481 • 👍 17 • 💬 1 • ⏱️ 0:35 • 2h ago
+👁️ 481 • 👍 17 • 💬 1 • ⏱️ 0:35 • 3h ago
 
 ---
 
