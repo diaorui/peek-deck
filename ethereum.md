@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T19:27:58.975888+00:00'
+updated: '2026-03-14T19:49:56.115391+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 19:27 UTC  
+**Last Updated:** March 14, 2026 at 19:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
+**24h:** -1.5%  
 **7d:** +7.3%  
-**30d:** +1.3%  
+**30d:** +1.4%  
 **90d:** -30.0%  
 **1y:** +7.0%  
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
 
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 13h ago
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 Ethereum Foundation (EF) wrote a constitution for the soul of the project. The new EF Mandate isn't just a corporate mission statement but a line in the sand for how Ethereum stays human in an increasingly automated world. The EF is calling its core philosophy CROPS. If a feature isn’t Censorship-resistant, Resilient, Open-source, Private, and Secure, it doesn't belong on ethereum . No trading sovereignty for convenience. Here are the main points: Stewardship, Not Ownership: The EF is explicitly saying they aren't the boss. They are temporary caretakers who eventually want to disappear. This is the ultimate decentralize or die commitment. The AI Shield: They see a future where AI and opaque algorithms run everything. Ethereum’s job is to be the Infinite Garden, a place where humans, not code or corporations, have the final say over their own lives. Immutable Values: By publishing this directly onto the blockchain, they’ve made their values as permanent as a transaction. You can’t edit the project's soul once it’s on-chain. This is a massive vibe check for the entire ecosystem. It’s a reminder that if we give up control for a slightly faster app, we’ve already lost the plot. Can a written mandate actually stop the slow creep of centralization, or is the pull of convenience just too strong? Let’s talk. 👇 Source
 
-12h ago
+13h ago
 
 ---
 
@@ -148,19 +148,19 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 ## Google News: "ethereum"
 
-**[Not XRP Or Ethereum: You Won’t Believe The Network With The Highest Number Of RWA Users](https://www.tradingview.com/news/newsbtc:7ba3f76a1094b:0-not-xrp-or-ethereum-you-won-t-believe-the-network-with-the-highest-number-of-rwa-users/)**
-
-Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
-
-TradingView • 1d ago
-
----
-
 **[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
 
 XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
 
 Coinpaper • 12h ago
+
+---
+
+**[Why is Crypto Market Going Up Today: Bitcoin, Ethereum and XRP Prices Rally](https://www.tradingview.com/news/coinpedia:582f25f28094b:0-why-is-crypto-market-going-up-today-bitcoin-ethereum-and-xrp-prices-rally/)**
+
+Crypto is having one of its best days in weeks. Bitcoin has pushed above $73,000, Ethereum has cleared $2,180, and the total crypto market has added $90 billion in value in the past 15 hours alone. Here is what is actually driving it.The Numbers FirstThe Fear and Greed Index sits at 37, still in fe…
+
+TradingView • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ CoinDesk • 1h ago
 
 BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 126 • 💬 44 • ⏱️ 12:50 • 8h ago
+👁️ 2K • 👍 126 • 💬 44 • ⏱️ 12:50 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 283 • ⏱️ 13:31 • 20h ago
+👁️ 35K • 👍 2K • 💬 283 • ⏱️ 13:31 • 21h ago
 
 ---
 

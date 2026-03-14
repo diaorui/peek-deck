@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T19:27:58.970616+00:00'
+updated: '2026-03-14T19:49:56.109975+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 19:27 UTC  
+**Last Updated:** March 14, 2026 at 19:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,677.06
+### $70,722.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +7.0%  
-**30d:** +2.6%  
-**90d:** -18.3%  
-**1y:** -16.2%  
+**24h:** -0.9%  
+**7d:** +7.1%  
+**30d:** +2.7%  
+**90d:** -18.2%  
+**1y:** -16.1%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -101,27 +101,19 @@ Rank #1
 
 ---
 
+**[Crypto Expert Explains How Bitcoin Exchange Gave Police Control Over Nancy Guthrie’s Kidnapper](https://www.reddit.com/r/Bitcoin/comments/1rtr5a7/crypto_expert_explains_how_bitcoin_exchange_gave/)**
+
+A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged themselves by demanding ransom in Bitcoin. Other
+
+🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 1h ago
+
+---
+
 **[A big win for Bitcoin and freedom: US Senate Votes to Ban Federal Reserve From Issuing CBDC](https://www.reddit.com/r/Bitcoin/comments/1rsibj4/a_big_win_for_bitcoin_and_freedom_us_senate_votes/)**
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
 
 1d ago
-
----
-
-**[Crypto Expert Explains How Bitcoin Exchange Gave Police Control Over Nancy Guthrie’s Kidnapper](https://www.reddit.com/r/Bitcoin/comments/1rtr5a7/crypto_expert_explains_how_bitcoin_exchange_gave/)**
-
-A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged themselves by demanding ransom in Bitcoin. Other
-
-🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 50m ago
-
----
-
-**[I wrote a small song inspired by Log Boom Park in Kenmore](https://www.reddit.com/r/Bitcoin/comments/1rtnjs4/i_wrote_a_small_song_inspired_by_log_boom_park_in/)**
-
-Hello, I enjoy writing small poems during quiet walks around Lake Washington. One afternoon I was sitting at the end of the pier at Log Boom Park in Kenmore. The sunlight was warm but the wind was still cold. That quiet moment became a poem, and later I turned it into a small song called Kenmore Ferry. If anyone here enjoys calm reflective music inspired by our area, I would be happy to share it. YouTube link: https://youtu.be/uQz59wx3DE4?si=hC7r86XOENmN\\\_\\\_fX
-
-3h ago
 
 ---
 
@@ -141,11 +133,17 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 ---
 
-**[M1 MacBook Air w/Bitcoin node](https://www.reddit.com/r/Bitcoin/comments/1rtmofa/m1_macbook_air_wbitcoin_node/)**
+**[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
 
-I got a 256g ssd 16gb ram… I’m so happy plus with the finger print ID thingy Loving it
+1d ago
 
-3h ago
+---
+
+**[Daily Discussion, March 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1rtbpso/daily_discussion_march_14_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+13h ago
 
 ---
 
@@ -169,25 +167,27 @@ Financial Times • 1d ago
 
 ---
 
+**[Bitcoin vs Gold: One Is Up 77%, the Other Is Down 47%. Here’s Which One Wall Street Is Picking for the Next 5 Years](https://finance.yahoo.com/news/bitcoin-vs-gold-one-77-190051157.html)**
+
+Bitcoin (CRYPTO: BTC) and Gold are the two most recognized store-of-value assets in the world. Both are built on the promise of holding value when everything else falls, but they are moving in completely opposite directions right now. Gold is trading near $5,200 an ounce after climbing 77% over the past year, hitting an all-time ... Bitcoin vs Gold: One Is Up 77%, the Other Is Down 47%. Here’s Which One Wall Street Is Picking for the Next 5 Years
+
+finance.yahoo.com • 49m ago
+
+---
+
+**[Boris Johnson calling Bitcoin a ‘Ponzi’ draws rebuttal from Michael Saylor and others](https://www.coindesk.com/business/2026/03/14/boris-johnson-calling-bitcoin-a-ponzi-draws-rebuttal-from-michael-saylor-and-others)**
+
+The cryptocurrency community pushed back, with Michael Saylor saying Bitcoin has no issuer, promoter, or guaranteed return, and is instead  driven by code and market demand.
+
+CoinDesk • 2h ago
+
+---
+
 **[Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war](https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html)**
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
 CNBC • 4h ago
-
----
-
-**[Bitcoin Price Signals Mixed Cycle Setup As Exchange Supply Hits 8-Year Low](https://www.binance.com/en/square/post/301504024022449)**
-
-Binance • 4h ago
-
----
-
-**[Bitcoin holds ground as Iran war escalates and ETFs take in over $760m](https://finance.yahoo.com/news/bitcoin-holds-ground-iran-war-152038954.html)**
-
-Bitcoin’s price dropped slightly Saturday — but it still held above $70,000. US Bitcoin ETFs took in over $760 million in new cash from investors. The stock market took a hit Friday — but the crypto market remains strong.
-
-Yahoo Finance • 4h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqdNlXrZIRiuUFv2QjczvcrWmawCeWP3QJyDevm7qr--1kfF-BcX-89l&gaa_ts=69b5af05&gaa_sig=eBAbNWAQcb3hiUxrCDTp1u7RIMoLwVSvyUYDppYsxjtD6RpdabQTNIFrh81Ab0uiwwIDZthdBFPIP5Boob3V0g%3D%3D)**
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqept7IoI2aonfL-YvIdBtkR84vXXTKp39_gI6qgZsCEAxndIBSS1Y23&gaa_ts=69b5bf51&gaa_sig=bW9-d8jakHtczMyeAdBvWq2b0IWO3b8OIr8hU79BPAVEeuYPwAkzWq_QfddpsCnCrNkkmBsYlu8jlTF1jm3DAA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -217,9 +217,11 @@ Polymarket • 16h ago
 
 ---
 
-**[Crypto stocks gain as Bitcoin sell-offs could reportedly be entering final phase (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4564374-crypto-stocks-gain-as-bitcoin-sell-offs-could-reportedly-be-entering-final-phase)**
+**[AI Pivot Won’t Save Everyone, Wintermute Tells Bitcoin Miners](https://bitcoinmagazine.com/news/ai-pivot-wont-save-bitcoin-miners)**
 
-Seeking Alpha • 1d ago
+Bitcoin miners are facing historically low margins and are responding by pivoting some operations to AI infrastructure.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -259,7 +261,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 10h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 11h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -351,7 +353,7 @@ Bitaxe Gamma vs NerdQAxe++ which is the best mini Bitcoin miner to buy and start
 
 📺 VoskCoin
 
-👁️ 320 • 👍 32 • 💬 43 • ⏱️ 14:52 • 3h ago
+👁️ 320 • 👍 32 • 💬 43 • ⏱️ 14:52 • 4h ago
 
 ---
 

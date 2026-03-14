@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T19:27:58.978673+00:00'
+updated: '2026-03-14T19:49:56.118268+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 19:27 UTC  
+**Last Updated:** March 14, 2026 at 19:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -74,11 +74,19 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 ---
 
+**[Inputs welcome for power architect tool](https://www.reddit.com/r/robotics/comments/1rts8l3/inputs_welcome_for_power_architect_tool/)**
+
+Hi all: I’m working on building a power architect tool where an engineer could come and set their system with motors, sensors, etc, then go further and pick specific components, and the system would give a reasonably accurate power draw need for the setup. This will help robotics engineers understand budgeting of their robotic systems and hopefully help students learn things that they don’t learn at college. I’m looking to hear about any pain points or ideas on this build 🙏
+
+29m ago
+
+---
+
 **[Gig workers are strapping cameras on their bodies to do chores to help train humanoids](https://www.reddit.com/r/robotics/comments/1rt2dxm/gig_workers_are_strapping_cameras_on_their_bodies/)**
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 20h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 21h ago
 
 ---
 
@@ -93,14 +101,6 @@ Hello everyone. I need help programming a robotic arm. I managed to create a pyt
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
 1d ago
-
----
-
-**[Is esp32 or arduino nanobetter for a robosumo championship](https://www.reddit.com/r/robotics/comments/1rtk7zt/is_esp32_or_arduino_nanobetter_for_a_robosumo/)**
-
-ive had this question for about a week now and even though lot of AIs tell me esp32 is superior, i usually see people building robots with an arduino nano. The people that use nano are very experienced from what i saw and i think that if esp was really better they would have used it, to this day i ahvent seen anyone use the esp.
-
-5h ago
 
 ---
 
@@ -121,6 +121,14 @@ CNBC • 21h ago
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
 NPR • 1d ago
+
+---
+
+**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
+
+Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
+
+13wham.com • 8h ago
 
 ---
 
@@ -164,27 +172,19 @@ New Hampshire Public Radio • 2d ago
 
 ---
 
-**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
-
-Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
-
-13wham.com • 8h ago
-
----
-
 **[Ukraine receives humanoid robots for testing in combat conditions](https://www.ukrinform.net/rubric-ato/4101402-ukraine-receives-humanoid-robots-for-testing-in-combat-conditions.html)**
 
 In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
 
-Ukrinform • 22h ago
+Ukrinform • 23h ago
 
 ---
 
-**[New robotics programs aim to teach North American kids programming and AI skills](https://www.stocktitan.net/news/KIDZ/classover-announces-strategic-robotics-education-collaboration-with-gjcixgew113i.html)**
+**[Indiana students participate in state robotics competition](https://www.wthr.com/article/news/local/indiana-students-participate-in-state-vex-robotics-competition-lucas-oil-stadium/531-040f76a0-ed09-466a-b471-5476a21e4434)**
 
-Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
+For many students, these competitions are where classroom lessons turn into real world skills.
 
-Stock Titan • 1d ago
+WTHR • 9m ago
 
 ---
 
@@ -198,7 +198,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 17K • 👍 434 • 💬 44 • ⏱️ 14:52 • 19h ago
+👁️ 17K • 👍 434 • 💬 44 • ⏱️ 14:52 • 20h ago
 
 ---
 
@@ -276,7 +276,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 zhulongfeng 6
 
-👁️ 26K • 👍 116 • ⏱️ 0:21 • 18h ago
+👁️ 26K • 👍 116 • ⏱️ 0:21 • 19h ago
 
 ---
 

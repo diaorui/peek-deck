@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T19:27:58.963144+00:00'
+updated: '2026-03-14T19:49:56.102217+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
-- repositories
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 19:27 UTC  
+**Last Updated:** March 14, 2026 at 19:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-6h ago
+7h ago
 
 ---
 
@@ -50,6 +50,22 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
 
 🔗 [substack.com](https://substack.com/home/post/p-190322208) • 2h ago
+
+---
+
+**[[P] Karpathy's autoresearch with evolutionary database.](https://www.reddit.com/r/artificial/comments/1rtsaoy/p_karpathys_autoresearch_with_evolutionary/)**
+
+Integrated an evolutionary database to Karpathy's autoresearch project that replaces the simple tsv file based logging in the original project. Evolutionary algorithms have shown to be a powerful tool for autonomously discovering optimal solutions to problems with large search spaces. Famously, Google DeepMind's AlphaEvolve system uses evolutionary algorithms to discover state of the art matrix multiplication algorithms. The implementation of the evolutionary database itself is based heavily on the implementation in OpenEvolve. Would love thoughts and suggestions from the community. Check it out: https://github.com/hgarud/autoresearch
+
+27m ago
+
+---
+
+**[Linux 7.1 will bring power estimate reporting for AMD Ryzen AI NPUs](https://www.reddit.com/r/artificial/comments/1rtrhg5/linux_71_will_bring_power_estimate_reporting_for/)**
+
+This week's round of drm-misc-next patches bring a few improvements to the AMDXDNA accelerator driver used for supporting the Ryzen AI NPUs
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 59m ago
 
 ---
 
@@ -105,37 +121,21 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 ---
 
-**[How we’re reimagining Maps with Gemini](https://www.reddit.com/r/artificial/comments/1rsl7kz/how_were_reimagining_maps_with_gemini/)**
-
-Google Maps has two new AI features: Ask Maps and Immersive Navigation.
-
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 1d ago
-
----
-
-**[Which states have been the fastest to adopt AI in the workplace?](https://www.reddit.com/r/artificial/comments/1rsp8ym/which_states_have_been_the_fastest_to_adopt_ai_in/)**
-
-See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
-
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
+
+Reuters • 19h ago
+
+---
 
 **[Meta eyes massive 20% workforce cut as AI infrastructure costs continue to soar across operations: report](https://www.foxbusiness.com/technology/meta-eyes-massive-20-workforce-cut-ai-infrastructure-costs-continue-soar-across-operations-report)**
 
 Meta layoffs could cut 20% of workforce as tech giant weighs job reductions to offset rising artificial intelligence infrastructure costs.
 
 Fox Business • 11h ago
-
----
-
-**[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
-
-Reuters • 19h ago
 
 ---
 
@@ -147,11 +147,33 @@ The Guardian • 18h ago
 
 ---
 
-**[AI promised supreme productivity, but it’s actually straining workloads for employees—time spent emailing has doubled, and focused work sessions fell by 9%](https://fortune.com/2026/03/13/ai-isnt-reducing-workloads-its-straining-employees-time-spent-emailing-doubled-deep-focus-work-fell/)**
+**[America's math and reading scores collapsed when schools went digital. AI may be a greater threat](https://fortune.com/2026/03/14/america-math-and-reading-scores-tanked-edtech-ai-brain-rot/)**
 
-Workers who use AI are spending up to 346% more time on their daily tasks, from messaging to business management: “The data is unambiguous: AI does not reduce workloads.”
+A major Brookings Institute study of more than 500 students and educators across 50 countries found the risks of AI in the classroom “overshadow its benefits.”
 
-Fortune • 1d ago
+Fortune • 10h ago
+
+---
+
+**[Zach Braff’s AI Relationship Denial Is Raising a Lot of Questions Already Answered by the Denial](https://gizmodo.com/zach-braffs-ai-relationship-denial-is-raising-a-lot-of-questions-already-answered-by-his-denial-2000733708)**
+
+The Scrubs star referred to himself as "The guy not dating his chatbot."
+
+Gizmodo • 3h ago
+
+---
+
+**[Only the American people can save AI](https://thehill.com/opinion/technology/5783340-ai-trust-gap-america/)**
+
+The Hill • 2h ago
+
+---
+
+**[Trump's AI czar calls for US to 'get out' of war and warns Iran could make Gulf uninhabitable](https://fortune.com/2026/03/14/trump-ai-czar-david-sacks-us-iran-war-gulf-israel-desalination-water-uninhabitable/)**
+
+"So there's a lot of scenarios here, a lot of really frightening scenarios about where escalation could lead," Sacks said.
+
+Fortune • 2h ago
 
 ---
 
@@ -160,20 +182,6 @@ Fortune • 1d ago
 The technology has been used to create misleading fakes before. But never at this scale.
 
 The New York Times • 17h ago
-
----
-
-**[Iran using AI to control global narrative as regime can't win on the battlefield, former security chief warns](https://www.foxnews.com/media/iran-using-ai-fake-winning-war-against-us-regime-cant-win-militarily-former-security-chief-warns)**
-
-Former CISA director warns Iran is allegedly using AI to create false narratives about winning against the U.S., urging people to be careful about online content.
-
-Fox News • 5h ago
-
----
-
-**[White House AI czar says US should 'declare victory and get out' of Iran war](https://www.reuters.com/world/middle-east/white-house-ai-czar-says-us-should-declare-victory-get-out-iran-war-2026-03-14/)**
-
-Reuters • 15h ago
 
 ---
 
@@ -193,29 +201,15 @@ The Guardian • 8h ago
 
 ---
 
-**[China’s OpenClaw Boom Is a Gold Rush for AI Companies](https://www.wired.com/story/china-is-going-all-in-on-openclaw/)**
-
-Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.
-
-WIRED • 1d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
-
-**[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
-
-⬆️ 4195 • 💬 1653 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
-
----
 
 **[Can I run AI locally?](https://news.ycombinator.com/item?id=47363754)**
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 1362 • 💬 322 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 1375 • 💬 328 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -223,7 +217,7 @@ Detect your hardware and find out which AI models you can run locally. GPU, CPU,
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 736 • 💬 384 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 741 • 💬 384 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -231,13 +225,13 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 482 • 💬 747 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 487 • 💬 758 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 344 • 💬 458 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 350 • 💬 460 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -245,7 +239,7 @@ Tesla and SpaceX managers sent in to review work as billionaire’s start-up str
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 232 • 💬 373 • 1d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 234 • 💬 374 • 1d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -259,7 +253,7 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
 
-⬆️ 218 • 💬 122 • 2d ago • [GitHub](https://github.com/jrswab/axe)
+⬆️ 219 • 💬 122 • 2d ago • [GitHub](https://github.com/jrswab/axe)
 
 ---
 
@@ -267,7 +261,7 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 Open-source credential vault, give your AI agents access to services without exposing keys. - onecli/onecli
 
-⬆️ 158 • 💬 50 • 2d ago • [GitHub](https://github.com/onecli/onecli)
+⬆️ 159 • 💬 50 • 2d ago • [GitHub](https://github.com/onecli/onecli)
 
 ---
 
@@ -275,7 +269,15 @@ Open-source credential vault, give your AI agents access to services without exp
 
 I injected three fabricated documents into a ChromaDB knowledge base. Here’s what the LLM said next.
 
-⬆️ 154 • 💬 59 • 2d ago • [Amine Raji, PhD](https://aminrj.com/posts/rag-document-poisoning/)
+⬆️ 154 • 💬 65 • 2d ago • [Amine Raji, PhD](https://aminrj.com/posts/rag-document-poisoning/)
+
+---
+
+**[AI should not replace people at Atlassian, says CEO](https://news.ycombinator.com/item?id=47352335)**
+
+AI should not replace people at Atlassian, says CEO Cannon-Brookes. But they still have to lay off 1,600 people to have money for AI investments.
+
+⬆️ 118 • 💬 52 • 2d ago • [iX Magazin](https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html)
 
 ---
 
@@ -339,7 +341,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 17K • 👍 433 • 💬 44 • ⏱️ 14:52 • 19h ago
+👁️ 17K • 👍 433 • 💬 44 • ⏱️ 14:52 • 20h ago
 
 ---
 
@@ -455,7 +457,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 13,104 • ❤️ 187 • 4h ago
+⬇️ 13,104 • ❤️ 187 • 5h ago
 
 ---
 
@@ -663,7 +665,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 27.0k • 🔱 3.6k • 52m ago
+⭐ 27.0k • 🔱 3.6k • 1h ago
 
 ---
 
@@ -673,7 +675,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.2k • 🔱 918 • 19h ago
+⭐ 20.2k • 🔱 918 • 20h ago
 
 ---
 
@@ -723,7 +725,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 7.0k • 🔱 312 • 3h ago
+⭐ 7.0k • 🔱 312 • 4h ago
 
 ---
 
@@ -743,7 +745,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 666 • 55m ago
+⭐ 3.4k • 🔱 666 • 1h ago
 
 ---
 
