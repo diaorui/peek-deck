@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T09:35:06.306113+00:00'
+updated: '2026-03-14T10:30:09.796890+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 09:35 UTC  
+**Last Updated:** March 14, 2026 at 10:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-22h ago
+23h ago
 
 ---
 
@@ -50,7 +50,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-14h ago
+15h ago
 
 ---
 
@@ -58,19 +58,25 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 10h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 11h ago
+
+---
+
+**[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
+
+14m ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -78,25 +84,17 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 I saw multiple pages post this clip, but none seem to mention if the robot is performing the task autonomously or not. What do you think? https://reddit.com/link/1rtb02x/video/nhn56abk4yog1/player
 
-4h ago
+5h ago
 
 ---
 
 **[Curious about the experiment data logging](https://www.reddit.com/r/robotics/comments/1rt7u8k/curious_about_the_experiment_data_logging/)**
 
-6h ago
+7h ago
 
 ---
 
 **[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
-
-1d ago
-
----
-
-**[A dexterous hand that actually morphs between left and right hand configurations on the fly.](https://www.reddit.com/r/robotics/comments/1rrnbpu/a_dexterous_hand_that_actually_morphs_between/)**
-
-It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo on 𝕏 (with a commercial video that shows the possibilities): https://x.com/CyberRobooo/status/2031738667107336560
 
 1d ago
 
@@ -110,35 +108,13 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
-**[Uber co-founder Kalanick launches Atoms in specialized robotics push](https://www.reuters.com/business/uber-co-founder-kalanick-launches-atoms-specialized-robotics-push-2026-03-13/)**
-
-Reuters • 12h ago
-
----
-
-**[Travis Kalanick Plots New Robotics and Self-Driving Venture with Levandowski, Uber](https://www.theinformation.com/articles/travis-kalanick-plots-new-self-driving-venture-levandowski-uber)**
-
-Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
-
-The Information • 16h ago
-
----
-
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqc10Z-FZdJ2nYEeVOB6m3wwhA6ykBxadzVoFlbsKWLbt7scrwErk2bS&gaa_ts=69b521d2&gaa_sig=nPzeXod8Vtuo86CSB8AqhassX3kVNcOEDeb5WAI71nd5nTkO9Npsfye4lk8kPoHwP_jMy9hQs1WvAWDWNthCUw%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcuNr6xBEVyCjx7Lv45l-7nnTDUjJ4i0vZyqYCQbrUk5WdZ7hcDsstT&gaa_ts=69b53c1f&gaa_sig=Qol15XLN_WxSBqWE9vCHd5BgubO41-3aEq3qhSbFgOLn954qpZr2xg7xNfwmc9QXzVGcpjbwV1p5zLM_vyTWcQ%3D%3D)**
 
 WSJ • 2d ago
-
----
-
-**[Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)**
-
-The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
-
-TechCrunch • 2d ago
 
 ---
 
@@ -150,11 +126,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)**
+
+The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.
+
+TechCrunch • 2d ago
+
+---
+
 **[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 18h ago
+Quanta Magazine • 19h ago
 
 ---
 
@@ -178,7 +162,23 @@ Financial Times • 2d ago
 
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
-NPR • 19h ago
+NPR • 20h ago
+
+---
+
+**[Video Friday: These Robots Were Born to Run](https://spectrum.ieee.org/legged-modular-robot)**
+
+These modular robots are all legs and movement, whether one leg or four, and on all kinds of terrain. Plus, robot pandas are as cute as the real thing.
+
+IEEE Spectrum • 2d ago
+
+---
+
+**[Kamen resigns from FIRST robotics in wake of Epstein ties](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire)**
+
+Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
+
+New Hampshire Public Radio • 1d ago
 
 ---
 

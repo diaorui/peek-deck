@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T09:35:06.297106+00:00'
+updated: '2026-03-14T10:30:09.787284+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 09:35 UTC  
+**Last Updated:** March 14, 2026 at 10:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,668.27
+### $70,480.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +7.1%  
-**30d:** +2.6%  
-**90d:** -18.3%  
-**1y:** -16.2%  
+**24h:** -2.6%  
+**7d:** +6.7%  
+**30d:** +2.3%  
+**90d:** -18.6%  
+**1y:** -16.4%  
 
 ---
 
@@ -91,20 +91,6 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 ---
 
-**[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
-
-16h ago
-
----
-
-**[What made you finally believe in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rt3zv7/what_made_you_finally_believe_in_bitcoin/)**
-
-For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
-
-9h ago
-
----
-
 **[The easiest way to buy BTC near the bottom](https://www.reddit.com/r/Bitcoin/comments/1rsvldn/the_easiest_way_to_buy_btc_near_the_bottom/)**
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
@@ -113,11 +99,25 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 ---
 
+**[What made you finally believe in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rt3zv7/what_made_you_finally_believe_in_bitcoin/)**
+
+For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
+
+10h ago
+
+---
+
+**[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
+
+17h ago
+
+---
+
 **[Daily Discussion, March 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1rtbpso/daily_discussion_march_14_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -125,15 +125,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
 
-19h ago
-
----
-
-**[Bitcoin Ark Network seems to be live, what are your thoughts?](https://www.reddit.com/r/Bitcoin/comments/1rtaqto/bitcoin_ark_network_seems_to_be_live_what_are/)**
-
-Just tested out Arcade wallet where you can send and receive on Lightning, Ark and mainnet all in one (Software wallet! However it’s an ark wallet. You keep custody of your bitcoin. Onchain batch outputs use an n-of-n multisig arrangement involving all VTXO owners and the Ark Operator. Users hold presigned transactions that allow them to unilaterally withdraw their funds without cooperation from the operator or other participants — typically after a predefined delay. The server can’t steal your bitcoin. This is kind of like how you can force close a lightning channel. What do you think of this scaling solution? It allows you to hold money without needing to worry about channels or them running off with your money. Will we see adoption of ark any time soon on exchanges? Edit I will give some free bitcoin to the first person to comment their ark address
-
-4h ago
+20h ago
 
 ---
 
@@ -141,7 +133,15 @@ Just tested out Arcade wallet where you can send and receive on Lightning, Ark a
 
 biggest mistake i see people make is running their mouth about bitcoin profits like somehow thats gonna convince anyone to buy in spoiler alert it doesnt work that way when you tell someone you doubled your money or whatever they dont think wow what a smart investment they think damn i fucked up by not getting in earlier and now im behind so instead of being curious about bitcoin they just get defensive and start looking for reasons why its stupid or a scam or whatever makes them feel better about missing out ive seen this pattern over and over again - the second you mention gains people shut down completely and start arguing about energy usage or volatility or how its not real money meanwhile if you just talk about the technology or why you think its interesting without bringing up your portfolio suddenly people actually listen lesson learned keep your wins to yourself and let other people discover bitcoin on their own timeline not because youre flexing your returns
 
-11h ago
+12h ago
+
+---
+
+**[Bitcoin Ark Network seems to be live, what are your thoughts?](https://www.reddit.com/r/Bitcoin/comments/1rtaqto/bitcoin_ark_network_seems_to_be_live_what_are/)**
+
+Just tested out Arcade wallet where you can send and receive on Lightning, Ark and mainnet all in one (Software wallet! However it’s an ark wallet. You keep custody of your bitcoin. Onchain batch outputs use an n-of-n multisig arrangement involving all VTXO owners and the Ark Operator. Users hold presigned transactions that allow them to unilaterally withdraw their funds without cooperation from the operator or other participants — typically after a predefined delay. The server can’t steal your bitcoin. This is kind of like how you can force close a lightning channel. What do you think of this scaling solution? It allows you to hold money without needing to worry about channels or them running off with your money. Will we see adoption of ark any time soon on exchanges? Edit I will give some free bitcoin to the first person to comment their ark address
+
+5h ago
 
 ---
 
@@ -149,7 +149,7 @@ biggest mistake i see people make is running their mouth about bitcoin profits l
 
 Quick question for you guys. I have spent my last few days going down the crypto youtube rabbithole. Tthis guy ivan on tech keeps popping up on freakin every topic I search lol. I watched a few of his vids and that white prolly europen guy looks knowing when talking about bitcoin and stuff. At the same time crypto youtybe is full of people making predictions and hyping coins so it’s hard to separate legit analysis from straight hopium. So figured this sub be the best place to ask. Question is for people who actually follow his channel regularly, does his content genuinely help you understand the market. Or you use it just for crypto entertainment?v
 
-12h ago
+13h ago
 
 ---
 
@@ -165,11 +165,9 @@ CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin investor offers Nevis residents $100 a month if libertarian city approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)**
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqf5HimbGUTSLlv6vkeAmGxMxVWSr2Y1pY1GP5W_SrKDvkBRZDN1Wlt1&gaa_ts=69b53c1c&gaa_sig=2uxr9G7aH7gScitC2srZCNj-d4B63m0UVhMJoqht9WiYkH7bJaX3RH7g_LjadQf0xh7avtszjd2nsGYMun_knA%3D%3D)**
 
-Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
-
-Financial Times • 1d ago
+Barron's • 20h ago
 
 ---
 
@@ -177,15 +175,7 @@ Financial Times • 1d ago
 
 One coin will need to use a strategy to win, and the other will need to continue doing nothing.
 
-The Motley Fool • 1h ago
-
----
-
-**[BTC, ETH, ADA price news: Bitcoin holds $71,000 as Trump warns of Iran oil strikes](https://www.coindesk.com/markets/2026/03/14/bitcoin-holds-usd71-000-despite-trump-warning-after-iran-oil-strikes)**
-
-The largest cryptocurrency is up 4.2% on the week despite Friday's reversal, with attention now turning to the Fed meeting on March 17-18 and whether oil above $100 forces a shift in rate expectations.
-
-CoinDesk • 3h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -197,15 +187,17 @@ Yahoo Finance • 18h ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqef4PvDQcQ5_Wug146Gql0hBZeOTvsc17F9aggQoYu-18ooKo9P6X3i&gaa_ts=69b521cf&gaa_sig=GKv9dGTSN04iIyh563J-KnbiaabSB-PohYZEKv3XQpppbqLoOa82IEMF5uybQ08SR67G4V5UODWRo4svf1kz-Q%3D%3D)**
+**[Bitcoin investor offers Nevis residents $100 a month if libertarian city approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)**
 
-Barron's • 19h ago
+Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
+
+Financial Times • 1d ago
 
 ---
 
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -213,7 +205,23 @@ Bloomberg.com • 16h ago
 
 Bitcoin miners are facing historically low margins and are responding by pivoting some operations to AI infrastructure.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
+
+---
+
+**[Iran war oil shock more likely to affect Bitcoin miners through BTC price than energy costs, analysts say](https://www.theblock.co/post/393531/iran-war-oil-shock-more-likely-to-affect-bitcoin-miners-through-btc-price-than-energy-costs-analysts-say)**
+
+Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
+
+The Block • 22h ago
+
+---
+
+**[Trump Meme Coin, Render and Pi See Double-Digit Rallies as Bitcoin Rises](https://decrypt.co/361008/trump-render-pi-double-digit-gains-bitcoin-consolidation)**
+
+As Bitcoin consolidates, altcoins like Trump, Pi, and Render surge on specific catalysts and improving risk appetite.
+
+Decrypt • 20h ago
 
 ---
 
@@ -222,14 +230,6 @@ Bitcoin Magazine • 15h ago
 Boris Johnson warns Bitcoin depends entirely on fragile belief.
 
 thestreet.com • 12h ago
-
----
-
-**[Iran war oil shock more likely to affect Bitcoin miners through BTC price than energy costs, analysts say](https://www.theblock.co/post/393531/iran-war-oil-shock-more-likely-to-affect-bitcoin-miners-through-btc-price-than-energy-costs-analysts-say)**
-
-Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
-
-The Block • 21h ago
 
 ---
 
@@ -264,6 +264,12 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
 ⬆️ 2 • 💬 0 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+
+---
+
+**[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
+
+⬆️ 1 • 💬 1 • 1h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -305,14 +311,6 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 ---
 
-**[50 Years of Thinking Different](https://news.ycombinator.com/item?id=47373563)**
-
-Read a letter from CEO Tim Cook as he reflects on 50 Years of Apple.
-
-⬆️ 1 • 💬 0 • 4h ago • [Apple](https://www.apple.com/50-years-of-thinking-different/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -323,7 +321,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 263 • ⏱️ 14:33 • 12h ago
+👁️ 19K • 👍 1K • 💬 263 • ⏱️ 14:33 • 13h ago
 
 ---
 
@@ -333,7 +331,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 24K • 👍 1K • 💬 206 • ⏱️ 12:14 • 18h ago
+👁️ 24K • 👍 1K • 💬 206 • ⏱️ 12:14 • 19h ago
 
 ---
 
@@ -353,7 +351,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 204 • 💬 10 • ⏱️ 4:28 • 10h ago
+👁️ 3K • 👍 204 • 💬 10 • ⏱️ 4:28 • 11h ago
 
 ---
 
@@ -363,7 +361,7 @@ Deezy looks at the bullish chart pattern for Gold, Oil and Bitcoin. But Bitcoin 
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 205 • 💬 92 • ⏱️ 5:33 • 15h ago
+👁️ 4K • 👍 205 • 💬 92 • ⏱️ 5:33 • 16h ago
 
 ---
 

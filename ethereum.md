@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T09:35:06.303018+00:00'
+updated: '2026-03-14T10:30:09.793506+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 09:35 UTC  
+**Last Updated:** March 14, 2026 at 10:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,082.80
+### $2,074.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +7.5%  
-**30d:** +1.5%  
-**90d:** -29.9%  
-**1y:** +7.2%  
+**24h:** -2.6%  
+**7d:** +6.8%  
+**30d:** +0.9%  
+**90d:** -30.3%  
+**1y:** +6.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
 
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 4h ago
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 Ethereum Foundation (EF) wrote a constitution for the soul of the project. The new EF Mandate isn't just a corporate mission statement but a line in the sand for how Ethereum stays human in an increasingly automated world. The EF is calling its core philosophy CROPS. If a feature isn’t Censorship-resistant, Resilient, Open-source, Private, and Secure, it doesn't belong on ethereum . No trading sovereignty for convenience. Here are the main points: Stewardship, Not Ownership: The EF is explicitly saying they aren't the boss. They are temporary caretakers who eventually want to disappear. This is the ultimate decentralize or die commitment. The AI Shield: They see a future where AI and opaque algorithms run everything. Ethereum’s job is to be the Infinite Garden, a place where humans, not code or corporations, have the final say over their own lives. Immutable Values: By publishing this directly onto the blockchain, they’ve made their values as permanent as a transaction. You can’t edit the project's soul once it’s on-chain. This is a massive vibe check for the entire ecosystem. It’s a reminder that if we give up control for a slightly faster app, we’ve already lost the plot. Can a written mandate actually stop the slow creep of centralization, or is the pull of convenience just too strong? Let’s talk. 👇 Source
 
-2h ago
+3h ago
 
 ---
 
@@ -96,13 +96,13 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 16h ago
+🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 17h ago
 
 ---
 
 **[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 18h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 19h ago
 
 ---
 
@@ -118,13 +118,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
 
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 23h ago
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 1d ago
 
 ---
 
 **[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
 
-🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 17h ago
+🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 18h ago
 
 ---
 
@@ -156,27 +156,19 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Up or Down on March 14? Trading Odds & Predictions (Mar. 13, 2026)](https://polymarket.com/event/ethereum-up-or-down-on-march-14)**
-
-View real-time odds for "Ethereum Up or Down on March 14?" as of March 14, 2026 and trade on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
-**[Bitcoin’s ‘narrative vacuum,’ Ethereum now inevitable: Trade Secrets](https://www.tradingview.com/news/cointelegraph:825e38534094b:0-bitcoin-s-narrative-vacuum-ethereum-now-inevitable-trade-secrets/)**
-
-Bitcoin is trading in a narrative vacuum, says crypto executiveBitcoin needs a fresh catalyst to push its price back to levels that excite investors again, says Gate.io chief business officer Kevin Lee.What we see is Bitcoin is currently trading in a narrative vacuum, the exchange boss tells Magazi…
-
-TradingView • 20h ago
-
----
-
 **[Don't Buy Ethereum Until This Happens](https://www.fool.com/investing/2026/03/12/dont-buy-ethereum-until-this-happens/)**
 
 Crypto investors need to keep their eyes on the arrival of altcoin season.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
+
+---
+
+**[Ethereum Foundation publishes new mandate defining its role, core principles](https://www.coindesk.com/tech/2026/03/13/ethereum-foundation-publishes-new-mandate-defining-its-role-core-principles)**
+
+The document comes at a moment of transition for the organization, following recent shifts in Ethereum’s technical roadmap and the resignation earlier this year of one of the foundation’s co-executive directors.
+
+CoinDesk • 18h ago
 
 ---
 
@@ -204,11 +196,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitmine’s Massive Ethereum Bet Deepens As MAVAN Staking Launch Nears](https://finance.yahoo.com/news/bitmine-massive-ethereum-bet-deepens-091211652.html)**
+**[Ethereum Up or Down on March 14? Trading Odds & Predictions (Mar. 13, 2026)](https://polymarket.com/event/ethereum-up-or-down-on-march-14)**
 
-Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
+View real-time odds for "Ethereum Up or Down on March 14?" as of March 14, 2026 and trade on The World's Largest Prediction Market™
 
-Yahoo Finance • 3d ago
+Polymarket • 1d ago
 
 ---
 
@@ -222,7 +214,15 @@ TradingView • 23h ago
 
 **[Ethereum ‘Address Poisoning’ Scams Are Exploding — What You Need to Know](https://www.ccn.com/news/crypto/ethereum-address-poisoning-scams-are-exploding-what-you-need-to-know/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
+
+---
+
+**[Avalanche exec explains why customizable chains are better for business](https://www.thestreet.com/crypto/innovation/avalanche-exec-questions-whether-ethereum-l2s-deliver-true-independence)**
+
+John Nahas says dedicated Avalanche chains offer more sovereignty and flexibility than the stacked architecture behind many Ethereum scaling solutions.
+
+thestreet.com • 19h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 252 • 💬 44 • ⏱️ 18:21 • 9h ago
+👁️ 6K • 👍 252 • 💬 44 • ⏱️ 18:21 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 533 • 👍 15 • 💬 12 • ⏱️ 4:58 • 23h ago
+👁️ 533 • 👍 15 • 💬 12 • ⏱️ 4:58 • 1d ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:49 • 11h ago
+👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:49 • 12h ago
 
 ---
 
@@ -286,7 +286,7 @@ This week in crypto: Ethereum and Virtuals Protocol introduce ERC-8183 to power 
 
 📺 WazirX: Bitcoin & Cryptocurrency Exchange in India
 
-👁️ 33 • 👍 3 • 💬 4 • ⏱️ 3:28 • 25m ago
+👁️ 33 • 👍 3 • 💬 4 • ⏱️ 3:28 • 1h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 759 • 👍 79 • ⏱️ 5:27 • 6h ago
+👁️ 759 • 👍 79 • ⏱️ 5:27 • 7h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 143 • 💬 4 • ⏱️ 6:41 • 20h ago
+👁️ 2K • 👍 143 • 💬 4 • ⏱️ 6:41 • 21h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM PRICE PREDICTION MARCH 13.
 
 📺 Overkill Trading
 
-👁️ 1K • 👍 43 • 💬 4 • ⏱️ 2:55 • 13h ago
+👁️ 1K • 👍 43 • 💬 4 • ⏱️ 2:55 • 14h ago
 
 ---
 
