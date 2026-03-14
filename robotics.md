@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T22:28:14.703529+00:00'
+updated: '2026-03-14T22:54:59.893365+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 22:28 UTC  
+**Last Updated:** March 14, 2026 at 22:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -62,7 +62,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 I’ve been building a small Rust project called Reflex Engine SDK, and I’m trying to figure out whether it actually fits anywhere real in robotics or if I’m forcing the angle. The basic idea is pretty simple: an event or proposed action comes in, it gets checked against a local ruleset, it returns ALLOW or DENY, and it emits a replayable artifact showing what happened. I’m not talking about planning, perception, or SLAM. I’m thinking more along the lines of geofence, speed, altitude, or policy checks before something executes. The main thing I’ve learned so far is that the core evaluator seems fast enough to be interesting, and the bigger bottleneck was artifact persistence on the hot path rather than the rule check itself. Repo/demo: https://github.com/caminodynamics/reflex-engine-sdk⁠� My real question is whether something like this actually belongs anywhere in a robotics stack. Does it make sense as a pre-execution gate inside an autonomy stack, or as a local safety/policy layer at the edge, or is this basically unnecessary because existing systems already cover it better?
 
-28m ago
+55m ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi all: I’m working on building a power architect tool where an engineer could
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 23h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 1d ago
 
 ---
 
@@ -128,7 +128,7 @@ WSJ • 3d ago
 
 Inside Lucas Oil Stadium in downtown Indianapolis, the future of engineering is already at work as the Indiana Robotics State Championship is happening this weekend.
 
-WTHR • 20m ago
+WTHR • 46m ago
 
 ---
 
@@ -198,7 +198,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 18K • 👍 450 • 💬 45 • ⏱️ 14:52 • 22h ago
+👁️ 18K • 👍 450 • 💬 45 • ⏱️ 14:52 • 23h ago
 
 ---
 
