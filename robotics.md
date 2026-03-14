@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T11:49:50.600798+00:00'
+updated: '2026-03-14T12:54:42.287914+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 11:49 UTC  
+**Last Updated:** March 14, 2026 at 12:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
+
+1h ago
+
+---
+
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -42,7 +48,7 @@ Robotics research and industry news
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-16h ago
+17h ago
 
 ---
 
@@ -56,13 +62,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-1h ago
-
----
-
-**[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
-
-12m ago
+2h ago
 
 ---
 
@@ -70,35 +70,35 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 13h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 14h ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-18h ago
+19h ago
+
+---
+
+**[Innate robot MARS, an open-source agentic platform, here with a Gemini based agent. Closed beta available right-now](https://www.reddit.com/r/robotics/comments/1rtia8s/innate_robot_mars_an_opensource_agentic_platform/)**
+
+Innate on GitHub (can apply for closed beta): https://github.com/innate-inc From Axel on 𝕏: https://x.com/ax_pey/status/2032133629317693713 Innate on 𝕏: https://x.com/innate_bot
+
+20m ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-23h ago
+1d ago
 
 ---
 
-**[Three humanoid robots in autonomous charging mode (Tesla Optimus Gen2 (back), Figure 03 (waist), Agility Digit (back))](https://www.reddit.com/r/robotics/comments/1rth711/three_humanoid_robots_in_autonomous_charging_mode/)**
+**[I'm researching how robotics teams handle experiment logging and debugging robot behavior. What does your current workflow look like? What breaks most often?](https://www.reddit.com/r/robotics/comments/1rthmed/im_researching_how_robotics_teams_handle/)**
 
-From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2032406885039784446
+This I am curious about because while doing experiments and debugging, it took me so much time and I want to know that while doing the project or experiment how do i maintain the log so that i have a record and also save my time while debugging.
 
-11m ago
-
----
-
-**[Is this autonomous or operated?](https://www.reddit.com/r/robotics/comments/1rtb02x/is_this_autonomous_or_operated/)**
-
-I saw multiple pages post this clip, but none seem to mention if the robot is performing the task autonomously or not. What do you think? https://reddit.com/link/1rtb02x/video/nhn56abk4yog1/player
-
-6h ago
+53m ago
 
 ---
 
@@ -110,11 +110,25 @@ I saw multiple pages post this clip, but none seem to mention if the robot is pe
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeCnhBGtiYYFJBuA4uQalST1Fpseh7mM_578ZaJ8CRDkSF3kn8TW5Kt&gaa_ts=69b54ecd&gaa_sig=6zJfhoDUyXVcNTBrwH-CKPM3mlA72W8UA5-DJPb7Dt65Rgfjh_6rstHHG-r7mLbYB_tg3dNzwdz9mAu9Q2PwGg%3D%3D)**
+**[Uber co-founder Kalanick launches Atoms in specialized robotics push](https://www.reuters.com/business/uber-co-founder-kalanick-launches-atoms-specialized-robotics-push-2026-03-13/)**
+
+Reuters • 15h ago
+
+---
+
+**[Travis Kalanick Plots New Robotics and Self-Driving Venture with Levandowski, Uber](https://www.theinformation.com/articles/travis-kalanick-plots-new-self-driving-venture-levandowski-uber)**
+
+Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
+
+The Information • 19h ago
+
+---
+
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcUgB_0wzLdTcnvY918YXU4Y3R2lxg3pwBvh-EwJQF_6y5zhs8Y7Bfs&gaa_ts=69b55dfd&gaa_sig=UjIEfHf5CQgmumzI3cVuO55n_sWboLDqPw8pvSTxg-kB3Q1R6Hw4owc_uAe2qIrIFtOh4nDduOVUccgKiXjiXw%3D%3D)**
 
 WSJ • 2d ago
 
@@ -140,7 +154,7 @@ TechCrunch • 2d ago
 
 Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
 
-13wham.com • 26m ago
+13wham.com • 1h ago
 
 ---
 
@@ -148,7 +162,15 @@ Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from bot
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 21h ago
+Quanta Magazine • 22h ago
+
+---
+
+**[Ukraine receives humanoid robots for testing in combat conditions](https://www.ukrinform.net/rubric-ato/4101402-ukraine-receives-humanoid-robots-for-testing-in-combat-conditions.html)**
+
+In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
+
+Ukrinform • 16h ago
 
 ---
 
@@ -157,30 +179,6 @@ Quanta Magazine • 21h ago
 Network of training farms aims to supply data needed to put ‘brains’ into machines
 
 Financial Times • 2d ago
-
----
-
-**[Ukraine receives humanoid robots for testing in combat conditions](https://www.ukrinform.net/rubric-ato/4101402-ukraine-receives-humanoid-robots-for-testing-in-combat-conditions.html)**
-
-In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
-
-Ukrinform • 15h ago
-
----
-
-**[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
-
-Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
-
-NPR • 21h ago
-
----
-
-**[Kamen resigns from FIRST robotics in wake of Epstein ties](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire)**
-
-Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
-
-New Hampshire Public Radio • 1d ago
 
 ---
 
@@ -252,7 +250,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 zhulongfeng 6
 
-👁️ 16K • 👍 90 • ⏱️ 0:21 • 11h ago
+👁️ 16K • 👍 90 • ⏱️ 0:21 • 12h ago
 
 ---
 
@@ -282,7 +280,7 @@ It's robotic horse season in China. The Hangzhou-based startup DEEP Robotics jus
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 58 • 💬 2 • ⏱️ 0:35 • 7h ago
+👁️ 1K • 👍 58 • 💬 2 • ⏱️ 0:35 • 8h ago
 
 ---
 

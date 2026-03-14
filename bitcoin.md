@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T11:49:50.591420+00:00'
+updated: '2026-03-14T12:54:42.278591+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 11:49 UTC  
+**Last Updated:** March 14, 2026 at 12:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
+**24h:** -3.6%  
 **7d:** +7.2%  
 **30d:** +2.7%  
 **90d:** -18.2%  
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
+
+1h ago
+
+---
+
 **[A big win for Bitcoin and freedom: US Senate Votes to Ban Federal Reserve From Issuing CBDC](https://www.reddit.com/r/Bitcoin/comments/1rsibj4/a_big_win_for_bitcoin_and_freedom_us_senate_votes/)**
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
@@ -95,15 +101,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
-17h ago
-
----
-
-**[Is anyone actually on a bitcoin standard?](https://www.reddit.com/r/Bitcoin/comments/1rteuyt/is_anyone_actually_on_a_bitcoin_standard/)**
-
-If so how have you managed the last few month selloff? Not to mention the pain of having 40%+ chopped off your net worth and now everything costing so more bitcoin than 6 months ago. Just trying to see if it has even been viable for people or if there are hybrid styles that have weathered the downturn better?
-
-2h ago
+18h ago
 
 ---
 
@@ -111,13 +109,13 @@ If so how have you managed the last few month selloff? Not to mention the pain o
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-11h ago
+13h ago
 
 ---
 
 **[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -125,15 +123,7 @@ For a long time I just ignored Bitcoin. Every time it came up it sounded like ei
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
-
----
-
-**[There is simply no reason not to go all in](https://www.reddit.com/r/Bitcoin/comments/1rsob0d/there_is_simply_no_reason_not_to_go_all_in/)**
-
-Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
-
-21h ago
+6h ago
 
 ---
 
@@ -141,7 +131,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 Just tested out Arcade wallet where you can send and receive on Lightning, Ark and mainnet all in one (Software wallet! However it’s an ark wallet. You keep custody of your bitcoin. Onchain batch outputs use an n-of-n multisig arrangement involving all VTXO owners and the Ark Operator. Users hold presigned transactions that allow them to unilaterally withdraw their funds without cooperation from the operator or other participants — typically after a predefined delay. The server can’t steal your bitcoin. This is kind of like how you can force close a lightning channel. What do you think of this scaling solution? It allows you to hold money without needing to worry about channels or them running off with your money. Will we see adoption of ark any time soon on exchanges? Edit I will give some free bitcoin to the first person to comment their ark address
 
-6h ago
+7h ago
 
 ---
 
@@ -149,7 +139,15 @@ Just tested out Arcade wallet where you can send and receive on Lightning, Ark a
 
 biggest mistake i see people make is running their mouth about bitcoin profits like somehow thats gonna convince anyone to buy in spoiler alert it doesnt work that way when you tell someone you doubled your money or whatever they dont think wow what a smart investment they think damn i fucked up by not getting in earlier and now im behind so instead of being curious about bitcoin they just get defensive and start looking for reasons why its stupid or a scam or whatever makes them feel better about missing out ive seen this pattern over and over again - the second you mention gains people shut down completely and start arguing about energy usage or volatility or how its not real money meanwhile if you just talk about the technology or why you think its interesting without bringing up your portfolio suddenly people actually listen lesson learned keep your wins to yourself and let other people discover bitcoin on their own timeline not because youre flexing your returns
 
-13h ago
+15h ago
+
+---
+
+**[There is simply no reason not to go all in](https://www.reddit.com/r/Bitcoin/comments/1rsob0d/there_is_simply_no_reason_not_to_go_all_in/)**
+
+Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
+
+22h ago
 
 ---
 
@@ -161,7 +159,7 @@ biggest mistake i see people make is running their mouth about bitcoin profits l
 
 A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -177,7 +175,7 @@ Financial Times • 1d ago
 
 Financial institutions are now gobbling up Bitcoin.
 
-The Motley Fool • 27m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -185,13 +183,13 @@ The Motley Fool • 27m ago
 
 Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqfA2miDP_9pAa7M0iuylbhrwDyYMBH6nDiWqS4rtWGX46bF9FVOS64E&gaa_ts=69b54eca&gaa_sig=gFhBf2mvD9QR0WQ62xeUjEgw1gVfKG4YMGT_Y0groP_bkNGH_467dhJv64pLTpQqPtz5N8biPv4lyIWVnM6c9Q%3D%3D)**
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqdVzDOlw2nCyrbfn77ttafDe36NrOVb_tIAk512m9dYnfp3GD87QMCx&gaa_ts=69b55dfa&gaa_sig=ClfTJc4GXBrOKgZPL8_odvBxKU9zfRa1849WOignNUG6FROquGxCz7N93FBxPrRNmQqy5V-ot3O-H_XoWIbvsg%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -199,13 +197,13 @@ Barron's • 21h ago
 
 The cryptocurrency has outperformed gold, the U.S. dollar, and the S&P 500 since the initial strikes on Iran.
 
-Investopedia • 20h ago
+Investopedia • 21h ago
 
 ---
 
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -213,7 +211,15 @@ Bloomberg.com • 19h ago
 
 Bitcoin miners are facing historically low margins and are responding by pivoting some operations to AI infrastructure.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773480300)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 9h ago
 
 ---
 
@@ -221,15 +227,7 @@ Bitcoin Magazine • 17h ago
 
 As Bitcoin consolidates, altcoins like Trump, Pi, and Render surge on specific catalysts and improving risk appetite.
 
-Decrypt • 21h ago
-
----
-
-**[Michael Saylor slams Boris Johnson's harsh warnings on Bitcoin](https://www.thestreet.com/crypto/investing/michael-saylor-slams-boris-johnsons-harsh-warnings-on-bitcoin)**
-
-Boris Johnson warns Bitcoin depends entirely on fragile belief.
-
-thestreet.com • 14h ago
+Decrypt • 22h ago
 
 ---
 
@@ -269,7 +267,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 3h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 4h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -321,7 +319,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 263 • ⏱️ 14:33 • 14h ago
+👁️ 21K • 👍 1K • 💬 263 • ⏱️ 14:33 • 15h ago
 
 ---
 
@@ -331,7 +329,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 25K • 👍 1K • 💬 191 • ⏱️ 12:14 • 20h ago
+👁️ 25K • 👍 1K • 💬 191 • ⏱️ 12:14 • 21h ago
 
 ---
 
@@ -351,7 +349,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 212 • 💬 10 • ⏱️ 4:28 • 13h ago
+👁️ 3K • 👍 212 • 💬 10 • ⏱️ 4:28 • 14h ago
 
 ---
 
@@ -361,7 +359,7 @@ Is Michael Saylor ending the bear market single handily? Reclaiming back your so
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 398 • 💬 95 • ⏱️ 1:15:01 • 17h ago
+👁️ 7K • 👍 398 • 💬 95 • ⏱️ 1:15:01 • 18h ago
 
 ---
 
@@ -371,7 +369,7 @@ Deezy looks at the bullish chart pattern for Gold, Oil and Bitcoin. But Bitcoin 
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 207 • 💬 92 • ⏱️ 5:33 • 18h ago
+👁️ 4K • 👍 207 • 💬 92 • ⏱️ 5:33 • 19h ago
 
 ---
 
@@ -401,7 +399,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 7K • 👍 543 • 💬 112 • ⏱️ 29:33 • 7h ago
+👁️ 7K • 👍 543 • 💬 112 • ⏱️ 29:33 • 8h ago
 
 ---
 
@@ -411,7 +409,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 234 • ⏱️ 13:31 • 13h ago
+👁️ 28K • 👍 2K • 💬 234 • ⏱️ 13:31 • 14h ago
 
 ---
 
