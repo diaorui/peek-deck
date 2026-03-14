@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T04:21:49.917115+00:00'
+updated: '2026-03-14T05:31:47.981555+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 04:21 UTC  
+**Last Updated:** March 14, 2026 at 05:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +8.7%  
-**30d:** +2.7%  
-**90d:** -29.1%  
-**1y:** +8.4%  
+**24h:** +0.1%  
+**7d:** +8.2%  
+**30d:** +2.2%  
+**90d:** -29.4%  
+**1y:** +7.8%  
 
 ---
 
@@ -68,17 +68,25 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion March 14, 2026](https://www.reddit.com/r/ethereum/comments/1rtajhm/daily_general_discussion_march_14_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+31m ago
+
+---
+
 **[Daily Doots Podcast #143](https://www.reddit.com/r/ethereum/comments/1rst2ne/daily_doots_podcast_143/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 11h ago
+🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 12h ago
 
 ---
 
 **[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 13h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 14h ago
 
 ---
 
@@ -86,7 +94,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
+
+---
+
+**[Ethereum Foundation Releases New Mandate Outlining Vision for Ethereum’s Future](https://www.reddit.com/r/ethereum/comments/1rtb297/ethereum_foundation_releases_new_mandate/)**
+
+Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
+
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 2m ago
 
 ---
 
@@ -94,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
 
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 18h ago
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 19h ago
 
 ---
 
@@ -102,13 +118,13 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 14h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 15h ago
 
 ---
 
 **[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
 
-🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 12h ago
+🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 13h ago
 
 ---
 
@@ -116,7 +132,7 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 22h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 23h ago
 
 ---
 
@@ -124,23 +140,7 @@ Stay informed with the latest insights in our Infostealers weekly report. Explor
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 22h ago
-
----
-
-**[Daily General Discussion March 12, 2026](https://www.reddit.com/r/ethereum/comments/1rrhp2n/daily_general_discussion_march_12_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
-
----
-
-**[Ethereum DeFi 2026: $330B TVL & JPMorgan Tokenizes Assets](https://www.reddit.com/r/ethereum/comments/1rs1lnl/ethereum_defi_2026_330b_tvl_jpmorgan_tokenizes/)**
-
-Ethereum DeFi 2026: TVL grows to $330B, JPMorgan & BlackRock tokenize real assets. RWA market targets $300B. What does it mean for crypto? Find out!
-
-🔗 [AirPress](https://airpres.pl/2026/03/12/ethereum-defi-tvl-institutions-tokenization-2026/) • 1d ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 23h ago
 
 ---
 
@@ -164,14 +164,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Based Crypto Pepeto Announces Crypto Bridge Update Following Shiba Inu Success and Cardano Price Prediction Target](https://markets.businessinsider.com/news/stocks/ethereum-based-crypto-pepeto-announces-crypto-bridge-update-following-shiba-inu-success-and-cardano-price-prediction-target-1035929983)**
-
-Dubai, UAE, March  13, 2026  (GLOBE NEWSWIRE) -- Pepeto’ team announces a major advancement on its Ethereum based exchange tools, with the cross c...
-
-markets.businessinsider.com • 3h ago
-
----
-
 **[BlackRock debuts staked ether ETF as demand grows for yield in crypto funds](https://www.coindesk.com/markets/2026/03/12/blackrock-debuts-staked-ether-etf-as-demand-grows-for-yield-in-crypto-funds)**
 
 The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
@@ -184,7 +176,7 @@ CoinDesk • 1d ago
 
 Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -198,7 +190,7 @@ Yahoo Finance • 1d ago
 
 **[Ethereum ‘Address Poisoning’ Scams Are Exploding — What You Need to Know](https://www.ccn.com/news/crypto/ethereum-address-poisoning-scams-are-exploding-what-you-need-to-know/)**
 
-CCN.com • 5m ago
+CCN.com • 1h ago
 
 ---
 
@@ -206,7 +198,7 @@ CCN.com • 5m ago
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 4h ago
+Polymarket • 6h ago
 
 ---
 
@@ -214,7 +206,7 @@ Polymarket • 4h ago
 
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
-TradingView • 17h ago
+TradingView • 19h ago
 
 ---
 
@@ -223,6 +215,14 @@ TradingView • 17h ago
 Bitmine Immersion Technologies (NYSEAM:BMNR) disclosed the largest weekly Ethereum purchase of 2026, taking its holdings to 4.535 million ETH, or 3.76% of total supply. The company confirmed it now has over 3 million ETH staked, generating major staking revenues. Total assets, including crypto, cash, and moonshot investments, were reported at $10.3b. Management highlighted accelerated acquisition ahead of the upcoming MAVAN enterprise staking network launch. At a share price of $20.73,...
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Avalanche exec explains why customizable chains are better for business](https://www.thestreet.com/crypto/innovation/avalanche-exec-questions-whether-ethereum-l2s-deliver-true-independence)**
+
+John Nahas says dedicated Avalanche chains offer more sovereignty and flexibility than the stacked architecture behind many Ethereum scaling solutions.
+
+thestreet.com • 14h ago
 
 ---
 
@@ -236,7 +236,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 1K • 💬 83 • ⏱️ 13:31 • 5h ago
+👁️ 16K • 👍 1K • 💬 83 • ⏱️ 13:31 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 183 • 💬 26 • ⏱️ 18:21 • 4h ago
+👁️ 3K • 👍 183 • 💬 26 • ⏱️ 18:21 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 12 • ⏱️ 4:49 • 6h ago
+👁️ 1K • 👍 94 • 💬 12 • ⏱️ 4:49 • 7h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM PRICE PREDICTION MARCH 13.
 
 📺 Overkill Trading
 
-👁️ 783 • 👍 34 • 💬 2 • ⏱️ 2:55 • 8h ago
+👁️ 783 • 👍 34 • 💬 2 • ⏱️ 2:55 • 9h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 142 • 💬 15 • ⏱️ 6:41 • 14h ago
+👁️ 2K • 👍 142 • 💬 15 • ⏱️ 6:41 • 16h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 233 • 👍 37 • ⏱️ 5:27 • 1h ago
+👁️ 233 • 👍 37 • ⏱️ 5:27 • 2h ago
 
 ---
 
@@ -326,7 +326,7 @@ Ethereum zeigt aktuell wieder erste bullische Signale. Nachdem sowohl Bitcoin al
 
 📺 HKCM
 
-👁️ 30K • 👍 2K • 💬 60 • ⏱️ 15:11 • 11h ago
+👁️ 30K • 👍 2K • 💬 60 • ⏱️ 15:11 • 12h ago
 
 ---
 

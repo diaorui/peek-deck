@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T04:21:49.911168+00:00'
+updated: '2026-03-14T05:31:47.975381+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 04:21 UTC  
+**Last Updated:** March 14, 2026 at 05:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,084.62
+### $71,054.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
+**24h:** -0.2%  
 **7d:** +7.7%  
 **30d:** +3.3%  
 **90d:** -17.8%  
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 15
+### 16
 **EXTREME FEAR**
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
 
-19h ago
+20h ago
 
 ---
 
 **[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
 
-19h ago
+20h ago
 
 ---
 
 **[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-4h ago
+5h ago
 
 ---
 
@@ -117,7 +117,7 @@ For a long time I just ignored Bitcoin. Every time it came up it sounded like ei
 
 Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ Reserve Banks globally are not going to ever stop the money printing Inflation w
 
 biggest mistake i see people make is running their mouth about bitcoin profits like somehow thats gonna convince anyone to buy in spoiler alert it doesnt work that way when you tell someone you doubled your money or whatever they dont think wow what a smart investment they think damn i fucked up by not getting in earlier and now im behind so instead of being curious about bitcoin they just get defensive and start looking for reasons why its stupid or a scam or whatever makes them feel better about missing out ive seen this pattern over and over again - the second you mention gains people shut down completely and start arguing about energy usage or volatility or how its not real money meanwhile if you just talk about the technology or why you think its interesting without bringing up your portfolio suddenly people actually listen lesson learned keep your wins to yourself and let other people discover bitcoin on their own timeline not because youre flexing your returns
 
-6h ago
+7h ago
 
 ---
 
@@ -133,7 +133,7 @@ biggest mistake i see people make is running their mouth about bitcoin profits l
 
 Quick question for you guys. I have spent my last few days going down the crypto youtube rabbithole. Tthis guy ivan on tech keeps popping up on freakin every topic I search lol. I watched a few of his vids and that white prolly europen guy looks knowing when talking about bitcoin and stuff. At the same time crypto youtybe is full of people making predictions and hyping coins so it’s hard to separate legit analysis from straight hopium. So figured this sub be the best place to ask. Question is for people who actually follow his channel regularly, does his content genuinely help you understand the market. Or you use it just for crypto entertainment?v
 
-7h ago
+8h ago
 
 ---
 
@@ -141,15 +141,15 @@ Quick question for you guys. I have spent my last few days going down the crypto
 
 Hey r/Bitcoin — I got tired of jumping between a thousand tabs so I built a single feed that pulls from the major crypto news sources and organizes everything by category: bigcoinreport.com Still early days. JutS looking for some feed back. what's broken, what's missing, what's annoying. Also looking for sources too. Anywhere you get your news I should add as a source? Thanks in advance for checking it out.
 
-4h ago
+5h ago
 
 ---
 
-**[Bitcoin on way up!](https://www.reddit.com/r/Bitcoin/comments/1rsommh/bitcoin_on_way_up/)**
+**[I am still a Bitcoin lady](https://www.reddit.com/r/Bitcoin/comments/1rt881o/i_am_still_a_bitcoin_lady/)**
 
-"The market is entering a high-velocity phase this morning. Bitcoin has surged past $72,000, decoupling from a strengthening dollar and rising bond yields. Market sentiment is shifting as BTC increasingly behaves as a geopolitical hedge against energy-driven inflation." This is from email from Coindesk Daybook. This is what Bicoin should have been doing all along. It does not rise snd fall with dollar or stocks, it's a hedge against them. People need to stop speculating and panicking. Bitcoin is not a speculative asset. If you think it is, please learn about the "real Bitcoin", not the one you think it is. 😉 Here is the link to article if you would like to read it... I hope the Reddit mod does not remove it like they did my other links. [ https://www.coindesk.com/daybook-us/2026/03/13/bitcoin-s-building-steam-and-a-usd3-billion-trigger-could-make-it-wild/ ] If link is not hot, pls copy/paste into browser
+Sometimes it feels like I might be the only woman here on Reddit, which is kinda sad 😅 Anyway, random Bitcoin thought of the day: On May 22, 2010, programmer Laszlo Hanyecz made history by buying two Papa John’s pizzas for 10,000 BTC. At the time it was about $25. Today that would be worth over $1 billion. Probably the most expensive pizza in human history. (I see why there are no women in the Reddit posts.)
 
-14h ago
+2h ago
 
 ---
 
@@ -157,11 +157,11 @@ Hey r/Bitcoin — I got tired of jumping between a thousand tabs so I built a si
 
 ## Google News: "bitcoin"
 
-**[Stanley Druckenmiller says stablecoins could power global payments in 10–15 years](https://www.coindesk.com/business/2026/03/13/stablecoins-bitcoin-could-reshape-finance-stanley-druckenmiller-says)**
+**[Bitcoin can survive 72% of the world's submarine cables being cut, but a targeted attack on five hosting providers could cripple it](https://www.coindesk.com/markets/2026/03/13/bitcoin-can-survive-72-of-the-world-s-submarine-cables-being-cut-but-a-targeted-attack-on-five-hosting-providers-could-cripple-it)**
 
-The billionaire investor reiterated his skepticism toward crypto but said blockchain-based stablecoins could reshape financial infrastructure and even challenge the dollar’s reserve status.
+A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.
 
-CoinDesk • 12h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -169,15 +169,7 @@ CoinDesk • 12h ago
 
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
-Financial Times • 23h ago
-
----
-
-**[Bitcoin vs. Solana: Which Crypto Is the Better Buy Right Now?](https://finance.yahoo.com/news/bitcoin-vs-solana-crypto-better-022900919.html)**
-
-Both cryptocurrencies have gotten much more affordable after the recent market downturn.
-
-Yahoo Finance • 1h ago
+Financial Times • 1d ago
 
 ---
 
@@ -185,29 +177,37 @@ Yahoo Finance • 1h ago
 
 Both cryptocurrencies have gotten much more affordable after the recent market downturn.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
-**[Bitcoin can survive 72% of the world's submarine cables being cut, but a targeted attack on five hosting providers could cripple it](https://www.coindesk.com/markets/2026/03/13/bitcoin-can-survive-72-of-the-world-s-submarine-cables-being-cut-but-a-targeted-attack-on-five-hosting-providers-could-cripple-it)**
+**[MARA Holdings (MARA) Climbs 6.4% as Bitcoin Comes Back Strong](https://sg.finance.yahoo.com/news/mara-holdings-mara-climbs-6-021120482.html)**
 
-A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.
+MARA Holdings Inc. (NASDAQ:MARA) is one of the 10 Must-Watch Stocks Right Now. MARA Holdings grew its share prices by 6.39 percent on Friday to close at $9.32 apiece, mirroring the rebound in Bitcoin prices during the day. The crypto—which may have lost 18.68 percent of its value year-to-date—was able to bounce back to the […]
 
-CoinDesk • 49m ago
+Yahoo Finance Singapore • 3h ago
+
+---
+
+**[Bitcoin vs. Solana: Which Crypto Is the Better Buy Right Now?](https://finance.yahoo.com/news/bitcoin-vs-solana-crypto-better-022900919.html)**
+
+Both cryptocurrencies have gotten much more affordable after the recent market downturn.
+
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
-**[JPMorgan says bitcoin and gold ETFs show sharp flow divergence since Iran war](https://www.theblock.co/post/393450/jpmorgan-bitcoin-and-gold-etfs-divergence-iran-war)**
+**[Iran war oil shock more likely to affect Bitcoin miners through BTC price than energy costs, analysts say](https://www.theblock.co/post/393531/iran-war-oil-shock-more-likely-to-affect-bitcoin-miners-through-btc-price-than-energy-costs-analysts-say)**
 
-GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
+Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
 
-The Block • 1d ago
+The Block • 17h ago
 
 ---
 
@@ -215,7 +215,15 @@ The Block • 1d ago
 
 Bitcoin miners are facing historically low margins and are responding by pivoting some operations to AI infrastructure.
 
-Bitcoin Magazine • 10h ago
+Bitcoin Magazine • 11h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773464700)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2h ago
 
 ---
 
@@ -224,14 +232,6 @@ Bitcoin Magazine • 10h ago
 The United States war spending hits $11.3 billion in six days, nearly half of the federal Bitcoin reserve's market value.
 
 CryptoSlate • 1d ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773447900)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
 
 ---
 
@@ -307,6 +307,14 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 ---
 
+**[50 Years of Thinking Different](https://news.ycombinator.com/item?id=47373563)**
+
+Read a letter from CEO Tim Cook as he reflects on 50 Years of Apple.
+
+⬆️ 1 • 💬 0 • 21m ago • [Apple](https://www.apple.com/50-years-of-thinking-different/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -317,7 +325,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 291 • ⏱️ 14:33 • 7h ago
+👁️ 14K • 👍 1K • 💬 291 • ⏱️ 14:33 • 8h ago
 
 ---
 
@@ -337,7 +345,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 167 • ⏱️ 12:14 • 13h ago
+👁️ 21K • 👍 1K • 💬 167 • ⏱️ 12:14 • 14h ago
 
 ---
 
@@ -347,7 +355,7 @@ The stock market is bleeding, Gold and Silver are breaking down, but the crypto 
 
 📺 Gareth Soloway
 
-👁️ 35K • 👍 3K • 💬 400 • ⏱️ 9:50 • 10h ago
+👁️ 35K • 👍 3K • 💬 400 • ⏱️ 9:50 • 12h ago
 
 ---
 
@@ -367,7 +375,7 @@ Bitcoin #Crypto #Finance Bitcoin adoption continues to accelerate even as invest
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 888 • 💬 225 • ⏱️ 22:15 • 14h ago
+👁️ 14K • 👍 888 • 💬 225 • ⏱️ 22:15 • 16h ago
 
 ---
 
@@ -397,7 +405,7 @@ Deezy looks at the bullish chart pattern for Gold, Oil and Bitcoin. But Bitcoin 
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 186 • 💬 92 • ⏱️ 5:33 • 10h ago
+👁️ 3K • 👍 186 • 💬 92 • ⏱️ 5:33 • 11h ago
 
 ---
 

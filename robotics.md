@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T04:21:49.920248+00:00'
+updated: '2026-03-14T05:31:47.984782+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 04:21 UTC  
+**Last Updated:** March 14, 2026 at 05:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-17h ago
+18h ago
 
 ---
 
@@ -44,25 +44,25 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-9h ago
-
----
-
-**[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
-
-11h ago
+10h ago
 
 ---
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-3h ago
+4h ago
+
+---
+
+**[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
+
+12h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -70,13 +70,27 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 5h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 6h ago
+
+---
+
+**[Is this autonomous or operated?](https://www.reddit.com/r/robotics/comments/1rtb02x/is_this_autonomous_or_operated/)**
+
+I saw multiple pages post this clip, but none seem to mention if the robot is performing the task autonomously or not. What do you think? https://reddit.com/link/1rtb02x/video/nhn56abk4yog1/player
+
+5m ago
 
 ---
 
 **[Curious about the experiment data logging](https://www.reddit.com/r/robotics/comments/1rt7u8k/curious_about_the_experiment_data_logging/)**
 
-1h ago
+2h ago
+
+---
+
+**[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
+
+1d ago
 
 ---
 
@@ -88,20 +102,6 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 ---
 
-**[This video is sped up, but when do you think robots like this will actually be usable and affordable?](https://www.reddit.com/r/robotics/comments/1rs922r/this_video_is_sped_up_but_when_do_you_think/)**
-
-1d ago
-
----
-
-**[Robot Takeover… We Tested Smart Glasses 🤖](https://www.reddit.com/r/robotics/comments/1rt206k/robot_takeover_we_tested_smart_glasses/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/81UMAbBqeyI) • 5h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -110,7 +110,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -118,7 +118,7 @@ CNBC • 6h ago
 
 Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
 
-TechCrunch • 8h ago
+TechCrunch • 10h ago
 
 ---
 
@@ -126,11 +126,11 @@ TechCrunch • 8h ago
 
 Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
 
-The Information • 11h ago
+The Information • 12h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfNL-ko9azQ1V_ckkCj-bu-pCuLj_pHLqIGuGkrTmmqZkCEsiIylFcr&gaa_ts=69b4e5cd&gaa_sig=5vwM31ySwFuQNlx0AFp_G5cxPo1WdNI28Yr9aoUUHY7A9KmWUKDtLfRULNEgMh8D4pfdejDA3G_4dPBXCUKttQ%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcIB4hkA1y67Z-EFCbVeV_g7YrE2y7b6ukI31vwKUFN_qG6_uClxQ1G&gaa_ts=69b4f632&gaa_sig=rmrnMuBjt1V5xOqaLdfwT6Ap6J-EFrJwdngAF82YyCBglh3jDUejnFz8l5abkZM_laLYab06WTbcraHZxEBRSQ%3D%3D)**
 
 WSJ • 2d ago
 
@@ -152,6 +152,22 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
+
+The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
+
+Quanta Magazine • 14h ago
+
+---
+
+**[Ukraine receives humanoid robots for testing in combat conditions](https://www.ukrinform.net/rubric-ato/4101402-ukraine-receives-humanoid-robots-for-testing-in-combat-conditions.html)**
+
+In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
+
+Ukrinform • 9h ago
+
+---
+
 **[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
@@ -160,27 +176,11 @@ Financial Times • 2d ago
 
 ---
 
-**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
-
-The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
-
-Quanta Magazine • 13h ago
-
----
-
-**[Ukraine Receives Phantom MK-1 Humanoid Robots for Testing](https://militarnyi.com/en/news/ukraine-receives-phantom-mk-1-humanoid-robots-for-testing/)**
-
-Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate their effectiveness.The company Foundation told Time that two robots were sent to Ukraine in February.Ukraine has become the […]
-
-Мілітарний • 16h ago
-
----
-
 **[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
 
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
-NPR • 14h ago
+NPR • 15h ago
 
 ---
 
@@ -212,7 +212,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Robot Julie 
 
-👁️ 906 • 👍 8 • ⏱️ 0:22 • 3h ago
+👁️ 906 • 👍 8 • ⏱️ 0:22 • 4h ago
 
 ---
 
@@ -270,7 +270,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 zhulongfeng 6
 
-👁️ 2K • 👍 17 • ⏱️ 0:21 • 3h ago
+👁️ 2K • 👍 17 • ⏱️ 0:21 • 4h ago
 
 ---
 
