@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T02:06:58.660849+00:00'
+updated: '2026-03-14T04:21:49.917115+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 02:06 UTC  
+**Last Updated:** March 14, 2026 at 04:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +8.3%  
-**30d:** +2.3%  
-**90d:** -29.4%  
-**1y:** +7.9%  
+**24h:** -0.4%  
+**7d:** +8.7%  
+**30d:** +2.7%  
+**90d:** -29.1%  
+**1y:** +8.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.48B
+**Market Cap:** $253.82B
 Rank #2
 
 **Circulating Supply:** 120,691,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.7%
+-57.5%
 
 **All-Time Low:** $0.43
-+483209.8%
++485450.1%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 9h ago
+🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 11h ago
 
 ---
 
 **[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 11h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 13h ago
 
 ---
 
@@ -86,7 +86,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+23h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
 
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 16h ago
+🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 18h ago
 
 ---
 
@@ -102,13 +102,13 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 12h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 14h ago
 
 ---
 
 **[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
 
-🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 10h ago
+🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 12h ago
 
 ---
 
@@ -116,7 +116,7 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 Stay informed with the latest insights in our Infostealers weekly report. Explore key findings, trends and data on info-stealing activities.
 
-🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 20h ago
+🔗 [InfoStealers](https://www.infostealers.com/article/how-one-infostealer-infection-solved-a-global-supply-chain-mystery-and-unmasked-dprk-spies-in-u-s-crypto/) • 22h ago
 
 ---
 
@@ -124,7 +124,7 @@ Stay informed with the latest insights in our Infostealers weekly report. Explor
 
 ACDE #232 reviews Glamsterdam devnet progress & delays BAL Devnet 3 as Hegotá’s headliner decision moves to March 26.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 20h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-232/) • 22h ago
 
 ---
 
@@ -156,6 +156,22 @@ The Block • 1d ago
 
 ---
 
+**[Don't Buy Ethereum Until This Happens](https://www.fool.com/investing/2026/03/12/dont-buy-ethereum-until-this-happens/)**
+
+Crypto investors need to keep their eyes on the arrival of altcoin season.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Based Crypto Pepeto Announces Crypto Bridge Update Following Shiba Inu Success and Cardano Price Prediction Target](https://markets.businessinsider.com/news/stocks/ethereum-based-crypto-pepeto-announces-crypto-bridge-update-following-shiba-inu-success-and-cardano-price-prediction-target-1035929983)**
+
+Dubai, UAE, March  13, 2026  (GLOBE NEWSWIRE) -- Pepeto’ team announces a major advancement on its Ethereum based exchange tools, with the cross c...
+
+markets.businessinsider.com • 3h ago
+
+---
+
 **[BlackRock debuts staked ether ETF as demand grows for yield in crypto funds](https://www.coindesk.com/markets/2026/03/12/blackrock-debuts-staked-ether-etf-as-demand-grows-for-yield-in-crypto-funds)**
 
 The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
@@ -168,7 +184,7 @@ CoinDesk • 1d ago
 
 Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
 
-The Block • 18h ago
+The Block • 21h ago
 
 ---
 
@@ -180,35 +196,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Based Crypto Pepeto Announces Crypto Bridge Update Following Shiba Inu Success and Cardano Price Prediction Target](https://markets.businessinsider.com/news/stocks/ethereum-based-crypto-pepeto-announces-crypto-bridge-update-following-shiba-inu-success-and-cardano-price-prediction-target-1035929983)**
+**[Ethereum ‘Address Poisoning’ Scams Are Exploding — What You Need to Know](https://www.ccn.com/news/crypto/ethereum-address-poisoning-scams-are-exploding-what-you-need-to-know/)**
 
-Dubai, UAE, March  13, 2026  (GLOBE NEWSWIRE) -- Pepeto’ team announces a major advancement on its Ethereum based exchange tools, with the cross c...
-
-markets.businessinsider.com • 59m ago
+CCN.com • 5m ago
 
 ---
 
-**[Ethereum Foundation publishes new mandate defining its role, core principles](https://www.coindesk.com/tech/2026/03/13/ethereum-foundation-publishes-new-mandate-defining-its-role-core-principles)**
-
-The document comes at a moment of transition for the organization, following recent shifts in Ethereum’s technical roadmap and the resignation earlier this year of one of the foundation’s co-executive directors.
-
-CoinDesk • 10h ago
-
----
-
-**[Don't Buy Ethereum Until This Happens](https://www.fool.com/investing/2026/03/12/dont-buy-ethereum-until-this-happens/)**
-
-Crypto investors need to keep their eyes on the arrival of altcoin season.
-
-The Motley Fool • 1d ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1773415200)**
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1773441000)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 9h ago
+Polymarket • 4h ago
 
 ---
 
@@ -216,7 +214,7 @@ Polymarket • 9h ago
 
 Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
 
-TradingView • 15h ago
+TradingView • 17h ago
 
 ---
 
@@ -238,7 +236,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 956 • 💬 57 • ⏱️ 13:31 • 3h ago
+👁️ 16K • 👍 1K • 💬 83 • ⏱️ 13:31 • 5h ago
 
 ---
 
@@ -248,7 +246,7 @@ BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 1K • 👍 140 • 💬 23 • ⏱️ 18:21 • 1h ago
+👁️ 3K • 👍 183 • 💬 26 • ⏱️ 18:21 • 4h ago
 
 ---
 
@@ -258,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 679 • 💬 47 • ⏱️ 19:58 • 1d ago
+👁️ 21K • 👍 694 • 💬 53 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -268,37 +266,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 82 • 💬 12 • ⏱️ 4:49 • 4h ago
+👁️ 1K • 👍 94 • 💬 12 • ⏱️ 4:49 • 6h ago
 
 ---
 
-**[BlackRock Launches First Staked Ethereum ETF — While $STRC is $MSTR&#39;s Trillion Monster](https://www.youtube.com/watch?v=cebmPxYATMY)**
+**[ETHEREUM PRICE PREDICTION 📈 MARCH 13](https://www.youtube.com/watch?v=48x-ezNLjvU)**
 
-Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+ETHEREUM PRICE PREDICTION MARCH 13.
 
-📺 MONEY GAME
+📺 Overkill Trading
 
-👁️ 3K • 👍 119 • 💬 18 • ⏱️ 37:23 • 15h ago
-
----
-
-**[BlackRock&#39;s Robert Mitchnick on the launch of the firm&#39;s staked ether ETF](https://www.youtube.com/watch?v=26lG23eyt-k)**
-
-Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of the ETHB staked ether ETF.
-
-📺 CNBC Television
-
-👁️ 4K • 👍 70 • 💬 11 • ⏱️ 7:47 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=v24Ua-oTb48)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 141 • 💬 18 • ⏱️ 6:41 • 12h ago
+👁️ 783 • 👍 34 • 💬 2 • ⏱️ 2:55 • 8h ago
 
 ---
 
@@ -312,23 +290,43 @@ Bitcoin, ethereum, crypto, oil, gold, silver, and macro are curently showing us 
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=8Dj3KBLA2Ec)**
+**[Why ETH Might Be Near a Major Turning Point](https://www.youtube.com/watch?v=0JFtYBvMjNw)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Ethereum underperformed this cycle, and investors ...
 
-📺 Laboratório de Beats
+📺 Bankless
 
-👁️ 2K • 👍 2K • 16m ago
+👁️ 10K • 👍 345 • 💬 39 • ⏱️ 56:53 • 2d ago
 
 ---
 
-**[ETH JUST BROKE OUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=74zm01slIVQ)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=v24Ua-oTb48)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 464 • 👍 15 • 💬 12 • ⏱️ 4:58 • 15h ago
+👁️ 2K • 👍 142 • 💬 15 • ⏱️ 6:41 • 14h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=tIEw4k_jL8I)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 233 • 👍 37 • ⏱️ 5:27 • 1h ago
+
+---
+
+**[ETH: War das endlich der Boden?](https://www.youtube.com/watch?v=1ScjYiCg3SM)**
+
+Ethereum zeigt aktuell wieder erste bullische Signale. Nachdem sowohl Bitcoin als auch Ethereum zuletzt deutlich angesprungen ...
+
+📺 HKCM
+
+👁️ 30K • 👍 2K • 💬 60 • ⏱️ 15:11 • 11h ago
 
 ---
 

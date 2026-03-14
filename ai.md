@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T02:06:58.645414+00:00'
+updated: '2026-03-14T04:21:49.902768+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 02:06 UTC  
+**Last Updated:** March 14, 2026 at 04:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent ByteDance is planning a major overseas deployment of the company's newest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions. ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journal reported on Friday.
 
-🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 13h ago
+🔗 [Benzinga](https://www.benzinga.com/markets/tech/26/03/51236848/bytedance-outsmarts-us-sanctions-with-offshore-nvidia-ai-buildout) • 15h ago
+
+---
+
+**[The Invisible Wire: 175,000 Naked AI Agents, a WireGuard Mesh, and Why Tailscale Is Becoming the Nervous System of Agentic Infrastructure](https://www.reddit.com/r/artificial/comments/1rt899q/the_invisible_wire_175000_naked_ai_agents_a/)**
+
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0090-tailscale-agentic-infrastructure-mesh-networking) • 1h ago
 
 ---
 
@@ -49,7 +55,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 10h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 13h ago
 
 ---
 
@@ -57,7 +63,15 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI agents entirely in RAM, wiring up their tools and behavior on the fly. Sorry in advance for the vid quality i dont like making them. JL Engine isn’t another chat UI or preset pack — it’s a full agent runtime that builds itself as it runs. You can point it at any backend you want, local or cloud, and it doesn’t blink; Google, OpenAI, your own inference server, whatever you’ve got, it just plugs in and goes. The engine loads personas, merges layers, manages behavior states, and even discovers and registers its own tools without you wiring anything manually. It’s local‑first because I wanted privacy and control, but it’s not locked to local at all — it’s backend‑agnostic by design. The whole point is that the agent stays consistent no matter what model is behind it, because the runtime handles the complexity instead of dumping it on the user. If you want something that actually feels like an agent system instead of a wrapper, this is what I built. not self Promoting just posting to share get ideas maybe some help that would be great. https://github.com/jaden688/JL_Engine-local.git
 
-1h ago
+3h ago
+
+---
+
+**[what’s the most unhinged thing you’ve seen a company do with AI?](https://www.reddit.com/r/artificial/comments/1rt9jk2/whats_the_most_unhinged_thing_youve_seen_a/)**
+
+i’ll go first. i work at a mid-size SaaS company and about 6 months ago leadership decided we were going to be an AI-first company because the CEO went to a conference and came back speaking in tongues about automation and efficiency. first thing they did was replace our entire 12 person customer support team with an AI chatbot. they laid off all 12 people on a friday and chatbot went live on monday. the chatbot was trained on our help docs which sounds fine except our help docs haven’t been updated since 2023 and half of them reference features we don’t offer anymore. so from day one this thing was confidently directing customers to buttons that don’t exist and pages that 404. but the real problem is the fallback response bc whoever set it up made the default response for anything the bot can’t answer “have you tried restarting your device?” everything and every question. someone literally asked for a refund and the bot told them to restart their computer. it’s been 6 months and our CSAT score has dropped 40% so does our churn rate doubled. we’ve had 3 customers post screenshots on twitter of the bot giving unhinged responses and one of them went viral lol the best part is leadership still calls it a success because we reduced support costs by 80%. yeah we also reduced our customers by 30% but nobody’s put that in the quarterly deck yet. the CEO still opens every all-hands by saying our AI transformation is ahead of schedule. ahead of schedule toward what like bankruptcy pls what’s the worst AI implementation you’ve seen?
+
+14m ago
 
 ---
 
@@ -65,7 +79,7 @@ JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI
 
 Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
-🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 14h ago
+🔗 [Google](https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/?_bhlid=3c42cb0fcc904ff13cbca6a2c4b5c672e5f29114) • 16h ago
 
 ---
 
@@ -73,7 +87,7 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
 
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 11h ago
+🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 13h ago
 
 ---
 
@@ -81,7 +95,7 @@ See which U.S. states are adopting AI at work fastest, based on U.S. Census data
 
 Ok this might be dumb. Spent a lot of time loking at llms.txt and thinking about content and ai AUTHORSHIP. So I made identity.txt, does the same thing as llms.txt for people. The problem: every AI tool has "custom instructions" but they're siloed. Switch tools and you lose everything. Your tone, your expertise, your preferences. You end up re-explaining yourself constantly. identity.txt is just a markdown file. Same idea as llms.txt, humans.txt, robots.txt. You write it once and it works everywhere. Paste it into ChatGPT, Claude, Gemini, wherever. Or host it at yourdomain.com/identity.txt and link to it. What's in it: - Your name (H1 heading) - Sections like ## Voice (how you write), ## Expertise (what you know), ## Preferences (hard rules) - A ## Terms section - basically robots.txt for your identity. We're also experimenting with hosting at identitytxt.org where you sign in with Google and get a permanent URL. But honestly the spec is the point, not the service. Self-hosting works fine. This is very early and experimental. We're trying to start a conversation about portable identity for AI, not ship a finished product. The spec is CC-BY 4.0 and completely open: https://github.com/Fifty-Five-and-Five/identitytxt Would love to know: do you find yourself re-explaining who you are to AI tools? Is a file convention the right answer or is there a better approach? https://identitytxt.org
 
-4h ago
+6h ago
 
 ---
 
@@ -97,23 +111,7 @@ Most AI agent memory is just vector DB + semantic search. Store everything, retr
 
 We built ArkSim which help simulate multi-turn conversations between agents and synthetic users to see how it behaves across longer interactions. This can help find issues like: - Agents losing context during longer interactions - Unexpected conversation paths - Failures that only appear after several turns The idea is to test conversation flows more like real interactions, instead of just single prompts and capture issues early on. There are currently integration examples for: - OpenAI Agents SDK - Claude Agent SDK - Google ADK - LangChain / LangGraph - CrewAI - LlamaIndex you can try it out here: https://github.com/arklexai/arksim The integration examples are in the examples/integration folder would appreciate any feedback from people currently building agents so we can improve the tool!
 
-8h ago
-
----
-
-**[Systemd 260-rc3 released with AI Agents documentation added](https://www.reddit.com/r/artificial/comments/1rsdc2q/systemd_260rc3_released_with_ai_agents/)**
-
-The first release candidate of systemd 260 arrived in late February with the new mstack feature, dropping System V service scripts support, and other changes
-
-🔗 [phoronix.com](https://www.phoronix.com/news/systemd-260-rc3) • 21h ago
-
----
-
-**[Hustlers are cashing in on China’s OpenClaw AI craze](https://www.reddit.com/r/artificial/comments/1rrkvkt/hustlers_are_cashing_in_on_chinas_openclaw_ai/)**
-
-The AI tool has become the country's latest tech obsession. For savvy early adopters, that's a business opportunity.
-
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) • 1d ago
+10h ago
 
 ---
 
@@ -121,17 +119,59 @@ The AI tool has become the country's latest tech obsession. For savvy early adop
 
 ## Google News: "ai"
 
-**[Coding After Coders: The End of Computer Programming as We Know It - The New York Times](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
+**[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
+
+Reuters • 4h ago
+
+---
+
+**[Meta prepares for 20% workforce cull to offset $600 billion AI bet](https://www.investing.com/news/company-news/meta-prepares-for-20-workforce-cull-to-offset-600-billion-ai-bet-4561236)**
+
+Investing.com • 3h ago
+
+---
+
+**[Meta Delays Rollout of New A.I. Model After Performance Concerns - The New York Times](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html)**
 
 The New York Times • 1d ago
 
 ---
 
-**[Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races](https://www.cnn.com/2026/03/13/politics/james-talarico-ai-deepfake-republicans-midterms)**
+**[AI is exhausting workers so much, researchers have dubbed the condition ‘AI brain fry’](https://www.cnn.com/2026/03/13/business/ai-brain-fry-nightcap)**
 
-Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
+Part of the pitch for using AI at work goes like this: It’s like having a team of people to delegate your grunt work to, freeing you up to think strategically and maybe, just maybe, take a long lunch or head home early. Or maybe even be more productive, to make more money. It’s a nice idea!
 
-CNN • 9h ago
+CNN • 17h ago
+
+---
+
+**[New Clemson AI tool uses RGB images to help firefighters track wildfire heat](https://wpde.com/news/local/new-clemson-ai-tool-uses-rgb-images-to-help-firefighters-track-wildfire-heat)**
+
+A new artificial intelligence tool developed by Clemson University researchers could change how firefighters track dangerous heat inside wildfires.
+
+WPDE • 42m ago
+
+---
+
+**[Educators adopting AI in the classroom](https://www.yahoo.com/news/articles/educators-adopting-ai-classroom-030633151.html)**
+
+LANSING, Mich. (WLNS) — Artificial intelligence is becoming part of the classrooms, and some educators say the focus should be on teaching students how to use it responsibly instead of banning it alto...
+
+Yahoo • 1h ago
+
+---
+
+**[When Tools Become Agents: The Autonomous AI Governance Challenge](https://nationalinterest.org/blog/techland/when-tools-become-agents-the-autonomous-ai-governance-challenge)**
+
+Autonomous or agentic artificial intelligence will create challenges for public trust in the technology. That is why building systems of accountability and safety is essential to AI’s future development.
+
+The National Interest • 45m ago
+
+---
+
+**[Opinion | Why I’m Suing Grammarly - The New York Times](https://www.nytimes.com/2026/03/13/opinion/ai-doppelganger-deepfake-grammarly.html)**
+
+The New York Times • 8h ago
 
 ---
 
@@ -139,7 +179,7 @@ CNN • 9h ago
 
 The race to power AI is already remaking the physical world.
 
-The Atlantic • 14h ago
+The Atlantic • 16h ago
 
 ---
 
@@ -147,53 +187,7 @@ The Atlantic • 14h ago
 
 The hyperscalers racing to build the data centers needed for the AI boom have a PR crisis on their hands, but the industry is not taking the problem lying down.
 
-CNBC • 17h ago
-
----
-
-**[Google commits $1B to North Carolina data centers as AI demand surges](https://www.foxbusiness.com/technology/google-commits-1b-north-carolina-data-centers-ai-demand-surges)**
-
-Google announced a commitment to a $1 billion investment to expand its data center expansion in Lenoir, North Carolina, over the next two years.
-
-Fox Business • 3h ago
-
----
-
-**[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
-
-Reuters • 1h ago
-
----
-
-**[Meta reportedly plans sweeping layoffs as AI costs increase](https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai)**
-
-Sources tell Reuters layoffs could affect 20% or more of company as plans reflect broader tensions within big tech
-
-The Guardian • 1h ago
-
----
-
-**[Meta Plans To Layoff 20% Staff As AI Costs Mount: Report](https://www.ndtv.com/world-news/meta-plans-to-layoff-20-staff-as-ai-costs-mount-report-11213270)**
-
-Meta is planning layoffs that could affect 20% or more of the company, three sources familiar with the matter told Reuters, as Meta seeks to offset costly AI infrastructure bets and prepare for greater efficiency brought about by AI-assisted workers.
-
-NDTV • 29m ago
-
----
-
-**[Gamers’ Worst Nightmares About AI Are Coming True](https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/)**
-
-From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.
-
-WIRED • 15h ago
-
----
-
-**[AI promised supreme productivity, but it’s actually straining workloads for employees—time spent emailing has doubled, and focused work sessions fell by 9%](https://fortune.com/2026/03/13/ai-isnt-reducing-workloads-its-straining-employees-time-spent-emailing-doubled-deep-focus-work-fell/)**
-
-Workers who use AI are spending up to 346% more time on their daily tasks, from messaging to business management: “The data is unambiguous: AI does not reduce workloads.”
-
-Fortune • 10h ago
+CNBC • 19h ago
 
 ---
 
@@ -203,7 +197,7 @@ Fortune • 10h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4181 • 💬 1649 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4181 • 💬 1651 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -211,7 +205,7 @@ Fortune • 10h ago
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 938 • 💬 254 • 13h ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 1039 • 💬 269 • 15h ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -219,7 +213,7 @@ Detect your hardware and find out which AI models you can run locally. GPU, CPU,
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 717 • 💬 372 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 722 • 💬 373 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -243,13 +237,13 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 323 • 💬 484 • 9h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 361 • 💬 563 • 11h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 231 • 💬 332 • 8h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 260 • 💬 371 • 10h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -257,7 +251,7 @@ Tesla and SpaceX managers sent in to review work as billionaire’s start-up str
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 222 • 💬 362 • 1d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 224 • 💬 362 • 1d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -271,7 +265,7 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
 
-⬆️ 211 • 💬 118 • 1d ago • [GitHub](https://github.com/jrswab/axe)
+⬆️ 212 • 💬 118 • 1d ago • [GitHub](https://github.com/jrswab/axe)
 
 ---
 
@@ -285,7 +279,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 155 • ⏱️ 33:33 • 9h ago
+👁️ 38K • 👍 2K • 💬 159 • ⏱️ 33:33 • 12h ago
 
 ---
 
@@ -295,7 +289,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 29K • 👍 1K • 💬 264 • ⏱️ 3:28 • 7h ago
+👁️ 36K • 👍 2K • 💬 294 • ⏱️ 3:28 • 9h ago
 
 ---
 
@@ -305,7 +299,7 @@ Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 136 • 💬 10 • ⏱️ 18:24 • 7h ago
+👁️ 3K • 👍 152 • 💬 12 • ⏱️ 18:24 • 9h ago
 
 ---
 
@@ -315,17 +309,7 @@ Check out Higgsfield Audio: https://tinyurl.com/higgsfieldaudio Google just roll
 
 📺 AI Revolution
 
-👁️ 83K • 👍 2K • 💬 113 • ⏱️ 14:05 • 2d ago
-
----
-
-**[If I Wanted to Build a $10M AI Business (Zero Employees), I&#39;d Do This](https://www.youtube.com/watch?v=w-XPlC3a2oI)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3t Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 101K • 👍 5K • 💬 254 • ⏱️ 14:25 • 1d ago
+👁️ 84K • 👍 2K • 💬 113 • ⏱️ 14:05 • 2d ago
 
 ---
 
@@ -335,7 +319,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 122K • 👍 2K • 💬 718 • ⏱️ 15:01 • 1d ago
+👁️ 126K • 👍 2K • 💬 747 • ⏱️ 15:01 • 1d ago
 
 ---
 
@@ -345,17 +329,7 @@ AI giant Anthropic is listing some of the white-collar jobs most likely to be im
 
 📺 CBS News
 
-👁️ 65K • 👍 766 • 💬 222 • ⏱️ 2:46 • 2d ago
-
----
-
-**[AI is TAKING OUR JOBS!](https://www.youtube.com/watch?v=xPUtBOqK054)**
-
-Burger King recently announced their new AI headsets, and you can already smell the dystopia (and Whoppers) in the air!
-
-📺 The Food Theorists
-
-👁️ 165K • 👍 9K • 💬 247 • ⏱️ 1:12 • 1d ago
+👁️ 67K • 👍 782 • 💬 223 • ⏱️ 2:46 • 2d ago
 
 ---
 
@@ -365,17 +339,35 @@ Andrew Yang, Noble Mobile founder and CEO, joins 'Squawk Box' to discuss the AI 
 
 📺 CNBC Television
 
-👁️ 305K • 👍 4K • 💬 930 • ⏱️ 11:04 • 2d ago
+👁️ 313K • 👍 4K • 💬 941 • ⏱️ 11:04 • 2d ago
 
 ---
 
-**[How AI Will Fail Like The Music Industry](https://www.youtube.com/watch?v=YTLnnoZPALI)**
+**[REAL VS AI COMPILATION 😂](https://www.youtube.com/watch?v=lglEffRkVRs)**
 
-In this episode I compare the future of AI to the failure of the music industry in the early 2000's. Open Source AI Models: ...
+📺 Bob Reese
 
-📺 Rick Beato
+👁️ 242K • 👍 9K • 💬 183 • ⏱️ 1:09 • 11h ago
 
-👁️ 765K • 👍 38K • 💬 5K • ⏱️ 9:50 • 2d ago
+---
+
+**[AI is TAKING OUR JOBS!](https://www.youtube.com/watch?v=xPUtBOqK054)**
+
+Burger King recently announced their new AI headsets, and you can already smell the dystopia (and Whoppers) in the air!
+
+📺 The Food Theorists
+
+👁️ 168K • 👍 9K • 💬 248 • ⏱️ 1:12 • 1d ago
+
+---
+
+**[If I Wanted to Build a $10M AI Business (Zero Employees), I&#39;d Do This](https://www.youtube.com/watch?v=w-XPlC3a2oI)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4sZQT3t Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 104K • 👍 5K • 💬 271 • ⏱️ 14:25 • 1d ago
 
 ---
 
@@ -391,7 +383,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 53,243 • ❤️ 581 • 6d ago
+⬇️ 53,243 • ❤️ 592 • 6d ago
 
 ---
 
@@ -403,7 +395,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 3,142 • ❤️ 370 • 2d ago
+⬇️ 3,142 • ❤️ 372 • 2d ago
 
 ---
 
@@ -415,7 +407,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 448,513 • ❤️ 583 • 8d ago
+⬇️ 448,513 • ❤️ 586 • 8d ago
 
 ---
 
@@ -427,7 +419,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 173,501 • ❤️ 410 • 10d ago
+⬇️ 173,501 • ❤️ 411 • 10d ago
 
 ---
 
@@ -451,7 +443,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 6,439 • ❤️ 172 • 7h ago
+⬇️ 6,439 • ❤️ 172 • 9h ago
 
 ---
 
@@ -463,19 +455,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 6,113 • ❤️ 158 • 6h ago
-
----
-
-**[sarvam-105b](https://huggingface.co/sarvamai/sarvam-105b)**
-
-*Sarvam AI*
-
-Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active parameters, excelling in complex reasoning, mathematics, coding, and agentic tasks. It demonstrates state-of-the-art performance across 22 Indian languages and offers strong capabilities for real-world applications like web search and technical troubleshooting.
-
-`text-generation` `106.0B`
-
-⬇️ 5,959 • ❤️ 232 • 3d ago
+⬇️ 6,113 • ❤️ 161 • 8h ago
 
 ---
 
@@ -491,6 +471,18 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 ---
 
+**[sarvam-105b](https://huggingface.co/sarvamai/sarvam-105b)**
+
+*Sarvam AI*
+
+Sarvam-105B is an advanced Mixture-of-Experts (MoE) model with 10.3B active parameters, excelling in complex reasoning, mathematics, coding, and agentic tasks. It demonstrates state-of-the-art performance across 22 Indian languages and offers strong capabilities for real-world applications like web search and technical troubleshooting.
+
+`text-generation` `106.0B`
+
+⬇️ 5,959 • ❤️ 232 • 3d ago
+
+---
+
 **[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
 
 *Tesslate*
@@ -499,7 +491,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 272 • ❤️ 129 • 22h ago
+⬇️ 272 • ❤️ 131 • 1d ago
 
 ---
 
@@ -541,7 +533,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 86 • 💬 3 • ⭐ 2,360 • 3d ago
+▲ 87 • 💬 3 • ⭐ 2,465 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -567,7 +559,7 @@ A novel tokenization scheme synchronizes acoustic features with text tokens in T
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 48 • 💬 2 • ⭐ 49,694 • 10mo ago
+▲ 48 • 💬 2 • ⭐ 49,731 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -615,20 +607,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143)**
-
-*Jiyuan Wang, Chunyu Lin, Lei Sun et al. (11 authors)*
-
-🏢 AMAP-ML
-
-RL3DEdit uses reinforcement learning with rewards from a 3D foundation model to achieve multi-view consistent 3D editing from 2D editing priors.
-
-▲ 136 • 💬 6 • ⭐ 124 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.03143) • [💻 code](https://github.com/AMAP-ML/RL3DEdit) • [🔗 project](https://amap-ml.github.io/RL3DEdit/)
-
----
-
 **[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
 
 *Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
@@ -638,6 +616,20 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 ▲ 161 • 💬 3 • ⭐ 6,828 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
+
+---
+
+**[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://huggingface.co/papers/2603.03269)**
+
+*Junyi Zhang, Charles Herrmann, Junhwa Hur et al. (8 authors)*
+
+🏢 Deepmind
+
+LoGeR enables long-term 3D video reconstruction by combining bidirectional priors with a hybrid memory system that includes parametric Test-Time Training and non-parametric sliding window attention mechanisms.
+
+▲ 52 • 💬 6 • ⭐ 371 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.03269) • [💻 code](https://github.com/Junyi42/LoGeR) • [🔗 project](https://loger-project.github.io/)
 
 ---
 
@@ -651,7 +643,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 31.7k • 🔱 4.2k • 2d ago
+⭐ 32.0k • 🔱 4.3k • 2d ago
 
 ---
 
@@ -661,7 +653,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 26.8k • 🔱 3.5k • 7m ago
+⭐ 26.9k • 🔱 3.5k • 57m ago
 
 ---
 
@@ -671,7 +663,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.0k • 🔱 904 • 2h ago
+⭐ 20.0k • 🔱 906 • 4h ago
 
 ---
 
@@ -681,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.2k • 🔱 1.3k • 14h ago
+⭐ 11.2k • 🔱 1.3k • 16h ago
 
 ---
 
@@ -691,7 +683,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 9.0k • 🔱 787 • 8d ago
+⭐ 9.0k • 🔱 792 • 8d ago
 
 ---
 
@@ -701,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.0k • 🔱 645 • 9h ago
+⭐ 9.0k • 🔱 647 • 11h ago
 
 ---
 
@@ -721,7 +713,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 741 • 43m ago
+⭐ 6.3k • 🔱 741 • 2h ago
 
 ---
 
@@ -741,7 +733,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 2.7k • 🔱 177 • 13d ago
+⭐ 2.7k • 🔱 178 • 13d ago
 
 ---
 

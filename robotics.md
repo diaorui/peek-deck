@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T02:06:58.664975+00:00'
+updated: '2026-03-14T04:21:49.920248+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 02:06 UTC  
+**Last Updated:** March 14, 2026 at 04:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA arXiv:2603.08122 [cs.RO]: https://arxiv.org/abs/2603.08122 From Sharpa on 𝕏 (full video): https://x.com/SharpaRobotics/status/2031282521397408183
 
-14h ago
+17h ago
 
 ---
 
@@ -44,19 +44,25 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-6h ago
+9h ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-9h ago
+11h ago
+
+---
+
+**[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
+
+3h ago
 
 ---
 
 **[Recall how good Japan’s Asimo was 26 years ago? few know China built its first humanoid robot, Xianxingzhe, around the same time](https://www.reddit.com/r/robotics/comments/1rsldip/recall_how_good_japans_asimo_was_26_years_ago_few/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -64,13 +70,13 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 3h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 5h ago
 
 ---
 
-**[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
+**[Curious about the experiment data logging](https://www.reddit.com/r/robotics/comments/1rt7u8k/curious_about_the_experiment_data_logging/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -92,15 +98,7 @@ It comes from a company in Jiangsu called ChangingTek Robotics. From CyberRobo o
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/81UMAbBqeyI) • 3h ago
-
----
-
-**[UK's first long‑distance robotic medical operation](https://www.reddit.com/r/robotics/comments/1rszfm7/uks_first_longdistance_robotic_medical_operation/)**
-
-London doctor carries out first UK remote robotic surgery https://bbc.com/news/articles/cq577v126g9o
-
-5h ago
+🔗 [youtu.be](https://youtu.be/81UMAbBqeyI) • 5h ago
 
 ---
 
@@ -112,7 +110,7 @@ London doctor carries out first UK remote robotic surgery https://bbc.com/news/a
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 4h ago
+CNBC • 6h ago
 
 ---
 
@@ -120,7 +118,7 @@ CNBC • 4h ago
 
 Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
 
-TechCrunch • 6h ago
+TechCrunch • 8h ago
 
 ---
 
@@ -128,11 +126,11 @@ TechCrunch • 6h ago
 
 Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
 
-The Information • 8h ago
+The Information • 11h ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqcXhcAzTmpv9kOpqon0CINClVg0Sa8lTkF4-JfSO7BQEBJusgHkSsI9&gaa_ts=69b4c630&gaa_sig=qj1GY_QGMye0f-lFB283GiV7OjndX1kA3p_JriQviaTuqpnKyMM6szsza4Obf5wHXBDeGda3I-ARuMbEpIzYXw%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqfNL-ko9azQ1V_ckkCj-bu-pCuLj_pHLqIGuGkrTmmqZkCEsiIylFcr&gaa_ts=69b4e5cd&gaa_sig=5vwM31ySwFuQNlx0AFp_G5cxPo1WdNI28Yr9aoUUHY7A9KmWUKDtLfRULNEgMh8D4pfdejDA3G_4dPBXCUKttQ%3D%3D)**
 
 WSJ • 2d ago
 
@@ -166,7 +164,7 @@ Financial Times • 2d ago
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Quanta Magazine • 11h ago
+Quanta Magazine • 13h ago
 
 ---
 
@@ -174,7 +172,7 @@ Quanta Magazine • 11h ago
 
 Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate their effectiveness.The company Foundation told Time that two robots were sent to Ukraine in February.Ukraine has become the […]
 
-Мілітарний • 14h ago
+Мілітарний • 16h ago
 
 ---
 
@@ -182,7 +180,7 @@ Humanoid Phantom MK-1 soldier robots have been delivered to Ukraine to evaluate 
 
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
-NPR • 12h ago
+NPR • 14h ago
 
 ---
 
@@ -196,17 +194,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 54K • 👍 4K • 💬 644 • ⏱️ 5:32 • 1d ago
-
----
-
-**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
-
-Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
-
-📺 Smokin' Silicon
-
-👁️ 59K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
+👁️ 54K • 👍 4K • 💬 646 • ⏱️ 5:32 • 1d ago
 
 ---
 
@@ -216,27 +204,25 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 5K • 👍 216 • 💬 20 • ⏱️ 8:34 • 1d ago
+👁️ 5K • 👍 221 • 💬 20 • ⏱️ 8:34 • 1d ago
 
 ---
 
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=cs8qj568orA)**
 
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
+📺 Robot Julie 
 
-📺 Reuters
-
-👁️ 8K • 👍 58 • 💬 24 • ⏱️ 2:38 • 1d ago
+👁️ 906 • 👍 8 • ⏱️ 0:22 • 3h ago
 
 ---
 
-**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
 
-📺 South China Morning Post
+📺 Smokin' Silicon
 
-👁️ 11K • 👍 193 • 💬 76 • ⏱️ 4:52 • 2d ago
+👁️ 60K • 👍 2K • 💬 114 • ⏱️ 10:52 • 6d ago
 
 ---
 
@@ -250,6 +236,16 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
+
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
+
+📺 Reuters
+
+👁️ 9K • 👍 59 • 💬 24 • ⏱️ 2:38 • 1d ago
+
+---
+
 **[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
 
 A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
@@ -260,13 +256,21 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 ---
 
-**[Dual Wooden Robots | 7334 &amp; 7287 | FRC Pit Stop](https://www.youtube.com/watch?v=l9AuRtlKIlM)**
+**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
 
-Dual Wooden Robots | 7334 Esquimalt Proton Pulverizers & 7287 Esquimalt Atom Smashers | FRC Pit Stop This video is ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
 
-📺 FUN Robotics Network
+📺 South China Morning Post
 
-👁️ 235 • 👍 8 • 💬 1 • ⏱️ 1:12 • 1h ago
+👁️ 12K • 👍 195 • 💬 76 • ⏱️ 4:52 • 2d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=9Irk3BKmLvI)**
+
+📺 zhulongfeng 6
+
+👁️ 2K • 👍 17 • ⏱️ 0:21 • 3h ago
 
 ---
 
@@ -276,17 +280,7 @@ Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major 
 
 📺 Vizuara
 
-👁️ 209K • 👍 43 • 💬 10 • ⏱️ 5:34 • 2d ago
-
----
-
-**[Build a Robotic Exoskeleton. 🦾🤯Billion-Dollar Monopoly Broke.](https://www.youtube.com/watch?v=jmdA8D39ecw)**
-
-Hardware monopolies in wearable robotics are obsolete. Researchers just deployed OpenExo—a fully open-source exoskeleton ...
-
-📺 GundeepAi
-
-👁️ 10K • 👍 1K • 💬 20 • ⏱️ 1:00 • 4d ago
+👁️ 223K • 👍 44 • 💬 10 • ⏱️ 5:34 • 2d ago
 
 ---
 
