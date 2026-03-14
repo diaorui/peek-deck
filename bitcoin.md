@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T22:54:59.885447+00:00'
+updated: '2026-03-14T23:29:01.582857+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 22:54 UTC  
+**Last Updated:** March 14, 2026 at 23:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,873.38
+### $71,029.16
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +7.2%  
-**30d:** +2.7%  
-**90d:** -18.2%  
-**1y:** -16.1%  
+**24h:** +0.5%  
+**7d:** +7.6%  
+**30d:** +3.1%  
+**90d:** -17.9%  
+**1y:** -15.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1416.57B
+**Market Cap:** $1419.98B
 Rank #1
 
-**Circulating Supply:** 20,002,100 BTC
+**Circulating Supply:** 20,002,134 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.8%
+-43.7%
 
 **All-Time Low:** $67.81
-+104362.5%
++104623.5%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -105,13 +105,21 @@ Rank #1
 
 Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
 
-2h ago
+3h ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-8h ago
+9h ago
+
+---
+
+**[Fear & Greed might be the worst indicator for the people who need it most](https://www.reddit.com/r/Bitcoin/comments/1rtx3jf/fear_greed_might_be_the_worst_indicator_for_the/)**
+
+When Fear & Greed hits extreme fear, that's historically when you want to be accumulating. Everyone here knows this... But I've been thinking about what that same signal does to someone in their first bear market. They see "EXTREME FEAR" and their brain processes it as danger, not discount. Their emotional response to it triggers the opposite of what's useful. It's the same problem with price charts going down. Experienced holders see opportunity. Newcomers see a reason to leave. Is the solution better financial education? Better framing? Or is Fear & Greed just fundamentally a tool for people who already don't need it?
+
+54m ago
 
 ---
 
@@ -125,25 +133,17 @@ A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged 
 
 **[Bitcoin looking Juicy, thinking about making an entry](https://www.reddit.com/r/Bitcoin/comments/1rtwm5d/bitcoin_looking_juicy_thinking_about_making_an/)**
 
-Open to feedback. Feel like the bottom still isn't quite in yet Thinking about making an entry when initial transfer clears, then plan to add at 60k, 55k, 50k, 45k, and 40k
+Open to feedback. Feel like the bottom still isn't quite in yet Thinking about making an entry when initial transfer clears, then plan to add at 60k, 55k, 50k, 45k, and 40k Edit: I guess I should add that I'm not looking to be long on bitcoin, looking to take advantage of this opportunity to invest a sizeable amount of liquid cash with the intention of 2x or 3xing it
 
-40m ago
-
----
-
-**[A big win for Bitcoin and freedom: US Senate Votes to Ban Federal Reserve From Issuing CBDC](https://www.reddit.com/r/Bitcoin/comments/1rsibj4/a_big_win_for_bitcoin_and_freedom_us_senate_votes/)**
-
-https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
-
-1d ago
+1h ago
 
 ---
 
-**[What made you finally believe in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rt3zv7/what_made_you_finally_believe_in_bitcoin/)**
+**[Air-gapped message signing with Coldcard. How to sign with a specific bc1 address?](https://www.reddit.com/r/Bitcoin/comments/1rtwoex/airgapped_message_signing_with_coldcard_how_to/)**
 
-For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
+I'm trying to sign a message with a specific Native SegWit (P2WPKH, bc1...) address on my Coldcard, fully air-gapped via microSD only (no USB/NFC/etc). When I use Sign Text File (under Advanced/Tools & File Management) Coldcard always signs with the key at m/44'/0'/0'/0/0 (the first Legacy (1...) address) regardless of which wallet format is loaded. This is confirmed by the on-screen message Coldcard displays before signing. My funded address is a Native SegWit bc1... address and I need the signature to correspond to that specific address for an audit proof of ownership requirement. Is there a way to direct Coldcard's Sign Text File to sign with a specific address or derivation path? Is there an alternative air-gapped message signing flow (microSD only) that produces a signature verifiable against a specific bc1... address? Is this behaviour documented anywhere? fyi, running Coldcard Mk4 firmware 5.5.0, Electrum 4.7.0.
 
-23h ago
+1h ago
 
 ---
 
@@ -155,7 +155,7 @@ For a long time I just ignored Bitcoin. Every time it came up it sounded like ei
 
 The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -164,14 +164,6 @@ CoinDesk • 8h ago
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
 Financial Times • 1d ago
-
----
-
-**[Bitcoin vs Gold: One Is Up 77%, the Other Is Down 47%. Here’s Which One Wall Street Is Picking for the Next 5 Years](https://finance.yahoo.com/news/bitcoin-vs-gold-one-77-190051157.html)**
-
-Bitcoin (CRYPTO: BTC) and Gold are the two most recognized store-of-value assets in the world. Both are built on the promise of holding value when everything else falls, but they are moving in completely opposite directions right now. Gold is trading near $5,200 an ounce after climbing 77% over the past year, hitting an all-time ... Bitcoin vs Gold: One Is Up 77%, the Other Is Down 47%. Here’s Which One Wall Street Is Picking for the Next 5 Years
-
-Yahoo Finance • 3h ago
 
 ---
 
@@ -187,13 +179,21 @@ Yahoo Finance • 2h ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqe3LZA96mG3_STnGle4WNe7IDpeZ0cJz8Vyf1k7SByyQ_Kncca45Sup&gaa_ts=69b5e46b&gaa_sig=pWA-bsQ46h7M79NiH42rxdOl4_CXEUhlrM_T9GLHvaum8jsAG7_D8dpABpvuPZr1FVaIsRxD3G3lILbJvTCHeg%3D%3D)**
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqd7HPTl23HYi66__gk58JhulQHsl8YfeH5eldvq9NDZMzVbvLlIJI0y&gaa_ts=69b5f2a8&gaa_sig=Ux4C3Qi7z6s-BuT5g67OZJcNCJIKD6pfXzivZYjXfOybuJlQhMooFB7baqYlFFa9Uf3NHQT25Ott54PEypGRCg%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1773525600)**
+
+Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 4m ago
 
 ---
 
@@ -211,19 +211,17 @@ Investopedia • 1d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773512700)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 19h ago
-
----
-
 **[Bitcoin Hit a Major Milestone—Most Miners Won't Be Around for the Next One](https://decrypt.co/361137/bitcoin-major-milestone-miners)**
 
 The 20 millionth Bitcoin was mined March 2026, leaving 1 million BTC to be issued as block rewards to miners in near-breakeven economics.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
+
+---
+
+**[‘We’re Doing Everything We Can To Destroy It’—Legendary Billionaire Predicts U.S. Dollar Collapse Amid Bitcoin Price Rally](https://www.forbes.com/sites/digital-assets/2026/03/14/were-doing-everything-we-can-to-destroy-it-legendary-billionaire-predicts-us-dollar-collapse-amid-bitcoin-price-rally/)**
+
+Forbes • 11h ago
 
 ---
 
@@ -309,13 +307,33 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Insider Makes SHOCKING Michael Saylor Prediction](https://www.youtube.com/watch?v=dmNhm7nW-oA)**
+
+Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: https://x.com/pete_rizzo_ BTC ...
+
+📺 Altcoin Daily
+
+👁️ 7K • 👍 527 • 💬 106 • ⏱️ 1:15:12 • 3h ago
+
+---
+
+**[The Next Bitcoin Bull Run Could Start In A Crisis](https://www.youtube.com/watch?v=Gb75HhiAYtA)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 34K • 👍 2K • 💬 65 • ⏱️ 46:42 • 10h ago
+
+---
+
 **[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
 
 The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 348 • ⏱️ 14:33 • 1d ago
+👁️ 27K • 👍 2K • 💬 156 • ⏱️ 14:33 • 1d ago
 
 ---
 
@@ -325,7 +343,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 28K • 👍 1K • 💬 247 • ⏱️ 12:14 • 1d ago
+👁️ 29K • 👍 1K • 💬 156 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -335,7 +353,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 91K • 👍 4K • 💬 761 • ⏱️ 18:10 • 2d ago
+👁️ 94K • 👍 5K • 💬 729 • ⏱️ 18:10 • 2d ago
 
 ---
 
@@ -345,17 +363,7 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 165 • ⏱️ 22:37 • 1d ago
-
----
-
-**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
-
-The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
-
-📺 Gareth Soloway
-
-👁️ 47K • 👍 3K • 💬 498 • ⏱️ 9:50 • 1d ago
+👁️ 29K • 👍 2K • 💬 126 • ⏱️ 22:37 • 1d ago
 
 ---
 
@@ -365,37 +373,17 @@ Bitcoin was supposed to become everyday money. But in 2026, are people actually 
 
 📺 DukascopyTV English
 
-👁️ 559 • 👍 18 • 💬 1 • ⏱️ 1:00 • 1d ago
+👁️ 986 • 👍 24 • 💬 1 • ⏱️ 1:00 • 1d ago
 
 ---
 
-**[Top 5 Crypto AI Projects (Big Pump)](https://www.youtube.com/watch?v=QijOOw9ZBrU)**
+**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://partner.zoomex.com/aff/ZX904299 Toobit ...
+The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
 
-📺 Discover Crypto
+📺 Gareth Soloway
 
-👁️ 2K • 👍 202 • 💬 112 • ⏱️ 11:48 • 6h ago
-
----
-
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=DD6uCVh7ZwM)**
-
-My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
-
-📺 Road To $1 Million USD
-
-👁️ 4K • 👍 221 • 💬 11 • ⏱️ 4:28 • 1d ago
-
----
-
-**[Could This Be The BIGGEST Bitcoin Play Right Now?](https://www.youtube.com/watch?v=4oCTTLWAfKo)**
-
-Bitcoin may be on the verge of its next big move, and most investors could be completely missing it. Now is the time to buy, even ...
-
-📺 Valuetainment
-
-👁️ 62K • 👍 1K • 💬 145 • ⏱️ 1:06 • 2d ago
+👁️ 48K • 👍 3K • 💬 324 • ⏱️ 9:50 • 1d ago
 
 ---
 
@@ -405,7 +393,15 @@ Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 197 • 💬 162 • ⏱️ 19:03 • 1d ago
+👁️ 5K • 👍 209 • 💬 24 • ⏱️ 19:03 • 1d ago
+
+---
+
+**[STOP! Bitcoin and Crypto is FXCKED (PERFECT TIME TO BE IN CRYPTO) #crypto #cryptocurrency #bitcoin](https://www.youtube.com/watch?v=rTi_ymaPjQU)**
+
+📺 CryptoWendyO
+
+👁️ 1K • 👍 103 • 💬 3 • ⏱️ 1:00 • 2h ago
 
 ---
 

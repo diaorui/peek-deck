@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T22:54:59.893365+00:00'
+updated: '2026-03-14T23:29:01.591999+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 22:54 UTC  
+**Last Updated:** March 14, 2026 at 23:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,19 +42,35 @@ Robotics research and industry news
 
 This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
 
-5h ago
+6h ago
 
 ---
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-21h ago
+22h ago
+
+---
+
+**[How should I start learning robotics and coding before college as a future mechanical engineering major?](https://www.reddit.com/r/robotics/comments/1rtxvt2/how_should_i_start_learning_robotics_and_coding/)**
+
+Hey everyone, I’m a high school senior who’s about to start college as a mechanical engineering major. I’m really interested in robotics, but I have basically zero experience with actual robots and I’m also pretty desperate to learn how to code. Right now I’m kind of overwhelmed and don’t know what to focus on first. Should I start with Arduino or Raspberry Pi type projects, learn a language like Python or C++ first, or spend time on basic electronics/mechatronics stuff? If you were in my shoes going into mechE with no robotics or coding background how would you get started over the next few months? Any specific beginner projects, resources, or paths to follow would be super helpful. Thanks in advance for any advice :)
+
+21m ago
+
+---
+
+**[Rewire — a drop-in ROS 2 bridge for Rerun, no ROS 2 runtime required](https://www.reddit.com/r/robotics/comments/1rtxt6s/rewire_a_dropin_ros_2_bridge_for_rerun_no_ros_2/)**
+
+Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 topics directly to the Rerun viewer for real-time visualization. What it does Speaks DDS and Zenoh natively — it's not a ROS 2 node, so no colcon build, no rclcpp, no ROS 2 install needed 53 built-in type mappings (images, pointclouds, TF, poses, laser scans, odometry, etc.) Custom message mappings via JSON5 config — map any ROS 2 type to Rerun archetypes without writing code URDF loading with full TF tree visualization Per-topic diagnostics (Hz, bandwidth, drops, latency) Topic filtering with glob patterns Getting Started sh curl -fsSL https://rewire.run/install.sh | sh rewire record -a That's it — two commands and you're visualizing your ROS 2 system in Rerun. Works on Linux (x86_64, aarch64) and macOS (Intel + Apple Silicon). Single binary, pure Rust. Website: https://rewire.run Feel free to ask anything!
+
+25m ago
 
 ---
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -62,7 +78,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 I’ve been building a small Rust project called Reflex Engine SDK, and I’m trying to figure out whether it actually fits anywhere real in robotics or if I’m forcing the angle. The basic idea is pretty simple: an event or proposed action comes in, it gets checked against a local ruleset, it returns ALLOW or DENY, and it emits a replayable artifact showing what happened. I’m not talking about planning, perception, or SLAM. I’m thinking more along the lines of geofence, speed, altitude, or policy checks before something executes. The main thing I’ve learned so far is that the core evaluator seems fast enough to be interesting, and the bigger bottleneck was artifact persistence on the hot path rather than the rule check itself. Repo/demo: https://github.com/caminodynamics/reflex-engine-sdk⁠� My real question is whether something like this actually belongs anywhere in a robotics stack. Does it make sense as a pre-execution gate inside an autonomy stack, or as a local safety/policy layer at the edge, or is this basically unnecessary because existing systems already cover it better?
 
-55m ago
+1h ago
 
 ---
 
@@ -70,7 +86,7 @@ I’ve been building a small Rust project called Reflex Engine SDK, and I’m tr
 
 Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot learning, and world models for robotics. Recently I came across the AGIBOT World Challenge, which will have its finals at ICRA 2026 in Vienna, and I'm considering participating. Rather than doing it alone, I thought it might be interesting to form a small team with people who enjoy building robotics systems and experimenting with new ideas. From what I understand, the challenge focuses on embodied intelligence, especially things like: • reasoning → action loops • world models for robotics • perception → planning → action pipelines • sim-to-real transfer The finals will be run on real robots at ICRA 2026, and the challenge also provides a simulation platform and datasets for training and testing. Some of the directions I’m personally interested in exploring: • robot learning policies • integrating foundation models with robot planning • world models for prediction and control • simulation-to-real transfer If anyone here is also working on embodied AI, robot learning, or robotics systems, it would be great to exchange ideas or potentially form a small team. Feel free to reply here, send a DM, or email me directly: [Seatrain.liang@gmail.com](mailto:Seatrain.liang@gmail.com) Also curious to hear how people here are approaching embodied AI systems for robotics lately.
 
-1h ago
+2h ago
 
 ---
 
@@ -90,22 +106,6 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 ---
 
-**[Inputs welcome for power architect tool](https://www.reddit.com/r/robotics/comments/1rts8l3/inputs_welcome_for_power_architect_tool/)**
-
-Hi all: I’m working on building a power architect tool where an engineer could come and set their system with motors, sensors, etc, then go further and pick specific components, and the system would give a reasonably accurate power draw need for the setup. This will help robotics engineers understand budgeting of their robotic systems and hopefully help students learn things that they don’t learn at college. I’m looking to hear about any pain points or ideas on this build 🙏
-
-3h ago
-
----
-
-**[Gig workers are strapping cameras on their bodies to do chores to help train humanoids](https://www.reddit.com/r/robotics/comments/1rt2dxm/gig_workers_are_strapping_cameras_on_their_bodies/)**
-
-AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
-
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,25 +118,9 @@ CNBC • 1d ago
 
 ---
 
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeAGVYsAEYsEnh7g3Nk_GVZvhhIqt7Ca-5Yfb4LZ4D6-ZPOXQugBVaq&gaa_ts=69b5e46e&gaa_sig=qvi7r3Mxr4wssFbkAbGvYQIo9ImsZ1M8dcT1zzGuUgP40SfwW7gdwEyGlGz1X4HKX92LahxeGlupcixxIaz9Nw%3D%3D)**
+**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqdNd4WfEqAFR_h76NZEz5pWt9QSSiqQliBPnz38Nyp__edv5QQ67Wy4&gaa_ts=69b5f2ab&gaa_sig=sObo2p_5_4s_XoOwegGj51hphZDp2gJ-SOFYICS0U8mFK4oqkIcfT241jcvYSKtXAy6XsrTasUCDtb2-5MVZkg%3D%3D)**
 
 WSJ • 3d ago
-
----
-
-**[Indiana students participate in state robotics competition](https://www.wthr.com/video/news/local/indiana-students-participate-in-state-robotics-competition/531-bcca744d-eef7-4fc2-bf7a-381a4247c7b6)**
-
-Inside Lucas Oil Stadium in downtown Indianapolis, the future of engineering is already at work as the Indiana Robotics State Championship is happening this weekend.
-
-WTHR • 46m ago
-
----
-
-**[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
-
-Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
-
-NPR • 1d ago
 
 ---
 
@@ -148,19 +132,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
+
+Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
+
+NPR • 1d ago
+
+---
+
 **[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
 Quanta Magazine • 1d ago
-
----
-
-**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
-
-Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
-
-13wham.com • 11h ago
 
 ---
 
@@ -172,6 +156,22 @@ Crunchbase News • 1d ago
 
 ---
 
+**[Kamen resigns from FIRST Robotics board of directors](https://www.wmur.com/article/kamen-resigns-first-robotics-board-031226/70724175)**
+
+New Hampshire inventor Dean Kamen has voluntarily resigned from the board of directors of FIRST Robotics.
+
+WMUR • 1d ago
+
+---
+
+**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
+
+Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
+
+13wham.com • 12h ago
+
+---
+
 **[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78)**
 
 Network of training farms aims to supply data needed to put ‘brains’ into machines
@@ -180,11 +180,11 @@ Financial Times • 2d ago
 
 ---
 
-**[Kamen resigns from FIRST robotics in wake of Epstein ties](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire)**
+**[Indiana students participate in state robotics competition](https://www.yahoo.com/lifestyle/articles/indiana-students-participate-state-robotics-192925125.html)**
 
-Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
+Inside Lucas Oil Stadium in downtown Indianapolis, the future of engineering is already at work.  The Indiana Robotics State Championship is happening over the weekend of March 14-15, and at the heart...
 
-New Hampshire Public Radio • 2d ago
+Yahoo • 3h ago
 
 ---
 
@@ -198,7 +198,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 18K • 👍 450 • 💬 45 • ⏱️ 14:52 • 23h ago
+👁️ 20K • 👍 481 • 💬 46 • ⏱️ 14:52 • 23h ago
 
 ---
 
@@ -208,7 +208,7 @@ A robot that looks and moves like a horse? DEEP Robotics created a special editi
 
 📺 DPCcars
 
-👁️ 4K • 👍 44 • 💬 6 • ⏱️ 1:29 • 2d ago
+👁️ 4K • 👍 45 • 💬 6 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -222,16 +222,6 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 ---
 
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
-
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
-
-📺 Reuters
-
-👁️ 19K • 👍 80 • 💬 32 • ⏱️ 2:38 • 2d ago
-
----
-
 **[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
 
 OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
@@ -242,13 +232,13 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
-**[2026 Finger Lakes Regional - Day 3](https://www.youtube.com/watch?v=IESUgr0WfvE)**
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
 
-2026 Finger Lakes Regional - Broadcast Day 3 https://frc-events.firstinspires.org/2026/NYRO (c) 2026 FIRST Robotics ...
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
 
-📺 FIRSTRoboticsCompetition
+📺 Reuters
 
-👁️ 9K • 👍 78 • 5d ago
+👁️ 20K • 👍 83 • 💬 32 • ⏱️ 2:38 • 2d ago
 
 ---
 
@@ -258,7 +248,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 14K • 👍 207 • 💬 82 • ⏱️ 4:52 • 2d ago
+👁️ 14K • 👍 206 • 💬 82 • ⏱️ 4:52 • 2d ago
 
 ---
 
@@ -272,23 +262,31 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 ---
 
-**[Drones and robots are &#39;changing&#39; warfare: Xtend CEO](https://www.youtube.com/watch?v=EucyIHEbHUI)**
-
-Xtend co-founder and CEO Aviv Shapira explains how technology is changing warfare as drones and robots are being ...
-
-📺 Fox Business
-
-👁️ 9K • 👍 208 • 💬 44 • ⏱️ 5:39 • 1d ago
-
----
-
 **[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
 
 Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
 
 📺 Vizuara
 
-👁️ 337K • 👍 46 • 💬 10 • ⏱️ 5:34 • 3d ago
+👁️ 342K • 👍 46 • 💬 10 • ⏱️ 5:34 • 3d ago
+
+---
+
+**[Drones and robots are &#39;changing&#39; warfare: Xtend CEO](https://www.youtube.com/watch?v=EucyIHEbHUI)**
+
+Xtend co-founder and CEO Aviv Shapira explains how technology is changing warfare as drones and robots are being ...
+
+📺 Fox Business
+
+👁️ 10K • 👍 221 • 💬 21 • ⏱️ 5:39 • 1d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=cs8qj568orA)**
+
+📺 Robot Julie 
+
+👁️ 4K • 👍 21 • ⏱️ 0:22 • 22h ago
 
 ---
 
