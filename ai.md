@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-14T16:33:48.456773+00:00'
+updated: '2026-03-14T17:27:47.472297+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 14, 2026 at 16:33 UTC  
+**Last Updated:** March 14, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,27 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-3h ago
+4h ago
+
+---
+
+**[Suppose Claude Decides Your Company is Evil](https://www.reddit.com/r/artificial/comments/1rtp3xw/suppose_claude_decides_your_company_is_evil/)**
+
+Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
+
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 8m ago
+
+---
+
+**[Impact of AI Product Recommendations on Online Purchase Intent](https://www.reddit.com/r/artificial/comments/1rtou4q/impact_of_ai_product_recommendations_on_online/)**
+
+Namaste! I am an MBA Marketing student. This survey explores how smart AI recommendations affect your shopping experience. It will hardly take 2 minutes. Be genuine in your responses.
+Modern retail ecosystems, particularly in e-commerce and quick-commerce, utilize sophisticated AI algorithms to implement real-time product recommendations. These interventions occur at critical stages of the consumer journey, such as the 'Cart' and 'Checkout' phases, utilizing a conversational tone to drive cross-selling and reduce basket abandonment.
+AI Product Recommendation is a system that uses mathematical models to predict your preferences. It works by identifying patterns in your past actions and comparing them with millions of other users to present you with the most relevant products at the most opportune time.
+Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
+Your responses are anonymous and will be used for academic research only.
+
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 19m ago
 
 ---
 
@@ -49,13 +69,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 In a recent conversation with Gemeni (Google Gemini mobile) I discussed with "her" about whether LLM has real intelligence, and she said she is only sure that she has very high linguistic competency, but whether it is true intelligence is still debatable. So I further gave her a focused challenge on linguistics to see if she has ways of truly understanding semantics. The challenge is to create a novel and original analogy for a given situation. the situation described is "the lack of desire for things you once longed for". The analogy need to be brief (<= 10 words). Through iterations of attempt and critique, Gemini gave the below list of analogies (followed by my view): "Like holding a key to a house that was demolished" [Wrong] "Like reading a map for a city you've already left" [still wrong] "Like a flashlight in the middle of a sunny day" [still does not work] "Like hearing a joke you've already heard the punchline to" [this is getting close. try again] "Like staring at a trophy you no longer remember winning" "Like watching a movie after the actors have all died" "Like a love letter written to a person you've outgrown" [None of above hits the mark. All your analogy starts with doing sthing or existence of sthing. However my situation starts with absence of sthing] "Like the silence after a bell stops ringing" [Try again with silence. It captures the absence. however the second half does not hit the mark] "Like a radio tuned to a station that stopped broadcasting" [ This is getting there. Anything you can do better?] "Like a harbor where the tide never came back" [This is poetic, but a harbor with or without tide may still be a functional harbor?] "Like a sail hanging limp on a windless ocean" [Ok we will stop for today] In fact I find Gemini is still not able to find a satisfactory analogy. Do you think the current LLM mechanism can truly be able to master creation of analogy? If an LLM can truly master analogy does it mean it has a higher level of understanding of semantics?
 
-1h ago
-
----
-
-**[Breaking: Elon Musk announces Tesla Terafab chip plant launching in 7 days, targets 200 billion units a year](https://www.reddit.com/r/artificial/comments/1rtm0vs/breaking_elon_musk_announces_tesla_terafab_chip/)**
-
-🔗 [techfixated.com](https://techfixated.com/breaking-elon-musk-announces-tesla-terafab-chip-plant-launching-in-7-days-targets-200-billion-units-a-year/) • 1h ago
+2h ago
 
 ---
 
@@ -63,7 +77,7 @@ In a recent conversation with Gemeni (Google Gemini mobile) I discussed with "he
 
 I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
 
-1h ago
+2h ago
 
 ---
 
@@ -79,7 +93,7 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 
 JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI agents entirely in RAM, wiring up their tools and behavior on the fly. Sorry in advance for the vid quality i dont like making them. JL Engine isn’t another chat UI or preset pack — it’s a full agent runtime that builds itself as it runs. You can point it at any backend you want, local or cloud, and it doesn’t blink; Google, OpenAI, your own inference server, whatever you’ve got, it just plugs in and goes. The engine loads personas, merges layers, manages behavior states, and even discovers and registers its own tools without you wiring anything manually. It’s local‑first because I wanted privacy and control, but it’s not locked to local at all — it’s backend‑agnostic by design. The whole point is that the agent stays consistent no matter what model is behind it, because the runtime handles the complexity instead of dumping it on the user. If you want something that actually feels like an agent system instead of a wrapper, this is what I built. not self Promoting just posting to share get ideas maybe some help that would be great. https://github.com/jaden688/JL_Engine-local.git
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +109,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 Guys im kinda confused with AI right now. In the beginning of the whole thing with every update you could actually notice some improvements or actually new features. Now when there is a new update for let's say Gemini or ChatGPT there is literally nothing different. It still has the same flaws and problems. Also im kinda trying to figure out what is really a realistic picture of our future with AI. Since there are very extreme opinions on the topic in the Internet from "AGI will be here in 2030 and we can not imagine what's coming" to "LLMs are a dead end road bigger models aren't producing better work anymore we basically have nothing and there is no real AI". I really would love to hear some realistic balanced opinions on this topic without the hype just some raw opinions on it. Its also okay if the answer would be we just can't tell. I mean there are things like Titans/MIRAS from Google Deepmind that could solve some problems like the small context windows and synthetic data could also be a thing but is there even a possibility that an LLM will develop into something bigger like an actual AI or is it clear to say it will improve but there are fundamental borders that it will never stop and all they will do from there on is to make it more efficient and it will stay in that state as an helpful companion at work. Would love to hear your opinions also sorry for the bad English its not my mother tongue.
 
-4h ago
+5h ago
 
 ---
 
@@ -107,37 +121,29 @@ Google Maps has two new AI features: Ask Maps and Immersive Navigation.
 
 ---
 
-**[Which states have been the fastest to adopt AI in the workplace?](https://www.reddit.com/r/artificial/comments/1rsp8ym/which_states_have_been_the_fastest_to_adopt_ai_in/)**
-
-See which U.S. states are adopting AI at work fastest, based on U.S. Census data. Explore current vs. future AI use rankings and key drivers.
-
-🔗 [Ooma.com - Smart solutions for home and business.](https://www.ooma.com/blog/business/states-fastest-to-adopt-ai-in-workplace/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Meta eyes massive 20% workforce cut as AI infrastructure costs continue to soar across operations: report](https://www.foxbusiness.com/technology/meta-eyes-massive-20-workforce-cut-ai-infrastructure-costs-continue-soar-across-operations-report)**
+**[Meta Is Weighing Major Layoffs As It Pours Billions Into AI](https://www.businessinsider.com/meta-weighing-major-layoffs-as-it-pours-billions-into-ai-2026-3)**
 
-Meta layoffs could cut 20% of workforce as tech giant weighs job reductions to offset rising artificial intelligence infrastructure costs.
+Meta plans potential layoffs as AI investments rise, with up to 16,000 jobs at risk. AI spending demands cost cuts across Big Tech.
 
-Fox Business • 8h ago
-
----
-
-**[Meta reportedly plans sweeping layoffs as AI costs increase](https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai)**
-
-Sources tell Reuters layoffs could affect 20% or more of company as plans reflect broader tensions within big tech
-
-The Guardian • 15h ago
+Business Insider • 11h ago
 
 ---
 
-**[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
+**[Meta Mulls Cutting 20% Or More Of Jobs Amid Big AI Spending, Setbacks](https://www.investors.com/news/technology/meta-mulls-cutting-20-jobs-ai-spending-setbacks/)**
 
-Reuters • 16h ago
+Investor's Business Daily • 13h ago
+
+---
+
+**[Meta weighing massive 20% workforce layoffs in effort to offset AI infrastructure costs: report](https://nypost.com/2026/03/14/tech/meta-eyes-massive-20-workforce-cut-as-ai-infrastructure-costs-continue-to-soar-across-operations-report/)**
+
+Potential layoffs would mark tech giant’s largest restructuring since 2022-2023 rounds that eliminated 21,000 jobs
+
+New York Post • 2h ago
 
 ---
 
@@ -145,49 +151,53 @@ Reuters • 16h ago
 
 Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
-**[MGB researchers create AI models to detect domestic abuse in patients](https://www.bostonglobe.com/2026/03/14/business/mgb-ai-domestic-abuse-patients/)**
+**[Watchdog Issues Grim Warning About Letting AI Run Your Life](https://www.yahoo.com/news/articles/watchdog-issues-grim-warning-letting-164500322.html)**
 
-Doctors at Mass General Brigham published a study on Friday showing that artificial intelligence tools can help predict intimate partner violence.
+Just don't.
 
-The Boston Globe • 1h ago
-
----
-
-**[Catholic moral theologians, ethicists back Anthropic in government AI showdown](https://www.ncronline.org/news/catholic-moral-theologians-ethicists-back-anthropic-government-ai-showdown)**
-
-A friends of the court brief outlines opposition to mass surveillance and eliminating human oversight of autonomous weapons.
-
-National Catholic Reporter • 1h ago
+Yahoo • 42m ago
 
 ---
 
-**[India’s IT Services Firms Are In The Eye Of The AI Storm](https://www.forbes.com/sites/vasukishastry/2026/03/14/indias-it-services-firms-are-in-the-eye-of-the-ai-storm/)**
+**[Zach Braff’s AI Relationship Denial Is Raising a Lot of Questions Already Answered by the Denial](https://gizmodo.com/zach-braffs-ai-relationship-denial-is-raising-a-lot-of-questions-already-answered-by-his-denial-2000733708)**
 
-Forbes • 2h ago
+The Scrubs star referred to himself as "The guy not dating his chatbot."
+
+Gizmodo • 40m ago
+
+---
+
+**[Trump's AI czar calls for US to 'get out' of war and warns Iran could make Gulf uninhabitable](https://fortune.com/2026/03/14/trump-ai-czar-david-sacks-us-iran-war-gulf-israel-desalination-water-uninhabitable/)**
+
+"So there's a lot of scenarios here, a lot of really frightening scenarios about where escalation could lead," Sacks said.
+
+Fortune • 15m ago
 
 ---
 
 **[Opinion | Why I’m Suing Grammarly](https://www.nytimes.com/2026/03/13/opinion/ai-doppelganger-deepfake-grammarly.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
-**[AI promised supreme productivity, but it’s actually straining workloads for employees—time spent emailing has doubled, and focused work sessions fell by 9%](https://fortune.com/2026/03/13/ai-isnt-reducing-workloads-its-straining-employees-time-spent-emailing-doubled-deep-focus-work-fell/)**
+**[New study raises concerns about AI chatbots fueling delusional thinking](https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis)**
 
-Workers who use AI are spending up to 346% more time on their daily tasks, from messaging to business management: “The data is unambiguous: AI does not reduce workloads.”
+First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable people
 
-Fortune • 1d ago
+The Guardian • 6h ago
 
 ---
 
-**[Blue books make a comeback at colleges in the AI era. Why not "chisels," critic mocks](https://www.axios.com/2026/03/14/ai-blue-books-colleges-jobs)**
+**[China’s OpenClaw Boom Is a Gold Rush for AI Companies](https://www.wired.com/story/china-is-going-all-in-on-openclaw/)**
 
-Axios • 3h ago
+Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.
+
+WIRED • 1d ago
 
 ---
 
@@ -197,7 +207,7 @@ Axios • 3h ago
 
 **[Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/item?id=47340079)**
 
-⬆️ 4192 • 💬 1652 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
+⬆️ 4192 • 💬 1653 • 2d ago • [news.ycombinator.com](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -205,7 +215,7 @@ Axios • 3h ago
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 1312 • 💬 321 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 1338 • 💬 323 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -213,7 +223,7 @@ Detect your hardware and find out which AI models you can run locally. GPU, CPU,
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 728 • 💬 376 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 730 • 💬 379 • 1d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -221,7 +231,7 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 472 • 💬 716 • 23h ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 479 • 💬 738 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
@@ -235,7 +245,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 337 • 💬 443 • 22h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 341 • 💬 452 • 23h ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -243,7 +253,7 @@ AI-led job interviews are on the rise and AI reporter Hayden Field speaks to thr
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 231 • 💬 372 • 1d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 232 • 💬 373 • 1d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -257,7 +267,7 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
 
-⬆️ 217 • 💬 122 • 2d ago • [GitHub](https://github.com/jrswab/axe)
+⬆️ 218 • 💬 122 • 2d ago • [GitHub](https://github.com/jrswab/axe)
 
 ---
 
@@ -265,7 +275,7 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 Open-source credential vault, give your AI agents access to services without exposing keys. - onecli/onecli
 
-⬆️ 157 • 💬 50 • 1d ago • [GitHub](https://github.com/onecli/onecli)
+⬆️ 158 • 💬 50 • 2d ago • [GitHub](https://github.com/onecli/onecli)
 
 ---
 
@@ -279,7 +289,7 @@ Access ALL AI Video Generators in Higgsfield https://higgsfield.ai?fpr=ai&fp_sid
 
 📺 Isa does AI
 
-👁️ 4K • ⏱️ 11:35 • 1h ago
+👁️ 4K • ⏱️ 11:35 • 2h ago
 
 ---
 
@@ -289,7 +299,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 52K • 👍 2K • 💬 363 • ⏱️ 3:28 • 21h ago
+👁️ 52K • 👍 2K • 💬 363 • ⏱️ 3:28 • 22h ago
 
 ---
 
@@ -319,7 +329,7 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 145K • 👍 2K • 💬 836 • ⏱️ 15:01 • 1d ago
+👁️ 145K • 👍 2K • 💬 836 • ⏱️ 15:01 • 2d ago
 
 ---
 
@@ -329,7 +339,7 @@ I put the AI tools I use for helping local businesses in one place https://www.p
 
 📺 iampauljames
 
-👁️ 2K • 👍 108 • 💬 35 • ⏱️ 8:10 • 16h ago
+👁️ 2K • 👍 108 • 💬 35 • ⏱️ 8:10 • 17h ago
 
 ---
 
@@ -369,7 +379,7 @@ Japan has unveiled a futuristic “Human Washing Machine” that uses AI technol
 
 📺 Knowledge Hub
 
-👁️ 5K • 👍 9 • ⏱️ 0:06 • 2h ago
+👁️ 5K • 👍 9 • ⏱️ 0:06 • 3h ago
 
 ---
 
@@ -445,7 +455,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 13,104 • ❤️ 184 • 1h ago
+⬇️ 13,104 • ❤️ 184 • 2h ago
 
 ---
 
@@ -457,7 +467,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 8,760 • ❤️ 170 • 21h ago
+⬇️ 8,760 • ❤️ 170 • 22h ago
 
 ---
 
@@ -481,7 +491,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 `text-generation` `4.0B`
 
-⬇️ 1,012 • ❤️ 159 • 15h ago
+⬇️ 1,012 • ❤️ 159 • 16h ago
 
 ---
 
@@ -653,7 +663,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `agent` `agentic` `ai` `openclaw`
 
-⭐ 27.0k • 🔱 3.6k • 55s ago
+⭐ 27.0k • 🔱 3.6k • 54m ago
 
 ---
 
@@ -673,7 +683,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.3k • 🔱 1.3k • 1h ago
+⭐ 11.3k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -693,7 +703,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.1k • 🔱 656 • 23h ago
+⭐ 9.1k • 🔱 656 • 1d ago
 
 ---
 
@@ -713,7 +723,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 7.0k • 🔱 311 • 55m ago
+⭐ 7.0k • 🔱 311 • 1h ago
 
 ---
 
@@ -723,7 +733,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 744 • 15h ago
+⭐ 6.3k • 🔱 744 • 16h ago
 
 ---
 
@@ -733,7 +743,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 666 • 52m ago
+⭐ 3.4k • 🔱 666 • 1h ago
 
 ---
 

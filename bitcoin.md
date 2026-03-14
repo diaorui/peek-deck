@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T16:33:48.465118+00:00'
+updated: '2026-03-14T17:27:47.480850+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 16:33 UTC  
+**Last Updated:** March 14, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,538.66
+### $70,737.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +6.9%  
-**30d:** +2.5%  
-**90d:** -18.4%  
-**1y:** -16.3%  
+**24h:** -0.5%  
+**7d:** +7.1%  
+**30d:** +2.7%  
+**90d:** -18.3%  
+**1y:** -16.1%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -97,19 +97,13 @@ Rank #1
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
 **[A big win for Bitcoin and freedom: US Senate Votes to Ban Federal Reserve From Issuing CBDC](https://www.reddit.com/r/Bitcoin/comments/1rsibj4/a_big_win_for_bitcoin_and_freedom_us_senate_votes/)**
 
 https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc-until-2030/ https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed
-
-1d ago
-
----
-
-**[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
 
 1d ago
 
@@ -123,11 +117,17 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 ---
 
+**[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
+
+1d ago
+
+---
+
 **[What made you finally believe in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rt3zv7/what_made_you_finally_believe_in_bitcoin/)**
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-16h ago
+17h ago
 
 ---
 
@@ -135,13 +135,13 @@ For a long time I just ignored Bitcoin. Every time it came up it sounded like ei
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
 **[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 1d ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 1h ago
 
 Twenty million Bitcoin mined. One million left. The miners who got us here might not be around for the finish.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -185,41 +185,41 @@ Yahoo Finance • 2h ago
 
 Bitcoin’s price dropped slightly Saturday — but it still held above $70,000. US Bitcoin ETFs took in over $760 million in new cash from investors.  The stock market took a hit Friday — but the crypto market remains strong.
 
-dlnews.com • 1h ago
-
----
-
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqfA5Jzho_73BpTryYuxJkW7t-_nYTjTjGRUIr1S4mUY4Hox3z34PpP2&gaa_ts=69b58326&gaa_sig=rtlonp3BqUnSdoXfe6Xb4xhBwj8lIR9Il3ByRoy0nA71--Gi_dFXd0hy-pMYTV44xSBv-j_blZC5TY0qsoejyA%3D%3D)**
-
-Barron's • 1d ago
+dlnews.com • 2h ago
 
 ---
 
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Guess What Asset Has Performed Well During the War in Iran? Believe It or Not—It’s Bitcoin](https://www.investopedia.com/guess-what-asset-has-performed-well-during-the-war-in-iran-believe-it-or-not-it-s-bitcoin-btc-gold-11925133)**
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqcr53NLLRsUtGILuPu4gqOXb-gxb-jA8sKfrI48z_LQeexqU_eb_DwI&gaa_ts=69b59df8&gaa_sig=tdFUMrKcVBnXCVK1btG5SrFvITC5Lyo5TJEijiFUOWPHQsMULbjhFnDs121LLYfMxN05-aWERB35fnDHSqc8lw%3D%3D)**
 
-The cryptocurrency has outperformed gold, the U.S. dollar, and the S&P 500 since the initial strikes on Iran.
-
-Investopedia • 1d ago
+Barron's • 1d ago
 
 ---
 
-**[JPMorgan says bitcoin and gold ETFs show sharp flow divergence since Iran war](https://www.theblock.co/post/393450/jpmorgan-bitcoin-and-gold-etfs-divergence-iran-war)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773488100)**
 
-GLD has seen outflows of about 2.7% of assets, while IBIT has seen inflows of around 1.5% of assets since the war erupted, analysts said.
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-The Block • 1d ago
+Polymarket • 14h ago
 
 ---
 
-**[Bitcoin Clears Month-High. This Miner's Chart Outshines Its Peers.](https://www.investors.com/news/bitcoin-price-march-73k-high-etf-flows-terawulf-wulf-stock-bitcoin-miners-crypto-stocks/)**
+**[Crypto stocks gain as Bitcoin sell-offs could reportedly be entering final phase (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4564374-crypto-stocks-gain-as-bitcoin-sell-offs-could-reportedly-be-entering-final-phase)**
 
-Investor's Business Daily • 19h ago
+Seeking Alpha • 1d ago
+
+---
+
+**[Trump Meme Coin, Render and Pi See Double-Digit Rallies as Bitcoin Rises](https://decrypt.co/361008/trump-render-pi-double-digit-gains-bitcoin-consolidation)**
+
+As Bitcoin consolidates, altcoins like Trump, Pi, and Render surge on specific catalysts and improving risk appetite.
+
+Decrypt • 1d ago
 
 ---
 
@@ -239,7 +239,7 @@ The Ivy League school still has more money invested in Bitcoin than any other US
 
 No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
 
-⬆️ 3 • 💬 3 • 5d ago • [satsapi.dev](https://satsapi.dev/)
+⬆️ 3 • 💬 3 • 6d ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 7h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 8h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -311,7 +311,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 320 • ⏱️ 14:33 • 19h ago
+👁️ 24K • 👍 2K • 💬 320 • ⏱️ 14:33 • 20h ago
 
 ---
 
@@ -361,7 +361,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 221 • 💬 11 • ⏱️ 4:28 • 17h ago
+👁️ 3K • 👍 221 • 💬 11 • ⏱️ 4:28 • 18h ago
 
 ---
 
@@ -391,7 +391,7 @@ Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 186 • 💬 136 • ⏱️ 19:03 • 21h ago
+👁️ 4K • 👍 186 • 💬 136 • ⏱️ 19:03 • 22h ago
 
 ---
 
