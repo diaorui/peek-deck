@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T15:34:46.088908+00:00'
+updated: '2026-03-14T16:33:48.465118+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 15:34 UTC  
+**Last Updated:** March 14, 2026 at 16:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1416.02B
+**Market Cap:** $1413.22B
 Rank #1
 
-**Circulating Supply:** 20,001,962 BTC
+**Circulating Supply:** 20,002,003 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.8%
+-44.0%
 
 **All-Time Low:** $67.81
-+104321.2%
++104113.2%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
-21h ago
+22h ago
 
 ---
 
@@ -127,7 +127,7 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-15h ago
+16h ago
 
 ---
 
@@ -135,13 +135,13 @@ For a long time I just ignored Bitcoin. Every time it came up it sounded like ei
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
 **[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -153,7 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 1d ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 34m ago
+CNBC • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 34m ago
 
 Twenty million Bitcoin mined. One million left. The miners who got us here might not be around for the finish.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin’s price dropped slightly Saturday — but it still held above $70,000. US Bitcoin ETFs took in over $760 million in new cash from investors.  The stock market took a hit Friday — but the crypto market remains strong.
 
-dlnews.com • 12m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ Barron's • 1d ago
 
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -219,7 +219,7 @@ The Block • 1d ago
 
 **[Bitcoin Clears Month-High. This Miner's Chart Outshines Its Peers.](https://www.investors.com/news/bitcoin-price-march-73k-high-etf-flows-terawulf-wulf-stock-bitcoin-miners-crypto-stocks/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -247,7 +247,7 @@ No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin p
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 4d ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 5d ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 6h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 7h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -291,7 +291,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open source. - leventilo/boltzpay
 
-⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/leventilo/boltzpay)
+⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/leventilo/boltzpay)
 
 ---
 
@@ -305,13 +305,23 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 ## YouTube Videos: "bitcoin"
 
+**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
+
+The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 320 • ⏱️ 14:33 • 19h ago
+
+---
+
 **[Strategy is Driving ALL The Bitcoin Out Of Circulation FOREVER!](https://www.youtube.com/watch?v=-_C4dZZvWIk)**
 
 Strategy may have raised over $1 billion in a single trading session, and if that's even close to true, Bitcoin's supply dynamics may ...
 
 📺 Swan Bitcoin
 
-👁️ 26K • 👍 1K • 💬 210 • ⏱️ 12:14 • 1d ago
+👁️ 27K • 👍 1K • 💬 213 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -321,45 +331,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 85K • 👍 4K • 💬 737 • ⏱️ 18:10 • 1d ago
-
----
-
-**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
-
-The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 265 • ⏱️ 14:33 • 18h ago
-
----
-
-**[Could This Be The BIGGEST Bitcoin Play Right Now?](https://www.youtube.com/watch?v=4oCTTLWAfKo)**
-
-Bitcoin may be on the verge of its next big move, and most investors could be completely missing it. Now is the time to buy, even ...
-
-📺 Valuetainment
-
-👁️ 57K • 👍 1K • 💬 133 • ⏱️ 1:06 • 1d ago
-
----
-
-**[HUGE XRP MASTERCARD AND MORE CRYPTO PARTNERSHIPS!!! ITS HERE #crypto #xrp #cryptocurrency #bitcoin](https://www.youtube.com/watch?v=eBGq2NrozuM)**
-
-📺 CryptoWendyO
-
-👁️ 15K • 👍 845 • 💬 45 • ⏱️ 2:04 • 2d ago
-
----
-
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=DD6uCVh7ZwM)**
-
-My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
-
-📺 Road To $1 Million USD
-
-👁️ 3K • 👍 218 • 💬 10 • ⏱️ 4:28 • 16h ago
+👁️ 87K • 👍 4K • 💬 745 • ⏱️ 18:10 • 1d ago
 
 ---
 
@@ -369,37 +341,67 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 159 • ⏱️ 22:37 • 1d ago
+👁️ 28K • 👍 2K • 💬 164 • ⏱️ 22:37 • 1d ago
 
 ---
 
-**[Le bullrun sur bitcoin](https://www.youtube.com/watch?v=YSJFFdJ6apk)**
+**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
 
-Le bullrun sur bitcoin #bitcoin #crypto #finance #investissement #eth #bullrun #julienroman.
+The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
 
-📺 Julien Roman | Crypto & Analyses
+📺 Gareth Soloway
 
-👁️ 6K • 👍 148 • 💬 2 • ⏱️ 1:05 • 1d ago
-
----
-
-**[Bitcoin Price Action: Analysis vs Cheerleaders](https://www.youtube.com/watch?v=0s61jBeb1JE)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
-
-📺 Benjamin Cowen
-
-👁️ 13K • 👍 261 • 💬 9 • ⏱️ 0:58 • 2d ago
+👁️ 44K • 👍 3K • 💬 485 • ⏱️ 9:50 • 23h ago
 
 ---
 
-**[“Buy Bitcoin” - Iran War Sends Bitcoin on WILD Price Swings](https://www.youtube.com/watch?v=loeNPdGjQ3E)**
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=DD6uCVh7ZwM)**
 
-Anthony Scaramucci breaks down why Bitcoin may surge despite global turmoil. With war in Iran, rising oil prices, and distrust in ...
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
+
+📺 Road To $1 Million USD
+
+👁️ 3K • 👍 221 • 💬 11 • ⏱️ 4:28 • 17h ago
+
+---
+
+**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
+
+The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
+
+📺 Altcoin Daily
+
+👁️ 14K • 👍 426 • 💬 112 • ⏱️ 1:13 • 2d ago
+
+---
+
+**[Could This Be The BIGGEST Bitcoin Play Right Now?](https://www.youtube.com/watch?v=4oCTTLWAfKo)**
+
+Bitcoin may be on the verge of its next big move, and most investors could be completely missing it. Now is the time to buy, even ...
 
 📺 Valuetainment
 
-👁️ 28K • 👍 666 • 💬 221 • ⏱️ 5:36 • 2d ago
+👁️ 58K • 👍 1K • 💬 137 • ⏱️ 1:06 • 1d ago
+
+---
+
+**[Bitcoin Just Did Something the World Isn’t Ready For: Jeff Park](https://www.youtube.com/watch?v=tFzIHZDT4uU)**
+
+Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire world should be thinking about Bitcoin. The old ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 186 • 💬 136 • ⏱️ 19:03 • 21h ago
+
+---
+
+**[Bitcoin: This Is Why It’s Dying A Slow Death (Until This Date)](https://www.youtube.com/watch?v=HgPg9a3HDG4)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 11K • 👍 747 • 💬 267 • ⏱️ 29:33 • 12h ago
 
 ---
 

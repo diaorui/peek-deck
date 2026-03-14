@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T15:34:46.098554+00:00'
+updated: '2026-03-14T16:33:48.474196+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 15:34 UTC  
+**Last Updated:** March 14, 2026 at 16:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-3h ago
+4h ago
 
 ---
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
-14h ago
+15h ago
 
 ---
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-20h ago
+21h ago
 
 ---
 
@@ -70,7 +70,7 @@ Paper: Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mi
 
 AI and robotics companies need data on movements in the physical world. Some are paying gig workers to record themselves cooking dinner and doing laundry.
 
-🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 16h ago
+🔗 [aol.com](https://www.aol.com/articles/why-hundreds-people-l-strapping-100000184.html) • 17h ago
 
 ---
 
@@ -78,13 +78,13 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 Hello everyone. I need help programming a robotic arm. I managed to create a python and Arduino application that I use to control the arm. I defined the offsets and it works properly, however, I haven't finalized the project yet because I don't know how. The surface you see is the work surface in front of the arm, it is limited by 4 aruco markers that define the working area. The surface dimensions are 240*120mm with 6 columns by 3 rows. It is designed that the cubes that will have the aruco codes when placed on this work surface are scanned, but also the precise x and y coordinates are read based on the total area. The same x and y coordinates need to be converted into servo positions so that the arm moves, picks them up and carries them to the boxes where I will later enter the coordinates and place them. This is my first such demanding project, so any recommendations, advice and help would be welcome. Thanks in advance and I hope you can help me! https://preview.redd.it/lqudfoex21pg1.jpg?width=2252&format=pjpg&auto=webp&s=b29314ed995ae0ec20f52d342766de34e04ec5cd
 
-14m ago
+1h ago
 
 ---
 
 **[Robots participating in a humanoid half-marathon](https://www.reddit.com/r/robotics/comments/1rst16u/robots_participating_in_a_humanoid_halfmarathon/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hello everyone. I need help programming a robotic arm. I managed to create a pyt
 
 ive had this question for about a week now and even though lot of AIs tell me esp32 is superior, i usually see people building robots with an arduino nano. The people that use nano are very experienced from what i saw and i think that if esp was really better they would have used it, to this day i ahvent seen anyone use the esp.
 
-1h ago
+2h ago
 
 ---
 
@@ -110,7 +110,7 @@ ive had this question for about a week now and even though lot of AIs tell me es
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -118,7 +118,7 @@ CNBC • 17h ago
 
 Developers of physical AI such as field and inspection robots need to consider cyber and data security, explains ANYbotics' CEO.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -166,7 +166,7 @@ IEEE Spectrum • 2d ago
 
 Busy week, big checks, lots of AI and robotics. That, in ultra-brief synopsis form, characterized the general startup fundraising environment this week. Notably, the two largest global rounds were U.K.- and Paris-based. In the U.S., meanwhile, an e-commerce platform, an AI networking developer, and an industrial automation startup each picked up $500 million.
 
-Crunchbase News • 21h ago
+Crunchbase News • 22h ago
 
 ---
 
@@ -174,7 +174,7 @@ Crunchbase News • 21h ago
 
 Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
 
-13wham.com • 4h ago
+13wham.com • 5h ago
 
 ---
 
@@ -190,23 +190,13 @@ New Hampshire Public Radio • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Tesla has a China problem with their humanoid robots.  Lots of them.](https://www.youtube.com/watch?v=ezTPzAwKVng)**
+**[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
 
-Tesla is shifting focus in the US market from Electric Vehicles, to the production of humanoid robots. The company is repurposing ...
+China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
 
-📺 Inside China Business
+📺 AI Revolution
 
-👁️ 56K • 👍 4K • 💬 659 • ⏱️ 5:32 • 1d ago
-
----
-
-**[DEEP Robotics Built a Robot Horse and It Is Incredible](https://www.youtube.com/watch?v=3b13QT-85CU)**
-
-A robot that looks and moves like a horse? DEEP Robotics created a special edition quadruped robot inspired by the Year of the ...
-
-📺 DPCcars
-
-👁️ 3K • 👍 41 • 💬 6 • ⏱️ 1:29 • 1d ago
+👁️ 15K • 👍 406 • 💬 41 • ⏱️ 14:52 • 17h ago
 
 ---
 
@@ -216,7 +206,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 14K • 👍 68 • 💬 29 • ⏱️ 2:38 • 2d ago
+👁️ 16K • 👍 70 • 💬 29 • ⏱️ 2:38 • 2d ago
 
 ---
 
@@ -226,27 +216,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 14K • 👍 204 • 💬 80 • ⏱️ 4:52 • 2d ago
-
----
-
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
-
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
-
-📺 DPCcars
-
-👁️ 16K • 👍 119 • 💬 31 • ⏱️ 3:48 • 4d ago
-
----
-
-**[Buying AI Robots from TEMU... what could go wrong?](https://www.youtube.com/watch?v=6MEmlewaLPQ)**
-
-Go check out these robots if you're interested, temu actually has a ton of them https://temu.to/k/py4i66elux1 Buy used tech from ...
-
-📺 Smokin' Silicon
-
-👁️ 62K • 👍 2K • 💬 115 • ⏱️ 10:52 • 7d ago
+👁️ 14K • 👍 205 • 💬 81 • ⏱️ 4:52 • 2d ago
 
 ---
 
@@ -260,6 +230,26 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
+**[DEEP Robotics Built a Robot Horse and It Is Incredible](https://www.youtube.com/watch?v=3b13QT-85CU)**
+
+A robot that looks and moves like a horse? DEEP Robotics created a special edition quadruped robot inspired by the Year of the ...
+
+📺 DPCcars
+
+👁️ 3K • 👍 42 • 💬 6 • ⏱️ 1:29 • 2d ago
+
+---
+
+**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
+
+A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
+
+📺 DPCcars
+
+👁️ 16K • 👍 120 • 💬 31 • ⏱️ 3:48 • 4d ago
+
+---
+
 **[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
 
 At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
@@ -270,23 +260,31 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 ---
 
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=9Irk3BKmLvI)**
+
+📺 zhulongfeng 6
+
+👁️ 24K • 👍 113 • ⏱️ 0:21 • 15h ago
+
+---
+
 **[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
 
 Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
 
 📺 Vizuara
 
-👁️ 281K • 👍 45 • 💬 10 • ⏱️ 5:34 • 3d ago
+👁️ 304K • 👍 45 • 💬 10 • ⏱️ 5:34 • 3d ago
 
 ---
 
-**[Drones and robots are &#39;changing&#39; warfare: Xtend CEO](https://www.youtube.com/watch?v=EucyIHEbHUI)**
+**[E23: NVIDIA&#39;s HUGE Robotics Announcements Will Change Everything](https://www.youtube.com/watch?v=wAlmgDudmkk)**
 
-Xtend co-founder and CEO Aviv Shapira explains how technology is changing warfare as drones and robots are being ...
+Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (do this first!): https://tsy.link/gtc2026 » Jensen ...
 
-📺 Fox Business
+📺 Ticker Symbol: YOU
 
-👁️ 9K • 👍 198 • 💬 44 • ⏱️ 5:39 • 1d ago
+👁️ 37K • 👍 1K • 💬 77 • ⏱️ 29:53 • 6d ago
 
 ---
 

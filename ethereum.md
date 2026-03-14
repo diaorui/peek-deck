@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T15:34:46.095227+00:00'
+updated: '2026-03-14T16:33:48.471079+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 15:34 UTC  
+**Last Updated:** March 14, 2026 at 16:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.57B
+**Market Cap:** $250.52B
 Rank #2
 
 **Circulating Supply:** 120,691,917 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.0%
 
 **All-Time Low:** $0.43
-+479521.4%
++479302.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
 
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 10h ago
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 Ethereum Foundation (EF) wrote a constitution for the soul of the project. The new EF Mandate isn't just a corporate mission statement but a line in the sand for how Ethereum stays human in an increasingly automated world. The EF is calling its core philosophy CROPS. If a feature isn’t Censorship-resistant, Resilient, Open-source, Private, and Secure, it doesn't belong on ethereum . No trading sovereignty for convenience. Here are the main points: Stewardship, Not Ownership: The EF is explicitly saying they aren't the boss. They are temporary caretakers who eventually want to disappear. This is the ultimate decentralize or die commitment. The AI Shield: They see a future where AI and opaque algorithms run everything. Ethereum’s job is to be the Infinite Garden, a place where humans, not code or corporations, have the final say over their own lives. Immutable Values: By publishing this directly onto the blockchain, they’ve made their values as permanent as a transaction. You can’t edit the project's soul once it’s on-chain. This is a massive vibe check for the entire ecosystem. It’s a reminder that if we give up control for a slightly faster app, we’ve already lost the plot. Can a written mandate actually stop the slow creep of centralization, or is the pull of convenience just too strong? Let’s talk. 👇 Source
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/jos
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 22h ago
+🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 23h ago
 
 ---
 
@@ -140,7 +140,7 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 **[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
 
-🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 23h ago
+🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 1d ago
 
 ---
 
@@ -160,7 +160,7 @@ TradingView • 1d ago
 
 XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
 
-Coinpaper • 8h ago
+Coinpaper • 9h ago
 
 ---
 
@@ -192,7 +192,7 @@ CoinDesk • 2d ago
 
 The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 2d ago
 
 The Ethereum Foundation mandate codifies Ethereum’s core “CROPS” principles: censorship resistance, open source, privacy and security.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Block • 22h ago
 
 The document comes at a moment of transition for the organization, following recent shifts in Ethereum’s technical roadmap and the resignation earlier this year of one of the foundation’s co-executive directors.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 870 • 👍 79 • 💬 26 • ⏱️ 12:50 • 4h ago
+👁️ 1K • 👍 107 • 💬 32 • ⏱️ 12:50 • 5h ago
 
 ---
 
@@ -246,17 +246,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 241 • ⏱️ 13:31 • 17h ago
-
----
-
-**[If Experts Had $1M Today… Would They Buy Ethereum or Solana?](https://www.youtube.com/watch?v=FSmdeTyAJfQ)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 63 • 👍 9 • ⏱️ 9:05 • 1h ago
+👁️ 33K • 👍 2K • 💬 263 • ⏱️ 13:31 • 18h ago
 
 ---
 
@@ -266,7 +256,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 753 • 💬 55 • ⏱️ 19:58 • 1d ago
+👁️ 23K • 👍 766 • 💬 56 • ⏱️ 19:58 • 2d ago
+
+---
+
+**[If Experts Had $1M Today… Would They Buy Ethereum or Solana?](https://www.youtube.com/watch?v=FSmdeTyAJfQ)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 407 • 👍 30 • 💬 32 • ⏱️ 9:05 • 2h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 14th of March](https://www.youtube.com/watch?v=QV3Hg6fIy7c)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 38 • 👍 5 • 💬 1 • ⏱️ 6:36 • 31m ago
+
+---
+
+**[Live Crypto Trading | BTC ETH Live Trading](https://www.youtube.com/watch?v=R00vtSs0eBo)**
+
+Follow The All Account Opening Link ⏩⏩⏩⏩⏩ send screenshoot after open account - 62800 19674 we will add you in our ...
+
+📺 Invest For Wealth
+
+👁️ 2K • 👍 111 • 1h ago
 
 ---
 
@@ -276,27 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 182 • 👍 15 • 💬 1 • ⏱️ 6:31 • 4h ago
-
----
-
-**[BILLIONAIRES ALREADY SOLD](https://www.youtube.com/watch?v=DMW4OiD9T7A)**
-
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
-
-📺 The Cryptoviser
-
-👁️ 171 • 👍 37 • 💬 1 • ⏱️ 28:37 • 2h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=MhZziRZ05Iw)**
-
-BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 290 • 💬 47 • ⏱️ 18:21 • 15h ago
+👁️ 199 • 👍 19 • 💬 1 • ⏱️ 6:31 • 5h ago
 
 ---
 
@@ -306,27 +306,27 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 5K • 👍 79 • 💬 13 • ⏱️ 7:47 • 1d ago
+👁️ 5K • 👍 81 • 💬 13 • ⏱️ 7:47 • 1d ago
 
 ---
 
-**[ETH JUST BROKE OUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=74zm01slIVQ)**
+**[BILLIONAIRES ALREADY SOLD](https://www.youtube.com/watch?v=DMW4OiD9T7A)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
 
-📺 Cilinix Crypto
+📺 The Cryptoviser
 
-👁️ 548 • 👍 15 • 💬 12 • ⏱️ 4:58 • 1d ago
+👁️ 321 • 👍 60 • 💬 3 • ⏱️ 28:37 • 3h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=2d3GxL9DzqY)**
+**[BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=MhZziRZ05Iw)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 2K • 👍 127 • 💬 4 • ⏱️ 4:49 • 17h ago
+👁️ 8K • 👍 297 • 💬 71 • ⏱️ 18:21 • 16h ago
 
 ---
 
