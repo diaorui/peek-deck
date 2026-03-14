@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T10:56:48.794147+00:00'
+updated: '2026-03-14T11:29:20.201808+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 10:56 UTC  
+**Last Updated:** March 14, 2026 at 11:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
 
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 5h ago
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 6h ago
 
 ---
 
@@ -96,13 +96,13 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 17h ago
+🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 18h ago
 
 ---
 
 **[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 19h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 20h ago
 
 ---
 
@@ -214,7 +214,7 @@ TradingView • 1d ago
 
 **[Ethereum ‘Address Poisoning’ Scams Are Exploding — What You Need to Know](https://www.ccn.com/news/crypto/ethereum-address-poisoning-scams-are-exploding-what-you-need-to-know/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN PRICE SQUEEZE JUST ENDED (this is next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 252 • 💬 44 • ⏱️ 18:21 • 10h ago
+👁️ 6K • 👍 252 • 💬 44 • ⏱️ 18:21 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ This week in crypto: Ethereum and Virtuals Protocol introduce ERC-8183 to power 
 
 📺 WazirX: Bitcoin & Cryptocurrency Exchange in India
 
-👁️ 33 • 👍 3 • 💬 4 • ⏱️ 3:28 • 1h ago
+👁️ 33 • 👍 3 • 💬 4 • ⏱️ 3:28 • 2h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 143 • 💬 4 • ⏱️ 6:41 • 21h ago
+👁️ 2K • 👍 143 • 💬 4 • ⏱️ 6:41 • 22h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM PRICE PREDICTION MARCH 13.
 
 📺 Overkill Trading
 
-👁️ 1K • 👍 43 • 💬 4 • ⏱️ 2:55 • 14h ago
+👁️ 1K • 👍 43 • 💬 4 • ⏱️ 2:55 • 15h ago
 
 ---
 

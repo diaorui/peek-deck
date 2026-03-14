@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T10:56:48.788089+00:00'
+updated: '2026-03-14T11:29:20.195773+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 10:56 UTC  
+**Last Updated:** March 14, 2026 at 11:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ For a long time I just ignored Bitcoin. Every time it came up it sounded like ei
 
 **[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -117,7 +117,7 @@ For a long time I just ignored Bitcoin. Every time it came up it sounded like ei
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Reserve Banks globally are not going to ever stop the money printing Inflation will only get worse There simple is go reason not to go all in If anyone sees it differently I’m all ears
 
-20h ago
+21h ago
 
 ---
 
@@ -141,7 +141,7 @@ biggest mistake i see people make is running their mouth about bitcoin profits l
 
 Just tested out Arcade wallet where you can send and receive on Lightning, Ark and mainnet all in one (Software wallet! However it’s an ark wallet. You keep custody of your bitcoin. Onchain batch outputs use an n-of-n multisig arrangement involving all VTXO owners and the Ark Operator. Users hold presigned transactions that allow them to unilaterally withdraw their funds without cooperation from the operator or other participants — typically after a predefined delay. The server can’t steal your bitcoin. This is kind of like how you can force close a lightning channel. What do you think of this scaling solution? It allows you to hold money without needing to worry about channels or them running off with your money. Will we see adoption of ark any time soon on exchanges? Edit I will give some free bitcoin to the first person to comment their ark address
 
-5h ago
+6h ago
 
 ---
 
@@ -149,7 +149,7 @@ Just tested out Arcade wallet where you can send and receive on Lightning, Ark a
 
 Quick question for you guys. I have spent my last few days going down the crypto youtube rabbithole. Tthis guy ivan on tech keeps popping up on freakin every topic I search lol. I watched a few of his vids and that white prolly europen guy looks knowing when talking about bitcoin and stuff. At the same time crypto youtybe is full of people making predictions and hyping coins so it’s hard to separate legit analysis from straight hopium. So figured this sub be the best place to ask. Question is for people who actually follow his channel regularly, does his content genuinely help you understand the market. Or you use it just for crypto entertainment?v
 
-13h ago
+14h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 7h ago
 
 **[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqf5HimbGUTSLlv6vkeAmGxMxVWSr2Y1pY1GP5W_SrKDvkBRZDN1Wlt1&gaa_ts=69b53c1c&gaa_sig=2uxr9G7aH7gScitC2srZCNj-d4B63m0UVhMJoqht9WiYkH7bJaX3RH7g_LjadQf0xh7avtszjd2nsGYMun_knA%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -175,7 +175,7 @@ Barron's • 20h ago
 
 One coin will need to use a strategy to win, and the other will need to continue doing nothing.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ Bloomberg.com • 18h ago
 
 Bitcoin miners are facing historically low margins and are responding by pivoting some operations to AI infrastructure.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -213,7 +213,7 @@ Bitcoin Magazine • 16h ago
 
 Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Block • 22h ago
 
 As Bitcoin consolidates, altcoins like Trump, Pi, and Render surge on specific catalysts and improving risk appetite.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -321,7 +321,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 263 • ⏱️ 14:33 • 13h ago
+👁️ 19K • 👍 1K • 💬 263 • ⏱️ 14:33 • 14h ago
 
 ---
 
@@ -331,7 +331,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 24K • 👍 1K • 💬 206 • ⏱️ 12:14 • 19h ago
+👁️ 24K • 👍 1K • 💬 206 • ⏱️ 12:14 • 20h ago
 
 ---
 
