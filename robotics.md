@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-14T17:52:50.570490+00:00'
+updated: '2026-03-14T18:40:43.651998+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 14, 2026 at 17:52 UTC  
+**Last Updated:** March 14, 2026 at 18:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,7 @@ Robotics research and industry news
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-6h ago
-
----
-
-**[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
-
-16h ago
+7h ago
 
 ---
 
@@ -48,13 +42,19 @@ Robotics research and industry news
 
 This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
 
-37m ago
+1h ago
+
+---
+
+**[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
+
+17h ago
 
 ---
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -62,7 +62,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-22h ago
+23h ago
 
 ---
 
@@ -86,7 +86,7 @@ AI and robotics companies need data on movements in the physical world. Some are
 
 Hello everyone. I need help programming a robotic arm. I managed to create a python and Arduino application that I use to control the arm. I defined the offsets and it works properly, however, I haven't finalized the project yet because I don't know how. The surface you see is the work surface in front of the arm, it is limited by 4 aruco markers that define the working area. The surface dimensions are 240*120mm with 6 columns by 3 rows. It is designed that the cubes that will have the aruco codes when placed on this work surface are scanned, but also the precise x and y coordinates are read based on the total area. The same x and y coordinates need to be converted into servo positions so that the arm moves, picks them up and carries them to the boxes where I will later enter the coordinates and place them. This is my first such demanding project, so any recommendations, advice and help would be welcome. Thanks in advance and I hope you can help me! https://preview.redd.it/lqudfoex21pg1.jpg?width=2252&format=pjpg&auto=webp&s=b29314ed995ae0ec20f52d342766de34e04ec5cd
 
-2h ago
+3h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hello everyone. I need help programming a robotic arm. I managed to create a pyt
 
 ive had this question for about a week now and even though lot of AIs tell me esp32 is superior, i usually see people building robots with an arduino nano. The people that use nano are very experienced from what i saw and i think that if esp was really better they would have used it, to this day i ahvent seen anyone use the esp.
 
-3h ago
+4h ago
 
 ---
 
@@ -112,21 +112,7 @@ ive had this question for about a week now and even though lot of AIs tell me es
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 19h ago
-
----
-
-**[Exclusive | Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million](https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?gaa_at=eafs&gaa_n=AWEtsqeOk7mP0M1RMvTX1CtoZ3f7878q4NdON6LIUr3o6-GWO9vorfB_V-Yg&gaa_ts=69b59dfd&gaa_sig=RMfy-7aro-A7nIy6X2TTjr1_ZX2cFLeVvDXKKkB9Gf9AlntCbhG_x8T2jctNcmp8ItkEgxE6Gc3KUV0TqCLSJA%3D%3D)**
-
-WSJ • 3d ago
-
----
-
-**[Data security is the foundation of trust in physical AI](https://www.therobotreport.com/data-security-foundation-trust-physical-ai/)**
-
-Developers of physical AI such as field and inspection robots need to consider cyber and data security, explains ANYbotics' CEO.
-
-The Robot Report • 3h ago
+CNBC • 20h ago
 
 ---
 
@@ -158,7 +144,7 @@ Quanta Magazine • 1d ago
 
 Busy week, big checks, lots of AI and robotics. That, in ultra-brief synopsis form, characterized the general startup fundraising environment this week. Notably, the two largest global rounds were U.K.- and Paris-based. In the U.S., meanwhile, an e-commerce platform, an AI networking developer, and an industrial automation startup each picked up $500 million.
 
-Crunchbase News • 23h ago
+Crunchbase News • 1d ago
 
 ---
 
@@ -178,11 +164,27 @@ New Hampshire Public Radio • 2d ago
 
 ---
 
+**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
+
+Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
+
+13wham.com • 7h ago
+
+---
+
 **[Ukraine receives humanoid robots for testing in combat conditions](https://www.ukrinform.net/rubric-ato/4101402-ukraine-receives-humanoid-robots-for-testing-in-combat-conditions.html)**
 
 In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
 
-Ukrinform • 21h ago
+Ukrinform • 22h ago
+
+---
+
+**[New robotics programs aim to teach North American kids programming and AI skills](https://www.stocktitan.net/news/KIDZ/classover-announces-strategic-robotics-education-collaboration-with-gjcixgew113i.html)**
+
+Classover (NASDAQ:KIDZ)는 Walimaker와 함께 북미의 K-12 학생들을 대상으로 한 로봇공학 및 AI 교육 프로그램을 공동으로 탐색하기 위한 구속력 없는 양해각서(MOU)를 체결했다. 이 협력은 Walimaker의 로봇공학 커리큘럼과 키트를...
+
+Stock Titan • 1d ago
 
 ---
 
@@ -196,37 +198,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 15K • 👍 406 • 💬 41 • ⏱️ 14:52 • 18h ago
-
----
-
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
-
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
-
-📺 Reuters
-
-👁️ 16K • 👍 70 • 💬 29 • ⏱️ 2:38 • 2d ago
-
----
-
-**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
-
-📺 South China Morning Post
-
-👁️ 14K • 👍 205 • 💬 81 • ⏱️ 4:52 • 2d ago
-
----
-
-**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
-
-OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
-
-📺 AI Revolution
-
-👁️ 73K • 👍 2K • 💬 103 • ⏱️ 14:51 • 5d ago
+👁️ 17K • 👍 434 • 💬 44 • ⏱️ 14:52 • 19h ago
 
 ---
 
@@ -236,7 +208,17 @@ A robot that looks and moves like a horse? DEEP Robotics created a special editi
 
 📺 DPCcars
 
-👁️ 3K • 👍 42 • 💬 6 • ⏱️ 1:29 • 2d ago
+👁️ 4K • 👍 43 • 💬 6 • ⏱️ 1:29 • 2d ago
+
+---
+
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
+
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
+
+📺 Reuters
+
+👁️ 17K • 👍 74 • 💬 29 • ⏱️ 2:38 • 2d ago
 
 ---
 
@@ -250,13 +232,43 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 ---
 
+**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+
+📺 South China Morning Post
+
+👁️ 14K • 👍 206 • 💬 81 • ⏱️ 4:52 • 2d ago
+
+---
+
+**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
+
+OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
+
+📺 AI Revolution
+
+👁️ 73K • 👍 2K • 💬 103 • ⏱️ 14:51 • 5d ago
+
+---
+
+**[2026 Finger Lakes Regional - Day 3](https://www.youtube.com/watch?v=IESUgr0WfvE)**
+
+2026 Finger Lakes Regional - Broadcast Day 3 https://frc-events.firstinspires.org/2026/NYRO (c) 2026 FIRST Robotics ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 7K • 👍 65 • 5d ago
+
+---
+
 **[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
 
 At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
 
 📺 Munro Live
 
-👁️ 6K • 👍 238 • 💬 22 • ⏱️ 8:34 • 2d ago
+👁️ 6K • 👍 242 • 💬 22 • ⏱️ 8:34 • 2d ago
 
 ---
 
@@ -264,7 +276,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 zhulongfeng 6
 
-👁️ 24K • 👍 113 • ⏱️ 0:21 • 17h ago
+👁️ 26K • 👍 116 • ⏱️ 0:21 • 18h ago
 
 ---
 
@@ -274,17 +286,7 @@ Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major 
 
 📺 Vizuara
 
-👁️ 304K • 👍 45 • 💬 10 • ⏱️ 5:34 • 3d ago
-
----
-
-**[E23: NVIDIA&#39;s HUGE Robotics Announcements Will Change Everything](https://www.youtube.com/watch?v=wAlmgDudmkk)**
-
-Register for NVIDIA GTC 2026 on March 16-19 and join me! » Registration link (do this first!): https://tsy.link/gtc2026 » Jensen ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 37K • 👍 1K • 💬 77 • ⏱️ 29:53 • 6d ago
+👁️ 331K • 👍 46 • 💬 10 • ⏱️ 5:34 • 3d ago
 
 ---
 

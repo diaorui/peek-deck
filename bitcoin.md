@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T17:52:50.561329+00:00'
+updated: '2026-03-14T18:40:43.642952+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 17:52 UTC  
+**Last Updated:** March 14, 2026 at 18:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,737.24
+### $70,677.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +7.1%  
-**30d:** +2.7%  
+**24h:** -0.8%  
+**7d:** +7.0%  
+**30d:** +2.6%  
 **90d:** -18.3%  
-**1y:** -16.1%  
+**1y:** -16.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1413.22B
+**Market Cap:** $1413.14B
 Rank #1
 
-**Circulating Supply:** 20,002,003 BTC
+**Circulating Supply:** 20,002,043 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -44.0%
 
 **All-Time Low:** $67.81
-+104113.2%
++104092.6%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -109,17 +109,19 @@ https://coincentral.com/us-senate-votes-to-ban-federal-reserve-from-issuing-cbdc
 
 ---
 
-**[The easiest way to buy BTC near the bottom](https://www.reddit.com/r/Bitcoin/comments/1rsvldn/the_easiest_way_to_buy_btc_near_the_bottom/)**
+**[Crypto Expert Explains How Bitcoin Exchange Gave Police Control Over Nancy Guthrie’s Kidnapper](https://www.reddit.com/r/Bitcoin/comments/1rtr5a7/crypto_expert_explains_how_bitcoin_exchange_gave/)**
 
-So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
+A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged themselves by demanding ransom in Bitcoin. Other
 
-23h ago
+🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 3m ago
 
 ---
 
-**[we back](https://www.reddit.com/r/Bitcoin/comments/1rsicqa/we_back/)**
+**[I wrote a small song inspired by Log Boom Park in Kenmore](https://www.reddit.com/r/Bitcoin/comments/1rtnjs4/i_wrote_a_small_song_inspired_by_log_boom_park_in/)**
 
-1d ago
+Hello, I enjoy writing small poems during quiet walks around Lake Washington. One afternoon I was sitting at the end of the pier at Log Boom Park in Kenmore. The sunlight was warm but the wind was still cold. That quiet moment became a poem, and later I turned it into a small song called Kenmore Ferry. If anyone here enjoys calm reflective music inspired by our area, I would be happy to share it. YouTube link: https://youtu.be/uQz59wx3DE4?si=hC7r86XOENmN\\\_\\\_fX
+
+2h ago
 
 ---
 
@@ -127,21 +129,23 @@ So I see a lot of people fighting about the bottom being in and I'm here to make
 
 For a long time I just ignored Bitcoin. Every time it came up it sounded like either a scam or something only tech people understood. Then over time I started seeing more people talk about it seriously and I eventually looked into it properly. What surprised me is that almost everyone seems to have a moment where it suddenly makes sense to them. Sometimes it is inflation, sometimes it is learning how money actually works, sometimes it is just seeing the price keep coming back after crashes. For people who own Bitcoin or believe in it now, what actually made it click for you? Was it something you read, a video, someone explaining it, or just watching what has happened to the price over the years? Genuinely curious because it seems like everyone has a slightly different moment where they go from ignoring it to actually paying attention.
 
-17h ago
+18h ago
 
 ---
 
-**[Daily Discussion, March 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1rtbpso/daily_discussion_march_14_2026/)**
+**[The easiest way to buy BTC near the bottom](https://www.reddit.com/r/Bitcoin/comments/1rsvldn/the_easiest_way_to_buy_btc_near_the_bottom/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-11h ago
-
----
-
-**[20,000,000th Bitcoin mined](https://www.reddit.com/r/Bitcoin/comments/1rstj3z/20000000th_bitcoin_mined/)**
+So I see a lot of people fighting about the bottom being in and I'm here to make an easy plan for those who don't have one. Jump on tradingview and add the MACD and look at the monthly chart, now wait to start buying after the monthly MACD histogram turns light red like below then average in like you would normally do over the next 2-3 months. Your average buy will be close to the bottom and its super simple. Patience. https://preview.redd.it/tkre93i8wuog1.jpg?width=939&format=pjpg&auto=webp&s=1676e6d9588ca0cd0025e840ca5ecb79c0c30eb6
 
 1d ago
+
+---
+
+**[M1 MacBook Air w/Bitcoin node](https://www.reddit.com/r/Bitcoin/comments/1rtmofa/m1_macbook_air_wbitcoin_node/)**
+
+I got a 256g ssd 16gb ram… I’m so happy plus with the finger print ID thingy Loving it
+
+2h ago
 
 ---
 
@@ -149,11 +153,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin can survive 72% of the world's submarine cables being cut, but a targeted attack on five hosting providers could cripple it](https://www.coindesk.com/markets/2026/03/13/bitcoin-can-survive-72-of-the-world-s-submarine-cables-being-cut-but-a-targeted-attack-on-five-hosting-providers-could-cripple-it)**
+**[Strategy's (MSTR) 1 millionth bitcoin (BTC): Here's how it could happen this year](https://www.coindesk.com/markets/2026/03/14/the-math-behind-strategy-s-path-to-1-million-bitcoin-by-the-end-of-2026)**
 
-A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.
+The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
 
-CoinDesk • 14h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -169,23 +173,21 @@ Financial Times • 1d ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[Bitcoin Hit a Major Milestone—Most Miners Won't Be Around for the Next One](https://finance.yahoo.com/news/bitcoin-hit-major-milestone-most-140730017.html)**
+**[Bitcoin Price Signals Mixed Cycle Setup As Exchange Supply Hits 8-Year Low](https://www.binance.com/en/square/post/301504024022449)**
 
-Twenty million Bitcoin mined. One million left. The miners who got us here might not be around for the finish.
+Binance • 3h ago
+
+---
+
+**[Bitcoin holds ground as Iran war escalates and ETFs take in over $760m](https://finance.yahoo.com/news/bitcoin-holds-ground-iran-war-152038954.html)**
+
+Bitcoin’s price dropped slightly Saturday — but it still held above $70,000. US Bitcoin ETFs took in over $760 million in new cash from investors. The stock market took a hit Friday — but the crypto market remains strong.
 
 Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin holds ground as Iran war escalates and ETFs take in over $760m](https://www.dlnews.com/articles/markets/bitcoin-price-holds-steady-as-iran-war-rages-on/)**
-
-Bitcoin’s price dropped slightly Saturday — but it still held above $70,000. US Bitcoin ETFs took in over $760 million in new cash from investors.  The stock market took a hit Friday — but the crypto market remains strong.
-
-dlnews.com • 2h ago
 
 ---
 
@@ -195,31 +197,29 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqcr53NLLRsUtGILuPu4gqOXb-gxb-jA8sKfrI48z_LQeexqU_eb_DwI&gaa_ts=69b59df8&gaa_sig=tdFUMrKcVBnXCVK1btG5SrFvITC5Lyo5TJEijiFUOWPHQsMULbjhFnDs121LLYfMxN05-aWERB35fnDHSqc8lw%3D%3D)**
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqdNlXrZIRiuUFv2QjczvcrWmawCeWP3QJyDevm7qr--1kfF-BcX-89l&gaa_ts=69b5af05&gaa_sig=eBAbNWAQcb3hiUxrCDTp1u7RIMoLwVSvyUYDppYsxjtD6RpdabQTNIFrh81Ab0uiwwIDZthdBFPIP5Boob3V0g%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773488100)**
+**[Guess What Asset Has Performed Well During the War in Iran? Believe It or Not—It’s Bitcoin](https://www.investopedia.com/guess-what-asset-has-performed-well-during-the-war-in-iran-believe-it-or-not-it-s-bitcoin-btc-gold-11925133)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+The cryptocurrency has outperformed gold, the U.S. dollar, and the S&P 500 since the initial strikes on Iran.
 
-Polymarket • 14h ago
+Investopedia • 1d ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773506400)**
+
+Polymarket • 15h ago
 
 ---
 
 **[Crypto stocks gain as Bitcoin sell-offs could reportedly be entering final phase (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4564374-crypto-stocks-gain-as-bitcoin-sell-offs-could-reportedly-be-entering-final-phase)**
 
 Seeking Alpha • 1d ago
-
----
-
-**[Trump Meme Coin, Render and Pi See Double-Digit Rallies as Bitcoin Rises](https://decrypt.co/361008/trump-render-pi-double-digit-gains-bitcoin-consolidation)**
-
-As Bitcoin consolidates, altcoins like Trump, Pi, and Render surge on specific catalysts and improving risk appetite.
-
-Decrypt • 1d ago
 
 ---
 
@@ -305,23 +305,13 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 ## YouTube Videos: "bitcoin"
 
-**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
-
-The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 320 • ⏱️ 14:33 • 20h ago
-
----
-
 **[Strategy is Driving ALL The Bitcoin Out Of Circulation FOREVER!](https://www.youtube.com/watch?v=-_C4dZZvWIk)**
 
 Strategy may have raised over $1 billion in a single trading session, and if that's even close to true, Bitcoin's supply dynamics may ...
 
 📺 Swan Bitcoin
 
-👁️ 27K • 👍 1K • 💬 213 • ⏱️ 12:14 • 1d ago
+👁️ 27K • 👍 1K • 💬 217 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -331,7 +321,75 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 87K • 👍 4K • 💬 745 • ⏱️ 18:10 • 1d ago
+👁️ 89K • 👍 4K • 💬 751 • ⏱️ 18:10 • 1d ago
+
+---
+
+**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
+
+The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
+
+📺 Gareth Soloway
+
+👁️ 46K • 👍 3K • 💬 494 • ⏱️ 9:50 • 1d ago
+
+---
+
+**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
+
+The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 349 • ⏱️ 14:33 • 21h ago
+
+---
+
+**[Bitaxe Gamma Vs NerdQAxe++ - Best Mini Bitcoin Miner To Buy?](https://www.youtube.com/watch?v=4giRUX0xWRM)**
+
+Bitaxe Gamma vs NerdQAxe++ which is the best mini Bitcoin miner to buy and start trying to mine a solo BTC block over WiFi?
+
+📺 VoskCoin
+
+👁️ 320 • 👍 32 • 💬 43 • ⏱️ 14:52 • 3h ago
+
+---
+
+**[Top 5 Crypto AI Projects (Big Pump)](https://www.youtube.com/watch?v=QijOOw9ZBrU)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://partner.zoomex.com/aff/ZX904299 Toobit ...
+
+📺 Discover Crypto
+
+👁️ 1K • 👍 138 • 💬 97 • ⏱️ 11:48 • 2h ago
+
+---
+
+**[Could This Be The BIGGEST Bitcoin Play Right Now?](https://www.youtube.com/watch?v=4oCTTLWAfKo)**
+
+Bitcoin may be on the verge of its next big move, and most investors could be completely missing it. Now is the time to buy, even ...
+
+📺 Valuetainment
+
+👁️ 60K • 👍 1K • 💬 138 • ⏱️ 1:06 • 1d ago
+
+---
+
+**[HUGE XRP MASTERCARD AND MORE CRYPTO PARTNERSHIPS!!! ITS HERE #crypto #xrp #cryptocurrency #bitcoin](https://www.youtube.com/watch?v=eBGq2NrozuM)**
+
+📺 CryptoWendyO
+
+👁️ 15K • 👍 851 • 💬 47 • ⏱️ 2:04 • 2d ago
+
+---
+
+**[Bitcoin Just Did Something the World Isn’t Ready For: Jeff Park](https://www.youtube.com/watch?v=tFzIHZDT4uU)**
+
+Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire world should be thinking about Bitcoin. The old ...
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 191 • 💬 135 • ⏱️ 19:03 • 23h ago
 
 ---
 
@@ -342,66 +400,6 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 📺 Simply Bitcoin
 
 👁️ 28K • 👍 2K • 💬 164 • ⏱️ 22:37 • 1d ago
-
----
-
-**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
-
-The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
-
-📺 Gareth Soloway
-
-👁️ 44K • 👍 3K • 💬 485 • ⏱️ 9:50 • 1d ago
-
----
-
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=DD6uCVh7ZwM)**
-
-My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
-
-📺 Road To $1 Million USD
-
-👁️ 3K • 👍 221 • 💬 11 • ⏱️ 4:28 • 19h ago
-
----
-
-**[Bitcoin Pump IS A FAKOUT?](https://www.youtube.com/watch?v=OwXYxagjjOQ)**
-
-The Floodgates Are Open!! The Tipping Point Has Arrived!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ✓ Bitunix ...
-
-📺 Altcoin Daily
-
-👁️ 14K • 👍 426 • 💬 112 • ⏱️ 1:13 • 3d ago
-
----
-
-**[Could This Be The BIGGEST Bitcoin Play Right Now?](https://www.youtube.com/watch?v=4oCTTLWAfKo)**
-
-Bitcoin may be on the verge of its next big move, and most investors could be completely missing it. Now is the time to buy, even ...
-
-📺 Valuetainment
-
-👁️ 58K • 👍 1K • 💬 137 • ⏱️ 1:06 • 1d ago
-
----
-
-**[Bitcoin Just Did Something the World Isn’t Ready For: Jeff Park](https://www.youtube.com/watch?v=tFzIHZDT4uU)**
-
-Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire world should be thinking about Bitcoin. The old ...
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 186 • 💬 136 • ⏱️ 19:03 • 23h ago
-
----
-
-**[Bitcoin: This Is Why It’s Dying A Slow Death (Until This Date)](https://www.youtube.com/watch?v=HgPg9a3HDG4)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 11K • 👍 747 • 💬 267 • ⏱️ 29:33 • 13h ago
 
 ---
 
