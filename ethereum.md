@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T15:30:21.125746+00:00'
+updated: '2026-03-15T15:54:36.908716+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 15:30 UTC  
+**Last Updated:** March 15, 2026 at 15:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,114.92
+### $2,092.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +4.9%  
-**30d:** +0.4%  
-**90d:** -29.4%  
+**24h:** +0.8%  
+**7d:** +5.0%  
+**30d:** +0.5%  
+**90d:** -29.3%  
 **1y:** +11.0%  
 
 ---
@@ -86,7 +86,7 @@ Vitalik Buterin recently suggested that Ethereum might need to revisit the separ
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 5h ago
 
 ---
 
@@ -146,19 +146,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation sells 5,000 ether to Tom Lee's BitMine in $10.2 million deal](https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal)**
-
-The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
-
-CoinDesk • 21h ago
-
----
-
 **[Ethereum Foundation sells 5,000 ETH to Tom Lee's BitMine in $10 million OTC deal](https://www.theblock.co/post/393614/ethereum-foundation-sells-5000-eth-to-tom-lees-bitmine-in-10-million-otc-deal)**
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
 The Block • 21h ago
+
+---
+
+**[Ethereum Foundation sells 5,000 ether to Tom Lee's BitMine in $10.2 million deal](https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal)**
+
+The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
+
+CoinDesk • 21h ago
 
 ---
 
@@ -170,35 +170,19 @@ Yahoo Finance • 20h ago
 
 ---
 
-**[Better Cryptocurrency to Buy Today With $3,000 and Hold for 7 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/03/15/better-cryptocurrency-to-buy-today-with-3000-and-h/)**
+**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
 
-Most cryptocurrencies haven't survived seven years as of yet.
+XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
 
-The Motley Fool • 2h ago
-
----
-
-**[Why is Crypto Market Going Up Today: Bitcoin, Ethereum and XRP Prices Rally](https://www.tradingview.com/news/coinpedia:582f25f28094b:0-why-is-crypto-market-going-up-today-bitcoin-ethereum-and-xrp-prices-rally/)**
-
-Crypto is having one of its best days in weeks. Bitcoin has pushed above $73,000, Ethereum has cleared $2,180, and the total crypto market has added $90 billion in value in the past 15 hours alone. Here is what is actually driving it.The Numbers FirstThe Fear and Greed Index sits at 37, still in fe…
-
-TradingView • 2d ago
+Coinpaper • 1d ago
 
 ---
 
-**[Gareth Soloway Reveals Next Bull Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/gareth-soloway-reveals-next-bull-targets-for-bitcoin-ethereum-and-xrp/)**
+**[Prediction: Buying Ethereum Today Could Set You Up for Life](https://www.fool.com/investing/2026/03/15/prediction-buying-eth-today-could-set-you-up-for/)**
 
-Gareth Soloway, chief market strategist at VerifiedInvesting.com, is doubling down on his short-term bullish thesis for crypto, and the charts he is
+The world's second-most-valuable cryptocurrency has a bright future.
 
-Coinpedia Fintech News • 6h ago
-
----
-
-**[Ethereum Currently Undervalued – But Is It Time To Buy?](https://www.tradingview.com/news/newsbtc:0a1e7d6d0094b:0-ethereum-currently-undervalued-but-is-it-time-to-buy/)**
-
-According to the latest on-chain data, Ethereum appears to be entering a state of undervaluation, with the potential of rebounding to new highs. However, the question is — is it really time to buy ETH?ETH Could Drop Another 40% Before Bear Cycle EndsIn a new Quicktake post on the CryptoQuant platfo…
-
-TradingView • 4h ago
+The Motley Fool • 25m ago
 
 ---
 
@@ -206,7 +190,23 @@ TradingView • 4h ago
 
 DUBAI, United Arab Emirates, March  15, 2026  (GLOBE NEWSWIRE) -- Growth for Mutuum Finance (MUTM) has continued, with the project recently surpas...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Better Cryptocurrency to Buy Today With $3,000 and Hold for 7 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/03/15/better-cryptocurrency-to-buy-today-with-3000-and-h/)**
+
+Most cryptocurrencies haven't survived seven years as of yet.
+
+The Motley Fool • 3h ago
+
+---
+
+**[Ethereum Price Coils Near Key Resistance: A Breakout Could Be Explosive](https://www.tradingview.com/news/newsbtc:d0ef18bc9094b:0-ethereum-price-coils-near-key-resistance-a-breakout-could-be-explosive/)**
+
+Ethereum is tightening below a critical $2,149 resistance level, building pressure as bulls and bears jockey for control. A decisive breakout above this zone could trigger strong momentum, potentially sending the price toward the next major resistance near $2,750.A Test Of The Key $2,149 Resistance…
+
+TradingView • 12h ago
 
 ---
 
@@ -218,11 +218,11 @@ Polymarket • 1d ago
 
 ---
 
-**[BlackRock's staked Ethereum ETF records over $15.5 million volume on first day](https://www.theblock.co/post/393497/blackrock-staked-ethereum-etf-first-day)**
+**[New BlackRock Staked Ethereum Fund to Pay 82% of Rewards to Investors](https://finance.yahoo.com/news/blackrock-staked-ethereum-fund-pay-130051350.html)**
 
-Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
+BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
 
-The Block • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -286,7 +286,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 138 • 👍 10 • ⏱️ 19:10 • 15m ago
+👁️ 138 • 👍 10 • ⏱️ 19:10 • 39m ago
 
 ---
 
@@ -326,7 +326,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 25K • 👍 804 • 💬 64 • ⏱️ 19:58 • 2d ago
+👁️ 25K • 👍 804 • 💬 64 • ⏱️ 19:58 • 3d ago
 
 ---
 

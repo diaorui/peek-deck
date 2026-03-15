@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T15:30:21.128988+00:00'
+updated: '2026-03-15T15:54:36.912003+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 15:30 UTC  
+**Last Updated:** March 15, 2026 at 15:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-4h ago
+5h ago
 
 ---
 
@@ -84,23 +84,23 @@ Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot lear
 
 ---
 
-**[MEDICAL ROBOTS FOR THE HEALTH SECTOR](https://www.reddit.com/r/robotics/comments/1rtzh3h/medical_robots_for_the_health_sector/)**
-
-15h ago
-
----
-
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
 1d ago
 
 ---
 
-**[I built a local Rust validator for pre-execution ALLOW/DENY checks — does this fit anywhere in robotics?](https://www.reddit.com/r/robotics/comments/1rtw8l2/i_built_a_local_rust_validator_for_preexecution/)**
+**[Marc Raibert on Why Expectations in Robotics Are Over the Top](https://www.reddit.com/r/robotics/comments/1rswnzy/marc_raibert_on_why_expectations_in_robotics_are/)**
 
-I’ve been building a small Rust project called Reflex Engine SDK, and I’m trying to figure out whether it actually fits anywhere real in robotics or if I’m forcing the angle. The basic idea is pretty simple: an event or proposed action comes in, it gets checked against a local ruleset, it returns ALLOW or DENY, and it emits a replayable artifact showing what happened. I’m not talking about planning, perception, or SLAM. I’m thinking more along the lines of geofence, speed, altitude, or policy checks before something executes. The main thing I’ve learned so far is that the core evaluator seems fast enough to be interesting, and the bigger bottleneck was artifact persistence on the hot path rather than the rule check itself. Repo/demo: https://github.com/caminodynamics/reflex-engine-sdk⁠� My real question is whether something like this actually belongs anywhere in a robotics stack. Does it make sense as a pre-execution gate inside an autonomy stack, or as a local safety/policy layer at the edge, or is this basically unnecessary because existing systems already cover it better?
+Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
 
-17h ago
+1d ago
+
+---
+
+**[MEDICAL ROBOTS FOR THE HEALTH SECTOR](https://www.reddit.com/r/robotics/comments/1rtzh3h/medical_robots_for_the_health_sector/)**
+
+15h ago
 
 ---
 
@@ -108,19 +108,19 @@ I’ve been building a small Rust project called Reflex Engine SDK, and I’m tr
 
 ## Google News: "robotics"
 
+**[Humanoid robots get to work at German BMW factory [video]](https://electrek.co/2026/03/14/humanoid-robots-get-to-work-at-german-bmw-factory-video/)**
+
+After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
+
+Electrek • 16h ago
+
+---
+
 **[Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport](https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html)**
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
 CNBC • 1d ago
-
----
-
-**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
-
-The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
-
-Quanta Magazine • 2d ago
 
 ---
 
@@ -132,17 +132,9 @@ Popular Science • 1d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqc48oJjrDAlm1os-cCRwxExQeivJ3vkbKHU_BDIYDTCqe_eKr54GhbA&gaa_ts=69b6c647&gaa_sig=ZWRBpUfOvF5knF3gEPlBSsD3j_k3UBMm1h7ljReAt6c0mu9e-A4ryqHsm8EvxkbvAE3LX4c9ThC07ZSUK368oA%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqc1pVKBT57sweLpJS3zgRgesveuUSNcaw1VsAR6qFr8I8RWvMji86Ok&gaa_ts=69b6d9ab&gaa_sig=mVabZcvXNXGYkV6HiId0WZYX4KCovS05Qn6z8Z7kYQxYEyPCSGKfBABYW5bTul90NnxaG7oNTUqFjybhP-seqA%3D%3D)**
 
 WSJ • 5h ago
-
----
-
-**[Humanoid robots get to work at German BMW factory [video]](https://electrek.co/2026/03/14/humanoid-robots-get-to-work-at-german-bmw-factory-video/)**
-
-After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
-
-Electrek • 15h ago
 
 ---
 
@@ -151,6 +143,22 @@ Electrek • 15h ago
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
 NPR • 2d ago
+
+---
+
+**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
+
+Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
+
+13wham.com • 15h ago
+
+---
+
+**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
+
+The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
+
+Quanta Magazine • 2d ago
 
 ---
 
@@ -170,19 +178,15 @@ Futurism • 20h ago
 
 ---
 
-**[Pupils use Lego robots to solve engineering tasks](https://www.bbc.com/news/articles/cx2dzk8j71ko)**
+**[Lanesborough Elementary Robotics Team Wins Berkshire Title](https://www.iberkshires.com/story/82050/Lanesborough-Elementary-Robotics-Team-Wins-Berkshire-Title.html)**
 
-As part of a competition, they had to build robots them use them to complete missions on a game table.
+DALTON, Mass. – Lanesborough Elementary School Saturday continued its dynasty at the Berkshire Robotics Challenge at Wahconah Regional High School.
 
-BBC • 2d ago
+	 
 
----
+	Lanesborough’s...
 
-**[Kamen resigns from FIRST robotics in wake of Epstein ties](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire)**
-
-Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
-
-New Hampshire Public Radio • 3d ago
+iBerkshires.com • 5h ago
 
 ---
 
@@ -196,7 +200,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 46K • 👍 2K • 💬 212 • ⏱️ 49:45 • 20h ago
+👁️ 46K • 👍 2K • 💬 212 • ⏱️ 49:45 • 21h ago
 
 ---
 

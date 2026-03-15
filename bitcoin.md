@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T15:30:21.119571+00:00'
+updated: '2026-03-15T15:54:36.898007+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 15:30 UTC  
+**Last Updated:** March 15, 2026 at 15:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
+**24h:** +1.1%  
 **7d:** +4.5%  
-**30d:** +2.3%  
-**90d:** -18.5%  
-**1y:** -13.5%  
+**30d:** +2.4%  
+**90d:** -18.4%  
+**1y:** -13.4%  
 
 ---
 
@@ -79,7 +79,19 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-18h ago
+19h ago
+
+---
+
+**[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
+
+1h ago
+
+---
+
+**[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
+
+7h ago
 
 ---
 
@@ -91,29 +103,11 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 ---
 
-**[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
-
-7h ago
-
----
-
 **[What happens if bitcoin hits 1m usd?](https://www.reddit.com/r/Bitcoin/comments/1ru8eo1/what_happens_if_bitcoin_hits_1m_usd/)**
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 7h ago
-
----
-
-**[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 8h ago
-
----
-
-**[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
-
-1d ago
 
 ---
 
@@ -125,23 +119,31 @@ Holding satoshis in self custody is not just about getting "fabulously wealthy"'
 
 ---
 
+**[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 9h ago
+
+---
+
+**[Bitcoin psychology](https://www.reddit.com/r/Bitcoin/comments/1rug7vi/bitcoin_psychology/)**
+
+Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm already used to the roller coaster ride - but only in small amounts. I’m firmly convinced that now is the right time to invest a significant amount of money for the long term, provided you can hold onto it for a long time. But a little voice in the back of my head keeps telling me, “That’s unreasonable,” “That’s not enough diversification,” “Bitcoin could keep falling indefinitely,” and so on. Do you guys know what I mean? I’d bet that Bitcoin will be higher in the next 5–10 years than it is now. It would be silly not to jump in now, if you can afford it. So my question is: how do you calm that voice? Any experience?
+
+54m ago
+
+---
+
+**[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
+
+1d ago
+
+---
+
 **[Help me Bitcoin, you're my only hope](https://www.reddit.com/r/Bitcoin/comments/1rudrpf/help_me_bitcoin_youre_my_only_hope/)**
 
 The days have grown long, the nights longer, and my bones carry the weight of decades. I wander through memories like faded rooms, each one echoing with what I thought I’d build, what I thought I’d become. There’s a quiet question I carry now: a lifetime spent chasing, striving, hoping, and yet, when I look back, the shelves are bare, the gardens untended, the roads I thought I paved dissolved into dust and shadow. How did it all go so wrong Help me Bitcoin, you're my only hope
 
 2h ago
-
----
-
-**[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
-
-1d ago
-
----
-
-**[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
-
-1d ago
 
 ---
 
@@ -157,11 +159,11 @@ CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin investor offers Nevis residents $100 a month if libertarian city approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)**
+**[Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war](https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html)**
 
-Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
+ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-Financial Times • 2d ago
+CNBC • 1d ago
 
 ---
 
@@ -173,11 +175,11 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin is volatile; that doesn’t change where it’s headed](https://www.jpost.com/business-and-innovation/banking-and-finance/article-889974)**
+**[Better Buy Right Now With $1,500: Bitcoin vs. an Index Fund](https://www.fool.com/investing/2026/03/15/better-buy-right-now-with-1500-bitcoin-vs-an-index/)**
 
-Just as nations diversify their strategic reserves, Israel can explore how digital assets might play a role in the financial architecture of the future.
+There are strong arguments in favor of owning both of these assets.
 
-The Jerusalem Post • 3h ago
+The Motley Fool • 22m ago
 
 ---
 
@@ -189,17 +191,25 @@ CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war](https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html)**
+**[Bitcoin: Institutional interest provides buffer as BTC eyes $73,000 resistance](https://www.investing.com/news/cryptocurrency-news/bitcoin-institutional-interest-provides-buffer-as-btc-eyes-73000-resistance-4561528)**
 
-ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
-
-CNBC • 1d ago
+Investing.com • 11h ago
 
 ---
 
-**[Bitcoin: Institutional interest provides buffer as BTC eyes $73,000 resistance](https://www.investing.com/news/cryptocurrency-news/bitcoin-institutional-interest-provides-buffer-as-btc-eyes-73000-resistance-4561528)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773574800)**
 
-Investing.com • 10h ago
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 3h ago
+
+---
+
+**[Bitcoin Price Prediction: We Asked 5 AI Models if Bitcoin Will Hit $100K Again in 2026—Only One Said No](https://247wallst.com/investing/2026/03/15/bitcoin-price-prediction-we-asked-5-ai-models-if-bitcoin-will-hit-100k-again-in-2026-only-one-said-no/)**
+
+We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100K in 2026. Four said yes, and only one said no. Here's why.
+
+24/7 Wall St. • 3h ago
 
 ---
 
@@ -209,19 +219,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Hit a Major Milestone—Most Miners Won't Be Around for the Next One](https://decrypt.co/361137/bitcoin-major-milestone-miners)**
+**[Bitcoin investor offers Nevis residents $100 a month if libertarian city approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)**
 
-The 20 millionth Bitcoin was mined March 2026, leaving 1 million BTC to be issued as block rewards to miners in near-breakeven economics.
+Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
-Decrypt • 1d ago
-
----
-
-**[Iran war oil shock more likely to affect Bitcoin miners through BTC price than energy costs, analysts say](https://www.theblock.co/post/393531/iran-war-oil-shock-more-likely-to-affect-bitcoin-miners-through-btc-price-than-energy-costs-analysts-say)**
-
-Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
-
-The Block • 2d ago
+Financial Times • 2d ago
 
 ---
 
@@ -383,7 +385,7 @@ Looks like Bitcoin might have more of a correlation than we originally thought. 
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 365 • 💬 106 • ⏱️ 26:44 • 4h ago
+👁️ 2K • 👍 365 • 💬 106 • ⏱️ 26:44 • 5h ago
 
 ---
 
