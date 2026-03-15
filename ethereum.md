@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T02:32:07.619625+00:00'
+updated: '2026-03-15T05:06:41.708642+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 02:32 UTC  
+**Last Updated:** March 15, 2026 at 05:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,086.54
+### $2,097.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +5.0%  
-**30d:** +0.4%  
-**90d:** -29.3%  
-**1y:** +11.0%  
+**24h:** +1.2%  
+**7d:** +5.5%  
+**30d:** +0.9%  
+**90d:** -29.0%  
+**1y:** +11.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.77B
+**Market Cap:** $253.88B
 Rank #2
 
 **Circulating Supply:** 120,691,909 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.7%
+-57.5%
 
 **All-Time Low:** $0.43
-+483343.8%
++485748.0%
 
 ---
 
@@ -72,13 +72,21 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+1d ago
+
+---
+
+**[Daily General Discussion March 15, 2026](https://www.reddit.com/r/ethereum/comments/1ru5apg/daily_general_discussion_march_15_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+6m ago
 
 ---
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -86,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
 
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 21h ago
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 23h ago
 
 ---
 
@@ -94,7 +102,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 Ethereum Foundation (EF) wrote a constitution for the soul of the project. The new EF Mandate isn't just a corporate mission statement but a line in the sand for how Ethereum stays human in an increasingly automated world. The EF is calling its core philosophy CROPS. If a feature isn’t Censorship-resistant, Resilient, Open-source, Private, and Secure, it doesn't belong on ethereum . No trading sovereignty for convenience. Here are the main points: Stewardship, Not Ownership: The EF is explicitly saying they aren't the boss. They are temporary caretakers who eventually want to disappear. This is the ultimate decentralize or die commitment. The AI Shield: They see a future where AI and opaque algorithms run everything. Ethereum’s job is to be the Infinite Garden, a place where humans, not code or corporations, have the final say over their own lives. Immutable Values: By publishing this directly onto the blockchain, they’ve made their values as permanent as a transaction. You can’t edit the project's soul once it’s on-chain. This is a massive vibe check for the entire ecosystem. It’s a reminder that if we give up control for a slightly faster app, we’ve already lost the plot. Can a written mandate actually stop the slow creep of centralization, or is the pull of convenience just too strong? Let’s talk. 👇 Source
 
-19h ago
+22h ago
 
 ---
 
@@ -102,7 +110,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
 
-14h ago
+17h ago
 
 ---
 
@@ -124,7 +132,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -136,14 +144,6 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 ---
 
-**[Ethereal news weekly #15 | US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout](https://www.reddit.com/r/ethereum/comments/1rsnh3x/ethereal_news_weekly_15_us_doj_seeks_roman_storm/)**
-
-US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $1M max payout
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-15/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,53 +152,45 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
-The Block • 8h ago
+The Block • 10h ago
 
 ---
 
-**[Ethereum Foundation publishes mandate outlining its role as ‘one of many stewards’ of the network](https://www.theblock.co/post/393563/ethereum-foundation-mandate-role-one-of-many-stewards-network)**
+**[Tom Lee's BitMine Buys $10.2 Million in ETH Directly From Ethereum Foundation](https://decrypt.co/361162/tom-lees-bitmine-buys-10-million-ethereum-foundation)**
 
-The Ethereum Foundation mandate codifies Ethereum’s core “CROPS” principles: censorship resistance, open source, privacy and security.
+The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
 
-The Block • 1d ago
-
----
-
-**[Ethereum Foundation sells 5,000 ether to Tom Lee's BitMine in $10.2 million deal](https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal)**
-
-The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
-
-CoinDesk • 8h ago
+Decrypt • 9h ago
 
 ---
 
-**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
+**[Crypto News: Pepeto Announces Binance Level Exchange Update as Ethereum Price Prediction Maps Breakout to $8,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-as-ethereum-price-prediction-maps-breakout-to-8-000-1035930462)**
 
-XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
+Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
 
-Coinpaper • 19h ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1773513300)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
+markets.businessinsider.com • 2h ago
 
 ---
 
-**[BlackRock debuts staked ether ETF as demand grows for yield in crypto funds](https://www.coindesk.com/markets/2026/03/12/blackrock-debuts-staked-ether-etf-as-demand-grows-for-yield-in-crypto-funds)**
+**[Vitalik Buterin says Ethereum’s key use case is a ‘public bulletin board,’ not just smart contracts](https://www.coindesk.com/tech/2026/03/12/vitalik-buterin-says-ethereum-should-be-used-as-a-simple-digital-bulletin-board)**
 
-The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
+Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
 
 CoinDesk • 2d ago
 
 ---
 
-**[The Daily: Crypto whale loses almost $50M in DeFi swap, BlackRock's staked Ethereum ETF sees 'very solid' debut, and more](https://www.theblock.co/post/393565/the-daily-crypto-whale-loses-almost-50m-in-defi-swap-blackrocks-staked-ethereum-etf-sees-very-solid-debut-and-more)**
+**[Not XRP Or Ethereum: You Won’t Believe The Network With The Highest Number Of RWA Users](https://www.tradingview.com/news/newsbtc:7ba3f76a1094b:0-not-xrp-or-ethereum-you-won-t-believe-the-network-with-the-highest-number-of-rwa-users/)**
 
-The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
+
+TradingView • 1d ago
+
+---
+
+**[BlackRock's staked Ethereum ETF records over $15.5 million volume on first day](https://www.theblock.co/post/393497/blackrock-staked-ethereum-etf-first-day)**
+
+Bloomberg Analyst James Seyffart noted that ETHB had a 'very solid' first day, where it launched with over $100 million in assets.
 
 The Block • 1d ago
 
@@ -212,19 +204,27 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[$61.9M Ethereum Buy Sparks Speculation – Mystery Whale Turns $1M Profit Overnight](https://www.tradingview.com/news/newsbtc:fa19224ec094b:0-61-9m-ethereum-buy-sparks-speculation-mystery-whale-turns-1m-profit-overnight/)**
+**[BlackRock debuts staked ether ETF as demand grows for yield in crypto funds](https://www.coindesk.com/markets/2026/03/12/blackrock-debuts-staked-ether-etf-as-demand-grows-for-yield-in-crypto-funds)**
 
-Ethereum is attempting to reclaim the $2,100 level as the broader cryptocurrency market experiences a modest wave of relief after weeks of volatility and sideways trading. While price action remains fragile, recent on-chain data suggests that large investors may be beginning to position themselves…
+The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
 
-TradingView • 23h ago
+CoinDesk • 2d ago
 
 ---
 
-**[New Crypto: Pepeto DeFi Exchange Update Arrives and Ethereum Price Shows Strength](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-defi-exchange-update-arrives-and-ethereum-price-shows-strength-1035930412)**
+**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
 
-Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a significant update to its DeFi exchange infrastructure as the Ethereum ...
+XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
 
-markets.businessinsider.com • 4h ago
+Coinpaper • 21h ago
+
+---
+
+**[Ethereum Foundation publishes ‘part manifesto, part constitution’ for network](https://ambcrypto.com/ethereum-foundation-publishes-part-manifesto-part-constitution-for-network/)**
+
+Ethereum Foundation has unveiled a 'EF Mandate', a new strategic roadmap and guiding principles to ensure long-term user freedom...
+
+AMBCrypto • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 161 • 💬 46 • ⏱️ 12:50 • 15h ago
+👁️ 3K • 👍 170 • 💬 47 • ⏱️ 12:50 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 295 • ⏱️ 13:31 • 1d ago
+👁️ 40K • 👍 2K • 💬 298 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -258,27 +258,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 94 • 💬 90 • ⏱️ 9:05 • 12h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=D0pMvb5nAtc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 104 • 💬 3 • ⏱️ 4:26 • 6h ago
-
----
-
-**[BITCOIN: It&#39;s Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AbKLYQby2dk)**
-
-BITCOIN: It's Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 110 • 💬 22 • ⏱️ 15:38 • 2h ago
+👁️ 2K • 👍 103 • 💬 74 • ⏱️ 9:05 • 15h ago
 
 ---
 
@@ -288,7 +268,17 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 3K • 👍 267 • 💬 59 • ⏱️ 22:03 • 3h ago
+👁️ 4K • 👍 352 • 💬 71 • ⏱️ 22:03 • 6h ago
+
+---
+
+**[BITCOIN: It&#39;s Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AbKLYQby2dk)**
+
+BITCOIN: It's Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 160 • 💬 117 • ⏱️ 15:38 • 4h ago
 
 ---
 
@@ -298,7 +288,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 789 • 💬 58 • ⏱️ 19:58 • 2d ago
+👁️ 24K • 👍 793 • 💬 58 • ⏱️ 19:58 • 2d ago
 
 ---
 
@@ -308,27 +298,37 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 208 • 👍 24 • 💬 3 • ⏱️ 6:36 • 10h ago
+👁️ 229 • 👍 25 • 💬 3 • ⏱️ 6:36 • 13h ago
 
 ---
 
-**[IT BEGINS......](https://www.youtube.com/watch?v=raPxy_pfOGk)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=aIxP7VK_3Bw)**
 
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 The Cryptoviser
+📺 Crypto Gyan
 
-👁️ 647 • 👍 63 • 💬 9 • ⏱️ 18:10 • 8h ago
+👁️ 288 • 👍 46 • ⏱️ 5:26 • 1h ago
 
 ---
 
-**[BlackRock&#39;s Robert Mitchnick on the launch of the firm&#39;s staked ether ETF](https://www.youtube.com/watch?v=26lG23eyt-k)**
+**[The BEST Prices to BUY Ethereum in 2026!🚨 (ETH BUY TARGETS EXPLAINED)](https://www.youtube.com/watch?v=AR3d1QmXfE8)**
 
-Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of the ETHB staked ether ETF.
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 CNBC Television
+📺 Cilinix Crypto
 
-👁️ 6K • 👍 84 • 💬 13 • ⏱️ 7:47 • 2d ago
+👁️ 395 • 👍 25 • 💬 2 • ⏱️ 6:31 • 18h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=D0pMvb5nAtc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 114 • 💬 3 • ⏱️ 4:26 • 8h ago
 
 ---
 

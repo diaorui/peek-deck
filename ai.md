@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-15T02:32:07.605425+00:00'
+updated: '2026-03-15T05:06:41.694012+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 15, 2026 at 02:32 UTC  
+**Last Updated:** March 15, 2026 at 05:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-13h ago
+16h ago
 
 ---
 
@@ -49,7 +49,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 Hello everyone So I'm just struggling a lot with the sense of meaning and ethics and stuff in the growing world of AI. I think a lot of people are - people have trained their whole lives as journalists or accountants or lawyers and will be rendered obsolete overnight. I thought I was relatively safe as like a musician but I saw a video of an AI woman playing guitar and it was basically impossible to tell that it was AI [(here is a Youtube video about it featuring clips])(https://youtu.be/L9f-hnyAhsQ?si=IxxHXEiLgfWnnBes&t=89) other than some obvious errors. But the point is the inflexions like the wrist or arm or shoulder tensing at the correct moment as someone who's played guitar for years that's literally what guitarists do. I don't know identity, meaning, purpose. Apparently we'll basically be unable to tell within like 5-10 years 20 years if not sooner if a streamer/long form content creator is AI or not will just be impossible to tell. You won't be able to trust basically any media that's not from a specific verified source (even then..?) like Youtube generally will be completely useless once AI political media gets flooding like fake interviews of celebrities/politicians that are impossible to tell if they're AI or not Like what are we even doing here regarding this? I just don't know what to do with my life. What if humanity ultimately merges/forms with AI permanently like Elon Musk's neuralink, what if there are AI robots wondering around who are impossible to tell whether they're human beings or not If we merge with AI all human defects of character like idk anguish anxiety you'll just know basically everything all of the time. Will humans laugh cry fall in love in 200 years time if they're fused with AI..? What of religion ethics spirituality, much of historical morality/religion is based on the idea that humans are finite fallible and make mistakes but won't AI advancements just render all of this not the case? I don't know Any thoughts? What do you make about this, how are you accordingly living your life..? Thank you for any responses
 
-1h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hello everyone So I'm just struggling a lot with the sense of meaning and ethics
 
 Integrated an evolutionary database to Karpathy's autoresearch project that replaces the simple tsv file based logging in the original project. Evolutionary algorithms have shown to be a powerful tool for autonomously discovering optimal solutions to problems with large search spaces. Famously, Google DeepMind's AlphaEvolve system uses evolutionary algorithms to discover state of the art matrix multiplication algorithms. The implementation of the evolutionary database itself is based heavily on the implementation in OpenEvolve. Would love thoughts and suggestions from the community. Check it out: https://github.com/hgarud/autoresearch
 
-7h ago
+9h ago
 
 ---
 
@@ -65,15 +65,7 @@ Integrated an evolutionary database to Karpathy's autoresearch project that repl
 
 This week's round of drm-misc-next patches bring a few improvements to the AMDXDNA accelerator driver used for supporting the Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 7h ago
-
----
-
-**[What is the best laptop for a mechanical engineering student who wants to get into AI, local llms, IT, networking, and linux?](https://www.reddit.com/r/artificial/comments/1rtw3mv/what_is_the_best_laptop_for_a_mechanical/)**
-
-As the title suggests, I am double majoring in mathematics and mechanical engineering. Apart from my studies in those core subjects, I plan to learn about local llm’s and AI in general, about IT, networking, and Linux. I will obviously be getting in CAD and some light coding in the future. Something to consider is that I have a windows desktop with a 4080 super gpu, a 5950x cpu, and 32gb of ddr4 ram. I will upgrade to a 5090 the second I can get a hold of one at MSRP (pray for me to get one lol). Given this, what laptop would you recommended? I want something that will help me with everything I mentioned above, but also with the caveat that I already have a decent windows based PC at home. The only issue I see with everything is my interest in learning about local llms and AI. Learning about local llms will require lots of vram, which windows laptops won’t have much of. However, MacBook pros do make local llms viable given apples integrated memory design. But if I go with apple, I can beef up my memory size and run decently sized model. However, I run into the issue that most engineering software isn’t compatible or optimized for mac OS. So thats my dilemma. The right windows laptop will do everything well except local llms. And the right mac will do most things well, except engineering things. Regardless of what I choose for my laptop, I always have a beefy windows PC at home to do whatever I want without issue. So I guess given all this information plus the filled questionnaire below, what should I get? LAPTOP QUESTIONNAIRE 1) Total budget: Max is $2500 , although I could potentially push it higher if needed. 2) Are you open to refurbs/used? Depends, refurbs are a no unless it’s a refurb macbook that comes straight from apple themselves. Used is an interesting option I’d consider, but new is ideal. 3) How would you prioritize form factor (ultrabook, 2-in-1, etc.), build quality, performance, and battery life? I want something durable, good battery (replaceable if possible, and is capable of growing and not slowing my progress down my educational path. 4) How important is weight and thinness to you? Couldn’t care less about either. 5) Do you have a preferred screen size? If indifferent, put N/A. As long as it isn’t tiny, im happy. 15-16in is nice. 6) Are you doing any CAD/video editing/photo editing/gaming? List which programs/games you desire to run. I’ll be doing CAD work in the future obviously. No real need for editing or gaming. 7) Any specific requirements such as good keyboard, reliable build quality, touch-screen, finger-print reader, optical drive or good input devices (keyboard/touchpad)? Again, something durable and reliable. While I would love a numberpad, it’s not necessary.
-
-4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 10h ago
 
 ---
 
@@ -81,7 +73,7 @@ As the title suggests, I am double majoring in mathematics and mechanical engine
 
 Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
 
-🔗 [substack.com](https://substack.com/home/post/p-190322208) • 9h ago
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 11h ago
 
 ---
 
@@ -93,7 +85,15 @@ AI Product Recommendation is a system that uses mathematical models to predict y
 Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
 Your responses are anonymous and will be used for academic research only.
 
-🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 9h ago
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 11h ago
+
+---
+
+**[What is the best laptop for a mechanical engineering student who wants to get into AI, local llms, IT, networking, and linux?](https://www.reddit.com/r/artificial/comments/1rtw3mv/what_is_the_best_laptop_for_a_mechanical/)**
+
+As the title suggests, I am double majoring in mathematics and mechanical engineering. Apart from my studies in those core subjects, I plan to learn about local llm’s and AI in general, about IT, networking, and Linux. I will obviously be getting in CAD and some light coding in the future. Something to consider is that I have a windows desktop with a 4080 super gpu, a 5950x cpu, and 32gb of ddr4 ram. I will upgrade to a 5090 the second I can get a hold of one at MSRP (pray for me to get one lol). Given this, what laptop would you recommended? I want something that will help me with everything I mentioned above, but also with the caveat that I already have a decent windows based PC at home. The only issue I see with everything is my interest in learning about local llms and AI. Learning about local llms will require lots of vram, which windows laptops won’t have much of. However, MacBook pros do make local llms viable given apples integrated memory design. But if I go with apple, I can beef up my memory size and run decently sized model. However, I run into the issue that most engineering software isn’t compatible or optimized for mac OS. So thats my dilemma. The right windows laptop will do everything well except local llms. And the right mac will do most things well, except engineering things. Regardless of what I choose for my laptop, I always have a beefy windows PC at home to do whatever I want without issue. So I guess given all this information plus the filled questionnaire below, what should I get? LAPTOP QUESTIONNAIRE 1) Total budget: Max is $2500 , although I could potentially push it higher if needed. 2) Are you open to refurbs/used? Depends, refurbs are a no unless it’s a refurb macbook that comes straight from apple themselves. Used is an interesting option I’d consider, but new is ideal. 3) How would you prioritize form factor (ultrabook, 2-in-1, etc.), build quality, performance, and battery life? I want something durable, good battery (replaceable if possible, and is capable of growing and not slowing my progress down my educational path. 4) How important is weight and thinness to you? Couldn’t care less about either. 5) Do you have a preferred screen size? If indifferent, put N/A. As long as it isn’t tiny, im happy. 15-16in is nice. 6) Are you doing any CAD/video editing/photo editing/gaming? List which programs/games you desire to run. I’ll be doing CAD work in the future obviously. No real need for editing or gaming. 7) Any specific requirements such as good keyboard, reliable build quality, touch-screen, finger-print reader, optical drive or good input devices (keyboard/touchpad)? Again, something durable and reliable. While I would love a numberpad, it’s not necessary.
+
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ The standoff between Anthropic and the Pentagon has forced the tech industry to 
 
 I was reading about the ongoing debate around AI consciousness, and it made me think about how easily our perception can change when technology becomes more sophisticated. From what researchers explain, current AI models aren’t conscious. They don’t have subjective experiences, biological grounding, or internal sensations. They mainly work by recognizing patterns in huge datasets and predicting the most likely response. But here’s the interesting part. As these systems become better at conversation, reasoning, and context, they can feel surprisingly human to interact with. Sometimes so much that people start attributing emotions or awareness to them. That raises a few questions that seem more philosophical than technical: • Should AI systems be designed to avoid appearing sentient? • Should companies clearly remind users that these systems are not conscious? • And as AI integrates vision, speech, memory, and planning, will that perception gap grow even more? Maybe the real issue isn’t whether AI is conscious today. Maybe it’s how humans interpret increasingly intelligent systems. Curious to hear what people here think: Do you believe AI could ever become conscious, or will it always remain a very advanced simulation?
 
-6h ago
+9h ago
 
 ---
 
@@ -135,15 +135,15 @@ Reuters • 1d ago
 
 Meta layoffs could cut 20% of workforce as tech giant weighs job reductions to offset rising artificial intelligence infrastructure costs.
 
-Fox Business • 18h ago
+Fox Business • 21h ago
 
 ---
 
-**[Meta reportedly plans sweeping layoffs as AI costs increase](https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai)**
+**[Meta’s new AI team has 50 engineers per boss. What could go wrong?](https://fortune.com/2026/03/14/metas-ai-team-50-flat-management-structure/)**
 
-Sources tell Reuters layoffs could affect 20% or more of company as plans reflect broader tensions within big tech
+The management structure is an extreme test of the “flat” organizational model that more U.S. companies are embracing.
 
-The Guardian • 1d ago
+Fortune • 17h ago
 
 ---
 
@@ -155,11 +155,11 @@ The New York Times • 1d ago
 
 ---
 
-**[Iran's strikes on data centres show vulnerability of AI expansion](https://www.abc.net.au/news/2026-03-15/iran-war-ai-technology-data-centres/106443004)**
+**[Iran targets big tech and AI with strikes on data centres](https://www.abc.net.au/news/2026-03-15/iran-war-ai-technology-data-centres/106443004)**
 
 Iran struck three data centres in the Middle East, and has signalled that technology infrastructure will continue to be in the firing line.
 
-ABC News • 7h ago
+ABC News • 10h ago
 
 ---
 
@@ -167,13 +167,7 @@ ABC News • 7h ago
 
 "So there's a lot of scenarios here, a lot of really frightening scenarios about where escalation could lead," Sacks said.
 
-Fortune • 8h ago
-
----
-
-**[US Mayors Push Back Against Data Center Boom As AI Backlash Grows](https://www.barrons.com/articles/us-mayors-push-back-against-data-center-boom-as-ai-backlash-grows-70e897ad?gaa_at=eafs&gaa_n=AWEtsqc3XshlLsicBOv6iCyZ6E17LaaL0wFaQ6wBLQWtxavuNK5ACqGwL5tq&gaa_ts=69b61d90&gaa_sig=AYJR6GVoEKhVxK_bU2_MB01EzrtocFcr0j3Ix-NBVr6Gx13slOlQ9w1eSDcggQ8fmJ71pVJowHjCyvTnXyzdkQ%3D%3D)**
-
-Barron's • 1h ago
+Fortune • 11h ago
 
 ---
 
@@ -181,21 +175,29 @@ Barron's • 1h ago
 
 First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable people
 
-The Guardian • 15h ago
+The Guardian • 18h ago
 
 ---
 
-**[MGB researchers create AI models to detect domestic abuse in patients](https://www.bostonglobe.com/2026/03/14/business/mgb-ai-domestic-abuse-patients/)**
+**[AI promised supreme productivity, but it’s actually straining workloads for employees—time spent emailing has doubled, and focused work sessions fell by 9%](https://fortune.com/2026/03/13/ai-isnt-reducing-workloads-its-straining-employees-time-spent-emailing-doubled-deep-focus-work-fell/)**
 
-Doctors at Mass General Brigham published a study on Friday showing that artificial intelligence tools can help predict intimate partner violence.
+Workers who use AI are spending up to 346% more time on their daily tasks, from messaging to business management: “The data is unambiguous: AI does not reduce workloads.”
 
-The Boston Globe • 15h ago
+Fortune • 1d ago
 
 ---
 
 **[Blue books make a comeback at colleges in the AI era. Why not "chisels," critic mocks](https://www.axios.com/2026/03/14/ai-blue-books-colleges-jobs)**
 
-Axios • 13h ago
+Axios • 16h ago
+
+---
+
+**[Perplexity AI CEO Aravind Srinivas agrees that Computer Science is gradually returning to the domain of…](https://timesofindia.indiatimes.com/technology/tech-news/perplexity-ai-ceo-aravind-srinivas-agrees-that-computer-science-is-gradually-returning-to-the-domain-of/articleshow/129578644.cms)**
+
+Tech News News: Aravind Srinivas, CEO of Perplexity AI, added his weight to a growing conversation about what AI is doing to software engineering. On March 13, he quo.
+
+The Times of India • 11h ago
 
 ---
 
@@ -207,7 +209,7 @@ Axios • 13h ago
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 1404 • 💬 339 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 1412 • 💬 339 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -215,7 +217,7 @@ Detect your hardware and find out which AI models you can run locally. GPU, CPU,
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 744 • 💬 384 • 2d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 745 • 💬 384 • 2d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -223,13 +225,13 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 496 • 💬 781 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 500 • 💬 787 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 353 • 💬 471 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 358 • 💬 472 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -237,7 +239,7 @@ Tesla and SpaceX managers sent in to review work as billionaire’s start-up str
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-⬆️ 235 • 💬 373 • 2d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+⬆️ 236 • 💬 373 • 2d ago • [blog.lmorchard.com](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 
 ---
 
@@ -261,7 +263,7 @@ Open-source credential vault, give your AI agents access to services without exp
 
 I injected three fabricated documents into a ChromaDB knowledge base. Here’s what the LLM said next.
 
-⬆️ 154 • 💬 65 • 2d ago • [Amine Raji, PhD](https://aminrj.com/posts/rag-document-poisoning/)
+⬆️ 154 • 💬 49 • 2d ago • [Amine Raji, PhD](https://aminrj.com/posts/rag-document-poisoning/)
 
 ---
 
@@ -285,43 +287,23 @@ AI should not replace people at Atlassian, says CEO Cannon-Brookes. But they sti
 
 ## YouTube Videos: "ai"
 
-**[Idiots Laugh At Unusual AI Videos](https://www.youtube.com/watch?v=rwq9UEf1qp8)**
-
-Get your MyHeritage DNA test kit & 30 day free trial for just $29 using my link https://bit.ly/DanDingle or use coupon code DAND!
-
-📺 Dan Dingle
-
-👁️ 45K • 👍 4K • 💬 426 • ⏱️ 26:34 • 14h ago
-
----
-
-**[Palantir CTO: &quot;You&#39;re Being Lied to About AI&quot; | Official Preview](https://www.youtube.com/watch?v=gTP9_WTqFWE)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join In this episode of ...
-
-📺 Shawn Ryan Show
-
-👁️ 67K • 👍 2K • 💬 440 • ⏱️ 3:28 • 1d ago
-
----
-
 **[After 2,200 Years, AI Finally Decoded the Rosetta Stone — And What It Reveals Is Not Good...](https://www.youtube.com/watch?v=mlQWZsq9QbQ)**
 
 After 2200 Years, AI Finally Decoded the Rosetta Stone — And What It Reveals Is Not Good... For more than two thousand years, ...
 
 📺 Mystery Decoded
 
-👁️ 4K • 👍 71 • 💬 9 • ⏱️ 24:21 • 13h ago
+👁️ 5K • 👍 74 • 💬 10 • ⏱️ 24:21 • 16h ago
 
 ---
 
-**[AI - THEY ARE WATCHING US](https://www.youtube.com/watch?v=1_n8cUuKCFU)**
+**[China’s New DuClaw AI Just Made OpenClaw Instant and Unstoppable](https://www.youtube.com/watch?v=sQRLPwcK-tU)**
 
-AI - THEY ARE WATCHING US: The Terrifying Reality EXPOSED! Irhose uncovers how AI is NO longer just a tool—it's an ...
+China just released DuClaw, a new platform that lets anyone run OpenClaw AI agents instantly from a web browser without ...
 
-📺 Femi Lazarus
+📺 AI Revolution
 
-👁️ 15K • 👍 2K • 💬 138 • ⏱️ 1:03:38 • 17h ago
+👁️ 16K • 👍 522 • 💬 61 • ⏱️ 14:20 • 5h ago
 
 ---
 
@@ -331,7 +313,17 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 67K • 👍 3K • 💬 198 • ⏱️ 33:33 • 1d ago
+👁️ 69K • 👍 3K • 💬 201 • ⏱️ 33:33 • 1d ago
+
+---
+
+**[Palantir CTO: &quot;You&#39;re Being Lied to About AI&quot; | Official Preview](https://www.youtube.com/watch?v=gTP9_WTqFWE)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join In this episode of ...
+
+📺 Shawn Ryan Show
+
+👁️ 71K • 👍 2K • 💬 457 • ⏱️ 3:28 • 1d ago
 
 ---
 
@@ -341,7 +333,7 @@ Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and
 
 📺 The AI Nexus
 
-👁️ 6K • 👍 262 • 💬 20 • ⏱️ 18:24 • 1d ago
+👁️ 7K • 👍 277 • 💬 22 • ⏱️ 18:24 • 1d ago
 
 ---
 
@@ -351,7 +343,17 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 163K • 👍 3K • 💬 908 • ⏱️ 15:01 • 2d ago
+👁️ 168K • 👍 3K • 💬 932 • ⏱️ 15:01 • 2d ago
+
+---
+
+**[Generate AI Images &amp; Videos With ZERO Restrictions (Free &amp; No Sign-Up!)](https://www.youtube.com/watch?v=JeNFRC5cEYo)**
+
+Join my discord:https://discord.gg/H49xPGZExP Use fanvue here: ...
+
+📺 Manny ai
+
+👁️ 6K • 👍 364 • 💬 19 • ⏱️ 14:24 • 17h ago
 
 ---
 
@@ -361,17 +363,7 @@ Burger King recently announced their new AI headsets, and you can already smell 
 
 📺 The Food Theorists
 
-👁️ 183K • 👍 10K • 💬 287 • ⏱️ 1:12 • 2d ago
-
----
-
-**[Elon Musk Launches “Macrohard” AI System To Challenge Software Giants Like Microsoft](https://www.youtube.com/watch?v=lagu9IllZz0)**
-
-Elon Musk has revealed a new AI project called “Macrohard” or “Digital Optimus,” developed by Tesla and xAI. The system aims to ...
-
-📺 Mint
-
-👁️ 26K • 👍 310 • 💬 70 • ⏱️ 3:36 • 1d ago
+👁️ 185K • 👍 10K • 💬 287 • ⏱️ 1:12 • 2d ago
 
 ---
 
@@ -381,7 +373,17 @@ Access ALL AI Video Generators in Higgsfield https://higgsfield.ai?fpr=ai&fp_sid
 
 📺 Isa does AI
 
-👁️ 8K • 💬 2 • ⏱️ 11:35 • 11h ago
+👁️ 9K • 💬 2 • ⏱️ 11:35 • 14h ago
+
+---
+
+**[The Man Behind Every Google AI Tool Showed Me What&#39;s Coming Next](https://www.youtube.com/watch?v=gNA2fQ2KAIs)**
+
+Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://link.stayingahead.ai/YT5 I ...
+
+📺 Vaibhav Sisinty
+
+👁️ 115K • 👍 4K • 💬 123 • ⏱️ 31:35 • 2d ago
 
 ---
 
@@ -397,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 58,809 • ❤️ 648 • 7d ago
+⬇️ 58,809 • ❤️ 656 • 7d ago
 
 ---
 
@@ -409,7 +411,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 3,964 • ❤️ 419 • 3d ago
+⬇️ 3,964 • ❤️ 423 • 3d ago
 
 ---
 
@@ -421,7 +423,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 500,610 • ❤️ 608 • 9d ago
+⬇️ 500,610 • ❤️ 611 • 9d ago
 
 ---
 
@@ -445,7 +447,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 202,003 • ❤️ 426 • 11d ago
+⬇️ 202,003 • ❤️ 427 • 11d ago
 
 ---
 
@@ -457,7 +459,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 13,104 • ❤️ 191 • 11h ago
+⬇️ 13,104 • ❤️ 192 • 14h ago
 
 ---
 
@@ -481,7 +483,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 2,079 • ❤️ 170 • 1d ago
+⬇️ 2,079 • ❤️ 177 • 2d ago
 
 ---
 
@@ -519,7 +521,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 9 • 💬 0 • ⭐ 34,524 • 13mo ago
+▲ 10 • 💬 0 • ⭐ 34,524 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -586,7 +588,7 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 46 • 💬 1 • ⭐ 73,076 • 30mo ago
+▲ 46 • 💬 1 • ⭐ 73,109 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -601,7 +603,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 155 • 💬 19 • ⭐ 55,802 • 12mo ago
+▲ 155 • 💬 19 • ⭐ 55,824 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -633,17 +635,15 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 ---
 
-**[Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights](https://huggingface.co/papers/2603.12228)**
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
-*Yulu Gan, Phillip Isola*
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
-🏢 Massachusetts Institute of Technology
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-Pretraining creates a parameter distribution where task-specific experts become more densely populated in large models, enabling effective ensemble methods for post-training adaptation.
+▲ 22 • 💬 1 • ⭐ 32,080 • 14mo ago
 
-▲ 3 • 💬 2 • ⭐ 83 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.12228) • [💻 code](https://github.com/sunrainyg/RandOpt) • [🔗 project](https://thickets.mit.edu)
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -657,7 +657,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 34.3k • 🔱 4.6k • 3d ago
+⭐ 34.5k • 🔱 4.7k • 3d ago
 
 ---
 
@@ -667,7 +667,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.3k • 🔱 925 • 1d ago
+⭐ 20.3k • 🔱 930 • 1d ago
 
 ---
 
@@ -677,7 +677,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.5k • 🔱 1.4k • 11h ago
+⭐ 11.5k • 🔱 1.4k • 13h ago
 
 ---
 
@@ -687,7 +687,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 9.2k • 🔱 822 • 9d ago
+⭐ 9.3k • 🔱 826 • 9d ago
 
 ---
 
@@ -697,7 +697,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.1k • 🔱 660 • 1d ago
+⭐ 9.2k • 🔱 662 • 1d ago
 
 ---
 
@@ -717,7 +717,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 7.1k • 🔱 317 • 10h ago
+⭐ 7.1k • 🔱 318 • 13h ago
 
 ---
 
@@ -727,7 +727,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 746 • 6h ago
+⭐ 6.3k • 🔱 747 • 9h ago
 
 ---
 
@@ -737,7 +737,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 669 • 7h ago
+⭐ 3.4k • 🔱 669 • 10h ago
 
 ---
 

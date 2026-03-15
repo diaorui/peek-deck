@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T02:32:07.613736+00:00'
+updated: '2026-03-15T05:06:41.702611+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 02:32 UTC  
+**Last Updated:** March 15, 2026 at 05:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,238.88
+### $71,499.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +4.1%  
-**30d:** +1.9%  
-**90d:** -18.7%  
-**1y:** -13.8%  
+**24h:** +1.2%  
+**7d:** +4.6%  
+**30d:** +2.4%  
+**90d:** -18.4%  
+**1y:** -13.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1425.85B
+**Market Cap:** $1431.11B
 Rank #1
 
-**Circulating Supply:** 20,002,190 BTC
+**Circulating Supply:** 20,002,203 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.5%
+-43.3%
 
 **All-Time Low:** $67.81
-+105017.2%
++105371.2%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-5h ago
+8h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-12h ago
+14h ago
 
 ---
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-14h ago
+17h ago
 
 ---
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -105,13 +105,13 @@ Rank #1
 
 Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
 
-6h ago
+8h ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I
 
 When Fear & Greed hits extreme fear, that's historically when you want to be accumulating. Everyone here knows this... But I've been thinking about what that same signal does to someone in their first bear market. They see "EXTREME FEAR" and their brain processes it as danger, not discount. Their emotional response to it triggers the opposite of what's useful. It's the same problem with price charts going down. Experienced holders see opportunity. Newcomers see a reason to leave. Is the solution better financial education? Better framing? Or is Fear & Greed just fundamentally a tool for people who already don't need it?
 
-3h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ When Fear & Greed hits extreme fear, that's historically when you want to be acc
 
 hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 and i know it's kinda arbitrary but whatever, it gives me something to work toward and actually makes me excited when we see red days lol currently doing $275 weekly buys and lowkey hoping we stay in this range for a while so i can keep stacking at decent prices before things potentially moon again curious what strategies you all are running? any tweaks you'd suggest to my approach or different ways to think about accumulating? always down to hear how other people are playing the long game
 
-2h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 a
 
 A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged themselves by demanding ransom in Bitcoin. Other
 
-🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 7h ago
+🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 10h ago
 
 ---
 
@@ -143,7 +143,7 @@ A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged 
 
 I'm trying to sign a message with a specific Native SegWit (P2WPKH, bc1...) address on my Coldcard, fully air-gapped via microSD only (no USB/NFC/etc). When I use Sign Text File (under Advanced/Tools & File Management) Coldcard always signs with the key at m/44'/0'/0'/0/0 (the first Legacy (1...) address) regardless of which wallet format is loaded. This is confirmed by the on-screen message Coldcard displays before signing. My funded address is a Native SegWit bc1... address and I need the signature to correspond to that specific address for an audit proof of ownership requirement. Is there a way to direct Coldcard's Sign Text File to sign with a specific address or derivation path? Is there an alternative air-gapped message signing flow (microSD only) that produces a signature verifiable against a specific bc1... address? Is this behaviour documented anywhere? fyi, running Coldcard Mk4 firmware 5.5.0, Electrum 4.7.0. Update: I found a workable solution using Sparrow Wallet instead of Electrum. Sparrow's airgapped signing flow (Sign by File / Load Signed File) creates an intermediate file that specifies the exact derivation path and script type, which Coldcard uses to sign with the correct bc1... address. A solution with electrum would still be useful, both to me and maybe others.
 
-4h ago
+6h ago
 
 ---
 
@@ -155,7 +155,7 @@ I'm trying to sign a message with a specific Native SegWit (P2WPKH, bc1...) addr
 
 The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
 
-CoinDesk • 12h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -163,31 +163,7 @@ CoinDesk • 12h ago
 
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
-Financial Times • 1d ago
-
----
-
-**[New Crypto: Pepeto Announces Ecosystem Expansion as Bitcoin Price Targets $1M Amid Dogecoin and Elon Musk News](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-ecosystem-expansion-as-bitcoin-price-targets-1m-amid-dogecoin-and-elon-musk-news-1035930455)**
-
-Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a full ecosystem expansion covering its DeFi exchange, cross chain bridge...
-
-markets.businessinsider.com • 2h ago
-
----
-
-**[Crypto News: Pepeto Announcement On The Cross Chain Bridge Update And The Bitcoin Price Target](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announcement-on-the-cross-chain-bridge-update-and-the-bitcoin-price-target-1035930423)**
-
-Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major update to its cross chain bridge, expanding zero cost token routi...
-
-markets.businessinsider.com • 3h ago
-
----
-
-**[Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war](https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html)**
-
-ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
-
-CNBC • 11h ago
+Financial Times • 2d ago
 
 ---
 
@@ -199,15 +175,23 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773539400)**
+**[Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war](https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-Polymarket • 2h ago
+CNBC • 14h ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqfealbaehbS9kZHcZAIQBF13hWKn_Df3x_0TznUOHHJVVpOoSLbgGLk&gaa_ts=69b61d91&gaa_sig=wF6CDKlJDUrAjkq2KgIvrJU5JcyJGt-jPE4LuYbPCGmaaOCRn4qZsq3b-eTX6Zchys_uOnhFS7q_dbYN3VJHjw%3D%3D)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773535800)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
+
+---
+
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqdw0n9N_Y4C_tJmbuAV8s0Yd9flGYDDZj44P5qrnixCZ2epZsTabzCZ&gaa_ts=69b641cf&gaa_sig=4LM4ZCZpQe_nUEkz-a5RJ1vHV9aDdB22cW5kPiOYI1yYLYrecW2CkFGTiBfAtfEqBx9ACO0DvoJFEcBevWUiGA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -224,6 +208,22 @@ Bloomberg.com • 1d ago
 The cryptocurrency has outperformed gold, the U.S. dollar, and the S&P 500 since the initial strikes on Iran.
 
 Investopedia • 1d ago
+
+---
+
+**[On-Chain Data Shows Why Bitcoin’s Next Stop Could Be At $82K](https://www.tradingview.com/news/newsbtc:0c254508d094b:0-on-chain-data-shows-why-bitcoin-s-next-stop-could-be-at-82k/)**
+
+The Bitcoin price has not particularly impressed over the past two weeks, but it appears to have steadied its movement within a clear consolidation range. In its latest attempt to shine, the premier cryptocurrency faced fierce resistance around $74,000 on Friday, March 13. Interestingly, the latest…
+
+TradingView • 3h ago
+
+---
+
+**[Bitcoin Hit a Major Milestone—Most Miners Won't Be Around for the Next One](https://decrypt.co/361137/bitcoin-major-milestone-miners)**
+
+The 20 millionth Bitcoin was mined March 2026, leaving 1 million BTC to be issued as block rewards to miners in near-breakeven economics.
+
+Decrypt • 14h ago
 
 ---
 
@@ -263,7 +263,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 17h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 20h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -315,7 +315,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 760 • 💬 154 • ⏱️ 1:15:12 • 6h ago
+👁️ 17K • 👍 902 • 💬 207 • ⏱️ 1:15:12 • 9h ago
 
 ---
 
@@ -325,27 +325,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 39K • 👍 2K • 💬 65 • ⏱️ 46:42 • 13h ago
+👁️ 43K • 👍 2K • 💬 65 • ⏱️ 46:42 • 16h ago
 
 ---
 
-**[Bitcoin Waiting For The Fed — $80K or $60K Next](https://www.youtube.com/watch?v=mMvvp0cjbcE)**
+**[The Bitcoin Bottom is Closing In. Don’t Miss It.](https://www.youtube.com/watch?v=le1HlYVYDvw)**
 
-Bitcoin is waiting for the Federal Reserve's next interest rate decision, and the outcome could determine whether BTC breaks ...
+The bitcoin and altcoin bottom is coming in - moving averages and the pi cycle bottom are being looked at BUT will the market do ...
 
-📺 Mystery Market Vault
+📺 Digital Asset News
 
-👁️ 4K • 👍 124 • 💬 36 • ⏱️ 21:05 • 10h ago
-
----
-
-**[THIS CHART SHOWS BITCOIN EXPLODING TO....](https://www.youtube.com/watch?v=hfxgFcZRp48)**
-
-This chart is screaming something most people are ignoring — and the data backs it up. Institutions added +18237 BTC to their ...
-
-📺 Davinci Jeremie
-
-👁️ 7K • 👍 397 • 💬 59 • ⏱️ 19:00 • 1d ago
+👁️ 4K • 👍 345 • 💬 24 • ⏱️ 21:58 • 6h ago
 
 ---
 
@@ -355,7 +345,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 29K • 👍 1K • 💬 156 • ⏱️ 12:14 • 1d ago
+👁️ 30K • 👍 1K • 💬 160 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -365,7 +355,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 156 • ⏱️ 14:33 • 1d ago
+👁️ 28K • 👍 2K • 💬 163 • ⏱️ 14:33 • 1d ago
 
 ---
 
@@ -375,7 +365,7 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 126 • ⏱️ 22:37 • 2d ago
+👁️ 30K • 👍 2K • 💬 126 • ⏱️ 22:37 • 2d ago
 
 ---
 
@@ -385,27 +375,37 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 96K • 👍 5K • 💬 735 • ⏱️ 18:10 • 2d ago
+👁️ 97K • 👍 5K • 💬 737 • ⏱️ 18:10 • 2d ago
 
 ---
 
-**[Matt Hougan&#39;s $1 Million Bitcoin Math Prediction — And Why It&#39;s NOT Crazy](https://www.youtube.com/watch?v=8TzgGyERRb4)**
+**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
 
-Bitwise CIO Matt Hougan just published the most mathematically grounded case for $1 million Bitcoin — and it doesn't rely on ...
+The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
 
-📺 Savvy Finance
+📺 Gareth Soloway
 
-👁️ 4K • 👍 198 • ⏱️ 18:46 • 1d ago
+👁️ 50K • 👍 3K • 💬 337 • ⏱️ 9:50 • 1d ago
 
 ---
 
-**[Bitcoin BTC Price Prediction: 14th of March](https://www.youtube.com/watch?v=353NYhom9fU)**
+**[Crypto Holders → MASSIVE NEWS!](https://www.youtube.com/watch?v=MkcdRQRxahY)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
 
-📺 C-Zar Gets Crypto 
+📺 Altcoin Daily
 
-👁️ 463 • 👍 47 • 💬 9 • ⏱️ 19:58 • 11h ago
+👁️ 40K • 👍 2K • 💬 298 • ⏱️ 13:31 • 1d ago
+
+---
+
+**[FORGET WALL ST: How the Biggest Bitcoin Attack Is Coming From Within!](https://www.youtube.com/watch?v=UdUY0ol6HVk)**
+
+A major fight over Bitcoin is happening on Capitol Hill and most people have no idea. Coinbase lobbyists are reportedly pushing ...
+
+📺 Simply Bitcoin
+
+👁️ 11K • 👍 861 • 💬 220 • ⏱️ 14:10 • 13h ago
 
 ---
 
