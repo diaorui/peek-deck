@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T08:37:59.002179+00:00'
+updated: '2026-03-15T09:35:59.893774+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 08:37 UTC  
+**Last Updated:** March 15, 2026 at 09:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,454.47
+### $71,623.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +4.5%  
-**30d:** +2.3%  
-**90d:** -18.5%  
-**1y:** -13.5%  
+**24h:** +1.8%  
+**7d:** +5.1%  
+**30d:** +2.9%  
+**90d:** -18.0%  
+**1y:** -13.0%  
 
 ---
 
@@ -79,25 +79,31 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-20h ago
+21h ago
+
+---
+
+**[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 3h ago
 
 ---
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -105,19 +111,7 @@ Rank #1
 
 Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
 
-12h ago
-
----
-
-**[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 2h ago
-
----
-
-**[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
-
-18h ago
+13h ago
 
 ---
 
@@ -125,7 +119,13 @@ Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I
 
 hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 and i know it's kinda arbitrary but whatever, it gives me something to work toward and actually makes me excited when we see red days lol currently doing $275 weekly buys and lowkey hoping we stay in this range for a while so i can keep stacking at decent prices before things potentially moon again curious what strategies you all are running? any tweaks you'd suggest to my approach or different ways to think about accumulating? always down to hear how other people are playing the long game
 
-8h ago
+9h ago
+
+---
+
+**[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
+
+19h ago
 
 ---
 
@@ -133,7 +133,7 @@ hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 a
 
 When Fear & Greed hits extreme fear, that's historically when you want to be accumulating. Everyone here knows this... But I've been thinking about what that same signal does to someone in their first bear market. They see "EXTREME FEAR" and their brain processes it as danger, not discount. Their emotional response to it triggers the opposite of what's useful. It's the same problem with price charts going down. Experienced holders see opportunity. Newcomers see a reason to leave. Is the solution better financial education? Better framing? Or is Fear & Greed just fundamentally a tool for people who already don't need it?
 
-10h ago
+11h ago
 
 ---
 
@@ -141,7 +141,7 @@ When Fear & Greed hits extreme fear, that's historically when you want to be acc
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
 
 ---
 
@@ -153,7 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -165,11 +165,19 @@ Financial Times • 2d ago
 
 ---
 
-**['Bitcoin Is Going To $10,000,' Bloomberg's McGlone Says: Crypto Is A 'Dead' Asset Class](https://finance.yahoo.com/news/bitcoin-going-10-000-bloombergs-153055288.html)**
+**[Large Bitcoin Wallets Resume Accumulation as BTC Holds $71K: Santiment](https://finance.yahoo.com/news/large-bitcoin-wallets-resume-accumulation-083500334.html)**
 
-Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
+Large Bitcoin holders have started accumulating again as the cryptocurrency trades near the $71,000 level, according to new data from crypto analytics firm Santiment. Key Takeaways: Bitcoin whales holding 10–10,000 BTC have resumed accumulation as the price stabilizes near $71,000. These large wallets now control about 68.17% of Bitcoin’s total ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Got $3,000? Should You Buy Bitcoin, XRP, or Gold?](https://www.fool.com/investing/2026/03/15/got-3000-should-you-buy-bitcoin-xrp-or-gold/)**
+
+These assets will help you to layer either safety or some risk into your portfolio.
+
+The Motley Fool • 30m ago
 
 ---
 
@@ -177,15 +185,7 @@ Yahoo Finance • 1d ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 17h ago
-
----
-
-**[Bitcoin whales are starting to accumulate again at $71K: Santiment](https://www.tradingview.com/news/cointelegraph:aff7df59a094b:0-bitcoin-whales-are-starting-to-accumulate-again-at-71k-santiment/)**
-
-Large Bitcoin wallets are increasing their holdings again as the asset’s price holds around $71,000, according to crypto sentiment platform Santiment.“Their recent shift to accumulation is a bullish signal,” Santiment said in a report on Saturday, referring to wallets holding between 10 and 10,000…
-
-TradingView • 3h ago
+CNBC • 18h ago
 
 ---
 
@@ -207,17 +207,19 @@ Bloomberg.com • 1d ago
 
 The 20 millionth Bitcoin was mined March 2026, leaving 1 million BTC to be issued as block rewards to miners in near-breakeven economics.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
-**[‘We’re Doing Everything We Can To Destroy It’—Legendary Billionaire Predicts U.S. Dollar Collapse Amid Bitcoin Price Rally](https://www.forbes.com/sites/digital-assets/2026/03/14/were-doing-everything-we-can-to-destroy-it-legendary-billionaire-predicts-us-dollar-collapse-amid-bitcoin-price-rally/)**
+**[On-Chain Data Shows Why Bitcoin’s Next Stop Could Be At $82K](https://www.tradingview.com/news/newsbtc:0c254508d094b:0-on-chain-data-shows-why-bitcoin-s-next-stop-could-be-at-82k/)**
 
-Forbes • 20h ago
+The Bitcoin price has not particularly impressed over the past two weeks, but it appears to have steadied its movement within a clear consolidation range. In its latest attempt to shine, the premier cryptocurrency faced fierce resistance around $74,000 on Friday, March 13. Interestingly, the latest…
+
+TradingView • 7h ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqfd6ltST0fTkSHNfBF2g5wSQdmdwgvOON9Sk2lV3JuaFcTLErPV3IuD&gaa_ts=69b66715&gaa_sig=r3qALdh0ISN3K_VBhtzIgJgwFe9UrRUDyMBNxXukFcr3R-uJDAtCPdjMfSFgTHktGsDTi_4I0hrXh-9lrmdM0g%3D%3D)**
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqcQt2NRovb2dW_wBMRSx4dG98QsML7rSBbrWJ5_sQAH05AbW5fj5VML&gaa_ts=69b680ed&gaa_sig=NIBb4OXQ3BY9vl_neBEU0nurWW3swC0FWhsHexlnxUtHfREkayMu2oEsTSmvb8AyO3DhISdHBGR9dK0HIqNHNg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -259,7 +261,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 23h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 1d ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -311,7 +313,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 133 • ⏱️ 1:15:12 • 12h ago
+👁️ 21K • 👍 1K • 💬 133 • ⏱️ 1:15:12 • 13h ago
 
 ---
 
@@ -321,7 +323,7 @@ The bitcoin and altcoin bottom is coming in - moving averages and the pi cycle b
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 399 • 💬 27 • ⏱️ 21:58 • 9h ago
+👁️ 5K • 👍 399 • 💬 27 • ⏱️ 21:58 • 10h ago
 
 ---
 
@@ -341,7 +343,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 65 • ⏱️ 46:42 • 19h ago
+👁️ 46K • 👍 2K • 💬 65 • ⏱️ 46:42 • 20h ago
 
 ---
 
@@ -401,7 +403,7 @@ The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device tha
 
 📺 How Much?
 
-👁️ 2K • 👍 28 • 💬 2 • ⏱️ 0:34 • 9h ago
+👁️ 2K • 👍 28 • 💬 2 • ⏱️ 0:34 • 10h ago
 
 ---
 

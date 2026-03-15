@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-15T08:37:58.993733+00:00'
+updated: '2026-03-15T09:35:59.885360+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 15, 2026 at 08:37 UTC  
+**Last Updated:** March 15, 2026 at 09:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-19h ago
+20h ago
 
 ---
 
@@ -49,7 +49,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
 
-🔗 [substack.com](https://substack.com/home/post/p-190322208) • 15h ago
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ Claude will certainly read statements made by Anthropic founder Dario Amodei whi
 
 Integrated an evolutionary database to Karpathy's autoresearch project that replaces the simple tsv file based logging in the original project. Evolutionary algorithms have shown to be a powerful tool for autonomously discovering optimal solutions to problems with large search spaces. Famously, Google DeepMind's AlphaEvolve system uses evolutionary algorithms to discover state of the art matrix multiplication algorithms. The implementation of the evolutionary database itself is based heavily on the implementation in OpenEvolve. Would love thoughts and suggestions from the community. Check it out: https://github.com/hgarud/autoresearch
 
-13h ago
+14h ago
 
 ---
 
@@ -65,7 +65,7 @@ Integrated an evolutionary database to Karpathy's autoresearch project that repl
 
 This week's round of drm-misc-next patches bring a few improvements to the AMDXDNA accelerator driver used for supporting the Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 13h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 14h ago
 
 ---
 
@@ -77,7 +77,7 @@ AI Product Recommendation is a system that uses mathematical models to predict y
 Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
 Your responses are anonymous and will be used for academic research only.
 
-🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 15h ago
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 16h ago
 
 ---
 
@@ -85,7 +85,7 @@ Your responses are anonymous and will be used for academic research only.
 
 Hello everyone So I'm just struggling a lot with the sense of meaning and ethics and stuff in the growing world of AI. I think a lot of people are - people have trained their whole lives as journalists or accountants or lawyers and will be rendered obsolete overnight. I thought I was relatively safe as like a musician but I saw a video of an AI woman playing guitar and it was basically impossible to tell that it was AI [(here is a Youtube video about it featuring clips])(https://youtu.be/L9f-hnyAhsQ?si=IxxHXEiLgfWnnBes&t=89) other than some obvious errors. But the point is the inflexions like the wrist or arm or shoulder tensing at the correct moment as someone who's played guitar for years that's literally what guitarists do. I don't know identity, meaning, purpose. Apparently we'll basically be unable to tell within like 5-10 years 20 years if not sooner if a streamer/long form content creator is AI or not will just be impossible to tell. You won't be able to trust basically any media that's not from a specific verified source (even then..?) like Youtube generally will be completely useless once AI political media gets flooding like fake interviews of celebrities/politicians that are impossible to tell if they're AI or not Like what are we even doing here regarding this? I just don't know what to do with my life. What if humanity ultimately merges/forms with AI permanently like Elon Musk's neuralink, what if there are AI robots wondering around who are impossible to tell whether they're human beings or not If we merge with AI all human defects of character like idk anguish anxiety you'll just know basically everything all of the time. Will humans laugh cry fall in love in 200 years time if they're fused with AI..? What of religion ethics spirituality, much of historical morality/religion is based on the idea that humans are finite fallible and make mistakes but won't AI advancements just render all of this not the case? I don't know Any thoughts? What do you make about this, how are you accordingly living your life..? Thank you for any responses
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +93,15 @@ Hello everyone So I'm just struggling a lot with the sense of meaning and ethics
 
 As the title suggests, I am double majoring in mathematics and mechanical engineering. Apart from my studies in those core subjects, I plan to learn about local llm’s and AI in general, about IT, networking, and Linux. I will obviously be getting in CAD and some light coding in the future. Something to consider is that I have a windows desktop with a 4080 super gpu, a 5950x cpu, and 32gb of ddr4 ram. I will upgrade to a 5090 the second I can get a hold of one at MSRP (pray for me to get one lol). Given this, what laptop would you recommended? I want something that will help me with everything I mentioned above, but also with the caveat that I already have a decent windows based PC at home. The only issue I see with everything is my interest in learning about local llms and AI. Learning about local llms will require lots of vram, which windows laptops won’t have much of. However, MacBook pros do make local llms viable given apples integrated memory design. But if I go with apple, I can beef up my memory size and run decently sized model. However, I run into the issue that most engineering software isn’t compatible or optimized for mac OS. So thats my dilemma. The right windows laptop will do everything well except local llms. And the right mac will do most things well, except engineering things. Regardless of what I choose for my laptop, I always have a beefy windows PC at home to do whatever I want without issue. So I guess given all this information plus the filled questionnaire below, what should I get? LAPTOP QUESTIONNAIRE 1) Total budget: Max is $2500 , although I could potentially push it higher if needed. 2) Are you open to refurbs/used? Depends, refurbs are a no unless it’s a refurb macbook that comes straight from apple themselves. Used is an interesting option I’d consider, but new is ideal. 3) How would you prioritize form factor (ultrabook, 2-in-1, etc.), build quality, performance, and battery life? I want something durable, good battery (replaceable if possible, and is capable of growing and not slowing my progress down my educational path. 4) How important is weight and thinness to you? Couldn’t care less about either. 5) Do you have a preferred screen size? If indifferent, put N/A. As long as it isn’t tiny, im happy. 15-16in is nice. 6) Are you doing any CAD/video editing/photo editing/gaming? List which programs/games you desire to run. I’ll be doing CAD work in the future obviously. No real need for editing or gaming. 7) Any specific requirements such as good keyboard, reliable build quality, touch-screen, finger-print reader, optical drive or good input devices (keyboard/touchpad)? Again, something durable and reliable. While I would love a numberpad, it’s not necessary.
 
-10h ago
+11h ago
+
+---
+
+**[Relationships with AI](https://www.reddit.com/r/artificial/comments/1rtlypd/relationships_with_ai/)**
+
+I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
+
+18h ago
 
 ---
 
@@ -110,14 +118,6 @@ Nvidia Corp. (NASDAQ:NVDA) is drawing attention after reports that TikTok parent
 The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.
 
 🔗 [the Guardian](https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence) • 1d ago
-
----
-
-**[Relationships with AI](https://www.reddit.com/r/artificial/comments/1rtlypd/relationships_with_ai/)**
-
-I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
-
-17h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fox Business • 1d ago
 
 The management structure is an extreme test of the “flat” organizational model that more U.S. companies are embracing.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -155,19 +155,17 @@ The New York Times • 1d ago
 
 ---
 
-**[Iran targets big tech and AI with strikes on data centres](https://www.abc.net.au/news/2026-03-15/iran-war-ai-technology-data-centres/106443004)**
-
-Iran struck three data centres in the Middle East, and has signalled that technology infrastructure will continue to be in the firing line.
-
-ABC News • 13h ago
-
----
-
 **[Trump's AI czar calls for US to 'get out' of war and warns Iran could make Gulf uninhabitable](https://fortune.com/2026/03/14/trump-ai-czar-david-sacks-us-iran-war-gulf-israel-desalination-water-uninhabitable/)**
 
 "So there's a lot of scenarios here, a lot of really frightening scenarios about where escalation could lead," Sacks said.
 
-Fortune • 14h ago
+Fortune • 15h ago
+
+---
+
+**[White House AI czar says US should 'declare victory and get out' of Iran war](https://www.reuters.com/world/middle-east/white-house-ai-czar-says-us-should-declare-victory-get-out-iran-war-2026-03-14/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -175,15 +173,7 @@ Fortune • 14h ago
 
 A virtual replica of the Tees Valley road network has been created to predict  potential problems.
 
-BBC • 1h ago
-
----
-
-**[InnovAit AI Launches Done-For-You AEO & GEO Services for AI Search Visibility](https://www.usatoday.com/press-release/story/28343/innovait-ai-launches-done-for-you-aeo-geo-services-for-ai-search-visibility/)**
-
-New AEO and GEO Services Enhance AI Visibility for Brands Coral Springs, United States - March 13, 2026 / InnovAit AI /
-
-USA Today • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -191,7 +181,7 @@ USA Today • 1h ago
 
 Palantir’s CEO says the platforms will have a vast effect on the electoral landscape. Is it a warning or a sales pitch?
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -203,6 +193,14 @@ Fortune • 1d ago
 
 ---
 
+**[‘Fake workers’ from North Korea use AI to exploit European companies](https://www.ft.com/content/4e26ad94-f917-4f52-924d-066e332217cf)**
+
+Pyongyang’s operatives deploy chatbots to undertake tasks, often in multiple roles
+
+Financial Times • 4h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -211,7 +209,7 @@ Fortune • 1d ago
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 1420 • 💬 339 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 1424 • 💬 343 • 1d ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -219,7 +217,7 @@ Detect your hardware and find out which AI models you can run locally. GPU, CPU,
 
 Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.
 
-⬆️ 745 • 💬 384 • 2d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+⬆️ 746 • 💬 384 • 2d ago • [Grand Forks Herald](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 
 ---
 
@@ -227,13 +225,13 @@ Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 502 • 💬 794 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 504 • 💬 794 • 1d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 358 • 💬 473 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 358 • 💬 474 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -249,7 +247,7 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
 
-⬆️ 219 • 💬 122 • 2d ago • [GitHub](https://github.com/jrswab/axe)
+⬆️ 220 • 💬 122 • 2d ago • [GitHub](https://github.com/jrswab/axe)
 
 ---
 
@@ -273,13 +271,13 @@ I injected three fabricated documents into a ChromaDB knowledge base. Here’s w
 
 Airbus is working at full throttle to offer the German Air Force an operational Uncrewed Collaborative Combat Aircraft (UCCA) system by 2029.
 
-⬆️ 122 • 💬 69 • 9h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+⬆️ 135 • 💬 77 • 10h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 
 ---
 
 **[AI didn't simplify software engineering: It just made bad engineering easier](https://news.ycombinator.com/item?id=47377262)**
 
-⬆️ 120 • 💬 103 • 17h ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
+⬆️ 122 • 💬 104 • 18h ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
 
 ---
 
@@ -293,7 +291,7 @@ After 2200 Years, AI Finally Decoded the Rosetta Stone — And What It Reveals I
 
 📺 Mystery Decoded
 
-👁️ 5K • 👍 76 • 💬 11 • ⏱️ 24:21 • 19h ago
+👁️ 5K • 👍 76 • 💬 11 • ⏱️ 24:21 • 20h ago
 
 ---
 
@@ -303,7 +301,7 @@ HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #a
 
 📺 AI Search
 
-👁️ 12K • 👍 938 • 💬 156 • ⏱️ 45:43 • 4h ago
+👁️ 12K • 👍 938 • 💬 156 • ⏱️ 45:43 • 5h ago
 
 ---
 
@@ -313,7 +311,7 @@ China just released DuClaw, a new platform that lets anyone run OpenClaw AI agen
 
 📺 AI Revolution
 
-👁️ 21K • 👍 614 • 💬 66 • ⏱️ 14:20 • 9h ago
+👁️ 21K • 👍 614 • 💬 66 • ⏱️ 14:20 • 10h ago
 
 ---
 
@@ -323,7 +321,7 @@ Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but re
 
 📺 AI DREAM ASMR
 
-👁️ 5K • 👍 832 • 💬 104 • ⏱️ 2:34 • 20h ago
+👁️ 5K • 👍 832 • 💬 104 • ⏱️ 2:34 • 21h ago
 
 ---
 
@@ -459,7 +457,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 20,858 • ❤️ 192 • 17h ago
+⬇️ 20,858 • ❤️ 192 • 18h ago
 
 ---
 
@@ -677,7 +675,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.6k • 🔱 1.4k • 1h ago
+⭐ 11.6k • 🔱 1.4k • 2h ago
 
 ---
 
@@ -727,7 +725,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 747 • 12h ago
+⭐ 6.3k • 🔱 747 • 13h ago
 
 ---
 
@@ -737,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 669 • 13h ago
+⭐ 3.4k • 🔱 669 • 14h ago
 
 ---
 

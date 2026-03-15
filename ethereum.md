@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T08:37:59.008321+00:00'
+updated: '2026-03-15T09:35:59.899744+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 08:37 UTC  
+**Last Updated:** March 15, 2026 at 09:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,097.39
+### $2,105.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +5.6%  
-**30d:** +1.0%  
-**90d:** -28.9%  
-**1y:** +11.7%  
+**24h:** +2.5%  
+**7d:** +6.2%  
+**30d:** +1.5%  
+**90d:** -28.6%  
+**1y:** +12.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
 
-20h ago
+21h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -160,7 +160,15 @@ The Block • 14h ago
 
 The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1773550200)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -168,15 +176,7 @@ Decrypt • 13h ago
 
 Ethereum is tightening below a critical $2,149 resistance level, building pressure as bulls and bears jockey for control. A decisive breakout above this zone could trigger strong momentum, potentially sending the price toward the next major resistance near $2,750.A Test Of The Key $2,149 Resistance…
 
-TradingView • 5h ago
-
----
-
-**[Vitalik Buterin says Ethereum’s key use case is a ‘public bulletin board,’ not just smart contracts](https://www.coindesk.com/tech/2026/03/12/vitalik-buterin-says-ethereum-should-be-used-as-a-simple-digital-bulletin-board)**
-
-Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
-
-CoinDesk • 2d ago
+TradingView • 6h ago
 
 ---
 
@@ -188,11 +188,27 @@ Coinpaper • 1d ago
 
 ---
 
+**[Vitalik Buterin says Ethereum’s key use case is a ‘public bulletin board,’ not just smart contracts](https://www.coindesk.com/tech/2026/03/12/vitalik-buterin-says-ethereum-should-be-used-as-a-simple-digital-bulletin-board)**
+
+Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
+
+CoinDesk • 2d ago
+
+---
+
 **[Crypto News: Pepeto Announces Binance Level Exchange Update as Ethereum Price Prediction Maps Breakout to $8,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-as-ethereum-price-prediction-maps-breakout-to-8-000-1035930462)**
 
 Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 6h ago
+
+---
+
+**[Ethereum Foundation publishes ‘part manifesto, part constitution’ for network](https://ambcrypto.com/ethereum-foundation-publishes-part-manifesto-part-constitution-for-network/)**
+
+Ethereum Foundation has unveiled a 'EF Mandate', a new strategic roadmap and guiding principles to ensure long-term user freedom...
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -212,22 +228,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[BlackRock debuts staked ether ETF as demand grows for yield in crypto funds](https://www.coindesk.com/markets/2026/03/12/blackrock-debuts-staked-ether-etf-as-demand-grows-for-yield-in-crypto-funds)**
-
-The BlackRock’s iShares Staked Ethereum Trust ETF (ETHB) lets investors earn staking rewards alongside spot ETH exposure.
-
-CoinDesk • 2d ago
-
----
-
-**[Ethereum Foundation publishes ‘part manifesto, part constitution’ for network](https://ambcrypto.com/ethereum-foundation-publishes-part-manifesto-part-constitution-for-network/)**
-
-Ethereum Foundation has unveiled a 'EF Mandate', a new strategic roadmap and guiding principles to ensure long-term user freedom...
-
-AMBCrypto • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 6K • 👍 438 • 💬 106 • ⏱️ 22:03 • 9h ago
+👁️ 6K • 👍 438 • 💬 106 • ⏱️ 22:03 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 177 • 💬 47 • ⏱️ 12:50 • 21h ago
+👁️ 3K • 👍 177 • 💬 47 • ⏱️ 12:50 • 22h ago
 
 ---
 
@@ -268,7 +268,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 107 • 💬 74 • ⏱️ 9:05 • 18h ago
+👁️ 2K • 👍 107 • 💬 74 • ⏱️ 9:05 • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN: It's Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 198 • 💬 199 • ⏱️ 15:38 • 8h ago
+👁️ 4K • 👍 198 • 💬 199 • ⏱️ 15:38 • 9h ago
 
 ---
 
@@ -298,7 +298,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 424 • 💬 89 • ⏱️ 12:07 • 3h ago
+👁️ 1K • 👍 424 • 💬 89 • ⏱️ 12:07 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 582 • 👍 72 • ⏱️ 5:26 • 5h ago
+👁️ 582 • 👍 72 • ⏱️ 5:26 • 6h ago
 
 ---
 
@@ -318,7 +318,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 816 • 👍 69 • 💬 9 • ⏱️ 18:10 • 14h ago
+👁️ 816 • 👍 69 • 💬 9 • ⏱️ 18:10 • 15h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 410 • 👍 25 • 💬 2 • ⏱️ 6:31 • 21h ago
+👁️ 410 • 👍 25 • 💬 2 • ⏱️ 6:31 • 22h ago
 
 ---
 
