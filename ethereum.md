@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T17:55:37.868435+00:00'
+updated: '2026-03-15T18:40:44.668249+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 17:55 UTC  
+**Last Updated:** March 15, 2026 at 18:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,093.04
+### $2,109.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +5.1%  
-**30d:** +0.5%  
-**90d:** -29.3%  
-**1y:** +11.1%  
+**24h:** +1.7%  
+**7d:** +5.8%  
+**30d:** +1.2%  
+**90d:** -28.8%  
+**1y:** +11.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-11h ago
+12h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -150,7 +150,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -158,7 +158,7 @@ The Block • 23h ago
 
 The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -166,23 +166,7 @@ CoinDesk • 23h ago
 
 The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
 
-Yahoo Finance • 22h ago
-
----
-
-**[Gareth Soloway Reveals Next Bull Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/gareth-soloway-reveals-next-bull-targets-for-bitcoin-ethereum-and-xrp/)**
-
-Gareth Soloway, chief market strategist at VerifiedInvesting.com, is doubling down on his short-term bullish thesis for crypto, and the charts he is
-
-Coinpedia Fintech News • 8h ago
-
----
-
-**[Why is Crypto Market Going Up Today: Bitcoin, Ethereum and XRP Prices Rally](https://www.tradingview.com/news/coinpedia:582f25f28094b:0-why-is-crypto-market-going-up-today-bitcoin-ethereum-and-xrp-prices-rally/)**
-
-Crypto is having one of its best days in weeks. Bitcoin has pushed above $73,000, Ethereum has cleared $2,180, and the total crypto market has added $90 billion in value in the past 15 hours alone. Here is what is actually driving it.The Numbers FirstThe Fear and Greed Index sits at 37, still in fe…
-
-TradingView • 2d ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -206,7 +190,7 @@ Yahoo Finance • 2h ago
 
 The world's second-most-valuable cryptocurrency has a bright future.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -218,11 +202,27 @@ AOL.com • 5h ago
 
 ---
 
-**[Mutuum Finance (MUTM) Raises Over $20.8 Million to Advance DeFi Lending on Ethereum](https://markets.businessinsider.com/news/stocks/mutuum-finance-mutm-raises-over-20-8-million-to-advance-defi-lending-on-ethereum-1035930799)**
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1773550200)**
 
-DUBAI, United Arab Emirates, March  15, 2026  (GLOBE NEWSWIRE) -- Growth for Mutuum Finance (MUTM) has continued, with the project recently surpas...
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-markets.businessinsider.com • 4h ago
+Polymarket • 1d ago
+
+---
+
+**[Ethereum Currently Undervalued – But Is It Time To Buy?](https://www.tradingview.com/news/newsbtc:0a1e7d6d0094b:0-ethereum-currently-undervalued-but-is-it-time-to-buy/)**
+
+According to the latest on-chain data, Ethereum appears to be entering a state of undervaluation, with the potential of rebounding to new highs. However, the question is — is it really time to buy ETH?ETH Could Drop Another 40% Before Bear Cycle EndsIn a new Quicktake post on the CryptoQuant platfo…
+
+TradingView • 7h ago
+
+---
+
+**[Crypto News: Pepeto Announces Binance Level Exchange Update as Ethereum Price Prediction Maps Breakout to $8,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-as-ethereum-price-prediction-maps-breakout-to-8-000-1035930462)**
+
+Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
+
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 124 • 💬 7 • ⏱️ 19:10 • 2h ago
+👁️ 2K • 👍 124 • 💬 7 • ⏱️ 19:10 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 97 • 💬 246 • ⏱️ 15:57 • 13h ago
+👁️ 2K • 👍 97 • 💬 246 • ⏱️ 15:57 • 14h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 150 • 💬 63 • ⏱️ 15:12 • 8h ago
+👁️ 2K • 👍 150 • 💬 63 • ⏱️ 15:12 • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 10K • 👍 702 • 💬 134 • ⏱️ 22:03 • 18h ago
+👁️ 10K • 👍 702 • 💬 134 • ⏱️ 22:03 • 19h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 206 • 👍 9 • 💬 2 • ⏱️ 5:32 • 7h ago
+👁️ 206 • 👍 9 • 💬 2 • ⏱️ 5:32 • 8h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 ONE VOICE CHOIR GHANA
 
-👁️ 18K • 👍 1K • 💬 1 • ⏱️ 2:44:05 • 3h ago
+👁️ 18K • 👍 1K • 💬 1 • ⏱️ 2:44:05 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN BTC ПРОГНОЗ СЕГОДНЯ: BlackRock меняет правила
 
 📺 HODL
 
-👁️ 3K • 👍 414 • 💬 73 • ⏱️ 17:20 • 4h ago
+👁️ 3K • 👍 414 • 💬 73 • ⏱️ 17:20 • 5h ago
 
 ---
 
@@ -326,7 +326,7 @@ Ethereum vient de publier la roadmap la plus ambitieuse de toute son histoire. 7
 
 📺 Hasheur
 
-👁️ 23K • 👍 2K • 💬 161 • ⏱️ 16:31 • 6h ago
+👁️ 23K • 👍 2K • 💬 161 • ⏱️ 16:31 • 7h ago
 
 ---
 
