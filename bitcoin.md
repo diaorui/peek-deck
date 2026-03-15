@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T15:54:36.898007+00:00'
+updated: '2026-03-15T16:34:28.596375+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - social
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 15:54 UTC  
+**Last Updated:** March 15, 2026 at 16:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -91,7 +91,7 @@ Rank #1
 
 **[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
-7h ago
+8h ago
 
 ---
 
@@ -115,13 +115,13 @@ Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 Holding satoshis in self custody is not just about getting "fabulously wealthy"' though that can happen maybe not for you but your progeny. Its about opting out of the system that has kept us serfs for 100s of years and has been doing nothing but tighting the yolk around our necks for decade after decade. To many people accept this position to the point where even when there is a means of cessation, of liberation in the palm of their hands, they dont take it. They stay sheep. They stay yolked, they accept it because their father, and their fathers father accepted it and have taken the role of serf with pride. They get in line and and point out and ridicule the dessenters, all while they follow the herd and are led like sheep to ther slaughter. I will not consent. I will opt out and guide my chilldren into freedom and liberate them from this corrupt system of control, by stacking sats and saving on the blockchain. I will take part in an act of non violent civil disobedience and protect my energy and time in a way that saves it from being debased, used for war and profits only a privileged few. Its a corrupt and evil system that wants us to stay weak and bent over, eyes drawn down to the ground and never looking up to the light of the sun. SATYAGRAHA!
 
-2h ago
+3h ago
 
 ---
 
 **[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 9h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 10h ago
 
 ---
 
@@ -129,7 +129,7 @@ Holding satoshis in self custody is not just about getting "fabulously wealthy"'
 
 Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm already used to the roller coaster ride - but only in small amounts. I’m firmly convinced that now is the right time to invest a significant amount of money for the long term, provided you can hold onto it for a long time. But a little voice in the back of my head keeps telling me, “That’s unreasonable,” “That’s not enough diversification,” “Bitcoin could keep falling indefinitely,” and so on. Do you guys know what I mean? I’d bet that Bitcoin will be higher in the next 5–10 years than it is now. It would be silly not to jump in now, if you can afford it. So my question is: how do you calm that voice? Any experience?
 
-54m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm alrea
 
 The days have grown long, the nights longer, and my bones carry the weight of decades. I wander through memories like faded rooms, each one echoing with what I thought I’d build, what I thought I’d become. There’s a quiet question I carry now: a lifetime spent chasing, striving, hoping, and yet, when I look back, the shelves are bare, the gardens untended, the roads I thought I paved dissolved into dust and shadow. How did it all go so wrong Help me Bitcoin, you're my only hope
 
-2h ago
+3h ago
 
 ---
 
@@ -155,7 +155,7 @@ The days have grown long, the nights longer, and my bones carry the weight of de
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 1d ago
 
 Looking at its returns during past global conflicts, Bitcoin crashes when wars start but recovers within 50-60 days. Data across 20 geopolitical events showing average gains of 31.2% as governments increase money supply to fund conflicts. The Crash-Then-Rally Pattern Bitwise...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 3h ago
 
 There are strong arguments in favor of owning both of these assets.
 
-The Motley Fool • 22m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 22m ago
 
 A growing number of industry figures say bitcoin could eventually reach seven figures, but analysts say the outcome hinges on how much of the global store-of-value market the cryptocurrency can capture.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -251,7 +251,7 @@ No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin p
 
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
-⬆️ 3 • 💬 0 • 5d ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+⬆️ 3 • 💬 0 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
 
 ---
 
@@ -295,7 +295,7 @@ Another product idea that harvests Bitcoin miner waste heat.
 
 Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open source. - leventilo/boltzpay
 
-⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/leventilo/boltzpay)
+⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/leventilo/boltzpay)
 
 ---
 
@@ -315,7 +315,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 1K • 💬 130 • ⏱️ 1:15:12 • 19h ago
+👁️ 29K • 👍 1K • 💬 130 • ⏱️ 1:15:12 • 20h ago
 
 ---
 
@@ -335,7 +335,7 @@ Join me for an exclusive after party and get 10% off of your Bitcoin Vegas ticke
 
 📺 Market Disruptors Podcast
 
-👁️ 8K • 👍 471 • 💬 86 • ⏱️ 57:48 • 22h ago
+👁️ 8K • 👍 471 • 💬 86 • ⏱️ 57:48 • 23h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin #Crypto #Finance Will Bitcoin Survive The Shift That Will Change Markets
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 168 • 💬 129 • ⏱️ 58:23 • 2h ago
+👁️ 2K • 👍 168 • 💬 129 • ⏱️ 58:23 • 3h ago
 
 ---
 
@@ -405,7 +405,7 @@ The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device tha
 
 📺 How Much?
 
-👁️ 3K • 👍 47 • 💬 5 • ⏱️ 0:34 • 16h ago
+👁️ 3K • 👍 47 • 💬 5 • ⏱️ 0:34 • 17h ago
 
 ---
 
