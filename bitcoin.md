@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T12:56:01.597328+00:00'
+updated: '2026-03-15T13:49:34.800128+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 12:56 UTC  
+**Last Updated:** March 15, 2026 at 13:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -93,13 +93,13 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-22h ago
+23h ago
 
 ---
 
 **[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 6h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 7h ago
 
 ---
 
@@ -113,7 +113,7 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 a
 
 Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
 
-16h ago
+17h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 2d ago
 
 Looking at its returns during past global conflicts, Bitcoin crashes when wars start but recovers within 50-60 days. Data across 20 geopolitical events showing average gains of 31.2% as governments increase money supply to fund conflicts. The Crash-Then-Rally Pattern Bitwise...
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 54m ago
 
 Just as nations diversify their strategic reserves, Israel can explore how digital assets might play a role in the financial architecture of the future.
 
-The Jerusalem Post • 1h ago
+The Jerusalem Post • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Jerusalem Post • 1h ago
 
 This upcoming week could prove pivotal for your portfolio as seven major Central Banks, including the Federal Reserve, prepare to announce critical FED rate decisions. While markets entered 2026 expecting a steady diet of rate cuts, a sudden spike in oil prices following the escalation of the conflict in the ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -193,13 +193,13 @@ Yahoo Finance • 2h ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
 **[Bitcoin: Institutional interest provides buffer as BTC eyes $73,000 resistance](https://www.investing.com/news/cryptocurrency-news/bitcoin-institutional-interest-provides-buffer-as-btc-eyes-73000-resistance-4561528)**
 
-Investing.com • 8h ago
+Investing.com • 9h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bloomberg.com • 1d ago
 
 Twenty million Bitcoin mined. One million left. The miners who got us here might not be around for the finish.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -277,7 +277,7 @@ Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 
 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
-⬆️ 1 • 💬 0 • 4d ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
+⬆️ 1 • 💬 0 • 5d ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
 
 ---
 
@@ -313,7 +313,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 125 • ⏱️ 1:15:12 • 16h ago
+👁️ 26K • 👍 1K • 💬 125 • ⏱️ 1:15:12 • 17h ago
 
 ---
 
@@ -363,7 +363,7 @@ Join me for an exclusive after party and get 10% off of your Bitcoin Vegas ticke
 
 📺 Market Disruptors Podcast
 
-👁️ 7K • 👍 430 • 💬 70 • ⏱️ 57:48 • 19h ago
+👁️ 7K • 👍 430 • 💬 70 • ⏱️ 57:48 • 20h ago
 
 ---
 
@@ -373,7 +373,7 @@ A major fight over Bitcoin is happening on Capitol Hill and most people have no 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 987 • 💬 211 • ⏱️ 14:10 • 20h ago
+👁️ 13K • 👍 987 • 💬 211 • ⏱️ 14:10 • 21h ago
 
 ---
 
@@ -403,7 +403,7 @@ Bitcoin is likely transitioning from a bear channel into a trading range. After 
 
 📺 Brooks Trading Course
 
-👁️ 436 • 👍 40 • 💬 1 • ⏱️ 11:36 • 4h ago
+👁️ 436 • 👍 40 • 💬 1 • ⏱️ 11:36 • 5h ago
 
 ---
 

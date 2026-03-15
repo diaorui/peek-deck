@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-15T12:56:01.588895+00:00'
+updated: '2026-03-15T13:49:34.791550+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 15, 2026 at 12:56 UTC  
+**Last Updated:** March 15, 2026 at 13:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Tencent's QClaw puts OpenClaw AI agents inside WeChat, QQ. With 135K exposed instances globally, here's what enterprises need to know about the agent wave
 
-🔗 [beam.ai](https://beam.ai/agentic-insights/tencent-launches-qclaw-what-the-ai-agent-mainstream-moment-means-for-enterprise) • 53m ago
+🔗 [beam.ai](https://beam.ai/agentic-insights/tencent-launches-qclaw-what-the-ai-agent-mainstream-moment-means-for-enterprise) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
 
-🔗 [substack.com](https://substack.com/home/post/p-190322208) • 19h ago
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 20h ago
 
 ---
 
@@ -65,7 +65,7 @@ Claude will certainly read statements made by Anthropic founder Dario Amodei whi
 
 For the past two years, most discussions about AI in software have focused on code generation. That is the wrong layer to focus on. Coding is the visible surface. The real leverage is in coordination, planning, prioritization, and information synthesis across large systems. Ironically, those are precisely the responsibilities assigned to engineering management. And those are exactly the kinds of problems modern LLM agents are unusually good at. The uncomfortable reality of modern engineering management In large software organizations today: An engineering manager rarely understands the full codebase. A manager rarely understands all the architectural tradeoffs across services. A manager cannot track every dependency, ticket, CI failure, PR discussion, and operational incident. What managers actually do is approximate the system state through partial signals: Jira tickets standups sprint reports Slack conversations incident reviews dashboards This is a lossy human compression pipeline. The system is too large for any single human to truly understand. LLM agents are structurally better at this layer An LLM agent can ingest and reason across: the entire codebase commit history pull requests test failures production metrics incident logs architecture documentation issue trackers Slack discussions This is precisely the kind of cross-context synthesis that autonomous AI agents are designed for. They can interpret large volumes of information, adapt to new inputs, and plan actions toward a defined objective. Modern multi-agent frameworks already model software teams as specialized agents such as planner, coder, debugger, and reviewer that collaborate to complete development tasks. Once this structure exists, the coordination layer becomes machine solvable. What an “AI engineering manager” actually looks like An agent operating at the management layer could continuously: System awareness build a live dependency graph of the entire codebase track architectural drift identify ownership gaps across services Work planning convert product requirements into technical task graphs assign tasks based on developer expertise estimate risk and complexity automatically Operational management correlate incidents with recent commits predict failure points before deployment prioritize technical debt based on runtime impact Team coordination summarize PR discussions generate sprint plans detect blockers automatically This is fundamentally a data processing problem. Humans are weak at this scale of context. LLMs are not. Why developers and architects still remain Even in a highly automated stack, three human roles remain essential: Developers They implement, validate, and refine system behavior. AI can write code, but domain understanding and responsibility still require humans. Architects They define system boundaries, invariants, and long-term technical direction. Architecture is not just pattern selection. It is tradeoff management under uncertainty. Product owners They anchor development to real-world user needs and business goals. Agents can optimize execution, but not define meaning. What disappears first The roles most vulnerable are coordination-heavy roles that exist primarily because information is fragmented. Examples: engineering managers project managers scrum masters delivery managers Their core function is aggregation and communication. That is exactly what LLM agents automate. The deeper shift Software teams historically looked like this: Product → Managers → Developers → Code The emerging structure is closer to: Product → Architect → AI Agents → Developers Where agents handle: planning coordination execution orchestration monitoring Humans focus on intent and system design. Final thought Engineering management existed because the system complexity exceeded human coordination capacity. LLM agents remove that constraint. When a machine can read the entire codebase, every ticket, every log line, every commit, and every design document simultaneously, the coordination layer stops needing humans.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ For the past two years, most discussions about AI in software have focused on co
 
 Integrated an evolutionary database to Karpathy's autoresearch project that replaces the simple tsv file based logging in the original project. Evolutionary algorithms have shown to be a powerful tool for autonomously discovering optimal solutions to problems with large search spaces. Famously, Google DeepMind's AlphaEvolve system uses evolutionary algorithms to discover state of the art matrix multiplication algorithms. The implementation of the evolutionary database itself is based heavily on the implementation in OpenEvolve. Would love thoughts and suggestions from the community. Check it out: https://github.com/hgarud/autoresearch
 
-17h ago
+18h ago
 
 ---
 
@@ -93,7 +93,7 @@ AI Product Recommendation is a system that uses mathematical models to predict y
 Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
 Your responses are anonymous and will be used for academic research only.
 
-🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 19h ago
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 20h ago
 
 ---
 
@@ -101,7 +101,7 @@ Your responses are anonymous and will be used for academic research only.
 
 Hello everyone So I'm just struggling a lot with the sense of meaning and ethics and stuff in the growing world of AI. I think a lot of people are - people have trained their whole lives as journalists or accountants or lawyers and will be rendered obsolete overnight. I thought I was relatively safe as like a musician but I saw a video of an AI woman playing guitar and it was basically impossible to tell that it was AI [(here is a Youtube video about it featuring clips])(https://youtu.be/L9f-hnyAhsQ?si=IxxHXEiLgfWnnBes&t=89) other than some obvious errors. But the point is the inflexions like the wrist or arm or shoulder tensing at the correct moment as someone who's played guitar for years that's literally what guitarists do. I don't know identity, meaning, purpose. Apparently we'll basically be unable to tell within like 5-10 years 20 years if not sooner if a streamer/long form content creator is AI or not will just be impossible to tell. You won't be able to trust basically any media that's not from a specific verified source (even then..?) like Youtube generally will be completely useless once AI political media gets flooding like fake interviews of celebrities/politicians that are impossible to tell if they're AI or not Like what are we even doing here regarding this? I just don't know what to do with my life. What if humanity ultimately merges/forms with AI permanently like Elon Musk's neuralink, what if there are AI robots wondering around who are impossible to tell whether they're human beings or not If we merge with AI all human defects of character like idk anguish anxiety you'll just know basically everything all of the time. Will humans laugh cry fall in love in 200 years time if they're fused with AI..? What of religion ethics spirituality, much of historical morality/religion is based on the idea that humans are finite fallible and make mistakes but won't AI advancements just render all of this not the case? I don't know Any thoughts? What do you make about this, how are you accordingly living your life..? Thank you for any responses
 
-11h ago
+12h ago
 
 ---
 
@@ -109,7 +109,7 @@ Hello everyone So I'm just struggling a lot with the sense of meaning and ethics
 
 I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
 
-21h ago
+22h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fortune • 1d ago
 
 Pyongyang’s operatives deploy chatbots to undertake tasks, often in multiple roles
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -159,7 +159,7 @@ Financial Times • 7h ago
 
 Records show DHS tech incubator spending large sums on partnerships that would expand surveillance capabilities
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 1h ago
 
 ﻿Our answer cannot just be that everyone becomes a plumber.
 
-Vox • 56m ago
+Vox • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Vox • 56m ago
 
 Broadcom's revenue from artificial intelligence chips is poised to take off remarkably in the next few years.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -183,13 +183,13 @@ The Motley Fool • 11h ago
 
 Meta introduced four new self-designed AI chips last week, in collaboration with Broadcom.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[NVDA vs. AMD: Which AI Stock is the Smarter Play as the 2026 Chip War Heats Up?](https://www.tipranks.com/news/nvda-vs-amd-which-ai-stock-is-the-smarter-play-as-the-2026-chip-war-heats-up)**
 
-TipRanks • 8h ago
+TipRanks • 9h ago
 
 ---
 
@@ -247,7 +247,7 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe
 
-⬆️ 221 • 💬 122 • 2d ago • [GitHub](https://github.com/jrswab/axe)
+⬆️ 221 • 💬 122 • 3d ago • [GitHub](https://github.com/jrswab/axe)
 
 ---
 
@@ -255,7 +255,7 @@ A ligthweight cli for running single-purpose AI agents. Define focused agents in
 
 Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?
 
-⬆️ 196 • 💬 169 • 4h ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+⬆️ 196 • 💬 169 • 5h ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 
 ---
 
@@ -263,7 +263,7 @@ Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretati
 
 Airbus is working at full throttle to offer the German Air Force an operational Uncrewed Collaborative Combat Aircraft (UCCA) system by 2029.
 
-⬆️ 163 • 💬 108 • 13h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+⬆️ 163 • 💬 108 • 14h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 
 ---
 
@@ -279,7 +279,7 @@ Open-source credential vault, give your AI agents access to services without exp
 
 I injected three fabricated documents into a ChromaDB knowledge base. Here’s what the LLM said next.
 
-⬆️ 154 • 💬 49 • 2d ago • [Amine Raji, PhD](https://aminrj.com/posts/rag-document-poisoning/)
+⬆️ 154 • 💬 49 • 3d ago • [Amine Raji, PhD](https://aminrj.com/posts/rag-document-poisoning/)
 
 ---
 
@@ -293,7 +293,7 @@ After 2200 Years, AI Finally Decoded the Rosetta Stone — And What It Reveals I
 
 📺 Mystery Decoded
 
-👁️ 5K • 👍 75 • 💬 11 • ⏱️ 24:21 • 23h ago
+👁️ 5K • 👍 75 • 💬 11 • ⏱️ 24:21 • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ China just released DuClaw, a new platform that lets anyone run OpenClaw AI agen
 
 📺 AI Revolution
 
-👁️ 28K • 👍 758 • 💬 88 • ⏱️ 14:20 • 13h ago
+👁️ 28K • 👍 758 • 💬 88 • ⏱️ 14:20 • 14h ago
 
 ---
 
@@ -353,7 +353,7 @@ ssh terminal.shop CHECK OUT THEIR NEW PODCAST ON CASEY'S YOUTUBE: @MollyRocket A
 
 📺 The PrimeTime
 
-👁️ 83K • 👍 2K • 💬 532 • ⏱️ 42:21 • 23h ago
+👁️ 83K • 👍 2K • 💬 532 • ⏱️ 42:21 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #a
 
 📺 AI Search
 
-👁️ 32K • 👍 2K • 💬 231 • ⏱️ 45:43 • 9h ago
+👁️ 32K • 👍 2K • 💬 231 • ⏱️ 45:43 • 10h ago
 
 ---
 
@@ -383,7 +383,7 @@ AI vs Hollywood - Who's going to win? 00:00 AI vs. Hollywood 01:28 Youth & Immor
 
 📺 FilmSelect
 
-👁️ 6K • 👍 58 • 💬 21 • ⏱️ 8:52 • 20h ago
+👁️ 6K • 👍 58 • 💬 21 • ⏱️ 8:52 • 21h ago
 
 ---
 
@@ -459,7 +459,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 20,858 • ❤️ 194 • 22h ago
+⬇️ 20,858 • ❤️ 194 • 23h ago
 
 ---
 
@@ -629,7 +629,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Pretraining creates a parameter distribution where task-specific experts become more densely populated in large models, enabling effective ensemble methods for post-training adaptation.
 
-▲ 4 • 💬 2 • ⭐ 96 • 2d ago
+▲ 4 • 💬 2 • ⭐ 96 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.12228) • [💻 code](https://github.com/sunrainyg/RandOpt) • [🔗 project](https://thickets.mit.edu)
 
@@ -679,7 +679,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.7k • 🔱 1.4k • 17m ago
+⭐ 11.7k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.3k • 🔱 670 • 2h ago
+⭐ 9.3k • 🔱 670 • 3h ago
 
 ---
 
@@ -709,7 +709,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 7.2k • 🔱 332 • 23m ago
+⭐ 7.2k • 🔱 332 • 1h ago
 
 ---
 
@@ -729,7 +729,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 748 • 16h ago
+⭐ 6.3k • 🔱 748 • 17h ago
 
 ---
 
@@ -739,7 +739,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 669 • 17h ago
+⭐ 3.4k • 🔱 669 • 18h ago
 
 ---
 

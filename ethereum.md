@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T12:56:01.603302+00:00'
+updated: '2026-03-15T13:49:34.806071+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 12:56 UTC  
+**Last Updated:** March 15, 2026 at 13:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-6h ago
+7h ago
 
 ---
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 2h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 3h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -150,7 +150,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Block • 18h ago
 
 The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -166,7 +166,7 @@ CoinDesk • 18h ago
 
 The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 17h ago
 
 Most cryptocurrencies haven't survived seven years as of yet.
 
-The Motley Fool • 19m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Motley Fool • 19m ago
 
 Gareth Soloway, chief market strategist at VerifiedInvesting.com, is doubling down on his short-term bullish thesis for crypto, and the charts he is
 
-Coinpedia Fintech News • 3h ago
+Coinpedia Fintech News • 4h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView • 1d ago
 
 Ethereum is tightening below a critical $2,149 resistance level, building pressure as bulls and bears jockey for control. A decisive breakout above this zone could trigger strong momentum, potentially sending the price toward the next major resistance near $2,750.A Test Of The Key $2,149 Resistance…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
@@ -214,7 +214,7 @@ Polymarket • 1d ago
 
 BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -236,7 +236,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 ONE VOICE CHOIR GHANA
 
-👁️ 5K • 👍 1K • 1h ago
+👁️ 5K • 👍 1K • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 800 • 👍 94 • 💬 56 • ⏱️ 15:12 • 3h ago
+👁️ 800 • 👍 94 • 💬 56 • ⏱️ 15:12 • 4h ago
 
 ---
 
@@ -256,7 +256,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 8K • 👍 575 • 💬 129 • ⏱️ 22:03 • 13h ago
+👁️ 8K • 👍 575 • 💬 129 • ⏱️ 22:03 • 14h ago
 
 ---
 
@@ -266,7 +266,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 75 • 💬 253 • ⏱️ 15:57 • 8h ago
+👁️ 1K • 👍 75 • 💬 253 • ⏱️ 15:57 • 9h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 114 • 👍 5 • 💬 2 • ⏱️ 5:32 • 2h ago
+👁️ 114 • 👍 5 • 💬 2 • ⏱️ 5:32 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 3K • 👍 112 • 💬 72 • ⏱️ 9:05 • 22h ago
+👁️ 3K • 👍 112 • 💬 72 • ⏱️ 9:05 • 23h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 4 • ⏱️ 4:26 • 16h ago
+👁️ 2K • 👍 154 • 💬 4 • ⏱️ 4:26 • 17h ago
 
 ---
 
