@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T19:28:31.156880+00:00'
+updated: '2026-03-15T19:51:35.489943+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 19:28 UTC  
+**Last Updated:** March 15, 2026 at 19:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 LATENT
 
-🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 1h ago
+🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 2h ago
 
 ---
 
@@ -70,17 +70,25 @@ Hey , everyone I’m a 3rd year Robotics & Automation Engineering student lookin
 
 ---
 
+**[slamd - a simple 3D visualizer for Python](https://www.reddit.com/r/robotics/comments/1rukhd9/slamd_a_simple_3d_visualizer_for_python/)**
+
+I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
+
+🔗 [GitHub](https://github.com/Robertleoj/slamd) • 2h ago
+
+---
+
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
 1d ago
 
 ---
 
-**[slamd - a simple 3D visualizer for Python](https://www.reddit.com/r/robotics/comments/1rukhd9/slamd_a_simple_3d_visualizer_for_python/)**
+**[Besoin d’aide !!! comment Identifier le type de STS3215 sans ouvrir le servo](https://www.reddit.com/r/robotics/comments/1rumfs3/besoin_daide_comment_identifier_le_type_de/)**
 
-I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
+salut à tous, J’ai retiré plusieurs servomoteurs Feetech STS3215 de leur boîte pour mon projet de bras robot, mais maintenant je n’arrive plus à les identifier pour savoir lequel correspond à quel gear ratio (C001, C044, C046, etc.). Je souhaite les identifier de manière fiable sans ouvrir les servomoteurs et sans les endommager. Est-ce que quelqu’un a déjà rencontré ce problème et pourrait me conseiller sur une méthode sûre, que ce soit via logiciel, commandes série, ou tout autre moyen fiable ? Merci d’avance pour vos conseils ! 🙏
 
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 1h ago
+53m ago
 
 ---
 
@@ -95,14 +103,6 @@ I work in robotics, and need to do a lot of 3D visualization. But none of the av
 Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot learning, and world models for robotics. Recently I came across the AGIBOT World Challenge, which will have its finals at ICRA 2026 in Vienna, and I'm considering participating. Rather than doing it alone, I thought it might be interesting to form a small team with people who enjoy building robotics systems and experimenting with new ideas. From what I understand, the challenge focuses on embodied intelligence, especially things like: • reasoning → action loops • world models for robotics • perception → planning → action pipelines • sim-to-real transfer The finals will be run on real robots at ICRA 2026, and the challenge also provides a simulation platform and datasets for training and testing. Some of the directions I’m personally interested in exploring: • robot learning policies • integrating foundation models with robot planning • world models for prediction and control • simulation-to-real transfer If anyone here is also working on embodied AI, robot learning, or robotics systems, it would be great to exchange ideas or potentially form a small team. Feel free to reply here, send a DM, or email me directly: [Seatrain.liang@gmail.com](mailto:Seatrain.liang@gmail.com) Also curious to hear how people here are approaching embodied AI systems for robotics lately.
 
 22h ago
-
----
-
-**[Rewire — a drop-in ROS 2 bridge for Rerun, no ROS 2 runtime required](https://www.reddit.com/r/robotics/comments/1rtxt6s/rewire_a_dropin_ros_2_bridge_for_rerun_no_ros_2/)**
-
-Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 topics directly to the Rerun viewer for real-time visualization. What it does Speaks DDS and Zenoh natively — it's not a ROS 2 node, so no colcon build, no rclcpp, no ROS 2 install needed 53 built-in type mappings (images, pointclouds, TF, poses, laser scans, odometry, etc.) Custom message mappings via JSON5 config — map any ROS 2 type to Rerun archetypes without writing code URDF loading with full TF tree visualization Per-topic diagnostics (Hz, bandwidth, drops, latency) Topic filtering with glob patterns Getting Started sh curl -fsSL https://rewire.run/install.sh | sh rewire record -a That's it — two commands and you're visualizing your ROS 2 system in Rerun. Works on Linux (x86_64, aarch64) and macOS (Intel + Apple Silicon). Single binary, pure Rust. Website: https://rewire.run Feel free to ask anything!
-
-20h ago
 
 ---
 
@@ -134,9 +134,9 @@ Popular Science • 2d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqcIRpOKqxr9kNotJFNzJh2Ad_vwiL8OgqCd7xGD_WEBbEmTGjB5qWti&gaa_ts=69b7009d&gaa_sig=o0PkbN3ZniUo2-T0tGaUPfBEuco-b2-W-_ykEhrw-JcyFxB6hduCqAk2e-zKSPRxU1vHaBqoi-zVuWRWrG6mIA%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqde4gu0V1PePzO_G7NxQ6__Pw5YK8tM9UydUBy6DsFpatgEmB-FIHUg&gaa_ts=69b71135&gaa_sig=Lb-LuTr5FQORwF66UEFQeCk6PKQVhMDFv22rwWFm5BSdaWfKAh5nkgPh7kfILVuz78ImDKXItiOpoZke2OiZRg%3D%3D)**
 
-WSJ • 1h ago
+WSJ • 2h ago
 
 ---
 
@@ -145,6 +145,14 @@ WSJ • 1h ago
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
 NPR • 2d ago
+
+---
+
+**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/gallery/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
+
+13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton.
+
+13wham.com • 19h ago
 
 ---
 
@@ -160,7 +168,7 @@ Quanta Magazine • 2d ago
 
 Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -177,14 +185,6 @@ Ukrinform • 1d ago
 As part of a competition, they had to build robots them use them to complete missions on a game table.
 
 BBC • 2d ago
-
----
-
-**[Kamen resigns from FIRST Robotics board of directors](https://www.wmur.com/article/kamen-resigns-first-robotics-board-031226/70724175)**
-
-New Hampshire inventor Dean Kamen has voluntarily resigned from the board of directors of FIRST Robotics.
-
-WMUR • 2d ago
 
 ---
 

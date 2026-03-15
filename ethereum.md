@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T19:28:31.153640+00:00'
+updated: '2026-03-15T19:51:35.487126+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 19:28 UTC  
+**Last Updated:** March 15, 2026 at 19:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,109.49
+### $2,109.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +5.8%  
-**30d:** +1.2%  
-**90d:** -28.8%  
-**1y:** +11.9%  
+**24h:** +1.2%  
+**7d:** +5.9%  
+**30d:** +1.3%  
+**90d:** -28.7%  
+**1y:** +12.0%  
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-12h ago
+13h ago
 
 ---
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 9h ago
 
 ---
 
@@ -146,19 +146,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation sells 5,000 ETH to Tom Lee's BitMine in $10 million OTC deal](https://www.theblock.co/post/393614/ethereum-foundation-sells-5000-eth-to-tom-lees-bitmine-in-10-million-otc-deal)**
-
-The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
-
-The Block • 1d ago
-
----
-
 **[Ethereum Foundation sells 5,000 ether to Tom Lee's BitMine in $10.2 million deal](https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal)**
 
 The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
 
 CoinDesk • 1d ago
+
+---
+
+**[Ethereum Foundation sells 5,000 ETH to Tom Lee's BitMine in $10 million OTC deal](https://www.theblock.co/post/393614/ethereum-foundation-sells-5000-eth-to-tom-lees-bitmine-in-10-million-otc-deal)**
+
+The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
+
+The Block • 1d ago
 
 ---
 
@@ -170,11 +170,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
+**[Ethereum flipped in 2026? Predictions & Odds](https://polymarket.com/event/eth-flipped-in-2026)**
 
-XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
+View real-time odds for "Ethereum flipped in 2026?" as of March 15, 2026 and trade on The World's Largest Prediction Market™
 
-Coinpaper • 1d ago
+Polymarket • 2mo ago
+
+---
+
+**[Vitalik Buterin promotes an update simplifying Ethereum node software](https://www.tradingview.com/news/cointelegraph:3f6debdba094b:0-vitalik-buterin-promotes-an-update-simplifying-ethereum-node-software/)**
+
+Ethereum co-founder Vitalik Buterin posted a proposal, or a pull request, on Saturday that would merge the backend programs used by nodes to interact with Ethereum’s Beacon Chain, which handles consensus and staking, and the protocol’s execution layer into one unified code structure to simplify nod…
+
+TradingView • 3h ago
 
 ---
 
@@ -182,7 +190,7 @@ Coinpaper • 1d ago
 
 The world's second-most-valuable cryptocurrency has a bright future.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -190,7 +198,7 @@ Yahoo Finance • 3h ago
 
 The world's second-most-valuable cryptocurrency has a bright future.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -202,27 +210,19 @@ AOL.com • 6h ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1773550200)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
-**[Ethereum Currently Undervalued – But Is It Time To Buy?](https://www.tradingview.com/news/newsbtc:0a1e7d6d0094b:0-ethereum-currently-undervalued-but-is-it-time-to-buy/)**
-
-According to the latest on-chain data, Ethereum appears to be entering a state of undervaluation, with the potential of rebounding to new highs. However, the question is — is it really time to buy ETH?ETH Could Drop Another 40% Before Bear Cycle EndsIn a new Quicktake post on the CryptoQuant platfo…
-
-TradingView • 8h ago
-
----
-
 **[Crypto News: Pepeto Announces Binance Level Exchange Update as Ethereum Price Prediction Maps Breakout to $8,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-as-ethereum-price-prediction-maps-breakout-to-8-000-1035930462)**
 
 Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
 
 markets.businessinsider.com • 16h ago
+
+---
+
+**[Ethereum Price Prediction: Why Ethereum (ETH) is Targeting $2,200 After BlackRock’s ETHB Launch](https://eand.co/ethereum-price-prediction-can-blackrocks-ethb-launch-and-1-7t-usdc-surge-spark-a-2200-breakout)**
+
+Ethereum eyes a $2,200 breakout! With BlackRock’s ETHB launch and a $1.7T USDC surge, is an ETH bull run imminent? Read our expert Ethereum price prediction now.
+
+Eudaimonia and Co • 4h ago
 
 ---
 
