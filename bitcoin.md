@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T13:49:34.800128+00:00'
+updated: '2026-03-15T14:31:53.268129+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 13:49 UTC  
+**Last Updated:** March 15, 2026 at 14:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,623.44
+### $71,475.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +4.7%  
-**30d:** +2.5%  
-**90d:** -18.3%  
-**1y:** -13.3%  
+**24h:** +1.2%  
+**7d:** +4.5%  
+**30d:** +2.3%  
+**90d:** -18.5%  
+**1y:** -13.5%  
 
 ---
 
@@ -87,13 +87,21 @@ Rank #1
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-3h ago
+4h ago
 
 ---
 
-**[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
+**[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-23h ago
+6h ago
+
+---
+
+**[What happens if bitcoin hits 1m usd?](https://www.reddit.com/r/Bitcoin/comments/1ru8eo1/what_happens_if_bitcoin_hits_1m_usd/)**
+
+Will other cyptos surge as well? Or will it be higher than 1m usd?
+
+6h ago
 
 ---
 
@@ -103,17 +111,25 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 ---
 
-**[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
+**[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-5h ago
+1d ago
 
 ---
 
-**[What happens if bitcoin hits 1m usd?](https://www.reddit.com/r/Bitcoin/comments/1ru8eo1/what_happens_if_bitcoin_hits_1m_usd/)**
+**[stack sats and save on the blockchain. its the boycott of all boycotts](https://www.reddit.com/r/Bitcoin/comments/1rudt28/stack_sats_and_save_on_the_blockchain_its_the/)**
 
-Will other cyptos surge as well? Or will it be higher than 1m usd?
+Holding satoshis in self custody is not just about getting "fabulously wealthy"' though that can happen maybe not for you but your progeny. Its about opting out of the system that has kept us serfs for 100s of years and has been doing nothing but tighting the yolk around our necks for decade after decade. To many people accept this position to the point where even when there is a means of cessation, of liberation in the palm of their hands, they dont take it. They stay sheep. They stay yolked, they accept it because their father, and their fathers father accepted it and have taken the role of serf with pride. They get in line and and point out and ridicule the dessenters, all while they follow the herd and are led like sheep to ther slaughter. I will not consent. I will opt out and guide my chilldren into freedom and liberate them from this corrupt system of control, by stacking sats and saving on the blockchain. I will take part in an act of non violent civil disobedience and protect my energy and time in a way that saves it from being debased, used for war and profits only a privileged few. Its a corrupt and evil system that wants us to stay weak and bent over, eyes drawn down to the ground and never looking up to the light of the sun. SATYAGRAHA!
 
-5h ago
+1h ago
+
+---
+
+**[Help me Bitcoin, you're my only hope](https://www.reddit.com/r/Bitcoin/comments/1rudrpf/help_me_bitcoin_youre_my_only_hope/)**
+
+The days have grown long, the nights longer, and my bones carry the weight of decades. I wander through memories like faded rooms, each one echoing with what I thought I’d build, what I thought I’d become. There’s a quiet question I carry now: a lifetime spent chasing, striving, hoping, and yet, when I look back, the shelves are bare, the gardens untended, the roads I thought I paved dissolved into dust and shadow. How did it all go so wrong Help me Bitcoin, you're my only hope
+
+1h ago
 
 ---
 
@@ -129,22 +145,6 @@ Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 ---
 
-**[what's your btc stacking plan looking like](https://www.reddit.com/r/Bitcoin/comments/1rtz04w/whats_your_btc_stacking_plan_looking_like/)**
-
-hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 and i know it's kinda arbitrary but whatever, it gives me something to work toward and actually makes me excited when we see red days lol currently doing $275 weekly buys and lowkey hoping we stay in this range for a while so i can keep stacking at decent prices before things potentially moon again curious what strategies you all are running? any tweaks you'd suggest to my approach or different ways to think about accumulating? always down to hear how other people are playing the long game
-
-13h ago
-
----
-
-**[I just bought my first Bitcoin. I need Advice](https://www.reddit.com/r/Bitcoin/comments/1rttx3o/i_just_bought_my_first_bitcoin_i_need_advice/)**
-
-Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
-
-17h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -153,7 +153,7 @@ Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 2d ago
 
 Looking at its returns during past global conflicts, Bitcoin crashes when wars start but recovers within 50-60 days. Data across 20 geopolitical events showing average gains of 31.2% as governments increase money supply to fund conflicts. The Crash-Then-Rally Pattern Bitwise...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,11 +181,11 @@ The Jerusalem Post • 2h ago
 
 ---
 
-**[FED Rate Decisions Vs Bitcoin Next Week: Seven Central Banks Inflation Test](https://finance.yahoo.com/news/fed-rate-decisions-vs-bitcoin-100022688.html)**
+**[Analysts weigh in on Bitwise CIO Matt Hougan’s $1 million bitcoin call](https://www.coindesk.com/markets/2026/03/15/bitwise-s-matt-hougan-revisits-usd1-million-bitcoin-analysts-agree-but-debate-his-timeline)**
 
-This upcoming week could prove pivotal for your portfolio as seven major Central Banks, including the Federal Reserve, prepare to announce critical FED rate decisions. While markets entered 2026 expecting a steady diet of rate cuts, a sudden spike in oil prices following the escalation of the conflict in the ...
+A growing number of industry figures say bitcoin could eventually reach seven figures, but analysts say the outcome hinges on how much of the global store-of-value market the cryptocurrency can capture.
 
-Yahoo Finance • 3h ago
+CoinDesk • 29m ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 3h ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -203,25 +203,25 @@ Investing.com • 9h ago
 
 ---
 
-**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1773562500)**
-
-Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
 **[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Hit a Major Milestone—Most Miners Won't Be Around for the Next One](https://finance.yahoo.com/news/bitcoin-hit-major-milestone-most-140730017.html)**
+**[Bitcoin Hit a Major Milestone—Most Miners Won't Be Around for the Next One](https://decrypt.co/361137/bitcoin-major-milestone-miners)**
 
-Twenty million Bitcoin mined. One million left. The miners who got us here might not be around for the finish.
+The 20 millionth Bitcoin was mined March 2026, leaving 1 million BTC to be issued as block rewards to miners in near-breakeven economics.
 
-Yahoo Finance • 23h ago
+Decrypt • 1d ago
+
+---
+
+**[Iran war oil shock more likely to affect Bitcoin miners through BTC price than energy costs, analysts say](https://www.theblock.co/post/393531/iran-war-oil-shock-more-likely-to-affect-bitcoin-miners-through-btc-price-than-energy-costs-analysts-say)**
+
+Hashrate Index found that about 90% of global Bitcoin hashrate operates in electricity markets largely insulated from oil prices.
+
+The Block • 2d ago
 
 ---
 
@@ -313,7 +313,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 125 • ⏱️ 1:15:12 • 17h ago
+👁️ 26K • 👍 1K • 💬 125 • ⏱️ 1:15:12 • 18h ago
 
 ---
 
@@ -363,7 +363,7 @@ Join me for an exclusive after party and get 10% off of your Bitcoin Vegas ticke
 
 📺 Market Disruptors Podcast
 
-👁️ 7K • 👍 430 • 💬 70 • ⏱️ 57:48 • 20h ago
+👁️ 7K • 👍 430 • 💬 70 • ⏱️ 57:48 • 21h ago
 
 ---
 
@@ -373,7 +373,7 @@ A major fight over Bitcoin is happening on Capitol Hill and most people have no 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 987 • 💬 211 • ⏱️ 14:10 • 21h ago
+👁️ 13K • 👍 987 • 💬 211 • ⏱️ 14:10 • 22h ago
 
 ---
 
@@ -403,7 +403,7 @@ Bitcoin is likely transitioning from a bear channel into a trading range. After 
 
 📺 Brooks Trading Course
 
-👁️ 436 • 👍 40 • 💬 1 • ⏱️ 11:36 • 5h ago
+👁️ 436 • 👍 40 • 💬 1 • ⏱️ 11:36 • 6h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T13:49:34.809278+00:00'
+updated: '2026-03-15T14:31:53.276364+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 13:49 UTC  
+**Last Updated:** March 15, 2026 at 14:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Hey , everyone I’m a 3rd year Robotics & Automation Engineering student looking to build a serious project that could help me land internships at robotics startups, defense/aerospace organizations, or logistics companies like Amazon. Whenever I search for robotics project ideas, I mostly see the same things — line following robots, obstacle avoidance, pick-and-place arms, or SLAM navigation. I’ve already seen or worked on these, so I’m looking for something more unique and meaningful rather than projects that are repeated everywhere. My current skill set includes ROS2, Gazebo, and RViz for simulation pipelines, Python for scripting and ROS nodes, PCB design for custom electronics, and Fusion 360 for mechanical design and 3D printing. I also work with ESP32 and Raspberry Pi, and I have some experience integrating AI agent tools like MCP. Because of this, I’m comfortable working across the full robotics stack — mechanical design, electronics, embedded systems, and software. What I’m hoping to build is a niche robotics project that solves a real-world problem, preferably related to defense, space, manufacturing, or logistics. I’m particularly interested in areas like multi-robot systems, edge robotics, or AI-driven robotic systems that could actually stand out to recruiters or researchers. Ultimately helping me to get an internship. If you work in robotics or research, I’d really appreciate hearing what kind of project you think would genuinely stand out or solve a real problem in the field. Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -68,15 +68,23 @@ Hey , everyone I’m a 3rd year Robotics & Automation Engineering student lookin
 
 ---
 
-**[MEDICAL ROBOTS FOR THE HEALTH SECTOR](https://www.reddit.com/r/robotics/comments/1rtzh3h/medical_robots_for_the_health_sector/)**
-
-13h ago
-
----
-
 **[Rewire — a drop-in ROS 2 bridge for Rerun, no ROS 2 runtime required](https://www.reddit.com/r/robotics/comments/1rtxt6s/rewire_a_dropin_ros_2_bridge_for_rerun_no_ros_2/)**
 
 Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 topics directly to the Rerun viewer for real-time visualization. What it does Speaks DDS and Zenoh natively — it's not a ROS 2 node, so no colcon build, no rclcpp, no ROS 2 install needed 53 built-in type mappings (images, pointclouds, TF, poses, laser scans, odometry, etc.) Custom message mappings via JSON5 config — map any ROS 2 type to Rerun archetypes without writing code URDF loading with full TF tree visualization Per-topic diagnostics (Hz, bandwidth, drops, latency) Topic filtering with glob patterns Getting Started sh curl -fsSL https://rewire.run/install.sh | sh rewire record -a That's it — two commands and you're visualizing your ROS 2 system in Rerun. Works on Linux (x86_64, aarch64) and macOS (Intel + Apple Silicon). Single binary, pure Rust. Website: https://rewire.run Feel free to ask anything!
+
+15h ago
+
+---
+
+**[Looking for people interested in embodied AI/robotics to form a small team (ICRA 2026 challenge)](https://www.reddit.com/r/robotics/comments/1rtuy9r/looking_for_people_interested_in_embodied/)**
+
+Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot learning, and world models for robotics. Recently I came across the AGIBOT World Challenge, which will have its finals at ICRA 2026 in Vienna, and I'm considering participating. Rather than doing it alone, I thought it might be interesting to form a small team with people who enjoy building robotics systems and experimenting with new ideas. From what I understand, the challenge focuses on embodied intelligence, especially things like: • reasoning → action loops • world models for robotics • perception → planning → action pipelines • sim-to-real transfer The finals will be run on real robots at ICRA 2026, and the challenge also provides a simulation platform and datasets for training and testing. Some of the directions I’m personally interested in exploring: • robot learning policies • integrating foundation models with robot planning • world models for prediction and control • simulation-to-real transfer If anyone here is also working on embodied AI, robot learning, or robotics systems, it would be great to exchange ideas or potentially form a small team. Feel free to reply here, send a DM, or email me directly: [Seatrain.liang@gmail.com](mailto:Seatrain.liang@gmail.com) Also curious to hear how people here are approaching embodied AI systems for robotics lately.
+
+17h ago
+
+---
+
+**[MEDICAL ROBOTS FOR THE HEALTH SECTOR](https://www.reddit.com/r/robotics/comments/1rtzh3h/medical_robots_for_the_health_sector/)**
 
 14h ago
 
@@ -92,15 +100,7 @@ Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 t
 
 I’ve been building a small Rust project called Reflex Engine SDK, and I’m trying to figure out whether it actually fits anywhere real in robotics or if I’m forcing the angle. The basic idea is pretty simple: an event or proposed action comes in, it gets checked against a local ruleset, it returns ALLOW or DENY, and it emits a replayable artifact showing what happened. I’m not talking about planning, perception, or SLAM. I’m thinking more along the lines of geofence, speed, altitude, or policy checks before something executes. The main thing I’ve learned so far is that the core evaluator seems fast enough to be interesting, and the bigger bottleneck was artifact persistence on the hot path rather than the rule check itself. Repo/demo: https://github.com/caminodynamics/reflex-engine-sdk⁠� My real question is whether something like this actually belongs anywhere in a robotics stack. Does it make sense as a pre-execution gate inside an autonomy stack, or as a local safety/policy layer at the edge, or is this basically unnecessary because existing systems already cover it better?
 
-15h ago
-
----
-
-**[Marc Raibert on Why Expectations in Robotics Are Over the Top](https://www.reddit.com/r/robotics/comments/1rswnzy/marc_raibert_on_why_expectations_in_robotics_are/)**
-
-Marc Raibert talks here about how expectations around robotics have changed over time. Every new capability or demo quickly becomes the new baseline, and what felt like a breakthrough a few years ago is now treated as something that should just work. The expectations keep climbing even though the engineering behind it is still incredibly hard.
-
-1d ago
+16h ago
 
 ---
 
@@ -124,12 +124,6 @@ Quanta Magazine • 1d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfaNbMBnOzc19Io5okyORDYXjCSYI1zm3bnaEXRZYVAkJp7Fvxt7RW0&gaa_ts=69b6afcf&gaa_sig=alFx4KUm2Ts2zyeWbowMxXJqjpiY76f79bn38lPhRU1cdxa8_cX64jf_5rdXNnHdANc8HxMdgii48arXXDAcKg%3D%3D)**
-
-WSJ • 3h ago
-
----
-
 **[‘Pokémon Go’ players have been unknowingly training delivery robots](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
@@ -138,11 +132,17 @@ Popular Science • 1d ago
 
 ---
 
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqc48oJjrDAlm1os-cCRwxExQeivJ3vkbKHU_BDIYDTCqe_eKr54GhbA&gaa_ts=69b6c647&gaa_sig=ZWRBpUfOvF5knF3gEPlBSsD3j_k3UBMm1h7ljReAt6c0mu9e-A4ryqHsm8EvxkbvAE3LX4c9ThC07ZSUK368oA%3D%3D)**
+
+WSJ • 4h ago
+
+---
+
 **[Humanoid robots get to work at German BMW factory [video]](https://electrek.co/2026/03/14/humanoid-robots-get-to-work-at-german-bmw-factory-video/)**
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 13h ago
+Electrek • 14h ago
 
 ---
 
@@ -150,7 +150,15 @@ Electrek • 13h ago
 
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
 
-NPR • 1d ago
+NPR • 2d ago
+
+---
+
+**[Elon Musk Bets On Human Workforce As AI, Robotics Boost Productivity: 'Basically Just Issue Money…'](https://finance.yahoo.com/news/elon-musk-bets-human-workforce-013057590.html)**
+
+Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
+
+Yahoo Finance • 13h ago
 
 ---
 
@@ -158,7 +166,7 @@ NPR • 1d ago
 
 A San Francisco-based company deployed two humanoid robots for "reconnaissance duties" in the Ukraine-Russo war.
 
-Futurism • 18h ago
+Futurism • 19h ago
 
 ---
 
@@ -178,14 +186,6 @@ New Hampshire Public Radio • 2d ago
 
 ---
 
-**[China’s New Five-Year Plan Prioritizes Robotics. The World Should Pay Attention.](https://thediplomat.com/2026/03/chinas-new-five-year-plan-prioritizes-robotics-the-world-should-pay-attention/)**
-
-Beijing is embarking on a “whole-of-nation push” to achieve permanent dominance in physical AI technologies.
-
-The Diplomat – Asia-Pacific Current Affairs Magazine • 5h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +196,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 43K • 👍 1K • 💬 197 • ⏱️ 49:45 • 19h ago
+👁️ 43K • 👍 1K • 💬 197 • ⏱️ 49:45 • 20h ago
 
 ---
 
@@ -206,7 +206,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 14K • 👍 89 • ⏱️ 9:16:18 • 15h ago
+👁️ 14K • 👍 89 • ⏱️ 9:16:18 • 16h ago
 
 ---
 
