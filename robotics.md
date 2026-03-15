@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T11:27:29.596245+00:00'
+updated: '2026-03-15T11:49:12.416975+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 11:27 UTC  
+**Last Updated:** March 15, 2026 at 11:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-54m ago
+1h ago
 
 ---
 
@@ -50,7 +50,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -58,7 +58,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Hey , everyone I’m a 3rd year Robotics & Automation Engineering student looking to build a serious project that could help me land internships at robotics startups, defense/aerospace organizations, or logistics companies like Amazon. Whenever I search for robotics project ideas, I mostly see the same things — line following robots, obstacle avoidance, pick-and-place arms, or SLAM navigation. I’ve already seen or worked on these, so I’m looking for something more unique and meaningful rather than projects that are repeated everywhere. My current skill set includes ROS2, Gazebo, and RViz for simulation pipelines, Python for scripting and ROS nodes, PCB design for custom electronics, and Fusion 360 for mechanical design and 3D printing. I also work with ESP32 and Raspberry Pi, and I have some experience integrating AI agent tools like MCP. Because of this, I’m comfortable working across the full robotics stack — mechanical design, electronics, embedded systems, and software. What I’m hoping to build is a niche robotics project that solves a real-world problem, preferably related to defense, space, manufacturing, or logistics. I’m particularly interested in areas like multi-robot systems, edge robotics, or AI-driven robotic systems that could actually stand out to recruiters or researchers. Ultimately helping me to get an internship. If you work in robotics or research, I’d really appreciate hearing what kind of project you think would genuinely stand out or solve a real problem in the field. Thanks!
 
-6m ago
+28m ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 40K • 👍 1K • 💬 188 • ⏱️ 49:45 • 16h ago
+👁️ 40K • 👍 1K • 💬 188 • ⏱️ 49:45 • 17h ago
 
 ---
 

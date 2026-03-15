@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-15T11:27:29.580547+00:00'
+updated: '2026-03-15T11:49:12.399170+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - news
 - repositories
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 15, 2026 at 11:27 UTC  
+**Last Updated:** March 15, 2026 at 11:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-22h ago
+23h ago
 
 ---
 
@@ -167,13 +167,13 @@ The Jerusalem Post • 2h ago
 
 Records show DHS tech incubator spending large sums on partnerships that would expand surveillance capabilities
 
-The Guardian • 25m ago
+The Guardian • 47m ago
 
 ---
 
 **[Human-Centered AI Is Becoming A Leadership Imperative](https://www.forbes.com/sites/rhettpower/2026/03/15/human-centered-ai-is-becoming-a-leadership-imperative/)**
 
-Forbes • 27m ago
+Forbes • 49m ago
 
 ---
 
@@ -189,7 +189,7 @@ Fortune • 1d ago
 
 "So there's a lot of scenarios here, a lot of really frightening scenarios about where escalation could lead," Sacks said.
 
-Yahoo • 18h ago
+Yahoo • 19h ago
 
 ---
 
@@ -363,7 +363,7 @@ HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #a
 
 📺 AI Search
 
-👁️ 23K • 👍 1K • 💬 191 • ⏱️ 45:43 • 7h ago
+👁️ 23K • 👍 1K • 💬 191 • ⏱️ 45:43 • 8h ago
 
 ---
 
@@ -459,7 +459,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 20,858 • ❤️ 192 • 20h ago
+⬇️ 20,858 • ❤️ 192 • 21h ago
 
 ---
 
@@ -719,7 +719,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 7.2k • 🔱 330 • 19h ago
+⭐ 7.2k • 🔱 330 • 20h ago
 
 ---
 

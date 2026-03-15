@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T11:27:29.588083+00:00'
+updated: '2026-03-15T11:49:12.407743+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 11:27 UTC  
+**Last Updated:** March 15, 2026 at 11:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -99,7 +99,7 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 **[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 4h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 5h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1d ago
 
 Several prominent figures in the cryptocurrency industry have pushed back against former UK Prime Minister Boris Johnson after he described Bitcoin as a Ponzi scheme in a newspaper column. Key Takeaways: Boris Johnson called Bitcoin a “Ponzi scheme,” warning readers against investing in cryptocurrencies. Crypto leaders including Michael Saylor, Paolo ...
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bitcoin is stuck below $75K, but thin resistance above could send it to $80K fas
 
 These assets will help you to layer either safety or some risk into your portfolio.
 
-AOL.com • 1h ago
+AOL.com • 2h ago
 
 ---
 
@@ -217,7 +217,7 @@ AOL.com • 1h ago
 
 Large Bitcoin holders have started accumulating again as the cryptocurrency trades near the $71,000 level, according to new data from crypto analytics firm Santiment. Key Takeaways: Bitcoin whales holding 10–10,000 BTC have resumed accumulation as the price stabilizes near $71,000. These large wallets now control about 68.17% of Bitcoin’s total ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
