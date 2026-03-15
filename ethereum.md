@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T05:06:41.708642+00:00'
+updated: '2026-03-15T06:33:18.030835+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 05:06 UTC  
+**Last Updated:** March 15, 2026 at 06:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +5.5%  
-**30d:** +0.9%  
-**90d:** -29.0%  
-**1y:** +11.5%  
+**24h:** +1.3%  
+**7d:** +5.6%  
+**30d:** +1.0%  
+**90d:** -28.9%  
+**1y:** +11.7%  
 
 ---
 
@@ -68,6 +68,22 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion March 15, 2026](https://www.reddit.com/r/ethereum/comments/1ru5apg/daily_general_discussion_march_15_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
+**[Vitalik Buterin says Ethereum may need to rethink its node architecture](https://www.reddit.com/r/ethereum/comments/1ru6tx1/vitalik_buterin_says_ethereum_may_need_to_rethink/)**
+
+Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
+
+4m ago
+
+---
+
 **[Daily General Discussion March 14, 2026](https://www.reddit.com/r/ethereum/comments/1rtajhm/daily_general_discussion_march_14_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -76,17 +92,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Daily General Discussion March 15, 2026](https://www.reddit.com/r/ethereum/comments/1ru5apg/daily_general_discussion_march_15_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-6m ago
-
----
-
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -94,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
 
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 23h ago
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 1d ago
 
 ---
 
@@ -102,7 +110,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 Ethereum Foundation (EF) wrote a constitution for the soul of the project. The new EF Mandate isn't just a corporate mission statement but a line in the sand for how Ethereum stays human in an increasingly automated world. The EF is calling its core philosophy CROPS. If a feature isn’t Censorship-resistant, Resilient, Open-source, Private, and Secure, it doesn't belong on ethereum . No trading sovereignty for convenience. Here are the main points: Stewardship, Not Ownership: The EF is explicitly saying they aren't the boss. They are temporary caretakers who eventually want to disappear. This is the ultimate decentralize or die commitment. The AI Shield: They see a future where AI and opaque algorithms run everything. Ethereum’s job is to be the Infinite Garden, a place where humans, not code or corporations, have the final say over their own lives. Immutable Values: By publishing this directly onto the blockchain, they’ve made their values as permanent as a transaction. You can’t edit the project's soul once it’s on-chain. This is a massive vibe check for the entire ecosystem. It’s a reminder that if we give up control for a slightly faster app, we’ve already lost the plot. Can a written mandate actually stop the slow creep of centralization, or is the pull of convenience just too strong? Let’s talk. 👇 Source
 
-22h ago
+23h ago
 
 ---
 
@@ -110,7 +118,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
 
-17h ago
+18h ago
 
 ---
 
@@ -136,14 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Etherscan Warns Ethereum Users About Rising Address Poisoning Scams](https://www.reddit.com/r/ethereum/comments/1rsj99k/etherscan_warns_ethereum_users_about_rising/)**
-
-Address poisoning scams on Ethereum are increasing as automated attacks scale, exploiting lower transaction costs and tricking users into sending funds to fake addresses.
-
-🔗 [Cryip.co](https://cryip.co/etherscan-address-poisoning-attacks-ethereum/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +152,7 @@ Address poisoning scams on Ethereum are increasing as automated attacks scale, e
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
-The Block • 10h ago
+The Block • 12h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 10h ago
 
 The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
 
-Decrypt • 9h ago
+Decrypt • 11h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 9h ago
 
 Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -180,11 +180,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Not XRP Or Ethereum: You Won’t Believe The Network With The Highest Number Of RWA Users](https://www.tradingview.com/news/newsbtc:7ba3f76a1094b:0-not-xrp-or-ethereum-you-won-t-believe-the-network-with-the-highest-number-of-rwa-users/)**
+**[Ethereum Price Coils Near Key Resistance: A Breakout Could Be Explosive](https://www.tradingview.com/news/newsbtc:d0ef18bc9094b:0-ethereum-price-coils-near-key-resistance-a-breakout-could-be-explosive/)**
 
-Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
+Ethereum is tightening below a critical $2,149 resistance level, building pressure as bulls and bears jockey for control. A decisive breakout above this zone could trigger strong momentum, potentially sending the price toward the next major resistance near $2,750.A Test Of The Key $2,149 Resistance…
 
-TradingView • 1d ago
+TradingView • 3h ago
+
+---
+
+**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
+
+XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
+
+Coinpaper • 23h ago
 
 ---
 
@@ -212,19 +220,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
-
-XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
-
-Coinpaper • 21h ago
-
----
-
 **[Ethereum Foundation publishes ‘part manifesto, part constitution’ for network](https://ambcrypto.com/ethereum-foundation-publishes-part-manifesto-part-constitution-for-network/)**
 
 Ethereum Foundation has unveiled a 'EF Mandate', a new strategic roadmap and guiding principles to ensure long-term user freedom...
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 170 • 💬 47 • ⏱️ 12:50 • 18h ago
+👁️ 3K • 👍 170 • 💬 47 • ⏱️ 12:50 • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 103 • 💬 74 • ⏱️ 9:05 • 15h ago
+👁️ 2K • 👍 103 • 💬 74 • ⏱️ 9:05 • 16h ago
 
 ---
 
@@ -268,7 +268,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 4K • 👍 352 • 💬 71 • ⏱️ 22:03 • 6h ago
+👁️ 4K • 👍 352 • 💬 71 • ⏱️ 22:03 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN: It's Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 3K • 👍 160 • 💬 117 • ⏱️ 15:38 • 4h ago
+👁️ 3K • 👍 160 • 💬 117 • ⏱️ 15:38 • 6h ago
 
 ---
 
@@ -298,7 +298,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 229 • 👍 25 • 💬 3 • ⏱️ 6:36 • 13h ago
+👁️ 229 • 👍 25 • 💬 3 • ⏱️ 6:36 • 14h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 288 • 👍 46 • ⏱️ 5:26 • 1h ago
+👁️ 288 • 👍 46 • ⏱️ 5:26 • 3h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 395 • 👍 25 • 💬 2 • ⏱️ 6:31 • 18h ago
+👁️ 395 • 👍 25 • 💬 2 • ⏱️ 6:31 • 19h ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 3 • ⏱️ 4:26 • 8h ago
+👁️ 1K • 👍 114 • 💬 3 • ⏱️ 4:26 • 10h ago
 
 ---
 

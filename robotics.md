@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T05:06:41.711859+00:00'
+updated: '2026-03-15T06:33:18.034030+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 05:06 UTC  
+**Last Updated:** March 15, 2026 at 06:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
 
-11h ago
+13h ago
 
 ---
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -56,13 +56,13 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Hey everyone, I’m a high school senior who’s about to start college as a mechanical engineering major. I’m really interested in robotics, but I have basically zero experience with actual robots and I’m also pretty desperate to learn how to code. Right now I’m kind of overwhelmed and don’t know what to focus on first. Should I start with Arduino or Raspberry Pi type projects, learn a language like Python or C++ first, or spend time on basic electronics/mechatronics stuff? If you were in my shoes going into mechE with no robotics or coding background how would you get started over the next few months? Any specific beginner projects, resources, or paths to follow would be super helpful. Thanks in advance for any advice :)
 
-5h ago
+7h ago
 
 ---
 
 **[MEDICAL ROBOTS FOR THE HEALTH SECTOR](https://www.reddit.com/r/robotics/comments/1rtzh3h/medical_robots_for_the_health_sector/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -70,13 +70,13 @@ Hey everyone, I’m a high school senior who’s about to start college as a mec
 
 Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 topics directly to the Rerun viewer for real-time visualization. What it does Speaks DDS and Zenoh natively — it's not a ROS 2 node, so no colcon build, no rclcpp, no ROS 2 install needed 53 built-in type mappings (images, pointclouds, TF, poses, laser scans, odometry, etc.) Custom message mappings via JSON5 config — map any ROS 2 type to Rerun archetypes without writing code URDF loading with full TF tree visualization Per-topic diagnostics (Hz, bandwidth, drops, latency) Topic filtering with glob patterns Getting Started sh curl -fsSL https://rewire.run/install.sh | sh rewire record -a That's it — two commands and you're visualizing your ROS 2 system in Rerun. Works on Linux (x86_64, aarch64) and macOS (Intel + Apple Silicon). Single binary, pure Rust. Website: https://rewire.run Feel free to ask anything!
 
-6h ago
+7h ago
 
 ---
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 t
 
 I’ve been building a small Rust project called Reflex Engine SDK, and I’m trying to figure out whether it actually fits anywhere real in robotics or if I’m forcing the angle. The basic idea is pretty simple: an event or proposed action comes in, it gets checked against a local ruleset, it returns ALLOW or DENY, and it emits a replayable artifact showing what happened. I’m not talking about planning, perception, or SLAM. I’m thinking more along the lines of geofence, speed, altitude, or policy checks before something executes. The main thing I’ve learned so far is that the core evaluator seems fast enough to be interesting, and the bigger bottleneck was artifact persistence on the hot path rather than the rule check itself. Repo/demo: https://github.com/caminodynamics/reflex-engine-sdk⁠� My real question is whether something like this actually belongs anywhere in a robotics stack. Does it make sense as a pre-execution gate inside an autonomy stack, or as a local safety/policy layer at the edge, or is this basically unnecessary because existing systems already cover it better?
 
-7h ago
+8h ago
 
 ---
 
@@ -92,7 +92,7 @@ I’ve been building a small Rust project called Reflex Engine SDK, and I’m tr
 
 Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot learning, and world models for robotics. Recently I came across the AGIBOT World Challenge, which will have its finals at ICRA 2026 in Vienna, and I'm considering participating. Rather than doing it alone, I thought it might be interesting to form a small team with people who enjoy building robotics systems and experimenting with new ideas. From what I understand, the challenge focuses on embodied intelligence, especially things like: • reasoning → action loops • world models for robotics • perception → planning → action pipelines • sim-to-real transfer The finals will be run on real robots at ICRA 2026, and the challenge also provides a simulation platform and datasets for training and testing. Some of the directions I’m personally interested in exploring: • robot learning policies • integrating foundation models with robot planning • world models for prediction and control • simulation-to-real transfer If anyone here is also working on embodied AI, robot learning, or robotics systems, it would be great to exchange ideas or potentially form a small team. Feel free to reply here, send a DM, or email me directly: [Seatrain.liang@gmail.com](mailto:Seatrain.liang@gmail.com) Also curious to hear how people here are approaching embodied AI systems for robotics lately.
 
-7h ago
+9h ago
 
 ---
 
@@ -116,6 +116,14 @@ CNBC • 1d ago
 
 ---
 
+**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
+
+The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
+
+Quanta Magazine • 1d ago
+
+---
+
 **[‘Pokémon Go’ players have been unknowingly training delivery robots](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
@@ -128,7 +136,7 @@ Popular Science • 1d ago
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 5h ago
+Electrek • 6h ago
 
 ---
 
@@ -148,11 +156,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
+**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
 
-The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
+Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
 
-Quanta Magazine • 1d ago
+13wham.com • 6h ago
 
 ---
 
@@ -161,14 +169,6 @@ Quanta Magazine • 1d ago
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
 New Hampshire Public Radio • 2d ago
-
----
-
-**[China’s New Five-Year Plan Prioritizes Robotics. The World Should Pay Attention.](https://thediplomat.com/2026/03/chinas-new-five-year-plan-prioritizes-robotics-the-world-should-pay-attention/)**
-
-Beijing is embarking on a “whole-of-nation push” to achieve permanent dominance in physical AI technologies.
-
-The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ Crunchbase News • 1d ago
 
 As part of a competition, they had to build robots them use them to complete missions on a game table.
 
-BBC • 1d ago
+BBC • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 32K • 👍 1K • 💬 166 • ⏱️ 49:45 • 10h ago
+👁️ 32K • 👍 1K • 💬 166 • ⏱️ 49:45 • 12h ago
 
 ---
 
@@ -258,7 +258,7 @@ dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Ema
 
 📺 DOWELL3D PRINTER
 
-👁️ 8K • 👍 114 • 💬 2 • ⏱️ 0:17 • 21h ago
+👁️ 8K • 👍 114 • 💬 2 • ⏱️ 0:17 • 22h ago
 
 ---
 
@@ -288,7 +288,7 @@ We show you how NOT to build a Robotics Company! ▻ Join the Discord to Build R
 
 📺 Nick Builds
 
-👁️ 1K • 👍 91 • 💬 21 • ⏱️ 11:52 • 10h ago
+👁️ 1K • 👍 91 • 💬 21 • ⏱️ 11:52 • 11h ago
 
 ---
 
