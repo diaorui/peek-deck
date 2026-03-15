@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T06:33:18.024857+00:00'
+updated: '2026-03-15T07:45:43.802910+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 06:33 UTC  
+**Last Updated:** March 15, 2026 at 07:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,470.88
+### $71,454.47
 
 ---
 
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1431.11B
+**Market Cap:** $1429.68B
 Rank #1
 
 **Circulating Supply:** 20,002,203 BTC
@@ -64,7 +64,7 @@ Rank #1
 -43.3%
 
 **All-Time Low:** $67.81
-+105371.2%
++105298.9%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-9h ago
+11h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -105,21 +105,19 @@ Rank #1
 
 Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
 
-10h ago
+11h ago
+
+---
+
+**[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 1h ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-16h ago
-
----
-
-**[Fear & Greed might be the worst indicator for the people who need it most](https://www.reddit.com/r/Bitcoin/comments/1rtx3jf/fear_greed_might_be_the_worst_indicator_for_the/)**
-
-When Fear & Greed hits extreme fear, that's historically when you want to be accumulating. Everyone here knows this... But I've been thinking about what that same signal does to someone in their first bear market. They see "EXTREME FEAR" and their brain processes it as danger, not discount. Their emotional response to it triggers the opposite of what's useful. It's the same problem with price charts going down. Experienced holders see opportunity. Newcomers see a reason to leave. Is the solution better financial education? Better framing? Or is Fear & Greed just fundamentally a tool for people who already don't need it?
-
-7h ago
+17h ago
 
 ---
 
@@ -127,15 +125,15 @@ When Fear & Greed hits extreme fear, that's historically when you want to be acc
 
 hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 and i know it's kinda arbitrary but whatever, it gives me something to work toward and actually makes me excited when we see red days lol currently doing $275 weekly buys and lowkey hoping we stay in this range for a while so i can keep stacking at decent prices before things potentially moon again curious what strategies you all are running? any tweaks you'd suggest to my approach or different ways to think about accumulating? always down to hear how other people are playing the long game
 
-6h ago
+7h ago
 
 ---
 
-**[Is night UTC, European countries good time to trade crypto?](https://www.reddit.com/r/Bitcoin/comments/1ru2rfk/is_night_utc_european_countries_good_time_to/)**
+**[Fear & Greed might be the worst indicator for the people who need it most](https://www.reddit.com/r/Bitcoin/comments/1rtx3jf/fear_greed_might_be_the_worst_indicator_for_the/)**
 
-Hey everyone, I’ve been watching the charts lately and noticed that things get really interesting around 23:00 UTC (European nighttime). I’ve seen some pretty "nice" moves and volatility starting exactly at that hour. I’m still fairly new to this, so I have a few questions for the veterans here: 1.Is this the Asia Open? I noticed that's when the volume seems to spike again after the US close. Is it Tokyo/Singapore waking up, or just the Daily Candle close? 2.Liquidity vs. Volatility: I’ve heard people say this is a "low liquidity" time. Does that mean these moves are often "fakeouts" (bull traps/bear traps), or are they reliable trends? 3.Leaving positions overnight: Is it a suicide mission to leave a position open at this hour with a stop-loss, or do you guys find the Asian session stable enough to trade? I’m based in Europe, so this is late for me. I like the price action, but I don't want to get "whipsawed" while I'm sleeping. Any advice or experiences with this specific time window would be much appreciated!?
+When Fear & Greed hits extreme fear, that's historically when you want to be accumulating. Everyone here knows this... But I've been thinking about what that same signal does to someone in their first bear market. They see "EXTREME FEAR" and their brain processes it as danger, not discount. Their emotional response to it triggers the opposite of what's useful. It's the same problem with price charts going down. Experienced holders see opportunity. Newcomers see a reason to leave. Is the solution better financial education? Better framing? Or is Fear & Greed just fundamentally a tool for people who already don't need it?
 
-3h ago
+9h ago
 
 ---
 
@@ -143,7 +141,7 @@ Hey everyone, I’ve been watching the charts lately and noticed that things get
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-26m ago
+1h ago
 
 ---
 
@@ -151,27 +149,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Boris Johnson calling Bitcoin a ‘Ponzi’ draws rebuttal from Michael Saylor and others](https://www.coindesk.com/business/2026/03/14/boris-johnson-calling-bitcoin-a-ponzi-draws-rebuttal-from-michael-saylor-and-others)**
+**[These 3 charts show Bitcoin’s war-linked selloff keeps shrinking as Iran conflict worsens](https://www.coindesk.com/markets/2026/03/14/bitcoin-sold-off-first-when-the-u-s-iran-war-began-two-weeks-later-it-s-outperforming-nearly-everything)**
 
-The cryptocurrency community pushed back, with Michael Saylor saying Bitcoin has no issuer, promoter, or guaranteed return, and is instead  driven by code and market demand.
+Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 13h ago
-
----
-
-**[Michael Saylor slams Boris Johnson's harsh warnings on Bitcoin](https://finance.yahoo.com/news/michael-saylor-slams-boris-johnsons-003030674.html)**
-
-Former United Kingdom Prime Minister Boris Johnson has described Bitcoin (BTC) and other cryptocurrencies as a “giant Ponzi scheme,” warning that the digital asset industry depends largely on belief rather than intrinsic value. Writing in a new column for the Daily Mail, Johnson argued that ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Former UK Prime Minister Boris Johnson calls Bitcoin a ‘Ponzi scheme’](https://www.tradingview.com/news/cointelegraph:3c0b534b4094b:0-former-uk-prime-minister-boris-johnson-calls-bitcoin-a-ponzi-scheme/)**
-
-Boris Johnson, the former prime minister of the United Kingdom, called Bitcoin BITSTAMP:BTCUSD a “Ponzi Scheme” that has less value than Pokémon cards, collectibles he said had a wide appeal and a multi-decade history.Johnson wrote an opinion article published in the Daily Mail on Friday that began…
-
-TradingView • 12h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -180,14 +162,6 @@ TradingView • 12h ago
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
 Financial Times • 2d ago
-
----
-
-**[These 3 charts show Bitcoin’s war-linked selloff keeps shrinking as Iran conflict worsens](https://www.coindesk.com/markets/2026/03/14/bitcoin-sold-off-first-when-the-u-s-iran-war-began-two-weeks-later-it-s-outperforming-nearly-everything)**
-
-Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
-
-CoinDesk • 1h ago
 
 ---
 
@@ -203,15 +177,23 @@ Yahoo Finance • 1d ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773535800)**
+**[Bitcoin whales are starting to accumulate again at $71K: Santiment](https://www.tradingview.com/news/cointelegraph:aff7df59a094b:0-bitcoin-whales-are-starting-to-accumulate-again-at-71k-santiment/)**
+
+Large Bitcoin wallets are increasing their holdings again as the asset’s price holds around $71,000, according to crypto sentiment platform Santiment.“Their recent shift to accumulation is a bullish signal,” Santiment said in a report on Saturday, referring to wallets holding between 10 and 10,000…
+
+TradingView • 2h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773547500)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 1d ago
+Polymarket • 2d ago
 
 ---
 
@@ -225,7 +207,19 @@ Bloomberg.com • 1d ago
 
 The 20 millionth Bitcoin was mined March 2026, leaving 1 million BTC to be issued as block rewards to miners in near-breakeven economics.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
+
+---
+
+**[‘We’re Doing Everything We Can To Destroy It’—Legendary Billionaire Predicts U.S. Dollar Collapse Amid Bitcoin Price Rally](https://www.forbes.com/sites/digital-assets/2026/03/14/were-doing-everything-we-can-to-destroy-it-legendary-billionaire-predicts-us-dollar-collapse-amid-bitcoin-price-rally/)**
+
+Forbes • 20h ago
+
+---
+
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqfd6ltST0fTkSHNfBF2g5wSQdmdwgvOON9Sk2lV3JuaFcTLErPV3IuD&gaa_ts=69b66715&gaa_sig=r3qALdh0ISN3K_VBhtzIgJgwFe9UrRUDyMBNxXukFcr3R-uJDAtCPdjMfSFgTHktGsDTi_4I0hrXh-9lrmdM0g%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -265,7 +259,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 21h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 22h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -317,17 +311,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 902 • 💬 207 • ⏱️ 1:15:12 • 10h ago
-
----
-
-**[The Next Bitcoin Bull Run Could Start In A Crisis](https://www.youtube.com/watch?v=Gb75HhiAYtA)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 43K • 👍 2K • 💬 65 • ⏱️ 46:42 • 17h ago
+👁️ 21K • 👍 1K • 💬 133 • ⏱️ 1:15:12 • 11h ago
 
 ---
 
@@ -337,7 +321,7 @@ The bitcoin and altcoin bottom is coming in - moving averages and the pi cycle b
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 345 • 💬 24 • ⏱️ 21:58 • 7h ago
+👁️ 5K • 👍 399 • 💬 27 • ⏱️ 21:58 • 8h ago
 
 ---
 
@@ -347,7 +331,17 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 30K • 👍 1K • 💬 160 • ⏱️ 12:14 • 1d ago
+👁️ 30K • 👍 2K • 💬 161 • ⏱️ 12:14 • 1d ago
+
+---
+
+**[The Next Bitcoin Bull Run Could Start In A Crisis](https://www.youtube.com/watch?v=Gb75HhiAYtA)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 46K • 👍 2K • 💬 65 • ⏱️ 46:42 • 18h ago
 
 ---
 
@@ -357,17 +351,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 163 • ⏱️ 14:33 • 1d ago
-
----
-
-**[Why The Bitcoin Whales Are About To Eat You Alive](https://www.youtube.com/watch?v=BNnWrehbTzA)**
-
-Retail panic selling is feeding the biggest Bitcoin accumulation in history. While headlines scream bear market, institutions are ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 2K • 💬 126 • ⏱️ 22:37 • 2d ago
+👁️ 28K • 👍 2K • 💬 164 • ⏱️ 14:33 • 1d ago
 
 ---
 
@@ -377,7 +361,17 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 97K • 👍 5K • 💬 737 • ⏱️ 18:10 • 2d ago
+👁️ 98K • 👍 5K • 💬 737 • ⏱️ 18:10 • 2d ago
+
+---
+
+**[Why The Bitcoin Whales Are About To Eat You Alive](https://www.youtube.com/watch?v=BNnWrehbTzA)**
+
+Retail panic selling is feeding the biggest Bitcoin accumulation in history. While headlines scream bear market, institutions are ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 128 • ⏱️ 22:37 • 2d ago
 
 ---
 
@@ -387,7 +381,7 @@ The stock market is bleeding, Gold and Silver are breaking down, but the crypto 
 
 📺 Gareth Soloway
 
-👁️ 50K • 👍 3K • 💬 337 • ⏱️ 9:50 • 1d ago
+👁️ 51K • 👍 3K • 💬 341 • ⏱️ 9:50 • 1d ago
 
 ---
 
@@ -397,17 +391,17 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 298 • ⏱️ 13:31 • 1d ago
+👁️ 41K • 👍 2K • 💬 230 • ⏱️ 13:31 • 1d ago
 
 ---
 
-**[FORGET WALL ST: How the Biggest Bitcoin Attack Is Coming From Within!](https://www.youtube.com/watch?v=UdUY0ol6HVk)**
+**[The Best Bitcoin Miner Ever: THE GOLD NUGGET!⭐](https://www.youtube.com/watch?v=WGCNhaRkSM0)**
 
-A major fight over Bitcoin is happening on Capitol Hill and most people have no idea. Coinbase lobbyists are reportedly pushing ...
+The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device that lets you generate fresh 'lottery tickets' every 10 ...
 
-📺 Simply Bitcoin
+📺 How Much?
 
-👁️ 11K • 👍 861 • 💬 220 • ⏱️ 14:10 • 14h ago
+👁️ 2K • 👍 28 • 💬 2 • ⏱️ 0:34 • 8h ago
 
 ---
 
