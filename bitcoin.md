@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T22:29:56.691334+00:00'
+updated: '2026-03-15T22:58:28.079445+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 22:29 UTC  
+**Last Updated:** March 15, 2026 at 22:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1429.60B
+**Market Cap:** $1456.57B
 Rank #1
 
-**Circulating Supply:** 20,002,493 BTC
-95.2% of max
+**Circulating Supply:** 20,002,534 BTC
+95.3% of max
 
 **All-Time High:** $126,080.00
--43.3%
+-42.3%
 
 **All-Time Low:** $67.81
-+105349.0%
++107136.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Surprise, the doomers and the panic sellers were wrong again.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 1h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 2h ago
 
 ---
 
@@ -117,7 +117,7 @@ Surprise, the doomers and the panic sellers were wrong again.
 
 **[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-12h ago
+13h ago
 
 ---
 
@@ -193,7 +193,7 @@ Financial Times • 2d ago
 
 We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100K in 2026. Four said yes, and only one said no. Here's why.
 
-24/7 Wall St. • 9h ago
+24/7 Wall St. • 10h ago
 
 ---
 
@@ -221,7 +221,7 @@ TradingView • 6h ago
 
 Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 6h ago
+Polymarket • 7h ago
 
 ---
 
@@ -299,7 +299,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 9h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+⬆️ 1 • 💬 0 • 10h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
 
 ---
 
@@ -307,33 +307,63 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Insider Makes SHOCKING Michael Saylor Prediction](https://www.youtube.com/watch?v=dmNhm7nW-oA)**
+**[&quot;All Hell is Gonna Break Loose in Bitcoin&quot; | Insider Interview on Michael Saylor](https://www.youtube.com/watch?v=dmNhm7nW-oA)**
 
 Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: https://x.com/pete_rizzo_ BTC ...
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 1K • 💬 111 • ⏱️ 1:15:12 • 1d ago
+👁️ 35K • 👍 1K • 💬 155 • ⏱️ 1:15:12 • 1d ago
 
 ---
 
-**[BITCOIN TO $35K? THE BEARS ARE COMPLETELY LOSING IT!](https://www.youtube.com/watch?v=qaNwMiqRYd0)**
+**[Crypto Market EXPLODES in 3.. 2.. 1.. (Watch Immediately)](https://www.youtube.com/watch?v=JRyxhgbY7P4)**
 
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
 
-📺 Adam Livingston
+📺 Altcoin Daily
 
-👁️ 2K • 👍 353 • 💬 81 • ⏱️ 20:55 • 4h ago
+👁️ 10K • 👍 929 • 💬 111 • ⏱️ 10:40 • 2h ago
 
 ---
 
-**[Strategy is Driving ALL The Bitcoin Out Of Circulation FOREVER!](https://www.youtube.com/watch?v=-_C4dZZvWIk)**
+**[The Bitcoin Bottom is Closing In. Don’t Miss It.](https://www.youtube.com/watch?v=le1HlYVYDvw)**
 
-Strategy may have raised over $1 billion in a single trading session, and if that's even close to true, Bitcoin's supply dynamics may ...
+The bitcoin and altcoin bottom is coming in - moving averages and the pi cycle bottom are being looked at BUT will the market do ...
 
-📺 Swan Bitcoin
+📺 Digital Asset News
 
-👁️ 33K • 👍 2K • 💬 162 • ⏱️ 12:14 • 2d ago
+👁️ 9K • 👍 592 • 💬 45 • ⏱️ 21:58 • 23h ago
+
+---
+
+**[Bitcoin Back to $10K &amp; Altcoins to ZERO?! | Mike McGlone](https://www.youtube.com/watch?v=m4xgMn8P43A)**
+
+Mike McGlone warns that the current market cycle could resemble 2008, with wealth creation reversing and crypto acting as a ...
+
+📺 Cointelegraph
+
+👁️ 966 • 👍 5 • 💬 29 • ⏱️ 0:29 • 4h ago
+
+---
+
+**[The Bitcoin Shift That Will Change Markets Forever | Haider Rafique](https://www.youtube.com/watch?v=iiidQ5HEv4g)**
+
+Bitcoin #Crypto #Finance Will Bitcoin Survive The Shift That Will Change Markets Forever? Tokenization may be a lot closer than ...
+
+📺 The Wolf Of All Streets
+
+👁️ 8K • 👍 373 • 💬 235 • ⏱️ 58:23 • 9h ago
+
+---
+
+**[Bitcoin Just Triggered a Signal That Nailed EVERY Bottom…](https://www.youtube.com/watch?v=KLEy7-6NaD0)**
+
+Bitcoin might be approaching one of the most important moments of the cycle. Several historical on-chain indicators — including ...
+
+📺 Crypto Love
+
+👁️ 2K • 👍 237 • 💬 120 • ⏱️ 10:39 • 5h ago
 
 ---
 
@@ -343,7 +373,27 @@ Join me for an exclusive after party and get 10% off of your Bitcoin Vegas ticke
 
 📺 Market Disruptors Podcast
 
-👁️ 9K • 👍 539 • 💬 95 • ⏱️ 57:48 • 1d ago
+👁️ 10K • 👍 569 • 💬 101 • ⏱️ 57:48 • 1d ago
+
+---
+
+**[Strategy is Driving ALL The Bitcoin Out Of Circulation FOREVER!](https://www.youtube.com/watch?v=-_C4dZZvWIk)**
+
+Strategy may have raised over $1 billion in a single trading session, and if that's even close to true, Bitcoin's supply dynamics may ...
+
+📺 Swan Bitcoin
+
+👁️ 34K • 👍 2K • 💬 162 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[THIS CHART SHOWS BITCOIN EXPLODING TO....](https://www.youtube.com/watch?v=hfxgFcZRp48)**
+
+This chart is screaming something most people are ignoring — and the data backs it up. Institutions added +18237 BTC to their ...
+
+📺 Davinci Jeremie
+
+👁️ 11K • 👍 468 • 💬 43 • ⏱️ 19:00 • 1d ago
 
 ---
 
@@ -354,56 +404,6 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 📺 Simply Bitcoin
 
 👁️ 31K • 👍 2K • 💬 98 • ⏱️ 14:33 • 2d ago
-
----
-
-**[Bitcoin Back to $10K &amp; Altcoins to ZERO?! | Mike McGlone](https://www.youtube.com/watch?v=m4xgMn8P43A)**
-
-Mike McGlone warns that the current market cycle could resemble 2008, with wealth creation reversing and crypto acting as a ...
-
-📺 Cointelegraph
-
-👁️ 435 • 👍 3 • 💬 3 • ⏱️ 0:29 • 3h ago
-
----
-
-**[The Countdown to Bitcoin&#39;s Next Face Melting Rally Has Begun!](https://www.youtube.com/watch?v=bezGcOzLbw0)**
-
-Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven job losses, and that may be a bigger signal than ...
-
-📺 Swan Bitcoin
-
-👁️ 105K • 👍 5K • 💬 754 • ⏱️ 18:10 • 3d ago
-
----
-
-**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
-
-The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
-
-📺 Gareth Soloway
-
-👁️ 57K • 👍 4K • 💬 361 • ⏱️ 9:50 • 2d ago
-
----
-
-**[Bitcoin’s Infinite Money Glitch](https://www.youtube.com/watch?v=-2tQIo7Gd9U)**
-
-Saylor's Bitcoin money glitch explained. Don't ignore this! Join the Inner Circle for exclusive content and updates ...
-
-📺 Lark Davis
-
-👁️ 5K • 👍 418 • 💬 39 • ⏱️ 9:27 • 6h ago
-
----
-
-**[Crypto Holders → MASSIVE NEWS!](https://www.youtube.com/watch?v=MkcdRQRxahY)**
-
-Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
-
-📺 Altcoin Daily
-
-👁️ 44K • 👍 2K • 💬 135 • ⏱️ 13:31 • 1d ago
 
 ---
 

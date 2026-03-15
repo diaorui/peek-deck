@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T22:29:56.700544+00:00'
+updated: '2026-03-15T22:58:28.088557+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 22:29 UTC  
+**Last Updated:** March 15, 2026 at 22:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-11h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 LATENT
 
-🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 4h ago
+🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 5h ago
 
 ---
 
@@ -58,7 +58,7 @@ LATENT
 
 I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
 
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 4h ago
+🔗 [GitHub](https://github.com/Robertleoj/slamd) • 5h ago
 
 ---
 
@@ -86,7 +86,7 @@ Background: my daughter and I have an educational, robotics-focused YouTube chan
 
 **[CNN Hand gesture control robot](https://www.reddit.com/r/robotics/comments/1rup5d6/cnn_hand_gesture_control_robot/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -112,7 +112,7 @@ salut à tous, J’ai retiré plusieurs servomoteurs Feetech STS3215 de leur bo�
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 22h ago
+Electrek • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ CNBC • 2d ago
 
 As humanoid robotics approach commercialization, developers are still working to improve navigation, manipulation, and skills learning.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -140,9 +140,9 @@ Popular Science • 2d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfiOiHMhkV1IgBNux4n47ldxp57OUItQEp87J8VaAbTTuqZD1vOmMQi&gaa_ts=69b7283a&gaa_sig=_kYw-xMA5w-DemE_rkLzONa2XA1dJGvRu91j_1GWYyHP8zC3l4EQPKsmUC1SuYKya1GtUL3jjr_Q55FnpKJo4Q%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqf5I__rNilFQocBbJL7Cw_QWz_mehGgJOg5VPwn-xzgXlJBOdlG5D16&gaa_ts=69b73d00&gaa_sig=HTbSBaoOlWLoU-U5CplBfdqY7HBCFyLNcP8BZzfgiETDy1J4QmwUS_9F3HUJggG2bAu3QRGGB31u2EyfS3eGog%3D%3D)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
@@ -154,25 +154,11 @@ NPR • 2d ago
 
 ---
 
-**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/gallery/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
-
-13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton.
-
-13wham.com • 22h ago
-
----
-
-**[FIRST Robotics Finger Lakes Regional Competition held at RIT](https://www.rochesterfirst.com/news/local-news/first-robotics-finger-lakes-regional-competition-held-at-rit/)**
-
-RochesterFirst • 22h ago
-
----
-
 **[Elon Musk Bets On Human Workforce As AI, Robotics Boost Productivity: 'Basically Just Issue Money…'](https://finance.yahoo.com/news/elon-musk-bets-human-workforce-013057590.html)**
 
 Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -181,6 +167,22 @@ Yahoo Finance • 20h ago
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
 Quanta Magazine • 2d ago
+
+---
+
+**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/gallery/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
+
+13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton.
+
+13wham.com • 22h ago
+
+---
+
+**[KEENMOW K1 Robotic Mower: AI-Powered, Unleashes Truly Hassle-Free Lawn Care](https://newatlas.com/sponsored-content/keenmow-k1-robotic-mower-ai-powered-unleashes-truly-hassle-free-lawn-care/)**
+
+Robotic lawn mowers have promised hands-free yard care for years, but for many homeowners the reality has involved buried perimeter wires, complex RTK base stations, patchy coverage, and frequent rescue missions from tricky corners of the yard. KEENON Robotics – the world’s largest commercial…
+
+New Atlas • 19m ago
 
 ---
 
@@ -194,7 +196,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 53K • 👍 2K • 💬 246 • ⏱️ 49:45 • 1d ago
+👁️ 58K • 👍 2K • 💬 251 • ⏱️ 49:45 • 1d ago
 
 ---
 
@@ -204,17 +206,7 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 3K • 👍 260 • 💬 46 • ⏱️ 7:53 • 9h ago
-
----
-
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
-
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
-
-📺 Reuters
-
-👁️ 24K • 👍 93 • 💬 37 • ⏱️ 2:38 • 3d ago
+👁️ 4K • 👍 308 • 💬 59 • ⏱️ 7:53 • 9h ago
 
 ---
 
@@ -228,23 +220,13 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
-**[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
 
-At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
 
-📺 Munro Live
+📺 Reuters
 
-👁️ 7K • 👍 252 • 💬 23 • ⏱️ 8:34 • 3d ago
-
----
-
-**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
-
-📺 South China Morning Post
-
-👁️ 15K • 👍 213 • 💬 82 • ⏱️ 4:52 • 3d ago
+👁️ 24K • 👍 93 • 💬 37 • ⏱️ 2:38 • 3d ago
 
 ---
 
@@ -254,7 +236,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 16K • 👍 125 • 💬 35 • ⏱️ 3:48 • 6d ago
+👁️ 17K • 👍 126 • 💬 35 • ⏱️ 3:48 • 6d ago
 
 ---
 
@@ -274,7 +256,25 @@ dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Ema
 
 📺 DOWELL3D PRINTER
 
-👁️ 19K • 👍 235 • 💬 2 • ⏱️ 0:17 • 1d ago
+👁️ 21K • 👍 248 • 💬 2 • ⏱️ 0:17 • 1d ago
+
+---
+
+**[I Gave My Custom Robot a TERMINATOR Face (And AI Balance!) 🤖💀](https://www.youtube.com/watch?v=hPn9upLdRws)**
+
+Welcome back to GWAS Tech! To make MiKE move smoother and run longer, I've completely overhauled the power system.
+
+📺 GWAS Tech
+
+👁️ 580 • 👍 14 • ⏱️ 0:40 • 3h ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=9Irk3BKmLvI)**
+
+📺 zhulongfeng 6
+
+👁️ 31K • 👍 141 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -282,7 +282,7 @@ dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Ema
 
 📺 Robot Julie 
 
-👁️ 16K • 👍 129 • 💬 1 • ⏱️ 0:24 • 2d ago
+👁️ 16K • 👍 134 • 💬 1 • ⏱️ 0:24 • 2d ago
 
 ---
 

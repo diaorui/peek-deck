@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T22:29:56.697329+00:00'
+updated: '2026-03-15T22:58:28.085366+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 22:29 UTC  
+**Last Updated:** March 15, 2026 at 22:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $254.80B
+**Market Cap:** $263.77B
 Rank #2
 
 **Circulating Supply:** 120,691,909 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.3%
+-55.9%
 
 **All-Time Low:** $0.43
-+487914.4%
++503781.3%
 
 ---
 
@@ -86,7 +86,7 @@ Vitalik Buterin recently suggested that Ethereum might need to revisit the separ
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 11h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 12h ago
 
 ---
 
@@ -170,41 +170,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Gareth Soloway Reveals Next Bull Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/gareth-soloway-reveals-next-bull-targets-for-bitcoin-ethereum-and-xrp/)**
+**[Ethereum flipped in 2026? Predictions & Odds](https://polymarket.com/event/eth-flipped-in-2026)**
 
-Gareth Soloway, chief market strategist at VerifiedInvesting.com, is doubling down on his short-term bullish thesis for crypto, and the charts he is
+View real-time odds for "Ethereum flipped in 2026?" as of March 15, 2026 and trade on The World's Largest Prediction Market™
 
-Coinpedia Fintech News • 13h ago
-
----
-
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqckkiuLdafTQLRmbqeyLGErB9fCzM8pHeVSVZkDnbNKxua_MOqyh19a&gaa_ts=69b72838&gaa_sig=ifBsDtGf4THM8ggQeqUcfmLCNYIUoRo99rBd6l_HmhWldwEe1AsEScHCNlnXllGEEqLNpOXL0rPSCtchTyExVg%3D%3D)**
-
-Barron's • 2d ago
+Polymarket • 2mo ago
 
 ---
 
-**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
+**[Ethereum Currently Undervalued – But Is It Time To Buy?](https://www.tradingview.com/news/newsbtc:0a1e7d6d0094b:0-ethereum-currently-undervalued-but-is-it-time-to-buy/)**
 
-XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
+According to the latest on-chain data, Ethereum appears to be entering a state of undervaluation, with the potential of rebounding to new highs. However, the question is — is it really time to buy ETH?ETH Could Drop Another 40% Before Bear Cycle EndsIn a new Quicktake post on the CryptoQuant platfo…
 
-Coinpaper • 1d ago
-
----
-
-**[Vitalik Buterin promotes an update simplifying Ethereum node software](https://www.tradingview.com/news/cointelegraph:3f6debdba094b:0-vitalik-buterin-promotes-an-update-simplifying-ethereum-node-software/)**
-
-Ethereum co-founder Vitalik Buterin posted a proposal, or a pull request, on Saturday that would merge the backend programs used by nodes to interact with Ethereum’s Beacon Chain, which handles consensus and staking, and the protocol’s execution layer into one unified code structure to simplify nod…
-
-TradingView • 5h ago
+TradingView • 11h ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1773550200)**
+**[Prediction: Buying Ethereum Today Could Set You Up for Life](https://finance.yahoo.com/news/prediction-buying-ethereum-today-could-154123868.html)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+The world's second-most-valuable cryptocurrency has a bright future.
 
-Polymarket • 1d ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -212,7 +198,7 @@ Polymarket • 1d ago
 
 Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -221,6 +207,20 @@ markets.businessinsider.com • 19h ago
 Ethereum is showing solid staking metrics With conviction building, would this make ETH’s chop around $2k into a textbook bear trap?
 
 AMBCrypto • 1d ago
+
+---
+
+**[Gareth Soloway Reveals Next Bull Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/gareth-soloway-reveals-next-bull-targets-for-bitcoin-ethereum-and-xrp/)**
+
+Gareth Soloway, chief market strategist at VerifiedInvesting.com, is doubling down on his short-term bullish thesis for crypto, and the charts he is
+
+Coinpedia Fintech News • 13h ago
+
+---
+
+**[Are We Witnessing The Crypto Dawn? – Bitcoin And Ethereum Outlook (undefined:BTC-USD)](https://seekingalpha.com/article/4882293-witnessing-crypto-dawn-bitcoin-ethereum-outlook)**
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -234,27 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 217 • 💬 8 • ⏱️ 19:10 • 7h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=B5tFv0uUx4s)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 772 • 👍 86 • 💬 2 • ⏱️ 6:14 • 5h ago
-
----
-
-**[Tom Lee: Market EMERGENCY‼️ (New Bitcoin &amp; ETH Price Prediction)](https://www.youtube.com/watch?v=DAnsx4IKhEI)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 2K • 👍 113 • 💬 320 • ⏱️ 15:57 • 18h ago
+👁️ 6K • 👍 268 • 💬 26 • ⏱️ 19:10 • 7h ago
 
 ---
 
@@ -264,7 +244,27 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 165 • 💬 66 • ⏱️ 15:12 • 13h ago
+👁️ 3K • 👍 182 • 💬 68 • ⏱️ 15:12 • 13h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=B5tFv0uUx4s)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 110 • 💬 2 • ⏱️ 6:14 • 5h ago
+
+---
+
+**[Tom Lee: Market EMERGENCY‼️ (New Bitcoin &amp; ETH Price Prediction)](https://www.youtube.com/watch?v=DAnsx4IKhEI)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 2K • 👍 120 • 💬 321 • ⏱️ 15:57 • 19h ago
 
 ---
 
@@ -274,7 +274,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 135 • ⏱️ 13:31 • 1d ago
+👁️ 44K • 👍 2K • 💬 136 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -284,7 +284,17 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 11K • 👍 735 • 💬 122 • ⏱️ 22:03 • 23h ago
+👁️ 12K • 👍 763 • 💬 142 • ⏱️ 22:03 • 1d ago
+
+---
+
+**[Saylor’s STRC Machine vs BlackRock’s Ethereum Machine](https://www.youtube.com/watch?v=l0B0L5d1ers)**
+
+Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt A ...
+
+📺 MONEY GAME
+
+👁️ 485 • 👍 51 • 💬 2 • ⏱️ 28:14 • 2h ago
 
 ---
 
@@ -294,27 +304,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 196 • 💬 48 • ⏱️ 12:50 • 1d ago
+👁️ 4K • 👍 197 • 💬 48 • ⏱️ 12:50 • 1d ago
 
 ---
 
-**[BITCOIN: Watch Out for This Move! (it&#39;s coming) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=Q8z5JLtMrN0)**
+**[If Experts Had $1M Today… Would They Buy Ethereum or Solana?](https://www.youtube.com/watch?v=FSmdeTyAJfQ)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
 
-📺 BitcoinHyper
+📺 Milk Road
 
-👁️ 1K • 👍 136 • 5h ago
-
----
-
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=xSiSue5a9DM)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 ONE VOICE CHOIR GHANA
-
-👁️ 22K • 👍 1K • 💬 1 • ⏱️ 2:44:05 • 8h ago
+👁️ 3K • 👍 124 • 💬 67 • ⏱️ 9:05 • 1d ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 255 • 👍 11 • 💬 2 • ⏱️ 5:32 • 12h ago
+👁️ 272 • 👍 10 • 💬 2 • ⏱️ 5:32 • 12h ago
 
 ---
 
