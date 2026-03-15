@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-14T23:52:30.706701+00:00'
+updated: '2026-03-15T02:32:07.613736+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 23:52 UTC  
+**Last Updated:** March 15, 2026 at 02:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,029.16
+### $71,238.88
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +7.6%  
-**30d:** +3.1%  
-**90d:** -17.9%  
-**1y:** -15.8%  
+**24h:** +0.2%  
+**7d:** +4.1%  
+**30d:** +1.9%  
+**90d:** -18.7%  
+**1y:** -13.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1419.98B
+**Market Cap:** $1425.85B
 Rank #1
 
-**Circulating Supply:** 20,002,134 BTC
+**Circulating Supply:** 20,002,190 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.7%
+-43.5%
 
 **All-Time Low:** $67.81
-+104623.5%
++105017.2%
 
 ---
 
 ## Fear & Greed Index
 
-### 16
+### 15
 **EXTREME FEAR**
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-3h ago
-
----
-
-**[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
-
-11h ago
+5h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-9h ago
+12h ago
+
+---
+
+**[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
+
+14h ago
 
 ---
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-13h ago
+16h ago
 
 ---
 
@@ -105,13 +105,13 @@ Rank #1
 
 Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
 
-3h ago
+6h ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-9h ago
+12h ago
 
 ---
 
@@ -119,7 +119,15 @@ Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I
 
 When Fear & Greed hits extreme fear, that's historically when you want to be accumulating. Everyone here knows this... But I've been thinking about what that same signal does to someone in their first bear market. They see "EXTREME FEAR" and their brain processes it as danger, not discount. Their emotional response to it triggers the opposite of what's useful. It's the same problem with price charts going down. Experienced holders see opportunity. Newcomers see a reason to leave. Is the solution better financial education? Better framing? Or is Fear & Greed just fundamentally a tool for people who already don't need it?
 
-1h ago
+3h ago
+
+---
+
+**[what's your btc stacking plan looking like](https://www.reddit.com/r/Bitcoin/comments/1rtz04w/whats_your_btc_stacking_plan_looking_like/)**
+
+hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 and i know it's kinda arbitrary but whatever, it gives me something to work toward and actually makes me excited when we see red days lol currently doing $275 weekly buys and lowkey hoping we stay in this range for a while so i can keep stacking at decent prices before things potentially moon again curious what strategies you all are running? any tweaks you'd suggest to my approach or different ways to think about accumulating? always down to hear how other people are playing the long game
+
+2h ago
 
 ---
 
@@ -127,23 +135,15 @@ When Fear & Greed hits extreme fear, that's historically when you want to be acc
 
 A cryptocurrency expert believes Nancy Guthrie’s kidnapper may have sabotaged themselves by demanding ransom in Bitcoin. Other
 
-🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 5h ago
-
----
-
-**[Bitcoin looking Juicy, thinking about making an entry](https://www.reddit.com/r/Bitcoin/comments/1rtwm5d/bitcoin_looking_juicy_thinking_about_making_an/)**
-
-Open to feedback. Feel like the bottom still isn't quite in yet Thinking about making an entry when initial transfer clears, then plan to add at 60k, 55k, 50k, 45k, and 40k Edit: I guess I should add that I'm not looking to be long on bitcoin, looking to take advantage of this opportunity to invest a sizeable amount of liquid cash with the intention of 2x or 3xing it
-
-1h ago
+🔗 [Bored Panda](https://www.boredpanda.com/how-bitcoin-exchange-gave-police-control-over-nancy-guthries-kidnapper/?utm_source=reddit&utm_medium=ref&utm_campaign=kimb0429) • 7h ago
 
 ---
 
 **[Air-gapped message signing with Coldcard. How to sign with a specific bc1 address?](https://www.reddit.com/r/Bitcoin/comments/1rtwoex/airgapped_message_signing_with_coldcard_how_to/)**
 
-I'm trying to sign a message with a specific Native SegWit (P2WPKH, bc1...) address on my Coldcard, fully air-gapped via microSD only (no USB/NFC/etc). When I use Sign Text File (under Advanced/Tools & File Management) Coldcard always signs with the key at m/44'/0'/0'/0/0 (the first Legacy (1...) address) regardless of which wallet format is loaded. This is confirmed by the on-screen message Coldcard displays before signing. My funded address is a Native SegWit bc1... address and I need the signature to correspond to that specific address for an audit proof of ownership requirement. Is there a way to direct Coldcard's Sign Text File to sign with a specific address or derivation path? Is there an alternative air-gapped message signing flow (microSD only) that produces a signature verifiable against a specific bc1... address? Is this behaviour documented anywhere? fyi, running Coldcard Mk4 firmware 5.5.0, Electrum 4.7.0.
+I'm trying to sign a message with a specific Native SegWit (P2WPKH, bc1...) address on my Coldcard, fully air-gapped via microSD only (no USB/NFC/etc). When I use Sign Text File (under Advanced/Tools & File Management) Coldcard always signs with the key at m/44'/0'/0'/0/0 (the first Legacy (1...) address) regardless of which wallet format is loaded. This is confirmed by the on-screen message Coldcard displays before signing. My funded address is a Native SegWit bc1... address and I need the signature to correspond to that specific address for an audit proof of ownership requirement. Is there a way to direct Coldcard's Sign Text File to sign with a specific address or derivation path? Is there an alternative air-gapped message signing flow (microSD only) that produces a signature verifiable against a specific bc1... address? Is this behaviour documented anywhere? fyi, running Coldcard Mk4 firmware 5.5.0, Electrum 4.7.0. Update: I found a workable solution using Sparrow Wallet instead of Electrum. Sparrow's airgapped signing flow (Sign by File / Load Signed File) creates an intermediate file that specifies the exact derivation path and script type, which Coldcard uses to sign with the correct bc1... address. A solution with electrum would still be useful, both to me and maybe others.
 
-1h ago
+4h ago
 
 ---
 
@@ -155,7 +155,7 @@ I'm trying to sign a message with a specific Native SegWit (P2WPKH, bc1...) addr
 
 The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
 
-CoinDesk • 9h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -167,11 +167,19 @@ Financial Times • 1d ago
 
 ---
 
-**[Michael Saylor Says Bitcoin Doesn't 'Go To The Moon' Overnight — Strategy Chair Says There's Always A 'Delay'](https://finance.yahoo.com/news/michael-saylor-says-bitcoin-doesnt-203016430.html)**
+**[New Crypto: Pepeto Announces Ecosystem Expansion as Bitcoin Price Targets $1M Amid Dogecoin and Elon Musk News](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-ecosystem-expansion-as-bitcoin-price-targets-1m-amid-dogecoin-and-elon-musk-news-1035930455)**
 
-Strategy Inc. Chair Michael Saylor said on Thursday that Bitcoin purchases don't lead to immediate price increases and there’s always a “delay.” Another Call To HODL? In what looked like a cheeky reminder on X, Saylor pointed out the lag...
+Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a full ecosystem expansion covering its DeFi exchange, cross chain bridge...
 
-Yahoo Finance • 3h ago
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Crypto News: Pepeto Announcement On The Cross Chain Bridge Update And The Bitcoin Price Target](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announcement-on-the-cross-chain-bridge-update-and-the-bitcoin-price-target-1035930423)**
+
+Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major update to its cross chain bridge, expanding zero cost token routi...
+
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -179,21 +187,29 @@ Yahoo Finance • 3h ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 8h ago
+CNBC • 11h ago
 
 ---
 
-**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqd7HPTl23HYi66__gk58JhulQHsl8YfeH5eldvq9NDZMzVbvLlIJI0y&gaa_ts=69b5f2a8&gaa_sig=Ux4C3Qi7z6s-BuT5g67OZJcNCJIKD6pfXzivZYjXfOybuJlQhMooFB7baqYlFFa9Uf3NHQT25Ott54PEypGRCg%3D%3D)**
+**['Bitcoin Is Going To $10,000,' Bloomberg's McGlone Says: Crypto Is A 'Dead' Asset Class](https://finance.yahoo.com/news/bitcoin-going-10-000-bloombergs-153055288.html)**
+
+Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773539400)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2h ago
+
+---
+
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqfealbaehbS9kZHcZAIQBF13hWKn_Df3x_0TznUOHHJVVpOoSLbgGLk&gaa_ts=69b61d91&gaa_sig=wF6CDKlJDUrAjkq2KgIvrJU5JcyJGt-jPE4LuYbPCGmaaOCRn4qZsq3b-eTX6Zchys_uOnhFS7q_dbYN3VJHjw%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1773525600)**
-
-Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 28m ago
 
 ---
 
@@ -208,20 +224,6 @@ Bloomberg.com • 1d ago
 The cryptocurrency has outperformed gold, the U.S. dollar, and the S&P 500 since the initial strikes on Iran.
 
 Investopedia • 1d ago
-
----
-
-**[Bitcoin Hit a Major Milestone—Most Miners Won't Be Around for the Next One](https://decrypt.co/361137/bitcoin-major-milestone-miners)**
-
-The 20 millionth Bitcoin was mined March 2026, leaving 1 million BTC to be issued as block rewards to miners in near-breakeven economics.
-
-Decrypt • 9h ago
-
----
-
-**[‘We’re Doing Everything We Can To Destroy It’—Legendary Billionaire Predicts U.S. Dollar Collapse Amid Bitcoin Price Rally](https://www.forbes.com/sites/digital-assets/2026/03/14/were-doing-everything-we-can-to-destroy-it-legendary-billionaire-predicts-us-dollar-collapse-amid-bitcoin-price-rally/)**
-
-Forbes • 12h ago
 
 ---
 
@@ -255,13 +257,13 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Bitcoin's Correlation with Stocks Surges as Volatility Returns](https://news.ycombinator.com/item?id=47303187)**
 
-⬆️ 2 • 💬 0 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
+⬆️ 2 • 💬 0 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-06/bitcoin-s-correlation-with-stocks-surges-as-volatility-returns)
 
 ---
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 15h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 17h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -313,7 +315,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 527 • 💬 106 • ⏱️ 1:15:12 • 3h ago
+👁️ 12K • 👍 760 • 💬 154 • ⏱️ 1:15:12 • 6h ago
 
 ---
 
@@ -323,17 +325,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 2K • 💬 65 • ⏱️ 46:42 • 10h ago
+👁️ 39K • 👍 2K • 💬 65 • ⏱️ 46:42 • 13h ago
 
 ---
 
-**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
+**[Bitcoin Waiting For The Fed — $80K or $60K Next](https://www.youtube.com/watch?v=mMvvp0cjbcE)**
 
-The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
+Bitcoin is waiting for the Federal Reserve's next interest rate decision, and the outcome could determine whether BTC breaks ...
 
-📺 Simply Bitcoin
+📺 Mystery Market Vault
 
-👁️ 27K • 👍 2K • 💬 156 • ⏱️ 14:33 • 1d ago
+👁️ 4K • 👍 124 • 💬 36 • ⏱️ 21:05 • 10h ago
+
+---
+
+**[THIS CHART SHOWS BITCOIN EXPLODING TO....](https://www.youtube.com/watch?v=hfxgFcZRp48)**
+
+This chart is screaming something most people are ignoring — and the data backs it up. Institutions added +18237 BTC to their ...
+
+📺 Davinci Jeremie
+
+👁️ 7K • 👍 397 • 💬 59 • ⏱️ 19:00 • 1d ago
 
 ---
 
@@ -347,13 +359,13 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 ---
 
-**[The Countdown to Bitcoin&#39;s Next Face Melting Rally Has Begun!](https://www.youtube.com/watch?v=bezGcOzLbw0)**
+**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
 
-Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven job losses, and that may be a bigger signal than ...
+The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
 
-📺 Swan Bitcoin
+📺 Simply Bitcoin
 
-👁️ 94K • 👍 5K • 💬 729 • ⏱️ 18:10 • 2d ago
+👁️ 27K • 👍 2K • 💬 156 • ⏱️ 14:33 • 1d ago
 
 ---
 
@@ -363,45 +375,37 @@ Retail panic selling is feeding the biggest Bitcoin accumulation in history. Whi
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 126 • ⏱️ 22:37 • 1d ago
+👁️ 29K • 👍 2K • 💬 126 • ⏱️ 22:37 • 2d ago
 
 ---
 
-**[Bitcoin Payments: Success or Failure? Tesla, Microsoft &amp; AMC Tested ₿](https://www.youtube.com/watch?v=BkOjKqg_GMU)**
+**[The Countdown to Bitcoin&#39;s Next Face Melting Rally Has Begun!](https://www.youtube.com/watch?v=bezGcOzLbw0)**
 
-Bitcoin was supposed to become everyday money. But in 2026, are people actually paying with it? Tesla, Microsoft and AMC ...
+Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven job losses, and that may be a bigger signal than ...
 
-📺 DukascopyTV English
+📺 Swan Bitcoin
 
-👁️ 986 • 👍 24 • 💬 1 • ⏱️ 1:00 • 1d ago
-
----
-
-**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
-
-The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
-
-📺 Gareth Soloway
-
-👁️ 48K • 👍 3K • 💬 324 • ⏱️ 9:50 • 1d ago
+👁️ 96K • 👍 5K • 💬 735 • ⏱️ 18:10 • 2d ago
 
 ---
 
-**[Bitcoin Just Did Something the World Isn’t Ready For: Jeff Park](https://www.youtube.com/watch?v=tFzIHZDT4uU)**
+**[Matt Hougan&#39;s $1 Million Bitcoin Math Prediction — And Why It&#39;s NOT Crazy](https://www.youtube.com/watch?v=8TzgGyERRb4)**
 
-Jeff Park, CIO of ProCap BTC, just laid out a thesis that changes how the entire world should be thinking about Bitcoin. The old ...
+Bitwise CIO Matt Hougan just published the most mathematically grounded case for $1 million Bitcoin — and it doesn't rely on ...
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 209 • 💬 24 • ⏱️ 19:03 • 1d ago
+👁️ 4K • 👍 198 • ⏱️ 18:46 • 1d ago
 
 ---
 
-**[STOP! Bitcoin and Crypto is FXCKED (PERFECT TIME TO BE IN CRYPTO) #crypto #cryptocurrency #bitcoin](https://www.youtube.com/watch?v=rTi_ymaPjQU)**
+**[Bitcoin BTC Price Prediction: 14th of March](https://www.youtube.com/watch?v=353NYhom9fU)**
 
-📺 CryptoWendyO
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-👁️ 1K • 👍 103 • 💬 3 • ⏱️ 1:00 • 2h ago
+📺 C-Zar Gets Crypto 
+
+👁️ 463 • 👍 47 • 💬 9 • ⏱️ 19:58 • 11h ago
 
 ---
 

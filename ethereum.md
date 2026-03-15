@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-14T23:52:30.712670+00:00'
+updated: '2026-03-15T02:32:07.619625+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 14, 2026 at 23:52 UTC  
+**Last Updated:** March 15, 2026 at 02:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,090.93
+### $2,086.54
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +8.1%  
-**30d:** +2.1%  
-**90d:** -29.5%  
-**1y:** +7.7%  
+**24h:** -0.3%  
+**7d:** +5.0%  
+**30d:** +0.4%  
+**90d:** -29.3%  
+**1y:** +11.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.51B
+**Market Cap:** $252.77B
 Rank #2
 
-**Circulating Supply:** 120,691,917 ETH
+**Circulating Supply:** 120,691,909 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -57.7%
 
 **All-Time Low:** $0.43
-+483357.6%
++483343.8%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
+
+---
+
+**[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
+
+1h ago
 
 ---
 
@@ -80,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
 
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 18h ago
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 21h ago
 
 ---
 
@@ -88,7 +94,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 Ethereum Foundation (EF) wrote a constitution for the soul of the project. The new EF Mandate isn't just a corporate mission statement but a line in the sand for how Ethereum stays human in an increasingly automated world. The EF is calling its core philosophy CROPS. If a feature isn’t Censorship-resistant, Resilient, Open-source, Private, and Secure, it doesn't belong on ethereum . No trading sovereignty for convenience. Here are the main points: Stewardship, Not Ownership: The EF is explicitly saying they aren't the boss. They are temporary caretakers who eventually want to disappear. This is the ultimate decentralize or die commitment. The AI Shield: They see a future where AI and opaque algorithms run everything. Ethereum’s job is to be the Infinite Garden, a place where humans, not code or corporations, have the final say over their own lives. Immutable Values: By publishing this directly onto the blockchain, they’ve made their values as permanent as a transaction. You can’t edit the project's soul once it’s on-chain. This is a massive vibe check for the entire ecosystem. It’s a reminder that if we give up control for a slightly faster app, we’ve already lost the plot. Can a written mandate actually stop the slow creep of centralization, or is the pull of convenience just too strong? Let’s talk. 👇 Source
 
-17h ago
+19h ago
 
 ---
 
@@ -96,7 +102,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
 
-11h ago
+14h ago
 
 ---
 
@@ -138,53 +144,39 @@ US DoJ seeks Roman Storm retrial, BlackRock staked ETH ETF live, EF bug bounty $
 
 ---
 
-**[Will-One-Day-Be-A-DAO](https://www.reddit.com/r/ethereum/comments/1rsqvo7/willonedaybeadao/)**
-
-🔗 [pickipedia.xyz](https://pickipedia.xyz/wiki/Will-One-Day-Be-A-DAO) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
-
-XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
-
-Coinpaper • 16h ago
-
----
-
-**[Don't Buy Ethereum Until This Happens](https://www.fool.com/investing/2026/03/12/dont-buy-ethereum-until-this-happens/)**
-
-Crypto investors need to keep their eyes on the arrival of altcoin season.
-
-The Motley Fool • 2d ago
-
----
-
-**[New Crypto: Pepeto DeFi Exchange Update Arrives and Ethereum Price Shows Strength](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-defi-exchange-update-arrives-and-ethereum-price-shows-strength-1035930412)**
-
-Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a significant update to its DeFi exchange infrastructure as the Ethereum ...
-
-markets.businessinsider.com • 1h ago
-
----
 
 **[Ethereum Foundation sells 5,000 ETH to Tom Lee's BitMine in $10 million OTC deal](https://www.theblock.co/post/393614/ethereum-foundation-sells-5000-eth-to-tom-lees-bitmine-in-10-million-otc-deal)**
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
-The Block • 5h ago
+The Block • 8h ago
 
 ---
 
-**[Ethereum Foundation publishes new mandate defining its role, core principles](https://www.coindesk.com/tech/2026/03/13/ethereum-foundation-publishes-new-mandate-defining-its-role-core-principles)**
+**[Ethereum Foundation publishes mandate outlining its role as ‘one of many stewards’ of the network](https://www.theblock.co/post/393563/ethereum-foundation-mandate-role-one-of-many-stewards-network)**
 
-The document comes at a moment of transition for the organization, following recent shifts in Ethereum’s technical roadmap and the resignation earlier this year of one of the foundation’s co-executive directors.
+The Ethereum Foundation mandate codifies Ethereum’s core “CROPS” principles: censorship resistance, open source, privacy and security.
 
-CoinDesk • 1d ago
+The Block • 1d ago
+
+---
+
+**[Ethereum Foundation sells 5,000 ether to Tom Lee's BitMine in $10.2 million deal](https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal)**
+
+The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
+
+CoinDesk • 8h ago
+
+---
+
+**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
+
+XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
+
+Coinpaper • 19h ago
 
 ---
 
@@ -220,11 +212,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Not XRP Or Ethereum: You Won’t Believe The Network With The Highest Number Of RWA Users](https://www.tradingview.com/news/newsbtc:7ba3f76a1094b:0-not-xrp-or-ethereum-you-won-t-believe-the-network-with-the-highest-number-of-rwa-users/)**
+**[$61.9M Ethereum Buy Sparks Speculation – Mystery Whale Turns $1M Profit Overnight](https://www.tradingview.com/news/newsbtc:fa19224ec094b:0-61-9m-ethereum-buy-sparks-speculation-mystery-whale-turns-1m-profit-overnight/)**
 
-Real-world asset (RWA) tokenization on the Ethereum network and the XRP Ledger has been ramping up over the last few years. This has become more prominent with a shift toward bringing more real-world assets (RWA) into the crypto industry, to allow access to more ‘stable’ investment options. But des…
+Ethereum is attempting to reclaim the $2,100 level as the broader cryptocurrency market experiences a modest wave of relief after weeks of volatility and sideways trading. While price action remains fragile, recent on-chain data suggests that large investors may be beginning to position themselves…
 
-TradingView • 1d ago
+TradingView • 23h ago
+
+---
+
+**[New Crypto: Pepeto DeFi Exchange Update Arrives and Ethereum Price Shows Strength](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-defi-exchange-update-arrives-and-ethereum-price-shows-strength-1035930412)**
+
+Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a significant update to its DeFi exchange infrastructure as the Ethereum ...
+
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 149 • 💬 56 • ⏱️ 12:50 • 13h ago
+👁️ 3K • 👍 161 • 💬 46 • ⏱️ 12:50 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 298 • ⏱️ 13:31 • 1d ago
+👁️ 39K • 👍 2K • 💬 295 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 87 • 💬 80 • ⏱️ 9:05 • 9h ago
+👁️ 2K • 👍 94 • 💬 90 • ⏱️ 9:05 • 12h ago
 
 ---
 
@@ -268,17 +268,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 633 • 👍 84 • 💬 1 • ⏱️ 4:26 • 3h ago
+👁️ 1K • 👍 104 • 💬 3 • ⏱️ 4:26 • 6h ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 14th of March](https://www.youtube.com/watch?v=QV3Hg6fIy7c)**
+**[BITCOIN: It&#39;s Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AbKLYQby2dk)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+BITCOIN: It's Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 C-Zar Gets Crypto 
+📺 Crypto World
 
-👁️ 156 • 👍 21 • 💬 3 • ⏱️ 6:36 • 7h ago
+👁️ 1K • 👍 110 • 💬 22 • ⏱️ 15:38 • 2h ago
+
+---
+
+**[TOM LEE: ETH Bottom is IN, BMNR is LOADING The Boat...(BMNR WEEKLY RECAP)](https://www.youtube.com/watch?v=TCELgFoP85Y)**
+
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+
+📺 Tevis
+
+👁️ 3K • 👍 267 • 💬 59 • ⏱️ 22:03 • 3h ago
 
 ---
 
@@ -288,7 +298,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 780 • 💬 58 • ⏱️ 19:58 • 2d ago
+👁️ 24K • 👍 789 • 💬 58 • ⏱️ 19:58 • 2d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 14th of March](https://www.youtube.com/watch?v=QV3Hg6fIy7c)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 208 • 👍 24 • 💬 3 • ⏱️ 6:36 • 10h ago
 
 ---
 
@@ -298,7 +318,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 473 • 👍 54 • 💬 9 • ⏱️ 18:10 • 5h ago
+👁️ 647 • 👍 63 • 💬 9 • ⏱️ 18:10 • 8h ago
 
 ---
 
@@ -308,27 +328,7 @@ Robert Mitchnick, head of digital assets at BlackRock, discusses the launch of t
 
 📺 CNBC Television
 
-👁️ 6K • 👍 82 • 💬 13 • ⏱️ 7:47 • 2d ago
-
----
-
-**[BILLIONAIRES ALREADY SOLD](https://www.youtube.com/watch?v=DMW4OiD9T7A)**
-
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
-
-📺 The Cryptoviser
-
-👁️ 705 • 👍 78 • 💬 4 • ⏱️ 28:37 • 10h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=r1FNvEs-H_w)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 Nacho Puerto | Acuarela
-
-👁️ 2K • 👍 1K • 32m ago
+👁️ 6K • 👍 84 • 💬 13 • ⏱️ 7:47 • 2d ago
 
 ---
 
