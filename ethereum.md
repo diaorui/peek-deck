@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T09:35:59.899744+00:00'
+updated: '2026-03-15T10:31:15.448047+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 09:35 UTC  
+**Last Updated:** March 15, 2026 at 10:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $254.21B
+**Market Cap:** $255.82B
 Rank #2
 
 **Circulating Supply:** 120,691,909 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.4%
+-57.1%
 
 **All-Time Low:** $0.43
-+486219.2%
++489591.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-3h ago
+4h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
 
-21h ago
+22h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 15h ago
 
 The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -176,7 +176,7 @@ Polymarket • 1d ago
 
 Ethereum is tightening below a critical $2,149 resistance level, building pressure as bulls and bears jockey for control. A decisive breakout above this zone could trigger strong momentum, potentially sending the price toward the next major resistance near $2,750.A Test Of The Key $2,149 Resistance…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -200,7 +200,7 @@ CoinDesk • 2d ago
 
 Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -238,7 +238,17 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 6K • 👍 438 • 💬 106 • ⏱️ 22:03 • 10h ago
+👁️ 7K • 👍 504 • 💬 122 • ⏱️ 22:03 • 11h ago
+
+---
+
+**[Tom Lee: Market EMERGENCY‼️ (New Bitcoin &amp; ETH Price Prediction)](https://www.youtube.com/watch?v=DAnsx4IKhEI)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 806 • 👍 60 • 💬 230 • ⏱️ 15:57 • 6h ago
 
 ---
 
@@ -248,7 +258,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 177 • 💬 47 • ⏱️ 12:50 • 22h ago
+👁️ 4K • 👍 186 • 💬 48 • ⏱️ 12:50 • 23h ago
+
+---
+
+**[Ethereum Will Outperform Everything in 2026](https://www.youtube.com/watch?v=N3pMbjrwREw)**
+
+Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is setting up the perfect opportunity for Ethereum to ...
+
+📺 Michaël van de Poppe
+
+👁️ 303 • 👍 46 • 💬 52 • ⏱️ 15:12 • 1h ago
 
 ---
 
@@ -258,7 +278,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 230 • ⏱️ 13:31 • 1d ago
+👁️ 41K • 👍 2K • 💬 229 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -268,17 +288,17 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 107 • 💬 74 • ⏱️ 9:05 • 19h ago
+👁️ 3K • 👍 108 • 💬 72 • ⏱️ 9:05 • 20h ago
 
 ---
 
-**[BITCOIN: It&#39;s Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AbKLYQby2dk)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=D0pMvb5nAtc)**
 
-BITCOIN: It's Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 4K • 👍 198 • 💬 199 • ⏱️ 15:38 • 9h ago
+👁️ 2K • 👍 147 • 💬 4 • ⏱️ 4:26 • 14h ago
 
 ---
 
@@ -288,47 +308,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 25K • 👍 796 • 💬 58 • ⏱️ 19:58 • 2d ago
+👁️ 25K • 👍 796 • 💬 64 • ⏱️ 19:58 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. DAS müssen wir jetzt ganz genau beobachten! Kommen wir jetzt schon runter?](https://www.youtube.com/watch?v=iHlzVNJCDJc)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 1K • 👍 424 • 💬 89 • ⏱️ 12:07 • 4h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=aIxP7VK_3Bw)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 582 • 👍 72 • ⏱️ 5:26 • 6h ago
-
----
-
-**[IT BEGINS......](https://www.youtube.com/watch?v=raPxy_pfOGk)**
-
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
-
-📺 The Cryptoviser
-
-👁️ 816 • 👍 69 • 💬 9 • ⏱️ 18:10 • 15h ago
-
----
-
-**[The BEST Prices to BUY Ethereum in 2026!🚨 (ETH BUY TARGETS EXPLAINED)](https://www.youtube.com/watch?v=AR3d1QmXfE8)**
+**[BE READY FOR THIS BREAKOUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=lMNpeFl5pHo)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 410 • 👍 25 • 💬 2 • ⏱️ 6:31 • 22h ago
+👁️ 36 • 👍 3 • 💬 1 • ⏱️ 5:32 • 10m ago
+
+---
+
+**[BITCOIN: It&#39;s Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=AbKLYQby2dk)**
+
+BITCOIN: It's Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 226 • 💬 159 • ⏱️ 15:38 • 10h ago
 
 ---
 

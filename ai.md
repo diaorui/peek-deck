@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-15T09:35:59.885360+00:00'
+updated: '2026-03-15T10:31:15.433399+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 15, 2026 at 09:35 UTC  
+**Last Updated:** March 15, 2026 at 10:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evolve — a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. In this episode: - Why AlphaEvolve gets stuck: it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search. The architecture of Shinka Evolve: an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard. Concrete results: state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks. Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?: When LLMs run autonomously, "nothing interesting happens." Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully. The AI Scientist question: can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher. Where this lands in 5-20 years: Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived. Link to the Full Episode: https://www.youtube.com/watch?v=EInEmGaMRLc Spotify Apple Podcasts
 
-20h ago
+21h ago
 
 ---
 
@@ -49,7 +49,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
 
-🔗 [substack.com](https://substack.com/home/post/p-190322208) • 16h ago
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Claude will certainly read statements made by Anthropic founder Dario Amodei whi
 
 Integrated an evolutionary database to Karpathy's autoresearch project that replaces the simple tsv file based logging in the original project. Evolutionary algorithms have shown to be a powerful tool for autonomously discovering optimal solutions to problems with large search spaces. Famously, Google DeepMind's AlphaEvolve system uses evolutionary algorithms to discover state of the art matrix multiplication algorithms. The implementation of the evolutionary database itself is based heavily on the implementation in OpenEvolve. Would love thoughts and suggestions from the community. Check it out: https://github.com/hgarud/autoresearch
 
-14h ago
+15h ago
 
 ---
 
@@ -65,7 +65,7 @@ Integrated an evolutionary database to Karpathy's autoresearch project that repl
 
 This week's round of drm-misc-next patches bring a few improvements to the AMDXDNA accelerator driver used for supporting the Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 14h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 15h ago
 
 ---
 
@@ -77,7 +77,7 @@ AI Product Recommendation is a system that uses mathematical models to predict y
 Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
 Your responses are anonymous and will be used for academic research only.
 
-🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 16h ago
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 17h ago
 
 ---
 
@@ -85,7 +85,7 @@ Your responses are anonymous and will be used for academic research only.
 
 Hello everyone So I'm just struggling a lot with the sense of meaning and ethics and stuff in the growing world of AI. I think a lot of people are - people have trained their whole lives as journalists or accountants or lawyers and will be rendered obsolete overnight. I thought I was relatively safe as like a musician but I saw a video of an AI woman playing guitar and it was basically impossible to tell that it was AI [(here is a Youtube video about it featuring clips])(https://youtu.be/L9f-hnyAhsQ?si=IxxHXEiLgfWnnBes&t=89) other than some obvious errors. But the point is the inflexions like the wrist or arm or shoulder tensing at the correct moment as someone who's played guitar for years that's literally what guitarists do. I don't know identity, meaning, purpose. Apparently we'll basically be unable to tell within like 5-10 years 20 years if not sooner if a streamer/long form content creator is AI or not will just be impossible to tell. You won't be able to trust basically any media that's not from a specific verified source (even then..?) like Youtube generally will be completely useless once AI political media gets flooding like fake interviews of celebrities/politicians that are impossible to tell if they're AI or not Like what are we even doing here regarding this? I just don't know what to do with my life. What if humanity ultimately merges/forms with AI permanently like Elon Musk's neuralink, what if there are AI robots wondering around who are impossible to tell whether they're human beings or not If we merge with AI all human defects of character like idk anguish anxiety you'll just know basically everything all of the time. Will humans laugh cry fall in love in 200 years time if they're fused with AI..? What of religion ethics spirituality, much of historical morality/religion is based on the idea that humans are finite fallible and make mistakes but won't AI advancements just render all of this not the case? I don't know Any thoughts? What do you make about this, how are you accordingly living your life..? Thank you for any responses
 
-8h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ Hello everyone So I'm just struggling a lot with the sense of meaning and ethics
 
 As the title suggests, I am double majoring in mathematics and mechanical engineering. Apart from my studies in those core subjects, I plan to learn about local llm’s and AI in general, about IT, networking, and Linux. I will obviously be getting in CAD and some light coding in the future. Something to consider is that I have a windows desktop with a 4080 super gpu, a 5950x cpu, and 32gb of ddr4 ram. I will upgrade to a 5090 the second I can get a hold of one at MSRP (pray for me to get one lol). Given this, what laptop would you recommended? I want something that will help me with everything I mentioned above, but also with the caveat that I already have a decent windows based PC at home. The only issue I see with everything is my interest in learning about local llms and AI. Learning about local llms will require lots of vram, which windows laptops won’t have much of. However, MacBook pros do make local llms viable given apples integrated memory design. But if I go with apple, I can beef up my memory size and run decently sized model. However, I run into the issue that most engineering software isn’t compatible or optimized for mac OS. So thats my dilemma. The right windows laptop will do everything well except local llms. And the right mac will do most things well, except engineering things. Regardless of what I choose for my laptop, I always have a beefy windows PC at home to do whatever I want without issue. So I guess given all this information plus the filled questionnaire below, what should I get? LAPTOP QUESTIONNAIRE 1) Total budget: Max is $2500 , although I could potentially push it higher if needed. 2) Are you open to refurbs/used? Depends, refurbs are a no unless it’s a refurb macbook that comes straight from apple themselves. Used is an interesting option I’d consider, but new is ideal. 3) How would you prioritize form factor (ultrabook, 2-in-1, etc.), build quality, performance, and battery life? I want something durable, good battery (replaceable if possible, and is capable of growing and not slowing my progress down my educational path. 4) How important is weight and thinness to you? Couldn’t care less about either. 5) Do you have a preferred screen size? If indifferent, put N/A. As long as it isn’t tiny, im happy. 15-16in is nice. 6) Are you doing any CAD/video editing/photo editing/gaming? List which programs/games you desire to run. I’ll be doing CAD work in the future obviously. No real need for editing or gaming. 7) Any specific requirements such as good keyboard, reliable build quality, touch-screen, finger-print reader, optical drive or good input devices (keyboard/touchpad)? Again, something durable and reliable. While I would love a numberpad, it’s not necessary.
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ As the title suggests, I am double majoring in mathematics and mechanical engine
 
 I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
 
-18h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fox Business • 1d ago
 
 The management structure is an extreme test of the “flat” organizational model that more U.S. companies are embracing.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 1d ago
 
 "So there's a lot of scenarios here, a lot of really frightening scenarios about where escalation could lead," Sacks said.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 1d ago
 
 A virtual replica of the Tees Valley road network has been created to predict  potential problems.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 2h ago
 
 Palantir’s CEO says the platforms will have a vast effect on the electoral landscape. Is it a warning or a sales pitch?
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
@@ -197,7 +197,7 @@ Fortune • 1d ago
 
 Pyongyang’s operatives deploy chatbots to undertake tasks, often in multiple roles
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
@@ -271,13 +271,13 @@ I injected three fabricated documents into a ChromaDB knowledge base. Here’s w
 
 Airbus is working at full throttle to offer the German Air Force an operational Uncrewed Collaborative Combat Aircraft (UCCA) system by 2029.
 
-⬆️ 135 • 💬 77 • 10h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+⬆️ 135 • 💬 77 • 11h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 
 ---
 
 **[AI didn't simplify software engineering: It just made bad engineering easier](https://news.ycombinator.com/item?id=47377262)**
 
-⬆️ 122 • 💬 104 • 18h ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
+⬆️ 122 • 💬 104 • 19h ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
 
 ---
 
@@ -291,17 +291,7 @@ After 2200 Years, AI Finally Decoded the Rosetta Stone — And What It Reveals I
 
 📺 Mystery Decoded
 
-👁️ 5K • 👍 76 • 💬 11 • ⏱️ 24:21 • 20h ago
-
----
-
-**[AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](https://www.youtube.com/watch?v=qWzo3ws0uWU)**
-
-HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
-
-📺 AI Search
-
-👁️ 12K • 👍 938 • 💬 156 • ⏱️ 45:43 • 5h ago
+👁️ 5K • 👍 76 • 💬 11 • ⏱️ 24:21 • 21h ago
 
 ---
 
@@ -311,17 +301,17 @@ China just released DuClaw, a new platform that lets anyone run OpenClaw AI agen
 
 📺 AI Revolution
 
-👁️ 21K • 👍 614 • 💬 66 • ⏱️ 14:20 • 10h ago
+👁️ 25K • 👍 696 • 💬 82 • ⏱️ 14:20 • 11h ago
 
 ---
 
-**[Cute or Creepy? AI Fruit Babies 🍓👶 | The Strangely Satisfying AI ASMR](https://www.youtube.com/watch?v=f_gcmtfLBIk)**
+**[What&#39;s really going on with AI, Expert weighs in | TheStandup](https://www.youtube.com/watch?v=TtX3jDaZG8Y)**
 
-Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but relaxing AI world with @AI_DREAM_ASMRR.
+ssh terminal.shop CHECK OUT THEIR NEW PODCAST ON CASEY'S YOUTUBE: @MollyRocket AI researcher Dimitri joins the ...
 
-📺 AI DREAM ASMR
+📺 The PrimeTime
 
-👁️ 5K • 👍 832 • 💬 104 • ⏱️ 2:34 • 21h ago
+👁️ 78K • 👍 2K • 💬 502 • ⏱️ 42:21 • 21h ago
 
 ---
 
@@ -331,17 +321,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 75K • 👍 2K • 💬 478 • ⏱️ 3:28 • 1d ago
-
----
-
-**[AI News: They All Launched the Same Thing!](https://www.youtube.com/watch?v=syx_8UlEWlA)**
-
-Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
-
-📺 Matt Wolfe
-
-👁️ 70K • 👍 3K • 💬 203 • ⏱️ 33:33 • 1d ago
+👁️ 77K • 👍 2K • 💬 482 • ⏱️ 3:28 • 1d ago
 
 ---
 
@@ -351,7 +331,37 @@ Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and
 
 📺 The AI Nexus
 
-👁️ 7K • 👍 284 • 💬 22 • ⏱️ 18:24 • 1d ago
+👁️ 8K • 👍 301 • 💬 23 • ⏱️ 18:24 • 1d ago
+
+---
+
+**[AI News: They All Launched the Same Thing!](https://www.youtube.com/watch?v=syx_8UlEWlA)**
+
+Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
+
+📺 Matt Wolfe
+
+👁️ 72K • 👍 3K • 💬 207 • ⏱️ 33:33 • 1d ago
+
+---
+
+**[Cute or Creepy? AI Fruit Babies 🍓👶 | The Strangely Satisfying AI ASMR](https://www.youtube.com/watch?v=f_gcmtfLBIk)**
+
+Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but relaxing AI world with @AI_DREAM_ASMRR.
+
+📺 AI DREAM ASMR
+
+👁️ 12K • 👍 881 • 💬 106 • ⏱️ 2:34 • 22h ago
+
+---
+
+**[AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](https://www.youtube.com/watch?v=qWzo3ws0uWU)**
+
+HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
+
+📺 AI Search
+
+👁️ 23K • 👍 1K • 💬 191 • ⏱️ 45:43 • 6h ago
 
 ---
 
@@ -361,27 +371,17 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 173K • 👍 3K • 💬 945 • ⏱️ 15:01 • 2d ago
+👁️ 176K • 👍 3K • 💬 959 • ⏱️ 15:01 • 2d ago
 
 ---
 
-**[The Man Behind Every Google AI Tool Showed Me What&#39;s Coming Next](https://www.youtube.com/watch?v=gNA2fQ2KAIs)**
+**[Justice League VS. AI](https://www.youtube.com/watch?v=2qjpBuPonmI)**
 
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://link.stayingahead.ai/YT5 I ...
+The Justice League face off against Lex Luthor and his greatest scheme yet, or lack there of. Lex shows off his new Artificial Luthor ...
 
-📺 Vaibhav Sisinty
+📺 Solid jj
 
-👁️ 118K • 👍 4K • 💬 125 • ⏱️ 31:35 • 2d ago
-
----
-
-**[AI is TAKING OUR JOBS!](https://www.youtube.com/watch?v=xPUtBOqK054)**
-
-Burger King recently announced their new AI headsets, and you can already smell the dystopia (and Whoppers) in the air!
-
-📺 The Food Theorists
-
-👁️ 186K • 👍 10K • 💬 288 • ⏱️ 1:12 • 2d ago
+👁️ 248K • 👍 33K • 💬 2K • ⏱️ 3:27 • 15h ago
 
 ---
 
@@ -397,7 +397,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 61,629 • ❤️ 664 • 7d ago
+⬇️ 61,629 • ❤️ 671 • 7d ago
 
 ---
 
@@ -409,7 +409,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 4,529 • ❤️ 428 • 3d ago
+⬇️ 4,529 • ❤️ 434 • 3d ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,964,599 • ❤️ 824 • 13d ago
+⬇️ 1,964,599 • ❤️ 828 • 13d ago
 
 ---
 
@@ -445,7 +445,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 220,810 • ❤️ 428 • 11d ago
+⬇️ 220,810 • ❤️ 430 • 11d ago
 
 ---
 
@@ -457,7 +457,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 20,858 • ❤️ 192 • 18h ago
+⬇️ 20,858 • ❤️ 192 • 19h ago
 
 ---
 
@@ -469,7 +469,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 5,659 • ❤️ 181 • 2d ago
+⬇️ 5,659 • ❤️ 185 • 2d ago
 
 ---
 
@@ -481,7 +481,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 12,801 • ❤️ 178 • 1d ago
+⬇️ 12,801 • ❤️ 181 • 1d ago
 
 ---
 
@@ -493,7 +493,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 77,440 • ❤️ 168 • 4d ago
+⬇️ 77,440 • ❤️ 169 • 4d ago
 
 ---
 
@@ -505,7 +505,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 `text-generation` `4.0B`
 
-⬇️ 1,218 • ❤️ 161 • 1d ago
+⬇️ 1,218 • ❤️ 162 • 1d ago
 
 ---
 
@@ -547,7 +547,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 91 • 💬 3 • ⭐ 2,692 • 4d ago
+▲ 93 • 💬 3 • ⭐ 2,692 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -561,7 +561,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 A novel tokenization scheme synchronizes acoustic features with text tokens in TTS systems, enabling unified modeling and reduced hallucinations through flow matching and text-only guidance.
 
-▲ 6 • 💬 0 • ⭐ 649 • 16d ago
+▲ 6 • 💬 0 • ⭐ 649 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.23068) • [💻 code](https://github.com/HumeAI/tada) • [🔗 project](https://www.hume.ai/blog/opensource-tada)
 
@@ -573,7 +573,7 @@ A novel tokenization scheme synchronizes acoustic features with text tokens in T
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 48 • 💬 2 • ⭐ 49,831 • 10mo ago
+▲ 48 • 💬 2 • ⭐ 49,874 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -627,21 +627,23 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Pretraining creates a parameter distribution where task-specific experts become more densely populated in large models, enabling effective ensemble methods for post-training adaptation.
 
-▲ 3 • 💬 2 • ⭐ 96 • 2d ago
+▲ 4 • 💬 2 • ⭐ 96 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.12228) • [💻 code](https://github.com/sunrainyg/RandOpt) • [🔗 project](https://thickets.mit.edu)
 
 ---
 
-**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
-*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
 
-A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
+🏢 PaddlePaddle
 
-▲ 11 • 💬 1 • ⭐ 54,862 • 16mo ago
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
+▲ 120 • 💬 8 • ⭐ 72,303 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -655,7 +657,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 34.7k • 🔱 4.7k • 4d ago
+⭐ 35.0k • 🔱 4.8k • 4d ago
 
 ---
 
@@ -665,7 +667,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.4k • 🔱 932 • 1d ago
+⭐ 20.4k • 🔱 934 • 1d ago
 
 ---
 
@@ -675,7 +677,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.6k • 🔱 1.4k • 2h ago
+⭐ 11.7k • 🔱 1.4k • 3h ago
 
 ---
 
@@ -685,7 +687,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 9.3k • 🔱 831 • 9d ago
+⭐ 9.4k • 🔱 837 • 9d ago
 
 ---
 
@@ -695,7 +697,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.2k • 🔱 666 • 1d ago
+⭐ 9.2k • 🔱 669 • 18m ago
 
 ---
 
@@ -715,7 +717,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 7.1k • 🔱 323 • 17h ago
+⭐ 7.2k • 🔱 330 • 18h ago
 
 ---
 
@@ -725,7 +727,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 747 • 13h ago
+⭐ 6.3k • 🔱 747 • 14h ago
 
 ---
 
@@ -735,7 +737,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 669 • 14h ago
+⭐ 3.4k • 🔱 669 • 15h ago
 
 ---
 
@@ -745,7 +747,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 2.7k • 🔱 178 • 14d ago
+⭐ 2.7k • 🔱 179 • 14d ago
 
 ---
 

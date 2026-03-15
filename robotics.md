@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T09:35:59.902923+00:00'
+updated: '2026-03-15T10:31:15.451332+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 09:35 UTC  
+**Last Updated:** March 15, 2026 at 10:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
 
-16h ago
+17h ago
 
 ---
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -56,13 +56,13 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Hey everyone, I’m a high school senior who’s about to start college as a mechanical engineering major. I’m really interested in robotics, but I have basically zero experience with actual robots and I’m also pretty desperate to learn how to code. Right now I’m kind of overwhelmed and don’t know what to focus on first. Should I start with Arduino or Raspberry Pi type projects, learn a language like Python or C++ first, or spend time on basic electronics/mechatronics stuff? If you were in my shoes going into mechE with no robotics or coding background how would you get started over the next few months? Any specific beginner projects, resources, or paths to follow would be super helpful. Thanks in advance for any advice :)
 
-10h ago
+11h ago
 
 ---
 
 **[MEDICAL ROBOTS FOR THE HEALTH SECTOR](https://www.reddit.com/r/robotics/comments/1rtzh3h/medical_robots_for_the_health_sector/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -70,13 +70,13 @@ Hey everyone, I’m a high school senior who’s about to start college as a mec
 
 Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 topics directly to the Rerun viewer for real-time visualization. What it does Speaks DDS and Zenoh natively — it's not a ROS 2 node, so no colcon build, no rclcpp, no ROS 2 install needed 53 built-in type mappings (images, pointclouds, TF, poses, laser scans, odometry, etc.) Custom message mappings via JSON5 config — map any ROS 2 type to Rerun archetypes without writing code URDF loading with full TF tree visualization Per-topic diagnostics (Hz, bandwidth, drops, latency) Topic filtering with glob patterns Getting Started sh curl -fsSL https://rewire.run/install.sh | sh rewire record -a That's it — two commands and you're visualizing your ROS 2 system in Rerun. Works on Linux (x86_64, aarch64) and macOS (Intel + Apple Silicon). Single binary, pure Rust. Website: https://rewire.run Feel free to ask anything!
 
-10h ago
+11h ago
 
 ---
 
 **[I turned Brianna into a crab just to have a little thing to craw around](https://www.reddit.com/r/robotics/comments/1rtfs25/i_turned_brianna_into_a_crab_just_to_have_a/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 t
 
 I’ve been building a small Rust project called Reflex Engine SDK, and I’m trying to figure out whether it actually fits anywhere real in robotics or if I’m forcing the angle. The basic idea is pretty simple: an event or proposed action comes in, it gets checked against a local ruleset, it returns ALLOW or DENY, and it emits a replayable artifact showing what happened. I’m not talking about planning, perception, or SLAM. I’m thinking more along the lines of geofence, speed, altitude, or policy checks before something executes. The main thing I’ve learned so far is that the core evaluator seems fast enough to be interesting, and the bigger bottleneck was artifact persistence on the hot path rather than the rule check itself. Repo/demo: https://github.com/caminodynamics/reflex-engine-sdk⁠� My real question is whether something like this actually belongs anywhere in a robotics stack. Does it make sense as a pre-execution gate inside an autonomy stack, or as a local safety/policy layer at the edge, or is this basically unnecessary because existing systems already cover it better?
 
-11h ago
+12h ago
 
 ---
 
@@ -100,7 +100,7 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot learning, and world models for robotics. Recently I came across the AGIBOT World Challenge, which will have its finals at ICRA 2026 in Vienna, and I'm considering participating. Rather than doing it alone, I thought it might be interesting to form a small team with people who enjoy building robotics systems and experimenting with new ideas. From what I understand, the challenge focuses on embodied intelligence, especially things like: • reasoning → action loops • world models for robotics • perception → planning → action pipelines • sim-to-real transfer The finals will be run on real robots at ICRA 2026, and the challenge also provides a simulation platform and datasets for training and testing. Some of the directions I’m personally interested in exploring: • robot learning policies • integrating foundation models with robot planning • world models for prediction and control • simulation-to-real transfer If anyone here is also working on embodied AI, robot learning, or robotics systems, it would be great to exchange ideas or potentially form a small team. Feel free to reply here, send a DM, or email me directly: [Seatrain.liang@gmail.com](mailto:Seatrain.liang@gmail.com) Also curious to hear how people here are approaching embodied AI systems for robotics lately.
 
-12h ago
+13h ago
 
 ---
 
@@ -136,7 +136,7 @@ Popular Science • 1d ago
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 9h ago
+Electrek • 10h ago
 
 ---
 
@@ -192,13 +192,23 @@ BBC • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
+
+Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
+
+📺 Brighter with Herbert
+
+👁️ 40K • 👍 1K • 💬 188 • ⏱️ 49:45 • 15h ago
+
+---
+
 **[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
 
 At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
 
 📺 Munro Live
 
-👁️ 6K • 👍 251 • 💬 23 • ⏱️ 8:34 • 2d ago
+👁️ 6K • 👍 252 • 💬 23 • ⏱️ 8:34 • 2d ago
 
 ---
 
@@ -212,26 +222,6 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
-
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
-
-📺 DPCcars
-
-👁️ 16K • 👍 120 • 💬 31 • ⏱️ 3:48 • 5d ago
-
----
-
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
-
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
-
-📺 Reuters
-
-👁️ 22K • 👍 88 • 💬 36 • ⏱️ 2:38 • 3d ago
-
----
-
 **[DEEP Robotics Built a Robot Horse and It Is Incredible](https://www.youtube.com/watch?v=3b13QT-85CU)**
 
 A robot that looks and moves like a horse? DEEP Robotics created a special edition quadruped robot inspired by the Year of the ...
@@ -242,23 +232,33 @@ A robot that looks and moves like a horse? DEEP Robotics created a special editi
 
 ---
 
-**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
 
-📺 South China Morning Post
+📺 DPCcars
 
-👁️ 15K • 👍 209 • 💬 82 • ⏱️ 4:52 • 3d ago
+👁️ 16K • 👍 120 • 💬 32 • ⏱️ 3:48 • 5d ago
 
 ---
 
-**[Craft a one-of-a-kind custom 3d case for your robot.😏 #3dprinting #large3dprinter #machine](https://www.youtube.com/watch?v=jYto7fpHJlg)**
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
 
-dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Email: sales@dowell3dprinter.xyz ▷Filament: ...
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
 
-📺 DOWELL3D PRINTER
+📺 Reuters
 
-👁️ 10K • 👍 138 • 💬 2 • ⏱️ 0:17 • 1d ago
+👁️ 23K • 👍 88 • 💬 36 • ⏱️ 2:38 • 3d ago
+
+---
+
+**[Figure 03 Humanoid Robot Learns 8 New Autonomous AI Skills (AI NEWS)](https://www.youtube.com/watch?v=g4gBm82PVyk)**
+
+Figure demos world leading autonomous cleaning capabilities with its 03 humanoid robot, showcasing eight new abilities: ...
+
+📺 AI News
+
+👁️ 9K • 👍 232 • 💬 60 • ⏱️ 8:04 • 5d ago
 
 ---
 
@@ -268,7 +268,7 @@ Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major 
 
 📺 Vizuara
 
-👁️ 388K • 👍 47 • 💬 10 • ⏱️ 5:34 • 3d ago
+👁️ 406K • 👍 48 • 💬 10 • ⏱️ 5:34 • 3d ago
 
 ---
 
@@ -278,15 +278,17 @@ We show you how NOT to build a Robotics Company! ▻ Join the Discord to Build R
 
 📺 Nick Builds
 
-👁️ 1K • 👍 98 • 💬 22 • ⏱️ 11:52 • 14h ago
+👁️ 1K • 👍 103 • 💬 23 • ⏱️ 11:52 • 15h ago
 
 ---
 
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=9Irk3BKmLvI)**
+**[Drones and robots are &#39;changing&#39; warfare: Xtend CEO](https://www.youtube.com/watch?v=EucyIHEbHUI)**
 
-📺 zhulongfeng 6
+Xtend co-founder and CEO Aviv Shapira explains how technology is changing warfare as drones and robots are being ...
 
-👁️ 31K • 👍 142 • ⏱️ 0:21 • 1d ago
+📺 Fox Business
+
+👁️ 10K • 👍 226 • 💬 22 • ⏱️ 5:39 • 2d ago
 
 ---
 

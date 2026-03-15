@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T09:35:59.893774+00:00'
+updated: '2026-03-15T10:31:15.441968+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 09:35 UTC  
+**Last Updated:** March 15, 2026 at 10:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1429.68B
+**Market Cap:** $1437.22B
 Rank #1
 
-**Circulating Supply:** 20,002,203 BTC
+**Circulating Supply:** 20,002,318 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.3%
+-43.0%
 
 **All-Time Low:** $67.81
-+105298.9%
++105872.6%
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
 
-13h ago
+14h ago
 
 ---
 
@@ -119,13 +119,13 @@ Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I
 
 hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 and i know it's kinda arbitrary but whatever, it gives me something to work toward and actually makes me excited when we see red days lol currently doing $275 weekly buys and lowkey hoping we stay in this range for a while so i can keep stacking at decent prices before things potentially moon again curious what strategies you all are running? any tweaks you'd suggest to my approach or different ways to think about accumulating? always down to hear how other people are playing the long game
 
-9h ago
+10h ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -141,7 +141,7 @@ When Fear & Greed hits extreme fear, that's historically when you want to be acc
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -153,7 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1h ago
 
 These assets will help you to layer either safety or some risk into your portfolio.
 
-The Motley Fool • 30m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 30m ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bloomberg.com • 1d ago
 
 The 20 millionth Bitcoin was mined March 2026, leaving 1 million BTC to be issued as block rewards to miners in near-breakeven economics.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -215,7 +215,7 @@ Decrypt • 19h ago
 
 The Bitcoin price has not particularly impressed over the past two weeks, but it appears to have steadied its movement within a clear consolidation range. In its latest attempt to shine, the premier cryptocurrency faced fierce resistance around $74,000 on Friday, March 13. Interestingly, the latest…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -313,37 +313,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 133 • ⏱️ 1:15:12 • 13h ago
-
----
-
-**[The Bitcoin Bottom is Closing In. Don’t Miss It.](https://www.youtube.com/watch?v=le1HlYVYDvw)**
-
-The bitcoin and altcoin bottom is coming in - moving averages and the pi cycle bottom are being looked at BUT will the market do ...
-
-📺 Digital Asset News
-
-👁️ 5K • 👍 399 • 💬 27 • ⏱️ 21:58 • 10h ago
-
----
-
-**[Strategy is Driving ALL The Bitcoin Out Of Circulation FOREVER!](https://www.youtube.com/watch?v=-_C4dZZvWIk)**
-
-Strategy may have raised over $1 billion in a single trading session, and if that's even close to true, Bitcoin's supply dynamics may ...
-
-📺 Swan Bitcoin
-
-👁️ 30K • 👍 2K • 💬 161 • ⏱️ 12:14 • 1d ago
-
----
-
-**[The Next Bitcoin Bull Run Could Start In A Crisis](https://www.youtube.com/watch?v=Gb75HhiAYtA)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 46K • 👍 2K • 💬 65 • ⏱️ 46:42 • 20h ago
+👁️ 24K • 👍 1K • 💬 128 • ⏱️ 1:15:12 • 14h ago
 
 ---
 
@@ -353,7 +323,17 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 164 • ⏱️ 14:33 • 1d ago
+👁️ 29K • 👍 2K • 💬 161 • ⏱️ 14:33 • 1d ago
+
+---
+
+**[Strategy is Driving ALL The Bitcoin Out Of Circulation FOREVER!](https://www.youtube.com/watch?v=-_C4dZZvWIk)**
+
+Strategy may have raised over $1 billion in a single trading session, and if that's even close to true, Bitcoin's supply dynamics may ...
+
+📺 Swan Bitcoin
+
+👁️ 31K • 👍 2K • 💬 175 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -363,17 +343,17 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 98K • 👍 5K • 💬 737 • ⏱️ 18:10 • 2d ago
+👁️ 99K • 👍 5K • 💬 739 • ⏱️ 18:10 • 2d ago
 
 ---
 
-**[Why The Bitcoin Whales Are About To Eat You Alive](https://www.youtube.com/watch?v=BNnWrehbTzA)**
+**[The Next Bitcoin Bull Run Could Start In A Crisis](https://www.youtube.com/watch?v=Gb75HhiAYtA)**
 
-Retail panic selling is feeding the biggest Bitcoin accumulation in history. While headlines scream bear market, institutions are ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Simply Bitcoin
+📺 Anthony Pompliano
 
-👁️ 30K • 👍 2K • 💬 128 • ⏱️ 22:37 • 2d ago
+👁️ 48K • 👍 2K • 💬 65 • ⏱️ 46:42 • 21h ago
 
 ---
 
@@ -383,7 +363,7 @@ The stock market is bleeding, Gold and Silver are breaking down, but the crypto 
 
 📺 Gareth Soloway
 
-👁️ 51K • 👍 3K • 💬 341 • ⏱️ 9:50 • 1d ago
+👁️ 52K • 👍 3K • 💬 350 • ⏱️ 9:50 • 1d ago
 
 ---
 
@@ -393,7 +373,17 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 230 • ⏱️ 13:31 • 1d ago
+👁️ 41K • 👍 2K • 💬 229 • ⏱️ 13:31 • 1d ago
+
+---
+
+**[FORGET WALL ST: How the Biggest Bitcoin Attack Is Coming From Within!](https://www.youtube.com/watch?v=UdUY0ol6HVk)**
+
+A major fight over Bitcoin is happening on Capitol Hill and most people have no idea. Coinbase lobbyists are reportedly pushing ...
+
+📺 Simply Bitcoin
+
+👁️ 12K • 👍 947 • 💬 219 • ⏱️ 14:10 • 18h ago
 
 ---
 
@@ -403,7 +393,17 @@ The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device tha
 
 📺 How Much?
 
-👁️ 2K • 👍 28 • 💬 2 • ⏱️ 0:34 • 10h ago
+👁️ 2K • 👍 36 • 💬 5 • ⏱️ 0:34 • 11h ago
+
+---
+
+**[THIS CHART SHOWS BITCOIN EXPLODING TO....](https://www.youtube.com/watch?v=hfxgFcZRp48)**
+
+This chart is screaming something most people are ignoring — and the data backs it up. Institutions added +18237 BTC to their ...
+
+📺 Davinci Jeremie
+
+👁️ 9K • 👍 428 • 💬 62 • ⏱️ 19:00 • 1d ago
 
 ---
 
