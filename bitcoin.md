@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T14:31:53.268129+00:00'
+updated: '2026-03-15T15:30:21.119571+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 14:31 UTC  
+**Last Updated:** March 15, 2026 at 15:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1432.59B
+**Market Cap:** $1431.73B
 Rank #1
 
-**Circulating Supply:** 20,002,362 BTC
+**Circulating Supply:** 20,002,434 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.2%
+-43.3%
 
 **All-Time Low:** $67.81
-+105517.2%
++105369.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-4h ago
+5h ago
 
 ---
 
 **[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -101,13 +101,13 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
-6h ago
+7h ago
 
 ---
 
 **[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 7h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 8h ago
 
 ---
 
@@ -121,7 +121,7 @@ Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 Holding satoshis in self custody is not just about getting "fabulously wealthy"' though that can happen maybe not for you but your progeny. Its about opting out of the system that has kept us serfs for 100s of years and has been doing nothing but tighting the yolk around our necks for decade after decade. To many people accept this position to the point where even when there is a means of cessation, of liberation in the palm of their hands, they dont take it. They stay sheep. They stay yolked, they accept it because their father, and their fathers father accepted it and have taken the role of serf with pride. They get in line and and point out and ridicule the dessenters, all while they follow the herd and are led like sheep to ther slaughter. I will not consent. I will opt out and guide my chilldren into freedom and liberate them from this corrupt system of control, by stacking sats and saving on the blockchain. I will take part in an act of non violent civil disobedience and protect my energy and time in a way that saves it from being debased, used for war and profits only a privileged few. Its a corrupt and evil system that wants us to stay weak and bent over, eyes drawn down to the ground and never looking up to the light of the sun. SATYAGRAHA!
 
-1h ago
+2h ago
 
 ---
 
@@ -129,7 +129,7 @@ Holding satoshis in self custody is not just about getting "fabulously wealthy"'
 
 The days have grown long, the nights longer, and my bones carry the weight of decades. I wander through memories like faded rooms, each one echoing with what I thought I’d build, what I thought I’d become. There’s a quiet question I carry now: a lifetime spent chasing, striving, hoping, and yet, when I look back, the shelves are bare, the gardens untended, the roads I thought I paved dissolved into dust and shadow. How did it all go so wrong Help me Bitcoin, you're my only hope
 
-1h ago
+2h ago
 
 ---
 
@@ -153,7 +153,7 @@ The days have grown long, the nights longer, and my bones carry the weight of de
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 2d ago
 
 Looking at its returns during past global conflicts, Bitcoin crashes when wars start but recovers within 50-60 days. Data across 20 geopolitical events showing average gains of 31.2% as governments increase money supply to fund conflicts. The Crash-Then-Rally Pattern Bitwise...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 2h ago
 
 Just as nations diversify their strategic reserves, Israel can explore how digital assets might play a role in the financial architecture of the future.
 
-The Jerusalem Post • 2h ago
+The Jerusalem Post • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Jerusalem Post • 2h ago
 
 A growing number of industry figures say bitcoin could eventually reach seven figures, but analysts say the outcome hinges on how much of the global store-of-value market the cryptocurrency can capture.
 
-CoinDesk • 29m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -193,13 +193,13 @@ CoinDesk • 29m ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
 **[Bitcoin: Institutional interest provides buffer as BTC eyes $73,000 resistance](https://www.investing.com/news/cryptocurrency-news/bitcoin-institutional-interest-provides-buffer-as-btc-eyes-73000-resistance-4561528)**
 
-Investing.com • 9h ago
+Investing.com • 10h ago
 
 ---
 
@@ -285,7 +285,7 @@ The Bitcoin network is nearing 20 million mined coins, and while the last coin w
 
 Another product idea that harvests Bitcoin miner waste heat.
 
-⬆️ 1 • 💬 0 • 5d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+⬆️ 1 • 💬 0 • 6d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -313,7 +313,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 125 • ⏱️ 1:15:12 • 18h ago
+👁️ 29K • 👍 1K • 💬 130 • ⏱️ 1:15:12 • 19h ago
 
 ---
 
@@ -323,37 +323,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 32K • 👍 2K • 💬 173 • ⏱️ 12:14 • 1d ago
-
----
-
-**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
-
-The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
-
-📺 Simply Bitcoin
-
-👁️ 29K • 👍 2K • 💬 142 • ⏱️ 14:33 • 1d ago
-
----
-
-**[The Countdown to Bitcoin&#39;s Next Face Melting Rally Has Begun!](https://www.youtube.com/watch?v=bezGcOzLbw0)**
-
-Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven job losses, and that may be a bigger signal than ...
-
-📺 Swan Bitcoin
-
-👁️ 100K • 👍 5K • 💬 740 • ⏱️ 18:10 • 2d ago
-
----
-
-**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
-
-The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
-
-📺 Gareth Soloway
-
-👁️ 53K • 👍 3K • 💬 371 • ⏱️ 9:50 • 1d ago
+👁️ 32K • 👍 2K • 💬 173 • ⏱️ 12:14 • 2d ago
 
 ---
 
@@ -363,17 +333,57 @@ Join me for an exclusive after party and get 10% off of your Bitcoin Vegas ticke
 
 📺 Market Disruptors Podcast
 
-👁️ 7K • 👍 430 • 💬 70 • ⏱️ 57:48 • 21h ago
+👁️ 8K • 👍 471 • 💬 86 • ⏱️ 57:48 • 22h ago
 
 ---
 
-**[FORGET WALL ST: How the Biggest Bitcoin Attack Is Coming From Within!](https://www.youtube.com/watch?v=UdUY0ol6HVk)**
+**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
 
-A major fight over Bitcoin is happening on Capitol Hill and most people have no idea. Coinbase lobbyists are reportedly pushing ...
+The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 987 • 💬 211 • ⏱️ 14:10 • 22h ago
+👁️ 30K • 👍 2K • 💬 138 • ⏱️ 14:33 • 1d ago
+
+---
+
+**[The Next Bitcoin Bull Run Could Start In A Crisis](https://www.youtube.com/watch?v=Gb75HhiAYtA)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 53K • 👍 2K • 💬 64 • ⏱️ 46:42 • 1d ago
+
+---
+
+**[The Countdown to Bitcoin&#39;s Next Face Melting Rally Has Begun!](https://www.youtube.com/watch?v=bezGcOzLbw0)**
+
+Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven job losses, and that may be a bigger signal than ...
+
+📺 Swan Bitcoin
+
+👁️ 102K • 👍 5K • 💬 744 • ⏱️ 18:10 • 2d ago
+
+---
+
+**[The Bitcoin Shift That Will Change Markets Forever | Haider Rafique](https://www.youtube.com/watch?v=iiidQ5HEv4g)**
+
+Bitcoin #Crypto #Finance Will Bitcoin Survive The Shift That Will Change Markets Forever? Tokenization may be a lot closer than ...
+
+📺 The Wolf Of All Streets
+
+👁️ 2K • 👍 168 • 💬 129 • ⏱️ 58:23 • 2h ago
+
+---
+
+**[Bitcoin Is Doing Something VERY Weird And It Might Change The Crypto Market Forever](https://www.youtube.com/watch?v=TVerC9mCedc)**
+
+Looks like Bitcoin might have more of a correlation than we originally thought. As news about Bitcoin becoming or already being ...
+
+📺 The Modern Investor
+
+👁️ 2K • 👍 365 • 💬 106 • ⏱️ 26:44 • 4h ago
 
 ---
 
@@ -383,27 +393,17 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 221 • ⏱️ 13:31 • 1d ago
+👁️ 43K • 👍 2K • 💬 213 • ⏱️ 13:31 • 1d ago
 
 ---
 
-**[THIS CHART SHOWS BITCOIN EXPLODING TO....](https://www.youtube.com/watch?v=hfxgFcZRp48)**
+**[The Best Bitcoin Miner Ever: THE GOLD NUGGET!⭐](https://www.youtube.com/watch?v=WGCNhaRkSM0)**
 
-This chart is screaming something most people are ignoring — and the data backs it up. Institutions added +18237 BTC to their ...
+The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device that lets you generate fresh 'lottery tickets' every 10 ...
 
-📺 Davinci Jeremie
+📺 How Much?
 
-👁️ 9K • 👍 428 • 💬 62 • ⏱️ 19:00 • 1d ago
-
----
-
-**[Bitcoin 2nd Bear Leg in Major Trading Range - March 15 2026](https://www.youtube.com/watch?v=e0_ANO7CsA4)**
-
-Bitcoin is likely transitioning from a bear channel into a trading range. After a second bearish leg, bulls target the $80000–$90000 ...
-
-📺 Brooks Trading Course
-
-👁️ 436 • 👍 40 • 💬 1 • ⏱️ 11:36 • 6h ago
+👁️ 3K • 👍 47 • 💬 5 • ⏱️ 0:34 • 16h ago
 
 ---
 

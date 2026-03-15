@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T14:31:53.273450+00:00'
+updated: '2026-03-15T15:30:21.125746+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 14:31 UTC  
+**Last Updated:** March 15, 2026 at 15:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $254.70B
+**Market Cap:** $252.73B
 Rank #2
 
 **Circulating Supply:** 120,691,909 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.4%
+-57.7%
 
 **All-Time Low:** $0.43
-+487059.9%
++483320.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-8h ago
+9h ago
 
 ---
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 3h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 4h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -138,7 +138,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 1d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 2d ago
 
 ---
 
@@ -150,7 +150,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -158,7 +158,7 @@ CoinDesk • 20h ago
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Block • 20h ago
 
 The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 19h ago
 
 Most cryptocurrencies haven't survived seven years as of yet.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Motley Fool • 1h ago
 
 Crypto is having one of its best days in weeks. Bitcoin has pushed above $73,000, Ethereum has cleared $2,180, and the total crypto market has added $90 billion in value in the past 15 hours alone. Here is what is actually driving it.The Numbers FirstThe Fear and Greed Index sits at 37, still in fe…
 
-TradingView • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -190,7 +190,7 @@ TradingView • 1d ago
 
 Gareth Soloway, chief market strategist at VerifiedInvesting.com, is doubling down on his short-term bullish thesis for crypto, and the charts he is
 
-Coinpedia Fintech News • 5h ago
+Coinpedia Fintech News • 6h ago
 
 ---
 
@@ -198,7 +198,7 @@ Coinpedia Fintech News • 5h ago
 
 According to the latest on-chain data, Ethereum appears to be entering a state of undervaluation, with the potential of rebounding to new highs. However, the question is — is it really time to buy ETH?ETH Could Drop Another 40% Before Bear Cycle EndsIn a new Quicktake post on the CryptoQuant platfo…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -206,7 +206,7 @@ TradingView • 3h ago
 
 DUBAI, United Arab Emirates, March  15, 2026  (GLOBE NEWSWIRE) -- Growth for Mutuum Finance (MUTM) has continued, with the project recently surpas...
 
-markets.businessinsider.com • 53m ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -230,13 +230,13 @@ The Block • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=xSiSue5a9DM)**
+**[Tom Lee: Market EMERGENCY‼️ (New Bitcoin &amp; ETH Price Prediction)](https://www.youtube.com/watch?v=DAnsx4IKhEI)**
 
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 ONE VOICE CHOIR GHANA
+📺 Library Of Wealth
 
-👁️ 5K • 👍 1K • 3h ago
+👁️ 1K • 👍 91 • 💬 247 • ⏱️ 15:57 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 800 • 👍 94 • 💬 56 • ⏱️ 15:12 • 5h ago
+👁️ 1K • 👍 135 • 💬 61 • ⏱️ 15:12 • 6h ago
 
 ---
 
@@ -256,17 +256,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 8K • 👍 575 • 💬 129 • ⏱️ 22:03 • 15h ago
-
----
-
-**[Tom Lee: Market EMERGENCY‼️ (New Bitcoin &amp; ETH Price Prediction)](https://www.youtube.com/watch?v=DAnsx4IKhEI)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 1K • 👍 75 • 💬 253 • ⏱️ 15:57 • 10h ago
+👁️ 9K • 👍 649 • 💬 131 • ⏱️ 22:03 • 16h ago
 
 ---
 
@@ -276,7 +266,7 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 221 • ⏱️ 13:31 • 1d ago
+👁️ 43K • 👍 2K • 💬 213 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -286,7 +276,27 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 190 • 💬 48 • ⏱️ 12:50 • 1d ago
+👁️ 4K • 👍 193 • 💬 48 • ⏱️ 12:50 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Are About To Do Something MASSIVE! (BlackRock &amp; Arthur Hayes)](https://www.youtube.com/watch?v=bvowrmBuX-U)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 138 • 👍 10 • ⏱️ 19:10 • 15m ago
+
+---
+
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=xSiSue5a9DM)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 ONE VOICE CHOIR GHANA
+
+👁️ 13K • 👍 1K • ⏱️ 2:44:05 • 1h ago
 
 ---
 
@@ -296,7 +306,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 114 • 👍 5 • 💬 2 • ⏱️ 5:32 • 4h ago
+👁️ 168 • 👍 8 • 💬 2 • ⏱️ 5:32 • 5h ago
 
 ---
 
@@ -306,17 +316,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 3K • 👍 112 • 💬 72 • ⏱️ 9:05 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=D0pMvb5nAtc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 154 • 💬 4 • ⏱️ 4:26 • 18h ago
+👁️ 3K • 👍 117 • 💬 72 • ⏱️ 9:05 • 1d ago
 
 ---
 
@@ -326,7 +326,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 25K • 👍 798 • 💬 64 • ⏱️ 19:58 • 2d ago
+👁️ 25K • 👍 804 • 💬 64 • ⏱️ 19:58 • 2d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-15T14:31:53.260429+00:00'
+updated: '2026-03-15T15:30:21.110789+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
+- social
 - repositories
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 15, 2026 at 14:31 UTC  
+**Last Updated:** March 15, 2026 at 15:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Tencent's QClaw puts OpenClaw AI agents inside WeChat, QQ. With 135K exposed instances globally, here's what enterprises need to know about the agent wave
 
-🔗 [beam.ai](https://beam.ai/agentic-insights/tencent-launches-qclaw-what-the-ai-agent-mainstream-moment-means-for-enterprise) • 2h ago
+🔗 [beam.ai](https://beam.ai/agentic-insights/tencent-launches-qclaw-what-the-ai-agent-mainstream-moment-means-for-enterprise) • 3h ago
 
 ---
 
 **[Consultants Are Cashing in on the AI Boom - Tech News Briefing - WSJ Podcasts](https://www.reddit.com/r/artificial/comments/1rue9qr/consultants_are_cashing_in_on_the_ai_boom_tech/)**
 
-🔗 [wsj.com](https://www.wsj.com/podcasts/tech-news-briefing/consultants-are-cashing-in-on-the-ai-boom/e9eaf7be-171e-4e25-9faa-33d8bb2ea786?gaa_at=eafs&gaa_n=AWEtsqfdTyvWaFP8EfWuBrGOod5F9GRFcSzxcEHqOEAYwDmKE6xeFnP31JmAzsh3SsE%3D&gaa_ts=69b6b7da&gaa_sig=OPtT9zqUPeLMNc4DiaE9pndX0S1npatSl4fjzt3RjCbRWxbY64Z5j0ODyk5msYHze2XhkS1AkVFl9a8m738_5Q%3D%3D) • 53m ago
+🔗 [wsj.com](https://www.wsj.com/podcasts/tech-news-briefing/consultants-are-cashing-in-on-the-ai-boom/e9eaf7be-171e-4e25-9faa-33d8bb2ea786?gaa_at=eafs&gaa_n=AWEtsqfdTyvWaFP8EfWuBrGOod5F9GRFcSzxcEHqOEAYwDmKE6xeFnP31JmAzsh3SsE%3D&gaa_ts=69b6b7da&gaa_sig=OPtT9zqUPeLMNc4DiaE9pndX0S1npatSl4fjzt3RjCbRWxbY64Z5j0ODyk5msYHze2XhkS1AkVFl9a8m738_5Q%3D%3D) • 1h ago
 
 ---
 
@@ -63,7 +63,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 For the past two years, most discussions about AI in software have focused on code generation. That is the wrong layer to focus on. Coding is the visible surface. The real leverage is in coordination, planning, prioritization, and information synthesis across large systems. Ironically, those are precisely the responsibilities assigned to engineering management. And those are exactly the kinds of problems modern LLM agents are unusually good at. The uncomfortable reality of modern engineering management In large software organizations today: An engineering manager rarely understands the full codebase. A manager rarely understands all the architectural tradeoffs across services. A manager cannot track every dependency, ticket, CI failure, PR discussion, and operational incident. What managers actually do is approximate the system state through partial signals: Jira tickets standups sprint reports Slack conversations incident reviews dashboards This is a lossy human compression pipeline. The system is too large for any single human to truly understand. LLM agents are structurally better at this layer An LLM agent can ingest and reason across: the entire codebase commit history pull requests test failures production metrics incident logs architecture documentation issue trackers Slack discussions This is precisely the kind of cross-context synthesis that autonomous AI agents are designed for. They can interpret large volumes of information, adapt to new inputs, and plan actions toward a defined objective. Modern multi-agent frameworks already model software teams as specialized agents such as planner, coder, debugger, and reviewer that collaborate to complete development tasks. Once this structure exists, the coordination layer becomes machine solvable. What an “AI engineering manager” actually looks like An agent operating at the management layer could continuously: System awareness build a live dependency graph of the entire codebase track architectural drift identify ownership gaps across services Work planning convert product requirements into technical task graphs assign tasks based on developer expertise estimate risk and complexity automatically Operational management correlate incidents with recent commits predict failure points before deployment prioritize technical debt based on runtime impact Team coordination summarize PR discussions generate sprint plans detect blockers automatically This is fundamentally a data processing problem. Humans are weak at this scale of context. LLMs are not. Why developers and architects still remain Even in a highly automated stack, three human roles remain essential: Developers They implement, validate, and refine system behavior. AI can write code, but domain understanding and responsibility still require humans. Architects They define system boundaries, invariants, and long-term technical direction. Architecture is not just pattern selection. It is tradeoff management under uncertainty. Product owners They anchor development to real-world user needs and business goals. Agents can optimize execution, but not define meaning. What disappears first The roles most vulnerable are coordination-heavy roles that exist primarily because information is fragmented. Examples: engineering managers project managers scrum masters delivery managers Their core function is aggregation and communication. That is exactly what LLM agents automate. The deeper shift Software teams historically looked like this: Product → Managers → Developers → Code The emerging structure is closer to: Product → Architect → AI Agents → Developers Where agents handle: planning coordination execution orchestration monitoring Humans focus on intent and system design. Final thought Engineering management existed because the system complexity exceeded human coordination capacity. LLM agents remove that constraint. When a machine can read the entire codebase, every ticket, every log line, every commit, and every design document simultaneously, the coordination layer stops needing humans.
 
-4h ago
+5h ago
 
 ---
 
@@ -71,7 +71,7 @@ For the past two years, most discussions about AI in software have focused on co
 
 Claude will certainly read statements made by Anthropic founder Dario Amodei which explain why he disapproves of the Defense Department’s lax approach to AI safety and ethics. And, of course, more generally, Claude has ingested countless articles, studies, and legal briefs alleging that the Trump administration is abusing its power across numerous domains. Will Claude develop an aversion to working with the federal government? Might AI models grow reluctant to work with certain corporations or organizations due to similar ethical concerns?
 
-🔗 [substack.com](https://substack.com/home/post/p-190322208) • 21h ago
+🔗 [substack.com](https://substack.com/home/post/p-190322208) • 22h ago
 
 ---
 
@@ -79,7 +79,7 @@ Claude will certainly read statements made by Anthropic founder Dario Amodei whi
 
 Integrated an evolutionary database to Karpathy's autoresearch project that replaces the simple tsv file based logging in the original project. Evolutionary algorithms have shown to be a powerful tool for autonomously discovering optimal solutions to problems with large search spaces. Famously, Google DeepMind's AlphaEvolve system uses evolutionary algorithms to discover state of the art matrix multiplication algorithms. The implementation of the evolutionary database itself is based heavily on the implementation in OpenEvolve. Would love thoughts and suggestions from the community. Check it out: https://github.com/hgarud/autoresearch
 
-19h ago
+20h ago
 
 ---
 
@@ -87,7 +87,7 @@ Integrated an evolutionary database to Karpathy's autoresearch project that repl
 
 This week's round of drm-misc-next patches bring a few improvements to the AMDXDNA accelerator driver used for supporting the Ryzen AI NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 19h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.1-Ryzen-AI-NPU-Power) • 20h ago
 
 ---
 
@@ -99,7 +99,7 @@ AI Product Recommendation is a system that uses mathematical models to predict y
 Purchase Intent (also known as Buyer Intent) is a measure of a consumer's conscious plan or willingness to buy a product or service within a specific time frame.
 Your responses are anonymous and will be used for academic research only.
 
-🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 21h ago
+🔗 [Google Docs](https://forms.gle/w7GnpPfRk9UuwkYR9) • 22h ago
 
 ---
 
@@ -107,7 +107,7 @@ Your responses are anonymous and will be used for academic research only.
 
 Hello everyone So I'm just struggling a lot with the sense of meaning and ethics and stuff in the growing world of AI. I think a lot of people are - people have trained their whole lives as journalists or accountants or lawyers and will be rendered obsolete overnight. I thought I was relatively safe as like a musician but I saw a video of an AI woman playing guitar and it was basically impossible to tell that it was AI [(here is a Youtube video about it featuring clips])(https://youtu.be/L9f-hnyAhsQ?si=IxxHXEiLgfWnnBes&t=89) other than some obvious errors. But the point is the inflexions like the wrist or arm or shoulder tensing at the correct moment as someone who's played guitar for years that's literally what guitarists do. I don't know identity, meaning, purpose. Apparently we'll basically be unable to tell within like 5-10 years 20 years if not sooner if a streamer/long form content creator is AI or not will just be impossible to tell. You won't be able to trust basically any media that's not from a specific verified source (even then..?) like Youtube generally will be completely useless once AI political media gets flooding like fake interviews of celebrities/politicians that are impossible to tell if they're AI or not Like what are we even doing here regarding this? I just don't know what to do with my life. What if humanity ultimately merges/forms with AI permanently like Elon Musk's neuralink, what if there are AI robots wondering around who are impossible to tell whether they're human beings or not If we merge with AI all human defects of character like idk anguish anxiety you'll just know basically everything all of the time. Will humans laugh cry fall in love in 200 years time if they're fused with AI..? What of religion ethics spirituality, much of historical morality/religion is based on the idea that humans are finite fallible and make mistakes but won't AI advancements just render all of this not the case? I don't know Any thoughts? What do you make about this, how are you accordingly living your life..? Thank you for any responses
 
-13h ago
+14h ago
 
 ---
 
@@ -115,7 +115,7 @@ Hello everyone So I'm just struggling a lot with the sense of meaning and ethics
 
 I’m not sure where it to ask this question so if someone has another sub that might be more helpful, please suggest it below. I’ve heard of people having a relationships with AI characters, and even some that say they married their AI characters. Does someone have a good explanation of how this works? I’d like to understand this a little bit better.
 
-23h ago
+1d ago
 
 ---
 
@@ -141,7 +141,7 @@ Fox Business • 1d ago
 
 These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.
 
-TechCrunch • 22h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -149,7 +149,7 @@ TechCrunch • 22h ago
 
 Pyongyang’s operatives deploy chatbots to undertake tasks, often in multiple roles
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -157,7 +157,7 @@ Financial Times • 9h ago
 
 From Gaza to Iran, the pattern is the same: precision weapons, chosen blindness, and dead children. The cost of failing to regulate AI warfare is already too high
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Guardian • 1h ago
 
 "So there's a lot of scenarios here, a lot of really frightening scenarios about where escalation could lead," Sacks said.
 
-Yahoo • 21h ago
+Yahoo • 22h ago
 
 ---
 
@@ -181,7 +181,7 @@ Fox News • 1d ago
 
 Major tech companies scramble for power as AI data centers consume massive electricity, with utilities in Virginia, Texas warning of unprecedented demand.
 
-Fox News • 31m ago
+Fox News • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Fox News • 31m ago
 
 Photographers say clients want flawless photos, but panic when they hear the term “AI.”Is the backlash about ethics, or just the label?
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -239,7 +239,7 @@ Tesla and SpaceX managers sent in to review work as billionaire’s start-up str
 
 Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?
 
-⬆️ 250 • 💬 204 • 6h ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+⬆️ 250 • 💬 204 • 7h ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 
 ---
 
@@ -255,7 +255,7 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creating an account on GitHub.
 
-⬆️ 210 • 💬 135 • 4h ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+⬆️ 210 • 💬 135 • 5h ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 
 ---
 
@@ -263,7 +263,7 @@ Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creati
 
 Airbus is working at full throttle to offer the German Air Force an operational Uncrewed Collaborative Combat Aircraft (UCCA) system by 2029.
 
-⬆️ 167 • 💬 114 • 15h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+⬆️ 167 • 💬 114 • 16h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 
 ---
 
@@ -277,7 +277,7 @@ Open-source credential vault, give your AI agents access to services without exp
 
 **[AI didn't simplify software engineering: It just made bad engineering easier](https://news.ycombinator.com/item?id=47377262)**
 
-⬆️ 125 • 💬 106 • 23h ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
+⬆️ 125 • 💬 106 • 1d ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
 
 ---
 
@@ -291,57 +291,17 @@ After 2200 Years, AI Finally Decoded the Rosetta Stone — And What It Reveals I
 
 📺 Mystery Decoded
 
-👁️ 5K • 👍 75 • 💬 11 • ⏱️ 24:21 • 1d ago
+👁️ 5K • 👍 77 • 💬 11 • ⏱️ 24:21 • 1d ago
 
 ---
 
-**[China’s New DuClaw AI Just Made OpenClaw Instant and Unstoppable](https://www.youtube.com/watch?v=sQRLPwcK-tU)**
+**[Pomelli AI Got a Massive Update — Google’s FREE Website Scanner Does What Some Charge $2,500 For](https://www.youtube.com/watch?v=luTsnbbV3gk)**
 
-China just released DuClaw, a new platform that lets anyone run OpenClaw AI agents instantly from a web browser without ...
+Watch the free AI Cashflow Masterclass - https://nickponte.ai/aimasterclass Here is your link to Grab my AI Fast Track Training ...
 
-📺 AI Revolution
+📺 Nick Ponte
 
-👁️ 28K • 👍 758 • 💬 88 • ⏱️ 14:20 • 15h ago
-
----
-
-**[Palantir CTO: &quot;You&#39;re Being Lied to About AI&quot; | Official Preview](https://www.youtube.com/watch?v=gTP9_WTqFWE)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join In this episode of ...
-
-📺 Shawn Ryan Show
-
-👁️ 79K • 👍 2K • 💬 485 • ⏱️ 3:28 • 1d ago
-
----
-
-**[AI News: They All Launched the Same Thing!](https://www.youtube.com/watch?v=syx_8UlEWlA)**
-
-Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
-
-📺 Matt Wolfe
-
-👁️ 74K • 👍 3K • 💬 211 • ⏱️ 33:33 • 1d ago
-
----
-
-**[Cute or Creepy? AI Fruit Babies 🍓👶 | The Strangely Satisfying AI ASMR](https://www.youtube.com/watch?v=f_gcmtfLBIk)**
-
-Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but relaxing AI world with @AI_DREAM_ASMRR.
-
-📺 AI DREAM ASMR
-
-👁️ 31K • 👍 1K • 💬 119 • ⏱️ 2:34 • 1d ago
-
----
-
-**[Digital Optimus: Elon Musk Reveals the First True AI Worker](https://www.youtube.com/watch?v=OzXqJh6yOj4)**
-
-Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and honestly? The future of work may never look ...
-
-📺 The AI Nexus
-
-👁️ 8K • 👍 315 • 💬 26 • ⏱️ 18:24 • 1d ago
+👁️ 314 • 👍 48 • 💬 2 • ⏱️ 28:36 • 1h ago
 
 ---
 
@@ -351,7 +311,57 @@ ssh terminal.shop CHECK OUT THEIR NEW PODCAST ON CASEY'S YOUTUBE: @MollyRocket A
 
 📺 The PrimeTime
 
-👁️ 83K • 👍 2K • 💬 532 • ⏱️ 42:21 • 1d ago
+👁️ 89K • 👍 2K • 💬 552 • ⏱️ 42:21 • 1d ago
+
+---
+
+**[China’s New DuClaw AI Just Made OpenClaw Instant and Unstoppable](https://www.youtube.com/watch?v=sQRLPwcK-tU)**
+
+China just released DuClaw, a new platform that lets anyone run OpenClaw AI agents instantly from a web browser without ...
+
+📺 AI Revolution
+
+👁️ 30K • 👍 816 • 💬 106 • ⏱️ 14:20 • 16h ago
+
+---
+
+**[Palantir CTO: &quot;You&#39;re Being Lied to About AI&quot; | Official Preview](https://www.youtube.com/watch?v=gTP9_WTqFWE)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join In this episode of ...
+
+📺 Shawn Ryan Show
+
+👁️ 80K • 👍 3K • 💬 496 • ⏱️ 3:28 • 1d ago
+
+---
+
+**[Cute or Creepy? AI Fruit Babies 🍓👶 | The Strangely Satisfying AI ASMR](https://www.youtube.com/watch?v=f_gcmtfLBIk)**
+
+Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but relaxing AI world with @AI_DREAM_ASMRR.
+
+📺 AI DREAM ASMR
+
+👁️ 56K • 👍 3K • 💬 122 • ⏱️ 2:34 • 1d ago
+
+---
+
+**[AI News: They All Launched the Same Thing!](https://www.youtube.com/watch?v=syx_8UlEWlA)**
+
+Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
+
+📺 Matt Wolfe
+
+👁️ 75K • 👍 3K • 💬 212 • ⏱️ 33:33 • 1d ago
+
+---
+
+**[Digital Optimus: Elon Musk Reveals the First True AI Worker](https://www.youtube.com/watch?v=OzXqJh6yOj4)**
+
+Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and honestly? The future of work may never look ...
+
+📺 The AI Nexus
+
+👁️ 9K • 👍 322 • 💬 27 • ⏱️ 18:24 • 1d ago
 
 ---
 
@@ -361,27 +371,17 @@ Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE 
 
 📺 JRE Clips
 
-👁️ 179K • 👍 3K • 💬 968 • ⏱️ 15:01 • 2d ago
+👁️ 182K • 👍 3K • 💬 984 • ⏱️ 15:01 • 2d ago
 
 ---
 
-**[AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](https://www.youtube.com/watch?v=qWzo3ws0uWU)**
+**[AI Gets Wrong Woman Arrested 1,200 Miles Away From Crime](https://www.youtube.com/watch?v=mzS7dmCUzcQ)**
 
-HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
+A facial recognition program in SD led to the arrest of an innocent woman in TN, who lost her home and more as a result of the ...
 
-📺 AI Search
+📺 Steve Lehto
 
-👁️ 32K • 👍 2K • 💬 231 • ⏱️ 45:43 • 10h ago
-
----
-
-**[AI vs Hollywood: Beyond Tilly Norwood](https://www.youtube.com/watch?v=VN4gjfpoEsM)**
-
-AI vs Hollywood - Who's going to win? 00:00 AI vs. Hollywood 01:28 Youth & Immortality 02:18 AI in Oscar movies 04:38 Post ...
-
-📺 FilmSelect
-
-👁️ 6K • 👍 58 • 💬 21 • ⏱️ 8:52 • 22h ago
+👁️ 94K • 👍 7K • 💬 3K • ⏱️ 11:02 • 1d ago
 
 ---
 
@@ -397,7 +397,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 61,629 • ❤️ 681 • 7d ago
+⬇️ 61,629 • ❤️ 690 • 7d ago
 
 ---
 
@@ -409,7 +409,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 4,529 • ❤️ 436 • 3d ago
+⬇️ 4,529 • ❤️ 439 • 3d ago
 
 ---
 
@@ -421,7 +421,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 551,479 • ❤️ 613 • 9d ago
+⬇️ 551,479 • ❤️ 615 • 10d ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,964,599 • ❤️ 831 • 13d ago
+⬇️ 1,964,599 • ❤️ 835 • 13d ago
 
 ---
 
@@ -445,7 +445,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 220,810 • ❤️ 433 • 11d ago
+⬇️ 220,810 • ❤️ 435 • 11d ago
 
 ---
 
@@ -457,7 +457,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 20,858 • ❤️ 194 • 23h ago
+⬇️ 20,858 • ❤️ 196 • 1d ago
 
 ---
 
@@ -469,7 +469,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 5,659 • ❤️ 190 • 2d ago
+⬇️ 5,659 • ❤️ 195 • 2d ago
 
 ---
 
@@ -481,7 +481,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 12,801 • ❤️ 182 • 1d ago
+⬇️ 12,801 • ❤️ 183 • 1d ago
 
 ---
 
@@ -493,7 +493,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 77,440 • ❤️ 171 • 4d ago
+⬇️ 77,440 • ❤️ 175 • 4d ago
 
 ---
 
@@ -519,7 +519,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 10 • 💬 0 • ⭐ 34,577 • 13mo ago
+▲ 10 • 💬 0 • ⭐ 34,658 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -533,7 +533,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 25 • 💬 2 • ⭐ 27,314 • 5d ago
+▲ 25 • 💬 2 • ⭐ 27,314 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -547,7 +547,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 93 • 💬 3 • ⭐ 2,786 • 4d ago
+▲ 93 • 💬 3 • ⭐ 2,786 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -598,7 +598,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 46 • 💬 1 • ⭐ 73,109 • 30mo ago
+▲ 46 • 💬 1 • ⭐ 73,139 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -613,23 +613,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 155 • 💬 19 • ⭐ 55,824 • 12mo ago
+▲ 155 • 💬 19 • ⭐ 55,841 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights](https://huggingface.co/papers/2603.12228)**
-
-*Yulu Gan, Phillip Isola*
-
-🏢 Massachusetts Institute of Technology
-
-Pretraining creates a parameter distribution where task-specific experts become more densely populated in large models, enabling effective ensemble methods for post-training adaptation.
-
-▲ 4 • 💬 2 • ⭐ 96 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.12228) • [💻 code](https://github.com/sunrainyg/RandOpt) • [🔗 project](https://thickets.mit.edu)
 
 ---
 
@@ -647,6 +633,20 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
+**[Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights](https://huggingface.co/papers/2603.12228)**
+
+*Yulu Gan, Phillip Isola*
+
+🏢 Massachusetts Institute of Technology
+
+Pretraining creates a parameter distribution where task-specific experts become more densely populated in large models, enabling effective ensemble methods for post-training adaptation.
+
+▲ 4 • 💬 2 • ⭐ 122 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.12228) • [💻 code](https://github.com/sunrainyg/RandOpt) • [🔗 project](https://thickets.mit.edu)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -657,7 +657,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 35.2k • 🔱 4.8k • 4d ago
+⭐ 35.5k • 🔱 4.9k • 4d ago
 
 ---
 
@@ -667,7 +667,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.4k • 🔱 935 • 1d ago
+⭐ 20.5k • 🔱 938 • 1d ago
 
 ---
 
@@ -677,7 +677,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.7k • 🔱 1.4k • 1h ago
+⭐ 11.8k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -687,7 +687,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 9.4k • 🔱 844 • 9d ago
+⭐ 9.5k • 🔱 852 • 10d ago
 
 ---
 
@@ -697,7 +697,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.3k • 🔱 670 • 4h ago
+⭐ 9.3k • 🔱 672 • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 7.2k • 🔱 332 • 1h ago
+⭐ 7.3k • 🔱 334 • 2h ago
 
 ---
 
@@ -717,7 +717,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.2k • 🔱 910 • 11d ago
+⭐ 7.2k • 🔱 913 • 11d ago
 
 ---
 
@@ -727,7 +727,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 748 • 18h ago
+⭐ 6.3k • 🔱 748 • 19h ago
 
 ---
 
@@ -737,7 +737,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 669 • 19h ago
+⭐ 3.4k • 🔱 670 • 20h ago
 
 ---
 
@@ -747,7 +747,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 2.7k • 🔱 179 • 14d ago
+⭐ 2.7k • 🔱 180 • 14d ago
 
 ---
 
