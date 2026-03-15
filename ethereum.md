@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T22:58:28.085366+00:00'
+updated: '2026-03-15T23:37:30.930106+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 22:58 UTC  
+**Last Updated:** March 15, 2026 at 23:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,130.99
+### $2,184.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +6.9%  
-**30d:** +2.3%  
-**90d:** -28.0%  
-**1y:** +13.0%  
+**24h:** +3.8%  
+**7d:** +8.6%  
+**30d:** +3.9%  
+**90d:** -26.9%  
+**1y:** +14.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-16h ago
+17h ago
 
 ---
 
@@ -116,7 +116,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -128,17 +128,17 @@ https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/jos
 
 ---
 
-**[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 2d ago
-
----
-
 **[Daily Doots Podcast #143](https://www.reddit.com/r/ethereum/comments/1rst2ne/daily_doots_podcast_143/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 2d ago
+
+---
+
+**[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 2d ago
 
 ---
 
@@ -182,7 +182,7 @@ Polymarket • 2mo ago
 
 According to the latest on-chain data, Ethereum appears to be entering a state of undervaluation, with the potential of rebounding to new highs. However, the question is — is it really time to buy ETH?ETH Could Drop Another 40% Before Bear Cycle EndsIn a new Quicktake post on the CryptoQuant platfo…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -214,7 +214,7 @@ AMBCrypto • 1d ago
 
 Gareth Soloway, chief market strategist at VerifiedInvesting.com, is doubling down on his short-term bullish thesis for crypto, and the charts he is
 
-Coinpedia Fintech News • 13h ago
+Coinpedia Fintech News • 14h ago
 
 ---
 
@@ -234,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 268 • 💬 26 • ⏱️ 19:10 • 7h ago
+👁️ 6K • 👍 268 • 💬 26 • ⏱️ 19:10 • 8h ago
 
 ---
 
@@ -244,7 +244,7 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 182 • 💬 68 • ⏱️ 15:12 • 13h ago
+👁️ 3K • 👍 182 • 💬 68 • ⏱️ 15:12 • 14h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 110 • 💬 2 • ⏱️ 6:14 • 5h ago
+👁️ 1K • 👍 110 • 💬 2 • ⏱️ 6:14 • 6h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 272 • 👍 10 • 💬 2 • ⏱️ 5:32 • 12h ago
+👁️ 272 • 👍 10 • 💬 2 • ⏱️ 5:32 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T22:58:28.079445+00:00'
+updated: '2026-03-15T23:37:30.924164+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 22:58 UTC  
+**Last Updated:** March 15, 2026 at 23:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,803.03
+### $72,911.48
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +5.1%  
-**30d:** +2.9%  
-**90d:** -18.0%  
-**1y:** -13.0%  
+**24h:** +2.2%  
+**7d:** +6.1%  
+**30d:** +3.8%  
+**90d:** -17.2%  
+**1y:** -12.2%  
 
 ---
 
@@ -85,19 +85,13 @@ Rank #1
 
 **[The life of a Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1rumrk4/the_life_of_a_bitcoiner/)**
 
-3h ago
-
----
-
-**[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
-
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 3h ago
+4h ago
 
 ---
 
 **[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -106,6 +100,20 @@ Rank #1
 Surprise, the doomers and the panic sellers were wrong again.
 
 🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 2h ago
+
+---
+
+**[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
+
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 4h ago
+
+---
+
+**[Hope you all have enough bitcoin to weather the storm - Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle'](https://www.reddit.com/r/Bitcoin/comments/1ruqo0c/hope_you_all_have_enough_bitcoin_to_weather_the/)**
+
+I believe the times ahead will be radically different from what most people have gotten used to—more like the era before 1945 than since.
+
+🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 1h ago
 
 ---
 
@@ -125,7 +133,7 @@ Surprise, the doomers and the panic sellers were wrong again.
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
-14h ago
+15h ago
 
 ---
 
@@ -137,23 +145,15 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 ---
 
-**[Bitcoin psychology](https://www.reddit.com/r/Bitcoin/comments/1rug7vi/bitcoin_psychology/)**
-
-Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm already used to the roller coaster ride - but only in small amounts. I’m firmly convinced that now is the right time to invest a significant amount of money for the long term, provided you can hold onto it for a long time. But a little voice in the back of my head keeps telling me, “That’s unreasonable,” “That’s not enough diversification,” “Bitcoin could keep falling indefinitely,” and so on. Do you guys know what I mean? I’d bet that Bitcoin will be higher in the next 5–10 years than it is now. It would be silly not to jump in now, if you can afford it. So my question is: how do you calm that voice? Any experience?
-
-7h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[These 3 charts show Bitcoin’s war-linked selloff keeps shrinking as Iran conflict worsens](https://www.coindesk.com/markets/2026/03/14/bitcoin-sold-off-first-when-the-u-s-iran-war-began-two-weeks-later-it-s-outperforming-nearly-everything)**
+**[Analysts weigh in on Bitwise CIO Matt Hougan’s $1 million bitcoin call](https://www.coindesk.com/markets/2026/03/15/bitwise-s-matt-hougan-revisits-usd1-million-bitcoin-analysts-agree-but-debate-his-timeline)**
 
-Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
+A growing number of industry figures say bitcoin could eventually reach seven figures, but analysts say the outcome hinges on how much of the global store-of-value market the cryptocurrency can capture.
 
-CoinDesk • 17h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -173,11 +173,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Got $3,000? Should You Buy Bitcoin, XRP, or Gold?](https://www.fool.com/investing/2026/03/15/got-3000-should-you-buy-bitcoin-xrp-or-gold/)**
+**[My Top 3 Cryptocurrencies to Buy for the Next Bull Run](https://www.fool.com/investing/2026/03/15/my-top-3-cryptocurrencies-to-buy-for-the-next-bull/)**
 
-These assets will help you to layer either safety or some risk into your portfolio.
+Bitcoin, Ether, and Solana are all worth buying before the bulls return.
 
-The Motley Fool • 12h ago
+The Motley Fool • 6h ago
+
+---
+
+**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1773612000)**
+
+Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -186,6 +194,12 @@ The Motley Fool • 12h ago
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
 Financial Times • 2d ago
+
+---
+
+**[Bitcoin: Institutional interest provides buffer as BTC eyes $73,000 resistance](https://www.investing.com/news/cryptocurrency-news/bitcoin-institutional-interest-provides-buffer-as-btc-eyes-73000-resistance-4561528)**
+
+Investing.com • 18h ago
 
 ---
 
@@ -203,25 +217,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin: Strategy and ETF demand provide 6% weekly lift amid regional conflict](https://www.investing.com/news/cryptocurrency-news/bitcoin-strategy-and-etf-demand-provide-6-weekly-lift-amid-regional-conflict-4561542)**
-
-Investing.com • 13h ago
-
----
-
 **[Bitcoin Coinbase Premium Turns Positive After 10 Weeks – Is US Demand Finally Returning?](https://www.tradingview.com/news/newsbtc:24bfd1e43094b:0-bitcoin-coinbase-premium-turns-positive-after-10-weeks-is-us-demand-finally-returning/)**
 
 Bitcoin’s recent price action may be showing its first signs of relief as a closely watched indicator tied to US demand has just changed direction. The Coinbase Premium Gap has moved back into positive territory following nearly 10 weeks of persistent negative readings, a stretch that coincided wit…
 
-TradingView • 6h ago
-
----
-
-**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1773584100)**
-
-Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 7h ago
+TradingView • 7h ago
 
 ---
 
@@ -242,6 +242,14 @@ The Ivy League school still has more money invested in Bitcoin than any other US
 Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite multi year low hashprice.
 
 ⬆️ 3 • 💬 0 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/20/bitcoin-difficulty-jumps-15-largest-increase-since-2021-despite-price-slump)
+
+---
+
+**[3D printer that can mine Bitcoin uses excess heat for temperature control](https://news.ycombinator.com/item?id=47309848)**
+
+Another product idea that harvests Bitcoin miner waste heat.
+
+⬆️ 2 • 💬 0 • 6d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -270,14 +278,6 @@ Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 
 The Bitcoin network is nearing 20 million mined coins, and while the last coin won’t be mined for another 114 years, an executive says the transparency around its supply is “unprecedented.”
 
 ⬆️ 1 • 💬 0 • 5d ago • [Cointelegraph](https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left)
-
----
-
-**[3D printer that can mine Bitcoin uses excess heat for temperature control](https://news.ycombinator.com/item?id=47309848)**
-
-Another product idea that harvests Bitcoin miner waste heat.
-
-⬆️ 1 • 💬 0 • 6d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
 
 ---
 
@@ -333,7 +333,7 @@ The bitcoin and altcoin bottom is coming in - moving averages and the pi cycle b
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 592 • 💬 45 • ⏱️ 21:58 • 23h ago
+👁️ 9K • 👍 592 • 💬 45 • ⏱️ 21:58 • 1d ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin #Crypto #Finance Will Bitcoin Survive The Shift That Will Change Markets
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 373 • 💬 235 • ⏱️ 58:23 • 9h ago
+👁️ 8K • 👍 373 • 💬 235 • ⏱️ 58:23 • 10h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin might be approaching one of the most important moments of the cycle. Sev
 
 📺 Crypto Love
 
-👁️ 2K • 👍 237 • 💬 120 • ⏱️ 10:39 • 5h ago
+👁️ 2K • 👍 237 • 💬 120 • ⏱️ 10:39 • 6h ago
 
 ---
 
@@ -393,7 +393,7 @@ This chart is screaming something most people are ignoring — and the data back
 
 📺 Davinci Jeremie
 
-👁️ 11K • 👍 468 • 💬 43 • ⏱️ 19:00 • 1d ago
+👁️ 11K • 👍 468 • 💬 43 • ⏱️ 19:00 • 2d ago
 
 ---
 
