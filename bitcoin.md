@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T21:53:36.529661+00:00'
+updated: '2026-03-15T22:29:56.691334+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 21:53 UTC  
+**Last Updated:** March 15, 2026 at 22:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +4.9%  
-**30d:** +2.7%  
-**90d:** -18.1%  
-**1y:** -13.1%  
+**24h:** +0.9%  
+**7d:** +5.1%  
+**30d:** +2.9%  
+**90d:** -18.0%  
+**1y:** -13.0%  
 
 ---
 
@@ -85,31 +85,19 @@ Rank #1
 
 **[The life of a Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1rumrk4/the_life_of_a_bitcoiner/)**
 
-2h ago
+3h ago
 
 ---
 
 **[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 2h ago
-
----
-
-**[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
-
-1d ago
-
----
-
-**[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
-
-13h ago
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 3h ago
 
 ---
 
 **[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -121,11 +109,23 @@ Surprise, the doomers and the panic sellers were wrong again.
 
 ---
 
+**[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
+
+1d ago
+
+---
+
+**[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
+
+14h ago
+
+---
+
 **[What happens if bitcoin hits 1m usd?](https://www.reddit.com/r/Bitcoin/comments/1ru8eo1/what_happens_if_bitcoin_hits_1m_usd/)**
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
-13h ago
+14h ago
 
 ---
 
@@ -133,15 +133,15 @@ Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-11h ago
+12h ago
 
 ---
 
-**[stack sats and save on the blockchain. its the boycott of all boycotts](https://www.reddit.com/r/Bitcoin/comments/1rudt28/stack_sats_and_save_on_the_blockchain_its_the/)**
+**[Bitcoin psychology](https://www.reddit.com/r/Bitcoin/comments/1rug7vi/bitcoin_psychology/)**
 
-Holding satoshis in self custody is not just about getting "fabulously wealthy"' though that can happen maybe not for you but your progeny. Its about opting out of the system that has kept us serfs for 100s of years and has been doing nothing but tighting the yolk around our necks for decade after decade. To many people accept this position to the point where even when there is a means of cessation, of liberation in the palm of their hands, they dont take it. They stay sheep. They stay yolked, they accept it because their father, and their fathers father accepted it and have taken the role of serf with pride. They get in line and and point out and ridicule the dessenters, all while they follow the herd and are led like sheep to ther slaughter. I will not consent. I will opt out and guide my chilldren into freedom and liberate them from this corrupt system of control, by stacking sats and saving on the blockchain. I will take part in an act of non violent civil disobedience and protect my energy and time in a way that saves it from being debased, used for war and profits only a privileged few. Its a corrupt and evil system that wants us to stay weak and bent over, eyes drawn down to the ground and never looking up to the light of the sun. SATYAGRAHA!
+Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm already used to the roller coaster ride - but only in small amounts. I’m firmly convinced that now is the right time to invest a significant amount of money for the long term, provided you can hold onto it for a long time. But a little voice in the back of my head keeps telling me, “That’s unreasonable,” “That’s not enough diversification,” “Bitcoin could keep falling indefinitely,” and so on. Do you guys know what I mean? I’d bet that Bitcoin will be higher in the next 5–10 years than it is now. It would be silly not to jump in now, if you can afford it. So my question is: how do you calm that voice? Any experience?
 
-8h ago
+7h ago
 
 ---
 
@@ -153,7 +153,7 @@ Holding satoshis in self custody is not just about getting "fabulously wealthy"'
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -177,7 +177,15 @@ Yahoo Finance • 2d ago
 
 These assets will help you to layer either safety or some risk into your portfolio.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
+
+---
+
+**[Bitcoin investor offers Nevis residents $100 a month if libertarian city approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)**
+
+Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
+
+Financial Times • 2d ago
 
 ---
 
@@ -197,7 +205,7 @@ Bloomberg.com • 2d ago
 
 **[Bitcoin: Strategy and ETF demand provide 6% weekly lift amid regional conflict](https://www.investing.com/news/cryptocurrency-news/bitcoin-strategy-and-etf-demand-provide-6-weekly-lift-amid-regional-conflict-4561542)**
 
-Investing.com • 12h ago
+Investing.com • 13h ago
 
 ---
 
@@ -205,7 +213,7 @@ Investing.com • 12h ago
 
 Bitcoin’s recent price action may be showing its first signs of relief as a closely watched indicator tied to US demand has just changed direction. The Coinbase Premium Gap has moved back into positive territory following nearly 10 weeks of persistent negative readings, a stretch that coincided wit…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -214,14 +222,6 @@ TradingView • 5h ago
 Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 6h ago
-
----
-
-**[Bitcoin investor offers Nevis residents $100 a month if libertarian city approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)**
-
-Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
-
-Financial Times • 2d ago
 
 ---
 
@@ -261,7 +261,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
 
-⬆️ 1 • 💬 0 • 2d ago • [Frozen Security](https://frozensecurity.com/tools/)
+⬆️ 1 • 💬 0 • 3d ago • [Frozen Security](https://frozensecurity.com/tools/)
 
 ---
 
@@ -323,7 +323,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 2K • 👍 353 • 💬 81 • ⏱️ 20:55 • 3h ago
+👁️ 2K • 👍 353 • 💬 81 • ⏱️ 20:55 • 4h ago
 
 ---
 
@@ -393,7 +393,7 @@ Saylor's Bitcoin money glitch explained. Don't ignore this! Join the Inner Circl
 
 📺 Lark Davis
 
-👁️ 5K • 👍 418 • 💬 39 • ⏱️ 9:27 • 5h ago
+👁️ 5K • 👍 418 • 💬 39 • ⏱️ 9:27 • 6h ago
 
 ---
 

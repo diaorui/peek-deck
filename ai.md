@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-15T21:53:36.521158+00:00'
+updated: '2026-03-15T22:29:56.682854+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 15, 2026 at 21:53 UTC  
+**Last Updated:** March 15, 2026 at 22:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Google Maps Just Got a Massive AI Upgrade](https://www.reddit.com/r/artificial/comments/1rughk5/google_maps_just_got_a_massive_ai_upgrade/)**
-
-🔗 [aitoolinsight.com](https://aitoolinsight.com/google-maps-update-ai-navigation-features/) • 6h ago
-
----
-
 **[Robot Soldiers Hit the Battlefield in Ukraine](https://www.reddit.com/r/artificial/comments/1rujdvv/robot_soldiers_hit_the_battlefield_in_ukraine/)**
 
 Robot soldiers are now operating in Ukraine's combat zones as the Phantom MK-1 humanoids mark the arrival of autonomous warfare technology.
 
-🔗 [Yahoo News](https://www.yahoo.com/news/articles/robot-soldiers-hit-battlefield-ukraine-151832952.html) • 4h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/articles/robot-soldiers-hit-battlefield-ukraine-151832952.html) • 5h ago
+
+---
+
+**[Google Maps Just Got a Massive AI Upgrade](https://www.reddit.com/r/artificial/comments/1rughk5/google_maps_just_got_a_massive_ai_upgrade/)**
+
+🔗 [aitoolinsight.com](https://aitoolinsight.com/google-maps-update-ai-navigation-features/) • 7h ago
 
 ---
 
@@ -55,21 +55,13 @@ Robot soldiers are now operating in Ukraine's combat zones as the Phantom MK-1 h
 
 The human subconscious is such an interesting thing. No matter how much you think you’ve got it figured out, it’ll always spit out the most random stuff. Take me, for example. After coming home from a long day at the world’s most groundbreaking artificial intelligence organization, I’ll go to bed and have the weirdest dreams where people from the future are sobbing and begging me to change course. Anyone else ever have these?
 
-🔗 [The Onion](https://theonion.com/anyone-else-have-those-weird-dreams-where-sobbing-future-generations-beg-you-to-change-course/) • 1h ago
+🔗 [The Onion](https://theonion.com/anyone-else-have-those-weird-dreams-where-sobbing-future-generations-beg-you-to-change-course/) • 2h ago
 
 ---
 
 **[Consultants Are Cashing in on the AI Boom - Tech News Briefing - WSJ Podcasts](https://www.reddit.com/r/artificial/comments/1rue9qr/consultants_are_cashing_in_on_the_ai_boom_tech/)**
 
 🔗 [wsj.com](https://www.wsj.com/podcasts/tech-news-briefing/consultants-are-cashing-in-on-the-ai-boom/e9eaf7be-171e-4e25-9faa-33d8bb2ea786?gaa_at=eafs&gaa_n=AWEtsqfdTyvWaFP8EfWuBrGOod5F9GRFcSzxcEHqOEAYwDmKE6xeFnP31JmAzsh3SsE%3D&gaa_ts=69b6b7da&gaa_sig=OPtT9zqUPeLMNc4DiaE9pndX0S1npatSl4fjzt3RjCbRWxbY64Z5j0ODyk5msYHze2XhkS1AkVFl9a8m738_5Q%3D%3D) • 8h ago
-
----
-
-**[AI chatbots helped ‘teens’ plan shootings, bombings, and political violence, study shows](https://www.reddit.com/r/artificial/comments/1ruq02n/ai_chatbots_helped_teens_plan_shootings_bombings/)**
-
-Only Claude reliably shut down would-be attackers.
-
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence) • 40m ago
 
 ---
 
@@ -93,7 +85,15 @@ I am sharing a structural audit of a localized, hyper-stable semantic state spac
 
 Tencent's QClaw puts OpenClaw AI agents inside WeChat, QQ. With 135K exposed instances globally, here's what enterprises need to know about the agent wave
 
-🔗 [beam.ai](https://beam.ai/agentic-insights/tencent-launches-qclaw-what-the-ai-agent-mainstream-moment-means-for-enterprise) • 9h ago
+🔗 [beam.ai](https://beam.ai/agentic-insights/tencent-launches-qclaw-what-the-ai-agent-mainstream-moment-means-for-enterprise) • 10h ago
+
+---
+
+**[AI chatbots helped ‘teens’ plan shootings, bombings, and political violence, study shows](https://www.reddit.com/r/artificial/comments/1ruq02n/ai_chatbots_helped_teens_plan_shootings_bombings/)**
+
+Only Claude reliably shut down would-be attackers.
+
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence) • 1h ago
 
 ---
 
@@ -101,7 +101,7 @@ Tencent's QClaw puts OpenClaw AI agents inside WeChat, QQ. With 135K exposed ins
 
 Seedance 2.0 by ByteDance: Is this the moment AI video finally gets serious? ByteDance just released Seedance 2.0: - Native 2K resolution output - Lip-synced dialogue (baked in, not post-processed) - Reference-based camera movement (feed it a clip, it matches the cinematography) The reference-based camera control is the piece that makes it actually usable for production work, not just showcase clips. Where does this land relative to Sora, Kling, and Runway Gen-3? Does ByteDance's distribution advantage (TikTok, CapCut) change the adoption curve here?
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ Robert Lange, founding researcher at Sakana AI, joins Tim to discuss Shinka Evol
 
 From Gaza to Iran, the pattern is the same: precision weapons, chosen blindness, and dead children. The cost of failing to regulate AI warfare is already too high
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -139,11 +139,11 @@ The Guardian • 1d ago
 
 ---
 
-**[Efficiency at All Costs: Meta Eyes 20% Jobs Bloodbath to Fund AI Empire](https://finance.yahoo.com/news/efficiency-costs-meta-eyes-20-141744645.html)**
+**[Meta Delays AI Model, Mulls Staff Cuts](https://www.chosun.com/english/industry-en/2026/03/16/PEUVXALRSJAJHPOEUER3HNUUTM/)**
 
-Artificial intelligence is poised to reshape business operations in profound ways — delivering breakthroughs in productivity, innovation, and problem-solving that could unlock unprecedented economic growth. Yet this transformation carries a steep downside: widespread job displacement. Across industries, companies are announcing mass layoffs, shedding thousands of roles at once as automation takes hold. Meta Platforms (NASDAQ:META) ... Efficiency at All Costs: Meta Eyes 20% Jobs Bloodbath to Fund
+Meta Delays AI Launch, Mulls Workforce Cuts Despite $135B AI Investment, Metas Avocado Lags Competitors, Faces Internal Criticism and Potential Layoffs
 
-Yahoo Finance • 7h ago
+조선일보 • 27m ago
 
 ---
 
@@ -159,7 +159,7 @@ Fortune • 2d ago
 
 Pyongyang’s operatives deploy chatbots to undertake tasks, often in multiple roles
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -175,23 +175,23 @@ blog.google • 3d ago
 
 ﻿Our answer cannot just be that everyone becomes a plumber.
 
-Vox • 9h ago
+Vox • 10h ago
 
 ---
 
-**[China displays advanced humanoid robots as US battles for AI dominance](https://www.foxnews.com/video/6390985014112)**
+**[The VA Wants to Use AI to Scrutinize Veteran Benefits. What Could Go Wrong?](https://www.rollingstone.com/politics/political-commentary/veterans-affairs-ai-benefits-1235530536/)**
 
-Author Wynton Hall discusses the race for artificial intelligence dominance between the U.S. and China on ‘Sunday Morning Futures.’
+The Department of Veterans Affairs plans to use AI to scrutinize benefits, the latest turn in its mission to clamp down on benefits.
 
-Fox News • 1h ago
+Rolling Stone • 8h ago
 
 ---
 
-**[Trump’s AI czar calls for U.S. to ‘get out’ of war and warns Iran has a ‘dead man’s switch’ that could render Gulf states almost uninhabitable](https://www.yahoo.com/news/articles/trump-ai-czar-calls-u-164340241.html)**
+**[AI comes with a hefty charge. Are you the one who gets stuck with the bill?](https://www.foxnews.com/opinion/ai-comes-hefty-charge-you-one-who-gets-stuck-bill)**
 
-"So there's a lot of scenarios here, a lot of really frightening scenarios about where escalation could lead," Sacks said.
+Major tech companies scramble for power as AI data centers consume massive electricity, with utilities in Virginia, Texas warning of unprecedented demand.
 
-Yahoo • 1d ago
+Fox News • 8h ago
 
 ---
 
@@ -211,7 +211,7 @@ Detect your hardware and find out which AI models you can run locally. GPU, CPU,
 
 Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
 
-⬆️ 515 • 💬 806 • 2d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+⬆️ 515 • 💬 808 • 2d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 
 ---
 
@@ -225,7 +225,7 @@ Tesla and SpaceX managers sent in to review work as billionaire’s start-up str
 
 Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creating an account on GitHub.
 
-⬆️ 343 • 💬 319 • 11h ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+⬆️ 354 • 💬 329 • 12h ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 
 ---
 
@@ -233,7 +233,7 @@ Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creati
 
 Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?
 
-⬆️ 342 • 💬 281 • 13h ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+⬆️ 345 • 💬 284 • 14h ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 
 ---
 
@@ -249,7 +249,13 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 Airbus is working at full throttle to offer the German Air Force an operational Uncrewed Collaborative Combat Aircraft (UCCA) system by 2029.
 
-⬆️ 174 • 💬 126 • 22h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+⬆️ 174 • 💬 126 • 23h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+
+---
+
+**[Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)**
+
+⬆️ 157 • 💬 249 • 6h ago
 
 ---
 
@@ -264,14 +270,6 @@ Define, version, and run AI agents natively in git. GitAgent is the open AI agen
 **[AI didn't simplify software engineering: It just made bad engineering easier](https://news.ycombinator.com/item?id=47377262)**
 
 ⬆️ 127 • 💬 107 • 1d ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
-
----
-
-**[Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://news.ycombinator.com/item?id=47364116)**
-
-Spine is the world's first truly agentic platform designed to manage and orchestrate the next generation of AI.
-
-⬆️ 107 • 💬 69 • 2d ago • [getspine.ai](https://www.getspine.ai/)
 
 ---
 
@@ -305,7 +303,7 @@ China just released DuClaw, a new platform that lets anyone run OpenClaw AI agen
 
 📺 AI Revolution
 
-👁️ 35K • 👍 902 • 💬 113 • ⏱️ 14:20 • 22h ago
+👁️ 35K • 👍 902 • 💬 113 • ⏱️ 14:20 • 23h ago
 
 ---
 
@@ -325,7 +323,7 @@ Generate watermark-free cinematic AI videos with Higgsfield → https://higgsfie
 
 📺 Malva AI
 
-👁️ 3K • 👍 140 • 💬 31 • ⏱️ 9:05 • 9h ago
+👁️ 3K • 👍 140 • 💬 31 • ⏱️ 9:05 • 10h ago
 
 ---
 
@@ -335,7 +333,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 3K • 👍 341 • 💬 23 • ⏱️ 16:22 • 6h ago
+👁️ 3K • 👍 341 • 💬 23 • ⏱️ 16:22 • 7h ago
 
 ---
 
@@ -679,7 +677,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 9.6k • 🔱 858 • 5h ago
+⭐ 9.6k • 🔱 858 • 6h ago
 
 ---
 
@@ -719,7 +717,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 748 • 3h ago
+⭐ 6.3k • 🔱 748 • 4h ago
 
 ---
 

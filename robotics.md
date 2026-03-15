@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T21:53:36.538921+00:00'
+updated: '2026-03-15T22:29:56.700544+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 21:53 UTC  
+**Last Updated:** March 15, 2026 at 22:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Background: my daughter and I have an educational, robotics-focused YouTube channel where we review and discuss different robots and robotic concepts together. It's genuinely one of my favorite things to do with her, but keeping up with new robots to feature is prohibitively expensive, especially when we just need them for a couple days. I started looking for somewhere to rent them. Nothing (real) existed*. So I started on this project... It's called DroidBRB, a peer-to-peer robot rental platform where people can list robots and others can rent or borrow them. Note: It's early. Very early. I can guarantee there are no robots listed near 99.999% of you (and still a few tests posts I'll be clearing out soon). Which is the point of this post. This is a network effect challenge, the platform only works if there are robots in your region, which requires people willing to list them, which requires people who want to borrow, and so on. The only way to break that loop is to find the first people who get it early enough to matter. That's why I'm here. What I'm looking for: Early testers — people willing to kick the tires, post some robots they're willing to rent out, find what's broken, and tell me about it. Regional anchors — if you're in a city and want to help seed a local community of lenders and borrowers, I'd love to talk. Partners — people who want to help build this out, not just use it. This isn't a revenue play and I'm not seeking any funding. It's about supporting and building out the community around robotics**, especially as we all know that this is space going to grow rapidly with the continued explosion of robotics. **and finding a great, passionate team to grow this project around. Site is droidbrb.com. Happy to answer anything in the comments. Added notes: - this is not simply a vibecoded app on Replit or Lovable... yes, it's heavily agent-coded (as almost everything these days), but I've been working for weeks trying out different designs, getting messaging / email notifications, etc. to a decent place. I'm sure there are still bugs and please consider this an alpha, so not for folks expecting perfection. But also a great time to make suggestions and influence the direction of this project. * Sharebot.ai exists, and while they describe the opportunity accurately IMO, they want to operate similar to AirBnB in handling payments and taking service fees (in other words, added costs). This would be great if they can provide the same protections as AirBnB does (e.g., someone breaks a robot), but it's unlikely they have the same capital to actually achieve this at scale. Right now they have less than 10 robots total available after launching a year ago and after raising $200K. I wish them all the best, but this is a separate approach / ethos.
 
-🔗 [droidbrb.com](http://droidbrb.com) • 25m ago
+🔗 [droidbrb.com](http://droidbrb.com) • 1h ago
 
 ---
 
@@ -94,7 +94,7 @@ Background: my daughter and I have an educational, robotics-focused YouTube chan
 
 salut à tous, J’ai retiré plusieurs servomoteurs Feetech STS3215 de leur boîte pour mon projet de bras robot, mais maintenant je n’arrive plus à les identifier pour savoir lequel correspond à quel gear ratio (C001, C044, C046, etc.). Je souhaite les identifier de manière fiable sans ouvrir les servomoteurs et sans les endommager. Est-ce que quelqu’un a déjà rencontré ce problème et pourrait me conseiller sur une méthode sûre, que ce soit via logiciel, commandes série, ou tout autre moyen fiable ? Merci d’avance pour vos conseils ! 🙏
 
-2h ago
+3h ago
 
 ---
 
@@ -120,7 +120,7 @@ Electrek • 22h ago
 
 Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -158,13 +158,13 @@ NPR • 2d ago
 
 13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton.
 
-13wham.com • 21h ago
+13wham.com • 22h ago
 
 ---
 
 **[FIRST Robotics Finger Lakes Regional Competition held at RIT](https://www.rochesterfirst.com/news/local-news/first-robotics-finger-lakes-regional-competition-held-at-rit/)**
 
-RochesterFirst • 21h ago
+RochesterFirst • 22h ago
 
 ---
 
@@ -204,7 +204,7 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 3K • 👍 260 • 💬 46 • ⏱️ 7:53 • 8h ago
+👁️ 3K • 👍 260 • 💬 46 • ⏱️ 7:53 • 9h ago
 
 ---
 

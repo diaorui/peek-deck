@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T21:53:36.535609+00:00'
+updated: '2026-03-15T22:29:56.697329+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 21:53 UTC  
+**Last Updated:** March 15, 2026 at 22:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** +6.8%  
-**30d:** +2.2%  
-**90d:** -28.1%  
+**24h:** +1.7%  
+**7d:** +6.9%  
+**30d:** +2.3%  
+**90d:** -28.0%  
 **1y:** +13.0%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-15h ago
+16h ago
 
 ---
 
@@ -95,12 +95,6 @@ Vitalik Buterin recently suggested that Ethereum might need to revisit the separ
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
-
-20h ago
 
 ---
 
@@ -120,6 +114,12 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 ---
 
+**[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
+
+21h ago
+
+---
+
 **[EF Mandate in Audio form](https://www.reddit.com/r/ethereum/comments/1rthmft/ef_mandate_in_audio_form/)**
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
@@ -128,17 +128,17 @@ https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/jos
 
 ---
 
+**[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 2d ago
+
+---
+
 **[Daily Doots Podcast #143](https://www.reddit.com/r/ethereum/comments/1rst2ne/daily_doots_podcast_143/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtu.be](https://youtu.be/F_JQKB7fyoI) • 2d ago
-
----
-
-**[The Promise of Ethereum: Introducing the EF Mandate | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1rspui7/the_promise_of_ethereum_introducing_the_ef/)**
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/03/13/ef-mandate) • 2d ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1d ago
 
 Gareth Soloway, chief market strategist at VerifiedInvesting.com, is doubling down on his short-term bullish thesis for crypto, and the charts he is
 
-Coinpedia Fintech News • 12h ago
+Coinpedia Fintech News • 13h ago
 
 ---
 
@@ -220,7 +220,7 @@ markets.businessinsider.com • 19h ago
 
 Ethereum is showing solid staking metrics With conviction building, would this make ETH’s chop around $2k into a textbook bear trap?
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 217 • 💬 8 • ⏱️ 19:10 • 6h ago
+👁️ 4K • 👍 217 • 💬 8 • ⏱️ 19:10 • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 772 • 👍 86 • 💬 2 • ⏱️ 6:14 • 4h ago
+👁️ 772 • 👍 86 • 💬 2 • ⏱️ 6:14 • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 113 • 💬 320 • ⏱️ 15:57 • 17h ago
+👁️ 2K • 👍 113 • 💬 320 • ⏱️ 15:57 • 18h ago
 
 ---
 
@@ -264,7 +264,7 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 165 • 💬 66 • ⏱️ 15:12 • 12h ago
+👁️ 3K • 👍 165 • 💬 66 • ⏱️ 15:12 • 13h ago
 
 ---
 
@@ -284,7 +284,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 11K • 👍 735 • 💬 122 • ⏱️ 22:03 • 22h ago
+👁️ 11K • 👍 735 • 💬 122 • ⏱️ 22:03 • 23h ago
 
 ---
 
@@ -304,7 +304,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 1K • 👍 136 • 4h ago
+👁️ 1K • 👍 136 • 5h ago
 
 ---
 
@@ -314,7 +314,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 ONE VOICE CHOIR GHANA
 
-👁️ 22K • 👍 1K • 💬 1 • ⏱️ 2:44:05 • 7h ago
+👁️ 22K • 👍 1K • 💬 1 • ⏱️ 2:44:05 • 8h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 255 • 👍 11 • 💬 2 • ⏱️ 5:32 • 11h ago
+👁️ 255 • 👍 11 • 💬 2 • ⏱️ 5:32 • 12h ago
 
 ---
 
