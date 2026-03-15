@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T11:49:12.416975+00:00'
+updated: '2026-03-15T12:56:01.606487+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 11:49 UTC  
+**Last Updated:** March 15, 2026 at 12:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
 
-18h ago
+19h ago
 
 ---
 
@@ -58,7 +58,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Hey , everyone I’m a 3rd year Robotics & Automation Engineering student looking to build a serious project that could help me land internships at robotics startups, defense/aerospace organizations, or logistics companies like Amazon. Whenever I search for robotics project ideas, I mostly see the same things — line following robots, obstacle avoidance, pick-and-place arms, or SLAM navigation. I’ve already seen or worked on these, so I’m looking for something more unique and meaningful rather than projects that are repeated everywhere. My current skill set includes ROS2, Gazebo, and RViz for simulation pipelines, Python for scripting and ROS nodes, PCB design for custom electronics, and Fusion 360 for mechanical design and 3D printing. I also work with ESP32 and Raspberry Pi, and I have some experience integrating AI agent tools like MCP. Because of this, I’m comfortable working across the full robotics stack — mechanical design, electronics, embedded systems, and software. What I’m hoping to build is a niche robotics project that solves a real-world problem, preferably related to defense, space, manufacturing, or logistics. I’m particularly interested in areas like multi-robot systems, edge robotics, or AI-driven robotic systems that could actually stand out to recruiters or researchers. Ultimately helping me to get an internship. If you work in robotics or research, I’d really appreciate hearing what kind of project you think would genuinely stand out or solve a real problem in the field. Thanks!
 
-28m ago
+1h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hey , everyone I’m a 3rd year Robotics & Automation Engineering student lookin
 
 **[MEDICAL ROBOTS FOR THE HEALTH SECTOR](https://www.reddit.com/r/robotics/comments/1rtzh3h/medical_robots_for_the_health_sector/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hey , everyone I’m a 3rd year Robotics & Automation Engineering student lookin
 
 Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 topics directly to the Rerun viewer for real-time visualization. What it does Speaks DDS and Zenoh natively — it's not a ROS 2 node, so no colcon build, no rclcpp, no ROS 2 install needed 53 built-in type mappings (images, pointclouds, TF, poses, laser scans, odometry, etc.) Custom message mappings via JSON5 config — map any ROS 2 type to Rerun archetypes without writing code URDF loading with full TF tree visualization Per-topic diagnostics (Hz, bandwidth, drops, latency) Topic filtering with glob patterns Getting Started sh curl -fsSL https://rewire.run/install.sh | sh rewire record -a That's it — two commands and you're visualizing your ROS 2 system in Rerun. Works on Linux (x86_64, aarch64) and macOS (Intel + Apple Silicon). Single binary, pure Rust. Website: https://rewire.run Feel free to ask anything!
 
-12h ago
+13h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 t
 
 I’ve been building a small Rust project called Reflex Engine SDK, and I’m trying to figure out whether it actually fits anywhere real in robotics or if I’m forcing the angle. The basic idea is pretty simple: an event or proposed action comes in, it gets checked against a local ruleset, it returns ALLOW or DENY, and it emits a replayable artifact showing what happened. I’m not talking about planning, perception, or SLAM. I’m thinking more along the lines of geofence, speed, altitude, or policy checks before something executes. The main thing I’ve learned so far is that the core evaluator seems fast enough to be interesting, and the bigger bottleneck was artifact persistence on the hot path rather than the rule check itself. Repo/demo: https://github.com/caminodynamics/reflex-engine-sdk⁠� My real question is whether something like this actually belongs anywhere in a robotics stack. Does it make sense as a pre-execution gate inside an autonomy stack, or as a local safety/policy layer at the edge, or is this basically unnecessary because existing systems already cover it better?
 
-13h ago
+14h ago
 
 ---
 
@@ -124,9 +124,9 @@ Quanta Magazine • 1d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqdrAMSltx5ErXUhtvTu0fDOu4hEVfd3bQaUNcJ2XTsaygKg6103CQsE&gaa_ts=69b69b0e&gaa_sig=WeHoh0eOfdKJBx3rfcDE0Iatx-SnkI5x5kUipbD4et_BcXg5m_yBrSvKSe8I_0J4OkUYwv6kehFBtTj4GVPErA%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfaNbMBnOzc19Io5okyORDYXjCSYI1zm3bnaEXRZYVAkJp7Fvxt7RW0&gaa_ts=69b6afcf&gaa_sig=alFx4KUm2Ts2zyeWbowMxXJqjpiY76f79bn38lPhRU1cdxa8_cX64jf_5rdXNnHdANc8HxMdgii48arXXDAcKg%3D%3D)**
 
-WSJ • 20h ago
+WSJ • 2h ago
 
 ---
 
@@ -142,7 +142,7 @@ Popular Science • 1d ago
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 11h ago
+Electrek • 13h ago
 
 ---
 
@@ -154,27 +154,19 @@ NPR • 1d ago
 
 ---
 
-**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
-
-Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
-
-13wham.com • 11h ago
-
----
-
 **[Company Testing Humanoid Robot Soldiers on Frontlines of Ukraine](https://futurism.com/robots-and-machines/humanoid-robots-ukraine-war)**
 
 A San Francisco-based company deployed two humanoid robots for "reconnaissance duties" in the Ukraine-Russo war.
 
-Futurism • 16h ago
+Futurism • 17h ago
 
 ---
 
-**[China’s New Five-Year Plan Prioritizes Robotics. The World Should Pay Attention.](https://thediplomat.com/2026/03/chinas-new-five-year-plan-prioritizes-robotics-the-world-should-pay-attention/)**
+**[Pupils use Lego robots to solve engineering tasks](https://www.bbc.com/news/articles/cx2dzk8j71ko)**
 
-Beijing is embarking on a “whole-of-nation push” to achieve permanent dominance in physical AI technologies.
+As part of a competition, they had to build robots them use them to complete missions on a game table.
 
-The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
+BBC • 2d ago
 
 ---
 
@@ -183,6 +175,14 @@ The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
 Dean Kamen founded the youth-focused science initiative in 1989 to inspire a new generation of inventors. He has not been accused of any criminal wrongdoing.
 
 New Hampshire Public Radio • 2d ago
+
+---
+
+**[China’s New Five-Year Plan Prioritizes Robotics. The World Should Pay Attention.](https://thediplomat.com/2026/03/chinas-new-five-year-plan-prioritizes-robotics-the-world-should-pay-attention/)**
+
+Beijing is embarking on a “whole-of-nation push” to achieve permanent dominance in physical AI technologies.
+
+The Diplomat – Asia-Pacific Current Affairs Magazine • 4h ago
 
 ---
 
@@ -196,7 +196,17 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 40K • 👍 1K • 💬 188 • ⏱️ 49:45 • 17h ago
+👁️ 43K • 👍 1K • 💬 197 • ⏱️ 49:45 • 18h ago
+
+---
+
+**[2026 Finger Lakes Regional - Day 3](https://www.youtube.com/watch?v=IESUgr0WfvE)**
+
+2026 Finger Lakes Regional - Broadcast Day 3 https://frc-events.firstinspires.org/2026/NYRO (c) 2026 FIRST Robotics ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 14K • 👍 89 • ⏱️ 9:16:18 • 14h ago
 
 ---
 
@@ -220,13 +230,13 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
-**[DEEP Robotics Built a Robot Horse and It Is Incredible](https://www.youtube.com/watch?v=3b13QT-85CU)**
+**[Figure 03 Humanoid Robot Learns 8 New Autonomous AI Skills (AI NEWS)](https://www.youtube.com/watch?v=g4gBm82PVyk)**
 
-A robot that looks and moves like a horse? DEEP Robotics created a special edition quadruped robot inspired by the Year of the ...
+Figure demos world leading autonomous cleaning capabilities with its 03 humanoid robot, showcasing eight new abilities: ...
 
-📺 DPCcars
+📺 AI News
 
-👁️ 5K • 👍 45 • 💬 6 • ⏱️ 1:29 • 2d ago
+👁️ 9K • 👍 233 • 💬 60 • ⏱️ 8:04 • 5d ago
 
 ---
 
@@ -236,7 +246,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 16K • 👍 120 • 💬 32 • ⏱️ 3:48 • 5d ago
+👁️ 16K • 👍 121 • 💬 32 • ⏱️ 3:48 • 5d ago
 
 ---
 
@@ -246,17 +256,27 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 23K • 👍 88 • 💬 36 • ⏱️ 2:38 • 3d ago
+👁️ 24K • 👍 88 • 💬 36 • ⏱️ 2:38 • 3d ago
 
 ---
 
-**[Figure 03 Humanoid Robot Learns 8 New Autonomous AI Skills (AI NEWS)](https://www.youtube.com/watch?v=g4gBm82PVyk)**
+**[Craft a one-of-a-kind custom 3d case for your robot.😏 #3dprinting #large3dprinter #machine](https://www.youtube.com/watch?v=jYto7fpHJlg)**
 
-Figure demos world leading autonomous cleaning capabilities with its 03 humanoid robot, showcasing eight new abilities: ...
+dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Email: sales@dowell3dprinter.xyz ▷Filament: ...
 
-📺 AI News
+📺 DOWELL3D PRINTER
 
-👁️ 9K • 👍 232 • 💬 60 • ⏱️ 8:04 • 5d ago
+👁️ 14K • 👍 189 • 💬 2 • ⏱️ 0:17 • 1d ago
+
+---
+
+**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+
+📺 South China Morning Post
+
+👁️ 15K • 👍 211 • 💬 82 • ⏱️ 4:52 • 3d ago
 
 ---
 
@@ -266,27 +286,7 @@ Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major 
 
 📺 Vizuara
 
-👁️ 406K • 👍 48 • 💬 10 • ⏱️ 5:34 • 3d ago
-
----
-
-**[How Not to Build a Robotics Company from your Apartment](https://www.youtube.com/watch?v=owT3wxFnZ9E)**
-
-We show you how NOT to build a Robotics Company! ▻ Join the Discord to Build Robots with us!
-
-📺 Nick Builds
-
-👁️ 1K • 👍 103 • 💬 23 • ⏱️ 11:52 • 16h ago
-
----
-
-**[Drones and robots are &#39;changing&#39; warfare: Xtend CEO](https://www.youtube.com/watch?v=EucyIHEbHUI)**
-
-Xtend co-founder and CEO Aviv Shapira explains how technology is changing warfare as drones and robots are being ...
-
-📺 Fox Business
-
-👁️ 10K • 👍 226 • 💬 22 • ⏱️ 5:39 • 2d ago
+👁️ 421K • 👍 48 • 💬 10 • ⏱️ 5:34 • 3d ago
 
 ---
 

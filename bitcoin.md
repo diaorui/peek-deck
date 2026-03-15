@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T11:49:12.407743+00:00'
+updated: '2026-03-15T12:56:01.597328+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 11:49 UTC  
+**Last Updated:** March 15, 2026 at 12:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +5.0%  
-**30d:** +2.8%  
-**90d:** -18.1%  
-**1y:** -13.1%  
+**24h:** +1.0%  
+**7d:** +4.7%  
+**30d:** +2.5%  
+**90d:** -18.3%  
+**1y:** -13.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1437.22B
+**Market Cap:** $1432.59B
 Rank #1
 
-**Circulating Supply:** 20,002,318 BTC
+**Circulating Supply:** 20,002,362 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.0%
+-43.2%
 
 **All-Time Low:** $67.81
-+105872.6%
++105517.2%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-15h ago
-
----
-
-**[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
-
-21h ago
+16h ago
 
 ---
 
@@ -93,19 +87,25 @@ Rank #1
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-1h ago
+3h ago
+
+---
+
+**[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
+
+22h ago
 
 ---
 
 **[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 5h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 6h ago
 
 ---
 
-**[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
+**[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-23h ago
+5h ago
 
 ---
 
@@ -113,7 +113,13 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
-3h ago
+4h ago
+
+---
+
+**[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
+
+1d ago
 
 ---
 
@@ -127,7 +133,7 @@ Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 and i know it's kinda arbitrary but whatever, it gives me something to work toward and actually makes me excited when we see red days lol currently doing $275 weekly buys and lowkey hoping we stay in this range for a while so i can keep stacking at decent prices before things potentially moon again curious what strategies you all are running? any tweaks you'd suggest to my approach or different ways to think about accumulating? always down to hear how other people are playing the long game
 
-11h ago
+13h ago
 
 ---
 
@@ -135,13 +141,7 @@ hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 a
 
 Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
 
-15h ago
-
----
-
-**[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
-
-21h ago
+16h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -165,59 +165,27 @@ Financial Times • 2d ago
 
 ---
 
-**[Boris Johnson calling Bitcoin a ‘Ponzi’ draws rebuttal from Michael Saylor and others](https://www.coindesk.com/business/2026/03/14/boris-johnson-calling-bitcoin-a-ponzi-draws-rebuttal-from-michael-saylor-and-others)**
+**[How Does Bitcoin Perform During Wars? The Answer May Surprise You](https://finance.yahoo.com/news/does-bitcoin-perform-during-wars-120116408.html)**
 
-The cryptocurrency community pushed back, with Michael Saylor saying Bitcoin has no issuer, promoter, or guaranteed return, and is instead  driven by code and market demand.
+Looking at its returns during past global conflicts, Bitcoin crashes when wars start but recovers within 50-60 days. Data across 20 geopolitical events showing average gains of 31.2% as governments increase money supply to fund conflicts. The Crash-Then-Rally Pattern Bitwise...
 
-CoinDesk • 18h ago
-
----
-
-**[Michael Saylor slams Boris Johnson's harsh warnings on Bitcoin](https://finance.yahoo.com/news/michael-saylor-slams-boris-johnsons-003030674.html)**
-
-Former United Kingdom Prime Minister Boris Johnson has described Bitcoin (BTC) and other cryptocurrencies as a “giant Ponzi scheme,” warning that the digital asset industry depends largely on belief rather than intrinsic value. Writing in a new column for the Daily Mail, Johnson argued that ...
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 54m ago
 
 ---
 
-**[Crypto Leaders Push Back After Boris Johnson Calls Bitcoin a Ponzi](https://finance.yahoo.com/news/crypto-leaders-push-back-boris-103800184.html)**
+**[Bitcoin is volatile; that doesn’t change where it’s headed](https://www.jpost.com/business-and-innovation/banking-and-finance/article-889974)**
 
-Several prominent figures in the cryptocurrency industry have pushed back against former UK Prime Minister Boris Johnson after he described Bitcoin as a Ponzi scheme in a newspaper column. Key Takeaways: Boris Johnson called Bitcoin a “Ponzi scheme,” warning readers against investing in cryptocurrencies. Crypto leaders including Michael Saylor, Paolo ...
+Just as nations diversify their strategic reserves, Israel can explore how digital assets might play a role in the financial architecture of the future.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Got $3,000? Should You Buy Bitcoin, XRP, or Gold?](https://www.fool.com/investing/2026/03/15/got-3000-should-you-buy-bitcoin-xrp-or-gold/)**
-
-These assets will help you to layer either safety or some risk into your portfolio.
-
-The Motley Fool • 2h ago
+The Jerusalem Post • 1h ago
 
 ---
 
-**[Why the XRP Price Can’t Break Out Until Bitcoin Clears $75,000](https://247wallst.com/investing/2026/03/12/why-the-xrp-price-cant-break-out-until-bitcoin-clears-75000/)**
+**[FED Rate Decisions Vs Bitcoin Next Week: Seven Central Banks Inflation Test](https://finance.yahoo.com/news/fed-rate-decisions-vs-bitcoin-100022688.html)**
 
-Bitcoin is stuck below $75K, but thin resistance above could send it to $80K fast which could help finally XRP price break beyond $1.40.
+This upcoming week could prove pivotal for your portfolio as seven major Central Banks, including the Federal Reserve, prepare to announce critical FED rate decisions. While markets entered 2026 expecting a steady diet of rate cuts, a sudden spike in oil prices following the escalation of the conflict in the ...
 
-24/7 Wall St. • 2d ago
-
----
-
-**[Got $3,000? Should You Buy Bitcoin, XRP, or Gold?](https://www.aol.com/articles/got-3-000-buy-bitcoin-092000183.html)**
-
-These assets will help you to layer either safety or some risk into your portfolio.
-
-AOL.com • 2h ago
-
----
-
-**[Large Bitcoin Wallets Resume Accumulation as BTC Holds $71K: Santiment](https://finance.yahoo.com/news/large-bitcoin-wallets-resume-accumulation-083500334.html)**
-
-Large Bitcoin holders have started accumulating again as the cryptocurrency trades near the $71,000 level, according to new data from crypto analytics firm Santiment. Key Takeaways: Bitcoin whales holding 10–10,000 BTC have resumed accumulation as the price stabilizes near $71,000. These large wallets now control about 68.17% of Bitcoin’s total ...
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -225,7 +193,35 @@ Yahoo Finance • 3h ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 20h ago
+CNBC • 21h ago
+
+---
+
+**[Bitcoin: Institutional interest provides buffer as BTC eyes $73,000 resistance](https://www.investing.com/news/cryptocurrency-news/bitcoin-institutional-interest-provides-buffer-as-btc-eyes-73000-resistance-4561528)**
+
+Investing.com • 8h ago
+
+---
+
+**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1773562500)**
+
+Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
+
+---
+
+**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin Hit a Major Milestone—Most Miners Won't Be Around for the Next One](https://finance.yahoo.com/news/bitcoin-hit-major-milestone-most-140730017.html)**
+
+Twenty million Bitcoin mined. One million left. The miners who got us here might not be around for the finish.
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -317,17 +313,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 128 • ⏱️ 1:15:12 • 15h ago
-
----
-
-**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
-
-The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
-
-📺 Simply Bitcoin
-
-👁️ 29K • 👍 2K • 💬 161 • ⏱️ 14:33 • 1d ago
+👁️ 26K • 👍 1K • 💬 125 • ⏱️ 1:15:12 • 16h ago
 
 ---
 
@@ -337,7 +323,17 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 31K • 👍 2K • 💬 175 • ⏱️ 12:14 • 1d ago
+👁️ 32K • 👍 2K • 💬 173 • ⏱️ 12:14 • 1d ago
+
+---
+
+**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
+
+The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 142 • ⏱️ 14:33 • 1d ago
 
 ---
 
@@ -347,17 +343,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 99K • 👍 5K • 💬 739 • ⏱️ 18:10 • 2d ago
-
----
-
-**[The Next Bitcoin Bull Run Could Start In A Crisis](https://www.youtube.com/watch?v=Gb75HhiAYtA)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 48K • 👍 2K • 💬 65 • ⏱️ 46:42 • 22h ago
+👁️ 100K • 👍 5K • 💬 740 • ⏱️ 18:10 • 2d ago
 
 ---
 
@@ -367,17 +353,17 @@ The stock market is bleeding, Gold and Silver are breaking down, but the crypto 
 
 📺 Gareth Soloway
 
-👁️ 52K • 👍 3K • 💬 350 • ⏱️ 9:50 • 1d ago
+👁️ 53K • 👍 3K • 💬 371 • ⏱️ 9:50 • 1d ago
 
 ---
 
-**[Crypto Holders → MASSIVE NEWS!](https://www.youtube.com/watch?v=MkcdRQRxahY)**
+**[Everyone Thinks the Bitcoin Cycle Is Dead… They&#39;re Wrong | Benjamin Cowen](https://www.youtube.com/watch?v=7cW2PCPA8kY)**
 
-Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
+Join me for an exclusive after party and get 10% off of your Bitcoin Vegas tickets when you use my code: MARKMOSS at: ...
 
-📺 Altcoin Daily
+📺 Market Disruptors Podcast
 
-👁️ 41K • 👍 2K • 💬 229 • ⏱️ 13:31 • 1d ago
+👁️ 7K • 👍 430 • 💬 70 • ⏱️ 57:48 • 19h ago
 
 ---
 
@@ -387,17 +373,17 @@ A major fight over Bitcoin is happening on Capitol Hill and most people have no 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 947 • 💬 219 • ⏱️ 14:10 • 19h ago
+👁️ 13K • 👍 987 • 💬 211 • ⏱️ 14:10 • 20h ago
 
 ---
 
-**[The Best Bitcoin Miner Ever: THE GOLD NUGGET!⭐](https://www.youtube.com/watch?v=WGCNhaRkSM0)**
+**[Crypto Holders → MASSIVE NEWS!](https://www.youtube.com/watch?v=MkcdRQRxahY)**
 
-The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device that lets you generate fresh 'lottery tickets' every 10 ...
+Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
 
-📺 How Much?
+📺 Altcoin Daily
 
-👁️ 2K • 👍 36 • 💬 5 • ⏱️ 0:34 • 12h ago
+👁️ 42K • 👍 2K • 💬 221 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -408,6 +394,16 @@ This chart is screaming something most people are ignoring — and the data back
 📺 Davinci Jeremie
 
 👁️ 9K • 👍 428 • 💬 62 • ⏱️ 19:00 • 1d ago
+
+---
+
+**[Bitcoin 2nd Bear Leg in Major Trading Range - March 15 2026](https://www.youtube.com/watch?v=e0_ANO7CsA4)**
+
+Bitcoin is likely transitioning from a bear channel into a trading range. After a second bearish leg, bulls target the $80000–$90000 ...
+
+📺 Brooks Trading Course
+
+👁️ 436 • 👍 40 • 💬 1 • ⏱️ 11:36 • 4h ago
 
 ---
 
