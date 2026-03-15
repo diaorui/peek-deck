@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T07:45:43.802910+00:00'
+updated: '2026-03-15T08:37:59.002179+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 07:45 UTC  
+**Last Updated:** March 15, 2026 at 08:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Haha so good](https://www.reddit.com/r/Bitcoin/comments/1rthht9/haha_so_good/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Who did this?](https://www.reddit.com/r/Bitcoin/comments/1rtfzxz/who_did_this/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -105,19 +105,19 @@ Rank #1
 
 Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I made the right decision. Please give me some Advices, is it a right time to buy now?.
 
-11h ago
+12h ago
 
 ---
 
 **[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 1h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 2h ago
 
 ---
 
 **[Paid for my Wife’s tattoo with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rtkl9r/paid_for_my_wifes_tattoo_with_bitcoin/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hey I am 22 years old guy and I just bought my first bitcoin 100 USD hopefully I
 
 hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 and i know it's kinda arbitrary but whatever, it gives me something to work toward and actually makes me excited when we see red days lol currently doing $275 weekly buys and lowkey hoping we stay in this range for a while so i can keep stacking at decent prices before things potentially moon again curious what strategies you all are running? any tweaks you'd suggest to my approach or different ways to think about accumulating? always down to hear how other people are playing the long game
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ hey bitcoin fam so i've got this random goal of hitting 1 full bitcoin by 2036 a
 
 When Fear & Greed hits extreme fear, that's historically when you want to be accumulating. Everyone here knows this... But I've been thinking about what that same signal does to someone in their first bear market. They see "EXTREME FEAR" and their brain processes it as danger, not discount. Their emotional response to it triggers the opposite of what's useful. It's the same problem with price charts going down. Experienced holders see opportunity. Newcomers see a reason to leave. Is the solution better financial education? Better framing? Or is Fear & Greed just fundamentally a tool for people who already don't need it?
 
-9h ago
+10h ago
 
 ---
 
@@ -141,7 +141,7 @@ When Fear & Greed hits extreme fear, that's historically when you want to be acc
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1d ago
 
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 16h ago
 
 Large Bitcoin wallets are increasing their holdings again as the asset’s price holds around $71,000, according to crypto sentiment platform Santiment.“Their recent shift to accumulation is a bullish signal,” Santiment said in a report on Saturday, referring to wallets holding between 10 and 10,000…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bloomberg.com • 1d ago
 
 The 20 millionth Bitcoin was mined March 2026, leaving 1 million BTC to be issued as block rewards to miners in near-breakeven economics.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin difficulty rebounds to 144.4T as hashrate recovers to 1 ZH/s despite mul
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
-⬆️ 1 • 💬 1 • 22h ago • [psicommit.com](https://psicommit.com)
+⬆️ 1 • 💬 1 • 23h ago • [psicommit.com](https://psicommit.com)
 
 ---
 
@@ -311,7 +311,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 133 • ⏱️ 1:15:12 • 11h ago
+👁️ 21K • 👍 1K • 💬 133 • ⏱️ 1:15:12 • 12h ago
 
 ---
 
@@ -321,7 +321,7 @@ The bitcoin and altcoin bottom is coming in - moving averages and the pi cycle b
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 399 • 💬 27 • ⏱️ 21:58 • 8h ago
+👁️ 5K • 👍 399 • 💬 27 • ⏱️ 21:58 • 9h ago
 
 ---
 
@@ -341,7 +341,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 65 • ⏱️ 46:42 • 18h ago
+👁️ 46K • 👍 2K • 💬 65 • ⏱️ 46:42 • 19h ago
 
 ---
 
@@ -401,7 +401,7 @@ The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device tha
 
 📺 How Much?
 
-👁️ 2K • 👍 28 • 💬 2 • ⏱️ 0:34 • 8h ago
+👁️ 2K • 👍 28 • 💬 2 • ⏱️ 0:34 • 9h ago
 
 ---
 

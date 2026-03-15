@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T07:45:43.808841+00:00'
+updated: '2026-03-15T08:37:59.008321+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 07:45 UTC  
+**Last Updated:** March 15, 2026 at 08:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
 
-19h ago
+20h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 13h ago
 
 The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 12h ago
 
 Ethereum is tightening below a critical $2,149 resistance level, building pressure as bulls and bears jockey for control. A decisive breakout above this zone could trigger strong momentum, potentially sending the price toward the next major resistance near $2,750.A Test Of The Key $2,149 Resistance…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ Coinpaper • 1d ago
 
 Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 5h ago
 
 ---
 
@@ -224,7 +224,7 @@ CoinDesk • 2d ago
 
 Ethereum Foundation has unveiled a 'EF Mandate', a new strategic roadmap and guiding principles to ensure long-term user freedom...
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 6K • 👍 438 • 💬 106 • ⏱️ 22:03 • 8h ago
+👁️ 6K • 👍 438 • 💬 106 • ⏱️ 22:03 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 177 • 💬 47 • ⏱️ 12:50 • 20h ago
+👁️ 3K • 👍 177 • 💬 47 • ⏱️ 12:50 • 21h ago
 
 ---
 
@@ -268,7 +268,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 107 • 💬 74 • ⏱️ 9:05 • 17h ago
+👁️ 2K • 👍 107 • 💬 74 • ⏱️ 9:05 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN: It's Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 198 • 💬 199 • ⏱️ 15:38 • 7h ago
+👁️ 4K • 👍 198 • 💬 199 • ⏱️ 15:38 • 8h ago
 
 ---
 
@@ -298,7 +298,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 424 • 💬 89 • ⏱️ 12:07 • 2h ago
+👁️ 1K • 👍 424 • 💬 89 • ⏱️ 12:07 • 3h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 582 • 👍 72 • ⏱️ 5:26 • 4h ago
+👁️ 582 • 👍 72 • ⏱️ 5:26 • 5h ago
 
 ---
 
@@ -318,7 +318,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 816 • 👍 69 • 💬 9 • ⏱️ 18:10 • 13h ago
+👁️ 816 • 👍 69 • 💬 9 • ⏱️ 18:10 • 14h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 410 • 👍 25 • 💬 2 • ⏱️ 6:31 • 20h ago
+👁️ 410 • 👍 25 • 💬 2 • ⏱️ 6:31 • 21h ago
 
 ---
 
