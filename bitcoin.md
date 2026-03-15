@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T16:34:28.596375+00:00'
+updated: '2026-03-15T17:29:06.083463+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 16:34 UTC  
+**Last Updated:** March 15, 2026 at 17:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,475.43
+### $71,478.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +4.5%  
+**24h:** +1.2%  
+**7d:** +4.6%  
 **30d:** +2.4%  
 **90d:** -18.4%  
 **1y:** -13.4%  
@@ -79,19 +79,19 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-6h ago
+7h ago
 
 ---
 
@@ -107,7 +107,7 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
-8h ago
+9h ago
 
 ---
 
@@ -115,7 +115,7 @@ Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 Holding satoshis in self custody is not just about getting "fabulously wealthy"' though that can happen maybe not for you but your progeny. Its about opting out of the system that has kept us serfs for 100s of years and has been doing nothing but tighting the yolk around our necks for decade after decade. To many people accept this position to the point where even when there is a means of cessation, of liberation in the palm of their hands, they dont take it. They stay sheep. They stay yolked, they accept it because their father, and their fathers father accepted it and have taken the role of serf with pride. They get in line and and point out and ridicule the dessenters, all while they follow the herd and are led like sheep to ther slaughter. I will not consent. I will opt out and guide my chilldren into freedom and liberate them from this corrupt system of control, by stacking sats and saving on the blockchain. I will take part in an act of non violent civil disobedience and protect my energy and time in a way that saves it from being debased, used for war and profits only a privileged few. Its a corrupt and evil system that wants us to stay weak and bent over, eyes drawn down to the ground and never looking up to the light of the sun. SATYAGRAHA!
 
-3h ago
+4h ago
 
 ---
 
@@ -129,13 +129,7 @@ Holding satoshis in self custody is not just about getting "fabulously wealthy"'
 
 Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm already used to the roller coaster ride - but only in small amounts. I’m firmly convinced that now is the right time to invest a significant amount of money for the long term, provided you can hold onto it for a long time. But a little voice in the back of my head keeps telling me, “That’s unreasonable,” “That’s not enough diversification,” “Bitcoin could keep falling indefinitely,” and so on. Do you guys know what I mean? I’d bet that Bitcoin will be higher in the next 5–10 years than it is now. It would be silly not to jump in now, if you can afford it. So my question is: how do you calm that voice? Any experience?
 
-1h ago
-
----
-
-**[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
-
-1d ago
+2h ago
 
 ---
 
@@ -143,7 +137,13 @@ Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm alrea
 
 The days have grown long, the nights longer, and my bones carry the weight of decades. I wander through memories like faded rooms, each one echoing with what I thought I’d build, what I thought I’d become. There’s a quiet question I carry now: a lifetime spent chasing, striving, hoping, and yet, when I look back, the shelves are bare, the gardens untended, the roads I thought I paved dissolved into dust and shadow. How did it all go so wrong Help me Bitcoin, you're my only hope
 
-3h ago
+4h ago
+
+---
+
+**[Andreas Antonopoulos explaining Bitcoin to an empty room at the Bitcoin 2013 Conference in San Jose on May 18, 2013, when BTC was around $100](https://www.reddit.com/r/Bitcoin/comments/1rtkqja/andreas_antonopoulos_explaining_bitcoin_to_an/)**
+
+1d ago
 
 ---
 
@@ -155,7 +155,7 @@ The days have grown long, the nights longer, and my bones carry the weight of de
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -167,41 +167,39 @@ CNBC • 1d ago
 
 ---
 
-**[How Does Bitcoin Perform During Wars? The Answer May Surprise You](https://finance.yahoo.com/news/does-bitcoin-perform-during-wars-120116408.html)**
+**[Better Buy Right Now With $1,500: Bitcoin vs. an Index Fund](https://finance.yahoo.com/news/better-buy-now-1-500-154500789.html)**
 
-Looking at its returns during past global conflicts, Bitcoin crashes when wars start but recovers within 50-60 days. Data across 20 geopolitical events showing average gains of 31.2% as governments increase money supply to fund conflicts. The Crash-Then-Rally Pattern Bitwise...
+There are strong arguments in favor of owning both of these assets.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Better Buy Right Now With $1,500: Bitcoin vs. an Index Fund](https://www.fool.com/investing/2026/03/15/better-buy-right-now-with-1500-bitcoin-vs-an-index/)**
+**[My Top 3 Cryptocurrencies to Buy for the Next Bull Run](https://www.fool.com/investing/2026/03/15/my-top-3-cryptocurrencies-to-buy-for-the-next-bull/)**
 
-There are strong arguments in favor of owning both of these assets.
+Bitcoin, Ether, and Solana are all worth buying before the bulls return.
 
 The Motley Fool • 1h ago
 
 ---
 
-**[Analysts weigh in on Bitwise CIO Matt Hougan’s $1 million bitcoin call](https://www.coindesk.com/markets/2026/03/15/bitwise-s-matt-hougan-revisits-usd1-million-bitcoin-analysts-agree-but-debate-his-timeline)**
+**[BTC price analysis: Bitcoin set for best week since September 2025 as correlation with tech stocks weakens](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens)**
 
-A growing number of industry figures say bitcoin could eventually reach seven figures, but analysts say the outcome hinges on how much of the global store-of-value market the cryptocurrency can capture.
+Bitcoin is outperforming equities and gold since the Middle East conflict began, as institutional inflows return while broader market sentiment remains cautious.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin: Institutional interest provides buffer as BTC eyes $73,000 resistance](https://www.investing.com/news/cryptocurrency-news/bitcoin-institutional-interest-provides-buffer-as-btc-eyes-73000-resistance-4561528)**
-
-Investing.com • 11h ago
+CoinDesk • 39m ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1773574800)**
+**[Bitcoin: Strategy and ETF demand provide 6% weekly lift amid regional conflict](https://www.investing.com/news/cryptocurrency-news/bitcoin-strategy-and-etf-demand-provide-6-weekly-lift-amid-regional-conflict-4561542)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+Investing.com • 8h ago
 
-Polymarket • 3h ago
+---
+
+**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -209,13 +207,15 @@ Polymarket • 3h ago
 
 We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100K in 2026. Four said yes, and only one said no. Here's why.
 
-24/7 Wall St. • 3h ago
+24/7 Wall St. • 4h ago
 
 ---
 
-**[Bitcoin Nears Zone Where Past Bear Markets Have Bottomed Out](https://www.bloomberg.com/news/articles/2026-03-13/bitcoin-nears-zone-where-past-bear-markets-have-bottomed-out)**
+**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1773585000)**
 
-Bloomberg.com • 1d ago
+Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2h ago
 
 ---
 
@@ -236,14 +236,6 @@ Financial Times • 2d ago
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
 ⬆️ 17 • 💬 0 • 4d ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
-
----
-
-**[Show HN: SatsAPI – Bitcoin data API, pay per call in sats via Lightning L402](https://news.ycombinator.com/item?id=47298930)**
-
-No subscriptions. No API keys. Pay per request with Lightning Network. Bitcoin price, RSI, Fear & Greed, AI signals starting at 2 sats.
-
-⬆️ 3 • 💬 3 • 6d ago • [satsapi.dev](https://satsapi.dev/)
 
 ---
 
@@ -305,6 +297,14 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 ---
 
+**[Show HN: ResonanceNet – Proof-of-Training Blockchain](https://news.ycombinator.com/item?id=47386901)**
+
+Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
+
+⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -315,7 +315,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 1K • 💬 130 • ⏱️ 1:15:12 • 20h ago
+👁️ 29K • 👍 1K • 💬 130 • ⏱️ 1:15:12 • 21h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin #Crypto #Finance Will Bitcoin Survive The Shift That Will Change Markets
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 168 • 💬 129 • ⏱️ 58:23 • 3h ago
+👁️ 2K • 👍 168 • 💬 129 • ⏱️ 58:23 • 4h ago
 
 ---
 
@@ -385,7 +385,7 @@ Looks like Bitcoin might have more of a correlation than we originally thought. 
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 365 • 💬 106 • ⏱️ 26:44 • 5h ago
+👁️ 2K • 👍 365 • 💬 106 • ⏱️ 26:44 • 6h ago
 
 ---
 
@@ -405,7 +405,7 @@ The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device tha
 
 📺 How Much?
 
-👁️ 3K • 👍 47 • 💬 5 • ⏱️ 0:34 • 17h ago
+👁️ 3K • 👍 47 • 💬 5 • ⏱️ 0:34 • 18h ago
 
 ---
 

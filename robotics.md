@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T16:34:28.605427+00:00'
+updated: '2026-03-15T17:29:06.092782+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 16:34 UTC  
+**Last Updated:** March 15, 2026 at 17:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,15 +40,15 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 ---
 
-**[Grain Storage Robot](https://www.reddit.com/r/robotics/comments/1rtp14o/grain_storage_robot/)**
+**[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
-
-23h ago
+53m ago
 
 ---
 
-**[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
+**[Grain Storage Robot](https://www.reddit.com/r/robotics/comments/1rtp14o/grain_storage_robot/)**
+
+This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
 
 1d ago
 
@@ -58,7 +58,13 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Hey , everyone I’m a 3rd year Robotics & Automation Engineering student looking to build a serious project that could help me land internships at robotics startups, defense/aerospace organizations, or logistics companies like Amazon. Whenever I search for robotics project ideas, I mostly see the same things — line following robots, obstacle avoidance, pick-and-place arms, or SLAM navigation. I’ve already seen or worked on these, so I’m looking for something more unique and meaningful rather than projects that are repeated everywhere. My current skill set includes ROS2, Gazebo, and RViz for simulation pipelines, Python for scripting and ROS nodes, PCB design for custom electronics, and Fusion 360 for mechanical design and 3D printing. I also work with ESP32 and Raspberry Pi, and I have some experience integrating AI agent tools like MCP. Because of this, I’m comfortable working across the full robotics stack — mechanical design, electronics, embedded systems, and software. What I’m hoping to build is a niche robotics project that solves a real-world problem, preferably related to defense, space, manufacturing, or logistics. I’m particularly interested in areas like multi-robot systems, edge robotics, or AI-driven robotic systems that could actually stand out to recruiters or researchers. Ultimately helping me to get an internship. If you work in robotics or research, I’d really appreciate hearing what kind of project you think would genuinely stand out or solve a real problem in the field. Thanks!
 
-5h ago
+6h ago
+
+---
+
+**[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
+
+1d ago
 
 ---
 
@@ -72,7 +78,7 @@ Hey , everyone I’m a 3rd year Robotics & Automation Engineering student lookin
 
 Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 topics directly to the Rerun viewer for real-time visualization. What it does Speaks DDS and Zenoh natively — it's not a ROS 2 node, so no colcon build, no rclcpp, no ROS 2 install needed 53 built-in type mappings (images, pointclouds, TF, poses, laser scans, odometry, etc.) Custom message mappings via JSON5 config — map any ROS 2 type to Rerun archetypes without writing code URDF loading with full TF tree visualization Per-topic diagnostics (Hz, bandwidth, drops, latency) Topic filtering with glob patterns Getting Started sh curl -fsSL https://rewire.run/install.sh | sh rewire record -a That's it — two commands and you're visualizing your ROS 2 system in Rerun. Works on Linux (x86_64, aarch64) and macOS (Intel + Apple Silicon). Single binary, pure Rust. Website: https://rewire.run Feel free to ask anything!
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +86,7 @@ Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 t
 
 Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot learning, and world models for robotics. Recently I came across the AGIBOT World Challenge, which will have its finals at ICRA 2026 in Vienna, and I'm considering participating. Rather than doing it alone, I thought it might be interesting to form a small team with people who enjoy building robotics systems and experimenting with new ideas. From what I understand, the challenge focuses on embodied intelligence, especially things like: • reasoning → action loops • world models for robotics • perception → planning → action pipelines • sim-to-real transfer The finals will be run on real robots at ICRA 2026, and the challenge also provides a simulation platform and datasets for training and testing. Some of the directions I’m personally interested in exploring: • robot learning policies • integrating foundation models with robot planning • world models for prediction and control • simulation-to-real transfer If anyone here is also working on embodied AI, robot learning, or robotics systems, it would be great to exchange ideas or potentially form a small team. Feel free to reply here, send a DM, or email me directly: [Seatrain.liang@gmail.com](mailto:Seatrain.liang@gmail.com) Also curious to hear how people here are approaching embodied AI systems for robotics lately.
 
-19h ago
+20h ago
 
 ---
 
@@ -98,12 +104,6 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 ---
 
-**[MEDICAL ROBOTS FOR THE HEALTH SECTOR](https://www.reddit.com/r/robotics/comments/1rtzh3h/medical_robots_for_the_health_sector/)**
-
-16h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -112,7 +112,7 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 16h ago
+Electrek • 17h ago
 
 ---
 
@@ -124,6 +124,22 @@ CNBC • 1d ago
 
 ---
 
+**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
+
+Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
+
+TechCrunch • 1d ago
+
+---
+
+**[Travis Kalanick Debuts Plan for ‘Gainfully Employed Robots’](https://finance.yahoo.com/news/travis-kalanick-debuts-plan-gainfully-192647148.html)**
+
+Kalanick is remaking his real estate company, City Storage Systems, which owns ghost-kitchen operator CloudKitchens, and renaming it Atoms, according to a manifesto posted on the new company’s website.  In addition to its work on food, Los Angeles-based Atoms is expanding into robotics technology for mining and automotive transport.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[‘Pokémon Go’ players have been unknowingly training delivery robots](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
@@ -132,9 +148,9 @@ Popular Science • 1d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqc1pVKBT57sweLpJS3zgRgesveuUSNcaw1VsAR6qFr8I8RWvMji86Ok&gaa_ts=69b6d9ab&gaa_sig=mVabZcvXNXGYkV6HiId0WZYX4KCovS05Qn6z8Z7kYQxYEyPCSGKfBABYW5bTul90NnxaG7oNTUqFjybhP-seqA%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqdB46ek_9p3VgXD8LRpf8jLL4WK7jIYL0RfoXP-A4ecz89ST17pZt0h&gaa_ts=69b6efcf&gaa_sig=mcdy1l_Kzbf8sktmCeGwyJHyD1cZmuOcNqPmFZ9n4xePG4vA7TPJ7J6uuG9vpRRs_f0sAz82Oq2SpeRRBJHqow%3D%3D)**
 
-WSJ • 6h ago
+WSJ • 1h ago
 
 ---
 
@@ -146,11 +162,11 @@ NPR • 2d ago
 
 ---
 
-**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
+**[Elon Musk Bets On Human Workforce As AI, Robotics Boost Productivity: 'Basically Just Issue Money…'](https://finance.yahoo.com/news/elon-musk-bets-human-workforce-013057590.html)**
 
-Rochester, N.Y. &mdash; More than 1,000 students, teachers, and mentors from both local and international high schools will meet up at the Rochester Institute of Tech
+Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
 
-13wham.com • 16h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -162,31 +178,11 @@ Quanta Magazine • 2d ago
 
 ---
 
-**[Elon Musk Bets On Human Workforce As AI, Robotics Boost Productivity: 'Basically Just Issue Money…'](https://finance.yahoo.com/news/elon-musk-bets-human-workforce-013057590.html)**
+**[Ukraine receives humanoid robots for testing in combat conditions](https://www.ukrinform.net/rubric-ato/4101402-ukraine-receives-humanoid-robots-for-testing-in-combat-conditions.html)**
 
-Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
+In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
 
-Yahoo Finance • 15h ago
-
----
-
-**[Company Testing Humanoid Robot Soldiers on Frontlines of Ukraine](https://futurism.com/robots-and-machines/humanoid-robots-ukraine-war)**
-
-A San Francisco-based company deployed two humanoid robots for "reconnaissance duties" in the Ukraine-Russo war.
-
-Futurism • 21h ago
-
----
-
-**[Lanesborough Elementary Robotics Team Wins Berkshire Title](https://www.iberkshires.com/story/82050/Lanesborough-Elementary-Robotics-Team-Wins-Berkshire-Title.html)**
-
-DALTON, Mass. – Lanesborough Elementary School Saturday continued its dynasty at the Berkshire Robotics Challenge at Wahconah Regional High School.
-
-	 
-
-	Lanesborough’s...
-
-iBerkshires.com • 6h ago
+Ukrinform • 1d ago
 
 ---
 
@@ -210,7 +206,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 14K • 👍 91 • ⏱️ 9:16:18 • 18h ago
+👁️ 14K • 👍 91 • ⏱️ 9:16:18 • 19h ago
 
 ---
 
@@ -230,7 +226,7 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 
 📺 Munro Live
 
-👁️ 7K • 👍 252 • 💬 23 • ⏱️ 8:34 • 2d ago
+👁️ 7K • 👍 252 • 💬 23 • ⏱️ 8:34 • 3d ago
 
 ---
 
