@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T20:31:41.050452+00:00'
+updated: '2026-03-15T21:29:51.040352+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 20:31 UTC  
+**Last Updated:** March 15, 2026 at 21:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,15 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 LATENT
 
-🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 2h ago
+🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 3h ago
+
+---
+
+**[slamd - a simple 3D visualizer for Python](https://www.reddit.com/r/robotics/comments/1rukhd9/slamd_a_simple_3d_visualizer_for_python/)**
+
+I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
+
+🔗 [GitHub](https://github.com/Robertleoj/slamd) • 3h ago
 
 ---
 
@@ -62,19 +70,11 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 ---
 
-**[What Robotics Project Would Make You Notice a Student Resume?](https://www.reddit.com/r/robotics/comments/1rubjqt/what_robotics_project_would_make_you_notice_a/)**
+**[Built a robot lending platform to solve my own problem — looking for early testers, regional enthusiasts, and honest feedback](https://www.reddit.com/r/robotics/comments/1ruqdvl/built_a_robot_lending_platform_to_solve_my_own/)**
 
-Hey , everyone I’m a 3rd year Robotics & Automation Engineering student looking to build a serious project that could help me land internships at robotics startups, defense/aerospace organizations, or logistics companies like Amazon. Whenever I search for robotics project ideas, I mostly see the same things — line following robots, obstacle avoidance, pick-and-place arms, or SLAM navigation. I’ve already seen or worked on these, so I’m looking for something more unique and meaningful rather than projects that are repeated everywhere. My current skill set includes ROS2, Gazebo, and RViz for simulation pipelines, Python for scripting and ROS nodes, PCB design for custom electronics, and Fusion 360 for mechanical design and 3D printing. I also work with ESP32 and Raspberry Pi, and I have some experience integrating AI agent tools like MCP. Because of this, I’m comfortable working across the full robotics stack — mechanical design, electronics, embedded systems, and software. What I’m hoping to build is a niche robotics project that solves a real-world problem, preferably related to defense, space, manufacturing, or logistics. I’m particularly interested in areas like multi-robot systems, edge robotics, or AI-driven robotic systems that could actually stand out to recruiters or researchers. Ultimately helping me to get an internship. If you work in robotics or research, I’d really appreciate hearing what kind of project you think would genuinely stand out or solve a real problem in the field. Thanks!
+Background: my daughter and I have an educational, robotics-focused YouTube channel where we review and discuss different robots and robotic concepts together. It's genuinely one of my favorite things to do with her, but keeping up with new robots to feature is prohibitively expensive, especially when we just need them for a couple days. I started looking for somewhere to rent them. Nothing (real) existed*. So I started on this project... It's called DroidBRB, a peer-to-peer robot rental platform where people can list robots and others can rent or borrow them. Note: It's early. Very early. I can guarantee there are no robots listed near 99.999% of you (and still a few tests posts I'll be clearing out soon). Which is the point of this post. This is a network effect challenge, the platform only works if there are robots in your region, which requires people willing to list them, which requires people who want to borrow, and so on. The only way to break that loop is to find the first people who get it early enough to matter. That's why I'm here. What I'm looking for: Early testers — people willing to kick the tires, post some robots they're willing to rent out, find what's broken, and tell me about it. Regional anchors — if you're in a city and want to help seed a local community of lenders and borrowers, I'd love to talk. Partners — people who want to help build this out, not just use it. This isn't a revenue play and I'm not seeking any funding. It's about supporting and building out the community around robotics**, especially as we all know that this is space going to grow rapidly with the continued explosion of robotics. **and finding a great, passionate team to grow this project around. Site is droidbrb.com. Happy to answer anything in the comments. Added notes: - this is not simply a vibecoded app on Replit or Lovable... yes, it's heavily agent-coded (as almost everything these days), but I've been working for weeks trying out different designs, getting messaging / email notifications, etc. to a decent place. I'm sure there are still bugs and please consider this an alpha, so not for folks expecting perfection. But also a great time to make suggestions and influence the direction of this project. * Sharebot.ai exists, and while they describe the opportunity accurately IMO, they want to operate similar to AirBnB in handling payments and taking service fees (in other words, added costs). This would be great if they can provide the same protections as AirBnB does (e.g., someone breaks a robot), but it's unlikely they have the same capital to actually achieve this at scale. Right now they have less than 10 robots total available after launching a year ago and after raising $200K. I wish them all the best, but this is a separate approach / ethos.
 
-9h ago
-
----
-
-**[slamd - a simple 3D visualizer for Python](https://www.reddit.com/r/robotics/comments/1rukhd9/slamd_a_simple_3d_visualizer_for_python/)**
-
-I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
-
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 2h ago
+🔗 [droidbrb.com](http://droidbrb.com) • 1m ago
 
 ---
 
@@ -84,25 +84,23 @@ I work in robotics, and need to do a lot of 3D visualization. But none of the av
 
 ---
 
+**[CNN Hand gesture control robot](https://www.reddit.com/r/robotics/comments/1rup5d6/cnn_hand_gesture_control_robot/)**
+
+48m ago
+
+---
+
 **[Besoin d’aide !!! comment Identifier le type de STS3215 sans ouvrir le servo](https://www.reddit.com/r/robotics/comments/1rumfs3/besoin_daide_comment_identifier_le_type_de/)**
 
 salut à tous, J’ai retiré plusieurs servomoteurs Feetech STS3215 de leur boîte pour mon projet de bras robot, mais maintenant je n’arrive plus à les identifier pour savoir lequel correspond à quel gear ratio (C001, C044, C046, etc.). Je souhaite les identifier de manière fiable sans ouvrir les servomoteurs et sans les endommager. Est-ce que quelqu’un a déjà rencontré ce problème et pourrait me conseiller sur une méthode sûre, que ce soit via logiciel, commandes série, ou tout autre moyen fiable ? Merci d’avance pour vos conseils ! 🙏
 
-1h ago
+2h ago
 
 ---
 
 **[A fruit fly died. Its brain didn't](https://www.reddit.com/r/robotics/comments/1rt5wby/a_fruit_fly_died_its_brain_didnt/)**
 
 1d ago
-
----
-
-**[Looking for people interested in embodied AI/robotics to form a small team (ICRA 2026 challenge)](https://www.reddit.com/r/robotics/comments/1rtuy9r/looking_for_people_interested_in_embodied/)**
-
-Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot learning, and world models for robotics. Recently I came across the AGIBOT World Challenge, which will have its finals at ICRA 2026 in Vienna, and I'm considering participating. Rather than doing it alone, I thought it might be interesting to form a small team with people who enjoy building robotics systems and experimenting with new ideas. From what I understand, the challenge focuses on embodied intelligence, especially things like: • reasoning → action loops • world models for robotics • perception → planning → action pipelines • sim-to-real transfer The finals will be run on real robots at ICRA 2026, and the challenge also provides a simulation platform and datasets for training and testing. Some of the directions I’m personally interested in exploring: • robot learning policies • integrating foundation models with robot planning • world models for prediction and control • simulation-to-real transfer If anyone here is also working on embodied AI, robot learning, or robotics systems, it would be great to exchange ideas or potentially form a small team. Feel free to reply here, send a DM, or email me directly: [Seatrain.liang@gmail.com](mailto:Seatrain.liang@gmail.com) Also curious to hear how people here are approaching embodied AI systems for robotics lately.
-
-23h ago
 
 ---
 
@@ -114,7 +112,7 @@ Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot lear
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 20h ago
+Electrek • 21h ago
 
 ---
 
@@ -126,6 +124,14 @@ CNBC • 1d ago
 
 ---
 
+**[Humanoid robotics developers must address a wide range of applications](https://www.therobotreport.com/humanoid-robotics-developers-must-address-a-wide-range-of-applications/)**
+
+As humanoid robotics approach commercialization, developers are still working to improve navigation, manipulation, and skills learning.
+
+The Robot Report • 40m ago
+
+---
+
 **[‘Pokémon Go’ players have been unknowingly training delivery robots](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
@@ -134,9 +140,9 @@ Popular Science • 2d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqde4gu0V1PePzO_G7NxQ6__Pw5YK8tM9UydUBy6DsFpatgEmB-FIHUg&gaa_ts=69b71135&gaa_sig=Lb-LuTr5FQORwF66UEFQeCk6PKQVhMDFv22rwWFm5BSdaWfKAh5nkgPh7kfILVuz78ImDKXItiOpoZke2OiZRg%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfiOiHMhkV1IgBNux4n47ldxp57OUItQEp87J8VaAbTTuqZD1vOmMQi&gaa_ts=69b7283a&gaa_sig=_kYw-xMA5w-DemE_rkLzONa2XA1dJGvRu91j_1GWYyHP8zC3l4EQPKsmUC1SuYKya1GtUL3jjr_Q55FnpKJo4Q%3D%3D)**
 
-WSJ • 3h ago
+WSJ • 10h ago
 
 ---
 
@@ -152,15 +158,13 @@ NPR • 2d ago
 
 13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton.
 
-13wham.com • 20h ago
+13wham.com • 21h ago
 
 ---
 
-**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
+**[FIRST Robotics Finger Lakes Regional Competition held at RIT](https://www.rochesterfirst.com/news/local-news/first-robotics-finger-lakes-regional-competition-held-at-rit/)**
 
-The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
-
-Quanta Magazine • 2d ago
+RochesterFirst • 21h ago
 
 ---
 
@@ -172,19 +176,11 @@ Yahoo Finance • 19h ago
 
 ---
 
-**[Ukraine receives humanoid robots for testing in combat conditions](https://www.ukrinform.net/rubric-ato/4101402-ukraine-receives-humanoid-robots-for-testing-in-combat-conditions.html)**
+**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
 
-In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
+The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Ukrinform • 2d ago
-
----
-
-**[Pupils use Lego robots to solve engineering tasks](https://www.bbc.com/news/articles/cx2dzk8j71ko)**
-
-As part of a competition, they had to build robots them use them to complete missions on a game table.
-
-BBC • 2d ago
+Quanta Magazine • 2d ago
 
 ---
 
@@ -208,7 +204,7 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 3K • 👍 260 • 💬 46 • ⏱️ 7:53 • 7h ago
+👁️ 3K • 👍 260 • 💬 46 • ⏱️ 7:53 • 8h ago
 
 ---
 

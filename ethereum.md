@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T20:31:41.047141+00:00'
+updated: '2026-03-15T21:29:51.037165+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 20:31 UTC  
+**Last Updated:** March 15, 2026 at 21:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,109.19
+### $2,130.99
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +5.9%  
-**30d:** +1.3%  
-**90d:** -28.7%  
-**1y:** +12.0%  
+**24h:** +2.3%  
+**7d:** +6.8%  
+**30d:** +2.2%  
+**90d:** -28.1%  
+**1y:** +13.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-14h ago
+15h ago
 
 ---
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 9h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 10h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -170,11 +170,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum flipped in 2026? Predictions & Odds](https://polymarket.com/event/eth-flipped-in-2026)**
+**[Gareth Soloway Reveals Next Bull Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/gareth-soloway-reveals-next-bull-targets-for-bitcoin-ethereum-and-xrp/)**
 
-View real-time odds for "Ethereum flipped in 2026?" as of March 15, 2026 and trade on The World's Largest Prediction Market™
+Gareth Soloway, chief market strategist at VerifiedInvesting.com, is doubling down on his short-term bullish thesis for crypto, and the charts he is
 
-Polymarket • 2mo ago
+Coinpedia Fintech News • 12h ago
+
+---
+
+**[Bitcoin Surges Past $70,000. A Trump Post May Be Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-price-today-trump-cyrpto-xrp-ethereum-e6ad53cb?gaa_at=eafs&gaa_n=AWEtsqckkiuLdafTQLRmbqeyLGErB9fCzM8pHeVSVZkDnbNKxua_MOqyh19a&gaa_ts=69b72838&gaa_sig=ifBsDtGf4THM8ggQeqUcfmLCNYIUoRo99rBd6l_HmhWldwEe1AsEScHCNlnXllGEEqLNpOXL0rPSCtchTyExVg%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
+
+XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
+
+Coinpaper • 1d ago
 
 ---
 
@@ -182,31 +196,15 @@ Polymarket • 2mo ago
 
 Ethereum co-founder Vitalik Buterin posted a proposal, or a pull request, on Saturday that would merge the backend programs used by nodes to interact with Ethereum’s Beacon Chain, which handles consensus and staking, and the protocol’s execution layer into one unified code structure to simplify nod…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
-**[Prediction: Buying Ethereum Today Could Set You Up for Life](https://finance.yahoo.com/news/prediction-buying-ethereum-today-could-154123868.html)**
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1773550200)**
 
-The world's second-most-valuable cryptocurrency has a bright future.
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Yahoo Finance • 4h ago
-
----
-
-**[Prediction: Buying Ethereum Today Could Set You Up for Life](https://www.fool.com/investing/2026/03/15/prediction-buying-eth-today-could-set-you-up-for/)**
-
-The world's second-most-valuable cryptocurrency has a bright future.
-
-The Motley Fool • 5h ago
-
----
-
-**[Better Cryptocurrency to Buy Today With $3,000 and Hold for 7 Years: XRP vs. Ethereum](https://www.aol.com/articles/better-cryptocurrency-buy-today-3-122000667.html)**
-
-Most cryptocurrencies haven't survived seven years as of yet.
-
-AOL.com • 7h ago
+Polymarket • 1d ago
 
 ---
 
@@ -214,15 +212,15 @@ AOL.com • 7h ago
 
 Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 18h ago
 
 ---
 
-**[Ethereum Price Prediction: Why Ethereum (ETH) is Targeting $2,200 After BlackRock’s ETHB Launch](https://eand.co/ethereum-price-prediction-can-blackrocks-ethb-launch-and-1-7t-usdc-surge-spark-a-2200-breakout)**
+**[Is Ethereum’s $2K range a ‘bear trap’ as ETH staking hits record levels?](https://ambcrypto.com/is-ethereums-2k-range-a-bear-trap-as-eth-staking-hits-record-levels/)**
 
-Ethereum eyes a $2,200 breakout! With BlackRock’s ETHB launch and a $1.7T USDC surge, is an ETH bull run imminent? Read our expert Ethereum price prediction now.
+Ethereum is showing solid staking metrics With conviction building, would this make ETH’s chop around $2k into a textbook bear trap?
 
-Eudaimonia and Co • 5h ago
+AMBCrypto • 23h ago
 
 ---
 
@@ -236,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 217 • 💬 8 • ⏱️ 19:10 • 5h ago
+👁️ 4K • 👍 217 • 💬 8 • ⏱️ 19:10 • 6h ago
 
 ---
 
@@ -246,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 772 • 👍 86 • 💬 2 • ⏱️ 6:14 • 3h ago
+👁️ 772 • 👍 86 • 💬 2 • ⏱️ 6:14 • 4h ago
 
 ---
 
@@ -256,7 +254,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 113 • 💬 320 • ⏱️ 15:57 • 16h ago
+👁️ 2K • 👍 113 • 💬 320 • ⏱️ 15:57 • 17h ago
 
 ---
 
@@ -266,7 +264,7 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 165 • 💬 66 • ⏱️ 15:12 • 11h ago
+👁️ 3K • 👍 165 • 💬 66 • ⏱️ 15:12 • 12h ago
 
 ---
 
@@ -286,7 +284,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 11K • 👍 735 • 💬 122 • ⏱️ 22:03 • 21h ago
+👁️ 11K • 👍 735 • 💬 122 • ⏱️ 22:03 • 22h ago
 
 ---
 
@@ -306,7 +304,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 1K • 👍 136 • 3h ago
+👁️ 1K • 👍 136 • 4h ago
 
 ---
 
@@ -316,7 +314,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 ONE VOICE CHOIR GHANA
 
-👁️ 22K • 👍 1K • 💬 1 • ⏱️ 2:44:05 • 6h ago
+👁️ 22K • 👍 1K • 💬 1 • ⏱️ 2:44:05 • 7h ago
 
 ---
 
@@ -326,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 255 • 👍 11 • 💬 2 • ⏱️ 5:32 • 10h ago
+👁️ 255 • 👍 11 • 💬 2 • ⏱️ 5:32 • 11h ago
 
 ---
 

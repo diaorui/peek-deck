@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T20:31:41.041077+00:00'
+updated: '2026-03-15T21:29:51.031198+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 20:31 UTC  
+**Last Updated:** March 15, 2026 at 21:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,478.31
+### $71,803.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +4.5%  
-**30d:** +2.3%  
-**90d:** -18.5%  
-**1y:** -13.4%  
+**24h:** +1.4%  
+**7d:** +4.9%  
+**30d:** +2.7%  
+**90d:** -18.1%  
+**1y:** -13.1%  
 
 ---
 
@@ -77,33 +77,47 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
-
-12h ago
-
----
-
 **[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
 
-5h ago
-
----
-
-**[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
-
-23h ago
-
----
-
-**[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
-
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 1h ago
+6h ago
 
 ---
 
 **[The life of a Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1rumrk4/the_life_of_a_bitcoiner/)**
 
-1h ago
+2h ago
+
+---
+
+**[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
+
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 2h ago
+
+---
+
+**[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
+
+1d ago
+
+---
+
+**[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
+
+13h ago
+
+---
+
+**[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
+
+7h ago
+
+---
+
+**[Bitcoin set for best week since September 2025 as correlation with tech stocks weakens](https://www.reddit.com/r/Bitcoin/comments/1rup3kk/bitcoin_set_for_best_week_since_september_2025_as/)**
+
+Surprise, the doomers and the panic sellers were wrong again.
+
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 50m ago
 
 ---
 
@@ -111,7 +125,7 @@ Rank #1
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
-12h ago
+13h ago
 
 ---
 
@@ -119,13 +133,7 @@ Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-10h ago
-
----
-
-**[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
-
-6h ago
+11h ago
 
 ---
 
@@ -133,15 +141,7 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 Holding satoshis in self custody is not just about getting "fabulously wealthy"' though that can happen maybe not for you but your progeny. Its about opting out of the system that has kept us serfs for 100s of years and has been doing nothing but tighting the yolk around our necks for decade after decade. To many people accept this position to the point where even when there is a means of cessation, of liberation in the palm of their hands, they dont take it. They stay sheep. They stay yolked, they accept it because their father, and their fathers father accepted it and have taken the role of serf with pride. They get in line and and point out and ridicule the dessenters, all while they follow the herd and are led like sheep to ther slaughter. I will not consent. I will opt out and guide my chilldren into freedom and liberate them from this corrupt system of control, by stacking sats and saving on the blockchain. I will take part in an act of non violent civil disobedience and protect my energy and time in a way that saves it from being debased, used for war and profits only a privileged few. Its a corrupt and evil system that wants us to stay weak and bent over, eyes drawn down to the ground and never looking up to the light of the sun. SATYAGRAHA!
 
-7h ago
-
----
-
-**[Bitcoin psychology](https://www.reddit.com/r/Bitcoin/comments/1rug7vi/bitcoin_psychology/)**
-
-Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm already used to the roller coaster ride - but only in small amounts. I’m firmly convinced that now is the right time to invest a significant amount of money for the long term, provided you can hold onto it for a long time. But a little voice in the back of my head keeps telling me, “That’s unreasonable,” “That’s not enough diversification,” “Bitcoin could keep falling indefinitely,” and so on. Do you guys know what I mean? I’d bet that Bitcoin will be higher in the next 5–10 years than it is now. It would be silly not to jump in now, if you can afford it. So my question is: how do you calm that voice? Any experience?
-
-5h ago
+8h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm alrea
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -165,11 +165,11 @@ CNBC • 1d ago
 
 ---
 
-**[XRP vs Bitcoin: Which Crypto Gives More Returns With $5,000 by December 2026?](https://finance.yahoo.com/news/xrp-vs-bitcoin-crypto-gives-180316461.html)**
+**['Bitcoin Is Going To $10,000,' Bloomberg's McGlone Says: Crypto Is A 'Dead' Asset Class](https://finance.yahoo.com/news/bitcoin-going-10-000-bloombergs-153055288.html)**
 
-The crypto market peaked in October 2025, but a $19 billion liquidation cascade on October 10 kicked off the selloff that’s still playing out today. Bitcoin (CRYPTO: BTC) hit $126,000 before the October crash and sits around $71,000 today—down by 44%. XRP (CRYPTO: XRP) topped out at $3.65 in July 2025 and was trading around ... XRP vs Bitcoin: Which Crypto Gives More Returns With $5,000 by December 2026?
+Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -177,13 +177,15 @@ Yahoo Finance • 2h ago
 
 These assets will help you to layer either safety or some risk into your portfolio.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
-**[Bitcoin: Strategy and ETF demand provide 6% weekly lift amid regional conflict](https://www.investing.com/news/cryptocurrency-news/bitcoin-strategy-and-etf-demand-provide-6-weekly-lift-amid-regional-conflict-4561542)**
+**[Bitcoin Price Prediction: We Asked 5 AI Models if Bitcoin Will Hit $100K Again in 2026—Only One Said No](https://247wallst.com/investing/2026/03/15/bitcoin-price-prediction-we-asked-5-ai-models-if-bitcoin-will-hit-100k-again-in-2026-only-one-said-no/)**
 
-Investing.com • 11h ago
+We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100K in 2026. Four said yes, and only one said no. Here's why.
+
+24/7 Wall St. • 8h ago
 
 ---
 
@@ -193,11 +195,9 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1773584100)**
+**[Bitcoin: Strategy and ETF demand provide 6% weekly lift amid regional conflict](https://www.investing.com/news/cryptocurrency-news/bitcoin-strategy-and-etf-demand-provide-6-weekly-lift-amid-regional-conflict-4561542)**
 
-Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 4h ago
+Investing.com • 12h ago
 
 ---
 
@@ -205,7 +205,15 @@ Polymarket • 4h ago
 
 Bitcoin’s recent price action may be showing its first signs of relief as a closely watched indicator tied to US demand has just changed direction. The Coinbase Premium Gap has moved back into positive territory following nearly 10 weeks of persistent negative readings, a stretch that coincided wit…
 
-TradingView • 4h ago
+TradingView • 5h ago
+
+---
+
+**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1773584100)**
+
+Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 5h ago
 
 ---
 
@@ -214,14 +222,6 @@ TradingView • 4h ago
 Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
 
 Financial Times • 2d ago
-
----
-
-**[Bitcoin Price Prediction: We Asked 5 AI Models if Bitcoin Will Hit $100K Again in 2026—Only One Said No](https://247wallst.com/investing/2026/03/15/bitcoin-price-prediction-we-asked-5-ai-models-if-bitcoin-will-hit-100k-again-in-2026-only-one-said-no/)**
-
-We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100K in 2026. Four said yes, and only one said no. Here's why.
-
-24/7 Wall St. • 7h ago
 
 ---
 
@@ -291,7 +291,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 **[Ask HN: What are the best product landing pages you've stumbled upon?](https://news.ycombinator.com/item?id=47341618)**
 
-⬆️ 2 • 💬 0 • 3d ago
+⬆️ 2 • 💬 0 • 4d ago
 
 ---
 
@@ -299,7 +299,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
 
 ---
 
@@ -323,7 +323,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 2K • 👍 353 • 💬 81 • ⏱️ 20:55 • 2h ago
+👁️ 2K • 👍 353 • 💬 81 • ⏱️ 20:55 • 3h ago
 
 ---
 
@@ -353,7 +353,7 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 2K • 💬 98 • ⏱️ 14:33 • 1d ago
+👁️ 31K • 👍 2K • 💬 98 • ⏱️ 14:33 • 2d ago
 
 ---
 
@@ -363,7 +363,7 @@ Mike McGlone warns that the current market cycle could resemble 2008, with wealt
 
 📺 Cointelegraph
 
-👁️ 435 • 👍 3 • 💬 3 • ⏱️ 0:29 • 1h ago
+👁️ 435 • 👍 3 • 💬 3 • ⏱️ 0:29 • 2h ago
 
 ---
 
@@ -393,7 +393,7 @@ Saylor's Bitcoin money glitch explained. Don't ignore this! Join the Inner Circl
 
 📺 Lark Davis
 
-👁️ 5K • 👍 418 • 💬 39 • ⏱️ 9:27 • 4h ago
+👁️ 5K • 👍 418 • 💬 39 • ⏱️ 9:27 • 5h ago
 
 ---
 
