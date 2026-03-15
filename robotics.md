@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T21:29:51.040352+00:00'
+updated: '2026-03-15T21:53:36.538921+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 21:29 UTC  
+**Last Updated:** March 15, 2026 at 21:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 LATENT
 
-🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 3h ago
+🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 4h ago
 
 ---
 
@@ -58,7 +58,7 @@ LATENT
 
 I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
 
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 3h ago
+🔗 [GitHub](https://github.com/Robertleoj/slamd) • 4h ago
 
 ---
 
@@ -74,7 +74,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Background: my daughter and I have an educational, robotics-focused YouTube channel where we review and discuss different robots and robotic concepts together. It's genuinely one of my favorite things to do with her, but keeping up with new robots to feature is prohibitively expensive, especially when we just need them for a couple days. I started looking for somewhere to rent them. Nothing (real) existed*. So I started on this project... It's called DroidBRB, a peer-to-peer robot rental platform where people can list robots and others can rent or borrow them. Note: It's early. Very early. I can guarantee there are no robots listed near 99.999% of you (and still a few tests posts I'll be clearing out soon). Which is the point of this post. This is a network effect challenge, the platform only works if there are robots in your region, which requires people willing to list them, which requires people who want to borrow, and so on. The only way to break that loop is to find the first people who get it early enough to matter. That's why I'm here. What I'm looking for: Early testers — people willing to kick the tires, post some robots they're willing to rent out, find what's broken, and tell me about it. Regional anchors — if you're in a city and want to help seed a local community of lenders and borrowers, I'd love to talk. Partners — people who want to help build this out, not just use it. This isn't a revenue play and I'm not seeking any funding. It's about supporting and building out the community around robotics**, especially as we all know that this is space going to grow rapidly with the continued explosion of robotics. **and finding a great, passionate team to grow this project around. Site is droidbrb.com. Happy to answer anything in the comments. Added notes: - this is not simply a vibecoded app on Replit or Lovable... yes, it's heavily agent-coded (as almost everything these days), but I've been working for weeks trying out different designs, getting messaging / email notifications, etc. to a decent place. I'm sure there are still bugs and please consider this an alpha, so not for folks expecting perfection. But also a great time to make suggestions and influence the direction of this project. * Sharebot.ai exists, and while they describe the opportunity accurately IMO, they want to operate similar to AirBnB in handling payments and taking service fees (in other words, added costs). This would be great if they can provide the same protections as AirBnB does (e.g., someone breaks a robot), but it's unlikely they have the same capital to actually achieve this at scale. Right now they have less than 10 robots total available after launching a year ago and after raising $200K. I wish them all the best, but this is a separate approach / ethos.
 
-🔗 [droidbrb.com](http://droidbrb.com) • 1m ago
+🔗 [droidbrb.com](http://droidbrb.com) • 25m ago
 
 ---
 
@@ -86,7 +86,7 @@ Background: my daughter and I have an educational, robotics-focused YouTube chan
 
 **[CNN Hand gesture control robot](https://www.reddit.com/r/robotics/comments/1rup5d6/cnn_hand_gesture_control_robot/)**
 
-48m ago
+1h ago
 
 ---
 
@@ -112,7 +112,7 @@ salut à tous, J’ai retiré plusieurs servomoteurs Feetech STS3215 de leur bo�
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 21h ago
+Electrek • 22h ago
 
 ---
 
@@ -128,7 +128,7 @@ CNBC • 1d ago
 
 As humanoid robotics approach commercialization, developers are still working to improve navigation, manipulation, and skills learning.
 
-The Robot Report • 40m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -142,7 +142,7 @@ Popular Science • 2d ago
 
 **[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfiOiHMhkV1IgBNux4n47ldxp57OUItQEp87J8VaAbTTuqZD1vOmMQi&gaa_ts=69b7283a&gaa_sig=_kYw-xMA5w-DemE_rkLzONa2XA1dJGvRu91j_1GWYyHP8zC3l4EQPKsmUC1SuYKya1GtUL3jjr_Q55FnpKJo4Q%3D%3D)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -172,7 +172,7 @@ RochesterFirst • 21h ago
 
 Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 

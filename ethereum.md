@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T21:29:51.037165+00:00'
+updated: '2026-03-15T21:53:36.535609+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 21:29 UTC  
+**Last Updated:** March 15, 2026 at 21:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -86,7 +86,7 @@ Vitalik Buterin recently suggested that Ethereum might need to revisit the separ
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 10h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ Coinpaper • 1d ago
 
 Ethereum co-founder Vitalik Buterin posted a proposal, or a pull request, on Saturday that would merge the backend programs used by nodes to interact with Ethereum’s Beacon Chain, which handles consensus and staking, and the protocol’s execution layer into one unified code structure to simplify nod…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -212,7 +212,7 @@ Polymarket • 1d ago
 
 Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 19h ago
 
 ---
 

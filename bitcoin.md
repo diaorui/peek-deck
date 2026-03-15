@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T21:29:51.031198+00:00'
+updated: '2026-03-15T21:53:36.529661+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 21:29 UTC  
+**Last Updated:** March 15, 2026 at 21:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Surprise, the doomers and the panic sellers were wrong again.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 50m ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 11h ago
 
 We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100K in 2026. Four said yes, and only one said no. Here's why.
 
-24/7 Wall St. • 8h ago
+24/7 Wall St. • 9h ago
 
 ---
 
@@ -213,7 +213,7 @@ TradingView • 5h ago
 
 Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 5h ago
+Polymarket • 6h ago
 
 ---
 
@@ -299,7 +299,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+⬆️ 1 • 💬 0 • 9h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
 
 ---
 
@@ -363,7 +363,7 @@ Mike McGlone warns that the current market cycle could resemble 2008, with wealt
 
 📺 Cointelegraph
 
-👁️ 435 • 👍 3 • 💬 3 • ⏱️ 0:29 • 2h ago
+👁️ 435 • 👍 3 • 💬 3 • ⏱️ 0:29 • 3h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 105K • 👍 5K • 💬 754 • ⏱️ 18:10 • 2d ago
+👁️ 105K • 👍 5K • 💬 754 • ⏱️ 18:10 • 3d ago
 
 ---
 
