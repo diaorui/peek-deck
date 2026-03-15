@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T18:40:44.668249+00:00'
+updated: '2026-03-15T19:28:31.153640+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 18:40 UTC  
+**Last Updated:** March 15, 2026 at 19:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -86,7 +86,7 @@ Vitalik Buterin recently suggested that Ethereum might need to revisit the separ
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 7h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 8h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -166,7 +166,7 @@ CoinDesk • 1d ago
 
 The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,7 +182,7 @@ Coinpaper • 1d ago
 
 The world's second-most-valuable cryptocurrency has a bright future.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Motley Fool • 3h ago
 
 Most cryptocurrencies haven't survived seven years as of yet.
 
-AOL.com • 5h ago
+AOL.com • 6h ago
 
 ---
 
@@ -214,7 +214,7 @@ Polymarket • 1d ago
 
 According to the latest on-chain data, Ethereum appears to be entering a state of undervaluation, with the potential of rebounding to new highs. However, the question is — is it really time to buy ETH?ETH Could Drop Another 40% Before Bear Cycle EndsIn a new Quicktake post on the CryptoQuant platfo…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 7h ago
 
 Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 124 • 💬 7 • ⏱️ 19:10 • 3h ago
+👁️ 2K • 👍 124 • 💬 7 • ⏱️ 19:10 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 97 • 💬 246 • ⏱️ 15:57 • 14h ago
+👁️ 2K • 👍 97 • 💬 246 • ⏱️ 15:57 • 15h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 150 • 💬 63 • ⏱️ 15:12 • 9h ago
+👁️ 2K • 👍 150 • 💬 63 • ⏱️ 15:12 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 10K • 👍 702 • 💬 134 • ⏱️ 22:03 • 19h ago
+👁️ 10K • 👍 702 • 💬 134 • ⏱️ 22:03 • 20h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 206 • 👍 9 • 💬 2 • ⏱️ 5:32 • 8h ago
+👁️ 206 • 👍 9 • 💬 2 • ⏱️ 5:32 • 9h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 ONE VOICE CHOIR GHANA
 
-👁️ 18K • 👍 1K • 💬 1 • ⏱️ 2:44:05 • 4h ago
+👁️ 18K • 👍 1K • 💬 1 • ⏱️ 2:44:05 • 5h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN BTC ПРОГНОЗ СЕГОДНЯ: BlackRock меняет правила
 
 📺 HODL
 
-👁️ 3K • 👍 414 • 💬 73 • ⏱️ 17:20 • 5h ago
+👁️ 3K • 👍 414 • 💬 73 • ⏱️ 17:20 • 6h ago
 
 ---
 
@@ -326,7 +326,7 @@ Ethereum vient de publier la roadmap la plus ambitieuse de toute son histoire. 7
 
 📺 Hasheur
 
-👁️ 23K • 👍 2K • 💬 161 • ⏱️ 16:31 • 7h ago
+👁️ 23K • 👍 2K • 💬 161 • ⏱️ 16:31 • 8h ago
 
 ---
 

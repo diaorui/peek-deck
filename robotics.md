@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T18:40:44.671459+00:00'
+updated: '2026-03-15T19:28:31.156880+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 18:40 UTC  
+**Last Updated:** March 15, 2026 at 19:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 LATENT
 
-🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 56m ago
+🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 1h ago
 
 ---
 
@@ -66,7 +66,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Hey , everyone I’m a 3rd year Robotics & Automation Engineering student looking to build a serious project that could help me land internships at robotics startups, defense/aerospace organizations, or logistics companies like Amazon. Whenever I search for robotics project ideas, I mostly see the same things — line following robots, obstacle avoidance, pick-and-place arms, or SLAM navigation. I’ve already seen or worked on these, so I’m looking for something more unique and meaningful rather than projects that are repeated everywhere. My current skill set includes ROS2, Gazebo, and RViz for simulation pipelines, Python for scripting and ROS nodes, PCB design for custom electronics, and Fusion 360 for mechanical design and 3D printing. I also work with ESP32 and Raspberry Pi, and I have some experience integrating AI agent tools like MCP. Because of this, I’m comfortable working across the full robotics stack — mechanical design, electronics, embedded systems, and software. What I’m hoping to build is a niche robotics project that solves a real-world problem, preferably related to defense, space, manufacturing, or logistics. I’m particularly interested in areas like multi-robot systems, edge robotics, or AI-driven robotic systems that could actually stand out to recruiters or researchers. Ultimately helping me to get an internship. If you work in robotics or research, I’d really appreciate hearing what kind of project you think would genuinely stand out or solve a real problem in the field. Thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hey , everyone I’m a 3rd year Robotics & Automation Engineering student lookin
 
 I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
 
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 56m ago
+🔗 [GitHub](https://github.com/Robertleoj/slamd) • 1h ago
 
 ---
 
@@ -94,7 +94,7 @@ I work in robotics, and need to do a lot of 3D visualization. But none of the av
 
 Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot learning, and world models for robotics. Recently I came across the AGIBOT World Challenge, which will have its finals at ICRA 2026 in Vienna, and I'm considering participating. Rather than doing it alone, I thought it might be interesting to form a small team with people who enjoy building robotics systems and experimenting with new ideas. From what I understand, the challenge focuses on embodied intelligence, especially things like: • reasoning → action loops • world models for robotics • perception → planning → action pipelines • sim-to-real transfer The finals will be run on real robots at ICRA 2026, and the challenge also provides a simulation platform and datasets for training and testing. Some of the directions I’m personally interested in exploring: • robot learning policies • integrating foundation models with robot planning • world models for prediction and control • simulation-to-real transfer If anyone here is also working on embodied AI, robot learning, or robotics systems, it would be great to exchange ideas or potentially form a small team. Feel free to reply here, send a DM, or email me directly: [Seatrain.liang@gmail.com](mailto:Seatrain.liang@gmail.com) Also curious to hear how people here are approaching embodied AI systems for robotics lately.
 
-21h ago
+22h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot lear
 
 Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 topics directly to the Rerun viewer for real-time visualization. What it does Speaks DDS and Zenoh natively — it's not a ROS 2 node, so no colcon build, no rclcpp, no ROS 2 install needed 53 built-in type mappings (images, pointclouds, TF, poses, laser scans, odometry, etc.) Custom message mappings via JSON5 config — map any ROS 2 type to Rerun archetypes without writing code URDF loading with full TF tree visualization Per-topic diagnostics (Hz, bandwidth, drops, latency) Topic filtering with glob patterns Getting Started sh curl -fsSL https://rewire.run/install.sh | sh rewire record -a That's it — two commands and you're visualizing your ROS 2 system in Rerun. Works on Linux (x86_64, aarch64) and macOS (Intel + Apple Silicon). Single binary, pure Rust. Website: https://rewire.run Feel free to ask anything!
 
-19h ago
+20h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hey everyone, I'm sharing Rewire — a standalone tool that streams live ROS 2 t
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 18h ago
+Electrek • 19h ago
 
 ---
 
@@ -130,7 +130,7 @@ CNBC • 1d ago
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
 
-Popular Science • 1d ago
+Popular Science • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 2K • 👍 199 • 💬 36 • ⏱️ 7:53 • 5h ago
+👁️ 2K • 👍 199 • 💬 36 • ⏱️ 7:53 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 16K • 👍 124 • 💬 35 • ⏱️ 3:48 • 5d ago
+👁️ 16K • 👍 124 • 💬 35 • ⏱️ 3:48 • 6d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T18:40:44.662303+00:00'
+updated: '2026-03-15T19:28:31.147710+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 18:40 UTC  
+**Last Updated:** March 15, 2026 at 19:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
-10h ago
+11h ago
 
 ---
 
@@ -107,7 +107,7 @@ Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-8h ago
+9h ago
 
 ---
 
@@ -115,7 +115,7 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 Holding satoshis in self custody is not just about getting "fabulously wealthy"' though that can happen maybe not for you but your progeny. Its about opting out of the system that has kept us serfs for 100s of years and has been doing nothing but tighting the yolk around our necks for decade after decade. To many people accept this position to the point where even when there is a means of cessation, of liberation in the palm of their hands, they dont take it. They stay sheep. They stay yolked, they accept it because their father, and their fathers father accepted it and have taken the role of serf with pride. They get in line and and point out and ridicule the dessenters, all while they follow the herd and are led like sheep to ther slaughter. I will not consent. I will opt out and guide my chilldren into freedom and liberate them from this corrupt system of control, by stacking sats and saving on the blockchain. I will take part in an act of non violent civil disobedience and protect my energy and time in a way that saves it from being debased, used for war and profits only a privileged few. Its a corrupt and evil system that wants us to stay weak and bent over, eyes drawn down to the ground and never looking up to the light of the sun. SATYAGRAHA!
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ Holding satoshis in self custody is not just about getting "fabulously wealthy"'
 
 Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm already used to the roller coaster ride - but only in small amounts. I’m firmly convinced that now is the right time to invest a significant amount of money for the long term, provided you can hold onto it for a long time. But a little voice in the back of my head keeps telling me, “That’s unreasonable,” “That’s not enough diversification,” “Bitcoin could keep falling indefinitely,” and so on. Do you guys know what I mean? I’d bet that Bitcoin will be higher in the next 5–10 years than it is now. It would be silly not to jump in now, if you can afford it. So my question is: how do you calm that voice? Any experience?
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm alrea
 
 The days have grown long, the nights longer, and my bones carry the weight of decades. I wander through memories like faded rooms, each one echoing with what I thought I’d build, what I thought I’d become. There’s a quiet question I carry now: a lifetime spent chasing, striving, hoping, and yet, when I look back, the shelves are bare, the gardens untended, the roads I thought I paved dissolved into dust and shadow. How did it all go so wrong Help me Bitcoin, you're my only hope
 
-5h ago
+6h ago
 
 ---
 
@@ -143,7 +143,7 @@ The days have grown long, the nights longer, and my bones carry the weight of de
 
 **[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -155,7 +155,7 @@ The days have grown long, the nights longer, and my bones carry the weight of de
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 1d ago
 
 The crypto market peaked in October 2025, but a $19 billion liquidation cascade on October 10 kicked off the selloff that’s still playing out today. Bitcoin (CRYPTO: BTC) hit $126,000 before the October crash and sits around $71,000 today—down by 44%. XRP (CRYPTO: XRP) topped out at $3.65 in July 2025 and was trading around ... XRP vs Bitcoin: Which Crypto Gives More Returns With $5,000 by December 2026?
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 3h ago
 
 Bitcoin is outperforming equities and gold since the Middle East conflict began, as institutional inflows return while broader market sentiment remains cautious.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Polymarket • 1h ago
 
 **[Bitcoin: Strategy and ETF demand provide 6% weekly lift amid regional conflict](https://www.investing.com/news/cryptocurrency-news/bitcoin-strategy-and-etf-demand-provide-6-weekly-lift-amid-regional-conflict-4561542)**
 
-Investing.com • 9h ago
+Investing.com • 10h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bloomberg.com • 2d ago
 
 We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100K in 2026. Four said yes, and only one said no. Here's why.
 
-24/7 Wall St. • 5h ago
+24/7 Wall St. • 6h ago
 
 ---
 
@@ -235,7 +235,7 @@ Financial Times • 2d ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 17 • 💬 0 • 4d ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 17 • 💬 0 • 5d ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -301,7 +301,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
 
 ---
 
@@ -315,7 +315,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 1K • 💬 133 • ⏱️ 1:15:12 • 22h ago
+👁️ 31K • 👍 1K • 💬 133 • ⏱️ 1:15:12 • 23h ago
 
 ---
 
@@ -395,7 +395,7 @@ The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device tha
 
 📺 How Much?
 
-👁️ 3K • 👍 53 • 💬 5 • ⏱️ 0:34 • 19h ago
+👁️ 3K • 👍 53 • 💬 5 • ⏱️ 0:34 • 20h ago
 
 ---
 
