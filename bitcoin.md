@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T19:51:35.481867+00:00'
+updated: '2026-03-15T20:31:41.041077+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 19:51 UTC  
+**Last Updated:** March 15, 2026 at 20:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1435.95B
+**Market Cap:** $1429.60B
 Rank #1
 
-**Circulating Supply:** 20,002,471 BTC
+**Circulating Supply:** 20,002,493 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.1%
+-43.3%
 
 **All-Time Low:** $67.81
-+105766.4%
++105349.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 51m ago
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 1h ago
 
 ---
 
 **[The life of a Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1rumrk4/the_life_of_a_bitcoiner/)**
 
-40m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Will other cyptos surge as well? Or will it be higher than 1m usd?
 
-11h ago
+12h ago
 
 ---
 
@@ -119,13 +119,13 @@ Will other cyptos surge as well? Or will it be higher than 1m usd?
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-9h ago
+10h ago
 
 ---
 
 **[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Eq
 
 Holding satoshis in self custody is not just about getting "fabulously wealthy"' though that can happen maybe not for you but your progeny. Its about opting out of the system that has kept us serfs for 100s of years and has been doing nothing but tighting the yolk around our necks for decade after decade. To many people accept this position to the point where even when there is a means of cessation, of liberation in the palm of their hands, they dont take it. They stay sheep. They stay yolked, they accept it because their father, and their fathers father accepted it and have taken the role of serf with pride. They get in line and and point out and ridicule the dessenters, all while they follow the herd and are led like sheep to ther slaughter. I will not consent. I will opt out and guide my chilldren into freedom and liberate them from this corrupt system of control, by stacking sats and saving on the blockchain. I will take part in an act of non violent civil disobedience and protect my energy and time in a way that saves it from being debased, used for war and profits only a privileged few. Its a corrupt and evil system that wants us to stay weak and bent over, eyes drawn down to the ground and never looking up to the light of the sun. SATYAGRAHA!
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ Holding satoshis in self custody is not just about getting "fabulously wealthy"'
 
 Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm already used to the roller coaster ride - but only in small amounts. I’m firmly convinced that now is the right time to invest a significant amount of money for the long term, provided you can hold onto it for a long time. But a little voice in the back of my head keeps telling me, “That’s unreasonable,” “That’s not enough diversification,” “Bitcoin could keep falling indefinitely,” and so on. Do you guys know what I mean? I’d bet that Bitcoin will be higher in the next 5–10 years than it is now. It would be silly not to jump in now, if you can afford it. So my question is: how do you calm that voice? Any experience?
 
-4h ago
+5h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hi everyone, I’ve been investing in Bitcoin for a few years now, and I'm alrea
 
 Each escalation in the Iran conflict has been larger than the last, but each bitcoin drawdown has been getting smaller.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 1d ago
 
 The crypto market peaked in October 2025, but a $19 billion liquidation cascade on October 10 kicked off the selloff that’s still playing out today. Bitcoin (CRYPTO: BTC) hit $126,000 before the October crash and sits around $71,000 today—down by 44%. XRP (CRYPTO: XRP) topped out at $3.65 in July 2025 and was trading around ... XRP vs Bitcoin: Which Crypto Gives More Returns With $5,000 by December 2026?
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -177,13 +177,13 @@ Yahoo Finance • 1h ago
 
 These assets will help you to layer either safety or some risk into your portfolio.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
 **[Bitcoin: Strategy and ETF demand provide 6% weekly lift amid regional conflict](https://www.investing.com/news/cryptocurrency-news/bitcoin-strategy-and-etf-demand-provide-6-weekly-lift-amid-regional-conflict-4561542)**
 
-Investing.com • 10h ago
+Investing.com • 11h ago
 
 ---
 
@@ -205,7 +205,7 @@ Polymarket • 4h ago
 
 Bitcoin’s recent price action may be showing its first signs of relief as a closely watched indicator tied to US demand has just changed direction. The Coinbase Premium Gap has moved back into positive territory following nearly 10 weeks of persistent negative readings, a stretch that coincided wit…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -313,7 +313,17 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 1K • 💬 133 • ⏱️ 1:15:12 • 23h ago
+👁️ 34K • 👍 1K • 💬 111 • ⏱️ 1:15:12 • 1d ago
+
+---
+
+**[BITCOIN TO $35K? THE BEARS ARE COMPLETELY LOSING IT!](https://www.youtube.com/watch?v=qaNwMiqRYd0)**
+
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+
+📺 Adam Livingston
+
+👁️ 2K • 👍 353 • 💬 81 • ⏱️ 20:55 • 2h ago
 
 ---
 
@@ -323,17 +333,17 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 33K • 👍 2K • 💬 176 • ⏱️ 12:14 • 2d ago
+👁️ 33K • 👍 2K • 💬 162 • ⏱️ 12:14 • 2d ago
 
 ---
 
-**[The Next Bitcoin Bull Run Could Start In A Crisis](https://www.youtube.com/watch?v=Gb75HhiAYtA)**
+**[Everyone Thinks the Bitcoin Cycle Is Dead… They&#39;re Wrong | Benjamin Cowen](https://www.youtube.com/watch?v=7cW2PCPA8kY)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Join me for an exclusive after party and get 10% off of your Bitcoin Vegas tickets when you use my code: MARKMOSS at: ...
 
-📺 Anthony Pompliano
+📺 Market Disruptors Podcast
 
-👁️ 54K • 👍 2K • 💬 64 • ⏱️ 46:42 • 1d ago
+👁️ 9K • 👍 539 • 💬 95 • ⏱️ 57:48 • 1d ago
 
 ---
 
@@ -343,7 +353,17 @@ The U.S. just revealed the uncomfortable truth about the system. The government 
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 139 • ⏱️ 14:33 • 1d ago
+👁️ 31K • 👍 2K • 💬 98 • ⏱️ 14:33 • 1d ago
+
+---
+
+**[Bitcoin Back to $10K &amp; Altcoins to ZERO?! | Mike McGlone](https://www.youtube.com/watch?v=m4xgMn8P43A)**
+
+Mike McGlone warns that the current market cycle could resemble 2008, with wealth creation reversing and crypto acting as a ...
+
+📺 Cointelegraph
+
+👁️ 435 • 👍 3 • 💬 3 • ⏱️ 0:29 • 1h ago
 
 ---
 
@@ -353,27 +373,7 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 103K • 👍 5K • 💬 748 • ⏱️ 18:10 • 2d ago
-
----
-
-**[Bitcoin Waiting For The Fed — $80K or $60K Next](https://www.youtube.com/watch?v=mMvvp0cjbcE)**
-
-Bitcoin is waiting for the Federal Reserve's next interest rate decision, and the outcome could determine whether BTC breaks ...
-
-📺 Mystery Market Vault
-
-👁️ 6K • 👍 172 • 💬 94 • ⏱️ 21:05 • 1d ago
-
----
-
-**[Crypto Holders → MASSIVE NEWS!](https://www.youtube.com/watch?v=MkcdRQRxahY)**
-
-Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 213 • ⏱️ 13:31 • 1d ago
+👁️ 105K • 👍 5K • 💬 754 • ⏱️ 18:10 • 2d ago
 
 ---
 
@@ -383,27 +383,27 @@ The stock market is bleeding, Gold and Silver are breaking down, but the crypto 
 
 📺 Gareth Soloway
 
-👁️ 55K • 👍 4K • 💬 393 • ⏱️ 9:50 • 2d ago
+👁️ 57K • 👍 4K • 💬 361 • ⏱️ 9:50 • 2d ago
 
 ---
 
-**[The Best Bitcoin Miner Ever: THE GOLD NUGGET!⭐](https://www.youtube.com/watch?v=WGCNhaRkSM0)**
+**[Bitcoin’s Infinite Money Glitch](https://www.youtube.com/watch?v=-2tQIo7Gd9U)**
 
-The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device that lets you generate fresh 'lottery tickets' every 10 ...
+Saylor's Bitcoin money glitch explained. Don't ignore this! Join the Inner Circle for exclusive content and updates ...
 
-📺 How Much?
+📺 Lark Davis
 
-👁️ 3K • 👍 53 • 💬 5 • ⏱️ 0:34 • 20h ago
+👁️ 5K • 👍 418 • 💬 39 • ⏱️ 9:27 • 4h ago
 
 ---
 
-**[FORGET WALL ST: How the Biggest Bitcoin Attack Is Coming From Within!](https://www.youtube.com/watch?v=UdUY0ol6HVk)**
+**[Crypto Holders → MASSIVE NEWS!](https://www.youtube.com/watch?v=MkcdRQRxahY)**
 
-A major fight over Bitcoin is happening on Capitol Hill and most people have no idea. Coinbase lobbyists are reportedly pushing ...
+Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 205 • ⏱️ 14:10 • 1d ago
+👁️ 44K • 👍 2K • 💬 135 • ⏱️ 13:31 • 1d ago
 
 ---
 

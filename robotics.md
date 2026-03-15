@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T19:51:35.489943+00:00'
+updated: '2026-03-15T20:31:41.050452+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 19:51 UTC  
+**Last Updated:** March 15, 2026 at 20:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Hey , everyone I’m a 3rd year Robotics & Automation Engineering student looking to build a serious project that could help me land internships at robotics startups, defense/aerospace organizations, or logistics companies like Amazon. Whenever I search for robotics project ideas, I mostly see the same things — line following robots, obstacle avoidance, pick-and-place arms, or SLAM navigation. I’ve already seen or worked on these, so I’m looking for something more unique and meaningful rather than projects that are repeated everywhere. My current skill set includes ROS2, Gazebo, and RViz for simulation pipelines, Python for scripting and ROS nodes, PCB design for custom electronics, and Fusion 360 for mechanical design and 3D printing. I also work with ESP32 and Raspberry Pi, and I have some experience integrating AI agent tools like MCP. Because of this, I’m comfortable working across the full robotics stack — mechanical design, electronics, embedded systems, and software. What I’m hoping to build is a niche robotics project that solves a real-world problem, preferably related to defense, space, manufacturing, or logistics. I’m particularly interested in areas like multi-robot systems, edge robotics, or AI-driven robotic systems that could actually stand out to recruiters or researchers. Ultimately helping me to get an internship. If you work in robotics or research, I’d really appreciate hearing what kind of project you think would genuinely stand out or solve a real problem in the field. Thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ I work in robotics, and need to do a lot of 3D visualization. But none of the av
 
 salut à tous, J’ai retiré plusieurs servomoteurs Feetech STS3215 de leur boîte pour mon projet de bras robot, mais maintenant je n’arrive plus à les identifier pour savoir lequel correspond à quel gear ratio (C001, C044, C046, etc.). Je souhaite les identifier de manière fiable sans ouvrir les servomoteurs et sans les endommager. Est-ce que quelqu’un a déjà rencontré ce problème et pourrait me conseiller sur une méthode sûre, que ce soit via logiciel, commandes série, ou tout autre moyen fiable ? Merci d’avance pour vos conseils ! 🙏
 
-53m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ salut à tous, J’ai retiré plusieurs servomoteurs Feetech STS3215 de leur bo�
 
 Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot learning, and world models for robotics. Recently I came across the AGIBOT World Challenge, which will have its finals at ICRA 2026 in Vienna, and I'm considering participating. Rather than doing it alone, I thought it might be interesting to form a small team with people who enjoy building robotics systems and experimenting with new ideas. From what I understand, the challenge focuses on embodied intelligence, especially things like: • reasoning → action loops • world models for robotics • perception → planning → action pipelines • sim-to-real transfer The finals will be run on real robots at ICRA 2026, and the challenge also provides a simulation platform and datasets for training and testing. Some of the directions I’m personally interested in exploring: • robot learning policies • integrating foundation models with robot planning • world models for prediction and control • simulation-to-real transfer If anyone here is also working on embodied AI, robot learning, or robotics systems, it would be great to exchange ideas or potentially form a small team. Feel free to reply here, send a DM, or email me directly: [Seatrain.liang@gmail.com](mailto:Seatrain.liang@gmail.com) Also curious to hear how people here are approaching embodied AI systems for robotics lately.
 
-22h ago
+23h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi everyone, I'm a robotics engineer currently exploring embodied AI, robot lear
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 19h ago
+Electrek • 20h ago
 
 ---
 
@@ -136,7 +136,7 @@ Popular Science • 2d ago
 
 **[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqde4gu0V1PePzO_G7NxQ6__Pw5YK8tM9UydUBy6DsFpatgEmB-FIHUg&gaa_ts=69b71135&gaa_sig=Lb-LuTr5FQORwF66UEFQeCk6PKQVhMDFv22rwWFm5BSdaWfKAh5nkgPh7kfILVuz78ImDKXItiOpoZke2OiZRg%3D%3D)**
 
-WSJ • 2h ago
+WSJ • 3h ago
 
 ---
 
@@ -152,7 +152,7 @@ NPR • 2d ago
 
 13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton.
 
-13wham.com • 19h ago
+13wham.com • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ Quanta Magazine • 2d ago
 
 Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 18h ago
 
 In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
 
-Ukrinform • 1d ago
+Ukrinform • 2d ago
 
 ---
 
@@ -192,33 +192,23 @@ BBC • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
-
-QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
-
-📺 Just Josh
-
-👁️ 2K • 👍 199 • 💬 36 • ⏱️ 7:53 • 6h ago
-
----
-
 **[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
 
 Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
 
 📺 Brighter with Herbert
 
-👁️ 49K • 👍 2K • 💬 238 • ⏱️ 49:45 • 1d ago
+👁️ 53K • 👍 2K • 💬 246 • ⏱️ 49:45 • 1d ago
 
 ---
 
-**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
+**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
 
-OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
+QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
 
-📺 AI Revolution
+📺 Just Josh
 
-👁️ 74K • 👍 2K • 💬 104 • ⏱️ 14:51 • 6d ago
+👁️ 3K • 👍 260 • 💬 46 • ⏱️ 7:53 • 7h ago
 
 ---
 
@@ -228,7 +218,17 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 24K • 👍 90 • 💬 37 • ⏱️ 2:38 • 3d ago
+👁️ 24K • 👍 93 • 💬 37 • ⏱️ 2:38 • 3d ago
+
+---
+
+**[New OpenClaw Robot Feels Shockingly Aware (Detonated Skynet)](https://www.youtube.com/watch?v=LBYiSAj10aA)**
+
+OpenClaw just demonstrated a system that lets robots build a persistent memory of the real world. Instead of only navigating a ...
+
+📺 AI Revolution
+
+👁️ 75K • 👍 2K • 💬 104 • ⏱️ 14:51 • 6d ago
 
 ---
 
@@ -248,7 +248,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 15K • 👍 212 • 💬 82 • ⏱️ 4:52 • 3d ago
+👁️ 15K • 👍 213 • 💬 82 • ⏱️ 4:52 • 3d ago
 
 ---
 
@@ -258,7 +258,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 16K • 👍 124 • 💬 35 • ⏱️ 3:48 • 6d ago
+👁️ 16K • 👍 125 • 💬 35 • ⏱️ 3:48 • 6d ago
 
 ---
 
@@ -272,23 +272,21 @@ Figure demos world leading autonomous cleaning capabilities with its 03 humanoid
 
 ---
 
-**[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
-
-Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
-
-📺 Vizuara
-
-👁️ 464K • 👍 48 • 💬 10 • ⏱️ 5:34 • 4d ago
-
----
-
 **[Craft a one-of-a-kind custom 3d case for your robot.😏 #3dprinting #large3dprinter #machine](https://www.youtube.com/watch?v=jYto7fpHJlg)**
 
 dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Email: sales@dowell3dprinter.xyz ▷Filament: ...
 
 📺 DOWELL3D PRINTER
 
-👁️ 18K • 👍 222 • 💬 2 • ⏱️ 0:17 • 1d ago
+👁️ 19K • 👍 235 • 💬 2 • ⏱️ 0:17 • 1d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=-19bMOpB5WY)**
+
+📺 Robot Julie 
+
+👁️ 16K • 👍 129 • 💬 1 • ⏱️ 0:24 • 2d ago
 
 ---
 

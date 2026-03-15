@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-15T19:51:35.474273+00:00'
+updated: '2026-03-15T20:31:41.032429+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - repositories
 - social
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 15, 2026 at 19:51 UTC  
+**Last Updated:** March 15, 2026 at 20:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Google Maps Just Got a Massive AI Upgrade](https://www.reddit.com/r/artificial/comments/1rughk5/google_maps_just_got_a_massive_ai_upgrade/)**
 
-🔗 [aitoolinsight.com](https://aitoolinsight.com/google-maps-update-ai-navigation-features/) • 4h ago
+🔗 [aitoolinsight.com](https://aitoolinsight.com/google-maps-update-ai-navigation-features/) • 5h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Robot soldiers are now operating in Ukraine's combat zones as the Phantom MK-1 humanoids mark the arrival of autonomous warfare technology.
 
-🔗 [Yahoo News](https://www.yahoo.com/news/articles/robot-soldiers-hit-battlefield-ukraine-151832952.html) • 2h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/articles/robot-soldiers-hit-battlefield-ukraine-151832952.html) • 3h ago
 
 ---
 
@@ -77,7 +77,7 @@ I am sharing a structural audit of a localized, hyper-stable semantic state spac
 
 Tencent's QClaw puts OpenClaw AI agents inside WeChat, QQ. With 135K exposed instances globally, here's what enterprises need to know about the agent wave
 
-🔗 [beam.ai](https://beam.ai/agentic-insights/tencent-launches-qclaw-what-the-ai-agent-mainstream-moment-means-for-enterprise) • 7h ago
+🔗 [beam.ai](https://beam.ai/agentic-insights/tencent-launches-qclaw-what-the-ai-agent-mainstream-moment-means-for-enterprise) • 8h ago
 
 ---
 
@@ -85,7 +85,7 @@ Tencent's QClaw puts OpenClaw AI agents inside WeChat, QQ. With 135K exposed ins
 
 Seedance 2.0 by ByteDance: Is this the moment AI video finally gets serious? ByteDance just released Seedance 2.0: - Native 2K resolution output - Lip-synced dialogue (baked in, not post-processed) - Reference-based camera movement (feed it a clip, it matches the cinematography) The reference-based camera control is the piece that makes it actually usable for production work, not just showcase clips. Where does this land relative to Sora, Kling, and Runway Gen-3? Does ByteDance's distribution advantage (TikTok, CapCut) change the adoption curve here?
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ Claude will certainly read statements made by Anthropic founder Dario Amodei whi
 
 For the past two years, most discussions about AI in software have focused on code generation. That is the wrong layer to focus on. Coding is the visible surface. The real leverage is in coordination, planning, prioritization, and information synthesis across large systems. Ironically, those are precisely the responsibilities assigned to engineering management. And those are exactly the kinds of problems modern LLM agents are unusually good at. The uncomfortable reality of modern engineering management In large software organizations today: An engineering manager rarely understands the full codebase. A manager rarely understands all the architectural tradeoffs across services. A manager cannot track every dependency, ticket, CI failure, PR discussion, and operational incident. What managers actually do is approximate the system state through partial signals: Jira tickets standups sprint reports Slack conversations incident reviews dashboards This is a lossy human compression pipeline. The system is too large for any single human to truly understand. LLM agents are structurally better at this layer An LLM agent can ingest and reason across: the entire codebase commit history pull requests test failures production metrics incident logs architecture documentation issue trackers Slack discussions This is precisely the kind of cross-context synthesis that autonomous AI agents are designed for. They can interpret large volumes of information, adapt to new inputs, and plan actions toward a defined objective. Modern multi-agent frameworks already model software teams as specialized agents such as planner, coder, debugger, and reviewer that collaborate to complete development tasks. Once this structure exists, the coordination layer becomes machine solvable. What an “AI engineering manager” actually looks like An agent operating at the management layer could continuously: System awareness build a live dependency graph of the entire codebase track architectural drift identify ownership gaps across services Work planning convert product requirements into technical task graphs assign tasks based on developer expertise estimate risk and complexity automatically Operational management correlate incidents with recent commits predict failure points before deployment prioritize technical debt based on runtime impact Team coordination summarize PR discussions generate sprint plans detect blockers automatically This is fundamentally a data processing problem. Humans are weak at this scale of context. LLMs are not. Why developers and architects still remain Even in a highly automated stack, three human roles remain essential: Developers They implement, validate, and refine system behavior. AI can write code, but domain understanding and responsibility still require humans. Architects They define system boundaries, invariants, and long-term technical direction. Architecture is not just pattern selection. It is tradeoff management under uncertainty. Product owners They anchor development to real-world user needs and business goals. Agents can optimize execution, but not define meaning. What disappears first The roles most vulnerable are coordination-heavy roles that exist primarily because information is fragmented. Examples: engineering managers project managers scrum masters delivery managers Their core function is aggregation and communication. That is exactly what LLM agents automate. The deeper shift Software teams historically looked like this: Product → Managers → Developers → Code The emerging structure is closer to: Product → Architect → AI Agents → Developers Where agents handle: planning coordination execution orchestration monitoring Humans focus on intent and system design. Final thought Engineering management existed because the system complexity exceeded human coordination capacity. LLM agents remove that constraint. When a machine can read the entire codebase, every ticket, every log line, every commit, and every design document simultaneously, the coordination layer stops needing humans.
 
-9h ago
+10h ago
 
 ---
 
@@ -121,7 +121,7 @@ For the past two years, most discussions about AI in software have focused on co
 
 From Gaza to Iran, the pattern is the same: precision weapons, chosen blindness, and dead children. The cost of failing to regulate AI warfare is already too high
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fortune • 1h ago
 
 ‘I did it for the people,’ says Farbod Mehr, of song drawing lyrics from the work of revolutionary 20th-century poet Aref Qazvini
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Motley Fool • 3h ago
 
 Professions earning more than $100,000 a year had the worst average score (6.7), while the those earning less than $35,000 had the lowest exposure (3.4).
 
-Fortune • 25m ago
+Fortune • 1h ago
 
 ---
 
@@ -175,13 +175,13 @@ Fortune • 25m ago
 
 Pyongyang’s operatives deploy chatbots to undertake tasks, often in multiple roles
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
 **[The AI Boom Has Exploded the San Francisco Housing Market](https://www.wsj.com/economy/housing/san-francisco-housing-market-ai-8c4e3f59?gaa_at=eafs&gaa_n=AWEtsqf7H0yrpMvi-GB14EOCORNKw0yYqaUEA3kBgXwiUgYzY4CDFz_AtF-z&gaa_ts=69b71130&gaa_sig=mvDUInwAnHPjkzP-9YIg9XDxMjh-BwBFbNHEWtxFYImXLNoiL2E0LR6tfxvssJd-y_pNpis9R9__9DggR5yslA%3D%3D)**
 
-WSJ • 1h ago
+WSJ • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ WSJ • 1h ago
 
 ﻿Our answer cannot just be that everyone becomes a plumber.
 
-Vox • 7h ago
+Vox • 8h ago
 
 ---
 
@@ -231,7 +231,7 @@ Tesla and SpaceX managers sent in to review work as billionaire’s start-up str
 
 Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?
 
-⬆️ 341 • 💬 272 • 11h ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+⬆️ 341 • 💬 272 • 12h ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 
 ---
 
@@ -239,7 +239,7 @@ Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretati
 
 Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creating an account on GitHub.
 
-⬆️ 322 • 💬 299 • 9h ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+⬆️ 322 • 💬 299 • 10h ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 
 ---
 
@@ -255,7 +255,7 @@ TL;DR: AI-assisted coding is revealing a split among developers that was always 
 
 Airbus is working at full throttle to offer the German Air Force an operational Uncrewed Collaborative Combat Aircraft (UCCA) system by 2029.
 
-⬆️ 173 • 💬 126 • 20h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+⬆️ 173 • 💬 126 • 21h ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 
 ---
 
@@ -283,7 +283,17 @@ After 2200 Years, AI Finally Decoded the Rosetta Stone — And What It Reveals I
 
 📺 Mystery Decoded
 
-👁️ 6K • 👍 87 • 💬 11 • ⏱️ 24:21 • 1d ago
+👁️ 7K • 👍 90 • 💬 12 • ⏱️ 24:21 • 1d ago
+
+---
+
+**[Meta to Fire 20% of its Workforce? (AI Takeover)](https://www.youtube.com/watch?v=K5CxBze4BeI)**
+
+Meta is preparing for the largest layoffs in company history, potentially firing 20% of its workforce (16000 jobs). Get updated: ...
+
+📺 Mark Savant
+
+👁️ 6K • 👍 234 • 💬 83 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -293,27 +303,7 @@ China just released DuClaw, a new platform that lets anyone run OpenClaw AI agen
 
 📺 AI Revolution
 
-👁️ 33K • 👍 861 • 💬 110 • ⏱️ 14:20 • 20h ago
-
----
-
-**[10 Claude AI Skills That Will Save You 20+ Hours a Week (Full Power User Guide)](https://www.youtube.com/watch?v=ADByNXt2ouY)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *These ...
-
-📺 Julia McCoy
-
-👁️ 1K • 👍 223 • 💬 19 • ⏱️ 16:22 • 4h ago
-
----
-
-**[Stop Paying for AI Video (This All-in-One Tool Is FREE &amp; UNLIMITED)](https://www.youtube.com/watch?v=R5QiSdNQrB0)**
-
-Generate watermark-free cinematic AI videos with Higgsfield → https://higgsfield.ai/s/general-malvaai-TZHInd Grab the FREE ...
-
-📺 Malva AI
-
-👁️ 2K • 👍 118 • 💬 30 • ⏱️ 9:05 • 7h ago
+👁️ 35K • 👍 902 • 💬 113 • ⏱️ 14:20 • 21h ago
 
 ---
 
@@ -323,7 +313,27 @@ ssh terminal.shop CHECK OUT THEIR NEW PODCAST ON CASEY'S YOUTUBE: @MollyRocket A
 
 📺 The PrimeTime
 
-👁️ 94K • 👍 3K • 💬 568 • ⏱️ 42:21 • 1d ago
+👁️ 99K • 👍 3K • 💬 583 • ⏱️ 42:21 • 1d ago
+
+---
+
+**[Stop Paying for AI Video (This All-in-One Tool Is FREE &amp; UNLIMITED)](https://www.youtube.com/watch?v=R5QiSdNQrB0)**
+
+Generate watermark-free cinematic AI videos with Higgsfield → https://higgsfield.ai/s/general-malvaai-TZHInd Grab the FREE ...
+
+📺 Malva AI
+
+👁️ 3K • 👍 140 • 💬 31 • ⏱️ 9:05 • 8h ago
+
+---
+
+**[10 Claude AI Skills That Will Save You 20+ Hours a Week (Full Power User Guide)](https://www.youtube.com/watch?v=ADByNXt2ouY)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *These ...
+
+📺 Julia McCoy
+
+👁️ 3K • 👍 341 • 💬 23 • ⏱️ 16:22 • 5h ago
 
 ---
 
@@ -333,27 +343,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 82K • 👍 3K • 💬 503 • ⏱️ 3:28 • 2d ago
-
----
-
-**[Cute or Creepy? AI Fruit Babies 🍓👶 | The Strangely Satisfying AI ASMR](https://www.youtube.com/watch?v=f_gcmtfLBIk)**
-
-Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but relaxing AI world with @AI_DREAM_ASMRR.
-
-📺 AI DREAM ASMR
-
-👁️ 68K • 👍 4K • 💬 295 • ⏱️ 2:34 • 1d ago
-
----
-
-**[Digital Optimus: Elon Musk Reveals the First True AI Worker](https://www.youtube.com/watch?v=OzXqJh6yOj4)**
-
-Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and honestly? The future of work may never look ...
-
-📺 The AI Nexus
-
-👁️ 9K • 👍 333 • 💬 28 • ⏱️ 18:24 • 2d ago
+👁️ 84K • 👍 3K • 💬 509 • ⏱️ 3:28 • 2d ago
 
 ---
 
@@ -363,17 +353,27 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 76K • 👍 3K • 💬 219 • ⏱️ 33:33 • 2d ago
+👁️ 78K • 👍 3K • 💬 222 • ⏱️ 33:33 • 2d ago
 
 ---
 
-**[Justice League VS. AI](https://www.youtube.com/watch?v=2qjpBuPonmI)**
+**[Cute or Creepy? AI Fruit Babies 🍓👶 | The Strangely Satisfying AI ASMR](https://www.youtube.com/watch?v=f_gcmtfLBIk)**
 
-The Justice League face off against Lex Luthor and his greatest scheme yet, or lack there of. Lex shows off his new Artificial Luthor ...
+Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but relaxing AI world with @AI_DREAM_ASMRR.
 
-📺 Solid jj
+📺 AI DREAM ASMR
 
-👁️ 278K • 👍 36K • 💬 2K • ⏱️ 3:27 • 1d ago
+👁️ 73K • 👍 4K • 💬 297 • ⏱️ 2:34 • 1d ago
+
+---
+
+**[AI Gets Wrong Woman Arrested 1,200 Miles Away From Crime](https://www.youtube.com/watch?v=mzS7dmCUzcQ)**
+
+A facial recognition program in SD led to the arrest of an innocent woman in TN, who lost her home and more as a result of the ...
+
+📺 Steve Lehto
+
+👁️ 123K • 👍 8K • 💬 3K • ⏱️ 11:02 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 61,629 • ❤️ 701 • 7d ago
+⬇️ 61,629 • ❤️ 704 • 7d ago
 
 ---
 
@@ -401,7 +401,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 4,529 • ❤️ 442 • 4d ago
+⬇️ 4,529 • ❤️ 446 • 4d ago
 
 ---
 
@@ -413,7 +413,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 551,479 • ❤️ 618 • 3h ago
+⬇️ 551,479 • ❤️ 621 • 3h ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,964,599 • ❤️ 842 • 13d ago
+⬇️ 1,964,599 • ❤️ 844 • 13d ago
 
 ---
 
@@ -437,7 +437,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 220,810 • ❤️ 439 • 11d ago
+⬇️ 220,810 • ❤️ 442 • 11d ago
 
 ---
 
@@ -449,7 +449,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 5,659 • ❤️ 202 • 2d ago
+⬇️ 5,659 • ❤️ 207 • 2d ago
 
 ---
 
@@ -461,7 +461,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 20,858 • ❤️ 197 • 1d ago
+⬇️ 20,858 • ❤️ 199 • 1d ago
 
 ---
 
@@ -473,7 +473,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 12,801 • ❤️ 189 • 2d ago
+⬇️ 12,801 • ❤️ 192 • 2d ago
 
 ---
 
@@ -485,7 +485,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 77,440 • ❤️ 177 • 4d ago
+⬇️ 77,440 • ❤️ 179 • 4d ago
 
 ---
 
@@ -525,7 +525,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 25 • 💬 2 • ⭐ 27,475 • 6d ago
+▲ 26 • 💬 2 • ⭐ 27,475 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -565,7 +565,7 @@ A novel tokenization scheme synchronizes acoustic features with text tokens in T
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 48 • 💬 2 • ⭐ 49,874 • 10mo ago
+▲ 48 • 💬 2 • ⭐ 49,917 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -625,17 +625,15 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights](https://huggingface.co/papers/2603.12228)**
+**[OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://huggingface.co/papers/2411.11581)**
 
-*Yulu Gan, Phillip Isola*
+*Ziyi Yang, Zaibin Zhang, Zirui Zheng et al. (23 authors)*
 
-🏢 Massachusetts Institute of Technology
+OASIS is a scalable and generalizable social media simulator that models large-scale user interactions and replicates complex social phenomena across platforms.
 
-Pretraining creates a parameter distribution where task-specific experts become more densely populated in large models, enabling effective ensemble methods for post-training adaptation.
+▲ 1 • 💬 0 • ⭐ 3,220 • 16mo ago
 
-▲ 4 • 💬 2 • ⭐ 122 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.12228) • [💻 code](https://github.com/sunrainyg/RandOpt) • [🔗 project](https://thickets.mit.edu)
+[🎓 arXiv](https://arxiv.org/abs/2411.11581) • [💻 code](https://github.com/camel-ai/oasis)
 
 ---
 
@@ -649,7 +647,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 35.8k • 🔱 4.9k • 4d ago
+⭐ 36.0k • 🔱 4.9k • 4d ago
 
 ---
 
@@ -659,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.5k • 🔱 939 • 1d ago
+⭐ 20.5k • 🔱 941 • 1d ago
 
 ---
 
@@ -669,7 +667,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.8k • 🔱 1.4k • 6h ago
+⭐ 11.9k • 🔱 1.4k • 6h ago
 
 ---
 
@@ -679,7 +677,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 9.5k • 🔱 858 • 3h ago
+⭐ 9.6k • 🔱 858 • 4h ago
 
 ---
 
@@ -699,7 +697,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 7.3k • 🔱 340 • 7h ago
+⭐ 7.3k • 🔱 342 • 7h ago
 
 ---
 
@@ -709,7 +707,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.2k • 🔱 913 • 12d ago
+⭐ 7.2k • 🔱 914 • 12d ago
 
 ---
 
@@ -719,7 +717,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.3k • 🔱 748 • 23h ago
+⭐ 6.3k • 🔱 748 • 2h ago
 
 ---
 
@@ -729,17 +727,15 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 670 • 1d ago
+⭐ 3.4k • 🔱 671 • 1d ago
 
 ---
 
-**[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**
+**[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)**
 
-Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
+SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
-`agent` `ai` `coding` `lowcode` `nocode`
-
-⭐ 2.7k • 🔱 180 • 14d ago
+⭐ 2.7k • 🔱 89 • 4d ago
 
 ---
 
