@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T10:31:15.448047+00:00'
+updated: '2026-03-15T11:27:29.593446+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 10:31 UTC  
+**Last Updated:** March 15, 2026 at 11:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +6.2%  
-**30d:** +1.5%  
-**90d:** -28.6%  
-**1y:** +12.2%  
+**24h:** +2.1%  
+**7d:** +6.3%  
+**30d:** +1.6%  
+**90d:** -28.5%  
+**1y:** +12.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -81,6 +81,12 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
 4h ago
+
+---
+
+**[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
+
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 42m ago
 
 ---
 
@@ -94,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -118,7 +124,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/josefje/status/2032515970569269507
 
-22h ago
+23h ago
 
 ---
 
@@ -136,14 +142,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Daily General Discussion March 13, 2026](https://www.reddit.com/r/ethereum/comments/1rse9jy/daily_general_discussion_march_13_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,15 +150,31 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
-**[Tom Lee's BitMine Buys $10.2 Million in ETH Directly From Ethereum Foundation](https://decrypt.co/361162/tom-lees-bitmine-buys-10-million-ethereum-foundation)**
+**[Tom Lee's BitMine Buys $10.2 Million in ETH Directly From Ethereum Foundation](https://finance.yahoo.com/news/tom-lees-bitmine-buys-10-191258160.html)**
 
 The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
 
-Decrypt • 15h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Ethereum Foundation sells 5,000 ether to Tom Lee's BitMine in $10.2 million deal](https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal)**
+
+The funds will support the EF's core operations, including protocol R&D and ecosystem grants, as part of a treasury strategy to balance ETH and fiat-like assets.
+
+CoinDesk • 17h ago
+
+---
+
+**[Ethereum Price Coils Near Key Resistance: A Breakout Could Be Explosive](https://www.tradingview.com/news/newsbtc:d0ef18bc9094b:0-ethereum-price-coils-near-key-resistance-a-breakout-could-be-explosive/)**
+
+Ethereum is tightening below a critical $2,149 resistance level, building pressure as bulls and bears jockey for control. A decisive breakout above this zone could trigger strong momentum, potentially sending the price toward the next major resistance near $2,750.A Test Of The Key $2,149 Resistance…
+
+TradingView • 8h ago
 
 ---
 
@@ -172,43 +186,11 @@ Polymarket • 1d ago
 
 ---
 
-**[Ethereum Price Coils Near Key Resistance: A Breakout Could Be Explosive](https://www.tradingview.com/news/newsbtc:d0ef18bc9094b:0-ethereum-price-coils-near-key-resistance-a-breakout-could-be-explosive/)**
+**[New BlackRock Staked Ethereum Fund to Pay 82% of Rewards to Investors](https://finance.yahoo.com/news/blackrock-staked-ethereum-fund-pay-130051350.html)**
 
-Ethereum is tightening below a critical $2,149 resistance level, building pressure as bulls and bears jockey for control. A decisive breakout above this zone could trigger strong momentum, potentially sending the price toward the next major resistance near $2,750.A Test Of The Key $2,149 Resistance…
+BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
 
-TradingView • 7h ago
-
----
-
-**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
-
-XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
-
-Coinpaper • 1d ago
-
----
-
-**[Vitalik Buterin says Ethereum’s key use case is a ‘public bulletin board,’ not just smart contracts](https://www.coindesk.com/tech/2026/03/12/vitalik-buterin-says-ethereum-should-be-used-as-a-simple-digital-bulletin-board)**
-
-Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.
-
-CoinDesk • 2d ago
-
----
-
-**[Crypto News: Pepeto Announces Binance Level Exchange Update as Ethereum Price Prediction Maps Breakout to $8,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-as-ethereum-price-prediction-maps-breakout-to-8-000-1035930462)**
-
-Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
-
-markets.businessinsider.com • 7h ago
-
----
-
-**[Ethereum Foundation publishes ‘part manifesto, part constitution’ for network](https://ambcrypto.com/ethereum-foundation-publishes-part-manifesto-part-constitution-for-network/)**
-
-Ethereum Foundation has unveiled a 'EF Mandate', a new strategic roadmap and guiding principles to ensure long-term user freedom...
-
-AMBCrypto • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -220,11 +202,27 @@ The Block • 2d ago
 
 ---
 
-**[New BlackRock Staked Ethereum Fund to Pay 82% of Rewards to Investors](https://finance.yahoo.com/news/blackrock-staked-ethereum-fund-pay-130051350.html)**
+**[How BlackRock’s new staked Ethereum ETF is already raking in ‘very solid’ $16m](https://www.dlnews.com/articles/markets/blackrock-debuts-new-ethereum-etf-smashing-15m-volume/)**
 
-BlackRock's new ETHB fund launches Thursday, sharing 82% of Ethereum staking rewards with investors through monthly payments.
+BlackRock doubles down on Ethereum with new ETF debut. It is the latest move in the $14 trillion asset manager’s campaign backing Ethereum.
 
-Yahoo Finance • 2d ago
+dlnews.com • 2d ago
+
+---
+
+**[XRP Flexes Speed Power: 1,500 TPS Leaves Bitcoin and Ethereum in the Dust by Nearly 10x](https://coinpaper.com/15432/xrp-flexes-speed-power-1-500-tps-leaves-bitcoin-and-ethereum-in-the-dust-by-nearly-10x)**
+
+XRP leads blockchain speed with 1,500 TPS, nearly 10× faster than Bitcoin and Ethereum, setting a new standard for scalable digital payments.
+
+Coinpaper • 1d ago
+
+---
+
+**[Crypto News: Pepeto Announces Binance Level Exchange Update as Ethereum Price Prediction Maps Breakout to $8,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-as-ethereum-price-prediction-maps-breakout-to-8-000-1035930462)**
+
+Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
+
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -238,7 +236,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 7K • 👍 504 • 💬 122 • ⏱️ 22:03 • 11h ago
+👁️ 7K • 👍 504 • 💬 122 • ⏱️ 22:03 • 12h ago
 
 ---
 
@@ -248,7 +246,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 806 • 👍 60 • 💬 230 • ⏱️ 15:57 • 6h ago
+👁️ 806 • 👍 60 • 💬 230 • ⏱️ 15:57 • 7h ago
 
 ---
 
@@ -258,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 186 • 💬 48 • ⏱️ 12:50 • 23h ago
+👁️ 4K • 👍 186 • 💬 48 • ⏱️ 12:50 • 1d ago
 
 ---
 
@@ -268,7 +266,7 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 303 • 👍 46 • 💬 52 • ⏱️ 15:12 • 1h ago
+👁️ 303 • 👍 46 • 💬 52 • ⏱️ 15:12 • 2h ago
 
 ---
 
@@ -288,7 +286,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 3K • 👍 108 • 💬 72 • ⏱️ 9:05 • 20h ago
+👁️ 3K • 👍 108 • 💬 72 • ⏱️ 9:05 • 21h ago
 
 ---
 
@@ -298,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 147 • 💬 4 • ⏱️ 4:26 • 14h ago
+👁️ 2K • 👍 147 • 💬 4 • ⏱️ 4:26 • 15h ago
 
 ---
 
@@ -318,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 36 • 👍 3 • 💬 1 • ⏱️ 5:32 • 10m ago
+👁️ 36 • 👍 3 • 💬 1 • ⏱️ 5:32 • 1h ago
 
 ---
 
@@ -328,7 +326,7 @@ BITCOIN: It's Happening AGAIN (New Price Target)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 226 • 💬 159 • ⏱️ 15:38 • 10h ago
+👁️ 5K • 👍 226 • 💬 159 • ⏱️ 15:38 • 11h ago
 
 ---
 
