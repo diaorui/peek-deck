@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-15T17:29:06.092782+00:00'
+updated: '2026-03-15T17:55:37.871683+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 15, 2026 at 17:29 UTC  
+**Last Updated:** March 15, 2026 at 17:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-6h ago
+7h ago
 
 ---
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -112,7 +112,7 @@ Marc Raibert talks here about how expectations around robotics have changed over
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
-Electrek • 17h ago
+Electrek • 18h ago
 
 ---
 
@@ -166,7 +166,7 @@ NPR • 2d ago
 
 Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -190,23 +190,23 @@ Ukrinform • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
+
+QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
+
+📺 Just Josh
+
+👁️ 2K • 👍 199 • 💬 36 • ⏱️ 7:53 • 4h ago
+
+---
+
 **[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
 
 Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
 
 📺 Brighter with Herbert
 
-👁️ 46K • 👍 2K • 💬 212 • ⏱️ 49:45 • 22h ago
-
----
-
-**[2026 Finger Lakes Regional - Day 3](https://www.youtube.com/watch?v=IESUgr0WfvE)**
-
-2026 Finger Lakes Regional - Broadcast Day 3 https://frc-events.firstinspires.org/2026/NYRO (c) 2026 FIRST Robotics ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 14K • 👍 91 • ⏱️ 9:16:18 • 19h ago
+👁️ 49K • 👍 2K • 💬 238 • ⏱️ 49:45 • 23h ago
 
 ---
 
@@ -220,6 +220,16 @@ OpenClaw just demonstrated a system that lets robots build a persistent memory o
 
 ---
 
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
+
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
+
+📺 Reuters
+
+👁️ 24K • 👍 90 • 💬 37 • ⏱️ 2:38 • 3d ago
+
+---
+
 **[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
 
 At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
@@ -227,26 +237,6 @@ At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technol
 📺 Munro Live
 
 👁️ 7K • 👍 252 • 💬 23 • ⏱️ 8:34 • 3d ago
-
----
-
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
-
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
-
-📺 Reuters
-
-👁️ 24K • 👍 89 • 💬 36 • ⏱️ 2:38 • 3d ago
-
----
-
-**[Figure 03 Humanoid Robot Learns 8 New Autonomous AI Skills (AI NEWS)](https://www.youtube.com/watch?v=g4gBm82PVyk)**
-
-Figure demos world leading autonomous cleaning capabilities with its 03 humanoid robot, showcasing eight new abilities: ...
-
-📺 AI News
-
-👁️ 9K • 👍 235 • 💬 60 • ⏱️ 8:04 • 5d ago
 
 ---
 
@@ -260,33 +250,43 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 ---
 
-**[Craft a one-of-a-kind custom 3d case for your robot.😏 #3dprinting #large3dprinter #machine](https://www.youtube.com/watch?v=jYto7fpHJlg)**
-
-dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Email: sales@dowell3dprinter.xyz ▷Filament: ...
-
-📺 DOWELL3D PRINTER
-
-👁️ 16K • 👍 206 • 💬 2 • ⏱️ 0:17 • 1d ago
-
----
-
 **[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
 
 A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
 
 📺 DPCcars
 
-👁️ 16K • 👍 123 • 💬 32 • ⏱️ 3:48 • 5d ago
+👁️ 16K • 👍 124 • 💬 35 • ⏱️ 3:48 • 5d ago
 
 ---
 
-**[ULTIMATE HAWK is so much fun again! [War Robots]](https://www.youtube.com/watch?v=ncxMUXxqrKo)**
+**[Figure 03 Humanoid Robot Learns 8 New Autonomous AI Skills (AI NEWS)](https://www.youtube.com/watch?v=g4gBm82PVyk)**
 
-War Robots Test Server Gameplay: NEW Ultimate HAWK - WR Here's my new YouTube Channel ⁨@ManniRAID⁩ ...
+Figure demos world leading autonomous cleaning capabilities with its 03 humanoid robot, showcasing eight new abilities: ...
 
-📺 Manni-Gaming
+📺 AI News
 
-👁️ 8K • 👍 444 • 💬 66 • ⏱️ 16:19 • 1d ago
+👁️ 9K • 👍 235 • 💬 60 • ⏱️ 8:04 • 5d ago
+
+---
+
+**[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
+
+Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
+
+📺 Vizuara
+
+👁️ 464K • 👍 48 • 💬 10 • ⏱️ 5:34 • 4d ago
+
+---
+
+**[Craft a one-of-a-kind custom 3d case for your robot.😏 #3dprinting #large3dprinter #machine](https://www.youtube.com/watch?v=jYto7fpHJlg)**
+
+dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Email: sales@dowell3dprinter.xyz ▷Filament: ...
+
+📺 DOWELL3D PRINTER
+
+👁️ 18K • 👍 222 • 💬 2 • ⏱️ 0:17 • 1d ago
 
 ---
 

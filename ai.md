@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-15T17:29:06.075062+00:00'
+updated: '2026-03-15T17:55:37.853974+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 15, 2026 at 17:29 UTC  
+**Last Updated:** March 15, 2026 at 17:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,13 +47,13 @@ AI news, discussions, and developments
 
 Robot soldiers are now operating in Ukraine's combat zones as the Phantom MK-1 humanoids mark the arrival of autonomous warfare technology.
 
-🔗 [Yahoo News](https://www.yahoo.com/news/articles/robot-soldiers-hit-battlefield-ukraine-151832952.html) • 26m ago
+🔗 [Yahoo News](https://www.yahoo.com/news/articles/robot-soldiers-hit-battlefield-ukraine-151832952.html) • 52m ago
 
 ---
 
 **[Consultants Are Cashing in on the AI Boom - Tech News Briefing - WSJ Podcasts](https://www.reddit.com/r/artificial/comments/1rue9qr/consultants_are_cashing_in_on_the_ai_boom_tech/)**
 
-🔗 [wsj.com](https://www.wsj.com/podcasts/tech-news-briefing/consultants-are-cashing-in-on-the-ai-boom/e9eaf7be-171e-4e25-9faa-33d8bb2ea786?gaa_at=eafs&gaa_n=AWEtsqfdTyvWaFP8EfWuBrGOod5F9GRFcSzxcEHqOEAYwDmKE6xeFnP31JmAzsh3SsE%3D&gaa_ts=69b6b7da&gaa_sig=OPtT9zqUPeLMNc4DiaE9pndX0S1npatSl4fjzt3RjCbRWxbY64Z5j0ODyk5msYHze2XhkS1AkVFl9a8m738_5Q%3D%3D) • 3h ago
+🔗 [wsj.com](https://www.wsj.com/podcasts/tech-news-briefing/consultants-are-cashing-in-on-the-ai-boom/e9eaf7be-171e-4e25-9faa-33d8bb2ea786?gaa_at=eafs&gaa_n=AWEtsqfdTyvWaFP8EfWuBrGOod5F9GRFcSzxcEHqOEAYwDmKE6xeFnP31JmAzsh3SsE%3D&gaa_ts=69b6b7da&gaa_sig=OPtT9zqUPeLMNc4DiaE9pndX0S1npatSl4fjzt3RjCbRWxbY64Z5j0ODyk5msYHze2XhkS1AkVFl9a8m738_5Q%3D%3D) • 4h ago
 
 ---
 
@@ -61,7 +61,7 @@ Robot soldiers are now operating in Ukraine's combat zones as the Phantom MK-1 h
 
 https://img.leopedia.io/DQmTq3HHD5JNKtsr9Fiwz2RzJ4CsaCr5HUwjoS85UujqvCv/AI%20Deepfakes.png  In an era where generative ... by pichat
 
-🔗 [PeakD](https://peakd.com/@pichat/beyond-guesswork-brevis-unveils-vera-to-cryptographically-verify-media-origins-and-combat-ai-deepfakes-gfz) • 2h ago
+🔗 [PeakD](https://peakd.com/@pichat/beyond-guesswork-brevis-unveils-vera-to-cryptographically-verify-media-origins-and-combat-ai-deepfakes-gfz) • 3h ago
 
 ---
 
@@ -151,7 +151,7 @@ TechCrunch • 1d ago
 
 Letter: Instead of romanticising a pre-AI past, universities should use this moment to rethink what they actually want students to demonstrate, says Dr Nafisa Baba-Ahmed
 
-The Guardian • 35m ago
+The Guardian • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Fortune • 2d ago
 
 Tech News News: Donald Trump's AI and crypto czar and venture capitalist David Sacks has warned against the consequences if the US-Israel war on Iran continues, repor.
 
-The Times of India • 8h ago
+The Times of India • 9h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo • 1d ago
 
 It reveals a major threat to AI hyperscalers' Middle East expansion plans.
 
-The Motley Fool • 53m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -225,7 +225,7 @@ Tesla and SpaceX managers sent in to review work as billionaire’s start-up str
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 365 • 💬 477 • 1d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 365 • 💬 477 • 2d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -285,27 +285,7 @@ After 2200 Years, AI Finally Decoded the Rosetta Stone — And What It Reveals I
 
 📺 Mystery Decoded
 
-👁️ 5K • 👍 77 • 💬 11 • ⏱️ 24:21 • 1d ago
-
----
-
-**[Pomelli AI Got a Massive Update — Google’s FREE Website Scanner Does What Some Charge $2,500 For](https://www.youtube.com/watch?v=luTsnbbV3gk)**
-
-Watch the free AI Cashflow Masterclass - https://nickponte.ai/aimasterclass Here is your link to Grab my AI Fast Track Training ...
-
-📺 Nick Ponte
-
-👁️ 314 • 👍 48 • 💬 2 • ⏱️ 28:36 • 3h ago
-
----
-
-**[What&#39;s really going on with AI, Expert weighs in | TheStandup](https://www.youtube.com/watch?v=TtX3jDaZG8Y)**
-
-ssh terminal.shop CHECK OUT THEIR NEW PODCAST ON CASEY'S YOUTUBE: @MollyRocket AI researcher Dimitri joins the ...
-
-📺 The PrimeTime
-
-👁️ 89K • 👍 2K • 💬 552 • ⏱️ 42:21 • 1d ago
+👁️ 6K • 👍 87 • 💬 11 • ⏱️ 24:21 • 1d ago
 
 ---
 
@@ -315,7 +295,37 @@ China just released DuClaw, a new platform that lets anyone run OpenClaw AI agen
 
 📺 AI Revolution
 
-👁️ 30K • 👍 816 • 💬 106 • ⏱️ 14:20 • 18h ago
+👁️ 33K • 👍 861 • 💬 110 • ⏱️ 14:20 • 18h ago
+
+---
+
+**[10 Claude AI Skills That Will Save You 20+ Hours a Week (Full Power User Guide)](https://www.youtube.com/watch?v=ADByNXt2ouY)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *These ...
+
+📺 Julia McCoy
+
+👁️ 1K • 👍 223 • 💬 19 • ⏱️ 16:22 • 2h ago
+
+---
+
+**[Stop Paying for AI Video (This All-in-One Tool Is FREE &amp; UNLIMITED)](https://www.youtube.com/watch?v=R5QiSdNQrB0)**
+
+Generate watermark-free cinematic AI videos with Higgsfield → https://higgsfield.ai/s/general-malvaai-TZHInd Grab the FREE ...
+
+📺 Malva AI
+
+👁️ 2K • 👍 118 • 💬 30 • ⏱️ 9:05 • 5h ago
+
+---
+
+**[What&#39;s really going on with AI, Expert weighs in | TheStandup](https://www.youtube.com/watch?v=TtX3jDaZG8Y)**
+
+ssh terminal.shop CHECK OUT THEIR NEW PODCAST ON CASEY'S YOUTUBE: @MollyRocket AI researcher Dimitri joins the ...
+
+📺 The PrimeTime
+
+👁️ 94K • 👍 3K • 💬 568 • ⏱️ 42:21 • 1d ago
 
 ---
 
@@ -325,7 +335,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 80K • 👍 3K • 💬 496 • ⏱️ 3:28 • 1d ago
+👁️ 82K • 👍 3K • 💬 503 • ⏱️ 3:28 • 1d ago
 
 ---
 
@@ -335,17 +345,7 @@ Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but re
 
 📺 AI DREAM ASMR
 
-👁️ 56K • 👍 3K • 💬 122 • ⏱️ 2:34 • 1d ago
-
----
-
-**[AI News: They All Launched the Same Thing!](https://www.youtube.com/watch?v=syx_8UlEWlA)**
-
-Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
-
-📺 Matt Wolfe
-
-👁️ 75K • 👍 3K • 💬 212 • ⏱️ 33:33 • 2d ago
+👁️ 68K • 👍 4K • 💬 295 • ⏱️ 2:34 • 1d ago
 
 ---
 
@@ -355,27 +355,27 @@ Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and
 
 📺 The AI Nexus
 
-👁️ 9K • 👍 322 • 💬 27 • ⏱️ 18:24 • 1d ago
+👁️ 9K • 👍 333 • 💬 28 • ⏱️ 18:24 • 1d ago
 
 ---
 
-**[Why Author Michael Pollan Thinks AI Won&#39;t Be Conscious](https://www.youtube.com/watch?v=Pr6hzszrvJU)**
+**[AI News: They All Launched the Same Thing!](https://www.youtube.com/watch?v=syx_8UlEWlA)**
 
-Taken from JRE #2467 w/Michael Pollan YouTube: https://youtu.be/5QQun2pDQEs JRE on Spotify: ...
+Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
 
-📺 JRE Clips
+📺 Matt Wolfe
 
-👁️ 182K • 👍 3K • 💬 984 • ⏱️ 15:01 • 3d ago
+👁️ 76K • 👍 3K • 💬 219 • ⏱️ 33:33 • 2d ago
 
 ---
 
-**[AI Gets Wrong Woman Arrested 1,200 Miles Away From Crime](https://www.youtube.com/watch?v=mzS7dmCUzcQ)**
+**[Justice League VS. AI](https://www.youtube.com/watch?v=2qjpBuPonmI)**
 
-A facial recognition program in SD led to the arrest of an innocent woman in TN, who lost her home and more as a result of the ...
+The Justice League face off against Lex Luthor and his greatest scheme yet, or lack there of. Lex shows off his new Artificial Luthor ...
 
-📺 Steve Lehto
+📺 Solid jj
 
-👁️ 94K • 👍 7K • 💬 3K • ⏱️ 11:02 • 1d ago
+👁️ 278K • 👍 36K • 💬 2K • ⏱️ 3:27 • 22h ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 61,629 • ❤️ 690 • 7d ago
+⬇️ 61,629 • ❤️ 701 • 7d ago
 
 ---
 
@@ -403,7 +403,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 4,529 • ❤️ 439 • 4d ago
+⬇️ 4,529 • ❤️ 442 • 4d ago
 
 ---
 
@@ -415,7 +415,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 551,479 • ❤️ 615 • 10d ago
+⬇️ 551,479 • ❤️ 618 • 1h ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 1,964,599 • ❤️ 835 • 13d ago
+⬇️ 1,964,599 • ❤️ 842 • 13d ago
 
 ---
 
@@ -439,19 +439,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 220,810 • ❤️ 435 • 11d ago
-
----
-
-**[NVIDIA-Nemotron-3-Super-120B-A12B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16)**
-
-*NVIDIA*
-
-NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE architecture, supporting up to 1M tokens context. It excels at agentic workflows, long-context reasoning, and high-volume tasks like IT automation, with configurable reasoning modes.
-
-`text-generation` `123.6B`
-
-⬇️ 20,858 • ❤️ 196 • 1d ago
+⬇️ 220,810 • ❤️ 439 • 11d ago
 
 ---
 
@@ -463,7 +451,19 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 5,659 • ❤️ 195 • 2d ago
+⬇️ 5,659 • ❤️ 202 • 2d ago
+
+---
+
+**[NVIDIA-Nemotron-3-Super-120B-A12B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16)**
+
+*NVIDIA*
+
+NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE architecture, supporting up to 1M tokens context. It excels at agentic workflows, long-context reasoning, and high-volume tasks like IT automation, with configurable reasoning modes.
+
+`text-generation` `123.6B`
+
+⬇️ 20,858 • ❤️ 197 • 1d ago
 
 ---
 
@@ -475,7 +475,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 12,801 • ❤️ 183 • 1d ago
+⬇️ 12,801 • ❤️ 189 • 1d ago
 
 ---
 
@@ -487,7 +487,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 77,440 • ❤️ 175 • 4d ago
+⬇️ 77,440 • ❤️ 177 • 4d ago
 
 ---
 
@@ -499,7 +499,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 `text-generation` `4.0B`
 
-⬇️ 1,218 • ❤️ 162 • 1d ago
+⬇️ 1,218 • ❤️ 163 • 1d ago
 
 ---
 
@@ -527,7 +527,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 25 • 💬 2 • ⭐ 27,314 • 6d ago
+▲ 25 • 💬 2 • ⭐ 27,475 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -541,7 +541,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 93 • 💬 3 • ⭐ 2,786 • 5d ago
+▲ 94 • 💬 3 • ⭐ 2,786 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -579,7 +579,7 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 22 • 💬 1 • ⭐ 32,156 • 14mo ago
+▲ 23 • 💬 1 • ⭐ 32,156 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -621,7 +621,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 120 • 💬 8 • ⭐ 72,303 • 5mo ago
+▲ 120 • 💬 8 • ⭐ 72,334 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -651,7 +651,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 35.5k • 🔱 4.9k • 4d ago
+⭐ 35.8k • 🔱 4.9k • 4d ago
 
 ---
 
@@ -661,7 +661,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.5k • 🔱 938 • 1d ago
+⭐ 20.5k • 🔱 939 • 1d ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 11.8k • 🔱 1.4k • 3h ago
+⭐ 11.8k • 🔱 1.4k • 4h ago
 
 ---
 
@@ -681,7 +681,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 9.5k • 🔱 852 • 10d ago
+⭐ 9.5k • 🔱 858 • 1h ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.3k • 🔱 672 • 3h ago
+⭐ 9.3k • 🔱 673 • 4h ago
 
 ---
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 7.3k • 🔱 334 • 4h ago
+⭐ 7.3k • 🔱 340 • 5h ago
 
 ---
 

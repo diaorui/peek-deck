@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T17:29:06.089539+00:00'
+updated: '2026-03-15T17:55:37.868435+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 17:29 UTC  
+**Last Updated:** March 15, 2026 at 17:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.73B
+**Market Cap:** $253.19B
 Rank #2
 
 **Circulating Supply:** 120,691,909 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.7%
+-57.4%
 
 **All-Time Low:** $0.43
-+483320.7%
++486050.6%
 
 ---
 
@@ -86,7 +86,7 @@ Vitalik Buterin recently suggested that Ethereum might need to revisit the separ
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ Coinpaper • 1d ago
 
 The world's second-most-valuable cryptocurrency has a bright future.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 2h ago
 
 Most cryptocurrencies haven't survived seven years as of yet.
 
-AOL.com • 4h ago
+AOL.com • 5h ago
 
 ---
 
@@ -222,7 +222,7 @@ AOL.com • 4h ago
 
 DUBAI, United Arab Emirates, March  15, 2026  (GLOBE NEWSWIRE) -- Growth for Mutuum Finance (MUTM) has continued, with the project recently surpas...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -230,13 +230,23 @@ markets.businessinsider.com • 3h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Bitcoin &amp; Ethereum Are About To Do Something MASSIVE! (BlackRock &amp; Arthur Hayes)](https://www.youtube.com/watch?v=bvowrmBuX-U)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 2K • 👍 124 • 💬 7 • ⏱️ 19:10 • 2h ago
+
+---
+
 **[Tom Lee: Market EMERGENCY‼️ (New Bitcoin &amp; ETH Price Prediction)](https://www.youtube.com/watch?v=DAnsx4IKhEI)**
 
 FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 91 • 💬 247 • ⏱️ 15:57 • 13h ago
+👁️ 2K • 👍 97 • 💬 246 • ⏱️ 15:57 • 13h ago
 
 ---
 
@@ -246,7 +256,7 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 1K • 👍 135 • 💬 61 • ⏱️ 15:12 • 8h ago
+👁️ 2K • 👍 150 • 💬 63 • ⏱️ 15:12 • 8h ago
 
 ---
 
@@ -256,7 +266,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 9K • 👍 649 • 💬 131 • ⏱️ 22:03 • 18h ago
+👁️ 10K • 👍 702 • 💬 134 • ⏱️ 22:03 • 18h ago
 
 ---
 
@@ -270,23 +280,23 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 ---
 
+**[BE READY FOR THIS BREAKOUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=lMNpeFl5pHo)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 206 • 👍 9 • 💬 2 • ⏱️ 5:32 • 7h ago
+
+---
+
 **[Ethereum Is A GREAT Buy - Finally! ⚠️ ETH Crypto Token Analysis](https://www.youtube.com/watch?v=7xX6BrZa-zY)**
 
 Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 193 • 💬 48 • ⏱️ 12:50 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Are About To Do Something MASSIVE! (BlackRock &amp; Arthur Hayes)](https://www.youtube.com/watch?v=bvowrmBuX-U)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 138 • 👍 10 • ⏱️ 19:10 • 2h ago
+👁️ 4K • 👍 195 • 💬 48 • ⏱️ 12:50 • 1d ago
 
 ---
 
@@ -296,37 +306,27 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 ONE VOICE CHOIR GHANA
 
-👁️ 13K • 👍 1K • ⏱️ 2:44:05 • 3h ago
+👁️ 18K • 👍 1K • 💬 1 • ⏱️ 2:44:05 • 3h ago
 
 ---
 
-**[BE READY FOR THIS BREAKOUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=lMNpeFl5pHo)**
+**[БИТКОИН ПРОГНОЗ: Ethereum и BlackRock снова влияют на рынок  криптовалют✅](https://www.youtube.com/watch?v=vCgqJfCgOm0)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BITCOIN BTC ПРОГНОЗ СЕГОДНЯ: BlackRock меняет правила игры после запуска стейкинга ETH для институционалов.
 
-📺 Cilinix Crypto
+📺 HODL
 
-👁️ 168 • 👍 8 • 💬 2 • ⏱️ 5:32 • 7h ago
-
----
-
-**[If Experts Had $1M Today… Would They Buy Ethereum or Solana?](https://www.youtube.com/watch?v=FSmdeTyAJfQ)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 117 • 💬 72 • ⏱️ 9:05 • 1d ago
+👁️ 3K • 👍 414 • 💬 73 • ⏱️ 17:20 • 4h ago
 
 ---
 
-**[Tom Lee: The 100x Opportunity EVEN Bigger Than Bitcoin (New Ethereum Prediction 2026)](https://www.youtube.com/watch?v=5J885DQMOzE)**
+**[ETH Sous-Estimé ? Sa Mise à Jour pourrait tout changer](https://www.youtube.com/watch?v=PrP3vodTgZg)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Ethereum vient de publier la roadmap la plus ambitieuse de toute son histoire. 7 mises à jour, 4 ans, un réseau transformé de ...
 
-📺 Crypto Nutshell
+📺 Hasheur
 
-👁️ 25K • 👍 804 • 💬 64 • ⏱️ 19:58 • 3d ago
+👁️ 23K • 👍 2K • 💬 161 • ⏱️ 16:31 • 6h ago
 
 ---
 

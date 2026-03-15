@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-15T17:29:06.083463+00:00'
+updated: '2026-03-15T17:55:37.862429+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 17:29 UTC  
+**Last Updated:** March 15, 2026 at 17:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1431.73B
+**Market Cap:** $1435.95B
 Rank #1
 
-**Circulating Supply:** 20,002,434 BTC
+**Circulating Supply:** 20,002,471 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.3%
+-43.1%
 
 **All-Time Low:** $67.81
-+105369.7%
++105766.4%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Im 15 and putting all my saving (1.5k) into mostly btc . Banks buy it Private Equity buy it Countries buy it Its basically a free 1.5-2x Share thougths!
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ Holding satoshis in self custody is not just about getting "fabulously wealthy"'
 
 **[The Pikachu Standard: Why Boris Johnson's Bizarre Attack on Bitcoin Exposes the Failures of Fiat. A former Prime Minister praises cardboard collectibles over decentralized hard money, ignoring the devastating 11% inflation his own government helped engineer.](https://www.reddit.com/r/Bitcoin/comments/1ru6wo3/the_pikachu_standard_why_boris_johnsons_bizarre/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 10h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-pikachu-standard-why-boris-johnsons) • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 1d ago
 
 There are strong arguments in favor of owning both of these assets.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 1h ago
 
 Bitcoin is outperforming equities and gold since the Middle East conflict began, as institutional inflows return while broader market sentiment remains cautious.
 
-CoinDesk • 39m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bloomberg.com • 2d ago
 
 We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100K in 2026. Four said yes, and only one said no. Here's why.
 
-24/7 Wall St. • 4h ago
+24/7 Wall St. • 5h ago
 
 ---
 
@@ -215,7 +215,7 @@ We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100
 
 Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 2h ago
+Polymarket • 3h ago
 
 ---
 
@@ -301,7 +301,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
 
 ---
 
@@ -315,7 +315,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 1K • 💬 130 • ⏱️ 1:15:12 • 21h ago
+👁️ 31K • 👍 1K • 💬 133 • ⏱️ 1:15:12 • 21h ago
 
 ---
 
@@ -325,27 +325,7 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 32K • 👍 2K • 💬 173 • ⏱️ 12:14 • 2d ago
-
----
-
-**[Everyone Thinks the Bitcoin Cycle Is Dead… They&#39;re Wrong | Benjamin Cowen](https://www.youtube.com/watch?v=7cW2PCPA8kY)**
-
-Join me for an exclusive after party and get 10% off of your Bitcoin Vegas tickets when you use my code: MARKMOSS at: ...
-
-📺 Market Disruptors Podcast
-
-👁️ 8K • 👍 471 • 💬 86 • ⏱️ 57:48 • 23h ago
-
----
-
-**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
-
-The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 2K • 💬 138 • ⏱️ 14:33 • 1d ago
+👁️ 33K • 👍 2K • 💬 176 • ⏱️ 12:14 • 2d ago
 
 ---
 
@@ -355,7 +335,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 53K • 👍 2K • 💬 64 • ⏱️ 46:42 • 1d ago
+👁️ 54K • 👍 2K • 💬 64 • ⏱️ 46:42 • 1d ago
+
+---
+
+**[The Government Has No Choice: Trillions Must Be Printed! (Bitcoin Wins)](https://www.youtube.com/watch?v=a1U7kz3FCn0)**
+
+The U.S. just revealed the uncomfortable truth about the system. The government is running massive deficits while geopolitical ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 139 • ⏱️ 14:33 • 1d ago
 
 ---
 
@@ -365,27 +355,17 @@ Bitcoin is holding up through war, oil shocks, banking resistance, and AI-driven
 
 📺 Swan Bitcoin
 
-👁️ 102K • 👍 5K • 💬 744 • ⏱️ 18:10 • 2d ago
+👁️ 103K • 👍 5K • 💬 748 • ⏱️ 18:10 • 2d ago
 
 ---
 
-**[The Bitcoin Shift That Will Change Markets Forever | Haider Rafique](https://www.youtube.com/watch?v=iiidQ5HEv4g)**
+**[Bitcoin Waiting For The Fed — $80K or $60K Next](https://www.youtube.com/watch?v=mMvvp0cjbcE)**
 
-Bitcoin #Crypto #Finance Will Bitcoin Survive The Shift That Will Change Markets Forever? Tokenization may be a lot closer than ...
+Bitcoin is waiting for the Federal Reserve's next interest rate decision, and the outcome could determine whether BTC breaks ...
 
-📺 The Wolf Of All Streets
+📺 Mystery Market Vault
 
-👁️ 2K • 👍 168 • 💬 129 • ⏱️ 58:23 • 4h ago
-
----
-
-**[Bitcoin Is Doing Something VERY Weird And It Might Change The Crypto Market Forever](https://www.youtube.com/watch?v=TVerC9mCedc)**
-
-Looks like Bitcoin might have more of a correlation than we originally thought. As news about Bitcoin becoming or already being ...
-
-📺 The Modern Investor
-
-👁️ 2K • 👍 365 • 💬 106 • ⏱️ 26:44 • 6h ago
+👁️ 6K • 👍 172 • 💬 94 • ⏱️ 21:05 • 1d ago
 
 ---
 
@@ -399,13 +379,33 @@ Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.
 
 ---
 
+**[BITCOIN SMART MONEY SMILES: The Breakout, The Squeeze, The Target (Plus SOL &amp; ETH Targets) 🚀](https://www.youtube.com/watch?v=7Pb-vTQSuPU)**
+
+The stock market is bleeding, Gold and Silver are breaking down, but the crypto market is completely ignoring the macro panic.
+
+📺 Gareth Soloway
+
+👁️ 55K • 👍 4K • 💬 393 • ⏱️ 9:50 • 2d ago
+
+---
+
 **[The Best Bitcoin Miner Ever: THE GOLD NUGGET!⭐](https://www.youtube.com/watch?v=WGCNhaRkSM0)**
 
 The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device that lets you generate fresh 'lottery tickets' every 10 ...
 
 📺 How Much?
 
-👁️ 3K • 👍 47 • 💬 5 • ⏱️ 0:34 • 18h ago
+👁️ 3K • 👍 53 • 💬 5 • ⏱️ 0:34 • 18h ago
+
+---
+
+**[FORGET WALL ST: How the Biggest Bitcoin Attack Is Coming From Within!](https://www.youtube.com/watch?v=UdUY0ol6HVk)**
+
+A major fight over Bitcoin is happening on Capitol Hill and most people have no idea. Coinbase lobbyists are reportedly pushing ...
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 1K • 💬 205 • ⏱️ 14:10 • 1d ago
 
 ---
 
