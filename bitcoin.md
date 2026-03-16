@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-16T17:35:05.943557+00:00'
+updated: '2026-03-16T19:03:29.070954+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 17:35 UTC  
+**Last Updated:** March 16, 2026 at 19:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,834.13
+### $74,096.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.5%  
-**7d:** +5.6%  
-**30d:** +7.3%  
-**90d:** -14.4%  
-**1y:** -12.2%  
+**24h:** +3.1%  
+**7d:** +5.8%  
+**30d:** +7.5%  
+**90d:** -14.3%  
+**1y:** -12.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1465.68B
+**Market Cap:** $1479.59B
 Rank #1
 
-**Circulating Supply:** 20,002,812 BTC
+**Circulating Supply:** 20,002,868 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.9%
+-41.4%
 
 **All-Time Low:** $67.81
-+107898.8%
++108901.6%
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 Perhaps I shouldn’t overthink it like this… but maybe I shouldn’t overthink it. Lately I’ve been reading way too many Bitcoin discussions, blogs, and forum threads, and honestly, it’s been messing with my head a bit. ​I’m a doctor working night shifts in the emergency department here in China. Every night shift, around 3 or 4 a.m., when I finally get a rare 10-minute break, my mind just spirals: Why the hell am I doing this to myself? ​You know how it is—nighttime ER in China, registration fee is only 10 RMB per patient. I see 30 people in one shift. Some are really sketchy: tattoo-covered guys, drunk as hell, coming in groups of four or five after fights, bleeding everywhere. I patch them up, heart pounding the whole time, terrified one wrong move and things go south. ​Then I sit there, exhausted, thinking: All this hard work, all this risk, and the money I earn is so damn little. Compared to my American counterparts, the pay gap is huge, but my workload and danger? Probably worse. I want to escape. I dream of getting out. But I have no capital, no savings to make the jump. That’s when Bitcoin comes into my head like a quiet lifeline. ​Every single night-shift yuan, every 10-RMB registration fee I earn by risking my neck… if I put it into Bitcoin, at least that money has a chance to hold its value. It won’t just evaporate in RMB inflation like everything else around me. My colleagues who don’t get Bitcoin, who throw their savings into Chinese stocks or real estate… when this big ship called the Chinese economy starts sinking, they’ll go down with it. But me? Maybe—just maybe—my path will look a little brighter. My future might actually have some light at the end. ​Bitcoin isn’t just an investment for me. Right now, it’s the only thing keeping my mental health from completely crumbling. It gives me a tiny sense of control, a small hope that my suffering isn’t completely pointless.
 
-4h ago
+5h ago
 
 ---
 
 **[Is "HODL forever" actually a trap we’ve set for ourselves?](https://www.reddit.com/r/Bitcoin/comments/1rvbxcu/is_hodl_forever_actually_a_trap_weve_set_for/)**
 
 Lately I’ve been thinking about the whole “never sell” mentality in crypto, and I’m starting to question whether HODLing has quietly turned into a trap for some people. We often celebrate those who have been holding since 2017 without ever selling a single coin. But it makes me wonder, what is the actual end goal? There seems to be this unspoken pressure to never take profits because nobody wants to be remembered as the person who sold too early. At the same time, I see people sitting on life-changing gains on paper while still living the exact same life they were living years ago. They keep waiting for the next moon, even though they already have more than enough profit to change things for themselves. If the purpose of investing is to eventually improve your life or give you more freedom, then at what point does holding forever stop being a smart strategy and start becoming a way to stay stuck on the sidelines? I’m genuinely curious how others balance the HODL philosophy with actually using the wealth they’ve built. Do you have a clear exit plan, or are most people just planning to hold indefinitely? I’d really like to hear how people justify never selling when the gains are already there.
+
+4h ago
+
+---
+
+**[Bottom is in ? Who cares](https://www.reddit.com/r/Bitcoin/comments/1rvex1o/bottom_is_in_who_cares/)**
+
+No one can guarantee whether we have already reached the bottom. But everyone agrees that $74,000 is not the top. So, I'm no longer trying to predict the bottom to make a few extra hypothetical percent in profit... I'm simply convinced that we will see higher prices again and I'll be there with my stack!
 
 2h ago
 
@@ -97,7 +105,7 @@ Lately I’ve been thinking about the whole “never sell” mentality in crypto
 
 PEOPLE IT WENT UP!!!
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +113,7 @@ PEOPLE IT WENT UP!!!
 
 Like clockwork.
 
-13h ago
+15h ago
 
 ---
 
@@ -113,15 +121,7 @@ Like clockwork.
 
 I believe the times ahead will be radically different from what most people have gotten used to—more like the era before 1945 than since.
 
-🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 19h ago
-
----
-
-**[Bottom is in ? Who cares](https://www.reddit.com/r/Bitcoin/comments/1rvex1o/bottom_is_in_who_cares/)**
-
-No one can guarantee whether we have already reached the bottom. But everyone agrees that $74,000 is not the top. So, I'm no longer trying to predict the bottom to make a few extra hypothetical percent in profit... I'm simply convinced that we will see higher prices again and I'll be there with my stack!
-
-45m ago
+🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 21h ago
 
 ---
 
@@ -129,7 +129,7 @@ No one can guarantee whether we have already reached the bottom. But everyone ag
 
 IMO BTC growth & adoption acceleration would be best served by converting to measuring in Satoshi. The concept of BTC being worth $70K+ isn’t something the average person can grasp. They feel priced out of BTC & “too late”. Plus something costing 0.005 BTC isn’t something most people can mathematically grasp. If we went to using Satoshi then they only costs $0.0007 ea. Now it seems extremely cheap to the average person. They can also see the massive growth potential from there. Also if items were to be sold in Satoshi a figure like 28,000 Satoshi is very easy to grasp & understand for the typical person as where 0.00028 BTC is confusing to comprehend.
 
-5h ago
+6h ago
 
 ---
 
@@ -137,7 +137,15 @@ IMO BTC growth & adoption acceleration would be best served by converting to mea
 
 Since many people seem disappointed with the price lately, how are you managing your BTC? Holding, staking, or doing something else worth sharing? Who knows, we might be interested.
 
-4h ago
+5h ago
+
+---
+
+**[$75,000,000 Crypto Wallet Bulk Hack](https://www.reddit.com/r/Bitcoin/comments/1rvbitc/75000000_crypto_wallet_bulk_hack/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=MhJoJRqJ0Wc) • 4h ago
 
 ---
 
@@ -145,13 +153,7 @@ Since many people seem disappointed with the price lately, how are you managing 
 
 I thought it already rejected 74 so why bother trying again? 😭
 
-7h ago
-
----
-
-**[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
-
-1d ago
+8h ago
 
 ---
 
@@ -161,23 +163,33 @@ I thought it already rejected 74 so why bother trying again? 😭
 
 **[Bitcoin Climbs in Asia as Other Markets Remain Tepid](https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-climbs-in-asia-as-other-markets-remain-tepid)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin’s Maturing Base Is A Bullish Signal, Analysts Say](https://bitcoinmagazine.com/markets/bitcoins-ownership-base-is-maturing)**
+**[Bitcoin in Iran Limbo as ‘Old Economy’ Assets Steal Limelight](https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-btc-in-iran-limbo-as-old-economy-assets-steal-limelight)**
 
-Bitcoin has stayed resilient through recent market turbulence as institutional investors and long-term holders continue accumulating, signaling a maturing market and strengthening its long-term outlook.
-
-Bitcoin Magazine • 17m ago
+Bloomberg.com • 8h ago
 
 ---
 
-**[Bitcoin analysts call the top on $74,000 rally as ‘short squeeze’ fizzles out](https://www.dlnews.com/articles/markets/bitcoin-analysts-call-the-top-on-74000-rally-as-short-squeeze-fizzles-out/)**
+**[5-minute and 15-minute bets on Bitcoin are the hot new thing on prediction markets](https://fortune.com/2026/03/16/betting-on-5-minute-swings-on-bitcoin-price-are-the-hot-new-thing-on-prediction-markets/)**
 
-Bitcoin's recent rally could be ending.  Many shorts were liquidated between $73,000 and $74,000. Expectations of delayed Fed interest rate cuts are also weighing on the top cryptocurrency.
+As Kalshi and Polymarket balloon in popularity, so too do quick-hit bets on crypto.
 
-dlnews.com • 1h ago
+There is a new trend in prediction markets: betting on whether Bitcoin will go up or down in the next five of fifteen minutes. On Polymarket, a five-minute wager on the price of the largest cryptocurrency has garnered more than $60 million in trading volume in a single day, according to Dune Analytics.
+
+The minute-by-minute wagers on Bitcoin highlight the relative simplicity of bets on prediction markets. As opposed to traditional sports betting, which have an array of complex numbers relating to the spread, moneyline, and total points scored, the prediction market interface has a lower barrier to entry. Users can see what percentage of their peers are voting “yes” about a certain wager and how many are voting “no”.
+
+Some 73% of users are betting that Bitcoin will go up in the next five minutes on Polymarket as of Monday at 1 PM ET. After that five minute interval is over at 1:05 PM ET, the platform has a new wager for the next five minutes of Bitcoin’s performance. Kalshi offers bets on whether Bitcoin will go up or down every fifteen minutes. About 37% of users are saying the price will go up between 1:00 PM ET and 1:15 PM ET, but that percentage is changing virtually every second as more people pour in money.
+
+These quick-hit bets reinforce how, on prediction market platforms, users can bet on practically anything. People can put money on whether the U.S. will confirm that aliens exist before 2027, which already has seen about $12 million in transaction volume, or whether Jesus Christ will return this year, which is at $45 million in transaction volume.
+
+Sports are the most popular category to wager on in prediction markets, as they comprise roughly 90% of the bets on Kalshi. Betting on culture has become increasingly popular. Over $120 million was placed on bets about last night’s Oscars on Polymarket and Kalshi, according to Forbes.
+
+Prediction markets received mainstream attention during the 2024 presidential election, when they correctly predicted Donald Trump’s victory, contrary to many national polls. The two leading platforms, Kalshi and Polymarket, are looking to raise money at a $20 billion valuation, according to The Wall Street Journal.
+
+Fortune • 9m ago
 
 ---
 
@@ -191,27 +203,29 @@ CoinDesk • 2d ago
 
 **[Saylor’s Strategy Ramps Up Sales of Preferred in Latest Bitcoin Purchase](https://www.bloomberg.com/news/articles/2026-03-16/saylor-s-strategy-ramps-up-sales-of-preferred-in-latest-bitcoin-purchase)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Strategy’s stock has soared 35% off its February low, more than doubling bitcoin’s gain](https://www.marketwatch.com/story/strategys-stock-has-soared-35-off-its-february-low-more-than-doubling-bitcoins-gain-16bcf1cb?gaa_at=eafs&gaa_n=AWEtsqdTQmGLSN2Xok3pBBeaxW6X4_J2nDb_YVUcqfWiBs5tF3gvbWHcui3l&gaa_ts=69b8427f&gaa_sig=ZNqnsWXxW3q6iFXYjy_60qt9Ox8_QDixMB5bOn5uTNku_kGbvqu-hqguFjSM67jSSatc23mPY-Ce5QzfjE46Xw%3D%3D)**
+**[Strategy Rises 5% as Bitcoin Momentum Meets the World’s Largest Corporate BTC Treasury](https://finance.yahoo.com/news/strategy-rises-5-bitcoin-momentum-181248954.html)**
 
-MarketWatch • 1h ago
+Strategy (NASDAQ:MSTR) shares are up approximately 5% in Monday trading, with the stock hitting $146.02 as of midday. The move tracks a strong week for Bitcoin (CRYPTO:BTC), which has climbed approximately 6% over the past seven days to trade around $73,948. For a company whose entire identity is built around holding Bitcoin, that kind of ... Strategy Rises 5% as Bitcoin Momentum Meets the World’s Largest Corporate BTC Treasury
 
----
-
-**[BlockFills Entities File Bankruptcy After Withdrawals Halted, Court Froze Bitcoin](https://decrypt.co/361195/blockfills-bankruptcy-withdrawals-halted-court-froze-bitcoin)**
-
-The filings come as the company faces a lawsuit alleging it commingled client crypto assets and refused to return client funds.
-
-Decrypt • 13h ago
+Yahoo Finance • 50m ago
 
 ---
 
-**[Bitcoin scam targeting elders in Murfreesboro](https://www.wkrn.com/video/bitcoin-scam-targeting-elders-in-murfreesboro/11611048/)**
+**[Bitcoin’s Maturing Base Is A Bullish Signal, Analysts Say](https://bitcoinmagazine.com/markets/bitcoins-ownership-base-is-maturing)**
 
-WKRN News 2 • 1h ago
+Bitcoin has stayed resilient through recent market turbulence as institutional investors and long-term holders continue accumulating, signaling a maturing market and strengthening its long-term outlook.
+
+Bitcoin Magazine • 1h ago
+
+---
+
+**[IREN Is Making Moves in AI and Bitcoin. Technicals Point to Strong Growth Ahead.](https://www.barrons.com/articles/iren-technicals-point-to-growth-ahead-2802e740?gaa_at=eafs&gaa_n=AWEtsqcq9WNaY8I7bMkx4svZ8zzdwt8E94GRNVEHRU4Def9uW-9aaxwfJZLU&gaa_ts=69b8576a&gaa_sig=5cmG91j-l2t0zAUon_4zdupJya1iPGpHwlviZND-ZpG-jcDkItpXrQ4W-FzS1Q70xPJ_MwIKA11DiByn7KI1wQ%3D%3D)**
+
+Barron's • 1h ago
 
 ---
 
@@ -223,11 +237,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[XRP vs Bitcoin: Which Crypto Gives More Returns With $5,000 by December 2026?](https://247wallst.com/investing/2026/03/15/xrp-vs-bitcoin-which-crypto-gives-more-returns-with-5000-by-december-2026/)**
+**[Bitcoin nears $75K as trader says BTC price squeeze 'changes nothing'](https://www.tradingview.com/news/cointelegraph:e64551dbc094b:0-bitcoin-nears-75k-as-trader-says-btc-price-squeeze-changes-nothing/)**
 
-XRP beats Bitcoin on percentage returns at every 2026 analyst target. Here's what $5,000 in XRP and Vitcoin could be worth by December 2026.
+Bitcoin BITSTAMP:BTCUSD hit $74,600 at Monday’s Wall Street open as US stocks gained on Iran war deescalation signals.Key points:BTC price rises with stocks amid oil pressureData from TradingView showed new six-week highs for Bitcoin while stocks opened up 1.5% as oil and gold fell.Geopolitical hea…
 
-24/7 Wall St. • 23h ago
+TradingView • 3h ago
 
 ---
 
@@ -239,7 +253,7 @@ XRP beats Bitcoin on percentage returns at every 2026 analyst target. Here's wha
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-⬆️ 17 • 💬 0 • 5d ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
+⬆️ 17 • 💬 0 • 6d ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
 
 ---
 
@@ -295,7 +309,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[Eliminating UI Bloat in the EraMix Financial Union Dashboard](https://news.ycombinator.com/item?id=47394092)**
 
-⬆️ 1 • 💬 0 • 15h ago
+⬆️ 1 • 💬 0 • 17h ago
 
 ---
 
@@ -303,7 +317,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Send a magic link, watch a live session replay with console and network data. Close the gap between bug reports and reality.
 
-⬆️ 1 • 💬 0 • 3h ago • [Clairvio](https://clairvio.dev/)
+⬆️ 1 • 💬 0 • 4h ago • [Clairvio](https://clairvio.dev/)
 
 ---
 
@@ -317,27 +331,7 @@ Gold vs Bitcoin is looking interesting. Check out Ledn: https://aaronbtc.com/led
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 416 • 💬 62 • ⏱️ 5:43 • 10h ago
-
----
-
-**[Bitcoin Investors...Check This Out!](https://www.youtube.com/watch?v=YdFJBZG1j2k)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRUs
-
-👁️ 16K • 👍 1K • 💬 229 • ⏱️ 7:32 • 16h ago
-
----
-
-**[The Fed Setup for Bitcoin’s Next Run](https://www.youtube.com/watch?v=oK1Azot7j9w)**
-
-Bitcoin is sitting near $69K while gold is exploding and central banks are buying hard assets. The answer is simpler than most ...
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 1K • 💬 48 • ⏱️ 17:22 • 19h ago
+👁️ 8K • 👍 462 • 💬 68 • ⏱️ 5:43 • 12h ago
 
 ---
 
@@ -347,37 +341,17 @@ Ran breaks down why Bitcoin is holding strong despite war headlines and rising o
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 925 • 💬 34 • ⏱️ 25:40 • 3h ago
+👁️ 12K • 👍 1K • 💬 57 • ⏱️ 25:40 • 4h ago
 
 ---
 
-**[Bitcoin’s Short Squeeze Just Shocked the Market!](https://www.youtube.com/watch?v=CPqLPryNBdM)**
+**[⚠️Everyone Is Wrong About This Bitcoin Rally… Here’s Why](https://www.youtube.com/watch?v=e0atDZIjm30)**
 
-Bitcoin just surged toward $73K while traders betting against it get wiped out. A Bloomberg strategist is still calling for $10K, ...
+Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro newsletter ...
 
-📺 Simply Bitcoin
+📺 DataDash
 
-👁️ 4K • 👍 573 • 💬 49 • ⏱️ 14:56 • 4h ago
-
----
-
-**[&quot;All Hell is Gonna Break Loose in Bitcoin&quot; | Insider Interview on Michael Saylor](https://www.youtube.com/watch?v=dmNhm7nW-oA)**
-
-Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: https://x.com/pete_rizzo_ BTC ...
-
-📺 Altcoin Daily
-
-👁️ 40K • 👍 2K • 💬 139 • ⏱️ 1:15:12 • 1d ago
-
----
-
-**[Bitcoin’s Close To Hitting $80K… BUT Watch Out for This!](https://www.youtube.com/watch?v=x1FVcZcba9M)**
-
-Bitcoin is pushing closer to the $80K level, but there's one major factor traders shouldn't ignore. In this episode, Sheldon breaks ...
-
-📺 Crypto Banter
-
-👁️ 7K • 👍 617 • 💬 7 • ⏱️ 17:19 • 7h ago
+👁️ 2K • 👍 154 • 💬 11 • ⏱️ 20:28 • 3h ago
 
 ---
 
@@ -387,7 +361,57 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 713 • 💬 29 • ⏱️ 48:22 • 2h ago
+👁️ 13K • 👍 906 • 💬 40 • ⏱️ 48:22 • 4h ago
+
+---
+
+**[Bitcoin Investors...Check This Out!](https://www.youtube.com/watch?v=YdFJBZG1j2k)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 17K • 👍 1K • 💬 231 • ⏱️ 7:32 • 18h ago
+
+---
+
+**[Bitcoin’s Short Squeeze Just Shocked the Market!](https://www.youtube.com/watch?v=CPqLPryNBdM)**
+
+Bitcoin just surged toward $73K while traders betting against it get wiped out. A Bloomberg strategist is still calling for $10K, ...
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 831 • 💬 68 • ⏱️ 14:56 • 6h ago
+
+---
+
+**[The Fed Setup for Bitcoin’s Next Run](https://www.youtube.com/watch?v=oK1Azot7j9w)**
+
+Bitcoin is sitting near $69K while gold is exploding and central banks are buying hard assets. The answer is simpler than most ...
+
+📺 Simply Bitcoin
+
+👁️ 16K • 👍 1K • 💬 50 • ⏱️ 17:22 • 21h ago
+
+---
+
+**[&quot;All Hell is Gonna Break Loose in Bitcoin&quot; | Insider Interview on Michael Saylor](https://www.youtube.com/watch?v=dmNhm7nW-oA)**
+
+Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: https://x.com/pete_rizzo_ BTC ...
+
+📺 Altcoin Daily
+
+👁️ 41K • 👍 2K • 💬 141 • ⏱️ 1:15:12 • 1d ago
+
+---
+
+**[BITCOIN TO $35K? THE BEARS ARE COMPLETELY LOSING IT!](https://www.youtube.com/watch?v=qaNwMiqRYd0)**
+
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+
+📺 Adam Livingston
+
+👁️ 9K • 👍 961 • 💬 212 • ⏱️ 20:55 • 1d ago
 
 ---
 
@@ -397,17 +421,7 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 220 • ⏱️ 10:40 • 20h ago
-
----
-
-**[BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=qU9GmtDlJV0)**
-
-BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 308 • 💬 266 • ⏱️ 15:59 • 15h ago
+👁️ 53K • 👍 3K • 💬 230 • ⏱️ 10:40 • 22h ago
 
 ---
 

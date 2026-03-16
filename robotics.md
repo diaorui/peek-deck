@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T17:35:05.952804+00:00'
+updated: '2026-03-16T19:03:29.078951+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 17:35 UTC  
+**Last Updated:** March 16, 2026 at 19:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
 
-7h ago
+8h ago
 
 ---
 
 **[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
 
-54m ago
+2h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LA
 
 I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
 
-5h ago
+7h ago
 
 ---
 
@@ -60,11 +60,27 @@ I built my own desktop companion with raspberry pi, respeaker lite. I built it t
 
 ---
 
+**[Building an A.I. navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 4)](https://www.reddit.com/r/robotics/comments/1rvfaor/building_an_ai_navigation_software_that_will_only/)**
+
+Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric model Tested the so called "Zero Shot" properties of VLM models with every day objects/landmarks Basic navigation commands and AI models are just the beginning/POC, more exciting things to come. Working towards shipping an API for robotics Devs that want to add intelligent navigation to their custom hardware creations. (not just off the shelf unitree robots)
+
+2h ago
+
+---
+
 **[‘No ordinary clean-up operation’: EU deploys drones and robots to remove litter from the sea floor](https://www.reddit.com/r/robotics/comments/1rv2nsv/no_ordinary_cleanup_operation_eu_deploys_drones/)**
 
 The EU-funded initiative is helping tidy up the litter-filled sea floor, and could even be used to detect hidden mines.
 
-🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 10h ago
+🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 11h ago
+
+---
+
+**[AI and Robotics could ease the impact of aging populations in Asia.](https://www.reddit.com/r/robotics/comments/1rvi3ak/ai_and_robotics_could_ease_the_impact_of_aging/)**
+
+Analysts say AI and robotics could support growth despite demographic decline.
+
+🔗 [Digital Watch Observatory](https://dig.watch/updates/ai-and-robotics-aging-population-asia) • 23m ago
 
 ---
 
@@ -72,15 +88,15 @@ The EU-funded initiative is helping tidy up the litter-filled sea floor, and cou
 
 I’m currently designing the legs so i can have the body done for a showcase event i’ll go to, i also have a order with the battery arriving and i may connect some components to it so i can test it when i have it. Also i post updates on tiktok: diy.builder and more detailed on yt: DIYmrbuilder
 
-9h ago
+10h ago
 
 ---
 
-**[Building an A.I. navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 4)](https://www.reddit.com/r/robotics/comments/1rvfaor/building_an_ai_navigation_software_that_will_only/)**
+**[For robotics developers: what feels broken in current dev kits and APIs for building real-world robot behaviors?](https://www.reddit.com/r/robotics/comments/1rviaw7/for_robotics_developers_what_feels_broken_in/)**
 
-Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric model Tested the so called "Zero Shot" properties of VLM models with every day objects/landmarks Basic navigation commands and AI models are just the beginning/POC, more exciting things to come. Working towards shipping an API for robotics Devs that want to add intelligent navigation to their custom hardware creations. (not just off the shelf unitree robots)
+Hi r/robotics, We’ve been working on a mobile robot platform and keep running into the same question: what actually makes robotics development feel harder than it should right now? A lot of tooling looks fine at a high level, but once you try to build behaviors that connect perception, decision-making, and physical action, things get messy fast. The pain points seem to show up in the gaps between layers rather than in any single component. I’m especially curious about a few things: where current robotics dev kits break down in real use what kinds of APIs actually make behavior development easier what feels too rigid when you’re trying to build systems that need to react to the physical world in a more natural way I’m not trying to pitch anything here. I’m mainly trying to understand where people feel today’s abstractions are weakest. If you’ve built robotics systems before, I’d be really interested in hearing: what frustrated you most, what you wish existed, and what a genuinely useful developer-facing framework would need to get right. If anyone’s open to chatting in more depth, feel free to DM me too.
 
-31m ago
+15m ago
 
 ---
 
@@ -89,20 +105,6 @@ Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric m
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
 1d ago
-
----
-
-**[Rodney Brooks on the reliability standard real robots have to meet](https://www.reddit.com/r/robotics/comments/1rvflil/rodney_brooks_on_the_reliability_standard_real/)**
-
-Rodney Brooks discussing the gap between robotics demos and real deployment. He points out that building a robot is one problem, but deploying one that works reliably in production is much harder. In many environments robots need reliability on the order of 99.999% uptime, because even small failure rates become unmanageable when systems scale. A robot that fails once an hour is effectively unusable. Even a robot that fails once per day becomes a problem if dozens of robots are operating at the same facility, because someone has to constantly deal with those failures. He also notes that customers usually don’t care what technology the robot uses. Whether it runs deep learning models or another approach matters less than whether it consistently improves efficiency and operates without constant intervention.
-
-21m ago
-
----
-
-**[Out with the old…](https://www.reddit.com/r/robotics/comments/1rus5wz/out_with_the_old/)**
-
-18h ago
 
 ---
 
@@ -140,9 +142,9 @@ Electrek • 1d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqddWJp7qzRL5-IK71C9KTqltW9sED-YMJwu9-ucAvG0fl7yxjrXcJW4&gaa_ts=69b842b6&gaa_sig=z8FVL3xMm4a4aJkouM2Kz3j842LekkQ7viUi1WUaS1eNdxnO7DgHKzqoTT4BfNJjNUx7wNf4MTZNEszQNuJgbA%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfP0OxckXprltdmuKKDpIR1o10CGLGCKZqkQNh6fzlw2jZ9kvobr9np&gaa_ts=69b8576e&gaa_sig=rCal1svb2WHmqEbIZsN4dPUSjwEjbvLfYmEJSxZpa_JAt_IE6VZkFfmXiMCVK38Z2wJMB0Cry2yWl0zR_y6oDw%3D%3D)**
 
-WSJ • 9h ago
+WSJ • 10h ago
 
 ---
 
@@ -150,23 +152,15 @@ WSJ • 9h ago
 
 Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
 
-Business Insider • 8h ago
+Business Insider • 9h ago
 
 ---
 
-**[Nvidia GTC: All the AI and Robotics News We Expect to Hear at Today's Keynote](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/)**
+**[Indiana students participate in state robotics competition](https://www.wthr.com/article/news/local/indiana-students-participate-in-state-vex-robotics-competition-lucas-oil-stadium/531-040f76a0-ed09-466a-b471-5476a21e4434)**
 
-Physical AI, agents, inference and more are on the table for the world's biggest company during Monday's conference kickoff.
+For many students, these competitions are where classroom lessons turn into real world skills.
 
-CNET • 47m ago
-
----
-
-**[Battlefield trial begins as Phantom MK-1 humanoid robots reach Ukraine](https://interestingengineering.com/military/humanoid-soldier-robots-arrive-in-ukraine)**
-
-US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
-
-Interesting Engineering • 7h ago
+WTHR • 1d ago
 
 ---
 
@@ -174,7 +168,15 @@ Interesting Engineering • 7h ago
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
 
-Popular Science • 2d ago
+Popular Science • 3d ago
+
+---
+
+**[Battlefield trial begins as Phantom MK-1 humanoid robots reach Ukraine](https://interestingengineering.com/military/humanoid-soldier-robots-arrive-in-ukraine)**
+
+US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
+
+Interesting Engineering • 8h ago
 
 ---
 
@@ -196,17 +198,17 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 76K • 👍 2K • 💬 278 • ⏱️ 49:45 • 1d ago
+👁️ 78K • 👍 2K • 💬 279 • ⏱️ 49:45 • 2d ago
 
 ---
 
-**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
+**[AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)](https://www.youtube.com/watch?v=ZZrR7rIIPmc)**
 
-QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
+Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2-0-airevolutionx-pekSSk Researchers in China just ...
 
-📺 Just Josh
+📺 AI Revolution
 
-👁️ 7K • 👍 432 • 💬 74 • ⏱️ 7:53 • 1d ago
+👁️ 9K • 👍 369 • 💬 32 • ⏱️ 13:18 • 18h ago
 
 ---
 
@@ -216,27 +218,27 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 24K • 👍 96 • 💬 38 • ⏱️ 2:38 • 4d ago
+👁️ 25K • 👍 99 • 💬 38 • ⏱️ 2:38 • 4d ago
 
 ---
 
-**[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
+**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
 
-A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
+QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
 
-📺 DPCcars
+📺 Just Josh
 
-👁️ 17K • 👍 129 • 💬 36 • ⏱️ 3:48 • 6d ago
+👁️ 8K • 👍 457 • 💬 77 • ⏱️ 7:53 • 1d ago
 
 ---
 
-**[Figure 03 Humanoid Robot Learns 8 New Autonomous AI Skills (AI NEWS)](https://www.youtube.com/watch?v=g4gBm82PVyk)**
+**[Powerful and Fast Shooter and Hood | 26075 Vampire Robotics | FTC Snapshot](https://www.youtube.com/watch?v=Uw3ujGunZM8)**
 
-Figure demos world leading autonomous cleaning capabilities with its 03 humanoid robot, showcasing eight new abilities: ...
+Powerful and Fast Shooter and Hood | 26075 Vampire Robotics | FTC Snapshot This video is supported by @StudicaRobotics.
 
-📺 AI News
+📺 FUN Robotics Network
 
-👁️ 9K • 👍 238 • 💬 60 • ⏱️ 8:04 • 6d ago
+👁️ 241 • 👍 5 • ⏱️ 1:11 • 2h ago
 
 ---
 
@@ -246,47 +248,47 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 44K • 👍 608 • 💬 72 • ⏱️ 14:52 • 2d ago
+👁️ 44K • 👍 615 • 💬 73 • ⏱️ 14:52 • 2d ago
 
 ---
 
-**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+**[How Not to Build a Robotics Company from your Apartment](https://www.youtube.com/watch?v=owT3wxFnZ9E)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+We show you how NOT to build a Robotics Company! ▻ Join the Discord to Build Robots with us!
 
-📺 South China Morning Post
+📺 Nick Builds
 
-👁️ 17K • 👍 217 • 💬 82 • ⏱️ 4:52 • 4d ago
-
----
-
-**[This Ecovacs Robot Saved my Lawn!](https://www.youtube.com/watch?v=gthmAIyUNKs)**
-
-Check out Ecovacs Here! https://bit.ly/4u1ZmEe #CreatedForEase #ECOVACS PLEASE SUBSCRIBE AND CHECK ...
-
-📺 DMAXRYNO
-
-👁️ 22K • 👍 2K • 💬 150 • ⏱️ 9:58 • 2d ago
+👁️ 4K • 👍 236 • 💬 58 • ⏱️ 11:52 • 2d ago
 
 ---
 
-**[Drones and robots are &#39;changing&#39; warfare: Xtend CEO](https://www.youtube.com/watch?v=EucyIHEbHUI)**
+**[This robot is built for function over form🦿👀 #trendingshorts #robotics #ai #tech](https://www.youtube.com/watch?v=5yIZUhkY_dM)**
 
-Xtend co-founder and CEO Aviv Shapira explains how technology is changing warfare as drones and robots are being ...
+Noble Machines, a robotics startup founded in 2024 by former NASA and SpaceX engineers, has emerged from stealth with its ...
 
-📺 Fox Business
+📺 Rowan Cheung
 
-👁️ 10K • 👍 232 • 💬 22 • ⏱️ 5:39 • 3d ago
+👁️ 429 • 👍 41 • 💬 4 • ⏱️ 1:26 • 31m ago
 
 ---
 
-**[ULTIMATE HAWK is so much fun again! [War Robots]](https://www.youtube.com/watch?v=ncxMUXxqrKo)**
+**[Craft a one-of-a-kind custom 3d case for your robot.😏 #3dprinting #large3dprinter #machine](https://www.youtube.com/watch?v=jYto7fpHJlg)**
 
-War Robots Test Server Gameplay: NEW Ultimate HAWK - WR Here's my new YouTube Channel ⁨@ManniRAID⁩ ...
+dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Email: sales@dowell3dprinter.xyz ▷Filament: ...
 
-📺 Manni-Gaming
+📺 DOWELL3D PRINTER
 
-👁️ 10K • 👍 514 • 💬 71 • ⏱️ 16:19 • 2d ago
+👁️ 23K • 👍 260 • 💬 3 • ⏱️ 0:17 • 2d ago
+
+---
+
+**[Figure 03 Humanoid Robot Learns 8 New Autonomous AI Skills (AI NEWS)](https://www.youtube.com/watch?v=g4gBm82PVyk)**
+
+Figure demos world leading autonomous cleaning capabilities with its 03 humanoid robot, showcasing eight new abilities: ...
+
+📺 AI News
+
+👁️ 9K • 👍 239 • 💬 60 • ⏱️ 8:04 • 6d ago
 
 ---
 

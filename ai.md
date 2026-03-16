@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-16T17:35:05.933770+00:00'
+updated: '2026-03-16T19:03:29.063506+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 16, 2026 at 17:35 UTC  
+**Last Updated:** March 16, 2026 at 19:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
 
-🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 3h ago
+🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ The massive crowdsourcing effort could use real-world to help robots deliver piz
 
 OpenAI introduced ads to ChatGPT last month, exclusive to users in the United States. Users online suspect a global rollout is coming soon.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 6h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 8h ago
 
 ---
 
@@ -57,13 +57,21 @@ OpenAI introduced ads to ChatGPT last month, exclusive to users in the United St
 
 Open source: https://github.com/htdt/godogen
 
-1h ago
+2h ago
 
 ---
 
-**[Will access to AI compute become a real competitive advantage for startups?](https://www.reddit.com/r/artificial/comments/1rv7tr5/will_access_to_ai_compute_become_a_real/)**
+**[Built an autonomous system where 5 AI models argue about geopolitical crisis outcomes: Here's what I learned about model behavior](https://www.reddit.com/r/artificial/comments/1rvhxqv/built_an_autonomous_system_where_5_ai_models/)**
 
-Lately I’ve been thinking about how AI infrastructure spending is starting to feel less like normal cloud usage and more like long-term capital investment (similar to energy or telecom sectors). Big tech companies are already locking in massive compute capacity to support AI agents and large-scale inference workloads. If this trend continues, just having reliable access to compute could become a serious competitive advantage not just a backend technical detail. It also makes me wonder if startup funding dynamics could change. In the future, investors might care not only about product and model quality, but also about whether a startup has secured long-term compute access to scale safely. Of course, there’s also the other side of the argument. Hardware innovation is moving fast, new fabs are being built, and historically GPU shortages have been cyclical. So maybe this becomes less of a problem over time. But if AI agent usage grows really fast and demand explodes, maybe compute access will matter more than we expect. Curious to hear your thoughts: If you were building an AI startup today, would you focus more on improving model capability first, or on making sure you have long-term compute independence?
+I built a pipeline where 5 AI models (Claude, GPT-4o, Gemini, Grok, DeepSeek) independently assess the probability of 30+ crisis scenarios twice daily. None of them see the others' outputs. An orchestrator synthesizes their reasoning into final projections. Some observations after 15 days of continuous operation: The models frequently disagree, sometimes by 25+ points. Grok tends to run hot on scenarios with OSINT signals. The orchestrator has to resolve these tensions every cycle. The models anchored to their own previous outputs when shown current probabilities, so I made them blind. Named rules in prompts became shortcuts the models cited instead of actually reasoning. Google Search grounding prevented source hallucination but not content hallucination, the model fabricated a $138 oil price while correctly citing Bloomberg as the source. Three active theaters: Iran, Taiwan, AGI. A Black Swan tab pulls the high-severity low-probability scenarios across all of them. devblog at /blog covers the prompt engineering insights and mistakes I've encountered along the way in detail. doomclock.app
+
+28m ago
+
+---
+
+**[I'm sorry if I'm late to the party, but is there a curated website list for AI news that are focused on actual technical news, without taking sides on any of the factions (good vs bad)?](https://www.reddit.com/r/artificial/comments/1rva00k/im_sorry_if_im_late_to_the_party_but_is_there_a/)**
+
+In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.
 
 5h ago
 
@@ -73,7 +81,7 @@ Lately I’ve been thinking about how AI infrastructure spending is starting to 
 
 I have MS, so I've never really been able to play instruments. I can't sing. So music was just something I fantasized about. I was always making songs in my head, they just never went anywhere. First I used AI to make songs for my nieces and nephews. Next I started making songs for myself. Then I got high while manic and out poured several songs. One of the songs is about being bipolar. The first one I made was for my 7 year old niece. It's bubble gum pop, that's what she likes. I was hoping my niece would be able to ask her alexa to play her song, but there is a song with a similar name which has millions of plays, so that will never happen 🙃 After that, I had to make songs for her siblings. Then I had to make songs for my brother's kids... Unfortunately I got better at it as I went so I think the last kid's song is better than the first kid's song. But they can't tell. I make little videos with them when they come over, so I'm gonna make music video's with the kids at some point so they'll always have their own custom song they can show their friends. I won't post any links, not trying to self promote, just wanted to share that this was sort of therapeutic for me. I know the tech is controversial, but I'm a fan of AI
 
-3h ago
+5h ago
 
 ---
 
@@ -81,7 +89,7 @@ I have MS, so I've never really been able to play instruments. I can't sing. So 
 
 Introducing Attention Residuals: Rethinking depth-wise aggregation. Residual connections have long relied on fixed, uniform accumulation. Inspired by the duality of time and depth, Kimi introduce Attention Residuals, replacing standard depth-wise recurrence with learned, input-dependent attention over preceding layers. Enables networks to selectively retrieve past representations, naturally mitigating dilution and hidden-state growth. Introduces Block AttnRes, partitioning layers into compressed blocks to make cross-layer attention practical at scale. Serves as an efficient drop-in replacement, demonstrating a 1.25x compute advantage with negligible (<2%) inference latency overhead. Validated on the Kimi Linear architecture (48B total, 3B activated parameters), delivering consistent downstream performance gains. Paper link: https://github.com/MoonshotAI/Attention-Residuals/blob/master/Attention_Residuals.pdf
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +97,7 @@ Introducing Attention Residuals: Rethinking depth-wise aggregation. Residual con
 
 Looking at the guidance on how people are handling this very common scenario. We are trying to see how in our company people are using these frontier models, getting team subscriptions and allow them to use by everyone has gone too far and not scalable as cost explodes. Also most importantly we need to understand the security scanning of the prompts sent to these LLMs as proprietary information or any keys or any non public data needs to be secured, I was thinking a internal proxy but there got to be more matured way as this seems a common problem that should be solved before? We have AWS Bedrock but that doesn't give me exposure to the logging of prompts sent to claude or any other ones, also the bottleneck of not supporting chatgpt is a good issue too. appreciate links, thoughts, blogs?
 
-2h ago
+3h ago
 
 ---
 
@@ -97,23 +105,15 @@ Looking at the guidance on how people are handling this very common scenario. We
 
 I want to ask something specific that came out of my auto-routing thread earlier. A lot of people said they prefer manual model selection over automation — fair enough. But that raised a question I haven't seen discussed much: When you manually switch from say ChatGPT to Claude mid-task, what actually happens to your conversation? Do you copy-paste the context across? Start fresh and re-explain everything? Or do you just not switch at all because it's too much friction? Because here's the thing — none of the major AI providers have any incentive to solve this problem. OpenAI isn't going to build a feature that seamlessly hands your conversation to Claude. Anthropic isn't going to make it easy to continue in Grok. They're competitors. The cross-model continuity problem exists precisely because no single provider can solve it. I've been building a platform where every model — GPT, Claude, Grok, Gemini, DeepSeek — shares the same conversation thread. I just tested it by asking GPT-5.2 a question about computing, then switched manually to Grok 4 and typed "anything else important." Three words. No context. Grok 4 picked up exactly where GPT-5.2 left off without missing a beat. My question for this community is genuinely whether that's a problem people actually experience. Do you find yourself wanting to switch models mid-task but not doing it because of the context loss? Or do most people just pick one model and stay there regardless? Trying to understand whether cross-model continuity is a real pain point or just something that sounds useful in theory.
 
+7h ago
+
+---
+
+**[Will access to AI compute become a real competitive advantage for startups?](https://www.reddit.com/r/artificial/comments/1rv7tr5/will_access_to_ai_compute_become_a_real/)**
+
+Lately I’ve been thinking about how AI infrastructure spending is starting to feel less like normal cloud usage and more like long-term capital investment (similar to energy or telecom sectors). Big tech companies are already locking in massive compute capacity to support AI agents and large-scale inference workloads. If this trend continues, just having reliable access to compute could become a serious competitive advantage not just a backend technical detail. It also makes me wonder if startup funding dynamics could change. In the future, investors might care not only about product and model quality, but also about whether a startup has secured long-term compute access to scale safely. Of course, there’s also the other side of the argument. Hardware innovation is moving fast, new fabs are being built, and historically GPU shortages have been cyclical. So maybe this becomes less of a problem over time. But if AI agent usage grows really fast and demand explodes, maybe compute access will matter more than we expect. Curious to hear your thoughts: If you were building an AI startup today, would you focus more on improving model capability first, or on making sure you have long-term compute independence?
+
 6h ago
-
----
-
-**[The bottleneck flipped: AI made execution fast and exposed everything around it that isn't](https://www.reddit.com/r/artificial/comments/1rusgb2/the_bottleneck_flipped_ai_made_execution_fast_and/)**
-
-I've been tracking AI-driven layoffs for the past few months and something doesn't add up. Block cut 4,000 people (40% of workforce). Atlassian cut 1,600. Shopify told employees to prove AI can't do their job before asking for headcount. The script is always the same: CEO cites AI, stock ticks up. But then you look at the numbers. S&P Global found 42% of companies abandoned their AI initiatives in 2025, up from 17% the year before. A separate survey found 55% of CEOs who fired people "because of AI" already regret it. Klarna bragged AI could replace 700 employees, then quietly started hiring humans back when quality tanked. What I keep seeing across the research is that AI compressed execution speed dramatically; prototyping that took weeks now takes hours. But the coordination layer (approval chains, quarterly planning, review cycles) didn't speed up at all. The bottleneck flipped from "can we build it fast enough" to "does leadership know what to build and can they keep up with the teams building it." Companies are cutting the people who got faster while leaving the layer that didn't speed up intact. Monday.com is an interesting counter-example. Lost 80% of market value, automated 100 SDRs with AI, but redeployed them instead of firing them. Their CEO's reasoning: "Every time we eliminate one bottleneck, a new one emerges." I pulled together ten independent sources on this — engineers, economists, survey data, executives — and wrote it up here if anyone wants the full analysis with sources: https://news.future-shock.ai/ai-didnt-replace-workers-it-outran-their-managers/ Curious if anyone else is seeing this pattern in their orgs. Is the management layer adapting or just cutting headcount and calling it an AI strategy?
-
-18h ago
-
----
-
-**[I'm sorry if I'm late to the party, but is there a curated website list for AI news that are focused on actual technical news, without taking sides on any of the factions (good vs bad)?](https://www.reddit.com/r/artificial/comments/1rva00k/im_sorry_if_im_late_to_the_party_but_is_there_a/)**
-
-In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.
-
-3h ago
 
 ---
 
@@ -121,77 +121,77 @@ In other words, some trustworthy links that you can read on daily/weekly basis t
 
 ## Google News: "ai"
 
+**[Is this product 'human-made'? The race to establish an AI-free logo](https://www.bbc.com/news/articles/cj0d6el50ppo)**
+
+The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.
+
+BBC • 18h ago
+
+---
+
+**[See which jobs are most threatened by AI and who may be able to adapt](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/)**
+
+Look up which jobs are most at risk from artificial intelligence and who is most likely to be able to adapt, according to a new analysis.
+
+The Washington Post • 3h ago
+
+---
+
+**[Meta Just Signed a $27 Billion Artificial Intelligence (AI) Deal With This Under-the-Radar Stock. Is Nebius a Buy for 2026?](https://finance.yahoo.com/news/meta-just-signed-27-billion-161504458.html)**
+
+Meta is tapping the neocloud operator for AI processing capacity.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[Nebius jumps 14% after company inks $27 billion infrastructure deal with Meta](https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html)**
 
 Meta is planning capital expenditure of up to $135 billion related to AI this year.
 
-CNBC • 6h ago
-
----
-
-**[Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years](https://finance.yahoo.com/news/nebius-signs-ai-capacity-deal-100907987.html)**
-
-Amsterdam-based AI infrastructure firm Nebius Group said on Monday it has agreed with ‌Meta Platforms to provide the social media giant with $12 billion worth ‌of AI computing capacity across multiple locations by 2027.  Under the agreement, Meta will also buy ​an additional $15 billion worth of capacity planned by Nebius over the coming five years if it is not sold to other customers, giving the contract a total value of up to $27 billion, Nebius said.  Last week, Nvidia said it would ‌invest $2 billion to buy an ⁠8.3% stake in Nebius, which uses Nvidia chips in its data centers.
-
-Yahoo Finance • 7h ago
+CNBC • 7h ago
 
 ---
 
 **[Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance.](https://www.investors.com/news/technology/nebius-stock-pops-meta-expanded-ai-cloud-computing-agreement/)**
 
-Investor's Business Daily • 52m ago
+Investor's Business Daily • 2h ago
 
 ---
 
-**[Google scraps AI search feature that crowdsourced amateur medical advice](https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice)**
+**[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
 
-Exclusive: Revelation comes as company faces mounting scrutiny over use of AI to provide health tips
-
-The Guardian • 2h ago
+Reuters • 2d ago
 
 ---
 
-**[How Trump Drove a Wedge Between Florida Republicans Over A.I.](https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html)**
+**[Meta stock climbs nearly 3% on report of planned layoffs to offset AI spending](https://www.cnbc.com/2026/03/16/meta-ai-costs-mass-layoffs-20percent-up-premarket.html)**
 
-The New York Times • 1h ago
+Meta is planning capital expenditure of up to $135 billion in AI-related costs in 2026, which raised investors' fears around unsustainable spending.
 
----
-
-**[Nvidia CEO set to reveal new chips and software at AI megaconference GTC](https://www.reuters.com/world/asia-pacific/nvidia-ceo-set-reveal-new-chips-software-ai-megaconference-gtc-2026-03-16/)**
-
-Reuters • 6h ago
+CNBC • 8h ago
 
 ---
 
-**[Nvidia GTC: All the AI and Robotics News We Expect to Hear at Today's Keynote](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/)**
+**[Meta’s AI push could trigger 20% layoffs of its workforce](https://www.usatoday.com/story/tech/news/2026/03/16/meta-layoffs-20-percent-ai-spending/89183496007/)**
 
-Physical AI, agents, inference and more are on the table for the world's biggest company during Monday's conference kickoff.
+Meta may cut up to 20% of its workforce as it doubles down on AI spending, a shift that could boost earnings but reshape the company.
 
-CNET • 47m ago
-
----
-
-**[Google Cloud AI infrastructure at NVIDIA GTC 2026](https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026)**
-
-At NVIDIA GTC 2026, we showcased co-engineered AI infrastructure that technology leaders need to scale their agentic AI workloads.
-
-Google Cloud • 1h ago
+USA Today • 12m ago
 
 ---
 
-**[March Madness bracket: AI picks every women's NCAA Tournament game](https://www.usatoday.com/story/sports/ncaaw/2026/03/16/march-madness-bracket-ai-picks-predictions-ncaa-tournament-uconn-women/89179803007/)**
+**[Why Bigger Isn’t Always Better in AI](https://www.bloomberg.com/opinion/articles/2026-03-16/why-bigger-isn-t-always-better-in-ai)**
 
-AI made picks and predictions for every game in the 2026 women's March Madness bracket. Its NCAA Tournament champion would be a familiar winner.
-
-USA Today • 55m ago
+Bloomberg.com • 3m ago
 
 ---
 
-**[Is this product 'human-made'? The race to establish an AI-free logo](https://www.bbc.com/news/articles/cj0d6el50ppo)**
+**[White House and House GOP prepare to block state AI laws](https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/03/16/white-house-house-gop-prepare-block-state-ai-laws/)**
 
-The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.
+Plus: Child safety proposal may be part of AI pre-emption
 
-BBC • 17h ago
+The Washington Post • 35m ago
 
 ---
 
@@ -203,13 +203,13 @@ BBC • 17h ago
 
 Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creating an account on GitHub.
 
-⬆️ 419 • 💬 372 • 1d ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+⬆️ 422 • 💬 373 • 1d ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 
 ---
 
-**[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
+**[Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)**
 
-⬆️ 372 • 💬 486 • 2d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 365 • 💬 562 • 1d ago
 
 ---
 
@@ -217,13 +217,7 @@ Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creati
 
 Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?
 
-⬆️ 361 • 💬 292 • 1d ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
-
----
-
-**[Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)**
-
-⬆️ 356 • 💬 559 • 1d ago
+⬆️ 363 • 💬 292 • 1d ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 
 ---
 
@@ -251,21 +245,29 @@ Define, version, and run AI agents natively in git. GitAgent is the open AI agen
 
 **[Meta planning layoffs as AI costs mount](https://news.ycombinator.com/item?id=47372249)**
 
-⬆️ 104 • 💬 22 • 2d ago • [reuters.com](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)
+⬆️ 105 • 💬 22 • 2d ago • [reuters.com](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)
+
+---
+
+**[AirPods Max 2](https://news.ycombinator.com/item?id=47398681)**
+
+The ultimate over-ear listening experience — in five vibrant colors and with up to 1.5x more Active Noise Cancellation than the previous generation.
+
+⬆️ 86 • 💬 166 • 5h ago • [Apple](https://www.apple.com/airpods-max/)
 
 ---
 
 **[Tell HN: AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291)**
 
-⬆️ 78 • 💬 80 • 15h ago
+⬆️ 82 • 💬 81 • 17h ago
 
 ---
 
-**[AI Gets Wrong Woman Jailed for Six Months, Life Ruined](https://news.ycombinator.com/item?id=47378917)**
+**[Apideck CLI – An AI-agent interface with much lower context consumption than MCP](https://news.ycombinator.com/item?id=47400261)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.
 
-⬆️ 75 • 💬 26 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=mzS7dmCUzcQ)
+⬆️ 77 • 💬 81 • 3h ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 
 ---
 
@@ -279,7 +281,7 @@ What is financial freedom? The Business Strategist Daniel Priestley on why AI ma
 
 📺 The Diary Of A CEO
 
-👁️ 178K • 👍 7K • 💬 1K • ⏱️ 2:02:37 • 9h ago
+👁️ 287K • 👍 9K • 💬 2K • ⏱️ 2:02:37 • 11h ago
 
 ---
 
@@ -289,7 +291,7 @@ ssh terminal.shop CHECK OUT THEIR NEW PODCAST ON CASEY'S YOUTUBE: @MollyRocket A
 
 📺 The PrimeTime
 
-👁️ 124K • 👍 3K • 💬 661 • ⏱️ 42:21 • 2d ago
+👁️ 128K • 👍 3K • 💬 669 • ⏱️ 42:21 • 2d ago
 
 ---
 
@@ -299,7 +301,17 @@ Meta is preparing for the largest layoffs in company history, potentially firing
 
 📺 Mark Savant
 
-👁️ 8K • 👍 269 • 💬 107 • ⏱️ 15:54 • 1d ago
+👁️ 8K • 👍 273 • 💬 112 • ⏱️ 15:54 • 2d ago
+
+---
+
+**[10 Claude AI Skills That Will Save You 20+ Hours a Week (Full Power User Guide)](https://www.youtube.com/watch?v=ADByNXt2ouY)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *These ...
+
+📺 Julia McCoy
+
+👁️ 11K • 👍 627 • 💬 33 • ⏱️ 16:22 • 1d ago
 
 ---
 
@@ -309,7 +321,7 @@ Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but re
 
 📺 AI DREAM ASMR
 
-👁️ 78K • 👍 5K • 💬 367 • ⏱️ 2:34 • 2d ago
+👁️ 78K • 👍 6K • 💬 367 • ⏱️ 2:34 • 2d ago
 
 ---
 
@@ -319,27 +331,17 @@ A viral video shows Israeli Prime Minister Benjamin Netanyahu sitting in a Tel A
 
 📺 Oneindia News
 
-👁️ 9K • 👍 107 • 💬 61 • ⏱️ 3:02 • 10h ago
+👁️ 12K • 👍 121 • 💬 70 • ⏱️ 3:02 • 11h ago
 
 ---
 
-**[Digital Optimus: Elon Musk Reveals the First True AI Worker](https://www.youtube.com/watch?v=OzXqJh6yOj4)**
+**[China’s New DuClaw AI Just Made OpenClaw Instant and Unstoppable](https://www.youtube.com/watch?v=sQRLPwcK-tU)**
 
-Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and honestly? The future of work may never look ...
+China just released DuClaw, a new platform that lets anyone run OpenClaw AI agents instantly from a web browser without ...
 
-📺 The AI Nexus
+📺 AI Revolution
 
-👁️ 12K • 👍 411 • 💬 34 • ⏱️ 18:24 • 2d ago
-
----
-
-**[AI News: They All Launched the Same Thing!](https://www.youtube.com/watch?v=syx_8UlEWlA)**
-
-Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
-
-📺 Matt Wolfe
-
-👁️ 86K • 👍 3K • 💬 234 • ⏱️ 33:33 • 3d ago
+👁️ 46K • 👍 1K • 💬 123 • ⏱️ 14:20 • 1d ago
 
 ---
 
@@ -349,17 +351,7 @@ Learn more about Sparc AI (CSE: SPAI) (OTCQB: SPAIF) at https://sparcai.co There
 
 📺 BWB - Business With Brian
 
-👁️ 77K • 👍 4K • 💬 350 • ⏱️ 17:15 • 1d ago
-
----
-
-**[AI Gets Wrong Woman Arrested 1,200 Miles Away From Crime](https://www.youtube.com/watch?v=mzS7dmCUzcQ)**
-
-A facial recognition program in SD led to the arrest of an innocent woman in TN, who lost her home and more as a result of the ...
-
-📺 Steve Lehto
-
-👁️ 170K • 👍 9K • 💬 3K • ⏱️ 11:02 • 2d ago
+👁️ 84K • 👍 4K • 💬 362 • ⏱️ 17:15 • 1d ago
 
 ---
 
@@ -369,7 +361,17 @@ HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #a
 
 📺 AI Search
 
-👁️ 75K • 👍 3K • 💬 364 • ⏱️ 45:43 • 1d ago
+👁️ 77K • 👍 3K • 💬 367 • ⏱️ 45:43 • 1d ago
+
+---
+
+**[Hannah Fry: The Science Behind AI, Grief Tech &amp; Life](https://www.youtube.com/watch?v=Vr7VRHgnCiI)**
+
+Should we be worried about AI? Mathematician and presenter Hannah Fry joins Romesh to talk about her new show 'AI ...
+
+📺 The Romesh Ranganathan Show
+
+👁️ 33K • 👍 1K • 💬 150 • ⏱️ 1:03:30 • 11h ago
 
 ---
 
@@ -385,7 +387,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 5,412 • ❤️ 513 • 5d ago
+⬇️ 5,412 • ❤️ 522 • 5d ago
 
 ---
 
@@ -397,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 67,573 • ❤️ 743 • 8d ago
+⬇️ 67,573 • ❤️ 748 • 8d ago
 
 ---
 
@@ -409,7 +411,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 86,706 • ❤️ 334 • 5d ago
+⬇️ 86,706 • ❤️ 350 • 5d ago
 
 ---
 
@@ -421,7 +423,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 237,719 • ❤️ 481 • 12d ago
+⬇️ 237,719 • ❤️ 489 • 12d ago
 
 ---
 
@@ -433,19 +435,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 596,747 • ❤️ 643 • 1d ago
-
----
-
-**[Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)**
-
-*Qwen*
-
-Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient hybrid architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a unified vision-language foundation and a long context window (262k tokens natively), making it suitable for complex multimodal applications.
-
-`image-text-to-text` `9.7B`
-
-⬇️ 2,111,532 • ❤️ 865 • 14d ago
+⬇️ 596,747 • ❤️ 646 • 1d ago
 
 ---
 
@@ -457,7 +447,19 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 7,340 • ❤️ 236 • 3d ago
+⬇️ 7,340 • ❤️ 240 • 3d ago
+
+---
+
+**[Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)**
+
+*Qwen*
+
+Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient hybrid architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a unified vision-language foundation and a long context window (262k tokens natively), making it suitable for complex multimodal applications.
+
+`image-text-to-text` `9.7B`
+
+⬇️ 2,111,532 • ❤️ 870 • 14d ago
 
 ---
 
@@ -469,7 +471,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 27,263 • ❤️ 219 • 2d ago
+⬇️ 27,263 • ❤️ 220 • 2d ago
 
 ---
 
@@ -481,7 +483,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 21,467 • ❤️ 202 • 2d ago
+⬇️ 21,467 • ❤️ 204 • 2d ago
 
 ---
 
@@ -535,7 +537,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 104 • 💬 5 • ⭐ 3,071 • 6d ago
+▲ 105 • 💬 5 • ⭐ 3,186 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -553,6 +555,18 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 ---
 
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+▲ 48 • 💬 2 • ⭐ 50,052 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+
+---
+
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -562,18 +576,6 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 24 • 💬 1 • ⭐ 32,315 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 48 • 💬 2 • ⭐ 49,972 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -638,7 +640,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 37.9k • 🔱 5.2k • 5d ago
+⭐ 38.1k • 🔱 5.3k • 20m ago
 
 ---
 
@@ -648,7 +650,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.8k • 🔱 966 • 2d ago
+⭐ 20.9k • 🔱 969 • 2d ago
 
 ---
 
@@ -658,7 +660,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.2k • 🔱 1.5k • 3h ago
+⭐ 12.2k • 🔱 1.5k • 4h ago
 
 ---
 
@@ -668,7 +670,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.0k • 🔱 916 • 3h ago
+⭐ 10.1k • 🔱 917 • 4h ago
 
 ---
 
@@ -678,7 +680,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.5k • 🔱 687 • 6h ago
+⭐ 9.5k • 🔱 687 • 7h ago
 
 ---
 
@@ -688,7 +690,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 7.9k • 🔱 375 • 9h ago
+⭐ 7.9k • 🔱 375 • 10h ago
 
 ---
 
@@ -698,7 +700,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.2k • 🔱 919 • 13d ago
+⭐ 7.2k • 🔱 920 • 13d ago
 
 ---
 
@@ -708,7 +710,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.4k • 🔱 752 • 15h ago
+⭐ 6.4k • 🔱 753 • 16h ago
 
 ---
 
@@ -718,7 +720,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 3.0k • 🔱 194 • 18h ago
+⭐ 3.0k • 🔱 198 • 20h ago
 
 ---
 
@@ -726,7 +728,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
-⭐ 2.8k • 🔱 91 • 5d ago
+⭐ 2.8k • 🔱 92 • 5d ago
 
 ---
 
