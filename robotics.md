@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T13:15:39.773280+00:00'
+updated: '2026-03-16T14:44:57.897196+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 13:15 UTC  
+**Last Updated:** March 16, 2026 at 14:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
 
-3h ago
+4h ago
 
 ---
 
@@ -44,13 +44,13 @@ From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LA
 
 I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
 
-1h ago
+2h ago
 
 ---
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ I built my own desktop companion with raspberry pi, respeaker lite. I built it t
 
 The EU-funded initiative is helping tidy up the litter-filled sea floor, and could even be used to detect hidden mines.
 
-🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 6h ago
+🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 7h ago
 
 ---
 
@@ -66,7 +66,7 @@ The EU-funded initiative is helping tidy up the litter-filled sea floor, and cou
 
 I’m currently designing the legs so i can have the body done for a showcase event i’ll go to, i also have a order with the battery arriving and i may connect some components to it so i can test it when i have it. Also i post updates on tiktok: diy.builder and more detailed on yt: DIYmrbuilder
 
-4h ago
+6h ago
 
 ---
 
@@ -80,15 +80,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 **[Out with the old…](https://www.reddit.com/r/robotics/comments/1rus5wz/out_with_the_old/)**
 
-14h ago
-
----
-
-**[My first vibe coding website 🤣](https://www.reddit.com/r/robotics/comments/1rv8pka/my_first_vibe_coding_website/)**
-
-https://reddit.com/link/1rv8pka/video/s4gpbg37kepg1/player [Educational Resource][Free Project] hi, check out www.learnrobot.com. I built this to guide everyone to understand basic robotics concepts, especially for kids and parents to enjoy the learning together. I think our generation needs to become robot-savvy so we can use robots better or make them better when the next gen grows up. This is my first time vibe coding as a non-developer so please leave feedback. Thank you!🤖🤖
-
-17m ago
+16h ago
 
 ---
 
@@ -96,7 +88,7 @@ https://reddit.com/link/1rv8pka/video/s4gpbg37kepg1/player [Educational Resource
 
 Hello members of the robotics community, Dynamixel motors are excellent actuators for robotics and I believe many of you are already familia with them. We use them extensively in some large scale robotic applications. However, one of the most frustrating aspects has been flashing new Dynamixel motors. In our case, we often needed to flash them after the robot had already been assembled. Unfortunately, we couldn't integrate this process into our test architecture because the official software (Dynamixel Wizard) is proprietary, and the SDK does not provide functionality for firmware flashing. This limitation became quite frustrating, so I decided to investigate how the Dynamixel Wizard actually performs the flashing process. By setting up a sniffer, I was able to reverse engineer the logic. As a result, we can now flash Dynamixel motors directly from the terminal! I would like to give something back to the community, so I’m planning to open-source this tool. However, I’m still deciding on the best format. Possible options include: a Python package distributed via pip (I might need some help with this), or a full-featured terminal application. Before moving forward, I’d like to know if there is interest in something like this within the community?
 
-3h ago
+5h ago
 
 ---
 
@@ -104,7 +96,15 @@ Hello members of the robotics community, Dynamixel motors are excellent actuator
 
 I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
 
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 19h ago
+🔗 [GitHub](https://github.com/Robertleoj/slamd) • 21h ago
+
+---
+
+**[Hard to believe this isn't simulation - their robot plays better tennis than me](https://www.reddit.com/r/robotics/comments/1rukh8r/hard_to_believe_this_isnt_simulation_their_robot/)**
+
+LATENT
+
+🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 21h ago
 
 ---
 
@@ -112,11 +112,41 @@ I work in robotics, and need to do a lot of 3D visualization. But none of the av
 
 ## Google News: "robotics"
 
+**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
+
+The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
+
+Quanta Magazine • 3d ago
+
+---
+
 **[Humanoid robots get to work at German BMW factory [video]](https://electrek.co/2026/03/14/humanoid-robots-get-to-work-at-german-bmw-factory-video/)**
 
 After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
 
 Electrek • 1d ago
+
+---
+
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqf5KMCyNcDfaTKWQRd9leL43tDxyAy8gynX-8UUw55ZIvMgxFO2cW4A&gaa_ts=69b81ad6&gaa_sig=MfDZ7ERiJ65dUmDaw-4oLXL_PLcSHQZxSlrKNx2b4EdM9Ut3QKpqTzVbOQ2mnWpvZKHrH3-7hTYfL6AMNrTQQQ%3D%3D)**
+
+WSJ • 12h ago
+
+---
+
+**[Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs.](https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3)**
+
+Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
+
+Business Insider • 5h ago
+
+---
+
+**[Glendale robotics team headed to world championships this summer](https://www.azfamily.com/2026/03/15/glendale-robotics-team-headed-world-championships-this-summer/)**
+
+Cactus High School’s robotics team, the Cobra Commanders, is headed to the world championships in May after finishing first at a major regional competition last week.
+
+AZ Family • 23h ago
 
 ---
 
@@ -142,36 +172,6 @@ The Information • 2d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqc6_GT2iP6Hsid4l5Hx-E8YP96fmbxnrarM4h3mAzCbxEk7VT6C8x5s&gaa_ts=69b805e4&gaa_sig=XYOHcqmmi3Fl8sh-YFYUujbyj9_lr08ZA9b--xa5Hv2naqEZwJ1e3Wju81ESYTYQMedqoJl03uvNQkgwk6ao9g%3D%3D)**
-
-WSJ • 10h ago
-
----
-
-**[Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs.](https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3)**
-
-Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
-
-Business Insider • 4h ago
-
----
-
-**[How is Tesla’s pivot to robotics and AI likely to affect it going forward?](https://finance.yahoo.com/news/tesla-pivot-robotics-ai-likely-122405838.html)**
-
-Tesla has announced plans to wind down production of its Model S and Model X flagship models, with no successor programs confirmed.
-
-Yahoo Finance • 51m ago
-
----
-
-**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
-
-The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
-
-Quanta Magazine • 2d ago
-
----
-
 **[‘Pokémon Go’ players have been unknowingly training delivery robots](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
@@ -180,11 +180,11 @@ Popular Science • 2d ago
 
 ---
 
-**[Glendale robotics team headed to world championships this summer](https://www.azfamily.com/2026/03/15/glendale-robotics-team-headed-world-championships-this-summer/)**
+**[Webus International Officially rebrands as Wetour Robotics, Establishes Austin, Texas Headquarters for Physical AI and Wearable Robotics](https://finance.yahoo.com/news/webus-international-officially-rebrands-wetour-130000765.html)**
 
-Cactus High School’s robotics team, the Cobra Commanders, is headed to the world championships in May after finishing first at a major regional competition last week.
+Austin, TX, March 16, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (NASDAQ: WETO) (“Wetour Robotics” or the “Company”), formerly known as Webus International Limited, today announced that its corporate name change has officially taken effect following the issuance of a new Certificate of Incorporation by the Registrar of Companies in the Cayman Islands. Concurrently, the Company announces the establishment of its U.S. headquarters and principal research center in Austin, Texas, to develop it
 
-AZ Family • 21h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 7K • 👍 326 • 💬 27 • ⏱️ 13:18 • 12h ago
+👁️ 7K • 👍 326 • 💬 27 • ⏱️ 13:18 • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ Witness the incredible speed and precision of industrial robots as they revoluti
 
 📺 Peace Working Shorts
 
-👁️ 218K • 👍 362 • 💬 5 • ⏱️ 0:06 • 23h ago
+👁️ 218K • 👍 362 • 💬 5 • ⏱️ 0:06 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ Witness the incredible speed and precision of industrial robots as they revoluti
 
 📺 Robot Julie 
 
-👁️ 3K • 👍 25 • ⏱️ 0:24 • 12h ago
+👁️ 3K • 👍 25 • ⏱️ 0:24 • 14h ago
 
 ---
 

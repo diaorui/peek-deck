@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-16T13:15:39.754199+00:00'
+updated: '2026-03-16T14:44:57.880955+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 16, 2026 at 13:15 UTC  
+**Last Updated:** March 16, 2026 at 14:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,35 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Will access to AI compute become a real competitive advantage for startups?](https://www.reddit.com/r/artificial/comments/1rv7tr5/will_access_to_ai_compute_become_a_real/)**
-
-Lately I’ve been thinking about how AI infrastructure spending is starting to feel less like normal cloud usage and more like long-term capital investment (similar to energy or telecom sectors). Big tech companies are already locking in massive compute capacity to support AI agents and large-scale inference workloads. If this trend continues, just having reliable access to compute could become a serious competitive advantage not just a backend technical detail. It also makes me wonder if startup funding dynamics could change. In the future, investors might care not only about product and model quality, but also about whether a startup has secured long-term compute access to scale safely. Of course, there’s also the other side of the argument. Hardware innovation is moving fast, new fabs are being built, and historically GPU shortages have been cyclical. So maybe this becomes less of a problem over time. But if AI agent usage grows really fast and demand explodes, maybe compute access will matter more than we expect. Curious to hear your thoughts: If you were building an AI startup today, would you focus more on improving model capability first, or on making sure you have long-term compute independence?
-
-58m ago
-
----
-
 **[ChatGPT ads still exclusive to the United States, OpenAI says no to global rollout just yet](https://www.reddit.com/r/artificial/comments/1rv69kf/chatgpt_ads_still_exclusive_to_the_united_states/)**
 
 OpenAI introduced ads to ChatGPT last month, exclusive to users in the United States. Users online suspect a global rollout is coming soon.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 2h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 3h ago
 
 ---
 
-**[The bottleneck flipped: AI made execution fast and exposed everything around it that isn't](https://www.reddit.com/r/artificial/comments/1rusgb2/the_bottleneck_flipped_ai_made_execution_fast_and/)**
+**[Will access to AI compute become a real competitive advantage for startups?](https://www.reddit.com/r/artificial/comments/1rv7tr5/will_access_to_ai_compute_become_a_real/)**
 
-I've been tracking AI-driven layoffs for the past few months and something doesn't add up. Block cut 4,000 people (40% of workforce). Atlassian cut 1,600. Shopify told employees to prove AI can't do their job before asking for headcount. The script is always the same: CEO cites AI, stock ticks up. But then you look at the numbers. S&P Global found 42% of companies abandoned their AI initiatives in 2025, up from 17% the year before. A separate survey found 55% of CEOs who fired people "because of AI" already regret it. Klarna bragged AI could replace 700 employees, then quietly started hiring humans back when quality tanked. What I keep seeing across the research is that AI compressed execution speed dramatically; prototyping that took weeks now takes hours. But the coordination layer (approval chains, quarterly planning, review cycles) didn't speed up at all. The bottleneck flipped from "can we build it fast enough" to "does leadership know what to build and can they keep up with the teams building it." Companies are cutting the people who got faster while leaving the layer that didn't speed up intact. Monday.com is an interesting counter-example. Lost 80% of market value, automated 100 SDRs with AI, but redeployed them instead of firing them. Their CEO's reasoning: "Every time we eliminate one bottleneck, a new one emerges." I pulled together ten independent sources on this — engineers, economists, survey data, executives — and wrote it up here if anyone wants the full analysis with sources: https://news.future-shock.ai/ai-didnt-replace-workers-it-outran-their-managers/ Curious if anyone else is seeing this pattern in their orgs. Is the management layer adapting or just cutting headcount and calling it an AI strategy?
+Lately I’ve been thinking about how AI infrastructure spending is starting to feel less like normal cloud usage and more like long-term capital investment (similar to energy or telecom sectors). Big tech companies are already locking in massive compute capacity to support AI agents and large-scale inference workloads. If this trend continues, just having reliable access to compute could become a serious competitive advantage not just a backend technical detail. It also makes me wonder if startup funding dynamics could change. In the future, investors might care not only about product and model quality, but also about whether a startup has secured long-term compute access to scale safely. Of course, there’s also the other side of the argument. Hardware innovation is moving fast, new fabs are being built, and historically GPU shortages have been cyclical. So maybe this becomes less of a problem over time. But if AI agent usage grows really fast and demand explodes, maybe compute access will matter more than we expect. Curious to hear your thoughts: If you were building an AI startup today, would you focus more on improving model capability first, or on making sure you have long-term compute independence?
 
-14h ago
+2h ago
 
 ---
 
-**[Does anyone actually switch between AI models mid-conversation? And if so, what happens to your context?](https://www.reddit.com/r/artificial/comments/1rv6tfi/does_anyone_actually_switch_between_ai_models/)**
+**[‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://www.reddit.com/r/artificial/comments/1rva72t/pokémon_go_players_unknowingly_trained_delivery/)**
 
-I want to ask something specific that came out of my auto-routing thread earlier. A lot of people said they prefer manual model selection over automation — fair enough. But that raised a question I haven't seen discussed much: When you manually switch from say ChatGPT to Claude mid-task, what actually happens to your conversation? Do you copy-paste the context across? Start fresh and re-explain everything? Or do you just not switch at all because it's too much friction? Because here's the thing — none of the major AI providers have any incentive to solve this problem. OpenAI isn't going to build a feature that seamlessly hands your conversation to Claude. Anthropic isn't going to make it easy to continue in Grok. They're competitors. The cross-model continuity problem exists precisely because no single provider can solve it. I've been building a platform where every model — GPT, Claude, Grok, Gemini, DeepSeek — shares the same conversation thread. I just tested it by asking GPT-5.2 a question about computing, then switched manually to Grok 4 and typed "anything else important." Three words. No context. Grok 4 picked up exactly where GPT-5.2 left off without missing a beat. My question for this community is genuinely whether that's a problem people actually experience. Do you find yourself wanting to switch models mid-task but not doing it because of the context loss? Or do most people just pick one model and stay there regardless? Trying to understand whether cross-model continuity is a real pain point or just something that sounds useful in theory.
+The massive crowdsourcing effort could use real-world to help robots deliver pizza.
 
-1h ago
+🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 46m ago
 
 ---
 
@@ -73,13 +65,45 @@ I want to ask something specific that came out of my auto-routing thread earlier
 
 Introducing Attention Residuals: Rethinking depth-wise aggregation. Residual connections have long relied on fixed, uniform accumulation. Inspired by the duality of time and depth, Kimi introduce Attention Residuals, replacing standard depth-wise recurrence with learned, input-dependent attention over preceding layers. Enables networks to selectively retrieve past representations, naturally mitigating dilution and hidden-state growth. Introduces Block AttnRes, partitioning layers into compressed blocks to make cross-layer attention practical at scale. Serves as an efficient drop-in replacement, demonstrating a 1.25x compute advantage with negligible (<2%) inference latency overhead. Validated on the Kimi Linear architecture (48B total, 3B activated parameters), delivering consistent downstream performance gains. Paper link: https://github.com/MoonshotAI/Attention-Residuals/blob/master/Attention_Residuals.pdf
 
-1h ago
+2h ago
 
 ---
 
 **[I don't quite understand how useful AI is if conversations get long and have to be ended. Can someone help me figure out how to make this sustainable for myself? Using Claude Sonnet 4.6.](https://www.reddit.com/r/artificial/comments/1rv79uz/i_dont_quite_understand_how_useful_ai_is_if/)**
 
 First, please tell me if there's a better forum to go to for newbies. I don't want to drag anyone down with basics. I'm starting to use AI more in my personal life, but the first problem I'm encountering is the conversations gets long and have to be compacted all the time, and eventually it isn't useful because compacting takes so damn long. I also don't want to start a new conversation because, I assume, that means I lose everything learned in the last one. (Or maybe this is where I'm wrong?) For a relatively simple example like below, how would I get around this? Let's suppose I want to feed in my regular bloodwork and any other low level complexity medical results and lay out some basic things to address, like getting my cholesterol a little lower and improving my gut health. I want the AI to be a companion helping me with my weekly meal planning and grocery shopping list. Maybe I tell it how much time I have to cook each day, what meals I'm thinking about/craving, or even suggest a menu that I like. AI would help me refine it around my nutritional goals and build my weekly grocery list. Every 24 hours I will feed it basic information, like how well my guts are performing, how well I sleep, how often I feel low energy, etc. Every few months I might add new test results. How do I do this, but not lose information every time the conversation gets long?
+
+2h ago
+
+---
+
+**[I'm sorry if I'm late to the party, but is there a curated website list for AI news that are focused on actual technical news, without taking sides on any of the factions (good vs bad)?](https://www.reddit.com/r/artificial/comments/1rva00k/im_sorry_if_im_late_to_the_party_but_is_there_a/)**
+
+In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.
+
+54m ago
+
+---
+
+**[The bottleneck flipped: AI made execution fast and exposed everything around it that isn't](https://www.reddit.com/r/artificial/comments/1rusgb2/the_bottleneck_flipped_ai_made_execution_fast_and/)**
+
+I've been tracking AI-driven layoffs for the past few months and something doesn't add up. Block cut 4,000 people (40% of workforce). Atlassian cut 1,600. Shopify told employees to prove AI can't do their job before asking for headcount. The script is always the same: CEO cites AI, stock ticks up. But then you look at the numbers. S&P Global found 42% of companies abandoned their AI initiatives in 2025, up from 17% the year before. A separate survey found 55% of CEOs who fired people "because of AI" already regret it. Klarna bragged AI could replace 700 employees, then quietly started hiring humans back when quality tanked. What I keep seeing across the research is that AI compressed execution speed dramatically; prototyping that took weeks now takes hours. But the coordination layer (approval chains, quarterly planning, review cycles) didn't speed up at all. The bottleneck flipped from "can we build it fast enough" to "does leadership know what to build and can they keep up with the teams building it." Companies are cutting the people who got faster while leaving the layer that didn't speed up intact. Monday.com is an interesting counter-example. Lost 80% of market value, automated 100 SDRs with AI, but redeployed them instead of firing them. Their CEO's reasoning: "Every time we eliminate one bottleneck, a new one emerges." I pulled together ten independent sources on this — engineers, economists, survey data, executives — and wrote it up here if anyone wants the full analysis with sources: https://news.future-shock.ai/ai-didnt-replace-workers-it-outran-their-managers/ Curious if anyone else is seeing this pattern in their orgs. Is the management layer adapting or just cutting headcount and calling it an AI strategy?
+
+15h ago
+
+---
+
+**[Does anyone actually switch between AI models mid-conversation? And if so, what happens to your context?](https://www.reddit.com/r/artificial/comments/1rv6tfi/does_anyone_actually_switch_between_ai_models/)**
+
+I want to ask something specific that came out of my auto-routing thread earlier. A lot of people said they prefer manual model selection over automation — fair enough. But that raised a question I haven't seen discussed much: When you manually switch from say ChatGPT to Claude mid-task, what actually happens to your conversation? Do you copy-paste the context across? Start fresh and re-explain everything? Or do you just not switch at all because it's too much friction? Because here's the thing — none of the major AI providers have any incentive to solve this problem. OpenAI isn't going to build a feature that seamlessly hands your conversation to Claude. Anthropic isn't going to make it easy to continue in Grok. They're competitors. The cross-model continuity problem exists precisely because no single provider can solve it. I've been building a platform where every model — GPT, Claude, Grok, Gemini, DeepSeek — shares the same conversation thread. I just tested it by asking GPT-5.2 a question about computing, then switched manually to Grok 4 and typed "anything else important." Three words. No context. Grok 4 picked up exactly where GPT-5.2 left off without missing a beat. My question for this community is genuinely whether that's a problem people actually experience. Do you find yourself wanting to switch models mid-task but not doing it because of the context loss? Or do most people just pick one model and stay there regardless? Trying to understand whether cross-model continuity is a real pain point or just something that sounds useful in theory.
+
+3h ago
+
+---
+
+**[Making music with AI](https://www.reddit.com/r/artificial/comments/1rv9rcn/making_music_with_ai/)**
+
+I have MS, so I've never really been able to play instruments. I can't sing. So music was just something I fantasized about. I was always making songs in my head, they just never went anywhere. First I used AI to make songs for my nieces and nephews. Next I started making songs for myself. Then I got high while manic and out poured several songs. One of the songs is about being bipolar. The first one I made was for my 7 year old niece. It's bubble gum pop, that's what she likes. I was hoping my niece would be able to ask her alexa to play her song, but there is a song with a similar name which has millions of plays, so that will never happen 🙃 After that, I had to make songs for her siblings. Then I had to make songs for my brother's kids... Unfortunately I got better at it as I went so I think the last kid's song is better than the first kid's song. But they can't tell. I make little videos with them when they come over, so I'm gonna make music video's with the kids at some point so they'll always have their own custom song they can show their friends. I won't post any links, not trying to self promote, just wanted to share that this was sort of therapeutic for me. I know the tech is controversial, but I'm a fan of AI
 
 1h ago
 
@@ -89,29 +113,7 @@ First, please tell me if there's a better forum to go to for newbies. I don't wa
 
 WiFi-DensePose: AI Can Track Body Positions Through Walls: Researchers have developed a system using standard WiFi signals to reconstruct full-body positions in real-time, through walls and in the dark, offering potential for privacy-preserving fall detection and health monitoring
 
-8h ago
-
----
-
-**[Anyone Else Have Those Weird Dreams Where Sobbing Future Generations Beg You To Change Course?](https://www.reddit.com/r/artificial/comments/1ruok4v/anyone_else_have_those_weird_dreams_where_sobbing/)**
-
-The human subconscious is such an interesting thing. No matter how much you think you’ve got it figured out, it’ll always spit out the most random stuff. Take me, for example. After coming home from a long day at the world’s most groundbreaking artificial intelligence organization, I’ll go to bed and have the weirdest dreams where people from the future are sobbing and begging me to change course. Anyone else ever have these?
-
-🔗 [The Onion](https://theonion.com/anyone-else-have-those-weird-dreams-where-sobbing-future-generations-beg-you-to-change-course/) • 16h ago
-
----
-
-**[Building a multi-model AI platform with auto-routing — does automatic model selection actually appeal to users or do people always want manual control?](https://www.reddit.com/r/artificial/comments/1ruvk79/building_a_multimodel_ai_platform_with/)**
-
-Been working on a personal project for a few months that has now launched — I can't share details to adhere to subreddit rules and I'm not here to advertise. I'm here to get genuine feedback from people who actually use AI daily. The core idea is auto-routing. Instead of choosing which model to use yourself, the system analyses your prompt and automatically sends it to the right model. Here's how I've mapped it: Grok for anything needing real-time or live data GPT-5.2 for coding tasks Gemini for image and audio analysis Claude for long documents and writing DeepSeek R1 for complex reasoning problems I've also built in a dropdown so users can turn auto-routing off completely and manually pick whichever model they want. So it works both ways. One thing I haven't seen discussed much elsewhere — because all models share the same conversation thread, you can actually use them together consecutively. Ask Gemini to write a prompt, switch to GPT for deep reasoning on it, switch to Claude for the long-form output — and the full context carries across all of them. No copy-pasting between tabs. ChatGPT remembers within ChatGPT. Claude remembers within Claude. But here every model has access to the same conversation history. I'm curious whether that kind of cross-model continuity is something people actually want or whether most users just pick one model and stick with it. On features — I've already implemented most of what the big platforms are now making announcements about: persistent memory, knowledge base, vision to code, photo editing, music generation, and video generation using top models. So I'm genuinely not sure what's missing. What would make you switch from whatever you're currently using? Is there something you wish existed that none of the major platforms have shipped yet? A few other things I'd love opinions on: Input limit is set to 200,000 characters, which safely fits within the context windows of all supported models. For large inputs the router automatically directs to Claude or Gemini which handle long context best. Is 200k enough or do people genuinely need more? I've also added UI features I haven't seen elsewhere — 26 language options for the entire interface, multiple themes, and live wallpapers. Does that kind of thing matter to anyone or do people just want raw model performance and the interface is irrelevant?
-
-12h ago
-
----
-
-**[Consultants Are Cashing in on the AI Boom - Tech News Briefing - WSJ Podcasts](https://www.reddit.com/r/artificial/comments/1rue9qr/consultants_are_cashing_in_on_the_ai_boom_tech/)**
-
-🔗 [wsj.com](https://www.wsj.com/podcasts/tech-news-briefing/consultants-are-cashing-in-on-the-ai-boom/e9eaf7be-171e-4e25-9faa-33d8bb2ea786?gaa_at=eafs&gaa_n=AWEtsqfdTyvWaFP8EfWuBrGOod5F9GRFcSzxcEHqOEAYwDmKE6xeFnP31JmAzsh3SsE%3D&gaa_ts=69b6b7da&gaa_sig=OPtT9zqUPeLMNc4DiaE9pndX0S1npatSl4fjzt3RjCbRWxbY64Z5j0ODyk5msYHze2XhkS1AkVFl9a8m738_5Q%3D%3D) • 23h ago
+10h ago
 
 ---
 
@@ -123,7 +125,7 @@ Been working on a personal project for a few months that has now launched — I 
 
 The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.
 
-BBC • 12h ago
+BBC • 14h ago
 
 ---
 
@@ -131,29 +133,31 @@ BBC • 12h ago
 
 Exclusive: Revelation comes as company faces mounting scrutiny over use of AI to provide health tips
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[Mayor Wilson pauses city employees’ sanctioned use of AI](https://www.seattletimes.com/seattle-news/politics/mayor-wilson-pauses-city-employees-sanctioned-use-of-ai/)**
+**[How AI images are impacting the war with Iran](https://www.cnn.com/2026/03/16/us/video/how-ai-images-are-impacting-the-war-with-iran-cnc)**
 
-The Seattle Times • 15m ago
+Israel’s Prime Minister appearing in a new video to prove he’s alive and unhurt after a clip seeming to show him with six fingers went viral. CNN News Central’s Kate Bolduan speaks with Hany Farid, co-founder & chief science officer at GetReal Security, a company aiming to restore the ability to trust what we see.
 
----
-
-**[One of world's largest AI conferences kicks off in San Jose](https://www.ktvu.com/news/one-worlds-largest-ai-conferences-kicks-off-san-jose)**
-
-One of the world's largest artificial intelligence conferences is underway in San Jose this week, drawing an estimated 30,000 developers, researchers and business leaders to the city for Nvidia's annual GTC Conference.
-
-KTVU • 17m ago
+CNN • 38m ago
 
 ---
 
-**[AI is spreading disinformation in war and markets](https://www.ft.com/content/ceb33440-e0bd-46da-9be0-d4ac27d5a19a)**
+**[Nvidia shares are rising before its big AI conference. Here's what Wall Street expects to hear](https://www.cnbc.com/2026/03/16/nvidia-shares-are-rising-before-its-big-ai-conference-heres-what-wall-street-expects-to-hear.html)**
 
-How can countries force the tech platforms to take more responsibility for the circulation of deep fakes?
+Analysts say the biggest question hanging over the semiconductor sector is whether hyperscale spending on AI hardware can remain strong.
 
-Financial Times • 15m ago
+CNBC • 48m ago
+
+---
+
+**[Miami private school using AI to tailor lessons for every student](https://www.cbsnews.com/miami/video/miami-private-school-using-ai-to-tailor-lessons-for-every-student/)**
+
+A new private school in Miami is using artificial intelligence to tailor lessons for every student. School leaders say the goal isn’t to replace teachers, it’s to give student more time to build real world skills.
+
+CBS News • 45m ago
 
 ---
 
@@ -161,15 +165,7 @@ Financial Times • 15m ago
 
 Look up which jobs are most at risk from artificial intelligence and who is most likely to be able to adapt, according to a new analysis.
 
-The Washington Post • 1h ago
-
----
-
-**[Meta up nearly 3% in premarket as it plans mass layoff to offset increased AI spending](https://www.cnbc.com/2026/03/16/meta-ai-costs-mass-layoffs-20percent-up-premarket.html)**
-
-Meta is planning capital expenditure of up to $135 billion in AI-related costs in 2026, which raised investors' fears around unsustainable spending.
-
-CNBC • 2h ago
+The Washington Post • 56m ago
 
 ---
 
@@ -177,21 +173,29 @@ CNBC • 2h ago
 
 Amazon, Block and Atlassian have announced AI-driven job cuts, and Meta is reportedly planning its own – but all may not be as it seems.
 
-The Conversation • 10h ago
+The Conversation • 12h ago
 
 ---
 
-**[Breakingviews - China tech's old guard lose their AI thunder](https://www.reuters.com/commentary/breakingviews/china-techs-old-guard-lose-their-ai-thunder-2026-03-16/)**
+**[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
 
-Reuters • 10h ago
+Reuters • 1d ago
 
 ---
 
-**[Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years](https://finance.yahoo.com/news/nebius-signs-ai-capacity-deal-100907683.html)**
+**[Writing Faculty Push for the Right to Refuse AI](https://www.insidehighered.com/news/tech-innovation/teaching-learning/2026/03/16/writing-faculty-push-right-refuse-ai)**
 
-By Aditya Soni and Toby Sterling March 16 (Reuters) - Amsterdam-based AI infrastructure firm Nebius Group said Monday it has signed a five-year deal with Meta Platforms to provide the social media
+As universities rush to adopt generative AI–powered tools that claim to enhance teaching, learning and workforce preparation, a growing contingent of academics is questioning where that urgency is coming from and whom it stands to benefit.
 
-Yahoo Finance • 1h ago
+Inside Higher Ed • 7h ago
+
+---
+
+**[Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years](https://finance.yahoo.com/news/nebius-signs-ai-capacity-deal-100907987.html)**
+
+Amsterdam-based AI infrastructure firm Nebius Group said on Monday it has agreed with ‌Meta Platforms to provide the social media giant with $12 billion worth ‌of AI computing capacity across multiple locations by 2027.  Under the agreement, Meta will also buy ​an additional $15 billion worth of capacity planned by Nebius over the coming five years if it is not sold to other customers, giving the contract a total value of up to $27 billion, Nebius said.  Last week, Nvidia said it would ‌invest $2 billion to buy an ⁠8.3% stake in Nebius, which uses Nvidia chips in its data centers.
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -231,7 +235,7 @@ Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretati
 
 **[Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)**
 
-⬆️ 328 • 💬 522 • 21h ago
+⬆️ 328 • 💬 522 • 22h ago
 
 ---
 
@@ -247,7 +251,7 @@ Airbus is working at full throttle to offer the German Air Force an operational 
 
 Define, version, and run AI agents natively in git. GitAgent is the open AI agent standard — framework-agnostic, works with Claude, OpenAI, CrewAI, Lyzr, and more.
 
-⬆️ 139 • 💬 35 • 1d ago • [GitAgent](https://www.gitagent.sh/)
+⬆️ 139 • 💬 35 • 2d ago • [GitAgent](https://www.gitagent.sh/)
 
 ---
 
@@ -257,17 +261,17 @@ Define, version, and run AI agents natively in git. GitAgent is the open AI agen
 
 ---
 
-**[Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://news.ycombinator.com/item?id=47364116)**
-
-Spine is the world's first truly agentic platform designed to manage and orchestrate the next generation of AI.
-
-⬆️ 109 • 💬 69 • 2d ago • [getspine.ai](https://www.getspine.ai/)
-
----
-
 **[Meta planning layoffs as AI costs mount](https://news.ycombinator.com/item?id=47372249)**
 
 ⬆️ 100 • 💬 22 • 2d ago • [reuters.com](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)
+
+---
+
+**[AI Gets Wrong Woman Jailed for Six Months, Life Ruined](https://news.ycombinator.com/item?id=47378917)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 75 • 💬 26 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=mzS7dmCUzcQ)
 
 ---
 
@@ -281,7 +285,7 @@ What is financial freedom? The Business Strategist Daniel Priestley on why AI ma
 
 📺 The Diary Of A CEO
 
-👁️ 93K • 👍 4K • 💬 869 • ⏱️ 2:02:37 • 5h ago
+👁️ 93K • 👍 4K • 💬 869 • ⏱️ 2:02:37 • 6h ago
 
 ---
 
@@ -321,7 +325,7 @@ A viral video shows Israeli Prime Minister Benjamin Netanyahu sitting in a Tel A
 
 📺 Oneindia News
 
-👁️ 7K • 👍 86 • 💬 44 • ⏱️ 3:02 • 6h ago
+👁️ 7K • 👍 86 • 💬 44 • ⏱️ 3:02 • 7h ago
 
 ---
 
@@ -361,7 +365,7 @@ Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.sko
 
 📺 Chase AI
 
-👁️ 18K • 👍 512 • 💬 45 • ⏱️ 8:51 • 14h ago
+👁️ 18K • 👍 512 • 💬 45 • ⏱️ 8:51 • 16h ago
 
 ---
 
@@ -369,7 +373,7 @@ Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.sko
 
 📺 Maggie McGaugh
 
-👁️ 273K • 👍 14K • 💬 671 • ⏱️ 2:30 • 18h ago
+👁️ 273K • 👍 14K • 💬 671 • ⏱️ 2:30 • 19h ago
 
 ---
 
@@ -433,7 +437,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 596,747 • ❤️ 639 • 20h ago
+⬇️ 596,747 • ❤️ 639 • 22h ago
 
 ---
 
@@ -469,7 +473,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 27,263 • ❤️ 219 • 1d ago
+⬇️ 27,263 • ❤️ 219 • 2d ago
 
 ---
 
@@ -521,7 +525,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 26 • 💬 2 • ⭐ 27,748 • 6d ago
+▲ 26 • 💬 2 • ⭐ 27,748 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -658,7 +662,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.2k • 🔱 1.5k • 15m ago
+⭐ 12.2k • 🔱 1.5k • 1h ago
 
 ---
 
@@ -668,7 +672,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.0k • 🔱 906 • 20h ago
+⭐ 10.0k • 🔱 906 • 22h ago
 
 ---
 
@@ -678,7 +682,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.5k • 🔱 685 • 2h ago
+⭐ 9.5k • 🔱 685 • 3h ago
 
 ---
 
@@ -688,7 +692,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 7.9k • 🔱 372 • 4h ago
+⭐ 7.9k • 🔱 372 • 6h ago
 
 ---
 
@@ -708,7 +712,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.4k • 🔱 752 • 10h ago
+⭐ 6.4k • 🔱 752 • 12h ago
 
 ---
 
@@ -718,7 +722,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 3.0k • 🔱 193 • 14h ago
+⭐ 3.0k • 🔱 193 • 15h ago
 
 ---
 
