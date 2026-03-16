@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T09:40:40.229396+00:00'
+updated: '2026-03-16T10:54:23.619417+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 09:40 UTC  
+**Last Updated:** March 16, 2026 at 10:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-17h ago
+18h ago
+
+---
+
+**[Project LATENT: a humanoid robot who can play tennis with a good hit rate.](https://www.reddit.com/r/robotics/comments/1rv5fww/project_latent_a_humanoid_robot_who_can_play/)**
+
+From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
+
+45m ago
 
 ---
 
@@ -42,7 +50,7 @@ Robotics research and industry news
 
 The EU-funded initiative is helping tidy up the litter-filled sea floor, and could even be used to detect hidden mines.
 
-🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 2h ago
+🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 3h ago
 
 ---
 
@@ -50,13 +58,7 @@ The EU-funded initiative is helping tidy up the litter-filled sea floor, and cou
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-23h ago
-
----
-
-**[Out with the old…](https://www.reddit.com/r/robotics/comments/1rus5wz/out_with_the_old/)**
-
-11h ago
+1d ago
 
 ---
 
@@ -64,7 +66,13 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 I’m currently designing the legs so i can have the body done for a showcase event i’ll go to, i also have a order with the battery arriving and i may connect some components to it so i can test it when i have it. Also i post updates on tiktok: diy.builder and more detailed on yt: DIYmrbuilder
 
-1h ago
+2h ago
+
+---
+
+**[Out with the old…](https://www.reddit.com/r/robotics/comments/1rus5wz/out_with_the_old/)**
+
+12h ago
 
 ---
 
@@ -72,7 +80,7 @@ I’m currently designing the legs so i can have the body done for a showcase ev
 
 A new report from TIME delves into the rapid development of militarized humanoid robots like the Phantom, built by SF startup Foundation. With $24 million in Pentagon contracts and units already being tested on the frontlines in Ukraine, these AI-driven machines are designed to wield human weapons and execute complex combat missions alongside troops.
 
-🔗 [TIME](https://time.com/article/2026/03/09/ai-robots-soldiers-war/) • 4m ago
+🔗 [TIME](https://time.com/article/2026/03/09/ai-robots-soldiers-war/) • 1h ago
 
 ---
 
@@ -80,7 +88,7 @@ A new report from TIME delves into the rapid development of militarized humanoid
 
 Hello members of the robotics community, Dynamixel motors are excellent actuators for robotics and I believe many of you are already familia with them. We use them extensively in some large scale robotic applications. However, one of the most frustrating aspects has been flashing new Dynamixel motors. In our case, we often needed to flash them after the robot had already been assembled. Unfortunately, we couldn't integrate this process into our test architecture because the official software (Dynamixel Wizard) is proprietary, and the SDK does not provide functionality for firmware flashing. This limitation became quite frustrating, so I decided to investigate how the Dynamixel Wizard actually performs the flashing process. By setting up a sniffer, I was able to reverse engineer the logic. As a result, we can now flash Dynamixel motors directly from the terminal! I would like to give something back to the community, so I’m planning to open-source this tool. However, I’m still deciding on the best format. Possible options include: a Python package distributed via pip (I might need some help with this), or a full-featured terminal application. Before moving forward, I’d like to know if there is interest in something like this within the community?
 
-6m ago
+1h ago
 
 ---
 
@@ -88,7 +96,7 @@ Hello members of the robotics community, Dynamixel motors are excellent actuator
 
 I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
 
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 15h ago
+🔗 [GitHub](https://github.com/Robertleoj/slamd) • 17h ago
 
 ---
 
@@ -96,13 +104,7 @@ I work in robotics, and need to do a lot of 3D visualization. But none of the av
 
 LATENT
 
-🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 15h ago
-
----
-
-**[I made a Claude Code skill for ROS 2 - looking for feedback](https://www.reddit.com/r/robotics/comments/1rv21o8/i_made_a_claude_code_skill_for_ros_2_looking_for/)**
-
-3h ago
+🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 17h ago
 
 ---
 
@@ -118,52 +120,6 @@ Electrek • 1d ago
 
 ---
 
-**[Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport](https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html)**
-
-Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
-
-CNBC • 2d ago
-
----
-
-**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
-
-Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
-
-TechCrunch • 2d ago
-
----
-
-**[Travis Kalanick Debuts Plan for ‘Gainfully Employed Robots’](https://finance.yahoo.com/news/travis-kalanick-debuts-plan-gainfully-192647148.html)**
-
-Kalanick is remaking his real estate company, City Storage Systems, which owns ghost-kitchen operator CloudKitchens, and renaming it Atoms, according to a manifesto posted on the new company’s website.  In addition to its work on food, Los Angeles-based Atoms is expanding into robotics technology for mining and automotive transport.
-
-Yahoo Finance • 2d ago
-
----
-
-**[UAV Navigation-Grupo Oesía Joins Project TICHE to Advance Swarm Robotics & Multiplatform Detection](https://www.unmannedsystemstechnology.com/2026/03/uav-navigation-grupo-oesia-joins-project-tiche-to-advance-swarm-robotics-multiplatform-detection/)**
-
-UAV Navigation-Grupo Oesía is set to play a pivotal role in the TICHE Project by ensuring the safe cross-domain operation...
-
-Unmanned Systems Technology • 3h ago
-
----
-
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqcr5uVu3xp-K8FQJ7WZmR3DwE3b4V0RoWIrf0FihpTezrSRXxMCv9Dt&gaa_ts=69b7d37e&gaa_sig=_ABuxLDeuxqvOFll-fKKUhhtTQ7zz69riQ_4vRanD2Ag6tyACU3AAcfGWVrGxW6W-_q4A1gNBGqjpPYwsk4hCA%3D%3D)**
-
-WSJ • 16h ago
-
----
-
-**[Indiana students participate in state robotics competition](https://www.wthr.com/article/news/local/indiana-students-participate-in-state-vex-robotics-competition-lucas-oil-stadium/531-040f76a0-ed09-466a-b471-5476a21e4434)**
-
-For many students, these competitions are where classroom lessons turn into real world skills.
-
-WTHR • 1d ago
-
----
-
 **[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
 
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
@@ -172,19 +128,67 @@ Quanta Magazine • 2d ago
 
 ---
 
-**[‘Pokémon Go’ players have been unknowingly training delivery robots](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
-
-The massive crowdsourcing effort could use real-world to help robots deliver pizza.
-
-Popular Science • 2d ago
-
----
-
 **[Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs.](https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3)**
 
 Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
 
 Business Insider • 1h ago
+
+---
+
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqcepKNDf8q6aErcO6KnNZsaOHAVRVQpBN12t773iwo7nS1v5qLS3H7x&gaa_ts=69b7e4cd&gaa_sig=wjgWkQCMuZjjTKIzXKKR17_Ryg_luzkC8tJvcQp0ilwwCA3Rbu69zRIOKRoZFaAcpY-Vjgp1zNDfK5j3qhkjlQ%3D%3D)**
+
+WSJ • 9h ago
+
+---
+
+**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/gallery/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
+
+13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton.
+
+13wham.com • 1d ago
+
+---
+
+**[Uber co-founder Kalanick launches Atoms in specialized robotics push](https://www.reuters.com/business/uber-co-founder-kalanick-launches-atoms-specialized-robotics-push-2026-03-13/)**
+
+Reuters • 2d ago
+
+---
+
+**[Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport](https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html)**
+
+Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
+
+CNBC • 2d ago
+
+---
+
+**[Travis Kalanick Plots New Robotics and Self-Driving Venture with Levandowski, Uber](https://www.theinformation.com/articles/travis-kalanick-plots-new-self-driving-venture-levandowski-uber)**
+
+Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
+
+The Information • 2d ago
+
+---
+
+**[Lanesborough Elementary Robotics Team Wins Berkshire Title](https://www.iberkshires.com/story/82050/Lanesborough-Elementary-Robotics-Team-Wins-Berkshire-Title.html)**
+
+DALTON, Mass. – Lanesborough Elementary School Saturday continued its dynasty at the Berkshire Robotics Challenge at Wahconah Regional High School.
+
+	 
+
+	Lanesborough’s...
+
+iBerkshires.com • 1d ago
+
+---
+
+**[‘Pokémon Go’ players have been unknowingly training delivery robots](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
+
+The massive crowdsourcing effort could use real-world to help robots deliver pizza.
+
+Popular Science • 2d ago
 
 ---
 
@@ -198,17 +202,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 70K • 👍 2K • 💬 268 • ⏱️ 49:45 • 1d ago
-
----
-
-**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
-
-QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
-
-📺 Just Josh
-
-👁️ 6K • 👍 400 • 💬 65 • ⏱️ 7:53 • 20h ago
+👁️ 72K • 👍 2K • 💬 271 • ⏱️ 49:45 • 1d ago
 
 ---
 
@@ -218,7 +212,17 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 24K • 👍 94 • 💬 38 • ⏱️ 2:38 • 4d ago
+👁️ 24K • 👍 96 • 💬 38 • ⏱️ 2:38 • 4d ago
+
+---
+
+**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
+
+QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
+
+📺 Just Josh
+
+👁️ 6K • 👍 416 • 💬 69 • ⏱️ 7:53 • 21h ago
 
 ---
 
@@ -232,23 +236,23 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 ---
 
-**[Craft a one-of-a-kind custom 3d case for your robot.😏 #3dprinting #large3dprinter #machine](https://www.youtube.com/watch?v=jYto7fpHJlg)**
-
-dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Email: sales@dowell3dprinter.xyz ▷Filament: ...
-
-📺 DOWELL3D PRINTER
-
-👁️ 22K • 👍 259 • 💬 3 • ⏱️ 0:17 • 2d ago
-
----
-
 **[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
 
 China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
 
 📺 AI Revolution
 
-👁️ 41K • 👍 598 • 💬 68 • ⏱️ 14:52 • 2d ago
+👁️ 42K • 👍 601 • 💬 68 • ⏱️ 14:52 • 2d ago
+
+---
+
+**[Craft a one-of-a-kind custom 3d case for your robot.😏 #3dprinting #large3dprinter #machine](https://www.youtube.com/watch?v=jYto7fpHJlg)**
+
+dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Email: sales@dowell3dprinter.xyz ▷Filament: ...
+
+📺 DOWELL3D PRINTER
+
+👁️ 22K • 👍 261 • 💬 3 • ⏱️ 0:17 • 2d ago
 
 ---
 
@@ -258,7 +262,15 @@ Figure demos world leading autonomous cleaning capabilities with its 03 humanoid
 
 📺 AI News
 
-👁️ 9K • 👍 237 • 💬 60 • ⏱️ 8:04 • 5d ago
+👁️ 9K • 👍 238 • 💬 60 • ⏱️ 8:04 • 6d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=cs8qj568orA)**
+
+📺 Robot Julie 
+
+👁️ 19K • 👍 62 • ⏱️ 0:22 • 2d ago
 
 ---
 
@@ -268,17 +280,7 @@ e-Flesh: Scientists Created 3D-Printed Robotic Skin That Lets Robots Feel Touch,
 
 📺 Techie Sapien
 
-👁️ 4K • 💬 2 • ⏱️ 0:07 • 2h ago
-
----
-
-**[ULTIMATE HAWK is so much fun again! [War Robots]](https://www.youtube.com/watch?v=ncxMUXxqrKo)**
-
-War Robots Test Server Gameplay: NEW Ultimate HAWK - WR Here's my new YouTube Channel ⁨@ManniRAID⁩ ...
-
-📺 Manni-Gaming
-
-👁️ 10K • 👍 495 • 💬 69 • ⏱️ 16:19 • 1d ago
+👁️ 22K • 💬 3 • ⏱️ 0:07 • 3h ago
 
 ---
 
