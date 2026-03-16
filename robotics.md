@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T16:06:01.508016+00:00'
+updated: '2026-03-16T17:35:05.952804+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 16:06 UTC  
+**Last Updated:** March 16, 2026 at 17:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
 
-5h ago
+7h ago
+
+---
+
+**[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
+
+54m ago
 
 ---
 
@@ -44,13 +50,13 @@ From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LA
 
 I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
 
-4h ago
+5h ago
 
 ---
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -58,7 +64,7 @@ I built my own desktop companion with raspberry pi, respeaker lite. I built it t
 
 The EU-funded initiative is helping tidy up the litter-filled sea floor, and could even be used to detect hidden mines.
 
-🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 8h ago
+🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 10h ago
 
 ---
 
@@ -66,7 +72,15 @@ The EU-funded initiative is helping tidy up the litter-filled sea floor, and cou
 
 I’m currently designing the legs so i can have the body done for a showcase event i’ll go to, i also have a order with the battery arriving and i may connect some components to it so i can test it when i have it. Also i post updates on tiktok: diy.builder and more detailed on yt: DIYmrbuilder
 
-7h ago
+9h ago
+
+---
+
+**[Building an A.I. navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 4)](https://www.reddit.com/r/robotics/comments/1rvfaor/building_an_ai_navigation_software_that_will_only/)**
+
+Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric model Tested the so called "Zero Shot" properties of VLM models with every day objects/landmarks Basic navigation commands and AI models are just the beginning/POC, more exciting things to come. Working towards shipping an API for robotics Devs that want to add intelligent navigation to their custom hardware creations. (not just off the shelf unitree robots)
+
+31m ago
 
 ---
 
@@ -78,33 +92,17 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 ---
 
-**[Tesla Stresses 'Capability, Reliability' of Optimus Humanoid in Goldman Meeting](https://www.reddit.com/r/robotics/comments/1rvcjub/tesla_stresses_capability_reliability_of_optimus/)**
+**[Rodney Brooks on the reliability standard real robots have to meet](https://www.reddit.com/r/robotics/comments/1rvflil/rodney_brooks_on_the_reliability_standard_real/)**
 
-Goldman Sachs analyst Mark Delaney said on Monday that Tesla "is happy with the progress" with the hardware development of its Optimus humanoid robot following a management meeting, as the company prepares to unveil the third generation later this year.
+Rodney Brooks discussing the gap between robotics demos and real deployment. He points out that building a robot is one problem, but deploying one that works reliably in production is much harder. In many environments robots need reliability on the order of 99.999% uptime, because even small failure rates become unmanageable when systems scale. A robot that fails once an hour is effectively unusable. Even a robot that fails once per day becomes a problem if dozens of robots are operating at the same facility, because someone has to constantly deal with those failures. He also notes that customers usually don’t care what technology the robot uses. Whether it runs deep learning models or another approach matters less than whether it consistently improves efficiency and operates without constant intervention.
 
-🔗 [EV](https://eletric-vehicles.com/tesla/tesla-stresses-capability-reliability-of-optimus-humanoid-in-goldman-meeting/) • 39m ago
+21m ago
 
 ---
 
 **[Out with the old…](https://www.reddit.com/r/robotics/comments/1rus5wz/out_with_the_old/)**
 
-17h ago
-
----
-
-**[Rise of the AI Soldiers](https://www.reddit.com/r/robotics/comments/1rv4wcr/rise_of_the_ai_soldiers/)**
-
-A new report from TIME delves into the rapid development of militarized humanoid robots like the Phantom, built by SF startup Foundation. With $24 million in Pentagon contracts and units already being tested on the frontlines in Ukraine, these AI-driven machines are designed to wield human weapons and execute complex combat missions alongside troops.
-
-🔗 [TIME](https://time.com/article/2026/03/09/ai-robots-soldiers-war/) • 6h ago
-
----
-
-**[I Reverse-Engineered the Dynamixel Wizard. Flash Motors Directly from the Terminal!](https://www.reddit.com/r/robotics/comments/1rv4uzx/i_reverseengineered_the_dynamixel_wizard_flash/)**
-
-Hello members of the robotics community, Dynamixel motors are excellent actuators for robotics and I believe many of you are already familia with them. We use them extensively in some large scale robotic applications. However, one of the most frustrating aspects has been flashing new Dynamixel motors. In our case, we often needed to flash them after the robot had already been assembled. Unfortunately, we couldn't integrate this process into our test architecture because the official software (Dynamixel Wizard) is proprietary, and the SDK does not provide functionality for firmware flashing. This limitation became quite frustrating, so I decided to investigate how the Dynamixel Wizard actually performs the flashing process. By setting up a sniffer, I was able to reverse engineer the logic. As a result, we can now flash Dynamixel motors directly from the terminal! I would like to give something back to the community, so I’m planning to open-source this tool. However, I’m still deciding on the best format. Possible options include: a Python package distributed via pip (I might need some help with this), or a full-featured terminal application. Before moving forward, I’d like to know if there is interest in something like this within the community?
-
-6h ago
+18h ago
 
 ---
 
@@ -142,25 +140,9 @@ Electrek • 1d ago
 
 ---
 
-**[Nvidia GTC: All the AI and Robotics News We Expect to Hear at Today's Keynote](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqddWJp7qzRL5-IK71C9KTqltW9sED-YMJwu9-ucAvG0fl7yxjrXcJW4&gaa_ts=69b842b6&gaa_sig=z8FVL3xMm4a4aJkouM2Kz3j842LekkQ7viUi1WUaS1eNdxnO7DgHKzqoTT4BfNJjNUx7wNf4MTZNEszQNuJgbA%3D%3D)**
 
-Physical AI, agents, inference and more are on the table for the world's biggest company during Monday's conference kickoff.
-
-CNET • 4m ago
-
----
-
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqcr5Sq59NfOlYPL0IKGrf7EfH_4ZohUvL7UfeNRI2_vTLVKjuDoVScH&gaa_ts=69b82dd7&gaa_sig=l7vSQQ4cPx7EeAKua8nAwf-nJJTP4Ng7gLVuL_jJNqf5R-C2Sz8X37XGBYO3xuQAJfYvvuCFWNc-BFk1EWVoNA%3D%3D)**
-
-WSJ • 22h ago
-
----
-
-**[Glendale robotics team headed to world championships this summer](https://www.azfamily.com/2026/03/15/glendale-robotics-team-headed-world-championships-this-summer/)**
-
-Cactus High School’s robotics team, the Cobra Commanders, is headed to the world championships in May after finishing first at a major regional competition last week.
-
-AZ Family • 1d ago
+WSJ • 9h ago
 
 ---
 
@@ -168,11 +150,27 @@ AZ Family • 1d ago
 
 Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
 
-Business Insider • 6h ago
+Business Insider • 8h ago
 
 ---
 
-**[‘Pokémon Go’ players have been unknowingly training delivery robots](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
+**[Nvidia GTC: All the AI and Robotics News We Expect to Hear at Today's Keynote](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/)**
+
+Physical AI, agents, inference and more are on the table for the world's biggest company during Monday's conference kickoff.
+
+CNET • 47m ago
+
+---
+
+**[Battlefield trial begins as Phantom MK-1 humanoid robots reach Ukraine](https://interestingengineering.com/military/humanoid-soldier-robots-arrive-in-ukraine)**
+
+US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
+
+Interesting Engineering • 7h ago
+
+---
+
+**[‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
 
@@ -268,7 +266,7 @@ Check out Ecovacs Here! https://bit.ly/4u1ZmEe #CreatedForEase #ECOVACS PLEASE S
 
 📺 DMAXRYNO
 
-👁️ 22K • 👍 2K • 💬 150 • ⏱️ 9:58 • 1d ago
+👁️ 22K • 👍 2K • 💬 150 • ⏱️ 9:58 • 2d ago
 
 ---
 

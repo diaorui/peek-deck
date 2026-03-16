@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-16T16:06:01.490325+00:00'
+updated: '2026-03-16T17:35:05.933770+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 16, 2026 at 16:06 UTC  
+**Last Updated:** March 16, 2026 at 17:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
 
-🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 2h ago
+🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 3h ago
 
 ---
 
@@ -49,7 +49,15 @@ The massive crowdsourcing effort could use real-world to help robots deliver piz
 
 OpenAI introduced ads to ChatGPT last month, exclusive to users in the United States. Users online suspect a global rollout is coming soon.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 5h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 6h ago
+
+---
+
+**[Agentic pipeline that builds complete Godot games from a text prompt](https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/)**
+
+Open source: https://github.com/htdt/godogen
+
+1h ago
 
 ---
 
@@ -57,15 +65,15 @@ OpenAI introduced ads to ChatGPT last month, exclusive to users in the United St
 
 Lately I’ve been thinking about how AI infrastructure spending is starting to feel less like normal cloud usage and more like long-term capital investment (similar to energy or telecom sectors). Big tech companies are already locking in massive compute capacity to support AI agents and large-scale inference workloads. If this trend continues, just having reliable access to compute could become a serious competitive advantage not just a backend technical detail. It also makes me wonder if startup funding dynamics could change. In the future, investors might care not only about product and model quality, but also about whether a startup has secured long-term compute access to scale safely. Of course, there’s also the other side of the argument. Hardware innovation is moving fast, new fabs are being built, and historically GPU shortages have been cyclical. So maybe this becomes less of a problem over time. But if AI agent usage grows really fast and demand explodes, maybe compute access will matter more than we expect. Curious to hear your thoughts: If you were building an AI startup today, would you focus more on improving model capability first, or on making sure you have long-term compute independence?
 
-3h ago
+5h ago
 
 ---
 
-**[I'm sorry if I'm late to the party, but is there a curated website list for AI news that are focused on actual technical news, without taking sides on any of the factions (good vs bad)?](https://www.reddit.com/r/artificial/comments/1rva00k/im_sorry_if_im_late_to_the_party_but_is_there_a/)**
+**[Making music with AI](https://www.reddit.com/r/artificial/comments/1rv9rcn/making_music_with_ai/)**
 
-In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.
+I have MS, so I've never really been able to play instruments. I can't sing. So music was just something I fantasized about. I was always making songs in my head, they just never went anywhere. First I used AI to make songs for my nieces and nephews. Next I started making songs for myself. Then I got high while manic and out poured several songs. One of the songs is about being bipolar. The first one I made was for my 7 year old niece. It's bubble gum pop, that's what she likes. I was hoping my niece would be able to ask her alexa to play her song, but there is a song with a similar name which has millions of plays, so that will never happen 🙃 After that, I had to make songs for her siblings. Then I had to make songs for my brother's kids... Unfortunately I got better at it as I went so I think the last kid's song is better than the first kid's song. But they can't tell. I make little videos with them when they come over, so I'm gonna make music video's with the kids at some point so they'll always have their own custom song they can show their friends. I won't post any links, not trying to self promote, just wanted to share that this was sort of therapeutic for me. I know the tech is controversial, but I'm a fan of AI
 
-2h ago
+3h ago
 
 ---
 
@@ -73,29 +81,13 @@ In other words, some trustworthy links that you can read on daily/weekly basis t
 
 Introducing Attention Residuals: Rethinking depth-wise aggregation. Residual connections have long relied on fixed, uniform accumulation. Inspired by the duality of time and depth, Kimi introduce Attention Residuals, replacing standard depth-wise recurrence with learned, input-dependent attention over preceding layers. Enables networks to selectively retrieve past representations, naturally mitigating dilution and hidden-state growth. Introduces Block AttnRes, partitioning layers into compressed blocks to make cross-layer attention practical at scale. Serves as an efficient drop-in replacement, demonstrating a 1.25x compute advantage with negligible (<2%) inference latency overhead. Validated on the Kimi Linear architecture (48B total, 3B activated parameters), delivering consistent downstream performance gains. Paper link: https://github.com/MoonshotAI/Attention-Residuals/blob/master/Attention_Residuals.pdf
 
-4h ago
+5h ago
 
 ---
 
 **[Unified Design to access any LLMs](https://www.reddit.com/r/artificial/comments/1rvcbg1/unified_design_to_access_any_llms/)**
 
 Looking at the guidance on how people are handling this very common scenario. We are trying to see how in our company people are using these frontier models, getting team subscriptions and allow them to use by everyone has gone too far and not scalable as cost explodes. Also most importantly we need to understand the security scanning of the prompts sent to these LLMs as proprietary information or any keys or any non public data needs to be secured, I was thinking a internal proxy but there got to be more matured way as this seems a common problem that should be solved before? We have AWS Bedrock but that doesn't give me exposure to the logging of prompts sent to claude or any other ones, also the bottleneck of not supporting chatgpt is a good issue too. appreciate links, thoughts, blogs?
-
-48m ago
-
----
-
-**[The bottleneck flipped: AI made execution fast and exposed everything around it that isn't](https://www.reddit.com/r/artificial/comments/1rusgb2/the_bottleneck_flipped_ai_made_execution_fast_and/)**
-
-I've been tracking AI-driven layoffs for the past few months and something doesn't add up. Block cut 4,000 people (40% of workforce). Atlassian cut 1,600. Shopify told employees to prove AI can't do their job before asking for headcount. The script is always the same: CEO cites AI, stock ticks up. But then you look at the numbers. S&P Global found 42% of companies abandoned their AI initiatives in 2025, up from 17% the year before. A separate survey found 55% of CEOs who fired people "because of AI" already regret it. Klarna bragged AI could replace 700 employees, then quietly started hiring humans back when quality tanked. What I keep seeing across the research is that AI compressed execution speed dramatically; prototyping that took weeks now takes hours. But the coordination layer (approval chains, quarterly planning, review cycles) didn't speed up at all. The bottleneck flipped from "can we build it fast enough" to "does leadership know what to build and can they keep up with the teams building it." Companies are cutting the people who got faster while leaving the layer that didn't speed up intact. Monday.com is an interesting counter-example. Lost 80% of market value, automated 100 SDRs with AI, but redeployed them instead of firing them. Their CEO's reasoning: "Every time we eliminate one bottleneck, a new one emerges." I pulled together ten independent sources on this — engineers, economists, survey data, executives — and wrote it up here if anyone wants the full analysis with sources: https://news.future-shock.ai/ai-didnt-replace-workers-it-outran-their-managers/ Curious if anyone else is seeing this pattern in their orgs. Is the management layer adapting or just cutting headcount and calling it an AI strategy?
-
-17h ago
-
----
-
-**[Making music with AI](https://www.reddit.com/r/artificial/comments/1rv9rcn/making_music_with_ai/)**
-
-I have MS, so I've never really been able to play instruments. I can't sing. So music was just something I fantasized about. I was always making songs in my head, they just never went anywhere. First I used AI to make songs for my nieces and nephews. Next I started making songs for myself. Then I got high while manic and out poured several songs. One of the songs is about being bipolar. The first one I made was for my 7 year old niece. It's bubble gum pop, that's what she likes. I was hoping my niece would be able to ask her alexa to play her song, but there is a song with a similar name which has millions of plays, so that will never happen 🙃 After that, I had to make songs for her siblings. Then I had to make songs for my brother's kids... Unfortunately I got better at it as I went so I think the last kid's song is better than the first kid's song. But they can't tell. I make little videos with them when they come over, so I'm gonna make music video's with the kids at some point so they'll always have their own custom song they can show their friends. I won't post any links, not trying to self promote, just wanted to share that this was sort of therapeutic for me. I know the tech is controversial, but I'm a fan of AI
 
 2h ago
 
@@ -105,15 +97,23 @@ I have MS, so I've never really been able to play instruments. I can't sing. So 
 
 I want to ask something specific that came out of my auto-routing thread earlier. A lot of people said they prefer manual model selection over automation — fair enough. But that raised a question I haven't seen discussed much: When you manually switch from say ChatGPT to Claude mid-task, what actually happens to your conversation? Do you copy-paste the context across? Start fresh and re-explain everything? Or do you just not switch at all because it's too much friction? Because here's the thing — none of the major AI providers have any incentive to solve this problem. OpenAI isn't going to build a feature that seamlessly hands your conversation to Claude. Anthropic isn't going to make it easy to continue in Grok. They're competitors. The cross-model continuity problem exists precisely because no single provider can solve it. I've been building a platform where every model — GPT, Claude, Grok, Gemini, DeepSeek — shares the same conversation thread. I just tested it by asking GPT-5.2 a question about computing, then switched manually to Grok 4 and typed "anything else important." Three words. No context. Grok 4 picked up exactly where GPT-5.2 left off without missing a beat. My question for this community is genuinely whether that's a problem people actually experience. Do you find yourself wanting to switch models mid-task but not doing it because of the context loss? Or do most people just pick one model and stay there regardless? Trying to understand whether cross-model continuity is a real pain point or just something that sounds useful in theory.
 
-4h ago
+6h ago
 
 ---
 
-**[I don't quite understand how useful AI is if conversations get long and have to be ended. Can someone help me figure out how to make this sustainable for myself? Using Claude Sonnet 4.6.](https://www.reddit.com/r/artificial/comments/1rv79uz/i_dont_quite_understand_how_useful_ai_is_if/)**
+**[The bottleneck flipped: AI made execution fast and exposed everything around it that isn't](https://www.reddit.com/r/artificial/comments/1rusgb2/the_bottleneck_flipped_ai_made_execution_fast_and/)**
 
-First, please tell me if there's a better forum to go to for newbies. I don't want to drag anyone down with basics. I'm starting to use AI more in my personal life, but the first problem I'm encountering is the conversations gets long and have to be compacted all the time, and eventually it isn't useful because compacting takes so damn long. I also don't want to start a new conversation because, I assume, that means I lose everything learned in the last one. (Or maybe this is where I'm wrong?) For a relatively simple example like below, how would I get around this? Let's suppose I want to feed in my regular bloodwork and any other low level complexity medical results and lay out some basic things to address, like getting my cholesterol a little lower and improving my gut health. I want the AI to be a companion helping me with my weekly meal planning and grocery shopping list. Maybe I tell it how much time I have to cook each day, what meals I'm thinking about/craving, or even suggest a menu that I like. AI would help me refine it around my nutritional goals and build my weekly grocery list. Every 24 hours I will feed it basic information, like how well my guts are performing, how well I sleep, how often I feel low energy, etc. Every few months I might add new test results. How do I do this, but not lose information every time the conversation gets long?
+I've been tracking AI-driven layoffs for the past few months and something doesn't add up. Block cut 4,000 people (40% of workforce). Atlassian cut 1,600. Shopify told employees to prove AI can't do their job before asking for headcount. The script is always the same: CEO cites AI, stock ticks up. But then you look at the numbers. S&P Global found 42% of companies abandoned their AI initiatives in 2025, up from 17% the year before. A separate survey found 55% of CEOs who fired people "because of AI" already regret it. Klarna bragged AI could replace 700 employees, then quietly started hiring humans back when quality tanked. What I keep seeing across the research is that AI compressed execution speed dramatically; prototyping that took weeks now takes hours. But the coordination layer (approval chains, quarterly planning, review cycles) didn't speed up at all. The bottleneck flipped from "can we build it fast enough" to "does leadership know what to build and can they keep up with the teams building it." Companies are cutting the people who got faster while leaving the layer that didn't speed up intact. Monday.com is an interesting counter-example. Lost 80% of market value, automated 100 SDRs with AI, but redeployed them instead of firing them. Their CEO's reasoning: "Every time we eliminate one bottleneck, a new one emerges." I pulled together ten independent sources on this — engineers, economists, survey data, executives — and wrote it up here if anyone wants the full analysis with sources: https://news.future-shock.ai/ai-didnt-replace-workers-it-outran-their-managers/ Curious if anyone else is seeing this pattern in their orgs. Is the management layer adapting or just cutting headcount and calling it an AI strategy?
 
-4h ago
+18h ago
+
+---
+
+**[I'm sorry if I'm late to the party, but is there a curated website list for AI news that are focused on actual technical news, without taking sides on any of the factions (good vs bad)?](https://www.reddit.com/r/artificial/comments/1rva00k/im_sorry_if_im_late_to_the_party_but_is_there_a/)**
+
+In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.
+
+3h ago
 
 ---
 
@@ -121,65 +121,69 @@ First, please tell me if there's a better forum to go to for newbies. I don't wa
 
 ## Google News: "ai"
 
+**[Nebius jumps 14% after company inks $27 billion infrastructure deal with Meta](https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html)**
+
+Meta is planning capital expenditure of up to $135 billion related to AI this year.
+
+CNBC • 6h ago
+
+---
+
+**[Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years](https://finance.yahoo.com/news/nebius-signs-ai-capacity-deal-100907987.html)**
+
+Amsterdam-based AI infrastructure firm Nebius Group said on Monday it has agreed with ‌Meta Platforms to provide the social media giant with $12 billion worth ‌of AI computing capacity across multiple locations by 2027.  Under the agreement, Meta will also buy ​an additional $15 billion worth of capacity planned by Nebius over the coming five years if it is not sold to other customers, giving the contract a total value of up to $27 billion, Nebius said.  Last week, Nvidia said it would ‌invest $2 billion to buy an ⁠8.3% stake in Nebius, which uses Nvidia chips in its data centers.
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance.](https://www.investors.com/news/technology/nebius-stock-pops-meta-expanded-ai-cloud-computing-agreement/)**
+
+Investor's Business Daily • 52m ago
+
+---
+
 **[Google scraps AI search feature that crowdsourced amateur medical advice](https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice)**
 
 Exclusive: Revelation comes as company faces mounting scrutiny over use of AI to provide health tips
 
-The Guardian • 7h ago
+The Guardian • 2h ago
 
 ---
 
-**[See which jobs are most threatened by AI, and who may be able to adapt](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/)**
+**[How Trump Drove a Wedge Between Florida Republicans Over A.I.](https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html)**
 
-Look up which jobs are most at risk from artificial intelligence and who is most likely to be able to adapt, according to a new analysis.
-
-The Washington Post • 1h ago
+The New York Times • 1h ago
 
 ---
 
-**[Crypto, AI groups spend millions in Chicago primaries](https://chicago.suntimes.com/morning-edition/2026/03/16/crypto-ai-groups-spend-millions-in-chicago-primaries)**
+**[Nvidia CEO set to reveal new chips and software at AI megaconference GTC](https://www.reuters.com/world/asia-pacific/nvidia-ceo-set-reveal-new-chips-software-ai-megaconference-gtc-2026-03-16/)**
 
-Plus: L riders pushed onto tracks, craft breweries' survival and more.
-
-Chicago Sun-Times • 38m ago
+Reuters • 6h ago
 
 ---
 
-**[AI is reviving tech sectors that VCs had all but forgotten](https://fortune.com/2026/03/16/ai-is-reviving-tech-sectors-that-vcs-had-all-but-forgotten/)**
+**[Nvidia GTC: All the AI and Robotics News We Expect to Hear at Today's Keynote](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/)**
 
-PitchBook data shows early-stage money surging back into healthtech, cybersecurity, biotech, and SaaS.
+Physical AI, agents, inference and more are on the table for the world's biggest company during Monday's conference kickoff.
 
-Fortune • 12m ago
-
----
-
-**[Tax scams are on the rise. Here's what to know](http://www.wyff4.com/article/tax-scams-robocalls-ai-irs-impersonation/70758451)**
-
-Robocalls, texts, and phishing emails from scammers are up this tax season compared to previous years, according to the consumer protection bureau of the FTC.
-
-WYFF News 4 • 22m ago
+CNET • 47m ago
 
 ---
 
-**[Nebius jumps 14% after inking $27 billion infrastructure deal with Meta](https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html)**
+**[Google Cloud AI infrastructure at NVIDIA GTC 2026](https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026)**
 
-Meta is planning capital expenditure of up to $135 billion related to AI this year.
+At NVIDIA GTC 2026, we showcased co-engineered AI infrastructure that technology leaders need to scale their agentic AI workloads.
 
-CNBC • 4h ago
-
----
-
-**[Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years](https://finance.yahoo.com/news/nebius-signs-ai-capacity-deal-100907683.html)**
-
-By Aditya Soni and Toby Sterling March 16 (Reuters) - Amsterdam-based AI infrastructure firm Nebius Group said Monday it has signed a five-year deal with Meta Platforms to provide the social media
-
-Yahoo Finance • 4h ago
+Google Cloud • 1h ago
 
 ---
 
-**[Nebius Stock Pops On Expanded Meta Platforms Artificial Intelligence Data Center Deal](https://www.investors.com/news/technology/nebius-stock-pops-meta-expanded-ai-cloud-computing-agreement/)**
+**[March Madness bracket: AI picks every women's NCAA Tournament game](https://www.usatoday.com/story/sports/ncaaw/2026/03/16/march-madness-bracket-ai-picks-predictions-ncaa-tournament-uconn-women/89179803007/)**
 
-Investor's Business Daily • 3h ago
+AI made picks and predictions for every game in the 2026 women's March Madness bracket. Its NCAA Tournament champion would be a familiar winner.
+
+USA Today • 55m ago
 
 ---
 
@@ -187,13 +191,7 @@ Investor's Business Daily • 3h ago
 
 The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.
 
-BBC • 15h ago
-
----
-
-**[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
-
-Reuters • 1d ago
+BBC • 17h ago
 
 ---
 
@@ -201,25 +199,17 @@ Reuters • 1d ago
 
 ## HackerNews: "ai"
 
-**[Elon Musk pushes out more xAI founders as AI coding effort falters](https://news.ycombinator.com/item?id=47366666)**
-
-Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals
-
-⬆️ 516 • 💬 812 • 2d ago • [ft.com](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
-
----
-
 **[$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://news.ycombinator.com/item?id=47385935)**
 
 Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creating an account on GitHub.
 
-⬆️ 411 • 💬 366 • 1d ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+⬆️ 419 • 💬 372 • 1d ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 
 ---
 
 **[John Carmack about open source and anti-AI activists](https://news.ycombinator.com/item?id=47367463)**
 
-⬆️ 370 • 💬 486 • 2d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+⬆️ 372 • 💬 486 • 2d ago • [X (formerly Twitter)](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 
 ---
 
@@ -227,13 +217,13 @@ Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creati
 
 Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?
 
-⬆️ 359 • 💬 292 • 1d ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+⬆️ 361 • 💬 292 • 1d ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 
 ---
 
 **[Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)**
 
-⬆️ 328 • 💬 522 • 1d ago
+⬆️ 356 • 💬 559 • 1d ago
 
 ---
 
@@ -241,7 +231,7 @@ Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretati
 
 Airbus is working at full throttle to offer the German Air Force an operational Uncrewed Collaborative Combat Aircraft (UCCA) system by 2029.
 
-⬆️ 180 • 💬 128 • 1d ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+⬆️ 180 • 💬 130 • 1d ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 
 ---
 
@@ -249,19 +239,25 @@ Airbus is working at full throttle to offer the German Air Force an operational 
 
 Define, version, and run AI agents natively in git. GitAgent is the open AI agent standard — framework-agnostic, works with Claude, OpenAI, CrewAI, Lyzr, and more.
 
-⬆️ 139 • 💬 35 • 2d ago • [GitAgent](https://www.gitagent.sh/)
+⬆️ 144 • 💬 36 • 2d ago • [GitAgent](https://www.gitagent.sh/)
 
 ---
 
 **[AI didn't simplify software engineering: It just made bad engineering easier](https://news.ycombinator.com/item?id=47377262)**
 
-⬆️ 128 • 💬 111 • 2d ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
+⬆️ 128 • 💬 113 • 2d ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
 
 ---
 
 **[Meta planning layoffs as AI costs mount](https://news.ycombinator.com/item?id=47372249)**
 
-⬆️ 100 • 💬 22 • 2d ago • [reuters.com](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)
+⬆️ 104 • 💬 22 • 2d ago • [reuters.com](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)
+
+---
+
+**[Tell HN: AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291)**
+
+⬆️ 78 • 💬 80 • 15h ago
 
 ---
 
@@ -269,7 +265,7 @@ Define, version, and run AI agents natively in git. GitAgent is the open AI agen
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 75 • 💬 26 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=mzS7dmCUzcQ)
+⬆️ 75 • 💬 26 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=mzS7dmCUzcQ)
 
 ---
 
@@ -283,7 +279,7 @@ What is financial freedom? The Business Strategist Daniel Priestley on why AI ma
 
 📺 The Diary Of A CEO
 
-👁️ 178K • 👍 7K • 💬 1K • ⏱️ 2:02:37 • 8h ago
+👁️ 178K • 👍 7K • 💬 1K • ⏱️ 2:02:37 • 9h ago
 
 ---
 
@@ -323,7 +319,7 @@ A viral video shows Israeli Prime Minister Benjamin Netanyahu sitting in a Tel A
 
 📺 Oneindia News
 
-👁️ 9K • 👍 107 • 💬 61 • ⏱️ 3:02 • 8h ago
+👁️ 9K • 👍 107 • 💬 61 • ⏱️ 3:02 • 10h ago
 
 ---
 
@@ -343,7 +339,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 86K • 👍 3K • 💬 234 • ⏱️ 33:33 • 2d ago
+👁️ 86K • 👍 3K • 💬 234 • ⏱️ 33:33 • 3d ago
 
 ---
 
@@ -437,7 +433,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 596,747 • ❤️ 643 • 23h ago
+⬇️ 596,747 • ❤️ 643 • 1d ago
 
 ---
 
@@ -662,7 +658,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.2k • 🔱 1.5k • 1h ago
+⭐ 12.2k • 🔱 1.5k • 3h ago
 
 ---
 
@@ -672,7 +668,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.0k • 🔱 916 • 1h ago
+⭐ 10.0k • 🔱 916 • 3h ago
 
 ---
 
@@ -682,7 +678,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.5k • 🔱 687 • 4h ago
+⭐ 9.5k • 🔱 687 • 6h ago
 
 ---
 
@@ -692,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 7.9k • 🔱 375 • 7h ago
+⭐ 7.9k • 🔱 375 • 9h ago
 
 ---
 
@@ -712,7 +708,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.4k • 🔱 752 • 13h ago
+⭐ 6.4k • 🔱 752 • 15h ago
 
 ---
 
@@ -722,7 +718,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 3.0k • 🔱 194 • 17h ago
+⭐ 3.0k • 🔱 194 • 18h ago
 
 ---
 
@@ -730,7 +726,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
-⭐ 2.8k • 🔱 91 • 4d ago
+⭐ 2.8k • 🔱 91 • 5d ago
 
 ---
 
