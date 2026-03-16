@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-16T10:54:23.610079+00:00'
+updated: '2026-03-16T11:49:01.164308+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 10:54 UTC  
+**Last Updated:** March 16, 2026 at 11:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Like clockwork.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Like clockwork.
 
 I believe the times ahead will be radically different from what most people have gotten used to—more like the era before 1945 than since.
 
-🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 13h ago
+🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 14h ago
 
 ---
 
@@ -97,25 +97,25 @@ I believe the times ahead will be radically different from what most people have
 
 PEOPLE IT WENT UP!!!
 
-4h ago
+5h ago
 
 ---
 
 **[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
 
-20h ago
+21h ago
 
 ---
 
 **[The life of a Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1rumrk4/the_life_of_a_bitcoiner/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ PEOPLE IT WENT UP!!!
 
 Surprise, the doomers and the panic sellers were wrong again.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 14h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 15h ago
 
 ---
 
@@ -131,13 +131,13 @@ Surprise, the doomers and the panic sellers were wrong again.
 
 Bitcoin long-term holders still control about 79% of supply as exchange reserves decline, pointing to slower redistribution.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/bitcoin-long-term-holders-retain-79-of-supply-as-exchange-reserves-decline/) • 12h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/bitcoin-long-term-holders-retain-79-of-supply-as-exchange-reserves-decline/) • 13h ago
 
 ---
 
 **[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 15h ago
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 16h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bitcoin long-term holders still control about 79% of supply as exchange reserves
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -157,19 +157,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Majors posted broad gains on Monday as oil eased from highs, two tankers sailed through the Strait of Hormuz for the first time since the war began, and Trump said the U.S. was talking to Iran.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Bitcoin Climbs in Asia as Other Markets Remain Tepid](https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-climbs-in-asia-as-other-markets-remain-tepid)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
 **[Strategy, Other Crypto Stocks Jump With Bitcoin. Why They Can Keep Rising.](https://www.barrons.com/articles/strategy-coinbase-stock-robinhood-bitcoin-crypto-f3dda5eb?gaa_at=eafs&gaa_n=AWEtsqe4r4FUFZy7fy9Pc2gf1xCMCs62gOynIRXpA2iA2xN7YrVcgZ6GRBzY&gaa_ts=69b7e4ca&gaa_sig=Z-Kpl0bNmZV3lLmVTLmPgM5VdhTDwzaCAk0b44c-cw-EF53g0Ix8jaoOLJQURkFBhoZLCvmEyk0xZF0ZHGFqwg%3D%3D)**
 
-Barron's • 32m ago
+Barron's • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Barron's • 32m ago
 
 BTC is approaching a key technical level while PEPE and other memecoins jump double digits, signaling rising risk appetite across the crypto market.
 
-CoinDesk • 17m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 17m ago
 
 Analysts said the move reflects a relief bounce driven by ETF inflows, liquidation short squeeze, and bitcoin's position as a macro hedge.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Block • 8h ago
 
 Bitcoin, Ether, and Solana are all worth buying before the bulls return.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -209,7 +209,7 @@ Gold is up 77% in a year and trading near $5,200. Bitcoin is down 47% and stuck 
 
 The filings come as the company faces a lawsuit alleging it commingled client crypto assets and refused to return client funds.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -297,13 +297,13 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 22h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+⬆️ 1 • 💬 0 • 23h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
 
 ---
 
 **[Eliminating UI Bloat in the EraMix Financial Union Dashboard](https://news.ycombinator.com/item?id=47394092)**
 
-⬆️ 1 • 💬 0 • 9h ago
+⬆️ 1 • 💬 0 • 10h ago
 
 ---
 
@@ -317,7 +317,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 924 • 💬 220 • ⏱️ 7:32 • 9h ago
+👁️ 14K • 👍 924 • 💬 220 • ⏱️ 7:32 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ Gold vs Bitcoin is looking interesting. Check out Ledn: https://aaronbtc.com/led
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 211 • 💬 29 • ⏱️ 5:43 • 3h ago
+👁️ 3K • 👍 211 • 💬 29 • ⏱️ 5:43 • 4h ago
 
 ---
 
@@ -337,7 +337,7 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 213 • ⏱️ 10:40 • 14h ago
+👁️ 43K • 👍 2K • 💬 213 • ⏱️ 10:40 • 15h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin is sitting near $69K while gold is exploding and central banks are buyin
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 917 • 💬 37 • ⏱️ 17:22 • 12h ago
+👁️ 13K • 👍 917 • 💬 37 • ⏱️ 17:22 • 13h ago
 
 ---
 
@@ -387,7 +387,7 @@ Bitcoin might be approaching one of the most important moments of the cycle. Sev
 
 📺 Crypto Love
 
-👁️ 4K • 👍 329 • 💬 93 • ⏱️ 10:39 • 17h ago
+👁️ 4K • 👍 329 • 💬 93 • ⏱️ 10:39 • 18h ago
 
 ---
 
@@ -405,7 +405,7 @@ Join me for an exclusive after party and get 10% off of your Bitcoin Vegas ticke
 
 📺 HACKZONE
 
-👁️ 25K • 👍 713 • 💬 6 • ⏱️ 0:33 • 12h ago
+👁️ 25K • 👍 713 • 💬 6 • ⏱️ 0:33 • 13h ago
 
 ---
 

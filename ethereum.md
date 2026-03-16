@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-16T10:54:23.616118+00:00'
+updated: '2026-03-16T11:49:01.170718+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 10:54 UTC  
+**Last Updated:** March 16, 2026 at 11:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other people can't rug you; society can't rug you; your government can't rug you; another government can't rug you; corporations can't rug you." Trade wars escalating, institutional trust falling apart — and crypto has held decently through the worst of it so far. Blue chips bouncing off lows, ETH above $2,100 as of writing. A year ago this kind of global uncertainty would have sent crypto off a cliff. Starting to wonder if people are finally understanding what trustless sovereign money actually looks like when the systems around it are failing. The mandate feels like EF is leaning into exactly that moment. They're framing Ethereum as "sanctuary technology" and going hard on what they call CROPS — censorship resistance, open source, privacy, security — as non-negotiable properties. Not just another smart contract platform. Infrastructure for self-sovereignty in a world where the systems people have been trusting are breaking down. This framing feels different from anything EF has put out before. Is the market starting to price in a new narrative? Or am I reading too much into it? https://ethereum.foundation/ef-mandate.pdf
 
-3h ago
+4h ago
 
 ---
 
@@ -110,7 +110,7 @@ Vitalik Buterin recently suggested that Ethereum might need to revisit the separ
 
 So, I made a post earlier today about getting emails where an item on opensea sold and they are trying to deliver just over 1ETH to me, but I don't believe this is real. My gut is telling me this is a scam since the email is not an open sea email and the site it brings me to is etherscan. Screenshots are above and any input would be nice. Earlier post https://www.reddit.com/r/ethereum/s/Ka8nYWByyL
 
-17h ago
+18h ago
 
 ---
 
@@ -118,7 +118,7 @@ So, I made a post earlier today about getting emails where an item on opensea so
 
 Hi everyone, This morning I woke up to an email from eatherscan.io and was shocked to see what someone was sending me. It was jist over 1ETH and even though part of me was excited to see that amount, i knew deep down there is a possibility of it being a scam so I just wanted to double check and see if anyone else is getting them. I did click the link to see the website it took me to and it is clear eatherscan.io is real but thats as far as I went. I didn't connect my wallet or anything to be safe.
 
-21h ago
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 ShapeShift founder Erik Voorhees reportedly bought over $56 million worth of ETH after selling his ETH holdings a year earlier.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 4h ago
 
 The world's second-most-valuable cryptocurrency has a bright future.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -170,13 +170,13 @@ Yahoo Finance • 19h ago
 
 Ethereum price has finally begun to recover, climbing back above the psychologically significant $2,150 zone after weeks of testing holders’ patience. As usual, the requirements are the same: ETH must close the daily candle above $2,200 and hold this level to potentially build a further upward leg (with $2,500-2,700 as ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Surge. Why Cryptos Are Being Played as a Hedge Against Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcGxApmWlvIbQwDLohuYPHC3P6a7AZKywzhF_KoV8iNkPyzUWhcwGLo&gaa_ts=69b7e4cc&gaa_sig=5dPS0ccGnLnrTJkoYe-ysC_tvWLUAsMVFQt7mJVeJiiJAB8tWuAiuDhtmMARfT2sVXuAKk3s-s3t0fzJQ8wq4A%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ Barron's • 1h ago
 
 Most cryptocurrencies haven't survived seven years as of yet.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Block • 1d ago
 
 **[BitMine Stock Tracks Ethereum’s Price to a T as it Proves to Be the Ultimate Proxy for ETH Investors](https://www.tipranks.com/news/bitmine-stock-tracks-ethereums-price-to-a-t-as-it-proves-to-be-the-ultimate-proxy-for-eth-investors)**
 
-TipRanks • 9h ago
+TipRanks • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 394 • 💬 72 • ⏱️ 19:10 • 19h ago
+👁️ 10K • 👍 394 • 💬 72 • ⏱️ 19:10 • 20h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 147 • 💬 7 • ⏱️ 6:34 • 8h ago
+👁️ 2K • 👍 147 • 💬 7 • ⏱️ 6:34 • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 263 • 💬 220 • ⏱️ 15:59 • 8h ago
+👁️ 8K • 👍 263 • 💬 220 • ⏱️ 15:59 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 U-Winfly Indonesia
 
-👁️ 5K • 👍 1K • 5h ago
+👁️ 5K • 👍 1K • 6h ago
 
 ---
 
@@ -326,7 +326,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 679 • 💬 104 • ⏱️ 13:19 • 5h ago
+👁️ 4K • 👍 679 • 💬 104 • ⏱️ 13:19 • 6h ago
 
 ---
 
