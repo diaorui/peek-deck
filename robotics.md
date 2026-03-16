@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T08:08:20.853984+00:00'
+updated: '2026-03-16T09:40:40.229396+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 08:08 UTC  
+**Last Updated:** March 16, 2026 at 09:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,21 +34,7 @@ Robotics research and industry news
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-15h ago
-
----
-
-**[ORCA Dexterity just announced three new open source robotic hands (CAD files and BOM to be open-sourced in May 2026)](https://www.reddit.com/r/robotics/comments/1ruaqhj/orca_dexterity_just_announced_three_new_open/)**
-
-From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
-
-21h ago
-
----
-
-**[Out with the old…](https://www.reddit.com/r/robotics/comments/1rus5wz/out_with_the_old/)**
-
-9h ago
+17h ago
 
 ---
 
@@ -56,7 +42,45 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 The EU-funded initiative is helping tidy up the litter-filled sea floor, and could even be used to detect hidden mines.
 
-🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 54m ago
+🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 2h ago
+
+---
+
+**[ORCA Dexterity just announced three new open source robotic hands (CAD files and BOM to be open-sourced in May 2026)](https://www.reddit.com/r/robotics/comments/1ruaqhj/orca_dexterity_just_announced_three_new_open/)**
+
+From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
+
+23h ago
+
+---
+
+**[Out with the old…](https://www.reddit.com/r/robotics/comments/1rus5wz/out_with_the_old/)**
+
+11h ago
+
+---
+
+**[My humanoid robot](https://www.reddit.com/r/robotics/comments/1rv3mvu/my_humanoid_robot/)**
+
+I’m currently designing the legs so i can have the body done for a showcase event i’ll go to, i also have a order with the battery arriving and i may connect some components to it so i can test it when i have it. Also i post updates on tiktok: diy.builder and more detailed on yt: DIYmrbuilder
+
+1h ago
+
+---
+
+**[Rise of the AI Soldiers](https://www.reddit.com/r/robotics/comments/1rv4wcr/rise_of_the_ai_soldiers/)**
+
+A new report from TIME delves into the rapid development of militarized humanoid robots like the Phantom, built by SF startup Foundation. With $24 million in Pentagon contracts and units already being tested on the frontlines in Ukraine, these AI-driven machines are designed to wield human weapons and execute complex combat missions alongside troops.
+
+🔗 [TIME](https://time.com/article/2026/03/09/ai-robots-soldiers-war/) • 4m ago
+
+---
+
+**[I Reverse-Engineered the Dynamixel Wizard. Flash Motors Directly from the Terminal!](https://www.reddit.com/r/robotics/comments/1rv4uzx/i_reverseengineered_the_dynamixel_wizard_flash/)**
+
+Hello members of the robotics community, Dynamixel motors are excellent actuators for robotics and I believe many of you are already familia with them. We use them extensively in some large scale robotic applications. However, one of the most frustrating aspects has been flashing new Dynamixel motors. In our case, we often needed to flash them after the robot had already been assembled. Unfortunately, we couldn't integrate this process into our test architecture because the official software (Dynamixel Wizard) is proprietary, and the SDK does not provide functionality for firmware flashing. This limitation became quite frustrating, so I decided to investigate how the Dynamixel Wizard actually performs the flashing process. By setting up a sniffer, I was able to reverse engineer the logic. As a result, we can now flash Dynamixel motors directly from the terminal! I would like to give something back to the community, so I’m planning to open-source this tool. However, I’m still deciding on the best format. Possible options include: a Python package distributed via pip (I might need some help with this), or a full-featured terminal application. Before moving forward, I’d like to know if there is interest in something like this within the community?
+
+6m ago
 
 ---
 
@@ -64,7 +88,7 @@ The EU-funded initiative is helping tidy up the litter-filled sea floor, and cou
 
 I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
 
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 14h ago
+🔗 [GitHub](https://github.com/Robertleoj/slamd) • 15h ago
 
 ---
 
@@ -72,35 +96,13 @@ I work in robotics, and need to do a lot of 3D visualization. But none of the av
 
 LATENT
 
-🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 14h ago
+🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 15h ago
 
 ---
 
 **[I made a Claude Code skill for ROS 2 - looking for feedback](https://www.reddit.com/r/robotics/comments/1rv21o8/i_made_a_claude_code_skill_for_ros_2_looking_for/)**
 
-1h ago
-
----
-
-**[Grain Storage Robot](https://www.reddit.com/r/robotics/comments/1rtp14o/grain_storage_robot/)**
-
-This grain storage robot helps level the grain, break up compacted areas, and improve air circulation in grain storage bins. The movement of the robot on the grain helps in the prevention of spoilage due to moisture and temperature fluctuations. The robot also helps in improving safety in grain storage facilities by reducing the need for humans to enter grain storage bins.
-
-1d ago
-
----
-
-**[Built a robot lending platform to solve my own problem — looking for early testers, regional enthusiasts, and honest feedback](https://www.reddit.com/r/robotics/comments/1ruqdvl/built_a_robot_lending_platform_to_solve_my_own/)**
-
-Background: my daughter and I have an educational, robotics-focused YouTube channel where we review and discuss different robots and robotic concepts together. It's genuinely one of my favorite things to do with her, but keeping up with new robots to feature is prohibitively expensive, especially when we just need them for a couple days. I started looking for somewhere to rent them. Nothing (real) existed*. So I started on this project... It's called DroidBRB, a peer-to-peer robot rental platform where people can list robots and others can rent or borrow them. Note: It's early. Very early. I can guarantee there are no robots listed near 99.999% of you (and still a few tests posts I'll be clearing out soon). Which is the point of this post. This is a network effect challenge, the platform only works if there are robots in your region, which requires people willing to list them, which requires people who want to borrow, and so on. The only way to break that loop is to find the first people who get it early enough to matter. That's why I'm here. What I'm looking for: Early testers — people willing to kick the tires, post some robots they're willing to rent out, find what's broken, and tell me about it. Regional anchors — if you're in a city and want to help seed a local community of lenders and borrowers, I'd love to talk. Partners — people who want to help build this out, not just use it. This isn't a revenue play and I'm not seeking any funding. It's about supporting and building out the community around robotics**, especially as we all know that this is space going to grow rapidly with the continued explosion of robotics. **and finding a great, passionate team to grow this project around. Site is droidbrb.com. Happy to answer anything in the comments. Added notes: - this is not simply a vibecoded app on Replit or Lovable... yes, it's heavily agent-coded (as almost everything these days), but I've been working for weeks trying out different designs, getting messaging / email notifications, etc. to a decent place. I'm sure there are still bugs and please consider this an alpha, so not for folks expecting perfection. But also a great time to make suggestions and influence the direction of this project. * Sharebot.ai exists, and while they describe the opportunity accurately IMO, they want to operate similar to AirBnB in handling payments and taking service fees (in other words, added costs). This would be great if they can provide the same protections as AirBnB does (e.g., someone breaks a robot), but it's unlikely they have the same capital to actually achieve this at scale. Right now they have less than 10 robots total available after launching a year ago and after raising $200K. I wish them all the best, but this is a separate approach / ethos.
-
-🔗 [droidbrb.com](http://droidbrb.com) • 10h ago
-
----
-
-**[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
-
-1d ago
+3h ago
 
 ---
 
@@ -124,9 +126,41 @@ CNBC • 2d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqds_1-4DXmpzDtFO66JqfhGsRu4ofdffUzxHzf0nzeD_-eLvLQPFaqO&gaa_ts=69b7bde0&gaa_sig=VYbMPe0UHuO0T_fS04WEKLn3EE8bVq8EpR-ZVMBRm-9PPxBHrJ44p6ZYQt6t8nTajotirSuN03N7-Iui0d9JaA%3D%3D)**
+**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
 
-WSJ • 15h ago
+Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
+
+TechCrunch • 2d ago
+
+---
+
+**[Travis Kalanick Debuts Plan for ‘Gainfully Employed Robots’](https://finance.yahoo.com/news/travis-kalanick-debuts-plan-gainfully-192647148.html)**
+
+Kalanick is remaking his real estate company, City Storage Systems, which owns ghost-kitchen operator CloudKitchens, and renaming it Atoms, according to a manifesto posted on the new company’s website.  In addition to its work on food, Los Angeles-based Atoms is expanding into robotics technology for mining and automotive transport.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[UAV Navigation-Grupo Oesía Joins Project TICHE to Advance Swarm Robotics & Multiplatform Detection](https://www.unmannedsystemstechnology.com/2026/03/uav-navigation-grupo-oesia-joins-project-tiche-to-advance-swarm-robotics-multiplatform-detection/)**
+
+UAV Navigation-Grupo Oesía is set to play a pivotal role in the TICHE Project by ensuring the safe cross-domain operation...
+
+Unmanned Systems Technology • 3h ago
+
+---
+
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqcr5uVu3xp-K8FQJ7WZmR3DwE3b4V0RoWIrf0FihpTezrSRXxMCv9Dt&gaa_ts=69b7d37e&gaa_sig=_ABuxLDeuxqvOFll-fKKUhhtTQ7zz69riQ_4vRanD2Ag6tyACU3AAcfGWVrGxW6W-_q4A1gNBGqjpPYwsk4hCA%3D%3D)**
+
+WSJ • 16h ago
+
+---
+
+**[Indiana students participate in state robotics competition](https://www.wthr.com/article/news/local/indiana-students-participate-in-state-vex-robotics-competition-lucas-oil-stadium/531-040f76a0-ed09-466a-b471-5476a21e4434)**
+
+For many students, these competitions are where classroom lessons turn into real world skills.
+
+WTHR • 1d ago
 
 ---
 
@@ -146,41 +180,11 @@ Popular Science • 2d ago
 
 ---
 
-**[Elon Musk Bets On Human Workforce As AI, Robotics Boost Productivity: 'Basically Just Issue Money…'](https://finance.yahoo.com/news/elon-musk-bets-human-workforce-013057590.html)**
+**[Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs.](https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3)**
 
-Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
+Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ukraine receives humanoid robots for testing in combat conditions](https://www.ukrinform.net/rubric-ato/4101402-ukraine-receives-humanoid-robots-for-testing-in-combat-conditions.html)**
-
-In February, Phantom MK-1 humanoid soldier robots were delivered to Ukraine to assess their effectiveness in combat conditions. — Ukrinform.
-
-Ukrinform • 2d ago
-
----
-
-**[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
-
-Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
-
-NPR • 2d ago
-
----
-
-**[Glendale robotics team headed to world championships this summer](https://www.azfamily.com/2026/03/15/glendale-robotics-team-headed-world-championships-this-summer/)**
-
-Cactus High School’s robotics team, the Cobra Commanders, is headed to the world championships in May after finishing first at a major regional competition last week.
-
-AZ Family • 16h ago
-
----
-
-**[Serve Robotics: The Robots Are Scaling, The Economics Aren't](https://seekingalpha.com/article/4882592-serve-robotics-the-robots-are-scaling-the-economics-arent)**
-
-Seeking Alpha • 2h ago
+Business Insider • 1h ago
 
 ---
 
@@ -204,7 +208,7 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 6K • 👍 400 • 💬 65 • ⏱️ 7:53 • 19h ago
+👁️ 6K • 👍 400 • 💬 65 • ⏱️ 7:53 • 20h ago
 
 ---
 
@@ -214,7 +218,7 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 📺 Reuters
 
-👁️ 24K • 👍 94 • 💬 38 • ⏱️ 2:38 • 3d ago
+👁️ 24K • 👍 94 • 💬 38 • ⏱️ 2:38 • 4d ago
 
 ---
 
@@ -264,7 +268,7 @@ e-Flesh: Scientists Created 3D-Printed Robotic Skin That Lets Robots Feel Touch,
 
 📺 Techie Sapien
 
-👁️ 4K • 💬 2 • ⏱️ 0:07 • 59m ago
+👁️ 4K • 💬 2 • ⏱️ 0:07 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-16T08:08:20.850762+00:00'
+updated: '2026-03-16T09:40:40.225807+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 08:08 UTC  
+**Last Updated:** March 16, 2026 at 09:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.7%  
-**7d:** +10.9%  
-**30d:** +14.9%  
-**90d:** -20.3%  
-**1y:** +17.2%  
+**24h:** +6.3%  
+**7d:** +10.6%  
+**30d:** +14.6%  
+**90d:** -20.5%  
+**1y:** +16.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other people can't rug you; society can't rug you; your government can't rug you; another government can't rug you; corporations can't rug you." Trade wars escalating, institutional trust falling apart — and crypto has held decently through the worst of it so far. Blue chips bouncing off lows, ETH above $2,100 as of writing. A year ago this kind of global uncertainty would have sent crypto off a cliff. Starting to wonder if people are finally understanding what trustless sovereign money actually looks like when the systems around it are failing. The mandate feels like EF is leaning into exactly that moment. They're framing Ethereum as "sanctuary technology" and going hard on what they call CROPS — censorship resistance, open source, privacy, security — as non-negotiable properties. Not just another smart contract platform. Infrastructure for self-sovereignty in a world where the systems people have been trusting are breaking down. This framing feels different from anything EF has put out before. Is the market starting to price in a new narrative? Or am I reading too much into it? https://ethereum.foundation/ef-mandate.pdf
 
-46m ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Vitalik Buterin recently suggested that Ethereum might need to revisit the separ
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 21h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 22h ago
 
 ---
 
@@ -114,19 +114,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereum Foundation Releases New Mandate Outlining Vision for Ethereum’s Future](https://www.reddit.com/r/ethereum/comments/1rtb297/ethereum_foundation_releases_new_mandate/)**
-
-Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
-
-🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 2d ago
-
----
-
 **[Ethereum’s Constitution is Here 📜⚖️](https://www.reddit.com/r/ethereum/comments/1rtcdrn/ethereums_constitution_is_here/)**
 
 Ethereum Foundation (EF) wrote a constitution for the soul of the project. The new EF Mandate isn't just a corporate mission statement but a line in the sand for how Ethereum stays human in an increasingly automated world. The EF is calling its core philosophy CROPS. If a feature isn’t Censorship-resistant, Resilient, Open-source, Private, and Secure, it doesn't belong on ethereum . No trading sovereignty for convenience. Here are the main points: Stewardship, Not Ownership: The EF is explicitly saying they aren't the boss. They are temporary caretakers who eventually want to disappear. This is the ultimate decentralize or die commitment. The AI Shield: They see a future where AI and opaque algorithms run everything. Ethereum’s job is to be the Infinite Garden, a place where humans, not code or corporations, have the final say over their own lives. Immutable Values: By publishing this directly onto the blockchain, they’ve made their values as permanent as a transaction. You can’t edit the project's soul once it’s on-chain. This is a massive vibe check for the entire ecosystem. It’s a reminder that if we give up control for a slightly faster app, we’ve already lost the plot. Can a written mandate actually stop the slow creep of centralization, or is the pull of convenience just too strong? Let’s talk. 👇 Source
 
 2d ago
+
+---
+
+**[Ethereum Foundation Releases New Mandate Outlining Vision for Ethereum’s Future](https://www.reddit.com/r/ethereum/comments/1rtb297/ethereum_foundation_releases_new_mandate/)**
+
+Ethereum Foundation outlines a new mandate prioritizing decentralization, privacy, and security while reinforcing Ethereum’s role as a self-sovereign sanctuary technology.
+
+🔗 [Cryip.co](https://cryip.co/ethereum-foundation-new-mandate-vision-for-ethereums-future/) • 2d ago
 
 ---
 
@@ -148,11 +148,27 @@ https://drive.proton.me/urls/6M5RFJHPT8#XeXAvdZtQXfe via https://xcancel.com/jos
 
 ## Google News: "ethereum"
 
+**[ShapeShift founder Erik Voorhees buys $56 million worth of Ethereum: onchain analysts](https://www.theblock.co/post/393668/erik-voorhees-buys-ethereum)**
+
+ShapeShift founder Erik Voorhees reportedly bought over $56 million worth of ETH after selling his ETH holdings a year earlier.
+
+The Block • 3h ago
+
+---
+
 **[Prediction: Buying Ethereum Today Could Set You Up for Life](https://finance.yahoo.com/news/prediction-buying-ethereum-today-could-154123868.html)**
 
 The world's second-most-valuable cryptocurrency has a bright future.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
+
+---
+
+**[The Ethereum Foundation has issued a 'life-and-death statement.' Will the community buy into it?](https://news.futunn.com/en/post/70107928/the-ethereum-foundation-has-issued-a-life-and-death-statement)**
+
+TheEthereum Foundation's manifesto has sparked heated debate within the community: Is it a punk ideal or a disconnect from reality?
+
+富途牛牛 • 3h ago
 
 ---
 
@@ -174,31 +190,7 @@ The Block • 1d ago
 
 **[BitMine Stock Tracks Ethereum’s Price to a T as it Proves to Be the Ultimate Proxy for ETH Investors](https://www.tipranks.com/news/bitmine-stock-tracks-ethereums-price-to-a-t-as-it-proves-to-be-the-ultimate-proxy-for-eth-investors)**
 
-TipRanks • 6h ago
-
----
-
-**[Ethereum's 'New Cypherpunk' Manifesto: A Return to the Narrative of Privacy](https://news.futunn.com/en/post/70103614/ethereum-s-new-cypherpunk-manifesto-a-return-to-the-narrative)**
-
-Author:Climber, CryptoPulseLabs. Over the past few years, the narrative of the cryptocurrency industry has been almost entirely dominated by the logic of financialization. From DeFi and NFTs to MEME and ETFs, market attention has increasingly focused on asset prices, liquidity, and the influx of institutional capital. However, Ethereum's recent emphasis on the idea that 'privacy is experiencing a renaissance' and its renewed stress on the 'new cypherpunk' philosophy signify, to some extent, a return to core values. Ethereum is reminding the entire industry that the original purpose of blockchain was not merely financial speculation but rather the application of cryptographic techniques.
-
-富途牛牛 • 4h ago
-
----
-
-**[ShapeShift founder Erik Voorhees buys $56 million worth of Ethereum: onchain analysts](https://www.theblock.co/post/393668/erik-voorhees-buys-ethereum)**
-
-ShapeShift founder Erik Voorhees reportedly bought over $56 million worth of ETH after selling his ETH holdings a year earlier.
-
-The Block • 1h ago
-
----
-
-**[The Ethereum Foundation has issued a 'life-and-death statement.' Will the community buy into it?](https://news.futunn.com/en/post/70107928/the-ethereum-foundation-has-issued-a-life-and-death-statement)**
-
-TheEthereum Foundation's manifesto has sparked heated debate within the community: Is it a punk ideal or a disconnect from reality?
-
-富途牛牛 • 2h ago
+TipRanks • 8h ago
 
 ---
 
@@ -206,7 +198,15 @@ TheEthereum Foundation's manifesto has sparked heated debate within the communit
 
 Most cryptocurrencies haven't survived seven years as of yet.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
+
+---
+
+**[Vitalik Buterin promotes an update simplifying Ethereum node software](https://www.tradingview.com/news/cointelegraph:3f6debdba094b:0-vitalik-buterin-promotes-an-update-simplifying-ethereum-node-software/)**
+
+Ethereum co-founder Vitalik Buterin posted a proposal, or a pull request, on Saturday that would merge the backend programs used by nodes to interact with Ethereum’s Beacon Chain, which handles consensus and staking, and the protocol’s execution layer into one unified code structure to simplify nod…
+
+TradingView • 16h ago
 
 ---
 
@@ -218,11 +218,9 @@ Polymarket • 1d ago
 
 ---
 
-**[Ethereum Currently Undervalued – But Is It Time To Buy?](https://www.tradingview.com/news/newsbtc:0a1e7d6d0094b:0-ethereum-currently-undervalued-but-is-it-time-to-buy/)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqfe8ZhZ7zNJ46cMBrqfUn8cK0JIIfFY_-ajGMTuZhi0FceADkgwuXbN&gaa_ts=69b7d359&gaa_sig=m6gAn4R4j-Kwp_XUHWpvHCFJxuZfmk2mYE19M2lqINTQPDSU3BaU3M5xPqx-1nueHaBLltNJQKL9kVJOnqp-4g%3D%3D)**
 
-According to the latest on-chain data, Ethereum appears to be entering a state of undervaluation, with the potential of rebounding to new highs. However, the question is — is it really time to buy ETH?ETH Could Drop Another 40% Before Bear Cycle EndsIn a new Quicktake post on the CryptoQuant platfo…
-
-TradingView • 21h ago
+Barron's • 37m ago
 
 ---
 
@@ -236,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 376 • 💬 73 • ⏱️ 19:10 • 16h ago
+👁️ 10K • 👍 376 • 💬 73 • ⏱️ 19:10 • 18h ago
 
 ---
 
@@ -246,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 129 • 💬 5 • ⏱️ 6:34 • 5h ago
+👁️ 1K • 👍 129 • 💬 5 • ⏱️ 6:34 • 7h ago
 
 ---
 
@@ -256,7 +254,7 @@ BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 244 • 💬 240 • ⏱️ 15:59 • 6h ago
+👁️ 5K • 👍 244 • 💬 240 • ⏱️ 15:59 • 7h ago
 
 ---
 
@@ -266,7 +264,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 U-Winfly Indonesia
 
-👁️ 3K • 👍 1K • 2h ago
+👁️ 3K • 👍 1K • 3h ago
 
 ---
 
@@ -286,7 +284,7 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 4K • 👍 196 • 💬 81 • ⏱️ 15:12 • 23h ago
+👁️ 4K • 👍 196 • 💬 81 • ⏱️ 15:12 • 1d ago
 
 ---
 
@@ -326,7 +324,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 566 • 💬 83 • ⏱️ 13:19 • 2h ago
+👁️ 2K • 👍 566 • 💬 83 • ⏱️ 13:19 • 3h ago
 
 ---
 
