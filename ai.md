@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-16T14:44:57.880955+00:00'
+updated: '2026-03-16T16:06:01.490325+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 16, 2026 at 14:44 UTC  
+**Last Updated:** March 16, 2026 at 16:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://www.reddit.com/r/artificial/comments/1rva72t/pokémon_go_players_unknowingly_trained_delivery/)**
+
+The massive crowdsourcing effort could use real-world to help robots deliver pizza.
+
+🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 2h ago
+
+---
+
 **[ChatGPT ads still exclusive to the United States, OpenAI says no to global rollout just yet](https://www.reddit.com/r/artificial/comments/1rv69kf/chatgpt_ads_still_exclusive_to_the_united_states/)**
 
 OpenAI introduced ads to ChatGPT last month, exclusive to users in the United States. Users online suspect a global rollout is coming soon.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 3h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 5h ago
 
 ---
 
@@ -49,31 +57,7 @@ OpenAI introduced ads to ChatGPT last month, exclusive to users in the United St
 
 Lately I’ve been thinking about how AI infrastructure spending is starting to feel less like normal cloud usage and more like long-term capital investment (similar to energy or telecom sectors). Big tech companies are already locking in massive compute capacity to support AI agents and large-scale inference workloads. If this trend continues, just having reliable access to compute could become a serious competitive advantage not just a backend technical detail. It also makes me wonder if startup funding dynamics could change. In the future, investors might care not only about product and model quality, but also about whether a startup has secured long-term compute access to scale safely. Of course, there’s also the other side of the argument. Hardware innovation is moving fast, new fabs are being built, and historically GPU shortages have been cyclical. So maybe this becomes less of a problem over time. But if AI agent usage grows really fast and demand explodes, maybe compute access will matter more than we expect. Curious to hear your thoughts: If you were building an AI startup today, would you focus more on improving model capability first, or on making sure you have long-term compute independence?
 
-2h ago
-
----
-
-**[‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://www.reddit.com/r/artificial/comments/1rva72t/pokémon_go_players_unknowingly_trained_delivery/)**
-
-The massive crowdsourcing effort could use real-world to help robots deliver pizza.
-
-🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 46m ago
-
----
-
-**[Kimi introduce Attention Residuals: replaces fixed residual connections with softmax attention](https://www.reddit.com/r/artificial/comments/1rv7k29/kimi_introduce_attention_residuals_replaces_fixed/)**
-
-Introducing Attention Residuals: Rethinking depth-wise aggregation. Residual connections have long relied on fixed, uniform accumulation. Inspired by the duality of time and depth, Kimi introduce Attention Residuals, replacing standard depth-wise recurrence with learned, input-dependent attention over preceding layers. Enables networks to selectively retrieve past representations, naturally mitigating dilution and hidden-state growth. Introduces Block AttnRes, partitioning layers into compressed blocks to make cross-layer attention practical at scale. Serves as an efficient drop-in replacement, demonstrating a 1.25x compute advantage with negligible (<2%) inference latency overhead. Validated on the Kimi Linear architecture (48B total, 3B activated parameters), delivering consistent downstream performance gains. Paper link: https://github.com/MoonshotAI/Attention-Residuals/blob/master/Attention_Residuals.pdf
-
-2h ago
-
----
-
-**[I don't quite understand how useful AI is if conversations get long and have to be ended. Can someone help me figure out how to make this sustainable for myself? Using Claude Sonnet 4.6.](https://www.reddit.com/r/artificial/comments/1rv79uz/i_dont_quite_understand_how_useful_ai_is_if/)**
-
-First, please tell me if there's a better forum to go to for newbies. I don't want to drag anyone down with basics. I'm starting to use AI more in my personal life, but the first problem I'm encountering is the conversations gets long and have to be compacted all the time, and eventually it isn't useful because compacting takes so damn long. I also don't want to start a new conversation because, I assume, that means I lose everything learned in the last one. (Or maybe this is where I'm wrong?) For a relatively simple example like below, how would I get around this? Let's suppose I want to feed in my regular bloodwork and any other low level complexity medical results and lay out some basic things to address, like getting my cholesterol a little lower and improving my gut health. I want the AI to be a companion helping me with my weekly meal planning and grocery shopping list. Maybe I tell it how much time I have to cook each day, what meals I'm thinking about/craving, or even suggest a menu that I like. AI would help me refine it around my nutritional goals and build my weekly grocery list. Every 24 hours I will feed it basic information, like how well my guts are performing, how well I sleep, how often I feel low energy, etc. Every few months I might add new test results. How do I do this, but not lose information every time the conversation gets long?
-
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +65,23 @@ First, please tell me if there's a better forum to go to for newbies. I don't wa
 
 In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.
 
-54m ago
+2h ago
+
+---
+
+**[Kimi introduce Attention Residuals: replaces fixed residual connections with softmax attention](https://www.reddit.com/r/artificial/comments/1rv7k29/kimi_introduce_attention_residuals_replaces_fixed/)**
+
+Introducing Attention Residuals: Rethinking depth-wise aggregation. Residual connections have long relied on fixed, uniform accumulation. Inspired by the duality of time and depth, Kimi introduce Attention Residuals, replacing standard depth-wise recurrence with learned, input-dependent attention over preceding layers. Enables networks to selectively retrieve past representations, naturally mitigating dilution and hidden-state growth. Introduces Block AttnRes, partitioning layers into compressed blocks to make cross-layer attention practical at scale. Serves as an efficient drop-in replacement, demonstrating a 1.25x compute advantage with negligible (<2%) inference latency overhead. Validated on the Kimi Linear architecture (48B total, 3B activated parameters), delivering consistent downstream performance gains. Paper link: https://github.com/MoonshotAI/Attention-Residuals/blob/master/Attention_Residuals.pdf
+
+4h ago
+
+---
+
+**[Unified Design to access any LLMs](https://www.reddit.com/r/artificial/comments/1rvcbg1/unified_design_to_access_any_llms/)**
+
+Looking at the guidance on how people are handling this very common scenario. We are trying to see how in our company people are using these frontier models, getting team subscriptions and allow them to use by everyone has gone too far and not scalable as cost explodes. Also most importantly we need to understand the security scanning of the prompts sent to these LLMs as proprietary information or any keys or any non public data needs to be secured, I was thinking a internal proxy but there got to be more matured way as this seems a common problem that should be solved before? We have AWS Bedrock but that doesn't give me exposure to the logging of prompts sent to claude or any other ones, also the bottleneck of not supporting chatgpt is a good issue too. appreciate links, thoughts, blogs?
+
+48m ago
 
 ---
 
@@ -89,15 +89,7 @@ In other words, some trustworthy links that you can read on daily/weekly basis t
 
 I've been tracking AI-driven layoffs for the past few months and something doesn't add up. Block cut 4,000 people (40% of workforce). Atlassian cut 1,600. Shopify told employees to prove AI can't do their job before asking for headcount. The script is always the same: CEO cites AI, stock ticks up. But then you look at the numbers. S&P Global found 42% of companies abandoned their AI initiatives in 2025, up from 17% the year before. A separate survey found 55% of CEOs who fired people "because of AI" already regret it. Klarna bragged AI could replace 700 employees, then quietly started hiring humans back when quality tanked. What I keep seeing across the research is that AI compressed execution speed dramatically; prototyping that took weeks now takes hours. But the coordination layer (approval chains, quarterly planning, review cycles) didn't speed up at all. The bottleneck flipped from "can we build it fast enough" to "does leadership know what to build and can they keep up with the teams building it." Companies are cutting the people who got faster while leaving the layer that didn't speed up intact. Monday.com is an interesting counter-example. Lost 80% of market value, automated 100 SDRs with AI, but redeployed them instead of firing them. Their CEO's reasoning: "Every time we eliminate one bottleneck, a new one emerges." I pulled together ten independent sources on this — engineers, economists, survey data, executives — and wrote it up here if anyone wants the full analysis with sources: https://news.future-shock.ai/ai-didnt-replace-workers-it-outran-their-managers/ Curious if anyone else is seeing this pattern in their orgs. Is the management layer adapting or just cutting headcount and calling it an AI strategy?
 
-15h ago
-
----
-
-**[Does anyone actually switch between AI models mid-conversation? And if so, what happens to your context?](https://www.reddit.com/r/artificial/comments/1rv6tfi/does_anyone_actually_switch_between_ai_models/)**
-
-I want to ask something specific that came out of my auto-routing thread earlier. A lot of people said they prefer manual model selection over automation — fair enough. But that raised a question I haven't seen discussed much: When you manually switch from say ChatGPT to Claude mid-task, what actually happens to your conversation? Do you copy-paste the context across? Start fresh and re-explain everything? Or do you just not switch at all because it's too much friction? Because here's the thing — none of the major AI providers have any incentive to solve this problem. OpenAI isn't going to build a feature that seamlessly hands your conversation to Claude. Anthropic isn't going to make it easy to continue in Grok. They're competitors. The cross-model continuity problem exists precisely because no single provider can solve it. I've been building a platform where every model — GPT, Claude, Grok, Gemini, DeepSeek — shares the same conversation thread. I just tested it by asking GPT-5.2 a question about computing, then switched manually to Grok 4 and typed "anything else important." Three words. No context. Grok 4 picked up exactly where GPT-5.2 left off without missing a beat. My question for this community is genuinely whether that's a problem people actually experience. Do you find yourself wanting to switch models mid-task but not doing it because of the context loss? Or do most people just pick one model and stay there regardless? Trying to understand whether cross-model continuity is a real pain point or just something that sounds useful in theory.
-
-3h ago
+17h ago
 
 ---
 
@@ -105,15 +97,23 @@ I want to ask something specific that came out of my auto-routing thread earlier
 
 I have MS, so I've never really been able to play instruments. I can't sing. So music was just something I fantasized about. I was always making songs in my head, they just never went anywhere. First I used AI to make songs for my nieces and nephews. Next I started making songs for myself. Then I got high while manic and out poured several songs. One of the songs is about being bipolar. The first one I made was for my 7 year old niece. It's bubble gum pop, that's what she likes. I was hoping my niece would be able to ask her alexa to play her song, but there is a song with a similar name which has millions of plays, so that will never happen 🙃 After that, I had to make songs for her siblings. Then I had to make songs for my brother's kids... Unfortunately I got better at it as I went so I think the last kid's song is better than the first kid's song. But they can't tell. I make little videos with them when they come over, so I'm gonna make music video's with the kids at some point so they'll always have their own custom song they can show their friends. I won't post any links, not trying to self promote, just wanted to share that this was sort of therapeutic for me. I know the tech is controversial, but I'm a fan of AI
 
-1h ago
+2h ago
 
 ---
 
-**[WiFi-DensePose: AI Can Track Body Positions Through Walls](https://www.reddit.com/r/artificial/comments/1ruzmks/wifidensepose_ai_can_track_body_positions_through/)**
+**[Does anyone actually switch between AI models mid-conversation? And if so, what happens to your context?](https://www.reddit.com/r/artificial/comments/1rv6tfi/does_anyone_actually_switch_between_ai_models/)**
 
-WiFi-DensePose: AI Can Track Body Positions Through Walls: Researchers have developed a system using standard WiFi signals to reconstruct full-body positions in real-time, through walls and in the dark, offering potential for privacy-preserving fall detection and health monitoring
+I want to ask something specific that came out of my auto-routing thread earlier. A lot of people said they prefer manual model selection over automation — fair enough. But that raised a question I haven't seen discussed much: When you manually switch from say ChatGPT to Claude mid-task, what actually happens to your conversation? Do you copy-paste the context across? Start fresh and re-explain everything? Or do you just not switch at all because it's too much friction? Because here's the thing — none of the major AI providers have any incentive to solve this problem. OpenAI isn't going to build a feature that seamlessly hands your conversation to Claude. Anthropic isn't going to make it easy to continue in Grok. They're competitors. The cross-model continuity problem exists precisely because no single provider can solve it. I've been building a platform where every model — GPT, Claude, Grok, Gemini, DeepSeek — shares the same conversation thread. I just tested it by asking GPT-5.2 a question about computing, then switched manually to Grok 4 and typed "anything else important." Three words. No context. Grok 4 picked up exactly where GPT-5.2 left off without missing a beat. My question for this community is genuinely whether that's a problem people actually experience. Do you find yourself wanting to switch models mid-task but not doing it because of the context loss? Or do most people just pick one model and stay there regardless? Trying to understand whether cross-model continuity is a real pain point or just something that sounds useful in theory.
 
-10h ago
+4h ago
+
+---
+
+**[I don't quite understand how useful AI is if conversations get long and have to be ended. Can someone help me figure out how to make this sustainable for myself? Using Claude Sonnet 4.6.](https://www.reddit.com/r/artificial/comments/1rv79uz/i_dont_quite_understand_how_useful_ai_is_if/)**
+
+First, please tell me if there's a better forum to go to for newbies. I don't want to drag anyone down with basics. I'm starting to use AI more in my personal life, but the first problem I'm encountering is the conversations gets long and have to be compacted all the time, and eventually it isn't useful because compacting takes so damn long. I also don't want to start a new conversation because, I assume, that means I lose everything learned in the last one. (Or maybe this is where I'm wrong?) For a relatively simple example like below, how would I get around this? Let's suppose I want to feed in my regular bloodwork and any other low level complexity medical results and lay out some basic things to address, like getting my cholesterol a little lower and improving my gut health. I want the AI to be a companion helping me with my weekly meal planning and grocery shopping list. Maybe I tell it how much time I have to cook each day, what meals I'm thinking about/craving, or even suggest a menu that I like. AI would help me refine it around my nutritional goals and build my weekly grocery list. Every 24 hours I will feed it basic information, like how well my guts are performing, how well I sleep, how often I feel low energy, etc. Every few months I might add new test results. How do I do this, but not lose information every time the conversation gets long?
+
+4h ago
 
 ---
 
@@ -121,43 +121,11 @@ WiFi-DensePose: AI Can Track Body Positions Through Walls: Researchers have deve
 
 ## Google News: "ai"
 
-**[Is this product 'human-made'? The race to establish an AI-free logo](https://www.bbc.com/news/articles/cj0d6el50ppo)**
-
-The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.
-
-BBC • 14h ago
-
----
-
 **[Google scraps AI search feature that crowdsourced amateur medical advice](https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice)**
 
 Exclusive: Revelation comes as company faces mounting scrutiny over use of AI to provide health tips
 
-The Guardian • 5h ago
-
----
-
-**[How AI images are impacting the war with Iran](https://www.cnn.com/2026/03/16/us/video/how-ai-images-are-impacting-the-war-with-iran-cnc)**
-
-Israel’s Prime Minister appearing in a new video to prove he’s alive and unhurt after a clip seeming to show him with six fingers went viral. CNN News Central’s Kate Bolduan speaks with Hany Farid, co-founder & chief science officer at GetReal Security, a company aiming to restore the ability to trust what we see.
-
-CNN • 38m ago
-
----
-
-**[Nvidia shares are rising before its big AI conference. Here's what Wall Street expects to hear](https://www.cnbc.com/2026/03/16/nvidia-shares-are-rising-before-its-big-ai-conference-heres-what-wall-street-expects-to-hear.html)**
-
-Analysts say the biggest question hanging over the semiconductor sector is whether hyperscale spending on AI hardware can remain strong.
-
-CNBC • 48m ago
-
----
-
-**[Miami private school using AI to tailor lessons for every student](https://www.cbsnews.com/miami/video/miami-private-school-using-ai-to-tailor-lessons-for-every-student/)**
-
-A new private school in Miami is using artificial intelligence to tailor lessons for every student. School leaders say the goal isn’t to replace teachers, it’s to give student more time to build real world skills.
-
-CBS News • 45m ago
+The Guardian • 7h ago
 
 ---
 
@@ -165,37 +133,67 @@ CBS News • 45m ago
 
 Look up which jobs are most at risk from artificial intelligence and who is most likely to be able to adapt, according to a new analysis.
 
-The Washington Post • 56m ago
+The Washington Post • 1h ago
 
 ---
 
-**[Tech companies are blaming massive layoffs on AI. What’s really going on?](https://theconversation.com/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on-278314)**
+**[Crypto, AI groups spend millions in Chicago primaries](https://chicago.suntimes.com/morning-edition/2026/03/16/crypto-ai-groups-spend-millions-in-chicago-primaries)**
 
-Amazon, Block and Atlassian have announced AI-driven job cuts, and Meta is reportedly planning its own – but all may not be as it seems.
+Plus: L riders pushed onto tracks, craft breweries' survival and more.
 
-The Conversation • 12h ago
+Chicago Sun-Times • 38m ago
+
+---
+
+**[AI is reviving tech sectors that VCs had all but forgotten](https://fortune.com/2026/03/16/ai-is-reviving-tech-sectors-that-vcs-had-all-but-forgotten/)**
+
+PitchBook data shows early-stage money surging back into healthtech, cybersecurity, biotech, and SaaS.
+
+Fortune • 12m ago
+
+---
+
+**[Tax scams are on the rise. Here's what to know](http://www.wyff4.com/article/tax-scams-robocalls-ai-irs-impersonation/70758451)**
+
+Robocalls, texts, and phishing emails from scammers are up this tax season compared to previous years, according to the consumer protection bureau of the FTC.
+
+WYFF News 4 • 22m ago
+
+---
+
+**[Nebius jumps 14% after inking $27 billion infrastructure deal with Meta](https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html)**
+
+Meta is planning capital expenditure of up to $135 billion related to AI this year.
+
+CNBC • 4h ago
+
+---
+
+**[Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years](https://finance.yahoo.com/news/nebius-signs-ai-capacity-deal-100907683.html)**
+
+By Aditya Soni and Toby Sterling March 16 (Reuters) - Amsterdam-based AI infrastructure firm Nebius Group said Monday it has signed a five-year deal with Meta Platforms to provide the social media
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Nebius Stock Pops On Expanded Meta Platforms Artificial Intelligence Data Center Deal](https://www.investors.com/news/technology/nebius-stock-pops-meta-expanded-ai-cloud-computing-agreement/)**
+
+Investor's Business Daily • 3h ago
+
+---
+
+**[Is this product 'human-made'? The race to establish an AI-free logo](https://www.bbc.com/news/articles/cj0d6el50ppo)**
+
+The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.
+
+BBC • 15h ago
 
 ---
 
 **[Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/)**
 
 Reuters • 1d ago
-
----
-
-**[Writing Faculty Push for the Right to Refuse AI](https://www.insidehighered.com/news/tech-innovation/teaching-learning/2026/03/16/writing-faculty-push-right-refuse-ai)**
-
-As universities rush to adopt generative AI–powered tools that claim to enhance teaching, learning and workforce preparation, a growing contingent of academics is questioning where that urgency is coming from and whom it stands to benefit.
-
-Inside Higher Ed • 7h ago
-
----
-
-**[Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years](https://finance.yahoo.com/news/nebius-signs-ai-capacity-deal-100907987.html)**
-
-Amsterdam-based AI infrastructure firm Nebius Group said on Monday it has agreed with ‌Meta Platforms to provide the social media giant with $12 billion worth ‌of AI computing capacity across multiple locations by 2027.  Under the agreement, Meta will also buy ​an additional $15 billion worth of capacity planned by Nebius over the coming five years if it is not sold to other customers, giving the contract a total value of up to $27 billion, Nebius said.  Last week, Nvidia said it would ‌invest $2 billion to buy an ⁠8.3% stake in Nebius, which uses Nvidia chips in its data centers.
-
-Yahoo Finance • 4h ago
 
 ---
 
@@ -235,7 +233,7 @@ Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretati
 
 **[Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)**
 
-⬆️ 328 • 💬 522 • 22h ago
+⬆️ 328 • 💬 522 • 1d ago
 
 ---
 
@@ -257,7 +255,7 @@ Define, version, and run AI agents natively in git. GitAgent is the open AI agen
 
 **[AI didn't simplify software engineering: It just made bad engineering easier](https://news.ycombinator.com/item?id=47377262)**
 
-⬆️ 128 • 💬 111 • 1d ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
+⬆️ 128 • 💬 111 • 2d ago • [robenglander.com](https://robenglander.com/writing/ai-did-not-simplify/)
 
 ---
 
@@ -285,7 +283,7 @@ What is financial freedom? The Business Strategist Daniel Priestley on why AI ma
 
 📺 The Diary Of A CEO
 
-👁️ 93K • 👍 4K • 💬 869 • ⏱️ 2:02:37 • 6h ago
+👁️ 178K • 👍 7K • 💬 1K • ⏱️ 2:02:37 • 8h ago
 
 ---
 
@@ -295,7 +293,7 @@ ssh terminal.shop CHECK OUT THEIR NEW PODCAST ON CASEY'S YOUTUBE: @MollyRocket A
 
 📺 The PrimeTime
 
-👁️ 120K • 👍 3K • 💬 643 • ⏱️ 42:21 • 2d ago
+👁️ 124K • 👍 3K • 💬 661 • ⏱️ 42:21 • 2d ago
 
 ---
 
@@ -305,37 +303,7 @@ Meta is preparing for the largest layoffs in company history, potentially firing
 
 📺 Mark Savant
 
-👁️ 8K • 👍 268 • 💬 101 • ⏱️ 15:54 • 1d ago
-
----
-
-**[Palantir CTO: &quot;You&#39;re Being Lied to About AI&quot; | Official Preview](https://www.youtube.com/watch?v=gTP9_WTqFWE)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join In this episode of ...
-
-📺 Shawn Ryan Show
-
-👁️ 97K • 👍 3K • 💬 546 • ⏱️ 3:28 • 2d ago
-
----
-
-**[Netanyahu &#39;DEAD&#39; BREAKING:  New ‘FAKE AI’ Coffee Video Released? Grok Says Israeli PM Is Dead?](https://www.youtube.com/watch?v=ZPgLki4x3xc)**
-
-A viral video shows Israeli Prime Minister Benjamin Netanyahu sitting in a Tel Aviv café, seemingly dismissing death claims.
-
-📺 Oneindia News
-
-👁️ 7K • 👍 86 • 💬 44 • ⏱️ 3:02 • 7h ago
-
----
-
-**[AI News: They All Launched the Same Thing!](https://www.youtube.com/watch?v=syx_8UlEWlA)**
-
-Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
-
-📺 Matt Wolfe
-
-👁️ 84K • 👍 3K • 💬 234 • ⏱️ 33:33 • 2d ago
+👁️ 8K • 👍 269 • 💬 107 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -345,7 +313,17 @@ Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but re
 
 📺 AI DREAM ASMR
 
-👁️ 77K • 👍 5K • 💬 314 • ⏱️ 2:34 • 2d ago
+👁️ 78K • 👍 5K • 💬 367 • ⏱️ 2:34 • 2d ago
+
+---
+
+**[Netanyahu &#39;DEAD&#39; BREAKING:  New ‘FAKE AI’ Coffee Video Released? Grok Says Israeli PM Is Dead?](https://www.youtube.com/watch?v=ZPgLki4x3xc)**
+
+A viral video shows Israeli Prime Minister Benjamin Netanyahu sitting in a Tel Aviv café, seemingly dismissing death claims.
+
+📺 Oneindia News
+
+👁️ 9K • 👍 107 • 💬 61 • ⏱️ 3:02 • 8h ago
 
 ---
 
@@ -355,25 +333,47 @@ Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 405 • 💬 33 • ⏱️ 18:24 • 2d ago
+👁️ 12K • 👍 411 • 💬 34 • ⏱️ 18:24 • 2d ago
 
 ---
 
-**[Claude Code, Paperclip, &amp; The Rise of &quot;AI Agent Companies&quot;](https://www.youtube.com/watch?v=Rgb-Kx-kkaA)**
+**[AI News: They All Launched the Same Thing!](https://www.youtube.com/watch?v=syx_8UlEWlA)**
 
-Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai FREE community + GWS ...
+Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
 
-📺 Chase AI
+📺 Matt Wolfe
 
-👁️ 18K • 👍 512 • 💬 45 • ⏱️ 8:51 • 16h ago
+👁️ 86K • 👍 3K • 💬 234 • ⏱️ 33:33 • 2d ago
 
 ---
 
-**[This hotel uses AI instead of humans and then LIES about it. 🥴](https://www.youtube.com/watch?v=iK5mTjCCBdc)**
+**[5 Things Failing in AI. One Technology Fixes Them All!](https://www.youtube.com/watch?v=gHFaQCWtaes)**
 
-📺 Maggie McGaugh
+Learn more about Sparc AI (CSE: SPAI) (OTCQB: SPAIF) at https://sparcai.co There are 5 Things Failing in AI right now—from ...
 
-👁️ 273K • 👍 14K • 💬 671 • ⏱️ 2:30 • 19h ago
+📺 BWB - Business With Brian
+
+👁️ 77K • 👍 4K • 💬 350 • ⏱️ 17:15 • 1d ago
+
+---
+
+**[AI Gets Wrong Woman Arrested 1,200 Miles Away From Crime](https://www.youtube.com/watch?v=mzS7dmCUzcQ)**
+
+A facial recognition program in SD led to the arrest of an innocent woman in TN, who lost her home and more as a result of the ...
+
+📺 Steve Lehto
+
+👁️ 170K • 👍 9K • 💬 3K • ⏱️ 11:02 • 2d ago
+
+---
+
+**[AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](https://www.youtube.com/watch?v=qWzo3ws0uWU)**
+
+HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
+
+📺 AI Search
+
+👁️ 75K • 👍 3K • 💬 364 • ⏱️ 45:43 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 5,412 • ❤️ 505 • 4d ago
+⬇️ 5,412 • ❤️ 513 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 67,573 • ❤️ 737 • 8d ago
+⬇️ 67,573 • ❤️ 743 • 8d ago
 
 ---
 
@@ -413,7 +413,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 86,706 • ❤️ 294 • 5d ago
+⬇️ 86,706 • ❤️ 334 • 5d ago
 
 ---
 
@@ -425,7 +425,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 237,719 • ❤️ 477 • 12d ago
+⬇️ 237,719 • ❤️ 481 • 12d ago
 
 ---
 
@@ -437,7 +437,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 596,747 • ❤️ 639 • 22h ago
+⬇️ 596,747 • ❤️ 643 • 23h ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 2,111,532 • ❤️ 863 • 14d ago
+⬇️ 2,111,532 • ❤️ 865 • 14d ago
 
 ---
 
@@ -461,7 +461,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 7,340 • ❤️ 234 • 3d ago
+⬇️ 7,340 • ❤️ 236 • 3d ago
 
 ---
 
@@ -497,7 +497,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 `text-generation` `4.0B`
 
-⬇️ 1,343 • ❤️ 170 • 2d ago
+⬇️ 1,343 • ❤️ 171 • 2d ago
 
 ---
 
@@ -539,7 +539,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 102 • 💬 5 • ⭐ 3,071 • 5d ago
+▲ 104 • 💬 5 • ⭐ 3,071 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -626,7 +626,7 @@ A novel tokenization scheme synchronizes acoustic features with text tokens in T
 
 OASIS is a scalable and generalizable social media simulator that models large-scale user interactions and replicates complex social phenomena across platforms.
 
-▲ 1 • 💬 0 • ⭐ 3,263 • 16mo ago
+▲ 1 • 💬 0 • ⭐ 3,312 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2411.11581) • [💻 code](https://github.com/camel-ai/oasis)
 
@@ -642,7 +642,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 37.6k • 🔱 5.2k • 5d ago
+⭐ 37.9k • 🔱 5.2k • 5d ago
 
 ---
 
@@ -652,7 +652,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.8k • 🔱 965 • 2d ago
+⭐ 20.8k • 🔱 966 • 2d ago
 
 ---
 
@@ -672,7 +672,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.0k • 🔱 906 • 22h ago
+⭐ 10.0k • 🔱 916 • 1h ago
 
 ---
 
@@ -682,7 +682,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.5k • 🔱 685 • 3h ago
+⭐ 9.5k • 🔱 687 • 4h ago
 
 ---
 
@@ -692,7 +692,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 7.9k • 🔱 372 • 6h ago
+⭐ 7.9k • 🔱 375 • 7h ago
 
 ---
 
@@ -702,7 +702,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python`
 
-⭐ 7.2k • 🔱 921 • 12d ago
+⭐ 7.2k • 🔱 919 • 13d ago
 
 ---
 
@@ -712,7 +712,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.4k • 🔱 752 • 12h ago
+⭐ 6.4k • 🔱 752 • 13h ago
 
 ---
 
@@ -722,7 +722,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 3.0k • 🔱 193 • 15h ago
+⭐ 3.0k • 🔱 194 • 17h ago
 
 ---
 

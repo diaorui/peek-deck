@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T14:44:57.897196+00:00'
+updated: '2026-03-16T16:06:01.508016+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 14:44 UTC  
+**Last Updated:** March 16, 2026 at 16:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
 
-4h ago
+5h ago
 
 ---
 
@@ -44,13 +44,13 @@ From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LA
 
 I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
 
-2h ago
+4h ago
 
 ---
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ I built my own desktop companion with raspberry pi, respeaker lite. I built it t
 
 The EU-funded initiative is helping tidy up the litter-filled sea floor, and could even be used to detect hidden mines.
 
-🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 7h ago
+🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 8h ago
 
 ---
 
@@ -66,7 +66,7 @@ The EU-funded initiative is helping tidy up the litter-filled sea floor, and cou
 
 I’m currently designing the legs so i can have the body done for a showcase event i’ll go to, i also have a order with the battery arriving and i may connect some components to it so i can test it when i have it. Also i post updates on tiktok: diy.builder and more detailed on yt: DIYmrbuilder
 
-6h ago
+7h ago
 
 ---
 
@@ -78,9 +78,25 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 ---
 
+**[Tesla Stresses 'Capability, Reliability' of Optimus Humanoid in Goldman Meeting](https://www.reddit.com/r/robotics/comments/1rvcjub/tesla_stresses_capability_reliability_of_optimus/)**
+
+Goldman Sachs analyst Mark Delaney said on Monday that Tesla "is happy with the progress" with the hardware development of its Optimus humanoid robot following a management meeting, as the company prepares to unveil the third generation later this year.
+
+🔗 [EV](https://eletric-vehicles.com/tesla/tesla-stresses-capability-reliability-of-optimus-humanoid-in-goldman-meeting/) • 39m ago
+
+---
+
 **[Out with the old…](https://www.reddit.com/r/robotics/comments/1rus5wz/out_with_the_old/)**
 
-16h ago
+17h ago
+
+---
+
+**[Rise of the AI Soldiers](https://www.reddit.com/r/robotics/comments/1rv4wcr/rise_of_the_ai_soldiers/)**
+
+A new report from TIME delves into the rapid development of militarized humanoid robots like the Phantom, built by SF startup Foundation. With $24 million in Pentagon contracts and units already being tested on the frontlines in Ukraine, these AI-driven machines are designed to wield human weapons and execute complex combat missions alongside troops.
+
+🔗 [TIME](https://time.com/article/2026/03/09/ai-robots-soldiers-war/) • 6h ago
 
 ---
 
@@ -88,23 +104,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 Hello members of the robotics community, Dynamixel motors are excellent actuators for robotics and I believe many of you are already familia with them. We use them extensively in some large scale robotic applications. However, one of the most frustrating aspects has been flashing new Dynamixel motors. In our case, we often needed to flash them after the robot had already been assembled. Unfortunately, we couldn't integrate this process into our test architecture because the official software (Dynamixel Wizard) is proprietary, and the SDK does not provide functionality for firmware flashing. This limitation became quite frustrating, so I decided to investigate how the Dynamixel Wizard actually performs the flashing process. By setting up a sniffer, I was able to reverse engineer the logic. As a result, we can now flash Dynamixel motors directly from the terminal! I would like to give something back to the community, so I’m planning to open-source this tool. However, I’m still deciding on the best format. Possible options include: a Python package distributed via pip (I might need some help with this), or a full-featured terminal application. Before moving forward, I’d like to know if there is interest in something like this within the community?
 
-5h ago
-
----
-
-**[slamd - a simple 3D visualizer for Python](https://www.reddit.com/r/robotics/comments/1rukhd9/slamd_a_simple_3d_visualizer_for_python/)**
-
-I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
-
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 21h ago
-
----
-
-**[Hard to believe this isn't simulation - their robot plays better tennis than me](https://www.reddit.com/r/robotics/comments/1rukh8r/hard_to_believe_this_isnt_simulation_their_robot/)**
-
-LATENT
-
-🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 21h ago
+6h ago
 
 ---
 
@@ -112,47 +112,11 @@ LATENT
 
 ## Google News: "robotics"
 
-**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
+**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
 
-The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
+Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
 
-Quanta Magazine • 3d ago
-
----
-
-**[Humanoid robots get to work at German BMW factory [video]](https://electrek.co/2026/03/14/humanoid-robots-get-to-work-at-german-bmw-factory-video/)**
-
-After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
-
-Electrek • 1d ago
-
----
-
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqf5KMCyNcDfaTKWQRd9leL43tDxyAy8gynX-8UUw55ZIvMgxFO2cW4A&gaa_ts=69b81ad6&gaa_sig=MfDZ7ERiJ65dUmDaw-4oLXL_PLcSHQZxSlrKNx2b4EdM9Ut3QKpqTzVbOQ2mnWpvZKHrH3-7hTYfL6AMNrTQQQ%3D%3D)**
-
-WSJ • 12h ago
-
----
-
-**[Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs.](https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3)**
-
-Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
-
-Business Insider • 5h ago
-
----
-
-**[Glendale robotics team headed to world championships this summer](https://www.azfamily.com/2026/03/15/glendale-robotics-team-headed-world-championships-this-summer/)**
-
-Cactus High School’s robotics team, the Cobra Commanders, is headed to the world championships in May after finishing first at a major regional competition last week.
-
-AZ Family • 23h ago
-
----
-
-**[Uber co-founder Kalanick launches Atoms in specialized robotics push](https://www.reuters.com/business/uber-co-founder-kalanick-launches-atoms-specialized-robotics-push-2026-03-13/)**
-
-Reuters • 2d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -164,11 +128,47 @@ CNBC • 2d ago
 
 ---
 
-**[Travis Kalanick Plots New Robotics and Self-Driving Venture with Levandowski, Uber](https://www.theinformation.com/articles/travis-kalanick-plots-new-self-driving-venture-levandowski-uber)**
+**[Uber co-founder Kalanick launches Atoms in specialized robotics push](https://www.reuters.com/business/uber-co-founder-kalanick-launches-atoms-specialized-robotics-push-2026-03-13/)**
 
-Former Uber CEO and cofounder Travis Kalanick is preparing to launch a new robotics and self-driving car company with major backing from the ride-hailing giant, according to several people familiar with the matter. Kalanick has also been discussing acquiring the startup founded by Anthony ...
+Reuters • 2d ago
 
-The Information • 2d ago
+---
+
+**[Humanoid robots get to work at German BMW factory [video]](https://electrek.co/2026/03/14/humanoid-robots-get-to-work-at-german-bmw-factory-video/)**
+
+After successfully piloting humanoid robots at its SC plant last year, BMW is putting AI-powered machines to work in Germany.
+
+Electrek • 1d ago
+
+---
+
+**[Nvidia GTC: All the AI and Robotics News We Expect to Hear at Today's Keynote](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/)**
+
+Physical AI, agents, inference and more are on the table for the world's biggest company during Monday's conference kickoff.
+
+CNET • 4m ago
+
+---
+
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqcr5Sq59NfOlYPL0IKGrf7EfH_4ZohUvL7UfeNRI2_vTLVKjuDoVScH&gaa_ts=69b82dd7&gaa_sig=l7vSQQ4cPx7EeAKua8nAwf-nJJTP4Ng7gLVuL_jJNqf5R-C2Sz8X37XGBYO3xuQAJfYvvuCFWNc-BFk1EWVoNA%3D%3D)**
+
+WSJ • 22h ago
+
+---
+
+**[Glendale robotics team headed to world championships this summer](https://www.azfamily.com/2026/03/15/glendale-robotics-team-headed-world-championships-this-summer/)**
+
+Cactus High School’s robotics team, the Cobra Commanders, is headed to the world championships in May after finishing first at a major regional competition last week.
+
+AZ Family • 1d ago
+
+---
+
+**[Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs.](https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3)**
+
+Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
+
+Business Insider • 6h ago
 
 ---
 
@@ -180,11 +180,11 @@ Popular Science • 2d ago
 
 ---
 
-**[Webus International Officially rebrands as Wetour Robotics, Establishes Austin, Texas Headquarters for Physical AI and Wearable Robotics](https://finance.yahoo.com/news/webus-international-officially-rebrands-wetour-130000765.html)**
+**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
 
-Austin, TX, March 16, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (NASDAQ: WETO) (“Wetour Robotics” or the “Company”), formerly known as Webus International Limited, today announced that its corporate name change has officially taken effect following the issuance of a new Certificate of Incorporation by the Registrar of Companies in the Cayman Islands. Concurrently, the Company announces the establishment of its U.S. headquarters and principal research center in Austin, Texas, to develop it
+The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Yahoo Finance • 1h ago
+Quanta Magazine • 3d ago
 
 ---
 
@@ -192,23 +192,23 @@ Yahoo Finance • 1h ago
 
 ## YouTube Videos: "robotics"
 
-**[AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)](https://www.youtube.com/watch?v=ZZrR7rIIPmc)**
-
-Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2-0-airevolutionx-pekSSk Researchers in China just ...
-
-📺 AI Revolution
-
-👁️ 7K • 👍 326 • 💬 27 • ⏱️ 13:18 • 14h ago
-
----
-
 **[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
 
 Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
 
 📺 Brighter with Herbert
 
-👁️ 74K • 👍 2K • 💬 275 • ⏱️ 49:45 • 1d ago
+👁️ 76K • 👍 2K • 💬 278 • ⏱️ 49:45 • 1d ago
+
+---
+
+**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
+
+QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
+
+📺 Just Josh
+
+👁️ 7K • 👍 432 • 💬 74 • ⏱️ 7:53 • 1d ago
 
 ---
 
@@ -222,61 +222,13 @@ Humanoid robotics startup Foundation Future Industries is aiming to build robots
 
 ---
 
-**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
-
-QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
-
-📺 Just Josh
-
-👁️ 7K • 👍 404 • 💬 69 • ⏱️ 7:53 • 1d ago
-
----
-
-**[Watch Robots ASSEMBLE Car Wheels in SECONDS! 🛞](https://www.youtube.com/watch?v=nqfY8o1DiQY)**
-
-Witness the incredible speed and precision of industrial robots as they revolutionize tire and rim assembly on an automated ...
-
-📺 Peace Working Shorts
-
-👁️ 218K • 👍 362 • 💬 5 • ⏱️ 0:06 • 1d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=8yCx8Lm8dBc)**
-
-📺 Robot Julie 
-
-👁️ 3K • 👍 25 • ⏱️ 0:24 • 14h ago
-
----
-
 **[This Humanoid Robot Can Clean Your Living Room by Itself | Helix 02 Demo](https://www.youtube.com/watch?v=W2kSX0jflvg)**
 
 A powerful new humanoid robot system called Helix 02 is showing how artificial intelligence could soon transform everyday life.
 
 📺 DPCcars
 
-👁️ 17K • 👍 128 • 💬 35 • ⏱️ 3:48 • 6d ago
-
----
-
-**[Craft a one-of-a-kind custom 3d case for your robot.😏 #3dprinting #large3dprinter #machine](https://www.youtube.com/watch?v=jYto7fpHJlg)**
-
-dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Email: sales@dowell3dprinter.xyz ▷Filament: ...
-
-📺 DOWELL3D PRINTER
-
-👁️ 22K • 👍 258 • 💬 3 • ⏱️ 0:17 • 2d ago
-
----
-
-**[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
-
-China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
-
-📺 AI Revolution
-
-👁️ 43K • 👍 600 • 💬 68 • ⏱️ 14:52 • 2d ago
+👁️ 17K • 👍 129 • 💬 36 • ⏱️ 3:48 • 6d ago
 
 ---
 
@@ -287,6 +239,56 @@ Figure demos world leading autonomous cleaning capabilities with its 03 humanoid
 📺 AI News
 
 👁️ 9K • 👍 238 • 💬 60 • ⏱️ 8:04 • 6d ago
+
+---
+
+**[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
+
+China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
+
+📺 AI Revolution
+
+👁️ 44K • 👍 608 • 💬 72 • ⏱️ 14:52 • 2d ago
+
+---
+
+**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+
+📺 South China Morning Post
+
+👁️ 17K • 👍 217 • 💬 82 • ⏱️ 4:52 • 4d ago
+
+---
+
+**[This Ecovacs Robot Saved my Lawn!](https://www.youtube.com/watch?v=gthmAIyUNKs)**
+
+Check out Ecovacs Here! https://bit.ly/4u1ZmEe #CreatedForEase #ECOVACS PLEASE SUBSCRIBE AND CHECK ...
+
+📺 DMAXRYNO
+
+👁️ 22K • 👍 2K • 💬 150 • ⏱️ 9:58 • 1d ago
+
+---
+
+**[Drones and robots are &#39;changing&#39; warfare: Xtend CEO](https://www.youtube.com/watch?v=EucyIHEbHUI)**
+
+Xtend co-founder and CEO Aviv Shapira explains how technology is changing warfare as drones and robots are being ...
+
+📺 Fox Business
+
+👁️ 10K • 👍 232 • 💬 22 • ⏱️ 5:39 • 3d ago
+
+---
+
+**[ULTIMATE HAWK is so much fun again! [War Robots]](https://www.youtube.com/watch?v=ncxMUXxqrKo)**
+
+War Robots Test Server Gameplay: NEW Ultimate HAWK - WR Here's my new YouTube Channel ⁨@ManniRAID⁩ ...
+
+📺 Manni-Gaming
+
+👁️ 10K • 👍 514 • 💬 71 • ⏱️ 16:19 • 2d ago
 
 ---
 
