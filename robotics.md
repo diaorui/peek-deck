@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T19:03:29.078951+00:00'
+updated: '2026-03-16T20:00:30.690621+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 19:03 UTC  
+**Last Updated:** March 16, 2026 at 20:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
 
-8h ago
+9h ago
 
 ---
 
 **[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric m
 
 The EU-funded initiative is helping tidy up the litter-filled sea floor, and could even be used to detect hidden mines.
 
-🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 11h ago
+🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 12h ago
 
 ---
 
@@ -80,7 +80,7 @@ The EU-funded initiative is helping tidy up the litter-filled sea floor, and cou
 
 Analysts say AI and robotics could support growth despite demographic decline.
 
-🔗 [Digital Watch Observatory](https://dig.watch/updates/ai-and-robotics-aging-population-asia) • 23m ago
+🔗 [Digital Watch Observatory](https://dig.watch/updates/ai-and-robotics-aging-population-asia) • 1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Analysts say AI and robotics could support growth despite demographic decline.
 
 I’m currently designing the legs so i can have the body done for a showcase event i’ll go to, i also have a order with the battery arriving and i may connect some components to it so i can test it when i have it. Also i post updates on tiktok: diy.builder and more detailed on yt: DIYmrbuilder
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m currently designing the legs so i can have the body done for a showcase ev
 
 Hi r/robotics, We’ve been working on a mobile robot platform and keep running into the same question: what actually makes robotics development feel harder than it should right now? A lot of tooling looks fine at a high level, but once you try to build behaviors that connect perception, decision-making, and physical action, things get messy fast. The pain points seem to show up in the gaps between layers rather than in any single component. I’m especially curious about a few things: where current robotics dev kits break down in real use what kinds of APIs actually make behavior development easier what feels too rigid when you’re trying to build systems that need to react to the physical world in a more natural way I’m not trying to pitch anything here. I’m mainly trying to understand where people feel today’s abstractions are weakest. If you’ve built robotics systems before, I’d be really interested in hearing: what frustrated you most, what you wish existed, and what a genuinely useful developer-facing framework would need to get right. If anyone’s open to chatting in more depth, feel free to DM me too.
 
-15m ago
+1h ago
 
 ---
 
@@ -116,7 +116,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
 
-TechCrunch • 2d ago
+TechCrunch • 3d ago
 
 ---
 
@@ -144,7 +144,7 @@ Electrek • 1d ago
 
 **[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfP0OxckXprltdmuKKDpIR1o10CGLGCKZqkQNh6fzlw2jZ9kvobr9np&gaa_ts=69b8576e&gaa_sig=rCal1svb2WHmqEbIZsN4dPUSjwEjbvLfYmEJSxZpa_JAt_IE6VZkFfmXiMCVK38Z2wJMB0Cry2yWl0zR_y6oDw%3D%3D)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -152,7 +152,7 @@ WSJ • 10h ago
 
 Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -160,7 +160,7 @@ Business Insider • 9h ago
 
 For many students, these competitions are where classroom lessons turn into real world skills.
 
-WTHR • 1d ago
+WTHR • 2d ago
 
 ---
 
@@ -176,7 +176,7 @@ Popular Science • 3d ago
 
 US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 9h ago
 
 ---
 
@@ -208,7 +208,7 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 9K • 👍 369 • 💬 32 • ⏱️ 13:18 • 18h ago
+👁️ 9K • 👍 369 • 💬 32 • ⏱️ 13:18 • 19h ago
 
 ---
 
@@ -268,7 +268,7 @@ Noble Machines, a robotics startup founded in 2024 by former NASA and SpaceX eng
 
 📺 Rowan Cheung
 
-👁️ 429 • 👍 41 • 💬 4 • ⏱️ 1:26 • 31m ago
+👁️ 429 • 👍 41 • 💬 4 • ⏱️ 1:26 • 1h ago
 
 ---
 

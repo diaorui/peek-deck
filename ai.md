@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-16T19:03:29.063506+00:00'
+updated: '2026-03-16T20:00:30.672398+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 16, 2026 at 19:03 UTC  
+**Last Updated:** March 16, 2026 at 20:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
 
-🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 5h ago
+🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ The massive crowdsourcing effort could use real-world to help robots deliver piz
 
 OpenAI introduced ads to ChatGPT last month, exclusive to users in the United States. Users online suspect a global rollout is coming soon.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 8h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI introduced ads to ChatGPT last month, exclusive to users in the United St
 
 Open source: https://github.com/htdt/godogen
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Open source: https://github.com/htdt/godogen
 
 I built a pipeline where 5 AI models (Claude, GPT-4o, Gemini, Grok, DeepSeek) independently assess the probability of 30+ crisis scenarios twice daily. None of them see the others' outputs. An orchestrator synthesizes their reasoning into final projections. Some observations after 15 days of continuous operation: The models frequently disagree, sometimes by 25+ points. Grok tends to run hot on scenarios with OSINT signals. The orchestrator has to resolve these tensions every cycle. The models anchored to their own previous outputs when shown current probabilities, so I made them blind. Named rules in prompts became shortcuts the models cited instead of actually reasoning. Google Search grounding prevented source hallucination but not content hallucination, the model fabricated a $138 oil price while correctly citing Bloomberg as the source. Three active theaters: Iran, Taiwan, AGI. A Black Swan tab pulls the high-severity low-probability scenarios across all of them. devblog at /blog covers the prompt engineering insights and mistakes I've encountered along the way in detail. doomclock.app
 
-28m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ I built a pipeline where 5 AI models (Claude, GPT-4o, Gemini, Grok, DeepSeek) in
 
 In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ In other words, some trustworthy links that you can read on daily/weekly basis t
 
 I have MS, so I've never really been able to play instruments. I can't sing. So music was just something I fantasized about. I was always making songs in my head, they just never went anywhere. First I used AI to make songs for my nieces and nephews. Next I started making songs for myself. Then I got high while manic and out poured several songs. One of the songs is about being bipolar. The first one I made was for my 7 year old niece. It's bubble gum pop, that's what she likes. I was hoping my niece would be able to ask her alexa to play her song, but there is a song with a similar name which has millions of plays, so that will never happen 🙃 After that, I had to make songs for her siblings. Then I had to make songs for my brother's kids... Unfortunately I got better at it as I went so I think the last kid's song is better than the first kid's song. But they can't tell. I make little videos with them when they come over, so I'm gonna make music video's with the kids at some point so they'll always have their own custom song they can show their friends. I won't post any links, not trying to self promote, just wanted to share that this was sort of therapeutic for me. I know the tech is controversial, but I'm a fan of AI
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ I have MS, so I've never really been able to play instruments. I can't sing. So 
 
 Introducing Attention Residuals: Rethinking depth-wise aggregation. Residual connections have long relied on fixed, uniform accumulation. Inspired by the duality of time and depth, Kimi introduce Attention Residuals, replacing standard depth-wise recurrence with learned, input-dependent attention over preceding layers. Enables networks to selectively retrieve past representations, naturally mitigating dilution and hidden-state growth. Introduces Block AttnRes, partitioning layers into compressed blocks to make cross-layer attention practical at scale. Serves as an efficient drop-in replacement, demonstrating a 1.25x compute advantage with negligible (<2%) inference latency overhead. Validated on the Kimi Linear architecture (48B total, 3B activated parameters), delivering consistent downstream performance gains. Paper link: https://github.com/MoonshotAI/Attention-Residuals/blob/master/Attention_Residuals.pdf
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Introducing Attention Residuals: Rethinking depth-wise aggregation. Residual con
 
 Looking at the guidance on how people are handling this very common scenario. We are trying to see how in our company people are using these frontier models, getting team subscriptions and allow them to use by everyone has gone too far and not scalable as cost explodes. Also most importantly we need to understand the security scanning of the prompts sent to these LLMs as proprietary information or any keys or any non public data needs to be secured, I was thinking a internal proxy but there got to be more matured way as this seems a common problem that should be solved before? We have AWS Bedrock but that doesn't give me exposure to the logging of prompts sent to claude or any other ones, also the bottleneck of not supporting chatgpt is a good issue too. appreciate links, thoughts, blogs?
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Looking at the guidance on how people are handling this very common scenario. We
 
 I want to ask something specific that came out of my auto-routing thread earlier. A lot of people said they prefer manual model selection over automation — fair enough. But that raised a question I haven't seen discussed much: When you manually switch from say ChatGPT to Claude mid-task, what actually happens to your conversation? Do you copy-paste the context across? Start fresh and re-explain everything? Or do you just not switch at all because it's too much friction? Because here's the thing — none of the major AI providers have any incentive to solve this problem. OpenAI isn't going to build a feature that seamlessly hands your conversation to Claude. Anthropic isn't going to make it easy to continue in Grok. They're competitors. The cross-model continuity problem exists precisely because no single provider can solve it. I've been building a platform where every model — GPT, Claude, Grok, Gemini, DeepSeek — shares the same conversation thread. I just tested it by asking GPT-5.2 a question about computing, then switched manually to Grok 4 and typed "anything else important." Three words. No context. Grok 4 picked up exactly where GPT-5.2 left off without missing a beat. My question for this community is genuinely whether that's a problem people actually experience. Do you find yourself wanting to switch models mid-task but not doing it because of the context loss? Or do most people just pick one model and stay there regardless? Trying to understand whether cross-model continuity is a real pain point or just something that sounds useful in theory.
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ I want to ask something specific that came out of my auto-routing thread earlier
 
 Lately I’ve been thinking about how AI infrastructure spending is starting to feel less like normal cloud usage and more like long-term capital investment (similar to energy or telecom sectors). Big tech companies are already locking in massive compute capacity to support AI agents and large-scale inference workloads. If this trend continues, just having reliable access to compute could become a serious competitive advantage not just a backend technical detail. It also makes me wonder if startup funding dynamics could change. In the future, investors might care not only about product and model quality, but also about whether a startup has secured long-term compute access to scale safely. Of course, there’s also the other side of the argument. Hardware innovation is moving fast, new fabs are being built, and historically GPU shortages have been cyclical. So maybe this becomes less of a problem over time. But if AI agent usage grows really fast and demand explodes, maybe compute access will matter more than we expect. Curious to hear your thoughts: If you were building an AI startup today, would you focus more on improving model capability first, or on making sure you have long-term compute independence?
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Lately I’ve been thinking about how AI infrastructure spending is starting to 
 
 The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 18h ago
 
 Look up which jobs are most at risk from artificial intelligence and who is most likely to be able to adapt, according to a new analysis.
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Washington Post • 3h ago
 
 Meta is tapping the neocloud operator for AI processing capacity.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -149,13 +149,13 @@ Yahoo Finance • 2h ago
 
 Meta is planning capital expenditure of up to $135 billion related to AI this year.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance.](https://www.investors.com/news/technology/nebius-stock-pops-meta-expanded-ai-cloud-computing-agreement/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ Reuters • 2d ago
 
 Meta is planning capital expenditure of up to $135 billion in AI-related costs in 2026, which raised investors' fears around unsustainable spending.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -177,13 +177,13 @@ CNBC • 8h ago
 
 Meta may cut up to 20% of its workforce as it doubles down on AI spending, a shift that could boost earnings but reshape the company.
 
-USA Today • 12m ago
+USA Today • 1h ago
 
 ---
 
 **[Why Bigger Isn’t Always Better in AI](https://www.bloomberg.com/opinion/articles/2026-03-16/why-bigger-isn-t-always-better-in-ai)**
 
-Bloomberg.com • 3m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg.com • 3m ago
 
 Plus: Child safety proposal may be part of AI pre-emption
 
-The Washington Post • 35m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -253,7 +253,7 @@ Define, version, and run AI agents natively in git. GitAgent is the open AI agen
 
 The ultimate over-ear listening experience — in five vibrant colors and with up to 1.5x more Active Noise Cancellation than the previous generation.
 
-⬆️ 86 • 💬 166 • 5h ago • [Apple](https://www.apple.com/airpods-max/)
+⬆️ 86 • 💬 166 • 6h ago • [Apple](https://www.apple.com/airpods-max/)
 
 ---
 
@@ -267,7 +267,7 @@ The ultimate over-ear listening experience — in five vibrant colors and with 
 
 TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.
 
-⬆️ 77 • 💬 81 • 3h ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+⬆️ 77 • 💬 81 • 4h ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 
 ---
 
@@ -331,7 +331,7 @@ A viral video shows Israeli Prime Minister Benjamin Netanyahu sitting in a Tel A
 
 📺 Oneindia News
 
-👁️ 12K • 👍 121 • 💬 70 • ⏱️ 3:02 • 11h ago
+👁️ 12K • 👍 121 • 💬 70 • ⏱️ 3:02 • 12h ago
 
 ---
 
@@ -371,7 +371,7 @@ Should we be worried about AI? Mathematician and presenter Hannah Fry joins Rome
 
 📺 The Romesh Ranganathan Show
 
-👁️ 33K • 👍 1K • 💬 150 • ⏱️ 1:03:30 • 11h ago
+👁️ 33K • 👍 1K • 💬 150 • ⏱️ 1:03:30 • 12h ago
 
 ---
 
@@ -483,7 +483,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 21,467 • ❤️ 204 • 2d ago
+⬇️ 21,467 • ❤️ 204 • 3d ago
 
 ---
 
@@ -640,7 +640,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 38.1k • 🔱 5.3k • 20m ago
+⭐ 38.1k • 🔱 5.3k • 1h ago
 
 ---
 
@@ -660,7 +660,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.2k • 🔱 1.5k • 4h ago
+⭐ 12.2k • 🔱 1.5k • 5h ago
 
 ---
 
@@ -670,7 +670,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.1k • 🔱 917 • 4h ago
+⭐ 10.1k • 🔱 917 • 5h ago
 
 ---
 
@@ -680,7 +680,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.5k • 🔱 687 • 7h ago
+⭐ 9.5k • 🔱 687 • 8h ago
 
 ---
 
@@ -690,7 +690,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 7.9k • 🔱 375 • 10h ago
+⭐ 7.9k • 🔱 375 • 11h ago
 
 ---
 
@@ -710,7 +710,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.4k • 🔱 753 • 16h ago
+⭐ 6.4k • 🔱 753 • 17h ago
 
 ---
 
