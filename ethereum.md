@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-15T23:37:30.930106+00:00'
+updated: '2026-03-16T02:33:14.414074+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 15, 2026 at 23:37 UTC  
+**Last Updated:** March 16, 2026 at 02:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,184.61
+### $2,179.29
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.8%  
-**7d:** +8.6%  
-**30d:** +3.9%  
-**90d:** -26.9%  
-**1y:** +14.9%  
+**24h:** +3.7%  
+**7d:** +6.7%  
+**30d:** +10.6%  
+**90d:** -23.3%  
+**1y:** +12.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.77B
+**Market Cap:** $262.30B
 Rank #2
 
-**Circulating Supply:** 120,691,909 ETH
+**Circulating Supply:** 120,691,900 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.9%
+-56.1%
 
 **All-Time Low:** $0.43
-+503781.3%
++501790.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik Buterin recently suggested that Ethereum might need to revisit the separation between execution clients and beacon (consensus) clients. Right now, running a full Ethereum node means running two different pieces of software that have to communicate with each other. That architecture came from the Merge and the move to proof-of-stake. Vitalik argues that this makes running your own node unnecessarily complex. His main point: running Ethereum infrastructure shouldn’t feel like a devops job only professionals can handle. It should be something ordinary users and households can realistically do. In the short term he mentioned ideas like standardized wrappers or unified node setups (Nimbus is already experimenting with this). Longer term, Ethereum could potentially revisit the architecture entirely once “lean consensus” research matures. Full article: https://btcusa.com/vitalik-buterin-ethereum-node-architecture-self-sovereignty/
 
-17h ago
+20h ago
 
 ---
 
 **[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 12h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 15h ago
 
 ---
 
@@ -116,7 +116,7 @@ Ethereum Foundation (EF) wrote a constitution for the soul of the project. The n
 
 **[New App needs your input](https://www.reddit.com/r/ethereum/comments/1ru0m5c/new_app_needs_your_input/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -178,11 +178,27 @@ Polymarket • 2mo ago
 
 ---
 
-**[Ethereum Currently Undervalued – But Is It Time To Buy?](https://www.tradingview.com/news/newsbtc:0a1e7d6d0094b:0-ethereum-currently-undervalued-but-is-it-time-to-buy/)**
+**[New Crypto: Ethereum Based Crypto Pepeto Announces Binance Listing Advances While Cardano Price Prediction Targets New ATH](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-crypto-pepeto-announces-binance-listing-advances-while-cardano-price-prediction-targets-new-ath-1035930977)**
 
-According to the latest on-chain data, Ethereum appears to be entering a state of undervaluation, with the potential of rebounding to new highs. However, the question is — is it really time to buy ETH?ETH Could Drop Another 40% Before Bear Cycle EndsIn a new Quicktake post on the CryptoQuant platfo…
+Dubai, UAE, March  15, 2026  (GLOBE NEWSWIRE) -- Pepeto just confirmed that its Binance listing preparation has entered its final phase with excha...
 
-TradingView • 12h ago
+markets.businessinsider.com • 2h ago
+
+---
+
+**[New Crypto: Ethereum Based Crypto Pepeto Stage Update Follow Dogecoin Success And Bitcoin Price Prediction](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-crypto-pepeto-stage-update-follow-dogecoin-success-and-bitcoin-price-prediction-1035930966)**
+
+Dubai, UAE, March  15, 2026  (GLOBE NEWSWIRE) -- Pepeto announces its latest presale stage has completely sold out, pushing this Ethereum based cr...
+
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Crypto News: Pepeto Announces Binance Level Exchange Update And Ethereum Price Prediction Eyes $7,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-and-ethereum-price-prediction-eyes-7-000-1035930955)**
+
+Dubai, UAE, March  15, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a critical milestone on its Binance level exchange, advancing the order m...
+
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -190,37 +206,23 @@ TradingView • 12h ago
 
 The world's second-most-valuable cryptocurrency has a bright future.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Crypto News: Pepeto Announces Binance Level Exchange Update as Ethereum Price Prediction Maps Breakout to $8,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-as-ethereum-price-prediction-maps-breakout-to-8-000-1035930462)**
+**[Better Cryptocurrency to Buy Today With $3,000 and Hold for 7 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/03/15/better-cryptocurrency-to-buy-today-with-3000-and-h/)**
 
-Dubai, UAE, March  14, 2026  (GLOBE NEWSWIRE) -- Pepeto's team announces a major milestone on its Binance level exchange, advancing the zero fee t...
+Most cryptocurrencies haven't survived seven years as of yet.
 
-markets.businessinsider.com • 20h ago
-
----
-
-**[Is Ethereum’s $2K range a ‘bear trap’ as ETH staking hits record levels?](https://ambcrypto.com/is-ethereums-2k-range-a-bear-trap-as-eth-staking-hits-record-levels/)**
-
-Ethereum is showing solid staking metrics With conviction building, would this make ETH’s chop around $2k into a textbook bear trap?
-
-AMBCrypto • 1d ago
+The Motley Fool • 13h ago
 
 ---
 
-**[Gareth Soloway Reveals Next Bull Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/gareth-soloway-reveals-next-bull-targets-for-bitcoin-ethereum-and-xrp/)**
+**[Ethereum Price Coils Near Key Resistance: A Breakout Could Be Explosive](https://www.tradingview.com/news/newsbtc:d0ef18bc9094b:0-ethereum-price-coils-near-key-resistance-a-breakout-could-be-explosive/)**
 
-Gareth Soloway, chief market strategist at VerifiedInvesting.com, is doubling down on his short-term bullish thesis for crypto, and the charts he is
+Ethereum is tightening below a critical $2,149 resistance level, building pressure as bulls and bears jockey for control. A decisive breakout above this zone could trigger strong momentum, potentially sending the price toward the next major resistance near $2,750.A Test Of The Key $2,149 Resistance…
 
-Coinpedia Fintech News • 14h ago
-
----
-
-**[Are We Witnessing The Crypto Dawn? – Bitcoin And Ethereum Outlook (undefined:BTC-USD)](https://seekingalpha.com/article/4882293-witnessing-crypto-dawn-bitcoin-ethereum-outlook)**
-
-Seeking Alpha • 2d ago
+TradingView • 23h ago
 
 ---
 
@@ -234,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 268 • 💬 26 • ⏱️ 19:10 • 8h ago
+👁️ 8K • 👍 324 • 💬 55 • ⏱️ 19:10 • 11h ago
 
 ---
 
@@ -244,17 +246,27 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 182 • 💬 68 • ⏱️ 15:12 • 14h ago
+👁️ 4K • 👍 189 • 💬 80 • ⏱️ 15:12 • 17h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=B5tFv0uUx4s)**
+**[BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=qU9GmtDlJV0)**
+
+BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 494 • 👍 57 • 💬 151 • ⏱️ 15:59 • 25m ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=oQCt4Bhvnv8)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 110 • 💬 2 • ⏱️ 6:14 • 6h ago
+👁️ 97 • 👍 16 • 💬 1 • ⏱️ 6:34 • 18m ago
 
 ---
 
@@ -264,17 +276,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 120 • 💬 321 • ⏱️ 15:57 • 19h ago
+👁️ 3K • 👍 131 • 💬 327 • ⏱️ 15:57 • 22h ago
 
 ---
 
-**[Crypto Holders → MASSIVE NEWS!](https://www.youtube.com/watch?v=MkcdRQRxahY)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=B5tFv0uUx4s)**
 
-Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Altcoin Daily
+📺 More Crypto Online
 
-👁️ 44K • 👍 2K • 💬 136 • ⏱️ 13:31 • 2d ago
+👁️ 2K • 👍 121 • 💬 2 • ⏱️ 6:14 • 9h ago
 
 ---
 
@@ -284,17 +296,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 12K • 👍 763 • 💬 142 • ⏱️ 22:03 • 1d ago
-
----
-
-**[Saylor’s STRC Machine vs BlackRock’s Ethereum Machine](https://www.youtube.com/watch?v=l0B0L5d1ers)**
-
-Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt A ...
-
-📺 MONEY GAME
-
-👁️ 485 • 👍 51 • 💬 2 • ⏱️ 28:14 • 2h ago
+👁️ 13K • 👍 806 • 💬 146 • ⏱️ 22:03 • 1d ago
 
 ---
 
@@ -304,27 +306,27 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 197 • 💬 48 • ⏱️ 12:50 • 1d ago
+👁️ 4K • 👍 201 • 💬 53 • ⏱️ 12:50 • 1d ago
 
 ---
 
-**[If Experts Had $1M Today… Would They Buy Ethereum or Solana?](https://www.youtube.com/watch?v=FSmdeTyAJfQ)**
+**[Saylor’s STRC Machine vs BlackRock’s Ethereum Machine](https://www.youtube.com/watch?v=l0B0L5d1ers)**
 
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+Get My Free Book: The Money Game and My Weekly Trading Strategy https://go.tedmcgrathbrands.com/optin-money-game-yt A ...
 
-📺 Milk Road
+📺 MONEY GAME
 
-👁️ 3K • 👍 124 • 💬 67 • ⏱️ 9:05 • 1d ago
+👁️ 2K • 👍 102 • 💬 26 • ⏱️ 28:14 • 5h ago
 
 ---
 
-**[BE READY FOR THIS BREAKOUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=lMNpeFl5pHo)**
+**[🧀 Yummy Update: CRYPTO NEWS, Ethereum, Elon Musk, Bibi NetanyaPoo, Macro, Crypto, AI](https://www.youtube.com/watch?v=icehb8jOK_I)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 Cilinix Crypto
+📺 🌟yourfriendsommi
 
-👁️ 272 • 👍 10 • 💬 2 • ⏱️ 5:32 • 13h ago
+👁️ 196 • 👍 31 • 💬 4 • ⏱️ 10:13 • 32m ago
 
 ---
 
