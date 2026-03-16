@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-16T11:49:01.170718+00:00'
+updated: '2026-03-16T13:15:39.769818+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 11:49 UTC  
+**Last Updated:** March 16, 2026 at 13:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,265.92
+### $2,279.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +6.8%  
-**7d:** +11.1%  
-**30d:** +15.2%  
-**90d:** -20.1%  
-**1y:** +17.4%  
+**24h:** +8.8%  
+**7d:** +11.9%  
+**30d:** +16.0%  
+**90d:** -19.6%  
+**1y:** +18.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $273.51B
+**Market Cap:** $275.33B
 Rank #2
 
 **Circulating Supply:** 120,691,900 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.2%
+-54.0%
 
 **All-Time Low:** $0.43
-+523488.9%
++525927.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other people can't rug you; society can't rug you; your government can't rug you; another government can't rug you; corporations can't rug you." Trade wars escalating, institutional trust falling apart — and crypto has held decently through the worst of it so far. Blue chips bouncing off lows, ETH above $2,100 as of writing. A year ago this kind of global uncertainty would have sent crypto off a cliff. Starting to wonder if people are finally understanding what trustless sovereign money actually looks like when the systems around it are failing. The mandate feels like EF is leaning into exactly that moment. They're framing Ethereum as "sanctuary technology" and going hard on what they call CROPS — censorship resistance, open source, privacy, security — as non-negotiable properties. Not just another smart contract platform. Infrastructure for self-sovereignty in a world where the systems people have been trusting are breaking down. This framing feels different from anything EF has put out before. Is the market starting to price in a new narrative? Or am I reading too much into it? https://ethereum.foundation/ef-mandate.pdf
 
-4h ago
+5h ago
 
 ---
 
@@ -110,7 +110,7 @@ Vitalik Buterin recently suggested that Ethereum might need to revisit the separ
 
 So, I made a post earlier today about getting emails where an item on opensea sold and they are trying to deliver just over 1ETH to me, but I don't believe this is real. My gut is telling me this is a scam since the email is not an open sea email and the site it brings me to is etherscan. Screenshots are above and any input would be nice. Earlier post https://www.reddit.com/r/ethereum/s/Ka8nYWByyL
 
-18h ago
+19h ago
 
 ---
 
@@ -118,7 +118,7 @@ So, I made a post earlier today about getting emails where an item on opensea so
 
 Hi everyone, This morning I woke up to an email from eatherscan.io and was shocked to see what someone was sending me. It was jist over 1ETH and even though part of me was excited to see that amount, i knew deep down there is a possibility of it being a scam so I just wanted to double check and see if anyone else is getting them. I did click the link to see the website it took me to and it is clear eatherscan.io is real but thats as far as I went. I didn't connect my wallet or anything to be safe.
 
-22h ago
+23h ago
 
 ---
 
@@ -154,7 +154,7 @@ Ethereum Foundation outlines a new mandate prioritizing decentralization, privac
 
 ShapeShift founder Erik Voorhees reportedly bought over $56 million worth of ETH after selling his ETH holdings a year earlier.
 
-The Block • 5h ago
+The Block • 7h ago
 
 ---
 
@@ -162,7 +162,21 @@ The Block • 5h ago
 
 The world's second-most-valuable cryptocurrency has a bright future.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqfsDr9-Rk6Nw8Q_0_Z96ZctWEVrLtzlfEOEObkD0c1CNKSkaHyM8K8u&gaa_ts=69b805e3&gaa_sig=b_PA5J3vcPzZtrAp3LlNLfiQ4pnoo-oB9Ph2OZKvogq0ghBQp99If9YqB2peMq5kGQVZReO_R9-XqZeRBjregg%3D%3D)**
+
+Barron's • 4h ago
+
+---
+
+**[Ethereum Foundation Codifies Its Own Obsolescence in New Mandate](https://unchainedcrypto.com/ethereum-foundation-publishes-crops-mandate-for-network-stewardship/)**
+
+The 38-page document outlines principles the Foundation says must outlast the organization itself.
+
+unchainedcrypto.com • 1h ago
 
 ---
 
@@ -170,13 +184,7 @@ Yahoo Finance • 20h ago
 
 Ethereum price has finally begun to recover, climbing back above the psychologically significant $2,150 zone after weeks of testing holders’ patience. As usual, the requirements are the same: ETH must close the daily candle above $2,200 and hold this level to potentially build a further upward leg (with $2,500-2,700 as ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Surge. Why Cryptos Are Being Played as a Hedge Against Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcGxApmWlvIbQwDLohuYPHC3P6a7AZKywzhF_KoV8iNkPyzUWhcwGLo&gaa_ts=69b7e4cc&gaa_sig=5dPS0ccGnLnrTJkoYe-ysC_tvWLUAsMVFQt7mJVeJiiJAB8tWuAiuDhtmMARfT2sVXuAKk3s-s3t0fzJQ8wq4A%3D%3D)**
-
-Barron's • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -184,15 +192,7 @@ Barron's • 2h ago
 
 Most cryptocurrencies haven't survived seven years as of yet.
 
-The Motley Fool • 22h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend rally as technical breakout sparks bullish momentum](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-rally-as-technical-breakout-sparks-bullish-momentum-202603160349)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing signs of strength on Monday after rallying by 10%, 12% and 8%, respectively, in the previous week.
-
-FXStreet • 7h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -204,25 +204,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Foundation sells 5,000 ETH to Tom Lee's BitMine in $10 million OTC deal](https://www.theblock.co/post/393614/ethereum-foundation-sells-5000-eth-to-tom-lees-bitmine-in-10-million-otc-deal)**
+**[How BlackRock’s new staked Ethereum ETF is already raking in ‘very solid’ $16m](https://www.dlnews.com/articles/markets/blackrock-debuts-new-ethereum-etf-smashing-15m-volume/)**
 
-The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
+BlackRock doubles down on Ethereum with new ETF debut. It is the latest move in the $14 trillion asset manager’s campaign backing Ethereum.
 
-The Block • 1d ago
+dlnews.com • 3d ago
+
+---
+
+**[What price will Ethereum hit on March 15? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-on-march-15)**
+
+What price will Ethereum hit on March 15? (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
 **[BitMine Stock Tracks Ethereum’s Price to a T as it Proves to Be the Ultimate Proxy for ETH Investors](https://www.tipranks.com/news/bitmine-stock-tracks-ethereums-price-to-a-t-as-it-proves-to-be-the-ultimate-proxy-for-eth-investors)**
 
-TipRanks • 10h ago
-
----
-
-**[BlackRock iShares Staked Ethereum Trust: Big Rewards for Holders?](https://finance.yahoo.com/news/blackrock-ishares-staked-ethereum-trust-120748876.html)**
-
-BlackRock has officially launched the iShares Staked Ethereum Trust (ETHB), marking the debut of the first US spot Ethereum ETF with native staking capabilities. The fund began trading on Nasdaq on March 12, introducing a competitive fee waiver that reduces the sponsor fee to just 0.12% for the first 12 ...
-
-Yahoo Finance • 2d ago
+TipRanks • 11h ago
 
 ---
 
@@ -230,13 +230,33 @@ Yahoo Finance • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 BTC &amp; ETH: OH NO.... I HOPE I AM WRONG THIS TIME!!!!!!](https://www.youtube.com/watch?v=nU49NfIJs3k)**
+
+This data is not great for bitcoin, ethereum and the rest of crypto and the markets! Watch NOW!!!!! ---------- BYUSDT, earn while ...
+
+📺 Thomas Kralow
+
+👁️ 4K • 👍 2K • 💬 18 • ⏱️ 8:58 • 2h ago
+
+---
+
+**[MASSIVE ETHEREUM BREAKOUT!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Zqdpxy_s41c)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 183 • 👍 11 • 💬 1 • ⏱️ 5:26 • 2h ago
+
+---
+
 **[Bitcoin &amp; Ethereum Are About To Do Something MASSIVE! (BlackRock &amp; Arthur Hayes)](https://www.youtube.com/watch?v=bvowrmBuX-U)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 394 • 💬 72 • ⏱️ 19:10 • 20h ago
+👁️ 11K • 👍 407 • 💬 72 • ⏱️ 19:10 • 22h ago
 
 ---
 
@@ -246,37 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 147 • 💬 7 • ⏱️ 6:34 • 9h ago
-
----
-
-**[Tom Lee: Market EMERGENCY‼️ (New Bitcoin &amp; ETH Price Prediction)](https://www.youtube.com/watch?v=DAnsx4IKhEI)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 147 • 💬 309 • ⏱️ 15:57 • 1d ago
-
----
-
-**[BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=qU9GmtDlJV0)**
-
-BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 263 • 💬 220 • ⏱️ 15:59 • 9h ago
-
----
-
-**[LIVE: Tom Lee on Ethereum Bull Run &amp; BMNR Stock – ETH Price Analysis](https://www.youtube.com/watch?v=wawsla-7V1E)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 U-Winfly Indonesia
-
-👁️ 5K • 👍 1K • 6h ago
+👁️ 2K • 👍 164 • 💬 8 • ⏱️ 6:34 • 11h ago
 
 ---
 
@@ -286,7 +276,27 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 4K • 👍 205 • 💬 56 • ⏱️ 15:12 • 1d ago
+👁️ 4K • 👍 217 • 💬 57 • ⏱️ 15:12 • 1d ago
+
+---
+
+**[Tom Lee: Market EMERGENCY‼️ (New Bitcoin &amp; ETH Price Prediction)](https://www.youtube.com/watch?v=DAnsx4IKhEI)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 155 • 💬 313 • ⏱️ 15:57 • 1d ago
+
+---
+
+**[BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=qU9GmtDlJV0)**
+
+BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 291 • 💬 228 • ⏱️ 15:59 • 11h ago
 
 ---
 
@@ -296,7 +306,17 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 15K • 👍 859 • 💬 163 • ⏱️ 22:03 • 1d ago
+👁️ 15K • 👍 870 • 💬 163 • ⏱️ 22:03 • 1d ago
+
+---
+
+**[LIVE: Tom Lee on Ethereum Bull Run &amp; BMNR Stock – ETH Price Analysis](https://www.youtube.com/watch?v=wawsla-7V1E)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 U-Winfly Indonesia
+
+👁️ 6K • 👍 1K • 7h ago
 
 ---
 
@@ -306,27 +326,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 209 • 💬 53 • ⏱️ 12:50 • 2d ago
-
----
-
-**[Crypto Holders → MASSIVE NEWS!](https://www.youtube.com/watch?v=MkcdRQRxahY)**
-
-Crypto Holders → MASSIVE NEWS! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 2K • 💬 137 • ⏱️ 13:31 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum. DESWEGEN ist es wichtig flexibel zu ein!! BTC Breakout!!??](https://www.youtube.com/watch?v=_borjm9Djxg)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 4K • 👍 679 • 💬 104 • ⏱️ 13:19 • 6h ago
+👁️ 5K • 👍 213 • 💬 53 • ⏱️ 12:50 • 2d ago
 
 ---
 

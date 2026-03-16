@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-16T11:49:01.164308+00:00'
+updated: '2026-03-16T13:15:39.763334+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 11:49 UTC  
+**Last Updated:** March 16, 2026 at 13:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,493.76
+### $73,848.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** +5.2%  
-**30d:** +6.9%  
-**90d:** -14.7%  
-**1y:** -12.5%  
+**24h:** +3.3%  
+**7d:** +5.8%  
+**30d:** +7.5%  
+**90d:** -14.3%  
+**1y:** -12.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1470.46B
+**Market Cap:** $1479.27B
 Rank #1
 
-**Circulating Supply:** 20,002,712 BTC
+**Circulating Supply:** 20,002,756 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.7%
+-41.4%
 
 **All-Time Low:** $67.81
-+108310.3%
++108891.3%
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[HEY IT WENT UP!](https://www.reddit.com/r/Bitcoin/comments/1rv1jew/hey_it_went_up/)**
+
+PEOPLE IT WENT UP!!!
+
+7h ago
+
+---
+
 **[See you guys tomorrow morning for the inevitable dump back to 70…](https://www.reddit.com/r/Bitcoin/comments/1ruyvv7/see_you_guys_tomorrow_morning_for_the_inevitable/)**
 
 Like clockwork.
 
-8h ago
+9h ago
 
 ---
 
@@ -89,33 +97,41 @@ Like clockwork.
 
 I believe the times ahead will be radically different from what most people have gotten used to—more like the era before 1945 than since.
 
-🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 14h ago
+🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 15h ago
 
 ---
 
-**[HEY IT WENT UP!](https://www.reddit.com/r/Bitcoin/comments/1rv1jew/hey_it_went_up/)**
+**[Any explaination for this recent pump?](https://www.reddit.com/r/Bitcoin/comments/1rv5szq/any_explaination_for_this_recent_pump/)**
 
-PEOPLE IT WENT UP!!!
+I thought it already rejected 74 so why bother trying again? 😭
 
-5h ago
+2h ago
 
 ---
 
 **[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
 
-21h ago
+22h ago
 
 ---
 
 **[The life of a Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1rumrk4/the_life_of_a_bitcoiner/)**
 
-16h ago
+18h ago
+
+---
+
+**[BTC growth & adoption. Thoughts?](https://www.reddit.com/r/Bitcoin/comments/1rv7l34/btc_growth_adoption_thoughts/)**
+
+IMO BTC growth & adoption acceleration would be best served by converting to measuring in Satoshi. The concept of BTC being worth $70K+ isn’t something the average person can grasp. They feel priced out of BTC & “too late”. Plus something costing 0.005 BTC isn’t something most people can mathematically grasp. If we went to using Satoshi then they only costs $0.0007 ea. Now it seems extremely cheap to the average person. They can also see the massive growth potential from there. Also if items were to be sold in Satoshi a figure like 28,000 Satoshi is very easy to grasp & understand for the typical person as where 0.00028 BTC is confusing to comprehend.
+
+1h ago
 
 ---
 
 **[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -123,29 +139,15 @@ PEOPLE IT WENT UP!!!
 
 Surprise, the doomers and the panic sellers were wrong again.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 15h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 16h ago
 
 ---
 
-**[Bitcoin Long-Term Holders Retain 79% of Supply as Exchange Reserves Decline](https://www.reddit.com/r/Bitcoin/comments/1rurxqn/bitcoin_longterm_holders_retain_79_of_supply_as/)**
+**[Bitcoin Brushes Off Conflict as Funds Rally](https://www.reddit.com/r/Bitcoin/comments/1rv3s8i/bitcoin_brushes_off_conflict_as_funds_rally/)**
 
-Bitcoin long-term holders still control about 79% of supply as exchange reserves decline, pointing to slower redistribution.
+Bitcoin (BTC) rose above $74,000 during the Asian trading session on 16 Mar, suggesting a potential shift in investor behaviour after weeks of limited price movement. While the asset has tested this threshold previously, it marks a highwater level not seen since 4 Feb and coincides with the violent turmoil in the Middle East. During the same trading session, Ether (ETH) surpassed the $2,200 mark, continuing a seven-day upward trend for the second-largest cryptocurrency. : Get all the latest crypto news at Sandmark
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/bitcoin-long-term-holders-retain-79-of-supply-as-exchange-reserves-decline/) • 13h ago
-
----
-
-**[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
-
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 16h ago
-
----
-
-**[Daily Discussion, March 16, 2026](https://www.reddit.com/r/Bitcoin/comments/1rv1iii/daily_discussion_march_16_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-brushes-conflict-funds-rally) • 4h ago
 
 ---
 
@@ -153,47 +155,45 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC tops $74K, ether, solana, cardano move as much as 7%](https://www.coindesk.com/markets/2026/03/16/bitcoin-tops-usd74-000-as-ether-sol-ada-gains-as-much-as-6-in-monday-surge)**
-
-Majors posted broad gains on Monday as oil eased from highs, two tankers sailed through the Strait of Hormuz for the first time since the war began, and Trump said the U.S. was talking to Iran.
-
-CoinDesk • 3h ago
-
----
-
 **[Bitcoin Climbs in Asia as Other Markets Remain Tepid](https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-climbs-in-asia-as-other-markets-remain-tepid)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 26m ago
 
 ---
 
-**[Strategy, Other Crypto Stocks Jump With Bitcoin. Why They Can Keep Rising.](https://www.barrons.com/articles/strategy-coinbase-stock-robinhood-bitcoin-crypto-f3dda5eb?gaa_at=eafs&gaa_n=AWEtsqe4r4FUFZy7fy9Pc2gf1xCMCs62gOynIRXpA2iA2xN7YrVcgZ6GRBzY&gaa_ts=69b7e4ca&gaa_sig=Z-Kpl0bNmZV3lLmVTLmPgM5VdhTDwzaCAk0b44c-cw-EF53g0Ix8jaoOLJQURkFBhoZLCvmEyk0xZF0ZHGFqwg%3D%3D)**
+**[Bitcoin (BTC) in Iran Limbo as ‘Old Economy’ Assets Steal Limelight](https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-btc-in-iran-limbo-as-old-economy-assets-steal-limelight)**
 
-Barron's • 1h ago
-
----
-
-**[BTC price nears $74,000, memecoins drive risk-on mood: Crypto Markets Today](https://www.coindesk.com/markets/2026/03/16/altcoins-jump-as-bitcoin-inches-toward-potential-usd74-000-breakout)**
-
-BTC is approaching a key technical level while PEPE and other memecoins jump double digits, signaling rising risk appetite across the crypto market.
-
-CoinDesk • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin trades around $72,800 in 'solid' relief bounce supported by ETF inflows](https://www.theblock.co/post/393642/bitcoin-solid-relief-bounce)**
+**[Jack Dorsey Reiterates Bitcoin Preference, Attributes Block's Stablecoin Push To Customer Demand](https://finance.yahoo.com/news/jack-dorsey-reiterates-bitcoin-preference-122719635.html)**
 
-Analysts said the move reflects a relief bounce driven by ETF inflows, liquidation short squeeze, and bitcoin's position as a macro hedge.
+Block's (NYSE:XYZ) move to support stablecoins is the result of customer demand not changing principles, CEO Jack Dorsey says. "We made a push into Bitcoin because I believe the internet needs an open protocol for money transmission, and Bitcoin represents...
 
-The Block • 9h ago
+Yahoo Finance • 48m ago
 
 ---
 
-**[My Top 3 Cryptocurrencies to Buy for the Next Bull Run](https://www.fool.com/investing/2026/03/15/my-top-3-cryptocurrencies-to-buy-for-the-next-bull/)**
+**[Metaplanet Raises $255 Million, Eyes $531 Million Bitcoin Buying Spree](https://bitcoinmagazine.com/news/metaplanet-raises-255-million)**
 
-Bitcoin, Ether, and Solana are all worth buying before the bulls return.
+Metaplanet raised $255M to expand their Bitcoin holdings, targeting 210,000 BTC and new ventures.
 
-The Motley Fool • 18h ago
+Bitcoin Magazine • 19m ago
+
+---
+
+**[Bitcoin just topped $74,000. Here’s what that means for the price ahead of pivotal Fed meeting](https://www.dlnews.com/articles/markets/bitcoin-just-topped-74k-ahead-of-fomc-march-meeting/)**
+
+Bitcoin is up 8% in the past week amid geopolitical chaos. But it's not all smooth sailing for investors just yet, analyst warns. Fed expected to maintain current interest rate levels at Wednesday's gathering.
+
+dlnews.com • 1h ago
+
+---
+
+**[Bitcoin Hits Highest Price in Over a Month](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-16-2026/card/bitcoin-hits-highest-price-in-over-a-month-zR7RPcj5A0kB0iXX4IdU?gaa_at=eafs&gaa_n=AWEtsqfOprH0iEwDFxFsUo1JhWsdBAmTwnHhXrkTbaMoBn1qJI47F4p0Q-Ai&gaa_ts=69b805e0&gaa_sig=DdYhQFaSv5lA1u3dknFlS-Uxh6i7UrPQpg0tawYDKSFLqmqFlH6fBropOHSNDGVe9Nd1x-yS4Xhp3RLMMYj-lA%3D%3D)**
+
+WSJ • 42m ago
 
 ---
 
@@ -209,23 +209,21 @@ Gold is up 77% in a year and trading near $5,200. Bitcoin is down 47% and stuck 
 
 The filings come as the company faces a lawsuit alleging it commingled client crypto assets and refused to return client funds.
 
-Decrypt • 7h ago
+Decrypt • 9h ago
 
 ---
 
-**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1773640800)**
+**[Strategy, Other Crypto Stocks Jump With Bitcoin. Why They Can Keep Rising.](https://www.barrons.com/articles/strategy-coinbase-stock-robinhood-bitcoin-crypto-f3dda5eb?gaa_at=eafs&gaa_n=AWEtsqdztL--wFKX4xPgO1EKi1F4IlDVbf4XWwr34WWHe_bG8V2yb3AhfaTZ&gaa_ts=69b805e0&gaa_sig=TkeoWDr3b1u7xhe1gV0UBrdczmEmArRBdzTsoxM2dyjdP-mhicLLatNuqwA1iRBB1AO9b4ORRmwEMRZV5i5bHQ%3D%3D)**
 
-Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
+Barron's • 2h ago
 
 ---
 
-**[Bitcoin investor offers Nevis residents $100 a month if libertarian city approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)**
+**[Got $3,000? Should You Buy Bitcoin, XRP, or Gold?](https://www.fool.com/investing/2026/03/15/got-3000-should-you-buy-bitcoin-xrp-or-gold/)**
 
-Olivier Janssens accused of ‘public bribes’ with offer to locals as his development awaits final government approval
+These assets will help you to layer either safety or some risk into your portfolio.
 
-Financial Times • 3d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -297,13 +295,13 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 23h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/Kristian5013/resonancenet)
 
 ---
 
-**[Eliminating UI Bloat in the EraMix Financial Union Dashboard](https://news.ycombinator.com/item?id=47394092)**
+**[What the 2026 AI price hikes taught me about lean engineering](https://news.ycombinator.com/item?id=47377220)**
 
-⬆️ 1 • 💬 0 • 10h ago
+⬆️ 3 • 💬 0 • 1d ago
 
 ---
 
@@ -317,7 +315,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 924 • 💬 220 • ⏱️ 7:32 • 10h ago
+👁️ 15K • 👍 1K • 💬 226 • ⏱️ 7:32 • 12h ago
 
 ---
 
@@ -327,27 +325,7 @@ Gold vs Bitcoin is looking interesting. Check out Ledn: https://aaronbtc.com/led
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 211 • 💬 29 • ⏱️ 5:43 • 4h ago
-
----
-
-**[Crypto Market EXPLODES in 3.. 2.. 1.. (Watch Immediately)](https://www.youtube.com/watch?v=JRyxhgbY7P4)**
-
-Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 213 • ⏱️ 10:40 • 15h ago
-
----
-
-**[&quot;All Hell is Gonna Break Loose in Bitcoin&quot; | Insider Interview on Michael Saylor](https://www.youtube.com/watch?v=dmNhm7nW-oA)**
-
-Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: https://x.com/pete_rizzo_ BTC ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 139 • ⏱️ 1:15:12 • 1d ago
+👁️ 4K • 👍 331 • 💬 49 • ⏱️ 5:43 • 6h ago
 
 ---
 
@@ -357,37 +335,37 @@ Bitcoin is sitting near $69K while gold is exploding and central banks are buyin
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 917 • 💬 37 • ⏱️ 17:22 • 13h ago
+👁️ 14K • 👍 1K • 💬 44 • ⏱️ 17:22 • 15h ago
 
 ---
 
-**[Bitcoin Back to $10K &amp; Altcoins to ZERO?! | Mike McGlone](https://www.youtube.com/watch?v=m4xgMn8P43A)**
+**[&quot;All Hell is Gonna Break Loose in Bitcoin&quot; | Insider Interview on Michael Saylor](https://www.youtube.com/watch?v=dmNhm7nW-oA)**
 
-Mike McGlone warns that the current market cycle could resemble 2008, with wealth creation reversing and crypto acting as a ...
+Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: https://x.com/pete_rizzo_ BTC ...
 
-📺 Cointelegraph
+📺 Altcoin Daily
 
-👁️ 3K • 👍 15 • 💬 19 • ⏱️ 0:29 • 16h ago
-
----
-
-**[Strategy is Driving ALL The Bitcoin Out Of Circulation FOREVER!](https://www.youtube.com/watch?v=-_C4dZZvWIk)**
-
-Strategy may have raised over $1 billion in a single trading session, and if that's even close to true, Bitcoin's supply dynamics may ...
-
-📺 Swan Bitcoin
-
-👁️ 35K • 👍 2K • 💬 164 • ⏱️ 12:14 • 2d ago
+👁️ 40K • 👍 2K • 💬 139 • ⏱️ 1:15:12 • 1d ago
 
 ---
 
-**[Bitcoin Just Triggered a Signal That Nailed EVERY Bottom…](https://www.youtube.com/watch?v=KLEy7-6NaD0)**
+**[Crypto Market EXPLODES in 3.. 2.. 1.. (Watch Immediately)](https://www.youtube.com/watch?v=JRyxhgbY7P4)**
 
-Bitcoin might be approaching one of the most important moments of the cycle. Several historical on-chain indicators — including ...
+Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
 
-📺 Crypto Love
+📺 Altcoin Daily
 
-👁️ 4K • 👍 329 • 💬 93 • ⏱️ 10:39 • 18h ago
+👁️ 46K • 👍 3K • 💬 215 • ⏱️ 10:40 • 16h ago
+
+---
+
+**[BITCOIN PUMPING, WHAT’S NEXT? ](https://www.youtube.com/watch?v=v-YVNbf_qPQ)**
+
+My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi FREEDOM ACADEMY: ...
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 5K • 👍 677 • 💬 42 • ⏱️ 8:43 • 7h ago
 
 ---
 
@@ -397,15 +375,37 @@ Join me for an exclusive after party and get 10% off of your Bitcoin Vegas ticke
 
 📺 Market Disruptors Podcast
 
-👁️ 13K • 👍 674 • 💬 158 • ⏱️ 57:48 • 1d ago
+👁️ 14K • 👍 697 • 💬 162 • ⏱️ 57:48 • 1d ago
 
 ---
 
-**[Ethical Hacker Exposes How People Made 100 Bitcoin Daily - Ryan Montgomery](https://www.youtube.com/watch?v=fOf8MHLEI4g)**
+**[Strategy is Driving ALL The Bitcoin Out Of Circulation FOREVER!](https://www.youtube.com/watch?v=-_C4dZZvWIk)**
 
-📺 HACKZONE
+Strategy may have raised over $1 billion in a single trading session, and if that's even close to true, Bitcoin's supply dynamics may ...
 
-👁️ 25K • 👍 713 • 💬 6 • ⏱️ 0:33 • 13h ago
+📺 Swan Bitcoin
+
+👁️ 35K • 👍 2K • 💬 165 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[Bitcoin Surges Toward $74K! Is A Capital Rotation Underway?](https://www.youtube.com/watch?v=KVcmWltCw2Y)**
+
+Bitcoin #Crypto #Finance Bitcoin is surging toward the $74000 level as cracks begin to appear across traditional markets, raising ...
+
+📺 The Wolf Of All Streets
+
+👁️ 1K • 👍 83 • 31m ago
+
+---
+
+**[BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=qU9GmtDlJV0)**
+
+BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 291 • 💬 228 • ⏱️ 15:59 • 11h ago
 
 ---
 
