@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-16T21:05:46.498336+00:00'
+updated: '2026-03-16T22:01:42.245122+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 21:05 UTC  
+**Last Updated:** March 16, 2026 at 22:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 I built an Ethereum squeeze dashboard to see where we stand with the inevitable squeeze. I wanted it to show me when I could still write covered calls against my long positions. At below 75 I can still write calls Last week it was at 73, today its at 81.5 Overview. Above 75 means no covered call writing against the stock https://preview.redd.it/50srshmefgpg1.png?width=908&format=png&auto=webp&s=6047acd5a759d239603c9885546c15805738ac9a https://preview.redd.it/wzo3cyzifgpg1.png?width=924&format=png&auto=webp&s=ccd2b561371446b3cb389d3bff287d0f4a9049f0
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ I built an Ethereum squeeze dashboard to see where we stand with the inevitable 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other people can't rug you; society can't rug you; your government can't rug you; another government can't rug you; corporations can't rug you." Trade wars escalating, institutional trust falling apart — and crypto has held decently through the worst of it so far. Blue chips bouncing off lows, ETH above $2,100 as of writing. A year ago this kind of global uncertainty would have sent crypto off a cliff. Starting to wonder if people are finally understanding what trustless sovereign money actually looks like when the systems around it are failing. The mandate feels like EF is leaning into exactly that moment. They're framing Ethereum as "sanctuary technology" and going hard on what they call CROPS — censorship resistance, open source, privacy, security — as non-negotiable properties. Not just another smart contract platform. Infrastructure for self-sovereignty in a world where the systems people have been trusting are breaking down. This framing feels different from anything EF has put out before. Is the market starting to price in a new narrative? Or am I reading too much into it? https://ethereum.foundation/ef-mandate.pdf
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 Simplifies diamond management, deployment and upgrades.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8153) • 6h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8153) • 7h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hi everyone, This morning I woke up to an email from eatherscan.io and was shock
 
 ShapeShift founder Erik Voorhees reportedly bought over $56 million worth of ETH after selling his ETH holdings a year earlier.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 The document quickly sparked debate across the Ethereum community, with supporters saying it reinforces the network’s core principles. Critics, however, argue the mandate signals the foundation intends to take a backseat just as institutional interest in blockchain is accelerating.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 4h ago
 
 BlackRock Head of Digital Assets Robbie Mitchnick joins Julie Hyman to discuss the company's launch of its new ethereum fund — the iShares Staked Ethereum Trust ETF (ETHB) — that lets investors track the cryptocurrency (ETH-USD) and earn staking rewards at the same time.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 3h ago
 
 Fresh Ethereum ETF inflows, digital asset treasury Bitmine buying and a shift away from bitcoin to altcoins are helping lift ether price.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 2d ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added more ETH amid its climb to $2,300 for the first time in six weeks.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -210,7 +210,7 @@ Decrypt • 5h ago
 
 Bitmine has 3,040,515 staked ETH, representing $6.6 billion at $2,185 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.81% of the...
 
-PR Newswire • 8h ago
+PR Newswire • 9h ago
 
 ---
 
@@ -218,7 +218,7 @@ PR Newswire • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -226,7 +226,7 @@ Fortune • 6h ago
 
 Meanwhile, investors like Erik Voorhees have resumed large ETH purchases, suggesting continued belief in Ethereum’s long-term potential.
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -240,7 +240,7 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 📺 Paul Barron Network
 
-👁️ 9K • 👍 1K • 💬 88 • ⏱️ 23:28 • 1h ago
+👁️ 9K • 👍 1K • 💬 88 • ⏱️ 23:28 • 2h ago
 
 ---
 
@@ -250,7 +250,7 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 📺 Dan Gambardello
 
-👁️ 7K • 👍 559 • 💬 144 • ⏱️ 13:47 • 6h ago
+👁️ 7K • 👍 559 • 💬 144 • ⏱️ 13:47 • 7h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 193 • 💬 16 • ⏱️ 7:10 • 4h ago
+👁️ 2K • 👍 193 • 💬 16 • ⏱️ 7:10 • 5h ago
 
 ---
 
@@ -280,7 +280,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 54 • 👍 7 • 💬 16 • ⏱️ 7:02 • 1h ago
+👁️ 54 • 👍 7 • 💬 16 • ⏱️ 7:02 • 2h ago
 
 ---
 
@@ -290,7 +290,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 155 • 👍 12 • 💬 17 • ⏱️ 4:15 • 1h ago
+👁️ 155 • 👍 12 • 💬 17 • ⏱️ 4:15 • 2h ago
 
 ---
 
@@ -310,7 +310,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 744 • 👍 20 • 💬 1 • ⏱️ 5:26 • 9h ago
+👁️ 744 • 👍 20 • 💬 1 • ⏱️ 5:26 • 10h ago
 
 ---
 
@@ -330,7 +330,7 @@ Telegram (аналитика, точки входа, главные мысли):
 
 📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
 
-👁️ 14K • 👍 2K • 💬 151 • ⏱️ 14:49 • 7h ago
+👁️ 14K • 👍 2K • 💬 151 • ⏱️ 14:49 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-16T21:05:46.493182+00:00'
+updated: '2026-03-16T22:01:42.239025+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 21:05 UTC  
+**Last Updated:** March 16, 2026 at 22:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Perhaps I shouldn’t overthink it like this… but maybe I shouldn’t overthink it. Lately I’ve been reading way too many Bitcoin discussions, blogs, and forum threads, and honestly, it’s been messing with my head a bit. ​I’m a doctor working night shifts in the emergency department here in China. Every night shift, around 3 or 4 a.m., when I finally get a rare 10-minute break, my mind just spirals: Why the hell am I doing this to myself? ​You know how it is—nighttime ER in China, registration fee is only 10 RMB per patient. I see 30 people in one shift. Some are really sketchy: tattoo-covered guys, drunk as hell, coming in groups of four or five after fights, bleeding everywhere. I patch them up, heart pounding the whole time, terrified one wrong move and things go south. ​Then I sit there, exhausted, thinking: All this hard work, all this risk, and the money I earn is so damn little. Compared to my American counterparts, the pay gap is huge, but my workload and danger? Probably worse. I want to escape. I dream of getting out. But I have no capital, no savings to make the jump. That’s when Bitcoin comes into my head like a quiet lifeline. ​Every single night-shift yuan, every 10-RMB registration fee I earn by risking my neck… if I put it into Bitcoin, at least that money has a chance to hold its value. It won’t just evaporate in RMB inflation like everything else around me. My colleagues who don’t get Bitcoin, who throw their savings into Chinese stocks or real estate… when this big ship called the Chinese economy starts sinking, they’ll go down with it. But me? Maybe—just maybe—my path will look a little brighter. My future might actually have some light at the end. ​Bitcoin isn’t just an investment for me. Right now, it’s the only thing keeping my mental health from completely crumbling. It gives me a tiny sense of control, a small hope that my suffering isn’t completely pointless.
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Lately I’ve been thinking about the whole “never sell” mentality in crypto
 
 No one can guarantee whether we have already reached the bottom. But everyone agrees that $74,000 is not the top. So, I'm no longer trying to predict the bottom to make a few extra hypothetical percent in profit... I'm simply convinced that we will see higher prices again and I'll be there with my stack!
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ No one can guarantee whether we have already reached the bottom. But everyone ag
 
 Hey r/Bitcoin, I’m Jean, co-founder and CEO of Shakepay. We build easy and rewarding products to help Canadians stack sats and reach their bitcoin goals. This has been available in other markets for some time now but I’m really excited to share that we launched no spread, no fee recurring bitcoin buys today, a first for the Canadian market. If you’re Canadian and have any questions, feel free to post them below. Also, just wanted to share that we first got off the ground 10 years ago with our first announcement in this very channel, so thanks for your support throughout the years. Happy stacking!
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ PEOPLE IT WENT UP!!!
 
 Like clockwork.
 
-17h ago
+18h ago
 
 ---
 
@@ -129,7 +129,7 @@ Like clockwork.
 
 All in the title. I wasn't hacked. I transferred BTC to what I thought was a legitimate program. Will share details with any company that this community can recommend.
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ All in the title. I wasn't hacked. I transferred BTC to what I thought was a leg
 
 I believe the times ahead will be radically different from what most people have gotten used to—more like the era before 1945 than since.
 
-🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 23h ago
+🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 1d ago
 
 ---
 
@@ -145,7 +145,7 @@ I believe the times ahead will be radically different from what most people have
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=MhJoJRqJ0Wc) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=MhJoJRqJ0Wc) • 7h ago
 
 ---
 
@@ -153,7 +153,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 How low will the price go. Will the 4 year cycle end with a new ATH this year. When will the money printer start the next bull run. Is Bitcoin’s best days behind it. Let’s answer these questions thoughtfully. No one knows. No one knows. No one knows. No.
 
-5h ago
+6h ago
 
 ---
 
@@ -165,13 +165,13 @@ How low will the price go. Will the 4 year cycle end with a new ATH this year. W
 
 Bitcoin is still down around 40% from a record high reached in October.  Other smaller, more volatile, digital assets saw even greater increases.  Ether, the second-largest cryptocurrency, rose as much as 10%, more than twice Bitcoin’s advance.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin in Iran Limbo as ‘Old Economy’ Assets Steal Limelight](https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-btc-in-iran-limbo-as-old-economy-assets-steal-limelight)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -185,13 +185,13 @@ CoinDesk • 2d ago
 
 **[Saylor’s Strategy Ramps Up Sales of Preferred in Latest Bitcoin Purchase](https://www.bloomberg.com/news/articles/2026-03-16/saylor-s-strategy-ramps-up-sales-of-preferred-in-latest-bitcoin-purchase)**
 
-Bloomberg.com • 59m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Strategy Faces The Same Test It Keeps Failing After Big Bitcoin Buy](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
 
-Investor's Business Daily • 59m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Investor's Business Daily • 59m ago
 
 The world's largest cryptocurrency is back to ripping higher, but can this move continue?
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -207,13 +207,13 @@ The Motley Fool • 1h ago
 
 Feeling the FUD? Jack Mallers says flip the script: automate your Bitcoin buys and watch bear pain become bull profit — low stress, high reward.
 
-Bitcoin Magazine • 17m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
 **[Wife ‘filmed husband’s passwords to steal £180m in bitcoin’](https://www.thetimes.com/uk/law/article/wife-steal-bitcoin-spy-camera-cz8bxfcph?gaa_at=eafs&gaa_n=AWEtsqefS9bt9HIiE_CoDqEt61omEHDhr96L6GcRX4q8lo6sWnI-kU1_kiCl&gaa_ts=69b8740b&gaa_sig=Z83bdtbm1Q6ZTP9rGNBIo2NW21Fj469V2xfPc4eIC5osZPjo8RhdZg0LunsPxmidOmZBKgfMmVX1E2WFGHO5ww%3D%3D)**
 
-The Times • 6h ago
+The Times • 7h ago
 
 ---
 
@@ -233,7 +233,7 @@ Sports are the most popular category to wager on in prediction markets, as they 
 
 Prediction markets received mainstream attention during the 2024 presidential election, when they correctly predicted Donald Trump’s victory, contrary to many national polls. The two leading platforms, Kalshi and Polymarket, are looking to raise money at a $20 billion valuation, according to The Wall Street Journal.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -309,7 +309,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[Eliminating UI Bloat in the EraMix Financial Union Dashboard](https://news.ycombinator.com/item?id=47394092)**
 
-⬆️ 1 • 💬 0 • 19h ago
+⬆️ 1 • 💬 0 • 20h ago
 
 ---
 
@@ -331,7 +331,7 @@ Ran breaks down why Bitcoin is holding strong despite war headlines and rising o
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 1K • 💬 64 • ⏱️ 25:40 • 6h ago
+👁️ 15K • 👍 1K • 💬 64 • ⏱️ 25:40 • 7h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 2K • 👍 191 • 💬 17 • ⏱️ 20:28 • 5h ago
+👁️ 2K • 👍 191 • 💬 17 • ⏱️ 20:28 • 6h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin just surged toward $73K while traders betting against it get wiped out. 
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 947 • 💬 71 • ⏱️ 14:56 • 8h ago
+👁️ 9K • 👍 947 • 💬 71 • ⏱️ 14:56 • 9h ago
 
 ---
 
@@ -361,7 +361,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 986 • 💬 44 • ⏱️ 48:22 • 6h ago
+👁️ 16K • 👍 986 • 💬 44 • ⏱️ 48:22 • 7h ago
 
 ---
 
@@ -371,7 +371,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 118 • ⏱️ 7:32 • 20h ago
+👁️ 17K • 👍 1K • 💬 118 • ⏱️ 7:32 • 21h ago
 
 ---
 
@@ -381,7 +381,7 @@ Gold vs Bitcoin is looking interesting. Check out Ledn: https://aaronbtc.com/led
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 488 • 💬 71 • ⏱️ 5:43 • 14h ago
+👁️ 9K • 👍 488 • 💬 71 • ⏱️ 5:43 • 15h ago
 
 ---
 
@@ -391,7 +391,7 @@ Bitcoin is sitting near $69K while gold is exploding and central banks are buyin
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 46 • ⏱️ 17:22 • 23h ago
+👁️ 17K • 👍 1K • 💬 46 • ⏱️ 17:22 • 1d ago
 
 ---
 
