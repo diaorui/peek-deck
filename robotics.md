@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T05:16:49.835687+00:00'
+updated: '2026-03-16T06:52:31.237179+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 05:16 UTC  
+**Last Updated:** March 16, 2026 at 06:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-18h ago
+20h ago
 
 ---
 
 **[Out with the old…](https://www.reddit.com/r/robotics/comments/1rus5wz/out_with_the_old/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -56,7 +56,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
 
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 11h ago
+🔗 [GitHub](https://github.com/Robertleoj/slamd) • 13h ago
 
 ---
 
@@ -64,7 +64,13 @@ I work in robotics, and need to do a lot of 3D visualization. But none of the av
 
 LATENT
 
-🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 11h ago
+🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 13h ago
+
+---
+
+**[I made a Claude Code skill for ROS 2 - looking for feedback](https://www.reddit.com/r/robotics/comments/1rv21o8/i_made_a_claude_code_skill_for_ros_2_looking_for/)**
+
+16m ago
 
 ---
 
@@ -80,7 +86,7 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Background: my daughter and I have an educational, robotics-focused YouTube channel where we review and discuss different robots and robotic concepts together. It's genuinely one of my favorite things to do with her, but keeping up with new robots to feature is prohibitively expensive, especially when we just need them for a couple days. I started looking for somewhere to rent them. Nothing (real) existed*. So I started on this project... It's called DroidBRB, a peer-to-peer robot rental platform where people can list robots and others can rent or borrow them. Note: It's early. Very early. I can guarantee there are no robots listed near 99.999% of you (and still a few tests posts I'll be clearing out soon). Which is the point of this post. This is a network effect challenge, the platform only works if there are robots in your region, which requires people willing to list them, which requires people who want to borrow, and so on. The only way to break that loop is to find the first people who get it early enough to matter. That's why I'm here. What I'm looking for: Early testers — people willing to kick the tires, post some robots they're willing to rent out, find what's broken, and tell me about it. Regional anchors — if you're in a city and want to help seed a local community of lenders and borrowers, I'd love to talk. Partners — people who want to help build this out, not just use it. This isn't a revenue play and I'm not seeking any funding. It's about supporting and building out the community around robotics**, especially as we all know that this is space going to grow rapidly with the continued explosion of robotics. **and finding a great, passionate team to grow this project around. Site is droidbrb.com. Happy to answer anything in the comments. Added notes: - this is not simply a vibecoded app on Replit or Lovable... yes, it's heavily agent-coded (as almost everything these days), but I've been working for weeks trying out different designs, getting messaging / email notifications, etc. to a decent place. I'm sure there are still bugs and please consider this an alpha, so not for folks expecting perfection. But also a great time to make suggestions and influence the direction of this project. * Sharebot.ai exists, and while they describe the opportunity accurately IMO, they want to operate similar to AirBnB in handling payments and taking service fees (in other words, added costs). This would be great if they can provide the same protections as AirBnB does (e.g., someone breaks a robot), but it's unlikely they have the same capital to actually achieve this at scale. Right now they have less than 10 robots total available after launching a year ago and after raising $200K. I wish them all the best, but this is a separate approach / ethos.
 
-🔗 [droidbrb.com](http://droidbrb.com) • 7h ago
+🔗 [droidbrb.com](http://droidbrb.com) • 9h ago
 
 ---
 
@@ -91,14 +97,6 @@ Background: my daughter and I have an educational, robotics-focused YouTube chan
 ---
 
 **[CNN Hand gesture control robot](https://www.reddit.com/r/robotics/comments/1rup5d6/cnn_hand_gesture_control_robot/)**
-
-8h ago
-
----
-
-**[Besoin d’aide !!! comment Identifier le type de STS3215 sans ouvrir le servo](https://www.reddit.com/r/robotics/comments/1rumfs3/besoin_daide_comment_identifier_le_type_de/)**
-
-salut à tous, J’ai retiré plusieurs servomoteurs Feetech STS3215 de leur boîte pour mon projet de bras robot, mais maintenant je n’arrive plus à les identifier pour savoir lequel correspond à quel gear ratio (C001, C044, C046, etc.). Je souhaite les identifier de manière fiable sans ouvrir les servomoteurs et sans les endommager. Est-ce que quelqu’un a déjà rencontré ce problème et pourrait me conseiller sur une méthode sûre, que ce soit via logiciel, commandes série, ou tout autre moyen fiable ? Merci d’avance pour vos conseils ! 🙏
 
 10h ago
 
@@ -124,9 +122,9 @@ CNBC • 2d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqffEdYWSgNv0dNkYJR2EYv48vjeijW4oqC9d2iYSDFSpsayaWCIb7EC&gaa_ts=69b795af&gaa_sig=RDvXNeUNEuLoy8kRTefcghW8d9ku7iYk24LnSeTjc2YDhKbjc5qeOXamq4gjaa0OTs_rKIJSJ1npygePfJ5FgQ%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqcaxBZb7xyL-QOxG4o-PAuII3d1U6GovKJQduassuCdO1gc2B4dnR7e&gaa_ts=69b7ac1d&gaa_sig=AHNv9CNWJQztrcNkB_D9iGLjOY_IpB6Ke6-3Y585b3gXhPNsOvJ5-t03aQYXwfwqM6JQZvGguAEQ0f6IMPyEqQ%3D%3D)**
 
-WSJ • 12h ago
+WSJ • 7h ago
 
 ---
 
@@ -135,6 +133,14 @@ WSJ • 12h ago
 The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
 Quanta Magazine • 2d ago
+
+---
+
+**[‘Pokémon Go’ players have been unknowingly training delivery robots](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
+
+The massive crowdsourcing effort could use real-world to help robots deliver pizza.
+
+Popular Science • 2d ago
 
 ---
 
@@ -154,26 +160,6 @@ Ukrinform • 2d ago
 
 ---
 
-**[FIRST Robotics Finger Lakes Regional continues at RIT on Saturday](https://13wham.com/news/local/gallery/first-robotics-finger-lakes-regional-continues-at-rit-on-saturday-rebuilt-robots-students)**
-
-13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton.
-
-13wham.com • 1d ago
-
----
-
-**[Lanesborough Elementary Robotics Team Wins Berkshire Title](https://www.iberkshires.com/story/82050/Lanesborough-Elementary-Robotics-Team-Wins-Berkshire-Title.html)**
-
-DALTON, Mass. – Lanesborough Elementary School Saturday continued its dynasty at the Berkshire Robotics Challenge at Wahconah Regional High School.
-
-	 
-
-	Lanesborough’s...
-
-iBerkshires.com • 19h ago
-
----
-
 **[Giant robots battle it out in Detroit's Robowar](https://www.npr.org/2026/03/13/nx-s1-5680260/robowar-robot-battle-detroit)**
 
 Fighting robots is a cultural fantasy going back at least to Richard Matheson's 1956 story "Steel." One Detroit impresario is now bringing the idea to the stage — and real audiences.
@@ -186,7 +172,15 @@ NPR • 2d ago
 
 Cactus High School’s robotics team, the Cobra Commanders, is headed to the world championships in May after finishing first at a major regional competition last week.
 
-AZ Family • 13h ago
+AZ Family • 15h ago
+
+---
+
+**[The Week’s 10 Biggest Funding Rounds: AI, Robotics And E-Commerce Top The Ranks](https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/)**
+
+Busy week, big checks, lots of AI and robotics. That, in ultra-brief synopsis form, characterized the general startup fundraising environment this week. Notably, the two largest global rounds were U.K.- and Paris-based. In the U.S., meanwhile, an e-commerce platform, an AI networking developer, and an industrial automation startup each picked up $500 million.
+
+Crunchbase News • 2d ago
 
 ---
 
@@ -210,7 +204,7 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 6K • 👍 375 • 💬 63 • ⏱️ 7:53 • 16h ago
+👁️ 6K • 👍 375 • 💬 63 • ⏱️ 7:53 • 17h ago
 
 ---
 
@@ -288,7 +282,7 @@ A California robotics company, Rex Robotics, has developed a combat-ready robot 
 
 📺 Right Mos
 
-👁️ 4K • 💬 11 • ⏱️ 0:08 • 16h ago
+👁️ 4K • 💬 11 • ⏱️ 0:08 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-16T05:16:49.827619+00:00'
+updated: '2026-03-16T06:52:31.227920+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 05:16 UTC  
+**Last Updated:** March 16, 2026 at 06:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,861.79
+### $73,738.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.4%  
+**24h:** +3.3%  
 **7d:** +5.6%  
 **30d:** +7.3%  
 **90d:** -14.4%  
-**1y:** -12.3%  
+**1y:** -12.2%  
 
 ---
 
@@ -81,47 +81,7 @@ Rank #1
 
 I believe the times ahead will be radically different from what most people have gotten used to—more like the era before 1945 than since.
 
-🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 7h ago
-
----
-
-**[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
-
-14h ago
-
----
-
-**[The life of a Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1rumrk4/the_life_of_a_bitcoiner/)**
-
-10h ago
-
----
-
-**[Bitcoin set for best week since September 2025 as correlation with tech stocks weakens](https://www.reddit.com/r/Bitcoin/comments/1rup3kk/bitcoin_set_for_best_week_since_september_2025_as/)**
-
-Surprise, the doomers and the panic sellers were wrong again.
-
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 8h ago
-
----
-
-**[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
-
-14h ago
-
----
-
-**[Bitcoin Long-Term Holders Retain 79% of Supply as Exchange Reserves Decline](https://www.reddit.com/r/Bitcoin/comments/1rurxqn/bitcoin_longterm_holders_retain_79_of_supply_as/)**
-
-Bitcoin long-term holders still control about 79% of supply as exchange reserves decline, pointing to slower redistribution.
-
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/bitcoin-long-term-holders-retain-79-of-supply-as-exchange-reserves-decline/) • 6h ago
-
----
-
-**[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
-
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 10h ago
+🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 9h ago
 
 ---
 
@@ -129,19 +89,61 @@ Bitcoin long-term holders still control about 79% of supply as exchange reserves
 
 Like clockwork.
 
-1h ago
+3h ago
+
+---
+
+**[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
+
+16h ago
+
+---
+
+**[The life of a Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1rumrk4/the_life_of_a_bitcoiner/)**
+
+11h ago
+
+---
+
+**[Bitcoin set for best week since September 2025 as correlation with tech stocks weakens](https://www.reddit.com/r/Bitcoin/comments/1rup3kk/bitcoin_set_for_best_week_since_september_2025_as/)**
+
+Surprise, the doomers and the panic sellers were wrong again.
+
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 10h ago
+
+---
+
+**[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
+
+16h ago
+
+---
+
+**[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
+
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 11h ago
+
+---
+
+**[Bitcoin Long-Term Holders Retain 79% of Supply as Exchange Reserves Decline](https://www.reddit.com/r/Bitcoin/comments/1rurxqn/bitcoin_longterm_holders_retain_79_of_supply_as/)**
+
+Bitcoin long-term holders still control about 79% of supply as exchange reserves decline, pointing to slower redistribution.
+
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/bitcoin-long-term-holders-retain-79-of-supply-as-exchange-reserves-decline/) • 8h ago
+
+---
+
+**[HEY IT WENT UP!](https://www.reddit.com/r/Bitcoin/comments/1rv1jew/hey_it_went_up/)**
+
+PEOPLE IT WENT UP!!!
+
+47m ago
 
 ---
 
 **[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-21h ago
-
----
-
-**[The price action of recent months](https://www.reddit.com/r/Bitcoin/comments/1rtu5q6/the_price_action_of_recent_months/)**
-
-1d ago
+22h ago
 
 ---
 
@@ -149,11 +151,11 @@ Like clockwork.
 
 ## Google News: "bitcoin"
 
-**[Analysts weigh in on Bitwise CIO Matt Hougan’s $1 million bitcoin call](https://www.coindesk.com/markets/2026/03/15/bitwise-s-matt-hougan-revisits-usd1-million-bitcoin-analysts-agree-but-debate-his-timeline)**
+**[Bitcoin price news: BTC tops $74K, ether, solana, cardano move as much as 7%](https://www.coindesk.com/markets/2026/03/16/bitcoin-tops-usd74-000-as-ether-sol-ada-gains-as-much-as-6-in-monday-surge)**
 
-A growing number of industry figures say bitcoin could eventually reach seven figures, but analysts say the outcome hinges on how much of the global store-of-value market the cryptocurrency can capture.
+Majors posted broad gains on Monday as oil eased from highs, two tankers sailed through the Strait of Hormuz for the first time since the war began, and Trump said the U.S. was talking to Iran.
 
-CoinDesk • 15h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -161,45 +163,29 @@ CoinDesk • 15h ago
 
 Markets steadied after a volatile weekend, even as oil rose, as traders weighed U.S. strikes on Iranian targets.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
-**[Bitcoin in Iran Limbo as ‘Old Economy’ Assets Steal Limelight](https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-btc-in-iran-limbo-as-old-economy-assets-steal-limelight)**
+**[Bitcoin in Iran Limbo as ‘Old Economy’ Assets Steal Limelight](https://finance.yahoo.com/news/bitcoin-iran-limbo-old-economy-043913653.html)**
 
-Bloomberg.com • 37m ago
+The original cryptocurrency is beating stocks and gold since the Iran war broke out, but that says more about how far it had already fallen than where it’s headed.  On Monday, Bitcoin rose as much as 3.6% before paring gains to trade at about $73,600 as of 12:00 p.m. in Singapore.  A negative funding rate suggests short-sellers are paying a premium to maintain their positions, suggesting bearish market sentiment.
 
----
-
-**[The four-year cycle is broken, what is next for Bitcoin?](https://technode.global/2026/03/16/the-four-year-cycle-is-broken-what-is-next-for-bitcoin/)**
-
-Real-world asset tokenization creates an unexpected tailwind for crypto infrastructure. As billions in bonds, real estate, and institutional funds migrate onto blockchain rails, the underlying settlement networks gain legitimacy and liquidity depth. Digital assets become integrated into traditional finance workflows rather than sitting in isolated silos.
-
-TNGlobal • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[What next as bitcoin's price trades above its 50-day average?](https://www.coindesk.com/markets/2026/03/16/bitcoin-s-price-trades-above-its-50-day-average-as-bullish-move-gathers-pace)**
+**[Bitcoin Climbs in Asia as Other Markets Remain Tepid](https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-climbs-in-asia-as-other-markets-remain-tepid)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Bitcoin's price trades above its 50-day average as bullish move gathers pace](https://www.coindesk.com/markets/2026/03/16/bitcoin-s-price-trades-above-its-50-day-average-as-bullish-move-gathers-pace)**
 
 Bitcoin's convincing move above its key average indicates a strengthening of the bullish momentum.
 
-CoinDesk • 32m ago
-
----
-
-**['Bitcoin Is Going To $10,000,' Bloomberg's McGlone Says: Crypto Is A 'Dead' Asset Class](https://finance.yahoo.com/news/bitcoin-going-10-000-bloombergs-153055288.html)**
-
-Bloomberg Intelligence senior commodities strategist Mike McGlone predicts Bitcoin will fall to $10,000, calling the crypto asset class “dead” as unlimited token supply and five years of underperformance versus the S&P 500 make it uninvestable for institutional risk managers. The...
-
-Yahoo Finance • 2d ago
-
----
-
-**[My Top 3 Cryptocurrencies to Buy for the Next Bull Run](https://www.fool.com/investing/2026/03/15/my-top-3-cryptocurrencies-to-buy-for-the-next-bull/)**
-
-Bitcoin, Ether, and Solana are all worth buying before the bulls return.
-
-The Motley Fool • 12h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -208,6 +194,14 @@ The Motley Fool • 12h ago
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
 CNBC • 1d ago
+
+---
+
+**[My Top 3 Cryptocurrencies to Buy for the Next Bull Run](https://www.fool.com/investing/2026/03/15/my-top-3-cryptocurrencies-to-buy-for-the-next-bull/)**
+
+Bitcoin, Ether, and Solana are all worth buying before the bulls return.
+
+The Motley Fool • 13h ago
 
 ---
 
@@ -224,6 +218,14 @@ Yahoo Finance • 1d ago
 The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
 
 CoinDesk • 1d ago
+
+---
+
+**[Boris Johnson Calls Bitcoin a ‘Ponzi Scheme’](https://bitbo.io/news/boris-johnson-bitcoin-ponzi/)**
+
+Former UK Prime Minister Boris Johnson labeled Bitcoin a “Ponzi scheme” in a Daily Mail opinion piece, prompting pushback from Michael Saylor and other Bitcoin industry figures.
+
+Bitbo • 19h ago
 
 ---
 
@@ -295,13 +297,13 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 16h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
 
 ---
 
 **[Eliminating UI Bloat in the EraMix Financial Union Dashboard](https://news.ycombinator.com/item?id=47394092)**
 
-⬆️ 1 • 💬 0 • 3h ago
+⬆️ 1 • 💬 0 • 5h ago
 
 ---
 
@@ -315,7 +317,7 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 165 • ⏱️ 10:40 • 8h ago
+👁️ 32K • 👍 2K • 💬 165 • ⏱️ 10:40 • 10h ago
 
 ---
 
@@ -325,7 +327,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 678 • 💬 204 • ⏱️ 7:32 • 4h ago
+👁️ 7K • 👍 678 • 💬 204 • ⏱️ 7:32 • 5h ago
 
 ---
 
@@ -335,7 +337,7 @@ Bitcoin is sitting near $69K while gold is exploding and central banks are buyin
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 710 • 💬 43 • ⏱️ 17:22 • 7h ago
+👁️ 8K • 👍 710 • 💬 43 • ⏱️ 17:22 • 8h ago
 
 ---
 
@@ -365,7 +367,7 @@ Bitcoin might be approaching one of the most important moments of the cycle. Sev
 
 📺 Crypto Love
 
-👁️ 3K • 👍 299 • 💬 81 • ⏱️ 10:39 • 12h ago
+👁️ 3K • 👍 299 • 💬 81 • ⏱️ 10:39 • 13h ago
 
 ---
 
@@ -375,7 +377,7 @@ Get My (Buy Alerts) ▻ https://go.kenangraceuniversity.com/vsl-page. ✓ Add Me
 
 📺 Kenan Grace
 
-👁️ 14K • 👍 1K • 💬 51 • ⏱️ 8:45 • 12h ago
+👁️ 14K • 👍 1K • 💬 51 • ⏱️ 8:45 • 14h ago
 
 ---
 
@@ -385,7 +387,7 @@ Mike McGlone warns that the current market cycle could resemble 2008, with wealt
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 9 • 💬 18 • ⏱️ 0:29 • 10h ago
+👁️ 2K • 👍 9 • 💬 18 • ⏱️ 0:29 • 12h ago
 
 ---
 
