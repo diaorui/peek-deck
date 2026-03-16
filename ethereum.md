@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-16T22:01:42.245122+00:00'
+updated: '2026-03-16T22:57:43.398196+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - cryptocurrency
-- videos
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 22:01 UTC  
+**Last Updated:** March 16, 2026 at 22:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,355.26
+### $2,358.78
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +7.7%  
-**7d:** +15.4%  
-**30d:** +19.6%  
-**90d:** -17.0%  
-**1y:** +21.9%  
+**24h:** +8.2%  
+**7d:** +15.8%  
+**30d:** +20.0%  
+**90d:** -16.8%  
+**1y:** +22.3%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other people can't rug you; society can't rug you; your government can't rug you; another government can't rug you; corporations can't rug you." Trade wars escalating, institutional trust falling apart — and crypto has held decently through the worst of it so far. Blue chips bouncing off lows, ETH above $2,100 as of writing. A year ago this kind of global uncertainty would have sent crypto off a cliff. Starting to wonder if people are finally understanding what trustless sovereign money actually looks like when the systems around it are failing. The mandate feels like EF is leaning into exactly that moment. They're framing Ethereum as "sanctuary technology" and going hard on what they call CROPS — censorship resistance, open source, privacy, security — as non-negotiable properties. Not just another smart contract platform. Infrastructure for self-sovereignty in a world where the systems people have been trusting are breaking down. This framing feels different from anything EF has put out before. Is the market starting to price in a new narrative? Or am I reading too much into it? https://ethereum.foundation/ef-mandate.pdf
 
-14h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 Simplifies diamond management, deployment and upgrades.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8153) • 7h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8153) • 8h ago
 
 ---
 
@@ -154,47 +154,7 @@ Hi everyone, This morning I woke up to an email from eatherscan.io and was shock
 
 ShapeShift founder Erik Voorhees reportedly bought over $56 million worth of ETH after selling his ETH holdings a year earlier.
 
-The Block • 15h ago
-
----
-
-**[Prediction: Buying Ethereum Today Could Set You Up for Life](https://finance.yahoo.com/news/prediction-buying-ethereum-today-could-154123868.html)**
-
-The world's second-most-valuable cryptocurrency has a bright future.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum news (ETH): Foundation’s new mandate sparks debate about its role, priorities](https://www.coindesk.com/tech/2026/03/16/ethereum-foundation-s-new-mandate-sparks-debate-about-its-role-priorities)**
-
-The document quickly sparked debate across the Ethereum community, with supporters saying it reinforces the network’s core principles. Critics, however, argue the mandate signals the foundation intends to take a backseat just as institutional interest in blockchain is accelerating.
-
-CoinDesk • 5h ago
-
----
-
-**[BlackRock launches new ethereum ETF packed with staking rewards](https://finance.yahoo.com/video/blackrock-launches-ethereum-etf-packed-173000503.html)**
-
-BlackRock Head of Digital Assets Robbie Mitchnick joins Julie Hyman to discuss the company's launch of its new ethereum fund — the iShares Staked Ethereum Trust ETF (ETHB) — that lets investors track the cryptocurrency (ETH-USD) and earn staking rewards at the same time.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Ethereum price news: ETH surges 10% outpacing bitcoin gains as ETF demand, Bitmine buying accelerate](https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up)**
-
-Fresh Ethereum ETF inflows, digital asset treasury Bitmine buying and a shift away from bitcoin to altcoins are helping lift ether price.
-
-CoinDesk • 2h ago
-
----
-
-**[Tom Lee's BitMine Buys $10.2 Million in ETH Directly From Ethereum Foundation](https://finance.yahoo.com/news/tom-lees-bitmine-buys-10-191258160.html)**
-
-The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.
-
-Yahoo Finance • 2d ago
+The Block • 16h ago
 
 ---
 
@@ -202,7 +162,31 @@ Yahoo Finance • 2d ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added more ETH amid its climb to $2,300 for the first time in six weeks.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
+
+---
+
+**[Ethereum Has Serious Momentum, Up More than 12% Today. Here's Why That Trend Could Continue.](https://www.fool.com/investing/2026/03/16/ethereum-has-serious-momentum-up-more-than-12-toda/)**
+
+A big move in the world's second-largest cryptocurrency has many investors ratcheting up their bets.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Ethereum price news: ETH surges 10% outpacing bitcoin gains as ETF demand, Bitmine buying accelerate](https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up)**
+
+Fresh Ethereum ETF inflows, digital asset treasury Bitmine buying and a shift away from bitcoin to altcoins are helping lift ether price.
+
+CoinDesk • 3h ago
+
+---
+
+**[BlackRock launches new ethereum ETF packed with staking rewards](https://finance.yahoo.com/video/blackrock-launches-ethereum-etf-packed-173000503.html)**
+
+BlackRock Head of Digital Assets Robbie Mitchnick joins Julie Hyman to discuss the company's launch of its new ethereum fund — the iShares Staked Ethereum Trust ETF (ETHB) — that lets investors track the cryptocurrency (ETH-USD) and earn staking rewards at the same time.
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -210,15 +194,23 @@ Decrypt • 6h ago
 
 Bitmine has 3,040,515 staked ETH, representing $6.6 billion at $2,185 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.81% of the...
 
-PR Newswire • 9h ago
+PR Newswire • 10h ago
 
 ---
 
-**[Current price of Ethereum for March 16, 2026](https://fortune.com/article/price-of-ethereum-03-16-2026/)**
+**[What price will Ethereum hit on March 16? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-on-march-16)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+View real-time odds for "What price will Ethereum hit on March 16?" as of March 16, 2026 and trade on The World's Largest Prediction Market™
 
-Fortune • 7h ago
+Polymarket • 18h ago
+
+---
+
+**[Bitmine Soars 11% — Tom Lee’s Ethereum Bet Just Got Even Bigger](https://247wallst.com/investing/2026/03/16/bitmine-soars-11-tom-lees-ethereum-bet-just-got-even-bigger/)**
+
+Bitmine Immersion Technologies (NYSE:BMNR) stock is up 11% in Monday morning trading, pushing shares toward $23 after the company dropped a treasury update that’s hard to ignore. The catalyst: $11.5 billion in total cryptocurrency, cash, and moonshot holdings, a fresh Ethereum (CRYPTO:ETH) purchase, and Chairman Tom Lee tying the move directly to geopolitical tensions driving ... Bitmine Soars 11% — Tom Lee’s Ethereum Bet Just Got Even Bigger
+
+24/7 Wall St. • 7h ago
 
 ---
 
@@ -227,6 +219,14 @@ Fortune • 7h ago
 Meanwhile, investors like Erik Voorhees have resumed large ETH purchases, suggesting continued belief in Ethereum’s long-term potential.
 
 AMBCrypto • 8h ago
+
+---
+
+**[Current price of Ethereum for March 16, 2026](https://fortune.com/article/price-of-ethereum-03-16-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 9h ago
 
 ---
 
@@ -240,7 +240,7 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 📺 Paul Barron Network
 
-👁️ 9K • 👍 1K • 💬 88 • ⏱️ 23:28 • 2h ago
+👁️ 9K • 👍 1K • 💬 88 • ⏱️ 23:28 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 📺 Dan Gambardello
 
-👁️ 7K • 👍 559 • 💬 144 • ⏱️ 13:47 • 7h ago
+👁️ 7K • 👍 559 • 💬 144 • ⏱️ 13:47 • 8h ago
 
 ---
 
@@ -260,7 +260,7 @@ This data is not great for bitcoin, ethereum and the rest of crypto and the mark
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 2K • 💬 30 • ⏱️ 8:58 • 10h ago
+👁️ 16K • 👍 2K • 💬 30 • ⏱️ 8:58 • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 193 • 💬 16 • ⏱️ 7:10 • 5h ago
+👁️ 2K • 👍 193 • 💬 16 • ⏱️ 7:10 • 6h ago
 
 ---
 
@@ -280,7 +280,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 54 • 👍 7 • 💬 16 • ⏱️ 7:02 • 2h ago
+👁️ 54 • 👍 7 • 💬 16 • ⏱️ 7:02 • 3h ago
 
 ---
 
@@ -290,7 +290,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 155 • 👍 12 • 💬 17 • ⏱️ 4:15 • 2h ago
+👁️ 155 • 👍 12 • 💬 17 • ⏱️ 4:15 • 3h ago
 
 ---
 
@@ -310,7 +310,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 744 • 👍 20 • 💬 1 • ⏱️ 5:26 • 10h ago
+👁️ 744 • 👍 20 • 💬 1 • ⏱️ 5:26 • 11h ago
 
 ---
 
@@ -330,7 +330,7 @@ Telegram (аналитика, точки входа, главные мысли):
 
 📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
 
-👁️ 14K • 👍 2K • 💬 151 • ⏱️ 14:49 • 8h ago
+👁️ 14K • 👍 2K • 💬 151 • ⏱️ 14:49 • 9h ago
 
 ---
 

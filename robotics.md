@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T22:01:42.248399+00:00'
+updated: '2026-03-16T22:57:43.401494+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 22:01 UTC  
+**Last Updated:** March 16, 2026 at 22:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,15 @@ Robotics research and industry news
 
 From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
 
-11h ago
+12h ago
+
+---
+
+**[Open Robotics Google Summer of Code Program for 2026 is now live! Get paid to contribute to open source projects like ROS, Gazebo, ROS Control, and Open-RMF.](https://www.reddit.com/r/robotics/comments/1rvjidh/open_robotics_google_summer_of_code_program_for/)**
+
+Google Summer of Code is a Google sponsored program that pays students to work with seasoned open source contributors over the summer to build new features for popular open source projects. The program is fully remote and available in most countries. Full details on Open Robotics Discourse.
+
+3h ago
 
 ---
 
@@ -54,27 +62,11 @@ I built my own desktop companion with raspberry pi, respeaker lite. I built it t
 
 ---
 
-**[Open Robotics Google Summer of Code Program for 2026 is now live! Get paid to contribute to open source projects like ROS, Gazebo, ROS Control, and Open-RMF.](https://www.reddit.com/r/robotics/comments/1rvjidh/open_robotics_google_summer_of_code_program_for/)**
-
-Google Summer of Code is a Google sponsored program that pays students to work with seasoned open source contributors over the summer to build new features for popular open source projects. The program is fully remote and available in most countries. Full details on Open Robotics Discourse.
-
-2h ago
-
----
-
 **[Building an A.I. navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 4)](https://www.reddit.com/r/robotics/comments/1rvfaor/building_an_ai_navigation_software_that_will_only/)**
 
 Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric model Tested the so called "Zero Shot" properties of VLM models with every day objects/landmarks Basic navigation commands and AI models are just the beginning/POC, more exciting things to come. Working towards shipping an API for robotics Devs that want to add intelligent navigation to their custom hardware creations. (not just off the shelf unitree robots)
 
-4h ago
-
----
-
-**[Robot studio help](https://www.reddit.com/r/robotics/comments/1rvjswy/robot_studio_help/)**
-
-Hi all. I am currently new to robot studio and I am trying to program our ABB GoFa to go around the top square of this part. I have selected each target and created a path and I have made sure that the head of the robot is in the correct orientation for each movement. I have also checked the configuration of the robot all the way around the part and it seems to be correct and definitely not like the end of the video! When I run the simulation the robot just seems to crash itself into the ground! I haven't set any collision areas as what the robot is sat on was a part imported from SOLIDWORKS as a .SAT file. When I tried to give it collision boundarys the whole part is one component therefore the robot would constantly think it's crashed. I tried dragging separate bodies into the collision folders but it wouldn't let me Please can anyone help!
-
-2h ago
+5h ago
 
 ---
 
@@ -84,11 +76,27 @@ Hi all. I am currently new to robot studio and I am trying to program our ABB Go
 
 ---
 
+**[Robot studio help](https://www.reddit.com/r/robotics/comments/1rvjswy/robot_studio_help/)**
+
+Hi all. I am currently new to robot studio and I am trying to program our ABB GoFa to go around the top square of this part. I have selected each target and created a path and I have made sure that the head of the robot is in the correct orientation for each movement. I have also checked the configuration of the robot all the way around the part and it seems to be correct and definitely not like the end of the video! When I run the simulation the robot just seems to crash itself into the ground! I haven't set any collision areas as what the robot is sat on was a part imported from SOLIDWORKS as a .SAT file. When I tried to give it collision boundarys the whole part is one component therefore the robot would constantly think it's crashed. I tried dragging separate bodies into the collision folders but it wouldn't let me Please can anyone help!
+
+3h ago
+
+---
+
 **[‘No ordinary clean-up operation’: EU deploys drones and robots to remove litter from the sea floor](https://www.reddit.com/r/robotics/comments/1rv2nsv/no_ordinary_cleanup_operation_eu_deploys_drones/)**
 
 The EU-funded initiative is helping tidy up the litter-filled sea floor, and could even be used to detect hidden mines.
 
-🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 14h ago
+🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 15h ago
+
+---
+
+**[Robots REVIEW Smart Glasses](https://www.reddit.com/r/robotics/comments/1rvostf/robots_review_smart_glasses/)**
+
+Let me know what you guys think of this. Really hope to keep making more videos like it, but again I’d love everyone’s input. Anyway you’d improve this style of video? Full video on YouTube if you wanna see
+
+17m ago
 
 ---
 
@@ -96,15 +104,7 @@ The EU-funded initiative is helping tidy up the litter-filled sea floor, and cou
 
 Analysts say AI and robotics could support growth despite demographic decline.
 
-🔗 [Digital Watch Observatory](https://dig.watch/updates/ai-and-robotics-aging-population-asia) • 3h ago
-
----
-
-**[My humanoid robot](https://www.reddit.com/r/robotics/comments/1rv3mvu/my_humanoid_robot/)**
-
-I’m currently designing the legs so i can have the body done for a showcase event i’ll go to, i also have a order with the battery arriving and i may connect some components to it so i can test it when i have it. Also i post updates on tiktok: diy.builder and more detailed on yt: DIYmrbuilder
-
-13h ago
+🔗 [Digital Watch Observatory](https://dig.watch/updates/ai-and-robotics-aging-population-asia) • 4h ago
 
 ---
 
@@ -112,17 +112,17 @@ I’m currently designing the legs so i can have the body done for a showcase ev
 
 ## Google News: "robotics"
 
-**[Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)**
+**[Memories AI is building the visual memory layer for wearables and robotics](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)**
 
-Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.
+Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.
 
-TechCrunch • 3d ago
+TechCrunch • 2h ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqdRYLteMlQAQnCXwNOlFTT_l05eRiTxsgPQXoUhJoQacdEmJXxZ0GR2&gaa_ts=69b87410&gaa_sig=0gNaTNxLA9bwDC8dAnR5p-wZuarxc-2w6ymwtQe97gTwz4GXwcwTcwNI5MXBMQmHTxJokEJj6SnZaR_K-NgC6Q%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfIK3Y-Ff8uCzDlcwGyfxHiWVOeZ7em30LE97gkGvPYQtow-45LhoRc&gaa_ts=69b88e53&gaa_sig=ttoprCzioPaK58Atr4CnKb1py9AW3Sn3vYfqNQiAAseTULThDVS9vpY2nGSfv9ZY7XpSRSaI_ywbBbKNM6wlig%3D%3D)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -130,7 +130,7 @@ WSJ • 10h ago
 
 US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 12h ago
 
 ---
 
@@ -142,27 +142,35 @@ Electrek • 1d ago
 
 ---
 
+**[NVIDIA and Global Robotics Leaders Take Physical AI to the Real World](http://nvidianews.nvidia.com/news/nvidia-and-global-robotics-leaders-take-physical-ai-to-the-real-world)**
+
+NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power production-scale physical AI. NVIDIA also unveiled new NVIDIA Isaac™ simulation frameworks and new NVIDIA Cosmos™ and NVIDIA Isaac GR00T open models for the industry to develop, train and deploy the next generation of intelligent robots.
+
+NVIDIA Newsroom • 2h ago
+
+---
+
 **[Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs.](https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3)**
 
 Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
-**[Nvidia GTC 2026 LIVE — Jensen Huang reveals DLSS 5, AI breakthroughs, robotics and maybe N1X](https://www.tomsguide.com/computing/live/nvidia-gtc-2026-live)**
+**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
 
-'It all starts here'
+The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
 
-Tom's Guide • 2h ago
+Quanta Magazine • 3d ago
 
 ---
 
-**[Embodying physical computing into soft robots](https://www.nature.com/articles/s41467-026-70866-6)**
+**[‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
 
-Physical computing in soft robots reveals new principles of mechanical intelligence. The authors show that embodied oscillators, reservoir dynamics and mechanical logic enable robots to sense act and move without conventional electronics.
+The massive crowdsourcing effort could use real-world to help robots deliver pizza.
 
-Nature • 1d ago
+Popular Science • 3d ago
 
 ---
 
@@ -174,19 +182,11 @@ CNET • 1h ago
 
 ---
 
-**[Turns out all your Pokémon Go data will be used to train robots](https://www.polygon.com/pokemon-go-data-ai-robots-niantic/)**
+**[Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport](https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html)**
 
-All your Pokémon Go hours will now help robots deliver pizza in time
+Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
 
-Polygon.com • 8h ago
-
----
-
-**[Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/)**
-
-The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
-
-Quanta Magazine • 3d ago
+CNBC • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 10K • 👍 380 • 💬 32 • ⏱️ 13:18 • 21h ago
+👁️ 10K • 👍 380 • 💬 32 • ⏱️ 13:18 • 22h ago
 
 ---
 
