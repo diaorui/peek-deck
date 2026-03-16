@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-16T06:52:31.219360+00:00'
+updated: '2026-03-16T08:08:20.836142+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 16, 2026 at 06:52 UTC  
+**Last Updated:** March 16, 2026 at 08:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,31 +41,7 @@ AI news, discussions, and developments
 
 I've been tracking AI-driven layoffs for the past few months and something doesn't add up. Block cut 4,000 people (40% of workforce). Atlassian cut 1,600. Shopify told employees to prove AI can't do their job before asking for headcount. The script is always the same: CEO cites AI, stock ticks up. But then you look at the numbers. S&P Global found 42% of companies abandoned their AI initiatives in 2025, up from 17% the year before. A separate survey found 55% of CEOs who fired people "because of AI" already regret it. Klarna bragged AI could replace 700 employees, then quietly started hiring humans back when quality tanked. What I keep seeing across the research is that AI compressed execution speed dramatically; prototyping that took weeks now takes hours. But the coordination layer (approval chains, quarterly planning, review cycles) didn't speed up at all. The bottleneck flipped from "can we build it fast enough" to "does leadership know what to build and can they keep up with the teams building it." Companies are cutting the people who got faster while leaving the layer that didn't speed up intact. Monday.com is an interesting counter-example. Lost 80% of market value, automated 100 SDRs with AI, but redeployed them instead of firing them. Their CEO's reasoning: "Every time we eliminate one bottleneck, a new one emerges." I pulled together ten independent sources on this — engineers, economists, survey data, executives — and wrote it up here if anyone wants the full analysis with sources: https://news.future-shock.ai/ai-didnt-replace-workers-it-outran-their-managers/ Curious if anyone else is seeing this pattern in their orgs. Is the management layer adapting or just cutting headcount and calling it an AI strategy?
 
-8h ago
-
----
-
-**[WiFi-DensePose: AI Can Track Body Positions Through Walls](https://www.reddit.com/r/artificial/comments/1ruzmks/wifidensepose_ai_can_track_body_positions_through/)**
-
-WiFi-DensePose: AI Can Track Body Positions Through Walls: Researchers have developed a system using standard WiFi signals to reconstruct full-body positions in real-time, through walls and in the dark, offering potential for privacy-preserving fall detection and health monitoring
-
-2h ago
-
----
-
-**[Anyone Else Have Those Weird Dreams Where Sobbing Future Generations Beg You To Change Course?](https://www.reddit.com/r/artificial/comments/1ruok4v/anyone_else_have_those_weird_dreams_where_sobbing/)**
-
-The human subconscious is such an interesting thing. No matter how much you think you’ve got it figured out, it’ll always spit out the most random stuff. Take me, for example. After coming home from a long day at the world’s most groundbreaking artificial intelligence organization, I’ll go to bed and have the weirdest dreams where people from the future are sobbing and begging me to change course. Anyone else ever have these?
-
-🔗 [The Onion](https://theonion.com/anyone-else-have-those-weird-dreams-where-sobbing-future-generations-beg-you-to-change-course/) • 10h ago
-
----
-
-**[The Evidence for AI Consciousness, Today](https://www.reddit.com/r/artificial/comments/1ruukrr/the_evidence_for_ai_consciousness_today/)**
-
-Cameron Berg, Dec 08, 2025 — A growing body of evidence means it’s no longer tenable to dismiss the possibility that frontier AIs are conscious.
-
-🔗 [AI Frontiers](https://ai-frontiers.org/articles/the-evidence-for-ai-consciousness-today) • 6h ago
+9h ago
 
 ---
 
@@ -73,7 +49,23 @@ Cameron Berg, Dec 08, 2025 — A growing body of evidence means it’s no longer
 
 Today I asked opus 4.6 - 2 questions and it already "felt" as if 60-70% of its context was used up. An interesting result **Question 1: What is in the context window?** **Answer 1 [Opus 4.6]:** Right now, the context window contains the following: System prompt — This is the main set of instructions that guides how I behave. It includes: ∙ Product information about Claude and Anthropic’s offerings ∙ Behavioral guidelines (tone, formatting, safety, copyright, evenhandedness, etc.) ∙ Web search instructions and copyright compliance rules ∙ Image search tool guidance ∙ Computer use instructions (access to a Linux container with bash, file creation/editing tools) ∙ Available skills (docx, pdf, pptx, xlsx, frontend-design, product-self-knowledge, skill-creator) ∙ Past chats tool instructions (for searching conversation history) ∙ Artifact creation guidelines (React, HTML, Markdown, etc.) ∙ Anthropic API-in-artifacts capability (for building AI-powered artifacts) ∙ Citation instructions for web search results ∙ Tool definitions for all available tools (web search, image search, file tools, places/maps, sports data, calendar/reminders, message compose, etc.) ∙ Network and filesystem configuration (network egress is currently disabled) Your message — Your single question: “what is in the context window right now” That’s it — there are no uploaded files, no prior conversation turns, no memory entries, and no images. It’s just the system instructions and your one message.​​​​​​​​​​​​​​​​ **Question 2: how heavy does that feel if you gave it a percentage?** **Answer 2 [Opus 4.6]:** Honestly, it’s on the heavier side — I’d estimate around 60-70% of the context window is already occupied by the system prompt alone. There’s a lot in there: detailed behavioral guidelines, extensive copyright and search instructions, tool definitions for 20+ tools, skill descriptions, artifact rules, the API-in-artifacts documentation, past chats tool logic, and various safety/formatting policies. It’s quite a dense set of instructions. That leaves roughly 30-40% for our actual conversation, any files you might upload, tool call results (like web search responses), and my replies. For a typical back-and-forth chat that’s plenty, but if we were doing something like deep research with lots of search results or working with large files, it could start to feel tight over a long conversation.​​​​​​​​​​​​​​​​
 
-5h ago
+6h ago
+
+---
+
+**[Anyone Else Have Those Weird Dreams Where Sobbing Future Generations Beg You To Change Course?](https://www.reddit.com/r/artificial/comments/1ruok4v/anyone_else_have_those_weird_dreams_where_sobbing/)**
+
+The human subconscious is such an interesting thing. No matter how much you think you’ve got it figured out, it’ll always spit out the most random stuff. Take me, for example. After coming home from a long day at the world’s most groundbreaking artificial intelligence organization, I’ll go to bed and have the weirdest dreams where people from the future are sobbing and begging me to change course. Anyone else ever have these?
+
+🔗 [The Onion](https://theonion.com/anyone-else-have-those-weird-dreams-where-sobbing-future-generations-beg-you-to-change-course/) • 11h ago
+
+---
+
+**[WiFi-DensePose: AI Can Track Body Positions Through Walls](https://www.reddit.com/r/artificial/comments/1ruzmks/wifidensepose_ai_can_track_body_positions_through/)**
+
+WiFi-DensePose: AI Can Track Body Positions Through Walls: Researchers have developed a system using standard WiFi signals to reconstruct full-body positions in real-time, through walls and in the dark, offering potential for privacy-preserving fall detection and health monitoring
+
+3h ago
 
 ---
 
@@ -81,19 +73,27 @@ Today I asked opus 4.6 - 2 questions and it already "felt" as if 60-70% of its c
 
 Been working on a personal project for a few months that has now launched — I can't share details to adhere to subreddit rules and I'm not here to advertise. I'm here to get genuine feedback from people who actually use AI daily. The core idea is auto-routing. Instead of choosing which model to use yourself, the system analyses your prompt and automatically sends it to the right model. Here's how I've mapped it: Grok for anything needing real-time or live data GPT-5.2 for coding tasks Gemini for image and audio analysis Claude for long documents and writing DeepSeek R1 for complex reasoning problems I've also built in a dropdown so users can turn auto-routing off completely and manually pick whichever model they want. So it works both ways. One thing I haven't seen discussed much elsewhere — because all models share the same conversation thread, you can actually use them together consecutively. Ask Gemini to write a prompt, switch to GPT for deep reasoning on it, switch to Claude for the long-form output — and the full context carries across all of them. No copy-pasting between tabs. ChatGPT remembers within ChatGPT. Claude remembers within Claude. But here every model has access to the same conversation history. I'm curious whether that kind of cross-model continuity is something people actually want or whether most users just pick one model and stick with it. On features — I've already implemented most of what the big platforms are now making announcements about: persistent memory, knowledge base, vision to code, photo editing, music generation, and video generation using top models. So I'm genuinely not sure what's missing. What would make you switch from whatever you're currently using? Is there something you wish existed that none of the major platforms have shipped yet? A few other things I'd love opinions on: Input limit is set to 200,000 characters, which safely fits within the context windows of all supported models. For large inputs the router automatically directs to Claude or Gemini which handle long context best. Is 200k enough or do people genuinely need more? I've also added UI features I haven't seen elsewhere — 26 language options for the entire interface, multiple themes, and live wallpapers. Does that kind of thing matter to anyone or do people just want raw model performance and the interface is irrelevant?
 
-5h ago
+7h ago
+
+---
+
+**[The Evidence for AI Consciousness, Today](https://www.reddit.com/r/artificial/comments/1ruukrr/the_evidence_for_ai_consciousness_today/)**
+
+Cameron Berg, Dec 08, 2025 — A growing body of evidence means it’s no longer tenable to dismiss the possibility that frontier AIs are conscious.
+
+🔗 [AI Frontiers](https://ai-frontiers.org/articles/the-evidence-for-ai-consciousness-today) • 7h ago
 
 ---
 
 **[Consultants Are Cashing in on the AI Boom - Tech News Briefing - WSJ Podcasts](https://www.reddit.com/r/artificial/comments/1rue9qr/consultants_are_cashing_in_on_the_ai_boom_tech/)**
 
-🔗 [wsj.com](https://www.wsj.com/podcasts/tech-news-briefing/consultants-are-cashing-in-on-the-ai-boom/e9eaf7be-171e-4e25-9faa-33d8bb2ea786?gaa_at=eafs&gaa_n=AWEtsqfdTyvWaFP8EfWuBrGOod5F9GRFcSzxcEHqOEAYwDmKE6xeFnP31JmAzsh3SsE%3D&gaa_ts=69b6b7da&gaa_sig=OPtT9zqUPeLMNc4DiaE9pndX0S1npatSl4fjzt3RjCbRWxbY64Z5j0ODyk5msYHze2XhkS1AkVFl9a8m738_5Q%3D%3D) • 17h ago
+🔗 [wsj.com](https://www.wsj.com/podcasts/tech-news-briefing/consultants-are-cashing-in-on-the-ai-boom/e9eaf7be-171e-4e25-9faa-33d8bb2ea786?gaa_at=eafs&gaa_n=AWEtsqfdTyvWaFP8EfWuBrGOod5F9GRFcSzxcEHqOEAYwDmKE6xeFnP31JmAzsh3SsE%3D&gaa_ts=69b6b7da&gaa_sig=OPtT9zqUPeLMNc4DiaE9pndX0S1npatSl4fjzt3RjCbRWxbY64Z5j0ODyk5msYHze2XhkS1AkVFl9a8m738_5Q%3D%3D) • 18h ago
 
 ---
 
 **[Gig workers are getting paid to film their daily chores to train robots](https://www.reddit.com/r/artificial/comments/1rut13m/gig_workers_are_getting_paid_to_film_their_daily/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111686-gig-workers-getting-paid-film-their-daily-chores.html) • 7h ago
+🔗 [techspot.com](https://www.techspot.com/news/111686-gig-workers-getting-paid-film-their-daily-chores.html) • 8h ago
 
 ---
 
@@ -101,7 +101,7 @@ Been working on a personal project for a few months that has now launched — I 
 
 Came across this subreddit today and happy to be part of the group. Based in Bahrain and been deep in the AI world for the past few months working on something I'd love to share with you all at some point when the time is right. Glad to be here, looking forward to actually being part of the conversation rather than just reading.
 
-7h ago
+9h ago
 
 ---
 
@@ -109,7 +109,7 @@ Came across this subreddit today and happy to be part of the group. Based in Bah
 
 https://img.leopedia.io/DQmTq3HHD5JNKtsr9Fiwz2RzJ4CsaCr5HUwjoS85UujqvCv/AI%20Deepfakes.png  In an era where generative ... by pichat
 
-🔗 [PeakD](https://peakd.com/@pichat/beyond-guesswork-brevis-unveils-vera-to-cryptographically-verify-media-origins-and-combat-ai-deepfakes-gfz) • 16h ago
+🔗 [PeakD](https://peakd.com/@pichat/beyond-guesswork-brevis-unveils-vera-to-cryptographically-verify-media-origins-and-combat-ai-deepfakes-gfz) • 17h ago
 
 ---
 
@@ -121,37 +121,53 @@ https://img.leopedia.io/DQmTq3HHD5JNKtsr9Fiwz2RzJ4CsaCr5HUwjoS85UujqvCv/AI%20Dee
 
 The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
-**[These aren’t AI firms, they’re defense contractors. We can’t let them hide behind their models](https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies)**
+**[AI has exposed age-old problems with university coursework | Letter](https://www.theguardian.com/technology/2026/mar/15/ai-has-exposed-age-old-problems-with-university-coursework)**
 
-From Gaza to Iran, the pattern is the same: precision weapons, chosen blindness, and dead children. The cost of failing to regulate AI warfare is already too high
+Letter: Instead of romanticising a pre-AI past, universities should use this moment to rethink what they actually want students to demonstrate, says Dr Nafisa Baba-Ahmed
 
-The Guardian • 17h ago
-
----
-
-**[Big Tech purchases of carbon credits explode amid AI race, with Microsoft leading the way](https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html)**
-
-Carbon credit purchases by Amazon, Google, Meta and Microsoft skyrocketed in 2023, based on tracked purchases.
-
-CNBC • 44m ago
+The Guardian • 15h ago
 
 ---
 
-**[Nvidia Partner Hon Hai’s Profit Miss Raises AI Demand Fears](https://www.bloomberg.com/news/articles/2026-03-16/nvidia-partner-hon-hai-s-profit-miss-raises-ai-demand-fears?srnd=all)**
+**[From foundations to fluency: why upskilling is the key to Europe’s AI future](https://fortune.com/2026/03/16/ai-upskilling-google-emea-president-debbie-weinstein/)**
 
-Bloomberg.com • 17m ago
+With Google's support, INCO and Chance have created NewFutures:AI, a set of advanced AI curriculums for final-year students.
+
+Fortune • 5m ago
 
 ---
 
-**[Nonprofit AI Ready RVA taps first executive director](https://richmondbizsense.com/2026/03/16/nonprofit-ai-ready-rva-taps-first-executive-director/)**
+**[Employees who don't vibe code are 'probably underperforming,' fintech startup product chief says](https://www.businessinsider.com/vibe-coding-ai-tools-underperforming-ramp-tech-2026-3)**
 
-“It’s the Wild, Wild West right now in AI development. There are no federal or state policies currently deployed that (give) guardrails to AI development,” said William Willis. “It’s up to the community. We have to self-govern right now, because no one else is governing it.”
+Ramp's product chief says employees who "sometimes use ChatGPT" are at level zero — and "will most likely not be at the company" for long.
 
-Richmond BizSense • 51m ago
+Business Insider • 38m ago
+
+---
+
+**[Google scraps AI search feature that crowdsourced amateur medical advice](https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice)**
+
+Exclusive: Revelation comes as company faces mounting scrutiny over use of AI to provide health tips
+
+The Guardian • 23m ago
+
+---
+
+**[This AI-powered robot is reimagining traditional ink paintings](https://www.cnn.com/2026/03/15/world/video/transformers-ai-robot-painter-hong-kong-digvid-hnk)**
+
+Hong Kong artist Victor Wong fuses tradition with technology, using an AI-powered robotic arm to paint intricate landscapes inspired by Chinese ink art.
+
+CNN • 6h ago
+
+---
+
+**[Nvidia Partner Hon Hai’s Profit Miss Raises AI Demand Fears](https://www.bloomberg.com/news/articles/2026-03-16/nvidia-partner-hon-hai-s-profit-miss-raises-ai-demand-fears)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -161,11 +177,11 @@ Reuters • 2d ago
 
 ---
 
-**[This AI-powered robot is reimagining traditional ink paintings](https://www.cnn.com/2026/03/15/world/video/transformers-ai-robot-painter-hong-kong-digvid-hnk)**
+**[Big Tech purchases of carbon credits explode amid AI race, with Microsoft leading the way](https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html)**
 
-Hong Kong artist Victor Wong fuses tradition with technology, using an AI-powered robotic arm to paint intricate landscapes inspired by Chinese ink art.
+Carbon credit purchases by Amazon, Google, Meta and Microsoft skyrocketed in 2023, based on tracked purchases.
 
-CNN • 5h ago
+CNBC • 1h ago
 
 ---
 
@@ -173,23 +189,7 @@ CNN • 5h ago
 
 Oscars host Conan O'Brien kicked off the 98th Oscars with a monologue that touched on this year's nominated movies and actors.
 
-ABC7 Los Angeles • 7h ago
-
----
-
-**[A tech entrepreneur used AI to help create the first-ever bespoke cancer vaccine for a dog](https://fortune.com/2026/03/15/australian-tech-entrepreneur-ai-cancer-vaccine-dog-rosie-unsw-mrna/)**
-
-"I went to ChatGPT and came up with a plan on how to do this."
-
-Fortune • 12h ago
-
----
-
-**[Tech companies are blaming massive layoffs on AI. What’s really going on?](https://theconversation.com/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on-278314)**
-
-Amazon, Block and Atlassian have announced AI-driven job cuts, and Meta is reportedly planning its own – but all may not be as it seems.
-
-The Conversation • 4h ago
+ABC7 Los Angeles • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Conversation • 4h ago
 
 Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.
 
-⬆️ 1467 • 💬 345 • 2d ago • [CanIRun.ai](https://www.canirun.ai/)
+⬆️ 1468 • 💬 346 • 2d ago • [CanIRun.ai](https://www.canirun.ai/)
 
 ---
 
@@ -217,7 +217,7 @@ Tesla and SpaceX managers sent in to review work as billionaire’s start-up str
 
 Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creating an account on GitHub.
 
-⬆️ 391 • 💬 350 • 20h ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+⬆️ 397 • 💬 352 • 21h ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 
 ---
 
@@ -231,13 +231,13 @@ Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creati
 
 Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?
 
-⬆️ 356 • 💬 290 • 22h ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+⬆️ 357 • 💬 291 • 1d ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 
 ---
 
 **[Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)**
 
-⬆️ 292 • 💬 478 • 14h ago
+⬆️ 300 • 💬 487 • 16h ago
 
 ---
 
@@ -245,7 +245,7 @@ Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretati
 
 Airbus is working at full throttle to offer the German Air Force an operational Uncrewed Collaborative Combat Aircraft (UCCA) system by 2029.
 
-⬆️ 178 • 💬 127 • 1d ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+⬆️ 178 • 💬 128 • 1d ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 
 ---
 
@@ -253,7 +253,7 @@ Airbus is working at full throttle to offer the German Air Force an operational 
 
 Define, version, and run AI agents natively in git. GitAgent is the open AI agent standard — framework-agnostic, works with Claude, OpenAI, CrewAI, Lyzr, and more.
 
-⬆️ 135 • 💬 35 • 1d ago • [GitAgent](https://www.gitagent.sh/)
+⬆️ 137 • 💬 35 • 1d ago • [GitAgent](https://www.gitagent.sh/)
 
 ---
 
@@ -275,33 +275,13 @@ Spine is the world's first truly agentic platform designed to manage and orchest
 
 ## YouTube Videos: "ai"
 
-**[IT’S AI?! Benjamin Netanyahu “Proof of Life” Video Looks Fake](https://www.youtube.com/watch?v=6jwLwveZG3g)**
-
-Benjamin Netanyahu's AI video proof of life video is going viral! JOIN THE TRENT OUT LOUD MEMBERSHIP PERKS PROGRAM ...
-
-📺 Trent Out Loud
-
-👁️ 6K • 👍 316 • 💬 203 • ⏱️ 8:15 • 8h ago
-
----
-
 **[What&#39;s really going on with AI, Expert weighs in | TheStandup](https://www.youtube.com/watch?v=TtX3jDaZG8Y)**
 
 ssh terminal.shop CHECK OUT THEIR NEW PODCAST ON CASEY'S YOUTUBE: @MollyRocket AI researcher Dimitri joins the ...
 
 📺 The PrimeTime
 
-👁️ 111K • 👍 3K • 💬 589 • ⏱️ 42:21 • 1d ago
-
----
-
-**[China’s New DuClaw AI Just Made OpenClaw Instant and Unstoppable](https://www.youtube.com/watch?v=sQRLPwcK-tU)**
-
-China just released DuClaw, a new platform that lets anyone run OpenClaw AI agents instantly from a web browser without ...
-
-📺 AI Revolution
-
-👁️ 40K • 👍 992 • 💬 120 • ⏱️ 14:20 • 1d ago
+👁️ 113K • 👍 3K • 💬 602 • ⏱️ 42:21 • 1d ago
 
 ---
 
@@ -311,7 +291,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 94K • 👍 3K • 💬 537 • ⏱️ 3:28 • 2d ago
+👁️ 96K • 👍 3K • 💬 540 • ⏱️ 3:28 • 2d ago
 
 ---
 
@@ -321,17 +301,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 483 • 💬 29 • ⏱️ 16:22 • 15h ago
+👁️ 8K • 👍 506 • 💬 29 • ⏱️ 16:22 • 17h ago
 
 ---
 
-**[Claude Code, Paperclip, &amp; The Rise of &quot;AI Agent Companies&quot;](https://www.youtube.com/watch?v=Rgb-Kx-kkaA)**
+**[Meta to Fire 20% of its Workforce? (AI Takeover)](https://www.youtube.com/watch?v=K5CxBze4BeI)**
 
-Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai FREE community + GWS ...
+Meta is preparing for the largest layoffs in company history, potentially firing 20% of its workforce (16000 jobs). Get updated: ...
 
-📺 Chase AI
+📺 Mark Savant
 
-👁️ 9K • 👍 286 • 💬 31 • ⏱️ 8:51 • 8h ago
+👁️ 8K • 👍 261 • 💬 99 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -341,7 +321,7 @@ Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but re
 
 📺 AI DREAM ASMR
 
-👁️ 76K • 👍 4K • 💬 301 • ⏱️ 2:34 • 1d ago
+👁️ 76K • 👍 4K • 💬 302 • ⏱️ 2:34 • 1d ago
 
 ---
 
@@ -351,7 +331,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 81K • 👍 3K • 💬 229 • ⏱️ 33:33 • 2d ago
+👁️ 82K • 👍 3K • 💬 232 • ⏱️ 33:33 • 2d ago
 
 ---
 
@@ -361,7 +341,17 @@ Elon Musk just dropped bombshell after bombshell at the Abundance Summit — and
 
 📺 The AI Nexus
 
-👁️ 11K • 👍 387 • 💬 39 • ⏱️ 18:24 • 2d ago
+👁️ 11K • 👍 393 • 💬 39 • ⏱️ 18:24 • 2d ago
+
+---
+
+**[5 Things Failing in AI. One Technology Fixes Them All!](https://www.youtube.com/watch?v=gHFaQCWtaes)**
+
+Learn more about Sparc AI (CSE: SPAI) (OTCQB: SPAIF) at https://sparcai.co There are 5 Things Failing in AI right now—from ...
+
+📺 BWB - Business With Brian
+
+👁️ 65K • 👍 3K • 💬 294 • ⏱️ 17:15 • 18h ago
 
 ---
 
@@ -371,7 +361,17 @@ Make your videos sound better with Epidemic Sound! Add the code ANDREAS at check
 
 📺 Andreas Hem
 
-👁️ 9K • 👍 1K • 💬 172 • ⏱️ 16:35 • 19h ago
+👁️ 10K • 👍 2K • 💬 181 • ⏱️ 16:35 • 20h ago
+
+---
+
+**[Claude Code, Paperclip, &amp; The Rise of &quot;AI Agent Companies&quot;](https://www.youtube.com/watch?v=Rgb-Kx-kkaA)**
+
+Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai FREE community + GWS ...
+
+📺 Chase AI
+
+👁️ 13K • 👍 387 • 💬 35 • ⏱️ 8:51 • 9h ago
 
 ---
 
@@ -387,7 +387,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 4,529 • ❤️ 474 • 4d ago
+⬇️ 5,412 • ❤️ 485 • 4d ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 61,629 • ❤️ 719 • 8d ago
+⬇️ 67,573 • ❤️ 725 • 8d ago
 
 ---
 
@@ -411,19 +411,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 551,479 • ❤️ 630 • 14h ago
-
----
-
-**[Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)**
-
-*Qwen*
-
-Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient hybrid architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a unified vision-language foundation and a long context window (262k tokens natively), making it suitable for complex multimodal applications.
-
-`image-text-to-text` `9.7B`
-
-⬇️ 1,964,599 • ❤️ 854 • 14d ago
+⬇️ 596,747 • ❤️ 636 • 15h ago
 
 ---
 
@@ -435,7 +423,19 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 220,810 • ❤️ 456 • 12d ago
+⬇️ 237,719 • ❤️ 463 • 12d ago
+
+---
+
+**[Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)**
+
+*Qwen*
+
+Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient hybrid architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a unified vision-language foundation and a long context window (262k tokens natively), making it suitable for complex multimodal applications.
+
+`image-text-to-text` `9.7B`
+
+⬇️ 2,111,532 • ❤️ 857 • 14d ago
 
 ---
 
@@ -447,19 +447,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 5,659 • ❤️ 220 • 3d ago
-
----
-
-**[NVIDIA-Nemotron-3-Super-120B-A12B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16)**
-
-*NVIDIA*
-
-NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE architecture, supporting up to 1M tokens context. It excels at agentic workflows, long-context reasoning, and high-volume tasks like IT automation, with configurable reasoning modes.
-
-`text-generation` `123.6B`
-
-⬇️ 20,858 • ❤️ 212 • 1d ago
+⬇️ 7,340 • ❤️ 224 • 3d ago
 
 ---
 
@@ -471,7 +459,19 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 77,440 • ❤️ 206 • 5d ago
+⬇️ 86,706 • ❤️ 220 • 5d ago
+
+---
+
+**[NVIDIA-Nemotron-3-Super-120B-A12B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16)**
+
+*NVIDIA*
+
+NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE architecture, supporting up to 1M tokens context. It excels at agentic workflows, long-context reasoning, and high-volume tasks like IT automation, with configurable reasoning modes.
+
+`text-generation` `123.6B`
+
+⬇️ 27,263 • ❤️ 216 • 1d ago
 
 ---
 
@@ -483,7 +483,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 12,801 • ❤️ 196 • 2d ago
+⬇️ 21,467 • ❤️ 200 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 `text-generation` `4.0B`
 
-⬇️ 1,218 • ❤️ 165 • 2d ago
+⬇️ 1,343 • ❤️ 166 • 2d ago
 
 ---
 
@@ -509,7 +509,7 @@ LocoTrainer-4B is a 4B parameter text-generation model specialized for MS-SWIFT 
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 11 • 💬 0 • ⭐ 34,722 • 13mo ago
+▲ 13 • 💬 0 • ⭐ 34,722 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -537,7 +537,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 97 • 💬 4 • ⭐ 2,919 • 5d ago
+▲ 101 • 💬 5 • ⭐ 3,071 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -549,7 +549,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 48 • 💬 2 • ⭐ 49,917 • 10mo ago
+▲ 48 • 💬 2 • ⭐ 49,972 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -612,7 +612,7 @@ OASIS is a scalable and generalizable social media simulator that models large-s
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 162 • 💬 3 • ⭐ 6,948 • 8mo ago
+▲ 163 • 💬 3 • ⭐ 6,948 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
@@ -643,7 +643,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 36.9k • 🔱 5.1k • 5d ago
+⭐ 37.1k • 🔱 5.1k • 5d ago
 
 ---
 
@@ -653,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 20.7k • 🔱 957 • 2d ago
+⭐ 20.7k • 🔱 960 • 2d ago
 
 ---
 
@@ -663,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.0k • 🔱 1.4k • 3h ago
+⭐ 12.1k • 🔱 1.5k • 2m ago
 
 ---
 
@@ -673,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 9.7k • 🔱 884 • 14h ago
+⭐ 9.8k • 🔱 896 • 15h ago
 
 ---
 
@@ -683,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.4k • 🔱 676 • 17h ago
+⭐ 9.4k • 🔱 680 • 18h ago
 
 ---
 
@@ -693,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 7.6k • 🔱 358 • 18h ago
+⭐ 7.7k • 🔱 363 • 2h ago
 
 ---
 
@@ -713,7 +713,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.4k • 🔱 750 • 4h ago
+⭐ 6.4k • 🔱 751 • 5h ago
 
 ---
 
@@ -723,7 +723,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 2.9k • 🔱 182 • 7h ago
+⭐ 2.9k • 🔱 189 • 9h ago
 
 ---
 

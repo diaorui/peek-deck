@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-16T06:52:31.227920+00:00'
+updated: '2026-03-16T08:08:20.844672+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 06:52 UTC  
+**Last Updated:** March 16, 2026 at 08:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,738.89
+### $73,666.94
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.3%  
-**7d:** +5.6%  
-**30d:** +7.3%  
-**90d:** -14.4%  
-**1y:** -12.2%  
+**24h:** +2.7%  
+**7d:** +5.4%  
+**30d:** +7.1%  
+**90d:** -14.6%  
+**1y:** -12.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1480.06B
+**Market Cap:** $1473.53B
 Rank #1
 
-**Circulating Supply:** 20,002,637 BTC
+**Circulating Supply:** 20,002,678 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.3%
+-41.6%
 
 **All-Time Low:** $67.81
-+109018.1%
++108537.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I believe the times ahead will be radically different from what most people have gotten used to—more like the era before 1945 than since.
 
-🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 9h ago
+🔗 [Fortune](https://fortune.com/2026/03/14/ray-dalio-big-cycle-debt-crisis-political-disorder-world-order/) • 10h ago
 
 ---
 
@@ -89,47 +89,19 @@ I believe the times ahead will be radically different from what most people have
 
 Like clockwork.
 
-3h ago
+4h ago
 
 ---
 
 **[Are you ready to understand this yet?](https://www.reddit.com/r/Bitcoin/comments/1rufg5b/are_you_ready_to_understand_this_yet/)**
 
-16h ago
+17h ago
 
 ---
 
 **[The life of a Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1rumrk4/the_life_of_a_bitcoiner/)**
 
-11h ago
-
----
-
-**[Bitcoin set for best week since September 2025 as correlation with tech stocks weakens](https://www.reddit.com/r/Bitcoin/comments/1rup3kk/bitcoin_set_for_best_week_since_september_2025_as/)**
-
-Surprise, the doomers and the panic sellers were wrong again.
-
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 10h ago
-
----
-
-**[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
-
-16h ago
-
----
-
-**[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
-
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 11h ago
-
----
-
-**[Bitcoin Long-Term Holders Retain 79% of Supply as Exchange Reserves Decline](https://www.reddit.com/r/Bitcoin/comments/1rurxqn/bitcoin_longterm_holders_retain_79_of_supply_as/)**
-
-Bitcoin long-term holders still control about 79% of supply as exchange reserves decline, pointing to slower redistribution.
-
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/bitcoin-long-term-holders-retain-79-of-supply-as-exchange-reserves-decline/) • 8h ago
+12h ago
 
 ---
 
@@ -137,13 +109,41 @@ Bitcoin long-term holders still control about 79% of supply as exchange reserves
 
 PEOPLE IT WENT UP!!!
 
-47m ago
+2h ago
+
+---
+
+**[Bitcoin set for best week since September 2025 as correlation with tech stocks weakens](https://www.reddit.com/r/Bitcoin/comments/1rup3kk/bitcoin_set_for_best_week_since_september_2025_as/)**
+
+Surprise, the doomers and the panic sellers were wrong again.
+
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens) • 11h ago
+
+---
+
+**[Life is Simple when it comes to Bitcoin. Billionaire Mindset.](https://www.reddit.com/r/Bitcoin/comments/1rufxpw/life_is_simple_when_it_comes_to_bitcoin/)**
+
+17h ago
+
+---
+
+**[VanEck Says Up To 13 Governments Are Mining Bitcoin - Here's Who We Know](https://www.reddit.com/r/Bitcoin/comments/1rumh3p/vaneck_says_up_to_13_governments_are_mining/)**
+
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/03/14/vaneck-says-up-to-13-governments-are-mining-bitcoin-heres-who-we-know/) • 13h ago
+
+---
+
+**[Bitcoin Long-Term Holders Retain 79% of Supply as Exchange Reserves Decline](https://www.reddit.com/r/Bitcoin/comments/1rurxqn/bitcoin_longterm_holders_retain_79_of_supply_as/)**
+
+Bitcoin long-term holders still control about 79% of supply as exchange reserves decline, pointing to slower redistribution.
+
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/bitcoin-long-term-holders-retain-79-of-supply-as-exchange-reserves-decline/) • 9h ago
 
 ---
 
 **[Bitcoin right after I sold](https://www.reddit.com/r/Bitcoin/comments/1ru87ou/bitcoin_right_after_i_sold/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -155,7 +155,7 @@ PEOPLE IT WENT UP!!!
 
 Majors posted broad gains on Monday as oil eased from highs, two tankers sailed through the Strait of Hormuz for the first time since the war began, and Trump said the U.S. was talking to Iran.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 1h ago
 
 Markets steadied after a volatile weekend, even as oil rose, as traders weighed U.S. strikes on Iranian targets.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -171,21 +171,37 @@ Decrypt • 6h ago
 
 The original cryptocurrency is beating stocks and gold since the Iran war broke out, but that says more about how far it had already fallen than where it’s headed.  On Monday, Bitcoin rose as much as 3.6% before paring gains to trade at about $73,600 as of 12:00 p.m. in Singapore.  A negative funding rate suggests short-sellers are paying a premium to maintain their positions, suggesting bearish market sentiment.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin Climbs in Asia as Other Markets Remain Tepid](https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-climbs-in-asia-as-other-markets-remain-tepid)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin's price trades above its 50-day average as bullish move gathers pace](https://www.coindesk.com/markets/2026/03/16/bitcoin-s-price-trades-above-its-50-day-average-as-bullish-move-gathers-pace)**
+**[Should You Sell (or Avoid) Bitcoin Due to the Conflict With Iran?](https://www.fool.com/investing/2026/03/16/should-you-sell-or-avoid-bitcoin-due-to-the-confli/)**
 
-Bitcoin's convincing move above its key average indicates a strengthening of the bullish momentum.
+The direct risks to the coin are minimal, but the indirect risks are huge.
 
-CoinDesk • 2h ago
+The Motley Fool • 3m ago
+
+---
+
+**[Bitcoin Price Prediction: We Asked 5 AI Models if Bitcoin Will Hit $100K Again in 2026—Only One Said No](https://247wallst.com/investing/2026/03/15/bitcoin-price-prediction-we-asked-5-ai-models-if-bitcoin-will-hit-100k-again-in-2026-only-one-said-no/)**
+
+We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100K in 2026. Four said yes, and only one said no. Here's why.
+
+24/7 Wall St. • 19h ago
+
+---
+
+**[Bitcoin trades around $72,800 in 'solid' relief bounce supported by ETF inflows](https://www.theblock.co/post/393642/bitcoin-solid-relief-bounce)**
+
+Analysts said the move reflects a relief bounce driven by ETF inflows, liquidation short squeeze, and bitcoin's position as a macro hedge.
+
+The Block • 5h ago
 
 ---
 
@@ -194,14 +210,6 @@ CoinDesk • 2h ago
 ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
 CNBC • 1d ago
-
----
-
-**[My Top 3 Cryptocurrencies to Buy for the Next Bull Run](https://www.fool.com/investing/2026/03/15/my-top-3-cryptocurrencies-to-buy-for-the-next-bull/)**
-
-Bitcoin, Ether, and Solana are all worth buying before the bulls return.
-
-The Motley Fool • 13h ago
 
 ---
 
@@ -218,14 +226,6 @@ Yahoo Finance • 1d ago
 The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
 
 CoinDesk • 1d ago
-
----
-
-**[Boris Johnson Calls Bitcoin a ‘Ponzi Scheme’](https://bitbo.io/news/boris-johnson-bitcoin-ponzi/)**
-
-Former UK Prime Minister Boris Johnson labeled Bitcoin a “Ponzi scheme” in a Daily Mail opinion piece, prompting pushback from Michael Saylor and other Bitcoin industry figures.
-
-Bitbo • 19h ago
 
 ---
 
@@ -297,13 +297,13 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+⬆️ 1 • 💬 0 • 19h ago • [GitHub](https://github.com/Kristian5013/resonancenet)
 
 ---
 
 **[Eliminating UI Bloat in the EraMix Financial Union Dashboard](https://news.ycombinator.com/item?id=47394092)**
 
-⬆️ 1 • 💬 0 • 5h ago
+⬆️ 1 • 💬 0 • 6h ago
 
 ---
 
@@ -311,23 +311,23 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 ## YouTube Videos: "bitcoin"
 
-**[Crypto Market EXPLODES in 3.. 2.. 1.. (Watch Immediately)](https://www.youtube.com/watch?v=JRyxhgbY7P4)**
-
-Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
-
-📺 Altcoin Daily
-
-👁️ 32K • 👍 2K • 💬 165 • ⏱️ 10:40 • 10h ago
-
----
-
 **[Bitcoin Investors...Check This Out!](https://www.youtube.com/watch?v=YdFJBZG1j2k)**
 
 Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 678 • 💬 204 • ⏱️ 7:32 • 5h ago
+👁️ 11K • 👍 837 • 💬 325 • ⏱️ 7:32 • 7h ago
+
+---
+
+**[Crypto Market EXPLODES in 3.. 2.. 1.. (Watch Immediately)](https://www.youtube.com/watch?v=JRyxhgbY7P4)**
+
+Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
+
+📺 Altcoin Daily
+
+👁️ 39K • 👍 2K • 💬 206 • ⏱️ 10:40 • 11h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin is sitting near $69K while gold is exploding and central banks are buyin
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 710 • 💬 43 • ⏱️ 17:22 • 8h ago
+👁️ 11K • 👍 829 • 💬 36 • ⏱️ 17:22 • 10h ago
 
 ---
 
@@ -347,37 +347,7 @@ Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: http
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 1K • 💬 137 • ⏱️ 1:15:12 • 1d ago
-
----
-
-**[Everyone Thinks the Bitcoin Cycle Is Dead… They&#39;re Wrong | Benjamin Cowen](https://www.youtube.com/watch?v=7cW2PCPA8kY)**
-
-Join me for an exclusive after party and get 10% off of your Bitcoin Vegas tickets when you use my code: MARKMOSS at: ...
-
-📺 Market Disruptors Podcast
-
-👁️ 12K • 👍 623 • 💬 141 • ⏱️ 57:48 • 1d ago
-
----
-
-**[Bitcoin Just Triggered a Signal That Nailed EVERY Bottom…](https://www.youtube.com/watch?v=KLEy7-6NaD0)**
-
-Bitcoin might be approaching one of the most important moments of the cycle. Several historical on-chain indicators — including ...
-
-📺 Crypto Love
-
-👁️ 3K • 👍 299 • 💬 81 • ⏱️ 10:39 • 13h ago
-
----
-
-**[Crypto Alert: This is CRITICAL ‼️](https://www.youtube.com/watch?v=OtuKjsCvIIw)**
-
-Get My (Buy Alerts) ▻ https://go.kenangraceuniversity.com/vsl-page. ✓ Add Me: Instagram: ...
-
-📺 Kenan Grace
-
-👁️ 14K • 👍 1K • 💬 51 • ⏱️ 8:45 • 14h ago
+👁️ 38K • 👍 1K • 💬 138 • ⏱️ 1:15:12 • 1d ago
 
 ---
 
@@ -387,7 +357,7 @@ Mike McGlone warns that the current market cycle could resemble 2008, with wealt
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 9 • 💬 18 • ⏱️ 0:29 • 12h ago
+👁️ 2K • 👍 13 • 💬 19 • ⏱️ 0:29 • 13h ago
 
 ---
 
@@ -397,17 +367,47 @@ Strategy may have raised over $1 billion in a single trading session, and if tha
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 162 • ⏱️ 12:14 • 2d ago
+👁️ 35K • 👍 2K • 💬 163 • ⏱️ 12:14 • 2d ago
 
 ---
 
-**[FORGET WALL ST: How the Biggest Bitcoin Attack Is Coming From Within!](https://www.youtube.com/watch?v=UdUY0ol6HVk)**
+**[Everyone Thinks the Bitcoin Cycle Is Dead… They&#39;re Wrong | Benjamin Cowen](https://www.youtube.com/watch?v=7cW2PCPA8kY)**
 
-A major fight over Bitcoin is happening on Capitol Hill and most people have no idea. Coinbase lobbyists are reportedly pushing ...
+Join me for an exclusive after party and get 10% off of your Bitcoin Vegas tickets when you use my code: MARKMOSS at: ...
 
-📺 Simply Bitcoin
+📺 Market Disruptors Podcast
 
-👁️ 15K • 👍 1K • 💬 56 • ⏱️ 14:10 • 1d ago
+👁️ 13K • 👍 646 • 💬 151 • ⏱️ 57:48 • 1d ago
+
+---
+
+**[Bitcoin Just Triggered a Signal That Nailed EVERY Bottom…](https://www.youtube.com/watch?v=KLEy7-6NaD0)**
+
+Bitcoin might be approaching one of the most important moments of the cycle. Several historical on-chain indicators — including ...
+
+📺 Crypto Love
+
+👁️ 4K • 👍 314 • 💬 149 • ⏱️ 10:39 • 15h ago
+
+---
+
+**[The Best Bitcoin Miner Ever: THE GOLD NUGGET!⭐](https://www.youtube.com/watch?v=WGCNhaRkSM0)**
+
+The Gold Nugget Lottery Miner is a convenient, zero-effort BTC mining device that lets you generate fresh 'lottery tickets' every 10 ...
+
+📺 How Much?
+
+👁️ 4K • 👍 61 • 💬 6 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[Bitcoin is Undervalued, But the Bottom Isn&#39;t In Yet | Rational Root](https://www.youtube.com/watch?v=tBAA2TtoxWU)**
+
+Is Bitcoin's four-year cycle still intact, and what does that mean for the next six months? In this episode, I sit down with The ...
+
+📺 What Bitcoin Did
+
+👁️ 13K • 👍 521 • 💬 236 • ⏱️ 1:11:05 • 18h ago
 
 ---
 

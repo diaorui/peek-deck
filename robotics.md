@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T06:52:31.237179+00:00'
+updated: '2026-03-16T08:08:20.853984+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 06:52 UTC  
+**Last Updated:** March 16, 2026 at 08:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Test of new Olaf animatronic at Disneyland Paris ⛄️](https://www.reddit.com/r/robotics/comments/1ruioo1/test_of_new_olaf_animatronic_at_disneyland_paris/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,13 +42,21 @@ Robotics research and industry news
 
 From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 Website: https://www.orcahand.com/
 
-20h ago
+21h ago
 
 ---
 
 **[Out with the old…](https://www.reddit.com/r/robotics/comments/1rus5wz/out_with_the_old/)**
 
-8h ago
+9h ago
+
+---
+
+**[‘No ordinary clean-up operation’: EU deploys drones and robots to remove litter from the sea floor](https://www.reddit.com/r/robotics/comments/1rv2nsv/no_ordinary_cleanup_operation_eu_deploys_drones/)**
+
+The EU-funded initiative is helping tidy up the litter-filled sea floor, and could even be used to detect hidden mines.
+
+🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 54m ago
 
 ---
 
@@ -56,7 +64,7 @@ From ORCA Dexterity on 𝕏: https://x.com/orcahand/status/2033050933538525432 W
 
 I work in robotics, and need to do a lot of 3D visualization. But none of the available tools did what I wanted in a general 3D visualizer. So I built one. pip install slamd, 3 lines of Python, and you have a GPU-accelerated interactive 3D viewer. No event loops, no boilerplate. Objects live in a transform tree - set a parent pose and everything underneath moves. Has all the primitives I've ever needed. C++ OpenGL backend, FlatBuffers IPC to a separate viewer process, pybind11 bindings. Handles millions of points at interactive framerates.
 
-🔗 [GitHub](https://github.com/Robertleoj/slamd) • 13h ago
+🔗 [GitHub](https://github.com/Robertleoj/slamd) • 14h ago
 
 ---
 
@@ -64,13 +72,13 @@ I work in robotics, and need to do a lot of 3D visualization. But none of the av
 
 LATENT
 
-🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 13h ago
+🔗 [zzk273.github.io](https://zzk273.github.io/LATENT/) • 14h ago
 
 ---
 
 **[I made a Claude Code skill for ROS 2 - looking for feedback](https://www.reddit.com/r/robotics/comments/1rv21o8/i_made_a_claude_code_skill_for_ros_2_looking_for/)**
 
-16m ago
+1h ago
 
 ---
 
@@ -86,19 +94,13 @@ This grain storage robot helps level the grain, break up compacted areas, and im
 
 Background: my daughter and I have an educational, robotics-focused YouTube channel where we review and discuss different robots and robotic concepts together. It's genuinely one of my favorite things to do with her, but keeping up with new robots to feature is prohibitively expensive, especially when we just need them for a couple days. I started looking for somewhere to rent them. Nothing (real) existed*. So I started on this project... It's called DroidBRB, a peer-to-peer robot rental platform where people can list robots and others can rent or borrow them. Note: It's early. Very early. I can guarantee there are no robots listed near 99.999% of you (and still a few tests posts I'll be clearing out soon). Which is the point of this post. This is a network effect challenge, the platform only works if there are robots in your region, which requires people willing to list them, which requires people who want to borrow, and so on. The only way to break that loop is to find the first people who get it early enough to matter. That's why I'm here. What I'm looking for: Early testers — people willing to kick the tires, post some robots they're willing to rent out, find what's broken, and tell me about it. Regional anchors — if you're in a city and want to help seed a local community of lenders and borrowers, I'd love to talk. Partners — people who want to help build this out, not just use it. This isn't a revenue play and I'm not seeking any funding. It's about supporting and building out the community around robotics**, especially as we all know that this is space going to grow rapidly with the continued explosion of robotics. **and finding a great, passionate team to grow this project around. Site is droidbrb.com. Happy to answer anything in the comments. Added notes: - this is not simply a vibecoded app on Replit or Lovable... yes, it's heavily agent-coded (as almost everything these days), but I've been working for weeks trying out different designs, getting messaging / email notifications, etc. to a decent place. I'm sure there are still bugs and please consider this an alpha, so not for folks expecting perfection. But also a great time to make suggestions and influence the direction of this project. * Sharebot.ai exists, and while they describe the opportunity accurately IMO, they want to operate similar to AirBnB in handling payments and taking service fees (in other words, added costs). This would be great if they can provide the same protections as AirBnB does (e.g., someone breaks a robot), but it's unlikely they have the same capital to actually achieve this at scale. Right now they have less than 10 robots total available after launching a year ago and after raising $200K. I wish them all the best, but this is a separate approach / ethos.
 
-🔗 [droidbrb.com](http://droidbrb.com) • 9h ago
+🔗 [droidbrb.com](http://droidbrb.com) • 10h ago
 
 ---
 
 **[Robot with wheels and legs](https://www.reddit.com/r/robotics/comments/1rth6bf/robot_with_wheels_and_legs/)**
 
 1d ago
-
----
-
-**[CNN Hand gesture control robot](https://www.reddit.com/r/robotics/comments/1rup5d6/cnn_hand_gesture_control_robot/)**
-
-10h ago
 
 ---
 
@@ -122,9 +124,9 @@ CNBC • 2d ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqcaxBZb7xyL-QOxG4o-PAuII3d1U6GovKJQduassuCdO1gc2B4dnR7e&gaa_ts=69b7ac1d&gaa_sig=AHNv9CNWJQztrcNkB_D9iGLjOY_IpB6Ke6-3Y585b3gXhPNsOvJ5-t03aQYXwfwqM6JQZvGguAEQ0f6IMPyEqQ%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqds_1-4DXmpzDtFO66JqfhGsRu4ofdffUzxHzf0nzeD_-eLvLQPFaqO&gaa_ts=69b7bde0&gaa_sig=VYbMPe0UHuO0T_fS04WEKLn3EE8bVq8EpR-ZVMBRm-9PPxBHrJ44p6ZYQt6t8nTajotirSuN03N7-Iui0d9JaA%3D%3D)**
 
-WSJ • 7h ago
+WSJ • 15h ago
 
 ---
 
@@ -172,15 +174,13 @@ NPR • 2d ago
 
 Cactus High School’s robotics team, the Cobra Commanders, is headed to the world championships in May after finishing first at a major regional competition last week.
 
-AZ Family • 15h ago
+AZ Family • 16h ago
 
 ---
 
-**[The Week’s 10 Biggest Funding Rounds: AI, Robotics And E-Commerce Top The Ranks](https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/)**
+**[Serve Robotics: The Robots Are Scaling, The Economics Aren't](https://seekingalpha.com/article/4882592-serve-robotics-the-robots-are-scaling-the-economics-arent)**
 
-Busy week, big checks, lots of AI and robotics. That, in ultra-brief synopsis form, characterized the general startup fundraising environment this week. Notably, the two largest global rounds were U.K.- and Paris-based. In the U.S., meanwhile, an e-commerce platform, an AI networking developer, and an industrial automation startup each picked up $500 million.
-
-Crunchbase News • 2d ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 67K • 👍 2K • 💬 266 • ⏱️ 49:45 • 1d ago
+👁️ 70K • 👍 2K • 💬 268 • ⏱️ 49:45 • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 6K • 👍 375 • 💬 63 • ⏱️ 7:53 • 17h ago
+👁️ 6K • 👍 400 • 💬 65 • ⏱️ 7:53 • 19h ago
 
 ---
 
@@ -224,7 +224,7 @@ A powerful new humanoid robot system called Helix 02 is showing how artificial i
 
 📺 DPCcars
 
-👁️ 17K • 👍 126 • 💬 34 • ⏱️ 3:48 • 6d ago
+👁️ 17K • 👍 126 • 💬 35 • ⏱️ 3:48 • 6d ago
 
 ---
 
@@ -234,7 +234,7 @@ dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Ema
 
 📺 DOWELL3D PRINTER
 
-👁️ 22K • 👍 257 • 💬 3 • ⏱️ 0:17 • 1d ago
+👁️ 22K • 👍 259 • 💬 3 • ⏱️ 0:17 • 2d ago
 
 ---
 
@@ -244,17 +244,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 40K • 👍 592 • 💬 68 • ⏱️ 14:52 • 2d ago
-
----
-
-**[How Built Robotics Is Automating Solar Construction](https://www.youtube.com/watch?v=HoglKHK_Qq4)**
-
-At CONEXPO-CON/AGG we meet with Built Robotics to discuss how autonomous technology is reshaping solar deployment.
-
-📺 Munro Live
-
-👁️ 7K • 👍 256 • 💬 24 • ⏱️ 8:34 • 3d ago
+👁️ 41K • 👍 598 • 💬 68 • ⏱️ 14:52 • 2d ago
 
 ---
 
@@ -264,25 +254,37 @@ Figure demos world leading autonomous cleaning capabilities with its 03 humanoid
 
 📺 AI News
 
-👁️ 9K • 👍 236 • 💬 60 • ⏱️ 8:04 • 5d ago
+👁️ 9K • 👍 237 • 💬 60 • ⏱️ 8:04 • 5d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=cs8qj568orA)**
+**[This 3D-Printed Robotic Skin Lets Robots Feel Touch 🤯](https://www.youtube.com/watch?v=JGWvhydsYhE)**
 
-📺 Robot Julie 
+e-Flesh: Scientists Created 3D-Printed Robotic Skin That Lets Robots Feel Touch, Pressure & Objects Scientists have ...
 
-👁️ 18K • 👍 55 • ⏱️ 0:22 • 2d ago
+📺 Techie Sapien
+
+👁️ 4K • 💬 2 • ⏱️ 0:07 • 59m ago
 
 ---
 
-**[Military Robot Unveiled ⚡🤖](https://www.youtube.com/watch?v=XfaoMA-FGU4)**
+**[ULTIMATE HAWK is so much fun again! [War Robots]](https://www.youtube.com/watch?v=ncxMUXxqrKo)**
 
-A California robotics company, Rex Robotics, has developed a combat-ready robot designed for demanding military environments ...
+War Robots Test Server Gameplay: NEW Ultimate HAWK - WR Here's my new YouTube Channel ⁨@ManniRAID⁩ ...
 
-📺 Right Mos
+📺 Manni-Gaming
 
-👁️ 4K • 💬 11 • ⏱️ 0:08 • 18h ago
+👁️ 10K • 👍 495 • 💬 69 • ⏱️ 16:19 • 1d ago
+
+---
+
+**[Drones and robots are &#39;changing&#39; warfare: Xtend CEO](https://www.youtube.com/watch?v=EucyIHEbHUI)**
+
+Xtend co-founder and CEO Aviv Shapira explains how technology is changing warfare as drones and robots are being ...
+
+📺 Fox Business
+
+👁️ 10K • 👍 232 • 💬 22 • ⏱️ 5:39 • 3d ago
 
 ---
 
