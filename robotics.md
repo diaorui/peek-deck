@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-16T22:57:43.401494+00:00'
+updated: '2026-03-16T23:37:01.236613+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 16, 2026 at 22:57 UTC  
+**Last Updated:** March 16, 2026 at 23:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
 
-12h ago
+13h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LA
 
 Google Summer of Code is a Google sponsored program that pays students to work with seasoned open source contributors over the summer to build new features for popular open source projects. The program is fully remote and available in most countries. Full details on Open Robotics Discourse.
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Google Summer of Code is a Google sponsored program that pays students to work w
 
 I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built my own desktop companion with raspberry pi, respeaker lite. I built it t
 
 Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric model Tested the so called "Zero Shot" properties of VLM models with every day objects/landmarks Basic navigation commands and AI models are just the beginning/POC, more exciting things to come. Working towards shipping an API for robotics Devs that want to add intelligent navigation to their custom hardware creations. (not just off the shelf unitree robots)
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi all. I am currently new to robot studio and I am trying to program our ABB Go
 
 The EU-funded initiative is helping tidy up the litter-filled sea floor, and could even be used to detect hidden mines.
 
-🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 15h ago
+🔗 [euronews](https://www.euronews.com/2026/03/16/no-ordinary-clean-up-operation-eu-deploys-drones-and-robots-to-remove-litter-from-the-sea-) • 16h ago
 
 ---
 
@@ -96,7 +96,7 @@ The EU-funded initiative is helping tidy up the litter-filled sea floor, and cou
 
 Let me know what you guys think of this. Really hope to keep making more videos like it, but again I’d love everyone’s input. Anyway you’d improve this style of video? Full video on YouTube if you wanna see
 
-17m ago
+57m ago
 
 ---
 
@@ -116,13 +116,13 @@ Analysts say AI and robotics could support growth despite demographic decline.
 
 Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.
 
-TechCrunch • 2h ago
+TechCrunch • 3h ago
 
 ---
 
 **[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfIK3Y-Ff8uCzDlcwGyfxHiWVOeZ7em30LE97gkGvPYQtow-45LhoRc&gaa_ts=69b88e53&gaa_sig=ttoprCzioPaK58Atr4CnKb1py9AW3Sn3vYfqNQiAAseTULThDVS9vpY2nGSfv9ZY7XpSRSaI_ywbBbKNM6wlig%3D%3D)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
@@ -130,7 +130,7 @@ WSJ • 11h ago
 
 US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
 
-Interesting Engineering • 12h ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -154,7 +154,7 @@ NVIDIA Newsroom • 2h ago
 
 Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -178,7 +178,7 @@ Popular Science • 3d ago
 
 This free-roaming snowman droid is coming to overseas Disney theme parks.
 
-CNET • 1h ago
+CNET • 2h ago
 
 ---
 
@@ -194,71 +194,33 @@ CNBC • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
-
-Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
-
-📺 Brighter with Herbert
-
-👁️ 79K • 👍 2K • 💬 279 • ⏱️ 49:45 • 2d ago
-
----
-
 **[AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)](https://www.youtube.com/watch?v=ZZrR7rIIPmc)**
 
 Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2-0-airevolutionx-pekSSk Researchers in China just ...
 
 📺 AI Revolution
 
-👁️ 10K • 👍 380 • 💬 32 • ⏱️ 13:18 • 22h ago
+👁️ 10K • 👍 401 • 💬 34 • ⏱️ 13:18 • 23h ago
 
 ---
 
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
+**[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
 
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
+Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
 
-📺 Reuters
+📺 Brighter with Herbert
 
-👁️ 25K • 👍 99 • 💬 38 • ⏱️ 2:38 • 4d ago
-
----
-
-**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
-
-QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
-
-📺 Just Josh
-
-👁️ 9K • 👍 467 • 💬 79 • ⏱️ 7:53 • 1d ago
+👁️ 80K • 👍 2K • 💬 282 • ⏱️ 49:45 • 2d ago
 
 ---
 
-**[How Not to Build a Robotics Company from your Apartment](https://www.youtube.com/watch?v=owT3wxFnZ9E)**
+**[Sunday Robotics: The Household Robot We&#39;ve Been Waiting For?](https://www.youtube.com/watch?v=QfBw0gMuhaI)**
 
-We show you how NOT to build a Robotics Company! ▻ Join the Discord to Build Robots with us!
+I visited @SundayRobotics to see how they're building a household robot that actually works in real homes. Founded by Stanford ...
 
-📺 Nick Builds
+📺 ZAUEY (Claire Zau)
 
-👁️ 4K • 👍 243 • 💬 59 • ⏱️ 11:52 • 2d ago
-
----
-
-**[Craft a one-of-a-kind custom 3d case for your robot.😏 #3dprinting #large3dprinter #machine](https://www.youtube.com/watch?v=jYto7fpHJlg)**
-
-dowell3dprinter ▷Contact us to learn more! ▷WhatsApp: +86 19036883816 ▷Email: sales@dowell3dprinter.xyz ▷Filament: ...
-
-📺 DOWELL3D PRINTER
-
-👁️ 23K • 👍 262 • 💬 3 • ⏱️ 0:17 • 2d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=cs8qj568orA)**
-
-📺 Robot Julie 
-
-👁️ 23K • 👍 67 • ⏱️ 0:22 • 2d ago
+👁️ 17K • 👍 582 • 💬 58 • ⏱️ 15:48 • 4d ago
 
 ---
 
@@ -272,23 +234,63 @@ Figure demos world leading autonomous cleaning capabilities with its 03 humanoid
 
 ---
 
-**[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
+**[After Trying So Many Robot Vacuums, This Is the One I Kept](https://www.youtube.com/watch?v=S9R6UASF_fQ)**
 
-China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
+QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: https://youtu.be/B7d9P_MrFbA Save BIG on ...
 
-📺 AI Revolution
+📺 Just Josh
 
-👁️ 44K • 👍 622 • 💬 73 • ⏱️ 14:52 • 2d ago
+👁️ 9K • 👍 481 • 💬 80 • ⏱️ 7:53 • 1d ago
 
 ---
 
-**[Drones and robots are &#39;changing&#39; warfare: Xtend CEO](https://www.youtube.com/watch?v=EucyIHEbHUI)**
+**[VLA and World Models for Robotics Bootcamp Launch](https://www.youtube.com/watch?v=14VI897fLec)**
 
-Xtend co-founder and CEO Aviv Shapira explains how technology is changing warfare as drones and robots are being ...
+Visit Here: https://robotlearningmastery.vizuara.ai/ ************** Every major AI lab is making the same bet right now: the future of ...
 
-📺 Fox Business
+📺 Vizuara
 
-👁️ 10K • 👍 232 • 💬 22 • ⏱️ 5:39 • 3d ago
+👁️ 654K • 👍 48 • 💬 10 • ⏱️ 5:34 • 5d ago
+
+---
+
+**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+
+📺 South China Morning Post
+
+👁️ 17K • 👍 219 • 💬 82 • ⏱️ 4:52 • 4d ago
+
+---
+
+**[This AI Penny Stock Has A MASSIVE Robotics Acquisition Target - The Next NVIDIA?!](https://www.youtube.com/watch?v=hRBHFsCs78A)**
+
+MAKE SURE YOU LIKE THE VIDEO!!! Follow me on Twitter https://twitter.com/6k_investor Join my Private Discord: ...
+
+📺 6k Investor
+
+👁️ 797 • 👍 57 • 💬 9 • ⏱️ 10:53 • 4h ago
+
+---
+
+**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
+
+We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
+
+📺 CNET
+
+👁️ 2K • 👍 140 • 💬 11 • ⏱️ 3:35 • 3h ago
+
+---
+
+**[This Ecovacs Robot Saved my Lawn!](https://www.youtube.com/watch?v=gthmAIyUNKs)**
+
+Check out Ecovacs Here! https://bit.ly/4u1ZmEe #CreatedForEase #ECOVACS PLEASE SUBSCRIBE AND CHECK ...
+
+📺 DMAXRYNO
+
+👁️ 23K • 👍 2K • 💬 152 • ⏱️ 9:58 • 2d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-16T22:57:43.398196+00:00'
+updated: '2026-03-16T23:37:01.233462+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 22:57 UTC  
+**Last Updated:** March 16, 2026 at 23:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.09B
+**Market Cap:** $284.31B
 Rank #2
 
 **Circulating Supply:** 120,691,900 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.5%
+-52.4%
 
 **All-Time Low:** $0.43
-+542032.5%
++543852.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I built an Ethereum squeeze dashboard to see where we stand with the inevitable squeeze. I wanted it to show me when I could still write covered calls against my long positions. At below 75 I can still write calls Last week it was at 73, today its at 81.5 Overview. Above 75 means no covered call writing against the stock https://preview.redd.it/50srshmefgpg1.png?width=908&format=png&auto=webp&s=6047acd5a759d239603c9885546c15805738ac9a https://preview.redd.it/wzo3cyzifgpg1.png?width=924&format=png&auto=webp&s=ccd2b561371446b3cb389d3bff287d0f4a9049f0
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ I built an Ethereum squeeze dashboard to see where we stand with the inevitable 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other people can't rug you; society can't rug you; your government can't rug you; another government can't rug you; corporations can't rug you." Trade wars escalating, institutional trust falling apart — and crypto has held decently through the worst of it so far. Blue chips bouncing off lows, ETH above $2,100 as of writing. A year ago this kind of global uncertainty would have sent crypto off a cliff. Starting to wonder if people are finally understanding what trustless sovereign money actually looks like when the systems around it are failing. The mandate feels like EF is leaning into exactly that moment. They're framing Ethereum as "sanctuary technology" and going hard on what they call CROPS — censorship resistance, open source, privacy, security — as non-negotiable properties. Not just another smart contract platform. Infrastructure for self-sovereignty in a world where the systems people have been trusting are breaking down. This framing feels different from anything EF has put out before. Is the market starting to price in a new narrative? Or am I reading too much into it? https://ethereum.foundation/ef-mandate.pdf
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 Simplifies diamond management, deployment and upgrades.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8153) • 8h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8153) • 9h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hi everyone, This morning I woke up to an email from eatherscan.io and was shock
 
 ShapeShift founder Erik Voorhees reportedly bought over $56 million worth of ETH after selling his ETH holdings a year earlier.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 16h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added more ETH amid its climb to $2,300 for the first time in six weeks.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 7h ago
 
 A big move in the world's second-largest cryptocurrency has many investors ratcheting up their bets.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Motley Fool • 1h ago
 
 Fresh Ethereum ETF inflows, digital asset treasury Bitmine buying and a shift away from bitcoin to altcoins are helping lift ether price.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 3h ago
 
 BlackRock Head of Digital Assets Robbie Mitchnick joins Julie Hyman to discuss the company's launch of its new ethereum fund — the iShares Staked Ethereum Trust ETF (ETHB) — that lets investors track the cryptocurrency (ETH-USD) and earn staking rewards at the same time.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 5h ago
 
 Bitmine has 3,040,515 staked ETH, representing $6.6 billion at $2,185 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.81% of the...
 
-PR Newswire • 10h ago
+PR Newswire • 11h ago
 
 ---
 
@@ -202,7 +202,7 @@ PR Newswire • 10h ago
 
 View real-time odds for "What price will Ethereum hit on March 16?" as of March 16, 2026 and trade on The World's Largest Prediction Market™
 
-Polymarket • 18h ago
+Polymarket • 19h ago
 
 ---
 
@@ -218,7 +218,7 @@ Bitmine Immersion Technologies (NYSE:BMNR) stock is up 11% in Monday morning tra
 
 Meanwhile, investors like Erik Voorhees have resumed large ETH purchases, suggesting continued belief in Ethereum’s long-term potential.
 
-AMBCrypto • 8h ago
+AMBCrypto • 9h ago
 
 ---
 
@@ -226,7 +226,7 @@ AMBCrypto • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -240,7 +240,7 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 📺 Paul Barron Network
 
-👁️ 9K • 👍 1K • 💬 88 • ⏱️ 23:28 • 3h ago
+👁️ 26K • 👍 2K • 💬 175 • ⏱️ 23:28 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 📺 Dan Gambardello
 
-👁️ 7K • 👍 559 • 💬 144 • ⏱️ 13:47 • 8h ago
+👁️ 9K • 👍 649 • 💬 158 • ⏱️ 13:47 • 8h ago
 
 ---
 
@@ -260,7 +260,7 @@ This data is not great for bitcoin, ethereum and the rest of crypto and the mark
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 2K • 💬 30 • ⏱️ 8:58 • 11h ago
+👁️ 17K • 👍 2K • 💬 28 • ⏱️ 8:58 • 12h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 193 • 💬 16 • ⏱️ 7:10 • 6h ago
+👁️ 3K • 👍 223 • 💬 18 • ⏱️ 7:10 • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 54 • 👍 7 • 💬 16 • ⏱️ 7:02 • 3h ago
+👁️ 129 • 👍 10 • 💬 17 • ⏱️ 7:02 • 3h ago
 
 ---
 
@@ -290,7 +290,17 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 155 • 👍 12 • 💬 17 • ⏱️ 4:15 • 3h ago
+👁️ 335 • 👍 18 • 💬 19 • ⏱️ 4:15 • 4h ago
+
+---
+
+**[Ethereum&#39;s Fusaka Upgrade Broke Its Own Tokenomics — And Cardano Just Quietly Changed the Game](https://www.youtube.com/watch?v=tB9Yc0vYnlc)**
+
+YouTube Description: Ethereum's December 2025 Fusaka upgrade was supposed to cut fees and drive L1 adoption. Instead ...
+
+📺 Crypto Crow
+
+👁️ 459 • 👍 86 • 💬 26 • ⏱️ 22:32 • 1h ago
 
 ---
 
@@ -300,7 +310,17 @@ Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is set
 
 📺 Michaël van de Poppe
 
-👁️ 5K • 👍 240 • 💬 60 • ⏱️ 15:12 • 1d ago
+👁️ 5K • 👍 245 • 💬 62 • ⏱️ 15:12 • 1d ago
+
+---
+
+**[BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=qU9GmtDlJV0)**
+
+BITCOIN: The Next PRICE SQUEEZE Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 340 • 💬 152 • ⏱️ 15:59 • 21h ago
 
 ---
 
@@ -310,27 +330,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 744 • 👍 20 • 💬 1 • ⏱️ 5:26 • 11h ago
-
----
-
-**[Bitcoin &amp; Ethereum Are About To Do Something MASSIVE! (BlackRock &amp; Arthur Hayes)](https://www.youtube.com/watch?v=bvowrmBuX-U)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 433 • 💬 44 • ⏱️ 19:10 • 1d ago
-
----
-
-**[🚨BTC ГОТОВИТ БОЙНЮ | ОТСКОК ПЕРЕД КРАХОМ | ИНСАЙДЕР СКУПАЕТ ETH](https://www.youtube.com/watch?v=NyoUH_nbvPs)**
-
-Telegram (аналитика, точки входа, главные мысли): https://t.me/+10iGTM2wT3hkOGVi Бесплатный ТГ ...
-
-📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
-
-👁️ 14K • 👍 2K • 💬 151 • ⏱️ 14:49 • 9h ago
+👁️ 851 • 👍 21 • 💬 1 • ⏱️ 5:26 • 12h ago
 
 ---
 

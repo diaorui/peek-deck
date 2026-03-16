@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-16T22:57:43.392036+00:00'
+updated: '2026-03-16T23:37:01.227511+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 16, 2026 at 22:57 UTC  
+**Last Updated:** March 16, 2026 at 23:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1484.53B
+**Market Cap:** $1494.45B
 Rank #1
 
-**Circulating Supply:** 20,002,912 BTC
+**Circulating Supply:** 20,002,943 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.1%
+-40.7%
 
 **All-Time Low:** $67.81
-+109366.2%
++110078.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Perhaps I shouldn’t overthink it like this… but maybe I shouldn’t overthink it. Lately I’ve been reading way too many Bitcoin discussions, blogs, and forum threads, and honestly, it’s been messing with my head a bit. ​I’m a doctor working night shifts in the emergency department here in China. Every night shift, around 3 or 4 a.m., when I finally get a rare 10-minute break, my mind just spirals: Why the hell am I doing this to myself? ​You know how it is—nighttime ER in China, registration fee is only 10 RMB per patient. I see 30 people in one shift. Some are really sketchy: tattoo-covered guys, drunk as hell, coming in groups of four or five after fights, bleeding everywhere. I patch them up, heart pounding the whole time, terrified one wrong move and things go south. ​Then I sit there, exhausted, thinking: All this hard work, all this risk, and the money I earn is so damn little. Compared to my American counterparts, the pay gap is huge, but my workload and danger? Probably worse. I want to escape. I dream of getting out. But I have no capital, no savings to make the jump. That’s when Bitcoin comes into my head like a quiet lifeline. ​Every single night-shift yuan, every 10-RMB registration fee I earn by risking my neck… if I put it into Bitcoin, at least that money has a chance to hold its value. It won’t just evaporate in RMB inflation like everything else around me. My colleagues who don’t get Bitcoin, who throw their savings into Chinese stocks or real estate… when this big ship called the Chinese economy starts sinking, they’ll go down with it. But me? Maybe—just maybe—my path will look a little brighter. My future might actually have some light at the end. ​Bitcoin isn’t just an investment for me. Right now, it’s the only thing keeping my mental health from completely crumbling. It gives me a tiny sense of control, a small hope that my suffering isn’t completely pointless.
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Perhaps I shouldn’t overthink it like this… but maybe I shouldn’t overthin
 
 Yesterday my dad gifted me 0,002BTC making me reach my goal of 0,01btc! Now I am 15 and my goal is to get at least 0,05BTC before I turn 18, do you think I can pull this off? Do you have any suggestions about stacking?(Rn I'm storing my BTC in my Trezor wallet) Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Yesterday my dad gifted me 0,002BTC making me reach my goal of 0,01btc! Now I am
 
 Lately I’ve been thinking about the whole “never sell” mentality in crypto, and I’m starting to question whether HODLing has quietly turned into a trap for some people. We often celebrate those who have been holding since 2017 without ever selling a single coin. But it makes me wonder, what is the actual end goal? There seems to be this unspoken pressure to never take profits because nobody wants to be remembered as the person who sold too early. At the same time, I see people sitting on life-changing gains on paper while still living the exact same life they were living years ago. They keep waiting for the next moon, even though they already have more than enough profit to change things for themselves. If the purpose of investing is to eventually improve your life or give you more freedom, then at what point does holding forever stop being a smart strategy and start becoming a way to stay stuck on the sidelines? I’m genuinely curious how others balance the HODL philosophy with actually using the wealth they’ve built. Do you have a clear exit plan, or are most people just planning to hold indefinitely? I’d really like to hear how people justify never selling when the gains are already there.
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ No one can guarantee whether we have already reached the bottom. But everyone ag
 
 All in the title. I wasn't hacked. I transferred BTC to what I thought was a legitimate program. Will share details with any company that this community can recommend.
 
-2h ago
+3h ago
 
 ---
 
@@ -129,7 +129,7 @@ All in the title. I wasn't hacked. I transferred BTC to what I thought was a leg
 
 PEOPLE IT WENT UP!!!
 
-16h ago
+17h ago
 
 ---
 
@@ -165,7 +165,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Bitcoin is still down around 40% from a record high reached in October.  Other smaller, more volatile, digital assets saw even greater increases.  Ether, the second-largest cryptocurrency, rose as much as 10%, more than twice Bitcoin’s advance.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 3h ago
 
 A man alleged in UK court that his now-estranged wife stole more than $171 million in Bitcoin after using CCTV to obtain a seed phrase.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -181,13 +181,13 @@ Yahoo • 1h ago
 
 The company's stack now stands at 761,068 bitcoin, acquired for $57.61 billion.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
 **[Strategy Faces The Same Test It Keeps Failing After Big Bitcoin Buy](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Investor's Business Daily • 1h ago
 
 Last week marked Strategy’s largest sale of "Stretch," a specific type of security, since the July initial public offering of the issue.
 
-Fortune • 48m ago
+Fortune • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Times • 8h ago
 
 **[Bitcoin (BTC-USD) Morning Strength](https://seekingalpha.com/article/4882898-bitcoin-morning-strength)**
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -299,7 +299,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[Eliminating UI Bloat in the EraMix Financial Union Dashboard](https://news.ycombinator.com/item?id=47394092)**
 
-⬆️ 1 • 💬 0 • 21h ago
+⬆️ 1 • 💬 0 • 22h ago
 
 ---
 
@@ -307,7 +307,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Send a magic link, watch a live session replay with console and network data. Close the gap between bug reports and reality.
 
-⬆️ 1 • 💬 0 • 8h ago • [Clairvio](https://clairvio.dev/)
+⬆️ 1 • 💬 0 • 9h ago • [Clairvio](https://clairvio.dev/)
 
 ---
 
@@ -321,7 +321,27 @@ Ran breaks down why Bitcoin is holding strong despite war headlines and rising o
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 1K • 💬 64 • ⏱️ 25:40 • 8h ago
+👁️ 18K • 👍 2K • 💬 68 • ⏱️ 25:40 • 9h ago
+
+---
+
+**[Bitcoin Is Outperforming Stocks And Gold. Will It Continue?](https://www.youtube.com/watch?v=4Xcq36qOR8s)**
+
+The only asset besides oil going up right now is Bitcoin. The coin is up 10 percent since the first attacks on Iran — all while gold ...
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 2K • 👍 186 • 💬 13 • ⏱️ 8:25 • 2h ago
+
+---
+
+**[Bitcoin Ownership is Changing FAST. Should You Be Worried?](https://www.youtube.com/watch?v=pGeECOBSMjc)**
+
+Bitcoin is under attack again. Politicians and critics are calling it a Ponzi while institutions and governments accumulate more ...
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 704 • 💬 35 • ⏱️ 12:22 • 2h ago
 
 ---
 
@@ -331,37 +351,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 2K • 👍 191 • 💬 17 • ⏱️ 20:28 • 7h ago
-
----
-
-**[Bitcoin’s Short Squeeze Just Shocked the Market!](https://www.youtube.com/watch?v=CPqLPryNBdM)**
-
-Bitcoin just surged toward $73K while traders betting against it get wiped out. A Bloomberg strategist is still calling for $10K, ...
-
-📺 Simply Bitcoin
-
-👁️ 9K • 👍 947 • 💬 71 • ⏱️ 14:56 • 9h ago
-
----
-
-**[Bitcoin Is Turning Bullish… Here’s Why](https://www.youtube.com/watch?v=iNz-knddbyI)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRUs
-
-👁️ 16K • 👍 986 • 💬 44 • ⏱️ 48:22 • 8h ago
-
----
-
-**[Bitcoin Investors...Check This Out!](https://www.youtube.com/watch?v=YdFJBZG1j2k)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRUs
-
-👁️ 17K • 👍 1K • 💬 118 • ⏱️ 7:32 • 21h ago
+👁️ 3K • 👍 232 • 💬 26 • ⏱️ 20:28 • 8h ago
 
 ---
 
@@ -371,17 +361,37 @@ Gold vs Bitcoin is looking interesting. Check out Ledn: https://aaronbtc.com/led
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 488 • 💬 71 • ⏱️ 5:43 • 15h ago
+👁️ 10K • 👍 513 • 💬 72 • ⏱️ 5:43 • 16h ago
 
 ---
 
-**[The Fed Setup for Bitcoin’s Next Run](https://www.youtube.com/watch?v=oK1Azot7j9w)**
+**[Bitcoin’s Short Squeeze Just Shocked the Market!](https://www.youtube.com/watch?v=CPqLPryNBdM)**
 
-Bitcoin is sitting near $69K while gold is exploding and central banks are buying hard assets. The answer is simpler than most ...
+Bitcoin just surged toward $73K while traders betting against it get wiped out. A Bloomberg strategist is still calling for $10K, ...
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 46 • ⏱️ 17:22 • 1d ago
+👁️ 11K • 👍 1K • 💬 80 • ⏱️ 14:56 • 10h ago
+
+---
+
+**[Bitcoin Is Turning Bullish… Here’s Why](https://www.youtube.com/watch?v=iNz-knddbyI)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 18K • 👍 1K • 💬 51 • ⏱️ 48:22 • 8h ago
+
+---
+
+**[Bitcoin Investors...Check This Out!](https://www.youtube.com/watch?v=YdFJBZG1j2k)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 17K • 👍 1K • 💬 117 • ⏱️ 7:32 • 22h ago
 
 ---
 
@@ -391,27 +401,17 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 216 • ⏱️ 10:40 • 1d ago
+👁️ 56K • 👍 3K • 💬 217 • ⏱️ 10:40 • 1d ago
 
 ---
 
-**[&quot;All Hell is Gonna Break Loose in Bitcoin&quot; | Insider Interview on Michael Saylor](https://www.youtube.com/watch?v=dmNhm7nW-oA)**
+**[Market Meltdown📉Ethereum Skyrocketing🚀Crypto Update](https://www.youtube.com/watch?v=m_HhLnt-WPM)**
 
-Subscribe: https://www.youtube.com/channel/UCePR7z-TvfZaocYKPRbrUvg Follow: https://x.com/pete_rizzo_ BTC ...
+The S&P 500 could fall sharply this year because of a combination of economic headwinds and policy uncertainty created by ...
 
-📺 Altcoin Daily
+📺 Paul Barron Network
 
-👁️ 42K • 👍 2K • 💬 124 • ⏱️ 1:15:12 • 2d ago
-
----
-
-**[BITCOIN TO $35K? THE BEARS ARE COMPLETELY LOSING IT!](https://www.youtube.com/watch?v=qaNwMiqRYd0)**
-
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
-
-📺 Adam Livingston
-
-👁️ 10K • 👍 967 • 💬 186 • ⏱️ 20:55 • 1d ago
+👁️ 26K • 👍 2K • 💬 175 • ⏱️ 23:28 • 3h ago
 
 ---
 
