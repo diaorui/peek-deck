@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-17T10:27:22.965410+00:00'
+updated: '2026-03-17T11:25:29.751142+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 17, 2026 at 10:27 UTC  
+**Last Updated:** March 17, 2026 at 11:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,29 +32,9 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
-
-17h ago
-
----
-
-**[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
-
-4h ago
-
----
-
 **[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
 
-1h ago
-
----
-
-**[Project LATENT: a humanoid robot who can play tennis with a good hit rate.](https://www.reddit.com/r/robotics/comments/1rv5fww/project_latent_a_humanoid_robot_who_can_play/)**
-
-From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
-
-1d ago
+2h ago
 
 ---
 
@@ -66,11 +46,39 @@ From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/20336773279186698
 
 ---
 
+**[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
+
+5h ago
+
+---
+
+**[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
+
+18h ago
+
+---
+
+**[Project LATENT: a humanoid robot who can play tennis with a good hit rate.](https://www.reddit.com/r/robotics/comments/1rv5fww/project_latent_a_humanoid_robot_who_can_play/)**
+
+From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
+
+1d ago
+
+---
+
 **[Open-sourcing my harmonic drive design software!](https://www.reddit.com/r/robotics/comments/1rvpn06/opensourcing_my_harmonic_drive_design_software/)**
 
 Check it out at www.harmonicgearboxcalculator.com Any feedback is welcome!
 
-11h ago
+12h ago
+
+---
+
+**[Has obstacle avoidance in robot vacuums improved a lot recently?](https://www.reddit.com/r/robotics/comments/1rw3oux/has_obstacle_avoidance_in_robot_vacuums_improved/)**
+
+Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d still run into chair legs, cables, or random small stuff pretty often. Some of the newer ones seem a lot better at this now. Something like the Dreame X60 uses dual AI cameras for object recognition, while Roborock Saros 20 adds AI vision alongside LiDAR to spot obstacles and adjust the path instead of just bumping into things. Feels like avoidance has gotten noticeably better lately. Have others noticed the same in real use?
+
+7m ago
 
 ---
 
@@ -78,7 +86,15 @@ Check it out at www.harmonicgearboxcalculator.com Any feedback is welcome!
 
 Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric model Tested the so called "Zero Shot" properties of VLM models with every day objects/landmarks Basic navigation commands and AI models are just the beginning/POC, more exciting things to come. Working towards shipping an API for robotics Devs that want to add intelligent navigation to their custom hardware creations. (not just off the shelf unitree robots)
 
-17h ago
+18h ago
+
+---
+
+**[Is upgrading the Berkeley Lite actuator to Hardened Steel & Aluminum completely overkill? Need a reality check.](https://www.reddit.com/r/robotics/comments/1rw2n85/is_upgrading_the_berkeley_lite_actuator_to/)**
+
+Hi everyone, I’ve been heavily experimenting with the Berkeley Lite open-source humanoid project. It’s a brilliant platform, but I’m trying to push the knee/hip joint torque up to around 30Nm. With heavily loaded 3D-printed housings (even PA-CF), I'm hitting a wall: thermal issues, housing flex under peak loads, and eventually, the backlash gets out of control. Before I start spending serious time on CAD and dropping money at a machine shop, I wanted to run a concept by the builders here. I'm thinking about a complete material overhaul: Gearbox Housing: CNC Aluminum Alloy (for heat dissipation and rigidity) Core Transmission/Load-bearing parts: Quenched/Hardened Steel (to handle the 30Nm bursts without eating itself alive) My main concerns and where I need a reality check: The Weight Penalty: For a bipedal robot like the Lite, will the mass of hardened steel + aluminum at the joints completely ruin the dynamic control and swing inertia? Compliance vs. Rigidity: One of the beauties of 3D printing is a bit of natural compliance. If I make the joints absolutely rigid with steel and aluminum, am I just going to transfer the shock loads and snap the robot's linkages instead? Cost/Benefit: Has anyone else gone down the "industrial-grade metal" rabbit hole for open-source humanoids? Is it actually worth it, or am I solving a problem that could be fixed with better plastic design? Would love to hear some harsh truths before I commit to this!
+
+1h ago
 
 ---
 
@@ -86,23 +102,7 @@ Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric m
 
 I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
 
-22h ago
-
----
-
-**[Open Robotics Google Summer of Code Program for 2026 is now live! Get paid to contribute to open source projects like ROS, Gazebo, ROS Control, and Open-RMF.](https://www.reddit.com/r/robotics/comments/1rvjidh/open_robotics_google_summer_of_code_program_for/)**
-
-Google Summer of Code is a Google sponsored program that pays students to work with seasoned open source contributors over the summer to build new features for popular open source projects. The program is fully remote and available in most countries. Full details on Open Robotics Discourse.
-
-14h ago
-
----
-
-**[Egocentric data collection device](https://www.reddit.com/r/robotics/comments/1rw0fuw/egocentric_data_collection_device/)**
-
-Hey guys Can someone help me with designing of an egocentric data collection device (first person perspective video). I want to design a device from pcb or using a board whatever is cost friendly that will store 1) Audio 2) Video 3) IMU sensor recording In a sd card. I have tried making some progress and read about All Winner V3s and Ambarella soc. I just want the design to record data , post processing of videos (applying computer vision) in the device itself is not necessary. Thank you for your time and consideration
-
-2h ago
+23h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hey guys Can someone help me with designing of an egocentric data collection dev
 
 Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -122,7 +122,7 @@ TechCrunch • 13h ago
 
 Physics forms the foundation of robotic simulation, enabling realistic modeling of motion and interaction. For tasks like locomotion and manipulation, simulators must handle complex dynamics such as…
 
-NVIDIA Developer • 13h ago
+NVIDIA Developer • 14h ago
 
 ---
 
@@ -130,29 +130,43 @@ NVIDIA Developer • 13h ago
 
 CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[NVIDIA and Global Robotics Leaders Take Physical AI to the Real World](http://nvidianews.nvidia.com/news/nvidia-and-global-robotics-leaders-take-physical-ai-to-the-real-world)**
+**[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
 
-NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power production-scale physical AI. NVIDIA also unveiled new NVIDIA Isaac™ simulation frameworks and new NVIDIA Cosmos™ and NVIDIA Isaac GR00T open models for the industry to develop, train and deploy the next generation of intelligent robots.
-
-NVIDIA Newsroom • 13h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqeMxqysYb_p9ohhYW29KIPed4GJBVarcvb2r7tdQDDrabx9hsq9s0au&gaa_ts=69b9223a&gaa_sig=rJBcshKG1JYPqa_BYnFUz6O-IUPNVg_olYof0yiA-9HnW5q2vTkFnJDm3w0VevTmBaEYiCU2YU9Ozc8hLHYxIw%3D%3D)**
+**[Pittsburgh's Gecko Robotics announces $71M deal to deploy technology within U.S. Navy ships](https://www.cbsnews.com/pittsburgh/news/pittsburgh-gecko-robotics-71-million-deal-us-navy-technology/)**
 
-WSJ • 1d ago
+Gecko Robotics will be deploying its artificial intelligence and robotics within United States Navy warships.
+
+CBS News • 1h ago
 
 ---
 
-**[Battlefield trial begins as Phantom MK-1 humanoid robots reach Ukraine](https://interestingengineering.com/military/humanoid-soldier-robots-arrive-in-ukraine)**
+**[Portrait of Kristina I. Schunk](https://ifr.org/post/portrait-of-kristina-i-schunk)**
 
-US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
+Robotics brings mechanics, software and artificial intelligence together and turns human and digital intelligence into physical action.
 
-Interesting Engineering • 1d ago
+International Federation of Robotics • 1h ago
+
+---
+
+**[Your 'Pokémon Go' data will help train food delivery robots](https://www.morningbrew.com/stories/2026/03/17/pokemon-go-data-train-delivery-bots)**
+
+A Sam Altman-backed company called Coco Robotics will tap an AI model that uses 30+ billion images captured by the game's users.
+
+Morning Brew • 7h ago
+
+---
+
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfyiBapHzwLZDJe4m7dgpMItBkkqQZR2BHLGVn5volexrq7eXziq7ip&gaa_ts=69b93d8c&gaa_sig=N5AoGgzBwGNC1bznb4NEUBvTz7kwc0SFrHyZly3mmVUxv7aMVMRw4Qp4hES3qlhb7gqtkH6P3g6wpg9O5HlHUw%3D%3D)**
+
+WSJ • 2d ago
 
 ---
 
@@ -164,27 +178,11 @@ Business Insider • 1d ago
 
 ---
 
-**[Walt Disney Imagineering’s Robotic Character Olaf Makes Appearance at NVIDIA GTC](https://disneyexperiences.com/nvidia-gtc-olaf-robotic-character/)**
+**[Battlefield trial begins as Phantom MK-1 humanoid robots reach Ukraine](https://interestingengineering.com/military/humanoid-soldier-robots-arrive-in-ukraine)**
 
-Olaf, the self-walking robotic character created by Walt Disney Imagineering Research & Development, appeared at this year’s NVIDIA GTC, the biggest AI conference of the year for developers, researchers, and business leaders.
+US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
 
-Disney Experiences • 13h ago
-
----
-
-**[Glendale robotics team headed to world championships this summer](https://www.azfamily.com/2026/03/15/glendale-robotics-team-headed-world-championships-this-summer/)**
-
-Cactus High School’s robotics team, the Cobra Commanders, is headed to the world championships in May after finishing first at a major regional competition last week.
-
-AZ Family • 1d ago
-
----
-
-**[Elon Musk Bets On Human Workforce As AI, Robotics Boost Productivity: 'Basically Just Issue Money…'](https://finance.yahoo.com/news/elon-musk-bets-human-workforce-013057590.html)**
-
-Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
-
-Yahoo Finance • 2d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -198,7 +196,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 20K • 👍 286 • 💬 22 • ⏱️ 3:28 • 13h ago
+👁️ 20K • 👍 286 • 💬 22 • ⏱️ 3:28 • 14h ago
 
 ---
 
@@ -218,7 +216,7 @@ We got a sneak peek at Disney's newest robotic character Olaf, who will debut at
 
 📺 CNET
 
-👁️ 21K • 👍 568 • 💬 41 • ⏱️ 3:35 • 13h ago
+👁️ 21K • 👍 568 • 💬 41 • ⏱️ 3:35 • 14h ago
 
 ---
 
@@ -278,7 +276,7 @@ robot #toys #unboxing #remotecontrol.
 
 📺 PIHU TOYS
 
-👁️ 2K • 👍 27 • ⏱️ 0:32 • 2h ago
+👁️ 2K • 👍 27 • ⏱️ 0:32 • 3h ago
 
 ---
 
