@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-17T08:07:56.412965+00:00'
+updated: '2026-03-17T09:28:47.900993+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 17, 2026 at 08:07 UTC  
+**Last Updated:** March 17, 2026 at 09:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,19 @@ Robotics research and industry news
 
 **[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
 
-15h ago
+16h ago
+
+---
+
+**[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
+
+3h ago
+
+---
+
+**[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
+
+54m ago
 
 ---
 
@@ -42,13 +54,15 @@ Robotics research and industry news
 
 From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
 
-21h ago
+23h ago
 
 ---
 
-**[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
+**[Live demo by Skild AI at GTC, demonstrating neural nets for precision manufacturing](https://www.reddit.com/r/robotics/comments/1rw1q0z/live_demo_by_skild_ai_at_gtc_demonstrating_neural/)**
 
-2h ago
+From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
+
+2m ago
 
 ---
 
@@ -56,15 +70,7 @@ From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LA
 
 Check it out at www.harmonicgearboxcalculator.com Any feedback is welcome!
 
-8h ago
-
----
-
-**[Built an raspberry pi based desktop companion](https://www.reddit.com/r/robotics/comments/1rv7h0z/built_an_raspberry_pi_based_desktop_companion/)**
-
-I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
-
-20h ago
+10h ago
 
 ---
 
@@ -72,7 +78,15 @@ I built my own desktop companion with raspberry pi, respeaker lite. I built it t
 
 Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric model Tested the so called "Zero Shot" properties of VLM models with every day objects/landmarks Basic navigation commands and AI models are just the beginning/POC, more exciting things to come. Working towards shipping an API for robotics Devs that want to add intelligent navigation to their custom hardware creations. (not just off the shelf unitree robots)
 
-15h ago
+16h ago
+
+---
+
+**[Built an raspberry pi based desktop companion](https://www.reddit.com/r/robotics/comments/1rv7h0z/built_an_raspberry_pi_based_desktop_companion/)**
+
+I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
+
+21h ago
 
 ---
 
@@ -80,7 +94,7 @@ Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric m
 
 Google Summer of Code is a Google sponsored program that pays students to work with seasoned open source contributors over the summer to build new features for popular open source projects. The program is fully remote and available in most countries. Full details on Open Robotics Discourse.
 
-12h ago
+14h ago
 
 ---
 
@@ -88,23 +102,7 @@ Google Summer of Code is a Google sponsored program that pays students to work w
 
 Hey guys Can someone help me with designing of an egocentric data collection device (first person perspective video). I want to design a device from pcb or using a board whatever is cost friendly that will store 1) Audio 2) Video 3) IMU sensor recording In a sd card. I have tried making some progress and read about All Winner V3s and Ambarella soc. I just want the design to record data , post processing of videos (applying computer vision) in the device itself is not necessary. Thank you for your time and consideration
 
-4m ago
-
----
-
-**[Rodney Brooks on the reliability standard real robots have to meet](https://www.reddit.com/r/robotics/comments/1rvflil/rodney_brooks_on_the_reliability_standard_real/)**
-
-Rodney Brooks discussing the gap between robotics demos and real deployment. He points out that building a robot is one problem, but deploying one that works reliably in production is much harder. In many environments robots need reliability on the order of 99.999% uptime, because even small failure rates become unmanageable when systems scale. A robot that fails once an hour is effectively unusable. Even a robot that fails once per day becomes a problem if dozens of robots are operating at the same facility, because someone has to constantly deal with those failures. He also notes that customers usually don’t care what technology the robot uses. Whether it runs deep learning models or another approach matters less than whether it consistently improves efficiency and operates without constant intervention.
-
-14h ago
-
----
-
-**[Robot studio help](https://www.reddit.com/r/robotics/comments/1rvjswy/robot_studio_help/)**
-
-Hi all. I am currently new to robot studio and I am trying to program our ABB GoFa to go around the top square of this part. I have selected each target and created a path and I have made sure that the head of the robot is in the correct orientation for each movement. I have also checked the configuration of the robot all the way around the part and it seems to be correct and definitely not like the end of the video! When I run the simulation the robot just seems to crash itself into the ground! I haven't set any collision areas as what the robot is sat on was a part imported from SOLIDWORKS as a .SAT file. When I tried to give it collision boundarys the whole part is one component therefore the robot would constantly think it's crashed. I tried dragging separate bodies into the collision folders but it wouldn't let me Please can anyone help!
-
-12h ago
+1h ago
 
 ---
 
@@ -116,7 +114,7 @@ Hi all. I am currently new to robot studio and I am trying to program our ABB Go
 
 Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.
 
-TechCrunch • 11h ago
+TechCrunch • 12h ago
 
 ---
 
@@ -124,19 +122,27 @@ TechCrunch • 11h ago
 
 Physics forms the foundation of robotic simulation, enabling realistic modeling of motion and interaction. For tasks like locomotion and manipulation, simulators must handle complex dynamics such as…
 
-NVIDIA Developer • 11h ago
+NVIDIA Developer • 12h ago
 
 ---
 
-**[NVIDIA and Global Robotics Leaders Take Physical AI to the Real World](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Robotics-Leaders-Take-Physical-AI-to-the-Real-World/default.aspx)**
+**[Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal](https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html)**
 
-News Summary: Physical AI leaders across robot brain developers, industrial, and surgical robot giants and humanoid pioneers including ABB Robotics, AGIBOT, Agility, CMR Surgical, FANUC, Figure, Hexagon Robotics, KUKA, Medtronic, Skild AI, Universal Robots, World Labs and YASKAWA are building on NVIDIA technology to develop and deploy physical AI at scale. NVIDIA unveils new NVIDIA Cosmos world models, NVIDIA Isaac simulation frameworks and NVIDIA Isaac GR00T N models to accelerate the transition to intelligent robotics. Strategic ecosystem partnerships are transforming platform integrations into real-world industrial impact, from high-precision electronics assembly and autonomous construction deployment to AI-driven automation for manufacturers of all sizes. SAN JOSE, Calif., March 16, 2026 (GLOBE NEWSWIRE) - GTC - NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power
+CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-NVIDIA Investor Relations • 1h ago
+CNBC • 28m ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqezx-d4QzxeeorF8lTX0jJVBVrOrDtTwAyBL_kTks-pVmKutJIjKCeo&gaa_ts=69b90f46&gaa_sig=sPeIt7rJ8Dt3VIT6AS6TTvpvAKEOCGBxMJG5odwChqt51-l7GnkCsTiJ76uj4WTXkZDDx6t61LhRirKxRo1U1g%3D%3D)**
+**[NVIDIA and Global Robotics Leaders Take Physical AI to the Real World](http://nvidianews.nvidia.com/news/nvidia-and-global-robotics-leaders-take-physical-ai-to-the-real-world)**
+
+NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power production-scale physical AI. NVIDIA also unveiled new NVIDIA Isaac™ simulation frameworks and new NVIDIA Cosmos™ and NVIDIA Isaac GR00T open models for the industry to develop, train and deploy the next generation of intelligent robots.
+
+NVIDIA Newsroom • 12h ago
+
+---
+
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqeMxqysYb_p9ohhYW29KIPed4GJBVarcvb2r7tdQDDrabx9hsq9s0au&gaa_ts=69b9223a&gaa_sig=rJBcshKG1JYPqa_BYnFUz6O-IUPNVg_olYof0yiA-9HnW5q2vTkFnJDm3w0VevTmBaEYiCU2YU9Ozc8hLHYxIw%3D%3D)**
 
 WSJ • 1d ago
 
@@ -146,15 +152,7 @@ WSJ • 1d ago
 
 US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
 
-Interesting Engineering • 21h ago
-
----
-
-**[This Video of a Humanoid Robot Playing Tennis Is Extremely Impressive](https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis)**
-
-Chinese AI robotics company Galbot has designed software that teaches a Unitree G1 humanoid robot how to play tennis.
-
-Futurism • 16h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -162,7 +160,7 @@ Futurism • 16h ago
 
 Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
 
-Business Insider • 22h ago
+Business Insider • 1d ago
 
 ---
 
@@ -170,23 +168,23 @@ Business Insider • 22h ago
 
 Olaf, the self-walking robotic character created by Walt Disney Imagineering Research & Development, appeared at this year’s NVIDIA GTC, the biggest AI conference of the year for developers, researchers, and business leaders.
 
-Disney Experiences • 11h ago
+Disney Experiences • 12h ago
 
 ---
 
-**[China's DEEP Robotics unveils robot horse built for industrial work](https://interestingengineering.com/ai-robotics/china-robot-horse-deep-robotics)**
+**[Glendale robotics team headed to world championships this summer](https://www.azfamily.com/2026/03/15/glendale-robotics-team-headed-world-championships-this-summer/)**
 
-Chinese firm DEEP Robotics launches a robot horse based on the Lynx M20 platform, combining cultural design with industrial robotics.
+Cactus High School’s robotics team, the Cobra Commanders, is headed to the world championships in May after finishing first at a major regional competition last week.
 
-Interesting Engineering • 18h ago
+AZ Family • 1d ago
 
 ---
 
-**[‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)**
+**[Elon Musk Bets On Human Workforce As AI, Robotics Boost Productivity: 'Basically Just Issue Money…'](https://finance.yahoo.com/news/elon-musk-bets-human-workforce-013057590.html)**
 
-The massive crowdsourcing effort could use real-world to help robots deliver pizza.
+Tesla Inc. CEO Elon Musk has shared that the automaker will expand its human workforce as artificial intelligence and robotics advancements boost productivity. Tesla To Add Workers On Thursday, Business Insider cited Musk’s comments at the Abundance Summit, where the billionaire shared that Tesla wasn't planning any layoffs, instead focusing on expanding its workforce because the "output per human at Tesla” was going to “get nutty high," he said. Musk also said that the company would "basically
 
-Popular Science • 3d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -200,7 +198,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 16K • 👍 260 • 💬 21 • ⏱️ 3:28 • 11h ago
+👁️ 20K • 👍 286 • 💬 22 • ⏱️ 3:28 • 12h ago
 
 ---
 
@@ -210,17 +208,17 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 83K • 👍 2K • 💬 290 • ⏱️ 49:45 • 2d ago
+👁️ 84K • 👍 2K • 💬 290 • ⏱️ 49:45 • 2d ago
 
 ---
 
-**[Sunday Robotics: The Household Robot We&#39;ve Been Waiting For?](https://www.youtube.com/watch?v=QfBw0gMuhaI)**
+**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
 
-I visited @SundayRobotics to see how they're building a household robot that actually works in real homes. Founded by Stanford ...
+We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
 
-📺 ZAUEY (Claire Zau)
+📺 CNET
 
-👁️ 18K • 👍 620 • 💬 60 • ⏱️ 15:48 • 4d ago
+👁️ 21K • 👍 568 • 💬 41 • ⏱️ 3:35 • 12h ago
 
 ---
 
@@ -230,17 +228,7 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 10K • 👍 507 • 💬 83 • ⏱️ 7:53 • 1d ago
-
----
-
-**[Watch Robots ASSEMBLE Car Wheels in SECONDS! 🛞](https://www.youtube.com/watch?v=nqfY8o1DiQY)**
-
-Witness the incredible speed and precision of industrial robots as they revolutionize tire and rim assembly on an automated ...
-
-📺 Peace Working Shorts
-
-👁️ 337K • 👍 494 • 💬 9 • ⏱️ 0:06 • 1d ago
+👁️ 11K • 👍 520 • 💬 83 • ⏱️ 7:53 • 1d ago
 
 ---
 
@@ -260,17 +248,7 @@ We show you how NOT to build a Robotics Company! ▻ Join the Discord to Build R
 
 📺 Nick Builds
 
-👁️ 5K • 👍 263 • 💬 68 • ⏱️ 11:52 • 2d ago
-
----
-
-**[War Robots: The Most Powerful Ultimate Tanks | Fenrir, Revenant, Lancelot, Leo, Nodens](https://www.youtube.com/watch?v=RUNWz8y5eTs)**
-
-warrobots #robotgame #warrobotsgameplay War Robots: The Most Powerful Ultimate Tanks | Fenrir, Revenant, Lancelot, Leo, ...
-
-📺 Skilled Gaming WR
-
-👁️ 4K • 👍 101 • 💬 5 • ⏱️ 35:19 • 1d ago
+👁️ 5K • 👍 266 • 💬 68 • ⏱️ 11:52 • 2d ago
 
 ---
 
@@ -284,13 +262,33 @@ China just revealed a robotic system that can turn a human into something that m
 
 ---
 
-**[Street Quarrel Between Human and Robot Shocks Bystanders #robot #AI #macau](https://www.youtube.com/watch?v=buCvD82GXwA)**
+**[Figure 03 Humanoid Robot Learns 8 New Autonomous AI Skills (AI NEWS)](https://www.youtube.com/watch?v=g4gBm82PVyk)**
 
-This is the first recorded street quarrel between a human and a robot. In Macau, an elderly woman walking at night was startled ...
+Figure demos world leading autonomous cleaning capabilities with its 03 humanoid robot, showcasing eight new abilities: ...
 
-📺 Past Diary
+📺 AI News
 
-👁️ 46K • 👍 1K • 💬 49 • ⏱️ 0:21 • 17h ago
+👁️ 9K • 👍 240 • 💬 60 • ⏱️ 8:04 • 6d ago
+
+---
+
+**[Unboxing Dancing BOT ROBOT &amp; Testing with asmr #cars #remotecontrol #robot #toys](https://www.youtube.com/watch?v=jhtlqkVSM1g)**
+
+robot #toys #unboxing #remotecontrol.
+
+📺 PIHU TOYS
+
+👁️ 2K • 👍 27 • ⏱️ 0:32 • 1h ago
+
+---
+
+**[Walker S2 Humanoid Robot](https://www.youtube.com/watch?v=9QsuJx9rbbc)**
+
+Walker S2 AI Humanoid Robot This is a an example of a high dexterity humanoid robot that might be able to run old manual ...
+
+📺 i2c_jason
+
+👁️ 11K • 👍 642 • 💬 94 • ⏱️ 2:58 • 1d ago
 
 ---
 
