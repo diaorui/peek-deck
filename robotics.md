@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-17T09:28:47.900993+00:00'
+updated: '2026-03-17T10:27:22.965410+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 17, 2026 at 09:28 UTC  
+**Last Updated:** March 17, 2026 at 10:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
 
-16h ago
+17h ago
 
 ---
 
 **[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
 
-23h ago
+1d ago
 
 ---
 
@@ -62,7 +62,7 @@ From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LA
 
 From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
 
-2m ago
+1h ago
 
 ---
 
@@ -70,7 +70,7 @@ From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/20336773279186698
 
 Check it out at www.harmonicgearboxcalculator.com Any feedback is welcome!
 
-10h ago
+11h ago
 
 ---
 
@@ -78,7 +78,7 @@ Check it out at www.harmonicgearboxcalculator.com Any feedback is welcome!
 
 Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric model Tested the so called "Zero Shot" properties of VLM models with every day objects/landmarks Basic navigation commands and AI models are just the beginning/POC, more exciting things to come. Working towards shipping an API for robotics Devs that want to add intelligent navigation to their custom hardware creations. (not just off the shelf unitree robots)
 
-16h ago
+17h ago
 
 ---
 
@@ -86,7 +86,7 @@ Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric m
 
 I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
 
-21h ago
+22h ago
 
 ---
 
@@ -102,7 +102,7 @@ Google Summer of Code is a Google sponsored program that pays students to work w
 
 Hey guys Can someone help me with designing of an egocentric data collection device (first person perspective video). I want to design a device from pcb or using a board whatever is cost friendly that will store 1) Audio 2) Video 3) IMU sensor recording In a sd card. I have tried making some progress and read about All Winner V3s and Ambarella soc. I just want the design to record data , post processing of videos (applying computer vision) in the device itself is not necessary. Thank you for your time and consideration
 
-1h ago
+2h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hey guys Can someone help me with designing of an egocentric data collection dev
 
 Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.
 
-TechCrunch • 12h ago
+TechCrunch • 13h ago
 
 ---
 
@@ -122,7 +122,7 @@ TechCrunch • 12h ago
 
 Physics forms the foundation of robotic simulation, enabling realistic modeling of motion and interaction. For tasks like locomotion and manipulation, simulators must handle complex dynamics such as…
 
-NVIDIA Developer • 12h ago
+NVIDIA Developer • 13h ago
 
 ---
 
@@ -130,7 +130,7 @@ NVIDIA Developer • 12h ago
 
 CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-CNBC • 28m ago
+CNBC • 1h ago
 
 ---
 
@@ -138,7 +138,7 @@ CNBC • 28m ago
 
 NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power production-scale physical AI. NVIDIA also unveiled new NVIDIA Isaac™ simulation frameworks and new NVIDIA Cosmos™ and NVIDIA Isaac GR00T open models for the industry to develop, train and deploy the next generation of intelligent robots.
 
-NVIDIA Newsroom • 12h ago
+NVIDIA Newsroom • 13h ago
 
 ---
 
@@ -152,7 +152,7 @@ WSJ • 1d ago
 
 US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -168,7 +168,7 @@ Business Insider • 1d ago
 
 Olaf, the self-walking robotic character created by Walt Disney Imagineering Research & Development, appeared at this year’s NVIDIA GTC, the biggest AI conference of the year for developers, researchers, and business leaders.
 
-Disney Experiences • 12h ago
+Disney Experiences • 13h ago
 
 ---
 
@@ -198,7 +198,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 20K • 👍 286 • 💬 22 • ⏱️ 3:28 • 12h ago
+👁️ 20K • 👍 286 • 💬 22 • ⏱️ 3:28 • 13h ago
 
 ---
 
@@ -218,7 +218,7 @@ We got a sneak peek at Disney's newest robotic character Olaf, who will debut at
 
 📺 CNET
 
-👁️ 21K • 👍 568 • 💬 41 • ⏱️ 3:35 • 12h ago
+👁️ 21K • 👍 568 • 💬 41 • ⏱️ 3:35 • 13h ago
 
 ---
 
@@ -268,7 +268,7 @@ Figure demos world leading autonomous cleaning capabilities with its 03 humanoid
 
 📺 AI News
 
-👁️ 9K • 👍 240 • 💬 60 • ⏱️ 8:04 • 6d ago
+👁️ 9K • 👍 240 • 💬 60 • ⏱️ 8:04 • 7d ago
 
 ---
 
@@ -278,7 +278,7 @@ robot #toys #unboxing #remotecontrol.
 
 📺 PIHU TOYS
 
-👁️ 2K • 👍 27 • ⏱️ 0:32 • 1h ago
+👁️ 2K • 👍 27 • ⏱️ 0:32 • 2h ago
 
 ---
 

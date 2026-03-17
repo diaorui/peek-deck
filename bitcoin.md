@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-17T09:28:47.890851+00:00'
+updated: '2026-03-17T10:27:22.956295+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 09:28 UTC  
+**Last Updated:** March 17, 2026 at 10:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 been stacking sats for most of this year and just crossed into full bitcoin territory today picked up more during a few different dips along the way which helped me get there faster kinda thought id feel more excited when i reached this point but its more like relief than celebration i guess still pretty cool though especially since i really believe this technology is going somewhere big now time to start working toward that second bitcoin
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ been stacking sats for most of this year and just crossed into full bitcoin terr
 
 Yesterday my dad gifted me 0,002BTC making me reach my goal of 0,01btc! Now I am 15 and my goal is to get at least 0,05BTC before I turn 18, do you think I can pull this off? Do you have any suggestions about stacking?(Rn I'm storing my BTC in my Trezor wallet) Thanks!
 
-12h ago
+13h ago
 
 ---
 
@@ -97,7 +97,7 @@ Yesterday my dad gifted me 0,002BTC making me reach my goal of 0,01btc! Now I am
 
 We’re testing $74k, and the most interesting thing isn't the price... it's who isn't active. I pulled the latest UTXO age band data from my node for the last 12 hours of trading. The breakdown is staggering: 97% of all BTC spent was less than a month old. Meanwhile, look at the very "Old" coins: 2009–2011: Barely 0.31 BTC moved. 8y–2012: Only 50 BTC. 4y–8y: Just 187 BTC. The "old hands" are essentially silent, leaving the price action to be driven almost entirely by short-term churn and new entrants. This is what a growing supply squeeze looks like in real-time.
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ We’re testing $74k, and the most interesting thing isn't the price... it's who
 
 Lately I’ve been thinking about the whole “never sell” mentality in crypto, and I’m starting to question whether HODLing has quietly turned into a trap for some people. We often celebrate those who have been holding since 2017 without ever selling a single coin. But it makes me wonder, what is the actual end goal? There seems to be this unspoken pressure to never take profits because nobody wants to be remembered as the person who sold too early. At the same time, I see people sitting on life-changing gains on paper while still living the exact same life they were living years ago. They keep waiting for the next moon, even though they already have more than enough profit to change things for themselves. If the purpose of investing is to eventually improve your life or give you more freedom, then at what point does holding forever stop being a smart strategy and start becoming a way to stay stuck on the sidelines? I’m genuinely curious how others balance the HODL philosophy with actually using the wealth they’ve built. Do you have a clear exit plan, or are most people just planning to hold indefinitely? I’d really like to hear how people justify never selling when the gains are already there.
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ Lately I’ve been thinking about the whole “never sell” mentality in crypto
 
 because of waiting for bitcoin to drop some more.
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ because of waiting for bitcoin to drop some more.
 
 Perhaps I shouldn’t overthink it like this… but maybe I shouldn’t overthink it. Lately I’ve been reading way too many Bitcoin discussions, blogs, and forum threads, and honestly, it’s been messing with my head a bit. ​I’m a doctor working night shifts in the emergency department here in China. Every night shift, around 3 or 4 a.m., when I finally get a rare 10-minute break, my mind just spirals: Why the hell am I doing this to myself? ​You know how it is—nighttime ER in China, registration fee is only 10 RMB per patient. I see 30 people in one shift. Some are really sketchy: tattoo-covered guys, drunk as hell, coming in groups of four or five after fights, bleeding everywhere. I patch them up, heart pounding the whole time, terrified one wrong move and things go south. ​Then I sit there, exhausted, thinking: All this hard work, all this risk, and the money I earn is so damn little. Compared to my American counterparts, the pay gap is huge, but my workload and danger? Probably worse. I want to escape. I dream of getting out. But I have no capital, no savings to make the jump. That’s when Bitcoin comes into my head like a quiet lifeline. ​Every single night-shift yuan, every 10-RMB registration fee I earn by risking my neck… if I put it into Bitcoin, at least that money has a chance to hold its value. It won’t just evaporate in RMB inflation like everything else around me. My colleagues who don’t get Bitcoin, who throw their savings into Chinese stocks or real estate… when this big ship called the Chinese economy starts sinking, they’ll go down with it. But me? Maybe—just maybe—my path will look a little brighter. My future might actually have some light at the end. ​Bitcoin isn’t just an investment for me. Right now, it’s the only thing keeping my mental health from completely crumbling. It gives me a tiny sense of control, a small hope that my suffering isn’t completely pointless.
 
-20h ago
+21h ago
 
 ---
 
@@ -129,7 +129,7 @@ Perhaps I shouldn’t overthink it like this… but maybe I shouldn’t overthin
 
 No one can guarantee whether we have already reached the bottom. But everyone agrees that $74,000 is not the top. So, I'm no longer trying to predict the bottom to make a few extra hypothetical percent in profit... I'm simply convinced that we will see higher prices again and I'll be there with my stack!
 
-16h ago
+17h ago
 
 ---
 
@@ -137,7 +137,7 @@ No one can guarantee whether we have already reached the bottom. But everyone ag
 
 Hey r/Bitcoin, I’m Jean, co-founder and CEO of Shakepay. We build easy and rewarding products to help Canadians stack sats and reach their bitcoin goals. This has been available in other markets for some time now but I’m really excited to share that we launched no spread, no fee recurring bitcoin buys today, a first for the Canadian market. If you’re Canadian and have any questions, feel free to post them below. Also, just wanted to share that we first got off the ground 10 years ago with our first announcement in this very channel, so thanks for your support throughout the years. Happy stacking!
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ Hey r/Bitcoin, I’m Jean, co-founder and CEO of Shakepay. We build easy and rew
 
 I'm pretty new to investing in BTC and plan to DCA for the foreseeable future. I've seen a few posts referencing hardware wallets. Are these a must have for someone looking to invest long term? If so, which would you recommend and why? Thanks.
 
-2h ago
+3h ago
 
 ---
 
@@ -153,7 +153,7 @@ I'm pretty new to investing in BTC and plan to DCA for the foreseeable future. I
 
 I am currently holding 0.39 bitcoin on ledger. Should I transfer this crypto to Robinhood? They are offering 2% bonus on crypto transfers. Not sure if it is a good idea or not.
 
-1h ago
+2h ago
 
 ---
 
@@ -165,7 +165,7 @@ I am currently holding 0.39 bitcoin on ledger. Should I transfer this crypto to 
 
 Bitcoin briefly surged to a six-week high above $75,000 before quickly retreating, underscoring the fragility of the latest rally.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -177,7 +177,7 @@ Barron's • 13h ago
 
 **[Bitcoin Surprises as Oasis of Calm While Iran War Jolts Markets](https://www.bloomberg.com/news/articles/2026-03-17/bitcoin-surprises-as-oasis-of-calm-while-iran-war-jolts-markets)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 3h ago
 
 Citigroup cut its 12-month forecast for bitcoin and ethereum, citing slow U.S. legislative progress that narrows the window for regulatory ‌catalysts expected to boost ETF-driven demand and broader institutional adoption.  The Wall Street brokerage lowered its 12-month bitcoin price forecast to $112,000 from $143,000 and its ethereum estimate to $3,175 from $4,304.  "Regulatory catalysts will drive further adoption and flows but the window of ‌opportunity for U.S. legislation this ⁠year is narrowing," Citi strategist Alex Saunders said in a note on Monday.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1h ago
 
 The cryptocurrency market is in the throes of a brutal sell-off right now.
 
-The Motley Fool • 26m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -201,19 +201,19 @@ The Motley Fool • 26m ago
 
 Emergent CEO Mukund Jha says vibe coding is still at 1% of its potential and compares the industry today to bitcoin at $1.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
 **[Wife ‘filmed husband’s passwords to steal £180m in bitcoin’](https://www.thetimes.com/uk/law/article/wife-steal-bitcoin-spy-camera-cz8bxfcph?gaa_at=eafs&gaa_n=AWEtsqe8otJkfN1uESagB8KNpQ9_77tquyUUyYoW4nwFkRTd9cGIG9ZC1b7Q&gaa_ts=69b92235&gaa_sig=cEv0VJ6pWEfup_zv2E62ShZRT31p64f-olav0db6BebsqtXEhMMtGzUgVHW1Im6GHmIwSA4tz10Geoz_79cc7w%3D%3D)**
 
-The Times • 18h ago
+The Times • 19h ago
 
 ---
 
 **[Crypto Stocks Rally, These Factors Drive Bitcoin Rebound To Feb. High](https://www.investors.com/news/bitcoin-price-74k-february-etf-flows-cryptocurrency-gold-oil-us-treasury-yield-dollar-iran/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -233,13 +233,13 @@ Sports are the most popular category to wager on in prediction markets, as they 
 
 Prediction markets received mainstream attention during the 2024 presidential election, when they correctly predicted Donald Trump’s victory, contrary to many national polls. The two leading platforms, Kalshi and Polymarket, are looking to raise money at a $20 billion valuation, according to The Wall Street Journal.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
 **[‘Time Is Running Out’—Bitcoin Is Suddenly Braced For A Surprise Price Shock](https://www.forbes.com/sites/digital-assets/2026/03/16/time-is-running-out-bitcoin-is--suddenly-braced-for-a-surprise-price-shock/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -315,7 +315,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Send a magic link, watch a live session replay with console and network data. Close the gap between bug reports and reality.
 
-⬆️ 1 • 💬 0 • 19h ago • [Clairvio](https://clairvio.dev/)
+⬆️ 1 • 💬 0 • 20h ago • [Clairvio](https://clairvio.dev/)
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin is under attack again. Politicians and critics are calling it a Ponzi wh
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 84 • ⏱️ 12:22 • 12h ago
+👁️ 20K • 👍 1K • 💬 84 • ⏱️ 12:22 • 13h ago
 
 ---
 
@@ -339,7 +339,7 @@ The only asset besides oil going up right now is Bitcoin. The coin is up 10 perc
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 8K • 👍 441 • 💬 45 • ⏱️ 8:25 • 12h ago
+👁️ 8K • 👍 441 • 💬 45 • ⏱️ 8:25 • 13h ago
 
 ---
 
@@ -349,7 +349,7 @@ My march newsletter is out, discussing how risk cascades through markets. You ca
 
 📺 Benjamin Cowen
 
-👁️ 54K • 👍 4K • 💬 203 • ⏱️ 15:27 • 10h ago
+👁️ 54K • 👍 4K • 💬 203 • ⏱️ 15:27 • 11h ago
 
 ---
 
@@ -359,7 +359,7 @@ Ran breaks down why Bitcoin is holding strong despite war headlines and rising o
 
 📺 Crypto Banter
 
-👁️ 24K • 👍 2K • 💬 74 • ⏱️ 25:40 • 19h ago
+👁️ 24K • 👍 2K • 💬 74 • ⏱️ 25:40 • 20h ago
 
 ---
 
@@ -369,7 +369,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 207 • ⏱️ 48:22 • 18h ago
+👁️ 21K • 👍 1K • 💬 207 • ⏱️ 48:22 • 19h ago
 
 ---
 
@@ -399,7 +399,7 @@ The stock market is rolling over into a massive distribution phase, but the cryp
 
 📺 Gareth Soloway
 
-👁️ 45K • 👍 3K • 💬 381 • ⏱️ 10:09 • 14h ago
+👁️ 45K • 👍 3K • 💬 381 • ⏱️ 10:09 • 15h ago
 
 ---
 
@@ -409,7 +409,7 @@ Kyledoops has outlined the potential for a Bitcoin trap to occur by the 18th of 
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 688 • 💬 8 • ⏱️ 25:20 • 2h ago
+👁️ 6K • 👍 688 • 💬 8 • ⏱️ 25:20 • 3h ago
 
 ---
 
