@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-17T11:25:29.751142+00:00'
+updated: '2026-03-17T12:02:18.880978+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 17, 2026 at 11:25 UTC  
+**Last Updated:** March 17, 2026 at 12:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,19 +42,19 @@ Robotics research and industry news
 
 From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
 
-1h ago
+2h ago
 
 ---
 
 **[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -78,7 +78,7 @@ Check it out at www.harmonicgearboxcalculator.com Any feedback is welcome!
 
 Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d still run into chair legs, cables, or random small stuff pretty often. Some of the newer ones seem a lot better at this now. Something like the Dreame X60 uses dual AI cameras for object recognition, while Roborock Saros 20 adds AI vision alongside LiDAR to spot obstacles and adjust the path instead of just bumping into things. Feels like avoidance has gotten noticeably better lately. Have others noticed the same in real use?
 
-7m ago
+44m ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi everyone, I’ve been heavily experimenting with the Berkeley Lite open-sourc
 
 I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
 
-23h ago
+1d ago
 
 ---
 
@@ -114,7 +114,7 @@ I built my own desktop companion with raspberry pi, respeaker lite. I built it t
 
 Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.
 
-TechCrunch • 14h ago
+TechCrunch • 15h ago
 
 ---
 
@@ -122,7 +122,7 @@ TechCrunch • 14h ago
 
 Physics forms the foundation of robotic simulation, enabling realistic modeling of motion and interaction. For tasks like locomotion and manipulation, simulators must handle complex dynamics such as…
 
-NVIDIA Developer • 14h ago
+NVIDIA Developer • 15h ago
 
 ---
 
@@ -130,13 +130,13 @@ NVIDIA Developer • 14h ago
 
 CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
 **[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -144,7 +144,7 @@ Bloomberg.com • 1h ago
 
 Gecko Robotics will be deploying its artificial intelligence and robotics within United States Navy warships.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -152,7 +152,7 @@ CBS News • 1h ago
 
 Robotics brings mechanics, software and artificial intelligence together and turns human and digital intelligence into physical action.
 
-International Federation of Robotics • 1h ago
+International Federation of Robotics • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 20K • 👍 286 • 💬 22 • ⏱️ 3:28 • 14h ago
+👁️ 23K • 👍 319 • 💬 23 • ⏱️ 2:02 • 15h ago
 
 ---
 
@@ -206,17 +206,57 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 84K • 👍 2K • 💬 290 • ⏱️ 49:45 • 2d ago
+👁️ 85K • 👍 2K • 💬 292 • ⏱️ 49:45 • 2d ago
 
 ---
 
-**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
+**[Sunday Robotics: The Household Robot We&#39;ve Been Waiting For?](https://www.youtube.com/watch?v=QfBw0gMuhaI)**
 
-We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
+I visited @SundayRobotics to see how they're building a household robot that actually works in real homes. Founded by Stanford ...
 
-📺 CNET
+📺 ZAUEY (Claire Zau)
 
-👁️ 21K • 👍 568 • 💬 41 • ⏱️ 3:35 • 14h ago
+👁️ 19K • 👍 627 • 💬 60 • ⏱️ 15:48 • 4d ago
+
+---
+
+**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
+
+Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
+
+📺 Reuters
+
+👁️ 25K • 👍 102 • 💬 38 • ⏱️ 2:38 • 5d ago
+
+---
+
+**[AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)](https://www.youtube.com/watch?v=ZZrR7rIIPmc)**
+
+Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2-0-airevolutionx-pekSSk Researchers in China just ...
+
+📺 AI Revolution
+
+👁️ 12K • 👍 428 • 💬 38 • ⏱️ 13:18 • 1d ago
+
+---
+
+**[China Deployed the Robots First — Now America Is Responding in a Way No One Expected](https://www.youtube.com/watch?v=REx-pQFwbRE)**
+
+China Deployed the Robots First — Now America Is Responding in a Way No One Expected The robotics race isn't unfolding the ...
+
+📺 The Curious Mind
+
+👁️ 2K • 👍 66 • ⏱️ 30:12 • 1d ago
+
+---
+
+**[Jensen Huang Reveals the Future of Self Driving Cars and Robots at NVIDIA GTC 2026](https://www.youtube.com/watch?v=bvg4zdOeFMk)**
+
+Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen Huang revealed how new AI systems are powering ...
+
+📺 DPCcars
+
+👁️ 24K • 👍 534 • 💬 79 • ⏱️ 11:48 • 13h ago
 
 ---
 
@@ -226,67 +266,27 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 11K • 👍 520 • 💬 83 • ⏱️ 7:53 • 1d ago
+👁️ 11K • 👍 528 • 💬 83 • ⏱️ 7:53 • 1d ago
 
 ---
 
-**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
+**[War Robots - These Dux Tweaks Helped Me Fight The Meta!](https://www.youtube.com/watch?v=hJumlPFK5to)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
+War Robots - These Dux tweaks helped me to fight the current meta! In this video, I focus on the Dux specifically with Kestrel and ...
 
-📺 South China Morning Post
+📺 Adrian Chong
 
-👁️ 17K • 👍 222 • 💬 82 • ⏱️ 4:52 • 5d ago
-
----
-
-**[How Not to Build a Robotics Company from your Apartment](https://www.youtube.com/watch?v=owT3wxFnZ9E)**
-
-We show you how NOT to build a Robotics Company! ▻ Join the Discord to Build Robots with us!
-
-📺 Nick Builds
-
-👁️ 5K • 👍 266 • 💬 68 • ⏱️ 11:52 • 2d ago
+👁️ 5K • 👍 247 • 💬 58 • ⏱️ 17:41 • 23h ago
 
 ---
 
-**[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
+**[Watch Robots ASSEMBLE Car Wheels in SECONDS! 🛞](https://www.youtube.com/watch?v=nqfY8o1DiQY)**
 
-China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
+Witness the incredible speed and precision of industrial robots as they revolutionize tire and rim assembly on an automated ...
 
-📺 AI Revolution
+📺 Peace Working Shorts
 
-👁️ 46K • 👍 635 • 💬 76 • ⏱️ 14:52 • 3d ago
-
----
-
-**[Figure 03 Humanoid Robot Learns 8 New Autonomous AI Skills (AI NEWS)](https://www.youtube.com/watch?v=g4gBm82PVyk)**
-
-Figure demos world leading autonomous cleaning capabilities with its 03 humanoid robot, showcasing eight new abilities: ...
-
-📺 AI News
-
-👁️ 9K • 👍 240 • 💬 60 • ⏱️ 8:04 • 7d ago
-
----
-
-**[Unboxing Dancing BOT ROBOT &amp; Testing with asmr #cars #remotecontrol #robot #toys](https://www.youtube.com/watch?v=jhtlqkVSM1g)**
-
-robot #toys #unboxing #remotecontrol.
-
-📺 PIHU TOYS
-
-👁️ 2K • 👍 27 • ⏱️ 0:32 • 3h ago
-
----
-
-**[Walker S2 Humanoid Robot](https://www.youtube.com/watch?v=9QsuJx9rbbc)**
-
-Walker S2 AI Humanoid Robot This is a an example of a high dexterity humanoid robot that might be able to run old manual ...
-
-📺 i2c_jason
-
-👁️ 11K • 👍 642 • 💬 94 • ⏱️ 2:58 • 1d ago
+👁️ 352K • 👍 518 • 💬 9 • ⏱️ 0:06 • 1d ago
 
 ---
 

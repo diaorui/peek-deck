@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-17T11:25:29.741780+00:00'
+updated: '2026-03-17T12:02:18.871717+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 11:25 UTC  
+**Last Updated:** March 17, 2026 at 12:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1484.01B
+**Market Cap:** $1481.12B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.1%
+-41.3%
 
 **All-Time Low:** $67.81
-+109503.3%
++109093.3%
 
 ---
 
@@ -97,7 +97,7 @@ Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate
 
 because of waiting for bitcoin to drop some more.
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Yesterday my dad gifted me 0,002BTC making me reach my goal of 0,01btc! Now I am
 
 We’re testing $74k, and the most interesting thing isn't the price... it's who isn't active. I pulled the latest UTXO age band data from my node for the last 12 hours of trading. The breakdown is staggering: 97% of all BTC spent was less than a month old. Meanwhile, look at the very "Old" coins: 2009–2011: Barely 0.31 BTC moved. 8y–2012: Only 50 BTC. 4y–8y: Just 187 BTC. The "old hands" are essentially silent, leaving the price action to be driven almost entirely by short-term churn and new entrants. This is what a growing supply squeeze looks like in real-time.
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ Lately I’ve been thinking about the whole “never sell” mentality in crypto
 
 what has changed?
 
-39m ago
+1h ago
 
 ---
 
@@ -137,7 +137,7 @@ what has changed?
 
 Thanks btc for the pump!! I can finally afford that $3 drink! Btc is back!
 
-4h ago
+5h ago
 
 ---
 
@@ -153,7 +153,7 @@ Perhaps I shouldn’t overthink it like this… but maybe I shouldn’t overthin
 
 No one can guarantee whether we have already reached the bottom. But everyone agrees that $74,000 is not the top. So, I'm no longer trying to predict the bottom to make a few extra hypothetical percent in profit... I'm simply convinced that we will see higher prices again and I'll be there with my stack!
 
-18h ago
+19h ago
 
 ---
 
@@ -165,7 +165,7 @@ No one can guarantee whether we have already reached the bottom. But everyone ag
 
 Bitcoin briefly surged to a six-week high above $75,000 before quickly retreating, underscoring the fragility of the latest rally.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -185,7 +185,7 @@ Sports are the most popular category to wager on in prediction markets, as they 
 
 Prediction markets received mainstream attention during the 2024 presidential election, when they correctly predicted Donald Trump’s victory, contrary to many national polls. The two leading platforms, Kalshi and Polymarket, are looking to raise money at a $20 billion valuation, according to The Wall Street Journal.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 15h ago
 
 The Burke County Sheriff’s Office is warning residents of a new phone scam claiming victims have a warrant out for their arrest.
 
-Yahoo • 34m ago
+Yahoo • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ IndexBox - Market Intelligence Platform • 2h ago
 
 Anthony Scaramucci, founder of global investment firm SkyBridge Capital, explained how he manages his time across family, business and personal hobbies using the "rock-and-sand" metaphor. Rock First, ...
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -223,19 +223,19 @@ Investor's Business Daily • 14h ago
 
 Emergent CEO Mukund Jha says vibe coding is still at 1% of its potential and compares the industry today to bitcoin at $1.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
 **[Wife ‘filmed husband’s passwords to steal £180m in bitcoin’](https://www.thetimes.com/uk/law/article/wife-steal-bitcoin-spy-camera-cz8bxfcph?gaa_at=eafs&gaa_n=AWEtsqdYFCsGEnj3j813vK9mYjpqtBcOi3Rs-IHz34l2NOUFb_nohfZ9bEk4&gaa_ts=69b93d88&gaa_sig=brrvjRckGVH-JwB91HlHfIPIOcBdG2G0T-FOmnISPLFqnnsWfhZgBfgUD0b1sECBidrkh09Fm7J3ysmwia_zFg%3D%3D)**
 
-The Times • 20h ago
+The Times • 21h ago
 
 ---
 
 **[Bitcoin Price Rises. What the Fed Meeting Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-fed-cryptos-xrp-ethereum-eabec824?gaa_at=eafs&gaa_n=AWEtsqfKClUcja3P4D8EBFmTH4PRH4hvht_oUdWfK_XnnRh9ggOO8xYRw1z1&gaa_ts=69b93d88&gaa_sig=9g0Sq69A75VkpaDRnTYOZaJGRongZpx02QWpFKp_BXA9JleTqoMM-kVwshRops4Kseupj_z5qGcjhJE2x5CZYA%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin is under attack again. Politicians and critics are calling it a Ponzi wh
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 84 • ⏱️ 12:22 • 14h ago
+👁️ 22K • 👍 1K • 💬 87 • ⏱️ 12:22 • 15h ago
 
 ---
 
@@ -341,17 +341,7 @@ The only asset besides oil going up right now is Bitcoin. The coin is up 10 perc
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 8K • 👍 441 • 💬 45 • ⏱️ 8:25 • 14h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=W_YasiLxgJ4)**
-
-My march newsletter is out, discussing how risk cascades through markets. You can read it here: ...
-
-📺 Benjamin Cowen
-
-👁️ 54K • 👍 4K • 💬 203 • ⏱️ 15:27 • 12h ago
+👁️ 8K • 👍 467 • 💬 49 • ⏱️ 8:25 • 15h ago
 
 ---
 
@@ -361,7 +351,17 @@ Ran breaks down why Bitcoin is holding strong despite war headlines and rising o
 
 📺 Crypto Banter
 
-👁️ 24K • 👍 2K • 💬 74 • ⏱️ 25:40 • 21h ago
+👁️ 24K • 👍 2K • 💬 76 • ⏱️ 25:40 • 21h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=W_YasiLxgJ4)**
+
+My march newsletter is out, discussing how risk cascades through markets. You can read it here: ...
+
+📺 Benjamin Cowen
+
+👁️ 63K • 👍 5K • 💬 236 • ⏱️ 15:27 • 13h ago
 
 ---
 
@@ -371,7 +371,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 207 • ⏱️ 48:22 • 20h ago
+👁️ 22K • 👍 1K • 💬 208 • ⏱️ 48:22 • 21h ago
 
 ---
 
@@ -381,27 +381,17 @@ Gold vs Bitcoin is looking interesting. Check out Ledn: https://aaronbtc.com/led
 
 📺 Aaron Bennett
 
-👁️ 11K • 👍 543 • 💬 76 • ⏱️ 5:43 • 1d ago
+👁️ 11K • 👍 543 • 💬 79 • ⏱️ 5:43 • 1d ago
 
 ---
 
-**[The Fed Setup for Bitcoin’s Next Run](https://www.youtube.com/watch?v=oK1Azot7j9w)**
+**[The REAL Reason Bitcoin Just Silently Rallied to $74k (Not what you think)](https://www.youtube.com/watch?v=Tg7DNFQLHvs)**
 
-Bitcoin is sitting near $69K while gold is exploding and central banks are buying hard assets. The answer is simpler than most ...
+Michael Saylor is creating a Silent Bitcoin supply shock which is quietly accelerating.
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 74 • ⏱️ 17:22 • 1d ago
-
----
-
-**[RETAIL EMOTION + TECHNICAL ANALYSIS: The Exact Signals Pointing Bitcoin to $85k 🚀](https://www.youtube.com/watch?v=KNYYX9GiBHQ)**
-
-The stock market is rolling over into a massive distribution phase, but the crypto market is showing unbelievable relative strength.
-
-📺 Gareth Soloway
-
-👁️ 45K • 👍 3K • 💬 381 • ⏱️ 10:09 • 16h ago
+👁️ 8K • 👍 376 • 💬 43 • ⏱️ 1:13:50 • 17h ago
 
 ---
 
@@ -411,7 +401,7 @@ Kyledoops has outlined the potential for a Bitcoin trap to occur by the 18th of 
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 688 • 💬 8 • ⏱️ 25:20 • 4h ago
+👁️ 10K • 👍 1K • 💬 18 • ⏱️ 25:20 • 4h ago
 
 ---
 
@@ -422,6 +412,16 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 📺 Altcoin Daily
 
 👁️ 59K • 👍 3K • 💬 247 • ⏱️ 10:40 • 1d ago
+
+---
+
+**[RETAIL EMOTION + TECHNICAL ANALYSIS: The Exact Signals Pointing Bitcoin to $85k 🚀](https://www.youtube.com/watch?v=KNYYX9GiBHQ)**
+
+The stock market is rolling over into a massive distribution phase, but the crypto market is showing unbelievable relative strength.
+
+📺 Gareth Soloway
+
+👁️ 47K • 👍 4K • 💬 383 • ⏱️ 10:09 • 17h ago
 
 ---
 

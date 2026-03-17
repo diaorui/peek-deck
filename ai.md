@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-17T11:25:29.733245+00:00'
+updated: '2026-03-17T12:02:18.862893+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 17, 2026 at 11:25 UTC  
+**Last Updated:** March 17, 2026 at 12:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
 
-🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 21h ago
+🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 22h ago
 
 ---
 
@@ -49,7 +49,7 @@ The massive crowdsourcing effort could use real-world to help robots deliver piz
 
 I built a pipeline where 5 AI models (Claude, GPT-4o, Gemini, Grok, DeepSeek) independently assess the probability of 30+ crisis scenarios twice daily. None of them see the others' outputs. An orchestrator synthesizes their reasoning into final projections. Some observations after 15 days of continuous operation: The models frequently disagree, sometimes by 25+ points. Grok tends to run hot on scenarios with OSINT signals. The orchestrator has to resolve these tensions every cycle. The models anchored to their own previous outputs when shown current probabilities, so I made them blind. Named rules in prompts became shortcuts the models cited instead of actually reasoning. Google Search grounding prevented source hallucination but not content hallucination, the model fabricated a $138 oil price while correctly citing Bloomberg as the source. Three active theaters: Iran, Taiwan, AGI. A Black Swan tab pulls the high-severity low-probability scenarios across all of them. devblog at /blog covers the prompt engineering insights and mistakes I've encountered along the way in detail. doomclock.app
 
-16h ago
+17h ago
 
 ---
 
@@ -73,7 +73,7 @@ Open source: https://github.com/htdt/godogen
 
 In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.
 
-21h ago
+22h ago
 
 ---
 
@@ -113,7 +113,7 @@ Most discussions about AI agents focus on planning, memory, or tool use. But man
 
 I have MS, so I've never really been able to play instruments. I can't sing. So music was just something I fantasized about. I was always making songs in my head, they just never went anywhere. First I used AI to make songs for my nieces and nephews. Next I started making songs for myself. Then I got high while manic and out poured several songs. One of the songs is about being bipolar. The first one I made was for my 7 year old niece. It's bubble gum pop, that's what she likes. I was hoping my niece would be able to ask her alexa to play her song, but there is a song with a similar name which has millions of plays, so that will never happen 🙃 After that, I had to make songs for her siblings. Then I had to make songs for my brother's kids... Unfortunately I got better at it as I went so I think the last kid's song is better than the first kid's song. But they can't tell. I make little videos with them when they come over, so I'm gonna make music video's with the kids at some point so they'll always have their own custom song they can show their friends. I won't post any links, not trying to self promote, just wanted to share that this was sort of therapeutic for me. I know the tech is controversial, but I'm a fan of AI
 
-21h ago
+22h ago
 
 ---
 
@@ -133,13 +133,13 @@ BBC • 11h ago
 
 Numerous faked images and a string of startlingly inaccurate responses from Gemini and Grok are part of a tidal wave of AI slop engulfing coverage of the Iran war
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
 **[Exclusive: Cybersecurity startup Surf AI raises $57M](https://www.axios.com/pro/enterprise-software-deals/2026/03/17/cybersecurity-surf-ai-agents-57m)**
 
-Axios • 30m ago
+Axios • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ WSJ • 7h ago
 
 **[Alibaba AI Takes Aim at Silent Liver Epidemic](https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease)**
 
-Bloomberg.com • 23m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 1h ago
 
 NVIDIA DLSS 5 infuses pixels with photorealistic lighting and materials to bridge the gap between rendering and reality.
 
-NVIDIA • 16h ago
+NVIDIA • 17h ago
 
 ---
 
@@ -187,7 +187,7 @@ The New York Times • 1d ago
 
 Lawmakers say the new version of the Seedance AI video-generation app violates copyright and intellectual property laws.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -237,7 +237,7 @@ Airbus is working at full throttle to offer the German Air Force an operational 
 
 NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose-built for the age of agentic AI and reinforcement learning — delivering results with twice the efficiency and 50% faster than traditional rack-scale CPUs.
 
-⬆️ 159 • 💬 92 • 15h ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
+⬆️ 159 • 💬 92 • 16h ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
 
 ---
 
@@ -253,7 +253,7 @@ Define, version, and run AI agents natively in git. GitAgent is the open AI agen
 
 TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.
 
-⬆️ 130 • 💬 110 • 19h ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+⬆️ 130 • 💬 110 • 20h ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 
 ---
 
@@ -281,7 +281,7 @@ Top AI researchers are walking away from some of the most powerful tech companie
 
 📺 The Infographics Show
 
-👁️ 144K • 👍 4K • 💬 721 • ⏱️ 14:48 • 11h ago
+👁️ 169K • 👍 5K • 💬 814 • ⏱️ 14:48 • 11h ago
 
 ---
 
@@ -291,17 +291,7 @@ Google DeepMind's AlphaEvolve just broke long-standing mathematical records by e
 
 📺 AI Revolution
 
-👁️ 18K • 👍 648 • 💬 41 • ⏱️ 10:41 • 13h ago
-
----
-
-**[This FREE AI Video Tool Is Now UNLIMITED (No Watermark)](https://www.youtube.com/watch?v=dnSlTlg8vRo)**
-
-Generate watermark-free 4K cinematic AI videos with Higgsfield → https://higgsfield.ai/s/general-malvaai-qPzcPM Grab the ...
-
-📺 Malva AI
-
-👁️ 8K • 👍 343 • 💬 71 • ⏱️ 8:25 • 23h ago
+👁️ 21K • 👍 702 • 💬 41 • ⏱️ 10:41 • 13h ago
 
 ---
 
@@ -311,27 +301,27 @@ Meta Platforms is reportedly considering laying off over 20% of its workforce. T
 
 📺 Eurodollar University
 
-👁️ 55K • 👍 2K • 💬 142 • ⏱️ 19:11 • 12h ago
+👁️ 64K • 👍 2K • 💬 162 • ⏱️ 19:11 • 12h ago
 
 ---
 
-**[10 Claude AI Skills That Will Save You 20+ Hours a Week (Full Power User Guide)](https://www.youtube.com/watch?v=ADByNXt2ouY)**
+**[This FREE AI Video Tool Is Now UNLIMITED (No Watermark)](https://www.youtube.com/watch?v=dnSlTlg8vRo)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *These ...
+Generate watermark-free 4K cinematic AI videos with Higgsfield → https://higgsfield.ai/s/general-malvaai-qPzcPM Grab the ...
 
-📺 Julia McCoy
+📺 Malva AI
 
-👁️ 15K • 👍 760 • 💬 40 • ⏱️ 16:22 • 1d ago
+👁️ 8K • 👍 353 • 💬 71 • ⏱️ 8:25 • 23h ago
 
 ---
 
-**[Cute or Creepy? AI Fruit Babies 🍓👶 | The Strangely Satisfying AI ASMR](https://www.youtube.com/watch?v=f_gcmtfLBIk)**
+**[BREAKING: Netanyahu Really DEAD? Disappearing Ring in Viral Video Fuels Wild AI Claims](https://www.youtube.com/watch?v=jZjayi4clfY)**
 
-Cute Fruit Babies Eating Fruit | Oddly Satisfying AI Welcome to a strange but relaxing AI world with @AI_DREAM_ASMRR.
+A fresh storm has erupted online after a new video of Israeli Prime Minister Benjamin Netanyahu appeared on X, just as viral ...
 
-📺 AI DREAM ASMR
+📺 midday india
 
-👁️ 80K • 👍 6K • 💬 369 • ⏱️ 2:34 • 2d ago
+👁️ 5K • 👍 42 • 💬 16 • ⏱️ 3:31 • 7h ago
 
 ---
 
@@ -341,27 +331,17 @@ What is financial freedom? The Business Strategist Daniel Priestley on why AI ma
 
 📺 The Diary Of A CEO
 
-👁️ 625K • 👍 16K • 💬 3K • ⏱️ 2:02:37 • 1d ago
+👁️ 660K • 👍 16K • 💬 3K • ⏱️ 2:02:37 • 1d ago
 
 ---
 
-**[Zendaya on Tom Holland A.I. Wedding Pics, Robert Pattinson Lying &amp; Seeing the New Spider-Man](https://www.youtube.com/watch?v=2hMXEyplSlQ)**
+**[10 Claude AI Skills That Will Save You 20+ Hours a Week (Full Power User Guide)](https://www.youtube.com/watch?v=ADByNXt2ouY)**
 
-Zendaya talks about presenting at the Oscars, Robert Pattinson admitting he's a pathological liar, watching him in Twilight right ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *These ...
 
-📺 Jimmy Kimmel Live
+📺 Julia McCoy
 
-👁️ 85K • 👍 5K • 💬 233 • ⏱️ 13:12 • 5h ago
-
----
-
-**[Justice League VS. AI](https://www.youtube.com/watch?v=2qjpBuPonmI)**
-
-The Justice League face off against Lex Luthor and his greatest scheme yet, or lack there of. Lex shows off his new Artificial Luthor ...
-
-📺 Solid jj
-
-👁️ 341K • 👍 42K • 💬 2K • ⏱️ 3:27 • 2d ago
+👁️ 16K • 👍 772 • 💬 40 • ⏱️ 16:22 • 1d ago
 
 ---
 
@@ -371,7 +351,27 @@ ssh terminal.shop CHECK OUT THEIR NEW PODCAST ON CASEY'S YOUTUBE: @MollyRocket A
 
 📺 The PrimeTime
 
-👁️ 137K • 👍 3K • 💬 691 • ⏱️ 42:21 • 2d ago
+👁️ 139K • 👍 3K • 💬 690 • ⏱️ 42:21 • 2d ago
+
+---
+
+**[Justice League VS. AI](https://www.youtube.com/watch?v=2qjpBuPonmI)**
+
+The Justice League face off against Lex Luthor and his greatest scheme yet, or lack there of. Lex shows off his new Artificial Luthor ...
+
+📺 Solid jj
+
+👁️ 343K • 👍 42K • 💬 2K • ⏱️ 3:27 • 2d ago
+
+---
+
+**[AI Boyfriends Are Taking Over Dating](https://www.youtube.com/watch?v=kHMx2gTKavE)**
+
+What do you think about the rise of AI Boyfriends? Second Channel: @itsAntiAustin Insta: ...
+
+📺 Austin Green
+
+👁️ 2K • 👍 109 • 💬 41 • ⏱️ 38:42 • 16h ago
 
 ---
 
@@ -387,7 +387,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 7,003 • ❤️ 542 • 5d ago
+⬇️ 7,003 • ❤️ 548 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 78,794 • ❤️ 779 • 9d ago
+⬇️ 78,794 • ❤️ 797 • 9d ago
 
 ---
 
@@ -411,7 +411,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 111,716 • ❤️ 414 • 6d ago
+⬇️ 111,716 • ❤️ 420 • 6d ago
 
 ---
 
@@ -423,7 +423,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 8,716 • ❤️ 255 • 4d ago
+⬇️ 8,716 • ❤️ 261 • 4d ago
 
 ---
 
@@ -435,19 +435,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 254,662 • ❤️ 499 • 13d ago
-
----
-
-**[LTX-2.3](https://huggingface.co/Lightricks/LTX-2.3)**
-
-*Lightricks*
-
-LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs, including images and text. It offers improved visual and audio quality, enhanced prompt adherence, and supports local execution with open weights.
-
-`image-to-video`
-
-⬇️ 644,452 • ❤️ 655 • 1d ago
+⬇️ 254,662 • ❤️ 507 • 13d ago
 
 ---
 
@@ -459,19 +447,19 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 36,759 • ❤️ 230 • 2d ago
+⬇️ 36,759 • ❤️ 232 • 2d ago
 
 ---
 
-**[Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)**
+**[LTX-2.3](https://huggingface.co/Lightricks/LTX-2.3)**
 
-*Qwen*
+*Lightricks*
 
-Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient hybrid architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a unified vision-language foundation and a long context window (262k tokens natively), making it suitable for complex multimodal applications.
+LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs, including images and text. It offers improved visual and audio quality, enhanced prompt adherence, and supports local execution with open weights.
 
-`image-text-to-text` `9.7B`
+`image-to-video`
 
-⬇️ 2,271,977 • ❤️ 878 • 15d ago
+⬇️ 644,452 • ❤️ 656 • 1d ago
 
 ---
 
@@ -483,7 +471,19 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 36,677 • ❤️ 209 • 3d ago
+⬇️ 36,677 • ❤️ 210 • 3d ago
+
+---
+
+**[Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)**
+
+*Qwen*
+
+Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient hybrid architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a unified vision-language foundation and a long context window (262k tokens natively), making it suitable for complex multimodal applications.
+
+`image-text-to-text` `9.7B`
+
+⬇️ 2,271,977 • ❤️ 880 • 15d ago
 
 ---
 
@@ -549,7 +549,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 EvoScientist is an adaptive multi-agent framework that enhances scientific discovery by continuously learning from past interactions through persistent memory modules.
 
-▲ 7 • 💬 5 • ⭐ 545 • 8d ago
+▲ 10 • 💬 5 • ⭐ 637 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08127) • [💻 code](https://github.com/EvoScientist/EvoScientist)
 
@@ -622,7 +622,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 OASIS is a scalable and generalizable social media simulator that models large-scale user interactions and replicates complex social phenomena across platforms.
 
-▲ 1 • 💬 0 • ⭐ 3,349 • 16mo ago
+▲ 1 • 💬 0 • ⭐ 3,401 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2411.11581) • [💻 code](https://github.com/camel-ai/oasis)
 
@@ -638,7 +638,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 39.3k • 🔱 5.4k • 16h ago
+⭐ 39.5k • 🔱 5.5k • 17h ago
 
 ---
 
@@ -648,7 +648,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.0k • 🔱 976 • 3d ago
+⭐ 21.1k • 🔱 979 • 3d ago
 
 ---
 
@@ -658,7 +658,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.4k • 🔱 1.5k • 2h ago
+⭐ 12.4k • 🔱 1.5k • 11m ago
 
 ---
 
@@ -668,7 +668,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.3k • 🔱 951 • 21h ago
+⭐ 10.4k • 🔱 957 • 21h ago
 
 ---
 
@@ -678,7 +678,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.6k • 🔱 693 • 1d ago
+⭐ 9.6k • 🔱 694 • 1h ago
 
 ---
 
@@ -688,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 8.1k • 🔱 387 • 1d ago
+⭐ 8.2k • 🔱 389 • 1d ago
 
 ---
 
@@ -698,7 +698,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.4k • 🔱 760 • 9h ago
+⭐ 6.4k • 🔱 761 • 10h ago
 
 ---
 
@@ -708,7 +708,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 3.4k • 🔱 250 • 1d ago
+⭐ 3.5k • 🔱 254 • 1d ago
 
 ---
 
