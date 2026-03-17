@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-17T15:01:18.034021+00:00'
+updated: '2026-03-17T16:39:07.624450+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 15:01 UTC  
+**Last Updated:** March 17, 2026 at 16:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +14.5%  
-**30d:** +17.5%  
-**90d:** -16.8%  
-**1y:** +21.8%  
+**24h:** +0.4%  
+**7d:** +13.3%  
+**30d:** +16.3%  
+**90d:** -17.6%  
+**1y:** +20.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 1h ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Determinist
 
 Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about wrapped bitcoin (WBTC) on the ethereum chain, wondering if you guys are using it/what's your opinion on it?
 
-10h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Ethereum is setting up for a post-stewardship world
 
-🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 36m ago
+🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Ethereum is setting up for a post-stewardship world
 
 I built an Ethereum squeeze dashboard to see where we stand with the inevitable squeeze. I wanted it to show me when I could still write covered calls against my long positions. At below 75 I can still write calls Last week it was at 73, today its at 81.5 Overview. Above 75 means no covered call writing against the stock https://preview.redd.it/50srshmefgpg1.png?width=908&format=png&auto=webp&s=6047acd5a759d239603c9885546c15805738ac9a https://preview.redd.it/wzo3cyzifgpg1.png?width=924&format=png&auto=webp&s=ccd2b561371446b3cb389d3bff287d0f4a9049f0
 
-20h ago
+21h ago
 
 ---
 
@@ -128,7 +128,7 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 What crypto founders have the biggest peenys? Does Anatoly have a big one? Is Richard Hart holding a tiny tinkler? Is Pasternak packing? All of us have thought about this many times but now is a chance to really get into it and discuss what we all want to know, maybe there’s a guy or girl in the sub that knows the answer to all of these from actual experience and is ready to put rumors to rest. Let’s keep it civil and talk about dingdongs in an adult manner ultimately using this data as another point of confluence to fill out bags, remember no shaming ok guys?!
 
-7h ago
+8h ago
 
 ---
 
@@ -160,33 +160,31 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqdMt9rKTbOwD9UVWegRU3fDFfP8GOsdJ8pX4GtQnZ8yYkedg6BkcikH&gaa_ts=69b97029&gaa_sig=jf4v8m4p-MkLU9pZfg7oXDKkvwevbCYJOWROE_LRVI8yu99ZN3UTLy_wn9YPKvw9ZDdUD6XzOgLXjTlsr-x1dg%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqdqWgz5jd6oGYIfH15YAcyavL2e3TXdIA_eiO9Y5qVMohanSz48C8I2&gaa_ts=69b98717&gaa_sig=T5YVMICn4IP7Mia_e4a7pC3GfWK5EVfgvvO-4CjdiyAkGBuOBFRR12itSDLyoAM7jpUbFlx4Pw5m6_yYYqDhCA%3D%3D)**
 
-Barron's • 18h ago
-
----
-
-**[Ethereum is outperforming the S&P 500, but Fed meeting will either puncture or fuel the price rally, analyst says](https://finance.yahoo.com/news/ethereum-outperforming-p-500-fed-115119178.html)**
-
-Ethereum is one of the best-performing assets in March, analysts say. Bitmine, BlackRock deepen their bets on the blockchain. Bitmine buys indirect stake in OpenAI ahead of 2026 IPO.
-
-Yahoo Finance • 3h ago
+Barron's • 20h ago
 
 ---
 
-**[Myriad Traders Flip Bullish on Ethereum Amid Rebound to $2,300](https://finance.yahoo.com/news/myriad-traders-flip-bullish-ethereum-115021846.html)**
+**[Ethereum bulls clash over manifesto ‘180’ that reaffirms cypherpunk ideals](https://www.dlnews.com/articles/defi/ethereum-bulls-clash-over-new-manifesto-that-reaffirms-cypherpunk-ideals/)**
 
-ETH rallied with fresh inflows and treasury-buying support, while users on prediction market Myriad have shifted bullish.
+Ethereum Foundation releases a new manifesto. It reaffirms the nonprofit's commitment to cypherpunk principles.  Some Ethereum bulls say that's at odds with the blockchain's commercial success.
 
-Yahoo Finance • 3h ago
+dlnews.com • 23m ago
 
 ---
 
-**[KoreInside Launches Interoperability for Public Blockchains Such As Ethereum, Solana, Coinbase to Bring Real-World Asset (RWA) Enablement to the Masses](https://www.usatoday.com/press-release/story/28503/koreinside-launches-interoperability-for-public-blockchains-such-as-ethereum-solana-coinbase-to-bring-real-world-asset-rwa-enablement-to-the-masses/)**
+**[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
+Reuters • 8h ago
 
-USA Today • 1h ago
+---
+
+**[BlackRock launches new ethereum ETF packed with staking rewards](https://finance.yahoo.com/video/blackrock-launches-ethereum-etf-packed-173000503.html)**
+
+BlackRock Head of Digital Assets Robbie Mitchnick joins Julie Hyman to discuss the company's launch of its new ethereum fund — the iShares Staked Ethereum Trust ETF (ETHB) — that lets investors track the cryptocurrency (ETH-USD) and earn staking rewards at the same time.
+
+Yahoo Finance • 23h ago
 
 ---
 
@@ -194,13 +192,15 @@ USA Today • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 45m ago
+Fortune • 2h ago
 
 ---
 
-**[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
+**[KoreInside Launches Interoperability for Public Blockchains Such As Ethereum, Solana, Coinbase to Bring Real-World Asset (RWA) Enablement to the Masses](https://www.usatoday.com/press-release/story/28503/koreinside-launches-interoperability-for-public-blockchains-such-as-ethereum-solana-coinbase-to-bring-real-world-asset-rwa-enablement-to-the-masses/)**
 
-Reuters • 6h ago
+KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
+
+USA Today • 2h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Block • 2d ago
 
 The document quickly sparked debate across the Ethereum community, with supporters saying it reinforces the network’s core principles. Critics, however, argue the mandate signals the foundation intends to take a backseat just as institutional interest in blockchain is accelerating.
 
-CoinDesk • 22h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ CoinDesk • 22h ago
 
 Robert Kiyosaki warns a massive asset bubble could soon burst, predicting an unprecedented market collapse that may propel gold, silver, bitcoin, and
 
-Bitcoin.com News • 15h ago
+Bitcoin.com News • 17h ago
 
 ---
 
@@ -238,7 +238,7 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 📺 Paul Barron Network
 
-👁️ 63K • 👍 3K • 💬 284 • ⏱️ 23:28 • 19h ago
+👁️ 63K • 👍 3K • 💬 284 • ⏱️ 23:28 • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 4K • 👍 482 • 54m ago
+👁️ 4K • 👍 482 • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 447 • 👍 48 • 💬 3 • ⏱️ 5:30 • 1h ago
+👁️ 447 • 👍 48 • 💬 3 • ⏱️ 5:30 • 3h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 179 • 💬 12 • ⏱️ 3:27 • 8h ago
+👁️ 2K • 👍 179 • 💬 12 • ⏱️ 3:27 • 10h ago
 
 ---
 
@@ -298,7 +298,7 @@ YouTube Description: Ethereum's December 2025 Fusaka upgrade was supposed to cut
 
 📺 Crypto Crow
 
-👁️ 3K • 👍 340 • 💬 54 • ⏱️ 22:32 • 16h ago
+👁️ 3K • 👍 340 • 💬 54 • ⏱️ 22:32 • 18h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 243 • 💬 26 • ⏱️ 7:10 • 22h ago
+👁️ 3K • 👍 243 • 💬 26 • ⏱️ 7:10 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ Join my FREE Income ETF Investing Facebook Group: https://www.facebook.com/group
 
 📺 Investing with MattieICE
 
-👁️ 161 • 👍 17 • 💬 19 • ⏱️ 10:57 • 1h ago
+👁️ 161 • 👍 17 • 💬 19 • ⏱️ 10:57 • 3h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN SHORT SQUEEZE CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 312 • 💬 183 • ⏱️ 22:02 • 14h ago
+👁️ 8K • 👍 312 • 💬 183 • ⏱️ 22:02 • 15h ago
 
 ---
 

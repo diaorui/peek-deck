@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-17T15:01:18.037483+00:00'
+updated: '2026-03-17T16:39:07.627683+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 17, 2026 at 15:01 UTC  
+**Last Updated:** March 17, 2026 at 16:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 Incorrectly located in China, when it's actually in California Leila on 𝕏: https://x.com/oranaise/status/2033869874020106710
 
-1h ago
+3h ago
 
 ---
 
@@ -44,13 +44,13 @@ From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 In
 
 Got a lot of feedbacks from last post, thanks a lot! There are many requests about trying uneven terrain, sand, and stairs. The sand was… not a pleasant experience. We heard some worrying rattling sounds after the test, so we’re thinking an enclosure might be necessary to keep the dust and grit out. But for now, here's our current attempt at the stairs! As you can see, still jittery, still leaning, but it jumps. Still a long way to go! We are planning to add perception so it can actually see the stairs and, hopefully, decide when to jump on its own without me babysitting the remote.
 
-50m ago
+2h ago
 
 ---
 
 **[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ Got a lot of feedbacks from last post, thanks a lot! There are many requests abo
 
 From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
 
-5h ago
+7h ago
 
 ---
 
@@ -66,19 +66,7 @@ From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/20336773279186698
 
 Just finished up designing and putting together the lower half of my yet another sg 90 robot. This one feels more refined than others. It's about 20 cm long and for its hip and knee actuators uses modified sg90/mg90s servos, which have had their base plate removed and center hollowed out to save space. I remember a lot of small diy projects before the humanoid robot scene became more "mainstream" so to speak, but I see less small projects and more full scale humanoids nowadays. Here's link with 3d files https://cults3d.com/en/3d-model/various/neoparts-sg90-bipedal-robot
 
-1h ago
-
----
-
-**[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
-
-9h ago
-
----
-
-**[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
-
-22h ago
+2h ago
 
 ---
 
@@ -86,7 +74,7 @@ Just finished up designing and putting together the lower half of my yet another
 
 Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d still run into chair legs, cables, or random small stuff pretty often. Some of the newer ones seem a lot better at this now. Something like the Dreame X60 uses dual AI cameras for object recognition, while Roborock Saros 20 adds AI vision alongside LiDAR to spot obstacles and adjust the path instead of just bumping into things. Feels like avoidance has gotten noticeably better lately. Have others noticed the same in real use?
 
-3h ago
+5h ago
 
 ---
 
@@ -94,15 +82,27 @@ Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d st
 
 I've completed obstacle avoidance for my car using VIOBOT2. The stereo vision depth effect of VIOBOT2 is quite impressive. For those interested, feel free to check out my experimental test video.
 
-54m ago
+2h ago
 
 ---
 
-**[Project LATENT: a humanoid robot who can play tennis with a good hit rate.](https://www.reddit.com/r/robotics/comments/1rv5fww/project_latent_a_humanoid_robot_who_can_play/)**
+**[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
 
-From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data Project: https://zzk273.github.io/LATENT/ Code: https://github.com/GalaxyGeneralRobotics/LATENT
+10h ago
 
-1d ago
+---
+
+**[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
+
+23h ago
+
+---
+
+**[DIY Vive position tracker - ESP32 C3](https://www.reddit.com/r/robotics/comments/1rwagsa/diy_vive_position_tracker_esp32_c3/)**
+
+Hey everyone, I am currently developing a custom tracker using my old lighthouse trackers from a VR headset (HTC vive). The end goal is tracking small robots indoors for ~$10-15 per unit. For that I built a custom PCB in the simplest way possible, as I am still quite a beginner in electronics. I am using BPW-34 photodiodes - they have no IR filter built in, so i'm using floppy disk film as a cheap IR bandpass which works surprisingly well. The board is put into a small 3D printed case that will be placed on my robots (I intend to have multiples in an arena). But even with just that a very basic tracking that captures the laser pulses from the lighthouse worked! For the future I will try to use at least 3 sensors to be able to position objects in space as well. I was quite surprised that this even worked.
+
+44m ago
 
 ---
 
@@ -110,19 +110,19 @@ From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LA
 
 ## Google News: "robotics"
 
+**[NVIDIA Announces Open Physical AI Data Factory Blueprint to Accelerate Robotics, Vision AI Agents and Autonomous Vehicle Development](http://nvidianews.nvidia.com/news/nvidia-announces-open-physical-ai-data-factory-blueprint-to-accelerate-robotics-vision-ai-agents-and-autonomous-vehicle-development)**
+
+NVIDIA today announced the NVIDIA Physical AI Data Factory Blueprint, an open reference architecture that unifies and automates how training data is generated, augmented and evaluated, reducing the costs, time and complexity of training physical AI systems at scale.
+
+NVIDIA Newsroom • 19h ago
+
+---
+
 **[Memories AI is building the visual memory layer for wearables and robotics](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)**
 
 Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.
 
-TechCrunch • 18h ago
-
----
-
-**[Disney and Nvidia Combine on Robotics and AI to Bring Olaf Robot to Life](https://www.cnet.com/tech/services-and-software/embo-olaf-droid-combines-disney-and-nvidia-robotics-and-ai/)**
-
-This free-roaming snowman droid is coming to overseas Disney theme parks.
-
-CNET • 17h ago
+TechCrunch • 20h ago
 
 ---
 
@@ -130,29 +130,21 @@ CNET • 17h ago
 
 CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-CNBC • 6h ago
+CNBC • 7h ago
+
+---
+
+**[Watch: Wall-climbing AI robots inspect Navy warships to speed repairs amid China fleet surge](https://www.foxnews.com/video/6390792906112)**
+
+See how advanced robotics are scaling destroyers and amphibious ships to detect structural problems faster than traditional methods — part of a new $71 million Navy initiative to boost readiness and cut maintenance delays. (Credit: Gecko Robotics)
+
+Fox News • 4h ago
 
 ---
 
 **[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
 
-Bloomberg.com • 5h ago
-
----
-
-**[Gecko Robotics lands the largest U.S. Navy robotics deal yet](https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/)**
-
-Gecko Robotics inked a five-year deal to help the U.S. Navy monitor and predict needed maintenance on its fleet of ships.
-
-TechCrunch • 5h ago
-
----
-
-**[NVIDIA and Global Robotics Leaders Take Physical AI to the Real World](http://nvidianews.nvidia.com/news/nvidia-and-global-robotics-leaders-take-physical-ai-to-the-real-world)**
-
-NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power production-scale physical AI. NVIDIA also unveiled new NVIDIA Isaac™ simulation frameworks and new NVIDIA Cosmos™ and NVIDIA Isaac GR00T open models for the industry to develop, train and deploy the next generation of intelligent robots.
-
-NVIDIA Newsroom • 18h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -160,7 +152,15 @@ NVIDIA Newsroom • 18h ago
 
 A Sam Altman-backed company called Coco Robotics will tap an AI model that uses 30+ billion images captured by the game's users.
 
-Morning Brew • 10h ago
+Morning Brew • 12h ago
+
+---
+
+**[Walt Disney Imagineering’s Robotic Character Olaf Makes Appearance at NVIDIA GTC](https://disneyexperiences.com/nvidia-gtc-olaf-robotic-character/)**
+
+Olaf, the self-walking robotic character created by Walt Disney Imagineering Research & Development, appeared at this year’s NVIDIA GTC, the biggest AI conference of the year for developers, researchers, and business leaders.
+
+Disney Experiences • 19h ago
 
 ---
 
@@ -168,21 +168,21 @@ Morning Brew • 10h ago
 
 ST. JOHN’S, NEWFOUNDLAND, March 17, 2026 /GLOBE NEWSWIRE/ — Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces approximately $24 million in new orders to over 10 customers across five countries, including three new defence customers. The orders are for Kraken’s SeaPower batteries, KATFISH towed synthetic aperture sonar (SAS), and Kraken SAS. […]
 
-Kraken Robotics • 3h ago
+Kraken Robotics • 5h ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqdlc7VGt3m190LPCntbBEgUFxy4LE8Zv0Rn7kyvHcmjY-I4lqrZ22EU&gaa_ts=69b9702d&gaa_sig=NY1s6A80Ol6vYTHF_YBvu3BPhjpit8AHDr3VDDM8OyczAi76Gv5mZD5uY4OG5chmTEBBCtSRkxgyUTC_XeNfug%3D%3D)**
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqcJ4zyKX_kceln4CQnaR_G7_C7Rc9sa86FPy7Yap3jrI16o3s9oN2DE&gaa_ts=69b98718&gaa_sig=qgsCZ1uGTZaoa_7qf6VeIdRPmvoUjkZ4QW7bu9BUiOO8VD3Kep1YUEcHZ5tUCT6AFyRPkxULq93fiTfsZBgjqg%3D%3D)**
 
 WSJ • 2d ago
 
 ---
 
-**[Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs.](https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3)**
+**[Smith Elementary’s VEX IQ robotics team heading to world championship](https://www.therepublic.com/2026/03/17/smith-elementarys-vex-iq-robotics-team-heading-to-world-championship/)**
 
-Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
+A BCSC elementary robotics team over the weekend was crowned state champion in its division, earning a spot in world championship competition in April.
 
-Business Insider • 1d ago
+The Republic News • 12h ago
 
 ---
 
@@ -196,7 +196,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 27K • 👍 343 • 💬 25 • ⏱️ 2:02 • 18h ago
+👁️ 27K • 👍 343 • 💬 25 • ⏱️ 2:02 • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ While everyone's been chasing the perfect humanoid form, a French company called
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 139 • 💬 6 • ⏱️ 24:50 • 13h ago
+👁️ 2K • 👍 139 • 💬 6 • ⏱️ 24:50 • 14h ago
 
 ---
 
@@ -236,7 +236,7 @@ I've generated 100M+ views & helped businesses generate millions with YouTube. F
 
 📺 David Carbutt 
 
-👁️ 11K • 👍 245 • 💬 71 • ⏱️ 9:01 • 5d ago
+👁️ 11K • 👍 245 • 💬 71 • ⏱️ 9:01 • 6d ago
 
 ---
 
@@ -256,7 +256,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 60K • 👍 4K • 💬 683 • ⏱️ 5:32 • 4d ago
+👁️ 60K • 👍 4K • 💬 683 • ⏱️ 5:32 • 5d ago
 
 ---
 
@@ -276,7 +276,7 @@ We got a sneak peek at Disney's newest robotic character Olaf, who will debut at
 
 📺 CNET
 
-👁️ 29K • 👍 718 • 💬 49 • ⏱️ 3:35 • 18h ago
+👁️ 29K • 👍 718 • 💬 49 • ⏱️ 3:35 • 20h ago
 
 ---
 
