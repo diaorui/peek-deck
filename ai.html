@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-17T17:59:21.867088+00:00"
+          "dateModified": "2026-03-17T19:15:55.897005+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -780,6 +780,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rwfaf7/building_ai_agents_taught_me_that_most_safety/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1rwfaf7/building_ai_agents_taught_me_that_most_safety/" target="_blank" onclick="event.stopPropagation();">Building AI agents taught me that most safety problems happen at the execution layer, not the prompt layer. So I built an authorization boundary</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Something I kept running into while experimenting with autonomous agents is that most AI safety discussions focus on the wrong layer. A lot of the conversation today revolves around: • prompt alignment • jailbreaks • output filtering • sandboxing Those things matter, but once agents can interact with real systems, the real risks look different. This is not about AGI alignment or superintelligence scenarios. It is about keeping today’s tool-using agents from accidentally: • burning your API budget • spawning runaway loops • provisioning infrastructure repeatedly • calling destructive tools at the wrong time An agent does not need to be malicious to cause problems. It only needs permission to do things like: • retry the same action endlessly • spawn too many parallel tasks • repeatedly call expensive APIs • chain tool calls in unexpected ways Humans ran into similar issues when building distributed systems. We solved them with things like rate limits, idempotency keys, concurrency limits, and execution guards. That made me wonder if agent systems might need something similar at the execution layer. So I started experimenting with an idea I call an execution authorization boundary. Conceptually it looks like this: proposes action +-------------------------------+ | Agent Runtime | +-------------------------------+ v +-------------------------------+ | Authorization Check | | (policy + current state) | +-------------------------------+ | | ALLOW DENY | | v v +----------------+ +-------------------------+ | Tool Execution | | Blocked Before Execution| +----------------+ +-------------------------+ The runtime proposes an action. A deterministic policy evaluates it against the current state. If allowed, the system emits a cryptographically verifiable authorization artifact. If denied, the action never executes. Example rules might look like: • daily tool budget ≤ $5 • no more than 3 concurrent tool calls • destructive actions require explicit confirmation • replayed actions are rejected I have been experimenting with this model in a small open source project called OxDeAI. It includes: • a deterministic policy engine • cryptographic authorization artifacts • tamper evident audit chains • verification envelopes • runtime adapters for LangGraph, CrewAI, AutoGen, OpenAI Agents and OpenClaw All the demos run the same simple scenario: ALLOW ALLOW DENY verifyEnvelope() => ok Two actions execute. The third is blocked before any side effects occur. There is also a short demo GIF showing the flow in practice. Repo if anyone is curious: https://github.com/AngeYobo/oxdeai Mostly interested in hearing how others building agent systems are handling this layer. Are people solving execution safety with policy engines, capability models, sandboxing, something else entirely, or just accepting the risk for now?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1773772859.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rw8se9/i_built_an_opensource_mcp_server_ai_web_app_for/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -951,39 +984,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rva00k/im_sorry_if_im_late_to_the_party_but_is_there_a/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rva00k/im_sorry_if_im_late_to_the_party_but_is_there_a/" target="_blank" onclick="event.stopPropagation();">I'm sorry if I'm late to the party, but is there a curated website list for AI news that are focused on actual technical news, without taking sides on any of the factions (good vs bad)?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1773669055.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1007,7 +1007,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-17T17:58:55.993933+00:00">Updated 2026-03-17T17:58:55.993933+00:00</small>
+        <small data-timestamp="2026-03-17T19:15:33.038396+00:00">Updated 2026-03-17T19:15:33.038396+00:00</small>
     </div>
 </div>
 
@@ -1234,166 +1234,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108278565-1773689551132-gettyimages-2261545336-raa-seedance260216_np5OR.jpeg?v=1773689650&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html" target="_blank" onclick="event.stopPropagation();">Senators tell ByteDance to 'immediately shut down' Seedance AI video app</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Lawmakers say the new version of the Seedance AI video-generation app violates copyright and intellectual property laws.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773738001.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://sports.yahoo.com/mens-college-basketball/article/march-madness-bracket-we-had-ai-pick-every-game-of-the-ncaa-mens-tournament-heres-who-won-015822167.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/.KPNGhX6EqtoadS0SBk8lA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-02/8f67b2f0-180f-11f1-bfff-be4181c35c7a');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://sports.yahoo.com/mens-college-basketball/article/march-madness-bracket-we-had-ai-pick-every-game-of-the-ncaa-mens-tournament-heres-who-won-015822167.html" target="_blank" onclick="event.stopPropagation();">March Madness bracket: We had AI pick every game of the NCAA men's tournament. Here's who won</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Who is the better tourney predictor: man or machine?
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Sports" class="news-favicon">
-                                    <a href="https://sports.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Sports</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773766981.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/now/video/trump-accuses-bbc-of-using-ai-generated-clips-of-him-259472453508', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_03/1773767226689_now_brk_trump_ai_bbc_260317_1920x1080-qhin3s.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nbcnews.com/now/video/trump-accuses-bbc-of-using-ai-generated-clips-of-him-259472453508" target="_blank" onclick="event.stopPropagation();">Trump accuses BBC of using 'AI-generated' clips of him</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            President Trump falsely accused the BBC of using "AI-generated" clips of him in a program at the center of a lawsuit over its editing of his speech on January 6, 2021, before the Capitol riot.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NBC News" class="news-favicon">
-                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773767333.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html" target="_blank" onclick="event.stopPropagation();">Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773769967.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('http://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://iprsoftwaremedia.com/219/files/202603/69b7561c3d6332c06474de08_nvidia-dlss-5/nvidia-dlss-5_7520345c-87e8-4d6a-9227-9a1260d31fc5-prv.jpg');"></div>
@@ -1435,102 +1275,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/03/16/tech/nvidia-jensen-huang-ai-agents', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cdxg15eyv5ko', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2266412179.jpg?c=16x9&q=w_800,c_fill');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/1769/live/09842320-21e8-11f1-a79a-77e93010d956.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnn.com/2026/03/16/tech/nvidia-jensen-huang-ai-agents" target="_blank" onclick="event.stopPropagation();">The world’s most valuable company just sent another signal that AI agents are going to be everywhere</a>
+                            <a href="https://www.bbc.com/news/articles/cdxg15eyv5ko" target="_blank" onclick="event.stopPropagation();">Nvidia faces gamer backlash over 'breakthrough' AI graphics feature</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Tech giant Nvidia, the world’s most valuable company and the poster child of the AI boom, is banking its future on the rise of AI agents.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNN" class="news-favicon">
-                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773693205.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.datacenterknowledge.com/infrastructure/nvidia-debuts-vera-cpu-to-anchor-next-phase-of-ai-infrastructure', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt1683d1ed9857a893/69b9875f6067e40ff7108d30/vera-cpu-rack_copy.jpg?disable=upscale&width=1200&height=630&fit=crop');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.datacenterknowledge.com/infrastructure/nvidia-debuts-vera-cpu-to-anchor-next-phase-of-ai-infrastructure" target="_blank" onclick="event.stopPropagation();">NVIDIA Debuts Vera CPU to Anchor Next Phase of AI Infrastructure</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The new processor signals a shift in AI data center design as orchestration, inference, and real-time execution gain steam.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.datacenterknowledge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Data Center Knowledge" class="news-favicon">
-                                    <a href="https://www.datacenterknowledge.com" target="_blank" onclick="event.stopPropagation();">Data Center Knowledge</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773769943.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/clyz7llp4k2o', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/9161/live/cd79ea20-2216-11f1-b297-95b0a0a8331e.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/clyz7llp4k2o" target="_blank" onclick="event.stopPropagation();">'Many people fooled' by AI wedding pics, says Zendaya</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The star has spoken about the viral images that appeared to show her marrying partner Tom Holland.
+                            Nvidia says the tool will transform game graphics - critics warn it could squeeze out artistic expression.
                         </div>
                         
 
@@ -1550,7 +1308,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773757769.0"></span>
+                                    <span data-timestamp="1773756733.0"></span>
                                 </div>
                                 
                             </div>
@@ -1558,20 +1316,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnn.com/world/africa/ai-artist-african-heritage-malik-afegbua-spc', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/ai-malik-afegbua-rememory-8.jpg?c=16x9&q=w_800,c_fill');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grokashcroft.jpg?quality=90&strip=all&crop=0%2C10.752036702561%2C100%2C78.495926594877&w=1200');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnn.com/world/africa/ai-artist-african-heritage-malik-afegbua-spc" target="_blank" onclick="event.stopPropagation();">This AI artist wants African heritage to ‘live forever’</a>
+                            <a href="https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics" target="_blank" onclick="event.stopPropagation();">DLSS 5 looks like a real-time generative AI filter for video games</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Nigerian artist and filmmaker Malik Afegbua is using AI to preserve Africa’s stories and bring ancient cities to life.
+                            Photoreal or Instagram filter-real?
                         </div>
                         
 
@@ -1581,9 +1339,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNN" class="news-favicon">
-                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Verge" class="news-favicon">
+                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
                                     
                                 </div>
                                 
@@ -1591,7 +1349,245 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773740412.0"></span>
+                                    <span data-timestamp="1773698165.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/tech/security/senator-introduces-bill-draw-red-lines-ai-use-military-rcna263905', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260317-pete-hegseth-elissa-slotkin-vl-1126a-8db750.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nbcnews.com/tech/security/senator-introduces-bill-draw-red-lines-ai-use-military-rcna263905" target="_blank" onclick="event.stopPropagation();">Senator introduces bill to draw red lines limiting AI use by military</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The bill seeks to codify several existing Defense Department guidelines in addition to other limits.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NBC News" class="news-favicon">
+                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773772860.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.sfchronicle.com/tech/article/atlassian-layoffs-san-francisco-22081640.php', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.sfchronicle.com/tech/article/atlassian-layoffs-san-francisco-22081640.php" target="_blank" onclick="event.stopPropagation();">Software giant cuts more than 250 San Francisco jobs in pivot to AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sfchronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="San Francisco Chronicle" class="news-favicon">
+                                    <a href="https://www.sfchronicle.com" target="_blank" onclick="event.stopPropagation();">San Francisco Chronicle</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773767509.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/articles/mississippi-river-mayors-warn-ai-182436974.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/7X9an_Np89pcqYHtQ.Q3rA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/us.abcnews.go.com/3024b13d292efc019a29078add61f809');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.yahoo.com/news/articles/mississippi-river-mayors-warn-ai-182436974.html" target="_blank" onclick="event.stopPropagation();">Mississippi River mayors warn AI, fuel costs and drought are straining key waterway</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The mayors sounded the alarm about the danger of neglecting a key waterway.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo" class="news-favicon">
+                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773771876.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108278565-1773689551132-gettyimages-2261545336-raa-seedance260216_np5OR.jpeg?v=1773689650&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html" target="_blank" onclick="event.stopPropagation();">Senators tell ByteDance to 'immediately shut down' Seedance AI video app</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Lawmakers say the new version of the Seedance AI video-generation app violates copyright and intellectual property laws.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773738001.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/opinions/2026/03/17/ai-canada-europe-strategy-competition/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LOPV35LR2VAZZO74RYOCVUB4X4.jpg&w=1440');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.washingtonpost.com/opinions/2026/03/17/ai-canada-europe-strategy-competition/" target="_blank" onclick="event.stopPropagation();">Opinion | For all but two nations, the AI race is already over</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Middle powers such as Europe and Canada need to get smart about artificial intelligence.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773770419.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/03/17/business/china-ai-agent.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/03/17/business/china-ai-agent.html" target="_blank" onclick="event.stopPropagation();">China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773770451.0"></span>
                                 </div>
                                 
                             </div>
@@ -1619,7 +1615,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-17T17:59:13.204430+00:00">Updated 2026-03-17T17:59:13.204430+00:00</small>
+        <small data-timestamp="2026-03-17T19:15:53.906334+00:00">Updated 2026-03-17T19:15:53.906334+00:00</small>
     </div>
 </div>
 
@@ -1889,7 +1885,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 413</span>
+                                    <span class="post-points">▲ 414</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 595</span>
@@ -1927,7 +1923,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 365</span>
+                                    <span class="post-points">▲ 366</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 292</span>
@@ -1976,10 +1972,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 306</span>
+                                    <span class="post-points">▲ 310</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 534</span>
+                                    <span style="color: #9ca3af;">💬 539</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2074,7 +2070,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 167</span>
+                                    <span class="post-points">▲ 169</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 99</span>
@@ -2123,10 +2119,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 135</span>
+                                    <span class="post-points">▲ 136</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 73</span>
+                                    <span style="color: #9ca3af;">💬 74</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2175,7 +2171,7 @@
                                     <span class="post-points">▲ 132</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 116</span>
+                                    <span style="color: #9ca3af;">💬 120</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2265,7 +2261,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 92</span>
+                                    <span class="post-points">▲ 94</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 88</span>
@@ -2302,7 +2298,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-17T17:58:55.518765+00:00">Updated 2026-03-17T17:58:55.518765+00:00</small>
+        <small data-timestamp="2026-03-17T19:15:32.366396+00:00">Updated 2026-03-17T19:15:32.366396+00:00</small>
     </div>
 </div>
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-17T17:59:22.424986+00:00'
+updated: '2026-03-17T19:15:56.428824+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 17:59 UTC  
+**Last Updated:** March 17, 2026 at 19:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +6.1%  
-**30d:** +8.2%  
-**90d:** -12.7%  
-**1y:** -9.9%  
+**24h:** +0.7%  
+**7d:** +6.5%  
+**30d:** +8.6%  
+**90d:** -12.4%  
+**1y:** -9.6%  
 
 ---
 
@@ -81,37 +81,7 @@ Rank #1
 
 Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework
 
-7h ago
-
----
-
-**[finally hit my first whole coin](https://www.reddit.com/r/Bitcoin/comments/1rvykgw/finally_hit_my_first_whole_coin/)**
-
-been stacking sats for most of this year and just crossed into full bitcoin territory today picked up more during a few different dips along the way which helped me get there faster kinda thought id feel more excited when i reached this point but its more like relief than celebration i guess still pretty cool though especially since i really believe this technology is going somewhere big now time to start working toward that second bitcoin
-
-11h ago
-
----
-
-**[Being behind is not your fault. Staying behind is.](https://www.reddit.com/r/Bitcoin/comments/1rwcxze/being_behind_is_not_your_fault_staying_behind_is/)**
-
-38m ago
-
----
-
-**[Square updates TOS to enable Bitcoin payments by default for most US sellers starting March 30](https://www.reddit.com/r/Bitcoin/comments/1rw9nze/square_updates_tos_to_enable_bitcoin_payments_by/)**
-
-https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
-
-2h ago
-
----
-
-**[Dang it, I miss the boat again!](https://www.reddit.com/r/Bitcoin/comments/1rvy0f9/dang_it_i_miss_the_boat_again/)**
-
-because of waiting for bitcoin to drop some more.
-
-12h ago
+8h ago
 
 ---
 
@@ -119,21 +89,49 @@ because of waiting for bitcoin to drop some more.
 
 Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized shitcoins, straight BTC. It eventuelly makes sense. AI agents need a payment layer with no counterparty risk, no geography, and no permissions required. Bitcoin was built for exactly that.
 
-18m ago
+1h ago
+
+---
+
+**[Being behind is not your fault. Staying behind is.](https://www.reddit.com/r/Bitcoin/comments/1rwcxze/being_behind_is_not_your_fault_staying_behind_is/)**
+
+1h ago
+
+---
+
+**[Square updates TOS to enable Bitcoin payments by default for most US sellers starting March 30](https://www.reddit.com/r/Bitcoin/comments/1rw9nze/square_updates_tos_to_enable_bitcoin_payments_by/)**
+
+https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
+
+3h ago
 
 ---
 
 **[From nearly zero in 2017 to ~1.2 million BTC held by 50+ public companies by 2025.](https://www.reddit.com/r/Bitcoin/comments/1rw6xls/from_nearly_zero_in_2017_to_12_million_btc_held/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Is it reasonable to just allocate 1% to Bitcoin without fully understanding it?](https://www.reddit.com/r/Bitcoin/comments/1rw2ru1/is_it_reasonable_to_just_allocate_1_to_bitcoin/)**
+**[finally hit my first whole coin](https://www.reddit.com/r/Bitcoin/comments/1rvykgw/finally_hit_my_first_whole_coin/)**
 
-Most people don’t have 100 hours to study Bitcoin. This article suggests a simpler approach: Start with 1%, then learn. Curiosity usually follows ownership.
+been stacking sats for most of this year and just crossed into full bitcoin territory today picked up more during a few different dips along the way which helped me get there faster kinda thought id feel more excited when i reached this point but its more like relief than celebration i guess still pretty cool though especially since i really believe this technology is going somewhere big now time to start working toward that second bitcoin
 
-🔗 [Myntad](https://www.myntad.com/1-percent-bitcoin-shortcut/) • 7h ago
+13h ago
+
+---
+
+**[Dang it, I miss the boat again!](https://www.reddit.com/r/Bitcoin/comments/1rvy0f9/dang_it_i_miss_the_boat_again/)**
+
+because of waiting for bitcoin to drop some more.
+
+13h ago
+
+---
+
+**[Bitcoin Histomap: 50 events that shaped Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rw7xs2/bitcoin_histomap_50_events_that_shaped_bitcoin/)**
+
+4h ago
 
 ---
 
@@ -141,13 +139,15 @@ Most people don’t have 100 hours to study Bitcoin. This article suggests a sim
 
 What dex wallet is the most secure currently?
 
-5h ago
+6h ago
 
 ---
 
-**[Bitcoin Histomap: 50 events that shaped Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rw7xs2/bitcoin_histomap_50_events_that_shaped_bitcoin/)**
+**[Is it reasonable to just allocate 1% to Bitcoin without fully understanding it?](https://www.reddit.com/r/Bitcoin/comments/1rw2ru1/is_it_reasonable_to_just_allocate_1_to_bitcoin/)**
 
-3h ago
+Most people don’t have 100 hours to study Bitcoin. This article suggests a simpler approach: Start with 1%, then learn. Curiosity usually follows ownership.
+
+🔗 [Myntad](https://www.myntad.com/1-percent-bitcoin-shortcut/) • 8h ago
 
 ---
 
@@ -155,55 +155,47 @@ What dex wallet is the most secure currently?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC price target cut to $112,000 at Citigroup; ETH trimmed to $3,175](https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls)**
+**[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-The Wall Street investment bank cited slower ETF flows, weak network activity and a narrowing window for U.S. regulatory catalysts.
-
-CoinDesk • 5h ago
+Reuters • 10h ago
 
 ---
 
-**[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4040Q2:0-citigroup-cuts-12-month-bitcoin-ether-targets-as-us-crypto-legislation-stalls/)**
+**[Bitcoin news: BTC gives up early gains, XRP, SOL, DOGE follow suit](https://www.coindesk.com/markets/2026/03/17/bitcoin-s-derivatives-led-rally-is-already-unraveling-prices-are-back-below-usd75-000)**
 
-Citigroup cut its 12-month forecast for bitcoin and ethereum, citing slow U.S. legislative progress that narrows the window for regulatory catalysts expected to boost ETF-driven demand and broader institutional adoption.Progress on U.S. crypto market-structure legislation has stalled in the Senate…
+Bitcoin briefly surged to a six-week high above $75,000 before quickly retreating, underscoring the fragility of the latest rally.
 
-TradingView • 9h ago
-
----
-
-**[Citigroup Cuts Bitcoin and Ethereum Price Targets: Clarity Act to Blame?](https://coinpedia.org/news/citigroup-cuts-bitcoin-and-ethereum-price-targets-clarity-act-to-blame/)**
-
-Three months ago, Citigroup set a $143,000 Bitcoin target and told investors that 2026 was the year US crypto regulation would finally deliver. Today, the
-
-Coinpedia Fintech News • 6h ago
+CoinDesk • 14h ago
 
 ---
 
-**[Bitcoin Surprises as Oasis of Calm While Iran War Jolts Markets](https://www.bloomberg.com/news/articles/2026-03-17/bitcoin-surprises-as-oasis-of-calm-while-iran-war-jolts-markets)**
+**[Facing a crisis, Bitcoin treasury companies need to pivot to survive](https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive)**
 
-Bloomberg.com • 7h ago
+Here, Wellener offers tactics that firms must use to prove they’re more than just a crypto play.
+
+CoinDesk • 2h ago
 
 ---
 
 **[Strategy Faces Key Test It's Failed 3 Times After Big Bitcoin Buy](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
-**[Strategy's (MSTR) 1 millionth bitcoin (BTC): Here's how it could happen this year](https://www.coindesk.com/markets/2026/03/14/the-math-behind-strategy-s-path-to-1-million-bitcoin-by-the-end-of-2026)**
+**[Strategy’s latest massive bitcoin purchase offers insight into its evolving funding model](https://www.coindesk.com/markets/2026/03/17/strategy-s-massive-bitcoin-purchase-offers-insight-into-its-evolving-funding-model)**
 
-The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
+A $1.18 billion preferred stock raise, roughly equivalent to 16,800 BTC, signals a shift away from common stock as dividend obligations top $1 billion.
 
-CoinDesk • 3d ago
+CoinDesk • 3h ago
 
 ---
 
-**[Michael Saylor Pushes Back After Boris Johnson Calls Bitcoin A 'Giant Ponzi Scheme,' Says Crypto Has 'No Issuer, No Promoter'](https://finance.yahoo.com/news/michael-saylor-pushes-back-boris-150011528.html)**
+**[Strategy Makes Biggest Bitcoin Buy Yet in 2026 as Preferred Share Demand Surges](https://finance.yahoo.com/news/strategy-makes-biggest-bitcoin-buy-145710045.html)**
 
-On Friday, Michael Saylor defended Bitcoin after former UK Prime Minister Boris Johnson described cryptocurrencies as a "giant Ponzi scheme" in a column. Boris Johnson Questions Bitcoin's Value In a Daily Mail column, Johnson argued that Bitcoin and other digital...
+Strategy spent $1.57 billion on Bitcoin last week, notching its largest purchase of the year so far amid heightened demand for STRC.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -215,9 +207,29 @@ The Block • 1d ago
 
 ---
 
-**[Wife ‘filmed husband’s passwords to steal £180m in bitcoin’](https://www.thetimes.com/uk/law/article/wife-steal-bitcoin-spy-camera-cz8bxfcph?gaa_at=eafs&gaa_n=AWEtsqdh0ouQ5fSA2XDlR1G_ZQbdGqJAvYE3POIb3k9utWqvmYLqOHszFLbe&gaa_ts=69b999e4&gaa_sig=WmZD9xNeyystytm11-9N5P7G8ygGjqMu9G3qTKTYl7HkWPOZyUZXHRh3W_jGqXAHQGp8I7GWCLiP5SjsIEwiDQ%3D%3D)**
+**[Wife ‘filmed husband’s passwords to steal £180m in bitcoin’](https://www.thetimes.com/uk/law/article/wife-steal-bitcoin-spy-camera-cz8bxfcph?gaa_at=eafs&gaa_n=AWEtsqeBjngK_7PhDBG45ARuQ8mniTyNfRfWQdhXalhbBBkqh2D4-hm9wfS5&gaa_ts=69b9abd8&gaa_sig=-QmntlDZ5uM2TNJCdiFFhNK_qujDsOMtRhNZoKNeKUT5yjLNGyEMVVh0glBnjY93Cfs-mJgDXuDEejlqkuxNmQ%3D%3D)**
 
 The Times • 1d ago
+
+---
+
+**[Betting on 5-minute swings on Bitcoin price are the hot new thing on prediction markets](https://fortune.com/2026/03/16/betting-on-5-minute-swings-on-bitcoin-price-are-the-hot-new-thing-on-prediction-markets/)**
+
+As Kalshi and Polymarket balloon in popularity, so too do quick-hit bets on crypto.
+
+There is a new trend in prediction markets: betting on whether Bitcoin will go up or down in the next five of fifteen minutes. On Polymarket, a five-minute wager on the price of the largest cryptocurrency has garnered more than $60 million in trading volume in a single day, according to Dune Analytics.
+
+The minute-by-minute wagers on Bitcoin highlight the relative simplicity of bets on prediction markets. As opposed to traditional sports betting, which have an array of complex numbers relating to the spread, moneyline, and total points scored, the prediction market interface has a lower barrier to entry. Users can see what percentage of their peers are voting “yes” about a certain wager and how many are voting “no”.
+
+Some 73% of users are betting that Bitcoin will go up in the next five minutes on Polymarket as of Monday at 1 PM ET. After that five minute interval is over at 1:05 PM ET, the platform has a new wager for the next five minutes of Bitcoin’s performance. Kalshi offers bets on whether Bitcoin will go up or down every fifteen minutes. About 37% of users are saying the price will go up between 1:00 PM ET and 1:15 PM ET, but that percentage is changing virtually every second as more people pour in money.
+
+These quick-hit bets reinforce how, on prediction market platforms, users can bet on practically anything. People can put money on whether the U.S. will confirm that aliens exist before 2027, which already has seen about $12 million in transaction volume, or whether Jesus Christ will return this year, which is at $45 million in transaction volume.
+
+Sports are the most popular category to wager on in prediction markets, as they comprise roughly 90% of the bets on Kalshi. Betting on culture has become increasingly popular. Over $120 million was placed on bets about last night’s Oscars on Polymarket and Kalshi, according to Forbes.
+
+Prediction markets received mainstream attention during the 2024 presidential election, when they correctly predicted Donald Trump’s victory, contrary to many national polls. The two leading platforms, Kalshi and Polymarket, are looking to raise money at a $20 billion valuation, according to The Wall Street Journal.
+
+Fortune • 23h ago
 
 ---
 
@@ -225,21 +237,13 @@ The Times • 1d ago
 
 Emergent CEO Mukund Jha says vibe coding is still at 1% of its potential and compares the industry today to bitcoin at $1.
 
-Business Insider • 12h ago
+Business Insider • 14h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://news.ycombinator.com/item?id=47327212)**
-
-The Ivy League school still has more money invested in Bitcoin than any other US stock.
-
-⬆️ 17 • 💬 0 • 6d ago • [Fortune](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)
-
----
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
@@ -307,7 +311,7 @@ The truth about Bitcoin in 2026, Iran, Ethereum, and altcoins! BITUNIX TRADE THE
 
 📺 Lark Davis
 
-👁️ 12K • 👍 708 • 💬 49 • ⏱️ 16:02 • 6h ago
+👁️ 12K • 👍 708 • 💬 49 • ⏱️ 16:02 • 7h ago
 
 ---
 
@@ -317,7 +321,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 842 • 💬 71 • ⏱️ 36:40 • 3h ago
+👁️ 11K • 👍 842 • 💬 71 • ⏱️ 36:40 • 4h ago
 
 ---
 
@@ -327,7 +331,7 @@ Bitcoin is under attack again. Politicians and critics are calling it a Ponzi wh
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 104 • ⏱️ 12:22 • 20h ago
+👁️ 25K • 👍 2K • 💬 104 • ⏱️ 12:22 • 22h ago
 
 ---
 
@@ -347,7 +351,7 @@ On-chain analyst James Check (Checkmate) breaks down Bitcoin's blockchain data l
 
 📺 Natalie Brunell
 
-👁️ 7K • 👍 587 • 💬 66 • ⏱️ 49:25 • 5h ago
+👁️ 7K • 👍 587 • 💬 66 • ⏱️ 49:25 • 6h ago
 
 ---
 
@@ -357,7 +361,7 @@ I called $75K for Bitcoin four days ago. It hit $76K instead - so I was wrong in
 
 📺 Coin Bureau Trading
 
-👁️ 8K • 👍 756 • 💬 88 • ⏱️ 22:53 • 11h ago
+👁️ 8K • 👍 756 • 💬 88 • ⏱️ 22:53 • 12h ago
 
 ---
 
@@ -367,7 +371,7 @@ My march newsletter is out, discussing how risk cascades through markets. You ca
 
 📺 Benjamin Cowen
 
-👁️ 79K • 👍 5K • 💬 263 • ⏱️ 15:27 • 19h ago
+👁️ 79K • 👍 5K • 💬 263 • ⏱️ 15:27 • 20h ago
 
 ---
 
@@ -377,7 +381,7 @@ The only asset besides oil going up right now is Bitcoin. The coin is up 10 perc
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 9K • 👍 507 • 💬 60 • ⏱️ 8:25 • 20h ago
+👁️ 9K • 👍 507 • 💬 60 • ⏱️ 8:25 • 22h ago
 
 ---
 
