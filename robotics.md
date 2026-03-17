@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-17T19:15:56.438053+00:00'
+updated: '2026-03-17T20:03:32.728525+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 17, 2026 at 19:15 UTC  
+**Last Updated:** March 17, 2026 at 20:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 Incorrectly located in China, when it's actually in California Leila on 𝕏: https://x.com/oranaise/status/2033869874020106710
 
-5h ago
+6h ago
 
 ---
 
@@ -50,13 +50,13 @@ Got a lot of feedbacks from last post, thanks a lot! There are many requests abo
 
 **[Jetson-powered Olaf robot at NVIDIA GTC 2026](https://www.reddit.com/r/robotics/comments/1rwberk/jetsonpowered_olaf_robot_at_nvidia_gtc_2026/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +64,7 @@ Got a lot of feedbacks from last post, thanks a lot! There are many requests abo
 
 From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
 
-9h ago
+10h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/20336773279186698
 
 Just finished up designing and putting together the lower half of my yet another sg 90 robot. This one feels more refined than others. It's about 20 cm long and for its hip and knee actuators uses modified sg90/mg90s servos, which have had their base plate removed and center hollowed out to save space. I remember a lot of small diy projects before the humanoid robot scene became more "mainstream" so to speak, but I see less small projects and more full scale humanoids nowadays. Here's link with 3d files https://cults3d.com/en/3d-model/various/neoparts-sg90-bipedal-robot
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Just finished up designing and putting together the lower half of my yet another
 
 Hey everyone, I am currently developing a custom tracker using my old lighthouse trackers from a VR headset (HTC vive). The end goal is tracking small robots indoors for ~$10-15 per unit. For that I built a custom PCB in the simplest way possible, as I am still quite a beginner in electronics. I am using BPW-34 photodiodes - they have no IR filter built in, so i'm using floppy disk film as a cheap IR bandpass which works surprisingly well. The board is put into a small 3D printed case that will be placed on my robots (I intend to have multiples in an arena). But even with just that a very basic tracking that captures the laser pulses from the lighthouse worked! For the future I will try to use at least 3 sensors to be able to position objects in space as well. I was quite surprised that this even worked.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,13 +96,13 @@ I've completed obstacle avoidance for my car using VIOBOT2. The stereo vision de
 
 Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d still run into chair legs, cables, or random small stuff pretty often. Some of the newer ones seem a lot better at this now. Something like the Dreame X60 uses dual AI cameras for object recognition, while Roborock Saros 20 adds AI vision alongside LiDAR to spot obstacles and adjust the path instead of just bumping into things. Feels like avoidance has gotten noticeably better lately. Have others noticed the same in real use?
 
-7h ago
+8h ago
 
 ---
 
 **[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -114,7 +114,7 @@ Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d st
 
 CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 10h ago
 
 NVIDIA today announced the NVIDIA Physical AI Data Factory Blueprint, an open reference architecture that unifies and automates how training data is generated, augmented and evaluated, reducing the costs, time and complexity of training physical AI systems at scale.
 
-NVIDIA Newsroom • 22h ago
+NVIDIA Newsroom • 23h ago
 
 ---
 
@@ -130,7 +130,7 @@ NVIDIA Newsroom • 22h ago
 
 This free-roaming snowman droid is coming to overseas Disney theme parks.
 
-CNET • 21h ago
+CNET • 22h ago
 
 ---
 
@@ -138,7 +138,7 @@ CNET • 21h ago
 
 ST. JOHN’S, NEWFOUNDLAND, March 17, 2026 /GLOBE NEWSWIRE/ — Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces approximately $24 million in new orders to over 10 customers across five countries, including three new defence customers. The orders are for Kraken’s SeaPower batteries, KATFISH towed synthetic aperture sonar (SAS), and Kraken SAS. […]
 
-Kraken Robotics • 7h ago
+Kraken Robotics • 8h ago
 
 ---
 
@@ -160,7 +160,7 @@ WSJ • 2d ago
 
 A BCSC elementary robotics team over the weekend was crowned state champion in its division, earning a spot in world championship competition in April.
 
-The Republic News • 14h ago
+The Republic News • 15h ago
 
 ---
 
@@ -184,7 +184,7 @@ Interesting Engineering • 1d ago
 
 Physical AI is moving from cloud to edge, with industrial robotics leading adoption as AI enables real-time decision-making in machines.
 
-EE Times • 12h ago
+EE Times • 13h ago
 
 ---
 
@@ -198,7 +198,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 31K • 👍 364 • 💬 27 • ⏱️ 2:02 • 22h ago
+👁️ 34K • 👍 372 • 💬 27 • ⏱️ 2:02 • 23h ago
 
 ---
 
@@ -208,7 +208,17 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 87K • 👍 2K • 💬 296 • ⏱️ 49:45 • 3d ago
+👁️ 87K • 👍 2K • 💬 297 • ⏱️ 49:45 • 3d ago
+
+---
+
+**[Gecko Robotics Inks $71 Million Deal With US Navy](https://www.youtube.com/watch?v=82_585LieQY)**
+
+Gecko Robotics announced a $71 million partnership with the US Navy, deploying its AI-powered robots to assess the condition ...
+
+📺 Bloomberg Technology
+
+👁️ 320 • 👍 22 • 💬 1 • ⏱️ 4:39 • 1h ago
 
 ---
 
@@ -222,16 +232,6 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 ---
 
-**[This REAL-LIFE Terminator Robot Just Made Tesla Optimus Look Like a Toy](https://www.youtube.com/watch?v=ZFj--QMIc7s)**
-
-While everyone's been chasing the perfect humanoid form, a French company called Wandercraft quietly built Calvin-40 in just 40 ...
-
-📺 The AI Nexus
-
-👁️ 3K • 👍 149 • 💬 7 • ⏱️ 24:50 • 17h ago
-
----
-
 **[Internet BREAKS w/ World’s Most Advanced AI Robot](https://www.youtube.com/watch?v=cKVkMgAvxu4)**
 
 I've generated 100M+ views & helped businesses generate millions with YouTube. Follow me on Twitter ...
@@ -242,13 +242,23 @@ I've generated 100M+ views & helped businesses generate millions with YouTube. F
 
 ---
 
+**[This REAL-LIFE Terminator Robot Just Made Tesla Optimus Look Like a Toy](https://www.youtube.com/watch?v=ZFj--QMIc7s)**
+
+While everyone's been chasing the perfect humanoid form, a French company called Wandercraft quietly built Calvin-40 in just 40 ...
+
+📺 The AI Nexus
+
+👁️ 3K • 👍 161 • 💬 7 • ⏱️ 24:50 • 18h ago
+
+---
+
 **[Sunday Robotics: The Household Robot We&#39;ve Been Waiting For?](https://www.youtube.com/watch?v=QfBw0gMuhaI)**
 
 I visited @SundayRobotics to see how they're building a household robot that actually works in real homes. Founded by Stanford ...
 
 📺 ZAUEY (Claire Zau)
 
-👁️ 19K • 👍 650 • 💬 60 • ⏱️ 15:48 • 4d ago
+👁️ 19K • 👍 668 • 💬 60 • ⏱️ 15:48 • 4d ago
 
 ---
 
@@ -258,17 +268,7 @@ A robot that looks and moves like a horse? DEEP Robotics created a special editi
 
 📺 DPCcars
 
-👁️ 6K • 👍 59 • 💬 6 • ⏱️ 1:29 • 5d ago
-
----
-
-**[Humanoid Robot Loses It in Front of Customers #robotfail #robotics #robot #airobot](https://www.youtube.com/watch?v=0_ND42ED9Ow)**
-
-This service robot is a handful! Viral footage shows a bipedal robot malfunctioning inside a California hot pot restaurant, refusing ...
-
-📺 Kalil 4.0
-
-👁️ 713 • 👍 21 • 💬 4 • ⏱️ 0:26 • 3h ago
+👁️ 7K • 👍 60 • 💬 6 • ⏱️ 1:29 • 5d ago
 
 ---
 
@@ -278,7 +278,7 @@ Tesla is shifting focus in the US market from Electric Vehicles, to the producti
 
 📺 Inside China Business
 
-👁️ 60K • 👍 4K • 💬 683 • ⏱️ 5:32 • 5d ago
+👁️ 60K • 👍 4K • 💬 684 • ⏱️ 5:32 • 5d ago
 
 ---
 
@@ -288,7 +288,7 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 12K • 👍 559 • 💬 87 • ⏱️ 7:53 • 2d ago
+👁️ 13K • 👍 568 • 💬 87 • ⏱️ 7:53 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-17T19:15:56.428824+00:00'
+updated: '2026-03-17T20:03:32.719168+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 19:15 UTC  
+**Last Updated:** March 17, 2026 at 20:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1491.17B
+**Market Cap:** $1490.47B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
@@ -64,7 +64,7 @@ Rank #1
 -40.9%
 
 **All-Time Low:** $67.81
-+109786.4%
++109733.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework
 
-8h ago
+9h ago
 
 ---
 
@@ -89,13 +89,13 @@ Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate
 
 Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized shitcoins, straight BTC. It eventuelly makes sense. AI agents need a payment layer with no counterparty risk, no geography, and no permissions required. Bitcoin was built for exactly that.
 
-1h ago
+2h ago
 
 ---
 
 **[Being behind is not your fault. Staying behind is.](https://www.reddit.com/r/Bitcoin/comments/1rwcxze/being_behind_is_not_your_fault_staying_behind_is/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -103,13 +103,13 @@ Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized s
 
 https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
 
-3h ago
+4h ago
 
 ---
 
 **[From nearly zero in 2017 to ~1.2 million BTC held by 50+ public companies by 2025.](https://www.reddit.com/r/Bitcoin/comments/1rw6xls/from_nearly_zero_in_2017_to_12_million_btc_held/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -125,13 +125,13 @@ been stacking sats for most of this year and just crossed into full bitcoin terr
 
 because of waiting for bitcoin to drop some more.
 
-13h ago
+14h ago
 
 ---
 
 **[Bitcoin Histomap: 50 events that shaped Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rw7xs2/bitcoin_histomap_50_events_that_shaped_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ because of waiting for bitcoin to drop some more.
 
 What dex wallet is the most secure currently?
 
-6h ago
+7h ago
 
 ---
 
@@ -147,7 +147,7 @@ What dex wallet is the most secure currently?
 
 Most people don’t have 100 hours to study Bitcoin. This article suggests a simpler approach: Start with 1%, then learn. Curiosity usually follows ownership.
 
-🔗 [Myntad](https://www.myntad.com/1-percent-bitcoin-shortcut/) • 8h ago
+🔗 [Myntad](https://www.myntad.com/1-percent-bitcoin-shortcut/) • 9h ago
 
 ---
 
@@ -157,7 +157,7 @@ Most people don’t have 100 hours to study Bitcoin. This article suggests a sim
 
 **[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 10h ago
 
 Bitcoin briefly surged to a six-week high above $75,000 before quickly retreating, underscoring the fragility of the latest rally.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -173,13 +173,13 @@ CoinDesk • 14h ago
 
 Here, Wellener offers tactics that firms must use to prove they’re more than just a crypto play.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Strategy Faces Key Test It's Failed 3 Times After Big Bitcoin Buy](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -187,7 +187,7 @@ Investor's Business Daily • 7h ago
 
 A $1.18 billion preferred stock raise, roughly equivalent to 16,800 BTC, signals a shift away from common stock as dividend obligations top $1 billion.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -229,7 +229,7 @@ Sports are the most popular category to wager on in prediction markets, as they 
 
 Prediction markets received mainstream attention during the 2024 presidential election, when they correctly predicted Donald Trump’s victory, contrary to many national polls. The two leading platforms, Kalshi and Polymarket, are looking to raise money at a $20 billion valuation, according to The Wall Street Journal.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -237,7 +237,7 @@ Fortune • 23h ago
 
 Emergent CEO Mukund Jha says vibe coding is still at 1% of its potential and compares the industry today to bitcoin at $1.
 
-Business Insider • 14h ago
+Business Insider • 15h ago
 
 ---
 
@@ -311,7 +311,7 @@ The truth about Bitcoin in 2026, Iran, Ethereum, and altcoins! BITUNIX TRADE THE
 
 📺 Lark Davis
 
-👁️ 12K • 👍 708 • 💬 49 • ⏱️ 16:02 • 7h ago
+👁️ 14K • 👍 795 • 💬 52 • ⏱️ 16:02 • 8h ago
 
 ---
 
@@ -321,27 +321,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 842 • 💬 71 • ⏱️ 36:40 • 4h ago
-
----
-
-**[Bitcoin Ownership is Changing FAST. Should You Be Worried?](https://www.youtube.com/watch?v=pGeECOBSMjc)**
-
-Bitcoin is under attack again. Politicians and critics are calling it a Ponzi while institutions and governments accumulate more ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 104 • ⏱️ 12:22 • 22h ago
-
----
-
-**[the biggest bitcoin TRAP of 2026 is LOADING....](https://www.youtube.com/watch?v=FBWPPqb9wv0)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 14K • 👍 858 • 💬 300 • ⏱️ 12:12 • 1d ago
+👁️ 13K • 👍 926 • 💬 81 • ⏱️ 36:40 • 5h ago
 
 ---
 
@@ -351,7 +331,37 @@ On-chain analyst James Check (Checkmate) breaks down Bitcoin's blockchain data l
 
 📺 Natalie Brunell
 
-👁️ 7K • 👍 587 • 💬 66 • ⏱️ 49:25 • 6h ago
+👁️ 11K • 👍 734 • 💬 87 • ⏱️ 49:25 • 7h ago
+
+---
+
+**[Bitcoin Ownership is Changing FAST. Should You Be Worried?](https://www.youtube.com/watch?v=pGeECOBSMjc)**
+
+Bitcoin is under attack again. Politicians and critics are calling it a Ponzi while institutions and governments accumulate more ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 104 • ⏱️ 12:22 • 23h ago
+
+---
+
+**[Bitcoin Outperforms Asset During War, Mastercard Buys BVNK | Bloomberg Crypto 3/17/2026](https://www.youtube.com/watch?v=ovXhuUD68QY)**
+
+"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
+
+📺 Bloomberg Television
+
+👁️ 402 • 👍 12 • 💬 1 • ⏱️ 18:54 • 1h ago
+
+---
+
+**[Why Retailers Don’t Accept Bitcoin As Payment 😅](https://www.youtube.com/watch?v=-kLxmzDmoYk)**
+
+There are several reasons retailers don't accept Bitcoin as payment. #shorts #bitcoin #xrp Order a Tangem Wallet (30% Off + ...
+
+📺 Cyber Scrilla
+
+👁️ 617 • 👍 37 • 💬 7 • ⏱️ 1:05 • 42m ago
 
 ---
 
@@ -361,37 +371,17 @@ I called $75K for Bitcoin four days ago. It hit $76K instead - so I was wrong in
 
 📺 Coin Bureau Trading
 
-👁️ 8K • 👍 756 • 💬 88 • ⏱️ 22:53 • 12h ago
+👁️ 9K • 👍 799 • 💬 94 • ⏱️ 22:53 • 13h ago
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=W_YasiLxgJ4)**
+**[BITCOIN BULL TRAP? Why $91K is the Only Number That Matters!](https://www.youtube.com/watch?v=p7TRaTqZFG0)**
 
-My march newsletter is out, discussing how risk cascades through markets. You can read it here: ...
+Bitcoin is pumping, but is the bottom really in? We analyze the 52K price target, the 80K CME gap, and why the liquidation heat ...
 
-📺 Benjamin Cowen
+📺 Financial Funda
 
-👁️ 79K • 👍 5K • 💬 263 • ⏱️ 15:27 • 20h ago
-
----
-
-**[Bitcoin Is Outperforming Stocks And Gold. Will It Continue?](https://www.youtube.com/watch?v=4Xcq36qOR8s)**
-
-The only asset besides oil going up right now is Bitcoin. The coin is up 10 percent since the first attacks on Iran — all while gold ...
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 9K • 👍 507 • 💬 60 • ⏱️ 8:25 • 22h ago
-
----
-
-**[The Fed Setup for Bitcoin’s Next Run](https://www.youtube.com/watch?v=oK1Azot7j9w)**
-
-Bitcoin is sitting near $69K while gold is exploding and central banks are buying hard assets. The answer is simpler than most ...
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 1K • 💬 76 • ⏱️ 17:22 • 1d ago
+👁️ 2K • 👍 143 • 💬 1 • ⏱️ 1:25 • 1h ago
 
 ---
 
@@ -401,7 +391,17 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 221 • ⏱️ 48:22 • 1d ago
+👁️ 23K • 👍 1K • 💬 223 • ⏱️ 48:22 • 1d ago
+
+---
+
+**[Bitcoin Holders, Something Just Flipped](https://www.youtube.com/watch?v=kf-gvt5PZWo)**
+
+Gold vs Bitcoin is looking interesting. Check out Ledn: https://aaronbtc.com/ledn Into The Cryptoverse Charts – 10% Off ...
+
+📺 Aaron Bennett
+
+👁️ 11K • 👍 559 • 💬 79 • ⏱️ 5:43 • 1d ago
 
 ---
 

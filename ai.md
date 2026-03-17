@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-17T19:15:56.420234+00:00'
+updated: '2026-03-17T20:03:32.710547+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - repositories
 - social
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 17, 2026 at 19:15 UTC  
+**Last Updated:** March 17, 2026 at 20:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I work as a developer, and before this I was copium about AI, it was a form of self defense. But in Dec 2025 I bought subscriptions to gpt codex and claude. And honestly the impact was so strong that I still haven't recovered, I've barely written any code by hand since I bought the subscription And it's not that AI is better code than me. The point is that AI is replacing intellectual activity itself. This is absolutely not the same as automated machines in factories replacing human labor Neural networks aren't just about automating code, they're about automating intelligence as a whole. This is what AI really is. Any new tasks that arise can, in principle, be automated by a neural network. It's not a machine, not a calculator, not an assembly line, it's automation of intelligence in the broadest sense Lately I've been thinking about quitting programming and going into science (biotech), enrolling in a university and developing as a researcher, especially since I'm still young. But I'm afraid I might be right. That over time, AI will come for that too, even for scientists. And even though AI can't generate truly novel ideas yet, the pace of its development over the past few years has been so fast that it scares me
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ I work as a developer, and before this I was copium about AI, it was a form of s
 
 Nvidia unveils Vera CPU and Rubin platform to power agentic AI systems and next-generation AI factories.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/nvidia-vera-cpu-vera-rubin-ai-factories) • 4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/nvidia-vera-cpu-vera-rubin-ai-factories) • 5h ago
 
 ---
 
@@ -65,7 +65,7 @@ The massive crowdsourcing effort could use real-world to help robots deliver piz
 
 I was reading this story and it same quite apparent that all the big job cuts seem to within tech, like 10,000s at a time. Then that got me thinking, is this really what they use AI for? It's like a guise to get rid is staff and something to blame. Are there any other types of business getting rid of 1000s of staff at a time like this?
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ I was reading this story and it same quite apparent that all the big job cuts se
 
 Something I kept running into while experimenting with autonomous agents is that most AI safety discussions focus on the wrong layer. A lot of the conversation today revolves around: • prompt alignment • jailbreaks • output filtering • sandboxing Those things matter, but once agents can interact with real systems, the real risks look different. This is not about AGI alignment or superintelligence scenarios. It is about keeping today’s tool-using agents from accidentally: • burning your API budget • spawning runaway loops • provisioning infrastructure repeatedly • calling destructive tools at the wrong time An agent does not need to be malicious to cause problems. It only needs permission to do things like: • retry the same action endlessly • spawn too many parallel tasks • repeatedly call expensive APIs • chain tool calls in unexpected ways Humans ran into similar issues when building distributed systems. We solved them with things like rate limits, idempotency keys, concurrency limits, and execution guards. That made me wonder if agent systems might need something similar at the execution layer. So I started experimenting with an idea I call an execution authorization boundary. Conceptually it looks like this: proposes action +-------------------------------+ | Agent Runtime | +-------------------------------+ v +-------------------------------+ | Authorization Check | | (policy + current state) | +-------------------------------+ | | ALLOW DENY | | v v +----------------+ +-------------------------+ | Tool Execution | | Blocked Before Execution| +----------------+ +-------------------------+ The runtime proposes an action. A deterministic policy evaluates it against the current state. If allowed, the system emits a cryptographically verifiable authorization artifact. If denied, the action never executes. Example rules might look like: • daily tool budget ≤ $5 • no more than 3 concurrent tool calls • destructive actions require explicit confirmation • replayed actions are rejected I have been experimenting with this model in a small open source project called OxDeAI. It includes: • a deterministic policy engine • cryptographic authorization artifacts • tamper evident audit chains • verification envelopes • runtime adapters for LangGraph, CrewAI, AutoGen, OpenAI Agents and OpenClaw All the demos run the same simple scenario: ALLOW ALLOW DENY verifyEnvelope() => ok Two actions execute. The third is blocked before any side effects occur. There is also a short demo GIF showing the flow in practice. Repo if anyone is curious: https://github.com/AngeYobo/oxdeai Mostly interested in hearing how others building agent systems are handling this layer. Are people solving execution safety with policy engines, capability models, sandboxing, something else entirely, or just accepting the risk for now?
 
-34m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Something I kept running into while experimenting with autonomous agents is that
 
 I've been deep in the MCP space and combined it with my other obsession — planes. That led me to build SkyIntel/ Open Sky Intelligence- an AI powered web app, and also an MCP server that compatible with Claude Code, Claude Desktop (and other MCP Clients). You can install sky intel via pip install skyintel. The web app is a full 3D application, which can seamlessly integrate with your Anthropic, Gemini, ChatGPT key via BYOK option. One command to get started: pip install skyintel && skyintel serve Install within your Claude Code/ Claude Desktop and ask: "What aircraft are currently over the Atlantic?" "Where is the ISS right now?" "Show me military aircraft over Europe" "What's the weather at this flight's destination?" Here's a brief technical overview of SkyIntel MCP server and web app. I strongly encouraged you to read the READM.md file of skyintel GitHub repo. It's very comprehensive. 15 MCP tools across aviation + satellite data 10,000+ live aircraft on a CesiumJS 3D globe 300+ satellites with SGP4 orbital propagation BYOK AI chat (Claude/OpenAI/Gemini) — keys never leave your browser System prompt hardening + LLM Guard scanners Built with FastMCP, LiteLLM, LangFuse, Claude I leveraged free and open public data (see README.md). Here are the links: GitHub: https://github.com/0xchamin/skyintel Web demo: https://www.skyintel.dev PyPI: https://pypi.org/project/skyintel/ I would love to hear your feedback. Ask questions, I'm happy to answer. Also, I greatly appreciate if you could star the GitHub repo if you find it useful. Many thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ I built a pipeline where 5 AI models (Claude, GPT-4o, Gemini, Grok, DeepSeek) in
 
 For those are tired of writing the same ML boilerplate every single time or to beginners who don't have coding experience. MLForge is an app that lets you visually craft a machine learning pipeline. You build your pipeline like a node graph across three tabs: Data Prep - drag in a dataset (MNIST, CIFAR10, etc), chain transforms, end with a DataLoader. Add a second chain with a val DataLoader for proper validation splits. Model - connect layers visually. Input -> Linear -> ReLU -> Output. A few things that make this less painful than it sounds: Drop in a MNIST (or any dataset) node and the Input shape auto-fills to 1, 28, 28 Connect layers and in_channels / in_features propagate automatically After a Flatten, the next Linear's in_features is calculated from the conv stack above it, so no more manually doing that math Robust error checking system that tries its best to prevent shape errors. Training - Drop in your model and data node, wire them to the Loss and Optimizer node, press RUN. Watch loss curves update live, saves best checkpoint automatically. Inference - Open up the inference window where you can drop in your checkpoints and evaluate your model on test data. Pytorch Export - After your done with your project, you have the option of exporting your project into pure PyTorch, just a standalone file that you can run and experiment with. Free, open source. Project showcase is on README in Github repo. GitHub: https://github.com/zaina-ml/ml_forge To install MLForge, enter the following in your command prompt pip install zaina-ml-forge Then ml-forge Please, if you have any feedback feel free to comment it below. My goal is to make this software that can be used by beginners and pros. This is v1.0 so there will be rough edges, if you find one, drop it in the comments and I'll fix it.
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ Open source: https://github.com/htdt/godogen
 
 Is anyone else scared of how AI content on social media just exponentially ramps up the misinformation and bullshit that the world will consume now? People like us in this sub are smart enough to look out for the clues and take all content with a grain of salt. But the general public may not be, and all the fake AI slop will literally form peoples perspectives and beliefs of the world At best: some people will just turn out stupid. At worst: people in power will make really bad decisions, hatred could be perpetuated and people will get physically hurt. Am I catastrophizing, or does anyone else feel this way?
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Is anyone else scared of how AI content on social media just exponentially ramps
 
 The three girls say that the nonconsensual nude images were created by a perpetrator who used AI company xAI's image generation tools.
 
-NPR • 18h ago
+NPR • 19h ago
 
 ---
 
@@ -133,7 +133,7 @@ NPR • 18h ago
 
 NVIDIA today unveiled NVIDIA DLSS 5, the company’s most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.
 
-NVIDIA Newsroom • 20h ago
+NVIDIA Newsroom • 21h ago
 
 ---
 
@@ -149,7 +149,7 @@ BBC • 5h ago
 
 Photoreal or Instagram filter-real?
 
-The Verge • 21h ago
+The Verge • 22h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Verge • 21h ago
 
 The bill seeks to codify several existing Defense Department guidelines in addition to other limits.
 
-NBC News • 34m ago
+NBC News • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ San Francisco Chronicle • 2h ago
 
 The mayors sounded the alarm about the danger of neglecting a key waterway.
 
-Yahoo • 51m ago
+Yahoo • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo • 51m ago
 
 Lawmakers say the new version of the Seedance AI video-generation app violates copyright and intellectual property laws.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -187,13 +187,13 @@ CNBC • 10h ago
 
 Middle powers such as Europe and Canada need to get smart about artificial intelligence.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
 **[China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary](https://www.nytimes.com/2026/03/17/business/china-ai-agent.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -243,7 +243,7 @@ Airbus is working at full throttle to offer the German Air Force an operational 
 
 NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose-built for the age of agentic AI and reinforcement learning — delivering results with twice the efficiency and 50% faster than traditional rack-scale CPUs.
 
-⬆️ 169 • 💬 99 • 23h ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
+⬆️ 169 • 💬 99 • 1d ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
 
 ---
 
@@ -285,7 +285,7 @@ Google DeepMind's AlphaEvolve just broke long-standing mathematical records by e
 
 📺 AI Revolution
 
-👁️ 26K • 👍 853 • 💬 55 • ⏱️ 10:41 • 20h ago
+👁️ 29K • 👍 894 • 💬 60 • ⏱️ 10:41 • 21h ago
 
 ---
 
@@ -295,7 +295,17 @@ Meta Platforms is reportedly considering laying off over 20% of its workforce. T
 
 📺 Eurodollar University
 
-👁️ 80K • 👍 3K • 💬 194 • ⏱️ 19:11 • 20h ago
+👁️ 84K • 👍 3K • 💬 202 • ⏱️ 19:11 • 20h ago
+
+---
+
+**[Grok AI Finally Reveals How Ancient Egyptians Cut Granite — With Proof](https://www.youtube.com/watch?v=TLwCbEnZCWE)**
+
+At Aswan granite quarries in Egypt, smooth curved scoop marks in bedrock show machine-like uniformity that traditional theories ...
+
+📺 Flash Discovery
+
+👁️ 8K • 👍 436 • 💬 58 • ⏱️ 25:58 • 3h ago
 
 ---
 
@@ -305,37 +315,7 @@ Top AI researchers are walking away from some of the most powerful tech companie
 
 📺 The Infographics Show
 
-👁️ 250K • 👍 7K • 💬 1K • ⏱️ 14:48 • 19h ago
-
----
-
-**[This FREE AI Video Tool Is Now UNLIMITED (No Watermark)](https://www.youtube.com/watch?v=dnSlTlg8vRo)**
-
-Generate watermark-free 4K cinematic AI videos with Higgsfield → https://higgsfield.ai/s/general-malvaai-qPzcPM Grab the ...
-
-📺 Malva AI
-
-👁️ 10K • 👍 408 • 💬 75 • ⏱️ 8:25 • 1d ago
-
----
-
-**[10 Claude AI Skills That Will Save You 20+ Hours a Week (Full Power User Guide)](https://www.youtube.com/watch?v=ADByNXt2ouY)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *These ...
-
-📺 Julia McCoy
-
-👁️ 17K • 👍 820 • 💬 43 • ⏱️ 16:22 • 2d ago
-
----
-
-**[BREAKING: Netanyahu Really DEAD? Disappearing Ring in Viral Video Fuels Wild AI Claims](https://www.youtube.com/watch?v=jZjayi4clfY)**
-
-A fresh storm has erupted online after a new video of Israeli Prime Minister Benjamin Netanyahu appeared on X, just as viral ...
-
-📺 midday india
-
-👁️ 8K • 👍 53 • 💬 27 • ⏱️ 3:31 • 14h ago
+👁️ 277K • 👍 7K • 💬 1K • ⏱️ 14:48 • 19h ago
 
 ---
 
@@ -345,27 +325,37 @@ What is financial freedom? The Business Strategist Daniel Priestley on why AI ma
 
 📺 The Diary Of A CEO
 
-👁️ 745K • 👍 18K • 💬 3K • ⏱️ 2:02:37 • 1d ago
+👁️ 780K • 👍 19K • 💬 3K • ⏱️ 2:02:37 • 1d ago
 
 ---
 
-**[Justice League VS. AI](https://www.youtube.com/watch?v=2qjpBuPonmI)**
+**[10 Claude AI Skills That Will Save You 20+ Hours a Week (Full Power User Guide)](https://www.youtube.com/watch?v=ADByNXt2ouY)**
 
-The Justice League face off against Lex Luthor and his greatest scheme yet, or lack there of. Lex shows off his new Artificial Luthor ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *These ...
 
-📺 Solid jj
+📺 Julia McCoy
 
-👁️ 346K • 👍 42K • 💬 2K • ⏱️ 3:27 • 3d ago
+👁️ 18K • 👍 838 • 💬 46 • ⏱️ 16:22 • 2d ago
 
 ---
 
-**[Is Netanyahu Alive? AI Chatbot ‘Grok’ Terms Israeli PM’s Coffee Video AI-Generated ‘Deepfake’](https://www.youtube.com/watch?v=Pg0bwStf8_w)**
+**[Claude&#39;s FREE Visual Builder Just DESTROYED Every Paid Design Tool (+ 9 AI Updates)](https://www.youtube.com/watch?v=vBeYXouVTuM)**
 
-Is the Israeli PM dead or alive? Benjamin Netanyahu drops a video online mocking his death rumours. But many users as well as ...
+Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://link.stayingahead.ai/YT6 ...
 
-📺 Times Of India
+📺 Vaibhav Sisinty
 
-👁️ 14K • 👍 177 • 💬 93 • ⏱️ 9:29 • 1d ago
+👁️ 18K • 👍 714 • 💬 24 • ⏱️ 12:30 • 5h ago
+
+---
+
+**[Codex Subagents, Minimax M2.7, Claude Code Update, NVIDIA GTC, AI CMO, Google AI Tool! HUGE AI News](https://www.youtube.com/watch?v=GVrEX3-uIE0)**
+
+Welcome to the latest AI news roundup! In this video, we cover all the biggest updates from the world of AI this week, including: ...
+
+📺 WorldofAI
+
+👁️ 16K • 👍 499 • 💬 22 • ⏱️ 12:39 • 14h ago
 
 ---
 
@@ -375,7 +365,17 @@ Your CEO tries AI once over the weekend and by Monday your company is "AI-first"
 
 📺 Mo Bitar
 
-👁️ 142K • 👍 10K • 💬 2K • ⏱️ 7:30 • 1d ago
+👁️ 154K • 👍 10K • 💬 2K • ⏱️ 7:30 • 1d ago
+
+---
+
+**[BREAKING: Netanyahu Really DEAD? Disappearing Ring in Viral Video Fuels Wild AI Claims](https://www.youtube.com/watch?v=jZjayi4clfY)**
+
+A fresh storm has erupted online after a new video of Israeli Prime Minister Benjamin Netanyahu appeared on X, just as viral ...
+
+📺 midday india
+
+👁️ 9K • 👍 54 • 💬 28 • ⏱️ 3:31 • 15h ago
 
 ---
 
@@ -391,7 +391,19 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 7,003 • ❤️ 571 • 6d ago
+⬇️ 7,003 • ❤️ 577 • 6d ago
+
+---
+
+**[Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context window, designed for aggressive prompt adherence and advanced reasoning tasks.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 111,716 • ❤️ 473 • 6d ago
 
 ---
 
@@ -407,18 +419,6 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 ---
 
-**[Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context window, designed for aggressive prompt adherence and advanced reasoning tasks.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 111,716 • ❤️ 468 • 6d ago
-
----
-
 **[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
 
 *Tesslate*
@@ -427,19 +427,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 8,716 • ❤️ 269 • 4d ago
-
----
-
-**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
-
-`9.0B`
-
-⬇️ 254,662 • ❤️ 513 • 13d ago
+⬇️ 8,716 • ❤️ 271 • 4d ago
 
 ---
 
@@ -451,7 +439,19 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 36,759 • ❤️ 234 • 3d ago
+⬇️ 36,759 • ❤️ 235 • 3d ago
+
+---
+
+**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
+
+`9.0B`
+
+⬇️ 254,662 • ❤️ 516 • 13d ago
 
 ---
 
@@ -487,7 +487,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 36,677 • ❤️ 213 • 3d ago
+⬇️ 36,677 • ❤️ 213 • 1h ago
 
 ---
 
@@ -495,15 +495,32 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 *Mistral AI_*
 
+Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) supporting 256k context and multimodal input (text/image). It excels at instruction following, reasoning (configurable effort), and agentic tasks with native function calling, offering significant speed and throughput improvements for use cases like coding, document analysis, and general assistants.
+
 `119.4B`
 
-⬇️ 1,872 • ❤️ 186 • 5h ago
+⬇️ 1,872 • ❤️ 190 • 6h ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[Attention Residuals](https://huggingface.co/papers/2603.15031)**
+
+*Kimi Team, Guangyu Chen, Yu Zhang et al. (37 authors)*
+
+🏢 Moonshot AI
+
+Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
+  Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
+
+▲ 53 • 💬 0 • ⭐ 1,326 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
+
+---
 
 **[AI Can Learn Scientific Taste](https://huggingface.co/papers/2603.14473)**
 
@@ -513,7 +530,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potential impact. However, most relative research focuses on improving an AI scientist's executive capability, while enhancing an AI's scientific taste remains underexplored. In this work, we propose Reinforcement Learning from Community Feedback (RLCF), a training paradigm that uses large-scale community signals as supervision, and formulate scientific taste learning as a preference modeling and alignment problem. For preference modeling, we train Scientific Judge on 700K field- and time-matched pairs of high- vs. low-citation papers to judge ideas. For preference alignment, using Scientific Judge as a reward model, we train a policy model, Scientific Thinker, to propose research ideas with high potential impact. Experiments show Scientific Judge outperforms SOTA LLMs (e.g., GPT-5.2, Gemini 3 Pro) and generalizes to future-year test, unseen fields, and peer-review preference. Furthermore, Scientific Thinker proposes research ideas with higher potential impact than baselines. Our findings show that AI can learn scientific taste, marking a key step toward reaching human-level AI scientists.
 
-▲ 210 • 💬 1 • ⭐ 243 • 2d ago
+▲ 212 • 💬 1 • ⭐ 243 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.14473) • [💻 code](https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste) • [🔗 project](https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/)
 
@@ -525,23 +542,9 @@ Great scientists have strong judgement and foresight, closely tied to what we ca
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 14 • 💬 0 • ⭐ 34,973 • 13mo ago
+▲ 14 • 💬 0 • ⭐ 35,190 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
-
----
-
-**[Fish Audio S2 Technical Report](https://huggingface.co/papers/2603.08823)**
-
-*Shijia Liao, Yuxuan Wang, Songting Liu et al. (14 authors)*
-
-🏢 Fish Audio
-
-Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
-
-▲ 28 • 💬 2 • ⭐ 27,911 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
 ---
 
@@ -553,9 +556,23 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
 
-▲ 87 • 💬 2 • ⭐ 150 • 1d ago
+▲ 89 • 💬 2 • ⭐ 150 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
+
+---
+
+**[Fish Audio S2 Technical Report](https://huggingface.co/papers/2603.08823)**
+
+*Shijia Liao, Yuxuan Wang, Songting Liu et al. (14 authors)*
+
+🏢 Fish Audio
+
+Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
+
+▲ 29 • 💬 2 • ⭐ 27,972 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
 ---
 
@@ -605,7 +622,7 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 163 • 💬 3 • ⭐ 7,284 • 8mo ago
+▲ 163 • 💬 3 • ⭐ 7,345 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
@@ -623,18 +640,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 48 • 💬 2 • ⭐ 50,154 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -645,7 +650,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 40.0k • 🔱 5.5k • 1d ago
+⭐ 40.2k • 🔱 5.5k • 1d ago
 
 ---
 
@@ -655,7 +660,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.1k • 🔱 980 • 1h ago
+⭐ 21.2k • 🔱 981 • 8m ago
 
 ---
 
@@ -665,7 +670,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.4k • 🔱 1.5k • 2h ago
+⭐ 12.4k • 🔱 1.5k • 3h ago
 
 ---
 
@@ -675,7 +680,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.6k • 🔱 963 • 1d ago
+⭐ 10.6k • 🔱 964 • 1d ago
 
 ---
 
@@ -685,7 +690,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.7k • 🔱 697 • 9h ago
+⭐ 9.7k • 🔱 698 • 9h ago
 
 ---
 
@@ -695,7 +700,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 8.3k • 🔱 395 • 4h ago
+⭐ 8.3k • 🔱 398 • 4h ago
 
 ---
 
@@ -705,7 +710,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.5k • 🔱 762 • 17h ago
+⭐ 6.5k • 🔱 762 • 21s ago
 
 ---
 
@@ -715,7 +720,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 3.7k • 🔱 283 • 3h ago
+⭐ 3.7k • 🔱 293 • 4h ago
 
 ---
 
