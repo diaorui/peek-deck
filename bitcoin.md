@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-17T16:39:07.618372+00:00'
+updated: '2026-03-17T17:59:22.424986+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 16:39 UTC  
+**Last Updated:** March 17, 2026 at 17:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,029.63
+### $74,265.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +5.5%  
-**30d:** +7.6%  
-**90d:** -13.2%  
-**1y:** -10.5%  
+**24h:** +0.8%  
+**7d:** +6.1%  
+**30d:** +8.2%  
+**90d:** -12.7%  
+**1y:** -9.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1487.65B
+**Market Cap:** $1491.17B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.0%
+-40.9%
 
 **All-Time Low:** $67.81
-+109581.5%
++109786.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,21 @@ Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate
 
 been stacking sats for most of this year and just crossed into full bitcoin territory today picked up more during a few different dips along the way which helped me get there faster kinda thought id feel more excited when i reached this point but its more like relief than celebration i guess still pretty cool though especially since i really believe this technology is going somewhere big now time to start working toward that second bitcoin
 
-10h ago
+11h ago
+
+---
+
+**[Being behind is not your fault. Staying behind is.](https://www.reddit.com/r/Bitcoin/comments/1rwcxze/being_behind_is_not_your_fault_staying_behind_is/)**
+
+38m ago
+
+---
+
+**[Square updates TOS to enable Bitcoin payments by default for most US sellers starting March 30](https://www.reddit.com/r/Bitcoin/comments/1rw9nze/square_updates_tos_to_enable_bitcoin_payments_by/)**
+
+https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
+
+2h ago
 
 ---
 
@@ -97,7 +111,21 @@ been stacking sats for most of this year and just crossed into full bitcoin terr
 
 because of waiting for bitcoin to drop some more.
 
-11h ago
+12h ago
+
+---
+
+**[Brittany Kaiser on Yahoo Finance just dropped that ~67% of new Claude Al agents launched in the past month are choosing Bitcoin as their preferred currency.](https://www.reddit.com/r/Bitcoin/comments/1rwdix4/brittany_kaiser_on_yahoo_finance_just_dropped/)**
+
+Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized shitcoins, straight BTC. It eventuelly makes sense. AI agents need a payment layer with no counterparty risk, no geography, and no permissions required. Bitcoin was built for exactly that.
+
+18m ago
+
+---
+
+**[From nearly zero in 2017 to ~1.2 million BTC held by 50+ public companies by 2025.](https://www.reddit.com/r/Bitcoin/comments/1rw6xls/from_nearly_zero_in_2017_to_12_million_btc_held/)**
+
+4h ago
 
 ---
 
@@ -105,7 +133,7 @@ because of waiting for bitcoin to drop some more.
 
 Most people don’t have 100 hours to study Bitcoin. This article suggests a simpler approach: Start with 1%, then learn. Curiosity usually follows ownership.
 
-🔗 [Myntad](https://www.myntad.com/1-percent-bitcoin-shortcut/) • 6h ago
+🔗 [Myntad](https://www.myntad.com/1-percent-bitcoin-shortcut/) • 7h ago
 
 ---
 
@@ -113,45 +141,13 @@ Most people don’t have 100 hours to study Bitcoin. This article suggests a sim
 
 What dex wallet is the most secure currently?
 
-4h ago
-
----
-
-**[I am in the 1% club!](https://www.reddit.com/r/Bitcoin/comments/1rvmk9a/i_am_in_the_1_club/)**
-
-Yesterday my dad gifted me 0,002BTC making me reach my goal of 0,01btc! Now I am 15 and my goal is to get at least 0,05BTC before I turn 18, do you think I can pull this off? Do you have any suggestions about stacking?(Rn I'm storing my BTC in my Trezor wallet) Thanks!
-
-19h ago
-
----
-
-**[Be careful out here !!](https://www.reddit.com/r/Bitcoin/comments/1rw62bb/be_careful_out_here/)**
-
-🔗 [msn.com](https://www.msn.com/en-gb/news/world/wife-set-up-secret-cameras-inside-home-to-steal-husband-s-180million-in-bitcoin-high-court-hears/ar-AA1YLCBx?ocid=msedgntp&pc=SMTS&cvid=69b948db17ae4ca99d68e379b675eed4&ei=28&cvpid=69b94902541040af9197eaaa23ee0794) • 3h ago
-
----
-
-**["Old" Coins Volume Is Incredibly (Noticible) Silent Today As We Test $74k.](https://www.reddit.com/r/Bitcoin/comments/1rvp2qt/old_coins_volume_is_incredibly_noticible_silent/)**
-
-We’re testing $74k, and the most interesting thing isn't the price... it's who isn't active. I pulled the latest UTXO age band data from my node for the last 12 hours of trading. The breakdown is staggering: 97% of all BTC spent was less than a month old. Meanwhile, look at the very "Old" coins: 2009–2011: Barely 0.31 BTC moved. 8y–2012: Only 50 BTC. 4y–8y: Just 187 BTC. The "old hands" are essentially silent, leaving the price action to be driven almost entirely by short-term churn and new entrants. This is what a growing supply squeeze looks like in real-time.
-
-17h ago
-
----
-
-**[Starting from scratch](https://www.reddit.com/r/Bitcoin/comments/1rwahb6/starting_from_scratch/)**
-
-Is there any ways to get bitcoin without having to go through some company asking for my personal information and such?
-
-43m ago
-
----
-
-**[I’ve just come out of a social coma after 5 years](https://www.reddit.com/r/Bitcoin/comments/1rw32yv/ive_just_come_out_of_a_social_coma_after_5_years/)**
-
-what has changed?
-
 5h ago
+
+---
+
+**[Bitcoin Histomap: 50 events that shaped Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rw7xs2/bitcoin_histomap_50_events_that_shaped_bitcoin/)**
+
+3h ago
 
 ---
 
@@ -159,47 +155,47 @@ what has changed?
 
 ## Google News: "bitcoin"
 
-**[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
-
-Reuters • 8h ago
-
----
-
 **[Bitcoin price news: BTC price target cut to $112,000 at Citigroup; ETH trimmed to $3,175](https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls)**
 
 The Wall Street investment bank cited slower ETF flows, weak network activity and a narrowing window for U.S. regulatory catalysts.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Citigroup Just Slashed Its Bitcoin Price Target to $112,000 — Is Washington About to Kill the Bull Run?](https://finance.yahoo.com/news/citigroup-just-slashed-bitcoin-price-103630607.html)**
+**[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4040Q2:0-citigroup-cuts-12-month-bitcoin-ether-targets-as-us-crypto-legislation-stalls/)**
 
-Citigroup just cut its 12-month Bitcoin price target. Down from $143,000 to $112,000.Strategist Alex Saunders is pointing at one core problem. The regulatory catalysts markets were counting on after the election are running behind schedule. The legislative window to unlock the next wave of ETF-driven demand is closing faster than ...
+Citigroup cut its 12-month forecast for bitcoin and ethereum, citing slow U.S. legislative progress that narrows the window for regulatory catalysts expected to boost ETF-driven demand and broader institutional adoption.Progress on U.S. crypto market-structure legislation has stalled in the Senate…
 
-Yahoo Finance • 6h ago
+TradingView • 9h ago
 
 ---
 
-**[Bitcoin Surprises as Oasis of Calm While Iran War Jolts Markets](https://finance.yahoo.com/news/bitcoin-surprises-oasis-calm-while-073045212.html)**
+**[Citigroup Cuts Bitcoin and Ethereum Price Targets: Clarity Act to Blame?](https://coinpedia.org/news/citigroup-cuts-bitcoin-and-ethereum-price-targets-clarity-act-to-blame/)**
 
-Bitcoin, the largest token, and a cohort of smaller digital assets have been an oasis of calm relative to the volatility in equities, gold and oil.  Meanwhile, Bitcoin pushed through a crucial psychological mark of $75,000 on Tuesday in Asia, taking its gains since the war started at the end of February to nearly 14%.  “Bitcoin’s resilience here is less about narrative and more about mechanics,” said Rachael Lucas, an analyst at BTC Markets.
+Three months ago, Citigroup set a $143,000 Bitcoin target and told investors that 2026 was the year US crypto regulation would finally deliver. Today, the
 
-Yahoo Finance • 6h ago
+Coinpedia Fintech News • 6h ago
+
+---
+
+**[Bitcoin Surprises as Oasis of Calm While Iran War Jolts Markets](https://www.bloomberg.com/news/articles/2026-03-17/bitcoin-surprises-as-oasis-of-calm-while-iran-war-jolts-markets)**
+
+Bloomberg.com • 7h ago
 
 ---
 
 **[Strategy Faces Key Test It's Failed 3 Times After Big Bitcoin Buy](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 6h ago
 
 ---
 
-**[Strategy news: MSTR added 22,337 BTC last week, marking another mammoth purchase](https://www.coindesk.com/markets/2026/03/16/michael-saylor-s-strategy-made-another-huge-buy-of-bitcoin-adding-usd1-57-billion-worth-last-week)**
+**[Strategy's (MSTR) 1 millionth bitcoin (BTC): Here's how it could happen this year](https://www.coindesk.com/markets/2026/03/14/the-math-behind-strategy-s-path-to-1-million-bitcoin-by-the-end-of-2026)**
 
-The company's stack now stands at 761,068 bitcoin, acquired for $57.61 billion.
+The largest publicly traded corporate holder of bitcoin would need to buy roughly 6,158 BTC per week, about $523 million, to reach the milestone by Dec. 31.
 
-CoinDesk • 1d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -207,29 +203,29 @@ CoinDesk • 1d ago
 
 On Friday, Michael Saylor defended Bitcoin after former UK Prime Minister Boris Johnson described cryptocurrencies as a "giant Ponzi scheme" in a column. Boris Johnson Questions Bitcoin's Value In a Daily Mail column, Johnson argued that Bitcoin and other digital...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Strategy (MSTR) Is About To Own More Bitcoin Than BlackRock](https://bitcoinmagazine.com/news/strategy-mstr-more-bitcoin-than-blackrock)**
+**[Bitcoin trades around $72,800 in 'solid' relief bounce supported by ETF inflows](https://www.theblock.co/post/393642/bitcoin-solid-relief-bounce)**
 
-Strategy (MSTR) is closing in on BlackRock’s iShares Bitcoin Trust (IBIT).
+Analysts said the move reflects a relief bounce driven by ETF inflows, liquidation short squeeze, and bitcoin's position as a macro hedge.
 
-Bitcoin Magazine • 1h ago
+The Block • 1d ago
 
 ---
 
-**[Wife ‘filmed husband’s passwords to steal £180m in bitcoin’](https://www.thetimes.com/uk/law/article/wife-steal-bitcoin-spy-camera-cz8bxfcph?gaa_at=eafs&gaa_n=AWEtsqe9OGj2M7qIw5Pcpu-SDa3DzotnERoOCFlhQeNgcjLFfr4bw-uujKDK&gaa_ts=69b98715&gaa_sig=jPqVdaEMKnTXsLBi5XiF_TIwioxcys2wQ7aNeOb9wPf9AX-03Rc439S48yfiwsLQCpccB7nHlcTphnU2lXU6YQ%3D%3D)**
+**[Wife ‘filmed husband’s passwords to steal £180m in bitcoin’](https://www.thetimes.com/uk/law/article/wife-steal-bitcoin-spy-camera-cz8bxfcph?gaa_at=eafs&gaa_n=AWEtsqdh0ouQ5fSA2XDlR1G_ZQbdGqJAvYE3POIb3k9utWqvmYLqOHszFLbe&gaa_ts=69b999e4&gaa_sig=WmZD9xNeyystytm11-9N5P7G8ygGjqMu9G3qTKTYl7HkWPOZyUZXHRh3W_jGqXAHQGp8I7GWCLiP5SjsIEwiDQ%3D%3D)**
 
 The Times • 1d ago
 
 ---
 
-**[Cango posts $452.8 million net loss in first year as bitcoin miner](https://www.theblock.co/post/393868/cango-posts-452-8-million-net-loss-in-first-year-as-bitcoin-miner)**
+**[Emergent's CEO says the vibe-coding industry is still in its 'bitcoin $1' moment](https://www.businessinsider.com/emergent-ceo-vibe-coding-bitcoin-moment-ai-boom-2026-3)**
 
-Cango’s first full mining year ended with a $452.8 million net loss, selling bitcoin to repay debt and fund its AI pivot.
+Emergent CEO Mukund Jha says vibe coding is still at 1% of its potential and compares the industry today to bitcoin at $1.
 
-The Block • 6h ago
+Business Insider • 12h ago
 
 ---
 
@@ -305,33 +301,13 @@ Send a magic link, watch a live session replay with console and network data. Cl
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Ownership is Changing FAST. Should You Be Worried?](https://www.youtube.com/watch?v=pGeECOBSMjc)**
+**[What They’re Not Telling You About Bitcoin](https://www.youtube.com/watch?v=_lTz2Ng_7_s)**
 
-Bitcoin is under attack again. Politicians and critics are calling it a Ponzi while institutions and governments accumulate more ...
+The truth about Bitcoin in 2026, Iran, Ethereum, and altcoins! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Simply Bitcoin
+📺 Lark Davis
 
-👁️ 23K • 👍 2K • 💬 100 • ⏱️ 12:22 • 19h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=W_YasiLxgJ4)**
-
-My march newsletter is out, discussing how risk cascades through markets. You can read it here: ...
-
-📺 Benjamin Cowen
-
-👁️ 72K • 👍 5K • 💬 252 • ⏱️ 15:27 • 17h ago
-
----
-
-**[Bitcoin Is Outperforming Stocks And Gold. Will It Continue?](https://www.youtube.com/watch?v=4Xcq36qOR8s)**
-
-The only asset besides oil going up right now is Bitcoin. The coin is up 10 percent since the first attacks on Iran — all while gold ...
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 9K • 👍 496 • 💬 49 • ⏱️ 8:25 • 19h ago
+👁️ 12K • 👍 708 • 💬 49 • ⏱️ 16:02 • 6h ago
 
 ---
 
@@ -341,7 +317,17 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 5K • 👍 551 • 💬 15 • ⏱️ 36:40 • 2h ago
+👁️ 11K • 👍 842 • 💬 71 • ⏱️ 36:40 • 3h ago
+
+---
+
+**[Bitcoin Ownership is Changing FAST. Should You Be Worried?](https://www.youtube.com/watch?v=pGeECOBSMjc)**
+
+Bitcoin is under attack again. Politicians and critics are calling it a Ponzi while institutions and governments accumulate more ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 104 • ⏱️ 12:22 • 20h ago
 
 ---
 
@@ -351,37 +337,57 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 13K • 👍 846 • 💬 300 • ⏱️ 12:12 • 23h ago
+👁️ 14K • 👍 858 • 💬 300 • ⏱️ 12:12 • 1d ago
 
 ---
 
-**[The REAL Reason Bitcoin Just Silently Rallied to $74k (Not what you think)](https://www.youtube.com/watch?v=Tg7DNFQLHvs)**
+**[This Bitcoin On-Chain Metric Just Flashed – What It Means for 2026 with James &quot;Checkmatey&quot;](https://www.youtube.com/watch?v=M4RPTungLqs)**
 
-Michael Saylor is creating a Silent Bitcoin supply shock which is quietly accelerating.
+On-chain analyst James Check (Checkmate) breaks down Bitcoin's blockchain data like never before, revealing what smart ...
+
+📺 Natalie Brunell
+
+👁️ 7K • 👍 587 • 💬 66 • ⏱️ 49:25 • 5h ago
+
+---
+
+**[Bitcoin&#39;s Pivot High Is In at $76k (next up is $49k)](https://www.youtube.com/watch?v=-Ro45cRqrRs)**
+
+I called $75K for Bitcoin four days ago. It hit $76K instead - so I was wrong in the best possible way. But before you start loading ...
+
+📺 Coin Bureau Trading
+
+👁️ 8K • 👍 756 • 💬 88 • ⏱️ 22:53 • 11h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=W_YasiLxgJ4)**
+
+My march newsletter is out, discussing how risk cascades through markets. You can read it here: ...
+
+📺 Benjamin Cowen
+
+👁️ 79K • 👍 5K • 💬 263 • ⏱️ 15:27 • 19h ago
+
+---
+
+**[Bitcoin Is Outperforming Stocks And Gold. Will It Continue?](https://www.youtube.com/watch?v=4Xcq36qOR8s)**
+
+The only asset besides oil going up right now is Bitcoin. The coin is up 10 percent since the first attacks on Iran — all while gold ...
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 9K • 👍 507 • 💬 60 • ⏱️ 8:25 • 20h ago
+
+---
+
+**[The Fed Setup for Bitcoin’s Next Run](https://www.youtube.com/watch?v=oK1Azot7j9w)**
+
+Bitcoin is sitting near $69K while gold is exploding and central banks are buying hard assets. The answer is simpler than most ...
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 388 • 💬 46 • ⏱️ 1:13:50 • 21h ago
-
----
-
-**[What They’re Not Telling You About Bitcoin](https://www.youtube.com/watch?v=_lTz2Ng_7_s)**
-
-The truth about Bitcoin in 2026, Iran, Ethereum, and altcoins! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 7K • 👍 547 • 💬 34 • ⏱️ 16:02 • 5h ago
-
----
-
-**[CAUTION: This Bitcoin TRAP Is Almost Set! [How I’m Playing It]](https://www.youtube.com/watch?v=csic_Jca3h4)**
-
-Kyledoops has outlined the potential for a Bitcoin trap to occur by the 18th of March. In today's video he shows you the probability ...
-
-📺 Crypto Banter
-
-👁️ 14K • 👍 1K • 💬 20 • ⏱️ 25:20 • 9h ago
+👁️ 18K • 👍 1K • 💬 76 • ⏱️ 17:22 • 1d ago
 
 ---
 
@@ -391,17 +397,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 220 • ⏱️ 48:22 • 1d ago
-
----
-
-**[Why Bitcoin Is Going Higher Than You Think! [6 Data Points]](https://www.youtube.com/watch?v=7JYGt5Pk3pA)**
-
-Ran breaks down why Bitcoin is holding strong despite war headlines and rising oil prices. Using key market data points, ...
-
-📺 Crypto Banter
-
-👁️ 25K • 👍 2K • 💬 77 • ⏱️ 25:40 • 1d ago
+👁️ 22K • 👍 1K • 💬 221 • ⏱️ 48:22 • 1d ago
 
 ---
 
