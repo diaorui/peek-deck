@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-17T07:05:56.810173+00:00'
+updated: '2026-03-17T08:07:56.403718+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 07:05 UTC  
+**Last Updated:** March 17, 2026 at 08:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,254.20
+### $74,416.85
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.5%  
-**7d:** +5.7%  
-**30d:** +7.8%  
-**90d:** -13.0%  
-**1y:** -10.3%  
+**7d:** +5.9%  
+**30d:** +8.0%  
+**90d:** -12.8%  
+**1y:** -10.1%  
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 Yesterday my dad gifted me 0,002BTC making me reach my goal of 0,01btc! Now I am 15 and my goal is to get at least 0,05BTC before I turn 18, do you think I can pull this off? Do you have any suggestions about stacking?(Rn I'm storing my BTC in my Trezor wallet) Thanks!
 
-9h ago
-
----
-
-**["Old" Coins Volume Is Incredibly (Noticible) Silent Today As We Test $74k.](https://www.reddit.com/r/Bitcoin/comments/1rvp2qt/old_coins_volume_is_incredibly_noticible_silent/)**
-
-We’re testing $74k, and the most interesting thing isn't the price... it's who isn't active. I pulled the latest UTXO age band data from my node for the last 12 hours of trading. The breakdown is staggering: 97% of all BTC spent was less than a month old. Meanwhile, look at the very "Old" coins: 2009–2011: Barely 0.31 BTC moved. 8y–2012: Only 50 BTC. 4y–8y: Just 187 BTC. The "old hands" are essentially silent, leaving the price action to be driven almost entirely by short-term churn and new entrants. This is what a growing supply squeeze looks like in real-time.
-
-8h ago
+10h ago
 
 ---
 
@@ -97,7 +89,15 @@ We’re testing $74k, and the most interesting thing isn't the price... it's who
 
 been stacking sats for most of this year and just crossed into full bitcoin territory today picked up more during a few different dips along the way which helped me get there faster kinda thought id feel more excited when i reached this point but its more like relief than celebration i guess still pretty cool though especially since i really believe this technology is going somewhere big now time to start working toward that second bitcoin
 
-59m ago
+2h ago
+
+---
+
+**["Old" Coins Volume Is Incredibly (Noticible) Silent Today As We Test $74k.](https://www.reddit.com/r/Bitcoin/comments/1rvp2qt/old_coins_volume_is_incredibly_noticible_silent/)**
+
+We’re testing $74k, and the most interesting thing isn't the price... it's who isn't active. I pulled the latest UTXO age band data from my node for the last 12 hours of trading. The breakdown is staggering: 97% of all BTC spent was less than a month old. Meanwhile, look at the very "Old" coins: 2009–2011: Barely 0.31 BTC moved. 8y–2012: Only 50 BTC. 4y–8y: Just 187 BTC. The "old hands" are essentially silent, leaving the price action to be driven almost entirely by short-term churn and new entrants. This is what a growing supply squeeze looks like in real-time.
+
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ been stacking sats for most of this year and just crossed into full bitcoin terr
 
 Lately I’ve been thinking about the whole “never sell” mentality in crypto, and I’m starting to question whether HODLing has quietly turned into a trap for some people. We often celebrate those who have been holding since 2017 without ever selling a single coin. But it makes me wonder, what is the actual end goal? There seems to be this unspoken pressure to never take profits because nobody wants to be remembered as the person who sold too early. At the same time, I see people sitting on life-changing gains on paper while still living the exact same life they were living years ago. They keep waiting for the next moon, even though they already have more than enough profit to change things for themselves. If the purpose of investing is to eventually improve your life or give you more freedom, then at what point does holding forever stop being a smart strategy and start becoming a way to stay stuck on the sidelines? I’m genuinely curious how others balance the HODL philosophy with actually using the wealth they’ve built. Do you have a clear exit plan, or are most people just planning to hold indefinitely? I’d really like to hear how people justify never selling when the gains are already there.
 
-16h ago
+17h ago
 
 ---
 
@@ -113,15 +113,7 @@ Lately I’ve been thinking about the whole “never sell” mentality in crypto
 
 Perhaps I shouldn’t overthink it like this… but maybe I shouldn’t overthink it. Lately I’ve been reading way too many Bitcoin discussions, blogs, and forum threads, and honestly, it’s been messing with my head a bit. ​I’m a doctor working night shifts in the emergency department here in China. Every night shift, around 3 or 4 a.m., when I finally get a rare 10-minute break, my mind just spirals: Why the hell am I doing this to myself? ​You know how it is—nighttime ER in China, registration fee is only 10 RMB per patient. I see 30 people in one shift. Some are really sketchy: tattoo-covered guys, drunk as hell, coming in groups of four or five after fights, bleeding everywhere. I patch them up, heart pounding the whole time, terrified one wrong move and things go south. ​Then I sit there, exhausted, thinking: All this hard work, all this risk, and the money I earn is so damn little. Compared to my American counterparts, the pay gap is huge, but my workload and danger? Probably worse. I want to escape. I dream of getting out. But I have no capital, no savings to make the jump. That’s when Bitcoin comes into my head like a quiet lifeline. ​Every single night-shift yuan, every 10-RMB registration fee I earn by risking my neck… if I put it into Bitcoin, at least that money has a chance to hold its value. It won’t just evaporate in RMB inflation like everything else around me. My colleagues who don’t get Bitcoin, who throw their savings into Chinese stocks or real estate… when this big ship called the Chinese economy starts sinking, they’ll go down with it. But me? Maybe—just maybe—my path will look a little brighter. My future might actually have some light at the end. ​Bitcoin isn’t just an investment for me. Right now, it’s the only thing keeping my mental health from completely crumbling. It gives me a tiny sense of control, a small hope that my suffering isn’t completely pointless.
 
-17h ago
-
----
-
-**[New: $0 spread on recurring bitcoin buys for Canadians 🇨🇦](https://www.reddit.com/r/Bitcoin/comments/1rvkbc3/new_0_spread_on_recurring_bitcoin_buys_for/)**
-
-Hey r/Bitcoin, I’m Jean, co-founder and CEO of Shakepay. We build easy and rewarding products to help Canadians stack sats and reach their bitcoin goals. This has been available in other markets for some time now but I’m really excited to share that we launched no spread, no fee recurring bitcoin buys today, a first for the Canadian market. If you’re Canadian and have any questions, feel free to post them below. Also, just wanted to share that we first got off the ground 10 years ago with our first announcement in this very channel, so thanks for your support throughout the years. Happy stacking!
-
-11h ago
+18h ago
 
 ---
 
@@ -129,31 +121,39 @@ Hey r/Bitcoin, I’m Jean, co-founder and CEO of Shakepay. We build easy and rew
 
 No one can guarantee whether we have already reached the bottom. But everyone agrees that $74,000 is not the top. So, I'm no longer trying to predict the bottom to make a few extra hypothetical percent in profit... I'm simply convinced that we will see higher prices again and I'll be there with my stack!
 
-14h ago
+15h ago
 
 ---
 
-**[U.K. judge allows lawsuit over alleged $172M bitcoin theft between spouses](https://www.reddit.com/r/Bitcoin/comments/1rvz651/uk_judge_allows_lawsuit_over_alleged_172m_bitcoin/)**
+**[New: $0 spread on recurring bitcoin buys for Canadians 🇨🇦](https://www.reddit.com/r/Bitcoin/comments/1rvkbc3/new_0_spread_on_recurring_bitcoin_buys_for/)**
 
-A husband claims his wife used home CCTV to capture his bitcoin seed phrase and transfer 2,323 BTC.
+Hey r/Bitcoin, I’m Jean, co-founder and CEO of Shakepay. We build easy and rewarding products to help Canadians stack sats and reach their bitcoin goals. This has been available in other markets for some time now but I’m really excited to share that we launched no spread, no fee recurring bitcoin buys today, a first for the Canadian market. If you’re Canadian and have any questions, feel free to post them below. Also, just wanted to share that we first got off the ground 10 years ago with our first announcement in this very channel, so thanks for your support throughout the years. Happy stacking!
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/03/16/man-accuses-wife-of-using-cctv-cameras-to-steal-usd172-million-bitcoin-from-his-hardware-wallet) • 22m ago
-
----
-
-**[Do startups slow down because they get bigger or because decisions get slower?](https://www.reddit.com/r/Bitcoin/comments/1rvyy1r/do_startups_slow_down_because_they_get_bigger_or/)**
-
-Something I’ve been noticing across startups is that they rarely run out of ideas as they grow. What they quietly start losing is decision speed. In the early days, decisions are fast. There are fewer people involved, less need for alignment, and a higher tolerance for uncertainty. As the company grows, things start to change. More conversations, more validation, more alignment. Each step makes sense on its own. But collectively, they slow everything down. And decision velocity is one of the biggest advantages a young company has. Startups don’t usually win by being the most certain. They win by learning faster than everyone else. Which means making decisions before everything is perfectly clear and then adjusting quickly when they’re wrong. Curious to hear from others here: Where have you seen decision-making slow down the most? Early-stage startups, or larger companies?
-
-36m ago
+12h ago
 
 ---
 
-**[Is there a reputable and trustworthy company capable of recovering lost BTC to a scam?](https://www.reddit.com/r/Bitcoin/comments/1rvkcyp/is_there_a_reputable_and_trustworthy_company/)**
+**[Honest advice: Should I sell my car and buy 0.14 BTC?](https://www.reddit.com/r/Bitcoin/comments/1rvzuki/honest_advice_should_i_sell_my_car_and_buy_014_btc/)**
 
-All in the title. I wasn't hacked. I transferred BTC to what I thought was a legitimate program. Will share details with any company that this community can recommend.
+I truely think that BTC will be worth way more valuable than what it is right now. If I can stomach volatility, and buy another used car enough for me for less than 100 miles per month (thats all what I drive) and sell my new car, and put that money into btc (0.14 btc) for 10 years.. Would that be a good idea? Honest advice needed! Thanks!
 
-11h ago
+42m ago
+
+---
+
+**[Dang it, I miss the boat again!](https://www.reddit.com/r/Bitcoin/comments/1rvy0f9/dang_it_i_miss_the_boat_again/)**
+
+because of waiting for bitcoin to drop some more.
+
+2h ago
+
+---
+
+**[Daily Discussion, March 17, 2026](https://www.reddit.com/r/Bitcoin/comments/1rvymae/daily_discussion_march_17_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+1h ago
 
 ---
 
@@ -161,41 +161,39 @@ All in the title. I wasn't hacked. I transferred BTC to what I thought was a leg
 
 ## Google News: "bitcoin"
 
-**[U.K. judge allows lawsuit over alleged $172M bitcoin theft between spouses](https://www.coindesk.com/business/2026/03/16/man-accuses-wife-of-using-cctv-cameras-to-steal-usd172-million-bitcoin-from-his-hardware-wallet)**
-
-A husband claims his wife used home CCTV to capture his bitcoin seed phrase and transfer 2,323 BTC.
-
-CoinDesk • 8h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcioSYN7O4umnhThGG550_5Hvk8qYnO4uHdQ1WNhGAtApA3ymfmDV7W&gaa_ts=69b900be&gaa_sig=UQS9rYFOe24ppwBX2yKXAMd5uad3zQfGt0dl12ClJtX-8fKXKslhdbl76F7TGM9Uj9RXTti_4gIfs4bBK20rjg%3D%3D)**
-
-Barron's • 10h ago
-
----
-
-**[Emergent's CEO says the vibe-coding industry is still in its 'bitcoin $1' moment](https://www.businessinsider.com/emergent-ceo-vibe-coding-bitcoin-moment-ai-boom-2026-3)**
-
-Emergent CEO Mukund Jha says vibe coding is still at 1% of its potential and compares the industry today to bitcoin at $1.
-
-Business Insider • 2h ago
-
----
-
-**[Bitcoin rally tests $75,000 level in massive short squeeze](https://www.theblock.co/post/393850/bitcoin-higher-sentiment-improves)**
-
-The crypto market saw $609 million in liquidations in the past 24 hours, including $485 million in short positions, Coinglass data showed.
-
-The Block • 2h ago
-
----
-
 **[Bitcoin news: BTC gives up early gains, XRP, SOL, DOGE follow suit](https://www.coindesk.com/markets/2026/03/17/bitcoin-s-derivatives-led-rally-is-already-unraveling-prices-are-back-below-usd75-000)**
 
 Bitcoin briefly surged to a six-week high above $75,000 before quickly retreating, underscoring the fragility of the latest rally.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqdjhe-2-fX5US8zwmK6dH6VZhiJMTuh5v0bYtBj2RjwqG-4wmGtpl69&gaa_ts=69b90f43&gaa_sig=k2HKlWaJre1n-rDmr3hqobFS89RIyEuUHTTknbf7wa5B2MHNzaMQjWj9u2Bess-y42p-mlQ83QezMhQwcP22fQ%3D%3D)**
+
+Barron's • 11h ago
+
+---
+
+**[Bitcoin Surprises as Oasis of Calm While Iran War Jolts Markets](https://www.bloomberg.com/news/articles/2026-03-17/bitcoin-surprises-as-oasis-of-calm-while-iran-war-jolts-markets)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Pepeto Reveils Layer 2 Upgrade Follows Dogecoin Success And Bitcoin Price Prediction Hits $250K While Elon Musk Link Grows](https://markets.businessinsider.com/news/stocks/pepeto-reveils-layer-2-upgrade-follows-dogecoin-success-and-bitcoin-price-prediction-hits-250k-while-elon-musk-link-grows-1035935481)**
+
+Dubai, UAE, March  17, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced a Layer 2 scaling upgrade on its exchange protocol, and the presale crossed...
+
+markets.businessinsider.com • 2h ago
+
+---
+
+**[BTC, ETH, ADA price news: Majors post 11% weekly gains as bitcoin tests $75,000](https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision)**
+
+Ether jumped 13%, XRP surged 11%, and solana gained 9.7% over seven days as $767 million in ETF inflows and ceasefire speculation fueled the broadest rally since before the war.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -203,13 +201,13 @@ CoinDesk • 2h ago
 
 The company's stack now stands at 761,068 bitcoin, acquired for $57.61 billion.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
 **[Saylor’s Strategy Ramps Up Sales of Preferred in Latest Bitcoin Purchase](https://www.bloomberg.com/news/articles/2026-03-16/saylor-s-strategy-ramps-up-sales-of-preferred-in-latest-bitcoin-purchase)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -217,7 +215,13 @@ Bloomberg.com • 10h ago
 
 Strategy spent $1.57 billion on Bitcoin last week, notching its largest purchase of the year so far amid heightened demand for STRC.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
+
+---
+
+**[Wife ‘filmed husband’s passwords to steal £180m in bitcoin’](https://www.thetimes.com/uk/law/article/wife-steal-bitcoin-spy-camera-cz8bxfcph?gaa_at=eafs&gaa_n=AWEtsqf2lrgZri8Z1ymVCEPA4NIAVEW-uCP4-YPfHRijXR-E3CCYYC873Fen&gaa_ts=69b90f43&gaa_sig=mQy95zcKu3r2ItjQ4dlaVmFFu5M-GR699iXUCHIB6R5dXMlMMyFnhe3Cbb4TSU5JToPXCOQSccrcYBSC04AGVQ%3D%3D)**
+
+The Times • 17h ago
 
 ---
 
@@ -237,13 +241,7 @@ Sports are the most popular category to wager on in prediction markets, as they 
 
 Prediction markets received mainstream attention during the 2024 presidential election, when they correctly predicted Donald Trump’s victory, contrary to many national polls. The two leading platforms, Kalshi and Polymarket, are looking to raise money at a $20 billion valuation, according to The Wall Street Journal.
 
-Fortune • 11h ago
-
----
-
-**[Crypto Stocks Rally, These Factors Drive Bitcoin Rebound To Feb. High](https://www.investors.com/news/bitcoin-price-74k-february-etf-flows-cryptocurrency-gold-oil-us-treasury-yield-dollar-iran/)**
-
-Investor's Business Daily • 9h ago
+Fortune • 12h ago
 
 ---
 
@@ -319,7 +317,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Send a magic link, watch a live session replay with console and network data. Close the gap between bug reports and reality.
 
-⬆️ 1 • 💬 0 • 17h ago • [Clairvio](https://clairvio.dev/)
+⬆️ 1 • 💬 0 • 18h ago • [Clairvio](https://clairvio.dev/)
 
 ---
 
@@ -333,7 +331,7 @@ Bitcoin is under attack again. Politicians and critics are calling it a Ponzi wh
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 84 • ⏱️ 12:22 • 10h ago
+👁️ 18K • 👍 1K • 💬 84 • ⏱️ 12:22 • 11h ago
 
 ---
 
@@ -343,7 +341,7 @@ The only asset besides oil going up right now is Bitcoin. The coin is up 10 perc
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 7K • 👍 423 • 💬 43 • ⏱️ 8:25 • 10h ago
+👁️ 7K • 👍 423 • 💬 43 • ⏱️ 8:25 • 11h ago
 
 ---
 
@@ -353,7 +351,7 @@ My march newsletter is out, discussing how risk cascades through markets. You ca
 
 📺 Benjamin Cowen
 
-👁️ 42K • 👍 3K • 💬 196 • ⏱️ 15:27 • 8h ago
+👁️ 42K • 👍 3K • 💬 196 • ⏱️ 15:27 • 9h ago
 
 ---
 
@@ -363,7 +361,7 @@ Ran breaks down why Bitcoin is holding strong despite war headlines and rising o
 
 📺 Crypto Banter
 
-👁️ 23K • 👍 2K • 💬 72 • ⏱️ 25:40 • 16h ago
+👁️ 23K • 👍 2K • 💬 72 • ⏱️ 25:40 • 17h ago
 
 ---
 
@@ -373,7 +371,7 @@ The stock market is rolling over into a massive distribution phase, but the cryp
 
 📺 Gareth Soloway
 
-👁️ 42K • 👍 3K • 💬 376 • ⏱️ 10:09 • 12h ago
+👁️ 42K • 👍 3K • 💬 376 • ⏱️ 10:09 • 13h ago
 
 ---
 
@@ -383,7 +381,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 183 • ⏱️ 48:22 • 16h ago
+👁️ 21K • 👍 1K • 💬 183 • ⏱️ 48:22 • 17h ago
 
 ---
 
@@ -393,7 +391,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 5K • 👍 274 • 💬 31 • ⏱️ 20:28 • 15h ago
+👁️ 5K • 👍 274 • 💬 31 • ⏱️ 20:28 • 16h ago
 
 ---
 
@@ -413,7 +411,7 @@ Bitcoin just surged toward $73K while traders betting against it get wiped out. 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 107 • ⏱️ 14:56 • 18h ago
+👁️ 13K • 👍 1K • 💬 107 • ⏱️ 14:56 • 19h ago
 
 ---
 

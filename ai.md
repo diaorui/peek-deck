@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-17T07:05:56.801631+00:00'
+updated: '2026-03-17T08:07:56.395094+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 17, 2026 at 07:05 UTC  
+**Last Updated:** March 17, 2026 at 08:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The massive crowdsourcing effort could use real-world to help robots deliver pizza.
 
-🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 17h ago
+🔗 [Popular Science](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/?_bhlid=b5452cec2227e1f7d072b583b08fbb55784f34ab) • 18h ago
 
 ---
 
@@ -49,15 +49,7 @@ The massive crowdsourcing effort could use real-world to help robots deliver piz
 
 I built a pipeline where 5 AI models (Claude, GPT-4o, Gemini, Grok, DeepSeek) independently assess the probability of 30+ crisis scenarios twice daily. None of them see the others' outputs. An orchestrator synthesizes their reasoning into final projections. Some observations after 15 days of continuous operation: The models frequently disagree, sometimes by 25+ points. Grok tends to run hot on scenarios with OSINT signals. The orchestrator has to resolve these tensions every cycle. The models anchored to their own previous outputs when shown current probabilities, so I made them blind. Named rules in prompts became shortcuts the models cited instead of actually reasoning. Google Search grounding prevented source hallucination but not content hallucination, the model fabricated a $138 oil price while correctly citing Bloomberg as the source. Three active theaters: Iran, Taiwan, AGI. A Black Swan tab pulls the high-severity low-probability scenarios across all of them. devblog at /blog covers the prompt engineering insights and mistakes I've encountered along the way in detail. doomclock.app
 
-12h ago
-
----
-
-**[Agentic pipeline that builds complete Godot games from a text prompt](https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/)**
-
-Open source: https://github.com/htdt/godogen
-
-14h ago
+13h ago
 
 ---
 
@@ -65,7 +57,15 @@ Open source: https://github.com/htdt/godogen
 
 For those are tired of writing the same ML boilerplate every single time or to beginners who don't have coding experience. MLForge is an app that lets you visually craft a machine learning pipeline. You build your pipeline like a node graph across three tabs: Data Prep - drag in a dataset (MNIST, CIFAR10, etc), chain transforms, end with a DataLoader. Add a second chain with a val DataLoader for proper validation splits. Model - connect layers visually. Input -> Linear -> ReLU -> Output. A few things that make this less painful than it sounds: Drop in a MNIST (or any dataset) node and the Input shape auto-fills to 1, 28, 28 Connect layers and in_channels / in_features propagate automatically After a Flatten, the next Linear's in_features is calculated from the conv stack above it, so no more manually doing that math Robust error checking system that tries its best to prevent shape errors. Training - Drop in your model and data node, wire them to the Loss and Optimizer node, press RUN. Watch loss curves update live, saves best checkpoint automatically. Inference - Open up the inference window where you can drop in your checkpoints and evaluate your model on test data. Pytorch Export - After your done with your project, you have the option of exporting your project into pure PyTorch, just a standalone file that you can run and experiment with. Free, open source. Project showcase is on README in Github repo. GitHub: https://github.com/zaina-ml/ml_forge To install MLForge, enter the following in your command prompt pip install zaina-ml-forge Then ml-forge Please, if you have any feedback feel free to comment it below. My goal is to make this software that can be used by beginners and pros. This is v1.0 so there will be rough edges, if you find one, drop it in the comments and I'll fix it.
 
-6h ago
+7h ago
+
+---
+
+**[Agentic pipeline that builds complete Godot games from a text prompt](https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/)**
+
+Open source: https://github.com/htdt/godogen
+
+15h ago
 
 ---
 
@@ -73,7 +73,7 @@ For those are tired of writing the same ML boilerplate every single time or to b
 
 Numerous faked images and a string of startlingly inaccurate responses from Gemini and Grok are part of a tidal wave of AI slop engulfing coverage of the Iran war
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves) • 5m ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves) • 1h ago
 
 ---
 
@@ -81,13 +81,13 @@ Numerous faked images and a string of startlingly inaccurate responses from Gemi
 
 Encyclopedia Britannica and Merriam-Webster sue OpenAI, alleging copyright infringement in AI training. Here’s what it means for ChatGPT and the future of AI.
 
-🔗 [techputs](https://techputs.com/dictionary-sues-openai-ai-training-copyright/) • 55m ago
+🔗 [techputs](https://techputs.com/dictionary-sues-openai-ai-training-copyright/) • 1h ago
 
 ---
 
 **[Best AI Tools for Students in 2026 (Free & Paid Options You Can Try)](https://www.reddit.com/r/artificial/comments/1rvw5lj/best_ai_tools_for_students_in_2026_free_paid/)**
 
-🔗 [rootingmaster.com](https://rootingmaster.com/best-ai-tools-for-students/) • 3h ago
+🔗 [rootingmaster.com](https://rootingmaster.com/best-ai-tools-for-students/) • 4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Encyclopedia Britannica and Merriam-Webster sue OpenAI, alleging copyright infri
 
 In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.
 
-17h ago
+18h ago
 
 ---
 
@@ -103,7 +103,7 @@ In other words, some trustworthy links that you can read on daily/weekly basis t
 
 OpenAI introduced ads to ChatGPT last month, exclusive to users in the United States. Users online suspect a global rollout is coming soon.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 20h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/chatgpt-ads-still-exclusive-to-the-united-states-openai-says-no-to-global-rollout-just-yet/) • 21h ago
 
 ---
 
@@ -111,7 +111,7 @@ OpenAI introduced ads to ChatGPT last month, exclusive to users in the United St
 
 Introducing Attention Residuals: Rethinking depth-wise aggregation. Residual connections have long relied on fixed, uniform accumulation. Inspired by the duality of time and depth, Kimi introduce Attention Residuals, replacing standard depth-wise recurrence with learned, input-dependent attention over preceding layers. Enables networks to selectively retrieve past representations, naturally mitigating dilution and hidden-state growth. Introduces Block AttnRes, partitioning layers into compressed blocks to make cross-layer attention practical at scale. Serves as an efficient drop-in replacement, demonstrating a 1.25x compute advantage with negligible (<2%) inference latency overhead. Validated on the Kimi Linear architecture (48B total, 3B activated parameters), delivering consistent downstream performance gains. Paper link: https://github.com/MoonshotAI/Attention-Residuals/blob/master/Attention_Residuals.pdf
 
-19h ago
+20h ago
 
 ---
 
@@ -123,23 +123,39 @@ Introducing Attention Residuals: Rethinking depth-wise aggregation. Residual con
 
 Indian IT stocks have plunged as fears grow of AI disrupting back offices. But some say these are overblown.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
-**[Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming](https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html)**
+**[A photo of Iran’s bombed schoolgirl graveyard went around the world. Was it real, or AI?](https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves)**
 
-Gurley's VC firm Benchmark was an early Uber investor, and he helped oust then-CEO Travis Kalanick in 2017.
+Numerous faked images and a string of startlingly inaccurate responses from Gemini and Grok are part of a tidal wave of AI slop engulfing coverage of the Iran war
 
-CNBC • 13h ago
+The Guardian • 3h ago
 
 ---
 
-**[UK must learn lessons from AI race and retain its quantum computing talent, says minister](https://www.theguardian.com/technology/2026/mar/17/uk-must-learn-lessons-from-ai-race-and-retain-its-quantum-computing-talent-says-minister)**
+**[Zendaya Responds to AI Wedding Photos With Tom Holland: 'Many People Have Been Fooled'](https://www.rollingstone.com/tv-movies/tv-movie-news/zendaya-tom-holland-ai-wedding-photos-interview-kimmel-1235532131/)**
 
-Liz Kendall announces £1bn funding to help design large-scale quantum computers for scientists, researchers, public sector and business
+Zendaya responded to the AI wedding photos that circulated after it was reported that she and Tom Holland were married.
 
-The Guardian • 1h ago
+Rolling Stone • 14m ago
+
+---
+
+**[How Netflix thinks AI can help it fight off rivals in the 'most competitive time in the history of media'](https://www.businessinsider.com/netflix-ceo-ted-sarandos-ai-cheaper-better-films-2026-3)**
+
+Netflix co-CEO Ted Sarandos said that "faster and cheaper" doesn't matter if AI isn't making films "better."
+
+Business Insider • 6m ago
+
+---
+
+**[What happens to middle management when AI flattens your organization?](https://www.fastcompany.com/91496688/what-happens-to-middle-management-when-ai-flattens-your-organization-ai-middle-management)**
+
+The six key risks that ned to be mitigated
+
+Fast Company • 57m ago
 
 ---
 
@@ -147,7 +163,7 @@ The Guardian • 1h ago
 
 NVIDIA today unveiled NVIDIA DLSS 5, the company’s most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.
 
-NVIDIA Newsroom • 8h ago
+NVIDIA Newsroom • 9h ago
 
 ---
 
@@ -155,45 +171,29 @@ NVIDIA Newsroom • 8h ago
 
 Photoreal or Instagram filter-real?
 
-The Verge • 9h ago
+The Verge • 10h ago
 
 ---
 
-**[Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming](https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/)**
+**[This year's Game Developers Conference was unlike any other](https://www.polygon.com/gdc-2026-game-developers-conference-what-is-it-like-ai-talks/)**
 
-Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.
+GDC is where game developers go to pull back the curtain on the biggest games, but never-ending layoffs and a focus on AI made the vibes rancid
 
-TechCrunch • 11h ago
+Polygon.com • 14h ago
 
 ---
 
 **[Opinion | I Predicted the 2008 Financial Crisis. What Is Coming May Be Worse.](https://www.nytimes.com/2026/03/16/opinion/financial-crisis-private-credit-ai-iran-taiwan.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
-**[The world’s most valuable company just sent another signal that AI agents are going to be everywhere](https://www.cnn.com/2026/03/16/tech/nvidia-jensen-huang-ai-agents)**
+**[Leanstral: Open-Source foundation for trustworthy vibe-coding](https://mistral.ai/news/leanstral)**
 
-Tech giant Nvidia, the world’s most valuable company and the poster child of the AI boom, is banking its future on the rise of AI agents.
+First open-source code agent for Lean 4.
 
-CNN • 10h ago
-
----
-
-**[Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material](https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images)**
-
-The three girls say that the nonconsensual nude images were created by a perpetrator who used AI company xAI's image generation tools.
-
-NPR • 6h ago
-
----
-
-**[See which jobs are most threatened by AI and who may be able to adapt](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/)**
-
-Look up which jobs are most at risk from artificial intelligence and who is most likely to be able to adapt, according to a new analysis.
-
-The Washington Post • 15h ago
+Mistral AI • 13h ago
 
 ---
 
@@ -211,7 +211,7 @@ Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creati
 
 **[Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)**
 
-⬆️ 392 • 💬 580 • 1d ago
+⬆️ 393 • 💬 580 • 1d ago
 
 ---
 
@@ -219,7 +219,7 @@ Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creati
 
 Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?
 
-⬆️ 364 • 💬 292 • 1d ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+⬆️ 364 • 💬 292 • 2d ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 
 ---
 
@@ -227,7 +227,7 @@ Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretati
 
 The ultimate over-ear listening experience — in five vibrant colors and with up to 1.5x more Active Noise Cancellation than the previous generation.
 
-⬆️ 263 • 💬 444 • 17h ago • [Apple](https://www.apple.com/airpods-max/)
+⬆️ 271 • 💬 450 • 18h ago • [Apple](https://www.apple.com/airpods-max/)
 
 ---
 
@@ -243,7 +243,7 @@ Airbus is working at full throttle to offer the German Air Force an operational 
 
 NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose-built for the age of agentic AI and reinforcement learning — delivering results with twice the efficiency and 50% faster than traditional rack-scale CPUs.
 
-⬆️ 153 • 💬 86 • 11h ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
+⬆️ 155 • 💬 88 • 12h ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
 
 ---
 
@@ -265,7 +265,7 @@ Define, version, and run AI agents natively in git. GitAgent is the open AI agen
 
 TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.
 
-⬆️ 128 • 💬 108 • 15h ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+⬆️ 128 • 💬 108 • 16h ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 
 ---
 
@@ -273,7 +273,7 @@ TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a 
 
 Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.
 
-⬆️ 103 • 💬 58 • 13h ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
+⬆️ 106 • 💬 58 • 15h ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
 
 ---
 
@@ -287,7 +287,7 @@ Top AI researchers are walking away from some of the most powerful tech companie
 
 📺 The Infographics Show
 
-👁️ 109K • 👍 3K • 💬 626 • ⏱️ 14:48 • 6h ago
+👁️ 109K • 👍 3K • 💬 626 • ⏱️ 14:48 • 7h ago
 
 ---
 
@@ -297,7 +297,7 @@ Google DeepMind's AlphaEvolve just broke long-standing mathematical records by e
 
 📺 AI Revolution
 
-👁️ 15K • 👍 586 • 💬 40 • ⏱️ 10:41 • 8h ago
+👁️ 15K • 👍 586 • 💬 40 • ⏱️ 10:41 • 9h ago
 
 ---
 
@@ -307,7 +307,7 @@ Generate watermark-free 4K cinematic AI videos with Higgsfield → https://higgs
 
 📺 Malva AI
 
-👁️ 7K • 👍 320 • 💬 69 • ⏱️ 8:25 • 18h ago
+👁️ 7K • 👍 320 • 💬 69 • ⏱️ 8:25 • 19h ago
 
 ---
 
@@ -317,7 +317,7 @@ What is financial freedom? The Business Strategist Daniel Priestley on why AI ma
 
 📺 The Diary Of A CEO
 
-👁️ 589K • 👍 15K • 💬 3K • ⏱️ 2:02:37 • 23h ago
+👁️ 589K • 👍 15K • 💬 3K • ⏱️ 2:02:37 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ Nvidia CEO Jensen Huang delivered a keynote speech at the company's AI conferenc
 
 📺 DRM News
 
-👁️ 822 • 👍 8 • 💬 3 • ⏱️ 25:20 • 11h ago
+👁️ 822 • 👍 8 • 💬 3 • ⏱️ 25:20 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ Meta Platforms is reportedly considering laying off over 20% of its workforce. T
 
 📺 Eurodollar University
 
-👁️ 46K • 👍 2K • 💬 117 • ⏱️ 19:11 • 8h ago
+👁️ 46K • 👍 2K • 💬 117 • ⏱️ 19:11 • 9h ago
 
 ---
 
@@ -644,7 +644,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 39.0k • 🔱 5.4k • 12h ago
+⭐ 39.0k • 🔱 5.4k • 13h ago
 
 ---
 
@@ -664,7 +664,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.4k • 🔱 1.5k • 53m ago
+⭐ 12.4k • 🔱 1.5k • 1h ago
 
 ---
 
@@ -674,7 +674,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.3k • 🔱 941 • 16h ago
+⭐ 10.3k • 🔱 941 • 17h ago
 
 ---
 
@@ -684,7 +684,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.6k • 🔱 691 • 19h ago
+⭐ 9.6k • 🔱 691 • 20h ago
 
 ---
 
@@ -694,7 +694,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 8.1k • 🔱 381 • 22h ago
+⭐ 8.1k • 🔱 381 • 23h ago
 
 ---
 
@@ -704,7 +704,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.4k • 🔱 760 • 5h ago
+⭐ 6.4k • 🔱 760 • 6h ago
 
 ---
 
@@ -732,7 +732,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 2.8k • 🔱 188 • 2d ago
+⭐ 2.8k • 🔱 188 • 3d ago
 
 ---
 
