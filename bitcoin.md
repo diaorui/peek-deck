@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-17T21:05:16.078721+00:00'
+updated: '2026-03-17T22:02:07.625659+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 21:05 UTC  
+**Last Updated:** March 17, 2026 at 22:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized shitcoins, straight BTC. It eventuelly makes sense. AI agents need a payment layer with no counterparty risk, no geography, and no permissions required. Bitcoin was built for exactly that.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,13 +89,13 @@ Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized s
 
 Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework
 
-10h ago
+11h ago
 
 ---
 
 **[Being behind is not your fault. Staying behind is.](https://www.reddit.com/r/Bitcoin/comments/1rwcxze/being_behind_is_not_your_fault_staying_behind_is/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -103,13 +103,13 @@ Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate
 
 https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
 
-5h ago
+6h ago
 
 ---
 
 **[From nearly zero in 2017 to ~1.2 million BTC held by 50+ public companies by 2025.](https://www.reddit.com/r/Bitcoin/comments/1rw6xls/from_nearly_zero_in_2017_to_12_million_btc_held/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
 
 Interestingly my first thought was an eye roll. “Mom you barely know how to use your phone. Why?” Then her very next question was “well just explain to me simply what it is”. So I did. Simply. And she said she wants some. I thought, wow, this is amazing. Retail is back 😂 Jokes aside, this really is a great indicator in my personal life of Bitcoin’s baby steps into a mainstream average person adoption.
 
-1h ago
+2h ago
 
 ---
 
@@ -125,13 +125,13 @@ Interestingly my first thought was an eye roll. “Mom you barely know how to us
 
 been stacking sats for most of this year and just crossed into full bitcoin territory today picked up more during a few different dips along the way which helped me get there faster kinda thought id feel more excited when i reached this point but its more like relief than celebration i guess still pretty cool though especially since i really believe this technology is going somewhere big now time to start working toward that second bitcoin
 
-14h ago
+15h ago
 
 ---
 
 **[Wow! This great Bitcoin post on the front page of Reddit right now (NP link).](https://www.reddit.com/r/Bitcoin/comments/1rwi3su/wow_this_great_bitcoin_post_on_the_front_page_of/)**
 
-47m ago
+1h ago
 
 ---
 
@@ -139,13 +139,13 @@ been stacking sats for most of this year and just crossed into full bitcoin terr
 
 because of waiting for bitcoin to drop some more.
 
-15h ago
+16h ago
 
 ---
 
 **[Bitcoin Histomap: 50 events that shaped Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rw7xs2/bitcoin_histomap_50_events_that_shaped_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -155,7 +155,7 @@ because of waiting for bitcoin to drop some more.
 
 **[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -163,7 +163,7 @@ Reuters • 12h ago
 
 Bitcoin briefly surged to a six-week high above $75,000 before quickly retreating, underscoring the fragility of the latest rally.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 16h ago
 
 Bitcoin price traded near $75,000 on Tuesday, after extending a winning streak that has pushed the asset close to a key psychological level.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bitcoin Magazine • 1h ago
 
 Hot PPI inflation data in the morning and hawkish remarks by Powell in the afternoon would be the most damaging combination for risk assets, including crypto, Bitfinex analysts said.
 
-CoinDesk • 33m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 1d ago
 
 **[Strategy Faces Key Test It's Failed 3 Times After Big Bitcoin Buy](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -209,7 +209,7 @@ Investor's Business Daily • 9h ago
 
 A $1.18 billion preferred stock raise, roughly equivalent to 16,800 BTC, signals a shift away from common stock as dividend obligations top $1 billion.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -297,7 +297,7 @@ The truth about Bitcoin in 2026, Iran, Ethereum, and altcoins! BITUNIX TRADE THE
 
 📺 Lark Davis
 
-👁️ 14K • 👍 795 • 💬 52 • ⏱️ 16:02 • 9h ago
+👁️ 14K • 👍 795 • 💬 52 • ⏱️ 16:02 • 10h ago
 
 ---
 
@@ -307,7 +307,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 926 • 💬 81 • ⏱️ 36:40 • 6h ago
+👁️ 13K • 👍 926 • 💬 81 • ⏱️ 36:40 • 7h ago
 
 ---
 
@@ -317,7 +317,7 @@ On-chain analyst James Check (Checkmate) breaks down Bitcoin's blockchain data l
 
 📺 Natalie Brunell
 
-👁️ 11K • 👍 734 • 💬 87 • ⏱️ 49:25 • 8h ago
+👁️ 11K • 👍 734 • 💬 87 • ⏱️ 49:25 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin is under attack again. Politicians and critics are calling it a Ponzi wh
 
 📺 Bloomberg Television
 
-👁️ 402 • 👍 12 • 💬 1 • ⏱️ 18:54 • 2h ago
+👁️ 402 • 👍 12 • 💬 1 • ⏱️ 18:54 • 3h ago
 
 ---
 
@@ -347,7 +347,7 @@ There are several reasons retailers don't accept Bitcoin as payment. #shorts #bi
 
 📺 Cyber Scrilla
 
-👁️ 617 • 👍 37 • 💬 7 • ⏱️ 1:05 • 1h ago
+👁️ 617 • 👍 37 • 💬 7 • ⏱️ 1:05 • 2h ago
 
 ---
 
@@ -357,7 +357,7 @@ I called $75K for Bitcoin four days ago. It hit $76K instead - so I was wrong in
 
 📺 Coin Bureau Trading
 
-👁️ 9K • 👍 799 • 💬 94 • ⏱️ 22:53 • 14h ago
+👁️ 9K • 👍 799 • 💬 94 • ⏱️ 22:53 • 15h ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin is pumping, but is the bottom really in? We analyze the 52K price target
 
 📺 Financial Funda
 
-👁️ 2K • 👍 143 • 💬 1 • ⏱️ 1:25 • 2h ago
+👁️ 2K • 👍 143 • 💬 1 • ⏱️ 1:25 • 3h ago
 
 ---
 
