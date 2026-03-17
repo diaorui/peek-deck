@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-17T23:00:23.569524+00:00'
+updated: '2026-03-17T23:41:18.290088+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 23:00 UTC  
+**Last Updated:** March 17, 2026 at 23:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized shitcoins, straight BTC. It eventuelly makes sense. AI agents need a payment layer with no counterparty risk, no geography, and no permissions required. Bitcoin was built for exactly that.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,13 +89,13 @@ Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized s
 
 Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework
 
-12h ago
+13h ago
 
 ---
 
 **[Being behind is not your fault. Staying behind is.](https://www.reddit.com/r/Bitcoin/comments/1rwcxze/being_behind_is_not_your_fault_staying_behind_is/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate
 
 https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ Interestingly my first thought was an eye roll. “Mom you barely know how to us
 
 **[Wow! This great Bitcoin post on the front page of Reddit right now (NP link).](https://www.reddit.com/r/Bitcoin/comments/1rwi3su/wow_this_great_bitcoin_post_on_the_front_page_of/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -131,13 +131,13 @@ Interestingly my first thought was an eye roll. “Mom you barely know how to us
 
 been stacking sats for most of this year and just crossed into full bitcoin territory today picked up more during a few different dips along the way which helped me get there faster kinda thought id feel more excited when i reached this point but its more like relief than celebration i guess still pretty cool though especially since i really believe this technology is going somewhere big now time to start working toward that second bitcoin
 
-16h ago
+17h ago
 
 ---
 
 **[Bitcoin Histomap: 50 events that shaped Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rw7xs2/bitcoin_histomap_50_events_that_shaped_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ been stacking sats for most of this year and just crossed into full bitcoin terr
 
 because of waiting for bitcoin to drop some more.
 
-17h ago
+18h ago
 
 ---
 
@@ -155,7 +155,7 @@ because of waiting for bitcoin to drop some more.
 
 **[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 10h ago
 
 Citigroup cut its 12-month forecast for bitcoin and ethereum, citing slow U.S. legislative progress that narrows the window for regulatory catalysts expected to boost ETF-driven demand and broader institutional adoption.Progress on U.S. crypto market-structure legislation has stalled in the Senate…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 12h ago
 
 Bitcoin has cracked $73,000 but remains trapped within a broader range, leaving traders divided on whether the next major move will be higher or lower. BTC Remains Stuck According to prominent analyst Trader Mayne, Bitcoin is currently "diddling in the...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Investopedia • 1h ago
 
 **[Coinbase Stock Retakes Key Level As Bitcoin Rebounds; Is Coinbase Stock A Buy Now?](https://www.investors.com/research/coinbase-coin-stock-bitcoin-cryptocurrency-markets/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 13h ago
 
 Emergent CEO Mukund Jha says vibe coding is still at 1% of its potential and compares the industry today to bitcoin at $1.
 
-Business Insider • 17h ago
+Business Insider • 18h ago
 
 ---
 
@@ -265,7 +265,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Open archive of autonomous scientific discovery experiments.
 
-⬆️ 1 • 💬 1 • 58m ago • [protoscience.ai](https://protoscience.ai)
+⬆️ 1 • 💬 1 • 1h ago • [protoscience.ai](https://protoscience.ai)
 
 ---
 
@@ -307,7 +307,7 @@ The truth about Bitcoin in 2026, Iran, Ethereum, and altcoins! BITUNIX TRADE THE
 
 📺 Lark Davis
 
-👁️ 16K • 👍 874 • 💬 56 • ⏱️ 16:02 • 11h ago
+👁️ 16K • 👍 874 • 💬 56 • ⏱️ 16:02 • 12h ago
 
 ---
 
@@ -317,7 +317,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 1K • 💬 86 • ⏱️ 36:40 • 8h ago
+👁️ 15K • 👍 1K • 💬 86 • ⏱️ 36:40 • 9h ago
 
 ---
 
@@ -327,7 +327,7 @@ A silent shift is happening in Bitcoin and most people are missing it. With over
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 329 • 💬 24 • ⏱️ 59:29 • 4h ago
+👁️ 5K • 👍 329 • 💬 24 • ⏱️ 59:29 • 5h ago
 
 ---
 
@@ -347,7 +347,7 @@ There are several reasons retailers don't accept Bitcoin as payment. #shorts #bi
 
 📺 Cyber Scrilla
 
-👁️ 2K • 👍 126 • 💬 13 • ⏱️ 1:05 • 3h ago
+👁️ 2K • 👍 126 • 💬 13 • ⏱️ 1:05 • 4h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin is pumping, but is the bottom really in? We analyze the 52K price target
 
 📺 Financial Funda
 
-👁️ 5K • 👍 196 • 💬 1 • ⏱️ 1:25 • 4h ago
+👁️ 5K • 👍 196 • 💬 1 • ⏱️ 1:25 • 5h ago
 
 ---
 
@@ -387,7 +387,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 644 • 💬 27 • ⏱️ 6:02 • 16h ago
+👁️ 9K • 👍 644 • 💬 27 • ⏱️ 6:02 • 17h ago
 
 ---
 

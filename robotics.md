@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-17T23:00:23.578716+00:00'
+updated: '2026-03-17T23:41:18.300543+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 17, 2026 at 23:00 UTC  
+**Last Updated:** March 17, 2026 at 23:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Got a lot of feedbacks from last post, thanks a lot! There are many requests about trying uneven terrain, sand, and stairs. The sand was… not a pleasant experience. We heard some worrying rattling sounds after the test, so we’re thinking an enclosure might be necessary to keep the dust and grit out. But for now, here's our current attempt at the stairs! As you can see, still jittery, still leaning, but it jumps. Still a long way to go! We are planning to add perception so it can actually see the stairs and, hopefully, decide when to jump on its own without me babysitting the remote.
 
-8h ago
+9h ago
 
 ---
 
@@ -44,13 +44,13 @@ Got a lot of feedbacks from last post, thanks a lot! There are many requests abo
 
 From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 Incorrectly located in China, when it's actually in California Leila on 𝕏: https://x.com/oranaise/status/2033869874020106710
 
-9h ago
+10h ago
 
 ---
 
 **[Jetson-powered Olaf robot at NVIDIA GTC 2026](https://www.reddit.com/r/robotics/comments/1rwberk/jetsonpowered_olaf_robot_at_nvidia_gtc_2026/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey everyone, I am currently developing a custom tracker using my old lighthouse
 
 **[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey everyone, I am currently developing a custom tracker using my old lighthouse
 
 From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Just finished up designing and putting together the lower half of my yet another
 
 I've completed obstacle avoidance for my car using VIOBOT2. The stereo vision depth effect of VIOBOT2 is quite impressive. For those interested, feel free to check out my experimental test video.
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've completed obstacle avoidance for my car using VIOBOT2. The stereo vision de
 
 Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d still run into chair legs, cables, or random small stuff pretty often. Some of the newer ones seem a lot better at this now. Something like the Dreame X60 uses dual AI cameras for object recognition, while Roborock Saros 20 adds AI vision alongside LiDAR to spot obstacles and adjust the path instead of just bumping into things. Feels like avoidance has gotten noticeably better lately. Have others noticed the same in real use?
 
-11h ago
+12h ago
 
 ---
 
@@ -130,13 +130,13 @@ CNBC • 14h ago
 
 Gecko Robotics will be deploying its artificial intelligence and robotics within United States Navy warships.
 
-CBS News • 12h ago
+CBS News • 13h ago
 
 ---
 
 **[Navy taps Gecko Robotics for ship-scaling robots to identify repairs in Pacific Fleet](https://breakingdefense.com/2026/03/navy-taps-gecko-robotics-for-ship-scaling-robots-to-identify-repairs-in-pacific-fleet/)**
 
-Breaking Defense • 12h ago
+Breaking Defense • 13h ago
 
 ---
 
@@ -158,7 +158,7 @@ CNET • 1d ago
 
 **[Scientists Let AI Evolve These Robots' Designs – The Results Are Deeply Weird](https://www.iflscience.com/these-robots-evolved-in-an-ai-simulation-then-scientists-built-them-in-the-real-world-82878)**
 
-IFLScience • 8h ago
+IFLScience • 9h ago
 
 ---
 
@@ -174,7 +174,7 @@ Business Insider • 1d ago
 
 ST. JOHN’S, NEWFOUNDLAND, March 17, 2026 /GLOBE NEWSWIRE/ — Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces approximately $24 million in new orders to over 10 customers across five countries, including three new defence customers. The orders are for Kraken’s SeaPower batteries, KATFISH towed synthetic aperture sonar (SAS), and Kraken SAS. […]
 
-Kraken Robotics • 11h ago
+Kraken Robotics • 12h ago
 
 ---
 
@@ -182,7 +182,7 @@ Kraken Robotics • 11h ago
 
 A BCSC elementary robotics team over the weekend was crowned state champion in its division, earning a spot in world championship competition in April.
 
-The Republic News • 18h ago
+The Republic News • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 734 • 👍 34 • 💬 2 • ⏱️ 4:39 • 4h ago
+👁️ 734 • 👍 34 • 💬 2 • ⏱️ 4:39 • 5h ago
 
 ---
 
@@ -226,7 +226,7 @@ Variable Hooded Shooter | 9280 High Altitude Robotics | FRC Pit Stop This video 
 
 📺 FUN Robotics Network
 
-👁️ 267 • 👍 8 • ⏱️ 0:54 • 59m ago
+👁️ 267 • 👍 8 • ⏱️ 0:54 • 1h ago
 
 ---
 
@@ -266,7 +266,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 47K • 👍 650 • 💬 76 • ⏱️ 14:52 • 3d ago
+👁️ 47K • 👍 650 • 💬 76 • ⏱️ 14:52 • 4d ago
 
 ---
 

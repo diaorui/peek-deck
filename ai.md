@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-17T23:00:23.560540+00:00'
+updated: '2026-03-17T23:41:18.281396+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 17, 2026 at 23:00 UTC  
+**Last Updated:** March 17, 2026 at 23:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I work as a developer, and before this I was copium about AI, it was a form of self defense. But in Dec 2025 I bought subscriptions to gpt codex and claude. And honestly the impact was so strong that I still haven't recovered, I've barely written any code by hand since I bought the subscription And it's not that AI is better code than me. The point is that AI is replacing intellectual activity itself. This is absolutely not the same as automated machines in factories replacing human labor Neural networks aren't just about automating code, they're about automating intelligence as a whole. This is what AI really is. Any new tasks that arise can, in principle, be automated by a neural network. It's not a machine, not a calculator, not an assembly line, it's automation of intelligence in the broadest sense Lately I've been thinking about quitting programming and going into science (biotech), enrolling in a university and developing as a researcher, especially since I'm still young. But I'm afraid I might be right. That over time, AI will come for that too, even for scientists. And even though AI can't generate truly novel ideas yet, the pace of its development over the past few years has been so fast that it scares me
 
-10h ago
+11h ago
 
 ---
 
@@ -57,7 +57,7 @@ Nvidia unveils Vera CPU and Rubin platform to power agentic AI systems and next-
 
 The CEO says artistic control remains with developers.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 53m ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 1h ago
 
 ---
 
@@ -113,7 +113,7 @@ I’m currently looking for an [arXiv](https://www.linkedin.com/company/arxiv/) 
 
 Something I kept running into while experimenting with autonomous agents is that most AI safety discussions focus on the wrong layer. A lot of the conversation today revolves around: • prompt alignment • jailbreaks • output filtering • sandboxing Those things matter, but once agents can interact with real systems, the real risks look different. This is not about AGI alignment or superintelligence scenarios. It is about keeping today’s tool-using agents from accidentally: • burning your API budget • spawning runaway loops • provisioning infrastructure repeatedly • calling destructive tools at the wrong time An agent does not need to be malicious to cause problems. It only needs permission to do things like: • retry the same action endlessly • spawn too many parallel tasks • repeatedly call expensive APIs • chain tool calls in unexpected ways Humans ran into similar issues when building distributed systems. We solved them with things like rate limits, idempotency keys, concurrency limits, and execution guards. That made me wonder if agent systems might need something similar at the execution layer. So I started experimenting with an idea I call an execution authorization boundary. Conceptually it looks like this: proposes action +-------------------------------+ | Agent Runtime | +-------------------------------+ v +-------------------------------+ | Authorization Check | | (policy + current state) | +-------------------------------+ | | ALLOW DENY | | v v +----------------+ +-------------------------+ | Tool Execution | | Blocked Before Execution| +----------------+ +-------------------------+ The runtime proposes an action. A deterministic policy evaluates it against the current state. If allowed, the system emits a cryptographically verifiable authorization artifact. If denied, the action never executes. Example rules might look like: • daily tool budget ≤ $5 • no more than 3 concurrent tool calls • destructive actions require explicit confirmation • replayed actions are rejected I have been experimenting with this model in a small open source project called OxDeAI. It includes: • a deterministic policy engine • cryptographic authorization artifacts • tamper evident audit chains • verification envelopes • runtime adapters for LangGraph, CrewAI, AutoGen, OpenAI Agents and OpenClaw All the demos run the same simple scenario: ALLOW ALLOW DENY verifyEnvelope() => ok Two actions execute. The third is blocked before any side effects occur. There is also a short demo GIF showing the flow in practice. Repo if anyone is curious: https://github.com/AngeYobo/oxdeai Mostly interested in hearing how others building agent systems are handling this layer. Are people solving execution safety with policy engines, capability models, sandboxing, something else entirely, or just accepting the risk for now?
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ Something I kept running into while experimenting with autonomous agents is that
 
 **[Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real](https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 6h ago
 
 The three girls say that the nonconsensual nude images were created by a perpetrator who used AI company xAI's image generation tools.
 
-NPR • 21h ago
+NPR • 22h ago
 
 ---
 
@@ -139,7 +139,7 @@ NPR • 21h ago
 
 A new lawsuit filed Monday joins two others centered around nonconsensual explicit images allegedly made by the AI chatbot.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Ars Technica • 1d ago
 
 Nvidia says the tool will transform game graphics - critics warn it could squeeze out artistic expression.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 1d ago
 
 **[Nvidia Prepares to Take Its Next Step in China's AI Market](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-17-2026/card/nvidia-prepares-to-take-its-next-step-in-china-s-ai-market-ATYhESxjoUVyIg1Iz6Bd?gaa_at=eafs&gaa_n=AWEtsqdtEoDaEgtDsK8sqjOc4cLtuvLWGDhG3iDhNPY87YhKXEPYysne5PMF&gaa_ts=69b9e06e&gaa_sig=bokBmfwkpz2Bs-ZojutzbpHx9G-svO4O_g7khO5JG5122ryWV3XrogCI0x9ai49a40HmwKhvUGZn7Cizzt2STw%3D%3D)**
 
-WSJ • 13m ago
+WSJ • 54m ago
 
 ---
 
@@ -181,7 +181,7 @@ CBS News • 1h ago
 
 **[Oaktree’s Howard Marks Says Investors Are Underestimating AI](https://www.bloomberg.com/news/articles/2026-03-17/oaktree-s-howard-marks-says-investors-are-underestimating-ai)**
 
-Bloomberg.com • 25m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg.com • 25m ago
 
 The star has spoken about the viral images that appeared to show her marrying partner Tom Holland.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -231,7 +231,7 @@ The ultimate over-ear listening experience — in five vibrant colors and with 
 
 Airbus is working at full throttle to offer the German Air Force an operational Uncrewed Collaborative Combat Aircraft (UCCA) system by 2029.
 
-⬆️ 182 • 💬 133 • 2d ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+⬆️ 182 • 💬 133 • 3d ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 
 ---
 
@@ -291,7 +291,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 16K • 👍 2K • 💬 145 • ⏱️ 13:12 • 23h ago
+👁️ 16K • 👍 2K • 💬 145 • ⏱️ 13:12 • 1d ago
 
 ---
 
@@ -301,7 +301,7 @@ Start building with Bolt for free (no credit card required): ...
 
 📺 Tina Huang
 
-👁️ 9K • 👍 616 • 💬 36 • ⏱️ 20:45 • 7h ago
+👁️ 9K • 👍 616 • 💬 36 • ⏱️ 20:45 • 8h ago
 
 ---
 
@@ -331,7 +331,7 @@ Top AI researchers are walking away from some of the most powerful tech companie
 
 📺 The Infographics Show
 
-👁️ 309K • 👍 8K • 💬 1K • ⏱️ 14:48 • 22h ago
+👁️ 309K • 👍 8K • 💬 1K • ⏱️ 14:48 • 23h ago
 
 ---
 
@@ -351,7 +351,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 24K • 👍 827 • 💬 27 • ⏱️ 12:30 • 8h ago
+👁️ 24K • 👍 827 • 💬 27 • ⏱️ 12:30 • 9h ago
 
 ---
 
@@ -361,7 +361,7 @@ A fresh storm has erupted online after a new video of Israeli Prime Minister Ben
 
 📺 midday india
 
-👁️ 10K • 👍 58 • 💬 29 • ⏱️ 3:31 • 18h ago
+👁️ 10K • 👍 58 • 💬 29 • ⏱️ 3:31 • 19h ago
 
 ---
 
@@ -495,7 +495,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 36,677 • ❤️ 214 • 4h ago
+⬇️ 36,677 • ❤️ 214 • 5h ago
 
 ---
 
@@ -656,7 +656,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.2k • 🔱 983 • 4m ago
+⭐ 21.2k • 🔱 983 • 45m ago
 
 ---
 
@@ -666,7 +666,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.5k • 🔱 1.5k • 6h ago
+⭐ 12.5k • 🔱 1.5k • 7h ago
 
 ---
 
@@ -686,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.7k • 🔱 698 • 12h ago
+⭐ 9.7k • 🔱 698 • 13h ago
 
 ---
 
@@ -696,7 +696,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 8.3k • 🔱 399 • 7h ago
+⭐ 8.3k • 🔱 399 • 8h ago
 
 ---
 
@@ -706,7 +706,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.5k • 🔱 762 • 27m ago
+⭐ 6.5k • 🔱 762 • 1h ago
 
 ---
 
