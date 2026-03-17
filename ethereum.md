@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-17T04:29:48.792823+00:00'
+updated: '2026-03-17T05:44:06.046760+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 04:29 UTC  
+**Last Updated:** March 17, 2026 at 05:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,316.24
+### $2,301.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +12.8%  
-**30d:** +15.8%  
-**90d:** -18.0%  
-**1y:** +19.9%  
+**24h:** +1.9%  
+**7d:** +12.4%  
+**30d:** +15.3%  
+**90d:** -18.3%  
+**1y:** +19.5%  
 
 ---
 
@@ -68,19 +68,27 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Ethereum Squeeze Dashboard](https://www.reddit.com/r/ethereum/comments/1rvimtq/ethereum_squeeze_dashboard/)**
-
-I built an Ethereum squeeze dashboard to see where we stand with the inevitable squeeze. I wanted it to show me when I could still write covered calls against my long positions. At below 75 I can still write calls Last week it was at 73, today its at 81.5 Overview. Above 75 means no covered call writing against the stock https://preview.redd.it/50srshmefgpg1.png?width=908&format=png&auto=webp&s=6047acd5a759d239603c9885546c15805738ac9a https://preview.redd.it/wzo3cyzifgpg1.png?width=924&format=png&auto=webp&s=ccd2b561371446b3cb389d3bff287d0f4a9049f0
-
-9h ago
-
----
-
 **[How safe is WBTC?](https://www.reddit.com/r/ethereum/comments/1rvwilj/how_safe_is_wbtc/)**
 
 Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about wrapped bitcoin (WBTC) on the ethereum chain, wondering if you guys are using it/what's your opinion on it?
 
-15m ago
+1h ago
+
+---
+
+**[Daily General Discussion March 17, 2026](https://www.reddit.com/r/ethereum/comments/1rvxepg/daily_general_discussion_march_17_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+43m ago
+
+---
+
+**[Ethereum Squeeze Dashboard](https://www.reddit.com/r/ethereum/comments/1rvimtq/ethereum_squeeze_dashboard/)**
+
+I built an Ethereum squeeze dashboard to see where we stand with the inevitable squeeze. I wanted it to show me when I could still write covered calls against my long positions. At below 75 I can still write calls Last week it was at 73, today its at 81.5 Overview. Above 75 means no covered call writing against the stock https://preview.redd.it/50srshmefgpg1.png?width=908&format=png&auto=webp&s=6047acd5a759d239603c9885546c15805738ac9a https://preview.redd.it/wzo3cyzifgpg1.png?width=924&format=png&auto=webp&s=ccd2b561371446b3cb389d3bff287d0f4a9049f0
+
+10h ago
 
 ---
 
@@ -88,7 +96,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other people can't rug you; society can't rug you; your government can't rug you; another government can't rug you; corporations can't rug you." Trade wars escalating, institutional trust falling apart — and crypto has held decently through the worst of it so far. Blue chips bouncing off lows, ETH above $2,100 as of writing. A year ago this kind of global uncertainty would have sent crypto off a cliff. Starting to wonder if people are finally understanding what trustless sovereign money actually looks like when the systems around it are failing. The mandate feels like EF is leaning into exactly that moment. They're framing Ethereum as "sanctuary technology" and going hard on what they call CROPS — censorship resistance, open source, privacy, security — as non-negotiable properties. Not just another smart contract platform. Infrastructure for self-sovereignty in a world where the systems people have been trusting are breaking down. This framing feels different from anything EF has put out before. Is the market starting to price in a new narrative? Or am I reading too much into it? https://ethereum.foundation/ef-mandate.pdf
 
-21h ago
+22h ago
 
 ---
 
@@ -104,7 +112,7 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 Simplifies diamond management, deployment and upgrades.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8153) • 13h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8153) • 15h ago
 
 ---
 
@@ -112,7 +120,7 @@ Simplifies diamond management, deployment and upgrades.
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -138,21 +146,13 @@ So, I made a post earlier today about getting emails where an item on opensea so
 
 ---
 
-**[Daily General Discussion March 14, 2026](https://www.reddit.com/r/ethereum/comments/1rtajhm/daily_general_discussion_march_14_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqfjgux_UFy50gs4MsbYu1gMrGvdGRxHoeLu1Tz0vXXcyg4t1gwEKUyz&gaa_ts=69b8dc27&gaa_sig=lzVwjarBap59YVT7ivQuUvtUtIIPLb_F9tZwhVCvDFKDLcgRXm42MeBAZY6i4_Nw7poriextCk09d4e5g8Nfug%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqd_kcQK-_sc_J8ml0WK4wg5ymyhGAaA-zMfJK2qqaT3u3UfCWp1n3Ye&gaa_ts=69b8ed90&gaa_sig=573_HHOhYPWPl0mmVojgTEYIdnUks-v7xZWHwaYWy_4wabGkMU9ELAn64v6v1K9AT4oJuWgPAOFaScgep_1Qpg%3D%3D)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
@@ -160,7 +160,7 @@ Barron's • 8h ago
 
 ShapeShift founder Erik Voorhees reportedly bought over $56 million worth of ETH after selling his ETH holdings a year earlier.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 22h ago
 
 BlackRock Head of Digital Assets Robbie Mitchnick joins Julie Hyman to discuss the company's launch of its new ethereum fund — the iShares Staked Ethereum Trust ETF (ETHB) — that lets investors track the cryptocurrency (ETH-USD) and earn staking rewards at the same time.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 10h ago
 
 BitMine Chairman Tom Lee pointed to crypto's outperformance during tension in the Middle East as the firm accelerated Ethereum purchases.
 
-The Block • 14h ago
+The Block • 16h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 14h ago
 
 The document quickly sparked debate across the Ethereum community, with supporters saying it reinforces the network’s core principles. Critics, however, argue the mandate signals the foundation intends to take a backseat just as institutional interest in blockchain is accelerating.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -200,7 +200,7 @@ Polymarket • 1d ago
 
 Ethereum has reclaimed the $2,200 level as the broader cryptocurrency market shows signs of short-term strength following several weeks of volatility and uncertain momentum. The move higher suggests that buyers are attempting to regain control after a prolonged corrective phase, even as macroeconom…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView • 6h ago
 
 Robert Kiyosaki warns a massive asset bubble could soon burst, predicting an unprecedented market collapse that may propel gold, silver, bitcoin, and
 
-Bitcoin.com News • 4h ago
+Bitcoin.com News • 6h ago
 
 ---
 
@@ -216,7 +216,7 @@ Bitcoin.com News • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -224,7 +224,7 @@ Fortune • 14h ago
 
 Meanwhile, investors like Erik Voorhees have resumed large ETH purchases, suggesting continued belief in Ethereum’s long-term potential.
 
-AMBCrypto • 14h ago
+AMBCrypto • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 📺 Paul Barron Network
 
-👁️ 48K • 👍 3K • 💬 234 • ⏱️ 23:28 • 8h ago
+👁️ 48K • 👍 3K • 💬 234 • ⏱️ 23:28 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 📺 Dan Gambardello
 
-👁️ 11K • 👍 711 • 💬 163 • ⏱️ 13:47 • 13h ago
+👁️ 11K • 👍 711 • 💬 163 • ⏱️ 13:47 • 15h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN SHORT SQUEEZE CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 3K • 👍 212 • 💬 123 • ⏱️ 22:02 • 3h ago
+👁️ 3K • 👍 212 • 💬 123 • ⏱️ 22:02 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ This data is not great for bitcoin, ethereum and the rest of crypto and the mark
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 3K • 💬 40 • ⏱️ 8:58 • 17h ago
+👁️ 19K • 👍 3K • 💬 40 • ⏱️ 8:58 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ YouTube Description: Ethereum's December 2025 Fusaka upgrade was supposed to cut
 
 📺 Crypto Crow
 
-👁️ 2K • 👍 230 • 💬 49 • ⏱️ 22:32 • 6h ago
+👁️ 2K • 👍 230 • 💬 49 • ⏱️ 22:32 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 238 • 💬 23 • ⏱️ 7:10 • 12h ago
+👁️ 3K • 👍 238 • 💬 23 • ⏱️ 7:10 • 13h ago
 
 ---
 
@@ -298,7 +298,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 618 • 👍 23 • 💬 19 • ⏱️ 4:15 • 9h ago
+👁️ 618 • 👍 23 • 💬 19 • ⏱️ 4:15 • 10h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 336 • 👍 56 • ⏱️ 8:01 • 1h ago
+👁️ 336 • 👍 56 • ⏱️ 8:01 • 2h ago
 
 ---
 
@@ -318,7 +318,7 @@ Telegram (аналитика, точки входа, главные мысли):
 
 📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
 
-👁️ 17K • 👍 2K • 💬 179 • ⏱️ 14:49 • 14h ago
+👁️ 17K • 👍 2K • 💬 179 • ⏱️ 14:49 • 15h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 995 • 👍 23 • 💬 1 • ⏱️ 5:26 • 17h ago
+👁️ 995 • 👍 23 • 💬 1 • ⏱️ 5:26 • 18h ago
 
 ---
 
