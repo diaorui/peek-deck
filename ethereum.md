@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-17T12:02:18.877796+00:00'
+updated: '2026-03-17T13:56:41.680096+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 12:02 UTC  
+**Last Updated:** March 17, 2026 at 13:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,313.23
+### $2,327.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +13.5%  
-**30d:** +16.6%  
-**90d:** -17.5%  
-**1y:** +20.8%  
+**24h:** +1.9%  
+**7d:** +13.4%  
+**30d:** +16.4%  
+**90d:** -17.6%  
+**1y:** +20.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about wrapped bitcoin (WBTC) on the ethereum chain, wondering if you guys are using it/what's your opinion on it?
 
-7h ago
+9h ago
+
+---
+
+**[FCR — Fast Confirmation Rule for Ethereum](https://www.reddit.com/r/ethereum/comments/1rw6o1r/fcr_fast_confirmation_rule_for_ethereum/)**
+
+Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
+
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 22m ago
 
 ---
 
@@ -88,7 +96,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 I built an Ethereum squeeze dashboard to see where we stand with the inevitable squeeze. I wanted it to show me when I could still write covered calls against my long positions. At below 75 I can still write calls Last week it was at 73, today its at 81.5 Overview. Above 75 means no covered call writing against the stock https://preview.redd.it/50srshmefgpg1.png?width=908&format=png&auto=webp&s=6047acd5a759d239603c9885546c15805738ac9a https://preview.redd.it/wzo3cyzifgpg1.png?width=924&format=png&auto=webp&s=ccd2b561371446b3cb389d3bff287d0f4a9049f0
 
-17h ago
+18h ago
 
 ---
 
@@ -112,7 +120,7 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 Simplifies diamond management, deployment and upgrades.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8153) • 21h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8153) • 23h ago
 
 ---
 
@@ -120,7 +128,7 @@ Simplifies diamond management, deployment and upgrades.
 
 What crypto founders have the biggest peenys? Does Anatoly have a big one? Is Richard Hart holding a tiny tinkler? Is Pasternak packing? All of us have thought about this many times but now is a chance to really get into it and discuss what we all want to know, maybe there’s a guy or girl in the sub that knows the answer to all of these from actual experience and is ready to put rumors to rest. Let’s keep it civil and talk about dingdongs in an adult manner ultimately using this data as another point of confluence to fill out bags, remember no shaming ok guys?!
 
-4h ago
+5h ago
 
 ---
 
@@ -140,19 +148,13 @@ Vitalik Buterin recently suggested that Ethereum might need to revisit the separ
 
 ---
 
-**[Building state channels on x402 so agents and users can do instant, 0 fee txs at 20tps. Come join x402s.](https://www.reddit.com/r/ethereum/comments/1ruax51/building_state_channels_on_x402_so_agents_and/)**
-
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2033131627803562456) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqc_veZrdr7B3cZW7CuOoxrYp4Aiyga54Xjc7LbzUAp3oldGiZWnsG99&gaa_ts=69b93d8b&gaa_sig=Hy1ihb2fzXNmi74qpQ81s_3Ynkrzn5HpVibWoj7qNhp9P43K7lkZTE4eU6M1Xu-LDOKbilyYqln5j0bVipudgQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqeJ36fIQW_K8nzNI-osl6hYhoJPphPpDKcS7GpzLgRTlW3t41Qv_dOF&gaa_ts=69b960d1&gaa_sig=bZwEOKb2RtnrrNhpThRX8bOsmJgt6jZ2JxksIugw4o26i3GNTjmGd1P5qK5FR2LH4C0D1fj97LQely3tjqumzA%3D%3D)**
 
-Barron's • 15h ago
+Barron's • 17h ago
 
 ---
 
@@ -164,19 +166,41 @@ The Block • 1d ago
 
 ---
 
-**[BlackRock launches new ethereum ETF packed with staking rewards](https://finance.yahoo.com/video/blackrock-launches-ethereum-etf-packed-173000503.html)**
+**[Ethereum is outperforming the S&P 500, but Fed meeting will either puncture or fuel the price rally, analyst says](https://finance.yahoo.com/news/ethereum-outperforming-p-500-fed-115119178.html)**
 
-BlackRock Head of Digital Assets Robbie Mitchnick joins Julie Hyman to discuss the company's launch of its new ethereum fund — the iShares Staked Ethereum Trust ETF (ETHB) — that lets investors track the cryptocurrency (ETH-USD) and earn staking rewards at the same time.
+Ethereum is one of the best-performing assets in March, analysts say. Bitmine, BlackRock deepen their bets on the blockchain. Bitmine buys indirect stake in OpenAI ahead of 2026 IPO.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Tom Lee’s BitMine boosts Ethereum treasury near 4.6 million ETH as cryptos post ‘meaningful outperformance’ during Iran war](https://www.theblock.co/post/393747/tom-lees-bitmine-boosts-ethereum-treasury-near-4-6-million-eth-as-cryptos-post-meaningful-outperformance-during-iran-war)**
+**[Myriad Traders Flip Bullish on Ethereum Amid Rebound to $2,300](https://finance.yahoo.com/news/myriad-traders-flip-bullish-ethereum-115021846.html)**
 
-BitMine Chairman Tom Lee pointed to crypto's outperformance during tension in the Middle East as the firm accelerated Ethereum purchases.
+ETH rallied with fresh inflows and treasury-buying support, while users on prediction market Myriad have shifted bullish.
 
-The Block • 22h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Current price of Ethereum for March 17, 2026](https://fortune.com/article/price-of-ethereum-03-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 31m ago
+
+---
+
+**[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
+
+Reuters • 5h ago
+
+---
+
+**[Ethereum Foundation sells 5,000 ETH to Tom Lee's BitMine in $10 million OTC deal](https://www.theblock.co/post/393614/ethereum-foundation-sells-5000-eth-to-tom-lees-bitmine-in-10-million-otc-deal)**
+
+The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
+
+The Block • 2d ago
 
 ---
 
@@ -184,15 +208,7 @@ The Block • 22h ago
 
 The document quickly sparked debate across the Ethereum community, with supporters saying it reinforces the network’s core principles. Critics, however, argue the mandate signals the foundation intends to take a backseat just as institutional interest in blockchain is accelerating.
 
-CoinDesk • 19h ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1773696000)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
+CoinDesk • 21h ago
 
 ---
 
@@ -200,7 +216,7 @@ Polymarket • 1d ago
 
 Robert Kiyosaki warns a massive asset bubble could soon burst, predicting an unprecedented market collapse that may propel gold, silver, bitcoin, and
 
-Bitcoin.com News • 12h ago
+Bitcoin.com News • 14h ago
 
 ---
 
@@ -208,23 +224,7 @@ Bitcoin.com News • 12h ago
 
 Ethereum has reclaimed the $2,200 level as the broader cryptocurrency market shows signs of short-term strength following several weeks of volatility and uncertain momentum. The move higher suggests that buyers are attempting to regain control after a prolonged corrective phase, even as macroeconom…
 
-TradingView • 14h ago
-
----
-
-**[Current price of Ethereum for March 16, 2026](https://fortune.com/article/price-of-ethereum-03-16-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 21h ago
-
----
-
-**[Vitalik Buterin proposes major Ethereum change – Critics warn of risks](https://ambcrypto.com/vitalik-buterin-proposes-major-ethereum-change-critics-warn-of-risks/)**
-
-Meanwhile, investors like Erik Voorhees have resumed large ETH purchases, suggesting continued belief in Ethereum’s long-term potential.
-
-AMBCrypto • 22h ago
+TradingView • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee,
 
 📺 LittleDarkFury
 
-👁️ 5K • 👍 3K • 2h ago
+👁️ 5K • 👍 3K • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 OhchiGameS
 
-👁️ 4K • 👍 1K • 42m ago
+👁️ 4K • 👍 1K • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 📺 Paul Barron Network
 
-👁️ 59K • 👍 3K • 💬 273 • ⏱️ 23:28 • 16h ago
+👁️ 59K • 👍 3K • 💬 273 • ⏱️ 23:28 • 18h ago
 
 ---
 
@@ -268,7 +268,7 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 752 • 💬 171 • ⏱️ 13:47 • 21h ago
+👁️ 12K • 👍 752 • 💬 171 • ⏱️ 13:47 • 23h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 157 • 💬 10 • ⏱️ 3:27 • 5h ago
+👁️ 1K • 👍 157 • 💬 10 • ⏱️ 3:27 • 7h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 242 • 💬 26 • ⏱️ 7:10 • 19h ago
+👁️ 3K • 👍 242 • 💬 26 • ⏱️ 7:10 • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ YouTube Description: Ethereum's December 2025 Fusaka upgrade was supposed to cut
 
 📺 Crypto Crow
 
-👁️ 3K • 👍 306 • 💬 50 • ⏱️ 22:32 • 13h ago
+👁️ 3K • 👍 306 • 💬 50 • ⏱️ 22:32 • 15h ago
 
 ---
 
@@ -328,7 +328,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 64 • 👍 4 • 💬 6 • ⏱️ 1:00:34 • 10m ago
+👁️ 64 • 👍 4 • 💬 6 • ⏱️ 1:00:34 • 2h ago
 
 ---
 

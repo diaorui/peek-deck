@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-17T12:02:18.880978+00:00'
+updated: '2026-03-17T13:56:41.683267+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 17, 2026 at 12:02 UTC  
+**Last Updated:** March 17, 2026 at 13:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -42,19 +42,43 @@ Robotics research and industry news
 
 From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
 
-2h ago
+4h ago
+
+---
+
+**[A robot waiter at a hotpot restaurant in California suddenly glitched and started dancing uncontrollably, knocking over dishes while staff tried to restrain it](https://www.reddit.com/r/robotics/comments/1rw6okp/a_robot_waiter_at_a_hotpot_restaurant_in/)**
+
+From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 Incorrectly located in China, when it's actually in California Leila on 𝕏: https://x.com/oranaise/status/2033869874020106710
+
+22m ago
 
 ---
 
 **[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
 
-6h ago
+8h ago
 
 ---
 
 **[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
 
-19h ago
+21h ago
+
+---
+
+**[Made lower part of a small humanoid cheap robot](https://www.reddit.com/r/robotics/comments/1rw6uu1/made_lower_part_of_a_small_humanoid_cheap_robot/)**
+
+Just finished up designing and putting together the lower half of my yet another sg 90 robot. This one feels more refined than others. It's about 20 cm long and for its hip and knee actuators uses modified sg90/mg90s servos, which have had their base plate removed and center hollowed out to save space. I remember a lot of small diy projects before the humanoid robot scene became more "mainstream" so to speak, but I see less small projects and more full scale humanoids nowadays. Here's link with 3d files https://cults3d.com/en/3d-model/various/neoparts-sg90-bipedal-robot
+
+15m ago
+
+---
+
+**[Has obstacle avoidance in robot vacuums improved a lot recently?](https://www.reddit.com/r/robotics/comments/1rw3oux/has_obstacle_avoidance_in_robot_vacuums_improved/)**
+
+Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d still run into chair legs, cables, or random small stuff pretty often. Some of the newer ones seem a lot better at this now. Something like the Dreame X60 uses dual AI cameras for object recognition, while Roborock Saros 20 adds AI vision alongside LiDAR to spot obstacles and adjust the path instead of just bumping into things. Feels like avoidance has gotten noticeably better lately. Have others noticed the same in real use?
+
+2h ago
 
 ---
 
@@ -70,15 +94,7 @@ From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LA
 
 Check it out at www.harmonicgearboxcalculator.com Any feedback is welcome!
 
-12h ago
-
----
-
-**[Has obstacle avoidance in robot vacuums improved a lot recently?](https://www.reddit.com/r/robotics/comments/1rw3oux/has_obstacle_avoidance_in_robot_vacuums_improved/)**
-
-Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d still run into chair legs, cables, or random small stuff pretty often. Some of the newer ones seem a lot better at this now. Something like the Dreame X60 uses dual AI cameras for object recognition, while Roborock Saros 20 adds AI vision alongside LiDAR to spot obstacles and adjust the path instead of just bumping into things. Feels like avoidance has gotten noticeably better lately. Have others noticed the same in real use?
-
-44m ago
+14h ago
 
 ---
 
@@ -86,23 +102,7 @@ Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d st
 
 Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric model Tested the so called "Zero Shot" properties of VLM models with every day objects/landmarks Basic navigation commands and AI models are just the beginning/POC, more exciting things to come. Working towards shipping an API for robotics Devs that want to add intelligent navigation to their custom hardware creations. (not just off the shelf unitree robots)
 
-18h ago
-
----
-
-**[Is upgrading the Berkeley Lite actuator to Hardened Steel & Aluminum completely overkill? Need a reality check.](https://www.reddit.com/r/robotics/comments/1rw2n85/is_upgrading_the_berkeley_lite_actuator_to/)**
-
-Hi everyone, I’ve been heavily experimenting with the Berkeley Lite open-source humanoid project. It’s a brilliant platform, but I’m trying to push the knee/hip joint torque up to around 30Nm. With heavily loaded 3D-printed housings (even PA-CF), I'm hitting a wall: thermal issues, housing flex under peak loads, and eventually, the backlash gets out of control. Before I start spending serious time on CAD and dropping money at a machine shop, I wanted to run a concept by the builders here. I'm thinking about a complete material overhaul: Gearbox Housing: CNC Aluminum Alloy (for heat dissipation and rigidity) Core Transmission/Load-bearing parts: Quenched/Hardened Steel (to handle the 30Nm bursts without eating itself alive) My main concerns and where I need a reality check: The Weight Penalty: For a bipedal robot like the Lite, will the mass of hardened steel + aluminum at the joints completely ruin the dynamic control and swing inertia? Compliance vs. Rigidity: One of the beauties of 3D printing is a bit of natural compliance. If I make the joints absolutely rigid with steel and aluminum, am I just going to transfer the shock loads and snap the robot's linkages instead? Cost/Benefit: Has anyone else gone down the "industrial-grade metal" rabbit hole for open-source humanoids? Is it actually worth it, or am I solving a problem that could be fixed with better plastic design? Would love to hear some harsh truths before I commit to this!
-
-1h ago
-
----
-
-**[Built an raspberry pi based desktop companion](https://www.reddit.com/r/robotics/comments/1rv7h0z/built_an_raspberry_pi_based_desktop_companion/)**
-
-I built my own desktop companion with raspberry pi, respeaker lite. I built it to replace alexa. I am using Llama 3.1 with function calling as the backend and TTS and Speech recognition libraries for input and output, Currently it can control my Spotify, read emails and turn on and off my custom smart switches made with esp32 with socket communication (might add home assistant later). Just wanted to showcase it to yall. Let me know what you think and something you would like to add in this :)
-
-1d ago
+20h ago
 
 ---
 
@@ -114,15 +114,21 @@ I built my own desktop companion with raspberry pi, respeaker lite. I built it t
 
 Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.
 
-TechCrunch • 15h ago
+TechCrunch • 17h ago
 
 ---
 
-**[Newton Adds Contact-Rich Manipulation and Locomotion Capabilities for Industrial Robotics](https://developer.nvidia.com/blog/newton-adds-contact-rich-manipulation-and-locomotion-capabilities-for-industrial-robotics/)**
+**[Disney and Nvidia Combine on Robotics and AI to Bring Olaf Robot to Life](https://www.cnet.com/tech/services-and-software/embo-olaf-droid-combines-disney-and-nvidia-robotics-and-ai/)**
 
-Physics forms the foundation of robotic simulation, enabling realistic modeling of motion and interaction. For tasks like locomotion and manipulation, simulators must handle complex dynamics such as…
+This free-roaming snowman droid is coming to overseas Disney theme parks.
 
-NVIDIA Developer • 15h ago
+CNET • 16h ago
+
+---
+
+**[Scientists Let AI Evolve These Robots' Designs – The Results Are Deeply Weird](https://www.iflscience.com/these-robots-evolved-in-an-ai-simulation-then-scientists-built-them-in-the-real-world-82878)**
+
+IFLScience • 37m ago
 
 ---
 
@@ -130,29 +136,29 @@ NVIDIA Developer • 15h ago
 
 CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Pittsburgh's Gecko Robotics announces $71M deal to deploy technology within U.S. Navy ships](https://www.cbsnews.com/pittsburgh/news/pittsburgh-gecko-robotics-71-million-deal-us-navy-technology/)**
+**[Gecko Robotics lands the largest U.S. Navy robotics deal yet](https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/)**
 
-Gecko Robotics will be deploying its artificial intelligence and robotics within United States Navy warships.
+Gecko Robotics inked a five-year deal to help the U.S. Navy monitor and predict needed maintenance on its fleet of ships.
 
-CBS News • 2h ago
+TechCrunch • 3h ago
 
 ---
 
-**[Portrait of Kristina I. Schunk](https://ifr.org/post/portrait-of-kristina-i-schunk)**
+**[NVIDIA and Global Robotics Leaders Take Physical AI to the Real World](http://nvidianews.nvidia.com/news/nvidia-and-global-robotics-leaders-take-physical-ai-to-the-real-world)**
 
-Robotics brings mechanics, software and artificial intelligence together and turns human and digital intelligence into physical action.
+NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power production-scale physical AI. NVIDIA also unveiled new NVIDIA Isaac™ simulation frameworks and new NVIDIA Cosmos™ and NVIDIA Isaac GR00T open models for the industry to develop, train and deploy the next generation of intelligent robots.
 
-International Federation of Robotics • 2h ago
+NVIDIA Newsroom • 17h ago
 
 ---
 
@@ -160,29 +166,23 @@ International Federation of Robotics • 2h ago
 
 A Sam Altman-backed company called Coco Robotics will tap an AI model that uses 30+ billion images captured by the game's users.
 
-Morning Brew • 7h ago
+Morning Brew • 9h ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfyiBapHzwLZDJe4m7dgpMItBkkqQZR2BHLGVn5volexrq7eXziq7ip&gaa_ts=69b93d8c&gaa_sig=N5AoGgzBwGNC1bznb4NEUBvTz7kwc0SFrHyZly3mmVUxv7aMVMRw4Qp4hES3qlhb7gqtkH6P3g6wpg9O5HlHUw%3D%3D)**
+**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/)**
 
-WSJ • 2d ago
+AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
 
----
-
-**[Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs.](https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3)**
-
-Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
-
-Business Insider • 1d ago
+Fortune • 5h ago
 
 ---
 
-**[Battlefield trial begins as Phantom MK-1 humanoid robots reach Ukraine](https://interestingengineering.com/military/humanoid-soldier-robots-arrive-in-ukraine)**
+**[Kraken Robotics Announces $24 Million in Defence Orders](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-24-million-in-defence-orders/)**
 
-US startup sends Phantom MK-1 humanoid soldier robots to Ukraine for battlefield trials, testing robotic combat systems near front lines.
+ST. JOHN’S, NEWFOUNDLAND, March 17, 2026 /GLOBE NEWSWIRE/ — Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces approximately $24 million in new orders to over 10 customers across five countries, including three new defence customers. The orders are for Kraken’s SeaPower batteries, KATFISH towed synthetic aperture sonar (SAS), and Kraken SAS. […]
 
-Interesting Engineering • 1d ago
+Kraken Robotics • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 23K • 👍 319 • 💬 23 • ⏱️ 2:02 • 15h ago
+👁️ 23K • 👍 319 • 💬 23 • ⏱️ 2:02 • 16h ago
 
 ---
 
@@ -256,7 +256,7 @@ Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen H
 
 📺 DPCcars
 
-👁️ 24K • 👍 534 • 💬 79 • ⏱️ 11:48 • 13h ago
+👁️ 24K • 👍 534 • 💬 79 • ⏱️ 11:48 • 15h ago
 
 ---
 
@@ -266,7 +266,7 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 11K • 👍 528 • 💬 83 • ⏱️ 7:53 • 1d ago
+👁️ 11K • 👍 528 • 💬 83 • ⏱️ 7:53 • 2d ago
 
 ---
 
@@ -276,7 +276,7 @@ War Robots - These Dux tweaks helped me to fight the current meta! In this video
 
 📺 Adrian Chong
 
-👁️ 5K • 👍 247 • 💬 58 • ⏱️ 17:41 • 23h ago
+👁️ 5K • 👍 247 • 💬 58 • ⏱️ 17:41 • 1d ago
 
 ---
 
