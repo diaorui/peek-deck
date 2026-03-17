@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-17T05:44:05.629049+00:00"
+          "dateModified": "2026-03-17T07:05:56.377261+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -785,6 +785,37 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/czk5Z3Y2NThvanBnMTYVB_-KgQg2oFH0qLGTI9R5WOc25lRJAfCd8c5TTKvX.png?width=320&crop=smart&auto=webp&s=c559e14a64ece5545fda6572da8733946ad6cb9f" alt="robot pouring water" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/" target="_blank" onclick="event.stopPropagation();">robot pouring water</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1773726758.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rvjidh/open_robotics_google_summer_of_code_program_for/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -846,41 +877,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1773689936.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rvwxs6/help_with_esp32_selfbalancing_robot/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/oddg3kkeajpg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b2777d84a16650a014d5fbc267430f06927690f9" alt="Help With ESP32 Self-Balancing Robot" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rvwxs6/help_with_esp32_selfbalancing_robot/" target="_blank" onclick="event.stopPropagation();">Help With ESP32 Self-Balancing Robot</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            https://reddit.com/link/1rvwxs6/video/qu2jbqw6cjpg1/player I am seeking technical feedback on my two-wheeled self-balancing robot. The build is approximately 500g, powered by an ESP32, and utilizes 65mm x 10mm PLA-printed wheels. The Problem: Rapid Saturation I’ve observed that the motors saturate almost immediately. If the robot tilts even 1° from the target, it has nearly zero chance of recovery. To compensate for high static friction and slow motor response, I have significantly increased my minpower (PWM offset) to 130, but this has led to a very "twitchy" platform that struggles to find a stable equilibrium. Current Parameters: Kp 60.0 | Ki : 15.0 | Kd: 1.0 | Kv: 0.015 Target Angle: -0.50° Loop Frequency: 100Hz (10ms) Full Source Code: C++ #include <MPU9250_WE.h> #include <Wire.h> #include <BLEDevice.h> #include <BLEServer.h> #include <BLEUtils.h> #include <BLE2902.h> #include <LittleFS.h> #include <Adafruit_NeoPixel.h> #include <ESP32Encoder.h> const int cSmartLED = 23; Adafruit_NeoPixel SmartLEDs(1, cSmartLED, NEO_GRB + NEO_KHZ800); ESP32Encoder encoderL; ESP32Encoder encoderR; struct LogEntry { uint32_t time; float angle; int16_t output; long encL; long encR; }; const int maxEntries = 5000; LogEntry* myData; int currentIdx = 0; volatile bool isLogging = false; volatile bool robotGo = false; // --- TUNING PARAMETERS --- volatile float Kp = 60.0, Ki = 15.0, Kd = 1.0, Kv = 0.015; volatile float targetAngle = -0.50, lpfAlpha = 0.1; volatile int minPower = 125; float error, integratedError, output, lastAngle; long lastEncL = 0, lastEncR = 0; unsigned long lastTime; const int sampleTime = 10; const int motor1_A = 16, motor1_B = 17, motor2_A = 26, motor2_B = 27; MPU9250_WE myMPU6500 = MPU9250_WE(0x68); BLECharacteristic *pTxCharacteristic; void saveRAMtoFlash() { File file = LittleFS.open("/data.csv", FILE_WRITE); if(file && currentIdx > 1){ long totalDeltaL = myData[currentIdx-1].encL - myData[0].encL; long totalDeltaR = myData[currentIdx-1].encR - myData[0].encR; float durationSec = (myData[currentIdx-1].time - myData[0].time) / 1000.0; float avgL = totalDeltaL / (durationSec + 0.001); float avgR = totalDeltaR / (durationSec + 0.001); file.printf("CONFIG:Kp=%.2f,Ki=%.2f,Kd=%.2f,Kv=%.3f,Target=%.2f,m=%d,Alpha=%.3f,AvgL=%.2f,AvgR=%.2f\n", Kp, Ki, Kd, Kv, targetAngle, minPower, lpfAlpha, avgL, avgR); file.println("Time,Angle,Output,EncL,EncR"); for(int i = 0; i < currentIdx; i++) { file.printf("%lu,%.2f,%d,%ld,%ld\n", myData[i].time, myData[i].angle, myData[i].output, myData[i].encL, myData[i].encR); } file.close(); Serial.println("DATA_SAVED_TO_FLASH"); } } void dumpData() { File file = LittleFS.open("/data.csv", "r"); if (file) { Serial.println("START_DUMP"); while (file.available()) { Serial.write(file.read()); } Serial.println("END_DUMP"); file.close(); } } class MyCallbacks: public BLECharacteristicCallbacks { void onWrite(BLECharacteristic *pCharacteristic) { String rxValue = pCharacteristic->getValue(); if (rxValue.length() > 0) { char type = rxValue[0]; float val = rxValue.substring(1).toFloat(); switch(type) { case 's': LittleFS.remove("/data.csv"); currentIdx = 0; encoderL.clearCount(); encoderR.clearCount(); isLogging = true; robotGo = true; break; case 'u': isLogging = false; robotGo = false; dumpData(); break; case 'p': Kp = val; break; case 'i': Ki = val; break; case 'd': Kd = val; break; case 'v': Kv = val; break; case 't': targetAngle = val; break; case 'm': minPower = (int)val; break; } } } }; void setup() { Serial.begin(115200); SmartLEDs.begin(); SmartLEDs.setBrightness(100); SmartLEDs.show(); myData = (LogEntry*)malloc(maxEntries * sizeof(LogEntry)); LittleFS.begin(true); encoderL.attachFullQuad(35, 32); encoderR.attachFullQuad(33, 25); encoderL.useInternalWeakPullResistors = puType::up; encoderR.useInternalWeakPullResistors = puType::up; Wire.begin(21, 22); pinMode(motor1_A, OUTPUT); pinMode(motor1_B, OUTPUT); pinMode(motor2_A, OUTPUT); pinMode(motor2_B, OUTPUT); myMPU6500.init(); myMPU6500.setAccRange(MPU9250_ACC_RANGE_2G); myMPU6500.setGyrRange(MPU9250_GYRO_RANGE_250); BLEDevice::init("Balance-Bot-Pro"); BLEServer *pServer = BLEDevice::createServer(); BLEService *pService = pServer->createService("6E400001-B5A3-F393-E0A9-E50E24DCCA9E"); pTxCharacteristic = pService->createCharacteristic("6E400003-B5A3-F393-E0A9-E50E24DCCA9E", BLECharacteristic::PROPERTY_NOTIFY); pTxCharacteristic->addDescriptor(new BLE2902()); BLECharacteristic *pRx = pService->createCharacteristic("6E400002-B5A3-F393-E0A9-E50E24DCCA9E", BLECharacteristic::PROPERTY_WRITE); pRx->setCallbacks(new MyCallbacks()); pService->start(); pServer->getAdvertising()->start(); lastTime = millis(); } void loop() { unsigned long now = millis(); if (now - lastTime >= sampleTime) { xyzFloat angleData = myMPU6500.getAngles(); float currentAngle = (lpfAlpha * angleData.x) + ((1.0 - lpfAlpha) * lastAngle); if (abs(currentAngle - targetAngle) <= 0.5) { SmartLEDs.setPixelColor(0, SmartLEDs.Color(0, 255, 0)); } else { SmartLEDs.setPixelColor(0, SmartLEDs.Color(0, 0, 0)); } SmartLEDs.show(); if (abs(currentAngle) > 45.0 && robotGo) { robotGo = false; isLogging = false; analogWrite(motor1_A, 0); analogWrite(motor1_B, 0); analogWrite(motor2_A, 0); analogWrite(motor2_B, 0); saveRAMtoFlash(); } if (robotGo) { long curL = encoderL.getCount(); long curR = encoderR.getCount(); float wheelVelocity = ((curL - lastEncL) + (curR - lastEncR)) / 2.0; error = currentAngle - targetAngle; integratedError = constrain(integratedError + error, -1000, 1000); float dTerm = (currentAngle - lastAngle) / 0.01; output = (Kp * error) + (Ki * 0.01 * integratedError) + (Kd * dTerm) + (Kv * wheelVelocity); int speed = (abs(output) > 0.1) ? abs(output) + minPower : 0; speed = constrain(speed, 0, 255); if (output > 0) { analogWrite(motor1_A, speed); analogWrite(motor1_B, 0); analogWrite(motor2_A, speed); analogWrite(motor2_B, 0); } else { analogWrite(motor1_A, 0); analogWrite(motor1_B, speed); analogWrite(motor2_A, 0); analogWrite(motor2_B, speed); } if (isLogging && currentIdx < maxEntries) { myData[currentIdx] = {now, currentAngle, (int16_t)output, curL, curR}; currentIdx++; } lastEncL = curL; lastEncR = curR; } lastAngle = currentAngle; lastTime = now; } } Questions for the Community: Mechanical Recovery: Is it mechanically feasible to stabilize a 500g, top-heavy bot with 65mm wheels if the motors saturate this quickly? Hardware Changes: What can I do? I’m considering adding grip tape to the wheels or physically moving the battery lower/higher, which would be more effective for this saturation issue? Or do I need new motors and/or new wheels? Code Logic: Is the minpower causing more harm than good? Should I look into a non-linear mapping for the motor output? Plots from best run, and overall pictures of the assembly https://preview.redd.it/oddg3kkeajpg1.png?width=571&format=png&auto=webp&s=67d361d1fc9f51f631b77385da6cbaa3a47913ed https://preview.redd.it/t563q2q5ajpg1.jpg?width=3024&format=pjpg&auto=webp&s=100cae29da49d32e1addd3fce464c162fcc52868 https://preview.redd.it/gv2n51q5ajpg1.jpg?width=3024&format=pjpg&auto=webp&s=f3a54e784013bd880417050e0ae42d10eb846807 https://preview.redd.it/0lqmmrq5ajpg1.jpg?width=3024&format=pjpg&auto=webp&s=2d9f9d29e42ccfb2e62f15f2f5768bbb95d13391
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1773722162.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -996,7 +992,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-17T05:43:42.726157+00:00">Updated 2026-03-17T05:43:42.726157+00:00</small>
+        <small data-timestamp="2026-03-17T07:05:35.521880+00:00">Updated 2026-03-17T07:05:35.521880+00:00</small>
     </div>
 </div>
 
@@ -1264,20 +1260,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('http://nvidianews.nvidia.com/news/nvidia-and-global-robotics-leaders-take-physical-ai-to-the-real-world', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Robotics-Leaders-Take-Physical-AI-to-the-Real-World/default.aspx', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://iprsoftwaremedia.com/219/files/202603/69b739943d6332360d74de39_robotics-ecosystem-gtc26/robotics-ecosystem-gtc26_269989f5-3b74-4b29-afe3-db579be4a938-prv.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ml.globenewswire.com/media/6f2ebe8f-cd51-48d9-bf68-0faf4b36fd64/medium/nvidia-and-global-robotics-leaders.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="http://nvidianews.nvidia.com/news/nvidia-and-global-robotics-leaders-take-physical-ai-to-the-real-world" target="_blank" onclick="event.stopPropagation();">NVIDIA and Global Robotics Leaders Take Physical AI to the Real World</a>
+                            <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Robotics-Leaders-Take-Physical-AI-to-the-Real-World/default.aspx" target="_blank" onclick="event.stopPropagation();">NVIDIA and Global Robotics Leaders Take Physical AI to the Real World</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power production-scale physical AI. NVIDIA also unveiled new NVIDIA Isaac™ simulation frameworks and new NVIDIA Cosmos™ and NVIDIA Isaac GR00T open models for the industry to develop, train and deploy the next generation of intelligent robots.
+                            News Summary: Physical AI leaders across robot brain developers, industrial, and surgical robot giants and humanoid pioneers including ABB Robotics, AGIBOT, Agility, CMR Surgical, FANUC, Figure, Hexagon Robotics, KUKA, Medtronic, Skild AI, Universal Robots, World Labs and YASKAWA are building on NVIDIA technology to develop and deploy physical AI at scale. NVIDIA unveils new NVIDIA Cosmos world models, NVIDIA Isaac simulation frameworks and NVIDIA Isaac GR00T N models to accelerate the transition to intelligent robotics. Strategic ecosystem partnerships are transforming platform integrations into real-world industrial impact, from high-precision electronics assembly and autonomous construction deployment to AI-driven automation for manufacturers of all sizes. SAN JOSE, Calif., March 16, 2026 (GLOBE NEWSWIRE) - GTC - NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power
                         </div>
                         
 
@@ -1287,9 +1283,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=http://nvidianews.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NVIDIA Newsroom" class="news-favicon">
-                                    <a href="http://nvidianews.nvidia.com" target="_blank" onclick="event.stopPropagation();">NVIDIA Newsroom</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://investor.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Nvidia Investor Relations" class="news-favicon">
+                                    <a href="https://investor.nvidia.com" target="_blank" onclick="event.stopPropagation();">Nvidia Investor Relations</a>
                                     
                                 </div>
                                 
@@ -1297,7 +1293,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773694114.0"></span>
+                                    <span data-timestamp="1773729604.0"></span>
                                 </div>
                                 
                             </div>
@@ -1305,14 +1301,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqeZ74LODBM5GZTlkp3EqdnHZ0SF1xIpcRzTOFT3YKRnvoIYEBjjq-i3&gaa_ts=69b8ed92&gaa_sig=n670iEb_wmeJCWYBKZn2ohfO7aENH0DdiX22nY1LHzXs8NJ1pD8qYHHl39rMziD4H8NCA-SMibJvLSmZGu4_aw%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfOLpdS97DKOXZevntuy98JRWpRwZJGNdxByVkEwmm1uoJ4Jd2UW9bp&gaa_ts=69b900c3&gaa_sig=sR7h6gK_2UR4ZqA_VHc3QTs5NlwEbIgrkfqp8Oo7YTn4iEyalUi5uDdHi_QZGV0JS0GkypkoOYcUtAZU1XyGSw%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqeZ74LODBM5GZTlkp3EqdnHZ0SF1xIpcRzTOFT3YKRnvoIYEBjjq-i3&gaa_ts=69b8ed92&gaa_sig=n670iEb_wmeJCWYBKZn2ohfO7aENH0DdiX22nY1LHzXs8NJ1pD8qYHHl39rMziD4H8NCA-SMibJvLSmZGu4_aw%3D%3D" target="_blank" onclick="event.stopPropagation();">When Humanoid Robots Come to a Small Town Factory in South Carolina</a>
+                            <a href="https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqfOLpdS97DKOXZevntuy98JRWpRwZJGNdxByVkEwmm1uoJ4Jd2UW9bp&gaa_ts=69b900c3&gaa_sig=sR7h6gK_2UR4ZqA_VHc3QTs5NlwEbIgrkfqp8Oo7YTn4iEyalUi5uDdHi_QZGV0JS0GkypkoOYcUtAZU1XyGSw%3D%3D" target="_blank" onclick="event.stopPropagation();">When Humanoid Robots Come to a Small Town Factory in South Carolina</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1376,6 +1372,47 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1773656700.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://futurism.com/wp-content/uploads/2026/03/video-humanoid-robot-playing-tennis.jpg?w=1200');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis" target="_blank" onclick="event.stopPropagation();">This Video of a Humanoid Robot Playing Tennis Is Extremely Impressive</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Chinese AI robotics company Galbot has designed software that teaches a Unitree G1 humanoid robot how to play tennis.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://futurism.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Futurism" class="news-favicon">
+                                    <a href="https://futurism.com" target="_blank" onclick="event.stopPropagation();">Futurism</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773676910.0"></span>
                                 </div>
                                 
                             </div>
@@ -1465,47 +1502,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/articles/underdog-oakton-college-team-shocks-031153308.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/wgn_chicago_articles_646/0a21a35980073554490068544535b57e');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.yahoo.com/news/articles/underdog-oakton-college-team-shocks-031153308.html" target="_blank" onclick="event.stopPropagation();">Underdog Oakton College team shocks experts with NASA robotics plan</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Oakton College Robotics Team, a group of community college students, is competing in the 2026 NASA Lunabotics Challenge, and despite being an underdog, they have already ranked No. 1 in the nation in ...
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo" class="news-favicon">
-                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773717060.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.popsci.com/wp-content/uploads/2026/03/pokemon-go-whitehouse.png?quality=85&w=1200');"></div>
@@ -1547,20 +1543,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/articles/underdog-oakton-college-team-shocks-031153308.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108277993-1773431737078-gettyimages-2200248576-FII_PRIORITY_SUMMIT.jpeg?v=1773431780&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/wgn_chicago_articles_646/0a21a35980073554490068544535b57e');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html" target="_blank" onclick="event.stopPropagation();">Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport</a>
+                            <a href="https://www.yahoo.com/news/articles/underdog-oakton-college-team-shocks-031153308.html" target="_blank" onclick="event.stopPropagation();">Underdog Oakton College team shocks experts with NASA robotics plan</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
+                            Oakton College Robotics Team, a group of community college students, is competing in the 2026 NASA Lunabotics Challenge, and despite being an underdog, they have already ranked No. 1 in the nation in ...
                         </div>
                         
 
@@ -1570,9 +1566,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo" class="news-favicon">
+                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
                                     
                                 </div>
                                 
@@ -1580,7 +1576,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773439462.0"></span>
+                                    <span data-timestamp="1773717060.0"></span>
                                 </div>
                                 
                             </div>
@@ -1608,7 +1604,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-17T05:44:01.179929+00:00">Updated 2026-03-17T05:44:01.179929+00:00</small>
+        <small data-timestamp="2026-03-17T07:05:54.489485+00:00">Updated 2026-03-17T07:05:54.489485+00:00</small>
     </div>
 </div>
 
@@ -1840,16 +1836,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 10K</span>
+                                    <span style="color: #9ca3af;">👁️ 16K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 217</span>
+                                    <span style="color: #9ca3af;">👍 260</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 20</span>
+                                    <span style="color: #9ca3af;">💬 21</span>
                                 </div>
                                 
                             </div>
@@ -1906,7 +1902,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 82K</span>
+                                    <span style="color: #9ca3af;">👁️ 83K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -1915,7 +1911,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 286</span>
+                                    <span style="color: #9ca3af;">💬 290</span>
                                 </div>
                                 
                             </div>
@@ -1976,7 +1972,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 607</span>
+                                    <span style="color: #9ca3af;">👍 620</span>
                                 </div>
                                 
                                 
@@ -1992,138 +1988,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1773355791.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LESOs5GtIrg', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LESOs5GtIrg/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">3:35</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=LESOs5GtIrg" target="_blank" onclick="event.stopPropagation();">How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/SGoD0SodPuysPRUSFI8jd_eqR-ZCgvxhZk905338O1NUYI5eUqMZ1lQaekFNiDggJh0lA_5kQg=s88-c-k-c0x00ffffff-no-rj" alt="CNET" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCOmcA3f_RrH6b9NmcNa4tdg" target="_blank" onclick="event.stopPropagation();">CNET</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 11K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 410</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 31</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1773693005.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=hJumlPFK5to', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/hJumlPFK5to/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">17:41</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=hJumlPFK5to" target="_blank" onclick="event.stopPropagation();">War Robots - These Dux Tweaks Helped Me Fight The Meta!</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            War Robots - These Dux tweaks helped me to fight the current meta! In this video, I focus on the Dux specifically with Kestrel and ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_lvhYH4hA1zikAgNgY9-mV-mvxzXvyZx5wNlVG581bdX7E=s88-c-k-c0x00ffffff-no-rj" alt="Adrian Chong" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCk_jiByxmYqfZ11tYl0OCOw" target="_blank" onclick="event.stopPropagation();">Adrian Chong</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 4K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 225</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 57</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1773666078.0"></span>
                                 </div>
                                 
                             </div>
@@ -2174,12 +2038,12 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 500</span>
+                                    <span style="color: #9ca3af;">👍 507</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 81</span>
+                                    <span style="color: #9ca3af;">💬 83</span>
                                 </div>
                                 
                             </div>
@@ -2190,6 +2054,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1773579655.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=nqfY8o1DiQY', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/nqfY8o1DiQY/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:06</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=nqfY8o1DiQY" target="_blank" onclick="event.stopPropagation();">Watch Robots ASSEMBLE Car Wheels in SECONDS! 🛞</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Witness the incredible speed and precision of industrial robots as they revolutionize tire and rim assembly on an automated ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/NwPl3ZcuCcEhgisq7dzJ66LgJv_46VWP3a7xefhyl4aL_P_MDDsF6xwhf5w7zFwwfvGbmSMSqg=s88-c-k-c0x00ffffff-no-rj" alt="Peace Working Shorts" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCx5zGd6tSKmKuff5iUx1MLw" target="_blank" onclick="event.stopPropagation();">Peace Working Shorts</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 337K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 494</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 9</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1773583070.0"></span>
                                 </div>
                                 
                             </div>
@@ -2240,7 +2170,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 221</span>
+                                    <span style="color: #9ca3af;">👍 222</span>
                                 </div>
                                 
                                 
@@ -2306,12 +2236,12 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 261</span>
+                                    <span style="color: #9ca3af;">👍 263</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 63</span>
+                                    <span style="color: #9ca3af;">💬 68</span>
                                 </div>
                                 
                             </div>
@@ -2322,6 +2252,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1773514800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=RUNWz8y5eTs', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/RUNWz8y5eTs/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">35:19</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=RUNWz8y5eTs" target="_blank" onclick="event.stopPropagation();">War Robots: The Most Powerful Ultimate Tanks | Fenrir, Revenant, Lancelot, Leo, Nodens</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            warrobots #robotgame #warrobotsgameplay War Robots: The Most Powerful Ultimate Tanks | Fenrir, Revenant, Lancelot, Leo, ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/wXPDN4732t44qSk1fNFYfQ2EultSt0F-M0CXtOHUN5M1ms62FVMo5sYoncrAeWXip4_oPrMC0A=s88-c-k-c0x00ffffff-no-rj" alt="Skilled Gaming WR" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCs5zxCsHUQuSaFYp5Vk-pwg" target="_blank" onclick="event.stopPropagation();">Skilled Gaming WR</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 4K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 101</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 5</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1773601152.0"></span>
                                 </div>
                                 
                             </div>
@@ -2372,12 +2368,12 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 633</span>
+                                    <span style="color: #9ca3af;">👍 635</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 75</span>
+                                    <span style="color: #9ca3af;">💬 76</span>
                                 </div>
                                 
                             </div>
@@ -2434,7 +2430,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 34K</span>
+                                    <span style="color: #9ca3af;">👁️ 46K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2443,7 +2439,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 45</span>
+                                    <span style="color: #9ca3af;">💬 49</span>
                                 </div>
                                 
                             </div>
@@ -2481,7 +2477,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-17T04:29:33.363158+00:00">Updated 2026-03-17T04:29:33.363158+00:00</small>
+        <small data-timestamp="2026-03-17T07:05:42.808377+00:00">Updated 2026-03-17T07:05:42.808377+00:00</small>
     </div>
 </div>
 
