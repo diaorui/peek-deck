@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-17T13:56:41.683267+00:00'
+updated: '2026-03-17T15:01:18.037483+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 17, 2026 at 13:56 UTC  
+**Last Updated:** March 17, 2026 at 15:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[A robot waiter at a hotpot restaurant in California suddenly glitched and started dancing uncontrollably, knocking over dishes while staff tried to restrain it](https://www.reddit.com/r/robotics/comments/1rw6okp/a_robot_waiter_at_a_hotpot_restaurant_in/)**
+
+From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 Incorrectly located in China, when it's actually in California Leila on 𝕏: https://x.com/oranaise/status/2033869874020106710
+
+1h ago
+
+---
+
+**[Stairs are hard!](https://www.reddit.com/r/robotics/comments/1rw7ltl/stairs_are_hard/)**
+
+Got a lot of feedbacks from last post, thanks a lot! There are many requests about trying uneven terrain, sand, and stairs. The sand was… not a pleasant experience. We heard some worrying rattling sounds after the test, so we’re thinking an enclosure might be necessary to keep the dust and grit out. But for now, here's our current attempt at the stairs! As you can see, still jittery, still leaning, but it jumps. Still a long way to go! We are planning to add perception so it can actually see the stairs and, hopefully, decide when to jump on its own without me babysitting the remote.
+
+50m ago
+
+---
+
 **[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,27 +58,7 @@ Robotics research and industry news
 
 From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
 
-4h ago
-
----
-
-**[A robot waiter at a hotpot restaurant in California suddenly glitched and started dancing uncontrollably, knocking over dishes while staff tried to restrain it](https://www.reddit.com/r/robotics/comments/1rw6okp/a_robot_waiter_at_a_hotpot_restaurant_in/)**
-
-From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 Incorrectly located in China, when it's actually in California Leila on 𝕏: https://x.com/oranaise/status/2033869874020106710
-
-22m ago
-
----
-
-**[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
-
-8h ago
-
----
-
-**[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
-
-21h ago
+5h ago
 
 ---
 
@@ -70,7 +66,19 @@ From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 In
 
 Just finished up designing and putting together the lower half of my yet another sg 90 robot. This one feels more refined than others. It's about 20 cm long and for its hip and knee actuators uses modified sg90/mg90s servos, which have had their base plate removed and center hollowed out to save space. I remember a lot of small diy projects before the humanoid robot scene became more "mainstream" so to speak, but I see less small projects and more full scale humanoids nowadays. Here's link with 3d files https://cults3d.com/en/3d-model/various/neoparts-sg90-bipedal-robot
 
-15m ago
+1h ago
+
+---
+
+**[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
+
+9h ago
+
+---
+
+**[Robot didn’t like that](https://www.reddit.com/r/robotics/comments/1rven6m/robot_didnt_like_that/)**
+
+22h ago
 
 ---
 
@@ -78,7 +86,15 @@ Just finished up designing and putting together the lower half of my yet another
 
 Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d still run into chair legs, cables, or random small stuff pretty often. Some of the newer ones seem a lot better at this now. Something like the Dreame X60 uses dual AI cameras for object recognition, while Roborock Saros 20 adds AI vision alongside LiDAR to spot obstacles and adjust the path instead of just bumping into things. Feels like avoidance has gotten noticeably better lately. Have others noticed the same in real use?
 
-2h ago
+3h ago
+
+---
+
+**[Obstacle avoidance for my robot car using VIOBOT2.](https://www.reddit.com/r/robotics/comments/1rw7ip0/obstacle_avoidance_for_my_robot_car_using_viobot2/)**
+
+I've completed obstacle avoidance for my car using VIOBOT2. The stereo vision depth effect of VIOBOT2 is quite impressive. For those interested, feel free to check out my experimental test video.
+
+54m ago
 
 ---
 
@@ -90,22 +106,6 @@ From Zhikai Zhang on 𝕏: https://x.com/Zhikai273/status/2033035812431081778 LA
 
 ---
 
-**[Open-sourcing my harmonic drive design software!](https://www.reddit.com/r/robotics/comments/1rvpn06/opensourcing_my_harmonic_drive_design_software/)**
-
-Check it out at www.harmonicgearboxcalculator.com Any feedback is welcome!
-
-14h ago
-
----
-
-**[Building an A.I. navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 4)](https://www.reddit.com/r/robotics/comments/1rvfaor/building_an_ai_navigation_software_that_will_only/)**
-
-Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric model Tested the so called "Zero Shot" properties of VLM models with every day objects/landmarks Basic navigation commands and AI models are just the beginning/POC, more exciting things to come. Working towards shipping an API for robotics Devs that want to add intelligent navigation to their custom hardware creations. (not just off the shelf unitree robots)
-
-20h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,7 +114,7 @@ Today we: Rebuilt AI model pipeline (it was a mess) Upgraded to the DA3 Metric m
 
 Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.
 
-TechCrunch • 17h ago
+TechCrunch • 18h ago
 
 ---
 
@@ -122,13 +122,7 @@ TechCrunch • 17h ago
 
 This free-roaming snowman droid is coming to overseas Disney theme parks.
 
-CNET • 16h ago
-
----
-
-**[Scientists Let AI Evolve These Robots' Designs – The Results Are Deeply Weird](https://www.iflscience.com/these-robots-evolved-in-an-ai-simulation-then-scientists-built-them-in-the-real-world-82878)**
-
-IFLScience • 37m ago
+CNET • 17h ago
 
 ---
 
@@ -136,13 +130,13 @@ IFLScience • 37m ago
 
 CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-CNBC • 4h ago
+CNBC • 6h ago
 
 ---
 
 **[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -150,7 +144,7 @@ Bloomberg.com • 3h ago
 
 Gecko Robotics inked a five-year deal to help the U.S. Navy monitor and predict needed maintenance on its fleet of ships.
 
-TechCrunch • 3h ago
+TechCrunch • 5h ago
 
 ---
 
@@ -158,7 +152,7 @@ TechCrunch • 3h ago
 
 NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power production-scale physical AI. NVIDIA also unveiled new NVIDIA Isaac™ simulation frameworks and new NVIDIA Cosmos™ and NVIDIA Isaac GR00T open models for the industry to develop, train and deploy the next generation of intelligent robots.
 
-NVIDIA Newsroom • 17h ago
+NVIDIA Newsroom • 18h ago
 
 ---
 
@@ -166,15 +160,7 @@ NVIDIA Newsroom • 17h ago
 
 A Sam Altman-backed company called Coco Robotics will tap an AI model that uses 30+ billion images captured by the game's users.
 
-Morning Brew • 9h ago
-
----
-
-**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/)**
-
-AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
-
-Fortune • 5h ago
+Morning Brew • 10h ago
 
 ---
 
@@ -182,7 +168,21 @@ Fortune • 5h ago
 
 ST. JOHN’S, NEWFOUNDLAND, March 17, 2026 /GLOBE NEWSWIRE/ — Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces approximately $24 million in new orders to over 10 customers across five countries, including three new defence customers. The orders are for Kraken’s SeaPower batteries, KATFISH towed synthetic aperture sonar (SAS), and Kraken SAS. […]
 
-Kraken Robotics • 2h ago
+Kraken Robotics • 3h ago
+
+---
+
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqdlc7VGt3m190LPCntbBEgUFxy4LE8Zv0Rn7kyvHcmjY-I4lqrZ22EU&gaa_ts=69b9702d&gaa_sig=NY1s6A80Ol6vYTHF_YBvu3BPhjpit8AHDr3VDDM8OyczAi76Gv5mZD5uY4OG5chmTEBBCtSRkxgyUTC_XeNfug%3D%3D)**
+
+WSJ • 2d ago
+
+---
+
+**[Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs.](https://www.businessinsider.com/robot-dogs-quadruped-data-center-security-boston-dynamics-ghost-robotics-2026-3)**
+
+Boston Dynamics and Ghost Robotics are selling robot dogs to data center operators, providing perimeter security and inspection capabilities.
+
+Business Insider • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 23K • 👍 319 • 💬 23 • ⏱️ 2:02 • 16h ago
+👁️ 27K • 👍 343 • 💬 25 • ⏱️ 2:02 • 18h ago
 
 ---
 
@@ -206,27 +206,17 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 85K • 👍 2K • 💬 292 • ⏱️ 49:45 • 2d ago
+👁️ 86K • 👍 2K • 💬 295 • ⏱️ 49:45 • 2d ago
 
 ---
 
-**[Sunday Robotics: The Household Robot We&#39;ve Been Waiting For?](https://www.youtube.com/watch?v=QfBw0gMuhaI)**
+**[This REAL-LIFE Terminator Robot Just Made Tesla Optimus Look Like a Toy](https://www.youtube.com/watch?v=ZFj--QMIc7s)**
 
-I visited @SundayRobotics to see how they're building a household robot that actually works in real homes. Founded by Stanford ...
+While everyone's been chasing the perfect humanoid form, a French company called Wandercraft quietly built Calvin-40 in just 40 ...
 
-📺 ZAUEY (Claire Zau)
+📺 The AI Nexus
 
-👁️ 19K • 👍 627 • 💬 60 • ⏱️ 15:48 • 4d ago
-
----
-
-**[Humanoid robot startup aims to build military-ready machines](https://www.youtube.com/watch?v=i35ikMw0KtQ)**
-
-Humanoid robotics startup Foundation Future Industries is aiming to build robots for defense as well as industrial work. #News ...
-
-📺 Reuters
-
-👁️ 25K • 👍 102 • 💬 38 • ⏱️ 2:38 • 5d ago
+👁️ 2K • 👍 139 • 💬 6 • ⏱️ 24:50 • 13h ago
 
 ---
 
@@ -236,27 +226,37 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 12K • 👍 428 • 💬 38 • ⏱️ 13:18 • 1d ago
+👁️ 13K • 👍 431 • 💬 39 • ⏱️ 13:18 • 1d ago
 
 ---
 
-**[China Deployed the Robots First — Now America Is Responding in a Way No One Expected](https://www.youtube.com/watch?v=REx-pQFwbRE)**
+**[Internet BREAKS w/ World’s Most Advanced AI Robot](https://www.youtube.com/watch?v=cKVkMgAvxu4)**
 
-China Deployed the Robots First — Now America Is Responding in a Way No One Expected The robotics race isn't unfolding the ...
+I've generated 100M+ views & helped businesses generate millions with YouTube. Follow me on Twitter ...
 
-📺 The Curious Mind
+📺 David Carbutt 
 
-👁️ 2K • 👍 66 • ⏱️ 30:12 • 1d ago
+👁️ 11K • 👍 245 • 💬 71 • ⏱️ 9:01 • 5d ago
 
 ---
 
-**[Jensen Huang Reveals the Future of Self Driving Cars and Robots at NVIDIA GTC 2026](https://www.youtube.com/watch?v=bvg4zdOeFMk)**
+**[Sunday Robotics: The Household Robot We&#39;ve Been Waiting For?](https://www.youtube.com/watch?v=QfBw0gMuhaI)**
 
-Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen Huang revealed how new AI systems are powering ...
+I visited @SundayRobotics to see how they're building a household robot that actually works in real homes. Founded by Stanford ...
 
-📺 DPCcars
+📺 ZAUEY (Claire Zau)
 
-👁️ 24K • 👍 534 • 💬 79 • ⏱️ 11:48 • 15h ago
+👁️ 19K • 👍 638 • 💬 60 • ⏱️ 15:48 • 4d ago
+
+---
+
+**[Tesla has a China problem with their humanoid robots.  Lots of them.](https://www.youtube.com/watch?v=ezTPzAwKVng)**
+
+Tesla is shifting focus in the US market from Electric Vehicles, to the production of humanoid robots. The company is repurposing ...
+
+📺 Inside China Business
+
+👁️ 60K • 👍 4K • 💬 683 • ⏱️ 5:32 • 4d ago
 
 ---
 
@@ -266,27 +266,27 @@ QRevo Curv: https://us.roborock.com/products/roborock-qrevo-curv Rant Video: htt
 
 📺 Just Josh
 
-👁️ 11K • 👍 528 • 💬 83 • ⏱️ 7:53 • 2d ago
+👁️ 12K • 👍 547 • 💬 86 • ⏱️ 7:53 • 2d ago
 
 ---
 
-**[War Robots - These Dux Tweaks Helped Me Fight The Meta!](https://www.youtube.com/watch?v=hJumlPFK5to)**
+**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
 
-War Robots - These Dux tweaks helped me to fight the current meta! In this video, I focus on the Dux specifically with Kestrel and ...
+We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
 
-📺 Adrian Chong
+📺 CNET
 
-👁️ 5K • 👍 247 • 💬 58 • ⏱️ 17:41 • 1d ago
+👁️ 29K • 👍 718 • 💬 49 • ⏱️ 3:35 • 18h ago
 
 ---
 
-**[Watch Robots ASSEMBLE Car Wheels in SECONDS! 🛞](https://www.youtube.com/watch?v=nqfY8o1DiQY)**
+**[How does China plan to dominate the global humanoid robot market?](https://www.youtube.com/watch?v=uJTE5AibK_I)**
 
-Witness the incredible speed and precision of industrial robots as they revolutionize tire and rim assembly on an automated ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Full story: https://sc.mp/598e3e China's dancing ...
 
-📺 Peace Working Shorts
+📺 South China Morning Post
 
-👁️ 352K • 👍 518 • 💬 9 • ⏱️ 0:06 • 1d ago
+👁️ 18K • 👍 222 • 💬 82 • ⏱️ 4:52 • 5d ago
 
 ---
 
