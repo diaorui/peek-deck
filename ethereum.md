@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-17T22:02:07.631861+00:00'
+updated: '2026-03-17T23:00:23.575525+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 22:02 UTC  
+**Last Updated:** March 17, 2026 at 23:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,318.92
+### $2,338.68
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +13.5%  
-**30d:** +16.5%  
-**90d:** -17.5%  
-**1y:** +20.7%  
+**24h:** -0.9%  
+**7d:** +13.6%  
+**30d:** +16.6%  
+**90d:** -17.4%  
+**1y:** +20.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.14B
+**Market Cap:** $280.98B
 Rank #2
 
 **Circulating Supply:** 120,691,856 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.1%
+-52.9%
 
 **All-Time Low:** $0.43
-+536182.4%
++537639.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 8h ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Determinist
 
 Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about wrapped bitcoin (WBTC) on the ethereum chain, wondering if you guys are using it/what's your opinion on it?
 
-17h ago
+18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Ethereum is setting up for a post-stewardship world
 
-🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 7h ago
+🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 8h ago
 
 ---
 
@@ -128,7 +128,7 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 What crypto founders have the biggest peenys? Does Anatoly have a big one? Is Richard Hart holding a tiny tinkler? Is Pasternak packing? All of us have thought about this many times but now is a chance to really get into it and discuss what we all want to know, maybe there’s a guy or girl in the sub that knows the answer to all of these from actual experience and is ready to put rumors to rest. Let’s keep it civil and talk about dingdongs in an adult manner ultimately using this data as another point of confluence to fill out bags, remember no shaming ok guys?!
 
-14h ago
+15h ago
 
 ---
 
@@ -152,6 +152,12 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqedrDPtDzzgBTwjoS2-qy_IQf58QpNL7aJJZ6PD0ykNXBVxozMcUip-&gaa_ts=69b9e072&gaa_sig=8_4Hltt34HleI_LI5Afb7M9W5cozsGROcn7K5WfSFEvh_piO8peCMUjY5OgNkHw_pCJyHBj0YBtjYcmTQvbxhg%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[ShapeShift founder Erik Voorhees buys $56 million worth of Ethereum: onchain analysts](https://www.theblock.co/post/393668/erik-voorhees-buys-ethereum)**
 
 ShapeShift founder Erik Voorhees reportedly bought over $56 million worth of ETH after selling his ETH holdings a year earlier.
@@ -160,31 +166,25 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqe2jdw4DhWKU7fn26AeIYGJXBNtgtewlvm7p2YvRs68vYfTjkR4KIde&gaa_ts=69b9c576&gaa_sig=uLrIzRMytkYoXFUT1ZqndqQuIK8B0Ruu2URQawHvhNnUL4Q4xCEFuhXHe4ESj6J48Sen2G0tDEIrSU1w1WmMYA%3D%3D)**
+**[Annoyed with the price of Ethereum? Here’s what drives it, according to Bitwise](https://finance.yahoo.com/news/annoyed-price-ethereum-drives-according-212441609.html)**
 
-Barron's • 1d ago
+Bitcoin drives 65% of Ethereum's price movements on a weekly basis, said Bitwise. Network activity and revenue matter far less than most people assume. Financial conditions are the second-biggest factor, but still distant from Bitcoin's influence.
 
----
-
-**[Ethereum bulls clash over manifesto ‘180’ that reaffirms cypherpunk ideals](https://www.dlnews.com/articles/defi/ethereum-bulls-clash-over-new-manifesto-that-reaffirms-cypherpunk-ideals/)**
-
-Ethereum Foundation releases a new manifesto. It reaffirms the nonprofit's commitment to cypherpunk principles.  Some Ethereum bulls say that's at odds with the blockchain's commercial success.
-
-dlnews.com • 5h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Prediction: Buying Ethereum Today Could Set You Up for Life](https://finance.yahoo.com/news/prediction-buying-ethereum-today-could-154123868.html)**
+**[Ethereum governance solution Tally used by Uniswap, Arbitrum and others is winding down](https://www.theblock.co/post/394026/ethereum-governance-solution-tally-uniswap-arbitrum-others-winding-down?utm_source=news.xml&utm_medium=rss)**
 
-The world's second-most-valuable cryptocurrency has a bright future.
+The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
 
-Yahoo Finance • 2d ago
+The Block • 1h ago
 
 ---
 
 **[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
@@ -204,25 +204,25 @@ CoinDesk • 1d ago
 
 ---
 
+**[Citi lowers Bitcoin, Ethereum targets amid slow legislative progress](https://www.investing.com/news/cryptocurrency-news/citi-lowers-bitcoin-ethereum-targets-amid-slow-legislative-progress-4565383)**
+
+Investing.com • 11h ago
+
+---
+
+**[Current price of Ethereum for March 17, 2026](https://fortune.com/article/price-of-ethereum-03-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 8h ago
+
+---
+
 **[KoreInside Launches Interoperability for Public Blockchains Such As Ethereum, Solana, Coinbase to Bring Real-World Asset (RWA) Enablement to the Masses](https://www.usatoday.com/press-release/story/28503/koreinside-launches-interoperability-for-public-blockchains-such-as-ethereum-solana-coinbase-to-bring-real-world-asset-rwa-enablement-to-the-masses/)**
 
 KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
 
-USA Today • 8h ago
-
----
-
-**[Robert Kiyosaki Predicts Bitcoin $750K, Ethereum $95K After Global Financial Crash](https://news.bitcoin.com/robert-kiyosaki-predicts-bitcoin-750k-ethereum-95k-after-global-financial-crash/)**
-
-Robert Kiyosaki warns a massive asset bubble could soon burst, predicting an unprecedented market collapse that may propel gold, silver, bitcoin, and
-
-Bitcoin.com News • 22h ago
-
----
-
-**[Citi lowers Bitcoin, Ethereum targets amid slow legislative progress](https://www.investing.com/news/cryptocurrency-news/citi-lowers-bitcoin-ethereum-targets-amid-slow-legislative-progress-4565383)**
-
-Investing.com • 10h ago
+USA Today • 9h ago
 
 ---
 
@@ -230,23 +230,43 @@ Investing.com • 10h ago
 
 ## YouTube Videos: "ethereum"
 
+**[LIVE: Tom Lee on Ethereum &amp; BMNR Stock – ETH Price Analysis](https://www.youtube.com/watch?v=t0RHw_aJE3Y)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 GANK GAANK
+
+👁️ 2K • 👍 1K • 31m ago
+
+---
+
+**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=TBqoYepkY_k)**
+
+Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
+
+📺 Ralph’s Trucking
+
+👁️ 4K • 👍 2K • 1h ago
+
+---
+
+**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=D3R-nu2le_w)**
+
+Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
+
+📺 Crafty Lady Lisa
+
+👁️ 5K • 👍 4K • 1h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jHB1OS2E1vk)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 116 • 💬 4 • ⏱️ 5:30 • 8h ago
-
----
-
-**[BMNR Just Made a BIG Move | ETH Supply Shock](https://www.youtube.com/watch?v=mNHsvvulSQc)**
-
-BMNR is quietly building one of the largest Ethereum positions in the world, now adding exposure to OpenAI through ORBS.
-
-📺 The Value Thinker
-
-👁️ 6K • 👍 421 • 💬 41 • ⏱️ 15:13 • 10h ago
+👁️ 2K • 👍 130 • 💬 4 • ⏱️ 5:30 • 9h ago
 
 ---
 
@@ -256,17 +276,17 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 📺 Paul Barron Network
 
-👁️ 67K • 👍 3K • 💬 293 • ⏱️ 23:28 • 1d ago
+👁️ 68K • 👍 3K • 💬 294 • ⏱️ 23:28 • 1d ago
 
 ---
 
-**[ETHEREUM About To Flash Signal That Preceded Every CRYPTO BULL RUN (CONFIRMATION AREA)](https://www.youtube.com/watch?v=KEHaW52ZEkM)**
+**[BMNR Just Made a BIG Move | ETH Supply Shock](https://www.youtube.com/watch?v=mNHsvvulSQc)**
 
-Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The oversold ...
+BMNR is quietly building one of the largest Ethereum positions in the world, now adding exposure to OpenAI through ORBS.
 
-📺 Dan Gambardello
+📺 The Value Thinker
 
-👁️ 12K • 👍 766 • 💬 174 • ⏱️ 13:47 • 1d ago
+👁️ 7K • 👍 501 • 💬 58 • ⏱️ 15:13 • 10h ago
 
 ---
 
@@ -276,17 +296,17 @@ This data is not great for bitcoin, ethereum and the rest of crypto and the mark
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 47 • ⏱️ 8:58 • 1d ago
+👁️ 22K • 👍 3K • 💬 38 • ⏱️ 8:58 • 1d ago
 
 ---
 
-**[Ethereum: Insider kauft massiv! Trendwende?](https://www.youtube.com/watch?v=Ok4WqljfbkE)**
+**[ETHEREUM About To Flash Signal That Preceded Every CRYPTO BULL RUN (CONFIRMATION AREA)](https://www.youtube.com/watch?v=KEHaW52ZEkM)**
 
-Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
+Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The oversold ...
 
-📺 Krypto Report
+📺 Dan Gambardello
 
-👁️ 1K • 👍 265 • 💬 4 • ⏱️ 18:07 • 4h ago
+👁️ 12K • 👍 768 • 💬 195 • ⏱️ 13:47 • 1d ago
 
 ---
 
@@ -296,7 +316,7 @@ The Ethereum Foundation's new mandate has reignited one of Ethereum's oldest deb
 
 📺 Bankless
 
-👁️ 2K • 👍 113 • 💬 14 • ⏱️ 1:00:34 • 10h ago
+👁️ 3K • 👍 125 • 💬 16 • ⏱️ 1:00:34 • 11h ago
 
 ---
 
@@ -306,27 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 182 • 💬 12 • ⏱️ 3:27 • 15h ago
-
----
-
-**[Bitcoin &amp; Ethereum Are About To Do Something MASSIVE! (BlackRock &amp; Arthur Hayes)](https://www.youtube.com/watch?v=bvowrmBuX-U)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 456 • 💬 49 • ⏱️ 19:10 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=tFjEw2gKwHk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 244 • 💬 26 • ⏱️ 7:10 • 1d ago
+👁️ 2K • 👍 182 • 💬 12 • ⏱️ 3:27 • 16h ago
 
 ---
 
