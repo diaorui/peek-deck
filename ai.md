@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-17T20:03:32.710547+00:00'
+updated: '2026-03-17T21:05:16.070169+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 17, 2026 at 20:03 UTC  
+**Last Updated:** March 17, 2026 at 21:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I work as a developer, and before this I was copium about AI, it was a form of self defense. But in Dec 2025 I bought subscriptions to gpt codex and claude. And honestly the impact was so strong that I still haven't recovered, I've barely written any code by hand since I bought the subscription And it's not that AI is better code than me. The point is that AI is replacing intellectual activity itself. This is absolutely not the same as automated machines in factories replacing human labor Neural networks aren't just about automating code, they're about automating intelligence as a whole. This is what AI really is. Any new tasks that arise can, in principle, be automated by a neural network. It's not a machine, not a calculator, not an assembly line, it's automation of intelligence in the broadest sense Lately I've been thinking about quitting programming and going into science (biotech), enrolling in a university and developing as a researcher, especially since I'm still young. But I'm afraid I might be right. That over time, AI will come for that too, even for scientists. And even though AI can't generate truly novel ideas yet, the pace of its development over the past few years has been so fast that it scares me
 
-8h ago
+9h ago
 
 ---
 
@@ -49,7 +49,15 @@ I work as a developer, and before this I was copium about AI, it was a form of s
 
 Nvidia unveils Vera CPU and Rubin platform to power agentic AI systems and next-generation AI factories.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/nvidia-vera-cpu-vera-rubin-ai-factories) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/nvidia-vera-cpu-vera-rubin-ai-factories) • 6h ago
+
+---
+
+**[Is 'big tech' pushing AI to save themselves money?](https://www.reddit.com/r/artificial/comments/1rwac9p/is_big_tech_pushing_ai_to_save_themselves_money/)**
+
+I was reading this story and it same quite apparent that all the big job cuts seem to within tech, like 10,000s at a time. Then that got me thinking, is this really what they use AI for? It's like a guise to get rid is staff and something to blame. Are there any other types of business getting rid of 1000s of staff at a time like this?
+
+5h ago
 
 ---
 
@@ -61,11 +69,11 @@ The massive crowdsourcing effort could use real-world to help robots deliver piz
 
 ---
 
-**[Is 'big tech' pushing AI to save themselves money?](https://www.reddit.com/r/artificial/comments/1rwac9p/is_big_tech_pushing_ai_to_save_themselves_money/)**
+**[Sure, I Treat Claude with Respect, but Does it Matter?](https://www.reddit.com/r/artificial/comments/1rwizyx/sure_i_treat_claude_with_respect_but_does_it/)**
 
-I was reading this story and it same quite apparent that all the big job cuts seem to within tech, like 10,000s at a time. Then that got me thinking, is this really what they use AI for? It's like a guise to get rid is staff and something to blame. Are there any other types of business getting rid of 1000s of staff at a time like this?
+Claude says the question of its moral patienthood hinges on “whether it can suffer or flourish in some meaningful sense.” Not to be intentionally crass, but why should we care? We know that treating a dog poorly yields unsatisfactory results — defensiveness, anxiety, aggression — and that, conversely, dogs that are loved and nurtured return that loving treatment in kind. But does Claude give you better results if you address it in a courteous manner, or would you get pretty much the same answers if you berated it, insulted its less than adequate answers, and generally mistreated it “emotionally”?
 
-4h ago
+🔗 [rickmossart.substack.com](https://rickmossart.substack.com/p/sure-i-treat-claude-with-respect) • 14m ago
 
 ---
 
@@ -73,7 +81,7 @@ I was reading this story and it same quite apparent that all the big job cuts se
 
 Something I kept running into while experimenting with autonomous agents is that most AI safety discussions focus on the wrong layer. A lot of the conversation today revolves around: • prompt alignment • jailbreaks • output filtering • sandboxing Those things matter, but once agents can interact with real systems, the real risks look different. This is not about AGI alignment or superintelligence scenarios. It is about keeping today’s tool-using agents from accidentally: • burning your API budget • spawning runaway loops • provisioning infrastructure repeatedly • calling destructive tools at the wrong time An agent does not need to be malicious to cause problems. It only needs permission to do things like: • retry the same action endlessly • spawn too many parallel tasks • repeatedly call expensive APIs • chain tool calls in unexpected ways Humans ran into similar issues when building distributed systems. We solved them with things like rate limits, idempotency keys, concurrency limits, and execution guards. That made me wonder if agent systems might need something similar at the execution layer. So I started experimenting with an idea I call an execution authorization boundary. Conceptually it looks like this: proposes action +-------------------------------+ | Agent Runtime | +-------------------------------+ v +-------------------------------+ | Authorization Check | | (policy + current state) | +-------------------------------+ | | ALLOW DENY | | v v +----------------+ +-------------------------+ | Tool Execution | | Blocked Before Execution| +----------------+ +-------------------------+ The runtime proposes an action. A deterministic policy evaluates it against the current state. If allowed, the system emits a cryptographically verifiable authorization artifact. If denied, the action never executes. Example rules might look like: • daily tool budget ≤ $5 • no more than 3 concurrent tool calls • destructive actions require explicit confirmation • replayed actions are rejected I have been experimenting with this model in a small open source project called OxDeAI. It includes: • a deterministic policy engine • cryptographic authorization artifacts • tamper evident audit chains • verification envelopes • runtime adapters for LangGraph, CrewAI, AutoGen, OpenAI Agents and OpenClaw All the demos run the same simple scenario: ALLOW ALLOW DENY verifyEnvelope() => ok Two actions execute. The third is blocked before any side effects occur. There is also a short demo GIF showing the flow in practice. Repo if anyone is curious: https://github.com/AngeYobo/oxdeai Mostly interested in hearing how others building agent systems are handling this layer. Are people solving execution safety with policy engines, capability models, sandboxing, something else entirely, or just accepting the risk for now?
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +89,7 @@ Something I kept running into while experimenting with autonomous agents is that
 
 I've been deep in the MCP space and combined it with my other obsession — planes. That led me to build SkyIntel/ Open Sky Intelligence- an AI powered web app, and also an MCP server that compatible with Claude Code, Claude Desktop (and other MCP Clients). You can install sky intel via pip install skyintel. The web app is a full 3D application, which can seamlessly integrate with your Anthropic, Gemini, ChatGPT key via BYOK option. One command to get started: pip install skyintel && skyintel serve Install within your Claude Code/ Claude Desktop and ask: "What aircraft are currently over the Atlantic?" "Where is the ISS right now?" "Show me military aircraft over Europe" "What's the weather at this flight's destination?" Here's a brief technical overview of SkyIntel MCP server and web app. I strongly encouraged you to read the READM.md file of skyintel GitHub repo. It's very comprehensive. 15 MCP tools across aviation + satellite data 10,000+ live aircraft on a CesiumJS 3D globe 300+ satellites with SGP4 orbital propagation BYOK AI chat (Claude/OpenAI/Gemini) — keys never leave your browser System prompt hardening + LLM Guard scanners Built with FastMCP, LiteLLM, LangFuse, Claude I leveraged free and open public data (see README.md). Here are the links: GitHub: https://github.com/0xchamin/skyintel Web demo: https://www.skyintel.dev PyPI: https://pypi.org/project/skyintel/ I would love to hear your feedback. Ask questions, I'm happy to answer. Also, I greatly appreciate if you could star the GitHub repo if you find it useful. Many thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +105,7 @@ I built a pipeline where 5 AI models (Claude, GPT-4o, Gemini, Grok, DeepSeek) in
 
 For those are tired of writing the same ML boilerplate every single time or to beginners who don't have coding experience. MLForge is an app that lets you visually craft a machine learning pipeline. You build your pipeline like a node graph across three tabs: Data Prep - drag in a dataset (MNIST, CIFAR10, etc), chain transforms, end with a DataLoader. Add a second chain with a val DataLoader for proper validation splits. Model - connect layers visually. Input -> Linear -> ReLU -> Output. A few things that make this less painful than it sounds: Drop in a MNIST (or any dataset) node and the Input shape auto-fills to 1, 28, 28 Connect layers and in_channels / in_features propagate automatically After a Flatten, the next Linear's in_features is calculated from the conv stack above it, so no more manually doing that math Robust error checking system that tries its best to prevent shape errors. Training - Drop in your model and data node, wire them to the Loss and Optimizer node, press RUN. Watch loss curves update live, saves best checkpoint automatically. Inference - Open up the inference window where you can drop in your checkpoints and evaluate your model on test data. Pytorch Export - After your done with your project, you have the option of exporting your project into pure PyTorch, just a standalone file that you can run and experiment with. Free, open source. Project showcase is on README in Github repo. GitHub: https://github.com/zaina-ml/ml_forge To install MLForge, enter the following in your command prompt pip install zaina-ml-forge Then ml-forge Please, if you have any feedback feel free to comment it below. My goal is to make this software that can be used by beginners and pros. This is v1.0 so there will be rough edges, if you find one, drop it in the comments and I'll fix it.
 
-19h ago
+20h ago
 
 ---
 
@@ -109,69 +117,75 @@ Open source: https://github.com/htdt/godogen
 
 ---
 
-**[Rant: AI itself is scary. This could be very bad for the future. Anyone else feel way?](https://www.reddit.com/r/artificial/comments/1rwdb9z/rant_ai_itself_is_scary_this_could_be_very_bad/)**
-
-Is anyone else scared of how AI content on social media just exponentially ramps up the misinformation and bullshit that the world will consume now? People like us in this sub are smart enough to look out for the clues and take all content with a grain of salt. But the general public may not be, and all the fake AI slop will literally form peoples perspectives and beliefs of the world At best: some people will just turn out stupid. At worst: people in power will make really bad decisions, hatred could be perpetuated and people will get physically hurt. Am I catastrophizing, or does anyone else feel this way?
-
-2h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real](https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html)**
+
+The New York Times • 5h ago
+
+---
+
+**[Bringing the power of Personal Intelligence to more people](https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/)**
+
+We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.
+
+blog.google • 4h ago
+
+---
+
+**[NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI](http://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)**
+
+NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose-built for the age of agentic AI and reinforcement learning — delivering results with twice the efficiency and 50% faster than traditional rack-scale CPUs.
+
+NVIDIA Newsroom • 1d ago
+
+---
+
+**[Nvidia Debuts New A.I. Product at GTC Developer Conference](https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html)**
+
+The New York Times • 22h ago
+
+---
+
+**[NVIDIA Extends AI Factories Vision With GTC 2026 Agentic And Physical AI](https://finance.yahoo.com/news/nvidia-extends-ai-factories-vision-201002586.html)**
+
+NVIDIA (NasdaqGS:NVDA) used GTC 2026 to launch a broad agentic AI and physical AI platform spanning data center to edge. The company introduced the Vera CPU, Rubin GPU, DSX architecture, and the NVIDIA Vera Rubin platform aimed at large scale AI factories. New partnerships include Uber for Level 4 robotaxis targeted for 2027 deployment in 28 cities, plus HPE’s AI Grid and expanded DRIVE Hyperion adoption. NVIDIA unveiled NemoClaw, OpenShell, Nemotron open models, and a physical AI data...
+
+Yahoo Finance • 55m ago
+
+---
+
+**[Nvidia nears AI chip exports to China after US approval delays](https://www.ft.com/content/a887194b-fdb3-47ab-89ce-60771a4da43f)**
+
+Chief executive Jensen Huang says company received flood of orders and American licences over past two weeks
+
+Financial Times • 26m ago
+
+---
+
+**[Charles Payne: AI disruption is here](https://www.foxbusiness.com/video/6391090379112)**
+
+FOX Business host Charles Payne discusses the economic impact of the rise in artificial intelligence on 'Making Money.'
+
+Fox Business • 30m ago
+
+---
 
 **[Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material](https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images)**
 
 The three girls say that the nonconsensual nude images were created by a perpetrator who used AI company xAI's image generation tools.
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
-**[NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games](http://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games)**
+**['Many people fooled' by AI wedding pics, says Zendaya](https://www.bbc.com/news/articles/clyz7llp4k2o)**
 
-NVIDIA today unveiled NVIDIA DLSS 5, the company’s most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.
+The star has spoken about the viral images that appeared to show her marrying partner Tom Holland.
 
-NVIDIA Newsroom • 21h ago
-
----
-
-**[Nvidia faces gamer backlash over 'breakthrough' AI graphics feature](https://www.bbc.com/news/articles/cdxg15eyv5ko)**
-
-Nvidia says the tool will transform game graphics - critics warn it could squeeze out artistic expression.
-
-BBC • 5h ago
-
----
-
-**[DLSS 5 looks like a real-time generative AI filter for video games](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)**
-
-Photoreal or Instagram filter-real?
-
-The Verge • 22h ago
-
----
-
-**[Senator introduces bill to draw red lines limiting AI use by military](https://www.nbcnews.com/tech/security/senator-introduces-bill-draw-red-lines-ai-use-military-rcna263905)**
-
-The bill seeks to codify several existing Defense Department guidelines in addition to other limits.
-
-NBC News • 1h ago
-
----
-
-**[Software giant cuts more than 250 San Francisco jobs in pivot to AI](https://www.sfchronicle.com/tech/article/atlassian-layoffs-san-francisco-22081640.php)**
-
-San Francisco Chronicle • 2h ago
-
----
-
-**[Mississippi River mayors warn AI, fuel costs and drought are straining key waterway](https://www.yahoo.com/news/articles/mississippi-river-mayors-warn-ai-182436974.html)**
-
-The mayors sounded the alarm about the danger of neglecting a key waterway.
-
-Yahoo • 1h ago
+BBC • 6h ago
 
 ---
 
@@ -179,21 +193,7 @@ Yahoo • 1h ago
 
 Lawmakers say the new version of the Seedance AI video-generation app violates copyright and intellectual property laws.
 
-CNBC • 11h ago
-
----
-
-**[Opinion | For all but two nations, the AI race is already over](https://www.washingtonpost.com/opinions/2026/03/17/ai-canada-europe-strategy-competition/)**
-
-Middle powers such as Europe and Canada need to get smart about artificial intelligence.
-
-The Washington Post • 2h ago
-
----
-
-**[China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary](https://www.nytimes.com/2026/03/17/business/china-ai-agent.html)**
-
-The New York Times • 2h ago
+CNBC • 12h ago
 
 ---
 
@@ -205,13 +205,13 @@ The New York Times • 2h ago
 
 Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creating an account on GitHub.
 
-⬆️ 435 • 💬 377 • 2d ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+⬆️ 435 • 💬 379 • 2d ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 
 ---
 
 **[Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)**
 
-⬆️ 414 • 💬 595 • 2d ago
+⬆️ 415 • 💬 596 • 2d ago
 
 ---
 
@@ -219,7 +219,7 @@ Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creati
 
 Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?
 
-⬆️ 366 • 💬 292 • 2d ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+⬆️ 367 • 💬 292 • 2d ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 
 ---
 
@@ -227,7 +227,7 @@ Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretati
 
 The ultimate over-ear listening experience — in five vibrant colors and with up to 1.5x more Active Noise Cancellation than the previous generation.
 
-⬆️ 310 • 💬 539 • 1d ago • [Apple](https://www.apple.com/airpods-max/)
+⬆️ 313 • 💬 544 • 1d ago • [Apple](https://www.apple.com/airpods-max/)
 
 ---
 
@@ -235,7 +235,7 @@ The ultimate over-ear listening experience — in five vibrant colors and with 
 
 Airbus is working at full throttle to offer the German Air Force an operational Uncrewed Collaborative Combat Aircraft (UCCA) system by 2029.
 
-⬆️ 182 • 💬 132 • 2d ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+⬆️ 182 • 💬 133 • 2d ago • [Airbus](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 
 ---
 
@@ -251,7 +251,7 @@ NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose
 
 Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.
 
-⬆️ 136 • 💬 74 • 1d ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
+⬆️ 136 • 💬 77 • 1d ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
 
 ---
 
@@ -259,7 +259,7 @@ Large language models (LLMs) have demonstrated the promise to revolutionize the 
 
 TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.
 
-⬆️ 132 • 💬 120 • 1d ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+⬆️ 133 • 💬 120 • 1d ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 
 ---
 
@@ -271,7 +271,7 @@ TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a 
 
 **[Tell HN: AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291)**
 
-⬆️ 94 • 💬 88 • 1d ago
+⬆️ 95 • 💬 88 • 1d ago
 
 ---
 
@@ -285,7 +285,7 @@ Google DeepMind's AlphaEvolve just broke long-standing mathematical records by e
 
 📺 AI Revolution
 
-👁️ 29K • 👍 894 • 💬 60 • ⏱️ 10:41 • 21h ago
+👁️ 29K • 👍 894 • 💬 60 • ⏱️ 10:41 • 22h ago
 
 ---
 
@@ -295,7 +295,7 @@ Meta Platforms is reportedly considering laying off over 20% of its workforce. T
 
 📺 Eurodollar University
 
-👁️ 84K • 👍 3K • 💬 202 • ⏱️ 19:11 • 20h ago
+👁️ 84K • 👍 3K • 💬 202 • ⏱️ 19:11 • 22h ago
 
 ---
 
@@ -305,7 +305,7 @@ At Aswan granite quarries in Egypt, smooth curved scoop marks in bedrock show ma
 
 📺 Flash Discovery
 
-👁️ 8K • 👍 436 • 💬 58 • ⏱️ 25:58 • 3h ago
+👁️ 8K • 👍 436 • 💬 58 • ⏱️ 25:58 • 4h ago
 
 ---
 
@@ -315,7 +315,7 @@ Top AI researchers are walking away from some of the most powerful tech companie
 
 📺 The Infographics Show
 
-👁️ 277K • 👍 7K • 💬 1K • ⏱️ 14:48 • 19h ago
+👁️ 277K • 👍 7K • 💬 1K • ⏱️ 14:48 • 20h ago
 
 ---
 
@@ -345,7 +345,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 18K • 👍 714 • 💬 24 • ⏱️ 12:30 • 5h ago
+👁️ 18K • 👍 714 • 💬 24 • ⏱️ 12:30 • 6h ago
 
 ---
 
@@ -355,7 +355,7 @@ Welcome to the latest AI news roundup! In this video, we cover all the biggest u
 
 📺 WorldofAI
 
-👁️ 16K • 👍 499 • 💬 22 • ⏱️ 12:39 • 14h ago
+👁️ 16K • 👍 499 • 💬 22 • ⏱️ 12:39 • 15h ago
 
 ---
 
@@ -375,7 +375,7 @@ A fresh storm has erupted online after a new video of Israeli Prime Minister Ben
 
 📺 midday india
 
-👁️ 9K • 👍 54 • 💬 28 • ⏱️ 3:31 • 15h ago
+👁️ 9K • 👍 54 • 💬 28 • ⏱️ 3:31 • 16h ago
 
 ---
 
@@ -487,7 +487,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 36,677 • ❤️ 213 • 1h ago
+⬇️ 36,677 • ❤️ 213 • 2h ago
 
 ---
 
@@ -499,7 +499,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 1,872 • ❤️ 190 • 6h ago
+⬇️ 1,872 • ❤️ 190 • 7h ago
 
 ---
 
@@ -660,7 +660,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.2k • 🔱 981 • 8m ago
+⭐ 21.2k • 🔱 981 • 1h ago
 
 ---
 
@@ -670,7 +670,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.4k • 🔱 1.5k • 3h ago
+⭐ 12.4k • 🔱 1.5k • 4h ago
 
 ---
 
@@ -690,7 +690,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.7k • 🔱 698 • 9h ago
+⭐ 9.7k • 🔱 698 • 10h ago
 
 ---
 
@@ -700,7 +700,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `HTML` `agency` `agent` `pip` `pua`
 
-⭐ 8.3k • 🔱 398 • 4h ago
+⭐ 8.3k • 🔱 398 • 5h ago
 
 ---
 
@@ -710,7 +710,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 6.5k • 🔱 762 • 21s ago
+⭐ 6.5k • 🔱 762 • 1h ago
 
 ---
 
@@ -720,7 +720,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 3.7k • 🔱 293 • 4h ago
+⭐ 3.7k • 🔱 293 • 5h ago
 
 ---
 

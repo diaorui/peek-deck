@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-17T20:03:32.725244+00:00'
+updated: '2026-03-17T21:05:16.084801+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 20:03 UTC  
+**Last Updated:** March 17, 2026 at 21:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,334.86
+### $2,318.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +14.0%  
-**30d:** +17.0%  
-**90d:** -17.1%  
-**1y:** +21.2%  
+**24h:** -1.3%  
+**7d:** +13.5%  
+**30d:** +16.5%  
+**90d:** -17.5%  
+**1y:** +20.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 6h ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Determinist
 
 Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about wrapped bitcoin (WBTC) on the ethereum chain, wondering if you guys are using it/what's your opinion on it?
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Ethereum is setting up for a post-stewardship world
 
-🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 5h ago
+🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 6h ago
 
 ---
 
@@ -128,7 +128,7 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 What crypto founders have the biggest peenys? Does Anatoly have a big one? Is Richard Hart holding a tiny tinkler? Is Pasternak packing? All of us have thought about this many times but now is a chance to really get into it and discuss what we all want to know, maybe there’s a guy or girl in the sub that knows the answer to all of these from actual experience and is ready to put rumors to rest. Let’s keep it civil and talk about dingdongs in an adult manner ultimately using this data as another point of confluence to fill out bags, remember no shaming ok guys?!
 
-12h ago
+13h ago
 
 ---
 
@@ -160,9 +160,9 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcTsodP6p6RR1xLgrSlHOC7aNhfpPitGemMGXeBwWoPWvxGiocYQ1tu&gaa_ts=69b9abd9&gaa_sig=5bEHd2KFSeq3alEs5dnl3hDy4_tNbrkPeO0fR1ztXP9H24hiADoW-3ryEK79YU3nJYKhU8UoimkZ3fP_27_maA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqe2jdw4DhWKU7fn26AeIYGJXBNtgtewlvm7p2YvRs68vYfTjkR4KIde&gaa_ts=69b9c576&gaa_sig=uLrIzRMytkYoXFUT1ZqndqQuIK8B0Ruu2URQawHvhNnUL4Q4xCEFuhXHe4ESj6J48Sen2G0tDEIrSU1w1WmMYA%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ Barron's • 23h ago
 
 Ethereum Foundation releases a new manifesto. It reaffirms the nonprofit's commitment to cypherpunk principles.  Some Ethereum bulls say that's at odds with the blockchain's commercial success.
 
-dlnews.com • 3h ago
+dlnews.com • 4h ago
 
 ---
 
@@ -184,23 +184,15 @@ Yahoo Finance • 2d ago
 
 **[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
-**[Ethereum Foundation sells 5,000 ETH to Tom Lee's BitMine in $10 million OTC deal](https://www.theblock.co/post/393614/ethereum-foundation-sells-5000-eth-to-tom-lees-bitmine-in-10-million-otc-deal)**
+**[Tom Lee’s BitMine boosts Ethereum treasury near 4.6 million ETH as cryptos post ‘meaningful outperformance’ during Iran war](https://www.theblock.co/post/393747/tom-lees-bitmine-boosts-ethereum-treasury-near-4-6-million-eth-as-cryptos-post-meaningful-outperformance-during-iran-war)**
 
-The deal is the EF's second known OTC sale to a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
+BitMine Chairman Tom Lee pointed to crypto's outperformance during tension in the Middle East as the firm accelerated Ethereum purchases.
 
-The Block • 3d ago
-
----
-
-**[KoreInside Launches Interoperability for Public Blockchains Such As Ethereum, Solana, Coinbase to Bring Real-World Asset (RWA) Enablement to the Masses](https://www.usatoday.com/press-release/story/28503/koreinside-launches-interoperability-for-public-blockchains-such-as-ethereum-solana-coinbase-to-bring-real-world-asset-rwa-enablement-to-the-masses/)**
-
-KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
-
-USA Today • 6h ago
+The Block • 1d ago
 
 ---
 
@@ -212,19 +204,25 @@ CoinDesk • 1d ago
 
 ---
 
+**[KoreInside Launches Interoperability for Public Blockchains Such As Ethereum, Solana, Coinbase to Bring Real-World Asset (RWA) Enablement to the Masses](https://www.usatoday.com/press-release/story/28503/koreinside-launches-interoperability-for-public-blockchains-such-as-ethereum-solana-coinbase-to-bring-real-world-asset-rwa-enablement-to-the-masses/)**
+
+KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
+
+USA Today • 7h ago
+
+---
+
 **[Robert Kiyosaki Predicts Bitcoin $750K, Ethereum $95K After Global Financial Crash](https://news.bitcoin.com/robert-kiyosaki-predicts-bitcoin-750k-ethereum-95k-after-global-financial-crash/)**
 
 Robert Kiyosaki warns a massive asset bubble could soon burst, predicting an unprecedented market collapse that may propel gold, silver, bitcoin, and
 
-Bitcoin.com News • 20h ago
+Bitcoin.com News • 21h ago
 
 ---
 
-**[Current price of Ethereum for March 17, 2026](https://fortune.com/article/price-of-ethereum-03-17-2026/)**
+**[Citi lowers Bitcoin, Ethereum targets amid slow legislative progress](https://www.investing.com/news/cryptocurrency-news/citi-lowers-bitcoin-ethereum-targets-amid-slow-legislative-progress-4565383)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 5h ago
+Investing.com • 9h ago
 
 ---
 
@@ -238,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 116 • 💬 4 • ⏱️ 5:30 • 6h ago
+👁️ 1K • 👍 116 • 💬 4 • ⏱️ 5:30 • 7h ago
 
 ---
 
@@ -248,7 +246,7 @@ BMNR is quietly building one of the largest Ethereum positions in the world, now
 
 📺 The Value Thinker
 
-👁️ 6K • 👍 421 • 💬 41 • ⏱️ 15:13 • 8h ago
+👁️ 6K • 👍 421 • 💬 41 • ⏱️ 15:13 • 9h ago
 
 ---
 
@@ -288,7 +286,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 1K • 👍 265 • 💬 4 • ⏱️ 18:07 • 2h ago
+👁️ 1K • 👍 265 • 💬 4 • ⏱️ 18:07 • 3h ago
 
 ---
 
@@ -298,7 +296,7 @@ The Ethereum Foundation's new mandate has reignited one of Ethereum's oldest deb
 
 📺 Bankless
 
-👁️ 2K • 👍 113 • 💬 14 • ⏱️ 1:00:34 • 8h ago
+👁️ 2K • 👍 113 • 💬 14 • ⏱️ 1:00:34 • 9h ago
 
 ---
 
@@ -308,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 182 • 💬 12 • ⏱️ 3:27 • 13h ago
+👁️ 2K • 👍 182 • 💬 12 • ⏱️ 3:27 • 14h ago
 
 ---
 

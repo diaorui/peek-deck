@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-17T20:03:32.728525+00:00'
+updated: '2026-03-17T21:05:16.088013+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 17, 2026 at 20:03 UTC  
+**Last Updated:** March 17, 2026 at 21:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 Incorrectly located in China, when it's actually in California Leila on 𝕏: https://x.com/oranaise/status/2033869874020106710
 
-6h ago
+7h ago
 
 ---
 
@@ -44,35 +44,19 @@ From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 In
 
 Got a lot of feedbacks from last post, thanks a lot! There are many requests about trying uneven terrain, sand, and stairs. The sand was… not a pleasant experience. We heard some worrying rattling sounds after the test, so we’re thinking an enclosure might be necessary to keep the dust and grit out. But for now, here's our current attempt at the stairs! As you can see, still jittery, still leaning, but it jumps. Still a long way to go! We are planning to add perception so it can actually see the stairs and, hopefully, decide when to jump on its own without me babysitting the remote.
 
-5h ago
+6h ago
 
 ---
 
 **[Jetson-powered Olaf robot at NVIDIA GTC 2026](https://www.reddit.com/r/robotics/comments/1rwberk/jetsonpowered_olaf_robot_at_nvidia_gtc_2026/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
 
-11h ago
-
----
-
-**[Live demo by Skild AI at GTC, demonstrating neural nets for precision manufacturing](https://www.reddit.com/r/robotics/comments/1rw1q0z/live_demo_by_skild_ai_at_gtc_demonstrating_neural/)**
-
-From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
-
-10h ago
-
----
-
-**[Made lower part of a small humanoid cheap robot](https://www.reddit.com/r/robotics/comments/1rw6uu1/made_lower_part_of_a_small_humanoid_cheap_robot/)**
-
-Just finished up designing and putting together the lower half of my yet another sg 90 robot. This one feels more refined than others. It's about 20 cm long and for its hip and knee actuators uses modified sg90/mg90s servos, which have had their base plate removed and center hollowed out to save space. I remember a lot of small diy projects before the humanoid robot scene became more "mainstream" so to speak, but I see less small projects and more full scale humanoids nowadays. Here's link with 3d files https://cults3d.com/en/3d-model/various/neoparts-sg90-bipedal-robot
-
-6h ago
+12h ago
 
 ---
 
@@ -80,7 +64,23 @@ Just finished up designing and putting together the lower half of my yet another
 
 Hey everyone, I am currently developing a custom tracker using my old lighthouse trackers from a VR headset (HTC vive). The end goal is tracking small robots indoors for ~$10-15 per unit. For that I built a custom PCB in the simplest way possible, as I am still quite a beginner in electronics. I am using BPW-34 photodiodes - they have no IR filter built in, so i'm using floppy disk film as a cheap IR bandpass which works surprisingly well. The board is put into a small 3D printed case that will be placed on my robots (I intend to have multiples in an arena). But even with just that a very basic tracking that captures the laser pulses from the lighthouse worked! For the future I will try to use at least 3 sensors to be able to position objects in space as well. I was quite surprised that this even worked.
 
-4h ago
+5h ago
+
+---
+
+**[Live demo by Skild AI at GTC, demonstrating neural nets for precision manufacturing](https://www.reddit.com/r/robotics/comments/1rw1q0z/live_demo_by_skild_ai_at_gtc_demonstrating_neural/)**
+
+From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
+
+11h ago
+
+---
+
+**[Made lower part of a small humanoid cheap robot](https://www.reddit.com/r/robotics/comments/1rw6uu1/made_lower_part_of_a_small_humanoid_cheap_robot/)**
+
+Just finished up designing and putting together the lower half of my yet another sg 90 robot. This one feels more refined than others. It's about 20 cm long and for its hip and knee actuators uses modified sg90/mg90s servos, which have had their base plate removed and center hollowed out to save space. I remember a lot of small diy projects before the humanoid robot scene became more "mainstream" so to speak, but I see less small projects and more full scale humanoids nowadays. Here's link with 3d files https://cults3d.com/en/3d-model/various/neoparts-sg90-bipedal-robot
+
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I am currently developing a custom tracker using my old lighthouse
 
 I've completed obstacle avoidance for my car using VIOBOT2. The stereo vision depth effect of VIOBOT2 is quite impressive. For those interested, feel free to check out my experimental test video.
 
-5h ago
+6h ago
 
 ---
 
@@ -96,13 +96,13 @@ I've completed obstacle avoidance for my car using VIOBOT2. The stereo vision de
 
 Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d still run into chair legs, cables, or random small stuff pretty often. Some of the newer ones seem a lot better at this now. Something like the Dreame X60 uses dual AI cameras for object recognition, while Roborock Saros 20 adds AI vision alongside LiDAR to spot obstacles and adjust the path instead of just bumping into things. Feels like avoidance has gotten noticeably better lately. Have others noticed the same in real use?
 
-8h ago
+9h ago
 
 ---
 
 **[robot pouring water](https://www.reddit.com/r/robotics/comments/1rvybmm/robot_pouring_water/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -114,7 +114,7 @@ Older robot vacuums mostly relied on bump sensors or basic LiDAR, so they’d st
 
 CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 11h ago
 
 NVIDIA today announced the NVIDIA Physical AI Data Factory Blueprint, an open reference architecture that unifies and automates how training data is generated, augmented and evaluated, reducing the costs, time and complexity of training physical AI systems at scale.
 
-NVIDIA Newsroom • 23h ago
+NVIDIA Newsroom • 1d ago
 
 ---
 
@@ -130,7 +130,7 @@ NVIDIA Newsroom • 23h ago
 
 This free-roaming snowman droid is coming to overseas Disney theme parks.
 
-CNET • 22h ago
+CNET • 23h ago
 
 ---
 
@@ -138,7 +138,7 @@ CNET • 22h ago
 
 ST. JOHN’S, NEWFOUNDLAND, March 17, 2026 /GLOBE NEWSWIRE/ — Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces approximately $24 million in new orders to over 10 customers across five countries, including three new defence customers. The orders are for Kraken’s SeaPower batteries, KATFISH towed synthetic aperture sonar (SAS), and Kraken SAS. […]
 
-Kraken Robotics • 8h ago
+Kraken Robotics • 9h ago
 
 ---
 
@@ -146,13 +146,13 @@ Kraken Robotics • 8h ago
 
 A Sam Altman-backed company called Coco Robotics will tap an AI model that uses 30+ billion images captured by the game's users.
 
-Morning Brew • 15h ago
+Morning Brew • 16h ago
 
 ---
 
-**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqduuiM4CQnYTavQBXYTGN9XzK_xbautx2MxzFwQNznH2weRizEuTyHu&gaa_ts=69b9abdb&gaa_sig=kGEslXGts8UfPKzuXq1aNeJgReqm4lOxpLlTpFF6y1Mh71u-vX-Iuaef5Zvv-pUUeFl-7klbwdYJKteShAlYDg%3D%3D)**
+**[Scientists Let AI Evolve These Robots' Designs – The Results Are Deeply Weird](https://www.iflscience.com/these-robots-evolved-in-an-ai-simulation-then-scientists-built-them-in-the-real-world-82878)**
 
-WSJ • 2d ago
+IFLScience • 7h ago
 
 ---
 
@@ -160,7 +160,13 @@ WSJ • 2d ago
 
 A BCSC elementary robotics team over the weekend was crowned state champion in its division, earning a spot in world championship competition in April.
 
-The Republic News • 15h ago
+The Republic News • 16h ago
+
+---
+
+**[When Humanoid Robots Come to a Small Town Factory in South Carolina](https://www.wsj.com/business/south-carolina-schaeffler-plant-robots-d56c91d0?gaa_at=eafs&gaa_n=AWEtsqdLWGzw979pnHPs3XKi_8pPOniEthYZSjD9htLkUQqeN4cefjCX0wE7&gaa_ts=69b9c578&gaa_sig=41OWmQVrK5fyIeu6APwTUlN3WJzCihbYz3ML7hNNay2oUykuvKDgSWICFKmaWyXHm8ZO8GZOSuLr2_iAIOVAQQ%3D%3D)**
+
+WSJ • 2d ago
 
 ---
 
@@ -180,14 +186,6 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Industrial Robotics Drive Shift Toward Physical AI](https://www.eetimes.com/industrial-robotics-drive-shift-toward-physical-ai/)**
-
-Physical AI is moving from cloud to edge, with industrial robotics leading adoption as AI enables real-time decision-making in machines.
-
-EE Times • 13h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +196,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 34K • 👍 372 • 💬 27 • ⏱️ 2:02 • 23h ago
+👁️ 34K • 👍 372 • 💬 27 • ⏱️ 2:02 • 1d ago
 
 ---
 
@@ -218,7 +216,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 320 • 👍 22 • 💬 1 • ⏱️ 4:39 • 1h ago
+👁️ 320 • 👍 22 • 💬 1 • ⏱️ 4:39 • 2h ago
 
 ---
 
@@ -248,7 +246,7 @@ While everyone's been chasing the perfect humanoid form, a French company called
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 161 • 💬 7 • ⏱️ 24:50 • 18h ago
+👁️ 3K • 👍 161 • 💬 7 • ⏱️ 24:50 • 19h ago
 
 ---
 
