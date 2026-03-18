@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-17T23:41:18.290088+00:00'
+updated: '2026-03-18T02:23:31.486462+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 17, 2026 at 23:41 UTC  
+**Last Updated:** March 18, 2026 at 02:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +5.9%  
-**30d:** +8.0%  
-**90d:** -12.9%  
-**1y:** -10.2%  
+**24h:** -0.3%  
+**7d:** +5.3%  
+**30d:** +10.0%  
+**90d:** -15.8%  
+**1y:** -14.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1485.39B
+**Market Cap:** $1485.74B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
@@ -64,7 +64,7 @@ Rank #1
 -41.1%
 
 **All-Time Low:** $67.81
-+109422.2%
++109429.6%
 
 ---
 
@@ -81,6 +81,14 @@ Rank #1
 
 Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized shitcoins, straight BTC. It eventuelly makes sense. AI agents need a payment layer with no counterparty risk, no geography, and no permissions required. Bitcoin was built for exactly that.
 
+8h ago
+
+---
+
+**[My Mom told me she wants to buy Bitcoin 👀](https://www.reddit.com/r/Bitcoin/comments/1rwhfln/my_mom_told_me_she_wants_to_buy_bitcoin/)**
+
+Interestingly my first thought was an eye roll. “Mom you barely know how to use your phone. Why?” Then her very next question was “well just explain to me simply what it is”. So I did. Simply. And she said she wants some. I thought, wow, this is amazing. Retail is back 😂 Jokes aside, this really is a great indicator in my personal life of Bitcoin’s baby steps into a mainstream average person adoption.
+
 6h ago
 
 ---
@@ -89,13 +97,7 @@ Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized s
 
 Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework
 
-13h ago
-
----
-
-**[Being behind is not your fault. Staying behind is.](https://www.reddit.com/r/Bitcoin/comments/1rwcxze/being_behind_is_not_your_fault_staying_behind_is/)**
-
-6h ago
+16h ago
 
 ---
 
@@ -103,27 +105,19 @@ Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate
 
 https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
 
-8h ago
+10h ago
 
 ---
 
 **[From nearly zero in 2017 to ~1.2 million BTC held by 50+ public companies by 2025.](https://www.reddit.com/r/Bitcoin/comments/1rw6xls/from_nearly_zero_in_2017_to_12_million_btc_held/)**
 
-9h ago
-
----
-
-**[My Mom told me she wants to buy Bitcoin 👀](https://www.reddit.com/r/Bitcoin/comments/1rwhfln/my_mom_told_me_she_wants_to_buy_bitcoin/)**
-
-Interestingly my first thought was an eye roll. “Mom you barely know how to use your phone. Why?” Then her very next question was “well just explain to me simply what it is”. So I did. Simply. And she said she wants some. I thought, wow, this is amazing. Retail is back 😂 Jokes aside, this really is a great indicator in my personal life of Bitcoin’s baby steps into a mainstream average person adoption.
-
-3h ago
+12h ago
 
 ---
 
 **[Wow! This great Bitcoin post on the front page of Reddit right now (NP link).](https://www.reddit.com/r/Bitcoin/comments/1rwi3su/wow_this_great_bitcoin_post_on_the_front_page_of/)**
 
-3h ago
+6h ago
 
 ---
 
@@ -131,13 +125,21 @@ Interestingly my first thought was an eye roll. “Mom you barely know how to us
 
 been stacking sats for most of this year and just crossed into full bitcoin territory today picked up more during a few different dips along the way which helped me get there faster kinda thought id feel more excited when i reached this point but its more like relief than celebration i guess still pretty cool though especially since i really believe this technology is going somewhere big now time to start working toward that second bitcoin
 
-17h ago
+20h ago
+
+---
+
+**[BTC in this early stage currently offers more than just being a store of value](https://www.reddit.com/r/Bitcoin/comments/1rwhabg/btc_in_this_early_stage_currently_offers_more/)**
+
+Currently, BTC is not just a store of value, but at the moment also a very strong value grower. Thats why many people use BTC as a value grower like you would use a diversified index fund. Many people don't just use BTC to only keep their purchasing power - they can also benefit from real purchasing power increase because they are still early. I think once bitcoin gets more adapted worldwide and gets worth multiple millions per coin in the next decades, this purchase power increasing trend will slowly fade away, its value will remain more stable, so thats when it will just be a store of value. Thats the moment BTC won't get used like an index fund anymore, people in the future will have to invest in stocks (more risky) if they want to increase their purchase power instead of just keeping it. If they just want to keep their purchasing power without risk, BTC will be for them. But thats not the time we are living in right now, at the moment BTC still has big chances to multiply your purchase power.
+
+6h ago
 
 ---
 
 **[Bitcoin Histomap: 50 events that shaped Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rw7xs2/bitcoin_histomap_50_events_that_shaped_bitcoin/)**
 
-9h ago
+12h ago
 
 ---
 
@@ -145,7 +147,7 @@ been stacking sats for most of this year and just crossed into full bitcoin terr
 
 because of waiting for bitcoin to drop some more.
 
-18h ago
+20h ago
 
 ---
 
@@ -153,63 +155,47 @@ because of waiting for bitcoin to drop some more.
 
 ## Google News: "bitcoin"
 
+**[Analyst predicts Bitcoin to $1M as markets surge](https://www.thestreet.com/crypto/markets/analyst-predicts-bitcoin-to-1m-as-markets-surge)**
+
+Market momentum returns, and so does the million-dollar Bitcoin conversation.
+
+thestreet.com • 11h ago
+
+---
+
 **[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-Reuters • 15h ago
+Reuters • 18h ago
 
 ---
 
-**[Bitcoin price news: BTC price target cut to $112,000 at Citigroup; ETH trimmed to $3,175](https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls)**
+**[Strategy Makes Biggest Bitcoin Buy Yet in 2026 as Preferred Share Demand Surges](https://finance.yahoo.com/news/strategy-makes-biggest-bitcoin-buy-145710045.html)**
 
-The Wall Street investment bank cited slower ETF flows, weak network activity and a narrowing window for U.S. regulatory catalysts.
+Strategy spent $1.57 billion on Bitcoin last week, notching its largest purchase of the year so far amid heightened demand for STRC.
 
-CoinDesk • 10h ago
-
----
-
-**[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4040Q2:0-citigroup-cuts-12-month-bitcoin-ether-targets-as-us-crypto-legislation-stalls/)**
-
-Citigroup cut its 12-month forecast for bitcoin and ethereum, citing slow U.S. legislative progress that narrows the window for regulatory catalysts expected to boost ETF-driven demand and broader institutional adoption.Progress on U.S. crypto market-structure legislation has stalled in the Senate…
-
-TradingView • 15h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[BTC price retreats from monthly high as overbought conditions persist: Crypto Markets Today](https://www.coindesk.com/markets/2026/03/17/bitcoin-consolidation-seen-with-btc-remaining-overbought-after-pullback)**
+**[Strategy Faces Key Test It's Failed 3 Times After Big Bitcoin Buy](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
 
-Crypto markets cool after a sharp rally, with bitcoin eyeing support near $72,000–$74,000 even as derivatives positioning remains broadly bullish and altcoins see deeper profit-taking.
-
-CoinDesk • 12h ago
+Investor's Business Daily • 14h ago
 
 ---
 
-**[Bitcoin At $73,000 Is No Reason To Get Excited, Analyst Warns—Here's Why](https://finance.yahoo.com/news/bitcoin-73-000-no-reason-213030812.html)**
+**[Strategy Bitcoin Bet Grows With Preferred Stock As Valuation Gap Widens](https://finance.yahoo.com/news/strategy-bitcoin-bet-grows-preferred-231106832.html)**
 
-Bitcoin has cracked $73,000 but remains trapped within a broader range, leaving traders divided on whether the next major move will be higher or lower. BTC Remains Stuck According to prominent analyst Trader Mayne, Bitcoin is currently "diddling in the...
+Strategy Inc. (NasdaqGS:MSTR) acquired more than 22,000 BTC in a single week, its largest Bitcoin purchase of the year. The company funded the move primarily through preferred stock and common equity, using high yielding, variable rate preferred shares (STRC). This latest purchase lifts Strategy's total Bitcoin holdings above 761,000 BTC and puts it close to potentially surpassing BlackRock as the largest corporate Bitcoin holder. For investors watching NasdaqGS:MSTR, this step comes with...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Could Drop 25%, Or Jump 120%. Welcome to Crypto's 2026 Grind.](https://www.investopedia.com/the-price-of-bitcoin-could-drop-25-percent-or-jump-120-percent-welcome-to-cryptos-2026-grind-11928359)**
-
-The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
-
-Investopedia • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Coinbase Stock Retakes Key Level As Bitcoin Rebounds; Is Coinbase Stock A Buy Now?](https://www.investors.com/research/coinbase-coin-stock-bitcoin-cryptocurrency-markets/)**
+**[UK Man Accuses Spouse of Stealing $172 Million Bitcoin Password via CCTV Camera](https://gizmodo.com/uk-man-accuses-spouse-of-stealing-172-million-bitcoin-password-via-cctv-camera-2000734846)**
 
-Investor's Business Daily • 2h ago
+Code is law, some say. That doesn't mean normal laws do not apply.
 
----
-
-**[Cango posts $452.8 million net loss in first year as bitcoin miner](https://www.theblock.co/post/393868/cango-posts-452-8-million-net-loss-in-first-year-as-bitcoin-miner)**
-
-Cango’s first full mining year ended with a $452.8 million net loss, selling bitcoin to repay debt and fund its AI pivot.
-
-The Block • 13h ago
+Gizmodo • 3h ago
 
 ---
 
@@ -217,15 +203,31 @@ The Block • 13h ago
 
 Emergent CEO Mukund Jha says vibe coding is still at 1% of its potential and compares the industry today to bitcoin at $1.
 
-Business Insider • 18h ago
+Business Insider • 21h ago
 
 ---
 
-**[Topping bitcoin & other clues for gold & silver investors](https://www.kitco.com/opinion/2026-03-17/topping-bitcoin-other-clues-gold-silver-investors)**
+**[Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war](https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html)**
 
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
 
-KITCO • 6h ago
+CNBC • 3d ago
+
+---
+
+**[SEC Declares 'Most Crypto Assets' Not Securities, Including Staking, Airdrops and Bitcoin Mining](https://decrypt.co/361446/sec-most-crypto-assets-not-securities-staking-airdrops-bitcoin-mining)**
+
+SEC Chair Paul Atkins said the new securities guidance, which impacts "most crypto assets," provides "clear lines in clear terms."
+
+Decrypt • 6h ago
+
+---
+
+**[Bitcoin Price Prediction: We Asked 5 AI Models if Bitcoin Will Hit $100K Again in 2026—Only One Said No](https://247wallst.com/investing/2026/03/15/bitcoin-price-prediction-we-asked-5-ai-models-if-bitcoin-will-hit-100k-again-in-2026-only-one-said-no/)**
+
+We asked ChatGPT, Grok, DeepSeek, Gemini, and Claude if Bitcoin can reclaim $100K in 2026. Four said yes, and only one said no. Here's why.
+
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -265,7 +267,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Open archive of autonomous scientific discovery experiments.
 
-⬆️ 1 • 💬 1 • 1h ago • [protoscience.ai](https://protoscience.ai)
+⬆️ 1 • 💬 2 • 4h ago • [protoscience.ai](https://protoscience.ai)
 
 ---
 
@@ -274,26 +276,6 @@ Open archive of autonomous scientific discovery experiments.
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
 ⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/Kristian5013/resonancenet)
-
----
-
-**[What the 2026 AI price hikes taught me about lean engineering](https://news.ycombinator.com/item?id=47377220)**
-
-⬆️ 3 • 💬 0 • 3d ago
-
----
-
-**[Eliminating UI Bloat in the EraMix Financial Union Dashboard](https://news.ycombinator.com/item?id=47394092)**
-
-⬆️ 1 • 💬 0 • 1d ago
-
----
-
-**[Show HN: On-demand session replay triggered by a magic link for support teams](https://news.ycombinator.com/item?id=47399203)**
-
-Send a magic link, watch a live session replay with console and network data. Close the gap between bug reports and reality.
-
-⬆️ 1 • 💬 0 • 1d ago • [Clairvio](https://clairvio.dev/)
 
 ---
 
@@ -307,17 +289,17 @@ The truth about Bitcoin in 2026, Iran, Ethereum, and altcoins! BITUNIX TRADE THE
 
 📺 Lark Davis
 
-👁️ 16K • 👍 874 • 💬 56 • ⏱️ 16:02 • 12h ago
+👁️ 18K • 👍 935 • 💬 62 • ⏱️ 16:02 • 14h ago
 
 ---
 
-**[Buyers Are Flooding Back Into Bitcoin](https://www.youtube.com/watch?v=yJXjMUFSfbM)**
+**[Chamath vs Saylor: Who’s Right About Bitcoin’s Biggest Threat?](https://www.youtube.com/watch?v=uvXvlI3HRlM)**
 
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+A major clash is unfolding between Chamath and Saylor over Bitcoin's future. One side says AI and quantum computing could ...
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 86 • ⏱️ 36:40 • 9h ago
+👁️ 9K • 👍 763 • 💬 119 • ⏱️ 12:42 • 5h ago
 
 ---
 
@@ -327,7 +309,17 @@ A silent shift is happening in Bitcoin and most people are missing it. With over
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 329 • 💬 24 • ⏱️ 59:29 • 5h ago
+👁️ 7K • 👍 391 • 💬 32 • ⏱️ 59:29 • 7h ago
+
+---
+
+**[Buyers Are Flooding Back Into Bitcoin](https://www.youtube.com/watch?v=yJXjMUFSfbM)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 17K • 👍 1K • 💬 124 • ⏱️ 36:40 • 12h ago
 
 ---
 
@@ -341,33 +333,23 @@ Bitcoin is under attack again. Politicians and critics are calling it a Ponzi wh
 
 ---
 
+**[Bitcoin Rally WARNING (Don’t Ignore This)](https://www.youtube.com/watch?v=AvpC0ARmyjM)**
+
+Bitcoin has just surged past $74000, hitting its highest levels of 2026—but is this a genuine breakout or a massive bull trap?
+
+📺 Discover Crypto
+
+👁️ 8K • 👍 442 • 💬 9 • ⏱️ 1:59:01 • 9h ago
+
+---
+
 **[Why Retailers Don’t Accept Bitcoin As Payment 😅](https://www.youtube.com/watch?v=-kLxmzDmoYk)**
 
 There are several reasons retailers don't accept Bitcoin as payment. #shorts #bitcoin #xrp Order a Tangem Wallet (30% Off + ...
 
 📺 Cyber Scrilla
 
-👁️ 2K • 👍 126 • 💬 13 • ⏱️ 1:05 • 4h ago
-
----
-
-**[BITCOIN BULL TRAP? Why $91K is the Only Number That Matters!](https://www.youtube.com/watch?v=p7TRaTqZFG0)**
-
-Bitcoin is pumping, but is the bottom really in? We analyze the 52K price target, the 80K CME gap, and why the liquidation heat ...
-
-📺 Financial Funda
-
-👁️ 5K • 👍 196 • 💬 1 • ⏱️ 1:25 • 5h ago
-
----
-
-**[the biggest bitcoin TRAP of 2026 is LOADING....](https://www.youtube.com/watch?v=FBWPPqb9wv0)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 15K • 👍 882 • 💬 262 • ⏱️ 12:12 • 1d ago
+👁️ 3K • 👍 181 • 💬 22 • ⏱️ 1:05 • 7h ago
 
 ---
 
@@ -377,17 +359,17 @@ I called $75K for Bitcoin four days ago. It hit $76K instead - so I was wrong in
 
 📺 Coin Bureau Trading
 
-👁️ 10K • 👍 867 • 💬 99 • ⏱️ 22:53 • 16h ago
+👁️ 11K • 👍 922 • 💬 109 • ⏱️ 22:53 • 19h ago
 
 ---
 
-**[MY NEW $5M BITCOIN TRADE... *urgent*](https://www.youtube.com/watch?v=JwtPv5jh4Vk)**
+**[RETAIL EMOTION + TECHNICAL ANALYSIS: The Exact Signals Pointing Bitcoin to $85k 🚀](https://www.youtube.com/watch?v=KNYYX9GiBHQ)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+The stock market is rolling over into a massive distribution phase, but the crypto market is showing unbelievable relative strength.
 
-📺 Crypto Rover
+📺 Gareth Soloway
 
-👁️ 9K • 👍 644 • 💬 27 • ⏱️ 6:02 • 17h ago
+👁️ 52K • 👍 4K • 💬 328 • ⏱️ 10:09 • 1d ago
 
 ---
 
@@ -397,7 +379,7 @@ My march newsletter is out, discussing how risk cascades through markets. You ca
 
 📺 Benjamin Cowen
 
-👁️ 89K • 👍 6K • 💬 275 • ⏱️ 15:27 • 1d ago
+👁️ 93K • 👍 6K • 💬 278 • ⏱️ 15:27 • 1d ago
 
 ---
 
