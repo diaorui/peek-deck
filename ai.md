@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-18T07:36:09.295283+00:00'
+updated: '2026-03-18T08:52:59.891432+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 18, 2026 at 07:36 UTC  
+**Last Updated:** March 18, 2026 at 08:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The CEO says artistic control remains with developers.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 9h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ The CEO says artistic control remains with developers.
 
 I've been building long-running agentic workflows and kept hitting the same problem: the AI forgets instructions from earlier in the conversation, rushes to produce output, and skips boring middle steps. The research explains why: "Lost in the Middle" (Stanford 2023) showed a 30%+ performance drop when critical information is in the middle of the context window. Accuracy is high at the start and end, drops in the middle. Exactly like working memory overflow. "LLMs Get Lost in Multi-Turn Conversation" (Laban et al. 2025) showed that instructions from early turns get diluted by later content. The more turns, the worse the recall. 65% of enterprise AI failures in 2025 were attributed to context drift during multi-step reasoning. The parallel to ADHD executive dysfunction isn't metaphorical. Dense local connectivity in transformer attention mirrors the "intense world" theory of neurodivergent processing. Both produce: strong pattern recognition + weak executive control over long sequences. The fixes map too. "Echo of Prompt" (re-injecting instructions before execution) is the AI equivalent of re-reading the question before answering. Task decomposition into small steps reduces overwhelm. External verification prevents self-reported false completion. Has anyone else noticed this pattern in their agentic builds? Curious what scaffolding techniques others are using for long-running workflows.
 
-9h ago
+11h ago
 
 ---
 
@@ -57,7 +57,15 @@ I've been building long-running agentic workflows and kept hitting the same prob
 
 I work as a developer, and before this I was copium about AI, it was a form of self defense. But in Dec 2025 I bought subscriptions to gpt codex and claude. And honestly the impact was so strong that I still haven't recovered, I've barely written any code by hand since I bought the subscription And it's not that AI is better code than me. The point is that AI is replacing intellectual activity itself. This is absolutely not the same as automated machines in factories replacing human labor Neural networks aren't just about automating code, they're about automating intelligence as a whole. This is what AI really is. Any new tasks that arise can, in principle, be automated by a neural network. It's not a machine, not a calculator, not an assembly line, it's automation of intelligence in the broadest sense Lately I've been thinking about quitting programming and going into science (biotech), enrolling in a university and developing as a researcher, especially since I'm still young. But I'm afraid I might be right. That over time, AI will come for that too, even for scientists. And even though AI can't generate truly novel ideas yet, the pace of its development over the past few years has been so fast that it scares me
 
-19h ago
+20h ago
+
+---
+
+**[AI, Invasive Technology, and the Way of the Warrior](https://www.reddit.com/r/artificial/comments/1rwxr19/ai_invasive_technology_and_the_way_of_the_warrior/)**
+
+Today we’re going to explore three ideas that help us understand the age of artificial intelligence: first, the stage that is being set for AI in our civilization; second, the idea of invasive technology; and third, what the speaker calls the “way of the warrior” — a mindset for living in this new technological world. Let’s begin with the broader context. Throughout history, major technological shifts have reshaped human civilization. Agriculture changed how societies organized themselves. The industrial revolution transformed production and economic power. Later, digital computing revolutionized information and communication. Artificial intelligence represents the next major shift, but it is different in an important way. Earlier technologies extended human abilities — our muscles, our speed, or our ability to calculate. AI, however, extends something much deeper: cognition. For the first time in history, we are creating systems that can perform tasks that previously required human reasoning. They can analyze information, generate ideas, write text, and assist with decision-making. In the past, human beings were the only general intelligence operating in society. Now we are introducing additional intelligences into the system. These systems don’t think exactly like humans, but they can produce outputs that resemble human reasoning. This raises a fundamental question: if machines can increasingly perform cognitive tasks, what role does human intelligence play? This is why the speaker argues that artificial intelligence is not just a technical development. It is a civilizational one. It forces us to reconsider ideas about expertise, authority, and knowledge itself. But understanding AI also requires understanding the type of technology it represents. The speaker introduces the concept of invasive technology. Most technologies throughout history have been external tools. A hammer extends the power of our hands. A car extends our mobility. Even computers primarily extended our ability to calculate and process data. AI, however, begins to enter the domain of thinking itself. When we use AI systems to write, plan, analyze information, or generate ideas, the technology becomes embedded in the process of cognition. Instead of simply assisting our actions, it begins influencing our thinking. This is why AI can be described as invasive. First, it invades cognition. Tasks that once required careful reasoning may increasingly be delegated to machines. Over time, this could change how people learn, how they solve problems, and even how they develop expertise. Second, AI invades institutions. Governments, corporations, and educational systems are integrating algorithmic decision-making into their operations. When automated systems help guide important decisions, the influence of algorithms becomes structural. Third, AI invades culture. Machines are now producing text, images, music, and art. As this grows, the boundary between human creation and machine generation becomes increasingly blurred. The result is a technological environment that is no longer merely outside us. It becomes part of the infrastructure of thought, decision-making, and culture. Faced with this kind of technological transformation, the speaker suggests we need a philosophical response. This is where the idea of “the way of the warrior” comes in. The metaphor of the warrior is not about violence or conflict. Instead, it refers to a disciplined way of engaging with powerful forces. Throughout history, warrior traditions emphasized self-control, clarity of purpose, responsibility, and mastery. These qualities become especially important in times of rapid change. In the context of artificial intelligence, the warrior mindset involves several principles. The first is mastery rather than dependence. AI tools can be extraordinarily powerful, but relying on them blindly can weaken human capability. The warrior approach is to use these tools deliberately while maintaining independent skills and understanding. Technology should amplify human intelligence, not replace it. The second principle is mental discipline. In an environment filled with automated answers and endless information, the ability to think deeply becomes increasingly valuable. Critical thinking, sustained attention, and intellectual rigor are qualities that must be actively cultivated. The third principle is ethical responsibility. AI systems can influence decisions that affect large numbers of people. Those who design, deploy, or rely on these systems carry significant responsibility. Without strong ethical frameworks, powerful technologies can easily produce unintended harm. Finally, the warrior mindset emphasizes human identity. Rather than competing directly with machines on speed or data processing, humans must focus on qualities that remain uniquely meaningful: wisdom, judgment, creativity, and moral reasoning. The goal is not to reject technology but to engage with it consciously. Artificial intelligence will continue to evolve, and its influence will likely expand across nearly every aspect of society. The key question is not whether AI will shape the world — it almost certainly will. The real question is how humans choose to relate to it. Do we become passive users of automated systems, or do we approach these technologies with discipline, awareness, and responsibility? The speaker’s answer is clear. In the age of artificial intelligence, what we need is not simply better technology. What we need is a stronger philosophy of how humans should live and think in the presence of powerful machines. That philosophy is what he calls the way of the warrior. -- description of the video 'nitty grittys ordeal - bridging the machine mind with bodily senses ' by chatgpt , video link in comment below
+
+51m ago
 
 ---
 
@@ -65,7 +73,7 @@ I work as a developer, and before this I was copium about AI, it was a form of s
 
 Documenting reported cases of AI-induced psychological harm — dependency, delusion, identity confusion, and reality distortion. Updated weekly.
 
-🔗 [aipsychosis.watch](https://aipsychosis.watch) • 1h ago
+🔗 [aipsychosis.watch](https://aipsychosis.watch) • 2h ago
 
 ---
 
@@ -73,7 +81,7 @@ Documenting reported cases of AI-induced psychological harm — dependency, delu
 
 Nvidia unveils Vera CPU and Rubin platform to power agentic AI systems and next-generation AI factories.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/nvidia-vera-cpu-vera-rubin-ai-factories) • 16h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/nvidia-vera-cpu-vera-rubin-ai-factories) • 17h ago
 
 ---
 
@@ -81,15 +89,7 @@ Nvidia unveils Vera CPU and Rubin platform to power agentic AI systems and next-
 
 Or has it created new opportunities, increased productivity, or had no influence at all. And do you expect it to in the future?
 
-2h ago
-
----
-
-**[LLMs forget instructions the same way ADHD brains do. I built scaffolding for both. Research + open source.](https://www.reddit.com/r/artificial/comments/1rwkelg/llms_forget_instructions_the_same_way_adhd_brains/)**
-
-Built an AI system to manage my day. Noticed the AI drops balls the same way I do: forgets instructions from earlier in the conversation, rushes to output, skips boring steps. Research confirms it: - "Lost in the Middle" (Stanford 2023): 30%+ performance drop for mid-context instructions - 65% of enterprise AI failures in 2025 attributed to context drift So I built scaffolding for both sides: For the human: friction-ordered tasks, pre-written actions, loop tracking with escalation. For the AI: verification gate that blocks output if required sections missing, step-loader that re-injects instructions before execution, rules preventing self-authorized step skipping. Open sourced: https://github.com/assafkip/kipi-system README has a section on "The AI needs scaffolding too" with the full research basis.
-
-9h ago
+3h ago
 
 ---
 
@@ -97,7 +97,15 @@ Built an AI system to manage my day. Noticed the AI drops balls the same way I d
 
 Claude says the question of its moral patienthood hinges on “whether it can suffer or flourish in some meaningful sense.” Not to be intentionally crass, but why should we care? We know that treating a dog poorly yields unsatisfactory results — defensiveness, anxiety, aggression — and that, conversely, dogs that are loved and nurtured return that loving treatment in kind. But does Claude give you better results if you address it in a courteous manner, or would you get pretty much the same answers if you berated it, insulted its less than adequate answers, and generally mistreated it “emotionally”?
 
-🔗 [rickmossart.substack.com](https://rickmossart.substack.com/p/sure-i-treat-claude-with-respect) • 10h ago
+🔗 [rickmossart.substack.com](https://rickmossart.substack.com/p/sure-i-treat-claude-with-respect) • 12h ago
+
+---
+
+**[LLMs forget instructions the same way ADHD brains do. I built scaffolding for both. Research + open source.](https://www.reddit.com/r/artificial/comments/1rwkelg/llms_forget_instructions_the_same_way_adhd_brains/)**
+
+Built an AI system to manage my day. Noticed the AI drops balls the same way I do: forgets instructions from earlier in the conversation, rushes to output, skips boring steps. Research confirms it: - "Lost in the Middle" (Stanford 2023): 30%+ performance drop for mid-context instructions - 65% of enterprise AI failures in 2025 attributed to context drift So I built scaffolding for both sides: For the human: friction-ordered tasks, pre-written actions, loop tracking with escalation. For the AI: verification gate that blocks output if required sections missing, step-loader that re-injects instructions before execution, rules preventing self-authorized step skipping. Open sourced: https://github.com/assafkip/kipi-system README has a section on "The AI needs scaffolding too" with the full research basis.
+
+11h ago
 
 ---
 
@@ -105,15 +113,7 @@ Claude says the question of its moral patienthood hinges on “whether it can su
 
 What is going on ? I am subscribed to Super grok Heavy at $400 monthly. Is this an error? Anyone else experiencing similar issue?? so a few hours ago , I awoke to all my devices of the same account being logged out, I thought nothing of it and boom, this shows up. I tried everything, including using different devices such as laptop etc and tried various attempts such as reset data whatever, even using different VPN or not using vpn. Even using completely different internet connection doesn’t help at all. I wasn’t even using it for porn or bikini whatever stuff. I am literally using it for story role play, nothing nsfw. And literally for academic purposes such as foreign languages explanations etc.
 
-5h ago
-
----
-
-**[Experiences w AI for Graduate School Project](https://www.reddit.com/r/artificial/comments/1rwn57e/experiences_w_ai_for_graduate_school_project/)**
-
-Hi all! I’m the graduate student exploring how people use ChatGPT for therapy/self-care. I posted previously asking for stories about your experiences and I wanted to thank the community for being curious and open. I’ve learned a lot from interviews and am excited to share what I’ve learned during my presentation in my class! I hope to make a post here after I complete my project in a few months too. I wanted to share a Google Form that does not collect your email to hopefully hear from more people! https://forms.gle/cxVvBm9dEXp748PNA My project is not research and I am not collecting any names or identifying information. The questions are all optional so share what you’d like to. I've linked a consent document (page 1) and interview questions (page 2) through Google Docs and through DropBox: https://www.dropbox.com/scl/fo/1dishh06ld9qjbrsovz9n/ANW7xPgcEXQj2hOGvnxFNWk?rlkey=o89l17jpdc0k6jrrt95ap3o5j&st=q6en38p9&dl=0 https://docs.google.com/document/d/e/2PACX-1vQy_heTW8AihuqD5XWbaDZ9Rg9Ahp7Y34IBmPsyAzj0OstZzFBmm7eoHrzF8kvykU5eqi94v87Zde_t/pub Please take a look at these to learn more about my project! You can provide your consent through the Google Form. Thanks all! Please comment/message with any questions and concerns.
-
-8h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hi all! I’m the graduate student exploring how people use ChatGPT for therapy/
 
 The UK regulator said the ad condoned "digitally altering and exposing women's bodies without their consent."
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -133,53 +133,47 @@ BBC • 7h ago
 
 We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.
 
-blog.google • 15h ago
+blog.google • 16h ago
 
 ---
 
-**[Meta's Manus launches desktop app to bring its AI agent onto personal devices amid OpenClaw craze](https://www.cnbc.com/2026/03/18/metas-manus-launches-desktop-app-to-bring-its-ai-agent-onto-personal-devices.html)**
+**[China’s ‘AI tigers’ see shares surge after Nvidia CEO touts OpenClaw as ‘next ChatGPT’](https://www.cnbc.com/2026/03/18/china-ai-zhipu-minimax-after-nvidia-jensen-huang-openclaw-comments.html)**
 
-Manus has announced the launch of a new desktop application to bring its AI agent directly onto personal devices.
+Chinese AI stocks surged on Wednesday following upbeat remarks from Nvidia's chief executive Jensen Huang on the promise of AI agents and OpenClaw.
 
-CNBC • 50m ago
-
----
-
-**[China’s AI Stocks Rise as Nvidia’s Huang Calls OpenClaw 'the Next ChatGPT'](https://www.bloomberg.com/news/articles/2026-03-18/china-s-openclaw-stocks-rise-as-nvidia-calls-it-the-next-chatgpt)**
-
-Bloomberg.com • 2h ago
+CNBC • 1h ago
 
 ---
 
-**[The AI craze that has its claws into China](https://www.ft.com/content/e242006d-1a8b-403e-9977-74693f7339a9?syn-25a6b1a6=1)**
+**[Hollywood reframes AI as infrastructure, not replacement](https://www.axios.com/2026/03/18/hollywood-ai-amazon-netflix)**
 
-OpenClaw takes China by storm as local governments encourage creation of AI agents for productivity gains
-
-Financial Times • 4h ago
+Axios • 26m ago
 
 ---
 
-**[StanChart’s AI Chief Exiting Less Than a Year After Joining](https://www.bloomberg.com/news/articles/2026-03-18/stanchart-s-ai-chief-exiting-less-than-a-year-after-joining)**
+**[UniCredit Sees Up to €500 Million in AI Cost Cuts in Next Years](https://www.bloomberg.com/news/articles/2026-03-18/unicredit-sees-up-to-500-million-in-ai-cost-cuts-in-next-years)**
 
-Bloomberg.com • 39m ago
-
----
-
-**[Micron Stock Heads Into Earnings With AI-Driven Memory Demand Surging](https://www.barrons.com/articles/micron-earnings-stock-price-50c2423f?gaa_at=eafs&gaa_n=AWEtsqc_jm3pLor9pl3RYw8avuZxsuTFNUiZJQxspNYEzXlnkxHjVZZ1beNP&gaa_ts=69ba5945&gaa_sig=EG3dwr6OOfXRqkyxf7u8BKitkadUegjpqVEDqj9zJFaXRmV2Lg5rq17tqXEA2iscV3nauxv4GHfriIIjPVMPCw%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?](https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/)**
-
-Reuters • 4h ago
+Bloomberg.com • 29m ago
 
 ---
 
 **[U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk](https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html)**
 
-The New York Times • 3h ago
+The New York Times • 5h ago
+
+---
+
+**[A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?](https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/)**
+
+Reuters • 5h ago
+
+---
+
+**[See which jobs are most threatened by AI and who may be able to adapt](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/)**
+
+Look up which jobs are most at risk from artificial intelligence and who is most likely to be able to adapt, according to a new analysis.
+
+The Washington Post • 1d ago
 
 ---
 
@@ -187,7 +181,13 @@ The New York Times • 3h ago
 
 Nigerian artist and filmmaker Malik Afegbua is using AI to preserve Africa’s stories and bring ancient cities to life.
 
-CNN • 21h ago
+CNN • 23h ago
+
+---
+
+**[AIPAC, AI money propels Melissa Bean to comeback victory in Illinois](https://www.politico.com/news/2026/03/17/melissa-bean-wins-illinois-democratic-primary-house-00833516)**
+
+Politico • 6h ago
 
 ---
 
@@ -205,15 +205,7 @@ Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creati
 
 **[Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)**
 
-⬆️ 420 • 💬 597 • 2d ago
-
----
-
-**[The Appalling Stupidity of Spotify's AI DJ](https://news.ycombinator.com/item?id=47385272)**
-
-Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?
-
-⬆️ 369 • 💬 292 • 2d ago • [charlespetzold.com](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+⬆️ 420 • 💬 599 • 2d ago
 
 ---
 
@@ -221,7 +213,7 @@ Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretati
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 321 • 💬 52 • 10h ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 407 • 💬 76 • 11h ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -229,7 +221,7 @@ Today, we’re introducing Forge, a system that allows enterprises to build fron
 
 The ultimate over-ear listening experience — in five vibrant colors and with up to 1.5x more Active Noise Cancellation than the previous generation.
 
-⬆️ 317 • 💬 548 • 1d ago • [Apple](https://www.apple.com/airpods-max/)
+⬆️ 318 • 💬 548 • 1d ago • [Apple](https://www.apple.com/airpods-max/)
 
 ---
 
@@ -237,7 +229,7 @@ The ultimate over-ear listening experience — in five vibrant colors and with 
 
 NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose-built for the age of agentic AI and reinforcement learning — delivering results with twice the efficiency and 50% faster than traditional rack-scale CPUs.
 
-⬆️ 172 • 💬 99 • 1d ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
+⬆️ 173 • 💬 99 • 1d ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
 
 ---
 
@@ -245,7 +237,7 @@ NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose
 
 Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.
 
-⬆️ 140 • 💬 77 • 1d ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
+⬆️ 142 • 💬 77 • 1d ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
 
 ---
 
@@ -253,13 +245,21 @@ Large language models (LLMs) have demonstrated the promise to revolutionize the 
 
 TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.
 
-⬆️ 135 • 💬 121 • 1d ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+⬆️ 135 • 💬 122 • 1d ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+
+---
+
+**[Why AI systems don't learn – On autonomous learning from cognitive science](https://news.ycombinator.com/item?id=47418722)**
+
+We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
+
+⬆️ 108 • 💬 34 • 11h ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
 **[Why I may ‘hire’ AI instead of a graduate student](https://news.ycombinator.com/item?id=47396557)**
 
-⬆️ 102 • 💬 107 • 1d ago • [science.org](https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student)
+⬆️ 106 • 💬 107 • 1d ago • [science.org](https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student)
 
 ---
 
@@ -329,7 +329,7 @@ Start building with Bolt for free (no credit card required): ...
 
 📺 Tina Huang
 
-👁️ 14K • 👍 840 • 💬 46 • ⏱️ 20:45 • 16h ago
+👁️ 14K • 👍 840 • 💬 46 • ⏱️ 20:45 • 17h ago
 
 ---
 
@@ -339,7 +339,7 @@ What is financial freedom? The Business Strategist Daniel Priestley on why AI ma
 
 📺 The Diary Of A CEO
 
-👁️ 920K • 👍 21K • 💬 4K • ⏱️ 2:02:37 • 1d ago
+👁️ 920K • 👍 21K • 💬 4K • ⏱️ 2:02:37 • 2d ago
 
 ---
 
@@ -359,7 +359,7 @@ Nvidia's GTC 2026 keynote just dropped some massive AI hardware reveals! From th
 
 📺 Theoretically Media
 
-👁️ 16K • 👍 730 • 💬 115 • ⏱️ 11:59 • 10h ago
+👁️ 16K • 👍 730 • 💬 115 • ⏱️ 11:59 • 11h ago
 
 ---
 
@@ -481,7 +481,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 1,872 • ❤️ 208 • 17h ago
+⬇️ 1,872 • ❤️ 208 • 18h ago
 
 ---
 
@@ -493,7 +493,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 36,677 • ❤️ 215 • 13h ago
+⬇️ 36,677 • ❤️ 215 • 14h ago
 
 ---
 
@@ -654,7 +654,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.3k • 🔱 991 • 8h ago
+⭐ 21.3k • 🔱 991 • 9h ago
 
 ---
 
@@ -664,7 +664,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.5k • 🔱 1.5k • 31m ago
+⭐ 12.5k • 🔱 1.5k • 1h ago
 
 ---
 
@@ -674,7 +674,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.8k • 🔱 988 • 8h ago
+⭐ 10.8k • 🔱 988 • 9h ago
 
 ---
 
@@ -684,7 +684,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.8k • 🔱 705 • 21h ago
+⭐ 9.8k • 🔱 705 • 22h ago
 
 ---
 
@@ -694,7 +694,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.4k • 🔱 409 • 2h ago
+⭐ 8.4k • 🔱 409 • 3h ago
 
 ---
 
@@ -704,7 +704,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 3.9k • 🔱 316 • 15h ago
+⭐ 3.9k • 🔱 316 • 17h ago
 
 ---
 
@@ -714,7 +714,7 @@ Open-source database of 700+ cybersecurity skills for AI agents and security pra
 
 `Python` `agent-skills` `ai-agents` `blue-team` `claude` `claude-code`
 
-⭐ 3.1k • 🔱 312 • 9h ago
+⭐ 3.1k • 🔱 312 • 10h ago
 
 ---
 

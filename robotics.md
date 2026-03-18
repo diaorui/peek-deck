@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-18T07:36:09.312892+00:00'
+updated: '2026-03-18T08:52:59.907117+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 18, 2026 at 07:36 UTC  
+**Last Updated:** March 18, 2026 at 08:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build foundational robotics and ROS 2 skills on real hardware instead of only simulation. I wanted a system where I could explore the entire robotics stack, including embedded firmware and motor control all the way up to motion planning and digital-twin simulation. It has also been a great opportunity to experiment with custom and unconventional joint and reducer designs that I haven’t seen implemented on any robotics platforms. Mechanical Architecture: Each joint section was designed and built independently, and later connected using clamped carbon fiber tubes. This modularity allows each joint to be iterated on separately, while the tube lengths can be swapped to change the arm’s reach or payload capacity accordingly. Joint & Reducer Designs: The base joint uses a traditional planetary gearbox. While the shoulder and elbow joints use a split-ring planetary gearbox, by utilizing two slightly offset ring gears driven by a common set of compound planets, this design provides an incredibly high torque density in a compact form factor. Which is what allowed me to achieve a 70:1 and 40:1 gear reduction respectively, while keeping a large contact area to minimize stress between the plastic gears, all without the bulk or backlash of a multi-stage system. Because this gearbox configuration does not provide an accessible output shaft for a conventional encoder, I implemented a custom sensing approach: alternating polarity magnets were mounted around the output ring gear, and a magnetic encoder is positioned perpendicular to the axis with an offset, allowing it to perceive the alternating magnetic fields as a spinning radially magnetized magnet. The spherical wrist uses an inverted belt differential with a custom bearing track to maintain consistent pressure on the belt to prevent skipping. All three wrist motors are mounted behind the elbow joint so they act as a counterweight, reducing inertia at the wrist and improving dynamic performance. Embedded Control & Firmware: The robot is controlled by a STM32 microcontroller, where I developed custom firmware in C to manage SPI communication with 6 daisy-chained encoders, CAN bus communication with a Raspberry Pi, PID loops and step generation for motor control, and a state management safety system. Higher-level planning will run on a Raspberry Pi using ROS 2, where the arm will interface with MoveIt for motion planning and simulation; this is still under development. A write-up of the mechanical design, CAD, and firmware architecture is available on my portfolio, with a deeper breakdown of the ROS-based software stack coming eventually: https://jcgullberg.github.io/projects
 
-3h ago
+4h ago
 
 ---
 
@@ -44,15 +44,7 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 Incorrectly located in China, when it's actually in California Leila on 𝕏: https://x.com/oranaise/status/2033869874020106710
 
-18h ago
-
----
-
-**[Stairs are hard!](https://www.reddit.com/r/robotics/comments/1rw7ltl/stairs_are_hard/)**
-
-Got a lot of feedbacks from last post, thanks a lot! There are many requests about trying uneven terrain, sand, and stairs. The sand was… not a pleasant experience. We heard some worrying rattling sounds after the test, so we’re thinking an enclosure might be necessary to keep the dust and grit out. But for now, here's our current attempt at the stairs! As you can see, still jittery, still leaning, but it jumps. Still a long way to go! We are planning to add perception so it can actually see the stairs and, hopefully, decide when to jump on its own without me babysitting the remote.
-
-17h ago
+19h ago
 
 ---
 
@@ -60,19 +52,15 @@ Got a lot of feedbacks from last post, thanks a lot! There are many requests abo
 
 Long time lurker, first time posting a build update in long time. I've been building OLAF — an open source embodied AI agent. Not a robot for tasks. An AI agent with a physical presence that thinks, responds and reacts in the real world. The past 4 months were a disaster. Learned soldering from scratch. Melted components, bridged pins, designed custom PCBs, waited weeks for delivery, watched them fail. Repeatedly. I now own 50+ PCBs I use as coasters. Eventually I made the obvious decision I should have made months earlier — ditched the soldering iron, bought a drive kit and a few adapters. One week later it was moving. The demo is raw. Brain sitting on the table, wires everywhere, upper and lower body separate. Nothing is in a case. But it moves, reacts and has expressions. And honestly it looks a bit evil when it wakes up which I did not plan but I'm keeping. The thing that genuinely surprised me — Claude accelerated everything. Every iteration in minutes. Code, docs, design decisions. What would have taken me weeks alone we did in hours. Next up is voice and the AI brain layer. Repo is open source — would love feedback, or just a star if it's useful. github: https://github.com/kamalkantsingh10/OLAF Happy to answer any questions about the build
 
-1h ago
+2h ago
 
 ---
 
-**[Jetson-powered Olaf robot at NVIDIA GTC 2026](https://www.reddit.com/r/robotics/comments/1rwberk/jetsonpowered_olaf_robot_at_nvidia_gtc_2026/)**
+**[Stairs are hard!](https://www.reddit.com/r/robotics/comments/1rw7ltl/stairs_are_hard/)**
 
-15h ago
+Got a lot of feedbacks from last post, thanks a lot! There are many requests about trying uneven terrain, sand, and stairs. The sand was… not a pleasant experience. We heard some worrying rattling sounds after the test, so we’re thinking an enclosure might be necessary to keep the dust and grit out. But for now, here's our current attempt at the stairs! As you can see, still jittery, still leaning, but it jumps. Still a long way to go! We are planning to add perception so it can actually see the stairs and, hopefully, decide when to jump on its own without me babysitting the remote.
 
----
-
-**[Controlling Cobra with Ardupilot](https://www.reddit.com/r/robotics/comments/1rws92d/controlling_cobra_with_ardupilot/)**
-
-4h ago
+18h ago
 
 ---
 
@@ -80,15 +68,19 @@ Long time lurker, first time posting a build update in long time. I've been buil
 
 My plan is to build a human size robot. I've built the robotic hand and Forearm so far and it is controlled by either a keyboard, a web interface with a mouse and buttons to click, or voice control. It's pretty wicked.I used my 3d printer to print all of the parts. I got the files from thingiverse.i can send the link if anyone wants it. This is how I created the rest of the project. I used braided fishing line as the tendons. 6 servo motors as the actuators - 5 fingers and 1 wrist. I used the arduino uno board and arduino sketches inside the arduino IDE. I can post all of the code if anyone out there is interested. Next is the elbow and bicep. I'll continue to show my work with updates on here. This project is inspired by Inmoov. Again, I can post the links to their website if there are people interested in this. Any question, feel free to ask. Thanks for watching.
 
-8m ago
+1h ago
 
 ---
 
-**[DIY Vive position tracker - ESP32 C3](https://www.reddit.com/r/robotics/comments/1rwagsa/diy_vive_position_tracker_esp32_c3/)**
+**[Jetson-powered Olaf robot at NVIDIA GTC 2026](https://www.reddit.com/r/robotics/comments/1rwberk/jetsonpowered_olaf_robot_at_nvidia_gtc_2026/)**
 
-Hey everyone, I am currently developing a custom tracker using my old lighthouse trackers from a VR headset (HTC vive). The end goal is tracking small robots indoors for ~$10-15 per unit. For that I built a custom PCB in the simplest way possible, as I am still quite a beginner in electronics. I am using BPW-34 photodiodes - they have no IR filter built in, so i'm using floppy disk film as a cheap IR bandpass which works surprisingly well. The board is put into a small 3D printed case that will be placed on my robots (I intend to have multiples in an arena). But even with just that a very basic tracking that captures the laser pulses from the lighthouse worked! For the future I will try to use at least 3 sensors to be able to position objects in space as well. I was quite surprised that this even worked.
+16h ago
 
-15h ago
+---
+
+**[Controlling Cobra with Ardupilot](https://www.reddit.com/r/robotics/comments/1rws92d/controlling_cobra_with_ardupilot/)**
+
+5h ago
 
 ---
 
@@ -96,15 +88,23 @@ Hey everyone, I am currently developing a custom tracker using my old lighthouse
 
 My plan is to build a human size robot. I've built the robotic hand and Forearm so far and it is controlled by either a keyboard, a web interface with a mouse and buttons to click, or voice control. It's pretty wicked.I used my 3d printer to print all of the parts. I got the files from thingiverse.i can send the link if anyone wants it. This is how I created the rest of the project. I used braided fishing line as the tendons. 6 servo motors as the actuators - 5 fingers and 1 wrist. I used the arduino uno board and arduino sketches inside the arduino IDE. I can post all of the code if anyone out there is interested. Next is the elbow and bicep. I'll continue to show my work with updates on here. This project is inspired by Inmoov. Again, I can post the links to their website if there are people interested in this. Any questions, feel free to ask. Thanks for watching.
 
-13m ago
+1h ago
 
 ---
 
-**[Roborock made a robot vacuum that climbs stairs… and it’s actually interesting](https://www.reddit.com/r/robotics/comments/1rwtju8/roborock_made_a_robot_vacuum_that_climbs_stairs/)**
+**[I got the new homie!](https://www.reddit.com/r/robotics/comments/1rwy432/i_got_the_new_homie/)**
 
-Roborock showed a stair-climbing vacuum (Saros Rover) at CES 2026. Sounds like a gimmick at first, but it’s going after a real limitation: most home robots basically assume the world is flat. Stairs completely break that. Different heights, weird angles, high chance of falling—so companies just avoided it and let users carry the robot between floors. This one takes a different approach. Instead of avoiding stairs, it treats them like part of the space it can move through. It uses a wheel + leg setup, rolls normally on flat ground, then lifts and stabilizes itself step by step. What’s more interesting is they’re not locked into one idea. Their patents show a bunch of directions: ramps to “flatten” stairs two connected robots that coordinate climbing hook/lift systems that pull themselves up So it’s still very much an open problem. Honestly, this feels less about vacuums and more about mobility in general. Stairs are one of the last things that still break indoor robots. Curious what people think: worth solving, or overkill vs just having one robot per floor? which approach actually makes sense long term? are stairs basically the main blocker for home robots right now?
+Watching it scuttle around the living room at night is a whole new level of nightmare fuel. What do you guys think? Is it too much, or just the right amount of cursed?
 
-🔗 [Parola Analytics](https://parolaanalytics.com/parolanews/roborock-stair-vacuum-rover-patents/) • 3h ago
+27m ago
+
+---
+
+**[DIY Vive position tracker - ESP32 C3](https://www.reddit.com/r/robotics/comments/1rwagsa/diy_vive_position_tracker_esp32_c3/)**
+
+Hey everyone, I am currently developing a custom tracker using my old lighthouse trackers from a VR headset (HTC vive). The end goal is tracking small robots indoors for ~$10-15 per unit. For that I built a custom PCB in the simplest way possible, as I am still quite a beginner in electronics. I am using BPW-34 photodiodes - they have no IR filter built in, so i'm using floppy disk film as a cheap IR bandpass which works surprisingly well. The board is put into a small 3D printed case that will be placed on my robots (I intend to have multiples in an arena). But even with just that a very basic tracking that captures the laser pulses from the lighthouse worked! For the future I will try to use at least 3 sensors to be able to position objects in space as well. I was quite surprised that this even worked.
+
+16h ago
 
 ---
 
@@ -116,15 +116,7 @@ Roborock showed a stair-climbing vacuum (Saros Rover) at CES 2026. Sounds like a
 
 CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-CNBC • 22h ago
-
----
-
-**[US Navy taps Gecko Robotics to help remedy maintenance headaches](https://www.militarytimes.com/industry/techwatch/2026/03/17/us-navy-taps-gecko-robotics-to-help-remedy-maintenance-headaches/)**
-
-Gecko deploys AI and robotics on 18 ships assigned to the Navy’s U.S. Pacific Fleet
-
-Military Times • 13h ago
+CNBC • 23h ago
 
 ---
 
@@ -132,7 +124,15 @@ Military Times • 13h ago
 
 Wall-climbing robots are set to transform U.S. Navy ship maintenance in a $71 million program designed to slash repair delays and boost fleet readiness.
 
-Fox News • 19h ago
+Fox News • 20h ago
+
+---
+
+**[US Navy taps Gecko Robotics to help remedy maintenance headaches](https://www.militarytimes.com/industry/techwatch/2026/03/17/us-navy-taps-gecko-robotics-to-help-remedy-maintenance-headaches/)**
+
+Gecko deploys AI and robotics on 18 ships assigned to the Navy’s U.S. Pacific Fleet
+
+Military Times • 14h ago
 
 ---
 
@@ -148,7 +148,7 @@ NVIDIA Newsroom • 1d ago
 
 The system is a new generation of unmanned ground vehicles (UGVs) built on a platform that has already been tested for years in civilian markets.
 
-The Jerusalem Post • 1h ago
+The Jerusalem Post • 3h ago
 
 ---
 
@@ -156,13 +156,13 @@ The Jerusalem Post • 1h ago
 
 From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
 
-Visual Capitalist • 12h ago
+Visual Capitalist • 13h ago
 
 ---
 
 **[Scientists Let AI Evolve These Robots' Designs – The Results Are Deeply Weird](https://www.iflscience.com/these-robots-evolved-in-an-ai-simulation-then-scientists-built-them-in-the-real-world-82878)**
 
-IFLScience • 18h ago
+IFLScience • 19h ago
 
 ---
 
@@ -170,7 +170,7 @@ IFLScience • 18h ago
 
 AI and robotics executives warn American lawmakers that China’s rapid advances – led by Unitree – threaten US dominance.
 
-South China Morning Post • 9h ago
+South China Morning Post • 10h ago
 
 ---
 
@@ -178,15 +178,15 @@ South China Morning Post • 9h ago
 
 ST. JOHN’S, NEWFOUNDLAND, March 17, 2026 /GLOBE NEWSWIRE/ — Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces approximately $24 million in new orders to over 10 customers across five countries, including three new defence customers. The orders are for Kraken’s SeaPower batteries, KATFISH towed synthetic aperture sonar (SAS), and Kraken SAS. […]
 
-Kraken Robotics • 20h ago
+Kraken Robotics • 21h ago
 
 ---
 
-**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/)**
+**[Disney and Nvidia Combine on Robotics and AI to Bring Olaf Robot to Life](https://www.cnet.com/tech/services-and-software/embo-olaf-droid-combines-disney-and-nvidia-robotics-and-ai/)**
 
-AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
+This free-roaming snowman droid is coming to overseas Disney theme parks.
 
-Fortune • 23h ago
+CNET • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 1K • 👍 49 • 💬 2 • ⏱️ 4:39 • 13h ago
+👁️ 1K • 👍 49 • 💬 2 • ⏱️ 4:39 • 14h ago
 
 ---
 
@@ -250,7 +250,7 @@ Variable Hooded Shooter | 9280 High Altitude Robotics | FRC Pit Stop This video 
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 60 • ⏱️ 0:54 • 9h ago
+👁️ 2K • 👍 60 • ⏱️ 0:54 • 10h ago
 
 ---
 
