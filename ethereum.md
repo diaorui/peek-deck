@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T11:47:52.200886+00:00'
+updated: '2026-03-18T13:15:40.969322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 11:47 UTC  
+**Last Updated:** March 18, 2026 at 13:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,319.18
+### $2,239.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** +9.6%  
-**30d:** +14.1%  
-**90d:** -23.9%  
-**1y:** +10.6%  
+**24h:** -4.4%  
+**7d:** +8.0%  
+**30d:** +12.4%  
+**90d:** -25.0%  
+**1y:** +9.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.94B
+**Market Cap:** $269.95B
 Rank #2
 
 **Circulating Supply:** 120,691,832 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.9%
+-54.8%
 
 **All-Time Low:** $0.43
-+537690.5%
++516516.3%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
 **[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
 
-🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 9h ago
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 10h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 22h ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 23h ago
 
 ---
 
@@ -102,7 +102,7 @@ Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Determinist
 
 EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
 
-3h ago
+4h ago
 
 ---
 
@@ -118,7 +118,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Ethereum is setting up for a post-stewardship world
 
-🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 21h ago
+🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 22h ago
 
 ---
 
@@ -154,11 +154,11 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqfwE5xW7rA5x3Lx4SpoY_eIAwPXlE8OT3IGYF4wr748_qzGTLtjHoiG&gaa_ts=69ba9455&gaa_sig=Z8uLvNLlSR8akPR8t4KlGW6OiGlbbWMR9KQJGtT14qw9x3MsrclZL1PixLdEgr_1puR17PnYB9WFNjaYjR6nhQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqdWGA_9MfoV6OUu6UYcnwMgW7_aEp0yENnIPTSwdIz0AutDWcrJVYct&gaa_ts=69baa8e8&gaa_sig=2k5CgRnhh_X6l8xGLcS3J1PqRNff9qTizHNt_UJA-yNlGfjnDbIy4d_cjfs5ZnpgwXbOW7v77uqnBmQApj5gNQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -214,15 +214,15 @@ The Motley Fool • 1d ago
 
 KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
 
-USA Today • 21h ago
+USA Today • 23h ago
 
 ---
 
-**[Robert Kiyosaki Predicts Bitcoin $750K, Ethereum $95K After Global Financial Crash](https://news.bitcoin.com/robert-kiyosaki-predicts-bitcoin-750k-ethereum-95k-after-global-financial-crash/)**
+**[New Crypto: Pepeto Announces $8.15M Raised While Ethereum Price Prediction Targets $7,500 and Bitcoin Leads Market Higher](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-8-15m-raised-while-ethereum-price-prediction-targets-7-500-and-bitcoin-leads-market-higher-1035939198)**
 
-Robert Kiyosaki warns a massive asset bubble could soon burst, predicting an unprecedented market collapse that may propel gold, silver, bitcoin, and
+Dubai, UAE, March  17, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto's presale just crossed $8.15 million, and the speed of capital entering thi...
 
-Bitcoin.com News • 1d ago
+markets.businessinsider.com • 12h ago
 
 ---
 
@@ -230,23 +230,23 @@ Bitcoin.com News • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[IS THE CRYPTO RALLY LEGIT? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=6I53qLIw3fA)**
+
+Brian from Santiment joined me to review the crypto market metrics. We review onchain metrics for Bitcoin, Ripple XRP, Ethereum, ...
+
+📺 Thinking Crypto
+
+👁️ 696 • 👍 96 • 💬 44 • ⏱️ 28:07 • 1h ago
+
+---
+
 **[BMNR Just Made a BIG Move | ETH Supply Shock](https://www.youtube.com/watch?v=mNHsvvulSQc)**
 
 BMNR is quietly building one of the largest Ethereum positions in the world, now adding exposure to OpenAI through ORBS.
 
 📺 The Value Thinker
 
-👁️ 11K • 👍 651 • 💬 92 • ⏱️ 15:13 • 23h ago
-
----
-
-**[BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7vm2HkGx3fI)**
-
-BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 220 • 💬 205 • ⏱️ 15:11 • 10h ago
+👁️ 11K • 👍 678 • 💬 81 • ⏱️ 15:13 • 1d ago
 
 ---
 
@@ -256,7 +256,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 4 • ⏱️ 5:05 • 11h ago
+👁️ 2K • 👍 151 • 💬 5 • ⏱️ 5:05 • 13h ago
+
+---
+
+**[BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7vm2HkGx3fI)**
+
+BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 242 • 💬 256 • ⏱️ 15:11 • 11h ago
 
 ---
 
@@ -266,7 +276,17 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 📺 Dan Gambardello
 
-👁️ 13K • 👍 770 • 💬 193 • ⏱️ 13:47 • 1d ago
+👁️ 13K • 👍 769 • 💬 193 • ⏱️ 13:47 • 1d ago
+
+---
+
+**[Bitcoin to $35 TRILLION? He&#39;s dead serious 💀](https://www.youtube.com/watch?v=Wl3GNK7iAiI)**
+
+Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
+
+📺 Altcoin Daily
+
+👁️ 2K • 👍 105 • 💬 50 • ⏱️ 1:14 • 1h ago
 
 ---
 
@@ -276,7 +296,7 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 📺 Paul Barron Network
 
-👁️ 70K • 👍 3K • 💬 296 • ⏱️ 23:28 • 1d ago
+👁️ 71K • 👍 3K • 💬 298 • ⏱️ 23:28 • 1d ago
 
 ---
 
@@ -290,43 +310,23 @@ This data is not great for bitcoin, ethereum and the rest of crypto and the mark
 
 ---
 
-**[Bitcoin &amp; Ethereum. Guck dir an was in Bärenmärkten JETZT immer passiert!](https://www.youtube.com/watch?v=JLQCzo_0siE)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 663 • 💬 140 • ⏱️ 12:03 • 6h ago
-
----
-
-**[Bitcoin &amp; Ethereum Are About To Do Something MASSIVE! (BlackRock &amp; Arthur Hayes)](https://www.youtube.com/watch?v=bvowrmBuX-U)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 458 • 💬 49 • ⏱️ 19:10 • 2d ago
-
----
-
 **[Ethereum Foundation&#39;s New Mandate Has The Community Divided](https://www.youtube.com/watch?v=UpSP2j3WoWw)**
 
 SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ The Ethereum Foundation's ...
 
 📺 Bankless
 
-👁️ 4K • 👍 152 • 💬 24 • ⏱️ 1:00:34 • 23h ago
+👁️ 4K • 👍 157 • 💬 24 • ⏱️ 1:00:34 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jHB1OS2E1vk)**
+**[Bitcoin &amp; Ethereum. Guck dir an was in Bärenmärkten JETZT immer passiert!](https://www.youtube.com/watch?v=JLQCzo_0siE)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
 
-📺 More Crypto Online
+📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 134 • 💬 5 • ⏱️ 5:30 • 22h ago
+👁️ 4K • 👍 735 • 💬 146 • ⏱️ 12:03 • 8h ago
 
 ---
 
