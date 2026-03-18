@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T13:15:40.969322+00:00'
+updated: '2026-03-18T14:47:31.979242+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 13:15 UTC  
+**Last Updated:** March 18, 2026 at 14:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.4%  
-**7d:** +8.0%  
-**30d:** +12.4%  
-**90d:** -25.0%  
-**1y:** +9.0%  
+**24h:** -4.7%  
+**7d:** +6.5%  
+**30d:** +10.8%  
+**90d:** -26.0%  
+**1y:** +7.5%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
 **[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
 
-🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 10h ago
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 12h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 23h ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 1d ago
 
 ---
 
@@ -102,7 +102,7 @@ Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Determinist
 
 EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
 
-4h ago
+6h ago
 
 ---
 
@@ -118,7 +118,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Ethereum is setting up for a post-stewardship world
 
-🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 22h ago
+🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 1d ago
 
 ---
 
@@ -154,21 +154,53 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
 
-The Block • 15h ago
+The Block • 17h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqdWGA_9MfoV6OUu6UYcnwMgW7_aEp0yENnIPTSwdIz0AutDWcrJVYct&gaa_ts=69baa8e8&gaa_sig=2k5CgRnhh_X6l8xGLcS3J1PqRNff9qTizHNt_UJA-yNlGfjnDbIy4d_cjfs5ZnpgwXbOW7v77uqnBmQApj5gNQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcUK2cg7nJwRRISK8Z5-XusPNS_PQaezcEc0BP1N58TE9I8OWawRDuX&gaa_ts=69babe6b&gaa_sig=AV8kx35nYg8iUINdKN5DLVq6eFYCT6DPW5CEsbS-w0Muj1NTcvwCF41U0iBbNdnIUcQ2QFy257MA_1OxpEU30g%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Prediction: Buying Ethereum Today Could Set You Up for Life](https://finance.yahoo.com/news/prediction-buying-ethereum-today-could-154123868.html)**
+**[Tom Lee’s BitMine boosts Ethereum treasury near 4.6 million ETH as cryptos post ‘meaningful outperformance’ during Iran war](https://www.theblock.co/post/393747/tom-lees-bitmine-boosts-ethereum-treasury-near-4-6-million-eth-as-cryptos-post-meaningful-outperformance-during-iran-war)**
 
-The world's second-most-valuable cryptocurrency has a bright future.
+BitMine Chairman Tom Lee pointed to crypto's outperformance during tension in the Middle East as the firm accelerated Ethereum purchases.
 
-Yahoo Finance • 2d ago
+The Block • 2d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Deepens Ethereum and AI Bets Is Its Strategy Becoming Too Concentrated?](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-deepens-130831157.html)**
+
+In recent days, BitMine Immersion Technologies disclosed that it acquired 60,999 additional Ethereum tokens, bringing its holdings to about 4.60 million ETH, or just over 3.8% of the total supply, while also increasing its stake in Eightco Holdings, which owns equity in OpenAI. By combining one of the world’s largest Ethereum treasuries with growing indirect exposure to OpenAI and sizeable staking income, BitMine is tying its future to both the crypto ecosystem and artificial intelligence...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Why Bitmine Immersion Technologies Stock Rocked the Market on Monday](https://www.fool.com/investing/2026/03/16/why-bitmine-immersion-technologies-stock-rocked-th/)**
+
+Ethereum believers should take a look at this stock.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Inflows To Ethereum ETFs Hit Three-Week High](https://finance.yahoo.com/news/inflows-ethereum-etfs-hit-three-134300131.html)**
+
+Inflows to exchange-traded funds (ETFS) that track the spot price of Ethereum (CRYPTO: $ETH) attracted $138.2 milli...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Current price of Ethereum for March 18, 2026](https://fortune.com/article/price-of-ethereum-03-18-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 20m ago
 
 ---
 
@@ -186,43 +218,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine boosts Ethereum treasury near 4.6 million ETH as cryptos post ‘meaningful outperformance’ during Iran war](https://www.theblock.co/post/393747/tom-lees-bitmine-boosts-ethereum-treasury-near-4-6-million-eth-as-cryptos-post-meaningful-outperformance-during-iran-war)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP hold key supports as bulls prepare for next leg up](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-hold-key-supports-as-bulls-prepare-for-next-leg-up-202603180406)**
 
-BitMine Chairman Tom Lee pointed to crypto's outperformance during tension in the Middle East as the firm accelerated Ethereum purchases.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are gearing up for the next leg higher on Wednesday after holding above key technical support levels earlier this week.
 
-The Block • 1d ago
-
----
-
-**[Ethereum Price Hits 6-Week High as Tom Lee's BitMine Reveals Latest ETH Buy](https://decrypt.co/361236/ethereum-price-6-week-high-tom-lee-bitmine-eth-buy)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added more ETH amid its climb to $2,300 for the first time in six weeks.
-
-Decrypt • 1d ago
-
----
-
-**[Why Bitmine Immersion Technologies Stock Rocked the Market on Monday](https://www.fool.com/investing/2026/03/16/why-bitmine-immersion-technologies-stock-rocked-th/)**
-
-Ethereum believers should take a look at this stock.
-
-The Motley Fool • 1d ago
-
----
-
-**[KoreInside Launches Interoperability for Public Blockchains Such As Ethereum, Solana, Coinbase to Bring Real-World Asset (RWA) Enablement to the Masses](https://www.usatoday.com/press-release/story/28503/koreinside-launches-interoperability-for-public-blockchains-such-as-ethereum-solana-coinbase-to-bring-real-world-asset-rwa-enablement-to-the-masses/)**
-
-KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
-
-USA Today • 23h ago
-
----
-
-**[New Crypto: Pepeto Announces $8.15M Raised While Ethereum Price Prediction Targets $7,500 and Bitcoin Leads Market Higher](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-8-15m-raised-while-ethereum-price-prediction-targets-7-500-and-bitcoin-leads-market-higher-1035939198)**
-
-Dubai, UAE, March  17, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto's presale just crossed $8.15 million, and the speed of capital entering thi...
-
-markets.businessinsider.com • 12h ago
+FXStreet • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ Brian from Santiment joined me to review the crypto market metrics. We review on
 
 📺 Thinking Crypto
 
-👁️ 696 • 👍 96 • 💬 44 • ⏱️ 28:07 • 1h ago
+👁️ 696 • 👍 96 • 💬 44 • ⏱️ 28:07 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 151 • 💬 5 • ⏱️ 5:05 • 13h ago
+👁️ 2K • 👍 151 • 💬 5 • ⏱️ 5:05 • 14h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 242 • 💬 256 • ⏱️ 15:11 • 11h ago
+👁️ 6K • 👍 242 • 💬 256 • ⏱️ 15:11 • 13h ago
 
 ---
 
@@ -276,7 +276,7 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 📺 Dan Gambardello
 
-👁️ 13K • 👍 769 • 💬 193 • ⏱️ 13:47 • 1d ago
+👁️ 13K • 👍 769 • 💬 193 • ⏱️ 13:47 • 2d ago
 
 ---
 
@@ -286,7 +286,7 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 2K • 👍 105 • 💬 50 • ⏱️ 1:14 • 1h ago
+👁️ 2K • 👍 105 • 💬 50 • ⏱️ 1:14 • 2h ago
 
 ---
 
@@ -326,7 +326,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 735 • 💬 146 • ⏱️ 12:03 • 8h ago
+👁️ 4K • 👍 735 • 💬 146 • ⏱️ 12:03 • 9h ago
 
 ---
 

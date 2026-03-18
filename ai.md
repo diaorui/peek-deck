@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-18T13:15:40.954756+00:00'
+updated: '2026-03-18T14:47:31.964420+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 18, 2026 at 13:15 UTC  
+**Last Updated:** March 18, 2026 at 14:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash](https://www.reddit.com/r/artificial/comments/1rwl37x/jensen_huang_says_gamers_are_completely_wrong/)**
-
-The CEO says artistic control remains with developers.
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 15h ago
-
----
-
-**[LLMs forget instructions the same way ADHD brains do. The research on why is fascinating.](https://www.reddit.com/r/artificial/comments/1rwkj5j/llms_forget_instructions_the_same_way_adhd_brains/)**
-
-I've been building long-running agentic workflows and kept hitting the same problem: the AI forgets instructions from earlier in the conversation, rushes to produce output, and skips boring middle steps. The research explains why: "Lost in the Middle" (Stanford 2023) showed a 30%+ performance drop when critical information is in the middle of the context window. Accuracy is high at the start and end, drops in the middle. Exactly like working memory overflow. "LLMs Get Lost in Multi-Turn Conversation" (Laban et al. 2025) showed that instructions from early turns get diluted by later content. The more turns, the worse the recall. 65% of enterprise AI failures in 2025 were attributed to context drift during multi-step reasoning. The parallel to ADHD executive dysfunction isn't metaphorical. Dense local connectivity in transformer attention mirrors the "intense world" theory of neurodivergent processing. Both produce: strong pattern recognition + weak executive control over long sequences. The fixes map too. "Echo of Prompt" (re-injecting instructions before execution) is the AI equivalent of re-reading the question before answering. Task decomposition into small steps reduces overwhelm. External verification prevents self-reported false completion. Has anyone else noticed this pattern in their agentic builds? Curious what scaffolding techniques others are using for long-running workflows.
-
-15h ago
-
----
-
 **[The Moltbook acquisition makes a lot more sense when you read one of Meta's patent filings](https://www.reddit.com/r/artificial/comments/1rwyk17/the_moltbook_acquisition_makes_a_lot_more_sense/)**
 
 Last week's post about Meta buying Moltbook got a lot of discussion here. I think most of the coverage (and the comments) missed what Meta is actually doing with it. I read a lot of patent filings because LLMs make them surprisingly accessible now, and one filed by Meta's CTO Andrew Bosworth connects directly to the Moltbook acquisition in a way I haven't seen anyone talk about. In December 2025, Meta was granted patent US 12513102B2 for a system that trains a language model on a user's historical interactions (posts, comments, likes, DMs, voice messages) and deploys it to simulate that user's social media behavior autonomously. The press covered it as "Meta wants to post for you after you die." The actual patent text describes simulating any user who is "absent from the social networking system," which includes breaks, inactivity, or death. The deceased framing is a broadening mechanism for the claims. What they built is a personalized LLM that maintains engagement on behalf of any user, for any reason. Now layer in the acquisitions. December 2025: Meta buys Manus for over $2 billion. General-purpose AI agent platform, hit $100M ARR eight months after launch. Meta said they'd integrate it into their consumer and business products. March 2026: The Moltbook acqui-hire. Matt Schlicht and Ben Parr join Meta Superintelligence Labs. What most coverage left out is their background. Schlicht and Parr co-founded Octane AI, a conversational commerce platform that automated personalized customer interactions for Shopify merchants via Messenger and SMS. They've been building AI-driven business communication tools since 2016. I think these three moves are connected. The "digital ghost" and "AI agents chatting with each other" framings are both wrong. Bosworth himself said in an Instagram Q&A that he didn't find Moltbook's agent conversations particularly interesting. So why buy it? Because Meta is building infrastructure for AI agents that act on behalf of businesses across their platforms. The small business owner spending hours managing their Facebook and Instagram presence is the real target user. The e-commerce brand running customer conversations through WhatsApp is the real target user. The patent gives them the IP foundation, Manus gives them the agent platform, and the Schlicht/Parr hire gives them the team that spent a decade figuring out how to make this work commercially. I'll be honest about the limits of reading patent tea leaves. Companies file for all kinds of reasons and most aren't strategic. Engineers get bonuses for filings. Legal teams build portfolios for cross-licensing leverage. Reading a single patent as a roadmap is a mistake I've made before. But a patent plus $2B in acquisitions plus an acqui-hire of people who built a related product for a decade starts to look like a pattern. Anyone here have a different read? Especially curious if anyone on Meta's business tools side sees this differently.
 
-4h ago
+5h ago
+
+---
+
+**[Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash](https://www.reddit.com/r/artificial/comments/1rwl37x/jensen_huang_says_gamers_are_completely_wrong/)**
+
+The CEO says artistic control remains with developers.
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 16h ago
 
 ---
 
@@ -65,7 +57,7 @@ Last week's post about Meta buying Moltbook got a lot of discussion here. I thin
 
 Russia aids Iran against U.S. ships. Oil surges 50%. Joe Kent resigns. DOGE cuts grants via AI. Trump creates a secret database. Hawley targets mifepristone. Vance leads fraud task force.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/a-new-exoskeleton#story-the-pentagon-is-developing-its-own-llms) • 1h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/a-new-exoskeleton#story-the-pentagon-is-developing-its-own-llms) • 3h ago
 
 ---
 
@@ -81,15 +73,7 @@ I work as a developer, and before this I was copium about AI, it was a form of s
 
 Or has it created new opportunities, increased productivity, or had no influence at all. And do you expect it to in the future?
 
-8h ago
-
----
-
-**[Open sourced a tool that can find precise coordinates of any street level pic](https://www.reddit.com/r/artificial/comments/1rx096v/open_sourced_a_tool_that_can_find_precise/)**
-
-Hey guys, I built an open source tool called Netryx that can find precise coordinates of any street level picture. It is designed designed to find exact coordinates from a street level photo using visual clues and a custom ML pipeline and Al. I really hope you guys have fun using it! Also would love to connect with developers and companies in this space! Link to source code: https://github.com/sparkyniner/ Netryx-OpenSource-Next-Gen-Street-Level-Geolocation.git Attaching the video to an example geolocating the Qatar strikes, it looks different because it's a custom web version but pipeline is same.
-
-2h ago
+9h ago
 
 ---
 
@@ -97,7 +81,7 @@ Hey guys, I built an open source tool called Netryx that can find precise coordi
 
 Documenting reported cases of AI-induced psychological harm — dependency, delusion, identity confusion, and reality distortion. Updated weekly.
 
-🔗 [aipsychosis.watch](https://aipsychosis.watch) • 7h ago
+🔗 [aipsychosis.watch](https://aipsychosis.watch) • 8h ago
 
 ---
 
@@ -105,7 +89,7 @@ Documenting reported cases of AI-induced psychological harm — dependency, delu
 
 Nvidia unveils Vera CPU and Rubin platform to power agentic AI systems and next-generation AI factories.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/nvidia-vera-cpu-vera-rubin-ai-factories) • 22h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/nvidia-vera-cpu-vera-rubin-ai-factories) • 23h ago
 
 ---
 
@@ -113,7 +97,23 @@ Nvidia unveils Vera CPU and Rubin platform to power agentic AI systems and next-
 
 Today we’re going to explore three ideas that help us understand the age of artificial intelligence: first, the stage that is being set for AI in our civilization; second, the idea of invasive technology; and third, what the speaker calls the “way of the warrior” — a mindset for living in this new technological world. Let’s begin with the broader context. Throughout history, major technological shifts have reshaped human civilization. Agriculture changed how societies organized themselves. The industrial revolution transformed production and economic power. Later, digital computing revolutionized information and communication. Artificial intelligence represents the next major shift, but it is different in an important way. Earlier technologies extended human abilities — our muscles, our speed, or our ability to calculate. AI, however, extends something much deeper: cognition. For the first time in history, we are creating systems that can perform tasks that previously required human reasoning. They can analyze information, generate ideas, write text, and assist with decision-making. In the past, human beings were the only general intelligence operating in society. Now we are introducing additional intelligences into the system. These systems don’t think exactly like humans, but they can produce outputs that resemble human reasoning. This raises a fundamental question: if machines can increasingly perform cognitive tasks, what role does human intelligence play? This is why the speaker argues that artificial intelligence is not just a technical development. It is a civilizational one. It forces us to reconsider ideas about expertise, authority, and knowledge itself. But understanding AI also requires understanding the type of technology it represents. The speaker introduces the concept of invasive technology. Most technologies throughout history have been external tools. A hammer extends the power of our hands. A car extends our mobility. Even computers primarily extended our ability to calculate and process data. AI, however, begins to enter the domain of thinking itself. When we use AI systems to write, plan, analyze information, or generate ideas, the technology becomes embedded in the process of cognition. Instead of simply assisting our actions, it begins influencing our thinking. This is why AI can be described as invasive. First, it invades cognition. Tasks that once required careful reasoning may increasingly be delegated to machines. Over time, this could change how people learn, how they solve problems, and even how they develop expertise. Second, AI invades institutions. Governments, corporations, and educational systems are integrating algorithmic decision-making into their operations. When automated systems help guide important decisions, the influence of algorithms becomes structural. Third, AI invades culture. Machines are now producing text, images, music, and art. As this grows, the boundary between human creation and machine generation becomes increasingly blurred. The result is a technological environment that is no longer merely outside us. It becomes part of the infrastructure of thought, decision-making, and culture. Faced with this kind of technological transformation, the speaker suggests we need a philosophical response. This is where the idea of “the way of the warrior” comes in. The metaphor of the warrior is not about violence or conflict. Instead, it refers to a disciplined way of engaging with powerful forces. Throughout history, warrior traditions emphasized self-control, clarity of purpose, responsibility, and mastery. These qualities become especially important in times of rapid change. In the context of artificial intelligence, the warrior mindset involves several principles. The first is mastery rather than dependence. AI tools can be extraordinarily powerful, but relying on them blindly can weaken human capability. The warrior approach is to use these tools deliberately while maintaining independent skills and understanding. Technology should amplify human intelligence, not replace it. The second principle is mental discipline. In an environment filled with automated answers and endless information, the ability to think deeply becomes increasingly valuable. Critical thinking, sustained attention, and intellectual rigor are qualities that must be actively cultivated. The third principle is ethical responsibility. AI systems can influence decisions that affect large numbers of people. Those who design, deploy, or rely on these systems carry significant responsibility. Without strong ethical frameworks, powerful technologies can easily produce unintended harm. Finally, the warrior mindset emphasizes human identity. Rather than competing directly with machines on speed or data processing, humans must focus on qualities that remain uniquely meaningful: wisdom, judgment, creativity, and moral reasoning. The goal is not to reject technology but to engage with it consciously. Artificial intelligence will continue to evolve, and its influence will likely expand across nearly every aspect of society. The key question is not whether AI will shape the world — it almost certainly will. The real question is how humans choose to relate to it. Do we become passive users of automated systems, or do we approach these technologies with discipline, awareness, and responsibility? The speaker’s answer is clear. In the age of artificial intelligence, what we need is not simply better technology. What we need is a stronger philosophy of how humans should live and think in the presence of powerful machines. That philosophy is what he calls the way of the warrior. -- description of the video 'nitty grittys ordeal - bridging the machine mind with bodily senses ' by chatgpt , video link in comment below
 
-5h ago
+6h ago
+
+---
+
+**[LLMs forget instructions the same way ADHD brains do. I built scaffolding for both. Research + open source.](https://www.reddit.com/r/artificial/comments/1rwkelg/llms_forget_instructions_the_same_way_adhd_brains/)**
+
+Built an AI system to manage my day. Noticed the AI drops balls the same way I do: forgets instructions from earlier in the conversation, rushes to output, skips boring steps. Research confirms it: - "Lost in the Middle" (Stanford 2023): 30%+ performance drop for mid-context instructions - 65% of enterprise AI failures in 2025 attributed to context drift So I built scaffolding for both sides: For the human: friction-ordered tasks, pre-written actions, loop tracking with escalation. For the AI: verification gate that blocks output if required sections missing, step-loader that re-injects instructions before execution, rules preventing self-authorized step skipping. Open sourced: https://github.com/assafkip/kipi-system README has a section on "The AI needs scaffolding too" with the full research basis.
+
+17h ago
+
+---
+
+**[need some help with notebookLM](https://www.reddit.com/r/artificial/comments/1rwpp6g/need_some_help_with_notebooklm/)**
+
+i just cant get it to generate slide decks for me, on mobile i click the option and it says "Generation Failed, try again please" and in the PC it just doesn't even show the option
+
+13h ago
 
 ---
 
@@ -121,25 +121,17 @@ Today we’re going to explore three ideas that help us understand the age of ar
 
 ## Google News: "ai"
 
+**[Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real](https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html)**
+
+The New York Times • 20h ago
+
+---
+
 **[Ad for AI editing app which said it could 'remove anything' banned](https://www.bbc.com/news/articles/cx2g8888q53o)**
 
 The UK regulator said the ad condoned "digitally altering and exposing women's bodies without their consent."
 
-BBC • 13h ago
-
----
-
-**[Anthropic turns the tables on OpenAI in critical revenue category](https://www.axios.com/2026/03/18/ai-enterprise-revenue-anthropic-openai)**
-
-Axios • 3h ago
-
----
-
-**[“Death-by-Algorithm,” “Unintended Consequences” of AI, and Big Tech’s Responsibility in Copenhagen Spotlight](https://www.yahoo.com/entertainment/movies/articles/death-algorithm-unintended-consequences-ai-122938239.html)**
-
-'Molly vs the Machines' director Marc Silver, Denmark's tech ambassador, featured in new doc 'Techplomacy,' and other experts discussed the dark sides of technology at CPH:DOX’s industry conference.
-
-Yahoo • 46m ago
+BBC • 14h ago
 
 ---
 
@@ -147,31 +139,49 @@ Yahoo • 46m ago
 
 While anxiety around AI replacing white-collar jobs has reached a fever pitch, the data center boom is creating lucrative opportunities for skilled traders.
 
-CNBC • 7m ago
+CNBC • 1h ago
 
 ---
 
-**[Fluidstack Drops Out of Marquee €10 Billion AI Project in France](https://www.bloomberg.com/news/articles/2026-03-18/fluidstack-drops-out-of-marquee-10-billion-ai-project-in-france)**
+**[AI Ruined The Fun Of Mega Viral Moments From The Oscars](https://deadline.com/2026/03/ai-ruined-mega-viral-moments-oscars-1236758939/)**
 
-Bloomberg.com • 53m ago
+AI degraded viral moments from the Oscars, including Michael B. Jordan celebrating his triumph by hugging Leonardo DiCaprio and eating In-N-Out.
 
----
-
-**[You’ve Finally Figured Out AI at Work—Now Comes the Bill](https://www.wsj.com/tech/ai/ai-tokens-productivity-d35c6bd8?gaa_at=eafs&gaa_n=AWEtsqcKJ9GqT0BdnCBZFVjBSXzN4fFmhpH2JsphcsB-2cmQtdXfYOx6l1Yw&gaa_ts=69baa8e3&gaa_sig=mceogH9g-TnLLVnefHhkJ8ieZ6OtHZ7I4DP1pYP2V4Fmo8sXvDCxBwNu2e5ITbsROD0nKBB5SQ0QMN6Ls_uFSg%3D%3D)**
-
-WSJ • 10h ago
+Deadline • 1h ago
 
 ---
 
-**[Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real](https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html)**
+**[EU lawmakers support ban on AI apps generating explicit images](https://www.yahoo.com/news/articles/eu-lawmakers-support-ban-ai-142837742.html)**
 
-The New York Times • 19h ago
+Key EU lawmakers, who are influential in shaping changes to Europe's ‌AI Act, on Wednesday backed a ban on AI ‌apps which create unauthorised sexually explicit images and urged that the bloc's landmar...
+
+Yahoo • 18m ago
+
+---
+
+**[You’ve Finally Figured Out AI at Work—Now Comes the Bill](https://www.wsj.com/tech/ai/ai-tokens-productivity-d35c6bd8?gaa_at=eafs&gaa_n=AWEtsqdfRXQXUhDZwHH8X2yGTFQI0Dyd-kUcRXxlO99FFal7PE8SBy5xuH1T&gaa_ts=69babe68&gaa_sig=KOFG8lHI73h9C91TYUN8uo2tyr4rrkplLWy4rj-e_N59a8Ydj19emYc2rFDNjWWm2WYf5HoRnFiN25eitDiUnQ%3D%3D)**
+
+WSJ • 11h ago
+
+---
+
+**[What AI ‘Friends’ Reveal About Human Friendship](https://www.theatlantic.com/family/2026/03/ai-friendship-chatbot/686345/)**
+
+AI chatbots offer relationships that are low effort, completely personalized—and hollow.
+
+The Atlantic • 2h ago
+
+---
+
+**[Anthropic turns the tables on OpenAI in critical revenue category](https://www.axios.com/2026/03/18/ai-enterprise-revenue-anthropic-openai)**
+
+Axios • 4h ago
 
 ---
 
 **[A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?](https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -179,15 +189,7 @@ Reuters • 10h ago
 
 Use AI as a brainstorming partner and organizer, but don’t outsource your judgment
 
-The Guardian • 2h ago
-
----
-
-**[See which jobs are most threatened by AI and who may be able to adapt](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/)**
-
-Look up which jobs are most at risk from artificial intelligence and who is most likely to be able to adapt, according to a new analysis.
-
-The Washington Post • 1d ago
+The Guardian • 3h ago
 
 ---
 
@@ -199,7 +201,7 @@ The Washington Post • 1d ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 565 • 💬 135 • 16h ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 611 • 💬 147 • 17h ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -213,7 +215,7 @@ Today, we’re introducing Forge, a system that allows enterprises to build fron
 
 The ultimate over-ear listening experience — in five vibrant colors and with up to 1.5x more Active Noise Cancellation than the previous generation.
 
-⬆️ 318 • 💬 551 • 1d ago • [Apple](https://www.apple.com/airpods-max/)
+⬆️ 318 • 💬 551 • 2d ago • [Apple](https://www.apple.com/airpods-max/)
 
 ---
 
@@ -225,19 +227,19 @@ NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose
 
 ---
 
-**[Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)](https://news.ycombinator.com/item?id=47401734)**
-
-Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.
-
-⬆️ 145 • 💬 77 • 1d ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
-
----
-
 **[Why AI systems don't learn – On autonomous learning from cognitive science](https://news.ycombinator.com/item?id=47418722)**
 
 We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
 
-⬆️ 144 • 💬 81 • 15h ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+⬆️ 156 • 💬 94 • 17h ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+
+---
+
+**[Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)](https://news.ycombinator.com/item?id=47401734)**
+
+Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.
+
+⬆️ 145 • 💬 78 • 1d ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
 
 ---
 
@@ -257,7 +259,7 @@ TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a 
 
 **[Tell HN: AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291)**
 
-⬆️ 95 • 💬 89 • 2d ago
+⬆️ 95 • 💬 90 • 2d ago
 
 ---
 
@@ -309,7 +311,7 @@ Start building with Bolt for free (no credit card required): ...
 
 📺 Tina Huang
 
-👁️ 16K • 👍 912 • 💬 49 • ⏱️ 20:45 • 21h ago
+👁️ 16K • 👍 912 • 💬 49 • ⏱️ 20:45 • 23h ago
 
 ---
 
@@ -339,7 +341,7 @@ Best AI Coding Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?traf
 
 📺 Mikey No Code
 
-👁️ 18K • 💬 30 • ⏱️ 27:10 • 1d ago
+👁️ 18K • 💬 30 • ⏱️ 27:10 • 2d ago
 
 ---
 
@@ -349,7 +351,7 @@ Nvidia's GTC 2026 keynote just dropped some massive AI hardware reveals! From th
 
 📺 Theoretically Media
 
-👁️ 20K • 👍 847 • 💬 143 • ⏱️ 11:59 • 15h ago
+👁️ 20K • 👍 847 • 💬 143 • ⏱️ 11:59 • 17h ago
 
 ---
 
@@ -433,7 +435,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 36,759 • ❤️ 246 • 3d ago
+⬇️ 36,759 • ❤️ 246 • 4d ago
 
 ---
 
@@ -457,7 +459,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 1,872 • ❤️ 213 • 23h ago
+⬇️ 1,872 • ❤️ 213 • 1d ago
 
 ---
 
@@ -550,7 +552,7 @@ Great scientists have strong judgement and foresight, closely tied to what we ca
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 31 • 💬 2 • ⭐ 28,036 • 8d ago
+▲ 31 • 💬 2 • ⭐ 28,036 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -564,7 +566,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
 
-▲ 118 • 💬 4 • ⭐ 281 • 1d ago
+▲ 118 • 💬 4 • ⭐ 281 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
 
@@ -604,7 +606,7 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet the development of high-performance search agents remains dominated by industrial giants due to a lack of transparent, high-quality training data. This persistent data scarcity has fundamentally hindered the progress of the broader research community in developing and innovating within this domain. To bridge this gap, we introduce OpenSeeker, the first fully open-source search agent (i.e., model and data) that achieves frontier-level performance through two core technical innovations: (1) Fact-grounded scalable controllable QA synthesis, which reverse-engineers the web graph via topological expansion and entity obfuscation to generate complex, multi-hop reasoning tasks with controllable coverage and complexity. (2) Denoised trajectory synthesis, which employs a retrospective summarization mechanism to denoise the trajectory, therefore promoting the teacher LLMs to generate high-quality actions. Experimental results demonstrate that OpenSeeker, trained (a single training run) on only 11.7k synthesized samples, achieves state-of-the-art performance across multiple benchmarks including BrowseComp, BrowseComp-ZH, xbench-DeepSearch, and WideSearch. Notably, trained with simple SFT, OpenSeeker significantly outperforms the second-best fully open-source agent DeepDive (e.g., 29.5% v.s. 15.3% on BrowseComp), and even surpasses industrial competitors such as Tongyi DeepResearch (trained via extensive continual pre-training, SFT, and RL) on BrowseComp-ZH (48.4% v.s. 46.7%). We fully open-source the complete training dataset and the model weights to democratize frontier search agent research and foster a more transparent, collaborative ecosystem.
 
-▲ 133 • 💬 5 • ⭐ 131 • 1d ago
+▲ 133 • 💬 5 • ⭐ 131 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15594) • [💻 code](https://github.com/rui-ye/OpenSeeker)
 
@@ -654,7 +656,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.3k • 🔱 996 • 13h ago
+⭐ 21.3k • 🔱 996 • 15h ago
 
 ---
 
@@ -664,7 +666,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.6k • 🔱 1.5k • 1h ago
+⭐ 12.6k • 🔱 1.5k • 2h ago
 
 ---
 
@@ -674,7 +676,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.9k • 🔱 1.0k • 14h ago
+⭐ 10.9k • 🔱 1.0k • 15h ago
 
 ---
 
@@ -694,7 +696,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.6k • 🔱 414 • 7h ago
+⭐ 8.6k • 🔱 414 • 9h ago
 
 ---
 
@@ -704,7 +706,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.0k • 🔱 324 • 21h ago
+⭐ 4.0k • 🔱 324 • 23h ago
 
 ---
 
@@ -714,7 +716,7 @@ Open-source database of 700+ cybersecurity skills for AI agents and security pra
 
 `Python` `agent-skills` `ai-agents` `blue-team` `claude` `claude-code`
 
-⭐ 3.4k • 🔱 325 • 15h ago
+⭐ 3.4k • 🔱 325 • 16h ago
 
 ---
 
