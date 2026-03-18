@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-18T04:35:31.155953+00:00'
+updated: '2026-03-18T06:03:53.367333+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 18, 2026 at 04:35 UTC  
+**Last Updated:** March 18, 2026 at 06:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build foundational robotics and ROS 2 skills on real hardware instead of only simulation. I wanted a system where I could explore the entire robotics stack, including embedded firmware and motor control all the way up to motion planning and digital-twin simulation. It has also been a great opportunity to experiment with custom and unconventional joint and reducer designs that I haven’t seen implemented on any robotics platforms. Mechanical Architecture: Each joint section was designed and built independently, and later connected using clamped carbon fiber tubes. This modularity allows each joint to be iterated on separately, while the tube lengths can be swapped to change the arm’s reach or payload capacity accordingly. Joint & Reducer Designs: The base joint uses a traditional planetary gearbox. While the shoulder and elbow joints use a split-ring planetary gearbox, by utilizing two slightly offset ring gears driven by a common set of compound planets, this design provides an incredibly high torque density in a compact form factor. Which is what allowed me to achieve a 70:1 and 40:1 gear reduction respectively, while keeping a large contact area to minimize stress between the plastic gears, all without the bulk or backlash of a multi-stage system. Because this gearbox configuration does not provide an accessible output shaft for a conventional encoder, I implemented a custom sensing approach: alternating polarity magnets were mounted around the output ring gear, and a magnetic encoder is positioned perpendicular to the axis with an offset, allowing it to perceive the alternating magnetic fields as a spinning radially magnetized magnet. The spherical wrist uses an inverted belt differential with a custom bearing track to maintain consistent pressure on the belt to prevent skipping. All three wrist motors are mounted behind the elbow joint so they act as a counterweight, reducing inertia at the wrist and improving dynamic performance. Embedded Control & Firmware: The robot is controlled by a STM32 microcontroller, where I developed custom firmware in C to manage SPI communication with 6 daisy-chained encoders, CAN bus communication with a Raspberry Pi, PID loops and step generation for motor control, and a state management safety system. Higher-level planning will run on a Raspberry Pi using ROS 2, where the arm will interface with MoveIt for motion planning and simulation; this is still under development. A write-up of the mechanical design, CAD, and firmware architecture is available on my portfolio, with a deeper breakdown of the ROS-based software stack coming eventually: https://jcgullberg.github.io/projects
 
-30m ago
+1h ago
 
 ---
 
@@ -44,7 +44,7 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 Incorrectly located in China, when it's actually in California Leila on 𝕏: https://x.com/oranaise/status/2033869874020106710
 
-15h ago
+16h ago
 
 ---
 
@@ -52,19 +52,19 @@ From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 In
 
 Got a lot of feedbacks from last post, thanks a lot! There are many requests about trying uneven terrain, sand, and stairs. The sand was… not a pleasant experience. We heard some worrying rattling sounds after the test, so we’re thinking an enclosure might be necessary to keep the dust and grit out. But for now, here's our current attempt at the stairs! As you can see, still jittery, still leaning, but it jumps. Still a long way to go! We are planning to add perception so it can actually see the stairs and, hopefully, decide when to jump on its own without me babysitting the remote.
 
-14h ago
+15h ago
 
 ---
 
 **[Jetson-powered Olaf robot at NVIDIA GTC 2026](https://www.reddit.com/r/robotics/comments/1rwberk/jetsonpowered_olaf_robot_at_nvidia_gtc_2026/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Controlling Cobra with Ardupilot](https://www.reddit.com/r/robotics/comments/1rws92d/controlling_cobra_with_ardupilot/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -72,29 +72,15 @@ Got a lot of feedbacks from last post, thanks a lot! There are many requests abo
 
 Hey everyone, I am currently developing a custom tracker using my old lighthouse trackers from a VR headset (HTC vive). The end goal is tracking small robots indoors for ~$10-15 per unit. For that I built a custom PCB in the simplest way possible, as I am still quite a beginner in electronics. I am using BPW-34 photodiodes - they have no IR filter built in, so i'm using floppy disk film as a cheap IR bandpass which works surprisingly well. The board is put into a small 3D printed case that will be placed on my robots (I intend to have multiples in an arena). But even with just that a very basic tracking that captures the laser pulses from the lighthouse worked! For the future I will try to use at least 3 sensors to be able to position objects in space as well. I was quite surprised that this even worked.
 
-12h ago
-
----
-
-**[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
-
-20h ago
-
----
-
-**[Live demo by Skild AI at GTC, demonstrating neural nets for precision manufacturing](https://www.reddit.com/r/robotics/comments/1rw1q0z/live_demo_by_skild_ai_at_gtc_demonstrating_neural/)**
-
-From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
-
-19h ago
-
----
-
-**[Made lower part of a small humanoid cheap robot](https://www.reddit.com/r/robotics/comments/1rw6uu1/made_lower_part_of_a_small_humanoid_cheap_robot/)**
-
-Just finished up designing and putting together the lower half of my yet another sg 90 robot. This one feels more refined than others. It's about 20 cm long and for its hip and knee actuators uses modified sg90/mg90s servos, which have had their base plate removed and center hollowed out to save space. I remember a lot of small diy projects before the humanoid robot scene became more "mainstream" so to speak, but I see less small projects and more full scale humanoids nowadays. Here's link with 3d files https://cults3d.com/en/3d-model/various/neoparts-sg90-bipedal-robot
-
 14h ago
+
+---
+
+**[My robot looks evil when it wakes up. 4 months of failures led to this. (video)](https://www.reddit.com/r/robotics/comments/1rwvo2s/my_robot_looks_evil_when_it_wakes_up_4_months_of/)**
+
+Long time lurker, first time posting a build update in long time. I've been building OLAF — an open source embodied AI agent. Not a robot for tasks. An AI agent with a physical presence that thinks, responds and reacts in the real world. The past 4 months were a disaster. Learned soldering from scratch. Melted components, bridged pins, designed custom PCBs, waited weeks for delivery, watched them fail. Repeatedly. I now own 50+ PCBs I use as coasters. Eventually I made the obvious decision I should have made months earlier — ditched the soldering iron, bought a drive kit and a few adapters. One week later it was moving. The demo is raw. Brain sitting on the table, wires everywhere, upper and lower body separate. Nothing is in a case. But it moves, reacts and has expressions. And honestly it looks a bit evil when it wakes up which I did not plan but I'm keeping. The thing that genuinely surprised me — Claude accelerated everything. Every iteration in minutes. Code, docs, design decisions. What would have taken me weeks alone we did in hours. Next up is voice and the AI brain layer. Repo is open source — would love feedback, or just a star if it's useful. github: https://github.com/kamalkantsingh10/OLAF Happy to answer any questions about the build
+
+9m ago
 
 ---
 
@@ -102,7 +88,21 @@ Just finished up designing and putting together the lower half of my yet another
 
 Roborock showed a stair-climbing vacuum (Saros Rover) at CES 2026. Sounds like a gimmick at first, but it’s going after a real limitation: most home robots basically assume the world is flat. Stairs completely break that. Different heights, weird angles, high chance of falling—so companies just avoided it and let users carry the robot between floors. This one takes a different approach. Instead of avoiding stairs, it treats them like part of the space it can move through. It uses a wheel + leg setup, rolls normally on flat ground, then lifts and stabilizes itself step by step. What’s more interesting is they’re not locked into one idea. Their patents show a bunch of directions: ramps to “flatten” stairs two connected robots that coordinate climbing hook/lift systems that pull themselves up So it’s still very much an open problem. Honestly, this feels less about vacuums and more about mobility in general. Stairs are one of the last things that still break indoor robots. Curious what people think: worth solving, or overkill vs just having one robot per floor? which approach actually makes sense long term? are stairs basically the main blocker for home robots right now?
 
-🔗 [Parola Analytics](https://parolaanalytics.com/parolanews/roborock-stair-vacuum-rover-patents/) • 33m ago
+🔗 [Parola Analytics](https://parolaanalytics.com/parolanews/roborock-stair-vacuum-rover-patents/) • 2h ago
+
+---
+
+**[Our latest UGV swarm setup for research labs. Each unit is running a custom ROS2 stack.ROS2-based UGV swarm formation test.](https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each/)**
+
+21h ago
+
+---
+
+**[Live demo by Skild AI at GTC, demonstrating neural nets for precision manufacturing](https://www.reddit.com/r/robotics/comments/1rw1q0z/live_demo_by_skild_ai_at_gtc_demonstrating_neural/)**
+
+From Chris Paxton on 𝕏: https://x.com/chris_j_paxton/status/2033677327918669895 Skild AI website: https://www.skild.ai/
+
+20h ago
 
 ---
 
@@ -114,7 +114,7 @@ Roborock showed a stair-climbing vacuum (Saros Rover) at CES 2026. Sounds like a
 
 CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
 
-CNBC • 19h ago
+CNBC • 21h ago
 
 ---
 
@@ -122,13 +122,13 @@ CNBC • 19h ago
 
 Gecko deploys AI and robotics on 18 ships assigned to the Navy’s U.S. Pacific Fleet
 
-Military Times • 10h ago
+Military Times • 12h ago
 
 ---
 
 **[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -140,17 +140,17 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
-**[Scientists Let AI Evolve These Robots' Designs – The Results Are Deeply Weird](https://www.iflscience.com/these-robots-evolved-in-an-ai-simulation-then-scientists-built-them-in-the-real-world-82878)**
-
-IFLScience • 14h ago
-
----
-
 **[US sounds alarm over China’s humanoid robots amid security concerns](https://www.scmp.com/news/us/politics/article/3346942/us-sounds-alarm-over-chinas-humanoid-robots-amid-security-concerns)**
 
 AI and robotics executives warn American lawmakers that China’s rapid advances – led by Unitree – threaten US dominance.
 
-South China Morning Post • 6h ago
+South China Morning Post • 8h ago
+
+---
+
+**[Scientists Let AI Evolve These Robots' Designs – The Results Are Deeply Weird](https://www.iflscience.com/these-robots-evolved-in-an-ai-simulation-then-scientists-built-them-in-the-real-world-82878)**
+
+IFLScience • 16h ago
 
 ---
 
@@ -158,7 +158,7 @@ South China Morning Post • 6h ago
 
 From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
 
-Visual Capitalist • 9h ago
+Visual Capitalist • 10h ago
 
 ---
 
@@ -166,15 +166,15 @@ Visual Capitalist • 9h ago
 
 ST. JOHN’S, NEWFOUNDLAND, March 17, 2026 /GLOBE NEWSWIRE/ — Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces approximately $24 million in new orders to over 10 customers across five countries, including three new defence customers. The orders are for Kraken’s SeaPower batteries, KATFISH towed synthetic aperture sonar (SAS), and Kraken SAS. […]
 
-Kraken Robotics • 17h ago
+Kraken Robotics • 18h ago
 
 ---
 
-**[Your 'Pokémon Go' data will help train food delivery robots](https://www.morningbrew.com/stories/2026/03/17/pokemon-go-data-train-delivery-bots)**
+**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/)**
 
-A Sam Altman-backed company called Coco Robotics will tap an AI model that uses 30+ billion images captured by the game's users.
+AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
 
-Morning Brew • 1d ago
+Fortune • 21h ago
 
 ---
 
@@ -206,7 +206,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 1K • 👍 46 • 💬 2 • ⏱️ 4:39 • 10h ago
+👁️ 1K • 👍 46 • 💬 2 • ⏱️ 4:39 • 11h ago
 
 ---
 
@@ -266,7 +266,7 @@ Variable Hooded Shooter | 9280 High Altitude Robotics | FRC Pit Stop This video 
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 44 • ⏱️ 0:54 • 6h ago
+👁️ 1K • 👍 44 • ⏱️ 0:54 • 8h ago
 
 ---
 

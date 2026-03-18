@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-18T04:35:31.146599+00:00'
+updated: '2026-03-18T06:03:53.358117+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 04:35 UTC  
+**Last Updated:** March 18, 2026 at 06:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,694.37
+### $74,271.13
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +5.3%  
-**30d:** +10.0%  
-**90d:** -15.8%  
-**1y:** -14.6%  
+**24h:** -0.5%  
+**7d:** +5.0%  
+**30d:** +9.6%  
+**90d:** -16.1%  
+**1y:** -14.8%  
 
 ---
 
@@ -70,24 +70,24 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 28
+### 26
 **FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
+**[Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse](https://www.reddit.com/r/Bitcoin/comments/1rws63p/farm_in_the_netherlands_uses_bitcoin_mining_to/)**
+
+3h ago
+
+---
+
 **[Brittany Kaiser on Yahoo Finance just dropped that ~67% of new Claude Al agents launched in the past month are choosing Bitcoin as their preferred currency.](https://www.reddit.com/r/Bitcoin/comments/1rwdix4/brittany_kaiser_on_yahoo_finance_just_dropped/)**
 
 Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized shitcoins, straight BTC. It eventuelly makes sense. AI agents need a payment layer with no counterparty risk, no geography, and no permissions required. Bitcoin was built for exactly that.
 
-10h ago
-
----
-
-**[Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse](https://www.reddit.com/r/Bitcoin/comments/1rws63p/farm_in_the_netherlands_uses_bitcoin_mining_to/)**
-
-1h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized s
 
 Interestingly my first thought was an eye roll. “Mom you barely know how to use your phone. Why?” Then her very next question was “well just explain to me simply what it is”. So I did. Simply. And she said she wants some. I thought, wow, this is amazing. Retail is back 😂 Jokes aside, this really is a great indicator in my personal life of Bitcoin’s baby steps into a mainstream average person adoption.
 
-8h ago
+10h ago
 
 ---
 
@@ -103,13 +103,13 @@ Interestingly my first thought was an eye roll. “Mom you barely know how to us
 
 Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework
 
-18h ago
+19h ago
 
 ---
 
 **[Wow! This great Bitcoin post on the front page of Reddit right now (NP link).](https://www.reddit.com/r/Bitcoin/comments/1rwi3su/wow_this_great_bitcoin_post_on_the_front_page_of/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -117,13 +117,13 @@ Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate
 
 https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
 
-13h ago
+14h ago
 
 ---
 
 **[From nearly zero in 2017 to ~1.2 million BTC held by 50+ public companies by 2025.](https://www.reddit.com/r/Bitcoin/comments/1rw6xls/from_nearly_zero_in_2017_to_12_million_btc_held/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -131,7 +131,15 @@ https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
 
 Currently, BTC is not just a store of value, but at the moment also a very strong value grower. Thats why many people use BTC as a value grower like you would use a diversified index fund. Many people don't just use BTC to only keep their purchasing power - they can also benefit from real purchasing power increase because they are still early. I think once bitcoin gets more adapted worldwide and gets worth multiple millions per coin in the next decades, this purchase power increasing trend will slowly fade away, its value will remain more stable, so thats when it will just be a store of value. Thats the moment BTC won't get used like an index fund anymore, people in the future will have to invest in stocks (more risky) if they want to increase their purchase power instead of just keeping it. If they just want to keep their purchasing power without risk, BTC will be for them. But thats not the time we are living in right now, at the moment BTC still has big chances to multiply your purchase power.
 
-8h ago
+10h ago
+
+---
+
+**[BLOOMBERG: "Bitcoin Outperforms Asset During War" | Bloomberg Crypto 3/17/2026](https://www.reddit.com/r/Bitcoin/comments/1rwu133/bloomberg_bitcoin_outperforms_asset_during_war/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=ovXhuUD68QY) • 1h ago
 
 ---
 
@@ -139,13 +147,7 @@ Currently, BTC is not just a store of value, but at the moment also a very stron
 
 been stacking sats for most of this year and just crossed into full bitcoin territory today picked up more during a few different dips along the way which helped me get there faster kinda thought id feel more excited when i reached this point but its more like relief than celebration i guess still pretty cool though especially since i really believe this technology is going somewhere big now time to start working toward that second bitcoin
 
-22h ago
-
----
-
-**[Bitcoin Histomap: 50 events that shaped Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rw7xs2/bitcoin_histomap_50_events_that_shaped_bitcoin/)**
-
-14h ago
+23h ago
 
 ---
 
@@ -157,13 +159,21 @@ been stacking sats for most of this year and just crossed into full bitcoin terr
 
 Market momentum returns, and so does the million-dollar Bitcoin conversation.
 
-thestreet.com • 13h ago
+thestreet.com • 15h ago
 
 ---
 
 **[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
+
+---
+
+**[UK Man Accuses Spouse of Stealing $172 Million Bitcoin Password via CCTV Camera](https://gizmodo.com/uk-man-accuses-spouse-of-stealing-172-million-bitcoin-password-via-cctv-camera-2000734846)**
+
+Code is law, some say. That doesn't mean normal laws do not apply.
+
+Gizmodo • 7h ago
 
 ---
 
@@ -175,7 +185,7 @@ Seeking Alpha • 1d ago
 
 **[Strategy Faces Key Test It's Failed 3 Times After Big Bitcoin Buy](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -183,23 +193,7 @@ Investor's Business Daily • 16h ago
 
 A $1.18 billion preferred stock raise, roughly equivalent to 16,800 BTC, signals a shift away from common stock as dividend obligations top $1 billion.
 
-CoinDesk • 12h ago
-
----
-
-**[UK Man Accuses Spouse of Stealing $172 Million Bitcoin Password via CCTV Camera](https://gizmodo.com/uk-man-accuses-spouse-of-stealing-172-million-bitcoin-password-via-cctv-camera-2000734846)**
-
-Code is law, some say. That doesn't mean normal laws do not apply.
-
-Gizmodo • 5h ago
-
----
-
-**[Emergent's CEO says the vibe-coding industry is still in its 'bitcoin $1' moment](https://www.businessinsider.com/emergent-ceo-vibe-coding-bitcoin-moment-ai-boom-2026-3)**
-
-Emergent CEO Mukund Jha says vibe coding is still at 1% of its potential and compares the industry today to bitcoin at $1.
-
-Business Insider • 23h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -207,21 +201,29 @@ Business Insider • 23h ago
 
 SEC Chair Paul Atkins said the new securities guidance, which impacts "most crypto assets," provides "clear lines in clear terms."
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[US securities regulator issues long-awaited crypto guidance](https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
-**[US Regulators Recognize XRP’s Non-Security Status in SEC, CFTC Landmark Crypto Rules](https://news.bitcoin.com/us-regulators-recognize-xrps-non-security-status-in-sec-cftc-landmark-crypto-rules/)**
+**[SEC Classifies Bitcoin, Ethereum as Commodities, Not Securities](https://www.chosun.com/english/market-money-en/2026/03/18/RJ5LPW7HMFBCDO2L2FNWIKMB5E/)**
 
-XRP gains clearer regulatory footing as U.S. authorities explicitly include it among digital commodities in new SEC guidance, aligning it with major
+SEC Classifies Bitcoin, Ethereum as Commodities, Not Securities Ruling removes unregistered securities sales risks, paving way for institutional crypto investments
 
-Bitcoin.com News • 2h ago
+조선일보 • 5h ago
+
+---
+
+**[Jack Mallers Confirmed As A Bitcoin 2026 Speaker](https://bitcoinmagazine.com/conference/jack-mallers-confirmed-as-a-bitcoin-2026-speaker)**
+
+Jack Mallers has been officially confirmed as a speaker at Bitcoin 2026, returning to the stage where he made Bitcoin history to share his perspective on
+
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -261,7 +263,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Open archive of autonomous scientific discovery experiments.
 
-⬆️ 1 • 💬 2 • 6h ago • [protoscience.ai](https://protoscience.ai)
+⬆️ 1 • 💬 2 • 8h ago • [protoscience.ai](https://protoscience.ai)
 
 ---
 
@@ -275,7 +277,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)](https://news.ycombinator.com/item?id=47421489)**
 
-⬆️ 1 • 💬 0 • 30m ago
+⬆️ 3 • 💬 0 • 1h ago
 
 ---
 
@@ -289,7 +291,7 @@ A silent shift is happening in Bitcoin and most people are missing it. With over
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 422 • 💬 44 • ⏱️ 59:29 • 10h ago
+👁️ 8K • 👍 422 • 💬 44 • ⏱️ 59:29 • 11h ago
 
 ---
 
@@ -299,7 +301,7 @@ The truth about Bitcoin in 2026, Iran, Ethereum, and altcoins! BITUNIX TRADE THE
 
 📺 Lark Davis
 
-👁️ 19K • 👍 956 • 💬 67 • ⏱️ 16:02 • 16h ago
+👁️ 19K • 👍 956 • 💬 67 • ⏱️ 16:02 • 18h ago
 
 ---
 
@@ -309,7 +311,7 @@ Bitcoin is pumping, but is the bottom really in? We analyze the 52K price target
 
 📺 Financial Funda
 
-👁️ 6K • 👍 263 • 💬 19 • ⏱️ 1:25 • 10h ago
+👁️ 6K • 👍 263 • 💬 19 • ⏱️ 1:25 • 11h ago
 
 ---
 
@@ -329,7 +331,7 @@ A major clash is unfolding between Chamath and Saylor over Bitcoin's future. One
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 898 • 💬 143 • ⏱️ 12:42 • 7h ago
+👁️ 13K • 👍 898 • 💬 143 • ⏱️ 12:42 • 8h ago
 
 ---
 
@@ -349,7 +351,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 163 • ⏱️ 36:40 • 14h ago
+👁️ 17K • 👍 1K • 💬 163 • ⏱️ 36:40 • 15h ago
 
 ---
 
@@ -359,7 +361,7 @@ I called $75K for Bitcoin four days ago. It hit $76K instead - so I was wrong in
 
 📺 Coin Bureau Trading
 
-👁️ 11K • 👍 944 • 💬 112 • ⏱️ 22:53 • 21h ago
+👁️ 11K • 👍 944 • 💬 112 • ⏱️ 22:53 • 23h ago
 
 ---
 
@@ -369,7 +371,7 @@ There are several reasons retailers don't accept Bitcoin as payment. #shorts #bi
 
 📺 Cyber Scrilla
 
-👁️ 4K • 👍 208 • 💬 27 • ⏱️ 1:05 • 9h ago
+👁️ 4K • 👍 208 • 💬 27 • ⏱️ 1:05 • 10h ago
 
 ---
 
@@ -379,7 +381,7 @@ Bitcoin miners have been capitulating for three months — one of the longest pe
 
 📺 VirtualBacon
 
-👁️ 10K • 👍 404 • 💬 85 • ⏱️ 37:03 • 8h ago
+👁️ 10K • 👍 404 • 💬 85 • ⏱️ 37:03 • 9h ago
 
 ---
 

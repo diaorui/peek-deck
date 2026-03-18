@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T04:35:31.152753+00:00'
+updated: '2026-03-18T06:03:53.364146+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 04:35 UTC  
+**Last Updated:** March 18, 2026 at 06:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,332.86
+### $2,319.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +12.5%  
-**30d:** +17.1%  
-**90d:** -21.9%  
-**1y:** +13.5%  
+**24h:** -0.4%  
+**7d:** +11.8%  
+**30d:** +16.4%  
+**90d:** -22.4%  
+**1y:** +12.8%  
 
 ---
 
@@ -70,7 +70,15 @@ No max supply
 
 **[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
 
-🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 1h ago
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 3h ago
+
+---
+
+**[Daily General Discussion March 18, 2026](https://www.reddit.com/r/ethereum/comments/1rwuoph/daily_general_discussion_march_18_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
 
 ---
 
@@ -78,7 +86,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -86,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 15h ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 16h ago
 
 ---
 
@@ -102,7 +110,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Ethereum is setting up for a post-stewardship world
 
-🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 14h ago
+🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 15h ago
 
 ---
 
@@ -118,7 +126,7 @@ I built an Ethereum squeeze dashboard to see where we stand with the inevitable 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -138,43 +146,35 @@ Simplifies diamond management, deployment and upgrades.
 
 ---
 
-**[Daily General Discussion March 15, 2026](https://www.reddit.com/r/ethereum/comments/1ru5apg/daily_general_discussion_march_15_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqfABfHxE0RRJQc5Xxd0ogPWXC6_3JposZtSODeAtu4IxVN2VBIK0KJP&gaa_ts=69ba2efc&gaa_sig=YyejI5J-4ao3dT7yvn9dbQVIwo8ZPMC-hLR0NlwCGyWbSBXfVJkBLBOfNWrAEnkCnD5VyqOxBYlZoWwChL9H9A%3D%3D)**
+**[Ethereum governance solution Tally used by Uniswap, Arbitrum and others is winding down](https://www.theblock.co/post/394026/ethereum-governance-solution-tally-uniswap-arbitrum-others-winding-down)**
+
+The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
+
+The Block • 8h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqeIncE56f1cSfqvlSOIoEUFfA58m31bVNH6VLK78vkSO1mITOrFhuLS&gaa_ts=69ba43b3&gaa_sig=fmiDkvthb-AVbHrzMuUwNca274rn6licWQw6BAPu92ZxVMKiHgLWDUV3vIDpZI40aqaIbfvLhhxImsAjwTT4JQ%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[ShapeShift founder Erik Voorhees buys $56 million worth of Ethereum: onchain analysts](https://www.theblock.co/post/393668/erik-voorhees-buys-ethereum)**
+**[Prediction: Buying Ethereum Today Could Set You Up for Life](https://finance.yahoo.com/news/prediction-buying-ethereum-today-could-154123868.html)**
 
-ShapeShift founder Erik Voorhees reportedly bought over $56 million worth of ETH after selling his ETH holdings a year earlier.
+The world's second-most-valuable cryptocurrency has a bright future.
 
-The Block • 1d ago
-
----
-
-**[BlackRock launches new ethereum ETF packed with staking rewards](https://finance.yahoo.com/video/blackrock-launches-ethereum-etf-packed-173000503.html)**
-
-BlackRock Head of Digital Assets Robbie Mitchnick joins Julie Hyman to discuss the company's launch of its new ethereum fund — the iShares Staked Ethereum Trust ETF (ETHB) — that lets investors track the cryptocurrency (ETH-USD) and earn staking rewards at the same time.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
 **[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -194,19 +194,27 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Price Hits 6-Week High as Tom Lee's BitMine Reveals Latest ETH Buy](https://decrypt.co/361236/ethereum-price-6-week-high-tom-lee-bitmine-eth-buy)**
+**[KoreInside Launches Interoperability for Public Blockchains Such As Ethereum, Solana, Coinbase to Bring Real-World Asset (RWA) Enablement to the Masses](https://www.usatoday.com/press-release/story/28503/koreinside-launches-interoperability-for-public-blockchains-such-as-ethereum-solana-coinbase-to-bring-real-world-asset-rwa-enablement-to-the-masses/)**
 
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added more ETH amid its climb to $2,300 for the first time in six weeks.
+KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
 
-Decrypt • 1d ago
+USA Today • 16h ago
 
 ---
 
-**[Why Bitmine Immersion Technologies Stock Rocked the Market on Monday](https://www.fool.com/investing/2026/03/16/why-bitmine-immersion-technologies-stock-rocked-th/)**
+**[Robert Kiyosaki Predicts Bitcoin $750K, Ethereum $95K After Global Financial Crash](https://news.bitcoin.com/robert-kiyosaki-predicts-bitcoin-750k-ethereum-95k-after-global-financial-crash/)**
 
-Ethereum believers should take a look at this stock.
+Robert Kiyosaki warns a massive asset bubble could soon burst, predicting an unprecedented market collapse that may propel gold, silver, bitcoin, and
 
-The Motley Fool • 1d ago
+Bitcoin.com News • 1d ago
+
+---
+
+**[New Crypto: Pepeto Announces $8.15M Raised While Ethereum Price Prediction Targets $7,500 and Bitcoin Leads Market Higher](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-8-15m-raised-while-ethereum-price-prediction-targets-7-500-and-bitcoin-leads-market-higher-1035939198)**
+
+Dubai, UAE, March  17, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto's presale just crossed $8.15 million, and the speed of capital entering thi...
+
+markets.businessinsider.com • 5h ago
 
 ---
 
@@ -214,15 +222,7 @@ The Motley Fool • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
-
----
-
-**[KoreInside Launches Interoperability for Public Blockchains Such As Ethereum, Solana, Coinbase to Bring Real-World Asset (RWA) Enablement to the Masses](https://www.usatoday.com/press-release/story/28503/koreinside-launches-interoperability-for-public-blockchains-such-as-ethereum-solana-coinbase-to-bring-real-world-asset-rwa-enablement-to-the-masses/)**
-
-KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
-
-USA Today • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -236,7 +236,7 @@ BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 2K • 👍 143 • 💬 131 • ⏱️ 15:11 • 3h ago
+👁️ 2K • 👍 143 • 💬 131 • ⏱️ 15:11 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 991 • 👍 94 • 💬 2 • ⏱️ 5:05 • 4h ago
+👁️ 991 • 👍 94 • 💬 2 • ⏱️ 5:05 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ BMNR is quietly building one of the largest Ethereum positions in the world, now
 
 📺 The Value Thinker
 
-👁️ 10K • 👍 606 • 💬 83 • ⏱️ 15:13 • 16h ago
+👁️ 10K • 👍 606 • 💬 83 • ⏱️ 15:13 • 18h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 133 • 💬 5 • ⏱️ 5:30 • 15h ago
+👁️ 2K • 👍 133 • 💬 5 • ⏱️ 5:30 • 16h ago
 
 ---
 
@@ -306,7 +306,7 @@ The Ethereum Foundation's new mandate has reignited one of Ethereum's oldest deb
 
 📺 Bankless
 
-👁️ 3K • 👍 145 • 💬 22 • ⏱️ 1:00:34 • 16h ago
+👁️ 3K • 👍 145 • 💬 22 • ⏱️ 1:00:34 • 18h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 260 • 👍 51 • ⏱️ 7:09 • 1h ago
+👁️ 260 • 👍 51 • ⏱️ 7:09 • 2h ago
 
 ---
 
