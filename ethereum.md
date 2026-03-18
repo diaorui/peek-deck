@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T02:23:31.492419+00:00'
+updated: '2026-03-18T04:35:31.152753+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 02:23 UTC  
+**Last Updated:** March 18, 2026 at 04:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,49 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,333.35
+### $2,332.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +12.6%  
-**30d:** +17.2%  
-**90d:** -21.8%  
-**1y:** +13.7%  
+**24h:** +1.2%  
+**7d:** +12.5%  
+**30d:** +17.1%  
+**90d:** -21.9%  
+**1y:** +13.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.55B
+**Market Cap:** $281.46B
 Rank #2
 
 **Circulating Supply:** 120,691,832 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.8%
+-52.9%
 
 **All-Time Low:** $0.43
-+538635.1%
++538297.9%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
+
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 1h ago
+
+---
+
 **[Daily General Discussion March 17, 2026](https://www.reddit.com/r/ethereum/comments/1rvxepg/daily_general_discussion_march_17_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+23h ago
 
 ---
 
@@ -80,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 12h ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 15h ago
 
 ---
 
@@ -88,7 +94,7 @@ Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Determinist
 
 Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about wrapped bitcoin (WBTC) on the ethereum chain, wondering if you guys are using it/what's your opinion on it?
 
-22h ago
+1d ago
 
 ---
 
@@ -96,7 +102,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Ethereum is setting up for a post-stewardship world
 
-🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 11h ago
+🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 14h ago
 
 ---
 
@@ -124,14 +130,6 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 ---
 
-**[Founders and size](https://www.reddit.com/r/ethereum/comments/1rw0cuj/founders_and_size/)**
-
-What crypto founders have the biggest peenys? Does Anatoly have a big one? Is Richard Hart holding a tiny tinkler? Is Pasternak packing? All of us have thought about this many times but now is a chance to really get into it and discuss what we all want to know, maybe there’s a guy or girl in the sub that knows the answer to all of these from actual experience and is ready to put rumors to rest. Let’s keep it civil and talk about dingdongs in an adult manner ultimately using this data as another point of confluence to fill out bags, remember no shaming ok guys?!
-
-18h ago
-
----
-
 **[ERC-8153: Facet-Based Diamonds](https://www.reddit.com/r/ethereum/comments/1rvb2h4/erc8153_facetbased_diamonds/)**
 
 Simplifies diamond management, deployment and upgrades.
@@ -152,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqe6Be1XZuMWKO5qZbRlcJOcYqOOm71PQT8WFUtGRM9sz8lJUbjpGCDs&gaa_ts=69ba1012&gaa_sig=IJaKBj8pk9G3Qnqym4ZJjSzs2xvt4jQGKQjQpmZ9CpbNQwU-Nzb0xer2ZeRHmzsUAwauCv2KkjGizZxZQRUmwQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqfABfHxE0RRJQc5Xxd0ogPWXC6_3JposZtSODeAtu4IxVN2VBIK0KJP&gaa_ts=69ba2efc&gaa_sig=YyejI5J-4ao3dT7yvn9dbQVIwo8ZPMC-hLR0NlwCGyWbSBXfVJkBLBOfNWrAEnkCnD5VyqOxBYlZoWwChL9H9A%3D%3D)**
 
 Barron's • 1d ago
 
@@ -176,31 +174,7 @@ Yahoo Finance • 1d ago
 
 **[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
 
-Reuters • 18h ago
-
----
-
-**[Bitmine Soars 11% — Tom Lee’s Ethereum Bet Just Got Even Bigger](https://247wallst.com/investing/2026/03/16/bitmine-soars-11-tom-lees-ethereum-bet-just-got-even-bigger/)**
-
-Bitmine Immersion Technologies (NYSE:BMNR) stock is up 11% in Monday morning trading, pushing shares toward $23 after the company dropped a treasury update that’s hard to ignore. The catalyst: $11.5 billion in total cryptocurrency, cash, and moonshot holdings, a fresh Ethereum (CRYPTO:ETH) purchase, and Chairman Tom Lee tying the move directly to geopolitical tensions driving ... Bitmine Soars 11% — Tom Lee’s Ethereum Bet Just Got Even Bigger
-
-24/7 Wall St. • 1d ago
-
----
-
-**[Tom Lee’s BitMine boosts Ethereum treasury near 4.6 million ETH as cryptos post ‘meaningful outperformance’ during Iran war](https://www.theblock.co/post/393747/tom-lees-bitmine-boosts-ethereum-treasury-near-4-6-million-eth-as-cryptos-post-meaningful-outperformance-during-iran-war)**
-
-BitMine Chairman Tom Lee pointed to crypto's outperformance during tension in the Middle East as the firm accelerated Ethereum purchases.
-
-The Block • 1d ago
-
----
-
-**[Why Bitmine Immersion Technologies Stock Rocked the Market on Monday](https://www.fool.com/investing/2026/03/16/why-bitmine-immersion-technologies-stock-rocked-th/)**
-
-Ethereum believers should take a look at this stock.
-
-The Motley Fool • 1d ago
+Reuters • 20h ago
 
 ---
 
@@ -212,11 +186,35 @@ CoinDesk • 1d ago
 
 ---
 
+**[Tom Lee’s BitMine boosts Ethereum treasury near 4.6 million ETH as cryptos post ‘meaningful outperformance’ during Iran war](https://www.theblock.co/post/393747/tom-lees-bitmine-boosts-ethereum-treasury-near-4-6-million-eth-as-cryptos-post-meaningful-outperformance-during-iran-war)**
+
+BitMine Chairman Tom Lee pointed to crypto's outperformance during tension in the Middle East as the firm accelerated Ethereum purchases.
+
+The Block • 1d ago
+
+---
+
+**[Ethereum Price Hits 6-Week High as Tom Lee's BitMine Reveals Latest ETH Buy](https://decrypt.co/361236/ethereum-price-6-week-high-tom-lee-bitmine-eth-buy)**
+
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added more ETH amid its climb to $2,300 for the first time in six weeks.
+
+Decrypt • 1d ago
+
+---
+
+**[Why Bitmine Immersion Technologies Stock Rocked the Market on Monday](https://www.fool.com/investing/2026/03/16/why-bitmine-immersion-technologies-stock-rocked-th/)**
+
+Ethereum believers should take a look at this stock.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Current price of Ethereum for March 17, 2026](https://fortune.com/article/price-of-ethereum-03-17-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 14h ago
 
 ---
 
@@ -224,7 +222,7 @@ Fortune • 12h ago
 
 KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
 
-USA Today • 12h ago
+USA Today • 14h ago
 
 ---
 
@@ -232,33 +230,13 @@ USA Today • 12h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jHB1OS2E1vk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 132 • 💬 5 • ⏱️ 5:30 • 12h ago
-
----
-
-**[BMNR Just Made a BIG Move | ETH Supply Shock](https://www.youtube.com/watch?v=mNHsvvulSQc)**
-
-BMNR is quietly building one of the largest Ethereum positions in the world, now adding exposure to OpenAI through ORBS.
-
-📺 The Value Thinker
-
-👁️ 9K • 👍 579 • 💬 79 • ⏱️ 15:13 • 14h ago
-
----
-
 **[BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7vm2HkGx3fI)**
 
 BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 777 • 👍 82 • 💬 35 • ⏱️ 15:11 • 50m ago
+👁️ 2K • 👍 143 • 💬 131 • ⏱️ 15:11 • 3h ago
 
 ---
 
@@ -268,7 +246,47 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 588 • 👍 61 • 💬 2 • ⏱️ 5:05 • 2h ago
+👁️ 991 • 👍 94 • 💬 2 • ⏱️ 5:05 • 4h ago
+
+---
+
+**[BMNR Just Made a BIG Move | ETH Supply Shock](https://www.youtube.com/watch?v=mNHsvvulSQc)**
+
+BMNR is quietly building one of the largest Ethereum positions in the world, now adding exposure to OpenAI through ORBS.
+
+📺 The Value Thinker
+
+👁️ 10K • 👍 606 • 💬 83 • ⏱️ 15:13 • 16h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jHB1OS2E1vk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 133 • 💬 5 • ⏱️ 5:30 • 15h ago
+
+---
+
+**[ETHEREUM About To Flash Signal That Preceded Every CRYPTO BULL RUN (CONFIRMATION AREA)](https://www.youtube.com/watch?v=KEHaW52ZEkM)**
+
+Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The oversold ...
+
+📺 Dan Gambardello
+
+👁️ 12K • 👍 768 • 💬 195 • ⏱️ 13:47 • 1d ago
+
+---
+
+**[Market Meltdown📉Ethereum Skyrocketing🚀Crypto Update](https://www.youtube.com/watch?v=m_HhLnt-WPM)**
+
+The S&P 500 could fall sharply this year because of a combination of economic headwinds and policy uncertainty created by ...
+
+📺 Paul Barron Network
+
+👁️ 69K • 👍 3K • 💬 296 • ⏱️ 23:28 • 1d ago
 
 ---
 
@@ -282,43 +300,23 @@ This data is not great for bitcoin, ethereum and the rest of crypto and the mark
 
 ---
 
-**[Market Meltdown📉Ethereum Skyrocketing🚀Crypto Update](https://www.youtube.com/watch?v=m_HhLnt-WPM)**
-
-The S&P 500 could fall sharply this year because of a combination of economic headwinds and policy uncertainty created by ...
-
-📺 Paul Barron Network
-
-👁️ 69K • 👍 3K • 💬 295 • ⏱️ 23:28 • 1d ago
-
----
-
-**[ETHEREUM About To Flash Signal That Preceded Every CRYPTO BULL RUN (CONFIRMATION AREA)](https://www.youtube.com/watch?v=KEHaW52ZEkM)**
-
-Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The oversold ...
-
-📺 Dan Gambardello
-
-👁️ 12K • 👍 767 • 💬 195 • ⏱️ 13:47 • 1d ago
-
----
-
 **[Ethereum Foundation&#39;s New Mandate Has The Community Divided](https://www.youtube.com/watch?v=UpSP2j3WoWw)**
 
 The Ethereum Foundation's new mandate has reignited one of Ethereum's oldest debates: Should it stay laser-focused on ...
 
 📺 Bankless
 
-👁️ 3K • 👍 137 • 💬 18 • ⏱️ 1:00:34 • 14h ago
+👁️ 3K • 👍 145 • 💬 22 • ⏱️ 1:00:34 • 16h ago
 
 ---
 
-**[Ethereum Will Outperform Everything in 2026](https://www.youtube.com/watch?v=N3pMbjrwREw)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=fqG-cDaxARE)**
 
-Bitcoin is stuck at $60-70K and the markets are in extreme fear. But this is setting up the perfect opportunity for Ethereum to ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Michaël van de Poppe
+📺 Crypto Gyan
 
-👁️ 6K • 👍 274 • 💬 66 • ⏱️ 15:12 • 2d ago
+👁️ 260 • 👍 51 • ⏱️ 7:09 • 1h ago
 
 ---
 
