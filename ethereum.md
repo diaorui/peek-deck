@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T08:52:59.904348+00:00'
+updated: '2026-03-18T09:56:34.486574+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 08:52 UTC  
+**Last Updated:** March 18, 2026 at 09:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +12.1%  
-**30d:** +16.7%  
-**90d:** -22.1%  
-**1y:** +13.2%  
+**24h:** +0.7%  
+**7d:** +12.3%  
+**30d:** +17.0%  
+**90d:** -22.0%  
+**1y:** +13.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.58B
+**Market Cap:** $280.94B
 Rank #2
 
 **Circulating Supply:** 120,691,832 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.2%
+-52.9%
 
 **All-Time Low:** $0.43
-+534847.4%
++537690.5%
 
 ---
 
@@ -72,21 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
 **[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
 
-🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 6h ago
-
----
-
-**[Ethereum Foundation incompetence](https://www.reddit.com/r/ethereum/comments/1rwyf2c/ethereum_foundation_incompetence/)**
-
-EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
-
-8m ago
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 7h ago
 
 ---
 
@@ -102,7 +94,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 19h ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 20h ago
+
+---
+
+**[Ethereum Foundation incompetence](https://www.reddit.com/r/ethereum/comments/1rwyf2c/ethereum_foundation_incompetence/)**
+
+EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
+
+1h ago
 
 ---
 
@@ -118,7 +118,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Ethereum is setting up for a post-stewardship world
 
-🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 18h ago
+🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 19h ago
 
 ---
 
@@ -154,11 +154,11 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcMbIWoatAD_fyR357NKtaJJ4KQK_8nQz7lVlw8Jt8ZNBjJ-487lus_&gaa_ts=69ba6b58&gaa_sig=-cMwZGB_G9Jdzff4pAKpn7k-_bBOTmjddLhmFDdPJBs8BCDgfpMaSgRDIkMBWYe83xkgkIZvB4O9IDQEHu1BQQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqeinks5Ze77dzC0pbQixlQ-wL1l0kU68RJ0Hb2RFdw-GMnUinzGVWFi&gaa_ts=69ba7a3a&gaa_sig=fP_J6_cz7MXj6np1q2QWfWdN3OVtJdLh0RUgczoKWnkUpyuC1HvofOhrZxVhyGCFKrJVhV1GUv5EM__5i3xKHg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -214,7 +214,7 @@ The Motley Fool • 1d ago
 
 KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
 
-USA Today • 18h ago
+USA Today • 19h ago
 
 ---
 
@@ -230,23 +230,23 @@ Bitcoin.com News • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7vm2HkGx3fI)**
-
-BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 192 • 💬 183 • ⏱️ 15:11 • 7h ago
-
----
-
 **[BMNR Just Made a BIG Move | ETH Supply Shock](https://www.youtube.com/watch?v=mNHsvvulSQc)**
 
 BMNR is quietly building one of the largest Ethereum positions in the world, now adding exposure to OpenAI through ORBS.
 
 📺 The Value Thinker
 
-👁️ 10K • 👍 633 • 💬 84 • ⏱️ 15:13 • 20h ago
+👁️ 11K • 👍 651 • 💬 92 • ⏱️ 15:13 • 21h ago
+
+---
+
+**[BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7vm2HkGx3fI)**
+
+BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 220 • 💬 205 • ⏱️ 15:11 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 3 • ⏱️ 5:05 • 8h ago
+👁️ 2K • 👍 138 • 💬 4 • ⏱️ 5:05 • 9h ago
 
 ---
 
@@ -266,27 +266,7 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 769 • 💬 192 • ⏱️ 13:47 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jHB1OS2E1vk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 134 • 💬 5 • ⏱️ 5:30 • 19h ago
-
----
-
-**[🚨 BTC &amp; ETH: OH NO.... I HOPE I AM WRONG THIS TIME!!!!!!](https://www.youtube.com/watch?v=nU49NfIJs3k)**
-
-This data is not great for bitcoin, ethereum and the rest of crypto and the markets! Watch NOW!!!!! ---------- BYUSDT, earn while ...
-
-📺 Thomas Kralow
-
-👁️ 23K • 👍 3K • 💬 39 • ⏱️ 8:58 • 1d ago
+👁️ 13K • 👍 770 • 💬 193 • ⏱️ 13:47 • 1d ago
 
 ---
 
@@ -300,13 +280,23 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 ---
 
+**[🚨 BTC &amp; ETH: OH NO.... I HOPE I AM WRONG THIS TIME!!!!!!](https://www.youtube.com/watch?v=nU49NfIJs3k)**
+
+This data is not great for bitcoin, ethereum and the rest of crypto and the markets! Watch NOW!!!!! ---------- BYUSDT, earn while ...
+
+📺 Thomas Kralow
+
+👁️ 23K • 👍 3K • 💬 39 • ⏱️ 8:58 • 1d ago
+
+---
+
 **[Bitcoin &amp; Ethereum. Guck dir an was in Bärenmärkten JETZT immer passiert!](https://www.youtube.com/watch?v=JLQCzo_0siE)**
 
 Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 541 • 💬 81 • ⏱️ 12:03 • 3h ago
+👁️ 3K • 👍 663 • 💬 140 • ⏱️ 12:03 • 4h ago
 
 ---
 
@@ -316,17 +306,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 457 • 💬 49 • ⏱️ 19:10 • 2d ago
+👁️ 12K • 👍 458 • 💬 49 • ⏱️ 19:10 • 2d ago
 
 ---
 
-**[Ethereum: Insider kauft massiv! Trendwende?](https://www.youtube.com/watch?v=Ok4WqljfbkE)**
+**[Ethereum Foundation&#39;s New Mandate Has The Community Divided](https://www.youtube.com/watch?v=UpSP2j3WoWw)**
 
-Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ The Ethereum Foundation's ...
 
-📺 Krypto Report
+📺 Bankless
 
-👁️ 5K • 👍 486 • 💬 21 • ⏱️ 18:07 • 15h ago
+👁️ 4K • 👍 152 • 💬 24 • ⏱️ 1:00:34 • 22h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jHB1OS2E1vk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 134 • 💬 5 • ⏱️ 5:30 • 20h ago
 
 ---
 

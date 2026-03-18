@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-18T08:52:59.899041+00:00'
+updated: '2026-03-18T09:56:34.481007+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 08:52 UTC  
+**Last Updated:** March 18, 2026 at 09:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +5.1%  
-**30d:** +9.7%  
-**90d:** -16.0%  
-**1y:** -14.7%  
+**24h:** +0.3%  
+**7d:** +5.0%  
+**30d:** +9.6%  
+**90d:** -16.1%  
+**1y:** -14.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1476.23B
+**Market Cap:** $1482.99B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.5%
+-41.2%
 
 **All-Time Low:** $67.81
-+108717.3%
++109229.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse](https://www.reddit.com/r/Bitcoin/comments/1rws63p/farm_in_the_netherlands_uses_bitcoin_mining_to/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,15 +87,7 @@ Rank #1
 
 Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized shitcoins, straight BTC. It eventuelly makes sense. AI agents need a payment layer with no counterparty risk, no geography, and no permissions required. Bitcoin was built for exactly that.
 
-15h ago
-
----
-
-**[BLOOMBERG: "Bitcoin Outperforms Asset During War" | Bloomberg Crypto 3/17/2026](https://www.reddit.com/r/Bitcoin/comments/1rwu133/bloomberg_bitcoin_outperforms_asset_during_war/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=ovXhuUD68QY) • 4h ago
+16h ago
 
 ---
 
@@ -103,13 +95,21 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Interestingly my first thought was an eye roll. “Mom you barely know how to use your phone. Why?” Then her very next question was “well just explain to me simply what it is”. So I did. Simply. And she said she wants some. I thought, wow, this is amazing. Retail is back 😂 Jokes aside, this really is a great indicator in my personal life of Bitcoin’s baby steps into a mainstream average person adoption.
 
-12h ago
+14h ago
+
+---
+
+**[BLOOMBERG: "Bitcoin Outperforms Asset During War" | Bloomberg Crypto 3/17/2026](https://www.reddit.com/r/Bitcoin/comments/1rwu133/bloomberg_bitcoin_outperforms_asset_during_war/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=ovXhuUD68QY) • 5h ago
 
 ---
 
 **[Wow! This great Bitcoin post on the front page of Reddit right now (NP link).](https://www.reddit.com/r/Bitcoin/comments/1rwi3su/wow_this_great_bitcoin_post_on_the_front_page_of/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -117,21 +117,7 @@ Interestingly my first thought was an eye roll. “Mom you barely know how to us
 
 Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework
 
-22h ago
-
----
-
-**[From nearly zero in 2017 to ~1.2 million BTC held by 50+ public companies by 2025.](https://www.reddit.com/r/Bitcoin/comments/1rw6xls/from_nearly_zero_in_2017_to_12_million_btc_held/)**
-
-19h ago
-
----
-
-**[Square updates TOS to enable Bitcoin payments by default for most US sellers starting March 30](https://www.reddit.com/r/Bitcoin/comments/1rw9nze/square_updates_tos_to_enable_bitcoin_payments_by/)**
-
-https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
-
-17h ago
+23h ago
 
 ---
 
@@ -139,7 +125,21 @@ https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
+
+---
+
+**[From nearly zero in 2017 to ~1.2 million BTC held by 50+ public companies by 2025.](https://www.reddit.com/r/Bitcoin/comments/1rw6xls/from_nearly_zero_in_2017_to_12_million_btc_held/)**
+
+20h ago
+
+---
+
+**[Square updates TOS to enable Bitcoin payments by default for most US sellers starting March 30](https://www.reddit.com/r/Bitcoin/comments/1rw9nze/square_updates_tos_to_enable_bitcoin_payments_by/)**
+
+https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
+
+18h ago
 
 ---
 
@@ -147,7 +147,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Currently, BTC is not just a store of value, but at the moment also a very strong value grower. Thats why many people use BTC as a value grower like you would use a diversified index fund. Many people don't just use BTC to only keep their purchasing power - they can also benefit from real purchasing power increase because they are still early. I think once bitcoin gets more adapted worldwide and gets worth multiple millions per coin in the next decades, this purchase power increasing trend will slowly fade away, its value will remain more stable, so thats when it will just be a store of value. Thats the moment BTC won't get used like an index fund anymore, people in the future will have to invest in stocks (more risky) if they want to increase their purchase power instead of just keeping it. If they just want to keep their purchasing power without risk, BTC will be for them. But thats not the time we are living in right now, at the moment BTC still has big chances to multiply your purchase power.
 
-13h ago
+14h ago
 
 ---
 
@@ -159,7 +159,7 @@ Currently, BTC is not just a store of value, but at the moment also a very stron
 
 Hot PPI inflation data in the morning and hawkish remarks by Powell in the afternoon would be the most damaging combination for risk assets, including crypto, Bitfinex analysts said.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -169,11 +169,33 @@ Reuters • 1d ago
 
 ---
 
-**[Bitcoin Depot Flags Control 'Weaknesses' as Connecticut Halts Its Operations](https://finance.yahoo.com/news/bitcoin-depot-flags-control-weaknesses-055839993.html)**
+**[Does This 1 New Trend Mean You Should Sell Gold and Buy Bitcoin Right Now?](https://finance.yahoo.com/news/does-1-trend-mean-sell-092000530.html)**
 
-Its license was suspended after regulators accused the Bitcoin ATM operator of overcharging kiosk users and failing to provide some refunds.
+Capital flows are telling a certain story, but it might deceive you.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 36m ago
+
+---
+
+**[SEC Declares 'Most Crypto Assets' Not Securities, Including Staking, Airdrops and Bitcoin Mining](https://finance.yahoo.com/news/sec-declares-most-crypto-assets-200500928.html)**
+
+SEC Chair Paul Atkins said the new securities guidance, which impacts "most crypto assets," provides "clear lines in clear terms."
+
+Yahoo Finance • 13h ago
+
+---
+
+**[Bitcoin news today: BTC price fails to penetrate $75,000 even after SEC, CFTC crypto guidance](https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance)**
+
+Bitcoin remains stuck near key resistance around $75,000, leaving the broader market in limbo.
+
+CoinDesk • 26m ago
+
+---
+
+**[US securities regulator issues long-awaited crypto guidance](https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/)**
+
+Reuters • 13h ago
 
 ---
 
@@ -181,7 +203,7 @@ Yahoo Finance • 2h ago
 
 Market momentum returns, and so does the million-dollar Bitcoin conversation.
 
-thestreet.com • 18h ago
+thestreet.com • 19h ago
 
 ---
 
@@ -189,7 +211,7 @@ thestreet.com • 18h ago
 
 The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
 
-Investopedia • 11h ago
+Investopedia • 12h ago
 
 ---
 
@@ -197,35 +219,13 @@ Investopedia • 11h ago
 
 Code is law, some say. That doesn't mean normal laws do not apply.
 
-Gizmodo • 10h ago
+Gizmodo • 11h ago
 
 ---
 
 **[Strategy: Bitcoin Cost Passes Milestone (NASDAQ:MSTR)](https://seekingalpha.com/article/4882787-strategy-bitcoin-cost-passes-milestone)**
 
 Seeking Alpha • 1d ago
-
----
-
-**[Strategy Faces Key Test It's Failed 3 Times After Big Bitcoin Buy](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
-
-Investor's Business Daily • 20h ago
-
----
-
-**[Strategy’s latest massive bitcoin purchase offers insight into its evolving funding model](https://www.coindesk.com/markets/2026/03/17/strategy-s-massive-bitcoin-purchase-offers-insight-into-its-evolving-funding-model)**
-
-A $1.18 billion preferred stock raise, roughly equivalent to 16,800 BTC, signals a shift away from common stock as dividend obligations top $1 billion.
-
-CoinDesk • 17h ago
-
----
-
-**[Bitcoin Reversal Near 38% Retracement Raises Risk for Gold and Silver](https://www.investing.com/analysis/bitcoin-reversal-near-38-retracement-raises-risk-for-gold-and-silver-200676810)**
-
-Market Analysis by  covering: US Dollar Index Futures, Gold Futures, Silver Futures, SPDR® Gold Shares. Read 's Market Analysis on Investing.com
-
-Investing.com • 11h ago
 
 ---
 
@@ -237,7 +237,7 @@ Investing.com • 11h ago
 
 Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No third party required. Free and open source.
 
-⬆️ 1 • 💬 1 • 25m ago • [psicommit.com](https://psicommit.com/)
+⬆️ 1 • 💬 1 • 1h ago • [psicommit.com](https://psicommit.com/)
 
 ---
 
@@ -273,7 +273,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Open archive of autonomous scientific discovery experiments.
 
-⬆️ 1 • 💬 2 • 10h ago • [protoscience.ai](https://protoscience.ai)
+⬆️ 1 • 💬 2 • 11h ago • [protoscience.ai](https://protoscience.ai)
 
 ---
 
@@ -287,13 +287,13 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)](https://news.ycombinator.com/item?id=47421489)**
 
-⬆️ 6 • 💬 0 • 4h ago
+⬆️ 6 • 💬 0 • 5h ago
 
 ---
 
 **[Citcon: AI – Helsinki](https://news.ycombinator.com/item?id=47422870)**
 
-⬆️ 1 • 💬 0 • 55m ago • [citconf.com](https://citconf.com/helsinki2026/)
+⬆️ 1 • 💬 0 • 1h ago • [citconf.com](https://citconf.com/helsinki2026/)
 
 ---
 
@@ -307,17 +307,7 @@ The truth about Bitcoin in 2026, Iran, Ethereum, and altcoins! BITUNIX TRADE THE
 
 📺 Lark Davis
 
-👁️ 20K • 👍 982 • 💬 67 • ⏱️ 16:02 • 21h ago
-
----
-
-**[BITCOIN BULL TRAP? Why $91K is the Only Number That Matters!](https://www.youtube.com/watch?v=p7TRaTqZFG0)**
-
-Bitcoin is pumping, but is the bottom really in? We analyze the 52K price target, the 80K CME gap, and why the liquidation heat ...
-
-📺 Financial Funda
-
-👁️ 7K • 👍 280 • 💬 19 • ⏱️ 1:25 • 14h ago
+👁️ 21K • 👍 996 • 💬 72 • ⏱️ 16:02 • 22h ago
 
 ---
 
@@ -327,37 +317,7 @@ A silent shift is happening in Bitcoin and most people are missing it. With over
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 454 • 💬 46 • ⏱️ 59:29 • 14h ago
-
----
-
-**[Bitcoin: An Unfortunate Pattern [Update]](https://www.youtube.com/watch?v=rKjce1jCxSM)**
-
-It can be tough to be objective in Bitcoin bear markets, especially during countertrend rallies. In this video we look at stablecoin ...
-
-📺 Benjamin Cowen
-
-👁️ 24K • 👍 2K • 💬 134 • ⏱️ 30:12 • 6h ago
-
----
-
-**[This Bitcoin On-Chain Metric Just Flashed – What It Means for 2026 with James &quot;Checkmatey&quot;](https://www.youtube.com/watch?v=M4RPTungLqs)**
-
-On-chain analyst James Check (Checkmate) breaks down Bitcoin's blockchain data like never before, revealing what smart ...
-
-📺 Natalie Brunell
-
-👁️ 23K • 👍 1K • 💬 138 • ⏱️ 49:25 • 20h ago
-
----
-
-**[Why Retailers Don’t Accept Bitcoin As Payment 😅](https://www.youtube.com/watch?v=-kLxmzDmoYk)**
-
-There are several reasons retailers don't accept Bitcoin as payment. #shorts #bitcoin #xrp Order a Tangem Wallet (30% Off + ...
-
-📺 Cyber Scrilla
-
-👁️ 5K • 👍 240 • 💬 30 • ⏱️ 1:05 • 13h ago
+👁️ 9K • 👍 464 • 💬 47 • ⏱️ 59:29 • 15h ago
 
 ---
 
@@ -367,37 +327,77 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 163 • ⏱️ 36:40 • 18h ago
+👁️ 18K • 👍 1K • 💬 165 • ⏱️ 36:40 • 19h ago
 
 ---
 
-**[Chamath vs Saylor: Who’s Right About Bitcoin’s Biggest Threat?](https://www.youtube.com/watch?v=uvXvlI3HRlM)**
+**[Bitcoin Ownership is Changing FAST. Should You Be Worried?](https://www.youtube.com/watch?v=pGeECOBSMjc)**
 
-A major clash is unfolding between Chamath and Saylor over Bitcoin's future. One side says AI and quantum computing could ...
+Bitcoin is under attack again. Politicians and critics are calling it a Ponzi while institutions and governments accumulate more ...
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 165 • ⏱️ 12:42 • 11h ago
+👁️ 27K • 👍 2K • 💬 106 • ⏱️ 12:22 • 1d ago
 
 ---
 
-**[RETAIL EMOTION + TECHNICAL ANALYSIS: The Exact Signals Pointing Bitcoin to $85k 🚀](https://www.youtube.com/watch?v=KNYYX9GiBHQ)**
+**[Why Retailers Don’t Accept Bitcoin As Payment 😅](https://www.youtube.com/watch?v=-kLxmzDmoYk)**
 
-The stock market is rolling over into a massive distribution phase, but the crypto market is showing unbelievable relative strength.
+There are several reasons retailers don't accept Bitcoin as payment. #shorts #bitcoin #xrp Order a Tangem Wallet (30% Off + ...
 
-📺 Gareth Soloway
+📺 Cyber Scrilla
 
-👁️ 53K • 👍 4K • 💬 378 • ⏱️ 10:09 • 1d ago
+👁️ 5K • 👍 257 • 💬 31 • ⏱️ 1:05 • 14h ago
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=W_YasiLxgJ4)**
+**[Massive News → Bitcoin HIGHER](https://www.youtube.com/watch?v=us5nLWnf2Zc)**
 
-My march newsletter is out, discussing how risk cascades through markets. You can read it here: ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 9K • 👍 383 • 💬 48 • ⏱️ 1:08 • 21h ago
+
+---
+
+**[Bitcoin: An Unfortunate Pattern [Update]](https://www.youtube.com/watch?v=rKjce1jCxSM)**
+
+It can be tough to be objective in Bitcoin bear markets, especially during countertrend rallies. In this video we look at stablecoin ...
 
 📺 Benjamin Cowen
 
-👁️ 95K • 👍 6K • 💬 280 • ⏱️ 15:27 • 1d ago
+👁️ 37K • 👍 3K • 💬 159 • ⏱️ 30:12 • 7h ago
+
+---
+
+**[This Bitcoin On-Chain Metric Just Flashed – What It Means for 2026 with James &quot;Checkmatey&quot;](https://www.youtube.com/watch?v=M4RPTungLqs)**
+
+On-chain analyst James Check (Checkmate) breaks down Bitcoin's blockchain data like never before, revealing what smart ...
+
+📺 Natalie Brunell
+
+👁️ 24K • 👍 1K • 💬 142 • ⏱️ 49:25 • 21h ago
+
+---
+
+**[CAUTION: This Bitcoin TRAP Is Almost Set! [How I’m Playing It]](https://www.youtube.com/watch?v=csic_Jca3h4)**
+
+Kyledoops has outlined the potential for a Bitcoin trap to occur by the 18th of March. In today's video he shows you the probability ...
+
+📺 Crypto Banter
+
+👁️ 18K • 👍 1K • 💬 19 • ⏱️ 25:20 • 1d ago
+
+---
+
+**[Bitcoin BTC Chart Analysis - Has Bitcoin Formed an Impulse? Elliott Wave Analysis](https://www.youtube.com/watch?v=e3Rd9PHFuLQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Bitcoin (BTC), focusing on market structure, key support ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 202 • 💬 2 • ⏱️ 4:43 • 3h ago
 
 ---
 
