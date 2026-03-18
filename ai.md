@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-18T19:01:52.808039+00:00'
+updated: '2026-03-18T19:59:10.245551+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 18, 2026 at 19:01 UTC  
+**Last Updated:** March 18, 2026 at 19:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Last week's post about Meta buying Moltbook got a lot of discussion here. I think most of the coverage (and the comments) missed what Meta is actually doing with it. I read a lot of patent filings because LLMs make them surprisingly accessible now, and one filed by Meta's CTO Andrew Bosworth connects directly to the Moltbook acquisition in a way I haven't seen anyone talk about. In December 2025, Meta was granted patent US 12513102B2 for a system that trains a language model on a user's historical interactions (posts, comments, likes, DMs, voice messages) and deploys it to simulate that user's social media behavior autonomously. The press covered it as "Meta wants to post for you after you die." The actual patent text describes simulating any user who is "absent from the social networking system," which includes breaks, inactivity, or death. The deceased framing is a broadening mechanism for the claims. What they built is a personalized LLM that maintains engagement on behalf of any user, for any reason. Now layer in the acquisitions. December 2025: Meta buys Manus for over $2 billion. General-purpose AI agent platform, hit $100M ARR eight months after launch. Meta said they'd integrate it into their consumer and business products. March 2026: The Moltbook acqui-hire. Matt Schlicht and Ben Parr join Meta Superintelligence Labs. What most coverage left out is their background. Schlicht and Parr co-founded Octane AI, a conversational commerce platform that automated personalized customer interactions for Shopify merchants via Messenger and SMS. They've been building AI-driven business communication tools since 2016. I think these three moves are connected. The "digital ghost" and "AI agents chatting with each other" framings are both wrong. Bosworth himself said in an Instagram Q&A that he didn't find Moltbook's agent conversations particularly interesting. So why buy it? Because Meta is building infrastructure for AI agents that act on behalf of businesses across their platforms. The small business owner spending hours managing their Facebook and Instagram presence is the real target user. The e-commerce brand running customer conversations through WhatsApp is the real target user. The patent gives them the IP foundation, Manus gives them the agent platform, and the Schlicht/Parr hire gives them the team that spent a decade figuring out how to make this work commercially. I'll be honest about the limits of reading patent tea leaves. Companies file for all kinds of reasons and most aren't strategic. Engineers get bonuses for filings. Legal teams build portfolios for cross-licensing leverage. Reading a single patent as a roadmap is a mistake I've made before. But a patent plus $2B in acquisitions plus an acqui-hire of people who built a related product for a decade starts to look like a pattern. Anyone here have a different read? Especially curious if anyone on Meta's business tools side sees this differently.
 
-10h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Last week's post about Meta buying Moltbook got a lot of discussion here. I thin
 
 Russia aids Iran against U.S. ships. Oil surges 50%. Joe Kent resigns. DOGE cuts grants via AI. Trump creates a secret database. Hawley targets mifepristone. Vance leads fraud task force.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/a-new-exoskeleton#story-the-pentagon-is-developing-its-own-llms) • 7h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/a-new-exoskeleton#story-the-pentagon-is-developing-its-own-llms) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Russia aids Iran against U.S. ships. Oil surges 50%. Joe Kent resigns. DOGE cuts
 
 Agency laundering describes how individuals or groups use technical systems to escape moral blame. This process involves shifting a choice to a computer or a complex rule set. The person in charge blames the technology when a negative event occurs. This masks the human origin of the decision. It functions as a shield against criticism. A business might use an algorithm to screen job seekers. Owners claim the machine is objective even if the system behaves with bias. They hide their own role in the setup of that system. Judges also use software to predict crime risks. They might follow the machine without question to avoid personal responsibility for a sentence. Such actions create a vacuum of responsibility. It is difficult to seek justice when no person takes ownership of the result. Humans use these structures to deny their own power to make changes. This undermines trust in modern society.
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Agency laundering describes how individuals or groups use technical systems to e
 
 AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 2h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI companies are turning to quadruped robots, better known as “robot dogs” f
 
 The CEO says artistic control remains with developers.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 20h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 21h ago
 
 ---
 
@@ -81,7 +81,7 @@ The CEO says artistic control remains with developers.
 
 Or has it created new opportunities, increased productivity, or had no influence at all. And do you expect it to in the future?
 
-13h ago
+14h ago
 
 ---
 
@@ -97,7 +97,7 @@ I work as a developer, and before this I was copium about AI, it was a form of s
 
 I’ve been looking into AI governance for my company recently so wanted to share some of my findings. Apparently PwC put out a report saying 72% of companies have absolutely zero formal AI policy. For startups and small agencies i guess it would probably reach 90%? Even if you’re only a 5-person team, doing nothing is starting to become a liability. Without rules, someone would eventually paste client data, financials, or proprietary code into ChatGPT to save time. Most of these tools train on user inputs, that’s a trouble waiting to happen. You don’t need a 20-page legal manifesto. A basic 3-page Google Doc is plenty. It just needs to cover: Which specific AI tools are approved for work. A Red / Yellow / Green framework for what data can and cannot be pasted into them. Rules for when AI-generated content must be disclosed to clients. Who is in charge of approving new tools. Consequences for violating the policy. Obviously, have a lawyer glance at it before you finalize anything, especially if you handle sensitive data but even writing a DIY version using the bullet points above is 100x better than having nothing.
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ I’ve been looking into AI governance for my company recently so wanted to shar
 
 Documenting reported cases of AI-induced psychological harm — dependency, delusion, identity confusion, and reality distortion. Updated weekly.
 
-🔗 [aipsychosis.watch](https://aipsychosis.watch) • 13h ago
+🔗 [aipsychosis.watch](https://aipsychosis.watch) • 14h ago
 
 ---
 
@@ -137,7 +137,7 @@ blog.google • 1d ago
 
 **[A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?](https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
@@ -145,7 +145,7 @@ Reuters • 15h ago
 
 The company says the proliferation of AI has enabled people to upload fake songs to streaming sites.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ BBC • 1h ago
 
 MENLO PARK, Calif. – March 18, 2026 – Snowflake (NYSE: SNOW), the AI Data Cloud company, today announced the research preview of Project SnowWork, a new autonomous enterprise AI platform designed to help business users massively accelerate workflows.
 
-Snowflake • 58m ago
+Snowflake • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Variety • 4h ago
 
 As Deep As the Grave, the true story of 1920s archeologists, will bring late actor back with support from his estate
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 2h ago
 
 A year after the actor’s death, a generative AI version of Val Kilmer will co-star in an independent film.
 
-AP News • 2h ago
+AP News • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ AP News • 2h ago
 
 The tech giant said its core business core provided it with the resources to fund increasing investments in AI.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNBC • 9h ago
 
 Use AI as a brainstorming partner and organizer, but don’t outsource your judgment
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Guardian • 2h ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 685 • 💬 174 • 21h ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 685 • 💬 174 • 22h ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -229,7 +229,7 @@ NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose
 
 A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.
 
-⬆️ 163 • 💬 44 • 3h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+⬆️ 163 • 💬 44 • 4h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 
 ---
 
@@ -237,7 +237,7 @@ A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed
 
 We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
 
-⬆️ 162 • 💬 104 • 21h ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+⬆️ 162 • 💬 104 • 22h ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -263,7 +263,7 @@ GambleAI
 
 I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...
 
-⬆️ 131 • 💬 128 • 1h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
+⬆️ 131 • 💬 128 • 2h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
 
 ---
 
@@ -289,7 +289,7 @@ Dave Rubin of "The Rubin Report" shares a DM clip of Elon Musk explaining to Pet
 
 📺 The Rubin Report
 
-👁️ 179K • 👍 5K • 💬 2K • ⏱️ 6:24 • 23h ago
+👁️ 179K • 👍 5K • 💬 2K • ⏱️ 6:24 • 1d ago
 
 ---
 
@@ -339,7 +339,7 @@ Warehouse workers in Las Vegas told 8 News Now they were suddenly laid off, and 
 
 📺 8 News Now — Las Vegas
 
-👁️ 25K • 👍 394 • 💬 304 • ⏱️ 2:53 • 18h ago
+👁️ 25K • 👍 394 • 💬 304 • ⏱️ 2:53 • 19h ago
 
 ---
 
@@ -359,7 +359,7 @@ Nvidia's GTC 2026 keynote just dropped some massive AI hardware reveals! From th
 
 📺 Theoretically Media
 
-👁️ 23K • 👍 968 • 💬 151 • ⏱️ 11:59 • 21h ago
+👁️ 23K • 👍 968 • 💬 151 • ⏱️ 11:59 • 22h ago
 
 ---
 
@@ -664,7 +664,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.4k • 🔱 1.0k • 1m ago
+⭐ 21.4k • 🔱 1.0k • 58m ago
 
 ---
 
@@ -674,7 +674,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.6k • 🔱 1.5k • 3h ago
+⭐ 12.6k • 🔱 1.5k • 4h ago
 
 ---
 
@@ -684,7 +684,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.0k • 🔱 1.0k • 19h ago
+⭐ 11.0k • 🔱 1.0k • 20h ago
 
 ---
 
@@ -704,7 +704,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.6k • 🔱 414 • 5h ago
+⭐ 8.6k • 🔱 414 • 6h ago
 
 ---
 
@@ -724,7 +724,7 @@ Open-source database of 700+ cybersecurity skills for AI agents and security pra
 
 `Python` `agent-skills` `ai-agents` `blue-team` `claude` `claude-code`
 
-⭐ 3.4k • 🔱 328 • 20h ago
+⭐ 3.4k • 🔱 328 • 21h ago
 
 ---
 
