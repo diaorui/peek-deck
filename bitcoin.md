@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-18T09:56:34.481007+00:00'
+updated: '2026-03-18T10:55:09.435103+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 09:56 UTC  
+**Last Updated:** March 18, 2026 at 10:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse](https://www.reddit.com/r/Bitcoin/comments/1rws63p/farm_in_the_netherlands_uses_bitcoin_mining_to/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized shitcoins, straight BTC. It eventuelly makes sense. AI agents need a payment layer with no counterparty risk, no geography, and no permissions required. Bitcoin was built for exactly that.
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized s
 
 Interestingly my first thought was an eye roll. “Mom you barely know how to use your phone. Why?” Then her very next question was “well just explain to me simply what it is”. So I did. Simply. And she said she wants some. I thought, wow, this is amazing. Retail is back 😂 Jokes aside, this really is a great indicator in my personal life of Bitcoin’s baby steps into a mainstream average person adoption.
 
-14h ago
+15h ago
 
 ---
 
@@ -103,13 +103,13 @@ Interestingly my first thought was an eye roll. “Mom you barely know how to us
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ovXhuUD68QY) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ovXhuUD68QY) • 6h ago
 
 ---
 
 **[Wow! This great Bitcoin post on the front page of Reddit right now (NP link).](https://www.reddit.com/r/Bitcoin/comments/1rwi3su/wow_this_great_bitcoin_post_on_the_front_page_of/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -117,7 +117,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework
 
-23h ago
+1d ago
 
 ---
 
@@ -125,13 +125,13 @@ Additional source: https://www.coindesk.com/markets/2026/03/16/australian-senate
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
 **[From nearly zero in 2017 to ~1.2 million BTC held by 50+ public companies by 2025.](https://www.reddit.com/r/Bitcoin/comments/1rw6xls/from_nearly_zero_in_2017_to_12_million_btc_held/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -139,7 +139,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
 
-18h ago
+19h ago
 
 ---
 
@@ -147,7 +147,7 @@ https://squareup.com/us/en/legal/general/square-bitcoin-alpha-terms
 
 Currently, BTC is not just a store of value, but at the moment also a very strong value grower. Thats why many people use BTC as a value grower like you would use a diversified index fund. Many people don't just use BTC to only keep their purchasing power - they can also benefit from real purchasing power increase because they are still early. I think once bitcoin gets more adapted worldwide and gets worth multiple millions per coin in the next decades, this purchase power increasing trend will slowly fade away, its value will remain more stable, so thats when it will just be a store of value. Thats the moment BTC won't get used like an index fund anymore, people in the future will have to invest in stocks (more risky) if they want to increase their purchase power instead of just keeping it. If they just want to keep their purchasing power without risk, BTC will be for them. But thats not the time we are living in right now, at the moment BTC still has big chances to multiply your purchase power.
 
-14h ago
+15h ago
 
 ---
 
@@ -159,7 +159,7 @@ Currently, BTC is not just a store of value, but at the moment also a very stron
 
 Hot PPI inflation data in the morning and hawkish remarks by Powell in the afternoon would be the most damaging combination for risk assets, including crypto, Bitfinex analysts said.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 1d ago
 
 Capital flows are telling a certain story, but it might deceive you.
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 36m ago
 
 SEC Chair Paul Atkins said the new securities guidance, which impacts "most crypto assets," provides "clear lines in clear terms."
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -189,13 +189,13 @@ Yahoo Finance • 13h ago
 
 Bitcoin remains stuck near key resistance around $75,000, leaving the broader market in limbo.
 
-CoinDesk • 26m ago
+CoinDesk • 1h ago
 
 ---
 
 **[US securities regulator issues long-awaited crypto guidance](https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
@@ -203,7 +203,7 @@ Reuters • 13h ago
 
 Market momentum returns, and so does the million-dollar Bitcoin conversation.
 
-thestreet.com • 19h ago
+thestreet.com • 20h ago
 
 ---
 
@@ -211,7 +211,7 @@ thestreet.com • 19h ago
 
 The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
 
-Investopedia • 12h ago
+Investopedia • 13h ago
 
 ---
 
@@ -219,7 +219,7 @@ Investopedia • 12h ago
 
 Code is law, some say. That doesn't mean normal laws do not apply.
 
-Gizmodo • 11h ago
+Gizmodo • 12h ago
 
 ---
 
@@ -237,7 +237,7 @@ Seeking Alpha • 1d ago
 
 Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No third party required. Free and open source.
 
-⬆️ 1 • 💬 1 • 1h ago • [psicommit.com](https://psicommit.com/)
+⬆️ 1 • 💬 1 • 2h ago • [psicommit.com](https://psicommit.com/)
 
 ---
 
@@ -273,7 +273,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Open archive of autonomous scientific discovery experiments.
 
-⬆️ 1 • 💬 2 • 11h ago • [protoscience.ai](https://protoscience.ai)
+⬆️ 1 • 💬 2 • 12h ago • [protoscience.ai](https://protoscience.ai)
 
 ---
 
@@ -287,13 +287,13 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)](https://news.ycombinator.com/item?id=47421489)**
 
-⬆️ 6 • 💬 0 • 5h ago
+⬆️ 6 • 💬 0 • 6h ago
 
 ---
 
 **[Citcon: AI – Helsinki](https://news.ycombinator.com/item?id=47422870)**
 
-⬆️ 1 • 💬 0 • 1h ago • [citconf.com](https://citconf.com/helsinki2026/)
+⬆️ 1 • 💬 0 • 2h ago • [citconf.com](https://citconf.com/helsinki2026/)
 
 ---
 
@@ -307,7 +307,7 @@ The truth about Bitcoin in 2026, Iran, Ethereum, and altcoins! BITUNIX TRADE THE
 
 📺 Lark Davis
 
-👁️ 21K • 👍 996 • 💬 72 • ⏱️ 16:02 • 22h ago
+👁️ 21K • 👍 996 • 💬 72 • ⏱️ 16:02 • 23h ago
 
 ---
 
@@ -317,7 +317,7 @@ A silent shift is happening in Bitcoin and most people are missing it. With over
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 464 • 💬 47 • ⏱️ 59:29 • 15h ago
+👁️ 9K • 👍 464 • 💬 47 • ⏱️ 59:29 • 16h ago
 
 ---
 
@@ -327,7 +327,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 165 • ⏱️ 36:40 • 19h ago
+👁️ 18K • 👍 1K • 💬 165 • ⏱️ 36:40 • 20h ago
 
 ---
 
@@ -347,7 +347,7 @@ There are several reasons retailers don't accept Bitcoin as payment. #shorts #bi
 
 📺 Cyber Scrilla
 
-👁️ 5K • 👍 257 • 💬 31 • ⏱️ 1:05 • 14h ago
+👁️ 5K • 👍 257 • 💬 31 • ⏱️ 1:05 • 15h ago
 
 ---
 
@@ -357,7 +357,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% d
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 383 • 💬 48 • ⏱️ 1:08 • 21h ago
+👁️ 9K • 👍 383 • 💬 48 • ⏱️ 1:08 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ It can be tough to be objective in Bitcoin bear markets, especially during count
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 3K • 💬 159 • ⏱️ 30:12 • 7h ago
+👁️ 37K • 👍 3K • 💬 159 • ⏱️ 30:12 • 8h ago
 
 ---
 
@@ -377,7 +377,7 @@ On-chain analyst James Check (Checkmate) breaks down Bitcoin's blockchain data l
 
 📺 Natalie Brunell
 
-👁️ 24K • 👍 1K • 💬 142 • ⏱️ 49:25 • 21h ago
+👁️ 24K • 👍 1K • 💬 142 • ⏱️ 49:25 • 22h ago
 
 ---
 
@@ -397,7 +397,7 @@ This video provides a professional Elliott Wave and technical analysis of Bitcoi
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 202 • 💬 2 • ⏱️ 4:43 • 3h ago
+👁️ 2K • 👍 202 • 💬 2 • ⏱️ 4:43 • 4h ago
 
 ---
 

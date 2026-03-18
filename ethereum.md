@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T09:56:34.486574+00:00'
+updated: '2026-03-18T10:55:09.441086+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 09:56 UTC  
+**Last Updated:** March 18, 2026 at 10:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
 **[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
 
-🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 7h ago
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 8h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 20h ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 21h ago
 
 ---
 
@@ -102,7 +102,7 @@ Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Determinist
 
 EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
 
-1h ago
+2h ago
 
 ---
 
@@ -118,7 +118,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Ethereum is setting up for a post-stewardship world
 
-🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 19h ago
+🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 20h ago
 
 ---
 
@@ -154,7 +154,7 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 1d ago
 
 KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
 
-USA Today • 19h ago
+USA Today • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ BMNR is quietly building one of the largest Ethereum positions in the world, now
 
 📺 The Value Thinker
 
-👁️ 11K • 👍 651 • 💬 92 • ⏱️ 15:13 • 21h ago
+👁️ 11K • 👍 651 • 💬 92 • ⏱️ 15:13 • 22h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 205 • ⏱️ 15:11 • 8h ago
+👁️ 5K • 👍 220 • 💬 205 • ⏱️ 15:11 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 4 • ⏱️ 5:05 • 9h ago
+👁️ 2K • 👍 138 • 💬 4 • ⏱️ 5:05 • 10h ago
 
 ---
 
@@ -296,7 +296,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 663 • 💬 140 • ⏱️ 12:03 • 4h ago
+👁️ 3K • 👍 663 • 💬 140 • ⏱️ 12:03 • 5h ago
 
 ---
 
@@ -316,7 +316,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 152 • 💬 24 • ⏱️ 1:00:34 • 22h ago
+👁️ 4K • 👍 152 • 💬 24 • ⏱️ 1:00:34 • 23h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 134 • 💬 5 • ⏱️ 5:30 • 20h ago
+👁️ 2K • 👍 134 • 💬 5 • ⏱️ 5:30 • 21h ago
 
 ---
 

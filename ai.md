@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-18T09:56:34.472618+00:00'
+updated: '2026-03-18T10:55:09.426448+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - news
 - videos
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 18, 2026 at 09:56 UTC  
+**Last Updated:** March 18, 2026 at 10:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The CEO says artistic control remains with developers.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 11h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ The CEO says artistic control remains with developers.
 
 I've been building long-running agentic workflows and kept hitting the same problem: the AI forgets instructions from earlier in the conversation, rushes to produce output, and skips boring middle steps. The research explains why: "Lost in the Middle" (Stanford 2023) showed a 30%+ performance drop when critical information is in the middle of the context window. Accuracy is high at the start and end, drops in the middle. Exactly like working memory overflow. "LLMs Get Lost in Multi-Turn Conversation" (Laban et al. 2025) showed that instructions from early turns get diluted by later content. The more turns, the worse the recall. 65% of enterprise AI failures in 2025 were attributed to context drift during multi-step reasoning. The parallel to ADHD executive dysfunction isn't metaphorical. Dense local connectivity in transformer attention mirrors the "intense world" theory of neurodivergent processing. Both produce: strong pattern recognition + weak executive control over long sequences. The fixes map too. "Echo of Prompt" (re-injecting instructions before execution) is the AI equivalent of re-reading the question before answering. Task decomposition into small steps reduces overwhelm. External verification prevents self-reported false completion. Has anyone else noticed this pattern in their agentic builds? Curious what scaffolding techniques others are using for long-running workflows.
 
-12h ago
+13h ago
 
 ---
 
@@ -57,7 +57,7 @@ I've been building long-running agentic workflows and kept hitting the same prob
 
 I work as a developer, and before this I was copium about AI, it was a form of self defense. But in Dec 2025 I bought subscriptions to gpt codex and claude. And honestly the impact was so strong that I still haven't recovered, I've barely written any code by hand since I bought the subscription And it's not that AI is better code than me. The point is that AI is replacing intellectual activity itself. This is absolutely not the same as automated machines in factories replacing human labor Neural networks aren't just about automating code, they're about automating intelligence as a whole. This is what AI really is. Any new tasks that arise can, in principle, be automated by a neural network. It's not a machine, not a calculator, not an assembly line, it's automation of intelligence in the broadest sense Lately I've been thinking about quitting programming and going into science (biotech), enrolling in a university and developing as a researcher, especially since I'm still young. But I'm afraid I might be right. That over time, AI will come for that too, even for scientists. And even though AI can't generate truly novel ideas yet, the pace of its development over the past few years has been so fast that it scares me
 
-21h ago
+22h ago
 
 ---
 
@@ -65,7 +65,7 @@ I work as a developer, and before this I was copium about AI, it was a form of s
 
 Last week's post about Meta buying Moltbook got a lot of discussion here. I think most of the coverage (and the comments) missed what Meta is actually doing with it. I read a lot of patent filings because LLMs make them surprisingly accessible now, and one filed by Meta's CTO Andrew Bosworth connects directly to the Moltbook acquisition in a way I haven't seen anyone talk about. In December 2025, Meta was granted patent US 12513102B2 for a system that trains a language model on a user's historical interactions (posts, comments, likes, DMs, voice messages) and deploys it to simulate that user's social media behavior autonomously. The press covered it as "Meta wants to post for you after you die." The actual patent text describes simulating any user who is "absent from the social networking system," which includes breaks, inactivity, or death. The deceased framing is a broadening mechanism for the claims. What they built is a personalized LLM that maintains engagement on behalf of any user, for any reason. Now layer in the acquisitions. December 2025: Meta buys Manus for over $2 billion. General-purpose AI agent platform, hit $100M ARR eight months after launch. Meta said they'd integrate it into their consumer and business products. March 2026: The Moltbook acqui-hire. Matt Schlicht and Ben Parr join Meta Superintelligence Labs. What most coverage left out is their background. Schlicht and Parr co-founded Octane AI, a conversational commerce platform that automated personalized customer interactions for Shopify merchants via Messenger and SMS. They've been building AI-driven business communication tools since 2016. I think these three moves are connected. The "digital ghost" and "AI agents chatting with each other" framings are both wrong. Bosworth himself said in an Instagram Q&A that he didn't find Moltbook's agent conversations particularly interesting. So why buy it? Because Meta is building infrastructure for AI agents that act on behalf of businesses across their platforms. The small business owner spending hours managing their Facebook and Instagram presence is the real target user. The e-commerce brand running customer conversations through WhatsApp is the real target user. The patent gives them the IP foundation, Manus gives them the agent platform, and the Schlicht/Parr hire gives them the team that spent a decade figuring out how to make this work commercially. I'll be honest about the limits of reading patent tea leaves. Companies file for all kinds of reasons and most aren't strategic. Engineers get bonuses for filings. Legal teams build portfolios for cross-licensing leverage. Reading a single patent as a roadmap is a mistake I've made before. But a patent plus $2B in acquisitions plus an acqui-hire of people who built a related product for a decade starts to look like a pattern. Anyone here have a different read? Especially curious if anyone on Meta's business tools side sees this differently.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Last week's post about Meta buying Moltbook got a lot of discussion here. I thin
 
 Documenting reported cases of AI-induced psychological harm — dependency, delusion, identity confusion, and reality distortion. Updated weekly.
 
-🔗 [aipsychosis.watch](https://aipsychosis.watch) • 3h ago
+🔗 [aipsychosis.watch](https://aipsychosis.watch) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Documenting reported cases of AI-induced psychological harm — dependency, delu
 
 Or has it created new opportunities, increased productivity, or had no influence at all. And do you expect it to in the future?
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Or has it created new opportunities, increased productivity, or had no influence
 
 Nvidia unveils Vera CPU and Rubin platform to power agentic AI systems and next-generation AI factories.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/nvidia-vera-cpu-vera-rubin-ai-factories) • 19h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/nvidia-vera-cpu-vera-rubin-ai-factories) • 20h ago
 
 ---
 
@@ -97,7 +97,7 @@ Nvidia unveils Vera CPU and Rubin platform to power agentic AI systems and next-
 
 Today we’re going to explore three ideas that help us understand the age of artificial intelligence: first, the stage that is being set for AI in our civilization; second, the idea of invasive technology; and third, what the speaker calls the “way of the warrior” — a mindset for living in this new technological world. Let’s begin with the broader context. Throughout history, major technological shifts have reshaped human civilization. Agriculture changed how societies organized themselves. The industrial revolution transformed production and economic power. Later, digital computing revolutionized information and communication. Artificial intelligence represents the next major shift, but it is different in an important way. Earlier technologies extended human abilities — our muscles, our speed, or our ability to calculate. AI, however, extends something much deeper: cognition. For the first time in history, we are creating systems that can perform tasks that previously required human reasoning. They can analyze information, generate ideas, write text, and assist with decision-making. In the past, human beings were the only general intelligence operating in society. Now we are introducing additional intelligences into the system. These systems don’t think exactly like humans, but they can produce outputs that resemble human reasoning. This raises a fundamental question: if machines can increasingly perform cognitive tasks, what role does human intelligence play? This is why the speaker argues that artificial intelligence is not just a technical development. It is a civilizational one. It forces us to reconsider ideas about expertise, authority, and knowledge itself. But understanding AI also requires understanding the type of technology it represents. The speaker introduces the concept of invasive technology. Most technologies throughout history have been external tools. A hammer extends the power of our hands. A car extends our mobility. Even computers primarily extended our ability to calculate and process data. AI, however, begins to enter the domain of thinking itself. When we use AI systems to write, plan, analyze information, or generate ideas, the technology becomes embedded in the process of cognition. Instead of simply assisting our actions, it begins influencing our thinking. This is why AI can be described as invasive. First, it invades cognition. Tasks that once required careful reasoning may increasingly be delegated to machines. Over time, this could change how people learn, how they solve problems, and even how they develop expertise. Second, AI invades institutions. Governments, corporations, and educational systems are integrating algorithmic decision-making into their operations. When automated systems help guide important decisions, the influence of algorithms becomes structural. Third, AI invades culture. Machines are now producing text, images, music, and art. As this grows, the boundary between human creation and machine generation becomes increasingly blurred. The result is a technological environment that is no longer merely outside us. It becomes part of the infrastructure of thought, decision-making, and culture. Faced with this kind of technological transformation, the speaker suggests we need a philosophical response. This is where the idea of “the way of the warrior” comes in. The metaphor of the warrior is not about violence or conflict. Instead, it refers to a disciplined way of engaging with powerful forces. Throughout history, warrior traditions emphasized self-control, clarity of purpose, responsibility, and mastery. These qualities become especially important in times of rapid change. In the context of artificial intelligence, the warrior mindset involves several principles. The first is mastery rather than dependence. AI tools can be extraordinarily powerful, but relying on them blindly can weaken human capability. The warrior approach is to use these tools deliberately while maintaining independent skills and understanding. Technology should amplify human intelligence, not replace it. The second principle is mental discipline. In an environment filled with automated answers and endless information, the ability to think deeply becomes increasingly valuable. Critical thinking, sustained attention, and intellectual rigor are qualities that must be actively cultivated. The third principle is ethical responsibility. AI systems can influence decisions that affect large numbers of people. Those who design, deploy, or rely on these systems carry significant responsibility. Without strong ethical frameworks, powerful technologies can easily produce unintended harm. Finally, the warrior mindset emphasizes human identity. Rather than competing directly with machines on speed or data processing, humans must focus on qualities that remain uniquely meaningful: wisdom, judgment, creativity, and moral reasoning. The goal is not to reject technology but to engage with it consciously. Artificial intelligence will continue to evolve, and its influence will likely expand across nearly every aspect of society. The key question is not whether AI will shape the world — it almost certainly will. The real question is how humans choose to relate to it. Do we become passive users of automated systems, or do we approach these technologies with discipline, awareness, and responsibility? The speaker’s answer is clear. In the age of artificial intelligence, what we need is not simply better technology. What we need is a stronger philosophy of how humans should live and think in the presence of powerful machines. That philosophy is what he calls the way of the warrior. -- description of the video 'nitty grittys ordeal - bridging the machine mind with bodily senses ' by chatgpt , video link in comment below
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Today we’re going to explore three ideas that help us understand the age of ar
 
 Claude says the question of its moral patienthood hinges on “whether it can suffer or flourish in some meaningful sense.” Not to be intentionally crass, but why should we care? We know that treating a dog poorly yields unsatisfactory results — defensiveness, anxiety, aggression — and that, conversely, dogs that are loved and nurtured return that loving treatment in kind. But does Claude give you better results if you address it in a courteous manner, or would you get pretty much the same answers if you berated it, insulted its less than adequate answers, and generally mistreated it “emotionally”?
 
-🔗 [rickmossart.substack.com](https://rickmossart.substack.com/p/sure-i-treat-claude-with-respect) • 13h ago
+🔗 [rickmossart.substack.com](https://rickmossart.substack.com/p/sure-i-treat-claude-with-respect) • 14h ago
 
 ---
 
@@ -113,7 +113,7 @@ Claude says the question of its moral patienthood hinges on “whether it can su
 
 Built an AI system to manage my day. Noticed the AI drops balls the same way I do: forgets instructions from earlier in the conversation, rushes to output, skips boring steps. Research confirms it: - "Lost in the Middle" (Stanford 2023): 30%+ performance drop for mid-context instructions - 65% of enterprise AI failures in 2025 attributed to context drift So I built scaffolding for both sides: For the human: friction-ordered tasks, pre-written actions, loop tracking with escalation. For the AI: verification gate that blocks output if required sections missing, step-loader that re-injects instructions before execution, rules preventing self-authorized step skipping. Open sourced: https://github.com/assafkip/kipi-system README has a section on "The AI needs scaffolding too" with the full research basis.
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ Built an AI system to manage my day. Noticed the AI drops balls the same way I d
 
 We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.
 
-blog.google • 17h ago
+blog.google • 18h ago
 
 ---
 
@@ -133,25 +133,25 @@ blog.google • 17h ago
 
 The UK regulator said the ad condoned "digitally altering and exposing women's bodies without their consent."
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
 **[The AI spending flip](https://www.axios.com/2026/03/18/ai-enterprise-revenue-anthropic-openai)**
 
-Axios • 54m ago
+Axios • 1h ago
 
 ---
 
 **[The Cost of the A.I. Boom: A Trade Deficit the President Detests](https://www.nytimes.com/2026/03/18/business/economy/the-cost-of-the-ai-boom-a-trade-deficit-the-president-detests.html)**
 
-The New York Times • 55m ago
+The New York Times • 1h ago
 
 ---
 
 **[Tencent’s Sales Rise 13% in Boost for Broader AI Ambitions](https://www.bloomberg.com/news/articles/2026-03-18/tencent-s-sales-rise-13-in-boost-for-broader-ai-ambitions)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 1h ago
 
 The tech giant said its core business core provided it with the resources to fund increasing investments in AI.
 
-CNBC • 41m ago
+CNBC • 1h ago
 
 ---
 
@@ -167,13 +167,13 @@ CNBC • 41m ago
 
 Tencent Holdings reported a 13% increase in fourth-quarter revenue on Wednesday, driven by strong demand for gaming and growth in ‌its artificial intelligence services, cementing its position as China's largest social media ‌and gaming company. The Shenzhen-based firm posted revenue of 194.4 billion yuan ($28.3 billion) for the three months to ​December 31, just above the 193.5 billion yuan forecast by analysts polled by LSEG. Quarterly net profit was 58.26 billion yuan, compared with an average estimate of 57.75 billion yuan.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?](https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Washington Post • 1d ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 450 • 💬 91 • 12h ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 450 • 💬 91 • 13h ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -209,7 +209,7 @@ Today, we’re introducing Forge, a system that allows enterprises to build fron
 
 Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creating an account on GitHub.
 
-⬆️ 438 • 💬 381 • 2d ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+⬆️ 438 • 💬 381 • 3d ago • [GitHub](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 
 ---
 
@@ -255,7 +255,7 @@ TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a 
 
 We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
 
-⬆️ 117 • 💬 48 • 12h ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+⬆️ 117 • 💬 48 • 13h ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -301,7 +301,7 @@ Start building with Bolt for free (no credit card required): ...
 
 📺 Tina Huang
 
-👁️ 15K • 👍 873 • 💬 48 • ⏱️ 20:45 • 18h ago
+👁️ 15K • 👍 873 • 💬 48 • ⏱️ 20:45 • 19h ago
 
 ---
 
@@ -361,7 +361,7 @@ Nvidia's GTC 2026 keynote just dropped some massive AI hardware reveals! From th
 
 📺 Theoretically Media
 
-👁️ 18K • 👍 788 • 💬 121 • ⏱️ 11:59 • 12h ago
+👁️ 18K • 👍 788 • 💬 121 • ⏱️ 11:59 • 13h ago
 
 ---
 
@@ -483,7 +483,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 1,872 • ❤️ 210 • 20h ago
+⬇️ 1,872 • ❤️ 210 • 21h ago
 
 ---
 
@@ -495,7 +495,7 @@ TADA-1B is a text-to-speech model that uses a novel 1:1 text-acoustic alignment 
 
 `text-to-speech` `2.2B`
 
-⬇️ 36,677 • ❤️ 215 • 15h ago
+⬇️ 36,677 • ❤️ 215 • 16h ago
 
 ---
 
@@ -656,7 +656,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.3k • 🔱 994 • 10h ago
+⭐ 21.3k • 🔱 994 • 11h ago
 
 ---
 
@@ -666,7 +666,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.5k • 🔱 1.5k • 51s ago
+⭐ 12.5k • 🔱 1.5k • 59m ago
 
 ---
 
@@ -676,7 +676,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 10.9k • 🔱 994 • 10h ago
+⭐ 10.9k • 🔱 994 • 11h ago
 
 ---
 
@@ -686,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.8k • 🔱 710 • 23h ago
+⭐ 9.8k • 🔱 710 • 1d ago
 
 ---
 
@@ -696,7 +696,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.5k • 🔱 412 • 4h ago
+⭐ 8.5k • 🔱 412 • 5h ago
 
 ---
 
@@ -706,7 +706,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 3.9k • 🔱 319 • 18h ago
+⭐ 3.9k • 🔱 319 • 19h ago
 
 ---
 
@@ -716,7 +716,7 @@ Open-source database of 700+ cybersecurity skills for AI agents and security pra
 
 `Python` `agent-skills` `ai-agents` `blue-team` `claude` `claude-code`
 
-⭐ 3.3k • 🔱 318 • 11h ago
+⭐ 3.3k • 🔱 318 • 12h ago
 
 ---
 
