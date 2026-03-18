@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T14:47:31.979242+00:00'
+updated: '2026-03-18T16:09:03.853625+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 14:47 UTC  
+**Last Updated:** March 18, 2026 at 16:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,239.50
+### $2,185.40
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** +6.5%  
-**30d:** +10.8%  
-**90d:** -26.0%  
-**1y:** +7.5%  
+**24h:** -6.8%  
+**7d:** +5.2%  
+**30d:** +9.5%  
+**90d:** -26.9%  
+**1y:** +6.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $269.95B
+**Market Cap:** $263.69B
 Rank #2
 
 **Circulating Supply:** 120,691,832 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.8%
+-55.8%
 
 **All-Time Low:** $0.43
-+516516.3%
++504511.1%
 
 ---
 
@@ -72,13 +72,21 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
 
 ---
 
 **[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
 
-🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 12h ago
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 13h ago
+
+---
+
+**[ETH Technical Update: Sharp Rejection from the Mid-Zone. Is the Trendline Enough to Save Us?](https://www.reddit.com/r/ethereum/comments/1rx7lnk/eth_technical_update_sharp_rejection_from_the/)**
+
+As we’ve been discussing, all eyes were on that mid-marked gray zone and the rising red trendline. We finally got our answer today, and it wasn't the one the bulls were hoping for. 1. The Rejection is Real We just saw a sharp rejection from the key support-turned-resistance zone (the gray box). For those following the chart, this was the "moment of truth" retest. The fact that ETH couldn't even poke its head back inside that box before being slapped down confirms that the bears are currently in control of that $2,300 - $2,400 range. 2. The Rising Trendline: The Last Line of Defense Now, the focus shifts entirely to the ascending trendline (the red line). This line has been the backbone of the ETH macro structure since 2022. Every time we’ve hit it in the past (marked by those circles), we’ve seen a massive bounce. We are currently drifting right back toward it. 3. The "Make or Break" Moment We are officially in a "Squeeze Play." The price is being compressed between the rejection zone above and the trendline support below. The Bull Case: We bounce off the red line (again) and consolidate for a second attempt at the gray box. The Bear Case: If that red line snaps, we likely lose the macro bullish structure, and things could get very thin, very fast. What’s your move? Are you setting buy orders at the trendline, or is the rejection from the gray zone a signal that there's much lower to go? Disclaimer: Just my personal analysis, not financial advice. DYOR! https://preview.redd.it/wpb43hczrtpg1.png?width=1814&format=png&auto=webp&s=4ba879738c0117720335460a04c2ee65f9269c9b
+
+17m ago
 
 ---
 
@@ -98,19 +106,19 @@ Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Determinist
 
 ---
 
-**[Ethereum Foundation incompetence](https://www.reddit.com/r/ethereum/comments/1rwyf2c/ethereum_foundation_incompetence/)**
-
-EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
-
-6h ago
-
----
-
 **[How safe is WBTC?](https://www.reddit.com/r/ethereum/comments/1rvwilj/how_safe_is_wbtc/)**
 
 Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about wrapped bitcoin (WBTC) on the ethereum chain, wondering if you guys are using it/what's your opinion on it?
 
 1d ago
+
+---
+
+**[Ethereum Foundation incompetence](https://www.reddit.com/r/ethereum/comments/1rwyf2c/ethereum_foundation_incompetence/)**
+
+EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
+
+7h ago
 
 ---
 
@@ -138,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[New EF Mandate signaling trustless sovereignty amid global instability?](https://www.reddit.com/r/ethereum/comments/1rv2sgz/new_ef_mandate_signaling_trustless_sovereignty/)**
-
-Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other people can't rug you; society can't rug you; your government can't rug you; another government can't rug you; corporations can't rug you." Trade wars escalating, institutional trust falling apart — and crypto has held decently through the worst of it so far. Blue chips bouncing off lows, ETH above $2,100 as of writing. A year ago this kind of global uncertainty would have sent crypto off a cliff. Starting to wonder if people are finally understanding what trustless sovereign money actually looks like when the systems around it are failing. The mandate feels like EF is leaning into exactly that moment. They're framing Ethereum as "sanctuary technology" and going hard on what they call CROPS — censorship resistance, open source, privacy, security — as non-negotiable properties. Not just another smart contract platform. Infrastructure for self-sovereignty in a world where the systems people have been trusting are breaking down. This framing feels different from anything EF has put out before. Is the market starting to price in a new narrative? Or am I reading too much into it? https://ethereum.foundation/ef-mandate.pdf
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,45 +154,21 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcUK2cg7nJwRRISK8Z5-XusPNS_PQaezcEc0BP1N58TE9I8OWawRDuX&gaa_ts=69babe6b&gaa_sig=AV8kx35nYg8iUINdKN5DLVq6eFYCT6DPW5CEsbS-w0Muj1NTcvwCF41U0iBbNdnIUcQ2QFy257MA_1OxpEU30g%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqf0szcZyNldZ4WuSM277GiL-REQVRG7TiRMOE6WjphndQcudp8j7cQn&gaa_ts=69bad189&gaa_sig=tIJadaozaI8uzYZT16q9BwoV5V-j1dGJ4WgMVRRbeIwH-HvwphncbfeJfj6RRtCQABPaPOLxFwbsL556MkNEbA%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine boosts Ethereum treasury near 4.6 million ETH as cryptos post ‘meaningful outperformance’ during Iran war](https://www.theblock.co/post/393747/tom-lees-bitmine-boosts-ethereum-treasury-near-4-6-million-eth-as-cryptos-post-meaningful-outperformance-during-iran-war)**
+**[SEC Reclassifies Bitcoin, Ethereum as Digital Commodities](https://www.chosun.com/english/market-money-en/2026/03/19/F5GGELFUC5GKRFEFQPUYNPQDLM/)**
 
-BitMine Chairman Tom Lee pointed to crypto's outperformance during tension in the Middle East as the firm accelerated Ethereum purchases.
+SEC Reclassifies Bitcoin, Ethereum as Digital Commodities Shift to CFTC oversight eases legal burdens; ETF approvals, staking rewards remain hurdles
 
-The Block • 2d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Deepens Ethereum and AI Bets Is Its Strategy Becoming Too Concentrated?](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-deepens-130831157.html)**
-
-In recent days, BitMine Immersion Technologies disclosed that it acquired 60,999 additional Ethereum tokens, bringing its holdings to about 4.60 million ETH, or just over 3.8% of the total supply, while also increasing its stake in Eightco Holdings, which owns equity in OpenAI. By combining one of the world’s largest Ethereum treasuries with growing indirect exposure to OpenAI and sizeable staking income, BitMine is tying its future to both the crypto ecosystem and artificial intelligence...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Why Bitmine Immersion Technologies Stock Rocked the Market on Monday](https://www.fool.com/investing/2026/03/16/why-bitmine-immersion-technologies-stock-rocked-th/)**
-
-Ethereum believers should take a look at this stock.
-
-The Motley Fool • 1d ago
-
----
-
-**[Inflows To Ethereum ETFs Hit Three-Week High](https://finance.yahoo.com/news/inflows-ethereum-etfs-hit-three-134300131.html)**
-
-Inflows to exchange-traded funds (ETFS) that track the spot price of Ethereum (CRYPTO: $ETH) attracted $138.2 milli...
-
-Yahoo Finance • 1h ago
+조선일보 • 30m ago
 
 ---
 
@@ -200,7 +176,15 @@ Yahoo Finance • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20m ago
+Fortune • 1h ago
+
+---
+
+**[Bitcoin, Ethereum Slip on Inflation Surprise as Oil Prices Jump](https://finance.yahoo.com/news/bitcoin-ethereum-slip-inflation-surprise-150540231.html)**
+
+Bitcoin fell alongside U.S. stocks after the world's largest gas field came under attack amid hotter-than-expected inflation data.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -222,7 +206,23 @@ CoinDesk • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are gearing up for the next leg higher on Wednesday after holding above key technical support levels earlier this week.
 
-FXStreet • 10h ago
+FXStreet • 12h ago
+
+---
+
+**[Ethereum Price Hits 6-Week High as Tom Lee's BitMine Reveals Latest ETH Buy](https://decrypt.co/361236/ethereum-price-6-week-high-tom-lee-bitmine-eth-buy)**
+
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added more ETH amid its climb to $2,300 for the first time in six weeks.
+
+Decrypt • 2d ago
+
+---
+
+**[KoreInside Launches Interoperability for Public Blockchains Such As Ethereum, Solana, Coinbase to Bring Real-World Asset (RWA) Enablement to the Masses](https://www.usatoday.com/press-release/story/28503/koreinside-launches-interoperability-for-public-blockchains-such-as-ethereum-solana-coinbase-to-bring-real-world-asset-rwa-enablement-to-the-masses/)**
+
+KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
+
+USA Today • 1d ago
 
 ---
 
@@ -236,7 +236,17 @@ Brian from Santiment joined me to review the crypto market metrics. We review on
 
 📺 Thinking Crypto
 
-👁️ 696 • 👍 96 • 💬 44 • ⏱️ 28:07 • 2h ago
+👁️ 2K • 👍 159 • 💬 71 • ⏱️ 28:07 • 4h ago
+
+---
+
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=5KPhA3g0Lrk)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 The Black Sheep Perspective
+
+👁️ 955 • 👍 1K • 25m ago
 
 ---
 
@@ -246,7 +256,17 @@ BMNR is quietly building one of the largest Ethereum positions in the world, now
 
 📺 The Value Thinker
 
-👁️ 11K • 👍 678 • 💬 81 • ⏱️ 15:13 • 1d ago
+👁️ 12K • 👍 691 • 💬 82 • ⏱️ 15:13 • 1d ago
+
+---
+
+**[BE READY FOR THIS!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=0oz5WM8-UlQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 215 • 👍 17 • 💬 1 • ⏱️ 4:15 • 5h ago
 
 ---
 
@@ -256,37 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 151 • 💬 5 • ⏱️ 5:05 • 14h ago
-
----
-
-**[BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7vm2HkGx3fI)**
-
-BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 242 • 💬 256 • ⏱️ 15:11 • 13h ago
-
----
-
-**[ETHEREUM About To Flash Signal That Preceded Every CRYPTO BULL RUN (CONFIRMATION AREA)](https://www.youtube.com/watch?v=KEHaW52ZEkM)**
-
-Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The oversold ...
-
-📺 Dan Gambardello
-
-👁️ 13K • 👍 769 • 💬 193 • ⏱️ 13:47 • 2d ago
-
----
-
-**[Bitcoin to $35 TRILLION? He&#39;s dead serious 💀](https://www.youtube.com/watch?v=Wl3GNK7iAiI)**
-
-Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
-
-📺 Altcoin Daily
-
-👁️ 2K • 👍 105 • 💬 50 • ⏱️ 1:14 • 2h ago
+👁️ 2K • 👍 160 • 💬 5 • ⏱️ 5:05 • 16h ago
 
 ---
 
@@ -300,33 +290,43 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 ---
 
+**[ETHEREUM About To Flash Signal That Preceded Every CRYPTO BULL RUN (CONFIRMATION AREA)](https://www.youtube.com/watch?v=KEHaW52ZEkM)**
+
+Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The oversold ...
+
+📺 Dan Gambardello
+
+👁️ 13K • 👍 769 • 💬 193 • ⏱️ 13:47 • 2d ago
+
+---
+
+**[BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7vm2HkGx3fI)**
+
+BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 252 • 💬 252 • ⏱️ 15:11 • 14h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 18 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=xnex9EXHOUI)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 4K • 👍 3K • 1h ago
+
+---
+
 **[🚨 BTC &amp; ETH: OH NO.... I HOPE I AM WRONG THIS TIME!!!!!!](https://www.youtube.com/watch?v=nU49NfIJs3k)**
 
 This data is not great for bitcoin, ethereum and the rest of crypto and the markets! Watch NOW!!!!! ---------- BYUSDT, earn while ...
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 39 • ⏱️ 8:58 • 2d ago
-
----
-
-**[Ethereum Foundation&#39;s New Mandate Has The Community Divided](https://www.youtube.com/watch?v=UpSP2j3WoWw)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ The Ethereum Foundation's ...
-
-📺 Bankless
-
-👁️ 4K • 👍 157 • 💬 24 • ⏱️ 1:00:34 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Guck dir an was in Bärenmärkten JETZT immer passiert!](https://www.youtube.com/watch?v=JLQCzo_0siE)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 4K • 👍 735 • 💬 146 • ⏱️ 12:03 • 9h ago
+👁️ 24K • 👍 3K • 💬 39 • ⏱️ 8:58 • 2d ago
 
 ---
 
