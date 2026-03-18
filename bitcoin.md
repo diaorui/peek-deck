@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-18T20:51:11.945327+00:00'
+updated: '2026-03-18T21:36:48.143969+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 20:51 UTC  
+**Last Updated:** March 18, 2026 at 21:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1420.75B
+**Market Cap:** $1425.10B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.7%
+-43.5%
 
 **All-Time Low:** $67.81
-+104644.1%
++104899.3%
 
 ---
 
@@ -93,7 +93,7 @@ I've been running my own umbrel node and staring at the mempool way too much. An
 
 **[Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse](https://www.reddit.com/r/Bitcoin/comments/1rws63p/farm_in_the_netherlands_uses_bitcoin_mining_to/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,7 @@ I've been running my own umbrel node and staring at the mempool way too much. An
 
 People who dismiss the 4 year cycle got a reality check. I think the power law dynamics are also equally true. For you to remain aware, I pulled the full Power Law dataset (2011–2026) and ran the numbers on what happens when Bitcoin trades at different distances from the model's fair value line. Current state: BTC price: ~$74K Power Law fair value: ~$124K Discount: −40% Power Law floor: ~$52K Corridor position: bottom quarter (deep in the undervalued zone) Every single time BTC has been 40%+ below Power Law fair value, it was higher one year later. 873 out of 873 days. The median gain was +174%. The last time BTC was this discounted was late 2022 / early 2023 — when it was trading around $16–20K and fair value was climbing through $30K+. The DCA problem in this context: If you're in the deep discount zone and you DCA from here, your effective entry drifts upward as BTC (presumably) mean-reverts toward fair value. At 40% annual growth (roughly what the Power Law FV line itself grows at), a 12-month DCA from $74K produces an effective entry around $85K. That's still below fair value, but you've given back a chunk of your discount. This is where all the loan guys come in this sub reddit. I'm not saying DCA is wrong. DCA is discipline, it removes timing risk, and it works. But if you believe the Power Law model, the data says you're in a historically rare window. DCA spreads your buys across this window and the (presumably higher-priced) future. Locking in now keeps your entire position in the discount zone. It's time to Lump sum BTC now!
 
-8h ago
+9h ago
 
 ---
 
@@ -109,7 +109,7 @@ People who dismiss the 4 year cycle got a reality check. I think the power law d
 
 Guys, this is next level disturbing. The letter obviously has my full name and home address in order to get delivered. The contents of the letter goes on about Trezor’s new “Authentication Code” going into effect here soon and to scan the QR code on the letter to activate it. It had all the legal mumble jumble and very official looking. Be safe out there everyone. Scammers are not only using the internet.
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Nigel Farage has upped his stake in Stack BTC, the company that's building a Bit
 
 Let’s explore how Bitcoin payments can scale in the long-term using second layer technologies such as Lightning and Ark.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/bitcoin-scalability-lightning-and-the-road-to-ark/) • 8h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/bitcoin-scalability-lightning-and-the-road-to-ark/) • 9h ago
 
 ---
 
@@ -177,7 +177,7 @@ Gizmodo • 22h ago
 
 The two prior times when the bitcoin-to-S&P-500 relative line made a key low, it also marked major lows for the SPX — March 2020 and Oct. 2022.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 3h ago
 
 Firm withdrew Bitcoin from domestic custodian; sent coins to Binance, Bybit, and others. Overseas exchanges are safer than domestic wallet providers, BitMax claims. Company says external audit proves it’s still financially viable.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ Seeking Alpha • 2d ago
 
 Strategy's STRC-fueled bitcoin buying spree is helping to drive demand but introduces sentiment-sensitive structural risks, according to K33.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Block • 7h ago
 
 Strategy has paused bitcoin buying funded through its STRC preferred stock after STRC fell below its $100 par value, a setup that previously aligned with 25%–40% BTC pullbacks.
 
-Bitbo • 15h ago
+Bitbo • 16h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bitbo • 15h ago
 
 The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
 
-Investopedia • 22h ago
+Investopedia • 23h ago
 
 ---
 
@@ -241,7 +241,7 @@ Reuters • 1d ago
 
 Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No third party required. Free and open source.
 
-⬆️ 1 • 💬 1 • 12h ago • [psicommit.com](https://psicommit.com/)
+⬆️ 1 • 💬 1 • 13h ago • [psicommit.com](https://psicommit.com/)
 
 ---
 
@@ -269,7 +269,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 **[Ask HN: What are the best product landing pages you've stumbled upon?](https://news.ycombinator.com/item?id=47341618)**
 
-⬆️ 2 • 💬 0 • 6d ago
+⬆️ 2 • 💬 0 • 7d ago
 
 ---
 
@@ -277,7 +277,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Open archive of autonomous scientific discovery experiments.
 
-⬆️ 1 • 💬 2 • 22h ago • [protoscience.ai](https://protoscience.ai)
+⬆️ 1 • 💬 2 • 23h ago • [protoscience.ai](https://protoscience.ai)
 
 ---
 
@@ -291,13 +291,13 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)](https://news.ycombinator.com/item?id=47421489)**
 
-⬆️ 6 • 💬 1 • 16h ago
+⬆️ 6 • 💬 1 • 17h ago
 
 ---
 
 **[Citcon: AI – Helsinki](https://news.ycombinator.com/item?id=47422870)**
 
-⬆️ 1 • 💬 0 • 12h ago • [citconf.com](https://citconf.com/helsinki2026/)
+⬆️ 1 • 💬 0 • 13h ago • [citconf.com](https://citconf.com/helsinki2026/)
 
 ---
 
@@ -305,33 +305,33 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin &amp; Crypto Get Regulatory Clarity! (What You MUST Know)](https://www.youtube.com/watch?v=5_EHMaIK2fc)**
-
-Bitcoin #Crypto #Finance The SEC and CFTC just made a historic move by defining how crypto assets are classified, signaling ...
-
-📺 The Wolf Of All Streets
-
-👁️ 8K • 👍 421 • 💬 128 • ⏱️ 19:06 • 7h ago
-
----
-
 **[Today’s FOMC Should Terrify You.](https://www.youtube.com/watch?v=crnP4Nx6zKM)**
 
 Today's FOMC could change everything for crypto, but not in the way most traders and investors expect. Capital rotating back in ...
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 31 • ⏱️ 13:25 • 7h ago
+👁️ 20K • 👍 1K • 💬 33 • ⏱️ 13:25 • 8h ago
 
 ---
 
-**[$21.5T GIANT Just Sent a HUGE Bitcoin WARNING!!! | EP 1462](https://www.youtube.com/watch?v=McHALqQuyLE)**
+**[Bitcoin &amp; Crypto Get Regulatory Clarity! (What You MUST Know)](https://www.youtube.com/watch?v=5_EHMaIK2fc)**
 
-A silent shift is happening in Bitcoin and most people are missing it. With over 1.5 million BTC moving into the hands of institutions ...
+Bitcoin #Crypto #Finance The SEC and CFTC just made a historic move by defining how crypto assets are classified, signaling ...
 
-📺 Simply Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 504 • 💬 49 • ⏱️ 59:29 • 1d ago
+👁️ 10K • 👍 466 • 💬 161 • ⏱️ 19:06 • 8h ago
+
+---
+
+**[SEC clarifies position on crypto: Chair Atkins on new interpretation of digital assets](https://www.youtube.com/watch?v=cjibSqTvINc)**
+
+SEC Chairman Paul Atkins joins 'Squawk Box' to discuss the agency's position on crypto assets, why it believes most crypto ...
+
+📺 CNBC Television
+
+👁️ 18K • 👍 316 • 💬 83 • ⏱️ 5:41 • 7h ago
 
 ---
 
@@ -341,47 +341,7 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 258 • 💬 69 • ⏱️ 1:14 • 8h ago
-
----
-
-**[Bitcoin Reacts to FOMC LIVE (Huge Move Incoming)](https://www.youtube.com/watch?v=UR1OZBqfO9g)**
-
-Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandles ...
-
-📺 Frankie Candles 
-
-👁️ 2K • 👍 238 • 3h ago
-
----
-
-**[LIVE FOMC: This Could Change Everything!](https://www.youtube.com/watch?v=uhA8QEqFb_E)**
-
-While the market expects interest rates to remain steady at 3.50%–3.75%, the real story is in the "Dot Plot." With oil prices surging ...
-
-📺 Discover Crypto
-
-👁️ 3K • 👍 154 • 3h ago
-
----
-
-**[Buyers Are Flooding Back Into Bitcoin](https://www.youtube.com/watch?v=yJXjMUFSfbM)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 1K • 💬 216 • ⏱️ 36:40 • 1d ago
-
----
-
-**[Massive News → Bitcoin HIGHER](https://www.youtube.com/watch?v=us5nLWnf2Zc)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 10K • 👍 402 • 💬 48 • ⏱️ 1:08 • 1d ago
+👁️ 7K • 👍 286 • 💬 71 • ⏱️ 1:14 • 9h ago
 
 ---
 
@@ -391,17 +351,57 @@ It can be tough to be objective in Bitcoin bear markets, especially during count
 
 📺 Benjamin Cowen
 
-👁️ 70K • 👍 4K • 💬 251 • ⏱️ 30:12 • 18h ago
+👁️ 75K • 👍 5K • 💬 259 • ⏱️ 30:12 • 18h ago
 
 ---
 
-**[Why Retailers Don’t Accept Bitcoin As Payment 😅](https://www.youtube.com/watch?v=-kLxmzDmoYk)**
+**[$21.5T GIANT Just Sent a HUGE Bitcoin WARNING!!! | EP 1462](https://www.youtube.com/watch?v=McHALqQuyLE)**
 
-There are several reasons retailers don't accept Bitcoin as payment. #shorts #bitcoin #xrp Order a Tangem Wallet (30% Off + ...
+A silent shift is happening in Bitcoin and most people are missing it. With over 1.5 million BTC moving into the hands of institutions ...
 
-📺 Cyber Scrilla
+📺 Simply Bitcoin
 
-👁️ 7K • 👍 298 • 💬 42 • ⏱️ 1:05 • 1d ago
+👁️ 11K • 👍 510 • 💬 49 • ⏱️ 59:29 • 1d ago
+
+---
+
+**[Massive News → Bitcoin HIGHER](https://www.youtube.com/watch?v=us5nLWnf2Zc)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 10K • 👍 405 • 💬 48 • ⏱️ 1:08 • 1d ago
+
+---
+
+**[Buyers Are Flooding Back Into Bitcoin](https://www.youtube.com/watch?v=yJXjMUFSfbM)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 1K • 💬 184 • ⏱️ 36:40 • 1d ago
+
+---
+
+**[Chamath vs Saylor: Who’s Right About Bitcoin’s Biggest Threat?](https://www.youtube.com/watch?v=uvXvlI3HRlM)**
+
+A major clash is unfolding between Chamath and Saylor over Bitcoin's future. One side says AI and quantum computing could ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 1K • 💬 194 • ⏱️ 12:42 • 1d ago
+
+---
+
+**[This Bitcoin On-Chain Metric Just Flashed – What It Means for 2026 with James &quot;Checkmatey&quot;](https://www.youtube.com/watch?v=M4RPTungLqs)**
+
+On-chain analyst James Check (Checkmate) breaks down Bitcoin's blockchain data like never before, revealing what smart ...
+
+📺 Natalie Brunell
+
+👁️ 29K • 👍 1K • 💬 172 • ⏱️ 49:25 • 1d ago
 
 ---
 

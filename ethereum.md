@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T20:51:11.951411+00:00'
+updated: '2026-03-18T21:36:48.149892+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 20:51 UTC  
+**Last Updated:** March 18, 2026 at 21:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $262.98B
+**Market Cap:** $264.89B
 Rank #2
 
 **Circulating Supply:** 120,691,832 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.9%
+-55.7%
 
 **All-Time Low:** $0.43
-+503300.9%
++506504.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
 
-2h ago
+3h ago
 
 ---
 
 **[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
 
-🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 18h ago
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 19h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin fell alongside U.S. stocks after the world's largest gas field came under attack amid hotter-than-expected inflation data.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 5h ago
 
 The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 3h ago
 
 Gemini stock (GEMI) fell 16% on Wednesday following the downgrade and a broader market dip, after Citi cut its Bitcoin and Ethereum targets.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ Seeking Alpha • 1d ago
 
 Gemini stock (GEMI) fell 16% on Wednesday following the downgrade and a broader market dip, after Citi cut its Bitcoin and Ethereum targets.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 4h ago
 
 Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -214,7 +214,7 @@ Barron's • 2d ago
 
 Ethereum’s price has spent much of the past cycle lagging its own institutional and on-chain progress, and Bitwise says the reason is straightforward: ETH is still trading primarily as a Bitcoin proxy, not as a fundamentally valued network. In a new factor-model analysis, the asset manager found BT…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -230,43 +230,13 @@ Fortune • 6h ago
 
 ## YouTube Videos: "ethereum"
 
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=tNR2YFyHtNs)**
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=XQO4sc87FRI)**
 
 ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
 
-📺 Jerushan Amos - Official Channel
+📺 Somchanda Bhattacharya Official
 
-👁️ 2K • 👍 1K • 2h ago
-
----
-
-**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=MXXd3Tr7VJw)**
-
-Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
-
-📺 Osteopata Martina Carbognani
-
-👁️ 3K • 👍 1K • 3h ago
-
----
-
-**[IS THE CRYPTO RALLY LEGIT? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=6I53qLIw3fA)**
-
-Brian from Santiment joined me to review the crypto market metrics. We review onchain metrics for Bitcoin, Ripple XRP, Ethereum, ...
-
-📺 Thinking Crypto
-
-👁️ 2K • 👍 188 • 💬 26 • ⏱️ 28:07 • 8h ago
-
----
-
-**[BMNR Just Made a BIG Move | ETH Supply Shock](https://www.youtube.com/watch?v=mNHsvvulSQc)**
-
-BMNR is quietly building one of the largest Ethereum positions in the world, now adding exposure to OpenAI through ORBS.
-
-📺 The Value Thinker
-
-👁️ 12K • 👍 699 • 💬 83 • ⏱️ 15:13 • 1d ago
+👁️ 5K • 👍 1K • 2h ago
 
 ---
 
@@ -276,7 +246,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 92 • 👍 7 • 💬 1 • ⏱️ 4:12 • 3h ago
+👁️ 214 • 👍 16 • 💬 1 • ⏱️ 4:12 • 3h ago
 
 ---
 
@@ -290,6 +260,46 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 ---
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=J8mohFQNEew)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 166 • 💬 5 • ⏱️ 5:05 • 21h ago
+
+---
+
+**[BE READY FOR THIS!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=0oz5WM8-UlQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 448 • 👍 22 • 💬 1 • ⏱️ 4:15 • 11h ago
+
+---
+
+**[IS THE CRYPTO RALLY LEGIT? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=6I53qLIw3fA)**
+
+Brian from Santiment joined me to review the crypto market metrics. We review onchain metrics for Bitcoin, Ripple XRP, Ethereum, ...
+
+📺 Thinking Crypto
+
+👁️ 3K • 👍 198 • 💬 26 • ⏱️ 28:07 • 9h ago
+
+---
+
+**[BMNR Just Made a BIG Move | ETH Supply Shock](https://www.youtube.com/watch?v=mNHsvvulSQc)**
+
+BMNR is quietly building one of the largest Ethereum positions in the world, now adding exposure to OpenAI through ORBS.
+
+📺 The Value Thinker
+
+👁️ 12K • 👍 701 • 💬 83 • ⏱️ 15:13 • 1d ago
+
+---
+
 **[Market Meltdown📉Ethereum Skyrocketing🚀Crypto Update](https://www.youtube.com/watch?v=m_HhLnt-WPM)**
 
 The S&P 500 could fall sharply this year because of a combination of economic headwinds and policy uncertainty created by ...
@@ -300,33 +310,23 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 ---
 
-**[BE READY FOR THIS!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=0oz5WM8-UlQ)**
+**[Ethereum Whales Buying Big: Is It Time to Invest? #shorts](https://www.youtube.com/watch?v=Q1gZM1Wyfdc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Ethereum whales just dropped $60 million, snapping up oversold ETH. It's time to remember Ethereum as a serious investment ...
 
-📺 Cilinix Crypto
+📺 CoinBros
 
-👁️ 360 • 👍 19 • 💬 1 • ⏱️ 4:15 • 10h ago
-
----
-
-**[BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7vm2HkGx3fI)**
-
-BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 262 • 💬 252 • ⏱️ 15:11 • 19h ago
+👁️ 662 • 👍 5 • ⏱️ 0:29 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=J8mohFQNEew)**
+**[🚨 BTC &amp; ETH: OH NO.... I HOPE I AM WRONG THIS TIME!!!!!!](https://www.youtube.com/watch?v=nU49NfIJs3k)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+This data is not great for bitcoin, ethereum and the rest of crypto and the markets! Watch NOW!!!!! ---------- BYUSDT, earn while ...
 
-📺 More Crypto Online
+📺 Thomas Kralow
 
-👁️ 3K • 👍 164 • 💬 5 • ⏱️ 5:05 • 20h ago
+👁️ 24K • 👍 3K • 💬 39 • ⏱️ 8:58 • 2d ago
 
 ---
 
