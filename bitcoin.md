@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-18T19:59:10.254041+00:00'
+updated: '2026-03-18T20:51:11.945327+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 19:59 UTC  
+**Last Updated:** March 18, 2026 at 20:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,649.34
+### $70,851.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.5%  
-**7d:** +1.0%  
+**24h:** -4.6%  
+**7d:** +1.1%  
 **30d:** +5.5%  
-**90d:** -19.3%  
-**1y:** -18.1%  
+**90d:** -19.2%  
+**1y:** -18.0%  
 
 ---
 
@@ -77,23 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse](https://www.reddit.com/r/Bitcoin/comments/1rws63p/farm_in_the_netherlands_uses_bitcoin_mining_to/)**
-
-17h ago
-
----
-
 **[Institutional demand for Bitcoin has risen to its highest level since October, 2025](https://www.reddit.com/r/Bitcoin/comments/1rxanbh/institutional_demand_for_bitcoin_has_risen_to_its/)**
 
-2h ago
-
----
-
-**[Bitcoin Power law is as real as the 4 year cycle](https://www.reddit.com/r/Bitcoin/comments/1rx24jd/bitcoin_power_law_is_as_real_as_the_4_year_cycle/)**
-
-People who dismiss the 4 year cycle got a reality check. I think the power law dynamics are also equally true. For you to remain aware, I pulled the full Power Law dataset (2011–2026) and ran the numbers on what happens when Bitcoin trades at different distances from the model's fair value line. Current state: BTC price: ~$74K Power Law fair value: ~$124K Discount: −40% Power Law floor: ~$52K Corridor position: bottom quarter (deep in the undervalued zone) Every single time BTC has been 40%+ below Power Law fair value, it was higher one year later. 873 out of 873 days. The median gain was +174%. The last time BTC was this discounted was late 2022 / early 2023 — when it was trading around $16–20K and fair value was climbing through $30K+. The DCA problem in this context: If you're in the deep discount zone and you DCA from here, your effective entry drifts upward as BTC (presumably) mean-reverts toward fair value. At 40% annual growth (roughly what the Power Law FV line itself grows at), a 12-month DCA from $74K produces an effective entry around $85K. That's still below fair value, but you've given back a chunk of your discount. This is where all the loan guys come in this sub reddit. I'm not saying DCA is wrong. DCA is discipline, it removes timing risk, and it works. But if you believe the Power Law model, the data says you're in a historically rare window. DCA spreads your buys across this window and the (presumably higher-priced) future. Locking in now keeps your entire position in the discount zone. It's time to Lump sum BTC now!
-
-7h ago
+3h ago
 
 ---
 
@@ -101,7 +87,29 @@ People who dismiss the 4 year cycle got a reality check. I think the power law d
 
 I've been running my own umbrel node and staring at the mempool way too much. And it was not really funny. At some point my brain... "What if every transaction was a vehicle on a highway? Small ones are bikes, big ones are trucks etc, etc The result is TxRush – a real-time mempool visualizer where BTC transactions drive across your screen as vehicles. The bigger the amount, the bigger the ride. Actually not a bad way to learn a thing or two about Bitcoin It's a side project, it's free, no signups, no ads, no tracking. Just mempool traffic as a highway. Works on mobile and desktop. Oh and there's a live BTC price with a 24h chart for all you 3am price checkers out there Roast it, love it, ignore it – I had fun building it either way. Link if you want
 
-4h ago
+5h ago
+
+---
+
+**[Farm in the Netherlands uses Bitcoin mining to keep stable temperatures inside the greenhouse](https://www.reddit.com/r/Bitcoin/comments/1rws63p/farm_in_the_netherlands_uses_bitcoin_mining_to/)**
+
+17h ago
+
+---
+
+**[Bitcoin Power law is as real as the 4 year cycle](https://www.reddit.com/r/Bitcoin/comments/1rx24jd/bitcoin_power_law_is_as_real_as_the_4_year_cycle/)**
+
+People who dismiss the 4 year cycle got a reality check. I think the power law dynamics are also equally true. For you to remain aware, I pulled the full Power Law dataset (2011–2026) and ran the numbers on what happens when Bitcoin trades at different distances from the model's fair value line. Current state: BTC price: ~$74K Power Law fair value: ~$124K Discount: −40% Power Law floor: ~$52K Corridor position: bottom quarter (deep in the undervalued zone) Every single time BTC has been 40%+ below Power Law fair value, it was higher one year later. 873 out of 873 days. The median gain was +174%. The last time BTC was this discounted was late 2022 / early 2023 — when it was trading around $16–20K and fair value was climbing through $30K+. The DCA problem in this context: If you're in the deep discount zone and you DCA from here, your effective entry drifts upward as BTC (presumably) mean-reverts toward fair value. At 40% annual growth (roughly what the Power Law FV line itself grows at), a 12-month DCA from $74K produces an effective entry around $85K. That's still below fair value, but you've given back a chunk of your discount. This is where all the loan guys come in this sub reddit. I'm not saying DCA is wrong. DCA is discipline, it removes timing risk, and it works. But if you believe the Power Law model, the data says you're in a historically rare window. DCA spreads your buys across this window and the (presumably higher-priced) future. Locking in now keeps your entire position in the discount zone. It's time to Lump sum BTC now!
+
+8h ago
+
+---
+
+**[I got an actual letter in the mail to my home address from Trezor](https://www.reddit.com/r/Bitcoin/comments/1rxd7tk/i_got_an_actual_letter_in_the_mail_to_my_home/)**
+
+Guys, this is next level disturbing. The letter obviously has my full name and home address in order to get delivered. The contents of the letter goes on about Trezor’s new “Authentication Code” going into effect here soon and to scan the QR code on the letter to activate it. It had all the legal mumble jumble and very official looking. Be safe out there everyone. Scammers are not only using the internet.
+
+1h ago
 
 ---
 
@@ -109,7 +117,7 @@ I've been running my own umbrel node and staring at the mempool way too much. An
 
 What's up Bitcoin fam, So I've been tinkering with this calculator that models borrowing against your Bitcoin stack instead of selling it - basically that whole hold-forever strategy where you use your coins as collateral Been wondering myself how big my Bitcoin position needs to be before I can stop worrying about traditional retirement planning, so figured I'd build something to crunch the numbers The idea is pretty straightforward: you keep your Bitcoin, borrow cash against it when you need money, and theoretically never have to sell (avoiding taxes and keeping exposure to price appreciation) But working out the math gets tricky fast because you need to consider: - How much you can actually borrow without getting liquidated - What happens if Bitcoin crashes and your loan-to-value ratio gets dangerous - Whether the borrowing costs eat into your gains too much - How the debt compounds over 15-20 years of retirement The calculator I put together lets you play with different scenarios - punch in your current Bitcoin amount, set annual withdrawal needs, adjust interest rate assumptions, and see if your strategy survives various market conditions You can test conservative approaches (lower LTV ratios) versus more aggressive ones, factor in Bitcoin's historical growth patterns, and see exactly where things might go wrong Built this because existing tools either skip important variables or make overly simple assumptions about how this strategy actually works in practice Would be keen to get some eyes on it from people here who've thought about this approach - curious if I'm missing anything obvious or if the assumptions seem reasonable Anyone else been down this rabbit hole of trying to model Bitcoin-backed retirement strategies?
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +125,7 @@ What's up Bitcoin fam, So I've been tinkering with this calculator that models b
 
 My best mate told me this story last night about his weekend: His 5-year-old son and the lad’s little friend found his not-particularly-well-hidden Billfodl, opened it, and helpfully “reorganised” the letters because they assumed it was a puzzle. I’m still laughing. Bit of a heart-stopper at first, obviously, but not actually a disaster. He was able to generate a new seed and move the assets over completely. So yes, friendly reminder: it’s not just malicious actors out in the wild you need to worry about. Sometimes the threat model lives in your house with no bad intentions at all. Protect your seed phrase from every possible actor (malicious or otherwise)!
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +133,7 @@ My best mate told me this story last night about his weekend: His 5-year-old son
 
 Nigel Farage has upped his stake in Stack BTC, the company that's building a Bitcoin treasury. He put more money in through his own company to buy extra shares, which pretty clearly shows he's doubling down on their strategy. The firm is chaired by former Chancellor Kwasi Kwarteng and plans to use the new cash to buy even more Bitcoin. Farage has long been vocal about supporting crypto and wants the UK to become a serious player in the space. Solid sign he thinks Bitcoin is only getting more important for businesses and finance.
 
-🔗 [BitcoinTreasuries.NET](https://bitcointreasuries.net/news/nigel-farage-increases-stake-in-bitcoin-treasury-firm-stack) • 8h ago
+🔗 [BitcoinTreasuries.NET](https://bitcointreasuries.net/news/nigel-farage-increases-stake-in-bitcoin-treasury-firm-stack) • 9h ago
 
 ---
 
@@ -133,7 +141,7 @@ Nigel Farage has upped his stake in Stack BTC, the company that's building a Bit
 
 Let’s explore how Bitcoin payments can scale in the long-term using second layer technologies such as Lightning and Ark.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/bitcoin-scalability-lightning-and-the-road-to-ark/) • 7h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/bitcoin-scalability-lightning-and-the-road-to-ark/) • 8h ago
 
 ---
 
@@ -145,23 +153,15 @@ Not fiatpapershitcoins, not stableshitcoins, not other premined or centralized s
 
 ---
 
-**[Im looking for some advice](https://www.reddit.com/r/Bitcoin/comments/1rwzu6i/im_looking_for_some_advice/)**
-
-i am a newbie for investment, I would to ask if it is possible or not to trade Bitcoin on spot, aiming for like 600-900$ per month from a capital of 10k? Any advice I appreciate seeing 🙇‍♂️
-
-9h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[BTC’s rally runs into 'sell the news' risk ahead of FOMC meeting](https://www.coindesk.com/markets/2026/03/18/bitcoin-s-rally-runs-into-sell-the-news-risk-ahead-of-fed-decision)**
+**[Bitcoin shows 'resilience' amid Iran war, outshines gold and stocks](https://finance.yahoo.com/news/bitcoin-shows-resilience-amid-iran-war-outshines-gold-and-stocks-173729098.html)**
 
-Two Prime data shows post-meeting weakness dominates, even as markets price a Fed hold and limited rate cuts ahead.
+Strategists point to a strong buyer base as bitcoin outperforms gold and stocks amid the Middle East conflict.
 
-CoinDesk • 9h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 9h ago
 
 Code is law, some say. That doesn't mean normal laws do not apply.
 
-Gizmodo • 21h ago
+Gizmodo • 22h ago
 
 ---
 
@@ -177,31 +177,23 @@ Gizmodo • 21h ago
 
 The two prior times when the bitcoin-to-S&P-500 relative line made a key low, it also marked major lows for the SPX — March 2020 and Oct. 2022.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[Better Buy: Bitcoin or AI?](https://finance.yahoo.com/news/better-buy-bitcoin-ai-163500254.html)**
+**[BitMax denies Bitcoin sale as financial woes mount for South Korean digital asset treasury](https://finance.yahoo.com/news/bitmax-denies-bitcoin-sale-financial-185229746.html?pl2=qsp-recent-news_fltrd-strs)**
 
-The "sell Bitcoin, buy AI" trade is winning right now. But is it the right move over the long haul?
+Firm withdrew Bitcoin from domestic custodian; sent coins to Binance, Bybit, and others. Overseas exchanges are safer than domestic wallet providers, BitMax claims. Company says external audit proves it’s still financially viable.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Trump-linked American Bitcoin passes Galaxy in treasury rankings, holdings climb to 6,899 BTC](https://www.theblock.co/post/394178/trump-american-bitcoin-passes-galaxy-treasury-rankings-holdings-6899-btc)**
-
-The last time American Bitcoin updated its holdings, about two weeks ago, it said it held roughly 6,500 BTC.
-
-The Block • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Could Drop 25%, Or Jump 120%. Welcome to Crypto's 2026 Grind.](https://www.investopedia.com/the-price-of-bitcoin-could-drop-25-percent-or-jump-120-percent-welcome-to-cryptos-2026-grind-11928359)**
+**[Bitcoin, Ethereum prices drop on hot inflation data ahead of Fed meeting](https://www.dlnews.com/articles/markets/bitcoin-price-dips-with-ethereum-ahead-of-fed-meeting/)**
 
-The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
+Bitcoin and Ethereum prices dropped hard on Wednesday.  The dip in prices comes as investors wait to see what the Federal Reserve will do.  Inflation is hot so a cut is looking unlikely.
 
-Investopedia • 22h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -215,7 +207,7 @@ Seeking Alpha • 2d ago
 
 Strategy's STRC-fueled bitcoin buying spree is helping to drive demand but introduces sentiment-sensitive structural risks, according to K33.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -223,7 +215,15 @@ The Block • 6h ago
 
 Strategy has paused bitcoin buying funded through its STRC preferred stock after STRC fell below its $100 par value, a setup that previously aligned with 25%–40% BTC pullbacks.
 
-Bitbo • 14h ago
+Bitbo • 15h ago
+
+---
+
+**[Bitcoin Could Drop 25%, Or Jump 120%. Welcome to Crypto's 2026 Grind.](https://www.investopedia.com/the-price-of-bitcoin-could-drop-25-percent-or-jump-120-percent-welcome-to-cryptos-2026-grind-11928359)**
+
+The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
+
+Investopedia • 22h ago
 
 ---
 
@@ -241,7 +241,7 @@ Reuters • 1d ago
 
 Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No third party required. Free and open source.
 
-⬆️ 1 • 💬 1 • 11h ago • [psicommit.com](https://psicommit.com/)
+⬆️ 1 • 💬 1 • 12h ago • [psicommit.com](https://psicommit.com/)
 
 ---
 
@@ -277,7 +277,7 @@ Give your AI agents a fetch() that pays. Multi-protocol, multi-chain, open sourc
 
 Open archive of autonomous scientific discovery experiments.
 
-⬆️ 1 • 💬 2 • 21h ago • [protoscience.ai](https://protoscience.ai)
+⬆️ 1 • 💬 2 • 22h ago • [protoscience.ai](https://protoscience.ai)
 
 ---
 
@@ -291,7 +291,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)](https://news.ycombinator.com/item?id=47421489)**
 
-⬆️ 6 • 💬 1 • 15h ago
+⬆️ 6 • 💬 1 • 16h ago
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin #Crypto #Finance The SEC and CFTC just made a historic move by defining 
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 421 • 💬 128 • ⏱️ 19:06 • 6h ago
+👁️ 8K • 👍 421 • 💬 128 • ⏱️ 19:06 • 7h ago
 
 ---
 
@@ -321,7 +321,7 @@ Today's FOMC could change everything for crypto, but not in the way most traders
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 31 • ⏱️ 13:25 • 6h ago
+👁️ 16K • 👍 1K • 💬 31 • ⏱️ 13:25 • 7h ago
 
 ---
 
@@ -341,7 +341,7 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 258 • 💬 69 • ⏱️ 1:14 • 7h ago
+👁️ 6K • 👍 258 • 💬 69 • ⏱️ 1:14 • 8h ago
 
 ---
 
@@ -361,7 +361,7 @@ While the market expects interest rates to remain steady at 3.50%–3.75%, the r
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 154 • 2h ago
+👁️ 3K • 👍 154 • 3h ago
 
 ---
 
@@ -391,7 +391,7 @@ It can be tough to be objective in Bitcoin bear markets, especially during count
 
 📺 Benjamin Cowen
 
-👁️ 70K • 👍 4K • 💬 251 • ⏱️ 30:12 • 17h ago
+👁️ 70K • 👍 4K • 💬 251 • ⏱️ 30:12 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T19:59:10.260080+00:00'
+updated: '2026-03-18T20:51:11.951411+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 19:59 UTC  
+**Last Updated:** March 18, 2026 at 20:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.1%  
-**7d:** +5.4%  
-**30d:** +9.7%  
-**90d:** -26.8%  
-**1y:** +6.4%  
+**24h:** -6.4%  
+**7d:** +5.6%  
+**30d:** +10.0%  
+**90d:** -26.6%  
+**1y:** +6.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,21 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
 
-1h ago
+2h ago
 
 ---
 
 **[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
 
-🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 17h ago
-
----
-
-**[ETH Technical Update: Sharp Rejection from the Mid-Zone. Is the Trendline Enough to Save Us?](https://www.reddit.com/r/ethereum/comments/1rx7lnk/eth_technical_update_sharp_rejection_from_the/)**
-
-As we’ve been discussing, all eyes were on that mid-marked gray zone and the rising red trendline. We finally got our answer today, and it wasn't the one the bulls were hoping for. 1. The Rejection is Real We just saw a sharp rejection from the key support-turned-resistance zone (the gray box). For those following the chart, this was the "moment of truth" retest. The fact that ETH couldn't even poke its head back inside that box before being slapped down confirms that the bears are currently in control of that $2,300 - $2,400 range. 2. The Rising Trendline: The Last Line of Defense Now, the focus shifts entirely to the ascending trendline (the red line). This line has been the backbone of the ETH macro structure since 2022. Every time we’ve hit it in the past (marked by those circles), we’ve seen a massive bounce. We are currently drifting right back toward it. 3. The "Make or Break" Moment We are officially in a "Squeeze Play." The price is being compressed between the rejection zone above and the trendline support below. The Bull Case: We bounce off the red line (again) and consolidate for a second attempt at the gray box. The Bear Case: If that red line snaps, we likely lose the macro bullish structure, and things could get very thin, very fast. What’s your move? Are you setting buy orders at the trendline, or is the rejection from the gray zone a signal that there's much lower to go? Disclaimer: Just my personal analysis, not financial advice. DYOR! https://preview.redd.it/wpb43hczrtpg1.png?width=1814&format=png&auto=webp&s=4ba879738c0117720335460a04c2ee65f9269c9b
-
-4h ago
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 18h ago
 
 ---
 
@@ -126,7 +118,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
 
-11h ago
+12h ago
 
 ---
 
@@ -146,39 +138,31 @@ I built an Ethereum squeeze dashboard to see where we stand with the inevitable 
 
 ---
 
+**[Daily General Discussion March 16, 2026](https://www.reddit.com/r/ethereum/comments/1rv0f7v/daily_general_discussion_march_16_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
-
-**[Ethereum governance solution Tally used by Uniswap, Arbitrum and others is winding down](https://www.theblock.co/post/394026/ethereum-governance-solution-tally-uniswap-arbitrum-others-winding-down)**
-
-The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
-
-The Block • 22h ago
-
----
 
 **[Bitcoin, Ethereum Slip on Inflation Surprise as Oil Prices Jump](https://decrypt.co/361556/bitcoin-ethereum-slip-inflation-surprise-oil-prices-jump)**
 
 Bitcoin fell alongside U.S. stocks after the world's largest gas field came under attack amid hotter-than-expected inflation data.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
-**[Bitcoin, Ethereum Waver as Fed Holds Interest Rates Steady](https://finance.yahoo.com/news/bitcoin-ethereum-waver-fed-holds-181115322.html)**
+**[Ethereum governance solution Tally used by Uniswap, Arbitrum and others is winding down](https://www.theblock.co/post/394026/ethereum-governance-solution-tally-uniswap-arbitrum-others-winding-down)**
 
-Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
+The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
 
-Yahoo Finance • 1h ago
-
----
-
-**[SEC Reclassifies Bitcoin, Ethereum as Digital Commodities](https://www.chosun.com/english/market-money-en/2026/03/19/F5GGELFUC5GKRFEFQPUYNPQDLM/)**
-
-SEC Reclassifies Bitcoin, Ethereum as Digital Commodities Shift to CFTC oversight eases legal burdens; ETF approvals, staking rewards remain hurdles
-
-조선일보 • 4h ago
+The Block • 23h ago
 
 ---
 
@@ -186,27 +170,21 @@ SEC Reclassifies Bitcoin, Ethereum as Digital Commodities Shift to CFTC oversigh
 
 A hotter-than-expected inflation reading pushed crypto prices lower Wednesday—slashing the chances of a broad spring breakout.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcv9pXDIvt8qPNh_IPcKzImn_uiEW5J1XXzFxkJKAorw0JPiYhH3Z5c&gaa_ts=69bafa05&gaa_sig=f8e8GS2nTjFshzEPoRJXTiepnG1OJKLhFr5bDNwi9OJ_L5WOPtoR9B7AuOzFflJ-m-4ssFmnyRZvqMcKeJgrYA%3D%3D)**
+**[Citi Downgrades Crypto Exchange Gemini After Cutting Bitcoin, Ethereum Price Targets](https://decrypt.co/361496/citi-downgrades-gemini-cutting-bitcoin-ethereum-targets)**
 
-Barron's • 1d ago
+Gemini stock (GEMI) fell 16% on Wednesday following the downgrade and a broader market dip, after Citi cut its Bitcoin and Ethereum targets.
 
----
-
-**[Current price of Ethereum for March 18, 2026](https://fortune.com/article/price-of-ethereum-03-18-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 5h ago
+Decrypt • 4h ago
 
 ---
 
-**[Citi lowers Bitcoin, Ethereum targets amid slow legislative progress](https://www.investing.com/news/cryptocurrency-news/citi-lowers-bitcoin-ethereum-targets-amid-slow-legislative-progress-4565383)**
+**[Citi lowers 12-month forecast for Bitcoin, Ethereum on Crypto bill impasse (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4565422-citi-lowers-12-month-forecast-for-bitcoin-ethereum-on-crypto-bill-impasse)**
 
-Investing.com • 1d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -214,13 +192,37 @@ Investing.com • 1d ago
 
 Gemini stock (GEMI) fell 16% on Wednesday following the downgrade and a broader market dip, after Citi cut its Bitcoin and Ethereum targets.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Citi lowers 12-month forecast for Bitcoin, Ethereum on Crypto bill impasse (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4565422-citi-lowers-12-month-forecast-for-bitcoin-ethereum-on-crypto-bill-impasse)**
+**[Bitcoin, Ethereum Waver as Fed Holds Interest Rates Steady](https://finance.yahoo.com/news/bitcoin-ethereum-waver-fed-holds-181115322.html)**
 
-Seeking Alpha • 1d ago
+Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqc12XTMdg3gY9gHPsSV_wf24_7oCDvJUm6NCS20ALV3kbkJXEZx6sJE&gaa_ts=69bb13ab&gaa_sig=11H460xbmitMZBp7-qpt05e8nzQf4pXHSEO23N_qOiCeVynjhfgWXECukqKq6t5yekRQBKXn7AudUIvkFPxjPQ%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Bitwise Found What’s Really Driving Ethereum Price, And It’s Not Fundamentals](https://www.tradingview.com/news/newsbtc:6fcdea28c094b:0-bitwise-found-what-s-really-driving-ethereum-price-and-it-s-not-fundamentals/)**
+
+Ethereum’s price has spent much of the past cycle lagging its own institutional and on-chain progress, and Bitwise says the reason is straightforward: ETH is still trading primarily as a Bitcoin proxy, not as a fundamentally valued network. In a new factor-model analysis, the asset manager found BT…
+
+TradingView • 1h ago
+
+---
+
+**[Current price of Ethereum for March 18, 2026](https://fortune.com/article/price-of-ethereum-03-18-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 6h ago
 
 ---
 
@@ -234,7 +236,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Jerushan Amos - Official Channel
 
-👁️ 2K • 👍 1K • 1h ago
+👁️ 2K • 👍 1K • 2h ago
 
 ---
 
@@ -244,7 +246,7 @@ Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee,
 
 📺 Osteopata Martina Carbognani
 
-👁️ 3K • 👍 1K • 2h ago
+👁️ 3K • 👍 1K • 3h ago
 
 ---
 
@@ -274,7 +276,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 92 • 👍 7 • 💬 1 • ⏱️ 4:12 • 2h ago
+👁️ 92 • 👍 7 • 💬 1 • ⏱️ 4:12 • 3h ago
 
 ---
 
@@ -304,7 +306,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 360 • 👍 19 • 💬 1 • ⏱️ 4:15 • 9h ago
+👁️ 360 • 👍 19 • 💬 1 • ⏱️ 4:15 • 10h ago
 
 ---
 
@@ -314,7 +316,7 @@ BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 262 • 💬 252 • ⏱️ 15:11 • 18h ago
+👁️ 7K • 👍 262 • 💬 252 • ⏱️ 15:11 • 19h ago
 
 ---
 
@@ -324,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 164 • 💬 5 • ⏱️ 5:05 • 19h ago
+👁️ 3K • 👍 164 • 💬 5 • ⏱️ 5:05 • 20h ago
 
 ---
 
