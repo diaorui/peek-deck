@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T22:33:59.733906+00:00'
+updated: '2026-03-18T23:31:28.650971+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 22:33 UTC  
+**Last Updated:** March 18, 2026 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,19 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
 
-4h ago
+5h ago
 
 ---
 
 **[r/BASE FOUNDER 'AMA' SERIES Week 6 - DEGEN: Join us Thursday March 19th, 2pm ET](https://www.reddit.com/r/ethereum/comments/1rxgcae/rbase_founder_ama_series_week_6_degen_join_us/)**
 
-1h ago
+2h ago
 
 ---
 
 **[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
 
-🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 19h ago
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 20h ago
 
 ---
 
@@ -124,7 +124,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
 
-13h ago
+14h ago
 
 ---
 
@@ -158,7 +158,7 @@ Barron's • 2d ago
 
 Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -166,7 +166,7 @@ Decrypt • 4h ago
 
 Bitcoin and Ethereum prices dropped hard on Wednesday. The dip in prices comes as investors wait to see what the Federal Reserve will do. Inflation is hot so a cut is looking unlikely.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Block • 1d ago
 
 Dubai, UAE, March  18, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that a new Binance executive has joined the development team to accelerate the e...
 
-markets.businessinsider.com • 48m ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -190,7 +190,7 @@ markets.businessinsider.com • 48m ago
 
 Ethereum’s price has spent much of the past cycle lagging its own institutional and on-chain progress, and Bitwise says the reason is straightforward: ETH is still trading primarily as a Bitcoin proxy, not as a fundamentally valued network. In a new factor-model analysis, the asset manager found BT…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -236,7 +236,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Somchanda Bhattacharya Official
 
-👁️ 5K • 👍 1K • 3h ago
+👁️ 5K • 👍 1K • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 214 • 👍 16 • 💬 1 • ⏱️ 4:12 • 4h ago
+👁️ 214 • 👍 16 • 💬 1 • ⏱️ 4:12 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 166 • 💬 5 • ⏱️ 5:05 • 22h ago
+👁️ 3K • 👍 166 • 💬 5 • ⏱️ 5:05 • 23h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 448 • 👍 22 • 💬 1 • ⏱️ 4:15 • 12h ago
+👁️ 448 • 👍 22 • 💬 1 • ⏱️ 4:15 • 13h ago
 
 ---
 
@@ -286,7 +286,7 @@ Brian from Santiment joined me to review the crypto market metrics. We review on
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 198 • 💬 26 • ⏱️ 28:07 • 10h ago
+👁️ 3K • 👍 198 • 💬 26 • ⏱️ 28:07 • 11h ago
 
 ---
 
