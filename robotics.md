@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-18T10:55:09.444289+00:00'
+updated: '2026-03-18T11:47:52.203690+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 18, 2026 at 10:55 UTC  
+**Last Updated:** March 18, 2026 at 11:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,23 @@ Robotics research and industry news
 
 The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build foundational robotics and ROS 2 skills on real hardware instead of only simulation. I wanted a system where I could explore the entire robotics stack, including embedded firmware and motor control all the way up to motion planning and digital-twin simulation. It has also been a great opportunity to experiment with custom and unconventional joint and reducer designs that I haven’t seen implemented on any robotics platforms. Mechanical Architecture: Each joint section was designed and built independently, and later connected using clamped carbon fiber tubes. This modularity allows each joint to be iterated on separately, while the tube lengths can be swapped to change the arm’s reach or payload capacity accordingly. Joint & Reducer Designs: The base joint uses a traditional planetary gearbox. While the shoulder and elbow joints use a split-ring planetary gearbox, by utilizing two slightly offset ring gears driven by a common set of compound planets, this design provides an incredibly high torque density in a compact form factor. Which is what allowed me to achieve a 70:1 and 40:1 gear reduction respectively, while keeping a large contact area to minimize stress between the plastic gears, all without the bulk or backlash of a multi-stage system. Because this gearbox configuration does not provide an accessible output shaft for a conventional encoder, I implemented a custom sensing approach: alternating polarity magnets were mounted around the output ring gear, and a magnetic encoder is positioned perpendicular to the axis with an offset, allowing it to perceive the alternating magnetic fields as a spinning radially magnetized magnet. The spherical wrist uses an inverted belt differential with a custom bearing track to maintain consistent pressure on the belt to prevent skipping. All three wrist motors are mounted behind the elbow joint so they act as a counterweight, reducing inertia at the wrist and improving dynamic performance. Embedded Control & Firmware: The robot is controlled by a STM32 microcontroller, where I developed custom firmware in C to manage SPI communication with 6 daisy-chained encoders, CAN bus communication with a Raspberry Pi, PID loops and step generation for motor control, and a state management safety system. Higher-level planning will run on a Raspberry Pi using ROS 2, where the arm will interface with MoveIt for motion planning and simulation; this is still under development. A write-up of the mechanical design, CAD, and firmware architecture is available on my portfolio, with a deeper breakdown of the ROS-based software stack coming eventually: https://jcgullberg.github.io/projects
 
-6h ago
+7h ago
+
+---
+
+**[Experiment with "Brachiation" motion](https://www.reddit.com/r/robotics/comments/1rx0hrv/experiment_with_brachiation_motion/)**
+
+Tried with Brachiation motion - a had swing motion that mostly gibbons etc use to move from branches and trees. Made with laser cut wooden plates and a geared motor.
+
+1h ago
+
+---
+
+**[Check Out My 3D Printed Robotic Hand and Forearm. Arduino Uno, Arduino IDE, Arduino Sketch. 6 Servo Motors. Braided Fishing Line. Inspired by Inmoov.](https://www.reddit.com/r/robotics/comments/1rwx80i/check_out_my_3d_printed_robotic_hand_and_forearm/)**
+
+My plan is to build a human size robot. I've built the robotic hand and Forearm so far and it is controlled by either a keyboard, a web interface with a mouse and buttons to click, or voice control. It's pretty wicked.I used my 3d printer to print all of the parts. I got the files from thingiverse.i can send the link if anyone wants it. This is how I created the rest of the project. I used braided fishing line as the tendons. 6 servo motors as the actuators - 5 fingers and 1 wrist. I used the arduino uno board and arduino sketches inside the arduino IDE. I can post all of the code if anyone out there is interested. Next is the elbow and bicep. I'll continue to show my work with updates on here. This project is inspired by Inmoov. Again, I can post the links to their website if there are people interested in this. Any question, feel free to ask. Thanks for watching.
+
+4h ago
 
 ---
 
@@ -44,7 +60,7 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 From Tansu Yegen on 𝕏: https://x.com/TansuYegen/status/2033803783973552452 Incorrectly located in China, when it's actually in California Leila on 𝕏: https://x.com/oranaise/status/2033869874020106710
 
-21h ago
+22h ago
 
 ---
 
@@ -56,25 +72,17 @@ Long time lurker, first time posting a build update in long time. I've been buil
 
 ---
 
-**[Check Out My 3D Printed Robotic Hand and Forearm. Arduino Uno, Arduino IDE, Arduino Sketch. 6 Servo Motors. Braided Fishing Line. Inspired by Inmoov.](https://www.reddit.com/r/robotics/comments/1rwx80i/check_out_my_3d_printed_robotic_hand_and_forearm/)**
-
-My plan is to build a human size robot. I've built the robotic hand and Forearm so far and it is controlled by either a keyboard, a web interface with a mouse and buttons to click, or voice control. It's pretty wicked.I used my 3d printer to print all of the parts. I got the files from thingiverse.i can send the link if anyone wants it. This is how I created the rest of the project. I used braided fishing line as the tendons. 6 servo motors as the actuators - 5 fingers and 1 wrist. I used the arduino uno board and arduino sketches inside the arduino IDE. I can post all of the code if anyone out there is interested. Next is the elbow and bicep. I'll continue to show my work with updates on here. This project is inspired by Inmoov. Again, I can post the links to their website if there are people interested in this. Any question, feel free to ask. Thanks for watching.
-
-3h ago
-
----
-
 **[Stairs are hard!](https://www.reddit.com/r/robotics/comments/1rw7ltl/stairs_are_hard/)**
 
 Got a lot of feedbacks from last post, thanks a lot! There are many requests about trying uneven terrain, sand, and stairs. The sand was… not a pleasant experience. We heard some worrying rattling sounds after the test, so we’re thinking an enclosure might be necessary to keep the dust and grit out. But for now, here's our current attempt at the stairs! As you can see, still jittery, still leaning, but it jumps. Still a long way to go! We are planning to add perception so it can actually see the stairs and, hopefully, decide when to jump on its own without me babysitting the remote.
 
-20h ago
+21h ago
 
 ---
 
 **[Jetson-powered Olaf robot at NVIDIA GTC 2026](https://www.reddit.com/r/robotics/comments/1rwberk/jetsonpowered_olaf_robot_at_nvidia_gtc_2026/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -82,13 +90,13 @@ Got a lot of feedbacks from last post, thanks a lot! There are many requests abo
 
 My plan is to build a human size robot. I've built the robotic hand and Forearm so far and it is controlled by either a keyboard, a web interface with a mouse and buttons to click, or voice control. It's pretty wicked.I used my 3d printer to print all of the parts. I got the files from thingiverse.i can send the link if anyone wants it. This is how I created the rest of the project. I used braided fishing line as the tendons. 6 servo motors as the actuators - 5 fingers and 1 wrist. I used the arduino uno board and arduino sketches inside the arduino IDE. I can post all of the code if anyone out there is interested. Next is the elbow and bicep. I'll continue to show my work with updates on here. This project is inspired by Inmoov. Again, I can post the links to their website if there are people interested in this. Any questions, feel free to ask. Thanks for watching.
 
-3h ago
+4h ago
 
 ---
 
 **[Controlling Cobra with Ardupilot](https://www.reddit.com/r/robotics/comments/1rws92d/controlling_cobra_with_ardupilot/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -96,15 +104,7 @@ My plan is to build a human size robot. I've built the robotic hand and Forearm 
 
 Watching it scuttle around the living room at night is a whole new level of nightmare fuel. What do you guys think? Is it too much, or just the right amount of cursed?
 
-2h ago
-
----
-
-**[DIY Vive position tracker - ESP32 C3](https://www.reddit.com/r/robotics/comments/1rwagsa/diy_vive_position_tracker_esp32_c3/)**
-
-Hey everyone, I am currently developing a custom tracker using my old lighthouse trackers from a VR headset (HTC vive). The end goal is tracking small robots indoors for ~$10-15 per unit. For that I built a custom PCB in the simplest way possible, as I am still quite a beginner in electronics. I am using BPW-34 photodiodes - they have no IR filter built in, so i'm using floppy disk film as a cheap IR bandpass which works surprisingly well. The board is put into a small 3D printed case that will be placed on my robots (I intend to have multiples in an arena). But even with just that a very basic tracking that captures the laser pulses from the lighthouse worked! For the future I will try to use at least 3 sensors to be able to position objects in space as well. I was quite surprised that this even worked.
-
-19h ago
+3h ago
 
 ---
 
@@ -120,9 +120,9 @@ CNBC • 1d ago
 
 ---
 
-**[Watch: Wall-climbing AI robots inspect Navy warships to speed repairs amid China fleet surge](https://www.foxnews.com/video/6390792906112)**
+**[WATCH: Wall-climbing robot swarms crawl US Navy warships as China’s fleet surges](https://www.foxnews.com/politics/watch-wall-climbing-robot-swarms-crawl-us-navy-warships-chinas-fleet-surges)**
 
-See how advanced robotics are scaling destroyers and amphibious ships to detect structural problems faster than traditional methods — part of a new $71 million Navy initiative to boost readiness and cut maintenance delays. (Credit: Gecko Robotics)
+Wall-climbing robots are set to transform U.S. Navy ship maintenance in a $71 million program designed to slash repair delays and boost fleet readiness.
 
 Fox News • 23h ago
 
@@ -132,7 +132,7 @@ Fox News • 23h ago
 
 Gecko deploys AI and robotics on 18 ships assigned to the Navy’s U.S. Pacific Fleet
 
-Military Times • 16h ago
+Military Times • 17h ago
 
 ---
 
@@ -148,7 +148,7 @@ NVIDIA Newsroom • 1d ago
 
 From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
 
-Visual Capitalist • 15h ago
+Visual Capitalist • 16h ago
 
 ---
 
@@ -158,11 +158,19 @@ IFLScience • 21h ago
 
 ---
 
+**[Ever played Pokémon Go? You may have helped train delivery robots](https://www.euronews.com/next/2026/03/18/pokemon-go-players-have-unknowingly-been-helping-to-train-delivery-robots)**
+
+A massive databse built by players of Pokémon Go is now being used Coco Robotics to help its street delivery robots better navigate busy urban environments.
+
+Euronews.com • 4h ago
+
+---
+
 **[Mia Robotics: Next‑Gen unmanned ground vehicles with robust civilian engineering](https://www.jpost.com/defense-and-tech/article-890335)**
 
 The system is a new generation of unmanned ground vehicles (UGVs) built on a platform that has already been tested for years in civilian markets.
 
-The Jerusalem Post • 5h ago
+The Jerusalem Post • 6h ago
 
 ---
 
@@ -170,23 +178,15 @@ The Jerusalem Post • 5h ago
 
 AI and robotics executives warn American lawmakers that China’s rapid advances – led by Unitree – threaten US dominance.
 
-South China Morning Post • 12h ago
+South China Morning Post • 13h ago
 
 ---
 
-**[Kraken Robotics Announces $24 Million in Defence Orders](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-24-million-in-defence-orders/)**
+**[Nvidia Declares the Rise of ‘Physical AI’ — and a World Run by Robots](https://www.eweek.com/news/nvidia-physical-ai-robotics-models-simulation-tools/)**
 
-ST. JOHN’S, NEWFOUNDLAND, March 17, 2026 /GLOBE NEWSWIRE/ — Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces approximately $24 million in new orders to over 10 customers across five countries, including three new defence customers. The orders are for Kraken’s SeaPower batteries, KATFISH towed synthetic aperture sonar (SAS), and Kraken SAS. […]
+Nvidia used GTC 2026 to unveil new physical AI models, simulation tools, and robotics partnerships aimed at factories, healthcare, and logistics.
 
-Kraken Robotics • 23h ago
-
----
-
-**[Your 'Pokémon Go' data will help train food delivery robots](https://www.morningbrew.com/stories/2026/03/17/pokemon-go-data-train-delivery-bots)**
-
-A Sam Altman-backed company called Coco Robotics will tap an AI model that uses 30+ billion images captured by the game's users.
-
-Morning Brew • 1d ago
+eWeek • 14h ago
 
 ---
 
@@ -230,7 +230,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 2K • 👍 50 • 💬 2 • ⏱️ 4:39 • 16h ago
+👁️ 2K • 👍 50 • 💬 2 • ⏱️ 4:39 • 17h ago
 
 ---
 
@@ -260,7 +260,7 @@ Variable Hooded Shooter | 9280 High Altitude Robotics | FRC Pit Stop This video 
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 63 • ⏱️ 0:54 • 12h ago
+👁️ 2K • 👍 63 • ⏱️ 0:54 • 13h ago
 
 ---
 

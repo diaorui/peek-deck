@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-18T10:55:09.441086+00:00'
+updated: '2026-03-18T11:47:52.200886+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 18, 2026 at 10:55 UTC  
+**Last Updated:** March 18, 2026 at 11:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,319.71
+### $2,319.18
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +12.3%  
-**30d:** +17.0%  
-**90d:** -22.0%  
-**1y:** +13.4%  
+**24h:** -1.9%  
+**7d:** +9.6%  
+**30d:** +14.1%  
+**90d:** -23.9%  
+**1y:** +10.6%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
 **[SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.reddit.com/r/ethereum/comments/1rwroq0/sec_clarifies_the_application_of_federal/)**
 
-🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 8h ago
+🔗 [sec.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) • 9h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 21h ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 22h ago
 
 ---
 
@@ -102,7 +102,7 @@ Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Determinist
 
 EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
 
-2h ago
+3h ago
 
 ---
 
@@ -118,7 +118,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 Ethereum is setting up for a post-stewardship world
 
-🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 20h ago
+🔗 [FrugalBC](https://frugalbc.beehiiv.com/p/does-a-chain-need-a-foundation) • 21h ago
 
 ---
 
@@ -154,11 +154,11 @@ Anyone else read the EF Mandate that dropped Friday? "Ethereum is so other peopl
 
 The Tally team has already begun working with enterprise clients to create continuation plans as it begins shutting down.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqeinks5Ze77dzC0pbQixlQ-wL1l0kU68RJ0Hb2RFdw-GMnUinzGVWFi&gaa_ts=69ba7a3a&gaa_sig=fP_J6_cz7MXj6np1q2QWfWdN3OVtJdLh0RUgczoKWnkUpyuC1HvofOhrZxVhyGCFKrJVhV1GUv5EM__5i3xKHg%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Cryptos Are Being Played as a Hedge for Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqfwE5xW7rA5x3Lx4SpoY_eIAwPXlE8OT3IGYF4wr748_qzGTLtjHoiG&gaa_ts=69ba9455&gaa_sig=Z8uLvNLlSR8akPR8t4KlGW6OiGlbbWMR9KQJGtT14qw9x3MsrclZL1PixLdEgr_1puR17PnYB9WFNjaYjR6nhQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -172,9 +172,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls](https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/)**
+**[Citi lowers Bitcoin, Ethereum targets amid slow legislative progress](https://www.investing.com/news/cryptocurrency-news/citi-lowers-bitcoin-ethereum-targets-amid-slow-legislative-progress-4565383)**
 
-Reuters • 1d ago
+Investing.com • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 1d ago
 
 KoreInside launches KoreChain, enabling compliant tokenization of assets for broader access to capital markets.
 
-USA Today • 20h ago
+USA Today • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ BMNR is quietly building one of the largest Ethereum positions in the world, now
 
 📺 The Value Thinker
 
-👁️ 11K • 👍 651 • 💬 92 • ⏱️ 15:13 • 22h ago
+👁️ 11K • 👍 651 • 💬 92 • ⏱️ 15:13 • 23h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN WARNING: Price Squeeze is OVER (for now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 205 • ⏱️ 15:11 • 9h ago
+👁️ 5K • 👍 220 • 💬 205 • ⏱️ 15:11 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 4 • ⏱️ 5:05 • 10h ago
+👁️ 2K • 👍 138 • 💬 4 • ⏱️ 5:05 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ This data is not great for bitcoin, ethereum and the rest of crypto and the mark
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 39 • ⏱️ 8:58 • 1d ago
+👁️ 23K • 👍 3K • 💬 39 • ⏱️ 8:58 • 2d ago
 
 ---
 
@@ -296,7 +296,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 663 • 💬 140 • ⏱️ 12:03 • 5h ago
+👁️ 3K • 👍 663 • 💬 140 • ⏱️ 12:03 • 6h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 134 • 💬 5 • ⏱️ 5:30 • 21h ago
+👁️ 2K • 👍 134 • 💬 5 • ⏱️ 5:30 • 22h ago
 
 ---
 
