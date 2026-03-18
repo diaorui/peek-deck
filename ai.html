@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-18T16:09:03.382473+00:00"
+          "dateModified": "2026-03-18T17:37:28.225982+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -780,21 +780,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rx62gk/ai_agents_can_trigger_realworld_actions_why_dont/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rx8q9x/robot_dogs_priced_at_300000_a_piece_are_now/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Z4xnzFV-cEJxH_6xcyLZKtnjsLuDaf1TGp0n3ogEfA4.jpeg?width=640&crop=smart&auto=webp&s=a811f3da9e8ade9e569ed0be134ff94ebd3b7f33" alt="Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rx62gk/ai_agents_can_trigger_realworld_actions_why_dont/" target="_blank" onclick="event.stopPropagation();">AI agents can trigger real-world actions. Why don’t we have execution authorization yet?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1rx8q9x/robot_dogs_priced_at_300000_a_piece_are_now/" target="_blank" onclick="event.stopPropagation();">Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            While experimenting with autonomous agents recently, I keep running into a pattern that feels oddly familiar from distributed systems history. A lot of current discussion around agent reliability focuses on: better prompting model alignment sandboxed execution environments tool-use training All of these are important. But a large class of failures in production agent systems seems to come from something else entirely: uncontrolled execution of side effects. Examples I’ve observed (and seen others mention): identical inputs producing different execution paths across runs agents calling tools with parameters that were never explicitly defined retry loops repeatedly hitting external APIs silent failures where the system returns an answer but the intermediate reasoning path is wrong tools triggered in contexts where they should not run The typical response is to add more prompt instructions or guardrails. That sometimes helps, but it feels fundamentally fragile because the LLM is still the system deciding whether an action should execute. Analogy with distributed systems Distributed systems ran into similar issues decades ago. Applications originally controlled things like: rate limits authorization decisions retry logic resource consumption Over time those responsibilities moved into infrastructure layers. For example: load balancers enforce request limits databases enforce transaction boundaries IAM systems enforce authorization policies service meshes enforce network policies In other words, systems evolved from: application decides everything to: application proposes infrastructure enforces Current agent architectures Most agent frameworks today look roughly like this: Prompt ↓ LLM reasoning ↓ Tool selection ↓ Execution Examples include frameworks such as LangChain, AutoGen, and CrewAI. These systems focus primarily on orchestration and reasoning. However, the LLM still decides: which tool to call when to call it which parameters to use This works well for prototyping. But once agents interact with real systems (APIs, infrastructure, databases), incorrect tool execution can have real consequences. Possible missing primitive: execution authorization One architecture that seems underexplored is introducing a deterministic control layer between the agent runtime and tool execution. Conceptually: Agent proposes action ↓ Policy engine evaluates ↓ ALLOW / DENY ↓ Execution In this model: the agent remains responsible for planning and reasoning execution is gated by a deterministic policy layer Such a layer could enforce invariants like: resource budgets concurrency limits allowed tool scopes replay protection idempotency guarantees These concepts are common in distributed systems, but they do not appear to be widely implemented yet in agent runtimes. Relationship to existing work There are some related directions: observability tools for LLM pipelines (tracing and debugging systems) sandboxing approaches for agent execution verification approaches where LLMs generate programs that are validated before execution However, a general-purpose execution authorization layer for agent actions does not seem widely explored yet. Question for the community As agents become more capable and start interacting with external systems, stronger execution guarantees may become necessary. I'm curious how people working on agent infrastructure think about this. Do you see value in a deterministic authorization layer for agent actions? Or do you expect emerging approaches like program synthesis + verification to make this unnecessary? For context, I’ve been experimenting with this idea in an open-source project exploring deterministic policy enforcement for agent actions: https://github.com/AngeYobo/oxdeai Would be very interested in feedback from people building agent runtimes or researching agent reliability.
+                            AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
                         </div>
                         
 
@@ -803,7 +805,55 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1773845615.0"></span>
+                                    <span data-timestamp="1773851562.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://fortune.com/icons/favicons/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Fortune</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/" target="_blank" onclick="event.stopPropagation();">Are marketing jobs truly threatened by AI?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Or has it created new opportunities, increased productivity, or had no influence at all. And do you expect it to in the future?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1773810424.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -846,7 +896,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -854,13 +904,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/" target="_blank" onclick="event.stopPropagation();">Are marketing jobs truly threatened by AI?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/" target="_blank" onclick="event.stopPropagation();">If you are using ChatGPT, you would probably want an AI policy. [I will not promote]</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Or has it created new opportunities, increased productivity, or had no influence at all. And do you expect it to in the future?
+                            I’ve been looking into AI governance for my company recently so wanted to share some of my findings. Apparently PwC put out a report saying 72% of companies have absolutely zero formal AI policy. For startups and small agencies i guess it would probably reach 90%? Even if you’re only a 5-person team, doing nothing is starting to become a liability. Without rules, someone would eventually paste client data, financials, or proprietary code into ChatGPT to save time. Most of these tools train on user inputs, that’s a trouble waiting to happen. You don’t need a 20-page legal manifesto. A basic 3-page Google Doc is plenty. It just needs to cover: Which specific AI tools are approved for work. A Red / Yellow / Green framework for what data can and cannot be pasted into them. Rules for when AI-generated content must be disclosed to clients. Who is in charge of approving new tools. Consequences for violating the policy. Obviously, have a lawyer glance at it before you finalize anything, especially if you handle sensitive data but even writing a DIY version using the bullet points above is 100x better than having nothing.
                         </div>
                         
 
@@ -869,7 +919,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1773810424.0"></span>
+                                    <span data-timestamp="1773851020.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -979,39 +1029,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rwxr19/ai_invasive_technology_and_the_way_of_the_warrior/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rwxr19/ai_invasive_technology_and_the_way_of_the_warrior/" target="_blank" onclick="event.stopPropagation();">AI, Invasive Technology, and the Way of the Warrior</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Today we’re going to explore three ideas that help us understand the age of artificial intelligence: first, the stage that is being set for AI in our civilization; second, the idea of invasive technology; and third, what the speaker calls the “way of the warrior” — a mindset for living in this new technological world. Let’s begin with the broader context. Throughout history, major technological shifts have reshaped human civilization. Agriculture changed how societies organized themselves. The industrial revolution transformed production and economic power. Later, digital computing revolutionized information and communication. Artificial intelligence represents the next major shift, but it is different in an important way. Earlier technologies extended human abilities — our muscles, our speed, or our ability to calculate. AI, however, extends something much deeper: cognition. For the first time in history, we are creating systems that can perform tasks that previously required human reasoning. They can analyze information, generate ideas, write text, and assist with decision-making. In the past, human beings were the only general intelligence operating in society. Now we are introducing additional intelligences into the system. These systems don’t think exactly like humans, but they can produce outputs that resemble human reasoning. This raises a fundamental question: if machines can increasingly perform cognitive tasks, what role does human intelligence play? This is why the speaker argues that artificial intelligence is not just a technical development. It is a civilizational one. It forces us to reconsider ideas about expertise, authority, and knowledge itself. But understanding AI also requires understanding the type of technology it represents. The speaker introduces the concept of invasive technology. Most technologies throughout history have been external tools. A hammer extends the power of our hands. A car extends our mobility. Even computers primarily extended our ability to calculate and process data. AI, however, begins to enter the domain of thinking itself. When we use AI systems to write, plan, analyze information, or generate ideas, the technology becomes embedded in the process of cognition. Instead of simply assisting our actions, it begins influencing our thinking. This is why AI can be described as invasive. First, it invades cognition. Tasks that once required careful reasoning may increasingly be delegated to machines. Over time, this could change how people learn, how they solve problems, and even how they develop expertise. Second, AI invades institutions. Governments, corporations, and educational systems are integrating algorithmic decision-making into their operations. When automated systems help guide important decisions, the influence of algorithms becomes structural. Third, AI invades culture. Machines are now producing text, images, music, and art. As this grows, the boundary between human creation and machine generation becomes increasingly blurred. The result is a technological environment that is no longer merely outside us. It becomes part of the infrastructure of thought, decision-making, and culture. Faced with this kind of technological transformation, the speaker suggests we need a philosophical response. This is where the idea of “the way of the warrior” comes in. The metaphor of the warrior is not about violence or conflict. Instead, it refers to a disciplined way of engaging with powerful forces. Throughout history, warrior traditions emphasized self-control, clarity of purpose, responsibility, and mastery. These qualities become especially important in times of rapid change. In the context of artificial intelligence, the warrior mindset involves several principles. The first is mastery rather than dependence. AI tools can be extraordinarily powerful, but relying on them blindly can weaken human capability. The warrior approach is to use these tools deliberately while maintaining independent skills and understanding. Technology should amplify human intelligence, not replace it. The second principle is mental discipline. In an environment filled with automated answers and endless information, the ability to think deeply becomes increasingly valuable. Critical thinking, sustained attention, and intellectual rigor are qualities that must be actively cultivated. The third principle is ethical responsibility. AI systems can influence decisions that affect large numbers of people. Those who design, deploy, or rely on these systems carry significant responsibility. Without strong ethical frameworks, powerful technologies can easily produce unintended harm. Finally, the warrior mindset emphasizes human identity. Rather than competing directly with machines on speed or data processing, humans must focus on qualities that remain uniquely meaningful: wisdom, judgment, creativity, and moral reasoning. The goal is not to reject technology but to engage with it consciously. Artificial intelligence will continue to evolve, and its influence will likely expand across nearly every aspect of society. The key question is not whether AI will shape the world — it almost certainly will. The real question is how humans choose to relate to it. Do we become passive users of automated systems, or do we approach these technologies with discipline, awareness, and responsibility? The speaker’s answer is clear. In the age of artificial intelligence, what we need is not simply better technology. What we need is a stronger philosophy of how humans should live and think in the presence of powerful machines. That philosophy is what he calls the way of the warrior. -- description of the video 'nitty grittys ordeal - bridging the machine mind with bodily senses ' by chatgpt , video link in comment below
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1773820912.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1035,7 +1052,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-18T16:08:35.208315+00:00">Updated 2026-03-18T16:08:35.208315+00:00</small>
+        <small data-timestamp="2026-03-18T17:37:03.494371+00:00">Updated 2026-03-18T17:37:03.494371+00:00</small>
     </div>
 </div>
 
@@ -1221,6 +1238,43 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/" target="_blank" onclick="event.stopPropagation();">A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773803280.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1258,6 +1312,166 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/03/18/us/ai-airports-helicopter-rules', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2258284195.jpg?c=16x9&q=w_800,c_fill');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnn.com/2026/03/18/us/ai-airports-helicopter-rules" target="_blank" onclick="event.stopPropagation();">AI probe of aviation close calls leads FAA to limit how helicopters can fly around busy airports</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Air traffic controllers will now use radar to actively track helicopters when flying through the flight paths of planes taking off and landing at busy airports, the Federal Aviation Administration said in an order published Wednesday.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773855073.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-03-18/eu-moves-to-ban-ai-that-creates-non-consensual-sexual-images', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/articles/2026-03-18/eu-moves-to-ban-ai-that-creates-non-consensual-sexual-images" target="_blank" onclick="event.stopPropagation();">EU Moves to Ban AI That Creates Nonconsensual Sexual Images</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773851835.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/articles/computer-says-no-ai-interviews-170337210.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/_N4WemS0sJPyrjVjmBQv0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/68972e707833dc7f68e539082772a9bd');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.yahoo.com/news/articles/computer-says-no-ai-interviews-170337210.html" target="_blank" onclick="event.stopPropagation();">Computer says no. Are AI interviews making it harder to get a job?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Bhuvana Chilukuri has sent more than 100 job applications and is convinced very few have been seen by a human.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo" class="news-favicon">
+                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773853417.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108083323-1736284360842-gettyimages-2187584859-img_0434_f5qzeler.jpeg?v=1773761029&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html" target="_blank" onclick="event.stopPropagation();">Tencent's 2025 revenue beats estimates as Chinese tech giant ramps up AI investment</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The tech giant said its core business core provided it with the resources to fund increasing investments in AI.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773825294.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/03/18/ai-enterprise-revenue-anthropic-openai', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1287,7 +1501,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773824764.0"></span>
+                                    <span data-timestamp="1773824512.0"></span>
                                 </div>
                                 
                             </div>
@@ -1295,20 +1509,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://variety.com/wp-content/uploads/2026/03/Val-Kilmer-AS-DEEP-AS-THE-GRAVE-1-.png?w=1000&h=563&crop=1');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/AF4DWXW3INGMXBHCRFWKVXF5HY.jpg&w=1200');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/" target="_blank" onclick="event.stopPropagation();">Val Kilmer Resurrected by AI to Star in ‘As Deep as the Grave’ Movie — First Look (EXCLUSIVE)</a>
+                            <a href="https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/" target="_blank" onclick="event.stopPropagation();">See which jobs are most threatened by AI and who may be able to adapt</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            First look at Val Kilmer in his new film "As Deep As the Grave." His performance was AI generated.
+                            Look up which jobs are most at risk from artificial intelligence and who is most likely to be able to adapt, according to a new analysis.
                         </div>
                         
 
@@ -1318,9 +1532,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://variety.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Variety" class="news-favicon">
-                                    <a href="https://variety.com" target="_blank" onclick="event.stopPropagation();">Variety</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
                                     
                                 </div>
                                 
@@ -1328,7 +1542,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773846000.0"></span>
+                                    <span data-timestamp="1773676800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1336,20 +1550,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2026/03/cove-team-joins-microsoft.webp?resize=1200,900');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_asset.width-1300.png');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/" target="_blank" onclick="event.stopPropagation();">Microsoft hires the team of Sequioa-backed AI collaboration platform, Cove</a>
+                            <a href="https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/" target="_blank" onclick="event.stopPropagation();">Bringing the power of Personal Intelligence to more people</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.
+                            We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.
                         </div>
                         
 
@@ -1359,9 +1573,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="TechCrunch" class="news-favicon">
-                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="blog.google" class="news-favicon">
+                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
                                     
                                 </div>
                                 
@@ -1369,7 +1583,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773848029.0"></span>
+                                    <span data-timestamp="1773763717.0"></span>
                                 </div>
                                 
                             </div>
@@ -1377,139 +1591,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cbsnews.com/detroit/news/slotkin-legislation-limit-defense-departments-use-of-artificial-intelligence/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/clyz7llp4k2o', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/26/e70ed9c6-fcfc-412b-9803-a41e06903211/thumbnail/1200x630/2a356d4fa884326fdea0fd0066f126cd/gettyimages-2246916110.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/9161/live/cd79ea20-2216-11f1-b297-95b0a0a8331e.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cbsnews.com/detroit/news/slotkin-legislation-limit-defense-departments-use-of-artificial-intelligence/" target="_blank" onclick="event.stopPropagation();">Slotkin proposes legislation to limit Defense Department's use of AI</a>
+                            <a href="https://www.bbc.com/news/articles/clyz7llp4k2o" target="_blank" onclick="event.stopPropagation();">'Babe, they're AI' - Zendaya says it wasn't just fans fooled by fake wedding photos</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Michigan Sen. Elissa Slotkin has introduced legislation aiming to set limits on how and when the Department of Defense can use AI.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CBS News" class="news-favicon">
-                                    <a href="https://www.cbsnews.com" target="_blank" onclick="event.stopPropagation();">CBS News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773847540.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/ai-tokens-productivity-d35c6bd8?gaa_at=eafs&gaa_n=AWEtsqfw__DWclOTjZVWNMv6VklxGlqbTXyAMA52537L4mkequ4IPSdmo5__&gaa_ts=69bad186&gaa_sig=cTvi0EfmmJp-k0B6zNRX_2pE5h5dEHqY2FSk1P4OvUIFxXP2AE9Ys1JIpoJ-jSigcY7lXpRTXdqDOABoj3vN7Q%3D%3D', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/ai-tokens-productivity-d35c6bd8?gaa_at=eafs&gaa_n=AWEtsqfw__DWclOTjZVWNMv6VklxGlqbTXyAMA52537L4mkequ4IPSdmo5__&gaa_ts=69bad186&gaa_sig=cTvi0EfmmJp-k0B6zNRX_2pE5h5dEHqY2FSk1P4OvUIFxXP2AE9Ys1JIpoJ-jSigcY7lXpRTXdqDOABoj3vN7Q%3D%3D" target="_blank" onclick="event.stopPropagation();">You’ve Finally Figured Out AI at Work—Now Comes the Bill</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773802800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/dfa5e3ab1658ec46822ae949741b25f807c2a0a1/397_280_2003_1601/master/2003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a765bef0a56cf27cc3b9b4ebf0c97f31');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide" target="_blank" onclick="event.stopPropagation();">We asked experts about the most responsible ways to use AI tools – here’s what they said</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Use AI as a brainstorming partner and organizer, but don’t outsource your judgment
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773831600.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cx2g8888q53o', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/1a96/live/52331b30-2238-11f1-80f1-950e66a7a926.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/cx2g8888q53o" target="_blank" onclick="event.stopPropagation();">Ad for AI editing app which said it could 'remove anything' banned</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The UK regulator said the ad condoned "digitally altering and exposing women's bodies without their consent."
+                            The star has spoken about the viral images that appeared to show her marrying partner Tom Holland.
                         </div>
                         
 
@@ -1529,85 +1624,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773792009.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/" target="_blank" onclick="event.stopPropagation();">A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773803292.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/18/ai-data-center-buildout-jobs-salary-skilled-traders-worker-shortage.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108273511-1772638041175-Pure_Data_Centers_Dublin_site_1.png?v=1772638166&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/03/18/ai-data-center-buildout-jobs-salary-skilled-traders-worker-shortage.html" target="_blank" onclick="event.stopPropagation();">How the red-hot AI data center boom is igniting demand for a new, lucrative career path: trade workers</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            While anxiety around AI replacing white-collar jobs has reached a fever pitch, the data center boom is creating lucrative opportunities for skilled traders.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773839307.0"></span>
+                                    <span data-timestamp="1773757769.0"></span>
                                 </div>
                                 
                             </div>
@@ -1635,7 +1652,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-18T16:08:57.789321+00:00">Updated 2026-03-18T16:08:57.789321+00:00</small>
+        <small data-timestamp="2026-03-18T17:37:25.710904+00:00">Updated 2026-03-18T17:37:25.710904+00:00</small>
     </div>
 </div>
 
@@ -1860,10 +1877,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 642</span>
+                                    <span class="post-points">▲ 669</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 157</span>
+                                    <span style="color: #9ca3af;">💬 170</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2010,7 +2027,7 @@
                                     <span class="post-points">▲ 161</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 97</span>
+                                    <span style="color: #9ca3af;">💬 105</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2108,7 +2125,7 @@
                                     <span class="post-points">▲ 137</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 122</span>
+                                    <span style="color: #9ca3af;">💬 123</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2181,6 +2198,55 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47427017', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://framerusercontent.com/images/DQ1xyTxgoIu8RdOdSoCABxXVtM.png?width=9004&height=4694');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47427017" target="_blank" onclick="event.stopPropagation();">Snowflake AI Escapes Sandbox and Executes Malware</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 97</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 17</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-03-18T15:30:07Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://framerusercontent.com/images/lrBFYhglNRr9PIDtD6DrGWpM.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>promptarmor.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47394291', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" ></div>
@@ -2239,7 +2305,7 @@
                                     <span class="post-points">▲ 89</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 83</span>
+                                    <span style="color: #9ca3af;">💬 84</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2258,40 +2324,6 @@
                                         <span>peterlavigne.com</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47401042', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47401042" target="_blank" onclick="event.stopPropagation();">Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 77</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 61</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-03-16T16:21:07Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -2318,7 +2350,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-18T16:08:35.160728+00:00">Updated 2026-03-18T16:08:35.160728+00:00</small>
+        <small data-timestamp="2026-03-18T17:37:04.749755+00:00">Updated 2026-03-18T17:37:04.749755+00:00</small>
     </div>
 </div>
 

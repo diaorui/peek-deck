@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-18T16:09:03.840959+00:00'
+updated: '2026-03-18T17:37:28.726893+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 18, 2026 at 16:09 UTC  
+**Last Updated:** March 18, 2026 at 17:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Last week's post about Meta buying Moltbook got a lot of discussion here. I think most of the coverage (and the comments) missed what Meta is actually doing with it. I read a lot of patent filings because LLMs make them surprisingly accessible now, and one filed by Meta's CTO Andrew Bosworth connects directly to the Moltbook acquisition in a way I haven't seen anyone talk about. In December 2025, Meta was granted patent US 12513102B2 for a system that trains a language model on a user's historical interactions (posts, comments, likes, DMs, voice messages) and deploys it to simulate that user's social media behavior autonomously. The press covered it as "Meta wants to post for you after you die." The actual patent text describes simulating any user who is "absent from the social networking system," which includes breaks, inactivity, or death. The deceased framing is a broadening mechanism for the claims. What they built is a personalized LLM that maintains engagement on behalf of any user, for any reason. Now layer in the acquisitions. December 2025: Meta buys Manus for over $2 billion. General-purpose AI agent platform, hit $100M ARR eight months after launch. Meta said they'd integrate it into their consumer and business products. March 2026: The Moltbook acqui-hire. Matt Schlicht and Ben Parr join Meta Superintelligence Labs. What most coverage left out is their background. Schlicht and Parr co-founded Octane AI, a conversational commerce platform that automated personalized customer interactions for Shopify merchants via Messenger and SMS. They've been building AI-driven business communication tools since 2016. I think these three moves are connected. The "digital ghost" and "AI agents chatting with each other" framings are both wrong. Bosworth himself said in an Instagram Q&A that he didn't find Moltbook's agent conversations particularly interesting. So why buy it? Because Meta is building infrastructure for AI agents that act on behalf of businesses across their platforms. The small business owner spending hours managing their Facebook and Instagram presence is the real target user. The e-commerce brand running customer conversations through WhatsApp is the real target user. The patent gives them the IP foundation, Manus gives them the agent platform, and the Schlicht/Parr hire gives them the team that spent a decade figuring out how to make this work commercially. I'll be honest about the limits of reading patent tea leaves. Companies file for all kinds of reasons and most aren't strategic. Engineers get bonuses for filings. Legal teams build portfolios for cross-licensing leverage. Reading a single patent as a roadmap is a mistake I've made before. But a patent plus $2B in acquisitions plus an acqui-hire of people who built a related product for a decade starts to look like a pattern. Anyone here have a different read? Especially curious if anyone on Meta's business tools side sees this differently.
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Last week's post about Meta buying Moltbook got a lot of discussion here. I thin
 
 Agency laundering describes how individuals or groups use technical systems to escape moral blame. This process involves shifting a choice to a computer or a complex rule set. The person in charge blames the technology when a negative event occurs. This masks the human origin of the decision. It functions as a shield against criticism. A business might use an algorithm to screen job seekers. Owners claim the machine is objective even if the system behaves with bias. They hide their own role in the setup of that system. Judges also use software to predict crime risks. They might follow the machine without question to avoid personal responsibility for a sentence. Such actions create a vacuum of responsibility. It is difficult to seek justice when no person takes ownership of the result. Humans use these structures to deny their own power to make changes. This undermines trust in modern society.
 
-37m ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Agency laundering describes how individuals or groups use technical systems to e
 
 Russia aids Iran against U.S. ships. Oil surges 50%. Joe Kent resigns. DOGE cuts grants via AI. Trump creates a secret database. Hawley targets mifepristone. Vance leads fraud task force.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/a-new-exoskeleton#story-the-pentagon-is-developing-its-own-llms) • 4h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/a-new-exoskeleton#story-the-pentagon-is-developing-its-own-llms) • 5h ago
 
 ---
 
@@ -65,15 +65,23 @@ Russia aids Iran against U.S. ships. Oil surges 50%. Joe Kent resigns. DOGE cuts
 
 The CEO says artistic control remains with developers.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 18h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) • 19h ago
 
 ---
 
-**[AI agents can trigger real-world actions. Why don’t we have execution authorization yet?](https://www.reddit.com/r/artificial/comments/1rx62gk/ai_agents_can_trigger_realworld_actions_why_dont/)**
+**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://www.reddit.com/r/artificial/comments/1rx8q9x/robot_dogs_priced_at_300000_a_piece_are_now/)**
 
-While experimenting with autonomous agents recently, I keep running into a pattern that feels oddly familiar from distributed systems history. A lot of current discussion around agent reliability focuses on: better prompting model alignment sandboxed execution environments tool-use training All of these are important. But a large class of failures in production agent systems seems to come from something else entirely: uncontrolled execution of side effects. Examples I’ve observed (and seen others mention): identical inputs producing different execution paths across runs agents calling tools with parameters that were never explicitly defined retry loops repeatedly hitting external APIs silent failures where the system returns an answer but the intermediate reasoning path is wrong tools triggered in contexts where they should not run The typical response is to add more prompt instructions or guardrails. That sometimes helps, but it feels fundamentally fragile because the LLM is still the system deciding whether an action should execute. Analogy with distributed systems Distributed systems ran into similar issues decades ago. Applications originally controlled things like: rate limits authorization decisions retry logic resource consumption Over time those responsibilities moved into infrastructure layers. For example: load balancers enforce request limits databases enforce transaction boundaries IAM systems enforce authorization policies service meshes enforce network policies In other words, systems evolved from: application decides everything to: application proposes infrastructure enforces Current agent architectures Most agent frameworks today look roughly like this: Prompt ↓ LLM reasoning ↓ Tool selection ↓ Execution Examples include frameworks such as LangChain, AutoGen, and CrewAI. These systems focus primarily on orchestration and reasoning. However, the LLM still decides: which tool to call when to call it which parameters to use This works well for prototyping. But once agents interact with real systems (APIs, infrastructure, databases), incorrect tool execution can have real consequences. Possible missing primitive: execution authorization One architecture that seems underexplored is introducing a deterministic control layer between the agent runtime and tool execution. Conceptually: Agent proposes action ↓ Policy engine evaluates ↓ ALLOW / DENY ↓ Execution In this model: the agent remains responsible for planning and reasoning execution is gated by a deterministic policy layer Such a layer could enforce invariants like: resource budgets concurrency limits allowed tool scopes replay protection idempotency guarantees These concepts are common in distributed systems, but they do not appear to be widely implemented yet in agent runtimes. Relationship to existing work There are some related directions: observability tools for LLM pipelines (tracing and debugging systems) sandboxing approaches for agent execution verification approaches where LLMs generate programs that are validated before execution However, a general-purpose execution authorization layer for agent actions does not seem widely explored yet. Question for the community As agents become more capable and start interacting with external systems, stronger execution guarantees may become necessary. I'm curious how people working on agent infrastructure think about this. Do you see value in a deterministic authorization layer for agent actions? Or do you expect emerging approaches like program synthesis + verification to make this unnecessary? For context, I’ve been experimenting with this idea in an open-source project exploring deterministic policy enforcement for agent actions: https://github.com/AngeYobo/oxdeai Would be very interested in feedback from people building agent runtimes or researching agent reliability.
+AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
 
-1h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 1h ago
+
+---
+
+**[Are marketing jobs truly threatened by AI?](https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/)**
+
+Or has it created new opportunities, increased productivity, or had no influence at all. And do you expect it to in the future?
+
+12h ago
 
 ---
 
@@ -85,11 +93,11 @@ I work as a developer, and before this I was copium about AI, it was a form of s
 
 ---
 
-**[Are marketing jobs truly threatened by AI?](https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/)**
+**[If you are using ChatGPT, you would probably want an AI policy. [I will not promote]](https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/)**
 
-Or has it created new opportunities, increased productivity, or had no influence at all. And do you expect it to in the future?
+I’ve been looking into AI governance for my company recently so wanted to share some of my findings. Apparently PwC put out a report saying 72% of companies have absolutely zero formal AI policy. For startups and small agencies i guess it would probably reach 90%? Even if you’re only a 5-person team, doing nothing is starting to become a liability. Without rules, someone would eventually paste client data, financials, or proprietary code into ChatGPT to save time. Most of these tools train on user inputs, that’s a trouble waiting to happen. You don’t need a 20-page legal manifesto. A basic 3-page Google Doc is plenty. It just needs to cover: Which specific AI tools are approved for work. A Red / Yellow / Green framework for what data can and cannot be pasted into them. Rules for when AI-generated content must be disclosed to clients. Who is in charge of approving new tools. Consequences for violating the policy. Obviously, have a lawyer glance at it before you finalize anything, especially if you handle sensitive data but even writing a DIY version using the bullet points above is 100x better than having nothing.
 
-11h ago
+1h ago
 
 ---
 
@@ -97,7 +105,7 @@ Or has it created new opportunities, increased productivity, or had no influence
 
 Documenting reported cases of AI-induced psychological harm — dependency, delusion, identity confusion, and reality distortion. Updated weekly.
 
-🔗 [aipsychosis.watch](https://aipsychosis.watch) • 10h ago
+🔗 [aipsychosis.watch](https://aipsychosis.watch) • 11h ago
 
 ---
 
@@ -109,17 +117,15 @@ Nvidia unveils Vera CPU and Rubin platform to power agentic AI systems and next-
 
 ---
 
-**[AI, Invasive Technology, and the Way of the Warrior](https://www.reddit.com/r/artificial/comments/1rwxr19/ai_invasive_technology_and_the_way_of_the_warrior/)**
-
-Today we’re going to explore three ideas that help us understand the age of artificial intelligence: first, the stage that is being set for AI in our civilization; second, the idea of invasive technology; and third, what the speaker calls the “way of the warrior” — a mindset for living in this new technological world. Let’s begin with the broader context. Throughout history, major technological shifts have reshaped human civilization. Agriculture changed how societies organized themselves. The industrial revolution transformed production and economic power. Later, digital computing revolutionized information and communication. Artificial intelligence represents the next major shift, but it is different in an important way. Earlier technologies extended human abilities — our muscles, our speed, or our ability to calculate. AI, however, extends something much deeper: cognition. For the first time in history, we are creating systems that can perform tasks that previously required human reasoning. They can analyze information, generate ideas, write text, and assist with decision-making. In the past, human beings were the only general intelligence operating in society. Now we are introducing additional intelligences into the system. These systems don’t think exactly like humans, but they can produce outputs that resemble human reasoning. This raises a fundamental question: if machines can increasingly perform cognitive tasks, what role does human intelligence play? This is why the speaker argues that artificial intelligence is not just a technical development. It is a civilizational one. It forces us to reconsider ideas about expertise, authority, and knowledge itself. But understanding AI also requires understanding the type of technology it represents. The speaker introduces the concept of invasive technology. Most technologies throughout history have been external tools. A hammer extends the power of our hands. A car extends our mobility. Even computers primarily extended our ability to calculate and process data. AI, however, begins to enter the domain of thinking itself. When we use AI systems to write, plan, analyze information, or generate ideas, the technology becomes embedded in the process of cognition. Instead of simply assisting our actions, it begins influencing our thinking. This is why AI can be described as invasive. First, it invades cognition. Tasks that once required careful reasoning may increasingly be delegated to machines. Over time, this could change how people learn, how they solve problems, and even how they develop expertise. Second, AI invades institutions. Governments, corporations, and educational systems are integrating algorithmic decision-making into their operations. When automated systems help guide important decisions, the influence of algorithms becomes structural. Third, AI invades culture. Machines are now producing text, images, music, and art. As this grows, the boundary between human creation and machine generation becomes increasingly blurred. The result is a technological environment that is no longer merely outside us. It becomes part of the infrastructure of thought, decision-making, and culture. Faced with this kind of technological transformation, the speaker suggests we need a philosophical response. This is where the idea of “the way of the warrior” comes in. The metaphor of the warrior is not about violence or conflict. Instead, it refers to a disciplined way of engaging with powerful forces. Throughout history, warrior traditions emphasized self-control, clarity of purpose, responsibility, and mastery. These qualities become especially important in times of rapid change. In the context of artificial intelligence, the warrior mindset involves several principles. The first is mastery rather than dependence. AI tools can be extraordinarily powerful, but relying on them blindly can weaken human capability. The warrior approach is to use these tools deliberately while maintaining independent skills and understanding. Technology should amplify human intelligence, not replace it. The second principle is mental discipline. In an environment filled with automated answers and endless information, the ability to think deeply becomes increasingly valuable. Critical thinking, sustained attention, and intellectual rigor are qualities that must be actively cultivated. The third principle is ethical responsibility. AI systems can influence decisions that affect large numbers of people. Those who design, deploy, or rely on these systems carry significant responsibility. Without strong ethical frameworks, powerful technologies can easily produce unintended harm. Finally, the warrior mindset emphasizes human identity. Rather than competing directly with machines on speed or data processing, humans must focus on qualities that remain uniquely meaningful: wisdom, judgment, creativity, and moral reasoning. The goal is not to reject technology but to engage with it consciously. Artificial intelligence will continue to evolve, and its influence will likely expand across nearly every aspect of society. The key question is not whether AI will shape the world — it almost certainly will. The real question is how humans choose to relate to it. Do we become passive users of automated systems, or do we approach these technologies with discipline, awareness, and responsibility? The speaker’s answer is clear. In the age of artificial intelligence, what we need is not simply better technology. What we need is a stronger philosophy of how humans should live and think in the presence of powerful machines. That philosophy is what he calls the way of the warrior. -- description of the video 'nitty grittys ordeal - bridging the machine mind with bodily senses ' by chatgpt , video link in comment below
-
-8h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?](https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/)**
+
+Reuters • 14h ago
+
+---
 
 **[Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real](https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html)**
 
@@ -127,69 +133,63 @@ The New York Times • 1d ago
 
 ---
 
+**[AI probe of aviation close calls leads FAA to limit how helicopters can fly around busy airports](https://www.cnn.com/2026/03/18/us/ai-airports-helicopter-rules)**
+
+Air traffic controllers will now use radar to actively track helicopters when flying through the flight paths of planes taking off and landing at busy airports, the Federal Aviation Administration said in an order published Wednesday.
+
+CNN • 6m ago
+
+---
+
+**[EU Moves to Ban AI That Creates Nonconsensual Sexual Images](https://www.bloomberg.com/news/articles/2026-03-18/eu-moves-to-ban-ai-that-creates-non-consensual-sexual-images)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Computer says no. Are AI interviews making it harder to get a job?](https://www.yahoo.com/news/articles/computer-says-no-ai-interviews-170337210.html)**
+
+Bhuvana Chilukuri has sent more than 100 job applications and is convinced very few have been seen by a human.
+
+Yahoo • 33m ago
+
+---
+
+**[Tencent's 2025 revenue beats estimates as Chinese tech giant ramps up AI investment](https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html)**
+
+The tech giant said its core business core provided it with the resources to fund increasing investments in AI.
+
+CNBC • 8h ago
+
+---
+
 **[Anthropic turns the tables on OpenAI in critical revenue category](https://www.axios.com/2026/03/18/ai-enterprise-revenue-anthropic-openai)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
-**[Val Kilmer Resurrected by AI to Star in ‘As Deep as the Grave’ Movie — First Look (EXCLUSIVE)](https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/)**
+**[See which jobs are most threatened by AI and who may be able to adapt](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/)**
 
-First look at Val Kilmer in his new film "As Deep As the Grave." His performance was AI generated.
+Look up which jobs are most at risk from artificial intelligence and who is most likely to be able to adapt, according to a new analysis.
 
-Variety • 1h ago
-
----
-
-**[Microsoft hires the team of Sequioa-backed AI collaboration platform, Cove](https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/)**
-
-AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.
-
-TechCrunch • 35m ago
+The Washington Post • 2d ago
 
 ---
 
-**[Slotkin proposes legislation to limit Defense Department's use of AI](https://www.cbsnews.com/detroit/news/slotkin-legislation-limit-defense-departments-use-of-artificial-intelligence/)**
+**[Bringing the power of Personal Intelligence to more people](https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/)**
 
-Michigan Sen. Elissa Slotkin has introduced legislation aiming to set limits on how and when the Department of Defense can use AI.
+We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.
 
-CBS News • 43m ago
-
----
-
-**[You’ve Finally Figured Out AI at Work—Now Comes the Bill](https://www.wsj.com/tech/ai/ai-tokens-productivity-d35c6bd8?gaa_at=eafs&gaa_n=AWEtsqfw__DWclOTjZVWNMv6VklxGlqbTXyAMA52537L4mkequ4IPSdmo5__&gaa_ts=69bad186&gaa_sig=cTvi0EfmmJp-k0B6zNRX_2pE5h5dEHqY2FSk1P4OvUIFxXP2AE9Ys1JIpoJ-jSigcY7lXpRTXdqDOABoj3vN7Q%3D%3D)**
-
-WSJ • 13h ago
+blog.google • 1d ago
 
 ---
 
-**[We asked experts about the most responsible ways to use AI tools – here’s what they said](https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide)**
+**['Babe, they're AI' - Zendaya says it wasn't just fans fooled by fake wedding photos](https://www.bbc.com/news/articles/clyz7llp4k2o)**
 
-Use AI as a brainstorming partner and organizer, but don’t outsource your judgment
+The star has spoken about the viral images that appeared to show her marrying partner Tom Holland.
 
-The Guardian • 5h ago
-
----
-
-**[Ad for AI editing app which said it could 'remove anything' banned](https://www.bbc.com/news/articles/cx2g8888q53o)**
-
-The UK regulator said the ad condoned "digitally altering and exposing women's bodies without their consent."
-
-BBC • 16h ago
-
----
-
-**[A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?](https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/)**
-
-Reuters • 13h ago
-
----
-
-**[How the red-hot AI data center boom is igniting demand for a new, lucrative career path: trade workers](https://www.cnbc.com/2026/03/18/ai-data-center-buildout-jobs-salary-skilled-traders-worker-shortage.html)**
-
-While anxiety around AI replacing white-collar jobs has reached a fever pitch, the data center boom is creating lucrative opportunities for skilled traders.
-
-CNBC • 3h ago
+BBC • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 3h ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 642 • 💬 157 • 19h ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 669 • 💬 170 • 20h ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -225,7 +225,7 @@ NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose
 
 We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
 
-⬆️ 161 • 💬 97 • 18h ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+⬆️ 161 • 💬 105 • 19h ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -233,7 +233,7 @@ We critically examine the limitations of current AI models in achieving autonomo
 
 Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.
 
-⬆️ 146 • 💬 78 • 1d ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
+⬆️ 146 • 💬 78 • 2d ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
 
 ---
 
@@ -241,13 +241,21 @@ Large language models (LLMs) have demonstrated the promise to revolutionize the 
 
 TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.
 
-⬆️ 137 • 💬 122 • 2d ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+⬆️ 137 • 💬 123 • 2d ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 
 ---
 
 **[Why I may ‘hire’ AI instead of a graduate student](https://news.ycombinator.com/item?id=47396557)**
 
 ⬆️ 109 • 💬 108 • 2d ago • [science.org](https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student)
+
+---
+
+**[Snowflake AI Escapes Sandbox and Executes Malware](https://news.ycombinator.com/item?id=47427017)**
+
+A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.
+
+⬆️ 97 • 💬 17 • 2h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 
 ---
 
@@ -261,13 +269,7 @@ TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a 
 
 Constraints that could make unreviewed AI-generated code trustworthy.
 
-⬆️ 89 • 💬 83 • 2d ago • [peterlavigne.com](https://peterlavigne.com/writing/verifying-ai-generated-code)
-
----
-
-**[Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)**
-
-⬆️ 77 • 💬 61 • 1d ago
+⬆️ 89 • 💬 84 • 2d ago • [peterlavigne.com](https://peterlavigne.com/writing/verifying-ai-generated-code)
 
 ---
 
@@ -281,7 +283,7 @@ Dave Rubin of "The Rubin Report" shares a DM clip of Elon Musk explaining to Pet
 
 📺 The Rubin Report
 
-👁️ 169K • 👍 5K • 💬 2K • ⏱️ 6:24 • 20h ago
+👁️ 169K • 👍 5K • 💬 2K • ⏱️ 6:24 • 22h ago
 
 ---
 
@@ -291,7 +293,7 @@ Generate watermark-free 4K cinematic AI videos with Higgsfield → https://higgs
 
 📺 Malva AI
 
-👁️ 845 • 👍 61 • 💬 25 • ⏱️ 8:07 • 3h ago
+👁️ 845 • 👍 61 • 💬 25 • ⏱️ 8:07 • 4h ago
 
 ---
 
@@ -341,7 +343,7 @@ Warehouse workers in Las Vegas told 8 News Now they were suddenly laid off, and 
 
 📺 8 News Now — Las Vegas
 
-👁️ 22K • 👍 363 • 💬 275 • ⏱️ 2:53 • 15h ago
+👁️ 22K • 👍 363 • 💬 275 • ⏱️ 2:53 • 17h ago
 
 ---
 
@@ -351,7 +353,7 @@ This video shows you how Claude AI can assist you! ➡️ Digital Maker AI: http
 
 📺 Success With Sam
 
-👁️ 8K • 👍 386 • 💬 18 • ⏱️ 18:57 • 20h ago
+👁️ 8K • 👍 386 • 💬 18 • ⏱️ 18:57 • 21h ago
 
 ---
 
@@ -361,7 +363,7 @@ Disclaimer: Please do NOT send hate to anyone mentioned in my videos. Everything
 
 📺 kat 'n chat
 
-👁️ 28K • 👍 2K • 💬 188 • ⏱️ 30:53 • 1d ago
+👁️ 28K • 👍 2K • 💬 188 • ⏱️ 30:53 • 2d ago
 
 ---
 
@@ -371,7 +373,7 @@ Nvidia's GTC 2026 keynote just dropped some massive AI hardware reveals! From th
 
 📺 Theoretically Media
 
-👁️ 21K • 👍 911 • 💬 146 • ⏱️ 11:59 • 18h ago
+👁️ 21K • 👍 911 • 💬 146 • ⏱️ 11:59 • 20h ago
 
 ---
 
@@ -483,7 +485,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 644,452 • ❤️ 669 • 2d ago
+⬇️ 644,452 • ❤️ 669 • 3d ago
 
 ---
 
@@ -656,7 +658,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.4k • 🔱 1.0k • 15m ago
+⭐ 21.4k • 🔱 1.0k • 1h ago
 
 ---
 
@@ -666,7 +668,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.6k • 🔱 1.5k • 33m ago
+⭐ 12.6k • 🔱 1.5k • 2h ago
 
 ---
 
@@ -676,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.0k • 🔱 1.0k • 17h ago
+⭐ 11.0k • 🔱 1.0k • 18h ago
 
 ---
 
@@ -696,7 +698,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.6k • 🔱 414 • 2h ago
+⭐ 8.6k • 🔱 414 • 3h ago
 
 ---
 
@@ -716,7 +718,7 @@ Open-source database of 700+ cybersecurity skills for AI agents and security pra
 
 `Python` `agent-skills` `ai-agents` `blue-team` `claude` `claude-code`
 
-⭐ 3.4k • 🔱 326 • 17h ago
+⭐ 3.4k • 🔱 326 • 19h ago
 
 ---
 
@@ -734,7 +736,7 @@ end to end app store screenshot creation using AI
 
 SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
-⭐ 2.9k • 🔱 95 • 6d ago
+⭐ 2.9k • 🔱 95 • 7d ago
 
 ---
 
