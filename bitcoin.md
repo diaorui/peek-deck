@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-19T22:31:05.824556+00:00'
+updated: '2026-03-19T23:31:24.495212+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 22:31 UTC  
+**Last Updated:** March 19, 2026 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -0.8%  
-**30d:** +6.0%  
-**90d:** -20.4%  
-**1y:** -16.4%  
+**24h:** -1.3%  
+**7d:** -1.2%  
+**30d:** +5.5%  
+**90d:** -20.7%  
+**1y:** -16.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[who remember those guys?](https://www.reddit.com/r/Bitcoin/comments/1rxuwuj/who_remember_those_guys/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -87,35 +87,7 @@ Rank #1
 
 BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 6h ago
-
----
-
-**[Morpheus explains the truth about the simulation](https://www.reddit.com/r/Bitcoin/comments/1rxx6cm/morpheus_explains_the_truth_about_the_simulation/)**
-
-11h ago
-
----
-
-**[DCAing 250-400 weekly, whole coin achievable?](https://www.reddit.com/r/Bitcoin/comments/1ry7u44/dcaing_250400_weekly_whole_coin_achievable/)**
-
-A big chunk of my disposable income is going into BTC. I'm in for the long run but just recently got into it. I'm aiming for the .1 in the coming months, I'll keep staking no matter what especially now that the price is low. is the whole coin achievable in the coming years?
-
-4h ago
-
----
-
-**[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
-
-9h ago
-
----
-
-**[Federal Reserve will release a proposal for revisions to the Basel risk weighting standards](https://www.reddit.com/r/Bitcoin/comments/1ry3w34/federal_reserve_will_release_a_proposal_for/)**
-
-This morning the Federal Reserve will release a proposal for revisions to the Basel risk weighting standards. Bitcoin is currently treated as a toxic asset under the Basel standards. A change in the guidance would be a big win for American Bitcoiners. BPI will be in attendance at today’s meeting. We’ll keep you updated on text of the proposal and next steps.
-
-6h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 7h ago
 
 ---
 
@@ -123,7 +95,35 @@ This morning the Federal Reserve will release a proposal for revisions to the Ba
 
 … think the people who make posts or comments like “BTC is going straight $30k this fall” or “BTC is going to skyrocket next month” just sound like complete morons?? You can get some insight from past trends sure.. but that doesn’t mean that those trends will continue in the future. What people fail to realize is that the graph of bitcoin over its entire history is really a graph of everyone’s emotions and willingness to buy/sell at a current price point, given current market conditions for the time. As attitudes and sentiment change, so will the graph and behavior of BTC. With more big money getting into BTC, the behavior of it will change significantly. But it’s really the behavior of aggregate people all over the world, which is driven mostly by emotion and confidence (or lack there of). So the people who claim to know where it is going at anytime just sound stupid to me. That’s all
 
-56m ago
+1h ago
+
+---
+
+**[DCAing 250-400 weekly, whole coin achievable?](https://www.reddit.com/r/Bitcoin/comments/1ry7u44/dcaing_250400_weekly_whole_coin_achievable/)**
+
+A big chunk of my disposable income is going into BTC. I'm in for the long run but just recently got into it. I'm aiming for the .1 in the coming months, I'll keep staking no matter what especially now that the price is low. is the whole coin achievable in the coming years?
+
+5h ago
+
+---
+
+**[Morpheus explains the truth about the simulation](https://www.reddit.com/r/Bitcoin/comments/1rxx6cm/morpheus_explains_the_truth_about_the_simulation/)**
+
+12h ago
+
+---
+
+**[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
+
+10h ago
+
+---
+
+**[Federal Reserve will release a proposal for revisions to the Basel risk weighting standards](https://www.reddit.com/r/Bitcoin/comments/1ry3w34/federal_reserve_will_release_a_proposal_for/)**
+
+This morning the Federal Reserve will release a proposal for revisions to the Basel risk weighting standards. Bitcoin is currently treated as a toxic asset under the Basel standards. A change in the guidance would be a big win for American Bitcoiners. BPI will be in attendance at today’s meeting. We’ll keep you updated on text of the proposal and next steps.
+
+7h ago
 
 ---
 
@@ -131,7 +131,7 @@ This morning the Federal Reserve will release a proposal for revisions to the Ba
 
 Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13,628 Bitcoin, pulling ahead of Tesla which currently sits at 11,509 BTC. The Texas based firm, which disclosed its holdings as part of the company's fourth-quarter and full-year 2025 financial results, is now registering a total value of $960 million in BTC holdings.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 6h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 7h ago
 
 ---
 
@@ -139,15 +139,15 @@ Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13
 
 Hey Bitcoin community I've set myself this goal of reaching one full coin by 2036, which keeps me motivated even during those rough market days. When prices drop I actually get a bit excited knowing I can grab more for my money Currently doing weekly buys of about £220 and crossing my fingers that we don't see massive price jumps too soon, otherwise my timeline might get messed up Been thinking about this while out on my weekend hikes - wondering if there are better ways to go about it? Anyone else working towards similar targets or have tweaks that might help optimize the approach? Would love to hear how others are building their stacks
 
-4h ago
+5h ago
 
 ---
 
-**[Wall Street Veteran: Bitcoin At $1M Will Still Be Ignored](https://www.reddit.com/r/Bitcoin/comments/1ry6eip/wall_street_veteran_bitcoin_at_1m_will_still_be/)**
+**[SEC Chair Paul Atkins says the agency is setting up "framework" for Bitcoin and shitcoins so people can have certainty](https://www.reddit.com/r/Bitcoin/comments/1ryfp3w/sec_chair_paul_atkins_says_the_agency_is_setting/)**
 
-On my podcast ‘Bitcoin for Millennials’ I talked with Dave Weisberger, a 40-year Wall Street veteran. We discuss stock market structure and the “rigged” narrative, 2008 and socialized losses, fiat debasement via the Cantillon effect and asset inflation, Bitcoin as an asymmetric bet and forced transparency versus Dalio’s critiques, and the real blockers to adoption like custody UX and capital gains taxes.
+The SEC’s interpretation on crypto assets is just the beginning and serves as a bridge while Congress works to advance market structure legislation. Our rules must be clear enough to guide markets, flexible enough to accommodate innovation, and firm enough to protect investors. https://x.com/SECPaulSAtkins/status/2034676128317661351
 
-🔗 [youtu.be](https://youtu.be/inPD8UpAC7Q) • 5h ago
+18m ago
 
 ---
 
@@ -159,23 +159,7 @@ On my podcast ‘Bitcoin for Millennials’ I talked with Dave Weisberger, a 40-
 
 While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off "dry powder" while prices swing wildly on headlines, said Wintermute's Bryan Tan.
 
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin Could Drop 25%, Or Jump 120%. Welcome to Crypto's 2026 Grind.](https://www.investopedia.com/the-price-of-bitcoin-could-drop-25-percent-or-jump-120-percent-welcome-to-cryptos-2026-grind-11928359)**
-
-The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
-
-Investopedia • 2d ago
-
----
-
-**[Morgan Stanley Prepares Bitcoin ETF for NYSE Arca Launch, Picking MSBT Ticker](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-prepares-bitcoin-etf-200819851.html)**
-
-Morgan Stanley updated its Bitcoin ETF S-1 filing, adding Fidelity as custodian and revealing the NYSE Arca ticker MSBT.
-
-Yahoo Finance • 2h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -183,7 +167,7 @@ Yahoo Finance • 2h ago
 
 North Carolina lawmakers introduced legislation to create a state-controlled Bitcoin reserve.
 
-Bitcoin Magazine • 56m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -191,7 +175,15 @@ Bitcoin Magazine • 56m ago
 
 The Coinbase Bitcoin Yield Fund's tokenized share class runs on Base as the $3.5 trillion fund services giant Apex applies tokenization across its business.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin Price Prediction: We Asked ChatGPT What Bitcoin Will Be Worth by 31 December 2026](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-asked-chatgpt-230000004.html)**
+
+Bitcoin (CRYPTO: BTC) is trading around $73,500 after one of its roughest stretches since the 2022 crash. The cryptocurrency hit $126,000 in October 2025 and started 2026 above $90,000. Then lost a third of its value in the space of roughly three months after the U.S. and Israel struck Iran and risk assets sold off ... Bitcoin Price Prediction: We Asked ChatGPT What Bitcoin Will Be Worth by 31 December 2026
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -199,19 +191,35 @@ CoinDesk • 2h ago
 
 Scammers are now posting fake social media ads in an attempt to discredit warning stickers placed on Bitcoin ATM machines across the Omaha metro, according to Douglas County Sheriff Aaron Hanson.
 
-WOWT • 19h ago
+WOWT • 20h ago
 
 ---
 
 **[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
+
+---
+
+**[Till Death or Seed Phrase: Woman Accused of Spying on Husband, Stealing $172 Million in Bitcoin](https://bitcoinmagazine.com/news/wife-spying-on-husband-stealing-bitcoin)**
+
+A UK woman is accused of spying on her husband and stealing $172 million in Bitcoin from his hardware wallet.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Man Alleges Wife Stole $172 Million in Bitcoin After 'Covertly Recording' Him](https://www.yahoo.com/news/articles/man-alleges-wife-stole-172-213701943.html)**
+
+A man alleged in UK court that his now-estranged wife stole more than $171 million in Bitcoin after using CCTV to obtain a seed phrase.
+
+Yahoo • 3d ago
 
 ---
 
 **[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
 
-WATE 6 On Your Side • 23h ago
+WATE 6 On Your Side • 1d ago
 
 ---
 
@@ -223,14 +231,6 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin OGs dump over $100 million in BTC after hawkish Fed dents rate cut hopes](https://www.coindesk.com/markets/2026/03/19/bitcoin-ogs-dump-over-usd100-million-in-btc-after-hawkish-fed-dents-rate-cut-hopes)**
-
-OGs sell as Fed's hawkish stance on rates pressures crypto and other risk assets.
-
-CoinDesk • 15h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -239,7 +239,7 @@ CoinDesk • 15h ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 2 • 💬 0 • 5h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 2 • 💬 0 • 6h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -283,7 +283,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Play a 2D pixel platformer built to explore self-play and reinforcement learning.
 
-⬆️ 1 • 💬 0 • 14h ago • [rlplays.com](https://rlplays.com/game)
+⬆️ 1 • 💬 0 • 15h ago • [rlplays.com](https://rlplays.com/game)
 
 ---
 
@@ -291,7 +291,7 @@ Play a 2D pixel platformer built to explore self-play and reinforcement learning
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 0 • 19h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 0 • 20h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -311,7 +311,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 892 • 💬 128 • ⏱️ 41:39 • 8h ago
+👁️ 15K • 👍 892 • 💬 128 • ⏱️ 41:39 • 9h ago
 
 ---
 
@@ -321,7 +321,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Benjamin Cowen
 
-👁️ 57K • 👍 4K • 💬 181 • ⏱️ 16:44 • 18h ago
+👁️ 57K • 👍 4K • 💬 181 • ⏱️ 16:44 • 19h ago
 
 ---
 
@@ -351,7 +351,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BTCC: https://themoon
 
 📺 The Moon Show
 
-👁️ 8K • 👍 510 • 💬 87 • ⏱️ 5:50 • 10h ago
+👁️ 8K • 👍 510 • 💬 87 • ⏱️ 5:50 • 11h ago
 
 ---
 
@@ -361,7 +361,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 4K • 👍 291 • 💬 78 • ⏱️ 9:55 • 9h ago
+👁️ 4K • 👍 291 • 💬 78 • ⏱️ 9:55 • 10h ago
 
 ---
 

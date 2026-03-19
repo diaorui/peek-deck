@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-19T22:31:05.815935+00:00'
+updated: '2026-03-19T23:31:24.487681+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 19, 2026 at 22:31 UTC  
+**Last Updated:** March 19, 2026 at 23:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Anyone know the Ai model used to make maximum carnage](https://www.reddit.com/r/artificial/comments/1ryf9zc/anyone_know_the_ai_model_used_to_make_maximum/)**
+
+Hey guys I seen that viral video of the ai generated Spider-Man vs carnage vs venom and no one can’t seem to tell me what model was used to make it could you help? Thanks in advance I just have a few ideas of my own that aren’t superheroes it’s more based In real life
+
+35m ago
+
+---
+
 **[How AI deep learning is helping scientists protect California's coastal ecosystems](https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/)**
 
 Researchers at UCLA's Institute of the Environment and Sustainability have developed the most high-resolution statewide maps of California's kelp forests to date, giving researchers, conservationists and community members unprecedented access to information essential to maintaining coastal ecosystems and the communities they support. By applying AI deep learning to Planet's Dove satellite constellation, the team has created a map 10 times more detailed than previous standard satellite records, offering a more precise way to monitor the condition of kelp along the California coastline and the success of conservation efforts. "Refined spatial resolution of kelp canopy monitoring has become increasingly important for assessing the efficacy of experimental restoration techniques and managing kelp harvest, particularly in areas where persisting kelp is sparse," said Dr. Kristen Elsmore, senior scientist with California Department of Fish and Wildlife, the state's primary agency responsible for managing California's kelp forest resources. Recent declines in kelp abundance have threatened the foundation of California's coastal ecosystems and economy. California's kelp forests support thriving fisheries, protect marine biodiversity and attract significant revenue through recreational snorkeling and scuba diving. They also play a crucial role in sustainability by contributing to nutrient cycling and carbon sequestration. This project represents a massive leap in conservation technology. While existing methods provide valuable long-term records, their 30-meter resolution can miss fine-scale patterns. When analyzing data from the new high-resolution map, the researchers found striking regional variability in kelp persistence following the 2014–2016 marine heat wave, one of the most severe warming events ever recorded along the U.S. West Coast. Kelp forests in Sonoma and Mendocino counties suffered losses of greater than 90% and remain at historically low levels ... "These high-resolution data can also be used to track small-scale restoration, helping guide management and support kelp forest resilience," lead author Kate Cavanaugh said. By identifying exactly where kelp is struggling or thriving based on local factors like ocean temperature and depth, conservationists can now implement an expanded suite of strategies within the state's Kelp Restoration and Management Plan.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 7h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 8h ago
 
 ---
 
@@ -49,7 +57,7 @@ Researchers at UCLA's Institute of the Environment and Sustainability have devel
 
 There is a lot of AI security research being published on arXiv that has real-world implications, but most of it is written for other researchers. We started a bi-weekly digest that translates these papers into something practitioners and anyone interested in AI safety can actually use. Each paper gets a structured rating across four dimensions (Threat Realism, Defensive Urgency, Novelty, Research Maturity) and a badge: Act Now (immediate practical concern), Watch (emerging technique to monitor), or Horizon (longer-term research trend). **First issue highlights:** **Cascade -- "What if attackers combined software bugs with hardware attacks against AI systems?"** Researchers demonstrated that compound AI systems (the kind built from multiple components -- a retrieval system, an LLM, a database, tools) inherit the vulnerability surface of every component. They showed attacks that chain traditional software CVEs with hardware-level exploits like Rowhammer against AI infrastructure. The practical implication: securing the LLM is not enough if the system around it is vulnerable. **LAMLAD -- "LLMs that automate attacks against other ML systems"** A dual-LLM agent system that automates adversarial machine learning attacks against Android malware classifiers, achieving a 97% evasion rate. The significant part is not the evasion rate itself -- it is that LLMs can now automate the tedious parts of adversarial ML that previously required specialised expertise. This lowers the barrier to attack substantially. **OpenClaw -- "Your AI agent framework probably has these four types of vulnerabilities"** Identifies four classes of vulnerabilities in autonomous agent frameworks. The finding that matters: most current defences focus on the prompt layer, but the real attack surface is in the execution and tool-use layer. Every claim in the digest links back to the source arXiv paper. We flag anything that could not be verified with a visible [VERIFY] tag. Free, no paywall, no signup: https://raxe.ai/labs/radar
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +65,7 @@ There is a lot of AI security research being published on arXiv that has real-wo
 
 Open Source Release I have released three large software systems that I have been developing privately over the past several years. These projects were built as a solo effort, outside of institutional or commercial backing, and are now being made available in the interest of transparency, preservation, and potential collaboration. All three platforms are real, deployable systems. They install via Docker, Helm, or Kubernetes, start successfully, and produce observable results. They are currently running on cloud infrastructure. However, they should be considered unfinished foundations rather than polished products. The ecosystem totals roughly 1.5 million lines of code. The Platforms ASE — Autonomous Software Engineering System ASE is a closed-loop code creation, monitoring, and self-improving platform designed to automate parts of the software development lifecycle. It attempts to: Produce software artifacts from high-level tasks Monitor the results of what it creates Evaluate outcomes Feed corrections back into the process Iterate over time ASE runs today, but the agents require tuning, some features remain incomplete, and output quality varies depending on configuration. VulcanAMI — Transformer / Neuro-Symbolic Hybrid AI Platform Vulcan is an AI system built around a hybrid architecture combining transformer-based language modeling with structured reasoning and control mechanisms. The intent is to address limitations of purely statistical language models by incorporating symbolic components, orchestration logic, and system-level governance. The system deploys and operates, but reliable transformer integration remains a major engineering challenge, and significant work is needed before it could be considered robust. FEMS — Finite Enormity Engine Practical Multiverse Simulation Platform FEMS is a computational platform for large-scale scenario exploration through multiverse simulation, counterfactual analysis, and causal modeling. It is intended as a practical implementation of techniques that are often confined to research environments. The platform runs and produces results, but the models and parameters require expert mathematical tuning. It should not be treated as a validated scientific tool in its current state. Current Status All systems are: Deployable Operational Complex Incomplete Known limitations include: Rough user experience Incomplete documentation in some areas Limited formal testing compared to production software Architectural decisions driven by feasibility rather than polish Areas requiring specialist expertise for refinement Security hardening not yet comprehensive Bugs are present. Why Release Now These projects have reached a point where further progress would benefit from outside perspectives and expertise. As a solo developer, I do not have the resources to fully mature systems of this scope. The release is not tied to a commercial product, funding round, or institutional program. It is simply an opening of work that exists and runs, but is unfinished. About Me My name is Brian D. Anderson and I am not a traditional software engineer. My primary career has been as a fantasy author. I am self-taught and began learning software systems later in life and built these these platforms independently, working on consumer hardware without a team, corporate sponsorship, or academic affiliation. This background will understandably create skepticism. It should also explain the nature of the work: ambitious in scope, uneven in polish, and driven by persistence rather than formal process. The systems were built because I wanted them to exist, not because there was a business plan or institutional mandate behind them. What This Release Is — and Is Not This is: A set of deployable foundations A snapshot of ongoing independent work An invitation for exploration and critique A record of what has been built so far This is not: A finished product suite A turnkey solution for any domain A claim of breakthrough performance A guarantee of support or roadmap For Those Who Explore the Code Please assume: Some components are over-engineered while others are under-developed Naming conventions may be inconsistent Internal knowledge is not fully externalized Improvements are possible in many directions If you find parts that are useful, interesting, or worth improving, you are free to build on them under the terms of the license. In Closing This release is offered as-is, without expectations. The systems exist. They run. They are unfinished. If they are useful to someone else, that is enough. — Brian D. Anderson https://github.com/musicmonk42/The_Code_Factory_Working_V2.git https://github.com/musicmonk42/VulcanAMI_LLM.git https://github.com/musicmonk42/FEMS.git
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +73,7 @@ Open Source Release I have released three large software systems that I have bee
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
-🔗 [Perplexity AI](https://www.perplexity.ai/search/explain-in-full-detail-the-ins-nAG695JNRMCXwG.GiK3uYQ) • 5h ago
+🔗 [Perplexity AI](https://www.perplexity.ai/search/explain-in-full-detail-the-ins-nAG695JNRMCXwG.GiK3uYQ) • 6h ago
 
 ---
 
@@ -73,7 +81,7 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 MIT researchers have spent more than a decade studying techniques that enable robots to find and manipulate hidden objects by "seeing" through obstacles. Their methods utilize surface-penetrating wireless signals that reflect off concealed items. Now, the researchers are leveraging generative artificial intelligence models to overcome a longstanding bottleneck that limited the precision of prior approaches. The result is a new method that produces more accurate shape reconstructions, which could improve a robot's ability to reliably grasp and manipulate objects that are blocked from view. This new technique builds a partial reconstruction of a hidden object from reflected wireless signals and fills in the missing parts of its shape using a specially trained generative AI model. The researchers also introduced an expanded system that uses generative AI to accurately reconstruct an entire room, including all the furniture. The system utilizes wireless signals sent from one stationary radar, which reflect off humans moving in the space. This overcomes one key challenge of many existing methods, which require a wireless sensor to be mounted on a mobile robot to scan the environment. And unlike some popular camera-based techniques, their method preserves the privacy of people in the environment. These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction. "What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes," says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. "We are using AI to finally unlock wireless vision."
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 7h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 8h ago
 
 ---
 
@@ -81,7 +89,7 @@ MIT researchers have spent more than a decade studying techniques that enable ro
 
 This paper critiques the limitations of current AI and introduces a new learning model inspired by biological brains. The authors propose a framework that combines two key methods: System A, which learns by watching, and System B, which learns by doing. To manage these, they include System M, a control unit that decides which learning style to use based on the situation. By mimicking how animals and humans adapt to the real world over time, the authors aim to create AI that can learn more independently.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 19h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 20h ago
 
 ---
 
@@ -89,7 +97,7 @@ This paper critiques the limitations of current AI and introduces a new learning
 
 Heart disease is the leading cause of adult death worldwide, making cardiovascular disease diagnosis and management a global health priority. An echocardiogram, or cardiac ultrasound, is one of the most commonly used imaging tools employed by physicians to diagnose a variety of heart diseases and conditions. Most standard echocardiograms provide two-dimensional visual images (2D) of the three-dimensional (3D) cardiac anatomy. These echocardiograms often capture hundreds of 2D slices or views of a beating heart that can enable physicians to make clinical assessments about the function and structure of the heart. To improve diagnostic accuracy of cardiac conditions, researchers from UC San Francisco set out to determine whether deep neural networks (DNNs), a type of AI algorithm, could be re-designed to better capture complex 3D anatomy and physiology from multiple imaging views simultaneously. They developed a new "multiview" DNN structure—or architecture—to enable it to draw information from multiple imaging views at once, rather than the current approach of using only a single view. They then trained demonstration DNNs using this architecture to detect disease states for three cardiovascular conditions: left and right ventricular abnormalities, diastolic dysfunction, and valvular regurgitation. In a study published March 17 in Nature Cardiovascular Research, the researchers compared the performance of DNNs that analyzed data from either single view or multiple views of the echocardiograms from UCSF and the Montreal Heart Institute. They found that DNNs trained on multiple views improved diagnostic accuracy compared to DNNs trained on any single view, demonstrating that AI models combining information from multiple imaging views simultaneously better captured the disease state of these heart conditions. "Until now, AI has primarily been used to analyze one 2D view at a time—from either images or videos—which limits an AI algorithm's ability to learn disease-relevant information between views," said senior study author Geoffrey Tison, MD, MPH, a cardiologist and co-director of the UCSF Center for Biosignal Research. "DNN architectures that can integrate information across multiple high-resolution views represent a significant step toward maximizing AI performance in medical imaging. In the case of echocardiography, most diagnoses necessitate considering information from more than one view because the information from any single view tells only part of the story."
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-standard-cardiac-imaging.html) • 7h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-standard-cardiac-imaging.html) • 8h ago
 
 ---
 
@@ -97,7 +105,7 @@ Heart disease is the leading cause of adult death worldwide, making cardiovascul
 
 Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agents can be hijacked mid-task through the content they process. Every existing defense operates at the reasoning layer and can be bypassed. Sentinel enforces at the execution layer, structurally, not probabilistically. The agent cannot act outside its authorized boundary regardless of what it's told. You can visit sentinel-gateway.com for more info Loom link contains a short video that introduces Sentinel Gateway UI and how system operates based on 3-4 different prompt injection attempts and agent response. Sentinel eliminates any and all security risk associated with regard to AgenticAI. #AIAgent #AgenticAI #AISecurity #CyberSecurity #PromptInjection
 
-🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 15h ago
+🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 16h ago
 
 ---
 
@@ -109,51 +117,43 @@ Last week's post about Meta buying Moltbook got a lot of discussion here. I thin
 
 ---
 
-**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://www.reddit.com/r/artificial/comments/1rx8q9x/robot_dogs_priced_at_300000_a_piece_are_now/)**
-
-AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
-
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqdknNxwlgbO656JJ7-hijGPP1cyUFGl-TEof0c8MA_RdgJtC5w7Gqq_&gaa_ts=69bc7c85&gaa_sig=NyOxsbv9HCTN8TVkZRRNZawRgyZXRII3lC0TXzTrr_Mkr3zkR61coy6EHGXBYHdlk6cQbooB8_ybPI86Fv_GHA%3D%3D)**
 
-WSJ • 2h ago
+WSJ • 3h ago
 
 ---
 
 **[Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.](https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html)**
 
-The New York Times • 6m ago
+The New York Times • 1h ago
 
 ---
 
 **[Bezos Reportedly Raising $100 Billion To Buy Up Manufacturing Disrupted By AI](https://www.forbes.com/sites/zacharyfolk/2026/03/19/what-we-know-about-jeff-bezos-100-billion-ai-fundraising-plan/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
 **[Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.](https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
 **[Blackburn’s new AI framework seeks to codify Trump’s desires](https://www.politico.com/live-updates/2026/03/18/congress/blackburn-ai-framework-seeks-to-codify-trump-ratepayer-pledge-00834829)**
 
-Politico • 21h ago
+Politico • 22h ago
 
 ---
 
 **[White House eyes Friday rollout for AI framework](https://www.axios.com/2026/03/19/white-house-rollout-ai-framework)**
 
-Axios • 51m ago
+Axios • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Axios • 51m ago
 
 The organization Humans First, which hosts small group meetings, has gotten attention from Elon Musk and White House AI Czar David Sacks.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -169,13 +169,13 @@ NBC News • 2h ago
 
 Kimi K2.5 is now on Workers AI, helping you power agents entirely on Cloudflare’s Developer Platform. Learn how we optimized our inference stack and reduced inference costs for internal agent use cases.
 
-The Cloudflare Blog • 2h ago
+The Cloudflare Blog • 3h ago
 
 ---
 
 **[Nvidia’s Jensen Huang Urges AI Leaders to Avoid Fearmongering](https://www.bloomberg.com/news/articles/2026-03-19/nvidia-s-jensen-huang-urges-ai-leaders-to-avoid-fearmongering)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 1h ago
 
 Who is the better tourney predictor: man or machine?
 
-Yahoo Sports • 7h ago
+Yahoo Sports • 8h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Sports • 7h ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 722 • 💬 186 • 2d ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 723 • 💬 186 • 2d ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -205,7 +205,7 @@ GambleAI
 
 I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...
 
-⬆️ 343 • 💬 419 • 1d ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
+⬆️ 343 • 💬 420 • 1d ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
 
 ---
 
@@ -213,7 +213,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
 
 A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.
 
-⬆️ 262 • 💬 84 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+⬆️ 263 • 💬 84 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 
 ---
 
@@ -221,7 +221,7 @@ A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed
 
 We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
 
-⬆️ 193 • 💬 113 • 2d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+⬆️ 194 • 💬 113 • 2d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -229,7 +229,7 @@ We critically examine the limitations of current AI models in achieving autonomo
 
 Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
 
-⬆️ 187 • 💬 175 • 17h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+⬆️ 189 • 💬 177 • 18h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
 
 ---
 
@@ -237,7 +237,7 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 112 • 💬 96 • 3h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 118 • 💬 101 • 4h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
@@ -253,7 +253,7 @@ Google engineers have been spending the past number of months developing Sashiko
 
 interview: Codestrap founders say we need to dial down the hype and sort through the mess
 
-⬆️ 76 • 💬 27 • 2d ago • [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/)
+⬆️ 77 • 💬 27 • 2d ago • [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/)
 
 ---
 
@@ -293,7 +293,7 @@ The company that promised AI would do the job of 10 people, can't even do the jo
 
 📺 Mo Bitar
 
-👁️ 77K • 👍 5K • 💬 890 • ⏱️ 7:16 • 10h ago
+👁️ 77K • 👍 5K • 💬 890 • ⏱️ 7:16 • 11h ago
 
 ---
 
@@ -303,7 +303,7 @@ Maybe you have to give them credit for trying? In this segment Jimmy highlights 
 
 📺 The Jimmy Dore Show
 
-👁️ 25K • 👍 3K • 💬 594 • ⏱️ 4:53 • 3h ago
+👁️ 25K • 👍 3K • 💬 594 • ⏱️ 4:53 • 4h ago
 
 ---
 
@@ -313,7 +313,7 @@ Another day, another absurd AI-generated "proof of life" video featuring Benjami
 
 📺 The Jimmy Dore Show
 
-👁️ 42K • 👍 4K • 💬 988 • ⏱️ 11:28 • 3h ago
+👁️ 42K • 👍 4K • 💬 988 • ⏱️ 11:28 • 4h ago
 
 ---
 
@@ -323,7 +323,7 @@ Nearly a year after his death, actor Val Kilmer will return to the screen as an 
 
 📺 TODAY
 
-👁️ 5K • 👍 68 • 💬 30 • ⏱️ 2:52 • 9h ago
+👁️ 5K • 👍 68 • 💬 30 • ⏱️ 2:52 • 10h ago
 
 ---
 
@@ -333,7 +333,7 @@ Sam Altman just said the architecture behind ChatGPT and most modern AI may soon
 
 📺 AI Revolution
 
-👁️ 119K • 👍 3K • 💬 309 • ⏱️ 11:10 • 1d ago
+👁️ 119K • 👍 3K • 💬 309 • ⏱️ 11:10 • 2d ago
 
 ---
 
@@ -363,7 +363,7 @@ Grok AI has stopped free video generation — but don't worry, I'll show you bet
 
 📺 Josephs AI
 
-👁️ 24K • 👍 951 • 💬 319 • ⏱️ 4:06 • 13h ago
+👁️ 24K • 👍 951 • 💬 319 • ⏱️ 4:06 • 14h ago
 
 ---
 
@@ -373,7 +373,7 @@ Cal Newport takes a critical look at recent AI News. More from Cal Download Cal'
 
 📺 Cal Newport
 
-👁️ 6K • 👍 262 • 💬 64 • ⏱️ 23:43 • 12h ago
+👁️ 6K • 👍 262 • 💬 64 • ⏱️ 23:43 • 13h ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 104,592 • ❤️ 920 • 11d ago
+⬇️ 104,592 • ❤️ 920 • 12d ago
 
 ---
 
@@ -449,7 +449,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 704 • ❤️ 232 • 12h ago
+⬇️ 704 • ❤️ 232 • 13h ago
 
 ---
 
@@ -670,7 +670,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.7k • 🔱 1.6k • 7h ago
+⭐ 12.7k • 🔱 1.6k • 8h ago
 
 ---
 
@@ -680,7 +680,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.4k • 🔱 1.1k • 1d ago
+⭐ 11.4k • 🔱 1.1k • 2d ago
 
 ---
 
@@ -690,7 +690,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.0k • 🔱 725 • 6h ago
+⭐ 10.0k • 🔱 725 • 7h ago
 
 ---
 
@@ -700,7 +700,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.9k • 🔱 431 • 8h ago
+⭐ 8.9k • 🔱 431 • 9h ago
 
 ---
 
@@ -710,7 +710,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.1k • 🔱 726 • 1h ago
+⭐ 5.1k • 🔱 726 • 2h ago
 
 ---
 
@@ -720,7 +720,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.3k • 🔱 366 • 2h ago
+⭐ 4.3k • 🔱 366 • 3h ago
 
 ---
 
@@ -730,7 +730,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.5k • 🔱 339 • 3h ago
+⭐ 3.5k • 🔱 339 • 4h ago
 
 ---
 

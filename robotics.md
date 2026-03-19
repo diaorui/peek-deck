@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T22:31:05.833625+00:00'
+updated: '2026-03-19T23:31:24.503177+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 22:31 UTC  
+**Last Updated:** March 19, 2026 at 23:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,19 +42,19 @@ Robotics research and industry news
 
 Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
 
-5h ago
+6h ago
 
 ---
 
 **[Legit Tesla robot](https://www.reddit.com/r/robotics/comments/1ry9v81/legit_tesla_robot/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -62,13 +62,13 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 I integrated the RoboBaton Viobot2 SLAM camera into my drone build. The VIO performance is notably stable, offering reliable visual odometry for autonomous flight applications.
 
-5h ago
+6h ago
 
 ---
 
 **[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -90,15 +90,15 @@ This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) 
 
 Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 14h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 15h ago
 
 ---
 
-**[Test my robot control interface](https://www.reddit.com/r/robotics/comments/1rydniz/test_my_robot_control_interface/)**
+**[Building an A.I. navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 6)](https://www.reddit.com/r/robotics/comments/1ryfrmu/building_an_ai_navigation_software_that_will_only/)**
 
-I've got an unusual type of robot - a cable driven parallel robot - and a control panel to drive it. the control panel connects to robot telemetry and sends commands. Let me know what you think, or even better, try to break it. Yes, there's not much to it right now, it just moves around, but I greatly appreciate your critique and first impressions.
+Been seeing a lot of people building robots that use the ChatGPT API to give them autonomy, but that's like asking a writer to be a gymnast, so I'm building a software that makes better use of VLMs, Depth Estimation and World Models, to give autonomy to your robot. Building this in public. (skipped DAY 5 bc there was no much progress really) Today: > Tested out different visual odometry algorithms > Turns out DA3 is also pretty good for pose estimation/odometry > Was struggling for a bit generating a reasonable occupancy grid > Reused some old code from my robotics research in college > Turns out Bayesian Log-Odds Mapping yielded some kinda good results at least > Pretty low definition voxels for now, but pretty good for SLAM that just uses a camera and no IMU or other odometry methods Working towards releasing this as an API alongside a Python SDK repo, for any builder to be able to add autonomy to their robot as long as it has a camera
 
-🔗 [neufangled.com](https://neufangled.com/control_panel?robotid=sim) • 37m ago
+15m ago
 
 ---
 
@@ -106,35 +106,19 @@ I've got an unusual type of robot - a cable driven parallel robot - and a contro
 
 ## Google News: "robotics"
 
-**[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
-
-The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
-
-CNBC • 25m ago
-
----
-
 **[Amazon Acquires Robotics Startup, Boosting Efforts to Streamline Deliveries](https://www.theinformation.com/articles/amazon-acquires-robotics-startup-boosting-efforts-streamline-deliveries)**
 
 Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
 
-The Information • 2h ago
+The Information • 3h ago
 
 ---
 
-**[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
+**[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
 
-The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
+The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
 
-The Guardian • 17h ago
-
----
-
-**[Ranked: The Companies Shipping the Most Humanoid Robots](https://www.visualcapitalist.com/ranked-the-companies-shipping-the-worlds-humanoid-robots/)**
-
-From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
-
-Visual Capitalist • 2d ago
+CNBC • 1h ago
 
 ---
 
@@ -150,13 +134,45 @@ Financial Times • 8d ago
 
 After decades of promise, autonomous systems and robotics are moving from labs to factory floors and households — powered by breakthroughs in AI and hardware.
 
-Bessemer Venture Partners • 5h ago
+Bessemer Venture Partners • 6h ago
 
 ---
 
-**[The Good Side: From Robotics to Resilience](https://www.13abc.com/video/2026/03/19/good-side-robotics-resilience/)**
+**[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
 
-WTVG • 4h ago
+Bloomberg.com • 2d ago
+
+---
+
+**[Gecko Robotics lands the largest US Navy robotics deal yet](https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/)**
+
+Gecko Robotics inked a five-year deal to help the U.S. Navy monitor and predict needed maintenance on its fleet of ships.
+
+TechCrunch • 2d ago
+
+---
+
+**[Wall-climbing robots swarm US Navy warships](https://www.foxnews.com/tech/ai-newsletter-wall-climbing-robots-swarm-us-navy-warships)**
+
+The Fox News AI Newsletter gives readers the latest AI technology advancements, covering the challenges and opportunities AI presents.
+
+Fox News • 4h ago
+
+---
+
+**[The Good Side: From Robotics to Resilience](https://www.kttc.com/2026/03/19/good-side-robotics-resilience/)**
+
+Capitol City Robotics encourages underrepresented kids to learn robotics and other STEM subjects.
+
+KTTC | Rochester, MN • 5h ago
+
+---
+
+**[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
+
+The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
+
+The Guardian • 18h ago
 
 ---
 
@@ -165,22 +181,6 @@ WTVG • 4h ago
 In a recent episode of Radio Davos and in a session at the World Economic Forum's 56th Annual Meeting in Davos, experts on physical AI talked us through what's next for autonomous systems.
 
 The World Economic Forum • 1d ago
-
----
-
-**[From Simulation to Production: How to Build Robots With AI](https://blogs.nvidia.com/blog/build-robots-with-ai/)**
-
-The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.
-
-NVIDIA Blog • 1d ago
-
----
-
-**[Delivery Robot Dogpiled on the Streets of Philly](https://futurism.com/robots-and-machines/delivery-robot-philadelphia)**
-
-One little bot learned the tagline "city of brotherly love" only applies to humans, not food delivery robots.
-
-Futurism • 9h ago
 
 ---
 
@@ -204,7 +204,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 80K • 👍 1K • 💬 323 • ⏱️ 3:38 • 19h ago
+👁️ 80K • 👍 1K • 💬 323 • ⏱️ 3:38 • 20h ago
 
 ---
 
@@ -214,7 +214,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 23K • 👍 427 • 💬 270 • ⏱️ 2:07 • 11h ago
+👁️ 23K • 👍 427 • 💬 270 • ⏱️ 2:07 • 12h ago
 
 ---
 
@@ -234,7 +234,7 @@ I visited @SundayRobotics to see how they're building a household robot that act
 
 📺 ZAUEY (Claire Zau)
 
-👁️ 26K • 👍 811 • 💬 67 • ⏱️ 15:48 • 6d ago
+👁️ 26K • 👍 811 • 💬 67 • ⏱️ 15:48 • 7d ago
 
 ---
 
@@ -264,7 +264,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 48K • 👍 673 • 💬 81 • ⏱️ 14:52 • 5d ago
+👁️ 48K • 👍 673 • 💬 81 • ⏱️ 14:52 • 6d ago
 
 ---
 

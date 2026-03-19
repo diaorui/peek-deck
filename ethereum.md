@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-19T22:31:05.830444+00:00'
+updated: '2026-03-19T23:31:24.500397+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 22:31 UTC  
+**Last Updated:** March 19, 2026 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +2.7%  
-**30d:** +10.0%  
-**90d:** -27.8%  
-**1y:** +8.6%  
+**24h:** -2.4%  
+**7d:** +2.2%  
+**30d:** +9.4%  
+**90d:** -28.2%  
+**1y:** +8.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 It is genuinely crazy to sit back and think that I've been actively trading in this space since late 2017. If you had told me back then about half the things we've lived through, I would have called you insane. I've watched the ICO craze turn to dust, the DeFi summer print millionaires overnight, and the absolute bloodbath of the FTX and Celsius collapses. When you first get into crypto, all you care about is finding that next 100x gem. You chase yield, you jump into sketchy liquidity pools, and you ignore all the red flags. But after you survive a few brutal bear markets, your priorities shift entirely. Honestly, longevity is the only metric I actually care about now. If an exchange or a project has been around for multiple full four-year cycles, I trust them infinitely more than the flavor of the month. I was looking at the charts today and noticed BitMart is running their 8th-anniversary events. It kind of hit me. 8 years in the crypto industry is the equivalent of 80 years in traditional finance. Surviving the regulatory crackdowns, the hacks that wiped out competitors, and the immense volatility takes serious infrastructure. For all the new guys here: stop chasing the 40% APY on platforms that launched three months ago. Stick to the survivors, secure your seed phrases, and use exchanges that have actually proven they can weather the storm.
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,15 @@ It is genuinely crazy to sit back and think that I've been actively trading in t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
+
+---
+
+**[A new kind of block explorer](https://www.reddit.com/r/ethereum/comments/1ryey1t/a_new_kind_of_block_explorer/)**
+
+Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
+
+48m ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Seen some past posts that people had lost their wallets and this might help those people! If you created a wallet with CoinSpace (now Coin Wallet) around early 2021 and your seed phrase generates a completely different address in MetaMask or any standard tool... you're not crazy. The software had a bug. CoinSpace v3.0.7 (and maybe other versions) incorrectly derived wallet addresses from your seed phrase due to two compounding errors in the code. Your seed phrase can be recovered - but not using it directly. the app just used a broken algorithm to turn it into an address, one that no standard wallet tool replicates. CoinWallet is aware of part of the issue and will point you to a derivation path fix if you report it, but that fix alone doesn't work. The recovery script in the repo handles it correctly. I hit this when I needed to recover 1.55 ETH from a wallet I created in Feb 2021. After weeks of forensics I found the bug and wrote a recovery script. Recovery script: https://github.com/RobMulla/coinspace-eth-recovery Full long writeup about my journey: https://robmulla.substack.com/p/how-my-sons-roblox-mod-helped-me If you're affected, and this works for you please let me know! Or if you knew about this already... I'm curious to know if I'm not the only one.
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +104,7 @@ Seen some past posts that people had lost their wallets and this might help thos
 
 The top priority is safety and security. The coins to be stored are ETH and USDC (can also be 2 separate wallets for each, I dont mind that). They are to be used for long-term. The wallet will be installed on a external drive which is then removed and stored securely. Wallet is not installed on the computer itself. What are your best recommendations? PS: Yes, I know! Usually people recommend hardware wallets... but I think they are still risky because you put all your trust in just one single company, and sometimes they can do stupid stuff, for example as we've seen some stories with Ledger and their multiple data leaks. I personally feel more comfrotable with a software one, as long as it's safe and secure.
 
-23h ago
+1d ago
 
 ---
 
@@ -136,14 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[FCR — Fast Confirmation Rule for Ethereum](https://www.reddit.com/r/ethereum/comments/1rw6o1r/fcr_fast_confirmation_rule_for_ethereum/)**
-
-Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
-
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +152,7 @@ Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Determinist
 
 A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -164,17 +164,17 @@ Decrypt • 1d ago
 
 ---
 
-**[XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-bitcoin-vs-ethereum-132035939.html)**
+**[Bitcoin, Ethereum prices drop on hot inflation data ahead of Fed meeting](https://finance.yahoo.com/news/bitcoin-ethereum-prices-drop-hot-184341708.html?pl2=unspecified-block_all)**
 
-Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
+Bitcoin and Ethereum prices dropped hard on Wednesday. The dip in prices comes as investors wait to see what the Federal Reserve will do. Inflation is hot so a cut is looking unlikely.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Ethereum Price Holds Near $2,130 After Fed Message Cools Rebound Hopes](https://seekingalpha.com/article/4884267-ethereum-price-holds-near-2130-after-fed-message-cools-rebound-hopes)**
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -182,7 +182,7 @@ Seeking Alpha • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -190,7 +190,7 @@ Fortune • 7h ago
 
 Vitalik Buterin said that the 'lean Ethereum' plan was the only way to get faster speed and security without trade-offs.
 
-AMBCrypto • 14h ago
+AMBCrypto • 15h ago
 
 ---
 
@@ -204,15 +204,7 @@ TradingView • 1d ago
 
 **[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
 
-TipRanks • 18h ago
-
----
-
-**[Crypto News Today: Remittix Presale Approaches $30M Raised Boosting Ethereum Price Predictions](https://markets.businessinsider.com/news/stocks/crypto-news-today-remittix-presale-approaches-30m-raised-boosting-ethereum-price-predictions-1035946747)**
-
-MAJURO, Marshall Islands, March  19, 2026  (GLOBE NEWSWIRE) -- Remittix has raised $29.7 million in its final presale stage with $30 million withi...
-
-markets.businessinsider.com • 4h ago
+TipRanks • 19h ago
 
 ---
 
@@ -220,7 +212,15 @@ markets.businessinsider.com • 4h ago
 
 Amundi and Spiko launch SAFO, a tokenized fund for treasury and collateral management with 24/7 transferability and onchain settlement.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
+
+---
+
+**[New Crypto: Pepeto Announces New Binance Expert Onboard While Ethereum Price Outperforms BTC But Bitcoin Price Prediction Targets ATH](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-new-binance-expert-onboard-while-ethereum-price-outperforms-btc-but-bitcoin-price-prediction-targets-ath-1035943299)**
+
+Dubai, UAE, March  18, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that a new Binance executive has joined the development team to accelerate the e...
+
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 735 • 👍 78 • 💬 4 • ⏱️ 4:29 • 2h ago
+👁️ 735 • 👍 78 • 💬 4 • ⏱️ 4:29 • 3h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 EllioTrades
 
-👁️ 5K • 👍 150 • 💬 56 • ⏱️ 1:07 • 8h ago
+👁️ 5K • 👍 150 • 💬 56 • ⏱️ 1:07 • 9h ago
 
 ---
 
@@ -252,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 6 • ⏱️ 4:15 • 20h ago
+👁️ 2K • 👍 129 • 💬 6 • ⏱️ 4:15 • 21h ago
 
 ---
 
@@ -262,7 +262,7 @@ BMNR has been increasing their pace of ETH purchase and stacking cash over the l
 
 📺 Elijah Cheng
 
-👁️ 2K • 👍 88 • 💬 26 • ⏱️ 33:20 • 8h ago
+👁️ 2K • 👍 88 • 💬 26 • ⏱️ 33:20 • 9h ago
 
 ---
 
@@ -272,7 +272,7 @@ Canton is the first privacy-enabled open blockchain network, ensuring limitless 
 
 📺 Paul Barron Network
 
-👁️ 5K • 👍 873 • 💬 421 • ⏱️ 30:27 • 2h ago
+👁️ 5K • 👍 873 • 💬 421 • ⏱️ 30:27 • 3h ago
 
 ---
 
@@ -282,7 +282,7 @@ In this live technical analysis session, The Trading Parrot breaks down BTC, ETH
 
 📺 The Trading Parrot
 
-👁️ 1K • 👍 149 • 💬 9 • ⏱️ 1:10:26 • 8h ago
+👁️ 1K • 👍 149 • 💬 9 • ⏱️ 1:10:26 • 9h ago
 
 ---
 
@@ -292,7 +292,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 254 • 👍 18 • 💬 1 • ⏱️ 5:34 • 12h ago
+👁️ 254 • 👍 18 • 💬 1 • ⏱️ 5:34 • 13h ago
 
 ---
 
@@ -302,7 +302,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 72 • 👍 11 • 💬 5 • ⏱️ 8:24 • 7h ago
+👁️ 72 • 👍 11 • 💬 5 • ⏱️ 8:24 • 8h ago
 
 ---
 
@@ -322,7 +322,7 @@ Crypto insiders debate the Ethereum Foundation's new “CROPS” mandate: is the
 
 📺 Unchained
 
-👁️ 804 • 👍 27 • 💬 9 • ⏱️ 1:11:22 • 6h ago
+👁️ 804 • 👍 27 • 💬 9 • ⏱️ 1:11:22 • 7h ago
 
 ---
 
