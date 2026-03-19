@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T19:00:32.325764+00:00'
+updated: '2026-03-19T19:50:19.152182+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 19:00 UTC  
+**Last Updated:** March 19, 2026 at 19:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -48,7 +48,7 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -56,13 +56,13 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 I integrated the RoboBaton Viobot2 SLAM camera into my drone build. The VIO performance is notably stable, offering reliable visual odometry for autonomous flight applications.
 
-1h ago
+2h ago
 
 ---
 
 **[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -84,7 +84,7 @@ This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) 
 
 Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 10h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 11h ago
 
 ---
 
@@ -100,7 +100,7 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 I found that it's just as powerful as the T265, with slightly better accuracy than the T265. When stationary, even with dynamic objects moving in front of it, its visual positioning doesn't drift—very stable.
 
-3h ago
+4h ago
 
 ---
 
@@ -112,7 +112,7 @@ I found that it's just as powerful as the T265, with slightly better accuracy th
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -136,7 +136,7 @@ NVIDIA Blog • 1d ago
 
 Foundation has reportedly delivered two Phantom MK-1 humanoid robots to Ukraine for battlefield testing as robotic warfare expands.
 
-eWeek • 1d ago
+eWeek • 2d ago
 
 ---
 
@@ -174,7 +174,7 @@ Euronews.com • 1d ago
 
 One little bot learned the tagline "city of brotherly love" only applies to humans, not food delivery robots.
 
-Futurism • 5h ago
+Futurism • 6h ago
 
 ---
 
@@ -182,7 +182,7 @@ Futurism • 5h ago
 
 They can lift heavy boxes and climb shelves 12m high but will they put humans out of work?
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -190,23 +190,23 @@ BBC • 12h ago
 
 ## YouTube Videos: "robotics"
 
-**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
-
-Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
-
-📺 NBC News
-
-👁️ 58K • 👍 867 • 💬 254 • ⏱️ 3:38 • 15h ago
-
----
-
 **[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
 
 The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
 
 📺 DPCcars
 
-👁️ 111K • 👍 865 • 💬 90 • ⏱️ 2:02 • 2d ago
+👁️ 113K • 👍 879 • 💬 92 • ⏱️ 2:02 • 2d ago
+
+---
+
+**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
+
+Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
+
+📺 NBC News
+
+👁️ 71K • 👍 978 • 💬 294 • ⏱️ 3:38 • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 14K • 👍 318 • 💬 208 • ⏱️ 2:07 • 7h ago
+👁️ 19K • 👍 363 • 💬 239 • ⏱️ 2:07 • 8h ago
 
 ---
 
@@ -226,7 +226,7 @@ Flagrant is a comedy show that delivers unfiltered, unapologetic, and unruly hot
 
 📺 FLAGRANT CLIPS
 
-👁️ 55K • 👍 2K • 💬 252 • ⏱️ 16:57 • 2d ago
+👁️ 57K • 👍 2K • 💬 257 • ⏱️ 16:57 • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ I visited @SundayRobotics to see how they're building a household robot that act
 
 📺 ZAUEY (Claire Zau)
 
-👁️ 25K • 👍 801 • 💬 67 • ⏱️ 15:48 • 6d ago
+👁️ 25K • 👍 806 • 💬 67 • ⏱️ 15:48 • 6d ago
 
 ---
 
@@ -256,7 +256,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 3K • 👍 105 • 💬 3 • ⏱️ 4:39 • 2d ago
+👁️ 3K • 👍 107 • 💬 3 • ⏱️ 4:39 • 2d ago
 
 ---
 
@@ -266,7 +266,7 @@ We got a sneak peek at Disney's newest robotic character Olaf, who will debut at
 
 📺 CNET
 
-👁️ 124K • 👍 2K • 💬 127 • ⏱️ 3:35 • 2d ago
+👁️ 126K • 👍 2K • 💬 128 • ⏱️ 3:35 • 2d ago
 
 ---
 
@@ -280,13 +280,13 @@ China just revealed a robotic system that can turn a human into something that m
 
 ---
 
-**[Jensen Huang Reveals the Future of Self Driving Cars and Robots at NVIDIA GTC 2026](https://www.youtube.com/watch?v=bvg4zdOeFMk)**
+**[NEW VELOS Guns on AMMIT are INSANE! War Robots](https://www.youtube.com/watch?v=gcxfeY7GmOA)**
 
-Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen Huang revealed how new AI systems are powering ...
+War Robots Gameplay: NEW Guns VELOS on the Ammit are crazy! WR My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 DPCcars
+📺 Manni-Gaming
 
-👁️ 116K • 👍 1K • 💬 228 • ⏱️ 11:48 • 2d ago
+👁️ 3K • 👍 268 • 💬 59 • ⏱️ 22:28 • 6h ago
 
 ---
 
