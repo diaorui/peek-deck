@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T11:08:44.539910+00:00'
+updated: '2026-03-19T11:57:30.889426+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 11:08 UTC  
+**Last Updated:** March 19, 2026 at 11:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[FANUC DR Series High-Speed Delta Robot in Action](https://www.reddit.com/r/robotics/comments/1rx9b6m/fanuc_dr_series_highspeed_delta_robot_in_action/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) This is a project I did only to learn 3D modeling and robotic. Works with Arduino and ROS
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 2h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 3h ago
 
 ---
 
@@ -72,7 +72,7 @@ Tried with Brachiation motion - a had swing motion that mostly gibbons etc use t
 
 **[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -86,13 +86,13 @@ Tried with Brachiation motion - a had swing motion that mostly gibbons etc use t
 
 Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics research easier, and I mainly work on our visualization tools and our real-time control API for MATLAB. We've often hit bottlenecks when doing visualization out of process. To solve this, we spent the last several months exposing internal UI tools via a stable C ABI, so they can be embedded directly into development code with full access and minimal overhead. After many challenges, we're finally at a point where I'm excited to share a first video of the result. Since the library needs to play well with Python and MATLAB, the engine is 100% asynchronous. An internal layer handles the state transfer, and the UI thread simply swaps to the latest state at the start of every frame. This means users never have to worry about mutexes or the UI thread. All calls are isolated and non-blocking, so you can push data from a high-frequency control loop. For MATLAB users, this means you can run a tight busy-loop without a pause or drawnow, and it still renders smoothly at 60 fps. The bindings are fully auto-generated, so Python and MATLAB get 100% type-hint and autocomplete support out of the box. We're still ironing out a few minor things, but the goal is to make this available to the community and independent of the HEBI hardware ecosystem (as is most of our software). I'm curious what people think! I'm also happy to geek out about the technical details in person at ERF next week or ICRA in June.
 
-🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 14h ago
+🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 15h ago
 
 ---
 
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-39m ago
+1h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics rese
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 14h ago
 
 ---
 
@@ -252,7 +252,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Robot Julie 
 
-👁️ 2K • 👍 20 • ⏱️ 0:24 • 10h ago
+👁️ 2K • 👍 20 • ⏱️ 0:24 • 11h ago
 
 ---
 

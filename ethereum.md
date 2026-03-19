@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-19T11:08:44.536723+00:00'
+updated: '2026-03-19T11:57:30.886526+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 11:08 UTC  
+**Last Updated:** March 19, 2026 at 11:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The top priority is safety and security. The coins to be stored are ETH and USDC (can also be 2 separate wallets for each, I dont mind that). They are to be used for long-term. The wallet will be installed on a external drive which is then removed and stored securely. Wallet is not installed on the computer itself. What are your best recommendations? PS: Yes, I know! Usually people recommend hardware wallets... but I think they are still risky because you put all your trust in just one single company, and sometimes they can do stupid stuff, for example as we've seen some stories with Ledger and their multiple data leaks. I personally feel more comfrotable with a software one, as long as it's safe and secure.
 
-12h ago
+13h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
 
-16h ago
+17h ago
 
 ---
 
@@ -152,7 +152,7 @@ EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing inse
 
 A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 8h ago
 
 Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 16h ago
 
 When it comes to stablecoins, Ethereum rules and the XRP Ledger lags far behind.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1h ago
 
 The Federal Reserve voted Wednesday (March 18) to hold benchmark interest rates steady at a target range of 3.50% to 3.75%, opting for caution amid rising energy costs that threaten to complicate the US economic recovery, which had a significant impact on the Bitcoin price. The decision to pause rather ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ Barron's • 2d ago
 
 **[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
 
-TipRanks • 7h ago
+TipRanks • 8h ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 16h ago
 
 **[Why Is Ethereum Foundation Selling ETH? Samson Mow Slams ETH as 'Not Money' While Concerns Grow](https://www.ccn.com/news/crypto/why-ethereum-foundation-selling-eth-samson-mow-slams-ethereum/)**
 
-CCN.com • 14m ago
+CCN.com • 1h ago
 
 ---
 
@@ -218,7 +218,7 @@ AMBCrypto • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -232,7 +232,7 @@ BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 253 • 💬 51 • ⏱️ 17:24 • 8h ago
+👁️ 5K • 👍 253 • 💬 51 • ⏱️ 17:24 • 9h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 110 • 💬 3 • ⏱️ 4:15 • 8h ago
+👁️ 1K • 👍 110 • 💬 3 • ⏱️ 4:15 • 9h ago
 
 ---
 
@@ -252,7 +252,7 @@ BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blo
 
 📺 Marzell Crypto
 
-👁️ 442 • 👍 15 • 💬 35 • ⏱️ 3:03 • 17h ago
+👁️ 442 • 👍 15 • 💬 35 • ⏱️ 3:03 • 18h ago
 
 ---
 
@@ -262,7 +262,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 603 • 👍 21 • 💬 1 • ⏱️ 4:12 • 17h ago
+👁️ 603 • 👍 21 • 💬 1 • ⏱️ 4:12 • 18h ago
 
 ---
 
@@ -282,7 +282,7 @@ Brian from Santiment joined me to review the crypto market metrics. We review on
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 224 • 💬 56 • ⏱️ 28:07 • 23h ago
+👁️ 3K • 👍 224 • 💬 56 • ⏱️ 28:07 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-19T11:08:44.530803+00:00'
+updated: '2026-03-19T11:57:30.881291+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 11:08 UTC  
+**Last Updated:** March 19, 2026 at 11:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[who remember those guys?](https://www.reddit.com/r/Bitcoin/comments/1rxuwuj/who_remember_those_guys/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Institutional demand for Bitcoin has risen to its highest level since October, 2025](https://www.reddit.com/r/Bitcoin/comments/1rxanbh/institutional_demand_for_bitcoin_has_risen_to_its/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Guys, this is next level disturbing. The letter obviously has my full name and home address in order to get delivered. The contents of the letter goes on about Trezor’s new “Authentication Code” going into effect here soon and to scan the QR code on the letter to activate it. It had all the legal mumble jumble and very official looking. Be safe out there everyone. Scammers are not only using the internet.
 
-15h ago
+16h ago
 
 ---
 
@@ -101,13 +101,13 @@ Guys, this is next level disturbing. The letter obviously has my full name and h
 
 I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s too heavy. Then in the 60k range I feel the need to double down. Thoughts?
 
-1h ago
+2h ago
 
 ---
 
 **[Morpheus explains the truth about the simulation](https://www.reddit.com/r/Bitcoin/comments/1rxx6cm/morpheus_explains_the_truth_about_the_simulation/)**
 
-17m ago
+1h ago
 
 ---
 
@@ -115,7 +115,7 @@ I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s t
 
 I've been running my own umbrel node and staring at the mempool way too much. And it was not really funny. At some point my brain... "What if every transaction was a vehicle on a highway? Small ones are bikes, big ones are trucks etc, etc The result is TxRush – a real-time mempool visualizer where BTC transactions drive across your screen as vehicles. The bigger the amount, the bigger the ride. Actually not a bad way to learn a thing or two about Bitcoin It's a side project, it's free, no signups, no ads, no tracking. Just mempool traffic as a highway. Works on mobile and desktop. Oh and there's a live BTC price with a 24h chart for all you 3am price checkers out there Roast it, love it, ignore it – I had fun building it either way. Link if you want
 
-19h ago
+20h ago
 
 ---
 
@@ -131,7 +131,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hey r/Bitcoin, My name is Marc, I’m 20 years old, and I want to quickly share my story with you. A while ago I really started learning about Bitcoin and I see in it what many people still don’t see. At first my goal was simple: instead of letting my money sit in a bank savings account, I wanted to use Bitcoin to actually build a future for myself. Meanwhile it has become much more than that. I work full-time as a paramedic (emergency medical technician). Right now I’ve increased my hours to 120% — that means roughly 6 days a week. At these prices I want to earn and stack as much Bitcoin as possible. Currently I’m only 0.00868 BTC away from my first 0.1 Bitcoin. According to my plan I should hit that in about 2 weeks — and I definitely won’t stop there. I also just cashed out an old pension insurance policy that my grandparents set up for me years ago. There was around $4,000 on it. Realistically I would have only received about $40 per month in retirement from it, so I decided to take the money now and put it all into Bitcoin instead. Who knows — maybe this decision will one day change my entire life. With realistic projections I should reach around 0.15 BTC in a few months. If things continue to go well, 0.25 BTC by 2026-2027 feels very achievable. Bitcoin isn’t just an investment for me anymore. It’s the opportunity I want to go all-in on while I’m still young and able to push hard. Thanks for reading.
 
-11h ago
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ Hey r/Bitcoin, My name is Marc, I’m 20 years old, and I want to quickly share 
 
 People who dismiss the 4 year cycle got a reality check. I think the power law dynamics are also equally true. For you to remain aware, I pulled the full Power Law dataset (2011–2026) and ran the numbers on what happens when Bitcoin trades at different distances from the model's fair value line. Current state: BTC price: ~$74K Power Law fair value: ~$124K Discount: −40% Power Law floor: ~$52K Corridor position: bottom quarter (deep in the undervalued zone) Every single time BTC has been 40%+ below Power Law fair value, it was higher one year later. 873 out of 873 days. The median gain was +174%. The last time BTC was this discounted was late 2022 / early 2023 — when it was trading around $16–20K and fair value was climbing through $30K+. The DCA problem in this context: If you're in the deep discount zone and you DCA from here, your effective entry drifts upward as BTC (presumably) mean-reverts toward fair value. At 40% annual growth (roughly what the Power Law FV line itself grows at), a 12-month DCA from $74K produces an effective entry around $85K. That's still below fair value, but you've given back a chunk of your discount. This is where all the loan guys come in this sub reddit. I'm not saying DCA is wrong. DCA is discipline, it removes timing risk, and it works. But if you believe the Power Law model, the data says you're in a historically rare window. DCA spreads your buys across this window and the (presumably higher-priced) future. Locking in now keeps your entire position in the discount zone. It's time to Lump sum BTC now!
 
-22h ago
+23h ago
 
 ---
 
@@ -157,7 +157,7 @@ People who dismiss the 4 year cycle got a reality check. I think the power law d
 
 OGs sell as Fed's hawkish stance on rates pressures crypto and other risk assets.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bloomberg.com • 1h ago
 
 A UK woman is accused of spying on her husband and stealing $172 million in Bitcoin from his hardware wallet.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -187,7 +187,7 @@ Gizmodo • 1d ago
 
 Timing the market is a lot harder than some people make it sound.
 
-The Motley Fool • 32m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 12h ago
 
 Victim advocates fear the funds seized from the Prince Group’s founder will be stashed away for the U.S.’s new strategic cryptocurrency reserve.
 
-International Consortium of Investigative Journalists - ICIJ • 12h ago
+International Consortium of Investigative Journalists - ICIJ • 13h ago
 
 ---
 
@@ -211,7 +211,7 @@ International Consortium of Investigative Journalists - ICIJ • 12h ago
 
 The two prior times when the bitcoin-to-S&P-500 relative line made a key low, it also marked major lows for the SPX — March 2020 and Oct. 2022.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -225,7 +225,7 @@ FinTech Weekly • 20h ago
 
 **[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
 
-WATE 6 On Your Side • 12h ago
+WATE 6 On Your Side • 13h ago
 
 ---
 
@@ -289,7 +289,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Play a 2D pixel platformer built to explore self-play and reinforcement learning.
 
-⬆️ 1 • 💬 0 • 2h ago • [rlplays.com](https://rlplays.com/game)
+⬆️ 1 • 💬 0 • 3h ago • [rlplays.com](https://rlplays.com/game)
 
 ---
 
@@ -297,7 +297,7 @@ Play a 2D pixel platformer built to explore self-play and reinforcement learning
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 0 • 8h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 0 • 9h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -327,7 +327,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Benjamin Cowen
 
-👁️ 24K • 👍 2K • 💬 83 • ⏱️ 16:44 • 6h ago
+👁️ 24K • 👍 2K • 💬 83 • ⏱️ 16:44 • 7h ago
 
 ---
 
@@ -357,7 +357,7 @@ HUGE win for bitcoin clarity in the U.S. NOT coming from the Clarity Act ...
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 57 • ⏱️ 9:25 • 12h ago
+👁️ 24K • 👍 2K • 💬 57 • ⏱️ 9:25 • 13h ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin #Crypto #Finance The SEC and CFTC just made a historic move by defining 
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 519 • 💬 198 • ⏱️ 19:06 • 21h ago
+👁️ 12K • 👍 519 • 💬 198 • ⏱️ 19:06 • 22h ago
 
 ---
 
@@ -397,7 +397,7 @@ SEC Chairman Paul Atkins joins 'Squawk Box' to discuss the agency's position on 
 
 📺 CNBC Television
 
-👁️ 32K • 👍 405 • 💬 151 • ⏱️ 5:41 • 20h ago
+👁️ 32K • 👍 405 • 💬 151 • ⏱️ 5:41 • 21h ago
 
 ---
 
