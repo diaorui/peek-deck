@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-19T13:23:08.400652+00:00'
+updated: '2026-03-19T14:28:43.172984+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 13:23 UTC  
+**Last Updated:** March 19, 2026 at 14:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,131.14
+### $2,113.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +2.0%  
-**30d:** +9.2%  
-**90d:** -28.3%  
-**1y:** +7.9%  
+**24h:** -3.0%  
+**7d:** +1.4%  
+**30d:** +8.5%  
+**90d:** -28.8%  
+**1y:** +7.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The top priority is safety and security. The coins to be stored are ETH and USDC (can also be 2 separate wallets for each, I dont mind that). They are to be used for long-term. The wallet will be installed on a external drive which is then removed and stored securely. Wallet is not installed on the computer itself. What are your best recommendations? PS: Yes, I know! Usually people recommend hardware wallets... but I think they are still risky because you put all your trust in just one single company, and sometimes they can do stupid stuff, for example as we've seen some stories with Ledger and their multiple data leaks. I personally feel more comfrotable with a software one, as long as it's safe and secure.
 
-14h ago
+15h ago
 
 ---
 
@@ -92,17 +92,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[r/BASE FOUNDER 'AMA' SERIES Week 6 - DEGEN: Join us Thursday March 19th, 2pm ET](https://www.reddit.com/r/ethereum/comments/1rxgcae/rbase_founder_ama_series_week_6_degen_join_us/)**
-
-16h ago
-
----
-
 **[Best crypto cards for global travel right now?](https://www.reddit.com/r/ethereum/comments/1rxbv42/best_crypto_cards_for_global_travel_right_now/)**
 
 I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
 
-18h ago
+20h ago
+
+---
+
+**[r/BASE FOUNDER 'AMA' SERIES Week 6 - DEGEN: Join us Thursday March 19th, 2pm ET](https://www.reddit.com/r/ethereum/comments/1rxgcae/rbase_founder_ama_series_week_6_degen_join_us/)**
+
+17h ago
 
 ---
 
@@ -124,7 +124,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
 
-🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 1d ago
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 2d ago
 
 ---
 
@@ -152,7 +152,7 @@ EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing inse
 
 A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -160,7 +160,23 @@ The Block • 11h ago
 
 Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
+
+---
+
+**[Current price of Ethereum for MM-DD-YYYY](https://fortune.com/article/price-of-ethereum-03-19-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 40m ago
+
+---
+
+**[XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-bitcoin-vs-ethereum-132035939.html)**
+
+Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -174,41 +190,11 @@ The Motley Fool • 4h ago
 
 **[AI Agents Can Now Escrow Payments Trustlessly — Meet ERC-8183, the Ethereum Standard That Changes Everything](https://www.ccn.com/education/crypto/erc-8183-programmable-escrow-ai-agents-ethereum-how-it-works/)**
 
-CCN.com • 1h ago
+CCN.com • 2h ago
 
 ---
 
-**[BlackRock launches new ethereum ETF packed with staking rewards](https://finance.yahoo.com/video/blackrock-launches-ethereum-etf-packed-173000503.html)**
-
-BlackRock Head of Digital Assets Robbie Mitchnick joins Julie Hyman to discuss the company's launch of its new ethereum fund — the iShares Staked Ethereum Trust ETF (ETHB) — that lets investors track the cryptocurrency (ETH-USD) and earn staking rewards at the same time.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Why Bitmine Immersion Technologies Stock Rocked the Market on Monday](https://www.fool.com/investing/2026/03/16/why-bitmine-immersion-technologies-stock-rocked-th/)**
-
-Ethereum believers should take a look at this stock.
-
-The Motley Fool • 2d ago
-
----
-
-**[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
-
-TipRanks • 10h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.596 Million Tokens, and Total Crypto and Total Cash Holdings of $11.5 Billion](https://www.tradingview.com/news/chainwire:32e81fc8a094b:0-bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-596-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-5-billion/)**
-
-Bitmine has 3,040,515 staked ETH, representing $6.6 billion at $2,185 per ETH; MAVAN staking solution on track to launch Q1 2026Bitmine now owns 3.81% of the ETH token supply, over 76% of the way to the 'Alchemy of 5%' in just 8 monthsBitmine increased its investment into Eightco (ticker: $ORBS) by…
-
-TradingView • 8h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Surge. Why Cryptos Are Being Played as a Hedge Against Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcRuY702tm6LCsy6288eIg9DKifZGM8scoN1RmUPt5d3zCToimdOErq&gaa_ts=69bbfc25&gaa_sig=YK3sfsmvS2oIZoazIC_N4LGvXKBNgrLDpHlVUAdzvt8Y7CdcpP-v2yIb2JAzYVLYqHXeHKY16hJMdDkC1hSCRA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Surge. Why Cryptos Are Being Played as a Hedge Against Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqe9hgmU_zFE18Cx1TRWQhuZX7EilodbZkQq3VkyD0AzQFJLq3OHIowd&gaa_ts=69bc0b84&gaa_sig=gnqhhd9kZjWhiQbQ-i6g4T4XiC2yLHYrzwhmw-WoE4cer7EpM8Rst288_8Sp_5TLOM5Ew9Kyiy7Jv6uc5u8k7Q%3D%3D)**
 
 Barron's • 2d ago
 
@@ -218,7 +204,21 @@ Barron's • 2d ago
 
 Ethereum’s price has spent much of the past cycle lagging its own institutional and on-chain progress, and Bitwise says the reason is straightforward: ETH is still trading primarily as a Bitcoin proxy, not as a fundamentally valued network. In a new factor-model analysis, the asset manager found BT…
 
-TradingView • 18h ago
+TradingView • 19h ago
+
+---
+
+**[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
+
+TipRanks • 11h ago
+
+---
+
+**[‘Lean Ethereum’ will not compromise security for speed, says Vitalik Buterin – Here’s how](https://ambcrypto.com/lean-ethereum-will-not-compromise-security-for-speed-says-vitalik-buterin-heres-how/)**
+
+Vitalik Buterin said that the 'lean Ethereum' plan was the only way to get faster speed and security without trade-offs.
+
+AMBCrypto • 6h ago
 
 ---
 
@@ -232,7 +232,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:15 • 11h ago
+👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:15 • 12h ago
 
 ---
 
@@ -242,7 +242,7 @@ In this video, I reveal how I make money using trading bots, their settings, str
 
 📺 Thomas Kralow
 
-👁️ 851 • 👍 2K • 💬 2 • ⏱️ 13:55 • 2h ago
+👁️ 851 • 👍 2K • 💬 2 • ⏱️ 13:55 • 3h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 6K • 👍 279 • 💬 59 • ⏱️ 17:24 • 11h ago
+👁️ 6K • 👍 279 • 💬 59 • ⏱️ 17:24 • 12h ago
 
 ---
 
@@ -262,7 +262,7 @@ BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blo
 
 📺 Marzell Crypto
 
-👁️ 479 • 👍 15 • 💬 35 • ⏱️ 3:03 • 20h ago
+👁️ 479 • 👍 15 • 💬 35 • ⏱️ 3:03 • 21h ago
 
 ---
 
@@ -282,7 +282,7 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 66 • ⏱️ 9:25 • 15h ago
+👁️ 28K • 👍 2K • 💬 66 • ⏱️ 9:25 • 16h ago
 
 ---
 
@@ -292,7 +292,7 @@ RECEBA DE GRAÇA OS MEUS MONITORES DA CAPITULAÇÃO E DE FUNDO: https://bit.ly/3
 
 📺 Bernardo Pascowitch
 
-👁️ 992 • 👍 212 • 33m ago
+👁️ 992 • 👍 212 • 1h ago
 
 ---
 
@@ -302,7 +302,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 647 • 👍 21 • 💬 1 • ⏱️ 4:12 • 19h ago
+👁️ 647 • 👍 21 • 💬 1 • ⏱️ 4:12 • 20h ago
 
 ---
 
@@ -322,7 +322,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 4K • 2h ago
+👁️ 5K • 👍 4K • 3h ago
 
 ---
 

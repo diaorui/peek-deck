@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-19T13:23:08.386080+00:00'
+updated: '2026-03-19T14:28:43.160341+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 19, 2026 at 13:23 UTC  
+**Last Updated:** March 19, 2026 at 14:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Full prompt I gave to Claude Opus 4.6: can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg ? can you put more of a personal spin on it? it should express what it's like to be a LLM Warning: Flashing Visuals (epilepsy)
 
-8h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Full prompt I gave to Claude Opus 4.6: can you use whatever resources you like, 
 
 I work on AI agents. Not the "here's a ChatGPT wrapper" kind — actual autonomous agents that do tasks on behalf of small businesses. The thing nobody talks about: there's a massive gap between what AI agents can do and who can actually use them. A developer can set up an agent, connect APIs, handle auth, debug when something breaks. A restaurant owner who wants AI to handle their booking confirmations? They can't. Not because the tech isn't there — but because every solution assumes you know what an API key is. This is the gap that matters. The people who would benefit most from AI automation are the people least equipped to set it up. And "just make it simpler" isn't the answer — it's a different product entirely. You need: • Managed infrastructure (they shouldn't know what a server is) • Guardrails that actually work (the agent can't go rogue with their Twilio account) • Failure modes a non-technical person can understand and fix • Trust signals that don't require reading logs We've been learning this the hard way. The tech works. The packaging for real humans is the actual product. For anyone building in this space — what's your experience? Are your users technical, and if not, where do they get stuck?
 
-4h ago
+5h ago
 
 ---
 
@@ -57,15 +57,7 @@ I work on AI agents. Not the "here's a ChatGPT wrapper" kind — actual autonomo
 
 Bear with me on this one because I think it's genuinely unsettled. If a buyer's AI agent researches vendors, evaluates options, makes contact, negotiates terms, and returns a recommendation, but a human ultimately signs the contract... who was the customer during all those steps? It matters more than it sounds. If the customer is the human, then the agent is just a tool and you optimize for what the human ultimately cares about. But the human never experienced any of that journey. They just got a shortlist. If the customer is the agent, then you need to think about what makes a company legible to a machine. Not persuasive to a human. Legible to a machine. Clear structure, accurate data, no ambiguity, no spin. The marketing playbook was built for human psychology. Urgency. Social proof. Emotional resonance. None of that works on an agent. An agent doesn't feel FOMO. It doesn't respond to a testimonial from a brand it recognizes. It reads what's there and forms a structured view. I don't think there's a clean answer yet. But the companies treating agents as just another distribution channel for human-optimized content are going to run into a wall. would love to hear whether anyone has thought through this more formally.
 
-7h ago
-
----
-
-**["Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik](https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/)**
-
-This paper critiques the limitations of current AI and introduces a new learning model inspired by biological brains. The authors propose a framework that combines two key methods: System A, which learns by watching, and System B, which learns by doing. To manage these, they include System M, a control unit that decides which learning style to use based on the situation. By mimicking how animals and humans adapt to the real world over time, the authors aim to create AI that can learn more independently.
-
-🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 10h ago
+8h ago
 
 ---
 
@@ -73,7 +65,23 @@ This paper critiques the limitations of current AI and introduces a new learning
 
 I really see how many people don't understand ai is not here to replace but to be used as a tool. The question is by who.
 
-3h ago
+4h ago
+
+---
+
+**["Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik](https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/)**
+
+This paper critiques the limitations of current AI and introduces a new learning model inspired by biological brains. The authors propose a framework that combines two key methods: System A, which learns by watching, and System B, which learns by doing. To manage these, they include System M, a control unit that decides which learning style to use based on the situation. By mimicking how animals and humans adapt to the real world over time, the authors aim to create AI that can learn more independently.
+
+🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 11h ago
+
+---
+
+**[AI to make Clips from long videos](https://www.reddit.com/r/artificial/comments/1ry1odf/ai_to_make_clips_from_long_videos/)**
+
+just launched TyshaClip on Product Hunt today, that’s is a website to make Clips from long videos and find viral moments in your videos automatically. Built it solo in 4 months. Would love your feedback! https://www.producthunt.com/posts/tyshaclip Or if you want go directly to the website https://www.tyshaclip.com I would like feedback of creators, thank
+
+🔗 [Product Hunt](https://www.producthunt.com/posts/tyshaclip) • 9m ago
 
 ---
 
@@ -81,7 +89,7 @@ I really see how many people don't understand ai is not here to replace but to b
 
 Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agents can be hijacked mid-task through the content they process. Every existing defense operates at the reasoning layer and can be bypassed. Sentinel enforces at the execution layer, structurally, not probabilistically. The agent cannot act outside its authorized boundary regardless of what it's told. Loom link contains a short video that introduces Sentinel Gateway UI and how system operates based on 3-4 different prompt injection attempts and agent response. Sentinel eliminates any and all security risk associated with regard to AgenticAI. #AIAgent #AgenticAI #AISecurity #CyberSecurity #PromptInjection
 
-🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 5h ago
+🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 7h ago
 
 ---
 
@@ -89,7 +97,7 @@ Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agen
 
 Iran strikes Qatar's Ras Laffan plant. Gas prices soar. FBI buys data to track movements. The Justice Department uses NSPM7 to prosecute Antifa protesters as domestic terrorists. The FBI and IRS launch an initiative to investigate nonprofit groups for terrorism links.  Bank of America predicts 3 bil
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/ai-val-kilmer#story-val-kilmer-in-as-deep-as-the-grave-his-performance) • 49m ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/ai-val-kilmer#story-val-kilmer-in-as-deep-as-the-grave-his-performance) • 1h ago
 
 ---
 
@@ -97,7 +105,7 @@ Iran strikes Qatar's Ras Laffan plant. Gas prices soar. FBI buys data to track m
 
 AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 20h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 21h ago
 
 ---
 
@@ -109,21 +117,13 @@ Last week's post about Meta buying Moltbook got a lot of discussion here. I thin
 
 ---
 
-**[If you are using ChatGPT, you would probably want an AI policy. [I will not promote]](https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/)**
-
-I’ve been looking into AI governance for my company recently so wanted to share some of my findings. Apparently PwC put out a report saying 72% of companies have absolutely zero formal AI policy. For startups and small agencies i guess it would probably reach 90%? Even if you’re only a 5-person team, doing nothing is starting to become a liability. Without rules, someone would eventually paste client data, financials, or proprietary code into ChatGPT to save time. Most of these tools train on user inputs, that’s a trouble waiting to happen. You don’t need a 20-page legal manifesto. A basic 3-page Google Doc is plenty. It just needs to cover: Which specific AI tools are approved for work. A Red / Yellow / Green framework for what data can and cannot be pasted into them. Rules for when AI-generated content must be disclosed to clients. Who is in charge of approving new tools. Consequences for violating the policy. Obviously, have a lawyer glance at it before you finalize anything, especially if you handle sensitive data but even writing a DIY version using the bullet points above is 100x better than having nothing.
-
-20h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.](https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -131,15 +131,7 @@ The New York Times • 4h ago
 
 First look at Val Kilmer in his new film "As Deep As the Grave." His performance was AI generated.
 
-Variety • 22h ago
-
----
-
-**[AI version of late actor Val Kilmer to star in upcoming movie](https://www.detroitnews.com/story/entertainment/movies/2026/03/19/ai-val-kilmer-to-star-in-upcoming-movie/89224108007/)**
-
-The “Top Gun” and “Heat” star died of pneumonia in April 2025 following a more than decade-long battle with throat cancer.
-
-The Detroit News • 32m ago
+Variety • 23h ago
 
 ---
 
@@ -147,29 +139,35 @@ The Detroit News • 32m ago
 
 A year after the actor’s death, a generative AI version of Val Kilmer will co-star in an independent film.
 
-AP News • 20h ago
+AP News • 21h ago
 
 ---
 
-**[A New Front Line: How AI And Other Innovations Are Transforming The Fight Against TB](https://www.forbes.com/sites/petersands/2026/03/19/a-new-front-line-how-ai-and-other-innovations-are-transforming-the-fight-against-tb/)**
+**[A.I. Replica of Val Kilmer to Appear in Film After His Death](https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html)**
 
-Forbes • 25m ago
-
----
-
-**[This cybersecurity stock could be a breakout AI play, according to Macquarie](https://www.cnbc.com/2026/03/19/this-cybersecurity-stock-could-be-an-ai-play-according-to-macquarie.html)**
-
-Okta may have upside if it integrates AI agents into its identity security systems, the bank says.
-
-CNBC • 33m ago
+The New York Times • 14h ago
 
 ---
 
-**[Tennessee grandma mistakenly sent to North Dakota jail due to AI error, attorney says](https://newschannel9.com/news/local/tennessee-grandma-mistakenly-sent-to-north-dakota-jail-due-to-ai-error-attorney-says-carter-county-facial-recognition-software-error-us-marshals-angela-lipps-bank-fraud-mistaken-identity-fake-us-army-military-id-surveillance-video)**
+**[An AI March Madness bracket simulator? Sorry, we can't be friends](https://www.usatoday.com/story/sports/ncaab/tourney/2026/03/19/ai-march-madness-bracket-ncaa-tournament-picks-predictions-final-four/89215357007/)**
 
-A Tennessee woman said she ended up in a North Dakota jail for two months because of a facial recognition software error.Now a lawsuit may be in the works.U.S.
+When an AI robot fills out an NCAA Tournament bracket, a friendship dies.
 
-WTVC • 30m ago
+USA Today • 25m ago
+
+---
+
+**[Global Trade to Slow Amid Opposing Forces of Energy Surge and AI](https://www.bloomberg.com/news/articles/2026-03-19/global-trade-to-slow-amid-opposing-forces-of-energy-surge-and-ai)**
+
+Bloomberg.com • 28m ago
+
+---
+
+**[Expert warns "AI is being weaponized" as spam calls get more deceptive during tax season](https://www.cbsnews.com/newyork/news/ai-spam-calls-tax-season/)**
+
+The technology behind spam calls is getting more sophisticated, an expert with the TrueCaller app says.
+
+CBS News • 25m ago
 
 ---
 
@@ -177,13 +175,13 @@ WTVC • 30m ago
 
 Stitch is evolving into an AI-native platform that allows anyone to create, iterate, and collaborate on high-fidelity UI.
 
-blog.google • 19h ago
+blog.google • 20h ago
 
 ---
 
 **[Blackburn’s new AI framework seeks to codify Trump’s desires](https://www.politico.com/live-updates/2026/03/18/congress/blackburn-ai-framework-seeks-to-codify-trump-ratepayer-pledge-00834829)**
 
-Politico • 12h ago
+Politico • 13h ago
 
 ---
 
@@ -191,7 +189,7 @@ Politico • 12h ago
 
 The tech giant is one of several Chinese AI firms that have been rushing to catch up to U.S. companies in the AI race.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -213,7 +211,7 @@ GambleAI
 
 I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...
 
-⬆️ 336 • 💬 407 • 20h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
+⬆️ 336 • 💬 408 • 21h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
 
 ---
 
@@ -221,7 +219,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
 
 A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.
 
-⬆️ 253 • 💬 81 • 21h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+⬆️ 256 • 💬 81 • 22h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 
 ---
 
@@ -229,7 +227,7 @@ A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed
 
 We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
 
-⬆️ 188 • 💬 112 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+⬆️ 189 • 💬 112 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -245,7 +243,7 @@ NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose
 
 Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
 
-⬆️ 158 • 💬 149 • 8h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+⬆️ 166 • 💬 153 • 9h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
 
 ---
 
@@ -269,7 +267,7 @@ TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a 
 
 Google engineers have been spending the past number of months developing Sashiko as an agentic AI code review system for the Linux kernel
 
-⬆️ 96 • 💬 46 • 21h ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+⬆️ 98 • 💬 46 • 22h ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 
 ---
 
@@ -299,7 +297,7 @@ Grok AI has stopped free video generation — but don't worry, I'll show you bet
 
 📺 Josephs AI
 
-👁️ 6K • 👍 385 • 💬 140 • ⏱️ 4:06 • 4h ago
+👁️ 6K • 👍 385 • 💬 140 • ⏱️ 4:06 • 5h ago
 
 ---
 
@@ -357,7 +355,7 @@ Perplexity just launched something called Perplexity Computer — and it might b
 
 📺 Danny Rayes
 
-👁️ 573K • 👍 33K • 💬 174 • ⏱️ 0:27 • 18h ago
+👁️ 573K • 👍 33K • 💬 174 • ⏱️ 0:27 • 19h ago
 
 ---
 
@@ -377,7 +375,7 @@ Newsom Posts AI Meme Instead of Addressing Allegations SUBSCRIBE TO ME: ...
 
 📺 Wes Austin
 
-👁️ 95K • 👍 9K • 💬 536 • ⏱️ 0:53 • 14h ago
+👁️ 95K • 👍 9K • 💬 536 • ⏱️ 0:53 • 15h ago
 
 ---
 
@@ -453,7 +451,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 5,358 • ❤️ 237 • 1d ago
+⬇️ 5,358 • ❤️ 237 • 2d ago
 
 ---
 
@@ -477,7 +475,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 704 • ❤️ 216 • 3h ago
+⬇️ 704 • ❤️ 216 • 4h ago
 
 ---
 
@@ -572,7 +570,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
 
-▲ 126 • 💬 4 • ⭐ 346 • 2d ago
+▲ 126 • 💬 4 • ⭐ 346 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
 
@@ -624,7 +622,7 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet the development of high-performance search agents remains dominated by industrial giants due to a lack of transparent, high-quality training data. This persistent data scarcity has fundamentally hindered the progress of the broader research community in developing and innovating within this domain. To bridge this gap, we introduce OpenSeeker, the first fully open-source search agent (i.e., model and data) that achieves frontier-level performance through two core technical innovations: (1) Fact-grounded scalable controllable QA synthesis, which reverse-engineers the web graph via topological expansion and entity obfuscation to generate complex, multi-hop reasoning tasks with controllable coverage and complexity. (2) Denoised trajectory synthesis, which employs a retrospective summarization mechanism to denoise the trajectory, therefore promoting the teacher LLMs to generate high-quality actions. Experimental results demonstrate that OpenSeeker, trained (a single training run) on only 11.7k synthesized samples, achieves state-of-the-art performance across multiple benchmarks including BrowseComp, BrowseComp-ZH, xbench-DeepSearch, and WideSearch. Notably, trained with simple SFT, OpenSeeker significantly outperforms the second-best fully open-source agent DeepDive (e.g., 29.5% v.s. 15.3% on BrowseComp), and even surpasses industrial competitors such as Tongyi DeepResearch (trained via extensive continual pre-training, SFT, and RL) on BrowseComp-ZH (48.4% v.s. 46.7%). We fully open-source the complete training dataset and the model weights to democratize frontier search agent research and foster a more transparent, collaborative ecosystem.
 
-▲ 135 • 💬 6 • ⭐ 176 • 2d ago
+▲ 135 • 💬 6 • ⭐ 176 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15594) • [💻 code](https://github.com/rui-ye/OpenSeeker)
 
@@ -663,7 +661,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.6k • 🔱 1.0k • 16h ago
+⭐ 21.6k • 🔱 1.0k • 17h ago
 
 ---
 
@@ -673,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.7k • 🔱 1.6k • 22m ago
+⭐ 12.7k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -693,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.0k • 🔱 722 • 6h ago
+⭐ 10.0k • 🔱 722 • 7h ago
 
 ---
 
@@ -703,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.8k • 🔱 430 • 2m ago
+⭐ 8.8k • 🔱 430 • 1h ago
 
 ---
 
@@ -713,7 +711,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 4.9k • 🔱 685 • 6h ago
+⭐ 4.9k • 🔱 685 • 7h ago
 
 ---
 
@@ -733,7 +731,7 @@ Open-source database of 700+ cybersecurity skills for AI agents and security pra
 
 `Python` `agent-skills` `ai-agents` `blue-team` `claude` `claude-code`
 
-⭐ 3.5k • 🔱 335 • 10m ago
+⭐ 3.5k • 🔱 335 • 1h ago
 
 ---
 

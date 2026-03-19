@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-19T13:23:08.394658+00:00'
+updated: '2026-03-19T14:28:43.167781+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 13:23 UTC  
+**Last Updated:** March 19, 2026 at 14:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -2.4%  
-**30d:** +4.3%  
-**90d:** -21.6%  
-**1y:** -17.7%  
+**24h:** -3.0%  
+**7d:** -2.2%  
+**30d:** +4.4%  
+**90d:** -21.5%  
+**1y:** -17.6%  
 
 ---
 
@@ -79,19 +79,13 @@ Rank #1
 
 **[who remember those guys?](https://www.reddit.com/r/Bitcoin/comments/1rxuwuj/who_remember_those_guys/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Morpheus explains the truth about the simulation](https://www.reddit.com/r/Bitcoin/comments/1rxx6cm/morpheus_explains_the_truth_about_the_simulation/)**
 
-2h ago
-
----
-
-**[Institutional demand for Bitcoin has risen to its highest level since October, 2025](https://www.reddit.com/r/Bitcoin/comments/1rxanbh/institutional_demand_for_bitcoin_has_risen_to_its/)**
-
-19h ago
+3h ago
 
 ---
 
@@ -99,7 +93,13 @@ Rank #1
 
 I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s too heavy. Then in the 60k range I feel the need to double down. Thoughts?
 
-4h ago
+5h ago
+
+---
+
+**[Institutional demand for Bitcoin has risen to its highest level since October, 2025](https://www.reddit.com/r/Bitcoin/comments/1rxanbh/institutional_demand_for_bitcoin_has_risen_to_its/)**
+
+20h ago
 
 ---
 
@@ -107,7 +107,7 @@ I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s t
 
 Guys, this is next level disturbing. The letter obviously has my full name and home address in order to get delivered. The contents of the letter goes on about Trezor’s new “Authentication Code” going into effect here soon and to scan the QR code on the letter to activate it. It had all the legal mumble jumble and very official looking. Be safe out there everyone. Scammers are not only using the internet.
 
-18h ago
+19h ago
 
 ---
 
@@ -115,15 +115,7 @@ Guys, this is next level disturbing. The letter obviously has my full name and h
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
-
----
-
-**[I got hypnotized by the mempool and accidentally built a thing](https://www.reddit.com/r/Bitcoin/comments/1rx7da9/i_got_hypnotized_by_the_mempool_and_accidentally/)**
-
-I've been running my own umbrel node and staring at the mempool way too much. And it was not really funny. At some point my brain... "What if every transaction was a vehicle on a highway? Small ones are bikes, big ones are trucks etc, etc The result is TxRush – a real-time mempool visualizer where BTC transactions drive across your screen as vehicles. The bigger the amount, the bigger the ride. Actually not a bad way to learn a thing or two about Bitcoin It's a side project, it's free, no signups, no ads, no tracking. Just mempool traffic as a highway. Works on mobile and desktop. Oh and there's a live BTC price with a 24h chart for all you 3am price checkers out there Roast it, love it, ignore it – I had fun building it either way. Link if you want
-
-21h ago
+8h ago
 
 ---
 
@@ -131,7 +123,15 @@ I've been running my own umbrel node and staring at the mempool way too much. An
 
 Hey r/Bitcoin, My name is Marc, I’m 20 years old, and I want to quickly share my story with you. A while ago I really started learning about Bitcoin and I see in it what many people still don’t see. At first my goal was simple: instead of letting my money sit in a bank savings account, I wanted to use Bitcoin to actually build a future for myself. Meanwhile it has become much more than that. I work full-time as a paramedic (emergency medical technician). Right now I’ve increased my hours to 120% — that means roughly 6 days a week. At these prices I want to earn and stack as much Bitcoin as possible. Currently I’m only 0.00868 BTC away from my first 0.1 Bitcoin. According to my plan I should hit that in about 2 weeks — and I definitely won’t stop there. I also just cashed out an old pension insurance policy that my grandparents set up for me years ago. There was around $4,000 on it. Realistically I would have only received about $40 per month in retirement from it, so I decided to take the money now and put it all into Bitcoin instead. Who knows — maybe this decision will one day change my entire life. With realistic projections I should reach around 0.15 BTC in a few months. If things continue to go well, 0.25 BTC by 2026-2027 feels very achievable. Bitcoin isn’t just an investment for me anymore. It’s the opportunity I want to go all-in on while I’m still young and able to push hard. Thanks for reading.
 
-14h ago
+15h ago
+
+---
+
+**[I got hypnotized by the mempool and accidentally built a thing](https://www.reddit.com/r/Bitcoin/comments/1rx7da9/i_got_hypnotized_by_the_mempool_and_accidentally/)**
+
+I've been running my own umbrel node and staring at the mempool way too much. And it was not really funny. At some point my brain... "What if every transaction was a vehicle on a highway? Small ones are bikes, big ones are trucks etc, etc The result is TxRush – a real-time mempool visualizer where BTC transactions drive across your screen as vehicles. The bigger the amount, the bigger the ride. Actually not a bad way to learn a thing or two about Bitcoin It's a side project, it's free, no signups, no ads, no tracking. Just mempool traffic as a highway. Works on mobile and desktop. Oh and there's a live BTC price with a 24h chart for all you 3am price checkers out there Roast it, love it, ignore it – I had fun building it either way. Link if you want
+
+22h ago
 
 ---
 
@@ -147,7 +147,7 @@ People who dismiss the 4 year cycle got a reality check. I think the power law d
 
 Is there a website service for that? I want to be able to offer bitcoin as a payment option on my website. Currently, I use Stripe as the main one. I would like to be able to generate invoices from it like Stripe does. Is it possible?
 
-9h ago
+10h ago
 
 ---
 
@@ -155,19 +155,57 @@ Is there a website service for that? I want to be able to offer bitcoin as a pay
 
 ## Google News: "bitcoin"
 
+**[Bitcoin’s quantum threat is real, but far from an existential crisis, Galaxy says](https://www.coindesk.com/tech/2026/03/19/bitcoin-s-quantum-threat-is-real-but-far-from-an-existential-crisis-galaxy-says)**
+
+Developers are already working to address quantum risks, and investors shouldn’t mistake a long-term challenge for an immediate threat, according to Galaxy Digital’s head of research Alex Thorn.
+
+CoinDesk • 3h ago
+
+---
+
 **[Bitcoin OGs dump over $100 million in BTC after hawkish Fed dents rate cut hopes](https://www.coindesk.com/markets/2026/03/19/bitcoin-ogs-dump-over-usd100-million-in-btc-after-hawkish-fed-dents-rate-cut-hopes)**
 
 OGs sell as Fed's hawkish stance on rates pressures crypto and other risk assets.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[BTQ Deploys First Working BIP 360 Implementation On Bitcoin Quantum Testnet](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum)**
+**[Bitcoin drops below $70,000 as soaring energy prices rattle risk assets: Crypto Markets Today](https://www.coindesk.com/markets/2026/03/19/bitcoin-slips-to-usd70-000-as-oil-surge-fed-pause-weigh-on-risk-assets)**
 
-BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
+BTC dips below $70,000 as energy prices spike and Fed holds rates, pressuring crypto and equities while altcoins see sharper losses.
 
-Bitcoin Magazine • 8m ago
+CoinDesk • 3h ago
+
+---
+
+**[Fed Warning Triggers Sudden Bitcoin Price Crash Fear](https://www.forbes.com/sites/digital-assets/2026/03/19/a-wall-street-giant-just-issued-a-stark-bitcoin-price-warning/)**
+
+Forbes • 2h ago
+
+---
+
+**[Bitcoin or gold? Why both face price struggles as Iran war drags on](https://www.dlnews.com/articles/markets/why-bitcoin-and-gold-will-both-struggle-as-iran-war-drags-on/)**
+
+US war with Iran continues to rattles markets. Neither Bitcoin nor gold is safe. Both will struggle to rally while oil prices remain elevated.
+
+dlnews.com • 1h ago
+
+---
+
+**[5 Ways The Fed’s Basel III Pivot Unlocks Institutional Bitcoin Custody](https://bitcoinmagazine.com/bitcoin-for-corporations/5-ways-fed-basel-pivot-unlocks-institutional-bitcoin)**
+
+Fed proposal cuts bank capital by 4.8% and fixes custody risk rules, clearing a major regulatory hurdle for institutional Bitcoin adoption
+
+Bitcoin Magazine • 11m ago
+
+---
+
+**[XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-bitcoin-vs-ethereum-132035939.html)**
+
+Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,13 +213,13 @@ Bitcoin Magazine • 8m ago
 
 Scammers are now posting fake social media ads in an attempt to discredit warning stickers placed on Bitcoin ATM machines across the Omaha metro, according to Douglas County Sheriff Aaron Hanson.
 
-WOWT • 9h ago
+WOWT • 10h ago
 
 ---
 
 **[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -189,45 +227,7 @@ Bloomberg.com • 3h ago
 
 A UK woman is accused of spying on her husband and stealing $172 million in Bitcoin from his hardware wallet.
 
-Bitcoin Magazine • 18h ago
-
----
-
-**[U.K. judge allows lawsuit over alleged $172M bitcoin theft between spouses](https://www.coindesk.com/business/2026/03/16/man-accuses-wife-of-using-cctv-cameras-to-steal-usd172-million-bitcoin-from-his-hardware-wallet)**
-
-A husband claims his wife used home CCTV to capture his bitcoin seed phrase and transfer 2,323 BTC.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin needs to reclaim $75,000 to herald a risk-on recovery, charts show](https://www.cnbc.com/2026/03/18/bitcoin-must-reclaim-75000-to-herald-risk-on-recovery-charts-show-.html)**
-
-The two prior times when the bitcoin-to-S&P-500 relative line made a key low, it also marked major lows for the SPX — March 2020 and Oct. 2022.
-
-CNBC • 19h ago
-
----
-
-**[SEC Names Bitcoin, Ether, Solana and 13 More Crypto Assets Digital Commodities — Not Securities](https://www.fintechweekly.com/news/sec-bitcoin-ether-solana-digital-commodities-not-securities-march-2026)**
-
-The SEC and CFTC issued a joint 68-page interpretation on March 17 explicitly naming 16 crypto assets as digital commodities. Staking, mining and airdrops ar...
-
-FinTech Weekly • 22h ago
-
----
-
-**[Bitcoin Could Drop 25%, Or Jump 120%. Welcome to Crypto's 2026 Grind.](https://www.investopedia.com/the-price-of-bitcoin-could-drop-25-percent-or-jump-120-percent-welcome-to-cryptos-2026-grind-11928359)**
-
-The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
-
-Investopedia • 1d ago
-
----
-
-**[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
-
-WATE 6 On Your Side • 14h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -291,7 +291,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Play a 2D pixel platformer built to explore self-play and reinforcement learning.
 
-⬆️ 1 • 💬 0 • 5h ago • [rlplays.com](https://rlplays.com/game)
+⬆️ 1 • 💬 0 • 6h ago • [rlplays.com](https://rlplays.com/game)
 
 ---
 
@@ -299,7 +299,7 @@ Play a 2D pixel platformer built to explore self-play and reinforcement learning
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 0 • 10h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 0 • 11h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -319,7 +319,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 750 • 💬 2 • ⏱️ 37:41 • 16h ago
+👁️ 18K • 👍 750 • 💬 2 • ⏱️ 37:41 • 17h ago
 
 ---
 
@@ -329,7 +329,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 3K • 💬 141 • ⏱️ 16:44 • 8h ago
+👁️ 37K • 👍 3K • 💬 141 • ⏱️ 16:44 • 10h ago
 
 ---
 
@@ -339,7 +339,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 66 • ⏱️ 9:25 • 15h ago
+👁️ 28K • 👍 2K • 💬 66 • ⏱️ 9:25 • 16h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin #Crypto #Finance The SEC and CFTC just made a historic move by defining 
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 526 • 💬 203 • ⏱️ 19:06 • 23h ago
+👁️ 13K • 👍 526 • 💬 203 • ⏱️ 19:06 • 1d ago
 
 ---
 
@@ -359,7 +359,7 @@ While retail panic sells, one entity is aggressively accumulating Bitcoin at a h
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 77 • ⏱️ 13:53 • 16h ago
+👁️ 16K • 👍 1K • 💬 77 • ⏱️ 13:53 • 17h ago
 
 ---
 
@@ -399,7 +399,7 @@ BREAKING: Bitcoin Is Entering The Banana Zone — $200K Suddenly Looks Possible 
 
 📺 The Wealth Continuum
 
-👁️ 4K • 👍 204 • 💬 48 • ⏱️ 17:23 • 18h ago
+👁️ 4K • 👍 204 • 💬 48 • ⏱️ 17:23 • 19h ago
 
 ---
 
@@ -409,7 +409,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 8K • 👍 823 • 💬 31 • ⏱️ 53:38 • 2h ago
+👁️ 8K • 👍 823 • 💬 31 • ⏱️ 53:38 • 4h ago
 
 ---
 
