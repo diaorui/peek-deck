@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-19T07:10:47.112150+00:00'
+updated: '2026-03-19T08:02:37.410468+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 07:10 UTC  
+**Last Updated:** March 19, 2026 at 08:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The top priority is safety and security. The coins to be stored are ETH and USDC (can also be 2 separate wallets for each, I dont mind that). They are to be used for long-term. The wallet will be installed on a external drive which is then removed and stored securely. Wallet is not installed on the computer itself. What are your best recommendations? PS: Yes, I know! Usually people recommend hardware wallets... but I think they are still risky because you put all your trust in just one single company, and sometimes they can do stupid stuff, for example as we've seen some stories with Ledger and their multiple data leaks. I personally feel more comfrotable with a software one, as long as it's safe and secure.
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
 
-12h ago
+13h ago
 
 ---
 
@@ -140,7 +140,7 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
 
-22h ago
+23h ago
 
 ---
 
@@ -152,7 +152,7 @@ EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing inse
 
 A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 4h ago
 
 Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 2d ago
 
 Ethereum has surged 24% in just over a week, breaking above a key resistance with strong volume and signaling renewed bullish momentum. With a bullish structure still intact, attention now shifts to whether ETH can sustain the move toward the $4,956 target or pause for a brief pullback first.Ethere…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -196,13 +196,13 @@ TradingView • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
 **[Ethereum’s Fast Confirmation Rule Could Cut Deposit Times to 13 Seconds](https://www.ccn.com/news/crypto/ethereum-fast-confirmation-rule-13-second-deposits/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -230,7 +230,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 777 • 👍 75 • 💬 2 • ⏱️ 4:15 • 4h ago
+👁️ 777 • 👍 75 • 💬 2 • ⏱️ 4:15 • 5h ago
 
 ---
 
@@ -240,7 +240,7 @@ BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 4K • 👍 216 • 💬 40 • ⏱️ 17:24 • 4h ago
+👁️ 4K • 👍 216 • 💬 40 • ⏱️ 17:24 • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 571 • 👍 20 • 💬 1 • ⏱️ 4:12 • 13h ago
+👁️ 571 • 👍 20 • 💬 1 • ⏱️ 4:12 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blo
 
 📺 Marzell Crypto
 
-👁️ 403 • 👍 13 • 💬 32 • ⏱️ 3:03 • 13h ago
+👁️ 403 • 👍 13 • 💬 32 • ⏱️ 3:03 • 14h ago
 
 ---
 
@@ -280,7 +280,7 @@ Brian from Santiment joined me to review the crypto market metrics. We review on
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 223 • 💬 56 • ⏱️ 28:07 • 19h ago
+👁️ 3K • 👍 223 • 💬 56 • ⏱️ 28:07 • 20h ago
 
 ---
 
@@ -310,7 +310,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 653 • 👍 24 • 💬 1 • ⏱️ 4:15 • 20h ago
+👁️ 653 • 👍 24 • 💬 1 • ⏱️ 4:15 • 21h ago
 
 ---
 

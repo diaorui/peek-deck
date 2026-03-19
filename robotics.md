@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T07:10:47.115466+00:00'
+updated: '2026-03-19T08:02:37.413252+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 07:10 UTC  
+**Last Updated:** March 19, 2026 at 08:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[FANUC DR Series High-Speed Delta Robot in Action](https://www.reddit.com/r/robotics/comments/1rx9b6m/fanuc_dr_series_highspeed_delta_robot_in_action/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) This is a project I did only to learn 3D modeling and robotic. Works with Arduino and ROS
 
-12h ago
+13h ago
 
 ---
 
@@ -58,7 +58,7 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 Tried with Brachiation motion - a had swing motion that mostly gibbons etc use to move from branches and trees. Made with laser cut wooden plates and a geared motor.
 
-20h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ Tried with Brachiation motion - a had swing motion that mostly gibbons etc use t
 
 Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics research easier, and I mainly work on our visualization tools and our real-time control API for MATLAB. We've often hit bottlenecks when doing visualization out of process. To solve this, we spent the last several months exposing internal UI tools via a stable C ABI, so they can be embedded directly into development code with full access and minimal overhead. After many challenges, we're finally at a point where I'm excited to share a first video of the result. Since the library needs to play well with Python and MATLAB, the engine is 100% asynchronous. An internal layer handles the state transfer, and the UI thread simply swaps to the latest state at the start of every frame. This means users never have to worry about mutexes or the UI thread. All calls are isolated and non-blocking, so you can push data from a high-frequency control loop. For MATLAB users, this means you can run a tight busy-loop without a pause or drawnow, and it still renders smoothly at 60 fps. The bindings are fully auto-generated, so Python and MATLAB get 100% type-hint and autocomplete support out of the box. We're still ironing out a few minor things, but the goal is to make this available to the community and independent of the HEBI hardware ecosystem (as is most of our software). I'm curious what people think! I'm also happy to geek out about the technical details in person at ERF next week or ICRA in June.
 
-🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 10h ago
+🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 11h ago
 
 ---
 
@@ -80,13 +80,13 @@ Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics rese
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 10h ago
 
 ---
 
 **[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 My plan is to build a human size robot. I've built the robotic hand and Forearm so far and it is controlled by either a keyboard, a web interface with a mouse and buttons to click, or voice control. It's pretty wicked.I used my 3d printer to print all of the parts. I got the files from thingiverse.i can send the link if anyone wants it. This is how I created the rest of the project. I used braided fishing line as the tendons. 6 servo motors as the actuators - 5 fingers and 1 wrist. I used the arduino uno board and arduino sketches inside the arduino IDE. I can post all of the code if anyone out there is interested. Next is the elbow and bicep. I'll continue to show my work with updates on here. This project is inspired by Inmoov. Again, I can post the links to their website if there are people interested in this. Any question, feel free to ask. Thanks for watching.
 
-23h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ My plan is to build a human size robot. I've built the robotic hand and Forearm 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=4QMwmZL_3O4) • 11m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=4QMwmZL_3O4) • 1h ago
 
 ---
 
@@ -130,7 +130,7 @@ NVIDIA Newsroom • 2d ago
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -138,7 +138,7 @@ The Guardian • 2h ago
 
 A massive databse built by players of Pokémon Go is now being used Coco Robotics to help its street delivery robots better navigate busy urban environments.
 
-Euronews.com • 23h ago
+Euronews.com • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute th
 
 📺 Unstoppable Gadgets
 
-👁️ 14K • 👍 196 • 💬 10 • ⏱️ 0:17 • 9h ago
+👁️ 14K • 👍 196 • 💬 10 • ⏱️ 0:17 • 10h ago
 
 ---
 
