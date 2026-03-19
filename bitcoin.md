@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-19T17:35:27.993386+00:00'
+updated: '2026-03-19T19:00:32.316634+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 17:35 UTC  
+**Last Updated:** March 19, 2026 at 19:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,290.23
+### $69,835.88
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.0%  
-**7d:** -1.9%  
-**30d:** +4.8%  
-**90d:** -21.2%  
-**1y:** -17.3%  
+**7d:** -1.6%  
+**30d:** +5.1%  
+**90d:** -21.0%  
+**1y:** -17.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[who remember those guys?](https://www.reddit.com/r/Bitcoin/comments/1rxuwuj/who_remember_those_guys/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,19 +87,13 @@ Rank #1
 
 BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 2h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 3h ago
 
 ---
 
 **[Morpheus explains the truth about the simulation](https://www.reddit.com/r/Bitcoin/comments/1rxx6cm/morpheus_explains_the_truth_about_the_simulation/)**
 
-6h ago
-
----
-
-**[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
-
-4h ago
+8h ago
 
 ---
 
@@ -107,15 +101,21 @@ BTQ Technologies has launched the first working BIP 360 implementation on its Bi
 
 This morning the Federal Reserve will release a proposal for revisions to the Basel risk weighting standards. Bitcoin is currently treated as a toxic asset under the Basel standards. A change in the guidance would be a big win for American Bitcoiners. BPI will be in attendance at today’s meeting. We’ll keep you updated on text of the proposal and next steps.
 
-1h ago
+3h ago
 
 ---
 
-**[DCA Amount](https://www.reddit.com/r/Bitcoin/comments/1rxvkp9/dca_amount/)**
+**[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
 
-I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s too heavy. Then in the 60k range I feel the need to double down. Thoughts?
+5h ago
 
-8h ago
+---
+
+**[DCAing 250-400 weekly, whole coin achievable?](https://www.reddit.com/r/Bitcoin/comments/1ry7u44/dcaing_250400_weekly_whole_coin_achievable/)**
+
+A big chunk of my disposable income is going into BTC. I'm in for the long run but just recently got into it. I'm aiming for the .1 in the coming months, I'll keep staking no matter what especially now that the price is low. is the whole coin achievable in the coming years?
+
+54m ago
 
 ---
 
@@ -123,13 +123,23 @@ I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s t
 
 Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13,628 Bitcoin, pulling ahead of Tesla which currently sits at 11,509 BTC. The Texas based firm, which disclosed its holdings as part of the company's fourth-quarter and full-year 2025 financial results, is now registering a total value of $960 million in BTC holdings.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 1h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 3h ago
 
 ---
 
-**[Institutional demand for Bitcoin has risen to its highest level since October, 2025](https://www.reddit.com/r/Bitcoin/comments/1rxanbh/institutional_demand_for_bitcoin_has_risen_to_its/)**
+**[DCA Amount](https://www.reddit.com/r/Bitcoin/comments/1rxvkp9/dca_amount/)**
 
-23h ago
+I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s too heavy. Then in the 60k range I feel the need to double down. Thoughts?
+
+9h ago
+
+---
+
+**[Wall Street Veteran: Bitcoin At $1M Will Still Be Ignored](https://www.reddit.com/r/Bitcoin/comments/1ry6eip/wall_street_veteran_bitcoin_at_1m_will_still_be/)**
+
+On my podcast ‘Bitcoin for Millennials’ I talked with Dave Weisberger, a 40-year Wall Street veteran. We discuss stock market structure and the “rigged” narrative, 2008 and socialized losses, fiat debasement via the Cantillon effect and asset inflation, Bitcoin as an asymmetric bet and forced transparency versus Dalio’s critiques, and the real blockers to adoption like custody UX and capital gains taxes.
+
+🔗 [youtu.be](https://youtu.be/inPD8UpAC7Q) • 1h ago
 
 ---
 
@@ -137,15 +147,7 @@ Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13
 
 European Central Bank advances retail payments rules as EU lawmakers weigh approval and a possible 2029 rollout.
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/03/19/ecb-seeks-experts-to-help-integrate-digital-euro-into-atms-card-payment-terminals) • 2h ago
-
----
-
-**[I got an actual letter in the mail to my home address from Trezor](https://www.reddit.com/r/Bitcoin/comments/1rxd7tk/i_got_an_actual_letter_in_the_mail_to_my_home/)**
-
-Guys, this is next level disturbing. The letter obviously has my full name and home address in order to get delivered. The contents of the letter goes on about Trezor’s new “Authentication Code” going into effect here soon and to scan the QR code on the letter to activate it. It had all the legal mumble jumble and very official looking. Be safe out there everyone. Scammers are not only using the internet.
-
-22h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/03/19/ecb-seeks-experts-to-help-integrate-digital-euro-into-atms-card-payment-terminals) • 3h ago
 
 ---
 
@@ -157,15 +159,29 @@ Guys, this is next level disturbing. The letter obviously has my full name and h
 
 Developers are already working to address quantum risks, and investors shouldn’t mistake a long-term challenge for an immediate threat, according to Galaxy Digital’s head of research Alex Thorn.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin OGs dump over $100 million in BTC after hawkish Fed dents rate cut hopes](https://www.coindesk.com/markets/2026/03/19/bitcoin-ogs-dump-over-usd100-million-in-btc-after-hawkish-fed-dents-rate-cut-hopes)**
+**[Fed Warning Triggers Sudden Bitcoin Price Crash Fear](https://www.forbes.com/sites/digital-assets/2026/03/19/a-wall-street-giant-just-issued-a-stark-bitcoin-price-warning/)**
 
-OGs sell as Fed's hawkish stance on rates pressures crypto and other risk assets.
+Forbes • 6h ago
 
-CoinDesk • 10h ago
+---
+
+**[Mortgage rates jump to 6.22%; bitcoin, gold, & silver prices fall](https://finance.yahoo.com/video/mortgage-rates-jump-6-22-172719292.html)**
+
+Yahoo Finance's John Hyland tracks Thursday's top moving stocks and biggest market stories in this Market Minute. This week's mortgage rates jumped to 6.22%, according to the latest data from Freddie Mac (FMCC). Gold (GC=F) and silver (SI=F) prices are under pressure as investors shift expectations around future Fed policy and rate cuts. Bitcoin (BTC-USD) prices fell below $70,000.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Morgan Stanley Bitcoin Trust to Trade as MSBT on NYSE Arca](https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-to-trade-as-msbt)**
+
+Morgan Stanley's spot Bitcoin ETF will trade under the ticker MSBT on NYSE Arca.
+
+Bitcoin Magazine • 49m ago
 
 ---
 
@@ -173,27 +189,13 @@ CoinDesk • 10h ago
 
 Scammers are now posting fake social media ads in an attempt to discredit warning stickers placed on Bitcoin ATM machines across the Omaha metro, according to Douglas County Sheriff Aaron Hanson.
 
-WOWT • 14h ago
-
----
-
-**[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
-
-WATE 6 On Your Side • 19h ago
-
----
-
-**[Bitcoin faces pressure after hotter-than-expected inflation data: CNBC Crypto World](https://www.cnbc.com/video/2026/03/18/bitcoin-faces-pressure-after-hotter-than-expected-inflation-data-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, crypto markets are on pace to outperform Wall Street despite a Wednesday pullback driven by hotter-than-expected wholesale data. Also, the SEC and CFTC issue joint guidance on the regulatory classification of crypto assets. Bam Azizi, CEO of Mesh, discusses what it takes to run a crypto business in a slowdown.
-
-CNBC • 22h ago
+WOWT • 15h ago
 
 ---
 
 **[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -201,7 +203,7 @@ Bloomberg.com • 7h ago
 
 A UK woman is accused of spying on her husband and stealing $172 million in Bitcoin from his hardware wallet.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -213,25 +215,31 @@ Yahoo • 2d ago
 
 ---
 
-**[SEC Names Bitcoin, Ether, Solana and 13 More Crypto Assets Digital Commodities — Not Securities](https://www.fintechweekly.com/news/sec-bitcoin-ether-solana-digital-commodities-not-securities-march-2026)**
+**[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
 
-The SEC and CFTC issued a joint 68-page interpretation on March 17 explicitly naming 16 crypto assets as digital commodities. Staking, mining and airdrops ar...
-
-FinTech Weekly • 1d ago
+WATE 6 On Your Side • 20h ago
 
 ---
 
-**[Legal battle intensifies over £3bn bitcoin haul seized by British police](https://www.ft.com/content/b580bced-7f81-4636-b8c6-a0b200ed2bd9?syn-25a6b1a6=1)**
+**[Bitcoin faces pressure after hotter-than-expected inflation data: CNBC Crypto World](https://www.cnbc.com/video/2026/03/18/bitcoin-faces-pressure-after-hotter-than-expected-inflation-data-cnbc-crypto-world.html)**
 
-Victims of Chinese crypto fraud fight to stop Treasury capturing inflated value of the currency
+On today's episode of CNBC Crypto World, crypto markets are on pace to outperform Wall Street despite a Wednesday pullback driven by hotter-than-expected wholesale data. Also, the SEC and CFTC issue joint guidance on the regulatory classification of crypto assets. Bam Azizi, CEO of Mesh, discusses what it takes to run a crypto business in a slowdown.
 
-Financial Times • 8d ago
+CNBC • 23h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Show HN: Anchor any file to Bitcoin to prove it existed at a specific time](https://news.ycombinator.com/item?id=47442086)**
+
+Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
+
+⬆️ 1 • 💬 1 • 2h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+
+---
 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47423102)**
 
@@ -244,14 +252,6 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 **[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47374644)**
 
 ⬆️ 1 • 💬 1 • 5d ago • [psicommit.com](https://psicommit.com)
-
----
-
-**[Show HN: Anchor any file to Bitcoin to prove it existed at a specific time](https://news.ycombinator.com/item?id=47442086)**
-
-Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
-
-⬆️ 1 • 💬 0 • 1h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -289,7 +289,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Play a 2D pixel platformer built to explore self-play and reinforcement learning.
 
-⬆️ 1 • 💬 0 • 9h ago • [rlplays.com](https://rlplays.com/game)
+⬆️ 1 • 💬 0 • 10h ago • [rlplays.com](https://rlplays.com/game)
 
 ---
 
@@ -297,7 +297,7 @@ Play a 2D pixel platformer built to explore self-play and reinforcement learning
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 0 • 14h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 0 • 16h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -317,7 +317,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BTCC: https://themoon
 
 📺 The Moon Show
 
-👁️ 5K • 👍 438 • 💬 79 • ⏱️ 5:50 • 5h ago
+👁️ 5K • 👍 438 • 💬 79 • ⏱️ 5:50 • 6h ago
 
 ---
 
@@ -327,7 +327,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 740 • 💬 87 • ⏱️ 41:39 • 3h ago
+👁️ 10K • 👍 740 • 💬 87 • ⏱️ 41:39 • 4h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 818 • 💬 25 • ⏱️ 37:41 • 20h ago
+👁️ 20K • 👍 818 • 💬 25 • ⏱️ 37:41 • 21h ago
 
 ---
 
@@ -347,7 +347,7 @@ While retail panic sells, one entity is aggressively accumulating Bitcoin at a h
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 78 • ⏱️ 13:53 • 20h ago
+👁️ 17K • 👍 1K • 💬 78 • ⏱️ 13:53 • 21h ago
 
 ---
 
@@ -357,7 +357,7 @@ While retail panic sells, one entity is aggressively accumulating Bitcoin at a h
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 70 • ⏱️ 9:25 • 19h ago
+👁️ 31K • 👍 2K • 💬 70 • ⏱️ 9:25 • 20h ago
 
 ---
 
@@ -367,7 +367,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 3K • 💬 219 • ⏱️ 16:44 • 13h ago
+👁️ 49K • 👍 3K • 💬 219 • ⏱️ 16:44 • 14h ago
 
 ---
 
@@ -387,7 +387,7 @@ This video provides a professional Elliott Wave and technical analysis of Bitcoi
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 355 • 💬 11 • ⏱️ 6:04 • 4h ago
+👁️ 4K • 👍 355 • 💬 11 • ⏱️ 6:04 • 6h ago
 
 ---
 
@@ -407,7 +407,7 @@ A hotter than expected PPI print and additional escalation in the Middle East ha
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 308 • 💬 18 • ⏱️ 11:41 • 7h ago
+👁️ 4K • 👍 308 • 💬 18 • ⏱️ 11:41 • 8h ago
 
 ---
 

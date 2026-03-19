@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T17:35:28.002445+00:00'
+updated: '2026-03-19T19:00:32.325764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 17:35 UTC  
+**Last Updated:** March 19, 2026 at 19:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,21 @@ Robotics research and industry news
 
 **[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
 
+3h ago
+
+---
+
+**[Robot does Flying Kick into Arcade Machines 🤦‍♂️](https://www.reddit.com/r/robotics/comments/1ry601x/robot_does_flying_kick_into_arcade_machines/)**
+
+Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
+
 2h ago
 
 ---
 
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-7h ago
-
----
-
-**[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
-
-12h ago
+8h ago
 
 ---
 
@@ -54,7 +56,13 @@ Robotics research and industry news
 
 I integrated the RoboBaton Viobot2 SLAM camera into my drone build. The VIO performance is notably stable, offering reliable visual odometry for autonomous flight applications.
 
-14m ago
+1h ago
+
+---
+
+**[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
+
+13h ago
 
 ---
 
@@ -68,15 +76,7 @@ I integrated the RoboBaton Viobot2 SLAM camera into my drone build. The VIO perf
 
 This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) This is a project I did only to learn 3D modeling and robotic. Works with Arduino and ROS
 
-23h ago
-
----
-
-**[Robot does Flying Kick into Arcade Machines 🤦‍♂️](https://www.reddit.com/r/robotics/comments/1ry601x/robot_does_flying_kick_into_arcade_machines/)**
-
-Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
-
-35m ago
+1d ago
 
 ---
 
@@ -84,13 +84,7 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 9h ago
-
----
-
-**[Ears cat helmet](https://www.reddit.com/r/robotics/comments/1ry4lte/ears_cat_helmet/)**
-
-1h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 10h ago
 
 ---
 
@@ -102,6 +96,14 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 ---
 
+**[Test of 3D SLAM Camera RoboBaton mini](https://www.reddit.com/r/robotics/comments/1ry3wri/test_of_3d_slam_camera_robobaton_mini/)**
+
+I found that it's just as powerful as the T265, with slightly better accuracy than the T265. When stationary, even with dynamic objects moving in front of it, its visual positioning doesn't drift—very stable.
+
+3h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
@@ -110,7 +112,7 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -127,14 +129,6 @@ The World Economic Forum • 1d ago
 The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.
 
 NVIDIA Blog • 1d ago
-
----
-
-**[Delivery Robot Dogpiled on the Streets of Philly](https://futurism.com/robots-and-machines/delivery-robot-philadelphia)**
-
-One little bot learned the tagline "city of brotherly love" only applies to humans, not food delivery robots.
-
-Futurism • 4h ago
 
 ---
 
@@ -160,11 +154,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[Watch: Wall-climbing AI robots inspect Navy warships to speed repairs amid China fleet surge](https://www.foxnews.com/video/6390792906112)**
+**[US Navy taps Gecko Robotics to help remedy maintenance headaches](https://www.militarytimes.com/industry/techwatch/2026/03/17/us-navy-taps-gecko-robotics-to-help-remedy-maintenance-headaches/)**
 
-See how advanced robotics are scaling destroyers and amphibious ships to detect structural problems faster than traditional methods — part of a new $71 million Navy initiative to boost readiness and cut maintenance delays. (Credit: Gecko Robotics)
+Gecko deploys AI and robotics on 18 ships assigned to the Navy’s U.S. Pacific Fleet
 
-Fox News • 2d ago
+Military Times • 2d ago
 
 ---
 
@@ -176,11 +170,19 @@ Euronews.com • 1d ago
 
 ---
 
-**[US tech firms, including Boston Dynamics, push for curbs on Chinese robot makers over alleged 'security risks'; Chinese experts say claims reflect anxiety, envy](https://www.globaltimes.cn/page/202603/1357166.shtml)**
+**[Delivery Robot Dogpiled on the Streets of Philly](https://futurism.com/robots-and-machines/delivery-robot-philadelphia)**
 
-Confronted with China's remarkable advances in humanoid robot technology, American tech executives are seemingly on edge. Instead of engaging in fair competition, they resort to their old trick of smearing Chinese products.
+One little bot learned the tagline "city of brotherly love" only applies to humans, not food delivery robots.
 
-Global Times • 1d ago
+Futurism • 5h ago
+
+---
+
+**[How robots made Northampton warehouse three times more efficient](https://www.bbc.com/news/articles/cp32zk4lpz4o)**
+
+They can lift heavy boxes and climb shelves 12m high but will they put humans out of work?
+
+BBC • 12h ago
 
 ---
 
@@ -194,7 +196,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 58K • 👍 867 • 💬 254 • ⏱️ 3:38 • 14h ago
+👁️ 58K • 👍 867 • 💬 254 • ⏱️ 3:38 • 15h ago
 
 ---
 
@@ -214,7 +216,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 14K • 👍 318 • 💬 208 • ⏱️ 2:07 • 6h ago
+👁️ 14K • 👍 318 • 💬 208 • ⏱️ 2:07 • 7h ago
 
 ---
 
@@ -224,7 +226,7 @@ Flagrant is a comedy show that delivers unfiltered, unapologetic, and unruly hot
 
 📺 FLAGRANT CLIPS
 
-👁️ 55K • 👍 2K • 💬 252 • ⏱️ 16:57 • 1d ago
+👁️ 55K • 👍 2K • 💬 252 • ⏱️ 16:57 • 2d ago
 
 ---
 
@@ -244,7 +246,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 98K • 👍 2K • 💬 317 • ⏱️ 49:45 • 4d ago
+👁️ 98K • 👍 2K • 💬 317 • ⏱️ 49:45 • 5d ago
 
 ---
 
@@ -254,7 +256,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 3K • 👍 105 • 💬 3 • ⏱️ 4:39 • 1d ago
+👁️ 3K • 👍 105 • 💬 3 • ⏱️ 4:39 • 2d ago
 
 ---
 
