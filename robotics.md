@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T04:34:28.414262+00:00'
+updated: '2026-03-19T05:59:32.749843+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 04:34 UTC  
+**Last Updated:** March 19, 2026 at 05:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[FANUC DR Series High-Speed Delta Robot in Action](https://www.reddit.com/r/robotics/comments/1rx9b6m/fanuc_dr_series_highspeed_delta_robot_in_action/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) This is a project I did only to learn 3D modeling and robotic. Works with Arduino and ROS
 
-10h ago
+11h ago
 
 ---
 
@@ -58,13 +58,13 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 Tried with Brachiation motion - a had swing motion that mostly gibbons etc use to move from branches and trees. Made with laser cut wooden plates and a geared motor.
 
-17h ago
+19h ago
 
 ---
 
 **[Robot playing tennis](https://www.reddit.com/r/robotics/comments/1rxp2jp/robot_playing_tennis/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ Tried with Brachiation motion - a had swing motion that mostly gibbons etc use t
 
 Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics research easier, and I mainly work on our visualization tools and our real-time control API for MATLAB. We've often hit bottlenecks when doing visualization out of process. To solve this, we spent the last several months exposing internal UI tools via a stable C ABI, so they can be embedded directly into development code with full access and minimal overhead. After many challenges, we're finally at a point where I'm excited to share a first video of the result. Since the library needs to play well with Python and MATLAB, the engine is 100% asynchronous. An internal layer handles the state transfer, and the UI thread simply swaps to the latest state at the start of every frame. This means users never have to worry about mutexes or the UI thread. All calls are isolated and non-blocking, so you can push data from a high-frequency control loop. For MATLAB users, this means you can run a tight busy-loop without a pause or drawnow, and it still renders smoothly at 60 fps. The bindings are fully auto-generated, so Python and MATLAB get 100% type-hint and autocomplete support out of the box. We're still ironing out a few minor things, but the goal is to make this available to the community and independent of the HEBI hardware ecosystem (as is most of our software). I'm curious what people think! I'm also happy to geek out about the technical details in person at ERF next week or ICRA in June.
 
-🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 7h ago
+🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics rese
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 8h ago
 
 ---
 
@@ -88,7 +88,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 My plan is to build a human size robot. I've built the robotic hand and Forearm so far and it is controlled by either a keyboard, a web interface with a mouse and buttons to click, or voice control. It's pretty wicked.I used my 3d printer to print all of the parts. I got the files from thingiverse.i can send the link if anyone wants it. This is how I created the rest of the project. I used braided fishing line as the tendons. 6 servo motors as the actuators - 5 fingers and 1 wrist. I used the arduino uno board and arduino sketches inside the arduino IDE. I can post all of the code if anyone out there is interested. Next is the elbow and bicep. I'll continue to show my work with updates on here. This project is inspired by Inmoov. Again, I can post the links to their website if there are people interested in this. Any question, feel free to ask. Thanks for watching.
 
-21h ago
+22h ago
+
+---
+
+**[Reduction of latency in an application using an industrial six axis robot and camera with a PLC as a master device](https://www.reddit.com/r/robotics/comments/1rxs7xa/reduction_of_latency_in_an_application_using_an/)**
+
+I'm working on an application which is to detect defects on electronic connectors and this system uses an Epson six axis C3-A601S robot which has a keyence camera mounted on it and with an Omron PLC as a master device. The system uses Ethernet/IP as the communication protocol. The robot has to travel to 12 different positions for the camera to take images and detect the defects. The issue I'm facing is that signals coming from the PLC to the robot are taking up to 500-600 ms for each position during operation which is causing the cycle time to increase far beyond the required cycle time. How can this issue be resolved?
+
+12m ago
 
 ---
 
@@ -96,15 +104,7 @@ My plan is to build a human size robot. I've built the robotic hand and Forearm 
 
 I'm building a desktop robotic arm and I can't stop thinking about it Okay so this started as a "wouldn't it be cool if" kind of thing and now it's taken over my workbench entirely. Basic idea: a compact robotic arm that sits on your desk, driven by stepper motors and a belt system, that doesn't require you to have an engineering degree to set up or use. Consumer-friendly is the whole vibe. It's still in development and nowhere near finished, but the progress has been genuinely exciting. Every time I get a new motion working it feels way more satisfying than it probably should lol. Just wanted to share it somewhere because honestly I talk about it too much IRL and my friends are tired of hearing about it 😂
 
-14h ago
-
----
-
-**[My robot looks evil when it wakes up. 4 months of failures led to this. (video)](https://www.reddit.com/r/robotics/comments/1rwvo2s/my_robot_looks_evil_when_it_wakes_up_4_months_of/)**
-
-Long time lurker, first time posting a build update in long time. I've been building OLAF — an open source embodied AI agent. Not a robot for tasks. An AI agent with a physical presence that thinks, responds and reacts in the real world. The past 4 months were a disaster. Learned soldering from scratch. Melted components, bridged pins, designed custom PCBs, waited weeks for delivery, watched them fail. Repeatedly. I now own 50+ PCBs I use as coasters. Eventually I made the obvious decision I should have made months earlier — ditched the soldering iron, bought a drive kit and a few adapters. One week later it was moving. The demo is raw. Brain sitting on the table, wires everywhere, upper and lower body separate. Nothing is in a case. But it moves, reacts and has expressions. And honestly it looks a bit evil when it wakes up which I did not plan but I'm keeping. The thing that genuinely surprised me — Claude accelerated everything. Every iteration in minutes. Code, docs, design decisions. What would have taken me weeks alone we did in hours. Next up is voice and the AI brain layer. Repo is open source — would love feedback, or just a star if it's useful. github: https://github.com/kamalkantsingh10/OLAF Happy to answer any questions about the build
-
-22h ago
+15h ago
 
 ---
 
@@ -116,7 +116,7 @@ Long time lurker, first time posting a build update in long time. I've been buil
 
 In a recent episode of Radio Davos and in a session at the World Economic Forum's 56th Annual Meeting in Davos, experts on physical AI talked us through what's next for autonomous systems.
 
-The World Economic Forum • 11h ago
+The World Economic Forum • 12h ago
 
 ---
 
@@ -125,6 +125,14 @@ The World Economic Forum • 11h ago
 NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power production-scale physical AI. NVIDIA also unveiled new NVIDIA Isaac™ simulation frameworks and new NVIDIA Cosmos™ and NVIDIA Isaac GR00T open models for the industry to develop, train and deploy the next generation of intelligent robots.
 
 NVIDIA Newsroom • 2d ago
+
+---
+
+**[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
+
+The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
+
+The Guardian • 58m ago
 
 ---
 
@@ -144,11 +152,9 @@ CNBC • 1d ago
 
 ---
 
-**[Gecko Robotics lands the largest US Navy robotics deal yet](https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/)**
+**[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
 
-Gecko Robotics inked a five-year deal to help the U.S. Navy monitor and predict needed maintenance on its fleet of ships.
-
-TechCrunch • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -162,7 +168,15 @@ McKinsey & Company • 2d ago
 
 A massive databse built by players of Pokémon Go is now being used Coco Robotics to help its street delivery robots better navigate busy urban environments.
 
-Euronews.com • 20h ago
+Euronews.com • 22h ago
+
+---
+
+**[A $450 Billion Opportunity: Is This Physical Artificial Intelligence (AI) Stock a Buy Right Now?](https://www.fool.com/investing/2026/03/18/a-450-billion-opportunity-is-this-ai-stock-buy-now/)**
+
+Robotics could be the next frontier in the AI revolution.
+
+The Motley Fool • 5h ago
 
 ---
 
@@ -171,22 +185,6 @@ Euronews.com • 20h ago
 From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
 
 Visual Capitalist • 1d ago
-
----
-
-**[A $450 Billion Opportunity: Is This Physical Artificial Intelligence (AI) Stock a Buy Right Now?](https://www.fool.com/investing/2026/03/18/a-450-billion-opportunity-is-this-ai-stock-buy-now/)**
-
-Robotics could be the next frontier in the AI revolution.
-
-The Motley Fool • 4h ago
-
----
-
-**[Smith Elementary’s VEX IQ robotics team heading to world championship](https://www.therepublic.com/2026/03/17/smith-elementarys-vex-iq-robotics-team-heading-to-world-championship/)**
-
-A BCSC elementary robotics team over the weekend was crowned state champion in its division, earning a spot in world championship competition in April.
-
-The Republic News • 2d ago
 
 ---
 
@@ -240,7 +238,7 @@ Our Agibot X2 Ultra robot has finally arrived! Together we will unbox this human
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 27 • ⏱️ 22:01 • 8h ago
+👁️ 2K • 💬 27 • ⏱️ 22:01 • 9h ago
 
 ---
 
