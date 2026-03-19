@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-19T20:39:53.894940+00:00'
+updated: '2026-03-19T21:36:59.205918+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - social
 - cryptocurrency
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 20:39 UTC  
+**Last Updated:** March 19, 2026 at 21:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Seen some past posts that people had lost their wallets and this might help those people! If you created a wallet with CoinSpace (now Coin Wallet) around early 2021 and your seed phrase generates a completely different address in MetaMask or any standard tool... you're not crazy. The software had a bug. CoinSpace v3.0.7 (and maybe other versions) incorrectly derived wallet addresses from your seed phrase due to two compounding errors in the code. Your seed phrase can be recovered - but not using it directly. the app just used a broken algorithm to turn it into an address, one that no standard wallet tool replicates. CoinWallet is aware of part of the issue and will point you to a derivation path fix if you report it, but that fix alone doesn't work. The recovery script in the repo handles it correctly. I hit this when I needed to recover 1.55 ETH from a wallet I created in Feb 2021. After weeks of forensics I found the bug and wrote a recovery script. Recovery script: https://github.com/RobMulla/coinspace-eth-recovery Full long writeup about my journey: https://robmulla.substack.com/p/how-my-sons-roblox-mod-helped-me If you're affected, and this works for you please let me know! Or if you knew about this already... I'm curious to know if I'm not the only one.
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Seen some past posts that people had lost their wallets and this might help thos
 
 The top priority is safety and security. The coins to be stored are ETH and USDC (can also be 2 separate wallets for each, I dont mind that). They are to be used for long-term. The wallet will be installed on a external drive which is then removed and stored securely. Wallet is not installed on the computer itself. What are your best recommendations? PS: Yes, I know! Usually people recommend hardware wallets... but I think they are still risky because you put all your trust in just one single company, and sometimes they can do stupid stuff, for example as we've seen some stories with Ledger and their multiple data leaks. I personally feel more comfrotable with a software one, as long as it's safe and secure.
 
-22h ago
+23h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[r/BASE FOUNDER 'AMA' SERIES Week 6 - DEGEN: Join us Thursday March 19th, 2pm ET](https://www.reddit.com/r/ethereum/comments/1rxgcae/rbase_founder_ama_series_week_6_degen_join_us/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1d ago
 
 **[Ethereum (ETH-USD) Price Holds Near $2,130 After Fed Message Cools Rebound Hopes](https://seekingalpha.com/article/4884267-ethereum-price-holds-near-2130-after-fed-message-cools-rebound-hopes)**
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -182,7 +182,7 @@ Seeking Alpha • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -198,13 +198,13 @@ TradingView • 1d ago
 
 Vitalik Buterin said that the 'lean Ethereum' plan was the only way to get faster speed and security without trade-offs.
 
-AMBCrypto • 12h ago
+AMBCrypto • 13h ago
 
 ---
 
 **[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
 
-TipRanks • 16h ago
+TipRanks • 17h ago
 
 ---
 
@@ -212,7 +212,7 @@ TipRanks • 16h ago
 
 MAJURO, Marshall Islands, March  19, 2026  (GLOBE NEWSWIRE) -- Remittix has raised $29.7 million in its final presale stage with $30 million withi...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 EllioTrades
 
-👁️ 4K • 👍 126 • 💬 39 • ⏱️ 1:07 • 6h ago
+👁️ 4K • 👍 126 • 💬 39 • ⏱️ 1:07 • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 130 • 💬 6 • ⏱️ 4:15 • 18h ago
+👁️ 2K • 👍 130 • 💬 6 • ⏱️ 4:15 • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ In this live technical analysis session, The Trading Parrot breaks down BTC, ETH
 
 📺 The Trading Parrot
 
-👁️ 1K • 👍 134 • 💬 7 • ⏱️ 1:10:26 • 6h ago
+👁️ 1K • 👍 134 • 💬 7 • ⏱️ 1:10:26 • 7h ago
 
 ---
 
@@ -272,7 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 171 • 👍 16 • 💬 1 • ⏱️ 5:34 • 10h ago
+👁️ 171 • 👍 16 • 💬 1 • ⏱️ 5:34 • 11h ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 7K • 👍 285 • 💬 63 • ⏱️ 17:24 • 18h ago
+👁️ 7K • 👍 285 • 💬 63 • ⏱️ 17:24 • 19h ago
 
 ---
 
@@ -302,7 +302,7 @@ Crypto insiders debate the Ethereum Foundation's new “CROPS” mandate: is the
 
 📺 Unchained
 
-👁️ 500 • 👍 20 • 💬 7 • ⏱️ 1:11:22 • 4h ago
+👁️ 500 • 👍 20 • 💬 7 • ⏱️ 1:11:22 • 5h ago
 
 ---
 
@@ -312,7 +312,7 @@ BMNR has been increasing their pace of ETH purchase and stacking cash over the l
 
 📺 Elijah Cheng
 
-👁️ 1K • 👍 73 • 💬 9 • ⏱️ 33:20 • 6h ago
+👁️ 1K • 👍 73 • 💬 9 • ⏱️ 33:20 • 7h ago
 
 ---
 
@@ -322,7 +322,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 59 • 👍 9 • 💬 3 • ⏱️ 8:24 • 5h ago
+👁️ 59 • 👍 9 • 💬 3 • ⏱️ 8:24 • 6h ago
 
 ---
 

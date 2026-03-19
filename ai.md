@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-19T20:39:53.881689+00:00'
+updated: '2026-03-19T21:36:59.191409+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 19, 2026 at 20:39 UTC  
+**Last Updated:** March 19, 2026 at 21:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Researchers at UCLA's Institute of the Environment and Sustainability have developed the most high-resolution statewide maps of California's kelp forests to date, giving researchers, conservationists and community members unprecedented access to information essential to maintaining coastal ecosystems and the communities they support. By applying AI deep learning to Planet's Dove satellite constellation, the team has created a map 10 times more detailed than previous standard satellite records, offering a more precise way to monitor the condition of kelp along the California coastline and the success of conservation efforts. "Refined spatial resolution of kelp canopy monitoring has become increasingly important for assessing the efficacy of experimental restoration techniques and managing kelp harvest, particularly in areas where persisting kelp is sparse," said Dr. Kristen Elsmore, senior scientist with California Department of Fish and Wildlife, the state's primary agency responsible for managing California's kelp forest resources. Recent declines in kelp abundance have threatened the foundation of California's coastal ecosystems and economy. California's kelp forests support thriving fisheries, protect marine biodiversity and attract significant revenue through recreational snorkeling and scuba diving. They also play a crucial role in sustainability by contributing to nutrient cycling and carbon sequestration. This project represents a massive leap in conservation technology. While existing methods provide valuable long-term records, their 30-meter resolution can miss fine-scale patterns. When analyzing data from the new high-resolution map, the researchers found striking regional variability in kelp persistence following the 2014–2016 marine heat wave, one of the most severe warming events ever recorded along the U.S. West Coast. Kelp forests in Sonoma and Mendocino counties suffered losses of greater than 90% and remain at historically low levels ... "These high-resolution data can also be used to track small-scale restoration, helping guide management and support kelp forest resilience," lead author Kate Cavanaugh said. By identifying exactly where kelp is struggling or thriving based on local factors like ocean temperature and depth, conservationists can now implement an expanded suite of strategies within the state's Kelp Restoration and Management Plan.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 5h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Researchers at UCLA's Institute of the Environment and Sustainability have devel
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
-🔗 [Perplexity AI](https://www.perplexity.ai/search/explain-in-full-detail-the-ins-nAG695JNRMCXwG.GiK3uYQ) • 4h ago
+🔗 [Perplexity AI](https://www.perplexity.ai/search/explain-in-full-detail-the-ins-nAG695JNRMCXwG.GiK3uYQ) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 MIT researchers have spent more than a decade studying techniques that enable robots to find and manipulate hidden objects by "seeing" through obstacles. Their methods utilize surface-penetrating wireless signals that reflect off concealed items. Now, the researchers are leveraging generative artificial intelligence models to overcome a longstanding bottleneck that limited the precision of prior approaches. The result is a new method that produces more accurate shape reconstructions, which could improve a robot's ability to reliably grasp and manipulate objects that are blocked from view. This new technique builds a partial reconstruction of a hidden object from reflected wireless signals and fills in the missing parts of its shape using a specially trained generative AI model. The researchers also introduced an expanded system that uses generative AI to accurately reconstruct an entire room, including all the furniture. The system utilizes wireless signals sent from one stationary radar, which reflect off humans moving in the space. This overcomes one key challenge of many existing methods, which require a wireless sensor to be mounted on a mobile robot to scan the environment. And unlike some popular camera-based techniques, their method preserves the privacy of people in the environment. These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction. "What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes," says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. "We are using AI to finally unlock wireless vision."
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 5h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ MIT researchers have spent more than a decade studying techniques that enable ro
 
 This paper critiques the limitations of current AI and introduces a new learning model inspired by biological brains. The authors propose a framework that combines two key methods: System A, which learns by watching, and System B, which learns by doing. To manage these, they include System M, a control unit that decides which learning style to use based on the situation. By mimicking how animals and humans adapt to the real world over time, the authors aim to create AI that can learn more independently.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 17h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ This paper critiques the limitations of current AI and introduces a new learning
 
 Heart disease is the leading cause of adult death worldwide, making cardiovascular disease diagnosis and management a global health priority. An echocardiogram, or cardiac ultrasound, is one of the most commonly used imaging tools employed by physicians to diagnose a variety of heart diseases and conditions. Most standard echocardiograms provide two-dimensional visual images (2D) of the three-dimensional (3D) cardiac anatomy. These echocardiograms often capture hundreds of 2D slices or views of a beating heart that can enable physicians to make clinical assessments about the function and structure of the heart. To improve diagnostic accuracy of cardiac conditions, researchers from UC San Francisco set out to determine whether deep neural networks (DNNs), a type of AI algorithm, could be re-designed to better capture complex 3D anatomy and physiology from multiple imaging views simultaneously. They developed a new "multiview" DNN structure—or architecture—to enable it to draw information from multiple imaging views at once, rather than the current approach of using only a single view. They then trained demonstration DNNs using this architecture to detect disease states for three cardiovascular conditions: left and right ventricular abnormalities, diastolic dysfunction, and valvular regurgitation. In a study published March 17 in Nature Cardiovascular Research, the researchers compared the performance of DNNs that analyzed data from either single view or multiple views of the echocardiograms from UCSF and the Montreal Heart Institute. They found that DNNs trained on multiple views improved diagnostic accuracy compared to DNNs trained on any single view, demonstrating that AI models combining information from multiple imaging views simultaneously better captured the disease state of these heart conditions. "Until now, AI has primarily been used to analyze one 2D view at a time—from either images or videos—which limits an AI algorithm's ability to learn disease-relevant information between views," said senior study author Geoffrey Tison, MD, MPH, a cardiologist and co-director of the UCSF Center for Biosignal Research. "DNN architectures that can integrate information across multiple high-resolution views represent a significant step toward maximizing AI performance in medical imaging. In the case of echocardiography, most diagnoses necessitate considering information from more than one view because the information from any single view tells only part of the story."
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-standard-cardiac-imaging.html) • 5h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-standard-cardiac-imaging.html) • 6h ago
 
 ---
 
@@ -81,7 +81,7 @@ Heart disease is the leading cause of adult death worldwide, making cardiovascul
 
 Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agents can be hijacked mid-task through the content they process. Every existing defense operates at the reasoning layer and can be bypassed. Sentinel enforces at the execution layer, structurally, not probabilistically. The agent cannot act outside its authorized boundary regardless of what it's told. You can visit sentinel-gateway.com for more info Loom link contains a short video that introduces Sentinel Gateway UI and how system operates based on 3-4 different prompt injection attempts and agent response. Sentinel eliminates any and all security risk associated with regard to AgenticAI. #AIAgent #AgenticAI #AISecurity #CyberSecurity #PromptInjection
 
-🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 13h ago
+🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 14h ago
 
 ---
 
@@ -131,7 +131,7 @@ BBC • 1d ago
 
 **[Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.](https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 11h ago
 
 Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.
 
-WIRED • 6h ago
+WIRED • 7h ago
 
 ---
 
@@ -147,7 +147,7 @@ WIRED • 6h ago
 
 Noble Mobile CEO Andrew Yang and The Federalist elections correspondent Brianna Lyman discuss the future of the labor force as artificial intelligence advances on ‘Making Money.’
 
-Fox Business • 8m ago
+Fox Business • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Fox Business • 8m ago
 
 Mike Smith pleaded guilty to defrauding music-streaming services out of $8 million with AI-generated songs.
 
-Rolling Stone • 1h ago
+Rolling Stone • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 1h ago
 
 **[Congress moves to scrutinize AI use in federal court](https://www.politico.com/live-updates/2026/03/19/congress/bipartisan-bill-to-scrutinize-ai-use-in-federal-courts-00836316)**
 
-Politico • 2h ago
+Politico • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ Politico • 2h ago
 
 Start building real apps for the modern web with the Antigravity coding agent and Firebase integration now in Google AI Studio.
 
-blog.google • 4h ago
+blog.google • 5h ago
 
 ---
 
@@ -183,7 +183,7 @@ blog.google • 4h ago
 
 Who is the better tourney predictor: man or machine?
 
-Yahoo Sports • 5h ago
+Yahoo Sports • 6h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Sports • 5h ago
 
 CEO Kris Marszalek said the layoffs were in "roles that do not adapt in our new world" as the company integrates enterprise-wide AI.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 6h ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 718 • 💬 186 • 1d ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 718 • 💬 186 • 2d ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -237,7 +237,7 @@ We critically examine the limitations of current AI models in achieving autonomo
 
 Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
 
-⬆️ 182 • 💬 174 • 15h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+⬆️ 182 • 💬 174 • 16h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
 
 ---
 
@@ -261,7 +261,7 @@ interview: Codestrap founders say we need to dial down the hype and sort through
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 75 • 💬 51 • 1h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 75 • 💬 51 • 2h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
@@ -291,7 +291,7 @@ Create AI UGC Ads with AI Influencers Sora 2 and Nano Banana 2 Create your own A
 
 📺 Dan Kieft
 
-👁️ 6K • 💬 5 • ⏱️ 12:08 • 3h ago
+👁️ 6K • 💬 5 • ⏱️ 12:08 • 4h ago
 
 ---
 
@@ -311,7 +311,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 12K • 👍 615 • 💬 81 • ⏱️ 30:05 • 5h ago
+👁️ 12K • 👍 615 • 💬 81 • ⏱️ 30:05 • 6h ago
 
 ---
 
@@ -331,7 +331,7 @@ Nearly a year after his death, actor Val Kilmer will return to the screen as an 
 
 📺 TODAY
 
-👁️ 4K • 👍 57 • 💬 29 • ⏱️ 2:52 • 7h ago
+👁️ 4K • 👍 57 • 💬 29 • ⏱️ 2:52 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ The company that promised AI would do the job of 10 people, can't even do the jo
 
 📺 Mo Bitar
 
-👁️ 49K • 👍 4K • 💬 738 • ⏱️ 7:16 • 8h ago
+👁️ 49K • 👍 4K • 💬 738 • ⏱️ 7:16 • 9h ago
 
 ---
 
@@ -351,7 +351,7 @@ Grok AI has stopped free video generation — but don't worry, I'll show you bet
 
 📺 Josephs AI
 
-👁️ 20K • 👍 857 • 💬 308 • ⏱️ 4:06 • 11h ago
+👁️ 20K • 👍 857 • 💬 308 • ⏱️ 4:06 • 12h ago
 
 ---
 
@@ -371,7 +371,7 @@ Why So Serious ??? Wahh bestnya diorang dapt duit raya.
 
 📺 Alieff Irfan
 
-👁️ 276K • 👍 17K • 💬 548 • ⏱️ 39:45 • 7h ago
+👁️ 276K • 👍 17K • 💬 548 • ⏱️ 39:45 • 8h ago
 
 ---
 
@@ -469,7 +469,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 704 • ❤️ 229 • 10h ago
+⬇️ 704 • ❤️ 229 • 11h ago
 
 ---
 
@@ -668,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.6k • 🔱 1.0k • 23h ago
+⭐ 21.6k • 🔱 1.0k • 1d ago
 
 ---
 
@@ -678,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.7k • 🔱 1.6k • 5h ago
+⭐ 12.7k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -698,7 +698,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.0k • 🔱 725 • 4h ago
+⭐ 10.0k • 🔱 725 • 5h ago
 
 ---
 
@@ -718,7 +718,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.1k • 🔱 710 • 54m ago
+⭐ 5.1k • 🔱 710 • 1h ago
 
 ---
 
@@ -738,7 +738,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.5k • 🔱 339 • 1h ago
+⭐ 3.5k • 🔱 339 • 2h ago
 
 ---
 

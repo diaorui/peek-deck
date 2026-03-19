@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-19T20:39:53.889608+00:00'
+updated: '2026-03-19T21:36:59.199964+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - social
 - cryptocurrency
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 20:39 UTC  
+**Last Updated:** March 19, 2026 at 21:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[who remember those guys?](https://www.reddit.com/r/Bitcoin/comments/1rxuwuj/who_remember_those_guys/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 5h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 6h ago
 
 ---
 
 **[Morpheus explains the truth about the simulation](https://www.reddit.com/r/Bitcoin/comments/1rxx6cm/morpheus_explains_the_truth_about_the_simulation/)**
 
-9h ago
+10h ago
 
 ---
 
 **[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -107,7 +107,7 @@ BTQ Technologies has launched the first working BIP 360 implementation on its Bi
 
 This morning the Federal Reserve will release a proposal for revisions to the Basel risk weighting standards. Bitcoin is currently treated as a toxic asset under the Basel standards. A change in the guidance would be a big win for American Bitcoiners. BPI will be in attendance at today’s meeting. We’ll keep you updated on text of the proposal and next steps.
 
-4h ago
+5h ago
 
 ---
 
@@ -115,7 +115,7 @@ This morning the Federal Reserve will release a proposal for revisions to the Ba
 
 A big chunk of my disposable income is going into BTC. I'm in for the long run but just recently got into it. I'm aiming for the .1 in the coming months, I'll keep staking no matter what especially now that the price is low. is the whole coin achievable in the coming years?
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ A big chunk of my disposable income is going into BTC. I'm in for the long run b
 
 Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13,628 Bitcoin, pulling ahead of Tesla which currently sits at 11,509 BTC. The Texas based firm, which disclosed its holdings as part of the company's fourth-quarter and full-year 2025 financial results, is now registering a total value of $960 million in BTC holdings.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 4h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 5h ago
 
 ---
 
@@ -131,7 +131,7 @@ Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13
 
 Hey Bitcoin community I've set myself this goal of reaching one full coin by 2036, which keeps me motivated even during those rough market days. When prices drop I actually get a bit excited knowing I can grab more for my money Currently doing weekly buys of about £220 and crossing my fingers that we don't see massive price jumps too soon, otherwise my timeline might get messed up Been thinking about this while out on my weekend hikes - wondering if there are better ways to go about it? Anyone else working towards similar targets or have tweaks that might help optimize the approach? Would love to hear how others are building their stacks
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ Hey Bitcoin community I've set myself this goal of reaching one full coin by 203
 
 On my podcast ‘Bitcoin for Millennials’ I talked with Dave Weisberger, a 40-year Wall Street veteran. We discuss stock market structure and the “rigged” narrative, 2008 and socialized losses, fiat debasement via the Cantillon effect and asset inflation, Bitcoin as an asymmetric bet and forced transparency versus Dalio’s critiques, and the real blockers to adoption like custody UX and capital gains taxes.
 
-🔗 [youtu.be](https://youtu.be/inPD8UpAC7Q) • 3h ago
+🔗 [youtu.be](https://youtu.be/inPD8UpAC7Q) • 4h ago
 
 ---
 
@@ -147,7 +147,7 @@ On my podcast ‘Bitcoin for Millennials’ I talked with Dave Weisberger, a 40-
 
 European Central Bank advances retail payments rules as EU lawmakers weigh approval and a possible 2029 rollout.
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/03/19/ecb-seeks-experts-to-help-integrate-digital-euro-into-atms-card-payment-terminals) • 5h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/03/19/ecb-seeks-experts-to-help-integrate-digital-euro-into-atms-card-payment-terminals) • 6h ago
 
 ---
 
@@ -159,13 +159,13 @@ European Central Bank advances retail payments rules as EU lawmakers weigh appro
 
 Developers are already working to address quantum risks, and investors shouldn’t mistake a long-term challenge for an immediate threat, according to Galaxy Digital’s head of research Alex Thorn.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
 **[Fed Warning Triggers Sudden Bitcoin Price Crash Fear](https://www.forbes.com/sites/digital-assets/2026/03/19/a-wall-street-giant-just-issued-a-stark-bitcoin-price-warning/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 8h ago
 
 Real estate guru Grant Cardone has hinted that his Cardone Capital company is adopting a monthly Bitcoin-buying strategy. "Cardone Capital [dollar-cost averaging] monthly," Cardone said Monday X post, sharing an AI-generated image of himself in front of a large glowing...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 2h ago
 
 Morgan Stanley's spot Bitcoin ETF will trade under the ticker MSBT on NYSE Arca.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -189,13 +189,13 @@ Bitcoin Magazine • 2h ago
 
 Scammers are now posting fake social media ads in an attempt to discredit warning stickers placed on Bitcoin ATM machines across the Omaha metro, according to Douglas County Sheriff Aaron Hanson.
 
-WOWT • 17h ago
+WOWT • 18h ago
 
 ---
 
 **[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
 
-WATE 6 On Your Side • 22h ago
+WATE 6 On Your Side • 23h ago
 
 ---
 
@@ -239,7 +239,7 @@ Financial Times • 8d ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 1 • 💬 1 • 4h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 1 • 💬 1 • 5h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -291,7 +291,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Play a 2D pixel platformer built to explore self-play and reinforcement learning.
 
-⬆️ 1 • 💬 0 • 12h ago • [rlplays.com](https://rlplays.com/game)
+⬆️ 1 • 💬 0 • 13h ago • [rlplays.com](https://rlplays.com/game)
 
 ---
 
@@ -319,7 +319,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 836 • 💬 90 • ⏱️ 41:39 • 6h ago
+👁️ 13K • 👍 836 • 💬 90 • ⏱️ 41:39 • 7h ago
 
 ---
 
@@ -329,7 +329,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BTCC: https://themoon
 
 📺 The Moon Show
 
-👁️ 7K • 👍 480 • 💬 86 • ⏱️ 5:50 • 8h ago
+👁️ 7K • 👍 480 • 💬 86 • ⏱️ 5:50 • 9h ago
 
 ---
 
@@ -339,7 +339,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 3K • 💬 170 • ⏱️ 16:44 • 16h ago
+👁️ 53K • 👍 3K • 💬 170 • ⏱️ 16:44 • 17h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 843 • 💬 25 • ⏱️ 37:41 • 23h ago
+👁️ 21K • 👍 843 • 💬 25 • ⏱️ 37:41 • 1d ago
 
 ---
 
@@ -359,7 +359,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 72 • ⏱️ 9:25 • 22h ago
+👁️ 32K • 👍 2K • 💬 72 • ⏱️ 9:25 • 23h ago
 
 ---
 
@@ -369,7 +369,7 @@ While retail panic sells, one entity is aggressively accumulating Bitcoin at a h
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 80 • ⏱️ 13:53 • 23h ago
+👁️ 18K • 👍 1K • 💬 80 • ⏱️ 13:53 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ A major clash is unfolding between Chamath and Saylor over Bitcoin's future. One
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 199 • ⏱️ 12:42 • 1d ago
+👁️ 25K • 👍 1K • 💬 199 • ⏱️ 12:42 • 2d ago
 
 ---
 

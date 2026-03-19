@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T20:39:53.897906+00:00'
+updated: '2026-03-19T21:36:59.209103+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 20:39 UTC  
+**Last Updated:** March 19, 2026 at 21:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
 
-3h ago
+4h ago
 
 ---
 
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -56,13 +56,13 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 I integrated the RoboBaton Viobot2 SLAM camera into my drone build. The VIO performance is notably stable, offering reliable visual odometry for autonomous flight applications.
 
-3h ago
+4h ago
 
 ---
 
 **[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -82,7 +82,7 @@ This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) 
 
 **[Legit Tesla robot](https://www.reddit.com/r/robotics/comments/1ry9v81/legit_tesla_robot/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -90,13 +90,13 @@ This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) 
 
 Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 12h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 13h ago
 
 ---
 
 **[Ears cat helmet](https://www.reddit.com/r/robotics/comments/1ry4lte/ears_cat_helmet/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -108,7 +108,7 @@ Tech giants are now deploying robotic dogs to guard massive artificial intellige
 
 Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
 
-The Information • 26m ago
+The Information • 1h ago
 
 ---
 
@@ -116,7 +116,7 @@ The Information • 26m ago
 
 Capitol City Robotics encourages underrepresented kids to learn robotics and other STEM subjects.
 
-WEAU • 2h ago
+WEAU • 3h ago
 
 ---
 
@@ -124,7 +124,7 @@ WEAU • 2h ago
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
@@ -192,7 +192,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 113K • 👍 879 • 💬 92 • ⏱️ 2:02 • 2d ago
+👁️ 113K • 👍 879 • 💬 92 • ⏱️ 2:02 • 3d ago
 
 ---
 
@@ -202,7 +202,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 71K • 👍 978 • 💬 294 • ⏱️ 3:38 • 17h ago
+👁️ 71K • 👍 978 • 💬 294 • ⏱️ 3:38 • 18h ago
 
 ---
 
@@ -212,7 +212,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 19K • 👍 363 • 💬 239 • ⏱️ 2:07 • 9h ago
+👁️ 19K • 👍 363 • 💬 239 • ⏱️ 2:07 • 10h ago
 
 ---
 
@@ -282,7 +282,7 @@ War Robots Gameplay: NEW Guns VELOS on the Ammit are crazy! WR My War Robots Cre
 
 📺 Manni-Gaming
 
-👁️ 3K • 👍 268 • 💬 59 • ⏱️ 22:28 • 7h ago
+👁️ 3K • 👍 268 • 💬 59 • ⏱️ 22:28 • 8h ago
 
 ---
 
