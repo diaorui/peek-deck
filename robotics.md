@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T21:36:59.209103+00:00'
+updated: '2026-03-19T22:31:05.833625+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 21:36 UTC  
+**Last Updated:** March 19, 2026 at 22:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,13 +42,19 @@ Robotics research and industry news
 
 Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
 
-4h ago
+5h ago
+
+---
+
+**[Legit Tesla robot](https://www.reddit.com/r/robotics/comments/1ry9v81/legit_tesla_robot/)**
+
+2h ago
 
 ---
 
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -56,7 +62,7 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 I integrated the RoboBaton Viobot2 SLAM camera into my drone build. The VIO performance is notably stable, offering reliable visual odometry for autonomous flight applications.
 
-4h ago
+5h ago
 
 ---
 
@@ -80,23 +86,19 @@ This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) 
 
 ---
 
-**[Legit Tesla robot](https://www.reddit.com/r/robotics/comments/1ry9v81/legit_tesla_robot/)**
-
-2h ago
-
----
-
 **[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://www.reddit.com/r/robotics/comments/1rxuoek/robot_dogs_priced_at_300000_a_piece_are_now/)**
 
 Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 13h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 14h ago
 
 ---
 
-**[Ears cat helmet](https://www.reddit.com/r/robotics/comments/1ry4lte/ears_cat_helmet/)**
+**[Test my robot control interface](https://www.reddit.com/r/robotics/comments/1rydniz/test_my_robot_control_interface/)**
 
-5h ago
+I've got an unusual type of robot - a cable driven parallel robot - and a control panel to drive it. the control panel connects to robot telemetry and sends commands. Let me know what you think, or even better, try to break it. Yes, there's not much to it right now, it just moves around, but I greatly appreciate your critique and first impressions.
+
+🔗 [neufangled.com](https://neufangled.com/control_panel?robotid=sim) • 37m ago
 
 ---
 
@@ -104,19 +106,19 @@ Tech giants are now deploying robotic dogs to guard massive artificial intellige
 
 ## Google News: "robotics"
 
+**[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
+
+The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
+
+CNBC • 25m ago
+
+---
+
 **[Amazon Acquires Robotics Startup, Boosting Efforts to Streamline Deliveries](https://www.theinformation.com/articles/amazon-acquires-robotics-startup-boosting-efforts-streamline-deliveries)**
 
 Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
 
-The Information • 1h ago
-
----
-
-**[The Good Side: From Robotics to Resilience](https://www.weau.com/2026/03/19/good-side-robotics-resilience/)**
-
-Capitol City Robotics encourages underrepresented kids to learn robotics and other STEM subjects.
-
-WEAU • 3h ago
+The Information • 2h ago
 
 ---
 
@@ -124,7 +126,37 @@ WEAU • 3h ago
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 16h ago
+The Guardian • 17h ago
+
+---
+
+**[Ranked: The Companies Shipping the Most Humanoid Robots](https://www.visualcapitalist.com/ranked-the-companies-shipping-the-worlds-humanoid-robots/)**
+
+From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
+
+Visual Capitalist • 2d ago
+
+---
+
+**[Inside the AI labs training China’s humanoid robots](https://www.ft.com/content/85bca5c7-f64b-4011-bc7c-9ce3254a2b78?syn-25a6b1a6=1)**
+
+Network of training farms aims to supply data needed to put ‘brains’ into machines
+
+Financial Times • 8d ago
+
+---
+
+**[50 startups transforming industries with physical AI](https://www.bvp.com/atlas/50-startups-transforming-industries-with-physical-ai)**
+
+After decades of promise, autonomous systems and robotics are moving from labs to factory floors and households — powered by breakthroughs in AI and hardware.
+
+Bessemer Venture Partners • 5h ago
+
+---
+
+**[The Good Side: From Robotics to Resilience](https://www.13abc.com/video/2026/03/19/good-side-robotics-resilience/)**
+
+WTVG • 4h ago
 
 ---
 
@@ -144,41 +176,11 @@ NVIDIA Blog • 1d ago
 
 ---
 
-**[Humanoid Military Robots Deployed to Ukraine for Battlefield Testing](https://www.eweek.com/news/humanoid-robots-ukraine-battlefield-testing/)**
+**[Delivery Robot Dogpiled on the Streets of Philly](https://futurism.com/robots-and-machines/delivery-robot-philadelphia)**
 
-Foundation has reportedly delivered two Phantom MK-1 humanoid robots to Ukraine for battlefield testing as robotic warfare expands.
+One little bot learned the tagline "city of brotherly love" only applies to humans, not food delivery robots.
 
-eWeek • 2d ago
-
----
-
-**[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Gecko Robotics lands the largest US Navy robotics deal yet](https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/)**
-
-Gecko Robotics inked a five-year deal to help the U.S. Navy monitor and predict needed maintenance on its fleet of ships.
-
-TechCrunch • 2d ago
-
----
-
-**[Watch: Wall-climbing AI robots inspect Navy warships to speed repairs amid China fleet surge](https://www.foxnews.com/video/6390792906112)**
-
-See how advanced robotics are scaling destroyers and amphibious ships to detect structural problems faster than traditional methods — part of a new $71 million Navy initiative to boost readiness and cut maintenance delays. (Credit: Gecko Robotics)
-
-Fox News • 2d ago
-
----
-
-**[Ranked: The Companies Shipping the Most Humanoid Robots](https://www.visualcapitalist.com/ranked-the-companies-shipping-the-worlds-humanoid-robots/)**
-
-From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
-
-Visual Capitalist • 2d ago
+Futurism • 9h ago
 
 ---
 
@@ -192,7 +194,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 113K • 👍 879 • 💬 92 • ⏱️ 2:02 • 3d ago
+👁️ 116K • 👍 897 • 💬 98 • ⏱️ 2:02 • 3d ago
 
 ---
 
@@ -202,7 +204,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 71K • 👍 978 • 💬 294 • ⏱️ 3:38 • 18h ago
+👁️ 80K • 👍 1K • 💬 323 • ⏱️ 3:38 • 19h ago
 
 ---
 
@@ -212,7 +214,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 19K • 👍 363 • 💬 239 • ⏱️ 2:07 • 10h ago
+👁️ 23K • 👍 427 • 💬 270 • ⏱️ 2:07 • 11h ago
 
 ---
 
@@ -222,7 +224,7 @@ Flagrant is a comedy show that delivers unfiltered, unapologetic, and unruly hot
 
 📺 FLAGRANT CLIPS
 
-👁️ 57K • 👍 2K • 💬 257 • ⏱️ 16:57 • 2d ago
+👁️ 59K • 👍 2K • 💬 263 • ⏱️ 16:57 • 2d ago
 
 ---
 
@@ -232,17 +234,7 @@ I visited @SundayRobotics to see how they're building a household robot that act
 
 📺 ZAUEY (Claire Zau)
 
-👁️ 25K • 👍 806 • 💬 67 • ⏱️ 15:48 • 6d ago
-
----
-
-**[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
-
-Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
-
-📺 Brighter with Herbert
-
-👁️ 98K • 👍 2K • 💬 317 • ⏱️ 49:45 • 5d ago
+👁️ 26K • 👍 811 • 💬 67 • ⏱️ 15:48 • 6d ago
 
 ---
 
@@ -252,17 +244,17 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 3K • 👍 107 • 💬 3 • ⏱️ 4:39 • 2d ago
+👁️ 3K • 👍 109 • 💬 3 • ⏱️ 4:39 • 2d ago
 
 ---
 
-**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
+**[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
 
-We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
+Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
 
-📺 CNET
+📺 Brighter with Herbert
 
-👁️ 126K • 👍 2K • 💬 128 • ⏱️ 3:35 • 3d ago
+👁️ 99K • 👍 2K • 💬 318 • ⏱️ 49:45 • 5d ago
 
 ---
 
@@ -272,17 +264,27 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 48K • 👍 672 • 💬 81 • ⏱️ 14:52 • 5d ago
+👁️ 48K • 👍 673 • 💬 81 • ⏱️ 14:52 • 5d ago
 
 ---
 
-**[NEW VELOS Guns on AMMIT are INSANE! War Robots](https://www.youtube.com/watch?v=gcxfeY7GmOA)**
+**[Watch Robots ASSEMBLE Car Wheels in SECONDS! 🛞](https://www.youtube.com/watch?v=nqfY8o1DiQY)**
 
-War Robots Gameplay: NEW Guns VELOS on the Ammit are crazy! WR My War Robots Creator Link: https://wr.my.games/manni ...
+Witness the incredible speed and precision of industrial robots as they revolutionize tire and rim assembly on an automated ...
 
-📺 Manni-Gaming
+📺 Peace Working Shorts
 
-👁️ 3K • 👍 268 • 💬 59 • ⏱️ 22:28 • 8h ago
+👁️ 380K • 👍 584 • 💬 10 • ⏱️ 0:06 • 4d ago
+
+---
+
+**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
+
+We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
+
+📺 CNET
+
+👁️ 129K • 👍 2K • 💬 133 • ⏱️ 3:35 • 3d ago
 
 ---
 

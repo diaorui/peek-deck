@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-19T21:36:59.199964+00:00'
+updated: '2026-03-19T22:31:05.824556+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 21:36 UTC  
+**Last Updated:** March 19, 2026 at 22:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,385.49
+### $70,492.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -0.6%  
-**30d:** +6.2%  
-**90d:** -20.2%  
-**1y:** -16.2%  
+**24h:** -1.2%  
+**7d:** -0.8%  
+**30d:** +6.0%  
+**90d:** -20.4%  
+**1y:** -16.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1408.65B
+**Market Cap:** $1408.24B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
@@ -64,7 +64,7 @@ Rank #1
 -44.2%
 
 **All-Time Low:** $67.81
-+103707.7%
++103716.5%
 
 ---
 
@@ -93,21 +93,7 @@ BTQ Technologies has launched the first working BIP 360 implementation on its Bi
 
 **[Morpheus explains the truth about the simulation](https://www.reddit.com/r/Bitcoin/comments/1rxx6cm/morpheus_explains_the_truth_about_the_simulation/)**
 
-10h ago
-
----
-
-**[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
-
-8h ago
-
----
-
-**[Federal Reserve will release a proposal for revisions to the Basel risk weighting standards](https://www.reddit.com/r/Bitcoin/comments/1ry3w34/federal_reserve_will_release_a_proposal_for/)**
-
-This morning the Federal Reserve will release a proposal for revisions to the Basel risk weighting standards. Bitcoin is currently treated as a toxic asset under the Basel standards. A change in the guidance would be a big win for American Bitcoiners. BPI will be in attendance at today’s meeting. We’ll keep you updated on text of the proposal and next steps.
-
-5h ago
+11h ago
 
 ---
 
@@ -115,7 +101,29 @@ This morning the Federal Reserve will release a proposal for revisions to the Ba
 
 A big chunk of my disposable income is going into BTC. I'm in for the long run but just recently got into it. I'm aiming for the .1 in the coming months, I'll keep staking no matter what especially now that the price is low. is the whole coin achievable in the coming years?
 
-3h ago
+4h ago
+
+---
+
+**[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
+
+9h ago
+
+---
+
+**[Federal Reserve will release a proposal for revisions to the Basel risk weighting standards](https://www.reddit.com/r/Bitcoin/comments/1ry3w34/federal_reserve_will_release_a_proposal_for/)**
+
+This morning the Federal Reserve will release a proposal for revisions to the Basel risk weighting standards. Bitcoin is currently treated as a toxic asset under the Basel standards. A change in the guidance would be a big win for American Bitcoiners. BPI will be in attendance at today’s meeting. We’ll keep you updated on text of the proposal and next steps.
+
+6h ago
+
+---
+
+**[Does anyone else…](https://www.reddit.com/r/Bitcoin/comments/1ryd5m3/does_anyone_else/)**
+
+… think the people who make posts or comments like “BTC is going straight $30k this fall” or “BTC is going to skyrocket next month” just sound like complete morons?? You can get some insight from past trends sure.. but that doesn’t mean that those trends will continue in the future. What people fail to realize is that the graph of bitcoin over its entire history is really a graph of everyone’s emotions and willingness to buy/sell at a current price point, given current market conditions for the time. As attitudes and sentiment change, so will the graph and behavior of BTC. With more big money getting into BTC, the behavior of it will change significantly. But it’s really the behavior of aggregate people all over the world, which is driven mostly by emotion and confidence (or lack there of). So the people who claim to know where it is going at anytime just sound stupid to me. That’s all
+
+56m ago
 
 ---
 
@@ -123,7 +131,7 @@ A big chunk of my disposable income is going into BTC. I'm in for the long run b
 
 Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13,628 Bitcoin, pulling ahead of Tesla which currently sits at 11,509 BTC. The Texas based firm, which disclosed its holdings as part of the company's fourth-quarter and full-year 2025 financial results, is now registering a total value of $960 million in BTC holdings.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 5h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 6h ago
 
 ---
 
@@ -131,7 +139,7 @@ Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13
 
 Hey Bitcoin community I've set myself this goal of reaching one full coin by 2036, which keeps me motivated even during those rough market days. When prices drop I actually get a bit excited knowing I can grab more for my money Currently doing weekly buys of about £220 and crossing my fingers that we don't see massive price jumps too soon, otherwise my timeline might get messed up Been thinking about this while out on my weekend hikes - wondering if there are better ways to go about it? Anyone else working towards similar targets or have tweaks that might help optimize the approach? Would love to hear how others are building their stacks
 
-3h ago
+4h ago
 
 ---
 
@@ -139,15 +147,7 @@ Hey Bitcoin community I've set myself this goal of reaching one full coin by 203
 
 On my podcast ‘Bitcoin for Millennials’ I talked with Dave Weisberger, a 40-year Wall Street veteran. We discuss stock market structure and the “rigged” narrative, 2008 and socialized losses, fiat debasement via the Cantillon effect and asset inflation, Bitcoin as an asymmetric bet and forced transparency versus Dalio’s critiques, and the real blockers to adoption like custody UX and capital gains taxes.
 
-🔗 [youtu.be](https://youtu.be/inPD8UpAC7Q) • 4h ago
-
----
-
-**[The European Central Bank seeks experts to help integrate digital euro into ATMs, card payment terminals. CBDCs are coming - Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ry3c5j/the_european_central_bank_seeks_experts_to_help/)**
-
-European Central Bank advances retail payments rules as EU lawmakers weigh approval and a possible 2029 rollout.
-
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/03/19/ecb-seeks-experts-to-help-integrate-digital-euro-into-atms-card-payment-terminals) • 6h ago
+🔗 [youtu.be](https://youtu.be/inPD8UpAC7Q) • 5h ago
 
 ---
 
@@ -155,33 +155,43 @@ European Central Bank advances retail payments rules as EU lawmakers weigh appro
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s quantum threat is real, but far from an existential crisis, Galaxy says](https://www.coindesk.com/tech/2026/03/19/bitcoin-s-quantum-threat-is-real-but-far-from-an-existential-crisis-galaxy-says)**
+**[Bitcoin (BTC) price news: Hold onto "dry powder" while prices swing, says one analyst](https://www.coindesk.com/markets/2026/03/19/bitcoin-holds-usd69-000-as-gold-tumbles-oil-spikes-but-analyst-says-stay-on-sidelines)**
 
-Developers are already working to address quantum risks, and investors shouldn’t mistake a long-term challenge for an immediate threat, according to Galaxy Digital’s head of research Alex Thorn.
+While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off "dry powder" while prices swing wildly on headlines, said Wintermute's Bryan Tan.
 
-CoinDesk • 11h ago
-
----
-
-**[Fed Warning Triggers Sudden Bitcoin Price Crash Fear](https://www.forbes.com/sites/digital-assets/2026/03/19/a-wall-street-giant-just-issued-a-stark-bitcoin-price-warning/)**
-
-Forbes • 9h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Grant Cardone Teases Monthly Bitcoin Buying As BTC Shines Amid Iran War](https://finance.yahoo.com/markets/crypto/articles/grant-cardone-teases-monthly-bitcoin-183406053.html)**
+**[Bitcoin Could Drop 25%, Or Jump 120%. Welcome to Crypto's 2026 Grind.](https://www.investopedia.com/the-price-of-bitcoin-could-drop-25-percent-or-jump-120-percent-welcome-to-cryptos-2026-grind-11928359)**
 
-Real estate guru Grant Cardone has hinted that his Cardone Capital company is adopting a monthly Bitcoin-buying strategy. "Cardone Capital [dollar-cost averaging] monthly," Cardone said Monday X post, sharing an AI-generated image of himself in front of a large glowing...
+The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
 
-Yahoo Finance • 3h ago
+Investopedia • 2d ago
 
 ---
 
-**[Morgan Stanley Bitcoin Trust to Trade as MSBT on NYSE Arca](https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-to-trade-as-msbt)**
+**[Morgan Stanley Prepares Bitcoin ETF for NYSE Arca Launch, Picking MSBT Ticker](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-prepares-bitcoin-etf-200819851.html)**
 
-Morgan Stanley's spot Bitcoin ETF will trade under the ticker MSBT on NYSE Arca.
+Morgan Stanley updated its Bitcoin ETF S-1 filing, adding Fidelity as custodian and revealing the NYSE Arca ticker MSBT.
 
-Bitcoin Magazine • 3h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[North Carolina Lawmakers Propose State Bitcoin Reserve](https://bitcoinmagazine.com/news/north-carolina-propose-bitcoin-reserve)**
+
+North Carolina lawmakers introduced legislation to create a state-controlled Bitcoin reserve.
+
+Bitcoin Magazine • 56m ago
+
+---
+
+**[Coinbase's (COIN) asset manager bring its bitcoin (BTC) yield fund onchain with Apex](https://www.coindesk.com/business/2026/03/19/coinbase-s-bitcoin-yield-fund-goes-onchain-with-apex-s-tokenization-push)**
+
+The Coinbase Bitcoin Yield Fund's tokenized share class runs on Base as the $3.5 trillion fund services giant Apex applies tokenization across its business.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -189,7 +199,13 @@ Bitcoin Magazine • 3h ago
 
 Scammers are now posting fake social media ads in an attempt to discredit warning stickers placed on Bitcoin ATM machines across the Omaha metro, according to Douglas County Sheriff Aaron Hanson.
 
-WOWT • 18h ago
+WOWT • 19h ago
+
+---
+
+**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
+
+Bloomberg.com • 12h ago
 
 ---
 
@@ -207,27 +223,11 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin Could Drop 25%, Or Jump 120%. Welcome to Crypto's 2026 Grind.](https://www.investopedia.com/the-price-of-bitcoin-could-drop-25-percent-or-jump-120-percent-welcome-to-cryptos-2026-grind-11928359)**
+**[Bitcoin OGs dump over $100 million in BTC after hawkish Fed dents rate cut hopes](https://www.coindesk.com/markets/2026/03/19/bitcoin-ogs-dump-over-usd100-million-in-btc-after-hawkish-fed-dents-rate-cut-hopes)**
 
-The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
+OGs sell as Fed's hawkish stance on rates pressures crypto and other risk assets.
 
-Investopedia • 1d ago
-
----
-
-**[SEC Names Bitcoin, Ether, Solana and 13 More Crypto Assets Digital Commodities — Not Securities](https://www.fintechweekly.com/news/sec-bitcoin-ether-solana-digital-commodities-not-securities-march-2026)**
-
-The SEC and CFTC issued a joint 68-page interpretation on March 17 explicitly naming 16 crypto assets as digital commodities. Staking, mining and airdrops ar...
-
-FinTech Weekly • 1d ago
-
----
-
-**[Legal battle intensifies over £3bn bitcoin haul seized by British police](https://www.ft.com/content/b580bced-7f81-4636-b8c6-a0b200ed2bd9?syn-25a6b1a6=1)**
-
-Victims of Chinese crypto fraud fight to stop Treasury capturing inflated value of the currency
-
-Financial Times • 8d ago
+CoinDesk • 15h ago
 
 ---
 
@@ -239,7 +239,7 @@ Financial Times • 8d ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 1 • 💬 1 • 5h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 2 • 💬 0 • 5h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -257,19 +257,11 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 ---
 
-**[Bitcoin Custody Tools (Free)](https://news.ycombinator.com/item?id=47357926)**
-
-Browser-based tools for PSBT construction, transaction broadcasting, and BIP-39 mnemonic visualization. Client-side only — no data leaves your device.
-
-⬆️ 1 • 💬 0 • 6d ago • [Frozen Security](https://frozensecurity.com/tools/)
-
----
-
 **[Show HN: System that rediscovers physics laws from raw data autonomously](https://news.ycombinator.com/item?id=47418949)**
 
 Open archive of autonomous scientific discovery experiments.
 
-⬆️ 1 • 💬 2 • 1d ago • [protoscience.ai](https://protoscience.ai)
+⬆️ 1 • 💬 2 • 2d ago • [protoscience.ai](https://protoscience.ai)
 
 ---
 
@@ -291,7 +283,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Play a 2D pixel platformer built to explore self-play and reinforcement learning.
 
-⬆️ 1 • 💬 0 • 13h ago • [rlplays.com](https://rlplays.com/game)
+⬆️ 1 • 💬 0 • 14h ago • [rlplays.com](https://rlplays.com/game)
 
 ---
 
@@ -299,7 +291,7 @@ Play a 2D pixel platformer built to explore self-play and reinforcement learning
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 0 • 18h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 0 • 19h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -319,17 +311,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 836 • 💬 90 • ⏱️ 41:39 • 7h ago
-
----
-
-**[DISASTER DAY FOR BITCOIN ](https://www.youtube.com/watch?v=2lTu3kj5d3Q)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BTCC: https://themoon.co/BTCCtms Enjoy up to 30000 ...
-
-📺 The Moon Show
-
-👁️ 7K • 👍 480 • 💬 86 • ⏱️ 5:50 • 9h ago
+👁️ 15K • 👍 892 • 💬 128 • ⏱️ 41:39 • 8h ago
 
 ---
 
@@ -339,7 +321,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 3K • 💬 170 • ⏱️ 16:44 • 17h ago
+👁️ 57K • 👍 4K • 💬 181 • ⏱️ 16:44 • 18h ago
 
 ---
 
@@ -349,17 +331,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 843 • 💬 25 • ⏱️ 37:41 • 1d ago
-
----
-
-**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
-
-0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 32K • 👍 2K • 💬 72 • ⏱️ 9:25 • 23h ago
+👁️ 22K • 👍 860 • 💬 25 • ⏱️ 37:41 • 1d ago
 
 ---
 
@@ -369,27 +341,37 @@ While retail panic sells, one entity is aggressively accumulating Bitcoin at a h
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 80 • ⏱️ 13:53 • 1d ago
+👁️ 18K • 👍 1K • 💬 97 • ⏱️ 13:53 • 1d ago
 
 ---
 
-**[Chamath vs Saylor: Who’s Right About Bitcoin’s Biggest Threat?](https://www.youtube.com/watch?v=uvXvlI3HRlM)**
+**[DISASTER DAY FOR BITCOIN ](https://www.youtube.com/watch?v=2lTu3kj5d3Q)**
 
-A major clash is unfolding between Chamath and Saylor over Bitcoin's future. One side says AI and quantum computing could ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BTCC: https://themoon.co/BTCCtms Enjoy up to 30000 ...
 
-📺 Simply Bitcoin
+📺 The Moon Show
 
-👁️ 25K • 👍 1K • 💬 199 • ⏱️ 12:42 • 2d ago
+👁️ 8K • 👍 510 • 💬 87 • ⏱️ 5:50 • 10h ago
 
 ---
 
-**[Massive News → Bitcoin HIGHER](https://www.youtube.com/watch?v=us5nLWnf2Zc)**
+**[THE UNTHINKABLE Coming VCERY SOON! MEGA HUGE Bitcoin WARNING!!!!!](https://www.youtube.com/watch?v=GKaOKEd1n4Y)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
+
+📺 Jayson Casper
+
+👁️ 4K • 👍 291 • 💬 78 • ⏱️ 9:55 • 9h ago
+
+---
+
+**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
+
+0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 423 • 💬 49 • ⏱️ 1:08 • 2d ago
+👁️ 33K • 👍 2K • 💬 88 • ⏱️ 9:25 • 1d ago
 
 ---
 
@@ -399,7 +381,17 @@ SEC Chairman Paul Atkins joins 'Squawk Box' to discuss the agency's position on 
 
 📺 CNBC Television
 
-👁️ 37K • 👍 477 • 💬 168 • ⏱️ 5:41 • 1d ago
+👁️ 39K • 👍 493 • 💬 168 • ⏱️ 5:41 • 1d ago
+
+---
+
+**[Massive News → Bitcoin HIGHER](https://www.youtube.com/watch?v=us5nLWnf2Zc)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 11K • 👍 425 • 💬 49 • ⏱️ 1:08 • 2d ago
 
 ---
 
@@ -409,7 +401,7 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 386 • 💬 91 • ⏱️ 1:14 • 1d ago
+👁️ 14K • 👍 396 • 💬 92 • ⏱️ 1:14 • 1d ago
 
 ---
 
