@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-19T09:09:36.412975+00:00'
+updated: '2026-03-19T10:07:37.170237+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 09:09 UTC  
+**Last Updated:** March 19, 2026 at 10:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.21B
+**Market Cap:** $263.88B
 Rank #2
 
 **Circulating Supply:** 120,691,801 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.1%
+-55.8%
 
 **All-Time Low:** $0.43
-+501721.1%
++504707.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The top priority is safety and security. The coins to be stored are ETH and USDC (can also be 2 separate wallets for each, I dont mind that). They are to be used for long-term. The wallet will be installed on a external drive which is then removed and stored securely. Wallet is not installed on the computer itself. What are your best recommendations? PS: Yes, I know! Usually people recommend hardware wallets... but I think they are still risky because you put all your trust in just one single company, and sometimes they can do stupid stuff, for example as we've seen some stories with Ledger and their multiple data leaks. I personally feel more comfrotable with a software one, as long as it's safe and secure.
 
-10h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[r/BASE FOUNDER 'AMA' SERIES Week 6 - DEGEN: Join us Thursday March 19th, 2pm ET](https://www.reddit.com/r/ethereum/comments/1rxgcae/rbase_founder_ama_series_week_6_degen_join_us/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
 
-14h ago
+15h ago
 
 ---
 
@@ -152,7 +152,7 @@ EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing inse
 
 A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 6h ago
 
 Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -172,7 +172,7 @@ Barron's • 2d ago
 
 **[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
 
-TipRanks • 5h ago
+TipRanks • 6h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 2d ago
 
 Ethereum has surged 24% in just over a week, breaking above a key resistance with strong volume and signaling renewed bullish momentum. With a bullish structure still intact, attention now shifts to whether ETH can sustain the move toward the $4,956 target or pause for a brief pullback first.Ethere…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -226,33 +226,23 @@ markets.businessinsider.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EbfYJMQ3Mgo)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 777 • 👍 75 • 💬 2 • ⏱️ 4:15 • 6h ago
-
----
-
 **[BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VsplKq_SUII)**
 
 BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 4K • 👍 216 • 💬 40 • ⏱️ 17:24 • 6h ago
+👁️ 5K • 👍 253 • 💬 51 • ⏱️ 17:24 • 7h ago
 
 ---
 
-**[Buying The Ethereum BEAR MARKET Bottom! 213% PROFIT Last Time!](https://www.youtube.com/watch?v=qml9KxnRILA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EbfYJMQ3Mgo)**
 
-OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Trade Confident
+📺 More Crypto Online
 
-👁️ 571 • 👍 20 • 💬 1 • ⏱️ 4:12 • 15h ago
+👁️ 1K • 👍 110 • 💬 3 • ⏱️ 4:15 • 7h ago
 
 ---
 
@@ -262,7 +252,17 @@ BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blo
 
 📺 Marzell Crypto
 
-👁️ 403 • 👍 13 • 💬 32 • ⏱️ 3:03 • 15h ago
+👁️ 442 • 👍 15 • 💬 35 • ⏱️ 3:03 • 16h ago
+
+---
+
+**[Buying The Ethereum BEAR MARKET Bottom! 213% PROFIT Last Time!](https://www.youtube.com/watch?v=qml9KxnRILA)**
+
+OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% ...
+
+📺 Trade Confident
+
+👁️ 603 • 👍 21 • 💬 1 • ⏱️ 4:12 • 16h ago
 
 ---
 
@@ -282,17 +282,7 @@ Brian from Santiment joined me to review the crypto market metrics. We review on
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 223 • 💬 56 • ⏱️ 28:07 • 21h ago
-
----
-
-**[BMNR Just Made a BIG Move | ETH Supply Shock](https://www.youtube.com/watch?v=mNHsvvulSQc)**
-
-BMNR is quietly building one of the largest Ethereum positions in the world, now adding exposure to OpenAI through ORBS.
-
-📺 The Value Thinker
-
-👁️ 13K • 👍 718 • 💬 85 • ⏱️ 15:13 • 1d ago
+👁️ 3K • 👍 224 • 💬 56 • ⏱️ 28:07 • 22h ago
 
 ---
 
@@ -312,7 +302,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 653 • 👍 24 • 💬 1 • ⏱️ 4:15 • 22h ago
+👁️ 684 • 👍 25 • 💬 1 • ⏱️ 4:15 • 23h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=J8mohFQNEew)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 167 • 💬 5 • ⏱️ 5:05 • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Somchanda Bhattacharya Official
 
-👁️ 13K • 👍 1K • ⏱️ 4:23:10 • 9h ago
+👁️ 13K • 👍 1K • ⏱️ 4:23:10 • 10h ago
 
 ---
 

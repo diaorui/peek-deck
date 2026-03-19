@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-19T09:09:36.398396+00:00'
+updated: '2026-03-19T10:07:37.155821+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 19, 2026 at 09:09 UTC  
+**Last Updated:** March 19, 2026 at 10:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Full prompt I gave to Claude Opus 4.6: can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg ? can you put more of a personal spin on it? it should express what it's like to be a LLM Warning: Flashing Visuals (epilepsy)
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Full prompt I gave to Claude Opus 4.6: can you use whatever resources you like, 
 
 I work on AI agents. Not the "here's a ChatGPT wrapper" kind — actual autonomous agents that do tasks on behalf of small businesses. The thing nobody talks about: there's a massive gap between what AI agents can do and who can actually use them. A developer can set up an agent, connect APIs, handle auth, debug when something breaks. A restaurant owner who wants AI to handle their booking confirmations? They can't. Not because the tech isn't there — but because every solution assumes you know what an API key is. This is the gap that matters. The people who would benefit most from AI automation are the people least equipped to set it up. And "just make it simpler" isn't the answer — it's a different product entirely. You need: • Managed infrastructure (they shouldn't know what a server is) • Guardrails that actually work (the agent can't go rogue with their Twilio account) • Failure modes a non-technical person can understand and fix • Trust signals that don't require reading logs We've been learning this the hard way. The tech works. The packaging for real humans is the actual product. For anyone building in this space — what's your experience? Are your users technical, and if not, where do they get stuck?
 
-39m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ I work on AI agents. Not the "here's a ChatGPT wrapper" kind — actual autonomo
 
 Bear with me on this one because I think it's genuinely unsettled. If a buyer's AI agent researches vendors, evaluates options, makes contact, negotiates terms, and returns a recommendation, but a human ultimately signs the contract... who was the customer during all those steps? It matters more than it sounds. If the customer is the human, then the agent is just a tool and you optimize for what the human ultimately cares about. But the human never experienced any of that journey. They just got a shortlist. If the customer is the agent, then you need to think about what makes a company legible to a machine. Not persuasive to a human. Legible to a machine. Clear structure, accurate data, no ambiguity, no spin. The marketing playbook was built for human psychology. Urgency. Social proof. Emotional resonance. None of that works on an agent. An agent doesn't feel FOMO. It doesn't respond to a testimonial from a brand it recognizes. It reads what's there and forms a structured view. I don't think there's a clean answer yet. But the companies treating agents as just another distribution channel for human-optimized content are going to run into a wall. would love to hear whether anyone has thought through this more formally.
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Bear with me on this one because I think it's genuinely unsettled. If a buyer's 
 
 Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agents can be hijacked mid-task through the content they process. Every existing defense operates at the reasoning layer and can be bypassed. Sentinel enforces at the execution layer, structurally, not probabilistically. The agent cannot act outside its authorized boundary regardless of what it's told. Loom link contains a short video that introduces Sentinel Gateway UI and how system operates based on 3-4 different prompt injection attempts and agent response. Sentinel eliminates any and all security risk associated with regard to AgenticAI. #AIAgent #AgenticAI #AISecurity #CyberSecurity #PromptInjection
 
-🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 1h ago
+🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Last week's post about Meta buying Moltbook got a lot of discussion here. I thin
 
 AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 16h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 17h ago
 
 ---
 
@@ -89,7 +89,7 @@ AI companies are turning to quadruped robots, better known as “robot dogs” f
 
 This paper critiques the limitations of current AI and introduces a new learning model inspired by biological brains. The authors propose a framework that combines two key methods: System A, which learns by watching, and System B, which learns by doing. To manage these, they include System M, a control unit that decides which learning style to use based on the situation. By mimicking how animals and humans adapt to the real world over time, the authors aim to create AI that can learn more independently.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 6h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 7h ago
 
 ---
 
@@ -97,7 +97,7 @@ This paper critiques the limitations of current AI and introduces a new learning
 
 I’ve been looking into AI governance for my company recently so wanted to share some of my findings. Apparently PwC put out a report saying 72% of companies have absolutely zero formal AI policy. For startups and small agencies i guess it would probably reach 90%? Even if you’re only a 5-person team, doing nothing is starting to become a liability. Without rules, someone would eventually paste client data, financials, or proprietary code into ChatGPT to save time. Most of these tools train on user inputs, that’s a trouble waiting to happen. You don’t need a 20-page legal manifesto. A basic 3-page Google Doc is plenty. It just needs to cover: Which specific AI tools are approved for work. A Red / Yellow / Green framework for what data can and cannot be pasted into them. Rules for when AI-generated content must be disclosed to clients. Who is in charge of approving new tools. Consequences for violating the policy. Obviously, have a lawyer glance at it before you finalize anything, especially if you handle sensitive data but even writing a DIY version using the bullet points above is 100x better than having nothing.
 
-16h ago
+17h ago
 
 ---
 
@@ -105,7 +105,7 @@ I’ve been looking into AI governance for my company recently so wanted to shar
 
 Quick context: I use AI heavily in daily development, and I got tired of the same loop. Good prompt asking for a feature -> okay-ish answer -> more prompts to patch it -> standards break again -> rework. The issue was not "I need a smarter model." The issue was "I need a repeatable process." The real problem Same pain points every time: AI lost context between sessions it broke project standards on basic things (naming, architecture, style) planning and execution were mixed together docs were always treated as "later" End result: more rework, more manual review, less predictability. What I changed in practice I stopped relying on one giant prompt and split work into clear phases: /pwf-brainstorm to define scope, architecture, and decisions /pwf-plan to turn that into executable phases/tasks optional quality gates: /pwf-checklist /pwf-clarify /pwf-analyze /pwf-work-plan to execute phase by phase /pwf-review for deeper review /pwf-commit-changes to close with structured commits If the task is small, I use /pwf-work, but I still keep review and docs discipline. The rule that changed everything /pwf-work and /pwf-work-plan read docs before implementation and update docs after implementation. Without this, AI works half blind. With this, AI works with project memory. This single rule improved quality the most. References I studied (without copy-pasting) Compound Engineering Superpowers Spec Kit Spec-Driven Development I did not clone someone else's framework. I extracted principles, adapted them to my context, and refined them with real usage. Real results For me, the impact was direct: fewer repeated mistakes less rework better consistency across sessions more output with fewer dumb errors I had days closing 25 tasks (small, medium, and large) because I stopped falling into the same error loop. Project structure that helped a lot I also added a recommended structure in the wiki to improve AI context: one folder for code repos one folder for workspace assets (docs, controls, configs) Then I open both as multi-root in the editor (VS Code or Cursor), almost like a monorepo experience. This helps AI see the full system without turning things into chaos. Links Repository: https://github.com/J-Pster/Psters_AI_Workflow Wiki (deep dive): https://github.com/J-Pster/Psters_AI_Workflow/wiki If you want to criticize, keep it technical. If you want to improve it, send a PR.
 
-🔗 [GitHub](https://github.com/J-Pster/Psters_AI_Workflow) • 13h ago
+🔗 [GitHub](https://github.com/J-Pster/Psters_AI_Workflow) • 14h ago
 
 ---
 
@@ -125,7 +125,7 @@ The CEO says artistic control remains with developers.
 
 Consultancy begins overhaul of pricing and services in face of technology undercutting its business
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -141,7 +141,7 @@ blog.google • 15h ago
 
 Pete Kilbane of City of York Council says he was "shocked" to see the fake images.
 
-BBC • 5m ago
+BBC • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ BBC • 5m ago
 
 "The general level of hypervigilance is rising across society," says curator Mark Atkin. "Embedded within each experience is a form of resistance or rebellion."
 
-The Hollywood Reporter • 36m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Hollywood Reporter • 36m ago
 
 Bennington College will host a discussion on how digital technologies and AI are influencing the personal essay genre.
 
-Burlington Free Press • 11m ago
+Burlington Free Press • 1h ago
 
 ---
 
@@ -165,19 +165,19 @@ Burlington Free Press • 11m ago
 
 Long-awaited Alexa+ aims to get Britons re-engaging with their devices – but it may have its work cut out
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
 **[Google Sits Pretty as A.I. Rivals Compete for Pentagon Favor](https://www.nytimes.com/2026/03/18/technology/google-ai-pentagon.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
 **[HSBC Mulls Deep Job Cuts From Multiyear AI-Fueled Overhaul](https://www.bloomberg.com/news/articles/2026-03-19/hsbc-mulls-deep-job-cuts-from-multiyear-ai-fueled-overhaul)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 5h ago
 
 First look at Val Kilmer in his new film "As Deep As the Grave." His performance was AI generated.
 
-Variety • 18h ago
+Variety • 19h ago
 
 ---
 
@@ -193,7 +193,7 @@ Variety • 18h ago
 
 As Deep As the Grave, the true story of 1920s archeologists, will bring late actor back with support from his estate
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -215,7 +215,7 @@ GambleAI
 
 I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...
 
-⬆️ 327 • 💬 399 • 15h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
+⬆️ 327 • 💬 399 • 16h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
 
 ---
 
@@ -231,7 +231,7 @@ The ultimate over-ear listening experience — in five vibrant colors and with 
 
 A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.
 
-⬆️ 249 • 💬 81 • 17h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+⬆️ 249 • 💬 81 • 18h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 
 ---
 
@@ -271,7 +271,7 @@ TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a 
 
 Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
 
-⬆️ 107 • 💬 91 • 4h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+⬆️ 107 • 💬 91 • 5h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
 
 ---
 
@@ -279,7 +279,7 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 Google engineers have been spending the past number of months developing Sashiko as an agentic AI code review system for the Linux kernel
 
-⬆️ 93 • 💬 46 • 16h ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+⬆️ 93 • 💬 46 • 17h ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 
 ---
 
@@ -293,17 +293,7 @@ Dave Rubin of "The Rubin Report" shares a DM clip of Elon Musk explaining to Pet
 
 📺 The Rubin Report
 
-👁️ 209K • 👍 6K • 💬 2K • ⏱️ 6:24 • 1d ago
-
----
-
-**[Meta in crisis: Zuckerberg considers mass layoffs as AI model delayed again | Natasha Bernal](https://www.youtube.com/watch?v=82lO9OYM01M)**
-
-If they don't come up with something that does impress, there is definitely going to be a problem there.” Tech journalist Natasha ...
-
-📺 The Tech Report
-
-👁️ 30K • 👍 840 • 💬 336 • ⏱️ 26:23 • 15h ago
+👁️ 212K • 👍 6K • 💬 2K • ⏱️ 6:24 • 1d ago
 
 ---
 
@@ -313,17 +303,7 @@ Sam Altman just said the architecture behind ChatGPT and most modern AI may soon
 
 📺 AI Revolution
 
-👁️ 100K • 👍 2K • 💬 270 • ⏱️ 11:10 • 1d ago
-
----
-
-**[Why AI Researchers Are Quitting and Panicking on the Way Out](https://www.youtube.com/watch?v=rtT87iAm_SM)**
-
-Top AI researchers are walking away from some of the most powerful tech companies on Earth, and their reasons are raising ...
-
-📺 The Infographics Show
-
-👁️ 491K • 👍 12K • 💬 2K • ⏱️ 14:48 • 2d ago
+👁️ 104K • 👍 3K • 💬 280 • ⏱️ 11:10 • 1d ago
 
 ---
 
@@ -333,17 +313,27 @@ Google DeepMind's AlphaEvolve just broke long-standing mathematical records by e
 
 📺 AI Revolution
 
-👁️ 50K • 👍 1K • 💬 79 • ⏱️ 10:41 • 2d ago
+👁️ 51K • 👍 1K • 💬 80 • ⏱️ 10:41 • 2d ago
 
 ---
 
-**[Daniel Priestley: AI Will Make Plumbers Earn More Than Lawyers! (2029 PREDICTION)](https://www.youtube.com/watch?v=fpETS6q1Hww)**
+**[Why AI Researchers Are Quitting and Panicking on the Way Out](https://www.youtube.com/watch?v=rtT87iAm_SM)**
 
-What is financial freedom? The Business Strategist Daniel Priestley on why AI makes lifestyle businesses easy. Daniel Priestley is ...
+Top AI researchers are walking away from some of the most powerful tech companies on Earth, and their reasons are raising ...
 
-📺 The Diary Of A CEO
+📺 The Infographics Show
 
-👁️ 1.1M • 👍 25K • 💬 4K • ⏱️ 2:02:37 • 3d ago
+👁️ 500K • 👍 12K • 💬 2K • ⏱️ 14:48 • 2d ago
+
+---
+
+**[Best Free &amp; Unlimited AI Video Generator (With Sound)](https://www.youtube.com/watch?v=tvze37NcujM)**
+
+Generate watermark-free 4K cinematic AI videos with Higgsfield → https://higgsfield.ai/s/general-malvaai-aVuWCs Grab the ...
+
+📺 Malva AI
+
+👁️ 11K • 👍 302 • 💬 57 • ⏱️ 8:07 • 21h ago
 
 ---
 
@@ -351,27 +341,7 @@ What is financial freedom? The Business Strategist Daniel Priestley on why AI ma
 
 📺 Danny Rayes
 
-👁️ 503K • 👍 30K • 💬 163 • ⏱️ 0:27 • 14h ago
-
----
-
-**[Ai Robot Takes over Flagrant Podcast](https://www.youtube.com/watch?v=_sQWr9EStZA)**
-
-Flagrant is a comedy show that delivers unfiltered, unapologetic, and unruly hot takes directly to your dome piece. In an era ...
-
-📺 FLAGRANT CLIPS
-
-👁️ 50K • 👍 1K • 💬 230 • ⏱️ 16:57 • 1d ago
-
----
-
-**[Netanyahu War Room Video Fake? Huckabee Face Glitch, Height Fuel AI Debate](https://www.youtube.com/watch?v=-US8xiiPPV8)**
-
-Fresh sightings, but rising doubts continue to surround Benjamin Netanyahu, as a newly released video from the high-security ...
-
-📺 ETimes
-
-👁️ 95K • 👍 833 • 💬 331 • ⏱️ 8:21 • 22h ago
+👁️ 541K • 👍 31K • 💬 169 • ⏱️ 0:27 • 15h ago
 
 ---
 
@@ -381,7 +351,37 @@ NETANYAHU IS ACTUALLY DEAD ! HasanAbi Reacts to AI Video Conspiracy YT @HasanAbi
 
 📺 Hasanabi Clips
 
-👁️ 11K • 👍 285 • 💬 160 • ⏱️ 6:50 • 1d ago
+👁️ 11K • 👍 290 • 💬 165 • ⏱️ 6:50 • 1d ago
+
+---
+
+**[Netanyahu War Room Video Fake? Huckabee Face Glitch, Height Fuel AI Debate](https://www.youtube.com/watch?v=-US8xiiPPV8)**
+
+Fresh sightings, but rising doubts continue to surround Benjamin Netanyahu, as a newly released video from the high-security ...
+
+📺 ETimes
+
+👁️ 115K • 👍 953 • 💬 377 • ⏱️ 8:21 • 23h ago
+
+---
+
+**[Perplexity Computer vs Claude - This AI Agent Blew My Mind!](https://www.youtube.com/watch?v=2nwBDq6L_hc)**
+
+Perplexity just launched something called Perplexity Computer — and it might be the most ambitious AI agent I've tested yet.
+
+📺 The Tech Girl
+
+👁️ 9K • 👍 277 • 💬 20 • ⏱️ 10:37 • 2d ago
+
+---
+
+**[Google&#39;s New AI tool will Transform Video Editing](https://www.youtube.com/watch?v=Rse_2MlMdEc)**
+
+Check out our free course: https://curiousrefuge.com/start-here Get AI News and Tutorials Sent to your Inbox: ...
+
+📺 Curious Refuge
+
+👁️ 10K • 👍 405 • 💬 18 • ⏱️ 11:28 • 14h ago
 
 ---
 
@@ -397,7 +397,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 111,716 • ❤️ 598 • 8d ago
+⬇️ 174,004 • ❤️ 604 • 8d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 78,794 • ❤️ 898 • 11d ago
+⬇️ 104,592 • ❤️ 901 • 11d ago
 
 ---
 
@@ -421,7 +421,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 7,003 • ❤️ 637 • 7d ago
+⬇️ 9,905 • ❤️ 639 • 7d ago
 
 ---
 
@@ -433,7 +433,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 8,716 • ❤️ 309 • 6d ago
+⬇️ 12,191 • ❤️ 311 • 6d ago
 
 ---
 
@@ -445,7 +445,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 36,759 • ❤️ 259 • 4d ago
+⬇️ 58,301 • ❤️ 261 • 4d ago
 
 ---
 
@@ -457,19 +457,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 1,872 • ❤️ 233 • 1d ago
-
----
-
-**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
-
-`9.0B`
-
-⬇️ 254,662 • ❤️ 547 • 15d ago
+⬇️ 5,358 • ❤️ 233 • 1d ago
 
 ---
 
@@ -481,7 +469,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 2,271,977 • ❤️ 919 • 17d ago
+⬇️ 2,589,317 • ❤️ 922 • 17d ago
 
 ---
 
@@ -493,7 +481,19 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 0 • ❤️ 192 • 19h ago
+⬇️ 704 • ❤️ 213 • 8m ago
+
+---
+
+**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
+
+`9.0B`
+
+⬇️ 305,565 • ❤️ 552 • 15d ago
 
 ---
 
@@ -505,7 +505,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 644,452 • ❤️ 674 • 3d ago
+⬇️ 751,665 • ❤️ 678 • 3d ago
 
 ---
 
@@ -522,7 +522,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 101 • 💬 4 • ⭐ 1,806 • 3d ago
+▲ 104 • 💬 4 • ⭐ 1,806 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -548,23 +548,9 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potential impact. However, most relative research focuses on improving an AI scientist's executive capability, while enhancing an AI's scientific taste remains underexplored. In this work, we propose Reinforcement Learning from Community Feedback (RLCF), a training paradigm that uses large-scale community signals as supervision, and formulate scientific taste learning as a preference modeling and alignment problem. For preference modeling, we train Scientific Judge on 700K field- and time-matched pairs of high- vs. low-citation papers to judge ideas. For preference alignment, using Scientific Judge as a reward model, we train a policy model, Scientific Thinker, to propose research ideas with high potential impact. Experiments show Scientific Judge outperforms SOTA LLMs (e.g., GPT-5.2, Gemini 3 Pro) and generalizes to future-year test, unseen fields, and peer-review preference. Furthermore, Scientific Thinker proposes research ideas with higher potential impact than baselines. Our findings show that AI can learn scientific taste, marking a key step toward reaching human-level AI scientists.
 
-▲ 242 • 💬 8 • ⭐ 271 • 3d ago
+▲ 246 • 💬 8 • ⭐ 271 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.14473) • [💻 code](https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste) • [🔗 project](https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/)
-
----
-
-**[Grounding World Simulation Models in a Real-World Metropolis](https://huggingface.co/papers/2603.15583)**
-
-*Junyoung Seo, Hyunwook Choi, Minkyung Kwon et al. (13 authors)*
-
-🏢 NAVER AI Lab
-
-What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
-
-▲ 125 • 💬 4 • ⭐ 317 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
 
 ---
 
@@ -582,6 +568,20 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 ---
 
+**[Grounding World Simulation Models in a Real-World Metropolis](https://huggingface.co/papers/2603.15583)**
+
+*Junyoung Seo, Hyunwook Choi, Minkyung Kwon et al. (13 authors)*
+
+🏢 NAVER AI Lab
+
+What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
+
+▲ 126 • 💬 4 • ⭐ 346 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
+
+---
+
 **[OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165)**
 
 *Yinjie Wang, Xuyang Chen, Xiaolong Jin et al. (5 authors)*
@@ -590,7 +590,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 129 • 💬 6 • ⭐ 3,515 • 8d ago
+▲ 130 • 💬 6 • ⭐ 3,575 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -602,7 +602,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 24 • 💬 1 • ⭐ 32,901 • 14mo ago
+▲ 24 • 💬 1 • ⭐ 33,025 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -628,21 +628,22 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet the development of high-performance search agents remains dominated by industrial giants due to a lack of transparent, high-quality training data. This persistent data scarcity has fundamentally hindered the progress of the broader research community in developing and innovating within this domain. To bridge this gap, we introduce OpenSeeker, the first fully open-source search agent (i.e., model and data) that achieves frontier-level performance through two core technical innovations: (1) Fact-grounded scalable controllable QA synthesis, which reverse-engineers the web graph via topological expansion and entity obfuscation to generate complex, multi-hop reasoning tasks with controllable coverage and complexity. (2) Denoised trajectory synthesis, which employs a retrospective summarization mechanism to denoise the trajectory, therefore promoting the teacher LLMs to generate high-quality actions. Experimental results demonstrate that OpenSeeker, trained (a single training run) on only 11.7k synthesized samples, achieves state-of-the-art performance across multiple benchmarks including BrowseComp, BrowseComp-ZH, xbench-DeepSearch, and WideSearch. Notably, trained with simple SFT, OpenSeeker significantly outperforms the second-best fully open-source agent DeepDive (e.g., 29.5% v.s. 15.3% on BrowseComp), and even surpasses industrial competitors such as Tongyi DeepResearch (trained via extensive continual pre-training, SFT, and RL) on BrowseComp-ZH (48.4% v.s. 46.7%). We fully open-source the complete training dataset and the model weights to democratize frontier search agent research and foster a more transparent, collaborative ecosystem.
 
-▲ 134 • 💬 6 • ⭐ 147 • 2d ago
+▲ 134 • 💬 6 • ⭐ 176 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15594) • [💻 code](https://github.com/rui-ye/OpenSeeker)
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 48 • 💬 2 • ⭐ 50,343 • 10mo ago
+▲ 46 • 💬 1 • ⭐ 73,636 • 30mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -656,7 +657,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 42.6k • 🔱 5.9k • 2d ago
+⭐ 42.8k • 🔱 5.9k • 2d ago
 
 ---
 
@@ -666,7 +667,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.5k • 🔱 1.0k • 12h ago
+⭐ 21.5k • 🔱 1.0k • 13h ago
 
 ---
 
@@ -676,7 +677,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.6k • 🔱 1.6k • 2h ago
+⭐ 12.7k • 🔱 1.6k • 29m ago
 
 ---
 
@@ -686,7 +687,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.2k • 🔱 1.0k • 1d ago
+⭐ 11.3k • 🔱 1.0k • 1d ago
 
 ---
 
@@ -696,7 +697,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.9k • 🔱 718 • 2h ago
+⭐ 10.0k • 🔱 721 • 3h ago
 
 ---
 
@@ -706,7 +707,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.7k • 🔱 420 • 19h ago
+⭐ 8.8k • 🔱 424 • 31m ago
 
 ---
 
@@ -716,7 +717,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 4.7k • 🔱 645 • 2h ago
+⭐ 4.8k • 🔱 663 • 3h ago
 
 ---
 
@@ -726,7 +727,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.2k • 🔱 349 • 1d ago
+⭐ 4.2k • 🔱 354 • 1d ago
 
 ---
 
@@ -736,7 +737,7 @@ Open-source database of 700+ cybersecurity skills for AI agents and security pra
 
 `Python` `agent-skills` `ai-agents` `blue-team` `claude` `claude-code`
 
-⭐ 3.4k • 🔱 333 • 1d ago
+⭐ 3.5k • 🔱 334 • 18m ago
 
 ---
 
@@ -746,7 +747,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.0k • 🔱 194 • 5d ago
+⭐ 3.0k • 🔱 195 • 5d ago
 
 ---
 

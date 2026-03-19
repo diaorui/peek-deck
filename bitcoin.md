@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-19T09:09:36.406931+00:00'
+updated: '2026-03-19T10:07:37.164279+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 09:09 UTC  
+**Last Updated:** March 19, 2026 at 10:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1409.48B
+**Market Cap:** $1409.14B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.2%
+-44.1%
 
 **All-Time Low:** $67.81
-+103636.9%
++103751.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Institutional demand for Bitcoin has risen to its highest level since October, 2025](https://www.reddit.com/r/Bitcoin/comments/1rxanbh/institutional_demand_for_bitcoin_has_risen_to_its/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Guys, this is next level disturbing. The letter obviously has my full name and home address in order to get delivered. The contents of the letter goes on about Trezor’s new “Authentication Code” going into effect here soon and to scan the QR code on the letter to activate it. It had all the legal mumble jumble and very official looking. Be safe out there everyone. Scammers are not only using the internet.
 
-13h ago
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ Guys, this is next level disturbing. The letter obviously has my full name and h
 
 I've been running my own umbrel node and staring at the mempool way too much. And it was not really funny. At some point my brain... "What if every transaction was a vehicle on a highway? Small ones are bikes, big ones are trucks etc, etc The result is TxRush – a real-time mempool visualizer where BTC transactions drive across your screen as vehicles. The bigger the amount, the bigger the ride. Actually not a bad way to learn a thing or two about Bitcoin It's a side project, it's free, no signups, no ads, no tracking. Just mempool traffic as a highway. Works on mobile and desktop. Oh and there's a live BTC price with a 24h chart for all you 3am price checkers out there Roast it, love it, ignore it – I had fun building it either way. Link if you want
 
-17h ago
+18h ago
 
 ---
 
@@ -103,7 +103,7 @@ I've been running my own umbrel node and staring at the mempool way too much. An
 
 Hey r/Bitcoin, My name is Marc, I’m 20 years old, and I want to quickly share my story with you. A while ago I really started learning about Bitcoin and I see in it what many people still don’t see. At first my goal was simple: instead of letting my money sit in a bank savings account, I wanted to use Bitcoin to actually build a future for myself. Meanwhile it has become much more than that. I work full-time as a paramedic (emergency medical technician). Right now I’ve increased my hours to 120% — that means roughly 6 days a week. At these prices I want to earn and stack as much Bitcoin as possible. Currently I’m only 0.00868 BTC away from my first 0.1 Bitcoin. According to my plan I should hit that in about 2 weeks — and I definitely won’t stop there. I also just cashed out an old pension insurance policy that my grandparents set up for me years ago. There was around $4,000 on it. Realistically I would have only received about $40 per month in retirement from it, so I decided to take the money now and put it all into Bitcoin instead. Who knows — maybe this decision will one day change my entire life. With realistic projections I should reach around 0.15 BTC in a few months. If things continue to go well, 0.25 BTC by 2026-2027 feels very achievable. Bitcoin isn’t just an investment for me anymore. It’s the opportunity I want to go all-in on while I’m still young and able to push hard. Thanks for reading.
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ People who dismiss the 4 year cycle got a reality check. I think the power law d
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I’ve been buying BTC through P2P with cash, but the fees/premiums are getting out of hand. It just doesn’t feel worth it anymore at these rates. At the same time, I don’t want to use a CEX or deal with KYC. What are you guys using as alternatives that are still relatively private but not as expensive as P2P?
 
-9h ago
+10h ago
 
 ---
 
@@ -141,7 +141,7 @@ I’ve been buying BTC through P2P with cash, but the fees/premiums are getting 
 
 Is there a website service for that? I want to be able to offer bitcoin as a payment option on my website. Currently, I use Stripe as the main one. I would like to be able to generate invoices from it like Stripe does. Is it possible?
 
-5h ago
+6h ago
 
 ---
 
@@ -149,7 +149,7 @@ Is there a website service for that? I want to be able to offer bitcoin as a pay
 
 Been thinking about this lately while working on some client projects - you don't actually lose anything until you hit that sell button, right What gets me is how many people, especially newer Bitcoin holders, act like a 30% drop means the world's ending. Like mate, even traditional markets crash every decade or so, it's just how things work Too many jumped in expecting BTC to be some magical money printer that never goes down. That's not how any of this works - volatility goes both ways If you're gonna celebrate when we hit £90k or £100k, you better be ready to stomach the £45k dips too. Can't have your cake and eat it
 
-8h ago
+9h ago
 
 ---
 
@@ -161,13 +161,13 @@ Been thinking about this lately while working on some client projects - you don'
 
 Fed chair Jerome Powell said rising energy prices are feeding into the inflation outlook, but "nobody knows" yet how lasting the impact will be.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
 **[Bitcoin Dips Below $70,000 as Energy Prices Surge](https://www.bloomberg.com/news/articles/2026-03-19/bitcoin-dips-below-70-000-as-energy-prices-surge)**
 
-Bloomberg.com • 32m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -175,13 +175,13 @@ Bloomberg.com • 32m ago
 
 Bitcoin (CRYPTO: BTC) is trading around $73,500 after one of its roughest stretches since the 2022 crash. The cryptocurrency hit $126,000 in October 2025 and started 2026 above $90,000. Then lost a third of its value in the space of roughly three months after the U.S. and Israel struck Iran and risk assets sold off ... Bitcoin Price Prediction: We Asked ChatGPT What Bitcoin Will Be Worth by 31 December 2026
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
 **[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
 
-WATE 6 On Your Side • 10h ago
+WATE 6 On Your Side • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ WATE 6 On Your Side • 10h ago
 
 On today's episode of CNBC Crypto World, crypto markets are on pace to outperform Wall Street despite a Wednesday pullback driven by hotter-than-expected wholesale data. Also, the SEC and CFTC issue joint guidance on the regulatory classification of crypto assets. Bam Azizi, CEO of Mesh, discusses what it takes to run a crypto business in a slowdown.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -197,7 +197,7 @@ CNBC • 14h ago
 
 The SEC and CFTC issued a joint 68-page interpretation on March 17 explicitly naming 16 crypto assets as digital commodities. Staking, mining and airdrops ar...
 
-FinTech Weekly • 18h ago
+FinTech Weekly • 19h ago
 
 ---
 
@@ -205,7 +205,7 @@ FinTech Weekly • 18h ago
 
 A UK woman is accused of spying on her husband and stealing $172 million in Bitcoin from his hardware wallet.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -221,13 +221,13 @@ Investopedia • 1d ago
 
 Strategy's STRC-fueled bitcoin buying spree is helping to drive demand but introduces sentiment-sensitive structural risks, according to K33.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
 **[Strategy Faces Key Test It's Failed 3 Times As Bitcoin Price Slips](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -291,7 +291,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Play a 2D pixel platformer built to explore self-play and reinforcement learning.
 
-⬆️ 1 • 💬 0 • 59m ago • [rlplays.com](https://rlplays.com/game)
+⬆️ 1 • 💬 0 • 1h ago • [rlplays.com](https://rlplays.com/game)
 
 ---
 
@@ -299,7 +299,7 @@ Play a 2D pixel platformer built to explore self-play and reinforcement learning
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 0 • 6h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 0 • 7h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -319,7 +319,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 15K • 👍 620 • 💬 2 • ⏱️ 37:41 • 12h ago
+👁️ 16K • 👍 670 • 💬 2 • ⏱️ 37:41 • 13h ago
 
 ---
 
@@ -329,7 +329,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Benjamin Cowen
 
-👁️ 12K • 👍 1K • 💬 62 • ⏱️ 16:44 • 4h ago
+👁️ 24K • 👍 2K • 💬 83 • ⏱️ 16:44 • 5h ago
 
 ---
 
@@ -339,7 +339,7 @@ While retail panic sells, one entity is aggressively accumulating Bitcoin at a h
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 993 • 💬 65 • ⏱️ 13:53 • 12h ago
+👁️ 15K • 👍 1K • 💬 67 • ⏱️ 13:53 • 13h ago
 
 ---
 
@@ -349,17 +349,17 @@ HUGE win for bitcoin clarity in the U.S. NOT coming from the Clarity Act ...
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 397 • 💬 67 • ⏱️ 1:09:50 • 15h ago
+👁️ 10K • 👍 406 • 💬 67 • ⏱️ 1:09:50 • 16h ago
 
 ---
 
-**[Bitcoin to $35 TRILLION? He&#39;s dead serious 💀](https://www.youtube.com/watch?v=Wl3GNK7iAiI)**
+**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
 
-Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
+0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 339 • 💬 91 • ⏱️ 1:14 • 21h ago
+👁️ 24K • 👍 2K • 💬 57 • ⏱️ 9:25 • 11h ago
 
 ---
 
@@ -369,7 +369,27 @@ Bitcoin #Crypto #Finance The SEC and CFTC just made a historic move by defining 
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 513 • 💬 193 • ⏱️ 19:06 • 19h ago
+👁️ 12K • 👍 519 • 💬 198 • ⏱️ 19:06 • 20h ago
+
+---
+
+**[Bitcoin to $35 TRILLION? He&#39;s dead serious 💀](https://www.youtube.com/watch?v=Wl3GNK7iAiI)**
+
+Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
+
+📺 Altcoin Daily
+
+👁️ 12K • 👍 350 • 💬 91 • ⏱️ 1:14 • 22h ago
+
+---
+
+**[Bitcoin: An Unfortunate Pattern [Update]](https://www.youtube.com/watch?v=rKjce1jCxSM)**
+
+It can be tough to be objective in Bitcoin bear markets, especially during countertrend rallies. In this video we look at stablecoin ...
+
+📺 Benjamin Cowen
+
+👁️ 85K • 👍 5K • 💬 273 • ⏱️ 30:12 • 1d ago
 
 ---
 
@@ -379,37 +399,17 @@ SEC Chairman Paul Atkins joins 'Squawk Box' to discuss the agency's position on 
 
 📺 CNBC Television
 
-👁️ 31K • 👍 394 • 💬 144 • ⏱️ 5:41 • 18h ago
+👁️ 32K • 👍 405 • 💬 151 • ⏱️ 5:41 • 19h ago
 
 ---
 
-**[Today’s FOMC Should Terrify You.](https://www.youtube.com/watch?v=crnP4Nx6zKM)**
+**[Buyers Are Flooding Back Into Bitcoin](https://www.youtube.com/watch?v=yJXjMUFSfbM)**
 
-Today's FOMC could change everything for crypto, but not in the way most traders and investors expect. Capital rotating back in ...
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
-📺 Crypto Banter
+📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 37 • ⏱️ 13:25 • 20h ago
-
----
-
-**[Bitcoin Could Go As High As...And Still Be Bearish](https://www.youtube.com/watch?v=C8YTsp-T9Uk)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
-
-📺 Benjamin Cowen
-
-👁️ 27K • 👍 446 • 💬 19 • ⏱️ 0:22 • 1d ago
-
----
-
-**[Massive News → Bitcoin HIGHER](https://www.youtube.com/watch?v=us5nLWnf2Zc)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 10K • 👍 413 • 💬 48 • ⏱️ 1:08 • 1d ago
+👁️ 20K • 👍 1K • 💬 186 • ⏱️ 36:40 • 1d ago
 
 ---
 
